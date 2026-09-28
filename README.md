@@ -3,6 +3,8 @@
 Atlas histórico de consulta de las **191 carpetas de mensuras del partido de San Andrés de Giles** (Provincia de Buenos Aires), conservadas en el Archivo Histórico de Geodesia de la Provincia de Buenos Aires. Reúne en una sola página:
 
 - **Mapa temporal (1825–1925):** polígonos georreferenciados de las mensuras, registro gráfico de c. 1874, planta urbana de 1884, caminos, ferrocarril, tranvía y telégrafo, y el poblamiento dibujado en los planos (casas, puestos, arrendatarios, pulperías, taperas). Las mensuras se pueden colorear por año, por agrimensor, por edificación o según su subdivisión en el registro de 1874. La **imagen satelital actual** queda siempre debajo (también se puede cambiar a OpenStreetMap o quitar el fondo), y cada capa histórica tiene su propia barra de transparencia, igual que el fondo, para leer el territorio de hoy a través de las mensuras del siglo XIX.
+- **Orden y consulta de capas:** cada capa tiene flechas ▲▼ para cambiar el orden de dibujo (la de arriba queda encima) y el orden se recuerda en el navegador. Al tocar cualquier punto del mapa, el panel lista **todas** las mensuras superpuestas en ese lugar (se resaltan juntas, ordenadas por año) y lo que hay en las demás capas visibles: parcela actual, parcela de 1874, pueblo 1884, caminos y puntos de poblamiento cercanos.
+- **Etiquetas por tema y por escala:** números de carpeta y titulares, nombres de caminos, estancias de 1884, poblamiento de los planos, nomenclatura de las parcelas actuales y propietarios del pueblo de 1884. Cada tema se activa por separado, aparece a partir de una escala y las etiquetas que se pisan se descartan, con prioridad para la capa que está más arriba.
 - **Carpetas:** carátula y plano de cada mensura, con visor de zoom y rotación, búsqueda y filtros.
 - **Lecturas:** gráficos sobre la fragmentación parcelaria y el poblamiento, con preguntas abiertas.
 - **Fuentes:** capas, método y advertencias.
@@ -58,6 +60,7 @@ img/sprite_t.jpg            miniaturas de planos (16 × 12 celdas)
 | `parcelas_urbanas_1884` | 488 | Planta del pueblo: propietario y ocupación |
 | `caminos` | 114 | Caminos, ferrocarril, tranvía y telégrafo, con año y mensura de origen |
 | `poblamiento_mensuras` | 732 | Casas, puestos, arrendatarios, pulperías, taperas dibujados en los planos |
+| `parcelas_2024` (`data/parcelas_2024.json`) | 13.661 | Parcelario catastral actual (ARBA): nomenclatura, partida, superficie, urbano/rural y zona COU. Sin titulares ni domicilios |
 | `estancias_puestos_1884` | 102 | Estancias, puestos, pulperías, postas y poblaciones de 1884 |
 
 - Capas originales en POSGAR 2007 / Argentina faja 5 (EPSG:5347), reproyectadas a WGS84 (EPSG:4326). La capa urbana de 1884 declaraba WGS84 pero sus coordenadas estaban en POSGAR: se reproyectó igual.
@@ -74,7 +77,7 @@ img/sprite_t.jpg            miniaturas de planos (16 × 12 celdas)
 - Carpeta 13: la ficha la registra a nombre de Bartolomé Saraví; el SIG, a nombre de Hipólito Quiroga.
 - Carpeta 57: la carátula nombra al agrimensor Enrique Nelson (abril de 1870); en el SIG figura en blanco.
 - Plano elegido con dudas: carpetas 39, 45, 48, 54 y 174. La carpeta 97 no tiene carátula identificable.
-- No se incluye el parcelario catastral vigente completo (ARBA): la lectura «actual» se limita a los 72 polígonos cruzados con nomenclatura y titular.
+- El parcelario 2024 se reproyectó de POSGAR 94 faja 5 (EPSG:22185) a WGS84 y se simplificó (0,4 m urbano, 2 m rural). Por tratarse de datos personales, la web no incluye titulares ni domicilios. `f24` (en `catalog.json`) cuenta las parcelas actuales con más de la mitad de su superficie dentro de cada mensura, y `m24` es su superficie mediana; como las mensuras se superponen, una parcela puede contarse en más de una.
 
 ## Créditos
 
