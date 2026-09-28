@@ -1,0 +1,630 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Atlas de Mensuras de Giles</title>
+<meta name="description" content="Atlas histórico de las 191 mensuras del partido de San Andrés de Giles (Archivo Histórico de Geodesia, Provincia de Buenos Aires): fragmentación parcelaria, poblamiento y caminos del siglo XIX, con carátulas y planos.">
+<meta property="og:title" content="Atlas de Mensuras de Giles">
+<meta property="og:description" content="Mapa temporal, catálogo de carpetas y lecturas de las mensuras del siglo XIX del Pago Gilense.">
+<meta property="og:image" content="img/sprite_ct.jpg">
+<link rel="stylesheet" href="lib/leaflet/leaflet.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+[hidden]{display:none!important}
+html,body{margin:0}
+img{max-width:100%}
+
+/* Layout: aplicación de consulta; banda de encabezado + pestañas; mapa a la izquierda y ficha a la derecha (apila en móvil); catálogo en grilla; visor a pantalla completa. */
+:root{
+  --paper:#E7EBE3;      /* cartulina gris-verde de las carátulas */
+  --sheet:#F3F5F0;      /* hoja interior */
+  --ink:#1D221F;        /* tinta ferrogálica */
+  --muted:#59635C;
+  --line:#C3CBBF;
+  --accent:#1F4E79;     /* azul de Prusia de las telas enteladas */
+  --accent-ink:#F3F5F0;
+  --sel:#B8321F;        /* marca de selección: lacre */
+  --y0:#C9A04A; --y1:#6E8B5A; --y2:#1F4E79; /* rampa temporal 1825 → 1905 */
+  --map-bg:#EEF1EA;
+  --shadow:0 1px 2px rgba(20,30,25,.08),0 6px 24px rgba(20,30,25,.08);
+  --f-display:"IM Fell English","Iowan Old Style","Palatino Linotype",Georgia,serif;
+  --f-body:"Newsreader","Iowan Old Style",Georgia,serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#141917;--sheet:#1B211E;--ink:#E2E7DF;--muted:#9AA69D;--line:#34403A;--accent:#86AEDB;--accent-ink:#0F1412;--sel:#F07A5E;
+  --y0:#D9B45E;--y1:#8FAE7A;--y2:#86AEDB;--map-bg:#111614;--shadow:0 1px 2px rgba(0,0,0,.4),0 6px 24px rgba(0,0,0,.35);color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#141917;--sheet:#1B211E;--ink:#E2E7DF;--muted:#9AA69D;--line:#34403A;--accent:#86AEDB;--accent-ink:#0F1412;--sel:#F07A5E;
+  --y0:#D9B45E;--y1:#8FAE7A;--y2:#86AEDB;--map-bg:#111614;--shadow:0 1px 2px rgba(0,0,0,.4),0 6px 24px rgba(0,0,0,.35);color-scheme:dark}
+html,body{height:100%}
+body{background:var(--paper);color:var(--ink);font:16px/1.5 var(--f-body);-webkit-font-smoothing:antialiased}
+*{box-sizing:border-box}
+button,input,select{font:inherit;color:inherit}
+a{color:var(--accent)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.app{display:flex;flex-direction:column;height:100%}
+header.top{display:flex;flex-wrap:wrap;align-items:end;gap:.4rem 1.5rem;padding:.9rem 16px .6rem;border-bottom:1px solid var(--line)}
+.brand{min-width:0}
+.brand h1{font:400 clamp(1.5rem,2.6vw,2.1rem)/1.05 var(--f-display);margin:0;letter-spacing:.005em;text-wrap:balance}
+.brand p{margin:.25rem 0 0;font:12px/1.4 var(--f-mono);color:var(--muted);letter-spacing:.02em}
+nav.tabs{display:flex;gap:.25rem;margin-left:auto;flex-wrap:wrap}
+nav.tabs button{border:1px solid transparent;background:none;padding:.35rem .8rem;border-radius:999px;cursor:pointer;font:500 13px var(--f-mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+nav.tabs button[aria-selected="true"]{background:var(--ink);color:var(--paper)}
+nav.tabs button:hover{border-color:var(--line)}
+main{flex:1;min-height:0;position:relative}
+.view{position:absolute;inset:0;overflow:auto}
+.view[hidden]{display:none!important}
+/* ---------- MAPA ---------- */
+#v-mapa{display:grid;grid-template-columns:minmax(0,1fr) 380px;overflow:hidden}
+#map{background:var(--map-bg);min-height:0}
+.panel{border-left:1px solid var(--line);background:var(--sheet);overflow:auto;display:flex;flex-direction:column}
+.blk{padding:14px 16px;border-bottom:1px solid var(--line);display:grid;gap:.6rem}
+.eyebrow{font:500 11px var(--f-mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0}
+.yearrow{display:flex;align-items:center;gap:.6rem}
+.year{font:400 2.4rem/1 var(--f-display);font-variant-numeric:tabular-nums;min-width:4.2ch}
+.yearrow input{flex:1;accent-color:var(--accent)}
+.iconbtn{border:1px solid var(--line);background:var(--paper);border-radius:6px;padding:.3rem .55rem;cursor:pointer;font:500 12px var(--f-mono)}
+.iconbtn:hover{border-color:var(--ink)}
+.stats{display:flex;gap:1rem;font:12px/1.3 var(--f-mono);color:var(--muted);flex-wrap:wrap}
+.stats b{display:block;font:500 15px var(--f-mono);color:var(--ink);font-variant-numeric:tabular-nums}
+.seg{display:flex;flex-wrap:wrap;gap:.3rem}
+.seg button{border:1px solid var(--line);background:none;border-radius:4px;padding:.2rem .5rem;font:12px var(--f-mono);cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.layers{display:grid;gap:.3rem;font-size:14px}
+.layers label{display:flex;gap:.5rem;align-items:center;cursor:pointer}
+.layers input{accent-color:var(--accent)}
+.lyr{display:grid;grid-template-columns:1fr auto;align-items:center;gap:.05rem .6rem;font-size:14px}
+.lyr label{display:flex;gap:.5rem;align-items:center;cursor:pointer;min-width:0}
+.lyr .opv{font:11px var(--f-mono);color:var(--muted);font-variant-numeric:tabular-nums}
+.lyr input[type=range]{grid-column:1/-1;width:100%;margin:0 0 .35rem;accent-color:var(--accent);height:14px}
+.layers{gap:.45rem}
+.sw{width:14px;height:10px;border-radius:2px;border:1px solid var(--line);flex:none}
+.legend{display:flex;flex-wrap:wrap;gap:.3rem .8rem;font:12px var(--f-mono);color:var(--muted)}
+.legend span{display:inline-flex;align-items:center;gap:.35rem}
+.ramp{height:10px;border-radius:2px;background:linear-gradient(90deg,var(--y0),var(--y1),var(--y2));flex:1}
+.ficha{padding:14px 16px 24px;display:grid;gap:.75rem}
+.ficha h2{font:400 1.55rem/1.1 var(--f-display);margin:0;text-wrap:balance}
+.ficha .num{font:500 12px var(--f-mono);color:var(--sel);letter-spacing:.08em}
+dl.kv{display:grid;grid-template-columns:auto 1fr;gap:.25rem .8rem;margin:0;font-size:14px}
+dl.kv dt{font:12px/1.6 var(--f-mono);color:var(--muted)}
+dl.kv dd{margin:0;min-width:0}
+.thumbs{display:grid;grid-template-columns:1fr 1fr;gap:.5rem}
+.thumbs button{border:1px solid var(--line);background:var(--paper);padding:0;cursor:zoom-in;border-radius:4px;overflow:hidden;display:grid}
+.spr{display:block;width:100%;aspect-ratio:160/220;max-width:100%;background-repeat:no-repeat;background-size:1600% 1200%;background-color:var(--paper)}
+.thumbs .spr{aspect-ratio:4/3}
+.thumbs small{font:11px var(--f-mono);color:var(--muted);padding:.25rem .4rem;text-align:left}
+.prose{font-size:15px;line-height:1.55}
+.prose p{margin:.4rem 0}
+.chips{display:flex;flex-wrap:wrap;gap:.3rem}
+.chip{font:11px var(--f-mono);border:1px solid var(--line);border-radius:999px;padding:.1rem .5rem;color:var(--muted)}
+.chip.warn{border-color:var(--sel);color:var(--sel)}
+.hint{color:var(--muted);font-style:italic;font-size:15px}
+.leaflet-container{background:var(--map-bg);font:13px var(--f-body)}
+.leaflet-tooltip{background:var(--sheet);color:var(--ink);border:1px solid var(--line);box-shadow:var(--shadow);font:13px/1.35 var(--f-body)}
+.leaflet-tooltip b{font-weight:600}
+.leaflet-bar a{background:var(--sheet);color:var(--ink);border-color:var(--line)}
+.leaflet-control-scale-line{background:color-mix(in srgb,var(--sheet) 80%,transparent);color:var(--ink);border-color:var(--ink);font:11px var(--f-mono)}
+.rosa{font:400 20px var(--f-display);color:var(--ink);background:color-mix(in srgb,var(--sheet) 80%,transparent);padding:2px 8px;border-radius:4px;text-align:center;line-height:1}
+.rosa small{display:block;font:10px var(--f-mono);color:var(--muted)}
+/* ---------- CATÁLOGO ---------- */
+.wrap{padding-inline:16px;padding-block:18px 48px;max-width:1400px;margin:0 auto}
+.filters{display:flex;flex-wrap:wrap;gap:.6rem;align-items:center;margin-bottom:1rem}
+.filters input[type=search]{flex:1 1 260px;min-width:0;padding:.5rem .7rem;border:1px solid var(--line);border-radius:6px;background:var(--sheet)}
+.filters select{padding:.45rem .5rem;border:1px solid var(--line);border-radius:6px;background:var(--sheet)}
+.filters label{font-size:14px;display:flex;gap:.35rem;align-items:center}
+.count{font:12px var(--f-mono);color:var(--muted);margin-left:auto}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px}
+.card{background:var(--sheet);border:1px solid var(--line);border-radius:6px;overflow:hidden;cursor:pointer;display:grid;grid-template-rows:auto 1fr;text-align:left;padding:0}
+.card:hover{border-color:var(--ink)}
+.card .pics{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--line)}
+.card .pics .none{aspect-ratio:160/220;display:grid;place-items:center;font:11px var(--f-mono);color:var(--muted);background:var(--paper);text-align:center;padding:6px}
+.card .meta{padding:.55rem .7rem .7rem;display:grid;gap:.15rem;min-width:0}
+.card .n{font:500 12px var(--f-mono);color:var(--sel);letter-spacing:.06em;display:flex;justify-content:space-between;gap:.5rem}
+.card .n span{color:var(--muted);font-weight:400}
+.card .t{font:600 15px/1.25 var(--f-body);overflow-wrap:anywhere}
+.card .s{font:12px var(--f-mono);color:var(--muted)}
+/* ---------- VISOR ---------- */
+.viewer{position:fixed;inset:0;z-index:2000;background:var(--paper);display:grid;grid-template-rows:auto 1fr;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+.vbar{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem 1rem;padding:.6rem 16px;border-bottom:1px solid var(--line)}
+.vbar h3{margin:0;font:400 1.3rem/1.1 var(--f-display);min-width:0;flex:1 1 280px}
+.vbar h3 small{font:12px var(--f-mono);color:var(--sel);display:block;letter-spacing:.06em}
+.vbody{display:grid;grid-template-columns:minmax(0,1fr) 340px;min-height:0}
+.stages{display:grid;grid-template-columns:1fr;min-height:0;gap:1px;background:var(--line)}
+.stages.duo{grid-template-columns:1fr 1fr}
+.stage{position:relative;overflow:hidden;background:var(--map-bg);touch-action:none;cursor:grab;min-height:0}
+.stage:active{cursor:grabbing}
+.stage img{position:absolute;left:50%;top:50%;max-width:none;transform-origin:center;user-select:none;-webkit-user-drag:none}
+.stage .lbl{position:absolute;left:10px;top:10px;font:500 11px var(--f-mono);letter-spacing:.1em;text-transform:uppercase;background:var(--sheet);border:1px solid var(--line);padding:.15rem .45rem;border-radius:3px;z-index:2}
+.stage .tools{position:absolute;right:10px;bottom:10px;display:flex;gap:.3rem;z-index:2}
+.stage .empty{position:absolute;inset:0;display:grid;place-items:center;color:var(--muted);font-style:italic;padding:2rem;text-align:center}
+.vside{overflow:auto;border-left:1px solid var(--line);background:var(--sheet)}
+/* ---------- LECTURAS ---------- */
+.essay{max-width:1100px}
+.essay h2{font:400 clamp(1.6rem,3vw,2.3rem)/1.1 var(--f-display);margin:.2rem 0 .6rem;text-wrap:balance}
+.essay h3{font:400 1.35rem/1.2 var(--f-display);margin:1.6rem 0 .4rem}
+.essay p{max-width:68ch}
+.lede{font-size:1.15rem;max-width:62ch;color:var(--ink)}
+.charts{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,480px),1fr));gap:18px;margin:1.2rem 0}
+figure.ch{margin:0;background:var(--sheet);border:1px solid var(--line);border-radius:6px;padding:14px;min-width:0}
+figure.ch figcaption{font:500 11px var(--f-mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:.4rem}
+figure.ch .note{font:13px/1.4 var(--f-body);color:var(--muted);margin:.4rem 0 0}
+figure.ch svg{width:100%;height:auto;display:block}
+.q{border-left:3px solid var(--accent);padding:.2rem 0 .2rem 1rem;margin:1rem 0;font-style:italic;max-width:66ch}
+.tbl{overflow-x:auto}
+table{border-collapse:collapse;font-size:14px;min-width:520px}
+th,td{text-align:left;padding:.35rem .7rem;border-bottom:1px solid var(--line)}
+th{font:500 11px var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+td.num{font-family:var(--f-mono);font-variant-numeric:tabular-nums;text-align:right}
+.warns{display:grid;gap:.6rem;max-width:74ch}
+.warns li{margin-left:1rem}
+@media (max-width:860px){
+  #v-mapa{grid-template-columns:1fr;grid-template-rows:58vh auto;overflow:auto}
+  .panel{border-left:0;border-top:1px solid var(--line);overflow:visible}
+  .vbody{grid-template-columns:1fr;grid-template-rows:62vh auto;overflow:auto}
+  .stages.duo{grid-template-columns:1fr;grid-template-rows:1fr 1fr}
+  .vside{border-left:0;border-top:1px solid var(--line)}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+</head>
+<body>
+
+
+<div class="app">
+<header class="top">
+  <div class="brand">
+    <h1>Atlas de Mensuras de Giles</h1>
+    <p>Archivo Histórico de Geodesia · Provincia de Buenos Aires · Partido de San Andrés de Giles · 191 carpetas · 1825–1923</p>
+  </div>
+  <nav class="tabs" role="tablist" aria-label="Secciones">
+    <button role="tab" id="t-mapa" aria-selected="true" data-v="mapa">Mapa</button>
+    <button role="tab" id="t-carpetas" aria-selected="false" data-v="carpetas">Carpetas</button>
+    <button role="tab" id="t-lecturas" aria-selected="false" data-v="lecturas">Lecturas</button>
+    <button role="tab" id="t-fuentes" aria-selected="false" data-v="fuentes">Fuentes</button>
+  </nav>
+</header>
+<main>
+  <!-- MAPA -->
+  <section class="view" id="v-mapa">
+    <div id="map" aria-label="Mapa del partido"></div>
+    <aside class="panel">
+      <div class="blk">
+        <p class="eyebrow">Corte temporal · mensuras aprobadas hasta</p>
+        <div class="yearrow">
+          <span class="year" id="yearLbl">1925</span>
+          <input type="range" id="year" min="1825" max="1925" step="1" value="1925" aria-label="Año de corte">
+          <button class="iconbtn" id="play" aria-label="Reproducir la secuencia">▶</button>
+        </div>
+        <div class="stats" id="stats"></div>
+      </div>
+      <div class="blk">
+        <p class="eyebrow">Colorear mensuras por</p>
+        <div class="seg" id="mode">
+          <button aria-pressed="true" data-m="anio">año</button>
+          <button aria-pressed="false" data-m="frag">subdivisión 1874</button>
+          <button aria-pressed="false" data-m="ag">agrimensor</button>
+          <button aria-pressed="false" data-m="ed">edificado</button>
+        </div>
+        <div class="legend" id="legend"></div>
+      </div>
+      <div class="blk">
+        <p class="eyebrow">Fondo actual (siempre debajo)</p>
+        <div class="seg" id="base">
+          <button aria-pressed="true" data-b="sat">satélite</button>
+          <button aria-pressed="false" data-b="osm">OpenStreetMap</button>
+          <button aria-pressed="false" data-b="none">sin fondo</button>
+        </div>
+        <div class="lyr"><label for="bop">Visibilidad del fondo</label><span class="opv" id="bov">100 %</span><input type="range" id="bop" min="0" max="100" value="100" aria-label="Opacidad del fondo actual"></div>
+      </div>
+      <div class="blk">
+        <p class="eyebrow">Capas históricas · casilla para mostrar, barra para transparentar</p>
+        <div class="layers" id="layers"></div>
+      </div>
+      <div class="ficha" id="ficha">
+        <p class="hint">Tocá una mensura en el mapa para abrir su ficha, con la carátula y el plano de la carpeta.</p>
+      </div>
+    </aside>
+  </section>
+
+  <!-- CARPETAS -->
+  <section class="view" id="v-carpetas" hidden>
+    <div class="wrap">
+      <div class="filters">
+        <input type="search" id="q" placeholder="Buscar por titular, agrimensor, paraje o número de carpeta" aria-label="Buscar">
+        <select id="dec" aria-label="Década"><option value="">Todas las décadas</option></select>
+        <select id="agsel" aria-label="Agrimensor"><option value="">Todos los agrimensores</option></select>
+        <label><input type="checkbox" id="onlyT"> con ficha transcripta</label>
+        <span class="count" id="count"></span>
+      </div>
+      <div class="grid" id="grid"></div>
+    </div>
+  </section>
+
+  <!-- LECTURAS -->
+  <section class="view" id="v-lecturas" hidden>
+    <div class="wrap essay" id="essay"></div>
+  </section>
+
+  <!-- FUENTES -->
+  <section class="view" id="v-fuentes" hidden>
+    <div class="wrap essay" id="fuentes"></div>
+  </section>
+</main>
+</div>
+
+<div class="viewer" id="viewer" hidden role="dialog" aria-modal="true" aria-labelledby="vtitle">
+  <div class="vbar">
+    <h3 id="vtitle"></h3>
+    <div class="seg" id="vmode">
+      <button aria-pressed="false" data-s="car">Carátula</button>
+      <button aria-pressed="true" data-s="plano">Plano</button>
+      <button aria-pressed="false" data-s="duo">Ambos</button>
+    </div>
+    <button class="iconbtn" id="vprev" aria-label="Carpeta anterior">◀</button>
+    <button class="iconbtn" id="vnext" aria-label="Carpeta siguiente">▶</button>
+    <button class="iconbtn" id="vmap">Ver en el mapa</button>
+    <button class="iconbtn" id="vclose" aria-label="Cerrar visor">✕ Cerrar</button>
+  </div>
+  <div class="vbody">
+    <div class="stages" id="stages"></div>
+    <aside class="vside"><div class="ficha" id="vficha"></div></aside>
+  </div>
+</div>
+
+<script src="lib/leaflet/leaflet.js"></script>
+<script>
+(async function(){
+const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
+const pad=n=>String(n).padStart(3,'0');
+const spr=(k,n,alt)=>{const i=n-1,c=i%16,r=Math.floor(i/16);return `<span class="spr" ${alt?`role="img" aria-label="${alt}"`:'aria-hidden="true"'} style="background-image:url(img/sprite_${k}.jpg);background-position:${(c/15*100).toFixed(4)}% ${(r/11*100).toFixed(4)}%"></span>`};
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fmt=n=>n==null?'—':Number(n).toLocaleString('es-AR',{maximumFractionDigits:0});
+const tok=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const [G,CAT]=await Promise.all([fetch('data/gis.json').then(r=>r.json()),fetch('data/catalog.json').then(r=>r.json())]);
+const byN={};CAT.forEach(c=>byN[c.n]=c);
+const yearOf=n=>{const c=byN[n];return c&&c.gis[0]?c.gis[0].y:0};
+const title=c=>{const t=(c.ix&&c.ix.prop)||(c.gis[0]&&c.gis[0].tit)||'Sin titular registrado';return t};
+const titleCase=s=>String(s).toLowerCase().replace(/(^|[\s,(.'´-])([a-záéíóúñü])/g,(m,a,b)=>a+b.toUpperCase());
+
+/* ---------- colores ---------- */
+function mix(a,b,t){const p=h=>{h=h.replace('#','');return[0,2,4].map(i=>parseInt(h.substr(i,2),16))};const A=p(a),B=p(b);return'#'+A.map((v,i)=>Math.round(v+(B[i]-v)*t).toString(16).padStart(2,'0')).join('')}
+function yearColor(y){if(!y)return tok('--muted');const t=Math.max(0,Math.min(1,(y-1825)/(1905-1825)));return t<.5?mix(tok('--y0'),tok('--y1'),t*2):mix(tok('--y1'),tok('--y2'),(t-.5)*2)}
+const AGPAL=['#1F4E79','#B8321F','#C9A04A','#4E7A5A','#7A4E8C','#2E8C8C','#8C6A2E','#5A6E9C','#9C5A6E','#3E3E3E'];
+const agCount={};G.mensuras.features.forEach(f=>{const a=f.properties.ag||'s/d';agCount[a]=(agCount[a]||0)+1});
+const topAg=Object.entries(agCount).filter(([a])=>a&&a!=='s/d').sort((a,b)=>b[1]-a[1]).slice(0,9).map(x=>x[0]);
+const agColor=a=>{const i=topAg.indexOf(a);return i<0?tok('--muted'):AGPAL[i]};
+const fragOf=n=>{const c=byN[n];return c&&c.gis.length?Math.max(...c.gis.map(g=>g.frag)):null};
+const FRAGC=['#D9D2B8','#C9A04A','#B06A2E','#7A2A1A'];
+const fragClass=v=>v==null?-1:v<=1?0:v<=4?1:v<=14?2:3;
+const FRAGL=['1 parcela (se conserva)','2–4','5–14','15 o más'];
+
+/* ---------- mapa ---------- */
+const map=L.map('map',{preferCanvas:true,zoomSnap:.25,attributionControl:true,minZoom:9,maxZoom:18});
+L.control.scale({imperial:false,position:'bottomleft'}).addTo(map);
+map.attributionControl.setPrefix('<a href="https://leafletjs.com" target="_blank" rel="noopener">Leaflet</a>');
+const BASES={
+  sat:L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',{maxZoom:19,attribution:'Imágenes © Esri, Maxar, Earthstar Geographics'}),
+  osm:L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'© colaboradores de <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>'}),
+  none:null};
+let baseOn=null,baseOp=1;
+function setBase(k){if(baseOn)map.removeLayer(baseOn);baseOn=BASES[k];if(baseOn){baseOn.setOpacity(baseOp);baseOn.addTo(map).bringToBack()}
+  $$('#base button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.b===k))}
+const Rosa=L.Control.extend({onAdd(){const d=L.DomUtil.create('div','rosa');d.innerHTML='N<small>↑</small>';return d}});
+new Rosa({position:'topright'}).addTo(map);
+
+/* opacidad por capa (0–1) y visibilidad temporal */
+const OP={r1874:.75,actual:.85,mens:.45,cam:.95,pm:1,p84:1,urb:.7,partido:1};
+const LINE='#FFFFFF',HALO='#FFFFFF';
+const partido=L.geoJSON(G.partido,{interactive:false,style:()=>({color:'#FFE08A',weight:2.2,opacity:OP.partido,fill:false})}).addTo(map);
+map.fitBounds(partido.getBounds(),{padding:[14,14]});
+
+const r1874=L.geoJSON(G.r1874,{style:f=>({color:LINE,weight:.7,opacity:OP.r1874*.8,fill:true,fillOpacity:0}),
+  onEachFeature:(f,l)=>{const p=f.properties;l.bindTooltip(`<b>Registro gráfico c. 1874</b><br>${fmt(p.ha)} ha${p.c?`<br>Circ. ${esc(p.c)} · Parcela ${esc(p.p)}`:''}${p.t?`<br>Titular actual: ${esc(titleCase(p.t))}`:''}`,{sticky:true})}});
+const actual=L.geoJSON({type:'FeatureCollection',features:G.r1874.features.filter(f=>f.properties.c||f.properties.t)},
+  {style:()=>({color:'#9FD3FF',weight:1.6,dashArray:'5 3',opacity:OP.actual,fill:true,fillColor:'#9FD3FF',fillOpacity:OP.actual*.25}),
+  onEachFeature:(f,l)=>{const p=f.properties;l.bindTooltip(`<b>Nomenclatura catastral actual</b><br>${p.c?`Circ. ${esc(p.c)} · `:''}Parcela ${esc(p.p||'—')}${p.t?`<br>${esc(titleCase(p.t))}`:''}<br>${fmt(p.ha)} ha (polígono 1874)`,{sticky:true})}});
+
+let mode='anio',selN=null,Y=1925;
+const HIDE={opacity:0,fillOpacity:0};
+function mStyle(f){const p=f.properties;if(p.y&&p.y>Y)return HIDE;let c;
+  if(mode==='anio')c=yearColor(p.y);else if(mode==='ag')c=agColor(p.ag);
+  else if(mode==='ed')c=p.ed==='SI'?tok('--y2'):p.ed==='NO'?tok('--y0'):tok('--muted');
+  else{const k=fragClass(fragOf(p.n));c=k<0?tok('--muted'):FRAGC[k]}
+  const s=p.n===selN&&p.n,o=OP.mens;
+  return{color:s?'#FF4B2B':LINE,weight:s?3.2:.9,opacity:s?1:Math.min(1,o+.35),fillColor:c,fillOpacity:s?Math.min(1,o+.2):o,dashArray:p.y?null:'3 3'}}
+const mens=L.geoJSON(G.mensuras,{style:mStyle,onEachFeature:(f,l)=>{const p=f.properties;
+  l.bindTooltip(`<b>${p.n?'Carpeta '+p.n:'Sin número'}</b> · ${p.y||'s/f'}<br>${esc(titleCase(p.tit||''))}<br>${fmt(p.ha)} ha · ${esc(titleCase(p.ag||'s/d'))}`,{sticky:true});
+  l.on('click',()=>{if(p.n){select(p.n,false)}})}});
+
+const urbC={ALAMBRADO:'#8C9A6E',MURO:'#7A4E3A',BALDIO:'#E3DCC4',CERCO:'#B9A15E',PLAZA:'#4E7A5A',IGLESIA:'#1F4E79',CEMENTERIO:'#5E5E6E','PARTE CEMENTERIO VIEJO':'#5E5E6E','CALLE CERRADA':'#999'};
+const urb=L.geoJSON(G.urbanas,{style:f=>({color:LINE,weight:.5,opacity:OP.urb,fillColor:urbC[f.properties.oc]||'#aaa',fillOpacity:OP.urb}),
+  onEachFeature:(f,l)=>{const p=f.properties;l.bindTooltip(`<b>Pueblo 1884</b><br>${esc(titleCase(p.pr||'s/d'))}<br>${esc(titleCase(p.oc||''))} · ${fmt(p.m2)} m²`,{sticky:true})}});
+
+const camSt={CAMINO:{w:2,d:null,c:'#F2C14E'},FERROCARRIL:{w:2.8,d:'9 4',c:'#FFFFFF'},TRANWAY:{w:2.2,d:'2 4',c:'#9FD3FF'},'TELÉGRAFO':{w:1.4,d:'1 5',c:'#FFFFFF'}};
+const camStyle=f=>{const p=f.properties,s=camSt[p.t]||camSt.CAMINO;return(p.y&&p.y>Y)?{opacity:0}:{color:s.c,weight:s.w,dashArray:s.d,opacity:OP.cam}};
+const cam=L.geoJSON(G.caminos,{style:camStyle,
+  onEachFeature:(f,l)=>{const p=f.properties;l.bindTooltip(`<b>${esc(titleCase(p.nm||p.t))}</b><br>${esc(titleCase(p.t))} · ${p.y||'s/f'} · ${p.km} km${p.ob?`<br><span style="opacity:.7">${esc(p.ob)}</span>`:''}`,{sticky:true})}});
+
+const pobGroup=t=>/CASA|RANCHO|POBLACI/i.test(t)?'casa':/PUESTO/i.test(t)?'puesto':/ARREND/i.test(t)?'arrend':/PULPER|POSTA|NEGOCIO|GRASER/i.test(t)?'comercio':/TAPERA/i.test(t)?'tapera':/ESTANCIA|AZOTEA/i.test(t)?'estancia':'otro';
+const POBC={casa:'#E0673C',puesto:'#F2C14E',arrend:'#C58CFF',comercio:'#FF3B3B',tapera:'#BDBDBD',estancia:'#6FB6FF',otro:'#4FD1C5'};
+const pmStyle=f=>{const y=yearOf(f.properties.n);return(y&&y>Y)?HIDE:{radius:3.4,weight:.9,color:HALO,opacity:OP.pm,fillColor:POBC[pobGroup(f.properties.t)],fillOpacity:OP.pm}};
+const pm=L.geoJSON(G.pmens,{pointToLayer:(f,ll)=>L.circleMarker(ll,pmStyle(f)),
+  onEachFeature:(f,l)=>{const p=f.properties;l.bindTooltip(`<b>${esc(titleCase(p.t))}</b><br>${esc(titleCase(p.d||''))}<br>Mensura ${p.n} · ${yearOf(p.n)||'s/f'}`)}});
+const p84Style=f=>({radius:6,weight:2,color:POBC[pobGroup(f.properties.t)],opacity:OP.p84,fillColor:'#FFFFFF',fillOpacity:OP.p84*.9});
+const p84=L.geoJSON(G.p1884,{pointToLayer:(f,ll)=>L.circleMarker(ll,p84Style(f)),
+  onEachFeature:(f,l)=>{const p=f.properties;l.bindTooltip(`<b>${esc(p.t)}</b> · registro 1884<br>${esc(p.d||'')}`)}});
+
+const LAYERS=[
+  {id:'mens',l:mens,on:true,t:'Mensuras AHG (190 polígonos)',sw:'--y1'},
+  {id:'r1874',l:r1874,on:true,t:'Registro gráfico c. 1874 (429 parcelas)',sw:'transparent',bd:'--muted'},
+  {id:'actual',l:actual,on:false,t:'Nomenclatura catastral actual (cruce parcial)',sw:'#9FD3FF'},
+  {id:'cam',l:cam,on:true,t:'Caminos, ferrocarril, tranvía, telégrafo',sw:'#F2C14E'},
+  {id:'pm',l:pm,on:true,t:'Poblamiento en planos de mensura (732)',sw:'#E0673C'},
+  {id:'p84',l:p84,on:false,t:'Estancias, puestos y pulperías 1884 (102)',sw:'#6FB6FF'},
+  {id:'urb',l:urb,on:false,t:'Pueblo y parcelas urbanas 1884 (488)',sw:'#8C9A6E'},
+  {id:'partido',l:partido,on:true,t:'Límite del partido',sw:'#FFE08A'},
+];
+$('#layers').innerHTML=LAYERS.map(L0=>`<div class="lyr"><label for="ly-${L0.id}"><input type="checkbox" id="ly-${L0.id}" ${L0.on?'checked':''}><span class="sw" style="background:${L0.sw.startsWith('--')?`var(${L0.sw})`:L0.sw};${L0.bd?`border-color:var(${L0.bd})`:''}"></span>${L0.t}</label>
+  <span class="opv" id="ov-${L0.id}">${Math.round(OP[L0.id]*100)} %</span>
+  <input type="range" id="op-${L0.id}" min="0" max="100" value="${Math.round(OP[L0.id]*100)}" aria-label="Transparencia: ${L0.t}"></div>`).join('');
+LAYERS.forEach(L0=>{const cb=$('#ly-'+L0.id);cb.onchange=()=>{L0.on=cb.checked;applyYear()};
+  $('#op-'+L0.id).oninput=e=>{OP[L0.id]=e.target.value/100;$('#ov-'+L0.id).textContent=e.target.value+' %';restyle(L0.id)}});
+
+function restyle(id){
+  if(!id||id==='mens')mens.setStyle(mStyle);
+  if(!id||id==='cam')cam.setStyle(camStyle);
+  if(!id||id==='pm')pm.eachLayer(l=>l.setStyle(pmStyle(l.feature)));
+  if(!id||id==='p84')p84.eachLayer(l=>l.setStyle(p84Style(l.feature)));
+  if(!id||id==='r1874')r1874.setStyle({opacity:OP.r1874*.8});
+  if(!id||id==='actual')actual.setStyle({opacity:OP.actual,fillOpacity:OP.actual*.25});
+  if(!id||id==='urb')urb.setStyle({opacity:OP.urb,fillOpacity:OP.urb});
+  if(!id||id==='partido')partido.setStyle({opacity:OP.partido});
+  mens.eachLayer(l=>{if(l.feature.properties.n===selN)l.bringToFront()});
+}
+function applyYear(){
+  $('#yearLbl').textContent=Y;
+  LAYERS.forEach(L0=>{const want=L0.on;const has=map.hasLayer(L0.l);if(want&&!has)L0.l.addTo(map);if(!want&&has)map.removeLayer(L0.l)});
+  restyle();
+  let n=0,ha=0,pob=0;
+  G.mensuras.features.forEach(f=>{const p=f.properties;if(p.y&&p.y<=Y){n++;ha+=p.ha}});
+  G.pmens.features.forEach(f=>{const y=yearOf(f.properties.n);if(y&&y<=Y)pob++});
+  $('#stats').innerHTML=`<span><b>${n}</b>mensuras</span><span><b>${fmt(ha)}</b>ha medidas</span><span><b>${n?fmt(ha/n):'—'}</b>ha promedio</span><span><b>${pob}</b>puntos poblados</span>`;
+}
+function legend(){let h='';
+  if(mode==='anio')h=`<span style="flex:1;display:flex;align-items:center;gap:.5rem">1825<span class="ramp"></span>1905</span><span><span class="sw" style="background:var(--muted)"></span>sin fecha</span>`;
+  else if(mode==='ag')h=topAg.map(a=>`<span><span class="sw" style="background:${agColor(a)}"></span>${esc(titleCase(a))}</span>`).join('')+`<span><span class="sw" style="background:var(--muted)"></span>otros</span>`;
+  else if(mode==='ed')h=`<span><span class="sw" style="background:var(--y2)"></span>con edificación</span><span><span class="sw" style="background:var(--y0)"></span>sin edificación</span>`;
+  else h=`<span style="width:100%">Parcelas del registro 1874 contenidas en cada mensura</span>`+FRAGL.map((t,i)=>`<span><span class="sw" style="background:${FRAGC[i]}"></span>${t}</span>`).join('');
+  $('#legend').innerHTML=h}
+$$('#mode button').forEach(b=>b.onclick=()=>{mode=b.dataset.m;$$('#mode button').forEach(x=>x.setAttribute('aria-pressed',x===b));legend();restyle('mens')});
+$('#year').oninput=e=>{Y=+e.target.value;applyYear()};
+let timer=null;
+$('#play').onclick=()=>{if(timer){clearInterval(timer);timer=null;$('#play').textContent='▶';return}
+  if(Y>=1925)Y=1825;$('#play').textContent='❚❚';timer=setInterval(()=>{Y++;$('#year').value=Y;applyYear();if(Y>=1925){clearInterval(timer);timer=null;$('#play').textContent='▶'}},180)};
+$$('#base button').forEach(b=>b.onclick=()=>setBase(b.dataset.b));
+$('#bop').oninput=e=>{baseOp=e.target.value/100;$('#bov').textContent=e.target.value+' %';if(baseOn)baseOn.setOpacity(baseOp)};
+setBase('sat');
+legend();applyYear();
+
+/* ---------- ficha ---------- */
+function fichaHTML(c,inViewer){
+  const g=c.gis,ix=c.ix||{};
+  const y=g[0]?g[0].y:null;const ha=g.reduce((s,x)=>s+x.ha,0);
+  const pob=c.pob?Object.entries(c.pob).sort((a,b)=>b[1]-a[1]).map(([k,v])=>`<span class="chip">${v} ${esc(titleCase(k))}</span>`).join(''):'';
+  const warns=[];
+  if(!g.length)warns.push('sin polígono en el SIG');
+  if(g.length>1)warns.push(`${g.length} polígonos con este número`);
+  if(c.dud)warns.push('plano elegido con dudas');
+  if(!c.car)warns.push('sin carátula identificada');
+  if(c.n===137)warns.push('carpeta rotulada «Ejido»; el SIG asigna el 137 a Casado');
+  if(c.n===127)warns.push('el SIG asigna el 127 al Pueblo y Ejido (Orlandini 1884)');
+  const frag=g.length?Math.max(...g.map(x=>x.frag)):null, cov=g.length?g[0].cov:null;
+  return `<div class="num">CARPETA ${c.n}${c.ix?' · FICHA '+pad(c.n)+' TRANSCRIPTA':''}</div>
+  <h2>${esc(c.ix?ix.prop:titleCase(title(c)))}</h2>
+  ${warns.length?`<div class="chips">${warns.map(w=>`<span class="chip warn">${esc(w)}</span>`).join('')}</div>`:''}
+  ${inViewer?'':`<div class="thumbs">
+    <button data-open="${c.n}" data-s="car">${c.car?spr('ct',c.n,'Carátula de la carpeta '+c.n):'<span class="hint" style="padding:1rem">sin carátula</span>'}<small>Carátula</small></button>
+    <button data-open="${c.n}" data-s="plano">${spr('t',c.n,'Plano de la carpeta '+c.n)}<small>Plano</small></button></div>`}
+  <dl class="kv">
+    <dt>Año</dt><dd>${esc(ix.y||y||'s/f')}${ix.fecha?` · ${esc(ix.fecha)}`:''}</dd>
+    <dt>Agrimensor</dt><dd>${esc(ix.ag||titleCase(g[0]?.ag||'s/d'))}</dd>
+    ${g.length?`<dt>Titular (SIG)</dt><dd>${g.map(x=>esc(titleCase(x.tit))).filter((v,i,a)=>a.indexOf(v)===i).join(' / ')}</dd>`:''}
+    <dt>Superficie</dt><dd>${g.length?fmt(ha)+' ha (polígono SIG)':'—'}${ix.sup?` · ${esc(ix.sup)} ha (acta)`:''}</dd>
+    ${g.length?`<dt>Edificado</dt><dd>${esc(g[0].ed||'s/d')}</dd>`:''}
+    ${frag!=null?`<dt>Registro 1874</dt><dd>${frag} parcela${frag===1?'':'s'} del registro dentro; cubre ${Math.round((cov||0)*100)} % de la parcela 1874 dominante</dd>`:''}
+    ${ix.ubic?`<dt>Paraje</dt><dd>${esc(ix.ubic)}</dd>`:''}
+    ${ix.agua?`<dt>Aguas</dt><dd>${esc(ix.agua)}</dd>`:''}
+    ${ix.hitos?`<dt>Hitos</dt><dd>${esc(ix.hitos)}</dd>`:''}
+    ${ix.lind?`<dt>Linderos</dt><dd>${esc(ix.lind)}</dd>`:''}
+    ${ix.ref?`<dt>Referencia</dt><dd>${esc(ix.ref)}</dd>`:''}
+    <dt>Carpeta AHG</dt><dd>${esc(c.dir)}</dd>
+  </dl>
+  ${pob?`<div><p class="eyebrow">Poblamiento dibujado en el plano</p><div class="chips">${pob}</div></div>`:''}
+  ${c.cam?`<div><p class="eyebrow">Trazas registradas desde esta mensura</p><div class="chips">${c.cam.map(x=>`<span class="chip">${esc(titleCase(x))}</span>`).join('')}</div></div>`:''}
+  ${ix.sint?`<div class="prose"><p class="eyebrow">Síntesis de la ficha</p><p>${esc(ix.sint)}</p></div>`:''}
+  ${inViewer?'':`<button class="iconbtn" data-open="${c.n}" data-s="duo">Abrir carátula y plano ◀▶</button>`}`}
+function select(n,fly){selN=n;const c=byN[n];if(!c)return;
+  $('#ficha').innerHTML=fichaHTML(c,false);
+  mens.eachLayer(l=>l.setStyle(l.feature.properties.y&&l.feature.properties.y>Y?{opacity:0,fillOpacity:0}:mStyle(l.feature)));
+  let b=null;mens.eachLayer(l=>{if(l.feature.properties.n===n){l.bringToFront();b=b?b.extend(l.getBounds()):L.latLngBounds(l.getBounds().getSouthWest(),l.getBounds().getNorthEast())}});
+  if(fly&&b)map.flyToBounds(b,{padding:[60,60],maxZoom:13,duration:.6});
+  if(window.innerWidth<=860&&!fly)$('#ficha').scrollIntoView({behavior:'smooth',block:'start'});
+}
+document.addEventListener('click',e=>{const b=e.target.closest('[data-open]');if(b){openViewer(+b.dataset.open,b.dataset.s)}});
+
+/* ---------- pestañas ---------- */
+function show(v){$$('nav.tabs button').forEach(b=>b.setAttribute('aria-selected',b.dataset.v===v));
+  $$('.view').forEach(s=>s.hidden=s.id!=='v-'+v);if(v==='mapa')setTimeout(()=>map.invalidateSize(),30);
+  try{localStorage.setItem('amg-tab',v)}catch(e){}}
+$$('nav.tabs button').forEach(b=>b.onclick=()=>show(b.dataset.v));
+
+/* ---------- catálogo ---------- */
+const decs=[...new Set(CAT.map(c=>c.gis[0]?.y).filter(Boolean).map(y=>Math.floor(y/10)*10))].sort();
+$('#dec').innerHTML+=decs.map(d=>`<option value="${d}">${d}s</option>`).join('');
+const ags=[...new Set(CAT.map(c=>c.gis[0]?.ag).filter(a=>a&&a.trim()))].sort();
+$('#agsel').innerHTML+=ags.map(a=>`<option>${esc(a)}</option>`).join('');
+function card(c){const y=c.gis[0]?.y||(c.ix&&parseInt(c.ix.y));const ha=c.gis.reduce((s,x)=>s+x.ha,0);
+  return `<button class="card" data-open="${c.n}" data-s="duo" aria-label="Carpeta ${c.n}">
+   <div class="pics">${c.car?spr('ct',c.n,''):`<div class="none">sin carátula</div>`}${spr('t',c.n,'')}</div>
+   <div class="meta"><div class="n">CARPETA ${c.n}<span>${y||'s/f'}</span></div>
+   <div class="t">${esc(c.ix?c.ix.prop:titleCase(title(c)))}</div>
+   <div class="s">${esc(titleCase(c.gis[0]?.ag||c.ix?.ag||'s/d'))}${ha?' · '+fmt(ha)+' ha':''}${c.ix?' · ficha':''}</div></div></button>`}
+function renderGrid(){const q=$('#q').value.trim().toLowerCase(),d=$('#dec').value,a=$('#agsel').value,t=$('#onlyT').checked;
+  const L0=CAT.filter(c=>{const y=c.gis[0]?.y;
+    if(d&&!(y>=+d&&y<+d+10))return false;if(a&&c.gis[0]?.ag!==a)return false;if(t&&!c.ix)return false;
+    if(q){const s=[c.n,c.dir,title(c),c.gis.map(g=>g.tit+' '+g.ag).join(' '),c.ix?JSON.stringify(c.ix):''].join(' ').toLowerCase();
+      if(!(q===String(c.n)||s.includes(q)))return false}return true});
+  $('#grid').innerHTML=L0.map(card).join('');$('#count').textContent=`${L0.length} de ${CAT.length} carpetas`;}
+['q','dec','agsel','onlyT'].forEach(id=>$('#'+id).addEventListener('input',renderGrid));
+renderGrid();
+
+/* ---------- visor con zoom ---------- */
+let vN=null,vS='plano';
+function makeStage(src,label){const st=document.createElement('div');st.className='stage';
+  st.innerHTML=`<span class="lbl">${label}</span><div class="tools"><button class="iconbtn" data-z="in" aria-label="Acercar">+</button><button class="iconbtn" data-z="out" aria-label="Alejar">−</button><button class="iconbtn" data-z="rot" aria-label="Rotar 90 grados">⟳</button><button class="iconbtn" data-z="fit" aria-label="Ajustar">⤢</button></div>`;
+  if(!src){st.insertAdjacentHTML('beforeend','<div class="empty">Esta carpeta no tiene una carátula identificable entre las fotografías.</div>');return st}
+  const img=new Image();img.src=src;img.alt=label;img.draggable=false;st.appendChild(img);
+  const S={s:1,x:0,y:0,r:0};
+  const apply=()=>img.style.transform=`translate(-50%,-50%) translate(${S.x}px,${S.y}px) scale(${S.s}) rotate(${S.r}deg)`;
+  const fit=()=>{const W=st.clientWidth,H=st.clientHeight;const w=img.naturalWidth,h=img.naturalHeight;if(!w)return;const sw=S.r%180?h:w,sh=S.r%180?w:h;S.s=Math.min(W/sw,H/sh)*.96;S.x=0;S.y=0;apply()};
+  img.onload=fit;new ResizeObserver(fit).observe(st);
+  const zoomAt=(k,mx,my)=>{const W=st.clientWidth,H=st.clientHeight;const cx=mx-W/2,cy=my-H/2;S.x=cx-(cx-S.x)*k;S.y=cy-(cy-S.y)*k;S.s*=k;apply()};
+  st.addEventListener('wheel',e=>{e.preventDefault();const r=st.getBoundingClientRect();zoomAt(Math.exp(-e.deltaY*.0015),e.clientX-r.left,e.clientY-r.top)},{passive:false});
+  const P=new Map();let last=null;
+  st.addEventListener('pointerdown',e=>{if(e.target.closest('button'))return;st.setPointerCapture(e.pointerId);P.set(e.pointerId,{x:e.clientX,y:e.clientY})});
+  st.addEventListener('pointermove',e=>{if(!P.has(e.pointerId))return;const prev=P.get(e.pointerId);const cur={x:e.clientX,y:e.clientY};
+    if(P.size===1){S.x+=cur.x-prev.x;S.y+=cur.y-prev.y;apply()}
+    else if(P.size===2){const o=[...P.entries()].find(([k])=>k!==e.pointerId)[1];const d0=Math.hypot(prev.x-o.x,prev.y-o.y),d1=Math.hypot(cur.x-o.x,cur.y-o.y);const r=st.getBoundingClientRect();if(d0>0)zoomAt(d1/d0,(cur.x+o.x)/2-r.left,(cur.y+o.y)/2-r.top)}
+    P.set(e.pointerId,cur)});
+  const up=e=>P.delete(e.pointerId);st.addEventListener('pointerup',up);st.addEventListener('pointercancel',up);
+  st.addEventListener('dblclick',e=>{const r=st.getBoundingClientRect();zoomAt(2,e.clientX-r.left,e.clientY-r.top)});
+  st.querySelector('.tools').onclick=e=>{const z=e.target.dataset.z;if(!z)return;const W=st.clientWidth/2,H=st.clientHeight/2;
+    if(z==='in')zoomAt(1.5,W,H);if(z==='out')zoomAt(1/1.5,W,H);if(z==='rot'){S.r=(S.r+90)%360;fit()}if(z==='fit')fit()};
+  return st}
+function renderViewer(){const c=byN[vN];const y=c.gis[0]?.y||(c.ix&&parseInt(c.ix.y));
+  $('#vtitle').innerHTML=`<small>CARPETA ${c.n} · ${y||'s/f'}${c.dud?' · plano con dudas':''}</small>${esc(c.ix?c.ix.prop:titleCase(title(c)))}`;
+  $$('#vmode button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.s===vS));
+  const st=$('#stages');st.innerHTML='';st.classList.toggle('duo',vS==='duo');
+  if(vS!=='plano')st.appendChild(makeStage(c.car?`img/c/${pad(c.n)}.jpg`:null,'Carátula'));
+  if(vS!=='car')st.appendChild(makeStage(`img/p/${pad(c.n)}.jpg`,'Plano'));
+  $('#vficha').innerHTML=fichaHTML(c,true);$('#vmap').hidden=!c.gis.length}
+function openViewer(n,s){vN=n;vS=s||'duo';if(window.innerWidth<=860&&vS==='duo')vS='plano';$('#viewer').hidden=false;document.body.style.overflow='hidden';renderViewer()}
+function closeViewer(){$('#viewer').hidden=true;document.body.style.overflow=''}
+$$('#vmode button').forEach(b=>b.onclick=()=>{vS=b.dataset.s;renderViewer()});
+$('#vclose').onclick=closeViewer;
+const step=d=>{let i=CAT.findIndex(c=>c.n===vN);i=(i+d+CAT.length)%CAT.length;vN=CAT[i].n;renderViewer()};
+$('#vprev').onclick=()=>step(-1);$('#vnext').onclick=()=>step(1);
+$('#vmap').onclick=()=>{const n=vN;closeViewer();show('mapa');Y=1925;$('#year').value=Y;applyYear();setTimeout(()=>select(n,true),60)};
+document.addEventListener('keydown',e=>{if($('#viewer').hidden)return;if(e.key==='Escape')closeViewer();if(e.key==='ArrowRight')step(1);if(e.key==='ArrowLeft')step(-1)});
+
+/* ---------- lecturas ---------- */
+const recs=CAT.filter(c=>c.gis.length&&c.gis[0].y).map(c=>({n:c.n,y:c.gis[0].y,ha:c.gis.reduce((s,x)=>s+x.ha,0),ag:c.gis[0].ag,ed:c.gis[0].ed,frag:Math.max(...c.gis.map(g=>g.frag)),pob:c.pob||{}}));
+const med=a=>{const s=[...a].sort((x,y)=>x-y);const m=s.length>>1;return s.length%2?s[m]:(s[m-1]+s[m])/2};
+const byDec={};recs.forEach(r=>{if(r.y>1910)return;const d=Math.floor(r.y/10)*10;(byDec[d]=byDec[d]||[]).push(r)});
+const D=Object.keys(byDec).map(Number).sort();
+const DS=D.map(d=>{const R=byDec[d];const ha=R.reduce((s,r)=>s+r.ha,0);const cnt=k=>R.reduce((s,r)=>s+Object.entries(r.pob).filter(([t])=>k(t)).reduce((a,[,v])=>a+v,0),0);
+  return{d,n:R.length,med:med(R.map(r=>r.ha)),ha,casas:cnt(t=>/CASA|RANCHO|POBLAC/.test(t))/ha*1000,puestos:cnt(t=>/PUESTO/.test(t))/ha*1000,arr:cnt(t=>/ARREND/.test(t)),tap:cnt(t=>/TAPERA/.test(t)),ed:R.filter(r=>r.ed==='SI').length/R.length}});
+function barChart(data,key,fmtv,{w=520,h=230,color='var(--accent)',label}={}){
+  const m={l:44,r:10,t:14,b:30};const iw=w-m.l-m.r,ih=h-m.t-m.b;const mx=Math.max(...data.map(d=>d[key]));
+  const st0=mx/4,p10=10**Math.floor(Math.log10(st0)),stp=[1,2,2.5,5,10].map(k=>k*p10).find(k=>k>=st0);const top=stp*4;const bw=iw/data.length;
+  let s=`<svg viewBox="0 0 ${w} ${h}" role="img" aria-label="${esc(label)}">`;
+  for(let i=0;i<=4;i++){const v=top*i/4,y=m.t+ih-ih*v/top;s+=`<line x1="${m.l}" x2="${w-m.r}" y1="${y}" y2="${y}" stroke="var(--line)" stroke-width="1"/><text x="${m.l-6}" y="${y+4}" text-anchor="end" font-size="11" font-family="IBM Plex Mono,monospace" fill="var(--muted)">${fmtv(v)}</text>`}
+  data.forEach((d,i)=>{const x=m.l+i*bw+bw*.18,bh=ih*d[key]/top,y=m.t+ih-bh;
+    s+=`<rect x="${x}" y="${y}" width="${bw*.64}" height="${bh}" fill="${color}" rx="1"/><text x="${x+bw*.32}" y="${y-4}" text-anchor="middle" font-size="11" font-family="IBM Plex Mono,monospace" fill="var(--ink)">${fmtv(d[key])}</text><text x="${x+bw*.32}" y="${h-10}" text-anchor="middle" font-size="11" font-family="IBM Plex Mono,monospace" fill="var(--muted)">${d.d}</text>`});
+  return s+'</svg>'}
+function scatter(){const w=520,h=260,m={l:52,r:12,t:12,b:30},iw=w-m.l-m.r,ih=h-m.t-m.b;
+  const x=y=>m.l+iw*(y-1820)/(1910-1820),ly=v=>m.t+ih-ih*(Math.log10(v)-1)/(Math.log10(20000)-1);
+  let s=`<svg viewBox="0 0 ${w} ${h}" role="img" aria-label="Superficie de cada mensura según su año">`;
+  [10,100,1000,10000].forEach(v=>{s+=`<line x1="${m.l}" x2="${w-m.r}" y1="${ly(v)}" y2="${ly(v)}" stroke="var(--line)"/><text x="${m.l-6}" y="${ly(v)+4}" text-anchor="end" font-size="11" font-family="IBM Plex Mono,monospace" fill="var(--muted)">${fmt(v)}</text>`});
+  for(let y=1820;y<=1910;y+=10)s+=`<text x="${x(y)}" y="${h-10}" text-anchor="middle" font-size="11" font-family="IBM Plex Mono,monospace" fill="var(--muted)">${y}</text>`;
+  recs.filter(r=>r.y<=1910&&r.ha>=10).forEach(r=>{s+=`<circle cx="${x(r.y)}" cy="${ly(r.ha)}" r="3.6" fill="${yearColor(r.y)}" fill-opacity=".8" stroke="var(--ink)" stroke-width=".4"><title>Carpeta ${r.n} · ${r.y} · ${fmt(r.ha)} ha</title></circle>`});
+  const pts=DS.map(d=>`${x(d.d+5)},${ly(d.med)}`).join(' ');
+  s+=`<polyline points="${pts}" fill="none" stroke="var(--sel)" stroke-width="2"/>`+DS.map(d=>`<circle cx="${x(d.d+5)}" cy="${ly(d.med)}" r="3.5" fill="var(--sel)"/>`).join('');
+  return s+`</svg>`}
+function pobChart(){const w=520,h=240,m={l:44,r:10,t:14,b:30},iw=w-m.l-m.r,ih=h-m.t-m.b;const top=3;const bw=iw/DS.length;
+  let s=`<svg viewBox="0 0 ${w} ${h}" role="img" aria-label="Casas y puestos por cada mil hectáreas medidas">`;
+  for(let i=0;i<=3;i++){const y=m.t+ih-ih*i/top;s+=`<line x1="${m.l}" x2="${w-m.r}" y1="${y}" y2="${y}" stroke="var(--line)"/><text x="${m.l-6}" y="${y+4}" text-anchor="end" font-size="11" font-family="IBM Plex Mono,monospace" fill="var(--muted)">${i}</text>`}
+  DS.forEach((d,i)=>{const x0=m.l+i*bw+bw*.14,bw2=bw*.34;[['casas','#7A4E3A'],['puestos','#C9A04A']].forEach(([k,c],j)=>{const v=Math.min(d[k],top);const bh=ih*v/top;s+=`<rect x="${x0+j*bw2}" y="${m.t+ih-bh}" width="${bw2-2}" height="${bh}" fill="${c}"><title>${d.d}: ${d[k].toFixed(2)} ${k} / 1000 ha</title></rect>`});
+    s+=`<text x="${x0+bw2}" y="${h-10}" text-anchor="middle" font-size="11" font-family="IBM Plex Mono,monospace" fill="var(--muted)">${d.d}</text>`});
+  return s+'</svg>'}
+const agT={};recs.forEach(r=>{const a=r.ag||'s/d';const o=agT[a]=agT[a]||{n:0,min:9999,max:0,ha:0};o.n++;o.min=Math.min(o.min,r.y);o.max=Math.max(o.max,r.y);o.ha+=r.ha});
+const agRows=Object.entries(agT).filter(([a])=>a&&a.trim()&&a!=='s/d').sort((a,b)=>b[1].n-a[1].n).slice(0,14);
+const first=DS[0],d1880=DS.find(d=>d.d===1880)||DS[DS.length-1];
+const peakP=DS.reduce((a,b)=>b.puestos>a.puestos?b:a);
+$('#essay').innerHTML=`
+<p class="eyebrow">Lecturas del conjunto</p>
+<h2>De la suerte de estancia a la chacra: el territorio que se va partiendo</h2>
+<p class="lede">Cada carpeta es una escena: un agrimensor, un juez que ordena, vecinos citados, mojones que se clavan. Vistas juntas, las ${recs.length} mensuras con fecha y polígono permiten leer un proceso. El pago de Giles pasa de la gran unidad ganadera a una trama cada vez más fina.</p>
+<div class="charts">
+  <figure class="ch"><figcaption>Superficie de cada mensura según su año · ha, escala logarítmica</figcaption>${scatter()}<p class="note">Cada punto es una carpeta. La línea une las medianas por década: ${fmt(first.med)} ha en los ${first.d} y ${fmt(d1880.med)} ha en los ${d1880.d}.</p></figure>
+  <figure class="ch"><figcaption>Mensuras por década</figcaption>${barChart(DS,'n',v=>fmt(v),{label:'Mensuras por década'})}<p class="note">El pico de los años 1860 a 1880 coincide con la expansión lanar, la ley de venta de tierras públicas y la sucesión de las grandes testamentarías.</p></figure>
+  <figure class="ch"><figcaption>Casas <span style="color:#7A4E3A">■</span> y puestos <span style="color:#C9A04A">■</span> dibujados cada 1000 ha medidas</figcaption>${pobChart()}<p class="note">Densidad de lo que el agrimensor decidió dibujar. El máximo de puestos cae en los ${peakP.d} (${peakP.puestos.toFixed(2)} por cada 1000 ha).</p></figure>
+  <figure class="ch"><figcaption>Proporción de mensuras con edificación declarada</figcaption>${barChart(DS.map(d=>({d:d.d,v:Math.round(d.ed*100)})),'v',v=>Math.round(v)+'%',{label:'Porcentaje edificado',color:'var(--y1)'})}</figure>
+</div>
+<h3>La subdivisión como medida del tiempo</h3>
+<p>El mapa permite superponer cada mensura con el registro gráfico de c. 1874. El modo «subdivisión 1874» cuenta cuántas parcelas de ese registro quedan dentro de cada polígono medido. Para una mensura anterior a 1874, un número alto indica que la unidad medida ya se había partido una generación después. Para una posterior, el porcentaje de la parcela dominante indica si la operación mide un campo entero o apenas un fragmento de él.</p>
+<p class="q">¿La fragmentación es un efecto de la herencia, del mercado de tierras o de la propia técnica de mensura? Cuando un agrimensor divide una testamentaría, ¿no está también fijando el orden de parentescos sobre el suelo?</p>
+<h3>Poblamiento: lo que el plano elige mostrar</h3>
+<p>Los ${G.pmens.features.length} puntos extraídos de los planos (casas, puestos, arrendatarios, pulperías, taperas) no son un censo. Registran lo que el agrimensor consideró digno de ser dibujado. Los ${DS.reduce((s,d)=>s+d.arr,0)} arrendatarios aparecen casi solo en los ${DS.filter(d=>d.arr).map(d=>d.d).join(' y ')}, y las taperas (${DS.reduce((s,d)=>s+d.tap,0)}) marcan presencias que ya no están. Cruzar esta capa con el registro de estancias y pulperías de 1884 permite preguntar quiénes habitaban el campo sin ser sus titulares.</p>
+<p class="q">Si el puesto es la forma material del ovino, ¿qué dice su desaparición en los planos de fin de siglo? ¿Un cambio productivo, o un cambio en lo que interesaba representar?</p>
+<h3>Caminos y redes</h3>
+<p>Las ${G.caminos.features.length} trazas proceden de las propias mensuras, y cada una lleva el año del plano que la registra. Con el deslizador temporal se ve cómo los caminos reales y de tropas quedan fijados como linderos antes de que el ferrocarril y el telégrafo impongan su geometría. El camino es a la vez límite de parcela y espacio común. ¿Cuántos de los linderos «por el camino» de las actas son hoy calles rurales del catastro?</p>
+<h3>Los agrimensores</h3>
+<div class="tbl"><table><thead><tr><th>Agrimensor</th><th>Mensuras</th><th>Período</th><th>ha medidas</th></tr></thead><tbody>
+${agRows.map(([a,o])=>`<tr><td>${esc(titleCase(a))}</td><td class="num">${o.n}</td><td class="num">${o.min}${o.max!==o.min?'–'+o.max:''}</td><td class="num">${fmt(o.ha)}</td></tr>`).join('')}
+</tbody></table></div>
+<p class="q">Eguía, Schuster, Muñiz, Orlandini: cada nombre tiene una manera de medir, de corregir la aguja, de nombrar el paisaje. ¿Se podría leer una «escuela» o un estilo en la forma en que cada uno describe los hitos?</p>`;
+
+/* ---------- fuentes ---------- */
+const noGeo=CAT.filter(c=>!c.gis.length).map(c=>c.n);
+const multi=CAT.filter(c=>c.gis.length>1).map(c=>c.n);
+const dud=CAT.filter(c=>c.dud).map(c=>c.n);
+$('#fuentes').innerHTML=`
+<p class="eyebrow">Fuentes, método y advertencias</p>
+<h2>Cómo está hecho este atlas</h2>
+<h3>Fondos documentales</h3>
+<p>191 carpetas de mensuras del partido de San Andrés de Giles, del Archivo Histórico de Geodesia de la Provincia de Buenos Aires, fotografiadas carpeta por carpeta. Para cada una se publica la carátula y la lámina del plano, elegidas entre las fotografías de la carpeta. Las carpetas 1 a 28 tienen además ficha paleográfica completa: síntesis, linderos, hitos, aguas y referencias de archivo.</p>
+<h3>Capas geográficas</h3>
+<div class="tbl"><table><thead><tr><th>Capa</th><th>Elementos</th><th>Contenido</th></tr></thead><tbody>
+<tr><td>Mensuras AHG</td><td class="num">${G.mensuras.features.length}</td><td>Polígono georreferenciado de cada mensura: titular, año, agrimensor, edificado.</td></tr>
+<tr><td>Registro gráfico c. 1874</td><td class="num">${G.r1874.features.length}</td><td>Parcelario del partido completo. ${G.r1874.features.filter(f=>f.properties.c||f.properties.t).length} polígonos cruzados con nomenclatura y titular actuales.</td></tr>
+<tr><td>Parcelas urbanas 1884</td><td class="num">${G.urbanas.features.length}</td><td>Planta del pueblo: propietario y tipo de ocupación (muro, alambrado, cerco, baldío).</td></tr>
+<tr><td>Caminos</td><td class="num">${G.caminos.features.length}</td><td>Caminos, ferrocarril, tranvía y telégrafo, con el año y la mensura que los registra.</td></tr>
+<tr><td>Poblamiento en mensuras</td><td class="num">${G.pmens.features.length}</td><td>Casas, puestos, arrendatarios, pulperías, taperas y otros hitos dibujados en los planos.</td></tr>
+<tr><td>Estancias y puestos 1884</td><td class="num">${G.p1884.features.length}</td><td>Estancias, puestos, pulperías, postas y poblaciones del registro de 1884.</td></tr>
+</tbody></table></div>
+<h3>Procesamiento</h3>
+<ul class="warns">
+<li>Las capas estaban en POSGAR 2007 / Argentina faja 5 (EPSG:5347) y se reproyectaron a WGS84. La capa de parcelas urbanas 1884 declaraba WGS84 pero sus coordenadas eran POSGAR; se reproyectó igual que las demás.</li>
+<li>Las superficies en hectáreas se calcularon sobre la geometría proyectada, antes de simplificarla para la web (tolerancia de 4 m en rurales, 0,5 m en urbanas).</li>
+<li>El índice de subdivisión cuenta las parcelas del registro 1874 que tienen más de la mitad de su superficie dentro de cada mensura.</li>
+<li>Se unificaron grafías de agrimensores: «EQUIA» se lee Eguía, «ISACH» se lee Ysach, «SHUSTER» y «CARLOS SCHUSTER» se agrupan como Schuster.</li>
+<li>Las carátulas fotografiadas apaisadas se rotaron a vertical. Los planos se muestran tal como fueron fotografiados; el visor permite girarlos.</li>
+</ul>
+<h3>Advertencias</h3>
+<ul class="warns">
+<li>Carpetas sin polígono en el SIG: ${noGeo.join(', ')}. Las 122 y 125 figuran en la tabla del SIG pero sin geometría.</li>
+<li>Números con más de un polígono (fracciones o lotes de una misma mensura): ${multi.join(', ')}. Hay además dos polígonos sin número.</li>
+<li>Numeración: el SIG asigna el 127 al «Pueblo y Ejido de San Andrés de Giles» (Orlandini, 1884), mientras que la carpeta rotulada «Ejido» es la 137, que en el SIG corresponde a Casado. Conviene cotejar con las carátulas.</li>
+<li>Plano elegido con dudas entre varias láminas: carpetas ${dud.join(', ')}. La carpeta 97 no tiene una carátula identificable.</li>
+<li>La carpeta 13 figura en la ficha como mensura de Bartolomé Saraví y en el SIG a nombre de Hipólito Quiroga: puede reflejar el titular posterior o un error de asignación.</li>
+<li>No se dispuso de la capa completa del parcelario catastral actual (ARBA). La lectura «actual» se limita a los ${G.r1874.features.filter(f=>f.properties.c||f.properties.t).length} polígonos del registro 1874 cruzados con nomenclatura y titular vigentes. Incorporar el parcelario vigente completo permitiría medir la fragmentación de punta a punta, del siglo XIX a hoy.</li>
+</ul>`;
+
+/* ---------- inicio ---------- */
+let startTab='mapa';try{startTab=localStorage.getItem('amg-tab')||'mapa'}catch(e){}
+const h=location.hash.slice(1);
+if(/^m\d+$/.test(h)){show('mapa');select(+h.slice(1),true)}
+else if(/^c\d+$/.test(h)){openViewer(+h.slice(1),'duo')}
+else if(['mapa','carpetas','lecturas','fuentes'].includes(h))show(h);else show(startTab);
+matchMedia('(prefers-color-scheme: dark)').addEventListener('change',()=>{legend();applyYear()});
+new MutationObserver(()=>{applyYear()}).observe(document.documentElement,{attributes:true,attributeFilter:['data-theme']});
+})();
+</script>
+
+</body>
+</html>
