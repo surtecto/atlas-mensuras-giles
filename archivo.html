@@ -1,0 +1,535 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Archivo abierto de Giles</title>
+<meta name="description" content="Fichas transcriptas de las mensuras de San Andrés de Giles, biblioteca del territorio, aportes de vecinos e investigadores y descargas en formatos abiertos.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: documento de consulta que continúa el Atlas. Encabezado con pestañas, una columna de lectura ancha;
+   el lector de fichas pone el renglón numerado del duplicado a la izquierda y su lectura a la derecha. */
+:root{
+  --paper:#E7EBE3; --sheet:#F3F5F0; --ink:#1D221F; --muted:#59635C; --line:#C3CBBF;
+  --accent:#1F4E79; --accent-ink:#F3F5F0; --sel:#B8321F; --ok:#4E7A5A; --gold:#C9A04A;
+  --f-display:"IM Fell English","Iowan Old Style","Palatino Linotype",Georgia,serif;
+  --f-body:"Newsreader","Iowan Old Style",Georgia,serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#141917;--sheet:#1B211E;--ink:#E2E7DF;--muted:#9AA69D;--line:#34403A;--accent:#86AEDB;--accent-ink:#0F1412;--sel:#F07A5E;--ok:#8FAE7A;--gold:#D9B45E;color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#141917;--sheet:#1B211E;--ink:#E2E7DF;--muted:#9AA69D;--line:#34403A;--accent:#86AEDB;--accent-ink:#0F1412;--sel:#F07A5E;--ok:#8FAE7A;--gold:#D9B45E;color-scheme:dark}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--paper);color:var(--ink);font:17px/1.55 var(--f-body);-webkit-font-smoothing:antialiased}
+[hidden]{display:none!important}
+img{max-width:100%}
+a{color:var(--accent)}
+button,input,select,textarea{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.wrap{max-width:1180px;margin:0 auto;padding-inline:16px}
+header.top{border-bottom:1px solid var(--line);padding-block:.9rem .7rem}
+.top .wrap{display:flex;flex-wrap:wrap;align-items:end;gap:.5rem 1.5rem}
+.brand{min-width:0;flex:1 1 300px}
+.brand a.back{font:500 12px var(--f-mono);letter-spacing:.08em;text-transform:uppercase;text-decoration:none;color:var(--muted)}
+.brand a.back:hover{color:var(--accent)}
+.brand h1{font:400 clamp(1.7rem,3.4vw,2.5rem)/1.05 var(--f-display);margin:.1rem 0 0;text-wrap:balance}
+.brand p{margin:.3rem 0 0;font-size:15px;color:var(--muted);max-width:62ch}
+nav.tabs{display:flex;gap:.2rem;flex-wrap:wrap}
+nav.tabs a{border:1px solid transparent;padding:.3rem .75rem;border-radius:999px;font:500 12.5px var(--f-mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);text-decoration:none}
+nav.tabs a[aria-current="page"]{background:var(--ink);color:var(--paper)}
+nav.tabs a:hover{border-color:var(--line)}
+main{padding-block:1.4rem 4rem}
+.eyebrow{font:500 11px var(--f-mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0}
+h2{font:400 clamp(1.5rem,2.6vw,2rem)/1.12 var(--f-display);margin:0;text-wrap:balance}
+h3{font:400 1.3rem/1.2 var(--f-display);margin:0;text-wrap:balance}
+.lede{max-width:66ch;margin:.5rem 0 0}
+.stack{display:grid;grid-template-columns:minmax(0,1fr);gap:1.2rem}
+.stack>*,.sec>*{min-width:0}
+select,input,textarea{max-width:100%}
+.btn{border:1px solid var(--line);background:var(--sheet);border-radius:5px;padding:.3rem .65rem;cursor:pointer;font:500 12.5px var(--f-mono);text-decoration:none;color:var(--ink);display:inline-block}
+.btn:hover{border-color:var(--ink)}
+.btn.pri{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.btn[disabled]{opacity:.45;cursor:default}
+.row{display:flex;flex-wrap:wrap;gap:.45rem;align-items:center}
+.chip{font:11px var(--f-mono);border:1px solid var(--line);border-radius:999px;padding:.08rem .5rem;color:var(--muted);white-space:nowrap}
+.chip.full{border-color:var(--ok);color:var(--ok)}
+.chip.warn{border-color:var(--sel);color:var(--sel)}
+.filters{display:flex;flex-wrap:wrap;gap:.6rem;align-items:center}
+.filters input[type=search],.filters select,.form input,.form select,.form textarea{padding:.5rem .65rem;border:1px solid var(--line);border-radius:6px;background:var(--sheet);min-width:0}
+.filters input[type=search]{flex:1 1 260px}
+.filters label{font-size:15px;display:flex;gap:.35rem;align-items:center}
+.count{font:12px var(--f-mono);color:var(--muted);margin-left:auto}
+.note{color:var(--muted);font-size:15px;max-width:70ch;margin:0}
+/* avance del corpus: una celda por carpeta */
+.corpus{display:grid;grid-template-columns:repeat(auto-fill,minmax(15px,1fr));gap:2px;max-width:900px}
+.corpus a{aspect-ratio:1;border:1px solid var(--line);border-radius:2px;background:transparent;display:block}
+.corpus a.r{background:color-mix(in srgb,var(--accent) 35%,transparent);border-color:var(--accent)}
+.corpus a.f{background:var(--accent);border-color:var(--accent)}
+.corpus a:hover{outline:2px solid var(--sel)}
+.key{display:flex;flex-wrap:wrap;gap:.3rem 1rem;font:12px var(--f-mono);color:var(--muted)}
+.key i{display:inline-block;width:11px;height:11px;border:1px solid var(--line);border-radius:2px;vertical-align:-1px;margin-right:.35rem}
+.key i.r{background:color-mix(in srgb,var(--accent) 35%,transparent);border-color:var(--accent)}
+.key i.f{background:var(--accent);border-color:var(--accent)}
+/* listas */
+.list{display:grid;border-top:1px solid var(--line)}
+.item{display:grid;grid-template-columns:4.2rem minmax(0,1fr);gap:.2rem 1rem;padding:.75rem 0;border-bottom:1px solid var(--line);text-decoration:none;color:inherit}
+a.item:hover .ti{color:var(--accent)}
+.item .n{font:500 13px/1.7 var(--f-mono);color:var(--sel);letter-spacing:.05em}
+.item .ti{font:600 1.08rem/1.25 var(--f-body);overflow-wrap:anywhere}
+.item .me{font:12.5px/1.5 var(--f-mono);color:var(--muted)}
+.item .tx{font-size:15.5px;margin:.2rem 0 0;max-width:78ch}
+.item .body{min-width:0;display:grid;gap:.15rem}
+mark{background:color-mix(in srgb,var(--gold) 45%,transparent);color:inherit;padding:0 .1em;border-radius:2px}
+/* lector */
+.reader-head{display:grid;gap:.6rem;padding-bottom:1rem;border-bottom:1px solid var(--line)}
+.num{font:500 12px var(--f-mono);color:var(--sel);letter-spacing:.08em}
+dl.kv{display:grid;grid-template-columns:minmax(8rem,auto) minmax(0,1fr);gap:.2rem 1rem;margin:0;font-size:15.5px}
+dl.kv dt{font:12px/1.9 var(--f-mono);color:var(--muted)}
+dl.kv dd{margin:0;min-width:0;overflow-wrap:anywhere}
+.two{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,300px);gap:1.5rem;align-items:start}
+.thumbs{display:grid;grid-template-columns:1fr 1fr;gap:.5rem}
+.thumbs a{display:grid;border:1px solid var(--line);border-radius:4px;overflow:hidden;background:var(--sheet);text-decoration:none}
+.thumbs img{aspect-ratio:3/4;object-fit:cover;width:100%;display:block}
+.thumbs small{font:11px var(--f-mono);color:var(--muted);padding:.25rem .4rem}
+.tools{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--paper);padding-block:.6rem;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;gap:.5rem 1.2rem;align-items:center}
+.seg{display:flex;flex-wrap:wrap;gap:.25rem}
+.seg button{border:1px solid var(--line);background:none;border-radius:4px;padding:.2rem .55rem;font:12px var(--f-mono);cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.folio{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:1.4rem;padding-block:1.2rem;border-bottom:1px solid var(--line)}
+.folio>header{grid-column:1/-1;display:grid;gap:.15rem}
+.folio .src{font:12px var(--f-mono);color:var(--muted)}
+ol.tx{margin:0;padding:0;list-style:none;counter-reset:r;font:400 16px/1.5 var(--f-body);background:var(--sheet);border:1px solid var(--line);border-radius:4px;padding:.8rem .9rem .8rem 0;min-width:0;overflow-x:auto}
+ol.tx li{counter-increment:r;display:grid;grid-template-columns:2.6rem minmax(0,1fr);gap:.4rem}
+ol.tx li::before{content:counter(r);font:11px/2.2 var(--f-mono);color:var(--muted);text-align:right;font-variant-numeric:tabular-nums;user-select:none}
+ol.tx sup{font-size:.7em}
+ol.tx del{color:var(--muted)}
+.ed{color:var(--muted);font-style:italic}
+.interp{min-width:0}
+.interp p{margin:.3rem 0 .6rem}
+body[data-modo="tx"] .folio .interp,body[data-modo="in"] .folio ol.tx{display:none}
+body[data-modo="tx"] .folio,body[data-modo="in"] .folio{grid-template-columns:minmax(0,1fr)}
+.sec{display:grid;grid-template-columns:minmax(0,1fr);gap:.8rem;padding-top:1.6rem}
+.card{background:var(--sheet);border:1px solid var(--line);border-radius:6px;padding:.9rem 1rem;display:grid;gap:.4rem;min-width:0}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:12px}
+.card p{margin:0;font-size:15.5px}
+.card .rol{font:12px var(--f-mono);color:var(--muted)}
+.cite{font:13px/1.5 var(--f-mono);background:var(--sheet);border:1px dashed var(--line);border-radius:4px;padding:.6rem .8rem;overflow-wrap:anywhere;user-select:all}
+table{border-collapse:collapse;font-size:15px;width:100%}
+th,td{text-align:left;padding:.4rem .7rem .4rem 0;border-bottom:1px solid var(--line);vertical-align:top}
+th{font:500 11px var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.tbl{overflow-x:auto}.tbl table{min-width:560px}
+/* formulario */
+.form{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.8rem 1rem;max-width:860px}
+.form label{display:grid;gap:.25rem;font:500 12px var(--f-mono);letter-spacing:.04em;color:var(--muted);min-width:0}
+.form label.w{grid-column:1/-1}
+.form label.chk{display:flex;gap:.5rem;align-items:flex-start;font:15px/1.4 var(--f-body);color:var(--ink);letter-spacing:0}
+.form textarea{min-height:6.5rem;resize:vertical}
+.tipos{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,230px),1fr));gap:10px}
+.tipos .card b{font:600 1rem var(--f-body)}
+.out{font:13px/1.5 var(--f-mono);white-space:pre-wrap;overflow-wrap:anywhere;background:var(--sheet);border:1px solid var(--line);border-radius:6px;padding:.8rem 1rem;max-height:340px;overflow:auto}
+.err{color:var(--sel);font-size:15px;margin:0}
+.q{border-left:3px solid var(--accent);padding:.1rem 0 .1rem 1rem;display:grid;gap:.3rem;max-width:74ch}
+.q h3{font-style:italic}
+.q p{margin:0;font-size:16px}
+.plat{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:12px}
+.plat .card h3 a{color:inherit;text-decoration:none}
+.plat .card h3 a:hover{color:var(--accent)}
+.plat .pq{font-style:italic;color:var(--accent)}
+footer{border-top:1px solid var(--line);padding-block:1.2rem 2.5rem;font-size:14px;color:var(--muted)}
+@media (max-width:820px){
+  .two,.folio{grid-template-columns:minmax(0,1fr)}
+  .form{grid-template-columns:minmax(0,1fr)}
+  .item{grid-template-columns:3.2rem minmax(0,1fr)}
+  dl.kv{grid-template-columns:minmax(0,1fr)}dl.kv dt{line-height:1.3;margin-top:.4rem}
+}
+.fmt{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,240px),1fr));gap:12px}
+.fmt .card b{font:600 1.05rem var(--f-body)}
+.ext{font:500 12px var(--f-mono);border:1px solid var(--accent);color:var(--accent);border-radius:3px;padding:.05rem .35rem;white-space:nowrap}
+.files{list-style:none;margin:0;padding:0;display:grid;gap:.3rem;font-size:15px}
+.files li{display:flex;flex-wrap:wrap;gap:.4rem;align-items:center}
+.files .bad{color:var(--sel)}
+.drop{border:1px dashed var(--line);border-radius:6px;padding:.8rem 1rem;background:var(--sheet);display:grid;gap:.5rem;min-width:0}
+.printonly{display:none}
+@media print{
+  :root{--paper:#fff;--sheet:#fff;--ink:#000;--muted:#444;--line:#bbb;--accent:#1F4E79;--sel:#8a2412;color-scheme:light}
+  @page{size:A4;margin:16mm 15mm}
+  body{font-size:10.5pt;line-height:1.4;background:#fff}
+  header.top nav,.brand a.back,.brand p,.tools,.filters,.btn,footer,.corpus,.key,#aform,#aout,.seg,#tipos,#fmt-a,.thumbs small{display:none!important}
+  header.top{border:0;padding:0 0 4mm}.brand h1{font:500 9pt var(--f-mono);letter-spacing:.08em;text-transform:uppercase}
+  .printonly{display:inline}
+  main{padding:0}.wrap{max-width:none;padding:0}
+  a{color:inherit;text-decoration:none}
+  .two{grid-template-columns:minmax(0,1fr)}
+  dl.kv{grid-template-columns:42mm minmax(0,1fr)}dl.kv dt{line-height:1.9;margin-top:0}
+  .folio{grid-template-columns:minmax(0,1.15fr) minmax(0,1fr)}
+  body[data-modo="tx"] .folio,body[data-modo="in"] .folio{grid-template-columns:minmax(0,1fr)}
+  .thumbs{grid-template-columns:1fr 1fr;break-inside:avoid;max-width:150mm}
+  .thumbs img{aspect-ratio:auto;object-fit:contain;max-height:105mm}
+  .folio{gap:5mm;padding-block:4mm}
+  .folio>header,.sec>h3,h2,h3{break-after:avoid}
+  ol.tx{border-color:#999;font-size:9.5pt;overflow:visible}
+  ol.tx li,.card,.item,.q{break-inside:avoid}
+  .cards{grid-template-columns:1fr 1fr}
+  .item{padding:2.5mm 0}
+  mark{background:none}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important;scroll-behavior:auto!important}}
+</style>
+</head>
+<body data-modo="am">
+<header class="top"><div class="wrap">
+  <div class="brand">
+    <a class="back" href="index.html">← Atlas de Mensuras de Giles · mapa</a>
+    <h1>Archivo abierto<span class="printonly"> · Atlas de Mensuras de Giles</span></h1>
+    <p>Lo que el Atlas sabe del territorio de Giles, para leerlo, citarlo, descargarlo y completarlo.</p>
+  </div>
+  <nav class="tabs" aria-label="Secciones">
+    <a href="#fichas" data-v="fichas">Fichas</a>
+    <a href="#personas" data-v="personas">Personas</a>
+    <a href="#biblioteca" data-v="biblioteca">Biblioteca</a>
+    <a href="#aportes" data-v="aportes">Aportes</a>
+    <a href="#preguntas" data-v="preguntas">Preguntas</a>
+    <a href="#plataformas" data-v="plataformas">Plataformas</a>
+    <a href="#descargas" data-v="descargas">Descargas</a>
+  </nav>
+</div></header>
+
+<main><div class="wrap">
+
+<!-- FICHAS -->
+<section id="v-fichas" class="stack" hidden>
+  <div>
+    <p class="eyebrow">Mensuras transcriptas · Archivo Histórico de Geodesia</p>
+    <h2 id="fh">Fichas</h2>
+    <p class="lede">Cada ficha reúne la transcripción paleográfica del duplicado, renglón por renglón, su lectura en castellano actual, la descripción de los planos, observaciones y las biografías de las personas nombradas. El trabajo avanza carpeta por carpeta.</p>
+  </div>
+  <div class="stack" style="gap:.5rem">
+    <div class="corpus" id="corpus" aria-label="Avance de la transcripción, una celda por carpeta"></div>
+    <div class="key"><span><i class="f"></i>texto completo en línea</span><span><i class="r"></i>ficha hecha, resumen en línea</span><span><i></i>pendiente</span><span id="avance"></span></div>
+  </div>
+  <div class="filters">
+    <input type="search" id="fq" placeholder="Titular, agrimensor, paraje, arroyo, número…" aria-label="Buscar fichas">
+    <select id="fag" aria-label="Agrimensor"><option value="">Todos los agrimensores</option></select>
+    <select id="fdec" aria-label="Década"><option value="">Todas las décadas</option></select>
+    <label><input type="checkbox" id="ftxt"> buscar dentro de las transcripciones</label>
+    <span class="count" id="fcount"></span>
+  </div>
+  <div class="row"><span class="eyebrow">Índice de fichas</span>
+    <button class="btn" data-pdf>PDF</button><button class="btn" data-dl="idx-csv">Planilla (CSV)</button></div>
+  <div class="list" id="flist"></div>
+</section>
+
+<!-- LECTOR -->
+<section id="v-lector" hidden></section>
+
+<!-- PERSONAS -->
+<section id="v-personas" class="stack" hidden>
+  <div><p class="eyebrow">Quiénes aparecen en las mensuras</p><h2>Personas</h2>
+  <p class="lede">Propietarios, linderos, agrimensores, jueces, puesteros y arrendatarios, con lo que cada duplicado dice de ellos. Si reconocés a alguien de tu familia, podés completar su historia en <a href="#aportes">Aportes</a>.</p></div>
+  <div class="filters"><input type="search" id="pq" placeholder="Apellido, rol, estancia…" aria-label="Buscar personas">
+    <span class="count" id="pcount"></span><button class="btn" data-pdf>PDF</button><button class="btn" data-dl="per-csv">Planilla (CSV)</button></div>
+  <div><p class="eyebrow">Agrimensores del corpus</p><div class="row" id="ags" style="margin-top:.5rem"></div></div>
+  <div class="cards" id="plist"></div>
+</section>
+
+<!-- BIBLIOTECA -->
+<section id="v-biblioteca" class="stack" hidden>
+  <div><p class="eyebrow">Papers, tesis, libros y fuentes sobre este territorio</p><h2>Biblioteca</h2>
+  <p class="lede">Un catálogo en formación de lo que se ha investigado sobre San Andrés de Giles y su región. Cada registro lleva su cita lista para copiar y, cuando el texto es de acceso abierto, el enlace al PDF.</p></div>
+  <div class="filters"><input type="search" id="bq" placeholder="Autor, título, tema…" aria-label="Buscar en la biblioteca">
+    <select id="btipo" aria-label="Tipo"><option value="">Todos los tipos</option></select>
+    <span class="count" id="bcount"></span>
+    <button class="btn" data-pdf>PDF</button><button class="btn" data-dl="bib-csv">Planilla (CSV)</button></div>
+  <div class="list" id="blist"></div>
+  <p class="note">¿Falta un trabajo, o escribiste uno? Sumalo desde <a href="#aportes">Aportes</a>, eligiendo «Bibliografía» o «Investigación propia».</p>
+</section>
+
+<!-- APORTES -->
+<section id="v-aportes" class="stack" hidden>
+  <div><p class="eyebrow">El Atlas se completa entre todos</p><h2>Aportes</h2>
+  <p class="lede">Un atlas ayuda a comprender un territorio cuando junta la medida con la memoria. Los duplicados dicen dónde estaba el mojón; quien vive ahí sabe qué árbol era, cómo se llamaba el paso, quién levantó la casa. Todo aporte se revisa antes de publicarse y aparece con el nombre de quien lo acercó.</p></div>
+  <div class="stack" style="gap:.6rem"><p class="eyebrow">Tres clases de archivo, las mismas para subir y para bajar</p><div class="fmt" id="fmt-a"></div></div>
+  <div class="tipos" id="tipos"></div>
+
+  <div class="sec" style="padding-top:.4rem">
+    <h3>Aportes publicados</h3>
+    <div class="filters"><select id="atipo" aria-label="Tipo de aporte"><option value="">Todos los tipos</option></select>
+      <span class="count" id="acount"></span><button class="btn" data-pdf>PDF</button><button class="btn" data-dl="apo-csv">Planilla (CSV)</button><button class="btn" data-dl="apo-geojson">GeoJSON</button><button class="btn" data-dl="apo-kml">KML</button></div>
+    <div class="list" id="alist"></div>
+  </div>
+
+  <div class="sec">
+    <h3 id="aportar">Sumar un aporte</h3>
+    <p class="note">Completá la ficha. Al terminar se arma el registro del aporte, que acompaña a los archivos que envíes.</p>
+    <form class="form" id="aform" novalidate>
+      <label>Tipo de aporte<select id="a-tipo" required></select></label>
+      <label>Título<input id="a-titulo" required placeholder="Ej.: Tapera de la pulpería sobre el camino a Zárate"></label>
+      <label class="w">Descripción<textarea id="a-desc" required placeholder="Qué es, qué muestra, qué sabés de su historia."></textarea></label>
+      <label>Lugar o paraje<input id="a-lugar" placeholder="Estancia, cuartel, arroyo, calle…"></label>
+      <label>Coordenadas, si las tenés<input id="a-coord" placeholder="-34.4465, -59.4440" inputmode="text"></label>
+      <label>Año o época<input id="a-anio" placeholder="1934, c. 1900, década de 1960…"></label>
+      <label>Carpeta de mensura vinculada<input id="a-carp" placeholder="Número de carpeta, si corresponde" inputmode="numeric"></label>
+      <label>Procedencia o fuente<input id="a-fuente" placeholder="Álbum familiar, archivo, publicación, relato de…"></label>
+      <label>Enlace, si ya está publicado<input id="a-url" type="url" placeholder="https://…"></label>
+      <label>Tu nombre, como querés figurar<input id="a-autor" required></label>
+      <label>Correo de contacto (no se publica)<input id="a-mail" type="email" required></label>
+      <div class="w drop"><label for="a-files" style="font:500 12px var(--f-mono);letter-spacing:.04em;color:var(--muted)">Archivos del aporte</label>
+        <input type="file" id="a-files" multiple accept=".jpg,.jpeg,.png,.tif,.tiff,.webp,.pdf,.zip,.geojson,.json,.kml,.kmz,.gpx">
+        <ul class="files" id="a-flist"></ul>
+        <p class="note" style="font-size:14px">Elegí los archivos para comprobar que están en un formato admitido. Se anotan en el registro y los adjuntás al enviarlo.</p></div>
+      <label class="w chk"><input type="checkbox" id="a-lic" required><span>Tengo derecho a compartir este material y acepto que se publique en el Atlas con mi nombre, bajo licencia <a id="licl" target="_blank" rel="noopener">CC BY 4.0</a>. No incluye datos personales de terceros vivos sin su consentimiento.</span></label>
+      <div class="w row"><button class="btn pri" type="submit">Armar el registro del aporte</button><p class="err" id="aerr" role="alert" hidden></p></div>
+    </form>
+    <div id="aout" class="stack" hidden>
+      <p class="note" id="aout-how"></p>
+      <div class="out" id="aout-txt" tabindex="0"></div>
+      <div class="row"><button class="btn" id="acopy">Copiar el registro</button><a class="btn pri" id="aform-link" target="_blank" rel="noopener" hidden>Abrir el formulario de carga</a><span class="note" id="acopied" hidden>Copiado.</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- PREGUNTAS -->
+<section id="v-preguntas" class="stack" hidden>
+  <div><p class="eyebrow">Lo que el Atlas todavía no sabe</p><h2>Preguntas abiertas</h2>
+  <p class="lede">Cada mensura transcripta contesta algo y deja algo sin contestar. Estas son preguntas que los documentos del archivo no alcanzan a cerrar y que alguien, en Giles o fuera, quizá pueda responder.</p></div>
+  <div class="stack" id="qlist"></div>
+</section>
+
+<!-- PLATAFORMAS -->
+<section id="v-plataformas" class="stack" hidden>
+  <div><p class="eyebrow">Otras lecturas del mismo territorio</p><h2>Plataformas</h2>
+  <p class="lede">El Atlas mira el suelo desde su medición histórica. Estas herramientas lo miran desde la norma, el patrimonio y el catastro de hoy. Se enlazan por las claves que comparten.</p></div>
+  <div class="plat" id="plat"></div>
+</section>
+
+<!-- DESCARGAS -->
+<section id="v-descargas" class="stack" hidden>
+  <div><p class="eyebrow">Datos abiertos</p><h2>Descargas</h2>
+  <p class="lede">Todo lo que el Atlas publica se baja en tres clases de archivo que cualquiera puede abrir: los textos en PDF, las imágenes en JPG y la información espacial en Shapefile, GeoJSON y KML.</p></div>
+  <div class="fmt" id="fmt-d"></div>
+  <div class="sec"><h3>Textos · PDF</h3><div class="tbl"><table id="dtxt"><thead><tr><th>Documento</th><th>Contenido</th><th>Descarga</th></tr></thead><tbody></tbody></table></div></div>
+  <div class="sec"><h3>Imágenes · JPG</h3><p class="note">La carátula y el plano de cada una de las 191 carpetas. Elegí una carpeta:</p>
+    <div class="filters"><select id="dimg" aria-label="Carpeta"></select><a class="btn" id="dimg-c" download>Carátula (JPG)</a><a class="btn" id="dimg-p" download>Plano (JPG)</a></div></div>
+  <div class="sec"><h3>Información espacial · SHP, GeoJSON, KML</h3><p class="note">Todas las capas en WGS84 (EPSG:4326). El Shapefile viene en un .zip con sus archivos .shp, .shx, .dbf y .prj; abre en QGIS y ArcGIS. El KML abre en Google Earth.</p>
+    <div class="tbl"><table id="dsig"><thead><tr><th>Capa</th><th>Elementos</th><th>Descarga</th></tr></thead><tbody></tbody></table></div></div>
+  <div class="card" style="max-width:860px"><p class="eyebrow">Cómo citar</p><div class="cite" id="citeall"></div>
+    <p id="lic"></p></div>
+</section>
+
+</div></main>
+<footer><div class="wrap">Documentos: Archivo Histórico de Geodesia, Ministerio de Infraestructura de la Provincia de Buenos Aires. Transcripción, interpretación y curaduría: Juan Patricio Addesso, Doctorado en Geografía (USAL) · <a href="https://www.surtectura.ar" target="_blank" rel="noopener">Surtectura</a>.</div></footer>
+
+<script>
+(async function(){
+const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const pad=n=>String(n).padStart(3,'0');
+const norm=s=>String(s??'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
+const get=async(u,d)=>{try{const r=await fetch(u);if(!r.ok)throw 0;return await r.json()}catch(e){return d}};
+const A='data/archivo/';
+const [IDX,PERS,BIB,APO,QS,CFG]=await Promise.all([get(A+'fichas.json',{fichas:[],tandas:[],total_corpus:191}),get(A+'personas.json',[]),get(A+'biblioteca.json',[]),get(A+'aportes.json',[]),get(A+'preguntas.json',[]),get(A+'config.json',{plataformas:[],docx:{}})]);
+const F=IDX.fichas,byN={};F.forEach(f=>byN[f.n]=f);
+const TOTAL=IDX.total_corpus||191, SITE=location.origin+location.pathname.replace(/[^/]*$/,'');
+const HOY=new Date().toLocaleDateString('es-AR',{day:'numeric',month:'long',year:'numeric'});
+
+/* ---------- utilidades de descarga y copia ---------- */
+function dl(name,mime,text){const b=new Blob([(mime==='text/csv'?String.fromCharCode(0xFEFF):'')+text],{type:mime+';charset=utf-8'});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=name;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),4000)}
+const csv=rows=>rows.map(r=>r.map(v=>{v=String(v??'');return /[",;\n]/.test(v)?'"'+v.replace(/"/g,'""')+'"':v}).join(',')).join('\r\n');
+function copy(text,el){const done=()=>{if(el){el.hidden=false;setTimeout(()=>el.hidden=true,2500)}};
+  try{navigator.clipboard.writeText(text).then(done,()=>{})}catch(e){}}
+const hl=(s,q)=>{s=esc(s);if(!q)return s;const n=norm(s),k=norm(q);if(!k)return s;let o='',i=0,j;while((j=n.indexOf(k,i))>=0){o+=s.slice(i,j)+'<mark>'+s.slice(j,j+k.length)+'</mark>';i=j+k.length}return o+s.slice(i)};
+/* notación paleográfica de las fichas: ^{x} voladita, ~~x~~ testado, **x** destacado, [x] nota del transcriptor */
+const pal=s=>esc(s).replace(/\^\{([^}]*)\}/g,'<sup>$1</sup>').replace(/~~(.*?)~~/g,'<del>$1</del>').replace(/\*\*(.*?)\*\*/g,'<b>$1</b>').replace(/\[([^\]]*)\]/g,'<span class="ed">[$1]</span>');
+const plano=s=>String(s??'').replace(/\^\{([^}]*)\}/g,'$1').replace(/~~(.*?)~~/g,'⟨$1⟩').replace(/\*\*/g,'');
+const paras=s=>String(s??'').split(/\n+/).map(p=>'<p>'+esc(p)+'</p>').join('');
+const fichaRef=s=>esc(s).replace(/\b(Fichas?)\s+((?:\d{3}(?:\s*[,y-]\s*|\s+y\s+)?)+)/g,(m,a,b)=>a+' '+b.replace(/\d{3}/g,d=>byN[+d]?`<a href="#f${d}">${d}</a>`:d));
+
+/* ---------- FICHAS: índice ---------- */
+$('#corpus').innerHTML=Array.from({length:TOTAL},(_,i)=>{const f=byN[i+1];return `<a href="${f?'#f'+pad(i+1):'index.html#c'+(i+1)}" class="${f?(f.full?'f':'r'):''}" title="Carpeta ${i+1}${f?' · '+esc(f.prop)+' ('+esc(f.y)+')':' · pendiente'}"></a>`}).join('');
+$('#avance').textContent=`${F.length} de ${TOTAL} carpetas con ficha · ${F.filter(f=>f.full).length} con texto completo en línea`;
+const AG=[...new Set(F.map(f=>f.ag).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'es'));
+$('#fag').innerHTML+=AG.map(a=>`<option>${esc(a)}</option>`).join('');
+$('#fdec').innerHTML+=[...new Set(F.map(f=>Math.floor(parseInt(f.y)/10)*10).filter(Boolean))].sort().map(d=>`<option value="${d}">${d}–${d+9}</option>`).join('');
+let CH=null;const chunks=async()=>CH||(CH=(await Promise.all((IDX.tandas||[]).map(t=>get(A+'busqueda/'+t,[])))).flat());
+async function renderF(){
+  const q=$('#fq').value.trim(),k=norm(q),ag=$('#fag').value,d=$('#fdec').value,full=$('#ftxt').checked;
+  let L=F.filter(f=>(!ag||f.ag===ag)&&(!d||Math.floor(parseInt(f.y)/10)*10==d));
+  let hits={};
+  if(k&&full){const C=await chunks();C.forEach(c=>{const x=norm(c.x),i=x.indexOf(k);if(i>=0)(hits[c.n]=hits[c.n]||[]).push({t:c.t,k:c.k,s:c.x.slice(Math.max(0,i-70),i+k.length+90)})})}
+  if(k)L=L.filter(f=>hits[f.n]||String(f.n)===k||norm([f.prop,f.ag,f.y,f.ubic,f.agua,f.hitos,f.lind,f.sint].join(' ')).includes(k));
+  $('#fcount').textContent=L.length+' ficha'+(L.length===1?'':'s');
+  $('#flist').innerHTML=L.map(f=>`<a class="item" href="#f${pad(f.n)}"><span class="n">N.º ${pad(f.n)}</span><span class="body">
+    <span class="ti">${hl(f.prop,q)}</span>
+    <span class="me">${esc(f.y)} · ${hl(f.ag,q)}${f.ubic?' · '+hl(f.ubic,q):''}</span>
+    <span class="tx">${hl(f.sint,q)}</span>
+    ${(hits[f.n]||[]).slice(0,3).map(h=>`<span class="tx"><span class="chip">${esc(h.t)}</span> …${hl(h.s,q)}…</span>`).join('')}
+    <span class="row" style="margin-top:.2rem">${f.full?`<span class="chip full">texto completo${f.renglones?' · '+f.renglones+' renglones':''}</span>`:'<span class="chip">resumen</span>'}${hits[f.n]?`<span class="chip">${hits[f.n].length} pasaje${hits[f.n].length>1?'s':''}</span>`:''}</span>
+  </span></a>`).join('')||'<p class="note" style="padding:1rem 0">Ninguna ficha coincide con esa búsqueda.</p>';
+}
+['fq','fag','fdec','ftxt'].forEach(id=>$('#'+id).addEventListener('input',renderF));
+
+/* ---------- LECTOR ---------- */
+let CUR=null;
+const titulo=(f,d)=>`Ficha ${pad(f.n)} · ${f.prop} (${f.y})`;
+const cita=f=>`Addesso, Juan Patricio (2026). «Ficha ${pad(f.n)}: ${f.prop} (${f.y})». Transcripción e interpretación del duplicado de mensura n.º ${f.n} del partido de San Andrés de Giles, Archivo Histórico de Geodesia de la Provincia de Buenos Aires. Atlas de Mensuras de Giles, Archivo abierto. ${SITE}archivo.html#f${pad(f.n)} (consultado el ${HOY}).`;
+async function openF(n){
+  const f=byN[n],el=$('#v-lector');if(!f){el.innerHTML=`<p class="note">La carpeta ${n} todavía no tiene ficha. Podés ver su carátula y su plano en el <a href="index.html#c${n}">visor del Atlas</a>.</p>`;return}
+  const d=f.full?await get(A+'fichas/'+pad(n)+'.json',null):null;CUR={f,d};
+  const docx=(CFG.docx||{})[pad(n)]||'',pdf=(CFG.pdf||{})[pad(n)]||'';
+  const prev=F[F.indexOf(f)-1],next=F[F.indexOf(f)+1];
+  const R=d?Object.entries(d.resumen||{}):[['Propietario / solicitante',f.prop],['Agrimensor',f.ag],['Año',f.y],['Fecha de la diligencia',f.fecha],['Ubicación',f.ubic],['Superficie (ha)',f.sup],['Aguas',f.agua],['Hitos',f.hitos],['Linderos citados',f.lind],['Referencia de archivo',f.ref]].filter(r=>r[1]);
+  let h=`<div class="stack">
+  <div class="row"><a class="btn" href="#fichas">← Todas las fichas</a>${prev?`<a class="btn" href="#f${pad(prev.n)}">◀ ${pad(prev.n)}</a>`:''}${next?`<a class="btn" href="#f${pad(next.n)}">${pad(next.n)} ▶</a>`:''}<a class="btn" href="index.html#m${n}">Ver en el mapa</a><a class="btn" href="index.html#c${n}">Carátula y plano</a></div>
+  <div class="reader-head"><span class="num">FICHA ${pad(n)} · DUPLICADO DE MENSURA N.º ${n}${d&&d.estado?' · '+esc(d.estado).toUpperCase():''}</span>
+    <h2>${esc(f.prop)}</h2>
+    <p class="lede" style="margin:0">${fichaRef(f.sint)}</p></div>
+  <div class="two"><dl class="kv">${R.map(([a,b])=>`<dt>${esc(a)}</dt><dd>${esc(b)}</dd>`).join('')}</dl>
+    <div class="thumbs"><a href="index.html#c${n}"><img src="img/c/${pad(n)}.jpg" alt="Carátula de la carpeta ${n}" loading="lazy" onerror="this.closest('a').hidden=true"><small>Carátula</small></a><a href="index.html#c${n}"><img src="img/p/${pad(n)}.jpg" alt="Plano de la carpeta ${n}" loading="lazy" onerror="this.closest('a').hidden=true"><small>Plano</small></a></div></div>
+  <div class="tools"><div class="row"><span class="eyebrow">Descargar</span>
+      ${pdf?`<a class="btn pri" href="${esc(pdf)}" target="_blank" rel="noopener">Ficha (PDF)</a>`:`<button class="btn pri" data-pdf>Ficha (PDF)</button>`}
+      ${docx?`<a class="btn" href="${esc(docx)}" target="_blank" rel="noopener">Word</a>`:''}
+      <a class="btn" href="img/c/${pad(n)}.jpg" download="carpeta_${pad(n)}_caratula.jpg">Carátula (JPG)</a><a class="btn" href="img/p/${pad(n)}.jpg" download="carpeta_${pad(n)}_plano.jpg">Plano (JPG)</a>
+      <button class="btn" data-geo="geojson">Polígono (GeoJSON)</button><button class="btn" data-geo="kml">Polígono (KML)</button><span class="note" id="geomsg" hidden style="font-size:14px"></span></div>
+    ${d&&d.folios&&d.folios.length?`<div class="row"><span class="eyebrow">Ver</span><div class="seg" id="modo"><button data-m="am" aria-pressed="true">renglones y lectura</button><button data-m="tx" aria-pressed="false">sólo transcripción</button><button data-m="in" aria-pressed="false">sólo lectura</button></div></div>`:''}</div>`;
+  if(!d)h+=`<p class="note">Esta ficha ya está hecha; por ahora se publica su resumen. La transcripción completa, renglón por renglón, se incorpora en las próximas actualizaciones${docx?', y el documento completo está disponible en Word.':'.'}</p>`;
+  else{
+    if(d.caratula&&d.caratula.campos)h+=`<div class="sec"><h3>Carátula</h3><dl class="kv">${d.caratula.campos.map(([a,b])=>`<dt>${esc(a)}</dt><dd>${esc(b)}</dd>`).join('')}</dl></div>`;
+    if(d.portadilla&&d.portadilla.lineas)h+=`<div class="sec"><h3>Portadilla</h3><ol class="tx">${d.portadilla.lineas.map(l=>`<li><span>${pal(l)}</span></li>`).join('')}</ol></div>`;
+    if((d.folios||[]).length)h+=`<div class="sec" style="gap:0"><h3>Transcripción y lectura</h3><p class="note" style="margin-top:.4rem">Transcripción paleográfica: se respeta la ortografía del original. <sup>abc</sup> letras voladas · <del>abc</del> testado · <span class="ed">[abc]</span> nota del transcriptor · <span class="ed">[?]</span> lectura dudosa.</p>
+      ${d.folios.map((fo,i)=>`<article class="folio" id="f${i}"><header><h3>${esc(fo.titulo)}</h3><span class="src">${esc(fo.fuente||'')}${fo.nota?' · '+esc(fo.nota):''}</span></header>
+        <ol class="tx">${(fo.lineas||[]).map(l=>`<li><span>${pal(l)}</span></li>`).join('')}</ol>
+        <div class="interp"><p class="eyebrow">¿De qué se habla?</p>${paras(fo.interpretacion).replace(/Fichas? [\d ,y-]+/g,m=>fichaRef(m))}</div></article>`).join('')}</div>`;
+    if((d.planos||[]).length)h+=`<div class="sec"><h3>Planos</h3><div class="stack">${d.planos.map((p,i)=>`<div class="card" id="p${i}"><b>${esc(p.titulo)}</b><span class="rol">${esc(p.fuente||'')}${p.orientacion?' · '+esc(p.orientacion):''}</span><p>${fichaRef(p.interpretacion)}</p>${(p.referencias||[]).length?`<dl class="kv">${p.referencias.map(([a,b])=>`<dt>${esc(a)}</dt><dd>${esc(b)}</dd>`).join('')}</dl>`:''}</div>`).join('')}</div></div>`;
+    if((d.observaciones||[]).length)h+=`<div class="sec"><h3>Observaciones</h3><div class="cards">${d.observaciones.map((o,i)=>`<div class="card" id="o${i}"><b>${esc(o.titulo)}</b><p>${fichaRef(o.texto)}</p></div>`).join('')}</div></div>`;
+    if((d.biografias||[]).length)h+=`<div class="sec"><h3>Personas nombradas</h3><div class="cards">${d.biografias.map(b=>`<div class="card"><b>${esc(b.nombre)}</b><span class="rol">${esc(b.rol)}</span><p>${fichaRef(b.texto)}</p><span class="rol">Fuentes: ${esc(b.fuentes)}</span></div>`).join('')}</div></div>`;
+  }
+  const rel=APO.filter(a=>String(a.carpeta||'')===String(n));
+  h+=`<div class="sec"><h3>Aportes sobre esta mensura</h3>${rel.length?`<div class="list">${rel.map(apoItem).join('')}</div>`:''}<p class="note">${rel.length?'':'Todavía no hay aportes vinculados a esta carpeta. '}¿Conocés el lugar, a una de las familias, tenés una foto o encontraste un error de lectura? <a href="#aportes" data-carp="${n}">Sumá un aporte a la carpeta ${n}</a>.</p></div>
+  <div class="sec"><h3>Cómo citar esta ficha</h3><div class="cite">${esc(cita(f))}</div></div></div>`;
+  el.innerHTML=h;
+  document.title=titulo(f)+' · Archivo abierto de Giles';
+  $$('#modo button').forEach(b=>b.onclick=()=>{document.body.dataset.modo=b.dataset.m;$$('#modo button').forEach(x=>x.setAttribute('aria-pressed',x===b))});
+  $$('[data-geo]').forEach(b=>b.onclick=()=>exportGeo(n,b.dataset.geo));
+  $$('[data-carp]').forEach(a=>a.onclick=()=>{$('#a-carp').value=a.dataset.carp});
+}
+/* polígono de una mensura, tomado de la capa publicada */
+let MENS=null;
+const kmlGeom=g=>{const co=r=>r.map(p=>p[0]+','+p[1]).join(' '),pol=p=>`<Polygon><outerBoundaryIs><LinearRing><coordinates>${co(p[0])}</coordinates></LinearRing></outerBoundaryIs>${p.slice(1).map(r=>`<innerBoundaryIs><LinearRing><coordinates>${co(r)}</coordinates></LinearRing></innerBoundaryIs>`).join('')}</Polygon>`;
+  if(g.type==='Point')return `<Point><coordinates>${g.coordinates[0]},${g.coordinates[1]}</coordinates></Point>`;
+  const ps=g.type==='Polygon'?[g.coordinates]:g.coordinates;return ps.length===1?pol(ps[0]):`<MultiGeometry>${ps.map(pol).join('')}</MultiGeometry>`};
+const kmlDoc=(name,feats,label)=>`<?xml version="1.0" encoding="UTF-8"?>\n<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>${esc(name)}</name>\n`+feats.map(f=>`<Placemark><name>${esc(label(f.properties))}</name><ExtendedData>${Object.entries(f.properties).filter(e=>e[1]!==''&&e[1]!=null).map(([a,b])=>`<Data name="${esc(a)}"><value>${esc(b)}</value></Data>`).join('')}</ExtendedData>${kmlGeom(f.geometry)}</Placemark>`).join('\n')+`\n</Document></kml>\n`;
+async function exportGeo(n,fmt){const m=$('#geomsg');
+  MENS=MENS||await get('descargas/sig/mensuras_ahg.geojson',null);
+  const fs=MENS?MENS.features.filter(f=>f.properties.carpeta===n):[];
+  if(!fs.length){m.textContent=`La carpeta ${n} todavía no tiene polígono georreferenciado.`;m.hidden=false;return}
+  const base=`mensura_${pad(n)}`;
+  if(fmt==='geojson')dl(base+'.geojson','application/geo+json',JSON.stringify({type:'FeatureCollection',name:base,features:fs}));
+  else dl(base+'.kml','application/vnd.google-earth.kml+xml',kmlDoc('Mensura '+n,fs,p=>`${p.carpeta} · ${p.titular||''} (${p.anio||'s/f'})`))}
+
+/* ---------- PERSONAS ---------- */
+$('#ags').innerHTML=AG.map(a=>{const ns=F.filter(f=>f.ag===a);return `<a class="chip" href="#fichas" data-ag="${esc(a)}" style="text-decoration:none">${esc(a)} · ${ns.length}</a>`}).join('');
+$$('[data-ag]').forEach(a=>a.onclick=()=>{$('#fag').value=a.dataset.ag;$('#fq').value='';renderF()});
+function renderP(){const q=$('#pq').value.trim(),k=norm(q);const L=PERS.filter(p=>!k||norm(p.nombre+' '+p.rol+' '+p.texto).includes(k));
+  $('#pcount').textContent=L.length+' de '+PERS.length+' registros';
+  $('#plist').innerHTML=L.slice(0,300).map(p=>`<div class="card"><b>${hl(p.nombre,q)}</b><span class="rol">${hl(p.rol,q)} · <a href="#f${pad(p.n)}">Ficha ${pad(p.n)}</a></span><p>${k?hl(p.texto,q):fichaRef(p.texto)}</p><span class="rol">Fuentes: ${esc(p.fuentes)}</span></div>`).join('')||'<p class="note">Nadie con ese nombre en las fichas publicadas hasta ahora.</p>'}
+$('#pq').addEventListener('input',renderP);
+
+/* ---------- BIBLIOTECA ---------- */
+const TB={libro:'Libro',articulo:'Artículo',tesis:'Tesis',ponencia:'Ponencia',capitulo:'Capítulo',fuente:'Fuente primaria',recurso:'Recurso digital',informe:'Informe',mapa:'Cartografía'};
+$('#btipo').innerHTML+=[...new Set(BIB.map(b=>b.tipo))].map(t=>`<option value="${esc(t)}">${esc(TB[t]||t)}</option>`).join('');
+const ref=b=>`${(b.autores||[]).join('; ')} (${b.anio}). ${b.titulo}. ${b.en||''}`.trim();
+function bibSel(){const k=norm($('#bq').value.trim()),t=$('#btipo').value;return BIB.filter(b=>(!t||b.tipo===t)&&(!k||norm([ref(b),(b.temas||[]).join(' '),b.nota].join(' ')).includes(k)))}
+function renderB(){const q=$('#bq').value.trim(),L=bibSel();$('#bcount').textContent=L.length+' de '+BIB.length;
+  $('#blist').innerHTML=L.map(b=>`<div class="item"><span class="n">${esc(b.anio)}</span><span class="body"><span class="ti">${hl(b.titulo,q)}</span><span class="me">${hl((b.autores||[]).join('; '),q)} · ${esc(b.en||'')}</span>${b.nota?`<span class="tx">${hl(b.nota,q)}</span>`:''}
+    <span class="row" style="margin-top:.2rem"><span class="chip">${esc(TB[b.tipo]||b.tipo)}</span>${(b.temas||[]).map(t=>`<span class="chip">${esc(t)}</span>`).join('')}${b.acceso?`<span class="chip ${/abierto/.test(b.acceso)?'full':''}">${esc(b.acceso)}</span>`:''}${b.url?`<a class="btn" href="${esc(b.url)}" target="_blank" rel="noopener">Abrir</a>`:''}<button class="btn" data-ref="${esc(ref(b))}">Copiar cita</button></span></span></div>`).join('')||'<p class="note" style="padding:1rem 0">Sin resultados.</p>';
+  $$('[data-ref]').forEach(x=>x.onclick=()=>{copy(x.dataset.ref);x.textContent='Copiada'})}
+['bq','btipo'].forEach(id=>$('#'+id).addEventListener('input',renderB));
+/* ---------- APORTES ---------- */
+/* las tres clases de archivo del Atlas: valen igual para subir y para bajar */
+const FAM={img:{n:'Imágenes',ext:['jpg','jpeg','png','tif','tiff','webp'],ver:'JPG · PNG · TIFF',que:'Fotografías, y mapas o documentos escaneados como imagen.',conv:'Las fotos del celular en HEIC se pasan a JPG al compartirlas.'},
+  txt:{n:'Textos con imágenes o mapas',ext:['pdf'],ver:'PDF',que:'Investigaciones, artículos, documentos de varias páginas, relatos escritos, láminas.',conv:'Desde Word o Google Docs: Archivo → Guardar como → PDF.'},
+  sig:{n:'Información espacial',ext:['zip','geojson','json','kml','kmz','gpx'],ver:'SHP (.zip) · GeoJSON · JSON · KML · KMZ',que:'Capas, recorridos, puntos y polígonos con coordenadas.',conv:'El Shapefile va en un .zip con .shp, .shx, .dbf y .prj. Desde AutoCAD o QGIS se exporta a KML o SHP.'}};
+const famHTML=Object.values(FAM).map(f=>`<div class="card"><b>${f.n}</b><div class="row">${f.ver.split(' · ').map(x=>`<span class="ext">${x}</span>`).join('')}</div><p>${f.que}</p><span class="rol">${f.conv}</span></div>`).join('');
+$('#fmt-a').innerHTML=famHTML;$('#fmt-d').innerHTML=famHTML;
+const TA=[['foto','Fotografía','Lugares, cascos, galpones, caminos, gente trabajando. De ayer o de hoy.','img'],['mapa','Mapa o plano','Planos de campos, loteos, croquis, cartas antiguas, mensuras particulares.','img txt sig'],['capa','Capa o dato espacial','Un recorrido, un relevamiento, puntos o polígonos tomados con GPS o dibujados en un SIG.','sig'],['documento','Documento','Escrituras, boletos, cartas, guías, libretas, recortes.','txt img'],['investigacion','Investigación propia','Monografías, tesis, artículos, trabajos escolares, relevamientos.','txt'],['bibliografia','Bibliografía','Un libro o un paper sobre Giles que falta en la Biblioteca.','txt'],['memoria','Memoria oral','Relatos de mayores, anécdotas, oficios, cómo era un lugar.','txt'],['toponimia','Nombres de lugares','Cómo se llama o se llamaba un paraje, un paso, una cañada, una esquina.','sig'],['genealogia','Genealogía','Familias de las mensuras: quién era hijo de quién, de dónde vinieron.','txt img'],['correccion','Corrección','Un nombre mal leído, una fecha, una ubicación que no es.','']];
+const TAn=Object.fromEntries(TA.map(t=>[t[0],t[1]]));
+$('#tipos').innerHTML=TA.map(t=>`<div class="card"><b>${t[1]}</b><p>${t[2]}</p><div class="row">${t[3]?t[3].split(' ').map(k=>`<span class="ext">${FAM[k].ver.split(' · ')[0]}</span>`).join(''):'<span class="rol">sin archivo: alcanza con la descripción</span>'}</div></div>`).join('');
+$('#a-tipo').innerHTML=TA.map(t=>`<option value="${t[0]}">${t[1]}</option>`).join('');
+$('#atipo').innerHTML+=[...new Set(APO.map(a=>a.tipo))].map(t=>`<option value="${esc(t)}">${esc(TAn[t]||t)}</option>`).join('');
+$('#licl').href=CFG.licencia_url||'#';
+function apoItem(a){return `<div class="item"><span class="n">${esc(a.anio||'s/f')}</span><span class="body"><span class="ti">${esc(a.titulo)}</span><span class="me">${esc(TAn[a.tipo]||a.tipo)} · aportado por ${esc(a.autor)}${a.fecha?' · '+esc(a.fecha):''}${a.lugar?' · '+esc(a.lugar):''}</span><span class="tx">${esc(a.descripcion)}</span>
+  <span class="row" style="margin-top:.2rem">${a.carpeta?`<a class="chip" href="#f${pad(a.carpeta)}">carpeta ${esc(a.carpeta)}</a>`:''}${a.coordenadas?`<a class="chip" href="https://www.openstreetmap.org/?mlat=${encodeURIComponent(String(a.coordenadas).split(',')[0].trim())}&mlon=${encodeURIComponent((String(a.coordenadas).split(',')[1]||'').trim())}#map=15/${encodeURIComponent(String(a.coordenadas).replace(/\s/g,'').replace(',','/'))}" target="_blank" rel="noopener">${esc(a.coordenadas)}</a>`:''}${a.fuente?`<span class="chip">${esc(a.fuente)}</span>`:''}${(a.archivos||[]).map(x=>`<a class="btn" href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.nombre||'Archivo')}</a>`).join('')}${a.url?`<a class="btn" href="${esc(a.url)}" target="_blank" rel="noopener">Enlace</a>`:''}</span></span></div>`}
+function renderA(){const t=$('#atipo').value,L=APO.filter(a=>!t||a.tipo===t);$('#acount').textContent=APO.length?L.length+' aporte'+(L.length===1?'':'s'):'';
+  $('#alist').innerHTML=L.map(apoItem).join('')||`<p class="note" style="padding:1rem 0">Todavía no hay aportes publicados. Acá van a aparecer las fotos, mapas, documentos, relatos e investigaciones que vecinos e investigadores acerquen, cada uno con su autor y su procedencia. El primero puede ser el tuyo.</p>`}
+$('#atipo').addEventListener('input',renderA);
+let REG=null,FILES=[];
+const famOf=x=>Object.keys(FAM).find(k=>FAM[k].ext.includes(x))||'';
+const leer=(f,como)=>new Promise(r=>{const fr=new FileReader();fr.onload=()=>r(fr.result);fr.onerror=()=>r('');como==='bin'?fr.readAsBinaryString(f):fr.readAsText(f)});
+async function revisar(f){const ext=(f.name.split('.').pop()||'').toLowerCase(),fam=famOf(ext),mb=f.size/1048576,o={nombre:f.name,formato:ext.toUpperCase(),clase:fam?FAM[fam].n:'',mb:+mb.toFixed(2),ok:!!fam,nota:''};
+  if(!fam){o.nota={doc:1,docx:1,odt:1,ppt:1,pptx:1}[ext]?'Guardalo como PDF y volvé a elegirlo.':{heic:1,heif:1,bmp:1,gif:1}[ext]?'Convertilo a JPG o PNG.':{shp:1,dbf:1,shx:1,prj:1}[ext]?'El Shapefile va entero en un .zip (.shp, .shx, .dbf y .prj).':{dwg:1,dxf:1}[ext]?'Exportalo a KML o Shapefile, o a PDF si es una lámina.':{xls:1,xlsx:1,csv:1}[ext]?'Si tiene coordenadas, pasalo a KML o GeoJSON; si es un cuadro, a PDF.':'Formato no admitido.';return o}
+  if(mb>100){o.ok=false;o.nota='Pesa más de 100 MB. Mandalo por enlace (campo «Enlace»).';return o}
+  try{
+    if(ext==='zip'){const t=(await leer(f,'bin')).toLowerCase(),falta=['.shp','.shx','.dbf','.prj'].filter(e=>!t.includes(e));
+      if(falta.includes('.shp')){o.ok=false;o.nota='El .zip no contiene un Shapefile (.shp).'}else if(falta.length)o.nota='Shapefile incompleto: falta '+falta.join(', ')+(falta.includes('.prj')?' (sin .prj no se sabe el sistema de coordenadas)':'')+'.';else o.nota='Shapefile completo.'}
+    else if(ext==='geojson'||ext==='json'){const j=JSON.parse(await leer(f));const n=j.type==='FeatureCollection'?(j.features||[]).length:(j.type==='Feature'||j.coordinates)?1:-1;if(n<0){o.ok=false;o.nota='No es un GeoJSON: le falta «FeatureCollection».'}else o.nota=n+' elemento'+(n===1?'':'s')+' con geometría.'}
+    else if(ext==='kml'){const n=((await leer(f)).match(/<Placemark[\s>]/g)||[]).length;if(!n){o.ok=false;o.nota='El KML no tiene elementos (Placemark).'}else o.nota=n+' elemento'+(n===1?'':'s')+'.'}
+  }catch(e){o.ok=false;o.nota='No se pudo leer: el archivo parece dañado.'}
+  return o}
+$('#a-files').addEventListener('change',async e=>{FILES=await Promise.all([...e.target.files].map(revisar));
+  $('#a-flist').innerHTML=FILES.map(f=>`<li class="${f.ok?'':'bad'}"><span class="ext">${esc(f.formato)}</span><span>${esc(f.nombre)}</span><span class="rol">${f.mb} MB${f.clase?' · '+esc(f.clase):''}</span><span>${f.ok?'✓':'✕'} ${esc(f.nota)}</span></li>`).join('')});
+$('#aform').addEventListener('submit',e=>{e.preventDefault();const v=id=>$('#a-'+id).value.trim(),er=$('#aerr');
+  const falta=[['titulo','el título'],['desc','la descripción'],['autor','tu nombre'],['mail','un correo de contacto']].filter(x=>!v(x[0])).map(x=>x[1]);
+  if(v('mail')&&!/^\S+@\S+\.\S+$/.test(v('mail')))falta.push('un correo válido');
+  if(v('coord')&&!/^-?\d+([.,]\d+)?\s*[,;]\s*-?\d+([.,]\d+)?$/.test(v('coord')))falta.push('coordenadas como «-34.44, -59.44» (o dejalas vacías)');
+  if(FILES.some(f=>!f.ok))falta.push('quitar o convertir los archivos marcados con ✕');
+  if(!$('#a-lic').checked)falta.push('aceptar la licencia');
+  if(falta.length){er.textContent='Falta '+falta.join(', ')+'.';er.hidden=false;return}er.hidden=true;
+  REG={id:'ap-'+new Date().toISOString().slice(0,10).replace(/-/g,'')+'-'+Math.random().toString(36).slice(2,6),tipo:v('tipo'),titulo:v('titulo'),descripcion:v('desc'),lugar:v('lugar'),coordenadas:v('coord'),anio:v('anio'),carpeta:v('carp'),fuente:v('fuente'),url:v('url'),autor:v('autor'),contacto:v('mail'),licencia:CFG.licencia_textos||'CC BY 4.0',fecha:new Date().toISOString().slice(0,10),archivos:FILES.map(({nombre,formato,mb})=>({nombre,formato,mb,url:''}))};
+  $('#aout-txt').textContent=JSON.stringify(REG,null,1);
+  const fu=CFG.formulario_aportes;$('#aform-link').hidden=!fu;if(fu)$('#aform-link').href=fu;
+  $('#aout-how').innerHTML=fu?'Listo. Copiá el registro, abrí el formulario de carga, pegalo en el primer campo y adjuntá los archivos que elegiste.':`Listo. Copiá el registro y envialo junto con los archivos que elegiste a <b style="user-select:all">${esc(CFG.correo||'')}</b>. Cuando se revise, aparece publicado en esta página con tu nombre.`;
+  $('#aout').hidden=false;$('#aout').scrollIntoView({block:'nearest'})});
+$('#acopy').onclick=()=>copy($('#aout-txt').textContent,$('#acopied'));
+
+/* ---------- PREGUNTAS, PLATAFORMAS, DESCARGAS ---------- */
+$('#qlist').innerHTML=QS.map(q=>`<div class="q"><h3>${esc(q.q)}</h3><p>${esc(q.t)}</p><p class="note"><b>Serviría:</b> ${esc(q.busca)}</p><div class="row">${(q.fichas||[]).map(n=>`<a class="chip" href="#f${pad(n)}">Ficha ${pad(n)}</a>`).join('')}<a class="btn" href="#aportes">Tengo algo sobre esto</a></div></div>`).join('');
+$('#plat').innerHTML=(CFG.plataformas||[]).map(p=>`<div class="card"><h3>${p.url?`<a href="${esc(p.url)}"${/^https?:/.test(p.url)?' target="_blank" rel="noopener"':''}>${esc(p.nombre)}</a>`:esc(p.nombre)}</h3><p class="pq">${esc(p.pregunta)}</p><p>${esc(p.que)}</p><span class="rol">Se cruza por: ${esc(p.cruce)}</span><div class="row">${p.url?`<a class="btn pri" href="${esc(p.url)}"${/^https?:/.test(p.url)?' target="_blank" rel="noopener"':''}>Abrir</a>`:'<span class="chip">enlace público próximamente</span>'}</div></div>`).join('');
+const TXT=[['Fichas de mensura',`${F.length} fichas: transcripción, lectura, planos, observaciones y personas`,'<a class="btn" href="#fichas">Abrir una ficha → Ficha (PDF)</a>'+(CFG.zenodo_coleccion?`<a class="btn pri" href="${esc(CFG.zenodo_coleccion)}" target="_blank" rel="noopener">Colección completa</a>`:'')],
+ ['Índice de fichas','Titular, agrimensor, año, paraje y síntesis de cada ficha','<a class="btn" href="#fichas">PDF</a><button class="btn" data-dl="idx-csv">Planilla (CSV)</button>'],
+ ['Personas',`${PERS.length} registros biográficos`,'<a class="btn" href="#personas">PDF</a><button class="btn" data-dl="per-csv">Planilla (CSV)</button>'],
+ ['Biblioteca',`${BIB.length} referencias, con enlace al PDF cuando es de acceso abierto`,'<a class="btn" href="#biblioteca">PDF</a><button class="btn" data-dl="bib-csv">Planilla (CSV)</button>'],
+ ['Preguntas abiertas',`${QS.length} preguntas`,'<a class="btn" href="#preguntas">PDF</a>']];
+$('#dtxt tbody').innerHTML=TXT.map(d=>`<tr><td><b>${d[0]}</b></td><td>${d[1]}</td><td><span class="row">${d[2]}</span></td></tr>`).join('');
+$('#dimg').innerHTML=Array.from({length:TOTAL},(_,i)=>`<option value="${i+1}">Carpeta ${i+1}${byN[i+1]?' · '+esc(byN[i+1].prop):''}</option>`).join('');
+const setImg=()=>{const n=pad($('#dimg').value);$('#dimg-c').href='img/c/'+n+'.jpg';$('#dimg-c').download='carpeta_'+n+'_caratula.jpg';$('#dimg-p').href='img/p/'+n+'.jpg';$('#dimg-p').download='carpeta_'+n+'_plano.jpg'};$('#dimg').addEventListener('input',setImg);setImg();
+const GT={Polygon:'polígonos',MultiPolygon:'polígonos',LineString:'líneas',Point:'puntos'},peso=k=>k>=1024?(k/1024).toFixed(1).replace('.',',')+' MB':k+' KB';
+get('descargas/sig/capas.json',[]).then(C=>{$('#dsig tbody').innerHTML=C.map(c=>`<tr><td><b>${esc(c.titulo)}</b></td><td>${c.n.toLocaleString('es-AR')} ${c.n===1?(GT[c.geom]||'').replace(/e?s$/,''):GT[c.geom]||''}</td><td><span class="row">${[['shp.zip','SHP'],['geojson','GeoJSON'],['kml','KML']].filter(x=>c.kb[x[0]]!=null).map(x=>`<a class="btn" href="descargas/sig/${c.id}.${x[0]}" download>${x[1]} <span style="color:var(--muted)">${peso(c.kb[x[0]])}</span></a>`).join('')}</span></td></tr>`).join('')+`<tr><td><b>Aportes con ubicación</b></td><td>${APO.filter(a=>a.coordenadas).length} puntos</td><td><span class="row"><button class="btn" data-dl="apo-geojson">GeoJSON</button><button class="btn" data-dl="apo-kml">KML</button></span></td></tr>`});
+$('#citeall').textContent=`Addesso, Juan Patricio (2026). Atlas de Mensuras de Giles: archivo abierto. Investigación doctoral, Doctorado en Geografía, Universidad del Salvador. ${SITE} (consultado el ${HOY}).`;
+$('#lic').innerHTML=`Transcripciones, lecturas y datos elaborados: <a href="${esc(CFG.licencia_url||'#')}" target="_blank" rel="noopener">${esc(CFG.licencia_textos||'')}</a>. Las reproducciones de los documentos pertenecen al Archivo Histórico de Geodesia; consultá sus condiciones antes de reutilizarlas. Cada aporte conserva la autoría de quien lo acercó.`;
+const IC=['n','prop','ag','y','fecha','ubic','sup','agua','hitos','lind','sint','ref','estado'];
+const apoGeo=()=>APO.filter(a=>a.coordenadas).map(({contacto,coordenadas,archivos,...p})=>{const c=String(coordenadas).split(/[,;]/).map(x=>parseFloat(x));return {type:'Feature',properties:p,geometry:{type:'Point',coordinates:[c[1],c[0]]}}});
+const DL={
+ 'idx-csv':()=>dl('fichas_indice.csv','text/csv',csv([IC].concat(F.map(f=>IC.map(k=>f[k]))))),
+ 'per-csv':()=>dl('personas.csv','text/csv',csv([['nombre','rol','texto','fuentes','ficha']].concat(PERS.map(p=>[p.nombre,p.rol,p.texto,p.fuentes,p.n])))),
+ 'bib-csv':()=>dl('biblioteca_giles.csv','text/csv',csv([['id','tipo','autores','anio','titulo','en','url','acceso','temas','nota']].concat(bibSel().map(b=>[b.id,b.tipo,(b.autores||[]).join('; '),b.anio,b.titulo,b.en,b.url,b.acceso,(b.temas||[]).join('; '),b.nota])))),
+ 'apo-csv':()=>dl('aportes.csv','text/csv',csv([['id','tipo','titulo','descripcion','lugar','coordenadas','anio','carpeta','fuente','url','autor','licencia','fecha']].concat(APO.map(a=>['id','tipo','titulo','descripcion','lugar','coordenadas','anio','carpeta','fuente','url','autor','licencia','fecha'].map(k=>a[k]))))),
+ 'apo-geojson':()=>dl('aportes.geojson','application/geo+json',JSON.stringify({type:'FeatureCollection',name:'aportes',features:apoGeo()})),
+ 'apo-kml':()=>dl('aportes.kml','application/vnd.google-earth.kml+xml',kmlDoc('Aportes al Atlas de Giles',apoGeo(),p=>p.titulo))};
+document.addEventListener('click',e=>{const b=e.target.closest('[data-dl]');if(b&&DL[b.dataset.dl])DL[b.dataset.dl]();if(e.target.closest('[data-pdf]'))window.print()});
+
+/* ---------- navegación por ancla ---------- */
+const VIEWS=['fichas','personas','biblioteca','aportes','preguntas','plataformas','descargas'];
+function route(){let h=location.hash.slice(1)||'fichas',v=h,m;
+  if(m=h.match(/^f(\d{1,3})$/)){v='lector';openF(+m[1])}else{if(!VIEWS.includes(v))v='fichas';document.title='Archivo abierto de Giles'}
+  ['lector'].concat(VIEWS).forEach(x=>$('#v-'+x).hidden=x!==v);
+  $$('nav.tabs a').forEach(a=>{const on=a.dataset.v===(v==='lector'?'fichas':v);on?a.setAttribute('aria-current','page'):a.removeAttribute('aria-current')});
+  window.scrollTo(0,0)}
+window.addEventListener('hashchange',route);
+renderF();renderP();renderB();renderA();route();
+})();
+</script>
+</body>
+</html>

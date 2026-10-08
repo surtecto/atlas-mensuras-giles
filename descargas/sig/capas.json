@@ -1,0 +1,90 @@
+[
+ {
+  "id": "mensuras_ahg",
+  "titulo": "Mensuras del Archivo Histórico de Geodesia (1825-1923)",
+  "n": 190,
+  "geom": "Polygon",
+  "kb": {
+   "geojson": 76,
+   "kml": 138,
+   "shp.zip": 24
+  }
+ },
+ {
+  "id": "registro_grafico_1874",
+  "titulo": "Registro gráfico de c. 1874",
+  "n": 429,
+  "geom": "Polygon",
+  "kb": {
+   "geojson": 115,
+   "kml": 192,
+   "shp.zip": 32
+  }
+ },
+ {
+  "id": "parcelas_urbanas_1884",
+  "titulo": "Pueblo de San Andrés de Giles, 1884",
+  "n": 488,
+  "geom": "Polygon",
+  "kb": {
+   "geojson": 134,
+   "kml": 232,
+   "shp.zip": 38
+  }
+ },
+ {
+  "id": "caminos",
+  "titulo": "Caminos, ferrocarril, tranvía y telégrafo",
+  "n": 114,
+  "geom": "LineString",
+  "kb": {
+   "geojson": 56,
+   "kml": 79,
+   "shp.zip": 23
+  }
+ },
+ {
+  "id": "poblamiento_mensuras",
+  "titulo": "Poblamiento dibujado en los planos de mensura",
+  "n": 732,
+  "geom": "Point",
+  "kb": {
+   "geojson": 109,
+   "kml": 221,
+   "shp.zip": 19
+  }
+ },
+ {
+  "id": "estancias_puestos_1884",
+  "titulo": "Estancias, puestos, postas y pulperías de 1884",
+  "n": 102,
+  "geom": "Point",
+  "kb": {
+   "geojson": 15,
+   "kml": 28,
+   "shp.zip": 4
+  }
+ },
+ {
+  "id": "partido_contorno",
+  "titulo": "Contorno del partido de San Andrés de Giles",
+  "n": 1,
+  "geom": "Polygon",
+  "kb": {
+   "geojson": 2,
+   "kml": 2,
+   "shp.zip": 2
+  }
+ },
+ {
+  "id": "parcelas_2024",
+  "titulo": "Parcelario catastral 2024 (sin titulares ni domicilios)",
+  "n": 13661,
+  "geom": "MultiPolygon",
+  "kb": {
+   "geojson": 4383,
+   "kml": 7958,
+   "shp.zip": 815
+  }
+ }
+]

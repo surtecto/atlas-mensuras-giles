@@ -55,6 +55,8 @@ nav.tabs{display:flex;gap:.25rem;margin-left:auto;flex-wrap:wrap}
 nav.tabs button{border:1px solid transparent;background:none;padding:.35rem .8rem;border-radius:999px;cursor:pointer;font:500 13px var(--f-mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
 nav.tabs button[aria-selected="true"]{background:var(--ink);color:var(--paper)}
 nav.tabs button:hover{border-color:var(--line)}
+nav.tabs a.tablink{border:1px solid var(--accent);padding:.35rem .8rem;border-radius:999px;font:500 13px var(--f-mono);letter-spacing:.06em;text-transform:uppercase;color:var(--accent);text-decoration:none}
+nav.tabs a.tablink:hover{background:var(--accent);color:var(--accent-ink)}
 main{flex:1;min-height:0;position:relative}
 .view{position:absolute;inset:0;overflow:auto}
 .view[hidden]{display:none!important}
@@ -203,6 +205,7 @@ td.num{font-family:var(--f-mono);font-variant-numeric:tabular-nums;text-align:ri
     <button role="tab" id="t-carpetas" aria-selected="false" data-v="carpetas">Carpetas</button>
     <button role="tab" id="t-lecturas" aria-selected="false" data-v="lecturas">Lecturas</button>
     <button role="tab" id="t-fuentes" aria-selected="false" data-v="fuentes">Fuentes</button>
+    <a class="tablink" href="archivo.html">Archivo abierto →</a>
   </nav>
 </header>
 <main>
@@ -598,6 +601,7 @@ function fichaHTML(c,inViewer){
   ${pob?`<div><p class="eyebrow">Poblamiento dibujado en el plano</p><div class="chips">${pob}</div></div>`:''}
   ${c.cam?`<div><p class="eyebrow">Trazas registradas desde esta mensura</p><div class="chips">${c.cam.map(x=>`<span class="chip">${esc(titleCase(x))}</span>`).join('')}</div></div>`:''}
   ${ix.sint?`<div class="prose"><p class="eyebrow">Síntesis de la ficha</p><p>${esc(ix.sint)}</p></div>`:''}
+  ${c.ix?`<a class="iconbtn" style="text-decoration:none;color:inherit;justify-self:start" href="archivo.html#f${pad(c.n)}">Leer la ficha completa en el Archivo →</a>`:`<a class="iconbtn" style="text-decoration:none;color:inherit;justify-self:start" href="archivo.html#aportes">¿Sabés algo de este campo? Sumá un aporte →</a>`}
   ${inViewer?'':`<button class="iconbtn" data-open="${c.n}" data-s="duo">Abrir carátula y plano ◀▶</button>`}`}
 function select(n,fly){const c=byN[n];if(!c)return;SEL=new Set([n]);ACTIVE=n;
   renderHere([n],[]);restyle('mens');renderLabels();
