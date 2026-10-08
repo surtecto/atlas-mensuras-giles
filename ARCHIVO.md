@@ -4,8 +4,7 @@
 
 | Archivo | Qué es | Quién lo toca |
 |---|---|---|
-| `fichas/NNN.json` | Ficha completa de una carpeta (el mismo JSON con que se arma el Word) | se copia tal cual |
-| `indice_base.json` | Resumen de fichas hechas que todavía no tienen su JSON completo en la web | se vacía a medida que llegan los JSON |
+| `fichas/NNN.json` | Ficha completa de una carpeta | lo genera `tools/docx_a_ficha.py` desde el Word |
 | `fichas.json`, `personas.json`, `busqueda/` | Índices | los genera `tools/construir_archivo.py` |
 | `biblioteca.json` | Papers, tesis, libros y fuentes | a mano |
 | `aportes.json` | Aportes del público ya aprobados | a mano, pegando el registro |
@@ -13,33 +12,37 @@
 | `config.json` | Correo, formulario, enlaces de las otras plataformas, Zenodo | a mano |
 | `../../descargas/sig/` | Capas en SHP, GeoJSON y KML | las genera `tools/exportar_sig.py` |
 
-## Formatos: tres clases de archivo, las mismas para subir y para bajar
+## Formatos: cuatro clases de archivo, las mismas para subir y para bajar
 
-| Clase | Formatos | Para qué |
+| Clase | Formatos | Qué se baja |
 |---|---|---|
-| Imágenes | JPG, PNG, TIFF | Fotos; mapas o documentos escaneados como imagen |
-| Textos con imágenes o mapas | PDF | Fichas, investigaciones, documentos de varias páginas, láminas |
-| Información espacial | SHP (.zip), GeoJSON / JSON, KML / KMZ | Capas, recorridos, puntos y polígonos |
+| Textos con imágenes o mapas | PDF | Cada ficha completa con sus fotografías (`descargas/fichas/Ficha_NNN.pdf`); índice de fichas, personas y biblioteca |
+| Datos en tabla | Excel (XLSX) | Un solo libro, `descargas/atlas_giles_datos.xlsx`, con las hojas Fichas, Hojas, Renglones, Láminas, Personas, Biblioteca y Aportes |
+| Imágenes | JPG, PNG, TIFF | La fotografía de cada hoja (`img/f/NNN/`), carátula y plano de cada carpeta |
+| Información espacial | SHP (.zip), GeoJSON / JSON, KML / KMZ | Las capas del mapa (`descargas/sig/`) y el polígono de cada mensura |
 
-- **Bajar.** Cada ficha: «Ficha (PDF)», carátula y plano en JPG, y su polígono en GeoJSON y KML. Cada capa del mapa: SHP, GeoJSON y KML, en `descargas/sig/`. Los listados (índice, personas, biblioteca, aportes) salen en PDF y, como única excepción, en planilla CSV para abrir en Excel.
-- **Subir.** El formulario de aportes sólo admite esos formatos. Revisa cada archivo antes de armar el registro: avisa si un Word tiene que pasarse a PDF, si a un Shapefile le falta el .prj o si un GeoJSON o KML viene vacío. Límite: 100 MB por archivo.
-- **«Ficha (PDF)»** abre el diálogo de impresión del navegador con la ficha maquetada en A4; ahí se elige «Guardar como PDF». Si subís los PDF a Zenodo, pegá el enlace por ficha en `config.json` → `pdf` (igual que `docx`) y el botón descarga el archivo directamente.
-- **Regenerar las capas** cuando cambie el SIG: `python3 tools/exportar_sig.py` (pide `pip install pyshp`). Lee `data/geojson/` y `data/parcelas_2024.json` y reescribe `descargas/sig/` en los tres formatos, en WGS84, con nombres de campo legibles.
-- **Formulario de Google.** En la pregunta «Archivos» no restrinjas el tipo: Google no tiene la opción «zip» ni «kml» y los rechazaría.
+Los PDF y el Excel no los arma el navegador: son archivos ya maquetados, con la paleta y la tipografía de las fichas en Word. El formulario de aportes admite sólo estos formatos y revisa cada archivo (Word → PDF, Shapefile sin .prj, GeoJSON o KML vacío). Límite: 100 MB por archivo. En el Formulario de Google, no restrinjas el tipo de archivo: no tiene la opción «zip» ni «kml».
 
-## 1. Sumar una ficha transcripta
+## 1. Sumar fichas transcriptas
 
-1. Copiar el JSON de la ficha a `data/archivo/fichas/` con el número en tres cifras (`048.json`).
-2. En la carpeta del repositorio: `python3 tools/construir_archivo.py`. Rehace los índices, la búsqueda de texto completo y el resumen que usa el mapa.
-3. Publicar con GitHub Desktop.
+La fuente son los Word de la carpeta `Transcripciones`. Cuatro pasos, desde la carpeta del repositorio:
 
-El volumen no es un problema: la página carga sólo el índice (unos 200 KB con las 191 fichas) y trae cada ficha cuando alguien la abre. El texto completo para buscar se parte en tandas de 25 fichas y se baja recién al tildar «buscar dentro de las transcripciones».
+1. `python3 tools/docx_a_ficha.py "RUTA\Transcripciones" 048 049` — lee cada Word y escribe `data/archivo/fichas/NNN.json` y las fotografías en `img/f/NNN/` (1100 px). Sin números, convierte todas.
+2. `python3 tools/construir_archivo.py` — rehace el índice, las personas, la búsqueda de texto completo y el resumen que usa el mapa.
+3. `python3 tools/generar_descargas.py 048 049` — arma el PDF de esas fichas y rehace los índices en PDF y el libro de Excel. Necesita Chrome o Chromium, `pip install openpyxl pillow`.
+4. `python3 tools/construir_archivo.py` otra vez (registra los PDF nuevos) y publicar con GitHub Desktop.
 
-**Estado al 8/10/2026:** 47 fichas en el índice; sólo la 047 tiene su JSON completo en la web. Las otras 46 muestran el resumen. Sus JSON están en el proyecto de Claude (`claude/digitalizacion/CNNN.json`) y hay que bajarlos a esta carpeta.
+Es más cómodo pedírselo a Claude al terminar cada tanda de transcripción: «actualizá el Archivo abierto con las fichas nuevas».
 
-## 2. Los Word (.docx) y Zenodo
+**Estado al 8/10/2026:** 47 fichas completas en línea: 405 hojas, 11.793 renglones, 107 láminas, 395 notas biográficas y 590 fotografías.
 
-Los Word pesan entre 5 y 12 MB cada uno: no van al repositorio. Se suben a Zenodo (zenodo.org, gratuito, con DOI):
+**Peso.** Cada ficha suma en promedio 1,4 MB de fotos y 1,2 MB de PDF. Con las 191 el sitio rondará los 600 MB; GitHub Pages admite hasta 1 GB. Si hiciera falta, los PDF pueden mudarse a Zenodo sin tocar la página.
+
+**Capas del SIG.** Cuando cambien: `python3 tools/exportar_sig.py` (pide `pip install pyshp`); reescribe `descargas/sig/` en SHP, GeoJSON y KML.
+
+## 2. Los Word (.docx) y Zenodo (opcional)
+
+Los PDF de las fichas ya están en el sitio. Si además querés ofrecer los Word editables y tener un DOI citable, se suben a Zenodo (zenodo.org, gratuito):
 
 1. Crear una cuenta y un *New upload* de tipo *Dataset*, por ejemplo «Mensuras de San Andrés de Giles: fichas 001-050».
 2. Subir los .docx y el índice .xlsx. Licencia CC BY 4.0. Publicar: Zenodo asigna un DOI.
@@ -72,11 +75,11 @@ Agregar un bloque a `biblioteca.json`:
  "temas": ["…"], "nota": "Qué aporta para Giles."}
 ```
 
-Tipos: `libro`, `articulo`, `tesis`, `ponencia`, `capitulo`, `fuente`, `recurso`, `informe`, `mapa`. La página lo exporta a PDF y a planilla CSV.
+Tipos: `libro`, `articulo`, `tesis`, `ponencia`, `capitulo`, `fuente`, `recurso`, `informe`, `mapa`. `generar_descargas.py` la lleva al PDF y al Excel.
 
 ## 5. Enlazar las otras plataformas
 
-En `config.json` → `plataformas`, completar `url` de Consulta Urbanística, Registro Patrimonial y Digesto Gilense con su dirección pública. Mientras esté vacío, la tarjeta dice «enlace público próximamente». Desde esas páginas conviene enlazar de vuelta:
+Ya están cargadas en `config.json` → `plataformas`: Consulta Urbanística (`Consulta-COUSAG2024`), Registro del Patrimonio Cultural (`WEB-Patrimonio`) y Digesto Gilense (`HCD-SAG-Digesto2026`). Desde esas páginas conviene enlazar de vuelta:
 - a una mensura en el mapa: `…/atlas-mensuras-giles/#m57`
 - a una ficha: `…/atlas-mensuras-giles/archivo.html#f057`
 - a una sección: `archivo.html#biblioteca`, `#aportes`, `#preguntas`, `#descargas`

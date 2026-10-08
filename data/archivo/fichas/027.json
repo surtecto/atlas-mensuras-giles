@@ -1,0 +1,501 @@
+{
+ "carpeta": "27",
+ "carpeta_nombre": "Carpeta 27",
+ "archivo": "Ficha 027 - Herederos de Juan O'Brien (1860).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles",
+  "N.º de duplicado": "27 (portadilla «Sección Areco N.º 109»)",
+  "Propietario / solicitante": "Herederos de D. Juan O'Brien",
+  "Agrimensor": "Pedro Pico",
+  "Año": "1860",
+  "Fecha de la diligencia": "13/4/1860; D. T. 1/6/1860; aprob. 6/12/1860",
+  "Ubicación": "Cabezadas de la Cañada de la Cruz, hacia el río de Areco",
+  "Orden judicial": "Juez civil Alejo B. González (aprob. 6/12/1860)",
+  "Vendedor / antecesor": "M. F. Arroyo → P. N. Montenegro (1823) → Á. Montenegro → O'Brien (1855)",
+  "Linderos citados": "Torny · Sosa · Monsalvo · Del Sar · Chapeaurouge · Toledo · Linen · her. de J. Martínez",
+  "Medidas": "5409 × 3000 v = 16.227.000 v²; partición ½ viuda + 4 × 676,1 v",
+  "Rumbos": "Corregidos; variación 11° 20' E; latitud 34° 21' S",
+  "Referencia de archivo": "Duplicado 27; «Sección Areco N.º 109»; partición f. 13-49"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 1217 (0,45 legua²)",
+  "hitos": "Mojinete de la casa de O'Brien; ombú de E. Linen; mojones A-E; estancia y puesto",
+  "aguas": "Cañada de la Cruz (frente de las suertes); lagunas en el plano"
+ },
+ "sintesis": "Mensura y partición de Pedro Pico (13/4/1860) del campo de Juan O'Brien, comprado en 1855 a Águeda Montenegro: «sobras o cabezadas» de las suertes de Montenegro y Cañas sobre la Cañada de la Cruz, hacia el río de Areco, del tronco Arroyo (1823). Es un rectángulo de 5409 × 3000 v (≈ 1217 ha): la mitad para la viuda Eugenia Rodríguez y cuatro fajas de 676 v para los hijos. Visuales al mojinete de la casa y a un ombú; latitud 34° 21' S y variación 11° 20' E. Superposición con una mensura de Eguía para los Sosa: protesta de Francisco Sosa; se aprueba «sin perjuicio de tercero» (6/12/1860). Completa la Ficha 026.",
+ "caratula": {
+  "img": "img/f/027/01.jpg",
+  "fuente": "IMG_6945.JPG",
+  "campos": [
+   [
+    "N.º",
+    "27"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Juan O'Brien"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Pedro Pico"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1860"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Comisión, herederos y título Arroyo–Montenegro (1823)",
+   "img": "img/f/027/04.jpg",
+   "fuente": "IMG_6947.JPG",
+   "nota": "Sello con foliatura «1». «Abril» con la «b» corregida.",
+   "lineas": [
+    "Mensura del terreno de los herederos de D. Juan O'Brien",
+    "En el Partido de San Andres de Giles á los trece dias del",
+    "mes de Abril del año mil ochocientos sesenta, yo el",
+    "agrimensor que suscribo, comisionado para medir y re-",
+    "partir el terreno de la testamentaria del finado Don",
+    "Juan O'Brien entre sus herederos, á saber, la viuda Doña",
+    "Eugenia Rodriguez, y sus hijos, Don Juan, Doña",
+    "Ygnacia, Doña Basilia, y la menor Ana O'Brien,",
+    "con arreglo á la particion de f.^{s} 13 á 49, á fin de",
+    "dar cumplimiento á mi comision, me trasladé al",
+    "lugar del mencionado terreno; y antes de dar principio",
+    "á la mensura general, pasé la circular de citacion",
+    "que diligenciada se acompaña.",
+    "Durante se diligenciaba la citacion de linderos me",
+    "ocupé en reconocer practicamente el terreno que",
+    "debia medir con arreglo á los documentos que cons-",
+    "tan de autos, y cuyo contenido en resumen es el",
+    "siguiente.",
+    "En Febrero de mil ochocientos veinte y tres, Doña",
+    "Maria Francisca Arroyo, por ante el Escribano pu-",
+    "blico Don Francisco Castellote, vendió á Don Pedro",
+    "Nolasco Montenegro unas sobras de tierras ó terre-",
+    "nos de Cabezadas de las suertes principales de la",
+    "Cañada de la Cruz, en la estencion de cinco mil",
+    "cuatrocientas cincuenta varas sobre las suertes",
+    "principales, y tres mil varas de ancho hacia á las",
+    "suertes del Rio de Areco."
+   ],
+   "interpretacion": "San Andrés de Giles, 13/4/1860: Pedro Pico, comisionado para medir y repartir el terreno de la testamentaría de Juan O'Brien entre su viuda, Eugenia Rodríguez, y sus hijos Juan, Ignacia, Basilisa y la menor Ana O'Brien, según la partición de f. 13-49. Pasa la circular de citación y, mientras se diligencia, reconoce el terreno con los documentos de autos.\nTítulo: en febrero de 1823, ante el escribano Francisco Castellote, María Francisca Arroyo vende a Pedro Nolasco Montenegro «unas sobras de tierras o terrenos de cabezadas de las suertes principales de la Cañada de la Cruz», de 5450 v sobre esas suertes y 3000 v de ancho «hacia las suertes del Río de Areco». Es el mismo linaje Arroyo de la Ficha 026 (Gregoria de Arroyo, 1732)."
+  },
+  {
+   "titulo": "Folio 1 v. · Venta a O'Brien (1855) y las 41 varas",
+   "img": "img/f/027/05.jpg",
+   "fuente": "IMG_6948.JPG",
+   "nota": "«treinta» testado en el r. 1 (el año es 1855).",
+   "lineas": [
+    "En treinta de Junio de mil ochocientos ~~treinta~~",
+    "y cincuenta y cinco, ante el Escribano Don",
+    "Manuel Zevallos, Don Miguel Garcia Fernandez,",
+    "apoderado de Doña Agueda Montenegro, vendió á",
+    "Don Juan O'Brien el terreno designado anteriormente.",
+    "Don Pedro Nolasco Montenegro era dueño",
+    "de una suerte de estancia sobre la Cañada de la",
+    "Cruz con el ancho de tres mil varas; y Don Julian",
+    "Cañas de una estencion de dos mil trescientas setenta",
+    "y seis varas contiguas á las anteriores, de modo que,",
+    "ambas cantidades hacen un total de cinco mil tres",
+    "cientas setenta y seis varas.",
+    "La escritura de tierras de sobras que Doña",
+    "Maria Francisca Arroyo estendió á favor de",
+    "Montenegro abrasa las cabezas de estas dos frac-",
+    "ciones; mas como en ella se mencionan cinco mil",
+    "cuatrocientas cincuenta varas, resultan setenta y",
+    "cuatro varas de mas, sin duda por no haberse he-",
+    "cho un computo exacto al tiempo de la estencion",
+    "de la escritura mencionada ultimamente.",
+    "Practicada la medicion resultan los terrenos",
+    "de suertes principales de Montenegro y Cañas con",
+    "la extension de cinco mil cuatrocientas nueve varas,",
+    "por lo que faltarian para el titulo de O'Brien cua-",
+    "renta y una varas, si se hubiese de seguir la di-",
+    "mension escrita del titulo y no la designacion de",
+    "los linderos que constituian dicha extension.",
+    "Pero, cortando esta pequeña dificultad los inte-",
+    "resados convinieron en dejar esas cuarenta y"
+   ],
+   "interpretacion": "El 30/6/1855, ante el escribano Manuel Zevallos, Miguel García Fernández, apoderado de Águeda Montenegro, vende a Juan O'Brien ese terreno. Las sobras cubren las «cabezas» (fondos) de dos suertes principales sobre la Cañada de la Cruz: la de Pedro Nolasco Montenegro (3000 v) y la de Julián Cañas (2376 v), que suman 5376 v; la escritura dice 5450, 74 v de más «por no haberse hecho un cómputo exacto».\nMedidas, las dos suertes dan 5409 v: faltarían 41 v si se siguiera la cifra escrita y no «la designación de los linderos». Los interesados convienen en dejarlo así…"
+  },
+  {
+   "titulo": "Folio 2 · Arranque en Torny: el mojinete de la casa y el ombú",
+   "img": "img/f/027/06.jpg",
+   "fuente": "IMG_6949.JPG",
+   "nota": "Sello con foliatura «2». Apellido del dueño del ombú: «Linen» (así en el plano: «Eduardo Linen»).",
+   "lineas": [
+    "una varas hasta que el terreno de los Monsalvos,",
+    "ó el de Del Sar se midiesen, y las mensuras die-",
+    "sen conocimientos precisos sobre la pequeña falta",
+    "que se notaba.",
+    "Hecha la citacion de linderos como se ha dicho al",
+    "principio, y presentes los SS. Don Sandalio Sosa",
+    "y Don Luis Chapeaurouge, tomé por punto de",
+    "arranque el mojon esquinero Norte del terreno de",
+    "suerte principal de la Cañada de la Cruz pertene-",
+    "ciente á Don Geronimo Torny, punto A, desde el",
+    "cual se mira el mojinete de la Casa de O'Brien",
+    "al Sur cincuenta y cinco grados cincuenta y cinco",
+    "minutos Oeste, rumbo corregido como lo serán los",
+    "demas de esta diligencia; Ombú de Don Eduardo",
+    "Linen Norte tres grados Oeste. Desde el mojon",
+    "A establecí el rumbo Norte cuarenta y dos grados",
+    "treinta y ocho minutos Este en prolongacion de",
+    "los fondos del terreno de Don Geronimo Torny",
+    "por razon de que este terreno y mil quinientas varas",
+    "que poseen los Sosas fué antes de un solo dueño,",
+    "y forman en parte la suerte que fué de Monte-",
+    "negro y D^{a} Mercedes Lagos. En el rumbo esta-",
+    "blecido medí mil y quinientas varas pertenecien-",
+    "tes á los Sosas. El S^{or} Don Sandalio Sosa que los",
+    "representaba dijo que pudiera no quedar completo",
+    "su terreno en la longitud del fondo á lo cual contes-",
+    "té que estaba yo certisimo de que si quedaba comple-",
+    "to por haber hallado demacias en la mensura de parte",
+    "del terreno de Torny contiguo al de los Sosas; pero"
+   ],
+   "interpretacion": "…hasta que se midan los campos de los Monsalvo o de Del Sar. Presentes Sandalio Sosa y Luis Chapeaurouge, arranca del mojón esquinero N de la suerte de Jerónimo Torny sobre la Cañada de la Cruz (punto A), desde donde ve «el mojinete de la casa de O'Brien» (S 55° 55' O, rumbo corregido) y el «ombú de D. Eduardo Linen» (N 3° O). Sigue al N 42° 38' E en prolongación de los fondos de Torny, porque ese terreno y 1500 v de los Sosa fueron de un solo dueño (la suerte de Montenegro y Mercedes Lagos). Mide las 1500 v de los Sosa; Sandalio Sosa teme que no quede completo el fondo y Pico responde estar «certísimo» de que sí, por las demasías halladas en el terreno de Torny…"
+  },
+  {
+   "titulo": "Folio 2 v. · El rectángulo B-C-D-E (5409 × 3000 v)",
+   "img": "img/f/027/07.jpg",
+   "fuente": "IMG_6950.JPG",
+   "nota": "",
+   "lineas": [
+    "que, para desvanecer toda duda mediria nueva-",
+    "mente, á lo que el S^{or} Sosa contestó que no",
+    "era necesario sino que el hecho quedaria escla-",
+    "recido cuando ellos midiesen su terreno. Al",
+    "fin de las mil quinientas varas anteriores puse",
+    "un mojon esquinero Norte de los Sosas, y Este de",
+    "los O'Brien. Vuelto al punto A medí al Sur",
+    "cuarenta y dos grados treinta y ocho minutos",
+    "Oeste tres mil quinientas veinte y seis varas",
+    "hasta el esquinero Oeste de Torny, y trescientas",
+    "ochenta y tres varas mas hasta el esquinero",
+    "Oeste tambien de los herederos de Doña Justina",
+    "Martines punto C, haciendo un total desde B has-",
+    "ta C de cinco mil cuatrocientas nueve varas; y",
+    "siendo el mojon C el correspondiente al terreno",
+    "que fué de Don Julian Cañas. En este punto C",
+    "se hallaron presentes Don Julian Monsalvo y",
+    "Don Luis Chapeaurouge. Desde el mojon C medí",
+    "al Norte cuarenta y siete grados veinte y dos",
+    "minutos Oeste la distancia de tres mil varas con",
+    "arreglo al titulo, y á su final hice poner el mojon",
+    "D esquinero Oeste de este terreno. Vuelto al punto",
+    "B medí al Norte cuarenta y siete grados veinte",
+    "y dos minutos Oeste tres mil varas é hice poner",
+    "el mojon E. Uniendo en seguida el punto E con",
+    "D resultó el Rumbo Sur cuarenta y dos grados treinta",
+    "y ocho minutos Oeste, y la distancia de cinco mil",
+    "cuatrocientas nueve varas igual al costado Sueste",
+    "C A B, con lo que cerré la mensura."
+   ],
+   "interpretacion": "…y se ofrece a medir de nuevo; Sosa contesta que no hace falta. Pone el mojón esquinero N de los Sosa y E de O'Brien (B). Desde A mide al S 42° 38' O 3526 v hasta el esquinero O de Torny y 383 v más hasta el de los herederos de Justina Martínez (Ficha 026): punto C, total B-C = 5409 v, en el terreno que fue de Julián Cañas. Allí asisten Julián Monsalvo y Luis Chapeaurouge.\nDesde C y desde B mide 3000 v al N 47° 22' O «con arreglo al título» y pone los mojones D y E; la línea E-D da S 42° 38' O y 5409 v, igual al costado SE: el campo cierra como un rectángulo perfecto."
+  },
+  {
+   "titulo": "Folio 3 · Partición hereditaria y superposición con los Sosa",
+   "img": "img/f/027/08.jpg",
+   "fuente": "IMG_6951.JPG",
+   "nota": "Sello con foliatura «3». Nótese «Basilisa» (en el plano «Basilia»).",
+   "lineas": [
+    "En seguida pasé á hacer la subdivision entre los",
+    "herederos del modo siguiente: á la viuda Doña",
+    "Eugenia Rodriguez de O'Brien la mitad del terreno,",
+    "ó sean dos mil setecientas cuatro y media varas de",
+    "frente con tres mil varas de fondo; y á los cuatro",
+    "herederos restantes Don Juan, Doña Ygnacia, Doña",
+    "Basilisa, y la menor Ana O'Brien seis cientas",
+    "setenta y seis varas y una decima de frente por",
+    "tres mil varas de fondo, ubicando estas fracciones",
+    "segun la voluntad de los interesados, del modo que",
+    "manifiesta el plano; y cuyas partes amojoné en",
+    "la forma debida.",
+    "Concluidas las operaciones anteriormente descriptas",
+    "se ve que, á la S^{ra} viuda del finado O'Brien le",
+    "tocan ocho millones ciento trece mil quinientas",
+    "varas cuadradas, y á sus hijos la cuarta parte",
+    "de esta cantidad, ó sean dos millones veinte",
+    "y ocho mil trescientas setenta y cinco varas cua-",
+    "dradas.",
+    "Antes de cerrar esta diligencia de mensura debe obser-",
+    "varse que, la ubicacion del titulo de O'Brien se sobre-",
+    "pone con una mensura hecha por el agrimensor Don",
+    "Manuel Eguia para la familia Sosa propietaria",
+    "sobre el Rio de Areco y sobras entre el mismo Rio",
+    "y Cañada de la Cruz.",
+    "Por esta sobreposicion ha protestado Don Francisco",
+    "Sosa, sin embargo de que, se ha mostrado tambien",
+    "deferente á un arreglo sobre esta cuestion de sobreposi-",
+    "cion; cuestion que, ventilada judicialmente"
+   ],
+   "interpretacion": "División: a la viuda, Eugenia Rodríguez de O'Brien, la mitad (2704,5 v de frente × 3000 = 8.113.500 v²); a cada uno de los cuatro hijos, Juan, Ignacia, Basilisa y la menor Ana, 676,1 v de frente (2.028.375 v²), ubicadas «según la voluntad de los interesados» y amojonadas. Total 16.227.000 v² (≈ 1217 ha, 0,45 legua²).\nPero el título de O'Brien se superpone con una mensura de Manuel Eguía para la familia Sosa, propietaria sobre el río de Areco y de sobras entre el río y la Cañada de la Cruz. Francisco Sosa protesta, aunque se muestra dispuesto a un arreglo…"
+  },
+  {
+   "titulo": "Folio 3 v. · Otálora vs. Arroyo; latitud y variación; asistentes",
+   "img": "img/f/027/09.jpg",
+   "fuente": "IMG_6952.JPG",
+   "nota": "Firma «Pedro Pico» y nota con rúbrica «Pico».",
+   "lineas": [
+    "demandaria la compulsacion de antecedentes",
+    "algo confusos y muy remotos para llegar á deci-",
+    "dir cual debe ser el limite entre los terrenos de",
+    "los Otarolas vendedores á Sosa, y los Arroyo",
+    "vendedores á Montenegro de quien trae su",
+    "origen la propiedad de O'Brien.",
+    "Con el fin pues de no complicar una cuestion",
+    "que por otra parte no es de gran importancia, me",
+    "abstengo de abrir juicio por ahora acerca de",
+    "la mensura hecha para la familia Sosa, dejan-",
+    "dolo para cuando se me pidiere en el caso ines-",
+    "perado de no arribarse á un arreglo amistoso",
+    "entre los interesados.",
+    "Latitud de la Estancia de O'Brien 34° 21' A[ustral].",
+    "Variacion Magnetica 11 20 E.",
+    "Pedro Pico",
+    "Nota: los linderos Don Roque Toledo, D^{n} Luis",
+    "Chapeaurouge, D^{n} Geronimo Torny, y D. Julian",
+    "Monsalvo asistieron por si; por los herederos",
+    "de D^{a} Justina Martinez de Lopez firmó D^{n}",
+    "Juan O'Brien esposo de una heredera; y por",
+    "D^{a} Saturnina Moreno asistió D^{n} Sandalio",
+    "Sosa —",
+    "Pico",
+    "[rúbrica]"
+   ],
+   "interpretacion": "…porque resolverlo judicialmente exigiría compulsar antecedentes «algo confusos y muy remotos» para decidir el límite entre los Otálora (vendedores a Sosa) y los Arroyo (vendedores a Montenegro, origen de O'Brien). Pico se abstiene de juzgar la mensura de los Sosa salvo que se le pida. Anota: «Latitud de la Estancia de O'Brien 34° 21' A[ustral]. Variación magnética 11° 20' E».\nNota: asistieron Roque Toledo, Luis Chapeaurouge, Jerónimo Torny y Julián Monsalvo; por los herederos de Justina Martínez de López firmó Juan O'Brien, «esposo de una heredera»; por Saturnina Moreno, Sandalio Sosa."
+  },
+  {
+   "titulo": "Folio 5 · Informe del Departamento Topográfico (1/6/1860)",
+   "img": "img/f/027/10.jpg",
+   "fuente": "IMG_6957.JPG",
+   "nota": "Sello con foliatura «5»; papel sellado de 3 pesos reutilizado.",
+   "lineas": [
+    "S^{or} Juez de 1^{a} Instancia",
+    "El Departamento Topográfico ha examinado",
+    "la precedente diligencia de mensura y",
+    "division practicada por el Agrimensor",
+    "Pico en el terreno perteneciente á la testa-",
+    "mentaria de D^{n} Juan O'Brien en el",
+    "Partido de Giles y encuentra del todo arre-",
+    "glado el proceder facultativo empleado por",
+    "el Agrimensor.",
+    "Dos circunstancias dignas de mencionarse",
+    "encuentra el Departamento en la opera-",
+    "cion practicada. La 1^{a} es que en el frente",
+    "del terreno medido existe una falta de",
+    "41 varas segun la espresion del titulo; difi-",
+    "cultad que ha sido salvada por acuerdo",
+    "de los interesados, dejando la averiguacion",
+    "de esa pequeña falta, para cuando sea",
+    "medido el terreno de los Monsalvo ó el",
+    "de Del Sar.",
+    "La 2^{a} es, la sobreposicion parcial del terreno",
+    "que D^{n} Francisco Soza vendió á D^{n} Roque",
+    "Toledo sobre el medido, por lo cual el Se-",
+    "ñor Soza ha protestado.",
+    "El Departamento encuentra indispensable",
+    "ser oido dho. Señor antes de la aprobacion de",
+    "esta mensura.",
+    "Buenos Ayres Junio 1.^{o} de 1860.",
+    "Salas    Moreno    Fernandez",
+    "Malaver"
+   ],
+   "interpretacion": "El Departamento encuentra «del todo arreglado» el proceder del agrimensor y señala dos circunstancias: la falta de 41 v en el frente respecto del título, salvada por acuerdo hasta que se midan los Monsalvo o Del Sar; y la superposición parcial del terreno que Francisco Sosa vendió a Roque Toledo, por la que Sosa protestó. Pide que el juez oiga a Sosa antes de aprobar. Buenos Aires, 1/6/1860: Salas, Moreno, Fernández, Malaver."
+  },
+  {
+   "titulo": "Oficio del juez · aprobación (6/12/1860)",
+   "img": "img/f/027/11.jpg",
+   "fuente": "IMG_6958.JPG",
+   "nota": "Papel sellado de 3 pesos, «Estado de Buenos-Ayres 1860», foliatura 6. El cierre y la firma están en IMG_6959.",
+   "lineas": [
+    "8    3 PESOS    [foliatura:] 6    [sello:] Estado de Buenos-Ayres 1860",
+    "Buenos Ayres Dbre. 19 de 1860",
+    "Al Señor Presidente del Departamento To-",
+    "pografico.",
+    "En los autos seguidos por Don Geronimo Torny",
+    "como curador de Doña Juana Lopez y co-",
+    "mo apoderado de Don Juan O'Brien pi-",
+    "diendo mensura de un terreno ha recaido",
+    "el auto del tenor siguiente — \"Buenos Ay-",
+    "res Diciembre seis de mil ocho cientos sesen-",
+    "ta — Autos y vistos: De conformidad con",
+    "lo espuesto por el ministerio de menores",
+    "y agente fiscal de lo Civil y sin perjuicio",
+    "de tercero se aprueba en cuanto ha lu-",
+    "gar y corresponde por derecho la mensura",
+    "practicada por el agrimensor Don Pedro Pi-",
+    "co corriente en los presentes autos; para to-",
+    "do lo que el Juzgado interpone la auto-",
+    "ridad publica que egerce. En su con-",
+    "secuencia, comuniquese esta resolucion",
+    "al Departamento Topografico con inser-",
+    "cion del presente auto y satisfechas las",
+    "costas con arreglo á arancel entreguense",
+    "estas actuaciones al interesado bajo la",
+    "correspondiente constancia — Alejo",
+    "B. Gonzalez.\" Lo que se comunica á V^{d}.",
+    "á los efectos consiguientes —",
+    "Dios gue. á V^{d}. muchos años",
+    "Alejo B. Gonzalez"
+   ],
+   "interpretacion": "Buenos Aires, 19/12/1860: en los autos seguidos por Jerónimo Torny como curador de Juana López y apoderado de Juan O'Brien, el juez Alejo B. González (el mismo de la Ficha 024) transcribe el auto del 6/12/1860: de conformidad con el ministerio de menores y el agente fiscal, y «sin perjuicio de tercero», aprueba la mensura de Pico, interpone la autoridad pública y ordena comunicarlo al Departamento. Torny, el comprador de los Martínez (Ficha 026), aparece aquí como curador y apoderado: es la bisagra entre las dos familias."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Terreno de los herederos de D. Juan O'Brien, con la partición",
+   "img": "img/f/027/03.jpg",
+   "fuente": "IMG_6956.JPG (pliego completo en IMG_6953; detalles en 6954-6955)",
+   "orientacion": "Pliego a tinta con borde rojo; escala de transversales; firmado «… 20 de 1860» [Pico].",
+   "interpretacion": "Rectángulo B-C-D-E rotulado «Terreno de los herederos de D. Juan O'Brien», dividido por líneas de puntos en «Basilia», «Ygnacia», «La Viuda» (2704,6 v) y «Ana y Juan» (676,1 v cada fracción). Dentro: «Estancia» (casa), «Mic. Gray [?]» (población) y un «Puesto». Lo cruzan tres caminos: «camino de Zárate a Mercedes», «[camino de] las Provincias» y el de «Del Sar a Giles». Símbolos de laguna/bañado en el frente y junto a C. Linderos: «Roque Toledo» y «Eduardo Linen» al SO (con una línea «N 55° 15' O según Eguía», la mensura de los Sosa), «Chapaurouge» al NO, «Del Sar o Monsalvo o Chapaurouge» al NE; sobre el frente, las cifras 1500, A, 9004, 9154, 3526, 9248, 9098, 383 de las fajas de Sosa, Torny y Martínez (Ficha 026).",
+   "referencias": [
+    [
+     "B-C (frente SE)",
+     "S 42° 38' O, 5409 v, sobre los fondos de Sosa (1500), Torny (3526) y Martínez (383)"
+    ],
+    [
+     "C-D y B-E",
+     "N 47° 22' O, 3000 v (fondo según título)"
+    ],
+    [
+     "Hijuelas",
+     "Basilia · Ygnacia (676,1 v c/u) · La Viuda (2704,6 v) · Ana y Juan (676,1 v c/u)"
+    ],
+    [
+     "Edificios",
+     "«Estancia» (casa de O'Brien) · «Mic. Gray [?]» · «Puesto»"
+    ],
+    [
+     "Caminos",
+     "Zárate a Mercedes · de las Provincias · Del Sar a Giles"
+    ],
+    [
+     "Linderos",
+     "Roque Toledo · Eduardo Linen · Chapaurouge · Del Sar o Monsalvo"
+    ],
+    [
+     "Superposición",
+     "Línea «N 55° 15' O según Eguía» (mensura de los Sosa) que corta la esquina O"
+    ],
+    [
+     "Aguas",
+     "Signos de laguna/bañado junto al frente y al costado NE"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "El reverso de la ficha 026: una misma genealogía de la tierra",
+   "texto": "O'Brien era el lindero del fondo de la faja de los herederos de Justina Martínez (Ficha 026), medida por el mismo Pico tres meses antes; aquí Juan O'Brien (hijo) firma «por los herederos de Justina Martínez de López» como esposo de una heredera, y Jerónimo Torny, comprador de los Martínez, es curador y apoderado en el expediente. Las dos mensuras forman un solo sistema: las suertes principales sobre la Cañada de la Cruz (Montenegro, Cañas/Lagos) y sus «cabezadas» o sobras hacia el río de Areco, ambas del tronco Arroyo (Gregoria, 1732; María Francisca, 1823)."
+  },
+  {
+   "titulo": "Cabezadas y sobras: la tierra entre dos ríos",
+   "texto": "El título vende «sobras de tierras o terrenos de cabezadas» detrás de las suertes principales de la Cañada de la Cruz, «hacia las suertes del Río de Areco». Es la misma lógica que Ficha 016 (sobras de Sosa) y 025 (Mooney, «entre los fondos de Areco y de Giles»): el espacio intersticial entre dos frentes de agua se reparte tarde y choca con las mensuras de ambos lados, de ahí la superposición con los Sosa (Otálora) y la falta de 41 v."
+  },
+  {
+   "titulo": "Paisaje: casa, puesto, ombú y tres caminos",
+   "texto": "Visuales al «mojinete de la casa de O'Brien» (primera vez que se nombra un mojinete —el remate triangular del techo— como hito) y al «ombú de D. Eduardo Linen». El plano dibuja la estancia, un puesto y una población de «Mic. Gray [?]», y tres caminos: Zárate–Mercedes, el de las Provincias (Camino Real) y Del Sar–Giles. La latitud declarada (34° 21' S) coincide con la de Differt en 1858 (34° 20', Ficha 022): un control directo para el GIS."
+  },
+  {
+   "titulo": "Ritual y técnica",
+   "texto": "Circular diligenciada; reconocimiento previo del terreno con los títulos; asistencia de Sosa, Chapeaurouge, Monsalvo, Toledo y Torny; discusión en el terreno entre Sosa y el agrimensor sobre si su fondo quedará completo, con la oferta de «medir nuevamente» y la respuesta de que «el hecho quedaría esclarecido cuando ellos midiesen su terreno». Rumbos corregidos con 11° 20' E (igual que en la Ficha 026). Pico prefiere «la designación de los linderos» a la cifra escrita del título, y evita abrir juicio sobre la mensura de Eguía para no «complicar una cuestión que no es de gran importancia»."
+  },
+  {
+   "titulo": "Tenencia: herencia irlandesa y partición",
+   "texto": "Juan O'Brien compró en 1855 y murió poco después: la partición da la mitad a la viuda (Eugenia Rodríguez, criolla) y la otra mitad en cuatro fajas de 676,1 v a los hijos, con la menor Ana bajo el ministerio de menores. Es el mismo ciclo que en la Ficha 024 (Gutiérrez): compra → muerte → partición en fajas. El Departamento pide oír a Francisco Sosa; el juez aprueba «sin perjuicio de tercero»."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Quién es «Mic. Gray [?]» (¿Michael Gray, arrendatario irlandés?) y «Eduardo Linen»? ¿Dónde está la mensura de Eguía para los Sosa y la línea «N 55° 15' O» que la marca? ¿Se resolvió la superposición con Roque Toledo? ¿Qué relación hay entre Juana López (bajo curaduría de Torny) y Justina Martínez de López? Faltan entre las tomas la circular y la partición de f. 13-49."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Juan O'Brien y sus herederos",
+   "rol": "Propietarios",
+   "texto": "Juan O'Brien compró el campo en 1855 a Águeda Montenegro y murió antes de 1860. Herederos: su viuda Eugenia Rodríguez de O'Brien y sus hijos Juan (casado con una heredera de Justina Martínez), Ignacia, Basilisa (Basilia) y la menor Ana. Apellido irlandés frecuente en la inmigración de Areco-Giles; no se identificó con certeza en la búsqueda web.",
+   "fuentes": "Esta mensura y la Ficha 026."
+  },
+  {
+   "nombre": "Pedro Pico",
+   "rol": "Agrimensor",
+   "texto": "Miembro del Departamento Topográfico (1852-1858) que en 1860 mide como agrimensor particular (Fichas 026 y 027); en 1863 hace la primera mensura métrica de la serie (Ficha 007).",
+   "fuentes": "Fichas 007, 017, 020-022, 026."
+  },
+  {
+   "nombre": "María Francisca Arroyo · Pedro Nolasco y Águeda Montenegro",
+   "rol": "Antecesores",
+   "texto": "Arroyo, del linaje de Gregoria de Arroyo (bisnieta de Higueras de Santa Ana, Ficha 026), vendió las sobras en 1823 (escribano Francisco Castellote). Montenegro era dueño de una suerte principal sobre la Cañada de la Cruz; Águeda Montenegro vendió en 1855 por medio de Miguel García Fernández (escribano Manuel Zevallos).",
+   "fuentes": "Esta mensura; Ficha 026."
+  },
+  {
+   "nombre": "Jerónimo Torny",
+   "rol": "Lindero, curador y apoderado",
+   "texto": "Comprador de la familia Martínez (Ficha 026), lindero al SO de O'Brien, curador de Juana López y apoderado de Juan O'Brien en el juicio. Apellido quizá francés o italiano (Torny/Tormy); sin datos localizados.",
+   "fuentes": "Fichas 026-027."
+  },
+  {
+   "nombre": "Los Sosa · Otálora · Roque Toledo",
+   "rol": "Linderos en conflicto",
+   "texto": "Sandalio Sosa representa a los Sosa (y a Saturnina Moreno); Francisco Sosa protesta por la superposición con la mensura de Eguía y vendió una parte a Roque Toledo. Los Sosa derivan de los Otálora. Enlaza con las Fichas 016, 018 y 021 (familia Sosa sobre el río de Areco).",
+   "fuentes": "Fichas 016, 018, 021; esta mensura."
+  },
+  {
+   "nombre": "Alejo B. González · Salas · Moreno · Fernández · Malaver",
+   "rol": "Juez y departamento topográfico",
+   "texto": "González, juez civil que aprueba el 6/12/1860 (también la Ficha 024). El D. T. informa el 1/6/1860.",
+   "fuentes": "Fichas 024, 026."
+  },
+  {
+   "nombre": "Otros nombrados",
+   "rol": "Personas nombradas",
+   "texto": "Julián Cañas, Mercedes Lagos, Julián Monsalvo, Luis Chapeaurouge (Fichas 021, 025), Del Sar, Eduardo Linen (dueño de un ombú), «Mic. Gray [?]», Juana López, Justina Martínez de López, Saturnina Moreno, escribanos Castellote y Zevallos. Sin datos biográficos propios.",
+   "fuentes": "Esta mensura y su plano."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/027/02.jpg",
+  "fuente": "IMG_6946.JPG",
+  "lineas": [
+   "Seccion Areco S^{an}    Giles",
+   "N 109.    27",
+   "Duplicado de la mensura del terreno de los",
+   "Herederos de Don Juan O'Brien",
+   "Partido de Giles",
+   "Mayo de 1860",
+   "Agrimensor",
+   "Pedro Pico"
+  ]
+ },
+ "titulo": "Herederos de D. Juan O'Brien",
+ "estado": "Transcripta (8 hojas, 226 renglones), 1 lámina"
+}

@@ -107,10 +107,17 @@ ol.tx li::before{content:counter(r);font:11px/2.2 var(--f-mono);color:var(--mute
 ol.tx sup{font-size:.7em}
 ol.tx del{color:var(--muted)}
 .ed{color:var(--muted);font-style:italic}
-.interp{min-width:0}
+.interp{min-width:0;display:grid;gap:.8rem;align-content:start}
+figure.foto{margin:0;display:grid;gap:.3rem}
+figure.foto a{display:block;border:1px solid var(--line);border-radius:4px;overflow:hidden;background:var(--sheet);cursor:zoom-in}
+figure.foto img{display:block;width:100%;height:auto}
+figure.foto figcaption{font:12px/1.4 var(--f-mono);color:var(--muted)}
+.lamina img{max-height:78vh;width:auto;max-width:100%;margin:0 auto}
+.duo{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:1.4rem;align-items:start}
 .interp p{margin:.3rem 0 .6rem}
-body[data-modo="tx"] .folio .interp,body[data-modo="in"] .folio ol.tx{display:none}
-body[data-modo="tx"] .folio,body[data-modo="in"] .folio{grid-template-columns:minmax(0,1fr)}
+body[data-modo="tx"] .folio .itext,body[data-modo="in"] .folio ol.tx{display:none}
+body[data-modo="in"] .folio{grid-template-columns:minmax(0,1fr)}
+body[data-modo="in"] .folio .interp{grid-template-columns:minmax(0,1.3fr) minmax(0,1fr)}
 .sec{display:grid;grid-template-columns:minmax(0,1fr);gap:.8rem;padding-top:1.6rem}
 .card{background:var(--sheet);border:1px solid var(--line);border-radius:6px;padding:.9rem 1rem;display:grid;gap:.4rem;min-width:0}
 .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:12px}
@@ -140,7 +147,7 @@ th{font:500 11px var(--f-mono);letter-spacing:.08em;text-transform:uppercase;col
 .plat .pq{font-style:italic;color:var(--accent)}
 footer{border-top:1px solid var(--line);padding-block:1.2rem 2.5rem;font-size:14px;color:var(--muted)}
 @media (max-width:820px){
-  .two,.folio{grid-template-columns:minmax(0,1fr)}
+  .two,.folio,.duo,body[data-modo="in"] .folio .interp{grid-template-columns:minmax(0,1fr)}
   .form{grid-template-columns:minmax(0,1fr)}
   .item{grid-template-columns:3.2rem minmax(0,1fr)}
   dl.kv{grid-template-columns:minmax(0,1fr)}dl.kv dt{line-height:1.3;margin-top:.4rem}
@@ -204,7 +211,7 @@ footer{border-top:1px solid var(--line);padding-block:1.2rem 2.5rem;font-size:14
   <div>
     <p class="eyebrow">Mensuras transcriptas · Archivo Histórico de Geodesia</p>
     <h2 id="fh">Fichas</h2>
-    <p class="lede">Cada ficha reúne la transcripción paleográfica del duplicado, renglón por renglón, su lectura en castellano actual, la descripción de los planos, observaciones y las biografías de las personas nombradas. El trabajo avanza carpeta por carpeta.</p>
+    <p class="lede">Cada ficha reúne la fotografía de cada hoja del duplicado, su transcripción paleográfica renglón por renglón, la lectura en castellano actual, los planos, observaciones y las biografías de las personas nombradas. El trabajo avanza carpeta por carpeta.</p>
   </div>
   <div class="stack" style="gap:.5rem">
     <div class="corpus" id="corpus" aria-label="Avance de la transcripción, una celda por carpeta"></div>
@@ -218,7 +225,7 @@ footer{border-top:1px solid var(--line);padding-block:1.2rem 2.5rem;font-size:14
     <span class="count" id="fcount"></span>
   </div>
   <div class="row"><span class="eyebrow">Índice de fichas</span>
-    <button class="btn" data-pdf>PDF</button><button class="btn" data-dl="idx-csv">Planilla (CSV)</button></div>
+    <a class="btn" href="descargas/indice_fichas.pdf" download>PDF</a><a class="btn" href="descargas/atlas_giles_datos.xlsx" download>Excel</a></div>
   <div class="list" id="flist"></div>
 </section>
 
@@ -230,7 +237,7 @@ footer{border-top:1px solid var(--line);padding-block:1.2rem 2.5rem;font-size:14
   <div><p class="eyebrow">Quiénes aparecen en las mensuras</p><h2>Personas</h2>
   <p class="lede">Propietarios, linderos, agrimensores, jueces, puesteros y arrendatarios, con lo que cada duplicado dice de ellos. Si reconocés a alguien de tu familia, podés completar su historia en <a href="#aportes">Aportes</a>.</p></div>
   <div class="filters"><input type="search" id="pq" placeholder="Apellido, rol, estancia…" aria-label="Buscar personas">
-    <span class="count" id="pcount"></span><button class="btn" data-pdf>PDF</button><button class="btn" data-dl="per-csv">Planilla (CSV)</button></div>
+    <span class="count" id="pcount"></span><a class="btn" href="descargas/personas.pdf" download>PDF</a><a class="btn" href="descargas/atlas_giles_datos.xlsx" download>Excel</a></div>
   <div><p class="eyebrow">Agrimensores del corpus</p><div class="row" id="ags" style="margin-top:.5rem"></div></div>
   <div class="cards" id="plist"></div>
 </section>
@@ -242,7 +249,7 @@ footer{border-top:1px solid var(--line);padding-block:1.2rem 2.5rem;font-size:14
   <div class="filters"><input type="search" id="bq" placeholder="Autor, título, tema…" aria-label="Buscar en la biblioteca">
     <select id="btipo" aria-label="Tipo"><option value="">Todos los tipos</option></select>
     <span class="count" id="bcount"></span>
-    <button class="btn" data-pdf>PDF</button><button class="btn" data-dl="bib-csv">Planilla (CSV)</button></div>
+    <a class="btn" href="descargas/biblioteca.pdf" download>PDF</a><a class="btn" href="descargas/atlas_giles_datos.xlsx" download>Excel</a></div>
   <div class="list" id="blist"></div>
   <p class="note">¿Falta un trabajo, o escribiste uno? Sumalo desde <a href="#aportes">Aportes</a>, eligiendo «Bibliografía» o «Investigación propia».</p>
 </section>
@@ -251,13 +258,13 @@ footer{border-top:1px solid var(--line);padding-block:1.2rem 2.5rem;font-size:14
 <section id="v-aportes" class="stack" hidden>
   <div><p class="eyebrow">El Atlas se completa entre todos</p><h2>Aportes</h2>
   <p class="lede">Un atlas ayuda a comprender un territorio cuando junta la medida con la memoria. Los duplicados dicen dónde estaba el mojón; quien vive ahí sabe qué árbol era, cómo se llamaba el paso, quién levantó la casa. Todo aporte se revisa antes de publicarse y aparece con el nombre de quien lo acercó.</p></div>
-  <div class="stack" style="gap:.6rem"><p class="eyebrow">Tres clases de archivo, las mismas para subir y para bajar</p><div class="fmt" id="fmt-a"></div></div>
+  <div class="stack" style="gap:.6rem"><p class="eyebrow">Cuatro clases de archivo, las mismas para subir y para bajar</p><div class="fmt" id="fmt-a"></div></div>
   <div class="tipos" id="tipos"></div>
 
   <div class="sec" style="padding-top:.4rem">
     <h3>Aportes publicados</h3>
     <div class="filters"><select id="atipo" aria-label="Tipo de aporte"><option value="">Todos los tipos</option></select>
-      <span class="count" id="acount"></span><button class="btn" data-pdf>PDF</button><button class="btn" data-dl="apo-csv">Planilla (CSV)</button><button class="btn" data-dl="apo-geojson">GeoJSON</button><button class="btn" data-dl="apo-kml">KML</button></div>
+      <span class="count" id="acount"></span><button class="btn" data-dl="apo-geojson">GeoJSON</button><button class="btn" data-dl="apo-kml">KML</button></div>
     <div class="list" id="alist"></div>
   </div>
 
@@ -277,7 +284,7 @@ footer{border-top:1px solid var(--line);padding-block:1.2rem 2.5rem;font-size:14
       <label>Tu nombre, como querés figurar<input id="a-autor" required></label>
       <label>Correo de contacto (no se publica)<input id="a-mail" type="email" required></label>
       <div class="w drop"><label for="a-files" style="font:500 12px var(--f-mono);letter-spacing:.04em;color:var(--muted)">Archivos del aporte</label>
-        <input type="file" id="a-files" multiple accept=".jpg,.jpeg,.png,.tif,.tiff,.webp,.pdf,.zip,.geojson,.json,.kml,.kmz,.gpx">
+        <input type="file" id="a-files" multiple accept=".jpg,.jpeg,.png,.tif,.tiff,.webp,.pdf,.xlsx,.csv,.zip,.geojson,.json,.kml,.kmz,.gpx">
         <ul class="files" id="a-flist"></ul>
         <p class="note" style="font-size:14px">Elegí los archivos para comprobar que están en un formato admitido. Se anotan en el registro y los adjuntás al enviarlo.</p></div>
       <label class="w chk"><input type="checkbox" id="a-lic" required><span>Tengo derecho a compartir este material y acepto que se publique en el Atlas con mi nombre, bajo licencia <a id="licl" target="_blank" rel="noopener">CC BY 4.0</a>. No incluye datos personales de terceros vivos sin su consentimiento.</span></label>
@@ -308,10 +315,15 @@ footer{border-top:1px solid var(--line);padding-block:1.2rem 2.5rem;font-size:14
 <!-- DESCARGAS -->
 <section id="v-descargas" class="stack" hidden>
   <div><p class="eyebrow">Datos abiertos</p><h2>Descargas</h2>
-  <p class="lede">Todo lo que el Atlas publica se baja en tres clases de archivo que cualquiera puede abrir: los textos en PDF, las imágenes en JPG y la información espacial en Shapefile, GeoJSON y KML.</p></div>
+  <p class="lede">Todo lo que el Atlas publica se baja en cuatro clases de archivo que cualquiera puede abrir: los textos en PDF ya maquetados, los datos en un libro de Excel, las imágenes en JPG y la información espacial en Shapefile, GeoJSON y KML.</p></div>
   <div class="fmt" id="fmt-d"></div>
-  <div class="sec"><h3>Textos · PDF</h3><div class="tbl"><table id="dtxt"><thead><tr><th>Documento</th><th>Contenido</th><th>Descarga</th></tr></thead><tbody></tbody></table></div></div>
-  <div class="sec"><h3>Imágenes · JPG</h3><p class="note">La carátula y el plano de cada una de las 191 carpetas. Elegí una carpeta:</p>
+  <div class="sec"><h3>Fichas completas · PDF</h3><p class="note">Cada ficha en un documento A4 con las fotografías de todas las hojas, la transcripción, la lectura, los planos, las observaciones y las personas.</p>
+    <div class="filters"><select id="dfic" aria-label="Ficha"></select><a class="btn pri" id="dfic-a" download>Descargar la ficha (PDF)</a><span class="note" id="dfic-n" style="font-size:14px"></span></div></div>
+  <div class="sec"><h3>Índices · PDF</h3><div class="tbl"><table id="dtxt"><thead><tr><th>Documento</th><th>Contenido</th><th>Descarga</th></tr></thead><tbody></tbody></table></div></div>
+  <div class="sec"><h3>Datos · Excel</h3><p class="note">Un solo libro con todo, en hojas ordenadas, con filtros y títulos fijos. La hoja «Renglones» trae la transcripción completa, un renglón por fila, para buscar y filtrar.</p>
+    <div class="row"><a class="btn pri" href="descargas/atlas_giles_datos.xlsx" download>Descargar el libro de datos (Excel)</a></div>
+    <div class="tbl"><table id="dxls"><thead><tr><th>Hoja</th><th>Contenido</th><th>Filas</th></tr></thead><tbody></tbody></table></div></div>
+  <div class="sec"><h3>Imágenes · JPG</h3><p class="note">Las fotografías de cada hoja se ven y se descargan desde la ficha. Acá, la carátula y el plano principal de las 191 carpetas:</p>
     <div class="filters"><select id="dimg" aria-label="Carpeta"></select><a class="btn" id="dimg-c" download>Carátula (JPG)</a><a class="btn" id="dimg-p" download>Plano (JPG)</a></div></div>
   <div class="sec"><h3>Información espacial · SHP, GeoJSON, KML</h3><p class="note">Todas las capas en WGS84 (EPSG:4326). El Shapefile viene en un .zip con sus archivos .shp, .shx, .dbf y .prj; abre en QGIS y ArcGIS. El KML abre en Google Earth.</p>
     <div class="tbl"><table id="dsig"><thead><tr><th>Capa</th><th>Elementos</th><th>Descarga</th></tr></thead><tbody></tbody></table></div></div>
@@ -366,7 +378,7 @@ async function renderF(){
     <span class="me">${esc(f.y)} · ${hl(f.ag,q)}${f.ubic?' · '+hl(f.ubic,q):''}</span>
     <span class="tx">${hl(f.sint,q)}</span>
     ${(hits[f.n]||[]).slice(0,3).map(h=>`<span class="tx"><span class="chip">${esc(h.t)}</span> …${hl(h.s,q)}…</span>`).join('')}
-    <span class="row" style="margin-top:.2rem">${f.full?`<span class="chip full">texto completo${f.renglones?' · '+f.renglones+' renglones':''}</span>`:'<span class="chip">resumen</span>'}${hits[f.n]?`<span class="chip">${hits[f.n].length} pasaje${hits[f.n].length>1?'s':''}</span>`:''}</span>
+    <span class="row" style="margin-top:.2rem">${f.full?`<span class="chip full">${f.folios} hojas · ${f.renglones} renglones · ${f.fotos||0} fotos</span>`:'<span class="chip">resumen</span>'}${hits[f.n]?`<span class="chip">${hits[f.n].length} pasaje${hits[f.n].length>1?'s':''}</span>`:''}</span>
   </span></a>`).join('')||'<p class="note" style="padding:1rem 0">Ninguna ficha coincide con esa búsqueda.</p>';
 }
 ['fq','fag','fdec','ftxt'].forEach(id=>$('#'+id).addEventListener('input',renderF));
@@ -378,7 +390,8 @@ const cita=f=>`Addesso, Juan Patricio (2026). «Ficha ${pad(f.n)}: ${f.prop} (${
 async function openF(n){
   const f=byN[n],el=$('#v-lector');if(!f){el.innerHTML=`<p class="note">La carpeta ${n} todavía no tiene ficha. Podés ver su carátula y su plano en el <a href="index.html#c${n}">visor del Atlas</a>.</p>`;return}
   const d=f.full?await get(A+'fichas/'+pad(n)+'.json',null):null;CUR={f,d};
-  const docx=(CFG.docx||{})[pad(n)]||'',pdf=(CFG.pdf||{})[pad(n)]||'';
+  const docx=(CFG.docx||{})[pad(n)]||'',pdf=f.pdf?`descargas/fichas/Ficha_${pad(n)}.pdf`:'';
+  const foto=(src,cap,cls)=>src?`<figure class="foto ${cls||''}"><a href="${esc(src)}" target="_blank" rel="noopener" title="Abrir la fotografía a tamaño completo"><img src="${esc(src)}" alt="${esc(cap)}" loading="lazy"></a><figcaption>${esc(cap)} · <a href="${esc(src)}" download>descargar JPG</a></figcaption></figure>`:'';
   const prev=F[F.indexOf(f)-1],next=F[F.indexOf(f)+1];
   const R=d?Object.entries(d.resumen||{}):[['Propietario / solicitante',f.prop],['Agrimensor',f.ag],['Año',f.y],['Fecha de la diligencia',f.fecha],['Ubicación',f.ubic],['Superficie (ha)',f.sup],['Aguas',f.agua],['Hitos',f.hitos],['Linderos citados',f.lind],['Referencia de archivo',f.ref]].filter(r=>r[1]);
   let h=`<div class="stack">
@@ -387,24 +400,24 @@ async function openF(n){
     <h2>${esc(f.prop)}</h2>
     <p class="lede" style="margin:0">${fichaRef(f.sint)}</p></div>
   <div class="two"><dl class="kv">${R.map(([a,b])=>`<dt>${esc(a)}</dt><dd>${esc(b)}</dd>`).join('')}</dl>
-    <div class="thumbs"><a href="index.html#c${n}"><img src="img/c/${pad(n)}.jpg" alt="Carátula de la carpeta ${n}" loading="lazy" onerror="this.closest('a').hidden=true"><small>Carátula</small></a><a href="index.html#c${n}"><img src="img/p/${pad(n)}.jpg" alt="Plano de la carpeta ${n}" loading="lazy" onerror="this.closest('a').hidden=true"><small>Plano</small></a></div></div>
+    <div class="thumbs"><a href="index.html#c${n}"><img src="${d&&d.caratula&&d.caratula.img?esc(d.caratula.img):'img/c/'+pad(n)+'.jpg'}" alt="Carátula de la carpeta ${n}" loading="lazy" onerror="this.closest('a').hidden=true"><small>Carátula</small></a><a href="index.html#c${n}"><img src="img/p/${pad(n)}.jpg" alt="Plano de la carpeta ${n}" loading="lazy" onerror="this.closest('a').hidden=true"><small>Plano</small></a></div></div>
   <div class="tools"><div class="row"><span class="eyebrow">Descargar</span>
-      ${pdf?`<a class="btn pri" href="${esc(pdf)}" target="_blank" rel="noopener">Ficha (PDF)</a>`:`<button class="btn pri" data-pdf>Ficha (PDF)</button>`}
+      ${pdf?`<a class="btn pri" href="${pdf}" download>Ficha completa (PDF)</a>`:''}
       ${docx?`<a class="btn" href="${esc(docx)}" target="_blank" rel="noopener">Word</a>`:''}
       <a class="btn" href="img/c/${pad(n)}.jpg" download="carpeta_${pad(n)}_caratula.jpg">Carátula (JPG)</a><a class="btn" href="img/p/${pad(n)}.jpg" download="carpeta_${pad(n)}_plano.jpg">Plano (JPG)</a>
       <button class="btn" data-geo="geojson">Polígono (GeoJSON)</button><button class="btn" data-geo="kml">Polígono (KML)</button><span class="note" id="geomsg" hidden style="font-size:14px"></span></div>
     ${d&&d.folios&&d.folios.length?`<div class="row"><span class="eyebrow">Ver</span><div class="seg" id="modo"><button data-m="am" aria-pressed="true">renglones y lectura</button><button data-m="tx" aria-pressed="false">sólo transcripción</button><button data-m="in" aria-pressed="false">sólo lectura</button></div></div>`:''}</div>`;
   if(!d)h+=`<p class="note">Esta ficha ya está hecha; por ahora se publica su resumen. La transcripción completa, renglón por renglón, se incorpora en las próximas actualizaciones${docx?', y el documento completo está disponible en Word.':'.'}</p>`;
   else{
-    if(d.caratula&&d.caratula.campos)h+=`<div class="sec"><h3>Carátula</h3><dl class="kv">${d.caratula.campos.map(([a,b])=>`<dt>${esc(a)}</dt><dd>${esc(b)}</dd>`).join('')}</dl></div>`;
-    if(d.portadilla&&d.portadilla.lineas)h+=`<div class="sec"><h3>Portadilla</h3><ol class="tx">${d.portadilla.lineas.map(l=>`<li><span>${pal(l)}</span></li>`).join('')}</ol></div>`;
+    if(d.caratula&&d.caratula.campos)h+=`<div class="sec"><h3>Carátula</h3><div class="duo"><dl class="kv">${d.caratula.campos.map(([a,b])=>`<dt>${esc(a)}</dt><dd>${esc(b)}</dd>`).join('')}</dl>${foto(d.caratula.img,'Carátula · '+(d.caratula.fuente||''))}</div></div>`;
+    if(d.portadilla&&d.portadilla.lineas)h+=`<div class="sec"><h3>Portadilla manuscrita</h3><div class="duo"><ol class="tx">${d.portadilla.lineas.map(l=>`<li><span>${pal(l)}</span></li>`).join('')}</ol>${foto(d.portadilla.img,'Portadilla · '+(d.portadilla.fuente||''))}</div></div>`;
     if((d.folios||[]).length)h+=`<div class="sec" style="gap:0"><h3>Transcripción y lectura</h3><p class="note" style="margin-top:.4rem">Transcripción paleográfica: se respeta la ortografía del original. <sup>abc</sup> letras voladas · <del>abc</del> testado · <span class="ed">[abc]</span> nota del transcriptor · <span class="ed">[?]</span> lectura dudosa.</p>
       ${d.folios.map((fo,i)=>`<article class="folio" id="f${i}"><header><h3>${esc(fo.titulo)}</h3><span class="src">${esc(fo.fuente||'')}${fo.nota?' · '+esc(fo.nota):''}</span></header>
         <ol class="tx">${(fo.lineas||[]).map(l=>`<li><span>${pal(l)}</span></li>`).join('')}</ol>
-        <div class="interp"><p class="eyebrow">¿De qué se habla?</p>${paras(fo.interpretacion).replace(/Fichas? [\d ,y-]+/g,m=>fichaRef(m))}</div></article>`).join('')}</div>`;
-    if((d.planos||[]).length)h+=`<div class="sec"><h3>Planos</h3><div class="stack">${d.planos.map((p,i)=>`<div class="card" id="p${i}"><b>${esc(p.titulo)}</b><span class="rol">${esc(p.fuente||'')}${p.orientacion?' · '+esc(p.orientacion):''}</span><p>${fichaRef(p.interpretacion)}</p>${(p.referencias||[]).length?`<dl class="kv">${p.referencias.map(([a,b])=>`<dt>${esc(a)}</dt><dd>${esc(b)}</dd>`).join('')}</dl>`:''}</div>`).join('')}</div></div>`;
-    if((d.observaciones||[]).length)h+=`<div class="sec"><h3>Observaciones</h3><div class="cards">${d.observaciones.map((o,i)=>`<div class="card" id="o${i}"><b>${esc(o.titulo)}</b><p>${fichaRef(o.texto)}</p></div>`).join('')}</div></div>`;
-    if((d.biografias||[]).length)h+=`<div class="sec"><h3>Personas nombradas</h3><div class="cards">${d.biografias.map(b=>`<div class="card"><b>${esc(b.nombre)}</b><span class="rol">${esc(b.rol)}</span><p>${fichaRef(b.texto)}</p><span class="rol">Fuentes: ${esc(b.fuentes)}</span></div>`).join('')}</div></div>`;
+        <div class="interp">${foto(fo.img,'Fotografía del original · '+(fo.fuente||''))}<div class="itext"><p class="eyebrow">¿De qué se habla?</p>${paras(fo.interpretacion).replace(/Fichas? [\d ,y-]+/g,m=>fichaRef(m))}</div></div></article>`).join('')}</div>`;
+    if((d.planos||[]).length)h+=`<div class="sec"><h3>Planos</h3><div class="stack">${d.planos.map((p,i)=>`<div class="card" id="p${i}"><b>Lámina ${i+1} · ${esc(p.titulo)}</b>${foto(p.img,'Fuente: '+(p.fuente||''),'lamina')}<span class="rol">${p.orientacion?esc(p.orientacion):''}</span>${paras(p.interpretacion).replace(/Fichas? [\d ,y-]+/g,m=>fichaRef(m))}${(p.referencias||[]).length?`<dl class="kv">${p.referencias.map(([a,b])=>`<dt>${esc(a)}</dt><dd>${esc(b)}</dd>`).join('')}</dl>`:''}</div>`).join('')}</div></div>`;
+    if((d.observaciones||[]).length)h+=`<div class="sec"><h3>Observaciones</h3><div class="cards">${d.observaciones.map((o,i)=>`<div class="card" id="o${i}"><b>${esc(o.titulo)}</b>${paras(o.texto).replace(/Fichas? [\d ,y-]+/g,m=>fichaRef(m))}</div>`).join('')}</div></div>`;
+    if((d.biografias||[]).length)h+=`<div class="sec"><h3>Personas nombradas</h3><div class="cards">${d.biografias.map(b=>`<div class="card"><b>${esc(b.nombre)}</b><span class="rol">${esc(b.rol)}</span>${paras(b.texto).replace(/Fichas? [\d ,y-]+/g,m=>fichaRef(m))}<span class="rol">Fuentes: ${esc(b.fuentes)}</span></div>`).join('')}</div></div>`;
   }
   const rel=APO.filter(a=>String(a.carpeta||'')===String(n));
   h+=`<div class="sec"><h3>Aportes sobre esta mensura</h3>${rel.length?`<div class="list">${rel.map(apoItem).join('')}</div>`:''}<p class="note">${rel.length?'':'Todavía no hay aportes vinculados a esta carpeta. '}¿Conocés el lugar, a una de las familias, tenés una foto o encontraste un error de lectura? <a href="#aportes" data-carp="${n}">Sumá un aporte a la carpeta ${n}</a>.</p></div>
@@ -433,8 +446,8 @@ async function exportGeo(n,fmt){const m=$('#geomsg');
 $('#ags').innerHTML=AG.map(a=>{const ns=F.filter(f=>f.ag===a);return `<a class="chip" href="#fichas" data-ag="${esc(a)}" style="text-decoration:none">${esc(a)} · ${ns.length}</a>`}).join('');
 $$('[data-ag]').forEach(a=>a.onclick=()=>{$('#fag').value=a.dataset.ag;$('#fq').value='';renderF()});
 function renderP(){const q=$('#pq').value.trim(),k=norm(q);const L=PERS.filter(p=>!k||norm(p.nombre+' '+p.rol+' '+p.texto).includes(k));
-  $('#pcount').textContent=L.length+' de '+PERS.length+' registros';
-  $('#plist').innerHTML=L.slice(0,300).map(p=>`<div class="card"><b>${hl(p.nombre,q)}</b><span class="rol">${hl(p.rol,q)} · <a href="#f${pad(p.n)}">Ficha ${pad(p.n)}</a></span><p>${k?hl(p.texto,q):fichaRef(p.texto)}</p><span class="rol">Fuentes: ${esc(p.fuentes)}</span></div>`).join('')||'<p class="note">Nadie con ese nombre en las fichas publicadas hasta ahora.</p>'}
+  $('#pcount').textContent=(L.length>120?'120 de '+L.length+' coincidencias, afiná la búsqueda · ':L.length+' de ')+PERS.length+' registros';
+  $('#plist').innerHTML=L.slice(0,120).map(p=>`<div class="card"><b>${hl(p.nombre,q)}</b><span class="rol">${hl(p.rol,q)} · <a href="#f${pad(p.n)}">Ficha ${pad(p.n)}</a></span><p>${k?hl(p.texto,q):fichaRef(p.texto)}</p><span class="rol">Fuentes: ${esc(p.fuentes)}</span></div>`).join('')||'<p class="note">Nadie con ese nombre en las fichas publicadas hasta ahora.</p>'}
 $('#pq').addEventListener('input',renderP);
 
 /* ---------- BIBLIOTECA ---------- */
@@ -451,10 +464,11 @@ function renderB(){const q=$('#bq').value.trim(),L=bibSel();$('#bcount').textCon
 /* las tres clases de archivo del Atlas: valen igual para subir y para bajar */
 const FAM={img:{n:'Imágenes',ext:['jpg','jpeg','png','tif','tiff','webp'],ver:'JPG · PNG · TIFF',que:'Fotografías, y mapas o documentos escaneados como imagen.',conv:'Las fotos del celular en HEIC se pasan a JPG al compartirlas.'},
   txt:{n:'Textos con imágenes o mapas',ext:['pdf'],ver:'PDF',que:'Investigaciones, artículos, documentos de varias páginas, relatos escritos, láminas.',conv:'Desde Word o Google Docs: Archivo → Guardar como → PDF.'},
+  tab:{n:'Datos en tabla',ext:['xlsx','csv'],ver:'Excel (XLSX) · CSV',que:'Listados, censos, padrones, series de datos.',conv:'El Atlas entrega todos sus datos en un solo libro de Excel.'},
   sig:{n:'Información espacial',ext:['zip','geojson','json','kml','kmz','gpx'],ver:'SHP (.zip) · GeoJSON · JSON · KML · KMZ',que:'Capas, recorridos, puntos y polígonos con coordenadas.',conv:'El Shapefile va en un .zip con .shp, .shx, .dbf y .prj. Desde AutoCAD o QGIS se exporta a KML o SHP.'}};
 const famHTML=Object.values(FAM).map(f=>`<div class="card"><b>${f.n}</b><div class="row">${f.ver.split(' · ').map(x=>`<span class="ext">${x}</span>`).join('')}</div><p>${f.que}</p><span class="rol">${f.conv}</span></div>`).join('');
 $('#fmt-a').innerHTML=famHTML;$('#fmt-d').innerHTML=famHTML;
-const TA=[['foto','Fotografía','Lugares, cascos, galpones, caminos, gente trabajando. De ayer o de hoy.','img'],['mapa','Mapa o plano','Planos de campos, loteos, croquis, cartas antiguas, mensuras particulares.','img txt sig'],['capa','Capa o dato espacial','Un recorrido, un relevamiento, puntos o polígonos tomados con GPS o dibujados en un SIG.','sig'],['documento','Documento','Escrituras, boletos, cartas, guías, libretas, recortes.','txt img'],['investigacion','Investigación propia','Monografías, tesis, artículos, trabajos escolares, relevamientos.','txt'],['bibliografia','Bibliografía','Un libro o un paper sobre Giles que falta en la Biblioteca.','txt'],['memoria','Memoria oral','Relatos de mayores, anécdotas, oficios, cómo era un lugar.','txt'],['toponimia','Nombres de lugares','Cómo se llama o se llamaba un paraje, un paso, una cañada, una esquina.','sig'],['genealogia','Genealogía','Familias de las mensuras: quién era hijo de quién, de dónde vinieron.','txt img'],['correccion','Corrección','Un nombre mal leído, una fecha, una ubicación que no es.','']];
+const TA=[['foto','Fotografía','Lugares, cascos, galpones, caminos, gente trabajando. De ayer o de hoy.','img'],['mapa','Mapa o plano','Planos de campos, loteos, croquis, cartas antiguas, mensuras particulares.','img txt sig'],['capa','Capa o dato espacial','Un recorrido, un relevamiento, puntos o polígonos tomados con GPS o dibujados en un SIG.','sig'],['documento','Documento','Escrituras, boletos, cartas, guías, libretas, recortes.','txt img'],['investigacion','Investigación propia','Monografías, tesis, artículos, trabajos escolares, relevamientos.','txt tab'],['bibliografia','Bibliografía','Un libro o un paper sobre Giles que falta en la Biblioteca.','txt'],['memoria','Memoria oral','Relatos de mayores, anécdotas, oficios, cómo era un lugar.','txt'],['toponimia','Nombres de lugares','Cómo se llama o se llamaba un paraje, un paso, una cañada, una esquina.','sig'],['genealogia','Genealogía','Familias de las mensuras: quién era hijo de quién, de dónde vinieron.','txt img'],['correccion','Corrección','Un nombre mal leído, una fecha, una ubicación que no es.','']];
 const TAn=Object.fromEntries(TA.map(t=>[t[0],t[1]]));
 $('#tipos').innerHTML=TA.map(t=>`<div class="card"><b>${t[1]}</b><p>${t[2]}</p><div class="row">${t[3]?t[3].split(' ').map(k=>`<span class="ext">${FAM[k].ver.split(' · ')[0]}</span>`).join(''):'<span class="rol">sin archivo: alcanza con la descripción</span>'}</div></div>`).join('');
 $('#a-tipo').innerHTML=TA.map(t=>`<option value="${t[0]}">${t[1]}</option>`).join('');
@@ -469,7 +483,7 @@ let REG=null,FILES=[];
 const famOf=x=>Object.keys(FAM).find(k=>FAM[k].ext.includes(x))||'';
 const leer=(f,como)=>new Promise(r=>{const fr=new FileReader();fr.onload=()=>r(fr.result);fr.onerror=()=>r('');como==='bin'?fr.readAsBinaryString(f):fr.readAsText(f)});
 async function revisar(f){const ext=(f.name.split('.').pop()||'').toLowerCase(),fam=famOf(ext),mb=f.size/1048576,o={nombre:f.name,formato:ext.toUpperCase(),clase:fam?FAM[fam].n:'',mb:+mb.toFixed(2),ok:!!fam,nota:''};
-  if(!fam){o.nota={doc:1,docx:1,odt:1,ppt:1,pptx:1}[ext]?'Guardalo como PDF y volvé a elegirlo.':{heic:1,heif:1,bmp:1,gif:1}[ext]?'Convertilo a JPG o PNG.':{shp:1,dbf:1,shx:1,prj:1}[ext]?'El Shapefile va entero en un .zip (.shp, .shx, .dbf y .prj).':{dwg:1,dxf:1}[ext]?'Exportalo a KML o Shapefile, o a PDF si es una lámina.':{xls:1,xlsx:1,csv:1}[ext]?'Si tiene coordenadas, pasalo a KML o GeoJSON; si es un cuadro, a PDF.':'Formato no admitido.';return o}
+  if(!fam){o.nota={doc:1,docx:1,odt:1,ppt:1,pptx:1}[ext]?'Guardalo como PDF y volvé a elegirlo.':{heic:1,heif:1,bmp:1,gif:1}[ext]?'Convertilo a JPG o PNG.':{shp:1,dbf:1,shx:1,prj:1}[ext]?'El Shapefile va entero en un .zip (.shp, .shx, .dbf y .prj).':{dwg:1,dxf:1}[ext]?'Exportalo a KML o Shapefile, o a PDF si es una lámina.':{xls:1,ods:1}[ext]?'Guardalo como Excel (.xlsx).':'Formato no admitido.';return o}
   if(mb>100){o.ok=false;o.nota='Pesa más de 100 MB. Mandalo por enlace (campo «Enlace»).';return o}
   try{
     if(ext==='zip'){const t=(await leer(f,'bin')).toLowerCase(),falta=['.shp','.shx','.dbf','.prj'].filter(e=>!t.includes(e));
@@ -497,28 +511,26 @@ $('#acopy').onclick=()=>copy($('#aout-txt').textContent,$('#acopied'));
 /* ---------- PREGUNTAS, PLATAFORMAS, DESCARGAS ---------- */
 $('#qlist').innerHTML=QS.map(q=>`<div class="q"><h3>${esc(q.q)}</h3><p>${esc(q.t)}</p><p class="note"><b>Serviría:</b> ${esc(q.busca)}</p><div class="row">${(q.fichas||[]).map(n=>`<a class="chip" href="#f${pad(n)}">Ficha ${pad(n)}</a>`).join('')}<a class="btn" href="#aportes">Tengo algo sobre esto</a></div></div>`).join('');
 $('#plat').innerHTML=(CFG.plataformas||[]).map(p=>`<div class="card"><h3>${p.url?`<a href="${esc(p.url)}"${/^https?:/.test(p.url)?' target="_blank" rel="noopener"':''}>${esc(p.nombre)}</a>`:esc(p.nombre)}</h3><p class="pq">${esc(p.pregunta)}</p><p>${esc(p.que)}</p><span class="rol">Se cruza por: ${esc(p.cruce)}</span><div class="row">${p.url?`<a class="btn pri" href="${esc(p.url)}"${/^https?:/.test(p.url)?' target="_blank" rel="noopener"':''}>Abrir</a>`:'<span class="chip">enlace público próximamente</span>'}</div></div>`).join('');
-const TXT=[['Fichas de mensura',`${F.length} fichas: transcripción, lectura, planos, observaciones y personas`,'<a class="btn" href="#fichas">Abrir una ficha → Ficha (PDF)</a>'+(CFG.zenodo_coleccion?`<a class="btn pri" href="${esc(CFG.zenodo_coleccion)}" target="_blank" rel="noopener">Colección completa</a>`:'')],
- ['Índice de fichas','Titular, agrimensor, año, paraje y síntesis de cada ficha','<a class="btn" href="#fichas">PDF</a><button class="btn" data-dl="idx-csv">Planilla (CSV)</button>'],
- ['Personas',`${PERS.length} registros biográficos`,'<a class="btn" href="#personas">PDF</a><button class="btn" data-dl="per-csv">Planilla (CSV)</button>'],
- ['Biblioteca',`${BIB.length} referencias, con enlace al PDF cuando es de acceso abierto`,'<a class="btn" href="#biblioteca">PDF</a><button class="btn" data-dl="bib-csv">Planilla (CSV)</button>'],
- ['Preguntas abiertas',`${QS.length} preguntas`,'<a class="btn" href="#preguntas">PDF</a>']];
-$('#dtxt tbody').innerHTML=TXT.map(d=>`<tr><td><b>${d[0]}</b></td><td>${d[1]}</td><td><span class="row">${d[2]}</span></td></tr>`).join('');
+const ordF=F.filter(f=>f.pdf);
+$('#dfic').innerHTML=ordF.map(f=>`<option value="${f.n}">Ficha ${pad(f.n)} · ${esc(f.prop)} (${esc(f.y)})</option>`).join('');
+const setFic=()=>{const f=byN[$('#dfic').value];if(!f)return;$('#dfic-a').href=`descargas/fichas/Ficha_${pad(f.n)}.pdf`;$('#dfic-n').textContent=`${f.folios} hojas · ${f.fotos||0} fotografías`};$('#dfic').addEventListener('input',setFic);setFic();
+const TXT=[['Índice de fichas',`${F.length} fichas: titular, año, agrimensor, paraje, superficie y síntesis`,'descargas/indice_fichas.pdf'],
+ ['Personas',`${PERS.length} notas biográficas`,'descargas/personas.pdf'],
+ ['Biblioteca',`${BIB.length} referencias sobre el territorio`,'descargas/biblioteca.pdf']];
+$('#dtxt tbody').innerHTML=TXT.map(d=>`<tr><td><b>${d[0]}</b></td><td>${d[1]}</td><td><a class="btn" href="${d[2]}" download>PDF</a></td></tr>`).join('');
+const sum=k=>F.reduce((a,f)=>a+(f[k]||0),0);
+$('#dxls tbody').innerHTML=[['Fichas','Una fila por carpeta: titular, agrimensor, año, paraje, medidas, linderos, hitos, aguas y síntesis',F.length],['Hojas','Una fila por hoja transcripta, con su interpretación',sum('folios')],['Renglones','La transcripción completa, un renglón por fila',sum('renglones')],['Láminas','Planos y detalles, con su lectura',sum('planos')],['Personas','Notas biográficas',PERS.length],['Biblioteca','Referencias',BIB.length],['Aportes','Aportes publicados',APO.length]].map(r=>`<tr><td><b>${r[0]}</b></td><td>${r[1]}</td><td>${r[2].toLocaleString('es-AR')}</td></tr>`).join('');
 $('#dimg').innerHTML=Array.from({length:TOTAL},(_,i)=>`<option value="${i+1}">Carpeta ${i+1}${byN[i+1]?' · '+esc(byN[i+1].prop):''}</option>`).join('');
 const setImg=()=>{const n=pad($('#dimg').value);$('#dimg-c').href='img/c/'+n+'.jpg';$('#dimg-c').download='carpeta_'+n+'_caratula.jpg';$('#dimg-p').href='img/p/'+n+'.jpg';$('#dimg-p').download='carpeta_'+n+'_plano.jpg'};$('#dimg').addEventListener('input',setImg);setImg();
 const GT={Polygon:'polígonos',MultiPolygon:'polígonos',LineString:'líneas',Point:'puntos'},peso=k=>k>=1024?(k/1024).toFixed(1).replace('.',',')+' MB':k+' KB';
 get('descargas/sig/capas.json',[]).then(C=>{$('#dsig tbody').innerHTML=C.map(c=>`<tr><td><b>${esc(c.titulo)}</b></td><td>${c.n.toLocaleString('es-AR')} ${c.n===1?(GT[c.geom]||'').replace(/e?s$/,''):GT[c.geom]||''}</td><td><span class="row">${[['shp.zip','SHP'],['geojson','GeoJSON'],['kml','KML']].filter(x=>c.kb[x[0]]!=null).map(x=>`<a class="btn" href="descargas/sig/${c.id}.${x[0]}" download>${x[1]} <span style="color:var(--muted)">${peso(c.kb[x[0]])}</span></a>`).join('')}</span></td></tr>`).join('')+`<tr><td><b>Aportes con ubicación</b></td><td>${APO.filter(a=>a.coordenadas).length} puntos</td><td><span class="row"><button class="btn" data-dl="apo-geojson">GeoJSON</button><button class="btn" data-dl="apo-kml">KML</button></span></td></tr>`});
 $('#citeall').textContent=`Addesso, Juan Patricio (2026). Atlas de Mensuras de Giles: archivo abierto. Investigación doctoral, Doctorado en Geografía, Universidad del Salvador. ${SITE} (consultado el ${HOY}).`;
 $('#lic').innerHTML=`Transcripciones, lecturas y datos elaborados: <a href="${esc(CFG.licencia_url||'#')}" target="_blank" rel="noopener">${esc(CFG.licencia_textos||'')}</a>. Las reproducciones de los documentos pertenecen al Archivo Histórico de Geodesia; consultá sus condiciones antes de reutilizarlas. Cada aporte conserva la autoría de quien lo acercó.`;
-const IC=['n','prop','ag','y','fecha','ubic','sup','agua','hitos','lind','sint','ref','estado'];
 const apoGeo=()=>APO.filter(a=>a.coordenadas).map(({contacto,coordenadas,archivos,...p})=>{const c=String(coordenadas).split(/[,;]/).map(x=>parseFloat(x));return {type:'Feature',properties:p,geometry:{type:'Point',coordinates:[c[1],c[0]]}}});
 const DL={
- 'idx-csv':()=>dl('fichas_indice.csv','text/csv',csv([IC].concat(F.map(f=>IC.map(k=>f[k]))))),
- 'per-csv':()=>dl('personas.csv','text/csv',csv([['nombre','rol','texto','fuentes','ficha']].concat(PERS.map(p=>[p.nombre,p.rol,p.texto,p.fuentes,p.n])))),
- 'bib-csv':()=>dl('biblioteca_giles.csv','text/csv',csv([['id','tipo','autores','anio','titulo','en','url','acceso','temas','nota']].concat(bibSel().map(b=>[b.id,b.tipo,(b.autores||[]).join('; '),b.anio,b.titulo,b.en,b.url,b.acceso,(b.temas||[]).join('; '),b.nota])))),
- 'apo-csv':()=>dl('aportes.csv','text/csv',csv([['id','tipo','titulo','descripcion','lugar','coordenadas','anio','carpeta','fuente','url','autor','licencia','fecha']].concat(APO.map(a=>['id','tipo','titulo','descripcion','lugar','coordenadas','anio','carpeta','fuente','url','autor','licencia','fecha'].map(k=>a[k]))))),
  'apo-geojson':()=>dl('aportes.geojson','application/geo+json',JSON.stringify({type:'FeatureCollection',name:'aportes',features:apoGeo()})),
  'apo-kml':()=>dl('aportes.kml','application/vnd.google-earth.kml+xml',kmlDoc('Aportes al Atlas de Giles',apoGeo(),p=>p.titulo))};
-document.addEventListener('click',e=>{const b=e.target.closest('[data-dl]');if(b&&DL[b.dataset.dl])DL[b.dataset.dl]();if(e.target.closest('[data-pdf]'))window.print()});
+document.addEventListener('click',e=>{const b=e.target.closest('[data-dl]');if(b&&DL[b.dataset.dl])DL[b.dataset.dl]()});
 
 /* ---------- navegación por ancla ---------- */
 const VIEWS=['fichas','personas','biblioteca','aportes','preguntas','plataformas','descargas'];

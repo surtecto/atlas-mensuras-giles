@@ -1,0 +1,520 @@
+{
+ "carpeta": "4",
+ "carpeta_nombre": "Carpeta 4",
+ "archivo": "Ficha 004 - Joaquín Rodríguez (1854).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Sección Areco)",
+  "N.º de duplicado": "4",
+  "Propietario / solicitante": "D. Joaquín Rodríguez",
+  "Agrimensor": "Manuel Eguía",
+  "Año": "1854–1855",
+  "Fecha de la diligencia": "14 de octubre de 1854 (cierre: Buenos Aires, 6 de mayo de 1855)",
+  "Ubicación": "Sobre y al Este de la Cañada (arroyo) de Giles, margen derecha, lindero al Pueblo",
+  "Orden judicial": "Despacho de agosto de 1854 del Juez de 1.ª Instancia Dr. D. Basilio Salas; presidió el Juez de Paz de Giles D. Pedro Salas",
+  "Vendedor / antecesor": "Rosalía Sarabia → Rafael Pividal (1824) → José Antonio López (vende a Rodríguez el 18/1/1825) → herederos de López (compra de fracciones)",
+  "Linderos citados": "NO: testamentaría de Rafael Pividal (María Maure de Pividal) · NE: Francisco Lescano · E: herederos de Manuel Noriega, Gabriela Álvarez · SE: Fernando Monsalvo · S/O: herederos de Martín Galeano, Hermenegildo Sarabí, arroyo de Giles · Natalia Arriaga y sus hijos menores (interior)",
+  "Medidas": "Polígono irregular de 4 lados: 4670 / 2537 / 3023 / 2600 / 3015 / 4960 varas; entrega de 1375 varas de frente a los herederos de José Ambrosio López",
+  "Rumbos": "Corregidos; variación del instrumento 11° 45' NE",
+  "Referencia de archivo": "Portadilla: «N.º 25 – Giles 4 – Sección Areco». Informe D. T. 14/5/1855 (Salas, Pico [?]); notas 1866–1867"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 745 (9.937.302 v², incl. 66 ha fiscales)",
+  "hitos": "mojones referidos a estancias y casas; arroyo como divisa",
+  "aguas": "Arroyo de Giles (margen derecha y «punta» o naciente)"
+ },
+ "sintesis": "Mensura judicial, en octubre de 1854, del campo de Joaquín Rodríguez sobre la margen derecha del arroyo de Giles, junto al Pueblo. La hizo Manuel Eguía, el mismo agrimensor de 1838. Abre con un extracto de títulos que remonta la tierra a la donación de los Suero e Hidalgo para el Pueblo de Giles y a una venta de 1824 (Sarabia → Pividal → López → Rodríguez). La medición cierra un polígono de cuatro lados de 9.937.302 v² (≈745 ha), con 884.902 v² de tierra pública excedente, y entrega 1375 varas a los hijos menores de Natalia Arriaga, medidas sobre el arroyo a pedido del propio Rodríguez. Presidió el juez de paz Pedro Salas; la declinación fue de 11° 45'. El Departamento (Saturnino Salas) la aprueba en 1855 y remite los sobrantes a la futura Ley de tierras; notas de 1866-67 registran pedidos de compra de sobrantes.",
+ "caratula": {
+  "img": "img/f/004/01.jpg",
+  "fuente": "IMG_6584.JPG",
+  "campos": [
+   [
+    "N.º",
+    "4"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Don Joaquín Rodríguez"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Manuel Eguía"
+   ],
+   [
+    "Mes",
+    "Mayo"
+   ],
+   [
+    "Año",
+    "1855"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO — Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 (recto)",
+   "img": "img/f/004/05.jpg",
+   "fuente": "IMG_6586.JPG",
+   "nota": "Caligrafía inglesa muy cuidada. Foliatura «1» en sello; sello azul «Departamento Topográfico» en el margen. Anotación «N 3» a lápiz arriba a la izquierda.",
+   "lineas": [
+    "Extracto de los titulos de D^{n} Joaquin",
+    "Rodriguez",
+    "En 7 de Diciembre de 1824, D^{na} Rosalia Sara-",
+    "bia vendió á D^{n} Rafael Pividal, un terre-",
+    "no con la figura de un triangulo, que linda",
+    "por un lado con el terreno donado por los",
+    "Suero é Hidalgo, antecesores de la vendedora,",
+    "para el Pueblo de Giles, con frente al Arro-",
+    "yo de Giles, desde donde arrancan los terre-",
+    "nos de estos sobre la linea de los de Vivar;",
+    "y tiene por frente á el Arroyo de Giles —",
+    "Siete mil cuatrocientas setenta varas (7470)",
+    "segun la mensura del año de 1821; — y por",
+    "el lado N.E. debe haber Seis mil varas —",
+    "(6,000) poco mas ó menos; — y D^{n} Rafael",
+    "Pividal vendió á D^{n} Jose Antonio Lopez",
+    "el mismo terreno, reservandose solo ochocien-",
+    "tas varas (800) de frente linderas con el",
+    "Pueblo de San Andres de Giles.",
+    "En 18 de Enero de 1825, D^{n} Jose Antonio Lopez",
+    "vendió á D^{n} Joaquin Rodriguez, una parte",
+    "de este terreno con la figura de un triangulo",
+    "compuesto de tres mil varas (3000) de frente",
+    "al Arroyo de Giles, y por el N.E. con mas ter-",
+    "reno que se reserva el vendedor.",
+    "Por fallecimiento de D^{n} José Antonio Lopez",
+    "y de su esposa D^{na} Transito Luque, se hizo"
+   ],
+   "interpretacion": "La hoja no empieza con la medición sino con un «Extracto de los títulos», es decir, la genealogía jurídica de la tierra. El 7 de diciembre de 1824 Rosalía Sarabia vende a Rafael Pividal un triángulo con frente al arroyo de Giles. El lote linda con el terreno que los Suero e Hidalgo, antecesores de la vendedora, habían donado para fundar el Pueblo de Giles, y arranca «sobre la línea de los de Vivar». El frente mide 7470 varas según una mensura de 1821 y el lado NE unas 6000.\nPividal vende todo a José Antonio López, salvo 800 varas de frente que lindan con el pueblo. El 18 de enero de 1825 López vende a Joaquín Rodríguez un triángulo de 3000 varas de frente al arroyo. La hoja cierra anunciando la sucesión de López y de su esposa Tránsito Luque.\nEs un documento clave para la historia fundacional: confirma que las tierras del pueblo fueron una donación de los Suero e Hidalgo, y que en 1821 ya existía una mensura del frente sobre el arroyo."
+  },
+  {
+   "titulo": "Folio 1 (vuelto)",
+   "img": "img/f/004/06.jpg",
+   "fuente": "IMG_6587.JPG",
+   "nota": "Fin del extracto de títulos y comienzo de la «Diligencia de mensura» con título caligráfico.",
+   "lineas": [
+    "cuenta de division y particion, entre sus",
+    "hijos y herederos; — y D^{n} Joaquin Rodri-",
+    "guez ha obtenido por compra las fraccio-",
+    "nes pertenecientes á los herederos, con la",
+    "sola escepcion de Mil trescientas setenta",
+    "y cinco varas (1375) que han recaido en los",
+    "menores hijos de D^{na} Natalia Arriaga co-",
+    "mo herederos tambien de D^{n} Jose Antonio",
+    "Lopez y se hallan adyacentes éstas, entre",
+    "las de Pividal y las de D^{n} Joaquin Ro-",
+    "driguez.",
+    "Diligencia de mensura",
+    "En el Partido de Giles á 14 de Octubre",
+    "de 1854 hallandomé yo el agrimensor pu-",
+    "blico autorizado judicialmente para medir",
+    "los terrenos de la propiedad de D^{n} Joaquin",
+    "Rodriguez, por despacho de Agosto del cor-",
+    "riente del S^{or} Juez de 1.^{a} Instancia, D^{r}",
+    "D^{n} Basilio Salas. previa la citacion",
+    "de linderos que original se acompaña",
+    "á estas diligencias; — tomé por punto de arran-",
+    "que, el mojon que marca el angulo Oeste",
+    "del terreno de la testamentaria de D^{n}",
+    "Rafael Pividal, situado sobre la mar-",
+    "gen derecha del arroyo de Giles, el que",
+    "avalizé, mirando al N. 76° 15' O. la estan-",
+    "cia de D^{n} Hermenegildo Sarabí al S. 5° 15' E."
+   ],
+   "interpretacion": "Termina el extracto: tras la muerte de López y de Tránsito Luque se hizo la cuenta de división y partición entre los herederos. Rodríguez les compró sus fracciones, salvo 1375 varas de frente que correspondieron a los hijos menores de Natalia Arriaga (herederos también de López), ubicadas entre Pividal y Rodríguez.\nComienza la diligencia. El 14 de octubre de 1854, en el partido de Giles, Manuel Eguía, «agrimensor público autorizado judicialmente» por despacho de agosto del juez de primera instancia Basilio Salas, y con citación de linderos, arranca en el mojón del ángulo oeste de la testamentaría de Rafael Pividal, sobre la margen derecha del arroyo de Giles. Lo «avaliza», es decir lo referencia, con dos visuales: la estancia de Hermenegildo Sarabí y [la casa de Natalia Arriaga]. Es la misma técnica de intersección de visuales a poblaciones que Eguía usó en 1838."
+  },
+  {
+   "titulo": "Folio 2 (recto)",
+   "img": "img/f/004/07.jpg",
+   "fuente": "IMG_6588.JPG",
+   "nota": "Foliatura «2». Las cifras en letra están subrayadas y repetidas en números entre paréntesis, práctica de seguridad notarial.",
+   "lineas": [
+    "la casa de D^{na} Natalia Arriaga. Desde",
+    "este mojon, dividiendo con los herederos",
+    "de D^{n} Rafael Pividal al S. 47° 15' E.",
+    "se midieron __Cuatro mil seiscientas seten__-",
+    "__ta varas__ (4,670) hasta otro mojon donde",
+    "termina el terreno de Pividal sobre el lado",
+    "frente al N.E. del terreno de D^{n} Francisco",
+    "Lescano; desde este mojon y dividiendo con",
+    "el mismo Lescano al S. 70° 45' O. se midieron",
+    "__Dos mil quinientas treinta y siete varas__",
+    "(2537) hasta otro mojon donde termina",
+    "Lescano y empiezan los herederos de D^{n}",
+    "Manuel Noriega; desde el cual al S. 71° 15' O.",
+    "y dividiendo con éstos, se midieron __tres mil__",
+    "__veinte y tres varas__ (3023) hasta otro mojon",
+    "donde termina la tierra de éstos y empieza",
+    "la de D^{na} Gabriela Alvarez; desde el cual",
+    "al mismo rumbo y dividiendo con ésta, se",
+    "midieron __Dos mil seiscientas varas__ (2600",
+    "hasta donde termina la tierra de esta y em-",
+    "pieza la de D^{n} Fernando Monsalvo, des-",
+    "de este mojon al N. 40° 45' E. y dividiendo",
+    "con el mencionado Monsalvo, se midieron",
+    "__tres mil quince varas__ (3015) hasta otro",
+    "mojon puesto en la punta del arroyo de",
+    "Giles, donde acaba Monsalvo, y empiezan",
+    "los herederos de D^{n} Martin Galeano",
+    "Desde este mojon y al N. 21° 45' E., arroyo",
+    "de Giles abajo, que sirve de divisa á este"
+   ],
+   "interpretacion": "El perímetro se recorre en sentido horario, lindero por lindero, dejando un mojón en cada cambio de vecino. Son 4670 varas al S 47°15' E con los herederos de Pividal, 2537 al S 70°45' O con Francisco Lescano, 3023 al S 71°15' O con los herederos de Manuel Noriega, 2600 más al mismo rumbo con Gabriela Álvarez y 3015 al N 40°45' E con Fernando Monsalvo (el hijo de Pascuala Romero de la Ficha 003) hasta un mojón en la «punta del arroyo de Giles», donde nace el curso.\nDesde allí el límite ya no es una recta: sigue el arroyo aguas abajo, «que sirve de divisa». El agua vuelve a ser frontera natural entre Rodríguez y los herederos de Galeano y Sarabí."
+  },
+  {
+   "titulo": "Folio 2 (vuelto)",
+   "img": "img/f/004/08.jpg",
+   "fuente": "IMG_6589.JPG",
+   "nota": "Cierre del perímetro y entrega de la fracción de los herederos de López.",
+   "lineas": [
+    "terreno con el de los Herederos de D^{n} Mar-",
+    "tin Galeano y el de D^{n} Hermenegildo",
+    "Sarabí, — se midieron __Cuatro mil nove__-",
+    "__cientas sesenta varas__ (4960) hasta el",
+    "mojon de arranque.",
+    "Hecho esto procedí á la entrega del",
+    "terreno perteneciente á los herederos de",
+    "D^{n} Jose Ambrosio Lopez, representados",
+    "por su madre D^{na} Natalia Arriaga, cons-",
+    "tante de __Seiscientas veinte y cinco__ varas",
+    "(625) que proceden de herencia materna",
+    "y __Setecientas cincuenta__ (750) por parte",
+    "de su padre, debiendo advertir, que, es acuer-",
+    "do de los interesados que el frente del terre-",
+    "no ha de ser tomado en la linea del frente",
+    "del arroyo de Giles, y no en la perpendicu-",
+    "lar al deslinde de los herederos de Pivi-",
+    "dal; — así pues, sobre la linea que parte",
+    "del mojon de arranque, al S. 21° 45' O.",
+    "medí __Mil trescientas setenta y cinco__",
+    "__varas__ (1375) que suman las dos fracciones",
+    "de seiscientas veinte y cinco (625) y setecien-",
+    "tas cincuenta (750), que hacen la herencia",
+    "de los hijos menores de D^{n} José Ambrosio",
+    "López ó sea D^{na} Natalia Arriaga; — al",
+    "estremo de esta linea se colocó un mojon",
+    "desde el cual al S. 47° 15' E. se midieron",
+    "__tresmil setecientas diez varas__ (3710) has-",
+    "ta la interseccion del costado N.O. del terre-"
+   ],
+   "interpretacion": "El polígono se cierra con 4960 varas sobre el arroyo hasta el mojón de arranque. Luego el agrimensor hace una segunda operación: entrega a los herederos menores de José Ambrosio López, representados por su madre Natalia Arriaga, su parte de 1375 varas de frente (625 de herencia materna y 750 de la paterna).\nLos interesados acuerdan que ese frente se mida sobre la línea del arroyo y no perpendicular al deslinde de Pividal. La decisión parece técnica pero es económica: medido a lo largo del arroyo, el lote resulta más grande. Eguía mide 1375 varas desde el arranque al S 21°45' O, planta mojón y traza la divisoria de 3710 varas al S 47°15' E hasta el lado NO de Lescano."
+  },
+  {
+   "titulo": "Folio 3 (recto)",
+   "img": "img/f/004/09.jpg",
+   "fuente": "IMG_6590.JPG",
+   "nota": "Foliatura «3». Superficie, asistencia de linderos, declinación y una «Otra Nota» que explica el acuerdo de partición.",
+   "lineas": [
+    "no de D^{n} Francisco Lescano, siendo esta",
+    "linea la que divide el terreno pertenecien-",
+    "te á los herederos de D^{n} José Ambrosio",
+    "Lopez, con el de D^{n} Joaquin Rodriguez",
+    "quedando para éste, la superficie de __Nueve__",
+    "__millones, novecientos treinta y siete mil__",
+    "__trescientas dos varas__ (9.937.302) cuadra-",
+    "das incluyendo en estas, __Ochocientas ochen__-",
+    "__ta y cuatro mil novecientas dos varas__",
+    "(884.902) cuadradas, de propiedad del Es-",
+    "tado, bajo la figura de un poligono irre-",
+    "gular de cuatro lados.",
+    "Nota — Precidió la mensura, el mismo Juez",
+    "de Paz del partido de Giles, D^{n} Pedro",
+    "Salas, y asistieron los linderos; — por D^{na}",
+    "Natalia Arriaga, su hermano D^{n} Ramon",
+    "Arriaga, por los herederos de D^{n} Martin",
+    "Galeano, D^{n} Carlos Buterfield, y por sí",
+    "D^{n} Fernando Monsalvo. D^{n} Francisco",
+    "Lescano, D^{n} Aniceto Noriega, y por D^{na}",
+    "Gabriela Alvarez, D^{n} Aniceto Villalva",
+    "Los rumbos son corregidos y la variacion",
+    "del instrumento es de 11° 45' Nord-Este",
+    "Otra Nota — El terreno de los herederos de",
+    "D^{n} José Ambrosio Lopez y el de D^{n} Joa-",
+    "quin Rodriguez, que hacen parte de una",
+    "misma testamentaria debieron dividirse",
+    "entregando á cada uno la area propor-",
+    "cional á su haber, pero D^{n} Joaquin —"
+   ],
+   "interpretacion": "A Rodríguez le quedan 9.937.302 varas cuadradas (≈745 ha), de las cuales 884.902 (≈66 ha) son «de propiedad del Estado». Es un excedente de tierra pública dentro de su posesión, que tendrá que comprar. La figura es un polígono irregular de cuatro lados.\nLa nota registra el ritual. Presidió el acto el propio juez de paz de Giles, Pedro Salas, y asistieron los linderos o sus representantes: Ramón Arriaga por su hermana Natalia, Carlos Butterfield por los herederos de Galeano, Fernando Monsalvo por sí mismo, Francisco Lescano, Aniceto Noriega, y Aniceto Villalba por Gabriela Álvarez. Aparece un apellido británico, Butterfield, como apoderado.\nLa declinación medida es de 11°45' NE, menor que los 15° convencionales de 1838. La «Otra nota» empieza a explicar que, por tratarse de una misma testamentaría, la división debió ser proporcional al haber de cada uno, «pero D. Joaquín…»."
+  },
+  {
+   "titulo": "Folio 3 (vuelto)",
+   "img": "img/f/004/10.jpg",
+   "fuente": "IMG_6591.JPG",
+   "nota": "Cierre de la diligencia con doble firma de Eguía; nota sobre el papel sellado; comienza el informe del Departamento Topográfico (14 de mayo de 1855).",
+   "lineas": [
+    "Rodriguez ha exigido del Agrimensor hicie-",
+    "ra la entrega del terreno de los herederos de",
+    "D^{n} José Amb.^{o} Lopez midiendo sobre la misma",
+    "linea del frente del Arroyo de Giles, la esten-",
+    "sion de que constan sus hijuelas, y así se",
+    "ejecutó resultando de ésta operacion, nota-",
+    "blemente aumentado el terreno de D^{na} Nata-",
+    "lia Arriaga, viuda de D^{n} José Amb.^{o} Lopez",
+    "Manuel Eguía [rúbrica]",
+    "Nota = La presente diligencia de mensura,",
+    "ha sido retardada hasta hoy, por contra-",
+    "tiempos del mismo interesado; y es por eso",
+    "que vá en papel del sello del año de 1855",
+    "debiendo ser en el del de 1854 — Buenos",
+    "Ayres Mayo 6 de 1855.",
+    "Manuel Eguía [rúbrica]",
+    "El Departamento Topografico",
+    "B.^{s} Ay.^{s} Mayo 14 de 1855 —",
+    "Vista y examinada la anterior di-",
+    "ligencia de mensura, practicada por",
+    "el Agrimensor D. Manuel Eguía, en",
+    "los terrenos de la propiedad de D. Joa-",
+    "quin Rodriguez, sitos sobre el arroyo",
+    "de Giles, el Departamento Topogra-",
+    "fico la encuentra arreglada á las dis-",
+    "posiciones vigentes sobre la materia,"
+   ],
+   "interpretacion": "El agrimensor deja constancia de algo llamativo: fue el propio Rodríguez quien exigió medir la parte de los herederos de López sobre la línea del arroyo, y eso aumentó «notablemente» el terreno de la viuda Natalia Arriaga. ¿Generosidad, un acuerdo familiar o una forma de dejar el excedente fiscal dentro de su propio polígono? El texto no lo aclara.\nUna segunda nota explica que la diligencia se demoró por «contratiempos del mismo interesado» y que por eso va en papel sellado de 1855 y no de 1854. El papel sellado fecha el documento como una marca fiscal. Firma Eguía en Buenos Aires el 6 de mayo de 1855.\nEl 14 de mayo el Departamento Topográfico examina la mensura y la encuentra «arreglada a las disposiciones vigentes»."
+  },
+  {
+   "titulo": "Folio 4 (recto)",
+   "img": "img/f/004/11.jpg",
+   "fuente": "IMG_6592.JPG",
+   "nota": "Foliatura «4». Fin del informe del Departamento con firmas de Salas y Pico [?]; notas marginales posteriores (1866–1867).",
+   "lineas": [
+    "y por lo tanto en estado de",
+    "ser aprobada judicialmente —",
+    "En cuanto á la cantidad de terre-",
+    "no de propiedad publica de",
+    "ocho cientas ochenta y cuatro mil",
+    "novecientas dos varas cuadradas,",
+    "que resulta excedentes en el terre-",
+    "no que posee D. Joaquin Rodri-",
+    "guez, el interesado está en el caso",
+    "de esperar á la Ley de tierras,",
+    "para proceder con arreglo á lo",
+    "que se resolviere sobre el parti-",
+    "cular —",
+    "Salas [rúbrica]     Pico [?] [rúbrica]",
+    "Abril 2 de 1866 = Con esta f.^{bra} [?]",
+    "Nota = Los S.S. Rigal [?] y Ruiz piden en compra",
+    "unos sobrantes q.^{e} dice existen en el terre-",
+    "no de los herederos de Manuel Noriega",
+    "El D. T. informó en Abril 17/866",
+    "Salas [rúbrica]   [al margen:] Marzo 30/867 — No ha lugar — Alsina [?] — M.^{c} Varela [?]",
+    "Abril 2/866 = Con esta f.^{bra} [?]",
+    "Nota = D.^{n} Simon Cuculla [?] pide en compra los",
+    "sobrantes q.^{e} dice existen dentro del terre-",
+    "no de los herederos de D.^{n} Manuel Norie-",
+    "ga del que se dice ser parte, los",
+    "q.^{e} deban resultar de la Mensura q.^{e}",
+    "dice se va á practicar — El D. inform.",
+    "en Abril 17/866",
+    "Salas [rúbrica]"
+   ],
+   "interpretacion": "El Departamento, firmado por Saturnino Salas y otro miembro [¿Pico?], declara la mensura en condiciones de ser aprobada judicialmente. Sobre las 884.902 varas cuadradas de tierra pública que sobran dentro de la posesión de Rodríguez, indica que el interesado debe «esperar a la Ley de tierras». En 1855 el Estado de Buenos Aires, separado de la Confederación, estaba discutiendo el régimen de la tierra pública tras la caída de Rosas.\nLas notas de 1866 muestran el mercado de sobrantes: los señores Rigal [?] y Ruiz, y Simón Cuculla [?], piden comprar los sobrantes que existirían en la tierra de los herederos de Manuel Noriega. Al margen se lee «No ha lugar» (30 de marzo de 1867), con firmas que podrían ser de Alsina y Varela, lo que habría que confirmar. El expediente funciona como un registro vivo de disputas por el excedente."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la mensura de Joaquín Rodríguez",
+   "img": "img/f/004/03.jpg",
+   "fuente": "IMG_6593.JPG (lámina completa)",
+   "orientacion": "Lámina vertical con marco doble; el norte verdadero y el magnético están arriba a la izquierda, con 11° 45'.",
+   "interpretacion": "El plano es de estilo más «moderno» que los de las décadas de 1820 a 1840: rotulación en mayúsculas de imprenta, marco doble, escala de 3000 varas y firma «Buenos Aires Mayo 6 de 1855, Manuel Eguía». El polígono de Joaquín Rodríguez es un gran cuadrilátero cortado en diagonal por la franja de «Natalia Arriaga y sus hijos menores», con un rótulo secundario «(B) Joaquín Rodríguez». El arroyo de Giles corre en diagonal desde el vértice NO y está dibujado con meandros; hay achurados que indican bajos o cañadas afluentes. En el borde E aparece una pluma o palma dibujada, un signo que parece representar un árbol (¿ombú o palmera?) o un mojón vegetal. Hay poblaciones marcadas: Félix Lescano y Gerónimo Laballén [?].",
+   "referencias": [
+    [
+     "María Maure de Pividal",
+     "Lindero NO (testamentaría de Rafael Pividal); lado S 47° 15' E, 4670 varas"
+    ],
+    [
+     "Natalia Arriaga y sus hijos menores",
+     "Franja entregada: 1375 varas de frente al arroyo; divisoria S 47° 15' E, 3710 varas"
+    ],
+    [
+     "(B) Joaquín Rodríguez",
+     "Rótulo secundario sobre la divisoria"
+    ],
+    [
+     "Francisco Lescano",
+     "Lindero NE; S 70° 45' O, 2537 varas"
+    ],
+    [
+     "Herederos de Manuel Noriega",
+     "Lindero E; S 71° 15' O, 3023 varas; símbolo de pluma/palma sobre la línea"
+    ],
+    [
+     "Gabriela Albares [Álvarez]",
+     "Lindero SE; 2600 varas; población de Gerónimo Laballén [?]"
+    ],
+    [
+     "Fernando Monsalvo",
+     "Lindero S; N 40° 45' E, 3015 varas"
+    ],
+    [
+     "Herederos de Martín Galeano",
+     "Lindero SO sobre el arroyo; N 21° 45' E"
+    ],
+    [
+     "Hermenegildo Sarabí",
+     "Lindero O, al otro lado del arroyo"
+    ],
+    [
+     "Arroyo de Giles",
+     "Límite natural O; tramo de 4960 varas y S 21° 45' O 1375"
+    ],
+    [
+     "• Félix Lescano",
+     "Población interior o lindera"
+    ],
+    [
+     "Norte verdadero / magnético",
+     "Dos flechas con 11° 45' de diferencia"
+    ],
+    [
+     "Escala",
+     "«Escala de 3000 varas», escala transversal"
+    ],
+    [
+     "Firma",
+     "«Buenos Aires Mayo 6 de 1855 — Manuel Eguía»"
+    ]
+   ]
+  },
+  {
+   "titulo": "Plano (detalle de la zona del arroyo)",
+   "img": "img/f/004/04.jpg",
+   "fuente": "IMG_6595.JPG, girada 180° (IMG_6594, misma toma con otra luz)",
+   "orientacion": "Detalle ampliado; permite leer rumbos y distancias sobre las líneas.",
+   "interpretacion": "El acercamiento permite leer con claridad los rumbos rotulados sobre cada lado y el trazado sinuoso del arroyo de Giles con su afluente achurado. Es útil para digitalizar vértices en el GIS.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Historia fundacional del pueblo",
+   "texto": "El extracto de títulos confirma que la tierra del Pueblo de Giles fue donada por los Suero e Hidalgo, antecesores de Rosalía Sarabia, y que los campos vecinos arrancaban «sobre la línea de los de Vivar». También documenta una mensura del frente al arroyo en 1821. Es un dato valioso para cruzar con la donación de Francisco Suero y Giles de 1793 y con la Ficha 001 (1825)."
+  },
+  {
+   "titulo": "Paisaje y referentes",
+   "texto": "El arroyo de Giles es a la vez frente, límite («divisa») y línea de medida. Se menciona la «punta del arroyo», su naciente, igual que la «naciente de la Cañada de Giles» de la Ficha 003: los dos documentos permiten ubicar la cabecera del arroyo. Los mojones se refieren a estancias y casas (Sarabí, Arriaga). En el plano aparecen achurados de bajos y una figura vegetal junto a la línea de Noriega."
+  },
+  {
+   "titulo": "El ritual de la mensura",
+   "texto": "En 1854 el acto está completamente institucionalizado: despacho judicial, citación de linderos por escrito, un juez de paz que preside, representantes legales de cada lindero (hermanos, apoderados), notas aclaratorias, papel sellado del año correspondiente, examen del Departamento y remisión a aprobación judicial. La firma doble de Eguía separa la diligencia de la nota administrativa."
+  },
+  {
+   "titulo": "Instrumental y corrección magnética",
+   "texto": "La declinación declarada es de 11° 45' NE. Se suma a la serie: 10° (1825), 15° (1838 y 1846, convencional), 13° (1846, medida con teodolito) y 11° 45' (1854). Es una serie útil para calibrar la rotación de los polígonos al georreferenciarlos. ¿Cambió la aguja o cambió la práctica de corrección?"
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "9.937.302 v² ≈ 745 ha (1 v² ≈ 0,75 m²), de las cuales 884.902 v² ≈ 66 ha son tierra pública excedente. La franja de Arriaga mide 1375 varas de frente ≈ 1191 m. El frente original de 1824 era de 7470 varas ≈ 6,5 km sobre el arroyo."
+  },
+  {
+   "titulo": "Familia, herencia y género",
+   "texto": "La tierra circula por herencia y compra dentro de una misma testamentaría (López–Luque–Arriaga). Aparecen varias mujeres titulares o representadas: Rosalía Sarabia (vendedora en 1824), Tránsito Luque, Natalia Arriaga (viuda, representada por su hermano), María Maure de Pividal y Gabriela Álvarez. Hay una diferencia de nombres que conviene resolver: el extracto dice José Antonio López y la diligencia José Ambrosio López. ¿Es la misma persona, o padre e hijo?"
+  },
+  {
+   "titulo": "Tierra pública y sobrantes",
+   "texto": "El Estado aparece como propietario de los excedentes dentro de las posesiones privadas. El Departamento remite a una futura «Ley de tierras» (1855-1857) y en 1866 terceros intentan comprar sobrantes ajenos. El sobrante es la figura central de la puja por la tierra después de Rosas."
+  },
+  {
+   "titulo": "Estado del documento y dudas",
+   "texto": "Muy buen estado; caligrafía excelente. Quedan dudosos la firma del segundo miembro del Departamento («Pico»), los apellidos de las notas de 1866 (Rigal, Cuculla), las firmas marginales de 1867 (Alsina, Varela) y el rótulo «Gerónimo Laballén» del plano."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Por qué Rodríguez prefirió agrandar el lote de la viuda Arriaga? ¿Quién era Carlos Butterfield y qué relación tenía con los herederos de Galeano? ¿Se puede reconstruir, con la mensura de 1821 y la donación de 1793, el límite original del Pueblo? ¿Qué dice la Ley de tierras que el Departamento manda «esperar»?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Manuel Eguía",
+   "rol": "Agrimensor público",
+   "texto": "Mismo agrimensor de la Ficha 003 (1838). Sigue activo 16 años después, ya en el Estado de Buenos Aires posterior a Caseros. Su técnica evoluciona: plano con rotulación de imprenta y declinación declarada en minutos. Es un agrimensor de larga continuidad en la zona de Giles-Areco.",
+   "fuentes": "Esta mensura; Ficha 003."
+  },
+  {
+   "nombre": "Joaquín Rodríguez",
+   "rol": "Propietario",
+   "texto": "Compró en 1825 a José Antonio López un triángulo de 3000 varas de frente al arroyo de Giles. Después fue sumando las fracciones de los herederos de López. Ya aparecía como lindero E de Pascuala Romero en 1838 (Ficha 003) y como «Joaquín Rodríguez» en el plano de Eguía. Es un propietario con al menos 30 años de presencia en el lugar. Sin datos en fuentes en línea.",
+   "fuentes": "Esta mensura; Ficha 003."
+  },
+  {
+   "nombre": "Natalia Arriaga",
+   "rol": "Viuda de josé ambrosio lópez; madre de herederos menores",
+   "texto": "Recibe para sus hijos menores 1375 varas de frente. Actúa por medio de su hermano Ramón Arriaga. Tenía casa en el lugar, usada como referencia del mojón de arranque.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Rafael Pividal · María Maure de Pividal",
+   "rol": "Comprador de 1824 y su testamentaría",
+   "texto": "Pividal compró el triángulo original a Rosalía Sarabia en 1824 y se reservó 800 varas junto al pueblo. En 1854 su tierra figura como testamentaría, a nombre de María Maure de Pividal. La Carpeta 17 del archivo contiene la «Mensura 17 – Pividal» (en PDF).",
+   "fuentes": "Esta mensura; índice del archivo."
+  },
+  {
+   "nombre": "Rosalía Sarabia · Hermenegildo Sarabí",
+   "rol": "Vendedora de 1824 · lindero oeste",
+   "texto": "Rosalía Sarabia descendía de los Suero e Hidalgo, donantes de la tierra del pueblo. Hermenegildo Sarabí, quizá de la misma familia con otra grafía, tenía estancia al oeste del arroyo.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Dr. Basilio Salas · Pedro Salas",
+   "rol": "Juez de 1.ª instancia · juez de paz de giles",
+   "texto": "Basilio Salas dictó el despacho de agosto de 1854. Pedro Salas, juez de paz del partido de Giles, presidió la mensura. No se hallaron más datos en fuentes en línea.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Saturnino Salas (1806–1892)",
+   "rol": "Departamento topográfico",
+   "texto": "Nacido en San Juan el 29 de noviembre de 1806, fue compañero de escuela de Sarmiento. Becado en 1823 al Colegio de Ciencias Morales, entró en 1824 a la primera Comisión Topográfica y se recibió de ingeniero en 1826. Fue profesor de Física y Matemáticas en la Universidad de Buenos Aires, considerado el mejor matemático argentino de su tiempo. Hizo el primer Registro Gráfico y el primer plano general de Buenos Aires, participó de la reforma de la legislación de tierras (1854) y presidió el Departamento Topográfico entre 1855 y 1875. Murió el 14 de septiembre de 1892.",
+   "fuentes": "Diario de Cuyo (2019), «Saturnino Salas, el gran matemático sanjuanino»; Revista Andes / SciELO (2014)."
+  },
+  {
+   "nombre": "Carlos Butterfield",
+   "rol": "Apoderado de los herederos de martín galeano",
+   "texto": "Es un apellido británico: un comerciante o estanciero que representaba a los herederos Galeano en 1854. Se suma a Macome (Ficha 002) como presencia británica en la zona. Sin datos adicionales.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Francisco Lescano · Aniceto Noriega · Gabriela Álvarez · Aniceto Villalba · Fernando Monsalvo · Ramón Arriaga",
+   "rol": "Linderos y representantes",
+   "texto": "Son los vecinos presentes en el acto. Monsalvo es el hijo de Pascuala Romero (Ficha 003). Los herederos de Manuel Noriega y Gabriela Álvarez también aparecen en el plano de 1838.",
+   "fuentes": "Esta mensura; Ficha 003."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/004/02.jpg",
+  "fuente": "IMG_6585.JPG",
+  "lineas": [
+   "N.º 25                         Giles   4",
+   "[en rojo:] ×",
+   "Seccion Areco.",
+   "Mensura del terreno",
+   "de",
+   "D^{n} Joaquin Rodriguez, so-",
+   "bre y al Este de la Cañada de Giles",
+   "practicada por",
+   "El Agrimensor Eguia",
+   "en 14 de Octubre de 1854"
+  ]
+ },
+ "titulo": "D. Joaquín Rodríguez",
+ "estado": "Transcripta (7 hojas, 196 renglones), 2 láminas"
+}

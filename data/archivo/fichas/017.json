@@ -1,0 +1,634 @@
+{
+ "carpeta": "17",
+ "carpeta_nombre": "Carpeta 17",
+ "archivo": "Ficha 017 - Rafael Pividal (1854).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Secc. Areco)",
+  "N.º de duplicado": "17 (portadilla N.º 83)",
+  "Propietario / solicitante": "Testamentaría de D. Rafael Pividal",
+  "Agrimensor": "Manuel Eguía",
+  "Año": "1854",
+  "Fecha de la diligencia": "26/6/1854 (aprob. D. T. 14/9/1854)",
+  "Ubicación": "Al E del arroyo de Giles, junto al pueblo",
+  "Orden judicial": "Juez de 1.ª Inst. Daniel M. Cazón, 17/1/1854",
+  "Vendedor / antecesor": "Hidalgo → J. P. Rodríguez (1818) → Pividal (1837); R. Saravia → Pividal (1824); permuta con Larrosa (1854)",
+  "Linderos citados": "Veloz · M. Silva · J. Díaz · F. Lescano · J. de Larrosa · N. Arriaga · pueblo de Giles",
+  "Medidas": "Campo 7 lados (7542 · 3163 · 6034 v); fracción de 800 × 4670/5162 v",
+  "Rumbos": "Corregidos («Norte verd.º»); S 47° 15' E / S 42° 45' O",
+  "Referencia de archivo": "«N.º 83 – Giles 17 – Secc.n Areco»; nota de 1938"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 1849 (campo 1550 + fracción urbana 299)",
+  "hitos": "Cruz de la iglesia de Giles; cementerio viejo; casas; estancia de H. Saraví; zanjón",
+  "aguas": "Arroyo (cañada) de Giles; zanjón o desagüe a Giles"
+ },
+ "sintesis": "Mensura de Manuel Eguía (26/6/1854) de la testamentaría de Rafael Pividal (viuda María Maure), el gallego fundador de Zárate. Dos fracciones: el campo comprado a Juan Pablo Rodríguez (1837), de 7 lados y ≈ 1550 ha, y las 800 v de frente linderas con el pueblo (≈ 299 ha). Confirma los frentes de 1838 (Ficha 008): 540 v de Larrosa (antes Galeano) y 700 del pueblo. El lado lindero con el pueblo cruza cementerio, calles y solares con nombre, dibujados a escala mayor. La viuda dona a los ocupantes lo que la línea le da dentro del pueblo.",
+ "caratula": {
+  "img": "img/f/017/01.jpg",
+  "fuente": "IMG_6729.JPG",
+  "campos": [
+   [
+    "N.º",
+    "17"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Rafael Pividal"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Manuel Eguía"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1854"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 (recto) · Extracto de títulos",
+   "img": "img/f/017/05.jpg",
+   "fuente": "IMG_6733.JPG",
+   "nota": "Sello del Departamento Topográfico en el margen y foliatura «1». Letra de copista, muy cuidada, igual en todo el cuerpo. Las tomas IMG_6734 e IMG_6735 son acercamientos parciales de esta misma hoja (no se transcriben aparte).",
+   "lineas": [
+    "Estracto de los titulos de D^{a} Maria Mau-",
+    "re de Pividal.",
+    "En 15 de Diciembre de 1818. D^{n} Juan Dioni-",
+    "sio Hidalgo vendió á D^{n} Juan Pablo Ro-",
+    "driguez un terreno que se compone de 3000",
+    "varas de frente y 6,700 de fondo por el costa-",
+    "do N.E. y en el del S.O. 5,800 v^{s} linda por",
+    "su frente con el arroyo de Giles por el fon-",
+    "do con D^{n} Pedro Sanchez, que fueron",
+    "de Vivar, por el N.E. con el finado Pon-",
+    "ce y por el S.O. con los de D^{n} Mariano",
+    "Galiano.",
+    "En 9 de Mayo de 1837 D^{a} Mercedes Co-",
+    "rrea viuda de D^{n} Juan Pablo Rodri-",
+    "guez, vendió á D^{n} Rafael Pividal es-",
+    "te mismo terreno.",
+    "En 7 de Diciembre de 1824 D^{a} Rosalia",
+    "Saravia vendió á D^{n} Rafael Pividal",
+    "un terreno de la figura de un triangulo",
+    "que linda por un lado con el terreno do-",
+    "nado por los Zuero é Hidalgo para el",
+    "pueblo de San Andres de Giles con fren-",
+    "te al arroyo de Giles, desde donde arran-",
+    "can los terrenos de estos sobre la linde",
+    "de Don Pedro Diaz de Vivar y tiene por",
+    "el frente á Giles 1470 v^{s} segun la mensu-",
+    "ra y por el lado N.E. debe haber 6000 v^{s}",
+    "poco mas ó menos. Don Rafael Pividal",
+    "vendió á Don José Lopez parte de este",
+    "terreno, reservándose para sí 800 v^{s} de",
+    "frente linderas con el pueblo de San An-",
+    "dres de Giles.",
+    "En 22 de Julio de 1854 D^{a} Maria Maure",
+    "de Pividal, hizo cambio y permuta con",
+    "Don José de Larrosa: este recibió de D^{a}",
+    "Maria Maure de Pividal las 15 cuadras //"
+   ],
+   "interpretacion": "Es el «extracto de los títulos» de D.ª María Maure de Pividal, viuda de Rafael Pividal, que el agrimensor pone al frente de la mensura para justificar qué se mide. Hay tres cadenas de dominio.\n1) La tierra grande: en 1818 Juan Dionisio Hidalgo vende a Juan Pablo Rodríguez 3000 varas de frente sobre el arroyo de Giles por 6700 de fondo (NE) y 5800 (SO); linda al fondo con Pedro Sánchez («que fueron de Vivar»), al NE con el finado Ponce y al SO con Mariano Galiano. En 1837 la viuda de Rodríguez, Mercedes Correa, la vende a Pividal.\n2) El triángulo: en 1824 Rosalía Saravia vende a Pividal un terreno triangular que linda con «el terreno donado por los Zuero é Hidalgo para el pueblo de San Andrés de Giles», con 1470 v de frente al arroyo. Pividal vende parte a José López y se reserva 800 v de frente «linderas con el pueblo».\n3) La permuta de 1854: la viuda da a José de Larrosa las 15 cuadras que Galiano había vendido a Pividal «entre las calles del pueblo de Giles»."
+  },
+  {
+   "titulo": "Folio 1 (vuelto) · Fin del extracto y comienzo de la diligencia",
+   "img": "img/f/017/06.jpg",
+   "fuente": "IMG_6736.JPG",
+   "nota": "La fecha de la diligencia se lee «1854» con el 5 repasado sobre otra cifra.",
+   "lineas": [
+    "// de tierra que Don Mariano Galiano, ven-",
+    "dió á su finado esposo entre las calles",
+    "del pueblo de Giles; y D^{a} Maria Mau-",
+    "re ha recibido de Larrosa igual super-",
+    "ficie de terreno en el fondo de su cam-",
+    "po lindero con Don Francisco Lescano",
+    "por el N.E. como se detalla en la di-",
+    "ligencia de mensura que sigue.",
+    "Diligencia de mensura.",
+    "En el partido de San Andres",
+    "de Giles á 26 de Junio de 1854 hallan-",
+    "dome yo el agrimensor público Ma-",
+    "nuel Eguia autorizado judicialmen-",
+    "te para medir los terrenos pertenecien-",
+    "tes á la testamentaria de D^{n} Ra-",
+    "fael Pividal por despacho de 17 de Ene-",
+    "ro del presente año, del S^{or} Juez de 1^{a}",
+    "Instancia D^{or} D^{n} Daniel M. Cazon",
+    "previa la citacion de linderos que ori-",
+    "final se acompaña á esta diligencia",
+    "y acompañado de ellos tomé por pun-",
+    "to de arranque el mojon que se halla",
+    "sobre el arroyo de Giles que marca el",
+    "angulo formado por los lados frente",
+    "al N.E. y N.O. de esta propiedad y q^{e}",
+    "tambien es esquinero Oeste del terreno",
+    "perteneciente á los herederos de Don",
+    "Marcelino Veloz, el que habalisé mi-",
+    "rando al S. 66° 15' E. la casa de D^{a} Bri-",
+    "gida Romero, al S. 25° 15' O. la cruz de",
+    "iglesia de Giles: desde este mojon al",
+    "S. 47° 15' E. y dividiendo con los herede-",
+    "ros de Don Marcelino Velos y Don Ma-",
+    "nuel Silva se midieron 7,542 v^{s} has-",
+    "ta hallar el lado frente al N.O. del ter-",
+    "reno de Don José Diaz en cuyo frente se",
+    "colocó un mojon á las 3000 v^{s}; á las 4,600",
+    "se cruzó el camino que vá á la posta //"
+   ],
+   "interpretacion": "Termina la permuta: a cambio de las 15 cuadras urbanas, la viuda recibe de Larrosa igual superficie «en el fondo de su campo», lindera con Francisco Lescano. Es decir, una manzana de chacras dentro del ejido se cambia por una faja rural al fondo.\nEmpieza la diligencia: San Andrés de Giles, 26 de junio de 1854. Manuel Eguía, agrimensor público, mide la testamentaría de Rafael Pividal por despacho del juez de 1.ª instancia Daniel M. Cazón (17 de enero de 1854), con citación de linderos que va adjunta y en compañía de ellos. Arranca del mojón sobre el arroyo de Giles, esquina N de la propiedad y esquina O de los herederos de Marcelino Veloz, y lo «habaliza» con dos visuales: la casa de D.ª Brígida Romero (S 66° 15' E) y «la cruz de la iglesia de Giles» (S 25° 15' O). Mide al S 47° 15' E, lindando con Veloz y Manuel Silva, 7542 v; a las 3000 un mojón, a las 4600 cruza «el camino que va a la posta»…"
+  },
+  {
+   "titulo": "Folio 2 (recto) · Costado de fondo y permuta con Larrosa",
+   "img": "img/f/017/07.jpg",
+   "fuente": "IMG_6737.JPG",
+   "nota": "Sello con foliatura «2». «mojon» testado y sustituido por «punto». El primer rumbo hacia José Díaz se confirma en el plano: S 58° 45' O.",
+   "lineas": [
+    "// de Rodriguez; á las 5,800 se cruzó un zanjon",
+    "ó desagüe á Giles; á las 6,000 varas se colocó",
+    "otro mojon, se habalisó el mojon puesto al",
+    "estremo de las 7,542, mirando al N. 40° 15' O.",
+    "la casa de Don Venancio Gelves. Desde este mo-",
+    "jon y al rumbo de S. 58° 45' O. y dividiendo con",
+    "D^{n} José Diaz se midieron 2,927 v^{s} hasta",
+    "el mojon de piedra esquinero Oeste del terre-",
+    "no de D^{n} José Diaz y Norte de D^{n} Francis-",
+    "co Lescano, al S. 62° 45' O. se midieron 236 v^{s}",
+    "que unidas con las 2,927 hacen 3,163 que",
+    "corresponden á 3,000 que se tomarán en el",
+    "rumbo perpendicular al costado N.E. Has-",
+    "ta aquí el terreno de la testamentaria de",
+    "Pividal, procedente de Don Juan Pablo Ro-",
+    "driguez. Para entregar á la testamentaria",
+    "de Pividal el terreno permutado con Lar-",
+    "rosa, arranqué desde este ~~mojon~~ punto",
+    "y al mismo rumbo de S. 62° 45' O. dividien-",
+    "do con el mismo D^{n} Francisco Lescano",
+    "y medí 107 v^{s} que corresponden á 100 v^{s}",
+    "que se tomarán en el rumbo perpendicu-",
+    "lar al costado frente al N.E.; y estas 100 v^{s}",
+    "son las que entrega Larrosa á la testa-",
+    "mentaria de Pividal en cambio. Se colo-",
+    "có un mojon que habalisé mirando al",
+    "N. 38° 15' E. la casa de D^{n} Venancio",
+    "Gelves, y al S. 76° 45' O. la casa de D^{n} Ma-",
+    "nuel Lopez. Desde este mojon y al N. 47°",
+    "15' O. dividiendo con el mismo D^{n} José",
+    "de Larrosa se midieron 1,622 v^{s} como",
+    "término del costado frente al S.O. del",
+    "terreno permutado. Se colocó un mo-",
+    "jon que habalisé mirando al S. 16°",
+    "15' O. la casa de D^{n} Manuel Lopez",
+    "y al N. 58° 15' E. la casa de D^{n} Ber-",
+    "nardino Gelves: en seguida cuadré al",
+    "N. 42° 45' E. y dividiendo con el mismo",
+    "Larrosa se midieron 100 v^{s} que perte-",
+    "necen á la misma entrega que hace Lar-",
+    "rosa á la testamentaria de Pividal //"
+   ],
+   "interpretacion": "…«de Rodríguez»: el camino va a la posta de Rodríguez (así lo rotula el plano). A las 5800 v se cruza «un zanjón o desagüe a Giles»; a las 6000 otro mojón; al final de las 7542 v, visual a la casa de Venancio Gelves.\nEl fondo (frente al NO de José Díaz) tiene un quiebre: 2927 v al S 58° 45' O hasta un mojón de piedra, esquina de Díaz y de Francisco Lescano, y 236 v más al S 62° 45' O. Eguía explica que esas 3163 v oblicuas «corresponden a 3000» tomadas perpendiculares al costado NE: está reconstruyendo el ancho del título de 1818 (3000 v) sobre un terreno que no es un rectángulo perfecto.\nLuego mide la faja que Larrosa entrega por la permuta: 107 v oblicuas = 100 v perpendiculares, y 1622 v al N 47° 15' O. Cada mojón se ata a casas (Venancio y Bernardino Gelves, Manuel López)."
+  },
+  {
+   "titulo": "Folio 2 (vuelto) · Frente sobre el arroyo de Giles y área del campo",
+   "img": "img/f/017/08.jpg",
+   "fuente": "IMG_6738.JPG",
+   "nota": "«dho» (dicho) al final del renglón 5, abreviatura dudosa.",
+   "lineas": [
+    "// por la permuta mencionada. Regresé al",
+    "estremo de las 236 v^{s} sobre la linde de",
+    "Lescano, ó sea el angulo Sud, del terreno",
+    "de la testamentaria de Pividal que procede",
+    "de D^{n} Juan Pablo Rodriguez sobre el d^{ho}",
+    "linde de Lescano. Desde este punto al N.",
+    "47° 15' O. dividiendo parte con terreno de esta",
+    "testamentaria entregado por Larrosa y",
+    "parte con terrenos de la propiedad del",
+    "mismo Larrosa, se midieron hasta el arro-",
+    "yo de Giles 6,034 varas y se colocó un mo-",
+    "jon, esto es, un mojon que forma el angulo",
+    "de los lados frente al N.O. y S.O. del terre-",
+    "no de Pividal: sobre esta línea se halló",
+    "á las 1,657 v^{s} el mojon formado por los",
+    "lados frente al N.E y N.O. del terreno en",
+    "permuta que ha recibido esta testamen-",
+    "taria; á las 3034 se colocó un mojon. Ha-",
+    "balisé el mojon colocado sobre el arroyo",
+    "de Giles mirando al S. 3° 45' O. la cruz de",
+    "la iglesia de Giles, al N. 76° 15' O. la casa",
+    "de D^{n} Francisco Casco: desde este mojon",
+    "al N. 42° 45' E. arroyo de Giles abajo se mi-",
+    "dieron 1300 varas; y de su estremo al N.",
+    "47° 15' O. 200 v^{s} y se encontró el arroyo",
+    "de Giles: luego al N. 42° 45' E. 725 v^{s}:",
+    "en seguida al N. 47° 15' O. 400 v^{s} y se encon-",
+    "tró el arroyo y por último al N. 42° 45' E.",
+    "975 v^{s} hasta el mojon de arranque. El",
+    "terreno medido incluyendo la porcion per-",
+    "mutada con Larrosa tiene la figura de un",
+    "polígono irregular de siete lados y encier-",
+    "ra la superficie de 20.669.170. v^{s} cuadra-",
+    "das: en seguida para medir y deslindar",
+    "las 800 v^{s} que pertenecen á esta testamen-",
+    "taria por compra hecha á los herederos",
+    "de Zuero é Hidalgo, y no habiendo mo-",
+    "jon alguno en los límites del terreno",
+    "mencionado, tomé por punto de partida",
+    "el mojon colocado en el angulo O. del terre-",
+    "no antes medido para esta testamenta- //"
+   ],
+   "interpretacion": "Vuelve al ángulo S del campo y mide al N 47° 15' O 6034 v hasta el arroyo de Giles, lindando primero con la faja recibida de Larrosa y después con tierra del propio Larrosa; a las 1657 v está la esquina de la faja permutada. El mojón del arroyo se ata otra vez a «la cruz de la iglesia de Giles» (S 3° 45' O) y a la casa de Francisco Casco (N 76° 15' O).\nEl frente al arroyo no es recto: sigue la costa en escalones de rumbos perpendiculares (1300, 200, 725, 400 y 975 v) «arroyo de Giles abajo». Resultado: un polígono de siete lados de 20.669.170 v² (≈ 1550 ha, 0,57 legua²), incluida la porción permutada.\nEmpieza la segunda operación: las 800 v de frente que la testamentaría tiene «por compra hecha a los herederos de Zuero e Hidalgo» y que no tenían ningún mojón."
+  },
+  {
+   "titulo": "Folio 3 (recto) · Las 800 varas linderas con el pueblo",
+   "img": "img/f/017/09.jpg",
+   "fuente": "IMG_6739.JPG",
+   "nota": "Sello con foliatura «3». En el margen izquierdo, sumas a lápiz (1240 / 540 / 700). «N. 47° 15' E.» del renglón 6 es un rumbo anómalo en la serie (debería ser S 47° 15' E): se transcribe como está. «700» se lee con trazo corto (podría confundirse con 100), pero la suma a 1240 y la Ficha 008 lo confirman.",
+   "lineas": [
+    "// ria colocado sobre el arroyo de Giles; y que tam-",
+    "bien es esquinero N. de la propiedad de D^{n}",
+    "José Larrosa. Desde este mojon al S. 47° 15' E.",
+    "se midieron 150 v^{s} y luego al S. 42° 45' O. se",
+    "midieron 890 v^{s} y se encontró con el arroyo de",
+    "Giles; luego al N. 47° 15' E. [sic] 125 v^{s} y luego al",
+    "S. 42° 45' O. 350 v^{s}. Las dos fracciones medi-",
+    "das al S. 42° 45' O. hacen la suma de 1240",
+    "varas, 540 de D^{n} José Larrosa y 700 pertene-",
+    "cientes al pueblo de Giles. Desde el estremo",
+    "de las 150 ultimamente medidas y al",
+    "S. 47° 15' E. se midieron 143 varas y se colo-",
+    "có un mojon calle por medio con el anti-",
+    "guo cementerio de este pueblo. Este mojon",
+    "marca el angulo N. de la propiedad que se",
+    "mide que es tambien del deslinde S.O. del",
+    "terreno del pueblo de Giles; y no se colocó sobre",
+    "el mismo arroyo, por dejarlo en un lugar mas",
+    "elevado, mas visible y libre de las avenidas del",
+    "arroyo. Desde este mojon y al S. 42° 45' O se mi-",
+    "dieron 321 v^{s} y se dió con el arroyo de Giles",
+    "cuadré al S. 47° 15' E. y medí 200 v^{s} y de su",
+    "estremo al S. 42° 45' O. se midieron 479 v^{s}",
+    "que sumadas á las 321 hacen 800 v^{s} q^{e}",
+    "es el frente del terreno que se mide: aquí se",
+    "colocó un mojon que marca el angulo Oeste",
+    "de esta propiedad; y que habalisé miran-",
+    "do al S. 5° 15' E. la casa de D^{a} Natalia Arria-",
+    "ga; al N. 76° 15' O la estancia de D^{n} Her-",
+    "menegildo Saraví. Desde este mojon al",
+    "S. 47° 15' E. y dividiendo con D^{a} Natalia",
+    "Arriaga se midieron 4.670 v^{s} hasta ha-",
+    "llar el costado frente al N.O. del terreno",
+    "de D^{n} Francisco Lescano, habiendo colo-",
+    "cado un mojon á las 1.670 v^{s} otro á las",
+    "2.670, otro á las 3,670; al estremo de las 4,670",
+    "se colocó un mojon que habalisé miran-",
+    "do al N. 19° 45' E. la casa de D^{n} Pascual",
+    "Lopez, al N. 70° 15' E. la casa de D^{n} Ju-",
+    "an Antonio Navarro. Desde este mojon",
+    "al N. 62° 45' E y dividiendo con D^{n} Fran- //"
+   ],
+   "interpretacion": "Punto clave para la historia urbana. Desde el mojón sobre el arroyo (esquina N de Larrosa) mide por el arroyo dos fracciones que suman 1240 v: «540 de D. José Larrosa y 700 pertenecientes al pueblo de Giles». Son exactamente los frentes de la Ficha 008 (1838): Galeano 540 y Santo Patrono 700. Las 540 de Galeano pasaron así a Larrosa.\nEl esquinero N de las 800 v se coloca «calle por medio con el antiguo cementerio de este pueblo», y no sobre el arroyo sino más arriba, «por dejarlo en un lugar más elevado, más visible y libre de las avenidas del arroyo»: una razón de paisaje (las crecidas) explícita.\nMide 321 + 479 = 800 v de frente siguiendo el arroyo; el esquinero O se ata a la casa de Natalia Arriaga y a «la estancia de D. Hermenegildo Saraví». El costado lindero con Arriaga corre 4670 v al S 47° 15' E, con mojones cada 1000 v, y remata con visuales a las casas de Pascual López y Juan Antonio Navarro."
+  },
+  {
+   "titulo": "Folio 3 (vuelto) · La línea que atraviesa el pueblo",
+   "img": "img/f/017/10.jpg",
+   "fuente": "IMG_6740.JPG",
+   "nota": "Llamada con cruz en el renglón 4. Los apellidos Climiño y Lacial se confirman con el plano; «Petrona Lorca» es dudoso (el plano rotula ese solar de otro modo).",
+   "lineas": [
+    "// cisco Lescano se midieron 854 varas que hacen",
+    "800 en el rumbo perpendicular al costado me-",
+    "dido y se colocó un mojon que marca el an-",
+    "gulo Este de esta propiedad; desde el cual",
+    "al N. 47° 15' O. y dividiendo con terrenos del",
+    "pueblo de Giles se midieron 5162 v^{s} hasta",
+    "el mojon de arranque, colocado frente al anti-",
+    "guo cementerio de Giles, sobre esta línea á",
+    "3792 v^{s} se enfrentó con el angulo Norte del",
+    "cementerio del pueblo de Giles, quedando el",
+    "angulo Oeste del mismo 20 varas mas atras",
+    "y distante 12 varas de nuestra línea; á las",
+    "4.153 varas se tocó el angulo N.E. del solar",
+    "de D^{n} Ygnocencio Silva; á las 4,273 se cruzó",
+    "la calle ó camino principal que vá al pa-",
+    "so del arroyo, entramos en la cuadra de D^{n}",
+    "Cerafin Andrade, en que entramos por el",
+    "angulo S.E.; á las 4,391 acabamos la cua-",
+    "dra de D^{n} Cerafin Andrade; á las 4,402 se",
+    "cruzó una calle y entramos cortando los sola-",
+    "res siguientes: D^{n} Juan Climiño, Don Cera-",
+    "fin Lacial y D^{a} Petrona Lorca [?], pasando",
+    "la línea por el mojinete de esta última; á",
+    "las 4,516 entramos á una calle, y en segui-",
+    "da á una manzana despoblada; á las",
+    "4,645 despues de cruzar otra calle entramos",
+    "á cruzar el terreno de D^{n} N. Sosa y el que",
+    "sigue de D^{a} Natalia Arriaga; á las 4,766",
+    "habiendo cruzado otra calle entramos á la cua-",
+    "dra de D^{n} Ramon Bustos; á las 4,886 ha-",
+    "biendo cruzado una calle de E. á O. y otra de",
+    "N. á S. entramos en la cuadra perteneci-",
+    "ente á Don Juan Antonio Navarro; á las 5,035",
+    "habiendo cruzado otra calle entramos á la",
+    "quinta de D^{n} Mariano Casas. El terreno",
+    "medido tiene la figura de un polígono irre-",
+    "gular de cuatro lados y encierra la area de",
+    "3,988,000. varas cuadradas. Ha sido medido",
+    "á rumbos corregidos y han asistido perso-",
+    "nalmente todos los linderos; y á mas el //"
+   ],
+   "interpretacion": "El costado de fondo (854 v oblicuas = 800 perpendiculares, lindando con Lescano) y, al volver, el costado NE: 5162 v al N 47° 15' O «dividiendo con terrenos del pueblo de Giles» hasta el mojón del cementerio.\nEsa línea corta la planta urbana y Eguía la describe como un itinerario: a las 3792 v enfrenta el ángulo N del cementerio (el ángulo O queda 20 v atrás y a 12 v de la línea); a las 4153 toca el solar de Ygnocencio Silva; a las 4273 cruza «la calle o camino principal que va al paso del arroyo»; atraviesa la cuadra de Cerafín Andrade, los solares de Juan Climiño, Cerafín Lacial y Petrona Lorca [?] (la línea pasa «por el mojinete» de la casa de esta última), una manzana despoblada, los terrenos de N. Sosa y Natalia Arriaga, las cuadras de Ramón Bustos y Juan Antonio Navarro y llega a la quinta de Mariano Casas. Es un corte transversal del pueblo en 1854, con sus dueños, calles y vacíos.\nÁrea de esta fracción: polígono de cuatro lados, 3.988.000 v² (≈ 299 ha). Medido «a rumbos corregidos», con asistencia personal de todos los linderos y además…"
+  },
+  {
+   "titulo": "Folio 4 (recto) · Donación de la viuda y aprobación del Departamento",
+   "img": "img/f/017/11.jpg",
+   "fuente": "IMG_6741.JPG",
+   "nota": "Sello con foliatura «4». La nota del Departamento Topográfico está en otra letra, más rápida. Firmas autógrafas con rúbrica: Salas (Saturnino Salas) y Pico (Pedro Pico).",
+   "lineas": [
+    "// S^{or} Juez de Paz y los Municipales D^{n}",
+    "Visente Gutillas [?] y Don N. Sosa, la Señora viu-",
+    "da de Pividal donó á favor de los poseedores",
+    "los pedazos de terrenos que resultan dentro",
+    "de su propiedad.",
+    "Manuel Eguia",
+    "Buenos A^{s} Septiembre 14 de 1854",
+    "Vista y ecsaminada la anterior diligencia de men-",
+    "sura practicada por el agrimensor D. Manuel",
+    "Eguia en los terrenos de la propiedad de la tes-",
+    "tamentaria de D. Rafael Pividal sitos en el",
+    "partido de Giles; atendiendo á que esta operacion",
+    "en la parte facultativa ha sido ejecutada con",
+    "arreglo á las disposiciones sobre la materia, y á",
+    "que las propiedades que corta la linea del cos-",
+    "tado Sud-oeste, han sido cedidas en favor de",
+    "sus actuales poseedores, por la S^{ra} viuda de",
+    "Pividal, el Dep^{to} Top^{co} nada tiene que obser-",
+    "var sobre la anterior operacion, y por lo tan-",
+    "to la aprueba en todas sus partes.",
+    "Salas     Pico"
+   ],
+   "interpretacion": "…del juez de paz y de los municipales Vicente Gutillas [?] y N. Sosa: la viuda de Pividal «donó a favor de los poseedores los pedazos de terrenos que resultan dentro de su propiedad». Como la línea pasa por encima de solares ya edificados, la dueña cede a los ocupantes lo que la mensura le da dentro del pueblo: la mensura se cierra con una donación ante las autoridades locales.\nFirma Manuel Eguía. El 14 de septiembre de 1854, en Buenos Aires, el Departamento Topográfico (Salas y Pico) aprueba la operación «en todas sus partes», porque la parte facultativa se ajusta a las disposiciones y porque las propiedades que corta la línea «han sido cedidas en favor de sus actuales poseedores por la señora viuda de Pividal». El Departamento llama «Sud-oeste» a ese costado; en la diligencia es el lado lindero con el pueblo."
+  },
+  {
+   "titulo": "Nota de 1938 (última hoja)",
+   "img": "img/f/017/12.jpg",
+   "fuente": "IMG_6748.JPG",
+   "nota": "Anotación a mano en lápiz/tinta del siglo XX, con sello de foliatura «6». Lectura difícil. La toma IMG_6747 es la misma hoja con otra luz.",
+   "lineas": [
+    "Enero 28: 1938 — En la fecha informé el oficio J. 16 de 1938, en la",
+    "sucesion de Petrona [?] A. de Robecio [?].",
+    "Cp.   f.        R. C. M. [?]"
+   ],
+   "interpretacion": "Nota de oficina del 28 de enero de 1938: se informó el oficio J. 16 de 1938 en una sucesión (el nombre se lee con dificultad: «Petrona [?] A. de Robecio [?]»). Muestra que el duplicado siguió consultándose en el siglo XX para juicios sucesorios, como la nota de 1975 de la Ficha 010."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano general del campo de Pividal y de las 800 varas del pueblo",
+   "img": "img/f/017/03.jpg",
+   "fuente": "IMG_6744.JPG (vista completa en IMG_6742/6743)",
+   "orientacion": "Plano a tinta, lámina plegada; flecha «Norte verd.º» con plumas junto al mojón de arranque; escala «una pulgada por 1000 varas» (0–6000 v); firma «Manuel Eguía».",
+   "interpretacion": "Dos polígonos alargados en el mismo sentido (NO–SE), perpendiculares al arroyo de Giles, que corre por el borde NO con su meandro dibujado. Arriba, el gran campo «Herederos de Rafael Pividal – 20.669.170 varas cuadradas inclusive la porción permutada», entre los herederos de Marcelino Velós (con el puesto de Tristán Quinteros) y Manuel Silva; al fondo, José Díaz y Francisco Lescano. Una línea de puntos marca el camino «a la posta de Rodríguez» y un pequeño curso (el zanjón) cruza el lindero de Silva hacia las 5800 v.\nDebajo, en fajas paralelas: José Larrosa, «Terreno del Pueblo de Giles» (con el cementerio en A), «Herederos de Rafael Pividal – 3.988.000 v² cuad.» y Natalia Arriaga. Es la mejor imagen disponible del orden de frentes sobre el arroyo: Pividal-campo · Larrosa (ex Galeano) · Pueblo · Pividal-800 · Arriaga. Frente al vértice O aparece «S.r Rafael», una casa o puesto.",
+   "referencias": [
+    [
+     "Arroyo de Giles",
+     "Borde NO; frente escalonado con cotas 975, 400, 725, 200, 1300"
+    ],
+    [
+     "Norte verd.º",
+     "Flecha con plumas en el mojón de arranque (rumbos corregidos)"
+    ],
+    [
+     "Herederos de Marcelino Velós",
+     "Lindero NE; puesto de Tristán Quinteros"
+    ],
+    [
+     "Manuel Silva",
+     "Lindero NE, con su casa"
+    ],
+    [
+     "José Díaz · Francisco Lescano",
+     "Linderos de fondo (S 58° 45' O / S 62° 45' O)"
+    ],
+    [
+     "a la posta de Rodríguez",
+     "Camino en línea de puntos que cruza el campo"
+    ],
+    [
+     "José Larrosa",
+     "Faja entre el campo de Pividal y el pueblo (ex Galeano)"
+    ],
+    [
+     "Terreno del Pueblo de Giles",
+     "Faja de 700 v de frente; A = cementerio"
+    ],
+    [
+     "Herederos de Rafael Pividal 3.988.000 v²",
+     "Las 800 v linderas con el pueblo"
+    ],
+    [
+     "Natalia Arriaga",
+     "Lindera SO de las 800 v"
+    ],
+    [
+     "Bernardino Gelves · Man.l López",
+     "Casas-visual en la faja permutada"
+    ],
+    [
+     "S.r Rafael",
+     "Casa o puesto junto al arroyo"
+    ]
+   ]
+  },
+  {
+   "titulo": "Línea AB: el costado de las 800 varas cruzando el pueblo",
+   "img": "img/f/017/04.jpg",
+   "fuente": "IMG_6746.JPG",
+   "orientacion": "Detalle en el mismo pliego, «Escala de una pulgada por 100 v.s para la línea AB».",
+   "interpretacion": "La línea AB (del cementerio A hasta B en el arroyo) está dibujada a escala diez veces mayor para mostrar cada solar que atraviesa. Se ven las manzanas con los nombres de sus dueños, las casas como pequeños rectángulos y las calles como pasillos dobles. Es un fragmento de catastro urbano de San Andrés de Giles en 1854: probablemente el más antiguo con nombres de vecinos solar por solar que tengamos en la serie.",
+   "referencias": [
+    [
+     "A · Cementerio del Pueblo de Giles",
+     "Cruz dentro de un cuadrado; mojón a 3792 v"
+    ],
+    [
+     "Ygnocencio Silva",
+     "Solar tocado a 4153 v"
+    ],
+    [
+     "Ciriaco Col[...]",
+     "Solar vecino (lectura incompleta)"
+    ],
+    [
+     "Cerafín Andrade",
+     "Cuadra atravesada por su ángulo SE"
+    ],
+    [
+     "Juan Climiño · Cerafín Lacial · Juan M.ª / Pedro López [?]",
+     "Solares cortados por la línea"
+    ],
+    [
+     "Justa Peñalva",
+     "Solar lindero"
+    ],
+    [
+     "N. Sosa · Natalia Arriaga",
+     "Terrenos cruzados a 4645 v"
+    ],
+    [
+     "Ramón Bustos · Ramón de Toledo [?] · Raymundo Toledo · Carlos Peris [?]",
+     "Cuadras del sector N"
+    ],
+    [
+     "Juan Antonio Navarro",
+     "Cuadra a 4886 v"
+    ],
+    [
+     "B",
+     "Extremo sobre el arroyo"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "El empalme con la ficha 008: 800 · 700 · 540",
+   "texto": "En 1838 (Ficha 008) la traza del pueblo se apoyó en los frentes de Pividal (800 v), del Santo Patrono (700) y de Galeano (540). En 1854 Eguía vuelve a medir el mismo frente del arroyo y encuentra 540 v «de D. José Larrosa» y 700 «pertenecientes al pueblo de Giles», y amojona las 800 de Pividal. Las 540 de Galeano están ahora en manos de Larrosa, que además recibió por permuta las 15 cuadras que Galiano había vendido a Pividal «entre las calles del pueblo». Esta ficha permite fijar en el GIS la secuencia completa de frentes sobre el arroyo de Giles: campo de Pividal – Larrosa – Pueblo – Pividal 800 – Arriaga."
+  },
+  {
+   "titulo": "Un corte catastral del pueblo en 1854",
+   "texto": "El lado NE de las 800 v (5162 v) atraviesa la planta urbana. Eguía no lo resuelve con dos mojones: describe todo lo que la línea corta, a qué distancia y a quién pertenece, y lo dibuja a escala 1:100 v por pulgada. Aparecen el cementerio, el camino principal «que va al paso del arroyo», una manzana despoblada, cuadras, solares y quintas, y hasta el mojinete de una casa por donde pasa la línea. Para la tesis es un documento de primer orden: dueños, grado de ocupación y trama del pueblo 16 años después de su traza."
+  },
+  {
+   "titulo": "Ritual y resolución del conflicto",
+   "texto": "La mensura se hace con citación y asistencia personal de todos los linderos, del juez de paz y de dos municipales. El conflicto (la tierra titulada de Pividal incluye solares ocupados) se resuelve en el acto: la viuda dona «a los poseedores» los pedazos que quedan dentro de su propiedad, y el Departamento Topográfico aprueba justamente por esa cesión. Es la tensión entre título escrito y posesión efectiva que aparece en otras fichas (sobrantes, reivindicaciones), aquí resuelta a favor de los ocupantes."
+  },
+  {
+   "titulo": "Paisaje: arroyo, crecidas, zanjón e hitos",
+   "texto": "El arroyo de Giles es frente y límite, con un curso sinuoso que obliga a un frente en escalones. El mojón del cementerio se coloca en «un lugar más elevado, más visible y libre de las avenidas del arroyo»: se reconocen la llanura de inundación y el borde alto. Un «zanjón o desagüe a Giles» cruza el campo a 5800 v. Los hitos son construidos: la cruz de la iglesia de Giles (visual desde dos mojones, un punto fijo para el GIS), casas de Brígida Romero, Venancio y Bernardino Gelves, Manuel López, Francisco Casco, Natalia Arriaga, Pascual López, Juan Antonio Navarro y «la estancia de D. Hermenegildo Saraví»."
+  },
+  {
+   "titulo": "Técnica: rumbos corregidos, oblicuas y perpendiculares",
+   "texto": "Eguía mide «a rumbos corregidos» y el plano lleva «Norte verd.º»; no dice el valor de la declinación, pero en junio y octubre de 1854 usa 11° 45' (Fichas 004 y 006). Los ejes son S 47° 15' E y su perpendicular S 42° 45' O (el mismo haz que en 004-006). En los fondos las líneas no son perpendiculares y el agrimensor convierte: 3163 v oblicuas «corresponden a 3000» y 107 a 100, 854 a 800. Así respeta el ancho que da el título, medido en perpendicular, aunque los mojones vecinos estén torcidos. Con las visuales a la cruz de la iglesia (S 25° 15' O desde el arranque, S 3° 45' O desde el mojón del arroyo) se pueden ubicar los dos mojones con precisión."
+  },
+  {
+   "titulo": "Estado, lecturas dudosas y preguntas",
+   "texto": "Transcripta completa (4 folios + nota de 1938). En la carpeta hay además dos PDF («Mensura 17 - Pividal» y «Comp.»), que parecen compilar las mismas tomas; no se usaron. Dudosos: los apellidos Gutillas, Lorca y Robecio; un rumbo «N. 47° 15' E.» anómalo; algunos rótulos del detalle urbano. Preguntas: ¿se puede superponer la línea AB a la trama actual de Giles a partir del cementerio viejo y del paso del arroyo? ¿Dónde estaba la posta de Rodríguez? ¿Qué relación hay entre el Pividal fundador de Zárate (con planos de Eguía, 1826-27) y el Pividal de Giles?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Rafael Pividal (c. 1794 – antes de 1854)",
+   "rol": "Propietario (testamentaría)",
+   "texto": "Gallego, hijo de Antonio Pividal y Rosa Camilon. En 1826 compró tierras para fundar el pueblo de Zárate y encargó los planos al agrimensor Manuel Eguía (el Gobierno los aprobó en 1827). Participó en el movimiento de Lavalle contra Dorrego (1828); un informe de 1831 lo describe como «unitario malo, español de nacimiento», con dos tahonas y algún terreno. Casó en 1832 con María Josefa Escolástica Maure. Era dueño en Giles desde 1824 (triángulo de Saravia) y 1837 (campo de Rodríguez); en 1838 su frente de 800 v es uno de los que definen el pueblo (Ficha 008).",
+   "fuentes": "Genealogía de Zárate (webnode), «Rafael Pividal»; esta mensura; Ficha 008."
+  },
+  {
+   "nombre": "María Maure de Pividal",
+   "rol": "Viuda y titular de la testamentaría",
+   "texto": "María Josefa Escolástica Maure (hija de José Antonio Moure/Maure), casada con Pividal en 1832 a los 21 años. Viuda en 1854, permuta con Larrosa y dona a los poseedores los solares que la mensura le atribuye dentro del pueblo. En 1855 figura censada en Buenos Aires con su hijo Rafael (n. 1839), luego casado con Leonor María Paunero, hija del general Wenceslao Paunero.",
+   "fuentes": "Genealogía de Zárate (webnode); esta mensura."
+  },
+  {
+   "nombre": "Manuel Eguía",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor público de gran actividad en el partido (Fichas 003, 004, 005, 006, 010, 015). Ya había trabajado para Pividal en los planos de Zárate (1826-27). Aquí mide a rumbos corregidos y describe con detalle la línea que cruza el pueblo.",
+   "fuentes": "Fichas 003-006, 010, 015; Genealogía de Zárate."
+  },
+  {
+   "nombre": "Juan Dionisio Hidalgo · Juan Pablo Rodríguez · Mercedes Correa",
+   "rol": "Cadena de dominio (1818-1837)",
+   "texto": "Hidalgo, de la familia de los donantes del pueblo («Zuero é Hidalgo», Fichas 004, 008), vende en 1818 3000 × 6700 v a Juan Pablo Rodríguez; su viuda Mercedes Correa vende a Pividal en 1837. Sin más datos biográficos.",
+   "fuentes": "Esta mensura; Fichas 004, 008."
+  },
+  {
+   "nombre": "Rosalía Saravia",
+   "rol": "Vendedora del triángulo (1824)",
+   "texto": "Vende a Pividal el terreno triangular sobre la linde de Pedro Díaz de Vivar. Es de la familia Saraví/Sarabia de las Fichas 005 y 013. Sin más datos.",
+   "fuentes": "Esta mensura; Fichas 005, 013."
+  },
+  {
+   "nombre": "José de Larrosa",
+   "rol": "Lindero y permutante",
+   "texto": "Dueño en 1854 de las 540 v de frente de Galeano y de tierra al fondo; recibe las 15 cuadras urbanas y entrega una faja de 100 v de ancho. Sin más datos.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Mariano Galiano / Galeano",
+   "rol": "Antiguo lindero so",
+   "texto": "Lindero de Rodríguez en 1818 y dueño de uno de los tres frentes del pueblo en 1838 (540 v, Ficha 008); vendió 15 cuadras a Pividal. Sus 540 v están en 1854 en poder de Larrosa.",
+   "fuentes": "Esta mensura; Ficha 008."
+  },
+  {
+   "nombre": "Daniel María Cazón",
+   "rol": "Juez de 1.ª instancia",
+   "texto": "(1826-1878) Juez que despacha también las Fichas 006 (1854) y 007 (1863).",
+   "fuentes": "Fichas 006, 007."
+  },
+  {
+   "nombre": "Saturnino Salas · Pedro Pico",
+   "rol": "Departamento topográfico",
+   "texto": "Salas (presidente del D. T. 1855-1875) y Pedro Pico (1810-1888), miembros del Departamento restablecido en 1852, firman la aprobación del 14/9/1854.",
+   "fuentes": "Fichas 004-006, 009, 014."
+  },
+  {
+   "nombre": "Linderos y vecinos del pueblo",
+   "rol": "Personas nombradas",
+   "texto": "Marcelino Veloz/Velós (hdros.), Tristán Quinteros, Manuel Silva, José Díaz, Francisco Lescano (ya en la Ficha 008, el del mojón movido), Natalia Arriaga, Hermenegildo Saraví (estancia), Brígida Romero, Venancio y Bernardino Gelves, Manuel, Pascual y José López, Francisco Casco, Juan Antonio Navarro, Ygnocencio Silva, Cerafín Andrade, Juan Climiño, Cerafín Lacial, Petrona Lorca [?], N. Sosa, Ramón Bustos, Mariano Casas, Justa Peñalva, Raymundo Toledo; municipales Vicente Gutillas [?] y N. Sosa. Sin datos biográficos localizados.",
+   "fuentes": "Esta mensura y su plano."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/017/02.jpg",
+  "fuente": "IMG_6732.JPG (con IMG_6730 y 6731)",
+  "lineas": [
+   "[IMG_6730, hoja de guarda moderna:] San Andres de Giles. / N.º 17. /",
+   "Mensura del terreno de propiedad / de los herederos de Dn Rafael Pividal. /",
+   "Agrimensor / Manuel Eguia / 26 Junio de 1854.",
+   "[IMG_6731, portadilla:] N.º 83        Giles        17",
+   "Secc.^{n} Areco",
+   "Mensura del Terreno",
+   "de propiedad de",
+   "los herederos de D. Rafael Pividal",
+   "sobre y al Este de la Cañada de Giles",
+   "por",
+   "El Agrimensor D. Manuel Eguia",
+   "en",
+   "26 de Junio de 1854",
+   "[IMG_6732:] N.º 2",
+   "[a lápiz, tachado:] [...]",
+   "Arroyo de Giles",
+   "herederos",
+   "de",
+   "D. Rafael Pividal",
+   "por el Agrimensor",
+   "Manuel Eguia",
+   "año de 1854.",
+   "[al pie, cálculos a lápiz muy desvaídos]"
+  ]
+ },
+ "titulo": "Testamentaría de D. Rafael Pividal",
+ "estado": "Transcripta (8 hojas, 261 renglones), 2 láminas"
+}

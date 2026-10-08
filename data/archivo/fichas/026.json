@@ -1,0 +1,352 @@
+{
+ "carpeta": "26",
+ "carpeta_nombre": "Carpeta 26",
+ "archivo": "Ficha 026 - Herederos de Justina Martínez (1860).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles",
+  "N.º de duplicado": "26 (portadilla «Sección Areco N.º 108»)",
+  "Propietario / solicitante": "Herederos de D.ª Justina Martínez",
+  "Agrimensor": "Pedro Pico",
+  "Año": "1860",
+  "Fecha de la diligencia": "28/1/1860; plano 20/2/1860; D. T. 20/3/1860",
+  "Ubicación": "Cañada de la Cruz, junto al paso del camino de Córdoba",
+  "Orden judicial": "Juez de 1.ª instancia (no nombrado en las tomas)",
+  "Vendedor / antecesor": "Higueras de Santa Ana → G. de Arroyo (1732) → Lagos/Cañas → Martínez",
+  "Linderos citados": "Jerónimo Torny (NE) · Pedro del Sar · O'Brien (fondo) · Los Sosa",
+  "Medidas": "383 v × 9248/9098 v = 3.513.259 v²",
+  "Rumbos": "Corregidos; variación 11° 20' E",
+  "Referencia de archivo": "Duplicado 26; «Sección Areco N.º 108»"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 263 (0,098 legua²)",
+  "hitos": "Mojones de Pabón (s. XVIII) aún existentes; mojones A-F; banderas; barranca de la cañada",
+  "aguas": "Cañada de la Cruz (barranca y un brazo)"
+ },
+ "sintesis": "Mensura de Pedro Pico (28/1/1860) de la última fracción de la antigua propiedad Martínez sobre la Cañada de la Cruz: una faja de 383 v de frente por más de 9000 de fondo (3.513.259 v², ≈ 263 ha), entre Pedro del Sar y Jerónimo Torny, con O'Brien al fondo. Su cadena de títulos es la más antigua de la serie: mercedes de Torres de Vera y Aragón a Antón Higueras de Santa Ana, «descubridor del camino de Córdoba», revalidadas por Zabala en 1732 a su bisnieta Gregoria de Arroyo; luego Pabón, Díaz de Vivar, Corro, Cañas y Lagos. Pico explica una diferencia con Aizpurúa y el Departamento la resuelve a su favor (20/3/1860).",
+ "caratula": {
+  "img": "img/f/026/01.jpg",
+  "fuente": "IMG_6936.JPG",
+  "campos": [
+   [
+    "N.º",
+    "26"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Justina Martines"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Pico"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1860"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Cadena de títulos: de Higueras de Santa Ana (s. XVI) a Gregoria de Arroyo",
+   "img": "img/f/026/04.jpg",
+   "fuente": "IMG_6938.JPG",
+   "nota": "Sello con foliatura «1». Al margen izquierdo, «Greg.a» completa el nombre omitido en el renglón. La fecha de la mensura de Pabón («mil setecientos y cinco») parece errata del copista.",
+   "lineas": [
+    "Duplicado de la mensura del terreno de los here-",
+    "deros de D^{a} Justina Martines",
+    "Los herederos de D^{a} Justina Martinez deriban su pro-",
+    "piedad á los terrenos que deben medirse segun consta",
+    "en los documentos que posee D^{n} Geronimo Torny compra-",
+    "dor á la familia Martinez, y lindero del Nordeste",
+    "del modo siguiente: — Anton Higueras de Santa Ana",
+    "descubridor del camino de Cordova fué agraciado por",
+    "el Gobernador Juan Torre[s] de Vera y Aragon con",
+    "varias mercedes de tierras en los Rios de las",
+    "Conchas, \"Rio de la Cruz\", Areco, y Arrecifes.",
+    "Habiendose perdido los titulos de estas mercedes, Doña",
+    "[al margen: Greg.^{a}] de Arroyo visnieta de Santa Ana pide revalidacion",
+    "de ellos; y con informaciones producidas y copias de",
+    "los Archivos en que constaban las donaciones hechas",
+    "á Santa Ana su visabuelo, el Gobernador Bruno Mauricio",
+    "de Zabala en mil setecientos treinta y dos revalida",
+    "las mercedes á favor de D^{a} Gregoria de Arroyo entre",
+    "las que se encuentra la de dos suertes de estancia so-",
+    "bre la Cañada de la Cruz una de un lado y la otra",
+    "del otro con legua y media de fondo y tres mil varas",
+    "de frente cada una sobre la Cañada, del paso ó Camino",
+    "de Cordova hacia la tierra adentro. Doña Gregoria de",
+    "Arroyo vendió estas suertes de estancia que se mi-",
+    "dieron en mil setecientos y cinco [?] por el Agrimensor D^{n}",
+    "Pedro Pablo Pabon existiendo aun al presente los",
+    "mojones que se pusieron y el desde donde arrancó la Mensura.",
+    "En esta mensura la suerte al lado Norte de la",
+    "Cañada de la Cruz, se dividió en dos partes iguales"
+   ],
+   "interpretacion": "Los herederos de Justina Martínez derivan su propiedad de los documentos que conserva Jerónimo Torny, comprador a la familia Martínez y lindero NE. La cadena empieza en el siglo XVI: Antón Higueras de Santa Ana, «descubridor del camino de Córdoba», recibió del gobernador Juan Torres de Vera y Aragón varias mercedes en los ríos de las Conchas, «de la Cruz», Areco y Arrecifes. Perdidos los títulos, su bisnieta Gregoria de Arroyo pidió revalidarlos y el gobernador Bruno Mauricio de Zabala lo hizo en 1732, incluyendo dos suertes de estancia sobre la Cañada de la Cruz, una a cada lado, de 3000 v de frente y legua y media de fondo, «del paso o camino de Córdoba hacia la tierra adentro».\nGregoria de Arroyo las vendió; las midió el agrimensor Pedro Pablo Pabón (la fecha «1705» no puede ser: Pabón actuó a fines del siglo XVIII) y «aún al presente» existen sus mojones. La suerte al N de la Cañada se dividió en dos partes iguales…"
+  },
+  {
+   "titulo": "Folio 1 v. · Sosa, Lagos, Díaz de Vivar, Corro y Cañas; comienzo de la mensura",
+   "img": "img/f/026/05.jpg",
+   "fuente": "IMG_6939.JPG",
+   "nota": "",
+   "lineas": [
+    "la de abajo para D^{a} Margarita Sosa y la de arriba",
+    "para D^{a} Juana Rosa Lagos.",
+    "En mil ocho cientos tres D^{n} Pedro Dias de Vi-",
+    "var vendio al capitan D^{n} Juan Antonio Corro dos",
+    "mil trescientas setenta y seis varas de tierra fren-",
+    "te á la Cañada de la Cruz con legua y media",
+    "de fondo las cuales midió el Agrimensor Osores, y",
+    "las cuales tambien compró á Corro D^{n} Francisco",
+    "Julian Cañas.",
+    "La familia Martines deriva su origen de",
+    "los Cañas y los Lagos.",
+    "La mensura de Osores arrancó del mojon Sur",
+    "de la suerte que fué de D^{na} Gregoria de Arroyo; y",
+    "á las dos mil tres cientas setenta y seis varas, Ca-",
+    "ñada arriba puso un mojon divisorio con los",
+    "terrenos de D^{n} Pedro Diaz de Vivar.",
+    "El terreno que hoy se mide es la ultima frac-",
+    "cion en que la propiedad Martines ha sido subdi-",
+    "vidida por succesion, y sigue immediatamente",
+    "al terreno medido por Aizpurua para el lindero",
+    "D^{n} Geronimo Torny.",
+    "Mensura. En el Partido de San Andres de",
+    "Giles á los veinte y ocho dias del mes de Enero",
+    "de mil ocho cientos sesenta, yo el Agrimensor",
+    "que suscribo, á fin de dar cumplimiento á la",
+    "mensura del terreno de los herederos de D^{a} Justina",
+    "Martines previa la citacion de linderos que consta",
+    "de la circular que se acompaña, tomé por punto de",
+    "arranque el mojon esquinero Sur de D^{n} Geronimo",
+    "Torny, puesto sobre la barranca de la Cañada",
+    "de la Cruz; y estableciendo desde este mojon punto"
+   ],
+   "interpretacion": "…la de abajo para Margarita Sosa y la de arriba para Juana Rosa Lagos. En 1803 Pedro Díaz de Vivar vendió al capitán Juan Antonio Corro 2376 v de frente a la Cañada de la Cruz con legua y media de fondo, medidas por el agrimensor Osores; Francisco Julián Cañas las compró a Corro. «La familia Martínez deriva su origen de los Cañas y los Lagos.» Osores arrancó del mojón S de la suerte de Gregoria de Arroyo y, a 2376 v cañada arriba, puso el mojón divisorio con Díaz de Vivar.\nLo que hoy se mide es la última fracción en que se subdividió por sucesión la propiedad Martínez, contigua a la que Zacarías Aizpurúa midió para Jerónimo Torny. Mensura: San Andrés de Giles, 28/1/1860; previa citación de linderos (circular adjunta), arranca del mojón esquinero S de Torny, sobre la barranca de la Cañada de la Cruz."
+  },
+  {
+   "titulo": "Folio 2 · La faja: 383 × 9248 v; área y declinación",
+   "img": "img/f/026/06.jpg",
+   "fuente": "IMG_6940.JPG",
+   "nota": "Sello con foliatura «2». Firma «Pedro Pico» con rúbrica.",
+   "lineas": [
+    "A el rumbo hacia el mojon B Norte cuarenta y",
+    "siete grados veinte y dos minutos Oeste medí por sobre",
+    "este mojon hasta el mojon C nueve mil dos cientas",
+    "cuarenta y ocho varas. A las ciento y cincuenta varas",
+    "del mojon A cuadré sobre la izquierda y medí",
+    "tres cientas ochenta y tres varas que es el frente del",
+    "terreno, y puse el mojon F dos varas distante de la",
+    "Cañada de la Cruz divisor con terreno de D^{on} Pedro",
+    "del Sar. Sobre el mojon B hice la misma operacion y",
+    "puse el mojon E, é igual medicion en el mojon C",
+    "poniendo el mojon D linderos estos mojones con O'Brien.",
+    "En seguida poniendo banderas en los puntos D, E, F, y",
+    "otras intermedias medí por ellos nueve mil noventa",
+    "y ocho varas desde el punto D hasta el punto F",
+    "donde cerré la mensura, sin haber tenido oposi-",
+    "cion alguna por parte de los linderos.",
+    "La Superficie medida es igual á tres millones qui-",
+    "nientas trece mil dos cientas cincuenta y nueve",
+    "varas cuadradas. Los rumbos son corregidos; y",
+    "la variacion once grados veinte minutos Este.",
+    "Pedro Pico",
+    "Nota. Creo de mi deber hacer una esplicacion al",
+    "Departamento Topografico sobre diferencias que resul-",
+    "tan por esta mensura, en cuanto á las distancias li-",
+    "neales, con la practicada por el Agrimensor Don",
+    "Zacarias Aizpurua del terreno contiguo de Don",
+    "Geronimo Torny.",
+    "El Agrimensor Aizpurua da nueve mil varas por"
+   ],
+   "interpretacion": "Desde el mojón A, rumbo N 47° 22' O hacia B, mide 9248 v hasta C. A 150 v de A escuadra a la izquierda y mide 383 v (el frente), poniendo el mojón F a 2 v de la Cañada de la Cruz, lindero con Pedro del Sar; lo mismo en B (mojón E) y en C (mojón D), lindando con O'Brien al fondo. Con banderas en D, E, F y otras intermedias mide 9098 v de D a F y cierra «sin oposición alguna».\nSuperficie: 3.513.259 v² (≈ 263 ha, ≈ 0,098 legua²): una faja de 383 v de frente por más de legua y media de fondo, típica de la partición hereditaria. Rumbos corregidos, variación 11° 20' E. Nota de Pico: explica al Departamento la diferencia con la mensura de Aizpurúa del terreno contiguo de Torny."
+  },
+  {
+   "titulo": "Folio 2 v. · La diferencia con Aizpurúa; informe del Departamento",
+   "img": "img/f/026/07.jpg",
+   "fuente": "IMG_6941.JPG",
+   "nota": "El Departamento escribe «Justa Martínez» y «Arrispurrua».",
+   "lineas": [
+    "termino medio del terreno de Torny, mientras",
+    "que yo encuentro, bien seguro del contraste de",
+    "mi Cadena, nueve mil dos cientas y una varas.",
+    "Mas como el terreno medido, con el del S^{or} Torny",
+    "medido por Aizpurua, y otra fraccion mas medi-",
+    "da por mi para Torny, segun se demuestra en el",
+    "plano adjunto, formaban la propiedad de Mar-",
+    "tines; establecida esta en su limite del fondo con una",
+    "sola linea como queda ahora; solo resulta para",
+    "ese limite una diferencia de cincuenta y una varas;",
+    "diferencia que queda dentro de los limites de la",
+    "tolerancia establecida en las disposiciones que",
+    "rigen la materia.",
+    "Pico",
+    "Señor Juez de 1^{a} Instancia.",
+    "Vista y examinada la anterior diligen-",
+    "cia de mensura, praticada por el Agrimen-",
+    "sor D^{n} Pedro Pico en el terreno de los herede-",
+    "ros de D^{a} Justa Martinez sito en el Partido",
+    "de San Andrés de Giles, el Departamento",
+    "Topográfico hallandola conforme á las",
+    "disposiciones generales sobre la materia, la",
+    "considera en estado de ser aprobada ju-",
+    "dicialmente.",
+    "En cuanto á la diferencia de",
+    "fondo, que encuentra el Agrimensor",
+    "con la distancia asignada por el",
+    "Agrimensor Arrispurrua, el De-",
+    "partamento la atribuye á la ma-",
+    "// // //"
+   ],
+   "interpretacion": "Aizpurúa daba 9000 v de fondo medio al terreno de Torny; Pico, «bien seguro del contraste de mi cadena», encuentra 9201. Como las tres fracciones (la de Martínez, la de Torny medida por Aizpurúa y otra medida por Pico para Torny) formaban la antigua propiedad Martínez, con el fondo en una sola línea, la diferencia real es de 51 v, dentro de la tolerancia reglamentaria. Firma Pico.\nEl Departamento Topográfico halla la mensura conforme a las disposiciones generales y la considera en estado de aprobación judicial; la diferencia de fondo con Aizpurúa la atribuye «a la mayor prolijidad»…"
+  },
+  {
+   "titulo": "Folio 4 · Cierre del informe y firmas (20/3/1860)",
+   "img": "img/f/026/08.jpg",
+   "fuente": "IMG_6944.JPG",
+   "nota": "Sello con foliatura «4».",
+   "lineas": [
+    "// yor proligidad con que ha operado en esta",
+    "ultima mensura.",
+    "Buenos Ayres, Marzo 20 de 1860.",
+    "Salas    Moreno",
+    "Fernandez    A. Fernandez",
+    "Malaver"
+   ],
+   "interpretacion": "…con que Pico operó en esta última mensura. Buenos Aires, 20/3/1860. Firman Salas, Moreno, Fernández, A. Fernández y Malaver (el mismo quinteto de 1859, Ficha 024). El Departamento da la razón al agrimensor más reciente, como en 1859 con Schuster frente a Eguía: la «prolijidad» se vuelve el criterio para resolver diferencias entre mensuras."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la fracción de los herederos de Martínez y de los terrenos de Torny",
+   "img": "img/f/026/03.jpg",
+   "fuente": "IMG_6943.JPG (otra toma en IMG_6942)",
+   "orientacion": "Pliego a tinta con aguada celeste en la fracción medida; escala gráfica de 6000 v con transversales; firmado «Feb.º 20 de 1860 – Pedro Pico».",
+   "interpretacion": "Tres fajas paralelas, perpendiculares a la «Cañada de la Cruz» (dibujada a la izquierda, con su barranca y un afluente). Arriba, en celeste, «Herederos de Martines» (A-B-C / F-E-D; N 47° 22' O; frente 383 v; fondos 9248 y 9098 v), lindando con «Pedro del Sar». En el medio, el gran terreno de «Gerónimo Tormy» medido por Aizpurúa (frente 3191 v, costado N 42° 38' E al fondo, lindero «O'Brien»). Abajo, otra faja de «Gerónimo Tormy» de 302 v (4186, 9154 y 9004 v) medida por Pico, lindando con «Los Sosa». Una línea diagonal a la izquierda cruza la cañada: probablemente el camino de Córdoba (el «paso» de los títulos).",
+   "referencias": [
+    [
+     "A-B-C / F-E-D",
+     "Faja de los herederos de Martínez: 150 v del arranque, frente 383 v; 9248 v (A-C) y 9098 v (D-F)"
+    ],
+    [
+     "Linderos",
+     "Pedro del Sar (NO) · Gerónimo Tormy (SE) · O'Brien (fondo NE) · Los Sosa (más al SE)"
+    ],
+    [
+     "Terreno de Tormy (Aizpurúa)",
+     "Frente 3191 v; costado N 42° 38' E"
+    ],
+    [
+     "Faja de Tormy (Pico)",
+     "302 v de frente; 4186 / 9154 / 9004 v"
+    ],
+    [
+     "Aguas",
+     "Cañada de la Cruz con barranca y un brazo o zanjón"
+    ],
+    [
+     "Escala / firma",
+     "6000 v · «Feb.º 20 de 1860, Pedro Pico»"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "El título más antiguo de la serie: la fundación de buenos aires",
+   "texto": "La cadena llega a Antón Higueras de Santa Ana (1557-1619), vecino fundador con Garay en 1580, «descubridor del camino de Córdoba», con mercedes de Juan Torres de Vera y Aragón en los ríos de las Conchas, de la Cruz, Areco y Arrecifes (década de 1580). Su bisnieta Gregoria de Arroyo obtuvo de Bruno Mauricio de Zabala (1732) la revalidación de dos suertes de estancia sobre la Cañada de la Cruz, «del paso o camino de Córdoba hacia la tierra adentro». Es anterior a las mercedes de Vergara (1635), Lara (1636) y Arellano (1740) de las fichas anteriores."
+  },
+  {
+   "titulo": "Del camino real a las fajas hereditarias",
+   "texto": "Las suertes de 3000 v de frente se parten: la del N de la cañada en dos (Margarita Sosa y Juana Rosa Lagos); Díaz de Vivar vende 2376 v a Corro (1803), que pasan a Cañas; los Martínez heredan de Cañas y Lagos; los herederos venden a Torny y la última fracción, de sólo 383 v de frente por más de 9000 de fondo, es la de esta mensura. El plano lo muestra: fajas angostísimas, todas apoyadas en la cañada (agua) y estiradas hacia la tierra adentro."
+  },
+  {
+   "titulo": "Mojones de dos siglos y la prolijidad",
+   "texto": "Los mojones de Pabón (siglo XVIII) existen «aún al presente». Pico mide con banderas intermedias, escuadra en tres puntos para trazar la paralela y declara la variación (11° 20' E, en la serie de Differt y Eguía, 11° 28'-11° 30'). Frente a Aizpurúa afirma estar «bien seguro del contraste de mi cadena» y reduce la diferencia a 51 v dentro de la tolerancia; el Departamento se la atribuye a su «mayor prolijidad»."
+  },
+  {
+   "titulo": "Ubicación y cruces para el gis",
+   "texto": "La Cañada de la Cruz y el paso del camino de Córdoba (Camino Real) dan un ancla fuerte. Linderos: Pedro del Sar (el vendedor de Mooney, Ficha 025), O'Brien al fondo (otro irlandés), Los Sosa. El mojón divisorio de Osores con Díaz de Vivar enlaza con la merced de Vivar (Fichas 007, 017, 023). Cotejar con el plano de 1890 del partido para situar la faja entre Del Sar y Torny."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿En qué año midió Pabón («mil setecientos y cinco» es imposible: ¿1785 o 1795?)? ¿Quién fue Jerónimo Torny/Tormy, comprador de los Martínez? ¿Es Justina o «Justa» Martínez (el Departamento escribe Justa)? ¿Dónde está la mensura de Aizpurúa del terreno de Torny? Faltan entre las tomas la circular, la orden judicial y la aprobación del juez."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Justina Martínez y sus herederos",
+   "rol": "Propietarios",
+   "texto": "Descendiente de las familias Cañas y Lagos, antiguas dueñas sobre la Cañada de la Cruz. Sus herederos vendieron la mayor parte a Jerónimo Torny y en 1860 hicieron medir la última fracción. No se hallaron datos biográficos.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Pedro Pico",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor e integrante del Departamento Topográfico restablecido en 1852 (firma informes de 1854-1858, Fichas 017, 020-022); aquí actúa como perito particular. Autor de la primera mensura métrica de la serie (Ficha 007, 1863).",
+   "fuentes": "Fichas 007, 017, 020-022."
+  },
+  {
+   "nombre": "Antón Higueras de Santa Ana (Santana)",
+   "rol": "Beneficiario de la merced original",
+   "texto": "Nacido en Salteras (Sevilla) en 1557, muerto en Buenos Aires en 1619. Vino con Juan de Garay desde Santa Fe a la segunda fundación de Buenos Aires (1580); regidor (1589), alcalde de primer voto (1592 y 1618) y teniente de gobernador (1595); tuvo estancia en Las Conchas. El expediente lo llama «descubridor del camino de Córdoba».",
+   "fuentes": "Wikipedia («Antón Higueras de Santana»); esta mensura."
+  },
+  {
+   "nombre": "Juan Torres de Vera y Aragón · Bruno Mauricio de Zabala",
+   "rol": "Gobernadores",
+   "texto": "Torres de Vera y Aragón, adelantado del Río de la Plata (década de 1580), otorgó las mercedes. Zabala, gobernador de Buenos Aires (1717-1734), las revalidó en 1732 a favor de Gregoria de Arroyo.",
+   "fuentes": "Esta mensura; conocimiento general."
+  },
+  {
+   "nombre": "Pedro Pablo Pabón · Osores · Zacarías Aizpurúa",
+   "rol": "Agrimensores anteriores",
+   "texto": "Pabón midió las suertes de Gregoria de Arroyo (siglo XVIII) y sus mojones subsisten en 1860. Osores midió en 1803 la venta de Díaz de Vivar a Corro. Aizpurúa midió el terreno de Torny poco antes de 1860.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Otros nombrados",
+   "rol": "Antecesores y linderos",
+   "texto": "Gregoria de Arroyo (bisnieta de Santa Ana), Margarita Sosa, Juana Rosa Lagos, Pedro Díaz de Vivar, capitán Juan Antonio Corro, Francisco Julián Cañas, Jerónimo Torny/Tormy, Pedro del Sar (Ficha 025), O'Brien, «Los Sosa»; D. T.: Salas, Moreno, Fernández, A. Fernández, Malaver. Sin más datos localizados.",
+   "fuentes": "Esta mensura y su plano."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/026/02.jpg",
+  "fuente": "IMG_6937.JPG",
+  "lineas": [
+   "Seccion \"Areco\"    Giles",
+   "N 108.    26",
+   "Duplicado de la mensura del",
+   "Terreno de los Herederos de D^{a}",
+   "Justina Martines",
+   "por el agrimensor Pico 1860"
+  ]
+ },
+ "titulo": "Herederos de D.ª Justina Martínez",
+ "estado": "Transcripta (5 hojas, 124 renglones), 1 lámina"
+}

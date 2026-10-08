@@ -1,0 +1,846 @@
+{
+ "carpeta": "9",
+ "carpeta_nombre": "Carpeta 9",
+ "archivo": "Ficha 009 - Francisco Maldonado (1856).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Sección Areco)",
+  "N.º de duplicado": "9",
+  "Propietario / solicitante": "D. Francisco Maldonado",
+  "Agrimensor": "G. Teodoro Schuster (con Carlos Schuster)",
+  "Año": "1856",
+  "Fecha de la diligencia": "5/10/1856 (cierre Mercedes 15/10; D. T. 12/11/1856)",
+  "Ubicación": "Paraje del arroyo del Sauce, Giles",
+  "Orden judicial": "Nombramiento 21/7/1856, Juez de 1.ª Inst. en lo Civil Dr. Manuel R. García",
+  "Vendedor / antecesor": "Suero → P. M. Figueroa → M.ª del Carmen Sosa → L. J. Sosa (1843) → Lorenzo y Pedro Sosa → Maldonado (1851)",
+  "Linderos citados": "N-NE: Agustina Monsalvo (protesta) · SE: hered. Juan Castro y Pablo Offre · SO: Álvaro de la Riestra · NO: hered. Figueroa (Álvarez, Piseira, Cufré)",
+  "Medidas": "Frente SE 1825 v; costado SO 5765 v; frente del fondo 2000 (+55) v; costado NE 6243 v",
+  "Rumbos": "Verdaderos; variación de la aguja 12° E; cadena de 25 varas contrastada con la vara matriz",
+  "Referencia de archivo": "Portadilla «53 – Giles 9 – Secc. Areco»; D. T. 12/11/1856 (Salas, Pico)"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 900 (12.000.000 v²; 0,33 leguas²)",
+  "hitos": "mojones de piedra (Ysach 1838), mojones de Eguía, cardal de Castilla, azoteas y montes; dos caminos",
+  "aguas": "Arroyo del Sauce (cruzado 2 veces); arroyo de Giles; bañado anegadizo; «Guaicó»"
+ },
+ "sintesis": "Mensura judicial de la estancia de Francisco Maldonado, vecino de Lobos, en el paraje del arroyo del Sauce, hecha por G. Teodoro Schuster en octubre de 1856. Los títulos remontan a los Suero (ventas de 1771 y 1793 a Transmontano y Monsalvo, y a Figueroa) y a las mensuras de Mesura de 1823; Schuster denuncia cifras reescritas en uno de ellos. Ata la operación a los mojones de Eguía, a piedras de 1838 y a la memoria de un «vecino antiguo». Cruzan el campo dos caminos y el arroyo del Sauce; un bañado obliga a medir «con cuerda y a caballo» y un mojón aparece dentro de un «cardal de castilla». Resultado: 12.000.000 v² (≈ 900 ha), rumbos verdaderos, variación de 12° E y cadena de 25 varas. Agustina Monsalvo protestó; el Departamento aprueba y le indica medir su propio campo.",
+ "caratula": {
+  "img": "img/f/009/01.jpg",
+  "fuente": "IMG_6649.JPG",
+  "campos": [
+   [
+    "N.º",
+    "9"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Don Francisco Maldonado"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1856"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO — Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 (recto)",
+   "img": "img/f/009/07.jpg",
+   "fuente": "IMG_6651.JPG",
+   "nota": "Título caligráfico; sello seco del Departamento Topográfico en el margen izquierdo; foliatura «1». Letra inglesa regular de copista, papel con marca de agua en rombos.",
+   "lineas": [
+    "Mensura del terreno de D. Francisco Maldonado,",
+    "situado en el Partido de San Andres de Gi-",
+    "les y parage llamado el arroyo del Sauce —",
+    "Nombrado el Agrimensor publico que suscribe por",
+    "el S^{or} Juez de primera Instancia en lo civil",
+    "D^{r} D. Manuel R. Garcia, con fecha veintiuno",
+    "de Julio del corriente año, para medir el terreno",
+    "de la propiedad de D. Francisco Maldonado,",
+    "situado en el Partido de S^{n} Andres de Giles y pa-",
+    "rage llamado arroyo del Sauce, hize la citacion",
+    "de los linderos para el dia veintiseis del mes de Se-",
+    "tiembre, como consta por la adjunta circular de",
+    "citacion, pero como el mal tiempo y los vientos fuer-",
+    "tes impidieron á dar principio antes del dia cinco",
+    "de Octubre, se dió aviso á los linderos, que todos ellos",
+    "asistieron por sí ó por sus representantes —",
+    "D. Francisco Maldonado asegura la propiedad de su",
+    "terreno en los siguientes titulos. D. Lorenzo Sosa, vecino",
+    "de S^{n} Andres de Giles, por sí y en representacion de",
+    "su hermano D. Pedro Sosa, venden en veinte de",
+    "Mayo de mil ochocientos cincuenta y uno á D.",
+    "Francisco Maldonado, vecino de la Guardia de Lo-",
+    "bos, un terreno de Estancia situado en el Partido de",
+    "S^{n} Andres de Giles, cuya estencion se compone",
+    "de dos mil varas de frente al SurEste, con una",
+    "legua de fondo, linda por el primero con D^{n} Juan",
+    "Castro, por el NorOeste con D^{a} Francisca Mon-",
+    "salvo, por el NorEste con D^{a} Agustina Monsal-",
+    "vo y por el SurOeste con D. Alvaro de la Ries-",
+    "tra, que les corresponde por herencia de su fina-",
+    "do padre D. Leandro José Sosa, quien la tuvo por",
+    "compra que de él hizo á D^{a} Maria del Car-",
+    "men Sosa, en veinte de Marzo de mil ocho-"
+   ],
+   "interpretacion": "Se abre con el título: mensura del terreno de Francisco Maldonado en San Andrés de Giles, «paraje llamado el arroyo del Sauce». El agrimensor fue nombrado el 21 de julio de 1856 por el juez de primera instancia en lo civil Dr. Manuel R. García. Citó a los linderos para el 26 de septiembre, pero «el mal tiempo y los vientos fuertes» impidieron empezar antes del 5 de octubre. El clima entra en el expediente como causa de demora.\nSigue el extracto de títulos: el 20 de mayo de 1851 Lorenzo Sosa, vecino de Giles, por sí y por su hermano Pedro, vende a Francisco Maldonado, vecino de la Guardia de Lobos, una estancia de 2000 varas de frente al SE y una legua de fondo. Linda al SE con Juan Castro, al NO con Francisca Monsalvo, al NE con Agustina Monsalvo y al SO con Álvaro de la Riestra (el mismo de la Ficha 006). Los Sosa la heredaron de su padre Leandro José Sosa, que la había comprado a María del Carmen Sosa. El comprador viene de Lobos: la tierra de Giles atrae capital de otras zonas de la campaña."
+  },
+  {
+   "titulo": "Folio 1 (vuelto)",
+   "img": "img/f/009/08.jpg",
+   "fuente": "IMG_6652.JPG",
+   "nota": "Las comillas al comienzo de cada renglón («\"») marcan cita textual de escrituras y mensuras anteriores.",
+   "lineas": [
+    "cientos cuarenta y tres ante el Escribano D. Adol-",
+    "fo Conde, que ha tenido á la vista el Escri-",
+    "bano actuario D. Julian Aranda —",
+    "El terreno de la presente mensura es una frac-",
+    "cion de los terrenos de la familia de Suero,",
+    "y cuyos apoderados vendieron á D. Pedro Mi-",
+    "guel Figueroa (la fecha de esta venta no he",
+    "podido sacar en limpio), un terreno cuyo",
+    "estracto es el siguiente: \"D. Antonio Varas",
+    "\" y D. Juan Dionicio Hidalgo (apoderados de",
+    "\" los Sueros) venden á D. Pedro Miguel Fi-",
+    "\" gueroa una suerte de Estancia que se",
+    "\" compone de dos mil varas de frente, des-",
+    "\" de la cañada ó arroyo de Giles, su fondo de",
+    "\" mas de dos leguas, hasta lindar con el cos-",
+    "\" tado de tierras de D. Pedro Diaz de Vivar,",
+    "\" lindando por sus costados á saber: por el",
+    "\" NorOeste con las de los Monsalvos y por el",
+    "\" SurOeste con las mas que quedan á los ven-",
+    "\" dedores\" — El Agrimensor D. Francisco Me-",
+    "sura hizo en Marzo de mil ochocientos",
+    "veintitres la mensura de este terreno y di-",
+    "ce: \"que arrancó en el mojon del remate",
+    "\" del frente principal de los terrenos de D^{a}",
+    "\" Cayetana de Castro, viuda del finado D. Ma-",
+    "\" riano Figueroa, el cual se halla sobre la",
+    "\" barranca del arroyo de Giles, desde el cual",
+    "\" tiró el rumbo al NorEste corregido de quin-",
+    "\" ce grados de variacion y midió dos mil",
+    "\" varas, que es el frente principal y donde",
+    "\" remataron se puso un mojon inmediato",
+    "\" al arroyo de Giles y de allí al rumbo Sur",
+    "\" Este corregido se midió la distancia del",
+    "\" fondo hasta dar con los terrenos de Vivar,",
+    "\" se encontraron quince mil mas trescien-",
+    "\" tas varas; de aqui el frente del fondo al"
+   ],
+   "interpretacion": "La compra de 1843 a María del Carmen Sosa fue ante el escribano Adolfo Conde; el título lo vio el escribano actuario Julián Aranda. Luego el agrimensor sube a la raíz: el terreno es una fracción de las tierras «de la familia de Suero», cuyos apoderados, Antonio Varas y Juan Dionisio Hidalgo, vendieron a Pedro Miguel Figueroa (Schuster no pudo leer la fecha) una suerte de 2000 varas de frente desde la cañada o arroyo de Giles y más de dos leguas de fondo, hasta las tierras de Pedro Díaz de Vivar. Al NO lindaban los Monsalvo.\nCita además la mensura del agrimensor Francisco Mesura (marzo de 1823): arrancó en el mojón del frente de Cayetana de Castro, viuda de Mariano Figueroa, «sobre la barranca del arroyo de Giles», con 15° de variación. Midió 2000 varas de frente y en el fondo encontró 15.300 varas hasta Vivar. Es la misma cadena Suero-Hidalgo → Vivar que aparece en las Fichas 004 a 008."
+  },
+  {
+   "titulo": "Folio 2 (recto)",
+   "img": "img/f/009/09.jpg",
+   "fuente": "IMG_6653.JPG",
+   "nota": "Foliatura «2» en sello. Una palabra testada («del fondo»).",
+   "lineas": [
+    "\" SurOeste de la aguja, rumbo que siguen los ter-",
+    "\" renos de Vivar y se midieron dos mil varas",
+    "\" de este frente, el cual es divisorio con estos terre-",
+    "\" nos, los de D^{a} Cayetana de Castro y los vendidos",
+    "\" por Vivar, en este mojon para cerrar la fi-",
+    "\" gura del sobre dicho terreno, se verificó al rum-",
+    "\" bo del NorOeste corregido, linda p^{r} el frente prin-",
+    "\" cipal con el cauce del mencionado arroyo de",
+    "\" Giles, por el frente del fondo con terrenos que fue-",
+    "\" ron de Vivar, por el costado del NorEste con los",
+    "\" herederos del finado Monsalvo y por el SurOeste",
+    "\" con D^{a} Cayetana Castro, viuda de D. Mariano",
+    "\" Figueroa\" — En el documento estan borradas,",
+    "asi que es imposible el leerlo, el largo de los",
+    "costados ~~del fondo~~ y puestas con tinta mas",
+    "fresca y otra letra, las distancias de quince mil",
+    "y tantas varas, pero esto no influye en la presen-",
+    "te mensura — D^{a} Agustina Monsalvo lindera",
+    "al NorEste me presentó tambien el titulo de su",
+    "terreno, que casi no es inteligible, por haber sido",
+    "mal conservado; de él puede estractar lo siguiente",
+    "\"D. Juan Fran^{co} de Suero vende al Alferez D. An-",
+    "\" tonio Monsalvo dos mil quinientas varas de",
+    "\" tierras de cabezadas de esta banda del Rio de",
+    "\" Areco con una y media leguas de fondo, con",
+    "\" lo demas que hubiese, hasta tocar con las suer-",
+    "\" tes de la Cañada de la Cruz, linda por",
+    "\" la parte de arriba con tierras del Alferez",
+    "\" Tomas Transmontano que me quedan á mi",
+    "\" el vendedor y por el frente con el comprador.",
+    "\" Escritura de doce de Noviembre de mil sete-",
+    "\" cientos noventa y tres\" y otra del tenor siguien-",
+    "te: \"D. Juan Fran^{co} Suero vende á D. Tomas",
+    "\" Transmontano quinientas varas de tierras de",
+    "\" cabezadas parte de otras que le quedan"
+   ],
+   "interpretacion": "Termina la cita de Mesura: el frente del fondo sigue el rumbo SO «de la aguja» (magnético, sin corregir), «rumbo que siguen los terrenos de Vivar». Esta es la clave de todo el conflicto posterior: los fondos de Vivar fueron trazados con la aguja sin corregir y no son paralelos al frente.\nSchuster hace una crítica documental: en el título de Figueroa los largos de los costados «están borrados» y reescritos «con tinta más fresca y otra letra» con cifras de 15.000 y tantas varas. Es una sospecha de adulteración, aunque aclara que no afecta a esta mensura.\nDespués transcribe el título de Agustina Monsalvo, «casi no inteligible por haber sido mal conservado». El 12 de noviembre de 1793 Juan Francisco de Suero vende al alférez Antonio Monsalvo 2500 varas «de cabezadas de esta banda del Río de Areco» con legua y media de fondo, hasta tocar las suertes de la Cañada de la Cruz, lindando arriba con el alférez Tomás Transmontano. 1793 es el mismo año de la donación fundacional de Suero."
+  },
+  {
+   "titulo": "Folio 2 (vuelto)",
+   "img": "img/f/009/10.jpg",
+   "fuente": "IMG_6654.JPG",
+   "nota": "Continúan las citas entrecomilladas. «Lares [?]»: lectura dudosa del lindero NE en 1823.",
+   "lineas": [
+    "\" lindan por el frente con D. Tiburcio Casco,",
+    "\" por el poniente con mas tierras que quedan",
+    "\" al vendedor, por la parte de abajo con D. An-",
+    "\" tonio Monsalvo y su fondo al SurEste, como",
+    "\" una legua ó lo mas que hubiese, hasta des-",
+    "\" lindar con D. Antonio Monsalvo. Escritura",
+    "\" de once de Abril de mil setecientos seten-",
+    "\" ta y uno\" Una mensura de los terrenos de",
+    "D. Antonio Monsalvo, hecha por el Agrimen-",
+    "sor Mesura en Marzo de mil ochocientos",
+    "veintitres dice: \"desde el mojon sobre el",
+    "\" costado de los terrenos medido para los he-",
+    "\" rederos de la finada D^{a} Rosa Moyano,",
+    "\" costado del NorEste de esta, tiró el rumbo",
+    "\" del NorEste corregido y midió tres mil varas",
+    "\" que es el frente de estos terrenos; en su termi-",
+    "\" no puso el rumbo al SurEste corregido",
+    "\" hasta dar con terreno que fueron de Vivar,",
+    "\" ó suertes de la cañada de la Cruz y se encon-",
+    "\" traron dos leguas mil trescientas veinte varas,",
+    "\" á cuyo final se puso un mojon y desde él",
+    "\" por el rumbo SurOeste midió tres mil varas",
+    "\" y luego al NorOeste corregido hasta dar con",
+    "\" el mojon de arranque, pero el costado del",
+    "\" SurOeste solo tiene dos leguas mas cincuen-",
+    "\" ta varas, á causa de los terrenos de Vivar, q^{e}",
+    "\" siguen el rumbo al SurOeste de la Aguja;",
+    "\" linda por el frente principal con los fondos",
+    "\" de los terrenos de suertes principales del Rio",
+    "\" de Areco, por el fondo con los vendidos por",
+    "\" Vivar, por el costado del SurOeste con los",
+    "\" herederos de Moyano y por el NorEste con los",
+    "\" Sueros y Lares [?]\" Está aprobada la mensu-",
+    "ra por el Juez de primera Instancia D^{r}",
+    "D. Juan José Cernadas en tres de Setiembre",
+    "de mil ochocientos veintitres"
+   ],
+   "interpretacion": "Segundo título de los Monsalvo: el 11 de abril de 1771 Juan Francisco Suero vende a Tomás Transmontano 500 varas de cabezadas, lindando por el frente con Tiburcio Casco y abajo con Antonio Monsalvo. La tenencia se remonta así al último tercio del siglo XVIII. Es el título más antiguo de la serie después del de Vergara de 1635 (Ficha 007).\nMesura midió también a los Monsalvo en marzo de 1823: partió del costado NE de los herederos de Rosa Moyano, midió 3000 varas de frente y 2 leguas 1320 varas de fondo hasta las tierras de Vivar o «suertes de la Cañada de la Cruz». El costado SO resultó más corto (2 leguas 50 varas) porque los terrenos de Vivar siguen el rumbo SO de la aguja. El frente principal de los Monsalvo mira a los fondos de las suertes del Río de Areco. El juez Dr. Juan José Cernadas aprobó la mensura el 3 de septiembre de 1823."
+  },
+  {
+   "titulo": "Folio 3 (recto)",
+   "img": "img/f/009/11.jpg",
+   "fuente": "IMG_6655.JPG",
+   "nota": "Foliatura «3». Comienza la operación de campo.",
+   "lineas": [
+    "En los documentos de los herederos de Figueroa ha-",
+    "llé tambien al Agrimensor D. Francisco Ysach, en",
+    "el año de mil ochocientos treinta y ocho, nom-",
+    "brado para la mensura de su terreno, pero fal-",
+    "tan las diligencias y plano; en el costado del",
+    "SurOeste hallé dos mojones de piedra, que di-",
+    "cen algunas personas que se hallaban presen-",
+    "tes, haber sido puestos por él —",
+    "En el dia arriba dicho, estando presentes el interesado",
+    "y todos los linderos por sí ó en su representacion, re-",
+    "conocí primero la direccion á que corria el terreno",
+    "lindero al SurOeste de la propiedad de D. Alvaro de la",
+    "Riestra y hallé los mojones de su costado NorEste, y",
+    "SurOeste del de la presente mensura, puestos por el",
+    "Agrimensor D. Manuel Eguia el año proximo pa-",
+    "sado, al Norte cuarenta y siete grados Oeste. En se-",
+    "guida pasé al mojon del angulo Sur del terreno de",
+    "D^{a} Agustina Monsalvo, lindera al NorEste para to-",
+    "mar la direccion de los mojones del fondo del",
+    "terreno que fue de Vivar y hoy de los herederos de",
+    "D. Juan Castro, que dice Mesura correr al Sur",
+    "Oeste de la Aguja; D. Agustina Monsalvo no tiene",
+    "otro mojon en su terreno que el indicado del angulo",
+    "Sur, pero en el terreno de los herederos Castro existia",
+    "un mojon antiguo de piedra, que hallé en la",
+    "direccion Norte cincuenta y seis grados quince mi-",
+    "nutos Este. Entonces del mojon del angulo Sur",
+    "de D^{a} Agustina Monsalvo tiré el rumbo Sur cin-",
+    "cuenta y seis grados quince minutos Oeste, hasta el",
+    "punto de interseccion del costado NorEste del terreno",
+    "de Riestra, adonde mandé poner el mojon del",
+    "angulo Sur del terreno de D. Francisco Maldo-",
+    "nado, habiendo hallado esta linea solamente de",
+    "mil ochocientas veinticinco varas de largo,",
+    "que como va oblicua, debia tener mas que",
+    "las dos mil varas que espresan la mensura"
+   ],
+   "interpretacion": "Schuster anota que en los papeles de los Figueroa aparece nombrado en 1838 el agrimensor Francisco Ysach [?], pero faltan sus diligencias y plano. Solo quedan dos mojones de piedra en el costado SO que, según los presentes, puso él. La memoria oral reemplaza al papel perdido.\nEl 5 de octubre de 1856, con el interesado y todos los linderos, reconoce primero los mojones de Riestra puestos por Eguía «el año próximo pasado» (en realidad 1854-55, Ficha 006), al N 47° O. Después va al único mojón que tiene Agustina Monsalvo, el del ángulo Sur, y a un «mojón antiguo de piedra» en tierra de Castro. Con ellos tira la línea S 56°15' O hasta cortar el costado de Riestra, donde planta el mojón Sur de Maldonado.\nLa línea mide solo 1825 varas cuando, por ser oblicua, debía superar las 2000 del título. Ahí nace el faltante que pondrá a Maldonado contra Monsalvo."
+  },
+  {
+   "titulo": "Folio 3 (vuelto)",
+   "img": "img/f/009/12.jpg",
+   "fuente": "IMG_6656.JPG",
+   "nota": "Densa en rumbos: cada mojón «demarcado» por visuales a estancias, azoteas y montes.",
+   "lineas": [
+    "de Mesura. Se habia pasado en esta linea, á",
+    "las mil veinte varas el arroyo del Sauce. Desde",
+    "el mojon del angulo Sur se demarcó: Estancia",
+    "de D. Francisco Maldonado Norte diez y ocho",
+    "grados Este; Estancia de D. Juan Castro Sur",
+    "sesenta y siete grados treinta minutos Este; Asotea",
+    "de D. Antonio Ormechea Sur cincuenta y cinco",
+    "grados cuarenta y cinco minutos Oeste y se mi-",
+    "dió al Norte cuarenta y siete grados Oeste la dis-",
+    "tancia de cinco mil setecientas sesenta y cin-",
+    "co varas, á cuyo termino se puso el mojon",
+    "del angulo Oeste, debiendo tener el costado del",
+    "SurOeste doscientas treinta y cinco varas me-",
+    "nos de fondo y el del NorEste, esta distancia",
+    "mas, para que su termino medio sea una le-",
+    "gua. Se habia pasado á las trescientas veinti-",
+    "cinco varas por el arroyo del Sauce, á las cua-",
+    "trocientas nueve varas por el mojon del angu-",
+    "lo Este del terreno de D. Alvaro de la Ries-",
+    "tra puesto el año proximo pasado por el A-",
+    "grimensor D. Manuel Eguia, á las mil tres-",
+    "cientas ocho varas quedó un mojon de piedra dos va-",
+    "ras al SurOeste que dicen haber sido puesto en el",
+    "año mil ochocientos treinta y ocho por el Agri-",
+    "mensor D. Francisco Ysach [?], á las dos mil seis-",
+    "cientas varas se pasó por el camino que va desde",
+    "la Villa de Mercedes para el Pueblo de Zarate",
+    "y á las tres mil doscientas veinticinco varas",
+    "por el que va de Buenos Ayres para S^{n} Anto-",
+    "nio de Areco. Se demarcó desde este mojon:",
+    "Asotea de D^{a} Agustina Monsalvo Norte dos gra-",
+    "dos cuarenta y cinco minutos Este, Estancia de",
+    "D. Pascual Rodriguez (monte) Sur treinta mi-",
+    "nutos Este; Estancia del finado D. Juan Cas-",
+    "tro Sur cincuenta y cuatro grados treinta minu-",
+    "tos Este; Como encontré en el frente del fondo"
+   ],
+   "interpretacion": "La línea del frente cruzó el arroyo del Sauce a las 1020 varas. Desde el mojón Sur el agrimensor demarca visuales: estancia de Maldonado, estancia de Juan Castro y la azotea de Antonio Ormechea. Así cada mojón queda «atado» al paisaje construido.\nMide luego al N 47° O el costado SO: 5765 varas, compensadas para que el término medio dé una legua (6000). En el recorrido cruza otra vez el arroyo del Sauce (325 v), pasa por el mojón Este de Riestra puesto por Eguía (409 v) y por un mojón de piedra de Ysach de 1838 (1308 v). A las 2600 varas cruza el camino de la Villa de Mercedes a Zárate, y a las 3225 el de Buenos Aires a San Antonio de Areco.\nDesde el ángulo Oeste demarca la azotea de Agustina Monsalvo, la estancia de Pascual Rodríguez «(monte)» y la del finado Juan Castro. Como el frente del fondo solo tenía 1825 varas hasta la prolongación de Riestra, decide reconocer los mojones de todo el terreno de los Figueroa."
+  },
+  {
+   "titulo": "Folio 4 (recto)",
+   "img": "img/f/009/13.jpg",
+   "fuente": "IMG_6657.JPG",
+   "nota": "Foliatura «4». «Cerromoto [?]»: palabra dudosa para el antiguo mojón divisorio señalado por un vecino.",
+   "lineas": [
+    "del terreno, desde el mojon adonde habia arrancado,",
+    "hasta la prolongacion del costado NorEste del terreno",
+    "del S^{or} Riestra solamente mil ochocientas veinticin-",
+    "co varas, crei deber reconocer los mojones del frente",
+    "del terreno total de los herederos de Figueroa y para ve-",
+    "rificarlo, desde el mojon del angulo Oeste de Mal-",
+    "donado se siguió por el anterior rumbo Norte cua-",
+    "renta y siete grados Oeste, llegando á las ocho mil",
+    "ochenta varas al mojon del angulo Norte del",
+    "terreno de Riestra y del angulo Oeste del terreno de",
+    "los Figueroas puesto por el Agrimensor Eguia el año",
+    "proximo pasado, que dista veinte varas del cauce del",
+    "arroyo de Giles, habiendose pasado á las sesenta y siete",
+    "varas y diez varas al SurOeste por un mojon de",
+    "piedra, que dicen haber sido puesto por el Agrimen-",
+    "sor Ysach, á las mil seiscientas treinta varas, á las",
+    "cuatro mil seiscientas ochenta y á las siete mil",
+    "seiscientas ochenta por mojones costaneros de Ries-",
+    "tra, puestos todos cuando el Agrimensor Eguia hizo",
+    "la mensura de ese campo. Un vecino antiguo, que",
+    "me dijeron haberse hallado en las mensuras de los",
+    "terrenos de los Figueroas practicadas por los Agrimen-",
+    "sores Mesura y Ysach, me mostró un Cerromoto [?]",
+    "diciendome haber sido el mojon divisorio entre los",
+    "Figueroas y Monsalvos, tomé desde el mojon Nor-",
+    "te de Riestra la direccion á él y la hallé al",
+    "Norte cuarenta y un grados cuarenta y cinco mi-",
+    "nutos Este, distancia de dos mil cien varas. Al",
+    "medir esta linea quedó á las mil setecientas cin-",
+    "cuenta varas, un mojon á noventa varas al",
+    "SurEste, dentro de un pequeño cardal de cas-",
+    "tilla, que ya antes me habia dicho D^{a} Agus-",
+    "tina Monsalvo era el suyo, pero D. Gregorio",
+    "Figueroa, que se halló presente, cuando hice es-",
+    "te reconocimiento me espuso, que este mojon era"
+   ],
+   "interpretacion": "Schuster prolonga el rumbo N 47° O hasta el mojón Norte de Riestra y Oeste de los Figueroa, puesto por Eguía, «que dista veinte varas del cauce del arroyo de Giles». Llega a las 8080 varas y pasa por otro mojón de piedra de Ysach y por los mojones costaneros de Riestra.\nAparece el testigo de la memoria: «un vecino antiguo», que estuvo en las mensuras de Mesura e Ysach, le muestra el lugar del viejo mojón divisorio entre Figueroa y Monsalvo. Schuster mide hacia él: N 41°45' E, 2100 varas.\nA las 1750 varas encuentra un mojón «dentro de un pequeño cardal de castilla», a 90 varas al SE. Agustina Monsalvo dice que es suyo, pero Gregorio Figueroa, presente, sostiene que es el esquinero del campo de su padre Felipe. Es un dato de paisaje de primer orden: el cardo de Castilla, especie exótica invasora, ya forma cardales en 1856, y un mojón queda escondido dentro de uno."
+  },
+  {
+   "titulo": "Folio 4 (vuelto)",
+   "img": "img/f/009/14.jpg",
+   "fuente": "IMG_6658.JPG",
+   "nota": "«Guaicó [?]»: voz de origen quechua (huaico) usada en el litoral para hondonada o bajo anegadizo.",
+   "lineas": [
+    "esquinero del terreno de su S^{r} Padre D. Pelipe [Felipe], cuya",
+    "suerte tenia su frente al Rio de Areco y seria una",
+    "gran casualidad que el esquinero del fondo de",
+    "una suerte que viene de aquel Rio diera jus-",
+    "tamente con el esquinero del frente de D^{a} A-",
+    "gustina Monsalvo, habiendo sido medidos ambos",
+    "terrenos, como fracciones de mayores cantida-",
+    "des por sus primeros dueños y sucesores segun",
+    "su capricho ó conveniencia y medidos separa-",
+    "damente —",
+    "Trasladandome, despues de haber practicado",
+    "el anterior reconocimiento, otra vez al mojon",
+    "del angulo Oeste que habia hecho poner en el",
+    "terreno de D. Francisco Maldonado, desde él por",
+    "el rumbo Norte cuarenta y tres grados Este se",
+    "midió la distancia de dos mil varas frente",
+    "del terreno que espresa la Escritura y adonde",
+    "terminaron hice poner el mojon del angulo",
+    "Norte, habiendose pasado á las setecientas veinte",
+    "varas por el camino que va de Buenos Ayres",
+    "para S^{n} Antonio de Areco y á las mil cuatro-",
+    "cientas noventa varas por un Guaicó [?]. Se demar-",
+    "có desde este mojon: Estancia de D. Pascual Ro-",
+    "driguez (monte) Sur ocho grados quince minutos",
+    "Oeste; finado D. Juan Castro (azotea) Sur cuaren-",
+    "ta y un grados cuarenta y cinco minutos Este,",
+    "Azotea de D^{a} Agustina Monsalvo Norte treinta",
+    "y seis grados treinta minutos Oeste y desde él",
+    "por el rumbo Sur cuarenta y siete grados Este,",
+    "se pasó á las mil ochocientas setenta varas por",
+    "el camino q^{e} va de la Villa de Mercedes pa-",
+    "ra Zarate y se midieron hasta la interseccion",
+    "de la linea del fondo seis mil doscientas",
+    "cuarenta y tres varas, debiendo tener este lado",
+    "seis mil doscientas treinta y cinco varas, re-",
+    "sultando la pequeña diferencia de ocho varas"
+   ],
+   "interpretacion": "Gregorio Figueroa argumenta con lógica de agrimensor: la suerte de su padre tenía frente al Río de Areco, y sería «una gran casualidad» que su esquinero del fondo coincidiera justo con el esquinero del frente de Monsalvo. Ambos campos fueron medidos como fracciones de otros mayores, «según su capricho o conveniencia» y por separado. Es una crítica explícita a la agrimensura de fraccionamiento heredada.\nVuelto al mojón Oeste, Schuster mide al N 43° E las 2000 varas del frente del fondo que da la escritura y planta el mojón Norte. En el camino cruza el camino de Buenos Aires a Areco (720 v) y un «Guaicó» (1490 v). Demarca el monte de Pascual Rodríguez, la azotea de Castro y la de Agustina Monsalvo. Luego baja al S 47° E, cruza el camino de Mercedes a Zárate (1870 v) y mide 6243 varas contra 6235 esperadas, con 8 varas de diferencia."
+  },
+  {
+   "titulo": "Folio 5 (recto)",
+   "img": "img/f/009/15.jpg",
+   "fuente": "IMG_6659.JPG",
+   "nota": "Foliatura «5». Superficie, linderos, rumbos verdaderos, variación y cadena.",
+   "lineas": [
+    "la que provino particularmente por haber tenido",
+    "que medir esta ultima linea con cuerda y á ca-",
+    "ballo, porque anegado y muy pegajoso el terreno",
+    "casi en toda la longitud de ella, fué imposible",
+    "medirla con cadena y á pie, al termino de",
+    "ella, hice poner el mojon del angulo Este, que",
+    "queda del mojon de donde habia arrancado y",
+    "que tiene D^{a} Agustina Monsalvo por esquinero",
+    "del angulo Sur de su terreno, al Norte cincuen-",
+    "ta y seis grados quince minutos Este, distante dos-",
+    "cientas treinta varas, asi que toda esta ultima",
+    "linea del frente del fondo tiene dos mil cincuenta",
+    "y cinco varas de largo. Se demarcó desde el mojon",
+    "del angulo Este: Estancia del finado D. Bernabé [?]",
+    "Montiel [?] (monte) Sur treinta y siete grados cuaren-",
+    "ta y cinco minutos Este; Estancia de D. Francisco",
+    "del Sar Norte cincuenta y cinco grados quince",
+    "minutos Este, Estancia de D. Francisco Maldo-",
+    "nado Sur ochenta y cuatro grados cuarenta y cin-",
+    "co minutos Oeste, con lo cual quedó concluida la",
+    "mensura del terreno de la propiedad de D. Fran^{co}",
+    "cisco Maldonado, cuya area es de doce millones",
+    "de varas cuadradas iguales á treinta y tres centesi-",
+    "mas partes de legua cuadrada y linda al Nor-",
+    "te con D^{a} Agustina Monsalvo, al SurEste con los",
+    "herederos del finado D. Juan Castro y D. Pablo Offre, al",
+    "SurOeste con D. Alvaro Riestra y por el NorOeste con",
+    "los herederos de D. Pedro Miguel Figueroa. Los rum-",
+    "bos son los verdaderos y la variacion de la aguja",
+    "hallé de doce grados al Este en este parage —",
+    "La mensura fué hecha con una cadena de vein-",
+    "ticinco varas de largo arreglada á la vara ma-",
+    "triz del Departamento Topografico —",
+    "D^{a} Agustina Monsalvo no quiso firmar la circular",
+    "de citacion al tiempo de hacerla ni al principiar",
+    "la mensura que yo mismo se la hice leer. Ella,"
+   ],
+   "interpretacion": "La diferencia de 8 varas se explica por el terreno: hubo que medir esa línea «con cuerda y a caballo», porque el suelo estaba «anegado y muy pegajoso» y fue imposible medir «con cadena y a pie». Es una descripción directa del bajo pampeano en primavera y de las dos técnicas de medición de la época.\nEl mojón Este queda a 230 varas del ángulo Sur que Agustina Monsalvo reconoce como suyo, así que el frente del fondo total mide 2055 varas. Demarca la estancia del finado Bernabé Montiel [?] «(monte)», la de Francisco del Sar y la de Maldonado.\nResultado: 12.000.000 v² = 0,33 leguas cuadradas (≈ 900 ha). Linda al N con Agustina Monsalvo, al SE con los herederos de Juan Castro y Pablo Offre, al SO con Álvaro Riestra y al NO con los herederos de Pedro Miguel Figueroa. Los rumbos son los verdaderos y la variación de la aguja es de 12° E. Se midió con una cadena de 25 varas «arreglada a la vara matriz del Departamento Topográfico». Agustina Monsalvo se negó a firmar la circular de citación."
+  },
+  {
+   "titulo": "Folio 5 (vuelto)",
+   "img": "img/f/009/16.jpg",
+   "fuente": "IMG_6660.JPG",
+   "nota": "Una palabra testada («por escrito») y repetida al final del renglón.",
+   "lineas": [
+    "personalmente, se halló presente con uno de sus",
+    "hijos y un yerno, desde que hice el reconocimien-",
+    "to de mojones hasta haberse puesto el mojon",
+    "del angulo Oeste, desde este mojon la hice",
+    "llamar para presenciar la mensura del fren-",
+    "te del terreno y la del costado NorEste que des-",
+    "linda con ella, pero me mandaron decir q^{e}",
+    "se habia ido para el pueblo de Giles y nadie",
+    "se apersonó en su representacion. Concluida",
+    "la mensura le pasé una nota, avisandole",
+    "que habia entrado en su terreno y que si que-",
+    "ria protestar me mandase ~~por escrito~~ su pro-",
+    "testa por escrito (lo que hizo y queda agrega-",
+    "da con la letra A á estas diligencias de men-",
+    "sura), pero que dejase los mojones de D. Fran^{co}",
+    "Maldonado conforme yo los habia puesto",
+    "hasta que decidiese el S^{or} Juez de primera Ins-",
+    "tancia. El terreno de D^{a} Agustina que en-",
+    "tra en el de Maldonado, está señalado en el",
+    "Plano con una linea puro [?] de puntos. Si D^{a}",
+    "Agustina Monsalvo hubiese tenido el mojon",
+    "del angulo Este de su terreno, hubiese me-",
+    "dido el frente del fondo de este para cono-",
+    "cer, si la diferencia que se encontraba, se ha-",
+    "llaba en esta linea; este no existe, ni ningun",
+    "otro de sus mojones, crei deber respetar los mo-",
+    "jones del costado del S^{or} Riestra aprobados ya.",
+    "Si, como me aseguraron, el terreno al Norte",
+    "del de D^{a} Agustina Monsalvo, es de pro-",
+    "piedad publica, denunciado por D. Francis-",
+    "co del Sar, seria, sin duda, facil comple-",
+    "tar el frente del terreno de esta, sin que na-",
+    "die sufriese perjuicios, y de este modo no",
+    "hubiese trastorno en los mojones del S^{or} Ries-",
+    "tra y de los otros que se hallan al Sur",
+    "Oeste de este —"
+   ],
+   "interpretacion": "La hoja narra la resistencia de Agustina Monsalvo. Estuvo presente con un hijo y un yerno durante el reconocimiento, pero cuando la llamaron para la medición del frente y del costado NE, que lindan con ella, mandó decir que se había ido al pueblo de Giles, y nadie la representó. Schuster le pasó una nota: había entrado en su terreno y, si quería protestar, debía hacerlo por escrito, pero dejando los mojones como él los había puesto hasta que decidiera el juez. La protesta se agregó con la letra A.\nEn el plano, la parte de Monsalvo que entra en Maldonado va con línea de puntos. El agrimensor razona que, sin mojón Este de Monsalvo y sin ningún otro, debía respetar los mojones «ya aprobados» de Riestra. Propone una salida: el terreno al norte de Monsalvo sería de propiedad pública, denunciado por Francisco del Sar, y con él se podría completar su frente «sin que nadie sufriese perjuicios». La tierra fiscal funciona como reserva para resolver conflictos entre privados."
+  },
+  {
+   "titulo": "Folio 6 (recto)",
+   "img": "img/f/009/17.jpg",
+   "fuente": "IMG_6661.JPG",
+   "nota": "Doble firma: «G. T. Schuster, Agrim. Publ.» y «Carlos Schuster». Comienza el informe del Departamento Topográfico.",
+   "lineas": [
+    "Los herederos de Castro me informaron tener sus",
+    "titulos en Buenos Ayres, parte de su terreno per-",
+    "tenece á D. Pablo Offre. El mayordomo de",
+    "D. Hermenegildo [?] Riestra, me dijo no haberle",
+    "mandado su patron los titulos —",
+    "Villa de Mercedes, á quince de Octubre de mil",
+    "ochocientos cincuenta y seis —",
+    "G. T. Schuster [rúbrica] / Agrim. Publ.",
+    "Carlos Schuster [rúbrica]",
+    "De los linderos se presentaron por la S^{a} viuda de",
+    "D. Juan Castro su hijo D. Ciriaco, D. Pablo",
+    "Offre por sí, ambos linderos al SurEste; en repre-",
+    "sentacion del lindero al SurOeste D. Albaro Ries-",
+    "tra, su mayordomo D. José Belen [?], de los tres",
+    "linderos al NorOeste, D. Valentin Albarez, D^{n}",
+    "Lorenzo Piseira y D. Valentin [?] Cufré todos per-",
+    "sonalmente y en el costado al NorOeste di-",
+    "visorio con ellos y el frente del fondo de sus",
+    "terrenos asistió en su nombre el capataz",
+    "de Albarez, quien hizo señalar sus corres-",
+    "pondientes fracciones. D^{a} Agustina Monsal-",
+    "vo, que asistió al principio, no asistió al",
+    "deslinde del costado NorEste y protestó —",
+    "fha ut supra",
+    "Schuster [rúbrica]",
+    "Examinada la anterior diligencia de mensu-",
+    "ra practicada por el Agrimensor D. Teodoro",
+    "Schuster en los terrenos de la propiedad",
+    "de D^{n} Francisco Maldonado, sitos en el"
+   ],
+   "interpretacion": "Los herederos de Castro tienen sus títulos en Buenos Aires, y parte de su tierra pertenece a Pablo Offre. El mayordomo de Riestra dice que su patrón no le mandó los títulos. Firma en la Villa de Mercedes el 15 de octubre de 1856 G. T. Schuster, agrimensor público, junto a Carlos Schuster, probablemente pariente y ayudante.\nLa lista de asistentes: por la viuda de Juan Castro, su hijo Ciriaco; Pablo Offre por sí; por Riestra, su mayordomo José Belén [?]; por el NO, Valentín Álvarez, Lorenzo Piseira y Valentín [?] Cufré en persona. En el costado NO asistió el capataz de Álvarez, «quien hizo señalar sus correspondientes fracciones». Agustina Monsalvo asistió al principio, no al deslinde del NE, «y protestó».\nEl Departamento examina la mensura practicada por «D. Teodoro Schuster»: la G. T. de la firma sería entonces «G[ustavo?] Teodoro»."
+  },
+  {
+   "titulo": "Folio 6 (vuelto)",
+   "img": "img/f/009/18.jpg",
+   "fuente": "IMG_6662.JPG",
+   "nota": "Firmas de Salas y Pico con rúbricas. El resto de la hoja está en blanco (se trasluce el texto del reverso).",
+   "lineas": [
+    "Partido de Giles, el Departamento Topografico",
+    "no tiene antecedentes que se opongan á que",
+    "ella sea aprobada judicialmente.",
+    "Respecto á la protesta de Doña",
+    "Agustina Monsalvo en contra de la presente",
+    "operacion, el Depart^{to} Topog^{co} es de opinion",
+    "que ella debia practicar una mensura ju-",
+    "dicial de su propiedad para saber en-",
+    "tonces si falta ó no algo al completo de su",
+    "terreno; para cuyo efecto podria dársele",
+    "vista del presente expediente.",
+    "Buenos Ayres Noviembre 12 de 1856.",
+    "Salas [rúbrica]     Pico [rúbrica]"
+   ],
+   "interpretacion": "El Departamento Topográfico no tiene antecedentes que se opongan a la aprobación judicial. Sobre la protesta de Agustina Monsalvo, opina que ella debería hacer medir judicialmente su propia propiedad para saber si le falta algo, y que se le puede dar vista del expediente. La carga de la prueba pasa a la protestante: quien reclama, que mida.\nFirman en Buenos Aires el 12 de noviembre de 1856 Saturnino Salas y Pedro Pico. Es la misma dupla que en las Fichas 004 a 006, lo que confirma la lectura «Pico»."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano topográfico del terreno de Francisco Maldonado (vista general)",
+   "img": "img/f/009/03.jpg",
+   "fuente": "IMG_6663.JPG (plano desplegado junto al expediente)",
+   "orientacion": "Lámina apaisada plegada; el NO (fondo, Figueroa) queda arriba a la derecha, el frente SE (Castro-Offre) abajo.",
+   "interpretacion": "La lámina completa muestra el rectángulo oblicuo de Maldonado encajado entre Riestra (izquierda), Agustina Monsalvo (derecha) y la franja de los herederos de Figueroa, fraccionada en Piseira, Álvarez y Cufré. Una larga línea se prolonga hacia la derecha hasta el arroyo de Giles: es el reconocimiento de 8080 varas por el costado de Riestra y el ramal de 2100 varas al «lugar que dicen haber estado el mojón entre Figueroa y Monsalvo». Una ancha franja verde con trazo de hierba atraviesa el ángulo N-E: es el bañado o cañada anegadiza que obligó a medir con cuerda y a caballo.",
+   "referencias": []
+  },
+  {
+   "titulo": "Plano: frente SE, arroyo del Sauce y rótulo",
+   "img": "img/f/009/04.jpg",
+   "fuente": "IMG_6664.JPG",
+   "orientacion": "Lámina vertical; norte verdadero y magnético con «Var. 12° al E»; escala de 500 varas con escala transversal.",
+   "interpretacion": "El rótulo dice: «Plano Topográfico del terreno de la propiedad de D. Franco Maldonado situado en el Partido de San Andrés de Giles. Área 0,33 leguas cuads. Medido en Octubre de 1856. Por G. T. Schuster». Abajo se lee «Offre y herederos de Castro»; el arroyo del Sauce, en azul, corta el ángulo Sur junto a las poblaciones de Maldonado y de [Antonio] Ormechea. Las flechas del norte verdadero y del magnético están separadas por 12°.",
+   "referencias": [
+    [
+     "Offre y herederos de Castro",
+     "Lindero SE (frente); línea S 56° 15' O 1825 v"
+    ],
+    [
+     "Arroyo del Sauce",
+     "Curso azul que cruza el frente (1020 v) y el costado SO (325 v)"
+    ],
+    [
+     "Pob.n de D. Fran.co Maldonado",
+     "Población interior, cerca del ángulo Sur"
+    ],
+    [
+     "Pob.n de D. [Antonio] Ormechea [?]",
+     "Población con azotea, fuera del polígono al S"
+    ],
+    [
+     "Moj. de Riestra · Moj. S.",
+     "Mojones de Eguía (1854-55) sobre el costado SO"
+    ],
+    [
+     "Moj. de D.a Agustina Monsalvo",
+     "Esquinero Sur de Monsalvo, a 230 v del mojón Este"
+    ],
+    [
+     "Norte verdadero / Norte magnético",
+     "Var. 12° al E"
+    ],
+    [
+     "Escala de 500 varas",
+     "Graduada hasta 3000 v, con escala transversal"
+    ],
+    [
+     "Firma",
+     "«Por G. T. Schuster»"
+    ]
+   ]
+  },
+  {
+   "titulo": "Plano: cuerpo del terreno, caminos y bañado",
+   "img": "img/f/009/05.jpg",
+   "fuente": "IMG_6665.JPG",
+   "orientacion": "Lámina vertical; mitad superior del mismo plano.",
+   "interpretacion": "Dentro del polígono cruzan dos caminos: el «Camino de Buenos Aires a S. Antonio de Areco», casi paralelo al costado NO, y el «Camino de la Villa de Mercedes a Zárate», en diagonal. Son referencias clave para georreferenciar con la red vial actual. La franja verde atraviesa el costado NE sobre la tierra de Monsalvo, donde figura un «Arrendatario de D.a Agustina», un dato de tenencia indirecta. El costado SO lleva los rótulos «N 47° O 5765 v.» y «Moj. de piedra» (Ysach, 1838).",
+   "referencias": [
+    [
+     "Maldonado",
+     "Polígono de 12.000.000 v² (0,33 leguas²)"
+    ],
+    [
+     "Riestra",
+     "Lindero SO (Ficha 006)"
+    ],
+    [
+     "Piseira · Albarez · Cufré",
+     "Fracciones de los herederos de Figueroa al NO"
+    ],
+    [
+     "D.a Agustina Monsalvo",
+     "Lindera N-NE; su terreno avanza en línea de puntos"
+    ],
+    [
+     "Camino de Buenos Aires a S.n Ant.o de Areco",
+     "Cruza el costado SO a 3225 v y el fondo a 720 v"
+    ],
+    [
+     "Camino de la Villa de Mercedes a Zárate",
+     "Cruza el costado SO a 2600 v y el NE a 1870 v"
+    ],
+    [
+     "• Arrendatario de D.a Agustina",
+     "Población de un arrendatario en tierra de Monsalvo"
+    ],
+    [
+     "Franja verde",
+     "Bañado o cañada anegadiza sobre el costado NE (¿el «Guaicó»?)"
+    ],
+    [
+     "Moj. de piedra",
+     "Mojón atribuido a Ysach (1838)"
+    ],
+    [
+     "N 43° E 2000 v · Moj. N.",
+     "Frente del fondo y mojón Norte"
+    ]
+   ]
+  },
+  {
+   "titulo": "Plano: prolongación al arroyo de Giles (reconocimiento)",
+   "img": "img/f/009/06.jpg",
+   "fuente": "IMG_6668.JPG (detalle del extremo derecho; ver también IMG_6666 y 6667)",
+   "orientacion": "Detalle del extremo NO de la lámina.",
+   "interpretacion": "El extremo de la línea de reconocimiento llega al «Arr.o de Giles», pintado en azul, donde está el «Moj. N. de Riestra». Desde allí sale la línea «N 41° 45' E 2100 v.», con la cota 1750, hasta el «Lugar q.e dicen haber estado el mojón entre Figueroa y Monsalvo». Sobre ella se marca el «Moj. en el Cardalito». Al pie aparecen la «Pob.n de Piseira» y la «Pob.n de Riestra». El plano recoge así la memoria oral del vecino antiguo y el cardal como signo del paisaje.",
+   "referencias": [
+    [
+     "Arr.o de Giles",
+     "Cauce a 20 v del mojón N de Riestra"
+    ],
+    [
+     "Moj. N. de Riestra",
+     "Puesto por Eguía; ángulo O de los Figueroa"
+    ],
+    [
+     "N 41° 45' E 2100 v",
+     "Línea al antiguo mojón Figueroa-Monsalvo"
+    ],
+    [
+     "Moj. en el Cardalito",
+     "A 1750 v, 90 v al SE, dentro de un cardal de Castilla"
+    ],
+    [
+     "Lugar q.e dicen haber estado el mojón…",
+     "Punto indicado por el vecino antiguo"
+    ],
+    [
+     "Pob.n de Piseira · Pob.n de Riestra",
+     "Poblaciones junto al costado"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje: agua, barro y cardo",
+   "texto": "El paraje se nombra por el arroyo del Sauce, que se cruza dos veces. El arroyo de Giles aparece a 20 varas de un mojón. Hay un bañado dibujado en verde, un «Guaicó» [?] y un suelo «anegado y muy pegajoso» que obliga a medir a caballo. Es el retrato de un bajo pampeano en primavera, después de temporales («mal tiempo y vientos fuertes» en septiembre). El «pequeño cardal de castilla» es un indicador ecológico precoz del cardo exótico (Cynara cardunculus) que Darwin había descrito en la pampa en 1833."
+  },
+  {
+   "titulo": "Paisaje construido y red vial",
+   "texto": "Los mojones se atan con visuales a estancias, azoteas (Ormechea, Castro, Monsalvo) y «montes» (Pascual Rodríguez, Bernabé Montiel [?]). El monte de frutales o sombra funciona como hito visible a distancia. Dos caminos atraviesan el campo, el de Buenos Aires a Areco y el de Mercedes a Zárate, con distancias exactas de cruce: son puntos de control óptimos para el GIS, ya que el segundo también aparece en la Ficha 006. Figura un arrendatario en tierra de Monsalvo."
+  },
+  {
+   "titulo": "El ritual y sus fisuras",
+   "texto": "Hubo circular de citación, aviso a los linderos, presencia de hijos, mayordomos y capataces que «hacen señalar» las fracciones, y un vecino antiguo como archivo vivo de mensuras anteriores. La protesta escrita se agrega como pieza «A». La novedad es la resistencia pasiva: Agustina Monsalvo se niega a firmar la circular, se retira «al pueblo de Giles» y protesta. La mujer propietaria usa la ausencia como estrategia legal para no convalidar el deslinde."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Es la primera ficha que declara el instrumento de medida lineal: una cadena de 25 varas contrastada con la «vara matriz» del Departamento Topográfico. En terreno anegado se usa la cuerda a caballo, el método tradicional, con un error admitido de 8 varas en 6243. Los rumbos son «los verdaderos» y la variación es de 12° E, un valor intermedio en la serie (11°45' en 1854, 11°15' en 1856 en Areco). Schuster critica los rumbos «de la aguja» sin corregir de las mensuras de Vivar, que explican los costados desiguales de 1823."
+  },
+  {
+   "titulo": "Crítica documental",
+   "texto": "El agrimensor actúa como paleógrafo. Detecta cifras «borradas» y reescritas «con tinta más fresca y otra letra» en el título Figueroa, declara ininteligible el título Monsalvo por mala conservación y señala que faltan las diligencias de Ysach de 1838. La mensura de 1856 es, entre otras cosas, una auditoría del archivo privado de la campaña."
+  },
+  {
+   "titulo": "Genealogía de la tierra",
+   "texto": "Todo deriva de los Suero: la venta a Transmontano (1771), la venta al alférez Antonio Monsalvo (1793) y la de los apoderados Varas e Hidalgo a Pedro Miguel Figueroa. Los fondos se definen por las tierras de Pedro Díaz de Vivar y por las «suertes de la Cañada de la Cruz»; los frentes miran al Río de Areco o al arroyo de Giles. Las mensuras de Francisco Mesura de marzo de 1823 (aprobadas por Cernadas) son el sustrato técnico. Conviene buscarlas en el Catálogo de mensuras antiguas."
+  },
+  {
+   "titulo": "Metrología y superficie",
+   "texto": "12.000.000 v² ≈ 900 ha (0,33 leguas cuadradas). La suerte original de Figueroa tenía 2000 v × 15.300 v ≈ 2,3 × 13,2 km. Las 2500 varas de cabezada de Monsalvo equivalen a unos 2,2 km. El faltante del frente (1825 contra 2000 v, oblicuas) se resuelve empujando el polígono hacia el NE sobre Monsalvo."
+  },
+  {
+   "titulo": "Estado y lecturas dudosas",
+   "texto": "Texto muy legible, con papel de marca de agua en rombos que se trasluce. Quedan dudosos «Ysach» (¿Isach, Isasa?), «Cerromoto», «Guaicó», «Lares», «Bernabé Montiel», «José Belén» y el nombre de pila de Cufré. La protesta «A» de Agustina Monsalvo no está entre las fotografías."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Midió Agustina Monsalvo su campo como le sugirió el Departamento? ¿Qué tierra pública al N de Monsalvo denunció Francisco del Sar? ¿Quién era Carlos Schuster? ¿Dónde están las mensuras de Ysach (1838) y de Mesura (1823) para los Figueroa y los Monsalvo? ¿Coincide la franja verde con la actual cañada entre el arroyo del Sauce y el arroyo de Giles?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Gustavo [?] Teodoro Schuster",
+   "rol": "Agrimensor público",
+   "texto": "Firma «G. T. Schuster»; el Departamento lo llama «D. Teodoro Schuster». Tiene su base en la Villa de Mercedes, donde fecha la diligencia. En la Ficha 007 (1863) figura como fallecido. Es de origen germánico, parte de la ola de técnicos europeos de las décadas de 1840 y 1850: plano cuidado, escala transversal y cadena contrastada. En una búsqueda breve no se hallaron datos biográficos en línea; el Catálogo de mensuras de la Provincia permitiría listar su obra.",
+   "fuentes": "Esta mensura; Ficha 007; búsqueda web sin resultados específicos."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Cofirmante de la diligencia",
+   "texto": "Firma al pie junto al agrimensor, probablemente como hermano, hijo o ayudante. Sin datos adicionales.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Francisco Maldonado",
+   "rol": "Propietario",
+   "texto": "Vecino de la Guardia de Lobos, compró en 1851 a Lorenzo y Pedro Sosa la estancia del arroyo del Sauce. Es un inversor de otro partido que llega a Giles después de Caseros. Tenía población propia en el campo.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Agustina Monsalvo",
+   "rol": "Lindera n-ne; protestante",
+   "texto": "Descendiente del alférez Antonio Monsalvo (compra a Suero, 1793). Tenía casa de azotea y un arrendatario. Se negó a firmar la circular de citación y protestó por escrito contra la mensura. El Departamento le indicó medir judicialmente su propiedad. Se relaciona con Pascuala Romero de Monsalvo (Ficha 003) y Fernando Monsalvo (Ficha 004).",
+   "fuentes": "Esta mensura; Fichas 003-004."
+  },
+  {
+   "nombre": "Dr. Manuel Rafael García (1826-1887)",
+   "rol": "Juez de 1.ª instancia en lo civil (identificación probable)",
+   "texto": "El «Dr. D. Manuel R. García» sería Manuel Rafael García Aguirre, hijo del ministro Manuel José García. Abogado en la Buenos Aires posterior a Caseros, desde 1860 hizo carrera diplomática como representante argentino en Estados Unidos y Europa. La identificación con el juez de 1856 es probable pero no está confirmada.",
+   "fuentes": "Wikipedia, «Manuel Rafael García Aguirre»; Res Gesta (UCA), artículo sobre su carrera diplomática 1860-1880."
+  },
+  {
+   "nombre": "Francisco Mesura · Francisco Ysach [?]",
+   "rol": "Agrimensores anteriores (1823 · 1838)",
+   "texto": "Mesura midió en marzo de 1823 las suertes de Figueroa y Monsalvo con 15° de variación. Ysach [?] fue nombrado en 1838 para los Figueroa, pero sus diligencias se perdieron y solo quedan mojones de piedra. No se hallaron datos en línea en una búsqueda breve.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Juan Francisco Suero · Antonio Varas · Juan Dionisio Hidalgo",
+   "rol": "Fundadores y apoderados",
+   "texto": "Suero vendió a Transmontano (1771) y al alférez Antonio Monsalvo (1793), el mismo año de la donación para el Pueblo. Varas e Hidalgo actuaron como apoderados «de los Sueros» en la venta a Pedro Miguel Figueroa. Se vinculan con los «Zuero e Hidalgo» de las Fichas 004 a 006 y 008.",
+   "fuentes": "Esta mensura; Fichas 004-008."
+  },
+  {
+   "nombre": "Pedro Miguel Figueroa · Mariano Figueroa y Cayetana de Castro · Gregorio y Felipe Figueroa",
+   "rol": "Familia figueroa",
+   "texto": "Pedro Miguel compró a los Suero la suerte de 2000 varas × más de dos leguas. La viuda de Mariano, Cayetana de Castro, era lindera en 1823. Gregorio Figueroa, hijo de Felipe (con suerte al Río de Areco), discute la identificación del mojón del cardal.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Sosa: Leandro José, M.ª del Carmen, Lorenzo y Pedro",
+   "rol": "Antecesores",
+   "texto": "María del Carmen Sosa vendió en 1843 (escribano Adolfo Conde) a Leandro José Sosa, cuyos hijos Lorenzo y Pedro vendieron a Maldonado en 1851. Es la misma familia Sosa de la protesta de Juan José Sosa (Ficha 006).",
+   "fuentes": "Esta mensura; Ficha 006."
+  },
+  {
+   "nombre": "Linderos y asistentes",
+   "rol": "Castro, offre, riestra, álvarez, piseira, cufré, ormechea, rodríguez, del sar, montiel",
+   "texto": "Ciriaco Castro, por la viuda de Juan Castro (Ficha 007); Pablo Offre (el «Affre» de 007); el mayordomo de Álvaro de la Riestra (Ficha 006); Valentín Álvarez, Lorenzo Piseira y [Valentín?] Cufré, fraccionarios de los Figueroa; Antonio Ormechea, Pascual Rodríguez, Francisco del Sar (denunciante de tierra pública) y Bernabé Montiel [?] como puntos de referencia.",
+   "fuentes": "Esta mensura; Fichas 006-007."
+  },
+  {
+   "nombre": "Saturnino Salas · Pedro Pico",
+   "rol": "Departamento topográfico",
+   "texto": "Firman el informe del 12/11/1856. Salas (1806-1892) presidió el Departamento entre 1855 y 1875; Pico (1810-1888) fue ingeniero militar. Ver las biografías de las Fichas 004-006.",
+   "fuentes": "Fichas 004-006."
+  },
+  {
+   "nombre": "Dr. Juan José Cernadas · Adolfo Conde · Julián Aranda",
+   "rol": "Juez (1823) · escribanos",
+   "texto": "Cernadas aprobó las mensuras de Mesura en 1823. Conde autorizó la escritura de 1843 y Aranda actuó como escribano actuario en 1856. No se buscaron más datos.",
+   "fuentes": "Esta mensura."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/009/02.jpg",
+  "fuente": "IMG_6650.JPG",
+  "lineas": [
+   "53.",
+   "Giles 9",
+   "Secc.^{on} Areco.",
+   "Mensura del Terreno",
+   "de propiedad",
+   "de D^{n} Francisco Maldona-",
+   "do en Giles, practicada por",
+   "El Agrimensor Schuster",
+   "en 5 de Octubre de 1856",
+   "[a lápiz, centro de la hoja: palabra ilegible]"
+  ]
+ },
+ "titulo": "D. Francisco Maldonado",
+ "estado": "Transcripta (12 hojas, 397 renglones), 4 láminas"
+}

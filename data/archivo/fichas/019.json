@@ -1,0 +1,465 @@
+{
+ "carpeta": "19",
+ "carpeta_nombre": "Carpeta 19",
+ "archivo": "Ficha 019 - Antonio Rocha (1839).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Secc. Areco; «partido del fortín de Areco»)",
+  "N.º de duplicado": "19 (portadilla N.º 88; «N 24» en el folio 1)",
+  "Propietario / solicitante": "D. Antonio Rocha",
+  "Agrimensor": "Manuel Eguía",
+  "Año": "1839",
+  "Fecha de la diligencia": "4/2/1839; dictamen D. T. 28/8/1839",
+  "Ubicación": "Ex campo de Bartolo Saraví (Ficha 013), fortín de Areco",
+  "Orden judicial": "Comisión (no se nombra el juez)",
+  "Vendedor / antecesor": "Saraví (Lemoine 1826-27) → venta del Gobierno a Anastasia Frías (1838) → Rocha",
+  "Linderos citados": "Piran · J. T. Romero · T. Lavallén · Soc. Pastoril · P. Velós · J. G. Carrasco · J. M.ª Echeverría · S. Casco · B. Cotes · R. Bustos · P. Rodríguez",
+  "Medidas": "Polígono de 9 lados; 4,55 leguas² (exceso 0,1 legua²)",
+  "Rumbos": "«De la aguja», sin corregir; sigue la mensura de Lemoine",
+  "Referencia de archivo": "«N.º 88 – Giles 19 – Secc.n Areco»; copia certificada por Arenales"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 12.280 (4,55 leguas²)",
+  "hitos": "Cañones de hierro como mojones; casas y estancias (tabla de visuales); banderas",
+  "aguas": "Cañada de Romero"
+ },
+ "sintesis": "Mensura de Manuel Eguía (4/2/1839) del campo de Antonio Rocha en el fortín de Areco: es el ex terreno de Bartolo Saraví medido por Lemoine en 1826-27 (Ficha 013) y vendido por el Gobierno a Anastasia Frías en 1838. Eguía arranca del mismo cañón de hierro, sigue los rumbos de la aguja y obtiene un polígono de 9 lados y 4,55 leguas². Amojona «condicionalmente» por los reclamos de Lavallén, Piran, Bustos y Echeverría. Vecinos antiguos señalan los mojones perdidos. El D. T. (Arenales, Gutiérrez) la aprueba como ratificación de la primera y señala un exceso de 0,1 legua².",
+ "caratula": {
+  "img": "img/f/019/01.jpg",
+  "fuente": "IMG_6760.JPG",
+  "campos": [
+   [
+    "N.º",
+    "19"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Antonio Rocha"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Eguía"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1839"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 (recto) · Arranque en el mojón de Lemoine",
+   "img": "img/f/019/04.jpg",
+   "fuente": "IMG_6762.JPG",
+   "nota": "Encabezado «Terreno de D.n Antonio Rocha – N 24» y, a lápiz, «Sección [...]». Sello del Departamento Topográfico y foliatura «1». Es una copia certificada (1839) en letra de oficina, clara; la tinta del reverso se transparenta en diagonal.",
+   "lineas": [
+    "Terreno de D^{n} Antonio Rocha ——    N 24",
+    "[a lápiz, margen:] Seccion [...]",
+    "—— ¡Viva la Federacion! = En el partido del fortin de Areco á cuatro de",
+    "febrero de mil ochocientos treinta y nueve; año treinta de la libertad",
+    "y decimo de la confederacion argentina, en cumplimiento de la comi-",
+    "sion que se me ha conferido para medir el terreno de propiedad",
+    "de D^{n} Antonio Rocha, tomé por punto de arranque el mojon",
+    "(cañon de fierro) esquinero Norte de D^{n} Tomas Lavallen situado sobre",
+    "el costado Sud-Este de D^{n} Antonio Maria Piran, y es el mismo que",
+    "sirvió de arranque al agrimensor D^{n} Fortunato Lemoine en 1826",
+    "al medir este mismo terreno entonces de Bartolo Saravi: sigui-",
+    "endo pues, el mismo proceder que empleó este agrimensor, desde el",
+    "mojon de arranque al norte cuarenta y cinco grados Este, y",
+    "haciendo señales á cada media legua medí once mil cuatro-",
+    "cientas cincuenta varas, con cuya distancia llegué á la interse-",
+    "ccion del costado Noreste del mismo Piran: determinada esta por",
+    "el esquinero Sur de D^{n} Juan Tomas Romero. — Informado por D^{n}",
+    "Pedro Blanco vecino antiguo de esta inmediacion y maestro de",
+    "Posta, que el esquinero Este de Piran lo habia conocido y sa-",
+    "bia el lugar donde ecsistió, hice colocar una bandera en el",
+    "punto que indicó y lo relacioné midiendo hasta él ocho-",
+    "cientas cincuenta varas en direccion Sur cincuenta y dos gra-",
+    "dos treinta minutos Este. — Volví al estremo de las once mil",
+    "cuatro cientas cincuenta y medí hasta el esquinero Sur de D^{n}",
+    "Juan Tomas Romero en direccion Norte veinte y dos grados",
+    "treinta minutos Oeste trescientas treinta y cuatro varas: desde",
+    "este hasta el esquinero Oeste de Santiago Casco y al norte treinta",
+    "grados Este medí setecientas varas: de aqui, al Sur sesenta grados",
+    "Este medí tres mil setecientas cincuenta varas que terminaron",
+    "en el esquinero Sur del mismo Casco; desde el cual y por la",
+    "misma direccion medí cuatro mil cuatro cientas cincuenta",
+    "varas hasta un mojon (cañon de fierro) que hallé sobre la",
+    "linea: desde este continuando la misma direccion medí",
+    "desde él tres mil cien varas hasta la poblacion de D^{n} Do-",
+    "mingo Suares dejando señales á cortas distancias. — Al dia",
+    "siguiente con objeto de fijar el punto de interseccion de esta",
+    "linea con la prolongacion del costado Nor-Oeste de D^{n} José M^{a}",
+    "Echeverria tomé desde el esquinero Norte de D^{n} Juan Gregorio //"
+   ],
+   "interpretacion": "«¡Viva la Federación!» En el partido del fortín de Areco, el 4 de febrero de 1839, Manuel Eguía mide el terreno de Antonio Rocha. Arranca del mojón «(cañón de fierro)» esquina N de Tomás Lavallén sobre el costado SE de Antonio María Piran, «el mismo que sirvió de arranque al agrimensor D. Fortunato Lemoine en 1826 al medir este mismo terreno entonces de Bartolo Saraví». Es decir: el campo de Rocha es el de la Ficha 013 (Saraví, Lemoine), vendido por el Gobierno a Anastasia Frías en 1838.\nEguía declara que sigue «el mismo proceder» de Lemoine: al N 45° E, con señales cada media legua, mide 11.450 v hasta el costado NE de Piran, marcado por el esquinero S de Juan Tomás Romero. Pedro Blanco, «vecino antiguo de esta inmediación y maestro de posta», dice haber conocido el esquinero E de Piran y sabe dónde estuvo; allí se pone una bandera, a 850 v al S 52° 30' E. Siguen los lados por Romero (334 v), Santiago Casco (700 y 3750 v), un cañón de hierro hallado sobre la línea y 3100 v más «hasta la población de D. Domingo Suares»."
+  },
+  {
+   "titulo": "Folio 1 (vuelto) · Costados de Echeverría y Carrasco; cierre",
+   "img": "img/f/019/05.jpg",
+   "fuente": "IMG_6763.JPG",
+   "nota": "«al» testado antes de «Oeste». «escatante» (nota 3.ª, hoja siguiente) es lectura dudosa.",
+   "lineas": [
+    "// Carrasco al Sur cincuenta y ocho grados Este la distancia de mil",
+    "quinientas varas, y de su estremo al norte treinta y dos grados",
+    "Este medí ocho mil docientas varas y no hallé sobre esta li-",
+    "nea el esquinero Norte de Echevarria ni el Este de Rocha; pe-",
+    "ro asegurandome el vecino D^{n} José Maria Rodriguez, hijo del",
+    "antecesor de Echevarria el lugar donde se clavó en la mensu-",
+    "ra de su padre el mojon esquinero, me trasporté á él, y",
+    "fijé la direccion del Norte treinta y dos grados Este y medí",
+    "dos mil varas hasta la interseccion del costado Nor-Este que",
+    "dista del cañon dos mil setecientas veinte varas; notando que",
+    "desde la casa de D^{n} Domingo Suares al Sur veinte y cinco grados",
+    "Este en distancia de quinientas cincuenta varas se halla el",
+    "punto donde fué colocado el esquinero Este de Rocha: esto es, se-",
+    "gun dos visuales tomadas desde este punto por el agrimensor",
+    "Ysach al medir el terreno de D^{n} Celedonio Fernandez, hoi de Ro-",
+    "driguez, Bustos y Cotes. — En seguida volví al esquinero Norte",
+    "de Echevarria y en direccion Sur treinta y dos grados Oeste medí seis",
+    "mil docientas cincuenta varas que terminaron docientas cua-",
+    "renta al noroeste del esquinero Oeste de Echevarria: desde este",
+    "mojon al norte cincuenta y ocho grados ~~al~~ Oeste medí dos mil",
+    "seiscientas ochenta varas que remataron sobre el esquinero Norte",
+    "de D^{n} Juan Gregorio Carrasco: desde el cual al Sur treinta y dos",
+    "grados Oeste medí tres mil ochocientas noventa varas hasta un",
+    "mojon (cañon de fierro) que hallé sobre la linea: continué",
+    "midiendo por la misma direccion hasta la distancia de",
+    "nueve mil veinte varas que concluyeron sobre el esquinero",
+    "Oeste de D^{n} Juan Gregorio Carrasco. — Desde este mojon",
+    "al Norte cincuenta y ocho grados Oeste medí seis mil se-",
+    "tenta varas, y de su estremo al norte treinta grados Este,",
+    "medí tres mil seiscientas ochenta varas, y no haviendo hal-",
+    "lado mojon alguno continué por la misma direccion has-",
+    "ta la distancia de cuatro mil novecientas cincuenta y tres v^{s},",
+    "de cuyo estremo al Norte sesenta grados Oeste medí cuatro",
+    "mil quinientas sesenta y ocho varas que terminaron en el",
+    "mojon de arranque. — El terreno medido tiene la figura",
+    "de un poligono irregular de nueve lados, y contiene la",
+    "area de cuatro leguas cuadradas y cincuenta y cinco centé-",
+    "simos de otra. — Linda por el Noroeste con Don Antonio Maria",
+    "Piran y D^{n} Juan Tomas Romero, por el Sudoeste con D^{n} Tomas",
+    "Laval- //"
+   ],
+   "interpretacion": "Para fijar el encuentro con la prolongación del costado NO de José María Echeverría (Ficha 015), mide desde el esquinero N de Juan Gregorio Carrasco; no encuentra ni el esquinero N de Echeverría ni el E de Rocha, pero José María Rodríguez, «hijo del antecesor de Echeverría», le indica dónde se clavó el mojón en la mensura de su padre. Otra vez la memoria vecinal suple al mojón perdido.\nAdemás, el esquinero E de Rocha queda a 550 v al S 25° E de la casa de Domingo Suares, según «dos visuales tomadas desde este punto por el agrimensor Ysach al medir el terreno de D. Celedonio Fernández, hoy de Rodríguez, Bustos y Cotes» (Ficha 012). Sigue por Echeverría (6250 v), Carrasco (2680, 3890 y 9020 v, con otro cañón de hierro), 6070, 3680 + 1273 v sin mojón y 4568 v hasta el arranque.\nResultado: polígono irregular de nueve lados, 4,55 leguas² (≈ 12.280 ha). Linda al NO con Piran y Juan Tomás Romero; al SO con Tomás Lavallén…"
+  },
+  {
+   "titulo": "Folio 2 (recto) · Linderos y notas: una mensura cuestionada",
+   "img": "img/f/019/06.jpg",
+   "fuente": "IMG_6764.JPG",
+   "nota": "Sello con foliatura «2». La cita de Lemoine va entre comillas en el margen («»). Las letras A F, L K, L M K remiten al plano.",
+   "lineas": [
+    "// len, la Sociedad Pastoril y D^{n} Pedro Velós, por el Sud-Este con D^{n}",
+    "Juan Gregorio Carrasco y D^{n} José Maria Echeverria, y por el",
+    "Nor-Este con D^{n} Santiago Casco, D^{n} Bartolo Cotes, D^{n} Ramon",
+    "Bustos y D^{n} Pedro Rodriguez, siendo los rumbos de la aguja.",
+    "Nota. — Como la venta hecha por el Gobierno de este ter-",
+    "reno á favor de D^{a} Anastacia Frias tiene por base la men-",
+    "sura del agrimensor D^{n} Fortunato Lemoine, he procedido",
+    "en la presente en todo de acuerdo con ella; y la area ha",
+    "sido calculada hasta los deslindes que esta fija; no ob-",
+    "stante se hallan en parte inciertos y cuestionados: he amo-",
+    "jonado condicionalmente. — El lindero D^{n} Tomas Lavallen",
+    "pretende la estension que hai al Sud-Oeste de la linea A F, y",
+    "dice que la denunció hace trece años, que ha pagado el ca-",
+    "non de ella como enfiteuta, y que ultimamente propuso com-",
+    "prarla, y se le mandó medir; que el expediente se halla en",
+    "manos del D^{n} Francisco Ysach: no lo ha presentado. — El",
+    "lindero D^{n} Antonio Maria Piran parece poco seguro de sus li-",
+    "mites actuales (vease su nota puesta á continuacion de la",
+    "circular á los linderos) y es de considerarse fundada su sospecha",
+    "atendiendo el hecho de hallarse ochocientas cincuenta varas",
+    "al Sud-Este el lugar donde ecsistió su esquinero Este distan-",
+    "te del punto donde terminó en la presente mensura el cos-",
+    "tado Sud-Este del mismo. — El lindero D^{n} Ramon Bustos pre-",
+    "tende sin titulo alguno se establezca la linea L K, y no el angulo",
+    "L M K. — El lindero D^{n} José Maria Echevarria supone la ecsisten-",
+    "cia de un sobrante que el agrimensor Lemoine no incluyó de",
+    "Saraví (hoi Rocha) al cual tiene derecho por que lo ha solici-",
+    "tado en compra al Superior Gobierno. — El agrimensor Lemo-",
+    "ine (vease á f^{s} 3 de este expediente) dice así: \"al fin de ella man-",
+    "\"dé poner un mojon por que me hallaba al N. E. corregido",
+    "\"de trece grados del mojon Norte de D^{n} José Rodriguez, (hoi D^{n}",
+    "\"José Maria Echeverria) cuyos linderos proccimos estan acercados á",
+    "\"este ultimo rumbo. Desde el espresado mojon que mandé poner",
+    "\"me dirijí al Sud-Oeste corregido de trece grados; á las dos mil",
+    "\"cien varas encontré el citado mojon Norte de Rodriguez, y á",
+    "\"las ocho mil docientas cincuenta el mojon Oeste del mismo apar-",
+    "\"tado un poco de la linea al Sud-Este\". — Este es el proceder",
+    "al cual he arreglado la presente mensura. = Nota 2^{a} Asis-",
+    "tieron á esta operacion personalmente los linderos D^{n} Santia- //"
+   ],
+   "interpretacion": "…la Sociedad Pastoril y Pedro Velós; al SE con Carrasco y Echeverría; al NE con Santiago Casco, Bartolo Cotes, Ramón Bustos y Pedro Rodríguez. «Siendo los rumbos de la aguja»: Eguía no corrige, igual que en 015 y 010.\nNota: como la venta del Gobierno a Anastasia Frías se basó en la mensura de Lemoine, Eguía la sigue en todo y calcula el área hasta sus deslindes, pero éstos están «en parte inciertos y cuestionados» y amojona «condicionalmente». Cuatro conflictos: Lavallén reclama lo que hay al SO de la línea A F (la denunció hace trece años, pagó canon como enfiteuta y pidió comprarla; el expediente está en manos de Francisco Ysach). Piran duda de sus límites, con fundamento: su esquinero E estuvo 850 v más al SE. Ramón Bustos pretende «sin título alguno» la línea L K. Echeverría supone un sobrante que Lemoine no incluyó en lo de Saraví y lo pidió en compra (confirma la Ficha 015). Transcribe el pasaje de Lemoine con la corrección de 13° y los mojones de José Rodríguez (hoy Echeverría)."
+  },
+  {
+   "titulo": "Folio 2 (vuelto) · Asistentes, certificación y dictamen del Departamento",
+   "img": "img/f/019/07.jpg",
+   "fuente": "IMG_6765.JPG",
+   "nota": "«para» repetido y «los» repetido en el original. Firma y rúbrica de Arenales tras la certificación. El apellido del apoderado de Lavallén (Damico [?]) es dudoso.",
+   "lineas": [
+    "// go Casco, D^{n} Ramon Bustos, D^{n} Pedro Rodriguez, D^{n} José Maria Eche-",
+    "verria, D^{n} Juan Gregorio Carrasco, D^{n} Pedro Velós y D^{n} Tomas",
+    "Lavallen. — Por la Sociedad Pastoril asistió su capataz, por D^{n}",
+    "Juan Tomas Romero asistió D^{n} Carmen Rodriguez. D^{n} Antonio",
+    "Maria Piran no asistió ni se presentó persona alguna que lo re-",
+    "presentara. = Manuel Eguia. = Nota 3^{a} — La area del terreno",
+    "medido se ha limitado en la parte que linda con el costado Nor-",
+    "Oeste de D^{n} José Maria Echeverria á la linea trazada por la pre-",
+    "sente mensura, que arranca desde el esquinero Norte de esta",
+    "propietaria al Sur treinta y dos grados Oeste hasta la interse-",
+    "ccion con el lado Nor-Oeste de D^{n} Juan Gregorio Carrasco, y no á",
+    "linea escatante [?] de mojones, como pudiera interpretarse: á fin pues",
+    "de salvar toda duda se hace esta advertencia = Manuel",
+    "Eguia.",
+    "A consecuencia de haberse estraviado el duplicado original de la men-",
+    "sura practicada por D^{n} Manuel Eguia para para D^{n} Antonio Rocha, se",
+    "ha sacado la precedente copia fiel y ecsacta de la diligencia original",
+    "que corre en el expediente de su referencia, al espedirse el informe sobre",
+    "dicha mensura: lo que certifico. Buenos aires Agosto 28 de 1839.",
+    "Arenales [rúbrica]",
+    "Señor Juez de 1^{a} Instancia = El Departamento Topografico ha ec-",
+    "saminado la antecedente diligencia de mensura de D^{n} Manuel Eguia y con-",
+    "frontadola con la primitiva que consta del titulo adjunto: el Depar-",
+    "tamento nota algunas pequeñas diferencias de mas y de menos en los va-",
+    "lores lineales de algunos de los lados que forman el poligono; pero co-",
+    "mo se ve que el agrimensor se ha sujetado á los mojones y limites que",
+    "designa el titulo, el Departamento mira la presente operacion como",
+    "ratificacion de la primera, y es de dictamen que sea aprobada co-",
+    "mo conforme con el titulo de su referencia. = Este dictamen no es",
+    "estensivo á comprometer de modo alguno los derechos ó pretenciones de los",
+    "los linderos cuyas protestas son adjuntas: pues como estas no se ver-",
+    "san acerca del deslinde, sino acerca de alguna parte del terreno me-",
+    "dido, los opositores podran entablar sus acciones en la forma que",
+    "crean mas conveniente, para considerarse por separado. Esta obser-",
+    "vacion es estensiva al lindero D^{n} Antonio Maria Piran, quien po-",
+    "drá esponer lo que crea conveniente, en orden al mojon que se dice",
+    "ecsistir en el punto designado por el agrimensor. = Por la ante-",
+    "cedente diligencia de mensura, resulta el terreno de D^{n} Antonio Ro-",
+    "cha con un ecseso de area igual á una decima parte de legua cua-",
+    "drada; sobre la cual, la parte interesada esta en el caso de ocurrir",
+    "ante el Superior Gobierno por un competente titulo. = Entre las pro-",
+    "testas presentadas contra esta mensura, obra una de D^{n} Genaro Damico [?],",
+    "á nombre de Don Tomas Anselmo Lavallen, quien, por expediente",
+    "sepa- //"
+   ],
+   "interpretacion": "Asistieron en persona Santiago Casco, Ramón Bustos, Pedro Rodríguez, José María Echeverría, Juan Gregorio Carrasco, Pedro Velós y Tomás Lavallén; por la Sociedad Pastoril su capataz y por Juan Tomás Romero, Carmen Rodríguez. Piran no asistió ni mandó representante. Nota 3.ª: el área se limita, del lado de Echeverría, a la línea trazada ahora y no a la «escatante [?]» de mojones.\nArenales certifica (28/8/1839) que es copia de la diligencia original porque se extravió el duplicado. El Departamento compara con la mensura primitiva del título: hay «pequeñas diferencias de más y de menos» en algunos lados, pero como el agrimensor se sujetó a los mojones del título, mira la operación «como ratificación de la primera» y aconseja aprobarla. El dictamen no compromete los derechos de los linderos que protestaron: sus reclamos son sobre partes del terreno y deben tramitarse aparte. Hay un exceso de 0,1 legua² por el que Rocha debe pedir título al Gobierno."
+  },
+  {
+   "titulo": "Folio 3 (recto) · Fin del dictamen: la protesta de Lavallén",
+   "img": "img/f/019/08.jpg",
+   "fuente": "IMG_6766.JPG",
+   "nota": "Sello con foliatura «3». Firmas autógrafas de J. Arenales y Juan María Gutiérrez. «esta» testado.",
+   "lineas": [
+    "// separado solicita ante el superior Gobierno la parte de terreno que men-",
+    "cionan estas diligencias: y habiendo otro agrimensor medido ~~esta~~ re-",
+    "cientemente esta misma parte, por comision superior; el Departam^{to}",
+    "Topografico, al informar ante S. E. sobre esta operacion, ha creido",
+    "propio del caso agregar como lo ha hecho, dicha protesta al expedien-",
+    "te del mencionado Lavayen. — Buenos aires Agosto 28 de 1839.",
+    "J. Arenales [rúbrica]          Juan María Gutiérrez [rúbrica]"
+   ],
+   "interpretacion": "Lavallén pide en expediente separado la parte de terreno que reclama, y otro agrimensor la midió hace poco por comisión superior; por eso el Departamento agrega su protesta al expediente de «Lavayen». Buenos Aires, 28 de agosto de 1839; firman Arenales y Gutiérrez. Es la continuación del conflicto Lima–Lavallén de la Ficha 013 (1827)."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Antonio Rocha (4 leguas² y 55 centésimos)",
+   "img": "img/f/019/03.jpg",
+   "fuente": "IMG_6767.JPG (detalles en IMG_6768-6770)",
+   "orientacion": "Pliego a tinta, con escala de transversales a la derecha; dos flechas (aguja y verdadero, «13°»); vértices A–M; firma «Febrero 4 de 1839 – Manuel Eguía».",
+   "interpretacion": "Polígono de nueve lados rotulado «Antonio Rocha – Área = 4 leguas cuadradas y 55 centésimos». El mojón de arranque A (cañón) está arriba a la derecha; el lado largo A–I, a la derecha, linda con «Antonio M.ª Piran», y abajo con Juan Tomás Romero y Santiago Casco, B. Cotes, R. Bustos y Rodríguez. A la izquierda, J. M.ª Echeverría y Juan Greg.º Carrasco; arriba, Pedro Velós, la Sociedad Pastoril y Tomás Laballén.\nLas líneas de puntos marcan los reclamos: «límite según la protesta de Laballén» (A–F), «límite de la protesta de Echeverría» y la línea L–K de Bustos. Junto al vértice SE se lee «lugar del mojón de Piran según D. Pedro Blanco». Dentro del campo hay poblaciones con nombre (José M.ª Casado, B. Ontiveros, A. Reinoso, N. Millares, V. Ayala, Francisco Sosa, Lorenzo Enrique), la «Cañada de Romero» y un camino. Abajo, la tabla «Demarcación de mojones» da para cada vértice las visuales a estancias y casas.",
+   "referencias": [
+    [
+     "A · Mojón de arranque (cañón)",
+     "Visuales: estancia de Tomás Laballén N 42° O · Lorenzo Enrique S 45° E · Anselmo Farías N 65° O"
+    ],
+    [
+     "B",
+     "Santiago Casco N 3° E · Matías Abaca S 83° E"
+    ],
+    [
+     "C",
+     "Celedonio Fernández N 25° O · Anastasio Gaute N 26° E"
+    ],
+    [
+     "D",
+     "José M.ª Echeverría N 63° E · Francisco Sosa S 22° O"
+    ],
+    [
+     "E",
+     "Francisco Sosa S 12° E · Pedro Godoy N 77° O"
+    ],
+    [
+     "F",
+     "José M.ª Casado N 33° O · Juan P. Carrasco S 8° 30' O"
+    ],
+    [
+     "G",
+     "Pedro N. Silva S 21° E · Juan José Acosta S 31° 30' O"
+    ],
+    [
+     "H",
+     "Juan José Acosta S 14° E · Sociedad Pastoril N 62° O"
+    ],
+    [
+     "Y",
+     "Sociedad Pastoril S 45° O · Tomás Laballén N 64° O · Mariano Melindre N 76° E"
+    ],
+    [
+     "J",
+     "José M.ª Casado N 60° E · Lorenzo Enrique N 69° O · Manuel Almirón N 80° O"
+    ],
+    [
+     "Líneas de puntos",
+     "Límites según las protestas de Laballén, Echeverría y Bustos (L–K)"
+    ],
+    [
+     "Lugar del mojón de Piran",
+     "Según D. Pedro Blanco"
+    ],
+    [
+     "Poblaciones",
+     "J. M.ª Casado, B. Ontiveros, A. Reinoso, N. Millares, V. Ayala, F. Sosa, L. Enrique, M. Abaca"
+    ],
+    [
+     "Cañada de Romero",
+     "Cruza el sector E"
+    ],
+    [
+     "13°",
+     "Ángulo entre las dos flechas de norte"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "El campo de saraví, doce años después (fichas 013 y 015)",
+   "texto": "Esta mensura vuelve sobre el terreno de la Ficha 013: Eguía arranca del mismo cañón de hierro que Lemoine y «sigue el mismo proceder». La cadena queda completa: gracia a Hipólito Quiroga → enfiteusis de Bartolo Saraví (Lemoine 1826-27) → venta del Gobierno a Anastasia Frías, viuda de Juan Antonio Rodríguez (1838) → Antonio Rocha (1839). La nota sobre el sobrante que Echeverría pidió en compra coincide con la Ficha 015 (Echeverría, 1839, donde Rocha es lindero). Corrección de lectura: el lindero «Pizán [?]» de la Ficha 013 es Antonio María Piran."
+  },
+  {
+   "titulo": "Una mensura condicional: cuatro reclamos abiertos",
+   "texto": "Eguía amojona «condicionalmente» y registra los reclamos: Lavallén (enfiteuta desde hace 13 años, con expediente de compra en manos de Ysach; es el conflicto Lima–Lavallén de 1827), Piran (su mojón estaba 850 v más al SE), Bustos (sin título) y Echeverría (sobrante). El Departamento aprueba la mensura como ratificación de la primitiva y deja los reclamos para acciones separadas. Muestra cómo funcionaba el sistema: la mensura fija la figura del título y las disputas por la tierra se tramitan en otro expediente."
+  },
+  {
+   "titulo": "Memoria vecinal y mojones de hierro",
+   "texto": "Dos vecinos reemplazan a los mojones perdidos: Pedro Blanco, «vecino antiguo» y maestro de posta, indica dónde estuvo el esquinero de Piran; José María Rodríguez, hijo del antecesor de Echeverría, muestra dónde se clavó el mojón en la mensura de su padre. Además Eguía usa las visuales que había tomado Ysach en 1826 desde la casa de Domingo Suares (Ficha 012). Los mojones hallados son «cañones de fierro»: probablemente cañones viejos reutilizados como hitos, un material excepcional en la serie."
+  },
+  {
+   "titulo": "Paisaje poblado",
+   "texto": "El plano y la tabla de demarcación nombran unas veinte poblaciones: la estancia de Tomás Laballén, las casas de Lorenzo Enrique, Anselmo Farías, Matías Abaca, Anastasio Gaute, Francisco Sosa, Pedro Godoy, José M.ª Casado, Juan P. Carrasco, Pedro N. Silva, Juan José Acosta, Mariano Melindre, Manuel Almirón, y dentro del campo Ontiveros, Reinoso, Millares y Ayala. Aparecen la Sociedad Pastoril (una sociedad de estancieros como vecina) y la Cañada de Romero (ya en la Ficha 013). Comparado con los cardales vacíos de 1827, en 1839 el campo está ocupado por puesteros y vecinos."
+  },
+  {
+   "titulo": "Técnica: aguja, 13° y copia certificada",
+   "texto": "La diligencia dice «siendo los rumbos de la aguja» (sin corrección), como Eguía en 1839-40 (Fichas 010, 015). El plano, en cambio, dibuja dos flechas separadas 13°, y la cita de Lemoine habla de «N. E. corregido de trece grados»: Eguía conserva los rumbos magnéticos para empalmar con la mensura vieja. El duplicado original se extravió y Arenales certifica esta copia en agosto de 1839. El Departamento compara los lados con la mensura primitiva y acepta «pequeñas diferencias de más y de menos»."
+  },
+  {
+   "titulo": "Estado, lecturas dudosas y preguntas",
+   "texto": "Transcripta completa (3 folios y plano con tabla). Dudosos: «escatante», el apoderado Damico, algunos nombres del plano. Preguntas: ¿quién midió «recientemente» la parte de Lavallén? ¿Qué era la Sociedad Pastoril y quiénes la formaban? ¿Dónde estaba la posta de Pedro Blanco? Con los vértices A–M y la tabla de visuales se puede ajustar en el GIS el bloque Saraví–Echeverría–Carrasco–Casco."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Antonio Rocha",
+   "rol": "Propietario",
+   "texto": "Dueño en 1839 del ex campo de Saraví, que pasó por venta del Gobierno a Anastasia Frías (1838). Lindero de Echeverría en la Ficha 015. Sin más datos.",
+   "fuentes": "Esta mensura; Fichas 013, 015."
+  },
+  {
+   "nombre": "Manuel Eguía",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor público, el más presente en la serie (Fichas 003-006, 010, 015, 017). Aquí sigue los rumbos de la aguja para empalmar con Lemoine.",
+   "fuentes": "Fichas anteriores."
+  },
+  {
+   "nombre": "Fortunato Lemoine · Francisco Ysach",
+   "rol": "Agrimensores anteriores",
+   "texto": "Lemoine midió el terreno para Saraví en 1826-27 (Ficha 013). Ysach midió a Celedonio Fernández en 1826 (Ficha 012) y en 1839 tenía el expediente de Lavallén.",
+   "fuentes": "Fichas 012, 013."
+  },
+  {
+   "nombre": "Tomás Anselmo Lavallén",
+   "rol": "Lindero so, protestante",
+   "texto": "Enfiteuta que denunció la tierra al SO de la línea A F trece años antes y pidió comprarla; representado por Genaro Damico [?]. Su conflicto con Antonio Lima aparece en 1827 (Ficha 013).",
+   "fuentes": "Esta mensura; Ficha 013."
+  },
+  {
+   "nombre": "Antonio María Piran",
+   "rol": "Lindero no",
+   "texto": "No asistió ni mandó representante; dejó una nota dudando de sus límites. Es el «Pizán [?]» de la Ficha 013, que también se negó a asistir en 1827.",
+   "fuentes": "Esta mensura; Ficha 013."
+  },
+  {
+   "nombre": "José María Echeverría · Juan Gregorio Carrasco",
+   "rol": "Linderos se",
+   "texto": "Echeverría (Ficha 015) pidió en compra el sobrante no incluido por Lemoine; su antecesor fue José Rodríguez, cuyo hijo José María señala el mojón. Carrasco, lindero de Saraví y de Echeverría.",
+   "fuentes": "Fichas 013, 015."
+  },
+  {
+   "nombre": "Pedro Blanco",
+   "rol": "Vecino antiguo y maestro de posta",
+   "texto": "Indica el lugar del esquinero E de Piran. Maestro de una posta del camino de Areco; no se identificó cuál.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Anastasia Frías",
+   "rol": "Compradora al gobierno (1838)",
+   "texto": "Viuda y albacea de Juan Antonio Rodríguez; compró el campo por decreto Rosas-Insiarte del 25/10/1838 (Ficha 013).",
+   "fuentes": "Ficha 013."
+  },
+  {
+   "nombre": "José Arenales · Juan María Gutiérrez",
+   "rol": "Departamento topográfico",
+   "texto": "Certifican la copia y firman el dictamen del 28/8/1839. Son los mismos que ese año anulan a Hidalgo (Ficha 018).",
+   "fuentes": "Fichas 015, 018."
+  },
+  {
+   "nombre": "Linderos y vecinos",
+   "rol": "Personas nombradas",
+   "texto": "Juan Tomás Romero (representado por Carmen Rodríguez), Santiago Casco (Ficha 014), Bartolo Cotes, Ramón Bustos, Pedro Rodríguez, Pedro Velós, Domingo Suares, la Sociedad Pastoril (su capataz), Celedonio Fernández (Ficha 012) y los vecinos de la tabla de mojones. Sin datos biográficos localizados.",
+   "fuentes": "Esta mensura y su plano."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/019/02.jpg",
+  "fuente": "IMG_6761.JPG",
+  "lineas": [
+   "N.º 88.        G.^{les} 19",
+   "Secc.^{n} Areco",
+   "Mensura del terreno",
+   "de propiedad",
+   "D. Antonio Rocha",
+   "[interlineado:] en el Fortin de Areco. —",
+   "practicada",
+   "por",
+   "El Agrimensor Eguia",
+   "en",
+   "4 de Febrero de 1839"
+  ]
+ },
+ "titulo": "D. Antonio Rocha",
+ "estado": "Transcripta (5 hojas, 168 renglones), 1 lámina"
+}

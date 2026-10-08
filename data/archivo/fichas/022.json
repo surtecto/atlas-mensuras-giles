@@ -1,0 +1,547 @@
+{
+ "carpeta": "22",
+ "carpeta_nombre": "Carpeta 22",
+ "archivo": "Ficha 022 - Patricio Wheeler (1858).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Sección Areco)",
+  "N.º de duplicado": "22 (portadilla N.º 98)",
+  "Propietario / solicitante": "D. Patricio Wheeler",
+  "Agrimensor": "Theodoro (Teodoro) Differt",
+  "Año": "1858",
+  "Fecha de la diligencia": "26/6/1858; D. T. 3/9/1858; juez 2/10/1858",
+  "Ubicación": "Margen izquierda del arroyo de Giles, cruzada por el arroyo de Suero",
+  "Orden judicial": "Juez de 1.ª instancia Dr. Juan Agustín García (19/4/1858)",
+  "Vendedor / antecesor": "P. Rodríguez → L. Maldonado (1842) → F. Torres (1842) → Wheeler (1854)",
+  "Linderos citados": "R. de Dios · P. Puebla · G. Mooney (ex Del Sar) · M. Marfilo · C. Benites",
+  "Medidas": "2500 v de frente × 6000 v; medido 15.000.905 v²",
+  "Rumbos": "Corregidos; variación 11° 30' NE por amplitud del sol (11/7/1858)",
+  "Referencia de archivo": "Portadilla «San A. de Giles 22 · Duplicado · Sección Areco · N.º 98»"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 1125 (15.000.905 v²)",
+  "hitos": "Mojón de cañón de fierro; mojón de piedra; San Cristóbal; posta; puesto",
+  "aguas": "Arroyo de Giles; arroyo de Suero / Cañada de Sosa"
+ },
+ "sintesis": "Mensura de Theodoro Differt (26/6/1858) del campo de Patricio Wheeler, 2500 × 6000 v en la margen izquierda del arroyo de Giles, cruzado por el arroyo de Suero. Cadena: Pedro Rodríguez → Luis Maldonado → Francisco Torres (1842) → Wheeler (1854). Parte de la línea de Marfil (mojón de cañón de fierro y de piedra), releva el arroyo por estaciones y calcula el área por coordenadas: 15.000.905 v², igual al título. Variación 11° 30' NE por el sol del 11 de julio, con latitud 34° 20'. Linderos conformes; aprobada por el D. T. y el juez J. A. García (oct. 1858). El plano rotula la estancia «San Cristóbal» y una «Posta».",
+ "caratula": {
+  "img": "img/f/022/01.jpg",
+  "fuente": "IMG_6851.JPG",
+  "campos": [
+   [
+    "N.º",
+    "22"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Patricio Wheeler"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Teodoro Differt"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1858"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 (recto) · Extracto de títulos y arranque de la mensura",
+   "img": "img/f/022/04.jpg",
+   "fuente": "IMG_6853.JPG",
+   "nota": "Sello del Departamento Topográfico y foliatura «1». Fechas al margen izquierdo, parcialmente cortadas.",
+   "lineas": [
+    "Estracto de los titulos",
+    "del",
+    "Señor Don Patricio Wheeler",
+    "[al margen:] (27 de Agosto 1842)",
+    "En veinte y siete de Agosto de mil ocho cientos cuarenta y dos",
+    "Don Luiz Maldonado vende á Don Francisco Torres",
+    "un terreno de estancia sito en el Partido de San Andres de",
+    "Giles y en la margen izquierda del arroyo de Giles,",
+    "compuesto de dos mil quinientas varas de frente con seis mil",
+    "varas de fondo, siendo este terreno fraccion principal de otro",
+    "mayor el que constaba de tres mil varas de frente sobre el",
+    "mismo arroyo, y seis mil varas de fondo, habiendo ya pasado",
+    "quinientas varas de frente á manos de Doña Carmen Benites.",
+    "Le corresponde á Don Luiz Maldonado el terreno vendido",
+    "por compra que del hizo á Don Pedro Rodriguez en",
+    "[al margen:] (vein[te] de Marzo de 1842)",
+    "mil ocho cientos cuarenta y dos.",
+    "[al margen:] (vein]te y tres de Setiembre de 1854)",
+    "Mil ocho cientos cincuenta y cuatro Don Fran-",
+    "cisco Torres traspasa este terreno á Don Patricio Wheeler",
+    "actual posesor, siendo lindero por el Norte Don Vicente Marfil,",
+    "por el Oeste Don Francisco Del Sar, por el Sur Doña",
+    "Carmen Benites.",
+    "Diligencias de Mensura",
+    "En el Partido de San Andres de Giles á veinte y seis de Junio",
+    "de mil ocho cientos cincuenta y ocho. —",
+    "Hallandose el agrimensor que suscribe autorizado judi-",
+    "cialmente por Decreto fecha Diez y nueve de Abril del",
+    "corriente año, del Señor Juez de Primera Instancia",
+    "Doctor Don Augustin Garcia, para medir el",
+    "terreno de propiedad de Don Patricio Wheeler, pré-",
+    "via citacion de linderos que original se acompaña",
+    "á estas Diligencias; se tomó como base, dando",
+    "asi principio á la mensura, la linea limite",
+    "Nordeste del terreno que fué de Don Vicente",
+    "Marfil y que ahora es de Don Rosendo de Dios",
+    "y de Don Pedro Puebla. Dicho limite Nordeste"
+   ],
+   "interpretacion": "Títulos de Patricio Wheeler: el 27/8/1842 Luis Maldonado vende a Francisco Torres un terreno de estancia en San Andrés de Giles, en la margen izquierda del arroyo de Giles, de 2500 v de frente por 6000 de fondo; es la fracción principal de otro de 3000 × 6000 v del que 500 v ya habían pasado a Carmen Benites. Maldonado lo había comprado a Pedro Rodríguez en marzo de 1842. El 23/9/1854 Torres lo traspasa a Wheeler. Linderos: al N Vicente Marfil, al O Francisco Del Sar, al S Carmen Benites.\nDiligencia: San Andrés de Giles, 26 de junio de 1858. Differt, comisionado el 19 de abril por el juez de 1.ª instancia Dr. Agustín García, cita a los linderos y toma como base la línea límite NE del terreno que fue de Vicente Marfil, hoy de Rosendo de Dios y Pedro Puebla."
+  },
+  {
+   "titulo": "Folio 1 (vuelto) · Mojón de «cañón de fierro», frente sobre el arroyo de Giles y lado de Puebla",
+   "img": "img/f/022/05.jpg",
+   "fuente": "IMG_6854.JPG",
+   "nota": "«con la ante-» testado y «con la» sobrescrito.",
+   "lineas": [
+    "// está marcado en su estremo Oeste con un mojon, cañon de",
+    "fierro clavado, y en su estremo Este con un mojon de",
+    "piedra clavado en la margen izquierda del arroyo",
+    "de Giles de cuya costa dista (220) dos cientas veinte",
+    "varas.",
+    "Desde este mojon al (S 43° 2' O) Sur cuarenta y tres",
+    "grados dos minutos Oeste, haciendo ángulo recto ~~con la ante-~~ con la",
+    "referida linea de Don Vicente Marfil la que corre al",
+    "Rumbo Norte cuarenta y seis grados cincuenta y",
+    "ocho minutos Oeste se midieron Mil varas (1000 v.^{s}) de",
+    "frentes; siendo quinientas (500 v.^{s}) las que corresponden á",
+    "Don Rosendo de Dios, y otras quinientas varas que son",
+    "de Don Pedro Puebla.",
+    "Desde el punto en el cual quedaron salvas las Mil (1000)",
+    "varas de frente de la antigua propiedad de Don Vicente",
+    "Marfil, al Sur cuarenta y seis grados cincuenta y ocho",
+    "minutos Este se marcó un punto correspondiente en la costa",
+    "del arroyo de Giles en cuyo punto se colocó un mojon de",
+    "palo con el cual quedó marcado el ángulo Este del terreno",
+    "que se debe medir.",
+    "Desde este mojon al Sur cuarenta y tres grados dos minutos",
+    "Oeste (S 43° 2' O) se midieron el frente de dos mil quinien-",
+    "tas varas (2500 v.^{s}) conforme al titulo de Don Patricio",
+    "Wheeler y se colocó una señal; hecho esto se volvió en",
+    "la misma linea y desde el mojon colocado en el ángulo",
+    "Este del terreno que se mide al Norte cuarenta y seis",
+    "grados cincuenta y ocho minutos Oeste (N 46° 58' O) dividiendo á",
+    "la derecha tierra de Don Pedro Puebla se midieron",
+    "Cinco mil setecientas treinta y siete (5737) varas habien-",
+    "do se cruzado el arroyo de Suero á las cuatro mil quinientas",
+    "diez (4510) varas á las dos mil quinientas (2500) varas se co-",
+    "locó un mojon de palo como igualmente en el estremo de",
+    "esta linea á las Cinco mil setecientas treinta y siete",
+    "(5737) varas, siendo el último signo de Division",
+    "con Don Pedro Puebla y Don Guillermo",
+    "Mooney actual posesor del terreno —"
+   ],
+   "interpretacion": "La línea de Marfil está marcada al O por un mojón de «cañón de fierro clavado» y al E por un «mojón de piedra» en la margen izquierda del arroyo de Giles, a 220 v de la costa. Desde allí, en ángulo recto (S 43° 2' O), mide 1000 v de frentes de la antigua propiedad de Marfil (500 de Rosendo de Dios, 500 de Pedro Puebla). Desde ese punto baja al arroyo (S 46° 58' E): mojón de palo, ángulo E del terreno de Wheeler. Mide los 2500 v de frente al S 43° 2' O y pone una señal. Vuelve al ángulo E y mide el lado NE (N 46° 58' O, lindando con Pedro Puebla): 5737 v, cruzando el arroyo de Suero a las 4510 v; mojones a 2500 y 5737 v, último signo de división con Puebla y con Guillermo Mooney, «actual poseedor del terreno…»"
+  },
+  {
+   "titulo": "Folio 2 (recto) · Fondo con Mooney, lado de Marfilo y Benites, y el arroyo por estaciones",
+   "img": "img/f/022/06.jpg",
+   "fuente": "IMG_6855.JPG",
+   "nota": "Sello de foliatura «2». Comillas bajas en «Estaciones».",
+   "lineas": [
+    "// que fué de Don Francisco Del Sar.",
+    "Desde este mojon ángulo Norte del terreno de",
+    "Don Patricio Wheeler, haciendo ángulo recto con",
+    "la linea anterior al Sur cuarenta y tres grados",
+    "dos minutos Oeste dividiendo con Don Guillermo",
+    "Mooney se midieron dos mil quinientas varas",
+    "(2500 v.^{s}), á las mil (1000 v.^{s}) varas se cruzó el",
+    "Arroyo de Suero á las mil dos cientas cincuen-",
+    "ta varas (1250 v.^{s}) se colocó un mojon de palo y",
+    "otro mojon para marcar el ángulo Oeste del terreno",
+    "que se mide, á las dos mil quinientas (2500) varas",
+    "las cuales corresponden al frente del mismo",
+    "terreno.",
+    "Desde este punto haciendo ángulo recto con la",
+    "linea anterior, y en direccion á la señal colocada",
+    "hacia el Arroyo de Giles, la que corresponde al",
+    "frente de dos mil quinientas varas, al Sur",
+    "cuarenta y seis grados cincuenta y ocho minutos Este",
+    "(S 46° 58' E) y dividiendo con Doña Micaela",
+    "Marfilo y Doña Carmen Benites se midieron",
+    "hasta la costa del Arroyo Seis mil dos",
+    "cientas treinta y siete varas (6237) se colocó",
+    "sobre esta linea un mojon de palo á las tres mil",
+    "dos cientas treinta y siete varas (3237) y en el es-",
+    "tremo de esta linea á las seis mil dos cientas",
+    "treinta y siete varas (6237) otro mojon con que",
+    "quedó marcado el ángulo Sur del terreno de Don",
+    "Patricio Wheeler.",
+    "Desde el dicho mojon para determinar la costa",
+    "del Arroyo de Giles como limite natural, se",
+    "procedió por „Estaciones„ midiendose al Norte",
+    "veinte y cuatro grados cincuenta y nueve minutos Este",
+    "Mil setenta y nueve varas (N 24° 59' E, 1079 v.^{s}) al",
+    "Norte cincuenta y dos grados ocho minutos Este",
+    "nueve cientas ochenta y seis varas (N 52° 8' E, 986 v.^{s})",
+    "y al Norte catorce grados diez minutos Este,",
+    "quinientas noventa y tres varas (N 14° 10' E, 593 v.^{s})"
+   ],
+   "interpretacion": "…que fue de Francisco Del Sar. Desde el ángulo N, en ángulo recto (S 43° 2' O), mide el fondo lindando con Guillermo Mooney: 2500 v; cruza el arroyo de Suero a las 1000 v; mojones a 1250 y 2500 v (ángulo O). Desde allí, en ángulo recto (S 46° 58' E), lindando con Micaela Marfilo y Carmen Benites, 6237 v hasta la costa del arroyo de Giles (mojón a 3237 v y otro en el ángulo S).\nLa costa del arroyo, límite natural, se releva «por estaciones»: N 24° 59' E 1079 v, N 52° 8' E 986 v y N 14° 10' E 593 v."
+  },
+  {
+   "titulo": "Folio 2 (vuelto) · Superficie, variación, linderos conformes y cálculo por coordenadas",
+   "img": "img/f/022/07.jpg",
+   "fuente": "IMG_6856.JPG",
+   "nota": "El texto dice «Once grados treinta minutos» pero la cifra entre paréntesis parece «11° 20'»; en el folio siguiente se escribe 11° 30'. Dos «Nota» marginales.",
+   "lineas": [
+    "Con lo que quedó marcado este limite natural,",
+    "en toda la estension del frente, que corresponde",
+    "al terreno que se mide y por fin terminada la men-",
+    "sura solicitada.",
+    "Consta la superficie del terreno medido de Quince",
+    "Millones y nueve cientas cinco varas (15000905)",
+    "Cuadradas ó con aproximacion de nueve cientas",
+    "cinco varas (905) igual á la del titulo.",
+    "Todo ha sido medido á rumbos corregidos,",
+    "resultando segun observacion una Variacion",
+    "magnética de Once grados treinta minutos",
+    "(11° 20' [sic]) Nordeste.",
+    "[al margen:] Nota",
+    "Asistieron á esta mensura los linderos:",
+    "Don Guillermo Mooney, Don Pedro",
+    "Puebla, por Doña Micaela Marfilo",
+    "asistió su sobrino Don Loreto Ponce quien",
+    "como hijo tambien representó á Doña Carmen",
+    "Benites; todos quedaron conformes",
+    "Theodoro Differt [rúbrica]",
+    "[al margen:] Nota",
+    "Consta la figura del terreno medido de",
+    "un paralelógramo con un fondo de Cinco mil",
+    "setecientas treinta y siete varas (5737 v.^{s}) y un",
+    "ancho ó frente de dos mil quinientas (2500) varas",
+    "el cual representa un área de catorce Millones",
+    "tres cientas cuarenta y dos mil quinientas varas cuadradas",
+    "5737 × 2500 v.^{s} =   14342500",
+    "mas la figura irregular comprendida entre",
+    "las Estaciones arriba descriptas y la linea",
+    "de frente sobre la cual se han calculado",
+    "las Coordenadas siguientes:",
+    "X^{1} = 0   Y^{1} = 500",
+    "X^{2} = 1028   Y^{2} = 165",
+    "X^{3} = 2001,5   Y^{3} = 321",
+    "X^{4} = 2500   Y^{4} = 0",
+    "Transporte 14.342.500"
+   ],
+   "interpretacion": "Superficie medida: 15.000.905 v², igual a la del título (2500 × 6000 = 15.000.000) con 905 v² de diferencia. Rumbos corregidos con variación de 11° 30' NE observada.\nAsistieron Guillermo Mooney, Pedro Puebla y, por Micaela Marfilo, su sobrino Loreto Ponce, que también representó como hijo a Carmen Benites: todos conformes. Firma Theodoro Differt.\nNota de cálculo: paralelogramo de 5737 × 2500 v = 14.342.500 v², más la figura irregular entre las estaciones y la línea de frente, con coordenadas X/Y (0/500; 1028/165; 2001,5/321; 2500/0)."
+  },
+  {
+   "titulo": "Folio 3 (recto) · Fórmula de superficies, observación del sol (11/7/1858) y dictamen",
+   "img": "img/f/022/08.jpg",
+   "fuente": "IMG_6857.JPG",
+   "nota": "Sello de foliatura «3». Varias cifras del cálculo y de las amplitudes se leen con dificultad; los productos parciales no cierran exactamente con los factores.",
+   "lineas": [
+    "[al margen:] Transporte / Cuadradas / 14.342.500",
+    "y haciendo aplicacion de la formula especial",
+    "de superficies",
+    "(Y^{1} – Y^{3}) X^{2} = 1028 (500 – 321) = 184012",
+    "(Y^{2} – Y^{4}) X^{3} = 2001,5 (165 – 0) = 330247 [?]",
+    "(Y^{3} + Y^{4}) X^{4} = 2500 (321 + 0) = 802500",
+    "2) 1316809 [?]",
+    "resulta un area de: varas cuad.^{s} 658405",
+    "seis cientas cincuenta y ocho mil cuatro cientas y cinco",
+    "varas cuadradas las que agregadas á la ante-",
+    "riores resultan quince millones nueve cientas cinco",
+    "varas cuadradas y siendo la del titulo —",
+    "quince millones de varas cuadradas resulta aun",
+    "un exeso de nueve cientas cinco varas cuadradas",
+    "[al margen:] 658405 / 15.000905 v.^{s} c.^{s} / 15.000000 / 905 v.^{s} c.^{s}",
+    "La variacion magnetica se determinó por",
+    "Amplitud, observando el Sol al ponerse",
+    "el dia once 11 de Julio del corriente año",
+    "Orilla inferior  N 74° 19' O.",
+    "Orilla superior  N 74° 39' O",
+    "Azimuth Centro d. ☉  N 74° 29' O ó",
+    "Amplitud magnet.^{ca}  O 15° 31' N [?]",
+    "y siendo el Amplitud verdadero",
+    "para el dia, y Latitud 34° 20' S.  O 27° 1' N [?]",
+    "resulta la variacion magnética  N E 11° 30' [?]",
+    "Once grados treinta minutos Nordeste",
+    "Differt [rúbrica]",
+    "Señor Juez de 1.^{a} Instancia.",
+    "Examinada la anterior operacion de mensura",
+    "practicada por el agrimensor D.^{n} Teodoro",
+    "Differ del terreno perteneciente á Don",
+    "Patricio Wheeler sito en el Partido",
+    "de Giles y arroyo del mismo nombre",
+    "el Departamento Topográfico no tiene",
+    "[signos de llenado de renglón]"
+   ],
+   "interpretacion": "Aplicando «la fórmula especial de superficies» (una fórmula de coordenadas tipo Gauss: suma de productos cruzados dividida por 2) obtiene 658.405 v² para la franja entre línea y arroyo; total 15.000.905 v², exceso de 905 v² sobre el título.\nVariación: por amplitud del sol al ponerse el 11 de julio de 1858: orilla inferior N 74° 19' O, superior N 74° 39' O, centro N 74° 29' O; comparada con la amplitud verdadera calculada «para el día y latitud 34° 20' S», da 11° 30' NE. Es la única vez en la serie que se declara la latitud usada en el cálculo.\nDictamen del D. T. al juez: examinada la mensura de «Teodoro Differ» del terreno de Wheeler «en el partido de Giles y arroyo del mismo nombre», no tiene…"
+  },
+  {
+   "titulo": "Folio 3 (vuelto) · Firmas del D. T. y nota de sobrante (1866)",
+   "img": "img/f/022/09.jpg",
+   "fuente": "IMG_6858.JPG",
+   "nota": "Cinco firmas con rúbrica. «Rois» [?] podría leerse «Ruiz». La mitad inferior está en blanco.",
+   "lineas": [
+    "// reparo alguno que hacer respecto de ella:",
+    "y por lo tanto la considera en estado de",
+    "ser aprobada judicialmente.",
+    "Buenos Ayres Septiembre 3 de 1858.",
+    "Salas [rúbrica]   Pico [rúbrica]   Fernandez [rúbrica]",
+    "A. Fernandez [rúbrica]   Malaver [rúbrica]",
+    "Nota = D.^{n} José Rois [?] pide en compra",
+    "un sobrante que dice existe entre",
+    "la propiedad de Patricio Wheeler y",
+    "Natal Torres — El D. inf. en Abril",
+    "17 de 1866.",
+    "Salas [rúbrica]",
+    "[resto de la hoja en blanco; se transparenta el texto del reverso]"
+   ],
+   "interpretacion": "…reparo alguno y la considera en estado de ser aprobada judicialmente. Buenos Aires, 3 de septiembre de 1858. Firman Salas, Pico, Fernández, A. Fernández y Malaver (el mismo quinteto de la Ficha 021).\nNota: José Rois [?] pide en compra un sobrante que dice existe entre la propiedad de Patricio Wheeler y la de Natal Torres; el Departamento informó el 17 de abril de 1866 (firma Salas). Natal Torres es lindero también de Morgan (Ficha 020): otro caso de la ola de denuncias de sobrantes de 1865-66."
+  },
+  {
+   "titulo": "Folio 4 · Oficio del juez Agustín García: aprobación judicial",
+   "img": "img/f/022/10.jpg",
+   "fuente": "IMG_6859.JPG",
+   "nota": "Papel sellado «3 PESOS», sello «ESTADO DE BUENOS-AYRES 1858» y foliatura del D. T. Al margen, a lápiz, «Cumplt.o».",
+   "lineas": [
+    "[al margen, a lápiz:] Cumplt.^{o} / [rúbrica]",
+    "[sello impreso:] 3 PESOS   [sello:] ESTADO DE BUENOS-AYRES 1858",
+    "Correspond.^{e}",
+    "Buenos Ayres Oct.^{e} 6 de 1858.",
+    "Al S.^{or} Presid.^{te} del Departamento",
+    "topografico. —",
+    "En los autos promovidos por Don",
+    "Patricio Wheeler sobre mensura",
+    "de unos campos que posee en",
+    "el partido de Giles ha recaido el",
+    "auto del tenor siguiente —",
+    "„Buenos Ayres Octubre 2 de 1858 —",
+    "Autos y vistos: De conformidad",
+    "con el Agente Fiscal en lo civil",
+    "se aprueba en cuanto ha",
+    "lugar por derecho y con la ca-",
+    "lidad de sin perjuicio de tercero",
+    "la mensura practicada por el",
+    "Agrimensor D. Teodoro Differt",
+    "de los campos pertenecientes á",
+    "Don Patricio Wheeler existentes",
+    "en el partido de San Andres",
+    "de Giles, cuya diligencia se",
+    "registra á fojas catorce y",
+    "quince, interponiendo el Juz-",
+    "gado para su mayor validez",
+    "la autoridad que ejerce. Co-",
+    "muniquese al Departa-",
+    "mento topografico por medio",
+    "del correspondiente oficio"
+   ],
+   "interpretacion": "Buenos Aires, 6 de octubre de 1858. El juez comunica al presidente del Departamento Topográfico el auto del 2 de octubre en los autos de Patricio Wheeler: de conformidad con el agente fiscal en lo civil, aprueba «en cuanto ha lugar por derecho y con la calidad de sin perjuicio de tercero» la mensura de Teodoro Differt de los campos de Wheeler en San Andrés de Giles (diligencia a fojas 14 y 15), interponiendo la autoridad del juzgado, y manda comunicarlo al Departamento…"
+  },
+  {
+   "titulo": "Folio 4 (vuelto) · Firma del juez y agregación al duplicado",
+   "img": "img/f/022/11.jpg",
+   "fuente": "IMG_6860.JPG",
+   "nota": "Firma «J. Agustín García» con gran rúbrica; decreto de Salas.",
+   "lineas": [
+    "// fecho entreguese el expediente",
+    "al interesado prévia satisfa-",
+    "cion de costas y reposicion",
+    "del sello. = Juan Agustin",
+    "Garcia „",
+    "En virtud de lo ordenado en",
+    "el preinserto auto dirijo",
+    "á V. el presente para los",
+    "efectos correspondientes —",
+    "Dios gue. á V. m.^{s} a.^{s}",
+    "J. Agustin Garcia [rúbrica]",
+    "Octubre 9 de 1858",
+    "Agreguese al duplicado",
+    "de su referencia, prévio acuse",
+    "de recibo",
+    "Salas [rúbrica]"
+   ],
+   "interpretacion": "…y entregar el expediente al interesado previo pago de costas y reposición del sello. Firma Juan Agustín García. El 9 de octubre de 1858 Salas ordena agregar el oficio al duplicado, previo acuse de recibo. Con esto el duplicado queda completo: títulos, diligencia, cálculo, dictamen técnico y aprobación judicial."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Patricio Wheeler (1858)",
+   "img": "img/f/022/03.jpg",
+   "fuente": "IMG_6861.JPG (detalles en IMG_6862-6865)",
+   "orientacion": "Tinta en recuadro; escala 1:18000 con escala gráfica de transversales; flecha «Norte verd.»; firma de Differt en el título.",
+   "interpretacion": "«PLANO del terreno de propiedad de PATRICIO WHEELER sito en el Partido de San Andrés de Giles; su área consta de quince millones novecientas y cinco varas cuadradas según mensura judicial practicada en junio de 1858 por Theodoro Differt. Escala 1/18000».\nUn gran rectángulo con el lado E sobre el «Arroyo de Giles» (sinuoso, con la palabra «arranque» en el mojón NE). Adentro: «PATRICIO WHEELER – título de Pedro Antonio Rodríguez», la población «San Cristóbal» (nombre de la estancia), un «Puesto» y un corral. Lo cruza de N a S un curso rotulado «Arroyo…» y «Cañada de Sosa», que desagua hacia el O. Arriba: «ROSENDO DE DIOS – título de Vicente Marfil» y «PEDRO PUEBLA», con una «Posta» junto al curso. Al O «GUILLERMO MOONEY – título de Francisco Del Sar»; al S «MICAELA MARFILO» y «CARMEN BENITES – título de Pedro Antonio Rodríguez», con «Pulleros [?]»; al NE, pasando el arroyo, «LORENZO TORRES».",
+   "referencias": [
+    [
+     "Arroyo de Giles",
+     "Límite E; relevado por estaciones"
+    ],
+    [
+     "Arroyo (de Suero) · Cañada de Sosa",
+     "Curso interior N–S"
+    ],
+    [
+     "San Cristóbal",
+     "Población / casco de Wheeler"
+    ],
+    [
+     "Posta",
+     "Junto a Pedro Puebla, sobre el curso"
+    ],
+    [
+     "Puesto",
+     "Dentro del campo, al SO"
+    ],
+    [
+     "Rosendo de Dios · Pedro Puebla",
+     "Linderos N (título de Vicente Marfil)"
+    ],
+    [
+     "Guillermo Mooney",
+     "Lindero O (título de Francisco Del Sar)"
+    ],
+    [
+     "Micaela Marfilo · Carmen Benites",
+     "Linderos S (título de Pedro Antonio Rodríguez)"
+    ],
+    [
+     "Lorenzo Torres",
+     "Al otro lado del arroyo de Giles"
+    ],
+    [
+     "arranque",
+     "Mojón de piedra, a 220 v de la costa"
+    ],
+    [
+     "N 46° 58' O · S 43° 2' O",
+     "Rumbos de los lados"
+    ],
+    [
+     "Escala",
+     "1/18000, transversales"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Dónde está: aguas arriba, margen izquierda del arroyo de giles",
+   "texto": "Es un rectángulo casi perfecto de 2500 × 5737 v (más la franja irregular hasta el arroyo) sobre la margen izquierda del arroyo de Giles, cruzado por el arroyo de Suero / Cañada de Sosa. Linda con los herederos de Marfil (De Dios, Puebla, Micaela Marfilo), con Benites y con Mooney, que ocupa tierra ex Del Sar. El título viene de Pedro Antonio Rodríguez: puede ser el mismo Pedro Rodríguez de la Ficha 012 (que compró en 1838 el campo de Celidonio Fernández) o de la Ficha 017 (campo de Pividal «ex J. P. Rodríguez»). El plano de 1890 (cuartel 5, «Wheeler») lo ubica: ver nota en METODO sobre los cuarteles."
+  },
+  {
+   "titulo": "Irlandeses: wheeler, mooney y la ola ovina",
+   "texto": "En 1854 Francisco Torres vende a Patricio (Patrick) Wheeler y el lindero O ya es Guillermo (William) Mooney. Junto con Morgan y Duggan (Ficha 020) y Macome/Butterfield (002), se consolida un bloque de propietarios irlandeses y británicos entre los arroyos de Giles y Areco en la década de 1850, coincidente con la expansión del lanar. El nombre de la estancia, «San Cristóbal», y el patronímico castellanizado muestran la integración de los recién llegados."
+  },
+  {
+   "titulo": "Técnica: estaciones, coordenadas y latitud 34° 20'",
+   "texto": "Differt repite su método de la Ficha 021, un mes después: base en una línea amojonada existente (con mojón de «cañón de fierro», como Lemoine y Eguía en 013 y 019), frente y lados en ángulo recto, arroyo relevado por estaciones (poligonal) y área calculada con coordenadas por «la fórmula especial de superficies». La variación, 11° 30' NE, sale de la amplitud del sol poniente del 11 de julio y se declara la latitud usada (34° 20' S). Serie de Differt: 11° 29' (21/6) y 11° 30' (11/7), coherente con Kuhr (11° 22', 1856)."
+  },
+  {
+   "titulo": "Ritual: mensura sin conflicto",
+   "texto": "Citación original adjunta, linderos presentes y «todos conformes»; una sola persona (Loreto Ponce) representa a dos linderas, como sobrino de una y hijo de otra. El D. T. no hace reparos y el juez aprueba «sin perjuicio de tercero» en tres meses. Contraste directo con la Ficha 021, del mismo agrimensor y el mismo mes, llena de protestas: el conflicto depende del vecino (Chapeaurouge/Del Sar) y no de la técnica."
+  },
+  {
+   "titulo": "Paisaje: posta, puesto, cañada",
+   "texto": "El plano rotula una «Posta» junto a Pedro Puebla, sobre el cruce del arroyo interior: ¿es la «posta de Rodríguez» del camino citado en la Ficha 017 («camino que va a la posta de Rodríguez», a 4600 v del arroyo de Giles)? El título viene justamente de un Pedro Antonio Rodríguez. También un «Puesto» interior y la población «San Cristóbal». La «Cañada de Sosa» confirma la toponimia por apellido de ocupantes (Ficha 020)."
+  },
+  {
+   "titulo": "Estado, lecturas dudosas y preguntas",
+   "texto": "Transcripta completa. Dudosos: la cifra de la variación en el f. 2 v. (11° 20' / 11° 30'), algunos productos del cálculo, las amplitudes magnética y verdadera, el nombre «Rois» de la nota de 1866 y «Pulleros» del plano. Preguntas: ¿la «Posta» es la de Rodríguez? ¿Qué relación hay entre Pedro Antonio Rodríguez y los Rodríguez de las Fichas 012, 017 y 021? ¿Se aprobó el sobrante pedido entre Wheeler y Natal Torres? Georreferenciación: el arroyo de Giles por estaciones y los rumbos verdaderos permiten ajustar bien el polígono."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Patricio (Patrick) Wheeler",
+   "rol": "Propietario",
+   "texto": "Compra en 1854 a Francisco Torres; su estancia se llama «San Cristóbal». Probablemente irlandés, como sus vecinos Mooney, Morgan y Duggan. No se hallaron datos confirmados en una búsqueda breve.",
+   "fuentes": "Esta mensura; búsqueda web sin resultados específicos."
+  },
+  {
+   "nombre": "Theodoro Differt",
+   "rol": "Agrimensor público",
+   "texto": "Ver Ficha 021: mismo método (coordenadas, sol, latitud), un mes después. Firma también «Differ» en el dictamen del D. T.",
+   "fuentes": "Esta mensura; Ficha 021."
+  },
+  {
+   "nombre": "Guillermo (William) Mooney",
+   "rol": "Lindero o",
+   "texto": "«Actual poseedor» del terreno que fue de Francisco Del Sar. Apellido irlandés; sin más datos.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Luis Maldonado · Francisco Torres · Pedro (Antonio) Rodríguez",
+   "rol": "Antecesores",
+   "texto": "Rodríguez vende a Maldonado (marzo 1842), éste a Torres (agosto 1842), Torres a Wheeler (1854). Un Francisco Maldonado es el propietario de la Ficha 009 (1856). Los Torres (Lorenzo, Natal, Rafael) son linderos aquí y en la Ficha 020.",
+   "fuentes": "Esta mensura; Fichas 009, 020."
+  },
+  {
+   "nombre": "Vicente Marfil · Micaela Marfilo · Rosendo de Dios · Pedro Puebla",
+   "rol": "Linderos n y s",
+   "texto": "El título de Vicente Marfil se dividió entre De Dios y Puebla (500 v cada uno). Rosendo de Dios aparece como alcalde en la Ficha 021 (lectura confirmada aquí). Los Marfil ya figuran en fichas anteriores.",
+   "fuentes": "Esta mensura; Ficha 021."
+  },
+  {
+   "nombre": "Carmen Benites · Loreto Ponce",
+   "rol": "Lindera s y representante",
+   "texto": "Benites tenía 500 v del mismo tronco; su hijo Loreto Ponce, sobrino de Micaela Marfilo, representa a ambas.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Juan Agustín García",
+   "rol": "Juez de 1.ª instancia en lo civil",
+   "texto": "Jurista porteño (padre del historiador Juan Agustín García, n. 1862); juez civil en 1858. Aprueba la mensura «sin perjuicio de tercero».",
+   "fuentes": "Esta mensura; conocimiento general."
+  },
+  {
+   "nombre": "Salas · Pico · Fernández · A. Fernández · Malaver",
+   "rol": "Departamento topográfico",
+   "texto": "Dictamen del 3/9/1858. Salas firma también la nota de 1866.",
+   "fuentes": "Esta mensura; Ficha 021."
+  },
+  {
+   "nombre": "José Rois [?] · Natal Torres",
+   "rol": "Sobrante 1866",
+   "texto": "Rois pide en compra un sobrante entre Wheeler y Natal Torres; informe del D. T. 17/4/1866.",
+   "fuentes": "Esta mensura."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/022/02.jpg",
+  "fuente": "IMG_6852.JPG",
+  "lineas": [
+   "San A. de Giles              22",
+   "Duplicado",
+   "Seccion Areco",
+   "N.^{o} 98",
+   "Mensura",
+   "del terreno de propiedad",
+   "del S.^{r} Don",
+   "Patricio Wheeler",
+   "sito en el Partido de S.^{n} Andres de Giles",
+   "practicada en Junio de 1858",
+   "por Theodoro Differt [rúbrica]"
+  ]
+ },
+ "titulo": "D. Patricio Wheeler",
+ "estado": "Transcripta (8 hojas, 241 renglones), 1 lámina"
+}

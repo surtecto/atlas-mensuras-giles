@@ -1,0 +1,576 @@
+{
+ "carpeta": "30",
+ "carpeta_nombre": "Carpeta 30",
+ "archivo": "Ficha 030 - Herederos de Antonio Monsalvo (1861).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles",
+  "N.º de duplicado": "30 (portadilla «Sección Areco N.º 120»)",
+  "Propietario / solicitante": "Herederos de D. Antonio Monsalvo",
+  "Agrimensor": "Pedro Pico",
+  "Año": "1861",
+  "Fecha de la diligencia": "3/7/1861; plano 12/7/1861; D. T. 14/1/1862; aprob. 30/4/1863",
+  "Ubicación": "Cabezadas de las suertes del río de Areco, al S de la Cañada de Giles; Cañada de Monsalvo",
+  "Orden judicial": "Juez Dr. Carlos Eguía (18/5/1861)",
+  "Vendedor / antecesor": "Arellano → F. Suero (1731) → alférez A. Monsalvo (1763); mensura Mesura 1823",
+  "Linderos citados": "Riestra · Figueroa · J. Rodríguez · D. Alen de Sosa · Chapeaurouge · her. P. del Sar · J. Sosa · L. La Madrid de Castro · Maldonado · Cufré",
+  "Medidas": "30.719.274 m² = 3072 ha (1,1378 legua²); ancho 2598 m (3000 v)",
+  "Rumbos": "Corregidos; S 47° 5′ E (mojones de Riestra); declinación no expresada",
+  "Referencia de archivo": "Duplicado 30; «Sección Areco N.º 120»; sello Geodesia 13/2/1927 [?]"
+ },
+ "metricas": {
+  "superficie_ha": "3072 (1,1378 legua²)",
+  "hitos": "Mojones enfilados con banderas; mojón de Rodríguez; 12 poblaciones",
+  "aguas": "Cañada de Giles; Cañada de Monsalvo"
+ },
+ "sintesis": "Mensura de Pedro Pico (3-12/7/1861) del campo de los herederos del alférez Antonio Monsalvo, en las cabezadas de las suertes del río de Areco, al S de la Cañada de Giles, atravesado por la Cañada de Monsalvo. Títulos: cesión de Arellano a su cuñado Francisco Suero (1731) y venta de Suero a Monsalvo (1763), medidos por Mesura en 1823 con Hidalgo como apoderado de los Suero. Todo en metros: 30.719.274 m² (3072 ha, 1,14 legua²), 2598 m de ancho (3000 v). Enfilación con banderas; sin oposición, aunque Dionisia Alen de Sosa no firma «por excusas frívolas». D. T. 14/1/1862; aprueba el juez Carlos Eguía (30/4/1863).",
+ "caratula": {
+  "img": "img/f/030/01.jpg",
+  "fuente": "IMG_6995.JPG",
+  "campos": [
+   [
+    "N.º",
+    "30"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Antonio Monsalvo"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Pedro Pico"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1861"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Comisión (1861) y venta Suero → Trasmontano (1761)",
+   "img": "img/f/030/04.jpg",
+   "fuente": "IMG_6997.JPG",
+   "nota": "Sello «Geodesia Catastro y Mapa» con foliatura «1». Letra redonda, clara. «Leguisamon» por Leguizamón.",
+   "lineas": [
+    "Mensura. En el Partido de San Andres",
+    "de Giles a los tres dias del mes de Julio del",
+    "Año de mil ocho cientos sesenta y uno, yo el",
+    "Agrimensor que suscribe Comicionado por dispo",
+    "sicion del S^{or} Juez de Primera Ynstancia",
+    "de la Capital D^{r} D^{n} Carlos Eguia, su",
+    "fecha diez y ocho de Mayo del presente Año,",
+    "para hacer mensura y deslinde judicial",
+    "del terreno perteneciente a los herederos de",
+    "Don Antonio Monsalvo sito sobre las Cabezadas",
+    "de las suertes principales del Rio de Areco, á",
+    "efecto de dar principio a esta operacion en",
+    "la forma debida pasé la circular de citacion",
+    "á los linderos al terreno, la cual diligenciada",
+    "se acompaña. Pero antes de proceder a la",
+    "descripcion de este trabajo se hace necesario",
+    "para fundarlo dar un extracto de los documen",
+    "tos que constituyen esta propiedad.",
+    "En once de Abril del año mil setecientos sesenta",
+    "y uno, Don Francisco Suero ante el Escribano",
+    "publico Don Pedro Leguisamon en la Villa de",
+    "Luján otorgó escritura de venta a favor de",
+    "Don Tomas Trasmontano de quinientas varas",
+    "de frente, terreno de Cabezadas del Rio de Areco,",
+    "y sus fondos hasta dar con las suertes de la",
+    "Cañada de la Cruz, lindando por de frente",
+    "con la suerte de Don Tiburcio Caso por el poniente con",
+    "el vendedor y por el Este con Don Antonio Monsalvo.",
+    "Estas tierras las hubo Don Francisco Suero por secion"
+   ],
+   "interpretacion": "Mensura en el partido de San Andrés de Giles, 3/7/1861, por el agrimensor (Pedro Pico) comisionado por el juez de primera instancia de la Capital Dr. D. Carlos Eguía (18/5/1861), para medir y deslindar el terreno de los herederos de Antonio Monsalvo, «sobre las cabezadas de las suertes principales del río de Areco». Pasó la circular de citación, que se acompaña, y antes de describir el trabajo da un extracto de títulos.\nEl 11/4/1761 Francisco Suero, ante el escribano Pedro Leguizamón en la Villa de Luján, vende a Tomás Trasmontano 500 v de frente en las cabezadas del río de Areco, con fondo hasta las suertes de la Cañada de la Cruz; linda al frente con la suerte de Tiburcio Caso, al poniente con el vendedor y al E con Antonio Monsalvo. Suero tenía estas tierras por cesión…"
+  },
+  {
+   "titulo": "Folio 1 v. · Arellano, «cuñado» de Suero; venta al alférez Monsalvo (1763); mensura de Mesura (1823)",
+   "img": "img/f/030/05.jpg",
+   "fuente": "IMG_6998.JPG",
+   "nota": "Sin foliatura visible (verso). «Laras [?] y Sueros»: en la Ficha 031 se lee claramente «los Laras y Sueros».",
+   "lineas": [
+    "que de ellas le hizo su cuñado el general",
+    "Don José Ruiz de Arellanos. La escritura de",
+    "esta secion fué estendida en trece de Mayo",
+    "de mil setecientos treinta y uno, en Buenos",
+    "Ayres por el escribano publico Don José Gorordo.",
+    "En doce de Noviembre del año de mil sete",
+    "cientos sesenta y tres Don Francisco Suero otorgó",
+    "ante el escribano Don José Gorordo, escritura",
+    "de venta a favor del Alferes Don Antonio",
+    "Monsalvo de un terreno de Cabezadas del",
+    "Rio de Areco compuesto de dos mil y quinientas",
+    "varas de frente y legua y media de fondo,",
+    "y lo mas que hubiere, hasta tocar con las",
+    "suertes de la Cañada de la Cruz, lindando",
+    "por la parte de Arriba ó poniente con tierras",
+    "de Tomas Trasmontano, por la de abajo con",
+    "tierras del vendedor, por el frente que son las",
+    "suertes del Rio de Areco, con tierras del compra",
+    "dor.",
+    "Estas tierras las hubo Don Francisco Suero,",
+    "por secion que de ellas le hizo su cuñado Don",
+    "José Ruiz de Arellanos en la fecha citada",
+    "anteriormente.",
+    "En veinte y seis de Marzo de mil ocho cientos",
+    "veinte y tres, el Agrimensor Don Francisco Mesura",
+    "Mensuró para los herederos de Don Antonio",
+    "Monsalvo los terrenos que mencionan los dos do",
+    "cumentos extractados, siendo Juez comicionado",
+    "Don Carlos Ramon Castro, y estando presentes",
+    "a la mensura las partes, y el Apoderado de los",
+    "Laras [?] y Sueros, Don Juan Dionicio Hidalgo. Esta",
+    "mensura se hizo a continuacion de otras que",
+    "Hidalgo venia entregando a varios propietarios",
+    "compradores de los Sueros desde mas arriba"
+   ],
+   "interpretacion": "…de su cuñado el general José Ruiz de Arellano, por escritura del 13/5/1731 (escribano José Gorordo). El 12/11/1763 Suero vende al alférez Antonio Monsalvo, ante Gorordo, un terreno de cabezadas del río de Areco de 2500 v de frente y legua y media de fondo «y lo más que hubiere» hasta las suertes de la Cañada de la Cruz; linda arriba (poniente) con Tomás Trasmontano, abajo con el vendedor y al frente (las suertes del río de Areco) con tierras del mismo comprador.\nEl 26/3/1823 el agrimensor Francisco Mesura midió para los herederos de Monsalvo ambos terrenos, con el juez comisionado Carlos Ramón Castro y presente Juan Dionisio Hidalgo, apoderado de los Suero, en una serie de mensuras que Hidalgo venía «entregando» a los compradores de los Suero «desde más arriba del Pueblo de San Andrés de Giles»."
+  },
+  {
+   "titulo": "Folio 2 · Aprobación de 1823 (Cernadas); arranque en el mojón de Riestra",
+   "img": "img/f/030/06.jpg",
+   "fuente": "IMG_6999.JPG",
+   "nota": "Foliatura «2». Cada distancia se da en cifras y en letras, sólo en METROS.",
+   "lineas": [
+    "del Pueblo de San Andres de Giles. La men",
+    "sura anterior fué aprobada por el Doctor",
+    "Don Juan José Cernadas en la Villa de Luján á",
+    "treinta de Septiembre de mil ocho cientos veinte",
+    "y tres. La mensura arrancó del mojon puesto",
+    "para Doña Rosa Moyano cuyo terreno está hoy",
+    "representado por tres dueños, á saber Don N. Teseira [?]",
+    "Don Valentin Alvarez y Don Valentin Cufré; siguió",
+    "por las Cabeceras de las suertes principales y fué",
+    "despues hacia el Sueste hasta tocar con tierras",
+    "de Don Pedro Dias de Vivar sobre la Cañada",
+    "de la Cruz.",
+    "Hecho el extracto Anterior, y para dar principio",
+    "a esta mensura me puse en uno de los mojo",
+    "nes que determinan el Costado Nordeste del",
+    "terreno de Riestra punto A del plano adjunto,",
+    "a la parte Austral de la Cañada de Giles",
+    "como a dos cientos metros de ella; y tomando",
+    "el rumbo de los mojones de Riestra resultó",
+    "ser del Sur 47° 5' E cuarenta y siete grados",
+    "cinco minutos Este Corregido. Desde este pun",
+    "to puse el rumbo perpendicular Norte 42°",
+    "55' E cuarenta y dos grados cincuenta y cinco",
+    "minutos Este, por el cual empecé a medir el",
+    "Ancho correspondiente al terreno de Teseira",
+    "Alvarez y Cufré consistente de 1732 m mil",
+    "setecientos treinta y dos metros en cuyo final",
+    "hice una señal y es desde donde deben em",
+    "pesarse a medir las tres mil varas de los",
+    "Monsalvos. Comencé pues a medir esta dis",
+    "tancia cruzando los terrenos de Don José Ro-",
+    "driguez y de Doña Dionicia Alen de Sosa hasta",
+    "completar 2598 m dos mil quinientos noventa",
+    "y ocho metros que hacen media legua en el"
+   ],
+   "interpretacion": "La mensura de 1823 la aprobó el Dr. Juan José Cernadas en la Villa de Luján (30/9/1823). Arrancó del mojón de Rosa Moyano —hoy de tres dueños: N. Teseira [?], Valentín Álvarez y Valentín Cufré—, siguió por las cabeceras de las suertes principales y fue al SE hasta las tierras de Pedro Díaz de Vivar sobre la Cañada de la Cruz.\nPico arranca de un mojón del costado NE del terreno de Riestra (punto A del plano), al S de la Cañada de Giles «como a doscientos metros de ella»; el rumbo de los mojones de Riestra resulta S 47° 5′ E corregido. Por la perpendicular N 42° 55′ E mide primero el ancho de Teseira, Álvarez y Cufré, 1732 m, donde hace una señal: desde allí «deben empezarse a medir las tres mil varas de los Monsalvos». Cruza los terrenos de José Rodríguez y Dionisia Alen de Sosa hasta 2598 m, «que hacen media legua»…"
+  },
+  {
+   "titulo": "Folio 2 v. · El frente NO contra las suertes de Sosa, Rodríguez y Figueroa",
+   "img": "img/f/030/07.jpg",
+   "fuente": "IMG_7000.JPG",
+   "nota": "Letras de puntos (C, D, E, F, G) remiten al plano.",
+   "lineas": [
+    "punto C. Desde este punto puse el rumbo",
+    "paralelo al costado de Riestra Sur 47° 5' E",
+    "cuarenta y siete grados cinco minutos al Este",
+    "por cuya direccion medí 961^{m} novecientos sesen",
+    "ta y un metros hasta ponerme en la prolon",
+    "gacion de los mojones del frente del fondo del",
+    "terreno de suerte principal de Doña Dionicia",
+    "Alen de Sosa 65^{m} sesenta y cinco metros hacia el",
+    "este del mojon esquinero Este del terreno de dicha",
+    "Señora, donde hice poner un mojon punto D",
+    "esquinero Norte de Monsalvo y divisor del",
+    "terreno de Don Luis de Chapeaurouge.",
+    "Desde el punto D retrocedí por la linea",
+    "del fondo del terreno de la Señora de Sosa al",
+    "rumbo Sur 57° 41' O y a los 65 m sesenta y cinco",
+    "metros hallé el mojon Antes citado, y a los",
+    "1797 m el mojon esquinero Sur del terreno de D^{ña}",
+    "Dionicia, punto E esto es mil setecientos noventa",
+    "y siete metros. Desde E busqué los mojones",
+    "Costaneros del terreno Sosa y resultó perpendi",
+    "cular al Anterior, esto es Norte 32° 19' O Norte",
+    "treinta y dos grados diez y nueve minutos Oeste",
+    "y medí 199 m hasta ponerme enfrente á un",
+    "mojon del terreno de Don José Rodriguez punto",
+    "F. Desde F medí por el rumbo S 57° 41' O Sur",
+    "cincuenta y siete grados cuarenta y un minutos",
+    "Oeste 212 m hasta el mojon dicho de Rodriguez",
+    "y 649.5 m hasta enfrentar el mojon esquinero",
+    "Este de Don José Figueroa punto G seis cientos",
+    "cuarenta y nueve metros cinco decimetros: parte",
+    "del terreno Rodriguez pertenece al Don José",
+    "Figueroa. Desde G puse el rumbo Norte 32° 19' O",
+    "Norte treinta y dos grados diez y nueve minutos",
+    "Oeste y medí 201 m dos cientos un metros hasta"
+   ],
+   "interpretacion": "…en el punto C. Desde C, paralelo a Riestra (S 47° 5′ E), 961 m hasta la prolongación de los mojones del fondo de la suerte principal de Dionisia Alen de Sosa, 65 m al E de su esquinero: mojón D, esquina N de Monsalvo y divisoria con Luis de Chapeaurouge. Retrocede por el fondo de Sosa (S 57° 41′ O): a 65 m el mojón citado y a 1797 m el esquinero S de Dionisia (E). Por los costaneros de Sosa, N 32° 19′ O, 199 m hasta enfrentar un mojón de José Rodríguez (F); de F, S 57° 41′ O, 212 m hasta ese mojón y 649,5 m hasta enfrentar el esquinero E de José Figueroa (G) —parte del terreno Rodríguez es de Figueroa—; de G, N 32° 19′ O, 201 m hasta el mojón de Figueroa (H). El frente del campo es un escalonado que sigue los fondos quebrados de las suertes del río de Areco."
+  },
+  {
+   "titulo": "Folio 3 · Banderas y enfilación: el costado largo con Maldonado",
+   "img": "img/f/030/08.jpg",
+   "fuente": "IMG_7001.JPG",
+   "nota": "Foliatura «3».",
+   "lineas": [
+    "el mojon de Figueroa punto H. Desde H puse",
+    "el rumbo Sur 57° 41' O cincuenta y siete grados cua",
+    "renta y un minutos Oeste y medí 347 m trescientos",
+    "cuarenta y siete metros hasta ponerme en el",
+    "punto B correspondiente al costado Noroeste del",
+    "terreno de los Monsalvos guiado por la señal que",
+    "Antes habia hecho en él; y finalmente medí",
+    "desde B hacia a la señal 147 m ciento cuarenta y",
+    "siete metros al rumbo Sur 47° 5' E cuarenta y siete",
+    "grados cinco minutos Este. Hecha esta operacion",
+    "para deslindar el terreno que media con los de las",
+    "suertes del Rio de Areco, y a contar desde el mojon",
+    "B mandé poner una bandera en el mojon esqui",
+    "nero Norte del terreno de Don Francisco Maldonado",
+    "punto Y del plano; enfilé luego por medio de bande",
+    "ras los dos puntos B é Y y medí hasta este ultimo",
+    "la distancia de 6778 m seis mil setecientos setenta",
+    "y ocho metros al rumbo mismo del Sur 47° 5' E. A",
+    "los 2751 metros desde B dos mil setecientos cincuenta",
+    "y un metros levanté una perpendicular a la li",
+    "nea BY y medí el Ancho del terreno que deslin",
+    "daba igual a 2598 m dos mil quinientos noventa",
+    "y ocho metros, poniendo a su termino J costane",
+    "ro de Don Luis Chapeaurouge, y a los 6345 m seis",
+    "mil trescientos cuarenta y cinco metros pasé la",
+    "Cañada de Monsalvo.",
+    "Desde el punto Y crucé nuevamente el terreno que",
+    "media en su anchura de 2598 m. y puse otro mojon",
+    "costanero del terreno que media con los del finado",
+    "Don Pedro del Sar representado por su albacea",
+    "Don Luis de Chapeaurouge, punto L. Vuelto al",
+    "punto Y seguí al rumbo de Antes, por los mojones",
+    "del terreno de Don Francisco Maldonado, y contando",
+    "sobre la distancia BY puse un mojon á los"
+   ],
+   "interpretacion": "De H, S 57° 41′ O, 347 m hasta B, costado NO de los Monsalvo; de B a la señal, 147 m al S 47° 5′ E. Para deslindar con las suertes del río de Areco pone una bandera en el esquinero N de Francisco Maldonado (Y) y «enfila por medio de banderas» B e Y: 6778 m al S 47° 5′ E. A 2751 m levanta una perpendicular y mide el ancho, 2598 m, hasta J (costanero de Chapeaurouge); a 6345 m pasa la Cañada de Monsalvo. Desde Y cruza otra vez el ancho y pone el mojón L, costanero de los herederos de Pedro del Sar, representados por su albacea Luis de Chapeaurouge. Vuelve a Y y sigue por los mojones de Maldonado…"
+  },
+  {
+   "titulo": "Folio 3 v. · Cañada de Monsalvo; cierre contra La Madrid de Castro y Juana Sosa",
+   "img": "img/f/030/09.jpg",
+   "fuente": "IMG_7002.JPG",
+   "nota": "",
+   "lineas": [
+    "7947 m siete mil novecientos cuarenta y siete",
+    "metros; a los 8380 m volví a cortar la Cañada",
+    "de Monsalvo; a los 9332 m volví a pasarla nue",
+    "vamente; a los 9376 m puse un mojon; a los",
+    "10718 m otro, y a los 12179 m.5 llegué al mojon",
+    "esquinero Sur de este Campo Este de Maldonado",
+    "y costanero de los terrenos de la Señora Madrid",
+    "de Castro punto M. En el mojon M crusé",
+    "perpendicularmente el terreno que medía",
+    "y puse el mojon costanero con Del Sar punto",
+    "N. A los mil cuatro cientos metros 1400 m de M N",
+    "hallé un mojon de los terrenos de la Señora",
+    "Castro y los Maldonados a la derecha 324 m",
+    "trescientos veinte y cuatro metros punto O. lo",
+    "cual da la distancia M O de 1437 m mil",
+    "cuatro cientos treinta y siete metros y el",
+    "rumbo Norte 55° 53' E cincuenta y cinco gra",
+    "dos cincuenta y tres minutos Este, a los 2598 m",
+    "Ancho del terreno dos mil quinientos noventa",
+    "y ocho metros punto O levanté una perpendi",
+    "cular a M N al Sur 47° 5' E cuarenta y siete",
+    "grados cinco minutos Este y medí 665 m",
+    "seis cientos sesenta y cinco metros hasta el punto",
+    "P en la linea de los mojones existentes de",
+    "los terrenos de D^{a} Juana Sosa y parte del",
+    "S^{or} Don Pedro del Sar. Desde P seguí la li",
+    "nea P O al rumbo Sur 58° 44' O. cincuenta y ocho",
+    "grados cuarenta y cuatro minutos Oeste, y",
+    "medí 1247 m. mil dos cientos cuarenta y siete",
+    "metros donde cerré la mensura sin oposicion",
+    "por parte de los linderos.",
+    "Finalisadas las operaciones de medicion",
+    "pasé a revisar los mojones que habia puesto",
+    "en el Costado Nordeste del terreno, advirtiendo"
+   ],
+   "interpretacion": "…mojón a 7947 m; a 8380 m vuelve a cortar la Cañada de Monsalvo y a 9332 m la pasa de nuevo; mojones a 9376 m y 10.718 m; a 12.179,5 m llega al esquinero S del campo (E de Maldonado), costanero de Lorenza La Madrid de Castro (M). Cruza perpendicular y pone el mojón N con Del Sar; a 1400 m halla un mojón de Castro y los Maldonado, 324 m a la derecha (O): M–O = 1437 m al N 55° 53′ E. A los 2598 m levanta una perpendicular al S 47° 5′ E, 665 m hasta P, en la línea de mojones de Juana Sosa y parte de Pedro del Sar; de P, S 58° 44′ O, 1247 m, y cierra «sin oposición por parte de los linderos». Luego revisa los mojones del costado NE…"
+  },
+  {
+   "titulo": "Folio 4 · Enfilación de control, superficie y asistentes",
+   "img": "img/f/030/10.jpg",
+   "fuente": "IMG_7003.JPG",
+   "nota": "Foliatura «4». La nota final está en letra más rápida, de la mano de Pico.",
+   "lineas": [
+    "que desde el mojon R costado Sudoeste de los",
+    "9376 m nueve mil trescientos setenta y seis metros",
+    "crusé tambien el terreno y puse el mojon S; y",
+    "recorridos estos mojones con banderas, esto es,",
+    "los mojones D.J.L.S.P resultaron estar enfilados",
+    "y la distancia D P igual á 11736 m.6 once mil",
+    "setecientos treinta y seis metros seis decimetros.",
+    "La superficie del terreno medido es igual á 30719274",
+    "metros Cuadrados, treinta millones setecientos",
+    "diez y nueve mil dos cientos setenta y cuatro",
+    "metros Cuadrados. Sus linderos son por el",
+    "noroeste con terrenos de Suertes principales del",
+    "Rio de Areco, de Don José Figueroa Don José",
+    "Rodriguez, y Doña Dionicia Alen de Sosa;",
+    "por el Nordeste con Don Luis de Chapeaurouge",
+    "y los herederos del finado Don Pedro del Sar,",
+    "por el Sueste con terrenos de Doña Juana Sosa,",
+    "Del Sar, y la Señora Madrid de Castro; y",
+    "por el Sudoeste con terrenos de Don Francisco",
+    "Maldonado y Don Valentin Cufré.",
+    "Pedro Pico",
+    "Nota = Los linderos Don Luis Chapeaurouge asistió a la men",
+    "sura por si, y por los herederos del finado Don Pedro",
+    "Del Sar; Doña Juana Sosa y Doña Lorenza La Madrid",
+    "fueron representadas por D. Ciriaco Castro hijo de la",
+    "ultima, D. Fran.^{co} Maldonado, Don José Rodriguez",
+    "y D. Valentin Cufré asistieron personalmente, no habien",
+    "do firmado la circular el ultimo sin dar escusa fundada.",
+    "por Doña Dionicia Alen de Sosa asistió su capataz el Señor",
+    "Sacabelo [?], no habiendo firmado dicha Señora por escusas ente",
+    "ramente frivolas. Don José Figueroa no asistió a la",
+    "mensura por no hallarse en su establecimiento —",
+    "Pedro Pico"
+   ],
+   "interpretacion": "…desde R (a 9376 m) cruza y pone S; recorridos con banderas, los mojones D, J, L, S, P «resultaron estar enfilados» y D–P = 11.736,6 m: control de alineación del costado NE. Superficie: 30.719.274 m² (3072 ha; en el plano «1,1378 leguas cuadradas»). Linda al NO con las suertes principales del río de Areco (José Figueroa, José Rodríguez, Dionisia Alen de Sosa); al NE con Luis de Chapeaurouge y los herederos de Pedro del Sar; al SE con Juana Sosa, Del Sar y La Madrid de Castro; al SO con Francisco Maldonado y Valentín Cufré. Firma Pedro Pico.\nNota: Chapeaurouge asistió por sí y por Del Sar; Juana Sosa y Lorenza La Madrid, por Ciriaco Castro, hijo de ésta; Maldonado, Rodríguez y Cufré personalmente (Cufré no firmó la circular «sin dar excusa fundada»); por Dionisia Alen de Sosa, su capataz Sacabelo [?] —ella no firmó «por excusas enteramente frívolas»—; Figueroa no asistió «por no hallarse en su establecimiento»."
+  },
+  {
+   "titulo": "Folio 4 v. · Informe del D. T. (14/1/1862)",
+   "img": "img/f/030/11.jpg",
+   "fuente": "IMG_7004.JPG",
+   "nota": "Firmas con rúbrica de Salas, Moreno y Malaver. Cifras a lápiz al margen.",
+   "lineas": [
+    "S^{or} Juez de 1^{a} Ynstancia",
+    "El Depart.^{to} Topografico ha exami",
+    "nado la presente mensura practicada",
+    "por el Agrim.^{r} D. Pedro Pico del terreno",
+    "de la propiedad de los hered.^{os} de D. Anto-",
+    "nio Monsalvo y la encuentra en todo",
+    "arreglada; por lo que V. S. puede",
+    "darle su aprobacion judicial.",
+    "Buen.^{s} Aires Enero 14 de 1862.",
+    "Salas    Moreno",
+    "Malaver",
+    "[al margen, a lápiz:] 2751 / 778 [?]"
+   ],
+   "interpretacion": "El Departamento Topográfico examinó la mensura de Pedro Pico del terreno de los herederos de Antonio Monsalvo, «la encuentra en todo arreglada» y aconseja la aprobación judicial. Buenos Aires, 14/1/1862: Salas, Moreno, Malaver. Sin sobrante ni observación alguna."
+  },
+  {
+   "titulo": "Oficio del juez Carlos Eguía (1/5/1863)",
+   "img": "img/f/030/12.jpg",
+   "fuente": "IMG_7010.JPG",
+   "nota": "Papel sellado de 3 pesos, sello en seco «Buenos Aires 1863», foliatura 6. Al margen, datos del juzgado y la escribanía (lectura dudosa).",
+   "lineas": [
+    "[sello de 3 pesos; sello en seco «Buenos Aires 1863»; foliatura 6]",
+    "[al margen:] [Juz]gado Civil de [Pri]mera Inst.^{a} — [Of]icina de Salinas [?] — [Eu]genio Boada [?]",
+    "Corresponde",
+    "Buenos Ay.^{s} Mayo 1.^{o} de 1863.",
+    "Señor Presidente del Departamen",
+    "to Topografico —",
+    "El Juez de primera Instancia que",
+    "suscribe pone en conocimiento de V.",
+    "que con fecha de ayer ha sido aproba",
+    "da la mensura practicada por el",
+    "Agrimensor Don Pedro Pico de unos",
+    "terrenos pertenecientes á Don Pedro Mon",
+    "salvo cuyo auto copiado dice así: — \"Bue",
+    "nos Ayres Abril treinta de mil ochocien",
+    "\" tos sesenta y tres. Autos y vistos: de",
+    "\" conformidad con lo espuesto por el",
+    "\" Agente Fiscal de lo Civil, se aprueba",
+    "\" en cuanto mas haya lugar por derecho",
+    "\" la mensura practicada por el Agrimen",
+    "\" sor Publico Don Pedro Pico de los terre",
+    "\" nos pertenecientes a Don Pedro Mon-",
+    "\" salvo, para cuya mayor validez",
+    "\" interpone el Juzgado la Autoridad"
+   ],
+   "interpretacion": "El juez de primera instancia comunica al presidente del Departamento Topográfico que el día anterior aprobó la mensura de Pedro Pico «de unos terrenos pertenecientes a Don Pedro Monsalvo» (un heredero). Auto del 30/4/1863: de conformidad con el agente fiscal de lo civil, se aprueba en cuanto haya lugar por derecho, interponiendo la autoridad judicial…"
+  },
+  {
+   "titulo": "Oficio (cont.) · firma de Carlos Eguía; agregado por Salas",
+   "img": "img/f/030/13.jpg",
+   "fuente": "IMG_7011.JPG",
+   "nota": "",
+   "lineas": [
+    "Judicial que ejerce por medio de \"",
+    "este auto. En su consecuencia dese \"",
+    "aviso al Departamento Topografico \"",
+    "con transcripcion de este auto y \"",
+    "satisfechas las costas entreguese ori \"",
+    "ginal este espediente. — Repongase \"",
+    "el sello. — Carlos Eguia. — \"",
+    "Lo que transcribo á V. á los",
+    "efectos conducentes.",
+    "Dios güe. á V. m. a.^{s}",
+    "Carlos Eguia",
+    "Mayo 19 de 1863.",
+    "Agreguese al duplicado corres-",
+    "pondiente previo aviso de recibo.",
+    "Salas"
+   ],
+   "interpretacion": "…se avisa al Departamento con transcripción del auto; satisfechas las costas, se entrega el expediente original. Firma Carlos Eguía, juez civil. El 19/5/1863 Salas ordena agregarlo al duplicado «previo aviso de recibo». Casi dos años entre la mensura (julio 1861) y la aprobación (abril 1863)."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Terreno de los herederos de D. Antonio Monsalvo",
+   "img": "img/f/030/03.jpg",
+   "fuente": "IMG_7005.JPG (tomas parciales 7006-7009)",
+   "orientacion": "Pliego a tinta con los puntos A-Y del texto; escala gráfica en metros (0-6000); firmado «Julio 12 de 1861 — Pedro Pico». Sin flecha de norte visible en la toma.",
+   "interpretacion": "Rectángulo alargado (≈12,2 km × 2,6 km) rotulado «Hered.s de D.n Antonio Monsalvo — Superficie 30.719.274 metros cuad.s = 1,1378 Leg.s cu.s», con los lados largos a S 47° 5′ E y los anchos de 2598 m a N 42° 55′ E. En el ángulo NO, el escalonado contra las suertes de «Dionicia Alen de Sosa», «D.n José Rodríguez y D. José Figueroa» y «José Figueroa», y el punto A junto a la «Cañada de Giles». La «Cañada de Monsalvo» corre serpenteando a lo largo del costado SO (dibujada con barbas). Una diagonal con un sector rayado cruza el extremo O (¿camino, zanja o corral?). Al NE, Chapeaurouge y los herederos de Pedro del Sar; al SE, Juana Sosa y Lorenza La Madrid de Castro; al SO, Valentín Cufré, Riestra y Francisco Maldonado.",
+   "referencias": [
+    [
+     "Puntos",
+     "A (arranque, Cañada de Giles) · B–Y (enfilación con banderas) · C, D, E, F, G, H (frente escalonado) · J, L, S, P (costado NE enfilado) · M, N, O, R"
+    ],
+    [
+     "Linderos",
+     "NO: Alen de Sosa, J. Rodríguez, J. Figueroa · NE: L. Chapeaurouge, her. de P. del Sar · SE: Juana Sosa, L. La Madrid de Castro · SO: V. Cufré, Riestra, F. Maldonado"
+    ],
+    [
+     "Poblaciones",
+     "Gegena [?] · Carriso · Antonio Sarate · Julián Monsalvo · José Monsalvo · Díaz · J.n Sosa · J. Mármol [?] · Teresa Navarro · Aguirre · Greg.º Monsalvo · Bera"
+    ],
+    [
+     "Aguas",
+     "Cañada de Giles (punto A) · Cañada de Monsalvo (cortada tres veces)"
+    ],
+    [
+     "Hitos",
+     "Mojón de Rodríguez · «P.te de Chapeaurouge» · diagonal con sector rayado al O"
+    ],
+    [
+     "Escala",
+     "Gráfica en metros, 0-6000, con transversal decimal"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "1861, año del metro",
+   "texto": "Pico mide sólo en metros (cada cifra en guarismos y en letras) y el plano lleva escala métrica; apenas convierte las «tres mil varas de los Monsalvos» en 2598 m, «que hacen media legua». Con la Ficha 029 (Eguía, marzo de 1861) queda claro que en 1861 los dos agrimensores más activos de la zona ya trabajaban en el sistema métrico, dos años antes de la Ficha 007 (1863). La vara sobrevive sólo en los títulos."
+  },
+  {
+   "titulo": "Arellano, los giles, los suero y los monsalvo: una familia fundadora",
+   "texto": "El título dice que Francisco Suero recibió estas tierras por cesión de «su cuñado el general José Ruiz de Arellano» (1731). La tradición de Areco registra que Arellano casó en 1699 con María Rosa de Giles y Monsalvo y en 1737 con María Teodora de Suero y Giles, y que con su esposa erigió en 1728 la capilla de San Antonio de Padua, origen de San Antonio de Areco. Giles, Suero y Monsalvo —tres topónimos del partido (pueblo de Giles, arroyo/cañada de Suero, Cañada de Monsalvo)— son una sola red de parentesco; el alférez Antonio Monsalvo compra a Suero en 1763. Clave para la tesis: el paisaje nombrado es un árbol genealógico."
+  },
+  {
+   "titulo": "Las mensuras encadenadas de hidalgo (1823)",
+   "texto": "En 1823 Francisco Mesura mide para los Monsalvo con Juan Dionisio Hidalgo como apoderado de los Suero, que venía «entregando» mensuras a los compradores de los Suero «desde más arriba del Pueblo de San Andrés de Giles», arrancando del mojón de Rosa Moyano y siguiendo las cabeceras de las suertes hasta Díaz de Vivar sobre la Cañada de la Cruz. Es la operación de reparto de la merced Suero; enlaza con la Ficha 008 (tierra del pueblo donada por Suero e Hidalgo) y con el Hidalgo agrimensor de 1838 (018)."
+  },
+  {
+   "titulo": "Técnica: enfilación con banderas y control de alineación",
+   "texto": "Pico enfila B e Y con banderas, levanta perpendiculares para marcar el ancho constante y, al terminar, recorre los mojones D, J, L, S, P «con banderas» para comprobar que están alineados. El frente NO no es recto: se adapta en escalones a los fondos de las suertes de Sosa, Rodríguez y Figueroa. El punto de partida se ancla a la Cañada de Giles («como a doscientos metros de ella») y el rumbo se toma de los mojones del vecino Riestra: la doctrina de seguir amojonamientos existentes (Fichas 021-024)."
+  },
+  {
+   "titulo": "Ritual y conflicto: excusas «frívolas»",
+   "texto": "Todos los linderos asisten o se hacen representar, salvo Figueroa (ausente de su establecimiento). Dionisia Alen de Sosa manda a su capataz y no firma «por excusas enteramente frívolas»; Cufré no firma la circular «sin dar excusa fundada». Pico registra así las resistencias pasivas sin que haya protesta formal. Dionisia Alen de Sosa y Chapeaurouge ya litigaban en 1858 (Ficha 021)."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "Campo largo y angosto (≈12 km × 2,6 km) entre las cabezadas de las suertes del río de Areco y los fondos hacia la Cañada de la Cruz, atravesado por la Cañada de Monsalvo, que el agrimensor cruza tres veces. Doce poblaciones con nombre, entre ellas tres Monsalvo (Julián, José, Gregorio) viviendo dentro del campo familiar; Teresa Navarro, Aguirre, Bera, Carriso, Antonio Zárate. Los herederos ocupan la tierra en puestos dispersos antes de partirla."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿«Teseira» (Texeira)? ¿Qué es la diagonal con rayado del extremo O del plano? ¿Por qué tardó 15 meses la aprobación y figura a nombre de «Don Pedro Monsalvo»? Relación con la Ficha 003 (Pascuala Romero de Monsalvo, 1838) y con «Monsalvo» como lindero en la 027. El juez Carlos Eguía, ¿pariente del agrimensor Manuel Eguía? (en la Ficha 029 el juez González escribe «Carlos Eguía» por Manuel)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Antonio Monsalvo (alférez) y herederos",
+   "rol": "Comprador (1763) y propietarios",
+   "texto": "El alférez Antonio Monsalvo compró a Francisco Suero en 1763 2500 v de frente en las cabezadas del río de Areco; ya tenía tierras en el frente (suertes del río). Apellido de la primera esposa de Arellano (María Rosa de Giles y Monsalvo). En 1861 los herederos incluyen a Pedro Monsalvo (a cuyo nombre se aprueba) y viven en el campo Julián, José y Gregorio Monsalvo. Ficha 003: Pascuala Romero de Monsalvo (1838).",
+   "fuentes": "Esta mensura; Ficha 003; areco.chat, «Los orígenes en la historia de San Antonio de Areco»."
+  },
+  {
+   "nombre": "José Ruiz de Arellano",
+   "rol": "Titular originario",
+   "texto": "General, casado en 1699 con María Rosa de Giles y Monsalvo y en 1737 con María Teodora de Suero y Giles; en 1728 erigió con su esposa la capilla de San Antonio de Padua (núcleo de San Antonio de Areco); en 1750 donó tierras para el santuario. Cede tierras a su cuñado Francisco Suero (1731).",
+   "fuentes": "areco.chat; Real Academia de la Historia, DB~e (ficha «José Ruiz de Arellano»); Fichas 021, 029."
+  },
+  {
+   "nombre": "Francisco Suero",
+   "rol": "Vendedor (1761-1763)",
+   "texto": "Cuñado de Arellano; vende a Tomás Trasmontano (1761, escribano Pedro Leguizamón, Luján) y al alférez Monsalvo (1763, escribano José Gorordo). Otro Suero, Juan Francisco, vende a Felipe Antonio Martínez en 1795 (Ficha 029). Los «Sueros» tienen en 1823 apoderado a Juan Dionisio Hidalgo.",
+   "fuentes": "Esta mensura; Ficha 029."
+  },
+  {
+   "nombre": "Pedro Pico",
+   "rol": "Agrimensor",
+   "texto": "Miembro del Departamento Topográfico (1852-58) y agrimensor particular desde 1860 (Fichas 026, 027; 007 en 1863). Aquí mide en metros, enfila con banderas y controla la alineación de los mojones.",
+   "fuentes": "Fichas 007, 026, 027."
+  },
+  {
+   "nombre": "Carlos Eguía",
+   "rol": "Juez de primera instancia en lo civil",
+   "texto": "Comisiona la mensura (18/5/1861) y la aprueba (30/4/1863). Su nombre explica el lapsus del juez Alejo B. González en la Ficha 029 («agrimensor Don Carlos Eguía» por Manuel Eguía). Parentesco con el agrimensor no verificado.",
+   "fuentes": "Esta mensura; Ficha 029."
+  },
+  {
+   "nombre": "Francisco Mesura · Carlos Ramón Castro · Juan José Cernadas · Juan Dionisio Hidalgo",
+   "rol": "Mensura de 1823",
+   "texto": "Mesura, agrimensor (ya citado en 1823 en la serie); Castro, juez comisionado; Cernadas, que aprueba en Luján (30/9/1823; juez de paz en otras fichas); Hidalgo, apoderado de los Suero y distribuidor de sus tierras (Ficha 008).",
+   "fuentes": "Fichas 008, 018."
+  },
+  {
+   "nombre": "Linderos",
+   "rol": "Vecinos",
+   "texto": "Luis de Chapeaurouge (por sí y como albacea de Pedro del Sar; Fichas 021, 025, 027); Juana Sosa y Lorenza La Madrid de Castro (Ficha 007), representadas por Ciriaco Castro; Francisco Maldonado (Ficha 009); José Rodríguez; Valentín Cufré y Valentín Álvarez; Dionisia Alen de Sosa (Ficha 021; su capataz Sacabelo [?]); José Figueroa; Riestra (Ficha 006); Rosa Moyano (1823); Tomás Trasmontano y Tiburcio Caso (1761).",
+   "fuentes": "Fichas 006, 007, 009, 021, 025, 027."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/030/02.jpg",
+  "fuente": "IMG_6996.JPG",
+  "lineas": [
+   "Seccion Areco    Giles",
+   "N 120    30",
+   "Duplicado de mensura",
+   "de los Terrenos",
+   "de los",
+   "Herederos",
+   "de D^{n} Antonio Monsalvo",
+   "Partido de Giles",
+   "Agrimensor",
+   "Pedro Pico",
+   "Julio 1861",
+   "[sello:] Geodesia Catastro y Mapa — ARCHIVO",
+   "[sello:] Geodesia Catastro y Mapa — F.^{o} 6 — XIII-II-1927 [?]"
+  ]
+ },
+ "titulo": "Herederos de D. Antonio Monsalvo",
+ "estado": "Transcripta (10 hojas, 282 renglones), 1 lámina"
+}

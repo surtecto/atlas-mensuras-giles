@@ -1,0 +1,480 @@
+{
+ "carpeta": "2",
+ "carpeta_nombre": "Carpeta 2",
+ "archivo": "Ficha 002 - Jorge Macome (1846).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (entonces jurisdicción de San Antonio de Areco)",
+  "N.º de duplicado": "2",
+  "Propietario / solicitante": "D. Jorge Macome",
+  "Agrimensor": "Raymundo Prat y Puig",
+  "Año": "1846",
+  "Fecha de la diligencia": "28 de agosto de 1846",
+  "Ubicación": "Margen NO del arroyo de Suero, inmediaciones de San Antonio de Areco",
+  "Orden judicial": "Juez de 1.ª Instancia en lo Civil Dr. D. Romualdo Gaete (permiso del 28 de julio de 1846)",
+  "Vendedor / antecesor": "Jacinto Bogarín (por medio de su representante Bernabé Font); antes Apolinario Galeano (1839) y Vicente Martel, primer poseedor",
+  "Linderos citados": "SO: Buenaventura Flores · NO: Francisco del Sar y Pablo Falcón · NE: Francisco del Sar · SE: arroyo de Suero. Otros: Mariano Falcón, Pilar Casco, Esteban Ramírez, Vicente Martel, Antonio Lima, Prado",
+  "Medidas": "1300 varas de frente al arroyo de Suero × 5900 varas de fondo, hasta las suertes principales del río Areco. Área declarada: 7.670.000 varas cuadradas",
+  "Rumbos": "Fondo NO/SE, corregido 15° «como se había medido primitivamente»; declinación verificada con teodolito azimutal: 13° NE",
+  "Referencia de archivo": "Expediente de Mensura, Juzgado Gaete, escribano Llames [?]. Departamento Topográfico: nota del 18 de noviembre de 1846 e informe del 30 de enero de 1847"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 575 (7.670.000 v²)",
+  "hitos": "palos de ñandubay, 1 mojón de piedra, 1 sauce, 5 casas",
+  "aguas": "Arroyos de Giles, Sosa, Suero, [¿Lobos?]; río Areco"
+ },
+ "sintesis": "Mensura de 1846 del campo de Jorge Macome: 1300 varas de frente al arroyo de Suero × 5900 de fondo hacia el río Areco, unas 575 ha. La hizo el agrimensor público Raymundo Prat y Puig con teodolito azimutal, en plena Confederación rosista. El acta es técnicamente impecable: cadena de títulos, citación de linderos, mojones de ñandubay, declinación medida (13°) pero corregida a 15° para respetar la mensura vecina, y error de cierre declarado. Lo excepcional es el expediente que sigue. El Departamento Topográfico (Arenales y Salas) no logra acordar y devuelve la mensura sin aprobarla. Macome reclama ante el juez Gaete. El fiscal lo apoya, y el Departamento termina reprendiendo su «lenguaje altivo y prepotente». Es un documento clave para pensar la mensura como acto de poder, y no solo como una medición.",
+ "caratula": {
+  "img": "img/f/002/01.jpg",
+  "fuente": "IMG_6562.JPG",
+  "campos": [
+   [
+    "N.º",
+    "2"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Don Jorge Macome"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Prat"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1846"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO — Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 (recto)",
+   "img": "img/f/002/05.jpg",
+   "fuente": "IMG_6564.JPG (repetida en IMG_6565)",
+   "nota": "Letra caligráfica muy legible. Encabezado federal obligatorio. Foliatura «1» con sello oval arriba a la derecha. Hay títulos marginales cortados por la encuadernación («[Me]nsura», «[En la]s»). El escribiente abrevia «de» con un signo que se desarrolla sin marcarlo.",
+   "lineas": [
+    "Viva la Confederacion Argentina.",
+    "Mueran los salvages Unitarios.",
+    "[Me]nsura de un terreno de propiedad de Don Jorge Macome: Don Bernabé",
+    "Font, á nombre de Don Jacinto Bogarin, otorgó escritura de venta á",
+    "favor de Don Jorge Macome en veinte y dos de Julio de mil ocho-",
+    "cientos cuarenta y seis, de un terreno de la propiedad de su repre-",
+    "sentado compuesto de mil trescientas varas de frente al arroyo de",
+    "Suero y de fondo hasta dar con las suertes principales del rio de",
+    "San Antonio de Areco; Bogarin compró á Don Apolinario Galea-",
+    "no en el año mil ochocientos treinta y nueve, habiendosele otorga-",
+    "do escritura de venta por ante el Señor Juez de Paz de San Anto-",
+    "nio de Areco, y habiendosele estraviado dicha escritura tuvo que",
+    "producir informacion de testigos, para acreditar su legitima propiedad,",
+    "ante el Señor Juez de primera Instancia en lo civil Doctor Don Ro-",
+    "mualdo Gaete: Don Apolinario Galeano lo hubo por permuta que hi-",
+    "zo con Don Vicente Martel, primer poseedor de este terreno.",
+    "[En la]s inmediaciones de San Antonio de Areco y á veinte y ocho de Agosto",
+    "de mil ochocientos cuarenta y seis; año treinta y siete de la Libertad,",
+    "treinta y uno de la Independencia y diez y siete de la Confederacion",
+    "Argentina; yo el Agrimensor público que suscribe, habiendo sido comi-",
+    "sionado por el Juzgado de primera Instancia del señor Doctor Don Ro-",
+    "mualdo Gaete, para medir y amojonar un terreno de la propiedad de",
+    "Don Jorge Macome; hecha la competente citacion de linderos, como se ve",
+    "de la circular que suscriben y se acompaña; me situé en el mojon del",
+    "angulo Sur de este terreno, que es un palo de ñandubay, costanero del",
+    "terreno de Don Buenaventura Flores, sobre su linea Nordeste, y se halla",
+    "puesto sobre la margen Noroeste del arroyo de Suero y al Sur cinco",
+    "grados Oeste del centro de las casas de Don Jorge Macome: de este mo-",
+    "jon puse el rumbo de Noroeste corregido con quince grados variacion",
+    "como se habia medido primitivamente el terreno del señor Flores, y á",
+    "la distancia de cinco mil novecientas veinte varas di con la linea",
+    "Sudeste del terreno de Don Pablo Falcon, quedando al Sudoeste de la",
+    "aguja y setenta y dos varas un mojon de piedra, y el esquinero de",
+    "dicho Falcon trescientas sesenta varas, tambien al Sudoeste; habiendo",
+    "hallado á dos mil varas, sobre la linea medida, otro mojon de ñan-",
+    "dubay: puesto un mojon de ñandubay en el punto de interseccion de es-",
+    "tas dos lineas, al Sur ochenta y siete grados Este del sauce de Don",
+    "Estevan Ramirez y al Sur setenta grados treinta minutos Este del",
+    "centro de las casas de Don Pablo Falcon, varié de direccion al Nor-",
+    "deste de la aguja, medí mil trescientas varas y se situó otro palo",
+    "de ñandubay; habiendo encontrado á seiscientas cuarenta varas el mo-",
+    "jon esquinero comun á los terrenos de Don Pablo Falcon y de Don Ma-",
+    "riano Falcon, que hoy pertenece este terreno y ^{el} de Doña Pilar Casco,"
+   ],
+   "interpretacion": "La hoja abre con el encabezado obligatorio de la época de Rosas, «Viva la Confederación Argentina / Mueran los salvajes unitarios», y reconstruye la cadena de títulos, que es el fundamento jurídico de la mensura. El primer poseedor es Vicente Martel. Martel permuta el terreno con Apolinario Galeano. Galeano lo vende en 1839 a Jacinto Bogarín ante el juez de paz de Areco. Bogarín pierde la escritura y tiene que probar su propiedad con testigos ante el juez Gaete. Finalmente, por medio de Bernabé Font, vende a Jorge Macome el 22 de julio de 1846: 1300 varas de frente al arroyo de Suero, con fondo hasta las «suertes principales» del río Areco.\nEl 28 de agosto el agrimensor público Raymundo Prat cita a los linderos y arranca en el esquinero Sur, un palo de ñandubay en la margen NO del arroyo de Suero, que ubica respecto de las casas del propio Macome. Mide hacia el NO con la misma corrección de 15° con que se había medido antes el campo vecino de Flores. A las 5920 varas encuentra la línea SE de Pablo Falcón y, a los costados, un mojón de piedra y otro de ñandubay. Clava un nuevo ñandubay, lo refiere al sauce de Esteban Ramírez y a las casas de Falcón, y gira 1300 varas al NE. Cierra la hoja aclarando que los terrenos de los Falcón pertenecen ahora a Pilar Casco y a Francisco del Sar."
+  },
+  {
+   "titulo": "Folio 1 (vuelto)",
+   "img": "img/f/002/06.jpg",
+   "fuente": "IMG_6566.JPG",
+   "nota": "Cierre de la diligencia, cálculo de superficie, nota sobre linderos y firma del agrimensor. Al pie, nota del Departamento Topográfico con las firmas de Arenales y Salas.",
+   "lineas": [
+    "á Don Francisco del Sar: del mojon ultimamente puesto se de-",
+    "marcó el centro de la casa de Don Francisco del Sar al Norte",
+    "cuarenta y un grados Oeste y la casa de Don Pablo Falcon al",
+    "Sur ochenta y seis grados Oeste, se puso el rumbo de Sudeste cor-",
+    "regido y á las cinco mil novecientas varas se encontró el ar-",
+    "royo de Suero, sobre cuya barranca se colocó otro ñandubay que",
+    "demora al Sur cincuenta grados Oeste del centro de la casa de Don",
+    "Vicente Martel y al Norte sesenta y nueve grados treinta mi-",
+    "nutos Este de la casa de Don Jorge Macome: de este mojon me",
+    "dirigí al Sudoeste de la aguja y medí, costeando el arroyo de Suero,",
+    "la distancia de mil trescientas varas, con que salí como veinte",
+    "varas al Noroeste corregido del mojon de arranque. Todas las de-",
+    "marcaciones hechas de los mojones esquineros, fueron de la aguja.",
+    "La figura de este terreno es la de un romboide, que incluyendo",
+    "las sinuosidades del arroyo de Suero, puede calcularse como un rec-",
+    "tangulo de mil trescientas varas de base y cinco mil novecien-",
+    "tas varas de altura, ó viseversa; y su area es igual á siete mi-",
+    "llones seiscientas setenta mil varas cuadradas: uno de sus lados,",
+    "el Sudeste, queda limitado por el arroyo de Suero; otro costado, el",
+    "Sudoeste, por el terreno de Don Buenaventura Flores; otro, el No-",
+    "roeste, por los terrenos de Don Francisco del Sar y de Don Pablo",
+    "Falcon; y el otro, Nordeste, por el terreno de Don Francisco del Sar.",
+    "La variacion de la aguja fue de trece grados Nordeste; habiendose",
+    "verificado esta operacion con un teodolite azimutal, que tiene",
+    "de apartamiento la misma inclinacion, respecto á la meridiana",
+    "traza en la Capital.",
+    "Raymundo Prat y Puig [?] [rúbrica]",
+    "Nota. Ningun lindero ha hecho oposicion á la mensura; habien-",
+    "do asistido á ella personalmente, cada uno en su linea respectiva,",
+    "Don Buenaventura Flores y Don Pablo Falcon; y Don Jose Clemen-",
+    "te Lavallen lo verificó en representacion de Don Francisco del Sar.",
+    "Raymundo Prat y Puig [?] [rúbrica]",
+    "No habiendo podido concordar sus opiniones los actuales miem-",
+    "bros del Departamento Topografico relativamente al despacho de este asunto,",
+    "se limitan á hacerlo constar; y lo devuelven al interesado para que use",
+    "de su derecho segun creyere convenirle. — Buenos Aires, Noviembre 18 de 1846.",
+    "Arenales [rúbrica]                    Salas [rúbrica]"
+   ],
+   "interpretacion": "Desde el último mojón, referido a las casas de Francisco del Sar y de Pablo Falcón, Prat baja 5900 varas al SE hasta la barranca del arroyo de Suero. Allí planta otro ñandubay, orientado respecto de las casas de Vicente Martel y de Macome. Luego costea el arroyo 1300 varas y cierra el polígono con un error de unas 20 varas respecto del mojón de arranque. Es un error de cierre admitido con franqueza.\nDescribe la figura como un «romboide» asimilable a un rectángulo de 1300 × 5900 varas, es decir 7.670.000 varas cuadradas, unas 575 ha. Enumera los cuatro linderos y deja constancia de un dato técnico notable: con un teodolito azimutal verificó que la variación de la aguja era de 13° NE, referida a la meridiana trazada en la Capital. Sin embargo, al principio del acta había corregido 15° para seguir la mensura antigua de Flores.\nLa nota final dice que los linderos Flores y Falcón asistieron en persona y que José Clemente Lavallen representó a del Sar, sin oposición. Debajo, el giro del expediente: el 18 de noviembre de 1846 los miembros del Departamento Topográfico, Arenales y Salas, declaran que no lograron ponerse de acuerdo y devuelven la mensura al interesado sin aprobarla."
+  },
+  {
+   "titulo": "Folio 2 (recto)",
+   "img": "img/f/002/07.jpg",
+   "fuente": "IMG_6567.JPG",
+   "nota": "Cambia la mano: la letra del oficial copista es más cursiva y difícil. Foliatura «2» con sello. Las comillas de apertura («\"») marcan que se trata de una copia literal.",
+   "lineas": [
+    "[Bue]nos aires Enero 29 de 1847.",
+    "Habiendo vuelto á este Departamento, por decreto judicial de 25 del pre-",
+    "sente, el expediente relativo á la antecedente diligencia de mensura;",
+    "antes de proceder á su despacho, el oficial Don Nemecio Lopez estien-",
+    "de á continuacion una copia integra y literal de la solicitud de",
+    "Jorge Macome, de la vista fiscal que la sigue y del decreto judi-",
+    "cial de 25 del presente. — Arenales [rúbrica]",
+    "¡Viva la Confed.^{on} Argentina!",
+    "¡Mueran los Salvages unitarios!",
+    "[al margen: …come.] ¡Viva la Confed.^{on} Argentina!",
+    "¡Mueran los Salvages unitarios!",
+    "\"Buenos Ayres D^{bre} [?] 3 de 1846.",
+    "\"Año 37 de la Libert.^{d}, 31 de la Indep.^{a}",
+    "\"y 17 de la Confed.^{on} Argentina.",
+    "\"S^{or} Juez de 1.^{a} Instancia",
+    "[J]orge Macome de este vecindario en el expediente que hé",
+    "iniciado para mensurar un Campo de mi propiedad",
+    "ante V.S. digo: Que habiendo obtenido en veinte y ocho de",
+    "Julio permiso de V.S. p.^{a} practicar la Mensura que hé",
+    "solicitado — practicada esta por el agrimensor nombrado de",
+    "conformidad á las instrucciones que se le dieron en el",
+    "Departamento Topografico, y con sujecion á las Supremas",
+    "disposiciones vigentes en el particular el agrimensor —",
+    "presentó dha. operacion al Departamento para su apro-",
+    "bacion incluyendo el Plano correspondiente del Campo",
+    "y delineacion. — Mas, me ha sorprendido el que los S.S. —",
+    "de aquel Departamento me hayan mandado entre-",
+    "gar el expediente sin haber resuelto cosa alguna subs-",
+    "tancial en el despues de largo tiempo con solo la nota",
+    "\"de que no habiendo podido concordar sus opiniones los",
+    "\"actuales miembros del Departamento Topografico rela-",
+    "\"tivamente al despacho de este asunto se limitan",
+    "\"á hacerlo constar\" segun se vé á f. 8.",
+    "[Esta] conducta Señor Juez me origina graves perjuicios y",
+    "de consideraciones, y es por ello que ocurro á V.S. —"
+   ],
+   "interpretacion": "El 29 de enero de 1847 el presidente del Departamento Topográfico, José Arenales, recibe de vuelta el expediente por orden judicial. Antes de despacharlo manda que el oficial Nemesio López copie literalmente tres piezas: el escrito de Macome, la vista del fiscal y el decreto del juez.\nLa primera es el reclamo de Macome, fechado en Buenos Aires el 3 de diciembre de 1846 [?]. Recuerda que obtuvo permiso judicial el 28 de julio, que la mensura se hizo según las instrucciones del Departamento y las disposiciones vigentes, y que el agrimensor presentó el plano para su aprobación. Se queja de que, «después de largo tiempo», el Departamento le devolvió el expediente con una simple nota de desacuerdo interno, sin resolver nada sustancial. Alega que esa conducta le causa «graves perjuicios» y por eso acude al juez.\nSe ve la tensión entre el propietario y la burocracia técnica del Estado rosista: aunque la operación de campo esté bien hecha, la propiedad no se consolida sin el aval del Departamento."
+  },
+  {
+   "titulo": "Folio 2 (vuelto)",
+   "img": "img/f/002/08.jpg",
+   "fuente": "IMG_6568.JPG",
+   "nota": "Misma mano copista. Contiene el final del escrito de Macome, la vista fiscal, el decreto del juez Gaete y la certificación de la copia.",
+   "lineas": [
+    "= á fin de que se sirva ordenar á los Señores Miembros",
+    "del Departamento Topografico expongan clara y",
+    "terminantemente cual es el motivo de haber discor-",
+    "dado, y en que punto de la Mensura, que ella esta",
+    "arreglada á las Disposiciones vigentes. — Por tanto —",
+    "A V.S. suplico que así lo provea y mande por ser",
+    "justicia &. (Firmado) \"Jorge [?] Macome.\"",
+    "\"¡Viva la Confed.^{on} Argentina!",
+    "\"¡Mueran los salvages unitarios!",
+    "\"S^{or} Juez de 1.^{a} Instancia.",
+    "El Agente Fiscal de lo civil á la vista conferida dice:",
+    "que la solicitud de D. Jorge Macome, la encuentra",
+    "el Ministerio muy arreglada, y por lo mismo",
+    "pide á V.S. se sirva deferir á ella mandando que",
+    "el Departamento certifique á cerca de la mensura",
+    "practicada expresando por separado los pareceres",
+    "que en su vista se hayan formado. Es justicia —",
+    "Buenos Ayres Enero 16 de 1847.",
+    "(Firmado) \"Carballido.\"",
+    "\"Buenos Ayres Enero 25 de 1847.",
+    "\"Pase el expediente, con el correspondiente oficio,",
+    "al Departamento Topografico, para que informe",
+    "convenientemente.",
+    "(Firmado) Gaete.",
+    "\"Lo firmó el Señor Juez de Primera Instancia en lo",
+    "civil D.^{r} D.^{n} Romualdo Gaete en Buenos Ayres á",
+    "veinte y cinco de Enero de mil ochocientos cuaren-",
+    "ta y siete de que doy fé.",
+    "(Firmado) = \"Manuel Tomas Llames [?].\"",
+    "Es copia integra y literal de sus respectivos originales",
+    "en el expd.^{te} rotulado = Expediente de Mensura de",
+    "unos terrenos pertenecientes á D. Jorge Macarme [sic] =",
+    "Año de 1846 = Juez de 1.^{a} Inst.^{a} el S^{or} D^{r} Gaete = Escribano ="
+   ],
+   "interpretacion": "Macome termina su escrito pidiendo al juez que obligue a los miembros del Departamento a explicar «clara y terminantemente» por qué discreparon y en qué punto de la mensura, porque a su juicio la operación se ajusta a las normas vigentes.\nEl agente fiscal Carballido, el 16 de enero de 1847, le da la razón: encuentra la solicitud «muy arreglada» y pide que el Departamento certifique sobre la mensura y exprese por separado los pareceres de cada miembro. El 25 de enero el juez Romualdo Gaete ordena pasar el expediente al Departamento para que informe; da fe el escribano Llames [?].\nCierra la certificación de copia del oficial, donde el apellido del propietario aparece deformado como «Macarme». Es una señal de lo extraño que resultaba el nombre, posiblemente de origen británico, para los escribientes."
+  },
+  {
+   "titulo": "Folio 3 (recto)",
+   "img": "img/f/002/09.jpg",
+   "fuente": "IMG_6569.JPG",
+   "nota": "Vuelve la letra del Departamento. Foliatura «3». Al pie queda media hoja en blanco. Las palabras «mui arreglada» están subrayadas en el original.",
+   "lineas": [
+    "= Llames. —\"",
+    "Buenos Ayres Enero 29 de 1847.",
+    "Nemecio Lopez [rúbrica]",
+    "V.^{to} B.^{no} [?]",
+    "Salas [rúbrica]",
+    "Señor Juez de 1.^{ra} Instancia.",
+    "En virtud de lo que disponen los artículos 3.^{ro} (atribucion 1.^{ra}) y 7.^{mo} del Supremo",
+    "decreto erecional de 26 de Junio de 1826, la solicitud de Macome que an-",
+    "tecede, lejos de ser mui arreglada, es mui descaminada i irregular; y en",
+    "virtud del Supremo decreto de 1.^{ro} de Julio de 1822, esa solicitud es ademas mui",
+    "seriamente reprensible, por el lenguaje altivo, conminante y prepotente",
+    "que emplea Macome hácia una autoridad constituida, cualquiera que",
+    "sea el rango ó categória relativa de ésta: es tambien de recordarse",
+    "al proposito la suprema resolucion de 22 de Mayo de 1835. — Queda",
+    "copia oficial en este Departamento de la espresada solicitud, de la",
+    "vista fiscal que la subsigue, y del decreto judicial en mérito de ambas.",
+    "Buenos aires, Enero treinta de mil ochocientos cuarenta y siete.",
+    "Arenales [rúbrica]                    Salas [rúbrica]"
+   ],
+   "interpretacion": "La respuesta del Departamento Topográfico al juez, el 30 de enero de 1847, es tajante. Se apoya en su decreto de creación del 26 de junio de 1826 (artículos 3.º y 7.º) y sostiene que la solicitud de Macome, «lejos de ser muy arreglada» (repitiendo con ironía las palabras del fiscal), es «muy descaminada e irregular».\nAgrega que es «muy seriamente reprensible» por su «lenguaje altivo, conminante y prepotente» hacia una autoridad constituida. Para eso invoca un decreto del 1.º de julio de 1822 y una «suprema resolución» del 22 de mayo de 1835, que es del segundo gobierno de Rosas. No informa sobre el fondo técnico: deja copia y firma.\nEl conflicto pasa del terreno a la jerarquía. Lo que está en discusión ya no es la línea, sino quién tiene autoridad para decir que la línea es válida. El expediente no registra la aprobación final de la mensura."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la mensura de Jorge Macome",
+   "img": "img/f/002/03.jpg",
+   "fuente": "IMG_6572.JPG (la misma lámina en IMG_6571 e IMG_6573, con otra luz)",
+   "orientacion": "Lámina apaisada; los ríos corren de norte a sur (flechas hacia abajo).",
+   "interpretacion": "Prat dibuja una franja de campos largos y angostos, perpendiculares a los cursos de agua. Es el modelo de «suertes de estancia» del norte bonaerense: frente al agua y fondo profundo. De oeste a este el plano atraviesa el arroyo de Giles, el arroyo de Sosa, el arroyo de Suero, un arroyo intermedio [¿de Lobos?] y el río Areco, todos con flechas que marcan la dirección de la corriente. El campo de Macome ocupa la franja central, entre las líneas de 5920 y 5900 varas, con frente de 1300 varas sobre el arroyo de Suero. Al norte está la gran franja de Buenaventura Flores; al sur, «Sar»; al este, las parcelas de Falcón, Antonio Lima, Prado y Francisco del Sar, que llegan al río Areco. Dos agujas separadas por 15° distinguen el «Norte verdadero» del «Norte magnético». Es la representación gráfica de la corrección que discute el acta. Escala: «Escala de dos leguas», escala transversal graduada hasta 12.000 varas. Firma: Raymundo Prat y Puig.",
+   "referencias": [
+    [
+     "Arroyo de Giles",
+     "Curso de agua al oeste, límite occidental de la franja de Flores"
+    ],
+    [
+     "Arroyo de Sosa",
+     "Afluente con dos brazos; nace en bañados (achurado)"
+    ],
+    [
+     "Arroyo de Suero",
+     "Frente SE del campo de Macome; la línea de mensura arranca en su margen NO"
+    ],
+    [
+     "Arroyo [¿de Lobos?]",
+     "Curso intermedio que corta los campos de Falcón y del Sar"
+    ],
+    [
+     "Río de Areco",
+     "Límite oriental: las «suertes principales» del río Areco"
+    ],
+    [
+     "«-Flores» / «Don Buenaventura Flores»",
+     "Lindero SO/N, franja larga desde el arroyo de Giles"
+    ],
+    [
+     "«Macome»",
+     "Campo mensurado; cotas 5920 (lado norte) y 5900 (lado sur)"
+    ],
+    [
+     "m",
+     "Mojón de ñandubay hallado a 2000 varas sobre la línea medida"
+    ],
+    [
+     "360 / 1300",
+     "Distancias sobre la cabecera: 360 varas al esquinero de Falcón; 1300 varas de frente"
+    ],
+    [
+     "«Sar» / «Don Francisco del Sar»",
+     "Lindero sur y noreste (antes Falcón y Pilar Casco)"
+    ],
+    [
+     "«-Falcon» / «Falcon»",
+     "Terrenos de Pablo y Mariano Falcón"
+    ],
+    [
+     "«Don Antonio Lima» · «Prado»",
+     "Propietarios hacia el río Areco, no citados en el acta"
+    ],
+    [
+     "«…llen»",
+     "Rótulo parcial sobre el arroyo intermedio, probablemente [Lava]llen"
+    ],
+    [
+     "Norte verdadero / Norte magnético",
+     "Dos agujas con ángulo de 15° marcado entre ellas"
+    ],
+    [
+     "Escala",
+     "«Escala de dos leguas»: escala transversal de 1000 a 6000 varas y 12.000 varas"
+    ],
+    [
+     "Firma",
+     "Raymundo Prat y Puig [rúbrica]"
+    ]
+   ]
+  },
+  {
+   "titulo": "Plano de la mensura (hoja completa)",
+   "img": "img/f/002/04.jpg",
+   "fuente": "IMG_6570.JPG, girada 90°",
+   "orientacion": "Toma de la hoja entera con sus pliegues; permite ver márgenes y el formato del pliego.",
+   "interpretacion": "Es la misma lámina fotografiada con la hoja entera. Sirve para medir proporciones y ubicar la escala respecto del dibujo, algo útil para calibrar la georreferenciación.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje y referentes",
+   "texto": "A diferencia de 1825, aquí los mojones son palos de ñandubay y un mojón de piedra. Es madera dura traída del litoral: el hito ya es un objeto colocado, no un árbol del lugar. Solo sobrevive un árbol como referencia, el sauce de Esteban Ramírez; el resto son casas (de Macome, Falcón, del Sar, Martel). El agua sigue ordenando todo: cinco cursos (Giles, Sosa, Suero, uno intermedio y el Areco) y la «barranca» del Suero donde se planta un mojón."
+  },
+  {
+   "titulo": "El ritual de la mensura",
+   "texto": "Aparecen los pasos formales completos: escritura y cadena de títulos, información de testigos para suplir una escritura perdida, permiso judicial, citación de linderos por «circular», asistencia personal de los linderos (o de un representante), declaración de no oposición, firma y presentación con plano al Departamento Topográfico. A eso se suma el encabezado federal obligatorio, que funciona como una fórmula de adhesión política dentro del propio acto técnico."
+  },
+  {
+   "titulo": "Instrumental y corrección magnética",
+   "texto": "El acta es excepcional por su precisión instrumental: la operación se verificó con un «teodolito azimutal» respecto de la meridiana trazada en la Capital, y dio una declinación de 13° NE. Aun así, el agrimensor midió con 15° de corrección para seguir la mensura primitiva de Flores. La continuidad con los linderos pesa más que la exactitud. El plano deja registrado ese ángulo. Es posible que la diferencia de 2° explique el desacuerdo entre los miembros del Departamento."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "1300 × 5900 varas ≈ 1126 × 5109 m. Superficie declarada: 7.670.000 v² ≈ 575 ha. Las cabeceras miden 5920 y 5900 varas; el error de cierre ronda las 20 varas (≈17 m). Plano: «escala de dos leguas» (12.000 varas)."
+  },
+  {
+   "titulo": "Burocracia y poder",
+   "texto": "El expediente documenta un conflicto institucional. El Departamento Topográfico (Arenales y Salas) no aprueba ni rechaza: se declara en desacuerdo y devuelve. El propietario litiga. El fiscal y el juez lo apoyan. El Departamento responde reprendiendo el tono del particular y citando normas de 1822, 1826 y 1835. Es un documento valioso para estudiar el ejercicio del poder técnico bajo Rosas."
+  },
+  {
+   "titulo": "Tenencia de la tierra",
+   "texto": "La cadena Martel → Galeano (permuta) → Bogarín (1839, venta ante el juez de paz) → Macome (1846) muestra tierras privadas que cambian de mano con frecuencia, con títulos precarios (escritura extraviada) y un comprador de apellido probablemente británico. Esto coincide con la llegada de ovejeros británicos al norte bonaerense en la década de 1840."
+  },
+  {
+   "titulo": "Toponimia",
+   "texto": "El documento registra el arroyo de Suero (hoy arroyo Suero, entre Giles y Areco), el arroyo de Sosa y el arroyo de Giles. El apellido Sosa ya aparecía en la Mensura 1 (Santiago Sosa): es posible que el arroyo lleve el nombre de ese propietario. El texto sitúa la mensura en las «inmediaciones de San Antonio de Areco», porque en 1846 esta zona dependía de Areco."
+  },
+  {
+   "titulo": "Estado del documento y dudas",
+   "texto": "El documento está en muy buen estado y la letra caligráfica del agrimensor es muy legible; la del copista (folios 2 y 3) es más difícil. Quedan como dudosos el complemento de la firma («Prat y Puig»), el mes de la solicitud (Dbre), la inicial intermedia de Macome, el apellido del escribano (Llames) y el nombre del arroyo intermedio del plano. Faltan fojas del expediente judicial (la solicitud cita «f. 8»): este duplicado conserva solo una parte."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Por qué discreparon Arenales y Salas: por los 2° de declinación, por el error de cierre o por la titulación precaria? ¿Se aprobó finalmente la mensura? ¿Quién era Macome (¿McComb?) y qué hacía en su campo: ovejas, saladero? ¿El «romboide» que describe Prat coincide, llevado al GIS, con las divisiones actuales entre los arroyos Suero y Areco? ¿Qué nos dice que el reclamo de un particular fuera tratado como un desacato?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Raymundo Prat y Puig",
+   "rol": "Agrimensor público actuante",
+   "texto": "Agrimensor activo al menos desde 1826. En Chivilcoy hizo varias mensuras entre 1826 y 1829, entre ellas las de Dionisio Moyano, Pedro Nolasco Pereyra, Santiago Barrios y Santiago Villamayor, en la época de la enfiteusis. Consta como «Raimundo Prat y Puig». En 1846 trabaja en la zona de Areco-Giles con un teodolito azimutal y referencia a la meridiana de la Capital, lo que indica una formación técnica cuidada. El doble apellido sugiere origen catalán.",
+   "fuentes": "Municipalidad de Chivilcoy, «Poblamiento rural en el siglo XIX: enfiteutas» (PDF); esta mensura."
+  },
+  {
+   "nombre": "Jorge Macome",
+   "rol": "Propietario / solicitante",
+   "texto": "Comprador del campo en 1846 y vecino de Buenos Aires («de este vecindario»). Ya tenía casas en el terreno al momento de la mensura. El apellido, que los escribientes deformaban («Macarme»), podría ser una castellanización de McComb o Macomb, lo que haría de él uno de los británicos que invirtieron en tierras del norte bonaerense en la década de 1840. Litigó contra el Departamento Topográfico con un escrito que la institución calificó de «altivo y prepotente». No se hallaron datos en fuentes en línea.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "José Arenales",
+   "rol": "Presidente del departamento topográfico",
+   "texto": "Ingeniero y cartógrafo nacido en el Alto Perú. Aplicó las matemáticas al trabajo militar, levantando cartas geográficas y planos, y elaboró mapas para la expedición al desierto de Rosas de 1833. Presidió el Departamento Topográfico más de 24 años, durante todo el período rosista. Renunció el 22 de abril de 1852, después de Caseros, alegando problemas de salud y una «sordera completa». Su firma encabeza las tres actuaciones del Departamento en este expediente.",
+   "fuentes": "Revista Andes / SciELO (2014), «El restablecimiento del Departamento Topográfico de Buenos Aires (1852-1857)»."
+  },
+  {
+   "nombre": "Saturnino Salas",
+   "rol": "Miembro del departamento topográfico",
+   "texto": "Formado en el Colegio de Ciencias Morales, entró joven al Departamento. Después de Caseros fue ingeniero 2.º (1852), presidente interino (1853) y presidente (1855-1875). Impulsó la escuela de agrimensores de 1857 y la nivelación general de la ciudad. En 1846-47 firma con Arenales la nota de desacuerdo y el informe contra Macome, y además da el visto bueno a la copia.",
+   "fuentes": "Revista Andes / SciELO (2014)."
+  },
+  {
+   "nombre": "Dr. Romualdo Gaete",
+   "rol": "Juez de 1.ª instancia en lo civil",
+   "texto": "Juez civil de Buenos Aires en la década de 1840. Recibió la información de testigos de Bogarín, autorizó la mensura (28 de julio de 1846) y ordenó al Departamento informar (25 de enero de 1847). No se hallaron más datos biográficos en fuentes en línea.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Carballido",
+   "rol": "Agente fiscal de lo civil",
+   "texto": "Firmó la vista fiscal del 16 de enero de 1847, favorable a Macome. Sin datos adicionales.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Nemesio López · Manuel Tomás Llames [?]",
+   "rol": "Oficial copista del departamento · escribano",
+   "texto": "López extendió la copia literal por orden de Arenales. Llames dio fe del decreto judicial. Sin datos adicionales.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Buenaventura Flores · Pablo y Mariano Falcón · Francisco del Sar · José Clemente Lavallen",
+   "rol": "Linderos y representante",
+   "texto": "Flores es el lindero SO y su campo había sido medido antes con 15° de corrección. Los Falcón son linderos al NO y sus tierras pasaron a Pilar Casco y a Francisco del Sar. Lavallen representó a del Sar en el acto. Esteban Ramírez (con su sauce) y Vicente Martel (primer poseedor, con casa sobre el arroyo) completan el vecindario. Conviene rastrearlos en el Registro Gráfico de 1830/1864 y en el padrón de 1836.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Jacinto Bogarín · Bernabé Font · Apolinario Galeano · Vicente Martel",
+   "rol": "Cadena de titulares anteriores",
+   "texto": "Martel fue el primer poseedor. Permutó con Galeano, que vendió en 1839 a Bogarín ante el juez de paz de Areco. Font actuó como representante de Bogarín en la venta a Macome. Sin datos adicionales.",
+   "fuentes": "Esta mensura."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/002/02.jpg",
+  "fuente": "IMG_6563.JPG",
+  "lineas": [
+   "San Andres de Giles",
+   "N.º 2",
+   "———",
+   "Duplicado de la diligencia de",
+   "mensura de un terreno de D^{n} Jorge",
+   "Macome. —",
+   "———",
+   "Año                 Agrimensor",
+   "1846 —               Prat",
+   "———"
+  ]
+ },
+ "titulo": "D. Jorge Macome",
+ "estado": "Transcripta (5 hojas, 166 renglones), 2 láminas"
+}

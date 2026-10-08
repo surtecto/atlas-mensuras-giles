@@ -1,0 +1,539 @@
+{
+ "carpeta": "35",
+ "carpeta_nombre": "Carpeta 35",
+ "archivo": "Ficha 035 - José Rois (1865).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles",
+  "N.º de duplicado": "35 (portadilla: «Sección Areco N.º 183»)",
+  "Propietario / solicitante": "D. José Rois (sobrante denunciado)",
+  "Agrimensor": "Teodoro Fremiot",
+  "Año": "1865",
+  "Fecha de la diligencia": "16/10/1865; presentada 11/12/1865; D. T. 3/4/1866; sin efecto 2/7/1873",
+  "Ubicación": "Margen E del arroyo de Giles, campo de los Peñalva, hasta la línea de Díaz de Vivar",
+  "Orden judicial": "Superior Gobierno (denuncia de tierra pública)",
+  "Vendedor / antecesor": "Suero → Vicente Peñalva (1793 [?]) → nietas → Vélez, Silva, Duarte de Rodríguez",
+  "Linderos citados": "M. Duarte de Rodríguez · test. de P. Vélez · Díaz de Vivar · Romana Díaz · Remigio Rodríguez",
+  "Medidas": "Sobrante 4.462.772 m² (446 ha); frente 2598 m; lados 8011,3 · 2709,7 · 7257 m",
+  "Rumbos": "S 47° 45′ E; S 58° 55′ O; N 42° 15′ E; variación 11° 50′ (alturas corresp.)",
+  "Referencia de archivo": "Duplicado 35; «Sección Areco N.º 183»; copia azul de 1906"
+ },
+ "metricas": {
+  "superficie_ha": "446,28 (sobrante); baldío 270,06",
+  "hitos": "Mojón de Gonnet junto al arroyo; mojones de piedra de Vivar; casa de la Sra. Rodríguez; población de Tadeo Rodríguez",
+  "aguas": "Arroyo de Giles; Cañada de Suero [?] y arroyo del Sauce (a lápiz)"
+ },
+ "sintesis": "Mensura administrativa de Teodoro Fremiot (16/10/1865) del «sobrante» que José Rois denunció en el campo que fue de Vicente Peñalva, margen E del arroyo de Giles: el título daba 3000 varas por una legua, pero los ocupantes —Mauricia Duarte de Rodríguez, Antonino Silva, Lucía Vélez y los menores de Pedro Vélez— poseían hasta la línea de Díaz de Vivar. Fremiot arranca del mojón de Gonnet (1862), entrega a cada uno su fondo y deslinda 446 ha de sobrante, más un «terreno baldío» de 270 ha sin título. El D. T. aprueba (3/4/1866), pero los Peñalva reclaman; en 1873 la denuncia queda sin efecto. En 1906 los herederos de Romero ganan el baldío por posesión treintañal (copia azul agregada). Falta el f. 3 v.",
+ "caratula": {
+  "img": "img/f/035/01.jpg",
+  "fuente": "IMG_7074.JPG",
+  "campos": [
+   [
+    "N.º",
+    "35"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Herederos de José Rois"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Teodoro Fremiot"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1865"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Extracto de títulos: el campo de Vicente Peñalva y las ventas de sus nietas",
+   "img": "img/f/035/07.jpg",
+   "fuente": "IMG_7076.JPG",
+   "nota": "Foliatura «1». Letra de Fremiot. «de frente» y «por» entre renglones. «Velox» = Vélez (Fichas 024, 032).",
+   "lineas": [
+    "Estracto de Titulos",
+    "el terreno que se trataba de medir segun",
+    "la denuncia hecha por D.^{n} José Rois ha sido",
+    "antes de D.^{n} Vicente Peñalva constando ese terreno",
+    "de dos mil quinientos noventa y ocho metros ^{de frente} por cinco",
+    "mil ciento noventa y seis de fondo dandole el mismo",
+    "fondo que otro terreno del mismo dueño situado",
+    "sobre la banda occidental del arroyo de Giles",
+    "arroyo por medio.",
+    "la S.^{ra} D.^{a} Sinforosa Roldan viuda de D.^{n} P.^{o}",
+    "Velox en representacion de sus hijos menores enseñó",
+    "escrituras de siete cientos setenta y nueve metros por",
+    "cinco mil ciento noventa y seis de fondo comprados",
+    "por P.^{o} Velox a D.^{a} Paula Rodriguez nieta de",
+    "V.^{te} Peñalva, lindando por el Sur con otro terreno",
+    "de la testamentaria de Velox, que le cupó por muerte",
+    "de su primera esposa D.^{a} Bernarda Burgos, por",
+    "compra que se hizo a los herederos de Jacinta",
+    "Peñalva, escritura que he tenido a la vista.",
+    "Lucia Velox compró á su S.^{r} padre P.^{o} Velox",
+    "doscientos diez y seis metros cincuenta centimetros ^{de} frente",
+    "al arroyo de Giles por cinco mil ciento noventa y",
+    "seis metros de fondo, les correspondia á D.^{n} P.^{o} Velox",
+    "por compra que de ellos hizo á D.^{a} Romana Diaz",
+    "a quien le cupó ^{por} ~~de~~ herencia de su madre D.^{a} Cruz",
+    "Rodriguez de Diaz nieta de V.^{te} Peñalva.",
+    "D.^{n} Domingo Silva padre de D.^{n} Antonino Silva"
+   ],
+   "interpretacion": "El terreno denunciado por José Rois fue de Vicente Peñalva: 2598 m de frente (3000 varas) por 5196 m de fondo (6000 varas, una legua), «dándole el mismo fondo que otro terreno del mismo dueño» situado en la banda occidental del arroyo de Giles, «arroyo por medio». Títulos de los ocupantes actuales: Sinforosa Roldán, viuda de Pedro Vélez, por sus hijos menores, muestra escrituras de 779 m (900 v) de frente por 5196 m, comprados por Vélez a Paula Rodríguez, nieta de Vicente Peñalva; lindan al S con otro terreno de la testamentaría de Vélez —que le tocó por muerte de su primera esposa Bernarda Burgos y se compró a los herederos de Jacinta Peñalva—. Lucía Vélez compró a su padre 216,50 m (250 v) de frente, que éste había comprado a Romana Díaz, heredera de su madre Cruz Rodríguez de Díaz, nieta de Peñalva. Domingo Silva, padre de Antonino Silva…"
+  },
+  {
+   "titulo": "Folio 1 v. · Silva, el «terreno baldío» de Vélez y el título de Mauricia Duarte",
+   "img": "img/f/035/08.jpg",
+   "fuente": "IMG_7077.JPG",
+   "nota": "«valdio» por baldío.",
+   "lineas": [
+    "compró a D.^{n} P.^{o} Velox doscientos diez y seis",
+    "metros cincuenta centimetros por cinco mil ciento",
+    "noventa y seis metros de fondo y otra fraccion con",
+    "el mismo frente y fondo a D.^{n} José de la Rosa",
+    "esas dos fracciones habian sido antes de D.^{a} Cruz",
+    "Rodriguez de Diaz una de las herederas de V.^{te}",
+    "Peñalva.",
+    "todas esas fracciones lindan al oeste con el",
+    "arroyo de Giles, segun las escrituras que me mani-",
+    "festaron en el acto de la mensura, y al Este",
+    "con sobras; entre D.^{a} Lucia Velox y los menores",
+    "aparece un terreno valdio cuyo terreno ha disfru-",
+    "tado hace años D.^{n} P.^{o} Velox pero sin escrituras",
+    "titulo de D.^{a} Mauricia Duarte de Rodriguez",
+    "en el año 1826 Hilarion Rodriguez vendió a",
+    "Bernardino Rodriguez esposo de D.^{a} Mauricia",
+    "Duarte seiscientos cuarenta y nueve metros cincuenta",
+    "centimetros por cinco mil ciento noventa y seis",
+    "metros de fondo el frente al arroyo de Giles",
+    "en el mismo año el mismo Bernardino Rodriguez",
+    "compró otra fraccion con el mismo frente por",
+    "dos mil nuevecientos cuarenta y cuatro metros cua-",
+    "renta centimetros de fondo lindando al oeste",
+    "esta fraccion con aquella. Sumando el fondo de",
+    "esas dos fracciones dan un total de ocho mil",
+    "ciento cuarenta metros mientras que sobre el"
+   ],
+   "interpretacion": "…compró a Pedro Vélez 216,50 m por 5196 m y otra fracción igual a José de la Rosa; ambas habían sido de Cruz Rodríguez de Díaz, heredera de Peñalva. Todas lindan al O con el arroyo de Giles y «al Este con sobras». Entre Lucía Vélez y los menores «aparece un terreno baldío» que Pedro Vélez «ha disfrutado hace años… pero sin escrituras».\nTítulo de Mauricia Duarte de Rodríguez: en 1826 Hilarión Rodríguez vendió a Bernardino Rodríguez, su esposo, 649,50 m (750 v) de frente al arroyo por 5196 m de fondo; el mismo año Bernardino compró otra fracción de igual frente por 2944,40 m (3400 v) de fondo, a continuación de aquélla. Sumadas dan 8140 m de fondo, pero en el terreno…"
+  },
+  {
+   "titulo": "Folio 2 · Comisión; arranque en el mojón de Gonnet; línea de Duarte",
+   "img": "img/f/035/09.jpg",
+   "fuente": "IMG_7078.JPG",
+   "nota": "Foliatura «2». «8.bre p.mo p.do» = octubre próximo pasado.",
+   "lineas": [
+    "terreno no se encontraron mas que ocho mil once",
+    "metros treinta centimetros.",
+    "ninguna de estas escrituras han sido protocolizadas.",
+    "Diligencia de Mensura",
+    "en el partido de Giles a diez y seis del mes de",
+    "8.^{bre} p.^{mo} p.^{do} de 1865. hallandome yo el agrimensor publico",
+    "Teodoro Fremiot comisionado por el Superior Gobierno",
+    "para medir el sobrante de propiedad publica que",
+    "existe en el campo de los herederos de D.^{n} V.^{te} Peñalva",
+    "y concedido en compra a D.^{n} José Rois, despues de",
+    "haber avisado al S.^{r} Juez de paz del partido de mi",
+    "comision como á todos los linderos, segun consta de la",
+    "citacion que acompaña á estas diligencias, di cum-",
+    "plimiento a mi comision del modo siguiente:",
+    "pasé al mojon esquinero Oeste del terreno de D.^{n}",
+    "J.^{e} Duarte hoy de la S.^{ra} Mauricia Duarte de Ro-",
+    "driguez, dicho mojon queda inmediato al arroyo de Giles",
+    "y ha sido puesto por el agrimensor Gonnet quando",
+    "practicó la mensura del terreno de D.^{n} J.^{sé} Duarte",
+    "hize poner banderas en los mojones del deslinde",
+    "Sur Oeste de Duarte, se tiró el rumbo del mencionado",
+    "deslinde y se halló ser el del Sur cuarenta y siete",
+    "grados cuarenta y cinco minutos Este se midieron en",
+    "esta direccion ocho mil once metros treinta centimetros",
+    "hasta dar con el mojon esquinero Sur del terreno de",
+    "Duarte y se encontraron en esta linea mojones a cada",
+    "media legua. no ha sido posible de dar con el rumbo",
+    "seguido por el agrimensor Differt en la mensura"
+   ],
+   "interpretacion": "…sólo se hallan 8011,30 m. «Ninguna de estas escrituras han sido protocolizadas.»\nDiligencia: partido de Giles, 16/10/1865. Fremiot, comisionado por el Superior Gobierno para medir el sobrante de propiedad pública «que existe en el campo de los herederos de D. Vicente Peñalva», concedido en compra a José Rois, avisa al juez de paz y a los linderos. Va al esquinero O del terreno de José [Gabriel] Duarte, hoy de Mauricia Duarte de Rodríguez, mojón «inmediato al arroyo de Giles» puesto por Gonnet (Ficha 032, 1862); con banderas en los mojones del deslinde SO de Duarte halla el rumbo S 47° 45′ E y mide 8011,30 m hasta el esquinero S de Duarte, con mojones cada media legua. «No ha sido posible dar con el rumbo seguido por el agrimensor Differt» en la mensura…"
+  },
+  {
+   "titulo": "Folio 2 v. · Línea de Díaz de Vivar; vuelta al arroyo; el baldío",
+   "img": "img/f/035/10.jpg",
+   "fuente": "IMG_7079.JPG",
+   "nota": "«noventa» testado, «nueve» entre renglones (salvado en f. 4). «Norte 47° 45′ Este» es lapsus por Oeste.",
+   "lineas": [
+    "practicada por D.^{n} Lorenzo Torres. colocado en este",
+    "sitio mandé poner banderas en los mojones de",
+    "piedras mas proximos de D.^{n} P.^{o} Diaz de Vivar",
+    "y en el mojon esquinero Este de Duarte la linea",
+    "salió perfectamente derecha se tiró el rumbo de",
+    "dicha linea y se halló ser el del Sur cincuenta",
+    "y ocho grados cincuenta y cinco minutos se midieron",
+    "a este rumbo dos mil sete cientos ^{nueve} ~~noventa~~ metros",
+    "setenta centimetros y se puso un mojon de",
+    "palo esquinero Sur del terreno que se media, en",
+    "seguida cuadré a la derecha al rumbo del",
+    "Norte cuarenta y siete grados cuarenta y cinco minutos",
+    "Este y se midieron en esta direccion siete mil",
+    "doscientos cincuenta y siete metros hasta dar con",
+    "el arroyo de Giles volviendo por atras ciento",
+    "noventa y cuatro metros ochenta centimetros cuadré",
+    "a la derecha al rumbo del Norte cuarenta y",
+    "dos grados quinze minutos Este se midieron",
+    "a este rumbo mil quinientos quinze metros cin-",
+    "cuenta centimetros habiendo levantado varias per-",
+    "pendiculares para reconocer el curso del arroyo",
+    "que diferencia poco de una paralela al rumbo",
+    "seguido en esa linea a los siete cientos setenta y",
+    "nueve metros cuarenta centimetros y a los ciento",
+    "sesenta y cinco metros cuarenta centimetros a la",
+    "izquierda del rumbo que se llevaba se puso",
+    "un mojon esquinero Oeste del terreno que figura",
+    "en el plano como valdio y a los quinientos diez"
+   ],
+   "interpretacion": "…de Lorenzo Torres (Ficha 023). Con banderas en los mojones «de piedras» más próximos de Pedro Díaz de Vivar y en el esquinero E de Duarte, «la línea salió perfectamente derecha»: S 58° 55′ [O], 2709,70 m, donde pone un mojón de palo, esquinero S (punto A). Cuadra a la derecha, N 47° 45′ [O], 7257 m hasta el arroyo de Giles; vuelve 194,80 m y sigue al N 42° 15′ E 1515,50 m, levantando perpendiculares al arroyo, que «diferencia poco de una paralela». A los 779,40 m (y 165,40 m a la izquierda) pone el esquinero O del «terreno que figura en el plano como baldío», y 519,60 m más allá…"
+  },
+  {
+   "titulo": "Folio 3 · Frente de 2598 m; entrega a cada uno «según sus escrituras»",
+   "img": "img/f/035/11.jpg",
+   "fuente": "IMG_7080.JPG",
+   "nota": "Foliatura «3». La diligencia se interrumpe: el folio 3 vuelto (cierre, superficie y linderos) no está entre las tomas.",
+   "lineas": [
+    "y nueve metros sesenta centimetros de este a la mar[gen]",
+    "del arroyo se puso otro mojon mojon esquinero Norte",
+    "del mismo terreno se siguió levantando el curso del",
+    "arroyo por abcisas y ordenadas paralelas a los dos",
+    "rumbos mencionados hasta rematar al punto de",
+    "arranque que venian á hacer dos mil quinientos",
+    "noventa y ocho metros de frente, que correspondia a",
+    "este terreno. pasé luego á entregar a cada uno el",
+    "terreno que le correspondia segun sus escrituras, con",
+    "este motivo volví al mojon esquinero A desde este",
+    "sitio al rumbo del Norte cuarenta y siete grados",
+    "cuarenta y cinco minutos Oeste se midieron mil nueve",
+    "cientos noventa y siete metros y se puso el mojon",
+    "esquinero Este del sobrante y sur del terreno de",
+    "los menores de Velox cuadré a la derecha al",
+    "rumbo del Norte cuarenta y dos grados quinze minutos",
+    "Este se midió a esta direccion siete cientos setenta",
+    "y nueve metros cuarenta centimetros, cuadré a la derecha",
+    "y se midieron cuarenta y siete metros y se puso un",
+    "mojon esquinero Sur del terreno valdio, cuadré en",
+    "seguida a la izquierda y al rumbo ya mencionado",
+    "se midieron quinientos diez y nueve metros sesenta",
+    "centimetros cuadré luego a la izquierda y medi",
+    "veinte cinco metros y se siguió por escalas para",
+    "dar a cada uno el fondo que le correspondia",
+    "al llegar al punto ^{B} puse un mojon que es este",
+    "esquinero Norte del sobrante cuadré en seguida",
+    "[falta la continuación: el f. 3 vuelto no figura entre las tomas]"
+   ],
+   "interpretacion": "…el esquinero N del mismo baldío; sigue el arroyo «por abscisas y ordenadas» hasta el arranque: son los 2598 m de frente del título de Peñalva. Pasa luego «a entregar a cada uno el terreno que le correspondía según sus escrituras»: desde A, N 47° 45′ O, 1997 m: mojón C, esquinero E del sobrante [sic] y S de los menores de Vélez; N 42° 15′ E 779,40 m; a la derecha 47 m: esquinero S del baldío; 519,60 m; a la izquierda 25 m, y «por escalas» da a cada uno su fondo hasta el punto B, esquinero N del sobrante… (falta el resto). Por el plano: el sobrante es el trapecio B-C-A-D al fondo de las fajas, de 4.462.772 m²."
+  },
+  {
+   "titulo": "Folio 4 · Cálculo de la variación por alturas correspondientes; presentación (11/12/1865)",
+   "img": "img/f/035/12.jpg",
+   "fuente": "IMG_7081.JPG",
+   "nota": "Esquina superior rota (falta el número de folio). Las cifras de la tabla dan una semidiferencia de ≈ 12° 05′, no 11° 50′: posible error de copia en algún azimut.",
+   "lineas": [
+    "Calculo de la Variacion",
+    "alturas correspondientes",
+    "por la mañana",
+    "Alturas        azimuths",
+    "22° 28'        19° 17'",
+    "22° 43'        18° 46'",
+    "23°            18° 2'",
+    "23° 16'        17° 30'",
+    "por la tarde",
+    "23° 29'        41° 06'",
+    "23° 16'        41° 41'",
+    "23°            42° 13'",
+    "22° 43'        43° 48'",
+    "mitad de la dif.^{a}",
+    "11° 50' = variacion",
+    "T.^{o} Fremiot",
+    "Presentado en el Depart.^{o} Topog.^{co} hoy",
+    "once de Dbre de 1865",
+    "A. Salas",
+    "Lejó [?] si: la palabra entre Reglones nueve",
+    "vale.",
+    "T.^{o} Fremiot",
+    "Ex//"
+   ],
+   "interpretacion": "Tabla de alturas correspondientes del Sol, mañana y tarde, con sus azimutes magnéticos; «mitad de la diferencia 11° 50′ = variación» (25′ mayor que la que el mismo Fremiot obtuvo la víspera, 15/10, en la Ficha 033: 11° 25′). Presentado en el Departamento Topográfico el 11/12/1865 (A. Salas). Salvado: la palabra entre renglones «nueve» vale. Firma T. Fremiot. Comienza el informe: «Ex[mo Señor]»."
+  },
+  {
+   "titulo": "Folio 5 · Informe del Departamento Topográfico (3/4/1866)",
+   "img": "img/f/035/13.jpg",
+   "fuente": "IMG_7082.JPG",
+   "nota": "Foliatura «5». Letra redonda de amanuense; firmas autógrafas.",
+   "lineas": [
+    "// mo Señor:–",
+    "El Departamento Topográfico",
+    "ha examinado la presente",
+    "mensura, practicada por el",
+    "agrimensor Don Teodoro Fre-",
+    "miot, de un terreno público,",
+    "en el Partido de Giles, conce-",
+    "dido en compra á Don José",
+    "Rois y encontrándola confor-",
+    "me con la concesion y arre-",
+    "glada á las disposiciones vi-",
+    "gentes sobre esta clase de ope-",
+    "raciones, la aprueba por su",
+    "parte y no vé inconvenien-",
+    "te alguno, en que V. E. le dé",
+    "su superior aprobacion.",
+    "Buenos Aires Abril 3 de /866.",
+    "Saturnino Salas    German Kuhr",
+    "Pedro Benoit"
+   ],
+   "interpretacion": "El Departamento Topográfico examinó la mensura de Fremiot del «terreno público» concedido en compra a José Rois; la encuentra conforme con la concesión y con las disposiciones vigentes, «la aprueba por su parte» y no ve inconveniente en la aprobación superior. Buenos Aires, 3/4/1866: Saturnino Salas, German Kuhr, Pedro Benoit."
+  },
+  {
+   "titulo": "Folio 5 v. · Notas del D. T.: Roy pide también el baldío; los Peñalva reclaman hasta la línea de Vivar",
+   "img": "img/f/035/14.jpg",
+   "fuente": "IMG_7083.JPG",
+   "nota": "Notas de Salas, de letra rápida; llamada (·) resuelta al pie.",
+   "lineas": [
+    "Nota = D.^{n} José Roy ha pedido en venta",
+    "el terreno que segun estas diligencias",
+    "y plano fué medido p.^{r} el Agrimen",
+    "sor Fremiot con frente al Arroyo de",
+    "Giles y entre la propiedad de los",
+    "Velox — El D. informó en Junio 15/",
+    "866",
+    "Salas",
+    "Nota = Segun escrituras presentadas p.^{r} los sucesores",
+    "de Peñalva, las fracciones designadas en",
+    "el plano con los n.^{os} 1, 2, 3, 4 y 5, terminan",
+    "de la primera en la linea de puntos BE. (·)",
+    "La fraccion n.º n.º 1 marcada A y y la p.^{te}",
+    "B han sido vendidas p.^{r} los sucesores de Peñal",
+    "va, en la creencia de que todo el terreno",
+    "comprendido entre el Arroyo de Giles y la",
+    "linea divisoria con con Vivar les pertenece",
+    "Estos datos son tomados de las escrituras",
+    "presentadas con motivo de la cuestion en q.^{e}",
+    "estan con el comprador de las sobras D.^{n} José",
+    "Roy, habiendo venido el esp.^{te} á esta oficina",
+    "á informe el que debia evacuarse con",
+    "(·) les pertenecen en propiedad, y pretenden que les perte",
+    "nece el resto hasta linea de Vivar, porq.^{e} en una",
+    "de las Escrituras el vendedor Suero, les dá p.^{r} lindero",
+    "á Vivar —"
+   ],
+   "interpretacion": "Nota 1: José Roy pidió además en venta el terreno «con frente al arroyo de Giles y entre la propiedad de los Vélez» (el baldío, fracción n.º 4); el Departamento informó el 15/6/1866.\nNota 2: según escrituras presentadas por los sucesores de Peñalva, las fracciones 1 a 5 del plano terminan en la línea de puntos B-E y hasta allí les pertenecen; pero pretenden el resto hasta la línea de Vivar, «porque en una de las escrituras el vendedor Suero les da por lindero a Vivar». La fracción n.º 1 (A) y la parte B fueron vendidas por los sucesores de Peñalva «en la creencia de que todo el terreno comprendido entre el arroyo de Giles y la línea divisoria con Vivar les pertenece». Datos tomados de las escrituras presentadas «con motivo de la cuestión en que están con el comprador de las sobras D. José Roy»; el informe se evacuó…"
+  },
+  {
+   "titulo": "Folio 6 · La denuncia queda sin efecto (1873); posesión treintañal de los Romero (1906)",
+   "img": "img/f/035/15.jpg",
+   "fuente": "IMG_7088.JPG",
+   "nota": "Sello con número dudoso (6 o 7). Al margen, vertical: «Espediente de Roys».",
+   "lineas": [
+    "f.^{ha} 12 de Sbre de 1866.",
+    "Salas",
+    "[al margen, vertical:] Espediente de Roys",
+    "Nota = Julio 2/873 = No habiendo sido dispu-",
+    "tada la propiedad del terreno al que",
+    "reclama tal derecho, por el que lo de-",
+    "nunció como de propiedad pública,",
+    "dejase sin efecto la denuncia y ar-",
+    "chivese, tomándose razon en el Depar-",
+    "tamento Topográfico y esta Oficina.",
+    "= J. J. Montes de Oca =",
+    "Agosto 29/873        Kuhr",
+    "Noviembre 23 de 1906.",
+    "Se informó respecto de la fraccion 4, del plano de",
+    "este duplicado, á los efectos del Art.º 781 del Cod. de Proc.",
+    "en el juicio sobre posesion treintenaria seguido por he-",
+    "rederos de Romero, en los tribunales de Mercedes, Juez",
+    "D.^{r} Sarri [?], Secretario Villarino. 13 . 181 . 135.",
+    "Palacios",
+    "En la misma fecha se agrega á este duplicado co-",
+    "pia azul del plano que acompañaba el oficio del Juez",
+    "D.^{r} Sarri [?] –",
+    "Palacios"
+   ],
+   "interpretacion": "…el 12/9/1866 (Salas).\nNota del 2/7/1873: «No habiendo sido disputada la propiedad del terreno al que reclama tal derecho, por el que lo denunció como de propiedad pública, déjase sin efecto la denuncia y archívese» (firma J. J. Montes de Oca; anotado por Kuhr el 29/8/1873). Es decir: Rois no sostuvo su denuncia frente a los herederos de Peñalva y el «sobrante» nunca se vendió.\n23/11/1906: se informa sobre la fracción 4 (el baldío) para el juicio de posesión treintañal de los herederos de Romero en los tribunales de Mercedes (juez Dr. Sarri [?], secretario Villarino), y se agrega la copia azul del plano enviada por el juez."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del campo de los Peñalva y del sobrante",
+   "img": "img/f/035/03.jpg",
+   "fuente": "IMG_7084.JPG (detalles 7085-7087)",
+   "orientacion": "Pliego a tinta, enmarcado; flechas de norte magnético y verdadero («11° 50′»); «Escala de 3000 metros» con escala transversal de décimos; firmado «T.º Frémiot, agrimensor». Agregados a lápiz.",
+   "interpretacion": "Sobre el «Arroyo de Giles» (con flecha de corriente y el frente levantado por tramos) arrancan cinco fajas numeradas: N.º 1 «Sra. Duarte de Rodríguez» (A; su prolongación B, con la población de «Tadeo Rodríguez»); N.º 2 «Antonino Silva, área = 2.249.868 m. c.»; N.º 3 «Lucía Velox, 1.124.912 m. c.»; N.º 4 «Terreno Valdío, 2.700.600 m. c.»; N.º 5 «Menores de P.º Velox, 4.049.000 m. c.». Al fondo de las fajas 2-5, el «Sobrante, área = 4.462.772 m. cuad.», trapecio B-C-A-D cerrado por la línea «de los mojones de Díaz de Vivar» (S 58° 55′ O). En el ángulo D, la «casa de la Sra. Rodríguez» dibujada con patio y arboleda; más allá «Remigio Rodríguez» y «Romana Díaz»; al N «M.ª Duarte de Rodríguez»; al S «Testamentaría de P.º Velox». A lápiz azul, «Cañada de Suero [?]» y «Arroyo del Sauce». Nota a lápiz sobre las fajas: «Estos cinco terrenos cuyo frente es de 3000 v. fue de D. V.te Peñalva q. compró a D. Fran.co Suero en Nov.e de 1793 [?] con una legua de fondo».",
+   "referencias": [
+    [
+     "A (letra grande)",
+     "Fracción n.º 1, de la Sra. Duarte de Rodríguez, vendida por los sucesores de Peñalva"
+    ],
+    [
+     "B (letra grande)",
+     "Prolongación de la n.º 1 hasta la línea de Vivar (E-F), con la población de Tadeo Rodríguez"
+    ],
+    [
+     "B, C, A, D (puntos)",
+     "Vértices del sobrante: B esquinero N; C esquinero sobre el costado de Vélez; A esquinero S (mojón de palo); D sobre la línea de Vivar junto a la casa de la Sra. Rodríguez"
+    ],
+    [
+     "E — B",
+     "Línea de puntos: donde terminan las fracciones según las escrituras (nota del D. T.)"
+    ],
+    [
+     "Medidas",
+     "«S 47° 45′ E 8011,3» · «S 47° 45′ E 2560,3» (B-D) · «S 58° 55′ O 2709,6» y «1035,4» · «N 47° 45′ O 7257» · «1997» (C-A) · «N 42° 15′ E 1170,4» · fondos 5196 · 5304,2 · 5087,75 · 5112,8 · 5278,20 · 5230,6 · 5260 m"
+    ],
+    [
+     "Frente",
+     "Tramos sobre el arroyo: 108,2 · 541,2 · 433 · 216,5 · 216,5 · 519,6 · 165,40 · 433 · 83,70 · 346,4 · 194,8 m"
+    ],
+    [
+     "Hitos",
+     "«mojón, punto de arranque» · mojones en cada quiebre · casa de la Sra. Rodríguez · población de Tadeo Rodríguez"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: el sobrante y la casa de la Sra. Rodríguez",
+   "img": "img/f/035/04.jpg",
+   "fuente": "IMG_7087.JPG",
+   "orientacion": "Toma parcial.",
+   "interpretacion": "El trapecio del sobrante con sus mojones; la «casa de la Sra. Rodríguez» (dos cuerpos, patio y monte) pegada al vértice D, sobre la línea «de los mojones de Díaz de Vivar»; «Tadeo Rodríguez» con su casa en B; la línea E-F; a lápiz, la «Cañada de Suero [?]» y el «Arroyo del Sauce».",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: frente sobre el arroyo de Giles y nota a lápiz",
+   "img": "img/f/035/05.jpg",
+   "fuente": "IMG_7085.JPG",
+   "orientacion": "Toma parcial.",
+   "interpretacion": "Las cinco fajas con sus números, áreas y fondos, el arroyo con el «mojón, punto de arranque» y la nota a lápiz que remite el conjunto a la compra de Vicente Peñalva a Francisco Suero (1793 [?]).",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia azul agregada en 1906: herederos de Félix Romero",
+   "img": "img/f/035/06.jpg",
+   "fuente": "IMG_7089.JPG",
+   "orientacion": "Cianotipo; sello «Fotografía del Departamento de Ingenieros, La Plata, 1906»; «Partido de Giles, 1906».",
+   "interpretacion": "Plano del juicio de posesión treintañal: la faja n.º 4 (el «terreno baldío» de 1865) es ahora de los «Herederos de Félix Romero, Sup. 269 h 98 a 41 c», con frente de «600 v = 519,60 m» al arroyo de Giles y «6000 v = 5196 m» de fondo. Linderos de 1906: al N «antes Antonio Silva (Dup. N.º 83)», Paula Silva de Sosa, Inocencia R. de Silva, Luis Cairo, Inocencia Silva de Rodríguez, «antes Lucía Vélez de Fariña», Bernardino E. Rodríguez, herederos de Pedro Valli; al S «Fernando Peláez, hoy herederos de Cenobio Peláez» y Clemencia Peláez de Pérez, Agustín Vélez; al fondo «José Rois (Dup. N.º 35), hoy herederos de José Rois» y «herederos de Simón Cucullu». El sobrante denunciado por Rois terminó, pues, en manos de sus herederos y de los Cucullu.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Una denuncia de «sobras» contra los vecinos",
+   "texto": "José Rois denuncia como tierra pública el fondo del campo que fue de Vicente Peñalva: el título decía 3000 varas de frente por una legua de fondo, pero los ocupantes poseían hasta la línea de Díaz de Vivar, unos 2,5 km más. Fremiot mide, «entrega a cada uno el terreno que le correspondía según sus escrituras» y deja 446 ha como sobrante. Los sucesores de Peñalva resisten: una escritura de Suero les da por lindero a Vivar, y ya habían vendido la fracción 1 y su fondo (A y B) a Mauricia Duarte «en la creencia» de ser dueños de todo. En 1873 el gobierno deja sin efecto la denuncia; sin embargo el plano de 1906 muestra al fondo a los «herederos de José Rois» y de Simón Cucullu: hubo arreglo privado o compra posterior."
+  },
+  {
+   "titulo": "El «terreno baldío» y la posesión treintañal",
+   "texto": "Entre las fajas de Lucía Vélez y de los menores de Vélez aparece un terreno de 600 v de frente (270 ha) sin título, «disfrutado hace años» por Pedro Vélez. Rois lo pide también en compra (1866). Cuarenta años después (1906) los herederos de Félix Romero lo ganan por prescripción en Mercedes: un caso completo de tierra sin papeles que pasa de la ocupación de hecho al dominio."
+  },
+  {
+   "titulo": "Fragmentación por nietas",
+   "texto": "El campo de Peñalva (Vicente compró 3000 v y Jacinta 2000, según el plano de Gonnet, Ficha 032) se divide por herencia femenina: Paula Rodríguez y Cruz Rodríguez de Díaz, nietas; Romana Díaz, bisnieta. Las hijuelas de 250 v (216,5 m) se compran y revenden entre Vélez, De la Rosa y Silva. «Ninguna de estas escrituras han sido protocolizadas»: circulan como papeles privados."
+  },
+  {
+   "titulo": "Técnica: cadena de mensuras",
+   "texto": "Fremiot arranca del mojón de Gonnet (1862) y usa su línea (Gonnet: S 47° 57′ E; Fremiot: S 47° 45′ E, 12′ de diferencia); no logra «dar con el rumbo» de Differt (1858); toma la línea de Vivar por sus «mojones de piedras» (S 58° 55′; Gonnet 58° 31′). El fondo de Duarte mide 8011,30 m contra 8140 del título (Gonnet: 8079 m). Variación 11° 50′ por alturas correspondientes, distinta de los 11° 25′ que él mismo halló un día antes en la Ficha 033. Todo en metros; áreas en metros cuadrados."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "El arroyo de Giles corre «poco diferente de una paralela» al rumbo NE; mojón «inmediato al arroyo»; mojones de piedra de la línea de Vivar, de palo los nuevos. La casa de la Sra. [Mauricia Duarte de] Rodríguez —la estancia donde Gonnet observó la latitud 34° 28′ S en 1862— aparece dibujada con patio y arboleda justo en el vértice D: ancla GIS de primer orden. Población de Tadeo Rodríguez. A lápiz, la Cañada de Suero [?] y el arroyo del Sauce."
+  },
+  {
+   "titulo": "Cruces y preguntas abiertas",
+   "texto": "Ficha 032 (Gonnet: Vicente Peñalva 3000 v, Jacinta 2000 v, línea Vivar–Arellano, Mauricia Duarte, Tadeo Rodríguez) y 023 (Torres/Differt). Ficha 024: Vélez en el corpus. Dup. 83 (Antonio Silva) citado en la copia de 1906: cruzar cuando se llegue. Falta el f. 3 v. (cierre y linderos del sobrante): pedir nueva toma. La fecha «1793» de la nota a lápiz es dudosa (¿1795?, cf. Ficha 029: Vicente Peñalva compra a Suero en 1795). ¿«Rois», «Roy», «Roiz»?: el D. T. escribe Roy y Roys."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "José Rois (Roy, Roys)",
+   "rol": "Denunciante del sobrante",
+   "texto": "Sin datos biográficos en la búsqueda breve. Denuncia en 1865 las «sobras» del campo de Peñalva y en 1866 pide también el baldío de los Vélez; el expediente se archiva en 1873, pero en 1906 sus herederos figuran como dueños al fondo de las fajas, junto a los de Simón Cucullu. Apellido de origen gallego.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Teodoro Fremiot",
+   "rol": "Agrimensor público",
+   "texto": "Mide el 16/10/1865, cuatro días después de empezar la mensura de Cucullu (Ficha 033): dos sobrantes fiscales en una misma campaña. Sin datos biográficos.",
+   "fuentes": "Ficha 033."
+  },
+  {
+   "nombre": "Vicente y Jacinta Peñalva y sus descendientes",
+   "rol": "Titulares originarios",
+   "texto": "Vicente Peñalva compra a Suero a fines del siglo XVIII (1795 según Ficha 029; «1793» en la nota a lápiz) 3000 v sobre el arroyo de Giles; Jacinta, 2000 v contiguas (Ficha 032). Nietas: Paula Rodríguez y Cruz Rodríguez de Díaz; hija de ésta, Romana Díaz, aún lindera en 1865.",
+   "fuentes": "Fichas 029, 032."
+  },
+  {
+   "nombre": "Pedro Vélez («Velox») · Sinforosa Roldán · Bernarda Burgos · Lucía Vélez",
+   "rol": "Ocupantes y compradores",
+   "texto": "Pedro Vélez reúne por compras las hijuelas de las nietas de Peñalva y ocupa sin título el baldío. Casó primero con Bernarda Burgos y luego con Sinforosa Roldán, que en 1865 representa a los hijos menores. Su hija Lucía (luego «Vélez de Fariña») le compra 250 v. En 1906 sigue un Agustín Vélez.",
+   "fuentes": "Esta mensura; copia de 1906."
+  },
+  {
+   "nombre": "Domingo y Antonino Silva · José de la Rosa",
+   "rol": "Compradores de hijuelas",
+   "texto": "Domingo Silva (hijo de Juana R. de Silva, Fichas 029 y 033) compra dos hijuelas de 250 v para su hijo Antonino. En 1906: «antes Antonio Silva (Dup. 83)», Paula Silva de Sosa, Inocencia Silva de Rodríguez.",
+   "fuentes": "Fichas 029, 033."
+  },
+  {
+   "nombre": "Mauricia Duarte de Rodríguez · Bernardino, Hilarión, Tadeo y Remigio Rodríguez",
+   "rol": "Linderos",
+   "texto": "Mauricia, heredera de José Gabriel Duarte (Ficha 032), viuda de Bernardino Rodríguez, que compró en 1826 a Hilarión Rodríguez. Su casa y estancia están en el vértice del sobrante. Tadeo y Remigio Rodríguez, pobladores vecinos (Tadeo ya en 032).",
+   "fuentes": "Ficha 032."
+  },
+  {
+   "nombre": "Félix Romero y herederos",
+   "rol": "Poseedores del baldío (1906)",
+   "texto": "Sus herederos siguen en Mercedes el juicio de posesión treintañal de la fracción 4. Romero es apellido antiguo del partido (Ficha 003; «puesto de F. Romero» en 032).",
+   "fuentes": "Fichas 003, 032."
+  },
+  {
+   "nombre": "Salas · Kuhr · Benoit · J. J. Montes de Oca",
+   "rol": "Departamento topográfico y gobierno",
+   "texto": "Saturnino Salas, presidente; German Kuhr, el agrimensor de la Ficha 020, vocal desde 1865 y firmante aún en 1873; Pedro Benoit. Juan José Montes de Oca firma la resolución de 1873 que archiva la denuncia. «A. Salas» recibe el expediente (¿Adolfo Salas?, cf. Ficha 033).",
+   "fuentes": "Fichas 020, 028, 033."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/035/02.jpg",
+  "fuente": "IMG_7075.JPG",
+  "lineas": [
+   "Seccion Areco    Giles",
+   "N.º 183    35",
+   "Duplicado.",
+   "Mensura de un Sobrante",
+   "en el partido de Giles",
+   "José Rois",
+   "año 1865",
+   "Teodoro Frémiot",
+   "agrimensor"
+  ]
+ },
+ "titulo": "D. José Rois (sobrante denunciado)",
+ "estado": "Transcripta (9 hojas, 228 renglones), 4 láminas"
+}

@@ -1,0 +1,413 @@
+{
+ "carpeta": "13",
+ "carpeta_nombre": "Carpeta 13",
+ "archivo": "Ficha 013 - Bartolomé Saraví (1827).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Secc. Areco)",
+  "N.º de duplicado": "13",
+  "Propietario / solicitante": "D. Bartolomé Saraví (enfiteuta)",
+  "Agrimensor": "Fortunato Lemoine",
+  "Año": "1827",
+  "Fecha de la diligencia": "15/12/1827; aprob. 15/3/1828; venta 25/10/1838",
+  "Ubicación": "Cerca de la guardia de Areco; cañada de Romero",
+  "Orden judicial": "Enfiteusis; venta Rosas-Insiarte (ley 10/5/1836)",
+  "Vendedor / antecesor": "Gracia a H. Quiroga → Saraví → J. A. Rodríguez (1828) → A. Frías (1838)",
+  "Linderos citados": "Lima · Pizán [?] · Casco · C. Fernández · Rodríguez · Carrasco · N. A. Martínez",
+  "Medidas": "11.820 / 3250 / 12.190 / 8250 v; cierre con mensuras vecinas",
+  "Rumbos": "Aguja y corregidos 15°/13°; declinación observada 14°25' NE",
+  "Referencia de archivo": "Portadilla «Giles 13 – Secc.n Areco»; «8»"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 12.000 (4,45 leguas²)",
+  "hitos": "Mojones de Lima, Pizán, Casco, Rodríguez, Carrasco; cardal",
+  "aguas": "Cañada de Romero"
+ },
+ "sintesis": "Mensura de diciembre de 1827 del terreno «dado de gracia» a Hipólito Quiroga y en enfiteusis de Bartolomé Saraví, cerca de la guardia de Areco, por Fortunato Lemoine. Es el terreno de Saraví con cuyos mojones chocó Ysach en 1826 (Ficha 012): linda con Casco, Celidonio Fernández y Rodríguez. El cardo «sumamente espeso y alto» impide terminar y el polígono se cierra con mensuras vecinas: 4,45 leguas² (≈ 12.000 ha). Primera declinación observada de la serie: 14° 25' NE en la guardia de Areco. El plano dibuja la cañada de Romero y el camino de las Guardias. El Departamento (Senillosa, Díaz, Arenales) arbitra entre las denuncias de Lima y Lavallén. Aprobada en 1828; en 1838 Rosas vende a Anastasia Frías, viuda del enfiteuta J. A. Rodríguez, por 22.250 $: 5000 $ por legua², igual que en 012.",
+ "caratula": {
+  "img": "img/f/013/01.jpg",
+  "fuente": "IMG_6700.JPG",
+  "campos": [
+   [
+    "N.º",
+    "13"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Hipolito Quiroga"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Lemoine"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1827"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 (recto)",
+   "img": "img/f/013/04.jpg",
+   "fuente": "IMG_6702.JPG",
+   "nota": "Encabezado «8 — Mensura de D.n Bartolomé Saravi»; sello del Departamento Topográfico y foliatura «1». Letra de copista, muy regular. «Pizán [?]»: apellido dudoso (en el plano se lee «Pizan»).",
+   "lineas": [
+    "8 — Mensura de D.^{n} Bartolomé Saravi       [sello:] 1",
+    "[sello marginal: Departamento Topográfico]",
+    "En las inmediacion.^{s} de la guardia de Areco á 15 de Diciembre",
+    "de 1827; yo el Agrimensor publico D.^{n} Fortunato Lemoine, con el",
+    "objeto de medir el terreno q.^{e} fué dado de gracia á D.^{n} Hipolito Qui-",
+    "roga, y concedido ultimam.^{te} en enfiteusis á D.^{n} Bartolomé Saravi,",
+    "q.^{e} representaba el derecho de aquel; previa la correspond.^{te} citacion",
+    "de linderos, como consta de la anterior diligencia, y acompañado",
+    "de los q.^{e} se habian reunido de estos, pasé al mojon N.^{o} [?] de D.^{n} An-",
+    "tonio Lima colocado sobre la linea q.^{e} termina el fondo de D.^{n}",
+    "Antonio Maria Pizán [?], y desde este punto hice llamar nueva-",
+    "mente á este lindero, q.^{e} al presentarse la circular de citacion",
+    "se habia negado á poner en ella la constancia de su recibo,",
+    "y habiendo contestado q.^{e} no venia, ni se volviese á importu-",
+    "narlo, resolví hacer la mensura sin su presencia. Tiré des-",
+    "de el citado mojon al rumbo del N E de la aguja, y p.^{r} él me-",
+    "dí 11820 var.^{s} con las q.^{e} llegué al punto en donde debia estar",
+    "el mojon del ang. E del terreno del espresado Pizán. Para",
+    "determinarlo pasé á un antiguo mojon puesto sobre el",
+    "costado N E, y desde él tracé con banderas esta linea al S E",
+    "de la aguja hasta haber llegado á la interseccion donde se",
+    "puso el mojon; no habiendo podido ir al de arranque del",
+    "citado terreno ni menos medir esta distancia p.^{r} los esce-",
+    "sivos cardos q.^{e} lo impedian. Desde el citado mojon E de",
+    "Pizán medí al N N O de la aguja 3250 v.^{s} con cuya distan-",
+    "cia habiendo encontrado la linea del terreno de D.^{n} Santiago",
+    "Casco, mandé poner un mojon, desde el cual medí 12190 v.^{s}",
+    "al S E corregido de 15.^{o} por hallarse á este rumbo los terre-",
+    "nos de Casco y D.^{n} Celidonio Fernandez, q.^{e} fui deslindando",
+    "con esta distancia; al fin de ella mandé poner un mojon"
+   ],
+   "interpretacion": "El 15 de diciembre de 1827, «en las inmediaciones de la guardia de Areco», el agrimensor público Fortunato Lemoine mide el terreno que fue «dado de gracia» a Hipólito Quiroga y concedido después en enfiteusis a Bartolomé Saraví, que «representaba el derecho de aquél». Es decir: una merced o gracia anterior, luego convertida en enfiteusis a favor de otro, que la compró o heredó.\nEmpieza en el mojón de Antonio Lima, sobre la línea del fondo de Antonio María Pizán [?]. Pizán se había negado a firmar el recibo de la circular de citación y ahora contesta que no viene «ni se le vuelva a importunar»: Lemoine mide sin él. Al NE de la aguja, 11.820 varas hasta la esquina E de Pizán, que fija trazando con banderas desde un mojón antiguo porque los «excesivos cardos» impiden ir al mojón de arranque. Luego 3250 v al NNO de la aguja hasta la línea de Santiago Casco y 12.190 v al SE corregido de 15°, deslindando con Casco y con Celidonio Fernández (Ficha 012)."
+  },
+  {
+   "titulo": "Folio 1 (vuelto)",
+   "img": "img/f/013/05.jpg",
+   "fuente": "IMG_6703.JPG",
+   "nota": "Borde derecho cortado por la encuadernación; reconstrucciones entre corchetes.",
+   "lineas": [
+    "p.^{r} q.^{e} me hallaba al N E corregido de 13.^{o} del mojon N.^{o} de D.^{n} [...]",
+    "Rodriguez, cuyo terreno, con el de los linderos proximos [es-]",
+    "tan ubicados á este ultimo rumbo. Desde el espresado m[ojon]",
+    "q.^{e} mandé poner me dirigí al S O corregido de 13.^{o} á las [...]",
+    "encontré el citado mojon N.^{o} de Rodriguez y á las 8250 [v.^{s} el mo-]",
+    "jon O del mismo, apartado un poco de la linea al S[...]",
+    "Desde este punto no fue posible proseguir la mensu[ra]",
+    "p.^{r} q.^{e} el cardo era sumam.^{te} espeso y alto; pero como el [terreno]",
+    "no se hallaba amojonado, p.^{r} las mensuras de D.^{n} J[uan]",
+    "Gregorio Carrasco y D.^{n} Noverto Antonio Martinez, q.^{e} [han]",
+    "sido aprovadas, resolví dar por concluida la operacion. [De]",
+    "los espresados documentos se deduce; q.^{e} el mojon N.^{o} de",
+    "Juan Gregorio Carrasco dista del anterior un cuart[o de]",
+    "legua al N O corregido de 13.^{o}; este del mojon O del mis-",
+    "mo legua y media al S O corregido de la misma va[riacion],",
+    "el cual se halla colocado sobre la linea N E de D.^{n} N[orberto]",
+    "Antonio Martinez y dista del mojon de D.^{n} Antonio [Li-]",
+    "ma citado sobre esta misma linea 6070 var.^{s} al [...]",
+    "corregidos como los ultimos, y p.^{r} la mensura q.^{e} hi[zo]",
+    "de este lindero hay desde este mojon hasta otro del [...]",
+    "3680 v.^{s} al N E correg.^{do} de 15.^{o} De todo lo q.^{e} resulta; q.^{e} [el area]",
+    "encerrada entre este poligono irregular es de 4,45 [leguas]",
+    "cuadradas; advirtiendo, q.^{e} he comprendido las 45 [cen-]",
+    "tecimas de legua cuadrada q.^{e} hay de mas de lo de[nun-]",
+    "ciado, en primer lugar p.^{r} q.^{e} este es un poco q.^{e} no integra [una suer-]",
+    "te de estancia, y en segundo p.^{r} q.^{e} no habiendo p[odido]",
+    "ser deslindado con la precision correspond.^{te} el terreno [de]",
+    "D.^{n} Antonio M.^{a} Pizán [?] p.^{r} falta de los docum.^{tos} de [...]",
+    "su existencia, y como p.^{r} otra parte este terreno es [tam-]",
+    "bien un poligono irregular, podria ser q.^{e} cuando [se]"
+   ],
+   "interpretacion": "El vértice siguiente se ata al mojón de un Rodríguez (José Rodríguez, enfiteuta lindero en la Ficha 012). Al SO corregido de 13° llega al mojón de Rodríguez y, a 8250 v, al mojón O de éste. Allí el cardo «sumamente espeso y alto» impide seguir. Lemoine cierra el polígono en el gabinete con las mensuras ya aprobadas de Juan Gregorio Carrasco y Norberto Antonio Martínez: un cuarto de legua al NO, legua y media al SO, 6070 v sobre la línea de Martínez hasta el mojón de Lima y 3680 v al NE corregido de 15°.\nÁrea: 4,45 leguas cuadradas. Lemoine explica que incluyó 45 centésimos más de lo denunciado porque es «un poco que no integra una suerte de estancia» y porque el terreno de Pizán no pudo deslindarse por falta de documentos: al medirse Pizán podría haber que ajustar los límites."
+  },
+  {
+   "titulo": "Folio 2 (recto)",
+   "img": "img/f/013/06.jpg",
+   "fuente": "IMG_6704.JPG",
+   "nota": "Tres manos: cierre del agrimensor con «Es copia» y firma de Lemoine; nota marginal; informe del Departamento Topográfico en letra más suelta.",
+   "lineas": [
+    "mida, si con arreglo á las disposicion.^{s} generales es preciso",
+    "integrarle al interesado el area q.^{e} espresa su mensura,",
+    "saliese algo de los limites q.^{e} se le han dado en esta. todo lo",
+    "q.^{e} pongo p.^{r} diligencia para su constancia y demas efec-",
+    "tos autorizandola p.^{r} ante mi ayudante =       [sello:] 2",
+    "La verdadera declinacion de la aguja observada en la mis-",
+    "ma guardia de Areco, es de 14.^{o} 25' N E, y como este terreno",
+    "dista poco del espresado punto no será de consideracion",
+    "la diferencia.",
+    "Es copia — Fortunato Lemoine [firma y rúbrica]",
+    "[al margen, otra mano:] Este informe corresponde á la mensura de Lavallen — y el de esta mensura es la grat.^{a} [?] en [...] de 5 [?] Mzo./828",
+    "[otra mano:] Exmo. S.^{r} —",
+    "Cuando vino al examen del Departam.^{to} Topografico la",
+    "presente mensura, no existian en sus archivos datos positi[vos]",
+    "sobre el terreno denunciado p.^{r} Saraví; pues que la mensu-",
+    "ra de este terreno se hizo en Diciembre de 1827 por el",
+    "agrimensor D. Fortunato Lemoyne y la presente habia",
+    "sido egecutada por el mismo agrimensor en agosto del",
+    "mismo año y examinada en Octubre, es decir, dos",
+    "meses antes q.^{e} la mensura de Saraví, y lo unico que",
+    "de ella se podia deducir es que este terreno linda",
+    "con aquel. El Departam.^{to} pues sin mas datos que el",
+    "tenor de las denuncias de Lima y los q.^{e} presenta el",
+    "agrimensor en sus diligencias, en las cuales no apa-",
+    "recen las razones q.^{e} tubo, para no estenderse sobre el",
+    "terreno q.^{e} posteriorm.^{te} midió p.^{a} Saraví, juzgó q.^{e} el",
+    "agrimensor podia haber medido el terreno denuncia-",
+    "do por Lima conforme al tenor de la denuncia, sin",
+    "perjudicar la de Lavallen; por esto fue q.^{e} el Dep.^{to}",
+    "opinó q.^{e} la mensura debia rehacerse, no á costa",
+    "del agrimensor, pues q.^{e} él ignoraba la denuncia de",
+    "Lavallen (el cual no habiendo protestado en el acto de",
+    "la mensura lo hizo posteriorm.^{te} ante el Departam.^{to})",
+    "sino p.^{r} el agrimensor q.^{e} se comisionase para",
+    "la mensura de Lavallen, consultando de este modo",
+    "los intereses de los denunciantes. Mas hoy que el Dep.^{to}"
+   ],
+   "interpretacion": "Lemoine cierra la diligencia y agrega un dato técnico de primer orden: «la verdadera declinación de la aguja observada en la misma guardia de Areco es de 14° 25' NE»; como el terreno está cerca, la diferencia no es de consideración. Es una observación de declinación en 1827, que convive con los 15° y 13° «corregidos» que usa en la mensura.\nUna nota marginal advierte que el informe que sigue corresponde a la mensura de Lavallén (Laballén), no a ésta. El Departamento explica un conflicto de denuncias: Lemoine había medido en agosto de 1827 (examinada en octubre) el terreno denunciado por Antonio Lima, y en diciembre el de Saraví. Como Lima y Lavallén habían denunciado tierras superpuestas, el Departamento había propuesto rehacer la mensura, no a costa de Lemoine, que ignoraba la denuncia de Lavallén (éste no protestó en el acto de la mensura sino después)."
+  },
+  {
+   "titulo": "Folio 2 (vuelto)",
+   "img": "img/f/013/07.jpg",
+   "fuente": "IMG_6705.JPG",
+   "nota": "Firmas del Departamento: Senillosa, Díaz, Arenales. Año del informe cortado («18[..]»). Siguen copias de dos decretos, de 1828 y 1838, certificadas por Arenales.",
+   "lineas": [
+    "há examinado la mensura de Saraví, recien pue[de]",
+    "convencerse de que ya no es practicable el med[io]",
+    "conciliatorio que propuso el Departam.^{to}; pero [...]",
+    "es colocandolo entre los costados de Pita y Martin[ez].",
+    "Sin embargo como la calidad del terreno puede [in-]",
+    "fluir en las miras de los interesados y en la na[tu-]",
+    "raleza de la industria de cada uno de ellos, pa[rece]",
+    "que se presenta una cuestion de derecho que re[sol-]",
+    "ver, no con respecto á la cantidad de terreno q[ue]",
+    "denunciaron, pues q.^{e} sobre la linea A, B, existe, con",
+    "[po]ca diferencia, el terreno suficiente, sino con [res-]",
+    "pecto á la preferencia q.^{e} pueda tener en la dista[n-]",
+    "cion [?]: advirtiendo q.^{e} la denuncia de Lima [es an-]",
+    "terior á la de Lavallen.",
+    "En cuanto á la presente mensura [el]",
+    "Departam.^{to} no encuentra inconveniente en [su]",
+    "aprobacion, siempre q.^{e} el terreno medido se [des-]",
+    "tine á alguno de los denunciantes; pero si [el]",
+    "terreno ha de ser aumentado para ser di[stri-]",
+    "buido entre los dos, crée el Departam.^{to} q.^{e} la recti[fi-]",
+    "cacion debe hacerse p.^{r} el agrimensor comisiona-",
+    "do p.^{a} la mensura del terreno de Lavallen.",
+    "Buen.^{s} Ayres Abril 19 de 18[..]",
+    "Senillosa, Diaz, Arenales",
+    "Superior decreto. — \"Buenos Aires Marzo quince de mil ochocientos ve-",
+    "\"inte y ocho. — Apruebase la mensura que se acompaña; en consecuencia,",
+    "\"pase á la Escribania mayor de Gobierno á los objetos espresados en el decreto de 24",
+    "\"de Diciembre de 1823. — Rubrica de S. E. — Rojas.\"",
+    "Otro. — \"Buenos Aires Octubre veinte y cinco de mil ochocientos treinta y",
+    "ocho. — Visto este expediente: usando el Gobierno de la facultad que le concede",
+    "\"la ley de 10 de Mayo de 1836; vende á D.^{a} Anastacia Frias, como viuda y",
+    "\"albacea de D.^{n} Juan Antonio Rodriguez, el terreno que solicita comprar y",
+    "\"este poseia en enfiteusis, como lo acredita la escritura testimoniada ad-",
+    "\"junta, fha 30 de julio de 1828, cuya superficie se espresa y determina",
+    "\"en el anterior informe del Departamento Topografico datado á 2 del cor-",
+    "\"riente mes por la cantidad de veinte y dos mil doscientos cincuenta pesos,",
+    "\"en que el mismo Departamento lo regula con arreglo á la precitada ley, y",
+    "\"entregará el comprador por tercias partes, &.^{a} &.^{a} &.^{a} — Rosas. — Man.^{l}",
+    "\"Insiarte.\" — Buenos Aires Diciembre 18 de 1838. Arenales [rúbrica]"
+   ],
+   "interpretacion": "Visto ahora lo medido para Saraví, el Departamento reconoce que ya no es practicable el «medio conciliatorio» (ubicar el terreno entre los costados de Pita y Martínez). Como sobre la línea A–B hay tierra suficiente, la cuestión ya no es de cantidad sino de derecho: quién tiene preferencia, y la denuncia de Lima es anterior a la de Lavallén. Se aprueba la mensura siempre que el terreno se destine a uno de los denunciantes. Firman Senillosa, Díaz y Arenales.\nSiguen dos copias de decretos. El 15/3/1828 (Rojas, ministro de Dorrego) se aprueba la mensura y pasa a la Escribanía Mayor de Gobierno según el decreto del 24/12/1823. El 25/10/1838, con la ley del 10/5/1836, Rosas e Insiarte venden el terreno a Anastasia Frías, viuda y albacea de Juan Antonio Rodríguez, que lo poseía en enfiteusis (escritura del 30/7/1828), por 22.250 pesos en tres cuotas. La enfiteusis de Saraví había pasado a Rodríguez a los pocos meses de la mensura."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Saraví y sus linderos",
+   "img": "img/f/013/03.jpg",
+   "fuente": "IMG_6706.JPG",
+   "orientacion": "Lámina desplegada; flecha de norte con dos puntas y ángulo «14° 15'»; escala «de una legua» (0–6000 v).",
+   "interpretacion": "El terreno «Saraví» es un polígono irregular con la leyenda «Área = 4,45 centésimos de legua cuadrada». Alrededor, parcelas rotuladas: Lima (al O, lados N 30° E 3680 y N 60° O 4450), Pizán (al N), Casco y Fernández (al E; Casco con lados de 9000 y 6000 v), Rodríguez y «Citad.» [?] al S, Carrasco al SO. Lo más valioso para el paisaje: la «Cañada de Romero», dibujada como franja con trazos de vegetación o bañado, cruza en diagonal el N del terreno; el «Camino de las Guardias» (punteado) atraviesa el campo de N a S; otro camino punteado, «Ciudad… Areco» y «Camino del Salto [?]», corta la esquina NE. El lado N 45° E 11.820 y el N 22° 30' O 3250 coinciden con el texto. La flecha doble marca aguja y norte verdadero (14° 15').",
+   "referencias": [
+    [
+     "Saraví",
+     "Terreno medido. «Área = 4,45 centésimos de legua cuadrada»"
+    ],
+    [
+     "Lima",
+     "Antonio Lima, denunciante (mensura de agosto de 1827)"
+    ],
+    [
+     "Pizan [?]",
+     "Antonio María Pizán [?], lindero al N que no concurrió"
+    ],
+    [
+     "Casco",
+     "Santiago Casco (lados 9000 y 6000 v)"
+    ],
+    [
+     "Fernández",
+     "Celidonio Fernández (Ficha 012)"
+    ],
+    [
+     "Rodríguez",
+     "José Rodríguez, enfiteuta (Ficha 012)"
+    ],
+    [
+     "Citad. [?]",
+     "Rótulo dudoso; ¿«Citado» o Pita?"
+    ],
+    [
+     "Carrasco",
+     "Juan Gregorio Carrasco (mensura aprobada)"
+    ],
+    [
+     "Cañada de Romero",
+     "Curso con vegetación dibujada, al N"
+    ],
+    [
+     "Camino de las Guardias",
+     "Punteado N–S por el centro"
+    ],
+    [
+     "Ciudad / Areco / Camino del Salto [?]",
+     "Camino punteado en la esquina NE"
+    ],
+    [
+     "Lados",
+     "N 45° E 11820 · N 22° 30' O 3250 · S 60° E 12570 [?] · S 32° O 8250 · N 58° O 1500 · S 32° O 9000 · N 52° O 6070"
+    ],
+    [
+     "Flecha",
+     "Aguja / norte verdadero, 14° 15'"
+    ],
+    [
+     "Escala",
+     "«Escala de una legua», 0–6000 varas"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "La cadena de títulos: gracia, enfiteusis, venta",
+   "texto": "El terreno fue «dado de gracia» a Hipólito Quiroga (merced colonial o de la Revolución, no fechada), después concedido en enfiteusis a Bartolomé Saraví «que representaba su derecho», traspasado por escritura del 30/7/1828 a Juan Antonio Rodríguez y finalmente vendido por Rosas en 1838 a su viuda, Anastasia Frías, por 22.250 pesos. Es el tercer caso de la serie (con 011 y 012) de enfiteusis rivadaviana convertida en propiedad por la ley del 10/5/1836. El precio equivale a 5000 pesos por legua cuadrada, la misma tarifa que en la Ficha 012 (7335 $ por 1,467 leguas²): el Departamento aplicaba un precio uniforme en la sección Areco."
+  },
+  {
+   "titulo": "Cierra un hilo abierto en la ficha 012",
+   "texto": "En 1826 Ysach no pudo seguir el lado SO de Celidonio Fernández porque chocó con «los mojones del terreno que D. Bartolomé Saraví dice ser de su propiedad», medido por Manso. Esta carpeta es la mensura de ese terreno de Saraví (1827), que linda con Fernández y Casco. La Ficha 001 (Manso, 1825) y la 012 ya lo nombraban: hay que verificar si el terreno de Manso y el de Lemoine son el mismo o dos distintos (propiedad vs. enfiteusis)."
+  },
+  {
+   "titulo": "Declinación observada: 14° 25'",
+   "texto": "Es la primera observación explícita de declinación de la serie: «la verdadera declinación de la aguja observada en la misma guardia de Areco es de 14° 25' NE» (el plano dice 14° 15'). Lemoine, sin embargo, corrige los rumbos con 15° y 13° y usa también rumbos «de la aguja». Confirma que los 15° de 1838 (Eguía, Hidalgo) eran un valor convencional cercano al real de fines de la década de 1820, y ofrece un dato para la curva secular de declinación en Areco (14°25' en 1827; 11°45' en 1854; 11°15' en 1856)."
+  },
+  {
+   "titulo": "Paisaje: el cardal y la cañada de romero",
+   "texto": "El cardo manda: «excesivos cardos» impiden medir un lado, y «el cardo era sumamente espeso y alto» obliga a suspender la mensura y cerrar el polígono con mensuras aprobadas de los vecinos. Es el cardal de Castilla ya señalado en la Ficha 009, aquí en 1827 como obstáculo técnico. El plano dibuja la «Cañada de Romero» con trazos de vegetación palustre y dos caminos: el «de las Guardias» (entre los fortines de la frontera) y el de la Ciudad a Areco o del Salto."
+  },
+  {
+   "titulo": "Ritual y conflicto",
+   "texto": "Citación por circular; el lindero Pizán se niega a firmar el recibo y luego manda decir que no viene «ni se le vuelva a importunar»: el agrimensor mide en su ausencia. Diligencia autorizada «por ante mi ayudante». El expediente muestra un conflicto de denuncias entre Antonio Lima y Lavallén (Laballén: un José Clemente Laballén aparece en la Ficha 010) y la regla de prioridad: «la denuncia de Lima es anterior a la de Lavallén». Lavallén protestó ante el Departamento, no en el acto de la mensura."
+  },
+  {
+   "titulo": "Estado y lecturas dudosas",
+   "texto": "Siete tomas buenas; bordes derechos de 6703 y 6705 cortados. Dudosos: el apellido Pizán (¿Pizarro? ¿Piñán?), el número del mojón de Lima, la nota marginal de 6704 y el año del informe del Departamento (Abril 19 de 18[..]: por su contenido parece de 1828, pero el decreto aprobatorio es del 15 de marzo de 1828, antes del informe; puede ser un informe sobre Lavallén copiado aquí). El rótulo «Citad.» del plano podría ser «Pita». El lado SE mide 12.190 v en el texto y parece 12.570 en el plano."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Quién fue Hipólito Quiroga y cuándo recibió la gracia? ¿Qué relación hay entre Juan Antonio Rodríguez y los Rodríguez de Giles (José, enfiteuta; Pedro T., comprador en 012; Pedro Antonio, juez de paz en 008)? ¿Dónde están las mensuras de Lima (agosto de 1827) y de Lavallén? ¿Se identifica la cañada de Romero con algún curso actual (¿la cañada que desagua en el arroyo de Giles?) y el camino de las Guardias con una traza del plano de 1890?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Bartolomé Saraví",
+   "rol": "Enfiteuta",
+   "texto": "Tenía el derecho de Hipólito Quiroga y recibió el terreno en enfiteusis. Ya aparece como propietario lindero medido por Manso (Fichas 001, 012). Los Saraví/Sarabia son una familia central de Giles (Ficha 005, Angela Casco de Saraví). En julio de 1828 la enfiteusis ya estaba en manos de Juan Antonio Rodríguez.",
+   "fuentes": "Esta mensura; Fichas 001, 005, 012."
+  },
+  {
+   "nombre": "Hipólito Quiroga",
+   "rol": "Beneficiario de la gracia original",
+   "texto": "Titular de una merced o gracia de tierras en el partido del Fortín de Areco, anterior a 1827. Su nombre queda en la carátula del duplicado. La búsqueda web no dio datos.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Fortunato Lemoine (Lemoyne)",
+   "rol": "Agrimensor público",
+   "texto": "Agrimensor activo en la campaña bonaerense durante la enfiteusis. Mide en agosto de 1827 el terreno de Antonio Lima y en diciembre el de Saraví. Es el primero de la serie que declara una declinación observada (14° 25' en la guardia de Areco). La búsqueda remite a estudios sobre las primeras enfiteusis de Chivilcoy (1825-1832); no se verificaron sus datos personales.",
+   "fuentes": "Esta mensura; búsqueda web (Caggiano, enfiteusis de Chivilcoy)."
+  },
+  {
+   "nombre": "Felipe Senillosa · Avelino Díaz · José Arenales",
+   "rol": "Departamento topográfico",
+   "texto": "Firman el informe. Felipe Senillosa (1790-1858), ingeniero español, y Avelino Díaz (1800-1831), matemático, integraron con Arenales la conducción del Departamento Topográfico creado en 1826. Arenales certifica además la copia del decreto de 1838.",
+   "fuentes": "Conocimiento general; Fichas 008, 010, 012."
+  },
+  {
+   "nombre": "José María Rojas · Juan Manuel de Rosas · Manuel Insiarte",
+   "rol": "Firmantes de decretos",
+   "texto": "Rojas firma como ministro el decreto aprobatorio del 15/3/1828 (gobierno de Dorrego). Rosas e Insiarte firman la venta de 1838 según la ley del 10/5/1836, igual que en la Ficha 012.",
+   "fuentes": "Conocimiento general; Ficha 012."
+  },
+  {
+   "nombre": "Anastasia Frías · Juan Antonio Rodríguez",
+   "rol": "Compradora (1838) y enfiteuta anterior",
+   "texto": "Frías compra el terreno como viuda y albacea de Rodríguez, que lo tenía en enfiteusis desde 1828. Queda por ver su parentesco con los otros Rodríguez de Giles.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Antonio Lima · Lavallén (Laballén)",
+   "rol": "Denunciantes en conflicto",
+   "texto": "Lima denunció tierras medidas por Lemoine en agosto de 1827, con prioridad sobre Lavallén. En la Ficha 010 aparece José Clemente Laballén protestando por Francisco del Sar.",
+   "fuentes": "Esta mensura; Ficha 010."
+  },
+  {
+   "nombre": "Linderos",
+   "rol": "Vecinos citados",
+   "texto": "Antonio María Pizán [?] (no concurre); Santiago Casco y Celidonio Fernández (Fichas 011-012); un Rodríguez (¿José, enfiteuta?); Juan Gregorio Carrasco y Norberto Antonio Martínez, con mensuras ya aprobadas; Pita (costado citado por el Departamento).",
+   "fuentes": "Esta mensura; Fichas 011, 012."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/013/02.jpg",
+  "fuente": "IMG_6701.JPG",
+  "lineas": [
+   "[a lápiz, recuadro:] Copiado [?]",
+   "1770 [?]                    Giles",
+   "                                   13",
+   "Secc.^{n} Areco",
+   "Mensura del terreno",
+   "de",
+   "D. Hipolito Quiroga, en",
+   "el partid.^{o} del Fortin de Areco —",
+   "practicada",
+   "por",
+   "El Agrimensor Lemoine",
+   "en",
+   "Diciembre 15 de 1827"
+  ]
+ },
+ "titulo": "D. Bartolomé Saraví (enfiteuta)",
+ "estado": "Transcripta (4 hojas, 135 renglones), 1 lámina"
+}

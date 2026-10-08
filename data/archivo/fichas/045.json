@@ -1,0 +1,474 @@
+{
+ "carpeta": "45",
+ "carpeta_nombre": "Carpeta 45",
+ "archivo": "Ficha 045 - Herederos de Francisco Lescano (1866).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles",
+  "N.º de duplicado": "45 (portadilla: «Sección Areco N.º 206»)",
+  "Propietario / solicitante": "Herederos de Francisco Lescano",
+  "Agrimensor": "Pedro Saubidet",
+  "Año": "1866",
+  "Fecha de la diligencia": "16/8/1866; D. T. 5/9/1866; aprobada 18/3/1869",
+  "Ubicación": "Cabezadas al S del pueblo, entre Noriega, Achával, Díaz y Pividal",
+  "Orden judicial": "Juez de 1.ª instancia, 21/3/1866; aprueba Jorge Echeverría (1869)",
+  "Vendedor / antecesor": "P. A. Martínez → Antonio Lescano (1825) → Francisco Lescano (1838)",
+  "Linderos citados": "Sobras de Vivar / Pividal · her. de José Díaz · Achával · her. de N. Noriega",
+  "Medidas": "6841 × 4286 × 6890 × 4398 m; título 5000 × 7900 varas; seis hijuelas",
+  "Rumbos": "Corregidos: N 52° O · S 37° 30′ O · S 53° 30′ E · N 37° 30′ E; var. 11° 30′ NE",
+  "Referencia de archivo": "Duplicado 45; antes «Sección Areco N.º 206»; a lápiz, «dup. 164 y 138»"
+ },
+ "metricas": {
+  "superficie_ha": "2933,70",
+  "hitos": "Estancias de Francisco y Solano Lescano, de Pividal y de Noriega; iglesia de Giles; puestos de A. Lescano, Kely, Coronel, Vera",
+  "aguas": "Ninguna mencionada"
+ },
+ "sintesis": "Mensura y partición judicial del campo de los herederos de Francisco Lescano, un rectángulo de 2933,7 ha (5000 × 7900 varas de título) al sur del pueblo, entre los Noriega, Achával, los Díaz y Pividal. Pedro Saubidet lo mide el 16/8/1866 —un mes después del campo vecino de Noriega— y lo divide en seis fajas longitudinales para Gerónima, Hilaria, Francisco, Pascual, Alejandro y Solano. El esquinero antiguo estaba 104 m más allá del fondo del título: los herederos no quieren ese exceso y queda como «sobras de Vivar». Visuales a estancias, puestos y a la iglesia de Giles. El Departamento Topográfico la halla «bien ejecutada» (5/9/1866); el juez Echeverría la aprueba recién el 18/3/1869.",
+ "caratula": {
+  "img": "img/f/045/01.jpg",
+  "fuente": "IMG_7231.JPG",
+  "campos": [
+   [
+    "N.º",
+    "45"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Francisco Lescano"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Pedro Saubidet"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1866"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Extracto de títulos y comienzo de la mensura",
+   "img": "img/f/045/04.jpg",
+   "fuente": "IMG_7233.JPG",
+   "nota": "Foliatura «1» en sello. Letra de Saubidet, redonda y regular. El apellido del lindero del frente («Robredo»), dudoso.",
+   "lineas": [
+    "Estracto de los titulos del terreno de la pro-",
+    "piedad de los herederos de Don Francisco",
+    "Lescano, situado en el partido de S^{n} An-",
+    "dres de Giles.",
+    "En ocho de Marzo de mil ocho cientos veinte y cinco",
+    "Don Pedro Antonio Martinez, por ante el Escribano",
+    "Agrelo, estiende escritura de venta de un terreno de",
+    "su propiedad á D^{n} Antonio Lescano: el cual se compone",
+    "de cinco mil varas de frente y siete mil nove cien-",
+    "tas de fondo, lindando con su frente con terrenos de",
+    "Don Jorge Robredo [?], por el Nor Este con el de D^{n} Pe-",
+    "dro Sanchez, por el Sud Este con el de Doña Manue-",
+    "la Quiroga y por los fondos con los de las suertes",
+    "principales del arroyo de Giles.",
+    "En cinco de Abril de mil ocho cientos treinta y",
+    "ocho, por ante el Escribano Castañaga, Don Pablo Jo-",
+    "sé Sanchez en representacion de los herederos de Don",
+    "Antonio Lescano, estiende escritura de venta en favor",
+    "de D^{n} Francisco Lescano del terreno que se espresa en",
+    "este espediente.",
+    "En veinte y uno de Marzo de mil ocho cientos se-",
+    "senta y seis, los herederos de D^{n} Francisco Lescano",
+    "solicitan la mensura y reparticion de este terreno",
+    "y en el mismo dia se le autorisa al agrimensor",
+    "que firma para esta operacion.",
+    "**Mensura.** En el partido de San Andres de Giles á diez",
+    "y seis de Agosto de mil ocho cientos sesenta y seis",
+    "comisionado yo el Agrimensor que firma, para me-",
+    "dir y repartir el terreno de la propiedad de los here-",
+    "deros de D^{n} Francisco Lescano, sito en el partido de",
+    "Giles, segun despacho del Sor Juez de Primera Instan-"
+   ],
+   "interpretacion": "Extracto de los títulos del terreno de los herederos de Francisco Lescano. El 8/3/1825 Pedro Antonio Martínez vende a Antonio Lescano (escribano Agrelo) 5000 varas de frente por 7900 de fondo: frente, Jorge Robredo [?]; NE Pedro Sánchez; SE Manuela Quiroga; fondo, «las suertes principales del arroyo de Giles». El 5/4/1838 Pablo José Sánchez, por los herederos de Antonio Lescano, vende a Francisco Lescano (escribano Castañaga). El 21/3/1866 los herederos de Francisco piden «mensura y repartición» y el mismo día se autoriza al agrimensor.\nMensura: partido de San Andrés de Giles, 16 de agosto de 1866; comisión del juez de primera instancia…\nLas 7900 varas de fondo son la medida típica de las fajas de la merced de Díaz de Vivar (Fichas 036, 037, 042): el terreno es «cabezada» que remata contra las suertes del arroyo de Giles."
+  },
+  {
+   "titulo": "Folio 1 v. · Punto de arranque y costado NE (6841 m): el sobrante que no se quiso",
+   "img": "img/f/045/05.jpg",
+   "fuente": "IMG_7234.JPG",
+   "nota": "Sin foliatura (vuelto). Reclamos «//» al pie y a la cabeza de cada página.",
+   "lineas": [
+    "cia de veinte y uno de Marzo de este mismo año:",
+    "hecha la citacion de linderos que original se acom-",
+    "paña á esta diligencia, y acompañado de ellos, de",
+    "los interesados y demas personal necesario pa-",
+    "ra la operacion me situé en el mojon esquinero",
+    "del angulo Este del terreno de Lescano, que es el",
+    "del angulo Sud del terreno de los herederos de",
+    "D^{n} José Diaz, se determinó este mojon por las",
+    "visuales siguientes: á la estancia de Don Francis-",
+    "co Lescano Norte veinte y ocho grados cuarenta y",
+    "cinco minutos Oeste, á la de Don Solano Lescano",
+    "Norte cuarenta grados Este y á la de Don Gregorio",
+    "Gomez Sud cincuenta y dos grados cuarenta y cin-",
+    "co minutos Este: en este punto formé un angu-",
+    "lo de Noventa grados treinta minutos con la li-",
+    "nea del terreno de la Sra Doña Jacoba Yramain",
+    "de Achaval, tiré el rumbo Norte cincuenta y dos",
+    "grados Oeste corregido y deslindando con el de la",
+    "testamentaria de D^{n} José Diaz medí seis mil ocho",
+    "cientos cuarenta y un metros en donde coloqué un",
+    "mojon que debe ser el esquinero del angulo",
+    "Norte del terreno que se mide, quedando el esqui-",
+    "nero antiguo ciento cuatro metros en la mis-",
+    "ma direccion y en la interseccion del terreno de",
+    "Pividal, resultando así un sobrante entre este ter-",
+    "[re]no y el que se mide, el cual los herederos de",
+    "Lescano no han querido que se incluya dentro",
+    "de su Superficie. En esta linea se encontró á los",
+    "dos mil quinientos noventa y ocho metros un",
+    "mojon costanero y se colocó otro á los tres mil",
+    "ocho cientos noventa y siete metros. El esquinero del",
+    "angulo Norte se determinó por las visuales si-"
+   ],
+   "interpretacion": "…del 21 de marzo. Citados los linderos, Saubidet se sitúa en el esquinero E del terreno (esquinero S de los herederos de José Díaz) y lo fija con tres visuales: estancia de Francisco Lescano N 28° 45′ O, la de Solano Lescano N 40° E, la de Gregorio Gómez S 52° 45′ E. Forma un ángulo de 90° 30′ con la línea de Jacoba Iramain de Achával y mide al N 52° O corregido, deslindando con la testamentaria de José Díaz, 6841 m (= 7900 varas): allí pone el esquinero N. El esquinero ANTIGUO queda 104 m más allá, en la intersección con el terreno de Pividal: resulta «un sobrante entre este terreno y el que se mide, el cual los herederos de Lescano no han querido que se incluya dentro de su superficie». Mojón costanero viejo a 2598 m (3000 varas) y uno nuevo a 3897 m (4500 varas)."
+  },
+  {
+   "titulo": "Folio 2 · Costado NO (4286 m) y mojones divisorios de las seis hijuelas",
+   "img": "img/f/045/06.jpg",
+   "fuente": "IMG_7235.JPG",
+   "nota": "Foliatura «2». La cifra «tres cientos diez y ocho» se lee clara pero no concuerda con el plano (618) ni con el ancho de la hijuela.",
+   "lineas": [
+    "guientes: Estancia de Pividal Sud diez y ocho grados",
+    "cincuenta minutos Oeste, Yglesia de Giles Norte vein-",
+    "te y ocho grados treinta minutos Oeste y Estancia de",
+    "Doña Antonina Cordova [?] Sud sesenta y nueve grados",
+    "Oeste: En este punto formé un angulo de ochen-",
+    "ta y nueve grados treinta minutos y por el rum-",
+    "bo Sud treinta y siete grados treinta minutos Oeste",
+    "y deslindando con sobras de este mismo terreno, me-",
+    "dí hasta dar con la linea del terreno de Noriega cua-",
+    "tro mil dos cientos ochenta y seis metros, en cuya",
+    "interseccion se colocó un mojon esquinero que será",
+    "el del angulo Oeste de este terreno. En toda la es-",
+    "tencion de esta linea se colocaron los mojones",
+    "siguientes: á los tres cientos diez y ocho metros",
+    "un esquinero entre la fraccion que le correspon-",
+    "de á Don Solano y á Don Alejandro Lescano y",
+    "á los mil dos cientos noventa y tres metros",
+    "siete decimetros otro esquinero de la fraccion de",
+    "Don Alejandro y de la de los herederos de Don Pas-",
+    "cual Lescano: á los mil nove cientos noventa",
+    "y nueve metros se puso otro mojon divisorio",
+    "entre el terreno de esta fraccion y la de Don Fran-",
+    "cisco Lescano: á los tres mil tres cientos treinta",
+    "y tres metros cinco decimetros otro mojon diviso-",
+    "rio entre la fraccion que corresponde á Don Fran-",
+    "cisco y á Doña Hilaria Lescano de Acuña y á",
+    "los tres mil quinientos noventa y seis metros",
+    "siete decimetros, se puso otro mojon divisorio en-",
+    "tre esta fraccion y la de Doña Geronima Lescano de",
+    "Gelves [?]. El esquinero del angulo Oeste, se abalizó",
+    "con las visuales siguientes: Yglesia de Giles Norte",
+    "setenta y nueve grados diez minutos Oeste: Puesto de"
+   ],
+   "interpretacion": "…Visuales desde el esquinero N: estancia de Pividal S 18° 50′ O, iglesia de Giles N 28° 30′ O, estancia de Antonina Córdova [?] S 69° O. Ángulo de 89° 30′; rumbo S 37° 30′ O, «deslindando con sobras de este mismo terreno», 4286 m hasta la línea de Noriega: esquinero O. Sobre esta línea, los mojones de la partición: a 318 m [el plano dice 618, que es lo coherente] Solano | Alejandro; a 1293,7 m Alejandro | herederos de Pascual; a 1999 m Pascual | Francisco; a 3333,5 m Francisco | Hilaria Lescano de Acuña; a 3596,7 m Hilaria | Gerónima Lescano de Gelves. Visuales desde el esquinero O: iglesia de Giles N 79° 10′ O, puesto de…\nLos herederos renuncian a 104 m de fondo: el frente NO no linda con Pividal sino con una cuña de «sobras»."
+  },
+  {
+   "titulo": "Folio 2 v. · Costado SO (6890 m, Noriega) y costado SE (4398 m, Achával)",
+   "img": "img/f/045/07.jpg",
+   "fuente": "IMG_7236.JPG",
+   "nota": "Sin foliatura. Un corchete de tinta después de «Oeste» (renglón 19).",
+   "lineas": [
+    "Don Francisco Kely Sud treinta y seis grados cuaren-",
+    "ta y cinco minutos Este y la estancia de Noriega",
+    "Sud ochenta grados Oeste. Se formó este angulo con la",
+    "que se acababa de medir de noventa y un grados",
+    "y por el rumbo Sud cincuenta y tres grados trein-",
+    "ta minutos Este y deslindando con el terreno de",
+    "los herederos de Don Norberto Noriega, medí",
+    "seis mil ocho cientos noventa metros, hasta dar",
+    "con la linea del costado Nor Oeste del terreno de",
+    "la propiedad de Doña Jacoba Yramain de Achabal,",
+    "en cuyo punto coloqué un mojon que debe ser el",
+    "esquinero del angulo Sud del terreno que se mi-",
+    "de: en esta linea se pusieron mojones costaneros",
+    "cada mil dos cientos noventa y nueve metros (1500)",
+    "y se encontró el esquinero del angulo Este de No-",
+    "riega á los seis mil dos cientos cincuenta y un",
+    "metros: el esquinero se determinó por las visua-",
+    "les siguientes: Puesto de Don Alejandro Lescano",
+    "Norte ocho grados Oeste: idem de D^{n} Tomas Coro-",
+    "nel Sud treinta grados Este y D^{n} Lino Vera",
+    "Sud setenta y nueve grados treinta minutos",
+    "Oeste. En este punto formé un angulo de ochen-",
+    "ta y nueve grados y por el rumbo Norte trein-",
+    "ta y siete treinta minutos Este y deslindan-",
+    "do con los terrenos de Doña Jacoba Yramain de",
+    "Achaval, medí cuatro mil tres cientos no-",
+    "venta y ocho metros en donde encontré el mo-",
+    "jon punto de arranque. En esta linea como en",
+    "la del costado opuesto se pusieron los siguien-",
+    "tes mojones; á los setecientos diez y ocho me-",
+    "tros se puso uno divisorio entre la fraccion de",
+    "Doña Geronima L. de Gelves y la de Doña Hi-"
+   ],
+   "interpretacion": "…Francisco Kely S 36° 45′ E y estancia de Noriega S 80° O. Ángulo de 91°; rumbo S 53° 30′ E, deslindando con los herederos de Norberto Noriega, 6890 m hasta la línea NO de Jacoba Iramain de Achával: esquinero S. Costaneros cada 1299 m («1500»: el módulo en varas, entre paréntesis); el esquinero E de Noriega aparece a 6251 m. Visuales: puesto de Alejandro Lescano N 8° O, de Tomás Coronel S 30° E, de Lino Vera S 79° 30′ O. Ángulo de 89°; rumbo N 37° 30′ E, con Achával, 4398 m hasta el mojón de arranque. Mojones divisorios desde el S: a 718 m Gerónima L. de Gelves | Hilaria…\nEn la Ficha 039 el largo del campo de Noriega figura como «N 53° 30′ E»: la línea común debería tener el mismo rumbo que aquí (S 53° 30′ E / N 53° 30′ O), de modo que hay que revisar el cuadrante anotado en 039."
+  },
+  {
+   "titulo": "Folio 3 · Hijuelas, superficie (2933,7 ha) y linderos",
+   "img": "img/f/045/08.jpg",
+   "fuente": "IMG_7237.JPG",
+   "nota": "Foliatura «3». A lápiz, en el margen, una cifra ilegible.",
+   "lineas": [
+    "laria Lescano de Acuña, á los novecientos ochenta",
+    "y ocho metros cinco decimetros se colocó otro mojon di-",
+    "visorio entre la que le corresponde á esta Señora y á",
+    "la de Don Francisco Lescano, á los dos mil tres-",
+    "cientos cincuenta y seis metros ocho decimetros se",
+    "colocó otro mojon divisorio entre la de Don Fran^{co}",
+    "y la de los herederos de Don Pascual Lescano, á",
+    "los tres mil setenta metros se colocó otro mojon",
+    "entre la fraccion de estos herederos y la de Don Ale-",
+    "jandro Lescano y á los tres mil setecientos sesenta",
+    "y dos metros se colocó otro mojon divisorio en-",
+    "tre la fraccion de Don Alejandro y la de Don",
+    "Solano Lescano.",
+    "El terreno medido para los herederos de Don Fran-",
+    "cisco Lescano es de la figura de un cuadrilatero y",
+    "encierra una Superficie de veinte y nueve mi-",
+    "llones, tres cientos treinta y siete mil veinte y",
+    "nueve metros cuadrados igual á treinta y nueve",
+    "millones ciento cinco mil varas cuadradas.",
+    "Linda por el Nor-Oeste con sobras que deben ser",
+    "de los herederos de Don Pedro Diaz de Vivar,",
+    "por el Nor-Este con el terreno de los herederos de",
+    "Don José Diaz, por el Sud-Este con el terreno de",
+    "la propiedad de Doña Jacoba Yramain de Achaval",
+    "y por el Sud-Oeste con el de los herederos de",
+    "Don Norberto Noriega.",
+    "Habiendose medido y subdividido este terreno en sus fren-",
+    "tes como queda dicho, arreglado á las hijuelas de cada",
+    "uno de los herederos, á peticion de ellos se tiraron li-",
+    "neas de banderas de un estremo á otro de cada frac-",
+    "cion y se colocaron mojones costaneros á distancias",
+    "indeterminadas",
+    "Asistieron á esta operacion todos los linderos, á escep-"
+   ],
+   "interpretacion": "…Lescano de Acuña; a 988,5 m Hilaria | Francisco; a 2356,8 m Francisco | herederos de Pascual; a 3070 m Pascual | Alejandro; a 3762 m Alejandro | Solano.\nFigura: cuadrilátero de 29.337.029 m² = 39.105.000 varas cuadradas (el título daba 5000 × 7900 = 39.500.000). Linderos: NO «sobras que deben ser de los herederos de D. Pedro Díaz de Vivar»; NE herederos de José Díaz; SE Jacoba Iramain de Achával; SO herederos de Norberto Noriega. Subdividido el terreno en sus frentes «arreglado a las hijuelas de cada uno», a pedido de los herederos «se tiraron líneas de banderas de un extremo a otro de cada fracción» y se pusieron costaneros «a distancias indeterminadas». Asistieron todos los linderos, a excepción…\nAnchos de las hijuelas sobre el costado SE: Gerónima 718 m, Hilaria 270,5, Francisco 1368,3, Pascual 713,2, Alejandro 692, Solano 636."
+  },
+  {
+   "titulo": "Folio 3 v. · Ausencias, variación, firma e informe del D. T. (5/9/1866)",
+   "img": "img/f/045/09.jpg",
+   "fuente": "IMG_7238.JPG",
+   "nota": "Sin foliatura. El último dígito del año del informe está empastado (se lee «1866» por el contexto).",
+   "lineas": [
+    "cion del Señor Pividal, al cual no se le pudo avi-",
+    "sar por no tener quien lo representara. Los here-",
+    "deros de Noriega y el lindero Achaval no han que-",
+    "rido firmar la citacion diciendo que no estaban",
+    "autorizados para ello.",
+    "Los rumbos son corregidos y la variacion del",
+    "instrumento con que se ha medido la de once",
+    "grados treinta minutos Nor Este.",
+    "Pedro Saubidet",
+    "Señor Juez:–",
+    "El Departamento Topográfico",
+    "ha examinado la presente dili-",
+    "gencia de la mensura y division",
+    "del terreno de los hered^{s} de Don",
+    "Fran^{co} Lescano en el Partido \"Giles\"",
+    "y encontrandola bien ejecutada",
+    "es de parecer que puede ser apro-",
+    "bada por V. S.–",
+    "Buenos Aires Setiembre 5/",
+    "1866 –",
+    "Salas      Kuhr      Benoit"
+   ],
+   "interpretacion": "…del señor Pividal, «al cual no se le pudo avisar por no tener quien lo representara». Los herederos de Noriega y el lindero Achával «no han querido firmar la citación diciendo que no estaban autorizados para ello». Rumbos corregidos; variación del instrumento 11° 30′ NE (la misma cifra de 1865 que Saubidet reutilizó en julio para Noriega, Ficha 039). Firma Pedro Saubidet.\nInforme al juez: el Departamento Topográfico examinó la mensura y división del terreno de los herederos de Francisco Lescano, la halla «bien ejecutada» y opina que puede aprobarse. Buenos Aires, 5 de septiembre de 1866: Salas, Kuhr, Benoit. Veinte días entre la mensura y el informe."
+  },
+  {
+   "titulo": "Oficio judicial de aprobación (marzo de 1869)",
+   "img": "img/f/045/10.jpg",
+   "fuente": "IMG_7239.JPG",
+   "nota": "Foliatura «1» propia (pliego agregado). Letra cursiva rápida de escribiente. El mes se lee «Marzo» por la nota de Salas del 2 de abril. Nota marginal del juzgado, casi ilegible.",
+   "lineas": [
+    "[Sello:] 3 PESOS   ·   PROVINCIA DE BUENOS AIRES 1869",
+    "[Al margen:] Juzg^{do} 1^{a} Inst^{a} [?]",
+    "de Lopez [?]",
+    "Mendez",
+    "Buenos Ayres Marzo 20 de/869.",
+    "Al Señor Presidente del Departamento",
+    "Topografico",
+    "En el espediente seguido por Don Francisco Les-",
+    "cano solicitando mensura de un terreno perte-",
+    "neciente á la Testamentaria de Don Francisco",
+    "Lescano situado en el Partido de Giles, la",
+    "cual fué practicada por el agrimensor publi-",
+    "co Don Pedro Saubidet, ha recaido el auto",
+    "del tenor siguiente = Buenos Ayres Marzo 18 de/869.",
+    "Autos y vistos: de conformidad de partes",
+    "y Agente Fiscal se aprueba, en cuanto ha lu-",
+    "gar por derecho, la mensura practicada por",
+    "el agrimensor Publico Don Pedro Saubidet de",
+    "que instruye la diligencia de f– interponiendo",
+    "el Juzgado para su mayor balidez, la autoridad",
+    "que ejerce, En su virtud avisese al Departa-",
+    "mento Topografico á cuyo efecto se librará",
+    "el oficio necesario con transcripcion de este",
+    "auto entregandose al interesado el espediente",
+    "original previo pago de costas = Jorge Echeverria.",
+    "Lo que se hace saber á V á los efectos que corresponden",
+    "Dios gue á V.",
+    "Jorge Echeverria"
+   ],
+   "interpretacion": "Oficio en papel sellado de 3 pesos (sello «Provincia de Buenos Aires 1869») del juez Jorge Echeverría al presidente del Departamento Topográfico, del 20 de marzo de 1869: en el expediente seguido por Francisco Lescano (hijo) sobre la mensura del terreno de la testamentaria de su padre, recayó el auto del 18 de marzo: «de conformidad de partes y Agente Fiscal se aprueba, en cuanto ha lugar por derecho, la mensura practicada por el agrimensor público D. Pedro Saubidet», con aviso al Departamento y entrega del expediente al interesado previo pago de costas.\nLa mensura de agosto de 1866 tardó dos años y medio en aprobarse, aunque nadie la objetó."
+  },
+  {
+   "titulo": "Dorso del oficio · «Agréguese al duplicado» (2/4/1869)",
+   "img": "img/f/045/11.jpg",
+   "fuente": "IMG_7240.JPG",
+   "nota": "Página casi en blanco; se transparenta el texto del recto y el sello «3 PESOS».",
+   "lineas": [
+    "[Sello al dorso, invertido:] 3 PESOS",
+    "Abril 2 de 1869 –",
+    "Agréguese al duplicado",
+    "correspondiente",
+    "Salas"
+   ],
+   "interpretacion": "Al dorso del oficio, Saturnino Salas decreta el 2 de abril de 1869: «Agréguese al duplicado correspondiente». Es la misma fórmula de las Fichas 042 y 043 (1867, 1873): el Departamento cose al duplicado la constancia judicial de la aprobación."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de los herederos de Francisco Lescano y su división",
+   "img": "img/f/045/03.jpg",
+   "fuente": "IMG_7241.JPG",
+   "orientacion": "Pliego a tinta sin marco; el NO arriba; flecha diagonal «Var. 11° 30′ N. E.»; dos escalas gráficas, de 6000 varas y de 6000 metros; firmado Pedro Saubidet.",
+   "interpretacion": "Rectángulo alargado de NO a SE, dividido en seis fajas longitudinales rotuladas, de SO a NE: «Gerónima L. de Gelves», «Hilaria L. de Acuña», «Francisco Lescano», «Pascual Lescano», «Alejandro Lescano» y «Solano Lescano». La de Hilaria, muy angosta, va de trazos y con un pequeño martillo a media altura. Arriba, entre el frente NO y una línea oblicua, la cuña rotulada «Sobras de Vivar», y más allá «Rodríguez» y «Pividal» (con dos cruces a lápiz). A la derecha, «Hered.s de José Díaz» y, a lápiz, «Fernando Díaz, dup. n.º 164 y 138». A la izquierda, «Noriega» y, más abajo, «Vivar» (la faja de sobras separada en julio de 1866, Ficha 039). Abajo, «D.ª Jacoba Yramain de Achával» y el «Mojón de arranque». En los frentes, las progresivas de cada mojón divisorio en metros y, debajo, los anchos en varas; a lápiz, cifras de control del Departamento.",
+   "referencias": [
+    [
+     "Mojón de arranque",
+     "Esquinero E (S de los herederos de José Díaz); ángulo de 90° 30′"
+    ],
+    [
+     "Costado NE",
+     "N 52° O, 6841 m; mojones a 2598 m (viejo) y 3897 m; esquinero antiguo 104 m más allá"
+    ],
+    [
+     "Frente NO",
+     "S 37° 30′ O, 4286 m, contra las «Sobras de Vivar»; ángulos de 89° 30′ y 91°"
+    ],
+    [
+     "Costado SO",
+     "S 53° 30′ E, 6890 m, con Noriega; costaneros cada 1299 m; esquinero de Noriega a 6251 m"
+    ],
+    [
+     "Frente SE",
+     "N 37° 30′ E, 4398 m, con Achával; ángulo de 89°"
+    ],
+    [
+     "Seis fajas",
+     "Gerónima 718 m · Hilaria 270,5 · Francisco 1368,3 · Pascual 713,2 · Alejandro 692 · Solano 636 (sobre el frente SE)"
+    ],
+    [
+     "Sobras de Vivar",
+     "Cuña entre el frente NO y la línea de Pividal/Rodríguez: 104 m en el extremo N"
+    ],
+    [
+     "Notas a lápiz",
+     "«Fernando Díaz, dup. n.º 164 y 138»; cruces junto a Pividal; cifras en varas bajo el frente SE"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Un sobrante rechazado",
+   "texto": "En pleno ciclo de denuncias de sobrantes (1864-67), los Lescano hacen lo contrario: el esquinero antiguo estaba 104 m más allá de las 7900 varas del título, en la intersección con Pividal, y «no han querido que se incluya dentro de su superficie». Saubidet lo rotula «Sobras de Vivar» —«que deben ser de los herederos de D. Pedro Díaz de Vivar»—, la misma solución que acababa de aplicar en el campo vecino de Noriega (Ficha 039). Así el agrimensor fabrica, mensura tras mensura, una categoría de tierra: ni fiscal ni de los linderos, sino del vendedor originario."
+  },
+  {
+   "titulo": "La partición",
+   "texto": "Seis hijuelas longitudinales de todo el largo (6,8 km), de 270 a 1368 m de ancho: cuatro varones (Solano, Alejandro, Francisco y los herederos de Pascual) y dos mujeres casadas (Gerónima L. de Gelves, Hilaria L. de Acuña). La de Francisco duplica a las demás (¿compra de partes?); la de Hilaria es una tira de 1:25. Las líneas interiores no se amojonan con módulo: se tiran «líneas de banderas» y se ponen costaneros «a distancias indeterminadas», a pedido de los herederos. Cada uno conserva su estancia o puesto (Francisco, Solano, Alejandro)."
+  },
+  {
+   "titulo": "Técnica y metrología",
+   "texto": "Saubidet mide por ángulos interiores (90° 30′, 89° 30′, 91°, 89°: suman 360°) además de rumbos, y «determina» cada esquinero con tres visuales a estancias, puestos y a la iglesia de Giles. Variación 11° 30′ NE, sin observación nueva. Metros en el texto, pero el diseño es en varas: 6841 m = 7900 v; costaneros cada 1299 m «(1500)»; el plano trae escala de varas y de metros y los anchos de las hijuelas en varas."
+  },
+  {
+   "titulo": "Ritual y resistencias",
+   "texto": "Asisten los linderos, pero los herederos de Noriega y Achával «no han querido firmar la citación diciendo que no estaban autorizados para ello», y a Pividal no se lo cita «por no tener quien lo representara». El D. T. aprueba sin reparos en veinte días; el juez, recién en marzo de 1869."
+  },
+  {
+   "titulo": "Cruces y preguntas abiertas",
+   "texto": "Ficha 039 (Noriega: Francisco Lescano lindero SE y comprador con Oyuez), 037 (Félix Lescano, Achával, Frías), 028, 017 (Pividal). La visual a la iglesia de Giles desde el esquinero O (N 79° 10′ O) no parece compatible con la del esquinero N (N 28° 30′ O): ¿será la de Mercedes, o un error de cuadrante? Verificar en GIS. El mojón Solano/Alejandro: 318 m en el texto, 618 en el plano. Ver los duplicados 164 y 138 (Fernando Díaz)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Francisco Lescano (padre) y Antonio Lescano",
+   "rol": "Causante · primer comprador",
+   "texto": "Antonio Lescano compra en 1825 a Pedro Antonio Martínez; sus herederos venden en 1838 a Francisco, probablemente uno de ellos. Francisco muere antes de marzo de 1866. La búsqueda web no dio datos sobre la familia.",
+   "fuentes": "Esta mensura; Fichas 037, 039; búsqueda web sin resultados."
+  },
+  {
+   "nombre": "Los seis herederos",
+   "rol": "Adjudicatarios",
+   "texto": "Francisco (hijo; promueve el expediente y tiene «estancia»), Solano (estancia), Alejandro (puesto), los herederos de Pascual, Gerónima Lescano de Gelves e Hilaria Lescano de Acuña. Los apellidos de los maridos —Gelves, Acuña— son de familias vecinas (Fichas 037 y anteriores).",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Pedro Saubidet",
+   "rol": "Agrimensor",
+   "texto": "Ayudante de Kuhr en 1856, agrimensor público desde 1863. Cuarta diligencia en el corpus (028, 039 y ésta en el mismo rincón del partido): en julio-agosto de 1866 mide en cadena Noriega y Lescano y en ambos deja «sobras de Vivar».",
+   "fuentes": "Fichas 020, 028, 039."
+  },
+  {
+   "nombre": "Jacoba Iramain de Achával · herederos de Norberto Noriega · herederos de José Díaz",
+   "rol": "Linderos",
+   "texto": "Achával linda por el SE (también con Noriega y Acuña, Fichas 037 y 039). Los Noriega, por el SO. La testamentaria de José Díaz, por el NE; a lápiz se anota a Fernando Díaz con los duplicados 164 y 138.",
+   "fuentes": "Esta mensura; Fichas 028, 037, 039."
+  },
+  {
+   "nombre": "Otros nombrados",
+   "rol": "Vecinos y autoridades",
+   "texto": "Pividal (estancia; sin representante), Gregorio Gómez, Antonina Córdova [?], Francisco Kely (¿Kelly?), Tomás Coronel, Lino Vera (ya en 039), Jorge Robredo [?], Pedro y Pablo José Sánchez, Manuela Quiroga; escribanos Agrelo y Castañaga; Departamento Topográfico: Salas, Kuhr, Benoit; juez Jorge Echeverría.",
+   "fuentes": "Esta mensura; Fichas 036, 039, 043."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/045/02.jpg",
+  "fuente": "IMG_7232.JPG",
+  "lineas": [
+   "[a lápiz:] Copiado",
+   "Secc^{n} Areco      Giles",
+   "45",
+   "N 206",
+   "Duplicado de la mensura practicada en el",
+   "terreno de los herederos de D^{n} Francisco",
+   "Lescano, en el partido de Giles, hecha",
+   "en Agosto de 1866 por el Agrimensor",
+   "Saubidet"
+  ]
+ },
+ "titulo": "Herederos de Francisco Lescano",
+ "estado": "Transcripta (8 hojas, 214 renglones), 1 lámina"
+}

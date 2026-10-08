@@ -1,0 +1,493 @@
+{
+ "carpeta": "33",
+ "carpeta_nombre": "Carpeta 33",
+ "archivo": "Ficha 033 - Isidro Cucullu (1865).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles",
+  "N.º de duplicado": "33 (portadilla: «Secc.n Areco N.º 180» testado)",
+  "Propietario / solicitante": "D. Isidro Cucullu (sobrante fiscal)",
+  "Agrimensor": "Teodoro Fremiot",
+  "Año": "1865",
+  "Fecha de la diligencia": "12-15/10/1865; presentada 14/11; D. T. 28/11/1865",
+  "Ubicación": "Arroyo de Giles a Cañada de Suero; camino de Giles al Carmen de Areco",
+  "Orden judicial": "Despacho del Superior Gobierno, 2/10/1865 (venta de tierra pública)",
+  "Vendedor / antecesor": "Fisco; título base: María Lencina de Casco → Francisco Casco",
+  "Linderos citados": "F. Casco · J. Silva · S. Andrade · A. Casco de Saraví · Morgan · test. E. Sosa · M. Martínez",
+  "Medidas": "286 ha 27 a 48 ca; fajas de 345,5 m (fondo) y 284 m (costado); lados 8311 y 7988,8 m",
+  "Rumbos": "Verdaderos: N 47° 20′ O y N 42° 40′ E; variación 11° 25′ E (alturas iguales)",
+  "Referencia de archivo": "Duplicado 33; antes «Sección Areco N.º 180»"
+ },
+ "metricas": {
+  "superficie_ha": "286,27",
+  "hitos": "Barranca del arroyo; mojón de piedras; estacas; casas de Andrade y Silva; mojones de Eguía y Kuhr",
+  "aguas": "Arroyo de Giles; arroyo de Sosa; Cañada de Suero; cañada sin nombre"
+ },
+ "sintesis": "Mensura administrativa de Teodoro Fremiot (octubre de 1865) del sobrante fiscal hallado en el campo de Francisco Casco —2000 × 9000 varas heredadas de María Lencina de Casco, sobre el arroyo de Giles— y concedido en compra al comerciante vasco Isidro Cucullu. Apoyado en los mojones de Eguía (Angela Casco de Saraví) y de Kuhr (Morgan/Eustaquio Sosa), el sobrante resulta una L de 286 ha: 284 m a lo largo del costado y 345,5 m en el fondo, junto a la Cañada de Suero. Ignacio Casco rechaza que se lo ubique todo en el fondo. Fremiot retira una protesta de los Morgan; el D. T. (Salas, Huergo, Benoit, Casagemas, 28/11/1865) aconseja aprobar pero les da vista. Todo en metros; variación 11° 25′ E.",
+ "caratula": {
+  "img": "img/f/033/01.jpg",
+  "fuente": "IMG_7049.JPG",
+  "campos": [
+   [
+    "N.º",
+    "33"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Isidro Cucullo"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Teodoro Fremiot"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1865"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Extracto de títulos de Francisco Casco; comisión del gobierno; arranque",
+   "img": "img/f/033/06.jpg",
+   "fuente": "IMG_7051.JPG",
+   "nota": "Sello con foliatura «1». Letra corrida de Fremiot, con galicismos («distinctos», «polygono», «uno metro»). «setecientos» testado.",
+   "lineas": [
+    "Estracto de Titulos",
+    "Segun los titulos de D.^{n} Francisco Casco le cupó",
+    "por herencia de su S.^{ra} Madre Maria Lensina de",
+    "Casco mil siete cientos treinta y dos metros de frente",
+    "al arroyo de S.^{n} Andres de Giles por ~~setecientos~~ siete",
+    "mil setecientos noventa y cuatro metros de fondo de los",
+    "cuales se vendieron mil siete cientos treinta y dos metros de",
+    "frente por dos mil quinientos noventa y ocho de fondo, a",
+    "D.^{n} Serafin Andrade y D.^{a} Juana Silva sitos en el",
+    "fondo del terreno, lindando con D.^{n} Eduardo Morgan.",
+    "Diligencia de Mensura",
+    "En el partido de S.^{n} Andres de Giles a doce del",
+    "mes de octubre p.^{mo} p.^{do} hallandome yo el agrimensor publico",
+    "Teodoro Fremiot comisionado por despacho del Superior",
+    "Gobierno con fecha octubre 2 de 1865 para medir el",
+    "sobrante de propiedad publica que existe en el terreno",
+    "de D.^{n} F.^{co} Casco, y concedido en compra a D.^{n}",
+    "Isidro Cucullu, despues de haber pasado aviso, con",
+    "oportunidad de mi comision al S.^{r} Juez de paz del",
+    "partido como tambien a todos los linderos, segun consta",
+    "de la circular que acompaña a estas diligencias, dí",
+    "cumplimiento a lo mandado del modo siguiente:",
+    "pasé al mojon esquinero Este del terreno de D.^{a}",
+    "Angela Casco de Saraví mandé colocar banderas en",
+    "los mojones puestos por el agrimensor Eguia en el",
+    "deslinde Nor Este del referido terreno, y situado arriba",
+    "la barranca del arroyo de Giles se tiró el rumbo",
+    "del mencionado deslinde y se halló ser el del Norte",
+    "cuarenta y siete grados veinte minutos Oeste. Se fue"
+   ],
+   "interpretacion": "Extracto de títulos: a Francisco Casco le cupieron, por herencia de su madre María Lencina de Casco, 1732 m de frente al arroyo de San Andrés de Giles (= 2000 varas) por 7794 m de fondo (= 9000 varas). De ello vendió 1732 m por 2598 m de fondo (3000 v) a Serafín Andrade y a Juana Silva, «sitos en el fondo del terreno», lindando con Eduardo Morgan.\nDiligencia: el 12 de octubre [de 1865] el agrimensor público Teodoro Fremiot, comisionado por despacho del Superior Gobierno del 2/10/1865 —no por un juez: es una venta de tierra pública— para medir el sobrante fiscal que existe en el terreno de Casco, concedido en compra a Isidro Cucullu, avisa al juez de paz y a los linderos por circular. Va al mojón esquinero E del terreno de Angela Casco de Saraví (Ficha 005), pone banderas en los mojones de Eguía y, parado «arriba la barranca del arroyo de Giles», halla el rumbo del deslinde: N 47° 20′ O…"
+  },
+  {
+   "titulo": "Folio 1 v. · Línea de Saraví hasta el costanero de Morgan; mojones de Eguía y de Kuhr",
+   "img": "img/f/033/07.jpg",
+   "fuente": "IMG_7052.JPG",
+   "nota": "Mancha de tinta al pie. «Khur» por Kuhr.",
+   "lineas": [
+    "midiendo al referido rumbo ocho mil trescientos",
+    "once metros hasta dar con el mojon costanero",
+    "de Morgan, Esquinero Norte del terreno de",
+    "D.^{n} Isidro Cucullu y remate del fondo del",
+    "terreno que se mide, habiendo encontrado en",
+    "esa linea desde el arroyo, mojones a los dos-",
+    "cientos treinta y ocho metros, a los tres mil no-",
+    "venta y seis metros un mojon de piedras, y a los",
+    "cinco mil siete cientos nueve metros cincuenta cen-",
+    "timetros una estaca. puesto el instrumento en",
+    "el mismo mojon costanero de Morgan cuadré a la",
+    "derecha, al rumbo del Norte cuarenta y",
+    "dos grados cuarenta minutos Este. de ese sitio se",
+    "midieron mil nueve cientos ochenta y uno metros cua-",
+    "renta centimetros. hasta dar con el mojon esquinero",
+    "Este de Morgan. puesto por el agrimensor Eguia",
+    "mandé poner banderas en los mojones puestos",
+    "por el agrimensor Khur quando midió el terreno",
+    "que Morgan compró a D.^{n} Eustaquio Sosa",
+    "cuyos mojones quedan uno mas allá de la cañada",
+    "de Suero y el otro dos mil quinientos noventa",
+    "y ocho metros mas para el arroyo de Giles",
+    "el mojon puesto por Eguia queda como uno metro",
+    "afuera de la linea; puesto en la misma inter-",
+    "seccion de las lineas referidas cuadré a la derecha",
+    "al rumbo del Sur cuarenta y siete",
+    "grados veinte y cinco minutos Este; de este sitio se midieron",
+    "al referido rumbo [mancha de tinta] siete mil nuevecientos ochenta y ocho +"
+   ],
+   "interpretacion": "…mide por ese rumbo 8311 m hasta el mojón costanero de Morgan, esquinero N del terreno de Isidro Cucullu y remate del fondo. En la línea halla mojones a 238 m del arroyo, a 3096 m («un mojón de piedras») y a 5709,50 m («una estaca»). Desde el costanero de Morgan cuadra a la derecha, N 42° 40′ E, 1981,40 m hasta el esquinero E de Morgan puesto por Eguía. Pone banderas en los mojones que dejó Kuhr al medir el terreno que Morgan compró a Eustaquio Sosa (Ficha 020, 1856): uno queda «más allá de la cañada de Suero» y el otro 2598 m (3000 v) hacia el arroyo de Giles; el mojón de Eguía queda «como un metro afuera de la línea». Desde la intersección cuadra a la derecha, S 47° 25′ E, y mide 7988…"
+  },
+  {
+   "titulo": "Folio 2 · Arroyo de Sosa, camino de Giles a Carmen de Areco; aparece el sobrante",
+   "img": "img/f/033/08.jpg",
+   "fuente": "IMG_7053.JPG",
+   "nota": "Foliatura «2».",
+   "lineas": [
+    "metros ochenta centimetros hasta el arroyo de Giles donde",
+    "se puso un mojon esquinero. en esta linea a los dos mil",
+    "trescientos ochenta y uno metros cincuenta centimetros se",
+    "encontró el mojon esquinero Sur del terreno que Morgan",
+    "compró a D.^{n} Eustaquio Sosa, a los tres mil nuevecientos ochenta",
+    "y tres metros se cruzó una cañada, a los cinco mil siete cientos",
+    "quince metros el arroyo de Sosa, a los siete mil cuatro",
+    "cientos sesenta y nueve metros el camino de Giles para el",
+    "Carmen de Areco; del arroyo volviendo por atras se midieron",
+    "ochenta y uno metros cuarenta centimetros, y se tiró el rumbo",
+    "del Sur cuarenta y dos grados cuarenta minutos Oeste, cua-",
+    "drando a la derecha se midieron a este rumbo doscientos",
+    "ochenta y cuatro metros, cuadré a la izquierda al rumbo",
+    "del Sur cuarenta y siete grados veinte minutos Este, midiendo",
+    "a este rumbo setenta y cinco metros hasta llegar a la",
+    "barranca del arroyo, se tiró en este sitio el rumbo del",
+    "Sur cuarenta y dos grados cuarenta minutos Oeste y se",
+    "fué levantando el curso del arroyo por abcisas y ordenadas",
+    "paralelas á los dos rumbos mencionados conforme va marcado",
+    "en el plano.",
+    "Con esta ultima operacion fui á rematar al punto de",
+    "arranque de la mensura, apareciendo un sobrante en el",
+    "fondo y en el frente del terreno de D.^{n} F.^{co} Casco, se hizo",
+    "la proposicion de sanear todo el sobrante en el fondo del",
+    "terreno, pero el S.^{r} D.^{n} Ygnacio Casco en representacion",
+    "de su padre D.^{n} F.^{co} Casco hizo presente que no podia confor",
+    "marse con tal ubicacion, se resolvió entonces de sanear",
+    "el sobrante tal cual habia salido, lo que se verificó"
+   ],
+   "interpretacion": "…,80 m hasta el arroyo de Giles, donde pone un esquinero. En esa línea: a 2381,50 m el esquinero S del terreno que Morgan compró a Eustaquio Sosa; a 3983 m una cañada; a 5715 m el «arroyo de Sosa»; a 7469 m «el camino de Giles para el Carmen de Areco». Desde el arroyo vuelve 81,40 m, mide 284 m al S 42° 40′ O, 75 m al S 47° 20′ E hasta la barranca, y levanta el curso del arroyo «por abscisas y ordenadas paralelas a los dos rumbos» hasta cerrar en el punto de arranque.\nAparece un sobrante «en el fondo y en el frente» del terreno de Casco. Se propone «sanear todo el sobrante en el fondo», pero Ignacio Casco, en representación de su padre, no se conforma con esa ubicación; se resuelve entonces dejar el sobrante «tal cual había salido»…"
+  },
+  {
+   "titulo": "Folio 2 v. · Deslinde del sobrante: polígono de seis lados, 286 ha",
+   "img": "img/f/033/09.jpg",
+   "fuente": "IMG_7054.JPG",
+   "nota": "",
+   "lineas": [
+    "del modo siguiente: del mojon costanero A",
+    "de Morgan se midieron al rumbo del Sur cuarenta",
+    "y siete grados veinte minutos Este trescientos cuarenta",
+    "y cinco metros cincuenta centimetros, y se puso un",
+    "mojon remate del fondo del terreno de D.^{n} F.^{co} Casco",
+    "hoy de Serafin Andrade, cuadré despues a la",
+    "izquierda por una paralela al deslinde Sur Este de",
+    "Morgan, y se midieron sobre esta paralela mil",
+    "siete cientos treinta y dos metros y se puso un mojon,",
+    "Esquinero Norte de Casco, hoy de D.^{a} Juana Silva,",
+    "cuadré a la derecha al rumbo del Sur cuarenta",
+    "y siete grados veinte minutos Este, siguiendo este rumbo",
+    "por enfilaciones de banderas, hasta cruzar el arroyo",
+    "de Giles poniendo mojones a la media legua, y",
+    "a la margen del arroyo, siendo este el esquinero",
+    "Este de D.^{n} F.^{co} Casco. con esta ultima operacion",
+    "dí la mensura por concluida, el sobrante que",
+    "asi resulta forma un polygono irregular de seis",
+    "lados con una area de dos millones ochocientos",
+    "sesenta y dos mil siete cientos cuarenta y ocho metros",
+    "cuadrados ó sean doscientos ochenta y seis hectareas",
+    "veinte y siete areas cuarenta y ocho centiareas.",
+    "Linda este sobrante al Sur Oeste con el",
+    "arroyo de Giles, Juana Silva, Serafin Andrade",
+    "al Nor Oeste con D.^{n} F.^{co} Casco, Juana Silva, y",
+    "el interesado D.^{n} Isidro Cucullu al Nor Este",
+    "con Morgan, al Sur Este con Morgan y"
+   ],
+   "interpretacion": "…así: desde el mojón costanero A de Morgan, 345,50 m al S 47° 20′ E: mojón «remate del fondo del terreno de Casco, hoy de Serafín Andrade»; luego, por una paralela al deslinde SE de Morgan, 1732 m: mojón «esquinero N de Casco, hoy de D.ª Juana Silva»; y de allí al S 47° 20′ E «por enfilaciones de banderas» hasta cruzar el arroyo de Giles, con mojones a la media legua y en la margen del arroyo (esquinero E de Casco). El sobrante es «un polígono irregular de seis lados» —una L: una faja de 345,5 m en el fondo y otra de 284 m a lo largo de todo el costado— de 2.862.748 m² = 286 ha 27 a 48 ca. Linda al SO con el arroyo de Giles, Juana Silva y Serafín Andrade; al NO con Casco, Silva y el propio Cucullu; al NE con Morgan; al SE con Morgan y…"
+  },
+  {
+   "titulo": "Folio 3 · Variación 11° 25′; asistentes; nota sobre la protesta de los Morgan",
+   "img": "img/f/033/10.jpg",
+   "fuente": "IMG_7055.JPG",
+   "nota": "Foliatura «3». Al margen, a lápiz, la cifra del área (2862748).",
+   "lineas": [
+    "testamentaria de D.^{n} Eustaquio Sosa.",
+    "la variacion del teodolito empleado consta de once",
+    "grados veinte y cinco minutos Este y todos los rumbos indicados",
+    "son con relacion al meridiano Terrestre.",
+    "asistieron a la mensura, D.^{n} Ygnacio Casco en",
+    "representacion de su S.^{r} padre, D.^{n} Julio Saraví en represen",
+    "tacion de su S.^{ra} madre, los S.^{res} Morgan H.^{os}, el S.^{r} Llorente",
+    "albacea de la testamentaria de D.^{n} Eustaquio Sosa, D.^{n} Serafin",
+    "Andrade, D.^{n} Domingo Silva.",
+    "Nota la protesta que entregué yo al depar",
+    "tamento, por parte de los S.^{res} Morgan H.^{os} y que habia",
+    "conseguido hacer para salvar los derechos de dichos Señores",
+    "queda hoy sin efecto habiendo tenido la seguridad que",
+    "no habia sobrante en el fondo del terreno de D.^{n} Eustaquio",
+    "Sosa, por las razones mas abajo aducidas.",
+    "al leer las escrituras que me enseñaron los S.^{res} Morgan",
+    "parece que las 1000^{v} de frente por 9000 de fondo que com",
+    "praron a D.^{n} Eustaquio Sosa han sido de dos terrenos",
+    "distinctos, uno compuesto de 650^{v} de frente con todo el",
+    "fondo hasta topar las suertes principales de Areco y el",
+    "otro de 350^{v} de frente por 9000^{v} de fondo, es en este ultimo",
+    "que creia yo que habia un sobrante lo mismo que en el",
+    "terreno de D.^{n} F.^{co} Casco, pero a mi vuelta a esta",
+    "habiendo conseguido pasar vista por las escrituras matrices",
+    "de D.^{n} Eustaquio Sosa, cuyas escrituras hacen referencia",
+    "las de Morgan averigué yo que las 1000^{v} de frente com",
+    "-pradas por Morgan habian sido de uno solo cuerpo de",
+    "terreno, cuyo fondo lindaba con las suertes principales",
+    "de Areco de tal modo que si hubiese un sobrante",
+    "[al margen, a lápiz: 2862748]"
+   ],
+   "interpretacion": "…la testamentaría de Eustaquio Sosa. Variación del teodolito: 11° 25′ E; todos los rumbos son verdaderos («con relación al meridiano terrestre»). Asistieron Ignacio Casco por su padre, Julio Saraví por su madre (Angela Casco), los «Sres. Morgan Hermanos», Llorente, albacea de la testamentaría de Eustaquio Sosa, Serafín Andrade y Domingo Silva.\nNota: Fremiot había entregado al Departamento una protesta por parte de los Morgan «para salvar los derechos de dichos señores»; la deja sin efecto. Las escrituras que le mostraron los Morgan parecían decir que las 1000 v de frente por 9000 de fondo compradas a Eustaquio Sosa eran dos terrenos (650 v con todo el fondo hasta las suertes principales de Areco, y 350 v por 9000), y en este último creyó que había sobrante; pero, vistas en la ciudad las escrituras matrices de Sosa, averiguó que era un solo cuerpo cuyo fondo lindaba con las suertes principales de Areco, de modo que si hubiese sobrante…"
+  },
+  {
+   "titulo": "Folio 3 v. · Cierre de Fremiot; presentación e informe del Departamento Topográfico",
+   "img": "img/f/033/11.jpg",
+   "fuente": "IMG_7056.JPG",
+   "nota": "Tres manos: Fremiot; el cargo de presentación (firma «Adolfo Sal[d]as», dudosa); el informe del D. T. en letra redonda.",
+   "lineas": [
+    "quedaria en el fondo del terreno del S.^{r} Butterfild",
+    "despues de Micaela Cané hoy tambien de Morgan,",
+    "investigaciones que no eran de mi comision.",
+    "T.^{o} Fremiot",
+    "agrimensor",
+    "Presentada al Depart.^{o} Topo-",
+    "grafico hoy catorce de Noviem-",
+    "bre de 1865.",
+    "Adolfo Sal[d]as [?]",
+    "Exmo Señor:",
+    "El Depart.^{o} Topog.^{co} ha examinado",
+    "la presente mensura del terreno conce-",
+    "dido en venta á D.^{n} Ysidro Cucullu,",
+    "situado en el Partido de San Andres",
+    "de Giles y medido por el Agrimensor",
+    "Fremiot, y encontrando que para des-",
+    "lindar dicho sobrante ha respetado los",
+    "límites de todos los terrenos linderos",
+    "que estaban ya medidos y amojonados",
+    "por los Agrimensores Kuhr y Eguia,",
+    "cuyas mensuras han sido aprobadas,",
+    "y que al mismo tiempo deja saneado",
+    "el terreno de propiedad de D.^{n} Francis-",
+    "co Casco, es de opinion que esta men-",
+    "sura sea aprobada por V. E.",
+    "El sobrante que ha resultado consta //"
+   ],
+   "interpretacion": "…«quedaría en el fondo del terreno del Sr. Butterfield, después de Micaela Cané, hoy también de Morgan», investigaciones «que no eran de mi comisión». Firma T. Fremiot, agrimensor. Presentada al Departamento Topográfico el 14/11/1865.\nInforme del D. T. al gobernador («Exmo. Señor»): Fremiot respetó los límites de todos los linderos ya medidos y amojonados por Kuhr y Eguía, cuyas mensuras están aprobadas, y deja «saneado» el terreno de Francisco Casco; opina que se apruebe. El sobrante consta…"
+  },
+  {
+   "titulo": "Folio 4 · Superficie y vista a los Morgan (28/11/1865)",
+   "img": "img/f/033/12.jpg",
+   "fuente": "IMG_7063.JPG",
+   "nota": "Firmas autógrafas con rúbrica.",
+   "lineas": [
+    "// de doscientas ochenta y seis hectáreas",
+    "veinte y siete áreas y cuarenta y ocho cen-",
+    "tiáreas.",
+    "Se adjunta la protesta de los herederos",
+    "de D.^{n} Eduardo Morgan y apesar de lo",
+    "que dice el Agrimensor en su nota,",
+    "debe darse vista de esta operacion á",
+    "los linderos Morgan, para que funden",
+    "su protesta con exhibicion de sus títulos.",
+    "Buenos Ayres Noviembre 28/",
+    "1865.",
+    "Saturnino Salas    Luis A. Huergo",
+    "Pedro Benoit    Ygn.^{o} Casagemas"
+   ],
+   "interpretacion": "…de 286 ha 27 a 48 ca. Se adjunta la protesta de «los herederos de D. Eduardo Morgan» y, «a pesar de lo que dice el agrimensor en su nota», el Departamento manda dar vista a los linderos Morgan para que funden su protesta exhibiendo sus títulos. Buenos Aires, 28/11/1865. Firman Saturnino Salas, Luis A. Huergo, Pedro Benoit e Ignacio Casagemas. Eduardo Morgan (Fichas 002, 020, 029) ya había muerto: actúan sus herederos, «Morgan Hermanos»."
+  },
+  {
+   "titulo": "Folio 5 · Cálculo de la variación por alturas correspondientes del Sol (15/10/1865)",
+   "img": "img/f/033/13.jpg",
+   "fuente": "IMG_7062.JPG",
+   "nota": "Foliatura «5». Se transparenta la escritura del dorso.",
+   "lineas": [
+    "Calculo de la variacion",
+    "por la mañana 8.^{bre} 15 de 1865",
+    "alt.^{as}                azimuths",
+    "29° 30'  ——  66° 51'",
+    "30° 11'  ——  66° 27'",
+    "30° 44'  ——  66° 10'",
+    "31° 09'  ——  65° 43'",
+    "31° 40'  ——  65° 25'",
+    "por la tarde",
+    "31° 42'  ——  88° 15'",
+    "31° 09'  ——  88° 33'",
+    "30° 44'  ——  89° 00'",
+    "30° 11'  ——  89° 17'",
+    "29° 36'  ——  89° 41'",
+    "Mitad de la diferencia 11° 25' = variacion",
+    "T.^{o} Fremiot"
+   ],
+   "interpretacion": "Tabla de alturas y azimutes magnéticos del Sol el 15 de octubre de 1865, a la mañana y a la tarde, a las mismas alturas (29° 30′/36′, 30° 11′, 30° 44′, 31° 09′, 31° 40′/42′). La mitad de la diferencia entre los azimutes de mañana y tarde (≈ 22° 50′) da la variación: 11° 25′ E. Es el método de «alturas iguales» o correspondientes que ya usó Eguía en 1856; aquí con cinco pares y el registro completo, lo que permite recalcularlo."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del sobrante concedido a Isidro Cucullu",
+   "img": "img/f/033/03.jpg",
+   "fuente": "IMG_7057.JPG (detalles 7058-7061)",
+   "orientacion": "Pliego a tinta, con doble flecha de norte (magnético y verdadero, separados «11° 25′»); «Escala de metros» gráfica (0-2000 m, con talón de 500); firmado «T. Fremiot».",
+   "interpretacion": "El sobrante (rotulado «Sobrante» y «2862748 m.tros cuad.dos») es una L de trazo rojo: una faja angosta de 284 m que corre desde el arroyo de Giles hasta el fondo, entre «F.co Casco» y la «Testamentaría de Eustaquio Sosa» / «Morgan», y un brazo de 345,5 m en el fondo, entre los puntos A y C, bajo «Eduardo Morgan». Dentro de la escuadra quedan «Andrade» y «Silva» (dos casas dibujadas) y, al SO, «Casco de Saraví» e «Isidro Cucullu» (que ya era dueño de la fracción vecina). Al N, «Matías Martínez» y la «Cañada de Suero» con signos de bañado junto a los mojones B y C. Cruzan la faja el «arroyo de Sosa» y el «camino de Areco»; al pie, el arroyo de Giles levantado por abscisas y ordenadas (259,8 · 173 · 866 · 433 · 284 m).",
+   "referencias": [
+    [
+     "A",
+     "Mojón costanero de Morgan; esquinero N del terreno de Cucullu; lado A-C: N 42° 40′ E, 1981 m"
+    ],
+    [
+     "B · C",
+     "Mojones junto a la Cañada de Suero; C = esquinero E de Morgan (mojón de Eguía, 1 m fuera de la línea)"
+    ],
+    [
+     "Lados",
+     "«N 42° 40′ E 1732 m» (paralela interior); «S 47° 20′ E 7637,42» y «S 47° 25′ E 7988,80» (costados de la faja); «345,5» y «871,8 [?]» en el fondo"
+    ],
+    [
+     "Linderos",
+     "Eduardo Morgan · Matías Martínez · Morgan · Testamentaría de Eustaquio Sosa · F.co Casco · Andrade · Silva · Casco de Saraví · Isidro Cucullu"
+    ],
+    [
+     "Aguas",
+     "Arroyo de Giles · arroyo de Sosa · Cañada de Suero (bañado) · un bañado sobre la faja, junto al mojón medio"
+    ],
+    [
+     "Caminos",
+     "«Camino de Areco» (en el texto: «camino de Giles para el Carmen de Areco»)"
+    ],
+    [
+     "Hitos",
+     "«Mojón de arranque» sobre la barranca del arroyo; dos «casas» (Andrade y Silva); mojones a la media legua"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: fondo del terreno, puntos A-B-C y Cañada de Suero",
+   "img": "img/f/033/04.jpg",
+   "fuente": "IMG_7058.JPG",
+   "orientacion": "Toma parcial del cuarto superior del plano.",
+   "interpretacion": "Se leen «Eduardo Morgan», «Matías Martínez», los mojones A, B y C, «N 42° 40′ E 1981 m» y «N 42° 40′ E 1732 m», el rótulo doble «Isidro Cucullu» (el brazo del sobrante y la fracción que ya poseía), «Andrade», «Silva», «Casco de Saraví», las dos casas y la doble flecha de norte con el ángulo «11° 25′».",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: frente sobre el arroyo de Giles, arroyo de Sosa y camino de Areco",
+   "img": "img/f/033/05.jpg",
+   "fuente": "IMG_7061.JPG",
+   "orientacion": "Toma parcial del pie del plano.",
+   "interpretacion": "El arroyo de Giles levantado por tramos («mojón de arranque», 259,8 · 173 · 866 · 433 · 284 m, con ordenadas de 75-87 m), el «camino de Areco» que cruza la faja en diagonal, el «arroyo de Sosa» y la firma «T. Fremiot».",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Un sobrante fiscal en forma de escuadra",
+   "texto": "No es una mensura judicial sino administrativa: el Superior Gobierno comisiona a Fremiot (2/10/1865) para medir el sobrante «de propiedad pública» dentro del campo de Francisco Casco, ya «concedido en compra» a Isidro Cucullu. El título de Casco decía 2000 × 9000 varas (aquí ya traducidas: 1732 × 7794 m); el terreno entre los mojones de Eguía (lado Saraví) y de Kuhr (lado Morgan/Sosa) tiene más: 284 m de más en el frente y 345,5 m en el fondo. Resultado: una L de 286 ha que envuelve el campo de Casco por el NE y por el fondo."
+  },
+  {
+   "titulo": "La ubicación del sobrante se negocia en el terreno",
+   "texto": "Fremiot propone juntar todo el sobrante en el fondo; Ignacio Casco, por su padre, «no podía conformarse con tal ubicación» (le quitaba profundidad y lo alejaba de sus compradores Andrade y Silva). Se deja «tal cual había salido». El D. T. celebra que así queda «saneado» el terreno de Casco. Es un buen ejemplo de la doctrina vista desde Differt (1858): se respetan los amojonamientos aprobados de los linderos y el exceso se recorta donde aparece."
+  },
+  {
+   "titulo": "Los morgan: protesta, retiro y vista",
+   "texto": "El propio agrimensor había presentado una protesta por los «Morgan Hermanos» (herederos de Eduardo Morgan, ya fallecido) y la retira al comprobar en las escrituras matrices que las 1000 v compradas a Eustaquio Sosa (Ficha 020) son un solo cuerpo con fondo hasta las suertes principales de Areco: si allí hubiese sobrante, quedaría en el fondo del terreno «de Butterfield, después de Micaela Cané, hoy también de Morgan». El D. T. no se conforma con la palabra del agrimensor y manda dar vista a los Morgan. Cucullu compra, pues, una cuña fiscal entre dos frentes de expansión: el de los Casco y el de los Morgan."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Teodolito; rumbos verdaderos; variación 11° 25′ E obtenida el 15/10/1865 por alturas correspondientes del Sol (cinco pares mañana/tarde, con la tabla adjunta). Todo en metros y centímetros, sin equivalencia en varas (los títulos antiguos se citan ya convertidos; sólo las escrituras de Morgan aparecen en varas). Superficie en hectáreas, áreas y centiáreas. Arroyo levantado «por abscisas y ordenadas»; «enfilaciones de banderas»; mojones a la media legua."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "La barranca del arroyo de Giles como estación del instrumento; el «arroyo de Sosa» y una cañada sin nombre cruzando la faja; la Cañada de Suero con bañado en el fondo; el «camino de Giles para el Carmen de Areco» (nuevo en el corpus: Carmen de Areco, pueblo de 1857, ya es destino); mojón «de piedras» y estacas; las casas de Andrade y de Silva dibujadas en planta dentro de sus fracciones."
+  },
+  {
+   "titulo": "Cruces y preguntas abiertas",
+   "texto": "Cierra el bloque Casco–Saraví–Morgan: Ficha 005 (Angela Casco de Saraví, Eguía 1856: sus mojones son la base), 014 (Santiago Casco), 020 (Morgan/Sosa, Kuhr 1856) y 029 (Guerrico, 1861: allí Serafín Andrade y Juana R. de Silva ya son linderos, y Morgan pide un sobrante en 1865). ¿María Lencina de Casco era la viuda de Santiago Casco (014)? ¿Qué fracción poseía ya Cucullu al NO («Isidro Cucullu» junto a Saraví)? La firma del cargo («Adolfo Sal[d]as») es dudosa. El número antiguo «Sección Areco N.º 180» indica que el duplicado se archivó primero en Areco."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Isidro Cucullu",
+   "rol": "Comprador del sobrante",
+   "texto": "Vasco de Alvia (Bilbao, Vizcaya), 1825-1910; con su hermano Juan Simón se radicó en San Andrés de Giles, donde «enriquecidos en el comercio adquirieron grandes extensiones de campo». Recibió además tierras de sus suegros Vicente Cutillas y María Ángela Olivera; tuvo diez hijos (Vicente Cucullu Cutillas fue propietario del Teatro Ópera). Juan Simón donó en 1898 las tierras de la estación y pueblo de Cucullú, en el partido. Esta compra de un sobrante fiscal en 1865 muestra el mecanismo: el comerciante del pueblo entra a la tierra por los intersticios del catastro.",
+   "fuentes": "Wikipedia, «Cucullu (familia)»; esta mensura."
+  },
+  {
+   "nombre": "Teodoro Fremiot",
+   "rol": "Agrimensor público",
+   "texto": "Sin datos biográficos en la búsqueda breve. Por la grafía («polygono», «distinctos», «azimuths», «uno metro») y el apellido, probablemente francés. Primera aparición en el corpus. Trabaja con teodolito y sólo en sistema métrico.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Francisco Casco · María Lencina de Casco · Ignacio Casco",
+   "rol": "Titulares del campo medido",
+   "texto": "Francisco hereda de su madre María Lencina de Casco una suerte de 2000 × 9000 v sobre el arroyo de Giles y vende el fondo (2000 × 3000 v) a Andrade y Silva. Su hijo Ignacio lo representa y discute la ubicación del sobrante. Familia de Santiago Casco («los Chañaritos», Ficha 014) y de Angela Casco de Saraví (Ficha 005).",
+   "fuentes": "Fichas 005, 014, 020."
+  },
+  {
+   "nombre": "Serafín Andrade · Juana Silva · Domingo Silva",
+   "rol": "Compradores del fondo de casco",
+   "texto": "Ya figuran como linderos de Guerrico en 1861 (Ficha 029: «Juana R. de Silva», representada por su hijo Domingo Silva). Tienen casas en sus fracciones.",
+   "fuentes": "Ficha 029."
+  },
+  {
+   "nombre": "Eduardo Morgan y «Morgan Hermanos»",
+   "rol": "Linderos",
+   "texto": "Eduardo Morgan, comprador del campo de Macome (Ficha 002) y de las 1000 v de Eustaquio Sosa (Ficha 020), y de 2/3 del campo de Guerrico (029). En noviembre de 1865 el D. T. habla ya de sus «herederos»; sus hijos (Jorge y Eduardo, según 029) actúan como «Morgan Hermanos».",
+   "fuentes": "Fichas 002, 020, 029; villa_irlanda.md."
+  },
+  {
+   "nombre": "Eustaquio Sosa · Llorente · Butterfield · Micaela Cané",
+   "rol": "Linderos y antecesores",
+   "texto": "Eustaquio Sosa, vendedor de Morgan (1856), tiene en 1865 testamentaría con albacea Llorente; firmó por Natal Torres en 1858 (Ficha 025). Butterfield y Micaela Cané: dueños sucesivos de un terreno al fondo, hoy de Morgan (Cané: familia que compró a los herederos de Martínez en 1820, Ficha 029).",
+   "fuentes": "Fichas 020, 025, 029."
+  },
+  {
+   "nombre": "Angela Casco de Saraví · Julio Saraví · Matías Martínez",
+   "rol": "Linderos",
+   "texto": "Angela Casco, mensurada por Eguía en 1856 (Ficha 005); la representa su hijo Julio Saraví. Matías Martínez, lindero al N sobre la Cañada de Suero (también en 029).",
+   "fuentes": "Fichas 005, 029."
+  },
+  {
+   "nombre": "Saturnino Salas · Luis A. Huergo · Pedro Benoit · Ignacio Casagemas",
+   "rol": "Departamento topográfico (1865)",
+   "texto": "Salas, presidente del D. T. Luis Augusto Huergo (1837-1913), agrimensor desde 1862, será en 1870 el primer ingeniero civil graduado en el país y proyectista del puerto de Buenos Aires; aquí firma como vocal. Pedro Benoit (1836-1897), luego autor del trazado de La Plata. Casagemas, vocal desde 1863.",
+   "fuentes": "Conocimiento general; Fichas 007, 028, 031."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/033/02.jpg",
+  "fuente": "IMG_7050.JPG",
+  "lineas": [
+   "~~Secc.^{n} Areco~~ San A. de Giles",
+   "~~N.º 180~~    33",
+   "Duplicado",
+   "mensura de un",
+   "Sobrante",
+   "partido de Giles",
+   "D.^{n} Isidro Cucullu",
+   "1865",
+   "Teodoro Fremiot",
+   "agrimensor",
+   "[rúbricas o iniciales a lápiz]"
+  ]
+ },
+ "titulo": "D. Isidro Cucullu (sobrante fiscal)",
+ "estado": "Transcripta (8 hojas, 197 renglones), 3 láminas"
+}

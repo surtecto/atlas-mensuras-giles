@@ -1,0 +1,438 @@
+{
+ "carpeta": "8",
+ "carpeta_nombre": "Carpeta 8",
+ "archivo": "Ficha 008 - Pueblo de Giles, Pividal y Galeano (1838).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Sección Areco)",
+  "N.º de duplicado": "8",
+  "Propietario / solicitante": "Pueblo de Giles, Pividal y Galeano",
+  "Agrimensor": "Joaquín Hidalgo",
+  "Año": "1838",
+  "Fecha de la diligencia": "21/8/1838 (portadilla 15/9/1838; recibo D. T. 5/10/1838)",
+  "Ubicación": "Pueblo de San Andrés de Giles y su ejido, margen der. del Aº de Giles",
+  "Orden judicial": "Juez de Paz Pedro Antonio Rodríguez, por «Superior orden»",
+  "Vendedor / antecesor": "Tierra del Santo (donación Suero 1793) 700 v + Pividal 800 v («linderas con el Pueblo», 1824) + Galeano 540 v",
+  "Linderos citados": "O: Aº de Giles · NE: Á. de la Riestra [?] · SO: F. Luque(z) · E: J. Díaz y F. Lescano",
+  "Medidas": "2040 × 5450 v; Pueblo 2040 × 2000 v; 15 chacras de 400 × 1000 v, calles de 10 v",
+  "Rumbos": "Corregidos 15° NE «con el que habían sido medidos anteriormente»",
+  "Referencia de archivo": "«N.º 58 (antes 54) – Giles 8»; recibo D. T. 5/10/1838 (Arenales)"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 813 (0,301 leguas²); Pueblo ≈ 306 · chacras ≈ 29–33 c/u",
+  "hitos": "mojones (uno movido, de Lescano); traza del pueblo y 15 chacras con calles de 10 varas",
+  "aguas": "Arroyo de Giles (frente O), aguas abajo de su naciente"
+ },
+ "sintesis": "Traza del Pueblo de San Andrés de Giles y de su ejido de chacras (21/8/1838), por Joaquín Hidalgo, a pedido del juez de paz Pedro Antonio Rodríguez. Sobre 2040 varas de frente al arroyo (800 de Pividal, 700 del Santo Patrono y 540 de Galeano) se «cuadra» el Pueblo (2040 × 2000 v) y se trazan 15 chacras con calles de 10 v. La revisión de 2026 reafirma que es el pueblo de Giles: la tierra del Santo es la donación de Suero de 1793, y las 800 varas de Pividal eran desde 1824 «linderas con el Pueblo» (Ficha 004). Se corrige la interpretación primera de un pueblo nuevo en Azcuénaga; el lindero Riestra queda como pregunta abierta.",
+ "caratula": {
+  "img": "img/f/008/01.jpg",
+  "fuente": "IMG_6639.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "8"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "R. Pividal y Galeano"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Hidalgo"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1838"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO — Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 (recto)",
+   "img": "img/f/008/07.jpg",
+   "fuente": "IMG_6641-1.JPG (IMG_6641, misma hoja con otra luz)",
+   "nota": "Encabezado federal «Viva la Federación». Foliatura «1» en sello; sello negro del Departamento Topográfico en el margen. Letra inglesa inclinada, con fuerte transparencia del reverso. Al margen, numeración a lápiz de párrafos (1, 2…).",
+   "lineas": [
+    "Viva la Federacion.",
+    "En el partido de Giles á veinte y uno de Agosto",
+    "de mil ochocientos treinta y ocho. Año 29 de la Liber-",
+    "tad 23 de la Yndependencia y noveno de la Confedera-",
+    "cion Argentina, El S^{or}. Juez de Paz de dicho partido",
+    "D^{n} Pedro Antonio Rodriguez me hizo entender que de-",
+    "via medirse un terreno donado para Chacras incluso",
+    "~~con~~ el del S^{to} Patrono, y en vista de la Superior orden ad-",
+    "junta, procedí á el deslinde de los terrenos que son ocho-",
+    "cientas varas de frente de D^{n} Rafael Pividal, setecientas",
+    "del Santo, y quinientas cuarenta de D^{n} Mariano Ga-",
+    "leano. Previa la citacion de linderos como consta de la",
+    "adjunta circular, reunidos con el S^{or} Juez de Paz, nos diri-",
+    "gimos al punto conocido por el de arranque que lo es, el",
+    "mojon mojon [sic] del angulo Oeste divisorio entre D^{a}. Fran-",
+    "cita Luquez [?] y D^{n} Rafael Pividal, Acto continuo; puse",
+    "el instrumento sobre el referido mojon, y se midio la",
+    "cuerda sujetandola á cien varas nombrando para conta-",
+    "dores de ella, á D^{n} Esteban Gomes y D^{n} José Diaz, y tiré",
+    "el rumbo del Nordeste corregido con quince grados de",
+    "variacion Nordeste por ser este con el que havian sido",
+    "medidos anteriormente y se midieron ochocientas",
+    "varas que es el frente que le corresponde á D^{n}"
+   ],
+   "interpretacion": "La hoja abre con «Viva la Federación» y el cómputo rosista (21 de agosto de 1838). El juez de paz de Giles, Pedro Antonio Rodríguez, manda medir «un terreno donado para chacras, incluso el del Santo Patrono». Son tres frentes sobre el arroyo: 800 varas de Rafael Pividal, 700 «del Santo» y 540 de Mariano Galeano.\nLa lectura revisada: el «Santo Patrono» es San Andrés, patrono del pueblo. Su tierra es la donación de Francisco de Suero (con los Hidalgo) de 1793 para el oratorio y el pueblo, donde se dijo la primera misa en 1806. La Ficha 004 lo confirma: en 1824 Pividal se había reservado 800 varas «linderas con el Pueblo de San Andrés de Giles», y aquí esas 800 varas siguen inmediatamente con las 700 del Santo. No se funda un pueblo nuevo: se regulariza y amplía el Pueblo de Giles sobre su propia tierra, con las chacras que donan Pividal y Galeano.\nEl arranque está en el mojón O entre Francisca Luque(z) y Pividal. Luque es el apellido de la esposa de José Antonio López, cuyos herederos (Natalia Arriaga) lindan con Pividal en la Ficha 004. Se verifica la cuerda a 100 varas, se nombran dos contadores (Esteban Gómez y José Díaz) y se corrige el rumbo con 15° «por ser éste con el que habían sido medidos anteriormente»."
+  },
+  {
+   "titulo": "Folio 1 (vuelto)",
+   "img": "img/f/008/08.jpg",
+   "fuente": "IMG_6642.JPG (girada 90°)",
+   "nota": "Numeración marginal a lápiz de párrafos (3, 4). Transparencia del recto.",
+   "lineas": [
+    "Rafael Pividal segun titulos, donde se puso un mo-",
+    "jon y se corrigió la cuerda, continuando al mismo",
+    "rumbo, seguí midiendo setecientas varas que es el",
+    "frente que le corresponde al S^{to} Patrono, segun ti-",
+    "tulos, donde puse un mojon y se corrigió la cuerda,",
+    "continué midiendo por el mismo rumbo hasta me-",
+    "dir quinientas cuarenta varas que es el frente que se-",
+    "gun titulos, le corresponde á D^{n} Mariano Galeano, donde",
+    "se puso un mojon, y variando de rumbo del Sueste corre-",
+    "gido medí por él cinco mil cuatrocientas cincuenta va-",
+    "ras que es el fondo que le corresponde segun ~~los~~ titulos",
+    "del interesado, y haviendo resultado desigualdad en",
+    "los costados me ceñí al rumbo que dicho deslinde pe-",
+    "dia y fue el rumbo del Sudoeste de la aguja, y p.^{r} él",
+    "se midieron dos mil cuarenta varas hta encontrar",
+    "un mojon que fue reconocido p.^{r} divisorio entre los te-",
+    "rrenos de D^{n} Rafael Pividal y D^{n} Francisco Lescano re-",
+    "sultando el mojon de Lescano segun voz general y se-",
+    "gun mi operacion, havia sido movido de su primi-",
+    "tiva posicion, por lo que puse un mojon, y cambié de",
+    "rumbo al Noroeste corregido y p.^{r} él medí cinco mil",
+    "ciento ochenta y cuatro varas con las que salí al",
+    "mojon de arranque con la diferencia de cuarenta"
+   ],
+   "interpretacion": "Se miden los tres frentes sobre el arroyo (800 + 700 + 540 = 2040 varas), corrigiendo la cuerda en cada mojón, y el fondo de 5450 varas al SE. Como los costados salen desiguales, Hidalgo sigue en el fondo el SO «de la aguja», porque así estaba trazado el deslinde viejo. Mide 2040 varas hasta un mojón reconocido como divisorio entre Pividal y Francisco Lescano.\nEse lindero es otra pieza del rompecabezas. En la Ficha 004 (1854), la línea entre Pividal y Joaquín Rodríguez corre S 47°15' E desde el arroyo y termina justamente contra Lescano. Los fondos de la mensura 8 y los de la 004 son los mismos: ambas mensuras son vecinas sobre la margen derecha del arroyo, junto al pueblo.\nEl mojón de Lescano había sido «movido de su primitiva posición», según «voz general» y según la operación. El consenso vecinal y la medición denuncian juntos el corrimiento. El costado NO (5184 varas) cierra con 45 varas de diferencia."
+  },
+  {
+   "titulo": "Folio 2 (recto)",
+   "img": "img/f/008/09.jpg",
+   "fuente": "IMG_6643.JPG (girada 90°)",
+   "nota": "Foliatura «2» en sello. Numeración marginal a lápiz (5, 6, 7).",
+   "lineas": [
+    "y cinco varas, y se dió por concluida esta operacion,",
+    "acto continuo dí principio á la segunda, que en confor-",
+    "midad con los propietarios, D^{n} Rafael Pividal y D^{n} Ma-",
+    "riano Galeano, ordenó el S^{or} Juez de Paz se cuadrara el",
+    "Terreno dedicado á la Poblacion, dandole dos mil cuaren-",
+    "ta V.^{s} de frente, y dos mil de fondo y se amojonó quedan-",
+    "do el Pueblo en la estencion de un rectangulo. Desde",
+    "este ultimo lugar puse el instrumento al rumbo del",
+    "Sudoeste corregido y fuí deslindando las Chacras con cuatro",
+    "cientas varas de frente, substrayendo á cada una cinco V.^{s}",
+    "con las que se formó la calle de diez V.^{s} de ancho, haviendo",
+    "dado á la chacra de Galeano, cuatro cientas cuarenta",
+    "V.^{s} de frente que por orden del interesado, se hizo asi, como",
+    "tambien se agregó cien varas al terreno del S^{to} para que",
+    "de este modo se completaran dos chacras con cuatrocien-",
+    "tas varas de frente como las que corren al costado del Su-",
+    "doeste de D^{n} Rafael Pividal, concluida esta operacion y",
+    "todo el terreno amojonado en sus respectivos lugares",
+    "varié de rumbo al Sueste corregido y por él medí mil",
+    "varas substrayendole cinco para formar la calle y se",
+    "puso un mojon variando de rumbo al Nordeste corre-",
+    "gido y por él medí cuatro cientas varas donde se puso",
+    "un mojon, frente que le corresponde á la primera",
+    "chacra, continuando al mismo rumbo seguí midi-",
+    "endo hasta dos mil cuarenta V.^{s} haviendo dejado"
+   ],
+   "interpretacion": "Empieza la «segunda operación». Por orden del juez de paz y de conformidad con Pividal y Galeano, se «cuadra» el terreno dedicado a la Población: un rectángulo de 2040 × 2000 varas junto al arroyo, amojonado. El texto dice «el Pueblo», con artículo definido: el pueblo que ya existía, el de la tierra del Santo, que en febrero de 1838 Eguía había usado como visual desde la naciente del arroyo (Ficha 003).\nLo que se hace es dar forma geométrica regular al Pueblo de Giles, que hasta entonces se había extendido alrededor del oratorio de 1806, y dotarlo de un ejido de chacras. Detrás se trazan chacras de 400 varas de frente, restando 5 varas de cada lado para calles de 10 varas. La de Galeano tiene 440 varas por su pedido, y al terreno del Santo se le agregan 100 varas para completar dos chacras. Dos años después (1840) se levanta la nueva iglesia que reemplaza al oratorio: traza e iglesia forman un mismo movimiento de institucionalización del pueblo en época de Rosas."
+  },
+  {
+   "titulo": "Folio 2 (vuelto)",
+   "img": "img/f/008/10.jpg",
+   "fuente": "IMG_6644.JPG (girada 90°)",
+   "nota": "Numeración marginal a lápiz (8, 9). Papel con ligera mancha de agua.",
+   "lineas": [
+    "mojon cada cuatrocientas V.^{s} que la delinea-",
+    "cion y deslinde de una á otra chacra. En seguida",
+    "cambié al rumbo del Sueste corregido y por él medí",
+    "mil V.^{s} fondo que le corresponde á dichas chacras",
+    "donde puse un mojon, y volviendo á cambiar de rum-",
+    "bo para el Sudoeste corregido seguí midiendo y amo-",
+    "jonando, cada cuatrocientas V.^{s} como en las anteriores",
+    "dejando separacion de diez V.^{s} que es el ancho que",
+    "tienen las calles entre chacra y chacra. en seguida",
+    "puse el rumbo del Sueste corregido, y medí mil varas",
+    "de fondo que es el que le corresponde donde puse un mo-",
+    "jon, y cambiando de rumbo al Nordeste seguí midi-",
+    "endo hasta las dos mil cuarenta V.^{s} dejando mo-",
+    "jones como en las demas con la misma separacion",
+    "de diez V.^{s} para calles. Desde que la desigualdad",
+    "de los costados no permite otra operacion que la que se",
+    "hizo dejando la ultima chacra el terreno que linda",
+    "con D^{n} José Diaz y D^{n} Francisco Lescano resultó conclu-",
+    "ir la operacion saliendo al mojon del costado Sudo-",
+    "este, y resulta una Chacra de lineada como demuestra",
+    "el plano. La figura del terreno en total es un Trape-",
+    "cio su area consta de trescientos un milesimos de Legua",
+    "cuadrada. El rectangulo que forma el Pueblo consta",
+    "de ciento tres milesimos que substraidos del total"
+   ],
+   "interpretacion": "La traza avanza en zigzag: fondo de 1000 varas al SE, mojones cada 400 varas al SO, otras 1000 al SE, mojones al NE, siempre dejando 10 varas de calle. Resultan tres filas de cinco chacras y una faja final irregular contra José Díaz y Francisco Lescano, «delineada como demuestra el plano».\nLa superficie se da en milésimos de legua cuadrada: el trapecio total es de 0,301 leguas² (≈ 813 ha) y el rectángulo del Pueblo, de 0,103 leguas². Las medidas del pueblo darían 0,113: ¿descuento de calles o error de cálculo? Queda por verificar. En el plano del partido de 1890 este conjunto aparece absorbido por el ejido medido por Orlandini (duplicado 137, 1883-84), que declara «de pan llevar» cuatro leguas cuadradas alrededor del pueblo."
+  },
+  {
+   "titulo": "Folio 3 (recto)",
+   "img": "img/f/008/11.jpg",
+   "fuente": "IMG_6645.JPG (girada 90°)",
+   "nota": "Foliatura «3». Firma «Joaq.n Hidalgo» con gran rúbrica. Debajo, con otra letra, el recibo del Departamento Topográfico firmado por Arenales. Relectura 24/9/2026: «Albaro de la Riestra» y «Francita Luquez» se leen con claridad.",
+   "lineas": [
+    "quedan ciento noventa y ocho milesimos; y cada",
+    "chacra de las cuadradas consta de ciento siete mile-",
+    "simos [sic, diezmilésimos] excepto la que forma una figura irregu-",
+    "lar, que esta tiene ciento setenta y nueve milesimos",
+    "y las que tienen, cuatrocientas cuarenta V.^{s} de frente",
+    "le corresponde ciento veinte y un melesimos que forman",
+    "en total la superficie del terreno comprehendido entre",
+    "el del S^{to} Patrono, D^{n} Rafael Pividal, y D^{n} Mariano",
+    "Galeano. Sus linderos por el Oeste el Arroyo de Giles p.^{r}",
+    "el Nordeste, D^{n} Albaro de la Riestra p.^{r} el Sudoeste",
+    "D^{a} Francita Luquez y p.^{r} los fondos ó p.^{r} el Este D^{n}",
+    "José Diaz y D^{n} Francisco Lescano; la operacion fue eje-",
+    "cutada sin opocicion alguna lo que todo consta p.^{r}",
+    "diligencia",
+    "Joaq.^{n} Hidalgo [rúbrica]",
+    "Departamento Topografico Octubre 5 de 1838",
+    "Recivido en esta fha en pliego cerrado \"Del Juez de Paz",
+    "encargado de la Comisaria de S.^{n} Andres de Giles\" pero sin",
+    "oficio ni otro antecedente.   Arenales [rúbrica]"
+   ],
+   "interpretacion": "Las chacras suman 0,198 leguas². Cada chacra cuadrada mide en realidad 0,0107 leguas² (386.100 v², ≈ 29 ha); las de 440 varas, 0,0121; la irregular, 0,0179 [?]. Son las chacras del ejido de Giles.\nLinderos: el arroyo de Giles al O, Álvaro de la Riestra al NE, Francisca Luque(z) al SO y José Díaz y Francisco Lescano en los fondos. Tres de los cuatro encajan con las Fichas 004 y 005, en el borde del pueblo actual. El NE, Riestra, es la única anomalía: su estancia La Paloma (Ficha 006, comprada en 1840) está unos 11 km aguas abajo, en Azcuénaga. Hay que suponer que en 1838 Riestra tenía otra fracción contigua al pueblo, o que el nombre se refiere a otra posesión. Queda como pregunta abierta; no alcanza para desplazar la mensura.\nEl 5 de octubre de 1838 el Departamento (Arenales) recibe la diligencia «en pliego cerrado» del «Juez de Paz encargado de la Comisaría de San Andrés de Giles», pero «sin oficio ni otro antecedente»: un trámite nacido localmente."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del Pueblo de San Andrés de Giles y sus chacras (1838)",
+   "img": "img/f/008/03.jpg",
+   "fuente": "IMG_6646-2.JPG (lámina completa; IMG_6646, IMG_6647 e IMG_6648 son vistas parciales)",
+   "orientacion": "Lámina vertical; el arroyo de Giles abajo y los fondos arriba. Dos flechas meridianas a la derecha con «15°» entre ellas.",
+   "interpretacion": "Es el plano más antiguo conocido de la traza de San Andrés de Giles. Abajo, sobre el arroyo de Giles, el rectángulo del Pueblo (2040 varas de frente) dividido con puntos en las tres fracciones de origen: «D.n Mariano Galeano», «S.to Patrono» y «D.n Rafael Pividal». La franja central del Santo es la tierra donada por Suero para el oratorio y el pueblo. Arriba, la cuadrícula de chacras (tres filas de cinco, calles dobles de 10 varas) con el área de cada una (386.100; 435.600 en la columna de Galeano) y una faja irregular (646.680) contra José Díaz y Francisco Lescano. A los lados, «D.n Albaro de la Riestra» y «D.a Francita Luques». La escala es «de tres mil varas castellanas ó media legua de Buenos Ayres». Es un plano de proyecto: la traza normativa impuesta sobre un pueblo que ya existía de hecho.",
+   "referencias": [
+    [
+     "Pueblo",
+     "Rectángulo de 2040 × 2000 varas junto al arroyo (0,103 leguas² según el texto)"
+    ],
+    [
+     "S.to Patrono",
+     "Fracción central, 700 varas: tierra de San Andrés (donación Suero 1793, oratorio 1806)"
+    ],
+    [
+     "D.n Rafael Pividal",
+     "800 varas: las reservadas en 1824 «linderas con el Pueblo» (Ficha 004)"
+    ],
+    [
+     "D.n Mariano Galeano",
+     "540 varas; su columna de chacras, 440 v"
+    ],
+    [
+     "Chacras 386.100 · 435.600",
+     "≈ 29 y 33 ha"
+    ],
+    [
+     "646.680",
+     "Chacra irregular contra Díaz y Lescano"
+    ],
+    [
+     "Calles",
+     "10 varas entre chacras"
+    ],
+    [
+     "D.n Albaro de la Riestra",
+     "Lindero NE (ver observación «El problema Riestra»)"
+    ],
+    [
+     "D.a Francita Luques",
+     "Lindero SO: familia López–Luque (Ficha 004)"
+    ],
+    [
+     "Meridianas «15°»",
+     "Variación convencional heredada de mensuras anteriores"
+    ],
+    [
+     "Escala",
+     "«Escala de tres mil varas castellanas ó media legua de Buenos Ayres»"
+    ]
+   ]
+  },
+  {
+   "titulo": "Plano del partido (1890): el Pueblo de Giles en el parcelario",
+   "img": "img/f/008/04.jpg",
+   "fuente": "Plano del partido de San Andrés de Giles, año 1890 (fotografía de J. P. Addesso; «Carpetas de Planos AHG (Varios)»)",
+   "orientacion": "Detalle del sector del pueblo; el arroyo de Giles pasa al O del casco («Paso») y corre hacia el NE.",
+   "interpretacion": "El Pueblo de San Andrés de Giles ocupa la margen derecha del arroyo, rodeado por parcelas con el número 137 (ejido, mensura Orlandini). Al SO del pueblo, las etiquetas de Juan marcan la «Casa de Martín Galeano» y la «Casa de Joaquín Rodríguez», junto a la naciente del arroyo (Fichas 003, 004 y 011). La cadena de la Ficha 004 (naciente → 4960 v de Rodríguez y Arriaga → Pividal 800 → Santo 700 → Galeano 540) lleva la franja del Santo a unos 5,5-6 km de la naciente: justamente la distancia que en este plano separa esas casas del casco del pueblo. Al NO, el pequeño «5» sobre un lindero junto a Julio Saraví es el duplicado 5 (Casco de Saraví, 1856), vecina del pueblo sobre la margen izquierda, donde lindaba con Mariano Galeano en 1827.",
+   "referencias": [
+    [
+     "Paso",
+     "Vado del arroyo de Giles al O del casco"
+    ],
+    [
+     "Casa de M. Galeano · Casa de J. Rodríguez",
+     "Naciente del arroyo: origen de la cadena 004 → 008"
+    ],
+    [
+     "5 (chico)",
+     "Duplicado 5, Casco de Saraví"
+    ],
+    [
+     "Números grandes de contorno",
+     "Cuarteles del partido, no números de mensura"
+    ]
+   ]
+  },
+  {
+   "titulo": "Plano del partido (1890) anotado: cuarteles, duplicados y la primera ubicación en Azcuénaga",
+   "img": "img/f/008/05.jpg",
+   "fuente": "Plano del partido, 1890, con anotaciones de lectura (24/9/2026)",
+   "orientacion": "Lámina apaisada; N arriba aproximadamente. Azul: cuarteles; rojo/naranja: mensuras y lugares.",
+   "interpretacion": "El «8» grande al S del pueblo es el cuartel 8, no la mensura 8. Lo prueban el cuartel 5 (en Wheeler, lejos del duplicado 5 de Saraví) y el cuartel 9 (en el extremo O, mientras Maldonado, duplicado 9, está al E junto a La Paloma). La Paloma de Riestra (duplicado 6) y la estación Azcuénaga, donde se había ubicado la mensura 8 en la primera lectura, quedan unos 11 km aguas abajo del pueblo.",
+   "referencias": []
+  },
+  {
+   "titulo": "Primera georreferenciación (J. P. Addesso, «Presentación SyT 2»), a corregir",
+   "img": "img/f/008/06.jpg",
+   "fuente": "«Presentación SyT 2 - frame at 1m28s.jpg», carpeta 8",
+   "orientacion": "Montaje con la grilla de 1838 superpuesta a imagen satelital en la zona de Azcuénaga.",
+   "interpretacion": "Esta diapositiva documenta la interpretación primera: la mensura 8 como cesión de tierra del Santo para un pueblo nuevo, ubicada en Azcuénaga, apoyada en el lindero Álvaro de la Riestra. La revisión de 2026 la corrige: la tierra del Santo es la del Pueblo de Giles y la grilla debe llevarse al casco actual (ver observaciones). La diapositiva se conserva como registro del proceso de investigación.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Revisión 2026: la mensura es del pueblo de giles",
+   "texto": "Se reafirma que el «Pueblo» de esta mensura es San Andrés de Giles. (1) En 1824 Pividal se reservó 800 varas «linderas con el Pueblo de San Andrés de Giles» y el triángulo vecino lindaba con «el terreno donado por los Suero é Hidalgo… para el Pueblo de Giles, con frente al Arroyo» (Ficha 004); aquí esas 800 varas siguen con las 700 del Santo, que es esa donación. (2) El lindero SO «Luquez» es la familia López–Luque y los fondos Díaz y Lescano coinciden con la 004. (3) La cadena de distancias desde la naciente lleva la franja del Santo al casco actual. (4) Mariano Galeano lindaba con el pueblo en 1827 (Ficha 005). (5) El pueblo ya existía en febrero de 1838 (Ficha 003) y la iglesia nueva es de 1840. La mensura es la traza y ampliación del pueblo existente con su ejido de chacras."
+  },
+  {
+   "titulo": "Interpretación primera, corregida",
+   "texto": "La lectura inicial de J. P. Addesso entendía la mensura como la cesión de un terreno del Santo para fundar un pueblo nuevo, y la georreferenció en Azcuénaga («Presentación SyT 2»). Se apoyaba en tres datos: el cuerpo del acta no nombra al «Pueblo de Giles», el lindero NE es Álvaro de la Riestra (La Paloma, junto a Azcuénaga) y en el plano del partido de 1890 hay un «8» grande al S del pueblo. Esa interpretación queda corregida: el «8» grande es un cuartel, el «Santo Patrono» es el patrono del pueblo de Giles y los linderos Pividal, Luque, Galeano y Lescano anclan la mensura en el borde del casco actual. La grilla debe reubicarse en el GIS sobre el pueblo."
+  },
+  {
+   "titulo": "El problema riestra (pregunta abierta)",
+   "texto": "El único dato que no encaja es el lindero NE, «D.ⁿ Albaro de la Riestra», leído con seguridad. La estancia La Paloma (Ficha 006) se compró recién el 3/8/1840 y queda en Azcuénaga; sus linderos SO en 1840-1854 son Sosa/Monje y Ninian Johnston, no el pueblo. Hipótesis: Riestra poseía en 1838 otra fracción al NE del pueblo, o el agrimensor anotó al futuro comprador de tierras vecinas del juez de paz Pedro Antonio Rodríguez (vendedor de La Paloma). Test: Registro Gráfico de 1830/1833 y títulos de Riestra."
+  },
+  {
+   "titulo": "Ritual y política",
+   "texto": "«Viva la Federación» y el cómputo «Año 29 de la Libertad, 23 de la Independencia y noveno de la Confederación» fechan el acto en pleno rosismo. El juez de paz, autoridad clave de la campaña, dirige, cita a los linderos por circular y ordena la traza. Se nombran contadores de cuerda (Esteban Gómez, José Díaz), se verifica la cuerda de 100 varas en cada mojón y se cierra «sin oposición alguna». El Departamento recibe la diligencia sin oficio ni antecedentes: una operación urbana nacida del poder local."
+  },
+  {
+   "titulo": "La variación de 15°, explicada",
+   "texto": "Hidalgo corrige con 15° NE «por ser éste con el que habían sido medidos anteriormente»: continuidad con las mensuras antiguas, no observación. Explica los 15° de las Fichas 002 y 003. Un lado del fondo se mide «de la aguja» porque así lo pedía el deslinde existente."
+  },
+  {
+   "titulo": "Mojones movidos y voz general",
+   "texto": "El mojón de Lescano había sido «movido de su primitiva posición» según «voz general» y según la operación del agrimensor. El saber vecinal y la medición coinciden. El error de cierre de 45 varas se declara abiertamente."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "El texto es casi mudo: sólo el arroyo de Giles y los mojones. Ni casas, ni árboles, ni caminos, aunque el pueblo ya existía desde 1806. El plano presenta un espacio geométrico «vacío»: la mirada normativa del agrimensor borra lo construido para imponer la cuadrícula. Esa omisión es en sí un dato para la tesis."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Frente 2040 v ≈ 1,77 km; fondo 5450 v ≈ 4,72 km; total 0,301 leguas² ≈ 813 ha. Pueblo 2040 × 2000 v ≈ 306 ha (el texto da 0,103 leguas² ≈ 278 ha). Chacras de 386.100 v² ≈ 29 ha y 435.600 v² ≈ 33 ha. Confusión entre milésimos y diezmilésimos en las chacras."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Qué «Superior orden» se adjuntó? ¿Coincide la grilla de 1838, llevada al casco actual con 15° de corrección, con las calles y quintas de Giles? ¿Dónde estaba el oratorio de 1806 respecto de la traza, y dónde se levantó la iglesia de 1840? ¿Qué fracción tenía Riestra en 1838? ¿Es el agrimensor Joaquín Hidalgo pariente de los Hidalgo donantes?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Joaquín Hidalgo",
+   "rol": "Agrimensor",
+   "texto": "Firma «Joaq.n Hidalgo». No se halló biografía del agrimensor. Existe un coronel de marina homónimo (Guayaquil, 1807 – Buenos Aires, 1849) que en 1833 dirigió una comisión hidrográfica en el Río de la Plata; la identificación no está probada. El apellido coincide con el de los donantes de la tierra del pueblo (Suero e Hidalgo).",
+   "fuentes": "Revisionistas.com.ar, «Joaquín Hidalgo»; esta mensura."
+  },
+  {
+   "nombre": "Pedro Antonio Rodríguez",
+   "rol": "Juez de paz de giles (1838)",
+   "texto": "Encargó la mensura y ordenó la traza del pueblo. En 1840 vendió a Álvaro de la Riestra la estancia La Paloma (Ficha 006). Juez de paz y propietario: figura típica del poder local rosista.",
+   "fuentes": "Esta mensura; Ficha 006."
+  },
+  {
+   "nombre": "Francisco de Suero y Giles · Padre Vicente Piñero",
+   "rol": "Donante de la tierra del santo (1793) · fundador del oratorio (1806)",
+   "texto": "En octubre de 1793 Suero donó tierras frente a la Cañada de Giles para levantar un oratorio y delinear un pueblo. El padre Vicente Piñero gestionó los permisos y fue delineando el pueblo; el 30 de noviembre de 1806 se rezó la primera misa, con San Andrés Apóstol como patrono. El oratorio se usó unos treinta años y fue reemplazado por una iglesia en 1840. Esa donación es la tierra «del Santo Patrono» de esta mensura.",
+   "fuentes": "Municipalidad de San Andrés de Giles, «Historia»; Realpolitik, «San Andrés de Giles: de oratorio a ciudad»."
+  },
+  {
+   "nombre": "Rafael Pividal",
+   "rol": "Propietario de 800 varas de frente",
+   "texto": "Compró en 1824 a Rosalía Sarabia un triángulo sobre el arroyo y se reservó 800 varas «linderas con el Pueblo de San Andrés de Giles» (Ficha 004): las mismas que aquí se incorporan al pueblo y a las chacras. La Carpeta 17 contiene su mensura.",
+   "fuentes": "Esta mensura; Ficha 004."
+  },
+  {
+   "nombre": "Mariano Galeano",
+   "rol": "Propietario de 540 varas de frente",
+   "texto": "Lindero S de Carlos Ramón Casco en 1827, en el borde del pueblo sobre la margen izquierda (Ficha 005). Aporta 540 varas y pide chacra de 440 varas de frente. Los Galeano (Martín, Manuela Córdoba, Sotero) tenían casa junto a la naciente del arroyo.",
+   "fuentes": "Esta mensura; Fichas 004, 005 y 011."
+  },
+  {
+   "nombre": "José Arenales (1798-1862)",
+   "rol": "Presidente del departamento topográfico",
+   "texto": "Ingeniero y geógrafo, hijo del general Juan Antonio Álvarez de Arenales. Presidió el Departamento aproximadamente entre 1828 y 1852. Aquí firma sólo el recibo de la diligencia.",
+   "fuentes": "Revista Andes / SciELO (2014)."
+  },
+  {
+   "nombre": "Álvaro de la Riestra · Francisca Luque(z) · José Díaz · Francisco Lescano",
+   "rol": "Linderos",
+   "texto": "Riestra: lindero NE, anomalía abierta (La Paloma, comprada en 1840, queda en Azcuénaga). Francisca Luque(z): familia de Tránsito Luque, esposa de José Antonio López, cuyos herederos lindan con Pividal (Ficha 004). Lescano: lindero de los fondos de Pividal y de Joaquín Rodríguez en 1854, con su mojón movido en 1838. José Díaz fue además contador de la cuerda.",
+   "fuentes": "Esta mensura; Fichas 004 y 006."
+  },
+  {
+   "nombre": "Esteban Gómez · José Díaz",
+   "rol": "Contadores de la cuerda",
+   "texto": "Vecinos nombrados para contar las cuerdas de 100 varas: primeros auxiliares del ritual de medición nombrados en el corpus (junto al equipo de Ysach de 1826, Fichas 011-012).",
+   "fuentes": "Esta mensura."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/008/02.jpg",
+  "fuente": "IMG_6640.JPG",
+  "lineas": [
+   "N.º 58.                              Giles",
+   "                                         8",
+   "N.º ~~54~~",
+   "Secc.^{n} \"Areco\"",
+   "Mensura del terreno",
+   "de",
+   "S.^{n} Andres de Giles",
+   "incluso",
+   "el de R. Pividal y Galeano sobre",
+   "la Cañada de Giles",
+   "practicada por",
+   "El Agrimensor Hidalgo",
+   "en 15 de Septbre de 1838"
+  ]
+ },
+ "titulo": "Pueblo de Giles, Pividal y Galeano",
+ "estado": "Transcripta (5 hojas, 114 renglones), 4 láminas"
+}

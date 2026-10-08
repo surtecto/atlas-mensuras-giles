@@ -26,6 +26,17 @@ def limpio(s):
     s = re.sub(r'~~(.*?)~~', '', s)
     return s.replace('**', '')
 
+def unir(lineas):
+    """une los renglones; las palabras cortadas al final del renglón («ñan-» / «dubay», «Mor-» / «=gan») se rearman para poder buscarlas"""
+    out = ''
+    for l in lineas:
+        l = limpio(l).strip()
+        if out.endswith('-') and l[:1] not in ('', '[') and not out.endswith(' -'):
+            out = out[:-1] + l.lstrip('=')
+        else:
+            out += (' ' if out else '') + l
+    return out
+
 def carga(p, defecto):
     try:
         with open(p, encoding='utf8') as f: return json.load(f)
@@ -53,19 +64,21 @@ for p in sorted(glob.glob(os.path.join(A, 'fichas', '*.json'))):
     R, M = d.get('resumen', {}), d.get('metricas', {})
     fol = d.get('folios', [])
     filas[n] = {**filas.get(n, {}), 'n': n,
-        'prop': R.get('Propietario / solicitante', ''), 'ag': R.get('Agrimensor', ''), 'y': str(R.get('Año', '')),
+        'prop': d.get('titulo') or R.get('Propietario / solicitante', ''), 'ag': R.get('Agrimensor', ''), 'y': str(R.get('Año', '')),
         'fecha': R.get('Fecha de la diligencia', ''), 'ubic': R.get('Ubicación', ''),
         'sup': M.get('superficie_ha', ''), 'agua': M.get('aguas', ''), 'hitos': M.get('hitos', ''),
         'lind': R.get('Linderos citados', ''), 'sint': d.get('sintesis', ''), 'ref': R.get('Referencia de archivo', ''),
         'estado': d.get('estado', ''), 'full': True, 'folios': len(fol), 'planos': len(d.get('planos', [])),
-        'renglones': sum(len(f.get('lineas', [])) for f in fol), 'docx_nombre': d.get('archivo', '')}
+        'renglones': sum(len(f.get('lineas', [])) for f in fol), 'docx_nombre': d.get('archivo', ''),
+        'fotos': len(glob.glob(os.path.join(ROOT, 'img', 'f', '%03d' % n, '*.jpg'))),
+        'pdf': os.path.exists(os.path.join(ROOT, 'descargas', 'fichas', 'Ficha_%03d.pdf' % n))}
     for b in d.get('biografias', []):
         personas.append(dict(nombre=b.get('nombre', ''), rol=b.get('rol', ''), texto=b.get('texto', ''),
                              fuentes=b.get('fuentes', ''), n=n))
     piezas = [dict(n=n, k='sint', t='Síntesis', x=d.get('sintesis', ''))]
     for i, f in enumerate(fol):
         piezas.append(dict(n=n, k='f%d' % i, t=f.get('titulo', ''),
-                           x=limpio(' '.join(f.get('lineas', []))) + ' ¶ ' + f.get('interpretacion', '')))
+                           x=unir(f.get('lineas', [])) + ' ¶ ' + f.get('interpretacion', '')))
     for i, pl in enumerate(d.get('planos', [])):
         piezas.append(dict(n=n, k='p%d' % i, t=pl.get('titulo', ''), x=pl.get('interpretacion', '') + ' ' +
                            ' '.join(a + ': ' + b for a, b in pl.get('referencias', []))))

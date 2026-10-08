@@ -1,0 +1,671 @@
+{
+ "carpeta": "37",
+ "carpeta_nombre": "Carpeta 37",
+ "archivo": "Ficha 037 - Carmen Monsalvo de Acuña (1866).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles",
+  "N.º de duplicado": "37 (portadilla: «Sección Areco N.º 186»)",
+  "Propietario / solicitante": "D.ª Carmen Monsalvo de Acuña",
+  "Agrimensor": "Teodoro Fremiot",
+  "Año": "1866",
+  "Fecha de la diligencia": "20/3/1866; presentada al D. T. el 7/4/1866",
+  "Ubicación": "Naciente del arroyo de Giles y arroyo de Frías, hasta la línea de Vivar",
+  "Orden judicial": "Despacho del Superior Gobierno (5/1/1866): sobrante solicitado en compra",
+  "Vendedor / antecesor": "Concepción de Gaete → Ceferino Acuña (1836); G. Aguirre → Pascuala Romero (1838)",
+  "Linderos citados": "P. Kelly · Bernal y Monsalvo · her. de R. Bustos · C. Butterfield · F. Lescano · Frías · Achával · J. Agüero",
+  "Medidas": "F. Monsalvo 2843,52 ha (sobr. 124,28); C. M. de Acuña 2011,57 ha (sobr. 347,37)",
+  "Rumbos": "Verdaderos: N 9° 52′ E · S 46° 09′ E · N 30° 41′ O · S 58° 28′ O; variación 11° 39′ E",
+  "Referencia de archivo": "Duplicado 37; antes «Sección Areco N.º 186»"
+ },
+ "metricas": {
+  "superficie_ha": "2011,57 + 2843,52",
+  "hitos": "Mojones de hierro y de palo de Eguía (1838); «pozo» del mojón perdido; casa de Butterfield; Estancia principal; casa y quinta de los Acuña",
+  "aguas": "Naciente («zanjita») y cañada del arroyo de Giles; arroyo de Frías"
+ },
+ "sintesis": "Carmen Monsalvo de Acuña pide en compra un sobrante fiscal; Teodoro Fremiot (20/3/1866) mide entero su campo —comprado por Ceferino Acuña a Concepción de Gaete en 1836— y el de su hermano Fernando Monsalvo, el que Guillermo Aguirre traspasó a Pascuala Romero y Eguía midió en 1838 (Fichas 003 y 011). Resultan dos excedentes: 124,28 ha en el de Fernando y 347,37 ha en el de Carmen, que cede al hermano su derecho sobre el primero. La diligencia narra la búsqueda del mojón perdido en la naciente del arroyo de Giles —un «pozo cavado con pala» reconocido por vecinos antiguos contra el interés de Butterfield—, descarta los «palos» de un abogado de Mercedes y sanea los 251 m de José Agüero, poseedor sin títulos. Variación 11° 39′ E. Falta la toma del cierre del informe del D. T.",
+ "caratula": {
+  "img": "img/f/037/01.jpg",
+  "fuente": "IMG_7104.JPG",
+  "campos": [
+   [
+    "N.º",
+    "37"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Carmen Monsalvo de Acuña"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Teodoro Fremiot"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1866"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Extracto de títulos: la denuncia; título de Carmen Monsalvo de Acuña (Gaete, 1836)",
+   "img": "img/f/037/06.jpg",
+   "fuente": "IMG_7106.JPG",
+   "nota": "Letra del propio Fremiot, con grafías francesas. Medidas de los títulos ya convertidas a metros.",
+   "lineas": [
+    "Estracto de titulos",
+    "Segun la denuncia hecha por la S^{ra} Carmen Monsalvo",
+    "de Acuña el Sobrante a que ella se refiere se",
+    "halla ~~terr~~ situado entre el campo de D^{n} Fernando",
+    "Monsalvo y el fondo del terreno de dicha S^{ra},",
+    "por el motivo que los frentes de las suertes de estancia",
+    "de Dionisio Martinez, de D^{a} Carmen de Acuña",
+    "de los herederos de Manuel Noriega, de F^{co} Les-",
+    "-cano, miran al Sur Este y los fondos al Nor Oeste",
+    "rematando todos à la linea prolongada de los mojones",
+    "de Diaz de Vivar, como consta de las escrituras que he",
+    "tenido a la vista. no aparece hoy como lindero el",
+    "terreno de D^{n} M^{l} Noriega; D^{n} P. Frias habiendo",
+    "comprado 866^{m}, que (aunque van marcados en el registro",
+    "grafico nunca han sido ubicados sobre el terreno)",
+    "los cuales 866^{m} son una fraccion de la testamentaria",
+    "de D^{n} M^{l} Noriega.",
+    "Titulos de D^{a} Carmen Monsalvo de Acuña",
+    "en el año 1836 D^{a} Concepcion de Gaete vendió a",
+    "D^{n} Seferino Acuña un terreno de estancia de su propie",
+    "-dad particular situado en el partido de Giles compuesto",
+    "de 2433,^{m}4 de frente por 6841,4 metros de fondo lin-",
+    "-dando por su frente que es al Sur con D^{n} Isidro Mo-",
+    "lina, hoy herederos de Pastor Frias, por el fondo con D^{n}",
+    "Guillermo Aguirre, hoy D^{n} Fernando Monsalvo, por",
+    "el Oeste con D^{n} M^{no} Noriega de cuyo terreno es parte ~~quando~~ los 866^{m} de frente que",
+    "compró Frias, y por el Este con D^{n} Dionisio Martinez,",
+    "cuyo terreno es parte del que en mayor porcion compró"
+   ],
+   "interpretacion": "Extracto de títulos. Según la denuncia de Carmen Monsalvo de Acuña, el sobrante está entre el campo de Fernando Monsalvo y el fondo del suyo: las suertes de estancia de Dionisio Martínez, de Carmen de Acuña, de los herederos de Manuel Noriega y de Francisco Lescano tienen el frente al SE y el fondo al NO, «rematando todos a la línea prolongada de los mojones de Díaz de Vivar». Noriega ya no aparece como lindero: P. Frías compró 866 m (1000 v) de esa testamentaría, que «aunque van marcados en el registro gráfico nunca han sido ubicados sobre el terreno».\nTítulo: en 1836 Concepción de Gaete vendió a Ceferino Acuña un terreno de 2433,4 m de frente (2810 v) por 6841,4 m de fondo (7900 v): frente al S con Isidro Molina (hoy herederos de Pastor Frías), fondo con Guillermo Aguirre (hoy Fernando Monsalvo), O con Noriega, E con Dionisio Martínez, cuyo terreno es parte del que compró…"
+  },
+  {
+   "titulo": "Folio 1 v. · Título de Fernando Monsalvo (Aguirre → Pascuala Romero, Eguía 1838); comisión",
+   "img": "img/f/037/07.jpg",
+   "fuente": "IMG_7107.JPG",
+   "nota": "",
+   "lineas": [
+    "[D^{n}] F^{co} José Martinez en el año 1824 antes",
+    "el Juez de paz de S^{n} Antonio de Areco.",
+    "Titulos de Fernando Monsalvo.",
+    "D^{n} Guillermo Aguirre despues de haber denun",
+    "-ciado un terreno de estancia en el partido de Giles",
+    "que tenia poblado desde años atras, no pudo cumplir",
+    "con las condiciones impuestas p^{r} el Sup^{r} Gobierno",
+    "para la compra, hizo entonces un transpaso de sus",
+    "derechos en favor de D^{a} Pascuala Romero de Monsalvo",
+    "reservandose para pastoreo de los animales que tenia",
+    "una estension de 1100^{v} de frente por 3000 varas de",
+    "fondo en el mismo sitio donde el habia poblado;",
+    "en el año 1838 se facultó el agrimensor D^{n} Manuel",
+    "Eguia para sanear y dar cuenta al Superior Gobierno",
+    "de la area solicitada, que se halló ser una legua",
+    "cuadrada y once cuadras cuadradas mas incluso la",
+    "parte del terreno que quedaba en poder de D^{n}",
+    "Guillermo Aguirre.",
+    "Diligencia de Mensura",
+    "En el partido de Giles a veinte del mes",
+    "de Marzo p^{o} p^{do} del presente año 1866.",
+    "hallandome yo el agrimensor publico Teodoro",
+    "Fremiot comisionado, por despacho del Superior",
+    "Gobierno con fecha 5 de Enero del mismo año, para",
+    "medir un sobrante de propiedad publica sito en el",
+    "partido de Giles y solicitado en compra por D^{a}",
+    "Carmen Monsalvo de Acuña despues de haber avisado",
+    "al S^{r} Juez de paz del partido de mi comision"
+   ],
+   "interpretacion": "…Francisco José Martínez en 1824 ante el juez de paz de San Antonio de Areco.\nTítulo de Fernando Monsalvo: Guillermo Aguirre denunció un terreno que tenía poblado, no pudo cumplir las condiciones de la compra y traspasó sus derechos a Pascuala Romero de Monsalvo, reservándose para pastoreo 1100 × 3000 varas «en el mismo sitio donde él había poblado». En 1838 Manuel Eguía midió el área: una legua cuadrada y once cuadras cuadradas, incluida la reserva de Aguirre. Es exactamente la historia de las Fichas 011 (enfiteusis de Aguirre, 1826) y 003 (Pascuala Romero de Monsalvo, Eguía 1838).\nDiligencia: partido de Giles, 20 de marzo de 1866. Teodoro Fremiot, comisionado por despacho del Superior Gobierno del 5 de enero, para medir un sobrante de propiedad pública solicitado en compra por Carmen Monsalvo de Acuña; avisa al juez de paz…"
+  },
+  {
+   "titulo": "Folio 2 · Terreno de Monsalvo: línea A-B sobre los mojones de Eguía (1838); camino de Chivilcoy",
+   "img": "img/f/037/08.jpg",
+   "fuente": "IMG_7108.JPG",
+   "nota": "Foliatura «2».",
+   "lineas": [
+    "y pasado a todos los linderos la circular que acompaña",
+    "a estas diligencias di cumplimiento a mi comision del modo",
+    "siguiente. —        Terreno de Monsalvo.",
+    "pasé al mojon esquinero Este del antiguo terreno de",
+    "Echevarria hoy de Bernal y Monsalvo, y costanero",
+    "de D^{n} Fernando Monsalvo, mandé poner banderas",
+    "en los mojones puestos por Eguia en el año 1838 ~~me~~",
+    "~~averigüé que~~ en este deslinde, reconocí que variaba",
+    "poco de una linea recta, pasé en consecuencia al punto",
+    "A y tiré el rumbo de dicha linea que se halló ser",
+    "el del Norte nueve grados cincuenta y dos minutos Este",
+    "se midieron al referido rumbo seis mil nuevecientos veinte",
+    "y ocho metros hasta dar con la linea de los mojones de",
+    "Galeano. en esta linea a los seiscientos noventa y siete",
+    "metros noventa centimetros se encontraron, el mojon de",
+    "palo de Echevarria á cinco metros à la derecha, a",
+    "los dos mil seiscientos seis metros sesenta centimetros",
+    "el camino de Chivilcoy para la Ciudad, a los tres",
+    "mil siete cientos setenta y cinco metros setenta centimetros un",
+    "mojon de palo puesto por el agrimensor Eguia, quedaba",
+    "doce metros a la derecha. en esta linea encontré dos",
+    "palos mas metidos adentro el terreno de Monsalvo,",
+    "me dijeron que era un abogado de la villa Mercedes",
+    "que los habia mandado poner quando se hizo la",
+    "particion del ~~D^{n} Ramon~~ terreno de D^{n} Ramon",
+    "Bustos á sus herederos. situado en el mojon B mandé",
+    "poner banderas en los mojones esquineros de D^{n} Remijio",
+    "Acuña (Antes Guillermo Aguirre) y costaneros de Galeano,",
+    "como dice el agrimensor Eguia que tiró una linea recta,",
+    "traté de hacer lo mismo, se tiró el Rumbo del"
+   ],
+   "interpretacion": "…y pasa la circular a los linderos. Terreno de Monsalvo: desde el esquinero E del antiguo terreno de Echeverría (Ficha 015), hoy de Bernal y Monsalvo, pone banderas en los mojones de Eguía de 1838, comprueba que la línea «variaba poco de una recta» y la mide: N 9° 52′ E, 6928 m, hasta la línea de mojones de Galeano. A 697,9 m, el mojón de palo de Echeverría (5 m a la derecha); a 2606,6 m, «el camino de Chivilcoy para la Ciudad»; a 3775,7 m, un mojón de palo de Eguía (12 m a la derecha). Encuentra además dos palos metidos dentro del campo: «me dijeron que era un abogado de la villa Mercedes que los había mandado poner» al partirse el terreno de Ramón Bustos. En B pone banderas en los esquineros de Remigio Acuña (antes Guillermo Aguirre) y costaneros de Galeano…"
+  },
+  {
+   "titulo": "Folio 2 v. · Línea B-C; el mojón perdido en la naciente del arroyo de Giles",
+   "img": "img/f/037/09.jpg",
+   "fuente": "IMG_7109.JPG",
+   "nota": "Pasaje clave para el paisaje y el ritual: la disputa por el sitio del mojón.",
+   "lineas": [
+    "ultimo mojon de Remijio Acuña y se halló ser",
+    "el del Sur cuarenta y seis grados nueve minutos",
+    "Este se midieron al rumbo precitado seis mil",
+    "sietecientos dos metros ochenta centimetros. en",
+    "esta linea se encontraron; á los mil trescientos",
+    "cincuenta y siete metros ochenta centimetros un mojon",
+    "de palo puesto por el agrimensor Muñiz, a los",
+    "cuatro mil quince metros cincuenta centimetros el",
+    "1^{ro} mojon de Remijio Acuña que queda seis",
+    "metros á la derecha. llegado al punto C mandé",
+    "poner banderas en el mojon inmediato a la cañada",
+    "de Giles, y esquinero de Galeano, de D^{n} Felix",
+    "Lescano, y del terreno que se mide; me dijeron",
+    "que no habia mojones pasé yo mismo allá me",
+    "enseñaron sobre la loma un pozo muy chico,",
+    "donde me dijeron que debia ser el mojon; bajando",
+    "la loma, á la orilla misma de la zanjita que",
+    "da principio al arroyo de Giles encontré un",
+    "pozo grande y cavado con pala, donde varios",
+    "vecinos antiguos afirmaron que existia el mojon",
+    "~~conforme~~ comprobando los datos tomados en el",
+    "departamento topografico por mi, resolví entonces tomar",
+    "este sitio como el verdadero punto donde debia ser",
+    "el precitado mojon. situado en el punto C tiré",
+    "el rumbo y se halló ser el del Norte setenta",
+    "y siete grados quince minutos Este se midieron",
+    "a esta direccion dos mil doscientos setenta y siete",
+    "metros; la proximidad de la casa del S^{r} Butterfill",
+    "me hizo entender el empeño con que habia tratado",
+    "dicho Señor de llevarme á la loma como sitio"
+   ],
+   "interpretacion": "…y mide S 46° 09′ E, 6702,8 m; a 1357,8 m un mojón de palo de Muñiz (Ficha 034); a 4015,5 m el primer mojón de Remigio Acuña. En C busca el mojón inmediato a la «cañada de Giles», esquinero de Galeano, de Félix Lescano y del terreno medido: «me dijeron que no había mojones». Va él mismo: le enseñan «sobre la loma un pozo muy chico»; pero, bajando la loma, «a la orilla misma de la zanjita que da principio al arroyo de Giles», halla «un pozo grande y cavado con pala, donde varios vecinos antiguos afirmaron que existía el mojón», lo que coincide con los datos que tomó en el Departamento Topográfico. Adopta ese sitio. De C, N 77° 15′ E, 2277 m. Y anota: «la proximidad de la casa del Sr. Butterfill me hizo entender el empeño con que había tratado dicho Señor de llevarme a la loma»."
+  },
+  {
+   "titulo": "Folio 3 · Cierre del polígono de Monsalvo: Lescano, Agüero, Kelly; superficie",
+   "img": "img/f/037/10.jpg",
+   "fuente": "IMG_7110.JPG",
+   "nota": "Foliatura «3».",
+   "lineas": [
+    "del mojon buscado. situado en el punto D, prolongacion de",
+    "linea divisoria de Felix Lescano y Galeano, mandé",
+    "poner una bandera en el mojon esquinero Norte de",
+    "la S^{ra} Carmen de Monsalvo. se tiró el rumbo y se",
+    "halló ser el del Sur cuarenta grados treinta y siete",
+    "minutos Oeste y se midieron á esta direccion dos mil quinientos",
+    "noventa y ocho metros divisoria de D^{n} Felix Lescano",
+    "y del terreno que se mide, situado en el mojon esquinero",
+    "Nor. de D^{a} Carmen Monsalvo y Oest. de la testamentaria",
+    "de P. Frias, mandé poner bandera en el mojon esquinero",
+    "Oeste de D^{a} Carmen Monsalvo, teniendo en cuenta que era",
+    "preciso salvar los doscientos cincuenta y un metros de J^{e}",
+    "Agüero que lindan con el terreno de la testamentaria",
+    "de Martinez se tiró el rumbo que se halló ser el del",
+    "Sur cincuenta y siete grados cincuenta y nueve minutos Oeste",
+    "y se midieron a esta direccion dos mil nuevecientos veinte",
+    "y siete metros hasta el mojon esquinero de Martinez;",
+    "situado en este ultimo mojon mandé poner bandera en",
+    "el punto A se tiró el rumbo y se halló ser el del",
+    "Norte ochenta grados y un minuto Oeste encontrando",
+    "en esta linea divisoria tres palos que me dijo D^{n}",
+    "Patricio Kelly ser los limites de las varias hijuelas",
+    "que habia comprado el á los herederos de Martinez,",
+    "con esta ultima operacion se cerró la figura del",
+    "terreno que es un polygono irregular de seis lados",
+    "cuya area consta de veinte y ocho millones cuatro",
+    "-cientos treinta y cinco mil ciento ochenta metros cuadrados",
+    "el titulo de propiedad reza de una superficie de"
+   ],
+   "interpretacion": "De D (prolongación de la divisoria Lescano–Galeano), S 40° 37′ O, 2598 m, divisoria con Félix Lescano, hasta el esquinero N de Carmen Monsalvo y O de la testamentaría de P. Frías. De allí, «teniendo en cuenta que era preciso salvar los 251 m de José Agüero», S 57° 59′ O, 2927 m, hasta el esquinero de Martínez. De éste a A, N 80° 01′ O; sobre esa línea hay tres palos que, según Patricio Kelly, marcan las hijuelas que él compró a los herederos de Martínez. Figura: polígono irregular de seis lados, 28.435.180 m² (2843,5 ha); el título reza…"
+  },
+  {
+   "titulo": "Folio 3 v. · Sobrante de 124 ha; Carmen cede sus derechos a su hermano; linderos; variación",
+   "img": "img/f/037/11.jpg",
+   "fuente": "IMG_7111.JPG",
+   "nota": "",
+   "lineas": [
+    "de veinte y siete millones ciento noventa y dos mil",
+    "cuatrocientos veinte y tres metros cuadrados, queda",
+    "pues un sobrante de propiedad publica con",
+    "una superficie de ~~1 mill~~ un millon doscientos",
+    "cuarenta y dos mil sietecientos cincuenta y siete",
+    "metros cuadrados. este sobrante no ha sido ubicado",
+    "ni amojonado sobre el terreno, por el motivo que en el acto",
+    "de concluir la mensura, la S^{ra} Carmen Monsalvo",
+    "de Acuña manifestó que estaba dispuesta á hacer",
+    "un traspaso en favor de su hermano D^{n} Fernando",
+    "Monsalvo, de los derechos que tenia ella a",
+    "comprar al Gobierno el sobrante saneado en",
+    "la mensura que se acababa de praticar; bajo",
+    "las bases que van detalladas en el documento que",
+    "acompaña á estas diligencias.",
+    "el terreno de D^{n} Fernando Monsalvo",
+    "linda al Nor Oeste con el terreno de Patricio",
+    "Kelly, con el terreno de Bernal y Monsalvo por",
+    "la esquina, con el terreno de los herederos de D^{n}",
+    "Ramon Bustos, al Nor Este con D^{n} Carlos Butterfil,",
+    "al Sur Este con la Cañada Giles D^{n} Felix Lescano",
+    "h^{os} de D^{n} Pastor Frias, y D^{a} Carmen de Monsalvo; y al",
+    "Sur Oeste con D^{n} Patricio Kelly.",
+    "todos los rumbos indicados son con relacion",
+    "al meridiano terrestre y la variacion del teodolito",
+    "empleado constaba de once grados treinta y nueve",
+    "minutos Este.",
+    "— Asistieron a la mensura D^{n} Fernando"
+   ],
+   "interpretacion": "…27.192.423 m²: queda un sobrante fiscal de 1.242.757 m² (124,28 ha). No se ubica ni amojona porque, al concluir la mensura, Carmen Monsalvo de Acuña manifestó que traspasaría a su hermano Fernando Monsalvo sus derechos a comprarlo, según documento adjunto. Linderos de Fernando Monsalvo: NO Patricio Kelly, Bernal y Monsalvo (por la esquina) y herederos de Ramón Bustos; NE Carlos Butterfield; SE la Cañada de Giles, Félix Lescano, hijos de Pastor Frías y Carmen Monsalvo; SO Patricio Kelly. Rumbos referidos al meridiano; variación del teodolito 11° 39′ E. Asistieron Fernando Monsalvo…"
+  },
+  {
+   "titulo": "Folio 4 · Asistentes; nota sobre los «palos del abogado»; terreno de Carmen Monsalvo de Acuña",
+   "img": "img/f/037/12.jpg",
+   "fuente": "IMG_7112.JPG",
+   "nota": "Foliatura «4». Nombre dudoso: «Pastor [?] Frías» (¿un hijo homónimo?).",
+   "lineas": [
+    "Monsalvo, D^{n} Patricio Kelly, D^{n} Juan Bernal como",
+    "heredero de su S^{r} padre, D^{n} Pablo Bustos y D^{n} Cirillo",
+    "Ordoñez, D^{n} Carlos Butterfill, D^{n} Felix Lescano y",
+    "D^{n} F^{co} Rodriguez, los Señores Acuña en representacion",
+    "de su S^{ra} Madre D^{a} Carmen Monsalvo, D^{n} José Agüero,",
+    "D^{n} Remijio Acuña.",
+    "Nota D^{n} Cyrillo Ordoñez hijo politico del finado",
+    "D^{n} Ramon Bustos me preguntó si respetaba yo los palos",
+    "puestos por un tal abogado de la villa Mercedes, cuando",
+    "se hizo ~~el~~ la reparticion del terreno del finado D^{n} Ramon",
+    "Bustos, se le contestó que no, por no haber sido puestos",
+    "por un agrimensor y extrajudicialmente.",
+    "D^{n} Pastor [?] Frias a quien se pasó la circular de",
+    "linderos, y á quien ademas de eso habia [es]crito una",
+    "carta, ya, contestó por otra carta que va pegada",
+    "á la citacion de linderos",
+    "Terreno de la S^{ra} Carmen Monsalvo de Acuña.",
+    "Pasé al mojon esquinero de la testamentaria de Frias",
+    "Oeste de Achaval y Este del terreno que se mide,",
+    "es un mojon de hierro puesto por el agrimensor Eguia",
+    "quando midió el terreno de Frias. puesta una bandera",
+    "en el mojon de palo esquinero Norte del terreno que",
+    "se mide se tiró el rumbo de la dicha bandera y se",
+    "halló ser el del Norte treinta grados cuarenta y un",
+    "minutos Oeste se midieron a esta direccion siete mil",
+    "seis cientos cuarenta y cuatro metros hasta dar con la",
+    "bandera poniendo mojones de hierro a cada cuarto de",
+    "legua, salieron pues en esta linea ochocientos dos metros",
+    "sesenta centimetros mas de lo que reza el titulo de propiedad,",
+    "siendo el fondo de este terreno de seis mil ochocientos —"
+   ],
+   "interpretacion": "…Patricio Kelly, Juan Bernal (por su padre), Pablo Bustos y Cirilo Ordóñez, Carlos Butterfield, Félix Lescano y Francisco Rodríguez, los Acuña por su madre, José Agüero y Remigio Acuña. Nota: Cirilo Ordóñez, yerno del finado Ramón Bustos, pregunta si se respetan los palos del abogado de Mercedes: «se le contestó que no, por no haber sido puestos por un agrimensor y extrajudicialmente». Frías contestó la citación por carta, que va pegada.\nTerreno de Carmen Monsalvo de Acuña: desde el esquinero de la testamentaría de Frías, O de Achával y E del terreno —«mojón de hierro puesto por el agrimensor Eguía»—, N 30° 41′ O, 7644 m, con mojones de hierro cada cuarto de legua: salen 802,6 m más que el fondo del título (6841,4 m)."
+  },
+  {
+   "titulo": "Folio 4 v. · El fondo; José Agüero sin títulos y «el martillo en contra»",
+   "img": "img/f/037/13.jpg",
+   "fuente": "IMG_7113.JPG",
+   "nota": "Llamada al margen: «teniendo en cuenta los 251 m del terreno».",
+   "lineas": [
+    "cuarenta y uno metros cuarenta centimetros. situado",
+    "en el punto E y puesta la bandera en el punto",
+    "F recorrí otra vez esta linea al rumbo del Norte",
+    "cincuenta y siete grados cincuenta y nueve minutos Este",
+    "para poner el mojon del ~~la mitad~~ cuarto de legua",
+    "que es un palo, salieron pues en esta ~~dicha~~ linea",
+    "como lo dejo dicho, dos mil nuevecientos veinte y",
+    "siete metros dando un sobrante sobre el titulo, en",
+    "el frente del fondo del terreno que se mide, de ~~cuatrocientos~~ dos cientos",
+    "cuarenta y dos metros sesenta centimetros, [al margen: + teniendo en cuenta los 251^{m} del terreno] incluso el terreno de Agüero; en vista de",
+    "~~este~~ sobrante en el ancho del terreno pedí al S^{r}",
+    "D^{n} J^{e} Agüero que me manifestase sus titulos",
+    "de propiedad, para saber donde era preciso ubicar",
+    "su terreno, me contestó que no los tenia, y que siempre",
+    "habia sabido tener su terreno junto a el de",
+    "Martinez, y que eso constaba en un documento",
+    "que le habia hecho el finado D^{n} Seferino Acuña",
+    "marido de la S^{ra} Carmen de Acuña, y que mediendo",
+    "sus docientos cincuenta y uno metros de los mojones",
+    "de Martinez, que consideraba tambien como suyos,",
+    "quedaria conforme a pesar del martillo que tenia",
+    "en contra, en el frente del terreno, por tanto",
+    "y para no levantar difficultades, del punto F vol",
+    "-viendo por atras medí los dos cientos cincuenta y uno",
+    "metros al rumbo ya mencionado y dejé una señal,",
+    "fuí en seguida al punto de arranque G para",
+    "medir el frente de este terreno, se pusieron banderas",
+    "en los mojones de hierro puestos por el agrimensor Eguia en",
+    "la mensura de Frias, se tiró el rumbo que se halló ser",
+    "el del Sur cincuenta y ocho grados veinte y ocho minutos"
+   ],
+   "interpretacion": "En el fondo (E-F, N 57° 59′ E, 2927 m) sobran 242,6 m sobre el título, contados los 251 m de Agüero. Fremiot pide a José Agüero sus títulos para ubicarlo: «me contestó que no los tenía, y que siempre había sabido tener su terreno junto al de Martínez», y que eso constaba en un documento que le hizo el finado Ceferino Acuña; que midiendo sus 251 m desde los mojones de Martínez «quedaría conforme a pesar del martillo que tenía en contra». «Para no levantar dificultades», mide los 251 m desde F y deja una señal. Pasa al arranque G y mide el frente sobre los mojones de hierro de Eguía (mensura de Frías): S 58° 28′…"
+  },
+  {
+   "titulo": "Folio 5 · Frente y divisoria con Agüero; quinta de Lucas Acuña; arroyo de Frías",
+   "img": "img/f/037/14.jpg",
+   "fuente": "IMG_7114.JPG",
+   "nota": "Foliatura «5». Letra de referencia dudosa en el renglón 2 («F G [?]»).",
+   "lineas": [
+    "Oeste se midieron a esta direccion dos mil sietecientos —",
+    "noventa y siete metros hasta cruzar la linea F G [?]",
+    "volviendo por atras medí los docientos cincuenta y uno metros",
+    "del frente del terreno de Agüero pasando mas alla del",
+    "mojon de la media legua, puesto por Eguia, de cincuenta",
+    "y dos metros. en este mismo sitio se puso un mojon de",
+    "hierro esquinero Sur del terreno que se mide y Este",
+    "de D^{n} José Agüero. traté en seguida de ~~ligar~~ tirar",
+    "la linea divisoria de la S^{ra} Carmen de Acuña y de",
+    "Agüero ligando este ultimo mojon que acababa de",
+    "poner, por una linea recta con la señal hecha en el deslinde E. F",
+    "en el punto J se tiró el rumbo de dicha linea",
+    "divisoria y se halló ser el del Norte treinta y dos grados",
+    "tres minutos Oeste, y se midieron á esta direccion",
+    "siete mil seiscientos diez y siete metros hasta dar con",
+    "la señal J habiendo ~~dejado~~ puesto mojones a cada",
+    "cuarto de legua y a los seis mil ochocientos cua",
+    "renta y uno metros cuarenta centimetros remate del",
+    "fondo del terreno del S^{r} Agüero lo que da un",
+    "sobrante de sietecientos setenta y cinco metros ochenta",
+    "centimetros en el largo del deslinde Sur Oeste del",
+    "terreno que se mide ~~en esta linea~~ a los tres mil",
+    "trescientos catorce metros la linea entra en la quinta",
+    "del finado D^{n} Lucas Acuña y sigue atravesando la",
+    "quinta hasta los tres mil cuatrocientos sesenta y uno metros",
+    "a los seis mil trescientos cuarenta y siete metros cruza",
+    "el arroyo de Frias; situado en el punto F, se puso una",
+    "bandera en el mojon costanero de Agüero y del terreno",
+    "de Martinez puesto por el agrimensor Saubidet"
+   ],
+   "interpretacion": "…O, 2797 m; retrocede los 251 m de Agüero —52 m más allá del mojón de la media legua de Eguía— y pone un mojón de hierro, esquinero S del terreno y E de Agüero. Divisoria Acuña–Agüero: N 32° 03′ O, 7617 m, con mojones cada cuarto de legua y a los 6841,4 m (remate del fondo de Agüero): sobran 775,8 m. A los 3314 m la línea «entra en la quinta del finado D. Lucas Acuña» y la atraviesa hasta los 3461 m; a los 6347 m cruza «el arroyo de Frías». En F pone bandera en el mojón costanero de Agüero y Martínez, puesto por Saubidet…"
+  },
+  {
+   "titulo": "Folio 5 v. · Superficie de Acuña (2011,6 ha) y sobrante de 347,4 ha; linderos",
+   "img": "img/f/037/15.jpg",
+   "fuente": "IMG_7115.JPG",
+   "nota": "",
+   "lineas": [
+    "quando praticó la mensura de dicha testamentaria",
+    "se tiró el rumbo y se halló ser el del Sur",
+    "treinta y uno grados cincuenta minutos Este se",
+    "midieron a esta direccion los siete cientos setenta",
+    "y cinco metros ochenta centimetros que habian salido",
+    "de mas en el fondo del terreno de Agüero y se",
+    "puso un mojon de palo al remate de dicha",
+    "distancia siendo este el esquinero Oeste del ter",
+    "-reno de Agüero. Con esta ultima operacion quedó",
+    "~~pues~~ medido el terreno de la S^{ra} de Acuña y",
+    "saneada tambien la area que corresponde a D^{n}",
+    "J^{e} Agüero segun el lo habia pedido. La figura",
+    "del terreno que asi resulta forma un polygono",
+    "irregular de seis lados cuya area total consta de",
+    "veinte millones ciento quince mil sietecientos cuarenta",
+    "metros cuadrados mientras que los titulos de pro-",
+    "piedad no rezan mas que de una superficie de",
+    "diez y seis millones seiscientos cuarenta y dos mil",
+    "metros cuadrados, queda luego un sobrante de",
+    "propiedad publica cuya area consta de",
+    "tres millones cuatrocientos setenta y tres mil siete",
+    "-cientos cuarenta metros cuadrados incluso la lonja",
+    "que ha salido de sobra en el fondo del terreno",
+    "de Agüero.",
+    "Linda este terreno al Nor Este con D^{n} Felix",
+    "Lescano y herederos de Pastor Frias, al Sur Este",
+    "con Achaval y herederos de Pastor Frias, al Sur",
+    "Oeste D^{n} J^{e} Agüero y los menores de los cuales el",
+    "es tutor, y con D^{n} Patricio Kelly, al Nor Oeste"
+   ],
+   "interpretacion": "…al medir la testamentaría de Martínez; S 31° 50′ E, 775,8 m, y mojón de palo, esquinero O de Agüero. Quedan medidos el terreno de la Sra. de Acuña y «saneada» el área de Agüero. Polígono de seis lados de 20.115.740 m²; los títulos dan 16.642.000 m²: sobrante fiscal de 3.473.740 m² (347,37 ha), incluida la lonja del fondo de Agüero. Linderos: NE Félix Lescano y herederos de Pastor Frías; SE Achával y herederos de Frías; SO José Agüero y los menores de quienes es tutor, y Patricio Kelly; NO…"
+  },
+  {
+   "titulo": "Folio 6 · Cierre; presentación (7/4/1866); informe del Departamento Topográfico",
+   "img": "img/f/037/16.jpg",
+   "fuente": "IMG_7116.JPG",
+   "nota": "Foliatura «6». El informe continúa en el vuelto, del que NO hay toma.",
+   "lineas": [
+    "con D^{n} Fernando Monsalvo.",
+    "ademas de todas las personas que asistieron",
+    "a la mensura y que van marcadas mas arriba",
+    "se apersonó D^{n} Francisco Raynoso al mojon esquinero",
+    "de Achaval manifestandole que el era facultado",
+    "por el dicho Señor Achaval para representarle.",
+    "en esta ultima operacion no hubo contradiccion",
+    "ni oposicion alguna de parte de los interesados.",
+    "T. Fremiot",
+    "Presentada al Depart^{o} Topog^{co} hoy siete",
+    "de Abril de 866",
+    "[A.] Salas",
+    "Exmo Señor: —",
+    "El Departamento Topografico",
+    "ha examinado la presente",
+    "diligencia de mensura prac-",
+    "ticada por el Agrimensor Fre-",
+    "miot para D^{a} Carmen Mon-",
+    "salvo de Acuña y encontrando-",
+    "la bien ejecutada no ve incon-",
+    "veniente en que sea aprobada",
+    "por V.E. Resulta por dicha diligen-",
+    "cia que Doña Carmen Monsal-",
+    "vo de Acuña tiene que comprar",
+    "tres cientas cuarenta y siete hec-",
+    "tareas, tres mil setecientos cua-",
+    "renta metros cuadrados, y //"
+   ],
+   "interpretacion": "…Fernando Monsalvo. Se presentó además Francisco Reynoso en el mojón de Achával, como su representante. «No hubo contradicción ni oposición alguna». Firma T. Fremiot. Presentada al Departamento Topográfico el 7 de abril de 1866 (Salas).\nInforme al gobernador («Exmo. Señor»): mensura bien ejecutada, puede aprobarse; resulta que Carmen Monsalvo de Acuña tiene que comprar 347 ha 3740 m², y… (el texto sigue en el folio 6 vuelto, no fotografiado: allí estarían el sobrante de Fernando Monsalvo, la fecha y las firmas)."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de los terrenos de Fernando Monsalvo y Carmen Monsalvo de Acuña",
+   "img": "img/f/037/03.jpg",
+   "fuente": "IMG_7117.JPG",
+   "orientacion": "Pliego a tinta, enmarcado; flecha de norte con la variación «11° 39′»; «Escala de metros» (0-6000) al costado.",
+   "interpretacion": "Dos polígonos unidos por la línea E-F. Al O, el de «Fernando Monsalvo» (A-B-C-D-E-F), con sus tres cifras rotuladas —«Sup = 28435180», «Título = 27192423», «Sobrante = 1242757 m²»— y la «Estancia principal» dibujada cerca de la línea F-A. Dentro, en trazos, la fracción de «Remijio Acuña» (la reserva de Guillermo Aguirre de 1826-38). En D, la «cañada de Giles» dibujada como bañado y la «casa de Butterfill» pegada al vértice discutido. Al E, el rectángulo largo de «Carmen Monsalvo de Acuña» («Sup = 20115740», «Sob.e 3473740»), con el «arroyo de Frías» en dos brazos, la «casa de los Acuña» con su quinta sobre la divisoria y, paralela, la faja de «José Agüero y Menores» con su lonja de 775,8 m. Linderos rotulados en versalitas: «Hered.os de Ramón Bustos», «Bernal y Monsalvo» (triángulo en A), «Testam.ría de Galeano, hoy de Carlos Butterfil», «Félix Lescano», «Hered.os de P. Frías», «Achával», «Testam.ría de Martínez, hoy Patricio Kelly».",
+   "referencias": [
+    [
+     "A",
+     "«Punto de arranque»: esquinero E del antiguo terreno de Echeverría (hoy Bernal y Monsalvo); palo"
+    ],
+    [
+     "A-B",
+     "N 9° 52′ E, 6928 m (mojones de Eguía, 1838); herederos de Ramón Bustos"
+    ],
+    [
+     "B-C",
+     "S 46° 09′ E, 6702,8 m; testamentaría de Galeano, hoy Carlos Butterfield; palos"
+    ],
+    [
+     "C-D",
+     "N 77° 15′ E, 2277 m; D junto a la cañada de Giles y la casa de Butterfield"
+    ],
+    [
+     "D-E",
+     "S 40° 37′ O, 2598 m; Félix Lescano"
+    ],
+    [
+     "E-F",
+     "S 57° 59′ O, 2927 m (fondo de Acuña y de Agüero)"
+    ],
+    [
+     "F-A",
+     "N 80° 01′ O (cota ≈ 4121,9 m [?]); testamentaría de Martínez, hoy Patricio Kelly"
+    ],
+    [
+     "E-G",
+     "N 30° 41′ O, 7644 m; herederos de P. Frías"
+    ],
+    [
+     "G",
+     "«Mojón de hierro, arranque» (Eguía); Achával"
+    ],
+    [
+     "G-H",
+     "Frente, S 58° 28′ O (2546 m hasta el esquinero nuevo; 2797 con Agüero)"
+    ],
+    [
+     "J",
+     "Señal en el fondo; divisoria Acuña–Agüero N 32° 03′ O, 7617 m"
+    ],
+    [
+     "Agüero",
+     "Faja de 251 m; lonja de fondo 775,8 m (S 31° 50′ E); mojón de hierro y palo"
+    ],
+    [
+     "Aguas",
+     "Cañada de Giles (bañado); arroyo de Frías, con flechas de corriente"
+    ],
+    [
+     "Poblaciones",
+     "Estancia principal de Monsalvo · casa de Butterfield · casa de los Acuña (quinta)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle O: Fernando Monsalvo, Remigio Acuña y la cañada de Giles",
+   "img": "img/f/037/04.jpg",
+   "fuente": "IMG_7118.JPG",
+   "orientacion": "Toma parcial del mismo pliego.",
+   "interpretacion": "Se leen las tres superficies, la «Estancia principal», la fracción de «Remijio Acuña» en línea de trazos, las visuales desde F a dos puntos dibujados con sombreado dentro de esa fracción, la «casa de Butterfill» y el bañado de la «cañada de Giles» junto al vértice D.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle E: Carmen Monsalvo de Acuña, Agüero y el arroyo de Frías",
+   "img": "img/f/037/05.jpg",
+   "fuente": "IMG_7119.JPG",
+   "orientacion": "Toma parcial del mismo pliego.",
+   "interpretacion": "El mojón de hierro G («Arranque»), el «arroyo de Frías» que nace junto a él, la «casa de los Acuña» con un cuadro de quinta, la faja «José Agüero y Menores» y la flecha de norte.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Dos sobrantes en una sola denuncia; el gesto entre hermanos",
+   "texto": "Carmen Monsalvo de Acuña denuncia un sobrante «entre» su campo y el de su hermano Fernando; Fremiot mide los dos campos enteros y halla dos excedentes: 124,28 ha dentro del de Fernando y 347,37 ha en el de ella (casi todo en el fondo: 802 m de más sobre 6841). En el terreno, Carmen cede a Fernando su derecho a comprar el primero. Es el tipo (a) del ciclo de las sobras de 1864-66 (Fichas 033-036): la familia denuncia su propio exceso para blindarlo. Los dos campos son la herencia de Pascuala Romero de Monsalvo (Ficha 003) y de Ceferino Acuña."
+  },
+  {
+   "titulo": "El mojón que no estaba: saber vecinal contra interés",
+   "texto": "En la naciente del arroyo de Giles no hay mojón. Butterfield, el lindero, lleva al agrimensor a «un pozo muy chico» sobre la loma; Fremiot baja y encuentra, «a la orilla misma de la zanjita que da principio al arroyo de Giles», «un pozo grande y cavado con pala» que «varios vecinos antiguos» reconocen. Decide por tres pruebas concurrentes —huella material, testimonio y archivo— y deja escrito el motivo del engaño: la casa de Butterfield quedaba demasiado cerca de la línea. La misma naciente era en 1826 «la punta de una especie de zanjón» (Ficha 011)."
+  },
+  {
+   "titulo": "Mojones legítimos e ilegítimos",
+   "texto": "Los «palos» que un abogado de Mercedes mandó clavar al partir el campo de Ramón Bustos no valen: «por no haber sido puestos por un agrimensor y extrajudicialmente». En cambio valen los mojones de Eguía de 1838 (28 años en pie, de palo y de hierro), el de Muñiz (1865) y el de Saubidet. Kelly señala con tres palos sus hijuelas compradas. La autoridad del mojón depende de quién lo puso y con qué mandato."
+  },
+  {
+   "titulo": "Tenencia sin papeles: josé agüero",
+   "texto": "Agüero no tiene títulos: tiene un «documento» del finado Ceferino Acuña y la costumbre de estar «junto al de Martínez». Fremiot, «para no levantar dificultades», le sanea 251 m de frente aunque le quede «el martillo en contra». Es tutor de unos «menores» con los que comparte la faja. Compárese con Pedro Vélez y el «terreno baldío» de la Ficha 035."
+  },
+  {
+   "titulo": "Técnica y paisaje",
+   "texto": "Teodolito, rumbos al meridiano, variación 11° 39′ E (tercer valor de Fremiot en cinco meses: 11° 25′, 11° 50′, 11° 39′). Todo en metros; el «cuarto de legua» y la «media legua» siguen ordenando el amojonamiento (mojones de hierro). Paisaje: loma y «zanjita» de la naciente; cañada de Giles dibujada como bañado; «arroyo de Frías» (hidrónimo-apellido nuevo); «camino de Chivilcoy para la Ciudad»; quinta del finado Lucas Acuña atravesada por la línea a lo largo de 147 m; «Estancia principal» de Monsalvo."
+  },
+  {
+   "titulo": "Cruces y preguntas abiertas",
+   "texto": "Fichas 003 y 011 (origen del campo de Monsalvo), 015 (Echeverría, hoy Bernal y Monsalvo), 034 (mojón de Muñiz; Galeano; Ordóñez; Butterfield, que en 1865 tenía población en tierra fiscal y aquí ya es dueño de la testamentaría Galeano), 028 y 039 (Noriega, Lescano, Achával, línea de Vivar), 035-036 (línea de mojones de Díaz de Vivar). Falta la toma del f. 6 vuelto (cierre del informe del D. T.). ¿Dónde está el duplicado de la mensura de Frías por Eguía y el de la testamentaría de Martínez por Saubidet? «Pastor [?] Frías» vivo en 1866, ¿hijo homónimo?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Carmen Monsalvo de Acuña",
+   "rol": "Solicitante",
+   "texto": "Hija de Pascuala Romero de Monsalvo (Ficha 003) y hermana de Fernando Monsalvo; viuda de Ceferino Acuña, que compró el campo en 1836. En 1866 la representan «los Señores Acuña», sus hijos. Sin datos biográficos externos en la búsqueda breve.",
+   "fuentes": "Ficha 003; esta mensura."
+  },
+  {
+   "nombre": "Fernando Monsalvo",
+   "rol": "Hermano y lindero; dueño del campo mayor",
+   "texto": "Heredero del campo que Pascuala Romero de Monsalvo obtuvo por traspaso de Guillermo Aguirre y que Eguía midió en 1838 (una legua cuadrada y once cuadras). Tiene «Estancia principal». Recibe de su hermana el derecho al sobrante de 124 ha.",
+   "fuentes": "Fichas 003, 011, 015."
+  },
+  {
+   "nombre": "Teodoro Fremiot",
+   "rol": "Agrimensor",
+   "texto": "Tercera mensura suya en el corpus (Fichas 033 y 035, octubre de 1865). Grafías francesas («polygono», «praticar», «difficultades», «uno metro»). Prosa más narrativa que la de sus colegas: registra dichos, sospechas y motivos. Sin datos biográficos en la búsqueda web.",
+   "fuentes": "Fichas 033, 035; búsqueda web sin resultados."
+  },
+  {
+   "nombre": "Carlos Butterfield («Butterfill»)",
+   "rol": "Lindero ne",
+   "texto": "De la familia británica presente en la zona desde los años 1840 (Fichas 002, 020, 033). En 1865 Jorge y Carlos Butterfield tenían poblaciones dentro del sobrante fiscal de Galeano (Ficha 034); en 1866 Carlos figura como dueño de la «testamentaría de Galeano» lindera. Intenta desplazar el mojón de la naciente del arroyo de Giles.",
+   "fuentes": "Fichas 002, 020, 033, 034; villa_irlanda.md."
+  },
+  {
+   "nombre": "Patricio Kelly",
+   "rol": "Lindero so y no",
+   "texto": "Comprador de varias hijuelas de la testamentaría de Martínez, que marca con palos. Apellido irlandés; se suma a la serie Morgan, Mooney, Wheeler, O'Brien, Kenny. La búsqueda web no devolvió datos de este Kelly.",
+   "fuentes": "Búsqueda web sin resultados; villa_irlanda.md."
+  },
+  {
+   "nombre": "José Agüero",
+   "rol": "Ocupante saneado",
+   "texto": "Poseedor sin títulos de 251 m de frente entre Acuña y Martínez, por documento privado de Ceferino Acuña; tutor de unos menores.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Guillermo Aguirre · Remigio Acuña · Pascuala Romero · Manuel Eguía",
+   "rol": "Antecesores",
+   "texto": "Aguirre: enfiteuta de 1826 (Ficha 011), que traspasó a Pascuala Romero y se reservó 1100 × 3000 v; esa reserva es en 1866 de Remigio Acuña. Eguía midió en 1838 (Ficha 003) y amojonó también el campo de Frías con mojones de hierro.",
+   "fuentes": "Fichas 003, 011."
+  },
+  {
+   "nombre": "Otros linderos y asistentes",
+   "rol": "Vecinos",
+   "texto": "Herederos de Ramón Bustos (Pablo Bustos; Cirilo Ordóñez, yerno: el «Ordóñez» rebelde de la Ficha 034); Juan Bernal; Félix Lescano y Francisco Rodríguez; herederos de Pastor Frías; Achával (representado por Francisco Reynoso; ver Ficha 039); Concepción de Gaete, Isidro Molina, Dionisio y Francisco José Martínez (títulos); Lucas Acuña (†), dueño de la quinta.",
+   "fuentes": "Fichas 028, 034."
+  },
+  {
+   "nombre": "Departamento Topográfico",
+   "rol": "Autoridad",
+   "texto": "Presentación recibida por Salas el 7/4/1866; informe al gobernador (firmas en el folio no fotografiado).",
+   "fuentes": "Esta mensura."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/037/02.jpg",
+  "fuente": "IMG_7105.JPG",
+  "lineas": [
+   "Secc. ~~Areco~~ [encima:] en San Andres de Giles    Giles 37",
+   "N 186    Duplicado",
+   "S.^{a} Carmen Monsalvo de Acuña",
+   "sobre compra de un terreno",
+   "partido de Giles",
+   "año 1866",
+   "Teodoro Fremiot",
+   "agrimensor"
+  ]
+ },
+ "titulo": "D.ª Carmen Monsalvo de Acuña",
+ "estado": "Transcripta (11 hojas, 317 renglones), 3 láminas"
+}

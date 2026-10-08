@@ -1,0 +1,564 @@
+{
+ "carpeta": "25",
+ "carpeta_nombre": "Carpeta 25",
+ "archivo": "Ficha 025 - Guillermo Mooney (1858).docx",
+ "resumen": {
+  "Partido": "San Antonio de Areco (entre los fondos de Areco y de Giles)",
+  "N.º de duplicado": "25 (portadilla «Sección Areco N.º 104»)",
+  "Propietario / solicitante": "D. Guillermo Mooney",
+  "Agrimensor": "Manuel Eguía",
+  "Año": "1858",
+  "Fecha de la diligencia": "19/6/1858; D. T. ago. 1859 [?]; aprob. 7/9/1859",
+  "Ubicación": "Arroyo de Suero, entre fondos del río de Areco y de Giles",
+  "Orden judicial": "Juez 1.ª inst. Dr. Juan A. García (auto 2/5/1858)",
+  "Vendedor / antecesor": "Rafael y Pedro del Sar (1856), nietos de Francisco del Sar",
+  "Linderos citados": "De Dios · Puebla · Wheeler · Villalva · Del Sar · N. Torres · Morgan · Lima · González · Figueroa · Chapeaurouge · Lucero",
+  "Medidas": "26.347.226 v² (título 21.360.000; exceso 4.987.226)",
+  "Rumbos": "Corregidos, declinación 11° 30' NE",
+  "Referencia de archivo": "Duplicado 25; «Sección Areco N.º 104»; exp. R-1933"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 1976 (0,73 legua²)",
+  "hitos": "Mojón «el Cañón»; casa de Mooney; puestos La Patria, La Margarita, Sta. María, El Oriental, Mozo Vivo [?]",
+  "aguas": "Arroyo de Suero; arroyo de Bagué / cañada de «Bar [?]»; bañado"
+ },
+ "sintesis": "Mensura de Manuel Eguía (19/6/1858) del campo que el irlandés Guillermo (William) Mooney compró en 1856 a Rafael y Pedro del Sar, nietos de Francisco del Sar, entre los fondos del río de Areco y los del arroyo de Giles, sobre el arroyo de Suero. Se hizo junto con Differt, que medía a Wheeler, y lindando con Morgan: es el mismo bloque de las Fichas 020-022. Resultan 26.347.226 v² contra 21.360.000 del título; el exceso corresponde a los vendedores y Mooney ya lo trataba en compra. Rumbos corregidos con 11° 30' NE. El plano muestra la estancia «San Guillermo» y cinco puestos con nombre. Aprobada en 1859; notas de 1933 sobre una cesión Mooney–Morgan.",
+ "caratula": {
+  "img": "img/f/025/01.jpg",
+  "fuente": "IMG_6918.JPG",
+  "campos": [
+   [
+    "N.º",
+    "25"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Guillermo Moonney"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Manuel Eguia"
+   ],
+   [
+    "Mes",
+    "Junio"
+   ],
+   [
+    "Año",
+    "1858"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Extracto de títulos y comienzo de la diligencia",
+   "img": "img/f/025/04.jpg",
+   "fuente": "IMG_6920.JPG",
+   "nota": "Sello con foliatura «1». Letra caligráfica de copista. Al final del r. 6, «(ve[?]» al margen: quizá llamada «(ver…».",
+   "lineas": [
+    "Estracto de los Titulo[s]",
+    "de",
+    "D^{n} Guillermo Mooney",
+    "En veinte y cuatro de Septiembre de mil ochocientos",
+    "cincuenta y seis D^{n} Rafael y D^{n} Pedro del Sar (ve[?]",
+    "vendieron á D^{n} Guillermo Mooney un terreno de",
+    "estancia en el partido de San Antonio de Areco com-",
+    "puesto de dos fracciones: una de figura irregular",
+    "y la otra una tira adyasente, todo compuesto de",
+    "veinte y un millon trescientas sesenta mil varas",
+    "cuadradas y situado entre los fondos de las suertes",
+    "principales del Rio de Areco y los de las de Giles.",
+    "Les pertenece por compra á su abuelo D^{n} Fran-",
+    "cisco del Sar.",
+    "Diligencia de mensura.",
+    "En el partido de Areco á diez y nueve de Junio de",
+    "mil ochocientos cincuenta y ocho hallandome",
+    "yo el agrimensor publico Manuel Eguia, auto-",
+    "rizado judicialmente por auto de fecha dos",
+    "de Mayo del corriente del S^{or} Juez de Prime-",
+    "ra Instancia D^{or} D^{n} Juan A. Garcia para me-",
+    "dir los terrenos de D^{n} Guillermo Moo-",
+    "ney, previa la citacion de linderos que origi-",
+    "nal se acompaña á estas diligencias;"
+   ],
+   "interpretacion": "«Extracto de los títulos de D. Guillermo Mooney»: el 24/9/1856 Rafael y Pedro del Sar le venden un terreno de estancia en el partido de San Antonio de Areco, en dos fracciones (una irregular y una «tira adyacente»), de 21.360.000 varas cuadradas, «situado entre los fondos de las suertes principales del Río de Areco y los de las de Giles». Los vendedores lo tenían por compra a su abuelo, Francisco del Sar.\nDiligencia: en el partido de Areco, el 19/6/1858, el agrimensor público Manuel Eguía, autorizado por auto del 2 de mayo del juez de primera instancia Dr. Juan A. García, mide el terreno de Mooney previa citación de linderos (el original de la circular se acompañaba)."
+  },
+  {
+   "titulo": "Folio 1 v. · Arranque en el Cañón; visuales a la casa y a «La Margarita»",
+   "img": "img/f/025/05.jpg",
+   "fuente": "IMG_6921.JPG",
+   "nota": "«avalivé [?]»: verbo dudoso (¿«avalicé», «visé»?).",
+   "lineas": [
+    "y previa tambien la medicion del terreno",
+    "del finado D^{n} Vicente Marfil: que hoy perte-",
+    "nese á D^{n} Rosendo de Dios y D^{n} Pedro",
+    "Puebla, y que practicamos en union con el a-",
+    "grimensor D^{n} Teodoro Difert que se halla-",
+    "ba alli con objeto de medir el terreno de",
+    "D^{n} Patricio Wheeler: tomé por punto de",
+    "arranque el mojon denominado el Cañon",
+    "clavado sobre el deslinde Sud-Oeste del te-",
+    "rreno de D^{n} Rosendo de Dios que hubo por",
+    "herencia de su suegro Figueroa el que avalivé [?]",
+    "mirando al Sud cuarenta y dos grados trein-",
+    "ta minutos Oeste la casa de D^{n} Guiller-",
+    "mo Mooney y Norte sesenta y siete grados",
+    "veinte minutos Oeste el puesto del mismo",
+    "denominado la Margarita; desde este mojon",
+    "al Sud cuarenta y seis grados cincuenta y",
+    "ocho minutos Este, y dividiendo con el",
+    "mencionado D^{n} Rosendo, se midieron mil",
+    "cincuenta y cinco y media varas hasta el",
+    "mojon del angulo Norte del terreno que",
+    "fué del mencionado D^{n} Vicente Marfil",
+    "y hoy de D^{n} Pedro Pueblas y D^{n} Rosen-",
+    "do de Dios. Desde este mojon al Sud cua-",
+    "renta y tres grados dos minutos Oeste y",
+    "dividiendo con los mismos Rosendo"
+   ],
+   "interpretacion": "Eguía mide antes, junto con el agrimensor Teodoro Differt (que estaba allí para medir a Patricio Wheeler, Ficha 022), el terreno del finado Vicente Marfil, hoy de Rosendo de Dios y Pedro Puebla. Arranca del mojón «el Cañón», clavado en el deslinde SO del terreno de Rosendo de Dios, que éste heredó de su suegro Figueroa. Desde allí ve la casa de Mooney (S 42° 30' O) y su puesto «la Margarita» (N 67° 20' O).\nPrimer lado: S 46° 58' E, 1055,5 v con Rosendo de Dios hasta el ángulo N del ex Marfil (Puebla y De Dios); luego S 43° 02' O con los mismos."
+  },
+  {
+   "titulo": "Folio 2 · Con Wheeler, Villalva, Del Sar y Torres; el arroyo de Suero",
+   "img": "img/f/025/06.jpg",
+   "fuente": "IMG_6922.JPG",
+   "nota": "Sello con foliatura «2». «rumbo [?]» en el r. 3: palabra abreviada ilegible.",
+   "lineas": [
+    "y Pueblas se midieron mil varas hasta el mo-",
+    "jon del angulo Oeste de los mismos; desde",
+    "este mojon rumbo [?] al Sud cuarenta y seis gra-",
+    "dos cincuenta y ocho minutos Este, y divi-",
+    "diendo con los mismos se midieron qui-",
+    "nientas veinte y dos y media varas hasta",
+    "el mojon del angulo Norte del terre[no]",
+    "de D^{n} Patricio Wheeler colocado recien-",
+    "temente por el agrimensor D^{n} Teodo-",
+    "ro Difert. Desde este mojon y dividiendo",
+    "con el mencionado Wheeler, herederos de",
+    "Villalva, D^{n} Francisco del Sar y D^{n} Na-",
+    "tal Torres se midieron tres mil trescien-",
+    "tas sesenta y ocho varas hasta la inter-",
+    "seccion de esta linea con la del costado Nor-",
+    "Este de D^{n} Eduardo Morgan donde se",
+    "colocó el mojon que marca el angulo Sud",
+    "del terreno de Mooney: sobre esta linea á",
+    "las mil varas se cruzó el arroyo de Suero,",
+    "á las dos mil quinientas se halló el mo-",
+    "jon del angulo Oeste del lindero Whee-",
+    "ler, y á las dos mil ochocientas setenta se en-",
+    "frentó con la poblacion de D^{a} Ines Vi-",
+    "llalva que queda como doscientas trein-",
+    "ta varas á la derecha dentro del terreno",
+    "de Mooney. Desde el mencionado mo-",
+    "jon del angulo Sud de Mooney divi-",
+    "diendo con D^{n} Natal Torres y D^{n}"
+   ],
+   "interpretacion": "1000 v hasta el ángulo O de De Dios y Puebla; S 46° 58' E, 522,5 v hasta el ángulo N de Patricio Wheeler, mojón «colocado recientemente» por Differt. Desde allí, lindando con Wheeler, los herederos de Villalva, Francisco del Sar y Natal Torres, 3368 v hasta el costado NE de Eduardo Morgan (Ficha 020), donde pone el mojón del ángulo S de Mooney. En esa línea: a 1000 v cruza el arroyo de Suero; a 2500 v el ángulo O de Wheeler; a 2870 v queda, 230 v adentro del campo de Mooney, la población de D.ª Inés Villalva."
+  },
+  {
+   "titulo": "Folio 2 v. · Costado de Morgan y costado de Lima–Lavallén",
+   "img": "img/f/025/07.jpg",
+   "fuente": "IMG_6923.JPG",
+   "nota": "",
+   "lineas": [
+    "Eduardo Morgan al Norte cuarenta y",
+    "seis grados cincuenta minutos Oeste se mi-",
+    "dieron seis mil seiscientas treinta y cuatro",
+    "varas hasta el mojon del angulo Norte del",
+    "mencionado Morgan clavado sobre el des-",
+    "linde Sud-Este de otro terreno de D^{n}",
+    "Francisco del Sar: sobre esta linea á las",
+    "setecientas setenta y seis varas se cruzó",
+    "el arroyo de Suero y se halló el mo-",
+    "jon del angul[o] Este del lindero Morgan",
+    "y á las tres mil seiscientas sesenta y cuatro",
+    "se halló un mojon intermediario de es-",
+    "ta linea. Desde el mencionado mojon del",
+    "angulo Norte de Morgan y dividiendo con",
+    "los linderos D^{n} Francisco del Sar, D^{n}",
+    "Tiburcio Lima, D^{n} Juan Victor Gon-",
+    "zalez, D^{n} Pascual Figueroa y D^{n} Ti-",
+    "burcio Lima al Norte cincuenta y o-",
+    "cho grados treinta minutos Este se mi-",
+    "dieron dos mil trescientas sesenta y seis",
+    "varas hasta el mojon del angulo Este",
+    "de uno de los terrenos de D^{n} Tiburcio",
+    "Lima que antes pertenecio á D^{n} José",
+    "Lavallen. Desde este mojon al Norte",
+    "treinta y un grados treinta minu-",
+    "tos Oeste dividiendo con el menciona-"
+   ],
+   "interpretacion": "Costado SO, con Eduardo Morgan: N 46° 50' O, 6634 v hasta el ángulo N de Morgan, clavado en el deslinde SE de otro terreno de Francisco del Sar; cruza otra vez el arroyo de Suero (776 v), halla el ángulo E de Morgan y un mojón intermedio (3664 v).\nCostado NO: N 58° 30' E, 2366 v lindando con Del Sar, Tiburcio Lima, Juan Víctor González, Pascual Figueroa y Tiburcio Lima, hasta el ángulo E de un terreno de Lima «que antes perteneció a D. José Lavallén» (el clan Laballén de las Fichas 013, 019 y 024). Luego N 31° 30' O con Lima."
+  },
+  {
+   "titulo": "Folio 3 · Lima, Chapeaurouge, Lucero; sobras de Figueroa",
+   "img": "img/f/025/08.jpg",
+   "fuente": "IMG_6924.JPG",
+   "nota": "Sello con foliatura «3».",
+   "lineas": [
+    "do Lima se midieron trescientas cincu-",
+    "enta y tres varas dividiendo con el men-",
+    "cionado Lima hasta el mojon del angulo",
+    "Sud del terreno de D^{n} Luis Chapeaurrou-",
+    "ge; desde el cual dividiendo con el mismo",
+    "Chapeaurrouge, Luciano Lucero, Tiburcio",
+    "Lima y Luciano Lucero, se midieron mil",
+    "trescientas setenta y dos varas hasta el",
+    "mojon del angulo Este del terreno del ulti-",
+    "mo clavado sobre el lado Sud-Oeste de o-",
+    "tro terreno de D^{n} Tiburcio Lima, desde el",
+    "cual al Sud treinta y un grados treinta",
+    "minutos Este se midieron trescientas",
+    "cincuenta y tres varas hasta el mojon",
+    "del angulo Sud del terreno del mismo",
+    "Lima. Desde este mojon dividiendo",
+    "con el mismo Lima al Norte cincuen-",
+    "ta y ocho grados treinta minutos Este",
+    "se midieron mil doscientas treinta va-",
+    "ras y se colocó un mojon en la in-",
+    "terseccion de esta linea con la del costa-",
+    "do Sud Oeste del terreno de sobras de D^{n}",
+    "José Figueroa; desde el cual al Sud",
+    "treinta y dos grados trece minutos Es-",
+    "te y dividiendo con D^{n} Francisco del",
+    "Sar y D^{n} José Figueroa se midieron"
+   ],
+   "interpretacion": "Escalonamiento del costado NO: 353 v con Lima hasta el ángulo S de Luis Chapeaurouge (Ficha 021); 1372 v con Chapeaurouge, Luciano Lucero y Lima hasta el ángulo E de Lucero; 353 v al S 31° 30' E hasta el ángulo S de Lima; 1230 v al N 58° 30' E hasta cortar el costado SO del «terreno de sobras de D. José Figueroa», donde pone un mojón. Luego S 32° 13' E con Del Sar y José Figueroa. Las franjas angostas de Lima, Lucero y Chapeaurouge son fondos de suertes que llegan desde el río."
+  },
+  {
+   "titulo": "Folio 3 v. · La cañada de «Bar [?]» y cierre en el Cañón",
+   "img": "img/f/025/09.jpg",
+   "fuente": "IMG_6925.JPG",
+   "nota": "Hidrónimo «Bar [?]» dudoso; en el plano se lee «arroyo de Bagué» en ese lugar.",
+   "lineas": [
+    "mil novecientas setenta y dos varas hasta",
+    "el mojon del angulo Sud del terreno del mis-",
+    "mo Figueroa; Sobre esta linea: á las tres-",
+    "cientas veinte varas se cruzó la cañada de",
+    "Bar [?] y á las cuatrocientas dies se halló",
+    "el mojon del angulo Este del terreno de",
+    "D^{n} José Figueroa. Desde el espresado mo-",
+    "jon del angulo Sud de D^{n} José Figueroa",
+    "al Norte cincuenta y ocho grados dies y seis",
+    "minutos Este y dividiendo con el mismo",
+    "Figueroa se midieron trescientas cuaren-",
+    "ta y ocho varas hasta la interseccion de es-",
+    "ta linea con la del costado Sud-Oeste de",
+    "D^{n} Rosendo de Dios donde se colocó el",
+    "mojon del angulo Oeste del terreno de",
+    "D^{n} Rosendo de Dios que proviene del",
+    "finado Figueroa. Desde este mojon al",
+    "Sud cuarenta y seis grados cincuenta y",
+    "cinco minutos Este y dividiendo con",
+    "el mencionado D^{n} Rosendo de Dios",
+    "se midieron setecientas setenta y cin-",
+    "co y media varas hasta el mojon del",
+    "Cañon que sirvió de arranque de esta",
+    "mensura. — Tiene el terreno medido",
+    "la figura de un poligono irregular"
+   ],
+   "interpretacion": "1972 v hasta el ángulo S de José Figueroa: a 320 v cruza «la cañada de Bar [?]» —en el plano, «arroyo de Bagué», que remite al apellido de Antonina Bagué (Ficha 001)— y a 410 v halla el ángulo E de Figueroa. Luego N 58° 16' E, 348 v con Figueroa hasta el costado SO de Rosendo de Dios (ángulo O de su terreno, «que proviene del finado Figueroa»), y S 46° 55' E, 775,5 v hasta el Cañón de arranque. El terreno es un polígono irregular…"
+  },
+  {
+   "titulo": "Folio 4 · Área, exceso y por qué difiere de 1839",
+   "img": "img/f/025/10.jpg",
+   "fuente": "IMG_6926.JPG",
+   "nota": "Sello con foliatura «4».",
+   "lineas": [
+    "de doce lados con la superficie de veinte",
+    "y seis millones trescientas cuarenta y siete",
+    "mil doscientas veinte y seis varas cuadradas,",
+    "y siendo la de su titulo de veinte y un",
+    "millones y trescientas sesenta mil varas",
+    "cuadradas, resulta un exceso de cuatro mi-",
+    "llones novecientas ochenta y siete mil",
+    "doscientas veinte y seis varas cuadradas á",
+    "favor de los vendedores D^{n} Rafael y",
+    "D^{n} Pedro del Sar y que el propie-",
+    "tario D^{n} Guillermo Mooney, tiene",
+    "tratado en compra.",
+    "El exceso de area que resulta de la presente men-",
+    "sura comparada con la que practiqué en",
+    "el año pasado de mil ochocientos trein-",
+    "ta y nueve del mismo terreno pro-",
+    "viene de dos causas: primera: de la alte-",
+    "racion que ha sufrido el terreno de D^{n}",
+    "José Figueroa en la mensura que se",
+    "ha hecho recientemente de su terreno",
+    "por el agrimensor D^{n} German Kur:",
+    "y segunda de la que igualmente han",
+    "sufrido los terreno[s] de D^{n} Rosendo de",
+    "Dios y D^{n} Pedro Pueblas, sucesores de",
+    "Marfil, y D^{n} Patricio Wheeler."
+   ],
+   "interpretacion": "…de doce lados, con 26.347.226 v² (≈ 0,73 legua², ≈ 1976 ha) contra 21.360.000 del título: un exceso de 4.987.226 v² a favor de los vendedores Rafael y Pedro del Sar, que Mooney «tiene tratado en compra» (el sobrante no va al fisco sino a los vendedores).\nEguía dice haber medido este mismo terreno en 1839 y explica el aumento por dos causas: la alteración del terreno de José Figueroa en la mensura reciente de German Kuhr, y la que sufrieron los de Rosendo de Dios y Pedro Puebla (sucesores de Marfil) y Patricio Wheeler en la de Differt. Las mensuras vecinas de 1856-58 reacomodan los límites del campo."
+  },
+  {
+   "titulo": "Folio 4 v. · Declinación, asistentes e informe del D. T.",
+   "img": "img/f/025/11.jpg",
+   "fuente": "IMG_6927.JPG",
+   "nota": "Al pie comienza, en otra letra, el informe del Departamento; siguen rayas de relleno («// // //»).",
+   "lineas": [
+    "en la reciente mensura practicado por",
+    "el agrimensor D^{n} Teodoro Difert: habien-",
+    "do sido todo medido á rumbos corregidos",
+    "con la declinacion de once grados y trein-",
+    "ta minutos Nor-Este.",
+    "Nota.",
+    "Asistieron á esta mensura",
+    "los linderos D^{n} Eduardo Morgan, D^{n}",
+    "Pascual Figueroa, D^{n} José Figueroa,",
+    "D^{n} Rosendo de Dios, D^{n} Pedro Pue-",
+    "blas, D^{n} Patricio Wheeler y D^{n} Tibur-",
+    "cio Lima. Por D^{n} Natal Torres asistió",
+    "Eustaquio Sosa, por los herederos de Vi-",
+    "llalva D^{n} Loreto Ponce; por D^{n} Francis-",
+    "co del Sar, D^{n} Luis Chapeaurrouge, y",
+    "por D^{n} Luciano Lucero D^{n} Isidro",
+    "Casas; y todos estuvieron conformes.",
+    "Manuel Eguia",
+    "S^{or} Juez de 1^{a} Instancia.",
+    "El Departamento Topogra-",
+    "fico ha examinado la antecedente",
+    "mensura practicada por el Agri-",
+    "mensor Eguia en el terreno de la",
+    "// // //"
+   ],
+   "interpretacion": "Rumbos corregidos con una declinación de 11° 30' NE: la misma que usa Differt en 1858 (Fichas 021-023). Nota: asistieron los linderos Eduardo Morgan, Pascual y José Figueroa, Rosendo de Dios, Pedro Puebla, Patricio Wheeler y Tiburcio Lima; por Natal Torres, Eustaquio Sosa; por los herederos de Villalva, Loreto Ponce (el mismo de la Ficha 022); por Francisco del Sar, Luis Chapeaurouge; por Luciano Lucero, Isidro Casas: «todos estuvieron conformes». Firma Manuel Eguía.\nEl Departamento Topográfico comienza su informe al juez de primera instancia."
+  },
+  {
+   "titulo": "Folio 5 · Informe del Departamento Topográfico",
+   "img": "img/f/025/12.jpg",
+   "fuente": "IMG_6928.JPG",
+   "nota": "Sello con foliatura «5». La fecha es dudosa en día y año: «17 [?]» y «1859 [?]» (coherente con la aprobación de setiembre de 1859).",
+   "lineas": [
+    "propiedad de D^{n} Guillermo Moon-",
+    "ney; y encontrandola arreglada á",
+    "las disposiciones generales en la",
+    "materia, la considera en estado",
+    "de ser aprobada judicialmente.",
+    "Respecto al exeso de superficie que resul-",
+    "ta sobre la designada en el titulo",
+    "y que corresponde á D^{n} Rafael y D^{n}",
+    "Pedro del Sar, de quien hubo el",
+    "terreno medido Mooney, el Depar-",
+    "tamento se limita á reproducir lo",
+    "que dice el Agrimensor sobre el",
+    "particular; esto es, que lo tiene tra-",
+    "tado en compra.",
+    "Buenos Ayres Agosto 17 [?] de 1859 [?].",
+    "Salas    Fernandez",
+    "Malaver"
+   ],
+   "interpretacion": "El Departamento encuentra la mensura arreglada a las disposiciones generales y la considera en estado de ser aprobada judicialmente. Sobre el exceso de superficie, que corresponde a Rafael y Pedro del Sar, se limita a reproducir lo que dice el agrimensor: que Mooney lo tiene tratado en compra. Buenos Aires, agosto de 1859. Firman Salas, Fernández y Malaver."
+  },
+  {
+   "titulo": "Oficio del juez (1859) · auto de aprobación",
+   "img": "img/f/025/13.jpg",
+   "fuente": "IMG_6934.JPG",
+   "nota": "Papel sellado de 3 pesos, «Estado de Buenos Ayres 1859», foliatura 7. Apellido del apoderado dudoso (Conde [?]).",
+   "lineas": [
+    "3 PESOS    [sello:] Estado de Buenos Ayres 1859    [foliatura:] 7",
+    "Buenos Ayres Octubre 20 de 1859.",
+    "Al Señor Presidente del Departamento",
+    "Topografico.",
+    "El infrascripto comunica á V^{d}. que en el",
+    "espediente seguido por Don Adolfo Conde [?]",
+    "como apoderado de Don Guillermo Moony",
+    "sobre mensura de un terreno en el Parti-",
+    "do de San Antonio de Areco, el Juzgado",
+    "ha proveido el auto del tenor siguiente.",
+    "\"Buenos Ayres Setiembre siete de mil ocho-",
+    "cientos cincuenta y nueve — Autos y vis-",
+    "tos: De conformidad con el agente fiscal en",
+    "lo Civil, se aprueba en cuanto ha lugar por",
+    "derecho la mensura practicada por el a-",
+    "grimensor Don Manuel Eguia, corriente á",
+    "fojas diez interponiendo el Juzgado para",
+    "su mayor validez la autoridad que egerce.",
+    "Comuniquese al Departamento Topografi-",
+    "co por medio del correspondiente oficio y fe-",
+    "cho y satisfechas las costas entreguese el es-",
+    "pediente al interesado — Garcia.\"",
+    "Lo que se comunica á V^{d}. á los efectos que"
+   ],
+   "interpretacion": "Buenos Aires, 20/10/1859: el juez comunica al presidente del Departamento Topográfico que, en el expediente seguido por Adolfo Conde [?] como apoderado de Guillermo Mooney sobre mensura de un terreno en San Antonio de Areco, se dictó el auto del 7/9/1859: de conformidad con el agente fiscal en lo civil, se aprueba «en cuanto ha lugar por derecho» la mensura de Eguía (f. 10), interponiendo el Juzgado su autoridad; se entrega el expediente al interesado pagadas las costas. Firma García."
+  },
+  {
+   "titulo": "Cierre del oficio; notas de 1859 y de 1933-34",
+   "img": "img/f/025/14.jpg",
+   "fuente": "IMG_6935.JPG",
+   "nota": "Tres manos distintas: el juez (1859), Salas (1859) y oficinas de Geodesia (1933-34).",
+   "lineas": [
+    "haya lugar",
+    "Dios gue. á V^{d}. muchos años",
+    "J^{n} Agustin Garcia",
+    "Octubre 21/859 —",
+    "Agreguese al duplicado correspon-",
+    "diente, prévio aviso de recibo. —",
+    "Salas",
+    "Enero 20/33. En la fecha informo el expediente R-1933 sobre",
+    "una superficie de 24 H^{s} 22 a^{s} 31 c^{s} que doña Maria Elena",
+    "Mooney cede a don Jeremias Morgan sus derechos de pose-",
+    "sion",
+    "Churruarin [?]",
+    "Enero 25 de 1934   Se informa en el mismo exp. anterior",
+    "Of. [?] J. [?]",
+    "Emilio Mazza [?]"
+   ],
+   "interpretacion": "Firma el juez Juan Agustín García (el mismo que aprobó la mensura de Wheeler, Ficha 022). El 21/10/1859 Salas ordena agregarlo al duplicado. Notas del siglo XX: el 20/1/1933 se informa el expediente R-1933 sobre 24 ha 22 a 31 ca que «doña María Elena Mooney cede a don Jeremías Morgan sus derechos de posesión»; el 25/1/1934 se informa en el mismo expediente. El duplicado sigue en uso 75 años después: las familias Mooney y Morgan, vecinas en 1858, siguen enlazadas en 1933."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de D. Guillermo Mooney (estancia «San Guillermo»)",
+   "img": "img/f/025/03.jpg",
+   "fuente": "IMG_6929.JPG (detalles en IMG_6930-6933)",
+   "orientacion": "Pliego a tinta, letra de molde; flecha de norte en diagonal; escala gráfica de 0 a 6000 varas; firmado «Partido de Areco, Junio de 1858, Manuel Eguia».",
+   "interpretacion": "Polígono de doce lados con el rótulo «GUILLERMO MOONEY — «S.n Guillermo» — área hallada 26.347.226 v.s cuadradas; del título 21.360.000; exceso 4.987.226». Dentro, cinco puestos con nombre: «La Patria» (junto al arroyo de Bagué), «La Margarita», «S.ta María», «El Oriental» y «Mozo Vivo [?]», y la población de Inés Villalva. El «Arroyo de Suero» cruza el extremo E; el «arroyo de Bagué» baja desde el N y forma un bañado sombreado. Arriba, «Tomás Donojo [?]», «J.e Figueroa» y «Rosendo de Dios»; a la derecha «R. de Dios», «Pedro Pueblas», «Patricio Wheeler», «Valentín Villalva», «Fran.co del Sar» y «Natal Torres»; abajo «Eduardo Morgan»; a la izquierda las franjas de «Luciano Lucero, T. Lima, L. Lucero, L. Chapeaurrouge, T. Lima, Pascual Figueroa, Juan V. González, T. Lima, F. del Sar, Francisco del Sar».",
+   "referencias": [
+    [
+     "Rótulo central",
+     "Guillermo Mooney · «S.n Guillermo» · área 26.347.226 v² · título 21.360.000 · exceso 4.987.226"
+    ],
+    [
+     "Puestos",
+     "«La Patria» · «La Margarita» · «S.ta María» · «El Oriental» · «Mozo Vivo [?]» · pobl. de Inés Villalva"
+    ],
+    [
+     "Aguas",
+     "Arroyo de Suero (E) · arroyo de Bagué (N; en el texto «cañada de Bar [?]»), con bañado sombreado"
+    ],
+    [
+     "Mojón «cañón»",
+     "Arranque, sobre el deslinde SO de Rosendo de Dios (S 46° 58' E, 1055,5 v)"
+    ],
+    [
+     "Linderos N-NE",
+     "Tomás Donojo [?] · J.e Figueroa · Rosendo de Dios · R. de Dios · Pedro Pueblas"
+    ],
+    [
+     "Linderos E-SE",
+     "Patricio Wheeler · Valentín Villalva · Fran.co del Sar · Natal Torres"
+    ],
+    [
+     "Lindero SO",
+     "Eduardo Morgan"
+    ],
+    [
+     "Linderos NO (franjas)",
+     "L. Lucero · T. Lima · L. Chapeaurrouge · Pascual Figueroa · Juan V. González · F. del Sar"
+    ],
+    [
+     "Escala / firma",
+     "0-6000 varas · «Partido de Areco, Junio de 1858, Manuel Eguia»"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Mosaico de 1858: tres agrimensores en la misma cuenca",
+   "texto": "Esta mensura se hizo a la par de las de Differt para Wheeler (Ficha 022) y Marfil/De Dios–Puebla, y después de la de Kuhr para José Figueroa (1856-58). Eguía mide «en unión» con Differt el terreno de Marfil y arranca de un mojón que Differt acababa de colocar. Es el mismo bloque del arroyo de Suero que la Ficha 020 (Morgan, 1856) y la 022 (Wheeler). Con las Fichas 020, 021, 022 y 025 se puede cerrar en el GIS el cuadrilátero Morgan–Mooney–Wheeler–Del Sar entre el arroyo de Giles y el río de Areco."
+  },
+  {
+   "titulo": "El exceso: no es del fisco, es de los vendedores",
+   "texto": "El campo tiene 4.987.226 v² más que el título (+23 %). A diferencia de las Fichas 019 y 024, donde el sobrante es «a favor del fisco», aquí Eguía y el Departamento lo atribuyen a los vendedores (Rafael y Pedro del Sar), con quienes Mooney ya «lo tiene tratado en compra». Eguía, que había medido el terreno en 1839, explica el aumento por los reacomodos de las mensuras vecinas de Kuhr y Differt: el área de un campo depende de cómo se midan los de al lado."
+  },
+  {
+   "titulo": "Paisaje: un campo con puestos bautizados",
+   "texto": "El plano nombra cinco puestos: «La Patria», «La Margarita», «Santa María», «El Oriental», «Mozo Vivo [?]», y la estancia «San Guillermo». Es la primera vez en la serie que un propietario británico rotula su campo con una red de puestos con nombre (antes sólo la Ficha 005). «La Margarita» puede aludir a la hija, Margarita Mooney de Morgan. Hay población ajena dentro del campo (Inés Villalva, a 230 v del lindero). Aguas: arroyo de Suero (dos cruces) y un «arroyo de Bagué» con bañado, que en el texto parece llamarse «cañada de Bar [?]»."
+  },
+  {
+   "titulo": "Técnica y ritual",
+   "texto": "Rumbos corregidos con 11° 30' NE, igual que Differt el mismo año: Eguía, que en 1839 medía con «rumbos de la aguja», ya trabaja con la declinación del día. Visuales desde el arranque a la casa de Mooney y al puesto «La Margarita». Asistieron todos los linderos o sus representantes (Eustaquio Sosa por Natal Torres, Loreto Ponce por los Villalva, Chapeaurouge por Del Sar, Isidro Casas por Lucero) y «todos estuvieron conformes». No hay protesta: es el contraste con la de Chapeaurouge contra Differt en la Ficha 021."
+  },
+  {
+   "titulo": "Tenencia: del sar → mooney → morgan",
+   "texto": "Los Del Sar (Francisco, abuelo; Rafael y Pedro, nietos; Chapeaurouge, nieto político) venden en 1856 al irlandés William (Guillermo) Mooney, de Westmeath, llegado a Areco ese año. El expediente lo tramita su apoderado Adolfo Conde [?] y la mensura la aprueba el juez Juan Agustín García (7/9/1859). Las notas de 1933-34 muestran a María Elena Mooney cediendo a Jeremías Morgan derechos de posesión sobre 24 ha: las dos familias irlandesas vecinas en 1858 terminan unidas (Margarita Mooney casó con un Morgan)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Es «Tomás Donojo [?]» un lindero real al N? ¿La «cañada de Bar» es el «arroyo de Bagué» del plano, y guarda el nombre de la familia de la Ficha 001? ¿Dónde está la mensura de Eguía de 1839 de este mismo terreno? ¿Qué fue de la compra del exceso a los Del Sar? Falta entre las tomas la circular de citación. La fecha del informe del D. T. (¿17 de agosto de 1859?) conviene cotejarla con el original."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Guillermo (William) Mooney",
+   "rol": "Propietario",
+   "texto": "William Mooney (1810-1867), de Milltown, condado de Westmeath (Irlanda), casado con Mary Murray; se estableció en San Antonio de Areco en 1856, el año de esta compra, con su hijo Guillermo. La familia tuvo la estancia «El Paraíso» en Areco; su hijo Guillermo (1858-1928) compró hacia 1888 unas 10.000 ha («La Argentina», estación Solís) en Giles y Areco. Su hija Margarita Mooney de Morgan fundó en Areco la iglesia de San Patricio y el colegio Clonmacnoise (1902). La estancia de 1858 se llama «San Guillermo» en el plano.",
+   "fuentes": "irlandeses.org (Dictionary of Irish Latin American Biography, «Mooney, Guillermo»; Irish Place Names in Argentina: Areco)."
+  },
+  {
+   "nombre": "Manuel Eguía",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor público de larga actuación en Areco y Giles (Fichas 003-006, 010, 015, 017, 019). Autor de los planos de Zárate (1827). Aquí declara haber medido este mismo terreno en 1839 y usa ya rumbos corregidos con 11° 30'.",
+   "fuentes": "Fichas anteriores de la serie."
+  },
+  {
+   "nombre": "Francisco del Sar · Rafael y Pedro del Sar",
+   "rol": "Antecesores",
+   "texto": "Francisco del Sar, antiguo dueño de tierras entre el arroyo de Giles y el río de Areco (Ficha 021); sus nietos Rafael y Pedro venden a Mooney en 1856. Luis D. Chapeaurouge, nieto político, representa a Del Sar en la mensura. La búsqueda web no dio más datos.",
+   "fuentes": "Fichas 021-022; esta mensura."
+  },
+  {
+   "nombre": "Teodoro Differt · German Kuhr",
+   "rol": "Agrimensores vecinos",
+   "texto": "Differt midió en 1858 a Wheeler, Dionisia Alen de Sosa y Lorenzo Torres (Fichas 021-023) y aquí mide con Eguía el ex terreno de Marfil. Kuhr midió en 1856 a Eduardo Morgan (Ficha 020) y, según Eguía, el terreno de José Figueroa.",
+   "fuentes": "Fichas 020-023."
+  },
+  {
+   "nombre": "Juan Agustín García",
+   "rol": "Juez de primera instancia en lo civil",
+   "texto": "Da la comisión (2/5/1858) y aprueba la mensura (7/9/1859); ya aprobó la de Wheeler «sin perjuicio de tercero» (Ficha 022). Probablemente Juan Agustín García (padre del sociólogo homónimo), juez y político porteño; identificación no verificada.",
+   "fuentes": "Ficha 022; esta mensura."
+  },
+  {
+   "nombre": "Salas · Fernández · Malaver",
+   "rol": "Departamento topográfico",
+   "texto": "Firman el informe de 1859; Saturnino Salas, presidente 1855-1875, ordena agregar el oficio al duplicado (21/10/1859).",
+   "fuentes": "Fichas 021-024."
+  },
+  {
+   "nombre": "Linderos y representantes",
+   "rol": "Personas nombradas",
+   "texto": "Rosendo de Dios (heredó de su suegro Figueroa), Pedro Puebla(s), Vicente Marfil (finado), Patricio Wheeler, Valentín e Inés Villalva, Natal Torres, Eduardo Morgan, Tiburcio Lima, José Lavallén (antiguo dueño), Juan Víctor González, Pascual y José Figueroa, Luciano Lucero, Luis Chapeaurouge, Eustaquio Sosa, Loreto Ponce, Isidro Casas, Adolfo Conde [?] (apoderado), Tomás Donojo [?]; en 1933, María Elena Mooney y Jeremías Morgan. Sin datos biográficos propios localizados.",
+   "fuentes": "Esta mensura y su plano."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/025/02.jpg",
+  "fuente": "IMG_6919.JPG",
+  "lineas": [
+   "Seccion Areco.   San A. de Giles 25",
+   "N.^{o} 104.",
+   "Guillermo Mooney",
+   "Partido de Areco.",
+   "Junio de 1858",
+   "por",
+   "Manuel Eguia"
+  ]
+ },
+ "titulo": "D. Guillermo Mooney",
+ "estado": "Transcripta (11 hojas, 259 renglones), 1 lámina"
+}

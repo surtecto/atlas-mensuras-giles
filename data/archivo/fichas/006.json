@@ -1,0 +1,455 @@
+{
+ "carpeta": "6",
+ "carpeta_nombre": "Carpeta 6",
+ "archivo": "Ficha 006 - Álvaro de la Riestra (1854).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Sección Areco)",
+  "N.º de duplicado": "6",
+  "Propietario / solicitante": "D. Álvaro de la Riestra",
+  "Agrimensor": "Manuel Eguía",
+  "Año": "1854",
+  "Fecha de la diligencia": "20 de junio de 1854 (aprobación D. T. 12/9/1854)",
+  "Ubicación": "Entre el arroyo de Giles y el arroyo del Sauce; estancia «La Paloma»",
+  "Orden judicial": "Despacho del 5 de marzo de 1854 del Juez de 1.ª Instancia Dr. D. Daniel María Cazón",
+  "Vendedor / antecesor": "Merced de los Suero e Hidalgo → Toribio Fernández y Carmen Figueroa → Pedro Antonio Rodríguez → Álvaro de la Riestra (compra del 3/8/1840)",
+  "Linderos citados": "O (frente): arroyo de Giles; antes Isabel Carrasco [?] · NE: Lorenzo Tiseira y Francisco Maldonado (antes Pedro Miguel de Figueroa) · SO: Ninian Johnston y Juan José Sosa (antes herederos de Enrique Sosa y Juliana Monje) · E (fondo): arroyo del Sauce; al otro lado Juan Castro / Antonio Ormachea",
+  "Medidas": "Polígono irregular de 4 lados: frente 1500 varas sobre el arroyo de Giles (400 + 1100) · NE 13.350 · SO 12.340 · fondo sobre el Sauce 550 + 950 varas",
+  "Rumbos": "Corregidos; variación del instrumento 11° 45' NE. Rumbos de lados: N 42° 45' E / N 47° 15' O",
+  "Referencia de archivo": "Portadillas: «N.º 36 – Giles 6 – Sección Areco». Informe D. T. 12/9/1854 (Salas, Pico)"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 1451 (19.342.500 v²)",
+  "hitos": "estancia La Paloma; casas de Johnston, Tiseira, Maldonado, Ormachea, P. Sosa; corral de J. J. Sosa; mojones de piedra; antigua quinta con zanja; caminos de la posta, a Zárate y a Mercedes",
+  "aguas": "Arroyo de Giles (frente) y arroyo del Sauce (fondo); cañada con brazos que desagua en el Sauce"
+ },
+ "sintesis": "Mensura judicial del 20 de junio de 1854 de la estancia «La Paloma» de Álvaro de la Riestra, una franja de 1500 varas de frente que corre «de arroyo a arroyo», del de Giles al del Sauce. La hizo Manuel Eguía por despacho del juez Daniel María Cazón. Es parte de la merced de los Zuero e Hidalgo y fue comprada en 1840 a Pedro Antonio Rodríguez. El arranque es una piedra en la zanja de la «antigua quinta» de Ninian Johnston, «reconocida por todos los circunstantes». El polígono de 4 lados (13.350 y 12.340 varas) da 19.342.500 v² (≈1451 ha). Sus lados cruzan cañadas, el camino de Giles a Zárate y el de la posta de Areco, y tocan corrales y casas de los Sosa. La declinación es de 11° 45'. Juan José Sosa protestó por escrito; el Departamento (Salas, Pico) la aprobó «en todas sus partes» el 12 de septiembre de 1854.",
+ "caratula": {
+  "img": "img/f/006/01.jpg",
+  "fuente": "IMG_6609.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "6"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Alvaro de la Riestra"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Manuel Eguía"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1854"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO — Talleres de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 (recto)",
+   "img": "img/f/006/06.jpg",
+   "fuente": "IMG_6612.JPG (girada 90°)",
+   "nota": "Foliatura «1» en sello; sello en seco del Departamento Topográfico en el margen. Letra inglesa cursiva de Eguía. El año de la diligencia se escribió primero en cifras («1854») y se tachó para escribirlo en letras.",
+   "lineas": [
+    "Extracto de los titulos de D^{n} Alvaro de la",
+    "Riestra.",
+    "En tres de Agosto de mil ocho cientos cuarenta D^{n} Pedro",
+    "Antonio Rodriguez vendió á D^{n} Alvaro de la Ries-",
+    "tra una estancia en terreno de mil quinientas",
+    "varas de frente al arroyo de Giles \"con el fondo",
+    "desde el dicho arroyo á Giles hasta el del Sauce\"",
+    "es decir dos leguas y ciento setenta y cuatro varas;",
+    "linda por el frente al Oeste con Doña Isabel Ca-",
+    "-rrasco [?] por el fondo al Este, arroyo del Sauce en",
+    "medio con Don Juan Castro, por el Noreste con",
+    "D^{n} Pedro Miguel de Figueroa, y por el Sudoeste",
+    "con los herederos de D^{n} Henrique Sosa y D^{n}",
+    "Juliana Monje [?]; y la hubo el vendedor por",
+    "compra que hizo á D^{n} Toribio Fernandez y",
+    "D^{a} Carmen Figueroa. Este terreno es parte de",
+    "la merced de los Zuero é Hidalgo.",
+    "Diligencia de mensura.",
+    "En el partido de San Andres de Giles á veinte de",
+    "Junio de ~~1854~~ mil ocho cientos cincuenta y cua-",
+    "tro hallandome yo el agrimensor publico Ma-",
+    "nuel Eguía, autorizado judicialmente pa-",
+    "ra medir los terrenos de la propiedad de",
+    "D^{n} Alvaro de la Riestra, por el despacho",
+    "de cinco de Marzo del corriente del Señor",
+    "Juez de 1.^{a} Instancia D^{or} D^{n} Daniel María",
+    "Cazon, previa la citacion de linderos que",
+    "original se acompaña, y no existiendo mo-",
+    "jon alguno del frente del terreno que se vá",
+    "á medir, me dirijí al angulo formado por",
+    "los lados frente al Nordeste y Noroeste del ter-",
+    "reno de D^{n} Ninian Johnston, que es una piedra",
+    "clavada sobre el arroyo de Giles en la zanja de la",
+    "antigua quinta de los antecesores de este, y"
+   ],
+   "interpretacion": "El extracto de títulos cuenta que el 3 de agosto de 1840 Pedro Antonio Rodríguez vendió a Álvaro de la Riestra una estancia de 1500 varas de frente al arroyo de Giles, con fondo «desde dicho arroyo de Giles hasta el del Sauce», es decir dos leguas y 174 varas (12.174 varas). La fórmula «de arroyo a arroyo» es típica de las suertes de estancia: el fondo no se fija con un número sino entre dos cursos de agua. Los linderos de 1840 eran Isabel Carrasco [?] al O, Juan Castro al E (del otro lado del Sauce), Pedro Miguel de Figueroa al NE y los herederos de Enrique Sosa y Juliana Monje [?] al SO. Rodríguez lo había comprado a Toribio Fernández y Carmen Figueroa. «Este terreno es parte de la merced de los Zuero é Hidalgo»: la misma merced fundadora de las Fichas 004 y 005.\nLa diligencia empieza el 20 de junio de 1854, por despacho del 5 de marzo del juez Daniel María Cazón. Como no había ningún mojón en el frente, Eguía busca el del vecino: una «piedra clavada» sobre el arroyo de Giles, en la zanja de la «antigua quinta» de los antecesores de Ninian Johnston. Zanja y quinta son rastros de una ocupación anterior (huerta o frutales cercados), y la piedra es un mojón excepcional en una pampa sin piedra."
+  },
+  {
+   "titulo": "Folio 1 (vuelto)",
+   "img": "img/f/006/07.jpg",
+   "fuente": "IMG_6613.JPG (girada 90°)",
+   "nota": "Toma con fuerte transparencia del recto; buena legibilidad.",
+   "lineas": [
+    "reconocido por todos los circunstantes ser el",
+    "verdadero mojon de la tierra que fué de D^{a}",
+    "Juliana Monje [?] y hoy de Johnston; partí des-",
+    "de él al Norte 42° 45' Este y medí la distancia",
+    "de mil quinientas varas que corresponden al",
+    "frente de D^{n} Ninian Johnston; y de su estre-",
+    "mo al Norte 47° 15' Oeste se tiró una linea hasta",
+    "encontrar al arroyo de Giles; y se colocó en la",
+    "costa de este arroyo el mojon de arranque de",
+    "la presente mensura; el que habalicé mi-",
+    "rando al Sud 3° 15' Este la casa de D^{n} Ninian",
+    "Johnston y la estancia de D^{n} Alvaro de la Ries-",
+    "tra, denominada la Paloma al Norte 53° 45'",
+    "Este. Desde este mojon al Norte 42° 45' Este se",
+    "midieron arroyo abajo cuatrocientas v.^{s}; y de",
+    "su estremo al Norte 47° 15' Oeste se midieron cien-",
+    "to cuarenta varas hasta el arroyo de Giles: en",
+    "seguida al Norte 42° 45' Este siempre arroyo",
+    "abajo se midieron mil cien varas que suma-",
+    "das á las cuatrocientas anteriores hacen las",
+    "mil y quinientas varas del frente de esta pro-",
+    "piedad. Desde este punto cuadré al Norte",
+    "47° 15' Oeste y medí cuatrocientas varas hasta",
+    "el arroyo de Giles donde se colocó un mojon en",
+    "el angulo formado por los lados frente al",
+    "Noroeste y Nordeste de la propiedad que se mi-",
+    "de; el que habalicé mirando al Sud 5° 15'",
+    "Este la Paloma y al Sud 68° 15' Este la casa",
+    "de Don Lorenzo Tizeira; desde este mojon al",
+    "Sud 47° 15' Este y dividiendo con D^{n} Lorenzo",
+    "Tizeira y D^{n} Francisco Maldonado se midie-",
+    "ron trece mil tres cientas cincuenta varas",
+    "hasta el arroyo del Sauce: habiendo puesto",
+    "un mojon á las tres mil cuatro cientas va-",
+    "ras, otro á las seis mil cuatrocientas, se cruzó",
+    "el camino de Giles á Zarate á las seis mil seiscien-",
+    "tas cincuenta: á las seis mil ochocientas se",
+    "cruzó una cañada que desagua en el arroyo",
+    "del Sauce, á las siete mil novecientas sesen-",
+    "ta y cinco se encontró un mojon de piedra",
+    "del costado Sudoeste de Tizeira y Maldo-"
+   ],
+   "interpretacion": "La piedra es «reconocida por todos los circunstantes» como el verdadero mojón de la tierra que fue de Juliana Monje [?] y hoy es de Johnston. Es el corazón del ritual de mensura: el consenso público de los vecinos convierte una piedra en límite legal.\nDesde allí Eguía mide las 1500 varas del frente de Johnston y, perpendicular, llega al arroyo de Giles, donde planta el mojón de arranque. Lo avaliza con la casa de Ninian Johnston (S 3°15' E) y con «la estancia de D. Álvaro de la Riestra, denominada la Paloma» (N 53°45' E). Es el primer nombre propio de estancia en el corpus.\nEl frente se levanta siguiendo el arroyo aguas abajo con una poligonal escalonada (400 varas, 140 de retorno al arroyo, 1100 más) hasta completar las 1500 varas. En el vértice N nuevo mojón, avalizado a La Paloma y a la casa de Lorenzo Tiseira. Luego el lado NE (S 47°15' E) corre 13.350 varas hasta el arroyo del Sauce, con mojones a las 3400 y 6400 varas. Cruza el camino de Giles a Zárate (6650) y una cañada que desagua en el Sauce (6800), y encuentra un mojón de piedra de Tiseira y Maldonado a las 7965 varas."
+  },
+  {
+   "titulo": "Folio 2 (recto)",
+   "img": "img/f/006/08.jpg",
+   "fuente": "IMG_6614.JPG (girada 90°)",
+   "nota": "Foliatura «2» en sello. Papel oscurecido; lectura segura.",
+   "lineas": [
+    "do, á las doce mil cuatro cientas cincuenta",
+    "se encontró otro mojon de piedra de este mis-",
+    "mo costado y al estremo de las trece mil",
+    "tres cientas cincuenta se colocó un mojon",
+    "que marca el angulo formado por los lados",
+    "frente al Noreste y Sudeste del terreno que",
+    "se mide. Habalicé este mojon mirando al",
+    "Sud 2° 45' Oeste la casa de D^{n} Antonio Orma-",
+    "chea y al Norte 40° 45' Este la casa de D^{n} Fran-",
+    "cisco Maldonado. Desde este mojon al Norte",
+    "47° 15' Oeste por la misma linea que habia ve-",
+    "nido medí doscientas treinta y cinco varas.",
+    "y de su estremo al Sud 42° 45' Oeste se midie-",
+    "ron arroyo arriba quinientas cincuenta varas",
+    "y se dió con el arroyo del Sauce. Volví á sa-",
+    "lir al Norte 47° 15' Oeste y medí otras doscientas",
+    "treinta y cinco v.^{s} y de su estremo cuadré al",
+    "Sud 42° 45' Oeste, siempre arroyo arriba, y se",
+    "midieron novecientas cincuenta varas; don-",
+    "de terminaron se colocó sobre el arroyo del",
+    "Sauce el mojon que marca el angulo forma-",
+    "do por los lados frente al Sudeste y Sudoeste",
+    "del terreno que se mide el que habalicé miran-",
+    "do Norte 78° 45' Este la casa de Ormachea y al",
+    "Sud 35° 45' Oeste la casa de D^{n} Pascual Rodriguez [?]",
+    "Desde este mojon y dividiendo con terrenos de",
+    "D^{n} Juan José Sosa y Don Ninian Johnston",
+    "se midieron doce mil trescientas cuarenta",
+    "varas hasta el mojon de arranque; á las",
+    "tres mil varas se colocó un mojon sobre la",
+    "playa del corral de D^{n} Juan José Sosa, á",
+    "las cuatro mil doscientas se enfrentó con",
+    "la casa de D^{n} Pascual Sosa que queda co-",
+    "mo ciento veinte varas adentro del terre-",
+    "no de Riestra, á las seis mil varas se colocó",
+    "otro mojon en un brazo de la misma cañada que",
+    "desagua en el arroyo del Sauce, á las siete",
+    "mil cuatro cientas se cruzó otro brazo de la",
+    "misma cañada: á las nueve mil se colocó",
+    "otro mojon, y á las nueve mil novecientas",
+    "cincuenta se cruzó el camino de la posta"
+   ],
+   "interpretacion": "Un segundo mojón de piedra aparece a las 12.450 varas; el vértice E se planta a las 13.350, sobre el arroyo del Sauce, y se avaliza con las casas de Antonio Ormachea (al otro lado del Sauce) y de Francisco Maldonado. El fondo sobre el Sauce se levanta otra vez con escalones de 235 varas perpendiculares y tramos de 550 y 950 varas «arroyo arriba», hasta el vértice S, avalizado con la casa de Ormachea y la de Pascual Rodríguez [?].\nEl lado SO vuelve al arranque (12.340 varas) dividiendo con Juan José Sosa y Ninian Johnston. Este tramo es el más rico en paisaje: un mojón sobre la «playa del corral» de Juan José Sosa (el suelo pisoteado y pelado alrededor del corral), la casa de Pascual Sosa que queda unas 120 varas dentro del terreno de Riestra (una intrusión que el agrimensor registra sin resolver), dos brazos de la misma cañada que desagua en el Sauce y, a las 9950 varas, el «camino de la posta de Areco a la ciudad»."
+  },
+  {
+   "titulo": "Folio 2 (vuelto)",
+   "img": "img/f/006/09.jpg",
+   "fuente": "IMG_6615.JPG (girada 90°)",
+   "nota": "Cierre de la diligencia, firma de Eguía y aprobación del Departamento Topográfico en otra letra, con firmas de Salas y Pico. La mitad inferior de la hoja está en blanco.",
+   "lineas": [
+    "de Areco á la ciudad. El terreno medido tie-",
+    "ne la figura de un poligono irregular de cua-",
+    "tro lados y contiene la superficie de diez",
+    "y nueve millones trescientas cuarenta y dos",
+    "mil quinientas varas cuadradas y ha sido",
+    "medido á rumbos corregidos; siendo la va-",
+    "riacion del instrumento la de 11° 45' Noreste.",
+    "Nota. Asistieron á esta mensura los linderos",
+    "D^{n} Lorenzo Tizeira D^{n} Ninian Johnston",
+    "y D^{n} Francisco Maldonado. El lindero",
+    "D^{n} Juan José Sosa no asistió habiendo",
+    "dirijido despues de la mensura la pro-",
+    "testa que original se acompaña á esta",
+    "diligencia. Parece indispensable oir á este",
+    "lindero á quien el agrimensor no ha po-",
+    "dido entender como puede ser perjudica-",
+    "do por la presente mensura.",
+    "Manuel Eguía [rúbrica]",
+    "Buenos A.^{s} Septiembre 12/854",
+    "El Dep.^{to} top.^{co} ha examinado la anterior",
+    "diligencia de mensura practicada por el agri-",
+    "mensor D. Manuel Eguía en los terrenos",
+    "de D. Albaro de la Riestra, la cual habiendo",
+    "sido ejecutada con arreglo á los titulos presen-",
+    "tados y á las disposiciones generales de la ma-",
+    "teria, el Dep.^{to} ha venido en aprobarla en todas",
+    "sus partes. —",
+    "Salas [rúbrica]     Pico [rúbrica]"
+   ],
+   "interpretacion": "El polígono irregular de cuatro lados encierra 19.342.500 varas cuadradas (≈1451 ha). La variación del instrumento es de 11°45' NE, idéntica a la de la mensura de Joaquín Rodríguez del mismo año (Ficha 004). Eguía usó el mismo valor en 1854.\nAsisten Lorenzo Tiseira, Ninian Johnston y Francisco Maldonado. Juan José Sosa no asiste y, después de la mensura, presenta una protesta escrita que se agrega al expediente. Eguía pide que se lo oiga, pero confiesa que no entiende «cómo puede ser perjudicado». La casa de Pascual Sosa, 120 varas dentro de Riestra, y el mojón sobre la playa del corral de Juan José Sosa sugieren el motivo: la línea SO atravesaba el espacio que los Sosa ocupaban.\nEl 12 de septiembre de 1854 el Departamento Topográfico (Salas, Pico) aprueba la mensura «en todas sus partes», porque fue hecha con arreglo a los títulos. No discute ningún excedente, a diferencia de lo que pasará en 1857 con la Ficha 005."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la mensura de Álvaro de la Riestra",
+   "img": "img/f/006/03.jpg",
+   "fuente": "IMG_6617.JPG (lámina completa, marco doble)",
+   "orientacion": "Lámina vertical; dos flechas meridianas con pluma a la izquierda (N verdadero y magnético, 11° 45'); el campo es una franja diagonal NO-SE.",
+   "interpretacion": "El campo es una larguísima franja de 1500 varas de ancho que corre en diagonal casi 13.000 varas, desde el arroyo de Giles (arriba a la izquierda) hasta el arroyo del Sauce (abajo a la derecha). El rótulo ALVARO DE LA RIESTRA está en capitales espaciadas y los linderos en cursiva de gran tamaño: Lorenzo Tiseira y Francisco Maldonado al NE, Ninian Johnston y Juan J. Sosa al SO, Antonio Ormachea más allá del Sauce.\nLas líneas de lindero van en tinta carmín con las distancias parciales (3400, 6400, 7965, 9400, 12.450…) y los mojones marcados como círculos. Dos cañadas achuradas cruzan la franja: la mayor en forma de «Y», cerca del camino de Giles a Zárate, en su mitad. Escala: «Una pulgada por 1000 varas», con escala transversal hasta 6000 varas. Firma de Manuel Eguía.",
+   "referencias": [
+    [
+     "Alvaro de la Riestra",
+     "Campo medido: 19.342.500 v² (≈1451 ha); rótulo «Area 19.342.500 varas cuad.s»"
+    ],
+    [
+     "Paloma",
+     "Casco de la estancia «La Paloma», cerca del frente sobre el arroyo de Giles"
+    ],
+    [
+     "Arroyo de Giles",
+     "Frente O-NO; poligonal N 42° 45' E (400 · 140 · 1100)"
+    ],
+    [
+     "Arroyo del Sauce",
+     "Fondo SE; tramos de 550 y 950 varas con escalones de 235"
+    ],
+    [
+     "Lorenzo Tiseira",
+     "Lindero NE (primer tramo); población «Tiseira» junto al vértice N"
+    ],
+    [
+     "Francisco Maldonado",
+     "Lindero NE (resto); mojones de «Piedra» a 7965 y 12.450 varas"
+    ],
+    [
+     "Ninian Johnston",
+     "Lindero SO (primer tramo); mojón de piedra de la antigua quinta"
+    ],
+    [
+     "Juan J. Sosa · Pascual Sosa · J. J. Sosa",
+     "Lindero SO; poblaciones de los Sosa pegadas a la línea"
+    ],
+    [
+     "Antonio Ormachea",
+     "Del otro lado del Sauce; casa usada como visual"
+    ],
+    [
+     "Camino de Areco por la posta",
+     "Punteado que sale del frente y corre en diagonal por el interior"
+    ],
+    [
+     "Camino de Giles á Zárate",
+     "Punteado que cruza la franja a 6650 varas (lado NE)"
+    ],
+    [
+     "Camino de Zárate á la Villa de Mercedes",
+     "Punteado N-S cerca del fondo"
+    ],
+    [
+     "Coronel [?]",
+     "Rótulo junto al camino, cerca del Sauce: ¿población de un «Coronel»?"
+    ],
+    [
+     "Cañadas achuradas",
+     "Bajos que desaguan en el Sauce (cruzados a 6800 y 7400 varas)"
+    ],
+    [
+     "Meridianas",
+     "Dos flechas con pluma: N verdadero y magnético, 11° 45' NE"
+    ],
+    [
+     "Escala",
+     "«Una pulgada por 1000 varas», transversal hasta 6000"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: frente sobre el arroyo de Giles y «La Paloma»",
+   "img": "img/f/006/04.jpg",
+   "fuente": "IMG_6620.JPG",
+   "orientacion": "Acercamiento del extremo NO de la franja y de las meridianas.",
+   "interpretacion": "Se leen los rumbos S 47° 15' E y N 42° 45' E, los tramos de 400, 140 y 1100 varas del frente, el casco «Paloma», la población «Tiseira» y el camino de Areco «por la posta», que nace en el frente y atraviesa el campo.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: tramo central y fondo sobre el arroyo del Sauce",
+   "img": "img/f/006/05.jpg",
+   "fuente": "IMG_6619.JPG e IMG_6618.JPG (se reproduce 6618)",
+   "orientacion": "Sector SE de la franja: cañada, caminos y arroyo del Sauce.",
+   "interpretacion": "En IMG_6619 se leen «Area 19342500 varas cuad.s», el camino de Giles á Zárate, la cañada en «Y» y los mojones de «Piedra» del lindero NE. IMG_6618 muestra el fondo: el arroyo del Sauce con los tramos de 950 y 550 varas (S 42° 45' O), el mojón de «Piedra» a las 12.450 varas, el camino de Zárate a la Villa de Mercedes, el rótulo «Coronel» y la casa de Antonio Ormachea en la otra orilla.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje: de arroyo a arroyo",
+   "texto": "El título define el campo «desde el arroyo de Giles hasta el del Sauce»: dos cursos de agua como frente y fondo, y una franja de 1500 varas entre ellos. Es la forma clásica de la suerte de estancia rioplatense. Entre los dos arroyos, una cañada con varios brazos desagua en el Sauce, cruzada tres veces por los lados. Los lugares habitados son muchos: el casco «La Paloma», las casas de Johnston, Tiseira, Maldonado, Ormachea, Pascual Rodríguez [?] y Pascual Sosa, el corral de Juan José Sosa con su «playa» y la «antigua quinta» con zanja de los antecesores de Johnston. Es un paisaje ya densamente ocupado."
+  },
+  {
+   "titulo": "Caminos: posta, zárate y mercedes",
+   "texto": "Aparecen tres caminos: el «de la posta de Areco á la ciudad», que cruza el lado SO a 9950 varas y atraviesa el campo; el «de Giles á Zárate», que cruza el lado NE a 6650 varas; y en el plano el de «Zárate á la Villa de Mercedes». Son puntos de control excelentes para el GIS y permiten reconstruir la red de circulación de 1854: el eje postal hacia Buenos Aires y la salida al puerto fluvial de Zárate."
+  },
+  {
+   "titulo": "Mojones de piedra y la antigua quinta",
+   "texto": "En una llanura sin piedra, los mojones de piedra (el de Johnston, en la zanja de la antigua quinta, y dos del costado de Tiseira y Maldonado) son objetos traídos y costosos, índice de mensuras anteriores más formales. La piedra de Johnston vale como mojón porque es «reconocida por todos los circunstantes»: la autoridad del hito es social antes que técnica. Es un dato central para el tema del ritual en la tesis."
+  },
+  {
+   "titulo": "El ritual y la protesta",
+   "texto": "Hay despacho judicial, citación de linderos, arranque desde el mojón reconocido de un vecino, avalizamiento de cada vértice con dos visuales a casas o estancias, y asistencia de tres linderos. El cuarto, Juan José Sosa, no asiste y protesta por escrito después; el agrimensor deja constancia y recomienda oírlo. La mensura se ve aquí como un escenario de conflicto posible, no sólo como un registro técnico."
+  },
+  {
+   "titulo": "Instrumental y método",
+   "texto": "La variación del instrumento es de 11° 45' NE, igual que en la Ficha 004 (octubre de 1854): Eguía usa un mismo valor ese año. Los rumbos de los lados son N 42° 45' E y N 47° 15' O (perpendiculares). Los dos frentes de agua se levantan con poligonales escalonadas «arroyo abajo / arroyo arriba», la misma técnica que en 1856 (Ficha 005). Todo está medido a rumbos corregidos."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "19.342.500 v² ≈ 1451 ha. Frente de 1500 varas ≈ 1,3 km; lados de 13.350 v ≈ 11,6 km y 12.340 v ≈ 10,7 km. El fondo titulado de «dos leguas y 174 varas» (12.174 v) daría 1500 × 12.174 = 18.261.000 v² (≈1370 ha). La diferencia, de unas 81 ha, no es observada por el Departamento, que aprueba «en todas sus partes». El límite natural (arroyo del Sauce) prevalece sobre la cifra del título."
+  },
+  {
+   "titulo": "Tenencia y apellidos",
+   "texto": "La cadena es: merced de los Zuero é Hidalgo → Toribio Fernández y Carmen Figueroa → Pedro Antonio Rodríguez → Álvaro de la Riestra (1840). Los linderos de 1840 (Figueroa, herederos de Enrique Sosa, Juliana Monje [?]) fueron reemplazados en 1854 por Tiseira, Maldonado, Johnston y Juan José Sosa. Es una renovación visible de los ocupantes, con un británico (Ninian Johnston, escocés por el nombre) comprando tierra de antiguos pobladores criollos. Los Sosa aparecen en situación defensiva: casa dentro de la línea y protesta."
+  },
+  {
+   "titulo": "Estado del documento y dudas",
+   "texto": "Buen estado; tomas con dominante anaranjada y transparencia del reverso. Hay una segunda portadilla (IMG_6611) y una lámina previa (IMG_6616) fotografiada sobre el legajo. Lecturas dudosas: «Isabel Carrasco» (lindero de 1840), «Juliana Monje», «Pascual Rodríguez» (visual del vértice S) y el rótulo «Coronel» del plano. La carpeta incluye un PDF de Wikipedia sobre Norberto de la Riestra agregado por Juan."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Dónde estaba el casco de La Paloma? Se puede ubicar por intersección desde los dos mojones del frente. ¿Qué decía la protesta de Juan José Sosa (el original no está en el duplicado)? ¿Qué parentesco tenía Álvaro de la Riestra con el ministro Norberto de la Riestra, nacido en Areco en 1820? ¿Qué fue la «antigua quinta» de los antecesores de Johnston?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Manuel Eguía",
+   "rol": "Agrimensor público",
+   "texto": "Cuarta mensura suya en el corpus (1838, 1854 ×2 y 1856). En 1854 trabajó al menos en junio (Riestra) y octubre (Rodríguez) en Giles con la misma declinación de 11° 45'. Su método se mantiene: arranque en un mojón reconocido, avalizamiento doble a casas y poligonales escalonadas para los bordes de agua. No se hallaron datos biográficos en línea.",
+   "fuentes": "Esta mensura; Fichas 003–005."
+  },
+  {
+   "nombre": "Álvaro de la Riestra",
+   "rol": "Propietario (estancia «la paloma»)",
+   "texto": "Compró la estancia en 1840 a Pedro Antonio Rodríguez. El apellido remite a la familia de Norberto de la Riestra (San Antonio de Areco, 1820 – Buenos Aires, 1879): financista, legislador en 1852, ministro de Hacienda del Estado de Buenos Aires y de la Confederación (1860-61) y de la Nación (1876). Norberto emitió bonos garantizados con la tierra pública de la provincia y fue uno de los administradores del Ferrocarril Oeste (1857). No se halló documentación que precise el parentesco con Álvaro (¿padre, hermano?).",
+   "fuentes": "PDF «Norberto_de_la_Riestra» (Wikipedia) en la carpeta; esta mensura."
+  },
+  {
+   "nombre": "Dr. Daniel María Cazón (1826-1878)",
+   "rol": "Juez de 1.ª instancia (despacho del 5/3/1854)",
+   "texto": "Abogado y doctor en jurisprudencia por la Universidad de Buenos Aires, donde fue profesor de Derecho. Participó en Caseros y apoyó el Acuerdo de San Nicolás. Fue convencional constituyente y senador provincial, colaboró en la redacción del primer Código Penal, fue Gran Maestre de la masonería argentina (1867-1870) y presidente de la Comisión Municipal de Tigre (1869-1873). Murió el 28 de julio de 1878.",
+   "fuentes": "Wikipedia, «Daniel María Cazón»."
+  },
+  {
+   "nombre": "Ninian Johnston",
+   "rol": "Lindero so; casa y «antigua quinta»",
+   "texto": "Nombre escocés (Ninian es típico de Escocia). Poseía la tierra que había sido de Juliana Monje [?] con una antigua quinta cercada por zanja y un mojón de piedra reconocido. Se suma a Macome (Ficha 002) y Butterfield (Ficha 004) en la presencia británica en Giles. No se hallaron datos en línea.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Juan José Sosa · Pascual Sosa · Enrique Sosa (herederos)",
+   "rol": "Linderos so",
+   "texto": "Los herederos de Enrique Sosa eran linderos en 1840. En 1854 Juan José Sosa tiene un corral sobre la línea y protesta contra la mensura. Pascual Sosa tiene casa 120 varas dentro del terreno de Riestra. Los Sosa figuran entre los apellidos recurrentes del corpus.",
+   "fuentes": "Esta mensura; METODO (apellidos recurrentes)."
+  },
+  {
+   "nombre": "Lorenzo Tiseira · Francisco Maldonado · Antonio Ormachea",
+   "rol": "Linderos ne y e",
+   "texto": "Tiseira (grafía también «Tizeira», quizá de origen portugués, Teixeira) y Maldonado dividen el lado NE, marcado con mojones de piedra. Ormachea, apellido vasco, tiene casa del otro lado del arroyo del Sauce. Sin datos en línea.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Pedro Antonio Rodríguez · Toribio Fernández · Carmen Figueroa · Pedro Miguel de Figueroa · Isabel Carrasco [?] · Juan Castro · Juliana Monje [?]",
+   "rol": "Antecesores y linderos de 1840",
+   "texto": "Rodríguez vendió en 1840. Fernández y Carmen Figueroa, sus vendedores, enlazan con los Figueroa, apellido recurrente en la zona (Pedro Miguel de Figueroa era el lindero NE en 1840). La tierra es «parte de la merced de los Zuero é Hidalgo», los mismos fundadores del pueblo (Fichas 004 y 005).",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Saturnino Salas · Pedro Pico",
+   "rol": "Departamento topográfico",
+   "texto": "Firman la aprobación del 12 de septiembre de 1854. Es la misma dupla de 1855 y 1857 (Fichas 004 y 005). Los dos eran miembros del Departamento restablecido en 1852 (con Agustín Ibáñez de Luca); Salas asumió la presidencia en 1855. Pedro Pico (1810-1888) había sido ingeniero militar en el Sitio de Montevideo y en 1863 mide en Giles como agrimensor (Ficha 007).",
+   "fuentes": "Esta mensura; «Plano topográfico y catastro en Buenos Aires (1852-1873)», Redalyc."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/006/02.jpg",
+  "fuente": "IMG_6610.JPG (hay una segunda portadilla en IMG_6611)",
+  "lineas": [
+   "N.º 36.                              Giles",
+   "                                          6",
+   "Secc.^{n} Areco.",
+   "Mensura del terreno",
+   "de",
+   "D^{n} Alvaro de la Riestra",
+   "entre el Arroyo del Sauce y el de Giles;",
+   "practicada p.^{r}",
+   "El Agrimensor Eguía",
+   "en 20 de Junio de 1854 —",
+   "[2.ª portadilla, IMG_6611:] N.º 36. — Seccion Areco. —",
+   "Areco. — Arroyo de Giles — terrenos de",
+   "D.^{n} Alvaro de la Riestra — Por el Agrimensor",
+   "Manuel Eguía — año 1854."
+  ]
+ },
+ "titulo": "D. Álvaro de la Riestra",
+ "estado": "Transcripta (4 hojas, 144 renglones), 3 láminas"
+}

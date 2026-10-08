@@ -1,0 +1,562 @@
+{
+ "carpeta": "39",
+ "carpeta_nombre": "Carpeta 39",
+ "archivo": "Ficha 039 - Noriega y sobras de Díaz de Vivar (1866).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles",
+  "N.º de duplicado": "39 (portadilla: «Sección Areco N.º 189»)",
+  "Propietario / solicitante": "Her. de M. Noriega · sobras de Díaz de Vivar",
+  "Agrimensor": "Pedro Saubidet",
+  "Año": "1866",
+  "Fecha de la diligencia": "21/7/1866; D. T. 4/9/1866; autos 1/8 y 7/9/1866",
+  "Ubicación": "Arroyo de Noriega, fondo SO del campo (hacia Achával y Mercedes)",
+  "Orden judicial": "Juez civil Dr. Miguel García Fernández (despacho 7/7/1866); escribano Ramón Peralta",
+  "Vendedor / antecesor": "Merced de Vivar → sobras de sus herederos; Noriega (Ficha 028)",
+  "Linderos citados": "Her. de Pedro Rodríguez · her. de Vicente Noriega · F. Lescano · Jacoba Iramain de Achával",
+  "Medidas": "Noriega 1777,39 ha (1309,93 + 467,48); sobras de Vivar 137 ha 8944 m² (521 × 2641 m)",
+  "Rumbos": "Corregidos: N 53° 30′ E · S 36° 35′ E; variación «la de 4/4/1865» (11° 30′ NE)",
+  "Referencia de archivo": "Duplicado 39; antes «Sección Areco N.º 189»; expediente judicial fs. 31-45"
+ },
+ "metricas": {
+  "superficie_ha": "137,89 (sobras) / 1777,39",
+  "hitos": "Ombú de Noriega; iglesia de Mercedes; puestos de A. Lescano, L. Vera y R. Nunn [?]; poblaciones de Reynoso y F. Noriega; mojones con nombre",
+  "aguas": "Arroyo de Noriega"
+ },
+ "sintesis": "Complemento de la Ficha 028. El 21/7/1866 Pedro Saubidet, por orden del juez García Fernández, «separa de entre los mojones» del campo de los herederos de Manuel Noriega el sobrante que su propia mensura de 1865 había reconocido a los herederos de Pedro Díaz de Vivar: una faja de 602 varas (521 m) por 2641 m en el fondo SO, contra Jacoba Iramain de Achával, de 137 ha 8944 m². A los Noriega les quedan 1777,39 ha, repartidas entre los herederos de Norberto Noriega (1309,93 ha) y Lescano–Oyuez (467,48 ha), con el arroyo de Noriega por divisoria. La ubicación fue pactada antes por «transacción» entre las partes; no hay oposición. Cada mojón se fija con tres visuales (Ombú de Noriega, iglesia de Mercedes, puestos). Dos autos aprobatorios (1/8 y 7/9/1866) y una nota de 1885: Luis Vernet pide ubicarse en las «sobras de Díaz de Vivar».",
+ "caratula": {
+  "img": "img/f/039/01.jpg",
+  "fuente": "IMG_7132.JPG",
+  "campos": [
+   [
+    "N.º",
+    "39"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Manuel Noriega"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "P. Saubidet"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1866"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Comisión; esquinero S antiguo y nuevo esquinero a 521 m; visuales",
+   "img": "img/f/039/05.jpg",
+   "fuente": "IMG_7134.JPG",
+   "nota": "Foliatura «1». Letra inclinada de Saubidet. Apellido dudoso: «Roberto Nunn [?]».",
+   "lineas": [
+    "En el partido de San Andres de Giles á veinte y uno",
+    "de Julio de mil ochocientos sesenta y seis, comisio-",
+    "nado yo el agrimensor que suscribe por despacho",
+    "de siete de Julio del presente, del Señor Juez de",
+    "Primera Instancia en lo civil, para separar de en-",
+    "tre los mojones del terreno de la propiedad de los he-",
+    "rederos de Don Manuel Noriega, un sobrante per-",
+    "teneciente á los herederos de Don Pedro Diaz de",
+    "Vivar: hecha la citacion de linderos que original",
+    "se acompaña á esta diligencia, me situé en el",
+    "mojon esquinero del angulo Sud, antiguo, del cam-",
+    "po de Noriega y que es el del angulo Oeste del",
+    "terreno de Don Francisco Lescano, el cual se de-",
+    "terminó por las visuales siguientes. Puesto de",
+    "Don Alejandro Lescano Sud sesenta y cuatro grados",
+    "quince minutos Este, id de Don Lino Vera Sud",
+    "setenta y cuatro grados treinta minutos Oeste y á",
+    "la poblacion de Don Fran^{co} Reynoso Norte treinta",
+    "grados, diez minutos Oeste. De este punto por el rum-",
+    "bo Norte cincuenta y tres grados treinta minutos Es-",
+    "te corregido y por la linea del terreno de Don Fran-",
+    "cisco Lescano, ultimamente trazada medí quinien-",
+    "tos veinte y un metros y coloqué un mojon que",
+    "debe ser, el esquinero Sud de la propiedad de los",
+    "herederos de Don Norberto Noriega y del angulo Es-",
+    "te del de Vivar; este mojon se fijó por las visuales",
+    "siguientes: Ombú de Noriega Norte veinte y ocho",
+    "grados Este, puesto de Don Roberto Nunn [?] Sud trein-",
+    "ta y un grados diez minutos Este y á la poblacion",
+    "de Don Lino Vera Sud sesenta y cinco grados Este.",
+    "Habiendo colocado una bandera alta en el punto ar-",
+    "riba, me trasladé al mojon esquinero antiguo //"
+   ],
+   "interpretacion": "San Andrés de Giles, 21 de julio de 1866. Pedro Saubidet, comisionado por despacho del 7 de julio del juez de primera instancia en lo civil, debe «separar de entre los mojones del terreno de los herederos de Don Manuel Noriega un sobrante perteneciente a los herederos de Don Pedro Díaz de Vivar». Citados los linderos, se sitúa en el esquinero S «antiguo» del campo de Noriega (ángulo O del terreno de Francisco Lescano) y lo fija por visuales: puesto de Alejandro Lescano S 64° 15′ E, puesto de Lino Vera S 74° 30′ O, población de Francisco Reynoso N 30° 10′ O. De allí, N 53° 30′ E corregido, por la línea de Lescano «últimamente trazada», mide 521 m (602 varas) y pone el mojón que será esquinero S de los herederos de Norberto Noriega y ángulo E del terreno de Vivar; lo abaliza: «Ombú de Noriega» N 28° E, puesto de Roberto Nunn [?] S 31° 10′ E, población de Lino Vera S 65° E. Deja una bandera alta y pasa al esquinero antiguo…"
+  },
+  {
+   "titulo": "Folio 1 v. · Esquinero O; iglesia de Mercedes; línea de separación (S 36° 35′ E)",
+   "img": "img/f/039/06.jpg",
+   "fuente": "IMG_7135.JPG",
+   "nota": "Apellido dudoso: «Ceferino Oyuez [?]» (en el plano «Oyuez»; el D. T. escribe «Oyuez/Ofuez»).",
+   "lineas": [
+    "// del angulo Oeste y que es del angulo Sud del",
+    "de los herederos de Don Vicente Noriega; y puesto",
+    "el instrumento sobre el mismo mojon se abali-",
+    "zó con las siguientes visuales: al puesto de Don",
+    "Roberto Sud cincuenta y ocho grados veinte y cin-",
+    "co minutos Este, á la poblacion de Don Felipe",
+    "Noriega Norte cuarenta y nueve grados veinte y",
+    "cinco minutos Este y á la Yglesia de Mercedes",
+    "Sud ochenta y cinco grados veinte y cinco minu-",
+    "tos Oeste. De aquí tomé la linea del costado Nor-",
+    "Oeste del terreno que se mide y deslindando con",
+    "el de los herederos de Don Vicente Noriega me-",
+    "dí quinientos veinte y un metros y coloqué un",
+    "mojon que debe ser el esquinero de la propiedad",
+    "de los herederos de Don Manuel Noriega, esto es, el",
+    "de angulo Oeste y del angulo Norte del terreno",
+    "de Vivar: este mojon se determinó por las visua-",
+    "les Ombú de Noriega Norte setenta y cuatro grados Es-",
+    "te, puesto de D^{n} Roberto Nunn [?] Sud ochenta grados",
+    "veinte y cinco minutos Este y poblacion de D^{n} Fran-",
+    "cisco Reynoso Sud catorce grados cincuenta y cinco mi-",
+    "nutos Este; relacioné este punto con el de la bandera colo-",
+    "cada en el esquinero Sud del terreno de los herederos de",
+    "Don Norberto Noriega y me resultó el rumbo Sud treinta",
+    "y seis grados treinta y cinco minutos Este y desde",
+    "aquí deslindando con el sobrante de la propiedad de",
+    "Vivar medí setecientas ochenta varas igual á seis-",
+    "cientos setenta y cinco metros y coloqué un mojon",
+    "esquinero de la fraccion de Don Ceferino Oyuez [?] y",
+    "de la de los herederos de Don Norberto, en la interse-",
+    "cion de la linea del costado Nord-Este del terreno de es-",
+    "tos herederos, de aquí seguí midiendo en la misma",
+    "direccion y encontré el mojon esquinero Sud á los dos //"
+   ],
+   "interpretacion": "…del ángulo O (ángulo S de los herederos de Vicente Noriega), abalizado con el puesto de «Don Roberto» S 58° 25′ E, la población de Felipe Noriega N 49° 25′ E y «la Iglesia de Mercedes» S 85° 25′ O. Sobre el costado NO, lindando con los de Vicente Noriega, mide otros 521 m y pone el mojón esquinero O de los herederos de Manuel Noriega y ángulo N del terreno de Vivar (visuales: Ombú de Noriega N 74° E, puesto de Roberto Nunn [?] S 80° 25′ E, población de Francisco Reynoso S 14° 55′ E). Une los dos mojones nuevos: S 36° 35′ E. Sobre esa línea, «deslindando con el sobrante de la propiedad de Vivar», a 780 varas (675 m) pone el esquinero común de la fracción de Ceferino Oyuez [?] y la de los herederos de Norberto; sigue y encuentra el esquinero S a…"
+  },
+  {
+   "titulo": "Folio 2 · Superficies: herederos de Manuel Noriega y fracciones de Norberto Noriega y Lescano–Oyuez",
+   "img": "img/f/039/07.jpg",
+   "fuente": "IMG_7136.JPG",
+   "nota": "Foliatura «2» (otra numeración tachada, «45»: la del expediente judicial).",
+   "lineas": [
+    "// mil dos-cientas setenta varas igual á mil seis-",
+    "cientos noventa y cinco metros y dí por concluida",
+    "la operacion.",
+    "El terreno medido para los herederos de Don Manuel",
+    "Noriega es de la figura de un cuadrilatero y su super-",
+    "ficie es de veinte y tres millones sete-cientas mil va-",
+    "ras cuadradas igual á mil sete-cientas setenta y siete",
+    "hectareas y tres mil novecientos metros cuadrados;",
+    "linda por el Nord-Este con el terreno de los herede-",
+    "ros de Don Pedro Rodriguez, por el N-Oeste con el de",
+    "los herederos de Don Vicente Noriega, por el Sud-Este",
+    "con el de Don Francisco Lescano y por el Sud-Oeste",
+    "con sobras de los herederos de Vivar.",
+    "La fraccion que le corresponde á los herederos de",
+    "Don Norberto Noriega es de la figura de un exagono",
+    "irregular tomando el arroyo de Noriega por uno de",
+    "sus lados y encierra una superficie de diez y siete",
+    "millones, cuatro-cientas sesenta y seis mil seis cien-",
+    "tas diez varas cuadradas igual á mil tres-cientas",
+    "nueve hectareas y nueve mil dos-cientos noventa",
+    "y tres metros cuadrados, linda por el Nor-Oeste con",
+    "terrenos de Don Francisco Lescano y de Don Ceferi-",
+    "no Oyuez [?], por el Nor-Este con los terrenos de los",
+    "herederos de Don Pedro Rodriguez, por el Sud-Es-",
+    "te con el de Don Francisco Lescano y por el Sud-",
+    "Oeste con sobras de los herederos de Vivar.",
+    "La fraccion de Don Francisco Lescano con la de",
+    "Don Ceferino Oyuez [?], es tambien de la figura de",
+    "un exagono irregular, tomando el arroyo de No-",
+    "riega por uno de sus lados y su superficie es",
+    "de seis millones dos-cientas treinta y tres mil",
+    "tres-cientas noventa varas cuadradas igual á",
+    "cuatro-cientas sesenta y siete hectareas y cuatro //"
+   ],
+   "interpretacion": "…las 2270 varas (1965 m [el texto dice «mil seiscientos noventa y cinco»: el plano da 1965]). El terreno que queda a los herederos de Manuel Noriega es un cuadrilátero de 23.700.000 varas² = 1777 ha 3900 m²: linda al NE con los herederos de Pedro Rodríguez, al NO con los de Vicente Noriega, al SE con Francisco Lescano y al SO «con sobras de los herederos de Vivar». Dentro de él: la fracción de los herederos de Norberto Noriega, hexágono irregular con el arroyo de Noriega por uno de sus lados, 17.466.610 v² = 1309 ha 9293 m²; y la de Francisco Lescano con Ceferino Oyuez [?], otro hexágono sobre el arroyo, 6.233.390 v² = 467 ha 4…"
+  },
+  {
+   "titulo": "Folio 2 v. · El sobrante de Vivar: 137 ha 8944 m²; linderos; firma",
+   "img": "img/f/039/08.jpg",
+   "fuente": "IMG_7137.JPG",
+   "nota": "Cargo de presentación con firma dudosa: «F. Fannini [?]».",
+   "lineas": [
+    "mil setecientos setenta y cinco metros cuadrados;",
+    "linda por el Nor-Este con el terreno de los herederos",
+    "de Don Pedro Rodriguez, por el Nor-Oeste con el de",
+    "los de Don Vicente Noriega, por el Sud-Este con el de",
+    "los herederos de Don Norberto Noriega y por el Sud-",
+    "Oeste con las sobras de los herederos de Vivar.",
+    "El terreno sobrante de la propiedad de los",
+    "herederos de Vivar, que se ha deducido de entre",
+    "los mojones de la propiedad de los herederos de Don",
+    "Manuel Noriega, es de la figura de un cuadrilate-",
+    "ro y contiene una superficie de un millon ocho-",
+    "cientas treinta y ocho mil seis cientas noventa va-",
+    "ras cuadradas igual á ciento treinta y siete hec-",
+    "tareas y ocho mil novecientos cuarenta y cuatro",
+    "metros cuadrados; linda por el Nor-Este con el ter-",
+    "reno de los herederos de Don Manuel Noriega, por",
+    "el Nor-Oeste con el de los herederos de Don Vi-",
+    "cente Noriega, por el Sud-Este con el de Don Fran-",
+    "cisco Lescano y por el Sud-Oeste con el de la",
+    "propiedad de Doña Jacoba Yramain de Achaval.",
+    "Asistieron á esta operacion todos los linderos y no",
+    "hubo oposicion de ninguna clase.",
+    "Los rumbos son todos corregidos y la varia-",
+    "cion del instrumento con que se ha medido la",
+    "misma que se encontró en cuatro de Abril del",
+    "año proximo pasado.",
+    "Pedro Saubidet",
+    "Agosto 21 de 1866.",
+    "Con esta fecha fué presentada a este De-",
+    "parta^{to} Topografico. –",
+    "F. Fannini [?]",
+    "Se //"
+   ],
+   "interpretacion": "…775 m², lindera al NE con los herederos de Pedro Rodríguez, al NO con los de Vicente Noriega, al SE con los de Norberto y al SO con las sobras de Vivar. (17.466.610 + 6.233.390 = 23.700.000 v²: las dos fracciones agotan el campo.)\nEl sobrante de los herederos de Vivar, «deducido de entre los mojones» de Noriega, es un cuadrilátero de 1.838.690 v² = 137 ha 8944 m²: linda al NE con los herederos de Manuel Noriega, al NO con los de Vicente Noriega, al SE con Francisco Lescano y al SO con Jacoba Iramain de Achával. Asistieron todos los linderos y no hubo oposición. Rumbos corregidos; la variación es «la misma que se encontró en cuatro de abril del año próximo pasado» (11° 30′ NE, Ficha 028). Firma Pedro Saubidet. Presentada al Departamento Topográfico el 21/8/1866."
+  },
+  {
+   "titulo": "Folio 3 · Informe del Departamento Topográfico",
+   "img": "img/f/039/09.jpg",
+   "fuente": "IMG_7138.JPG",
+   "nota": "Foliatura «3». Letra grande del D. T.",
+   "lineas": [
+    "// ñor Juez de 1^{a} Instancia: –",
+    "El Departamento Topografico",
+    "ha examinado la presente ubi-",
+    "cacion de los sobrantes de pro-",
+    "piedad de los sucesores de Don",
+    "Pedro Diaz de Vivar, que dentro",
+    "de los mojones del terreno de que",
+    "estaban en posesion los Herede-",
+    "ros de D. Manuel Noriega",
+    "resultaron hallarse por la",
+    "mensura de ese terreno",
+    "que el Agrimensor operante",
+    "D. Pedro Saubidet practicó",
+    "para dichos herederos en",
+    "Abril del pp^{do} año, y encon-",
+    "trando que la ubicacion",
+    "practicada está arreglada",
+    "á lo estipulado por Don",
+    "Mariano Vivar, en repre-",
+    "sentacion de los Sucesores",
+    "de D. Pedro Diaz de Vivar,",
+    "y D. Mariano Landivar //"
+   ],
+   "interpretacion": "Informe al juez: el Departamento ha examinado «la presente ubicación de los sobrantes de propiedad de los sucesores de Don Pedro Díaz de Vivar» que resultaron dentro de los mojones del terreno que poseían los herederos de Manuel Noriega, según la mensura que el mismo Saubidet les practicó en abril del año anterior (Ficha 028); y encontrando que la ubicación está arreglada a lo estipulado por Mariano Vivar, en representación de los sucesores de Pedro Díaz de Vivar, y Mariano Landívar…"
+  },
+  {
+   "titulo": "Folio 3 v. · Aprobación del D. T. (4/9/1866)",
+   "img": "img/f/039/10.jpg",
+   "fuente": "IMG_7139.JPG",
+   "nota": "La última cifra del año está empastada: se lee «1865» pero debe ser 1866.",
+   "lineas": [
+    "// por la de D^{a} Juana Mon-",
+    "tiel de Delgado y D^{a} Julia-",
+    "na Noriega de Oliva f 31 y 32,",
+    "así como que no ha habido",
+    "oposicion por parte de los",
+    "interesados D. Francisco Les-",
+    "cano y D. Ceferino Oyuez [?], la",
+    "aprueba y crée que no hay",
+    "inconveniente en que sea",
+    "aprobada judicialmente.",
+    "Buenos Aires Stbre 4 de 186[6].",
+    "Salas    Kuhr",
+    "Benoit    Casagemas"
+   ],
+   "interpretacion": "…por Juana Montiel de Delgado y Juliana Noriega de Oliva (transacción de fojas 31 y 32 del expediente), y que no hubo oposición de Francisco Lescano ni de Ceferino Oyuez [?], la aprueba y cree que no hay inconveniente en su aprobación judicial. Buenos Aires, 4 de septiembre de 1866. Salas, Kuhr, Benoit, Casagemas. El sobrante no se discute: se «transa». Los Vivar y los Noriega pactan la ubicación antes de que salga el agrimensor."
+  },
+  {
+   "titulo": "Folio 4 · Oficio del juez García Fernández: auto aprobatorio del 7/9/1866",
+   "img": "img/f/039/11.jpg",
+   "fuente": "IMG_7140.JPG",
+   "nota": "Papel sellado de 3 pesos, sello de la Provincia de Buenos Aires 1866. Foliatura «4».",
+   "lineas": [
+    "[sello:] 3 PESOS    Corresponde    [sello: PROVINCIA DE BUENOS AIRES 1866]",
+    "Buenos Aires Setbre 12/866.",
+    "[al margen:] Juzgado Civil de 1^{a} Inst^{a} – Ess^{no} Peralta.",
+    "Al Sor. Presidente del Departamen-",
+    "to Topográfico –",
+    "El infrascrito comunica á V. que la opera-",
+    "cion practicada por el Agrimensor Don",
+    "Pedro Saubidet con fecha veinte y uno de",
+    "Julio pp^{do} para ubicar el sobrante perteneciente",
+    "á los herederos de Diaz de Vivar, y que resultó",
+    "en la mensura que hizo con fecha cuatro de",
+    "Abril del año pasado en campo de propiedad de",
+    "los herederos de D^{n} Manuel Noriega,",
+    "ha sido aprobada por el Auto del tenor siguien-",
+    "te. – “Buenos Aires Setiembre siete de mil",
+    "ochocientos sesenta y seis = Autos y vistos: de",
+    "conformidad de partes se aprueba en cuanto",
+    "mas haya lugar por derecho la operacion prac-",
+    "ticada por el Agrimensor D^{n} Pedro Saubidet,",
+    "corriente de f 41 á f 42, para ubicar el sobran-",
+    "te de propiedad de los herederos Diaz de Vi-",
+    "var con arreglo á la transaccion de f 31, para",
+    "lo que el Juzgado interpone su autoridad por",
+    "medio de este auto. En su virtud comuníque-",
+    "se al Departamento Topográfico por oficio que",
+    "se librará con insercion de este auto. Dese",
+    "testimonio á los interesados si lo pidieren y sa-",
+    "tisfechas las costas, archívese. Miguel Gar-",
+    "cía Fernandez = Lo mandó y firmó el Señor",
+    "Juez de primera Instancia en lo Civil Doctor",
+    "Don Miguel García Fernandez, en Buenos Ai-",
+    "res á siete de Setiembre de mil ochocientos se-",
+    "senta y seis, doy fé. Ramon Peralta”",
+    "Dios gue á V.",
+    "Mig^{l} García Fernandez"
+   ],
+   "interpretacion": "Buenos Aires, 12/9/1866. Juzgado civil de 1.ª instancia, escribano Peralta. El juez comunica al presidente del Departamento Topográfico que la operación de Saubidet del 21 de julio «para ubicar el sobrante perteneciente a los herederos de Díaz de Vivar», resultante de su mensura del 4/4/1865, fue aprobada por auto del 7/9/1866: «de conformidad de partes se aprueba en cuanto más haya lugar por derecho… con arreglo a la transacción de f. 31, para lo que el Juzgado interpone su autoridad». Dése testimonio y archívese. Firma Miguel García Fernández; da fe Ramón Peralta."
+  },
+  {
+   "titulo": "Folio 4 v. · Decreto de Salas: «agréguese al duplicado» (18/9/1866)",
+   "img": "img/f/039/12.jpg",
+   "fuente": "IMG_7141.JPG",
+   "nota": "",
+   "lineas": [
+    "Setiembre 18/866 –",
+    "Agréguese al duplicado",
+    "correspondiente –",
+    "Salas"
+   ],
+   "interpretacion": "Providencia del presidente del Departamento, Saturnino Salas: el oficio se agrega al duplicado correspondiente."
+  },
+  {
+   "titulo": "Folio 6 · Oficio anterior del mismo juez: auto del 1/8/1866",
+   "img": "img/f/039/13.jpg",
+   "fuente": "IMG_7144.JPG",
+   "nota": "Papel sellado de 3 pesos. Foliatura «6» y «12» a tinta. No hay toma de un folio 5 (probablemente el plano).",
+   "lineas": [
+    "[sello:] 3 PESOS    [sello: PROVINCIA DE BUENOS AIRES 1866]    12",
+    "Buenos Aires Agosto 3/866. –",
+    "[al margen:] Juzgado Civil de 1^{a} Inst^{a} – Ess^{no} Peralta.",
+    "Al Señor Presidente del Departamento",
+    "Topográfico. –",
+    "El Juez que firma participa á V. que la operacion",
+    "practicada por el Agrimensor Don Pedro Saubidet",
+    "con fecha veinte y uno de Julio del corriente año,",
+    "para ubicar el sobrante que resultó en la mensu-",
+    "ra que el mismo practicó con fecha cuatro de Abril",
+    "de mil ochocientos sesenta y cinco, en un campo perte-",
+    "neciente á los herederos de D^{n} Manuel Noriega; ha",
+    "sido aprobada por el auto del tenor siguiente = “Buenos",
+    "Aires Agosto 1^{o} de 1866. – Autos y vistos: de conformi-",
+    "dad de partes se aprueba en cuanto mas haya lu-",
+    "gar por derecho la operacion practicada por el Agri-",
+    "mensor Saubidet, corriente de fojas cuarenta y",
+    "cuatro á cuarenta y cinco para ubicar el sobrante",
+    "de propiedad de los herederos Diaz de Vivar con",
+    "arreglo á la transaccion de fojas treinta y una, pa-",
+    "ra lo que interpone el Juzgado su autoridad por",
+    "medio de este auto. En su virtud comuníquese",
+    "al Departamento Topográfico por oficio que se",
+    "librará con insercion del presente auto – dese tes-",
+    "timonio á los interesados si lo pidieren y satisfechas",
+    "las costas archívese. – Miguel García Fernan-",
+    "dez – Lo mandó y firmó el Señor Juez de pri-",
+    "mera Instancia en lo Civil doctor Don Mi-",
+    "guel García Fernandez, en Buenos Aires á",
+    "primero de Agosto de mil ochocientos sesenta",
+    "y seis doy fé = Ramon Peralta”. –",
+    "Dios gue á V. –",
+    "Mig^{l} García Fernandez"
+   ],
+   "interpretacion": "Buenos Aires, 3/8/1866. Primer oficio del juez García Fernández: la misma operación fue aprobada por auto del 1/8/1866, «de conformidad de partes», corriente «de fojas cuarenta y cuatro a cuarenta y cinco», con arreglo a la transacción de fojas 31. Hay, entonces, DOS autos aprobatorios (1/8 y 7/9/1866) con distinta foliatura del expediente (44-45 y 41-42): el primero se dictó antes del informe del Departamento Topográfico (4/9) y hubo de repetirse después."
+  },
+  {
+   "titulo": "Folio 6 v. · Decreto de Salas (7/8/1866) y nota de 1885: Luis Vernet pide ubicarse en las «sobras»",
+   "img": "img/f/039/14.jpg",
+   "fuente": "IMG_7145.JPG",
+   "nota": "Dos manos y dos épocas. La nota de 1885, de letra muy cursiva, es de lectura difícil.",
+   "lineas": [
+    "Agosto 7 de 1866 –",
+    "Agréguese al duplicado",
+    "de su referencia –",
+    "Salas",
+    "Setiembre 3/85 –",
+    "D^{n} Luis Vernet solicita ubic^{n}",
+    "en el terreno designado bajo el",
+    "nombre de sobras de Diaz de",
+    "Vivar. – inf. Sbre 25/85",
+    "Lagos"
+   ],
+   "interpretacion": "7/8/1866: «Agréguese al duplicado de su referencia». Salas.\nDiecinueve años después: «Setiembre 3/85. Don Luis Vernet solicita ubicación en el terreno designado bajo el nombre de sobras de Díaz de Vivar. Informado, septiembre 25/85». Firma Lagos. El residuo de la merced del siglo XVII sigue produciendo expedientes en 1885."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del campo de Noriega con la faja de «sobras de los herederos de Vivar»",
+   "img": "img/f/039/03.jpg",
+   "fuente": "IMG_7142.JPG",
+   "orientacion": "Pliego a tinta; flecha de variación arriba; doble escala gráfica «Varas» y «metros» (0-6000); firmado Pedro Saubidet. A lápiz, al margen, «75 ms».",
+   "interpretacion": "Rectángulo largo de rumbo N 53° 30′ E. Arriba (NE), «Herederos de D.n Pedro Rodríguez»; a la izquierda (NO), «Herederos de Don Vicente Noriega»; a la derecha (SE), «Francisco Lescano»; al pie (SO), «Jacoba Yramain de Achával». El campo está partido a lo largo: la mitad NO, hasta el «arroyo de Noriega», es de «Francisco Lescano / Ceferino Oyuez»; el resto, de los «Herederos de Don Norberto Noriega» («Superf.e 17.466.610 v.s c.s = 1309 h.s 9293 m.s c.s»). El arroyo corta el campo en diagonal y la divisoria lo sigue con tres ordenadas escalonadas. Al pie, entre el campo y Achával, la faja nueva: «Sobras de los herederos de Vivar. Superf.e 1.838.690 v.s c.s = 137 hect. 8944 m.s c.s», de 602 v = 521 m de ancho por 3050 v = 2641 m. La línea de Achával hace un quiebro bajo la faja.",
+   "referencias": [
+    [
+     "Costados",
+     "N 53° 30′ E: 8338 v = 7224,5 m (campo) + 602 v = 521 m (sobras)"
+    ],
+    [
+     "Línea de separación",
+     "S 36° 35′ E, 3050 v = 2641 m; sobre ella 780 v (675 m) + 2270 v (1965 m)"
+    ],
+    [
+     "Divisoria interna",
+     "N 53° 30′ E, 4284 v = 3710 m (Oyuez / Norberto Noriega) hasta el arroyo; ordenadas"
+    ],
+    [
+     "Fracción Norberto Noriega",
+     "17.466.610 v² = 1309 ha 9293 m²"
+    ],
+    [
+     "Fracción Lescano–Oyuez",
+     "6.233.390 v² = 467 ha 4775 m² (según el texto)"
+    ],
+    [
+     "Sobras de Vivar",
+     "1.838.690 v² = 137 ha 8944 m²"
+    ],
+    [
+     "Aguas",
+     "Arroyo de Noriega"
+    ],
+    [
+     "Linderos",
+     "Her. de Pedro Rodríguez · her. de Vicente Noriega · Francisco Lescano · Jacoba Iramain de Achával"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: arroyo de Noriega y divisoria interna",
+   "img": "img/f/039/04.jpg",
+   "fuente": "IMG_7143.JPG",
+   "orientacion": "Toma parcial, girada 90° respecto de la lámina.",
+   "interpretacion": "Se leen «Francisco Lescano / Ceferino Oyuez», «Herederos de Don Norberto Noriega» con su superficie, el «Arroyo de Noriega» con los mojones «M. de Oyuez», «M. de Lescano» y «M. de Noriega» en los quiebros, y la faja de sobras con sus cotas.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "El sobrante que no es fiscal",
+   "texto": "En 1865 (Ficha 028) Saubidet halló que entre los mojones de Noriega sobraba tierra y la atribuyó al titular originario, Díaz de Vivar. Mientras en los campos vecinos el excedente se denuncia como tierra pública (Fichas 033-038), aquí pertenece a los herederos del vendedor: es el resto no vendido de la merced Dávila-Vergara-Vivar. Un año después, los Vivar (Mariano Vivar y Mariano Landívar) y los Noriega (Juana Montiel de Delgado y Juliana Noriega de Oliva) «transan» su ubicación y el agrimensor sólo la ejecuta: una faja de 602 varas en el fondo SO."
+  },
+  {
+   "titulo": "Dónde se pone lo que sobra",
+   "texto": "El sobrante se manda al fondo, contra Achával, lejos del arroyo y de las casas. El campo útil se recorta sin tocar las fracciones ya repartidas entre los herederos de Norberto Noriega y los compradores Lescano y Oyuez, cuyas áreas suman exactamente 23.700.000 v². Es la misma solución que en 033 y 034: el excedente se convierte en una tira periférica."
+  },
+  {
+   "titulo": "Técnica: esquineros por intersección",
+   "texto": "Saubidet «determina» cada mojón con tres visuales a poblaciones —puestos de Alejandro Lescano, Lino Vera, Roberto Nunn [?]; poblaciones de Francisco Reynoso y Felipe Noriega; el «Ombú de Noriega»; la iglesia de Mercedes—. Son 12 rumbos desde 4 puntos: material directo para reconstrucción por intersección inversa en GIS, sumable a las tablas de 032, 034, 036 y 038. Varas y metros a la par, como en 1865; no observa variación nueva: reutiliza la del 4/4/1865."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "El arroyo de Noriega como lado natural de dos hijuelas (ya en 028). Un ombú con nombre de familia como punto geodésico (tercer árbol-vértice del corpus, tras el ombú de Petrona López y el paraíso de Enrique Rodríguez). La iglesia de Mercedes visible al S 85° 25′ O desde el esquinero O: el campo mira hacia Mercedes, no hacia Giles. Puestos antes que casas: ganadería extensiva."
+  },
+  {
+   "titulo": "Trámite: dos autos para una operación",
+   "texto": "El juez García Fernández aprueba el 1/8/1866, once días después de la mensura y antes del informe del Departamento Topográfico (4/9); vuelve a aprobar el 7/9. Los dos oficios citan fojas distintas del expediente (44-45 y 41-42), señal de refoliación. El Departamento agrega ambos al duplicado. En 1885 «Luis Vernet» pide ubicarse en las «sobras de Díaz de Vivar»: la faja de 137 ha seguía sin dueño efectivo, o era ya un derecho negociable."
+  },
+  {
+   "titulo": "Cruces y preguntas abiertas",
+   "texto": "Ficha 028 (mensura madre, 4/4/1865), 037 (Lescano, Achával y Reynoso; la «línea prolongada de los mojones de Díaz de Vivar»; los 866 m de Noriega comprados por Frías), 031, 035 y 036 (merced de Vivar). No hay toma del folio 5. Verificar el apellido «Oyuez» (¿Oyuela, Ohuez?) y «Nunn». ¿Quién es el Luis Vernet de 1885? El comandante de Malvinas murió en 1871; podría ser su hijo homónimo (sin confirmar). Buscar el expediente judicial (fs. 31-32: la transacción)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Pedro Saubidet",
+   "rol": "Agrimensor",
+   "texto": "Ayudante de German Kuhr en 1856 (Ficha 020), agrimensor público desde 1863; midió el campo de Noriega en abril de 1865 (Ficha 028) y la testamentaría de Martínez (citado en 037). Vuelve aquí a completar su propia mensura.",
+   "fuentes": "Fichas 020, 028, 037."
+  },
+  {
+   "nombre": "Herederos de Manuel Noriega (Norberto, Vicente, Felipe, Juliana Noriega de Oliva; Juana Montiel de Delgado)",
+   "rol": "Propietarios",
+   "texto": "Manuel Noriega compró en 1823 parte de la suerte de Felipe Antonio Martínez (Fichas 028, 029). En 1866 el campo está en manos de los herederos de su hijo Norberto y de dos compradores (Lescano y Oyuez); los herederos de Vicente Noriega son linderos; Felipe Noriega tiene población. El arroyo y un ombú llevan el apellido.",
+   "fuentes": "Ficha 028; esta mensura."
+  },
+  {
+   "nombre": "Herederos de Pedro Díaz de Vivar (Mariano Vivar; Mariano Landívar)",
+   "rol": "Dueños del sobrante",
+   "texto": "Pedro Díaz de Vivar recibió en 1793 la donación de Teodora de Leiva (merced de Dávila, 1635) y vendió suertes en 1804-05 (Fichas 031, 036). Sus sucesores conservan en 1866 derechos sobre los restos no vendidos: «sobras».",
+   "fuentes": "Fichas 028, 031, 036."
+  },
+  {
+   "nombre": "Francisco Lescano · Ceferino Oyuez [?]",
+   "rol": "Compradores y linderos",
+   "texto": "Lescano es lindero SE del campo y condómino de una fracción dentro de él; el mismo apellido (Félix, Alejandro) aparece en 037. Oyuez: apellido de lectura insegura, sin datos.",
+   "fuentes": "Fichas 028, 037."
+  },
+  {
+   "nombre": "Jacoba Iramain de Achával",
+   "rol": "Lindera so",
+   "texto": "Del linaje santiagueño-porteño Iramain / Achával, ya registrado en el corpus («Achával/Yramain»). Su campo es el «Achával» que en 037 representa Francisco Reynoso. La búsqueda web no dio datos directos.",
+   "fuentes": "Ficha 037; búsqueda web sin resultados."
+  },
+  {
+   "nombre": "Vecinos con visual",
+   "rol": "Poblaciones",
+   "texto": "Alejandro Lescano (puesto), Lino Vera (puesto y población), Francisco Reynoso (población; representante de Achával en 037), Roberto Nunn [?] (puesto; británico), Felipe Noriega; herederos de Pedro Rodríguez (linderos NE).",
+   "fuentes": "Ficha 037."
+  },
+  {
+   "nombre": "Dr. Miguel García Fernández · Ramón Peralta",
+   "rol": "Juez civil y escribano",
+   "texto": "El mismo juez de la mensura de 1865 (Ficha 028). Dicta dos autos aprobatorios (1/8 y 7/9/1866).",
+   "fuentes": "Ficha 028."
+  },
+  {
+   "nombre": "Luis Vernet (1885) · Lagos",
+   "rol": "Solicitante posterior e informante",
+   "texto": "En septiembre de 1885 un Luis Vernet pide «ubicación» en las sobras de Vivar; informa Lagos (¿Carlos Lagos, del Departamento de Ingenieros?). No puede ser el primer comandante de Malvinas (†1871); quizá su hijo. Sin confirmar.",
+   "fuentes": "Esta mensura; dato general sobre Vernet."
+  },
+  {
+   "nombre": "Departamento Topográfico",
+   "rol": "Autoridad",
+   "texto": "Salas, Kuhr, Benoit, Casagemas (4/9/1866); cargo de presentación firmado «F. Fannini [?]».",
+   "fuentes": "Fichas 033-038."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/039/02.jpg",
+  "fuente": "IMG_7133.JPG",
+  "lineas": [
+   "Seccion Areco    Giles 39",
+   "N 189.–",
+   "Duplicado de la operacion practicada para deducir",
+   "de entre los mojones del terreno de la pro-",
+   "piedad de los herederos de Don Manuel Noriega",
+   "un sobrante perteneciente á los herederos de",
+   "Don Pedro Diaz de Vivar: situado en el partido",
+   "de Giles.",
+   "Por el agrimensor Saubidet",
+   "[a lápiz, abajo:] Diaz de Vivar"
+  ]
+ },
+ "titulo": "Her. de M. Noriega · sobras de Díaz de Vivar",
+ "estado": "Transcripta (10 hojas, 247 renglones), 2 láminas"
+}

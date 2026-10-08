@@ -1,0 +1,544 @@
+{
+ "carpeta": "32",
+ "carpeta_nombre": "Carpeta 32",
+ "archivo": "Ficha 032 - Herederos de José Gabriel Duarte (1862).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles («Sección Luján» en la portadilla)",
+  "N.º de duplicado": "32 (portadilla «Sección Areco N.º 140»)",
+  "Propietario / solicitante": "Herederos de D. José Gabriel Duarte",
+  "Agrimensor": "Esteban Gonnet",
+  "Año": "1862",
+  "Fecha de la diligencia": "Observaciones 11-13/7/1862; firma 12/7/1862; D. T. 24/10/1862",
+  "Ubicación": "Entre el arroyo de Giles y la línea Vivar–Arellano; arroyo de San Juan",
+  "Orden judicial": "Juez de 1.ª instancia Dr. Juan A. García",
+  "Vendedor / antecesor": "F. E. Suero → J. G. Duarte (1796); Hidalgo/Vidal → D. Zárate (1827)",
+  "Linderos citados": "L. Torres (ex Pividal) · her. de Sosa · Riestra · V. Peñalva · T. Rodríguez · Díaz de Vivar",
+  "Medidas": "≈ 1360 ha (estimado); lados 9645 m, 1535 m, 8079 m",
+  "Rumbos": "Verdaderos; variación 11° 17′-11° 24′ NE; latitudes 34° 25′-34° 28′ S",
+  "Referencia de archivo": "Duplicado 32; «Sección Areco N.º 140»; copia de plano 1953"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 1360 (estimado; la superficie no figura en las tomas)",
+  "hitos": "Mojón de piedra azul; mojones de ñandubay; tapera de Duarte; quinta de Torres; ombú de P. López; miradores y azoteas",
+  "aguas": "Arroyo de Giles; arroyo de San Juan / Cañada de San Juan; arroyo del Sauce"
+ },
+ "sintesis": "Mensura de Esteban Gonnet —el fotógrafo de los «Recuerdos de la Campaña de Buenos-Ayres»— para los herederos de José Gabriel Duarte (julio de 1862), entre el arroyo de Giles y la línea divisoria de las mercedes de Díaz de Vivar y Arellano. Duarte compró a Suero en 1796 sin escritura (sucesión litigiosa); Zárate, segundo marido de su viuda, recibió en 1827 1700 v con 200 más «para salvar» la población, hoy «tapera» que fija el campo. Plano general de todas las ventas de los albaceas Suero, con el «Oratorio de Giles». Tres latitudes (34° 25′-28′ S) y tres variaciones solares (11° 17′-24′ NE); visuales a chimeneas, miradores y un ombú. D. T. 24/10/1862.",
+ "caratula": {
+  "img": "img/f/032/01.jpg",
+  "fuente": "IMG_7031.JPG",
+  "campos": [
+   [
+    "N.º",
+    "32"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "José Gabriel Duarte"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Estevan Gonnet"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1862"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Suero vende a Duarte (1796); sucesión litigiosa; Hidalgo vende a Zárate (1827)",
+   "img": "img/f/032/06.jpg",
+   "fuente": "IMG_7033.JPG",
+   "nota": "Sello con foliatura «1». Letra redonda muy regular (copia en limpio). «D.n D.o Hidalgo»: probable «Domingo».",
+   "lineas": [
+    "Extracto de los titulos de propiedad de un",
+    "terreno perteneciente a los herederos de D.^{n} José",
+    "Gabriel Duarte en el partido de Giles.",
+    "En Buenos-ayres a veinte y ocho de Junio de mil",
+    "setecientos noventa y seis D.^{n} Francisco Estevan",
+    "Suero vende a D.^{n} José Gabriel Duarte un",
+    "terreno compuesto de tres mil varas de frente",
+    "a la Cañada de Giles con el fondo correspondiente",
+    "en la cantidad de trescientos setenta y cinco",
+    "pesos.",
+    "En cinco de Agosto del mismo año aparece",
+    "por orden del Juzgado de Segundo voto una",
+    "nota marginal mandando no se otorgue",
+    "instrumento alguno de las tierras que perte",
+    "necian al finado D.^{n} Juan Francisco Suero",
+    "aunque comparesca su hijo D.^{n} Fr.^{co} Estevan",
+    "Suero por estar litigiosa la sucesion.",
+    "En Buenos-ayres a veinte y dos de Abril de",
+    "mil ochocientos veinte y siete D.^{n} Manuel",
+    "Obligado a nombre de los herederos de D.^{n}",
+    "José Fr.^{co} Vidal y de los herederos del finado",
+    "D.^{n} D.^{o} Hidalgo y D.^{n} Juan Dionicio Hidalgo",
+    "por si venden a D.^{n} Damaso Zarate mil",
+    "setecientas varas de frente al Arroyo de Giles",
+    "y el fondo hasta tocar con los terrenos que",
+    "fueron de D.^{n} Pedro Diaz de Vivar, lindando",
+    "por un costado con D.^{n} Santiago Sosa y por",
+    "el otro con D.^{n} Vicente Peñalva siendo estas",
+    "mil setecientas varas parte de tres mil",
+    "varas a que D.^{n} Damaso Zarate y D.^{n} Santiago",
+    "Sosa pretendian propiedad por haber",
+    "dado sus autores alguna cantidad por",
+    "el mismo identico terreno y quedando",
+    "para Sosa mil trescientas varas — Dichas"
+   ],
+   "interpretacion": "Extracto de títulos de los herederos de José Gabriel Duarte, partido de Giles. El 28/6/1796 Francisco Esteban Suero vende a Duarte 3000 v de frente a la Cañada de Giles con su fondo, por 375 pesos. El 5/8/1796 el Juzgado de Segundo Voto anota al margen que no se otorgue instrumento alguno de las tierras del finado Juan Francisco Suero aunque comparezca su hijo Francisco Esteban, «por estar litigiosa la sucesión»: la venta quedó sin escritura.\nEl 22/4/1827 Manuel Obligado, por los herederos de José Francisco Vidal y del finado D[omingo?] Hidalgo, y Juan Dionisio Hidalgo por sí, venden a Dámaso Zárate 1700 v de frente al arroyo de Giles, con fondo hasta las tierras de Pedro Díaz de Vivar, entre Santiago Sosa y Vicente Peñalva: parte de 3000 v que Zárate y Sosa reclamaban «por haber dado sus autores alguna cantidad por el mismo idéntico terreno»; a Sosa le quedan 1300 v…"
+  },
+  {
+   "titulo": "Folio 1 v. · La población de Duarte decide la línea; comisión de la mensura",
+   "img": "img/f/032/07.jpg",
+   "fuente": "IMG_7034.JPG",
+   "nota": "",
+   "lineas": [
+    "mil setecientas varas importaron ochocientos",
+    "cincuenta pesos de los cuales se rebajaron",
+    "los trescientos setenta y cinco pesos ya",
+    "entregados a D.^{n} Fr.^{co} Estevan Suero —",
+    "Nota D.^{n} Damaso Zarate era segundo con",
+    "sorte de la viuda de D.^{n} José Gabriel Duarte",
+    "y en el titulo de Sosa se esplica que despues",
+    "de haber convenido Zarate y Sosa en partir",
+    "las tres mil varas disputadas en dos partes",
+    "iguales se vio en el acto de la mensura",
+    "que la poblacion de Zarate iba a quedar",
+    "en terreno de Sosa y que para salvar",
+    "dicha poblacion se dieron doscientas",
+    "varas mas a Zarate — Esta poblacion",
+    "de Zarate era la misma en que habia",
+    "vivido D.^{n} José Gabriel Duarte.",
+    "Mensura — Yo el agrimensor que suscribe",
+    "comisionado por el S.^{r} Juez de 1.^{a} Ynstancia",
+    "D.^{r} D.^{n} Juan A. Garcia para medir",
+    "el terreno de propiedad perteneciente",
+    "a los herederos de D.^{n} José Gabriel Duarte",
+    "en el partido de Giles di principio a",
+    "la operacion reconociendo como se ve en",
+    "el plano la posicion de todos los titulos",
+    "que proceden de ventas hechas por los",
+    "albaceas de la testamentaria de D.^{n} Juan",
+    "Francisco Suero desde el terreno conocido",
+    "por el de los Monsalvos hasta encontrar",
+    "la linea de mojones del terreno medido",
+    "por el agrimensor D.^{n} Manuel Eguia",
+    "para D.^{ña} Maria Maura Pividal viuda",
+    "de D.^{n} Rafael Pividal quien lo tuvo por",
+    "compra que hizo a D.^{n} Juan Pablo Rodriguez.",
+    "Estos titulos son los siguientes: D.^{n} Pedro",
+    "Miguel"
+   ],
+   "interpretacion": "…Las 1700 v costaron 850 pesos, de los que se descontaron los 375 ya pagados a Suero en 1796. Nota: Dámaso Zárate era el segundo marido de la viuda de Duarte; al partir con Sosa las 3000 v disputadas, en el acto de la mensura se vio que «la población de Zárate iba a quedar en terreno de Sosa» y, «para salvar dicha población», se le dieron 200 v más: esa población era la misma en que había vivido José Gabriel Duarte.\nMensura: el agrimensor, comisionado por el juez Dr. Juan A. García, reconoce en el plano la posición de todos los títulos que proceden de ventas de los albaceas de Juan Francisco Suero, desde el terreno «de los Monsalvos» hasta la línea de mojones medida por Manuel Eguía para María Maura Pividal, viuda de Rafael Pividal, que la compró a Juan Pablo Rodríguez…"
+  },
+  {
+   "titulo": "Folio 2 · La serie de títulos Suero y una sobreposición resuelta por la Cámara",
+   "img": "img/f/032/08.jpg",
+   "fuente": "IMG_7035.JPG",
+   "nota": "Foliatura «2». «para» testado y reemplazado por «entre».",
+   "lineas": [
+    "Miguel Figueroa, dos mil varas; D.^{n}",
+    "Mauricio Figueroa, dos mil varas; D.^{n}",
+    "Santiago Sosa, dos mil novecientas cincuenta",
+    "varas; D.^{n} Damaso Zarate segundo consorte",
+    "de la viuda de D.^{n} José Gabriel Duarte,",
+    "mil setecientas varas; D.^{n} Vicente Peñalva,",
+    "tres mil varas; D.^{ña} Jacinta Peñalva, dos",
+    "mil varas; D.^{n} N. Ponce, quinientas varas;",
+    "Pero es preciso advertir que habia una",
+    "sobreposicion del titulo de D.^{n} Mauricio Fi-",
+    "gueroa con el de D.^{n} Santiago Sosa como",
+    "lo demuestra el adjunto titulo de D.^{n} S. Sosa.",
+    "Pues segun este documento entre el terreno de",
+    "Zarate y el de D.^{n} Pedro Miguel Figueroa",
+    "se encontraron solamente dos mil novecientas",
+    "cincuenta varas que fueron vendidas a Sosa",
+    "pero al año siguiente aparecen dos mil",
+    "varas vendidas a D.^{n} Mauricio Figueroa en",
+    "seguida de las de Sosa y antes de las de P.",
+    "Miguel Figueroa. Despues de un largo",
+    "pleito la Camara de Justicia adjudicó a",
+    "D.^{n} Mauricio Figueroa mil quinientas varas",
+    "que son las que hoy posee D.^{n} Alvaro de la",
+    "Riestra. Debe quedar pues el titulo de",
+    "Sosa reducido a mil cuatrocientas cin",
+    "cuenta varas. En el reconocimiento que",
+    "practiqué de todos estos terrenos resultaron",
+    "los titulos completos con arreglo a las modi",
+    "ficaciones arriba mencionadas de los dos titulos",
+    "de Sosa y de Mauricio Figueroa es decir",
+    "adoptando un frente de dos mil novecientas",
+    "cincuenta varas ~~para~~ entre ambos. No encontré",
+    "exceso ninguno. Determinada así la",
+    "ubicacion que se debia dar al terreno que",
+    "se iba a medir me trasladé a un mojon",
+    "antiguo"
+   ],
+   "interpretacion": "Títulos: Pedro Miguel Figueroa 2000 v; Mauricio Figueroa 2000; Santiago Sosa 2950; Dámaso Zárate 1700; Vicente Peñalva 3000; Jacinta Peñalva 2000; N. Ponce 500. Había sobreposición entre Mauricio Figueroa y Santiago Sosa: entre Zárate y P. M. Figueroa sólo había 2950 v, vendidas a Sosa, pero al año siguiente aparecen 2000 v vendidas a Mauricio Figueroa en el mismo lugar. Tras «un largo pleito» la Cámara de Justicia adjudicó a Mauricio Figueroa 1500 v —las que hoy posee Álvaro de la Riestra (Ficha 006)— y el título de Sosa queda reducido a 1450. Con esas modificaciones (2950 v entre ambos), los títulos quedan completos y no hay exceso. Ubicado así el terreno, va a un mojón antiguo…"
+  },
+  {
+   "titulo": "Folio 2 v. · Mojón de piedra azul; la quinta de Lorenzo Torres; mojones de ñandubay",
+   "img": "img/f/032/09.jpg",
+   "fuente": "IMG_7036.JPG",
+   "nota": "Rumbos «verdaderos» (corregidos); cada distancia en metros = varas.",
+   "lineas": [
+    "antiguo de piedra azul que se halla a doce",
+    "metros de la margen oriental del arroyo de",
+    "Giles en un zanjoncito que va a caer al arroyo.",
+    "Este mojon es el mismo de donde el agrimensor",
+    "D.^{n} Teodoro Differt arrancó la mensura que",
+    "practicó para D.^{n} Lorenzo Torres como procedente",
+    "del terreno de D.^{n} Rafael Pividal y contra",
+    "la cual protestaron los herederos de Duarte.",
+    "De este mojon medí al Sud cuarenta y",
+    "siete grados y cincuenta y siete minutos",
+    "Este verdadero, nueve mil seiscientos cuarenta",
+    "y cinco metros = once mil ciento treinta y",
+    "siete varas = hasta topar con la linea divi",
+    "soria de los terrenos que fueron de D.^{n} Pedro",
+    "Diaz de Vivar con los que fueron de Arellano",
+    "y despues de Suero de cuyos ultimos es",
+    "parte el terreno que se iba midiendo.",
+    "No encontrandose el mojon esquinero hice",
+    "clavar en este punto un mojon de ñandubay",
+    "como esquinero Este. En este rumbo hice clavar",
+    "mojones a cada tercio de legua, a los tres",
+    "cientos veinte y cinco metros entré a la",
+    "quinta de D.^{n} Lorenzo Torres y salí de ella",
+    "a los seiscientos veinte metros, a los dos",
+    "mil ciento setenta y ocho metros = dos mil",
+    "quinientas quince varas = dejé a veinte",
+    "metros a la derecha un mojon de ñandubay",
+    "colocado por el agrimensor Differt como",
+    "esquinero Sud de la fraccion de terreno",
+    "que D.^{n} Lorenzo Torres tiene comprada",
+    "a los herederos de Sosa; a los tres mil",
+    "setecientos cincuenta y seis metros = cuatro",
+    "mil trescientas treinta y siete varas =",
+    "pasé por un mojon de piedra antiguo",
+    "a los seis mil veinte y nueve metros = seis",
+    "mil"
+   ],
+   "interpretacion": "…«de piedra azul», a 12 m de la margen oriental del arroyo de Giles «en un zanjoncito que va a caer al arroyo»: el mismo del que arrancó Differt para Lorenzo Torres (Ficha 023), mensura contra la que protestaron los herederos de Duarte. Mide al S 47° 57′ E verdadero 9645 m = 11.137 v hasta la línea divisoria de las tierras de Pedro Díaz de Vivar con las de Arellano y después de Suero. No halla el esquinero y clava uno de ñandubay (esquinero E), con mojones cada tercio de legua. A 325 m entra en la quinta de Lorenzo Torres y sale a 620 m; a 2178 m deja a 20 m a la derecha el mojón de ñandubay de Differt (esquina S de la fracción que Torres compró a los herederos de Sosa); a 3756 m pasa por un mojón de piedra antiguo; a 6029 m…"
+  },
+  {
+   "titulo": "Folio 3 · La tapera de Duarte; arroyo de San Juan; rancho de Gervasia Duarte",
+   "img": "img/f/032/10.jpg",
+   "fuente": "IMG_7037.JPG",
+   "nota": "Foliatura «3». «dos» testado, «ocho» sobrepuesto; «tres» interlineado. La última cifra queda cortada al pie.",
+   "lineas": [
+    "mil novecientas sesenta y dos varas = dejé a",
+    "ocho metros a la derecha la esquina norte de",
+    "la tapera de D.^{n} José Gabriel Duarte. Del",
+    "mojon esquinero Este que se acababa de clavar",
+    "medí al Sud cincuenta y ~~dos~~ ^{ocho} grados y treinta",
+    "y un minutos Oeste verdadero y por la linea",
+    "de D.^{n} Pedro Diaz de Vivar, mil quinientos treinta",
+    "y cinco metros = mil setecientas setenta y tres",
+    "varas y a donde remataron hice clavar un",
+    "mojon de ñandubay como esquinero Sud del",
+    "terreno que se medía. En este rumbo y a los",
+    "ciento ocho metros = ciento veinte y cinco varas",
+    "= encontré el mojon esquinero Este del terreno",
+    "medido por el agrimensor D.^{n} Teodoro Differt",
+    "para D.^{n} Lorenzo Torres como procedente de",
+    "D.^{n} Rafael Pividal, a los mil noventa metros",
+    "cruzé el arroyo de San Juan. Del mojon",
+    "esquinero Sud que acababa de hacer clavar y",
+    "que tiene con el esquinero Sud del terreno",
+    "medido para D.^{n} Lorenzo Torres la misma",
+    "differencia que se encontró entre los dos",
+    "esquineros Este medí al norte cuarenta y",
+    "siete grados y cincuenta y siete minutos",
+    "Oeste verdadero, ocho mil setenta y nueve",
+    "metros = nueve mil ^{tres}cientas veinte varas = hasta",
+    "el Arroyo de Giles. En este rumbo hize clavar",
+    "mojones de ñandubay a cada media legua",
+    "a los mil seiscientos veinte y tres metros = mil",
+    "ochocientas setenta y cinco varas = dejé a doce",
+    "metros a la derecha el rancho de D.^{ña} Gervacia",
+    "Duarte; a los dos mil novecientos catorce",
+    "metros = tres mil trescientas sesenta y cinco varas =",
+    "dejé a sesenta metros a la izquierda un mojon",
+    "de la mensura del agrimensor D.^{n} Teodoro Differt",
+    "a los cuatro mil ochenta metros = cuatro mil",
+    "setecientas"
+   ],
+   "interpretacion": "…= 6962 v deja a 8 m a la derecha «la esquina norte de la tapera de D. José Gabriel Duarte». Desde el esquinero E, al S 58° 31′ O verdadero por la línea de Díaz de Vivar, 1535 m = 1773 v: esquinero S de ñandubay; a 108 m (125 v) halla el esquinero E de la mensura de Differt para Torres, y a 1090 m cruza el arroyo de San Juan. Desde el esquinero S, con la misma diferencia hallada entre los esquineros E, mide al N 47° 57′ O 8079 m = 9320 v hasta el arroyo de Giles, con mojones de ñandubay cada media legua: a 1623 m deja a 12 m a la derecha «el rancho de D.ª Gervasia Duarte»; a 2914 m, a 60 m a la izquierda, un mojón de Differt; a 4080 m…"
+  },
+  {
+   "titulo": "Folio 3 v. [?] · La condición del título: la antigua población, hoy tapera",
+   "img": "img/f/032/11.jpg",
+   "fuente": "IMG_7038.JPG",
+   "nota": "Hoja casi en blanco (se transparenta el dorso). La foliatura salta de 3 a 5: puede faltar una hoja entre las tomas 7037 y 7038 (cierre del perímetro y superficie).",
+   "lineas": [
+    "[posible laguna entre la toma anterior y ésta]",
+    "varas y al mismo tiempo se encuentra",
+    "llenada la condicion que sirve de base",
+    "a estos titulos, cual es dejar en campo",
+    "de Duarte su antigua poblacion que",
+    "hoy es tapera.",
+    "Partido de Giles 12 de Julio de 1862",
+    "E. Gonnet"
+   ],
+   "interpretacion": "…«y al mismo tiempo se encuentra llenada la condición que sirve de base a estos títulos, cual es dejar en campo de Duarte su antigua población que hoy es tapera». Partido de Giles, 12/7/1862, firma E. Gonnet. La vivienda originaria de Duarte —ya tapera— es el hito que legitima la ubicación del campo: el título de 1827 se había trazado para «salvar» esa población."
+  },
+  {
+   "titulo": "Folio 5 · Visuales de los esquineros y latitudes observadas",
+   "img": "img/f/032/12.jpg",
+   "fuente": "IMG_7039.JPG",
+   "nota": "Foliatura «5». La hoja fue fotografiada invertida. Ángulos en azimut de 0° a 360° (no en rumbos por cuadrantes). ☉ = Sol.",
+   "lineas": [
+    "Visuales de los mojones esquineros.",
+    "Mojon esquinero Norte.",
+    "Chimenea de la casa de D.^{n} Lorenzo Torres 101° 01'",
+    "Mojinete del puesto de D.^{n} Vicente de Hoz 236° 46'",
+    "Mirador de D.^{n} José Figueroa 356° 45'",
+    "Mojon esquinero Este.",
+    "Puesto de D.^{n} Hermenegildo Riestra 22° 20'",
+    "Esquina norte de la azotea de Ormachea 54° 14'",
+    "Mirador de D.^{n} Pascual Rodriguez 197° 08'",
+    "Mojon esquinero Sud.",
+    "Esquina norte de la azotea de Ormachea 51° 34'",
+    "Mirador de D.^{n} Pascual Rodriguez 155° 51'",
+    "Casa de D.^{n} Tadeo Rodriguez 294° 34'",
+    "Mojon esquinero Oeste.",
+    "Ombu de D.^{ña} Petrona Lopez 196° 17'",
+    "Mirador de D.^{n} José Figueroa 354° 57'",
+    "Mojinete del puesto de D.^{n} Vicente de Hoz 333° 29'",
+    "El Viernes once de Julio de 1862 en el mojon",
+    "esquinero Este se observó la alt. meridiana",
+    "del ☉ en 33° 44' resultando una latitud",
+    "de 34° 27' Sud.",
+    "El Sabado 12 de Julio de 1862 en el mojon",
+    "esquinero Oeste se observó la altura meridiana",
+    "del ☉ en 33° 54' resultando una latitud",
+    "de 34° 25' Sud.",
+    "El Domingo trece de Julio de 1862 en la estancia",
+    "de D.^{ña} Mauricia Duarte de Rodriguez se",
+    "observó la alt. meridiana ☉ en 34° 1' resultando",
+    "una latitud de 34° 28' Sud.",
+    "El Viernes once de Julio de 1862 a las",
+    "nueve horas y un minutos de la mañana y"
+   ],
+   "interpretacion": "Tabla de visuales desde los cuatro esquineros a hitos del paisaje: chimenea de la casa de Lorenzo Torres; mojinete del puesto de Vicente de Hoz; mirador de José Figueroa; puesto de Hermenegildo Riestra; esquina N de la azotea de Ormachea; mirador de Pascual Rodríguez; casa de Tadeo Rodríguez; «ombú de D.ª Petrona López». Luego tres latitudes por altura meridiana del Sol: 11/7/1862 en el esquinero E, 34° 27′ S; 12/7 en el esquinero O, 34° 25′ S; 13/7 en la estancia de Mauricia Duarte de Rodríguez, 34° 28′ S. Es la primera mensura del corpus con azimutes completos y latitudes repetidas en tres puntos."
+  },
+  {
+   "titulo": "Folio 5 v. · Variación por azimut del Sol; aprobación del D. T. (24/10/1862)",
+   "img": "img/f/032/13.jpg",
+   "fuente": "IMG_7040.JPG",
+   "nota": "Firmas con rúbrica de Salas, Moreno, Malaver.",
+   "lineas": [
+    "a 8000 varas del arroyo de Giles sobre",
+    "el costado Nor-Este del terreno se observó",
+    "☉ 19° 35' az. magnetico del ☉ 31° 33'",
+    "azimut magnetico de las banderas 120° 42'",
+    "resultando la variacion de 11° 24' N.E.",
+    "El Viernes once de Julio de 1862 a 2000 varas",
+    "del esquinero Sud y sobre el costado Sud-oeste",
+    "a las 2^{h} 51^{m} de la tarde se observó",
+    "alt. ☉ 21° 26' azimut magnetico del ☉ 307° 39'",
+    "azimut magnetico de las banderas 300° 46'",
+    "resultando la variacion de 11° 17' N.E.",
+    "El Sabado doce de Julio de 1862 en el mojon",
+    "de la legua desde el esquinero Sud sobre",
+    "el costado Sud-oeste a las 9^{h} 12' de la mañana",
+    "se observó ☉ alt. corregida 20° 11' 40\" azimut",
+    "magnetico del ☉ 31° 16' azimut magnetico de",
+    "las banderas 300° 41' resultando la",
+    "variacion de 11° 22' N.E.",
+    "E. Gonnet",
+    "Señor Juez de 1.^{a} Ynstancia",
+    "El Departamento Topografico",
+    "ha examinado la mensura practi",
+    "cada por el Agrimensor D.^{n} Estevan",
+    "Gonnet del terreno perteneciente",
+    "a los herederos de D.^{n} José Gabriel",
+    "Duarte en el partido de Giles, y",
+    "hallando arreglado el proceder fa",
+    "cultativo empleado en esta opera",
+    "cion, no encuentra inconvenien",
+    "te en que sea aprobada judicial",
+    "mente = Buenos Ayres Octubre 24 de 1862",
+    "Salas    Moreno    Malaver"
+   ],
+   "interpretacion": "Tres determinaciones de la variación por azimut magnético del Sol comparado con el de las banderas: 11/7/1862, 9 h 1 m, a 8000 v del arroyo sobre el costado NE → 11° 24′ NE; 11/7, 2 h 51 m de la tarde, a 2000 v del esquinero S sobre el SO → 11° 17′ NE; 12/7, 9 h 12 m, en el mojón de la legua → 11° 22′ NE. Promedio ≈ 11° 21′. Firma E. Gonnet.\nEl Departamento Topográfico halla arreglado el proceder facultativo y no encuentra inconveniente en la aprobación judicial. Buenos Aires, 24/10/1862: Salas, Moreno, Malaver."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano general de los títulos de la testamentaría Suero y terreno de Duarte",
+   "img": "img/f/032/03.jpg",
+   "fuente": "IMG_7041.JPG (tomas 7041 (2), 7042-7047)",
+   "orientacion": "Pliego a tinta en dos cuerpos; flecha de norte; «Escala 0,004 mm por 100 metros» y «Escala de 6000 varas»; tabla de equivalencias metros-varas; firmado «Julio de 1862 — E. Gonnet».",
+   "interpretacion": "Cuerpo izquierdo, con cartela: «Plano general de todos los terrenos cuyos títulos proceden de la testamentaría de D.n J.n F.co Suero y que se encuentran entre el terreno de los Monsalvos y el punto en que la línea de D.n Pedro Díaz de Vivar cruza el arroyo de Giles». Abanico de fajas perpendiculares al «Arroyo de Giles» (Rafael Pividal, «S.n Andrés de Giles» con cruz, «Oratorio de Giles», Galeano, Juan Pablo Rodríguez, Ponce, Jacinta Peñalva, Vicente Peñalva, J. G. Duarte, Santiago Sosa, Mauricio y Pedro Miguel Figueroa, Monsalvo) cortadas por la «Línea divisoria de las mercedes de Pedro Díaz de Vivar y de Arellano». Cuerpo derecho: el terreno de Duarte en detalle, entre el arroyo de Giles (mojón de arranque «antiguo», casa de Lorenzo Torres) y el arroyo del Sauce / Cañada de San Juan, con la línea «trazada por el agrimensor Differt en la mensura que practicó para el D.r Torres», la «Tapera de Duarte», puestos y ranchos.",
+   "referencias": [
+    [
+     "Linderos",
+     "Lorenzo Torres · herederos de Sosa · herederos de la Riestra · herederos de V.te Peñalva · herederos de Tadeo Rodríguez · Monsalvo · Cufré · Alvarez · Maldonado (al fondo)"
+    ],
+    [
+     "Poblaciones",
+     "Tapera de Duarte · rancho de D.ª Gervasia Duarte · Melitón Rodríguez · Pablo Rodríguez · Tadeo Rodríguez · D.ª Mauricia Duarte de Rodríguez · Pascual Rodríguez · Félix Ramírez [?] · Puesto de Torres (4) · Puesto de F. Romero · Puesto de Riestra"
+    ],
+    [
+     "Aguas",
+     "Arroyo de Giles (con meandros y rumbos de su curso) · Cañada de San Juan · Arroyo del Sauce"
+    ],
+    [
+     "Hitos",
+     "Mojón de arranque (antiguo) · mojones antiguos · casa de Lorenzo Torres · «S.n Andrés de Giles» y «Oratorio de Giles» en la faja de Galeano"
+    ],
+    [
+     "Límite",
+     "Línea divisoria de las mercedes de Díaz de Vivar y de Arellano"
+    ],
+    [
+     "Tabla",
+     "Equivalencias: 1299 m = 1500 v · 1472 = 1700 · 1535 = 1773 · 1732 = 2000 · 2598 = 3000 · 8020 = 9261 · 9645 = 11.137"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: Cañada de San Juan, arroyo del Sauce y firma",
+   "img": "img/f/032/04.jpg",
+   "fuente": "IMG_7045.JPG",
+   "orientacion": "Toma parcial del cuerpo derecho.",
+   "interpretacion": "Esquina S del terreno: «Cañada de San Juan» serpenteando, «Arroyo del Sauce», «Herederos de Tadeo Rodríguez», las poblaciones de Gervasia Duarte, Tadeo Rodríguez, Mauricia Duarte de Rodríguez y Pascual Rodríguez, puestos de Torres y de F. Romero; doble escala y firma «Julio de 1862 — E. Gonnet».",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia de la Dirección de Geodesia (Eva Perón, abril de 1953)",
+   "img": "img/f/032/05.jpg",
+   "fuente": "IMG_7048.JPG",
+   "orientacion": "Rótulo: «Es copia de parte del plano agregado al Duplic. n.º 32 del Partido de San Andrés de Giles, mensura practicada en el año 1862 por el agrim. Esteban Gonnet. Eva Perón, abril de 1953» (La Plata se llamó Eva Perón en 1952-55); sello MOP, Dirección de Geodesia; director Ing. civil Carlos A. Cia [?].",
+   "interpretacion": "Redibujo del plano general de los títulos Suero, prueba de que el plano de Gonnet siguió siendo consultado en el siglo XX como clave del reparto del arroyo de Giles. Se leen con claridad: Rafael Pividal, S.n Andrés de Giles, Oratorio de Giles, Galeano, Juan Pablo Rodríguez, Ponce, Jacinta Peñalva, Vicente Peñalva, J. G. Duarte, Santiago Sosa, Mauricio Figueroa, Pedro Miguel Figueroa, Monsalvo; y la «Línea divisoria de las mercedes de Pedro Díaz de Vivar y de Arellano», con el arroyo del Sauce y la Cañada de San Juan.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "El «plano general» de la merced suero: una matriz para el gis",
+   "texto": "Gonnet no mide sólo el campo de Duarte: reconstruye en un plano general todas las ventas de los albaceas de Juan Francisco Suero sobre el arroyo de Giles, desde los Monsalvo hasta el cruce de la línea de Díaz de Vivar, con el frente de cada comprador (P. M. Figueroa 2000 v, M. Figueroa 2000, S. Sosa 2950, Zárate 1700, V. Peñalva 3000, J. Peñalva 2000, Ponce 500). La «línea divisoria de las mercedes de Díaz de Vivar y de Arellano» queda dibujada: es el límite entre las genealogías (a) y (c) de METODO. Con la Ficha 008 (pueblo) y las 017, 023, 030-031, permite reconstruir el peine completo de suertes del arroyo."
+  },
+  {
+   "titulo": "«s.n andrés de giles» y el «oratorio de giles» en el plano",
+   "texto": "En la faja de Galeano, junto a la de Rafael Pividal y frente al arroyo, el plano marca con una cruz «S.n Andrés de Giles» y el «Oratorio de Giles»: el núcleo religioso del pueblo sobre la tierra donada por Suero e Hidalgo (Ficha 008). Es una representación cartográfica del oratorio fundacional, útil para anclar el GIS del pueblo."
+  },
+  {
+   "titulo": "La población de duarte como hito jurídico",
+   "texto": "El título se sostiene en una casa: en 1827, al partir con Sosa las 3000 v disputadas, se dieron 200 v más a Zárate «para salvar» su población —la misma en que había vivido Duarte—; en 1862 Gonnet cierra la mensura comprobando que queda «en campo de Duarte su antigua población, que hoy es tapera». La vivienda, aun arruinada, fija la ubicación de un campo de 1360 ha. Y se ve la trama familiar: la viuda de Duarte casó en segundas nupcias con Zárate; viven en el campo Gervasia Duarte y Mauricia Duarte de Rodríguez."
+  },
+  {
+   "titulo": "Técnica: la mensura más «científica» de la serie",
+   "texto": "Rumbos verdaderos; tres latitudes por altura meridiana del Sol (34° 27′, 34° 25′ y 34° 28′ S, en días y puntos distintos) y tres variaciones por azimut del Sol comparado con el de las banderas (11° 24′, 11° 17′, 11° 22′ NE); visuales en azimutes de 0-360° a chimeneas, miradores, mojinetes, azoteas y un ombú; mojones de ñandubay cada tercio de legua y cada media legua; equivalencias metros-varas. Para el GIS: las latitudes de Gonnet (≈ 34° 26′ S) difieren de las de Differt (34° 20′) y Pico (34° 21′) —control de exactitud de los instrumentos de la época."
+  },
+  {
+   "titulo": "Un fotógrafo midiendo la campaña",
+   "texto": "Esteban Gonnet (Grenoble 1829 – Buenos Aires 1868), ex oficial de marina, llegó en 1857 y es célebre como fotógrafo: publicó en 1864 «Recuerdos de Buenos-Ayres» y «Recuerdos de la Campaña de Buenos-Ayres», con escenas rurales, gauchos y ranchos. También fue agrimensor. Esta mensura de 1862 lo muestra recorriendo el campo de Giles dos años antes de sus álbumes: el mismo ojo que registra «taperas», ranchos y ombúes como hitos. Relación sugerente para la tesis (mirada técnica y mirada paisajística)."
+  },
+  {
+   "titulo": "Conflictos: differt, la sobreposición sosa–figueroa y la cámara",
+   "texto": "Los herederos de Duarte habían protestado la mensura de Differt para Lorenzo Torres (1858, Ficha 023); Gonnet arranca del mismo mojón de piedra azul y encuentra los esquineros de Differt desplazados (108 m en el esquinero E y la «misma diferencia» en el S), pero no reabre el conflicto. La doble venta de los albaceas Suero (Sosa y Mauricio Figueroa) terminó en «un largo pleito» resuelto por la Cámara de Justicia (1500 v a Figueroa, hoy Riestra)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Falta la superficie: la foliatura salta de 3 a 5 y quizás no se fotografió el folio 4 (cierre y área); estimación ≈ 1360 ha. ¿«D.o Hidalgo» = Domingo? ¿«Félix Ramírez»? Buscar la mensura de Sosa (título con la sobreposición) y la de Hidalgo 1838 (Ficha 018). Cotejar la posición del «Oratorio de Giles» con la traza de 1838 (Ficha 008)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Esteban (Victor Étienne) Gonnet",
+   "rol": "Agrimensor y fotógrafo",
+   "texto": "Nacido en Grenoble (3/9/1829), oficial de la marina francesa (1845) y capitán mercante; llegó a la Argentina en 1857 desde Newcastle. Pionero de la fotografía con negativo y al aire libre; en 1864 publicó los álbumes «Recuerdos de Buenos-Ayres» y «Recuerdos de la Campaña de Buenos-Ayres» (20 fotografías cada uno), largo tiempo atribuidos a Benito Panunzi. Fue agrimensor y habría trabajado con su sobrino Hippolyte Gaillard. Murió en Buenos Aires el 30/3/1868. Su hermano Louis fue padre de Manuel B. Gonnet.",
+   "fuentes": "Wikipedia «Esteban Gonnet»; losgrandesfotografos.blogspot.com; D. Jarak, «Leyendo imágenes. Tras las huellas de Esteban Gonnet» (Dialnet)."
+  },
+  {
+   "nombre": "José Gabriel Duarte y herederos",
+   "rol": "Comprador (1796) y propietarios",
+   "texto": "Compra a Francisco Esteban Suero 3000 v frente a la Cañada de Giles (1796), sin escritura por el litigio de la sucesión Suero. Su viuda casa con Dámaso Zárate. En 1862 viven en el campo Gervasia Duarte y Mauricia Duarte de Rodríguez (con estancia propia). Sin más datos en la búsqueda breve.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Juan Francisco Suero y Francisco Esteban Suero",
+   "rol": "Titulares de la merced",
+   "texto": "Juan Francisco Suero (Fichas 029, 030) muere antes de 1796; su hijo Francisco Esteban vende sin poder escriturar por estar «litigiosa la sucesión». Los albaceas venden después las suertes del arroyo de Giles.",
+   "fuentes": "Fichas 008, 029, 030, 031."
+  },
+  {
+   "nombre": "Juan Dionisio Hidalgo · Manuel Obligado · José Francisco Vidal",
+   "rol": "Vendedores (1827)",
+   "texto": "Hidalgo, apoderado y distribuidor de la tierra de los Suero (Fichas 008, 030); Manuel Obligado actúa por los herederos de J. F. Vidal y de un Hidalgo finado. Obligado: apellido de la familia de Pastor Obligado, sin filiación verificada.",
+   "fuentes": "Fichas 008, 030."
+  },
+  {
+   "nombre": "Dámaso Zárate · Santiago Sosa · Mauricio y Pedro Miguel Figueroa · Vicente y Jacinta Peñalva · N. Ponce",
+   "rol": "Compradores de los albaceas suero",
+   "texto": "Frentes sobre el arroyo de Giles. Santiago Sosa y Mauricio Figueroa, doble venta resuelta por la Cámara; lo de Mauricio Figueroa es hoy de Álvaro de la Riestra (Ficha 006). Vicente Peñalva también aparece en 1795 comprando a Suero tierras de los Acosta (Ficha 029).",
+   "fuentes": "Fichas 006, 016, 029."
+  },
+  {
+   "nombre": "Lorenzo Torres · Teodoro Differt · Manuel Eguía · Pividal",
+   "rol": "Vecinos y agrimensores previos",
+   "texto": "Lorenzo Torres, con casa (chimenea), quinta y cuatro puestos; su mensura por Differt (1858, Ficha 023) fue protestada por los Duarte. Eguía midió para María Maura Pividal, viuda de Rafael Pividal (Ficha 017).",
+   "fuentes": "Fichas 017, 023."
+  },
+  {
+   "nombre": "Juan A. García · Salas · Moreno · Malaver",
+   "rol": "Juez y d. t.",
+   "texto": "Juan Agustín García, juez civil (Fichas 022, 025). D. T.: Salas, Moreno, Malaver (24/10/1862).",
+   "fuentes": "Fichas 022, 025."
+  },
+  {
+   "nombre": "Otros nombrados",
+   "rol": "Hitos humanos del paisaje",
+   "texto": "Vicente de Hoz (puesto con mojinete), José Figueroa (mirador), Hermenegildo Riestra (puesto), Ormachea (azotea), Pascual y Tadeo Rodríguez (mirador, casa), Petrona López (ombú; su casa azotea ya en la Ficha 021), Melitón y Pablo Rodríguez, F. Romero, Félix Ramírez [?], Galeano (Ficha 008).",
+   "fuentes": "Fichas 008, 021; esta mensura."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/032/02.jpg",
+  "fuente": "IMG_7032.JPG",
+  "lineas": [
+   "Seccion Areco    Giles",
+   "N 140    32",
+   "Duplicado de la deligencia de mensura",
+   "de un terreno de la propiedad",
+   "perteneciente á los herederos de D.^{n}",
+   "José Gabriel Duarte",
+   "En el partido de Gilles",
+   "Seccion Luyan",
+   "Julio de 1862",
+   "Esteban Gonnet",
+   "[a lápiz, al margen: cálculos]"
+  ]
+ },
+ "titulo": "Herederos de D. José Gabriel Duarte",
+ "estado": "Transcripta (8 hojas, 248 renglones), 3 láminas"
+}

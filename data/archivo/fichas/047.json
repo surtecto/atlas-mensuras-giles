@@ -1,6 +1,7 @@
 {
  "carpeta": "47",
  "carpeta_nombre": "Carpeta 47",
+ "archivo": "Ficha 047 - Herederos de Tadeo Rodríguez (1868).docx",
  "resumen": {
   "Partido": "San Andrés de Giles",
   "N.º de duplicado": "47",
@@ -14,49 +15,187 @@
   "Linderos citados": "Peñalba, Torres, Sosa, Riestra · F. Díaz · Achával, Salas, Chaves · Quevedo",
   "Medidas": "6974 × 7039,7 × 6890,8 × 6985,6 m; diez fajas de 216,5 a 1319,8 m de frente",
   "Rumbos": "N 31° 35′ O · N 58° 54′ E · N 31° 04′ O · N 58° 01′ E; declinación 11° 30′ NE",
-  "Referencia de archivo": "Duplicado 47 (31 folios; sólo se fotografió el plano); copia heliográfica moderna",
-  "Imágenes": "IMG_7242 a IMG_7250 (9 tomas: carátula, plano, 6 detalles y copia)"
+  "Referencia de archivo": "Duplicado 47 (31 folios; sólo se fotografió el plano); copia heliográfica moderna"
  },
+ "metricas": {
+  "superficie_ha": "≈ 4850 (cálculo propio sobre el perímetro)",
+  "hitos": "Casa de M. Duarte sobre la línea de Vivar; quinta de Pascual Rodríguez; doce poblaciones con nombre",
+  "aguas": "Cañada del Sauce; Cañada de la Cruz"
+ },
+ "sintesis": "Del duplicado 47 sólo se fotografió el plano (folio 31), de modo que esta ficha es planimétrica. Teodoro Differt dibuja en diciembre de 1868 el campo de los sucesores de Tadeo Rodríguez: un cuadrado de unos 7 km de lado entre la Cañada del Sauce y la Cañada de la Cruz, apoyado en la línea de Díaz de Vivar (N 58° 54′ E) y dividido en diez fajas paralelas para más de veinte titulares Rodríguez, Díaz, Casas, Lucero, González, Arévalo, Quevedo y Silva. Sobre el costado SO deja un «sobrante» que propone permutar por la fracción de Felipa Quevedo. El plano ubica doce casas, la de Mauricia Duarte sobre la línea, y enlaza con las mensuras de Peñalba, Ormaechea, Affre, Castro y Torres. Faltan los folios 1 a 30.",
  "caratula": {
-  "img": "img/C47_IMG_7242.jpg",
+  "img": "img/f/047/01.jpg",
   "fuente": "IMG_7242.JPG",
   "campos": [
-   ["N.º", "47"],
-   ["Encabezado impreso", "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"],
-   ["Duplicado de la diligencia de mensura", "para los herederos de Don Tadeo Rodríguez"],
-   ["Ingeniero o Agrimensor", "Teodoro Differt"],
-   ["Mes", "Diciembre"],
-   ["Año", "1868"],
-   ["Tramitado en el Juzgado", "—"],
-   ["Secretaría", "—"],
-   ["Duplicados de referencia", "—"],
-   ["Pie", "ARCHIVO — Taller de Impresiones Oficiales"]
+   [
+    "N.º",
+    "47"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para los herederos de Don Tadeo Rodríguez"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Teodoro Differt"
+   ],
+   [
+    "Mes",
+    "Diciembre"
+   ],
+   [
+    "Año",
+    "1868"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO — Taller de Impresiones Oficiales"
+   ]
   ]
  },
+ "folios": [
+  {
+   "titulo": "Folio 31 · Rótulos del plano (transcripción)",
+   "img": "img/f/047/02.jpg",
+   "fuente": "IMG_7243.JPG y detalles 7244-7249",
+   "nota": "Único folio fotografiado del duplicado: el plano. Se transcriben sus rótulos ordenados de SO a NE; las cifras se leyeron en los seis detalles. Los corchetes son aclaraciones del transcriptor.",
+   "lineas": [
+    "[Foliatura en sello:] 31",
+    "[Escalas gráficas:] metros   ·   varas",
+    "Meridiano verdadero. Declinacion 11° 30′ N. E.",
+    "**Succesores de Tadeo Rodriguez**",
+    "[Perímetro, en verde:] arranque · N 31° 35′ O 6974 m^{s} · N 58° 54′ E 7039,7 m^{s} · N 31° 4′ O 6890,8 m^{s} · N 58° 1′ E 6985,6 m^{s}",
+    "Sobrante – terreno propuesto para permutar la fraccion de Felipa Quevedo",
+    "S 31° 4′ E 6970,4 m^{s}",
+    "Romana Diaz",
+    "N 31° 4′ O 6965,24 m^{s}",
+    "Facundo Casas   ·   José Isabel Cordero",
+    "N 31° 4′ O 6958,7 m^{s}",
+    "Cipriano Lucero   ·   Concepcion Diaz, Remigio Diaz, Romana Diaz",
+    "N 31° 4′ O 6953,3 m^{s}",
+    "Herederos de Gregoria Gonzalez   ·   Herederos de Francisco Arévalo",
+    "S 31° 4′ E 6950,5 m^{s}",
+    "Prudencio Rodriguez",
+    "N 31° 4′ O 6938 m^{s}",
+    "Remigio Rodriguez",
+    "N 31° 4′ O 6927,6 m^{s}",
+    "Pascual Rodriguez   ·   Isidora Rodriguez, Mateo [id.], Juana Maria [id.]",
+    "N 31° 4′ O 6917,17 m^{s}",
+    "Gregoria Rodriguez de Castro",
+    "N 31° 4′ O 6906,35 m^{s}",
+    "Pedro Quevedo   ·   Benjamin Silva   ·   Pablo Rodriguez",
+    "[Fuera del perímetro, al NE:] Pedro Pablo Quevedo · Manuel Quevedo · Pascual Rodriguez · Felipa Quevedo",
+    "Herederos de Juan de Ormaechea, terreno solicitado en compra por Antonio Llorente",
+    "Pablo Affre   ·   Herederos de Juan Castro",
+    "[Linderos al NO:] Juan Silva · Herederos de Vicente Peñalba · L. Torres · Juan José Sosa · Alv^{o} de la Riestra · F^{co} Maldonado.",
+    "[Lindero al SO:] Fernando Diaz",
+    "[Linderos al SE:] J. Y. de Achaval · Pedro Salas · Fr^{sca} Chaves · Josefa N. de Castro",
+    "[Aguas:] Cañada del Sauce   ·   Cañada de la Cruz",
+    "[Poblaciones:] Fr. Arévalo · C. Lucero · Rom. Diaz · Remigio R. · Pascual Rodr. · Prudencio Rodr. · Puesto · Gr. Gonzalez · Grg. R. de Castro · P. A. Quevedo · Nicol. Castro · M. Duarte",
+    "[Frente SE, anchos:] 296,6 [?] · 433 · 531,3 · 452,5 · 216,5 · 1082,5 · 866 · 866 · 921,4 · 1319,8",
+    "[A lápiz:] dup. 138 · dup. 169 · dup. 173 · dup. 203 · dup. 106 · dup. 242 · dup. 73 · dup. 87",
+    "**Buenos Aires Decbre de 1868**",
+    "Teodoro Differt"
+   ],
+   "interpretacion": "El plano hace las veces de diligencia. Un cuadrado de casi 7 km de lado —el «antiguo terreno de Tadeo Rodríguez» que Gonnet citaba en 1866 (Ficha 036)— entre la Cañada del Sauce y la Cañada de la Cruz, partido en diez fajas paralelas de rumbo N 31° 04′ O para sus «sucesores»: nietos y compradores con apellidos Díaz, Casas, Cordero, Lucero, González, Arévalo, Rodríguez, Castro, Quevedo y Silva. La primera faja, contra Fernando Díaz, es un «sobrante» que se propone permutar por la fracción de Felipa Quevedo. Cada línea divisoria lleva su longitud, que decrece de 6974 m al SO a 6890,8 m al NE: el fondo no es paralelo al frente. Fuera del perímetro siguen, hacia el NE, las hijuelas Quevedo, el campo de Ormaechea «solicitado en compra por Antonio Llorente» (el denunciante de la Ficha 036), Affre (042) y los herederos de Juan Castro (007)."
+  },
+  {
+   "titulo": "Folio 30 v. · Notas marginales visibles junto al plano (fragmento)",
+   "img": "img/f/047/10.jpg",
+   "fuente": "recorte de IMG_7243.JPG",
+   "nota": "Sólo se ve el borde derecho de la última página de texto, que no fue fotografiada. Lectura muy parcial.",
+   "lineas": [
+    "[...] se presentó D. [...]",
+    "[...] comprar el sobran[te]",
+    "[...] [e]l D. T. informa en [...]",
+    "Kuhr",
+    "[...] solicita",
+    "[...]",
+    "Kuhr",
+    "[...] pide el",
+    "[...] [18]79 [?].",
+    "Kuhr",
+    "[...] Lauti [?]",
+    "[... ad]judicado",
+    "[... Rodri]guez – N^{o} 3.",
+    "[rúbrica]"
+   ],
+   "interpretacion": "Tres asientos breves firmados por German Kuhr y uno final de otra mano. Se alcanza a leer que alguien «se presentó» para «comprar el sobrante» y que «el D. T. informa»; que otro interesado «solicita» y otro «pide»; una fecha que parece de 1879; y una última nota con las palabras «adjudicado» y «N.º 3». Son anotaciones posteriores sobre el sobrante del costado SO: el duplicado siguió vivo al menos una década. Para leerlas hace falta fotografiar los folios 1 a 30."
+  }
+ ],
  "planos": [
   {
    "titulo": "Plano general de la división entre los sucesores de Tadeo Rodríguez",
-   "img": "img/C47_IMG_7243.jpg",
+   "img": "img/f/047/02.jpg",
    "fuente": "IMG_7243.JPG",
    "orientacion": "Pliego con marco negro grueso; el NO arriba; diagonal «Meridiano verdadero. Declinación 11° 30′ N. E.» con flecha; dos escalas transversales (metros y varas); perímetro en verde; rótulos de plantilla; «Buenos Aires Dic.bre de 1868», firmado Teodoro Differt. Foliatura «31».",
    "interpretacion": "Arriba (NO), sobre la línea N 58° 54′ E —la de los mojones de Díaz de Vivar—, los linderos de la otra merced: Juan Silva, herederos de Vicente Peñalba, L. Torres, Juan José Sosa, Álvaro de la Riestra y Francisco Maldonado; sobre la línea misma, un cuadradito inclinado con el nombre «M. Duarte»: la casa de Mauricia Duarte de Rodríguez, ancla de las Fichas 035 y 036. A la izquierda (SO), Fernando Díaz; abajo (SE), J. Y. de Achával, Pedro Salas, Francisca Chaves y Josefa N. de Castro; a la derecha (NE), las hijuelas Quevedo, Ormaechea, Affre y Castro. La «Cañada del Sauce» cruza el tercio superior de O a E y sale por el ángulo N; la «Cañada de la Cruz» corta el ángulo E. Dentro, las diez fajas con doce poblaciones marcadas con punto y nombre; la de Pascual Rodríguez, dibujada como quinta cuadriculada. A lápiz, el Departamento anotó en cada faja el duplicado posterior que la midió (138, 169, 173, 203, 106, 242, 73, 87): el plano se usó como índice gráfico del archivo.",
    "referencias": [
-    ["arranque", "Esquinero S del perímetro, sobre el costado de Fernando Díaz y el frente de Achával"],
-    ["Costado SO", "N 31° 35′ O, 6974 m; mojones a 1299, 2598, 3897 y 5196 m (cada 1500 varas)"],
-    ["Fondo NO", "N 58° 54′ E, 7039,7 m: línea de Vivar, con la casa de M. Duarte"],
-    ["Costado NE", "N 31° 04′ O, 6890,8 m, divisorio con Pedro Pablo Quevedo"],
-    ["Frente SE", "N 58° 01′ E, 6985,6 m; anchos 433 · 531,3 · 452,5 · 216,5 · 1082,5 · 866 · 866 · 921,4 · 1319,8 m"],
-    ["Sobrante", "Tira del costado SO «propuesta para permutar la fracción de Felipa Quevedo»"],
-    ["Fajas Díaz–Casas–Lucero–González", "Cuatro fajas angostas (216,5 a 531,3 m), cada una partida en dos o tres tramos a lo largo"],
-    ["Fajas Rodríguez", "Prudencio (1082,5 m), Remigio (866), Pascual e Isidora, Mateo y Juana María (866), Gregoria R. de Castro (921,4)"],
-    ["Faja NE", "Pedro Quevedo, Benjamín Silva y Pablo Rodríguez (1319,8 m en tres tiras)"],
-    ["Aguas", "Cañada del Sauce (N) y Cañada de la Cruz (E), con las progresivas de cruce en cada línea"],
-    ["Lápiz", "dup. 138, 169, 173, 203, 106, 242, 73, 87: remisiones a duplicados posteriores"]
+    [
+     "arranque",
+     "Esquinero S del perímetro, sobre el costado de Fernando Díaz y el frente de Achával"
+    ],
+    [
+     "Costado SO",
+     "N 31° 35′ O, 6974 m; mojones a 1299, 2598, 3897 y 5196 m (cada 1500 varas)"
+    ],
+    [
+     "Fondo NO",
+     "N 58° 54′ E, 7039,7 m: línea de Vivar, con la casa de M. Duarte"
+    ],
+    [
+     "Costado NE",
+     "N 31° 04′ O, 6890,8 m, divisorio con Pedro Pablo Quevedo"
+    ],
+    [
+     "Frente SE",
+     "N 58° 01′ E, 6985,6 m; anchos 433 · 531,3 · 452,5 · 216,5 · 1082,5 · 866 · 866 · 921,4 · 1319,8 m"
+    ],
+    [
+     "Sobrante",
+     "Tira del costado SO «propuesta para permutar la fracción de Felipa Quevedo»"
+    ],
+    [
+     "Fajas Díaz–Casas–Lucero–González",
+     "Cuatro fajas angostas (216,5 a 531,3 m), cada una partida en dos o tres tramos a lo largo"
+    ],
+    [
+     "Fajas Rodríguez",
+     "Prudencio (1082,5 m), Remigio (866), Pascual e Isidora, Mateo y Juana María (866), Gregoria R. de Castro (921,4)"
+    ],
+    [
+     "Faja NE",
+     "Pedro Quevedo, Benjamín Silva y Pablo Rodríguez (1319,8 m en tres tiras)"
+    ],
+    [
+     "Aguas",
+     "Cañada del Sauce (N) y Cañada de la Cruz (E), con las progresivas de cruce en cada línea"
+    ],
+    [
+     "Lápiz",
+     "dup. 138, 169, 173, 203, 106, 242, 73, 87: remisiones a duplicados posteriores"
+    ]
    ]
   },
   {
    "titulo": "Detalle 1 · ángulo S: arranque, sobrante y fajas Díaz, Casas, Lucero",
-   "img": "img/C47_IMG_7244.jpg",
+   "img": "img/f/047/03.jpg",
    "fuente": "IMG_7244.JPG",
    "orientacion": "Toma parcial girada 90° respecto del plano.",
    "interpretacion": "Se leen «arranque», el costado «N 31° 35′ O 6974 m», el «Sobrante – terreno propuesto para permutar la fracción de Felipa Q[uevedo]», las líneas 6970,4 · 6965,24 · 6958,7 · 6953,3 · 6950,5 · 6938 m, los subtramos (1741,3 · 1739,7 · 1738,3 · 1737,6 m) que cortan las fajas angostas en cuartos, los nombres José Isabel Cordero, Facundo Casas, Concepción, Remigio y Romana Díaz, Cipriano Lucero, herederos de Gregoria González, y a lápiz «dup. 138», «dup. 169», «dup. 173», «dup. 203». Un camino de puntos entra por el arranque.",
@@ -64,7 +203,7 @@
   },
   {
    "titulo": "Detalle 2 · ángulo O: Cañada del Sauce y herederos de Arévalo",
-   "img": "img/C47_IMG_7245.jpg",
+   "img": "img/f/047/04.jpg",
    "fuente": "IMG_7245.JPG",
    "orientacion": "Toma parcial.",
    "interpretacion": "La Cañada del Sauce con dos brazos; «Herederos de Francisco Arévalo» en el tramo del fondo de las fajas angostas, con las casas de «Fr. Arévalo», «C. Lucero» y «Rom. Díaz»; el esquinero O (6974) y los anchos del fondo (433 · 531,3 · 452,5 · 216,5 · 1082,5 m). Arriba, Juan Silva y los herederos de Vicente Peñalba.",
@@ -72,7 +211,7 @@
   },
   {
    "titulo": "Detalle 3 · fondo NO: casa de M. Duarte y quinta de Pascual Rodríguez",
-   "img": "img/C47_IMG_7246.jpg",
+   "img": "img/f/047/05.jpg",
    "fuente": "IMG_7246.JPG",
    "orientacion": "Toma parcial.",
    "interpretacion": "Sobre la línea verde «N 58° 54′ E 7039,7 m», el rombo de la casa de «M. Duarte», a caballo del límite, con caminos de trazos que convergen en ella. Dentro, la quinta cuadriculada de «Pascual Rodr.», la casa de «Remigio R.» junto al «Sauce» y la flecha del norte. Líneas 6938 · 6927,6 · 6917,17 · 6906,35 m.",
@@ -80,7 +219,7 @@
   },
   {
    "titulo": "Detalle 4 · centro: fajas de Prudencio, Remigio y Pascual Rodríguez",
-   "img": "img/C47_IMG_7247.jpg",
+   "img": "img/f/047/06.jpg",
    "fuente": "IMG_7247.JPG",
    "orientacion": "Toma parcial.",
    "interpretacion": "Casa de «Prudencio Rodr.» con un potrero o corral en rombo, «Puesto», casa de «Gr. González»; la llave que reúne a «Isidora Rodríguez, Mateo [y] Juana María» en la mitad SE de la faja de Pascual; el frente «N 58° 01′ E 6985,6 m» con anchos 866 · 866 · 921,4; a lápiz «dup. 106».",
@@ -88,7 +227,7 @@
   },
   {
    "titulo": "Detalle 5 · ángulo E: Cañada de la Cruz y faja Quevedo–Silva–Rodríguez",
-   "img": "img/C47_IMG_7248.jpg",
+   "img": "img/f/047/07.jpg",
    "fuente": "IMG_7248.JPG",
    "orientacion": "Toma parcial.",
    "interpretacion": "La Cañada de la Cruz corta el ángulo E; casas de «Grg. R. de Castro» (con quinta), «P. A. Quevedo» y «Nicol. Castro»; el costado NE «N 31° 04′ O 6890,8 m»; fuera, Pedro Pablo Quevedo, Manuel Quevedo, Pascual Rodríguez y Felipa Quevedo; a lápiz «dup. 242», «dup. 73», «dup. 87».",
@@ -96,7 +235,7 @@
   },
   {
    "titulo": "Detalle 6 · ángulo N: la Cañada del Sauce sale hacia Torres y Riestra",
-   "img": "img/C47_IMG_7249.jpg",
+   "img": "img/f/047/08.jpg",
    "fuente": "IMG_7249.JPG",
    "orientacion": "Toma parcial.",
    "interpretacion": "El esquinero N (6890 / 7039,7) cae sobre la cañada, que sigue como límite de las hijuelas Quevedo; del otro lado, L. Torres, Juan José Sosa y Álvaro de la Riestra, con las líneas de sus campos llegando oblicuas al fondo.",
@@ -104,7 +243,7 @@
   },
   {
    "titulo": "Copia heliográfica moderna del plano",
-   "img": "img/C47_IMG_7250.jpg",
+   "img": "img/f/047/09.jpg",
    "fuente": "IMG_7250.JPG",
    "orientacion": "Copia azul sobre papel satinado, con sello de la repartición en el ángulo inferior derecho.",
    "interpretacion": "Calco moderno del plano de Differt, como los de las Fichas 031 y 032: el original estaba lo bastante consultado como para merecer copia de trabajo.",
@@ -165,82 +304,6 @@
    "fuentes": "Este plano; Fichas 006, 007, 009, 035, 036, 042, 044, 045."
   }
  ],
- "metricas": {
-  "superficie_ha": "≈ 4850 (cálculo propio sobre el perímetro)",
-  "hitos": "Casa de M. Duarte sobre la línea de Vivar; quinta de Pascual Rodríguez; doce poblaciones con nombre",
-  "aguas": "Cañada del Sauce; Cañada de la Cruz"
- },
- "sintesis": "Del duplicado 47 sólo se fotografió el plano (folio 31), de modo que esta ficha es planimétrica. Teodoro Differt dibuja en diciembre de 1868 el campo de los sucesores de Tadeo Rodríguez: un cuadrado de unos 7 km de lado entre la Cañada del Sauce y la Cañada de la Cruz, apoyado en la línea de Díaz de Vivar (N 58° 54′ E) y dividido en diez fajas paralelas para más de veinte titulares Rodríguez, Díaz, Casas, Lucero, González, Arévalo, Quevedo y Silva. Sobre el costado SO deja un «sobrante» que propone permutar por la fracción de Felipa Quevedo. El plano ubica doce casas, la de Mauricia Duarte sobre la línea, y enlaza con las mensuras de Peñalba, Ormaechea, Affre, Castro y Torres. Faltan los folios 1 a 30.",
- "estado": "Parcial: sólo plano (rótulos transcriptos); faltan fs. 1-30",
- "archivo": "Ficha 047 - Herederos de Tadeo Rodríguez (1868).docx",
- "folios": [
-  {
-   "titulo": "Folio 31 · Rótulos del plano (transcripción)",
-   "img": "img/C47_IMG_7243.jpg",
-   "fuente": "IMG_7243.JPG y detalles 7244-7249",
-   "nota": "Único folio fotografiado del duplicado: el plano. Se transcriben sus rótulos ordenados de SO a NE; las cifras se leyeron en los seis detalles. Los corchetes son aclaraciones del transcriptor.",
-   "lineas": [
-    "[Foliatura en sello:] 31",
-    "[Escalas gráficas:] metros   ·   varas",
-    "Meridiano verdadero. Declinacion 11° 30′ N. E.",
-    "**Succesores de Tadeo Rodriguez**",
-    "[Perímetro, en verde:] arranque · N 31° 35′ O 6974 m^{s} · N 58° 54′ E 7039,7 m^{s} · N 31° 4′ O 6890,8 m^{s} · N 58° 1′ E 6985,6 m^{s}",
-    "Sobrante – terreno propuesto para permutar la fraccion de Felipa Quevedo",
-    "S 31° 4′ E 6970,4 m^{s}",
-    "Romana Diaz",
-    "N 31° 4′ O 6965,24 m^{s}",
-    "Facundo Casas   ·   José Isabel Cordero",
-    "N 31° 4′ O 6958,7 m^{s}",
-    "Cipriano Lucero   ·   Concepcion Diaz, Remigio Diaz, Romana Diaz",
-    "N 31° 4′ O 6953,3 m^{s}",
-    "Herederos de Gregoria Gonzalez   ·   Herederos de Francisco Arévalo",
-    "S 31° 4′ E 6950,5 m^{s}",
-    "Prudencio Rodriguez",
-    "N 31° 4′ O 6938 m^{s}",
-    "Remigio Rodriguez",
-    "N 31° 4′ O 6927,6 m^{s}",
-    "Pascual Rodriguez   ·   Isidora Rodriguez, Mateo [id.], Juana Maria [id.]",
-    "N 31° 4′ O 6917,17 m^{s}",
-    "Gregoria Rodriguez de Castro",
-    "N 31° 4′ O 6906,35 m^{s}",
-    "Pedro Quevedo   ·   Benjamin Silva   ·   Pablo Rodriguez",
-    "[Fuera del perímetro, al NE:] Pedro Pablo Quevedo · Manuel Quevedo · Pascual Rodriguez · Felipa Quevedo",
-    "Herederos de Juan de Ormaechea, terreno solicitado en compra por Antonio Llorente",
-    "Pablo Affre   ·   Herederos de Juan Castro",
-    "[Linderos al NO:] Juan Silva · Herederos de Vicente Peñalba · L. Torres · Juan José Sosa · Alv^{o} de la Riestra · F^{co} Maldonado.",
-    "[Lindero al SO:] Fernando Diaz",
-    "[Linderos al SE:] J. Y. de Achaval · Pedro Salas · Fr^{sca} Chaves · Josefa N. de Castro",
-    "[Aguas:] Cañada del Sauce   ·   Cañada de la Cruz",
-    "[Poblaciones:] Fr. Arévalo · C. Lucero · Rom. Diaz · Remigio R. · Pascual Rodr. · Prudencio Rodr. · Puesto · Gr. Gonzalez · Grg. R. de Castro · P. A. Quevedo · Nicol. Castro · M. Duarte",
-    "[Frente SE, anchos:] 296,6 [?] · 433 · 531,3 · 452,5 · 216,5 · 1082,5 · 866 · 866 · 921,4 · 1319,8",
-    "[A lápiz:] dup. 138 · dup. 169 · dup. 173 · dup. 203 · dup. 106 · dup. 242 · dup. 73 · dup. 87",
-    "**Buenos Aires Decbre de 1868**",
-    "Teodoro Differt"
-   ],
-   "interpretacion": "El plano hace las veces de diligencia. Un cuadrado de casi 7 km de lado —el «antiguo terreno de Tadeo Rodríguez» que Gonnet citaba en 1866 (Ficha 036)— entre la Cañada del Sauce y la Cañada de la Cruz, partido en diez fajas paralelas de rumbo N 31° 04′ O para sus «sucesores»: nietos y compradores con apellidos Díaz, Casas, Cordero, Lucero, González, Arévalo, Rodríguez, Castro, Quevedo y Silva. La primera faja, contra Fernando Díaz, es un «sobrante» que se propone permutar por la fracción de Felipa Quevedo. Cada línea divisoria lleva su longitud, que decrece de 6974 m al SO a 6890,8 m al NE: el fondo no es paralelo al frente. Fuera del perímetro siguen, hacia el NE, las hijuelas Quevedo, el campo de Ormaechea «solicitado en compra por Antonio Llorente» (el denunciante de la Ficha 036), Affre (042) y los herederos de Juan Castro (007)."
-  },
-  {
-   "titulo": "Folio 30 v. · Notas marginales visibles junto al plano (fragmento)",
-   "img": "img/C47_IMG_margen.jpg",
-   "fuente": "recorte de IMG_7243.JPG",
-   "nota": "Sólo se ve el borde derecho de la última página de texto, que no fue fotografiada. Lectura muy parcial.",
-   "lineas": [
-    "[...] se presentó D. [...]",
-    "[...] comprar el sobran[te]",
-    "[...] [e]l D. T. informa en [...]",
-    "Kuhr",
-    "[...] solicita",
-    "[...]",
-    "Kuhr",
-    "[...] pide el",
-    "[...] [18]79 [?].",
-    "Kuhr",
-    "[...] Lauti [?]",
-    "[... ad]judicado",
-    "[... Rodri]guez – N^{o} 3.",
-    "[rúbrica]"
-   ],
-   "interpretacion": "Tres asientos breves firmados por German Kuhr y uno final de otra mano. Se alcanza a leer que alguien «se presentó» para «comprar el sobrante» y que «el D. T. informa»; que otro interesado «solicita» y otro «pide»; una fecha que parece de 1879; y una última nota con las palabras «adjudicado» y «N.º 3». Son anotaciones posteriores sobre el sobrante del costado SO: el duplicado siguió vivo al menos una década. Para leerlas hace falta fotografiar los folios 1 a 30."
-  }
- ]
+ "titulo": "Herederos de Tadeo Rodríguez",
+ "estado": "Transcripta (2 hojas, 50 renglones), 8 láminas"
 }

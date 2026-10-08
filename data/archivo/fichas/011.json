@@ -1,0 +1,456 @@
+{
+ "carpeta": "11",
+ "carpeta_nombre": "Carpeta 11",
+ "archivo": "Ficha 011 - Guillermo Aguirre (1826).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Sección Areco)",
+  "N.º de duplicado": "11",
+  "Propietario / solicitante": "D. Guillermo Aguirre (enfiteuta)",
+  "Agrimensor": "Francisco Ysach",
+  "Año": "1826",
+  "Fecha de la diligencia": "Comisión 8/5/1826; mensura 13/9/1826; cierre 16/9/1826; D. T. [...] 1827",
+  "Ubicación": "Entre el naciente del arroyo de Giles y la Cañada de los Negros («en el Fortín de Areco»)",
+  "Orden judicial": "Comisión del Presidente de la Nación (Rivadavia) para terreno denunciado en enfiteusis",
+  "Vendedor / antecesor": "Tierra pública en enfiteusis; luego propiedad de Pascuala Romero (ver Ficha 003)",
+  "Linderos citados": "José Antonio López (triángulo) · Mariano Noriega · tierra pública · enfiteuta Celidonio Fernández · Martín Galiano · José Rodríguez (enfiteuta) · Concepción Gaute",
+  "Medidas": "Romboide: 4470 / 879 + 7064 / 7440 / 2650 / 1532 / 4902 v",
+  "Rumbos": "Por cuadrantes de la aguja; «corrección de la cuerda»; objetado por el D. T.",
+  "Referencia de archivo": "Portadilla «N.º 66 – Giles 11 – Secc. Areco»; «312»"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 2890 (38.530.572 v²; 1,07 leguas²)",
+  "hitos": "8 casas numeradas; mojón en un bajo; naciente-zanjón",
+  "aguas": "Naciente del arroyo de Giles; Cañada de los Negros; lagunas"
+ },
+ "sintesis": "Copia de la mensura de 1826 del campo que Guillermo Aguirre tenía en enfiteusis, entre el naciente del arroyo de Giles y la Cañada de los Negros, hecha por Francisco Ysach por comisión del presidente Rivadavia. Es la mensura más antigua del lote y la primera de enfiteusis. Registra el equipo (banderero, contador de cuerda y anotador), las firmas a ruego y la «corrección de la cuerda», y describe el naciente del arroyo como «una especie de zanjón». El plano numera ocho casas y trae un «Norte del Mundo». Superficie: 38.530.572 v² (≈ 2890 ha, un romboide). El Departamento Topográfico objeta que los rumbos «de la aguja» no son los mandados por el gobierno. Una nota remite a la mensura de Eguía de 1838: el campo pasó a ser de Pascuala Romero (Ficha 003).",
+ "caratula": {
+  "img": "img/f/011/01.jpg",
+  "fuente": "IMG_6671.JPG",
+  "campos": [
+   [
+    "N.º",
+    "11"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Guillermo Aguirre"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "F. Isach"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1826"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Portada de la copia",
+   "img": "img/f/011/06.jpg",
+   "fuente": "IMG_6673.JPG",
+   "nota": "Título caligráfico dentro de un triángulo invertido. Debajo, de otra mano, el número «312» y una nota de remisión. Palabra a lápiz sobre «tiene».",
+   "lineas": [
+    "[Co]pia de las diligencias de mensu-",
+    "[r]a del terreno que D. Guillermo",
+    "Aguirre ^{[a lápiz: Ocupado [?]]} tiene tomado en Enfi-",
+    "teusis entre el naciente del ar-",
+    "royo de Giles, y la Cañada de",
+    "los negros, echas por el",
+    "Agrimensor D. Fran-",
+    "sisco Ysach, en el",
+    "año de",
+    "1826.",
+    "[debajo, de otra mano:] 312.",
+    "hoy D.^{a} Pascuala Romero propiedad",
+    "Vease mensura hecha p.^{r} Eguia",
+    "de estos mismos terrenos"
+   ],
+   "interpretacion": "El legajo es una copia de las diligencias de la mensura del terreno que Guillermo Aguirre tenía «tomado en enfiteusis», entre el naciente del arroyo de Giles y la Cañada de los Negros, hecha por el agrimensor Francisco Ysach en 1826.\nLa nota posterior dice que el campo es «hoy de D.ª Pascuala Romero, propiedad» y remite a la mensura de Eguía de los mismos terrenos. Es la Ficha 003 (1838). Así el expediente enlaza la enfiteusis rivadaviana con la propiedad privada posterior: la tierra pública arrendada de 1826 es la estancia de Pascuala Romero de Monsalvo en 1838."
+  },
+  {
+   "titulo": "Folio 1 (recto)",
+   "img": "img/f/011/07.jpg",
+   "fuente": "IMG_6674.JPG",
+   "nota": "Letra cursiva de escribano, con abreviaturas abundantes. Sello «Departamento Topográfico» y sello de foliatura «1». Los «=» separan las firmas copiadas de cada diligencia.",
+   "lineas": [
+    "Por recivida y aceptada la comision que antesede del S^{or} Pre-",
+    "cidente de la nacion en este Pueblo de S^{n} Ant.^{o} de Areco á ocho",
+    "de Mayo de mil ochocientos veinte y seis = Francisco Ysach = En",
+    "trese de d^{ho} mes y año pasé á tomar antesed.^{es} á la Comision To-",
+    "pografica, y resultó no haber ning.^{a} particular sobre este ter-",
+    "reno denunciado en enfiteusis, y p.^{a} constancia lo anoto por dilig.^{a} =",
+    "Ysach = Juan M.^{a} Vermudez = Jasinto Bogarin = En nuebe de Sep-",
+    "tiembre de d^{ho} año cité á los Linderos y colind.^{tes} de este terre-",
+    "no avisandoles q.^{e} por el trese del pres.^{te} hiba á dar principio á",
+    "la mensura, y q.^{e} compareciesen p.^{r} sí, ó por apoderado con los",
+    "docum.^{tos} de su propiedad á defender la Linea de su pertenencia, los",
+    "q.^{e} comparecieron y son D. Martin Galiano, D. Mariano Norie-",
+    "ga, D.^{a} Concepcion Gaute, y el enfiteuta D. Jose Rodriguez,",
+    "y en prueba de la verdad lo firman con migo y testigos lo q.^{e}",
+    "anoto por diligencia = Ysach = A ruego de D. Jose Rodriguez Ju-",
+    "an M.^{a} Vermudez = A ruego de D. Guillermo Aguirre D. Jose",
+    "Ant.^{o} Lopez, D. Martin Galiano, y D. Mariano Noriega Ma-",
+    "riano del Rosario Galiano = Juan M.^{a} Vermudez = Jasinto",
+    "Bogarin = En trese de d^{ho} mes y año, ya pronto para",
+    "dar principio á estas dilig.^{as} de mensura, acopiado de todos los",
+    "individuos neserarios para ella, pasé al mojon esquinero",
+    "del fondo de D.^{a} Concepcion Gaute, y ya puesto en d^{ho} lugar",
+    "demarqué la casa de la nominada Gaute, la que mora desde",
+    "d^{ho} mojon por ochenta grad.^{s} del 2.^{o} quad.^{te} de la aguja,",
+    "ygualmente marqué desde d^{ho} punto la casa de D. —"
+   ],
+   "interpretacion": "La mensura se organiza como una serie de autos fechados. El 8 de mayo de 1826, en el pueblo de San Antonio de Areco, Ysach acepta la comisión dada «por el Señor Presidente de la Nación», es decir Rivadavia, quien entonces promovía la enfiteusis.\nEl 13 de mayo consulta los antecedentes de la Comisión Topográfica: no hay nada particular «sobre este terreno denunciado en enfiteusis». Firman como testigos Juan María Vermúdez y Jacinto Bogarín. El 9 de septiembre cita a los linderos para el 13, con sus documentos, «a defender la línea de su pertenencia». Comparecen Martín Galiano (Galeano), Mariano Noriega, Concepción Gaute y el enfiteuta José Rodríguez. Firman a ruego, porque varios no sabían escribir.\nEl 13 de septiembre, «acopiado de todos los individuos necesarios», va al mojón esquinero del fondo de Concepción Gaute y lo ata a su casa con un rumbo expresado en grados «del 2.º cuadrante de la aguja». Es la notación por cuadrantes de la brújula, típica de la década de 1820."
+  },
+  {
+   "titulo": "Folio 1 (vuelto)",
+   "img": "img/f/011/08.jpg",
+   "fuente": "IMG_6675.JPG",
+   "nota": "Notas marginales «Lado 1.º», «1.ª parte del 2.º lado», «2.ª p.te del 2.º lado» y números de vértice 3.º-5.º en el margen derecho, que remiten al plano. El borde derecho está cortado por la costura.",
+   "lineas": [
+    "Fran.^{co} Aguilar la que mora por angulo de nueve grad.^{s}",
+    "en el 1.^{o} quad.^{te}, y desde d^{ho} punto ó mojon dirijí el [rum-]",
+    "bo de ochenta y cinco g.^{s} del 3.^{o} quad.^{te} de la aguja, y p[or]",
+    "el qual se dirijió la Linea de band.^{s}, y se midieron [qua-]",
+    "[al margen: Lado 1.^{o}] tro mil quatrocient.^{as} setenta var.^{s} con cuya distanc[ia]",
+    "fuimos á dar á la Linea del fondo de D. Jose Ro[dri-]",
+    "guez q.^{e} tiene en enfiteusis, en cuyo punto hise p[lan-]",
+    "tar un mojon por fin del fondo de este terreno y costado [al margen der.: 3.^{o}]",
+    "sudueste, sirviendo en esta operacion mi ayud.^{tes} á saber,",
+    "Jasinto Bogarin p.^{a} dirijir las band.^{s} D. Fernando F[er-]",
+    "nandez para contador de cuerda y D. Juan M.^{a} Ver[mudez]",
+    "para apuntar las estacas de la cuerda, y desde este [mis-]",
+    "mo mojon dirijí el rumbo, q.^{e} fue el de cinco g.^{s} en el [...]",
+    "[al margen: 1.^{a} parte del 2.^{o} lado] quad.^{te} de la aguja, y por el qual se midieron ocho[ci-] [al margen der.: 4.^{o}]",
+    "entas setenta y nueve v.^{s} con cuya dist.^{a} dimo[s con]",
+    "el mojon esquinero del fondo y costado del Zueste [?] [de-]",
+    "nominado D. Jose Rodriguez el qual mojon lo ma[rqué]",
+    "morando la casa de D.^{a} Micaela Marfil por los",
+    "torse g.^{s} del 4.^{o} quad.^{te} ygualm.^{te} marqué la casa de [D.]",
+    "Siriaco Monsalbo la q.^{e} mora p.^{r} setenta y cinco [g.^{s}]",
+    "del 2.^{o} quad.^{te}, y desde este mojon siguiendo la [mis-]",
+    "[al margen: 2.^{a} p.^{te} del 2.^{o} lado] ma direccion se midieron siete mil sesenta y [qua-]",
+    "tro v.^{s} con la qual dist.^{a} desp.^{s} de echa la correc[c-]",
+    "ion de la cuerda dimos con la Linea del costad[o del]",
+    "terreno de la propiedad de D. Martin Galiano [al margen der.: 5.^{o}]"
+   ],
+   "interpretacion": "Desde el mojón de Gaute (visuales a las casas de Francisco Aguilar y de Gaute) sigue la línea de banderas: 85° del 3.er cuadrante, 4470 varas, hasta el fondo del enfiteuta José Rodríguez. Ahí planta el mojón del fondo y costado SO.\nEl pasaje clave describe el equipo: Jacinto Bogarín «para dirigir las banderas», Fernando Fernández «para contador de cuerda» y Juan María Vermúdez «para apuntar las estacas de la cuerda». Es la tripulación mínima de una mensura a cuerda: banderero, contador y anotador.\nDesde allí, 5° de cuadrante: 879 varas hasta el mojón de José Rodríguez, atado a las casas de Micaela Marfil y de Ciriaco Monsalvo. Luego 7064 varas más, «después de hecha la corrección de la cuerda», hasta el costado de Martín Galiano. La corrección de la cuerda (por estiramiento o humedad) aparece como paso explícito."
+  },
+  {
+   "titulo": "Folio 2 (recto)",
+   "img": "img/f/011/09.jpg",
+   "fuente": "IMG_6676.JPG",
+   "nota": "Foliatura «2». «Sanjon» se lee con claridad: la naciente del arroyo es una «especie de zanjón».",
+   "lineas": [
+    "en cuyo punto hise plantar un mojon p.^{r} fin del fon-",
+    "do y costado del Sudueste de este terreno, y desde este mar-",
+    "qué la casa del finado D. Anastacio Gaute la que mora",
+    "por los sesenta y tres g.^{s} del 4.^{o} quad.^{te}, ygualmente mar-",
+    "qué la casa de D. Juan Escobar la q.^{e} mora por setenta",
+    "grad.^{s} en el 2.^{o} quad.^{te} y desde esta dirijí el rumbo del Su-",
+    "este corregido, y por el qual se midieron siete mil",
+    "quatrocientas quarenta v.^{s} con cuya dist.^{a} desp.^{s} de",
+    "echa la correccion de la cuerda dimos con el mojon del",
+    "frente del nominado D. Martin Galiano, el qual no se marcó",
+    "por estar en un bajo, y no berse desde el ning.^{n} objeto",
+    "estable, y desde este dirijí el rumbo de sesenta y qua-",
+    "tro g.^{s} en el 1.^{o} quad.^{te} por el qual se midieron dos mil",
+    "seiscientas cincuenta v.^{s} con cuya dist.^{a} dimos con la",
+    "punta de una especie de zanjon que forma el prin-",
+    "cipio ó naciente del arroyo de Giles, en cuyo lugar hi-",
+    "se plantar un mojon, y desde el qual marqué la casa",
+    "de D. Joaquin Rodrig.^{z} la que mora por beinte y qua-",
+    "tro g.^{s} del 1.^{o} quad.^{te}, ygualm.^{te} marqué la casa de D. Martin",
+    "Galiano la q.^{e} mora p.^{r} angulo de siete g.^{s} en el 4.^{o} q.^{te}",
+    "y desde este punto ó mojon dirijí el rumbo del sur de",
+    "la aguja siguiendo el costado de un triangulo rectan-",
+    "gulo q.^{e} es la figura q.^{e} forma el terreno de la pro-",
+    "piedad de este Lind.^{o} que lo es D. Jose Ant.^{o} Lopez,",
+    "p.^{r} cuyo rumbo se midieron mil quinientas treinta"
+   ],
+   "interpretacion": "El mojón del fondo SO se ata a la casa del finado Anastasio Gaute y a la de Juan Escobar. Desde allí, «rumbo del SE corregido», mide 7440 varas hasta el mojón del frente de Martín Galiano, que no se marcó «por estar en un bajo y no verse desde él ningún objeto estable». En la llanura, un bajo impide ver casas u otras referencias fijas.\nSigue con 2650 varas a 64° del 1.er cuadrante hasta «la punta de una especie de zanjón que forma el principio o naciente del arroyo de Giles», donde planta mojón con visuales a las casas de Joaquín Rodríguez y de Martín Galiano. Esta es la descripción más temprana de la cabecera del arroyo en la serie: un zanjón. Coincide con la «punta del arroyo» de 1854 (Ficha 004) y la «naciente de la Cañada de Giles» de 1838 (Ficha 003).\nLuego baja al sur de la aguja por el costado del triángulo rectángulo de José Antonio López."
+  },
+  {
+   "titulo": "Folio 2 (vuelto)",
+   "img": "img/f/011/10.jpg",
+   "fuente": "IMG_6677.JPG",
+   "nota": "Superficie; al margen derecho, a lápiz: «60 / 36 000000 / 1,07» (cálculo de verificación en leguas cuadradas).",
+   "lineas": [
+    "y dos v.^{s} con la qual dist.^{a} dimos con la Linea de",
+    "fondos del terreno de la propiedad de D. Mariano [No-]",
+    "riega en cuyo punto hise plantar un mojon y [des-]",
+    "de el qual marqué la casa de D. Martin Galiano [q.^{e}]",
+    "mora p.^{r} angulo de cinco g.^{s} en el 4.^{o} quad.^{te} yg[ual-]",
+    "mente marqué la casa de D. Joaquin Rodrigue[z]",
+    "que mora por angulo de cinco g.^{s} en el 1.^{o} q[uad.^{te}]",
+    "y desde este mojon dirijí el rumbo del sudue[ste de]",
+    "la aguja q.^{e} es con el q.^{e} se miden los terren[os de]",
+    "cabezeras de las suert.^{s} pples.^{s} del rio de Luján [?]",
+    "p.^{r} cuyo rumbo se midieron quatro mil nov[eci-]",
+    "[al margen: Lado 6.^{o}] entas y dos v.^{s} con cuya dist.^{a} despues de echa [la]",
+    "correccion de la cuerda dimos con el mojon de [ca-]",
+    "beseras del terreno de la propiedad de D.^{a} Concep[ci-]",
+    "on Gaute, q.^{e} fue el de ntra. primer salida con [cuya]",
+    "operacion quedó este terreno deslind.^{o} y amoj[ona-]",
+    "do á toda mi satisf.^{on} sin haber havido opo[si-]",
+    "cion ni contradicion de parte alg.^{a}; teniend[o la]",
+    "figura de este terreno la de un rumboyde que",
+    "cierra en su espacio treinta y ocho millones [qui-]",
+    "nientas treinta mil quinientas y setenta [y]",
+    "dos v.^{s} superficiales q.^{e} reducid.^{s} en orden á [le-]",
+    "gua quadrada es una Legua mas quatrocient[as]",
+    "y beinte y dos v.^{s} de frente con Legua de fo[ndo]",
+    "y p.^{a} const.^{a} lo firman con migo los Lind[eros]"
+   ],
+   "interpretacion": "El lado mide 1532 varas hasta la línea de fondos de Mariano Noriega, donde se planta un mojón con visuales a las casas de Galiano y de Joaquín Rodríguez. De allí sigue «el rumbo del SO de la aguja, que es con el que se miden los terrenos de cabeceras de las suertes principales del río de Luján [?]». Es una regla regional de orientación: las cabeceras se trazan con la aguja sin corregir. Son 4902 varas hasta el mojón de Gaute, «que fue el de nuestra primera salida».\nEl terreno queda deslindado y amojonado «sin haber habido oposición ni contradicción de parte alguna». Tiene figura de «rumboide» (romboide) y 38.530.572 v², igual a una legua cuadrada más 422 varas de frente por legua de fondo (≈ 2890 ha). El cálculo a lápiz del margen da 1,07 leguas cuadradas."
+  },
+  {
+   "titulo": "Folio 3 (recto)",
+   "img": "img/f/011/11.jpg",
+   "fuente": "IMG_6678.JPG",
+   "nota": "Foliatura «3». Firma autógrafa de Francisco Ysach con gran rúbrica. El dictamen del Departamento es un BORRADOR, con tachaduras y agregados interlineados (en superíndice).",
+   "lineas": [
+    "ros propietarios y testigos de la actuacion lo que",
+    "anoto por diligencia = Ysach = Jasinto Bogarin =",
+    "por mi, mi compañero, y D. Jose Rodriguez Juan",
+    "M.^{a} Vermudez = A ruego de los mismos Mariano",
+    "del Rosario Galiano = Por concluidas estas dili-",
+    "gencias debuelvanse al Juzg.^{do} donde corresponden p.^{a}",
+    "su aprobacion. S^{n} Antonio de Areco, y Sept.^{e} diez",
+    "y seis de mil ochocientos beinte y seis = Fran-",
+    "sisco Ysach.",
+    "Fran.^{co} Ysach [rúbrica]",
+    "~~S^{r} Juez de Primera Instancia~~",
+    "Ex.^{mo} Señor.",
+    "El Departamento topog.^{co} ha examinado la presen-",
+    "te mensura, y en ella ^{observa} ~~[...]~~ q.^{e} ~~[...]~~ los rumbos ^{seguidos no} ~~[...]~~",
+    "~~son~~ ^{los mandados} observar p.^{r} resoluciones superiores, y ~~[...]~~",
+    "cuya circunstancia ignora el Depart.^{to} si ha podido ~~[...]~~",
+    "~~[...]~~ ser un resultado de la ubicacion de las",
+    "propiedades adyacentes, mayormente cuando el agri-",
+    "mensor no espresa haber ^{registrado} ~~[...]~~ los titulos de los",
+    "~~[...]~~ linderos; lo cual parece deber",
+    "[al margen: 60/36000000 [?] 1,07] ser esclarecerse antes de proceder á la aprobacion",
+    "de esta mensura ^{ordenando q.^{e} d^{ho} agrimensor} ~~[...] 7 [...] 1827~~ ^{aclare} ~~[...]~~ esta",
+    "~~V. E. [...]~~",
+    "duda ante el Juez territorial, ^{remitiendo á este} ^{dando en} y de cuenta con"
+   ],
+   "interpretacion": "Firman a ruego Jacinto Bogarín, Juan María Vermúdez y Mariano del Rosario Galiano. Ysach da por concluidas las diligencias y las devuelve al juzgado para su aprobación. San Antonio de Areco, 16 de septiembre de 1826. Firma y rúbrica de Francisco Ysach. Queda aclarada la lectura «Ysach» dudosa de la Ficha 009: es el mismo agrimensor.\nEl Departamento Topográfico, dirigiéndose al «Excelentísimo Señor» (el tratamiento cambia de «Juez de 1.ª Instancia», tachado, a Excmo.), objeta que los rumbos seguidos no son «los mandados observar por resoluciones superiores». No sabe si eso resulta de la ubicación de las propiedades vecinas, «mayormente cuando el agrimensor no expresa haber registrado los títulos de los linderos». Pide que Ysach aclare la duda ante el juez territorial antes de aprobar.\nEs la primera evidencia de la serie de que el Estado exigía rumbos corregidos y castigaba el uso de la aguja «a la antigua»."
+  },
+  {
+   "titulo": "Folio 3 (vuelto)",
+   "img": "img/f/011/12.jpg",
+   "fuente": "IMG_6679.JPG",
+   "nota": "Cierre del borrador con encabezado marginal «Depart.to» y fecha «[...] 8 de 1827». El resto de la hoja está en blanco, con la firma de Ysach traslucida.",
+   "lineas": [
+    "[al margen:] Depart.^{to}",
+    "el resultado q.^{e} ~~produsca~~ ^{haya producido, i} al exsamen de los indivi-",
+    "duos; ~~sin perjuicio q.^{e} V. E. así lo tiene aprobado~~. ^{V. E. sin embargo resolverá lo q.^{e} fuere de su superior} ~~[...]~~",
+    "agrado.",
+    "[fecha:] [...] 8 de 1827.",
+    "[el resto de la hoja en blanco; se trasluce la firma de Ysach del reverso]"
+   ],
+   "interpretacion": "El Departamento concluye que dará cuenta del resultado de la aclaración y que el Excelentísimo Señor «resolverá lo que fuere de su superior agrado». La fecha, de 1827, muestra cuánto tardaba el trámite: la mensura es de septiembre de 1826 y el dictamen del año siguiente, en plena crisis de la presidencia de Rivadavia."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano topográfico del terreno de Guillermo Aguirre en enfiteusis",
+   "img": "img/f/011/03.jpg",
+   "fuente": "IMG_6680.JPG (lámina desplegada)",
+   "orientacion": "Lámina apaisada plegada con la «Explicación» a la izquierda; rosa en flor de lis con la leyenda «Norte del Mundo».",
+   "interpretacion": "El romboide (vértices 1 a 6) aparece cortado por la «Cañada de los Negros», que lo atraviesa de NO a SE y termina en el «Naciente del Arroyo de Giles», junto al vértice 1. Las casas numeradas (7 a 14) están dibujadas como pequeños ranchos con sombreado rojo. Hay manchas grises de agua o pajonal (lagunas) en el sector NO.\nLa «Explicación» describe la lámina: «Plano topográfico del terreno que D. Guillermo Aguirre tiene en enfiteusis, compuesto de una legua cuadrada más 422 varas de frente con una legua de fondo, levantado por el agrimensor D. Francisco Ysach, el año de 1826». La escala es «de tres mil varas». Es el único plano de la serie con «Norte del Mundo», el norte verdadero, en tanto el cuerpo de la mensura usa la aguja.",
+   "referencias": [
+    [
+     "1.2.3.4.5.6",
+     "«es la figura que tiene este terreno»"
+    ],
+    [
+     "[1-2]",
+     "costado del triángulo que linda con el propietario D. José Ant.o López"
+    ],
+    [
+     "[2-3]",
+     "costado que linda con Noriega"
+    ],
+    [
+     "[3-4]",
+     "costado que linda con terreno de propiedad pública"
+    ],
+    [
+     "[4-5]",
+     "costado que linda con el enfiteuta Celidonio Fernández"
+    ],
+    [
+     "5.6.1",
+     "costados que lindan con el propietario D. Martín Galeano"
+    ],
+    [
+     "Cañada de los Negros",
+     "Curso que cruza el terreno y desemboca en el naciente del arroyo de Giles"
+    ],
+    [
+     "Naciente del Arroyo de Giles",
+     "Vértice 1; la «especie de zanjón»"
+    ],
+    [
+     "Norte del Mundo",
+     "Rosa en flor de lis (norte verdadero)"
+    ],
+    [
+     "Escala",
+     "«Escala de tres mil varas»"
+    ]
+   ]
+  },
+  {
+   "titulo": "Plano: la «Explicación» con firma de Ysach",
+   "img": "img/f/011/04.jpg",
+   "fuente": "IMG_6683.JPG",
+   "orientacion": "Detalle de la columna izquierda de la lámina.",
+   "interpretacion": "La leyenda numerada de casas y costados cierra con la firma autógrafa «Fran.co Ysach» y su rúbrica.",
+   "referencias": []
+  },
+  {
+   "titulo": "Plano: Cañada de los Negros y naciente del arroyo de Giles",
+   "img": "img/f/011/05.jpg",
+   "fuente": "IMG_6685.JPG",
+   "orientacion": "Detalle del ángulo E de la lámina.",
+   "interpretacion": "Detalle ampliado: la cañada dibujada en gris se une en el vértice 1 al «Naciente del Arroyo de Giles», con las casas 13 (Galeano) y 14 (Rodríguez) en la cabecera. Se leen a lápiz los nombres de los linderos (Noriega, López). La flor de lis y la línea del «Norte del Mundo» permiten medir el ángulo entre el norte verdadero y los lados.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "La enfiteusis en el terreno",
+   "texto": "Es la primera mensura de la serie de un campo en enfiteusis, el régimen rivadaviano que arrendaba la tierra pública (ley de 1826). La comisión viene «del Señor Presidente de la Nación», la Comisión Topográfica certifica que no hay otra denuncia, y aparecen varios enfiteutas vecinos: José Rodríguez y Celidonio Fernández. También hay un costado lindero con «terreno de propiedad pública». La nota posterior muestra el destino: el campo pasa a ser «propiedad» de Pascuala Romero (Ficha 003, 1838). Es un caso para estudiar el paso de la enfiteusis a la propiedad bajo Rosas."
+  },
+  {
+   "titulo": "Paisaje: el naciente del arroyo de giles",
+   "texto": "La cabecera del arroyo se describe como «la punta de una especie de zanjón». El plano muestra que allí desagua la «Cañada de los Negros», que cruza el campo. Hay un mojón en un «bajo» desde el que no se ve «ningún objeto estable», y lagunas o pajonales dibujados en gris. El topónimo «Cañada de los Negros» merece investigación: ¿alude a población afrodescendiente del pago?"
+  },
+  {
+   "titulo": "Paisaje construido",
+   "texto": "Hay ocho casas nombradas y numeradas (Monsalvo, Marfil, dos Gaute, Escobar, Aguilar, Galeano, Rodríguez), dibujadas como ranchos. El poblamiento de 1826 ya es denso en torno al naciente. Son todas referencias de visual, es decir, el paisaje doméstico como red trigonométrica."
+  },
+  {
+   "titulo": "El ritual y el equipo",
+   "texto": "La mensura procede por autos fechados, con testigos de actuación (Vermúdez, Bogarín), citación a linderos «con los documentos de su propiedad a defender la línea de su pertenencia» y firmas «a ruego» de quienes no sabían escribir. Se nombra el equipo: banderero (Bogarín), contador de cuerda (Fernando Fernández) y anotador de estacas (Vermúdez). Se hace la «corrección de la cuerda» en cada lado largo y se cierra «sin oposición ni contradicción»."
+  },
+  {
+   "titulo": "Rumbos: la aguja contra el estado",
+   "texto": "Ysach mide por cuadrantes «de la aguja» y dice que el SO de la aguja es «con el que se miden los terrenos de cabeceras de las suertes principales del río de Luján [?]». El Departamento Topográfico objeta que no son los rumbos «mandados observar por resoluciones superiores». Es el origen del conflicto que Schuster (Ficha 009) y Eguía (010) todavía arrastran. El plano, en cambio, trae el «Norte del Mundo»."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "38.530.572 v² ≈ 2890 ha, igual a 1 legua² más 422 v de frente por 1 legua de fondo (36.000.000 v² = 1 legua²). El cálculo a lápiz del margen da 1,07 leguas². Los lados miden entre 879 y 7440 varas (0,76-6,4 km)."
+  },
+  {
+   "titulo": "Estado y lecturas dudosas",
+   "texto": "Es una copia en buen estado, con fotos oblicuas y el borde derecho cortado por la costura (reconstruido entre corchetes). El dictamen es un borrador tachado. Quedan dudosos «Gaute» (¿Gauto?), «Zueste», «río de Luján», el día y mes del dictamen de 1827 y la palabra a lápiz de la portada."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Cómo pasó el campo de la enfiteusis de Aguirre a la propiedad de Pascuala Romero? ¿Compra de la enfiteusis y luego venta de Rosas (1836-38)? ¿Se aclararon los rumbos? ¿Qué es el «Fortín de Areco» de la portadilla y dónde estaba? ¿Por qué la cañada se llama «de los Negros»?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Francisco Ysach (Isach)",
+   "rol": "Agrimensor",
+   "texto": "Midió en 1826 en el partido de Areco con comisión presidencial para enfiteusis; firma «Fran.co Ysach» con rúbrica elaborada. Según la Ficha 009 volvió a ser nombrado en 1838 para los Figueroa, y de esa mensura quedaron mojones de piedra pero no las diligencias. No se hallaron datos biográficos en una búsqueda web breve.",
+   "fuentes": "Esta mensura; Ficha 009; búsqueda web sin resultados."
+  },
+  {
+   "nombre": "Guillermo Aguirre",
+   "rol": "Enfiteuta",
+   "texto": "Tenía «tomado en enfiteusis» el terreno entre el naciente del arroyo de Giles y la Cañada de los Negros, «en el Fortín de Areco». Firmó a su ruego José Antonio López. No hay más datos; ¿tiene relación con los Aguirre de las notas de sobrantes de la Ficha 007?",
+   "fuentes": "Esta mensura; Ficha 007."
+  },
+  {
+   "nombre": "Bernardino Rivadavia (1780-1845)",
+   "rol": "Presidente de la nación (comitente)",
+   "texto": "La comisión viene «del Señor Presidente de la Nación». Rivadavia fue presidente entre febrero de 1826 y junio de 1827 e impulsó la ley de enfiteusis de 1826, que arrendaba la tierra pública para garantizar la deuda externa.",
+   "fuentes": "Conocimiento general; Wikipedia, «Bernardino Rivadavia»."
+  },
+  {
+   "nombre": "Pascuala Romero (de Monsalvo)",
+   "rol": "Propietaria posterior",
+   "texto": "La nota de remisión la señala como dueña posterior del mismo terreno, medido por Eguía en 1838 (Ficha 003).",
+   "fuentes": "Ficha 003."
+  },
+  {
+   "nombre": "Jacinto Bogarín · Juan María Vermúdez · Fernando Fernández",
+   "rol": "Testigos y ayudantes de la mensura",
+   "texto": "Bogarín dirigía las banderas, Vermúdez apuntaba las estacas de la cuerda y firmó a ruego, y Fernández era contador de cuerda. Son una rara mención nominal del personal subalterno de una mensura.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Martín Galiano (Galeano) · Mariano del Rosario Galiano",
+   "rol": "Lindero y firmante a ruego",
+   "texto": "Martín Galeano es propietario al E y S, con casa junto al naciente. Sus herederos aparecen en 1838 (Ficha 008) y 1854 (Ficha 004).",
+   "fuentes": "Esta mensura; Fichas 004, 008."
+  },
+  {
+   "nombre": "José Antonio López · Mariano Noriega · Joaquín Rodríguez",
+   "rol": "Linderos",
+   "texto": "López es dueño del «triángulo» que en 1825 vendió en parte a Joaquín Rodríguez (Ficha 004). Los herederos de Noriega aparecen en 1854. Rodríguez tiene casa junto al naciente.",
+   "fuentes": "Esta mensura; Ficha 004."
+  },
+  {
+   "nombre": "José Rodríguez · Celidonio Fernández",
+   "rol": "Enfiteutas linderos",
+   "texto": "Tenían tierra pública en enfiteusis contigua. Sin más datos.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Concepción y Anastasio Gaute · Ciriaco Monsalvo · Micaela Marfil · Juan Escobar · Francisco Aguilar",
+   "rol": "Vecinos con casa (referencias)",
+   "texto": "Sus casas sirven de visuales. Ciriaco Monsalvo y Micaela Marfil pertenecen a familias recurrentes (Fichas 003, 009 y 010).",
+   "fuentes": "Esta mensura."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/011/02.jpg",
+  "fuente": "IMG_6672.JPG",
+  "lineas": [
+   "N.^{o} 66.                    Giles  11",
+   "Secc.^{on} — Areco [subrayado en azul]",
+   "Mensura del terreno",
+   "de enfiteusis",
+   "D.^{n} Guillermo Aguirre en",
+   "el Fortin de Areco",
+   "practicada",
+   "por",
+   "el Agrimensor Ysach",
+   "en Mayo 8 de 1826"
+  ]
+ },
+ "titulo": "D. Guillermo Aguirre (enfiteuta)",
+ "estado": "Transcripta (7 hojas, 144 renglones), 3 láminas"
+}

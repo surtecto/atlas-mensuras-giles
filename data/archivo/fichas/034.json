@@ -1,0 +1,448 @@
+{
+ "carpeta": "34",
+ "carpeta_nombre": "Carpeta 34",
+ "archivo": "Ficha 034 - Sotero Galeano (1865).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles",
+  "N.º de duplicado": "34 (portadilla: «Secc.n Areco N.º 181»)",
+  "Propietario / solicitante": "D. Sotero Galeano (sobrante fiscal)",
+  "Agrimensor": "José María Muñiz",
+  "Año": "1865",
+  "Fecha de la diligencia": "1/5/1865; variación 27/4; D. T. 21/11/1865; aprobada 25/1/1866",
+  "Ubicación": "Entre la testamentaría de Martín Galeano y el campo ex Guerrico (Duberty/Morgan)",
+  "Orden judicial": "Superior Gobierno (concesión 4/10/1864); aprobación del gobernador Saavedra",
+  "Vendedor / antecesor": "Fisco → Sotero Galeano → Dr. Marcelino Mezquita (1868)",
+  "Linderos citados": "Test. M. Galeano · Saraví · Morgan · Duberty · Ordóñez · F. Monsalvo · R. Acuña",
+  "Medidas": "4.203.987 m² (420,4 ha); lados 4156,80 · 7154,02 · 4207,02 · 767,86 m",
+  "Rumbos": "S 42° 18′ O / S 47° 42′ E (verdaderos); variación 11° 28′ NE (altura del Sol)",
+  "Referencia de archivo": "Duplicado 34; antes «Sección Areco N.º 181»; informe judicial 1907"
+ },
+ "metricas": {
+  "superficie_ha": "420,40",
+  "hitos": "Mojón de Eguía (1861); mojones de Muñiz; 11 poblaciones con visual (Flores, Nisson, Butterfield, Padín, Cané…)",
+  "aguas": "Ninguna citada"
+ },
+ "sintesis": "Mensura administrativa de José María Muñiz (1/5/1865) del «terreno público» concedido en compra a Sotero Galeano: el sobrante entre el fondo de la testamentaría de su padre Martín Galeano (y Micaela Casco) y los mojones puestos por Eguía en 1861 para el campo de Guerrico (hoy Duberty y Morgan). Escuadra de ocho lados y 420 ha, con las poblaciones de Flores, Nisson [?] y Butterfield dentro. Cada esquinero se «avaliza» con visuales a casas vecinas (once pobladores). Variación 11° 28′ NE por cálculo esférico; todo en metros. El extracto registra el trámite de compra (1864-66); aprobada por Saavedra el 25/1/1866 con Ordóñez en rebeldía; en 1868 pasa al Dr. Marcelino Mezquita; informe judicial en 1907.",
+ "caratula": {
+  "img": "img/f/034/01.jpg",
+  "fuente": "IMG_7064.JPG",
+  "campos": [
+   [
+    "N.º",
+    "34"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Sotero Galeano"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Muñiz"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1865"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Extracto del expediente de compra (1864-65) y arranque de la mensura",
+   "img": "img/f/034/05.jpg",
+   "fuente": "IMG_7066.JPG",
+   "nota": "Foliatura «1». Letra corrida de Muñiz. Tres renglones testados y salvados al final (f. 2).",
+   "lineas": [
+    "Estracto –",
+    "En 26 de Agosto de 1864 D. Felipe San Martin como apo-",
+    "derado de D. Sotero Galeano pide al Gobierno se le conceda",
+    "en compra el sobrante que pueda resultar de la mensura",
+    "que vá á practicarse del terreno perteneciente á la testa-",
+    "mentaria de D. Martin Galeano, en el Partido de Giles y",
+    "cuyos linderos son; por el Norte los Herederos de Saraví;",
+    "por el Sud Monsalvo; por el Este D. Pedro Rodriguez y por",
+    "el Oeste D. Placido Guerrico –",
+    "En Septiembre 10 del mismo el Departamento Topográfico espre",
+    "sa no tener conocimiento de la existencia de ese sobrante",
+    "pero cree que puede concederse señalandose un plazo para",
+    "la mensura —",
+    "En Octubre 4 del mismo el Gobierno concede a D. Sotero Galea",
+    "no el sobrante que pueda resultar despues de practicada",
+    "la mensura del terreno de su propiedad, en Giles, fijando",
+    "el término de cuatro meses para esa operacion —",
+    "En Febrero 13 de 1865 D. Sotero Galeano pide prórroga y pro",
+    "pone al Agrimensor actuante para la mensura del sobrante",
+    "En 20 del mismo mes y año el Gobierno dá sesenta dias de",
+    "plazo y acepta el nombramiento de Agrimensor —",
+    "En 25 de Abril el Departamento espide los antecedentes",
+    "Mensura. En el Partido de Giles á primero de Ma",
+    "yo de Mil ochocientos sesenta y cinco, comisionado por",
+    "el Superior Gobierno, yo el Agrimensor que firmo, para",
+    "medir el terreno concedido en compra a D. Sotero Galeano",
+    "prévio el aviso correspondiente à los linderos procedí",
+    "de la manera siguiente:",
+    "Tomé por punto de arranque ~~el antiguo~~ mojon ~~de pie~~",
+    "~~dra Esquinero Oeste del terreno comprado~~ que coloqué",
+    "como Esquinero Norte del terreno perteneciente á la Tes-"
+   ],
+   "interpretacion": "Extracto del expediente administrativo: el 26/8/1864 Felipe San Martín, apoderado de Sotero Galeano, pide al Gobierno la compra del sobrante «que pueda resultar» de la mensura que va a practicarse en el terreno de la testamentaría de Martín Galeano, partido de Giles, cuyos linderos son: N los herederos de Saraví, S Monsalvo, E Pedro Rodríguez, O Plácido Guerrico. El 10/9 el Departamento Topográfico dice no tener conocimiento del sobrante, pero cree que puede concederse con plazo para la mensura; el 4/10/1864 el Gobierno lo concede y fija cuatro meses; el 13/2/1865 Galeano pide prórroga y propone al agrimensor; el 20/2 se dan sesenta días; el 25/4 el Departamento expide los antecedentes.\nMensura: en el partido de Giles, 1/5/1865, el agrimensor comisionado por el Superior Gobierno, previo aviso a los linderos, toma por arranque el mojón «que coloqué como esquinero Norte del terreno perteneciente a la testamentaría…» (él mismo había medido antes ese campo)."
+  },
+  {
+   "titulo": "Folio 1 v. · Perímetro con visuales a las poblaciones; mojón de Eguía (1861)",
+   "img": "img/f/034/06.jpg",
+   "fuente": "IMG_7067.JPG",
+   "nota": "«setenta» testado, «cincuenta» entre renglones (salvado). Apellidos dudosos: «Nisson», «Vicenter».",
+   "lineas": [
+    "tamentaria de D. Martin Galeano, el que avalicé observando",
+    "al Sud sesenta y tres grados Este un Puesto de Saraví; al",
+    "Sud treinta y siete grados quince minutos Este la Poblacion",
+    "de D. José Padin y al Norte cincuenta y cinco grados diez mi-",
+    "nutos Oeste la de D. Juan Flores. Del mismo punto midiendo",
+    "al Sud cuarenta y dos grados diez y ocho minutos Oeste y di-",
+    "vidiendo con los Herederos de D. Martin Galeano medí cuatro",
+    "mil ciento cincuenta y seis metros ocho decimetros hasta el",
+    "mojon Esquinero Oeste del terreno de la Testamentaria, letra F,",
+    "cuyo mojon demarqué con las siguientes visuales; al Norte",
+    "treinta [?] grados Oeste la Poblacion de D. Santiago Nisson [?];",
+    "al Sud setenta y dos grados treinta minutos Este la de D. Jorge",
+    "Buterfield y al Sud cuarenta y seis grados diez minutos Este la",
+    "de D. Melchor Galeano.– Del mismo mojon cuadré al Sud cua-",
+    "renta y siete grados cuarenta y dos minutos Este y hallé",
+    "un mojon á los cuatro mil cuatrocientos sesenta metros",
+    "setenta y seis centimetros y á los siete mil ciento ~~setenta~~ ^{cincuenta} y",
+    "cuatro metros dos centimetros dí con el Esquinero Sud de la Tes-",
+    "tamentaria, desde el cual al Sud setenta y siete grados cuarenta",
+    "minutos Oeste medí hasta el Esquinero Este de D. Remijio",
+    "Acuña ciento diez y ocho metros sesenta y cuatro centi-",
+    "metros. Demarqué este mojon observando: al Norte veinte",
+    "grados cuarenta minutos Oeste la Poblacion de D. Narciso",
+    "Vicenter [?]; al Norte catorce grados cuarenta minutos Este",
+    "la de D. Luis Cané y al Norte cincuenta y ocho grados",
+    "treinta minutos Este la de D. Carlos Buterfield. Del mismo",
+    "mojon al Norte cuarenta y siete grados cincuenta y un",
+    "minutos Oeste y dividiendo con Acuña dí con el Esquinero",
+    "Norte del mismo á los dos mil seiscientos noventa y",
+    "tres metros veinte y seis centimetros. De este punto al",
+    "Norte cuarenta y siete grados cuarenta y tres minutos",
+    "Oeste y dividiendo con Monsalvo hallé el Esquinero",
+    "Norte del mismo y Este de Ordoñez á los cuatro mil",
+    "veinte y ocho metros sesenta y tres centimetros. Del",
+    "mismo mojon al Norte cuarenta y cinco grados ~~tre~~",
+    "~~senta~~ cinco minutos Oeste hallé el mojon Esquinero Sud",
+    "del terreno de Duberty puesto por Eguia en Marzo de",
+    "1861, á los mil doscientos treinta y cuatro metros. Ava-",
+    "licé este mojon observando: al Norte ochenta y nueve",
+    "grados cincuenta minutos Este la Poblacion de Buterfield;",
+    "al Norte setenta y nueve grados treinta minutos Este",
+    "la de D. Sotero Galeano y al Norte treinta y cuatro grados",
+    "treinta minutos Este la de D. Antonio Romero. Del"
+   ],
+   "interpretacion": "…de Martín Galeano», que «avaliza» con visuales: S 63° E un puesto de Saraví; S 37° 15′ E la población de José Padín; N 55° 10′ O la de Juan Flores. Desde allí, S 42° 18′ O, dividiendo con los herederos de Galeano, 4156,80 m hasta el esquinero O de la testamentaría (letra F), con visuales a las poblaciones de Santiago Nisson [?], Jorge Butterfield y Melchor Galeano. Cuadra al S 47° 42′ E: mojón a 4460,76 m y esquinero S de la testamentaría a 7154,02 m; de allí, S 77° 40′ O, 118,64 m hasta el esquinero E de Remigio Acuña (visuales a las poblaciones de Narciso Vicenter [?], Luis Cané y Carlos Butterfield). Vuelve al N 47° 51′ O con Acuña, 2693,26 m; N 47° 43′ O con Monsalvo, 4028,63 m, hasta el esquinero N de éste y E de Ordóñez; N 45° 05′ O, 1234 m, hasta el esquinero S del terreno de Duberty «puesto por Eguía en marzo de 1861» (Ficha 029), con visuales a las poblaciones de Butterfield, Sotero Galeano y Antonio Romero…"
+  },
+  {
+   "titulo": "Folio 2 · Cierre, superficie (420 ha), linderos y conformidad; variación 11° 28′",
+   "img": "img/f/034/07.jpg",
+   "fuente": "IMG_7068.JPG",
+   "nota": "Foliatura «2». Salvado de testados al pie; cifra del área a lápiz.",
+   "lineas": [
+    "mismo mojon y dividiendo con Duberty al Norte cua-",
+    "renta y tres grados cuarenta y dos minutos Este hallé",
+    "el Esquinero Sud de Morgan á los dos mil seiscientos un",
+    "metros cincuenta y dos centimetros y á los cuatro mil doscien-",
+    "tos siete metros dos centimetros dí con el Esquinero Este del",
+    "mismo, y costanero de Saraví, desde el cual observé: la",
+    "Poblacion de D. Santiago Nisson [?] al Sud treinta y un gra-",
+    "dos diez minutos Oeste; la de D. Juan Flores al Sud cinco",
+    "minutos Oeste y la de D. Sotero Galeano al Sud trece",
+    "grados Este. Del mismo punto midiendo al Sud cuarenta",
+    "y siete grados cuarenta y dos minutos Este y dividiendo con",
+    "Saraví medí hasta el punto de arranque setecientos se-",
+    "senta y siete metros ochenta y seis centimetros, con lo que dí",
+    "por concluida la operacion –",
+    "El terreno medido tiene la forma de un polígono irregular de ocho",
+    "lados y abraza una superficie igual á cuatro millones, doscientos",
+    "tres mil, novecientos ochenta y siete metros cuadrados",
+    "Linda por el Sud-Oeste con D. Remijio Acuña D. Fernando Monsalvo",
+    "y D. Tomas Ordoñez; por el Nor-oeste con D. Francisco Duberty",
+    "y D. Jorge Morgan; por el Nordeste con Saraví y por el",
+    "Sud-este con la Testamentaria de Galeano y con Monsalvo –",
+    "Presenciaron esta operacion los linderos, Acuña, Monsalvo, Or",
+    "doñez, Morgan y Saraví manifestandose conformes con ella",
+    "El lindero Duberty no la presenció ni firmó la circular por",
+    "hallarse ausente del Partido desde mucho tiempo atrás, como",
+    "lo atestigua en la circular el Alcalde que representó al Juez",
+    "de Paz ~~pero~~ su terreno no ha sido invadido –",
+    "Hallé la variacion de la aguja de once grados veinte y ocho",
+    "minutos al Nordeste –",
+    "Testado = antiguo = de piedra Esquinero Oeste del terreno comprado =",
+    "= pero = vale = Entre renglones cincuenta = vale =",
+    "José Maria Muñiz",
+    "[a lápiz: 4 203,987]"
+   ],
+   "interpretacion": "…y dividiendo con Duberty, N 43° 42′ E: esquinero S de Morgan a 2601,52 m y esquinero E de Morgan, costanero de Saraví, a 4207,02 m (visuales a las poblaciones de Nisson [?], Juan Flores y Sotero Galeano). De allí S 47° 42′ E con Saraví, 767,86 m, hasta el arranque.\nEl terreno es un polígono irregular de ocho lados de 4.203.987 m² (420 ha 39 a 87 ca). Linda al SO con Remigio Acuña, Fernando Monsalvo y Tomás Ordóñez; al NO con Francisco Duberty y Jorge Morgan; al NE con Saraví; al SE con la testamentaría de Galeano y con Monsalvo. Presenciaron y se conformaron Acuña, Monsalvo, Ordóñez, Morgan y Saraví. Duberty no asistió ni firmó la circular «por hallarse ausente del partido desde mucho tiempo atrás», como atestigua el alcalde que representó al juez de paz; «su terreno no ha sido invadido». Variación de la aguja: 11° 28′ NE. Firma José María Muñiz."
+  },
+  {
+   "titulo": "Folio 2 v. · Cálculo de la variación (27/4/1865); presentación e informe del D. T.",
+   "img": "img/f/034/08.jpg",
+   "fuente": "IMG_7069.JPG",
+   "nota": "Hoja fotografiada vertical. ☉ = Sol. Firma del cargo dudosa.",
+   "lineas": [
+    "Cálculo de la Variacion",
+    "Abril 27 de 1865 –",
+    "Alt. ☉ 28° 23' – decl. N. ☉ 14° 1' – lat. S. 34° 25' – azim. mg. ☉ N. 56° 43' O",
+    "decl. + 90°    104° 1' = a",
+    "comp. alt.      61° 37' = b . . . log. 9.94437",
+    "  \"   lat.      55° 35' = c . . . log. 9.91642",
+    "               221° 13' = 2p",
+    "               110° 36' 30 = p",
+    "                48° 59' 30 = p–b . . log. 9.87772",
+    "                55° 1' 30 = p–c . . log. 9.91350",
+    "                              Suma . . 19.93043",
+    "                      log. sen ½ A . . 9.96521",
+    "                      sen ½ A . . 67° 22' 30",
+    "                      sen A . . 134° 45",
+    "          azim. verd. ☉ N. 45° 15' O",
+    "          azim. mg. ☉ N. 56° 43' O",
+    "          Variacion . . N. 11° 28' E",
+    "José M.^{a} Muñiz",
+    "Presentada al Depart.^{o} Topográfico",
+    "hoy veinte y nueve de Setiembre de 1865",
+    "P. B. Paez [?]",
+    "Exmo Señor.",
+    "El Depart.^{o} Topográfico ha examinado",
+    "la presente Mensura practicada por el",
+    "Agrimensor D.^{n} José M.^{a} Muñiz de un",
+    "terreno público sito en el Partido de Giles",
+    "concedido en compra a D.^{n} Sotero Galeano",
+    "y encontrandola bien ejecutada la aprueba //"
+   ],
+   "interpretacion": "Cálculo trigonométrico de la variación por una sola altura del Sol (27/4/1865): altura 28° 23′, declinación N 14° 1′, latitud S 34° 25′, azimut magnético N 56° 43′ O. Con el triángulo esférico (a = 90° + decl., b = complemento de la altura, c = colatitud) y logaritmos obtiene el azimut verdadero N 45° 15′ O; la diferencia es la variación, N 11° 28′ E. Es el primer cálculo de este tipo conservado entero en el corpus, y adopta la latitud 34° 25′ S (la misma que Gonnet observó en 1862, Ficha 032).\nPresentada al Departamento Topográfico el 29/9/1865. Informe al gobernador: la mensura del «terreno público» concedido en compra a Sotero Galeano está bien ejecutada y el Departamento la aprueba…"
+  },
+  {
+   "titulo": "Folio 3 · Vista a los linderos; aprobación del Gobierno (25/1/1866); venta al Dr. Mezquita",
+   "img": "img/f/034/09.jpg",
+   "fuente": "IMG_7070.JPG",
+   "nota": "Foliatura «3». Firmas autógrafas del D. T.; debajo, notas de otra mano (extractos de resoluciones).",
+   "lineas": [
+    "// siendo no obstante de parecer que,",
+    "antes que V. E. le dé su superior aproba-",
+    "cion, se dé vista de ella á los linderos",
+    "Morgan, Duberty y Ordoñez que no han",
+    "firmado la circular de citacion, lo que",
+    "si V. E. fuese servido podria ordenar",
+    "que así se hiciese.",
+    "Buenos Ayres Noviembre 21 de 1865.",
+    "Saturnino Salas    Luis A. Huergo",
+    "Pedro Benoit    Ygn.^{o} Casagemas",
+    "Nota = Esta Mensura fué aprobada p.^{r} la resolucion sig.^{te}:",
+    "Enero 25 de 1866 —— Visto lo informado por el",
+    "D. T. certificado por el Actuario, conformidad de",
+    "los linderos Morgan y Duberty y en rebeldia",
+    "del de igual clase Ordoñez que no ha compareci-",
+    "do en virtud de los edictos por que ha sido",
+    "llamado, apruebase la Mensura practicada p.^{r}",
+    "el Agrimensor D.^{n} José Maria Muñiz del",
+    "terreno concedido en venta á D.^{n} Sotero Ga-",
+    "leano, y pase a la Oficina de tierras Publi-",
+    "cas para que liquide el valor del terreno",
+    "sobrante que ha resultado, y sea pagado",
+    "por el comprador en la forma establecida —",
+    "Saavedra —— Luis L. Dominguez.",
+    "Nota = Marzo 31 de 1868 – En esta f.^{ha} se presenta",
+    "D.^{n} Sotero Galeano diciendo que ha vendido",
+    "el terreno de su propiedad al D.^{r} Mezquita"
+   ],
+   "interpretacion": "…pero pide que antes de la aprobación superior se dé vista a los linderos Morgan, Duberty y Ordóñez, «que no han firmado la circular de citación». Buenos Aires, 21/11/1865: Saturnino Salas, Luis A. Huergo, Pedro Benoit, Ignacio Casagemas.\nNota: aprobada por resolución del 25/1/1866 —con la conformidad de Morgan y Duberty y «en rebeldía» de Ordóñez, que no compareció a los edictos—; pasa a la Oficina de Tierras Públicas para liquidar el valor del sobrante. Firman Saavedra (gobernador) y Luis L. Domínguez (ministro).\nNota del 31/3/1868: Sotero Galeano declara haber vendido su terreno al Dr. Mezquita…"
+  },
+  {
+   "titulo": "Folio 3 v. · Transferencia del sobrante a Mezquita (1868); informe judicial de 1907",
+   "img": "img/f/034/10.jpg",
+   "fuente": "IMG_7071.JPG",
+   "nota": "La fecha de la resolución y la de la anotación del D. T. no concuerdan (¿2 o 22 de abril?; «Abre 20»).",
+   "lineas": [
+    "haciendole transferencia de su accion y derechos",
+    "al sobrante encontrado por esta Mensura",
+    "y pidiendo sea aceptada —— A lo que el",
+    "Gob.^{no} recedio [sic] p.^{r} la resolucion siguiente:",
+    "Ab.^{l} 2[2] [?] de 1868 —— Como se pide, y",
+    "previa ratificacion de los interesados, otorgue-",
+    "se la escritura q.^{e} se solicita en favor",
+    "del D.^{r} Mesquita, y comuniquese á",
+    "quienes corresponda —— Alsina —",
+    "Dardo Rocha, O. M.",
+    "Y el D. T. lo anota para su cons-",
+    "tancia en Ab.^{re} 20 [?] de 1868 —",
+    "Salas",
+    "Diciembre 26 de 1907 – En esta fecha se",
+    "informa á los efectos del art. 781 del Cod. de",
+    "Proc., á requerimiento del Señor Juez de 1.^{a}",
+    "Instancia Don Fernandez Blanco Secreta",
+    "ria Sempé en los autos seguidos por la",
+    "Sucesion del D.^{r} Marcelino Mezquita",
+    "sobre informacion. corp. [?] 42 f. 42",
+    "Palacio [?]"
+   ],
+   "interpretacion": "…y haberle transferido «su acción y derechos al sobrante»; pide que se acepte. El Gobierno accede: «Como se pide, y previa ratificación de los interesados, otórguese la escritura que se solicita en favor del Dr. Mezquita». Firman Alsina (gobernador) y Dardo Rocha, oficial mayor. El D. T. lo anota en abril de 1868 (Salas).\nÚltima anotación, 26/12/1907: el archivo informa, a los efectos del art. 781 del Código de Procedimientos y a pedido del juez de 1.ª instancia Fernández Blanco (secretaría Sempé), en los autos de la sucesión del Dr. Marcelino Mezquita. El duplicado siguió vivo como prueba de dominio cuarenta años después."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Terreno público concedido a D. Sotero Galeano",
+   "img": "img/f/034/03.jpg",
+   "fuente": "IMG_7072.JPG",
+   "orientacion": "Pliego largo plegado en tres, a tinta con el sobrante perfilado en rojo; escala gráfica en metros (0-5000); fechado «Giles, Mayo de 1865 — José M.ª Muñiz». La lámina se fotografió invertida (aquí girada 180°).",
+   "interpretacion": "El plano muestra todo el campo de los «Her.s de D. Martín Galeano y D.ª Micaela Casco», un gran polígono con punta hacia «Pedro P. Rodríguez», dividido en seis fajas longitudinales (hijuelas) cuyos anchos se anotan sobre el lado del fondo: 2336,58 · 325,18 · 364,27 · 257,50 · 594,40 · 278,87 m (= 4156,80). El sobrante, en rojo, es una escuadra: un rectángulo de 4156,80 × 767,86 m apoyado en el fondo de la testamentaría («Terreno Público concedido a D. Sotero Galeano», con el agregado posterior «hoy Mezquita») y una lonja de unos 118 m que baja por todo el costado SO, entre los Galeano y «Remigio Acuña» / «Fernando Monsalvo». Dentro del rectángulo se marcan tres poblaciones: «Flores», «S. Nisson» y «Buterfield». Linderos: «Angela Casco de Saraví» (NE), «Morgan» y «F. Duberty» (NO), «F. Ordóñez», «Monsalvo».",
+   "referencias": [
+    [
+     "F",
+     "Esquinero O de la testamentaría de Galeano"
+    ],
+    [
+     "Lados",
+     "«S 42° 18′ O 4156,80» · «N 43° 42′ E 4207,02» (con 2601,52 hasta el esquinero de Morgan) · «N 47° 42′ E [sic] 767,86» · «N 45° 05′ O 1234,05» · «S 47° 42′ E 7154,02» · «N 47° 43′ O 4028,63» · «N 47° 51′ O 2693,26»"
+    ],
+    [
+     "Hijuelas",
+     "Anchos de las fajas de los herederos Galeano–Casco: 2336,58 · 325,18 · 364,27 · 257,50 · 594,40 · 278,87 m"
+    ],
+    [
+     "Linderos",
+     "Angela Casco de Saraví · Pedro P. Rodríguez · Monsalvo · Remigio Acuña · Fernando Monsalvo · F. Ordóñez · F. Duberty · Morgan"
+    ],
+    [
+     "Poblaciones",
+     "Flores · S. Nisson [?] · Buterfield (dentro del sobrante)"
+    ],
+    [
+     "Agregado",
+     "«hoy Mezquita», de otra mano y tinta (después de 1868)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: el rectángulo del sobrante",
+   "img": "img/f/034/04.jpg",
+   "fuente": "IMG_7073.JPG",
+   "orientacion": "Toma parcial, girada 180°.",
+   "interpretacion": "Se leen el rótulo «Terreno Público concedido á D. Sotero Galeano / hoy Mezquita», las poblaciones «Flores», «S. Nisson» y «Buterfield», los anchos de las hijuelas, «Morgan», «F. Duberty», «F. Ordoñez» y el «arranque».",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Comprar el sobrante antes de medirlo",
+   "texto": "El extracto documenta el trámite completo de una compra de tierra pública en 1864-66: el vecino denuncia un sobrante «que pueda resultar» de la mensura de la testamentaría de su padre; el Departamento Topográfico no sabe que exista pero aconseja concederlo con plazo; el Gobierno concede, prorroga, acepta al agrimensor propuesto por el interesado, aprueba (gobernador Saavedra) y pasa a la Oficina de Tierras Públicas para liquidar el precio. El heredero se adelanta así a cualquier tercero que pudiera denunciar el exceso dentro del campo familiar."
+  },
+  {
+   "titulo": "Forma y lugar del sobrante",
+   "texto": "Es el espacio que queda entre el fondo de la testamentaría Galeano–Casco y los mojones de Eguía de 1861 para el campo de Guerrico (Ficha 029: fracciones de Duberty y Morgan), más una lonja de 118 m sobre el costado SO contra Acuña y Monsalvo: 420 ha, bastante más que el exceso de 157 ha que Eguía había hallado del otro lado. El sobrante no estaba vacío: tenía las poblaciones de Flores, Nisson [?] y Butterfield, que pasan a quedar dentro de la tierra comprada por Galeano."
+  },
+  {
+   "titulo": "Las poblaciones como red de visuales",
+   "texto": "Muñiz «avaliza» cada esquinero con tres visuales a casas: puesto de Saraví, José Padín, Juan Flores, Santiago Nisson [?], Jorge y Carlos Butterfield, Melchor y Sotero Galeano, Narciso Vicenter [?], Luis Cané, Antonio Romero. Once poblaciones con rumbo desde cuatro puntos: material directo para reconstruir en GIS el poblamiento de 1865 por intersección, como la tabla de azimutes de Gonnet (032)."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Rumbos verdaderos; variación 11° 28′ NE calculada por trigonometría esférica con una altura del Sol y logaritmos (27/4/1865), adoptando latitud 34° 25′ S. Medidas sólo en metros y centímetros; superficie en metros cuadrados. Salvado notarial de testados y entrerrenglones al pie de la diligencia."
+  },
+  {
+   "titulo": "Ritual y ausencias",
+   "texto": "Circular a los linderos; el alcalde representa al juez de paz y certifica en la circular la ausencia de Duberty «desde mucho tiempo atrás». El D. T. exige igual dar vista a Morgan, Duberty y Ordóñez; el Gobierno aprueba con la conformidad de los dos primeros y «en rebeldía» de Ordóñez, citado por edictos: primera rebeldía de lindero documentada en el corpus."
+  },
+  {
+   "titulo": "Cruces y preguntas abiertas",
+   "texto": "Ficha 029 (Guerrico 1861: «her. de Martín Galeano» linderos; Sotero Galeano representa a su padre; mojones de Eguía; Duberti; «Sanoleti»). Ficha 005 (Angela Casco de Saraví) y 033 (Cucullu): Micaela Casco, mujer de Martín Galeano, suma otro frente Casco. Ficha 030 (Monsalvo). Ficha 008 (Galeano en el pueblo). Butterfield aparece como poblador en tierra fiscal y como dueño anterior de un campo de Morgan (033). ¿Dónde está el duplicado de la mensura previa de la testamentaría Galeano por el mismo Muñiz? Verificar «Nisson» (¿Nixon, Wilson?) y «Vicenter»."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Sotero Galeano",
+   "rol": "Comprador del sobrante",
+   "texto": "Hijo de Martín Galeano y Micaela Casco; en 1861 representó a su padre en la mensura de Guerrico (Ficha 029). Tiene población propia en el campo. Compra el sobrante al fisco (1864-66) y en 1868 vende su terreno y transfiere el sobrante al Dr. Mezquita. Sin otros datos en la búsqueda breve.",
+   "fuentes": "Ficha 029; esta mensura."
+  },
+  {
+   "nombre": "Martín Galeano y Micaela Casco",
+   "rol": "Titulares del campo lindero (testamentaría)",
+   "texto": "Matrimonio dueño del gran campo dividido en seis hijuelas que dibuja el plano. Los Galeano son vecinos fundadores (faja de Galeano junto al Oratorio, Fichas 008 y 032); Micaela pertenece a los Casco (Fichas 005, 014, 033).",
+   "fuentes": "Fichas 005, 008, 014, 029, 032."
+  },
+  {
+   "nombre": "José María Muñiz",
+   "rol": "Agrimensor",
+   "texto": "Sin datos biográficos seguros en la búsqueda breve. Había medido antes la testamentaría de Galeano («mojón que coloqué»). Trabaja con cálculo astronómico propio. No se pudo verificar parentesco con el Dr. Francisco Javier Muñiz, médico y naturalista de Luján.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Dr. Marcelino Mezquita",
+   "rol": "Adquirente (1868)",
+   "texto": "Compra el campo de Sotero Galeano y recibe la escritura del sobrante por resolución de 1868. Su sucesión tramitaba en 1907 ante el juez Fernández Blanco. Sin datos biográficos en la búsqueda breve.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Francisco Duberty · Jorge Morgan · Tomás Ordóñez · Fernando Monsalvo · Remigio Acuña",
+   "rol": "Linderos",
+   "texto": "Duberty (Duberti) y Morgan, compradores del campo de Guerrico (Ficha 029); Jorge Morgan, hijo de Eduardo. Duberty, ausente del partido. Ordóñez, declarado en rebeldía. Fernando Monsalvo, de la familia de la Ficha 030. Remigio Acuña: apellido recurrente (Fichas 003, 030).",
+   "fuentes": "Fichas 029, 030."
+  },
+  {
+   "nombre": "Pobladores con visual",
+   "rol": "Hitos humanos del paisaje",
+   "texto": "José Padín, Juan Flores, Santiago Nisson [?], Jorge y Carlos Butterfield, Melchor Galeano, Narciso Vicenter [?], Luis Cané, Antonio Romero. Butterfield: familia de origen británico ya citada en el corpus; Cané: ligada al campo ex Martínez (029).",
+   "fuentes": "Fichas 029, 033."
+  },
+  {
+   "nombre": "Felipe San Martín",
+   "rol": "Apoderado",
+   "texto": "Gestiona en Buenos Aires la solicitud de compra (1864). Sin datos.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Autoridades",
+   "rol": "Gobierno y d. t.",
+   "texto": "Mariano Saavedra, gobernador (1862-66), y su ministro Luis L. Domínguez; Adolfo Alsina, gobernador (1866-68), y Dardo Rocha —futuro fundador de La Plata— como oficial mayor. D. T.: Salas, Huergo, Benoit, Casagemas (los mismos de la Ficha 033, una semana antes).",
+   "fuentes": "Conocimiento general; Ficha 033."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/034/02.jpg",
+  "fuente": "IMG_7065.JPG",
+  "lineas": [
+   "Secc.^{n} Areco —    Giles",
+   "n.º 181 —    34",
+   "Duplicado de la dilijencia de men",
+   "sura practicada en el terreno concedido",
+   "en compra á D. Sotero Galeano, en el Par",
+   "tido de Giles –",
+   "En Mayo de 1865",
+   "Por el Agrimensor Muñiz",
+   "Agrimensor",
+   "[manchas de tinta]"
+  ]
+ },
+ "titulo": "D. Sotero Galeano (sobrante fiscal)",
+ "estado": "Transcripta (6 hojas, 183 renglones), 2 láminas"
+}

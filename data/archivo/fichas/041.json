@@ -1,0 +1,409 @@
+{
+ "carpeta": "41",
+ "carpeta_nombre": "Carpeta 41",
+ "archivo": "Ficha 041 - Carmen Bustos de Martínez y Miguel Duggan (1867).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles",
+  "N.º de duplicado": "41 (portadilla: «Sección Areco N.º 196»; «Véase el duplicado n.º 40 – 168»)",
+  "Propietario / solicitante": "Carmen Bustos de Martínez y Miguel Duggan",
+  "Agrimensor": "Esteban Gonnet",
+  "Año": "1867",
+  "Fecha de la diligencia": "1/6/1867; presentada 4/6; D. T. 11/6; aprobada por el gobierno 26/6/1867",
+  "Ubicación": "Cañada de Lavallén, fondo de la faja Lencina de Casco (margen O de la Cañada de Giles)",
+  "Orden judicial": "Comisión del Superior Gobierno (resolución a f. 45 vta. del expediente Duggan)",
+  "Vendedor / antecesor": "Fisco (sobrante 2 de la Ficha 040, en el título de M.ª Lencina de Casco)",
+  "Linderos citados": "Herederos de Morgan · Tiburcio Casco · Carmen B. de Martínez",
+  "Medidas": "Martínez 47 ha 09 a 42 ca + Duggan 47 ha 93 a 26 ca = 95,03 ha",
+  "Rumbos": "Verdaderos: N 46° 47′ O (línea divisoria, 710 m) · N 54° 36′ E · S 43° 13′ O",
+  "Referencia de archivo": "Duplicado 41; antes «Sección Areco N.º 196»; ver Dup. 40 y 168"
+ },
+ "metricas": {
+  "superficie_ha": "95,03 (47,09 + 47,93)",
+  "hitos": "Población y zanjeado de Martínez; mojón de ñandubay nuevo sobre la línea de Tiburcio Casco; mojones de 1866",
+  "aguas": "Cañada de Lavallén; arroyo de Suero"
+ },
+ "sintesis": "Continuación del asunto Duggan (Ficha 040). El sobrante de 95 ha de la Cañada de Lavallén, protestado en 1866 porque incluía la población de los Martínez, se divide por resolución del gobierno: Esteban Gonnet (1/6/1867) prolonga 710 m el costado NE del título de Martínez y deja 47,09 ha a Carmen Bustos de Martínez —la verdadera propietaria; José Martínez es su hijo— y 47,93 ha a Miguel Duggan, representado por Jorge Morgan. El Departamento Topográfico informa el 11/6 y el gobierno aprueba el 26/6/1867. Al pie se copian los decretos de escrituración (Alsina – Varela): el de Martínez (2/11/1867) y el de Duggan (19/9/1867), cuya escritura se manda otorgar «en favor de los herederos de D. Eduardo Morgan». Nota de 1911 sobre la posesión treintañal de la sucesión de Avelino Martínez.",
+ "caratula": {
+  "img": "img/f/041/01.jpg",
+  "fuente": "IMG_7180.JPG",
+  "campos": [
+   [
+    "N.º",
+    "41"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Doña Carmen Bustos de Martínez y Don Miguel Duggan"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Estevan Gonnet"
+   ],
+   [
+    "Mes",
+    "Junio"
+   ],
+   [
+    "Año",
+    "1867"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · División del sobrante protestado: de 1866 a 1867",
+   "img": "img/f/041/05.jpg",
+   "fuente": "IMG_7182.JPG",
+   "nota": "Foliatura «1». Letra de copia en limpio (la de la Ficha 040).",
+   "lineas": [
+    "Mensura: – En el partido de Giles a primero",
+    "de Junio de mil ochocientos sesenta y siete,",
+    "yo el Agrimensor que suscribe comisionado",
+    "por el Superior Gobierno para dividir",
+    "el sobrante que en la mensura que practiqué",
+    "a solicitud de D^{n} Miguel Duggan en",
+    "el año proximo pasado de mil ochocientos",
+    "sesenta y seis, resultó en el fondo de los",
+    "terrenos procedentes de D^{ña} Maria Lencina",
+    "de Casco, con arreglo a los varios titulos actual-",
+    "=mente existentes, previa citacion de las dos",
+    "partes interesadas como consta de la circular",
+    "adjunta, me trasladé acompañado de D^{n}",
+    "José Martinez quien representaba su Señora",
+    "Madre D^{ña} Carmen Bustos de Martinez",
+    "y de D^{n} Jorge Morgan quien representaba",
+    "D^{n} Miguel Duggan, al mojon que en",
+    "la referida mensura que practiqué en el",
+    "año de mil ochocientos sesenta y seis habia",
+    "hecho clavar como mojon esquinero norte",
+    "del terreno de D^{ña} Carmen B. de Martinez",
+    "y de este mojon prolongando el costado",
+    "noreste del terreno de Martinez, medí al",
+    "norte cuarenta y seis grados y cuarenta y siete",
+    "minutos oeste verdadero, setecientos diez metros",
+    "hasta dar con el costado sudeste del terreno",
+    "de D^{n} Tiburcio Casco, haciendo clavar",
+    "a la interseccion de estas dos lineas un",
+    "mojon de ñandubay esquinero norte de",
+    "la fraccion de sobrante que corresponde",
+    "a D^{ña} Carmen B. de Martinez y esquinero"
+   ],
+   "interpretacion": "Partido de Giles, 1.º de junio de 1867. Gonnet vuelve, comisionado por el gobierno, a «dividir el sobrante» que en su mensura de 1866 para Miguel Duggan (Ficha 040) resultó en el fondo de los terrenos procedentes de María Lencina de Casco —el sobrante 2, de 95 ha, objetado por el Departamento Topográfico—, «con arreglo a los varios títulos actualmente existentes». Citadas «las dos partes», lo acompañan José Martínez, que representa a «su señora madre D.ª Carmen Bustos de Martínez», y Jorge Morgan, que representa a Miguel Duggan. Arranca del mojón que en 1866 puso como esquinero N del terreno de Carmen B. de Martínez y prolonga su costado NE: N 46° 47′ O verdadero, 710 m, hasta el costado SE de Tiburcio Casco; allí, mojón de ñandubay, esquinero N de la fracción que corresponde a la señora de Martínez y esquinero…"
+  },
+  {
+   "titulo": "Folio 1 v. · Fracción adjudicada a Carmen B. de Martínez: 47,09 ha",
+   "img": "img/f/041/06.jpg",
+   "fuente": "IMG_7183.JPG",
+   "nota": "",
+   "lineas": [
+    "oeste de la fraccion de Sobrante que queda",
+    "a D^{n} Miguel Duggan. De modo que",
+    "la fraccion de Sobrante que corresponde a",
+    "D^{ña} Carmen B. de Martinez tiene la",
+    "figura de un cuadrilatero irregular con",
+    "los limites siguientes: arrancando del",
+    "mojon que en la mencionada mensura",
+    "que practiqué en el año de mil ochocientos",
+    "sesenta y seis habia hecho clavar como",
+    "esquinero norte del titulo de Martinez, al",
+    "sud cuarenta y tres grados y trece minutos",
+    "oeste verdadero, seiscientos siete metros; al",
+    "norte cuarenta y siete grados y veinte y",
+    "cinco minutos oeste verdadero ochocientos",
+    "treinta y cuatro metros; al norte cincuenta",
+    "y cuatro grados y treinta y seis minutos",
+    "este verdadero, seiscientos veinte y nueve metros",
+    "y al sud cuarenta y seis grados y cuarenta",
+    "y siete minutos Este verdadero, setecientos y",
+    "diez metros. – La Superficie encerrada en esta",
+    "figura es de cuarenta y siete hectareas nueve",
+    "areas y cuarenta y dos centiareas y los linderos",
+    "son por el noreste la fraccion de Sobrante",
+    "que queda a D^{n} Miguel Duggan por el",
+    "sudeste D^{ña} Carmen B. de Martinez, por",
+    "el sudoeste, los herederos de Morgan y por",
+    "el noroeste D^{n} Tiburcio Casco. – La",
+    "fraccion de Sobrante que corresponde a D^{n}",
+    "Miguel Duggan tiene la figura de un",
+    "cuadrilatero irregular con los limites siguientes:",
+    "Arrancando del mojon que acababa de hacer"
+   ],
+   "interpretacion": "…O de la que queda a Duggan. Fracción de Carmen B. de Martínez: cuadrilátero irregular. Desde el esquinero N del título de Martínez (mojón de 1866): S 43° 13′ O, 607 m; N 47° 25′ O, 834 m; N 54° 36′ E, 629 m; S 46° 47′ E, 710 m. Superficie: 47 ha 09 a 42 ca. Linderos: NE la fracción de Duggan; SE Carmen B. de Martínez (su propio título); SO los herederos de Morgan (campo ex Guerrico, Ficha 038); NO Tiburcio Casco. Es la mitad del sobrante que contiene la población y el zanjeado viejo de la Cañada de Lavallén: la protesta de 1866 ha surtido efecto.\nFracción de Duggan: cuadrilátero irregular; desde el mojón recién puesto…"
+  },
+  {
+   "titulo": "Folio 2 · Fracción de Duggan: 47,93 ha; presentación (4/6/1867)",
+   "img": "img/f/041/07.jpg",
+   "fuente": "IMG_7184.JPG",
+   "nota": "Foliatura «2». Superficie subrayada en el original. Cargo «F. Fannini [?]».",
+   "lineas": [
+    "clavar como esquinero norte del Sobrante de",
+    "Martinez y oeste del Sobrante de Duggan",
+    "al norte cincuenta y cuatro grados y treinta",
+    "y seis minutos este verdadero trescientos y",
+    "nueve metros; al sud cuarenta y seis grados",
+    "y cuarenta y cinco minutos este verdadero",
+    "mil quinientos cincuenta y un metros; al",
+    "sud cuarenta y tres grados y cincuenta y",
+    "cuatro minutos oeste verdadero, trescientos",
+    "tres metros y al norte cuarenta y seis grados",
+    "y cuarenta y siete minutos oeste verdadero,",
+    "mil seiscientos nueve metros. La Superficie",
+    "encerrada en esta figura es de cuarenta y",
+    "siete hectareas noventa y tres areas y veinte",
+    "y seis centiareas, y los linderos son por el",
+    "noreste y sudeste los herederos de Morgan",
+    "por el sudoeste D^{ña} Carmen B. de",
+    "Martinez y por el noroeste D^{n} Tiburcio",
+    "Casco. –",
+    "E. Gonnet",
+    "Junio 4 de 1867.",
+    "En el dia de esta fecha, fué pre-",
+    "sentada al Dep.^{o} Top.^{o}",
+    "F. Fannini [?]",
+    "Exmo Señor: –",
+    "El Departam.^{o} Topográfico",
+    "ha examinado el presente"
+   ],
+   "interpretacion": "…N 54° 36′ E, 309 m; S 46° 45′ E, 1551 m; S 43° 54′ O, 303 m; N 46° 47′ O, 1609 m. Superficie: 47 ha 93 a 26 ca. Linderos: NE y SE los herederos de Morgan; SO Carmen B. de Martínez; NO Tiburcio Casco. Las dos fracciones suman 95 ha 02 a 68 ca: exactamente el sobrante 2 de 1866, partido casi por mitades, pero no con una línea nueva sino prolongando 710 m el costado NE del título de Martínez. Firma Gonnet; presentada al Departamento Topográfico el 4/6/1867. Empieza el informe al gobernador («Exmo. Señor»)."
+  },
+  {
+   "titulo": "Folio 2 v. · Informe del D. T. (11/6/1867), aprobación y nota de la venta a Martínez",
+   "img": "img/f/041/08.jpg",
+   "fuente": "IMG_7185.JPG",
+   "nota": "Letra grande del D. T.; debajo, notas de Saturnino Salas en letra menuda. «por otra» repetido en el original.",
+   "lineas": [
+    "deslinde, practicado por el",
+    "Agrim.^{r} D. Estevan Gonnet,",
+    "de los sobrantes concedidos por",
+    "el Sup.^{r} Gobierno á D.^{a} Carmen",
+    "Bustos de Martinez y á Don",
+    "Miguel Duggan en el Parti-",
+    "do de Giles, y encontrando",
+    "dicha operacion arreglada",
+    "á la Superior resolucion á",
+    "f 45 v^{ta}; y no teniendo por otra",
+    "por otra parte que observar á",
+    "lo practicado, opina que no",
+    "hay inconveniente en que",
+    "V.E. se sirva darle su superior",
+    "aprobacion. –",
+    "Buenos Aires Junio 11/867. –",
+    "Saturnino Salas    German Kuhr",
+    "Pedro Benoit",
+    "Esta mensura fué Aprobada p. el G.^{o}",
+    "en Junio 26 de 1867.",
+    "Salas",
+    "Nota = Acerca de la venta hecha á D.^{a} Car-",
+    "men Bustos de Martinez – Copia",
+    "del Sup.^{r} Decreto relativo –",
+    "Nov.^{e} 2 de 1867 —— \"Constando de este esp.^{te}"
+   ],
+   "interpretacion": "El Departamento Topográfico halla el deslinde «arreglado a la Superior resolución a f. 45 vta.» del expediente —es decir, hubo un decreto que resolvió la protesta mandando partir el sobrante entre la opositora y el denunciante— y no tiene nada que observar. Buenos Aires, 11/6/1867: Saturnino Salas, German Kuhr, Pedro Benoit. «Esta mensura fue aprobada por el Gobierno en junio 26 de 1867» (Salas).\nNota: copia del decreto relativo a la venta a Carmen Bustos de Martínez, del 2/11/1867: «Constando de este expediente…"
+  },
+  {
+   "titulo": "Folio 3 · Decretos de escrituración (1867): Martínez… y los herederos de Morgan; nota de 1911",
+   "img": "img/f/041/09.jpg",
+   "fuente": "IMG_7186.JPG",
+   "nota": "Tres asientos de Salas (1867-68) y uno de Alcides Rocha (1911). La cifra del oficio, de lectura dudosa.",
+   "lineas": [
+    "estar pagado en su totalidad el valor del cam-",
+    "po vendido á D.^{a} Carmen Bustos de Martinez,",
+    "Otorguese p.^{r} el Actuario escritura de propiedad",
+    "en la forma establecida en favor de la solicitan-",
+    "te, devolviendose el titulo que se solicita; y co-",
+    "muniquese al D. T. y Oficina de Contribucion",
+    "directa —— Alsina —— Mariano Varela\".",
+    "Otra = Acerca de la venta hecha á D.^{n} Miguel Dug-",
+    "gan del sobrante q.^{e} habia en compra – Co-",
+    "pia del Sup.^{r} Decreto relativo –",
+    "Septbre 19 de 1867 —— \"Constando de este esped.^{te} es-",
+    "tar pagado en su totalidad el valor del cam-",
+    "po vendido á D.^{n} Miguel Duggan, otorguese p.^{r}",
+    "el Actuario escritura de propiedad en la for-",
+    "ma establecida en favor de los herederos de",
+    "D.^{n} Eduardo Morgan como se solicita; y co-",
+    "muniquese al D. T. y oficina de contribu-",
+    "cion Directa —— Alsina = Mariano Varela\".",
+    "Y el D. T. lo anota en Enero 7 de 1868.",
+    "Salas",
+    "Abril 5 de 1911 – En la fecha se",
+    "informa al juez D^{r} Diez Gomez – Secretaria",
+    "Villarino en el juicio sobre posesion treintenaria se-",
+    "guido por la sucesion de D^{n} Avelino Martinez, quien",
+    "pretende prescribir una parte del campo que",
+    "figura á nombre de Carmen B de Martinez en",
+    "~~es~~ el plano de este duplicado – Oficio n^{o} 11.198.430 [?]",
+    "Copiador 46 de Geodesia f^{s}. 310",
+    "Libro de posesiones treintenarias n^{o} 1 f^{o}. 175",
+    "Alcides Rocha"
+   ],
+   "interpretacion": "…estar pagado en su totalidad el valor del campo vendido a D.ª Carmen Bustos de Martínez, otórguese por el Actuario escritura de propiedad… devolviéndose el título que se solicita» (Alsina – Mariano Varela).\nOtra: decreto del 19/9/1867 sobre la venta a Miguel Duggan «del sobrante que había en compra»: pagado el valor, «otórguese… escritura de propiedad… EN FAVOR DE LOS HEREDEROS DE D. EDUARDO MORGAN, como se solicita». El D. T. lo anota el 7/1/1868 (Salas). Duggan compra, pero la escritura sale a nombre de los Morgan: el denunciante «de afuera» de 1865 actuaba para los estancieros linderos, o les cedió sus derechos.\nNota del 5/4/1911 (Alcides Rocha): se informa al juez Dr. Díez Gómez, secretaría Villarino, en el juicio de posesión treintañal de la sucesión de Avelino Martínez, «quien pretende prescribir una parte del campo que figura a nombre de Carmen B. de Martínez en el plano de este duplicado» (Copiador 46 de Geodesia, fs. 310; Libro de posesiones treintenarias n.º 1, f.º 175). Es el mismo informe anotado en el Dup. 40."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la línea divisoria de los sobrantes de Martínez y Duggan",
+   "img": "img/f/041/03.jpg",
+   "fuente": "IMG_7187.JPG",
+   "orientacion": "Pliego a tinta sin marco; flecha de norte emplumada (el N hacia arriba a la izquierda); «Escala de 3000 Metros»; fechado «Junio 1.º de 1867» y firmado E. Gonnet.",
+   "interpretacion": "Extracto del plano general de 1866 (Ficha 040), reducido al fondo de la faja Lencina de Casco. A la izquierda, la «Cañada de Lavallén» y, del otro lado de la línea N 54° 36′ E, «Tiburcio Casco». Tres fajas horizontales: arriba «Morgan, procedente de D.ª M.ª Lencina de Casco»; en el medio «Carmen B. de Martínez, procedente de M.ª Lencina de Casco»; abajo «Morgan» (ex Guerrico). En el extremo O, dos rectángulos: «Sobrante adjudicado a Duggan» (309 × 1551 / 1609 × 303 m) y, debajo, «Sobrante adjudicado a Martínez» (629 × 710 × 607 × 834 m), con un cuadradito inclinado en su ángulo O, a orillas de la cañada: la población de Martínez con su zanjeado. A la derecha, el «Arroyo de Suero» corta el fondo de las fajas. El plano rotula a la propietaria «Carmen B. de Martínez»: el «José Martínez» de 1866 era su hijo.",
+   "referencias": [
+    [
+     "Sobrante adjudicado a Duggan",
+     "N 54° 36′ E 309 m · S 46° 45′ E 1551 m · S 43° 54′ O 303 m · N 46° 47′ O 1609 m = 47,93 ha"
+    ],
+    [
+     "Sobrante adjudicado a Martínez",
+     "S 43° 13′ O 607 m · N 47° 25′ O 834 m · N 54° 36′ E 629 m · S 46° 47′ E 710 m = 47,09 ha"
+    ],
+    [
+     "Cuadrado inclinado",
+     "Población de Martínez (zanjeado viejo de 1866), junto a la Cañada de Lavallén; cota «50» [?] / «834»"
+    ],
+    [
+     "Carmen B. de Martínez",
+     "Título de 650 v procedente de M.ª Lencina de Casco (Ficha 040)"
+    ],
+    [
+     "Morgan (arriba)",
+     "Fracciones procedentes de Lencina de Casco / compradas a Manuela Cané (Kuhr 1856, Ficha 020)"
+    ],
+    [
+     "Morgan (abajo)",
+     "Campo ex Guerrico (Fichas 029 y 038)"
+    ],
+    [
+     "Aguas",
+     "Cañada de Lavallén (O) · Arroyo de Suero (E)"
+    ],
+    [
+     "Tiburcio Casco",
+     "Lindero NO, del otro lado de la línea N 54° 36′ E"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle del plano",
+   "img": "img/f/041/04.jpg",
+   "fuente": "IMG_7188.JPG",
+   "orientacion": "Toma parcial.",
+   "interpretacion": "Detalle para la lectura de cotas y rótulos.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Desenlace del sobrante protestado",
+   "texto": "La Ficha 040 terminaba con un sobrante de 95 ha objetado y la propuesta de un «juicio verbal» ante el gobernador. Aquí está el resultado: una «Superior resolución» (f. 45 vta. del expediente) manda dividirlo entre la opositora y el denunciante. Gonnet lo parte prolongando 710 m el costado NE del título de Martínez: 47,09 ha para Carmen Bustos de Martínez —la mitad pegada a su campo, con la población y el zanjeado de la Cañada de Lavallén— y 47,93 ha para Duggan. Ambas partes PAGAN al fisco: la protesta no anuló el sobrante, sólo dio preferencia de compra a quien lo poblaba."
+  },
+  {
+   "titulo": "Duggan compra para los morgan",
+   "texto": "El decreto del 19/9/1867 manda escriturar el sobrante vendido a Miguel Duggan «en favor de los herederos de D. Eduardo Morgan, como se solicita», y en la mensura es Jorge Morgan quien representa a Duggan. La lectura de 040 («los irlandeses compiten entre sí por los intersticios»; Duggan «se mete como cuña entre Morgan y el pueblo») debe invertirse: Duggan actuó como denunciante interpuesto —o cedió sus derechos— y los sobrantes que quedaban entre las fracciones de Morgan terminan en manos de los Morgan. Queda por ver (Dup. 168 y 267) si pasó lo mismo con los otros tres sobrantes (516 ha)."
+  },
+  {
+   "titulo": "Quién era «josé martínez»",
+   "texto": "En 1866 figuraba como lindero y opositor José Martínez y la protesta la firmaba «Carmen B. de Martínez», lo que desconcertó al D. T. («no sabiendo quién es el verdadero representante»). Ahora se aclara: la propietaria es Carmen Bustos de Martínez y José es su hijo y representante. El apellido Bustos la vincula con Ramón Bustos, lindero del campo de Guerrico (Fichas 029, 037). En 1911 la sucesión de Avelino Martínez tramita la posesión treintañal de parte del campo «que figura a nombre de Carmen B. de Martínez en el plano de este duplicado»."
+  },
+  {
+   "titulo": "Ritual y técnica",
+   "texto": "Mensura mínima: una sola línea nueva y un solo mojón de ñandubay; el resto son rumbos y distancias de 1866 reutilizados sin volver a medir (S 43° 13′ O 607 m; N 47° 25′ O 834 m; S 46° 45′ E 1551 m; S 43° 54′ O 303 m). No hay observación de variación ni visuales. Citación por «circular» a sólo dos partes; no se cita a Tiburcio Casco ni a los Morgan como linderos. Cuatro días entre la mensura y su presentación; siete para el informe; veinticinco para la aprobación: el trámite más rápido del corpus."
+  },
+  {
+   "titulo": "El duplicado como registro de la venta",
+   "texto": "El D. T. copia al pie los decretos de escrituración (2/11 y 19/9/1867, gobernador Adolfo Alsina, ministro Mariano Varela) y anota la toma de razón (7/1/1868): el duplicado funciona como asiento catastral de la salida de la tierra del dominio fiscal, con aviso a la «Oficina de Contribución Directa». Portadilla «Sección Areco N.º 196», con remisión cruzada al 40 y al 168."
+  },
+  {
+   "titulo": "Cruces y preguntas abiertas",
+   "texto": "Ficha 040 (plano general y sobrante 2), 038 (Morgan ex Guerrico: el esquinero N de ese campo es vértice del sobrante de Martínez), 020 (fracciones de Morgan), 014 (Casco). Ver Dup. 168 y Sección Areco 267 (1876: «modificando la ubicación de los sobrantes»). ¿Qué decía la resolución de f. 45 vta.? ¿A qué precio se vendieron las dos mitades? El número del oficio de 1911 se lee «198.430» en el Dup. 40 y «11.198.430 [?]» aquí."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Carmen Bustos de Martínez",
+   "rol": "Propietaria lindera y compradora",
+   "texto": "Dueña del terreno de 650 v «procedente de María Lencina de Casco» sobre la Cañada de Lavallén, con población y zanjeado antiguos. Protestó la mensura de 1866 y obtuvo la mitad del sobrante (47,09 ha), que pagó y escrituró en noviembre de 1867. Madre de José Martínez; probablemente emparentada con Ramón Bustos, lindero de Guerrico. Sin datos en la búsqueda web.",
+   "fuentes": "Esta mensura; Fichas 029, 037, 040."
+  },
+  {
+   "nombre": "José Martínez · Avelino Martínez",
+   "rol": "Hijo y representante · sucesor",
+   "texto": "José representa a su madre en 1866 y 1867 (en 1861 ya «los hijos representan a los padres»: José Martínez por Matías Martínez [?], Ficha 029). La sucesión de Avelino Martínez promueve en 1911 un juicio de posesión treintañal sobre parte del campo.",
+   "fuentes": "Fichas 029, 038, 040; esta mensura."
+  },
+  {
+   "nombre": "Miguel Duggan",
+   "rol": "Denunciante y comprador nominal",
+   "texto": "Irlandés; denunciante de los sobrantes en 1865 (Ficha 040). Aquí se ve que no actúa por sí: lo representa Jorge Morgan y la escritura se manda extender a los herederos de Eduardo Morgan. La búsqueda web (irlandeses de Areco y Giles) no dio una fuente directa sobre él; la relación con los hermanos Duggan de San Antonio de Areco sigue sin verificar.",
+   "fuentes": "Ficha 040; villa_irlanda.md; búsqueda web sin resultados directos."
+  },
+  {
+   "nombre": "Jorge Morgan y herederos de Eduardo Morgan",
+   "rol": "Representante de duggan · beneficiarios de la escritura",
+   "texto": "Hijos de Eduardo Morgan (irlandés, † antes de nov. de 1865), dueños de las fracciones de 1856 (Ficha 020) y de 2/3 del campo de Guerrico (029, 038). «Morgan Hermanos» ya habían pedido sobrantes en 1865. Con esta escritura rodean por tres lados el campo de los Martínez.",
+   "fuentes": "Fichas 020, 029, 033, 038, 040."
+  },
+  {
+   "nombre": "Esteban Gonnet",
+   "rol": "Agrimensor y fotógrafo",
+   "texto": "Grenoble 1829 – Buenos Aires 1868. Cuarta diligencia suya en el corpus (032, 036, 040); ésta, de junio de 1867, es de las últimas de su vida.",
+   "fuentes": "Fichas 032, 036, 040."
+  },
+  {
+   "nombre": "Tiburcio Casco",
+   "rol": "Lindero",
+   "texto": "Dueño del campo al NO, del otro lado de la Cañada de Lavallén; padre de Maximiliano (Ficha 040).",
+   "fuentes": "Fichas 014, 040."
+  },
+  {
+   "nombre": "Adolfo Alsina · Mariano Varela",
+   "rol": "Gobernador y ministro de gobierno",
+   "texto": "Alsina (1829-1877), gobernador de Buenos Aires de mayo de 1866 a octubre de 1868 y luego vicepresidente de Sarmiento. Mariano Varela (1834-1902), periodista de «La Tribuna», su ministro de gobierno y después canciller de Sarmiento. Firman los dos decretos de escrituración.",
+   "fuentes": "Conocimiento general (biografías usuales); esta mensura."
+  },
+  {
+   "nombre": "Departamento Topográfico y notas posteriores",
+   "rol": "Autoridades",
+   "texto": "Saturnino Salas, German Kuhr, Pedro Benoit (11/6/1867). Cargo de presentación «F. Fannini [?]». Alcides Rocha (Geodesia, 1911); juez Dr. Díez Gómez, secretaría Villarino.",
+   "fuentes": "Esta mensura; Ficha 040."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/041/02.jpg",
+  "fuente": "IMG_7181.JPG",
+  "lineas": [
+   "Secc^{n} Areco    [a lápiz:] Giles    41",
+   "N 196",
+   "Duplicado de la diligencia de mensura",
+   "de la Linea divisoria de los Sobrantes Conce-",
+   "didos a D^{ña} Carmen Bustos de Martinez",
+   "y a D^{n} Miguel Duggan en el",
+   "Partido de Giles.",
+   "Vease el duplicado n^{o} [a lápiz:] 40 – 168",
+   "de esta Secc^{n} –",
+   "Junio de 1867.",
+   "Estevan Gonnet"
+  ]
+ },
+ "titulo": "Carmen Bustos de Martínez y Miguel Duggan",
+ "estado": "Transcripta (5 hojas, 144 renglones), 2 láminas"
+}

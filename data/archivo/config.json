@@ -3,26 +3,41 @@
  "correo": "surtectura@gmail.com",
  "formulario_aportes": "",
  "zenodo_coleccion": "",
- "pdf": {},
  "docx": {},
  "licencia_textos": "CC BY 4.0",
  "licencia_url": "https://creativecommons.org/licenses/by/4.0/deed.es",
  "plataformas": [
-  {"id": "atlas", "nombre": "Atlas de Mensuras", "url": "index.html",
+  {
+   "id": "atlas",
+   "nombre": "Atlas de Mensuras",
+   "url": "index.html",
    "pregunta": "¿Cómo se midió y se repartió este suelo entre 1825 y 1923?",
    "que": "Mapa temporal de las 191 mensuras, registro gráfico de 1874, pueblo de 1884, caminos y poblamiento, sobre la imagen satelital y el parcelario actual.",
-   "cruce": "Número de carpeta · parcela actual"},
-  {"id": "consulta", "nombre": "Consulta Urbanística", "url": "",
+   "cruce": "Número de carpeta · parcela actual"
+  },
+  {
+   "id": "consulta",
+   "nombre": "Consulta Urbanística",
+   "url": "https://surtecto.github.io/Consulta-COUSAG2024/",
    "pregunta": "¿Qué se puede hacer hoy en cada parcela?",
-   "que": "Zona, indicadores y usos permitidos del Código de Ordenamiento Urbano, parcela por parcela.",
-   "cruce": "Nomenclatura catastral · zona COU"},
-  {"id": "patrimonio", "nombre": "Registro Patrimonial", "url": "",
+   "que": "Zonificación e indicadores urbanísticos de cada parcela, y dónde puede instalarse una actividad según el Código de Ordenamiento Urbano y Territorial.",
+   "cruce": "Nomenclatura catastral · zona COU"
+  },
+  {
+   "id": "patrimonio",
+   "nombre": "Registro del Patrimonio Cultural",
+   "url": "https://surtecto.github.io/WEB-Patrimonio/",
    "pregunta": "¿Qué quedó en pie y qué valor se le reconoce?",
-   "que": "Bienes patrimoniales del partido: edificios, sitios y conjuntos, con su ficha.",
-   "cruce": "Lugar · estancia, posta o casa nombrada en las mensuras"},
-  {"id": "digesto", "nombre": "Digesto Gilense", "url": "",
+   "que": "Bienes declarados patrimonio cultural del partido, con mapas, fichas, mensuras históricas, itinerarios, calendario de fiestas y las ordenanzas que los rigen.",
+   "cruce": "Lugar · estancia, posta o casa nombrada en las mensuras"
+  },
+  {
+   "id": "digesto",
+   "nombre": "Digesto Gilense",
+   "url": "https://surtecto.github.io/HCD-SAG-Digesto2026/",
    "pregunta": "¿Qué normas ordenan este territorio y desde cuándo?",
-   "que": "Ordenanzas y normativa municipal de San Andrés de Giles, con el digesto del Concejo Deliberante.",
-   "cruce": "Número de ordenanza · tema · zona"}
+   "que": "Ordenanzas y demás normas del Concejo Deliberante, con buscador, estado de vigencia, texto completo y un archivo histórico desde 1870.",
+   "cruce": "Número de ordenanza · tema · zona"
+  }
  ]
 }

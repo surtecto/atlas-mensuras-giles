@@ -1,0 +1,459 @@
+{
+ "carpeta": "42",
+ "carpeta_nombre": "Carpeta 42",
+ "archivo": "Ficha 042 - Pablo Affre (1866).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles",
+  "N.º de duplicado": "42 (portadilla: «Sección Areco N.º 197», tachado y sobrescrito «Giles»)",
+  "Propietario / solicitante": "Pablo Affre",
+  "Agrimensor": "Esteban Gonnet",
+  "Año": "1866",
+  "Fecha de la diligencia": "21/3/1866; presentada 10/6/1867; D. T. 14/6; auto judicial ago. 1867",
+  "Ubicación": "Del arroyo del Sauce a la Cañada de la Cruz (cabezadas, merced de Díaz de Vivar)",
+  "Orden judicial": "Juez de 1.ª instancia civil Dr. Daniel M.ª Cazón; aprueba Jacinto Cárdenas (1867)",
+  "Vendedor / antecesor": "José Castro → Ignacio Gómez (1811) → Agustina Gómez → Aranda y Collaso (1853-54)",
+  "Linderos citados": "Micaela Castro · Cipriano Rodríguez · her. de Juan de Ormaechea · Francisco Maldonado",
+  "Medidas": "281,5 m (325 ¼ v) × 6623 / 6613 m = 186 ha 16 a 65 ca; título 192,59 ha",
+  "Rumbos": "Verdaderos: S 31° 11′ E · S 57° 49′ O · N 55° 56′ E; variación 10° 48′ NE",
+  "Referencia de archivo": "Duplicado 42; antes «Sección Areco N.º 197»"
+ },
+ "metricas": {
+  "superficie_ha": "186,17 (título 192,59)",
+  "hitos": "Mojón de ñandubay de Pico en el cauce del arroyo del Sauce; tres mojones de Pico sobre la línea de Castro; ocho mojones nuevos de ñandubay",
+  "aguas": "Arroyo del Sauce (con recodo); Cañada de la Cruz y un afluente"
+ },
+ "sintesis": "Pablo Affre, francés, reunió entre 1853 y 1854 tres hijuelas (141 ½ + 70 ¾ + 113 = 325 ¼ varas de frente) de los herederos de Agustina Gómez, parte de las 750 varas que Ignacio Gómez compró a José Castro en 1811 «en el paraje de la Cruz». Esteban Gonnet las mide el 21/3/1866, en la misma campaña que la faja vecina de Ormaechea (Ficha 036): arranca del mojón de Pico en el cauce del arroyo del Sauce y traza una tira de 281,5 m por 6,6 km (S 31° 11′ E) que cruza la Cañada de la Cruz: 186,17 ha contra 192,59 del título. La falta se debe a que el campo de Maldonado avanzó 270 m sobre la antigua divisoria de las mercedes de Suero y de Díaz de Vivar. Variación 10° 48′ NE. Sin protestas. La última venta se documenta por declaración recién en febrero de 1867; la mensura se presenta en junio y el juez Cárdenas la aprueba en agosto de 1867.",
+ "caratula": {
+  "img": "img/f/042/01.jpg",
+  "fuente": "IMG_7189.JPG",
+  "campos": [
+   [
+    "N.º",
+    "42"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Pablo Affre"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Estevan Gonnet"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1866"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Extracto de títulos: de José Castro (1811) a las hijuelas Aranda (1854)",
+   "img": "img/f/042/04.jpg",
+   "fuente": "IMG_7191.JPG",
+   "nota": "Foliatura «1». Letra redonda de copia en limpio.",
+   "lineas": [
+    "Extracto de los titulos de Propiedad",
+    "de un terreno perteneciente a D^{n} Pablo",
+    "Affre, en el partido de Giles. ——",
+    "Ante el alcade ordinario en la villa de",
+    "Lujan a veinte de setiembre de mil",
+    "ochocientos onze; D^{n} José Castro vende",
+    "a D^{n} Ignacio Gomez setecientas cincuenta",
+    "varas de tierra en el parage denominado",
+    "de la Cruz, las que le corresponde por per-",
+    "=muta que hizo con D^{n} Roman Molina.",
+    "Ante el Juez de Paz de la villa de",
+    "Lujan a veinte y cinco de Agosto de",
+    "mil ochocientos cincuenta y cuatro, D^{n}",
+    "Juan y D^{n} Gabriel Aranda venden",
+    "a D^{n} Pablo Affre un terreno situado",
+    "sobre la cañada de la Cruz compuesto",
+    "de ciento cuarenta y una varas y media",
+    "de frente con legua y media de fondo",
+    "lindando por el frente con los herederos",
+    "de Lopez, por el Sud con D^{n} Pedro",
+    "Moreira, y [?] D^{n} Juan Castro; por",
+    "el norte y el oeste con D^{n} Pedro",
+    "Monsalvo y le corresponde por herencia",
+    "de su finada madre D^{ña} Augustina",
+    "Gomez. ——",
+    "Ante el Juez de Paz de la villa",
+    "de Lujan a quince de Setiembre de",
+    "mil ochocientos cincuenta y cuatro D^{n}",
+    "José Antonio Aranda vende a D^{n}",
+    "Pablo Affre un terreno compuesto",
+    "de setenta varas y tres cuartas de frente",
+    "con legua y media de fondo situado en el",
+    "Partido de Lujan sobre la cañada de",
+    "la Cruz, lindando: por el frente con",
+    "los herederos de Lopez; por el Sud con"
+   ],
+   "interpretacion": "Extracto de los títulos del terreno de Pablo Affre. (1) Villa de Luján, 20/9/1811, ante el alcalde ordinario: José Castro vende a Ignacio Gómez 750 varas de tierra «en el paraje denominado de la Cruz», que tenía por permuta con Román Molina. (2) Luján, 25/8/1854, ante el juez de paz: Juan y Gabriel Aranda venden a Pablo Affre 141 ½ varas de frente por legua y media de fondo sobre la Cañada de la Cruz; lindan por el frente con los herederos de López, por el S con Pedro Moreira y Juan Castro, por el N y el O con Pedro Monsalvo; les corresponde por herencia de su madre Agustina Gómez. (3) Luján, 15/9/1854: José Antonio Aranda vende a Affre 70 ¾ varas de frente con el mismo fondo, «en el partido de Luján», con iguales linderos…"
+  },
+  {
+   "titulo": "Folio 1 v. · La venta de Rafaela Collaso (1853), declarada en 1867",
+   "img": "img/f/042/05.jpg",
+   "fuente": "IMG_7192.JPG",
+   "nota": "Firma de Gonnet con rúbrica larga.",
+   "lineas": [
+    "D^{n} Pedro Moreira y D^{n} Juan Castro",
+    "por el norte y el oeste con D^{n} Pedro",
+    "Monsalvo y le corresponde por herencia",
+    "de su finada madre D^{ña} Augustina",
+    "Gomez. ——",
+    "Ante el Juez de Paz de Giles a",
+    "veinte y cinco de Febrero de mil ocho-",
+    "=cientos sesenta y siete, D^{ña} Rafaela",
+    "Collaso declara que en el año de mil",
+    "ochocientos cincuenta y tres vendió a D^{n}",
+    "Pablo Affre un terreno compuesto de",
+    "ciento trece varas de frente con legua",
+    "y media de fondo el que hubo por herencia",
+    "de su finada madre D^{ña} Augustina",
+    "Gomez y que linda por el norte con",
+    "D^{n} Juan Castro por el Sud con",
+    "los herederos de Ormachea por el",
+    "este con D^{n} Miguel Lopez y por",
+    "el oeste con D^{n} Francisco Mal-",
+    "=donado. ——",
+    "E. Gonnet"
+   ],
+   "interpretacion": "…y el mismo origen (herencia de Agustina Gómez). (4) Giles, 25/2/1867, ante el juez de paz: Rafaela Collaso «declara» que en 1853 vendió a Pablo Affre 113 varas de frente por legua y media de fondo, heredadas de su madre Agustina Gómez; linda al N con Juan Castro, al S con los herederos de Ormaechea, al E con Miguel López y al O con Francisco Maldonado. Es un título supletorio: la venta de 1853 no tenía escritura y se la documenta catorce años después, cuando la mensura ya estaba hecha (marzo de 1866) y faltaba presentarla. Las tres hijuelas suman 325 ¼ varas (281,7 m) de las 750 que compró Ignacio Gómez en 1811."
+  },
+  {
+   "titulo": "Folio 2 · Mensura (21/3/1866): del mojón de Pico en el arroyo del Sauce",
+   "img": "img/f/042/06.jpg",
+   "fuente": "IMG_7193.JPG",
+   "nota": "Foliatura «2». Otra mano, inclinada, con título caligráfico «Mensura».",
+   "lineas": [
+    "Mensura.",
+    "En el partido de Giles á veinte y uno de Marzo",
+    "de mil ochocientos sesenta y seis, Yo el agrimensor",
+    "que suscribe comisionado por el Señor Juez de",
+    "1^{a} Instancia en lo civil D^{r} D^{n} D^{l} M^{a} Ca-",
+    "zon para medir el terreno de propiedad perteneciente",
+    "á D^{n} Pablo Affre en el partido de Giles previa la",
+    "sitacion de los linderos como consta de los documen-",
+    "tos adjuntos y pasado el correspondiente aviso al S^{or}",
+    "Juez de Paz del Partido dí principio á la operacion",
+    "trasladandome al mojon esquinero Oeste del terreno",
+    "de D^{a} Micaela Castro mojon colocado por el agri-",
+    "mensor D^{n} Pedro Pico en la mensura que practicó",
+    "del terreno de la testamentaria de Castro. Dicho",
+    "mojon es de ñandubay y se encuentra en el cauce del",
+    "Arroyo del Sauce y sobre el costado Sud Este del terre-",
+    "no de Fran^{co} Maldonado. – De este mojon y lin-",
+    "dando con D^{a} Micaela Castro medí al Sud trein-",
+    "ta y un grados y once minutos Este verdadero seis",
+    "mil seiscientos veinte y tres metros hasta dar con",
+    "la prolongacion de la linea de los frentes de los",
+    "terrenos de los herederos de Quevedo, terrenos proce-",
+    "dentes como el que se iba midiendo del mismo",
+    "titulo de D. Pedro Diaz de Vivar. – A la inter-",
+    "seccion de las dos lineas mencionadas hize cla-",
+    "var un mojon de ñandubay como esqui-",
+    "nero Este del terreno de D^{n} Pablo Affre –",
+    "En este rumbo encontré tres mojones, el primero",
+    "á los mil setecientos veinte y tres metros, el segundo"
+   ],
+   "interpretacion": "Partido de Giles, 21/3/1866. Gonnet, comisionado por el juez de 1.ª instancia en lo civil Dr. Daniel María Cazón, cita a los linderos y avisa al juez de paz. Arranca del mojón esquinero O del terreno de Micaela Castro, colocado por Pedro Pico en su mensura de la testamentaría de Castro (Ficha 007, 1863): es de ñandubay y está «en el cauce del arroyo del Sauce», sobre el costado SE de Francisco Maldonado. Lindando con Micaela Castro: S 31° 11′ E verdadero, 6623 m, hasta la prolongación de la línea de los frentes de los herederos de Quevedo, terrenos que proceden «del mismo título de D. Pedro Díaz de Vivar». Allí, mojón de ñandubay, esquinero E. En el rumbo halla tres mojones (de Pico): a 1723 m…"
+  },
+  {
+   "titulo": "Folio 2 v. · Cañada de la Cruz; contrafrente; cierre sobre Maldonado",
+   "img": "img/f/042/07.jpg",
+   "fuente": "IMG_7194.JPG",
+   "nota": "",
+   "lineas": [
+    "á los tres mil doscientos sesenta y dos metros y",
+    "el tercero á los cuatro mil doscientos diez y ocho me-",
+    "tros – á los cinco mil y cincuenta metros cruzé",
+    "la cañada de la cruz. – Del mojon que aca-",
+    "baba de hacer clavar como esquinero Este,",
+    "medí al Sud cincuenta y siete grados y cua-",
+    "renta y nueve minutos Oeste verdadero, dos",
+    "cientos ochenta y uno metros y medio y adonde",
+    "remataron hice clavar un mojon de ñandubay",
+    "como esquinero Sud del terreno que iba midien-",
+    "do y de este mojon girando al Norte treinta y un",
+    "grados y once minutos Oeste verdadero medí",
+    "seis mil seiscientos trece metros hasta dar con el",
+    "costado Sud Este del terreno de F^{co} Maldonado",
+    "haciendo clavar á la interseccion de estas dos li-",
+    "neas un mojon de ñandubay como esquinero",
+    "Oeste del terreno de D^{n} Pablo Affre. – En este",
+    "rumbo se clavaron tres mojones el primero",
+    "á los dos mil cuatrocientos metros, el segundo",
+    "á los tres mil trecientos sesenta metros y el ter-",
+    "cero á los cuatro mil novecientos metros. – Del",
+    "fin del mojon que acababa de hacer clavar",
+    "como esquinero Oeste, medí al Norte cincuen-",
+    "ta y cinco grados y cincuenta y seis minutos Este",
+    "verdadero doscientos ochenta y un metros y medio",
+    "hasta el mojon de arranque. En este rumbo",
+    "y á los doscientos metros toqué con un recodo",
+    "que hace el arroyo del Sauce quedando dicho",
+    "arroyo á la izquierda. – La figura del terreno"
+   ],
+   "interpretacion": "…a 3262 m y a 4218 m; a 5050 m cruza la Cañada de la Cruz. Del esquinero E: S 57° 49′ O, 281,5 m, y mojón de ñandubay, esquinero S. De éste, N 31° 11′ O, 6613 m, hasta el costado SE de Francisco Maldonado; en la intersección, mojón de ñandubay, esquinero O; sobre la línea clava tres mojones (a 2400, 3360 y 4900 m). Cierra con N 55° 56′ E, 281,5 m, hasta el arranque: a 200 m toca «un recodo que hace el arroyo del Sauce, quedando dicho arroyo a la izquierda». Faja de 281,5 m de ancho por 6,6 km de largo, del arroyo del Sauce a más allá de la Cañada de la Cruz."
+  },
+  {
+   "titulo": "Folio 3 · 186,17 ha; falta de 6,42 ha por la entrada de Maldonado; variación 10° 48′",
+   "img": "img/f/042/08.jpg",
+   "fuente": "IMG_7195.JPG",
+   "nota": "Foliatura «3». Toma vertical. Presentación quince meses después de la mensura.",
+   "lineas": [
+    "medido es la de un cuadrilatero irregular cuya",
+    "superficie es de ciento ochenta y seis hectareas",
+    "diez y seis areas y sesenta y cinco centiarias ó",
+    "sea seiscientos ochenta y nueve diez milesimos",
+    "de una legua cuadrada (0,0689). El titulo cons-",
+    "ta de ciento noventa y dos hectareas, cincuenta",
+    "y ocho areas y cincuenta y cuatro centiarias, re-",
+    "sultando en el terreno una falta de seis hec-",
+    "tareas cuarenta y una areas y ochenta y nueve",
+    "centiarias. – Esta falta procede de que el terreno",
+    "de D. Francisco Maldonado se ha internado",
+    "en esta parte unos doscientos setenta metros al",
+    "Sud Este de la antigua linea establecida como",
+    "divisoria de los terrenos de Suero con los de Diaz",
+    "de Vivar.",
+    "Los linderos son por el Nor Este D^{a} Micaela",
+    "Castro, por el Sud Este D. Cipriano Rodriguez",
+    "por el Sud Oeste los herederos de D. Juan de",
+    "Ormachea y por el Nor Oeste D. Fran^{co} Maldonado",
+    "Todos los linderos asistieron á la mensura. No",
+    "hubo protesta",
+    "Nota la variacion de la aguja fué de diez",
+    "grados cuarente y ocho minutos al Nor Este.",
+    "E. Gonnet",
+    "Junio 10 de 1867.",
+    "En el dia de esta fecha, fué presentada",
+    "al Departamento Topográfico",
+    "F. Fannini [?]"
+   ],
+   "interpretacion": "Cuadrilátero irregular de 186 ha 16 a 65 ca, «o sea 689 diezmilésimos de una legua cuadrada (0,0689)». El título da 192 ha 58 a 54 ca: falta de 6 ha 41 a 89 ca, que «procede de que el terreno de D. Francisco Maldonado se ha internado en esta parte unos 270 metros al SE de la antigua línea establecida como divisoria de los terrenos de Suero con los de Díaz de Vivar». Linderos: NE Micaela Castro; SE Cipriano Rodríguez; SO herederos de Juan de Ormaechea; NO Francisco Maldonado. Asistieron todos; no hubo protesta. Variación de la aguja: 10° 48′ NE. Firma Gonnet. Presentada al Departamento Topográfico recién el 10/6/1867 (cargo «F. Fannini [?]»)."
+  },
+  {
+   "titulo": "Folio 3 v. · Informe del Departamento Topográfico (14/6/1867)",
+   "img": "img/f/042/09.jpg",
+   "fuente": "IMG_7196.JPG",
+   "nota": "Letra grande del D. T.; resto de la hoja en blanco.",
+   "lineas": [
+    "Señor Juez de 1.^{a} Instancia: –",
+    "El Depart.^{o} Topográfico ha",
+    "examinado la presente",
+    "diligencia de mensura",
+    "del terreno de D. Pablo",
+    "Affre, practicada",
+    "por el Agrimensor D.",
+    "Estevan Gonnet, y encon-",
+    "trandola bien ejecutada",
+    "no vé inconveniente en",
+    "que sea aprobada por V.S. –",
+    "Buenos-Aires Junio 14/867. –",
+    "Salas    Kuhr    Benoit"
+   ],
+   "interpretacion": "Informe al juez de primera instancia: la mensura está «bien ejecutada» y no hay inconveniente en aprobarla. Buenos Aires, 14/6/1867. Salas, Kuhr, Benoit (firman sólo con el apellido). El D. T. no comenta la falta ni la entrada de Maldonado sobre la línea Suero–Vivar."
+  },
+  {
+   "titulo": "Folio 6 · Oficio del juzgado: auto aprobatorio (agosto de 1867)",
+   "img": "img/f/042/10.jpg",
+   "fuente": "IMG_7198.JPG",
+   "nota": "Papel sellado de 3 pesos, sello «Buenos Aires 1867»; foliatura «6». Día del auto de lectura dudosa.",
+   "lineas": [
+    "[sello:] 3 PESOS.",
+    "[al margen:] Juzgado de 1^{a} Instancia en lo Civil Oficina Mendes.",
+    "Buenos Aires Setiembre 20 1867",
+    "Al Señor Presidente del Departa-",
+    "mento Topografico.",
+    "El infrascripto tiene el honor de poner en su",
+    "Conocimiento, en el espediente que ha segui-",
+    "do Don Pablo Afre se ha dictado el auto",
+    "del tenor siguiente = \"Buenos Ayres Agosto 9 [?] 1867",
+    "Autos y Vistos: de conformidad de partes y",
+    "lo espuesto por el Departamento Topografi-",
+    "co y por el Agente fiscal con su precedente",
+    "vista, se aprueva en cuanto haya lugar por",
+    "derecho la mensura practicada por el Agri-",
+    "mensor Gonnet cuya deligencia corre de f 10",
+    "á f 12 interponiendo el Juzgado para su",
+    "mayor valides la autoridad que inviste. En",
+    "su consecuencia librese oficio al Departamento",
+    "Topografico haciendole saber esta resolucion; y",
+    "previo pago de costas entreguese este espediente",
+    "al interesado. = Jacinto Cárdenas.\"",
+    "Dios gue. á U.",
+    "Jacinto Cárdenas"
+   ],
+   "interpretacion": "Oficio del Juzgado de 1.ª Instancia en lo Civil (oficina Méndez), Buenos Aires, 20/9/1867, al presidente del Departamento Topográfico: en el expediente de Pablo Affre se dictó en agosto de 1867 el auto que, «de conformidad de partes» y visto lo expuesto por el D. T. y el agente fiscal, aprueba «en cuanto haya lugar por derecho» la mensura de Gonnet (fs. 10 a 12 del expediente), «interponiendo el Juzgado para su mayor validez la autoridad que inviste»; se libra oficio al D. T. y, previo pago de costas, se entrega el expediente al interesado. Firma el juez Jacinto Cárdenas (el comitente de 1866 había sido Cazón)."
+  },
+  {
+   "titulo": "Folio 6 v. · Proveído del D. T. (24/9/1867)",
+   "img": "img/f/042/11.jpg",
+   "fuente": "IMG_7199.JPG",
+   "nota": "Al dorso del oficio; se trasluce el texto del recto.",
+   "lineas": [
+    "Setiembre 24/867 –",
+    "Agréguese al duplica-",
+    "do correspondiente –",
+    "Salas"
+   ],
+   "interpretacion": "«Setiembre 24/867. Agréguese al duplicado correspondiente» (Salas). El oficio judicial se cose al duplicado como constancia de la aprobación."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Pablo Affre",
+   "img": "img/f/042/03.jpg",
+   "fuente": "IMG_7197.JPG",
+   "orientacion": "Pliego a tinta con marco; flecha de norte emplumada hacia arriba; «Escala de 6000 Metros»; fechado «Marzo 21 de 1866» y firmado E. Gonnet.",
+   "interpretacion": "Una faja larguísima y angosta, aguada en gris, que baja de NO a SE (S 31° 11′ E). Arriba la corta el «Arroyo del Sauce», con «Maldonado» del otro lado y la línea N 55° 56′ E; el arroyo hace un quiebre justo en la cabecera (el «recodo» del texto). A la izquierda de la faja, «Herederos de Ormachea»; a la derecha, «M.ª Castro» (Micaela Castro). Hacia el tercio inferior la cruza la «Cañada de la Cruz», que recibe allí un afluente que corre un trecho por dentro de la faja. El fondo cierra con la línea S 57° 49′ O; más allá, «Cip.º Rodríguez». Cotas: 6623 (lado NE), 6613 (lado SO), 281,5 en ambas cabeceras. Es el mismo dibujo, a la misma escala, que el plano de Ormaechea (Ficha 036): las dos fajas se midieron en la misma campaña de marzo de 1866.",
+   "referencias": [
+    [
+     "Faja aguada",
+     "Pablo Affre: 281,5 × 6623 / 6613 m; 186 ha 16 a 65 ca"
+    ],
+    [
+     "Maldonado",
+     "Francisco Maldonado (Ficha 009), al NO del arroyo del Sauce; línea N 55° 56′ E"
+    ],
+    [
+     "M.ª Castro",
+     "Micaela Castro, hijuela de la testamentaría de Juan Castro (Pico 1863, Ficha 007)"
+    ],
+    [
+     "Herederos de Ormachea",
+     "Faja contigua al SO (Gonnet 1866, Ficha 036)"
+    ],
+    [
+     "Cip.º Rodríguez",
+     "Cipriano Rodríguez, lindero SE; línea S 57° 49′ O (frentes de los herederos de Quevedo)"
+    ],
+    [
+     "Aguas",
+     "Arroyo del Sauce (cabecera NO) · Cañada de la Cruz (a 5050 m) y un afluente sin nombre"
+    ],
+    [
+     "Fecha",
+     "«Marzo 21 de 1866»"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Una suerte que se deshace en tiras",
+   "texto": "Ignacio Gómez compra en 1811 750 varas «en el paraje de la Cruz»; su hija (o heredera) Agustina Gómez las deja a sus hijos Aranda y Collaso en hijuelas de 141 ½, 70 ¾ (la mitad exacta) y 113 varas, todas con legua y media de fondo: tiras de 60 a 120 metros de ancho por casi siete kilómetros. Pablo Affre, francés, las recompone por compras sucesivas (1853-54) hasta reunir 325 ¼ varas: es la misma lógica de Del Sar con las fajas Monsalvo (Ficha 031) y de Vélez con las de Peñalva (035). Del resto de las 750 varas no se dice nada: probablemente es lo que tiene Micaela Castro."
+  },
+  {
+   "titulo": "Títulos de juzgado de paz y venta declarada",
+   "texto": "Ninguna de las cuatro piezas es escritura de escribano: una es ante el alcalde ordinario de Luján (1811), dos ante el juez de paz de Luján (1854) y la última es una «declaración» de la vendedora ante el juez de paz de Giles el 25/2/1867, catorce años después de la venta y once meses después de la mensura. Eso explica la demora: Gonnet midió en marzo de 1866 pero no pudo presentar hasta junio de 1867, cuando el título quedó completo. Las ventas de 1854 dicen «partido de Luján»; la de 1867, Giles."
+  },
+  {
+   "titulo": "Legua y media que son 7900 varas",
+   "texto": "Los títulos dan «legua y media de fondo» (9000 v), pero el área que Gonnet atribuye al título, 192 ha 58 a 54 ca, equivale a 325 ¼ v × 7895 v: usa el fondo de 7900 varas de la faja vecina de Ormaechea («1500 × 7900 v de cabezadas», Ficha 036), es decir la distancia real entre la línea Suero–Vivar y los frentes de Quevedo. Otra vez prevalecen los linderos sobre la cifra escrita (doctrina Pico, Ficha 027)."
+  },
+  {
+   "titulo": "La línea suero–vivar, corrida 270 metros",
+   "texto": "La falta de 6,42 ha se explica porque el campo de Francisco Maldonado «se ha internado» unos 270 m al SE de «la antigua línea establecida como divisoria de los terrenos de Suero con los de Díaz de Vivar». Es el mismo hecho que en la faja de Ormaechea (Ficha 036: falta de 5,7 ha por «entrada de Maldonado») y que ya asomaba en la mensura de Schuster (Ficha 009). El mojón de Pico en el cauce del arroyo del Sauce materializa la línea desplazada; Gonnet la acepta (doctrina de respetar los amojonamientos aprobados) pero deja escrito dónde estaba la antigua. Dato clave para el GIS: la divisoria de las dos mercedes está 270 m al NO del arroyo del Sauce en este punto."
+  },
+  {
+   "titulo": "Técnica, ritual y paisaje",
+   "texto": "Ñandubay en los cuatro esquineros y tres mojones intermedios por lado (a distancias desiguales, no modulares). Reconoce los tres mojones de Pico sobre la línea de Castro (1723, 3262 y 4218 m). Variación 10° 48′ NE, la misma cifra que en Ormaechea: una sola observación para las dos mensuras. Superficie también en diezmilésimos de legua cuadrada. Todos los linderos presentes, sin protesta. Hidrografía: arroyo del Sauce con un recodo que roza la cabecera; Cañada de la Cruz a 5050 m, con un afluente dibujado dentro de la faja. Dos manos en el duplicado: el extracto en la letra redonda habitual de Gonnet y la diligencia en otra, inclinada."
+  },
+  {
+   "titulo": "Cruces y preguntas abiertas",
+   "texto": "Fichas 036 (Ormaechea: rumbo S 31° 29′ E contra S 31° 11′ E aquí, 18′ de convergencia entre dos fajas contiguas), 007 (testamentaría de Juan Castro, Pico 1863: mojones), 009 (Maldonado), 031 (Monsalvo, Del Sar), 026-027 (Cañada de la Cruz). ¿José Castro (1811) es ascendiente de Juan Castro? ¿Quiénes son los «herederos de López» del frente y Pedro Moreira? El juez cambia de Cazón (1866) a Jacinto Cárdenas (1867). La foliatura salta de 3 a 6: los folios 4-5 serían el plano y la circular de citación (ésta no está fotografiada)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Pablo Affre",
+   "rol": "Propietario",
+   "texto": "Francés (así lo registraba la Ficha 036, donde es lindero de Ormaechea). Compra entre 1853 y 1854 tres hijuelas de los herederos de Agustina Gómez sobre la Cañada de la Cruz y las hace medir en 1866. El juzgado escribe «Afre». La búsqueda web no dio datos biográficos.",
+   "fuentes": "Ficha 036; esta mensura; búsqueda web sin resultados."
+  },
+  {
+   "nombre": "Esteban Gonnet",
+   "rol": "Agrimensor y fotógrafo",
+   "texto": "Grenoble 1829 – Buenos Aires 1868. Esta mensura es gemela de la de Ormaechea (Ficha 036), hecha en los mismos días de marzo de 1866 con la misma variación; la presentó en junio de 1867 junto con la división Martínez–Duggan (Ficha 041).",
+   "fuentes": "Fichas 032, 036, 040, 041."
+  },
+  {
+   "nombre": "Ignacio Gómez · Agustina Gómez · Juan, Gabriel y José Antonio Aranda · Rafaela Collaso",
+   "rol": "Antecesores",
+   "texto": "Ignacio Gómez compra 750 v en 1811. Agustina Gómez las transmite a sus hijos: los Aranda (tres hermanos, con hijuelas de 141 ½ y 70 ¾ v) y Rafaela Collaso (113 v), lo que sugiere dos matrimonios. Venden a Affre en 1853-54. Sin datos externos.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "José Castro · Román Molina",
+   "rol": "Titulares anteriores a 1811",
+   "texto": "José Castro tenía las 750 v por permuta con Román Molina. Los Castro siguen como linderos: Juan Castro (1854; su testamentaría, Ficha 007) y Micaela Castro (1866).",
+   "fuentes": "Ficha 007; esta mensura."
+  },
+  {
+   "nombre": "Micaela Castro · Francisco Maldonado · Cipriano Rodríguez · herederos de Juan de Ormaechea",
+   "rol": "Linderos",
+   "texto": "Micaela Castro, heredera de Juan Castro. Maldonado, propietario del campo medido por Schuster en 1856 (Ficha 009), cuyo límite avanza sobre la merced de Vivar. Cipriano Rodríguez ya era lindero SE de Ormaechea (036). Las Ormaechea: Josefa Arévalo de Ormaechea y sus hijas (036).",
+   "fuentes": "Fichas 007, 009, 036."
+  },
+  {
+   "nombre": "Pedro Pico",
+   "rol": "Agrimensor citado",
+   "texto": "Midió la testamentaría de Castro (1863, Ficha 007); su mojón de ñandubay en el cauce del arroyo del Sauce es el punto de arranque.",
+   "fuentes": "Ficha 007."
+  },
+  {
+   "nombre": "Daniel María Cazón · Jacinto Cárdenas",
+   "rol": "Jueces de primera instancia en lo civil",
+   "texto": "Cazón comisiona la mensura (1866; también la de Ormaechea). Cárdenas firma el auto aprobatorio y el oficio de 1867 (oficina Méndez). La búsqueda web no dio datos sobre Cárdenas.",
+   "fuentes": "Ficha 036; esta mensura."
+  },
+  {
+   "nombre": "Departamento Topográfico",
+   "rol": "Autoridades",
+   "texto": "Saturnino Salas, German Kuhr, Pedro Benoit (14/6/1867). Cargo de presentación «F. Fannini [?]».",
+   "fuentes": "Esta mensura."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/042/02.jpg",
+  "fuente": "IMG_7190.JPG",
+  "lineas": [
+   "~~Secc^{n} Areco~~    [a lápiz:] Giles    42",
+   "N 197.",
+   "Duplicado de la diligencia de mensura",
+   "de un terreno perteneciente a",
+   "D^{n} Pablo Affre –",
+   "en el partido de Giles –",
+   "Marzo de 1866",
+   "Estevan Gonnet."
+  ]
+ },
+ "titulo": "Pablo Affre",
+ "estado": "Transcripta (8 hojas, 182 renglones), 1 lámina"
+}

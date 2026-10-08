@@ -1,0 +1,428 @@
+{
+ "carpeta": "10",
+ "carpeta_nombre": "Carpeta 10",
+ "archivo": "Ficha 010 - Isabel Carrasco de Figueroa (1840).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (dilig. «Partido de San Antonio de Areco»)",
+  "N.º de duplicado": "10",
+  "Propietario / solicitante": "D.ª Isabel Carrasco de Figueroa",
+  "Agrimensor": "Manuel Eguía",
+  "Año": "1840",
+  "Fecha de la diligencia": "Marzo de 1840 (día 9 [?]; plano 7/3/1840); D. T. 20/2/1843",
+  "Ubicación": "Entre los arroyos de Giles y de Zuero (Posta de Figueroa)",
+  "Orden judicial": "Auto 6/6/1839, Juez de 1.ª Inst. Dr. Cayetano Campana",
+  "Vendedor / antecesor": "Mercedes Lara (1636) y Ruiz de Arellano (1740) → Zuero → Tomás Figueroa (1759) → nietos → Mauricio Figueroa († antes de 1838)",
+  "Linderos citados": "NE: hered. Gervasio Figueroa (José Figueroa) · SE: arroyo de Giles · SO: Vicente Marfil · NO: Felipe Figueroa · Pedro A. Rodríguez",
+  "Medidas": "Polígono de 6 lados; frente 3535 v sobre el arroyo; lados de 6200, 3900, 3650 y 6550 v",
+  "Rumbos": "«Todos rumbos de la aguja» (sin corrección); visual a la Torre de Areco",
+  "Referencia de archivo": "«N 18» a lápiz; D. T. 20/2/1843 (Arenales, Salas [?]); notas 1882-1975"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 1300 (17.321.000 v²; 0,48 leguas²)",
+  "hitos": "estancias como visuales; Torre de Areco; camino de la Posta; confluencia de arroyos",
+  "aguas": "Arroyo de Giles (frente) y arroyo de Zuero (atraviesa el campo)"
+ },
+ "sintesis": "Mensura de marzo de 1840, hecha por Manuel Eguía por auto del juez Cayetano Campana, del campo de Isabel Carrasco, viuda de Mauricio Figueroa, entre los arroyos de Giles y de Zuero: el solar de la Posta de Figueroa. El extracto de títulos reconstruye cómo Mauricio reunió herencias de los nietos de Tomás Figueroa (compra a Zuero de 1759) y una compra a Vidal (1826), sobre mercedes de 1636 y 1740 cuyos títulos tenía Francisco del Sar. El ancho de 3535 v sobre el arroyo sale de un convenio con José Figueroa. El resultado es un polígono de 6 lados de 17.321.000 v² (≈ 1300 ha), con «rumbos de la aguja» y una visual a la Torre de Areco. El plano dibuja el «camino de la Posta». Del Sar protestó y el Departamento (Arenales, 1843) le exige sus títulos. Notas de 1882-1975 llegan hasta el estudio patrimonial de la Posta.",
+ "caratula": {
+  "img": "img/f/010/01.jpg",
+  "fuente": "IMG_3507.JPG",
+  "campos": [
+   [
+    "N.º",
+    "10"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Isabel Carrasco de Figueroa"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Manuel Eguía"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1840"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 (recto)",
+   "img": "img/f/010/04.jpg",
+   "fuente": "IMG_3508.JPG",
+   "nota": "Letra redonda de copista. «Duplicado» arriba; «N 18» a lápiz; sello «Departamento Topográfico» en el margen y foliatura «1». Nota marginal cortada por la encuadernación.",
+   "lineas": [
+    "[margen izq.:] [Seccion] Areco. / [Partido d]e Giles / [Marz]o de 1840.",
+    "Duplicado          [a lápiz:] N 18",
+    "Extracto de los titulos de propiedad de D^{na}",
+    "Ysabel Carrasco de Figueroa, viuda de D^{n}",
+    "Mauricio Figueroa.",
+    "Año de 1826. f 1. á 7. D^{n} Manuel Obligado apoderado de la viuda",
+    "y herederos de D^{n} José Francisco Vidal vendió á",
+    "D^{n} Mauricio Figueroa 2000. varas de frente á los fon-",
+    "dos de las suertes principales del rio de Areco, y el",
+    "fondo hasta topar con el Arroyo de Giles. Lindan por",
+    "el N.^{o}E. con tierras vendidas por D^{n} Juan Francisco",
+    "Zuero á D^{n} Pascual Figueroa, por el S.O. con tierra ven-",
+    "dida por el mismo Zuero á D^{n} José Sosa, hoy de",
+    "D^{n} Vicente Marfil.",
+    "año 1810. f 8. heredó D^{n} Mauricio Figueroa 500. varas, parte",
+    "de 2000. que su abuelo D^{n} Tomás Figueroa compró",
+    "en el año de 1759 á D^{n} Juan Francisco Zuero.— este",
+    "documento para en poder de D^{n} José Figueroa.",
+    "año 1826. f 10. D^{n} Juan Crisostomo Piñero nieto de D^{n} Tomás",
+    "Figueroa vendió á D^{n} Mauricio Figueroa 500 varas que",
+    "heredó de su Madre D^{a} Lucia Figueroa.",
+    "1822. f 11. D^{n} Juan Pedro Laballen esposo de D^{a} Josefa",
+    "Figueroa, y esta, nieta de D^{n} Tomás Figueroa, ven-",
+    "dió á D^{n} Mauricio Figueroa 600. varas.",
+    "1838. f 12. D^{n} Toribio Fernandez marido de D^{a} Carmen",
+    "Figueroa nieta de D^{a} Maria de la Cruz Rodriguez, y",
+    "esta, legitima muger de D^{n} Tomás Figueroa, ven-",
+    "dió á D^{a} Ysabel Carrasco de Figueroa 500 varas.",
+    "Nota Estos terrenos son parte de las Mercedes",
+    "hechas á D^{n} Lorenzo de Lara en 1636. por el Gober-",
+    "nador D^{n} Estevan de Avila, y á D. José Ruiz de Arel-",
+    "lano en 1740. p.^{r} el Gobernador D^{n} Miguel Salcedo:",
+    "y los titulos paran en poder de D^{n} Francisco del",
+    "Sar.",
+    "Diligencia de Mensura.",
+    "En el Partido de San Antonio de Areco á 9 [?] de Marzo de",
+    "1840. yo Manuel Eguia Agrimensor Publico"
+   ],
+   "interpretacion": "Es un extracto de títulos organizado como índice de un legajo: año y fojas (f. 1 a 12) a la izquierda y resumen de cada escritura. Lo que se mide es la estancia de Isabel Carrasco, viuda de Mauricio Figueroa. Este es el núcleo de la actual Posta de Figueroa.\nMauricio formó el campo por acumulación. En 1826 compró 2000 varas a los herederos de José Francisco Vidal (por medio del apoderado Manuel Obligado), con frente a los fondos de las suertes del Río de Areco y fondo hasta el arroyo de Giles. En 1810 heredó 500 varas de las 2000 que su abuelo Tomás Figueroa había comprado a Juan Francisco Zuero en 1759. En 1826 compró 500 más a su primo Juan Crisóstomo Piñero y en 1822 otras 600 a Juan Pedro Laballén, esposo de Josefa Figueroa. En 1838 la viuda compró 500 varas a Toribio Fernández, marido de Carmen Figueroa.\nLa nota final es clave: estas tierras provienen de las mercedes de Esteban de Ávila a Lorenzo de Lara (1636) y de Miguel de Salcedo a José Ruiz de Arellano (1740), y esos títulos los tiene Francisco del Sar. Comienza la diligencia: partido de San Antonio de Areco, marzo de 1840."
+  },
+  {
+   "titulo": "Folio 1 (vuelto)",
+   "img": "img/f/010/05.jpg",
+   "fuente": "IMG_3512.JPG, pág. izq.",
+   "nota": "Página izquierda de la toma IMG_3512 (las tomas 3509-3512 son el mismo pliego con distinta luz). Las visuales se ordenan en columna: rumbo, estancia, dueño.",
+   "lineas": [
+    "hallandome comisionado por auto de 6 de Junio de 1839",
+    "del S^{or} Juez de primera Instancia D^{r} D. Cayetano",
+    "Campana para medir los terrenos de propiedad de",
+    "D^{a} Ysabel Carrasco de Figueroa, previa la citacion de",
+    "linderos me situé en el mojon esquinero N. de D^{n} Pedro",
+    "Antonio Rodriguez que tambien es del costado S.O.",
+    "de D^{n} Vicente Marfil: del cual se miró al",
+    "     Nor 18° E. Estancia de D^{n} Damaso Rivero [?]",
+    "     S. 76° E.       \"     de D. Vicente Marfil",
+    "     N.^{o} 46° E. [?]          Rosendo de Dios",
+    "Desde este mojon al Sur sesenta grados Este medí seis",
+    "mil doscientas varas hasta el Arroyo de Giles, habiendo cruza-",
+    "do á las 1600. el Arroyo de Zuero.— Regresé por la",
+    "misma linea 800. varas; y de aqui al N.^{o} 30° E. se",
+    "midieron 1000. varas del frente perteneciente á D^{n}",
+    "Vicente Marfil, que remataron sobre el Arroyo de",
+    "Giles; en cuyo punto se clavó el esquinero Sur",
+    "del terreno que se mide, y de él se mira al",
+    "     N.^{o} 25° 30' O. Estancia de D^{a} Ysabel Carrasco",
+    "     N.^{o} 14°      E.      \"      Pedro A. Rodriguez",
+    "     S. 67°      E.            José Romero.",
+    "En seguida al N.^{o} 60° O. medí 1000. v.^{s} y de don-",
+    "de concluyeron al N.^{o} 30° E. mil setecientas varas",
+    "que terminaron sobre el Arroyo de Giles: de aqui",
+    "al N.^{o} 60° O. medí 750. v.^{s}, y de su estremo al N.^{o}",
+    "30° E. medí 1835. que unidas á las 1700 ante-",
+    "riores hacen la suma de 3535. v.^{s} que es el",
+    "ancho del terreno de D^{a} Ysabel Carrasco, no segun",
+    "sus titulos, sinó segun el convenio celebrado con",
+    "D^{n} José Figueroa que original se acompaña, y",
+    "se colocó el esquinero E. sobre el Arroyo de Giles",
+    "mirando desde él al",
+    "     S. 17° E. Estancia de D^{n} Pedro A. Rodriguez",
+    "     N.^{o} 61° 30' O.   \"   Ysabel Carrasco.",
+    "     N.^{o} 1° E.              Santiago Sosa.",
+    "De aqui al N.^{o} 60° O. se midieron 3900. v.^{s} hasta to-",
+    "car el lado S.E. de la suerte de Cabezadas de D^{n}",
+    "Felipe Figueroa en cuya interseccion se colocó el esquine-",
+    "ro N.^{o} habiendo cruzado á las 1400. v.^{s} el Arroyo de",
+    "Zuero.— Este mojon se demarcó mirando al",
+    "     S. 89° E. Estancia de D^{n} Felipe Figueroa",
+    "     N.^{o} 45° 30' O. Torre de Areco.",
+    "     S. 8° 40' O. Est.^{a} de Rosendo de Dios.",
+    "Desde este mojon al S. 30° O. se midieron 3650. v.^{s} y donde",
+    "concluyeron se colocó el esquinero O. del cual se mira al",
+    "     N.^{o} 34° E. Est.^{a} de D^{n} Santiago Sosa",
+    "     N.^{o} 70° E.          Ysabel Carrasco —",
+    "     S. 85 E.               Pedro A. Rodriguez"
+   ],
+   "interpretacion": "Eguía actúa por auto del 6 de junio de 1839 del juez de primera instancia Dr. Cayetano Campana. Arranca en el esquinero N de Pedro Antonio Rodríguez, que es también el costado SO de Vicente Marfil, y lo ata con visuales a tres estancias.\nMide 6200 varas al S 60° E hasta el arroyo de Giles, cruzando a las 1600 el arroyo de Zuero. Retrocede 800 y mide al N 30° E las 1000 varas de frente de Marfil, hasta el arroyo de Giles, donde clava el esquinero Sur de Carrasco. Por el frente sobre el arroyo avanza en escalones (1000 + 1700, 750 + 1835) hasta sumar 3535 varas. Ese ancho no sale del título sino de un «convenio celebrado con D. José Figueroa», que se adjunta: la frontera entre parientes se pacta.\nDesde el esquinero N, sobre la suerte de cabezadas de Felipe Figueroa, una de las visuales apunta a la «Torre de Areco» (N 45°30' O): el campanario de San Antonio de Areco usado como punto trigonométrico. Cierra con 3650 varas al S 30° O hasta el esquinero O."
+  },
+  {
+   "titulo": "Folio 2 (recto)",
+   "img": "img/f/010/06.jpg",
+   "fuente": "IMG_3512.JPG, pág. der.",
+   "nota": "Página derecha de IMG_3512; foliatura «2». Firma de Eguía y dictamen del Departamento (1843). A lápiz, abajo: «Cotej.do» [?].",
+   "lineas": [
+    "Desde él al S. 60° E. se midieron 6550 v.^{s} que termi-",
+    "naron sobre el mojon esquinero Sur de la Costa del",
+    "Arroyo de Giles, habiendo cruzado á las 3000. v.^{s} el Arroyo",
+    "de Zuero.— Todos rumbos de la Aguja.",
+    "El terreno medido tiene la figura de un poligono",
+    "irregular de 6 lados con la area de 17321000 varas",
+    "cuadradas, ó lo que es lo mismo 0,48 ... de legua cuadra-",
+    "da; y linda por el N.^{o}E. con los herederos de D^{n}",
+    "Jervasio Figueroa representados por D^{n} José Figueroa",
+    "por el S.E. con el Arroyo de Giles, por el S.O.",
+    "con D^{n} Vicente Marfil, y por el N.^{o}O. con D^{n}",
+    "Felipe Figueroa.",
+    "Nota Asistieron á esta operacion los linderos D^{n} Vicente",
+    "Marfil.— Por D^{n} Felipe Figueroa y los herederos",
+    "de D^{n} Jervasio asistió D^{n} José Figueroa — Por D^{n}",
+    "Francisco del Sar, sucesor en derechos de los primiti-",
+    "vos donatarios se presentó el ultimo dia de men-",
+    "sura D^{n} José Clemente Laballen quien presentó",
+    "la protesta que original se agrega.",
+    "Manuel Eguia [rúbrica]",
+    "S^{or} Juez de 1.^{a} Instancia.",
+    "A vista de la protesta firmada p.^{r} D^{n} José Clemente Laballen,",
+    "el Departamento Topografico, antes de proceder",
+    "al juicio de la antecedente diligencia de Mensura",
+    "es de dictamen, de que el Juzgado se sirva dar",
+    "vista de d.^{ha} diligencia á D^{n} Francisco del Sar: qui-",
+    "en, en consecuencia, deberá esponer las razones de",
+    "su oposicion (si acaso está dispuesto á sostener-",
+    "la) con exhibicion de sus titulos de propiedad.",
+    "Buenos Aires Febrero 20 de 1843.",
+    "Arenales [rúbrica]     Salas [?] [rúbrica]",
+    "[a lápiz:] Cotej.^{do} [?]"
+   ],
+   "interpretacion": "El último lado mide 6550 varas al S 60° E hasta el esquinero Sur, sobre la costa del arroyo de Giles, y cruza el de Zuero a las 3000 varas. «Todos rumbos de la aguja»: no hay corrección de declinación. Es un polígono irregular de 6 lados con 17.321.000 v² (0,48 leguas²). Linda al NE con los herederos de Gervasio Figueroa (representados por José Figueroa), al SE con el arroyo de Giles, al SO con Vicente Marfil y al NO con Felipe Figueroa.\nEl último día de mensura aparece José Clemente Laballén en nombre de Francisco del Sar, «sucesor en derechos de los primitivos donatarios», y presenta una protesta. Del Sar reclama, con las mercedes del siglo XVII, derechos sobre toda la franja.\nEl Departamento Topográfico (Arenales y, probablemente, Salas) dictamina el 20 de febrero de 1843, tres años después: antes de juzgar la mensura, el juez debe dar vista a del Sar para que exponga su oposición «si acaso está dispuesto a sostenerla», exhibiendo sus títulos."
+  },
+  {
+   "titulo": "Notas de trámite (1882-1975)",
+   "img": "img/f/010/07.jpg",
+   "fuente": "IMG_3513.JPG",
+   "nota": "Hoja final con anotaciones de distintas manos, desde el siglo XIX hasta 1975; sello de José María Prado.",
+   "lineas": [
+    "18 de 1882",
+    "D. Manuel Nareira [?] — denuncia",
+    "como del Estado el terreno compren-",
+    "dido entre los Arroyos de Giles y",
+    "del Zuero",
+    "Ab.^{re} 10 inform.^{e} el D.",
+    "Enero 20 1883 se manda archivar.",
+    "Junio 2/883 Anotado",
+    "Lagos [?] [rúbrica]",
+    "La Plata 25 de ag.^{to} 1922. Informé en el exp.^{te}",
+    "J-98-1922 — Juez Bent [?], en el exp.^{te} Figueroa",
+    "Juana Elena [?] y Juan José [?] s/ juicio testamentario",
+    "[rúbrica]",
+    "Cp. 66 f. 90",
+    "La Plata Febrero 28 de 1924.— En la fecha se informó en el",
+    "Expediente F- N.^{o} 30 - de 1923 - D. G. y C. — «Figueroa J. J. y otra —",
+    "mensura — copiador N.^{o} 68 - folio 448.",
+    "Leandro [?] Costa [?] [rúbrica]",
+    "La Plata, julio 17 1975",
+    "En la fecha, se extiende fotocopia",
+    "del presente duplicado de mensura",
+    "a pedido de la D. de Museos, Lugares",
+    "y Monumentos Historicos del Ministerio",
+    "de Educacion. A/ estudio de la Posta",
+    "de Figueroa. Conste.",
+    "[rúbrica] — [sello:] JOSE MARIA PRADO / JEFE DE ASESORIA E / INVESTIGACION HISTORICA"
+   ],
+   "interpretacion": "El expediente siguió vivo durante 135 años. En 1882 Manuel Nareira [?] denuncia como tierra del Estado el terreno comprendido entre los arroyos de Giles y de Zuero, y en enero de 1883 se manda archivar la denuncia. La vieja reclamación de del Sar reaparece así como caza de sobrantes.\nEn 1922 y 1924 la Dirección de Geodesia informa en juicios testamentarios y en la mensura de «Figueroa J. J. y otra». El 17 de julio de 1975 se extiende fotocopia a pedido de la Dirección de Museos, Lugares y Monumentos Históricos «para estudio de la Posta de Figueroa». Es el eslabón documental entre esta mensura y la declaratoria patrimonial de la estancia."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Isabel Carrasco de Figueroa",
+   "img": "img/f/010/02.jpg",
+   "fuente": "IMG_3514.JPG",
+   "orientacion": "Lámina vertical; una larga línea oblicua marca el norte o el rumbo de referencia. Escala de 6000 varas, transversal.",
+   "interpretacion": "El plano muestra un trapecio encajado entre dos cursos: a la izquierda el «Arroyo de Giles» y, en el centro, el «A.o de Zuero», que atraviesa el campo y desemboca en el de Giles en el ángulo Sur. Al norte, la franja de «Vicente Marfil» y, más allá, «Pedro A. Rodríguez»; al este y al sur, las franjas de «Felipe Figueroa». Abajo, el rectángulo de los herederos «representado por José Figueroa».\nEn el interior hay dos poblaciones: «R. de Dios» (Rosendo de Dios) e «Y. Carrasco». La traza más valiosa es el «camino de la Posta», punteado, que cruza el campo desde el arroyo de Giles, junto con el «C. a Areco» al pie: es la posta de Figueroa sobre el Camino Real. La escala dice «3 pulgadas por legua, 1/72000 del largo verdadero» y firma «Marzo 7 de 1840, Manuel Eguía».",
+   "referencias": [
+    [
+     "Isabel Carrasco de Figueroa",
+     "Polígono de 6 lados, 17.321.000 v²"
+    ],
+    [
+     "Arroyo de Giles",
+     "Frente SE; esquineros Sur y E en su costa"
+    ],
+    [
+     "A.o de Zuero",
+     "Cruza el campo (1600, 1400 y 3000 v)"
+    ],
+    [
+     "Vicente Marfil · •V. Marfil",
+     "Lindero SO-N con población"
+    ],
+    [
+     "Pedro A. Rodríguez",
+     "Lindero exterior; mojón de arranque"
+    ],
+    [
+     "Felipe Figueroa",
+     "Suerte de cabezadas al NO y franja al S"
+    ],
+    [
+     "Representado por José Figueroa",
+     "Herederos de Gervasio Figueroa (NE)"
+    ],
+    [
+     "• R. de Dios · • Y. Carrasco",
+     "Poblaciones interiores (Rosendo de Dios; casa de la propietaria)"
+    ],
+    [
+     "camino de la Posta",
+     "Traza punteada que cruza el campo: Camino Real / Posta de Figueroa"
+    ],
+    [
+     "C. a Areco",
+     "Camino a San Antonio de Areco, junto a la confluencia"
+    ],
+    [
+     "Cotas 6200 · 655[0] · 1700 · 1835 · 750 · 3200 [?] · 3650 · 2480 [?]",
+     "Longitudes en varas escritas sobre los lados"
+    ],
+    [
+     "Escala",
+     "«3 pulgadas por legua — 1/72000 del largo verdadero»"
+    ],
+    [
+     "Firma",
+     "«Marzo 7 de 1840 — Manuel Eguía»"
+    ]
+   ]
+  },
+  {
+   "titulo": "Pliego abierto (f. 1v-2r) con la firma del Departamento",
+   "img": "img/f/010/03.jpg",
+   "fuente": "IMG_3509.JPG (misma toma que 3510-3512, otra luz)",
+   "orientacion": "Vista del pliego completo.",
+   "interpretacion": "La vista de conjunto muestra la disposición de las visuales en columna, la firma de Eguía y el dictamen de 1843 con las firmas de Arenales y Salas [?].",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "La posta de figueroa en el papel",
+   "texto": "Es la mensura de la estancia de la Posta de Figueroa, hoy monumento histórico. El plano dibuja el «camino de la Posta» (Camino Real al Alto Perú) cruzando el campo y el «C. a Areco» junto a la confluencia de los arroyos de Giles y Zuero. La nota de 1975 prueba que la Dirección de Museos, Lugares y Monumentos Históricos usó este duplicado para estudiar la posta. Para la tesis es un documento ancla: permite fijar la posición de la posta y de la casa de Isabel Carrasco en 1840."
+  },
+  {
+   "titulo": "Paisaje: dos arroyos y una torre",
+   "texto": "Los arroyos de Giles y de Zuero delimitan y atraviesan el campo; el Zuero se cruza tres veces. Las visuales van a estancias (Damaso Rivero [?], Marfil, Rosendo de Dios, Pedro A. Rodríguez, José Romero, Santiago Sosa, Felipe Figueroa) y, excepcionalmente, a la «Torre de Areco», el campanario de San Antonio de Areco. Esa visual es un punto de control para el GIS, porque la torre existe y su azimut desde el esquinero N se puede reconstruir."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Los rumbos son «todos de la aguja», sin declarar variación ni corrección, a diferencia de 1838 (15°) y de 1854 (11°45'). Para georreferenciar hay que rotar el polígono con una declinación estimada (~13-15° E para 1840). El frente se mide en escalones perpendiculares al arroyo. La escala es fraccionaria («1/72000 del largo verdadero», 3 pulgadas por legua), un indicio temprano de pensamiento cartográfico decimal. El expediente no declara el instrumento de medida lineal."
+  },
+  {
+   "titulo": "Tenencia, parentesco y convenio",
+   "texto": "El campo resulta de reunir herencias fragmentadas de los nietos de Tomás Figueroa (Piñero, Laballén, Fernández) y de una compra a Vidal. El ancho no es el del título sino el de un convenio privado con José Figueroa, primo o sobrino. La viuda Isabel Carrasco es la titular: otra propietaria mujer en la serie, junto a Pascuala Romero, Angela Casco, Lorenza La Madrid y Agustina Monsalvo."
+  },
+  {
+   "titulo": "Mercedes y la sombra de del sar",
+   "texto": "La nota de títulos remonta a mercedes de 1636 (Esteban de Ávila a Lorenzo de Lara) y de 1740 (Miguel de Salcedo a José Ruiz de Arellano), y dice que esos títulos los tiene Francisco del Sar. Del Sar, «sucesor en derechos de los primitivos donatarios», protesta la mensura por medio de José Clemente Laballén; en 1856 (Ficha 009) es denunciante de tierra pública. La merced de 1636 dialoga con la de Dávila a Vergara de 1635 de la Ficha 007. El dictamen de 1843 obliga a del Sar a mostrar sus títulos."
+  },
+  {
+   "titulo": "Burocracia y tiempos",
+   "texto": "Hubo auto en junio de 1839, mensura en marzo de 1840 (durante el bloqueo francés y la crisis de Lavalle), dictamen en febrero de 1843 y notas en 1882-83, 1922, 1924 y 1975. El legajo funciona como una capa del tiempo administrativo: sirve para mensuras posteriores, juicios testamentarios, denuncias de tierras fiscales y la patrimonialización."
+  },
+  {
+   "titulo": "Estado y lecturas dudosas",
+   "texto": "La letra es muy clara, pero las fotos son oscuras; 3509-3512 son la misma doble página con distinta luz. Quedan dudosos el día de la diligencia (9 o 7 de marzo), «Damaso Rivero», el rumbo «N 46° E», la segunda firma del Departamento (Salas), «Nareira», «Lagos», «Bent» y «Leandro Costa». La protesta de Laballén y el convenio con José Figueroa no están fotografiados."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Sostuvo del Sar su oposición? ¿Qué decían las mercedes de Lara y Ruiz de Arellano? ¿Coincide el «camino de la Posta» con la traza del Camino Real que se conoce? ¿Qué parentesco había entre Juan Pedro Laballén (1822) y José Clemente Laballén (1840), y con «Gerónimo Laballén» del plano de 004?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Isabel Carrasco de Figueroa",
+   "rol": "Propietaria; viuda de mauricio figueroa",
+   "texto": "Titular de la estancia en 1840. Compró 500 varas en 1838 a Toribio Fernández y conservó el campo reunido por su marido. Su casa figura en el plano como «Y. Carrasco». Es un eslabón de la línea familiar de la Posta de Figueroa.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Mauricio Figueroa",
+   "rol": "Formador del campo (fallecido antes de 1838)",
+   "texto": "Nieto de Tomás de Figueroa. Heredó 500 varas en 1810 y compró tierras en 1822 y 1826 hasta reunir el núcleo de la estancia.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Tomás de Figueroa",
+   "rol": "Fundador de la estancia (1755-1759)",
+   "texto": "Sargento mayor. En 1755 adquirió tierras en el Pago de Areco, donde se radicó con su esposa Rita Casco de Mendoza y sus hijos, entre ellos Pascual Antonio. La mensura menciona una compra a Juan Francisco Zuero en 1759 y a su mujer María de la Cruz Rodríguez. La estancia, luego posta del Camino Real, recibió en 1834 a Rosas y Facundo Quiroga (Carta de la Hacienda de Figueroa). Hay una discrepancia sobre el nombre de la esposa que conviene revisar.",
+   "fuentes": "Wikipedia, «Posta de Figueroa»; Argentina.gob.ar, «Casco de la Estancia La Merced, también conocida como Posta de Figueroa»; esta mensura."
+  },
+  {
+   "nombre": "Manuel Eguía",
+   "rol": "Agrimensor público",
+   "texto": "Es el agrimensor de las Fichas 003-006. Esta mensura de 1840 cubre el hueco entre 1838 y 1854 de su carrera; aquí mide «con rumbos de la aguja» y usa la torre de Areco como referencia.",
+   "fuentes": "Esta mensura; Fichas 003-006."
+  },
+  {
+   "nombre": "Dr. Cayetano Campana (1790-1871)",
+   "rol": "Juez de 1.ª instancia",
+   "texto": "Nacido en Montevideo, fue profesor en Córdoba, secretario de Cornelio Saavedra (1819), asesor del Cabildo porteño (1821-22), juez de primera instancia en la capital, diputado constituyente (1826) y provincial (1837), y camarista (1844).",
+   "fuentes": "Wikipedia, «Cayetano Campana»."
+  },
+  {
+   "nombre": "Francisco del Sar · José Clemente Laballén",
+   "rol": "Opositor (sucesor de los donatarios) y su representante",
+   "texto": "Del Sar tenía los títulos de las mercedes de 1636 y 1740 y protestó la mensura en 1840. En 1856 aparece denunciando tierra pública al norte de Agustina Monsalvo (Ficha 009). Laballén presentó la protesta. Hay un Juan Pedro Laballén en 1822 y un «Gerónimo Laballén [?]» en la Ficha 004.",
+   "fuentes": "Esta mensura; Fichas 004 y 009."
+  },
+  {
+   "nombre": "José Antonio Álvarez de Arenales · Saturnino Salas",
+   "rol": "Departamento topográfico (1843)",
+   "texto": "Arenales presidió el Departamento entre ~1828 y 1852. Salas (1806-1892) era miembro y lo presidió desde 1855 (ver Ficha 004).",
+   "fuentes": "Fichas 004 y 008."
+  },
+  {
+   "nombre": "Figueroa: Gervasio, José, Felipe, Pascual; Piñero, Laballén, Fernández",
+   "rol": "Parentela lindera y vendedora",
+   "texto": "Los herederos de Gervasio (representados por José) lindan al NE, Felipe tiene la suerte de cabezadas al NO y Pascual compró a Zuero. Juan Crisóstomo Piñero (hijo de Lucía Figueroa), Juan Pedro Laballén (esposo de Josefa) y Toribio Fernández (esposo de Carmen) vendieron fracciones heredadas. Gregorio, hijo de Felipe, aparece en la Ficha 009.",
+   "fuentes": "Esta mensura; Ficha 009."
+  },
+  {
+   "nombre": "Vicente Marfil · Pedro A. Rodríguez · Santiago Sosa · Rosendo de Dios · José Romero · Damaso Rivero [?]",
+   "rol": "Linderos y referencias visuales",
+   "texto": "Marfil tenía la tierra que Zuero había vendido a José Sosa. Rodríguez es el vecino del mojón de arranque (¿el Pedro Antonio Rodríguez juez de paz de 1838, Ficha 008?). Los demás son estancias usadas como visuales.",
+   "fuentes": "Esta mensura; Ficha 008."
+  },
+  {
+   "nombre": "Manuel Obligado · José Francisco Vidal",
+   "rol": "Apoderado y vendedor (1826)",
+   "texto": "Obligado representó a la viuda y los herederos de Vidal en la venta a Mauricio Figueroa. No se buscaron más datos.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "José María Prado",
+   "rol": "Jefe de asesoría e investigación histórica (1975)",
+   "texto": "Firmó la nota que autoriza la fotocopia para el estudio de la Posta de Figueroa. Sin más datos.",
+   "fuentes": "Esta mensura."
+  }
+ ],
+ "titulo": "D.ª Isabel Carrasco de Figueroa",
+ "estado": "Transcripta (4 hojas, 143 renglones), 2 láminas"
+}

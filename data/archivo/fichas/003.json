@@ -1,0 +1,504 @@
+{
+ "carpeta": "3",
+ "carpeta_nombre": "Carpeta 3",
+ "archivo": "Ficha 003 - Pascuala Romero de Monsalvo (1838).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Sección topográfica de Areco)",
+  "N.º de duplicado": "3",
+  "Propietario / solicitante": "D.ª Pascuala Romero de Monsalvo",
+  "Agrimensor": "Manuel Eguía",
+  "Año": "1838",
+  "Fecha de la diligencia": "5 de febrero de 1838",
+  "Ubicación": "Partido de Giles, en la Cañada de los Toros; naciente de la Cañada de Giles",
+  "Orden judicial": "Superior Decreto del Gobierno (compra de tierras en enfiteusis); aprobación por decreto del 9 de marzo de 1838 (Rosas – Insiarte)",
+  "Vendedor / antecesor": "Estado de Buenos Aires (venta de tierra pública, ley del 10 de mayo de 1836). Solicitud presentada por su hijo Fernando Monsalvo; Guillermo Aguirre, coenfiteuta, desiste",
+  "Linderos citados": "N: Martín Galeano · E: Joaquín Rodríguez y Ceferino Acuña · S: Justo Maidana · O: José María Echeverría y terrenos del Estado",
+  "Medidas": "Polígono irregular de 6 lados: 850 / 6950 / 4300 / 2500 / 3000 / 3100 / 4700 varas. Área: 1 legua cuadrada + 6 milésimos (1 legua y 11 cuadras cuadradas)",
+  "Rumbos": "Líneas «magnéticas» y «corregidas de quince grados»",
+  "Referencia de archivo": "Portadilla: «Sección Areco – N.º 22 – Giles 3». Informe D. T. 7/3/1838; notas marginales de 1864, 1865 y 1866"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 1.883 (1,006 leguas²)",
+  "hitos": "mojones, 11 estancias y el Pueblo de Giles como visuales; 8 puestos interiores",
+  "aguas": "Cañada de los Toros; naciente de la Cañada de Giles; arroyo de Giles"
+ },
+ "sintesis": "Mensura de 1838 de la tierra en enfiteusis de Pascuala Romero de Monsalvo, en la Cañada de los Toros y la naciente de la Cañada de Giles. El agrimensor Manuel Eguía la hizo para que el gobierno de Rosas la vendiera según la ley del 10 de mayo de 1836. Es un polígono de seis lados de una legua cuadrada y seis milésimos (≈1.883 ha), valuado en 5030 pesos. El coenfiteuta Guillermo Aguirre desiste por convenio, y el decreto del 9 de marzo de 1838 (Rosas-Insiarte) vende todo a la Romero y ordena cobrar el canon a Aguirre. El plano es muy rico: cuadro de demarcación con visuales a once estancias y al Pueblo de Giles, puestos interiores, el «Terreno del Pueblo» y las dos agujas a 15°. Notas de 1864-1866 muestran la vida posterior del título.",
+ "caratula": {
+  "img": "img/f/003/01.jpg",
+  "fuente": "IMG_6574.JPG",
+  "campos": [
+   [
+    "N.º",
+    "3"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Don [sic] Pascuala Romero de Monsalvo"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Manuel Eguía"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1838"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 (recto)",
+   "img": "img/f/003/07.jpg",
+   "fuente": "IMG_6576.JPG",
+   "nota": "Letra cursiva regular, papel con foxing. Foliatura «1» en sello oval; sello negro del Departamento Topográfico en el margen izquierdo; encabezado federal breve «¡Viva la Federación!».",
+   "lineas": [
+    "¡Viva la Federacion!",
+    "En el Partido de Giles á cinco de Febrero de mil",
+    "ochocientos treinta y ocho. Año veinte y nueve de",
+    "la Libertad: veinte y tres de la Independencia",
+    "y nueve de la Confederacion Argentina. En",
+    "cumplimiento del Superior Decreto que antecede,",
+    "pasé á medir el Terreno cuya compra propone",
+    "D^{n} Fernando Monsalvo á nombre de su Señora",
+    "Madre D^{a} Pascuala Romero; y para verificar-",
+    "lo tomé por punto de arranque el mojon es-",
+    "quinero Este de D^{n} Jose Maria Echeverría, desde",
+    "el cual al Sur cuatro grados Este, medí ochocien-",
+    "tas cincuenta varas, que terminaron sobre un",
+    "mojon del Terreno de D^{n} Justo Maidana. Vol-",
+    "ví al punto de arranque, y en direccion Norte",
+    "cuatro grados Oeste magnetico medí seismil no-",
+    "vecientas cincuenta varas, que terminaron so-",
+    "bre un mojon colocado en el costado Sud-",
+    "Oeste del Terreno de D^{n} Martin Galeano; habien-",
+    "do hallado un mojon en ésta linea á las tres-",
+    "mil trescientas cincuenta varas desviado cien",
+    "varas al Este de su verdadero lugar. Desde el",
+    "mojon estremo Norte de las seismil novecientas",
+    "cincuenta varas al Sud Este corregido de quince gra-",
+    "dos, medí cuatromil trescientas varas, y hallé un",
+    "mojon de este costado: á las sietemil cuatrocientas",
+    "dí con el esquinero Sud de D^{n} Martin Galeano,",
+    "desde el cual al Norte sesenta grados treinta mi-",
+    "nutos Este, medí dosmil quinientas varas, que termi-",
+    "naron en otro mojon de dicho Galeano, colocado"
+   ],
+   "interpretacion": "Manuel Eguía abre el acta en el partido de Giles el 5 de febrero de 1838, con la datación federal («año 29 de la Libertad, 23 de la Independencia y 9 de la Confederación»). No actúa por orden de un juez, como en 1825 y 1846, sino por un «Superior Decreto» del gobierno. Se trata de una compra de tierra pública: Fernando Monsalvo propone comprar, a nombre de su madre Pascuala Romero, un campo que la familia tenía en enfiteusis.\nArranca en el esquinero este de José María Echeverría, mide 850 varas al S 4° E hasta un mojón de Justo Maidana, vuelve y recorre 6950 varas al N 4° O magnético hasta el costado SO de Martín Galeano. En el camino encuentra un mojón antiguo «desviado cien varas al Este de su verdadero lugar»: el terreno guarda la memoria de mediciones anteriores y erróneas. Luego sigue al SE corregido 15° por 4300 varas y, a las 7400, da con el esquinero sur de Galeano. Desde allí dobla al N 60°30' E y mide 2500 varas hasta otro mojón de Galeano."
+  },
+  {
+   "titulo": "Folio 1 (vuelto)",
+   "img": "img/f/003/08.jpg",
+   "fuente": "IMG_6577.JPG",
+   "nota": "Misma mano. Contiene el cierre del polígono, el área, los linderos, el valor según la ley de 1836 y la nota sobre el convenio con Guillermo Aguirre.",
+   "lineas": [
+    "en la naciente de la Cañada de Giles: desde este",
+    "mojon al Sud veinte y siete grados quince mi-",
+    "nutos al Oeste, medí tresmil varas, que termi-",
+    "naron en el esquinero Norte de D^{n} Ceferino",
+    "Acuña, desde el cual al Sud Oeste magnetico me-",
+    "dí tresmil cien varas, que terminaron en el es-",
+    "quinero Oeste del mismo Acuña; y desde él al",
+    "Sur Ochenta y cinco grados Oeste, medí cuatro",
+    "mil setecientas varas que terminaron en el",
+    "esquinero de Maidana, quedando así cerrada",
+    "la figura del Terreno de D^{a} Pascuala Romero;",
+    "el cual consta de un polígono irregular de seis la-",
+    "dos, con la area de una legua cuadrada y seis",
+    "milécimos de otra, ó lo que es lo mismo, una",
+    "legua cuadrada y once cuadras cuadradas; y",
+    "linda por el Norte con D^{n} Martin Galeano,",
+    "por el Este con D^{n} Joaquin Rodriguez y D^{n} Ce-",
+    "ferino Acuña, por el Sur con D^{n} Justo Mai-",
+    "dana y por el Oeste con D^{n} Jose Maria Eche-",
+    "verría y Terreno del Estado. El valor de este",
+    "Terreno segun la Ley de diez de Mayo de mil",
+    "ochocientos treinta y seis, es de cincomil trein-",
+    "ta y cuatro pesos.",
+    "Nota — En cumplimiento del artículo cuarto",
+    "del convenio celebrado entre D^{n} Guillermo Aguir-",
+    "re y D^{a} Pascuala Romero, cuyo documento se",
+    "acompaña, procedí de acuerdo con los intere-",
+    "sados á medir el Terreno cedido á Aguirre;",
+    "y para ello tomé por punto de arranque el es-",
+    "quinero Sud de D^{n} Martin Galeano, desde el cual",
+    "al Sud Oeste corregido de quince grados, medí",
+    "mil cien varas, y coloqué un mojon, desde él"
+   ],
+   "interpretacion": "El polígono se cierra con tres lados más: 3000 varas al S 27°15' O desde un mojón de Galeano colocado «en la naciente de la Cañada de Giles», es decir, donde nace el curso que da nombre al pueblo. Luego 3100 varas al SO hasta el esquinero oeste de Ceferino Acuña, y 4700 varas al S 85° O hasta el esquinero de Maidana.\nResultado: un polígono irregular de seis lados, con una legua cuadrada y seis milésimos (≈1.883 ha), que linda con Galeano (N), Joaquín Rodríguez y Ceferino Acuña (E), Maidana (S), y con Echeverría y tierra del Estado (O). Su valor según la ley del 10 de mayo de 1836 es de 5034 pesos, lo que implica un precio de unos 5000 pesos por legua cuadrada.\nLa nota final introduce una segunda operación. Por el artículo 4.º de un convenio entre Guillermo Aguirre y Pascuala Romero, el agrimensor mide el terreno «cedido a Aguirre», un enclave dentro del polígono. Parte del esquinero sur de Galeano y mide 1100 varas al SO corregido."
+  },
+  {
+   "titulo": "Folio 2 (recto)",
+   "img": "img/f/003/09.jpg",
+   "fuente": "IMG_6578.JPG",
+   "nota": "Arriba, final de la diligencia y firma de Eguía (foliatura «2»). Debajo, con otra mano más gruesa, el informe del Departamento Topográfico al gobernador («Exmo. Señor»), firmado por José Arenales.",
+   "lineas": [
+    "al Nor Oeste corregido de quince grados medí tres",
+    "mil varas, y coloqué otro mojon, desde el cual",
+    "al Nor Este corregido medí mil cien varas,",
+    "que terminaron en el mojon de la media",
+    "legua del costado Sud Este de D^{n} Martin Galeano:",
+    "desde él, al Sud-Este corregido medí tresmil va-",
+    "ras, que terminaron en el punto de arran-",
+    "que, con cuya operacion queda medido el Ter-",
+    "reno de D^{n} Guillermo Aguirre.",
+    "Nota — A ésta mensura asistieron personal-",
+    "mente todos los linderos.",
+    "Manuel Eguía [rúbrica]",
+    "———",
+    "Exmo. Señor",
+    "Aparecen acumuladas en este espediente las dos soli-",
+    "citudes que elevaron á V.E. D^{a} Pascuala Romero y D^{n} Guillermo",
+    "Aguirre proponiendo la compra de los terrenos que dijeron",
+    "poseían en enfiteusis. A virtud de las dos superiores",
+    "providencias de V.E. de f. 2 (p^{za} 1.^{ra}) y f. 30 v.^{ta} (p^{za} 2.^{a}) se ha",
+    "practicado el esclarecimiento y mensura de dichos ter-",
+    "renos por el ag.^{or} D^{n} Manuel Eguía. — El Departam.^{to}",
+    "topográfico ha esaminado estas diligencias, y las en-",
+    "cuentra en todo arregladas á lo prescrito para",
+    "tales casos; por lo cual propone á V.E. la respec-",
+    "tiva aprobacion.",
+    "Por el documento de convenio entre D^{a} Pascuala Romero y D^{n}",
+    "Guillermo Aguirre (f. 5 p^{za} 2.^{a}) dicha Sra. reviste la",
+    "personería necesaria p.^{a} obtener de V.E. el título de",
+    "propiedad por todo el terreno solicitado antes por am-",
+    "bos accionistas. — La superficie total de éste, resulta",
+    "ser __una__ legua cuadrada mas __seis__ milésimos de",
+    "otra, siendo esta fraccion igual á __once__ cuadras cuadradas.",
+    "Este terreno se halla en la Seccion topografica de Areco,",
+    "y en la 1.^{ra} que establece la ley de 10 de mayo 1836, en virtud de la",
+    "cual importa __cinco__ mil treinta pesos. — Marzo 7/838.",
+    "Jose Arenales [rúbrica]"
+   ],
+   "interpretacion": "Termina la medición del enclave de Guillermo Aguirre: un rectángulo de 1100 × 3000 varas (≈250 ha) apoyado en el «mojón de la media legua» del costado SE de Galeano. El acta cierra con una fórmula que resume el ritual: «a esta mensura asistieron personalmente todos los linderos». Firma Manuel Eguía.\nEl 7 de marzo de 1838 José Arenales informa al gobernador. Explica que en el expediente se «acumularon» dos solicitudes, la de Romero y la de Aguirre, ambas para comprar tierras que poseían en enfiteusis. El Departamento encuentra la mensura «en todo arreglada» y propone aprobarla. Por el convenio entre ambos, Pascuala Romero queda habilitada para obtener el título de todo el terreno. Superficie: una legua cuadrada y seis milésimos (11 cuadras cuadradas), en la Sección topográfica de Areco y en la «1.ª» zona de precios de la ley de 1836, por 5030 pesos.\nSe advierte una pequeña diferencia de valor: el agrimensor calculó 5034 pesos y el Departamento 5030. Las palabras clave están subrayadas en el original."
+  },
+  {
+   "titulo": "Folio 2 (vuelto)",
+   "img": "img/f/003/10.jpg",
+   "fuente": "IMG_6579.JPG",
+   "nota": "Copia del decreto de aprobación, con la misma mano del informe. Al pie, nota marginal posterior de 1864 firmada por Salas.",
+   "lineas": [
+    "Copia de Superior Decreto. —",
+    "\"Buenos aires Marzo nueve de mil ochocientos treinta y ocho.",
+    "\"Visto este espediente: de conformidad con lo informado por el",
+    "\"Departamento Topográfico, se aprueba la mensura que ha prac-",
+    "\"ticado el agrimensor D^{n} Manuel Eguía; y en virtud de que D^{n}",
+    "\"Guillermo Aguirre ha desistido de la propuesta de compra q.",
+    "\"hizo del terreno, segun consta del art. 1.º del convenio que se re-",
+    "\"gistra á f. 5, usando el Gobierno de la facultad que le acuerda la",
+    "\"ley de 10 de mayo de 1836, vende á D^{a} Pascuala Romero, el",
+    "\"mismo terreno que á su nombre ha solicitado comprar su",
+    "\"hijo D^{n} Fernando Monsalvo, cuya superficie se espresa y de-",
+    "\"termina en el anterior informe del Departamento Topográf.^{co}",
+    "\"datado á siete del corriente mes, por la cantidad de cinco mil",
+    "\"treinta pesos, que entregará en la tesorería el comprador al",
+    "\"contado y en moneda corriente, segun esta convenido. Y á",
+    "\"efecto de que sin ninguna demora sea despachado este asunto,",
+    "\"sacandose copia íntegra de esta resolucion por la Contaduría",
+    "\"para que quede en ella la debida constancia, pase á la Escri-",
+    "\"banía mayor de Gobierno, para que se liquide en la Colecturía",
+    "\"el canon vencido hasta el dia, y se exija el pago á D^{n} Guil-",
+    "\"lermo Aguirre que ha estado en posesion del terreno como en-",
+    "\"fiteuta; y tomada la razon lo mismo que en el Departamento",
+    "\"Topográfico, se proceda á otorgar la correspondiente escritura",
+    "\"de propiedad con insercion de este espediente á favor de D^{a} Pascua-",
+    "\"la Romero; lo que fecho, se archivará, dandosele el testimonio",
+    "\"ó testimonios que en todo tiempo solicitare. — Rosas. — Man.^{l}",
+    "\"Insiarte\". —— Marzo 15 de 1838.   Arenales [rúbrica]",
+    "Nota = D^{n} Sotero Galeano pide en compra los",
+    "sobrantes que pueden resultar al medir",
+    "el terreno de su propiedad. El D. T.",
+    "inf. en S^{bre} 16/864",
+    "Salas [rúbrica]"
+   ],
+   "interpretacion": "El 9 de marzo de 1838 el gobernador Juan Manuel de Rosas, con la firma de su ministro Manuel Insiarte, aprueba la mensura. Como Guillermo Aguirre desistió de su propuesta, el gobierno vende a Pascuala Romero todo el terreno por 5030 pesos, a pagar al contado en la Tesorería.\nEl decreto ordena cuatro trámites: que la Contaduría deje constancia, que la Escribanía Mayor de Gobierno liquide en la Colecturía el canon enfitéutico vencido y se lo cobre a Aguirre (que era quien ocupaba el terreno como enfiteuta), que se tome razón en el Departamento Topográfico y que se otorgue la escritura de propiedad a favor de la Romero. Es el paso concreto de la enfiteusis rivadaviana a la propiedad privada plena bajo Rosas.\nLa nota inferior es de 26 años después (16 de septiembre de 1864): Sotero Galeano, heredero del lindero norte, pide comprar los «sobrantes» que puedan aparecer al medir su propiedad. El expediente se sigue usando como referencia por décadas."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la mensura de Pascuala Romero de Monsalvo",
+   "img": "img/f/003/03.jpg",
+   "fuente": "IMG_6582.JPG (detalle del polígono)",
+   "orientacion": "Detalle central de la lámina; los vértices se designan con letras A–F.",
+   "interpretacion": "El polígono A-B-C-D-E-F corresponde a la tierra vendida a Pascuala Romero de Monsalvo: «Área = 1,006 [leguas]. Importa 5.034 pesos». Adentro se ve el rectángulo de «D.n Guillermo Aguirre» (3000 × 1100 varas) y varios puestos o poblaciones marcados con cuadraditos negros: Pascuala Romero, Prado [?], C. Almirón, E. Almirón, A. Rojas, D. Alvarracín y L. Galeano. Es un registro del poblamiento interior, de quienes vivían dentro del campo. Al sur está la gran fracción de Martín Galeano. En el ángulo SO, el arroyo [de Giles] nace del vértice E. Al este aparece «Isidro Rodríguez, enfiteuta» y «Fernandes, enfiteuta», con la anotación «Está en el caso que previene el artículo del Superior Decreto de 27 de julio de 1837». Dos flechas con un ángulo de 15° marcan el norte magnético y el verdadero. Las líneas achuradas que cruzan el polígono pueden ser cañadas o bajos: la Cañada de los Toros y la naciente de la Cañada de Giles.",
+   "referencias": [
+    [
+     "A–B",
+     "Lado corto norte (≈330 varas) junto al esquinero de Galeano"
+    ],
+    [
+     "B–C",
+     "3350 + 3680 varas; costado E con puestos Prado [?], Almirón"
+    ],
+    [
+     "C",
+     "Vértice SE, 1350 varas; arranque de las agujas (norte magnético / verdadero, 15°)"
+    ],
+    [
+     "C–D",
+     "Lado sur, línea de 7400 varas con L. Galeano"
+    ],
+    [
+     "D–E",
+     "2500 varas, rumbo N 66° 82 [?]"
+    ],
+    [
+     "E",
+     "Vértice SO sobre el arroyo [de Giles]; 3000 varas S 27° 15' con Joaquín Rodríguez"
+    ],
+    [
+     "E–F",
+     "3100 varas"
+    ],
+    [
+     "F–A",
+     "≈ 4700 [?] varas, lado NO"
+    ],
+    [
+     "■",
+     "Poblaciones o puestos: Pascuala Romero, Prado, C. Almirón, E. Almirón, A. Rojas, D. Alvarracín, L. Galeano"
+    ],
+    [
+     "Rectángulo interior",
+     "«D.n Guillermo Aguirre»: 3000 × 1100 varas"
+    ],
+    [
+     "Achurado",
+     "Cursos o bajos: Cañada de los Toros / naciente de la Cañada de Giles"
+    ],
+    [
+     "Linderos rotulados",
+     "José M.ª Echeverría, Isidro Rodríguez (enfiteuta), Fernández (enfiteuta), Martín Galeano, Joaquín Rodríguez, Francisco Seguí [?]"
+    ],
+    [
+     "Nota",
+     "«Está en el caso que previene el artículo del Superior Decreto de 27 de julio de 1837»"
+    ]
+   ]
+  },
+  {
+   "titulo": "Plano completo, con parcelario vecino y escala",
+   "img": "img/f/003/04.jpg",
+   "fuente": "IMG_6581.JPG, girada 90°",
+   "orientacion": "Lámina completa; incluye el cuadro de demarcación de mojones, la escala y la firma de Manuel Eguía.",
+   "interpretacion": "La lámina completa ubica el polígono dentro de un parcelario más amplio de franjas alargadas hacia el oeste y el sur: Ceferino Acuña, Gabriela Álvarez, D.a Manuela Zúñiga [?], Juan Q. Sánchez, Pedro Sánchez, Francisco Seguí, Rafael Rendal [?], «Terreno del Pueblo de San Andrés de Giles», Manuel Díaz, Jorge Casco y Justo Maidana (enfiteuta). El arroyo de Giles corre hacia el sur desde el vértice E. La escala gráfica llega a 12.000 varas y la firma es de Manuel Eguía.",
+   "referencias": [
+    [
+     "«Terreno del Pueblo de San Andrés de Giles»",
+     "Ejido o tierras del pueblo, al SO del polígono"
+    ],
+    [
+     "Arroyo de Giles",
+     "Nace en E y corre al sur entre Galeano y Casco"
+    ],
+    [
+     "Franjas al oeste",
+     "C. Acuña, Gabriela Álvarez, Manuela Zúñiga [?], Juan Q. Sánchez, Pedro Sánchez"
+    ],
+    [
+     "Escala",
+     "Escala transversal de 1000 a 6000 y 12.000 varas"
+    ],
+    [
+     "Firma",
+     "Manuel Eguía [rúbrica]"
+    ]
+   ]
+  },
+  {
+   "titulo": "Cuadro de «Demarcación de Mojones»",
+   "img": "img/f/003/05.jpg",
+   "fuente": "IMG_6580.JPG",
+   "orientacion": "Detalle del cuadro en el ángulo de la lámina.",
+   "interpretacion": "Este cuadro es el corazón técnico-paisajístico del plano. Para cada mojón (A–F) se anotan visuales (rumbos) a «objetos», que aquí son estancias de vecinos y el Pueblo de Giles. El amojonamiento se ancla por intersección de visuales a poblaciones, lo que permite hoy reconstruir la posición de esas estancias.",
+   "referencias": [
+    [
+     "A · S 25° E",
+     "Estancia de D.n José Acuña"
+    ],
+    [
+     "A · N 66° E",
+     "Estancia de Pascuala Romero"
+    ],
+    [
+     "B · S 69° E",
+     "«Id. Id.» (Pascuala Romero)"
+    ],
+    [
+     "B · S 51° 30' O",
+     "Estancia de Remigio Acuña"
+    ],
+    [
+     "C · S 53° E",
+     "Estancia de Dionisio Alvarracín"
+    ],
+    [
+     "C · S 59° O",
+     "Estancia de Guillermo Aguirre"
+    ],
+    [
+     "D · S 15° O",
+     "Estancia de Ramón Busto [?]"
+    ],
+    [
+     "D · N 5° O",
+     "Estancia de Martín Galeano"
+    ],
+    [
+     "E · N 14° E",
+     "Pueblo de Giles"
+    ],
+    [
+     "F · S 18° 30' O",
+     "Estancia de Bencao [?] Martínez"
+    ],
+    [
+     "F · S 45° 30' E",
+     "Estancia de Pedro Fernández"
+    ]
+   ]
+  },
+  {
+   "titulo": "Notas marginales posteriores (1865–1866)",
+   "img": "img/f/003/06.jpg",
+   "fuente": "IMG_6583.JPG, girada 90° (foliatura «4»)",
+   "orientacion": "Hoja final con dos notas del Departamento Topográfico firmadas por Salas.",
+   "interpretacion": "Transcripción: «Nota = D.a Carmen Monsalvo de Acuña pide en compra unos sobrantes que dice existentes entre los terrenos de ella con q.e lindan, y los de los herederos de Mariano Noriega, Fausto Díaz, Dionisio Martínez y Pascuala Romero hoy Fernando Monsalvo. — El D. T. informó en 14 de Nbre de 1865. Salas [rúbrica]» — «Nota = D.n José Piquetto [?] pide en compra todo el terreno de estas diligencias. El D. T. informó en Marzo 2/866. Salas [rúbrica]». Estas notas muestran la vida posterior del título: en 1865 la tierra ya pertenece a Fernando Monsalvo, una Monsalvo casada con un Acuña reclama sobrantes, y en 1866 un tercero pide comprar todo el terreno.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "De la enfiteusis a la propiedad",
+   "texto": "El documento registra el paso de la enfiteusis rivadaviana (1826) a la venta de tierra pública según la ley del 10 de mayo de 1836 de Rosas. La tierra no se mide para deslindar entre privados, sino para que el Estado la venda y el poseedor se convierta en propietario. El canon adeudado se cobra al enfiteuta ocupante (Aguirre), y el título pasa a quien firmó el convenio y pagó al contado (Romero)."
+  },
+  {
+   "titulo": "Paisaje y referentes",
+   "texto": "Aparecen la Cañada de los Toros, la «naciente de la Cañada de Giles» y el arroyo de Giles. El cuadro de demarcación usa como «objetos» de visual once estancias y el Pueblo de Giles: en 1838 el paisaje se lee a través de las poblaciones, no de los árboles. El plano marca además ocho puestos interiores (Almirón, Rojas, Alvarracín, Galeano, Prado), que son un dato valioso sobre la ocupación efectiva."
+  },
+  {
+   "titulo": "El ritual de la mensura",
+   "texto": "El orden de la operación se reconoce claramente: Superior Decreto, arranque en un mojón esquinero reconocido, hallazgo de mojones antiguos (uno «desviado cien varas»), colocación de mojones nuevos, asistencia personal de «todos los linderos», informe del Departamento, decreto del gobernador, liquidación del canon y escritura. El convenio privado Romero-Aguirre funciona como un acto previo que el Estado reconoce."
+  },
+  {
+   "titulo": "Instrumental y corrección magnética",
+   "texto": "El agrimensor alterna rumbos «magnéticos» y «corregidos de quince grados». Es la misma corrección de 15° que aparece en la Mensura 2 (1846). El plano la representa con dos agujas. La coincidencia sugiere que 15° era la declinación convencional que usaba el Departamento para esta región en las décadas de 1830 y 1840."
+  },
+  {
+   "titulo": "Metrología y valor",
+   "texto": "1 legua cuadrada = 36.000.000 v² ≈ 2.700 ha; 1,006 leguas ≈ 1.883 ha (≈ 11 cuadras cuadradas de fracción). El enclave Aguirre (1100 × 3000 v) ≈ 247 ha. Precio: 5030 pesos (Departamento) o 5034 pesos (agrimensor y plano), lo que equivale a ≈ 5000 pesos por legua cuadrada en la «1.ª sección» de la ley de 1836."
+  },
+  {
+   "titulo": "Mujeres y familia",
+   "texto": "La titular es una mujer, Pascuala Romero de Monsalvo, que actúa por medio de su hijo Fernando. Más tarde aparece Carmen Monsalvo de Acuña (probablemente hija o nieta) reclamando sobrantes. La tierra se transmite y disputa dentro de redes familiares: Monsalvo-Acuña-Galeano. El apellido Romero ya estaba en la Mensura 1 (José Romero, 1825, vecino de la Cañada de Giles). ¿Hay parentesco?"
+  },
+  {
+   "titulo": "Estado del documento y dudas",
+   "texto": "Los folios están bien conservados, con foxing leve. La portadilla tiene pegado un fragmento de otra hoja con texto de esta misma mensura. Quedan dudosos algunos rótulos del plano (Prado, Seguí, Rendal, Zúñiga, Busto, Bencao) y el rumbo del lado D–E. La numeración de la portadilla («N.º 22», corregida) no coincide con el N.º 3 de la carátula moderna."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Qué dice el «Superior Decreto de 27 de julio de 1837» que alcanza a Fernández enfiteuta? ¿Los ocho puestos interiores eran agregados, arrendatarios o parientes? ¿Se puede ubicar la «naciente de la Cañada de Giles» con el GIS e hidrología actual y usarla como punto de control para georreferenciar? ¿Qué implica, para quienes vivían en el campo, que la enfiteusis se convirtiera en propiedad pagada al contado?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Manuel Eguía",
+   "rol": "Agrimensor actuante",
+   "texto": "Agrimensor público de la provincia en la década de 1830. Mide por encargo del gobierno las tierras en enfiteusis que se venden según la ley de 1836. Su trabajo es prolijo: plano con cuadro de demarcación de mojones, escala transversal y doble aguja. No se hallaron datos biográficos en fuentes en línea. Conviene rastrear su legajo en el Archivo Histórico de Geodesia y sus otras mensuras en el Catálogo General de Mensuras.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Pascuala Romero de Monsalvo",
+   "rol": "Titular / compradora",
+   "texto": "Enfiteuta y luego propietaria de ≈1.883 ha entre la Cañada de los Toros y la naciente de la Cañada de Giles. Actúa por medio de su hijo Fernando Monsalvo, habría pagado 5030 pesos al contado y firmó un convenio con Guillermo Aguirre para quedarse con todo el terreno. Hacia 1865 el campo figura como «Pascuala Romero hoy Fernando Monsalvo». No se hallaron datos en fuentes en línea.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Fernando Monsalvo",
+   "rol": "Hijo y apoderado",
+   "texto": "Presenta la solicitud de compra a nombre de su madre y en 1865 figura como titular del campo.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Guillermo Aguirre",
+   "rol": "Coenfiteuta que desiste",
+   "texto": "Poseía en enfiteusis parte del terreno (1100 × 3000 varas), también propuso comprarlo y luego desistió por convenio. El gobierno le reclama el canon vencido.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Juan Manuel de Rosas · Manuel Insiarte",
+   "rol": "Gobernador · ministro",
+   "texto": "Rosas era gobernador de Buenos Aires con la suma del poder público (1835-1852). Su gobierno sancionó la ley del 10 de mayo de 1836, que permitía vender la tierra pública dada en enfiteusis. Insiarte refrenda el decreto como ministro u oficial mayor.",
+   "fuentes": "Esta mensura; historiografía general."
+  },
+  {
+   "nombre": "José Arenales · Saturnino Salas",
+   "rol": "Departamento topográfico",
+   "texto": "Arenales, presidente del Departamento (ver Ficha 002), informa el 7 de marzo de 1838. Salas firma las notas de 1864-1866, cuando ya era presidente del Departamento (1855-1875).",
+   "fuentes": "Revista Andes / SciELO (2014)."
+  },
+  {
+   "nombre": "Martín Galeano · Sotero Galeano",
+   "rol": "Lindero norte y heredero",
+   "texto": "Martín Galeano es el lindero con más presencia: sus mojones marcan tres vértices y su estancia es «objeto» de visual. Sotero Galeano pide comprar sobrantes en 1864. Un Apolinario Galeano aparece en la Mensura 2 (Areco, 1839): es posible que se trate de la misma familia.",
+   "fuentes": "Esta mensura; Ficha 002."
+  },
+  {
+   "nombre": "Acuña (Ceferino, José, Remigio, Carmen Monsalvo de)",
+   "rol": "Linderos y estancias de referencia",
+   "texto": "La familia Acuña rodea el campo por el este y el oeste. Carmen Monsalvo de Acuña reclama sobrantes en 1865. Es un parentesco por alianza entre linderos.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "José M.ª Echeverría · Justo Maidana · Joaquín Rodríguez · Isidro Rodríguez · Fernández",
+   "rol": "Linderos",
+   "texto": "Son linderos oeste, sur y este. Maidana, Isidro Rodríguez y Fernández aparecen en el plano como «enfiteutas», es decir que en 1838 seguían en ese régimen. Sin datos adicionales.",
+   "fuentes": "Esta mensura."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/003/02.jpg",
+  "fuente": "IMG_6575.JPG",
+  "lineas": [
+   "N.º 22 [corregido]                         Giles",
+   "                                                3",
+   "[en rojo:] ×",
+   "Seccion Areco.",
+   "Mensura del Terreno",
+   "de",
+   "D^{na} Pascuala Romero",
+   "en Giles, y en la Cañada de Los toros —",
+   "practicada por",
+   "El Agrimensor Eguia",
+   "En 5 de Febrero de 1838",
+   "———",
+   "[fragmento de otra hoja pegado al pie:] … mil cuatrocientas / … D^{n} Martin Galeano / … senta grados treinta mi- / … nientas varas, que termi- / … de dicho Galeano, colocado"
+  ]
+ },
+ "titulo": "D.ª Pascuala Romero de Monsalvo",
+ "estado": "Transcripta (4 hojas, 130 renglones), 4 láminas"
+}

@@ -1,0 +1,741 @@
+{
+ "carpeta": "23",
+ "carpeta_nombre": "Carpeta 23",
+ "archivo": "Ficha 023 - Lorenzo Torres (1858).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Sección Areco)",
+  "N.º de duplicado": "23 (portadilla N.º 99)",
+  "Propietario / solicitante": "Dr. Lorenzo Torres",
+  "Agrimensor": "Theodoro (Teodoro) Differt",
+  "Año": "1858",
+  "Fecha de la diligencia": "29/4/1858; D. T. 24/9/1858",
+  "Ubicación": "Arroyo de Giles, entre la estancia La Paloma (Riestra) y la merced de Díaz de Vivar",
+  "Orden judicial": "Juez de 1.ª instancia Dr. Pablo Font (19/4/1858)",
+  "Vendedor / antecesor": "P. A. Rodríguez (1847); M.ª Maure, viuda de Pividal (1851; ex C. Benites)",
+  "Linderos citados": "Á. de la Riestra · J. J. Sosa · hdros. de B. Rodríguez (ex Peñalba) · Vivar · Quevedo · Castro",
+  "Medidas": "1500 × 3000 v + 1700 v × fondo a Vivar; 4.500.175 + 17.510.557 v²",
+  "Rumbos": "Corregidos; variación 11° 28' NE",
+  "Referencia de archivo": "Portadilla «S.n Andrés de Giles 23 · Sección Areco · N.º 99»"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 1650 (22.010.732 v²)",
+  "hitos": "Mirador de La Paloma; ombú de J. Figueroa; Posta de los Rodríguez; piedra suelta; mojón de piedra",
+  "aguas": "Arroyo de Giles (ordenadas cada 100 v)"
+ },
+ "sintesis": "Mensura de Theodoro Differt (29/4/1858) de dos terrenos del Dr. Lorenzo Torres sobre el arroyo de Giles: uno de 1500 × 3000 v comprado a Pedro Antonio Rodríguez (1847), junto a la estancia La Paloma de Riestra, y una faja de 1700 v de frente comprada a la viuda de Pividal (1851), que llega a la antigua merced de Díaz de Vivar. Total ≈ 22 millones de v². Visuales al mirador de La Paloma, a un ombú y a la «Posta de los Rodríguez». Protestan los herederos de Bernardino Rodríguez por 478 v donde ya tenían poblaciones. El D. T. no objeta pero pide dar vista a los reclamantes (24/9/1858).",
+ "caratula": {
+  "img": "img/f/023/01.jpg",
+  "fuente": "IMG_6866.JPG",
+  "campos": [
+   [
+    "N.º",
+    "23"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Lorenzo Torres"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Teodoro Differt"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1858"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 (recto) · Extracto de títulos: Rodríguez (1847) y viuda de Pividal (1851)",
+   "img": "img/f/023/04.jpg",
+   "fuente": "IMG_6868.JPG",
+   "nota": "Sello y foliatura «1». Fechas al margen izquierdo, parcialmente cortadas. «Felipe Monge [?]»: apellido dudoso.",
+   "lineas": [
+    "Estracto de los titulos",
+    "del Señor Doctor Don Lorenzo Torres",
+    "[al margen:] [En] cuatro de Marzo de",
+    "Mil ocho cientos cuarenta y siete Don Pedro",
+    "Antonio Rodriguez vende al Señor Doctor Don",
+    "Lorenzo Torres un terreno de estancia sito en el Par-",
+    "tido de San Andrés de Giles y compuesto de mil qui-",
+    "nientas varas de frente sobre el Arroyo de Giles con",
+    "tres mil varas de fondo, lindando por el Norte con",
+    "terreno de Don Alvaro de la Riestra por el Oeste con",
+    "tierra de Don Enrique Sosa y por el Sur con terreno",
+    "que Don José Romero litigiaba á la Señora Doña",
+    "Maria Maure de Pividal.",
+    "Le corresponde á Don Pedro Antonio Rodriguez el",
+    "terreno que vende, por compras sucesivas que hizo",
+    "á los diferentes Herederos de Don Felipe Monge [?].",
+    "[al margen:] En Primero de",
+    "Febrero de Mil ocho cientos cincuenta y uno Doña Maria",
+    "Maure de Pividal como albacea de su finado esposo",
+    "Don Rafael Fernandez Pividal vende al Señor Doctor",
+    "Don Lorenzo Torres un terreno de estancia sito en",
+    "el Partido de San Andres de Giles compuesto de",
+    "Mil setecientas varas de frente sobre el Arroyo",
+    "de Giles con el fondo que se encontrase hasta tocar",
+    "con terrenos que fueron de Don Pedro Diaz de Vivar",
+    "Linda dicho terreno por el norte por Don terreno",
+    "del comprador y con terreno de Don Enrique Sosa,",
+    "por el Este con tierras de Don Pedro Diaz de",
+    "Vivar y por el Sur con terreno de Don Vicente Peñal-",
+    "ba.",
+    "Le corresponde á la vendedora el terreno, por compra",
+    "que del hizo su finado esposo Don Rafael Fernandez",
+    "Pividal á la Señora Doña Carmen Benites en",
+    "Once de Agosto de mil ocho cientos cuarenta y ocho."
+   ],
+   "interpretacion": "Títulos del Dr. Lorenzo Torres, dos terrenos sobre el arroyo de Giles:\n1) 4/3/1847: Pedro Antonio Rodríguez le vende 1500 v de frente sobre el arroyo por 3000 de fondo; linda al N con Álvaro de la Riestra, al O con Enrique Sosa y al S con el terreno que José Romero litigaba a María Maure de Pividal. Rodríguez lo había reunido comprando a los herederos de Felipe Monge [?].\n2) 1.º/2/1851: María Maure de Pividal, como albacea de su marido Rafael Fernández Pividal, le vende 1700 v de frente sobre el arroyo «con el fondo que se encontrase hasta tocar con terrenos que fueron de D. Pedro Díaz de Vivar»; linda al E con Vivar y al S con Vicente Peñalba. Pividal lo había comprado a Carmen Benites el 11/8/1848. (Benites es la lindera S de Wheeler, Ficha 022.)"
+  },
+  {
+   "titulo": "Folio 1 (vuelto) · Arranque en la línea de Riestra: visuales a La Paloma y a un ombú",
+   "img": "img/f/023/05.jpg",
+   "fuente": "IMG_6869.JPG",
+   "nota": "«(N S 54° 18' E) Nor Sur»: el copista corrigió el rumbo.",
+   "lineas": [
+    "Diligencias de Mensura",
+    "En el Partido de San Andrés de Gi[les]",
+    "á veinte y nueve de Abril de Mil ocho cientos cincuenta y ocho",
+    "Estando el Agrimensor que suscribe autorizado ju-",
+    "dicialmente por despacho fecha Diez y nueve de Abril",
+    "del corriente año, del Señor Juez de Primer Instancia",
+    "Doctor Don Pablo Font, para medir los terrenos",
+    "de la propiedad del Señor Doctor Don Lorenzo",
+    "Torres, prévia citacion de linderos que original se",
+    "acompaña á estas Diligencias; se dió principio á",
+    "la mensura, tomando por base la linea limite Sur-",
+    "oeste del terreno de la propiedad del Señor Don Al-",
+    "varo de la Riestra, y destinando para punto de arran-",
+    "que el estremo Oeste de dicho limite, que es un mojon de",
+    "palo clavado á inmediaciones del Arroyo de Giles",
+    "de cuya costa dista Cuarenta y ocho varas, dicho",
+    "mojon quedó avalizado mirando al (~~N~~ S 54° 18' E) ~~Nor~~ Sur",
+    "cincuenta y cuatro grados diez y ocho minutos Este el",
+    "mirador de la „estancia de la Paloma„ de Don Alvaro",
+    "de la Riestra, al (S 2° 17' E) Sur dos grados diez y",
+    "siete minutos Este la casa de la estancia de Don",
+    "Lorenzo Torres y al (N 8° 8' E) Norte ocho grados",
+    "ocho minutos Este el Ombú inmediato á la casa",
+    "de Don Juan Figueroa.",
+    "Desde el punto, en la costa del Arroyo de Giles el",
+    "cual corresponde al mojon anteriormente descripto",
+    "al (S 46° 42' E) Sur cuarenta y seis grados cuarenta",
+    "y dos minutos Este y dividiendo á la izquierda con",
+    "terreno de Don Alvaro de la Riestra se midieron",
+    "3470 tres mil cuatro cientas setenta varas; en esta",
+    "linea á las (3400 v.^{s}) tres mil cuatro cientas varas se",
+    "encontró un mojon costanero de esta linea, perteneciente",
+    "á Don Alvaro de la Riestra; á las (1548) mil quinien-",
+    "tas cuarenta y ocho varas se colocó un mojon y otro en el estremo",
+    "de esta linea á las 3470 tres mil cuatro cientas setenta varas",
+    "con el cual quedó"
+   ],
+   "interpretacion": "San Andrés de Giles, 29 de abril de 1858. Differt, comisionado el 19 de abril por el juez Dr. Pablo Font, cita a los linderos y toma como base la línea SO del campo de Álvaro de la Riestra (Ficha 006). Arranque: el extremo O de esa línea, «un mojón de palo clavado a inmediaciones del arroyo de Giles», a 48 v de la costa. Lo avaliza con tres visuales: el «mirador de la estancia de la Paloma» de Riestra (S 54° 18' E), la casa de la estancia de Lorenzo Torres (S 2° 17' E) y «el ombú inmediato a la casa de D. Juan Figueroa» (N 8° 8' E).\nDesde la costa mide al S 46° 42' E, lindando con Riestra, 3470 v; a las 3400 v halla un «mojón costanero» de Riestra; pone mojones a 1548 y 3470 v…"
+  },
+  {
+   "titulo": "Folio 2 (recto) · Primer terreno (ex P. A. Rodríguez): la piedra suelta y el arroyo por ordenadas",
+   "img": "img/f/023/06.jpg",
+   "fuente": "IMG_6870.JPG",
+   "nota": "Sello y foliatura «2».",
+   "lineas": [
+    "// establecido el ángulo Este del terreno cuyo titulo procede",
+    "de Don Pedro Antonio Rodriguez, siendo este mojon",
+    "además signo de division con Don Juan José Sosa y Don",
+    "Alvaro de la Riestra.",
+    "Desde este mojon al (S 43° 18' O) Sur cuarenta y tres grados",
+    "diez y ocho minutos Oeste dividiendo con terreno de Don",
+    "Juan José Sosa, se midieron Mil quinientas varas",
+    "conformes al frente al que autoriza el correspondiente",
+    "titulo y en este punto se colocó un mojon el cual marca",
+    "el ángulo Sur del terreno que se mide.",
+    "Desde este mojon al Norte cuarenta y seis grados cua-",
+    "renta y dos minutos Oeste (N 46° 42' O) dividiendo á",
+    "derecha y izquierda terrenos de Don Lorenzo Torres se",
+    "midieron hasta la costa del Arroyo de Giles 2490",
+    "dos mil cuatro cientas noventa varas, habiendo colocado",
+    "á las 2480 dos mil cuatro cientas ochenta varas, en",
+    "cuya inmediacion como diez varas á la izquierda se en-",
+    "contró una piedra suelta, la cual anteriormente se",
+    "consideraba ser el mojon que marcaba el ángulo",
+    "Oeste del terreno que fué de Don Pedro Antonio",
+    "Rodriguez.",
+    "Desde este mojon al (N 11° 13' E) Norte once grados",
+    "trece minutos Este y en direccion al mojon de arranque",
+    "se midieron 1770 mil setecientas setenta varas hasta",
+    "dicho mojon; y para determinar el curso del Arroyo",
+    "se midieron las ordenadas siguientes las cuales se",
+    "refieren á la misma linea. A las quinientas",
+    "500 varas quedó á la izquierda la costa del arroyo",
+    "35 treinta y cinco y asi sucesivamente — á las 600 seis",
+    "cientas varas quedó noventa y cinco 95 varas á la izquierda",
+    "á las 850 ocho cientas cincuenta varas quedó cuarenta 40",
+    "varas á la izquierda á las 1000 mil varas quedó ochen-",
+    "ta y cuatro varas, á las 1100 mil cien quedó noventa 90",
+    "varas, á las 1250 mil dos cientas cincuenta varas quedó",
+    "40 cuarenta varas y á las 1600 mil seis cientas quedó",
+    "la costa 12 doce varas á la izquierda, quedando asi",
+    "concluida la mensura del terreno del S.^{r} Don Lorenzo",
+    "Torres, el que"
+   ],
+   "interpretacion": "…ángulo E del terreno de Pedro Antonio Rodríguez, también divisorio con Juan José Sosa y Riestra. Frente: 1500 v al S 43° 18' O lindando con Juan José Sosa (ángulo S). Luego N 46° 42' O, «dividiendo a derecha e izquierda terrenos de D. Lorenzo Torres», 2490 v hasta la costa; a las 2480 v, a unas 10 v, «una piedra suelta, la cual anteriormente se consideraba ser el mojón» del ángulo O del terreno de Rodríguez. Cierre: N 11° 13' E, 1770 v hasta el mojón de arranque, midiendo ordenadas al arroyo (35, 95, 40, 84, 90, 40 y 12 v)."
+  },
+  {
+   "titulo": "Folio 2 (vuelto) · Superficie del primer terreno y arranque del segundo (ex Pividal)",
+   "img": "img/f/023/07.jpg",
+   "fuente": "IMG_6871.JPG",
+   "nota": "En el cálculo el copista escribe «4,425,000» y en letras «cuatro millones cuatrocientas veinte y cinco mil».",
+   "lineas": [
+    "// antes fué de Don Pedro Antonio Rodriguez.",
+    "Consta la figura del terreno medido, de un trapecio",
+    "el cual está marcado con los cuatro mojones angulares",
+    "cuyos lados paralelos son: la linea limite Nordeste",
+    "con una estension de 3420 tres mil cuatro cientas veinte",
+    "varas, y la linea Suroeste cuya longitud es de 2480",
+    "dos mil cuatro cientas ochenta varas; el ancho ó altura",
+    "de dicho trapecio consta, segun titulo, de 1500 mil",
+    "quinientas varas; lo que representa una superficie",
+    "de 4,425,000 cuatro millones cuatro cientas veinte y",
+    "cinco mil varas cuadradas; á mas la figura irregu-",
+    "lar comprendida entre la linea que une los mojones",
+    "colocados en la proximidad del arroyo y el mismo",
+    "arroyo representando una superficie de setenta",
+    "y cinco mil ciento setenta y cinco 75,175 varas cua-",
+    "dradas las que agregadas al área del trapecio",
+    "forman una superficie total de cuatro millones",
+    "quinientas mil ciento setenta y cinco 4500175 varas",
+    "cuadradas.",
+    "En seguida se pasó á medir el terreno cuyo",
+    "titulo procede de Don Rafael Fernandez Pividal",
+    "y que ahora es del Señor Doctor Don Lorenzo",
+    "Torres, para lo cual desde el mojon del ángulo",
+    "Oeste del terreno que se acaba de medir, y el cual",
+    "fué de Don Pedro Antonio Rodriguez, en direccion",
+    "al mojon del ángulo Sur del mismo terreno, al",
+    "Sur cuarenta y seis grados cuarenta y dos minutos Es-",
+    "te (S 46° 42' E) se salvaron 1393 mil tres cientas",
+    "noventa y tres varas; desde este punto al (S 43°",
+    "18' O) Sur cuarenta y tres grados diez y ocho minu-",
+    "tos Oeste se midieron 1700 mil setecientas varas",
+    "de frente, conforme al titulo del terreno que se debe",
+    "medir; en este punto se colocó una señal con la",
+    "cual quedó establecido el ángulo Oeste del mismo",
+    "terreno, estando inmediato, segun las indicaciones",
+    "de los concurrentes el lugar en que habia estado"
+   ],
+   "interpretacion": "Figura del primer terreno: trapecio de lados paralelos 3420 v (NE) y 2480 v (SO) con altura 1500 v = 4.425.000 v², más la franja irregular entre los mojones y el arroyo (75.175 v²): total 4.500.175 v².\nSegundo terreno (título de Rafael Fernández Pividal): desde el ángulo O del primero, hacia su ángulo S, «se salvaron» 1393 v (S 46° 42' E); desde allí 1700 v al S 43° 18' O de frente, señal del ángulo O; según los concurrentes, junto al lugar donde había estado…"
+  },
+  {
+   "titulo": "Folio 3 (recto) · La línea de la merced de Díaz de Vivar y el mojón perdido de Riestra",
+   "img": "img/f/023/08.jpg",
+   "fuente": "IMG_6872.JPG",
+   "nota": "Sello y foliatura «3». «Bernhardino» con h: grafía germánica del agrimensor.",
+   "lineas": [
+    "// antes el mojon del ángulo Norte del terreno lindero",
+    "que fué de Don Vicente Peñalba, y que actualmente",
+    "es de la propiedad de los Herederos de Don",
+    "Bernhardino Rodriguez.",
+    "Hecho esto el que suscribe pasó á reconocer los",
+    "limites de los terrenos que constituyen la mer-",
+    "ced hecha á Don Pedro Diaz de Vivar, y pu-",
+    "diendose descubrir los mojones que marcan el",
+    "limite Nordoeste de la misma merced, y sien-",
+    "do este limite en parte comun al terreno que",
+    "se debe medir, se señalaron dichos mojones",
+    "con banderas con las cuales quedó visible sobre",
+    "el terreno la referida linea cuyo rumbo se",
+    "observó al (N 58° 54' E) Norte cincuenta y ocho",
+    "grados cincuenta y cuatro minutos Este.",
+    "En seguida se pasó á reconocer la linea",
+    "limite Suroeste del terreno de Don Alvaro",
+    "de la Riestra ya que tambien sobre élla",
+    "debia basarse la ubicacion del terreno de",
+    "Don cuyo titulo procede de Don Rafael Fer-",
+    "nandez Pividal, pero habiendo desaparecido",
+    "el mojon del estremo Este de ésta linea",
+    "y pudiendose únicamente indicar el lugar",
+    "en que habia estado, el que suscribe prefirió",
+    "colocarse en la enfilacion de dos otros mojones",
+    "que sobre la misma linea se encontraron, y",
+    "los cuales al efecto se habia provisto con seña-",
+    "les; se determinó entonces el punto de inter-",
+    "seccion de esta linea con la de Don Pedro",
+    "Diaz de Vivar; cuyo punto en el adjunto",
+    "plano está marcado con la letra A.",
+    "Desde este punto al (N 46° 42' O) Norte",
+    "cuarenta y seis grados cuarenta y dos minutos",
+    "Oeste, quedando á las ciento ochenta 180 varas",
+    "á la derecha diez varas el lugar del mojon",
+    "estraviado de Don Alvaro de la Riestra,",
+    "se midieron ocho cientas noventa y tres 893",
+    "varas. En este punto se cuadró sobre la"
+   ],
+   "interpretacion": "…el mojón del ángulo N del lindero que fue de Vicente Peñalba, hoy de los herederos de Bernardino Rodríguez.\nDiffert reconoce luego los límites de la merced hecha a Pedro Díaz de Vivar: descubre los mojones de su límite NO, que en parte es común con el terreno a medir, los señala «con banderas» para volver visible la línea sobre el terreno y observa su rumbo (N 58° 54' E). Reconoce también la línea SO de Riestra: el mojón de su extremo E había desaparecido y sólo se podía indicar el lugar, así que se coloca en la enfilación de otros dos mojones hallados y provistos de señales, y determina la intersección con la línea de Vivar: punto A. Desde A mide 893 v al N 46° 42' O (a las 180 v, 10 v a la derecha, el lugar del «mojón extraviado» de Riestra)…"
+  },
+  {
+   "titulo": "Folio 3 (vuelto) · Señales B y C sobre la línea de Vivar; el lado SO con Peñalba",
+   "img": "img/f/023/09.jpg",
+   "fuente": "IMG_6873.JPG",
+   "nota": "«Milton [?] Rodríguez»: nombre dudoso, repetido en f. 5 v. y 6.",
+   "lineas": [
+    "// linea anterior y al (S 43° 18' O) Sur cuarenta y",
+    "tres grados diez y ocho minutos Oeste se midieron",
+    "1500 mil quinientas varas, correspondientes al",
+    "frente del terreno de Don Juan José Sosa,",
+    "desde este punto se marcó á la izquierda el",
+    "punto que le corresponde sobre el limite de",
+    "Vivar en donde se elevó una señal B, lá",
+    "cual marca el ángulo Este del terreno que",
+    "se debe medir; hecho ésto se siguió midien-",
+    "do en la anterior linea y al (S 43° 18' O) Sur",
+    "cuarenta y tres grados diez y ocho minutos Oeste",
+    "se midieron las 1700 mil setecientas varas que",
+    "corresponden al frente del terreno que fué de",
+    "Pividal y rematando dichas 1700 mil setecientas",
+    "en la misma linea de Vivar se colocó una señal",
+    "C. Quedaron pués señalados sobre el terreno los",
+    "cuatro ángulos de la propiedad del Señor Doctor",
+    "Don Lorenzo Torres.",
+    "En seguida nos trasladamos á la señal deja-",
+    "da en el ángulo Oeste del terreno que se debe",
+    "medir, y que corresponde al frente de 1700 mil",
+    "setecientas varas, y desde el punto que á la misma",
+    "señal corresponde en la costa del arroyo de Giles",
+    "en direccion á la señal C al Sur cuarenta y",
+    "seis grados cuarenta y dos minutos Este se me-",
+    "dieron hasta la señal C 9384 nueve mil",
+    "trescientas ochenta y cuatro varas, dividiendo",
+    "á la derecha con tierra que fué de Don Vicente",
+    "Peñalba; á las sesenta y cinco varas se encontró",
+    "la señal del ángulo Oeste la cual fué substituida",
+    "por un mojon; á las 3000 tres mil varas se",
+    "colocó otro mojon del cual al (N 30° 53' E) Norte",
+    "treinta grados cincuenta y tres minutos Este",
+    "quedó distante 328 trescientas veinte y ocho",
+    "varas la casa de Don Milton [?] Rodriguez;",
+    "á las 4500 cuatro mil quinientas varas se",
+    "colocó otro mojon quedando en direccion de",
+    "(N 47° 48' E)"
+   ],
+   "interpretacion": "…y cuadra al S 43° 18' O: 1500 v del frente de Juan José Sosa; señal B sobre el límite de Vivar (ángulo E del terreno a medir); otras 1700 v del frente ex Pividal: señal C. Quedan así señalados los cuatro ángulos.\nDesde el ángulo O, sobre la costa, mide hacia C al S 46° 42' E 9384 v lindando con tierras que fueron de Vicente Peñalba: a 65 v reemplaza la señal por un mojón; a 3000 v otro mojón, desde el cual la casa de Milton [?] Rodríguez queda a 328 v (N 30° 53' E); a 4500 v otro mojón, desde el que (N 47° 48' E)…"
+  },
+  {
+   "titulo": "Folio 4 (recto) · Quinta, poblaciones y la «Posta de los Rodríguez»",
+   "img": "img/f/023/10.jpg",
+   "fuente": "IMG_6874.JPG",
+   "nota": "Sello y foliatura «4».",
+   "lineas": [
+    "// Norte cuarenta y siete grados cuarenta y ocho minu-",
+    "tos Este en distancia de 120 ciento veinte varas, la",
+    "zanja de la quinta de Don Pablo Rodriguez; á las",
+    "6000 seis mil varas se colocó un mojon. á las 7515",
+    "siete mil quinientas quince varas y 78 setenta y ocho",
+    "varas á la izquierda de la linea quedó la pobla-",
+    "cion de Doña Gervacia Rodriguez y á las 9384",
+    "nueve mil trescientas ochenta y cuatro varas ó en",
+    "el estremo de esta linea en que habia estado la",
+    "señal C se colocó un mojon, que marca el ángulo",
+    "Sur del terreno que se mide, cuyo punto quedó ava-",
+    "lizado mirando al (S 73° 38' O) Sur setenta y tres",
+    "grados treinta y ocho minutos Oeste la casa de",
+    "la Posta de los Rodriguez, y al S 17° 2' E Sur",
+    "diez y siete grados dos minutos Este la casa azotea",
+    "de Don Pascual Rodriguez.",
+    "Desde este mojon al (N 58° 54' E) Norte cincuenta",
+    "y ocho grados cincuenta y cuatro minutos Este hacien-",
+    "do con la anterior linea un ángulo de ciento",
+    "cinco grados treinta y seis minutos, y dividien-",
+    "do á la derecha con terrenos que fuéron de",
+    "Don Pedro Diaz de Vivar, se midieron has-",
+    "ta la señal B, colocada en el ángulo Este del",
+    "terreno que se mide, 1765 mil setecientas sesen-",
+    "ta y cinco varas y siguiendo de este punto en",
+    "la misma linea á las 860½ ocho cientas sesen-",
+    "ta y media varas se encontró úno de los mojo-",
+    "nes de la linea de Vivar; luego se volvió á",
+    "la señal B la cual quedó substituida por",
+    "un mojon con el cual quedó marcado el ángu-",
+    "lo Este del terreno que procede de Don Rafael",
+    "Fernandez Pividal.",
+    "Desde este mojon al (N 46° 42' O) Norte",
+    "cuarenta y seis grados cuarenta y dos minutos",
+    "Oeste, en direccion á la señal colocada en",
+    "el ángulo Oeste del terreno cuyo titulo procede",
+    "de"
+   ],
+   "interpretacion": "…a 120 v queda la zanja de la quinta de Pablo Rodríguez; mojón a 6000 v; a 7515 v, 78 v a la izquierda, la población de Gervasia Rodríguez; a 9384 v, donde estaba la señal C, mojón del ángulo S, avalizado con «la casa de la Posta de los Rodríguez» (S 73° 38' O) y «la casa azotea de D. Pascual Rodríguez» (S 17° 2' E).\nDesde allí, por la línea de Vivar (N 58° 54' E, ángulo de 105° 36'), 1765 v hasta la señal B, y 860½ v más encuentra un mojón de la línea de Vivar; B se reemplaza por un mojón (ángulo E del terreno ex Pividal). Desde B al N 46° 42' O hacia el ángulo O del terreno de Pedro Antonio Rodríguez…"
+  },
+  {
+   "titulo": "Folio 4 (vuelto) · Lado NE de 11.185 varas, mojón de piedra y «escala» en el arroyo",
+   "img": "img/f/023/11.jpg",
+   "fuente": "IMG_6875.JPG",
+   "nota": "«la cual (clavada)» entre paréntesis en el original.",
+   "lineas": [
+    "// Don Pedro Antonio Rodriguez, se midieron",
+    "hasta el mojon del ángulo Sur del mismo ter-",
+    "reno 8705 ocho mil setecientas cinco varas que",
+    "con las 2480 dos mil cuatro cientas ochenta",
+    "varas ya medidas anteriormente y lás que",
+    "corresponden á la linea Suroeste del referido",
+    "terreno, forman una estension total de esta linea",
+    "de Once mil ciento ochenta y cinco varas (11185 v.^{s})",
+    "sobre esta linea á las 3000 tres mil varas",
+    "se colocó un mojon divisorio con Don Juan",
+    "José Sosa, á las 4655 cuatro mil seis cien-",
+    "tas cincuenta y cinco varas se colocó otro mojon, á",
+    "las 6825 seis mil ocho cientas veinte y cinco varas",
+    "se encontró desviado de la linea 43 cuarenta y",
+    "tres varas á la derecha un mojon de piedra,",
+    "la cual (clavada) indudablemente ha pertene-",
+    "cido á esta linea, á las 7000 siete mil varas",
+    "se colocó otro mojon.",
+    "Desde el mojon del angulo Oeste del terreno que",
+    "fué de Don Pedro Antonio Rodriguez en direccion",
+    "al mojon que marca el ángulo Oeste del terreno",
+    "que procede de Don Rafael Fernandez",
+    "Pividal al (S 3° 58' O) Sur tres grados cincuenta",
+    "y ocho minutos Oeste se midieron 300 trecientas",
+    "varas en esta linea á las 250 dos cientas cincuen-",
+    "ta varas quedó la costa á la derecha de la",
+    "linea 30 treinta varas, y á las 300 trescientas",
+    "varas quedó á la derecha el arroyo 23 veinte",
+    "y tres varas. No pudiendose seguir en la",
+    "misma linea se hizo escala salvando á la izquier-",
+    "da 100 cien varas y volviendo á tomar el mismo",
+    "rumbo (S 3° 58' O) Sur tres grados cincuenta y ocho",
+    "minutos Oeste se midieron 900 novecientas varas;",
+    "sobre esta linea para relevar el curso del arroyo",
+    "de Giles se midieron las siguientes ordenadas:"
+   ],
+   "interpretacion": "…8705 v hasta el ángulo S del primer terreno, que con las 2480 del lado SO de aquél suman 11.185 v de línea NE. Mojones a 3000 v (divisorio con Juan José Sosa), 4655 y 7000 v; a las 6825 v, 43 v a la derecha, un «mojón de piedra (clavada)» que «indudablemente ha pertenecido a esta línea».\nPara el frente sobre el arroyo, desde el ángulo O del primer terreno hacia el ángulo O del ex Pividal (S 3° 58' O): 300 v; como no se puede seguir en línea recta (el arroyo la corta), «se hizo escala» desplazándose 100 v a la izquierda y se siguió al mismo rumbo 900 v, midiendo ordenadas al arroyo de Giles…"
+  },
+  {
+   "titulo": "Folio 5 (recto) · Tablas de ordenadas del arroyo de Giles",
+   "img": "img/f/023/12.jpg",
+   "fuente": "IMG_6876.JPG",
+   "nota": "Sello y foliatura «5». Dos columnas: distancia sobre la línea / ordenada a la costa. En 800 v hay dos valores (105 y 65).",
+   "lineas": [
+    "á las",
+    "cien 100 varas distaba la costa ochenta y cinco 85 varas á la derecha",
+    "dos cientas 200  \"  \"  \"  ochenta 80  \"  \"",
+    "tres cientas 300  \"  \"  \"  ochenta y cinco 85  \"  \"",
+    "cuatro cientas 400  \"  \"  \"  sesenta 60  \"  \"",
+    "quinientas 500  \"  \"  \"  noventa y cinco 95  \"  \"",
+    "seis cientas 600  \"  \"  \"  cincuenta 50  \"  \"",
+    "setecientas 700  \"  \"  \"  treinta y cinco 35  \"  \"",
+    "ocho cientas 800  \"  \"  \"  setenta y cinco 75  \"  \"",
+    "á las 900 nuevecientas varas se hizo otra escala en sentido",
+    "inverso tomando cien 100 varas á la derecha con lo cual",
+    "se volvió á tomar la enfilacion de la primitiva linea",
+    "y en direccion al mojon Oeste del terreno que fué",
+    "de Don Rafael Fernandez Pividal al (S 3° 58' O)",
+    "Sur tres grados cincuenta y ocho minutos Oeste se",
+    "midieron hasta dicho mojon 998 novecientas",
+    "noventa y ocho varas habiendo medido al",
+    "mismo tiempo las ordenadas siguientes:",
+    "á las",
+    "cien 100 varas distaba la costa setenta 70 varas á la derecha",
+    "dos cientas 200  \"  \"  \"  cien 100  \"  \"",
+    "tres cientas 300  \"  \"  \"  ciento veinte 120  \"  \"",
+    "cuatro cientas 400  \"  \"  \"  ciento noventa 190  \"  \"",
+    "quinientas 500  \"  \"  \"  ciento treinta y cinco 135  \"  \"",
+    "seis cientas 600  \"  \"  \"  ciento treinta y cinco 135 [?]  \"  \"",
+    "setecientas 700  \"  \"  \"  ochenta 80  \"  \"",
+    "ocho cientas 800  \"  \"  \"  ciento cinco 105 / sesenta y cinco 65  \"  \"",
+    "nove cientas 900  \"  \"  \"  treinta y cinco 35  \"  \"",
+    "nove cientas treinta y cinco 935  \"  \"  cincuenta y cinco 55  \"  \"",
+    "Esta operacion queda indicada en el adjunto",
+    "plano, y por ella quedó concluida la mensura",
+    "del terreno que de manos de manos de Don",
+    "Rafael Fernandez Pividal pasó ser pro-",
+    "piedad del Señor Doctor Don Lorenzo Torres.",
+    "Consta la figura del terreno medido",
+    "[al margen:] 1.^{o}",
+    "de un trapecio cuyos lados paralelos son:"
+   ],
+   "interpretacion": "Primera tabla (tramo desplazado): la costa a 85, 80, 85, 60, 95, 50, 35 y 75 v a la derecha, cada 100 v. A las 900 v, otra «escala» en sentido inverso (100 v a la derecha) para retomar la línea primitiva, y 998 v más hasta el mojón O del terreno ex Pividal, con una segunda tabla: 70, 100, 120, 190, 135, 135, 80, 105/65, 35 y 55 v. El arroyo, con meandros de hasta 190 v, queda dibujado en el plano. Con esto termina la mensura del terreno que pasó de Pividal a Torres.\nComienza el cálculo: «1.º de un trapecio cuyos lados paralelos son…»"
+  },
+  {
+   "titulo": "Folio 5 (vuelto) · Superficie del segundo terreno, variación, firma y linderos",
+   "img": "img/f/023/13.jpg",
+   "fuente": "IMG_6877.JPG",
+   "nota": "Firma «Theodoro Differt» con gran rúbrica. «Zanoletti [?]»: apellido dudoso.",
+   "lineas": [
+    "// la linea Nordeste del terreno cuya longitud es",
+    "de 11185 once mil ciento ochenta y cinco varas, y",
+    "la linea Suroeste de mojon á mojon cuya estension",
+    "es de nueve mil trescientas diez y nueve varas",
+    "9319 v.^{s} con un ancho ó frente de 1700 mil",
+    "setecientas varas, y representa dicho trapecio",
+    "con deduccion de la superficie del Paralelogramo",
+    "originado por la linea quebrada que une los",
+    "dos mojones del frente sobre el arroyo, un",
+    "área de diez y siete millones trescientas treinta",
+    "y ocho mil cuatro cientas 17338400 varas cuadra-",
+    "das.",
+    "2.^{o} la figura irregular comprendida entre el",
+    "arroyo y la linea quebrada que une los mojones",
+    "del frente sobre el arroyo, representando una super-",
+    "ficie de ciento setenta y dos mil ciento cincuenta y siete",
+    "172,157 varas cuadradas, que agregadas al",
+    "área del trapecio forman un área total de",
+    "diez y siete millones quinientas diez mil quinientas",
+    "cincuenta y siete varas cuadradas. (17510557 v.^{s})",
+    "En estas mensuras se ha procedido á",
+    "Rumbos corregidos con la variacion magné-",
+    "tica de Once grados veinte y ocho minutos",
+    "11° 28' Nordeste.",
+    "Theodoro Differt [rúbrica]",
+    "Asistieron á estas mensuras los linderos:   [al margen:] Nota",
+    "Don Juan José Sosa, Don Francisco Que-",
+    "vedo, Don Pedro Quevedo, Don Nicolas Castro,",
+    "Don Pablo y Don Milton [?] Rodriguez como",
+    "representantes de la testamentaria de Don",
+    "Bernhardino Rodriguez.",
+    "Por Don Alvaro de la Riestra asistió",
+    "el mayordomo Don Emilio Zanoletti [?]"
+   ],
+   "interpretacion": "…la línea NE de 11.185 v y la SO de 9319 v, con 1700 v de ancho: 17.338.400 v² (deducido el paralelogramo de la línea quebrada del frente); más la figura irregular entre esa línea y el arroyo: 172.157 v². Total 17.510.557 v². Rumbos corregidos con variación de 11° 28' NE (sin la observación detallada de las otras dos fichas).\nAsistieron Juan José Sosa, Francisco y Pedro Quevedo, Nicolás Castro, y Pablo y Milton [?] Rodríguez por la testamentaría de Bernardino Rodríguez. Por Álvaro de la Riestra, su mayordomo Emilio Zanoletti [?]."
+  },
+  {
+   "titulo": "Folio 6 (recto) · Protesta de los Rodríguez y dictamen del D. T.",
+   "img": "img/f/023/14.jpg",
+   "fuente": "IMG_6878.JPG",
+   "nota": "Sello y foliatura «6». El dictamen va en letra caligráfica distinta.",
+   "lineas": [
+    "Protestaron los Señores Don Pablo y Don Milton [?]",
+    "Rodriguez en nombre de su legitima madre Doña Juana",
+    "Zárate de Rodriguez, quedando todos los demas conformes",
+    "Dicha protesta se estiende sobre cuatro cientas setenta",
+    "y ocho varas de frente, que los herederos de Don Bernhar-",
+    "dino Rodriguez reclaman como herencia que tocó á Doña",
+    "Juana Zárate de Rodriguez de los bienes de su madras-",
+    "tra Doña Juana Duarte segundo consorte de Don Dama-",
+    "cio Zárate segun consta por hijuela que acredita dicha",
+    "adjudicacion á favor de Doña Juana Zárate de",
+    "Rodriguez, cuya hijuela fué exhibida al que",
+    "suscribe sin ser acompañada con titulo en debida forma.",
+    "En esta inteligencia los Herederos de Don Bernhar-",
+    "dino Rodriguez colocaron sus poblaciones en los",
+    "últimos años las cuales por los limites establecidos",
+    "quedaron en terreno del Señor Doctor Don Lorenzo",
+    "Torres",
+    "Differt [rúbrica]",
+    "S.^{or} Juez de 1.^{a} Instancia",
+    "Examinada la anterior mensura practicada por el",
+    "Agrimensor D.^{n} Teodor Differt del terreno",
+    "de la propiedad del D.^{or} D. Lorenzo Torres sito",
+    "sobre el Arroyo de Giles, Partido del mismo",
+    "nombre, el Departamento Topográfico no",
+    "tiene objecion que hacer respecto de dicha",
+    "operacion; y por lo tanto crée que ella de-",
+    "be ser aprobada judicialmente.",
+    "Sin embargo de que esta mensura ha sido",
+    "hecha con arreglo á los titulos de su referencia"
+   ],
+   "interpretacion": "Protestan Pablo y Milton [?] Rodríguez en nombre de su madre Juana Zárate de Rodríguez; los demás, conformes. La protesta abarca 478 v de frente que los herederos de Bernardino Rodríguez reclaman como herencia de Juana Zárate, venida de su madrastra Juana Duarte, segunda esposa de Damasio Zárate, según una hijuela exhibida al agrimensor «sin ser acompañada con título en debida forma». Con esa idea, los Rodríguez «colocaron sus poblaciones en los últimos años», que por los límites establecidos quedaron dentro del terreno de Torres. Firma Differt.\nDictamen del D. T.: examinada la mensura de «Teodor Differt» del terreno del Dr. Lorenzo Torres sobre el arroyo de Giles, no tiene objeción y cree que debe aprobarse judicialmente. «Sin embargo de que esta mensura ha sido hecha con arreglo a los títulos de su referencia…»"
+  },
+  {
+   "titulo": "Folio 6 (vuelto) · Fin del dictamen (24/9/1858)",
+   "img": "img/f/023/15.jpg",
+   "fuente": "IMG_6879.JPG",
+   "nota": "Cuatro firmas con rúbrica; falta la de Pico.",
+   "lineas": [
+    "[al margen, borroso:] [...]",
+    "basada sobre amojonamientos reconocidos los",
+    "herederos de D.^{n} Bernardino Rodriguez la han",
+    "protestado segun lo espresa el Agrimensor",
+    "en su diligencia: por lo que seria convenien-",
+    "te que V. S. diese vista de esta operacion",
+    "á los mencionados herederos para que",
+    "funden su protesta y queden aclarados",
+    "los derechos de las partes sobre este punto",
+    "Buenos Ayres Setiembre 24 1858",
+    "Salas [rúbrica]   Fernandez [rúbrica]",
+    "A. Fernandez [rúbrica]   Malaver [rúbrica]",
+    "[resto de la hoja en blanco]"
+   ],
+   "interpretacion": "…y basada sobre amojonamientos reconocidos, los herederos de Bernardino Rodríguez la protestaron; conviene que el juez les dé vista para que funden su protesta y queden aclarados los derechos. Buenos Aires, 24 de septiembre de 1858. Firman Salas, Fernández, A. Fernández y Malaver. No consta la aprobación judicial en el duplicado."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de los terrenos del Dr. Lorenzo Torres (1858)",
+   "img": "img/f/023/03.jpg",
+   "fuente": "IMG_6880.JPG (vista general; detalles en IMG_6881-6884)",
+   "orientacion": "Tinta y aguada en recuadro; título a la izquierda, en vertical respecto del resto; escala 1/18000; el arroyo de Giles corre en diagonal por el lado O.",
+   "interpretacion": "Título: «PLANO de los terrenos de propiedad del Sor. Dr. Dn. LORENZO TORRES, sitos en el Partido de San Andrés de Giles», con la nota de las dos áreas (título de Pedro Antonio Rodríguez y título de Rafael Fernández Pividal). Arriba, a todo lo ancho, «ALVARO DE LA RIESTRA» con la «Paloma»; debajo «JUAN JOSÉ SOSA». El terreno ex Rodríguez es un trapecio junto al arroyo, con la «Estancia» de Torres y la población de «Felix Romero»; el ex Pividal, una faja larguísima (más de 11.000 v) que corre hasta la línea de Vivar, con «Milton [?] Rodríguez» y «Pablo Rodríguez» y los «HEREDEROS DE BERNARDINO RODRÍGUEZ» al SO. Al fondo (E), sobre un curso de agua con meandros, las fajas de «FRANCISCO QUEVEDO», «PEDRO QUEVEDO», «NICOLÁS CASTRO» y «PASCUAL RODRÍGUEZ», y la «Posta» [?]. Líneas de visual (con flechas) atraviesan el plano hacia el mirador de La Paloma.",
+   "referencias": [
+    [
+     "Arroyo de Giles",
+     "Frente O de ambos terrenos; ordenadas cada 100 v"
+    ],
+    [
+     "Álvaro de la Riestra · Paloma",
+     "Lindero N (estancia La Paloma, Ficha 006)"
+    ],
+    [
+     "Juan José Sosa",
+     "Lindero entre los dos terrenos"
+    ],
+    [
+     "Estancia · Felix Romero",
+     "Casco de Torres y población en el terreno ex Rodríguez"
+    ],
+    [
+     "Título de Pedro Antonio Rodríguez",
+     "Trapecio de 4.500.175 v²"
+    ],
+    [
+     "Título de Rafael Fernández Pividal",
+     "Faja de 17.510.557 v²"
+    ],
+    [
+     "Herederos de Bernardino Rodríguez",
+     "Lindero SO (ex Vicente Peñalba); poblaciones en litigio"
+    ],
+    [
+     "Pablo y Milton [?] Rodríguez",
+     "Casas / quinta"
+    ],
+    [
+     "Francisco y Pedro Quevedo · Nicolás Castro · Pascual Rodríguez",
+     "Linderos del fondo, sobre la línea de Vivar"
+    ],
+    [
+     "A · B · C",
+     "Puntos de la mensura sobre la línea de Vivar"
+    ],
+    [
+     "Escala",
+     "1/18000"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Dónde está: entre la paloma y la merced de vivar",
+   "texto": "Dos terrenos contiguos de Lorenzo Torres sobre el arroyo de Giles: uno chico (1500 × 3000 v) junto a la estancia La Paloma de Álvaro de la Riestra (Ficha 006) y una faja de 1700 v de frente que corre más de 11.000 v hasta la línea de la antigua merced de Pedro Díaz de Vivar (la merced Dávila–Vergara–Díaz de Vivar de las Fichas 007 y 017). Es el mismo «fondo de Vivar» que limita el campo de Pividal en la Ficha 017: confirma que Pividal tenía varias fajas sobre el arroyo. El mirador de La Paloma, la casa de Torres, la Posta de los Rodríguez y la azotea de Pascual Rodríguez son puntos de control para el GIS."
+  },
+  {
+   "titulo": "La «posta de los rodríguez» y la familia rodríguez",
+   "texto": "Aparece por nombre la «casa de la Posta de los Rodríguez», visual desde el ángulo S: es la «posta de Rodríguez» del camino citado en la Ficha 017 y probablemente la «Posta» dibujada en el plano de Wheeler (Ficha 022). Alrededor, un clan: Pedro Antonio (vendedor), Bernardino (testamentaría), Pablo (quinta con zanja), Milton [?], Gervasia (población), Pascual (casa azotea), José (Ficha 021). Los Rodríguez son un linaje de maestros de posta y pobladores con poblaciones propias, que en los últimos años se asentaron en tierra que la mensura adjudica a Torres."
+  },
+  {
+   "titulo": "Técnica: banderas, enfilaciones y «escalas»",
+   "texto": "Differt vuelve visible una línea antigua clavando banderas en sus mojones (la merced de Vivar), reemplaza un mojón perdido por la enfilación de otros dos, y resuelve el cruce del arroyo con «escalas»: desplazamientos laterales de 100 v para seguir el rumbo. Releva el arroyo por ordenadas y calcula trapecios y franjas irregulares. La variación (11° 28') coincide con sus otras dos mensuras de 1858 (11° 29' y 11° 30'): la serie Differt es muy consistente. Mojones: de palo, de piedra «clavada», y una «piedra suelta» que la voz común tenía por mojón."
+  },
+  {
+   "titulo": "Ritual y conflicto: la hijuela sin título",
+   "texto": "Los herederos de Bernardino Rodríguez reclaman 478 v de frente por una hijuela (herencia de Juana Zárate desde su madrastra Juana Duarte) sin título en forma, y ya habían poblado esa tierra. El D. T. no objeta la mensura pero, a diferencia de la Ficha 022, recomienda dar vista a los herederos para que funden la protesta. La ocupación efectiva («colocaron sus poblaciones») frente al título escrito es el conflicto de fondo, como en las Fichas 018 y 021."
+  },
+  {
+   "titulo": "Paisaje: ombú, quinta con zanja, miradores",
+   "texto": "Referencias: el ombú junto a la casa de Juan Figueroa, la zanja de la quinta de Pablo Rodríguez, poblaciones de Gervasia Rodríguez y Félix Romero, la casa azotea de Pascual Rodríguez, el mirador de La Paloma. El arroyo de Giles tiene meandros de hasta 190 v. Una red densa de ocupación campesina entre las estancias grandes de Riestra y Torres."
+  },
+  {
+   "titulo": "Estado, lecturas dudosas y preguntas",
+   "texto": "Transcripta completa; no consta la aprobación judicial. Dudosos: «Felipe Monge», «Milton» Rodríguez (¿Hilarión? ¿Nilton?), «Zanoletti», algunos rótulos del plano. Preguntas: ¿quién es el Dr. Lorenzo Torres? ¿La Posta de los Rodríguez es la misma de las Fichas 017 y 022? ¿Cómo se resolvió la protesta? Cruzar el lado NE (11.185 v) con la Ficha 006 (Riestra) y la línea de Vivar con las Fichas 007 y 017."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Dr. Lorenzo Torres",
+   "rol": "Propietario",
+   "texto": "Lorenzo Torres (1800-1880?) fue jurista y político porteño, ministro de Gobierno de Rosas y luego figura del Estado de Buenos Aires; en 1858 era diputado y abogado conocido. Que sea el mismo propietario es probable por el título de «Doctor», pero no se confirmó en esta sesión.",
+   "fuentes": "Esta mensura; conocimiento general (sin verificación web)."
+  },
+  {
+   "nombre": "Theodoro Differt",
+   "rol": "Agrimensor público",
+   "texto": "Tercera mensura suya en la serie, en abril-junio de 1858 (Fichas 021-023): método uniforme, variación 11° 28'-11° 30'.",
+   "fuentes": "Fichas 021, 022 y esta."
+  },
+  {
+   "nombre": "Pedro Antonio Rodríguez",
+   "rol": "Vendedor (1847)",
+   "texto": "Reunió el terreno comprando a los herederos de Felipe Monge [?]; también es el título de origen de Wheeler y Benites (Ficha 022). Probable integrante del clan de la Posta de los Rodríguez.",
+   "fuentes": "Esta mensura; Ficha 022."
+  },
+  {
+   "nombre": "María Maure de Pividal · Rafael Fernández Pividal",
+   "rol": "Vendedora / antecesor",
+   "texto": "La viuda de Pividal, como albacea, vende en 1851 la faja que Pividal compró a Carmen Benites en 1848. Ver Ficha 017 (Pividal, fundador de Zárate).",
+   "fuentes": "Esta mensura; Ficha 017."
+  },
+  {
+   "nombre": "Álvaro de la Riestra · Emilio Zanoletti [?]",
+   "rol": "Lindero n y su mayordomo",
+   "texto": "Dueño de la estancia La Paloma (Ficha 006, 1854). Lo representa su mayordomo.",
+   "fuentes": "Ficha 006; esta mensura."
+  },
+  {
+   "nombre": "Bernardino Rodríguez · Juana Zárate de Rodríguez",
+   "rol": "Linderos que protestan",
+   "texto": "Testamentaría de Bernardino; su viuda Juana Zárate reclama 478 v heredadas de su madrastra Juana Duarte, segunda mujer de Damasio Zárate. Sus hijos Pablo y Milton [?] protestan.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Pedro Díaz de Vivar",
+   "rol": "Merced antigua",
+   "texto": "Su merced (siglo XVII, vía Dávila y Vergara) forma el fondo; sus mojones aún se hallan en 1858.",
+   "fuentes": "Fichas 007, 017."
+  },
+  {
+   "nombre": "Otros nombrados",
+   "rol": "Linderos y vecinos",
+   "texto": "Juan José Sosa, Enrique Sosa, José Romero (litigio con la viuda de Pividal), Vicente Peñalba, Carmen Benites, Francisco y Pedro Quevedo, Nicolás Castro, Juan Figueroa (casa y ombú), Gervasia, Pablo y Pascual Rodríguez, Félix Romero.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Pablo Font · Salas · Fernández · A. Fernández · Malaver",
+   "rol": "Juez y d. t.",
+   "texto": "Font comisiona (como en la Ficha 021). El D. T. dictamina el 24/9/1858, sin Pico.",
+   "fuentes": "Esta mensura."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/023/02.jpg",
+  "fuente": "IMG_6867.JPG",
+  "lineas": [
+   "Duplicado [?]   S.^{n} Andres de Giles   23",
+   "Seccion Areco",
+   "N.^{o} 99.",
+   "Mensura de los terrenos de",
+   "propiedad del Señor Doctor",
+   "Don Lorenzo Torres mensura-",
+   "dos judicialmente en Mayo",
+   "de 1858 por",
+   "en Giles     Theodoro Differt [rúbrica]",
+   "[a lápiz, desvaído:] Secc.^{n} [...]"
+  ]
+ },
+ "titulo": "Dr. Lorenzo Torres",
+ "estado": "Transcripta (12 hojas, 404 renglones), 1 lámina"
+}

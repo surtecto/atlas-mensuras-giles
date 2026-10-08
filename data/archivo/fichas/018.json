@@ -1,0 +1,440 @@
+{
+ "carpeta": "18",
+ "carpeta_nombre": "Carpeta 18",
+ "archivo": "Ficha 018 - José María Sosa (1838).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Secc. Areco; «partido de Areco»)",
+  "N.º de duplicado": "18 (portadilla N.º 8[5?])",
+  "Propietario / solicitante": "D. José María Sosa",
+  "Agrimensor": "Joaquín Hidalgo",
+  "Año": "1838",
+  "Fecha de la diligencia": "7/9/1838; nula por el D. T. 1/5/1839",
+  "Ubicación": "Ribera del río de Areco, cruzada por el arroyo de Giles",
+  "Orden judicial": "Comisión judicial (juez no nombrado)",
+  "Vendedor / antecesor": "A Francisco Sosa: 500 v (de Paula Casco) y 700 v de Domingo y Tiburcio Díaz (de M. Ibarra y Roque Díaz)",
+  "Linderos citados": "Río de Areco · José M.ª Lacarra · Tiburcio Díaz · Francisco del Sar",
+  "Medidas": "1100 × 9000 v; paralelogramo oblicuángulo; 0,275 legua²",
+  "Rumbos": "Corregidos con 14° de variación (la de la mensura anterior)",
+  "Referencia de archivo": "«Giles 18 – Secc.n Areco»; incluye copias del caso Figueroa (mayo 1839)"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 742 (0,275 legua²)",
+  "hitos": "Señal de antiguo mojón con T. Díaz; mojón con F. del Sar; vueltas del río",
+  "aguas": "Río de Areco; arroyo de Giles; cañada"
+ },
+ "sintesis": "Mensura de Joaquín Hidalgo (7/9/1838) de 1100 × 9000 v de José María Sosa sobre el río de Areco, cruzadas por el arroyo de Giles cerca de su desembocadura. Corrige con 14° «por haber sido el mismo» de la mensura anterior. El 1/5/1839 el Departamento (Arenales, Gutiérrez) la declara nula: los títulos no ubican la tierra y no consta la citación de linderos. El expediente suma la denuncia de que Hidalgo sustituyó un plano en la mensura de Isabel Carrasco de Figueroa (Ficha 010), su recusación y una carta desafiante suya a Arenales («el honor de los Colombianos duerme pero nunca muere»).",
+ "caratula": {
+  "img": "img/f/018/01.jpg",
+  "fuente": "IMG_6749.JPG",
+  "campos": [
+   [
+    "N.º",
+    "18"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "José María Sosa"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Hidalgo"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1838"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 (recto) · Diligencia de mensura",
+   "img": "img/f/018/04.jpg",
+   "fuente": "IMG_6752.JPG",
+   "nota": "Encabezado «¡Viva la federación!»; sello del Departamento Topográfico en el margen y foliatura «1». Letra rápida de Joaquín Hidalgo (la misma de la Ficha 008), con ortografía vacilante (b/v, s/c, h omitida). «Labayen» y «salbé» son lecturas dudosas.",
+   "lineas": [
+    "¡Viva la federacion!",
+    "En el partido de Areco á 7 dias del mes de Sep^{bre} de 1838 año 29 de la",
+    "Libertad 23 de la Independencia y noveno de la Confederacion Argentina",
+    "Yo el Agrimensor publico que subscribe comicionado judicial^{te} p^{a} medir y amo-",
+    "jonar los terrenos de D^{n} José M^{a} Sosa prebia la citacion de linderos como",
+    "consta por la adjunta circular y reunidos todos nos dirijimos al punto co-",
+    "nocido por de arranque que lo es el mojon esquinero del angulo Est",
+    "dibisorio con estos terrenos y los de Lacarra. En este lugar se midió la cuerda en-",
+    "contrandola á cien v^{s} y se nombraron para contadores de ella á D^{n} Clemente",
+    "Labayen [?] y Patricio Alvarez quienes enterados en el cargo prometieron",
+    "cumplir con sus deberes. Acto continuo puse el Instrum^{to} sobre el",
+    "referido mojon y tiré el rumbo del Sueste corregido con catorce grados",
+    "de variacion por aber sido el mismo con que abian sido medidos es-",
+    "tos terrenos por este mismo rumbo bajé la perpendicular de quatro-",
+    "cientas v^{s} y salbé [?] de este modo las bueltas del rio en este lugar ba-",
+    "rié de rumbo al Sudoest corregido y por el medí mil cien v^{s} que es el",
+    "frente que le corresponde á estos terrenos segun titulos del interesa-",
+    "do con las que llegamos á una señal donde abia estado un mojon",
+    "dibisorio entre D^{n} Tiburcio Diaz y estos terrenos donde puse un",
+    "mojon. reconosió la cuerda y barié de rumbo al Sueste corregido",
+    "y por el medí nueve mil v^{s} con las que llegué á un mojon que fue",
+    "reconocido por dibisorio entre D^{n} José M^{a} Sosa y D^{n} Fran^{co} Delsar",
+    "para medir en el mismo sentido que antes abian sido medidos estos",
+    "terrenos lebanté una perpendicular de quatrocientas baras al",
+    "Nordest correjido y en este lugar barié de rumbo al Nordest corre-",
+    "jido y por el medí mil cien v^{s} lado opuesto y paralelo al frente",
+    "donde puse otro mojon y barié de rumbo al Noroest corregido y por",
+    "el medí nueve mil v^{s} que es el fondo que le corresponde á estos",
+    "terrenos con las que llegué al Margen del Rio de Areco y //"
+   ],
+   "interpretacion": "El 7 de septiembre de 1838, «año 29 de la Libertad, 23 de la Independencia y noveno de la Confederación Argentina», el agrimensor público Joaquín Hidalgo mide por comisión judicial los terrenos de José María Sosa, en el partido de Areco. Dice haber citado a los linderos por circular y, reunidos, parte del mojón esquinero E, divisorio con Lacarra.\nRitual: se mide la cuerda y se la encuentra de 100 varas; se nombran contadores a Clemente Labayen [?] y Patricio Álvarez, que prometen cumplir. Técnica: rumbos corregidos con 14° de variación «por haber sido el mismo con que habían sido medidos estos terrenos»: la declinación se elige por continuidad con la mensura anterior, no por observación. Baja una perpendicular de 400 v al SE para «salvar las vueltas del río» y mide 1100 v de frente al SO (según los títulos) hasta la señal de un antiguo mojón con Tiburcio Díaz; luego 9000 v de fondo al SE hasta el mojón de Francisco del Sar, y cierra con 1100 v al NE y 9000 v al NO hasta el río de Areco."
+  },
+  {
+   "titulo": "Folio 1 (vuelto) · Linderos, área, nota y comienzo de la vista",
+   "img": "img/f/018/05.jpg",
+   "fuente": "IMG_6753.JPG",
+   "nota": "La firma «Joaq.n Hidalgo» con rúbrica. Desde «Señor Juez de primera instancia» cambia la letra: es la vista del Departamento Topográfico, en letra de oficina. «este» repetido y testado.",
+   "lineas": [
+    "// Mojon donde abió dado principio á esta operacion y se dió por conclu-",
+    "ida abiendo quedado el terreno medido y amojonado con formidad [sic]",
+    "con los linderos en todas sus partes.",
+    "Sus linderos son por el Nort Rio de Areco por el Nordest D^{n}",
+    "José M^{a} Lacarra por el Oest D^{n} Tiburcio Diaz y por los",
+    "fondos D^{n} Fran^{co} Delsar. La figura del terreno es la de un",
+    "paralelogramo oblicuangulo y reunidas todas sus partes for-",
+    "ma una Area de docientos setenta y cinco milécimos",
+    "Nota",
+    "A las ocho mil ochocientas v^{s} quise cuadrar el terreno pero",
+    "abiendo sido deslindado el terrenos de sobras en el mismo",
+    "sentido no tubo lugar por lo que cerré el perimetro de",
+    "la figura en angulos obtusos como lo demuestra el pla-",
+    "no. Los linderos todos estubieron presentes y confor-",
+    "maron en el todo con la operacion.",
+    "Joaq^{n} Hidalgo [rúbrica]",
+    "Señor Juez de primera instancia.",
+    "Aparecen acumulados en este ~~este~~ expediente cinco documentos de",
+    "otras tantas ventas de porciones de terreno, verificadas á favor de D^{n}",
+    "Francisco Sosa. El primero expresa quinientas varas de tierra",
+    "de estancia; y segun, se expresa, esta estension parece ser parte de",
+    "otra mayor poseida anteriormente por D^{a} Paula Casco.",
+    "Los cinco restantes documentos espresan una totalidad",
+    "de setecientas varas que, primero Don Domingo y Don Tibur-",
+    "cio Dias, hermanos, y despues el segundo, vendieron al espre-",
+    "sado D^{n} Francisco Sosa: segun se deduce de estos documen-",
+    "tos, estas porciones de tierra proceden de alguna otra mayor,",
+    "ó igual, anteriormente poseida por Doña Manuela Ibarra y D^{n} //"
+   ],
+   "interpretacion": "Termina la mensura en el mismo mojón de arranque. Linderos: al N el río de Areco, al NE José M.ª Lacarra, al O Tiburcio Díaz y al fondo Francisco del Sar. Figura: «paralelogramo oblicuángulo»; área 0,275 legua² (1100 × 9000 v ≈ 742 ha).\nEn una nota Hidalgo explica que a las 8800 v quiso «cuadrar» el terreno, pero como las sobras vecinas ya se habían deslindado en el mismo sentido, cerró la figura en ángulos obtusos. Afirma que todos los linderos estuvieron presentes y conformes.\nComienza la vista del Departamento: en el expediente hay cinco títulos de ventas a Francisco Sosa (no a José María): uno de 500 v de «tierra de estancia», parte de una mayor de Paula Casco, y los otros de 700 v que vendieron los hermanos Domingo y Tiburcio Díaz, procedentes de tierras de Manuela Ibarra y…"
+  },
+  {
+   "titulo": "Folio 2 (recto) · El Departamento declara nula la mensura",
+   "img": "img/f/018/06.jpg",
+   "fuente": "IMG_6754.JPG",
+   "nota": "«la» testado y «su» interlineado. Firmas autógrafas de José Arenales y Juan María Gutiérrez. Al pie, nota de remisión con rúbrica.",
+   "lineas": [
+    "// Roque Dias, padres de estos vendedores.",
+    "Ninguno de todos los documentos acumulados espresa ni determina el",
+    "lugar ó ubicacion de los terrenos citados, con referencia á al-",
+    "gun objeto, mojon ó lindero propietario reconocido, y todos ellos",
+    "se hacen mutuamente linderos entre sí; sin que pueda dedu-",
+    "cirse de su contesto en que parte del rio de Areco, ni en",
+    "cual de sus riberas (pues hasta esto se omitió) se hallan",
+    "los d^{hos} terrenos.",
+    "Siendo pues necesarios los titulos originarios, no solo para lejitimar la su-",
+    "puesta propiedad de estos terrenos, sino tambien para conocer por",
+    "ellos ~~la~~ ^{su} verdadera ubicacion; siendo por otra parte necesario tener",
+    "constancia con presencia de titulos de si en las desmembraciones de",
+    "las dos diversas suertes primitivas que, segun se infiere, han",
+    "sido materia de estas transaciones, se perjudican ó se sal-",
+    "van los derechos de otros herederos ó accionistas á la demas",
+    "parte de estos terrenos; bastarian estas observaciones para que",
+    "el Departamento Topografico suspenda todo juicio sobre la pre-",
+    "sente mensura. Pero nota que, no se ha citado á los linderos",
+    "ni consta su concurrencia, habiendose faltado en esto á los arti-",
+    "culos primero y 4^{o} de la instruccion de agrimensores; esto basta",
+    "para que el Departamento por su parte repute nula y de nin-",
+    "gun valor la presente mensura. — Buenos aires Mayo",
+    "1^{o} de 1839.",
+    "Jose Arenales [rúbrica]          Juan María Gutiérrez [rúbrica]",
+    "Vease el oficio que con fha 13 del mismo Mayo, pasó el Presidente del",
+    "Departamento Topografico al Señor Oficial mayor encargado del",
+    "ministerio de Gobierno. [rúbrica]"
+   ],
+   "interpretacion": "…Roque Díaz, padres de los vendedores. Crítica documental: ningún título ubica los terrenos respecto de un objeto, mojón o lindero reconocido; todos se hacen linderos entre sí, y ni siquiera dicen en qué parte del río de Areco ni en cuál de sus riberas están. Faltan los títulos originarios, necesarios para legitimar «la supuesta propiedad», para ubicarla y para saber si las desmembraciones de «las dos diversas suertes primitivas» perjudican a otros herederos o accionistas.\nEso bastaría para suspender el juicio, pero hay algo más grave: no consta que se haya citado a los linderos ni su concurrencia, en contra de los artículos 1.º y 4.º de la instrucción de agrimensores. Por eso el Departamento «repute nula y de ningún valor la presente mensura» (1 de mayo de 1839). Firman José Arenales y Juan María Gutiérrez. Se remite al oficio del 13 de mayo al oficial mayor encargado del Ministerio de Gobierno."
+  },
+  {
+   "titulo": "Folio 3 (recto) · El caso Figueroa: Hidalgo acusado de sustituir un plano",
+   "img": "img/f/018/07.jpg",
+   "fuente": "IMG_6755.JPG",
+   "nota": "Copia certificada, en letra de oficina. Margen izquierdo cortado: se reconstruye [Exp]ediente y [Se]ñor. El nombre del coronel (Pedro Ramos [?]) es dudoso. «10» testado y corregido «trece».",
+   "lineas": [
+    "\"¡Viva la Federacion! = José Figueroa = Buenos aires Mayo ~~10~~ tre-",
+    "ce de mil ochocientos treinta y nueve: año treinta de la libertad; ve-",
+    "inticuatro de la Independencia, y diez de la Confederacion Argentina.",
+    "= Señores del Departamento Topografico. = Don José Figueroa, co-",
+    "mo mejor proceda ante V. S. digo: Que hallandose en este Departa-",
+    "mento el expediente iniciado de mensura de terrenos de D. Ysabel",
+    "Carrasco, encargada á Don Joaquin Hidalgo, para espedirse en",
+    "el informe que ha pedido el S^{r} Juez de primera instancia, debo",
+    "hacer presente á su consideracion que el enunciado Hidalgo ha-",
+    "biendo tomado el expediente de la oficina actuaria para tra-",
+    "herlo á este Departamento, ademas de retenerlo por todo el tiem-",
+    "po que quiso, tuvo el arrojo de desglosar un plano que él",
+    "mismo ha escrito, sobre cuya consulta ha girado el procedi-",
+    "miento judicial que hubo, subrogando otro plano distinto,",
+    "de que ningun conocimiento ha habido. El Departamento",
+    "ha de informar sobre la consulta hecha, y mis alegaciones",
+    "sobre el tenor de la misma consulta; y del plano substraido,",
+    "sin poder contraerse al contesto del nuevo subrogado, sea cual",
+    "fuese su merito y ecsactitud; á cuyo efecto lo hago presente",
+    "al Departamento á fin de que se sirva dar el informe pe-",
+    "dido en tal concepto, sin dejar de esponer al S^{r} Juez de primera",
+    "instancia este estraordinario incidente para todos los efectos",
+    "que puedan ser convenientes, asi por lo que mira á reprimir",
+    "un tal ecseso de Hidalgo, como por lo que respecta al pronun-",
+    "ciamiento judicial sobre esta primera cuestion que se ha su-",
+    "scitado; esperando de las luces y criterio del Departamento, de-",
+    "ferirá á esta mi indicacion y solicitud de rigorosa justicia. =",
+    "José Figueroa.\"—",
+    "[Exp]ediente promovido por el coronel D^{n} Pedro Ramos [?], autorizado por D^{a} Maria Ysabel",
+    "Carrasco de Figueroa para solicitar ^{mensura} de terrenos de aquella; y al cual es referente",
+    "el anterior memorial —— ) informa",
+    "[Se]ñor Juez de 1^{a} Instancia — En consecuencia de la escandalosa comportacion que",
+    "D^{n} Joaquin Hidalgo ha tenido con el Tribunal Topografico, y á vista del",
+    "hecho que se acusa en el adjunto memorial de D^{n} José Figueroa (de que que-",
+    "da copia en esta Oficina); el Tribunal Topografico recusa en toda for-",
+    "ma y absolutamente las atenciones y toda intervencion del espresado Hi-",
+    "dalgo en los asuntos que se cursan ante este Tribunal; sin perjuicio de //"
+   ],
+   "interpretacion": "Copia incorporada a este expediente: el 13 de mayo de 1839 José Figueroa denuncia ante el Departamento que Joaquín Hidalgo, encargado de la mensura de Isabel Carrasco (la viuda de Mauricio Figueroa, Ficha 010), sacó el expediente de la oficina actuaria para llevarlo al Departamento, lo retuvo cuanto quiso y «tuvo el arrojo de desglosar un plano que él mismo ha escrito», sobre el cual había girado el procedimiento judicial, «subrogando otro plano distinto». Pide que el Departamento informe sobre el plano sustraído y no sobre el nuevo, y que se reprima «tal exceso».\nEl Departamento (el «Tribunal Topográfico») informa al juez sobre el expediente promovido por un coronel apoderado de María Isabel Carrasco de Figueroa: ante «la escandalosa comportación» de Hidalgo, recusa «en toda forma y absolutamente» toda intervención suya en los asuntos que tramitan ante el Tribunal."
+  },
+  {
+   "titulo": "Folio 3 (vuelto) · Resolución y remisión al juez Campana",
+   "img": "img/f/018/08.jpg",
+   "fuente": "IMG_6756.JPG",
+   "nota": "Sólo la mitad superior tiene texto; abajo se transparenta el folio anterior. Rúbricas de Arenales.",
+   "lineas": [
+    "// proceder directamente á lo demas que está en la esfera de su jurisdiccion",
+    "y atribuciones. — En esta virtud el Tribunal Topografico propo-",
+    "ne al Juzgado, se sirva mandar volver los titulos á la parte in-",
+    "teresada, havilitando á la que solicitó mensura, para que",
+    "instaure su demanda en el estado que tenia ant^{es} de este expedien-",
+    "te, y por medio de un agrimensor idoneo. — Buenos aires Ma-",
+    "yo 17 de 1839. — José Arenales. — Juan Maria Gutierrez.\"",
+    "Es copia de que certifico — Arenales [rúbrica]",
+    "Se remitieron estos autos al S^{r} Juez de 1^{a} Instancia D^{or} D^{n} Cayetano Cam-",
+    "pana, con oficio de 18 de mayo de 1839. [rúbrica]",
+    "[mitad inferior: texto del folio anterior visto por transparencia; no se transcribe]"
+   ],
+   "interpretacion": "El Tribunal propone al juzgado devolver los títulos a la interesada y habilitarla para reiniciar su demanda «por medio de un agrimensor idóneo» (17 de mayo de 1839; Arenales y Gutiérrez). Arenales certifica la copia y los autos se remiten al juez de 1.ª instancia Dr. Cayetano Campana el 18 de mayo de 1839.\nEl agrimensor idóneo fue Manuel Eguía, que midió el campo de Isabel Carrasco en 1840 (Ficha 010, ante el mismo juez Campana). Este documento explica por qué la mensura de la Posta de Figueroa se hizo dos veces."
+  },
+  {
+   "titulo": "Folio 4 (recto) · Carta de Hidalgo al coronel Arenales",
+   "img": "img/f/018/09.jpg",
+   "fuente": "IMG_6757.JPG",
+   "nota": "Copia certificada por Arenales de una carta privada. Ortografía del original. «Cornelyo [?]» y «ofelig [?]» son lecturas inseguras.",
+   "lineas": [
+    "\"D. José Arenales.",
+    "Buenos-aires Mayo 10 de 1839.",
+    "Esta no tiene otro objeto que decir á V^{d} lo que sigue. Es-",
+    "taba resuelto á pedir á V^{d} una satisfaccion sobre la mar-",
+    "cha para el efecto lo he buscado por repetidas veces",
+    "por aora debo suspender mi resolucion asta unos",
+    "dias. El honor de los Colombianos duerme pero",
+    "nunca muere. La providencia dictada por V^{d}",
+    "es un testimonio clasico de la prevencion que le",
+    "guarda acerca de mi persona y pudiera ser una",
+    "mala inteligencia. Nunca me impuso respeto",
+    "enemigo de su clase. He dicho que la circular",
+    "formaba un cuerpo con el expediente de la re-",
+    "ferencia. Fui enterado por el S^{or} secretario",
+    "podia haberse traspapelado pues tenia especie",
+    "de haberla visto y la buscaria dandome abiso",
+    "oportunamente. Cuando se me pidió papel",
+    "encarculado [sic] ubiera parecido á la vez juicio pru-",
+    "dente. Desde que no a tenido lugar me allo",
+    "en descubierto de algun modo debo vindicarme y",
+    "mui pronto contestaré á sus insultos y particular-",
+    "mente al S^{or} Gutierrez y Cornelyo [?] diciendo que",
+    "la posicion nunca sostubo al hombre y si el",
+    "hombre sostiene en todo caso rigor ofelig [?] á la",
+    "posicion dele V^{d} á mi lenguaje el sentido",
+    "que pide",
+    "Hidalgo.",
+    "Señor Coronel",
+    "D. José Arenales\"",
+    "[Es copia fiel ?]a de su original, de que certifico — Arenales [rúbrica]"
+   ],
+   "interpretacion": "Copia de una carta de Joaquín Hidalgo al coronel José Arenales, presidente del Departamento, del 10 de mayo de 1839. Tono de desafío: pensaba pedirle «una satisfacción» (el lenguaje del duelo) y la posterga unos días; «el honor de los Colombianos duerme pero nunca muere». Dice que la resolución de Arenales es «un testimonio clásico de la prevención» contra su persona y que «nunca me impuso respeto enemigo de su clase».\nSobre el fondo del asunto de esta mensura: sostiene que la circular de citación de linderos «formaba un cuerpo con el expediente» y que el secretario le dijo que podía haberse traspapelado. Promete contestar a los insultos, «particularmente al Sr. Gutiérrez». Arenales incorpora la carta al expediente: es la prueba de la «escandalosa comportación» que motiva la recusación."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de José María Sosa sobre el río de Areco",
+   "img": "img/f/018/03.jpg",
+   "fuente": "IMG_6758.JPG (otra toma: IMG_6759)",
+   "orientacion": "Lámina a tinta en recuadro doble, sello «Foja 5»; flecha de norte con plumas y ángulo «14°» entre aguja y verdadero; «Escala de seis mil v.s ó una legua de B.s Ay.s»; firma «Hidalgo» con rúbrica.",
+   "interpretacion": "Una faja larga y angosta (1100 × 9000 v) que baja perpendicular desde el «Río Areco», con frente «1100» sobre el río y «9000» en los costados; al fondo, un lado oblicuo (1100) contra «Del Sar». A la izquierda «Díaz», a la derecha «Lacarra». Cerca del río la faja está cruzada por un curso rotulado «A.º de Giles» y, junto a él, «Cañada»: es la desembocadura del arroyo de Giles en el río de Areco, dibujada en 1838.\nLa letra A (dentro de la faja) «demarca las posesiones del interesado». El dibujo muestra justamente el cierre en ángulo obtuso del fondo que explica la nota del agrimensor.",
+   "referencias": [
+    [
+     "Río Areco",
+     "Frente N; cota 1100"
+    ],
+    [
+     "A.º de Giles · Cañada",
+     "Cruzan la faja cerca del río"
+    ],
+    [
+     "Díaz",
+     "Lindero O (Tiburcio Díaz)"
+    ],
+    [
+     "Lacarra",
+     "Lindero NE (José M.ª Lacarra)"
+    ],
+    [
+     "Del Sar",
+     "Lindero de fondo (Francisco del Sar)"
+    ],
+    [
+     "9000 · 1100",
+     "Costados y frente en varas"
+    ],
+    [
+     "A",
+     "«La letra A demarca las posesiones del interesado»"
+    ],
+    [
+     "Flecha y 14°",
+     "Norte con plumas; variación 14°"
+    ],
+    [
+     "Escala",
+     "Seis mil varas o una legua de Buenos Aires"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Una mensura anulada",
+   "texto": "Es la primera mensura de la serie que el Departamento Topográfico declara «nula y de ningún valor». Hay dos razones: los títulos no permiten ubicar la tierra (se hacen linderos entre sí y ni siquiera dicen en qué ribera del río de Areco están) y no consta la citación ni la concurrencia de los linderos (arts. 1.º y 4.º de la instrucción de agrimensores; comparar con las objeciones de 1827 en las Fichas 012 y 014). Hidalgo afirma en la diligencia que los linderos fueron citados por circular y estuvieron presentes; la circular no está en el expediente, y él mismo dice que «formaba un cuerpo con el expediente» y se habrá traspapelado."
+  },
+  {
+   "titulo": "El conflicto hidalgo – arenales y la posta de figueroa",
+   "texto": "El expediente incorpora dos documentos de otro asunto: la denuncia de José Figueroa (13/5/1839) de que Hidalgo desglosó el plano de la mensura de Isabel Carrasco de Figueroa y puso otro en su lugar, y la carta de Hidalgo a Arenales (10/5/1839) en tono de duelo. El Tribunal recusa a Hidalgo en todos los asuntos y pide que la mensura de Carrasco se rehaga con «un agrimensor idóneo»: fue Eguía en 1840 (Ficha 010, Posta de Figueroa). Además, Hidalgo es el autor de la traza del pueblo de Giles (1838, Ficha 008). Su recusación en 1839 obliga a leer esa ficha con otra luz: ¿sus mensuras de 1838 fueron revisadas o rehechas?"
+  },
+  {
+   "titulo": "«el honor de los colombianos»: hidalgo, extranjero en el departamento",
+   "texto": "La carta sugiere que Joaquín Hidalgo era colombiano (o de la Gran Colombia) y que el conflicto con Arenales tenía un lado personal. Arenales (1798-1862), militar e ingeniero, hijo del general Juan Antonio Álvarez de Arenales, presidió el Departamento desde c. 1828 hasta 1852. Juan María Gutiérrez, entonces joven ingeniero del Departamento, es la otra firma (y el destinatario de los «insultos»). El contexto político (1839: Rosas, fórmula federal en los encabezados) no aparece explícito, pero la fórmula «¡Viva la federación!» abre la diligencia."
+  },
+  {
+   "titulo": "Técnica y paisaje",
+   "texto": "Hidalgo corrige con 14° «por haber sido el mismo con que habían sido medidos estos terrenos», el mismo criterio de continuidad que en la Ficha 008 (15°): la declinación se hereda de la mensura anterior. Se mide la cuerda (100 v) y se nombran contadores (Labayen [?], Patricio Álvarez), como en 008. Baja una perpendicular de 400 v para «salvar las vueltas del río». El plano muestra el arroyo de Giles y una cañada llegando al río de Areco dentro de la faja: es un dato para ubicar la mensura en el GIS, en la confluencia Giles–Areco. Es una suerte ribereña típica: frente angosto al río y fondo de legua y media."
+  },
+  {
+   "titulo": "Tenencia: suertes primitivas desmembradas",
+   "texto": "Los cinco títulos son ventas a Francisco Sosa de porciones de 500 y 700 v de frente, procedentes de dos «suertes primitivas» (de Paula Casco y de Manuela Ibarra y Roque Díaz), fragmentadas por herencia entre hermanos (Domingo y Tiburcio Díaz). El Departamento teme que las desmembraciones perjudiquen a «otros herederos o accionistas». La mensura es de José María Sosa, hijo de Francisco, que suma 1100 v de frente. Es el mismo proceso de fragmentación de las suertes del río de Areco visto en las Fichas 014 y 016 (los Sosa)."
+  },
+  {
+   "titulo": "Estado, lecturas dudosas y preguntas",
+   "texto": "Transcripta completa (diligencia, vista, copias y carta). Dudosos: Labayen, «salbé», el coronel apoderado (Pedro Ramos [?]), «Cornelyo», el número de la portadilla. Preguntas: ¿se volvió a medir el terreno de José María Sosa? ¿Qué relación hay con el J. J. Sosa de la Ficha 006 y los Sosa de la 016? ¿Hay otras mensuras de Hidalgo posteriores a 1839? ¿Dónde está hoy el plano que Hidalgo sustituyó en el expediente de Carrasco?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "José María Sosa",
+   "rol": "Solicitante",
+   "texto": "Hijo de Francisco Sosa, comprador de las porciones. Poseedor de 1100 v de frente sobre el río de Areco en 1838. Sin más datos.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Joaquín Hidalgo",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor público, autor de la traza del pueblo de Giles (Ficha 008, 1838) y de la primera mensura de Isabel Carrasco de Figueroa. Por su carta a Arenales, al parecer colombiano. En mayo de 1839 el Departamento anula esta mensura y lo recusa para todos los asuntos, tras acusarlo de sustituir un plano. No se hallaron datos biográficos en la búsqueda web.",
+   "fuentes": "Esta mensura; Fichas 008 y 010."
+  },
+  {
+   "nombre": "José Arenales",
+   "rol": "Presidente del departamento topográfico",
+   "texto": "(1798-1862) Militar e ingeniero, hijo del general Álvarez de Arenales; presidió el Departamento Topográfico entre c. 1828 y 1852. Firma la nulidad y la recusación de Hidalgo y certifica las copias.",
+   "fuentes": "Fichas 013, 015; esta mensura."
+  },
+  {
+   "nombre": "Juan María Gutiérrez",
+   "rol": "Departamento topográfico",
+   "texto": "(1809-1878) Ingeniero agrimensor, luego escritor, jurista y rector de la Universidad de Buenos Aires. Trabajó en el Departamento Topográfico hasta su exilio (1840). Firma con Arenales en 1839 (también en la Ficha 015).",
+   "fuentes": "Ficha 015; conocimiento general."
+  },
+  {
+   "nombre": "José Figueroa · María Isabel Carrasco de Figueroa",
+   "rol": "Denunciante y propietaria (otro expediente)",
+   "texto": "Isabel Carrasco, viuda de Mauricio Figueroa, dueña de la Posta de Figueroa (Ficha 010). José Figueroa denuncia la sustitución del plano por Hidalgo.",
+   "fuentes": "Ficha 010; esta mensura."
+  },
+  {
+   "nombre": "Cayetano Campana",
+   "rol": "Juez de 1.ª instancia",
+   "texto": "Recibe los autos en mayo de 1839; es el juez de la mensura de Eguía de 1840 (Ficha 010).",
+   "fuentes": "Ficha 010."
+  },
+  {
+   "nombre": "Francisco Sosa · Paula Casco · Domingo, Tiburcio y Roque Díaz · Manuela Ibarra",
+   "rol": "Cadena de títulos",
+   "texto": "Compradores y vendedores de las porciones de las dos suertes primitivas. Tiburcio Díaz es además lindero O. Sin más datos.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "José M.ª Lacarra · Francisco del Sar",
+   "rol": "Linderos",
+   "texto": "Lacarra, lindero NE. Francisco del Sar, lindero de fondo, es el mismo que denuncia tierra pública y guarda títulos antiguos (Fichas 009, 010).",
+   "fuentes": "Esta mensura; Fichas 009, 010."
+  },
+  {
+   "nombre": "Clemente Labayen [?] · Patricio Álvarez · Pedro Ramos [?]",
+   "rol": "Contadores de cuerda y apoderado",
+   "texto": "Contadores nombrados en la mensura (¿el José Clemente Laballén de la Ficha 010?). Pedro Ramos [?], coronel, apoderado de Isabel Carrasco. Sin más datos.",
+   "fuentes": "Esta mensura; Ficha 010."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/018/02.jpg",
+  "fuente": "IMG_6751.JPG (y guarda IMG_6750)",
+  "lineas": [
+   "[IMG_6750, hoja de guarda:] San Andres de Giles. / N.º 18.",
+   "Mensura del terreno de Dn José Ma. Sosa.",
+   "Agrimensor / Hidalgo. / 7 de Setiembre de 1838.",
+   "[IMG_6751, portadilla:] N 8[5?]        Giles        18",
+   "Secc.^{n} Areco",
+   "Mensura del Terreno",
+   "de",
+   "D.^{n} José M.^{a} Sosa, hijo de",
+   "[interlineado:] [...] al N.º [...] [?]",
+   "practicada",
+   "por",
+   "El Agrimensor Hidalgo",
+   "en 7 de Septiembre de 1838"
+  ]
+ },
+ "titulo": "D. José María Sosa",
+ "estado": "Transcripta (6 hojas, 162 renglones), 1 lámina"
+}

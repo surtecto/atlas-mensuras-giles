@@ -1,0 +1,451 @@
+{
+ "carpeta": "12",
+ "carpeta_nombre": "Carpeta 12",
+ "archivo": "Ficha 012 - Celidonio Fernández (1826).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Sección Areco)",
+  "N.º de duplicado": "12",
+  "Propietario / solicitante": "D. Celidonio Fernández (enfiteuta)",
+  "Agrimensor": "Francisco Ysach",
+  "Año": "1826",
+  "Fecha de la diligencia": "Cargo 28/6/1826; mensura 18/9/1826; cierre 22/9/1826; D. T. 19/5/1827",
+  "Ubicación": "Chacras de Falcón (Areco), lindero de Aguirre (Ficha 011)",
+  "Orden judicial": "Expediente de enfiteusis; venta por decreto de Rosas del 11/5/1838 a Pedro T. Rodríguez",
+  "Vendedor / antecesor": "Tierra pública en enfiteusis → venta (ley del 10/5/1836) a Pedro T. Rodríguez, 7335 $",
+  "Linderos citados": "NE: Ramón Cané y Santiago Casco (enf.) · NO: Santiago Casco · SO: Bartolomé Saraví y José Rodríguez (enf.) · Guillermo Aguirre (enf.)",
+  "Medidas": "6 lados: 9826 / 3800 / 7856 / 1838 / 6000 / 7074 v",
+  "Rumbos": "«Corregidos» (NE, SO, SE); cierre «N 5° O de la aguja»",
+  "Referencia de archivo": "Portadilla «N.º 67 – Giles 12 – Secc. Areco»; «256»; D. T. 1827; Arenales 1838-39"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 3980 (53.042.800 v²; 1,473 leguas²)",
+  "hitos": "9 casas numeradas; red de visuales; lagunas",
+  "aguas": "Lagunas dispersas (plano); sin cursos nombrados"
+ },
+ "sintesis": "Mensura de 1826 del terreno que Celidonio Fernández tenía en enfiteusis en las «chacras de Falcón», hecha por Francisco Ysach con el mismo equipo y método que la de Aguirre (Ficha 011), con la que comparte un costado. Es un hexágono de 53.042.800 v² (≈ 3980 ha) con nueve casas numeradas como visuales y un «Norte del Mundo». Hay mojones de Manso (Ficha 001) en el lindero de Saraví. El Departamento objeta en 1827 que no se citó a todos los linderos. La pieza clave es la copia del decreto de Rosas e Insiarte del 11/5/1838: en virtud de la ley del 10/5/1836, el Gobierno vende el terreno a Pedro T. Rodríguez por 7335 pesos. La enfiteusis rivadaviana se convierte en propiedad privada rosista. Arenales recalcula el área en 1839 (1,473 leguas²).",
+ "caratula": {
+  "img": "img/f/012/01.jpg",
+  "fuente": "IMG_6686.JPG",
+  "campos": [
+   [
+    "N.º",
+    "12"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Celidonio Fernández"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "F. Isach"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1826"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Portada de la copia",
+   "img": "img/f/012/06.jpg",
+   "fuente": "IMG_6688.JPG",
+   "nota": "Título dentro de un triángulo, como en la Carpeta 11 (misma mano copista). «Areco» a lápiz. Número «256» y cálculos a lápiz (17480, 1467).",
+   "lineas": [
+    "[a lápiz, arriba:] Areco",
+    "Copia de las diligencias de mensura del",
+    "terreno que D. Celidonio Fernandez ha",
+    "tomado en Enfiteusis citos en las",
+    "chacras de Falcon echas por el",
+    "agrimensor D. Francisco Ysach",
+    "en el año de =",
+    "1826",
+    "[rúbrica]",
+    "[al margen:] N.^{o} [...]",
+    "256.",
+    "[a lápiz:] 04. / 17480 / 1203 / 00 [cálculos] — 1467"
+   ],
+   "interpretacion": "Es la copia de la mensura del terreno que Celidonio Fernández «ha tomado en enfiteusis», situado en las «chacras de Falcón», hecha por Francisco Ysach en 1826. Es el expediente gemelo de la Ficha 011: el mismo agrimensor, el mismo año, la misma mano copista y un plano del mismo estilo. En la Ficha 011 Celidonio Fernández figuraba como «enfiteuta» lindero de Aguirre.\nEl «1467» a lápiz coincide con el área en leguas cuadradas (1,467) del informe de 1838 que aparece al final: la portada fue anotada cuando se tasó la venta."
+  },
+  {
+   "titulo": "Folio 1 (recto)",
+   "img": "img/f/012/07.jpg",
+   "fuente": "IMG_6689.JPG",
+   "nota": "Sello «Departamento Topográfico» y foliatura «1». Los «=» separan diligencias y firmas copiadas.",
+   "lineas": [
+    "En beinte y ocho de Junio del presente año, me hice",
+    "cargo de este Exp.^{te} y p.^{a} constancia lo anoto por diligen-",
+    "cia = Francisco Ysach = En el mismo dia de la fha. ut",
+    "supra pasó el interesado á tomar antesed.^{tes} á la Comi-",
+    "cion Topografica y resultó no haber ning.^{o} particu-",
+    "lar sobre este terreno y para constancia lo anoto",
+    "por diligencia = Ysach = Juan M.^{a} Vermudez = Jasinto",
+    "Bogarin = En tres de Sep.^{e} del presente año oficié á los",
+    "Lind.^{s} y colind.^{tes} de este terreno havisand.^{s} que p.^{r} el",
+    "diez y ocho del presente mes hiva á dar principio",
+    "á estas dilig.^{s} de mensura y q.^{e} compareciesen por sí,",
+    "ó por medio de apoderado á defender la Linea de su",
+    "pertenencia los q.^{e} comparecieron, y en prueba de",
+    "la berdad lo firman con migo y testig.^{s} lo q.^{e} ano-",
+    "to p.^{r} diligencia = Ysach = Por mí, y á ruego de D. Jo-",
+    "se Rodriguez Juan M.^{a} Vermudez = A ruego de D. San-",
+    "tiago Casco Jose M.^{a} Villanueba = Ramon Cané [?] =",
+    "Jasinto Bogarin = En diez y ocho del presente mes",
+    "y año hallandome en la casa de D. Celidonio Fer-",
+    "nandez, reunido con todos los Lind.^{s} el enfiteuta y",
+    "los demas indiv.^{s} neserarios p.^{a} practicar esta men-",
+    "sura pasé donde esta casa en el punto ó mojon q.^{e} en",
+    "el plano se figura con el n.^{o} 1., y puesto en d^{ho} pun-",
+    "to ó lugar desde el qual marqué la casa del fina-",
+    "do D. Anastacio Gaute la qual marcasion es por"
+   ],
+   "interpretacion": "La secuencia de autos es idéntica a la de Aguirre. El 28 de junio Ysach se hace cargo del expediente y el interesado consulta los antecedentes de la Comisión Topográfica: «ningún particular sobre este terreno». El 3 de septiembre oficia a los linderos para el 18, citándolos a «defender la línea de su pertenencia». Firman a ruego Juan María Vermúdez por José Rodríguez y José María Villanueva por Santiago Casco; firman también Ramón Cané y Jacinto Bogarín.\nEl 18 de septiembre, en la casa de Celidonio Fernández, reunidos los linderos, el enfiteuta y «los demás individuos necesarios», va al mojón n.º 1 del plano y lo ata a la casa del finado Anastasio Gaute. La numeración del texto remite directamente a la del plano, un recurso de legibilidad moderno."
+  },
+  {
+   "titulo": "Folio 1 (vuelto)",
+   "img": "img/f/012/08.jpg",
+   "fuente": "IMG_6690.JPG",
+   "nota": "Bordes derechos cortados por la encuadernación (reconstrucciones entre corchetes).",
+   "lineas": [
+    "sesenta y tres g.^{s} en el 4.^{o} quad.^{te} de la aguja y yg[u-]",
+    "almente desde d^{ho} punto marqué la casa de D. Ju[an]",
+    "Escobar, cuya demarcacion es por setenta g.^{s} en [el]",
+    "2.^{o} quad.^{te} y ya apto para dar principio á esta [me-]",
+    "dicion pasé á nombrar á mis ayud.^{tes} que esta[ban]",
+    "presentes á cada uno el cargo q.^{e} le correspond[ia]",
+    "y fueron á D. Jasinto Bogarin p.^{a} dirijir [la]",
+    "Linea de band.^{s} á D. Fernando Hernandez para",
+    "contar las cordeladas á D. Juan M.^{a} Vermudez [y]",
+    "D. Hipolito Munao [?] p.^{a} apuntar las estacas de [la]",
+    "cuerda y aceptados los d^{hos} cargos por los [no-]",
+    "minados indiv.^{s} seg.^{n} el estilo de Ley pasé á [dar]",
+    "principio á d^{ha} mensura y al efecto desde [este]",
+    "punto dirijí el rumbo del nordueste correjid[o y]",
+    "colocada la Linea de band.^{s} por el d^{ho} r[umbo se mi-]",
+    "dieron nueve mil ochocientas, beinte y sei[s v.^{s}]",
+    "con cuya distancia desp.^{s} de echa la correccion [de]",
+    "la cuerda dimos con la Linea del costado [del terre-]",
+    "no de la propiedad de D. Santiago Casco, en [cuyo]",
+    "lugar hise plantar un mojon q.^{e} es el figura[do con]",
+    "el n.^{o} 2., y desde el qual marqué la casa de [Ciria-]",
+    "co Monsalbo, cuya marcasion es cincuenta [y qua-]",
+    "tro [?] g.^{s} en el 2.^{o} quad.^{te} ygualm.^{te} desde d^{ho} pu[nto]",
+    "marqué la casa de D. Joaquin Leon, la que [mora]",
+    "por diez y ocho g.^{s} en el 2.^{o} quad.^{te} y desde es[te]"
+   ],
+   "interpretacion": "Con visual también a la casa de Juan Escobar, Ysach «nombra» a sus ayudantes y a cada uno le asigna su cargo «según el estilo de ley». Jacinto Bogarín dirige la línea de banderas, Fernando Hernández cuenta las cordeladas y Juan María Vermúdez con Hipólito Munao [?] apuntan las estacas de la cuerda. En 011 el contador figuraba como «Fernando Fernández»: la misma persona, con dos grafías. El nombramiento y la aceptación de cargos son parte del ritual jurídico.\nPrimer lado, «NE corregido»: 9826 varas, «después de hecha la corrección de la cuerda», hasta la línea de Santiago Casco. Planta el mojón n.º 2, con visuales a las casas de Ciriaco Monsalvo y de Joaquín León. Aquí Ysach dice usar rumbos «corregidos», a diferencia de la mensura de Aguirre."
+  },
+  {
+   "titulo": "Folio 2 (recto)",
+   "img": "img/f/012/09.jpg",
+   "fuente": "IMG_6691.JPG",
+   "nota": "Foliatura «2». «Atacama [?]»: lectura dudosa del nombre vulgar de la casa de Fernández.",
+   "lineas": [
+    "to dirijí el rumbo del sudueste correjido y por",
+    "el qual se midieron tres mil ochocientas var.^{s} y con-",
+    "cluidas desp.^{s} de echa la correccion de la cuerda di-",
+    "mos con el mojon de cabezeras de la propiedad de",
+    "D. Santiago Casco, cuya direccion no pudimos conti-",
+    "nuarla mas por dar con los mojones y linea del",
+    "terreno q.^{e} dise D. Bartolome Sarabi, ser de su pro-",
+    "piedad y la qual mensura es echa por el agrimen-",
+    "sor D. Jose M.^{a} Manso; y desde este mojon q.^{e} es el",
+    "figurado con el n.^{o} 3., marqué la casa de D.^{a} Anto-",
+    "nia Rodriguez, la qual marcasion es por setenta",
+    "g.^{s} en el 3.^{o} quad.^{te} ygualm.^{te} desde d^{ho} marqué la",
+    "casa de D. Gregorio Brandan, la que mora por",
+    "ochenta y quatro g.^{s} en el 4.^{o} quad.^{te} y desde este",
+    "punto dirijí el rumbo del sueste correjido y p.^{r}",
+    "el qual se midieron siete mil ochocientas cincuen-",
+    "ta y seis v.^{s} y concluidas desp.^{s} de echa la correccion",
+    "de la cuerda hice plantar un mojon q.^{e} es el figura-",
+    "do con el n.^{o} 4., y desde el qual marqué la casa del fi-",
+    "nado D. Anastacio Gaute, cuya marcasion es por beinte",
+    "y seis g.^{s} en el 1.^{o} quad.^{te} ygualm.^{te} desde este punto",
+    "marqué la casa de D. Celidonio Fernandez, la q.^{e}",
+    "bulgarmente es conocida con el nombre de Atacama [?]",
+    "de las chacras de Falcon, la qual mora por veinte",
+    "y cinco g.^{s} en el 4.^{o} quad.^{te} y desde este punto diri-"
+   ],
+   "interpretacion": "Al SO corregido mide 3800 varas hasta el mojón de cabeceras de Santiago Casco. No puede seguir porque choca con los mojones del terreno que Bartolomé Saraví dice ser suyo, medido por el agrimensor José María Manso, el de la Ficha 001 (1825). Es el mojón n.º 3, atado a las casas de Antonia Rodríguez y de Gregorio Brandán.\nLuego, al SE corregido, 7856 varas hasta el mojón n.º 4, con visuales al finado Anastasio Gaute y a la casa del propio Celidonio Fernández. Esa casa, dice, «vulgarmente es conocida con el nombre de Atacama [?] de las chacras de Falcón». Es un topónimo vernáculo de un rancho, que convendría verificar en el original."
+  },
+  {
+   "titulo": "Folio 2 (vuelto)",
+   "img": "img/f/012/10.jpg",
+   "fuente": "IMG_6692.JPG",
+   "nota": "Una palabra testada tras «seis mil baras».",
+   "lineas": [
+    "jí el rumbo del sudueste correjido, y por el q[ual]",
+    "se midieron mil ochocient.^{s} treinta y ocho v.^{s} c[on]",
+    "cuya distancia despues de echa la correccion de [la]",
+    "cuerda di con el mojon de cabezeras del enfiteu[ta]",
+    "D. Jose Rodriguez, y desde este dirijí el rumbo [del]",
+    "sueste correjido, y por el d^{ho} seguimos midi[endo]",
+    "seis mil baras ~~[...]~~ y concluidas despues de echa [la]",
+    "correccion de la cuerda dimos exactamente [con]",
+    "el mojon de caveceras, y costado del Sueste d[el]",
+    "nominado Rodriguez, q.^{e} es el figurado con [el n.^{o}]",
+    "6., y desde el qual marqué la casa de D.^{a} Maria [Mar-]",
+    "fil cuya marcasion es por catorse g.^{s} en e[l 4.^{o} [?]]",
+    "quad.^{te} ygualm.^{te} desde d^{ho} marqué la casa de [D. Ci-]",
+    "riaco Monsalbo, la q.^{e} mora por setenta y [...]",
+    "g.^{s} en el 2.^{o} quad.^{te} y desde este punto dirijí [el]",
+    "rumbo del Norte cinco g.^{s} Oeste de la Aguja q[ue]",
+    "es la misma Linea de uno de los costados [del]",
+    "enfiteuta D. Guillermo Aguirre, y por d^{ha} [se mi-]",
+    "dieron siete mil setenta y quatro v.^{s} con c[uya]",
+    "distancia dimos exactamente con el mojon [de]",
+    "ntra. primer salida. La ^{+} figura q.^{e} forma [este]",
+    "terreno comprende una area de cincuenta [y]",
+    "tres millones quarenta y dos mil y ochoc[ientas]",
+    "var.^{s} superficiales q.^{e} reducidas en ord.^{n} de le[guas]",
+    "quadradas es una Legua mas dos mil sete[cientas]"
+   ],
+   "interpretacion": "Al SO corregido, 1838 varas hasta el mojón de cabeceras del enfiteuta José Rodríguez (n.º 5). Al SE corregido, 6000 varas justas hasta el mojón n.º 6 de Rodríguez, al que llega «exactamente», con visuales a las casas de María Marfil y Ciriaco Monsalvo.\nEl cierre combina los dos sistemas: «Norte 5° Oeste de la aguja, que es la misma línea de uno de los costados del enfiteuta D. Guillermo Aguirre». Son 7074 varas hasta el mojón de salida, casi las 7064 de la Ficha 011. La figura de seis lados encierra 53.042.800 v², es decir una legua cuadrada más 2734 varas de frente por una de fondo."
+  },
+  {
+   "titulo": "Folio 3 (recto)",
+   "img": "img/f/012/11.jpg",
+   "fuente": "IMG_6693.JPG",
+   "nota": "Foliatura «3». Firma autógrafa de Ysach.",
+   "lineas": [
+    "treinta y quatro v.^{s} de frente con una Legua de",
+    "fondo los Lind.^{s} de este terreno son p.^{r} el costado",
+    "del nordeste el propiet.^{o} D. Ramon Cané, y el en-",
+    "fiteuta D. Santiago Casco, por el costado del no-",
+    "rueste, el propiet.^{o} D. Santiago Casco, por el del",
+    "sudueste desde el mojon figurado n.^{o} 3., al 4. y 5.",
+    "lo es el propiet.^{o} segun el dise D. Bartolome",
+    "Saravi, y por el mismo costado desde el n.^{o} 5. al 6.",
+    "lo es el enfiteute D. Jose Rodriguez y del 6. al 1.",
+    "el nominado Aguirre con lo q.^{e} se concluyeron",
+    "estas dilig.^{s} sin opocision ni contradicion de par-",
+    "te alg.^{a} y en prueba de la verdad lo firman",
+    "con migo los Lind.^{s} é interesado y testig.^{s} de la",
+    "actuacion lo q.^{e} anoto p.^{r} diligencia = Ysach =",
+    "Por mí, y mi comp.^{o} y á ruego del Lindero D.",
+    "Jose Rodriguez Juan Maria Vermudez = Ramon",
+    "Cané = A ruego de D. Celidonio Fernandez por no",
+    "saberlo aser Fran.^{co} Jimenez de Paz = Jasinto",
+    "Bogarin = A ruego de D. Santiago Casco Jose Maria",
+    "Villanueva = Fernando Hernandez = Por concluidas",
+    "estas dilig.^{s} debuelbanse al Juzg.^{do} q.^{e} corresponden",
+    "p.^{a} su aprobacion Estancia de D. Celidonio Fer-",
+    "nandez en las Chacras de Falcon veinte y dos",
+    "de Septiembre de mil ochocientos veinte y seis",
+    "años.",
+    "Fran.^{co} Ysach [rúbrica]"
+   ],
+   "interpretacion": "La mensura tiene frente de 2734 varas y una legua de fondo. Los linderos son: NE, el propietario Ramón Cané y el enfiteuta Santiago Casco; NO, el propietario Santiago Casco; SO (3 a 5), el propietario Bartolomé Saraví «según él dice»; SO (5 a 6), el enfiteuta José Rodríguez; y de 6 a 1, Aguirre. Conviven propietarios y enfiteutas: es el mosaico de tenencia de 1826.\nSe cierra «sin oposición ni contradicción». Firma a ruego de Celidonio Fernández, «por no saberlo hacer», Francisco Jiménez de Paz. Fecha: estancia de Celidonio Fernández en las chacras de Falcón, 22 de septiembre de 1826. Firma y rúbrica de Francisco Ysach."
+  },
+  {
+   "titulo": "Folio 3 (vuelto)",
+   "img": "img/f/012/12.jpg",
+   "fuente": "IMG_6694.JPG",
+   "nota": "Tres textos: dictamen del D. T. (1827), copia de un decreto de Rosas (1838) y nota de Arenales (1839).",
+   "lineas": [
+    "Exmo. S^{r} = El Depart.^{to} topog.^{co} ha examinado la pre[sen-]",
+    "te mensura, y observa q.^{e} no hay una constancia de q.^{e} hay[an]",
+    "citados á ella los linderos D. Bartolomé Saravi y D. [Gui-]",
+    "llermo Aguirre, conforme está mandado, p.^{r} disposicio[nes]",
+    "[su]premas; p.^{r} lo q.^{e} cree el Depart.^{to} q.^{e} el Agrimensor [se]",
+    "halla en el caso de acreditar el haberlo hecho así [en]",
+    "con la oportunidad competente; y de no, en el de [re-]",
+    "[hacer] d^{ha} mensura á su costa, con arreglo á lo ordenado",
+    "p.^{r} el art. 14 de las instrucciones p.^{a} Agrimensores. —",
+    "B.^{s} A.^{s} Mayo 19 de 1827.",
+    "Copia de Superior decreto. —",
+    "\"Buenos aires Mayo once de mil ochocientos treinta",
+    "\" y ocho. — Visto este espediente, y con lo informado por el juez de Paz de S.^{n}",
+    "\" Antonio de Areco; usando el Gobierno de la facultad que le acuerda la",
+    "\" ley de 10 de mayo de 1836; vende á D.^{n} Pedro T. Rodriguez el terreno",
+    "\" que su apoderado D.^{n} Domingo Suares, ha solicitado comprar, cuya",
+    "\" superficie se espresa y determina en el informe del Departamento",
+    "\" Topografico datado á 25 de Enero ultimo, por la cantidad de",
+    "\" siete mil tresientos treinta y cinco pesos en que el mismo De-",
+    "\" partamento lo regula con arreglo á la precitada ley, y entregará",
+    "\" el comprador por tercias partes, &.^{a} &.^{a} &.^{a} — Rosas.",
+    "\" Manuel Insiarte.\" — Mayo 15 de 1838. Arenales [rúbrica]",
+    "Buenos aires Abril 24 de 1839. — Con ocasion de verificar con exacti-",
+    "tud las areas de los terrenos de esta Seccion, se ha hallado que el",
+    "resultante de estas diligencias es de 1,473; y por consiguiente la area",
+    "espresada en el informe de 25 de Enero de 1838 (1,467) es errada dando",
+    "seis milesimos de menos.",
+    "Arenales [rúbrica]"
+   ],
+   "interpretacion": "El 19 de mayo de 1827 el Departamento objeta que no consta que se haya citado a los linderos Bartolomé Saraví y Guillermo Aguirre «conforme está mandado». Ysach debe acreditarlo o rehacer la mensura «a su costa», según el art. 14 de las instrucciones para agrimensores.\nEl documento más importante es la copia del decreto del 11 de mayo de 1838. Visto lo informado por el juez de paz de San Antonio de Areco, y en uso de la ley del 10 de mayo de 1836, el Gobierno vende a Pedro T. Rodríguez, por medio de su apoderado Domingo Suárez, el terreno cuya superficie fijó el Departamento el 25 de enero, por 7335 pesos pagaderos en tres partes. Firman Rosas y Manuel Insiarte. La tierra enfitéutica de Celidonio Fernández pasa a propiedad de otra persona por la ley de venta de tierras públicas de Rosas.\nEn 1839 Arenales recalcula: el área real es 1,473 leguas², no 1,467 (seis milésimos menos)."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Celidonio Fernández (con «Explicación»)",
+   "img": "img/f/012/03.jpg",
+   "fuente": "IMG_6696.JPG",
+   "orientacion": "Lámina desplegada vertical; flor de lis con «Norte del Mundo» en diagonal.",
+   "interpretacion": "La leyenda repite el cierre del texto: «…millones cuarenta y dos mil y ochocientas varas superficiales, que en orden de legua cuadrada es una legua más dos mil setecientas treinta y cuatro varas de frente con legua de fondo, levantado por el agrimensor D. Francisco Ysach en el año de 1826». El hexágono se ve con los vértices numerados y las longitudes escritas sobre los lados: 3800 [?], 9826, 7856, 1838 y 6000 varas.\nHay casas dibujadas como ranchos con sombreado rojo (7 a 15) y manchas grises de lagunas dispersas. Se leen a lápiz nombres como «chacras de Falcón» y «Aguirre». Las líneas de visual punteadas unen los mojones con las casas: el plano muestra la red de observaciones.",
+   "referencias": [
+    [
+     "1.2.3.4.5.6",
+     "«es la figura que tiene este terreno»"
+    ],
+    [
+     "Manchas grises",
+     "Lagunas o bajos"
+    ],
+    [
+     "Norte del Mundo",
+     "Flor de lis (norte verdadero)"
+    ],
+    [
+     "Longitudes",
+     "9826 · 7856 · 1838 · 6000 · 3800 [?] · 7074 varas"
+    ]
+   ]
+  },
+  {
+   "titulo": "Plano: cuerpo del hexágono, visuales y firma",
+   "img": "img/f/012/04.jpg",
+   "fuente": "IMG_6697.JPG (lámina apaisada)",
+   "orientacion": "La misma lámina, girada.",
+   "interpretacion": "Se ven con claridad los ángulos de los vértices 4 y 5 («1838 v.», «6000 v.s»), el haz de visuales que sale del vértice 4, la firma «Fran.co Ysach» con rúbrica y el lado de cierre «7074 v.s». Hay cálculos a lápiz posteriores («1-273/10», «12170», «7779»).",
+   "referencias": []
+  },
+  {
+   "titulo": "Plano: vista del pliego completo",
+   "img": "img/f/012/05.jpg",
+   "fuente": "IMG_6695.JPG",
+   "orientacion": "Lámina entera desplegada.",
+   "interpretacion": "Vista de conjunto de la hoja, con la escala al pie.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "De la enfiteusis a la venta rosista",
+   "texto": "Es el hallazgo central de la carpeta. El terreno de enfiteusis de Celidonio Fernández (1826) se vende en 1838 por decreto de Rosas e Insiarte a Pedro T. Rodríguez, apoderado Domingo Suárez, por 7335 pesos en tres cuotas. La base es la ley del 10 de mayo de 1836 de venta de tierras públicas, con informe del juez de paz de Areco y tasación del Departamento (25/1/1838). Junto con la Ficha 011, donde la tierra de Aguirre pasa a Pascuala Romero, documenta en Giles la conversión de enfiteusis en propiedad bajo Rosas. El comprador no es el enfiteuta."
+  },
+  {
+   "titulo": "Las «chacras de falcón»",
+   "texto": "Es un topónimo nuevo en la serie. Hay que ubicarlo, con la casa de Fernández (vulgarmente «Atacama [?]») y las lagunas del plano, respecto de la Ficha 011: comparten el costado Aguirre-Fernández (7064/7074 v). ¿Qué fue Falcón: un antiguo poblador, una familia de chacareros?"
+  },
+  {
+   "titulo": "El ritual y el equipo",
+   "texto": "El equipo es el mismo que en 011: Bogarín (banderas), Fernando Hernández/Fernández (cordeladas), Vermúdez y un nuevo ayudante, Hipólito Munao [?] (estacas). Aquí el nombramiento se hace «según el estilo de ley», con aceptación de cargos. La reunión es en la casa del interesado. Firman a ruego Villanueva, Vermúdez y Jiménez de Paz: el interesado no sabía firmar. El Departamento exige constancia de citación de todos los linderos y amenaza con hacer rehacer la mensura a costa del agrimensor (art. 14 de las instrucciones)."
+  },
+  {
+   "titulo": "Rumbos y metrología",
+   "texto": "Aquí Ysach declara rumbos «corregidos» en cinco lados y usa la aguja para el cierre, alineado con Aguirre, sin decir la declinación. Superficie: 53.042.800 v² ≈ 3980 ha (1,473 leguas² según el recálculo de Arenales de 1839). La tasación de 1838 equivale a unos 5000 pesos por legua cuadrada."
+  },
+  {
+   "titulo": "Conexiones con otras fichas",
+   "texto": "José María Manso (Ficha 001) midió el terreno de Bartolomé Saraví. Los Saraví, Casco, Monsalvo y Marfil vuelven a aparecer (Fichas 005 y 009-011), igual que las casas de Anastasio Gaute y Juan Escobar (011). El lado N 5° O de la aguja es común con Aguirre. Arenales firma en 1838 y 1839."
+  },
+  {
+   "titulo": "Estado y lecturas dudosas",
+   "texto": "Fotos oscuras en el plano, con bordes derechos del texto cortados. Quedan dudosos «Atacama», «Munao», el grado de la visual a Ciriaco Monsalvo (54°) y el lado 2-3 (3800 v en el texto; en el plano se lee «3850 [?]»). Hay una discrepancia entre el texto (casa de Ciriaco Monsalvo) y el plano (n.º 7, «D.ª María Monsalbo»)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Quién era Pedro T. Rodríguez? ¿El Pedro Antonio Rodríguez, juez de paz de 1838 (Ficha 008), o un pariente? ¿Qué pasó con Celidonio Fernández al venderse el campo? ¿Se rehízo la citación de Saraví y Aguirre? ¿Hay un expediente de venta de 1838 en el AGN?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Celidonio Fernández",
+   "rol": "Enfiteuta",
+   "texto": "Tenía casa en las chacras de Falcón, conocida vulgarmente como «Atacama [?]», y no sabía firmar. Lindero de Aguirre en la Ficha 011. En 1838 la tierra se vendió a otra persona. Sin más datos.",
+   "fuentes": "Esta mensura; Ficha 011."
+  },
+  {
+   "nombre": "Francisco Ysach (Isach)",
+   "rol": "Agrimensor",
+   "texto": "Autor también de la Ficha 011 (1826) y de mensuras de 1838 para los Figueroa (Ficha 009). Usa la numeración de vértices y casas y el «Norte del Mundo». No se hallaron datos biográficos en línea.",
+   "fuentes": "Fichas 009, 011; esta mensura."
+  },
+  {
+   "nombre": "Juan Manuel de Rosas (1793-1877) · Manuel Insiarte",
+   "rol": "Gobernador y ministro (decreto de venta, 1838)",
+   "texto": "Rosas gobernó Buenos Aires con la suma del poder público entre 1835 y 1852. La ley del 10 de mayo de 1836 autorizó la venta de tierras públicas, muchas de ellas en enfiteusis. Insiarte firmaba como oficial mayor o ministro de Hacienda en esos decretos.",
+   "fuentes": "Conocimiento general; esta mensura."
+  },
+  {
+   "nombre": "Pedro T. Rodríguez · Domingo Suárez",
+   "rol": "Comprador (1838) y su apoderado",
+   "texto": "Rodríguez compró el terreno por 7335 pesos en tres cuotas y actuó por medio de su apoderado Suárez. Falta verificar su relación con el juez de paz Pedro Antonio Rodríguez (Ficha 008) o con el enfiteuta José Rodríguez.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "José Antonio Álvarez de Arenales",
+   "rol": "Departamento topográfico",
+   "texto": "Certifica la copia del decreto (15/5/1838) y recalcula el área en 1839. Ver las Fichas 008 y 010.",
+   "fuentes": "Fichas 008, 010."
+  },
+  {
+   "nombre": "Bartolomé Saraví · José María Manso",
+   "rol": "Lindero propietario y su agrimensor",
+   "texto": "Saraví reclamaba como suya la tierra al SO, medida por Manso (el agrimensor de la Ficha 001, 1825). Los Saraví/Sarabia son una familia recurrente (Fichas 004 y 005).",
+   "fuentes": "Fichas 001, 004, 005."
+  },
+  {
+   "nombre": "Ramón Cané · Santiago Casco · José Rodríguez · Guillermo Aguirre",
+   "rol": "Linderos (propietarios y enfiteutas)",
+   "texto": "Cané, propietario al NE, firma por sí. Casco es propietario al NO y enfiteuta al NE (se relaciona con los Casco de la Ficha 005). Rodríguez y Aguirre son enfiteutas (Ficha 011).",
+   "fuentes": "Esta mensura; Fichas 005, 011."
+  },
+  {
+   "nombre": "Jacinto Bogarín · Fernando Hernández · Juan María Vermúdez · Hipólito Munao [?] · José María Villanueva · Francisco Jiménez de Paz",
+   "rol": "Ayudantes, testigos y firmantes a ruego",
+   "texto": "Es el equipo de Ysach en 1826 más los firmantes a ruego. Sin más datos.",
+   "fuentes": "Esta mensura; Ficha 011."
+  },
+  {
+   "nombre": "Vecinos con casa",
+   "rol": "Referencias visuales",
+   "texto": "Anastasio Gaute (finado), Juan Escobar, Ciriaco y María Monsalvo, Joaquín León, Antonia Rodríguez, Gregorio Brandán y María Marfil.",
+   "fuentes": "Esta mensura."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/012/02.jpg",
+  "fuente": "IMG_6687.JPG",
+  "lineas": [
+   "67                    Giles  12",
+   "Secc.^{on} — Areco",
+   "Mensura del terreno",
+   "de",
+   "D.^{n} Celidonio Fernandez",
+   "practicada",
+   "por",
+   "el Agrimensor Ysach",
+   "en",
+   "28 de Junio de 1826.",
+   "[a lápiz, margen: palabra ilegible]"
+  ]
+ },
+ "titulo": "D. Celidonio Fernández (enfiteuta)",
+ "estado": "Transcripta (7 hojas, 166 renglones), 3 láminas"
+}

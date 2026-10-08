@@ -1,0 +1,374 @@
+{
+ "carpeta": "14",
+ "carpeta_nombre": "Carpeta 14",
+ "archivo": "Ficha 014 - Santiago Casco (1826).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Secc. Areco)",
+  "N.º de duplicado": "14",
+  "Propietario / solicitante": "D. Santiago Casco (enfiteuta)",
+  "Agrimensor": "Francisco Ysach",
+  "Año": "1826",
+  "Fecha de la diligencia": "Cargo 16/6/1826; mensura 19-21/9/1826; D. T. 10/5/1827; nota 1857",
+  "Ubicación": "Paraje «los Chañaritos»; cabeceras de las suertes del río de Areco",
+  "Orden judicial": "Expediente de enfiteusis",
+  "Vendedor / antecesor": "Tierra pública en enfiteusis, contigua a la propiedad de Casco",
+  "Linderos citados": "Frente: suertes del río de Areco (J. M. Pereyra) · NE: Ramón Cané · NO: Celidonio Fernández · SO: Casco",
+  "Medidas": "9800 / 1725 / 8500 v y frente escalonado",
+  "Rumbos": "Corregidos (SO, NO, NE); visuales por cuadrantes",
+  "Referencia de archivo": "Portadilla «N.º 72 – Giles 14 – Secc.n Areco»"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 1190 (15.837.500 v²)",
+  "hitos": "7 casas numeradas; mojón en la cañada de Laballén; frente escalonado",
+  "aguas": "Cañada de Laballén; cañada de la Paloma; lagunas; río de Areco (suertes)"
+ },
+ "sintesis": "Mensura de septiembre de 1826 del terreno que Santiago Casco pidió en enfiteusis junto a su propia estancia, «en el lugar llamado los Chañaritos», hecha por Francisco Ysach con su equipo juramentado (Bogarín, Hernández, Vermúdez, Munao). Es un rectángulo de 9800 × 1725 × 8500 varas con el frente escalonado contra las cabeceras de las suertes principales del río de Areco, «todas porciones disminuidas»: 15.837.500 v² (≈ 1190 ha). El mojón de arranque está en la «cañada llamada de Laballén» y el plano dibuja la «cañada de la Paloma». Linda con Ramón Cané, Celidonio Fernández (012) y la suerte de Juan Manuel Pereyra, con casas de Mariano Falcón (origen de las «chacras de Falcón»), Gaete, León, Monsalvo y Mallea. En 1827 el Departamento pide que Casco acredite su «calidad de lindero». En 1857 el cura de San Andrés de Giles pide 20 o 30 cuadras de este terreno (nota de Salas).",
+ "caratula": {
+  "img": "img/f/014/01.jpg",
+  "fuente": "IMG_6707.JPG",
+  "campos": [
+   [
+    "N.º",
+    "14"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Santiago Casco"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Isach"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1826"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 (recto)",
+   "img": "img/f/014/05.jpg",
+   "fuente": "IMG_6709.JPG",
+   "nota": "Sellos del Departamento Topográfico; foliatura «1». Letra del copista de las Carpetas 11-12 (misma serie Ysach 1826). Bordes derechos algo cortados.",
+   "lineas": [
+    "1 [foliatura; sellos del Departamento Topográfico]",
+    "En diez y seis de Junio del presente año me hise car-",
+    "go de este exp.^{te} en S.^{n} Ant.^{o} de Areco = Fran.^{co} Ysach = En bein-",
+    "te y ocho de d^{ho} mes y año pasé á tomar antesed.^{tes} á la",
+    "Comision Topografica y resultó no haver ning.^{o} particular",
+    "sobre este terreno y para constancia lo anoto por dili-",
+    "gencia = Ysach = Jasinto Bogarin = Juan M.^{a} Vermudez = En",
+    "tres de Sep.^{e} del presente año oficié á los Lind.^{s} de este ter-",
+    "reno q.^{e} p.^{r} el diez y nueve del presente mes hiva á dar",
+    "principio á esta mensura y q.^{e} compareciesen por sí",
+    "ó por apoderado p.^{a} ver si nos sobrepasabamos á la Li-",
+    "nea de su propiedad los q.^{e} comparecieron y en prueba de",
+    "la verdad lo firman con migo y testig.^{s} lo q.^{e} anoto por",
+    "diligencia = Ysach = Ramon Cané = A ruego de D. Celido-",
+    "nio Fernandez por no saberlo Juan Fran.^{co} Gimenez de Paz =",
+    "Jasinto Bogarin = Juan M.^{a} Vermudez = En diez y nue-",
+    "ve de d^{ho} mes y año hallandome en la casa de D. Santiago",
+    "Casco asociado de los Lind.^{s} y interesado y demas indivi-",
+    "duos necesarios p.^{a} la mensura pasé al punto ó mojon",
+    "del frente y costado del Sudueste del terreno de la pro-",
+    "piedad de D. Ramon Cané el qual mojon esta situado",
+    "en la Cañada llamada de Laballen q.^{e} es el figurado con",
+    "el num.^{o} 4., y hallandome en d^{ho} mojon desde el qual",
+    "marqué la casa de D. Jose Maria Gaete, cuya marcasi-",
+    "on es p.^{r} quarenta y cinco grad.^{s} en el 3.^{o} quad.^{te} ygual-",
+    "mente desde d^{ho} marq.^{e} la casa de D. Ramon Mallea"
+   ],
+   "interpretacion": "Misma secuencia de autos que en las Fichas 011 y 012. El 16 de junio de 1826 Ysach se hace cargo del expediente en San Antonio de Areco; el 28 consulta la Comisión Topográfica: «ningún particular sobre este terreno». El 3 de septiembre cita a los linderos para el 19, «para ver si nos sobrepasábamos a la línea de su propiedad»; firman Ramón Cané y, a ruego de Celidonio Fernández, Juan Francisco Giménez de Paz.\nEl 19 de septiembre, en la casa de Santiago Casco, arranca del mojón del frente y costado SO del terreno de Ramón Cané, «situado en la Cañada llamada de Laballén» (mojón n.º 4), con visuales a las casas de José María Gaete y Ramón Mallea. Es la primera mención de la cañada de Laballén: un curso de agua con nombre de familia (cf. José Clemente Laballén, Ficha 010, y el denunciante Lavallén de la Ficha 013)."
+  },
+  {
+   "titulo": "Folio 1 (vuelto)",
+   "img": "img/f/014/06.jpg",
+   "fuente": "IMG_6710.JPG",
+   "nota": "Borde derecho cortado por la encuadernación.",
+   "lineas": [
+    "la q.^{e} mora por veinte y dos g.^{s} en el 4.^{o} quad.^{te} en",
+    "este mismo Lugar pasé á nombrar de mis auxilia-",
+    "res desp.^{s} de haberles tomado el juram.^{to} de Ley prime[ro]",
+    "á D. Jasinto Bogarin p.^{a} dirijir la Linea de band.^{s}",
+    "á D. Fernando Hernandez p.^{a} contar las cordeladas",
+    "á D. Juan M.^{a} Vermudez y á D. Hipolito Muna[o]",
+    "p.^{a} apuntar las estacas de la cuerda y desde este pun-",
+    "to dirijí el rumbo del Sudueste corregido por el",
+    "qual se midieron nueve mil ochocientas v.^{s} y desp.^{s}",
+    "de echa la correccion de la cuerda dimos exactam.^{te}",
+    "con el mojon del fondo de D. Ramon Cané q.^{e} es el",
+    "figurado con el n.^{o} 3., cuya Longitud es la que de-",
+    "signan los titulos de su propiedad, y desde este",
+    "mojon marqué la casa de D. Celidonio Fernandez",
+    "la qual marcasion es p.^{r} treinta g.^{s} en el 2.^{o} qua[d.^{te}]",
+    "ygualm.^{te} desde este punto marqué la casa de D. Joa-",
+    "quin Leon, la q.^{e} mora por veinte y cinco g.^{s} en el",
+    "3.^{o} quad.^{te} y desde este dirijí el rumbo del Norueste",
+    "corregido p.^{r} el qual se midieron mil setecien[tas]",
+    "beinte y cinco v.^{s} sobre la Linea del Enfiteuta [D.]",
+    "Celidonio Fernandez con cuya dist.^{a} desp.^{s} de echa",
+    "la correccion de la cuerda dimos con la Linea [de]",
+    "la propiedad de D. Santiago Casco, y mojon del [de-]",
+    "nominado Fernandez q.^{e} es el figurado con el [n.^{o}]",
+    "2., desde el qual marqué la casa de D.^{a} Maria"
+   ],
+   "interpretacion": "Ysach nombra a sus auxiliares «después de haberles tomado el juramento de ley»: Jacinto Bogarín (línea de banderas), Fernando Hernández (cordeladas), Juan María Vermúdez e Hipólito Munao (estacas de la cuerda). Aquí «Munao» se lee con claridad, lo que confirma la lectura dudosa de 012. El juramento es un elemento del ritual que en 011-012 no se explicitaba.\nPrimer lado: SO corregido, 9800 varas «exactamente» hasta el mojón del fondo de Ramón Cané (n.º 3), «cuya longitud es la que designan los títulos de su propiedad». Visuales a las casas de Celidonio Fernández y Joaquín León. Luego NO corregido, 1725 varas sobre la línea del enfiteuta Celidonio Fernández hasta la línea de la propiedad del propio Casco (mojón n.º 2)."
+  },
+  {
+   "titulo": "Folio 2 (recto)",
+   "img": "img/f/014/07.jpg",
+   "fuente": "IMG_6711.JPG",
+   "nota": "En el margen superior asoma la «Nota del Departamento» de la hoja 4 (IMG_6717). «el Norueste» testado.",
+   "lineas": [
+    "[Mon]salbo la q.^{e} mora por sincuenta y quatro g.^{s} en el",
+    "4.^{o} quad.^{te} ygualm.^{te} desde este marqué la casa de D. Joa-",
+    "quin Leon, cuyo marcasion es por diez y ocho grad.^{s}",
+    "en el 2.^{o} quad.^{te} y desde este punto dirijí el rumbo del",
+    "Nordeste corregido por el qual se midieron ocho mil",
+    "quinientas var.^{s} y desp.^{s} de echa la correccion de la cu-",
+    "erda dimos con el mojon de caveseras de la suerte",
+    "principal del rio de Areco de D. Juan Man.^{l} Pereyra el qual",
+    "mojon es el figurado con el n.^{o} 1., y desde este marqué",
+    "la casa de D. Ramon Cané, cuya marcasion es por se-",
+    "tenta y cinco g.^{s} en el 2.^{o} quad.^{te} ygualm.^{te} desde d^{ho} punto",
+    "marqué la casa de D. Mariano Falcon cuya marcasi-",
+    "on es por beinte y cinco g.^{s} en el 1.^{o} quad.^{te} desde este",
+    "mojon baje asiendo escalones como se figura en el",
+    "plano por causa q.^{e} las suertes princ.^{s} del rio de Areco",
+    "q.^{e} lindan con el frente de este terreno todas son porcio-",
+    "nes disminuidas como se vé por su figura; siendo la",
+    "area de este terreno de quinse millones ochocientas tre-",
+    "inta y siete mil, y quinientas var.^{s} superficiales, que",
+    "reducidas á Legua quadrada son dos mil, y seiscientas",
+    "quarenta v.^{s} de frente con Legua de fondo los lindes",
+    "de este terreno son por el frente las cabeseras de las suer-",
+    "tes princ.^{s} del rio de Areco por el costado del nordeste el",
+    "propietario D. Ramon Cané, p.^{r} ~~el Norueste~~ el Enfiteuta",
+    "D. Celidonio Fernandez, p.^{r} el Sudueste el terreno de la"
+   ],
+   "interpretacion": "Desde el mojón 2, NE corregido, 8500 varas hasta «el mojón de cabeceras de la suerte principal del río de Areco de D. Juan Manuel Pereyra» (n.º 1), con visuales a las casas de Ramón Cané y de Mariano Falcón. Este Mariano Falcón da nombre a las «chacras de Falcón» de la Ficha 012.\nDesde allí el frente baja «haciendo escalones», porque las suertes principales del río de Areco que lindan con el frente «son todas porciones disminuidas». El frente escalonado del plano es la huella material de la fragmentación de las suertes ribereñas. Área: 15.837.500 v² = 2640 v de frente por una legua de fondo (≈ 1190 ha). Linderos: al frente, cabeceras de las suertes del río de Areco; NE, el propietario Ramón Cané; NO, el enfiteuta Celidonio Fernández; SO, la propiedad del mismo Casco."
+  },
+  {
+   "titulo": "Folio 2 (vuelto)",
+   "img": "img/f/014/08.jpg",
+   "fuente": "IMG_6712.JPG",
+   "nota": "Firma autógrafa de Ysach con gran rúbrica. Debajo, dictamen del Departamento de 1827 con enmiendas y testados; el final se pierde en el borde.",
+   "lineas": [
+    "propiedad del mismo enfiteuta D. Santiago Casco",
+    "con lo q.^{e} se concluyeron estas dilig.^{s} sin opocision",
+    "ni contradicion de parte alg.^{a} y en prueba de la",
+    "verdad lo firman con migo los Linderos, é inte-",
+    "resado, y testig.^{s} de la actuacion lo q.^{e} anoto p.^{r}",
+    "diligencia = Ysach = Jasinto Bogarin = Por mí,",
+    "y mi compañero Juan M.^{a} Vermudez = Ramon",
+    "Cané = A ruego de D. Celidonio Fernandez por no",
+    "saberlo Juan Fran.^{co} Gimenez de Paz = A ruego",
+    "de D. Santiago Casco Jose M.^{a} Villanueba = Fer-",
+    "nando Hernandez = Por concluidas estas dilig.^{s}",
+    "debuelvanse al Juzg.^{do} q.^{e} corresponde para su apro-",
+    "bacion. Estancia de D. Santiago Casco, en el",
+    "lugar llamado los Chañaritos veinte y uno de",
+    "Sept.^{e} de mil ochocientos beinte y seis años.",
+    "Fran.^{co} Ysach [firma y rúbrica]",
+    "[otra mano:] B.^{s} A.^{s} Mayo 10 de 1827.",
+    "El Depart.^{to} Topog.^{co} ha examinado la presente men-",
+    "sura, i observa q.^{e} el terreno medido no compone",
+    "una suerte de estancia; por lo q.^{e} opina el Dep.^{to}",
+    "q.^{e} antes de proceder á las ulteriores diligencias, debe el interesado",
+    "~~[...]~~ acreditar su calidad de lindero, [se-]",
+    "gun lo q.^{e} ordena el superior decreto de 27 de Ab[ril] [...]"
+   ],
+   "interpretacion": "La mensura cierra «sin oposición ni contradicción». Firman los linderos y testigos, entre ellos José María Villanueva a ruego de Casco. Lugar y fecha: «Estancia de D. Santiago Casco, en el lugar llamado los Chañaritos», 21 de septiembre de 1826. Es un topónimo nuevo (chañar: árbol espinoso del monte nativo) que sugiere un bosquecillo de chañares como marca del paraje.\nEl 10 de mayo de 1827 el Departamento observa que el terreno «no compone una suerte de estancia» y pide que, antes de seguir, el interesado acredite «su calidad de lindero», según el decreto superior del 27 de abril. Es la regla que daba preferencia al lindero para adquirir en enfiteusis los retazos menores que una suerte."
+  },
+  {
+   "titulo": "Hoja 4 · Nota del Departamento (1857)",
+   "img": "img/f/014/09.jpg",
+   "fuente": "IMG_6717.JPG",
+   "nota": "Letra de mediados de siglo; foliatura «4»; firma de Saturnino Salas.",
+   "lineas": [
+    "Nota del Departam.^{to} —                    [sello:] 4",
+    "El cura de S.^{n} Andres de Giles se presentó al",
+    "Gobierno en Julio de 1857, pidiendo en propiedad por",
+    "compra, ó en Arrendam.^{to} 20 ó 30 cuadras cuadrad.^{s}",
+    "de este terreno —",
+    "El D. T. informó con fha    de Septbre del",
+    "mismo Año 57 —",
+    "Salas [rúbrica]"
+   ],
+   "interpretacion": "Nota agregada treinta años después: en julio de 1857 el cura de San Andrés de Giles se presentó al Gobierno pidiendo «en propiedad por compra, o en arrendamiento, 20 o 30 cuadras cuadradas de este terreno». El Departamento informó en septiembre de 1857 (el día quedó en blanco). Firma Salas, presidente del Departamento desde 1855.\nEs un dato para la historia del pueblo: la parroquia buscaba tierra propia (¿chacra, quinta, cementerio?) en el antiguo campo enfitéutico de Casco. Hay que verificar si el terreno de Casco estaba entonces vacante o en poder del Estado."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano topográfico del terreno de Santiago Casco",
+   "img": "img/f/014/03.jpg",
+   "fuente": "IMG_6713.JPG",
+   "orientacion": "Pliego largo desplegado (girado 180° para leer el título); flor de lis «Norte del Mundo».",
+   "interpretacion": "Título: «Plano topográfico del terreno que D. Santiago Casco tiene en enfiteusis lindero con el de su propiedad, levantado por el agrimensor D. Francisco Ysach en el año de 1826». Es un rectángulo largo (vértices 1-4) con el rótulo «Santiago Casco» y el frente escalonado hacia las suertes del río de Areco. Tiene manchas azules de lagunas y casitas numeradas (5-11) con sus visuales punteadas.\nJunto al vértice 4 corre un curso de agua dibujado con línea ondulada: «Cañada de la Paloma». Es un dato de paisaje clave: la estancia «La Paloma» de la Ficha 006 tomaría su nombre de esta cañada. Al pie, la «Explicación» y una escala gráfica en varas.",
+   "referencias": [
+    [
+     "1.2.3.4",
+     "«es la figura que tiene este terreno»"
+    ],
+    [
+     "9 [?]",
+     "casa de D. Mariano Falcón"
+    ],
+    [
+     "11 [?]",
+     "casa de D. Ramón Cané (numerada «9» en la leyenda)"
+    ],
+    [
+     "Cañada de la Paloma",
+     "Curso de agua junto al vértice 4"
+    ],
+    [
+     "Escalones",
+     "Frente contra las suertes principales del río de Areco"
+    ],
+    [
+     "Manchas azules",
+     "Lagunas"
+    ],
+    [
+     "Costados",
+     "3-4: 9800 v · 2-3: 1725 v · 1-2: 8500 v"
+    ],
+    [
+     "Área",
+     "2640 v de frente con una legua de fondo"
+    ],
+    [
+     "Norte del Mundo",
+     "Flor de lis azul"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: frente escalonado, cañada de la Paloma y casas",
+   "img": "img/f/014/04.jpg",
+   "fuente": "IMG_6715.JPG",
+   "orientacion": "Lámina en posición apaisada; a la izquierda asoma la nota de 1857.",
+   "interpretacion": "Vista ampliada del sector del frente. Se ven los escalones que dibujan las cabeceras de las suertes ribereñas, la cañada de la Paloma con su línea sinuosa, las casas 2, 3, 10 y 11 con sus visuales y el rótulo «Santiago Casco».",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Toponimia nueva: los chañaritos, cañada de laballén, cañada de la paloma",
+   "texto": "La estancia de Casco está «en el lugar llamado los Chañaritos», un paraje nombrado por un monte de chañares. El mojón de arranque (de Ramón Cané) está «en la cañada llamada de Laballén», y el plano dibuja la «cañada de la Paloma». Estos nombres permiten anclar en el GIS dos cursos de agua secundarios. Laballén es un apellido presente en las Fichas 010 y 013; La Paloma es el nombre de la estancia de la Ficha 006. El paisaje se nombra con árboles, familias y aves."
+  },
+  {
+   "titulo": "Las suertes del río de areco y el frente escalonado",
+   "texto": "Casco mide su enfiteusis a espaldas de las suertes principales del río de Areco: el frente es la línea de sus cabeceras, y como esas suertes «son todas porciones disminuidas» el límite baja en escalones. Es una imagen precisa de la estructura colonial: suertes de estancia perpendiculares al río, subdivididas por herencia o venta, y detrás, las tierras de «pan llevar» y pastoreo en enfiteusis. Juan Manuel Pereyra es titular de una de esas suertes."
+  },
+  {
+   "titulo": "Red de 1826: ysach, casco, fernández, cané, aguirre, saraví",
+   "texto": "Con 011, 012 y 013 se arma un mosaico continuo. Casco (enfiteuta y propietario) linda con Celidonio Fernández (012), con Cané y con las suertes del río. Saraví (013) linda con Casco y Fernández, y Aguirre (011) linda con Fernández. Las casas-visuales se repiten (León, Monsalvo, Gaete/Gaute, Fernández, Cané). Mariano Falcón aparece como vecino con casa y explica el nombre «chacras de Falcón» (012). Esta densidad de nombres permite reconstruir el catastro de 1826 del sector entre el río de Areco y el arroyo de Giles."
+  },
+  {
+   "titulo": "Ritual: juramento, citación y firma a ruego",
+   "texto": "Los auxiliares prestan «el juramento de ley» antes de recibir sus cargos. La citación busca comprobar «si nos sobrepasábamos a la línea de su propiedad». Se reúnen en la casa del interesado. Firman a ruego por Fernández (Giménez de Paz) y por Casco (Villanueva): ninguno de los dos enfiteutas sabía firmar. El Departamento exige acreditar la «calidad de lindero» para retazos menores que una suerte (decreto del 27 de abril, probablemente de 1826 o 1827)."
+  },
+  {
+   "titulo": "La nota de 1857: el cura de giles pide tierra",
+   "texto": "Treinta años después, el cura de San Andrés de Giles pide al Gobierno entre 20 y 30 cuadras cuadradas de este terreno, en compra o arrendamiento, y Salas deja constancia del informe. Muestra que la tierra de Casco seguía siendo, al menos en parte, de dominio público en 1857, y que la parroquia buscaba dotarse de tierra. Conviene cruzarlo con los registros parroquiales y con la Ficha 008 (tierra del Santo)."
+  },
+  {
+   "titulo": "Estado, lecturas dudosas y preguntas",
+   "texto": "Fotos oscuras con buen contraste tras el procesado; bordes derechos cortados. Son dudosos «Mallea», la numeración de las casas 9-11 en la leyenda y el año del decreto del 27 de abril. Preguntas: ¿dónde están la cañada de Laballén y la de la Paloma en el plano de 1890? ¿Quién era Juan Manuel Pereyra? ¿Qué se resolvió sobre el pedido del cura en 1857? ¿Hubo venta rosista de esta enfiteusis, como en 012 y 013?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Santiago Casco",
+   "rol": "Enfiteuta y propietario lindero",
+   "texto": "Tenía estancia propia en el paraje de los Chañaritos y pidió en enfiteusis el terreno contiguo. No sabía firmar. Es lindero en las Fichas 012 y 013. Los Casco reaparecen con Angela Casco de Saraví (Ficha 005): la familia está emparentada con los Saraví.",
+   "fuentes": "Esta mensura; Fichas 005, 012, 013."
+  },
+  {
+   "nombre": "Francisco Ysach",
+   "rol": "Agrimensor",
+   "texto": "Tercera mensura suya de 1826 en la serie (011, 012, 014), con el mismo equipo, numeración de casas y «Norte del Mundo». Firma autógrafa con gran rúbrica.",
+   "fuentes": "Fichas 011, 012."
+  },
+  {
+   "nombre": "Ramón Cané",
+   "rol": "Propietario lindero",
+   "texto": "Propietario al NE, con mojón en la cañada de Laballén y casa con visual. Firma por sí. Sin más datos seguros; el apellido Cané es de familia porteña conocida.",
+   "fuentes": "Esta mensura; Ficha 012."
+  },
+  {
+   "nombre": "Mariano Falcón",
+   "rol": "Vecino con casa",
+   "texto": "Su casa sirve de visual. Probablemente dio nombre a las «chacras de Falcón» donde vivía Celidonio Fernández (Ficha 012).",
+   "fuentes": "Esta mensura; Ficha 012."
+  },
+  {
+   "nombre": "Juan Manuel Pereyra",
+   "rol": "Titular de una suerte principal del río de areco",
+   "texto": "Su mojón de cabeceras es el vértice 1. Sin más datos.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Saturnino Salas",
+   "rol": "Presidente del departamento topográfico",
+   "texto": "Firma la nota de 1857. Presidió el Departamento entre 1855 y 1875 (ver Ficha 009 y hallazgos transversales).",
+   "fuentes": "Fichas 007, 009."
+  },
+  {
+   "nombre": "Equipo y testigos",
+   "rol": "Auxiliares juramentados",
+   "texto": "Jacinto Bogarín, Fernando Hernández, Juan María Vermúdez, Hipólito Munao (lectura confirmada), Juan Francisco Giménez de Paz y José María Villanueva: el mismo grupo de 011-012.",
+   "fuentes": "Fichas 011, 012."
+  },
+  {
+   "nombre": "Vecinos con casa",
+   "rol": "Referencias visuales",
+   "texto": "María Monsalvo, Joaquín León, Celidonio Fernández, José María Gaete (¿el mismo linaje que el «finado Anastasio Gaute» de 011-012?) y Ramón Mallea [?].",
+   "fuentes": "Esta mensura; Fichas 011, 012."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/014/02.jpg",
+  "fuente": "IMG_6708.JPG",
+  "lineas": [
+   "N 72                    Giles",
+   "                                   14",
+   "Secc.^{n} Areco",
+   "Mensura del terreno",
+   "de",
+   "D.^{n} Santiago Casco",
+   "practicada por",
+   "El Agrimensor Ysac",
+   "en 3 de Septbre de 1826"
+  ]
+ },
+ "titulo": "D. Santiago Casco (enfiteuta)",
+ "estado": "Transcripta (5 hojas, 107 renglones), 2 láminas"
+}

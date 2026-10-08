@@ -1,0 +1,604 @@
+{
+ "carpeta": "20",
+ "carpeta_nombre": "Carpeta 20",
+ "archivo": "Ficha 020 - Eduardo Morgan (1856).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles y San Antonio de Areco (Secc. Areco)",
+  "N.º de duplicado": "20 (portadilla N.º 91)",
+  "Propietario / solicitante": "D. Eduardo Morgan",
+  "Agrimensor": "German (Germán) Kuhr",
+  "Año": "1856",
+  "Fecha de la diligencia": "6/10/1856; D. T. 28/10/1856; juez 14/3/1857",
+  "Ubicación": "Entre el arroyo de Suero y las suertes del río de Areco; lindero del campo ex Macome",
+  "Orden judicial": "Juez civil Dr. Manuel Rafael García (ago. 1856); aprobó Dr. Pablo Font",
+  "Vendedor / antecesor": "E. Sosa y S. Casco (1853); D. Flores y J. Casco (1854); Contreras y Cané (1855, ex Butterfield)",
+  "Linderos citados": "Matías Martínez · Pablo Falcón · hdros. de S. Casco · F. A. Casco · Natal Torres · Del Sar · Morgan (ex Macome)",
+  "Medidas": "4 fracciones: 9.163.497 + 3.000.000 + 1.500.000 + 1.050.000 v²",
+  "Rumbos": "Verdaderos; variación 11° 22' NE calculada por amplitudes del sol",
+  "Referencia de archivo": "«N.º 91 – San A. de Giles 20 – Secc.n Areco»; notas de 1866"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 1103 (14.713.497 v²)",
+  "hitos": "Mojón de Prat; estancia de Morgan; mojón de Falcón; bañado del arroyo",
+  "aguas": "Arroyos de Suero, Sosa, Laballén y Giles; suertes del río de Areco"
+ },
+ "sintesis": "Mensura de German Kuhr (6/10/1856) de cuatro fajas que Eduardo Morgan compró en 1853-55 a Sosa, Flores y Contreras-Cané, herederos de los Casco, junto al campo que ya tenía comprado a Macome (Ficha 002, mojón de Prat). Total 14.713.497 v² (≈ 1100 ha), cruzado por el arroyo de Suero. La tierra de Flores viene de los herederos de Suero e Hidalgo (1823). Kuhr es el primero que deja escritas las observaciones del sol para la declinación (11° 22'). Circular firmada, sin oposición. Aprobada en 1856-57. Hacia 1866 Miguel Duggan pide un sobrante.",
+ "caratula": {
+  "img": "img/f/020/01.jpg",
+  "fuente": "IMG_6771.JPG",
+  "campos": [
+   [
+    "N.º",
+    "20"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Eduardo Morgan"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "G. Kuhr"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1856"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 (recto) · Extracto de títulos (1-2): los Casco",
+   "img": "img/f/020/04.jpg",
+   "fuente": "IMG_6773.JPG",
+   "nota": "Sello del Departamento Topográfico (escudo) y foliatura «1». Letra de copista inclinada, bastante regular. «Lencina» se confirma en la hoja siguiente y en el plano.",
+   "lineas": [
+    "Estracto de los titulos de Don Eduardo Mor-",
+    "gan. —",
+    "1. Con f^{ha} 1^{o} de Diciembre de 1853 Don Eustaquio Sosa y su",
+    "legitima esposa Doña Susana Casco otorgan escritura",
+    "de venta á favor de Don Eduardo Morgan, de un ter-",
+    "reno de estancia compuesto de mil varas de frente",
+    "con tres mil de fondo sito en el partido de Giles el",
+    "cual lo hubieron en la forma siguiente: trescientas",
+    "cincuenta varas de frente con nueve mil de fondo por",
+    "compra que de ellas hizo Don Eustaquio Sosa á Don",
+    "Francisco Antonio Casco, como consta de la escritura que á",
+    "su favor otorgó, y por seiscientas cincuenta varas",
+    "de frente con todo el fondo que hubiese hasta encon-",
+    "trar las suertes principales del Rio de Areco, por",
+    "herencia que Doña Susana Casco recibió por fallecimien-",
+    "to de su Señor Padre Don Lazaro Casco como consta de",
+    "la hijuela de adjudicacion que le fue entregada ha-",
+    "llandose esta y aquella escritura presentes al tiempo",
+    "de este otorgamiento, y linda por el Norte con Don Da-",
+    "maso Flores, por el Sud con Don Francisco Antonio",
+    "Casco, por el Este con los mismos vendedores y por el",
+    "Oeste con Don Matias Martinez, ante el Juez de Paz",
+    "de Giles y testigos.",
+    "2. Con f^{ha} 29 de Agosto de 1845 escritura de venta otor-",
+    "gada por Doña Micaela Casco á favor de Don Carlos",
+    "Butterfield de un terreno compuesto de trescientas",
+    "cincuenta varas de frente, y tres mil de fondo, sito en el",
+    "partido de Giles, el cual hubo en la parte de herencia",
+    "que le cupo por fallecimiento de su Señora madre Do-",
+    "ña Maria Lencina de Casco como consta de la hijuela",
+    "de adjudicacion que le fue entregada, la que se halló",
+    "presente al otorgamiento, y linda por el Norte con Don",
+    "Damaso Flores, por el Sur con Doña Susana Casco",
+    "por el Este con Don Francisco Casco y por el Oeste con",
+    "las suertes principales del rio de Areco, ante el Juez //"
+   ],
+   "interpretacion": "«Extracto de los títulos de D. Eduardo Morgan», el comprador, que reúne por compra varias fajas de estancia.\n1) 1.º/12/1853: Eustaquio Sosa y su mujer Susana Casco le venden 1000 × 3000 v en Giles. Las tenían así: 350 v de frente por 9000 de fondo compradas por Sosa a Francisco Antonio Casco, y 650 v «con todo el fondo que hubiese hasta encontrar las suertes principales del río de Areco», heredadas por Susana de su padre Lázaro Casco (hijuela de adjudicación). Linda al N con Dámaso Flores, al S con Francisco Antonio Casco, al E con los vendedores y al O con Matías Martínez.\n2) 29/8/1845: Micaela Casco vende a Carlos Butterfield 350 × 3000 v que heredó de su madre María Lencina de Casco; linda al O con «las suertes principales del río de Areco». Es el mismo mecanismo de las Fichas 014 y 016: detrás de las suertes ribereñas, fajas heredadas y fragmentadas."
+  },
+  {
+   "titulo": "Folio 1 (vuelto) · Extracto (3-5): Butterfield, Cané y Flores",
+   "img": "img/f/020/05.jpg",
+   "fuente": "IMG_6774.JPG",
+   "nota": "«s» testada antes de «medio».",
+   "lineas": [
+    "// de Paz de Giles y testigos.",
+    "3. Con f^{ha} 26 de Enero de 1855, Don Carlos Butter-",
+    "field otorga escritura de donacion á favor de Doña",
+    "Manuela Cané y de su legitimo esposo Don Maria-",
+    "no Contreras del mismo terreno espresado en el",
+    "N^{o} 2 ante el Juez de Paz de Giles y testigos.",
+    "4. Con f^{ha} 5 de Febrero de 1855 Don Mariano Contreras",
+    "y su legitima esposa Doña Manuela Cané otorgan",
+    "escritura de venta á favor de Don Eduardo Mor-",
+    "gan, de un terreno de estancia compuesto de tres-",
+    "cientas cincuenta varas de frente con tres mil de",
+    "fondo que linda por el Norte y Este con el compra-",
+    "dor Morgan, por el Sud con Don Matias Martinez",
+    "y por el Oeste con las suertes principales del rio de",
+    "Areco. Ante el Juez de Paz de Giles y testigos.",
+    "5. Con f^{ha} 1 de Dic^{bre} de 1854. Don Damaso Flores",
+    "y su legitima esposa Doña Juana Casco, otorgan",
+    "escritura de venta á favor de Don Eduardo Morgan",
+    "de dos terrenos de estancia sitos entre los partidos",
+    "de Giles y San Antonio de Areco compuesto el uno",
+    "de dos mil varas de frente con cuatro mil ocho-",
+    "cientas cincuenta varas de fondo en el costado del",
+    "Sud y de cuatro mil doscientas noventa y cinco",
+    "en el costado del Norte, y el otro compuesto de qui-",
+    "nientas varas de frente con tres mil de fondo, cuyos",
+    "terrenos hubieron parte de ellos por compra que de",
+    "mayor cantidad de varas hizo Don Damaso Flores",
+    "á los herederos de Don Juan Francisco Suero y",
+    "Don Domingo Hidalgo por ~~s~~ medio de sus apodera-",
+    "dos Doctor Don Manuel Obligado, Don Dionisio",
+    "Hidalgo y Don Antonio Varas, como consta de la",
+    "escritura que á su favor otorgaron en Buenos ayres",
+    "á 20 de Setiembre de 1823, por ante el Escribano",
+    "publico Don José Cabral, cuyo testimonio se halló",
+    "presente á este otorgamiento; y el otro terreno lo hu-",
+    "bo Doña Juana Casco de Flores en la parte de heren-",
+    "cia que le corresponde por fallecimiento de su Se-",
+    "ñora madre Doña Maria Lencina de Casco, como",
+    "consta de la hijuela de adjudicacion que le fué en-",
+    "tregada, la que exhibió en este acto. Y linda el pri- //"
+   ],
+   "interpretacion": "3) 26/1/1855: Carlos Butterfield dona esa faja a Manuela Cané y a su marido Mariano Contreras. 4) 5/2/1855: Contreras y Cané la venden a Morgan (350 × 3000 v).\n5) 1.º/12/1854: Dámaso Flores y su mujer Juana Casco venden a Morgan dos terrenos «entre los partidos de Giles y San Antonio de Areco»: uno de 2000 v de frente por 4850 (S) y 4295 v (N) de fondo, y otro de 500 × 3000 v. El primero procede de la compra que Flores hizo en 1823 «a los herederos de D. Juan Francisco Suero y D. Domingo Hidalgo», por medio de sus apoderados Dr. Manuel Obligado, Dionisio Hidalgo y Antonio Varas (escritura del 20/9/1823, escribano José Cabral). Otra vez la merced de Suero e Hidalgo, la matriz de las tierras del pueblo de Giles (Fichas 004, 008, 017). El segundo es la herencia de Juana Casco de su madre María Lencina de Casco."
+  },
+  {
+   "titulo": "Folio 2 (recto) · Fin del extracto y citación de linderos",
+   "img": "img/f/020/06.jpg",
+   "fuente": "IMG_6775.JPG",
+   "nota": "Sello con foliatura «2». Al margen, «[Ger]man Kuhr / Agrimensor» (borde cortado).",
+   "lineas": [
+    "// mer terreno por el Norte con el comprador Don Eduar-",
+    "do Morgan, por el Sud con Don Carlos Butterfield",
+    "por el Este que es el frente, con los vendedores y por el",
+    "Oeste que es el fondo con los herederos de Don Santia-",
+    "go Casco y Don Pablo Falcon; y el segundo terreno lin-",
+    "da por el Sud y Oeste con el comprador Don Eduardo",
+    "Morgan, por el Norte con Don Rafael Torres y por el",
+    "Este con los vendedores. Ante el Juez de Paz de Giles y",
+    "testigos.",
+    "Nota. Todas estas escrituras fueron protocolizadas en",
+    "Buenos ayres por mandato del Señor Juez de 1^{a} Ins-",
+    "tancia en lo Civil Doctor Don Manuel Rafael Gar-",
+    "cia y con intervencion del Señor Agente Fiscal",
+    "en lo Civil, en el registro del escribano Publico Don",
+    "Adolfo Saldias, con f^{ha} 29 de Enero de 1856.",
+    "Citacion de linderos.",
+    "A los S.S. linderos.",
+    "[al margen:] [Ger]man Kuhr / Agrimensor",
+    "El agrimensor que suscribe habiendo con f^{ha}",
+    "de agosto pp^{do} recibido la comision del Juz-",
+    "gado de 1^{a} Instancia en lo civil del Señor Doc-",
+    "tor Don Manuel Rafael Garcia para medir el",
+    "Campo de Don Eduardo Morgan, previene á V^{d} q^{e}",
+    "va á dar principio á la mensura el lunes",
+    "seis del corriente, para que pueda V^{d}. siendo",
+    "lindero concurrir á ver si se sobrepasan los li- //"
+   ],
+   "interpretacion": "Linderos del terreno grande de Flores: al N el propio Morgan, al S Carlos Butterfield, al E (el frente) los vendedores y al O (el fondo) los herederos de Santiago Casco y Pablo Falcón. El chico: al N Rafael Torres. Todas las escrituras se protocolizaron en Buenos Aires el 29/1/1856 ante el escribano Adolfo Saldías, por orden del juez civil Dr. Manuel Rafael García: los títulos privados ante el juez de paz de Giles se convierten en escrituras públicas antes de la mensura.\nComienza la «Citación de linderos»: el agrimensor, comisionado en agosto por el juez García, avisa que empezará a medir «el lunes seis del corriente»…"
+  },
+  {
+   "titulo": "Folio 2 (vuelto) · Citación (fin) y firmas de los linderos",
+   "img": "img/f/020/07.jpg",
+   "fuente": "IMG_6776.JPG",
+   "nota": "Firma «Jerman Kuhr» (así, con J) dos veces, con rúbrica la segunda.",
+   "lineas": [
+    "// mites de su propiedad; á este fin es V^{d} convida-",
+    "do á asistir con sus titulos á la estancia de",
+    "Don Eduardo Morgan ó de no á inmediacio-",
+    "nes de los mojones que lo dividen de la propie-",
+    "dad que se vá á medir, indicando la casa don-",
+    "de nos aguardará para pasarle aviso en tiem-",
+    "po oportuno; en la inteligencia que de no con-",
+    "currir por sí ó por medio de apoderado le para-",
+    "ran los perjuicios que el derecho determina.",
+    "Siendo por ultimo necesario conservar constancia",
+    "de haberse practicado la presente diligencia",
+    "se servirá V. acusar recibo poniendo su fir-",
+    "ma á continuacion lo que si no pudiere hacer",
+    "será espresado por medio de testigos.",
+    "San Andres de Giles á",
+    "3 de Octubre de 1856",
+    "Jerman Kuhr.",
+    "Eustaquio Sosa = Damaso Flores = Domingo Sil-",
+    "va = a ruego de Don Matias Martinez = Marcelo",
+    "Montes = Por mi Señor Padre Don Pablo Falcon",
+    "Cecilio Falcon =",
+    "Nota. Los S.S. registrados anteriormente firma-",
+    "ron la citacion y se hallaron presentes en el",
+    "acto de la mensura, en sus respectivos limites.",
+    "Jerman Kuhr [rúbrica]"
+   ],
+   "interpretacion": "…para que el lindero vaya con sus títulos a la estancia de Morgan o a los mojones de su lindero, indique la casa donde esperará el aviso, y sepa que si no concurre por sí o por apoderado «le pararán los perjuicios que el derecho determina». Debe firmar el recibo o hacerlo por testigos. San Andrés de Giles, 3 de octubre de 1856.\nFirman: Eustaquio Sosa, Dámaso Flores, Domingo Silva, a ruego de Matías Martínez (que no sabía firmar) Marcelo Montes, y «por mi señor padre D. Pablo Falcón», Cecilio Falcón. Kuhr anota que todos firmaron la citación y estuvieron presentes en sus límites. Es la circular completa, el documento cuya falta anuló la mensura de Hidalgo en 1839 (Ficha 018)."
+  },
+  {
+   "titulo": "Folio 3 (recto) · Diligencia: arranque en el mojón de Prat y variación observada",
+   "img": "img/f/020/08.jpg",
+   "fuente": "IMG_6777.JPG",
+   "nota": "Sello con foliatura «3». Letra más cuidada y regular.",
+   "lineas": [
+    "= Diligencia de mensura =",
+    "En el partido de San Antonio de Areco á seis de Octubre de",
+    "mil ochocientos cincuenta y seis yo el agrimensor que",
+    "suscribe en virtud de la providencia del Señor Juez de",
+    "Primera Instancia en lo civil Doctor Don Manuel Ra-",
+    "fael Garcia, me trasladé acompañado por mi ayudan-",
+    "te Don Pedro Saubidet, los interesados, linderos y demas",
+    "personal necesario para la operacion al mojon del",
+    "Oeste del terreno principal de Don Eduardo Morgan",
+    "medido y amojonado por el agrimensor Don Ray-",
+    "mundo Prat cuyo punto señalado A en el plano to-",
+    "mé por punto de arranque, y observando el rumbo de esta",
+    "linea amojonada por Prat hallé Sud cincuenta y ocho",
+    "grados quince minutos Este magnetico de un com-",
+    "pas cuya variacion era de once grados veinte y dos",
+    "minutos Nord-Este, lo que dá el rumbo verdadero",
+    "Sud cuarenta y seis grados cincuenta y tres minutos Es-",
+    "te, en cuya linea medí cuatro mil trescientas cincuen-",
+    "ta y siete varas hasta el punto B donde hice colocar",
+    "un mojon. En seguida cuadré al rumbo Sud cua-",
+    "renta y tres grados siete minutos Oeste y medí dos",
+    "mil varas donde hice colocar otro mojon en el pun-",
+    "to C. En seguida cuadré al Norte cuarenta y seis",
+    "grados cincuenta y tres minutos Oeste y medí cua-",
+    "tro mil setecientas ochenta y ocho varas hasta la",
+    "linea divisoria de este campo con las suertes prin-",
+    "cipales del rio de Areco en cuyo punto D hice colo-",
+    "car otro mojon. Desde aquí tiré el rumbo Norte cincuen-",
+    "ta y cuatro grados treinta y nueve minutos Este en",
+    "cuya linea medí hasta el mojon E de Don Pablo Fal-",
+    "con mil seiscientas setenta y nueve varas, y ulti-",
+    "mamente medí hasta el mojon A al Norte cincuen-",
+    "ta y ocho grados siete minutos Este, que tambien es",
+    "propiedad de Falcon, trescientas sesenta y ocho va-",
+    "ras, con cuya operacion quedó deslindada la frac-",
+    "cion comprada á Don Damaso Flores de dos mil va- //"
+   ],
+   "interpretacion": "San Antonio de Areco, 6 de octubre de 1856. Kuhr, con su ayudante Pedro Saubidet, los interesados y linderos, arranca del mojón O del «terreno principal» de Morgan, «medido y amojonado por el agrimensor D. Raymundo Prat» (punto A). El terreno principal es el que Morgan compró a Macome: la Ficha 002 (Macome, 1846, Prat y Puig).\nTécnica nueva: observa el rumbo de la línea de Prat con la brújula, S 58° 15' E magnético, y aplica una variación de 11° 22' NE calculada por él (ver datos al pie del folio 4): rumbo verdadero S 46° 53' E. Mide la fracción de Flores: A–B 4357 v, B–C 2000 v, C–D 4788 v hasta la línea divisoria «con las suertes principales del río de Areco», D–E 1679 v hasta el mojón de Pablo Falcón y E–A 368 v."
+  },
+  {
+   "titulo": "Folio 3 (vuelto) · Fracciones de Sosa, de Flores (chica) y de Contreras",
+   "img": "img/f/020/09.jpg",
+   "fuente": "IMG_6778.JPG",
+   "nota": "Las letras de los puntos (B, C, F, G, H, I, K, L) van en mayúscula reforzada.",
+   "lineas": [
+    "// ras de frente y cuatro mil ochocientas cincuenta de",
+    "fondo en el costado del Sud, y cuatro mil doscientas",
+    "noventa y cinco en el costado del Norte y para cua-",
+    "drar mejor el terreno deslindé el costado BC á an-",
+    "gulo recto sobre los costados laterales dando á la su-",
+    "ma de estos la misma dimension de la suma segun",
+    "los titulos, lo que dejó el area inalterada y mejoró",
+    "la figura del campo, en lo que consintieron los inte-",
+    "resados y linderos. La area se compone de nueve mi-",
+    "llones ciento sesenta y tres mil cuatro cientas noventa",
+    "y siete varas cuadradas. En seguida me trasladé al",
+    "punto C y medí al rumbo Sud cuarenta y tres grados",
+    "siete minutos Oeste trescientas cincuenta varas has-",
+    "ta el punto F donde hice colocar un mojon y ademas",
+    "seiscientas cincuenta varas hasta el punto G donde",
+    "hice colocar otro mojon; en seguida cuadré en el pun-",
+    "to G al Sud cuarenta y siete grados veinte y tres mi-",
+    "nutos Este y medí hasta el punto H tres mil varas",
+    "donde hice colocar un mojon. En este punto cuadré",
+    "y medí al rumbo Norte cuarenta y tres grados",
+    "siete minutos Este mil varas hasta I y ademas",
+    "quinientas varas hasta el punto K donde hice",
+    "colocar un mojon. En seguida medí al rumbo",
+    "Norte cuarenta y siete grados veinte y tres mi-",
+    "nutos Oeste tres mil varas hasta el punto L",
+    "donde hice colocar un mojon, y finalmente",
+    "medí desde L hasta C al rumbo Sud cuaren-",
+    "ta y tres grados siete minutos Oeste quinien-",
+    "tas varas, con cuya operacion quedaron des-",
+    "lindadas 1^{a} la fraccion CGHI de mil varas",
+    "de frente con tres mil de fondo y su area de",
+    "tres millones de varas cuadradas comprada",
+    "á D^{n} Eustaquio Sosa, y la segunda fraccion de",
+    "quinientas varas de frente con tres mil de fondo",
+    "y su area de un millon quinientas mil varas",
+    "cuadradas comprada á Don Damaso Flores.",
+    "En seguida me trasladé al punto F y medí",
+    "al rumbo Norte cuarenta y seis grados cincuen-",
+    "ta y tres minutos Oeste tres mil varas hasta el //"
+   ],
+   "interpretacion": "Para «cuadrar mejor» el terreno de Flores, traza el lado BC a ángulo recto con los laterales, dándoles la suma de las longitudes del título: el área no cambia y la figura mejora, «en lo que consintieron los interesados y linderos». Área: 9.163.497 v².\nDesde C sigue la línea del frente (S 43° 7' O): 350 v hasta F y 650 más hasta G; luego 3000 v al S 47° 23' E hasta H, 1000 + 500 v al N 43° 7' E hasta K, 3000 v hasta L y 500 v de L a C. Quedan deslindadas la fracción CGHI (1000 × 3000 v, 3.000.000 v², comprada a Eustaquio Sosa) y la de 500 × 3000 v (1.500.000 v², comprada a Flores). Todas las fajas son rectángulos de rumbos perpendiculares, con 3000 v de fondo."
+  },
+  {
+   "titulo": "Folio 4 (recto) · Cierre, firmas y datos de la variación de la aguja",
+   "img": "img/f/020/10.jpg",
+   "fuente": "IMG_6779.JPG",
+   "nota": "Sello con foliatura «4». Firmas autógrafas de German Kuhr y Pedro Saubidet. La última cifra de la tabla (5° 2') se lee con dificultad.",
+   "lineas": [
+    "// punto M donde hice colocar un mojon, y cua-",
+    "dré al rumbo Norte cuarenta y tres grados",
+    "siete minutos Este midiendo trescientas cin-",
+    "cuenta varas hasta el punto N donde hice colo-",
+    "car otro mojon con cuya operacion quedó deslin-",
+    "dado el terreno CFMN comprado á Don Maria-",
+    "no Contreras y Doña Manuela Cané, compuesto",
+    "de trescientas cincuenta varas de frente y tres",
+    "mil de fondo y su area de un millon cincuen-",
+    "ta mil varas cuadradas, con lo que di por con-",
+    "cluida la operacion que se practicó sin oposicion",
+    "de ninguna clase por parte de los linderos, y cons-",
+    "ta el terreno total medido para Don Eduardo Mor-",
+    "gan de catorce millones setecientas trece mil cua-",
+    "tro cientas noventa y siete varas cuadradas igual",
+    "á seiscientas cincuenta y tres cuadras y dos mil",
+    "noventa y siete varas cuadradas, lo que pongo por",
+    "diligencia y firmo con mi ayudante.",
+    "German Kuhr [rúbrica]",
+    "Pedro Saubidet [rúbrica]",
+    "Los datos para el calculo de la va-",
+    "riacion de la aguja son:",
+    "Octubre 4 amplitud occidua observada   17° 00' S",
+    "\"    5    \"    ortiva    \"    5° 30' N",
+    "\"    6    \"    \"    \"    5° 2' N [?]",
+    "Examinada la anterior diligencia de mensura prac-",
+    "ticada por el agrimensor Don German Kuhr de",
+    "los terrenos de la propiedad de Don Eduardo //"
+   ],
+   "interpretacion": "Última fracción: F–M 3000 v y M–N 350 v, el terreno CFMN comprado a Contreras y Cané (350 × 3000 v, 1.050.000 v²). La operación se hizo «sin oposición de ninguna clase por parte de los linderos». Total para Morgan: 14.713.497 v² = 653 cuadras y 2097 v² (≈ 1100 ha). Firman Kuhr y su ayudante.\nAl pie, «los datos para el cálculo de la variación de la aguja»: amplitud occidua (ocaso del sol) observada el 4 de octubre, 17° 00' S; amplitud ortiva (orto) el 5 y el 6, 5° 30' N y 5° 2' N [?]. Es la primera vez en la serie que un agrimensor deja escritas las observaciones astronómicas con las que calculó la declinación (11° 22'): el método de las amplitudes del sol al salir y al ponerse, comparadas con la brújula."
+  },
+  {
+   "titulo": "Folio 4 (vuelto) · Dictamen, aprobación judicial y nota de sobrantes",
+   "img": "img/f/020/11.jpg",
+   "fuente": "IMG_6780.JPG",
+   "nota": "Firmas de Salas y Pico con rúbrica. El decreto del juez va entre comillas en el margen.",
+   "lineas": [
+    "// Morgan sitos en el partido de Giles y San Antonio",
+    "de Areco, el Departamento Topografico la encuen-",
+    "tra arreglada, y no tiene antecedente que se opon-",
+    "ga á la aprobacion judicial de ella.",
+    "Buenos Ayres Octubre 28 de 1856.",
+    "Salas [rúbrica]     Pico [rúbrica]",
+    "Buenos Ayres Marzo 14 de 1857",
+    "Con esta f^{ha} el S^{or} Juez de 1^{a} Instancia D^{r}",
+    "Font comunica á este Departamento el siguie-",
+    "nte Decreto: \"Buenos Ayres Marzo 14 de 1857.",
+    "\"Autos y vistos: de conformidad á lo expuesto",
+    "\"por el Agente Fiscal de lo Civil se aprueba en",
+    "\"cuanto haya lugar por derecho la mensura",
+    "\"practicada por el Agrimensor público Don Ger-",
+    "\"man Kuhr, para todo lo que interpone el Juz-",
+    "\"gado su autoridad por medio de este auto. En",
+    "\"su consecuencia remitase el expediente origi-",
+    "\"nal con el oficio de estilo al Departamento Topo-",
+    "\"grafico para los fines que son consiguientes,",
+    "\"fha y satisfechas las costas entreguese el presente",
+    "\"al interesado para su resguardo = Pablo Font\"",
+    "Es copia",
+    "Salas [rúbrica]",
+    "Nota = D^{n} Miguel Duggan pide en compra",
+    "unos sobrantes que dice existen \"dentro de",
+    "la area que linda p^{r} el Sur con D^{n} Fran^{co}",
+    "A. Casco y herederos de D^{n} Eduardo Morgan\""
+   ],
+   "interpretacion": "El Departamento Topográfico (Salas, Pico) encuentra la mensura «arreglada» y sin antecedentes que se opongan a su aprobación judicial (28/10/1856). El 14 de marzo de 1857 el juez de 1.ª instancia Dr. Pablo Font, de conformidad con el agente fiscal, la aprueba «en cuanto haya lugar por derecho» y manda remitir el expediente original al Departamento y entregar el duplicado al interesado. Salas certifica la copia.\nNota: Miguel Duggan pide en compra «unos sobrantes» que dice existen dentro del área que linda al S con Francisco A. Casco y «herederos de D. Eduardo Morgan» (Morgan ya había muerto)…"
+  },
+  {
+   "titulo": "Folio 5 (recto) · Notas de 1866 y posteriores",
+   "img": "img/f/020/12.jpg",
+   "fuente": "IMG_6786.JPG",
+   "nota": "Sello con foliatura «7» (las tomas 6781-6785 son el plano, plegado entre los folios). Letra rápida; varias lecturas dudosas en la segunda nota.",
+   "lineas": [
+    "por el Oeste con Falcon y D^{n} Tiburcio Casco, p^{r}",
+    "el Norte con D^{n} E. Morgan y D^{n} José Benitez [?] y",
+    "p^{r} el Este con el arroyo de Giles. —",
+    "El D. T. informó en Febrero 6 de 1866.",
+    "Salas [rúbrica]",
+    "Abril 5 [?] ... En la fecha se",
+    "informó al Juez D^{r} ... Gomez [?] ...",
+    "Torio [?] Villarino [?] en el juicio seguido",
+    "por la sucesion de Avelino [?] Martinez. —",
+    "Expediente 46 de Geodesia f^{s}. 310",
+    "Alcides Rocha [?] [rúbrica]"
+   ],
+   "interpretacion": "…y por el O con Falcón y Tiburcio Casco, al N con E. Morgan y José Benítez [?] y al E con el arroyo de Giles. El Departamento informó el 6 de febrero de 1866 (firma Salas). Otro irlandés, Duggan, busca sobrantes entre las fajas de los Casco: el mismo movimiento de denuncias de sobrantes de 1865-66 que en las Fichas 004, 005 y 007.\nUna nota posterior registra que se informó a un juez en el juicio sucesorio de un Martínez [?] y remite al «Expediente 46 de Geodesia, f. 310»; firma Alcides Rocha [?]."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de los terrenos de Eduardo Morgan (cuatro fracciones)",
+   "img": "img/f/020/03.jpg",
+   "fuente": "IMG_6781.JPG (detalle en IMG_6782; otras tomas 6783-6785)",
+   "orientacion": "Lámina a tinta y aguada gris, en recuadro; dos flechas de norte (magnético y verdadero, «var. 11° 22' E»); escala de transversales en varas; título y firma «G. H. Kuhr [?]».",
+   "interpretacion": "Título: «PLANO de los terrenos de D. Eduardo Morgan, sitos en los partidos de Giles y San Ant.º de Areco. El área de las cuatro fracciones, mensuradas en Octubre de 1856 por el agrimensor que suscribe, consta de catorce millones setecientas trece mil cuatrocientas noventa y siete varas cuadradas».\nLas fracciones, en gris, son fajas paralelas: la grande «comprado a D. Dámaso Flores – 9.163.497 v²», y a su lado las de Manuela Cané (1.050.000), Eustaquio Sosa (3.000.000) y Flores (1.500.000). Las cruza en diagonal el «Arroyo de Suero», dibujado con su bañado (trazos verdes). Aparecen también el «Arroyo de Sosa» y el «Arroyo de Laballén». Abajo, el gran «Terreno de D. Eduardo Morgan comprado a Macome», con la «Estancia de Morgan»; más allá, «Del Sar». Entre la faja de Cané y los herederos de Casco, un «Sobrante perteneciente a la testamentaría de D.ª María Lencina de Casco».",
+   "referencias": [
+    [
+     "Comprado a D. Dámaso Flores",
+     "9.163.497 v²; puntos A-B-C-D-E"
+    ],
+    [
+     "Comprado a D.ª Manuela Cané",
+     "1.050.000 v² (C-F-M-N)"
+    ],
+    [
+     "Comprado a D. Eustaquio Sosa",
+     "3.000.000 v² (C-G-H-I)"
+    ],
+    [
+     "Comprado a D. Dámaso Flores (chica)",
+     "1.500.000 v²"
+    ],
+    [
+     "Terreno de D. Eduardo Morgan comprado a Macome",
+     "El campo de la Ficha 002; «Estancia de Morgan»"
+    ],
+    [
+     "Arroyo de Suero",
+     "Cruza las fajas en diagonal, con bañado"
+    ],
+    [
+     "Arroyo de Sosa · Arroyo de Laballén",
+     "Cursos en los extremos del plano"
+    ],
+    [
+     "Sobrante de la testamentaría de D.ª María Lencina de Casco",
+     "Faja sin medir entre Cané y los Casco"
+    ],
+    [
+     "D. Matías Martínez · D. Natal Torres «comprado a Flores»",
+     "Linderos"
+    ],
+    [
+     "Herederos de D. Santiago Casco · D. Pablo Falcón",
+     "Linderos de fondo"
+    ],
+    [
+     "Del Sar",
+     "Lindero al S"
+    ],
+    [
+     "Flechas",
+     "Norte magnético y verdadero, var. 11° 22'"
+    ],
+    [
+     "Escala",
+     "Transversales, en varas"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "El empalme con la ficha 002: morgan compra el campo de macome",
+   "texto": "Kuhr arranca del mojón O del «terreno principal» de Morgan, «medido y amojonado por el agrimensor D. Raymundo Prat», y el plano lo rotula «Terreno de D. Eduardo Morgan comprado a Macome». Es el campo de la Ficha 002 (Jorge Macome, 1846, Prat y Puig). Entre 1846 y 1853 pasó de un británico a un irlandés, y Morgan lo agranda comprando las fajas vecinas de los Casco, Sosa y Flores. Es un caso claro de concentración de tierras en manos de estancieros británicos e irlandeses en los años 1850, cuando empieza la expansión del ovino."
+  },
+  {
+   "titulo": "Los casco y la merced de suero e hidalgo",
+   "texto": "Las fajas vendidas vienen de dos troncos: la herencia de Lázaro Casco y de María Lencina de Casco (hijas Susana, Micaela y Juana, casadas con Sosa, Flores; Francisco Antonio y Tiburcio Casco) y la compra de Dámaso Flores (1823) a los herederos de Juan Francisco Suero y Domingo Hidalgo. Aparece otra vez la merced Suero-Hidalgo (Fichas 004, 008, 017) y la familia Casco (Fichas 005, 014). El «sobrante» de la testamentaría de María Lencina de Casco, dibujado en el plano, es lo que Miguel Duggan pide en compra hacia 1866."
+  },
+  {
+   "titulo": "Técnica: declinación observada con el sol",
+   "texto": "Kuhr es el primero en la serie que registra cómo obtuvo la declinación: amplitudes del sol al ponerse (occidua, 4 de octubre) y al salir (ortiva, 5 y 6 de octubre), comparadas con la brújula. Obtiene 11° 22' NE y trabaja con rumbos verdaderos con minutos (S 46° 53' E, S 43° 7' O). Encaja en la serie: 11° 45' (Eguía, 1854), 11° 15' (1856, alturas iguales del sol, estancia de Guerrico) y 12° (Schuster, 1856). Además convierte el lado BC en perpendicular sin cambiar el área, con acuerdo de los linderos: «cuadrar» el campo es una operación negociada."
+  },
+  {
+   "titulo": "Ritual: citación escrita y firmada",
+   "texto": "La circular se conserva completa: aviso con fecha, obligación de concurrir con los títulos, advertencia de perjuicios, firma de recibo o testigos. Firman los linderos (Matías Martínez a ruego; Pablo Falcón por su hijo Cecilio). Kuhr certifica que todos estuvieron presentes. Contrasta con la mensura anulada de Hidalgo (Ficha 018), donde la circular se había perdido. En 1856 las escrituras privadas ante el juez de paz se protocolizan en Buenos Aires antes de medir."
+  },
+  {
+   "titulo": "Paisaje: arroyos de suero, sosa y laballén",
+   "texto": "El plano dibuja el arroyo de Suero cruzando en diagonal las fajas, con su bañado en verde, y en los bordes el «arroyo de Sosa» y el «arroyo de Laballén». Los nombres de los arroyos son apellidos de vecinos (Suero, Sosa, Laballén): la hidrografía se nombra por quien ocupa la tierra. La nota de 1866 menciona el arroyo de Giles como lindero E de los sobrantes. Las fajas de 350 a 2000 v de frente y 3000 v de fondo, detrás de las suertes del río de Areco, son el modelo de «estancia» de herencia fragmentada."
+  },
+  {
+   "titulo": "Estado, lecturas dudosas y preguntas",
+   "texto": "Transcripta completa (5 folios y plano). Dudosos: la tercera amplitud (5° 2'), las iniciales de la firma del plano, los nombres de la nota final (Benítez, Villarino, Martínez, Alcides Rocha). Preguntas: ¿cuándo compró Morgan el campo de Macome? ¿El arroyo de Suero de este plano es el mismo de la Ficha 010 (Posta de Figueroa)? ¿Qué resolvió el Gobierno sobre el sobrante que pidió Duggan? Con los rumbos verdaderos y la variación explícita, esta mensura es una de las más fáciles de georreferenciar."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Eduardo (Edward) Morgan",
+   "rol": "Propietario",
+   "texto": "Estanciero, probablemente irlandés; un sitio de genealogía irlandesa registra a un Edward Morgan casado con Catherine O'Farrell y Gariff. Compró el campo de Macome (Ficha 002) y entre 1853 y 1855 las fajas vecinas; había muerto hacia 1866 («herederos de D. Eduardo Morgan»). No se pudo confirmar que sea la misma persona.",
+   "fuentes": "Esta mensura; genealogiairlandesa.com, «Edward Morgan & Catherine O'Farrell y Gariff» (no se pudo abrir)."
+  },
+  {
+   "nombre": "German (Germán) Kuhr",
+   "rol": "Agrimensor público",
+   "texto": "Firma «Jerman/German Kuhr». Agrimensor público de apellido alemán, activo en 1856. Hay una calle German Kuhr en Llavallol (Lomas de Zamora), lo que sugiere un agrimensor conocido en la zona sur; no se hallaron datos biográficos. Deja escritas las observaciones del sol para la declinación.",
+   "fuentes": "Esta mensura; nomenclatura de calles de Llavallol."
+  },
+  {
+   "nombre": "Pedro Saubidet",
+   "rol": "Ayudante",
+   "texto": "Firma la diligencia como ayudante. Los Saubidet fueron una familia de origen francés vinculada luego a la agrimensura y a Areco; sin datos confirmados sobre este Pedro.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Raymundo Prat",
+   "rol": "Agrimensor anterior",
+   "texto": "Midió y amojonó el campo que Morgan compró a Macome (Ficha 002, «Prat y Puig», 1846).",
+   "fuentes": "Ficha 002."
+  },
+  {
+   "nombre": "Dámaso Flores · Juana Casco",
+   "rol": "Vendedores",
+   "texto": "Flores compró en 1823 tierras a los herederos de Suero e Hidalgo; su mujer heredó de María Lencina de Casco. Venden a Morgan en 1854.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Eustaquio Sosa · Susana Casco",
+   "rol": "Vendedores",
+   "texto": "Venden 1000 × 3000 v en 1853; Susana heredó de su padre Lázaro Casco. Sosa firma la citación.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Carlos Butterfield · Manuela Cané · Mariano Contreras",
+   "rol": "Cadena de la faja de micaela casco",
+   "texto": "Butterfield (británico, ya lindero de Macome en la Ficha 002) compra en 1845 y dona en 1855 a Manuela Cané y su marido, que venden a Morgan. Los Cané aparecen como linderos en la Ficha 014.",
+   "fuentes": "Esta mensura; Fichas 002, 014."
+  },
+  {
+   "nombre": "Lázaro Casco · María Lencina de Casco",
+   "rol": "Troncos de herencia",
+   "texto": "Padres de Susana, Micaela y Juana Casco. La testamentaría de María Lencina tiene un sobrante que figura en el plano.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Manuel Rafael García · Pablo Font",
+   "rol": "Jueces civiles",
+   "texto": "García comisiona la mensura (y figura en la Ficha 009, 1856); Font la aprueba en 1857.",
+   "fuentes": "Esta mensura; Ficha 009."
+  },
+  {
+   "nombre": "Saturnino Salas · Pedro Pico",
+   "rol": "Departamento topográfico",
+   "texto": "Firman el dictamen de 1856; Salas certifica la copia y el informe de 1866.",
+   "fuentes": "Fichas 004-006, 017."
+  },
+  {
+   "nombre": "Miguel Duggan",
+   "rol": "Denunciante de sobrantes",
+   "texto": "Pide en compra sobrantes junto a Morgan hacia 1866. Los Duggan fueron una familia irlandesa de estancieros de la zona de Areco y San Antonio.",
+   "fuentes": "Esta mensura; conocimiento general."
+  },
+  {
+   "nombre": "Linderos",
+   "rol": "Personas nombradas",
+   "texto": "Matías Martínez, Pablo y Cecilio Falcón (los Falcón de las «chacras de Falcón», Ficha 012), herederos de Santiago Casco (Ficha 014), Francisco Antonio y Tiburcio Casco, Natal/Rafael Torres, Domingo Silva, Marcelo Montes, José Benítez [?], Del Sar. Escribanos José Cabral (1823) y Adolfo Saldías (1856); apoderados Dr. Manuel Obligado, Dionisio Hidalgo y Antonio Varas.",
+   "fuentes": "Esta mensura."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/020/02.jpg",
+  "fuente": "IMG_6772.JPG",
+  "lineas": [
+   "N.º 91.  San A. de Giles        20",
+   "Secc.^{n} Areco",
+   "Mensura del terreno",
+   "de propiedad",
+   "D.^{n} Eduardo Morgan, en Giles y San",
+   "Antonio de Areco. y",
+   "practicada",
+   "por",
+   "el Agrimensor Kuhr",
+   "en 6 de Octubre de 1856.",
+   "[a lápiz, muy desvaído:] [...] fraccion de [...] Giles [?]"
+  ]
+ },
+ "titulo": "D. Eduardo Morgan",
+ "estado": "Transcripta (9 hojas, 267 renglones), 1 lámina"
+}

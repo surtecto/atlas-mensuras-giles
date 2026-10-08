@@ -1,0 +1,696 @@
+{
+ "carpeta": "7",
+ "carpeta_nombre": "Carpeta 7",
+ "archivo": "Ficha 007 - Lorenza La Madrid de Castro (1863).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Sección Areco); portadilla: «Villa de Luján»",
+  "N.º de duplicado": "7",
+  "Propietario / solicitante": "D.ª Lorenza La Madrid de Castro",
+  "Agrimensor": "Pedro Pico",
+  "Año": "1863",
+  "Fecha de la diligencia": "22 de septiembre de 1863 (informe D. T. 12/11/1863; auto judicial 4/12/1863)",
+  "Ubicación": "Entre la Cañada de la Cruz y el arroyo del Sauce, al E de las tierras de Monsalvo",
+  "Orden judicial": "División de la testamentaría de Juan Castro; juez de mensura Pedro Pablo Quevedo; aprobación Dr. Daniel María Cazón (4/12/1863)",
+  "Vendedor / antecesor": "Merced Dávila → Juan de Vergara (1635) → Leiva y Vergara → Díaz de Vivar → viuda de Manuel Castro (1804) → Juan Castro → testamentaría",
+  "Linderos citados": "NO: M. Dobarro, G. Jormy [?] · N: F. Maldonado, hered. de A. Monsalvo · NE: Pablo Affre · SE: N. Rodríguez, S. López, M. López de Montiel",
+  "Medidas": "2675 v = 2316,55 m (SO) / 2320 m (NE) × 6850 m (AB) / 6727,9 m (EDC); 5 franjas",
+  "Rumbos": "Corregidos: N 31° 37' O y S 58° 23' O; sin declinación explícita",
+  "Referencia de archivo": "«Sección Areco N.º 48 – Giles 7». D. T. 12/11/1863; notas 1865–66, 1929; copia 1938"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 1573 (15.726.718 m² = 0,5825 leguas²)",
+  "hitos": "ombú solo (N. Saavedra); sauces (P. del Sar); ombúes (J. Meguin); álamos (Ormachea); acacias (P. P. Quevedo); azoteas de L. La Madrid y N. Saavedra; mojones de Schuster",
+  "aguas": "Cañada de la Cruz y arroyo/cañada del Sauce (mojón E en su cauce)"
+ },
+ "sintesis": "Mensura y división (22/9/1863) de la testamentaría de Juan Castro por Pedro Pico, ex miembro del Departamento Topográfico: primera mensura métrica del corpus, 15.726.718 m² (≈1573 ha). El título remonta a una merced del gobernador Dávila al regidor Juan de Vergara (1635) y a Díaz de Vivar, que vendió en 1804 a la viuda de Manuel Castro. Cruzado por la Cañada de la Cruz y el arroyo del Sauce, el campo se divide en franjas para la viuda Lorenza La Madrid y grupos de hijos que unen sus partes «por convenio». Los vértices se avalizan con ombúes, sauces, álamos, acacias y azoteas. Aprobada por el Departamento (Salas, Moreno, Malaver, Benoit, Casagemas) y el juez Cazón; notas de sobrantes (1865-66), 1929 y copia del plano de 1938.",
+ "caratula": {
+  "img": "img/f/007/01.jpg",
+  "fuente": "IMG_6621.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "7"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Doña Lorenza La Madrid de Castro"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Pedro P. Pico"
+   ],
+   [
+    "Mes",
+    "Setiembre"
+   ],
+   [
+    "Año",
+    "1863"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO — Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 (recto)",
+   "img": "img/f/007/06.jpg",
+   "fuente": "IMG_6623.JPG (girada 90°)",
+   "nota": "Foliatura «1» en sello. Letra cursiva inclinada de Pedro Pico, regular y espaciada. Una pequeña mancha de tinta en el margen derecho.",
+   "lineas": [
+    "Extracto de los titulos de los herederos del",
+    "finado Don Juan Castro",
+    "En Buenos Ayres á veinte y tres de Julio de mil",
+    "ochocientos cuatro, ante el escribano Don",
+    "Juan José de Rocha, Don Pedro Diaz de",
+    "Vivar vendió á Doña Ramona Fredes [?] viu-",
+    "da de Don Manuel Castro, un terreno de",
+    "estancia compuesto de tres mil varas de fren-",
+    "te con siete mil novecientas de fondo, terre-",
+    "nos de Cabezadas [?], lindando al Norte con",
+    "los herederos de Don Domingo Monsalvo;",
+    "por el Sur con los que posee Don Leandro",
+    "Sosa; por el Este con los vendidos á Juan",
+    "José Leon, Gavino Juanes, y Cipriano Lopez;",
+    "y por el Oeste que es su frente con tierras",
+    "que fueron de Don Juan Bautista Suero —",
+    "Las tierras vendidas son parte de las que",
+    "en mayor porcion pertenecen al vendedor",
+    "por donacion que le hizo Doña Teodora de",
+    "Leiva y Bergara viuda de Don Manuel",
+    "de la Rubia, como heredera de Doña Juana",
+    "y Doña Antonia de Leiva y Bergara, quie-",
+    "nes lo fueron del Regidor Don Juan de",
+    "Bergara á quien las donó el Gobernador",
+    "Don Pedro Estevan Davila en diez de Di-",
+    "ciembre de mil setecientos [sic, ¿seiscientos?] treinta y cinco",
+    "por ante el escribano mayor de Gobierno",
+    "Don Alonso Agreda = Don Manuel Castro",
+    "y Doña Ramona Fredes tubieron cuatro",
+    "hijos, á saber: Don Juan, Doña Maria, Doña",
+    "Tomasa y Don José Castro quienes heredaron",
+    "el terreno por partes iguales de á setecientas",
+    "y cincuenta varas cada uno — Don Juan",
+    "Castro compró los terrenos á sus hermanas",
+    "Doña Tomasa y Doña Maria, teniendo enton-",
+    "ces reunidas dos mil doscientas y cincuenta"
+   ],
+   "interpretacion": "Es el extracto de títulos más profundo del corpus: remonta la tierra hasta el siglo XVII. En el origen está una merced del gobernador Pedro Esteban Dávila al regidor Juan de Vergara. El texto dice «mil setecientos treinta y cinco», pero Dávila gobernó Buenos Aires entre 1631 y 1637, así que debe tratarse de 1635 y de un error del copista. La tierra pasó a las herederas Juana y Antonia de Leiva y Vergara, luego a Teodora de Leiva y Vergara, viuda de Manuel de la Rubia, que la donó a Pedro Díaz de Vivar. Es la «línea de los de Vivar» que ya aparecía en la Ficha 004.\nEl 23 de julio de 1804 Díaz de Vivar vende a Ramona Fredes [?], viuda de Manuel Castro, una estancia de 3000 varas de frente por 7900 de fondo. Lindaba al N con los herederos de Domingo Monsalvo, al S con Leandro Sosa, al E con Juan José León, Gavino Juanes y Cipriano López, y al O (su frente) con tierras de Juan Bautista Suero, el linaje fundador. Sus cuatro hijos (Juan, María, Tomasa y José) heredan 750 varas de frente cada uno; Juan compra la parte de sus hermanas y reúne 2250 varas."
+  },
+  {
+   "titulo": "Folio 1 (vuelto)",
+   "img": "img/f/007/07.jpg",
+   "fuente": "IMG_6624.JPG (girada 90°)",
+   "nota": "Al margen, cifras de control a lápiz (2675, 775) que repiten las del texto.",
+   "lineas": [
+    "varas del terreno primitivo = Don Juan Cas-",
+    "tro, compró tambien doscientas doce varas",
+    "á Don José Elias Galvan marido de Doña",
+    "Apolinaria La Rosa; y doscientas trece va-",
+    "ras á Don Gregorio de la Rosa; ambas com-",
+    "pras en la Villa de Lujan á tres de Diciembre",
+    "de mil ochocientos veinte y ocho. Estas",
+    "cuatrocientas veinte y cinco varas son",
+    "parte de las setecientas cincuenta que",
+    "cupieron por herencia á Don José Castro",
+    "quien vendió á Don Ygnacio Gomez de quien",
+    "son descendientes Don Gregorio y Doña",
+    "Apolinaria La Rosa — Pertenecen pues á",
+    "la testamentaria de Don Juan Castro la",
+    "cantidad de dos mil seiscientas setenta",
+    "y cinco varas de frente con siete mil nove-",
+    "cientas de fondo del titulo primitivo, lo",
+    "mismo que constan del inventario hecho",
+    "despues del fallecimiento del referido Don",
+    "Juan Castro = Este terreno fue reparti-",
+    "do del modo siguiente: A la viuda Doña",
+    "Lorenza La Madrid setecientas setenta",
+    "y cinco varas __775__ varas: á Don Gregorio Castro",
+    "setecientas 700: y á los nueve hijos lla-",
+    "mados Erminda, Ciriaco, Lorenzo, Juan,",
+    "Gregoria, Salvador, Micaela, Marti-",
+    "niano, y Pedro Castro ciento treinta y",
+    "tres y un quinto varas á cada uno 133 1/5",
+    "por lo que se vé que el Contador se ha equi-",
+    "vocado levemente pues cada una de estas",
+    "partes ha debido ser ciento treinta y tres",
+    "y tres novenos de vara 133 3/9 varas = El terre-",
+    "no así repartido, la señora Doña Lorenza La",
+    "Madrid compró á su entenado (hijo politico)",
+    "Don Gregorio las setecientas varas de su heren-",
+    "cia materna, y á su hijo Lorenzo las ciento",
+    "treinta y tres varas y tres novenos de vara, de"
+   ],
+   "interpretacion": "Juan Castro completa su frente comprando en 1828, en la Villa de Luján, 212 varas a José Elías Galván (marido de Apolinaria La Rosa) y 213 a Gregorio de la Rosa. Son parte de las 750 varas que había heredado su hermano José, quien las vendió a Ignacio Gómez, antepasado de los La Rosa. La testamentaría tiene así 2675 varas de frente por 7900 de fondo.\nEl reparto sucesorio es un documento de historia familiar. La viuda, Lorenza La Madrid, recibe 775 varas; Gregorio Castro, hijo de un matrimonio anterior de Juan (su «entenado»), 700 de herencia materna; y los nueve hijos del segundo matrimonio (Erminda, Ciriaco, Lorenzo, Juan, Gregoria, Salvador, Micaela, Martiniano y Pedro) 133 1/5 varas cada uno.\nEl agrimensor corrige al contador de la sucesión: la parte debió ser 133 3/9 varas, porque 775 + 700 + 9 × 133,33 = 2675. Es una muestra del papel del agrimensor como verificador aritmético del proceso sucesorio. La viuda compra después la parte de Gregorio y la de su hijo Lorenzo, y reúne 1608 3/9 varas."
+  },
+  {
+   "titulo": "Folio 2 (recto)",
+   "img": "img/f/007/08.jpg",
+   "fuente": "IMG_6625.JPG (girada 90°)",
+   "nota": "Foliatura «2». Al margen izquierdo, cifra «1608 v 3/9» y una flecha a lápiz que señala el comienzo de la mensura.",
+   "lineas": [
+    "modo que, esta señora tiene mil seiscientas",
+    "ocho varas y tres novenos de vara, y los demas",
+    "herederos las cantidades ya dichas = Con",
+    "estas esplicaciones procederé á la descripcion",
+    "de la mensura del modo siguiente = Men-",
+    "sura = En el partido de San Andres de Giles",
+    "á los veinte y dos dias del mes de Septiembre",
+    "del año mil ochocientos sesenta y tres, yo el",
+    "Agrimensor que suscribe comisionado para",
+    "medir y repartir el terreno de la testamentaria",
+    "del finado Don Juan Castro; habiendo citado",
+    "á los vecinos linderos al terreno por medio de",
+    "la circular de costumbre, tomé por punto",
+    "de arranque el mojon letra A del plano acom-",
+    "pañado, esquinero Este del terreno y Sur del",
+    "de Don Manuel Dobarro; y en presencia",
+    "del Señor Juez de mensura Don Pedro Pablo",
+    "Quevedo, de los señores Castros interesados, de",
+    "Don Manuel Dobarro, Don Pablo Affre,",
+    "Don Estanislao Rodriguez representando á su señora",
+    "madre Doña Norberta Rodriguez, de Doña",
+    "Maria Lopez de Montiel; de Don",
+    "Santiago Lopez y demas personas nece-",
+    "sarias para el trabajo, tomé desde el punto A",
+    "las demarcaciones siguientes: Ombú solo en el",
+    "Campo de Doña Narcisa Saavedra Sur sesenta",
+    "y ocho grados cincuenta y dos minutos al Este",
+    "S 68° 52' E; Sauces del finado Don Pedro del Sar",
+    "Norte doce grados veinte y tres minutos al Oeste",
+    "N 12° 23' O; y Ombues de José Meguin [?] Norte vein-",
+    "te y cuatro grados cuarenta y tres minutos al",
+    "Oeste N 24° 43' O. — Desde este mismo punto",
+    "puse el rumbo Norte treinta y un grados",
+    "treinta y siete minutos al Oeste rumbo corregido",
+    "como lo son los anteriores y los demas que se",
+    "mencionen N 31° 37' O rumbo de los mojones exis-",
+    "tentes en este costado del terreno, y empecé"
+   ],
+   "interpretacion": "Comienza la mensura el 22 de septiembre de 1863. Pedro Pico está «comisionado para medir y repartir»: es una mensura divisoria, no sólo de deslinde. Cita a los linderos «por medio de la circular de costumbre», una fórmula que muestra la rutina ya asentada del procedimiento. Aparece una figura nueva: el «Juez de mensura», Pedro Pablo Quevedo, además de los interesados (los Castro), los linderos Dobarro y Affre, Estanislao Rodríguez por su madre Norberta, María López de Montiel, Santiago López «y demás personas necesarias para el trabajo» (peones, cadeneros).\nEl mojón A se avaliza con tres referencias vegetales, algo inédito en el corpus: un «ombú solo» en el campo de Narcisa Saavedra, los «sauces» del finado Pedro del Sar y los «ombúes» de José Meguin [?]. El paisaje de referencia ya no son sólo casas: son árboles plantados o aislados, hitos visibles a gran distancia en la llanura. Los rumbos se dan en grados y minutos «corregidos», siguiendo los mojones existentes (N 31° 37' O)."
+  },
+  {
+   "titulo": "Folio 2 (vuelto)",
+   "img": "img/f/007/09.jpg",
+   "fuente": "IMG_6626.JPG (girada 90°)",
+   "nota": "Las distancias se dan en metros y decímetros: primera mensura métrica del corpus.",
+   "lineas": [
+    "á medir, deslindando á la derecha con Doba-",
+    "rro — y á los mil setecientos treinta y dos",
+    "metros, puse un mojon, á los tres mil dos",
+    "cientos cincuenta y seis metros dos decimetros",
+    "encontré la Cañada de la Cruz y empezé á",
+    "deslindar á la derecha con Don Geronimo",
+    "Jormy [?]; á los tres mil cuatrocientos sesenta y",
+    "cuatro metros puse otro mojon, cerca de otro",
+    "en la costa de la Cañada; á los cinco mil",
+    "ciento noventa y seis metros encontré otro mo-",
+    "jon; á los cinco mil ochocientos setenta y un",
+    "metros cinco decimetros pasé el arroyo del",
+    "Sauce; y á los seis mil ochocientos cincuenta",
+    "metros llegué al mojon B esquinero Norte",
+    "de este terreno, Oeste del de Jormy [?], y los",
+    "terrenos de los herederos de Monsalvo = Des-",
+    "de este punto tomé las demarcaciones",
+    "siguientes: Azotea de la señora La Madrid",
+    "Sur cuatro grados treinta y un minutos al",
+    "Este S 4° 31' E; Ombues de José Meguin [?] Sur",
+    "cincuenta y un grados treinta y dos minutos",
+    "al Este S 51° 32' E — y azotea de Don Norberto [?]",
+    "Saavedra Sur setenta y siete grados veinte",
+    "y nueve minutos al Este S 77° 29' E — Vuelto",
+    "al punto A establecí el rumbo perpendi-",
+    "cular al anterior costado, á saber, Sur cin-",
+    "cuenta y ocho grados veinte y tres minutos",
+    "al Oeste, rumbo que está conforme [?]",
+    "hacia la parte opuesta, y empezé á",
+    "medir el frente del fondo de este terreno",
+    "deslindando á la izquierda con terreno",
+    "de la señora Montiel. A los trescien-",
+    "tos cuarenta y seis metros cuatro decime-",
+    "tros puse un mojon deslindando á tres",
+    "herederos Ciriaco, Juan, y Salvador que por",
+    "convenio general tomaron sus partes así",
+    "unidas y en el orden indicado. Desde este",
+    "mojon se empezó á poner el terreno de"
+   ],
+   "interpretacion": "El costado NE corre 6850 metros de A a B. Deja un mojón a 1732 m, encuentra la Cañada de la Cruz a 3256,2 m (desde allí linda con Gerónimo Jormy [?]), pone otro mojón a 3464 m cerca de uno viejo en la costa de la cañada, encuentra otro a 5196 m, cruza el arroyo del Sauce a 5871,5 m y llega a B, esquina con los herederos de Monsalvo.\nEl vértice B se avaliza con la «azotea» de la señora La Madrid, los ombúes de Meguin [?] y la «azotea» de Norberto [?] Saavedra. La azotea, un techo plano de ladrillo, identifica casas de material, más sólidas que los ranchos: es un indicador de consolidación del poblamiento hacia 1860.\nLuego, desde A y en perpendicular (S 58° 23' O), empieza la división interna. Los primeros 346,4 m son para Ciriaco, Juan y Salvador Castro, que «por convenio general tomaron sus partes así unidas»: los hermanos prefieren una fracción común antes que tres franjas estrechas e inviables."
+  },
+  {
+   "titulo": "Folio 3 (recto)",
+   "img": "img/f/007/10.jpg",
+   "fuente": "IMG_6627.JPG (girada 90°)",
+   "nota": "Foliatura «3». Una palabra enmendada (sesenta sobre setenta) en la penúltima parte.",
+   "lineas": [
+    "la señora viuda que consta de mil seiscientas",
+    "ocho varas y tres novenos que hacen mil tres-",
+    "cientos noventa y dos metros ocho decimetros",
+    "los cuales medí y á su final se puso un mojon;",
+    "En el mismo rumbo vienen luego los dos",
+    "herederos menores Martiniano y Pedro",
+    "Castro para quienes se midieron juntos",
+    "doscientos treinta metros nueve decimetros, y",
+    "se puso un mojon. En seguida estan los",
+    "tres herederas, Erminda, Gregoria y",
+    "Micaela, y en ese orden se pusieron",
+    "juntos midiendo trescientos cuarenta",
+    "y seis metros cuatro decimetros y se puso",
+    "el mojon esquinero Sur letra C por comple-",
+    "tarse aquí el terreno de la testamentaria",
+    "igual á dos mil seiscientas setenta y cinco",
+    "varas iguales á dos mil trescientos diez y seis",
+    "metros cinco decimetros 2675^{v} = 2316.^{m}55. —",
+    "Desde el punto C tomé las demarcaciones si-",
+    "guientes: Azotea de Doña Lorenza La Madrid",
+    "Norte diez y ocho grados diez y ocho minutos",
+    "al Oeste; punta de los álamos de Ormachea",
+    "Norte treinta y nueve grados once minutos al",
+    "Oeste; y Acacios de Don Pedro Pablo Quevedo",
+    "Norte ochenta y tres grados cuarenta minu-",
+    "tos al Oeste = Trasladado al costado Nordeste",
+    "del terreno en el mojon puesto á los tres mil",
+    "cuatro cientos ~~setenta~~ sesenta y cuatro metros",
+    "3464 m.^{s} desde el punto A, puse el rumbo Sur",
+    "cincuenta y ocho grados veinte y tres minu-",
+    "tos al Oeste é hize igual amojonamien-",
+    "to de subdivision que habia hecho antes",
+    "poniendo el mojon costanero D. al final",
+    "de los dos mil trescientos diez y seis metros",
+    "cinco decimetros del ancho de este Campo."
+   ],
+   "interpretacion": "La viuda recibe 1392,8 m (1608 3/9 varas), los menores Martiniano y Pedro juntos 230,9 m y las tres hermanas Erminda, Gregoria y Micaela 346,4 m. Así se completa el ancho de 2675 varas = 2316,55 m, lo que da una equivalencia implícita de 0,866 m por vara. En el vértice C se plantan tres visuales: la azotea de Lorenza La Madrid, la «punta de los álamos de Ormachea» (Ormachea ya era vecino de Riestra en la Ficha 006) y los «acacios» del propio juez de mensura Pedro Pablo Quevedo.\nÁlamos, acacias, sauces y ombúes: es un paisaje arbolado por la mano humana, con montes y cortinas plantadas que sirven de referencia geodésica. Pico traslada luego la subdivisión al mojón de 3464 m (junto a la Cañada de la Cruz) y repite la partición, dejando el mojón «costanero» D sobre la cañada. Así cada franja queda dividida también en dos partes a uno y otro lado del agua."
+  },
+  {
+   "titulo": "Folio 3 (vuelto)",
+   "img": "img/f/007/11.jpg",
+   "fuente": "IMG_6628.JPG (girada 90°)",
+   "nota": "Letras de mojón (C, D, B, E) escritas en tinta más gruesa para remitir al plano.",
+   "lineas": [
+    "En seguida prolongué la linea CD paralela",
+    "á la AB hasta encontrar los mojones del",
+    "Campo de Don Francisco Maldonado, y los",
+    "herederos de Don Antonio Monsalvo, puestos",
+    "por el finado agrimensor Don Teodoro Schus-",
+    "ter — Pasé luego al mojon B, y por los",
+    "mojones de Monsalvo y Maldonado puse",
+    "el rumbo Sur cincuenta y un [?] grados trein-",
+    "ta y dos minutos al Oeste. No siendo este",
+    "rumbo perpendicular al de los costados",
+    "calculé que este frente al Noroeste debia tener",
+    "tres metros cinco decimetros mas que el fren-",
+    "te al Sueste; y arreglado á esta diferencia",
+    "procedí á medir del modo siguiente: A los",
+    "trescientos cuarenta y siete metros tres decime-",
+    "tros puse un mojon para los tres herederos",
+    "Ciriaco, Juan, y Salvador Castro: desde aquí",
+    "medí mil trescientos noventa y cuatro me-",
+    "tros tres decimetros y puse un mojon para",
+    "el terreno de la señora viuda; á los dos",
+    "cientos treinta y un metros dos decimetros",
+    "puse otro mojon para el terreno de los here-",
+    "deros menores Martiniano y Pedro; y á",
+    "los trescientos cuarenta y siete metros tres",
+    "decimetros mas puse el mojon de las tres",
+    "herederas Erminda, Gregoria, y Micaela",
+    "Castro, letra E; llegando á ponerme en la",
+    "enfilacion de la linea CD exactamente",
+    "con la distancia de BE igual á dos mil",
+    "trescientos veinte metros, cayendo este punto",
+    "E en el mismo cauce del Arroyo del Sauce por",
+    "lo que no se avalizó como los demas —",
+    "Desde E al Sur treinta y un grados treinta y"
+   ],
+   "interpretacion": "Pico prolonga la línea CD, paralela a AB, hasta los mojones que el «finado agrimensor Don Teodoro Schuster» había dejado en los campos de Maldonado y de los herederos de Antonio Monsalvo. Es una prueba de la acumulación de mensuras: cada operación se apoya en los mojones de la anterior, y aparece un nuevo agrimensor en la red, Schuster, ya fallecido en 1863.\nComo el frente NO (rumbo de los mojones de Schuster) no es perpendicular a los costados, Pico calcula que debe ser 3,5 m más largo que el frente SE y reparte la diferencia proporcionalmente: 347,3 + 1394,3 + 231,2 + 347,3 = 2320 m, contra los 2316,55 m del frente opuesto. El vértice E cae «en el mismo cauce del arroyo del Sauce», por lo que no puede avalizarse: el agua borra el punto fijo."
+  },
+  {
+   "titulo": "Folio 4 (recto)",
+   "img": "img/f/007/12.jpg",
+   "fuente": "IMG_6629.JPG (girada 90°)",
+   "nota": "Foliatura «4». Firma de Pedro Pico con rúbrica; nota final con nueva firma «Pico». Una marca «Sc/» a lápiz en el ángulo inferior.",
+   "lineas": [
+    "y siete minutos al Este deslindando á la derecha",
+    "con Don Pablo Affre empezé á medir la linea",
+    "EDC, y á los mil setecientos treinta y dos metros",
+    "puse un mojon; á los tres mil doscientos sesenta",
+    "y tres metros nueve decimetros llegué al mojon D;",
+    "á los cinco mil veinte y dos metros ocho deci-",
+    "metros llegué á la Cañada de la Cruz; á los",
+    "cinco mil ciento cincuenta y dos metros siete de-",
+    "cimetros puse un mojon; y á los seis mil sete",
+    "cientos veinte y siete metros nueve decime-",
+    "tros llegué al mojon C, donde cerré la men-",
+    "sura sin oposicion de parte de los linderos. —",
+    "La superficie del terreno medido es igual á",
+    "quince millones setecientos veinte y seis",
+    "mil setecientos diez y ocho metros cua-",
+    "drados que hacen cinco mil ocho",
+    "cientos veinte y cinco diez milesimos",
+    "de una legua cuadrada",
+    "Pedro Pico [rúbrica]",
+    "Nota. El arrumbamiento de la linea AB sobre",
+    "el cual se basan los demas, es exactamente",
+    "paralelo al establecido por el",
+    "infrascripto en las mensuras contiguas",
+    "á la presente, de Doña Faustina [?]",
+    "Saavedra, herederos de Don Lorenzo",
+    "Saavedra, y herederos del finado Don",
+    "Pedro del Sar hoy D. Geronimo Jormy [?]",
+    "Pico [rúbrica]"
+   ],
+   "interpretacion": "El costado SO (línea EDC) se mide desde E, lindando con Pablo Affre. Tiene un mojón a 1732 m, el mojón D a 3263,9 m, la Cañada de la Cruz a 5022,8 m, otro mojón a 5152,7 m y cierra en C a 6727,9 m «sin oposición de parte de los linderos».\nLa superficie es de 15.726.718 m² (≈1573 ha), expresada también como 0,5825 leguas cuadradas: la legua cuadrada de 5196 m de lado (6000 varas) sigue siendo la unidad de pensamiento aunque la medida sea métrica.\nLa nota final es clave para el GIS: la línea AB es «exactamente paralela» a la que el mismo Pico estableció en las mensuras contiguas de Faustina [?] Saavedra, herederos de Lorenzo Saavedra y herederos de Pedro del Sar (hoy Gerónimo Jormy [?]). Pico midió un bloque de campos vecinos con un mismo arrumbamiento, un sistema local coherente que permite encadenar varias mensuras."
+  },
+  {
+   "titulo": "Informe del Departamento Topográfico (12/11/1863)",
+   "img": "img/f/007/13.jpg",
+   "fuente": "IMG_6630.JPG (girada 90°)",
+   "nota": "Letra de oficina, más redonda. Cinco firmas del Departamento. Dos notas posteriores de 1865 firmadas por Salas.",
+   "lineas": [
+    "S^{or} Juez de 1.^{a} Instancia.",
+    "Vista y examinada la presente Men-",
+    "sura y division practicada por el agri-",
+    "mensor D^{n} Pedro Pico del terreno de la testa-",
+    "mentaria de D^{n} Juan Castro, el Departa-",
+    "mento Topografico la encuentra exacta-",
+    "mente arreglada á las prescripciones",
+    "de la materia y titulos de su referencia,",
+    "y por lo mismo en estado de ser aproba-",
+    "da. — Es por ello, que el Departamento la",
+    "aprueba, y si el Juzgado no tuviere que opo-",
+    "ner contra ella, podria darle su aproba-",
+    "cion judicial.",
+    "Buenos-Ayres, Noviembre 12 de 1863.",
+    "Salas [rúbrica]   Moreno [rúbrica]   Malaver [rúbrica]",
+    "Benoit [rúbrica]   Casagemas [rúbrica]",
+    "Nota = D^{n} Pablo Affre pide en compra [un]",
+    "terreno como de Mil varas que dice",
+    "existe lindero al de su propiedad",
+    "El D. informó en Febrero 10 de 1865",
+    "Salas [rúbrica]",
+    "Nota = D^{n} Luis Aguirre ha pedido en com-",
+    "pra el mismo terreno de la anota-",
+    "cion anterior — El D. informó en Junio",
+    "23 [?] / 1865   Salas [rúbrica]"
+   ],
+   "interpretacion": "El Departamento Topográfico aprueba la mensura y división «exactamente arreglada» a las prescripciones y a los títulos, y la remite al juez para su aprobación. En 1863 firman cinco miembros: Saturnino Salas (presidente), Moreno, Antonio Malaver, Pedro Benoit e Ignacio Casagemas. Son los mismos nombres que figuran en el gran plano topográfico de Buenos Aires de 1867. El cuerpo técnico se amplió respecto de la dupla Salas–Pico de 1854-57; el propio Pico, antes miembro del Departamento, actúa ahora como agrimensor particular.\nLas notas de 1865 registran otra vez la carrera por los sobrantes: Pablo Affre, lindero, pide comprar un terreno «como de mil varas» que existiría junto al suyo; meses después Luis Aguirre pide el mismo terreno."
+  },
+  {
+   "titulo": "Oficio judicial (papel sellado de 1863)",
+   "img": "img/f/007/14.jpg",
+   "fuente": "IMG_6631.JPG (girada 90°)",
+   "nota": "Papel sellado «3 PESOS – BUENOS AIRES 1863» con viñeta; rúbrica sobre el sello. Al margen: «[Causa] á cargo [del] escribano Vila». Foliatura «5».",
+   "lineas": [
+    "[al margen:] [...]a á cargo [del] escribano Vila.",
+    "3 PESOS [rúbrica]   [sello: BUENOS AIRES 1863]",
+    "Buenos Ayres Diciembre [...]",
+    "Al Señor Presidente del Departa-",
+    "mento Topografico.",
+    "Se transcribe á V^{d}. á continuacion el",
+    "auto recaido en la mensura prac-",
+    "ticada por el Agrimensor don Pe-",
+    "dro Pico del terreno perteneciente",
+    "á la testamentaria de Don",
+    "Juan Castro cuyo tenor es el",
+    "siguiente = Buenos Ayres Diciembre",
+    "[4] de 1863. Autos y vistos: con lo",
+    "espuesto por el Agente Fiscal",
+    "de lo civil en su precedente vis-",
+    "ta se aprueba en cuanto haya",
+    "lugar por derecho la mensura",
+    "practicada por el Agrimensor",
+    "Don Pedro Pico en el terreno perte-",
+    "neciente á la testamentaria de Don",
+    "Juan Castro interponiendosé pa-",
+    "ra su mayor firmeza la autori-",
+    "dad judicial. En su consecuen-",
+    "cia entreguesé el espediente á l in-",
+    "teresado previo aviso al Departa-",
+    "mento Topografico con transcri-",
+    "cion de este auto y satisfacion",
+    "de costas. Daniel Maria Cazon. Lo",
+    "mandó y firmó el Señor Juez de",
+    "primera Instancia en lo civil",
+    "Doctor Don Daniel Maria Cazon",
+    "en Buenos Ayres á cuatro de"
+   ],
+   "interpretacion": "El juez de primera instancia en lo civil, Daniel María Cazón (el mismo que en 1854 ordenó la mensura de Riestra, Ficha 006), aprueba «en cuanto haya lugar por derecho» la mensura, con dictamen del Agente Fiscal. Interpone «para su mayor firmeza la autoridad judicial» y ordena entregar el expediente al interesado, con aviso al Departamento y pago de costas. El oficio va en papel sellado de 3 pesos de 1863, como el de la Ficha 005 (1857). El procedimiento judicial de aprobación es idéntico en su estructura."
+  },
+  {
+   "titulo": "Oficio judicial (cierre), acuse y notas posteriores",
+   "img": "img/f/007/15.jpg",
+   "fuente": "IMG_6632.JPG e IMG_6633.JPG (girada 90°)",
+   "nota": "IMG_6632: cierre del oficio con la fe del escribano y el decreto de Salas. IMG_6633 (foliatura «6»): notas de 1865–1866 y una anotación de 1929 en letra moderna.",
+   "lineas": [
+    "Diciembre de mil ochocientos",
+    "sesenta y tres de que doy fé",
+    "Ramon Garrido",
+    "Dios guarde á V^{d}. m.^{s} a.^{s}",
+    "Dan.^{l} M.^{a} Cazon [rúbrica]",
+    "Diciembre 17 de 1863.",
+    "Agreguesé al duplicado corres-",
+    "pondiente prévio acuse de recibo. —",
+    "Salas [rúbrica]",
+    "[IMG_6633:] [No]ta = Habiendo caducado los derechos de Affre al",
+    "terreno q.^{e} habia pedido, se le concedió á D^{n}",
+    "Luis Aguirre, y este hizo cesion de él á",
+    "D^{n} Antonio Llorenti [?] — Asi consta del esp.^{te} se-",
+    "guido p.^{r} los nombrados.   Salas [rúbrica]",
+    "[No]ta = D^{n} Antonio Llorenti [?] pide en compra",
+    "un terreno sobrante que dice ha resulta",
+    "al practicarse la mensura del terre-",
+    "no de los herederos de D^{n} Tadeo Rodri-",
+    "guez, teniendo p.^{r} linderos á D^{n} Fernan-",
+    "do Diaz, D^{n} Manuel Diaz (herederos) de",
+    "D^{n} Juan Silba, y D^{a} Jacoba T. de Achaval [?].",
+    "El D. inf. en Nbre de 1866   Salas [rúbrica]",
+    "Julio 4 de 1929 Informe en el oficio J-115-",
+    "1929. Juicio informativo a favor de la Sucesión",
+    "de Don Juan Climaco Rodriguez. Juz.",
+    "Dr. Rivarola S.^{o} de Ciarraco [?] Gomez.",
+    "Cop. 80 f.^{s} 492   [firma ilegible]"
+   ],
+   "interpretacion": "El escribano Ramón Garrido da fe del auto del 4 de diciembre de 1863; Cazón firma el oficio y el 17 de diciembre Salas ordena agregarlo «al duplicado correspondiente». Es la misma fórmula de 1857 (Ficha 005), que explica cómo se formó este legajo.\nLas notas siguen la historia del sobrante denunciado por Affre: sus derechos caducaron, el terreno se concedió a Luis Aguirre y éste lo cedió a Antonio Llorenti [?]. Luego Llorenti pide otro sobrante surgido de la mensura de los herederos de Tadeo Rodríguez (linderos Fernando y Manuel Díaz, herederos de Juan Silva, y Jacoba T. de Achaval [?]). Los derechos sobre sobrantes caducan, se conceden y se ceden: funcionan como un bien transferible.\nLa anotación de 1929 muestra que el duplicado siguió siendo consultado en el siglo XX para un juicio informativo de la sucesión de Juan Clímaco Rodríguez: el archivo de mensuras es un archivo vivo de prueba de propiedad."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano original de Pedro Pico (1863)",
+   "img": "img/f/007/03.jpg",
+   "fuente": "IMG_6634.JPG (lámina original, papel)",
+   "orientacion": "Lámina apaisada; el campo es un rectángulo con los costados largos horizontales (A–B abajo, E–C arriba); sin rosa visible en la toma.",
+   "interpretacion": "Plano en tinta de Pedro Pico, firmado «Septiembre 22 de 1863 Pedro Pico». El rectángulo de la testamentaría está dividido en franjas longitudinales con los nombres de los herederos. Lo cruzan dos cursos sinuosos de NE a SO, la «Cañada de la Cruz» y la «Cañada del Sauce» (arroyo del Sauce), dibujados con línea de puntos y rotulados letra por letra a lo largo del cauce. Hay pequeños grupos de signos que representan montes o casas (el de «Lorenza La Madrid» es el mayor). Una línea de trazos (D) atraviesa el campo en la mitad y marca la subdivisión trasladada. Al pie, doble escala gráfica en metros y en varas: la transición métrica hecha dibujo. A lápiz, arriba, anotaciones posteriores de «Pablo J. Affre» y de un sobrante.",
+   "referencias": [
+    [
+     "Lorenza La Madrid de Castro",
+     "Franja central (1392,8 / 1394,3 m); población «Lorenza La Madrid» con monte"
+    ],
+    [
+     "Salvador · Juan · Ciriaco Castro",
+     "Franja SE unida (346,4 / 347,3 m)"
+    ],
+    [
+     "Martiniano y Pedro Castro",
+     "Franja de 230,9 / 231,2 m"
+    ],
+    [
+     "Micaela · Gregoria · Erminda Castro",
+     "Franja NO unida (346,4 / 347,3 m)"
+    ],
+    [
+     "A · B · C · D · E",
+     "Mojones: A arranque (E), B esquinero N, C esquinero S, D costanero sobre la cañada, E en el cauce del Sauce"
+    ],
+    [
+     "Manuel Dobarro · Gerónimo Jormy [?]",
+     "Linderos del costado AB"
+    ],
+    [
+     "Pablo Affre",
+     "Lindero del costado EDC"
+    ],
+    [
+     "Noberta [Norberta] Rodríguez · Santiago López · María López Montiel",
+     "Linderos del frente SE (línea A–C)"
+    ],
+    [
+     "Francisco Maldonado · Hered.s de Antonio Monsalvo",
+     "Linderos del frente NO (B–E); mojones de Schuster"
+    ],
+    [
+     "Cañada de la Cruz",
+     "Curso sinuoso que cruza el campo; cortada a 3256 m (AB) y 5023 m (EDC)"
+    ],
+    [
+     "Cañada / arroyo del Sauce",
+     "Segundo curso; E cae en su cauce; cruzado a 5871,5 m en AB"
+    ],
+    [
+     "N 31° 37' O · S 58° 23' O · S 55° 32' O",
+     "Rumbos corregidos rotulados sobre los lados"
+    ],
+    [
+     "Escalas",
+     "Doble escala transversal: «Metros» (0–5000) y «Varas» (0–6000)"
+    ],
+    [
+     "Firma",
+     "«Septiembre 22 de 1863 Pedro Pico»"
+    ]
+   ]
+  },
+  {
+   "titulo": "Copia oficial del plano (La Plata, octubre de 1938)",
+   "img": "img/f/007/04.jpg",
+   "fuente": "IMG_6636.JPG (tela o papel satinado; ver también IMG_6637)",
+   "orientacion": "Misma disposición que el original, con marco.",
+   "interpretacion": "Copia fiel redibujada por la Dirección de Geodesia y Catastro (MOP), con el sello circular y la leyenda: «Es copia del plano agregado al duplicado n.º 7 del partido de San Andrés de Giles, mensura practicada en Setiembre de 1863 por el Agrimensor Pedro Pico. La Plata Octubre de 1938». Al pie, el nombre del dibujante (E. F…) y la firma del Director. Se leen con claridad todos los rumbos y distancias acumuladas (en metros y en varas) y la rotulación «Cañada de la Cruz» y «Cañada del Sauce». La copia de 1938 sugiere que el plano se pidió para algún trámite de esos años, como la anotación de 1929.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle de la copia de 1938",
+   "img": "img/f/007/05.jpg",
+   "fuente": "IMG_6638.JPG",
+   "orientacion": "Acercamiento del sector central.",
+   "interpretacion": "Distancias acumuladas sobre AB (1732 / 2000, 3256,2 / 3760, 3464 / 4000, 5196 / 6000, 5871,5 / 6780, 6850 / 7910: metros arriba y varas abajo) y sobre la línea superior (1732 / 2000, 3263,9, 5022,8 / 5800, 5152,7, 6727,9 / 7769). Los rumbos S 58° 23' O (frente SE) y S 55° 32' O (frente NO) confirman la no perpendicularidad que Pico explica en el texto. Es el mejor recorte para digitalizar vértices en el GIS.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "La mensura métrica",
+   "texto": "Es la primera mensura del corpus medida en metros y decímetros. Pico convierte las varas del título (2675 v = 2316,55 m, equivalencia de 0,866 m), da la superficie en metros cuadrados y en fracción decimal de legua cuadrada, y dibuja doble escala (metros y varas). La vara sigue siendo la unidad jurídica (herencias, títulos) y el metro la unidad técnica."
+  },
+  {
+   "titulo": "Paisaje arbolado: ombú, sauces, álamos, acacias",
+   "texto": "Los vértices se avalizan casi sólo con árboles: el «ombú solo» del campo de Narcisa Saavedra, los «sauces» de Pedro del Sar, los «ombúes» de José Meguin [?], la «punta de los álamos» de Ormachea y los «acacios» de Pedro Pablo Quevedo. A esto se suman las «azoteas» de Lorenza La Madrid y Norberto [?] Saavedra. Hacia 1863 hay montes y alamedas plantadas y casas de azotea: la llanura se ha arbolado y consolidado."
+  },
+  {
+   "titulo": "Aguas: cañada de la cruz y arroyo del sauce",
+   "texto": "El campo está cruzado por dos cursos, la Cañada de la Cruz y el arroyo (cañada) del Sauce, ambos de NE a SO. Los cruces medidos (3256,2 y 5022,8 m para la Cruz; 5871,5 m para el Sauce) son puntos de control GIS de primer orden. El mojón E cae en el mismo cauce del Sauce y no puede avalizarse."
+  },
+  {
+   "titulo": "El ritual en 1863",
+   "texto": "Se cita a los linderos «por medio de la circular de costumbre». Aparece la figura del «Juez de mensura» (Pedro Pablo Quevedo), que es además vecino con acacias usadas como visual. Asisten los interesados, los linderos o sus representantes (Estanislao Rodríguez por su madre) y «demás personas necesarias para el trabajo»."
+  },
+  {
+   "titulo": "Técnica: paralelismo, mojones heredados y compensación",
+   "texto": "La línea AB se apoya en los mojones existentes y es «exactamente paralela» a la de las mensuras contiguas que Pico hizo antes (Saavedra, del Sar/Jormy). El frente NO se apoya en los mojones del finado agrimensor Teodoro Schuster. Como ese frente no es perpendicular, Pico calcula una diferencia de 3,5 m y la reparte proporcionalmente entre las franjas."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "15.726.718 m² ≈ 1573 ha = 0,5825 leguas cuadradas. Título: 2675 × 7900 varas = 21.132.500 v² ≈ 1585 ha: la mensura coincide con el título dentro del 1 %. Franjas: viuda 1392,8 m ≈ 1608 3/9 varas; 346,4 m ≈ 400 varas (3 × 133 1/3); 230,9 m ≈ 266,7 varas (2 × 133 1/3)."
+  },
+  {
+   "titulo": "Una genealogía de la tierra desde 1635",
+   "texto": "El extracto encadena la merced del gobernador Pedro Esteban Dávila al regidor Juan de Vergara (1635; el texto dice 1735 por error), las Leiva y Vergara, Teodora de Leiva y Vergara, Pedro Díaz de Vivar (la «línea de los de Vivar» de la Ficha 004), la viuda de Manuel Castro (1804), los cuatro hijos, Juan Castro y su testamentaría. Al O, las tierras de Juan Bautista Suero. Por primera vez la cadena documental cubre más de dos siglos: permite cruzar con los repartos de tierras del siglo XVII sobre el río Luján y Areco."
+  },
+  {
+   "titulo": "Sobrantes y el archivo vivo",
+   "texto": "En 1865 Pablo Affre y Luis Aguirre compiten por el mismo sobrante de «como mil varas». Caducan los derechos de Affre, Aguirre obtiene la concesión y la cede a Antonio Llorenti [?], quien en 1866 pide otro sobrante en la mensura de los herederos de Tadeo Rodríguez. En 1929 el duplicado sirve a un juicio informativo y en 1938 se hace copia oficial del plano."
+  },
+  {
+   "titulo": "Estado del documento y dudas",
+   "texto": "Buen estado; bordes superiores rotos. Letra clara. Lecturas dudosas: «Ramona Fredes», «terrenos de Cabezadas», el año de la merced («setecientos», por «seiscientos»), «José Meguin», «Norberto Saavedra», «Gerónimo Jormy» (en el texto parece «Formy/Tormy», en el plano «Jormy»), «Faustina Saavedra», el primer rumbo del frente NO («cincuenta y un» en el texto, S 55° 32' O en el plano), «Llorenti», «Achaval» y los nombres de la nota de 1929."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Por qué la portadilla dice «Partido de la Villa de Luján» si la diligencia se hizo «en el partido de San Andrés de Giles»? ¿Hubo un cambio de límites entre partidos? ¿Dónde están los expedientes de las mensuras contiguas de Pico (Saavedra, del Sar)? ¿Quién fue Teodoro Schuster? ¿Se conservan hoy el ombú de Narcisa Saavedra o los álamos de Ormachea?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Pedro Pico (1810-1888)",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor e ingeniero militar. Durante el Sitio Grande de Montevideo (1843-1851) sirvió como ingeniero de los Colorados en la plaza sitiada, llevó un diario (1842, Museo Histórico del Uruguay) y levantó el plano topográfico de Montevideo y sus cercanías, publicado en París en 1846. Tras Caseros fue uno de los tres miembros del Departamento Topográfico de Buenos Aires restablecido en 1852, junto con Agustín Ibáñez de Luca y Saturnino Salas.",
+   "fuentes": "Daša Pahor, ficha del plano de Montevideo (1846); «Plano topográfico y catastro en Buenos Aires (1852-1873)», Redalyc."
+  },
+  {
+   "nombre": "Lorenza La Madrid de Castro",
+   "rol": "Viuda de juan castro; propietaria principal",
+   "texto": "Segunda esposa de Juan Castro y madre de nueve hijos. Recibió 775 varas y compró las partes de su entenado Gregorio y de su hijo Lorenzo, hasta reunir 1608 3/9 varas (1392,8 m de frente). Tenía casa de azotea en el campo, usada como visual.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Juan Castro · Manuel Castro · Ramona Fredes [?] · hijos Castro",
+   "rol": "Causante y antecesores",
+   "texto": "Manuel Castro y Ramona Fredes [?] compraron (ella ya viuda) la estancia en 1804. Sus hijos Juan, María, Tomasa y José heredaron 750 varas cada uno; Juan reunió 2675 varas. Sus herederos en 1863: Gregorio (primer matrimonio) y Erminda, Ciriaco, Lorenzo, Juan, Gregoria, Salvador, Micaela, Martiniano y Pedro Castro.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Pedro Esteban Dávila · Juan de Vergara · Leiva y Vergara · Pedro Díaz de Vivar",
+   "rol": "Origen colonial del título",
+   "texto": "Dávila fue gobernador del Río de la Plata entre 1631 y 1637. Juan de Vergara fue regidor de Buenos Aires y uno de los grandes beneficiarios de tierras de la primera mitad del siglo XVII. La merced pasó por herencia a las Leiva y Vergara, y Teodora de Leiva y Vergara (viuda de Manuel de la Rubia) la donó a Pedro Díaz de Vivar, quien vendió a los Castro en 1804.",
+   "fuentes": "Esta mensura; conocimiento general de la historia colonial rioplatense (no verificado en esta sesión)."
+  },
+  {
+   "nombre": "Dr. Daniel María Cazón (1826-1878)",
+   "rol": "Juez de 1.ª instancia en lo civil",
+   "texto": "El mismo juez que despachó la mensura de Riestra en 1854 (Ficha 006). Abogado de la UBA, profesor de Derecho, convencional constituyente, senador provincial, Gran Maestre de la masonería (1867-70) y presidente de la Comisión Municipal de Tigre.",
+   "fuentes": "Wikipedia, «Daniel María Cazón»; Ficha 006."
+  },
+  {
+   "nombre": "Saturnino Salas · Moreno · Antonio Malaver · Pedro Benoit · Ignacio Casagemas",
+   "rol": "Departamento topográfico (1863)",
+   "texto": "Firman la aprobación del 12 de noviembre de 1863. Salas, Benoit, Casagemas y Malaver figuran también como autores del Plano topográfico de Buenos Aires de 1867 (dibujado por Carlos Glade). Pedro Benoit (1836-1897) fue ingeniero y arquitecto, luego autor del trazado de La Plata.",
+   "fuentes": "«Plano topográfico y catastro en Buenos Aires (1852-1873)», Redalyc; esta mensura."
+  },
+  {
+   "nombre": "Pedro Pablo Quevedo",
+   "rol": "Juez de mensura; vecino",
+   "texto": "Presidió la mensura como «Juez de mensura». Sus «acacios» sirvieron de visual desde el vértice C: era también vecino del lugar. Sin datos en línea.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Teodoro Schuster",
+   "rol": "Agrimensor (fallecido antes de 1863)",
+   "texto": "Colocó los mojones de los campos de Francisco Maldonado y de los herederos de Antonio Monsalvo, que Pico usa para el frente NO. Nombre de origen alemán. No se hallaron datos en esta sesión; conviene buscar sus mensuras en otras carpetas.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Pablo Affre · Luis Aguirre · Antonio Llorenti [?]",
+   "rol": "Lindero y solicitantes de sobrantes",
+   "texto": "Affre, lindero NE (apellido francés), pidió en 1865 un sobrante de unas mil varas; caducaron sus derechos. Aguirre obtuvo la concesión y la cedió a Llorenti [?], quien en 1866 pidió otro sobrante en la mensura de los herederos de Tadeo Rodríguez.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Linderos y vecinos de 1863",
+   "rol": "Linderos y vecinos",
+   "texto": "Manuel Dobarro, Gerónimo Jormy [?], Norberta y Estanislao Rodríguez, María López de Montiel, Santiago López, los Saavedra (Narcisa, Norberto [?], Faustina [?]), Pedro del Sar, José Meguin [?], Ormachea, Francisco Maldonado y los herederos de Antonio Monsalvo. Maldonado y Ormachea ya eran vecinos de Riestra (Ficha 006); los Monsalvo son recurrentes.",
+   "fuentes": "Esta mensura; Fichas 003, 004 y 006."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/007/02.jpg",
+  "fuente": "IMG_6622.JPG",
+  "lineas": [
+   "Seccion Areco  S.^{an} A. Giles",
+   "N.º 48                                    7",
+   "Doña Lorenza La Madrid de Castro",
+   "Partido de la Villa de Lujan",
+   "Septiembre 1863",
+   "Agrimensor",
+   "Pedro Pico",
+   "[a lápiz, borroso:] [...] de [...]",
+   "Testamentaria de don Juan Castro. —"
+  ]
+ },
+ "titulo": "D.ª Lorenza La Madrid de Castro",
+ "estado": "Transcripta (10 hojas, 328 renglones), 3 láminas"
+}

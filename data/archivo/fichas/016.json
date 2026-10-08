@@ -1,0 +1,282 @@
+{
+ "carpeta": "16",
+ "carpeta_nombre": "Carpeta 16",
+ "archivo": "Ficha 016 - José Santiago Sosa (1825).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Secc. Areco; «partido de Areco»)",
+  "N.º de duplicado": "16 (portadilla N.º 79; «N.º 49» del libro 3 de mensuras antiguas)",
+  "Propietario / solicitante": "D. José Santiago Sosa",
+  "Agrimensor": "José María Manso",
+  "Año": "1825",
+  "Fecha de la diligencia": "20 de agosto de 1825",
+  "Ubicación": "Sobras detrás de la suerte principal de Sosa sobre el río de Areco; cardales; laguna del Durasnillo",
+  "Orden judicial": "Comisión del Juez de 1.ª Instancia D. Juan José Sarrada [?]",
+  "Vendedor / antecesor": "Compra a D.ª Francisca Arroyo (finada), dueña de las sobras",
+  "Linderos citados": "Pedro Nolasco Montenegro y Pedro Martínez · los Monsalvo · José Narciso Sosa · suerte de Santiago Sosa",
+  "Medidas": "4000 v (N 50° O corr.) · 5400 v (S 29° O corr.) · 4000 v · 5400 v",
+  "Rumbos": "De la aguja corregidos con 10° de variación; dirección dada por los baqueanos",
+  "Referencia de archivo": "Portadilla «N.º 79 – Giles 16 – Secc.n Areco»; a lápiz «n.º 49 del libro 3 de mensuras antiguas»"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 1620 (estimada; sin cálculo en el original)",
+  "hitos": "Laguna del Durasnillo; sauce de Reynoso; ombúes de S. Sosa y P. Figueroa; chacras",
+  "aguas": "Laguna de Durasnillo; río de Areco (suertes)"
+ },
+ "sintesis": "Mensura del 20 de agosto de 1825, hecha por José María Manso (el agrimensor de la Ficha 001), de los «terrenos de sobras» que José Santiago Sosa compró a la finada Francisca Arroyo detrás de su suerte principal sobre el río de Areco. Es un cuadrilátero de 4000 × 5400 varas (≈ 1620 ha) rotulado en el plano «Cardales». Manso declara que los rumbos son «la línea de dirección que me dieron los baqueanos», porque ningún documento los detallaba, y los corrige con «diez grados la variación». Los hitos son vivos: el sauce de Bonifacio Reynoso, el ombú de Santiago Sosa, el ombú de Pedro Figueroa y «una laguna de Durasnillo, que dicen sirve de mojón esquinero». Linda con los Monsalvo, José Narciso Sosa y Pedro Nolasco Montenegro, que compró otra parte de las sobras.",
+ "caratula": {
+  "img": "img/f/016/01.jpg",
+  "fuente": "IMG_6724.JPG",
+  "campos": [
+   [
+    "N.º",
+    "16"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "José Santiago Sosa"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Manso José M.ª"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1825"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 (recto)",
+   "img": "img/f/016/04.jpg",
+   "fuente": "IMG_6726.JPG",
+   "nota": "«N.º 49» arriba a la derecha (n.º 49 del libro 3 de mensuras antiguas, según la portadilla); sello del Departamento y foliatura «1». Letra autógrafa de Manso, la misma de la Ficha 001. Arriba, anotaciones desvaídas. El apellido del juez es dudoso.",
+   "lineas": [
+    "[arriba, tinta desvaída:] [...] 3-10-3 [...] / [...] el rumbo [...]        [sello:] 1        N.^{o} 49.",
+    "E.",
+    "En el partido de Areco, en 20 dias del mes de Ag.^{to}",
+    "de 1825 en cumplim.^{to} dela comision que el S.^{or} Juez de",
+    "1.^{a} Ynst.^{a} D.^{n} Juan José Sarrada [?] se sirvió conferirme",
+    "para medir y amojonar los terrenos de Sobras que com-",
+    "pró D.^{n} José Santiago Sosa á D.^{a} Fran.^{ca} Arroyo ya",
+    "finada; acompañado delos linderos que suscriben la cir-",
+    "cular, di principio ala mensura en el mojon esquinero",
+    "fondo dela parte del S.^{E} del terreno de Sobras que",
+    "compró ala misma S.^{ra} de Arroyo D.^{n} Pedro Nolasco",
+    "Monte Negro; y como las que se miden deve ser el ter-",
+    "reno compreendido entre el mojon de arranque, y",
+    "el de fondo dela suerte principal del Rio de Areco de",
+    "D.^{n} Santiago Sosa, empezé á medir p.^{r} la linea del",
+    "N-60-O cuyo rumbo, es la linea de direccion que me",
+    "dieron los baqueanos, pues que los docum.^{tos} ninguno",
+    "me detallaba la linea de rumbo que devia seguir: este",
+    "rumbo del N-60-O dela aguja, es corregido, el angulo",
+    "del N-50-O p.^{r} tener dies grados la variacion en este",
+    "destino: p.^{r} esta linea medí cuatro mil varas hasta",
+    "enfrentar al mojon de Sosa, estando ala parte del",
+    "Norte del d^{ho} mojon 486 v.^{s}: me pasé al mojon y lo",
+    "demarqué al N-70-E dela Chacra de D.^{n} José Narciso",
+    "Sosa, y dela de D.^{n} Santiago Sosa al S-10-E: Conclui-",
+    "do este costado me bolbí al mojon en que di principio",
+    "a la mensura y demarqué el mojon al S-86-E dela",
+    "Casa de Valentin Monsalbo, y dela de D.^{n} José Narciso"
+   ],
+   "interpretacion": "El 20 de agosto de 1825, en el partido de Areco, José María Manso mide y amojona por comisión del juez de primera instancia los «terrenos de sobras» que José Santiago Sosa compró a Francisca Arroyo, ya fallecida. Son las sobras (tierras sobrantes detrás de las suertes principales) de una misma dueña que también vendió otra parte a Pedro Nolasco Montenegro. El terreno va desde el mojón de fondo de la parte de Montenegro hasta el mojón de fondo de la suerte principal del río de Areco del propio Sosa.\nFrase central: mide al N 60° O «cuyo rumbo es la línea de dirección que me dieron los baqueanos, pues de los documentos ninguno me detallaba la línea de rumbo que debía seguir». Ese N 60° O de la aguja, corregido, es N 50° O, «por tener diez grados la variación en este destino»: los 10° de declinación de 1825 que ya figuraban en la Ficha 001. Mide 4000 v hasta enfrentar el mojón de Sosa (486 v al N) y ata los mojones a la chacra de José Narciso Sosa, a la de Santiago Sosa y a la casa de Valentín Monsalvo."
+  },
+  {
+   "titulo": "Folio 1 (vuelto)",
+   "img": "img/f/016/05.jpg",
+   "fuente": "IMG_6727.JPG",
+   "nota": "Borde derecho cortado. «laguna» testada y sustituida por «lugar»; «las márgenes de» en interlínea. La mitad inferior muestra por transparencia el texto del folio anterior.",
+   "lineas": [
+    "Sosa al N-10-E: concluida la demarcacion, t[omé]",
+    "la linea de rumbo al angulo del S-19-O, y correg[ido]",
+    "S-29-O que es la direccion que me dieron los Baquea[nos]",
+    "y medí p.^{r} d^{ha} linea 5400 v.^{s} q.^{e} terminaron al S. [del]",
+    "mojon 268 v.^{s}; pasé a este, y lo demarqué al S-2[...]",
+    "del Sauce de Bonifacio Reynoso y dela de Pasq[ual]",
+    "Monsalbo al S-55-O: Desde aqui se midieron, p[or]",
+    "el rumbo del N-60-O, y corregido N-50-O [qua-]",
+    "tro mil varas igual distancia al costado opuesto,",
+    "termino esta distancia 486 v.^{s} N. de ^{las margenes de} una laguna de [Du-]",
+    "rasnillo, que dicen sirve de mojon esquinero de fon[do]",
+    "dela suerte principal del Rio de Areco de D.^{n} San[tia-]",
+    "go Sosa, en cuya ~~laguna~~ ^{lugar} puse el mojon y lo demar[qué]",
+    "al angulo N-76-O del Ombú de D.^{n} Santiago So[sa]",
+    "y al S-72-O del Ombú de Pedro Figueroa.",
+    "José M.^{a} Manso [firma y rúbrica]",
+    "[en la mitad inferior, texto desvaído por transparencia del folio anterior; no se transcribe]"
+   ],
+   "interpretacion": "Segundo lado: S 19° O de la aguja (S 29° O corregido), otra vez «la dirección que me dieron los baqueanos»: 5400 v hasta pasar 268 v al S del mojón vecino. Lo demarca «del Sauce de Bonifacio Reynoso» y de la casa de Pascual Monsalvo: un árbol con dueño como hito. Tercer lado: N 50° O corregido, 4000 v, igual al opuesto, hasta 486 v al N de «las márgenes de una laguna de Durasnillo, que dicen sirve de mojón esquinero de fondo» de la suerte de Sosa. La laguna es el mojón: un mojón natural validado por la voz de los vecinos («que dicen»).\nAllí coloca el mojón y lo ata a dos ombúes: el «Ombú de D. Santiago Sosa» (N 76° O) y el «Ombú de Pedro Figueroa» (S 72° O). Firma José María Manso. No hay cálculo de área ni dictamen en esta copia."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de las sobras de José Santiago Sosa: los «Cardales»",
+   "img": "img/f/016/03.jpg",
+   "fuente": "IMG_6728.JPG",
+   "orientacion": "Hoja suelta, a tinta y lápiz; flecha de norte con plumas (aguja y verdadero); escala «de una legua»; firma «José M.ª Manso».",
+   "interpretacion": "El terreno es un cuadrilátero inclinado, con los lados rotulados por rumbo y distancia (N 50° O 4000, S 22° O, S 19° O 5400, 486 y 268 v de corrimiento de los mojones vecinos). En el centro, en letra grande: «Cardales». El campo entero se identifica por su cubierta vegetal: es el cardal que en 1827 impidió medir a Lemoine (Ficha 013) y que aparece en la Ficha 009.\nEn la esquina de fondo está dibujada la «Laguna de Durasnillo» como mancha, junto al mojón. Los linderos rotulados son: «Terrenos de D. Santiago Sosa» (la suerte principal), «Terrenos de D. José Narciso Sosa» (arriba), «Terrenos de los Monsalbos» (abajo) y «Terrenos de D. Pedro Martínez y D. Pedro Nolasco Montenegro» (al costado SE). Las líneas finas a lápiz que salen de los vértices son las visuales a chacras, casas, el sauce y los ombúes.",
+   "referencias": [
+    [
+     "Cardales",
+     "Rótulo central: el terreno cubierto de cardo"
+    ],
+    [
+     "Laguna de Durasnillo",
+     "Esquina de fondo; hace de mojón natural"
+    ],
+    [
+     "Terrenos de D. Santiago Sosa",
+     "Suerte principal del río de Areco (lindero de frente)"
+    ],
+    [
+     "Terrenos de D. José Narciso Sosa",
+     "Chacra lindera"
+    ],
+    [
+     "Terrenos de los Monsalbos",
+     "Valentín y Pascual Monsalvo"
+    ],
+    [
+     "Terrenos de D. Pedro Martínez y D. Pedro Nolasco Montenegro",
+     "Otra parte de las sobras de F. Arroyo"
+    ],
+    [
+     "A, B, C, D [?]",
+     "Vértices"
+    ],
+    [
+     "486 · 268",
+     "Corrimientos respecto de los mojones de Sosa (varas)"
+    ],
+    [
+     "Flecha",
+     "Norte con plumas; aguja/verdadero"
+    ],
+    [
+     "Escala",
+     "«Escala de una legua», 0–6000 v"
+    ],
+    [
+     "Líneas a lápiz",
+     "Visuales a chacras, casas, sauce y ombúes"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Los baqueanos fijan el rumbo",
+   "texto": "Es la declaración más explícita de la serie sobre el saber local: los rumbos de los dos lados principales son «la línea de dirección que me dieron los baqueanos, pues de los documentos ninguno me detallaba la línea de rumbo que debía seguir». El título escrito no alcanza para ubicar la tierra y el agrimensor adopta la orientación que la memoria práctica de los vecinos atribuye a las suertes. Se suma a «vecino antiguo» (009) y «voz general» (006, 008) como forma de autoridad oral dentro del ritual de mensura."
+  },
+  {
+   "titulo": "Paisaje: cardales, laguna del durasnillo, sauce y ombúes",
+   "texto": "El plano rotula el terreno entero como «Cardales». La esquina de fondo es «una laguna de Durasnillo» (duraznillo: arbusto de bañados, Cestrum parqui o Solanum glaucophyllum), que «dicen sirve de mojón». Los hitos son árboles con dueño: el «Sauce de Bonifacio Reynoso», el «Ombú de D. Santiago Sosa» y el «Ombú de Pedro Figueroa». Es el paisaje de 1825 detrás de las suertes del río de Areco: cardal de Castilla, lagunas con vegetación palustre y árboles aislados que marcan poblaciones."
+  },
+  {
+   "titulo": "Sobras y suertes del río de areco",
+   "texto": "Las «sobras» son las tierras sobrantes detrás de las suertes principales ribereñas. Aquí pertenecían a Francisca Arroyo, que las vendió en partes a José Santiago Sosa y a Pedro Nolasco Montenegro. Sosa compra así las sobras que están a espaldas de su propia suerte principal. Es la misma lógica que en la Ficha 014, donde el terreno de Casco se mide contra las cabeceras de las suertes del río de Areco: detrás de la franja ribereña se ocupa el «fondo» por compra de sobras o por enfiteusis."
+  },
+  {
+   "titulo": "Manso y los 10° de variación",
+   "texto": "José María Manso (Ficha 001, 1825; mencionado en 012 por la mensura de Saraví) corrige la aguja con «diez grados la variación en este destino». Es coherente con la Ficha 001 y contrasta con los 14° 25' observados por Lemoine en la guardia de Areco en 1827 (013): en dos años, dos agrimensores usan valores que difieren en más de cuatro grados. Da una medida de la incertidumbre de los rumbos de la década de 1820 al proyectar estas mensuras en el GIS."
+  },
+  {
+   "titulo": "Los sosa",
+   "texto": "José Santiago Sosa (comprador), Santiago Sosa (dueño de la suerte principal y de un ombú; posiblemente la misma persona) y José Narciso Sosa (chacra lindera): un núcleo familiar Sosa sobre el río de Areco. En la Ficha 006 (1854) un J. J. Sosa protesta como lindero de la Riestra. Los Monsalvo (Valentín, Pascual) vuelven a aparecer como vecinos, igual que en 003, 009, 011 y 012."
+  },
+  {
+   "titulo": "Estado, lecturas dudosas y preguntas",
+   "texto": "Cinco tomas; faltan el cálculo de área, la aprobación y la citación completa (la copia se reduce a la diligencia). Dudosos: el apellido del juez (Sarrada [?]), el rumbo cortado «S-2[…]» y algún número del plano. Área estimada: ≈ 4000 × 5400 v ≈ 21,6 millones de v² (≈ 0,6 leguas², ≈ 1620 ha). Preguntas: ¿se identifica la laguna del Durasnillo en cartografía posterior? ¿Quién fue Francisca Arroyo y de dónde venían sus sobras? ¿Está en el AHG la mensura de Montenegro?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "José Santiago Sosa",
+   "rol": "Comprador de las sobras",
+   "texto": "Dueño de una suerte principal sobre el río de Areco (con un ombú como hito) que compra las sobras de su fondo a Francisca Arroyo. Sin más datos.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "José María Manso",
+   "rol": "Agrimensor",
+   "texto": "Autor de la Ficha 001 (Bagué, 1825) y de la mensura de Bartolomé Saraví citada en la 012. Corrige con 10° de variación y confía en los baqueanos para los rumbos. Firma autógrafa con rúbrica.",
+   "fuentes": "Fichas 001, 012."
+  },
+  {
+   "nombre": "Francisca Arroyo",
+   "rol": "Vendedora (finada)",
+   "texto": "Dueña de las «sobras» detrás de las suertes del río de Areco, vendidas en partes a Sosa y a Montenegro. Sin más datos.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Pedro Nolasco Montenegro · Pedro Martínez",
+   "rol": "Linderos al se",
+   "texto": "Montenegro compró otra parte de las sobras de Arroyo. ¿Tiene relación Martínez con el Norberto Antonio Martínez de la Ficha 013? Sin más datos.",
+   "fuentes": "Esta mensura; Ficha 013."
+  },
+  {
+   "nombre": "José Narciso Sosa · Santiago Sosa",
+   "rol": "Vecinos con chacra y ombú",
+   "texto": "Parientes probables del comprador. Sus chacras y el ombú de Santiago son visuales de la mensura.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Valentín y Pascual Monsalvo · Bonifacio Reynoso · Pedro Figueroa",
+   "rol": "Vecinos-hito",
+   "texto": "Casas de los Monsalvo; el sauce de Reynoso; el ombú de Pedro Figueroa (los Figueroa: Fichas 009 y 010).",
+   "fuentes": "Esta mensura; Fichas 009, 010."
+  },
+  {
+   "nombre": "Juan José Sarrada [?]",
+   "rol": "Juez de 1.ª instancia",
+   "texto": "Otorga la comisión en 1825. Lectura del apellido dudosa; no se identificó.",
+   "fuentes": "Esta mensura."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/016/02.jpg",
+  "fuente": "IMG_6725.JPG",
+  "lineas": [
+   "N 79.                    Giles  16",
+   "Secc.^{n} Areco",
+   "Mensura del Terreno",
+   "de",
+   "D.^{n} José Santiago Sosa",
+   "practicada",
+   "por",
+   "el Agrimensor Manso",
+   "en 20 de Agosto de 1825",
+   "[a lápiz:] Corresponde a la mensura N.^{o} 49 del libro 3 de",
+   "mensuras antiguas. —",
+   "[al pie:] N N / N"
+  ]
+ },
+ "titulo": "D. José Santiago Sosa",
+ "estado": "Transcripta (2 hojas, 45 renglones), 1 lámina"
+}

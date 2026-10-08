@@ -1,0 +1,659 @@
+{
+ "carpeta": "31",
+ "carpeta_nombre": "Carpeta 31",
+ "archivo": "Ficha 031 - Testamentaría de Pedro del Sar (1863).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles",
+  "N.º de duplicado": "31 (portadilla «Sec.n Areco N.º 130»)",
+  "Propietario / solicitante": "Testamentaría de D. Pedro del Sar",
+  "Agrimensor": "Pedro Pico",
+  "Año": "1863",
+  "Fecha de la diligencia": "8/6/1863; D. T. 22/7/1863; aprob. 29/8/1863",
+  "Ubicación": "Ambas márgenes de la Cañada de la Cruz, hacia el arroyo de Giles",
+  "Orden judicial": "Juez Dr. Alejo B. González; exp. de J. Resabal [?] y J. Torny",
+  "Vendedor / antecesor": "Dávila → Vergara → Díaz de Vivar → Arriola de Monsalvo (1805) → F. del Sar",
+  "Linderos citados": "J. Torny · Chapeaurouge · her. D. Monsalvo · F. y N. Saavedra · J. Sosa · M. Dobarro · her. J. Castro",
+  "Medidas": "11.103.883 m² = 1110 ha, en 4 fracciones",
+  "Rumbos": "Declinación 11° 32′ E (común a las mensuras vecinas de Pico)",
+  "Referencia de archivo": "Duplicado 31; «Sección Areco N.º 130»"
+ },
+ "metricas": {
+  "superficie_ha": "1110 (4 fracciones)",
+  "hitos": "Mojones con letras A-R′; señal J′; bandera en la costa de la cañada",
+  "aguas": "Cañada de la Cruz; arroyo de Giles (hijuela de 1700 v de frente)"
+ },
+ "sintesis": "Mensura de Pedro Pico (8/6/1863) de los terrenos de la testamentaría de Pedro del Sar, en fajas que cortan la Cañada de la Cruz, para escriturar un remate (Torny). Títulos: merced de Dávila a Vergara (1635), Díaz de Vivar → María Arriola de Monsalvo (1805), compras de Francisco del Sar a los Monsalvo (1839-48, una por testaferro) y «remanentes de los Laras y Sueros»; venta a los nietos Rafael y Pedro (1856). Cuatro fracciones: 11.103.883 m² (1110 ha). En metros con equivalencias en varas; declinación 11° 32′ E, común a las mensuras vecinas del propio Pico. D. T. 22/7/1863; aprueba A. B. González (29/8/1863).",
+ "caratula": {
+  "img": "img/f/031/01.jpg",
+  "fuente": "IMG_7012.JPG",
+  "campos": [
+   [
+    "N.º",
+    "31"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Pedro del Sar"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Pedro Pico"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1863"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Títulos: merced de Dávila a Vergara → Díaz de Vivar → Arriola de Monsalvo (1805)",
+   "img": "img/f/031/05.jpg",
+   "fuente": "IMG_7014.JPG",
+   "nota": "Sello con foliatura «1»; encabezado de sello «Areco» al pie de cada hoja. Letra muy cuidada. El año de la merced dice «mil setecientos treinta y cinco»: error por 1635 (Dávila gobernó 1631-1637). «Rivia [?]», «Tito Simons [?]» dudosos.",
+   "lineas": [
+    "Extracto de los titulos pertenecien",
+    "tes á los terrenos de la testamentaria del finado",
+    "Don Pedro del Sar.",
+    "En veinte y tres de Febrero de mil ochocientos cinco",
+    "Don Pedro Diaz de Vivar vendió á Doña",
+    "Maria Arriola viuda de Don Domingo Monsal",
+    "vo, ante el escribano Don Juan José Rocha unas",
+    "tierras de Cabezadas al otro lado del Rio de",
+    "Luján, con tres mil varas de frente y siete mil",
+    "novecientas ~~[...]~~ de fondo, lindando al Norte",
+    "con Don Julian Cañas, hoy Geronimo Torny;",
+    "al Sur con Don Manuel Castro, hoy herederos de",
+    "Don Juan Castro; al Oeste con Don Francisco Suero",
+    "hoy del-Sar y al Este con Don Juan José Leon",
+    "hoy Ramirez y Tito Simons [?]. Las tierras ven",
+    "didas son parte de las que el vendedor obtuvo",
+    "por donacion que le hizo Doña Teodora de",
+    "Leiva y Bergara viuda de Don Manuel de la",
+    "Rivia [?], heredera de Doña Antonia de Leiva y",
+    "Bergara que lo fué en succesion del Regidor",
+    "Juan de Bergara á quien le hizo merced",
+    "el Gobernador Don Pedro Estevan Davila",
+    "ante el escribano mayor de Gobierno Don",
+    "Alonso Agreda de Bergara en diez de Diciem",
+    "bre de mil setecientos [sic] treinta y cinco.",
+    "Por muerte de Doña Maria Arriola de Mon",
+    "salvo el terreno anterior se repartió entre los",
+    "hijos de este matrimonio.",
+    "En doce de Octubre de mil ochocientos cuarenta",
+    "y siete Doña Maria Antonia Monsalvo",
+    "viuda de Don Luis Antonio Monsalvo, ante el",
+    "escribano Mariano Cabral vendió á Don",
+    "Francisco Del Sar un terreno de quinientas",
+    "[al margen:] (a)"
+   ],
+   "interpretacion": "Extracto de títulos de la testamentaría de Pedro del Sar. El 23/2/1805 Pedro Díaz de Vivar vende a María Arriola, viuda de Domingo Monsalvo (escribano Juan José Rocha), tierras de cabezadas «al otro lado del río de Luján», 3000 v de frente por 7900 de fondo, lindando al N con Julián Cañas (hoy Jerónimo Torny), al S con Manuel Castro (hoy herederos de Juan Castro), al O con Francisco Suero (hoy Del Sar) y al E con Juan José León (hoy Ramírez y Tito Simons [?]). Vivar las tenía por donación de Teodora de Leiva y Vergara, viuda de Manuel de la Rivia [?], heredera de Antonia de Leiva y Vergara, sucesora del regidor Juan de Vergara, a quien el gobernador Pedro Esteban Dávila hizo merced (escribano mayor de gobierno Alonso Agreda de Vergara, 10/12/[1]635). A la muerte de María Arriola, se reparte entre sus hijos. El 12/10/1847 María Antonia Monsalvo, viuda de Luis Antonio Monsalvo, vende a Francisco del Sar 500 v…"
+  },
+  {
+   "titulo": "Folio 1 v. · Compras de Francisco del Sar a los Monsalvo (1847-1848) y la venta de Petrona Herrera (1839)",
+   "img": "img/f/031/06.jpg",
+   "fuente": "IMG_7015.JPG",
+   "nota": "Cifras a lápiz al margen: «500 × 4200» y «(b) 400 × 7900». «(equivocado)» es del original.",
+   "lineas": [
+    "varas de frente y cuatro mil doscientas de",
+    "fondo, lindero por el frente, \"con Los Monsalvos, por",
+    "el fondo Cañada de la Cruz por medio con la",
+    "vendedora, por un costado con Don Juan Castro",
+    "y por el otro con el Comprador. Este terre-",
+    "no tocó en herencia á Don Luis Antonio Mon=",
+    "salvo de quien lo heredó la vendedora.",
+    "En diez de Julio de mil ocho cientos cuarenta",
+    "y ocho Doña Tiburcia Monsalvo en represen",
+    "tacion de su Señora Madre Doña Cruz Sosa",
+    "ante el Escribano Mariano Cabral vendió",
+    "á Don Francisco del Sar un terreno de cuatro",
+    "cientas varas de frente y siete mil novecientas",
+    "de fondo, lindero por el frente con el Comprador,",
+    "(equivocado) por un costado con el Comprador",
+    "tambien, por el otro con Doña Eusebia Mon",
+    "salvo, y por el fondo con \"Los Monsalvos.\" Este",
+    "terreno es parte del que Doña Cruz Sosa here",
+    "dó de su esposo Don Manuel Monsalvo, —",
+    "hijo de Don Domingo Monsalvo. —",
+    "En veinte y uno de Septiembre de mil",
+    "ocho cientos treinta y nueve, Doña Petrona",
+    "Herrera por sí y sus hijos Polonia, Juana y",
+    "Juan Monsalvo vendió á Don Luis Antonio",
+    "Monsalvo un terreno compuesto de mil varas",
+    "de frente lindando con la Cañada de la Cruz;",
+    "por el fondo al Noroeste con Don Francisco",
+    "Del-Sar, por el Norte con Don Pedro Martinez",
+    "(antes Julian Cañas) y por el Sur con la",
+    "testamentaria de Don Lorenzo Saavedra.",
+    "Corresponde este terreno á la vendedora por",
+    "herencia paterna y por su esposo Don Juan",
+    "Bautista Monsalvo. —",
+    "Don Francisco Del-Sar fué el que representó",
+    "[al margen, a lápiz:] 500 × 4200 · (b) 400 × 7900"
+   ],
+   "interpretacion": "…de frente por 4200 de fondo, lindando al frente con «Los Monsalvos», al fondo con la vendedora «Cañada de la Cruz por medio», a un costado con Juan Castro y al otro con el comprador; lo heredó de su esposo. El 10/7/1848 Tiburcia Monsalvo, por su madre Cruz Sosa, vende a Del Sar 400 v por 7900, lindando con el comprador, Eusebia Monsalvo y «Los Monsalvos»: parte de lo que Cruz Sosa heredó de su esposo Manuel Monsalvo, hijo de Domingo. El 21/9/1839 Petrona Herrera, por sí y sus hijos Polonia, Juana y Juan Monsalvo, vende a Luis Antonio Monsalvo 1000 v de frente sobre la Cañada de la Cruz, lindando al NO con Del Sar, al N con Pedro Martínez (antes Julián Cañas) y al S con la testamentaría de Lorenzo Saavedra (herencia paterna y de su esposo Juan Bautista Monsalvo). Francisco del Sar representó al comprador…"
+  },
+  {
+   "titulo": "Folio 2 · Del Sar se hace reconocer dueño; venta a sus nietos (1856)",
+   "img": "img/f/031/07.jpg",
+   "fuente": "IMG_7016.JPG",
+   "nota": "Foliatura «2». «Santos Riera [?]» dudoso.",
+   "lineas": [
+    "en esta venta al comprador Don Luis Antonio Mon",
+    "salvo, y satisfizo el importe de ella de su propio",
+    "peculio. —",
+    "Doña Antonia Monsalvo viuda de Don Luis Antonio",
+    "Monsalvo declara en veinte y cinco de Agosto de",
+    "mil ochocientos cuarenta y uno que esta conforme",
+    "con la venta que su finado esposo hizo á favor de",
+    "Don Francisco del-Sar de quinientas varas de tierra",
+    "segun la escritura y pago que obraba en poder",
+    "del mismo Del-Sar.",
+    "Con este documento se presentó Don Francisco del",
+    "Sar al Juzgado de Primera Instancia pidiendo",
+    "se le reconociera como dueño del terreno que Don Luis",
+    "Antonio Monsalvo habia comprado á Doña Petrona",
+    "Herrera y el cual él habia pagado de su propio",
+    "dinero. — El Juzgado así lo reconoce.",
+    "En tres de Septiembre de mil ocho cientos cincuenta",
+    "y seis Don Francisco del Sar vendió á sus nietos",
+    "Don Rafael y Don Pedro del Sar estos terrenos y otros",
+    "mas.",
+    "Desde f.^{s} 21 á 24 del espediente de la testamentaria",
+    "del finado Don Pedro del Sar, actualmente en",
+    "tramitacion, consta por acta judicial que",
+    "Don Rafael Del Sar cede á la testamentaria de",
+    "su finado hermano los derechos que en union con",
+    "él tenia á los terrenos comprados á su Señor abuelo",
+    "Don Francisco Del Sar.",
+    "Consta de la hijuela de Don Pedro del Sar, en la",
+    "testamentaria de Doña Santos Riera [?] de del-Sar",
+    "habersele adjudicado un terreno de mil setecientas",
+    "varas de frente al Arroyo de Giles y doce mil",
+    "de fondo del cual es parte el que se ha medido",
+    "hoy entre los linderos \"Los Monsalvos,\" Don Gero",
+    "nimo Torny y Don Luis Chapeaurouge. Este"
+   ],
+   "interpretacion": "…y pagó la compra «de su propio peculio». La viuda de Luis Antonio Monsalvo declara (25/8/1841) estar conforme con la venta de 500 v que su marido hizo a Del Sar; con ese documento Del Sar pide al juzgado que lo reconozca dueño de lo que Monsalvo compró a Petrona Herrera con dinero de Del Sar, y el juzgado lo reconoce: un testaferro. El 3/9/1856 Francisco del Sar vende a sus nietos Rafael y Pedro del Sar estos y otros terrenos (Ficha 025: venta a Mooney el 24/9/1856). En la testamentaría de Pedro, Rafael cede a la sucesión de su hermano sus derechos (f. 21-24). En la hijuela de Pedro, en la testamentaría de Santos Riera [?] de Del Sar, se le adjudicaron 1700 v de frente al arroyo de Giles por 12.000 de fondo, parte de lo cual es lo medido entre «Los Monsalvos», Jerónimo Torny y Luis Chapeaurouge…"
+  },
+  {
+   "titulo": "Folio 2 v. · «Laras y Sueros»; arranque en la Cañada de la Cruz (8/6/1863)",
+   "img": "img/f/031/08.jpg",
+   "fuente": "IMG_7017.JPG",
+   "nota": "«Mensura» subrayado. Pico enlaza con sus propias mensuras recientes (Saavedra).",
+   "lineas": [
+    "terreno pertenece á los que Don Francisco",
+    "Del-Sar compró en años anteriores como",
+    "remanentes de los que fueron de los \"Laras y Sueros\".",
+    "Mensura. En el Partido de San",
+    "Andres de Giles á los ocho dias del mes de",
+    "Junio del Año de mil ochocientos sesenta",
+    "y tres, yo el Agrimensor que suscribo, comi",
+    "sionado judicialmente para medir y deslin",
+    "dar los terrenos de la testamentaria del",
+    "finado Don Pedro del Sar, previa la cita",
+    "cion de linderos tomé por punto de Arranque",
+    "el mojon letra A del plano adjunto relacionado con",
+    "el letra A' perteneciente á la mensura del terreno",
+    "de los herederos de Don Lorenzo Saavedra que no ha",
+    "mucho practiqué yo mismo, así como el de Doña",
+    "Faustina Saavedra, y desde dicho mojon di",
+    "principio á la mensura por el rumbo Norte",
+    "treinta y un grados treinta y siete minutos al",
+    "Oeste, y medí ciento doce metros seis decimetros",
+    "hasta ponerme en la margen izquierda de la",
+    "Cañada de la Cruz, y desde este punto medí al",
+    "mismo rumbo cuatro cientos sesenta y cinco",
+    "metros nueve decimetros punto B donde enfren",
+    "té á la derecha el mojon C esquinero Sur del",
+    "terreno de Don Geronimo Torny, antes Julian",
+    "Cañas que citan los documentos de Del-Sar.",
+    "Dejé aquí una señal y seguí el mismo rumbo",
+    "anterior y medí desde la Cañada de la Cruz",
+    "dos mil setecientos diez metros seis decimetros",
+    "hasta el mojon D esquinero Norte de Doña",
+    "Faustina Saavedra. Vuelto al punto B",
+    "medí hacia C al rumbo perpendicular Norte",
+    "cincuenta y ocho grados veinte y tres minutos",
+    "al Este mil tres cientos once metros un"
+   ],
+   "interpretacion": "…y es parte de lo que Francisco del Sar compró como remanentes de los «Laras y Sueros». Mensura: San Andrés de Giles, 8/6/1863, Pedro Pico, comisionado para medir y deslindar los terrenos de la testamentaría de Pedro del Sar. Arranca del mojón A del plano, relacionado con el A′ de la mensura de los herederos de Lorenzo Saavedra y de Faustina Saavedra «que no ha mucho practiqué yo mismo». Al N 31° 37′ O: 112,6 m hasta la margen izquierda de la Cañada de la Cruz y 465,9 m más hasta B, frente al mojón C (esquina S de Jerónimo Torny, antes Julián Cañas). Sigue hasta 2710,6 m desde la cañada: mojón D, esquina N de Faustina Saavedra. De B a C, perpendicular N 58° 23′ E, 1311,1 m…"
+  },
+  {
+   "titulo": "Folio 3 · La «suerte» de Vivar y la hijuela de Pedro del Sar",
+   "img": "img/f/031/09.jpg",
+   "fuente": "IMG_7018.JPG",
+   "nota": "Foliatura «3».",
+   "lineas": [
+    "decimetro hasta el mojon C. Desde este punto, y",
+    "por los mojones del terreno de Don Geronimo Torny,",
+    "al rumbo Norte cuarenta y siete grados diez minu",
+    "tos al Oeste medí dos mil trescientos cuarenta",
+    "y tres metros cuatro decimetros hasta el punto",
+    "E. Desde aquí, por el rumbo Sur cincuenta y ocho",
+    "grados veinte y tres minutos al Oeste medí dos",
+    "cientos treinta y siete metros ocho decimetros",
+    "hasta el mojon D siendo la linea anterior, esto es,",
+    "la E D, la correspondiente á la suerte de tierras",
+    "que Don Pedro Diaz de Vivar vendió á Doña",
+    "Maria Arriola de Monsalvo, y de la cual es",
+    "parte el terreno deslindado = Tiene este terreno",
+    "la superficie de dos millones cuatrocientos noventa",
+    "y dos mil seiscientos noventa y dos metros —",
+    "cuadrados 2492692 met.^{s} cuad.^{s} = Para medir",
+    "en seguida el terreno de la hijuela de Don Pedro",
+    "del Sar medí desde D, en prolongacion de la",
+    "linea E D doscientos noventa y siete metros —",
+    "cinco decimetros, que unidos á la distancia E D",
+    "hacen novecientos treinta y cinco metros tres",
+    "decimetros hasta el mojon F esquinero Este del",
+    "terreno de los herederos de Don Domingo Monsal",
+    "vo, puesto por mí el año proximo pasado. —",
+    "Vuelto al punto E seguí la linea de los mojo",
+    "nes del terreno de Don Geronimo Torny al",
+    "rumbo ya dicho Norte cuarenta y siete grados",
+    "diez minutos al Oeste, y á los doscientos",
+    "treinta y ocho metros un decimetro enfrenté",
+    "el mojon F. Como el terreno de la hijuela del",
+    "finado Don Pedro del Sar debia tener una legua",
+    "de fondo puesto que parte de esa hijuela ha sido",
+    "enagenada en favor de Don Luis Chapeaurouge"
+   ],
+   "interpretacion": "…hasta C. Por los mojones de Torny, N 47° 10′ O, 2343,4 m hasta E; de E, S 58° 23′ O, 237,8 m hasta D: E–D es el frente de la suerte que Díaz de Vivar vendió a María Arriola de Monsalvo. Primera fracción: 2.492.692 m². Para la hijuela de Pedro del Sar prolonga E–D 297,5 m (935,3 m en total) hasta el mojón F, esquina E de los herederos de Domingo Monsalvo, «puesto por mí el año próximo pasado». Desde E, por Torny, a 238,1 m enfrenta F. Como la hijuela debía tener una legua de fondo y parte fue enajenada a Luis Chapeaurouge…"
+  },
+  {
+   "titulo": "Folio 3 v. · Fracción hasta Chapeaurouge; enlace con las tierras Monsalvo-Sosa",
+   "img": "img/f/031/10.jpg",
+   "fuente": "IMG_7019.JPG",
+   "nota": "",
+   "lineas": [
+    "Calculé que desde F debia medir cinco mil",
+    "trescientos quince metros un decimetro los",
+    "cuales medí y puse en su final el mojon G",
+    "esquinero Norte de este terreno y Este del",
+    "vendido á Chapeaurouge. Desde G marché",
+    "al Sur cuarenta y dos grados cincuenta minu",
+    "tos al Oeste y medí novecientos veinte y",
+    "nueve metros dos decimetros hasta poner un",
+    "mojon en la linea de los mojones del terre",
+    "no de los herederos de Don Domingo Mon",
+    "salvo, punto H. Desde aquí, por el rumbo",
+    "Sur cuarenta y siete grados diez y ocho",
+    "minutos al Este, por los mojones de los",
+    "Monsalvos medí cinco mil setenta y seis",
+    "metros nueve decimetros hasta el punto F",
+    "donde cerré la mensura de esta fraccion",
+    "de los terrenos de la testamentaria del finado",
+    "Don Pedro del Sar. El terreno medido con",
+    "tiene una superficie igual á cuatro millo",
+    "nes setecientos sesenta y ocho mil trescientos",
+    "setenta y nueve metros cuadrados —",
+    "4768379 met.^{s} cuad.^{s} = Los otros terrenos perte",
+    "necientes á esta testamentaria y comprados por",
+    "Don Francisco del Sar á Doña Maria Antonia",
+    "Monsalvo y á Doña Cruz Sosa estan separados",
+    "de los anteriormente medidos y para ligarlos",
+    "con estos ultimos me puse en el mojon F y por",
+    "el rumbo Sur cincuenta y ocho grados veinte",
+    "y tres minutos Oeste medí ciento treinta y cinco",
+    "metros cinco decimetros hasta el mojon esquinero",
+    "de Doña Faustina Saavedra y Doña Juana Sosa",
+    "En seguida al mismo rumbo medí cuatro cientos",
+    "treinta y tres metros hasta el mojon J esqui"
+   ],
+   "interpretacion": "…calcula que desde F debe medir 5315,1 m: mojón G, esquina N del terreno y E de lo vendido a Chapeaurouge. De G al S 42° 50′ O, 929,2 m hasta H, en la línea de los herederos de Domingo Monsalvo; de H al S 47° 18′ E por los mojones de los Monsalvo, 5076,9 m hasta F. Segunda fracción: 4.768.379 m². Las tierras compradas a María Antonia Monsalvo y a Cruz Sosa están separadas; para ligarlas, desde F al S 58° 23′ O mide 135,5 m hasta el esquinero de Faustina Saavedra y Juana Sosa, y 433 m más hasta el mojón J…"
+  },
+  {
+   "titulo": "Folio 4 · La señal J′ de Torny; cien varas = 86,6 m; se corrige el paralelismo",
+   "img": "img/f/031/11.jpg",
+   "fuente": "IMG_7020.JPG",
+   "nota": "Foliatura «4». Testados: «terrenos», «y siete», «y puse» (salvados en f. 5).",
+   "lineas": [
+    "nero Oeste de Doña Juana Sosa y Norte de Don",
+    "Geronimo Torny. Desde aquí medí ochenta y seis me",
+    "tros seis decimetros pertenecientes á Don Geronimo Torny",
+    "é hice la señal J' por que este mismo Señor Torny",
+    "es Comprador de los terrenos que se miden y no",
+    "habia necesidad de poner un mojon en J'. Seguí",
+    "adelante y medí desde J hasta el mojon L seiscien",
+    "tos cuarenta y ocho metros seis decimetros. Desde este",
+    "mojon seguí el rumbo de mojones que deslindan",
+    "el terreno de los \"Monsalvos\" y otros mas adelante",
+    "al Sur cincuenta y cinco grados treinta y dos",
+    "minutos Oeste y medí dos cientos diez y siete",
+    "metros cuatro decimetros completandose aquí",
+    "los terrenos que fueron de Maria Antonia Monsalvo",
+    "y Doña Cruz Sosa y tambien la \"suerte\" vendida",
+    "por Don Pedro Diaz de Vivar. = Vuelto á la",
+    "señal J' establecí el rumbo Sur treinta y un",
+    "grados treinta y siete minutos al Este para",
+    "lelo al de los ~~terrenos~~ mojones del terreno de Doña",
+    "Juana Sosa y distante de ellos ochenta y seis me",
+    "tros seis decimetros que hacen cien varas, y por",
+    "este rumbo medí hasta la Cañada de la Cruz",
+    "tres mil ciento veinte y tres metros nueve decimetros,",
+    "pasé la Cañada y seguí midiendo des[de] ella tres",
+    "mil setecientos diez ~~y siete~~ metros cinco de=",
+    "cimetros hasta el punto R' que queda en la linea",
+    "de los mojones de Norberto y Faustina Saavedra",
+    "y herederos de Juana Sosa. Para corregir el",
+    "paralelismo que traia medí desde R mojon",
+    "esquinero Sur del terreno de Juana Sosa las cien",
+    "varas ú ochenta y seis metros seis decimetros",
+    "antes mencionados y puse ~~y puse~~ entonces el",
+    "mojon R' en su verdadero lugar y seguí midi"
+   ],
+   "interpretacion": "…esquina O de Juana Sosa y N de Torny. Mide 86,6 m de Torny y hace la señal J′ —no pone mojón porque Torny «es comprador de los terrenos que se miden»—. De J a L, 648,6 m; por los mojones de los Monsalvo al S 55° 32′ O, 217,4 m, completando lo de María Antonia Monsalvo, Cruz Sosa y la «suerte» de Díaz de Vivar. Desde J′, al S 31° 37′ E, paralelo a Juana Sosa y a 86,6 m «que hacen cien varas», 3123,9 m hasta la Cañada de la Cruz; la cruza y sigue 3710 m hasta R′, en la línea de Norberto y Faustina Saavedra y Juana Sosa. «Para corregir el paralelismo que traía», mide desde R (esquina S de Juana Sosa) las cien varas y pone R′ «en su verdadero lugar»…"
+  },
+  {
+   "titulo": "Folio 4 v. · Dobarro y los herederos de Juan Castro; cierre",
+   "img": "img/f/031/12.jpg",
+   "fuente": "IMG_7021.JPG",
+   "nota": "",
+   "lineas": [
+    "endo al rumbo Sur cincuenta y ocho gra",
+    "dos veinte y tres minutos al Oeste hasta cua",
+    "trocientos treinta y tres metros que hacen qui",
+    "nientas varas, cuatrocientas de del Sar y",
+    "cien de Doña Felicia Sosa, y puse el mojon",
+    "Q esquinero con Don Manuel Dobarro. Desde",
+    "Q me dirigí al rumbo Norte treinta y un",
+    "grados treinta y siete minutos al Oeste á",
+    "una bandera dejada cuatrocientos treinta",
+    "y tres metros al Sur cincuenta y ocho grados",
+    "veinte y tres minutos Oeste del mojon N de",
+    "Doña Juana Sosa en la costa de la Cañada",
+    "de la Cruz, y hallé hasta dicha Cañada",
+    "desde Q tres mil quinientos veinte y seis me",
+    "tros tres decimetros en cuyo punto puse",
+    "el mojon P deslindando con Don Manuel",
+    "Dobarro. Me trasladé luego al mojon",
+    "M, y por el rumbo Sur treinta y un grados",
+    "treinta y siete minutos al Este, deslindando",
+    "con los herederos de Don Juan Castro, medí",
+    "tres mil quinientos cincuenta y tres metros —",
+    "hasta la Cañada de la Cruz donde puse",
+    "el mojon O rectificando su lugar despues",
+    "de haber medido desde el mojon N ochocien",
+    "tos sesenta y seis metros ó mil varas de",
+    "que constan los terrenos de esta testamentaria",
+    "y las cien varas de Don Geronimo Torny",
+    "donde cerré la mensura sin oposicion de",
+    "parte de los linderos. = El terreno R'QPN' con",
+    "tiene un millon doscientos sesenta y dos",
+    "mil setecientos setenta y seis metros cua",
+    "drados 1262776 met.^{s} cuad.^{s} = La fraccion",
+    "O M J' N contiene dos millones quinientos"
+   ],
+   "interpretacion": "…y sigue al S 58° 23′ O 433 m, «que hacen quinientas varas, cuatrocientas de Del Sar y cien de Doña Felicia Sosa», y pone Q, esquina con Manuel Dobarro. De Q al N 31° 37′ O, hacia una bandera dejada a 433 m del mojón N de Juana Sosa en la costa de la Cañada de la Cruz: 3526,3 m hasta la cañada, mojón P, lindando con Dobarro. Desde M, al S 31° 37′ E con los herederos de Juan Castro, 3553 m hasta la Cañada de la Cruz: mojón O, rectificado tras medir desde N 866 m, «o mil varas», de la testamentaría más las cien varas de Torny. Cierra «sin oposición de parte de los linderos». R′QPN′: 1.262.776 m². O M J′ N…"
+  },
+  {
+   "titulo": "Folio 5 · Superficie total, variación magnética y D. T.",
+   "img": "img/f/031/13.jpg",
+   "fuente": "IMG_7022.JPG",
+   "nota": "Foliatura «5». Salvado de testados firmado «Pico».",
+   "lineas": [
+    "ochenta mil treinta y seis metros cuadra",
+    "dos 2580036 met.^{s} cuad.^{s} —",
+    "Todas las fracciones unidas hacen la suma de",
+    "Once millones ciento tres mil ochocientos —",
+    "ochenta y tres metros cuadrados 11103883 met.^{s}",
+    "cuadrados —",
+    "Pedro Pico",
+    "Nota — testado, terrenos, y puse, no vale — cincuenta —",
+    "no vale.",
+    "Pico",
+    "La variacion magnetica en este lugar es la mis",
+    "ma con muy poca deferencia que la que consta",
+    "en los duplicados de las mensuras de Don",
+    "Geronimo Torny, Doña Paulina Espinosa —",
+    "lindera Cañada de la Cruz por medio — here",
+    "deros de Don Lorenzo Saavedra, Doña Faus",
+    "tina Saavedra y herederos de Monsalvo —",
+    "siendo la usada en esta mensura once",
+    "grados treinta y dos minutos al Este —",
+    "Pico",
+    "Señor Juez de 1^{a} Ynstancia —",
+    "El Departamento Topografico",
+    "ha examinado la presente mensura",
+    "de los terrenos de propiedad de los He-",
+    "rederos del finado Don Pedro del Sar en",
+    "el partido de San Andrés de Giles, prac",
+    "ticada por el agrimensor Don Pedro"
+   ],
+   "interpretacion": "…2.580.036 m². Total de las cuatro fracciones: 11.103.883 m² (1110 ha); la suma cierra. Firma Pedro Pico.\nVariación magnética: «la misma con muy poca diferencia» que en los duplicados de Jerónimo Torny, Paulina Espinosa («lindera, Cañada de la Cruz por medio»), herederos de Lorenzo Saavedra, Faustina Saavedra y herederos de Monsalvo; la usada aquí: 11° 32′ al Este. Pico construye una serie propia de mensuras vecinas con una declinación común.\nInforme del Departamento Topográfico sobre los terrenos de los herederos de Pedro del Sar…"
+  },
+  {
+   "titulo": "Folio 5 v. · Aprobación del D. T. (22/7/1863)",
+   "img": "img/f/031/14.jpg",
+   "fuente": "IMG_7023.JPG",
+   "nota": "Cinco firmas con rúbrica.",
+   "lineas": [
+    "Pico y hallandola bien ejecutada —",
+    "tanto en su parte facultativa como",
+    "en la que hace referencia á las cons-",
+    "tancias de este espediente, la considera",
+    "digna de la aprobacion judicial. —",
+    "Buenos Ayres Julio 22 de 1863. —",
+    "Salas    Moreno",
+    "Malaver    Casagemas",
+    "Benoit"
+   ],
+   "interpretacion": "…«bien ejecutada, tanto en su parte facultativa como en la que hace referencia a las constancias de este expediente»; digna de aprobación judicial. Buenos Aires, 22/7/1863: Salas, Moreno, Malaver, Casagemas, Benoit (la composición de 1863 ya registrada en la Ficha 007)."
+  },
+  {
+   "titulo": "Oficio del juez Alejo B. González (31/8/1863): el campo se remató",
+   "img": "img/f/031/15.jpg",
+   "fuente": "IMG_7028.JPG",
+   "nota": "Papel sellado de 3 pesos, sello en seco «Buenos Aires 1863», foliatura 7. Nombres dudosos: «Resabal [?]», escribanía «Medina [?]».",
+   "lineas": [
+    "[sello de 3 pesos; sello en seco «Buenos Aires 1863»; foliatura 7]",
+    "[al margen:] [Juzgado] de 1.^{a} Inst.^{a} en lo Civil — [Escribanía] de Medina [?]",
+    "Buenos Ayres Agosto 31 de",
+    "1863.",
+    "Al Señor Presidente del Departamento",
+    "Topografico —",
+    "El infrascripto participa á V. que en el espediente",
+    "seguido por Don Joaquin Resabal [?] y Don Gero",
+    "nimo Torny, sobre aprobacion de la mensura",
+    "practicada por el Agrimensor Don Pedro",
+    "Pico con fecha 8 de Junio del corriente año de",
+    "un campo sito en el Partido de S.^{n} Andres",
+    "de Giles de la propiedad de la Testamentaria",
+    "de Don Pedro del Sar, se ha dictado",
+    "por este Juzgado el auto del tenor si-",
+    "guiente = Buenos Ayres Agosto 29 de 1863",
+    "Autos y Vistos: de conformidad de par",
+    "tes y Agente Fiscal se aprueba en cuanto",
+    "mas haya lugar por derecho la mensura prac",
+    "ticada por el Agrimensor Don Pedro Pico",
+    "del terreno de esta Testamentaria inter",
+    "poniendo el Juzgado para su mayor vali",
+    "dez la autoridad que ejerce por medio de",
+    "este auto. En su virtud comuniquese por",
+    "oficio al Departamento Topografico",
+    "dese al rematador del terreno testimonio si",
+    "lo pidiere, y agreguese este espediente",
+    "á los autos de la testamentaria pa"
+   ],
+   "interpretacion": "El juez comunica al D. T. que, en el expediente seguido por Joaquín Resabal [?] y Jerónimo Torny sobre aprobación de la mensura de Pico (8/6/1863) de un campo de la testamentaría de Pedro del Sar, dictó el auto del 29/8/1863: de conformidad de partes y agente fiscal se aprueba la mensura, se comunica al Departamento, se da testimonio «al rematador del terreno» si lo pide y se agrega el expediente a los autos de la testamentaría para otorgar la escritura al rematador. La mensura es el paso previo a escriturar un REMATE judicial."
+  },
+  {
+   "titulo": "Oficio (cont.) · firma de González; agregado al duplicado",
+   "img": "img/f/031/16.jpg",
+   "fuente": "IMG_7029.JPG",
+   "nota": "",
+   "lineas": [
+    "ra cumplirse con el otorgamiento de",
+    "la escritura al rematador — Gonzalez",
+    "Lo mandó y firmó el Señor Juez de Pri",
+    "mera Ynstancia en lo Civil Doctor Don",
+    "Alejo B. Gonzalez en Buenos Ayres á vein",
+    "te y nueve de Agosto de mil ochocientos",
+    "sesenta y tres doy fé — Pedro Medina [?] —",
+    "Lo que se comunica á V. á los efectos",
+    "consiguientes.",
+    "Dios gue. á V. m. a.^{s}",
+    "Alejo B. Gonzalez",
+    "Set.^{e} 2/863.",
+    "Agréguese al duplicado corres-",
+    "pondiente, prévio acuse de recibo."
+   ],
+   "interpretacion": "Firma el juez civil Dr. Alejo B. González (29/8/1863; escribano Pedro Medina [?]), que ya aprobó las Fichas 024, 027 y 029. El 2/9/1863 se ordena agregar al duplicado previo acuse de recibo."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Terrenos de la testamentaría de D. Pedro del Sar (original)",
+   "img": "img/f/031/03.jpg",
+   "fuente": "IMG_7024.JPG (detalles 7025-7027)",
+   "orientacion": "Pliego original a tinta con fracciones coloreadas en verde; flecha de norte; doble escala gráfica (metros y varas); tabla de equivalencias metros/varas; firmado «Junio 8 de 1863 — Pedro Pico». Toma oscura.",
+   "interpretacion": "Fajas paralelas cortadas por la Cañada de la Cruz, dibujada serpenteando en diagonal. Las cuatro fracciones de la testamentaría van coloreadas: dos angostas sobre la cañada (entre Manuel Dobarro, herederos de Juana Sosa y Faustina Saavedra), una trapezoidal (la «suerte» de Vivar, 2.492.692 m²) junto a Norberto Saavedra, y la hijuela larga de Pedro del Sar (4.768.379 m²) que sube oblicua entre «Herederos de Monsalvo» y «Jerónimo Torny, comprado a los herederos de Vivar [?]» hasta Chapeaurouge y O’Brien. La tabla de equivalencias traduce cada distancia de metros a varas.",
+   "referencias": [
+    [
+     "Fracciones",
+     "Testamentaría de D. Pedro del Sar: 2.580.036 · 1.262.776 · 2.492.692 · 4.768.379 m²"
+    ],
+    [
+     "Linderos",
+     "Her. de Juan Castro · Manuel Dobarro · Felicia Sosa · her. de Juana Sosa · Faustina y Norberto Saavedra · Jerónimo Torny · her. de Monsalvo · Chapeaurouge · O’Brien · Tito Simons [?]"
+    ],
+    [
+     "Aguas",
+     "Cañada de la Cruz (cortada por todas las fajas)"
+    ],
+    [
+     "Puntos",
+     "A, A′, B, C, D, E, F, G, H, J, J′, L, M, N, N′, O, P, Q, R, R′"
+    ],
+    [
+     "Tabla",
+     "Equivalencias metros ↔ varas para las distancias usadas"
+    ],
+    [
+     "Anotaciones posteriores",
+     "A lápiz azul: «3553 m según diligencia», «(a)», «562 m», «Monsalvo»"
+    ]
+   ]
+  },
+  {
+   "titulo": "Copia de la Dirección de Geodesia (s. XX)",
+   "img": "img/f/031/04.jpg",
+   "fuente": "IMG_7030.JPG",
+   "orientacion": "Copia heliográfica/calco con rótulo «DIRECCIÓN DE GEODESIA — Dibujó Delia A. Moreno — Revisó Víctor Martínez Piotos [?], Jefe de la Sala de Dibujo — Ing. Civil Carlos A. Marino, Director».",
+   "interpretacion": "Redibujo moderno del plano de Pico, legible, con las mismas fajas, rumbos (N 31° 37′ O, N 47° 10′ O, N 47° 18′ O), superficies y la tabla de equivalencias; permite leer los nombres que en el original están oscuros («Manuel Dobarro», «Felicia Sosa», «Herederos de Juana Sosa», «Faustina Saavedra», «Norberto Saavedra», «Jerónimo Torny», «Chapeaurouge», «O’Brien»). Útil para georreferenciar.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Vergara → díaz de vivar → monsalvo → del sar: el campo como sedimento",
+   "texto": "El título se remonta a la merced del gobernador Pedro Esteban Dávila al regidor Juan de Vergara (el texto dice 1735, por 1635), pasa por las Leiva y Vergara a Pedro Díaz de Vivar, que en 1805 vende a María Arriola, viuda de Domingo Monsalvo; sus hijos y nietos (Luis Antonio, Manuel, Juan Bautista, Tiburcia, Eusebia, Polonia, Juana, Juan Monsalvo) lo fragmentan y venden a Francisco del Sar (1839-1848). Es la genealogía (c) de METODO (Fichas 007, 017, 023, 028) cruzada con los Monsalvo (Ficha 030) y los Del Sar (021, 025, 027). Además, el resto del campo son «remanentes de los Laras y Sueros»: las dos mercedes fundacionales se tocan aquí."
+  },
+  {
+   "titulo": "Un testaferro reconocido por el juez",
+   "texto": "En 1839 Luis Antonio Monsalvo compra 1000 v a Petrona Herrera, pero el dinero lo pone Francisco del Sar, que representa al comprador; en 1841 la viuda de Monsalvo declara conforme y el juzgado reconoce a Del Sar como dueño. La acumulación de Del Sar se hace comprando fajas angostas (400-500 v) a una familia fragmentada por la herencia. En 1856 vende todo a sus nietos Rafael y Pedro; ese mismo mes venden a Mooney (Ficha 025)."
+  },
+  {
+   "titulo": "Mensura para un remate",
+   "texto": "El expediente lo impulsan Joaquín Resabal [?] y Jerónimo Torny, y el juez manda dar testimonio «al rematador del terreno» y agregar la mensura a la testamentaría para otorgarle la escritura. Torny —ya lindero y comprador en las Fichas 026-027— compra en remate; por eso Pico no pone mojón en J′ («no había necesidad»): el comprador es el mismo vecino. La mensura judicial es aquí un instrumento de liquidación de una sucesión."
+  },
+  {
+   "titulo": "Pico, cartógrafo de un bloque",
+   "texto": "Pico se apoya en sus propias mensuras recientes (herederos de Lorenzo Saavedra, Faustina Saavedra, herederos de Domingo Monsalvo —mojón «puesto por mí el año próximo pasado»—, Torny, Paulina Espinosa) y declara una declinación común (11° 32′ E). Corrige «el paralelismo que traía» midiendo desde el mojón vecino. Trabaja en metros pero traduce sistemáticamente las medidas de los títulos: 86,6 m = 100 v, 433 m = 500 v, 866 m = 1000 v; el plano lleva doble escala y una tabla de equivalencias."
+  },
+  {
+   "titulo": "Paisaje: la cañada de la cruz como eje",
+   "texto": "Todas las fajas cortan la Cañada de la Cruz; los mojones se ponen «en la margen izquierda» o «en la costa de la cañada» y se reubican (O, R′) tras medir. El paisaje es un peine de fajas angostas y largas (de 86 a 1300 m de ancho por 3 a 7 km) perpendiculares a la cañada: la huella material de las suertes coloniales partidas por herencias."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿«Rivia», «Tito Simons», «Santos Riera», «Resabal», «Medina»? ¿Por qué el texto dice 1735 en la merced de Dávila? ¿Quién fue el rematador (Torny)? Buscar los duplicados de Pico para Saavedra (Lorenzo y Faustina), herederos de Domingo Monsalvo, Torny y Paulina Espinosa entre las carpetas siguientes. El «otro lado del río de Luján» del título de 1805 sitúa el campo respecto de Luján, no de Areco."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Pedro del Sar y Rafael del Sar",
+   "rol": "Propietarios (nietos de francisco)",
+   "texto": "Compraron a su abuelo Francisco del Sar en 1856 y vendieron a William Mooney el campo del arroyo de Suero (Ficha 025). Pedro murió antes de 1860; su albacea es Luis de Chapeaurouge (Ficha 030). Rafael cede sus derechos a la testamentaría de su hermano.",
+   "fuentes": "Fichas 025, 027, 030; esta mensura."
+  },
+  {
+   "nombre": "Francisco del Sar",
+   "rol": "Acumulador de tierras",
+   "texto": "Compra fajas a los Monsalvo (1839-1848) y «remanentes de los Laras y Sueros»; se hace reconocer judicialmente dueño de una compra hecha a nombre de Luis Antonio Monsalvo. Esposa (¿) Santos Riera [?] de Del Sar. En la Ficha 021 aparece como heredero/lindero en la desembocadura del arroyo de Giles.",
+   "fuentes": "Fichas 021, 025; esta mensura."
+  },
+  {
+   "nombre": "Familia Monsalvo",
+   "rol": "Vendedores",
+   "texto": "Domingo Monsalvo y María Arriola (compra a Vivar, 1805); hijos y nietos: Luis Antonio (y su viuda María Antonia), Manuel (y su viuda Cruz Sosa), Juan Bautista (y su viuda Petrona Herrera), Tiburcia, Eusebia, Polonia, Juana, Juan. Otra rama del alférez Antonio Monsalvo (Ficha 030).",
+   "fuentes": "Fichas 003, 030."
+  },
+  {
+   "nombre": "Pedro Díaz de Vivar",
+   "rol": "Vendedor (1805)",
+   "texto": "Heredero por donación de Teodora de Leiva y Vergara, en la línea de la merced de Dávila al regidor Juan de Vergara (1635). Sus sucesores reclaman sobrantes todavía en 1865 (Ficha 028).",
+   "fuentes": "Fichas 007, 017, 023, 026, 028."
+  },
+  {
+   "nombre": "Jerónimo Torny",
+   "rol": "Lindero y comprador en remate",
+   "texto": "Sucesor de Julián Cañas (y de Pedro Martínez); curador y apoderado en 1860 (Ficha 027), con terrenos medidos por Aizpurúa y Pico (Ficha 026). Promueve la aprobación de esta mensura y es comprador de las tierras medidas.",
+   "fuentes": "Fichas 026, 027."
+  },
+  {
+   "nombre": "Pedro Pico · Alejo B. González · D. T. 1863",
+   "rol": "Agrimensor, juez y revisores",
+   "texto": "Pico (Fichas 007, 026, 027, 030). González, juez civil (024, 027, 029). D. T.: Salas, Moreno, Malaver, Casagemas, Benoit (22/7/1863).",
+   "fuentes": "Fichas anteriores."
+  },
+  {
+   "nombre": "Linderos y otros",
+   "rol": "Vecinos",
+   "texto": "Luis de Chapeaurouge; O’Brien (Ficha 027); herederos de Juan Castro (Manuel Castro, Ficha 007); Manuel Dobarro; Felicia, Juana y Cruz Sosa; Lorenzo, Faustina y Norberto Saavedra; Paulina Espinosa; Juan José León, Ramírez, Tito Simons [?]; Joaquín Resabal [?]. Sin datos biográficos en la búsqueda breve.",
+   "fuentes": "Esta mensura."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/031/02.jpg",
+  "fuente": "IMG_7013.JPG",
+  "lineas": [
+   "N.^{o} 130    Sec.^{n} Areco.",
+   "Giles",
+   "31",
+   "Testamentaria del finado Don",
+   "Pedro del Sar. Partido de San",
+   "Andres de Giles",
+   "1863",
+   "Pedro Pico",
+   "Agrim.^{or}"
+  ]
+ },
+ "titulo": "Testamentaría de D. Pedro del Sar",
+ "estado": "Transcripta (12 hojas, 347 renglones), 2 láminas"
+}

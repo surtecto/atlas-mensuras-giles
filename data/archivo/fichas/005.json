@@ -1,0 +1,547 @@
+{
+ "carpeta": "5",
+ "carpeta_nombre": "Carpeta 5",
+ "archivo": "Ficha 005 - Angela Casco de Saraví (1856).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Sección Areco)",
+  "N.º de duplicado": "5",
+  "Propietario / solicitante": "D.ª Angela Casco de Saraví",
+  "Agrimensor": "Manuel Eguía",
+  "Año": "1856–1857",
+  "Fecha de la diligencia": "8 de octubre de 1856 (informe D. T. 24/3/1857; aprobación judicial 1/12/1857)",
+  "Ubicación": "Sobre y al N del arroyo de Giles (margen izquierda)",
+  "Orden judicial": "Despacho del 9 de mayo de 1855 del Juez de 1.ª Instancia Dr. D. Osvaldo Piñero [?]; aprobación por auto del 1/12/1857 (Juzgado Civil, firma Conwell [?])",
+  "Vendedor / antecesor": "Francisco Antonio Suero → Felipe Antonio Martínez → sus herederos Luis Ramón Martínez y Manuel Regueyra (venden 13/3/1827) → Carlos Ramón Casco → su hija Angela Casco de Saraví (herencia)",
+  "Linderos citados": "SO: herederos de Manuela Córdoba de Galeano (Sotero Galeano) · NO: herederos de Plácido Guerrico (puesto San Juan) · NE: Celestino Andrade y Francisco Casco · SE: arroyo de Giles. En 1827: N María Lenzina [?], S Mariano Galeano, fondos Ramón Cané",
+  "Medidas": "Trapecio: 10.381 varas (lado SO) · 3000 (NO) · 9268 + 267 (NE) · frente al arroyo 1225 + 825 + 950 = 3000 varas",
+  "Rumbos": "Corregidos; declinación 11° 15' NE, calculada por alturas iguales del sol en la estancia de Guerrico (Areco)",
+  "Referencia de archivo": "Portadilla: «Sección Areco – N.º 30 – Giles 5». Informe D. T. 24/3/1857 (Salas, Pico); oficio judicial 3/12/1857; notas 1865 (compra de excedentes)"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 2251 (30.019.500 v²; título 27 M v²) · exceso ≈ 226",
+  "hitos": "casas de Angela Casco y M. Córdoba de Galeano; puestos San Juan y Rodríguez; camino del fortín de Areco a Giles; Paso",
+  "aguas": "Arroyo de Giles (margen izquierda) y afluente interior; bajos achurados"
+ },
+ "sintesis": "Mensura judicial del 8 de octubre de 1856 del campo de Angela Casco de Saraví, al N del arroyo de Giles, hecha por Manuel Eguía. El título remonta a Francisco Antonio Suero y a una venta de 1827 a su padre, Carlos Ramón Casco. Es un trapecio de 10.381 × 3000 varas que da 30.019.500 v² (≈2251 ha) frente a 27 millones titulados. Los vértices se avalizan con casas y con los puestos «San Juan» (Guerrico) y «de Rodríguez»; la línea SO cruza el camino del fortín de Areco a Giles. La declinación (11°15') se calculó por alturas iguales del sol, en la estancia de Guerrico. Eguía reclama el exceso como «reivindicación de la primitiva»; el Departamento (Salas, Pico) y el juez (1857) lo declaran tierra del Estado. En 1865 la propietaria pide comprarlo e Isidro Cucullu denuncia sobrantes del vecino Francisco Casco.",
+ "caratula": {
+  "img": "img/f/005/01.jpg",
+  "fuente": "IMG_6596.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "5"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Doña Angela Casco de Saraví"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Manuel Eguía"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1856"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO — Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 (recto)",
+   "img": "img/f/005/06.jpg",
+   "fuente": "IMG_6598.JPG",
+   "nota": "Foliatura «1» en sello; sello en seco negro del Departamento Topográfico en el margen. Letra inglesa cursiva de Eguía, muy regular. Una cruz a lápiz bajo el título.",
+   "lineas": [
+    "Extracto de los titulos de Doña Angela",
+    "Casco de Saraví.",
+    "El trece de Marzo mil ochocientos veinte y siete Don Luis Ramon Martinez",
+    "y Don Manuel Regueyra vendieron á Don Carlos Ramon",
+    "Casco un terreno compuesto de tres mil varas de frente sobre la",
+    "margen isquierda del arroyo de Giles lindante por el Norte con",
+    "Doña Maria Lenzina [?], por el Sud con Don Mariano Galeano",
+    "y por los fondos con Don Ramon Cané. Le pertenece á los",
+    "vendedores por herencia de su finado padre Don Felipe Antonio",
+    "Martinez á quien pertenecieron por compra que hizo á Don",
+    "Francisco Antonio Suero, y fueron medidos á medios vientos",
+    "corregidos.",
+    "Por fallecimiento de Don Carlos Ramon Casco pertenecen en herencia á su hija",
+    "Doña Angela Casco de Saraví.",
+    "Diligencia de Mensura.",
+    "En el partido de Giles á ocho de Octubre de mil ochocientos cincuenta y seis",
+    "hallándome yo el agrimensor público Manuel Eguía,",
+    "autorizado judicialmente por despacho — Fecha nueve de mayo",
+    "del año pasado mil ochocientos cincuenta y cinco del señor Juez",
+    "de primera instancia Doctor Don Osvaldo Piñero [?], para",
+    "medir los terrenos de la propiedad de Doña Angela Casco",
+    "de Saraví, previa la citacion de linderos que original se",
+    "acompaña á estas diligencias, Tomé por punto de arranque",
+    "el mojon del angulo Sud de esta propiedad, clavado sobre la",
+    "margen isquierda del arroyo de Giles, distante ciento cincuenta",
+    "y cinco varas de este, que es tambien del angulo Este de los"
+   ],
+   "interpretacion": "Como en la Ficha 004, la hoja empieza con el «extracto de los títulos». El 13 de marzo de 1827 Luis Ramón Martínez y Manuel Regueyra venden a Carlos Ramón Casco un terreno de 3000 varas de frente sobre la margen izquierda del arroyo de Giles. Lindaba al N con María Lenzina [?], al S con Mariano Galeano y por los fondos con Ramón Cané. Los vendedores lo tenían por herencia de Felipe Antonio Martínez, que lo había comprado a Francisco Antonio Suero, el mismo linaje fundador (Suero) que donó la tierra del pueblo. Se había medido «a medios vientos corregidos», es decir con rumbos intermedios (NE, SO…) ya corregidos. Al morir Casco, la tierra pasa a su hija Angela Casco de Saraví.\nLa diligencia empieza el 8 de octubre de 1856. Eguía actúa por un despacho del 9 de mayo de 1855 del juez Osvaldo Piñero [?]: pasó un año y medio entre la orden y la medición. Arranca en el mojón del ángulo S, clavado sobre la margen izquierda del arroyo, a 155 varas de él."
+  },
+  {
+   "titulo": "Folio 1 (vuelto)",
+   "img": "img/f/005/07.jpg",
+   "fuente": "IMG_6599.JPG",
+   "nota": "Hoja con fuerte iluminación anaranjada en la toma; se leyó con contraste aumentado. Todas las cifras están escritas en letra.",
+   "lineas": [
+    "herederos de Doña Manuela Cordoba de Galeano, desde",
+    "el cual se mira al Norte nueve grados Este la casa de",
+    "Doña Angela Casco de Saraví; y Norte sesenta y un grados",
+    "diez minutos Oeste la casa de Doña Manuela Cordoba de",
+    "Galeano. Desde este mojon en direccion Norte cuarenta y",
+    "ocho grados diez minutos Oeste se midieron diez mil trescientas",
+    "ochenta y una varas hasta ponerse en el punto de la",
+    "perpendicular á esta linea, bajada desde el mojon del angulo",
+    "Norte del terreno de Don Francisco Casco y Este de los herederos",
+    "de Don Placido Guerrico, en cuyo punto se colocó el mojon del",
+    "ángulo Oeste del terreno que se mide sobre un punto que hace",
+    "un martillo ó ángulo entrante en el terreno de los herederos de",
+    "Don Placido Guerrico. El que abalisé mirando al Norte sesenta",
+    "y cuatro grados cincuenta minutos Este el puesto denominado",
+    "de Rodriguez perteneciente á la Doña Angela y al Norte",
+    "cincuenta y ocho grados Este el puesto denominado San Juan",
+    "de Don Placido Guerrico.",
+    "Sobre esta linea se colocó un mojon á las mil ciento catorce",
+    "varas, otro á las tres mil ciento catorce varas, otro á las cuatro",
+    "mil quinientas noventa varas; se cruzó el camino del fortin de",
+    "Areco á Giles á las cuatro mil cuatrocientas varas; á las nueve",
+    "mil ciento treinta y ocho se encontró el mojon del ángulo",
+    "Norte de los herederos de Doña Manuela Cordoba de Galeano,",
+    "y sigue dividiendo con los herederos de Don Placido Guerrico.",
+    "Desde este mojon estremo de las diez mil trescientas",
+    "ochenta y una varas, haciendo un angulo recto con la linea",
+    "anterior, en rumbo Norte cuarenta y un grados cincuenta",
+    "minutos Este al mojon del angulo Norte del terreno de Don",
+    "Francisco Casco y Este de los herederos de Don Placido Guerrico,",
+    "se midieron tres mil varas y se colocó el mojon del angulo",
+    "Norte del terreno que Don Francisco Casco vendió á Don",
+    "Celestino Andrade, clavado sobre el deslinde Sud Este de los"
+   ],
+   "interpretacion": "El mojón de arranque se «avaliza», como siempre en Eguía, con visuales a dos casas: la de Angela Casco de Saraví (N 9° E) y la de Manuela Córdoba de Galeano (N 61°10' O). Las casas de las familias son los puntos fijos del paisaje.\nEl lado largo corre al N 48°10' O durante 10.381 varas (≈9 km) dividiendo con los Galeano y después con los herederos de Plácido Guerrico. Por el camino va dejando mojones intermedios (1114, 3114 y 4590 varas), cruza el «camino del fortín de Areco a Giles» a las 4400 varas y encuentra el mojón N de los Galeano a las 9138 varas. El extremo cae en un «martillo o ángulo entrante» del campo de Guerrico, y se avaliza hacia dos puestos de estancia: el «de Rodríguez», de la propia Angela, y el «San Juan», de Guerrico. La toponimia de puestos (unidades productivas con nombre propio) es un dato de paisaje de primer orden.\nDesde allí, en ángulo recto (N 41°50' E), se miden 3000 varas hasta el mojón N del terreno que Francisco Casco vendió a Celestino Andrade."
+  },
+  {
+   "titulo": "Folio 2 (recto)",
+   "img": "img/f/005/08.jpg",
+   "fuente": "IMG_6600.JPG",
+   "nota": "Foliatura «2» en sello. Toma oscura; texto íntegro.",
+   "lineas": [
+    "herederos de Don Placido Guerrico. El que abalisé mirando",
+    "al Norte ochenta y cinco grados veinte y cinco minutos",
+    "Oeste el puesto denominado de San Juan, y Sur cuatro",
+    "grados diez minutos Este el puesto de Rodriguez. Desde este",
+    "mojon haciendo un ángulo recto con la linea anterior en",
+    "direccion Sur cuarenta y ocho grados diez minutos Este y",
+    "dividiendo con Don Celestino Andrade y Don Francisco",
+    "Casco se midieron nueve mil doscientas sesenta y ocho varas",
+    "hasta el lugar del mojon del ángulo Este de esta propiedad",
+    "y Sur de Don Francisco Casco, y se colocó en este punto",
+    "un mojon por no existir el colocado en la primitiva mensura;",
+    "habiendo colocado sobre esta linea un mojon á las tres mil",
+    "varas, donde acaba el terreno de Andrade y empieza el de",
+    "Casco y otro á las seis mil varas. Desde este mojon al Sur",
+    "cuarenta y ocho grados diez minutos Este se midieron doscientas",
+    "sesenta y siete varas hasta el arroyo de Giles que terminaron",
+    "diez varas abajo de la confluencia de un arroyo que viene del",
+    "centro del terreno que se mide.",
+    "Desde este mojon para determinar el curso del arroyo de Giles se midieron",
+    "los rumbos y distancias siguientes: Sur cuarenta y un grados",
+    "cincuenta minutos Oeste mil doscientas veinte y cinco varas;",
+    "Sur cuarenta y ocho grados diez minutos Este trescientas",
+    "setenta y cinco varas y se encontró el arroyo de Giles; Sur",
+    "cuarenta y un grados cincuenta minutos Oeste, ochocientas",
+    "veinte y cinco varas, y Sur cuarenta y ocho grados diez",
+    "minutos Este, cuatrocientas setenta y tres varas, y se",
+    "encontró el arroyo de Giles; y de aqui al Sur cuarenta",
+    "y un grados cincuenta minutos Oeste, nueve cientas",
+    "cincuenta varas hasta el mojon de arranque, habiendo",
+    "triangulizado y medido las abcisas en los puntos convenientes;",
+    "siendo todo medido á rumbos corregidos con la declinacion",
+    "de once grados quince minutos Nord-Este, calculada por"
+   ],
+   "interpretacion": "El vértice N se avaliza con los mismos dos puestos, San Juan y Rodríguez, vistos ahora desde otro ángulo. Con dos pares de visuales a los mismos puestos se pueden reconstruir hoy por intersección los vértices y los propios puestos.\nEl lado NE (S 48°10' E) mide 9268 varas con Andrade (primeras 3000) y Francisco Casco. En el vértice E Eguía coloca un mojón nuevo «por no existir el colocado en la primitiva mensura»: la mensura de 1827 había dejado mojones que en treinta años desaparecieron. Siguen 267 varas hasta el arroyo de Giles, que se alcanza 10 varas aguas abajo de la confluencia de «un arroyo que viene del centro del terreno»: un afluente interno que también figura en el plano.\nEl frente sobre el arroyo no se mide en línea recta. Se levanta con una poligonal en escalera: tramos paralelos al frente (1225, 825 y 950 varas, que suman exactamente las 3000 del título) y perpendiculares (375 y 473 varas) hasta tocar el agua, «habiendo triangulizado y medido las abscisas». Es una técnica de levantamiento de un borde natural por ordenadas. La declinación es de 11°15' NE."
+  },
+  {
+   "titulo": "Folio 2 (vuelto)",
+   "img": "img/f/005/09.jpg",
+   "fuente": "IMG_6601.JPG",
+   "nota": "Fin de la diligencia (dos firmas de Eguía), nota de salvedad y comienzo del informe del Departamento Topográfico con otra letra. El borde inferior está roto.",
+   "lineas": [
+    "alturas iguales del sol.",
+    "Tiene el terreno medido la forma de un trapezio con",
+    "la superficie de treinta millones diez y nueve mil",
+    "quinientas varas cuadradas, y siendo la de su titulo de",
+    "veinte y siete millones de varas cuadradas resulta un",
+    "exceso de tres millones diez y nueve mil quinientas varas",
+    "cuadradas que pertenecen á la misma señora Doña",
+    "Angela Casco de Saraví porque la presente mensura",
+    "es la reivindicacion de la primitiva.",
+    "Asistieron á esta operacion los linderos Don Francisco",
+    "Casco y Don Celestino Andrade. Por los herederos de Don",
+    "Placido Guerrico asistió Don Francisco Duberte [?] y por los",
+    "herederos de Doña Manuela Cordoba de Galeano su hijo",
+    "Don Sotero Galeano, y todos estuvieron conformes.",
+    "Manuel Eguía [rúbrica]",
+    "Nota: El lindero Don Francisco Duberte [?] ~~no~~ asistió",
+    "personalmente á la operacion: no firmó la citacion, siendo",
+    "ausente, cuando le fué presentada.",
+    "nota. — no — testado — no vale.",
+    "La declinacion no ha sido observada en este lugar, y por",
+    "eso se da la observada en el partido de Areco, Estancia de",
+    "Guerrico.",
+    "Manuel Eguía [rúbrica]",
+    "El Departamento Topografico despues de",
+    "haber ecsaminado la deligencia de Mensura prac-",
+    "ticada por el Agrimensor D^{n} Manuel Eguía",
+    "en los terrenos pertenecientes á D^{a} Angela Cas[co] [enmendado]",
+    "de Saraví, sitos en el partido de Giles, ha deter-",
+    "minado aprobar los procedimientos facultativos",
+    "que se han empleado para verificar la men-",
+    "sura de dichos terrenos segun consta de la",
+    "anterior diligencia.",
+    "[...]tado [?] que por los"
+   ],
+   "interpretacion": "La declinación se calculó por «alturas iguales del sol»: se observa el sol a la misma altura antes y después del mediodía, y la bisectriz de los dos acimuts da el meridiano verdadero. Es el primer método astronómico explícito de la serie. Pero la nota final aclara que no se observó en el lugar sino en la estancia de Guerrico, en Areco, y se trasladó a Giles.\nEl terreno es un trapecio de 30.019.500 v² (≈2251 ha). El título daba 27.000.000 v² (3000 × 9000 varas), así que hay 3.019.500 v² (≈226 ha) de exceso. Eguía sostiene que el exceso pertenece a la propia Angela porque la mensura «es la reivindicación de la primitiva»: la tierra sería suya por la posesión antigua.\nAsisten Francisco Casco, Celestino Andrade, Francisco Duberte [?] por los herederos de Guerrico y Sotero Galeano por su madre. La nota salvada corrige el texto: Duberte sí asistió personalmente, pero no firmó la citación porque estaba ausente cuando se la presentaron. El «no» testado es la huella material de esa corrección.\nEl Departamento Topográfico aprueba los «procedimientos facultativos», es decir la parte técnica."
+  },
+  {
+   "titulo": "Folio 3 (recto)",
+   "img": "img/f/005/10.jpg",
+   "fuente": "IMG_6602.JPG",
+   "nota": "Foliatura «3». Continúa el informe del Departamento con letra de oficina; cifras subrayadas; firmas de Salas y Pico; firma «Jardel [?]»; nota posterior de Salas.",
+   "lineas": [
+    "titulos solo pertenecen á la Señora Saraví",
+    "un fondo de __nueve mil__ varas, con",
+    "__tres mil__ varas de frente, el Departamen-",
+    "to Topografico declara no comprender la",
+    "razon, de que la \"presente mensura es",
+    "una reivindicacion de la anterior,\" con que",
+    "el Agrimensor Eguía al final de su dili-",
+    "gencia quiere justificar la propiedad pa-",
+    "ra dicha Señora Saraví, de un ecceso de",
+    "__tres millones diez y nueve mil quinientas__",
+    "varas cuadradas que encuentra. Por tanto el",
+    "Departamento Topografico no reconocerá á los",
+    "terrenos de la Señora Saraví otra estension",
+    "que, la que por sus titulos le corresponden;",
+    "hasta que ocurra donde convenga para ob-",
+    "tener el debido titulo: teniendo presente ade-",
+    "mas que debe pasarsele vista de esta ope-",
+    "racion á los herederos de D^{n} Placido Guerri-",
+    "co, por cuanto no consta de la citacion,",
+    "que dichos herederos por sí ó por apodera-",
+    "do se hayan dado por notificados",
+    "Buenos Ayres Marzo 24 de 1857.",
+    "Salas [rúbrica]     Pico [rúbrica]",
+    "Jardel [?] [rúbrica]",
+    "Nota = El exceso de Area encontrado p.^{r} esta men-",
+    "sura lo pide en compra D.^{a} Angela Cas-",
+    "co de Saraví — El D. inf. en Mayo 9/865 [?]",
+    "Salas [rúbrica]"
+   ],
+   "interpretacion": "Aquí aparece el conflicto técnico-jurídico de la ficha. El Departamento rechaza el argumento de Eguía: los títulos sólo dan 9000 varas de fondo por 3000 de frente, y declara «no comprender la razón» de que la mensura sea «una reivindicación de la anterior». No reconocerá más superficie que la titulada hasta que la señora obtenga el título que corresponda. El exceso se considera tierra pública. Es la misma doctrina de la Ficha 004 (1855), ahora explícita y en polémica con el agrimensor.\nAgrega un reparo procesal: hay que dar vista a los herederos de Plácido Guerrico, porque en la citación no consta que se hayan dado por notificados. Enlaza con la nota sobre Duberte.\nFirman Saturnino Salas y Pico (Francisco Pico, miembro del Departamento, la misma firma dudosa de la Ficha 004, que aquí se lee con claridad). Una nota posterior (¿9 de mayo de 1865?) registra que Angela Casco de Saraví pidió comprar el exceso: terminó aceptando la tesis fiscal y compró su propio sobrante."
+  },
+  {
+   "titulo": "Folio 3 (vuelto)",
+   "img": "img/f/005/11.jpg",
+   "fuente": "IMG_6603.JPG",
+   "nota": "Sólo una nota administrativa en el tercio superior; el resto de la hoja está en blanco (se trasluce la escritura del recto).",
+   "lineas": [
+    "Nota = D.^{n} Isidro Cucullu pide en compra",
+    "el exceso de Area que dice existe en el",
+    "terreno de D.^{n} Fran.^{co} Casco — lindero",
+    "al de estas diligencias — El D. in-",
+    "formó en Agosto 11/1865",
+    "Salas [rúbrica]"
+   ],
+   "interpretacion": "En 1865 Isidro Cucullu pide comprar el exceso de área que, según él, hay en el terreno vecino de Francisco Casco. Los Cucullu eran comerciantes vascos (de Vizcaya) radicados en Giles; su apellido dio nombre después a la localidad de Cucullú. La nota resuelve una duda de la Ficha 004: el «Simón Cuculla [?]» que en 1866 pedía sobrantes de los Noriega es casi seguramente Juan Simón Cucullu, hermano de Isidro.\nEl expediente de mensura funciona como registro donde se anotan las denuncias de sobrantes. Es la huella documental de cómo un nuevo grupo de comerciantes compró tierra fiscal «intersticial» dentro de las viejas posesiones."
+  },
+  {
+   "titulo": "Oficio judicial (papel sellado de 1857)",
+   "img": "img/f/005/12.jpg",
+   "fuente": "IMG_6604.JPG",
+   "nota": "Papel sellado «3 PESOS – ESTADO DE BUENOS-AYRES 1857». Letra rápida de escribanía, de lectura difícil. Al margen superior izquierdo, anotación de radicación.",
+   "lineas": [
+    "[al margen:] [Juz]gado de 1.^{a} Instancia [en lo] Civil [?] 3",
+    "3 PESOS. Corresponde [?] [rúbrica]   [sello: ESTADO DE BUENOS-AYRES 1857]",
+    "Buenos Ayres Dic.^{e} 3 de 1857.",
+    "Al Señor Presidente del Departamento Topografico",
+    "El Juez se dirige á V. trascribiendo el",
+    "auto recaido en el espediente de men-",
+    "sura seguido ante este Juzgado por Doña Angela",
+    "Casco de Saraví, cuyo tenor es como",
+    "sigue — \"Buenos Ayres Diciembre",
+    "1.^{o} de 1857 — Autos y vistos: de con-",
+    "formidad con el Agente Fiscal en lo",
+    "Civil se aprueba en cuanto ha lugar",
+    "por derecho la mensura, deslinde y",
+    "amojonamiento que se ha practicado",
+    "en los terrenos de Doña Angela Casco",
+    "de Saraví con declaracion de que la",
+    "interesada deberá ocurrir al Superior",
+    "Gobierno para obtener el corres-",
+    "pondiente titulo, por el terreno",
+    "que le resulta de ~~[de]mas~~ [?] de propie-",
+    "dad del Estado. Pasen estos al Depar-",
+    "tamento Topografico con insercion",
+    "de este auto, entregandosele los",
+    "titulos de propiedad exhibidos, y dese",
+    "á la interesada los testimonios que"
+   ],
+   "interpretacion": "Es un oficio del juez civil al Presidente del Departamento Topográfico, escrito en papel sellado de tres pesos del Estado de Buenos Aires de 1857. Transcribe el auto del 1 de diciembre de 1857, dictado «de conformidad con el Agente Fiscal».\nLa justicia aprueba «en cuanto ha lugar por derecho» la mensura, el deslinde y el amojonamiento, pero declara que la interesada debe ocurrir al Superior Gobierno para obtener título por el terreno que resulta «de propiedad del Estado». El juez adopta la posición del Departamento contra la tesis de la «reivindicación» de Eguía.\nOrdena devolver los títulos exhibidos y dar testimonios a la interesada. La cadena institucional completa (agrimensor, Departamento, fiscal, juez, gobierno) queda documentada en un solo expediente."
+  },
+  {
+   "titulo": "Oficio judicial (cierre) y acuse del Departamento",
+   "img": "img/f/005/13.jpg",
+   "fuente": "IMG_6605.JPG",
+   "nota": "Vuelto del papel sellado (se trasluce «3 PESOS»). Firma del juez y decreto de recibo de Salas.",
+   "lineas": [
+    "pidiere, y satisfechas las costas",
+    "archívese el espediente — Con-",
+    "well [?] =\"",
+    "Lo que en cumplimiento",
+    "del auto trascripto comunico á V.",
+    "á los efectos convenientes —",
+    "Dios que á V. m.^{s} a.^{s}",
+    "Felipe José Conwell [?] [rúbrica]",
+    "Dbre 9 de 1857 —",
+    "Acúsese recibo, ponien-",
+    "dose constancia en el dupli-",
+    "cado correspondiente. —",
+    "Salas [rúbrica]"
+   ],
+   "interpretacion": "El auto termina ordenando el archivo del expediente una vez satisfechas las costas. El juez, cuya firma se lee Felipe José Conwell [?], comunica el auto al Departamento «a los efectos convenientes» con la fórmula de cortesía «Dios guarde a V. muchos años».\nEl 9 de diciembre de 1857 Saturnino Salas decreta acusar recibo y dejar constancia «en el duplicado correspondiente», que es precisamente este legajo. Así se explica por qué el archivo de Geodesia conserva duplicados: son el ejemplar del Departamento, anotado con las resoluciones posteriores."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la mensura de Angela Casco de Saraví",
+   "img": "img/f/005/03.jpg",
+   "fuente": "IMG_6606.JPG (lámina completa desplegada)",
+   "orientacion": "Lámina apaisada; la línea meridiana (flecha «Norte» con pluma) cruza el dibujo en diagonal de NO a SE; el campo está dibujado con su eje largo horizontal.",
+   "interpretacion": "Plano de Eguía a «Escala de 1 pulgada por 1000 varas», con escala transversal (decimal) al pie. El campo es un rectángulo muy alargado (≈10.400 × 3000 varas) cerrado al E por el arroyo de Giles. Rotulación en capitales de imprenta para los nombres (ANGELA CASCO de SARAVÍ, CELESTINO ANDRADE, Francisco CASCO, HEREDEROS de Plácido GUERRICO) y cursiva para los puestos y poblaciones (Ignacio Casco, Rodríguez, San Juan, Puesto).\nUna gran franja achurada atraviesa el campo de norte a sur, y otra más corta en el sector de Andrade: ¿cañadas, bañados o el «arroyo que viene del centro del terreno»? En el extremo E el arroyo de Giles, con el «Paso», la casa de Angela (rectángulo) y las poblaciones de B. Galeano y M. C. de Galeano. Un juego de curvas en tinta violácea rodea el arroyo y rotula «m. altura» junto al camino: parece un intento de representar el relieve (las lomas que bajan al arroyo), quizás agregado después.",
+   "referencias": [
+    [
+     "Angela Casco de Saraví",
+     "Campo medido: trapecio de 30.019.500 v² (≈2251 ha); casa junto al arroyo"
+    ],
+    [
+     "Herederos de Plácido Guerrico",
+     "Lindero NO; lado N 41°50' E, 3000 varas; puesto «San Juan»"
+    ],
+    [
+     "Celestino Andrade",
+     "Lindero NE (primeras 3000 varas del lado S 48°10' E); rótulo duplicado en el ángulo N"
+    ],
+    [
+     "Francisco Casco",
+     "Lindero NE (resto del lado de 9268 varas); marcas «6000» y «9268»"
+    ],
+    [
+     "Ignacio Casco",
+     "Población al N, dentro del campo de Francisco Casco"
+    ],
+    [
+     "Manuela Córdova de Galeano",
+     "Lindero SO; lado N 48°10' O, 10.381 varas"
+    ],
+    [
+     "B. Galeano · M. C. de Galeano",
+     "Poblaciones junto al mojón de arranque"
+    ],
+    [
+     "Rodríguez · Puesto",
+     "Puestos internos del campo de Angela (el «puesto de Rodríguez» sirve de visual)"
+    ],
+    [
+     "Camino del fortín de Areco á Giles",
+     "Línea punteada que cruza el lado SO a las 4400 varas y sigue hacia la casa"
+    ],
+    [
+     "Arroyo de Giles",
+     "Límite SE; poligonal S 41°50' O / S 48°10' E (1225 · 375 · 825 · 473 · 950)"
+    ],
+    [
+     "Paso",
+     "Vado sobre el arroyo de Giles, frente a la casa"
+    ],
+    [
+     "Curvas violáceas · «m. altura»",
+     "Representación del relieve (¿mayor altura?) en tinta distinta"
+    ],
+    [
+     "Franjas achuradas",
+     "Bajos o cañadas que cruzan el campo"
+    ],
+    [
+     "arranque",
+     "Mojón del ángulo S, a 155 varas del arroyo"
+    ],
+    [
+     "Norte",
+     "Flecha con pluma; meridiano corregido 11° 15' NE"
+    ],
+    [
+     "Escala",
+     "«Escala de 1 pulgada por 1000 varas», escala transversal de 6000 varas"
+    ],
+    [
+     "Firma",
+     "«Manuel [Eguía]» en los extremos inferiores"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle del frente sobre el arroyo de Giles",
+   "img": "img/f/005/04.jpg",
+   "fuente": "IMG_6608.JPG",
+   "orientacion": "Acercamiento del sector E del plano.",
+   "interpretacion": "Se leen los rumbos (S 41°50' O, S 48°10' E) y las distancias de la poligonal escalonada con que Eguía levantó el borde del arroyo (1225, 375, 825, 473, 950), la casa de Angela Casco de Saraví, el «Paso», la unión del afluente que viene del interior y las curvas de relieve con «m. altura» cerca del camino. Es el mejor recorte para digitalizar el frente en el GIS.",
+   "referencias": []
+  },
+  {
+   "titulo": "Georreferenciación actual (J. P. Addesso)",
+   "img": "img/f/005/05.jpg",
+   "fuente": "«Mensura 5 - 1856.jpg», carpeta 5",
+   "orientacion": "Polígono de la mensura (naranja) sobre el parcelario actual.",
+   "interpretacion": "La georreferenciación ubica el campo como una larga franja al NO de la planta urbana de San Andrés de Giles, con su frente SE sobre el arroyo en el borde mismo del pueblo. La orientación NO-SE del lado largo coincide con el rumbo N 48°10' O de la mensura, y la trama parcelaria actual conserva visiblemente esa dirección.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje: puestos, casas, paso y relieve",
+   "texto": "El paisaje de 1856 se lee en la red de lugares habitados que sirven de visual: la casa de Angela, la de Manuela Córdoba de Galeano, el «puesto de Rodríguez», el «puesto San Juan» de Guerrico, las poblaciones de B. Galeano y de Ignacio Casco. La unidad productiva es la estancia con puestos nombrados. El agua organiza el borde: arroyo de Giles, un afluente que «viene del centro del terreno», un «Paso» y franjas achuradas de bajos. Excepcionalmente, el plano tiene curvas que representan el relieve (con la leyenda «m. altura»), un antecedente muy temprano de representación altimétrica en la zona que convendría fechar (¿tinta posterior?)."
+  },
+  {
+   "titulo": "El camino del fortín de areco a giles",
+   "texto": "La línea SO cruza el «camino del fortín de Areco á Giles» a las 4400 varas del arranque, y el plano lo dibuja punteado hasta la zona de la casa. Es un punto de control GIS excelente: permite cruzar con cartografía de caminos reales y con la frontera de fortines del siglo XVIII y comienzos del XIX. El nombre conserva la memoria de la frontera militar aunque en 1856 ya no hubiera fortín activo."
+  },
+  {
+   "titulo": "El ritual de la mensura",
+   "texto": "Sigue la secuencia completa: despacho judicial, citación escrita de linderos, arranque en un mojón existente, avalizamiento con dos visuales, mojones intermedios, reposición de un mojón perdido de la «primitiva mensura», presencia y conformidad de linderos o representantes (hijo, apoderado), firma, nota salvada de lo testado y firma otra vez. Después vienen el informe del Departamento, la intervención del Agente Fiscal, el auto judicial en papel sellado y el acuse. La nota sobre Duberte muestra la fragilidad de la citación: el lindero ausente al presentar la citación obliga a «dar vista» a sus herederos."
+  },
+  {
+   "titulo": "Instrumental, declinación y método",
+   "texto": "La declinación es de 11° 15' NE, determinada por alturas iguales del sol, un método astronómico explícito. Pero fue observada en la estancia de Guerrico (Areco) y trasladada a Giles. Serie: 10° (1825), 15° convencional (1838, 1846), 13° (1846, teodolito), 11° 45' (1854), 11° 15' (1856). El frente sobre el arroyo se levanta con una poligonal escalonada con ordenadas («triangulizado y medido las abscisas»). El título de 1827 hablaba de medición «a medios vientos corregidos», es decir con rumbos intermedios de la rosa."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "30.019.500 v² ≈ 2251 ha (1 v² ≈ 0,75 m²). Título: 3000 × 9000 = 27.000.000 v² ≈ 2025 ha. Exceso: 3.019.500 v² ≈ 226 ha (11 %). El lado largo mide 10.381 varas ≈ 8,99 km; el frente, 3000 varas ≈ 2,6 km. Los tres tramos del frente (1225 + 825 + 950) suman exactamente 3000 varas: Eguía reconstruyó el frente titulado sobre el arroyo y dejó la diferencia en el fondo."
+  },
+  {
+   "titulo": "Excedentes: agrimensor contra departamento",
+   "texto": "Es el punto más interesante del expediente. Eguía propone que el exceso sea de la propietaria porque la mensura es la «reivindicación de la primitiva». El Departamento (Salas, Pico) declara no comprender esa razón y no reconoce más que lo titulado. El juez, con el fiscal, remite a la señora al Gobierno para comprar el exceso como tierra del Estado. En 1865 ella lo pide en compra, y ese mismo año Isidro Cucullu pide los sobrantes del vecino Francisco Casco. La serie 004–005 muestra cómo se construyó, entre 1855 y 1866, la categoría de «sobrante fiscal» en Giles."
+  },
+  {
+   "titulo": "Tenencia, familia y género",
+   "texto": "La tierra viene del linaje Suero (fundadores), pasa por Felipe Antonio Martínez y sus herederos (Martínez y Regueyra: ¿yerno?), luego a Carlos Ramón Casco y por herencia a su hija Angela, casada con un Saraví (apellido emparentado con los Sarabia o Sarabí de la Ficha 004). Los Casco son una red familiar: Francisco Casco vende a Andrade e Ignacio Casco tiene población vecina. Las mujeres aparecen como titulares y como referencia espacial (la casa de Angela, la casa de Manuela Córdoba de Galeano)."
+  },
+  {
+   "titulo": "Estado del documento y dudas",
+   "texto": "Buen estado general; bordes inferiores rotos en f. 1 y 2 (pérdida de una línea en 2v). Las tomas 6599-6602 tienen fuerte dominante anaranjada. Lecturas dudosas: «María Lenzina», «Osvaldo Piñero» (juez de 1855), «Francisco Duberte», la firma «Jardel», el juez «Felipe José Conwell» y el año de la nota «9/865». El oficio judicial está en letra de escribanía difícil."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Dónde estaban los puestos San Juan y Rodríguez? Se pueden reconstruir por intersección de visuales. ¿Las curvas de relieve son de Eguía o posteriores? ¿Qué vínculo hay entre Angela Casco de Saraví y el Hermenegildo Sarabí de la Ficha 004? ¿Se concretó la compra del exceso en 1865, y a qué precio? ¿Quién era el Plácido Guerrico de Giles-Areco, y qué relación tenía con Manuel José de Guerrico?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Manuel Eguía",
+   "rol": "Agrimensor público",
+   "texto": "Es su tercera mensura en el corpus (1838, 1854 y 1856). Mantiene la misma técnica (avalizamiento por visuales a casas y puestos) y aquí incorpora la determinación astronómica de la declinación por alturas iguales del sol. Defiende ante el Departamento una tesis propia sobre los excedentes («reivindicación de la primitiva»), que fue rechazada. No se hallaron datos biográficos en fuentes en línea.",
+   "fuentes": "Esta mensura; Fichas 003 y 004."
+  },
+  {
+   "nombre": "Angela Casco de Saraví",
+   "rol": "Propietaria",
+   "texto": "Hija y heredera de Carlos Ramón Casco, casada con un Saraví. Tenía casa sobre el arroyo de Giles y un «puesto de Rodríguez» dentro del campo. En 1865 pidió comprar al Estado el exceso de 226 ha. Sin datos en fuentes en línea.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Carlos Ramón Casco · Francisco Casco · Ignacio Casco",
+   "rol": "Comprador de 1827 · linderos",
+   "texto": "Carlos Ramón Casco compró en 1827 las 3000 varas de frente a los herederos de Felipe Antonio Martínez. Francisco Casco, lindero NE, había vendido una fracción a Celestino Andrade. Ignacio Casco figura como población en el plano. Es una familia extensa con varias posesiones contiguas al N del arroyo.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Plácido Guerrico (herederos)",
+   "rol": "Lindero no; puesto «san juan»",
+   "texto": "Los Guerrico son una familia de gran peso en San Antonio de Areco: Manuel José de Guerrico (1800-1876), bisabuelo de Ricardo Güiraldes, adquirió «importantes extensiones de tierras en Areco». No se halló información en línea sobre Plácido Guerrico. En su estancia de Areco se observó la declinación usada en esta mensura.",
+   "fuentes": "El Guía de Areco, «Quinta de Guerrico»; esta mensura."
+  },
+  {
+   "nombre": "Manuela Córdoba de Galeano · Sotero Galeano · Mariano Galeano",
+   "rol": "Linderos so",
+   "texto": "Los Galeano aparecen desde 1827 (Mariano Galeano, lindero S). En 1856 son herederos de Manuela Córdoba de Galeano, representados por su hijo Sotero. Enlazan con los «herederos de Martín Galeano» de la Ficha 004.",
+   "fuentes": "Esta mensura; Ficha 004."
+  },
+  {
+   "nombre": "Isidro Cucullu (1825-1910)",
+   "rol": "Solicitante de sobrantes (1865)",
+   "texto": "Nacido en Vizcaya, se radicó con su hermano Juan Simón Cucullu en San Andrés de Giles. Enriquecidos en el comercio, compraron grandes extensiones de campo, en parte heredadas de sus suegros Vicente Cutillas y María Ángela Olivera. En 1898 Juan Simón donó tierras que dieron origen a la localidad y estación Cucullú. Otras propiedades de la familia originaron las estaciones Ruiz y Abel.",
+   "fuentes": "Wikipedia, «Cucullu (familia)»."
+  },
+  {
+   "nombre": "Saturnino Salas · Pedro Pico",
+   "rol": "Departamento topográfico",
+   "texto": "Salas (1806-1892) presidió el Departamento entre 1855 y 1875 (ver Ficha 004). La segunda firma se lee aquí con claridad, «Pico»: es Pedro Pico (1810-1888), agrimensor e ingeniero militar del Sitio de Montevideo, y uno de los tres miembros del Departamento Topográfico restablecido en 1852 (con Ibáñez de Luca y Salas). Queda así resuelta la lectura dudosa de la Ficha 004. En 1863 Pico actúa como agrimensor en Giles (Ficha 007).",
+   "fuentes": "Esta mensura; «Plano topográfico y catastro en Buenos Aires (1852-1873)», Redalyc; Daša Pahor (plano de Montevideo, 1846)."
+  },
+  {
+   "nombre": "Osvaldo Piñero [?] · Felipe José Conwell [?]",
+   "rol": "Jueces de 1.ª instancia",
+   "texto": "Piñero [?] dictó el despacho de mayo de 1855. Conwell [?] firmó el auto aprobatorio del 1 de diciembre de 1857 en lo Civil. Las dos lecturas son dudosas y no se hallaron datos en línea.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Celestino Andrade · Francisco Duberte [?] · Luis Ramón Martínez · Manuel Regueyra · Felipe Antonio Martínez · Francisco Antonio Suero · Ramón Cané · María Lenzina [?]",
+   "rol": "Linderos, representantes y antecesores",
+   "texto": "Andrade compró a Francisco Casco y asistió a la mensura. Duberte [?] representó a los herederos de Guerrico. Martínez y Regueyra vendieron en 1827 lo heredado de Felipe Antonio Martínez, quien lo había comprado a Francisco Antonio Suero, del linaje fundador del pueblo (Ficha 004). Ramón Cané, lindero de los fondos en 1827, lleva un apellido de notoria familia porteña; no se verificó el parentesco.",
+   "fuentes": "Esta mensura; Ficha 004."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/005/02.jpg",
+  "fuente": "IMG_6597.JPG",
+  "lineas": [
+   "Seccion Areco.                    Giles",
+   "n.^{o} 30.                              5",
+   "Duplicado de Mensura de un terreno",
+   "de propiedad de",
+   "D.^{a} Angela Casco de Saraví",
+   "sobre y al N. del Arroyo de Giles,",
+   "Partido de Giles",
+   "Por Manuel Eguía en",
+   "Octubre de ~~año~~ 1856."
+  ]
+ },
+ "titulo": "D.ª Angela Casco de Saraví",
+ "estado": "Transcripta (8 hojas, 195 renglones), 3 láminas"
+}

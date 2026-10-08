@@ -1,0 +1,437 @@
+{
+ "carpeta": "38",
+ "carpeta_nombre": "Carpeta 38",
+ "archivo": "Ficha 038 - Herederos de Eduardo Morgan (1866).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles",
+  "N.º de duplicado": "38 (portadilla: «Sección Areco», número tachado, ¿187?)",
+  "Propietario / solicitante": "Herederos de D. Eduardo Morgan",
+  "Agrimensor": "Juan Coquet",
+  "Año": "1866",
+  "Fecha de la diligencia": "16/3/1866 (firmada 30/3); informe del D. T. 16/5/1866",
+  "Ubicación": "Entre la Cañada de Lavallén y la Cañada de Suero (ex campo de Guerrico)",
+  "Orden judicial": "Comisión del Superior Gobierno (7/12/1865): sobrante concedido en venta",
+  "Vendedor / antecesor": "Arellano → J. F. Suero → F. A. Martínez (1795) → Cané (1820) → Guerrico (1838) → Morgan (1861)",
+  "Linderos citados": "Her. de S. Casco · M. Martínez · Morgan · I. Cucullu · her. de M. Galeano · F. Duberty · P. Kenny",
+  "Medidas": "2982 ha 02 a 10 m²; sobrante 259 ha 68 a 07 m²; lados 4550 · 4598 · 1083 · 1606 · 5750 · 5997 m",
+  "Rumbos": "Corregidos: S 47° 42′ E · S 41° 37′ O · N 45° 52′ O · N 43° 03′ E; variación 10° 57′ NE",
+  "Referencia de archivo": "Duplicado 38; antes «Sección Areco» (n.º tachado)"
+ },
+ "metricas": {
+  "superficie_ha": "2982,02",
+  "hitos": "Mojones cada 1299 m; «casa de teja»; establecimiento de Falcón; puestos de Casco y de Duberty; una docena de poblaciones con baliza",
+  "aguas": "Cañada de Lavallén; Cañada de Suero («Zuero»)"
+ },
+ "sintesis": "Mensura de Juan Coquet (16/3/1866), por comisión del gobierno, para determinar el sobrante fiscal «entre los mojones» del campo que Eduardo Morgan compró a Plácido Guerrico el 7/6/1861 —dos tercios de la suerte Suero-Martínez-Cané de la Ficha 029—, entre las cañadas de Lavallén y de Suero. Hexágono con martillo de 2982,02 ha; sobrante de 259,68 ha, ya concedido en venta a los herederos. Diligencia seca y de gabinete: variación 10° 57′ 39″ por azimutes del Sol, superficie por coordenadas, mojones cada 1299 m (1500 varas) y «abalizamientos» a una docena de poblaciones, la mitad de apellido británico (Kenny, Pope, Boggins, Scot…). Linderos: Casco, Martínez, Cucullu, Galeano, Duberty y Kenny. El D. T. aprueba el 16/5/1866 con vista a Duberty y a los Galeano, que no firmaron.",
+ "caratula": {
+  "img": "img/f/038/01.jpg",
+  "fuente": "IMG_7120.JPG",
+  "campos": [
+   [
+    "N.º",
+    "38"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Eduardo Morgan"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Coquet"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1866"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Título: Suero → Martínez (1795) → Cané (1820) → Guerrico (1838) → Morgan (1861)",
+   "img": "img/f/038/07.jpg",
+   "fuente": "IMG_7122.JPG",
+   "nota": "Letra de copia en limpio, muy regular. «ochocientos» testado entre paréntesis y corregido en «setecientos».",
+   "lineas": [
+    "Duplicado de la diligencia de mensura del terreno de",
+    "los herederos de Don Eduardo Morgan, en el Partido",
+    "de Giles.",
+    "Titulo",
+    "En siete de Septiembre de mil (~~ochocientos~~) setecientos",
+    "noventa y cinco, Don Juan F. Suero, vendió á Don Felipe",
+    "Antonio Martinez, un terreno de estancia en el Partido",
+    "de Areco, compuesto de nueve mil ochocientas varas de",
+    "frente, y el fondo, hasta dar con los fondos de las suertes",
+    "principales de Areco – El vendedor lo hubo del General",
+    "Don José Luis de Arellano, por donacion hecha en mil",
+    "setecientos cincuenta y cinco – En diez de Mayo de mil",
+    "ochocientos veinte, Don Luis R. Martinez, y Don Manuel",
+    "Regueira por si, y á nombre de los herederos de Don",
+    "Felipe Antonio Martinez, vendieron á D. Ramon Cané, una",
+    "parte del terreno de su instituyente, compuesta de cinco mil dos-",
+    "cientas cincuenta varas de frente, por nueve mil ochocientas",
+    "de fondo, y á mas, un martillo que resulta sobrante, á los",
+    "fondos de Galeano, compuesto como de mil varas de frente",
+    "por tres mil de fondo en veinte y cuatro de Diciembre de",
+    "mil ochocientos treinta y ocho, Don Ramon Cané, vendió este ter-",
+    "reno á D. Placido Guerrico – En siete de Junio de mil ochocientos sesenta",
+    "y uno, D. Placido Guerrico, vendió el mismo terreno, á Don Eduardo",
+    "Morgan, és decir, cinco mil doscientas cincuenta varas de frente,",
+    "por nueve mil ochocientas de fondo, á mas, un martillo con-",
+    "tiguo, de mil varas de frente, con tres mil de fondo – En",
+    "tres de Agosto del sesenta y cinco, solicitan, los",
+    "herederos de Morgan, los sobrantes que resulten entre sus",
+    "mojones, y en quince de Septiembre, se los concede el Gobierno",
+    "en venta —"
+   ],
+   "interpretacion": "Duplicado de la mensura del terreno de los herederos de Eduardo Morgan. Título: el 7/9/1795 Juan F. Suero vendió a Felipe Antonio Martínez un terreno de estancia «en el partido de Areco» de 9800 varas de frente y fondo «hasta dar con los fondos de las suertes principales de Areco»; lo hubo del general José Luis [sic, por Ruiz] de Arellano por donación de 1755. El 10/5/1820 Luis R. Martínez y Manuel Regueira, por los herederos, vendieron a Ramón Cané 5250 × 9800 v y «un martillo que resulta sobrante a los fondos de Galeano» de unas 1000 × 3000 v. El 24/12/1838 Cané vendió a Plácido Guerrico. El 7/6/1861 Guerrico vendió «el mismo terreno» a Eduardo Morgan. El 3/8/1865 los herederos de Morgan piden los sobrantes «que resulten entre sus mojones» y el 15 de septiembre el gobierno se los concede en venta. Es la cadena de la Ficha 029, con un dato nuevo: la fecha de la venta a Morgan."
+  },
+  {
+   "titulo": "Folio 1 v. · Mensura: de la Cañada de Lavallén al martillo",
+   "img": "img/f/038/08.jpg",
+   "fuente": "IMG_7123.JPG",
+   "nota": "Cifras repetidas entre paréntesis.",
+   "lineas": [
+    "Mensura",
+    "Partido de Giles, Marzo diez y seis, de mil ocho",
+    "cientos sesenta y seis",
+    "El Agrimensor que suscribe, habiendo, con fecha siete",
+    "de Diciembre de mil ochocientos sesenta y cinco, recibido",
+    "comision del Superior Gobierno, para determinar el sobrante",
+    "de terreno publico, entre los mojones de la testamentaria de",
+    "Don Eduardo Morgan, previa notificacion al Juez de Paz",
+    "del Partido y linderos, procedí á esta operacion del modo",
+    "siguiente.",
+    "Desde el mojon esquinero Norte de este terreno, en la",
+    "“Cañada de Lavallen”, con rumbo Sud, cuarenta y siete grados,",
+    "cuarenta y dos minutos Este, medí (4.550 m^{s}) cuatro mil qui-",
+    "nientos cincuenta metros, hasta dar con el esquinero Este, ha-",
+    "biendo colocado un mojon, á los setecientos cincuenta y tres me-",
+    "tros, y los demas, á mil doscientos noventa y nueve metros, co-",
+    "mo en todas las demas lineas, cuya longitud, és mayor de",
+    "dos mil metros.",
+    "En este punto cuadré al Sud cuarenta y un grados treinta",
+    "y siete minutos Oeste, y medí (4.598 m^{s}) cuatro mil quinientos",
+    "noventa y ocho metros, hasta dar con el esquinero Norte del",
+    "martillo, habiendo colocado un mojon á los setecientos – un",
+    "metros.",
+    "En este punto, cuadré al Sud cuarenta y ocho grados veinte y",
+    "un minutos Este, y medí (1.083 m^{s}), hasta dar con el esquinero",
+    "Este del martillo, ó angulo saliente. En este punto, cuadré",
+    "al Sud cuarenta y tres grados, nueve minutos Oeste, y medí, mil",
+    "(1.606 m^{s}) seiscientos seis metros, hasta dar con el esquinero",
+    "Sud, habiendo colocado un mojon, á los ochocientos setenta //"
+   ],
+   "interpretacion": "Partido de Giles, 16 de marzo de 1866. El agrimensor recibió comisión del Superior Gobierno el 7/12/1865 para determinar el sobrante fiscal «entre los mojones de la testamentaría de Don Eduardo Morgan». Desde el esquinero N, «en la Cañada de Lavallén», S 47° 42′ E, 4550 m hasta el esquinero E, con un mojón a 753 m y los demás cada 1299 m (= 1500 varas), «como en todas las demás líneas cuya longitud es mayor de dos mil metros». Luego S 41° 37′ O, 4598 m, hasta el esquinero N del martillo; S 48° 21′ E, 1083 m, hasta el esquinero E del martillo «o ángulo saliente»; S 43° 09′ O, 1606 m, hasta el esquinero S, con un mojón a los 870…"
+  },
+  {
+   "titulo": "Folio 2 · Cierre, variación (10° 57′), superficie y sobrante de 259,68 ha",
+   "img": "img/f/038/09.jpg",
+   "fuente": "IMG_7124.JPG",
+   "nota": "Foliatura «2». Apellido dudoso: «M. Mauron [?]».",
+   "lineas": [
+    "metros. En dicho esquinero Sud, cuadré al Norte cuarenta y",
+    "cinco grados cincuenta y dos minutos Oeste, y medí (5.750 m^{s})",
+    "cinco mil setecientos cincuenta metros, hasta dar con el",
+    "esquinero Oeste, habiendo colocado un mojon, á los qui-",
+    "nientos cincuenta y cuatro metros – En el esquinero Oeste,",
+    "cuadré finalmente al Norte cuarenta y tres grados, tres",
+    "minutos Este, y medí, (5.997 m^{s}) cinco mil nuevecientos, no-",
+    "venta y siete metros, hasta dar con el punto de partida, ó sea,",
+    "el esquinero Norte, habiendo colocado un mojon, á los",
+    "ochocientos un metros. –",
+    "Los rumbos de las lineas, estan corregidos, de una",
+    "variacion, de diez grados cincuenta y siete minutos, N.E.",
+    "La superficie del terreno medido, consta, de dos mil",
+    "nuevecientas ochenta y dos hectareas (2.982 hect^{s}) dos areas,",
+    "(02 a^{s}), mas diez metros cuadrados (10. m^{s} c^{s}), de donde",
+    "resulta, que, el area Sobrante, és de doscientas cin-",
+    "cuenta y nueve hectareas, (259 hect^{s}), sesenta y ocho areas,",
+    "(68 a^{s}), mas siete metros cuadrados (07 m^{s} c^{s})",
+    "Concurrieron á la mensura, los vecinos, Don Antonio",
+    "Romero, el Alcalde Casco, D. M. Mauron [?], D. Isidro Cu-",
+    "cullu, D. Marcos Romero, D. José Martinez, D. Jorge Morgan,",
+    "y D. Eduardo Morgan (hijo)",
+    "Todos quedaron satisfechos con la operacion",
+    "practicada –        Buenos Ayres Marzo 30/866.",
+    "Juan Coquet"
+   ],
+   "interpretacion": "…metros. Del esquinero S, N 45° 52′ O, 5750 m, hasta el esquinero O; de éste, N 43° 03′ E, 5997 m, hasta el punto de partida. Rumbos corregidos de una variación de 10° 57′ NE. Superficie medida: 2982 ha 02 a 10 m²; sobrante: 259 ha 68 a 07 m² (el título vale, pues, 2722,34 ha: exactamente los dos tercios del campo de Guerrico que la Ficha 029 atribuía a Morgan). Concurrieron Antonio Romero, «el alcalde Casco», M. Mauron [?], Isidro Cucullu, Marcos Romero, José Martínez, Jorge Morgan y Eduardo Morgan (hijo). «Todos quedaron satisfechos». Buenos Aires, 30/3/1866. Juan Coquet."
+  },
+  {
+   "titulo": "Folio 2 v. · Cálculo de la variación, coordenadas y «abalizamientos»",
+   "img": "img/f/038/10.jpg",
+   "fuente": "IMG_7125.JPG",
+   "nota": "Hoja de cálculo en columnas (se transcribe por renglones, separando columnas con «|»). Varias cifras y nombres de lectura insegura.",
+   "lineas": [
+    "Calculo de la Variacion.",
+    "Azimut. (A. M.)    Azimut (D. M.)  |  Azimut. (A. M.)    Azimut (D. M.)",
+    "219. 13.    1132. 57.  |  208. 13.    1144. 12",
+    "54. 48.    283. 14.  |  52. 03. 15.    286. 03.",
+    "76. 46.  |  73. 57",
+    "54. 48.  |  52. 03. 15.",
+    "131. 34.  |  63. 00. 07.",
+    "65. 74  |  52. 03.",
+    "54. 48.",
+    "Variacion 10° 59'  |  Variacion 10. 57. 07.",
+    "Azimut. (A. M.)    Azimut (D. M.)  |  Variacion media entre 13",
+    "234. 35.    1455. 18.  |  observaciones, con tres in-",
+    "46. 59.    291. 03. 36.  |  tervalos.",
+    "68. 56. 24.  |  10. 59.",
+    "46. 59.  |  10. 57. 07.",
+    "115. 55. 24.  |  10. 56. 51.",
+    "57. 57. 51.  |  32. 52. 58.",
+    "46. 59",
+    "Variacion 10. 56. 51    Variacion 10° 57. 39. media.",
+    "Superficie y construccion, tomando por punto de partida,",
+    "el mojon esq^{o} Oeste.",
+    "Latitudes    Apartamientos    Superficie",
+    "1^{a} – 0.000.00. m^{s}    1 – 0000.00. m^{s}",
+    "2 + 4.382.82. \"    2 + 4094.44. \"    2982^{hs}, 02^{as}, 10.^{ms cs} hallada",
+    "3 + 1.320.65. \"    3 + 7459.72. \"",
+    "4 – 2.116.50. \"    4 + 4406.20. \"    259^{hs}, 68^{as}, 07.^{ms cs} sobrante",
+    "5 – 2.836.15. \"    5 + 5215.05. \"",
+    "6 – 4007.82. \"    6 + 4116.09. \"",
+    "7 – 0.000.00 \"    7  0000.00. \"",
+    "Abalizamientos.",
+    "Esquinero Norte, á la casa de teja 13. 14.  |  Sud, Romero  235. 05.",
+    "Establ^{to} de Falcon  04. 48.  |  Sotero Galiano  117. 49.",
+    "Puesto de Casco  145. 48.  |  S. Boggins  93. 37.",
+    "mojon Oeste –  |  Mojon del angulo entrante.",
+    "La linea N.O. forma con los puntos si-",
+    "guientes, los angulos q^{e} se espresan.  |  Ruperto Lara [?]  115. 14.",
+    "P. Kenny  52. 23.  |  B. Malenari [?]  129. 25.",
+    "J. Hlarck  8. 05.  |  S. Galiano  145. 30.",
+    "P. Pope  74. 06.  |  S. Boggins  163. 34.",
+    "— Esquinero Este —",
+    "Miguel Mangan [?]  218. 16.",
+    "Juan Martinez  329. 14.",
+    "James Scot  30. 00.",
+    "Juan Coquet",
+    "Ex //"
+   ],
+   "interpretacion": "Tres observaciones de azimut del Sol antes y después del meridiano («A. M.» y «D. M.») dan 10° 59′, 10° 57′ 07″ y 10° 56′ 51″: media 10° 57′ 39″, «entre 13 observaciones, con tres intervalos». Sigue el cálculo de la superficie por coordenadas («latitudes» y «apartamientos») desde el esquinero O: siete vértices, 2982 ha 02 a 10 m² hallada y 259 ha 68 a 07 m² sobrante.\n«Abalizamientos»: ángulos desde cada esquinero a puntos del paisaje. Del N: «la casa de teja», el establecimiento de Falcón, el puesto de Casco. Del S: Romero, Sotero Galeano, S. Boggins. Del O: P. Kenny, J. Hlarck [?], P. Pope. Del ángulo entrante: Ruperto Lara [?], B. Malenari [?] (¿Molinari?), S. Galeano, S. Boggins. Del E: Miguel Mangan [?], Juan Martínez, James Scot. Una docena de poblaciones, la mitad con apellidos británicos."
+  },
+  {
+   "titulo": "Folio 3 · Informe del Departamento Topográfico",
+   "img": "img/f/038/11.jpg",
+   "fuente": "IMG_7126.JPG",
+   "nota": "Foliatura «3». Letra del D. T.",
+   "lineas": [
+    "// mo Señor: –",
+    "El Departam^{to} Topográfico",
+    "ha examinado la presente Mensura,",
+    "practicada por el Agrimensor D. Juan",
+    "Coquet, de un terreno, en el Partido de",
+    "San Andres de Giles, de propiedad",
+    "de los Herederos de D. Eduardo Mor-",
+    "gan, cuya operacion ha dado á",
+    "conocer el sobrante solicitado por",
+    "esos interesados el que les ha sido",
+    "concedido en compra por el Supe-",
+    "rior Gobierno, y encontrándola ar-",
+    "reglada á las disposiciones vigen-",
+    "te sobre esta clase de operaciones",
+    "y conforme con los datos que sobre",
+    "el mismo terreno tiene el Depart^{o}",
+    "en su Archivo, la aprueba y es",
+    "de parecer que V.E. puede, siendo",
+    "servido y dando vista de ella á los",
+    "linderos Duberty y Herederos de",
+    "Galeano que no han firmado //"
+   ],
+   "interpretacion": "Informe al gobernador: el Departamento ha examinado la mensura de Coquet del terreno de los herederos de Eduardo Morgan en San Andrés de Giles, «cuya operación ha dado a conocer el sobrante solicitado por esos interesados, el que les ha sido concedido en compra»; la halla arreglada a las disposiciones vigentes y conforme con los datos de su archivo, «la aprueba» y opina que el gobierno puede darle su aprobación «dando vista de ella a los linderos Duberty y herederos de Galeano, que no han firmado…"
+  },
+  {
+   "titulo": "Folio 3 v. · Cierre del informe (16/5/1866)",
+   "img": "img/f/038/12.jpg",
+   "fuente": "IMG_7127.JPG",
+   "nota": "",
+   "lineas": [
+    "la circular de citacion, darle su",
+    "Superior aprobacion. —",
+    "Buenos Aires Mayo 16 de 1866. –",
+    "Saturnino Salas    German Kuhr",
+    "Pedro Benoit    Ign^{o} Casagemas"
+   ],
+   "interpretacion": "…la circular de citación». Buenos Aires, 16 de mayo de 1866. Firman Saturnino Salas, German Kuhr, Pedro Benoit e Ignacio Casagemas. Duberty vuelve a no firmar, como en 1865 (Ficha 034)."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de los herederos de E. Morgan",
+   "img": "img/f/038/03.jpg",
+   "fuente": "IMG_7128.JPG",
+   "orientacion": "Pliego grande plegado; rótulos en letra de molde dibujada; dos flechas ornamentadas arriba a la derecha y dos dentro del campo (meridiano verdadero y magnético); escala gráfica al pie; fechado «Buenos Ayres, Marzo 1866» y firmado Juan Coquet.",
+   "interpretacion": "Hexágono con un martillo saliente al S. Rótulo central «HEREDEROS DE E. MORGAN». Linderos: al NO «H.s de S. Casco» (Ficha 014); al NE «M. Martínez» y «Morgan» (el campo de la Ficha 020); al SE «I. Cucullu» —el sobrante que compró en 1865 (Ficha 033)—; al SO «H.s de M. Galeano», «F. Duberty» y «P. Kenni» (el tercio y la media legua que salieron del mismo campo de Guerrico, Ficha 029). Un camino cruza el campo de N a S («Camino de las Arrecas [?]», tal vez «de las Arrias» o «de Areco»). En el esquinero N, la «Cañada de Lavallén» dibujada con rayado de bañado y un cuadro de quinta; junto al esquinero E, la «Cañada de Zuero». Casas marcadas con un cuadradito: «Juan Hlarck [?]», «Puesto [?]», «Tapero [?]», «J. Sanders [?]», «Puesto Duberty», «S. Moreno [?]», «José Rodríguez».",
+   "referencias": [
+    [
+     "Lado NO",
+     "N 43° 03′ E, 5997 m (con her. de S. Casco)"
+    ],
+    [
+     "Lado NE",
+     "S 47° 42′ E, 4550 m (con M. Martínez)"
+    ],
+    [
+     "Lado SE",
+     "S 41° 37′ O, 4598 m (con I. Cucullu)"
+    ],
+    [
+     "Martillo",
+     "S 48° 21′ E, 1083 m · S 43° 09′ O, 1606 m (hacia her. de M. Galeano)"
+    ],
+    [
+     "Lado SO",
+     "N 45° 52′ O, 5750 m (Duberty y Kenny)"
+    ],
+    [
+     "Aguas",
+     "Cañada de Lavallén (esquinero N) · Cañada de Zuero (esquinero E)"
+    ],
+    [
+     "Camino",
+     "«Camino de las Arrecas [?]», de N a S"
+    ],
+    [
+     "Poblaciones",
+     "Juan Hlarck [?] · Puesto [?] · Tapero [?] · J. Sanders [?] · Puesto Duberty · S. Moreno [?] · José Rodríguez"
+    ]
+   ]
+  },
+  {
+   "titulo": "Vista central del plano",
+   "img": "img/f/038/04.jpg",
+   "fuente": "IMG_7129.JPG",
+   "orientacion": "Toma más cercana.",
+   "interpretacion": "Se leen mejor los linderos, las cotas y las poblaciones del costado SO.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle N: Cañada de Lavallén",
+   "img": "img/f/038/05.jpg",
+   "fuente": "IMG_7130.JPG",
+   "orientacion": "Detalle.",
+   "interpretacion": "El rótulo de imprenta, las dos flechas (verdadera y magnética, que forman el ángulo de la variación), el camino, la cañada de Lavallén con su quinta o corral rayado en el esquinero N y las cotas «N 43° 03′ E 5997 ms» y «S 47° 42′ E 4550 ms».",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle S: el martillo y la Cañada de Zuero",
+   "img": "img/f/038/06.jpg",
+   "fuente": "IMG_7131.JPG",
+   "orientacion": "Detalle.",
+   "interpretacion": "El lado sobre «I. Cucullu» (4598 m), el quiebro del martillo («S 48° 21′ E 1083 ms»), la casa de «José Rodríguez» dentro del terreno de Cucullu, la de «S. Moreno [?]» y la «Cañada de Zuero» rayada.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Cierre del ciclo de las sobras en el campo de guerrico",
+   "texto": "La Ficha 029 (Eguía, 1861) halló en el campo de Guerrico un exceso fiscal de 156,97 ha y anotó que Duberty (1864) y Morgan (1865) lo pedían «a trozos». Aquí está el trozo de Morgan: solicitud del 3/8/1865, concesión del 15/9, comisión del 7/12, mensura de marzo de 1866. Pero Coquet, midiendo sólo «entre los mojones» de Morgan, encuentra 259,68 ha: más que todo el exceso que Eguía había atribuido al campo entero. Con 033 (286 ha), 034 (420 ha), 035 (446 ha), 037 (472 ha) y ésta, el fisco «encuentra» más de 1880 ha en dos años."
+  },
+  {
+   "titulo": "La división privada, convalidada de hecho",
+   "texto": "En 1861 el Departamento Topográfico declaró «no autorizada» la división entre Morgan (2/3), Duberti (1/3) y Kenny (Ficha 029). En 1866 el mismo Departamento aprueba una mensura que trata esos límites internos como linderos y los dibuja con sus nombres. El título de Morgan vale 2722,34 ha = 2/3 exactos de (5250 × 9800 + 1000 × 3000) varas²."
+  },
+  {
+   "titulo": "Técnica: un agrimensor de gabinete",
+   "texto": "Coquet no narra: da rumbos, distancias y cálculo. Variación por azimutes del Sol antes y después del meridiano, tres pares, media 10° 57′ 39″ «entre 13 observaciones» —coincide con los 10° 48′ de Gonnet del mismo mes (Ficha 036) y queda 40′ por debajo de Fremiot (11° 39′, Ficha 037), a pocas leguas y con cuatro días de diferencia—. Superficie por coordenadas («latitudes y apartamientos»). Mojones cada 1299 m: el módulo sigue siendo de 1500 varas aunque se escriba en metros. «Abalizamientos»: ángulos a poblaciones desde cada esquinero, como Muñiz y Gonnet."
+  },
+  {
+   "titulo": "Paisaje y poblamiento",
+   "texto": "Las dos cañadas que encierran el campo: Lavallén al N (con bañado y un cuadro cultivado) y Suero al E. Un camino lo atraviesa. La lista de balizas da el vecindario de 1866: «la casa de teja» (única así nombrada: el resto sería de paja), el «establecimiento de Falcón», el puesto de Casco, Romero, Sotero Galeano, y un grupo británico-irlandés compacto: Kenny, Pope, Boggins, Scot, Mangan [?], Hlarck [?], Sanders [?]. El plano dibuja siete casas."
+  },
+  {
+   "titulo": "Ritual",
+   "texto": "Conformidad general; asiste «el alcalde Casco» (¿Ignacio?, Ficha 033) y, entre los vecinos, Isidro Cucullu, ya lindero por su compra de 1865. No firman la circular Duberty ni los herederos de Galeano: el Departamento pide que se les dé vista."
+  },
+  {
+   "titulo": "Cruces y preguntas abiertas",
+   "texto": "Fichas 029 (mismo campo, 1861), 020 (campo viejo de Morgan), 033 (Cucullu; «Morgan Hermanos»), 034 (Duberty y Morgan como linderos del sobrante Galeano; Butterfield), 014 (Santiago Casco). «José Luis de Arellano» por José Ruiz de Arellano: error del amanuense. Falta saber el número de sección tachado en la portadilla (¿187?, entre el 186 de la Ficha 037 y el 189 de la 039). Releer con el original los nombres Hlarck, Mangan, Malenari, Lara, Mauron y el rótulo del camino."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Eduardo Morgan y herederos (Jorge y Eduardo, hijo)",
+   "rol": "Propietarios",
+   "texto": "Comerciante y hacendado británico; compró en 1856 las fajas de los Casco y el campo ex Macome (Ficha 020) y el 7/6/1861 los dos tercios del campo de Guerrico. Muerto antes de noviembre de 1865 (Ficha 033). Sus hijos Jorge y Eduardo —«Morgan Hermanos»— piden el sobrante y asisten a la mensura.",
+   "fuentes": "Fichas 002, 020, 029, 033; villa_irlanda.md."
+  },
+  {
+   "nombre": "Juan Coquet",
+   "rol": "Agrimensor",
+   "texto": "Primera aparición en el corpus. Firma en Buenos Aires; rotula el plano con letras de molde y calcula por coordenadas. La búsqueda web no dio datos de este agrimensor (sólo un homónimo, Tomás Coquet, dentista porteño de la primera mitad del siglo, posible pariente: sin confirmar).",
+   "fuentes": "Búsqueda web sin resultados útiles."
+  },
+  {
+   "nombre": "Plácido Guerrico · Ramón Cané · Felipe Antonio Martínez · Juan Francisco Suero",
+   "rol": "Antecesores",
+   "texto": "La cadena de la Ficha 029: donación de Ruiz de Arellano a Suero (1755), venta a Martínez (7/9/1795), a Cané (10/5/1820, por Luis R. Martínez y Manuel Regueira), a Guerrico (24/12/1838) y a Morgan (7/6/1861).",
+   "fuentes": "Fichas 029, 030, 032."
+  },
+  {
+   "nombre": "Francisco Duberty · Pedro Kenny",
+   "rol": "Linderos so",
+   "texto": "Compradores del otro tercio y de media legua cuadrada del campo de Guerrico (Ficha 029). Duberty, vasco-francés, «ausente del partido» en 1865 (Ficha 034), tampoco firma aquí. Kenny, irlandés.",
+   "fuentes": "Fichas 029, 034."
+  },
+  {
+   "nombre": "Isidro Cucullu",
+   "rol": "Lindero se y asistente",
+   "texto": "1825-1910, vasco, comerciante del pueblo; compró en 1865 el sobrante en L junto a Francisco Casco (Ficha 033). Aquí aparece ya como lindero y vecino concurrente.",
+   "fuentes": "Ficha 033."
+  },
+  {
+   "nombre": "Vecinos con baliza",
+   "rol": "Poblaciones",
+   "texto": "Falcón (establecimiento; cf. Cecilio Falcón, 1856), Casco, Antonio y Marcos Romero, Sotero Galeano (Ficha 034), José y Juan Martínez, José Rodríguez; y los de apellido británico: P. Pope, S. Boggins, James Scot, Miguel Mangan [?], J. Hlarck [?], J. Sanders [?]. Sin datos externos.",
+   "fuentes": "Fichas 029, 034."
+  },
+  {
+   "nombre": "Departamento Topográfico",
+   "rol": "Autoridad",
+   "texto": "Saturnino Salas, German Kuhr, Pedro Benoit e Ignacio Casagemas (16/5/1866).",
+   "fuentes": "Fichas 033-036."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/038/02.jpg",
+  "fuente": "IMG_7121.JPG",
+  "lineas": [
+   "Seccion Areco    [a lápiz azul:] San Andres de Giles",
+   "Giles 38",
+   "N ~~18[7?]~~",
+   "Duplicado",
+   "de la diligencia de mensura, del terreno de los",
+   "Herederos de Don Eduardo Morgan, en el Partido",
+   "de San Andres de Giles, practicada por el",
+   "Agrimensor Coquet",
+   "1866."
+  ]
+ },
+ "titulo": "Herederos de D. Eduardo Morgan",
+ "estado": "Transcripta (6 hojas, 155 renglones), 4 láminas"
+}

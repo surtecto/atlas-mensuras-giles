@@ -1,0 +1,333 @@
+{
+ "carpeta": "1",
+ "carpeta_nombre": "Carpeta 1",
+ "archivo": "Ficha 001 - Antonina Bagué (1825).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles",
+  "N.º de duplicado": "1",
+  "Propietario / solicitante": "D.ª Antonina Bagué",
+  "Agrimensor": "José María Manso",
+  "Año": "1825",
+  "Fecha de la diligencia": "25 de agosto de 1825",
+  "Ubicación": "Sobre y al Este de la Cañada de Giles",
+  "Orden judicial": "Juez de 1.ª Instancia Dr. D. Juan José Cernadas, 22 de julio de 1825",
+  "Vendedor / antecesor": "D. Santiago Sosa",
+  "Linderos citados": "Damacio Zárate; Pedro Miguel Figueroa; Santiago Sosa; José Romero; Mauricio Figueroa; Bartolo Rodríguez; viuda de ¿Tto.? Gómez; Bartolo Ortiz",
+  "Medidas": "1800 varas de frente × media legua de fondo; ampliación posterior de 1154 varas de frente (\"mil varas más\") × media legua",
+  "Rumbos": "Frente N 30 E (corregido N 40 E, variación de la aguja 10°); fondo S 60 E (corregido S 50 E)",
+  "Referencia de archivo": "Corresponde a la mensura N.º 53 del Libro 3 de Mensuras Antiguas"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 665 (405 + 260)",
+  "hitos": "5 ombúes, 2 sauces, 5 casas/poblaciones, mojones",
+  "aguas": "Cañada/arroyo de Giles; cañada del Sauce"
+ },
+ "sintesis": "Venta y mensura, en 1825, de dos fracciones contiguas sobre la margen este de la Cañada de Giles: 1800 varas de frente más una ampliación de 1154, ambas de media legua de fondo, unas 665 ha en total. Santiago Sosa vende a Antonina Bagué. Mide José María Manso, agrimensor andaluz y padre de Juana Manso, por orden del juez Juan José Cernadas. Es un documento temprano, anterior a la enfiteusis rivadaviana, en el que el territorio se fija con referentes vivos: ombúes y sauces de los vecinos, casas y poblaciones. El agua da el frente: la Cañada de Giles, o arroyo de Xiles. Entre los linderos aparece la familia Figueroa de la futura Posta de Figueroa.",
+ "caratula": {
+  "img": "img/f/001/01.jpg",
+  "fuente": "IMG_6555.JPG",
+  "campos": [
+   [
+    "N.º",
+    "1"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Antonina Bagué"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Manso"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1825"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 (recto)",
+   "img": "img/f/001/05.jpg",
+   "fuente": "IMG_6557.JPG",
+   "nota": "Numeración marginal «53» en el ángulo superior izquierdo; sello circular (foliatura «1») arriba a la derecha y sello de tinta en el margen izquierdo. El margen derecho está oscurecido y cortado por la encuadernación: las terminaciones de renglón se reconstruyen entre corchetes.",
+   "lineas": [
+    "En 25 días del mes de Ag^{to} de [1]825 reunido con l[os]",
+    "[vecin]os? que suscriben la circular en las márgenes de la [Caña]-",
+    "da de Xiles para dar cumplim^{to} a la prov.^{a} del",
+    "Juez de 1^{a} Inst.^{a} D^{r} D^{n} Juan José Cernadas de 22 de Ju[lio]",
+    "de este año para medir y amojonar los terrenos q[ue]",
+    "D^{n} Santiago Sosa tiene vendidos a D^{a} Antonina B[agué]",
+    "p^{a} dar principio a la mensura demarqué el mojón",
+    "esquinero de la parte del N.E. en el frente del terr[eno]",
+    "que he medido a D^{n} Damacio Zárate (lindero al q[ue voy]",
+    "a medir) al rumbo del S 49° E de la Casa de D^{n} [José]",
+    "Romero y al N 30 O de la Casa de Mauricio Fig[ueroa];",
+    "seguidamente tiré el rumbo del N 30 E de la ag[uja]",
+    "p^{r} estar a este rumbo medidos los terrenos, y corr[egido]",
+    "es el ángulo del N 40 E p^{r} tener 10° de variación la",
+    "aguja en este destino; p^{r} este rumbo, y desde el mo[jón]",
+    "de Zárate situado en las márgenes de la Cañada de [Xiles]",
+    "medí 1800 v^{s} de frente que Sosa había vendido a [...]",
+    "pira [?], y al fin repuse un mojón que distaba del Cau[ce de la]",
+    "Cañada p^{r} el E. 1080 v^{s} ~~en cuyo terreno~~ sobrante de su [?]",
+    "vendedor como suyo propio, a la compradora: demar[qué]",
+    "el mojón término de las 1800 v^{s} al N 25 O de la Pobl[ación de]",
+    "D^{n} José Romero; seguidam^{te} tiré el rumbo del S 60 [E]",
+    "corregido S 50 E y medí de fondo media legua según [el]",
+    "contrato y donde terminé puse un mojón que lo demarq[ué]",
+    "al S 5[?]° E de la Casa de Bartolo Rodríguez y a[l]",
+    "S 42° E de la Casa de la viuda de ¿Tto.? Gómez; desde [aquí]",
+    "y p^{r} el rumbo del S 30 O q^{e} corregido es S 40 O medí [por]",
+    "el frente de fondo 1800 igual y paralelo al frente prin[ci]-",
+    "pal y con esta distancia llegamos al deslinde del te-"
+   ],
+   "interpretacion": "El agrimensor José María Manso abre el acta el 25 de agosto de 1825, reunido con los vecinos que firmaron la «circular» —la citación a linderos que precedía toda mensura— en las márgenes de la Cañada de Giles. Actúa por orden (providencia) del juez de Primera Instancia Juan José Cernadas, dictada el 22 de julio, para medir y amojonar las tierras que Santiago Sosa vendió a Antonina Bagué. El punto de arranque es un mojón ya existente: la esquina NE del terreno que el propio Manso había medido antes a Damacio Zárate, lindero inmediato. Lo ubica por triangulación visual respecto de dos casas (la de José Romero y la de Mauricio Figueroa). Traza el frente hacia el N 30 E de brújula, que corrige a N 40 E porque la aguja tiene allí 10° de variación, y mide 1800 varas (≈1560 m) de frente, lo pactado en la venta. Menciona un mojón repuesto a 1080 varas del cauce hacia el este, un sobrante que el vendedor transfiere como propio. Luego gira al S 50 E (corregido) y mide media legua de fondo (3000 varas ≈ 2600 m), pone mojón referido a la casa de Bartolo Rodríguez y a la de la viuda de Gómez, y vuelve por una paralela al frente hasta cerrar sobre el terreno de Zárate. Es un rectángulo de ≈405 ha."
+  },
+  {
+   "titulo": "Folio 1 (vuelto)",
+   "img": "img/f/001/06.jpg",
+   "fuente": "IMG_6558.JPG",
+   "nota": "Borde superior deteriorado. En el margen derecho se ve la hoja siguiente con la anotación «N 53». Al pie, firma y rúbrica del agrimensor.",
+   "lineas": [
+    "rreno de D^{n} Damacio Zárate, y p^{r} lo tanto puse [mo]-",
+    "jón que lo demarqué del Ombú de Bartolo Rodríg^{z}",
+    "S 79 E y del Ombú de la Viuda de ¿Tto.? Gómez al [...]",
+    "Concluida esta diligencia, vendió D^{n} Santiago Sosa a",
+    "D^{a} Antonina mil varas más de frente, lo que se en[cie]-",
+    "rra entre el mojón que se repuso en el Cauce de la Cañad[a de]",
+    "Xiles a las sobras que Sosa había donado a la Sra., y [...]-",
+    "tado del terreno de D^{n} Pedro Miguel Figueroa; y [para]",
+    "verificar esta nueva mensura me dirigí al lu-",
+    "gar del cauce del arroyo de Xiles acompañado [de los]",
+    "vecinos la Compradora y el lindero Figueroa, y en [el]",
+    "punto ya señalado tiré el rumbo del N 30° E por [cuya]",
+    "línea medí 1154 v^{s} hasta el deslinde del terreno de",
+    "Figueroa, habiendo antes demarcado el punto de ar[ran]-",
+    "que del Ombú de Romero al S 28° O; y donde con[clu]-",
+    "í las 1154 v^{s} puse un mojón y lo demarqué del [Ombú]",
+    "de Mig^{l} Figueroa al N 27 O y del de Mauricio [Figue]-",
+    "roa al N 65 O desde aquí medí media legua d[e fondo]",
+    "al S 60 E que corregido es el ángulo S 50 E y p[use]",
+    "mojón, que demarqué al N 48 O del Ombú de M[iguel Figue]-",
+    "roa y del de Mauricio al N 62 O: desde este p[un]-",
+    "to tiré la línea del S 30° O que corregido es el ángul[o S 40 O]",
+    "y medí las 1154 v^{s} igual al frente pral y puse otro [mojón]",
+    "que demarqué al S 37 E del Sauce de Damacio [Zárate]",
+    "y del de Bartolo Ortiz [?] al S 33° E con lo que se co[ncluyó]",
+    "la mensura sin oposición p^{r} ninguna parte",
+    "Lo testado no vale",
+    "José M^{a} Manso [rúbrica]"
+   ],
+   "interpretacion": "El texto cierra el primer polígono con otro mojón referido a dos ombúes (de Bartolo Rodríguez y de la viuda de Gómez). A continuación narra una segunda operación en el mismo acto: Sosa vendió a Antonina «mil varas más de frente», la franja comprendida entre el mojón del cauce de la Cañada y el terreno de Pedro Miguel Figueroa, incluidas unas «sobras» que Sosa había cedido. Manso vuelve al cauce del arroyo acompañado de la compradora y del lindero Figueroa (presencia exigida para validar el deslinde), tira nuevamente al N 30 E y mide 1154 varas —no mil— hasta tocar el deslinde de Figueroa. Cada vértice se amojona y se refiere a árboles singulares: el ombú de Romero, el de Miguel Figueroa, el de Mauricio Figueroa, el sauce de Damacio Zárate y el de Bartolo Ortiz. Mide otra media legua de fondo al S 50 E y cierra con una paralela de 1154 varas. El acta concluye con la fórmula de estilo: la mensura se hizo «sin oposición por ninguna parte», se salva lo tachado («lo testado no vale») y firma José M.ª Manso. La ampliación suma ≈260 ha: la propiedad total de Bagué ronda las 665 ha."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la mensura (toma principal)",
+   "img": "img/f/001/03.jpg",
+   "fuente": "IMG_6561.JPG (misma lámina en IMG_6560, toma casi idéntica)",
+   "orientacion": "Fotografía girada respecto de la hoja: los rótulos están escritos en distintas direcciones. El nombre «Damacio Zárate» se lee en horizontal.",
+   "interpretacion": "El plano sintetiza las dos operaciones en dos rectángulos adosados sobre la Cañada de Giles, que funciona como frente natural y línea de agua. El polígono mayor A-B-C-E corresponde a las 1800 varas iniciales; el menor E-F-G-H a la ampliación de 1154 varas. La diagonal que parte del mojón de arranque A hacia el símbolo cuadrangular inferior parece una visual de referencia a una población (casa), coherente con la práctica de amojonar por intersección de visuales. Los linderos se nombran en el perímetro: Zárate (con su propia medida, 1700 × 9000 varas), Santiago Sosa y «Sosa» al fondo, y Pedro Miguel Figueroa, cuyo campo tiene 2000 varas de frente y fondo «hasta la cañada del Sauce»: el fondo de las propiedades no siempre era una distancia sino un accidente del terreno.",
+   "referencias": [
+    [
+     "A",
+     "Mojón de arranque (marcado con asterisco), sobre el cauce de la Cañada de Giles; esquina NE del terreno medido a Damacio Zárate"
+    ],
+    [
+     "A–B",
+     "Lindero con Damacio Zárate — «1700 vs de frente y 9000 de fondo»"
+    ],
+    [
+     "B–C",
+     "Lindero con Dn Santiago Sosa (fondo)"
+    ],
+    [
+     "C–H–E",
+     "Línea divisoria interna entre las dos fracciones medidas"
+    ],
+    [
+     "D",
+     "Punto sobre la línea C–E, en la proyección de la línea punteada desde A"
+    ],
+    [
+     "E",
+     "Mojón sobre la Cañada de Giles (fin de las 1800 varas)"
+    ],
+    [
+     "H–G",
+     "Lindero con «Sosa» (fondo de la ampliación)"
+    ],
+    [
+     "F–G",
+     "Lindero con Dn Pedro Migl Figueroa — «2000 vs de frente, y de fondo hasta la cañada del Sauce»"
+    ],
+    [
+     "F",
+     "Mojón sobre la Cañada de Giles (fin de las 1154 varas)"
+    ],
+    [
+     "Cañada de Giles",
+     "Curso de agua dibujado a lo largo del frente A–E–F"
+    ],
+    [
+     "Flecha (S / N)",
+     "Rosa o aguja indicando el rumbo; el extremo con emplumado señala el Sur"
+    ],
+    [
+     "Símbolo cuadrangular",
+     "Posible representación de población o casa, en el extremo de la diagonal que parte de A"
+    ],
+    [
+     "Escala",
+     "«Escala de 1 Legua», graduada de 0 a 6000 varas"
+    ],
+    [
+     "Firma",
+     "José Ma Manso [rúbrica]"
+    ],
+    [
+     "Nota marginal",
+     "«* Mojón de arranque»"
+    ]
+   ]
+  },
+  {
+   "titulo": "Plano de la mensura (toma de la hoja completa, con foliatura)",
+   "img": "img/f/001/04.jpg",
+   "fuente": "IMG_6559.JPG",
+   "orientacion": "Toma invertida (180°) respecto de IMG_6561; muestra la hoja completa con la anotación «N 53» y el sello de foliatura «2».",
+   "interpretacion": "",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje y referentes",
+   "texto": "Los mojones se ubican por visuales a árboles singulares —cinco ombúes y dos sauces— y a casas y poblaciones. Es un paisaje leído a través de marcas vivas y humanas; el ombú aparece como hito geodésico de facto. La Cañada de Giles es el eje del frente y la cañada del Sauce el límite de fondo del vecino Figueroa: el agua organiza la parcela."
+  },
+  {
+   "titulo": "El ritual de la mensura",
+   "texto": "Se reconocen los pasos formales: providencia judicial previa, «circular» firmada por los linderos, presencia en el terreno de la compradora y de los vecinos, reconocimiento de mojones antiguos, colocación de mojones nuevos, fórmula «sin oposición por ninguna parte», salvedad de lo tachado y firma. La mensura es a la vez técnica y un acto de consenso vecinal."
+  },
+  {
+   "titulo": "Instrumental y corrección magnética",
+   "texto": "El agrimensor trabaja con aguja (brújula) y cadena o cuerda; reconoce una declinación de 10° («variación de la aguja en este destino») y corrige los rumbos (N 30 E → N 40 E; S 60 E → S 50 E). El dato permite, con modelos de declinación histórica, controlar la orientación del polígono al georreferenciarlo."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Vara de Buenos Aires ≈ 0,866 m; legua = 6000 varas ≈ 5,196 km. Primer lote: 1800 × 3000 varas ≈ 1559 × 2598 m ≈ 405 ha. Ampliación: 1154 × 3000 varas ≈ 999 × 2598 m ≈ 260 ha. Total ≈ 665 ha. Nótese que las «mil varas» de la venta resultan 1154 en el terreno, quizá por incorporar las «sobras»."
+  },
+  {
+   "titulo": "Toponimia y grafía",
+   "texto": "«Xiles» en el cuerpo del acta y «Giles» en el plano y la portadilla muestran la vacilación gráfica x/g/j propia de la época. Aparecen «Cañada de Giles», «arroyo de Xiles» (el mismo curso con dos nombres) y «cañada del Sauce»."
+  },
+  {
+   "titulo": "Tenencia de la tierra",
+   "texto": "La venta de Sosa a Bagué, la transferencia de un «sobrante» como propio y la cesión de «sobras» muestran un mercado de tierras entre particulares anterior a la Ley de Enfiteusis (1826). El Estado interviene como garante del deslinde por la vía judicial, no como vendedor."
+  },
+  {
+   "titulo": "Estado del documento y dudas",
+   "texto": "El folio 1 recto tiene el margen derecho oscurecido y cortado por la encuadernación, con foxing (manchas de hongos) y transparencia del reverso. Quedan cinco lecturas dudosas marcadas con [?]. Se recomienda cotejar con el original (Libro 3 de Mensuras Antiguas, N.º 53) en el Archivo Histórico de Geodesia."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿El ombú está elegido por durar o por verse, es decir, como marca o como mirador? ¿Qué pasa con estos límites cuando el árbol muere? ¿La diferencia entre «mil» y «1154» varas registra un error, una negociación o un sobrante absorbido? ¿Coincide el rectángulo, llevado al GIS con la corrección de 10°, con el parcelario actual sobre la margen este de la cañada?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "José María Manso",
+   "rol": "Agrimensor actuante",
+   "texto": "Agrimensor e ingeniero andaluz, llegado al Río de la Plata en 1799. Casado con Teodora Cuenca, porteña, pariente de Guadalupe Cuenca, esposa de Mariano Moreno. Partidario del gobierno rivadaviano y de ideas liberales. Enfrentado con Juan Manuel de Rosas, se exilió con su familia hacia 1840, primero en Montevideo y luego en Brasil. Fue padre de Juana Paula Manso (1819–1875), escritora, periodista y pionera de la educación pública, colaboradora de Sarmiento. En 1825 actuaba como agrimensor en la campaña de Areco-Giles; antes había medido el terreno lindero de Damacio Zárate.",
+   "fuentes": "Ministerio de Cultura de la Nación, «Juana Manso»; El Quilmero (2018); Wikipedia, «Juana Paula Manso»."
+  },
+  {
+   "nombre": "Antonina Bagué",
+   "rol": "Compradora / titular de la mensura",
+   "texto": "Titular del terreno. Compró dos fracciones sobre la margen este de la Cañada de Giles a Santiago Sosa, en 1825. Es una mujer propietaria que actúa en persona en el acto de la mensura («acompañado de los vecinos la Compradora»). En las fuentes en línea consultadas no se hallaron más datos. El apellido Bagué es de origen catalán. Para seguir: padrones de 1836 y 1838 de Giles/Areco, sucesiones en el AGN y el Registro Gráfico de 1830/1864.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Santiago Sosa",
+   "rol": "Vendedor",
+   "texto": "Propietario anterior. Vende 1800 varas de frente y luego «mil varas más», junto con sobras y sobrantes. Aparece también como lindero de fondo («Sosa»). No se hallaron datos en fuentes en línea.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Dr. Juan José Cernadas",
+   "rol": "Juez de 1.ª instancia en lo civil",
+   "texto": "Juez de primera instancia en lo civil de Buenos Aires. Dictó la providencia del 22 de julio de 1825 que ordenó la mensura. Sigue en el cargo en 1830: el Archivo de la Academia Nacional de la Historia conserva un oficio de ese año del inspector general de Armas, Lucio Mansilla, dirigido a él.",
+   "fuentes": "Archivo ANH, Secc. IV-72 (1830)."
+  },
+  {
+   "nombre": "Mauricio Figueroa",
+   "rol": "Vecino / referente de amojonamiento",
+   "texto": "Nieto de Tomás Figueroa (1711–1759), sargento mayor santafesino que formó la estancia La Merced, luego Posta de Figueroa, sobre el Camino Real al Alto Perú, hoy en San Andrés de Giles. En 1831 tenía 38 años (nacido hacia 1793) y aportó ganado al Ejército Restaurador. Su casa y su ombú sirven de referencia en esta mensura. La estancia fue declarada Monumento Histórico Nacional en 2021 (Decreto 616/2021).",
+   "fuentes": "La Nación (09/10/2021); Argentina.gob.ar, Monumentos."
+  },
+  {
+   "nombre": "Pedro Miguel Figueroa",
+   "rol": "Lindero al norte",
+   "texto": "Lindero con 2000 varas de frente y fondo hasta la cañada del Sauce. Casi con seguridad pertenece a la familia Figueroa de La Merced, pero su parentesco exacto con Mauricio no está documentado en las fuentes consultadas.",
+   "fuentes": "Esta mensura; La Nación (2021)."
+  },
+  {
+   "nombre": "Damacio Zárate",
+   "rol": "Lindero al sur",
+   "texto": "Titular del terreno lindero, que Manso había medido antes (1700 × 9000 varas, según el plano). Tiene un sauce que sirve de referencia. Sin datos en fuentes en línea.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "José Romero · Bartolo Rodríguez · viuda de ¿Tto.? Gómez · Bartolo Ortiz",
+   "rol": "Vecinos con casa o árbol de referencia",
+   "texto": "Pobladores cuyas casas, poblaciones, ombúes o sauces sirven para demarcar los mojones. Son el tejido de ocupación de 1825 alrededor de la cañada. Sin datos biográficos en fuentes en línea; conviene rastrearlos en los padrones de 1813/1815 y 1836 del curato de Giles.",
+   "fuentes": "Esta mensura."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/001/02.jpg",
+  "fuente": "IMG_6556.JPG",
+  "lineas": [
+   "San Andres de Giles N.º 1",
+   "———",
+   "Duplicado de la diligencia de",
+   "mensura del terreno de D^{ña} Antonina",
+   "Bagué - situado sobre y al Este de la",
+   "“Cañada de Giles”",
+   "———",
+   "año",
+   "1825",
+   "agrimensor Manso",
+   "———",
+   "[a lápiz, otra mano:] Corresponde a la mensura N.º 53 del libro 3 de",
+   "Mensuras Antiguas"
+  ]
+ },
+ "titulo": "D.ª Antonina Bagué",
+ "estado": "Transcripta (2 hojas, 57 renglones), 2 láminas"
+}

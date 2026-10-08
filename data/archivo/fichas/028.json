@@ -1,0 +1,606 @@
+{
+ "carpeta": "28",
+ "carpeta_nombre": "Carpeta 28",
+ "archivo": "Ficha 028 - Herederos de Manuel Noriega (1865).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (el juez dice «Partido de Mercedes»)",
+  "N.º de duplicado": "28 (portadilla «Sección Areco N.º 110»; antes Luján N.º 133 [?])",
+  "Propietario / solicitante": "Herederos de D. Manuel Noriega",
+  "Agrimensor": "Pedro Saubidet",
+  "Año": "1865",
+  "Fecha de la diligencia": "4/4/1865; D. T. 18/8/1865; aprob. 27/11/1865",
+  "Ubicación": "Entre el río de Luján y las cabezadas del arroyo de Giles",
+  "Orden judicial": "Juez civil (1/2/1865); aprueba Dr. Miguel García Fernández",
+  "Vendedor / antecesor": "Vicente y Pedro Antonio Martínez → Noriega / Manuela Quiroga (1823)",
+  "Linderos citados": "Her. P. Rodríguez · her. V. Noriega · F. Lescano · J. Yramain de Achával · C. Cruz",
+  "Medidas": "25.538.690 v² = 1915,35 ha; excedente 137,95 ha",
+  "Rumbos": "Corregidos; 11° 30' NE por amplitudes del sol",
+  "Referencia de archivo": "Duplicado 28; «Sección Areco N.º 110»; exp. f. 12-17"
+ },
+ "metricas": {
+  "superficie_ha": "1915,35 (0,71 legua²; excedente 137,95 ha)",
+  "hitos": "Mojones de piedra; iglesias de Giles y de Mercedes; Puesto San Ignacio; estancias Noriega y Lescano",
+  "aguas": "Arroyo de Noriega (mojón en su centro); río de Luján; cabezadas del arroyo de Giles"
+ },
+ "sintesis": "Mensura y subdivisión de Pedro Saubidet (4/4/1865) del campo de los herederos de Manuel Noriega, entre el río de Luján y las cabezadas del arroyo de Giles, comprado a los Martínez en 1823. 25.538.690 v² = 1915 ha, divididas entre los herederos de Norberto Noriega (1412 ha) y Francisco Lescano con Ceferino Cruz (503 ha); el arroyo de Noriega corta las fajas. Todo en varas y metros; declinación 11° 30' NE por amplitudes del sol; visuales a las iglesias de Giles y Mercedes. El excedente de 138 ha se reconoce a los herederos de Díaz de Vivar y se aprueba una transacción (27/11/1865). Saubidet, ex ayudante de Kuhr, es revisado por Kuhr en el D. T.",
+ "caratula": {
+  "img": "img/f/028/01.jpg",
+  "fuente": "IMG_6960.JPG",
+  "campos": [
+   [
+    "N.º",
+    "28"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Manuel Noriega"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Pedro Saubidet"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1865"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Títulos Martínez → Noriega (1823) y comisión (1865)",
+   "img": "img/f/028/04.jpg",
+   "fuente": "IMG_6962.JPG",
+   "nota": "Sello con foliatura «1». Letra inclinada muy uniforme. El año de la primera venta está abreviado y es dudoso («treinta [?]»); el lindero «Simón Robles [?]» también.",
+   "lineas": [
+    "Estracto de los titulos del terreno de la propiedad de los",
+    "herederos de D^{n} Manuel Noriega, situado en el par-",
+    "tido de San Andres de Giles.",
+    "En veinte y tres de Octubre de mil ocho cientos treinta [?] D^{n}",
+    "Vicente Martinez vende á Don Manuel Noriega un",
+    "terreno de estancia sito en las inmediaciones de Lujan",
+    "compuesto de mil varas de frente, cuyo terreno, lo hu-",
+    "bo por herencia de su finado padre D^{n} Felipe Anto-",
+    "nio Martinez y linda con los fondos de los terrenos",
+    "de D^{n} Simon Robles [?].",
+    "En veinte y seis de Noviembre de mil ocho cientos veinte y",
+    "tres. D^{n} Pedro Antonio Martinez, vende á D^{a} Manue-",
+    "la Quiroga, esposa de D^{n} Manuel Noriega, un ter-",
+    "reno de Estancia compuesto de dos mil varas de fren-",
+    "te con siete mil novecientas de fondo, situado en el",
+    "distrito de Lujan, lindando con las suertes princi-",
+    "pales de este rio y con las de las cabezadas del arroyo",
+    "de Giles, teniendo de colindantes al Este y Oeste terre-",
+    "nos vendidos por el otorgante á D^{n} Mariano Norie-",
+    "ga: cuyo terreno le corresponde por herencia de su",
+    "legitimo padre D^{n} Felix [?] Antonio Martinez.",
+    "Mensura. En el partido de San Andres de Giles á inmedia-",
+    "ciones del rio de Lujan á cuatro del mes de Abril",
+    "del presente año de mil ocho cientos sesenta y cinco",
+    "comisionado yo el agrimensor Publico que firmo, por",
+    "decreto del S^{or} Juez de 1^{a} Instancia en lo Civil, de",
+    "fha primero de Febrero para medir y subdividir el",
+    "terreno de la propiedad de los herederos de la testamen-",
+    "taria de D^{n} Manuel Noriega: hecha la citacion de linderos",
+    "que original se acompaña á esta diligencia y asociado de"
+   ],
+   "interpretacion": "Extracto de títulos de los herederos de Manuel Noriega, en San Andrés de Giles. Vicente Martínez vende a Manuel Noriega un terreno de estancia «en las inmediaciones de Luján», de 1000 v de frente, heredado de su padre Felipe Antonio Martínez, que linda con los fondos de Simón Robles [?]. El 26/11/1823 Pedro Antonio Martínez vende a Manuela Quiroga, esposa de Noriega, 2000 v de frente por 7900 de fondo en el distrito de Luján, entre las suertes principales de ese río y «las cabezadas del arroyo de Giles», lindando al E y O con tierras vendidas a Mariano Noriega; lo heredó de su padre Félix [?] Antonio Martínez.\nMensura: San Andrés de Giles, cerca del río Luján, 4/4/1865, por comisión del juez civil (1/2/1865) para medir y subdividir el terreno de la testamentaría de Manuel Noriega; citación de linderos adjunta."
+  },
+  {
+   "titulo": "Folio 1 v. · Arranque en el mojón de Lescano; visual a la iglesia de Giles",
+   "img": "img/f/028/05.jpg",
+   "fuente": "IMG_6963.JPG",
+   "nota": "Todas las distancias se dan en varas y en metros (con decímetros).",
+   "lineas": [
+    "// ellos, de los interesados y demas personal necesario para la",
+    "operacion, me coloqué en el mojon esquinero del angulo Nor-",
+    "te del terreno de D^{n} Francisco Lescano y Este del de",
+    "los herederos de D^{n} Manuel Noriega el cual es un",
+    "mojon de piedra: de este punto se mira la estancia",
+    "del finado D^{n} Norberto Noriega al Sud setenta y seis gra-",
+    "dos Oeste, el Puesto S^{n} Ygnacio al Norte ochenta y cinco",
+    "grados cuarenta y cinco minutos Oeste y la poblacion de",
+    "D^{n} Felix Lescano al Norte veinte y un grados diez minu-",
+    "tos Oeste. Aqui formé con la linea del costado Nord-Este",
+    "del terreno de D^{n} Francisco Lescano un angulo de",
+    "noventa y tres grados diez minutos y por el rumbo",
+    "Sud treinta y tres grados treinta minutos Este corregi-",
+    "do, medí deslindando con el terreno de los herederos de",
+    "D^{n} Pedro Rodriguez y hasta el mojon esquinero del",
+    "angulo Norte de este terreno la distancia de tres mil",
+    "setenta y cinco varas igual á dos mil seis cientos sesenta",
+    "y dos metros nueve decimetros: en esta linea se colocó",
+    "un mojon á las mil seis cientas noventa y cinco va-",
+    "ras igual á mil cuatro cientos sesenta y siete metros",
+    "ocho decimetros, esquinero divisorio entre el terreno que",
+    "pertenece á la testamentaria del coheredero D^{n} Norber-",
+    "to Noriega en la parte vendida á D^{n} Francisco Lesca-",
+    "no, coheredero tambien de la de D^{n} Manuel Noriega.",
+    "El punto arribado ó mojon del angulo Norte se determi-",
+    "nó por las visuales siguientes: á la estancia del fina-",
+    "do D^{n} Norberto Noriega Sud treinta y un grados Oes-",
+    "te, á la de D^{n} Felix Lescano Norte dos grados Oeste",
+    "y á la Yglesia de Giles Norte dos grados treinta mi-",
+    "nutos Oeste. Aqui formé con la que acababa de me-",
+    "dir un angulo de ochenta y seis grados treinta minu- //"
+   ],
+   "interpretacion": "Con los interesados y «demás personal necesario», arranca del mojón de piedra esquina N de Francisco Lescano y E de los Noriega. Visuales: estancia del finado Norberto Noriega, «Puesto S.n Ignacio», población de Félix Lescano. Forma un ángulo de 93° 10' y mide al S 33° 30' E corregido, lindando con los herederos de Pedro Rodríguez, 3075 v = 2662,9 m; a 1695 v (1467,8 m) pone el mojón divisorio entre la testamentaría de Norberto Noriega y la parte vendida a Francisco Lescano. El ángulo N se fija con visuales a la estancia de Norberto Noriega, a la de Félix Lescano y «a la Iglesia de Giles, Norte 2° 30' Oeste»."
+  },
+  {
+   "titulo": "Folio 2 · Costado NE: el arroyo de Noriega; visual a la iglesia de Mercedes",
+   "img": "img/f/028/06.jpg",
+   "fuente": "IMG_6964.JPG",
+   "nota": "Sello con foliatura «2». «un mojón» en la entrelínea (salvado al final). Apellido de la lindera: «Yramain de Achaval» (así en el plano).",
+   "lineas": [
+    "tos y por el rumbo Sud cincuenta y tres grados Es-",
+    "te y deslindando con el terreno de los herederos de",
+    "D^{n} Vicente Noriega medí la distancia de ocho",
+    "mil tres cientas cincuenta y tres varas igual á sie-",
+    "te mil dos cientos treinta y tres metros, en cuyo pun-",
+    "to di con el esquinero del angulo Oeste del terreno",
+    "que se mide y Sud del de los herederos de D^{n}",
+    "Vicente Noriega, costanero del de la propiedad de D^{a}",
+    "Jacoba Yramain de Achaval [?]: en esta linea se cru-",
+    "zó el arroyo de Noriega á las cuatro mil setecien-",
+    "tas setenta y cinco varas igual á cuatro mil cien-",
+    "to treinta y cinco metros y se pusieron mojones costane-",
+    "ros cada mil quinientas varas. Se determinó este esqui-",
+    "nero por las visuales siguientes: al puesto de D^{n} Ro-",
+    "berto Sud cincuenta y ocho grados veinte y cinco mi-",
+    "nutos Este, á la poblacion de D^{n} Felipe Noriega Nor-",
+    "te cuarenta y nueve grados veinte y cinco minutos",
+    "Este y á la Yglesia de Mercedes Sud ochenta y",
+    "cinco grados veinte y cinco minutos Oeste. De este",
+    "punto por el rumbo Sud treinta y seis grados trein-",
+    "ta y cinco minutos Oeste y por un angulo de noven-",
+    "ta grados veinte y cinco minutos, medí hasta dar",
+    "con el mojon esquinero del angulo Sud del terreno",
+    "de los herederos de D^{n} Manuel Noriega, la distan-",
+    "cia de tres mil cincuenta varas igual á dos mil",
+    "seis cientos cuarenta y un metros: en esta linea se",
+    "puso ^{un mojon} á las tres cientas cincuenta varas igual á tres",
+    "cientos tres metros que corresponde al terreno de D^{n}",
+    "Francisco Lescano coheredero de esta testamentaria y á",
+    "las setecientas ochenta varas tambien se colocó otro",
+    "mojon esquinero, esto es, á los seis cientos setenta y cinco",
+    "metros. Este mojon es el de la fraccion que pertenecio //"
+   ],
+   "interpretacion": "Al S 53° E, lindando con los herederos de Vicente Noriega, 8353 v (7233 m) hasta el esquinero O del terreno medido, costanero de Jacoba Yramain de Achával; cruza «el arroyo de Noriega» a 4775 v y pone mojones costaneros cada 1500 v. Visuales: puesto de D. Roberto, población de Felipe Noriega y «la Iglesia de Mercedes, Sud 85° 25' Oeste». Con las iglesias de Giles y de Mercedes el campo queda triangulado entre dos pueblos.\nLuego al S 36° 35' O, 3050 v (2641 m) hasta el ángulo S; en esa línea, mojones a 350 v (fracción de Francisco Lescano) y a 780 v (675 m)…"
+  },
+  {
+   "titulo": "Folio 2 v. · Sobrante junto a Achával; cierre del perímetro",
+   "img": "img/f/028/07.jpg",
+   "fuente": "IMG_6965.JPG",
+   "nota": "Nombres dudosos: «Aniceto [?] Noriega», «Lino Lera [?]».",
+   "lineas": [
+    "// á D^{n} Aniceto [?] Noriega y que ha sido vendida, parte",
+    "á D^{n} Francisco Lescano, su coheredero, y parte á D^{n}",
+    "Ceferino Cruz [?]: cuyo mojon sirve de esquinero á la",
+    "mayor fraccion que pertenece á la testamentaria de",
+    "D^{n} Norberto Noriega, coheredero de la de D^{n} Manuel.",
+    "Por consiguiente habiendo sido trazada la linea por el rum-",
+    "bo ya dicho, el cual demostraban los mojones esquine-",
+    "ros, queda entre este terreno y el de D^{a} Jacoba Y. de",
+    "Achaval [?] un pequeño sobrante. La linea que determina",
+    "el terreno de esta Señora se halla quebrada en cada uno",
+    "de sus mojones costaneros, y tal vez este sobrante este",
+    "comprendido dentro de su superficie. El mojon ulti-",
+    "mamente encontrado que es una piedra, y que fija",
+    "el angulo Sud del terreno de Noriega, se determinó",
+    "por las visuales siguientes: poblacion de D^{n} Alejan-",
+    "dro Lescano Sud sesenta y cuatro grados quince mi-",
+    "nutos Este, id. de D^{n} Lino Lera [?] Sud setenta y cuatro",
+    "grados treinta minutos Oeste y la de D^{n} Francisco",
+    "Reynoso Norte treinta grados diez minutos Oeste.",
+    "De este punto por un angulo de ochenta y nueve gra-",
+    "dos cincuenta y cinco minutos y por el rumbo",
+    "Norte cincuenta y tres grados treinta minutos Oeste y",
+    "deslindando con el terreno de Don Francisco Lescano",
+    "medí hasta el punto de partida la distancia de",
+    "ocho mil tres cientas treinta y nueve varas igual",
+    "siete mil dos cientos veinte y un metros cinco deci-",
+    "metros: en esta linea se pusieron mojones costaneros",
+    "cada mil varas.",
+    "Concluido asi de medir el perimetro de este terreno, pasé",
+    "á hacer las subdivisiones entre los herederos de la testa-",
+    "mentaria de D^{n} Manuel Noriega: de modo que me",
+    "coloqué en el mojon esquinero divisorio entre el terreno //"
+   ],
+   "interpretacion": "…esquinero de la fracción que fue de Aniceto Noriega, vendida en parte a Francisco Lescano (coheredero) y en parte a Ceferino Cruz. Queda un «pequeño sobrante» entre este campo y el de Jacoba Y. de Achával, cuya línea «se halla quebrada en cada uno de sus mojones costaneros»: quizás el sobrante esté dentro de ella. El ángulo S (mojón de piedra) se fija con visuales a las poblaciones de Alejandro Lescano, Lino Lera [?] y Francisco Reynoso. Cierra al N 53° 30' O con Francisco Lescano, 8339 v (7221,5 m), con costaneros cada 1000 v. Pasa a subdividir entre los herederos."
+  },
+  {
+   "titulo": "Folio 3 · Subdivisión: Norberto Noriega y Francisco Lescano",
+   "img": "img/f/028/08.jpg",
+   "fuente": "IMG_6966.JPG",
+   "nota": "Sello con foliatura «3». «mil» en la entrelínea.",
+   "lineas": [
+    "// de D^{n} Francisco Lescano y el de la testamentaria de",
+    "Don Norberto Noriega situado en el costado Sud Oeste",
+    "del terreno de los herederos de D^{n} Pedro Rodriguez.",
+    "Este mojon determina el frente de ambas fracciones, la",
+    "de D^{n} Norberto Noriega de mil seis cientas noventa",
+    "y cinco varas igual á mil cuatro cientos sesenta y sie-",
+    "te metros y ocho decimetros y la de D^{n} Francisco",
+    "Lescano de mil tres cientas ochenta varas igual á mil",
+    "ciento noventa y cinco metros, que es formada de sete-",
+    "cientas ochenta varas que le corresponden de su hijuela",
+    "y de la parte comprada á D^{n} Aniceto Noriega y ade-",
+    "mas seiscientas varas de frente hacia el Arroyo de No-",
+    "riega vendidas por la testamentaria de D^{n} Norberto.",
+    "De este punto se mira la estancia de la testamentaria",
+    "de D^{n} Norberto Noriega Sud cuarenta y ocho grados cua-",
+    "renta minutos Oeste, la de D^{n} Felix Lescano Norte cero",
+    "grados veinte y cinco minutos Oeste y la Yglesia de Giles",
+    "Sud [?] ochenta y cinco grados cuarenta y cinco minutos Oes-",
+    "te, formé aqui un angulo de ochenta y seis grados",
+    "treinta minutos y por el rumbo Norte cincuenta y tres",
+    "grados Oeste, y deslindando estas fracciones medí hasta",
+    "el Arroyo de Noriega la distancia de dos mil nove-",
+    "cientas varas igual á dos ^{mil} quinientos once metros y co-",
+    "loqué un mojon esquinero en el mismo centro del",
+    "arroyo, el cual se fijó por las visuales siguientes",
+    "á la estancia de la testamentaria de Noriega Sud ochenta",
+    "y dos grados cincuenta minutos Este, á la de",
+    "D^{n} Felipe Noriega Norte setenta y siete grados cincuenta",
+    "minutos Oeste y á la de D^{n} Francisco Lescano Norte vein-",
+    "te y ocho grados cuarenta y cinco minutos Oeste. De",
+    "aqui me trasladé al esquinero divisorio entre el terre-",
+    "no de D^{n} Ceferino Cruz [?] y el de la testamentaria //"
+   ],
+   "interpretacion": "Desde el mojón divisorio entre Lescano y la testamentaría de Norberto Noriega (costado SO de Pedro Rodríguez): frente de Norberto 1695 v (1467,8 m) y de Francisco Lescano 1380 v (1195 m) = 780 v de su hijuela y de la parte comprada a Aniceto Noriega + 600 v «hacia el arroyo de Noriega» vendidas por la testamentaría de Norberto. Visuales a las estancias de Norberto y de Félix Lescano y a la iglesia de Giles. Mide al N 53° O 2900 v (2511 m) hasta el arroyo de Noriega y pone un mojón «en el mismo centro del arroyo», fijado con visuales a las estancias de los Noriega y de Lescano."
+  },
+  {
+   "titulo": "Folio 3 v. · Lindero de Ceferino Cruz; línea no trazada",
+   "img": "img/f/028/09.jpg",
+   "fuente": "IMG_6967.JPG",
+   "nota": "",
+   "lineas": [
+    "// de D^{n} Norberto Noriega, situado en el costado Nord-Este",
+    "del terreno de Achaval y colocado á las setecientas",
+    "ochenta varas igual á seis cientos setenta y cinco metros",
+    "del mojon esquinero Oeste del todo el terreno de la",
+    "testamentaria de D^{n} Manuel Noriega: se determi-",
+    "nó este mojon por las visuales siguientes: á la estan-",
+    "cia de la testamentaria de D^{n} Norberto Norte sesenta",
+    "y dos grados treinta minutos Este, al puesto de D^{n} Rober-",
+    "to Norte ochenta y tres grados quince minutos Este y",
+    "á la Yglesia de Mercedes Sud ochenta y nueve grados",
+    "Oeste. De aqui tiré el rumbo Norte cincuenta y tres",
+    "grados treinta minutos Oeste y por un angulo de",
+    "ochenta y nueve grados cincuenta y cinco minutos",
+    "medí deslindando el terreno de Cruz del de la testa-",
+    "mentaria de D^{n} Norberto Noriega y hasta dar con",
+    "el arroyo de Noriega la distancia de cuatro mil",
+    "ocho cientas ochenta y seis varas: igual á cuatro mil",
+    "dos cientos treinta y un metros, en cuyo punto se co-",
+    "locó un mojon esquinero que debe ser el de la frac-",
+    "cion de las seis cientas varas vendidas por la testamen-",
+    "taria de D^{n} Norberto á su coheredero Don Francis-",
+    "co Lescano. En esta linea tambien se puso á las",
+    "cuatro mil varas igual á tres mil cuatro cientos se-",
+    "senta y cuatro metros otro mojon que determina el fondo",
+    "por este costado del terreno de D^{n} Ceferino Cruz [?]",
+    "comprador de una parte de la fraccion que correspondia",
+    "á D^{n} Aniceto Noriega. El mojon esquinero colocado en",
+    "el arroyo de Noriega no se pudo determinar.",
+    "La linea divisoria entre el terreno de D^{n} Ceferino",
+    "Cruz y el de D^{n} Francisco Lescano no fué trazada",
+    "á pedimento de los interesados.",
+    "El terreno medido para los herederos de D^{n} Ma- //"
+   ],
+   "interpretacion": "Desde el esquinero entre Ceferino Cruz y la testamentaría de Norberto Noriega (a 780 v del esquinero O, sobre Achával), visuales a la estancia de Norberto, al puesto de D. Roberto y a la iglesia de Mercedes; mide al N 53° 30' O 4886 v (4231 m) hasta el arroyo de Noriega, con un mojón a 4000 v que fija el fondo de Cruz (comprador de parte de la fracción de Aniceto Noriega). El mojón del arroyo «no se pudo determinar». La línea entre Cruz y Lescano «no fue trazada a pedimento de los interesados»."
+  },
+  {
+   "titulo": "Folio 4 · Superficies en varas y en hectáreas",
+   "img": "img/f/028/10.jpg",
+   "fuente": "IMG_6968.JPG",
+   "nota": "Sello con foliatura «4».",
+   "lineas": [
+    "// nuel Noriega, es de la figura de un cuadrilatero irregu-",
+    "lar y su superficie es igual á veinte y cinco millo-",
+    "nes quinientas treinta y ocho mil seis cientas noventa",
+    "varas cuadradas igual á mil novecientas quince hec-",
+    "tareas treinta y cuatro areas y setenta y nueve me-",
+    "tros cuadrados. Linda por el Nord Oeste con el terreno",
+    "de los herederos de D^{n} Pedro Rodriguez, por el Nord",
+    "Este con el de los herederos de D^{n} Vicente Noriega,",
+    "por el Sud Oeste con el de D^{n} Francisco Lescano y por",
+    "el Sud Este con el de Doña Jacoba Yramain de Achaval.",
+    "La fraccion que corresponde á los herederos de D^{n} Nor-",
+    "berto Noriega, es de la figura de un exagono irregular",
+    "comprendiendo el Arroyo de Noriega por uno de sus",
+    "lados, tiene una superficie de diez y ocho millones",
+    "ocho cientos treinta y tres mil ciento cincuenta varas",
+    "cuadradas igual á mil cuatro cientas doce hectareas",
+    "cuarenta areas y treinta y tres metros cuadrados. Lin-",
+    "da por el Nord Oeste con el terreno de los herederos de",
+    "Don Pedro Rodriguez y con el Arroyo de Noriega, por",
+    "el Nord-Este con el terreno de la fraccion de Don Fran-",
+    "cisco Lescano y con el de la de D^{n} Ceferino Cruz, por",
+    "el Sud Oeste con terrenos de D^{n} Francisco Lescano y",
+    "por el Sud Este con el de D^{a} Jacoba Yramain de",
+    "Achaval.",
+    "La fraccion de D^{n} Francisco Lescano con la de D^{n}",
+    "Ceferino Cruz tambien es de la figura de un exagono",
+    "irregular, tomando el arroyo de Noriega por uno de sus",
+    "costados y estas dos fracciones contienen una superficie",
+    "de seis millones setecientos cinco mil quinientas cuaren-",
+    "ta varas cuadradas igual á quinientas dos hectareas",
+    "ochenta y ocho areas y cincuenta y nueve metros cuadra-",
+    "dos.",
+    "Asistieron á esta operacion todos los linderos á excep- //"
+   ],
+   "interpretacion": "Terreno de los herederos de Manuel Noriega: cuadrilátero irregular de 25.538.690 v² = 1915 ha 34 a 79 m² (≈ 0,71 legua²); linda al NO con herederos de Pedro Rodríguez, al NE con los de Vicente Noriega, al SO con Francisco Lescano y al SE con Jacoba Yramain de Achával. Fracción de los herederos de Norberto Noriega: hexágono irregular con el arroyo por un lado, 18.833.150 v² = 1412 ha 40 a 33 m². Fracción de Francisco Lescano + Ceferino Cruz: hexágono irregular, 6.705.540 v² = 502 ha 88 a 59 m². Primera ficha de la serie con superficies oficiales en hectáreas."
+  },
+  {
+   "titulo": "Folio 4 v. · Cierre, declinación e informe del D. T.",
+   "img": "img/f/028/11.jpg",
+   "fuente": "IMG_6969.JPG",
+   "nota": "Cálculos a lápiz en el margen superior.",
+   "lineas": [
+    "[cálculos marginales a lápiz]",
+    "// cion del representante de la Señora D^{a} Jacoba Yramain",
+    "de Achaval y no hubo protesta ni observacion alguna.",
+    "Los rumbos son todos corregidos y la variacion del ins-",
+    "trumento con que se ha medido, la de once grados trein-",
+    "ta minutos Nord-Este.",
+    "Nota = un mojon = mil = entre renglones vale.",
+    "Pedro Saubidet",
+    "Presentada al Departamento hoy catorce",
+    "de Julio de 1865",
+    "J. Salas",
+    "Señor Juez de 1^{a} Ynstancia",
+    "El Departamento Topografico ha examina-",
+    "do la presente Mensura de un terreno en el",
+    "Partido de San Andres de Giles de los Here-",
+    "deros de D. Manuel Noriega practicada por",
+    "el Agrimensor D. Pedro Saubidet, y encon-",
+    "trandola bien ejecutada la aprueba y",
+    "con motivo de haber resultado inclui-",
+    "do en el terreno objeto de ella un escedente",
+    "de 137^{h} 95^{a} 22^{c} sobre la área de los",
+    "titulos, es de parecer que antes que esta",
+    "operacion sea aprobada judicialmente",
+    "debe darse vista de ella á los suceso-",
+    "res en los derechos de D. Pedro Diaz de",
+    "Vivar por ser dicho escedente parte",
+    "de los terrenos que dicho Diaz de Vivar",
+    "fué primer propietario.",
+    "Bue- //"
+   ],
+   "interpretacion": "Asistieron todos los linderos salvo el representante de Jacoba Yramain de Achával; no hubo protesta. Rumbos corregidos; variación del instrumento 11° 30' NE. Firma Pedro Saubidet. «Presentada al Departamento hoy 14 de julio de 1865» (J. Salas).\nEl Departamento Topográfico aprueba la mensura, pero como resulta incluido un excedente de 137 ha 95 a 22 ca sobre el área de los títulos, pide que antes de la aprobación judicial se dé vista a los sucesores de Pedro Díaz de Vivar, «por ser dicho excedente parte de los terrenos que dicho Díaz de Vivar fue primer propietario». La merced de Vivar (Fichas 007, 017, 023) reaparece en 1865."
+  },
+  {
+   "titulo": "Folio 5 · Firmas del D. T. (18/8/1865) y observación del sol",
+   "img": "img/f/028/12.jpg",
+   "fuente": "IMG_6971.JPG",
+   "nota": "Sello con foliatura «6». La tabla de amplitudes, de mano de Saubidet, parece anotada en otro momento.",
+   "lineas": [
+    "// [Bue]nos Ayres Agosto 18 de 1865.",
+    "Salas    Moreno    Kuhr",
+    "Casagemas",
+    "[en la parte superior, anotación del agrimensor:]",
+    "Amplitud occidua obser. ........ 7° N.",
+    "\" ortiva id. ........ 30° N.",
+    "23°",
+    "variacion ........ 11° 30' N. E.",
+    "Pedro Saubidet"
+   ],
+   "interpretacion": "Buenos Aires, 18/8/1865: firman Salas, Moreno, Kuhr y Casagemas. German Kuhr, el agrimensor de la Ficha 020 (1856), del que Saubidet fue ayudante, es ahora miembro del Departamento que revisa el trabajo de su antiguo ayudante.\nSaubidet anota la observación: amplitud occidua 7° N, ortiva 30° N; diferencia 23°, variación 11° 30' NE (la mitad). Es el método de Kuhr en 1856 (amplitudes ortiva y occidua del sol)."
+  },
+  {
+   "titulo": "Oficio del juez (29/11/1865) · transacción con los Díaz de Vivar",
+   "img": "img/f/028/13.jpg",
+   "fuente": "IMG_6972.JPG",
+   "nota": "Papel sellado de 3 pesos, «Prov.ª de Buenos Aires 1865», foliatura 7. Al margen: Juzgado Civil del 1.er Distrito, escribano Ramón Peralta.",
+   "lineas": [
+    "3 PESOS    Corresp.^{e}    [sello:] Prov.^{a} de Buenos Aires 1865    [foliatura:] 7",
+    "[al margen:] Juzgado Civil del 1.^{er} Dist.^{o} — Ramon Peralta — Lujan 1[?]",
+    "Buenos Aires Nov.^{e} 29/865.—",
+    "Al S^{r} Presidente del Departa-",
+    "mento Topografico.—",
+    "En el expediente seguido por los herederos",
+    "de Don Manuel Noriega sobre men-",
+    "sura de un terreno de campo sito en",
+    "el Partido de Mercedes, por disposicion es-",
+    "te Juzgado se libra á V. la presente ha-",
+    "ciendole saber que la operacion practica-",
+    "da por el Agrimensor Don Pedro Saubi-",
+    "det, ha sido aprobada por el auto del",
+    "tenor siguiente — \"Buenos Aires Noviem-",
+    "bre veinte y siete de mil ochocientos",
+    "sesenta y cinco = Autos y vistos: de confor-",
+    "midad de partes y Agente Fiscal, y resul-",
+    "tando no ser exacto que hayan resultado",
+    "sobrantes de propiedad publica, pues estos per-",
+    "tenecen á los herederos de Diaz de Vivar",
+    "como lo reconoció dicho Agente Fiscal",
+    "en su vista de f.^{s} 33, y lo manifiesta el",
+    "Agrimensor en la diligencia de men-",
+    "sura, se aprueba á merito de las ra-",
+    "tificaciones prestadas la transaccion ce-",
+    "lebrada entre los herederos de Noriega",
+    "y de Diaz de Vivar á que se refiere el",
+    "escrito de fojas treinta y una, y como",
+    "consecuencia de esta, apruebase tambien",
+    "en cuanto ha lugar por derecho la men-"
+   ],
+   "interpretacion": "El juez comunica que la mensura de Saubidet —en un campo que el oficio sitúa «en el Partido de Mercedes»— fue aprobada por auto del 27/11/1865: de conformidad de partes y del agente fiscal, y como no es exacto que haya «sobrantes de propiedad pública, pues éstos pertenecen a los herederos de Díaz de Vivar» (lo reconoció el fiscal a f. 33 y lo dice el agrimensor), se aprueba la transacción celebrada entre los herederos de Noriega y los de Díaz de Vivar (f. 31) y, en consecuencia, la mensura."
+  },
+  {
+   "titulo": "Oficio (cont.) · firma de Miguel García Fernández",
+   "img": "img/f/028/14.jpg",
+   "fuente": "IMG_6973.JPG",
+   "nota": "Mancha de tinta al pie.",
+   "lineas": [
+    "sura practicada por el Agrimensor",
+    "Don Pedro Saubidet, corriente de f.^{s} 12 á",
+    "f.^{s} 17 para los herederos de Noriega, in-",
+    "terponiendo el Juzgado para mayor",
+    "firmeza la autoridad que ejerce por",
+    "medio de este auto. En su virtud co-",
+    "muniquese al Departamento Topogra-",
+    "fico por oficio que se librará con trans-",
+    "cripcion de este auto. Dése á los in-",
+    "teresados testimonio de las piezas que",
+    "solicitaren; y satisfechas las costas con",
+    "arreglo á arancel, archivese el espedien-",
+    "te. Repongase el sello = Miguel Gar-",
+    "cia Fernandez — Lo mandó y firmó el",
+    "Señor Juez de primera Instancia en",
+    "lo Civil Doctor Don Miguel Garcia",
+    "Fernandez en Buenos Aires á vein-",
+    "te y siete de Noviembre de mil ocho",
+    "cientos sesenta y cinco doy fé = Ramon",
+    "Peralta\".—",
+    "Lo que el infrascrito comu-",
+    "nica á V. á los efectos que haya lu-",
+    "gar.—",
+    "Dios gue. á V.—",
+    "Miguel Garcia Fernandez",
+    "Dic.^{e} 5/65.",
+    "Agreguese al duplicado",
+    "correspondiente.",
+    "Salas"
+   ],
+   "interpretacion": "La mensura corre de f. 12 a 17; el juzgado interpone su autoridad, manda dar testimonios, cobrar costas y archivar. Firma el juez de primera instancia en lo civil Dr. Miguel García Fernández (escribano Ramón Peralta). El 5/12/1865 Salas ordena agregarlo al duplicado. García Fernández es el mismo que en 1855 vendió como apoderado el campo de O'Brien (Ficha 027)."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Terreno de los herederos de D. Manuel Noriega y su subdivisión",
+   "img": "img/f/028/03.jpg",
+   "fuente": "IMG_6970.JPG",
+   "orientacion": "Pliego a tinta; flecha «N. V.» (norte verdadero) en diagonal; doble escala gráfica en varas (0-6000) y en metros (0-6000); firmado «Pedro Saubidet».",
+   "interpretacion": "Cuadrilátero alargado entre «Herederos de D.n Pedro Rodríguez» (arriba, con el «mojón de arranque») y «Jacoba Yramain de Achával» (abajo). Dentro, fajas paralelas: «Herederos de D.n Vicente Noriega» (fuera, a la izquierda), «D.n Francisco Lescano» y «Ceferino Cruz» (faja partida con línea de trazos: la divisoria no trazada), «Herederos de D.n Norberto Noriega» (la mayor) y «Francisco Lescano» (a la derecha, fuera). El «Arroyo de Noriega» atraviesa en diagonal, dibujado con sus meandros, y corta las fajas: por eso las fracciones son hexágonos. Rumbos y distancias en varas y metros sobre cada lado.",
+   "referencias": [
+    [
+     "Mojón de arranque",
+     "Esquina N de F. Lescano / E de Noriega, sobre el lindero de P. Rodríguez"
+    ],
+    [
+     "Fracciones",
+     "Her. de Norberto Noriega (1412,40 ha) · Francisco Lescano + Ceferino Cruz (502,89 ha)"
+    ],
+    [
+     "Linderos",
+     "Her. de Pedro Rodríguez (NO) · her. de Vicente Noriega (NE) · Francisco Lescano (SO) · Jacoba Yramain de Achával (SE)"
+    ],
+    [
+     "Aguas",
+     "Arroyo de Noriega, con meandros, en diagonal"
+    ],
+    [
+     "Orientación",
+     "Flecha «N. V.» (norte verdadero)"
+    ],
+    [
+     "Escalas",
+     "Doble escala gráfica: varas y metros (0-6000)"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "El ayudante se vuelve agrimensor; el maestro, juez de su obra",
+   "texto": "Pedro Saubidet fue en 1856 el «ayudante» de German Kuhr en la mensura de Morgan (Ficha 020). En 1865 mide como agrimensor público —también midió en Lobos en 1863— y su trabajo lo revisa el Departamento Topográfico con Kuhr entre sus miembros (Salas, Moreno, Kuhr, Casagemas). Repite el método de su maestro: la declinación por las amplitudes ortiva y occidua del sol (7° N y 30° N → 11° 30' NE), anotada al pie."
+  },
+  {
+   "titulo": "Transición al sistema métrico",
+   "texto": "Todas las distancias se dan en varas y en metros con decímetros (3075 v = 2662,9 m), las superficies en varas cuadradas y en hectáreas, áreas y metros, y el plano lleva doble escala. Es la segunda mensura métrica de la serie después de la de Pico (Ficha 007, 1863): hacia 1863-65 el metro entra en la práctica aunque la vara sigue siendo la unidad de los títulos."
+  },
+  {
+   "titulo": "Díaz de vivar otra vez: sobrante privado, no fiscal",
+   "texto": "El excedente de 137,95 ha sobre los títulos no se trata como sobrante del fisco (como en las Fichas 019 y 024), sino como tierra de los herederos de Pedro Díaz de Vivar, «primer propietario». El fiscal lo reconoce y el juez aprueba una transacción privada entre Noriega y los Vivar. La merced de Vivar (1635, Fichas 007, 017, 023) sigue siendo en 1865 el título de fondo del que dependen los sobrantes de la zona."
+  },
+  {
+   "titulo": "Paisaje: el arroyo de noriega y dos iglesias",
+   "texto": "El campo está entre el río de Luján y «las cabezadas del arroyo de Giles»; lo atraviesa el «arroyo de Noriega», otro hidrónimo tomado de un apellido de vecinos (como los de Suero, Sosa y Laballén). Mojón «en el mismo centro del arroyo». Visuales a la iglesia de Giles (N 2° 30' O) y a la de Mercedes (S 85° 25' O y S 89° O): triangulación entre dos pueblos, útil para el GIS. Hitos: estancias de Norberto Noriega y Félix Lescano, «Puesto San Ignacio», puesto de D. Roberto, poblaciones de Felipe Noriega, Alejandro Lescano, Lino Lera [?] y Francisco Reynoso."
+  },
+  {
+   "titulo": "Tenencia: un clan noriega–lescano",
+   "texto": "Tierra de los Martínez (Felipe, Félix, Vicente, Pedro Antonio) vendida en 1823 a Manuel Noriega y a su esposa Manuela Quiroga; en 1865 la ocupan herederos Noriega (Norberto, Vicente, Aniceto, Felipe, Mariano) y Lescano (Francisco, Félix, Alejandro), coherederos que se compran y venden hijuelas entre sí, más un comprador externo (Ceferino Cruz). El sector de la «Sección Luján» pasó a la «Sección Areco» (portadilla corregida)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Año de la venta de Vicente Martínez (¿1830? la cifra está abreviada)? ¿«Simón Robles [?]» y «Lino Lera [?]»? ¿Por qué el juez ubica el campo en el partido de Mercedes y la carátula en Giles? ¿Figura el arroyo de Noriega en el plano del partido de 1890? Falta la circular de citación; la transacción con los Díaz de Vivar (f. 31) no está entre las tomas."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Manuel Noriega y Manuela Quiroga",
+   "rol": "Propietarios (testamentaría)",
+   "texto": "Compraron a los Martínez tierras entre el río de Luján y las cabezadas del arroyo de Giles (la de Manuela Quiroga el 26/11/1823). Herederos y coherederos: Norberto (finado en 1865), Vicente, Aniceto, Felipe y Mariano Noriega; Francisco, Félix y Alejandro Lescano. Apellido Noriega ya registrado en fichas anteriores. Sin datos biográficos en la búsqueda web.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Pedro Saubidet",
+   "rol": "Agrimensor",
+   "texto": "Ayudante de German Kuhr en 1856 (Ficha 020); agrimensor público que en 1863 levantó el plano de los campos de Juan Cascallares en Lobos (estancias La Atalaya, La Porteña, La Fábrica). Apellido de origen vasco-francés, presente en la zona de Luján/Mercedes.",
+   "fuentes": "Ficha 020; Municipalidad de Lobos, «Localidades de Lobos» (lobos.gob.ar)."
+  },
+  {
+   "nombre": "Salas · Moreno · Kuhr · Casagemas",
+   "rol": "Departamento topográfico",
+   "texto": "Firman el 18/8/1865. Germán Kuhr, agrimensor de la Ficha 020, ya integra el Departamento; Casagemas figura también en 1863 (Ficha 007).",
+   "fuentes": "Fichas 007, 020."
+  },
+  {
+   "nombre": "Miguel García Fernández",
+   "rol": "Juez civil de primera instancia",
+   "texto": "Aprueba la mensura el 27/11/1865 (escribano Ramón Peralta, Juzgado Civil del 1.er Distrito). En 1855 actuó como apoderado de Águeda Montenegro en la venta a Juan O'Brien (Ficha 027).",
+   "fuentes": "Ficha 027; esta mensura."
+  },
+  {
+   "nombre": "Pedro Díaz de Vivar y sucesores",
+   "rol": "Titulares del excedente",
+   "texto": "Merced originaria de la zona (Vergara 1635 → Díaz de Vivar, Ficha 007); en 1803 un Pedro Díaz de Vivar vendió a Corro (Ficha 026). Sus sucesores transigen con los Noriega en 1865.",
+   "fuentes": "Fichas 007, 017, 023, 026."
+  },
+  {
+   "nombre": "Otros nombrados",
+   "rol": "Linderos y vecinos",
+   "texto": "Jacoba Yramain de Achával (lindera SE), herederos de Pedro Rodríguez, Ceferino Cruz, Simón Robles [?], Felipe y Félix [?] Antonio y Vicente y Pedro Antonio Martínez, D. Roberto (puesto), Lino Lera [?], Francisco Reynoso. Sin datos localizados.",
+   "fuentes": "Esta mensura y su plano."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/028/02.jpg",
+  "fuente": "IMG_6961.JPG",
+  "lineas": [
+   "Sec.^{n} ~~Lujan~~ Areco",
+   "n.^{o} ~~1[..].133~~    Giles",
+   "N 110    28",
+   "Duplicado de la mensura practicada del [terreno]",
+   "de los herederos de D^{n} Manuel Noriega, [situa]-",
+   "do en el partido de San Andres de Giles por",
+   "el agrimensor Saubidet 1865"
+  ]
+ },
+ "titulo": "Herederos de D. Manuel Noriega",
+ "estado": "Transcripta (11 hojas, 319 renglones), 1 lámina"
+}

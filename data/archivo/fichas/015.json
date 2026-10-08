@@ -1,0 +1,327 @@
+{
+ "carpeta": "15",
+ "carpeta_nombre": "Carpeta 15",
+ "archivo": "Ficha 015 - José María Echeverría (1839).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Secc. Areco)",
+  "N.º de duplicado": "15 (portadilla N.º 74; encabezado N 16)",
+  "Propietario / solicitante": "D. José María Echeverría",
+  "Agrimensor": "Manuel Eguía",
+  "Año": "1839",
+  "Fecha de la diligencia": "4/10/1839; D. T. 27/11/1839; escritura del sobrante 18/8/1858",
+  "Ubicación": "Partido de Giles; entre Carrasco, Lima, Rocha, Colmenero, Bustos y P. Romero",
+  "Orden judicial": "Comisión; aprobación ante el Juez de 1.ª Instancia",
+  "Vendedor / antecesor": "Venta del Gobierno (1 legua²); sobrante de 0,138 legua² vendido en 1858",
+  "Linderos citados": "NO: A. Rocha · SO: J. G. Carrasco y M. Lima · SE: R. Colmenero · E: P. Romero · NE: R. Bustos",
+  "Medidas": "2300 + 1960 / 6070 / 6650 / 6250 v (5 lados); mojones cada 1500 v",
+  "Rumbos": "De la aguja, con grados y minutos (S 57° E, N 32° 45' E…)",
+  "Referencia de archivo": "Portadilla «N.º 74 – Giles 15 – Secc.on Areco»"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 3070 (1,138 leguas²)",
+  "hitos": "Mojones cada 1500 v; estancias de Echeverría, Lima y Colmenero; casa de Rodríguez",
+  "aguas": "Sin cursos nombrados"
+ },
+ "sintesis": "Mensura del 4 de octubre de 1839 de la legua cuadrada que José María Echeverría había comprado al Gobierno en el partido de Giles, hecha por Manuel Eguía con rumbos de la aguja en grados y minutos y mojones cada 1500 varas. Es un polígono de cinco lados de 1,138 leguas² (≈ 3070 ha). Linda con Antonio Rocha (representado por su socio Bernardo Gutiérrez), Juan Gregorio Carrasco y Mariano Lima (los linderos de Saraví en la Ficha 013), Ramón Colmenero, Ramón Bustos y Pascuala Romero, representada por su hijo Fernando Monsalvo (Ficha 003). El exceso de 138 milésimos «pertenece al Estado». El Departamento Topográfico, con las firmas de José Arenales y del joven Juan María Gutiérrez, propone adjudicarlo al propietario. La escritura de venta del sobrante recién se ordena en agosto de 1858.",
+ "caratula": {
+  "img": "img/f/015/01.jpg",
+  "fuente": "IMG_6718.JPG",
+  "campos": [
+   [
+    "N.º",
+    "15"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "José María Echeverría"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Manuel Eguía"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1839"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 (recto)",
+   "img": "img/f/015/04.jpg",
+   "fuente": "IMG_6720.JPG",
+   "nota": "Encabezado «Duplicado», «N 16» (y «15» a lápiz rojo), sello del Departamento Topográfico y foliatura «1». Letra de copista redonda, muy clara; nota marginal de archivo a la izquierda.",
+   "lineas": [
+    "[al margen:] [Parti]do de Giles / [Du]plicado de mensura de [D. José] M.^{a} Echeverria / 1839.",
+    "Duplicado.                    [sello:] 1",
+    "N 16 [a lápiz rojo:] 15",
+    "En el Partido de Giles á 4. de Octubre de 1839.",
+    "en cumplimiento de la comision que se me ha con-",
+    "ferido para medir el terreno de propiedad de D.^{n}",
+    "José Maria Echeverria, tomé por punto de arranque",
+    "el mojon esquinero Oeste de este terreno, que se",
+    "halla sobre el costado Nor-Este del de D.^{n} Juan",
+    "Gregorio Carrasco, y sirve al mismo tiempo para",
+    "determinar uno de los angulos del costado Sud-Este",
+    "del de D.^{n} Antonio Rocha: desde este mojon al",
+    "S. 57.^{o} E. se midieron 2300. varas hasta el mojon",
+    "esquinero Este de D.^{n} Juan Gregorio Carrasco, y",
+    "N. de D.^{n} Mariano Lima: desde él al Sur",
+    "59.^{o} E. á las 2100. varas se colocó un mojon, y á",
+    "las 4260. se halló el esquinero Sur del terreno",
+    "que se mide; y se mira desde él al N. 54.^{o} O.",
+    "la Estancia de Echeverria, al S. 74.^{o} O. la de D.^{n}",
+    "Mariano Lima, y S. 79.^{o} E. la de D.^{n} Ramon",
+    "Colmenero. — En seguida al N. 32.^{o} 45.' E.",
+    "y colocando mojones á cada 1500 v.^{s} se midie-",
+    "ron 6070. v.^{s} hasta el esquinero Este de este",
+    "terreno. — Desde él al N. 57.^{o} O., y colocando",
+    "mojones á cada 1500 v.^{s} se midieron 6650. varas",
+    "hasta llegar al mojon esquinero Norte; del cual",
+    "se mira al S. 12.^{o} E. la casa de D.^{n} José Rodri-",
+    "guez. — En seguida al S. 32.^{o} O. á las 2000. v.^{s}",
+    "se clavó un mojon, á las 3000. otro, y á las",
+    "6250. se dió con el mojon de arranque. — El",
+    "terreno medido tiene la figura de un poligono"
+   ],
+   "interpretacion": "El 4 de octubre de 1839, en el partido de Giles, Manuel Eguía mide por comisión el terreno de propiedad de José María Echeverría. Arranca del mojón esquinero O, que está sobre el costado NE de Juan Gregorio Carrasco y marca un ángulo del costado SE de Antonio Rocha. Carrasco y Lima son los mismos linderos que cierran la mensura de Saraví de 1827 (Ficha 013).\nRecorrido: S 57° E 2300 v hasta la esquina E de Carrasco y N de Mariano Lima; S 59° E hasta 4260 v, esquina S, desde donde «se mira» la estancia de Echeverría, la de Mariano Lima y la de Ramón Colmenero; N 32° 45' E 6070 v con mojones cada 1500 v; N 57° O 6650 v hasta la esquina N, con visual a la casa de José Rodríguez; y S 32° O 6250 v hasta el arranque. Eguía planta mojones a intervalos regulares: es un amojonamiento sistemático, más «moderno» que el de 1826."
+  },
+  {
+   "titulo": "Folio 1 (vuelto)",
+   "img": "img/f/015/05.jpg",
+   "fuente": "IMG_6721.JPG",
+   "nota": "Al margen, «1,138». Firma de Eguía. Sigue el informe del Departamento, en otra letra.",
+   "lineas": [
+    "irregular de 5. lados con la Area de una legua",
+    "cuadrada y ciento treinta y ocho milesimos de          [al margen:] 1,138",
+    "otra; y linda p.^{r} el N. O. con D.^{n} Antonio",
+    "Rocha, por el S. O. con D.^{n} Juan Gregorio Car-",
+    "rasco y D.^{n} Mariano Lima, p.^{r} el S. E. con",
+    "D.^{n} Ramon Colmenero, N. el angulo Este con",
+    "D.^{a} Pascuala Romero, y por el N. E. con D.^{n}",
+    "Ramon Bustos. Rumbos de la aguja.",
+    "Nota. Asistieron á esta operacion los",
+    "linderos D.^{n} Juan Gregorio Carrasco, D.^{n} Maria-",
+    "no Lima, D.^{n} Ramon Colmenero, D.^{n} Ramon",
+    "Bustos. — Por D.^{a} Pascuala Romero se pre-",
+    "sentó su hijo D.^{n} Fernando Monsalvo, y por",
+    "D.^{n} Antonio Rocha su socio D.^{n} Bernardo",
+    "Gutierrez.",
+    "Nota 2.^{a} El terreno de D.^{n} José M.^{a}",
+    "Echeverria segun la venta del Gobierno es",
+    "de una legua cuadrada: existe dentro de",
+    "sus mojones el exceso de 138. milesimos que",
+    "pertenece al Estado, y se halla pronto á",
+    "pagar su importe segun el precio estable-",
+    "cido para obtener el correspondiente titu-",
+    "lo de propiedad.",
+    "Manuel Eguia [rúbrica]",
+    "[otra mano:] Señor Juez de 1.^{a} Instancia",
+    "El Departam.^{to} Topografico ha exa-",
+    "minado la presente mensura y nada",
+    "tiene que le observar que se oponga á",
+    "su aprobacion. Solo debe advertir que com-",
+    "parada con la primitiva mensura, dá",
+    "~~esta~~ la presente, ciento treinta y ocho",
+    "milesimos de legua cuadrada de exceso"
+   ],
+   "interpretacion": "Es un polígono de cinco lados de 1,138 leguas cuadradas, con «rumbos de la aguja». Linderos: NO, Antonio Rocha; SO, Juan Gregorio Carrasco y Mariano Lima; SE, Ramón Colmenero; ángulo E, Pascuala Romero; NE, Ramón Bustos. Asistieron los linderos. Por Pascuala Romero se presentó su hijo Fernando Monsalvo (enlaza con la Ficha 003, Eguía 1838, y con la 011: la tierra de Aguirre que pasó a Romero). Por Antonio Rocha, su socio Bernardo Gutiérrez: una sociedad ganadera.\nNota 2.ª: según la venta del Gobierno, el terreno es de una legua cuadrada; el exceso de 138 milésimos «pertenece al Estado» y Echeverría está dispuesto a pagarlo. Echeverría compró su legua al Estado (venta rosista de tierras públicas, ley de 1836). El Departamento dictamina que no hay nada que se oponga a la aprobación y confirma el exceso respecto de la «primitiva mensura»."
+  },
+  {
+   "titulo": "Folio 2 (recto)",
+   "img": "img/f/015/06.jpg",
+   "fuente": "IMG_6722.JPG",
+   "nota": "Firmas de José Arenales y Juan María Gutiérrez (27/11/1839). Nota posterior de 1858 firmada por Juan Fernández.",
+   "lineas": [
+    "perteneciente al Estado: y resultando dentro",
+    "del amojonamiento del propietario Eche-",
+    "verria, parece justo que á él se le adjudique",
+    "ocurriendo competentemente ante la Su-",
+    "prema Autoridad. — Buenos — Aires",
+    "Noviembre 27 de 1839.                    [sello:] 2",
+    "Jose Arenales [rúbrica]          Juan Maria Gutierrez [rúbrica]",
+    "[otra mano:] El sobrante ha sido solicitado en",
+    "compra por D.^{n} José M. Eche-",
+    "verria, é informado por el",
+    "D. T. con fha 9 de Febrero de[l]",
+    "[otra tinta:] Se le mandó estender escritura de venta en Agosto 18/858.",
+    "Juan Fernandez [rúbrica]"
+   ],
+   "interpretacion": "El Departamento concluye que, como el sobrante está dentro del amojonamiento del propietario, «parece justo que a él se le adjudique» si lo pide ante la Suprema Autoridad. Firman José Arenales y Juan María Gutiérrez, el futuro escritor y rector de la Universidad, que trabajaba entonces en el Departamento Topográfico.\nNota posterior: Echeverría pidió comprar el sobrante; el Departamento informó el 9 de febrero y en agosto de 1858 se mandó extender la escritura de venta. El trámite del sobrante tardó casi veinte años, cruzando la caída de Rosas: es el mismo patrón de sobrantes vendidos después de 1852 que se ve en las Fichas 004, 005 y 007."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de José María Echeverría",
+   "img": "img/f/015/03.jpg",
+   "fuente": "IMG_6723.JPG",
+   "orientacion": "Lámina desplegada; flechas de orientación arriba a la derecha («12°» [?] y norte); escala gráfica en varas; firma «Manuel Eguía, Octubre 4 de 1839».",
+   "interpretacion": "El terreno de Echeverría es un cuadrilátero casi regular, bordeado en rojo, con el «mojón de arranque» en la esquina NO y mojones intermedios marcados como puntos. Las cotas (6350 [?], 6070, 6650 [?], 4260 [?]) repiten las del texto. Hay dos marcas interiores o de borde: «P. Rodríguez» (la casa de José Rodríguez [?]) y «P. Acuña» sobre el lado S.\nAlrededor, los linderos rotulados: Antonio Rocha (N), Juan Gregorio Carrasco y Mariano Lima (O), Ramón Colmenero (S), Ramón Bustos (E) y el gran campo de Pascuala Romero (SE), cuyos límites oblicuos no siguen la retícula. El plano no dibuja aguas ni caminos: es un plano catastral de límites, en el estilo sobrio de Eguía.",
+   "referencias": [
+    [
+     "José María Echeverría",
+     "Terreno medido (bordeado en rojo)"
+    ],
+    [
+     "Mojón de arranque",
+     "Esquina NO, sobre Carrasco y Rocha"
+    ],
+    [
+     "Antonio Rocha",
+     "Lindero NO (socio: Bernardo Gutiérrez)"
+    ],
+    [
+     "Juan Gregorio Carrasco · Mariano Lima",
+     "Linderos SO"
+    ],
+    [
+     "Ramón Colmenero",
+     "Lindero SE"
+    ],
+    [
+     "Ramón Bustos",
+     "Lindero NE"
+    ],
+    [
+     "Pascuala Romero",
+     "Lindero en el ángulo E (hijo: Fernando Monsalvo)"
+    ],
+    [
+     "P. Rodríguez",
+     "¿Puesto o casa de Rodríguez? (visual desde el mojón N)"
+    ],
+    [
+     "P. Acuña",
+     "¿Puesto de Acuña? sobre el lado S"
+    ],
+    [
+     "Flechas",
+     "Aguja y norte, con ángulo «12°» [?]"
+    ],
+    [
+     "Escala",
+     "Escala gráfica en varas"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Una propiedad comprada al estado y su sobrante",
+   "texto": "Echeverría no es enfiteuta sino propietario por «venta del Gobierno» de una legua cuadrada, seguramente en el marco de la ley de venta de tierras públicas de 1836, igual que las compras de las Fichas 012 y 013 en 1838. La mensura de 1839 encuentra 0,138 leguas² de más, que «pertenecen al Estado». El Departamento propone adjudicárselas al mismo propietario, pero la escritura de venta del sobrante recién se ordena en agosto de 1858. Es otro caso del circuito sobrante-denuncia-compra (Fichas 004, 005, 007, 009, 010)."
+  },
+  {
+   "titulo": "Continuidad de linderos: carrasco, lima, romero",
+   "texto": "Juan Gregorio Carrasco y Mariano Lima (en 1827, «Antonio Lima») eran los vecinos cuyas mensuras aprobadas usó Lemoine para cerrar el terreno de Saraví (Ficha 013). Pascuala Romero, con su hijo Fernando Monsalvo, es la propietaria de la Ficha 003 (Eguía, 1838) y la heredera de la enfiteusis de Aguirre (011). Echeverría queda así ubicado en el mismo bloque, al O del conjunto Saraví-Casco-Fernández y al lado de Romero. Hay que verificar en el GIS si «Mariano Lima» y «Antonio Lima» son la misma familia y parcela."
+  },
+  {
+   "titulo": "Técnica de eguía en 1839",
+   "texto": "Rumbos «de la aguja» expresados en grados y minutos (N 32° 45' E), sin corrección declarada, lo mismo que en la Ficha 010 (1840). Mojones plantados cada 1500 varas, algo nuevo en la serie. Visuales a estancias y casas desde los vértices (estancia de Echeverría, de Lima, de Colmenero; casa de José Rodríguez). No se nombra equipo auxiliar ni hay acta de citación detallada: basta una nota de asistencia de linderos y apoderados. Hay un cambio de estilo documental respecto de Ysach (1826)."
+  },
+  {
+   "titulo": "Paisaje y sociedad",
+   "texto": "Es un paisaje de estancias ya consolidadas, identificadas por sus poblaciones: estancias de Echeverría, Lima y Colmenero; casa de Rodríguez; «P.» Rodríguez y «P.» Acuña en el plano (¿puestos?). Aparece una sociedad ganadera (Rocha y su socio Bernardo Gutiérrez) y una viuda representada por su hijo (Romero-Monsalvo). No se mencionan aguas, montes ni caminos."
+  },
+  {
+   "titulo": "Estado y lecturas dudosas",
+   "texto": "Seis tomas, buena legibilidad. Quedan dudosos algunos números del plano (lado N 6350 [?] vs. 6250 del texto), la lectura de «P.» Rodríguez / «P.» Acuña (¿puesto, población?), el ángulo de la flecha («12°» [?]) y la fecha incompleta del informe de febrero (¿1858?). La numeración «N 16» del encabezado no coincide con el duplicado 15."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Cuándo y por cuánto compró Echeverría su legua al Gobierno? ¿Es pariente del escritor Esteban Echeverría, cuya familia tuvo campos en la campaña? (No se encontró vínculo documentado.) ¿Quiénes eran Ramón Colmenero y Ramón Bustos? ¿Dónde está la «primitiva mensura» que menciona el Departamento?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "José María Echeverría",
+   "rol": "Propietario",
+   "texto": "Compró al Gobierno una legua cuadrada en Giles y, tras la mensura de 1839, pidió comprar el sobrante; la escritura se ordenó en 1858. Tenía estancia poblada en el terreno. No se hallaron datos biográficos seguros; no hay que confundirlo con el escritor Esteban Echeverría.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Manuel Eguía",
+   "rol": "Agrimensor",
+   "texto": "Es el agrimensor más frecuente de la serie (Fichas 003-006, 010 y 015; 1838-1857). En 1839 usa rumbos de la aguja con minutos y amojona cada 1500 varas.",
+   "fuentes": "Fichas 003-006, 010."
+  },
+  {
+   "nombre": "José Arenales",
+   "rol": "Departamento topográfico",
+   "texto": "Presidente del Departamento; firma el dictamen del 27/11/1839. Ver las Fichas 008, 010, 012 y 013.",
+   "fuentes": "Fichas 008, 010, 012, 013."
+  },
+  {
+   "nombre": "Juan María Gutiérrez (1809-1878)",
+   "rol": "Departamento topográfico",
+   "texto": "Escritor, jurista y crítico, figura de la Generación del 37. Estudió matemáticas y trabajó como ingeniero y agrimensor en el Departamento Topográfico en la década de 1830, antes de exiliarse en 1840. Más tarde fue ministro y rector de la Universidad de Buenos Aires (1861-1874). Su firma en este dictamen de 1839 lo muestra en esa función técnica.",
+   "fuentes": "Conocimiento general (biografías de J. M. Gutiérrez); esta mensura."
+  },
+  {
+   "nombre": "Pascuala Romero · Fernando Monsalvo",
+   "rol": "Lindera y su hijo apoderado",
+   "texto": "Romero es la propietaria de la Ficha 003 (1838) y quien sucede a Aguirre (011). Su hijo Fernando Monsalvo la representa en la mensura.",
+   "fuentes": "Fichas 003, 011."
+  },
+  {
+   "nombre": "Antonio Rocha · Bernardo Gutiérrez",
+   "rol": "Lindero no y su socio",
+   "texto": "Socios en un establecimiento lindero; Gutiérrez asiste en nombre de Rocha. Sin más datos.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Juan Gregorio Carrasco · Mariano Lima",
+   "rol": "Linderos so",
+   "texto": "Tenían mensuras aprobadas antes de 1827 (Ficha 013). Lima tenía estancia visible desde la esquina S.",
+   "fuentes": "Ficha 013; esta mensura."
+  },
+  {
+   "nombre": "Ramón Colmenero · Ramón Bustos · José Rodríguez · Acuña · Juan Fernández",
+   "rol": "Linderos, vecinos y funcionario",
+   "texto": "Colmenero (SE, con estancia) y Bustos (NE) asisten. Rodríguez tiene casa con visual; Acuña figura en el plano (apellido recurrente en la serie). Juan Fernández firma la nota de 1858 del Departamento. Sin más datos.",
+   "fuentes": "Esta mensura."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/015/02.jpg",
+  "fuente": "IMG_6719.JPG",
+  "lineas": [
+   "N.^{o} 74                    Giles  15",
+   "Secc.^{on} Areco",
+   "Mensura del Terreno",
+   "de propiedad",
+   "D.^{n} José Maria Echeverria",
+   "en Giles. —",
+   "practicada",
+   "por",
+   "El Agrimensor Eguia",
+   "en",
+   "4 de Octubre de 1839."
+  ]
+ },
+ "titulo": "D. José María Echeverría",
+ "estado": "Transcripta (3 hojas, 76 renglones), 1 lámina"
+}

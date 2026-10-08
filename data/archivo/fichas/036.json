@@ -1,0 +1,578 @@
+{
+ "carpeta": "36",
+ "carpeta_nombre": "Carpeta 36",
+ "archivo": "Ficha 036 - Herederos de Juan de Ormaechea (1866).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles",
+  "N.º de duplicado": "36 (portadilla: «Sección Areco N.º 184»)",
+  "Propietario / solicitante": "Herederos de D. Juan de Ormaechea",
+  "Agrimensor": "Esteban Gonnet",
+  "Año": "1866",
+  "Fecha de la diligencia": "23/3/1866; informe del D. T. 20/4/1866",
+  "Ubicación": "Del arroyo del Sauce a la Cañada de la Cruz (cabezadas; merced de Vivar)",
+  "Orden judicial": "Juez de 1.ª instancia en lo civil Dr. Daniel María Cazón",
+  "Vendedor / antecesor": "Merced Dávila → Vergara → Leiva → Díaz de Vivar → J. Ormaechea (1804)",
+  "Linderos citados": "P. Affre · F. Maldonado · Riestra · Felipa y Faustina Quevedo · R. Ábalos · F. Cano",
+  "Medidas": "686 ha 87 a 19 ca (título 692,59); lados 6613 · 6875 · 995 · 538 m",
+  "Rumbos": "Verdaderos: N 31° 11′ O · S 58° 31′ O · S 31° 29′ E; variación 10° 48′ NE",
+  "Referencia de archivo": "Duplicado 36; antes «Sección Areco N.º 184»"
+ },
+ "metricas": {
+  "superficie_ha": "686,87",
+  "hitos": "Mojones de ñandubay, piedra y palo; azoteas de Ormachea y Cano; mirador de Salas; mojinetes; paraíso de E. Rodríguez; población de Torres",
+  "aguas": "Arroyo del Sauce; arroyo de Belén; Cañada de San Juan; Cañada de la Cruz"
+ },
+ "sintesis": "Segunda mensura de Esteban Gonnet en el corpus (23/3/1866): la faja de «cabezadas» que Pedro Díaz de Vivar vendió a Juan de Ormaechea en 1804 (merced de Dávila), entre el arroyo del Sauce y la Cañada de la Cruz, 686,87 ha. El título estaba perdido cuando Muñiz midió a los vecinos Quevedo (1865) y Llorente denunció el campo como fiscal; reaparecido, Gonnet suma los frentes de todo el tronco (8255 m de títulos en 8620 m de terreno), prueba que no falta tierra y reubica a Ormaechea, con una sobreposición de 157 m sobre los Quevedo, que protestan. El Departamento Topográfico (Salas, Kuhr, Casagemas, 20/4/1866) hace prevalecer esta mensura y manda modificar la de Muñiz. Variación 10° 48′ NE; visuales a azoteas y a un paraíso.",
+ "caratula": {
+  "img": "img/f/036/01.jpg",
+  "fuente": "IMG_7090.JPG",
+  "campos": [
+   [
+    "N.º",
+    "36"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Juan Ormachea"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Estevan Gonnet"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1866"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Título: Díaz de Vivar vende a Juan Ormaechea (1804); merced de Dávila",
+   "img": "img/f/036/05.jpg",
+   "fuente": "IMG_7092.JPG",
+   "nota": "Foliatura «1». Letra redonda de copia en limpio (la misma de la Ficha 032). «Ormachea» por Ormaechea.",
+   "lineas": [
+    "Extracto de los titulos de propiedad",
+    "de un terreno perteneciente a los herederos",
+    "de D.^{n} Juan de Ormachea en el partido",
+    "de Giles.",
+    "Ante el Escribano público D.^{n} J. José",
+    "de Rocha en Buenos-Aires a veinte y cuatro",
+    "de Setiembre de mil ochocientos cuatro, D.^{n}",
+    "Pedro Diaz de Vivar vende a D.^{n} Juan Ormachea",
+    "un terreno de cabezadas compuesto de mil y",
+    "quinientas varas de frente por una legua y",
+    "mil novecientas varas de fondo linderas por",
+    "el Norte con D.^{n} Manuel Castro, por el Sud con",
+    "D.^{n} Manuel Quevedo, por el Oeste con D.^{n}",
+    "Leandro Sosa y por el Este con D.^{n} Cipriano Lopez",
+    "y el Santuario de Lujan el que procede del",
+    "terreno que en mayor porcion le hizo gracia",
+    "y donacion D.^{ña} Teodora Leyva y Bergara",
+    "como heredera de D.^{ña} Juana y D.^{ña} Antonia",
+    "de Leyba y Bergara que le fueron en succession",
+    "del Regidor D.^{n} Juan M. Bergara quien las",
+    "poseya por merced que le hizo el Señor",
+    "Gobernador D.^{n} Pedro Estevan Davila ante",
+    "D.^{n} Alonso Agreda de Bergara, escribano",
+    "mayor de Gobierno en diez de Diciembre de",
+    "mil setecientos treinta y cinco como todo",
+    "consta de la escritura otorgada por ante",
+    "el actuario en treinta y uno de Enero de",
+    "mil setecientos noventa y tres —",
+    "Mensura — En el partido de Giles a",
+    "veinte y tres de Marzo de mil ochocientos",
+    "sesenta y seis, yo el agrimensor que suscribe",
+    "comisionado por el Señor Juez de 1.^{ra}"
+   ],
+   "interpretacion": "Extracto de títulos de los herederos de Juan de Ormaechea. Ante el escribano J. José de Rocha, Buenos Aires, 24/9/1804, Pedro Díaz de Vivar vende a Juan Ormaechea «un terreno de cabezadas» de 1500 varas de frente por una legua y 1900 varas de fondo (7900 v), lindero al N con Manuel Castro, al S con Manuel Quevedo, al O con Leandro Sosa y al E con Cipriano López «y el Santuario de Luján». Procede del terreno que le donó Teodora Leiva y Vergara, heredera de Juana y Antonia de Leiva y Vergara, sucesoras del regidor Juan de Vergara, quien lo tuvo por merced del gobernador Pedro Esteban Dávila ante Alonso Agreda de Vergara, escribano mayor de gobierno, el 10 de diciembre de «mil setecientos treinta y cinco» (por 1635: el mismo error de la Ficha 031), según la escritura de donación del 31/1/1793.\nMensura: partido de Giles, 23/3/1866; el agrimensor, comisionado por el juez de 1.ª instancia en lo civil…"
+  },
+  {
+   "titulo": "Folio 1 v. · Comisión; el frente no alcanza entre Affre y Quevedo",
+   "img": "img/f/036/06.jpg",
+   "fuente": "IMG_7093.JPG",
+   "nota": "«Cazon» retocado con tinta más oscura.",
+   "lineas": [
+    "Instancia en lo civil D.^{r} D.^{n} D.^{l} Maria",
+    "Cazon para medir el terreno de propiedad",
+    "perteneciente a los herederos de D.^{n} Juan",
+    "Ormachea, previa la citacion de linderos",
+    "como consta del documento adjunto",
+    "y pasado el aviso correspondiente al",
+    "Señor Juez de Paz del Partido, pasé a",
+    "verificar la operacion reconociendo primero",
+    "el frente existente entre el terreno de",
+    "D.^{n} Pablo Affre medido por mi en dias",
+    "anteriores y el terreno de D.^{ña} Felipa Quevedo",
+    "medido en el año p.^{o} p.^{do} por el agrimensor",
+    "Muñiz pues entre estos dos terrenos corres-",
+    "ponde la ubicacion del titulo de Ormachea.",
+    "Este frente segun el titulo debe constar",
+    "de mil y quinientas varas, pero habiendose",
+    "vendido por los herederos de Ormachea",
+    "dos fracciones a D.^{n} Manuel Quevedo",
+    "la una de ciento sesenta y seis varas y",
+    "la otra de ciento sesenta y cinco las",
+    "que quedaron incluidas en la referida",
+    "mensura del agrimensor Muñiz para",
+    "los herederos de D.^{n} Manuel Quevedo",
+    "el frente del terreno de Ormachea queda",
+    "reducido a mil ciento sesenta y nueve",
+    "varas = mil doce metros y treinta y cinco",
+    "centimetros = Encontrando que faltaba",
+    "terreno para el completo de este frente",
+    "procedí a reconocer si no existia algun",
+    "exceso en los terrenos que siguen al",
+    "Sudoeste y que proceden del mismo origen",
+    "que el de Ormachea – Estos terrenos son",
+    "los siguientes: 1.º las dos fracciones pro-",
+    "cedentes de Ormachea vendidas a D.^{n}",
+    "Manuel Quevedo y que constan de"
+   ],
+   "interpretacion": "…Dr. Daniel María Cazón, citados los linderos y avisado el juez de paz, reconoce primero el frente disponible entre el terreno de Pablo Affre, «medido por mí en días anteriores», y el de Felipa Quevedo, medido el año anterior por el agrimensor Muñiz: entre ambos debe ubicarse el título de Ormaechea. El frente del título es de 1500 v, pero los herederos vendieron a Manuel Quevedo dos fracciones (166 y 165 v), incluidas en la mensura de Muñiz; queda reducido a 1169 v = 1012,35 m. Como «faltaba terreno para el completo de este frente», busca si hay exceso en los terrenos que siguen al SO y que proceden del mismo origen: 1.º las dos fracciones vendidas a Quevedo…"
+  },
+  {
+   "titulo": "Folio 2 · La cuenta de frentes: sobran 365 m; el título perdido",
+   "img": "img/f/036/07.jpg",
+   "fuente": "IMG_7094.JPG",
+   "nota": "Foliatura «2».",
+   "lineas": [
+    "trescientas treinta y una varas = doscientos",
+    "ochenta y seis metros = 2.º El terreno de",
+    "D.^{n} Manuel Quevedo cuyo titulo consta",
+    "de mil y quinientas varas de frente = mil",
+    "doscientos noventa y nueve metros = 3.º El",
+    "terreno que fué de D.^{n} Tadeo Rodriguez",
+    "(hoy de varios) y cuyo titulo consta de",
+    "siete mil setecientas varas de frente =",
+    "seis mil seiscientos sesenta y ocho metros =",
+    "Estas tres cantidades sumadas producen",
+    "un total de ocho mil doscientos cincuenta",
+    "y cinco metros el que debe encontrarse entre",
+    "el mojon esquinero Norte del terreno de",
+    "D.^{ña} Felipa Quevedo y el mojon esquinero",
+    "Oeste del antiguo terreno de D.^{n} Tadeo",
+    "Rodriguez – Situandome pues en el mojon",
+    "esquinero Norte del terreno medido por",
+    "el agrimensor Muñiz para D.^{ña} Felipa",
+    "Quevedo medí desde este mojon al Sud",
+    "cincuenta y ocho grados y treinta y un mi-",
+    "nutos Oeste verdadero, ocho mil seiscientos",
+    "veinte metros hasta un mojon de piedra",
+    "conocido como esquinero Oeste del antiguo",
+    "terreno de D.^{n} Tadeo Rodriguez resultando",
+    "un exceso de trescientos sesenta y cinco metros.",
+    "Cerciorado asi de que existia mas terreno",
+    "de lo necesario para ubicar todos los titulos",
+    "y que la falta en el frente del terreno de",
+    "Ormachea solo procedia de la ubicacion",
+    "dada por el agrimensor Muñiz a los terrenos",
+    "de Quevedo, ubicacion que dicho agrimensor",
+    "se encontraba en la imposibilidad de",
+    "comprobar por la falta del titulo de",
+    "Ormachea que se hallaba perdido entonces,",
+    "procedí a medir el terreno de los herederos",
+    "de Ormachea del modo siguiente:"
+   ],
+   "interpretacion": "…(331 v = 286 m); 2.º el terreno de Manuel Quevedo (1500 v = 1299 m); 3.º el que fue de Tadeo Rodríguez, «hoy de varios» (7700 v = 6668 m). Total: 8255 m, que deben caber entre el esquinero N de Felipa Quevedo y el esquinero O del antiguo terreno de Tadeo Rodríguez. Mide entre ambos, al S 58° 31′ O verdadero, 8620 m hasta «un mojón de piedra conocido como esquinero Oeste» de Rodríguez: hay un exceso de 365 m. Conclusión: hay terreno de sobra para ubicar todos los títulos, y la falta en el frente de Ormaechea «sólo procedía de la ubicación dada por el agrimensor Muñiz a los terrenos de Quevedo», ubicación que Muñiz no pudo comprobar «por la falta del título de Ormachea, que se hallaba perdido entonces»."
+  },
+  {
+   "titulo": "Folio 2 v. · Perímetro: Affre, Maldonado, arroyo del Sauce; mojones de ñandubay",
+   "img": "img/f/036/08.jpg",
+   "fuente": "IMG_7095.JPG",
+   "nota": "",
+   "lineas": [
+    "Del mojon esquinero Sud del terreno de D.^{n} Pablo",
+    "Affre colocado por mi en dias anteriores medí",
+    "al Norte treinta y un grados y once minutos",
+    "Oeste verdadero, seis mil seiscientos trece",
+    "metros hasta dar con el mojon esquinero Oeste",
+    "del terreno del mismo D.^{n} Pablo Affre y costa-",
+    "nero Sud Este del terreno de D.^{n} F.^{co} Maldonado.",
+    "De este mojon que sirve al mismo tiempo",
+    "de esquinero Norte del terreno de Ormachea",
+    "medí al Sud cincuenta y cinco grados y",
+    "cincuenta y seis minutos Oeste verdadero,",
+    "cuatrocientos quince metros hasta dar con",
+    "el mojon esquinero Sud del terreno de D.^{n}",
+    "F.^{co} Maldonado y de este mojon y por el",
+    "costado Sudoeste del terreno del mencionado",
+    "D.^{n} F.^{co} Maldonado medí al Norte cuarenta",
+    "y siete grados y veinte minutos Oeste verda-",
+    "dero, trescientos dos metros hasta el arroyo",
+    "del Sauce que en esta parte sirve de limite",
+    "Sud Este del terreno de D.^{n} A. de la Riestra.",
+    "En seguida regresando veinte y un metros",
+    "sobre el rumbo que acababa de seguir hize",
+    "clavar en este punto un mojon de ñandubay",
+    "y de este mojon medí al Sud cincuenta y",
+    "ocho grados y treinta y un minutos Oeste",
+    "verdadero, quinientos treinta y ocho metros",
+    "y adonde remataron hize clavar un mojon",
+    "de ñandubay como esquinero Oeste del",
+    "terreno que iba midiendo. En este rumbo",
+    "y a los cuarenta y cinco metros cruzé el",
+    "arroyo del Sauce volviendolo a cruzar a",
+    "los ciento cuatro metros, a los trescientos",
+    "setenta y cuatro metros encontré el mojon",
+    "esquinero Norte del terreno de D.^{ña} Felipa",
+    "Quevedo y de este mojon levanté una ordenada",
+    "de cincuenta metros a la derecha hasta"
+   ],
+   "interpretacion": "Desde el esquinero S de Pablo Affre (puesto por Gonnet días antes), N 31° 11′ O verdadero, 6613 m hasta el esquinero O de Affre y costanero SE de Francisco Maldonado (Ficha 009), que es esquinero N de Ormaechea. De allí S 55° 56′ O, 415 m hasta el esquinero S de Maldonado; por su costado SO, N 47° 20′ O, 302 m hasta el arroyo del Sauce, «que en esta parte sirve de límite sudeste del terreno de D. A. de la Riestra» (Ficha 006). Vuelve 21 m y clava un mojón de ñandubay; de él, S 58° 31′ O, 538 m: mojón de ñandubay, esquinero O. En ese rumbo cruza el arroyo del Sauce a 45 m y otra vez a 104 m; a 374 m halla el esquinero N de Felipa Quevedo (con una ordenada de 50 m hasta…"
+  },
+  {
+   "titulo": "Folio 3 · Costado SO sobre los Quevedo; población de Torres; Cañada de la Cruz",
+   "img": "img/f/036/09.jpg",
+   "fuente": "IMG_7096.JPG",
+   "nota": "Foliatura «3». Rúbricas al margen.",
+   "lineas": [
+    "el arroyo del Sauce, en fin a los quinientos",
+    "veinte y un metros encontré el mojon esquinero",
+    "Oeste de D.^{ña} Felipa Quevedo y esquinero Norte",
+    "del terreno de D.^{ña} Faustina Quevedo de",
+    "Rodriguez colocado por el agrimensor",
+    "Muñiz en la ya mencionada mensura",
+    "del terreno de los herederos de D.^{n} M. Quevedo.",
+    "Del mojon que acababa de hacer clavar",
+    "como esquinero Oeste y que dista ciento",
+    "cincuenta y un metros al Sud Este del arroyo",
+    "del Sauce medí al Sud treinta y un grados",
+    "y veinte y nueve minutos Este verdadero,",
+    "seis mil ochocientos setenta y cinco metros",
+    "hasta dar con la linea de mojones establecida",
+    "como frente de fondo de los terrenos de Quevedo",
+    "por el agrimensor Muñiz haciendo clavar",
+    "a la interseccion de estas dos lineas un",
+    "mojon de ñandubay como esquinero Sud",
+    "del terreno que iba midiendo. En este rumbo",
+    "y a los tres mil y treinta metros hize clavar",
+    "un mojon de ñandubay, a los tres mil doscientos",
+    "veinte y cinco metros dejé diez metros a la",
+    "derecha la poblacion de Torres perteneciente",
+    "a D.^{ña} Faustina Quevedo de Rodriguez, a los",
+    "cinco mil seiscientos metros cruzé la cañada",
+    "de la Cruz – Del mojon que acababa de",
+    "hacer clavar como esquinero Sud medí al",
+    "Norte cincuenta y siete grados y cuarenta y",
+    "nueve minutos Este verdadero, novecientos",
+    "noventa y cinco metros hasta el mojon de",
+    "arranque – En este rumbo y a los doce metros",
+    "encontré un mojon de piedra colocado por",
+    "el agrimensor Muñiz como esquinero Este",
+    "del terreno de D.^{ña} Faustina Quevedo de Rodriguez",
+    "y esquinero Sud del terreno de D.^{ña} Felipa",
+    "Quevedo, a los ciento cincuenta y dos metros"
+   ],
+   "interpretacion": "…el arroyo), y a 521 m el esquinero O de Felipa Quevedo y N de Faustina Quevedo de Rodríguez, puesto por Muñiz. Desde su esquinero O —151 m al SE del arroyo del Sauce— mide S 31° 29′ E, 6875 m, hasta la línea de mojones que Muñiz fijó como fondo de los Quevedo; en la intersección clava un mojón de ñandubay, esquinero S. A 3030 m, mojón de ñandubay; a 3225 m deja a 10 m a la derecha «la población de Torres, perteneciente a D.ª Faustina Quevedo de Rodríguez»; a 5600 m cruza la Cañada de la Cruz. Cierra al N 57° 49′ E, 995 m, hasta el arranque: a 12 m, mojón de piedra de Muñiz (esquinero E de Faustina y S de Felipa); a 152 m…"
+  },
+  {
+   "titulo": "Folio 3 v. · Superficie (686,87 ha), linderos, variación; sobreposición y protesta",
+   "img": "img/f/036/10.jpg",
+   "fuente": "IMG_7097.JPG",
+   "nota": "",
+   "lineas": [
+    "encontré un mojon de palo colocado por el",
+    "mismo agrimensor como esquinero Este del",
+    "terreno de D.^{ña} Felipa Quevedo – La figura",
+    "del terreno medido es la de un exagono",
+    "irregular cuya superficie es de seiscientas",
+    "ochenta y seis hectareas, ochenta y siete areas",
+    "y diez y nueve centiareas; o sea doscientos",
+    "cincuenta y cuatro milesimos de una legua",
+    "cuadrada – (0,254). El titulo consta de",
+    "seiscientas noventa y dos hectareas cincuenta",
+    "y ocho areas y noventa y una centiareas –",
+    "resulta pues una falta de cinco hectareas",
+    "setenta y una areas y setenta y dos centi-",
+    "areas debida a la entrada que hace",
+    "el terreno de D.^{n} F.^{co} Maldonado en la",
+    "parte Norte del terreno – Todos los",
+    "linderos asistieron a la mensura por si",
+    "a excepcion de D.^{ña} Felipa Quevedo",
+    "quien fué representada por D.^{n} Andres A.",
+    "Rodriguez – Estos linderos son por el",
+    "Nor Este D.^{n} Pablo Affre, por el Sud Este",
+    "D.^{n} Raimundo Abalos y D.^{n} F.^{co} Cano, por",
+    "el Sudoeste D.^{ña} Felipa Quevedo y por",
+    "el Noroeste el arroyo del Sauce y D.^{n}",
+    "F.^{co} Maldonado. – La variacion de",
+    "la aguja fué de diez grados y cuarenta",
+    "y ocho minutos al Nor Este —",
+    "Nota 1.^{a} De la presente operacion resulta",
+    "una sobreposicion del terreno de los herederos",
+    "de Ormachea sobre el terreno medido por",
+    "el agrimensor Muñiz para los herederos",
+    "de Quevedo sobreposicion representada por",
+    "una lonja de terreno de un ancho mediano",
+    "de ciento cincuenta y siete metros por",
+    "todo el largo de ambos terrenos – Dichos",
+    "herederos de Quevedo protestaron contra la operacion"
+   ],
+   "interpretacion": "…un mojón de palo de Muñiz (esquinero E de Felipa Quevedo). Figura: hexágono irregular de 686 ha 87 a 19 ca, «o sea 0,254 de una legua cuadrada». El título da 692 ha 58 a 91 ca: faltan 5 ha 71 a 72 ca, «debida a la entrada que hace el terreno de D. Francisco Maldonado en la parte Norte». Todos los linderos asistieron por sí, salvo Felipa Quevedo, representada por Andrés A. Rodríguez. Linderos: NE Pablo Affre; SE Raimundo Ábalos y Francisco Cano; SO Felipa Quevedo; NO el arroyo del Sauce y Francisco Maldonado. Variación de la aguja: 10° 48′ NE.\nNota 1.ª: resulta una sobreposición sobre el terreno medido por Muñiz para los herederos de Quevedo: «una lonja de terreno de un ancho mediano de 157 m por todo el largo de ambos terrenos». Los herederos de Quevedo protestaron."
+  },
+  {
+   "titulo": "Folio 4 · Nota 2.ª: Llorente denunció el campo como tierra pública",
+   "img": "img/f/036/11.jpg",
+   "fuente": "IMG_7098.JPG",
+   "nota": "Foliatura «4». Resto de la hoja en blanco (se transparenta el dorso).",
+   "lineas": [
+    "Nota 2.^{a} El Señor D.^{n} A. Llorenti creyendo que",
+    "el titulo de propiedad del terreno de los",
+    "herederos de Ormachea habia desaparecido",
+    "para siempre hizo denuncia de este terreno",
+    "como de propiedad pública y con motivo",
+    "de esta denuncia protestó tambien contra",
+    "la presente mensura",
+    "E. Gonnet"
+   ],
+   "interpretacion": "«El Señor D. A. Llorenti, creyendo que el título de propiedad del terreno de los herederos de Ormachea había desaparecido para siempre, hizo denuncia de este terreno como de propiedad pública, y con motivo de esta denuncia protestó también contra la presente mensura.» Firma E. Gonnet. Es el mismo Llorente que en 1865 era albacea de Eustaquio Sosa (Ficha 033). El título de 1804, reaparecido, desarma la denuncia."
+  },
+  {
+   "titulo": "Folio 5 · Visuales de los esquineros; informe del Departamento Topográfico",
+   "img": "img/f/036/12.jpg",
+   "fuente": "IMG_7099.JPG",
+   "nota": "Foliatura «5». Azimutes de 0 a 360°. Nombre dudoso: «Rufoviano [?]» (¿Rufiniano, Ruperto?).",
+   "lineas": [
+    "Visuales de los mojones esquineros –",
+    "Mojon esquinero Este –",
+    "Mojinete de D.^{n} Rufoviano [?] Rodriguez    138° 26'",
+    "Azotea de D.^{n} F.^{co} Cano    169° 18'",
+    "Mirador de D.^{n} Pedro Salas    220° 37'",
+    "Mojon esquinero Sud –",
+    "Mojinete de D.^{n} Simon Abalos    118° 53'",
+    "Azotea de D.^{n} F.^{co} Cano    149° 16'",
+    "Mirador de D.^{n} Pedro Salas    219° 37'",
+    "Mojon esquinero Oeste –",
+    "Azotea de D.^{ña} Josefa Arebalo de Ormachea    94° 16'",
+    "Puesto de Riestra    285° 47'",
+    "Paraiso de D.^{n} Enrique Rodriguez    182° 56'",
+    "E. Gonnet",
+    "Señor Juez de 1.^{a} Instancia:–",
+    "El Departamento Topografico ha",
+    "examinado la presente diligen-",
+    "cia de mensura practicada",
+    "por el Agrimensor Gonnet pa-",
+    "ra los herederos de Don Juan",
+    "Ormachea y encontrandola",
+    "bien ejecutada, cree que pue-",
+    "de ser aprobada judicialmen-",
+    "te. Debe hacer notar el Depar-",
+    "tamento Topografico que //"
+   ],
+   "interpretacion": "Visuales: desde el esquinero E, mojinete de Rufoviano [?] Rodríguez (138° 26′), azotea de Francisco Cano (169° 18′), mirador de Pedro Salas (220° 37′); desde el S, mojinete de Simón Ábalos (118° 53′), azotea de Cano (149° 16′), mirador de Salas (219° 37′); desde el O, azotea de Josefa Arévalo de Ormaechea (94° 16′), puesto de Riestra (285° 47′) y «paraíso de D. Enrique Rodríguez» (182° 56′). Un árbol —un paraíso— vuelve a servir de punto geodésico, como el ombú de 1862.\nInforme al juez: el Departamento Topográfico halla la mensura bien ejecutada y cree que puede aprobarse. Hace notar que…"
+  },
+  {
+   "titulo": "Folio 5 v. · El D. T. hace prevalecer a Gonnet sobre Muñiz",
+   "img": "img/f/036/13.jpg",
+   "fuente": "IMG_7100.JPG",
+   "nota": "Mancha y perforación al pie.",
+   "lineas": [
+    "// con f.^{ha} 26 de Setiembre pp.^{do}",
+    "fué despachado por esta oficina",
+    "con informe favorable, la men-",
+    "sura que practicó el Agrimensor",
+    "Muniz para D.^{a} Faustina Que-",
+    "vedo de Rodriguez y D.^{a} Manue-",
+    "la y D.^{a} Felipa Quevedo, con",
+    "cuya operacion está en con-",
+    "tradiccion la presente, segun",
+    "se ve en el plano, pero los nue-",
+    "vos datos y documentos que su-",
+    "ministra la mensura practi-",
+    "cada por el Agrimensor Gon-",
+    "net, demuestran á juicio del De-",
+    "partamento Topografico que de-",
+    "be prevalecer esta ultima so-",
+    "bre la primera de Muniz, la",
+    "cual deberá modificarse de mo-",
+    "do que queden saneadas todas",
+    "las propiedades que han teni-",
+    "do un mismo origen segun",
+    "sus titulos de propiedad respec-",
+    "tivos, cree sin embargo el Depar-",
+    "tamento Topografico que seria",
+    "conveniente agregar este Espe-",
+    "diente al de la mensura de",
+    "Muniz que ha sido remitida //"
+   ],
+   "interpretacion": "…el 26 de septiembre anterior despachó con informe favorable la mensura de Muñiz para Faustina Quevedo de Rodríguez, Manuela y Felipa Quevedo, «con cuya operación está en contradicción la presente»; pero los nuevos datos y documentos de Gonnet demuestran, a juicio del Departamento, «que debe prevalecer esta última sobre la primera de Muñiz, la cual deberá modificarse de modo que queden saneadas todas las propiedades que han tenido un mismo origen». Aconseja agregar este expediente al de la mensura de Muñiz, remitida…"
+  },
+  {
+   "titulo": "Folio 7 [?] · Cierre del informe (20/4/1866)",
+   "img": "img/f/036/14.jpg",
+   "fuente": "IMG_7103.JPG",
+   "nota": "Sello con «7» (no hay toma de un folio 6; la sangría «//» indica que el texto es continuo).",
+   "lineas": [
+    "// en 27 de Setiembre pp.^{do} al Señor",
+    "Juez de 1.^{a} Instancia D.^{r} Echevarria",
+    "por conducto del Escribano Gra-",
+    "nada. –",
+    "Buenos Aires Abril 20 de 1866.",
+    "Salas    Kuhr",
+    "Casagemas"
+   ],
+   "interpretacion": "…el 27 de septiembre al juez de 1.ª instancia Dr. Echevarría por conducto del escribano Granada. Buenos Aires, 20/4/1866. Firman Salas, Kuhr y Casagemas. Hay, pues, dos juzgados (Cazón y Echevarría) con dos mensuras contradictorias sobre el mismo terreno."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Ormaechea entre Affre y los Quevedo",
+   "img": "img/f/036/03.jpg",
+   "fuente": "IMG_7101.JPG",
+   "orientacion": "Pliego a tinta, enmarcado; flecha de norte; «Escala de 6000 metros»; fechado «Marzo 23 de 1866» y firmado E. Gonnet.",
+   "interpretacion": "Faja larga y angosta (≈ 1 × 6,8 km) de rumbo NO-SE, entre el «arroyo del Sauce» y más allá de la «Cañada de la Cruz». Al NE, la faja paralela de «Pablo Affre» y, más allá, «Castro»; al SO, en líneas de trazos, las hijuelas de «Felipa Quevedo», «Faustina Quevedo de Rodríguez» (con la población «Torres»), «Manuela Quevedo» y «Pablo Quevedo»: la línea llena de Gonnet (S 31° 29′ E, 6875) corta la primera hijuela, y esa es la sobreposición de 157 m. Dentro del campo, las casas de «Josefa Arévalo de Ormachea» (con monte dibujado), «Isidora Ormachea» y «Ramona M.ª de Ormachea». Al NO, «Maldonado» y «A. de la Riestra», con el arroyo del Sauce y sus afluentes «A.º de Belén» y «Cañada de San Juan». Una línea auxiliar (S 58° 31′ O, 8620 m) prolonga el frente hasta «Mauricia Duarte» y el «mojón esquinero Oeste de Tadeo Rodríguez». Al SE, «Cip.no Rodríguez», «R.do Ávalos», «Ag.n Cano».",
+   "referencias": [
+    [
+     "Lados",
+     "«N 31° 11′ O 6613» (con Affre) · «S 55° 56′ O» 415 · «N 47° 20′ O» 302 · «S 58° 31′ O» 538 · «S 31° 29′ E 6875» · «N 57° 49′ E» 995"
+    ],
+    [
+     "Línea auxiliar",
+     "S 58° 31′ O, 8620 m, del esquinero N de Felipa Quevedo al mojón de piedra de Tadeo Rodríguez, pasando por la casa de Mauricia Duarte"
+    ],
+    [
+     "Linderos",
+     "Pablo Affre · Castro · Maldonado · A. de la Riestra · Felipa, Faustina, Manuela y Pablo Quevedo · Cipriano Rodríguez · Raimundo Ávalos · Agustín [?] Cano"
+    ],
+    [
+     "Poblaciones",
+     "Josefa Arévalo de Ormachea · Isidora Ormachea · Ramona M.ª de Ormachea · Torres (de Faustina Quevedo) · Mauricia Duarte"
+    ],
+    [
+     "Aguas",
+     "Arroyo del Sauce · arroyo de Belén · Cañada de San Juan · Cañada de la Cruz (con un afluente)"
+    ],
+    [
+     "Hitos",
+     "Mojón esquinero Oeste de Tadeo Rodríguez (piedra) · mojones de ñandubay"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: las fajas de Affre, Ormaechea y los Quevedo",
+   "img": "img/f/036/04.jpg",
+   "fuente": "IMG_7102.JPG",
+   "orientacion": "Toma parcial, girada respecto de la lámina.",
+   "interpretacion": "Se leen con claridad «Castro», «Pablo Affre», las tres casas Ormachea, «Felipa», «Faustina Quevedo de Rodríguez», «Torres», «Manuela Quevedo», «Pablo Quevedo», el «arroyo del Sauce» con el «A.º de Belén» y la «Cañada de San Juan», la «Cañada de la Cruz», «Maldonado» y «[A.] de la Riestra», y las cotas 6613, 6875, 995, 415 y 302.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Un título perdido que reaparece",
+   "texto": "En 1865 Muñiz midió las hijuelas de los Quevedo sin poder ver el título de sus vecinos Ormaechea, «que se hallaba perdido entonces». A. Llorente, «creyendo que había desaparecido para siempre», denunció el campo como tierra pública —la misma lógica de las Fichas 033-035: en 1864-66 se denuncia todo lo que no puede exhibir papeles—. En 1866 el título de 1804 reaparece, los herederos piden mensura judicial y Gonnet reubica el campo. El Departamento Topográfico, que seis meses antes había aprobado a Muñiz, declara que «debe prevalecer» Gonnet y que la de Muñiz «deberá modificarse»."
+  },
+  {
+   "titulo": "El método: sumar los frentes de todo el tronco",
+   "texto": "Para probar que la falta de frente no era real, Gonnet reconstruye el conjunto de títulos «que proceden del mismo origen» (la venta de Díaz de Vivar): Ormaechea 1500 v, Manuel Quevedo 1500 v, Tadeo Rodríguez 7700 v; mide los 8620 m entre mojones extremos y halla 365 m de exceso. Es el mismo razonamiento de su plano general de 1862 (Ficha 032): la parcela sólo se entiende dentro de la serie."
+  },
+  {
+   "titulo": "Genealogía de la tierra: merced de vivar",
+   "texto": "Confirma y amplía la cadena (c) de METODO: merced de Dávila (1635; aquí otra vez «1735») → regidor Juan de Vergara → Juana y Antonia de Leiva y Vergara → Teodora de Leiva → donación a Pedro Díaz de Vivar (escritura del 31/1/1793) → ventas de 1804-05 (Ormaechea, 24/9/1804; Arriola de Monsalvo, 1805, Ficha 031). Lindero de 1804: «el Santuario de Luján», propietario eclesiástico de tierras en la zona. «Terreno de cabezadas»: sin frente a un curso principal."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Rumbos verdaderos; todo en metros con equivalencias en varas sólo para los títulos; superficie en hectáreas y en «milésimos de legua cuadrada» (0,254); mojones de ñandubay; tabla de visuales en azimut a mojinetes, azoteas, un mirador y un árbol (paraíso). Variación 10° 48′ NE: baja respecto de sus 11° 17′-24′ de 1862 y de los 11° 25′-50′ de Fremiot y Muñiz en 1865 (¿otro instrumento, o lectura única sin promedio?)."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "El arroyo del Sauce como límite con Riestra, con dos afluentes nombrados por primera vez en el corpus: «arroyo de Belén» y «Cañada de San Juan» (ésta ya en 032). La Cañada de la Cruz cruzada a 5600 m. Tres casas de mujeres Ormaechea (Josefa Arévalo, viuda, con azotea y monte; Isidora; Ramona María) alineadas sobre la faja: la herencia se ve en el poblamiento antes que en el plano. Población «de Torres» dentro de la hijuela de Faustina Quevedo. Un «paraíso» como hito: árbol exótico, signo de casco consolidado."
+  },
+  {
+   "titulo": "Cruces y preguntas abiertas",
+   "texto": "Ficha 006 (Riestra: arroyo del Sauce), 009 (Maldonado, 1856: aquí su «entrada» quita 5,7 ha), 032 (azotea de Ormachea como visual; Tadeo Rodríguez; Mauricia Duarte), 035 (línea de Vivar), 031 y 007 (Castro; cadena Vivar), 027 (Cañada de la Cruz). Buscar los duplicados de Pablo Affre (Gonnet, marzo de 1866) y de los herederos de Quevedo (Muñiz, 1865). No hay toma del folio 6. ¿Quién es A. Llorente, albacea de Sosa (033) y denunciante aquí? Leer mejor el nombre «Rufoviano» Rodríguez."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Juan de Ormaechea y herederos",
+   "rol": "Comprador (1804) y propietarios",
+   "texto": "Apellido vasco. Compra en 1804 a Pedro Díaz de Vivar 1500 v de cabezadas. En 1866 viven en el campo Josefa Arévalo de Ormaechea (casa de azotea), Isidora Ormaechea y Ramona María de Ormaechea. La «azotea de Ormachea» ya era punto de visual en 1862 (Ficha 032). Sin más datos en la búsqueda breve.",
+   "fuentes": "Ficha 032; esta mensura."
+  },
+  {
+   "nombre": "Esteban Gonnet",
+   "rol": "Agrimensor y fotógrafo",
+   "texto": "Grenoble 1829 – Buenos Aires 1868. Segunda mensura suya en el corpus (Ficha 032, 1862), dos años después de publicar sus álbumes fotográficos de Buenos Aires y la campaña (1864). En marzo de 1866 mide en serie Affre y Ormaechea.",
+   "fuentes": "Ficha 032; Wikipedia «Esteban Gonnet»."
+  },
+  {
+   "nombre": "José María Muñiz",
+   "rol": "Agrimensor de la mensura contradicha",
+   "texto": "Midió en 1865 las hijuelas de los herederos de Manuel Quevedo y el sobrante de Sotero Galeano (Ficha 034). El D. T. hace prevalecer aquí a Gonnet.",
+   "fuentes": "Ficha 034."
+  },
+  {
+   "nombre": "Manuel Quevedo y herederos (Felipa, Faustina, Manuela, Pablo)",
+   "rol": "Linderos que protestan",
+   "texto": "Manuel Quevedo ya es lindero S en 1804 y compra luego dos fracciones a los Ormaechea. Sus hijos reparten el campo en fajas; Faustina es «de Rodríguez». Andrés A. Rodríguez representa a Felipa. Protestan por la lonja de 157 m.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Pablo Affre",
+   "rol": "Lindero ne",
+   "texto": "Apellido francés ya registrado en el corpus. Su campo fue medido por Gonnet días antes (duplicado a localizar).",
+   "fuentes": "METODO (extranjeros)."
+  },
+  {
+   "nombre": "A. Llorente («Llorenti»)",
+   "rol": "Denunciante",
+   "texto": "Denuncia el campo como tierra pública creyendo perdido el título. Probablemente el mismo Llorente que en 1865 es albacea de la testamentaría de Eustaquio Sosa (Ficha 033).",
+   "fuentes": "Ficha 033."
+  },
+  {
+   "nombre": "Francisco Maldonado · Álvaro de la Riestra · Castro · Ábalos · Cano · Salas",
+   "rol": "Linderos y vecinos con visual",
+   "texto": "Maldonado (Ficha 009) y Riestra (006), linderos NO. Castro: los de la Ficha 007. Raimundo y Simón Ábalos (mojinete), Francisco Cano (azotea), Pedro Salas (mirador), Enrique Rodríguez (paraíso), Cipriano Rodríguez, Tadeo Rodríguez y Mauricia Duarte (Fichas 032, 035).",
+   "fuentes": "Fichas 006, 007, 009, 032, 035."
+  },
+  {
+   "nombre": "Jueces y D. T.",
+   "rol": "Autoridades",
+   "texto": "Dr. Daniel María Cazón, juez civil que comisiona; Dr. Echevarría, juez de la mensura de Muñiz (escribano Granada). D. T.: Salas, Kuhr, Casagemas. Escribano de 1804: Juan José de Rocha (el mismo de la venta de Vivar de 1805, Ficha 031).",
+   "fuentes": "Fichas 028, 031."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/036/02.jpg",
+  "fuente": "IMG_7091.JPG",
+  "lineas": [
+   "Seccion Areco    Giles 36",
+   "N 184    [a lápiz azul:] S.^{n} Andres de Giles",
+   "Duplicado de la diligencia de mensura",
+   "de un terreno perteneciente a los",
+   "Herederos de D.^{n} Juan",
+   "de Ormachea",
+   "en el partido de Giles –",
+   "Marzo de 1866",
+   "Estevan Gonnet"
+  ]
+ },
+ "titulo": "Herederos de D. Juan de Ormaechea",
+ "estado": "Transcripta (10 hojas, 278 renglones), 2 láminas"
+}

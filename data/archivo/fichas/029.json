@@ -1,0 +1,623 @@
+{
+ "carpeta": "29",
+ "carpeta_nombre": "Carpeta 29",
+ "archivo": "Ficha 029 - Herederos de Plácido Guerrico (1861).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (la diligencia dice «Partido de Areco»; el plano marca el límite Areco–Giles dentro del campo)",
+  "N.º de duplicado": "29 (portadilla «Sección Areco 15 [?] N.º 114»)",
+  "Propietario / solicitante": "Herederos de D. Plácido Guerrico",
+  "Agrimensor": "Manuel Eguía",
+  "Año": "1861",
+  "Fecha de la diligencia": "20/3/1861; D. T. 3/5/1861; aprob. 5/6/1861",
+  "Ubicación": "Entre la Cañada de Lavallén y la Cañada de Suero, sobre el límite Areco–Giles",
+  "Orden judicial": "Auto del 29/9/1860, juez Dr. Alejo B. González",
+  "Vendedor / antecesor": "Arellano → Suero → F. A. Martínez (1795) → R. Cané (1820) → Guerrico (1838)",
+  "Linderos citados": "Her. S. Casco · M. Martínez · Morgan · J. de Silva · S. Andrade · A. Casco de Saraví · her. M. Galeano · R. Bustos · P. Rodríguez",
+  "Medidas": "44.650.788 m² = 4465 ha (59.534.328 v²); exceso fiscal 156,97 ha",
+  "Rumbos": "Corregidos; declinación 11° 30′",
+  "Referencia de archivo": "Duplicado 29; «Sección Areco N.º 114»"
+ },
+ "metricas": {
+  "superficie_ha": "4465 (0,99 legua²; exceso fiscal 157 ha)",
+  "hitos": "Mojones; zanja de Tomás Cerna; camino al Fortín; ≥10 poblaciones con nombre",
+  "aguas": "Cañada de Lavallén (bañado); Cañada de Suero; Cañada de Giles (título 1795)"
+ },
+ "sintesis": "Mensura de Manuel Eguía (20/3/1861) del campo de los herederos de Plácido Guerrico, entre las cañadas de Lavallén y de Suero, sobre el límite Areco–Giles que el plano traza dentro del campo. Títulos desde la donación de Arellano a Suero (1755) y la venta a Felipe Antonio Martínez (1795), Cané (1820) y Guerrico (1838). Hexágono de 44.650.788 m² (4465 ha): todo en metros, dos años antes que Pico (007). Exceso fiscal de 157 ha, que luego piden comprar Duberti (1864) y Morgan (1865). Eguía divide además entre los compradores —herederos de Morgan 2/3, Duberti y Pedro Kenny 1/3—, división que el D. T. declara no autorizada.",
+ "caratula": {
+  "img": "img/f/029/01.jpg",
+  "fuente": "IMG_6974.JPG",
+  "campos": [
+   [
+    "N.º",
+    "29"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Herederos de Placido Guerrico"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Manuel Eguia"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1861"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Títulos: Arellano → Suero → Martínez (1795) → Cané (1820)",
+   "img": "img/f/029/05.jpg",
+   "fuente": "IMG_6976.JPG",
+   "nota": "Sello con foliatura «1». Letra caligráfica muy clara (copia en limpio del duplicado). Dudosos: «de fontada [?]» (¿de frente, «afrontada»?), el apellido del escribano «Vásquez Pelayo [?]» y «Pregueira [?]».",
+   "lineas": [
+    "Estracto de los Titulos de los herederos",
+    "de Don Placido Guerrico.",
+    "En siete de Septiembre de mil setecientos noventa y cinco Don Ju-",
+    "an Francisco Suero vendió á Don Felipe Anto-",
+    "nio Martinez un terreno de estancia en el par-",
+    "tido de Areco, compuesto de nueve mil ochocientos",
+    "varas de frente; y lindan por el Oeste con tierras",
+    "de los Acostas que yo. el vendedor vendi á Don Vi-",
+    "cente Peñalva. por el Norte con los fondos de las",
+    "suertes principales de Areco, por el Sur con tierras",
+    "del vendedor Cañada de Giles por medio, como",
+    "divicion; las cuales nueve mil ochocientas va-",
+    "ras de tierra son de fontada [?] á la Cañada de Giles",
+    "y sus fondos hasta dar con los fondos de las suertes",
+    "principales de Areco. Las hubo del General Don",
+    "Jose Ruiz de Arellano, por donacion hecha en",
+    "mil setecientos cincuenta y cinco por ante el Escriba-",
+    "no Felipe Vasquez Pelayo [?]. La venta de Suero á",
+    "Martinez por ante el alcalde de la Villa de Luxan",
+    "Don Manuel Pinazo.",
+    "En diez de Marzo, de mil ochocientos veinte Don Luis Ramon",
+    "Martinez y Don Manuel Pregueira [?] por sí, y á",
+    "nombre de los herederos de Don Felipe An-",
+    "tonio Martinez, vendieron á Don Ramon",
+    "Cane una parte del terreno de su instituyente.",
+    "compuesta de cinco mil doscientas cincuenta",
+    "varas de frente con nueve mil ochocientas",
+    "de fondo: lindando por el Sur con Don Fran-"
+   ],
+   "interpretacion": "Extracto de títulos de los herederos de Plácido Guerrico. El 7/9/1795 Juan Francisco Suero vende a Felipe Antonio Martínez un terreno de estancia en el partido de Areco de 9800 varas de frente, que linda al O con tierras de los Acosta (vendidas por Suero a Vicente Peñalva), al N con los fondos de las suertes principales de Areco y al S con tierras del vendedor, «Cañada de Giles por medio». El frente da sobre la Cañada de Giles y el fondo llega hasta los fondos de las suertes de Areco. Suero lo había recibido por donación del general José Ruiz de Arellano (1755, escribano Felipe Vásquez Pelayo [?]); la venta se hizo ante el alcalde de la Villa de Luján, Manuel Pinazo.\nEl 10/3/1820 Luis Ramón Martínez y Manuel Pregueira [?], por sí y por los herederos de Felipe Antonio Martínez, venden a Ramón Cané 5250 v de frente por 9800 de fondo, lindando al S con Francisco Casco…"
+  },
+  {
+   "titulo": "Folio 1 v. · Venta a Guerrico (1838) y arranque de la mensura (1861)",
+   "img": "img/f/029/06.jpg",
+   "fuente": "IMG_6977.JPG",
+   "nota": "«herederos» testado y reescrito. Al final: «metros» con todas las letras: la mensura se hace en METROS con la equivalencia en varas entre paréntesis.",
+   "lineas": [
+    "cisco Casco, por el Oeste con tierras del Estado,",
+    "al Norte tierras de esta pertenencia y al",
+    "Este la de Doña Maria Lencina [?]. Ademas",
+    "un martillo que resulta sobrante á los fon-",
+    "dos de D^{n} Martin Galeano, compuesto como",
+    "de mil varas de frente y tres mil de fon-",
+    "do.",
+    "En veinte y cuatro de Diciembre de",
+    "mil ocho cientos treinta y ocho. Don Ramon",
+    "Cane vendio este terreno á Don Placido Gue-",
+    "rrico. ante Luis Lopez Escribano Publico.",
+    "Diligencia de Mensura.",
+    "En el Partido de Areco. á veinte de Marzo",
+    "de mil ochocientos sesenta y uno. hallandome",
+    "yo el agrimensor publico Manuel Eguia autori-",
+    "zado judicialmente por auto de fecha veinte y",
+    "nueve de Septiembre del año proximo pasado,",
+    "del Señor Juez de Primera Instancia Doctor",
+    "Don Alejo B. Gonzales para medir el terreno",
+    "perteneciente á los ~~herederos~~ herederos de Don Placido Gue-",
+    "rrico, previa la citacion de linderos, que original se",
+    "acompaña á estas diligencias, tome por punto de",
+    "arranque, el mojon del angulo Norte de esta pro",
+    "piedad, situado sobre la Cañada de Lavallen",
+    "que es tambien del angulo Oeste de Don Ma",
+    "tias Martinez, y que sirvio de arranque á este",
+    "mismo terreno; en la mensura del año de",
+    "mil ochocientos treinta y nueve: desde este",
+    "mojon al Sur cuarenta y siete grados treinta",
+    "minutos Este, dividiendo con Don Eduardo Morgan",
+    "se midieron dividiendo tambien con Don Matias",
+    "Martinez cuatro mil quinientos treinta y nueve metros y"
+   ],
+   "interpretacion": "…al O con tierras del Estado, al N con tierras de la misma pertenencia y al E con María Lencina [?]; además, un «martillo» sobrante a los fondos de Martín Galeano, de unas 1000 v de frente por 3000 de fondo. El 24/12/1838 Ramón Cané vende a Plácido Guerrico ante el escribano Luis López.\nDiligencia: «En el Partido de Areco», 20/3/1861, Manuel Eguía, comisionado por auto del 29/9/1860 del juez de primera instancia Dr. Alejo B. González, arranca del mojón del ángulo N, sobre la Cañada de Lavallén (ángulo O de Matías Martínez), el mismo que sirvió de arranque a este terreno en la mensura de 1839. Mide al S 47° 30′ E lindando con Eduardo Morgan y Matías Martínez 4539,5 m…"
+  },
+  {
+   "titulo": "Folio 2 · Perímetro: Silva, Andrade, Saraví y Galeano",
+   "img": "img/f/029/07.jpg",
+   "fuente": "IMG_6978.JPG",
+   "nota": "Sello con foliatura «2». Cada distancia en metros y decímetros, con las varas entre paréntesis.",
+   "lineas": [
+    "cinco decimetros (cinco mil doscientas cuarenta y",
+    "dos varas) hasta el mojon que marca el angulo",
+    "Norte de Doña Juana de Silva; habiendo sobre",
+    "esta linea cruzado la Cañada de Lavallen inme",
+    "diatamente sobre el punto de arranque, y halla",
+    "do el mojon del angulo Oeste de los herederos de",
+    "Don Eduardo Morgan, á los cuatro mil tres",
+    "cientos veinte y un metros, clavado sobre la Ca-",
+    "ñada de Suero. Desde el mojon citado del angulo",
+    "Norte de Doña Juana de Silva al Sud cuarenta",
+    "y un grados cincuenta minutos Oeste, dividien",
+    "do con esta, Don Cerafin Andrade y Doña Angela",
+    "Casco de Saravi, se midieron cuatro mil quinientos",
+    "ochenta y nueve metros y ocho decimetros (cinco mil",
+    "trescientas varas) hasta el mojon que marca el an",
+    "gulo Oeste del terreno de Doña Angela Casco de Sara",
+    "vi; habiendo hallado sobre esta linea á los mil",
+    "novecientos ochenta y tres metros el mojon del an",
+    "gulo Norte de esta misma Señora, divisorio con An",
+    "drade y á los tres mil doscientos ochenta y seis me",
+    "tros otro mojon. Desde el citado mojon del angulo",
+    "Oeste de la Señora Saravi, al Sur cuarenta y ocho",
+    "grados diez minutos Este y dividiendo siempre",
+    "con ella, se midieron mil ochenta y un me-",
+    "tros (mil doscientas cuarenta y ocho varas) hasta el",
+    "mojon del angulo Norte de los herederos de Don",
+    "Martin Galeano; desde el cual, dividiendo con e-",
+    "llos, al Sud cuarenta y tres grados diez y nueve",
+    "minutos Oeste, se midieron cuatro mil ciento",
+    "noventa y siete metros y cinco decimos (cuatro mil",
+    "ochocientas cuarenta y siete varas) hasta el mojon",
+    "del angulo Oeste de los mismos. Desde este pun",
+    "to, dividiendo con Don Ramon Bustos, y Don"
+   ],
+   "interpretacion": "…(5242 v) hasta el ángulo N de Juana de Silva, cruzando la Cañada de Lavallén junto al arranque y hallando a 4321 m el mojón del ángulo O de los herederos de Morgan «clavado sobre la Cañada de Suero». Luego al S 41° 50′ O lindando con Silva, Serafín Andrade y Angela Casco de Saraví, 4589,8 m (5300 v), con mojones intermedios a 1983 m (esquina N de Saraví, divisoria con Andrade) y a 3286 m. Al S 48° 10′ E con Saraví, 1081 m (1248 v) hasta el ángulo N de los herederos de Martín Galeano; al S 43° 19′ O con ellos, 4197,5 m (4847 v) hasta su ángulo O. Sigue lindando con Ramón Bustos y Pedro Rodríguez…"
+  },
+  {
+   "titulo": "Folio 2 v. · La zanja de Tomás Cerna; área y títulos",
+   "img": "img/f/029/08.jpg",
+   "fuente": "IMG_6979.JPG",
+   "nota": "«metros» repetido y testado en la cifra del martillo.",
+   "lineas": [
+    "Pedro Rodriguez, al Norte cuarenta y cinco gra",
+    "dos cuarenta y siete minutos Oeste, se midieron",
+    "cinco mil setecientos treinta y siete metros, y dos deci",
+    "metros (seis mil seiscientas veinte y cinco varas)",
+    "hasta el mojon del angulo Sur de los herederos",
+    "de Don Santiago Casco; habiendo esta linea",
+    "á los dos mil novecientos metros pasado por",
+    "la esquina de la zanja de Don Tomas Cer-",
+    "na. Desde el espresado mojon Sur de Casco,",
+    "al Norte cuarenta y tres grados doce minutos",
+    "Oeste y dividiendo con el mismo, se midie-",
+    "ron ocho mil quinientos ochenta y seis metros",
+    "hasta el mojon de arranque.",
+    "Tiene el terreno medido la figura de un",
+    "poligono irregular de seis lados, con la superficie",
+    "de cuarenta y cuatro millones seiscientos cincuen",
+    "ta mil setecientos ochenta y ocho metros cuadrados",
+    "(cincuenta y nueve millones quinientos treinta",
+    "y cuatro mil trescientas veinte y ocho varas cua",
+    "dradas) y considerando el titulo de los herederos",
+    "de Don Placido Guerrico, dividido en dos fraccio",
+    "nes, una de cuatro mil quinientos cuarenta",
+    "y seis metros, y cinco decimetros (cinco mil",
+    "doscientos cincuenta varas de frente) con ocho mil",
+    "cuatro cientos ochenta y seis metros y ocho deci",
+    "metros (nueve mil ochocientas varas) de fondo; y",
+    "la otra, que es, el denominado martillo, á los",
+    "fondos de los herederos de Don Martin Galeano, cons",
+    "tante de cuatro millones cuatro cientos noventa y",
+    "cinco mil ochocientos quince ~~metros~~ metros cuadradas (cinco",
+    "millones novecientos noventa y cuatro mil cua",
+    "trocientas quince varas cuadradas) que hacen las",
+    "dos, la suma de cuarenta y tres millones ochen"
+   ],
+   "interpretacion": "…al N 45° 47′ O, 5737,2 m (6625 v) hasta el ángulo S de los herederos de Santiago Casco, pasando a 2900 m por «la esquina de la zanja de Don Tomás Cerna»; al N 43° 12′ O con Casco, 8586 m, se cierra en el arranque.\nPolígono irregular de seis lados: 44.650.788 m² (59.534.328 v²). El título se compone de dos fracciones: 4546,5 m (5250 v) de frente por 8486,8 m (9800 v) de fondo, y el «martillo» a los fondos de Galeano, de 4.495.815 m² (5.994.415 v²); juntas suman 43.081.041 m²…"
+  },
+  {
+   "titulo": "Folio 3 · Exceso fiscal; declinación; la «División»",
+   "img": "img/f/029/09.jpg",
+   "fuente": "IMG_6980.JPG",
+   "nota": "Sello con foliatura «3». Mancha de tinta sobre «[com]prado». Cifra 1569747 anotada a lápiz al margen (control del exceso).",
+   "lineas": [
+    "ta y un mil cuarenta y un metros cuadrados (cincuenta",
+    "y siete millones cuatrocientas cuarenta y un mil doscien",
+    "tas cuarenta y cuatro varas cuadradas) resulta un eceso de",
+    "propiedad del Estado de un millon quinientos sesen",
+    "ta y nueve mil setecientos cuarenta y siete metros cua",
+    "drados; (dos millones noventa y dos mil novecien",
+    "tas noventa varas cuadradas) habiendo sido todo me",
+    "dido á rumbos corregidos con la declinacion de on",
+    "ce grados treinta minutos.",
+    "[al margen, a lápiz:] 1569747",
+    "Divicion.",
+    "Acabada la mensura, espusieron Don Francisco Du-",
+    "berti, por si, y Don Jorge Morgan á nombre de los",
+    "herederos de su padre Don Eduardo Morgan, que ellos",
+    "habian [com]prado á los herederos de Don Placido",
+    "Guerrico, todo el campo que se ha medido; sien",
+    "do dos terceras partes perteneciente á Morgan, y",
+    "la otra tercera parte, para Don Francisco Duber-",
+    "ti; y que este, habia cedido á Don Pedro Ken-",
+    "ny media legua de frente y media de fondo, ó",
+    "nueve millones de varas cuadradas; esto mis",
+    "mo me habia dicho y declarado Don Francisco",
+    "Villanueva representante de los herederos de Gue",
+    "rrico, que en su consecuencia, hiciera la separa",
+    "cion de cada fraccion en el local que ellos tenian",
+    "acordado; lo que ejecuté de la manera siguiente:",
+    "arrancando del mojon que marca el angulo Oeste de",
+    "este terreno, y Sur de los herederos de Don Santia",
+    "go Casco, dividiendo con el mismo Casco. al Norte cua",
+    "renta y tres grados doce minutos Este dos mil",
+    "quinientos noventa y cuatro metros y cinco deci",
+    "mos (dos mil novecientas noventa y seis varas) y se",
+    "colocó el mojon que marca el angulo Oeste del terre"
+   ],
+   "interpretacion": "…(57.441.244 v²): resulta un exceso de propiedad del Estado de 1.569.747 m² (2.092.990 v²) —la suma cierra exactamente—. Todo se midió a rumbos corregidos con declinación de 11° 30′.\n«División»: acabada la mensura, Francisco Duberti (por sí) y Jorge Morgan (por los herederos de su padre Eduardo Morgan) declaran que compraron todo el campo a los herederos de Guerrico: dos tercios para Morgan y un tercio para Duberti, quien cedió a Pedro Kenny media legua por media legua (9.000.000 v²). Lo confirma Francisco Villanueva, representante de los herederos de Guerrico, y piden que se separe cada fracción «en el local que ellos tenían acordado». Eguía arranca del ángulo O (S de los herederos de Santiago Casco) y mide al N 43° 12′ E 2594,5 m (2996 v)…"
+  },
+  {
+   "titulo": "Folio 3 v. · Fracción de los herederos de Morgan",
+   "img": "img/f/029/10.jpg",
+   "fuente": "IMG_6981.JPG",
+   "nota": "El apellido se lee «Henny/Kenny»: la portadilla y el plano dan «Kenny».",
+   "lineas": [
+    "terreno de los herederos de Morgan y Norte de Don",
+    "Pedro Kenny; desde el cual al Sur cuarenta y cinco",
+    "grados cuarenta y siete minutos Este, y dividiendo",
+    "a la derecha, tierras de Don Pedro Kenny y Don",
+    "Francisco Duberti y á la izquierda las de los",
+    "herederos de Don Eduardo Morgan, se midieron",
+    "dos mil seiscientos once metros y ocho decimos (tres",
+    "mil cuatro varas cuatro decimos) y se colocó el mo",
+    "jon que marca el angulo Norte de Don Francisco",
+    "Duberti, y Este de Don Pedro Kenny; y siguiendo",
+    "en la misma direccion, se midieron desde este mo",
+    "jon tres mil ciento treinta metros (tres mil seiscientas",
+    "catorce varas) mas hasta hallar el deslinde Nor-Oes",
+    "te de los herederos de Don Martin Galeano; donde",
+    "se colocó el mojon que marca el angulo Sur, del te",
+    "rreno que pertenece á los herederos de Morgan,",
+    "y Este de la parte de Don Francisco Duberti;",
+    "constando el todo de esta linea de cinco mil setecien",
+    "tos cuarenta y dos metros desde la linde de Casco",
+    "hasta la de Galeano. El campo que se halla entre",
+    "esta linea y los linderos, herederos de Don Santia",
+    "go Casco, Don Matias Martinez, herederos de Morgan,",
+    "Doña Juana de Silva, Don Cerafin Andra-",
+    "de Doña Angela Casco de Saravi y los herede",
+    "ros de Don Martin Galeano, contiene la area de",
+    "veinte y nueve millones setecientos sesenta y siete",
+    "mil ciento noventa y dos metros cuadrados.",
+    "(treinta y nueve millones seiscientos ochenta y nueve",
+    "mil quinientas cincuenta y dos varas cuadradas)",
+    "que pertenecen á los herederos de Don Eduardo Mor",
+    "gan, por las dos terceras partes del todo compra",
+    "do á los herederos de Guerrico. En seguida para"
+   ],
+   "interpretacion": "…y coloca el mojón del ángulo O de los herederos de Morgan y N de Pedro Kenny. Desde allí, al S 45° 47′ E, con Kenny y Duberti a la derecha y Morgan a la izquierda, 2611,8 m (3004,4 v) hasta el ángulo N de Duberti y E de Kenny; y 3130 m (3614 v) más, hasta el deslinde NO de los herederos de Galeano, donde pone el mojón S de Morgan y E de Duberti. La línea divisoria mide 5742 m de la linde de Casco a la de Galeano. Del lado de Morgan quedan 29.767.192 m² (39.689.552 v²) —los dos tercios—, entre Casco, Matías Martínez, Silva, Andrade, Saraví y Galeano."
+  },
+  {
+   "titulo": "Folio 4 · Fracciones de Pedro Kenny y Francisco Duberti",
+   "img": "img/f/029/11.jpg",
+   "fuente": "IMG_6982.JPG",
+   "nota": "Sello con foliatura «4».",
+   "lineas": [
+    "dividir las fracciones de Don Francisco Duberti y de",
+    "Don Pedro Kenny, arranqué desde el mojon que",
+    "marca el angulo Norte del primero, y Este del segun",
+    "do, ya mencionado en la anterior linea, y desde",
+    "él al Sur cuarenta y tres grados doce minutos",
+    "Oeste, se midieron dos mil quinientos noventa y",
+    "cuatro metros y cinco decimetros (dos mil novecien",
+    "tas noventa y seis varas) hasta el deslinde Nor",
+    "Este de Don Ramon Bustos, y se colocó el mo",
+    "jon que marca el angulo Oeste de Duberti",
+    "y Sur de Kenny. El campo que se halla",
+    "entre esta linea, y los linderos Don Ramon",
+    "Bustos. Don Pedro Rodriguez, herederos de",
+    "Morgan y herederos de Don Santiago Casco, con",
+    "tiene la superficie de seis millones setecien",
+    "tos cuarenta y nueve mil seiscientos cua",
+    "tro metros cuadrados (nueve millones de",
+    "varas cuadradas) y pertenece á Don Pedro Kenny",
+    "por compra á los herederos de Don Placido",
+    "Guerrico; y el campo comprendido entre la",
+    "misma linea y los linderos, Don Ramon Bus",
+    "tos herederos de Don Martin Galeano y herede",
+    "ros de Don Eduardo Morgan contiene la su",
+    "perficie de ocho millones ciento treinta y tres",
+    "mil novecientos noventa y dos metros cua",
+    "drados (diez millones ochocientas cuarenta y",
+    "cuatro mil setecientas cuarenta y seis varas cua",
+    "dradas) y pertenece á Don Francisco Duberti",
+    "por compra á los herederos de Don Placido",
+    "Guerrico.",
+    "Asistieron á esta mensura los linderos Don"
+   ],
+   "interpretacion": "Para separar Duberti y Kenny arranca del mojón N de Duberti / E de Kenny y mide al S 43° 12′ O 2594,5 m (2996 v) hasta el deslinde NE de Ramón Bustos, donde pone el mojón O de Duberti y S de Kenny. Kenny: 6.749.604 m² (9.000.000 v² exactos, la media legua cuadrada cedida), entre Bustos, Pedro Rodríguez, Morgan y Casco. Duberti: 8.133.992 m² (10.844.746 v²), entre Bustos, Galeano y Morgan. La suma de las tres fracciones reproduce el total medido (44.650.788 m²): el exceso fiscal queda repartido dentro de ellas."
+  },
+  {
+   "titulo": "Folio 4 v. · Asistentes; informe del D. T.",
+   "img": "img/f/029/12.jpg",
+   "fuente": "IMG_6983.JPG",
+   "nota": "Cambia la mano: el informe del Departamento Topográfico está en letra rápida.",
+   "lineas": [
+    "Pedro Rodriguez Don Ramon Bustos",
+    "y Don Cerafin Andrade, por Doña Angela",
+    "Casco de Saravi asistio Don Jose Rodri",
+    "guez, por los herederos de Don Eduardo",
+    "Morgan Don Jorge y Don Eduardo Mor",
+    "gan, por Doña R. de Silva su hijo",
+    "Don Domingo Silva, por los herederos",
+    "de Don Martin Galeano su hijo Don",
+    "Sotero Galeano, por Don Matias Martinez",
+    "su hijo Don Jose Martinez y todos estu",
+    "vieron conformes.",
+    "Manuel Eguia",
+    "Señor Juez de 1^{a} Instancia",
+    "El Departamento Topografi=",
+    "co ha examinado la presente",
+    "mensura practicada por el Agri=",
+    "mensor D^{n} Manuel Eguia del terreno",
+    "de la propiedad de los herederos",
+    "de D^{n} Placido Guerrico, y nada tiene",
+    "que objetar al proceder facultativo",
+    "empleado en ella, por cuanto se",
+    "ha arreglado á las disposiciones ge=",
+    "nerales de la materia y titulos",
+    "de su referencia, por lo que V. S. pue=",
+    "de darle su aprobacion judicial.",
+    "Hecha la mensura referida, el Agri=",
+    "mensor ha procedido á hacer la divi="
+   ],
+   "interpretacion": "Asistieron Pedro Rodríguez, Ramón Bustos y Serafín Andrade; por Angela Casco de Saraví, José Rodríguez; por los herederos de Eduardo Morgan, Jorge y Eduardo Morgan; por Doña R. [?] de Silva, su hijo Domingo Silva; por los herederos de Martín Galeano, su hijo Sotero Galeano; por Matías Martínez, su hijo José Martínez. «Todos estuvieron conformes». Firma Manuel Eguía.\nEl Departamento Topográfico no tiene nada que objetar al proceder facultativo, ajustado a las disposiciones generales y a los títulos, y aconseja la aprobación judicial. Pero advierte que el agrimensor hizo además la división…"
+  },
+  {
+   "titulo": "Folio 5 · El D. T. ignora la división; nota del juez",
+   "img": "img/f/029/13.jpg",
+   "fuente": "IMG_6984.JPG",
+   "nota": "Sello con foliatura «5». Firmas de Salas, Moreno y Malaver con rúbricas.",
+   "lineas": [
+    "sion, por habersela pedido los indi=",
+    "viduos que se citan que se dicen com=",
+    "pradores á Guerrico, y como esta operacion",
+    "no ha sido pedida, ni el Agrimensor",
+    "autorizado para practicarla, el Departa=",
+    "mento nada dice acerca de ella.",
+    "Observa si, que dentro de los limites",
+    "del terreno total existe un exceso de",
+    "area de propiedad publica, respecto",
+    "de la que el interesado se halla en",
+    "el caso de ocurrir al Superior Go=",
+    "bierno en su solicitud si quiere",
+    "seguir ocupandola. A este fin el",
+    "S^{r} Juez podrá disponer lo que esti=",
+    "me conveniente.",
+    "Buenos Ayres Mayo 3 de 1861",
+    "Salas    Moreno    Malaver",
+    "Nota = El Juez de 1^{a} Inst.^{a} D^{r} Alejo B. Gonzalez dá",
+    "cuenta al Gob.^{no} del exceso encontrado en",
+    "la anterior mensura, con cuyo motivo",
+    "al Gefe de la Of.^{a} de T.^{s} P.^{s} [?] pidió informe",
+    "al D. T. y este se espidió en Julio 12/861",
+    "Salas"
+   ],
+   "interpretacion": "…pedida por los que «se dicen compradores a Guerrico»: como esa operación no fue pedida al juez ni el agrimensor estaba autorizado, el Departamento «nada dice acerca de ella». Observa que dentro del terreno hay un exceso de área de propiedad pública, por el que el interesado debe ocurrir al Superior Gobierno si quiere seguir ocupándolo. Buenos Aires, 3/5/1861: Salas, Moreno, Malaver.\nNota: el juez Dr. Alejo B. González da cuenta al gobierno del exceso; el jefe de la Oficina de Tierras Públicas [?] pide informe al D. T., que se expide el 12/7/1861 (Salas)."
+  },
+  {
+   "titulo": "Folio 5 v. · Notas: Duberti (1864) y Morgan (1865) piden el sobrante",
+   "img": "img/f/029/14.jpg",
+   "fuente": "IMG_6985.JPG",
+   "nota": "Resto de la hoja en blanco (se transparenta el dorso).",
+   "lineas": [
+    "Nota = D^{n} Francisco Duberty pide en com=",
+    "pra el exceso de area que tiene dentro de los",
+    "limites de su terreno — El D. informó en",
+    "Julio 22 de 1864",
+    "Salas",
+    "Nota. En 3 de Agosto de 1865 solicita D. Eduardo",
+    "Morgan un sobrante de propiedad publica, lindando",
+    "con terreno de su propiedad con Angela Saravi, herederos",
+    "de Galiano y Duberty. El D. T. informó en esta f.^{ha}",
+    "Setiembre 1/865",
+    "Kuhr"
+   ],
+   "interpretacion": "Dos notas marginales de seguimiento. Francisco Duberti pide comprar el exceso de área que tiene dentro de sus límites; el D. T. informa el 22/7/1864 (Salas). El 3/8/1865 Eduardo Morgan (hijo) solicita un sobrante de propiedad pública lindero con su terreno, con Angela Saraví, herederos de Galeano y Duberti; el D. T. informa el 1/9/1865 con la firma de Kuhr. El sobrante fiscal se va vendiendo a trozos a los compradores, cuatro años después de la mensura."
+  },
+  {
+   "titulo": "Oficio del juez Alejo B. González (7/6/1861)",
+   "img": "img/f/029/15.jpg",
+   "fuente": "IMG_6986.JPG",
+   "nota": "Papel sellado de 3 pesos, sello en seco «Buenos Aires 1861», foliatura 7. Tinta muy desvaída. El juez escribe «Carlos Eguía» (nombre de un colega juez civil, Ficha 030) por Manuel Eguía.",
+   "lineas": [
+    "[sello de 3 pesos; sello en seco «Buenos Aires 1861»; foliatura 7]",
+    "B.^{s} Ay.^{s} Junio 7 de 1861",
+    "Al S^{or} Presidente del Departamento",
+    "Topografico",
+    "El Juez que suscribe comunica á Ud. que en el",
+    "espediente seguido por Don Francisco Villanue",
+    "va en representacion de Don Placido Guerrico",
+    "sobre mensura de un terreno en el Partido de",
+    "Giles ha sido aprobada por este Juzgado la",
+    "mensura de este terreno practicada por el Agri",
+    "mensor Don Carlos Eguia siendo su tenor el",
+    "siguiente: B.^{s} Ayres Junio 5 de 1861. Autos",
+    "y vistos: de conformidad de parte y Agente Fis",
+    "cal se aprueba en cuanto mas haya lugar por",
+    "derecho esta operacion de mensura, interponien",
+    "dose para mayor firmeza la autoridad judi",
+    "cial, y en su virtud dense á los interesados los",
+    "testimonios que pidieren. Avisese al Depar",
+    "tamento Topografico dese cuenta al Ministerio",
+    "de Gobierno del sobrante que resulta y fechado [?]",
+    "y satisfechas las costas entreguese el espediente al",
+    "interesado = Alejo B. Gonzalez",
+    "Dios guarde á Ud. muchos años",
+    "Alejo B. Gonzalez"
+   ],
+   "interpretacion": "El juez comunica al presidente del Departamento Topográfico que, en el expediente seguido por Francisco Villanueva en representación de Plácido Guerrico sobre mensura de un terreno «en el Partido de Giles», aprobó la mensura «practicada por el agrimensor Don Carlos Eguía» [sic, por Manuel] por auto del 5/6/1861: de conformidad de parte y agente fiscal, se aprueba en cuanto haya lugar por derecho, con la autoridad judicial; se dan testimonios, se avisa al Departamento, se da cuenta al Ministerio de Gobierno del sobrante y, satisfechas las costas, se entrega el expediente al interesado."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Terreno de los herederos de Plácido Guerrico y su división",
+   "img": "img/f/029/03.jpg",
+   "fuente": "IMG_6987.JPG (pliego completo; detalles en 6988-6994)",
+   "orientacion": "Pliego a tinta sobre papel tela, plegado; flecha N en el ángulo superior derecho; escala gráfica en metros (1000-0-3000 m); firmado «Marzo 20 de 1861 — Manuel Eguía».",
+   "interpretacion": "Hexágono irregular con el rótulo «HEREDEROS DE PLACIDO GUERRICO» en capitales espaciadas, dividido en tres: «Pedro Kenny» (6.749.604 m² o 9.000.000 v²) arriba a la izquierda, «Herederos de Eduardo Morgan» (29.767.192 m² o 39.689.552 v²) la mayor, y «Francisco Duberti» (8.133.992 m² o 10.844.774 [?] v²) abajo a la izquierda. Una línea de trazos con flechas marca el límite «Partido de Areco / Partido de Giles», que atraviesa el campo y sigue la «Cañada de Zuero»; arriba a la derecha, la «Cañada de Lavallén» dibujada como bañado junto al mojón de arranque (esquina de Matías Martínez). Dos líneas de puntos cruzan la fracción Duberti: una rotulada «al Fortín» (camino al fortín de Areco). Los puntos negros son poblaciones con el nombre del ocupante.",
+   "referencias": [
+    [
+     "Fracciones",
+     "Pedro Kenny · Herederos de Eduardo Morgan · Francisco Duberti (con m² y v²)"
+    ],
+    [
+     "Linderos",
+     "Her. de Santiago Casco (N) · Matías Martínez y her. de E. Morgan (E) · Juana R. de Silva, Cerafín Andrade, Angela C. de Saraví (S) · Her. de Martín Galeano (SO) · Ramón Bustos y Pedro Rodríguez (O)"
+    ],
+    [
+     "Aguas",
+     "Cañada de Lavallén (bañado, N) · Cañada de Zuero (E) · zanja de Tomás Cerna (texto)"
+    ],
+    [
+     "Límite",
+     "Línea de trazos «Partido de Areco / Partido de Giles» dentro del campo"
+    ],
+    [
+     "Caminos",
+     "Línea de puntos «al Fortín» y otra paralela, ambas NO–SE, en la fracción Duberti"
+    ],
+    [
+     "Poblaciones (dentro)",
+     "María de los Santos · Puesto de Casco · Pedro Dosi [?] · F. Duberti · Rosales · Patricio Roore [?] · León Tohlan [?] · Tomás Wallase · Ant.º Romero · Sanoleti [Zanoletti?] · José Rodríguez"
+    ],
+    [
+     "Poblaciones (fuera)",
+     "Bonifacia Casco · Patricio Sor [?] · Santiago · Tomás Palmer [?] / Cerna [?] · Pablo Bustos [?] · Angela [?] Andrés [?]"
+    ],
+    [
+     "Escala",
+     "Gráfica en metros; distancias en m y en v sobre los lados; rumbos (N 43° 12′ E, S 41° 50′ O, etc.)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: fracción Duberti, Saraví y firma de Eguía",
+   "img": "img/f/029/04.jpg",
+   "fuente": "IMG_6992.JPG",
+   "orientacion": "Toma parcial del mismo pliego.",
+   "interpretacion": "Detalle del sector S: «Francisco Duberti» con su área, las líneas de puntos del camino (una rotulada «al Fortín»), la población «Sanoleti», el lindero «Herederos de Martín Galeano», el campo de «Angela C. de Saraví» con «José Rodríguez» y la fecha y firma «Marzo 20 de 1861 — Manuel Eguía» sobre la escala gráfica en metros. Arriba, el rótulo del límite de partidos.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "El metro llega antes: eguía 1861",
+   "texto": "Toda la diligencia está en METROS y decímetros, con las varas entre paréntesis, y el plano lleva escala en metros. Hasta ahora la primera mensura métrica de la serie era la de Pico (Ficha 007, 1863); Eguía —el agrimensor más antiguo del corpus, activo desde 1838— lo adopta ya en marzo de 1861, dos años antes. Las superficies también se dan primero en m² (44.650.788) y luego en v². La conversión es constante (1 v² ≈ 0,75 m²)."
+  },
+  {
+   "titulo": "Un campo partido por el límite de partidos",
+   "texto": "La diligencia se abre «en el Partido de Areco», el juez habla de un terreno «en el Partido de Giles» y el plano traza la línea «Partido de Areco / Partido de Giles» atravesando el campo por la Cañada de Suero. Es una evidencia directa para el GIS del trazado del límite Areco–Giles hacia 1861 (compárese con el campo de Gutiérrez en cuatro partidos, Ficha 024)."
+  },
+  {
+   "titulo": "La merced de arellano y los suero, otra vez",
+   "texto": "El título arranca de la donación del general José Ruiz de Arellano (1755) a Juan Francisco Suero, que en 1795 vende 9800 v de frente sobre la «Cañada de Giles» a Felipe Antonio Martínez. Confirma la genealogía (a) de METODO («merced de Arellano… los Sueros, dueños primitivos», Ficha 021) y enlaza con la Ficha 028: los Martínez que venden a Noriega en 1823 son herederos del mismo Felipe Antonio Martínez. En 1820 sus herederos venden 5250 v a Ramón Cané, que en 1838 vende a Plácido Guerrico."
+  },
+  {
+   "titulo": "Mensura y división: lo que el d. t. no quiere ver",
+   "texto": "Eguía mide para los herederos de Guerrico, pero al terminar los compradores (Morgan 2/3, Duberti 1/3, y Kenny por cesión de Duberti) le piden dividir «en el local que ellos tenían acordado». El Departamento aprueba la mensura pero declara que «nada dice» de la división, porque no fue pedida al juez ni el agrimensor estaba autorizado: la subdivisión privada queda sin respaldo oficial. La portadilla, en cambio, ya titula «vendido a Eduardo Morgan, Francisco Duberti, Pedro Kenny»."
+  },
+  {
+   "titulo": "El sobrante fiscal, vendido a trozos",
+   "texto": "Exceso de 1.569.747 m² (≈157 ha) sobre los títulos, a favor del Estado. El juez da cuenta al gobierno (1861); Duberti pide comprar su parte (1864) y Eduardo Morgan otra (1865, informe firmado por Kuhr). Es el destino «fiscal» del sobrante (como 019 y 024), pero con una secuencia de compras individuales que sigue la división privada."
+  },
+  {
+   "titulo": "Paisaje y ocupación",
+   "texto": "Cañada de Lavallén con su bañado, junto al mojón «clavado sobre la Cañada de Suero»; «la zanja de Don Tomás Cerna» como hito (primera zanja-lindero de la serie: cerramiento agrario temprano); camino «al Fortín». Dentro del campo hay al menos diez poblaciones con nombre (María de los Santos, Puesto de Casco, Rosales, Tomás Wallase, León Tohlan [?], Patricio Roore [?], Ant.º Romero, Sanoleti…): nombres criollos junto a irlandeses/británicos, puesteros del período ovino."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Quién midió en 1839 (el texto dice que el mismo mojón sirvió de arranque «en la mensura del año 1839»; probablemente el propio Eguía)? ¿«Pregueira», «Vásquez Pelayo», «Lencina», «Dosi», «Roore», «Tohlan»? ¿«Sanoleti» es el mayordomo Zanoletti [?] de la Ficha 023? ¿El límite de partidos coincide con el del plano de 1890?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Plácido Guerrico y sus herederos",
+   "rol": "Propietario (1838-c. 1860)",
+   "texto": "Compró a Ramón Cané el 24/12/1838 (escribano Luis López). Apellido de una familia de comerciantes vascos de Buenos Aires: Manuel José de Guerrico (1800-1876), coleccionista, y José Guerrico, rematador; no se halló en la búsqueda breve la filiación de Plácido. Sus herederos venden el campo hacia 1860 a Morgan y Duberti; los representa Francisco Villanueva.",
+   "fuentes": "Esta mensura; Wikipedia «Guerrico»; buenosaireshistoria.org (José Guerrico)."
+  },
+  {
+   "nombre": "Manuel Eguía",
+   "rol": "Agrimensor público",
+   "texto": "El agrimensor más frecuente de la serie (Fichas 003-006, 010, 015, 017, 019, 025, y ahora 029: 1838-1861). Aquí aparece un Eguía «modernizado»: metros, rumbos corregidos, declinación 11° 30′, plano con escala métrica. El juez lo nombra por error «Carlos Eguía»: lapsus explicable porque Carlos Eguía era juez civil de primera instancia en la Capital (comisiona y aprueba la mensura de Monsalvo, Ficha 030).",
+   "fuentes": "Fichas anteriores; esta mensura."
+  },
+  {
+   "nombre": "Eduardo Morgan y sus hijos Jorge y Eduardo",
+   "rol": "Compradores (2/3)",
+   "texto": "Eduardo Morgan compró el campo ex Macome (Fichas 002, 020, 1856); en 1861 ya ha muerto y sus hijos Jorge y Eduardo compran dos tercios del campo de Guerrico (29,8 millones de m²) y son también linderos. En 1865 Eduardo (hijo) pide el sobrante fiscal lindero. Familia irlandesa (Morgan & O’Farrell) documentada por genealogiairlandesa.com.",
+   "fuentes": "Fichas 002, 020, 025; genealogiairlandesa.com (Edward Morgan & Catherine O’Farrell)."
+  },
+  {
+   "nombre": "Francisco Duberti y Pedro Kenny",
+   "rol": "Compradores (1/3)",
+   "texto": "Duberti (también «Duberty») compra un tercio y cede a Pedro Kenny media legua cuadrada (9.000.000 v²); tiene población propia dentro del campo («F. Duberti») y en 1864 pide comprar el exceso. Apellido de origen italiano; Kenny, irlandés. Sin datos biográficos en la búsqueda web breve.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Felipe Antonio Martínez · Juan Francisco Suero · José Ruiz de Arellano · Ramón Cané",
+   "rol": "Cadena de títulos",
+   "texto": "Arellano (general, merced del s. XVIII) dona en 1755 a Suero; Suero vende a Martínez (1795, ante el alcalde de Luján Manuel Pinazo); herederos de Martínez (Luis Ramón Martínez, Manuel Pregueira [?]) venden a Ramón Cané (1820). Felipe Antonio Martínez es también el causante de los Martínez que venden a Noriega (Ficha 028). Cané: apellido de la familia de Miguel Cané, sin filiación verificada aquí.",
+   "fuentes": "Fichas 021, 028; esta mensura."
+  },
+  {
+   "nombre": "Alejo B. González · Salas · Moreno · Malaver · Kuhr",
+   "rol": "Juez y departamento topográfico",
+   "texto": "Alejo B. González, juez civil que aprueba 024 y 027 (1860), aprueba ésta el 5/6/1861. El D. T. firma Salas, Moreno, Malaver (3/5/1861); en 1865 informa Germán Kuhr (Fichas 020, 028).",
+   "fuentes": "Fichas 020, 024, 027, 028."
+  },
+  {
+   "nombre": "Linderos y asistentes",
+   "rol": "Vecinos",
+   "texto": "Matías Martínez (su hijo José); Juana R. de Silva (su hijo Domingo); Serafín/Cerafín Andrade; Angela Casco de Saraví (Ficha 005; la representa José Rodríguez); herederos de Martín Galeano (su hijo Sotero; Ficha 008); herederos de Santiago Casco (Ficha 014); Ramón Bustos; Pedro Rodríguez; Tomás Cerna (zanja); María Lencina [?] (título de 1820); Francisco Villanueva (apoderado de Guerrico; un Villanueva firma a ruego en 1826).",
+   "fuentes": "Fichas 005, 008, 014; esta mensura."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/029/02.jpg",
+  "fuente": "IMG_6975.JPG",
+  "lineas": [
+   "Seccion Areco 15 [?]    Giles 29",
+   "N 114 —",
+   "Partido de Giles",
+   "Herederos de Placido Guerrico",
+   "vendido",
+   "a Eduardo Morgan",
+   "Francisco Duberti",
+   "Pedro Kenny",
+   "Por Manuel Eguia en el año de 1861.",
+   "[al margen, vertical:] [...] [?]"
+  ]
+ },
+ "titulo": "Herederos de D. Plácido Guerrico",
+ "estado": "Transcripta (11 hojas, 307 renglones), 2 láminas"
+}
