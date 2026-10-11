@@ -1,0 +1,313 @@
+{
+ "carpeta": "48",
+ "carpeta_nombre": "Carpeta 48",
+ "archivo": "Ficha 048 - Herederos de Martín Galeano (1865).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles",
+  "N.º de duplicado": "48 (portadilla: «Sección Areco N.º 172»)",
+  "Propietario / solicitante": "Herederos de Martín Galeano",
+  "Agrimensor": "José María Muñiz",
+  "Año": "1865",
+  "Fecha de la diligencia": "Mayo de 1865 (plano); el texto no está fotografiado",
+  "Ubicación": "Margen O de la Cañada de Giles, cerca de su naciente",
+  "Orden judicial": "Juez Miguel García Fernández (firma al pie del último folio)",
+  "Vendedor / antecesor": "Martín Galeano y Micaela Casco (Ficha 034)",
+  "Linderos citados": "Á. Casco de Saraví · P. P. Rodríguez · Monsalvo · R. Acuña · Ordóñez · tierra pública",
+  "Medidas": "Fondo 4156,80 m (4800 v); largos de 8059,66 a 7154,02 m; seis hijuelas",
+  "Rumbos": "N 47° 42′ O · S 42° 18′ O · N 77° 40′ E · N 19° 4′ E; variación 11° 28′ NE",
+  "Referencia de archivo": "Duplicado 48; antes «Sección Areco N.º 172»"
+ },
+ "metricas": {
+  "superficie_ha": "3239,82 (seis hijuelas)",
+  "hitos": "Casa con monte de C. Butterfield; poblaciones de Padín, San Martín, Sotero Galeano, Flores, Nisson; dos puestos",
+  "aguas": "Cañada de Giles (naciente, con bañado)"
+ },
+ "sintesis": "Duplicado del que sólo se fotografió el plano. Es la mensura y división, hecha por José María Muñiz en mayo de 1865, del campo de la testamentaría de Martín Galeano sobre la naciente de la Cañada de Giles: 3239,8 ha (4800 × 9000 varas) repartidas en seis hijuelas paralelas de rumbo S 47° 42′ E. Juan Bautista Galeano recibe el 56 %; Leonardo, Francisca, Juan de la Rosa, Tiburcio y Melchor, el resto. Al fondo, el plano ya rotula «Terreno Público concedido a D. Sotero Galeano» el sobrante de la Ficha 034, medido un mes antes por el mismo agrimensor. Trae once poblaciones y la casa de Butterfield junto al vértice que se discutirá en 1866. Falta todo el texto.",
+ "caratula": {
+  "img": "img/f/048/01.jpg",
+  "fuente": "IMG_7251.JPG",
+  "campos": [
+   [
+    "N.º",
+    "48"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Martín Galeano"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "José M.ª Muñiz"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1865"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano (folio único fotografiado)",
+   "img": "img/f/048/03.jpg",
+   "fuente": "IMG_7253 a IMG_7257",
+   "nota": "El texto de la diligencia NO está fotografiado. Se transcriben los rótulos del plano, de arriba abajo y de izquierda a derecha; las cifras invertidas en el original se dan derechas.",
+   "lineas": [
+    "[flecha, en diagonal:] N.V.   11° 28′ N.E.",
+    "[lindero NE:] Angela Casco de Saravi",
+    "N 47° 42′ O 8059,66",
+    "[cotas sobre esa línea, desde el arroyo:] Arranque · 208,8 · 966,5 · 3117 · 4000 · 5314 · 7292 [?]",
+    "[poblaciones:] S^{n} Martin · Puesto · José Padin · Sotero Galeano",
+    "Juan Bautista Galeano",
+    "18.208.744 m.^{s} c.^{s} = 24.279.750 v.^{s} c.^{s}",
+    "S 47° 42′ E 8293,95        4391,5",
+    "Juan de la Rosa Galeano",
+    "2.699.841 m.^{s} c.^{s} = 3.600.000 v.^{s} c.^{s}",
+    "S 47° 42′ E 8214,87        4391,5",
+    "Francisca Galeano",
+    "2.942.927 m.^{s} c.^{s} = 3.924.000 v.^{s} c.^{s}",
+    "S 47° 42′ E 7956,20        4391,5",
+    "Tiburcio Galeano",
+    "2.024.881 m.^{s} c.^{s} = 2.700.000 v.^{s} c.^{s}",
+    "S 47° 42′ E 7773,30        4391,5",
+    "Leonardo Galeano",
+    "4.496.923 m.^{s} c.^{s} = 5.996.250 v.^{s} c.^{s}",
+    "• Buterfield        S 47° 42′ E 7351,9        4391,5",
+    "Melchor Galeano",
+    "2.024.881 m.^{s} c.^{s} = 2.700.000 v.^{s} c.^{s}",
+    "• Puesto        S 47° 42′ E 7154,02        4391,5",
+    "[costado NO:] S 42° 18′ O 4156,80",
+    "[anchos de las hijuelas sobre ese costado:] 2356,48 [?] · 325,18 · 364,27 · 237,50 · 594,40 · 278,97",
+    "[al NO, en vertical:] Terreno Público concedido á D. Sotero Galeano",
+    "• Flores [?]   • S. Nisson   • Buterfield",
+    "S 43° 42′ O 4207,02        1604,5        7954,06",
+    "F. Duberty        Morgan",
+    "[costado E:] Cañada de Giles        N 19° 4′ E 2697,19        Pedro Pablo Rodriguez",
+    "[junto al vértice E, con un monte dibujado:] C. Buterfield",
+    "[costado SE:] N 77° 40′ E 2188,38        Monsalvo",
+    "[tramos sobre ese costado:] 342,26 · 727,70 · 315,22 · 440,35 · 244,27 · 118,8 [?]",
+    "[linderos SO:] S 45° 5′ E 1234,05   F. Ordoñez",
+    "S 47° 43′ E 4029,63   Fernando Monsalvo",
+    "S 47° 51′ E 2693,26   Remijio Acuña",
+    "[escala gráfica transversal:] 0 · 1000 · 2000 · 3000 · 4000 · 5000 metros · 6000",
+    "Giles Mayo de 1865",
+    "José Maria Muñiz"
+   ],
+   "interpretacion": "El plano es todo lo que se fotografió de este duplicado, pero dice mucho. Es la «mensura y división» del campo de la testamentaría de Martín Galeano: un hexágono de 3239,8 ha (43.200.000 varas cuadradas, exactamente 4800 × 9000 varas, o sea 1,2 leguas cuadradas) recostado sobre la naciente de la Cañada de Giles, partido en seis hijuelas paralelas de rumbo S 47° 42′ E. El título redondo en varas se ve detrás de cada cifra métrica: 3.600.000, 2.700.000, 3.924.000 varas cuadradas.\nLa partición es muy desigual: Juan Bautista Galeano se queda con 1820,9 ha, el 56 % del campo —la herencia suya más las compras a otros coherederos, presumiblemente—; Leonardo con 449,7 ha; Francisca con 294,3; Juan de la Rosa con 270; Tiburcio y Melchor con 202,5 cada uno (un dieciseisavo exacto).\nAl fondo NO, la franja rotulada «Terreno Público concedido a D. Sotero Galeano» es el sobrante de la Ficha 034, medido por el mismo Muñiz el 27 de abril de 1865: las dos mensuras son una sola campaña."
+  },
+  {
+   "titulo": "Último folio de texto (fragmento visible junto al plano)",
+   "img": "img/f/048/08.jpg",
+   "fuente": "IMG_7253.JPG (borde izquierdo)",
+   "nota": "Sólo asoma el margen derecho del último folio escrito: cierre de un oficio judicial y decreto del Departamento Topográfico.",
+   "lineas": [
+    "[…] interesados para",
+    "[…] estime conveniente..",
+    "[…] devueltas. = Miguel",
+    "[García Fer]nandez. =",
+    "[… Dios gu]arde á Ud m^{s} años.",
+    "[Miguel] García Fernandez [rúbrica]",
+    "[…]",
+    "[A]gréguese al duplicado",
+    "[…]"
+   ],
+   "interpretacion": "Es el final de un oficio del juez de primera instancia Miguel García Fernández —el mismo que en 1865-66 aprobó las mensuras de Noriega (Fichas 028 y 039)— transcribiendo un auto («…a los interesados para [los fines que] estime conveniente… devueltas») y, debajo, el decreto del Departamento Topográfico: «Agréguese al duplicado». Indica que la división fue aprobada judicialmente, pero la fecha y los términos quedan fuera de la toma."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la mensura y división del campo de los herederos de Martín Galeano",
+   "img": "img/f/048/03.jpg",
+   "fuente": "IMG_7253.JPG",
+   "orientacion": "Pliego apaisado con marco de un filete; el NO a la izquierda y el NE arriba; flecha «N.V.» en diagonal con una cruz de puntos y la variación «11° 28′ N.E.»; contorno del campo en rosado; escala gráfica transversal de 6000 metros; «Giles Mayo de 1865 – José María Muñiz».",
+   "interpretacion": "Hexágono alargado. Arriba, línea de 8059,66 m con Ángela Casco de Saraví, que arranca junto a la Cañada de Giles («Arranque»). A la derecha, el campo termina en punta: un lado sobre la cañada (N 19° 4′ E, 2697,19 m, lindero Pedro Pablo Rodríguez) y otro oblicuo contra «Monsalvo» (N 77° 40′ E, 2188,38 m); en el vértice, un rayado de bañado y la casa con monte de «C. Buterfield». Abajo, 7154,02 m contra Remigio Acuña, Fernando Monsalvo y F. Ordóñez. A la izquierda, el fondo de 4156,80 m (4800 varas) y, detrás, la franja de tierra pública concedida a Sotero Galeano, con las poblaciones de Flores, Nisson y Butterfield; más allá, Duberty y Morgan. Cinco líneas paralelas separan las seis hijuelas; cada una lleva su superficie en metros y en varas cuadradas, su largo y un mojón a 4391,5 m.",
+   "referencias": [
+    [
+     "Arranque",
+     "Esquinero N, junto a la Cañada de Giles; de allí se cuentan 208,8 · 966,5 · 3117 · 4000 · 5314 m hacia el NO"
+    ],
+    [
+     "N 47° 42′ O 8059,66",
+     "Línea divisoria con Ángela Casco de Saraví (Ficha 005); mojones de Eguía de 1856"
+    ],
+    [
+     "S 42° 18′ O 4156,80",
+     "Fondo NO = 4800 varas; es el frente del sobrante de Sotero Galeano (Ficha 034: 4156,8 × 767,9 m)"
+    ],
+    [
+     "Terreno Público concedido…",
+     "Sobrante fiscal de 420,40 ha medido por Muñiz el 27/4/1865 (Ficha 034)"
+    ],
+    [
+     "S 47° 42′ E (cinco líneas)",
+     "Divisorias de las hijuelas: 8293,95 · 8214,87 · 7956,20 · 7773,30 · 7351,9 m; costado SO 7154,02 m"
+    ],
+    [
+     "4391,5",
+     "Mojón intermedio en cada divisoria, a la misma distancia del fondo (¿línea de una división anterior?)"
+    ],
+    [
+     "N 19° 4′ E 2697,19",
+     "Lado sobre la Cañada de Giles, lindero Pedro Pablo Rodríguez; rayado de bañado en el vértice"
+    ],
+    [
+     "N 77° 40′ E 2188,38",
+     "Lado oblicuo contra «Monsalvo»; cada hijuela toca en él 342,26 · 727,70 · 315,22 · 440,35 · 244,27 m"
+    ],
+    [
+     "C. Buterfield",
+     "Casa con monte de Carlos Butterfield junto al vértice E: la «casa de Butterfill» del mojón discutido en 1866 (Ficha 037)"
+    ],
+    [
+     "Linderos SO",
+     "Remigio Acuña (2693,26 m), Fernando Monsalvo (4029,63 m), F. Ordóñez (1234,05 m)"
+    ],
+    [
+     "Poblaciones",
+     "San Martín, dos puestos, José Padín, Sotero Galeano, Butterfield (dentro); Flores, S. Nisson, Butterfield (en la tierra pública)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: mitad NO, con las superficies de las hijuelas",
+   "img": "img/f/048/04.jpg",
+   "fuente": "IMG_7254.JPG",
+   "orientacion": "Toma parcial.",
+   "interpretacion": "Se leen los seis nombres con sus superficies dobles (metros y varas cuadradas), los anchos sobre el fondo y, a la izquierda, la franja de tierra pública con la línea exterior S 43° 42′ O de 4207,02 m.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: ángulo N y costado sobre la Cañada de Giles",
+   "img": "img/f/048/05.jpg",
+   "fuente": "IMG_7255.JPG",
+   "orientacion": "Toma parcial.",
+   "interpretacion": "El «Arranque», la población «S.n Martín» (Felipe San Martín, apoderado de Sotero Galeano en 1864), el costado N 19° 4′ E sobre la cañada y la casa de C. Butterfield con su arboleda.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: vértice E y costado contra Monsalvo",
+   "img": "img/f/048/06.jpg",
+   "fuente": "IMG_7256.JPG",
+   "orientacion": "Toma parcial.",
+   "interpretacion": "Los tramos en que cada hijuela corta el lado N 77° 40′ E y el empalme con la línea de Remigio Acuña.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: ángulo NO, flecha de la variación",
+   "img": "img/f/048/07.jpg",
+   "fuente": "IMG_7257.JPG",
+   "orientacion": "Toma parcial.",
+   "interpretacion": "La flecha «N.V.» con la cruz de puntos y la cifra 11° 28′ N.E.; poblaciones de José Padín y Sotero Galeano en la hijuela de Juan Bautista.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Un duplicado sin texto",
+   "texto": "De esta carpeta sólo se fotografiaron la carátula, la portadilla y el plano (con cuatro detalles). La diligencia, el extracto de títulos y las hijuelas escritas quedan por fotografiar; del texto sólo asoma el borde del último folio. Todo lo que sigue se apoya en el plano y en las Fichas 034, 037 y 046."
+  },
+  {
+   "titulo": "El título redondo detrás del metro",
+   "texto": "Muñiz rotula cada hijuela en metros y en varas cuadradas. Las cifras en varas son las del reparto: 43.200.000 v² en total (4800 × 9000 varas = 1,2 leguas cuadradas), con cuotas de 2.700.000 (un dieciseisavo), 3.600.000 (un doceavo), 3.924.000, 5.996.250 y 24.279.750 v². El fondo de 4156,80 m es 4800 varas justas. El metro registra; la cuenta de la herencia se hizo en varas."
+  },
+  {
+   "titulo": "Partición desigual",
+   "texto": "La Ficha 034 hablaba de «seis hijuelas longitudinales»; el plano muestra que no son partes iguales: Juan Bautista Galeano concentra el 56 % (1820,9 ha), con las poblaciones de José Padín, San Martín y Sotero Galeano dentro. Es la figura del coheredero «recomponedor» que ya apareció con Francisco A. Casco (046) y Benedicta Figueroa (043). Falta saber —está en el texto no fotografiado— qué partes compró y a quién."
+  },
+  {
+   "titulo": "Mensura privada y sobrante fiscal, una sola campaña",
+   "texto": "El 27 de abril de 1865 Muñiz mide para Sotero Galeano el sobrante fiscal del fondo (Ficha 034); en mayo divide el campo de la testamentaría. El plano de la división ya rotula aquella franja «Terreno Público concedido a D. Sotero Galeano»: el heredero denunció el exceso del campo familiar ANTES de partirlo, y la partición se dibuja con el sobrante afuera. Tipo (a) del ciclo de las sobras: blindar el campo propio."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "La «Cañada de Giles» es aquí el lado E del campo, con rayado de bañado en el vértice donde nace el arroyo; allí mismo, la casa con monte de C. Butterfield, la que en 1866 explicará la disputa del mojón (Ficha 037). Once poblaciones marcadas con un rombo; dos llevan nombre británico (Butterfield, Nisson) y una está en la tierra pública. Ningún camino dibujado."
+  },
+  {
+   "titulo": "Cruces y preguntas abiertas",
+   "texto": "Con 005 (Saraví), 034 (sobrante), 037 (Monsalvo–Acuña) y 046 (Casco) el bloque queda cerrado: comparar N 47° 42′ O (Muñiz) con N 46° 48′ O (Differt, 1868) y N 47° 20′ O (Fremiot, 1865) para líneas que deberían ser paralelas. La cota «7292» del ángulo NO no cierra con los 8059,66 m: releer en el original. ¿Qué es el mojón a 4391,5 m? En 1866 Carlos Butterfield figura como dueño de la «testamentaría de Galeano»: ¿compró la hijuela de Juan Bautista? Pedir a Juan las fotos del texto."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Martín Galeano y Micaela Casco",
+   "rol": "Causantes",
+   "texto": "Matrimonio dueño del campo de 4800 × 9000 varas al SO del de Ángela Casco de Saraví; ella era de la familia Casco de la margen oeste (Ficha 034). Martín Galeano figura ya como lindero S del título de María Lencina en 1827 (Ficha 046). La búsqueda en la web no dio datos propios.",
+   "fuentes": "Fichas 034, 046; esta mensura."
+  },
+  {
+   "nombre": "Juan Bautista Galeano",
+   "rol": "Heredero principal",
+   "texto": "Recibe 1820,87 ha, más de la mitad del campo, en la faja lindera con los Saraví. Sin otros datos.",
+   "fuentes": "Esta mensura."
+  },
+  {
+   "nombre": "Juan de la Rosa, Francisca, Tiburcio, Leonardo y Melchor Galeano",
+   "rol": "Herederos",
+   "texto": "Hijuelas de 269,98 · 294,29 · 202,49 · 449,69 · 202,49 ha. Melchor y Sotero Galeano tenían población propia según la tabla de visuales de la Ficha 034.",
+   "fuentes": "Ficha 034; esta mensura."
+  },
+  {
+   "nombre": "Sotero Galeano",
+   "rol": "Heredero y denunciante del sobrante",
+   "texto": "No recibe hijuela con su nombre, pero tiene población dentro de la de Juan Bautista y la concesión del sobrante fiscal del fondo (420,40 ha), que pasa en 1868 al Dr. Mezquita (Ficha 034).",
+   "fuentes": "Ficha 034."
+  },
+  {
+   "nombre": "José María Muñiz",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor público activo en el partido en el otoño de 1865: en marzo mide las fajas de Pedro Antonio Quevedo y Antonio B. Silva (Fichas 049 y 050), en abril las hijuelas Quevedo (051) y el sobrante de Sotero Galeano (034), en mayo la testamentaría de Martín Galeano (048). Usa en las cinco la misma variación, 11° 28′ NE, calculada por triángulo esférico con logaritmos. Dibuja con rótulos de plantilla en cursiva inglesa, contorno rosado y flecha con una cruz de puntos. La búsqueda en la web no arrojó datos biográficos.",
+   "fuentes": "Fichas 034, 036, 048-051. Búsqueda web sin resultados (octubre de 2026)."
+  },
+  {
+   "nombre": "Carlos Butterfield · S. Nisson",
+   "rol": "Pobladores",
+   "texto": "Butterfield tiene tres poblaciones: una con monte en el vértice E, otra en la hijuela de Leonardo y otra en la tierra pública. En 1866 figura como dueño de la «testamentaría de Galeano» (Ficha 037). «S. Nisson» es el Santiago Nisson [¿Nixon?] de la Ficha 034.",
+   "fuentes": "Fichas 034, 037; villa_irlanda.md."
+  },
+  {
+   "nombre": "Otros nombrados",
+   "rol": "Linderos y autoridades",
+   "texto": "Ángela Casco de Saraví (005); Pedro Pablo Rodríguez; Fernando Monsalvo y Remigio Acuña (037); F. Ordóñez (el Cirilo Ordóñez «rebelde» de 034, o un pariente); F. Duberty y Morgan (029, 038); José Padín; Felipe San Martín; Flores; juez Miguel García Fernández.",
+   "fuentes": "Fichas 005, 029, 034, 037, 038."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/048/02.jpg",
+  "fuente": "IMG_7252.JPG",
+  "lineas": [
+   "Sec^{n} Areco        Giles",
+   "n^{o} 172        48",
+   "Duplicado de la dilijencia de mensura y",
+   "division del terreno perteneciente á los",
+   "Herederos de D. Martin Galeano, en el",
+   "Partido de Giles –",
+   "en Mayo de ~~185~~ 1865",
+   "por el agrimensor Muñiz"
+  ]
+ },
+ "titulo": "Herederos de Martín Galeano",
+ "estado": "Transcripta (2 hojas, 48 renglones), 5 láminas"
+}

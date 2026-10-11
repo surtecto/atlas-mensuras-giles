@@ -1,0 +1,272 @@
+{
+ "carpeta": "50",
+ "carpeta_nombre": "Carpeta 50",
+ "archivo": "Ficha 050 - Antonio B. Silva (1865).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles",
+  "N.º de duplicado": "50 (portadilla: «Sección Areco N.º 174»)",
+  "Propietario / solicitante": "Antonio B. Silva",
+  "Agrimensor": "José María Muñiz",
+  "Año": "1865",
+  "Fecha de la diligencia": "Marzo de 1865 (la carátula moderna dice «1885» por error)",
+  "Ubicación": "Entre la Cañada del Sauce y la Cañada de la Cruz (merced de Vivar)",
+  "Orden judicial": "Juez de 1.ª Instancia (asoma un escrito; texto no fotografiado)",
+  "Vendedor / antecesor": "Hijuela del campo de Tadeo Rodríguez (Ficha 047)",
+  "Linderos citados": "P. P. Rodríguez (NE) · P. A. Quevedo (SO) · Sosa/Torres (NO) · J. N. de Cano (SE)",
+  "Medidas": "433 m (500 v) de frente por 6895,67 / 6902 m; ≈ 298,7 ha",
+  "Rumbos": "S 30° 54′ E · N 59° 6′ E · S 58° 15′ O; variación 11° 28′ NE",
+  "Referencia de archivo": "Duplicado 50; antes «Sección Areco N.º 174»"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 298,7 (433 × 6899 m)",
+  "hitos": "«Piedra» sobre la Cañada del Sauce; casas cercadas de Silva y Quevedo; dos poblaciones Rodríguez",
+  "aguas": "Cañada del Sauce; Cañada de la Cruz con un afluente"
+ },
+ "sintesis": "Duplicado del que se fotografió el plano y un margen del último folio. José María Muñiz mide en marzo de 1865 la faja de Antonio B. Silva: 433 m (500 varas) de frente por unos 6900 m, de la Cañada del Sauce a la de la Cruz, ≈ 298,7 ha, rumbo S 30° 54′ E. Es el mismo dibujo de la Ficha 049, con el contorno corrido una faja; muestra al NO a Sosa «hoy L. Torres». El fragmento de texto conserva el cierre de la diligencia (Felipa Quevedo, «nueve mil varas», Pablo Rodríguez), la nota de citación y la planilla solar: azimut magnético del Sol N 56° 43′ O, logaritmos y resultado 11° 28′ E, la variación de toda la campaña de Muñiz. La carátula dice 1885 por error.",
+ "caratula": {
+  "img": "img/f/050/01.jpg",
+  "fuente": "IMG_7264.JPG",
+  "campos": [
+   [
+    "N.º",
+    "50"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Antonio B. Silva"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "José M.ª Muñiz"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1885 [sic, por 1865]"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano",
+   "img": "img/f/050/03.jpg",
+   "fuente": "IMG_7266 a IMG_7268",
+   "nota": "El texto de la diligencia NO está fotografiado. Las cifras invertidas en el original se dan derechas.",
+   "lineas": [
+    "[flecha, en diagonal:] N.V.   11° 28′ N.E.",
+    "[fajas, de NE a SO:] Pedro Pablo Quevedo",
+    "Pedro Pablo Rodriguez",
+    "S 30° 54′ E . . 6895,67        [cotas:] 1732 · 3270",
+    "Antonio B. Silva",
+    "N 30° 54′ O 6902        [cota, desde el SE:] 3632 [?]",
+    "Pedro Antonio Quevedo",
+    "[poblaciones:] Rodriguez · Rod^{z} · Silva · Quevedo",
+    "[al NO, en vertical:] J. J. Sosa   (Hoy L. Torres)        Lorenzo Torres",
+    "Gregoria Rodriguez de Castro",
+    "[frente NO:] N 59° 6′ E . . 433",
+    "[sobre el frente:] A   ·   1299 · 823 [?] · 946 [?] · 390",
+    "Cañ. del Sauce        Piedra",
+    "[en vertical, junto a la cañada:] Terreno comprado por D. Ro-",
+    "que Almiron á D. Tadeo",
+    "Rodriguez Florez",
+    "[fondo SE:] S 58° 15′ O – 433,06        2600",
+    "Cañ. de la Cruz",
+    "[linderos SE, en vertical:] Josefa N. de Cano",
+    "Zambrano",
+    "P. Salas",
+    "(Antes Schreiber [?])",
+    "[escala gráfica:] 5000 · 4000 · 3000 · 2000 · 1000 · 0 · 500 · 1000   Metros",
+    "Giles Marzo de 1865",
+    "José M^{a} Muñiz"
+   ],
+   "interpretacion": "Es el mismo dibujo de la Ficha 049, con el contorno rosado corrido una faja al NE: la de Antonio B. Silva, 433 m de frente (500 varas) por 6895,67 m en el costado NE y 6902 en el SO —el mismo costado que comparte con Pedro Antonio Quevedo—: unas 298,7 ha.\nAquí el pliego no quedó tapado por la costura y se leen los linderos del frente, del otro lado de la Cañada del Sauce: «J. J. Sosa (hoy L. Torres)» y «Lorenzo Torres»: la faja de los Sosa comprada por Torres en 1859 y la estancia Santa Elena (Ficha 044). La casa cercada de Silva está sobre su línea NE, a caballo del lindero con Pedro Pablo Rodríguez."
+  },
+  {
+   "titulo": "Final de la diligencia y cálculo de la variación (fragmento visible junto al plano)",
+   "img": "img/f/050/06.jpg",
+   "fuente": "IMG_7266.JPG (borde izquierdo)",
+   "nota": "Sólo asoma el margen derecho del último folio escrito. Tres bloques con la firma de Muñiz: cierre de la diligencia, nota de citación y planilla de la observación solar. Arriba del plano, otro folio: «[Se]ñor Juez de 1.ª Ynstancia», con sello de foliatura «4».",
+   "lineas": [
+    "[…]s por D^{a} Felipa",
+    "[… Queve]do, de quien es",
+    "[…] nueve mil varas de",
+    "[…] D. Pablo Rodriguez",
+    "[…] refiere solamente",
+    "[…] que es próxima –",
+    "[…] de once grados veinte",
+    "[y ocho minutos …]",
+    "[José] Maria Muñiz [rúbrica]",
+    "[…]s Rodriguez, Quevedo",
+    "[…]ñez de Cano y por",
+    "[… Pedro Pa]blo Quevedo – me-",
+    "[…]",
+    "[José] M^{a} Muñiz [rúbrica]",
+    "[Observaci]on",
+    "[… 186]5 – azim. mag. ☉ N 56° 43′ O",
+    "[…] 9.94437",
+    "[…] 9.91642",
+    "[…]",
+    "[…] 1.87772",
+    "[…] 9.96350",
+    "19.90043 [?]",
+    "9.96521",
+    "[…]7° 22′ 30",
+    "[…]4° 45′",
+    "[…]5° 15′ 0",
+    "[…]6° 47′ 0",
+    "11° 28′ E",
+    "José M^{a} Muñiz"
+   ],
+   "interpretacion": "Tres retazos. (1) El cierre de la diligencia nombra a «D.ª Felipa [Queve]do», «nueve mil varas de [fondo]» y «D. Pablo Rodríguez», y dice que algo «refiere solamente» y «es próxima»: parece una observación sobre los títulos —las nueve mil varas de fondo nominal que en el terreno son 7900, como en las Fichas 036 y 042— y termina con la variación «de once grados veinte [y ocho minutos]».\n(2) Una nota de citación: «…Rodríguez, Quevedo, …ñez de Cano y por … Pablo Quevedo», es decir, los linderos que asistieron o firmaron.\n(3) La planilla de la observación: «azimut magnético del Sol N 56° 43′ O», cinco logaritmos y el resultado «11° 28′ E». Es el método de triángulo esférico que Muñiz declara en la Ficha 034, y prueba que la cifra usada en abril y mayo se calculó ya en marzo, en este campo."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Antonio B. Silva",
+   "img": "img/f/050/03.jpg",
+   "fuente": "IMG_7266.JPG",
+   "orientacion": "Pliego apaisado en papel tela, muy manchado de hongos; marco de un filete; el NO a la izquierda; flecha con «11° 28′ N.E.»; contorno rosado; escala de 5000 + 1000 metros; «Giles Marzo de 1865 – José M.ª Muñiz».",
+   "interpretacion": "Las mismas cinco fajas de la Ficha 049, con la de Silva en rosa. Frente sobre la Cañada del Sauce (con la «Piedra» y el rótulo de Roque Almirón) y fondo sobre la Cañada de la Cruz. Al NO, los Torres; al SE, Josefa N. de Cano, Zambrano y P. Salas. Cuatro poblaciones: «Rodríguez» en la faja de Pedro Pablo Rodríguez, «Rod.z» dentro de la de Silva (un Rodríguez poblado en tierra de Silva), y las casas cercadas de Silva y de Quevedo.",
+   "referencias": [
+    [
+     "A",
+     "Esquinero S de la faja de Silva (= esquinero N de la de Quevedo en la Ficha 049)"
+    ],
+    [
+     "S 30° 54′ E 6895,67",
+     "Costado NE, divisorio de Pedro Pablo Rodríguez; mojones a 1732 y 3270 m"
+    ],
+    [
+     "N 30° 54′ O 6902",
+     "Costado SO, común con Pedro Antonio Quevedo (la misma cifra en la Ficha 049)"
+    ],
+    [
+     "N 59° 6′ E 433",
+     "Frente NO (500 varas); 390 m desde la «Piedra» hasta el esquinero N"
+    ],
+    [
+     "S 58° 15′ O 433,06",
+     "Fondo SE, sobre la Cañada de la Cruz, lindero Josefa N. de Cano"
+    ],
+    [
+     "J. J. Sosa (Hoy L. Torres)",
+     "Faja de los Sosa comprada por el Dr. Lorenzo Torres en 1859 (Ficha 044)"
+    ],
+    [
+     "Rod.z",
+     "Población de un Rodríguez DENTRO de la faja de Silva"
+    ],
+    [
+     "Silva",
+     "Casa con cerco en rombo, sobre la línea NE, antes de la Cañada de la Cruz"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: frente sobre la Cañada del Sauce",
+   "img": "img/f/050/04.jpg",
+   "fuente": "IMG_7267.JPG",
+   "orientacion": "Toma parcial.",
+   "interpretacion": "Linderos Sosa/Torres, punto A, «Piedra», rótulo de Almirón y las dos poblaciones Rodríguez.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: fondo sobre la Cañada de la Cruz",
+   "img": "img/f/050/05.jpg",
+   "fuente": "IMG_7268.JPG",
+   "orientacion": "Toma parcial.",
+   "interpretacion": "Casas de Silva y Quevedo, la cañada con su afluente y el fondo de 433,06 m.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Un duplicado casi sin texto",
+   "texto": "Se fotografiaron carátula, portadilla y plano; del texto sólo asoma un margen del último folio, que por suerte trae el cierre de la diligencia y la planilla de la variación. La carátula moderna fecha la mensura en «1885»: es 1865 (portadilla y plano)."
+  },
+  {
+   "titulo": "Tres mensuras, un solo plano",
+   "texto": "Las Fichas 049, 050 y 051 son tres planos de una misma campaña de Muñiz (marzo-abril de 1865) sobre fajas contiguas de rumbo S 30° 54′ E, entre la Cañada del Sauce y la de la Cruz. Encadenadas, de NE a SO: herederos de Ormaechea | Felipa Quevedo 141,89 m | Faustina Quevedo de Rodríguez 403,55 | Manuela Quevedo 606,2 | Pedro Pablo Quevedo 433 | [Piedra] | Pedro Pablo Rodríguez 390 | Antonio B. Silva 433 | Pedro Antonio Quevedo 476 | Gregoria Rodríguez de Castro. Son las fajas del NE del cuadrado de Tadeo Rodríguez que Differt dibujará entero en 1868 (Ficha 047), y lindan con la faja de Ormaechea que Gonnet medirá en 1866 (Ficha 036) con rumbo S 31° 29′ E: 35′ de diferencia con Muñiz."
+  },
+  {
+   "titulo": "La variación de muñiz, fechada",
+   "texto": "El fragmento conserva «azim. mag. ☉ N 56° 43′ O», los logaritmos (9.94437, 9.91642, 1.87772, 9.96350; sumas 19.90043 [?] y 9.96521) y el resultado 11° 28′ E. En la Ficha 034 Muñiz dice haber calculado la variación el 27/4/1865 con latitud 34° 25′ S; aquí la misma cifra está ya en marzo. O la observación es de marzo y la de abril la repite, o hizo dos con igual resultado: comparar las dos planillas."
+  },
+  {
+   "titulo": "Las nueve mil varas",
+   "texto": "El retazo «…nueve mil varas de…» con Felipa Quevedo y Pablo Rodríguez apunta al problema de toda la merced de Vivar: títulos de «legua y media de fondo» (9000 v = 7794 m) sobre fajas que en el terreno miden 6900 m entre las dos cañadas (Fichas 036, 042). Muñiz parece dejar constancia de que el título «refiere solamente» una medida «próxima»."
+  },
+  {
+   "titulo": "Un poblador ajeno dentro de la faja",
+   "texto": "La población «Rod.z» está dentro del contorno de Silva: un Rodríguez —la familia del tronco— sigue viviendo en la faja vendida. La casa de Silva, en cambio, está en el otro extremo, junto a la Cañada de la Cruz."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Es Antonio B. Silva el «Benjamín Silva» de la Ficha 044 y el «Antonino Silva» de la 035? (¿Antonio Benjamín?) ¿A quién compró? El escrito al juez del folio 4 y toda la diligencia quedan por fotografiar."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Antonio B. Silva",
+   "rol": "Propietario",
+   "texto": "Dueño de la faja de 500 varas, con casa cercada junto a la Cañada de la Cruz. Meyrelles llama en 1867 «Benjamín Silva» al dueño de los mojones sobre la línea de Vivar (Ficha 044) y Fremiot «Antonino Silva» al de una fracción Peñalva (035): podrían ser la misma persona. Sin otros datos.",
+   "fuentes": "Esta mensura; Fichas 035, 044, 049."
+  },
+  {
+   "nombre": "José María Muñiz",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor público activo en el partido en el otoño de 1865: en marzo mide las fajas de Pedro Antonio Quevedo y Antonio B. Silva (Fichas 049 y 050), en abril las hijuelas Quevedo (051) y el sobrante de Sotero Galeano (034), en mayo la testamentaría de Martín Galeano (048). Usa en las cinco la misma variación, 11° 28′ NE, calculada por triángulo esférico con logaritmos. Dibuja con rótulos de plantilla en cursiva inglesa, contorno rosado y flecha con una cruz de puntos. La búsqueda en la web no arrojó datos biográficos.",
+   "fuentes": "Fichas 034, 036, 048-051. Búsqueda web sin resultados (octubre de 2026)."
+  },
+  {
+   "nombre": "Felipa Quevedo · Pablo Rodríguez",
+   "rol": "Nombrados en el texto",
+   "texto": "Felipa Quevedo es la dueña de la faja más angosta del bloque (141,89 m, Ficha 051), perjudicada por la sobreposición con Ormaechea (036) y a quien Differt propone compensar en 1868 (047). Pablo (Pedro Pablo) Rodríguez es el lindero NE de Silva.",
+   "fuentes": "Fichas 036, 047, 051."
+  },
+  {
+   "nombre": "Otros nombrados",
+   "rol": "Linderos",
+   "texto": "Pedro Antonio Quevedo (049); Pedro Pablo Quevedo; Gregoria Rodríguez de Castro; Tadeo Rodríguez Flórez y Roque Almirón; J. J. (Juan José) Sosa y Lorenzo Torres (044); Josefa N. [¿Núñez?] de Cano; Zambrano; P. Salas y Schreiber [?].",
+   "fuentes": "Fichas 044, 047, 049."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/050/02.jpg",
+  "fuente": "IMG_7265.JPG",
+  "lineas": [
+   "Sec^{n} Areco        Giles",
+   "n^{o} 174.        50",
+   "Duplicado de la dilijencia de mensura del",
+   "terreno perteneciente á D. Antonio B. Sil-",
+   "va, en el Partido de Giles –",
+   "practicada en Marzo de 1865 –",
+   "por el Agrimensor Muñiz"
+  ]
+ },
+ "titulo": "Antonio B. Silva",
+ "estado": "Transcripta (2 hojas, 54 renglones), 3 láminas"
+}

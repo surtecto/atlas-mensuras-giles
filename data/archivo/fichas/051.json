@@ -1,0 +1,249 @@
+{
+ "carpeta": "51",
+ "carpeta_nombre": "Carpeta 51",
+ "archivo": "Ficha 051 - Faustina, Manuela y Felipa Quevedo (1865).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles",
+  "N.º de duplicado": "51 (portadilla moderna, sin número de Sección Areco)",
+  "Propietario / solicitante": "Faustina, Manuela y Felipa Quevedo",
+  "Agrimensor": "José María Muñiz",
+  "Año": "1865",
+  "Fecha de la diligencia": "Abril de 1865 (plano); el texto no está fotografiado",
+  "Ubicación": "Entre la Cañada del Sauce y la Cañada de la Cruz, junto a Ormaechea",
+  "Orden judicial": "No consta (¿juez Cazón o Echeverría?, ver Ficha 036)",
+  "Vendedor / antecesor": "Hijuelas Quevedo del campo de Tadeo Rodríguez (Fichas 036, 047)",
+  "Linderos citados": "Her. de Manuel A. Ormaechea · A. de la Riestra · Francisco Cano · Pablo Rodríguez",
+  "Medidas": "Frentes 141,89 + 403,55 + 606,2 m (+ 433 de P. P. Quevedo) por ≈ 6870 m",
+  "Rumbos": "S 30° 54′ E · N 59° 6′ E · S 58° 15′ O; variación 11° 28′ NE",
+  "Referencia de archivo": "Duplicado 51; portadilla rehecha en el siglo XX"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 791,7 (97,4 + 277,3 + 417,0); P. P. Quevedo ≈ 298,2",
+  "hitos": "«Piedra» sobre la Cañada del Sauce; casa «El Tala»; casa con quinta de Josefa Ormaechea; Bruno Torres; un puesto",
+  "aguas": "Cañada del Sauce; Cañada de la Cruz (dos brazos)"
+ },
+ "sintesis": "Duplicado del que sólo se fotografió el plano. José María Muñiz mide y divide en abril de 1865 las hijuelas de las hermanas Quevedo, entre la Cañada del Sauce y la de la Cruz: Felipa (141,89 m de frente), Faustina de Rodríguez (403,55) y Manuela (606,2), unas 791,7 ha, junto a la faja de su hermano Pedro Pablo (433 m), con rumbo S 30° 54′ E. Lindan al NE con los herederos de Manuel A. Ormaechea: es la mensura de Muñiz que el Departamento Topográfico mandó modificar en 1866 al prevalecer la de Gonnet (Ficha 036); la faja de Felipa coincide con la lonja superpuesta. Con las Fichas 049 y 050 forma un bloque continuo contado desde una misma «Piedra». Nombra la casa «El Tala». Falta todo el texto.",
+ "caratula": {
+  "img": "img/f/051/01.jpg",
+  "fuente": "IMG_7269.JPG",
+  "campos": [
+   [
+    "N.º",
+    "51"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Faustina Quevedo de Rodríguez y Manuela y Felipa Quevedo"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "José M.ª Muñiz"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1865"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano (folio único fotografiado)",
+   "img": "img/f/051/03.jpg",
+   "fuente": "IMG_7271 a IMG_7273",
+   "nota": "El texto de la diligencia NO está fotografiado. Rótulos en redondilla caligráfica, de otra mano que los de las Fichas 049-050. Las cifras invertidas se dan derechas.",
+   "lineas": [
+    "[flecha:] N   11° 28′ N E",
+    "[lindero NE:] Herederos de D. Manuel A. Ormaechea",
+    "[poblaciones sobre esa línea:] Josefa Ormaechea · Isidoro Orm. [?]",
+    "S. 30° 54′. E        6866 ^{m}        [cotas:] 1732 · 3270 · 5179",
+    "Felipa Quevedo",
+    "6868,24        [cotas:] 1732 · 3270 · 5179        Bruno Torres",
+    "Faustina Quevedo de Rodriguez",
+    "S 30° 54′. E        6874,30        [cotas:] 1732 · 3270 · 5179",
+    "Manuela Quevedo",
+    "N. 30° 54′ O        6883,39        [cotas, desde el SE:] 1704 [?] · 3613 [corrige ~~3270~~] · 5151        El Tala",
+    "Pedro Pablo Quevedo        • Puesto",
+    "N 30° 54′ O        6890        [cotas, desde el SE:] 1704 [?] · 5151",
+    "Pablo Rodriguez",
+    "[frente NO, en vertical:] A. de la Riestra",
+    "Cañada Del Sauce        Piedra",
+    "N. 59° 6′. E        141,89 · 403,55 · 606,2 · 433",
+    "[acumuladas desde la Piedra:] 1039,2 · 1442,7 · 1585,5",
+    "[fondo SE, en vertical:] Francisco Cano",
+    "S 58° 15′. O.        1152,60        142,96 [?] · 403,55 · 606,22",
+    "Cañada de la Cruz",
+    "[regla:] 0 · 200 · 400 · … · 4000",
+    "Escala de 1:20000 metros",
+    "Giles Abril de 1865",
+    "José M^{a} Muñiz"
+   ],
+   "interpretacion": "Cuatro fajas paralelas, del arroyo/cañada del Sauce a la Cañada de la Cruz, pegadas al costado SO del campo de los Ormaechea. Tres son el objeto de la «mensura y división» —Felipa Quevedo, 141,89 m de frente (≈ 97,4 ha); Faustina Quevedo de Rodríguez, 403,55 m (≈ 277,3 ha); Manuela Quevedo, 606,2 m (≈ 417 ha): 1151,6 m y unas 791,7 ha en total— y la cuarta, de 433 m (500 varas), es de su hermano Pedro Pablo Quevedo, que sirve de lindero. Las distancias acumuladas (1039,2 · 1442,7 · 1585,5) se cuentan otra vez desde la «Piedra» de la Cañada del Sauce: la misma de las Fichas 049 y 050, vista desde el otro lado.\nLa faja de Felipa, de sólo 141,89 m por 6,87 km (1:48), es la que queda contra Ormaechea. ESTA es la mensura de Muñiz que el Departamento Topográfico informó favorablemente y seis meses después mandó «modificar» para hacer prevalecer la de Gonnet (Ficha 036): la «lonja de 157 m por todo el largo» que se superpone con el título de Ormaechea se come, justamente, la faja de Felipa."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la mensura y división de las hijuelas Quevedo",
+   "img": "img/f/051/03.jpg",
+   "fuente": "IMG_7271.JPG",
+   "orientacion": "Pliego grande, papel grueso amarillento, marco de un filete; el NO a la izquierda; flecha gruesa «N» con «11° 28′ N E»; fajas lavadas en gris; regla graduada de 200 en 200 hasta 4000 y leyenda «Escala de 1:20000 metros»; «Giles Abril de 1865 – José M.ª Muñiz».",
+   "interpretacion": "Rectángulo de cuatro fajas. Arriba, en letra grande, «Herederos de D. Manuel A. Ormaechea»; abajo «Pablo Rodríguez»; a la izquierda la Cañada del Sauce y «A. de la Riestra»; a la derecha «Francisco Cano». La Cañada de la Cruz cruza las cuatro fajas a unos 5500 m del frente y se abre en dos brazos al salir por el SO. Junto al esquinero N, del lado de Ormaechea, la casa con quinta cuadriculada de «Josefa Ormaechea» (la «azotea de Ormachea» de 1862); sobre la línea Manuela/Pedro Pablo, antes de la cañada, la casa con monte «El Tala»; un «Puesto» en la faja de Pedro Pablo y la población de «Bruno Torres» sobre la línea Felipa/Faustina.",
+   "referencias": [
+    [
+     "Piedra",
+     "Mojón de piedra en el esquinero O de la faja de Pedro Pablo Quevedo, sobre la Cañada del Sauce: origen de las acumuladas"
+    ],
+    [
+     "N 59° 6′ E",
+     "Frente NO: 433 (P. P. Quevedo) · 606,2 (Manuela) · 403,55 (Faustina) · 141,89 (Felipa) = 1584,64 m (rotulado 1585,5)"
+    ],
+    [
+     "S 58° 15′ O 1152,60",
+     "Fondo SE de las tres hijuelas: 606,22 + 403,55 + 142,96 [?]"
+    ],
+    [
+     "6866 · 6868,24 · 6874,30 · 6883,39 · 6890",
+     "Largos de las cinco líneas, de NE a SO (crecen porque frente y fondo divergen 51′)"
+    ],
+    [
+     "1732 · 3270 · 5179",
+     "Mojones intermedios (2000 v; ≈ 3776 v; ≈ 5980 v) contados desde el frente"
+    ],
+    [
+     "3613 (corrige 3270)",
+     "Mojón sobre la línea Manuela/P. P. Quevedo contado desde el fondo: 6883 − 3613 = 3270"
+    ],
+    [
+     "Josefa Ormaechea",
+     "Casa con quinta de Josefa Arévalo de Ormaechea, fuera del terreno, junto al esquinero N (Fichas 032, 036)"
+    ],
+    [
+     "El Tala",
+     "Casa con monte sobre la divisoria Manuela / Pedro Pablo Quevedo: primer topónimo-árbol de este bloque"
+    ],
+    [
+     "Bruno Torres",
+     "Población sobre la divisoria Felipa / Faustina, a 3270 m del frente"
+    ],
+    [
+     "A. de la Riestra · Francisco Cano",
+     "Linderos de frente (Ficha 006) y de fondo (el «Cano» de 036)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: frente sobre la Cañada del Sauce",
+   "img": "img/f/051/04.jpg",
+   "fuente": "IMG_7272.JPG",
+   "orientacion": "Toma parcial.",
+   "interpretacion": "Los cuatro frentes, las acumuladas, la «Piedra», la casa de Josefa Ormaechea y la flecha con la variación.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: fondo, Cañada de la Cruz, «El Tala», fecha y firma",
+   "img": "img/f/051/05.jpg",
+   "fuente": "IMG_7273.JPG",
+   "orientacion": "Toma parcial.",
+   "interpretacion": "Los anchos del fondo (142,96 [?] · 403,55 · 606,22), el total 1152,60, el curso de la Cañada de la Cruz, la casa «El Tala» y la firma.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Un duplicado sin texto y con portadilla rehecha",
+   "texto": "Sólo carátula, portadilla y plano. La portadilla es moderna (caligrafía de pluma ancha, «San Andrés de Giles N.º 51») y no conserva el número de la Sección Areco; por la serie (172, 173, 174 para las Carpetas 48-50) le correspondería el 175."
+  },
+  {
+   "titulo": "La mensura que el departamento mandó modificar",
+   "texto": "La Ficha 036 cuenta que en 1866 el D. T. hizo prevalecer la mensura de Gonnet para los Ormaechea sobre «una mensura de Muñiz que él mismo había informado favorablemente seis meses antes», por una «lonja de 157 m por todo el largo de ambos terrenos», con «dos juzgados (Cazón y Echevarría) con mensuras contradictorias». Este plano es aquella mensura: las hijuelas Quevedo medidas contra «Herederos de D. Manuel A. Ormaechea» en abril de 1865. La faja de Felipa (141,89 m) es casi exactamente la lonja disputada (157 m): si Gonnet tiene razón, Felipa se queda sin tierra. Por eso Differt propone en 1868 un sobrante «para permutar la fracción de Felipa Quevedo» (Ficha 047)."
+  },
+  {
+   "titulo": "Tres mensuras, un solo plano",
+   "texto": "Las Fichas 049, 050 y 051 son tres planos de una misma campaña de Muñiz (marzo-abril de 1865) sobre fajas contiguas de rumbo S 30° 54′ E, entre la Cañada del Sauce y la de la Cruz. Encadenadas, de NE a SO: herederos de Ormaechea | Felipa Quevedo 141,89 m | Faustina Quevedo de Rodríguez 403,55 | Manuela Quevedo 606,2 | Pedro Pablo Quevedo 433 | [Piedra] | Pedro Pablo Rodríguez 390 | Antonio B. Silva 433 | Pedro Antonio Quevedo 476 | Gregoria Rodríguez de Castro. Son las fajas del NE del cuadrado de Tadeo Rodríguez que Differt dibujará entero en 1868 (Ficha 047), y lindan con la faja de Ormaechea que Gonnet medirá en 1866 (Ficha 036) con rumbo S 31° 29′ E: 35′ de diferencia con Muñiz."
+  },
+  {
+   "titulo": "Rumbos comparados",
+   "texto": "Muñiz: fajas S 30° 54′ E, frente N 59° 6′ E, fondo S 58° 15′ O. Gonnet (036, 1866): S 31° 29′ E para la faja contigua de Ormaechea. Differt (047, 1868): N 31° 04′ O. Tres agrimensores, tres rumbos para la misma línea en tres años (35′ de dispersión): con 6,9 km de largo, medio grado son 60 m en el fondo, del orden de la faja de Felipa."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "«El Tala», casa con monte nombrada por su árbol, se suma a los ombúes y al paraíso de las fichas vecinas. La casa de Josefa Ormaechea, con quinta cuadriculada, está pegada al esquinero. La Cañada de la Cruz cruza oblicua y se bifurca. «Escala de 1:20000»: primera escala numérica de Muñiz (en 048-050 sólo gráfica)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿«Manuel A. Ormaechea» es hijo de Juan de Ormaechea (titular de 036)? El fondo de Felipa se lee 142,96 contra 141,89 del frente: revisar. ¿Quién es Bruno Torres? En 036 las hijuelas son de «Felipa, Faustina, Manuela y Pablo Quevedo»: aquí Pedro Pablo. Fotografiar el texto: debe traer la protesta de los Ormaechea o la de Llorente."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Faustina Quevedo de Rodríguez · Manuela Quevedo · Felipa Quevedo",
+   "rol": "Propietarias",
+   "texto": "Hermanas, herederas de una hijuela del campo de Tadeo Rodríguez sobre el lindero de Ormaechea. Faustina tiene en 1866 la «población de Torres» (Ficha 036: ¿la de Bruno Torres del plano?). Felipa, representada en 1866 por Andrés A. Rodríguez, protesta la mensura de Gonnet; su fracción es la que Differt propone permutar en 1868.",
+   "fuentes": "Fichas 036, 047; esta mensura."
+  },
+  {
+   "nombre": "Pedro Pablo Quevedo",
+   "rol": "Lindero so",
+   "texto": "Dueño de la faja de 433 m (500 varas) contigua a las de sus hermanas, con un puesto y la casa «El Tala» sobre su línea. En el plano de Differt (047) su faja es la última del cuadrado de Tadeo Rodríguez.",
+   "fuentes": "Fichas 047, 049, 050."
+  },
+  {
+   "nombre": "José María Muñiz",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor público activo en el partido en el otoño de 1865: en marzo mide las fajas de Pedro Antonio Quevedo y Antonio B. Silva (Fichas 049 y 050), en abril las hijuelas Quevedo (051) y el sobrante de Sotero Galeano (034), en mayo la testamentaría de Martín Galeano (048). Usa en las cinco la misma variación, 11° 28′ NE, calculada por triángulo esférico con logaritmos. Dibuja con rótulos de plantilla en cursiva inglesa, contorno rosado y flecha con una cruz de puntos. La búsqueda en la web no arrojó datos biográficos.",
+   "fuentes": "Fichas 034, 036, 048-051. Búsqueda web sin resultados (octubre de 2026)."
+  },
+  {
+   "nombre": "Herederos de Manuel A. Ormaechea · Josefa Ormaechea",
+   "rol": "Linderos ne",
+   "texto": "Sucesores del título de Juan de Ormaechea (1804). Josefa es Josefa Arévalo de Ormaechea, cuya «azotea» sirvió de visual a Gonnet en 1862 y 1866. Su mensura (Ficha 036) se superpone a ésta.",
+   "fuentes": "Fichas 032, 036."
+  },
+  {
+   "nombre": "Otros nombrados",
+   "rol": "Linderos y pobladores",
+   "texto": "A. [Álvaro] de la Riestra (Ficha 006); Francisco Cano (su «azotea» en 036); Pablo [Pedro Pablo] Rodríguez; Bruno Torres; Isidoro Orm[aechea] [?].",
+   "fuentes": "Fichas 006, 036, 049."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/051/02.jpg",
+  "fuente": "IMG_7270.JPG",
+  "lineas": [
+   "San Andres de Giles",
+   "N^{o} 51",
+   "Duplicado de la diligencia de",
+   "mensura y división del terreno perte-",
+   "neciente a D^{a} Faustina Queve-",
+   "do de Rodriguez y a D^{a} Ma-",
+   "nuela y D^{a} Felipa Quevedo",
+   "Año        Agrimensor",
+   "1865        Muñiz"
+  ]
+ },
+ "titulo": "Faustina, Manuela y Felipa Quevedo",
+ "estado": "Transcripta (1 hojas, 24 renglones), 3 láminas"
+}

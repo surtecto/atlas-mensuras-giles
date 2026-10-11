@@ -1,0 +1,252 @@
+{
+ "carpeta": "49",
+ "carpeta_nombre": "Carpeta 49",
+ "archivo": "Ficha 049 - Pedro Antonio Quevedo (1865).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles",
+  "N.º de duplicado": "49 (portadilla: «Sección Areco N.º 173»)",
+  "Propietario / solicitante": "Pedro Antonio Quevedo",
+  "Agrimensor": "José María Muñiz",
+  "Año": "1865",
+  "Fecha de la diligencia": "Marzo de 1865 (plano); el texto no está fotografiado",
+  "Ubicación": "Entre la Cañada del Sauce y la Cañada de la Cruz (merced de Vivar)",
+  "Orden judicial": "No consta (texto no fotografiado)",
+  "Vendedor / antecesor": "Hijuela del campo de Tadeo Rodríguez (Ficha 047)",
+  "Linderos citados": "A. B. Silva (NE) · G. Rodríguez de Castro (SO) · Sosa/Torres (NO) · J. N. de Cano (SE)",
+  "Medidas": "476 m (550 v) de frente por 6902 / 6909 m; ≈ 328,7 ha",
+  "Rumbos": "S 30° 54′ E · N 59° 6′ E · S 58° 15′ O; variación 11° 28′ NE",
+  "Referencia de archivo": "Duplicado 49; antes «Sección Areco N.º 173»; copia del plano de agosto de 1938"
+ },
+ "metricas": {
+  "superficie_ha": "328,7 (anotado a lápiz: 328,708)",
+  "hitos": "«Piedra» sobre la Cañada del Sauce; casas cercadas de Silva y Quevedo; poblaciones de P. P. y Pascual Rodríguez",
+  "aguas": "Cañada del Sauce; Cañada de la Cruz con un afluente"
+ },
+ "sintesis": "Duplicado del que sólo se fotografió el plano (y su copia de 1938). José María Muñiz mide en marzo de 1865 la faja de Pedro Antonio Quevedo: 476 m (550 varas) de frente por unos 6905 m, de la Cañada del Sauce a la de la Cruz, 328,7 ha, con rumbo S 30° 54′ E. El plano dibuja además las fajas vecinas de Pedro Pablo Rodríguez y Antonio B. Silva, las tres contadas desde una «Piedra» sobre la cañada (390, 823 y 1299 m = 1500 varas), y recuerda que el terreno fue «comprado por D. Roque Almirón a D. Tadeo Rodríguez Flórez». Es una de las tres mensuras encadenadas de Muñiz (Fichas 049-051) sobre el campo de Tadeo Rodríguez. Falta todo el texto.",
+ "caratula": {
+  "img": "img/f/049/01.jpg",
+  "fuente": "IMG_7258.JPG",
+  "campos": [
+   [
+    "N.º",
+    "49"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Don Pedro Antonio Quevedo"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "José María Muñiz"
+   ],
+   [
+    "Mes",
+    "Marzo"
+   ],
+   [
+    "Año",
+    "1865"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano (folio único fotografiado)",
+   "img": "img/f/049/03.jpg",
+   "fuente": "IMG_7260 a IMG_7262",
+   "nota": "El texto de la diligencia NO está fotografiado (se trasluce bajo la portadilla). Las cifras invertidas en el original se dan derechas.",
+   "lineas": [
+    "[flecha, en diagonal:] N.V.   11° 28′ N.E.",
+    "[fajas, de NE a SO:] Pedro Pablo Quevedo",
+    "Pedro Pablo Rodriguez",
+    "Antonio B. Silva",
+    "S 30° 54′ E . . . 6902        [cotas:] 1732 · 3270 · 5196",
+    "Pedro Antonio Quevedo        [a lápiz:] 328,708 [?]",
+    "N 30° 54′ O 6909        [cotas, desde el SE:] 1713 · 3439 · 5177",
+    "[poblaciones:] P. P. Rod^{z} · Pascual Rod^{z} · Silva · Quevedo",
+    "Gregoria Rodriguez de Castro",
+    "[frente NO:] N 59° 6′ E . . . 476",
+    "[sobre el frente:] A   ·   1299 · 823 [?] · 946 [?] · 390",
+    "Cañ. del Sauce        Piedra",
+    "[en vertical, junto a la cañada:] Terreno comprado por D. Ro-",
+    "que Almiron á D. Tadeo",
+    "Rodriguez Florez",
+    "[fondo SE:] S 58° 15′ O . . 476,04        2600",
+    "Cañ. de la Cruz",
+    "[linderos SE, en vertical:] Josefa N. de Cano",
+    "Zambrano",
+    "P. Salas",
+    "(Antes Schreiber [?])",
+    "[escala gráfica:] 5000 · 4000 · 3000 · 2000 · 1000 · 0 · 500 · 1000   Metros",
+    "Giles Marzo de 1865",
+    "José M^{a} Muñiz"
+   ],
+   "interpretacion": "Una faja de 476 m de ancho (550 varas) por casi siete kilómetros, de la Cañada del Sauce a la de la Cruz: 328,7 ha, cifra que alguien anotó a lápiz junto al nombre. La proporción es de 1:14,5. El frente NO tiene rumbo N 59° 6′ E y el fondo S 58° 15′ O: no son paralelos (51′), y por eso un costado mide 6902 m y el otro 6909.\nSobre la línea del frente Muñiz anota distancias acumuladas —390, 823, 1299— que se cuentan desde una «Piedra» puesta en la orilla de la Cañada del Sauce: 390 m para Pedro Pablo Rodríguez (450 v), 433 para Silva (500 v), 476 para Quevedo (550 v): 1299 m = 1500 varas justas. La «Piedra» es el mojón del que cuelgan las tres fajas.\nEl rótulo vertical «Terreno comprado por D. Roque Almirón a D. Tadeo Rodríguez Flórez» nombra al tronco: las fajas son hijuelas y ventas del campo de Tadeo Rodríguez (Ficha 047)."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Pedro Antonio Quevedo",
+   "img": "img/f/049/03.jpg",
+   "fuente": "IMG_7260.JPG",
+   "orientacion": "Pliego apaisado con marco de filete grueso; el NO a la izquierda; flecha «N.V.» con cruz de puntos y «11° 28′ N.E.»; contorno rosado; escala gráfica de 5000 + 1000 metros; «Giles Marzo de 1865 – José M.ª Muñiz».",
+   "interpretacion": "Cinco fajas horizontales; la cuarta, contorneada en rosa, es la de Pedro Antonio Quevedo. A la izquierda, la Cañada del Sauce serpentea sobre el frente, con la «Piedra» en su orilla y el rótulo de la compra de Roque Almirón; a la derecha, la Cañada de la Cruz corta el fondo y recibe un afluente que sube hacia la casa de «Silva». Dos casas con cerco (Silva, en rombo; Quevedo, en cuadro) antes de la cañada de la Cruz; dos poblaciones de los Rodríguez (P. P. y Pascual) cerca del Sauce. Más allá del fondo, Josefa N. de Cano, Zambrano y P. Salas «antes Schreiber».",
+   "referencias": [
+    [
+     "A",
+     "Esquinero N de la faja de Quevedo, sobre el frente; 823 m desde la «Piedra»"
+    ],
+    [
+     "Piedra",
+     "Mojón de piedra en la orilla de la Cañada del Sauce, origen de las distancias 390 · 823 · 1299"
+    ],
+    [
+     "S 30° 54′ E 6902",
+     "Costado NE, divisorio de Antonio B. Silva; mojones a 1732, 3270 y 5196 m (2000, ≈ 3776 y 6000 v)"
+    ],
+    [
+     "N 30° 54′ O 6909",
+     "Costado SO, divisorio de Gregoria Rodríguez de Castro; mojones a 1713, 3439 y 5177 m desde el fondo"
+    ],
+    [
+     "N 59° 6′ E 476",
+     "Frente NO (550 varas)"
+    ],
+    [
+     "S 58° 15′ O 476,04",
+     "Fondo SE, lindero Josefa N. de Cano; «2600» es la distancia a un esquinero del lindero"
+    ],
+    [
+     "Terreno comprado por…",
+     "Roque Almirón compró a Tadeo Rodríguez Flórez: origen del título de estas fajas"
+    ],
+    [
+     "Silva · Quevedo",
+     "Casas con cerco de Antonio B. Silva y de Pedro Antonio Quevedo, del lado del Sauce de la Cañada de la Cruz"
+    ],
+    [
+     "P. P. Rod.z · Pascual Rod.z",
+     "Poblaciones de Pedro Pablo y Pascual Rodríguez (el del «mirador» de 1862, Ficha 032)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: frente sobre la Cañada del Sauce",
+   "img": "img/f/049/04.jpg",
+   "fuente": "IMG_7261.JPG",
+   "orientacion": "Toma parcial.",
+   "interpretacion": "La «Piedra», el punto A, las cotas del frente, el rótulo de Almirón y las poblaciones de los Rodríguez.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: fondo sobre la Cañada de la Cruz",
+   "img": "img/f/049/05.jpg",
+   "fuente": "IMG_7262.JPG",
+   "orientacion": "Toma parcial.",
+   "interpretacion": "Las casas de Silva y Quevedo, la Cañada de la Cruz con su afluente, el fondo S 58° 15′ O y el lindero Josefa N. de Cano. A lápiz, «328,708».",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia del plano por la Dirección de Geodesia (1938)",
+   "img": "img/f/049/06.jpg",
+   "fuente": "IMG_7263.JPG",
+   "orientacion": "Calco en papel vegetal, fotografiado con brillo. Leyenda: «Es copia del plano agregado al duplicado n.º 49 del partido de San Andrés de Giles, mensura practicada en Marzo de 1865 por el Agrimensor José María Muñiz. La Plata Agosto de 1938» – firma del Director – «Dib: por E F O de Travascio. Rev: por José Chiappino». Sello «Geodesia y Catastro · M.O.P. · Dirección».",
+   "interpretacion": "La copia agrega lo que el original, cosido por el lomo, deja tapado: al NO del frente, «J. J. Sosa (Hoy L. Torres)» y «Lorenzo Torres» —la estancia Santa Elena de la Ficha 044—. Confirma las lecturas del original (1732, 3270, 6902, 6909, 476).",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Un duplicado sin texto",
+   "texto": "Sólo se fotografiaron carátula, portadilla, plano y copia; el texto de la diligencia (que se trasluce) queda pendiente. La fecha, marzo de 1865, sale de la portadilla y del plano."
+  },
+  {
+   "titulo": "Tres mensuras, un solo plano",
+   "texto": "Las Fichas 049, 050 y 051 son tres planos de una misma campaña de Muñiz (marzo-abril de 1865) sobre fajas contiguas de rumbo S 30° 54′ E, entre la Cañada del Sauce y la de la Cruz. Encadenadas, de NE a SO: herederos de Ormaechea | Felipa Quevedo 141,89 m | Faustina Quevedo de Rodríguez 403,55 | Manuela Quevedo 606,2 | Pedro Pablo Quevedo 433 | [Piedra] | Pedro Pablo Rodríguez 390 | Antonio B. Silva 433 | Pedro Antonio Quevedo 476 | Gregoria Rodríguez de Castro. Son las fajas del NE del cuadrado de Tadeo Rodríguez que Differt dibujará entero en 1868 (Ficha 047), y lindan con la faja de Ormaechea que Gonnet medirá en 1866 (Ficha 036) con rumbo S 31° 29′ E: 35′ de diferencia con Muñiz."
+  },
+  {
+   "titulo": "La piedra y el módulo",
+   "texto": "Las tres fajas del plano suman 1299 m (1500 varas) desde una «Piedra» sobre la Cañada del Sauce: 450 + 500 + 550 varas. Los mojones del costado NE están a 1732 y 5196 m (2000 y 6000 varas). Otra vez el diseño es en varas y el registro en metros. La «Piedra» puede ser el «mojón de piedra conocido como esquinero Oeste del antiguo terreno de Tadeo Rodríguez» que Gonnet cita en 1866 (Ficha 036): verificar en GIS."
+  },
+  {
+   "titulo": "Variación",
+   "texto": "11° 28′ NE, la misma cifra de la Ficha 034 (27/4/1865). El fragmento de cálculo visible en la Carpeta 50 muestra que Muñiz ya la tenía calculada en marzo: una sola observación para toda la campaña."
+  },
+  {
+   "titulo": "Paisaje y vecindad",
+   "texto": "Dos cañadas como cabeceras de la faja; casas con cerco del lado de la Cruz y puestos del lado del Sauce: cada faja tiene poblado su extremo. Linderos del fondo: Josefa N. de Cano (¿viuda de Francisco Cano, lindero en 036 y 051?), Zambrano y «P. Salas (antes Schreiber [?])»."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Quién fue Roque Almirón y cuándo compró a Tadeo Rodríguez Flórez? ¿Por qué el frente y el fondo divergen 51′? La cota «3270» no es un número redondo en varas (3776 v): ¿error por 3464 (4000 v)? El plano de Differt (047) rotula estas fajas con otros nombres en 1868: cotejar. Pedir a Juan las fotos del texto."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Pedro Antonio Quevedo",
+   "rol": "Propietario",
+   "texto": "Dueño de la faja de 550 varas, con casa cercada cerca de la Cañada de la Cruz. De la familia Quevedo que en 1865-68 ocupa las fajas del NE del cuadrado de Tadeo Rodríguez (Pedro Pablo, Manuela, Faustina, Felipa, Manuel). Sin otros datos.",
+   "fuentes": "Esta mensura; Fichas 036, 047, 051."
+  },
+  {
+   "nombre": "José María Muñiz",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor público activo en el partido en el otoño de 1865: en marzo mide las fajas de Pedro Antonio Quevedo y Antonio B. Silva (Fichas 049 y 050), en abril las hijuelas Quevedo (051) y el sobrante de Sotero Galeano (034), en mayo la testamentaría de Martín Galeano (048). Usa en las cinco la misma variación, 11° 28′ NE, calculada por triángulo esférico con logaritmos. Dibuja con rótulos de plantilla en cursiva inglesa, contorno rosado y flecha con una cruz de puntos. La búsqueda en la web no arrojó datos biográficos.",
+   "fuentes": "Fichas 034, 036, 048-051. Búsqueda web sin resultados (octubre de 2026)."
+  },
+  {
+   "nombre": "Tadeo Rodríguez Flórez · Roque Almirón",
+   "rol": "Tronco del título · comprador",
+   "texto": "El plano da el segundo apellido de Tadeo Rodríguez, cuyo campo de ≈ 8000 × 8000 varas dibuja Differt en 1868 (Ficha 047). Roque Almirón, comprador de una parte, no había aparecido en el corpus.",
+   "fuentes": "Esta mensura; Ficha 047."
+  },
+  {
+   "nombre": "Antonio B. Silva · Gregoria Rodríguez de Castro · Pedro Pablo Rodríguez",
+   "rol": "Linderos",
+   "texto": "Silva es el titular de la Ficha 050 (¿el Antonino Silva de la Ficha 035 y el «Benjamín Silva» de 044?). Gregoria Rodríguez «de Castro» figura entre los hijos de Tadeo en la Ficha 047. Pedro Pablo Rodríguez es el «Pablo Rodríguez» apoderado de los Duarte (Fichas 044 y 047).",
+   "fuentes": "Fichas 035, 044, 047, 050."
+  },
+  {
+   "nombre": "Otros nombrados",
+   "rol": "Linderos y dibujantes",
+   "texto": "Pedro Pablo Quevedo; Pascual Rodríguez; Josefa N. de Cano; Zambrano; P. Salas y Schreiber [?]; J. J. Sosa y Lorenzo Torres (en la copia); E. F. O. de Travascio y José Chiappino, dibujante y revisor de 1938.",
+   "fuentes": "Esta mensura; Ficha 044."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/049/02.jpg",
+  "fuente": "IMG_7259.JPG",
+  "lineas": [
+   "Sec^{n} Areco        con [?] Giles",
+   "n^{o} 173.        49",
+   "Duplicado de la dilijencia de men-",
+   "sura practicada en el terreno perte",
+   "neciente á D. Pedro Antonio Quevedo",
+   "en el Partido de Giles",
+   "En Marzo de 1865",
+   "por el agrimensor Muñiz"
+  ]
+ },
+ "titulo": "Pedro Antonio Quevedo",
+ "estado": "Transcripta (1 hojas, 24 renglones), 4 láminas"
+}
