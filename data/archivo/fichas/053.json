@@ -1,0 +1,255 @@
+{
+ "carpeta": "53",
+ "carpeta_nombre": "Carpeta 53",
+ "archivo": "Ficha 053 - Petrona Gutiérrez de Molina (1869).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (campo ex Gutiérrez, límite con Carmen de Areco y Mercedes)",
+  "N.º de duplicado": "53 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Petrona Gutiérrez de Molina",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1869",
+  "Fecha de la diligencia": "Noviembre de 1869; informe del D. T. 10/12/1869",
+  "Ubicación": "Hijuela del campo de Bernardo Gutiérrez (Ficha 024), al O de Caprile y Picasso",
+  "Orden judicial": "Juzgado de 1.ª Instancia («V. S. resolverá»); auto no fotografiado",
+  "Vendedor / antecesor": "Bernardo Gutiérrez (repartición de G. Teodoro Schuster)",
+  "Linderos citados": "Test. A. M.ª Pirán (NO) · Test. E. Gutiérrez (NE) · Test. M. G. de Alfonsín (SE) · Advíncula G. de Olivera · A. Craig",
+  "Medidas": "Hexágono en L: 3874 · 4670 · 4464 · 1489,52 · 749 [?] · 4033 m; ≈ 2017 ha (calculado)",
+  "Rumbos": "N 57° 34′ E · S 46° 8′ E · S 44° 38′ O · N 46° 37′ O · N 45° E [?] · N 46° 33′ O; 11° 42′ NE",
+  "Referencia de archivo": "Duplicado 53"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 2017 (calculada con los rumbos leídos)",
+  "hitos": "8 arrendatarios; puesto de Craig; camino del Carmen de Areco a Mercedes",
+  "aguas": "Ninguna dibujada"
+ },
+ "sintesis": "Duplicado del que se fotografió el plano y el final del informe del Departamento Topográfico. Carlos Schuster mide en noviembre de 1869 la hijuela de Petrona Gutiérrez de Molina en el antiguo campo de Bernardo Gutiérrez (Ficha 024): una L de unas 2000 ha entre la testamentaría de Antonio María Pirán, la de Emilio Gutiérrez, la de Mónica G. de Alfonsín, Advíncula G. de Olivera y Archivald Craig, con ocho arrendatarios y el camino del Carmen de Areco a Mercedes. El D. T. (10/12/1869) la encuentra «enteramente conforme» con la repartición de Teodoro Schuster, pero no la aprueba porque Antonio Pirán y Riglos y Nicandro Villar protestaron por los herederos de Pirán: la misma protesta de 1859, diez años después.",
+ "caratula": {
+  "img": "img/f/053/01.jpg",
+  "fuente": "IMG_7280.JPG",
+  "campos": [
+   [
+    "N.º",
+    "53"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Petrona Gutierrez de Molina"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "C. Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1869"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Informe del Departamento Topográfico (fragmento, 10/12/1869)",
+   "img": "img/f/053/05.jpg",
+   "fuente": "IMG_7281.JPG (margen izquierdo)",
+   "nota": "Sólo se ve la mitad derecha del último folio escrito, a la izquierda del plano desplegado. Se reconstruye entre corchetes el comienzo de cada renglón.",
+   "lineas": [
+    "[…] [A]grimensor D. Teodoro Schuster,",
+    "[c]on cuya operacion está entera-",
+    "[m]ente conforme la presente, en",
+    "[cu]anto á los límites y superficie",
+    "[de] la fraccion correspondiente.",
+    "[El] Departam^{to} Top^{co} por su parte",
+    "[no] tiene inconveniente en",
+    "[apro]bar la operacion facultativa,",
+    "[pero] habiendo protestado con-",
+    "[tra] la misma D. Antonio Pirán",
+    "[y Rig]los y D. Nicandro Villar, por",
+    "[sí y á] nombre de los demás here-",
+    "[deros d]e la testamentaria de Don",
+    "[Antoni]o Maria Piran y D^{a} Ana",
+    "[Riglos], V. S. resolverá lo que",
+    "[en dere]cho corresponda.",
+    "[Bue]nos Aires Diciembre 10/869.",
+    "[Sal]as   Kuhr   Benoit [rúbricas]",
+    "[Ca]sagemas [?]"
+   ],
+   "interpretacion": "Final del informe del Departamento Topográfico al juez. Dice dos cosas. Primero, que la mensura de Carlos Schuster está «enteramente conforme», en límites y superficie, con la operación del agrimensor Teodoro Schuster —la repartición extrajudicial del campo de Bernardo Gutiérrez (Ficha 024)— y que por eso el Departamento no tendría inconveniente en aprobarla. Segundo, que no la aprueba porque protestaron Antonio Pirán y Riglos y Nicandro Villar, por sí y por los demás herederos de Antonio María Pirán y Ana Riglos, y deja la decisión al juez. Es la misma protesta de los Pirán de 1859 (Ficha 024), diez años después, ahora contra la hijuela que linda con ellos. Firman Salas, Kuhr, Benoit y, debajo, probablemente Casagemas."
+  },
+  {
+   "titulo": "Rótulos y cifras del plano",
+   "img": "img/f/053/02.jpg",
+   "fuente": "IMG_7281 a IMG_7283",
+   "nota": "Plano en papel tela coloreado en verde, firmado «Noviembre de 1869 Carlos Schuster». Las cifras de las líneas de vuelta se dan derechas; varias cotas intermedias son de lectura dudosa.",
+   "lineas": [
+    "[al NO:] Testamentaria de Antonio Maria Piran.",
+    "A. Mojon de Arranque.   N. 57° 34′ E = 3874 metros.   [cota:] 2000",
+    "[al NE:] Testamentaria de Emilio Gutierrez",
+    "B.   S. 46° 8′ E = 4670 m^{s}.   C.   [cotas:] 1292 [?] · 2598 [?] · 3897 [?]",
+    "[junto a C:] Caprile y Picasso",
+    "[al SE:] N. 44° 38′ E = 4464 m^{s}.   Fermin [?] Alfonsin",
+    "Testamentaria de Monica Gutierrez de Alfonsin",
+    "Est^{a} de Cecilio Alfonsin",
+    "[sobre la prolongación, hacia el S:] 3931 m^{s}",
+    "D.   S. 46° 37′ E. 1489,52 m^{s}.   E.",
+    "E.   [N.] 45° 0′ [E.] 749 [?] m^{s}.   F.",
+    "Testamentaria de Advincula G. de Olivera",
+    "F.   S. 46° 33′ E = 4033 m^{s}.   A.   [cotas:] 748 [?] · 1440 [?] · 2042 [?] · 2304 · 3102 [?]",
+    "Puesto de Craig        Archivald Craig",
+    "[en puntos, de A-B a C-D:] Camino del Carmen de Areco á la ciudad de Mercedes",
+    "Arrendatario [×8, repartidos en el campo]",
+    "[flecha desde A:] Norte verd^{o} V. 11° 42′ N.E.",
+    "[escala transversal:] Escala de Metros",
+    "Noviembre de 1869   Carlos Schuster"
+   ],
+   "interpretacion": "Campo en forma de L (un rectángulo de ≈ 4,7 × 4,4 km al que le falta el rincón S), de unas 2017 ha según el cálculo con los rumbos leídos, que cierra con un error de ≈ 21 m: las lecturas son coherentes. Linda al NO con la testamentaría de Antonio María Pirán (los opositores), al NE con la testamentaría de Emilio Gutiérrez, al SE con la de Mónica G. de Alfonsín y en el rincón S con Advíncula G. de Olivera; al SO con Archivald Craig, que tiene un puesto junto a la línea. En el vértice C la esquina toca a «Caprile y Picasso» (Ficha 052): es el punto que el plano de 052 sitúa 920 m al NO de su mojón de arranque. Lo cruza el camino del Carmen de Areco a Mercedes y está poblado por ocho arrendatarios."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Petrona Gutiérrez de Molina",
+   "img": "img/f/053/02.jpg",
+   "fuente": "IMG_7283.JPG",
+   "orientacion": "Papel tela; el campo en verde, girado 45°; dos flechas desde A (norte verdadero); escala transversal de metros; firma «Noviembre de 1869 Carlos Schuster».",
+   "interpretacion": "La figura es la hijuela de Petrona en el plano de repartición de la Ficha 024, con el rincón S recortado a favor de Advíncula. Los arrendatarios están repartidos por todo el campo y no hay casa principal dibujada: es campo arrendado.",
+   "referencias": [
+    [
+     "A",
+     "Mojón de arranque, vértice O; costado NO contra Pirán"
+    ],
+    [
+     "A-B",
+     "N 57° 34′ E 3874 m · Test. de Antonio María Pirán"
+    ],
+    [
+     "B-C",
+     "S 46° 8′ E 4670 m · Test. de Emilio Gutiérrez"
+    ],
+    [
+     "C",
+     "Esquina con Caprile y Picasso (Ficha 052) y Alfonsín"
+    ],
+    [
+     "C-D",
+     "N 44° 38′ E 4464 m (leído de D a C) · Test. de Mónica G. de Alfonsín; Fermín y Cecilio Alfonsín"
+    ],
+    [
+     "D-E-F",
+     "S 46° 37′ E 1489,52 m y ≈ 749 m [?] · rincón de Advíncula G. de Olivera"
+    ],
+    [
+     "F-A",
+     "S 46° 33′ E 4033 m (leído de A a F) · Archivald Craig; puesto de Craig"
+    ],
+    [
+     "Camino",
+     "Del Carmen de Areco a la ciudad de Mercedes, cruza el campo de NO a SE"
+    ]
+   ]
+  },
+  {
+   "titulo": "El plano desplegado junto al informe",
+   "img": "img/f/053/03.jpg",
+   "fuente": "IMG_7281.JPG",
+   "orientacion": "Toma general.",
+   "interpretacion": "Muestra el plano completo con los linderos de los cuatro lados y, a la izquierda, el final del informe del D. T.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle del campo y del camino",
+   "img": "img/f/053/04.jpg",
+   "fuente": "IMG_7282.JPG",
+   "orientacion": "Toma ampliada.",
+   "interpretacion": "Lados A-B, B-C, F-A y E-D con sus rumbos; el camino del Carmen de Areco a Mercedes en línea de puntos; los arrendatarios.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Dos hijuelas del mismo mes",
+   "texto": "Las Fichas 052 y 053 son mensuras gemelas de Carlos Schuster (noviembre de 1869), con la misma variación (11° 42′ NE), la misma escala, el mismo papel tela verde y vértices comunes: la esquina C de Petrona es la esquina que 052 marca a 920 m del arranque de Caprile y Picasso. Con el plano de repartición de la Ficha 024 permiten dibujar en GIS tres de las seis hijuelas Gutiérrez y sus linderos."
+  },
+  {
+   "titulo": "La protesta de los pirán, diez años después",
+   "texto": "En 1859 Antonio Pirán y Riglos protestó la mensura de Bernardo Gutiérrez «por creer que se tomaba tierra de su padre» (Ficha 024) y el juicio «Gutiérrez con el Dr. Piran» se aprobó «sin perjuicio de tercero» en 1860. En diciembre de 1869 la hijuela de Petrona, que linda con los Pirán, vuelve a ser protestada por el mismo Antonio, ahora con Nicandro Villar, en nombre de la testamentaría de sus padres. El D. T. aplica la doctrina conocida: aprobaría por la coherencia con la mensura anterior, pero la protesta pasa al juez."
+  },
+  {
+   "titulo": "La mensura vieja como prueba",
+   "texto": "El argumento técnico del D. T. no es el título sino la concordancia con otra operación: que esté «enteramente conforme» con la del agrimensor Teodoro Schuster «en cuanto a los límites y superficie de la fracción correspondiente». Una repartición extrajudicial, hecha por un agrimensor a pedido de los herederos, funciona en 1869 como plano de referencia del Departamento."
+  },
+  {
+   "titulo": "Campo de arrendatarios",
+   "texto": "Ocho «Arrendatario» y un solo puesto ajeno (de Craig) en ≈ 2000 ha, sin casa de la dueña: la hijuela de Petrona está arrendada por entero. Archivald Craig, que en 1859 tenía «población» como arrendatario dentro del campo de Gutiérrez (Ficha 024), figura ahora como lindero con nombre propio y puesto: el arrendatario de 1859 se volvió propietario vecino."
+  },
+  {
+   "titulo": "Un camino regional",
+   "texto": "El «Camino del Carmen de Areco a la ciudad de Mercedes» atraviesa el campo; en 1859 Schuster dibujaba el «Camino del Fortín de Areco para la Villa de Mercedes» (Ficha 024): es el mismo camino con el nombre nuevo del pueblo (el Fortín de Areco pasó a llamarse Carmen de Areco) y la villa convertida en «ciudad». Sirve para enlazar ambos planos en GIS."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Falta todo el texto de la diligencia. ¿Cómo resolvió el juez la protesta de los Pirán? ¿Cuál es la cota exacta del lado E-F (749 m)? ¿A qué partido se asignó el campo en 1869, si en 1859 el de Gutiérrez caía en cuatro?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Petrona Gutiérrez de Molina",
+   "rol": "Propietaria",
+   "texto": "Hija de Bernardo Gutiérrez; recibió una de las seis hijuelas de la repartición (Ficha 024). En 1869 la tiene arrendada a ocho arrendatarios. Casada con un Molina del que no se conoce el nombre.",
+   "fuentes": "Ficha 024; este plano."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Mide en noviembre de 1869 esta hijuela y la de Caprile y Picasso (Ficha 052) siguiendo la repartición de Teodoro Schuster. Sin datos biográficos.",
+   "fuentes": "Fichas 024, 052."
+  },
+  {
+   "nombre": "Antonio Pirán y Riglos · Nicandro Villar",
+   "rol": "Opositores",
+   "texto": "Herederos (o apoderados de los herederos) de Antonio María Pirán y Ana Riglos, linderos NO. Antonio ya había protestado la mensura de Gutiérrez en 1859. De Nicandro Villar no se hallaron datos; podría ser yerno de los Pirán.",
+   "fuentes": "Ficha 024; este informe."
+  },
+  {
+   "nombre": "Archivald Craig",
+   "rol": "Lindero so",
+   "texto": "Escocés o inglés; en 1859 arrendatario con población dentro del campo de Gutiérrez (Ficha 024) y en 1869 lindero con «Puesto de Craig».",
+   "fuentes": "Ficha 024; este plano."
+  },
+  {
+   "nombre": "Alfonsín y Olivera",
+   "rol": "Linderos",
+   "texto": "Testamentaría de Mónica G. de Alfonsín (con «Fermín [?]» y la «Est.ª de Cecilio Alfonsín» rotulados); testamentaría de Advíncula G. de Olivera; testamentaría de Emilio Gutiérrez. Hermanos de Petrona y sus herederos.",
+   "fuentes": "Ficha 024; este plano."
+  },
+  {
+   "nombre": "Saturnino Salas · Germán Kuhr · Pedro Benoit · Ignacio Casagemas [?]",
+   "rol": "Departamento topográfico",
+   "texto": "Los cuatro vocales habituales desde 1865 firman el informe del 10/12/1869.",
+   "fuentes": "Fichas 033-046."
+  }
+ ],
+ "titulo": "Petrona Gutiérrez de Molina",
+ "estado": "Transcripta (2 hojas, 38 renglones), 3 láminas"
+}

@@ -1,0 +1,278 @@
+{
+ "carpeta": "55",
+ "carpeta_nombre": "Carpeta 55",
+ "archivo": "Ficha 055 - Mariano Lima (1840).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (portadilla: «en Giles, y en la Laguna de Moyano»; antes archivada en Mercedes)",
+  "N.º de duplicado": "55 (portadilla: «N.º 89», Sección Areco; «T. 105 Mercedes» testado)",
+  "Propietario / solicitante": "Mariano Lima",
+  "Agrimensor": "Raymundo Prat",
+  "Año": "1840",
+  "Fecha de la diligencia": "7 de enero de 1840; informe del D. T. 25/9/1840",
+  "Ubicación": "Laguna de Moyano y Cañada de Moyano; Laguna de las Perdices",
+  "Orden judicial": "Juez de 1.ª Instancia (informe dirigido a él)",
+  "Vendedor / antecesor": "«Mensura primitiva»: cuadrado de 9000 varas de lado",
+  "Linderos citados": "Colmenero y J. M.ª Echevarría (NE) · J. G. Carrasco (NO) · P. N. Silva y C. Martínez (SO) · Casas, Leguisamón y Bello (SE)",
+  "Medidas": "Pentágono: 9000 · 8930 · 8925 v y 6035 + 2900 v; 2 ¼ leguas² escasas (≈ 6070 ha)",
+  "Rumbos": "Rumbos «corregidos»; variación 13° 30′ NE con teodolito azimutal",
+  "Referencia de archivo": "Duplicado 55; antes «Sección Areco N.º 89»"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 6070 (2 ¼ leguas² «escasas»)",
+  "hitos": "Mojones esquineros de la mensura primitiva; poblaciones «Lima»; lagunas como vértices",
+  "aguas": "Cañada de Moyano; Laguna de Moyano; Laguna de las Perdices; dos lagunas sin nombre"
+ },
+ "sintesis": "Se fotografió el último folio y el plano. Raymundo Prat remide el 7 de enero de 1840 el campo de Mariano Lima «en la Laguna de Moyano»: un cuadrado primitivo de 9000 varas de lado que resulta un pentágono de 2 ¼ leguas² escasas por la inclinación del lindero SO (Pedro Nolasco Silva y Carmen Martínez). Linderos: Colmenero y José María Echevarría, Juan Gregorio Carrasco, Casas, los Leguisamón y Pascuala Bello. Variación 13° 30′ NE «con un teodolito azimutal que tiene de apartamiento trece grados respecto de la meridiana trazada en la capital»: la clave de la cifra de Prat de 1846. Todos los linderos asisten; el D. T. (Arenales y Salas, 25/9/1840) la declara conforme. El plano muestra la Cañada y la Laguna de Moyano y la Laguna de las Perdices.",
+ "caratula": {
+  "img": "img/f/055/01.jpg",
+  "fuente": "IMG_7284.JPG",
+  "campos": [
+   [
+    "N.º",
+    "55"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Mariano Lima"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Raimundo Prat"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1840"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Último folio · cierre de la diligencia, citación e informe del D. T. (1840)",
+   "img": "img/f/055/06.jpg",
+   "fuente": "IMG_7286.JPG (página izquierda)",
+   "nota": "Sólo se fotografió el último folio escrito. Letra cursiva redonda de Prat; el informe del Departamento, en otra mano. Los primeros renglones vienen de un folio anterior no fotografiado.",
+   "lineas": [
+    "[d]e mil varas y encontrado á cuatro mil seiscientas treinta varas",
+    "el mojon esquinero Sur del terreno de don José María Echevarría: todas",
+    "las demarcaciones practicadas de los mojones esquineros, fueron de",
+    "la aguja, notandose alguna pequeña diferencia, respecto de los mo-",
+    "jones ecsistentes, en los rumbos de la primitiva mensura, corre-",
+    "gidos de la verdadera variacion.",
+    "La figura del terreno medido para don Mariano Lima, es la de un",
+    "pentágono, á causa de la irregularidad de la linea Sudoeste, siendo",
+    "su area igual á dos y cuarto leguas cuadradas escasas, sin embar-",
+    "go de resultar ecsactas en la mensura primitiva y su figura un",
+    "cuadrado de nueve mil varas de lado: linda por el Nordeste, con el",
+    "terreno de don Ramon Colmenero y don José María Echevarría; por",
+    "el Noroeste, con el de don Juan Gregorio Carrasco; por el Sudoeste,",
+    "con el de don Pedro Nolasco Silva y de doña María del Carmen",
+    "Martinez; y por el Sudeste, con el de don Pedro Casas, don Pastor",
+    "y don Jorge Leguisamon y de doña Pascuala Bello, viuda de don",
+    "Antonio Leguisamon. La variacion de la aguja fue de trece gra-",
+    "dos treinta minutos Nordeste; habiendose verificado esta operacion",
+    "con un teodolito azimutal, que tiene de apartamiento trece grados,",
+    "respecto de la meridiana trazada en la capital.",
+    "Raymundo Prat y Vz [?] [rúbrica]",
+    "Nota. Ningun lindero ha hecho oposicion á la mensura; todos",
+    "asistieron personalmente cada uno en su linea respectiva; solo por",
+    "doña Pascuala Bello asistió don Narciso Leguisamon.",
+    "Raymundo Prat y Vz [?] [rúbrica]",
+    "Señor Juez de primera Ynstancia. = En la antecedente di-",
+    "ligencia de mensura se nota una pequeña disconformidad al",
+    "respecto de la primitiva, á causa de la inclinacion de rumbo en que",
+    "resulta hallarse el costado Nordeste de los terrenos linderos de Don",
+    "Pedro Nolasco Silva y de Doña Carmen Martinez: pero esta discon-",
+    "formidad en nada altera la estension propia del terreno medido",
+    "ni los límites de los linderos. Por lo tanto, el Departamento Topo-",
+    "gráfico halla que, la antecedente operacion es conforme á los títu-",
+    "los de su referencia y á la instruccion jeneral de agrimensores. =",
+    "Buenos Aires Setiembre 25 de 1840.",
+    "J. Arenales [rúbrica]    [S.] Salas [rúbrica]"
+   ],
+   "interpretacion": "El agrimensor termina el recorrido —4630 varas hasta el mojón esquinero S de José María Echevarría— y explica el método: los mojones esquineros se demarcaron con la aguja y se compararon con los rumbos de la «primitiva mensura», «corregidos de la verdadera variación», con pequeñas diferencias. El campo de Mariano Lima, que en la mensura primitiva era un cuadrado exacto de 9000 varas (2 ¼ leguas²), resulta ahora un pentágono algo menor por la irregularidad de la línea SO. Linderos: NE Ramón Colmenero y José María Echevarría; NO Juan Gregorio Carrasco; SO Pedro Nolasco Silva y María del Carmen Martínez; SE Pedro Casas, Pastor y Jorge Leguisamón y Pascuala Bello, viuda de Antonio Leguisamón. Variación 13° 30′ NE, con un teodolito azimutal desviado 13° de la meridiana trazada en la capital.\nNota: ningún lindero se opuso; todos asistieron, cada uno en su línea; por Pascuala Bello fue Narciso Leguisamón.\nInforme del Departamento Topográfico al juez de 1.ª Instancia (Buenos Aires, 25/9/1840; firman J. Arenales y Salas): la pequeña diferencia con la mensura primitiva se debe a la inclinación del costado NE de los terrenos de Silva y Carmen Martínez, no altera la extensión ni los límites, y la operación es conforme a los títulos y a la Instrucción General de Agrimensores."
+  },
+  {
+   "titulo": "Rótulos y cifras del plano",
+   "img": "img/f/055/03.jpg",
+   "fuente": "IMG_7286 a IMG_7288",
+   "nota": "Rótulos del plano de Prat, leídos con el plano girado (el N está abajo a la derecha). «correg.º» = rumbo corregido de la variación.",
+   "lineas": [
+    "[NO:] 9000 v^{s} S.O. correg^{o}        Carrasco.",
+    "[NE:] 8930 v^{s} N.E. correg^{o}        D. Ramon Colmenero  4630        D. Jose Maria Echevarria",
+    "Colmenero.        D. Carlos [?]        Echev[arr]ia.",
+    "[SE:] 8925 v^{s} S.O. correg^{o}        Casas.   Leguisamon.   Bello.",
+    "[SO:] S.E. 43′ S correg^{o}  6035        D^{a} Carmen Martinez.        D^{a} Carmen [?]   D^{a} Pedrona [?]",
+    "S.E. 3° E. correg^{o}  2900        D. Pedro Nolasco Silva.        D^{a} [...] Silva",
+    "[en el centro:] Lima.        Lima.",
+    "Cañada de Moyano        L. de Moyano        L. de las Perdices.",
+    "[en un vértice, junto a una laguna:] 540 [?]",
+    "S magnetico        S correg^{o}",
+    "[flecha:] 13° 30′  Variac^{n} N. Mag^{co}",
+    "Escala de una y media legua.   500 · 1000 · 2000 · 3000 · 6000 · 9000 varas.",
+    "Raymundo Prat y P. [?] [rúbrica]"
+   ],
+   "interpretacion": "El plano confirma el texto: un cuadrado de legua y media de lado (9000, 8930 y 8925 varas en tres lados) cuyo cuarto lado, el SO, quiebra en dos tramos de 6035 y 2900 varas (8935 en total) contra Carmen Martínez y Pedro Nolasco Silva. Los rumbos se dan «corregidos» y se dibujan los dos meridianos, el magnético y el corregido, separados 13° 30′. La Cañada de Moyano cruza el campo en diagonal con sus lagunas: es el rasgo de paisaje que da nombre al paraje en la portadilla."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Mariano Lima",
+   "img": "img/f/055/03.jpg",
+   "fuente": "IMG_7287.JPG",
+   "orientacion": "Pliego encuadernado a continuación del último folio; el plano está dibujado con el N hacia abajo a la derecha (flecha de la variación en el ángulo); escala «de una y media legua» (9000 varas); firma «Raymundo Prat y P. [?]». Se presenta girado para leer los rótulos.",
+   "interpretacion": "El campo es casi un cuadrado de legua y media de lado; el lado SO quiebra en dos tramos (6035 + 2900 varas) contra Carmen Martínez y Pedro Nolasco Silva, y por eso es un pentágono. Lo cruza en diagonal la Cañada de Moyano, dibujada como un bañado con juncos, que se ensancha en la Laguna de Moyano y termina en la Laguna de las Perdices; otras dos lagunas marcan vértices (la del ángulo de Colmenero, rotulada «540 [?]», y la de la línea de Silva). Desde el vértice E salen dos rectas: el «S magnético» y el «S corregido», con 13° 30′ entre ellas.",
+   "referencias": [
+    [
+     "NO",
+     "9000 v S.O. correg.º · Juan Gregorio Carrasco"
+    ],
+    [
+     "NE",
+     "8930 v N.E. correg.º · Ramón Colmenero (4630 v) y José María Echevarría"
+    ],
+    [
+     "SE",
+     "8925 v S.O. correg.º · Pedro Casas, Pastor y Jorge Leguisamón, Pascuala Bello"
+    ],
+    [
+     "SO",
+     "S.E. 43′ S correg.º 6035 v (Carmen Martínez) + S.E. 3° E correg.º 2900 v (Pedro Nolasco Silva)"
+    ],
+    [
+     "Aguas",
+     "Cañada de Moyano (bañado con juncos) · L. de Moyano · L. de las Perdices · dos lagunas en vértices"
+    ],
+    [
+     "Poblaciones",
+     "«Lima» (dos) · D.ª Carmen · D.ª Pedrona [?] · D. Carlos · Echevarría · Silva"
+    ],
+    [
+     "Meridiano",
+     "«S magnético» y «S correg.º»; «13° 30′ Variac.n N. Mag.co»"
+    ],
+    [
+     "Escala",
+     "Escala de una y media legua: 500 · 1000 · 2000 · 3000 · 6000 · 9000 varas"
+    ]
+   ]
+  },
+  {
+   "titulo": "Último folio y plano, a doble página",
+   "img": "img/f/055/04.jpg",
+   "fuente": "IMG_7286.JPG",
+   "orientacion": "Toma general del cuaderno abierto.",
+   "interpretacion": "A la izquierda, el final de la diligencia, la nota de citación y el informe del D. T.; a la derecha, el plano entero con la flecha de la variación y la firma de Prat.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: la Cañada y las Lagunas de Moyano",
+   "img": "img/f/055/05.jpg",
+   "fuente": "IMG_7288.JPG",
+   "orientacion": "Toma ampliada.",
+   "interpretacion": "Bañado de la Cañada de Moyano con la laguna, el rótulo «L. de Moyano», las dos rectas de los meridianos magnético y corregido, y los lados de 8930 y 9000 varas.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Una remensura de 1840 sobre un cuadrado antiguo",
+   "texto": "Prat no mide un campo nuevo: verifica una «mensura primitiva» que le había dado la figura de «un cuadrado de nueve mil varas de lado» (2 ¼ leguas² exactas). Recorre los mojones esquineros, encuentra «alguna pequeña diferencia» en los rumbos «corregidos de la verdadera variación», y el resultado es un pentágono de 2 ¼ leguas «escasas». El D. T. lo explica por la «inclinación de rumbo» del costado NE de los terrenos de Silva y de Carmen Martínez y declara que la diferencia «en nada altera» la extensión ni los límites. Un cuadrado de 9000 varas es la forma típica de las concesiones en enfiteusis de la década de 1820 (Fichas 011-014): buscar la mensura primitiva."
+  },
+  {
+   "titulo": "El teodolito y la meridiana de la capital",
+   "texto": "«La variación de la aguja fue de trece grados treinta minutos Nordeste; habiéndose verificado esta operación con un teodolito azimutal, que tiene de apartamiento trece grados, respecto de la meridiana trazada en la capital.» Es la explicación que faltaba para la cifra «13° teodolito» de Prat en 1846 (Ficha 002): su instrumento estaba contrastado contra una meridiana materializada en Buenos Aires, y la desviación del teodolito respecto de ella era de 13°. La variación de 1840 (13° 30′) queda entre los 14° 25′ observados por Lemoine en 1827 y los 11° 45′ de Eguía en 1854: confirma la serie decreciente. Es además la primera mención del corpus a una meridiana de referencia en la ciudad."
+  },
+  {
+   "titulo": "Asistencia completa",
+   "texto": "«Ningún lindero ha hecho oposición a la mensura; todos asistieron personalmente cada uno en su línea respectiva»: la fórmula indica que el agrimensor recorrió cada lado con su lindero. Sólo Pascuala Bello, viuda de Antonio Leguisamón, mandó a Narciso Leguisamón (¿un hijo?)."
+  },
+  {
+   "titulo": "Paisaje: la cañada y la laguna de moyano",
+   "texto": "El campo está atravesado en diagonal por un bañado con juncos —la Cañada de Moyano— que se abre en dos lagunas rotuladas (de Moyano y de las Perdices) y otras dos sin nombre. La «Laguna de las Perdices» aparece también en el plano de Gutiérrez de 1859 (Ficha 024, junto a «Chañaritos» y «Nutrias»): el campo de Lima está en el mismo rincón SO del partido, hacia Mercedes y Carmen de Areco. Es el hidrónimo-apellido número nueve de la serie (Moyano)."
+  },
+  {
+   "titulo": "De mercedes a giles en el archivo",
+   "texto": "La portadilla tiene testado «T. 105 Mercedes» y escrito «55», y una mano posterior agregó «en Giles, y en la Laguna de Moyano». El duplicado se archivó primero con los de Mercedes y se pasó después a Giles: el campo está en la frontera entre los dos partidos. El número «89» de la Sección Areco es el más bajo de la serie conocida (las demás van de 172 a 213), coherente con la fecha temprana (1840)."
+  },
+  {
+   "titulo": "Linderos y cruces",
+   "texto": "José María Echevarría es el de la Ficha 015 (Eguía, 1839) y lindero SE de Gutiérrez en 1859 (024); Juan Gregorio Carrasco remite a la familia de Isabel Carrasco de Figueroa (Ficha 010); los Leguisamón, Casas, Colmenero, Pedro Nolasco Silva y Carmen Martínez son nuevos o casi. Mariano Lima podría ser el origen de las «franjas de Lima» citadas en el bloque del arroyo de Suero (1856-58)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Faltan los folios anteriores (orden judicial, títulos, recorrido completo): sólo se fotografió el último. ¿Quién hizo la mensura primitiva y cuándo? ¿Qué es el «540» junto a la laguna del vértice de Colmenero? ¿Lima obtuvo el campo en enfiteusis o por compra?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Mariano Lima",
+   "rol": "Propietario",
+   "texto": "Dueño en 1840 de un campo de 2 ¼ leguas² en la Laguna de Moyano, con al menos dos poblaciones rotuladas «Lima». La búsqueda web no dio datos.",
+   "fuentes": "Esta mensura; búsqueda web sin resultados."
+  },
+  {
+   "nombre": "Raymundo Prat",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor que mide en Giles en 1840 (esta ficha) y en 1846 el campo de Macome (Ficha 002). Firma «Raymundo Prat y P[uig] [?]»; trabaja con un teodolito azimutal contrastado con «la meridiana trazada en la capital». Letra cursiva redonda muy regular. Sin datos en la web.",
+   "fuentes": "Ficha 002; esta mensura."
+  },
+  {
+   "nombre": "José Arenales · Saturnino Salas",
+   "rol": "Departamento topográfico",
+   "texto": "José Arenales (1798-1862), ingeniero y geógrafo, hijo del general Juan Antonio Álvarez de Arenales, presidió el Departamento Topográfico de 1827 a 1852 y publicó el Registro Estadístico y planos de la provincia. Saturnino Salas, todavía joven, sería su sucesor y figura en el corpus hasta 1870.",
+   "fuentes": "Fichas 018, 033; referencias generales sobre el Departamento Topográfico."
+  },
+  {
+   "nombre": "Linderos",
+   "rol": "Vecinos",
+   "texto": "Ramón Colmenero; José María Echevarría (Ficha 015); Juan Gregorio Carrasco; Pedro Nolasco Silva; María del Carmen Martínez; Pedro Casas; Pastor y Jorge Leguisamón; Pascuala Bello, viuda de Antonio Leguisamón, representada por Narciso Leguisamón.",
+   "fuentes": "Esta mensura."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/055/02.jpg",
+  "fuente": "IMG_7285.JPG",
+  "lineas": [
+   "N^{o} 89.                ~~T. 105~~ 55",
+   "                        ~~Mercedes~~",
+   "                        4 [?]",
+   "Secc^{on} Areco",
+   "Mensura del terreno",
+   "de propiedad",
+   "D. Mariano Lima",
+   "[otra mano:] en Giles, y en la Laguna de Moyano",
+   "practicada",
+   "por",
+   "El Agrimensor Prat",
+   "en",
+   "7 de Enero de 1840",
+   "[rúbrica]"
+  ]
+ },
+ "titulo": "Mariano Lima",
+ "estado": "Transcripta (2 hojas, 49 renglones), 3 láminas"
+}

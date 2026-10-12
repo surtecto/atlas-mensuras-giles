@@ -1,0 +1,248 @@
+{
+ "carpeta": "52",
+ "carpeta_nombre": "Carpeta 52",
+ "archivo": "Ficha 052 - Caprile y Picasso (1869).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (campo ex Gutiérrez, en el límite con Areco y Mercedes)",
+  "N.º de duplicado": "52 (portadilla: «Sección de Areco N.º 213»)",
+  "Propietario / solicitante": "Caprile y Picasso",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1869",
+  "Fecha de la diligencia": "Noviembre de 1869",
+  "Ubicación": "Hijuela del campo de Bernardo Gutiérrez (Ficha 024)",
+  "Orden judicial": "No fotografiada; asoma un f. 7 en papel sellado de 3 pesos «1870»",
+  "Vendedor / antecesor": "Herederos de Bernardo Gutiérrez (¿hijuela de Norberto Gutiérrez?)",
+  "Linderos citados": "Test. Emilio Gutiérrez (NO) · A. Rocha (NE) · Á. G. de Alegre (SE) · Test. Mónica G. de Alfonsín (SO)",
+  "Medidas": "4765 × 3410 × 4926 × 3342 m; 1635 ha 09 a (a lápiz)",
+  "Rumbos": "N 44° 54′ E · S 47° 3′ E · S 45° 38′ O · N 44° 22′ O; variación 11° 42′ NE",
+  "Referencia de archivo": "Duplicado 52; antes «Sección de Areco N.º 213»"
+ },
+ "metricas": {
+  "superficie_ha": "1635,09 (a lápiz en el plano)",
+  "hitos": "Estancia de Caprile y Picasso; 3 puestos; 2 arrendatarios; mojones cada 750 v",
+  "aguas": "Ninguna dibujada"
+ },
+ "sintesis": "Duplicado del que se fotografió sólo el plano, en dos versiones. Carlos Schuster mide en noviembre de 1869 la «Estancia de Caprile y Picasso»: un rectángulo de 4765 × 3410 m (1635 ha, según la cifra a lápiz del Departamento), rodeado por la testamentaría de Emilio Gutiérrez, Ángela G. de Alegre, la testamentaría de Mónica G. de Alfonsín, Petrona G. de Molina y Antonio Rocha. Es una de las seis hijuelas de la repartición del campo de Bernardo Gutiérrez (Ficha 024) —probablemente la de Norberto— comprada por dos socios de apellido ligur: los primeros propietarios italianos del corpus. Mojones cada 750 varas; variación 11° 42′ NE; dos arrendatarios y tres puestos.",
+ "caratula": {
+  "img": "img/f/052/01.jpg",
+  "fuente": "IMG_7274.JPG",
+  "campos": [
+   [
+    "N.º",
+    "52"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Caprile y Picasso"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1869"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano",
+   "img": "img/f/052/03.jpg",
+   "fuente": "IMG_7276 a IMG_7279",
+   "nota": "El texto de la diligencia (fs. 1-6) NO está fotografiado. Se transcriben los rótulos de las dos versiones del plano: el calco en tela firmado (7276-7277) y el plano topográfico con marco (7278-7279). Las cifras escritas al revés sobre las líneas de vuelta se dan derechas.",
+   "lineas": [
+    "[plano con marco, rótulo de plantilla:] PARTIDO de S^{n} ANDRES de GILES.",
+    "PLANO TOPOGRAFICO",
+    "de la Estancia",
+    "de",
+    "Caprile y Picasso",
+    "[al pie:] Mensura practicada por el Agrimensor publico Sor. D. Carlos Schuster",
+    "en Noviembre de 1869.",
+    "[esquina NO, fuera del campo:] Petrona G. de Molina.        920 m.",
+    "[frente NO:] Testamentaria de Emilio Gutierrez",
+    "A. Mojon de Arranque.   N. 44° 54′ E = 4765 metros.   B.",
+    "[cotas sobre A-B:] 649,5 [?] · 1299 [?] · 1948,5 · 2595 [2598 ?] · 3247,5 · 3897",
+    "Puesto        Luciano Leon [?]        Estancia de Caprile y Picasso",
+    "[costado NE:] S. 47° 3′ E. 3410 m^{s}.        Antonio Rocha        Rocha",
+    "[cotas sobre B-C:] 649 · 1299 · 1948,5 · 2598        Puesto",
+    "[fondo SE:] C.   S. 45° 38′ O. = 4926 m^{s}.   D.",
+    "[cotas:] 649,5 · 1299 · 1948,5 · 2598 · 3247,5 · 3897        Puesto",
+    "Angela Gutierrez de Alegre",
+    "[costado SO:] N. 44° 22′ O. = 3342 m.",
+    "Testamentaria de Monica G. de Alfonsin",
+    "[cotas sobre D-A:] 647,5 [?] · 1299 · 1948,5 [?] · 2598",
+    "Arrendatario        Arrendatario",
+    "[flecha desde D:] Norte verd^{o} V. 11° 42′ N.E.",
+    "[escala transversal:] Escala de Metros  1000 · 500 · 0 · 1000 · 2000 · 3000 · 4000",
+    "[calco, al pie:] Noviembre de 1869   Carlos Schuster",
+    "[calco, a lápiz, en el centro:] 1635^{h}–09^{a} 00^{c}",
+    "[calco, a lápiz, al margen:] 44 / 41 38 / 44 2 [?]",
+    "[plano con marco, a lápiz arriba:] S A de Giles 52"
+   ],
+   "interpretacion": "Un rectángulo casi perfecto de unos 4,8 × 3,4 km —1635 ha según la cifra a lápiz del Departamento; el cálculo con los cuatro rumbos y lados da 1636 ha y cierra con un error de 4 m— que es la «Estancia de Caprile y Picasso». Los cuatro linderos son herederos o vecinos de Bernardo Gutiérrez: la testamentaría de Emilio Gutiérrez al NO, Ángela Gutiérrez de Alegre al SE, la testamentaría de Mónica G. de Alfonsín al SO y, en el ángulo O, Petrona G. de Molina (920 m más allá del mojón de arranque). Al NE, Antonio Rocha, el antiguo dueño del campo (Ficha 019). Es, pues, una de las seis hijuelas de la repartición extrajudicial que Guillermo Teodoro Schuster dibujó después de 1859 (Ficha 024), comprada entera por dos socios de apellido ligur.\nLos mojones costaneros están cada 649,5 m —750 varas, un octavo de legua—, en los cuatro lados. Dentro hay dos «Arrendatarios» y tres «Puestos»; la casa de la estancia está junto al vértice B."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano topográfico de la Estancia de Caprile y Picasso",
+   "img": "img/f/052/03.jpg",
+   "fuente": "IMG_7278.JPG",
+   "orientacion": "Pliego con marco de doble filete; título de plantilla con letras sombreadas; el NO arriba; escala transversal de metros; pie caligráfico con el nombre del agrimensor.",
+   "interpretacion": "Versión «de presentación» del plano: título impreso a pluma («PLANO TOPOGRAFICO de la Estancia»), linderos, rumbos y distancias, la flecha del norte verdadero con la variación 11° 42′ NE trazada desde el vértice D, y los mojones cada 750 varas. Al margen izquierdo del pliego asoma la hoja precedente, con un contorno a lápiz rotulado «Areco».",
+   "referencias": [
+    [
+     "A",
+     "Mojón de arranque (esquina O); a 920 m al NO, esquina de Petrona G. de Molina"
+    ],
+    [
+     "A-B",
+     "N 44° 54′ E 4765 m · Testamentaría de Emilio Gutiérrez"
+    ],
+    [
+     "B-C",
+     "S 47° 3′ E 3410 m · Antonio Rocha"
+    ],
+    [
+     "C-D",
+     "S 45° 38′ O 4926 m · Ángela Gutiérrez de Alegre"
+    ],
+    [
+     "D-A",
+     "N 44° 22′ O 3342 m · Testamentaría de Mónica G. de Alfonsín"
+    ],
+    [
+     "Mojones",
+     "Costaneros a 649,5 · 1299 · 1948,5 · 2598 · 3247,5 · 3897 m (múltiplos de 750 varas)"
+    ],
+    [
+     "Poblaciones",
+     "Estancia de Caprile y Picasso (junto a B) · 3 puestos · 2 arrendatarios · Luciano León [?] y Rocha, fuera del campo"
+    ],
+    [
+     "Norte",
+     "«Norte verd.º V. 11° 42′ N.E.»"
+    ]
+   ]
+  },
+  {
+   "titulo": "Calco en tela del duplicado, con la superficie a lápiz",
+   "img": "img/f/052/04.jpg",
+   "fuente": "IMG_7276.JPG (otra toma: IMG_7277)",
+   "orientacion": "Papel tela con el campo coloreado en verde; firmado «Noviembre de 1869 Carlos Schuster»; encuadernado sobre un folio en papel sellado de 3 pesos con sello «Provincia de Buenos Aires 1870» y foliatura 7.",
+   "interpretacion": "Es el plano agregado al duplicado. El Departamento escribió a lápiz en el centro la superficie, «1635 h 09 a 00 c», y al margen unas cifras («44 / 41 38 / 44 2») que no se entienden sin el texto. Arriba asoma el folio 7, en papel sellado de 1870: el oficio de aprobación, como en las Fichas 045 y 046.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle del plano topográfico",
+   "img": "img/f/052/05.jpg",
+   "fuente": "IMG_7279.JPG",
+   "orientacion": "Toma ampliada del campo.",
+   "interpretacion": "Permite leer las cotas de los mojones, los puestos y la flecha del norte.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Una hijuela gutiérrez vendida entera",
+   "texto": "La repartición de Bernardo Gutiérrez (Ficha 024) tenía seis hijuelas: herederos de Emilio, Norberto, Petrona G. de Molina, Mónica G. de Alfonsín, Ángela G. de Alegre y Advíncula G. de Olivera. En 1869 cuatro de ellas son linderas de este campo, y la que falta en la lista de linderos es la de Norberto Gutiérrez: con toda probabilidad es la que compraron Caprile y Picasso (verificar con el texto cuando se fotografíe). Diez años después de la partición, una de las seis partes ya salió de la familia."
+  },
+  {
+   "titulo": "Los primeros propietarios italianos del corpus",
+   "texto": "Caprile y Picasso son apellidos ligures (Chiavari, Rapallo, Génova). Hasta aquí los italianos del corpus eran arrendatarios (José Pichetto, 1866-68, Ficha 046); en 1869 dos socios compran una estancia de 1635 ha con casa, tres puestos y arrendatarios. La forma «los SS. Caprile y Picasso» sugiere una sociedad comercial (¿barraqueros o comerciantes de Buenos Aires?) más que una familia instalada en el campo."
+  },
+  {
+   "titulo": "Mojones cada 750 varas",
+   "texto": "Todos los costaneros están a múltiplos de 649,5 m = 750 varas (un octavo de legua): un módulo nuevo en el corpus, distinto de los 866 m (1000 v) de Differt, los 1299 m (1500 v) de Saubidet y Coquet y los 1000 m de Meyrelles. El plano está todo en metros pero el amojonamiento sigue pensado en varas."
+  },
+  {
+   "titulo": "Variación 11° 42′ ne en 1869",
+   "texto": "Es la primera cifra del corpus posterior a 1868 y queda en la familia «alta» (Fremiot, Saubidet, Differt, Meyrelles: 11° 25′-11° 39′), unos 45′ por encima de Gonnet y Coquet (1866). No se sabe si fue observada: el texto no está."
+  },
+  {
+   "titulo": "Otro schuster",
+   "texto": "El agrimensor firma «Carlos Schuster»; las mensuras de 1856 (Ficha 009) y 1859 (Ficha 024), y la repartición Gutiérrez, son de «G. Teodoro» / «Guillermo T.» Schuster. El informe del D. T. de la Ficha 053 dice expresamente que la mensura de Petrona G. de Molina (del mismo mes y agrimensor) está «enteramente conforme» con la operación del «Agrimensor D. Teodoro Schuster»: Carlos remide sobre el reparto de Teodoro. ¿Hijo, hermano o el mismo con otro nombre de pila? Queda abierto."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Faltan fs. 1-6: títulos (¿compra a Norberto Gutiérrez o a sus herederos?, fecha, escribano), citación de linderos, observación de la variación y el oficio judicial de 1870. ¿Quiénes son los arrendatarios? ¿Luciano León es el «León» de la lista de apellidos recurrentes?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Caprile y Picasso",
+   "rol": "Propietarios",
+   "texto": "Dos socios, sin nombres de pila en lo fotografiado, dueños en 1869 de la «Estancia de Caprile y Picasso», 1635 ha del antiguo campo de Bernardo Gutiérrez. Los apellidos son característicos de la Liguria; la inmigración genovesa dominaba entonces el comercio de cabotaje y almacén en Buenos Aires. La búsqueda web no dio datos sobre ellos.",
+   "fuentes": "Esta mensura; búsqueda web sin resultados (octubre de 2026)."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor público; mide en noviembre de 1869 este campo y el de Petrona G. de Molina (Ficha 053), ambos hijuelas del reparto que hizo Guillermo Teodoro Schuster (Ficha 024). Plano de presentación con título de plantilla, marco doble y escala transversal. Parentesco con G. T. Schuster no documentado. Sin datos en la web.",
+   "fuentes": "Fichas 009, 024, 053; búsqueda web sin resultados."
+  },
+  {
+   "nombre": "Herederos de Bernardo Gutiérrez",
+   "rol": "Linderos",
+   "texto": "Emilio (ya muerto: «testamentaría»), Mónica G. de Alfonsín (también muerta en 1869), Ángela G. de Alegre (casada con Mariano Alegre) y Petrona G. de Molina, hijos de Bernardo Gutiérrez, que compró el campo ex Frías en 1838 y lo hizo medir en 1859.",
+   "fuentes": "Ficha 024."
+  },
+  {
+   "nombre": "Antonio Rocha",
+   "rol": "Lindero ne",
+   "texto": "Compró el campo a Gutiérrez el mismo día de 1838 y se lo revendió en 1848-49 (Fichas 019, 024); en 1869 conserva tierra y población al NE.",
+   "fuentes": "Fichas 019, 024."
+  },
+  {
+   "nombre": "Luciano León [?]",
+   "rol": "Poblador",
+   "texto": "Población rotulada fuera del campo, cerca del vértice B. Lectura dudosa; sin datos.",
+   "fuentes": "Este plano."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/052/02.jpg",
+  "fuente": "IMG_7275.JPG",
+  "lineas": [
+   "[a lápiz, borroso:] Copiado [?]",
+   "N^{o} 213                Seccion de Areco",
+   "                                Giles",
+   "                                52",
+   "Duplicado de la diligencias de men-",
+   "sura y plano del terreno de los SS.",
+   "Caprile y Picasso, situado en el",
+   "Partido de San Andres de Giles.",
+   "Medido en el mes de Noviembre",
+   "de",
+   "1869 –",
+   "Por el Agrimensor",
+   "Carlos Schuster"
+  ]
+ },
+ "titulo": "Caprile y Picasso",
+ "estado": "Transcripta (1 hojas, 27 renglones), 3 láminas"
+}
