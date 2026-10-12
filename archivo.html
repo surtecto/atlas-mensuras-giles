@@ -158,13 +158,14 @@ footer{border-top:1px solid var(--line);padding-block:1.2rem 2.5rem;font-size:14
 .files{list-style:none;margin:0;padding:0;display:grid;gap:.3rem;font-size:15px}
 .files li{display:flex;flex-wrap:wrap;gap:.4rem;align-items:center}
 .files .bad{color:var(--sel)}
+.gform{width:100%;max-width:860px;height:1150px;border:1px solid var(--line);border-radius:6px;background:#fff}
 .drop{border:1px dashed var(--line);border-radius:6px;padding:.8rem 1rem;background:var(--sheet);display:grid;gap:.5rem;min-width:0}
 .printonly{display:none}
 @media print{
   :root{--paper:#fff;--sheet:#fff;--ink:#000;--muted:#444;--line:#bbb;--accent:#1F4E79;--sel:#8a2412;color-scheme:light}
   @page{size:A4;margin:16mm 15mm}
   body{font-size:10.5pt;line-height:1.4;background:#fff}
-  header.top nav,.brand a.back,.brand p,.tools,.filters,.btn,footer,.corpus,.key,#aform,#aout,.seg,#tipos,#fmt-a,.thumbs small{display:none!important}
+  header.top nav,.brand a.back,.brand p,.tools,.filters,.btn,footer,.corpus,.key,#aform-on,.seg,.thumbs small{display:none!important}
   header.top{border:0;padding:0 0 4mm}.brand h1{font:500 9pt var(--f-mono);letter-spacing:.08em;text-transform:uppercase}
   .printonly{display:inline}
   main{padding:0}.wrap{max-width:none;padding:0}
@@ -258,8 +259,6 @@ footer{border-top:1px solid var(--line);padding-block:1.2rem 2.5rem;font-size:14
 <section id="v-aportes" class="stack" hidden>
   <div><p class="eyebrow">El Atlas se completa entre todos</p><h2>Aportes</h2>
   <p class="lede">Un atlas ayuda a comprender un territorio cuando junta la medida con la memoria. Los duplicados dicen dónde estaba el mojón; quien vive ahí sabe qué árbol era, cómo se llamaba el paso, quién levantó la casa. Todo aporte se revisa antes de publicarse y aparece con el nombre de quien lo acercó.</p></div>
-  <div class="stack" style="gap:.6rem"><p class="eyebrow">Cuatro clases de archivo, las mismas para subir y para bajar</p><div class="fmt" id="fmt-a"></div></div>
-  <div class="tipos" id="tipos"></div>
 
   <div class="sec" style="padding-top:.4rem">
     <h3>Aportes publicados</h3>
@@ -270,31 +269,12 @@ footer{border-top:1px solid var(--line);padding-block:1.2rem 2.5rem;font-size:14
 
   <div class="sec">
     <h3 id="aportar">Sumar un aporte</h3>
-    <p class="note">Completá la ficha. Al terminar se arma el registro del aporte, que acompaña a los archivos que envíes.</p>
-    <form class="form" id="aform" novalidate>
-      <label>Tipo de aporte<select id="a-tipo" required></select></label>
-      <label>Título<input id="a-titulo" required placeholder="Ej.: Tapera de la pulpería sobre el camino a Zárate"></label>
-      <label class="w">Descripción<textarea id="a-desc" required placeholder="Qué es, qué muestra, qué sabés de su historia."></textarea></label>
-      <label>Lugar o paraje<input id="a-lugar" placeholder="Estancia, cuartel, arroyo, calle…"></label>
-      <label>Coordenadas, si las tenés<input id="a-coord" placeholder="-34.4465, -59.4440" inputmode="text"></label>
-      <label>Año o época<input id="a-anio" placeholder="1934, c. 1900, década de 1960…"></label>
-      <label>Carpeta de mensura vinculada<input id="a-carp" placeholder="Número de carpeta, si corresponde" inputmode="numeric"></label>
-      <label>Procedencia o fuente<input id="a-fuente" placeholder="Álbum familiar, archivo, publicación, relato de…"></label>
-      <label>Enlace, si ya está publicado<input id="a-url" type="url" placeholder="https://…"></label>
-      <label>Tu nombre, como querés figurar<input id="a-autor" required></label>
-      <label>Correo de contacto (no se publica)<input id="a-mail" type="email" required></label>
-      <div class="w drop"><label for="a-files" style="font:500 12px var(--f-mono);letter-spacing:.04em;color:var(--muted)">Archivos del aporte</label>
-        <input type="file" id="a-files" multiple accept=".jpg,.jpeg,.png,.tif,.tiff,.webp,.pdf,.xlsx,.csv,.zip,.geojson,.json,.kml,.kmz,.gpx">
-        <ul class="files" id="a-flist"></ul>
-        <p class="note" style="font-size:14px">Elegí los archivos para comprobar que están en un formato admitido. Se anotan en el registro y los adjuntás al enviarlo.</p></div>
-      <label class="w chk"><input type="checkbox" id="a-lic" required><span>Tengo derecho a compartir este material y acepto que se publique en el Atlas con mi nombre, bajo licencia <a id="licl" target="_blank" rel="noopener">CC BY 4.0</a>. No incluye datos personales de terceros vivos sin su consentimiento.</span></label>
-      <div class="w row"><button class="btn pri" type="submit">Armar el registro del aporte</button><p class="err" id="aerr" role="alert" hidden></p></div>
-    </form>
-    <div id="aout" class="stack" hidden>
-      <p class="note" id="aout-how"></p>
-      <div class="out" id="aout-txt" tabindex="0"></div>
-      <div class="row"><button class="btn" id="acopy">Copiar el registro</button><a class="btn pri" id="aform-link" target="_blank" rel="noopener" hidden>Abrir el formulario de carga</a><span class="note" id="acopied" hidden>Copiado.</span></div>
+    <p class="note">Una foto, un plano, un documento, un relato o una investigación ayudan a leer mejor estas mensuras. En el formulario elegís el tipo de aporte, ponés tu nombre, sumás una descripción si querés y subís el archivo. Cada aporte se revisa antes de publicarse y aparece en esta página con tu nombre, bajo licencia <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noopener">CC BY 4.0</a>.</p>
+    <div id="aform-on" class="stack" style="gap:.6rem" hidden>
+      <p class="note" style="font-size:14px">Para subir archivos, Google pide entrar con una cuenta de Google. Si el formulario no se ve bien acá, <a id="aform-link" target="_blank" rel="noopener">abrilo en una pestaña nueva</a>.</p>
+      <iframe id="aform-frame" class="gform" title="Formulario de aportes" loading="lazy"></iframe>
     </div>
+    <p class="note" id="aform-off" hidden></p>
   </div>
 </section>
 
@@ -467,46 +447,18 @@ const FAM={img:{n:'Imágenes',ext:['jpg','jpeg','png','tif','tiff','webp'],ver:'
   tab:{n:'Datos en tabla',ext:['xlsx','csv'],ver:'Excel (XLSX) · CSV',que:'Listados, censos, padrones, series de datos.',conv:'El Atlas entrega todos sus datos en un solo libro de Excel.'},
   sig:{n:'Información espacial',ext:['zip','geojson','json','kml','kmz','gpx'],ver:'SHP (.zip) · GeoJSON · JSON · KML · KMZ',que:'Capas, recorridos, puntos y polígonos con coordenadas.',conv:'El Shapefile va en un .zip con .shp, .shx, .dbf y .prj. Desde AutoCAD o QGIS se exporta a KML o SHP.'}};
 const famHTML=Object.values(FAM).map(f=>`<div class="card"><b>${f.n}</b><div class="row">${f.ver.split(' · ').map(x=>`<span class="ext">${x}</span>`).join('')}</div><p>${f.que}</p><span class="rol">${f.conv}</span></div>`).join('');
-$('#fmt-a').innerHTML=famHTML;$('#fmt-d').innerHTML=famHTML;
+$('#fmt-d').innerHTML=famHTML;
 const TA=[['foto','Fotografía','Lugares, cascos, galpones, caminos, gente trabajando. De ayer o de hoy.','img'],['mapa','Mapa o plano','Planos de campos, loteos, croquis, cartas antiguas, mensuras particulares.','img txt sig'],['capa','Capa o dato espacial','Un recorrido, un relevamiento, puntos o polígonos tomados con GPS o dibujados en un SIG.','sig'],['documento','Documento','Escrituras, boletos, cartas, guías, libretas, recortes.','txt img'],['investigacion','Investigación propia','Monografías, tesis, artículos, trabajos escolares, relevamientos.','txt tab'],['bibliografia','Bibliografía','Un libro o un paper sobre Giles que falta en la Biblioteca.','txt'],['memoria','Memoria oral','Relatos de mayores, anécdotas, oficios, cómo era un lugar.','txt'],['toponimia','Nombres de lugares','Cómo se llama o se llamaba un paraje, un paso, una cañada, una esquina.','sig'],['genealogia','Genealogía','Familias de las mensuras: quién era hijo de quién, de dónde vinieron.','txt img'],['correccion','Corrección','Un nombre mal leído, una fecha, una ubicación que no es.','']];
 const TAn=Object.fromEntries(TA.map(t=>[t[0],t[1]]));
-$('#tipos').innerHTML=TA.map(t=>`<div class="card"><b>${t[1]}</b><p>${t[2]}</p><div class="row">${t[3]?t[3].split(' ').map(k=>`<span class="ext">${FAM[k].ver.split(' · ')[0]}</span>`).join(''):'<span class="rol">sin archivo: alcanza con la descripción</span>'}</div></div>`).join('');
-$('#a-tipo').innerHTML=TA.map(t=>`<option value="${t[0]}">${t[1]}</option>`).join('');
 $('#atipo').innerHTML+=[...new Set(APO.map(a=>a.tipo))].map(t=>`<option value="${esc(t)}">${esc(TAn[t]||t)}</option>`).join('');
-$('#licl').href=CFG.licencia_url||'#';
 function apoItem(a){return `<div class="item"><span class="n">${esc(a.anio||'s/f')}</span><span class="body"><span class="ti">${esc(a.titulo)}</span><span class="me">${esc(TAn[a.tipo]||a.tipo)} · aportado por ${esc(a.autor)}${a.fecha?' · '+esc(a.fecha):''}${a.lugar?' · '+esc(a.lugar):''}</span><span class="tx">${esc(a.descripcion)}</span>
   <span class="row" style="margin-top:.2rem">${a.carpeta?`<a class="chip" href="#f${pad(a.carpeta)}">carpeta ${esc(a.carpeta)}</a>`:''}${a.coordenadas?`<a class="chip" href="https://www.openstreetmap.org/?mlat=${encodeURIComponent(String(a.coordenadas).split(',')[0].trim())}&mlon=${encodeURIComponent((String(a.coordenadas).split(',')[1]||'').trim())}#map=15/${encodeURIComponent(String(a.coordenadas).replace(/\s/g,'').replace(',','/'))}" target="_blank" rel="noopener">${esc(a.coordenadas)}</a>`:''}${a.fuente?`<span class="chip">${esc(a.fuente)}</span>`:''}${(a.archivos||[]).map(x=>`<a class="btn" href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.nombre||'Archivo')}</a>`).join('')}${a.url?`<a class="btn" href="${esc(a.url)}" target="_blank" rel="noopener">Enlace</a>`:''}</span></span></div>`}
 function renderA(){const t=$('#atipo').value,L=APO.filter(a=>!t||a.tipo===t);$('#acount').textContent=APO.length?L.length+' aporte'+(L.length===1?'':'s'):'';
   $('#alist').innerHTML=L.map(apoItem).join('')||`<p class="note" style="padding:1rem 0">Todavía no hay aportes publicados. Acá van a aparecer las fotos, mapas, documentos, relatos e investigaciones que vecinos e investigadores acerquen, cada uno con su autor y su procedencia. El primero puede ser el tuyo.</p>`}
 $('#atipo').addEventListener('input',renderA);
-let REG=null,FILES=[];
-const famOf=x=>Object.keys(FAM).find(k=>FAM[k].ext.includes(x))||'';
-const leer=(f,como)=>new Promise(r=>{const fr=new FileReader();fr.onload=()=>r(fr.result);fr.onerror=()=>r('');como==='bin'?fr.readAsBinaryString(f):fr.readAsText(f)});
-async function revisar(f){const ext=(f.name.split('.').pop()||'').toLowerCase(),fam=famOf(ext),mb=f.size/1048576,o={nombre:f.name,formato:ext.toUpperCase(),clase:fam?FAM[fam].n:'',mb:+mb.toFixed(2),ok:!!fam,nota:''};
-  if(!fam){o.nota={doc:1,docx:1,odt:1,ppt:1,pptx:1}[ext]?'Guardalo como PDF y volvé a elegirlo.':{heic:1,heif:1,bmp:1,gif:1}[ext]?'Convertilo a JPG o PNG.':{shp:1,dbf:1,shx:1,prj:1}[ext]?'El Shapefile va entero en un .zip (.shp, .shx, .dbf y .prj).':{dwg:1,dxf:1}[ext]?'Exportalo a KML o Shapefile, o a PDF si es una lámina.':{xls:1,ods:1}[ext]?'Guardalo como Excel (.xlsx).':'Formato no admitido.';return o}
-  if(mb>100){o.ok=false;o.nota='Pesa más de 100 MB. Mandalo por enlace (campo «Enlace»).';return o}
-  try{
-    if(ext==='zip'){const t=(await leer(f,'bin')).toLowerCase(),falta=['.shp','.shx','.dbf','.prj'].filter(e=>!t.includes(e));
-      if(falta.includes('.shp')){o.ok=false;o.nota='El .zip no contiene un Shapefile (.shp).'}else if(falta.length)o.nota='Shapefile incompleto: falta '+falta.join(', ')+(falta.includes('.prj')?' (sin .prj no se sabe el sistema de coordenadas)':'')+'.';else o.nota='Shapefile completo.'}
-    else if(ext==='geojson'||ext==='json'){const j=JSON.parse(await leer(f));const n=j.type==='FeatureCollection'?(j.features||[]).length:(j.type==='Feature'||j.coordinates)?1:-1;if(n<0){o.ok=false;o.nota='No es un GeoJSON: le falta «FeatureCollection».'}else o.nota=n+' elemento'+(n===1?'':'s')+' con geometría.'}
-    else if(ext==='kml'){const n=((await leer(f)).match(/<Placemark[\s>]/g)||[]).length;if(!n){o.ok=false;o.nota='El KML no tiene elementos (Placemark).'}else o.nota=n+' elemento'+(n===1?'':'s')+'.'}
-  }catch(e){o.ok=false;o.nota='No se pudo leer: el archivo parece dañado.'}
-  return o}
-$('#a-files').addEventListener('change',async e=>{FILES=await Promise.all([...e.target.files].map(revisar));
-  $('#a-flist').innerHTML=FILES.map(f=>`<li class="${f.ok?'':'bad'}"><span class="ext">${esc(f.formato)}</span><span>${esc(f.nombre)}</span><span class="rol">${f.mb} MB${f.clase?' · '+esc(f.clase):''}</span><span>${f.ok?'✓':'✕'} ${esc(f.nota)}</span></li>`).join('')});
-$('#aform').addEventListener('submit',e=>{e.preventDefault();const v=id=>$('#a-'+id).value.trim(),er=$('#aerr');
-  const falta=[['titulo','el título'],['desc','la descripción'],['autor','tu nombre'],['mail','un correo de contacto']].filter(x=>!v(x[0])).map(x=>x[1]);
-  if(v('mail')&&!/^\S+@\S+\.\S+$/.test(v('mail')))falta.push('un correo válido');
-  if(v('coord')&&!/^-?\d+([.,]\d+)?\s*[,;]\s*-?\d+([.,]\d+)?$/.test(v('coord')))falta.push('coordenadas como «-34.44, -59.44» (o dejalas vacías)');
-  if(FILES.some(f=>!f.ok))falta.push('quitar o convertir los archivos marcados con ✕');
-  if(!$('#a-lic').checked)falta.push('aceptar la licencia');
-  if(falta.length){er.textContent='Falta '+falta.join(', ')+'.';er.hidden=false;return}er.hidden=true;
-  REG={id:'ap-'+new Date().toISOString().slice(0,10).replace(/-/g,'')+'-'+Math.random().toString(36).slice(2,6),tipo:v('tipo'),titulo:v('titulo'),descripcion:v('desc'),lugar:v('lugar'),coordenadas:v('coord'),anio:v('anio'),carpeta:v('carp'),fuente:v('fuente'),url:v('url'),autor:v('autor'),contacto:v('mail'),licencia:CFG.licencia_textos||'CC BY 4.0',fecha:new Date().toISOString().slice(0,10),archivos:FILES.map(({nombre,formato,mb})=>({nombre,formato,mb,url:''}))};
-  $('#aout-txt').textContent=JSON.stringify(REG,null,1);
-  const fu=CFG.formulario_aportes;$('#aform-link').hidden=!fu;if(fu)$('#aform-link').href=fu;
-  $('#aout-how').innerHTML=fu?'Listo. Copiá el registro, abrí el formulario de carga, pegalo en el primer campo y adjuntá los archivos que elegiste.':`Listo. Copiá el registro y envialo junto con los archivos que elegiste a <b style="user-select:all">${esc(CFG.correo||'')}</b>. Cuando se revise, aparece publicado en esta página con tu nombre.`;
-  $('#aout').hidden=false;$('#aout').scrollIntoView({block:'nearest'})});
-$('#acopy').onclick=()=>copy($('#aout-txt').textContent,$('#acopied'));
+{const fu=(CFG.formulario_aportes||'').trim();
+  if(fu){$('#aform-link').href=fu;$('#aform-frame').src=fu+(fu.includes('?')?'&':'?')+'embedded=true';$('#aform-on').hidden=false}
+  else{$('#aform-off').innerHTML=`El formulario de carga está en preparación. Mientras tanto, mandá tu aporte a <b style="user-select:all">${esc(CFG.correo||'')}</b>.`;$('#aform-off').hidden=false}}
 
 /* ---------- PREGUNTAS, PLATAFORMAS, DESCARGAS ---------- */
 $('#qlist').innerHTML=QS.map(q=>`<div class="q"><h3>${esc(q.q)}</h3><p>${esc(q.t)}</p><p class="note"><b>Serviría:</b> ${esc(q.busca)}</p><div class="row">${(q.fichas||[]).map(n=>`<a class="chip" href="#f${pad(n)}">Ficha ${pad(n)}</a>`).join('')}<a class="btn" href="#aportes">Tengo algo sobre esto</a></div></div>`).join('');
