@@ -1,0 +1,235 @@
+{
+ "carpeta": "59",
+ "carpeta_nombre": "Carpeta 59",
+ "archivo": "Ficha 059 - Herederos de José Díaz (1870).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (al S del pueblo, entre Lescano y Achával)",
+  "N.º de duplicado": "59 · Sección Areco N.º 234 [?]",
+  "Propietario / solicitante": "Herederos de José Díaz",
+  "Agrimensor": "Pedro Saubidet",
+  "Año": "1870",
+  "Fecha de la diligencia": "Septiembre de 1870 (portadilla)",
+  "Ubicación": "Al S del pueblo: entre Solano Lescano (O), Achával (S), her. de Rodríguez (E) y José Piquetto (N)",
+  "Orden judicial": "No fotografiada (falta todo el texto)",
+  "Vendedor / antecesor": "José Díaz (¿ex Díaz de Vivar?); a lápiz «Ver 138»",
+  "Linderos citados": "José Piquetto (N) · Solano Lescano (O) · her. de Achával (S) · her. de Rodríguez (E)",
+  "Medidas": "2638 m (3047 v) × 6953 m (8029 v); Fernando Díaz 923,58 ha (lápiz); Romana 2165 m (2500 v) de fondo",
+  "Rumbos": "N 38° 40′ E corr. · N 51° 50′ O · N 52° O; Var. 11° 30′ N. E.",
+  "Referencia de archivo": "Duplicado 59 (a lápiz «Ver 138»)"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 1834 (rectángulo total, calculado); Fernando Díaz 923,58",
+  "hitos": "Mojón de arranque; mojón de piedra; casa con monte de Rufina; puesto de Fernando",
+  "aguas": "Dos cursos sin nombre legible"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron carátula, portadilla y plano. Pedro Saubidet mide y divide en septiembre de 1870 el campo de los herederos de José Díaz, al S del pueblo, entre Solano Lescano, los herederos de Achával, los de Rodríguez y José Piquetto: un rectángulo de 3047 × 8029 varas (≈ 1830 ha) con los rumbos del campo vecino de Lescano. Lo reparten Fernando Díaz (923,58 ha), Atanacia Díaz de Ortiz, Rufina Díaz de Cabral —con una escotadura que salva su casa— y Romana Díaz de González. Al E, Saubidet deja por tercera vez un «sobrante perteneciente á los herederos de Don Pedro D. de Vivar», como en Noriega (039) y Lescano (045). Variación 11° 30′, su cifra convencional.",
+ "caratula": {
+  "img": "img/f/059/01.jpg",
+  "fuente": "IMG_7300.JPG",
+  "campos": [
+   [
+    "N.º",
+    "59"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "José Diaz"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Saubidet"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1870"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Saubidet",
+   "img": "img/f/059/04.jpg",
+   "fuente": "IMG_7302 a IMG_7304",
+   "nota": "Sólo se fotografiaron carátula, portadilla y plano. Plano a tinta con el perímetro de cada hijuela en carmín, dos escalas (varas y metros) y firma «Pedro Saubidet». Cifras chicas de lectura difícil; la superficie de Fernando Díaz está escrita a lápiz por otra mano.",
+   "lineas": [
+    "[al N:] José Piquetto",
+    "[línea N:] S. 38° 50′ O. = 2658 m. 3070 v. [?]   [tramos:] 441 m^{s} 511 v. · 1271 m [?] · 2096 v [?]",
+    "M. de piedra   405 v^{s}   M. de Romana Diaz",
+    "[al O:] Solano Lescano",
+    "Atanacia Diaz de Ortiz   N. 52° O. = 6947 m^{s} 8023 v^{s}   [cotas:] 3829 [?] · 4329 [?]",
+    "1732 m^{s} 2000 v^{s}   ·   N. 38° 40′ [E] 441 m^{s} 510 v^{s}",
+    "Rufina Diaz de Cabral   N. 52° O. = 3050 m^{s} 3523 v^{s}   [casa con monte]",
+    "Fernando Diaz   P.^{to} [?] de D.^{n} Fernando   [a lápiz:] 923 57 75",
+    "[costado E:] 4788 m^{s} 5529 v^{s}   ·   N. 51° 50′ O. = 6953 m^{s} 8029 v^{s}",
+    "P.   N. 38° 40′ E. = 2206 m^{s} 2548 v^{s}   R.",
+    "Romana Diaz de Gonzalez   2165 m^{s} = 2500 v^{s}",
+    "Sobrante perteneciente á los herederos de Don Pedro D. de Vivar",
+    "[al E:] Herederos de Rodriguez",
+    "[línea S:] N. 38° 40′ E. corr. = 2638 m^{s} 3047 v^{s}   [tramos:] 433 m [?] = 500 v · 1623 v [?] · 2198 m^{s} · 312 v^{s} [?]",
+    "Mojon de arranque   ·   M. de D.^{a} Romana Diaz",
+    "[al S:] Herederos de Achaval",
+    "[cursos:] arroyo (rótulo «…rende…» [?]) · Arroyito [?] · camino [?]",
+    "[flecha:] Var. 11° 30′ N. E.   N. V.",
+    "[escalas:] 5000 varas · 5000 metros",
+    "Pedro Saubidet [rúbrica]"
+   ],
+   "interpretacion": "El campo de los herederos de José Díaz es un rectángulo de 3047 varas de frente (2638 m) sobre la línea de Achával por 8029 varas de fondo (6953 m), con rumbos N 38° 40′ E y N 51° 50′ O: la misma orientación que el campo vecino de Lescano (Ficha 045). Se reparte entre cuatro herederos: Romana Díaz de González toma el extremo S (2500 varas de fondo); Fernando Díaz un rectángulo de 2206 m de ancho por 4788 m, menos una escotadura para Rufina Díaz de Cabral (441 × 3050 m), con superficie anotada a lápiz de 923 ha 57 a 75 ca, que cuadra con esas cifras; Atanacia Díaz de Ortiz una faja larga al O, contra Solano Lescano. Al costado E, entre las hijuelas y los herederos de Rodríguez, Saubidet deja una faja «Sobrante perteneciente á los herederos de Don Pedro D. de Vivar». Variación 11° 30′ N. E."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de los herederos de José Díaz (Saubidet, 1870)",
+   "img": "img/f/059/03.jpg",
+   "fuente": "IMG_7302.JPG",
+   "orientacion": "Plano vertical; flecha «N. V.» en diagonal con «Var. 11° 30′ N. E.» desde el mojón de arranque; dos escalas gráficas (5000 varas y 5000 metros); firma «Pedro Saubidet».",
+   "interpretacion": "Rectángulo partido en cuatro hijuelas y una faja de sobrante al E; dos cursos de agua lo cruzan en diagonal; casa con monte de Rufina y puesto de Fernando.",
+   "referencias": [
+    [
+     "Línea N",
+     "S 38° 50′ O 2658 m [?] · José Piquetto; mojón de piedra; mojón de Romana Díaz"
+    ],
+    [
+     "Línea S",
+     "N 38° 40′ E corr. 2638 m (3047 v) · herederos de Achával; mojón de arranque"
+    ],
+    [
+     "Costado O",
+     "N 52° O 6947 m (8023 v) · Solano Lescano"
+    ],
+    [
+     "Costado E",
+     "N 51° 50′ O 6953 m (8029 v) · faja de sobrante de los her. de Pedro Díaz de Vivar; her. de Rodríguez"
+    ],
+    [
+     "Fernando Díaz",
+     "2206 m × 4788 m menos la escotadura de Rufina; 923,58 ha (lápiz)"
+    ],
+    [
+     "Rufina Díaz de Cabral",
+     "441 m (510 v) × 3050 m (3523 v); casa con monte"
+    ],
+    [
+     "Atanacia Díaz de Ortiz",
+     "Faja O de 6947 m; quiebre a 1732 m (2000 v)"
+    ],
+    [
+     "Romana Díaz de González",
+     "Extremo S, 2165 m (2500 v) de fondo"
+    ],
+    [
+     "Escalas",
+     "5000 varas y 5000 metros"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle de las hijuelas del N",
+   "img": "img/f/059/04.jpg",
+   "fuente": "IMG_7303.JPG",
+   "orientacion": "Toma ampliada.",
+   "interpretacion": "Rufina Díaz de Cabral, Fernando Díaz, la superficie a lápiz y los dos cursos de agua; el rótulo del sobrante de Vivar.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle del S y del mojón de arranque",
+   "img": "img/f/059/05.jpg",
+   "fuente": "IMG_7304.JPG",
+   "orientacion": "Toma ampliada (girada).",
+   "interpretacion": "Romana Díaz de González, la faja del sobrante, el mojón de arranque y los herederos de Achával.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Las sobras de vivar, por tercera vez",
+   "texto": "Saubidet vuelve a dejar un excedente no fiscal: «Sobrante perteneciente á los herederos de Don Pedro D. de Vivar», como en Noriega (Ficha 039, 1866) y en Lescano (Ficha 045, 1866). Es ya una práctica sistemática del agrimensor en el rincón S del partido: el exceso se atribuye a los sucesores del vendedor originario de la merced. En 1885 Luis Vernet pedirá ubicación en «las sobras de Díaz de Vivar» (039)."
+  },
+  {
+   "titulo": "Dónde está",
+   "texto": "Al S del pueblo, en el bloque Noriega–Lescano–Achával (Fichas 028, 039, 045): Solano Lescano al O, herederos de Achával al S, herederos de Rodríguez al E. Mismo sistema de rumbos que Lescano (N 52° O / N 37°-38° E). En el plano de Lescano (045) el D. T. anotó a lápiz «Fernando Díaz, dup. n.º 164 y 138»; aquí la portadilla remite «Ver 138»: este campo es el de esos duplicados posteriores. Al N, José Piquetto (¿el José Pichetto arrendatario de la Ficha 046?)."
+  },
+  {
+   "titulo": "Una partición por fajas y escotaduras",
+   "texto": "Cuatro hermanos Díaz: Romana (casada con González), Fernando, Rufina (de Cabral) y Atanacia (de Ortiz). La partición combina fajas a lo largo (Atanacia), un corte transversal (Romana, 2500 v) y una escotadura que salva la casa con monte de Rufina: la casa decide la forma, como en Colmenero (Ficha 054). ¿Es Romana Díaz la heredera de Cruz Rodríguez de Díaz que vendió a Pedro Veloz (Ficha 035)?"
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Varas y metros a la par (8029 v = 6953 m; 2500 v = 2165 m); rumbo «corregido» en la línea S; variación 11° 30′ N. E., la cifra convencional de Saubidet desde 1865 (cuarta o quinta reutilización: 028, 039, 045, ahora 059). Dos escalas gráficas, como en 045."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "Dos cursos de agua cruzan el campo de NE a SO (uno quizá rotulado como arroyo, el otro «arroyito» [?]); una línea que podría ser un camino corre junto al primero. Casa con monte de Rufina; puesto o población de Fernando. Sin estancias con nombre."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Falta todo el texto. ¿Quién fue José Díaz y de dónde viene su título (¿Díaz de Vivar?, ¿Fernando Díaz de las Fichas 045 y 047?)? ¿Qué dicen los Dup. 138 y 164? ¿Cuánto mide la faja de sobrante (405 v en el N, 312 v en el S)?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "José Díaz y sus herederos",
+   "rol": "Propietarios",
+   "texto": "Causante fallecido antes de 1870. Herederos: Fernando Díaz, Atanacia Díaz de Ortiz, Rufina Díaz de Cabral, Romana Díaz de González. Un Fernando Díaz es lindero de Lescano (045) y del cuadrado de Tadeo Rodríguez (047); una Romana Díaz vende a Pedro Veloz en la margen E (035).",
+   "fuentes": "Este plano; Fichas 035, 045, 047."
+  },
+  {
+   "nombre": "Pedro Saubidet",
+   "rol": "Agrimensor",
+   "texto": "Ayudante de Kuhr en 1856 (020), agrimensor público desde 1863; mide en el S del partido Noriega (028, 039) y Lescano (045). Sexta diligencia en el corpus.",
+   "fuentes": "Fichas 020, 028, 039, 045."
+  },
+  {
+   "nombre": "Herederos de Pedro Díaz de Vivar",
+   "rol": "Titulares del sobrante",
+   "texto": "Sucesores del vendedor originario de la merced; Saubidet les atribuye los excedentes del S del partido.",
+   "fuentes": "Fichas 039, 045."
+  },
+  {
+   "nombre": "Solano Lescano · herederos de Achával · herederos de Rodríguez · José Piquetto",
+   "rol": "Linderos",
+   "texto": "Solano Lescano, de la familia de la Ficha 045; Achával, lindero de 037 y 045; José Piquetto, probablemente José Pichetto, arrendatario italiano en 1868 (046).",
+   "fuentes": "Fichas 037, 045, 046."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/059/02.jpg",
+  "fuente": "IMG_7301.JPG",
+  "lineas": [
+   "[a lápiz, recuadro:] Copiado [?]",
+   "Seccion Areco          Giles",
+   "N.^{o} 234 [?]          59",
+   "Duplicado de la mensura del terreno de la",
+   "propiedad de los herederos de Don José Diaz",
+   "situado en el partido de S.^{n} Andres de Giles",
+   "Practicada en el mes de Sept.^{e} de 1870 por el",
+   "agrimensor Saubidet.",
+   "[a lápiz:] Ver 138."
+  ]
+ },
+ "titulo": "Herederos de José Díaz",
+ "estado": "Transcripta (1 hojas, 20 renglones), 3 láminas"
+}

@@ -1,0 +1,296 @@
+{
+ "carpeta": "56",
+ "carpeta_nombre": "Carpeta 56",
+ "archivo": "Ficha 056 - Rosendo de Dios (1870).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (margen O del arroyo de Giles, confluencia del arroyo de Suero)",
+  "N.º de duplicado": "56 · Sección Areco N.º 222",
+  "Propietario / solicitante": "Rosendo de Dios",
+  "Agrimensor": "Mariano Iparraguirre (Ybarraguirre)",
+  "Año": "1870",
+  "Fecha de la diligencia": "Plano firmado en Buenos Aires, abril de 1870",
+  "Ubicación": "Entre el arroyo de Giles y el de Suero, frente a Benedicta Figueroa de Álvarez",
+  "Orden judicial": "No fotografiada (falta todo el texto)",
+  "Vendedor / antecesor": "Títulos Figueroa (her. de Tomás Figueroa; 1.º y 2.º título)",
+  "Linderos citados": "Trinidad M. de Figueroa (NE) · José Figueroa (NO, cuestionado) · M.ª M. de Mooney · Andrés Pueblas (SO)",
+  "Medidas": "Líneas S 47° 6′ E de 4864,7 [?], 5127,7 y 5271,4 m; costado S 58° 17′ O 1787,4 m; ≈ 875 ha (calc.)",
+  "Rumbos": "S 47° 6′ E · S 42° 54′ O · S 58° 17′ O; variación 11° 0′ [?] N. E.",
+  "Referencia de archivo": "Duplicado 56"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 875 (Rosendo de Dios, calculada)",
+  "hitos": "Estancia y puesto de R. de Dios; puesto de J. Figueroa; mojones cada 1299 m",
+  "aguas": "Arroyo de Giles; arroyo de Suero"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron carátula, portadilla y planos. Mariano Iparraguirre (firma «Ybarraguirre») mide en abril de 1870 el campo de Rosendo de Dios en la margen O del arroyo de Giles, donde desemboca el arroyo de Suero: una faja de ≈ 5,2 km perpendicular al arroyo (S 47° 6′ E), de ≈ 875 ha, con la estancia sobre la divisoria con Trinidad M. de Figueroa y un puesto junto al arroyo. El fondo NO corre S 58° 17′ O contra un «terreno cuestionado por D. José Figueroa»; al SO, María M. de Mooney y Andrés Pueblas. Una segunda lámina superpone las ubicaciones de los dos títulos de los herederos de Tomás Figueroa con los rumbos de las mercedes (S 31° 50′ E / S 58° 10′ O): la mensura y los títulos no coinciden.",
+ "caratula": {
+  "img": "img/f/056/01.jpg",
+  "fuente": "IMG_7289.JPG",
+  "campos": [
+   [
+    "N.º",
+    "56"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Rosendo de Dios"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Mariano Iparraguirre"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1870"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Iparraguirre",
+   "img": "img/f/056/03.jpg",
+   "fuente": "IMG_7291 a IMG_7293",
+   "nota": "No se fotografió el texto de la diligencia: sólo carátula, portadilla y los planos. Plano a tinta con marco doble, letras de vértice (J, J′, O, P, Q, B, C, A, E, F, G, M, H, Y) y cotas de mojones. Varias cifras están escritas al revés, para leerse desde el vértice opuesto; se dan derechas.",
+   "lineas": [
+    "[al NE, fuera del campo:] Trinidad M. de Figueroa",
+    "[faja superior:] Trinidad M de Figueroa",
+    "J.   [línea superior J-H:] N. 47° 6′ [O] 4864,7 [?]   [cotas desde H:] 1299 · 2598 · 3897 [?]   H.",
+    "J.   S. 58° 17′ O. 1787,4   [J-J′:] 726   J′.   [J′-O:] 1061,4   O.",
+    "[a la izquierda:] Terreno Cuestionado por D.^{n} José Figueroa",
+    "Puesto de D.^{n} José Figueroa",
+    "J′.   [línea media J′-M:] S. 47° 6′ [E] 5127,7   [cotas:] 969,9 · 2268,9 · 3568,9   M.",
+    "Estancia de D.^{n} Rosendo de Dios   [casa con patio, sobre la línea media]",
+    "Rosendo de Dios",
+    "H.   216,5   Y.   [H-M:] 606,2   M.   476,3   [M-G:] 207,8   G.   606,2   F.",
+    "F.   924   E.   N. 47° 6′ O. 788   A.   S. 42° 54′ O. 433   B.",
+    "B.   N. 47° 6′ O. 504,8 [?]   C.",
+    "O.   S. 47° 6′ [E] 1583,8   [cota:] 665,8   P.   S. 42° 54′ O. 433   Q.",
+    "Q.   S. 47° 6′ [E] 5271,4   [cotas:] 1299 · 2598 · 3897   B.",
+    "Puesto de D.^{n} Rosendo de Dios   [junto a B]",
+    "[bajo O-P:] Maria M. de Money",
+    "[al SO:] Andres Pueblas",
+    "[curso en el centro:] Arroyo de Suero",
+    "[curso al E, de Y a C:] Arroyo de Giles",
+    "[flecha con aguja, al NO:] Variacion 11° 0′ [?] N. E.",
+    "[flecha al SE:] Meridiana verdadera",
+    "[escala transversal:] Escala de 5000 Metros",
+    "Buenos Ayres Abril de 1870   Mariano Ybarraguirre [rúbrica]",
+    "[copia en tela, IMG_7293:] Copia fiel   L. [?] R. Molinari [?]   ·   [a lápiz:] Dup. 56 San A. de Giles"
+   ],
+   "interpretacion": "El plano dibuja dos fajas paralelas de rumbo S 47° 6′ E, perpendiculares al arroyo de Giles: arriba la de Trinidad M. de Figueroa (unos 600-700 m de ancho) y debajo, más ancha, la de Rosendo de Dios, con su estancia sobre la línea divisoria y un puesto en el extremo SE. El fondo NO no es paralelo al frente: corre S 58° 17′ O (el rumbo de la línea de Vivar y de las suertes Suero) y del otro lado hay un «terreno cuestionado por D. José Figueroa», con su puesto. El costado SE sobre el arroyo de Giles se escalona (H-Y-M-G-F-E-A-B-C) y el costado SO tiene un martillo (O-P-Q) contra María M. de Mooney. Lo atraviesa el arroyo de Suero, que desemboca en el de Giles. Los mojones de las líneas largas están cada 1299 m (1500 varas). Con los rumbos y largos leídos el campo de Rosendo de Dios mide ≈ 875 ha."
+  },
+  {
+   "titulo": "Plano de ubicación según los títulos (Figueroa)",
+   "img": "img/f/056/06.jpg",
+   "fuente": "IMG_7294.JPG",
+   "nota": "Lámina distinta, en otro papel, con sello del archivo; sin firma visible. Superpone a la mensura las dos ubicaciones que darían los títulos de los herederos de Tomás Figueroa. Líneas de la mensura en tinta; las de los títulos en trazos carmín.",
+   "lineas": [
+    "[arriba, cortado:] Gregorio Figue[roa]   ·   [a lápiz:] 3737 [?]",
+    "b.   S. 31° 50′ E. – bb′ = 3784 v^{s} 2/3   c.   b′",
+    "bc = 3000 segun el titulo 1.^{o}",
+    "b′b″ = 2446 v^{s}   ·   b′b‴ = 2545,8 [m]",
+    "[costado NO:] S. 58° 10′ O. – ba = 4000 v^{s} segun el titulo 1.^{o}",
+    "bJ = 3588,9 m   [a lápiz:] 3107 m 20",
+    "JJ′ = 5620 v^{s}",
+    "Hered.^{os} de D. Tomas Figueroa   Ubicacion segun el titulo 1.^{o}",
+    "Her.^{os} de Tomas Figueroa   Ubicacion segun el 2.^{o} titulo",
+    "Trinidad M. de Figueroa",
+    "ad = 3000 v^{s} segun el titulo 1.^{o}   ·   df = 3000 v^{s} segun el 2.^{o} titulo",
+    "Rosendo de Dios",
+    "Arroyo de Suero   ·   Arroyo de Giles",
+    "Benedicta Figueroa de Alvarez   [del otro lado del arroyo de Giles]",
+    "[letras:] a · b · b′ · b″ · b‴ · c · d · e · f · g · J · J′ · H · W · G · Y · E · D · C · P · Q · O",
+    "Maria M. de Money   ·   Andres Pueblas",
+    "[costado izquierdo:] Cuestionado por José Figueroa"
+   ],
+   "interpretacion": "Es un plano de estudio, probablemente del Departamento Topográfico o de la defensa de uno de los linderos: toma el vértice b (esquina NO del cuadro de los títulos) y traza las suertes de los herederos de Tomás Figueroa como dos rectángulos de 3000 varas de frente cada uno, según el 1.º y el 2.º título, con rumbos S 31° 50′ E y S 58° 10′ O (la cuadrícula de las mercedes, no la de la mensura). La ubicación del 1.º título cae sobre el arroyo de Suero y la del 2.º sobre la faja de Trinidad M. de Figueroa y la mitad NE del campo de Rosendo de Dios. La línea JJ′ (la línea media de Iparraguirre) corta en diagonal los dos rectángulos: la mensura de 1870 y los títulos Figueroa no coinciden, y eso explica el «terreno cuestionado»."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Rosendo de Dios (Iparraguirre, abril de 1870)",
+   "img": "img/f/056/03.jpg",
+   "fuente": "IMG_7292.JPG",
+   "orientacion": "Tinta sobre papel; marco doble; flecha de la aguja al NO («Variación 11° 0′ N. E.») y «Meridiana verdadera» al SE; escala transversal de 5000 m.",
+   "interpretacion": "Dos fajas perpendiculares al arroyo de Giles, la de Trinidad M. de Figueroa y la de Rosendo de Dios, cruzadas por el arroyo de Suero. Fondo NO oblicuo contra el terreno cuestionado por José Figueroa; martillo SO contra María M. de Mooney; Andrés Pueblas al SO.",
+   "referencias": [
+    [
+     "J-H",
+     "Línea NE de la faja de Trinidad M. de Figueroa, N 47° 6′ O 4864,7 m [?]"
+    ],
+    [
+     "J-J′-O",
+     "Fondo NO, S 58° 17′ O 1787,4 m (726 + 1061,4); terreno cuestionado por José Figueroa"
+    ],
+    [
+     "J′-M",
+     "Divisoria Figueroa / De Dios, S 47° 6′ E 5127,7 m; estancia de Rosendo de Dios sobre ella"
+    ],
+    [
+     "H-Y-M-G-F",
+     "Escalones sobre el arroyo de Giles: 216,5 · 606,2 · 476,3 · 207,8 · 606,2 m"
+    ],
+    [
+     "F-E-A-B-C",
+     "924 · 788 (N 47° 6′ O) · 433 (S 42° 54′ O) · 504,8 [?] m; puesto de Rosendo de Dios junto a B"
+    ],
+    [
+     "O-P-Q",
+     "Martillo contra María M. de Mooney: 1583,8 m y 433 m (S 42° 54′ O)"
+    ],
+    [
+     "Q-B",
+     "Lindero SO, S 47° 6′ E 5271,4 m; Andrés Pueblas"
+    ],
+    [
+     "Aguas",
+     "Arroyo de Suero (centro, de NO a SE) y arroyo de Giles (costado E)"
+    ],
+    [
+     "Mojones",
+     "Cotas 1299, 2598, 3897 (cada 1500 v) y 969,9, 2268,9, 3568,9 en la línea media"
+    ]
+   ]
+  },
+  {
+   "titulo": "Toma general del plano con la portadilla",
+   "img": "img/f/056/04.jpg",
+   "fuente": "IMG_7291.JPG",
+   "orientacion": "Toma general con la firma «Buenos Ayres Abril de 1870 Mariano Ybarraguirre».",
+   "interpretacion": "Muestra el plano entero, la escala y la firma.",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia en tela («Copia fiel»)",
+   "img": "img/f/056/05.jpg",
+   "fuente": "IMG_7293.JPG",
+   "orientacion": "Papel tela transparente; al margen, a lápiz, «Dup. 56 San A. de Giles».",
+   "interpretacion": "Calco del mismo plano certificado «Copia fiel» por L. [?] R. Molinari [?]; se ve por transparencia el dibujo de la lámina siguiente.",
+   "referencias": []
+  },
+  {
+   "titulo": "Plano de ubicación de los títulos Figueroa",
+   "img": "img/f/056/06.jpg",
+   "fuente": "IMG_7294.JPG",
+   "orientacion": "Rectángulos de los títulos en carmín, rumbos S 31° 50′ E / S 58° 10′ O; sello del archivo.",
+   "interpretacion": "Las suertes de los herederos de Tomás Figueroa según sus dos títulos, superpuestas al campo medido: muestra que la cuadrícula de los títulos (rumbo de las mercedes) y la de la mensura (perpendicular al arroyo) se cruzan con ≈ 11°.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Dónde está",
+   "texto": "Margen O del arroyo de Giles, aguas abajo del pueblo, en la confluencia del arroyo de Suero; enfrente, del otro lado del arroyo, Benedicta Figueroa de Álvarez (Ficha 043). Al SO, María M. de Mooney (viuda o heredera de Guillermo Mooney, estancia San Guillermo, Ficha 025) y Andrés Pueblas: es el «Marfil / De Dios-Puebla» del bloque del arroyo de Suero (Fichas 022, 025). La «casa de Rosendo de Dios» ya era visual de Gonnet en 1866 («mojinete», Ficha 040): ahora aparece dibujada como «Estancia de D.n Rosendo de Dios» sobre la línea media."
+  },
+  {
+   "titulo": "Dos tramas que se cruzan",
+   "texto": "Iparraguirre mide fajas perpendiculares al arroyo (S 47° 6′ E, como Gonnet en 040: N 43° E / S 47° E), pero el fondo NO corre S 58° 17′ O, el rumbo de la línea de Vivar y de los títulos Suero–Arellano. La lámina de ubicación lo hace explícito: los títulos Figueroa se trazan S 31° 50′ E / S 58° 10′ O. La diferencia (≈ 11°) es la de dos sistemas de orientación: el de la merced antigua y el del frente sobre el arroyo. Es el mismo choque de tramas que Meyrelles dibujó en carmín en la Ficha 043."
+  },
+  {
+   "titulo": "El terreno cuestionado",
+   "texto": "Al NO, un «Terreno cuestionado por D. José Figueroa», con el «Puesto de D. José Figueroa» pegado a la línea: el mismo José Figueroa cuyo «mirador» usaron como visual Gonnet (1862), Meyrelles (1867) y otros (Fichas 032, 043, 044). La rama Figueroa de la margen O (Tomás, Trinidad, José, Gregorio) disputa con Rosendo de Dios la ubicación de sus títulos."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Mojones cada 1299 m (1500 varas) contados desde el arroyo; variación 11° 0′ [?] N. E., una cifra «baja», cercana a la familia Gonnet–Coquet (10° 48′-10° 59′) y no a la de Differt–Saubidet (11° 30′). Escala transversal de 5000 m. Plano firmado en Buenos Aires: el agrimensor no reside en el partido."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "Estancia con patio cuadrado sobre la divisoria (la casa queda a caballo de las dos fajas: ¿origen familiar común?), un puesto de Rosendo de Dios junto al arroyo de Giles y un puesto de José Figueroa en el fondo. Ningún camino dibujado."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Falta todo el texto: ¿quién ordenó la mensura, qué títulos presentó Rosendo de Dios, cómo se resolvió el «terreno cuestionado»? ¿Quién dibujó la lámina de ubicación de los títulos? ¿Es Trinidad M. de Figueroa esposa o viuda de un Figueroa? ¿Sección Areco 222: confirma que el número de sección crece con la fecha (217 en 1869, 222 en 1870)?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Rosendo de Dios",
+   "rol": "Propietario",
+   "texto": "Estanciero de la margen O del arroyo de Giles, con casa de mojinete ya en 1866 (visual de Gonnet, Ficha 040) y puesto propio sobre el arroyo. El apellido De Dios aparece asociado a Puebla en el bloque del arroyo de Suero (Fichas 022, 025). Búsqueda web sin resultados.",
+   "fuentes": "Este plano; Fichas 022, 025, 040; búsqueda web 10/2026 sin datos."
+  },
+  {
+   "nombre": "Mariano Iparraguirre (Ybarraguirre)",
+   "rol": "Agrimensor",
+   "texto": "Firma «Mariano Ybarraguirre» en Buenos Aires, abril de 1870; la carátula moderna escribe «Iparraguirre». Primera aparición en el corpus. Apellido vasco. No se hallaron datos biográficos.",
+   "fuentes": "Este plano; búsqueda web 10/2026 sin resultados."
+  },
+  {
+   "nombre": "Trinidad M. de Figueroa",
+   "rol": "Lindera ne",
+   "texto": "Titular de la faja contigua y del campo al NE; probablemente viuda de un Figueroa de la margen O (¿de Tomás?).",
+   "fuentes": "Este plano."
+  },
+  {
+   "nombre": "José Figueroa",
+   "rol": "Lindero no, opositor",
+   "texto": "Cuestiona el terreno del fondo; tiene puesto allí. Su «mirador» es visual en las Fichas 032, 043 y 044.",
+   "fuentes": "Fichas 032, 043, 044; este plano."
+  },
+  {
+   "nombre": "Herederos de Tomás Figueroa · Gregorio Figueroa",
+   "rol": "Títulos",
+   "texto": "Los dos títulos de Tomás Figueroa (3000 varas de frente cada uno) se ubican en la lámina de estudio; Gregorio Figueroa (¿el de la Posta, Fichas 010, 018, 043?) aparece al borde.",
+   "fuentes": "IMG_7294; Fichas 010, 018, 043."
+  },
+  {
+   "nombre": "María M. de Mooney · Andrés Pueblas",
+   "rol": "Linderos so",
+   "texto": "María M. de Mooney, de la familia de Guillermo Mooney (estancia San Guillermo, Ficha 025), escrito «Money». Andrés Pueblas: de la familia Puebla del arroyo de Suero.",
+   "fuentes": "Fichas 025, 040; este plano."
+  },
+  {
+   "nombre": "Benedicta Figueroa de Álvarez",
+   "rol": "Vecina de la margen e",
+   "texto": "Propietaria de 900 varas de la suerte de Pedro Miguel Figueroa en la margen E (Ficha 043).",
+   "fuentes": "Ficha 043."
+  },
+  {
+   "nombre": "L. [?] R. Molinari [?]",
+   "rol": "Copista",
+   "texto": "Certifica la copia en tela «Copia fiel». Sin datos.",
+   "fuentes": "IMG_7293."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/056/02.jpg",
+  "fuente": "IMG_7290.JPG",
+  "lineas": [
+   "[recuadro, a lápiz:] Copiado",
+   "San Andres de Giles",
+   "Seccion Areco          56",
+   "N.^{o} 222",
+   "Duplicado de mensura del",
+   "Terreno perteneciente á D.^{n} Rosendo",
+   "de Dios en el Partido de S.^{n} Andres",
+   "de Giles"
+  ]
+ },
+ "titulo": "Rosendo de Dios",
+ "estado": "Transcripta (2 hojas, 41 renglones), 4 láminas"
+}

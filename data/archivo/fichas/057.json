@@ -1,0 +1,259 @@
+{
+ "carpeta": "57",
+ "carpeta_nombre": "Carpeta 57",
+ "archivo": "Ficha 057 - Test. de Bernabela Burgos (1870).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (margen E del arroyo de Giles, ex suertes Peñalva)",
+  "N.º de duplicado": "57 · Sección Areco N.º 228",
+  "Propietario / solicitante": "Testamentaría de Bernabela Burgos",
+  "Agrimensor": "Enrique Nelson",
+  "Año": "1870",
+  "Fecha de la diligencia": "Abril de 1870 (portadilla y carátula)",
+  "Ubicación": "Margen E del arroyo de Giles, entre Mauricia Duarte / Josefa Romero y Petrona López, hasta la línea de Vivar",
+  "Orden judicial": "No fotografiada (falta todo el texto)",
+  "Vendedor / antecesor": "Pedro Veloz (Velox / Vélez, Ficha 035); her. de Jacinta Peñalva",
+  "Linderos citados": "Her. de Josefa Romero · José Rois · G. González, C. Luzero, J. Rodríguez, F. Casas · Test.ª Petrona López",
+  "Medidas": "Cuatro hijuelas: 552,89 + 173,52 + 493,65 + 184,59 = 1404,65 ha; frente 932 + 1183 m",
+  "Rumbos": "S 47° 57′ E · N 42° 03′ E · N 58° 30′ E (fondo); variación 11° 30′",
+  "Referencia de archivo": "Duplicado 57"
+ },
+ "metricas": {
+  "superficie_ha": "1404,65 (suma de las cuatro hijuelas)",
+  "hitos": "Casas de Agustín, Pedro Pablo y Alejo Veloz; tapera de Josefa Romero; mojones cada 1299 m",
+  "aguas": "Arroyo de Giles"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron carátula, portadilla y plano. Enrique Nelson mide y divide en abril de 1870 la testamentaría de Bernabela (Bernarda) Burgos, primera esposa de Pedro Veloz, sobre la margen E del arroyo de Giles: un rectángulo de 7 km hasta la línea de Vivar (N 58° 30′ E), repartido en cuatro hijuelas —los menores Ercilia y Fortunato Veloz 552,89 ha, Pedro Pablo 173,52, Agustín 493,65 y Alejo 184,59; total 1404,65 ha—. Linda con Mauricia Duarte y los herederos de Josefa Romero al N, José Rois en el rincón NE y la testamentaría de Petrona López al S. El plano corrige la Ficha 035: «Velox» es Veloz, y José Rois conserva en 1870 la escuadra del sobrante que denunció en 1865.",
+ "caratula": {
+  "img": "img/f/057/01.jpg",
+  "fuente": "IMG_7295.JPG",
+  "campos": [
+   [
+    "N.º",
+    "57"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Bernabela Burgos (Testamentaria)"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Enrique Nelson"
+   ],
+   [
+    "Mes",
+    "Abril"
+   ],
+   [
+    "Año",
+    "1870."
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Nelson",
+   "img": "img/f/057/03.jpg",
+   "fuente": "IMG_7297 a IMG_7299",
+   "nota": "Sólo se fotografiaron la carátula, la portadilla y el plano (litografiado o dibujado con rótulos de imprenta, nombres en letras sombreadas). Las cotas pequeñas de los mojones son de lectura difícil.",
+   "lineas": [
+    "[flecha con flor de lis, junto a A:] 11.30",
+    "A.   [A-B:] 210 m [?]   B.   [línea N:] S. 47° 57′ E.   Mauricia Duarte",
+    "[base punteada:] BC = 4767 m   S. 42° 03′ O.",
+    "Hered.^{s} de Josefa Romero   ·   Tapera de Josefa Romero",
+    "Q.   173   P.   [línea Q-R:] S. 47° 57′ E. 5230 m   [cotas:] 1299 · 1299 · 2598 · 3897   R.",
+    "R.   S. 42° 03′ O. 779,40 m   S.   S. 47° 57′ E. 2135 m   [cota:] 1030   N.",
+    "José Rois",
+    "[punteada desde N hacia la línea de Duarte:] N. 42° 03′ E. 2548 m",
+    "Agustin Veloz   [casa]",
+    "Menores ERCILIA Y FORTUNATO VELOZ   Sup: 552.^{h} 89.^{a} 45.^{m}",
+    "[P-G:] 932 m   ·   H.   102 m   G.   [línea media:] S. 47° 57′ E.   [cotas:] 1324 m · 1328 [?] · 3029 · 1737 · 1278 · 845 · 330",
+    "PEDRO PABLO VELOZ   P. P. Veloz [casa]   Sup: 173.^{h} 52.^{a}",
+    "[G-E:] N. 42° 03′ E. 1183 m   ·   [I-J:] 1183 m   ·   [K:] 1183 m   ·   [L:] 1233 m [?]",
+    "Puesto de Pedro Pablo   ·   AGUSTIN VELOZ   Sup: 493.^{h} 64.^{a} 64.^{m}",
+    "ALEJO VELOZ   Alejo Veloz [casa]   Sup: 184.^{h} 59.^{a} 36.^{m}",
+    "F.   225 m   E.   1481 m   J.   4173 m   K.   [cotas:] 2762 · 4061 · 6554 · 6086 · 6519   L.",
+    "[línea F-L:] S. 47° 57′ E. 7038 m",
+    "[costado E, de N a L:] N. 58° 30′ E. 1149,5 m   [cota:] 1032",
+    "Gregorio Gonzales   ·   Cipriano Luzero   ·   Josefa Rodriguez   ·   Facundo Casas",
+    "[E-C, punteada:] 779,40 m   ·   D.   1?8 [?]   C.",
+    "Test.^{a} Petrona Lopez",
+    "Suces.^{n} de Rafael Pividal",
+    "[costado O:] Arroyo de Giles",
+    "[escala transversal:] Metros   1:25.000",
+    "Enrique Nelson [rúbrica]"
+   ],
+   "interpretacion": "El plano muestra un rectángulo largo sobre la margen E del arroyo de Giles, dividido en cuatro hijuelas de los Veloz: arriba, una faja entera para los menores Ercilia y Fortunato (552,89 ha); abajo, tres lotes en hilera de 1183 m de ancho —Pedro Pablo junto al arroyo (173,52 ha), Agustín en el centro (493,65 ha) y Alejo al fondo (184,59 ha)—. Los largos corren S 47° 57′ E desde el arroyo y el fondo E, N 58° 30′ E, es la línea de Vivar, con Gregorio González, Cipriano Luzero, Josefa Rodríguez y Facundo Casas del otro lado. En el rincón NE queda José Rois, el denunciante del sobrante de 1865 (Ficha 035). Al N, los herederos de Josefa Romero (con su tapera) y Mauricia Duarte; al S, la testamentaría de Petrona López y, más allá, la sucesión de Rafael Pividal. La línea base B-C (4767 m, S 42° 03′ O) corre paralela al arroyo. Total: 1404,65 ha."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de la testamentaría de Bernabela Burgos (Nelson, 1870)",
+   "img": "img/f/057/03.jpg",
+   "fuente": "IMG_7297.JPG",
+   "orientacion": "Flecha con flor de lis al NO (variación «11.30»); escala transversal en metros, 1:25.000; rótulos de imprenta y letras sombreadas.",
+   "interpretacion": "Partición en cuatro hijuelas con las superficies en hectáreas, áreas y metros. Casas de Agustín, Pedro Pablo y Alejo Veloz y puesto de Pedro Pablo; tapera de Josefa Romero en el lindero N.",
+   "referencias": [
+    [
+     "A-B",
+     "Esquina sobre el arroyo de Giles, contra Mauricia Duarte (línea S 47° 57′ E)"
+    ],
+    [
+     "B-C",
+     "Base punteada S 42° 03′ O 4767 m, paralela al arroyo"
+    ],
+    [
+     "Q-R",
+     "Lindero N, S 47° 57′ E 5230 m; her. de Josefa Romero"
+    ],
+    [
+     "R-S-N",
+     "Escuadra contra José Rois: 779,40 m y 2135 m"
+    ],
+    [
+     "N-L",
+     "Fondo E sobre la línea de Vivar, N 58° 30′ E 1149,5 m"
+    ],
+    [
+     "F-L",
+     "Lindero S, S 47° 57′ E 7038 m; test.ª Petrona López"
+    ],
+    [
+     "G-E · I-J · K",
+     "Divisorias de 1183 m (N 42° 03′ E)"
+    ],
+    [
+     "Hijuelas",
+     "Ercilia y Fortunato 552,89 · Pedro Pablo 173,52 · Agustín 493,65 · Alejo 184,59 ha"
+    ],
+    [
+     "Escala",
+     "1:25.000, transversal en metros"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle del frente sobre el arroyo de Giles",
+   "img": "img/f/057/04.jpg",
+   "fuente": "IMG_7298.JPG",
+   "orientacion": "Toma ampliada del sector O.",
+   "interpretacion": "Vértices Q-P, H-G, F-E, D-C sobre el arroyo; la tapera de Josefa Romero; los anchos 932 m y 1183 m y la franja de 779,40 m de Petrona López.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle del fondo y de la línea de Vivar",
+   "img": "img/f/057/05.jpg",
+   "fuente": "IMG_7299.JPG",
+   "orientacion": "Toma ampliada del sector E.",
+   "interpretacion": "La escuadra de José Rois, la hijuela de Alejo Veloz y los linderos de la merced de Vivar (González, Luzero, Rodríguez, Casas).",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Velox era veloz",
+   "texto": "El plano, con rótulos de imprenta, resuelve una lectura de la Ficha 035: el «P.º Velox» de Fremiot (1865) es Pedro VELOZ, y su «primera esposa D.ª Bernarda Burgos» es la Bernabela Burgos de esta carátula. En 1865 la viuda de Veloz, Sinforosa Roldán, representaba a los hijos menores; en 1870 se mide y divide la testamentaría de la primera esposa entre Pedro Pablo, Agustín y Alejo Veloz y los menores Ercilia y Fortunato. Corregir en 035 (y en el índice) «Vélez» por «Veloz»; el «Agustín Vélez» de la copia de 1906 es Agustín Veloz."
+  },
+  {
+   "titulo": "El campo peñalva, cinco años después",
+   "texto": "Es el mismo bloque que Fremiot midió en 1865 (Ficha 035) contra la denuncia de José Rois: frente al arroyo de Giles, fondo hasta la línea de Vivar (aquí N 58° 30′ E; Fremiot S 58° 55′; Gonnet S 58° 31′ O → Nelson coincide con Gonnet), Mauricia Duarte al N y José Rois en el rincón NE. La denuncia de Rois quedó «sin efecto» en 1873, pero en 1870 el plano ya le asigna un rectángulo de 779,40 × 2135 m (≈ 166 ha) al fondo: la escuadra que Fremiot dibujaba como sobrante."
+  },
+  {
+   "titulo": "Medidas y módulos",
+   "texto": "Fajas en metros con equivalentes redondos en varas: 779,40 m = 900 v (la compra a Paula Rodríguez de 035, aquí franja de Petrona López); 1183 m ≈ 1366 v; 5230 m ≈ 6040 v (la legua de fondo de Peñalva, 5196 m, más una diferencia); mojones cada 1299 m (1500 v). Variación 11° 30′, la cifra «alta» de Differt y Saubidet. Superficies en hectáreas, áreas y metros cuadrados."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "Tres casas de la familia (Agustín, Pedro Pablo, Alejo) y un puesto de Pedro Pablo; la «tapera de Josefa Romero» en el lindero N (población abandonada); ningún camino. El arroyo de Giles con una flecha de corriente hacia el N."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Falta el texto: ¿cómo se armó el campo (compra a los herederos de Jacinta Peñalva, compra a Paula Rodríguez, el baldío)? ¿Por qué la testamentaría de la primera esposa incluye a los menores de la segunda? ¿Qué es la base B-C de 4767 m desde la línea de Duarte (¿el frente total de las suertes Peñalva, ≈ 5500 v?)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Bernabela (Bernarda) Burgos",
+   "rol": "Causante",
+   "texto": "Primera esposa de Pedro Veloz; el terreno de su testamentaría se compró a los herederos de Jacinta Peñalva (Ficha 035).",
+   "fuentes": "Ficha 035; este plano."
+  },
+  {
+   "nombre": "Pedro Veloz y sus hijos",
+   "rol": "Herederos",
+   "texto": "Pedro Veloz («Velox», «Vélez»), fallecido antes de 1865, reunió por compras las hijuelas de las nietas de Peñalva. Hijos: Pedro Pablo, Agustín, Alejo, Lucía (Ficha 035) y los menores Ercilia y Fortunato (de Sinforosa Roldán).",
+   "fuentes": "Ficha 035; este plano."
+  },
+  {
+   "nombre": "Enrique Nelson",
+   "rol": "Agrimensor",
+   "texto": "Primera aparición en el corpus; plano de presentación con rótulos de imprenta, escala 1:25.000. Apellido británico. Sin datos biográficos en la búsqueda web.",
+   "fuentes": "Este plano; búsqueda web 10/2026 sin resultados."
+  },
+  {
+   "nombre": "José Rois",
+   "rol": "Lindero ne",
+   "texto": "Denunciante del sobrante de 1865 (Ficha 035); aquí ya con un rectángulo propio al fondo.",
+   "fuentes": "Ficha 035."
+  },
+  {
+   "nombre": "Mauricia Duarte · Josefa Romero · Petrona López",
+   "rol": "Linderas",
+   "texto": "Mauricia Duarte de Rodríguez (Fichas 032, 035); herederos de Josefa Romero, con tapera; testamentaría de Petrona López (la del «ombú de D.ª Petrona López», Ficha 032).",
+   "fuentes": "Fichas 032, 035."
+  },
+  {
+   "nombre": "Gregorio González · Cipriano Luzero · Josefa Rodríguez · Facundo Casas",
+   "rol": "Linderos del fondo (merced de vivar)",
+   "texto": "Fajas al otro lado de la línea de Vivar. Sin datos.",
+   "fuentes": "Este plano."
+  },
+  {
+   "nombre": "Sucesión de Rafael Pividal",
+   "rol": "Vecina s",
+   "texto": "Gallego, fundador de Zárate (Fichas 017, 023).",
+   "fuentes": "Fichas 017, 023."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/057/02.jpg",
+  "fuente": "IMG_7296.JPG",
+  "lineas": [
+   "Sec.^{n} Areco",
+   "N.^{o} 228          Giles",
+   "57",
+   "Duplicado",
+   "de la Diligencia de Mensura",
+   "del terreno perteneciente á la",
+   "Testamentaria de Doña",
+   "Bernab~~e~~la Burgos",
+   "partido de",
+   "San Andres de Giles",
+   "[a lápiz:] V. 14 [?]",
+   "Abril 1870",
+   "Agrimensor Nelson [rúbrica]",
+   "[a lápiz, abajo:] Suero [?]"
+  ]
+ },
+ "titulo": "Testamentaría de Bernabela Burgos",
+ "estado": "Transcripta (1 hojas, 25 renglones), 3 láminas"
+}
