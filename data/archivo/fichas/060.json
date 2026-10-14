@@ -1,0 +1,531 @@
+{
+ "carpeta": "60",
+ "carpeta_nombre": "Carpeta 60",
+ "archivo": "Ficha 060 - Municipalidad de San Andrés de Giles (1871).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (el pueblo y su prolongación al SE)",
+  "N.º de duplicado": "60 · Sección Areco N.º 235",
+  "Propietario / solicitante": "Municipalidad de San Andrés de Giles",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1871",
+  "Fecha de la diligencia": "Marzo de 1871 (pedido 7/5/1870; D. T. 14/7/1871)",
+  "Ubicación": "Terreno «del Santo»: pueblo de Giles y faja al SE, desde el arroyo de Giles",
+  "Orden judicial": "No judicial: permiso del Gobierno (25/2/1871), decreto del 13/7/1864",
+  "Vendedor / antecesor": "«Primitivos dueños» (donación Suero 1793, Ficha 008)",
+  "Linderos citados": "José Larrosa (NE) · José Piquetto, ex María M. de Pividal (SO) · «Estado» (fondo)",
+  "Medidas": "607,3 m (701 v) de ancho × 4655-5041 m; frente quebrado 57,25+320+97+287,3 m",
+  "Rumbos": "N 47° 27′ O · S 42° 33′ O · N 62° 12′ E; var. 11° 23′ NE (Sol, 1 h 58 m)",
+  "Referencia de archivo": "Duplicado 60 (Sección Areco 235); copia en tela posterior"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 293 (calculada; el folio con la superficie falta)",
+  "hitos": "Pueblo, Plaza e iglesia; cementerio; quintas cercadas; mojones de Eguía (1854)",
+  "aguas": "Arroyo de Giles (frente O, con barranca)"
+ },
+ "sintesis": "La Municipalidad de San Andrés de Giles hace medir en marzo de 1871, con permiso del Gobierno y no del juez, su «terreno del Santo»: la donación de Suero de 1793 sobre la que se trazó el pueblo. Carlos Schuster lo deslinda entre José Larrosa y José Piquetto (ex Pividal), apoyado en mojones de Eguía de 1854: una faja de 607 m (701 varas, las «700 varas del Santo Patrono» de 1838) por unos 5 km desde el arroyo de Giles al SE, ≈ 293 ha. El plano dibuja el pueblo con su plaza e iglesia, las quintas cercadas con el nombre de sus ocupantes y el cementerio, y la línea atraviesa el pueblo por el eje de una calle. Variación 11° 23′ NE por observación del Sol. Falta el f. 3 v. (superficie y cierre).",
+ "caratula": {
+  "img": "img/f/060/01.jpg",
+  "fuente": "IMG_7305.JPG",
+  "campos": [
+   [
+    "N.º",
+    "60"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "del terreno denominado del Santo de la propiedad de la Municipalidad."
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1871"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Extracto del trámite (mayo-septiembre de 1870)",
+   "img": "img/f/060/09.jpg",
+   "fuente": "IMG_7307.JPG",
+   "nota": "Letra caligráfica de Schuster; sello de foliatura «1». El año del extracto se lee 1870 con un rasgo final que lo hace parecer «1871»: el orden de los trámites (septiembre de 1870 → enero de 1871) obliga a 1870.",
+   "lineas": [
+    "Mensura del terreno denominado",
+    "del Santo, de propiedad de",
+    "la Municipalidad de San",
+    "Andres de Giles—",
+    "Extracto",
+    "En Mayo 7 de 1870— La Municipalidad",
+    "de San Andres de Giles solicita del",
+    "Superior Gobierno el permiso correspondien-",
+    "te para proceder á la mensura y des-",
+    "linde del terreno de propiedad muni-",
+    "cipal denominado del Santo, cuyo terre-",
+    "no le fué dado en propiedad por sus",
+    "primitivos dueños—",
+    "En Mayo 17 de 1870. El Departamento",
+    "Topográfico, manifiesta no haber",
+    "inconveniente para la operacion, pero",
+    "que abriga sus dudas, sobre si el per-",
+    "miso que la Municipalidad solici-",
+    "ta, debe ser al Superior Gobierno, ó á la",
+    "autoridad civil—",
+    "En Setiembre 13 de 1870— El Fiscal dice",
+    "que antes de otorgar el permiso soli-",
+    "citado, debe conocerse la importancia",
+    "del trabajo, asi como el contrato cele-",
+    "brado con el Agrimensor—",
+    "En Setiembre 13— Dispone el Gobierno vuelva",
+    "el asunto á la Municipalidad pa-",
+    "ra que esta informe respecto al monto",
+    "á que ascenderá la operacion y acom-",
+    "pañe copia del contrato hecho con el",
+    "Agrimensor Schuster—",
+    "En Setiembre 27/1870— La Municipalidad",
+    "informa que el monto de la operacion"
+   ],
+   "interpretacion": "Schuster abre con un «Extracto» cronológico del expediente. El 7/5/1870 la Municipalidad de San Andrés de Giles pide al Superior Gobierno permiso para medir y deslindar el «terreno de propiedad municipal denominado del Santo», que «le fué dado en propiedad por sus primitivos dueños» (la donación de Suero de 1793 para el oratorio y el pueblo: Ficha 008). El 17/5 el Departamento Topográfico no ve inconveniente pero duda de quién debe dar el permiso: ¿el Gobierno o la autoridad civil (el juez)? El 13/9 el Fiscal pide conocer antes el costo del trabajo y el contrato con el agrimensor, y el Gobierno devuelve el asunto a la Municipalidad para que informe el monto y acompañe copia del contrato con Schuster. El 27/9/1870 la Municipalidad responde (continúa en el vuelto)."
+  },
+  {
+   "titulo": "Folio 1 vuelto · Costo, dictámenes y permiso (1870-1871); arranque de la diligencia",
+   "img": "img/f/060/10.jpg",
+   "fuente": "IMG_7308.JPG",
+   "nota": "La fecha de la diligencia se lee «Mayo trece» pero la portadilla y el plano dicen marzo de 1871; se transcribe «Mar[z]o [?]».",
+   "lineas": [
+    "ascenderá á 7020 $ m/c y acompaña co-",
+    "pia del contrato celebrado con el A-",
+    "grimensor, segun el cual se le abo-",
+    "narán á este 5000 $ por honorarios—",
+    "En Enero 9 del 1871. Manifiesta el",
+    "Fiscal, que siendo equitativo el",
+    "convenio celebrado debe la Munici-",
+    "palidad solicitar la mensura ju-",
+    "dicialmente",
+    "En Enero 19 del 1871.- Manifiesta el",
+    "Asesor, que estando de acuerdo con",
+    "la vista fiscal, difiere únicamente",
+    "de opinion con este, en cuanto al",
+    "permiso que debe solicitar la munici-",
+    "palidad, en su concepto es el Gobier-",
+    "no quien debe concederlo, agregando",
+    "que asi lo establece el Poder Ejecutivo",
+    "en su Decreto de 13 de Julio de 1864—",
+    "En 25 de Febrero del 1871. Se acuerda el",
+    "Gobierno el permiso solicitado, mani-",
+    "festando que no garante de modo",
+    "alguno el pago de los honorarios del",
+    "Agrimensor, ni los gastos que origine",
+    "la mensura del terreno—",
+    "En la misma fecha se notificó",
+    "al que suscribe, el nombramiento re-",
+    "caido en su persona, para efectuar",
+    "esta operacion—",
+    "En 27 de Febrero del 1871 Recibió antece-",
+    "dentes del Departamento Topográfico—",
+    "Mensura",
+    "San Andres de Giles, Mar[z]o [?] trece",
+    "de mil ochocientos setenta y uno—",
+    "El Agrimensor que suscribe, co-",
+    "misionado por el Superior Gobierno"
+   ],
+   "interpretacion": "La operación costará 7020 pesos moneda corriente, de los que 5000 son honorarios del agrimensor según el contrato. El Fiscal (9/1/1871) lo encuentra equitativo pero opina que la Municipalidad debe pedir la mensura JUDICIALMENTE; el Asesor (19/1/1871) coincide salvo en eso: el permiso lo da el Gobierno, según el decreto del Poder Ejecutivo del 13/7/1864. El 25/2/1871 el Gobierno concede el permiso aclarando que no garantiza «de modo alguno» ni los honorarios ni los gastos; ese día se notifica a Schuster el nombramiento y el 27/2 recibe los antecedentes del Departamento. Empieza la diligencia: San Andrés de Giles, marzo de 1871, el agrimensor «comisionado por el Superior Gobierno»… Es la primera mensura del corpus encargada por un MUNICIPIO sobre tierra propia, y el expediente deja ver la duda institucional sobre si un municipio mide como particular (ante el juez) o como poder público (con permiso del Gobierno)."
+  },
+  {
+   "titulo": "Folio 2 · Arranque en la línea Pividal–Larrosa y mojones de Eguía (1854)",
+   "img": "img/f/060/11.jpg",
+   "fuente": "IMG_7309.JPG",
+   "nota": "Sello de foliatura «2». Se corrige «C» por «G» en el esquinero Norte: el plano rotula G ese punto (B y C son mojones de la línea Larrosa–Pividal).",
+   "lineas": [
+    "de la Provincia, para practicar la men-",
+    "sura del terreno denominado del San-",
+    "to, de propiedad de la Municipa-",
+    "lidad del Partido de San Andres de",
+    "Giles, prévia notificacion á los linderos,",
+    "cuya circular original se acompaña",
+    "al expediente, procedí á esta operacion",
+    "de la manera que á continuacion se",
+    "detalla—",
+    "Situandome en un punto cualquiera",
+    "(A. del plano) de la linea Sud Oeste del",
+    "terreno, que fué de Doña Maria M. de",
+    "Pividal, hoy Piquetto, Nor Este de D. José",
+    "Larrosa, medí desde él al Sur cuarenta",
+    "y dos grados treinta y tres minutos Oeste",
+    "cuatrocientos sesenta y siete metros se-",
+    "senta y cuatro centimetros, frente del",
+    "terreno de Larrosa, segun su titulo, el",
+    "cual se tuvo á la vista, al",
+    "tiempo de la operacion, habiendose prévia-",
+    "mente establecido la dicha linea Sud Oeste",
+    "de la S^{ra}. Pividal y Nord Este de Larrosa,",
+    "por los mojones existentes (B y C. del plano)",
+    "colocados por el Agrimensor Eguia en",
+    "el año de mil ochocientos cincuenta",
+    "y cuatro—",
+    "A la distancia indicada, hallé un",
+    "mojon de palo colocado, por el Agri-",
+    "mensor Eguia en su mencionada",
+    "operacion de 1854, á pedido de D. José",
+    "Larrosa— Desde este mojon medí al",
+    "Norte cuarenta y siete grados veintisiete [?]",
+    "minutos Oeste, sesenta y cuatro metros,",
+    "en cuyo punto coloqué un mojon",
+    "de palo (G. del plano) como esquinero Norte"
+   ],
+   "interpretacion": "Con la circular a los linderos agregada al expediente (no fotografiada), Schuster se sitúa en un punto A de la línea SO del terreno «que fué de Doña María M. de Pividal, hoy Piquetto» y NE de José Larrosa, línea fijada por los mojones B y C que puso Eguía en 1854 (Ficha 017). Desde A mide al S 42° 33′ O 467,64 m, el frente de Larrosa según su título, que se tuvo a la vista: 467,64 m son exactamente 540 varas. Allí encuentra un mojón de palo de Eguía de 1854, puesto a pedido de Larrosa, y desde él, N 47° 27′ O, 64 m, pone el esquinero Norte del Santo (G)."
+  },
+  {
+   "titulo": "Folio 2 vuelto · El frente escalonado sobre el arroyo y la línea de Piquetto",
+   "img": "img/f/060/12.jpg",
+   "fuente": "IMG_7310.JPG",
+   "nota": "Folio curvado en el lomo: las primeras letras de algunos renglones se reconstruyen.",
+   "lineas": [
+    "[de]l terreno que se medía, y Oeste de",
+    "Larrosa y hasta la barranca del arro-",
+    "yo de Giles sesenta y nueve metros—",
+    "Desde el referido mojon Norte del",
+    "terreno que se medía me retiré del",
+    "arroyo al Sur cuarenta y siete gra-",
+    "dos veintisiete minutos Este, cincuen-",
+    "ta y siete metros veinticinco centime-",
+    "tros y de dicho punto, cuadré á la",
+    "derecha con angulo recto y medí",
+    "trescientos veinte metros, á esta dis-",
+    "tancia cuadré á la izquierda con",
+    "el mismo angulo y medí noven-",
+    "ta y siete metros y finalmente á",
+    "esta distancia cuadré nuevamente",
+    "á la derecha y medí doscientos o-",
+    "chenta y siete metros tres decimetros",
+    "hasta el limite del frente del terre-",
+    "no que se medía, observando que",
+    "en este punto la linea anteriormente",
+    "medida formaba con el mojon D. del",
+    "plano un angulo de noventa grados—",
+    "Trasladandome al mojon Sur E",
+    "del plano esquinero Este de D. José Pi-",
+    "quetto, medí desde él, al Norte cua-",
+    "renta y siete grados veintisiete minutos",
+    "Oeste cuatro mil seiscientos cincuen-",
+    "ta y cinco metros, en cuyo punto co-",
+    "loqué el mojon del angulo Oeste",
+    "H del plano,",
+    "y continué midiendo hasta el arroyo",
+    "cuatro mil seiscientos ochenta metros—",
+    "Al medir esta linea coloqué un",
+    "mojon á los ochocientos sesenta y seis",
+    "metros, otro á los mil setecientos trein-",
+    "ta y dos, otro á los dos mil quinientos"
+   ],
+   "interpretacion": "Del esquinero G a la barranca del arroyo de Giles hay 69 m. Para cerrar el frente, Schuster baja 57,25 m al SE y escalona: 320 m a la derecha, 97 m a la izquierda y 287,3 m otra vez a la derecha, hasta el límite del frente, donde la línea forma ángulo recto con el mojón D: el Santo tiene sobre el arroyo un frente quebrado, como el de Saraví (Ficha 058). Luego pasa al mojón E, esquinero Este de José Piquetto, y mide al N 47° 27′ O 4655 m hasta el ángulo Oeste H, y 4680 m hasta el arroyo; en esa línea pone mojones a 866, 1732 y 2598 m (cada 1000 varas)…"
+  },
+  {
+   "titulo": "Folio 3 · El cruce del pueblo, el fondo y el costado de Larrosa",
+   "img": "img/f/060/13.jpg",
+   "fuente": "IMG_7311.JPG",
+   "nota": "Sello de foliatura «3». El texto se corta en «coloqué un mojón á los»: falta el folio 3 vuelto (resto de los mojones, superficie, cierre y firma).",
+   "lineas": [
+    "noventa y ocho, otro á los tres mil treinta",
+    "y uno, otro á los tres mil cuatrocientos",
+    "veinticinco y hallé un mojon en la",
+    "linea á los cuatro mil cuatrocientos cincuen-",
+    "ta y ocho, D del plano. A los tres mil nove-",
+    "cientos setenta metros, con el objeto de sal-",
+    "var los obstaculos que se oponian á la",
+    "prolongacion de la linea (como resulta de",
+    "la inspeccion del plano) tracé por el centro",
+    "de la calle una linea (a. b.) al Norte sesenta",
+    "y ocho grados cincuenta y siete minutos",
+    "Oeste y medí por ella cuatrocientos ci-",
+    "cuenta y cuatro metros. A esta distan-",
+    "cia cuadré á la derecha con angulo rec-",
+    "to y medí ciento setenta y nueve me-",
+    "tros veinticinco centimetros, hasta el",
+    "mojon hallado en la linea, y del cual",
+    "acaba de hacerse mencion—",
+    "Regresando al mojon Sur, medí des-",
+    "de él, al Norte sesenta y dos grados doce",
+    "minutos Este seiscientos cuarenta y cinco",
+    "metros en la direccion de un mojon",
+    "existente en la prolongacion de este",
+    "rumbo, (colocado por Eguia) y á la distan-",
+    "cia indicada coloqué el esquinero Este",
+    "del terreno que se medía F del plano—",
+    "Desde el referido esquinero Este me dirijí",
+    "finalmente al Norte cuarenta y siete gra-",
+    "dos veintisiete minutos Oeste y medí",
+    "cinco mil cuarenta y un metros",
+    "hasta dar con el mojon esquinero",
+    "Norte, (G del plano) colocado por mí, al",
+    "deslindar los frentes respectivos del terreno",
+    "de Larrosa y del de propiedad muni-",
+    "cipal que se medía—",
+    "En esta linea coloqué un mojon á los"
+   ],
+   "interpretacion": "…y otros a 3031 y 3425 m, y encuentra un mojón ya existente a 4458 m (D). Como a los 3970 m la línea entra en el PUEBLO y los edificios impiden prolongarla, la desvía por el centro de una calle (línea a-b, N 68° 57′ O, 454 m) y vuelve a ella con una perpendicular de 179,25 m hasta el mojón D: la calle del pueblo usada como base de medición. Desde el mojón Sur (E) mide al N 62° 12′ E 645 m, en dirección a un mojón de Eguía que está en la prolongación, y pone el esquinero Este (F). De allí va al N 47° 27′ O 5041 m hasta el esquinero Norte G, que él mismo había puesto al deslindar los frentes de Larrosa y del Santo. Faltan el final de la diligencia y la superficie."
+  },
+  {
+   "titulo": "Informe del Departamento Topográfico (14/7/1871)",
+   "img": "img/f/060/14.jpg",
+   "fuente": "IMG_7312.JPG",
+   "nota": "Otra mano. Firmas autógrafas de Saturnino Salas, German Kuhr y Pedro Benoit.",
+   "lineas": [
+    "[Exc]mo Señor.—",
+    "El Dep^{to} Topográfico ha",
+    "examinado la presente mensura",
+    "del terreno público denominado",
+    "\"Del Santo\" en San Andrés de Giles,",
+    "practicada por el Agrim^{r}. D. Cár-",
+    "los Schuster y encontrandola",
+    "bien ejecutada no vé inconve-",
+    "niente en que sea aprobada por",
+    "el Superior Gobierno.—",
+    "Buenos Aires, Julio 14 del 871.",
+    "Saturnino Salas   German Kuhr",
+    "Pedro Benoit"
+   ],
+   "interpretacion": "El Departamento Topográfico examina la mensura «del terreno PÚBLICO denominado Del Santo en San Andrés de Giles» practicada por Carlos Schuster, la encuentra bien ejecutada y no ve inconveniente en que la apruebe el Superior Gobierno. Es una aprobación administrativa, no judicial: prevaleció el criterio del Asesor (permiso del Gobierno, decreto de 1864). El Departamento llama «público» a un terreno que la Municipalidad presenta como propiedad suya por donación de particulares: el estatuto del ejido —bien municipal o tierra pública— queda ambiguo en el propio expediente."
+  },
+  {
+   "titulo": "Folio 5 · Planilla de la variación (observación del Sol)",
+   "img": "img/f/060/15.jpg",
+   "fuente": "IMG_7313.JPG",
+   "nota": "Sello de foliatura «5». Cifras de lectura segura salvo la altura del Sol; la latitud está escrita como «32° 25′» pero la colatitud de 55° 35′ da 34° 25′.",
+   "lineas": [
+    "Latitud 34° 25′ [la cifra parece «32»; la colatitud confirma 34° 25′]",
+    "Hora 1^{h} 58^{m}  alt^{a} ☉ 32° 47′ [?]  ang^{lo} mat. 14° 4′ 40″",
+    "Coalt. 57° 28′ 13 — 0.0741143",
+    "Co-lat. 55° 35′ — 0.0835728",
+    "dist^{a} polar 106° 4′ 29″",
+    "2) 219° 7′ 42″",
+    "109° 33′ 51 — 9.9741740",
+    "— 106 4 29",
+    "½ s — dist^{a} polar 3° 29′ 22 — 8.7483651",
+    "2) 18.9162262",
+    "73° 18′ 45 = — 9.4581131",
+    "× 2",
+    "146° 37′ 30",
+    "180°",
+    "Asimut. 33° 22′ 30″",
+    "ang^{lo} mat. 14. 4 40",
+    "Rumbo verd^{o} N 47° 27′ 10″",
+    "\" mag. N 58° 50′",
+    "11° 23′ Variacion N. E.",
+    "Cárlos Schuster"
+   ],
+   "interpretacion": "Planilla de cálculo firmada por Schuster: latitud 34° 25′; a la 1 h 58 m (de la tarde) mide la altura del Sol (32° 47′ [?]) y el ángulo entre el Sol y la línea medida (14° 4′ 40″); con la colatitud, la coaltura y la distancia polar del Sol (106° 4′ 29″) resuelve el triángulo esférico con logaritmos de siete decimales y obtiene el azimut del Sol (33° 22′ 30″). De allí el rumbo verdadero de la línea, N 47° 27′ 10″ O, contra el magnético N 58° 50′: variación 11° 23′ NE. Es el método de Muñiz y Meyrelles (una altura del Sol y triángulo esférico). La cifra queda a 19′ de la que el mismo Schuster dio en 1869 (11° 42′, Fichas 052-053)."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del Terreno del Santo con el Pueblo de San Andrés de Giles (Schuster, marzo de 1871)",
+   "img": "img/f/060/03.jpg",
+   "fuente": "IMG_7314.JPG",
+   "orientacion": "Plano apaisado; el arroyo de Giles a la izquierda (O), meridiano en diagonal con «Variación 11° 23′ N.E.»; «Escala de mil metros» transversal; «Marzo de 1871 · Carlos Schuster».",
+   "interpretacion": "Faja larga y recta de 607 m de ancho (701 varas) que sale del arroyo de Giles al SE: en su cabecera, cortada en diagonal por la cuadrícula, la planta del «Pueblo de San Andrés de Giles» con la Plaza, la iglesia (cruz) y los edificios en negro; luego una sucesión de cercos de quintas con el nombre de su ocupante a ambos lados de los costados, el CEMENTERIO (cuadro con cruz) junto al costado SO a ≈ 2,4 km, y campo abierto hasta el fondo E-F, más allá del cual se lee «Estado». Al NE la faja de José Larrosa (frente 467,64 m = 540 v) y, tras la línea punteada B-A-C, la de Pividal/Piquetto; al SO, José Piquetto.",
+   "referencias": [
+    [
+     "A · B · C",
+     "Línea Pividal (hoy Piquetto) / Larrosa con los mojones de Eguía (1854); A-G S 42° 33′ O 467,64 m (frente de Larrosa = 540 v)"
+    ],
+    [
+     "G",
+     "Esquinero Norte del Santo, sobre el arroyo; a 64 m del mojón de palo de Eguía; 69 m a la barranca"
+    ],
+    [
+     "Frente al arroyo",
+     "G → 57,25 m → 320 m → 97 m → 287,3 m (cotas «320 m», «97 m», «287 m»); arroyo de Giles («A r r o y o  d e  G i l e s»)"
+    ],
+    [
+     "G-F (costado NE)",
+     "N 47° 27′ O 5041 m; mojones a 866, 1732, 2598 y 3031 m; dentro del pueblo desvío por la calle: «N 69° 18′ [?] O 500 m»"
+    ],
+    [
+     "H-E (costado SO)",
+     "N 47° 27′ O 4655 m (4680 al arroyo); mojones a 866, 1732, 2598, 3031, 3425; mojón D a 4458; desvío a-b N 68° 57′ O 454 m + N 31° 03′ E 179,25 m"
+    ],
+    [
+     "E-F (fondo)",
+     "N 62° 12′ E 645 m; del otro lado «Estado»"
+    ],
+    [
+     "Cercos sobre G-F",
+     "Melitón Rodríguez · Lavallén · Córdola [?] · Velox · Orellano · Mancilla · Farceti [?] · Juan Lahornera [?] · Larrosa (casa) · Vicente Carbone · Casas"
+    ],
+    [
+     "Cercos sobre H-E",
+     "Andrade · Cementerio · Molinari · Toledo"
+    ],
+    [
+     "Pueblo",
+     "Cuadrícula girada ≈ 21° respecto de la faja (calles N 69° O / N 31° E); Plaza con iglesia y edificios en negro"
+    ],
+    [
+     "Lápiz moderno",
+     "«Belgrano» junto al arroyo; «B. a Zárate [?]» bajo el pueblo"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: el pueblo, el frente escalonado y los cercos del costado NE",
+   "img": "img/f/060/04.jpg",
+   "fuente": "IMG_7315.JPG",
+   "orientacion": "Toma ampliada.",
+   "interpretacion": "La cuadrícula del pueblo con la Plaza y la iglesia; G y H sobre el arroyo; las cotas del frente escalonado; las líneas de los costados atravesando manzanas y calles; progresivas 4636 y 4477 m.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: quintas y cementerio",
+   "img": "img/f/060/05.jpg",
+   "fuente": "IMG_7316.JPG",
+   "orientacion": "Toma ampliada.",
+   "interpretacion": "Los cercos en zigzag de las quintas que cruzan los dos costados, con el nombre de cada ocupante, y el cementerio con su cruz junto al costado SO, entre el mojón de 3425 m y Molinari.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: el fondo E-F y el «Estado»",
+   "img": "img/f/060/06.jpg",
+   "fuente": "IMG_7318.JPG",
+   "orientacion": "Toma ampliada.",
+   "interpretacion": "Fondo N 62° 12′ E 645 m, prolongado en punteado, con la palabra «Estado» del otro lado; el meridiano verdadero cruza por F.",
+   "referencias": []
+  },
+  {
+   "titulo": "Firma y escala",
+   "img": "img/f/060/07.jpg",
+   "fuente": "IMG_7319.JPG",
+   "orientacion": "Toma ampliada.",
+   "interpretacion": "«Marzo de 1871 · Carlos Schuster» y el extremo de la escala de mil metros.",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia en papel vegetal del plano (siglo XX)",
+   "img": "img/f/060/08.jpg",
+   "fuente": "IMG_7321.JPG",
+   "orientacion": "Copia certificada de La Plata, plegada sobre el original.",
+   "interpretacion": "«Es copia del plano agregado al [duplicado nú]mero 60 del partido de San Andrés de Giles, mensura practicada en Marzo de 1871 por el agrimensor Carlos Schuster. La Plata …», con firma; a lápiz «Dup. 60 · Giles: 60». Probablemente de la campaña de copias de 1938 (Fichas 049, 054). Repite rótulos y cotas y permite leer algunos que el original tiene borrosos (p. ej. «N 62° 12′ E 645 m»).",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "El santo mide 700 varas",
+   "texto": "El ancho perpendicular de la faja es 607,3 m (57,25 + 320 + 97 + 287,3 en el frente; 645 × sen 70° 21′ en el fondo) = 701 varas: son las «700 varas del Santo Patrono» que Hidalgo puso entre las 800 de Pividal y las 540 de Galeano al trazar el pueblo en 1838 (Ficha 008). Y el frente de Larrosa, 467,64 m, son 540 varas: la cifra de Galeano en 1838. La faja de 1871 confirma la lectura de la Ficha 008 revisada: la tierra del Santo es la donación Suero, y el pueblo se apoya sobre ella. Pero la cuadrícula del pueblo DESBORDA la faja por los dos lados (el plano la dibuja cortada en diagonal por G-F y H-E): el pueblo de 1838 se trazó sobre 2040 varas de frente, de las cuales sólo 700 son municipales en 1871."
+  },
+  {
+   "titulo": "Un municipio que mide su tierra",
+   "texto": "Primera mensura del corpus pedida por una MUNICIPALIDAD. El expediente muestra la novedad institucional: el Departamento duda si el permiso debe darlo el Gobierno o «la autoridad civil»; el Fiscal quiere mensura judicial; el Asesor cita el decreto del Poder Ejecutivo del 13/7/1864 y el Gobierno concede el permiso desligándose del pago (7020 $ m/c, 5000 de honorarios). El Departamento aprueba llamándolo «terreno público». Diez meses de trámite para una operación de pocos días."
+  },
+  {
+   "titulo": "Paisaje del borde urbano en 1871",
+   "texto": "Es la TERCERA imagen del pueblo en el corpus (1838 traza de Hidalgo, 008; 1868-69 planta de Differt, 046; 1871 Schuster) y la primera que dibuja el borde periurbano: más allá de las manzanas, una sucesión de quintas cercadas que la línea municipal atraviesa, cada una con el nombre de su ocupante (Melitón Rodríguez, Lavallén, Velox, Orellano, Mancilla, Farceti, Lahornera, Larrosa, Vicente Carbone, Casas, Andrade, Molinari, Toledo). Los cercos son zigzags que no respetan la línea: las quintas se formaron antes que el deslinde. A ≈ 2,4 km de la cabecera, el CEMENTERIO, dentro del Santo, contra el costado SO: probablemente el «Cementerio Sud», a unas 30 cuadras de la parroquia, cerrado en 1919 cuando se habilitó el Norte (sitio web municipal) → ancla GIS para fijar el costado H-E."
+  },
+  {
+   "titulo": "Medir dentro del pueblo",
+   "texto": "La línea H-E entra al pueblo a los 3970 m y Schuster la desvía por el eje de una calle (N 68° 57′ O, 454 m) y vuelve con una perpendicular de 179,25 m al mojón D: la calle como base topográfica. La cuadrícula del pueblo resulta girada ≈ 21° 30′ respecto de los costados del Santo (calles N 69° O / N 31° E contra N 47° 27′ O): el damero no sigue la faja donada sino otra orientación (¿la del arroyo, la de la traza de 1838?). Dato para el GIS: los rumbos de las calles en 1871."
+  },
+  {
+   "titulo": "Mojones de eguía y empalmes",
+   "texto": "Schuster no inventa el perímetro: parte de los mojones B y C que Eguía puso en 1854 en la línea Pividal–Larrosa (Ficha 017), de un mojón de palo de Eguía en el esquinero de Larrosa, de un mojón hallado a 4458 m (D) y de otro de Eguía en la prolongación del fondo. José Piquetto (= Pichetto, Fichas 040, 046 y 059) es en 1871 dueño de lo que fue de María M. de Pividal a los dos lados (SO del Santo y NE de Larrosa), y es también el lindero N de los herederos de José Díaz (059): su campo une el pueblo con el bloque Lescano–Díaz–Achával."
+  },
+  {
+   "titulo": "Variación y método",
+   "texto": "11° 23′ NE por una altura del Sol a la 1 h 58 m, con latitud 34° 25′ y triángulo esférico (planilla completa, f. 5). Schuster pasa de la familia «alta» (11° 42′ en 1869) a una cifra intermedia; queda 7′ por debajo de los 11° 30′ de Saubidet y Nelson y 11′ por encima de Ybarraguirre (11° 12′, 1870). Rumbos verdaderos (N 47° 27′ 10″ O para el costado). Todo en metros y centímetros; mojones cada 866 m (1000 v). Escala transversal «de mil metros»."
+  },
+  {
+   "titulo": "El «estado» del fondo",
+   "texto": "Del otro lado del fondo E-F el plano escribe «Estado». ¿Tierra pública fiscal remanente detrás de la faja del Santo, o el nombre de un lindero? Si es tierra del Estado, el Santo sería, como las «sobras» de 1864-66, una faja que termina contra un resto fiscal. Contrastar con el plano del ejido de Orlandini (Carpeta 137, 1883-84)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Falta el folio 3 vuelto (resto de mojones, superficie y firma de la diligencia) y la circular a los linderos. ¿Qué superficie declaró Schuster? (≈ 293 ha según el cálculo de esta ficha). ¿Qué dispone el decreto del 13/7/1864? ¿Cuál era el estatuto del Santo: bien municipal o tierra pública? ¿El «Estado» es tierra fiscal? Lecturas dudosas: «Mar[z]o» de la diligencia; «Córdola», «Farceti», «Lahornera» y algunas progresivas del plano."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Midió en noviembre de 1869 las hijuelas de Caprile y Picasso y de Petrona G. de Molina (Fichas 052-053), remidiendo la repartición de G. Teodoro Schuster (024); parentesco no documentado. Aquí, contratado por la Municipalidad por 5000 pesos de honorarios. Letra caligráfica, plano de presentación con escala transversal, planilla solar propia. La búsqueda web no dio datos biográficos.",
+   "fuentes": "Este duplicado; Fichas 024, 052, 053; búsqueda web (10/2026) sin resultados."
+  },
+  {
+   "nombre": "Municipalidad de San Andrés de Giles",
+   "rol": "Propietaria y solicitante",
+   "texto": "Las municipalidades de campaña de Buenos Aires se organizaron por la ley de 1854; en 1870-71 la de Giles reclama como propia la tierra del Santo, donada por Francisco de Suero y Giles en 1793 para el oratorio y el pueblo (Ficha 008).",
+   "fuentes": "Este duplicado; Ficha 008; Municipalidad de San Andrés de Giles, «Historia»."
+  },
+  {
+   "nombre": "José Larrosa",
+   "rol": "Lindero ne",
+   "texto": "Dueño de una faja de 540 varas (467,64 m) de frente al arroyo entre el Santo y lo de Pividal; permutó con Pividal en 1854 (Ficha 017) y Eguía le puso mojones de palo ese año. Tiene casa sobre el costado NE del Santo. Sus 540 v coinciden con el frente de Galeano en la traza de 1838 (008).",
+   "fuentes": "Este duplicado; Fichas 008 y 017."
+  },
+  {
+   "nombre": "José Piquetto (Pichetto) · María M. de Pividal",
+   "rol": "Linderos so (y ne de larrosa)",
+   "texto": "María Maure, viuda de Rafael Pividal (Fichas 017, 023, 044). En 1871 su tierra es «hoy Piquetto»: José Pichetto, el arrendatario italiano de Susana C. de Sosa en 1868 (046), lindero de los Díaz en 1870 (059), ya propietario.",
+   "fuentes": "Este duplicado; Fichas 017, 046, 059."
+  },
+  {
+   "nombre": "Saturnino Salas · German Kuhr · Pedro Benoit",
+   "rol": "Departamento topográfico",
+   "texto": "Firman el informe del 14/7/1871. Salas, presidente del Departamento por décadas; Kuhr, agrimensor de 1856 (020) y miembro hasta 1881; Pedro Benoit (1836-1897), ingeniero, luego autor del trazado de La Plata.",
+   "fuentes": "Este duplicado; Fichas 020, 054, 058."
+  },
+  {
+   "nombre": "Ocupantes de las quintas",
+   "rol": "Rótulos del plano",
+   "texto": "Melitón Rodríguez, Lavallén, Córdola [?], Velox (¿Veloz, Ficha 057?), Orellano, Mancilla, Farceti [?], Juan Lahornera [?], Vicente Carbone, Casas, Andrade (¿Serafín Andrade, 033/046?), Molinari, Toledo. Sin datos individuales: muestran un borde urbano mixto, criollo e italiano (Carbone, Farceti, Molinari).",
+   "fuentes": "Este plano."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/060/02.jpg",
+  "fuente": "IMG_7306.JPG",
+  "lineas": [
+   "[a lápiz:] Copiado",
+   "[a tinta, arriba:] G[iles] [?]  60",
+   "Seccion Areco—",
+   "N.^{o} 235",
+   "Duplicado de las diligencias",
+   "de mensura y plano del terre-",
+   "no denominado del Santo, de",
+   "la propiedad de la Muni-",
+   "cipalidad de San Andres",
+   "de Giles—",
+   "Medido en el mes de Mar-",
+   "zo de 1871",
+   "Por el Agrimensor",
+   "Cárlos Schuster [rúbrica]",
+   "[a lápiz, abajo:] 16^{r} [?] 45"
+  ]
+ },
+ "titulo": "Municipalidad de San Andrés de Giles",
+ "estado": "Transcripta (7 hojas, 208 renglones), 6 láminas"
+}

@@ -1,0 +1,244 @@
+{
+ "carpeta": "63",
+ "carpeta_nombre": "Carpeta 63",
+ "archivo": "Ficha 063 - Herederos de Advíncula Gutiérrez (1872).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (rincón SO, campo ex Bernardo Gutiérrez)",
+  "N.º de duplicado": "63 · Sección Areco N.º 247",
+  "Propietario / solicitante": "Herederos de Advíncula Gutiérrez",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1872",
+  "Fecha de la diligencia": "Septiembre de 1872",
+  "Ubicación": "Hijuela de la repartición Gutiérrez (024), entre Craig, Molina, Alfonsín, Rorke, Costa y Casado",
+  "Orden judicial": "No fotografiada (falta todo el texto)",
+  "Vendedor / antecesor": "Advíncula Gutiérrez de Olivera, hija de Bernardo Gutiérrez (024)",
+  "Linderos citados": "Archivald Craig · Petrona G. de Molina · Cecilio Alfonsín · María Rorke · Zoilo y Federico Costa · Est. de Casado",
+  "Medidas": "Frente A-B 5312 m; fondo C-D 5444 m; costados ≈ 3757-3770 m; ≈ 2020 ha; 5 hijuelas",
+  "Rumbos": "N 46° 28′ O · S 46° 37′ E · N 43° 8′ E; meridiano «Norte verd.º» sin cifra legible",
+  "Referencia de archivo": "Duplicado 63 (Sección Areco 247); nota de Kuhr 1873-1878"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 2020 (calculada); Teódulo Olivera 499,5 (lápiz)",
+  "hitos": "Estancias de J. Alfonsín, M. Rorke y Casado; tres puestos; mojón de arranque",
+  "aguas": "Ninguna dibujada"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron carátula, portadilla y plano (más una nota de Kuhr al margen). En septiembre de 1872 Carlos Schuster mide la hijuela de los herederos de Advíncula Gutiérrez, hija de Bernardo Gutiérrez (024): un rectángulo de 5312 × ≈ 3760 m (≈ 2020 ha) dividido en cinco fajas —Teódulo Olivera (499,5 ha), José Alfonsín, Honoria Alfonsín de Manzano, Abad [?] Alfonsín y Agustín Casado—, entre Archivald Craig, Petrona G. de Molina, Cecilio Alfonsín, María Rorke y los Costa. Es la tercera hijuela Gutiérrez remedida por Schuster (después de 052 y 053). En 1873 Félix Manzano, por Honoria Alfonsín, pide en compra el sobrante; Kuhr anota informes hasta 1878.",
+ "caratula": {
+  "img": "img/f/063/01.jpg",
+  "fuente": "IMG_7333.JPG",
+  "campos": [
+   [
+    "N.º",
+    "63"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Herederos de Doña Advincula Gutierrez"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "Setiembre"
+   ],
+   [
+    "Año",
+    "1872."
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Schuster",
+   "img": "img/f/063/04.jpg",
+   "fuente": "IMG_7335 e IMG_7336",
+   "nota": "Sólo se fotografiaron carátula, portadilla y plano. Cifras de las líneas escritas al revés en el lado S (se leen girando 180°). Superficies a lápiz por otra mano (sólo la de Teódulo Olivera es legible).",
+   "lineas": [
+    "[al N:] Petrona G. de Molina · Cecilio Alfonsin",
+    "[línea C-D:] S. 46° 37′ E. = 5444 m^{s}",
+    "C  1428.53 m  E  1227.23 m [Puesto]  G  1461.44 m [Puesto]  K  1323.6 m  D",
+    "[al O:] Archivald Craig   [costado B-C:] N. 43° 8′ E. = 3757 m^{s}   [progresivas:] 866 · 1732 · 2598 · 3464 [?]",
+    "Teodulo Olivera   [Puesto]   [a lápiz:] 4994707",
+    "José Alfonsin   Est.^{a} de J. Alfonsin",
+    "Honoria Alfonsin de Manzano",
+    "Abad [?] Alfonsin",
+    "Agustin Casado   [costado A-D:] N. 43° 8′ [?] E. = 37[7]0 [?] m^{s}   ·   Est.^{a} de Casado",
+    "[diagonal:] Norte verd.^{o} [cifra ilegible]",
+    "[línea B-A:] N. 46° 28′ O. = 5312 metros",
+    "B [Puesto] Est.^{a} de M. Rorke  1228.55 m  F  1427.47 m  H  1332.70 m [Puesto]  J  1323.4 m  A  Arranque",
+    "[al S:] Maria Rorke · Zoilo Costa · Federico Costa",
+    "[a lápiz:] 1228 / 1427 / 2655 · 8845 [?] · 6132 [?] · 5747 [?] · 9906 [?]",
+    "Escala de Metros  [1000 · 0 · 1000 · 2000 · 3000 · 4000]",
+    "Setiembre de 1872   Cárlos Schuster [rúbrica]"
+   ],
+   "interpretacion": "Rectángulo casi regular de 5312 m (frente S, N 46° 28′ O) por ≈ 3760 m (costados N 43° 8′ E), con fondo de 5444 m (S 46° 37′ E): ≈ 2020 ha. Se divide en cinco fajas paralelas a los costados, de O a E: Teódulo Olivera (≈ 1228-1428 m de ancho; a lápiz 4.994.707 m² = 499,5 ha), José Alfonsín (con su estancia), Honoria Alfonsín de Manzano, Abad [?] Alfonsín y Agustín Casado (con «Est.ª de Casado» del otro lado). Arranque en el vértice A (SE). Linderos: Archivald Craig (O), Petrona G. de Molina y Cecilio Alfonsín (N), María Rorke —con estancia en el vértice B—, Zoilo y Federico Costa (S). Meridiano verdadero en diagonal; escala de metros."
+  },
+  {
+   "titulo": "Nota del Departamento al margen (1873-1878)",
+   "img": "img/f/063/05.jpg",
+   "fuente": "IMG_7335.JPG (margen izquierdo del folio anterior al plano)",
+   "nota": "Sólo se ve la parte derecha de la nota; el comienzo de cada renglón queda en el lomo.",
+   "lineas": [
+    "[…]nero 20/873 = Felix Manzano, por",
+    "[…] Alfonsin pide el sobrante de",
+    "[…]ma [?] en compra. Inf.^{e} Febrero 14/873,",
+    "[…]74, Mayo 8/874, Diciembre 1/875,",
+    "[…]76, Abril 28/876 y [cifra:] 12674",
+    "[…] 3/878",
+    "Kuhr [rúbrica]"
+   ],
+   "interpretacion": "Anotación de German Kuhr en el duplicado: el 20/1/1873 [?] Félix Manzano, por [Honoria] Alfonsín, pide en compra el sobrante; el Departamento informa el 14/2/1873 y vuelve sobre el asunto en 1874, 1875, 1876 y 1878. El campo de los herederos de Advíncula tenía, pues, un sobrante fiscal, y la familia lo compró después de la mensura (como Saraví en 058): seis años de trámite."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de los herederos de Advíncula Gutiérrez (Schuster, 1872)",
+   "img": "img/f/063/03.jpg",
+   "fuente": "IMG_7335.JPG",
+   "orientacion": "Plano con marco doble; meridiano «Norte verd.º» en diagonal; escala gráfica en metros; «Setiembre de 1872 · Cárlos Schuster».",
+   "interpretacion": "Cinco fajas paralelas, dos estancias (J. Alfonsín, Casado) y tres puestos dentro; estancia de María Rorke en el vértice B.",
+   "referencias": [
+    [
+     "A (Arranque) – B",
+     "N 46° 28′ O 5312 m · María Rorke, Zoilo Costa, Federico Costa"
+    ],
+    [
+     "B – C",
+     "N 43° 8′ E 3757 m · Archivald Craig"
+    ],
+    [
+     "C – D",
+     "S 46° 37′ E 5444 m · Petrona G. de Molina, Cecilio Alfonsín"
+    ],
+    [
+     "D – A",
+     "≈ 3770 m [?] · Est.ª de Casado"
+    ],
+    [
+     "Hijuelas (O→E)",
+     "Teódulo Olivera · José Alfonsín · Honoria Alfonsín de Manzano · Abad [?] Alfonsín · Agustín Casado"
+    ],
+    [
+     "Divisorias",
+     "F-E, H-G, J-K y el costado A-D; anchos 1228-1428 m"
+    ],
+    [
+     "Poblaciones",
+     "Est.ª de J. Alfonsín; Est.ª de M. Rorke; Est.ª de Casado; tres puestos"
+    ],
+    [
+     "Lápiz",
+     "Teódulo Olivera 4.994.707 m²; sumas de anchos"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle del plano",
+   "img": "img/f/063/04.jpg",
+   "fuente": "IMG_7336.JPG",
+   "orientacion": "Toma ampliada.",
+   "interpretacion": "Las cinco hijuelas con sus anchos y los linderos.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "La tercera hijuela gutiérrez remedida por carlos schuster",
+   "texto": "Después de Caprile y Picasso (052) y Petrona G. de Molina (053), ambas de noviembre de 1869, Schuster mide en septiembre de 1872 la hijuela de Advíncula Gutiérrez (de Olivera), hija de Bernardo Gutiérrez (024), muerta antes de 1869. Linda con Petrona G. de Molina y con Archivald Craig, el arrendatario de 1859 vuelto propietario. Con 024, 052, 053 y 063 se reconstruyen cuatro de las seis hijuelas de la repartición de G. Teodoro Schuster."
+  },
+  {
+   "titulo": "¿herederos o compradores?",
+   "texto": "La carátula dice «herederos de Advíncula Gutiérrez», pero de las cinco fajas sólo una es de un Olivera (Teódulo, ¿hijo?); tres son Alfonsín (José, Honoria de Manzano, Abad [?]) y una de Agustín Casado. Los Alfonsín son la familia de Mónica G. de Alfonsín (otra hija de Gutiérrez) y Cecilio Alfonsín es lindero al N: o la hijuela de Advíncula pasó a sus sobrinos, o se vendió en parte. Casado (con estancia al E) parece comprador."
+  },
+  {
+   "titulo": "El sobrante comprado",
+   "texto": "La nota de Kuhr (1873-1878) muestra que la mensura arrojó un sobrante y que Félix Manzano, por Honoria Alfonsín (su esposa), lo pidió en compra al gobierno a comienzos de 1873, con informes hasta 1878: variante del ciclo de las sobras en la que el heredero-lindero compra el exceso (como Saraví, 058)."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Todo en metros, con mojones en los costados a 866, 1732, 2598… (cada 1000 v): Schuster abandona el módulo de 750 v de 1869. Meridiano verdadero dibujado; la cifra de variación no es legible en las tomas."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "Tres estancias (J. Alfonsín, M. Rorke, Casado) y tres puestos; ningún curso de agua ni camino: como los otros planos del rincón SO (052-054, 061)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Falta todo el texto. ¿Variación? ¿Superficie del sobrante? ¿«Abad» o «Abel» Alfonsín? ¿Quién es María Rorke (¿Rourke, irlandesa?)? ¿El «Fermín [?]» de la hijuela de Mónica (053) es Félix Manzano?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Advíncula Gutiérrez (de Olivera)",
+   "rol": "Causante",
+   "texto": "Hija de Bernardo Gutiérrez (024); su testamentaría figuraba ya como lindera en 1869 (053).",
+   "fuentes": "Fichas 024, 053."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Cuarta diligencia en el corpus (052, 053, 060, 063). Sin datos biográficos en la web.",
+   "fuentes": "Fichas 052, 053, 060."
+  },
+  {
+   "nombre": "Teódulo Olivera · José, Honoria y Abad [?] Alfonsín · Agustín Casado",
+   "rol": "Adjudicatarios",
+   "texto": "Olivera, probable hijo de Advíncula; los Alfonsín, familia de Mónica G. de Alfonsín y de Cecilio Alfonsín; Honoria casada con Félix Manzano; Casado con estancia propia al E.",
+   "fuentes": "Este plano; Ficha 053."
+  },
+  {
+   "nombre": "Archivald Craig · María Rorke · Zoilo y Federico Costa · Cecilio Alfonsín · Petrona G. de Molina",
+   "rol": "Linderos",
+   "texto": "Craig: arrendatario en 1859 (024), propietario con puesto en 1869 (053). María Rorke: apellido irlandés, con estancia. Petrona G. de Molina: hijuela de 053.",
+   "fuentes": "Fichas 024, 053."
+  },
+  {
+   "nombre": "Félix Manzano · German Kuhr",
+   "rol": "Comprador del sobrante · departamento",
+   "texto": "Manzano pide el sobrante por su mujer (1873); Kuhr anota los informes hasta 1878.",
+   "fuentes": "Nota al margen."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/063/02.jpg",
+  "fuente": "IMG_7334.JPG",
+  "lineas": [
+   "Seccion Areco",
+   "N.^{o} 247          Giles",
+   "63",
+   "Duplicado de las diligencias",
+   "de mensura y plano, del terreno",
+   "de los herederos de Doña Advincu-",
+   "la Gutierrez—",
+   "Situado en el Partido de San",
+   "Andres de Giles—",
+   "Medido en Setiembre del",
+   "año 1872",
+   "Por el Agrimensor Cárlos Schuster [rúbrica]"
+  ]
+ },
+ "titulo": "Herederos de Advíncula Gutiérrez",
+ "estado": "Transcripta (2 hojas, 23 renglones), 2 láminas"
+}

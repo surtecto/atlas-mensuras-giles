@@ -1,0 +1,621 @@
+{
+ "carpeta": "62",
+ "carpeta_nombre": "Carpeta 62",
+ "archivo": "Ficha 062 - Livia P. de Figueroa (1872).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles y San Antonio de Areco (límite de partidos)",
+  "N.º de duplicado": "62 · Sección Areco N.º 240",
+  "Propietario / solicitante": "Livia P. de Figueroa",
+  "Agrimensor": "Julio C. Serna",
+  "Año": "1872",
+  "Fecha de la diligencia": "Abril de 1872 (mensura 20/4; firma 30/5; D. T. 8/6/1872)",
+  "Ubicación": "Margen O del arroyo de Giles aguas abajo, entre Moonie, la Iglesia de Areco, Durand y O’Donnell",
+  "Orden judicial": "Juez de 1.ª instancia Dr. Martell; propuesta 8/4/1872 por Manuel [J.?] Rosas",
+  "Vendedor / antecesor": "Felipe Figueroa y Ca[s]iana [?] de San Martín → José Figueroa; mensura de Kuhr (1857)",
+  "Linderos citados": "G. Moonie · Donojo · Martínez · Iglesia de Areco · her. de Figueroa · Durand · O’Donnell · her. de R. de Dios, J. y T. Figueroa",
+  "Medidas": "Título 11.000.000 v² (824,95 ha); mensura 13.598.000 v² (1019,79 ha); sobrante 433 × 6000 v",
+  "Rumbos": "N 32° 35′ O · N 58° 10′ E · S 31° 50′ E; variación N 9° 29′ E (Sol, 19/4/1872)",
+  "Referencia de archivo": "Duplicado 62 (Sección Areco 240); notas de 1924 y 1934"
+ },
+ "metricas": {
+  "superficie_ha": "1019,79 (mensura); 824,95 (título); sobrante ≈ 194,8",
+  "hitos": "Mojones de Kuhr (1857) y Eguía (1858), mojón de urunday; ombúes; Iglesia de Areco",
+  "aguas": "Un arroyito sin nombre que cruza en diagonal"
+ },
+ "sintesis": "En abril de 1872 Julio C. Serna, comisionado por el juez Martell, repone las líneas que German Kuhr trazó en 1857 para la testamentaría de Felipe Figueroa y mide el campo que su hijo José dejó a su viuda, Livia P. de Figueroa: 11 millones de varas² por título, 13.598.000 por mensura (1019,79 ha), sobre el límite de Giles con Areco, rodeando por tres lados un terreno de la Iglesia de Areco, entre Moonie, Donojo, Durand, O’Donnell y los herederos de Rosendo de Dios y de Juan y Tomás Figueroa. Es el «terreno cuestionado por José Figueroa» de la Ficha 056 y trae la mensura de 1857 que buscaba la 043. El Departamento (8/6/1872) declara que el sobrante «no es de propiedad pública» sino de las suertes del arroyo de Giles, del título de los Lara y Suero. Variación 9° 29′ E.",
+ "caratula": {
+  "img": "img/f/062/01.jpg",
+  "fuente": "IMG_3537.JPG (y IMG_7322)",
+  "campos": [
+   [
+    "N.º",
+    "62"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Livia P. de Figueroa"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Julio C. Serna"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1872"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Memoria: herencia, propuesta y citación",
+   "img": "img/f/062/06.jpg",
+   "fuente": "IMG_3539.JPG",
+   "nota": "Sello «FOJA 1». La inicial de Livia se lee aquí como «J.» pero en la carátula, la portadilla, el informe y el plano es «P.»; se uniforma «P.». La madre de José Figueroa: «Ca[s]iana [?] de San Martín».",
+   "lineas": [
+    "Memoria",
+    "Don José Figueroa heredó de sus padres",
+    "Don Felipe Figueroa y doña Ca[s]iana [?]",
+    "de San Martin un terreno en el partido",
+    "de Giles compuesto de once millones",
+    "de varas cuadradas.",
+    "Al fallecimiento de Don José Figueroa",
+    "quedó como única heredera y dueña de",
+    "este terreno su esposa Doña Livia P. de",
+    "Figueroa.",
+    "En ocho de Abril de 1872.— Don Manuel",
+    "J. [?] Rosas representante de Doña Livia",
+    "P. de Figueroa propone al que suscri-",
+    "be para reponer las lineas establecidas",
+    "por el Agrimensor Kurr en su mensura",
+    "del Año 1858 para la testamentaria",
+    "de Don Felipe Figueroa.",
+    "En nueve de Abril de 1872 fui aceptado",
+    "y el diez y siete del mismo recibí del",
+    "Departamento topografico los antece-",
+    "dentes relativos á esta operacion.",
+    "Citacion de Linderos— El Agrimen-",
+    "sor que firma, habiendo sido comisionado",
+    "por el Señor Juez de 1^{a}. Instancia doctor Mar-",
+    "tell para medir el terreno perteneciente á",
+    "la testamentaria de Don José Figueroa en los",
+    "partidos de Giles y San Antonio de Areco pre-",
+    "viene á V. que se dará principio á la men-",
+    "sura el dia veinte del presente mes arrancan-",
+    "do del mojon esquinero Sur de este terreno lo",
+    "que aviso á V. como lindero para que pueda",
+    "concurrir á reconocer si se sobrepasan los li-",
+    "mites de su propiedad— A este fin es V. invi-",
+    "tado á asistir con sus titulos al citado pun-",
+    "to, si quiere acompañarnos desde allí i"
+   ],
+   "interpretacion": "Serna abre con una «Memoria»: José Figueroa heredó de sus padres, Felipe Figueroa y Ca[s]iana [?] de San Martín, un terreno en Giles de once millones de varas cuadradas; a su muerte quedó como única heredera su esposa, Livia P. de Figueroa. El 8/4/1872 Manuel [J.?] Rosas, representante de la viuda, propone a Serna para «reponer las líneas establecidas por el agrimensor Kurr en su mensura del año 1858 [sic: 1857] para la testamentaría de Don Felipe Figueroa»; aceptado el 9/4, recibe antecedentes del Departamento el 17/4. Sigue la circular a los linderos: comisionado por el juez de 1.ª instancia doctor Martell para medir el terreno de la testamentaría de José Figueroa «en los partidos de Giles y San Antonio de Areco», empezará el 20 de abril desde el mojón esquinero Sur, e invita a los linderos a asistir con sus títulos. ESTE ES EL CAMPO DE «D. José Figueroa» que la Ficha 056 rotulaba como «terreno cuestionado», y la mensura de 1857 de Kuhr es la que la Ficha 043 buscaba (la de los herederos de Felipe Figueroa, superpuesta en carmín por el D. T.)."
+  },
+  {
+   "titulo": "Folio 1 vuelto · Notificaciones y arranque desde el mojón de Kuhr (1857)",
+   "img": "img/f/062/07.jpg",
+   "fuente": "IMG_3540a.JPG",
+   "nota": "Mitad izquierda de la toma IMG_3540 (doble página). «Marnos [?]» puede ser un resto de firma.",
+   "lineas": [
+    "de uno, á inmediacion de los mojones que",
+    "lo dividen del terreno que se va á medir.",
+    "Y siendo necesario hacer constar haberle",
+    "practicado esta citacion se servirá V. dar-",
+    "se por notificado firmando la presente cir-",
+    "cular. Partido de Giles Abril 10 de 1872. Fir-",
+    "mado. Julio C. Serna agrimensor. Consta que",
+    "ha citado por el Agrimensor Serna á la Seño-",
+    "ra viuda de Moonie. Jacinto Nogueira Al-",
+    "calde del Cuartel 6.^{o} — Testigo Justo J. [?] Figueroa",
+    "Testigo Ezequiel de Dios = A ruego de Don",
+    "Matias Martinez— Ezequiel de Dios = Justo",
+    "J. [?] Figueroa = Ezequiel de Dios, Mar-",
+    "nos [?] = El Alcalde del Cuartel 6.^{o} del Par-",
+    "tido de Giles se apersonó a la casa de Don",
+    "Nicolas O'Donnel para citarlo y no",
+    "habiendolo encontrado pidió a su esposa",
+    "le hiciera saber la notificacion que se",
+    "le habia encomendado y para que conste",
+    "firmamos la presente declaracion. Julio",
+    "C. Serna = Jacinto Nogueira Alcalde del",
+    "Cuartel 6.^{o}—",
+    "Mensura.— Comisionado por el Señor",
+    "Juez de 1^{a} Instancia Doctor Martell para me-",
+    "dir el terreno perteneciente á Doña Livia P. de Figue-",
+    "roa en el partido de Giles y prévia notifica-",
+    "cion al Juez de Paz de dicho partido y linde-",
+    "ros como consta de la Circular que adjun-",
+    "to al Espediente: di principio á la mensu-",
+    "ra tomando por punto de partida el mojon",
+    "esquinero Sur del terreno que debia medir, el",
+    "cual fué puesto por el Agrimensor Don German",
+    "Kurr en la mensura que practicó en 1857",
+    "para la Testamentaria de Don Felipe",
+    "Figueroa de la cual tiene su origen",
+    "el terreno que se debia medir. Desde A",
+    "hallé el rumbo de la linea AB unica en"
+   ],
+   "interpretacion": "Fin de la circular (Giles, 10/4/1872) con las constancias: el alcalde del Cuartel 6.º, Jacinto Nogueira, citó a la viuda de Moonie; firman testigos Justo J. [?] Figueroa y Ezequiel de Dios, este último a ruego de Matías Martínez; el alcalde fue a la casa de Nicolás O’Donnell y, no hallándolo, dejó aviso a su esposa. Luego la «Mensura»: comisionado por el juez doctor Martell, con aviso al juez de paz, Serna parte del mojón esquinero Sur (A) que puso el agrimensor German Kuhr en 1857 para la testamentaría de Felipe Figueroa, de la cual procede el terreno; desde A busca el rumbo de la línea A-B…"
+  },
+  {
+   "titulo": "Folio 2 · Lados A-B, B-C y C-D; la Iglesia de Areco",
+   "img": "img/f/062/08.jpg",
+   "fuente": "IMG_3540b.JPG",
+   "nota": "Mitad derecha de IMG_3540. Sello «FOJA 2».",
+   "lineas": [
+    "la cual existen Mojones y encontré que este",
+    "rumbo es del Norte treinta y dos grados",
+    "treinta y cinco minutos al Oeste y por el",
+    "medí dos mil quinientas sesenta y seis y tercia",
+    "varas dos mil doscientos veinte y dos metros",
+    "En B encontré un mojon puesto de Urunday",
+    "que me designaron como el esquinero Oeste",
+    "de Don José Figueroa. A pesar de la diferen-",
+    "cia entre el rumbo de esta linea y el que es-",
+    "tableció el Agrimensor Kurr creí de mi",
+    "deber aceptarla pues siendo su longitud",
+    "pequeña tambien es pequeño su aparta-",
+    "miento. En B y á fin de seguir los li-",
+    "mites establecidos en 1857 puse el rum-",
+    "bo Norte cincuenta y ocho grados diez mi-",
+    "nutos Este que es perpendicular al que",
+    "estableció el Agrimensor Kurr para",
+    "la linea AB, y medí hasta C tres",
+    "mil quinientas varas tres mil treinta",
+    "y un metros al fin de cuya distancia",
+    "coloqué un mojon sobre el costado Occiden-",
+    "tal del terreno que pertenece á la Iglesia",
+    "de Areco, al medir esta linea á las mil dos-",
+    "cientas veinte y cinco varas mil setenta y un me-",
+    "tros cuadra á la izquierda la poblacion",
+    "de Donojo, y se pusieron costaneros á",
+    "las mil quinientas varas mil doscien-",
+    "tos noventa y nueve metros y á las",
+    "dos mil setecientas cincuenta varas dos mil",
+    "tres cientos ochenta y un metros. En C cuadré",
+    "al Sur treinta y un grados cincuenta mi-",
+    "nutos Este y medí mil doscientas varas",
+    "mil treinta y nueve metros veinte centime-",
+    "tros hasta D donde coloqué el esquinero",
+    "Sur del terreno que pertenecio á la Iglesia",
+    "de Areco con el cual linda por tres costados",
+    "el terreno que se mide. En D cuadré al"
+   ],
+   "interpretacion": "…en la que existen mojones: N 32° 35′ O, 2566 ⅓ varas = 2222 m hasta B, donde un mojón de URUNDAY le es señalado como esquinero Oeste de José Figueroa. Aunque el rumbo difiere del de Kuhr, lo acepta porque, siendo corta la línea, el apartamiento es pequeño. En B, «a fin de seguir los límites establecidos en 1857», toma N 58° 10′ E, perpendicular a la A-B de Kuhr, y mide 3500 varas = 3031 m hasta C, sobre el costado occidental del «terreno que pertenece á la Iglesia de Areco»; a 1225 v queda a la izquierda la población de Donojo; costaneros a 1500 y 2750 v. En C, S 31° 50′ E 1200 v = 1039,20 m hasta D, esquinero Sur del terreno de la Iglesia de Areco, que linda con el medido por tres costados."
+  },
+  {
+   "titulo": "Folio 2 vuelto · La escotadura de la Iglesia, el lindero O’Donnell y el lado G-H",
+   "img": "img/f/062/09.jpg",
+   "fuente": "IMG_3541a.JPG",
+   "nota": "Mitad izquierda de IMG_3541. «tres cientas cuarenta y seis metros»: así en el original.",
+   "lineas": [
+    "Norte cincuenta y ocho grados diez minutos",
+    "Este y medí mil varas ochocientos sesenta",
+    "y seis metros hasta E donde coloqué un",
+    "mojon como esquinero Este del terreno de la Igle-",
+    "sia de Areco. Cuatro cientas varas tres cientas [sic]",
+    "cuarenta y seis metros cuarenta centimetros",
+    "de E al Sur treinta y un grados cincuen-",
+    "ta minutos Este existe un mojon E' que",
+    "es probablemente el que estableció el Agri-",
+    "mensor Kurr en 1857 al deslindar los",
+    "diversos titulos de Don Felipe Figueroa.",
+    "Este mojon se señala en el plano de dicho",
+    "Señor con la letra O. En E puse el",
+    "rumbo Norte treinta y un grados cincuen-",
+    "ta minutos Oeste y medí por el ochocientas",
+    "varas seiscientos noventa y dos ochenta me-",
+    "tros hasta F donde coloqué otro mojon",
+    "sobre el costado Oriental del terreno que fué de",
+    "la Iglesia de Areco. Desde F con rumbo",
+    "Norte cincuenta y ocho grados diez minu-",
+    "tos Este medí mil quinientas varas mil",
+    "dos cientos noventa y nueve metros hasta",
+    "G sobre el limite occidental del terreno de",
+    "O'Donnel y habiendo hecho colocar allí",
+    "un mojon como esquinero Norte del",
+    "terreno que medía puse el rumbo Sur",
+    "treinta y un grados cincuenta minutos",
+    "Este y medí por el dos mil cien [?] cientos",
+    "sesenta y seis tercia varas hasta H donde",
+    "coloqué otro mojon como esquinero Este",
+    "del terreno que medía, al medir esta li-",
+    "nea se pusieron costaneros á cada sete-",
+    "cientas cincuenta varas seis cientos cua-",
+    "renta y nueve metros cincuenta centime-",
+    "tros. Volví al mojon de Arranque",
+    "y al Norte cincuenta y ocho grados diez",
+    "minutos Este medí cinco mil noveciento[s]"
+   ],
+   "interpretacion": "De D, N 58° 10′ E 1000 v = 866 m hasta E, esquinero Este del terreno de la Iglesia de Areco; a 400 v (346,40 m) al S existe un mojón E′ que «es probablemente» el que puso Kuhr en 1857 al deslindar los diversos títulos de Felipe Figueroa (letra O en el plano de Kuhr). De E, N 31° 50′ O 800 v = 692,80 m hasta F, sobre el costado oriental del terreno de la Iglesia; de F, N 58° 10′ E 1500 v = 1299 m hasta G, sobre el límite occidental de O’Donnell, esquinero Norte; de G, S 31° 50′ E 2166 ⅓ v hasta H, esquinero Este, con costaneros cada 750 v (649,50 m). Vuelve al mojón de arranque y mide al N 58° 10′ E…"
+  },
+  {
+   "titulo": "Folio 3 · Lado A-H, superficie y linderos",
+   "img": "img/f/062/10.jpg",
+   "fuente": "IMG_3541b.JPG",
+   "nota": "Mitad derecha de IMG_3541. Sello «FOJA 3». «varas 5171 [?]» entre renglones.",
+   "lineas": [
+    "setenta y siete [entre renglones: varas 5171 [?]] metros hasta dar en H",
+    "con el mojon que habia hecho colocar",
+    "el dia anterior, al medir esta linea",
+    "á las tres cientas cuarenta y ocho varas tres cien-",
+    "tos un metros dejé una y media varas á",
+    "la izquierda un mojon esquinero Moo-",
+    "nie puesto por el Agrimensor Eguia",
+    "en 1858 y se encontraron los demas",
+    "mojones que se citan en el plano en",
+    "sus respectivas posiciones habiendose",
+    "colocado á cada mil quinientas va-",
+    "ras mil dos cientos noventa y nueve",
+    "metros—",
+    "Superficie— La superficie que de-",
+    "termina el poligono señalado con las",
+    "letras ABCDEFGH es igual trece",
+    "millones quinientas noventa y ocho",
+    "mil varas cuadradas ó sea mil diez",
+    "y nueve Hectáreas setenta y nueve",
+    "Areas un metro cuadrado—",
+    "La ABCDEFGH encierra",
+    "una superficie de once millones",
+    "de varas cuadradas ó sean ochocien-",
+    "tas veinte y cuatro Hectareas noventa",
+    "y cinco Areas diez y seis metros cua-",
+    "drados.",
+    "Linderos— Asistieron Don Justo Figue-",
+    "roa por la test.^{a} de su Señor Padre Don",
+    "Juan Figueroa— Don Ezequiel de",
+    "Dios por la de su Señor Padre Don",
+    "Rosendo de Dios, Don N. Morgan",
+    "por Moonie— Don Matias Martinez",
+    "por la testa.^{a} de su padre Don To-",
+    "mas Martinez y hasta ahora",
+    "no se ha manifestado disconfor-",
+    "midad alguna con lo practica-",
+    "do escepto la viuda de Durand que dice",
+    "le falta terreno."
+   ],
+   "interpretacion": "…5977 varas (5171 m) hasta H, cerrando con el mojón puesto el día anterior; a 348 v (301 m) deja a 1 ½ varas a la izquierda un mojón esquinero de Moonie puesto por Eguía en 1858 (Ficha 025); los demás mojones del plano estaban en su sitio; costaneros cada 1500 v. SUPERFICIE: el polígono ABCDEFGH mide 13.598.000 v² = 1019 ha 79 a 1 m²; el título (la parte A…H) encierra 11.000.000 v² = 824 ha 95 a 16 m². Asistieron Justo Figueroa por la testamentaría de su padre Juan Figueroa, Ezequiel de Dios por la de su padre Rosendo de Dios, N. Morgan por Moonie y Matías Martínez por la de su padre Tomás Martínez; nadie objetó salvo la viuda de Durand, «que dice le falta terreno»."
+  },
+  {
+   "titulo": "Folio 3 vuelto · Avalizamientos",
+   "img": "img/f/062/11.jpg",
+   "fuente": "IMG_3542a.JPG",
+   "nota": "Mitad izquierda de IMG_3542. Rumbos verdaderos desde A, B y E; «ángulos materiales» (azimutes de 0 a 360° contados desde un lado) desde C, D, F, G y H′.",
+   "lineas": [
+    "Avalizamientos",
+    "Mojon A  Rumbos verdaderos",
+    "Ombú de Rosendo de Dios   S 78° 28′ E",
+    "Chimenea de Moonie   S 15° 07′ [?] O",
+    "Puesto de Figueroa   N. 53° 31′ E.",
+    "Mojon B",
+    "Monte de Donojo   N. 13° 31′ E.",
+    "Ombú de Durand   N. 46° 01′ E",
+    "Puesto de Moonie   S 21° 49′ E",
+    "Mojon C— Angulos materiales   CB = cero",
+    "Ombú de Don Juan Figueroa   261° 30′",
+    "Puesto del Ingles   342° 20′",
+    "Casa de Almada   47° 15",
+    "Mojon D   DE = cero",
+    "Estancia de Durand   310° 18′",
+    "Puesto de O'Donnel   336° 15",
+    "\"  \"  Figueroa   117° 00′",
+    "Mojon E   Rumbos verdaderos",
+    "Puesto de O'Donnel   N. 10° 01′ O",
+    "Puesto \" Duran   N. 24° 01′ O",
+    "\"  \" Figueroa   S 31° 45′ O",
+    "Mojon F (Angulos materiales FG = cero",
+    "Estancia de Duran   301° 50",
+    "Puesto \"  \"   286° 25′",
+    "\"  \" Figueroa   189° 45′",
+    "Mojon G   GF = cero",
+    "Estancia de Durand   60° 12′",
+    "Puesto de Duran   30° 03",
+    "\"  \" O'Donnel   143° 14′",
+    "Mojon H′   H′G = cero",
+    "Puesto de O'Donnel n.^{o} 2   103° 30′",
+    "Ombú de Don Juan Figueroa   217° 00′",
+    "Casa de Rodriguez   76° 05′",
+    "Vuelta"
+   ],
+   "interpretacion": "Tabla de visuales desde ocho mojones: ombú de Rosendo de Dios, chimenea de Moonie, puesto de Figueroa (desde A); monte de Donojo, ombú de Durand, puesto de Moonie (desde B); ombú de Don Juan Figueroa, puesto del Inglés, casa de Almada (desde C); estancia de Durand, puestos de O’Donnell y de Figueroa (desde D, E, F, G); puesto n.º 2 de O’Donnell, ombú de Juan Figueroa y casa de Rodríguez (desde H′). Unos 25 rumbos: la chimenea de Moonie (ya en 040 y 058) y el ombú de Rosendo de Dios enlazan esta red con las anteriores."
+  },
+  {
+   "titulo": "Folio 4 · Variación de la aguja, firma y nota sobre el sobrante",
+   "img": "img/f/062/12.jpg",
+   "fuente": "IMG_3542b.JPG",
+   "nota": "Mitad derecha de IMG_3542. Sello «FOJA 4».",
+   "lineas": [
+    "Datos para el calculo de",
+    "la variacion del Aguja—",
+    "En Latitud 34° 11′ Sur el 19 de Abril",
+    "de 1872 á las 3^{h} 20^{m} pasado meri-",
+    "diano.",
+    "La altura verdadera del ☉   24° 13′",
+    "El Azimut observado   295° 15",
+    "\"  \"  deducido   304° 44′",
+    "Variacion del Aguja   N. 9° 29′ E.",
+    "Buenos Ayres Mayo 30 de 1872",
+    "Julio C. Serna",
+    "Agrimensor",
+    "Nota: Los dos millones quinientas",
+    "noventa y ocho mil varas que hay",
+    "de mas sobre el área que menciona",
+    "el Agrimensor Kurr deben pertenecer",
+    "á los linderos del costado Nord Este",
+    "es decir á las Suertes del Arroyo de",
+    "Giles. Este sobrante se designa en",
+    "el plano con las letras A′ A B B′",
+    "y tiene cuatrocientas treinta y tres va-",
+    "ras de base por seis mil mas ó me-",
+    "nos de altura.",
+    "Julio C. Serna",
+    "agrimensor",
+    "Sr. Juez de 1^{a} Instancia.",
+    "El Dep^{to}. Topog^{co}. ha examinado la",
+    "presente diligencia de mensura",
+    "practicada por el Agrim^{or}. D. Julio",
+    "C. Serna del terreno de propiedad"
+   ],
+   "interpretacion": "Variación: latitud 34° 11′ S, 19/4/1872 a las 3 h 20 m de la tarde, altura verdadera del Sol 24° 13′, azimut observado 295° 15′ y deducido 304° 44′ → variación N 9° 29′ E. Firma: Buenos Aires, 30/5/1872, Julio C. Serna. NOTA: los 2.598.000 v² de más sobre el área de Kuhr «deben pertenecer á los linderos del costado Nordeste, es decir á las suertes del Arroyo de Giles»; el sobrante es la faja A′ A B B′… [sic, en el plano A′ A H H′] de 433 varas de base por unas 6000 de altura. Comienza el informe del Departamento al juez."
+  },
+  {
+   "titulo": "Folio 4 vuelto · Informe del Departamento Topográfico: el sobrante no es público",
+   "img": "img/f/062/13.jpg",
+   "fuente": "IMG_3543a.JPG",
+   "nota": "Mitad izquierda de IMG_3543. A lápiz al margen: «2598000».",
+   "lineas": [
+    "de D.^{a} Livia P. de Figueroa en el",
+    "partido de Giles, y encontrando arre-",
+    "glado el proceder facultativo",
+    "empleado por el Agrimensor",
+    "la considera en estado de ser apro-",
+    "bada por V.S.—",
+    "El Dep^{to}. observa que en",
+    "esta operacion ha resultado",
+    "un sobrante de dos millones",
+    "quinientas noventa y ocho",
+    "mil varas cuadradas, cuya",
+    "posicion, segun el Agrim^{or}. Serna,",
+    "está indicada por las letras",
+    "A A′ H H′, y cuyo sobrante,",
+    "á juicio de este Dep^{to}., no es",
+    "de propiedad pública sino",
+    "corresponde á las suertes del",
+    "Arroyo de Giles que están",
+    "incompletas en su fondo",
+    "y han pertenecido primiti-",
+    "vamente á un mismo titulo",
+    "particular de los Lara y Suero",
+    "con el terreno de esta men-",
+    "sura y con las suertes",
+    "[al margen, a lápiz:] 2598000"
+   ],
+   "interpretacion": "El Departamento encuentra arreglado el proceder del agrimensor y considera la mensura en estado de ser aprobada por el juez. Observa que resultó un sobrante de 2.598.000 v², ubicado por Serna en A A′ H H′, que «no es de propiedad pública sino corresponde á las suertes del Arroyo de Giles que están incompletas en su fondo y han pertenecido primitivamente á un mismo título particular de los Lara y Suero» con el terreno medido y con las suertes…"
+  },
+  {
+   "titulo": "Folio 5 · Fin del informe (8/6/1872) y notas de 1924 y 1934",
+   "img": "img/f/062/14.jpg",
+   "fuente": "IMG_3543b.JPG",
+   "nota": "Mitad derecha de IMG_3543. Sello «FOJA 5». Firmas: Salas, Benoit y una tercera («Arenzé [?]»). Notas posteriores de otra mano.",
+   "lineas": [
+    "principales de Areco en esta",
+    "parte.—",
+    "Advirtiendo tambien que el",
+    "sobrante mencionado no ha",
+    "quedado incluido entre los",
+    "límites del terreno medido",
+    "y que V.S. podria dar vista á",
+    "la lindera Sra. de Durand que",
+    "no se manifiesta conforme",
+    "con la operacion para que",
+    "funde su desconformidad.",
+    "Buenos Aires, Junio 8 de 1872.",
+    "Salas   Benoit",
+    "Arenzé [?]",
+    "[otra mano:] La Plata, Febrero 18 de 1924.— En la fecha se informó",
+    "en el expediente Letra F- N.^{o} 30- D. G. y C.- año 1923- «Figueroa",
+    "J. J. y otra- mensura»- copiador 68- folio 448.—",
+    "Leandro [?] Lasch [?]",
+    "Enero 26 de 1934. Se informa en el exp. R/1-1933",
+    "«Direccion General de Tierras solicita antecedentes",
+    "sobre una fraccion de 24 H. 22 a. 31 c. que la Dir. G. de",
+    "Rentas denuncia como sobrante». Cop. 98 f. 430",
+    "Emilio Masse [?]"
+   ],
+   "interpretacion": "…principales de Areco en esa parte. Agrega que el sobrante no quedó incluido dentro de los límites medidos y que el juez podría dar vista a la lindera Sra. de Durand, que no está conforme, para que funde su disconformidad (Buenos Aires, 8/6/1872; Salas, Benoit). Al pie, dos notas del siglo XX: el 18/2/1924 se informó en el expediente F-30-D.G.C.-1923 «Figueroa J. J. y otra - mensura» (copiador 68, f. 448); el 26/1/1934, en el expediente R/1-1933, la Dirección General de Tierras pide antecedentes sobre una fracción de 24 ha 22 a 31 ca que la Dirección General de Rentas DENUNCIA COMO SOBRANTE (copiador 98, f. 430; Emilio Masse [?]). El ciclo de las sobras sigue vivo 62 años después."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Livia P. de Figueroa (Serna, 1872)",
+   "img": "img/f/062/03.jpg",
+   "fuente": "IMG_3544.JPG",
+   "orientacion": "Plano con rótulos de imprenta (letras de molde) y cursiva; «Norte verdadero» en diagonal con «Variación 9° 29′ E»; dos escalas transversales (varas y metros); «Buenos Ayres Ma[yo] 30 de 1872 · Julio C. Serna».",
+   "interpretacion": "Rectángulo A′-B-G-H′ con una escotadura C-D-E-F que rodea en tres lados el TERRENO DE LA IGLESIA DE ARECO; una línea A-H separa al S la faja del sobrante (433 v). Un arroyito cruza el campo en diagonal. Alrededor: Guillermo Moonie al O (estancia, puesto y mojón), Donojo y Martínez (puesto Almada) al N, Iglesia de Areco y herederos de Figueroa, Durand (estancia y puesto) y O’Donnell al E, y al S los herederos de Rosendo de Dios, de Juan Figueroa y de Tomás Figueroa, con «[…]o Wille» al SO. A lápiz, sobre B-C: «San Ant.º de Areco / límite de partidos / San Andrés de Giles».",
+   "referencias": [
+    [
+     "A′-B (O)",
+     "N 32° 35′ O 2566 v = 2222 m · Guillermo Moonie (puesto y mojón de Moonie)"
+    ],
+    [
+     "B-C (N)",
+     "N 58° 10′ E 3500 v = 3031 m · Donojo, Martínez; costaneros 1500 = 1299, 2750 = 2381"
+    ],
+    [
+     "C-D-E-F",
+     "Escotadura de la Iglesia de Areco: S 31° 50′ E 1200 v (1039,20 m) · N 58° 10′ E 1000 v (866 m) · N 31° 50′ O 800 v (692,80 m); E′ = mojón O de Kuhr a 400 v"
+    ],
+    [
+     "F-G",
+     "N 58° 10′ E 1500 v = 1299 m · herederos de Figueroa / Durand"
+    ],
+    [
+     "G-H′ (E)",
+     "S 31° 50′ E 2166 v = 1876 m · O’Donnell; costaneros cada 750 v"
+    ],
+    [
+     "A′-H′ (S)",
+     "N 58° 10′ E 5977 v = 5171 m · her. de Rosendo de Dios, Juan Figueroa, Tomás Figueroa; mojón de Moonie a 348 v; camino a San Antonio de Areco"
+    ],
+    [
+     "A-H",
+     "Línea del título; entre A-H y A′-H′, el sobrante de 433 v de ancho"
+    ],
+    [
+     "Superficie",
+     "«Sup. 13598000 V.s C.s · 1019 Hect.s 79 áreas 1 met. cuadrado»"
+    ],
+    [
+     "Poblaciones",
+     "Puesto del Inglés; puestos de Figueroa; estancias de Moonie, Donojo y Durand; puestos de Durand y O’Donnell; casas de Rosendo de Dios y de Don Juan Figueroa; puesto Almada"
+    ],
+    [
+     "Lápiz",
+     "«San Ant.º de Areco · límite de partidos · San Andrés de Giles»"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle del plano: el polígono y la escotadura de la Iglesia",
+   "img": "img/f/062/04.jpg",
+   "fuente": "IMG_3545.JPG",
+   "orientacion": "Toma ampliada.",
+   "interpretacion": "Cotas de todos los lados en varas y metros, el arroyito, el mojón E′ de Kuhr y la línea A-H del sobrante.",
+   "referencias": []
+  },
+  {
+   "titulo": "El plano con otra luz (tanda 2012)",
+   "img": "img/f/062/05.jpg",
+   "fuente": "IMG_7324.JPG (también 7325-7327)",
+   "orientacion": "Otra toma del mismo plano.",
+   "interpretacion": "Repite el plano; útil para leer los rótulos del margen S y las escalas.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "El «terreno cuestionado» de josé figueroa",
+   "texto": "La Ficha 056 (Ybarraguirre, 1870) rotulaba al NO de Rosendo de Dios un «terreno cuestionado por D. José Figueroa». Es éste: el campo heredado por José Figueroa de sus padres Felipe Figueroa y Ca[s]iana de San Martín, de 11.000.000 v², que su viuda hace remedir en 1872. Los linderos del S son justamente los herederos de Rosendo de Dios y de Juan y Tomás Figueroa (los títulos 1.º y 2.º de la lámina de estudio de 056)."
+  },
+  {
+   "titulo": "La mensura de 1857 que faltaba",
+   "texto": "La Ficha 043 dejó como pregunta abierta la «mensura de mayo de 1857 de los herederos de Felipe Figueroa», aprobada judicialmente y superpuesta en carmín por el D. T. sobre el plano de Meyrelles. Este duplicado confirma que la hizo German Kuhr (Serna dice 1858 en la memoria y 1857 en la diligencia) y que deslindó los «diversos títulos» de Felipe Figueroa con mojones con letras (el «O» = E′). Serna reconstruye sus líneas; el plano de Kuhr está en el expediente, no aquí. Los Figueroa de la Posta y la rama de la margen O son la misma familia de Felipe."
+  },
+  {
+   "titulo": "El sobrante que no es del fisco",
+   "texto": "Doctrina explícita del Departamento (Salas, Benoit, 8/6/1872): el exceso de 2.598.000 v² (≈ 195 ha, 433 × 6000 v) «no es de propiedad pública» porque corresponde a las suertes del arroyo de Giles «incompletas en su fondo», que «han pertenecido primitivamente á un mismo título particular de los Lara y Suero». Es la DOCTRINA DIFFERT (046, 1868) adoptada por el propio Departamento cuatro años después: entre títulos de un mismo origen no hay tierra pública. Quinto destino del exceso en el corpus: los linderos de fondo. Y las notas de 1924 y 1934 muestran que la Dirección General de Rentas seguía denunciando sobrantes (24,22 ha) en 1933."
+  },
+  {
+   "titulo": "La iglesia de areco como propietaria",
+   "texto": "Un «terreno que pertenece á la Iglesia de Areco» (en otro renglón, «que perteneció») queda encajado en el campo, que lo rodea por tres lados: escotadura de 1000 × 1200 varas (≈ 90 ha). Es la primera propiedad eclesiástica del corpus después de la tierra del Santo (060). ¿Donación a la parroquia de San Antonio de Areco? Buscar su título."
+  },
+  {
+   "titulo": "Límite de partidos",
+   "texto": "La circular habla del terreno «en los partidos de Giles y San Antonio de Areco», y una mano posterior escribió a lápiz «límite de partidos» sobre la línea B-C. Con 029 (Cañada de Suero como límite Areco–Giles, 1861) da un segundo tramo del límite."
+  },
+  {
+   "titulo": "Técnica y variación",
+   "texto": "Serna trabaja en varas con su equivalente en metros (1500 v = 1299 m), costaneros cada 750 y 1500 v. Su variación, N 9° 29′ E (latitud 34° 11′, altura del Sol 24° 13′, azimut 295° 15′/304° 44′), es la MÁS BAJA del corpus desde 1825 (10°): casi 2° por debajo de Schuster un año antes (11° 23′, Ficha 060). O hay un error instrumental o de cálculo, o la cifra no es comparable (¿variación del instrumento?). Para el GIS, corregir sus rumbos con prudencia: el rumbo A-B que encuentra (N 32° 35′ O) no coincide con el de Kuhr y él mismo lo acepta «por ser pequeña la longitud»."
+  },
+  {
+   "titulo": "Visuales y paisaje",
+   "texto": "≈ 25 visuales: tres OMBÚES (Rosendo de Dios, Durand, Juan Figueroa), el monte de Donojo, la chimenea de Moonie (otra vez, como en 040 y 058), la estancia de Durand, puestos de O’Donnell (dos), Durand, Figueroa, Moonie, el «Puesto del Inglés», la casa de Almada y la de Rodríguez. Un arroyito atraviesa el campo. La red de Serna enlaza con la de Gonnet (040) por la chimenea de Moonie y con 056 por la casa de Rosendo de Dios."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Inicial de Livia («P.» o «J.»); nombre de la madre («Casiana»?); el tercer firmante del informe; la etiqueta «[…]o Wille» del SO; la fecha del plano («Marzo» o «Mayo» 30). ¿Quién es Durand y por qué dice que le falta terreno? ¿Qué título tiene la Iglesia de Areco? ¿Cuál es el expediente de 1923 «Figueroa J. J. y otra»?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Livia P. de Figueroa",
+   "rol": "Propietaria",
+   "texto": "Viuda y única heredera de José Figueroa. Representada por Manuel [J.?] Rosas. Sin datos externos.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "José Figueroa · Felipe Figueroa",
+   "rol": "Causantes",
+   "texto": "Felipe Figueroa, de la rama de la Posta de Figueroa (Fichas 010, 018, 043), casado con Ca[s]iana [?] de San Martín; su testamentaría fue medida por Kuhr en 1857. José, su hijo, es probablemente el del «mirador de José Figueroa» (032, 043, 044) y el del «terreno cuestionado» (056).",
+   "fuentes": "Fichas 010, 018, 043, 056."
+  },
+  {
+   "nombre": "Julio C. Serna",
+   "rol": "Agrimensor",
+   "texto": "Primera aparición en el corpus. Firma en Buenos Aires. Diligencia ordenada con títulos de sección («Memoria», «Citación de linderos», «Mensura», «Superficie», «Linderos», «Avalizamientos»); plano con rótulos de imprenta. La búsqueda web no dio datos.",
+   "fuentes": "Este duplicado; búsqueda web (10/2026) sin resultados."
+  },
+  {
+   "nombre": "German Kuhr",
+   "rol": "Agrimensor de 1857",
+   "texto": "Agrimensor alemán (Ficha 020, 1856), luego miembro del Departamento (1865-1881). Midió en 1857 la testamentaría de Felipe Figueroa; sus mojones son la base de Serna.",
+   "fuentes": "Fichas 020, 043, 058."
+  },
+  {
+   "nombre": "Justo Figueroa · Ezequiel de Dios · N. Morgan · Matías Martínez",
+   "rol": "Linderos asistentes",
+   "texto": "Justo, por la testamentaría de su padre Juan Figueroa; Ezequiel, por la de su padre Rosendo de Dios (Ficha 056); N. Morgan por Moonie (la viuda de Moonie, «María M. de Mooney» en 056); Matías Martínez por la de su padre Tomás Martínez.",
+   "fuentes": "Este duplicado; Fichas 025, 056."
+  },
+  {
+   "nombre": "Nicolás O’Donnell · viuda de Durand · Donojo",
+   "rol": "Linderos",
+   "texto": "O’Donnell, comprador de los Figueroa de la Posta y opositor de Meyrelles en 1867 (043); no estaba en su casa y se citó a su esposa. La viuda de Durand objetó la mensura («le falta terreno»). Donojo, con estancia y monte al N.",
+   "fuentes": "Este duplicado; Ficha 043."
+  },
+  {
+   "nombre": "Jacinto Nogueira",
+   "rol": "Alcalde del cuartel 6.º",
+   "texto": "Ya alcalde «en comisión» en 1867 (043). Practica las citaciones.",
+   "fuentes": "Fichas 043 y esta."
+  },
+  {
+   "nombre": "Saturnino Salas · Pedro Benoit",
+   "rol": "Departamento topográfico",
+   "texto": "Firman el informe del 8/6/1872 que declara el sobrante de propiedad particular.",
+   "fuentes": "Este duplicado."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/062/02.jpg",
+  "fuente": "IMG_3538.JPG (y IMG_7323)",
+  "lineas": [
+   "[a lápiz:] copiado",
+   "Seccion ~~Areco~~ [en azul, encima: San Andrés de]  Giles",
+   "Sec.^{n} San A. de Giles  62",
+   "N.^{o} 240",
+   "Duplicado de la",
+   "diligencia de Mensura",
+   "del terreno de",
+   "D.^{a} Livia P. de Figueroa",
+   "en Giles",
+   "practicada en Abril de 1872",
+   "por Julio C. Serna"
+  ]
+ },
+ "titulo": "Livia P. de Figueroa",
+ "estado": "Transcripta (9 hojas, 296 renglones), 3 láminas"
+}

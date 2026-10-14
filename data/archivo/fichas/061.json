@@ -1,0 +1,225 @@
+{
+ "carpeta": "61",
+ "carpeta_nombre": "Carpeta 61",
+ "archivo": "Ficha 061 - Juan Félix Martínez (1871).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (rincón SO, bloque Lima–Echevarría)",
+  "N.º de duplicado": "61 · Sección Areco N.º 237",
+  "Propietario / solicitante": "Juan Félix Martínez",
+  "Agrimensor": "Baldomero Videla",
+  "Año": "1871",
+  "Fecha de la diligencia": "Agosto de [1871] (plano; año cortado)",
+  "Ubicación": "Entre los Lima (SE), Cuello de Miró (NO), Cruz C. de Silva (SO) y José M. Chavarría (NE)",
+  "Orden judicial": "No fotografiada (falta todo el texto)",
+  "Vendedor / antecesor": "No consta; en el extremo SO, José A. Aranguren (3000 v)",
+  "Linderos citados": "Eustaquia Cuello [?] de Miró · Rosa M. de Lima · Mauricia Rodríguez · Domingo Lima · Fermín Martínez · Cruz C. de Silva · José M. Chavarría",
+  "Medidas": "≈ 7945 × 1255,7 m (≈ 9175 × 1450 v); Aranguren 2598 m = 3000 v; ≈ 997 ha",
+  "Rumbos": "N 43° 20′ E · N 45° 42′ O; Variación 11° 20′ N. E.",
+  "Referencia de archivo": "Duplicado 61 (Sección Areco 237)"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 997 (Aranguren 326,23 + Martínez 671,09, a lápiz)",
+  "hitos": "Dos poblaciones (Aranguren, Martínez); mojones divisorios del SE",
+  "aguas": "Ninguna dibujada"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron carátula, portadilla y plano. Baldomero Videla —agrimensor nuevo en el corpus— mide en agosto [de 1871] el terreno de Juan Félix Martínez: una faja de ≈ 7945 × 1255,7 m (≈ 9175 × 1450 varas, unas 997 ha) dividida en dos, José A. Aranguren en el extremo SO (3000 varas, 326 ha) y Martínez en el resto (671 ha), cada uno con su población. Los linderos —los Lima, Cruz C. de Silva, Fermín Martínez, Eustaquia Cuello [?] de Miró y José M. Chavarría (Echevarría)— lo sitúan en el rincón SO del partido, el vecindario de Mariano Lima (055) y de Colmenero (054). Variación 11° 20′ NE.",
+ "caratula": {
+  "img": "img/f/061/01.jpg",
+  "fuente": "IMG_7328.JPG",
+  "campos": [
+   [
+    "N.º",
+    "61"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Juan F. Martinez"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "B. Videla"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1871"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Videla",
+   "img": "img/f/061/04.jpg",
+   "fuente": "IMG_7330 a IMG_7332",
+   "nota": "Sólo se fotografiaron carátula, portadilla y plano. Plano a tinta con rótulos caligráficos, flecha con flor y «Variación», dos poblaciones dibujadas, superficies a lápiz por otra mano (¿el Departamento?). Las cifras de las líneas largas están escritas al revés (se leen girando 180°).",
+   "lineas": [
+    "[al NO:] Eustaquia Cuello [?] de Miró",
+    "[línea NO:] N. 43° 20′ E. = 7929 metros",
+    "[tramo SO de esa línea:] S 43° 20′ O. = 2598 m^{s}",
+    "[al SO, sobre una línea oblicua:] Cruz C. de Silva",
+    "C   N. 45° 42′ O. = 1255. 7 m^{s}   D",
+    "[población:] J. A. Aranguren",
+    "José A. Aranguren   [a lápiz:] 3262308",
+    "[línea SE de Aranguren:] N. 43° 20′ E. = 2598 m^{s}",
+    "[divisoria:] N. 43° 48′ [?] O. = 1255. 7 m^{s}",
+    "[población:] J. F. Martinez",
+    "Juan Feliz Martinez   [a lápiz:] 6710892",
+    "[línea SE:] S. 43° 20′ O. = 7945 m^{s}   [progresivas:] 5226 · 4512 · 4307 · 2959 · 2560 m^{s} · 1298 m^{s}",
+    "[al SE:] Rosa M. de Lima · Mauricia Rodrig^{s} · Domingo Lima · Fermin Martinez",
+    "[a lápiz, bajo Mauricia Rodríguez:] 7945 / 4037 / 3908",
+    "[al NE:] José M. Chavarria   E   S. 45° 17′ [?] E. = 1255. 7 m^{s}   B",
+    "[flecha:] Variacion 11° 20′ N. E.",
+    "Escala de 5000 Metros",
+    "Buenos Ayres Agosto de [cortado]",
+    "Baldomero Videla [rúbrica]"
+   ],
+   "interpretacion": "Rectángulo de ≈ 7945 m de largo (N 43° 20′ E) por 1255,7 m de ancho (N 45° 42′ O), es decir ≈ 9175 × 1450 varas y unas 997 ha, dividido en dos: en el extremo SO, José A. Aranguren con 2598 m (3000 varas) de largo y 326,23 ha (3.262.308 m², anotado a lápiz), y el resto, Juan Félix Martínez, con 671,09 ha (6.710.892 m²); cada uno con su población dibujada. Al NO linda en toda su extensión con Eustaquia Cuello [?] de Miró; al SE, de SO a NE, con Rosa M. de Lima, Mauricia Rodríguez, Domingo Lima y Fermín Martínez (progresivas de los mojones divisorios); al SO con Cruz C. de Silva, sobre una línea oblicua; al NE con José M. Chavarría (= Echevarría). Variación 11° 20′ NE. Firmado «Baldomero Videla», Buenos Aires, agosto. La cuenta a lápiz 7945 − 4037 = 3908 parece medir el frente de Mauricia Rodríguez o de Domingo Lima."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Juan Félix Martínez (Videla, 1871)",
+   "img": "img/f/061/03.jpg",
+   "fuente": "IMG_7330.JPG",
+   "orientacion": "Plano apaisado con marco de doble filete; flecha con flor de lis y «Variación 11° 20′ N.E.»; «Escala de 5000 Metros»; firma «Baldomero Videla».",
+   "interpretacion": "Faja larga dividida en dos propietarios, rodeada por los Lima, los Silva, los Martínez, los Miró y Echevarría: es el vecindario de Mariano Lima (Ficha 055, 1840), cuyos linderos NE eran «Silva y Carmen Martínez» y cuyo vecino era Echevarría.",
+   "referencias": [
+    [
+     "C-D (SO)",
+     "N 45° 42′ O 1255,7 m · Cruz C. de Silva (sobre línea oblicua)"
+    ],
+    [
+     "Línea NO",
+     "N 43° 20′ E 7929 m · Eustaquia Cuello [?] de Miró"
+    ],
+    [
+     "Línea SE",
+     "S 43° 20′ O 7945 m · Rosa M. de Lima, Mauricia Rodríguez, Domingo Lima, Fermín Martínez; progresivas 1298, 2560, 2959, 4307, 4512, 5226"
+    ],
+    [
+     "E-B (NE)",
+     "S 45° 17′ [?] E 1255,7 m · José M. Chavarría"
+    ],
+    [
+     "José A. Aranguren",
+     "2598 m (3000 v) × 1255,7 m = 326,23 ha (lápiz); población"
+    ],
+    [
+     "Juan Félix Martínez",
+     "≈ 5347 m × 1255,7 m = 671,09 ha (lápiz); población"
+    ],
+    [
+     "Variación",
+     "11° 20′ N. E."
+    ],
+    [
+     "Escala",
+     "5000 metros"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: Aranguren y la línea de Silva",
+   "img": "img/f/061/04.jpg",
+   "fuente": "IMG_7331.JPG",
+   "orientacion": "Toma ampliada.",
+   "interpretacion": "La hijuela de Aranguren con su población, la línea oblicua de Cruz C. de Silva, el meridiano con la variación y el comienzo de la fracción de Martínez.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: Martínez, los linderos del SE y Chavarría",
+   "img": "img/f/061/05.jpg",
+   "fuente": "IMG_7332.JPG",
+   "orientacion": "Toma ampliada.",
+   "interpretacion": "La fracción de Juan Félix Martínez, los frentes de Mauricia Rodríguez, Domingo Lima y Fermín Martínez, el costado de José M. Chavarría, la escala y la firma.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Dónde está",
+   "texto": "Los nombres ubican el campo en el rincón SO del partido, el bloque Lima–Colmenero–Echevarría (Fichas 015, 054, 055): Rosa M. y Domingo Lima son de la familia de Mariano Lima, cuyo cuadrado de 9000 varas midió Prat en 1840 con linderos NE «Silva y Carmen Martínez» y Echevarría; aquí aparecen Cruz C. de Silva, Fermín y Juan Félix Martínez y José M. Chavarría (= Echevarría, mojón de fierro en 054). Rumbos N 43° 20′ E / N 45° 42′ O, casi los del campo Colmenero (N 42° 35′ E / N 47° 25′ O, Ficha 054). Hipótesis: el campo de Martínez es parte del terreno de «Carmen Martínez» de 1840."
+  },
+  {
+   "titulo": "Medidas en varas detrás de los metros",
+   "texto": "Ancho 1255,7 m = 1450 varas; Aranguren 2598 m = 3000 varas exactas; largo total ≈ 7945 m ≈ 9175 varas, cerca de la legua y media (9000 v) de los títulos de la zona, como el cuadrado de Lima. La división entre Aranguren y Martínez es un corte transversal a las 3000 varas."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Variación 11° 20′ NE: la familia «baja-media» (Schuster 11° 23′ en marzo de 1871; Ybarraguirre 11° 12′ en 1870). Todo en metros; superficies en m² escritas a lápiz por otra mano. Escala gráfica de 5000 metros. Plano de presentación con marco doble y flecha con flor de lis, como el de Nelson (057)."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "Sólo dos poblaciones dibujadas (Aranguren y Martínez); ninguna agua, camino ni árbol: como en los otros planos del rincón SO (052-054), el campo se representa como propiedad, no como paisaje."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Falta todo el texto. ¿Es mensura de un campo o división? ¿Qué título tiene Juan Félix Martínez (¿de la familia Martínez–Garcete de 054 o de Carmen Martínez de 055?) y cómo llegó Aranguren a sus 3000 varas? ¿Lectura «Cuello» o «Ouello» de Miró? Año exacto del plano (cortado)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Juan Félix Martínez",
+   "rol": "Propietario",
+   "texto": "Titular de la fracción mayor (671 ha) con población. Sin datos externos. Posible pariente de Fermín Martínez (lindero SE) y de Carmen Martínez (lindera de Lima en 1840, Ficha 055).",
+   "fuentes": "Este plano; Ficha 055."
+  },
+  {
+   "nombre": "Baldomero Videla",
+   "rol": "Agrimensor",
+   "texto": "Primera aparición en el corpus; firma en Buenos Aires. La búsqueda web no dio datos (los resultados remiten a homónimos del siglo XX).",
+   "fuentes": "Este plano; búsqueda web (10/2026) sin resultados útiles."
+  },
+  {
+   "nombre": "José A. Aranguren",
+   "rol": "Propietario de la fracción so",
+   "texto": "3000 varas de largo, 326 ha, con población. Apellido vasco. Sin datos.",
+   "fuentes": "Este plano."
+  },
+  {
+   "nombre": "Rosa M. de Lima · Domingo Lima · Mauricia Rodríguez · Fermín Martínez · Cruz C. de Silva · Eustaquia Cuello [?] de Miró · José M. Chavarría",
+   "rol": "Linderos",
+   "texto": "Los Lima, herederos o sucesores de Mariano Lima (Ficha 055); los Silva y Martínez, linderos de Lima desde 1840; José M. Chavarría es José María Echevarría (Ficha 015; mojón de fierro en 054).",
+   "fuentes": "Fichas 015, 054, 055."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/061/02.jpg",
+  "fuente": "IMG_7329.JPG",
+  "lineas": [
+   "Sec^{n} ~~Areco~~ [?]          Giles",
+   "N.^{o} 237          61",
+   "Duplicado de mensura del",
+   "terreno de Don Juan F. Martinez en el",
+   "Partido de San Andres de Giles.",
+   "por el agrimensor B. Videla",
+   "[a lápiz, firma tenue ilegible]",
+   "[a lápiz, abajo a la derecha:] 1871"
+  ]
+ },
+ "titulo": "Juan Félix Martínez",
+ "estado": "Transcripta (1 hojas, 19 renglones), 3 láminas"
+}
