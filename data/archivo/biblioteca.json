@@ -28,5 +28,11 @@
   "en": "Publicado por la Municipalidad de San Andrés de Giles",
   "url": "https://www.sanandresdegiles.gob.ar/sites/default/files/sintesis_historica_1930-1940_en_el_recuerdo_realidad_educativa_hoy_en_san_andres_de_giles_hector_f._felice.pdf", "acceso": "abierto",
   "temas": ["historia local", "educación", "siglo XX"],
-  "nota": ""}
+  "nota": ""},
+ {"id": "zweifel2013medir", "tipo": "tesis", "autores": ["Zweifel, Teresa"], "anio": "2013",
+  "titulo": "Medir lo inconmensurable. Los cambios en los procedimientos para relevar la pampa anterior (1796-1895)",
+  "en": "Tesis de Doctorado en Historia, Universidad Torcuato Di Tella. Dir.: Marta Penhos y Carla Lois",
+  "url": "aportes/ap-20261012-zwei/zweifel_2013_medir_lo_inconmensurable.pdf", "acceso": "abierto",
+  "temas": ["agrimensura", "cartografía histórica", "Departamento Topográfico", "marco"],
+  "nota": "Relevamiento, mensura y representación de la pampa entre 1796 y 1895; trata los mapas como evidencia legal (diagramas de mensura) y el Departamento Topográfico. Marco general; no trata específicamente de Giles."}
 ]

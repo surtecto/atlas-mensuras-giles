@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "ap-20261012-zwei",
+  "tipo": "bibliografia",
+  "titulo": "Medir lo inconmensurable. Los cambios en los procedimientos para relevar la pampa anterior (1796-1895)",
+  "descripcion": "Esta tesis analiza el proceso de relevamiento, medición y representación cartográfica de la Pampa anterior en Argentina entre 1796 y 1895, relacionando técnicas, imágenes y contextos históricos.",
+  "autor": "Juan Patricio Addesso",
+  "fecha": "2026-10-12",
+  "anio": "2013",
+  "fuente": "Teresa Zweifel, tesis de Doctorado en Historia, Universidad Torcuato Di Tella (dir. Marta Penhos y Carla Lois)",
+  "archivos": [
+   {
+    "nombre": "zweifel_2013_medir_lo_inconmensurable.pdf",
+    "url": "aportes/ap-20261012-zwei/zweifel_2013_medir_lo_inconmensurable.pdf"
+   }
+  ]
+ }
+]
