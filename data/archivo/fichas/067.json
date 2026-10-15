@@ -1,0 +1,281 @@
+{
+ "carpeta": "67",
+ "carpeta_nombre": "Carpeta 67",
+ "archivo": "Ficha 067 - Natal y Macario Torres (1874).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (margen O del arroyo de Giles, entre los arroyos de Suero y de la Noria)",
+  "N.º de duplicado": "67 · Sección Areco N.º 267",
+  "Propietario / solicitante": "Natal Torres y her. de Macario Torres",
+  "Agrimensor": "Joaquín Cascallar",
+  "Año": "1874",
+  "Fecha de la diligencia": "Marzo de 1874 (plano)",
+  "Ubicación": "Fajas ex Lencina / Flores / Marfil (matriz de 040), fracción B y D de Torres",
+  "Orden judicial": "No fotografiada (falta todo el texto)",
+  "Vendedor / antecesor": "Herederos de Francisco Suero (1823): suertes de Flores y Marfil",
+  "Linderos citados": "Her. de Eduardo Morgan · Her. de Dámaso Flores · Benito Vásquez · F. Porcel de Ponce · M. Murray de Mooney",
+  "Medidas": "455,40 ha (6.075.000 v² = 1350 × 4500 v) + 178,12 ha (2.373.037 v²) «solicitado como sobrante por Morgan»",
+  "Rumbos": "S 47° 23′ E (3897 m = 4500 v) · N 43° 15′ E (1169 m = 1350 v) · N 46° 38′ O",
+  "Referencia de archivo": "Duplicado 67 (Sección Areco 267) = el «dup. 267» citado en 1876 en la Ficha 040"
+ },
+ "metricas": {
+  "superficie_ha": "455,40 + 178,12 (Cascallar)",
+  "hitos": "Puesto de Morgan con cerco; puesto de piedra [?]",
+  "aguas": "Arroyos de Suero, de la Noria, sin nombre y de Giles"
+ },
+ "sintesis": "Duplicado con carátula, portadilla y dos planos, sin texto. En marzo de 1874 Joaquín Cascallar mide para Natal Torres y los herederos de Macario Torres dos piezas en la margen O del arroyo de Giles: un rectángulo de 1350 × 4500 v (455,40 ha) y una fracción de 178,12 ha «solicitada como sobrante por Morgan», entre los herederos de Eduardo Morgan, de Dámaso Flores, Benito Vásquez, Fortunata Porcel de Ponce y María Murray de Mooney. Lleva agregado un plano en color del Departamento de Ingenieros que reubica los títulos primitivos de 1823 (fracciones A-H, en tres secciones) y coloca los sobrantes de Morgan al fondo, contra las suertes de Areco. Es el «duplicado 267 de la Sección Areco» citado en 1876 en la Ficha 040 (sobrantes de Duggan).",
+ "caratula": {
+  "img": "img/f/067/01.jpg",
+  "fuente": "IMG_7350.JPG",
+  "campos": [
+   [
+    "N.º",
+    "67"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Don Natal Torres y herederos de Don Macario Torres."
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Joaquín Cascallares [sic]"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1874."
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Plano general del Departamento de Ingenieros · rótulos",
+   "img": "img/f/067/05.jpg",
+   "fuente": "IMG_7352, IMG_7353 e IMG_7354",
+   "nota": "Plano en color agregado al duplicado, con sello del DEPARTAMENTO DE INGENIEROS de la Provincia (denominación posterior a 1875) y un visto bueno a la derecha («V.º B.º Lav[…]» [?]). Fajas en carmín (secciones) y azul (títulos primitivos). Cifras de las líneas de vuelta escritas al revés.",
+   "lineas": [
+    "Referencias",
+    "Las líneas de carmin indican la division del plano en tres secciones",
+    "Las líneas azules indican la ubicacion de los titulos primitivos",
+    "[al NO:] Guillermo Mooney   ·   P. Wheeler   ·   Carmen Benites / Loreto Ponce",
+    "[al O:] Suertes principales de Areco · Tiburcio Casco   ·   Cañada de Llavallen",
+    "SECCION I: Sobrante poseido por D.^{n} Ed.^{do} Morgan 1100^{m} × (2650 + 2930)/2 · Fraccion G",
+    "Eduardo Morgan 1300^{vs} por el fondo que resulte hasta las suertes principales de Areco · Fraccion C",
+    "Natal Torres y H.^{os} 1300^{vs} por el fondo que resulte · Fraccion B",
+    "Sucesores de Marfil [S 41° 10′ O 1082]   ·   Dam.^{o} Flores 1300^{vs} × 4500 · Fraccion A",
+    "SECCION II: Sobrante poseido por D.^{n} Ed.^{do} Morgan 1300^{m} × (1994 + 2220)/2 · Fraccion H",
+    "D. Eduardo Morgan 1500^{vs} × (4850 + 4295)/2 · Fraccion E",
+    "Fraccion D: Natal Torres y H.^{os} 700^{vs} × 4500, parte de la fraccion D",
+    "Herederos de D.^{a} Maria J. Sosa, M.^{a} Eug.^{a} y M. Gomez · Parte de la fraccion D",
+    "D. Pedro Veloz 650 × 4500 · Parte de la fraccion D   ·   Dam.^{o} Flores · Fraccion F",
+    "SECCION III: Morgan [con escuadra de José Martinez, a lápiz] · Morgan · Susana Casco de Sosa",
+    "[al SE:] Isidro Cucullu   ·   [al S:] Morgan",
+    "Limite del titulo 2.^{a} mensura del año 23",
+    "[rumbos:] S 48° 13′ E 3782 · S 48° 11′ E · N 47° 04′ O · S 41° 47′ O 1299 · N 57° 15′ E 1168 · N 37° 08′ E · N 30° 26′ E 610 · N 43° 03′ E",
+    "[aguas:] Arroyo de Suero · Arroyo de la Noria · Arroyo sin nombre · Arroyo de Giles",
+    "ESCALA DE METROS   ·   ESCALA DE VARAS"
+   ],
+   "interpretacion": "El Departamento de Ingenieros reconstruye en un solo plano la margen O del arroyo de Giles entre la Cañada de Lavallén y el arroyo de Giles, con la ubicación de los TÍTULOS PRIMITIVOS (líneas azules) y una división en tres SECCIONES (carmín). Las fracciones llevan letras A-H: Flores (A y F, 1300 v × 4500), Natal Torres y herederos (B y parte de D), Eduardo Morgan (C y E) y, al fondo contra las suertes principales de Areco, dos trapecios rotulados «Sobrante poseído por D.ⁿ Eduardo Morgan» (G, 1100 m de ancho; H, 1300 m). La Sección III es Morgan, José Martínez y Susana Casco de Sosa, contra Cucullu. Es casi seguramente el «informe del Departamento de Ingenieros modificando la ubicación de los sobrantes» que la nota de 1876 de la Ficha 040 asocia al «duplicado n.º 267 de la Sección Areco»: este mismo."
+  },
+  {
+   "titulo": "Plano de Cascallar · rótulos",
+   "img": "img/f/067/06.jpg",
+   "fuente": "IMG_7355 a IMG_7357",
+   "nota": "Plano de presentación con marco de esquinas redondeadas y rótulos de IMPRENTA orientados hacia afuera en cada lado; se transcribe girado 180° (el Sud arriba). IMG_7356 e IMG_7357 son tomas parciales del mismo plano.",
+   "lineas": [
+    "[flecha:] S   ·   [al N, en vertical:] Herederos de Eduardo Morgan   ·   N [flecha con dos meridianos]",
+    "HEREDEROS DE EDUARDO MORGAN   ·   HEREDEROS DE DAMASO FLORES   ·   BENITO VASQUEZ",
+    "[lado:] S. 47° 23′ E. = 3897^{m} = 4500^{v}",
+    "[lado:] N. 43° 15′ E. 1169^{m} 1350^{v}",
+    "Solicitado como sobrante por Morgan [faja O, a lo largo]",
+    "MACARIO Y NATAL TORRES",
+    "Sup.^{e} 455^{hect.} 39^{ar.} 82,70^{m.c.} = 6.075.000^{v.c.}",
+    "[arroyo con puesto:] Puesto de piedra [?]",
+    "EUGENIO MANUEL Y MARIA GOMEZ   [faja; N. 47° 23′ O. …]",
+    "Solicitado como sobrante por Morgan",
+    "MACARIO Y NATAL TORRES",
+    "Sup.^{e} 178^{hect.} 11^{ar.} 60,6^{m.c.} = 2.373.037,13 [?]^{v.c.}",
+    "[puesto con cerco:] Morgan",
+    "[línea S:] N. 46° 38′ O. · 1000^{m} 1840 [?]",
+    "FORTUNATA PORCEL DE PONCE   ·   MARIA MURRAY DE MOONEY",
+    "Solicitado como sobrante por Morgan [faja al fondo]",
+    "Escala · Metros · Varas",
+    "B.^{s} A.^{s} Marzo de 1874   Joaquin Cascallar [rúbrica]"
+   ],
+   "interpretacion": "Cascallar mide para Natal Torres y los herederos de Macario Torres dos piezas sobre los arroyos de la margen O: un rectángulo de 1350 × 4500 v (3897 × 1169 m; 455,40 ha = 6.075.000 v², exactamente el producto: los 700 v de Torres + 650 v de Veloz de la fracción D) y, separado por la faja de Eugenio, Manuel y María Gómez, otra fracción de 178,12 ha que, como otras dos franjas del plano, está rotulada «Solicitado como sobrante por Morgan». El plano registra el conflicto: los herederos de Eduardo Morgan pidieron como sobrante fiscal tierras que los Torres poseían por título. Linderos: herederos de Morgan (por dos lados), herederos de Dámaso Flores, Benito Vásquez, Fortunata Porcel de Ponce y María MURRAY de Mooney (la «María M. de Mooney» de 056)."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano general de las secciones I-III (Departamento de Ingenieros, c. 1874-1876)",
+   "img": "img/f/067/03.jpg",
+   "fuente": "IMG_7352.JPG",
+   "orientacion": "Plano apaisado en color; fajas en carmín y azul; dos escalas (metros y varas); sello del Departamento de Ingenieros.",
+   "interpretacion": "Reubicación de los títulos primitivos de la margen O del arroyo de Giles y de los sobrantes de Morgan; cuatro arroyos dibujados (Suero, la Noria, sin nombre y Giles).",
+   "referencias": [
+    [
+     "Sección I",
+     "G (sobrante de Morgan) · C (E. Morgan, 1300 v) · B (Natal Torres, 1300 v) · Marfil · A (D. Flores, 1300 × 4500 v)"
+    ],
+    [
+     "Sección II",
+     "H (sobrante de Morgan) · E (E. Morgan, 1500 v) · D (Torres 700 v, Sosa/Gómez, Veloz 650 v) · F (D. Flores)"
+    ],
+    [
+     "Sección III",
+     "Morgan · José Martínez (lápiz) · Susana Casco de Sosa"
+    ],
+    [
+     "Linderos",
+     "Mooney, Wheeler, Benites/Ponce, Cucullu, Morgan, T. Casco"
+    ],
+    [
+     "Rumbos de las fajas",
+     "S 48° 13′ E / S 48° 11′ E / N 47° 04′ O"
+    ],
+    [
+     "Sello",
+     "Departamento de Ingenieros · Provincia de Buenos Aires"
+    ]
+   ]
+  },
+  {
+   "titulo": "Plano general · detalle O",
+   "img": "img/f/067/04.jpg",
+   "fuente": "IMG_7353.JPG",
+   "orientacion": "Toma ampliada.",
+   "interpretacion": "Sobrantes G y H de Morgan, fracciones C y E, Cañada de Llavallén, escuadra de José Martínez.",
+   "referencias": []
+  },
+  {
+   "titulo": "Plano general · detalle E",
+   "img": "img/f/067/05.jpg",
+   "fuente": "IMG_7354.JPG",
+   "orientacion": "Toma ampliada.",
+   "interpretacion": "Fracciones B, D, A y F; arroyos de la Noria, sin nombre y de Giles; Susana Casco de Sosa y Cucullu.",
+   "referencias": []
+  },
+  {
+   "titulo": "Plano de Cascallar (marzo de 1874)",
+   "img": "img/f/067/06.jpg",
+   "fuente": "IMG_7355.JPG (girada 180°)",
+   "orientacion": "Marco de esquinas redondeadas; rótulos de imprenta; flecha N con meridianos magnético y verdadero; escalas de metros y varas.",
+   "interpretacion": "Las dos fracciones de Torres, la faja Gómez y las áreas «solicitadas como sobrante por Morgan».\nTorres (1)\n455 ha 39 a 82,70 ca = 6.075.000 v² (1350 × 4500 v)\nTorres (2)\n178 ha 11 a 60,6 ca = 2.373.037 v² [?]; solicitado como sobrante por Morgan\nFaja\nEugenio, Manuel y María Gómez\nLinderos\nher. de E. Morgan · her. de D. Flores · Benito Vásquez · F. Porcel de Ponce · M. Murray de Mooney",
+   "referencias": []
+  },
+  {
+   "titulo": "Plano de Cascallar · otras tomas",
+   "img": "img/f/067/07.jpg",
+   "fuente": "IMG_7356 e IMG_7357",
+   "orientacion": "Tomas parciales.",
+   "interpretacion": "Mismo plano.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Aparece el duplicado 267",
+   "texto": "La Ficha 040 (Duggan, Gonnet 1866) tiene una nota del 20/10/1876 que remite al «duplicado n.º 267 de la Sección Areco (partido de Giles) y el informe del Departamento de Ingenieros modificando la ubicación de los sobrantes». La portadilla de esta carpeta dice «Sección Areco N.º 267»: el sobrante de Duggan/Morgan se reubicó a partir de la mensura de Cascallar para los Torres. El plano en color del Departamento es esa reubicación."
+  },
+  {
+   "titulo": "Los sobrantes de morgan contra los torres",
+   "texto": "En 1866 Gonnet halló cuatro sobrantes (611 ha) en las fajas Lencina / Flores / Marfil denunciados por Duggan, que se escrituraron a los herederos de Morgan (040, 041). En 1874 los Torres miden su parte con título (1350 × 4500 v) y el plano marca tres áreas «solicitadas como sobrante por Morgan», incluida una fracción de 178 ha que ellos poseían. El Departamento termina dibujando los sobrantes de Morgan (G y H) en el FONDO, contra las suertes principales de Areco: el exceso se corre de las fajas de los vecinos al final de los títulos (doctrina de 062)."
+  },
+  {
+   "titulo": "Títulos primitivos en varas",
+   "texto": "Las fajas de 1823 de los herederos de Suero se reconstruyen en varas: 1300 v (Flores, Torres, E. Morgan), 1500 v (E. Morgan), 700 + 650 v (Torres + Veloz) × 4500 v de fondo, «por el fondo que resulte hasta las suertes principales de Areco». La «2.ª mensura del año 23» marca un límite de título. Cascallar escribe todas sus medidas dobles (m = v)."
+  },
+  {
+   "titulo": "Natal torres y pedro veloz",
+   "texto": "Natal Torres aparece como lindero desde 1858 (025, 040); en 1866 Pedro Vázquez, heredero de Flores, firmaba por él (040). Pedro Veloz (el de 035 y 057) tiene 650 v en la fracción D. Benito Vásquez y Fortunata Porcel de Ponce (Loreto Ponce) son vecinos de Wheeler/Benites."
+  },
+  {
+   "titulo": "María murray de mooney",
+   "texto": "La «María M. de Mooney» lindera de Rosendo de Dios en 1870 (056) es María MURRAY de Mooney, viuda de Guillermo Mooney (025): otra pieza de la red irlandesa del arroyo de Suero."
+  },
+  {
+   "titulo": "Agrimensor nuevo y estilo",
+   "texto": "Joaquín Cascallar (la carátula moderna dice «Cascallares») firma en Buenos Aires en marzo de 1874. Plano con rótulos de imprenta dispuestos alrededor del marco, superficies en ha y v², flecha con dos meridianos. Sin datos en la web."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "Cuatro arroyos con nombre en el plano general (Suero, la Noria, sin nombre, Giles); en el de Cascallar, un puesto de Morgan con cerco y un «puesto de piedra» [?] sobre los arroyos."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Falta el texto. ¿Fecha y firmante del plano del Departamento? ¿Resultado del pleito Torres–Morgan? ¿Qué es la «2.ª mensura del año 23»? ¿«Puesto de piedra»?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Natal Torres · Macario Torres (†)",
+   "rol": "Propietarios",
+   "texto": "Herederos de la suerte ex Flores/Marfil (fracción B y parte de la D). Natal es lindero en 1858 (025) y 1866 (040).",
+   "fuentes": "Fichas 025, 040."
+  },
+  {
+   "nombre": "Joaquín Cascallar",
+   "rol": "Agrimensor",
+   "texto": "Primera aparición en el corpus (1874). Búsqueda web sin resultados.",
+   "fuentes": "Este plano."
+  },
+  {
+   "nombre": "Eduardo Morgan (†) y herederos",
+   "rol": "Linderos y denunciantes",
+   "texto": "Compradores del campo Guerrico (029), de los sobrantes de Duggan (040, 041) y de Coquet (038).",
+   "fuentes": "Fichas 020, 029, 038, 040, 041."
+  },
+  {
+   "nombre": "Eugenio, Manuel y María Gómez · her. de María J. Sosa · Pedro Veloz",
+   "rol": "Condóminos de la fracción d",
+   "texto": "Veloz: Fichas 035, 057.",
+   "fuentes": "Este plano."
+  },
+  {
+   "nombre": "Dámaso Flores (her.) · Benito Vásquez · Fortunata Porcel de Ponce · María Murray de Mooney · Isidro Cucullu · Susana Casco de Sosa",
+   "rol": "Linderos",
+   "texto": "Flores: título de 1823 (040). Cucullu y Susana C. de Sosa: 033, 040, 046. Murray de Mooney: viuda de Guillermo Mooney (025).",
+   "fuentes": "Fichas 025, 033, 040, 046, 056."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/067/02.jpg",
+  "fuente": "IMG_7351.JPG",
+  "lineas": [
+   "16 [foliación, arriba]",
+   "Giles",
+   "67.",
+   "Natal Torres y",
+   "Herederos de Macario Torres.",
+   "Agrimensor",
+   "Joaquin Cascallar",
+   "1874.",
+   "Seccion Areco",
+   "N.^{o} 267."
+  ]
+ },
+ "titulo": "Natal Torres y her. de Macario Torres",
+ "estado": "Transcripta (2 hojas, 38 renglones), 5 láminas"
+}

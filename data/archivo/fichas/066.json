@@ -1,0 +1,284 @@
+{
+ "carpeta": "66",
+ "carpeta_nombre": "Carpeta 66",
+ "archivo": "Ficha 066 - Fernando Monsalvo (1874).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (naciente del arroyo de Giles, ex Aguirre / Pascuala Romero)",
+  "N.º de duplicado": "66 · Sección Areco N.º 265",
+  "Propietario / solicitante": "Fernando Monsalvo",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1874",
+  "Fecha de la diligencia": "1874 (sin mes)",
+  "Ubicación": "Polígono A-F de Fernando Monsalvo (037) y bloque O hacia Echevarría y Carry",
+  "Orden judicial": "No fotografiada (falta todo el texto; el plano es el f. 16)",
+  "Vendedor / antecesor": "Pascuala Romero de Monsalvo (003); ex Guillermo Aguirre (011)",
+  "Linderos citados": "Pablo Bustos · Butterfield · Her. de Remigio Acuña · Gregorio Acuña · Kelly · Bianchi · Echevarría · Carry",
+  "Medidas": "Costado O 6162 m; fondo 4131 m; ≈ 2600 ha en 12 fracciones + sobrante fiscal de 183,07 ha",
+  "Rumbos": "N 8° 59′ E · S 80° 42′ E · N 77° 28′ E; «Norte verd.º Var.ⁿ 11° 2[?]′ N.E.»",
+  "Referencia de archivo": "Duplicado 66 (Sección Areco 265); sellos «Geodesia Catastro y Mapa»"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 2600 (suma de las cifras a lápiz legibles + Estado 183,07)",
+  "hitos": "Dos mojones de Muñiz; poblaciones de Crecencio y José Monsalvo; estancias de Remigio Acuña y Carry",
+  "aguas": "Arroyo de N a S (cabecera hacia el Luján); espejo de agua en el vértice f"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron carátula, portadilla y plano. En 1874 Carlos Schuster mide «los terrenos de D. Fernando Monsalvo»: el polígono que Fremiot midió en 1866 (037), ahora partido entre una docena de titulares —José, Crecencio y Francisca Monsalvo (1237 ha), Carmen Monsalvo (181 + 545 ha), Fermín Gómez, seis «Noriega y Monsalvo» y los herederos de Remigio Acuña— más un triángulo de «Estado» de 183,07 ha, el sobrante fiscal. Dos vértices conservan «mojón puesto por Muñiz» (1865, 048). Un bloque separado al O, de 1732 × 2877,5 m, se reparte entre Justa Gómez de Frías, Claudia Gómez de Acuña y Esteban Noriega y Monsalvo, junto a la estancia de Carry. Linderos: Bustos, Butterfield, Gregorio Acuña, Kelly, Bianchi, Echevarría.",
+ "caratula": {
+  "img": "img/f/066/01.jpg",
+  "fuente": "IMG_7344.JPG",
+  "campos": [
+   [
+    "N.º",
+    "66"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Fernando Monsalvo"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1874"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano · cuerpo principal",
+   "img": "img/f/066/05.jpg",
+   "fuente": "IMG_7346, IMG_7348 e IMG_7349",
+   "nota": "Sólo se fotografiaron carátula, portadilla y plano (cuatro tomas). Varias cifras están escritas al revés y las superficies van a lápiz por otra mano, en hectáreas, áreas y centiáreas separadas por comas. Las cotas chicas de las progresivas son de lectura dudosa.",
+   "lineas": [
+    "[al O:] Pablo Bustos   ·   Norte verd.^{o} Var.^{n} 11° 2[?]′ N.E.",
+    "[costado O, A-N′:] N. 8° 59′ E. = 6162 m^{s}  [y]  3963.50 m^{s}",
+    "José Maria Noriega y Monsalvo  [lados] 1281.7 [?] m · 823.22 m (S 82° 22′ E)",
+    "Mauricia Noriega y Monsalvo  [lados] 966.76 m · 823.22 m",
+    "Celedonia Noriega y Monsalvo  [lados] 1665.50 m · 1326.125 m · 99.66 [?] m (S 80° 42′ E)",
+    "C  911.57 m  E′  635.93 m  [mojón] «Mojon puesto por Muñiz»  F′",
+    "[línea F′-H:] S 58° 1′ E [?] = 4130 m^{s} (2614.50 m)   [lindero:] Carlos [Butterfield]",
+    "Estado   Sup.^{e} = 1.830.700 metros cuad.^{s} = 2.441.076 varas cuadradas   [lados] 2618 m · 1263.10 m · 778.5 m",
+    "[al NE:] Butterfill  ·  H … D  2598 m",
+    "Esteban Noriega y Monsalvo  X-S S 80° 42′ E 359 m · X-Z 336.909 m · Z-H′ S 80° 42′ O 759.83 m · 516.03 m  [lápiz:] 17,06,55",
+    "Valentina Noriega y Monsalvo  [lados] 972.5 m · 668.409 m  [lápiz:] 112,85,27",
+    "Fermin Gomez  O-Y S 80° 42′ E 1234.5 m · 1188.931 m  [lápiz:] 146,66,36",
+    "Cármen Monsalvo  M-N S 80° 42′ E 1234.5 m · 1472.66 m  [lápiz:] 181,79,90",
+    "Herederos de Remigio Acuña  P-K S 48° 1′ E 2598 m (1518 m) · K-D N 41° 59′ E 952.6 m · Estancia",
+    "D «Mojon puesto por Muñiz»  ·  N. 77° 28′ E. = 2200 m^{s}   ·   S 43° 0′ [?] = 1909.7 [?] m^{s}",
+    "Ines Noriega y Monsalvo   ·   [al E:] Felix Lez[ama] [?]  L-F 827 [?] m",
+    "Cármen Monsalvo   [lápiz:] 545,39,72   [arroyo con flechas]",
+    "[línea F-?:] S 57° 31′ O = 2940 m^{s}   Gregorio Acuña",
+    "José, Crecencio y Francisca Monsalvo   Pob.^{n} de Crecencio Monsalvo   [lápiz:] 1237^{h} 42^{a} 74^{c}",
+    "[fondo:] B  N 80° 42′ O = 4131 m^{s}  R  1234.5 m  T  298.4 m  C   ·   Pob.^{n} de José Monsalvo · Poblacion",
+    "[al S:] Herederos de Patricio Kelly   ·   José Bianchi",
+    "Escala de Metros   ·   Cárlos Schuster [rúbrica]"
+   ],
+   "interpretacion": "El campo de Fernando Monsalvo —el polígono A-F de la Ficha 037, heredado de Pascuala Romero (003) y antes de Guillermo Aguirre (011)— aparece en 1874 fragmentado en una docena de fracciones con superficies a lápiz: José, Crecencio y Francisca Monsalvo (1237,43 ha, la mayor, con la población de Crecencio), Carmen Monsalvo (181,80 + 545,40 ha, la segunda con el arroyo), Fermín Gómez (146,67), Valentina (112,85), Esteban (17,07), José María, Mauricia, Celedonia e Inés Noriega y Monsalvo (fajas sin cifra legible), los herederos de Remigio Acuña (con estancia) y, en el rincón N, un triángulo de «Estado» de 1.830.700 m² (183,07 ha = 2.441.076 v²): el sobrante fiscal. Dos vértices llevan «Mojón puesto por Muñiz» (1865, división Galeano, Ficha 048): el D, donde arranca la línea N 77° 28′ E de 2200 m (Muñiz: N 77° 40′ E 2188,38 m), y el E′. Al O, Pablo Bustos; al NE, Carlos Butterfield; al S, los herederos de Patricio Kelly y José Bianchi; al SE, Gregorio Acuña."
+  },
+  {
+   "titulo": "Rótulos y cifras del plano · bloque occidental",
+   "img": "img/f/066/04.jpg",
+   "fuente": "IMG_7346 e IMG_7347",
+   "nota": "Bloque separado, al O del arranque A, unido al cuerpo principal por el vértice A.",
+   "lineas": [
+    "[al N:] Bernardo Carry   ·   Herederos de Geronimo Carry [cruz]",
+    "Estancia de Carry [con monte]   ·   f [mojón dentro de una laguna o jagüel]",
+    "[lado f-g:] N. 46° 27′ E. = 1732 m^{s}",
+    "Justa Gomez de Frias   ·   Pob.^{n} de Frias   [lápiz testado]",
+    "[lado g-e:] S 44° 17′ E · 1259.242 m · 2877.5 m^{s} · 1259.242 m   ·   Avelina Bustos",
+    "[lápiz:] La suma de los … 2849.45 [?]",
+    "[divisoria e-d:] N. 46° 27′ E. = 1732 m^{s}",
+    "Claudia Gomez de Acuña   [lápiz:] 215^{h} 10^{a} 87 [?]",
+    "[lado c-b:] N 46° 27′ E 1732 m   Estevan Noriega y Monsalvo  [lápiz:] 62^{h} 51 [?]",
+    "c  330.966 m  A Arranque   ·   [a-A:] S 27° 0′ [?] … m",
+    "[lado f-d-b:] N 44° 17′ O = 2877.5 m^{s} (1259.242 m)",
+    "[al SO:] José Maria Echeverria   ·   [lápiz:] La suma … 2849.45 [?]",
+    "[al S:] Herederos de [Patricio Kelly]"
+   ],
+   "interpretacion": "Rectángulo de 1732 m (2000 v) por 2877,5 m, con rumbos N 46° 27′ E y N/S 44° 17′, dividido en tres fajas perpendiculares: Justa Gómez de Frías (con la población de Frías y, en el vértice f, la estancia de Carry y un pequeño espejo de agua), Claudia Gómez de Acuña (215,11 ha) y Esteban Noriega y Monsalvo (62,51 ha [?]). Linda con los Carry (N y O), Avelina Bustos (NE), José María Echevarría (SO) y los herederos de Kelly (S). Es otra orientación —la de las suertes de 2000 v del SO del partido— pegada por un vértice al campo de Monsalvo: probablemente una compra separada que la familia hizo medir junto con la herencia."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano general de los terrenos de Fernando Monsalvo (Schuster, 1874)",
+   "img": "img/f/066/03.jpg",
+   "fuente": "IMG_7346.JPG",
+   "orientacion": "Plano apaisado con marco; meridiano verdadero vertical sobre el costado O; escala de metros; firma «Cárlos Schuster».",
+   "interpretacion": "Dos cuerpos unidos por el arranque A: el polígono de Monsalvo, con ≈ 12 fracciones y el sobrante del Estado, y el bloque occidental de tres fajas. Arroyo con flechas que baja de N a S por la fracción de Carmen Monsalvo y otro junto al arranque.",
+   "referencias": [
+    [
+     "A (Arranque)",
+     "Vértice común de los dos cuerpos, junto a un arroyo"
+    ],
+    [
+     "Costado O",
+     "N 8° 59′ E 6162 m · Pablo Bustos"
+    ],
+    [
+     "Línea N",
+     "S 58° 1′ E 4130 m · Carlos Butterfield; «Mojón puesto por Muñiz» en E′ y en D"
+    ],
+    [
+     "D – …",
+     "N 77° 28′ E 2200 m (Muñiz 1865: N 77° 40′ E 2188,38 m)"
+    ],
+    [
+     "Fondo S",
+     "N 80° 42′ O 4131 m + 1234,5 + 298,4 m · her. de Patricio Kelly, José Bianchi"
+    ],
+    [
+     "Línea SE",
+     "S 57° 31′ O 2940 m · Gregorio Acuña"
+    ],
+    [
+     "Estado",
+     "1.830.700 m² = 2.441.076 v² (183,07 ha)"
+    ],
+    [
+     "Fajas S 80° 42′ E",
+     "Valentina N. y M. · Fermín Gómez · Carmen Monsalvo: 1234,5 m de ancho"
+    ],
+    [
+     "Bloque O",
+     "Justa Gómez de Frías · Claudia Gómez de Acuña · Esteban Noriega y Monsalvo; 1732 × 2877,5 m"
+    ],
+    [
+     "Poblaciones",
+     "Pob.ⁿ de Crecencio y de José Monsalvo; Estancia (Remigio Acuña); Estancia de Carry; Pob.ⁿ de Frías"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle · bloque occidental",
+   "img": "img/f/066/04.jpg",
+   "fuente": "IMG_7347.JPG",
+   "orientacion": "Toma ampliada del sector O.",
+   "interpretacion": "Fajas de Justa Gómez de Frías, Claudia Gómez de Acuña y Esteban Noriega y Monsalvo; estancia de Carry.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle · sector N y centro",
+   "img": "img/f/066/05.jpg",
+   "fuente": "IMG_7348.JPG",
+   "orientacion": "Toma ampliada.",
+   "interpretacion": "Las fajas Noriega y Monsalvo, el triángulo del Estado, los dos mojones de Muñiz y la fracción de los herederos de Remigio Acuña.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle · sector S",
+   "img": "img/f/066/06.jpg",
+   "fuente": "IMG_7349.JPG",
+   "orientacion": "Toma ampliada.",
+   "interpretacion": "Fondo sobre Kelly y Bianchi, Carmen Monsalvo, Gregorio Acuña y cuentas a lápiz al margen.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "El polígono de 037 partido",
+   "texto": "En 1866 Fremiot midió el campo de Fernando Monsalvo como un polígono A-F de 2843,52 ha con su «Estancia principal», mojones de palo de Eguía (1838) y un sobrante de 124,28 ha (Ficha 037). En 1874 Schuster lo encuentra repartido entre al menos doce titulares: tres hermanos Monsalvo (José, Crecencio, Francisca), Carmen Monsalvo, cinco «Noriega y Monsalvo» (José María, Mauricia, Celedonia, Esteban, Valentina, Inés), Fermín Gómez y los herederos de Remigio Acuña. Es la partición de una herencia (la de Fernando, o la de Pascuala Romero) con compras entre parientes."
+  },
+  {
+   "titulo": "El sobrante del estado",
+   "texto": "El triángulo «Estado» de 183,07 ha en el rincón N (contra Butterfield) es mayor que el sobrante de 124,28 ha de 1866: o se midió distinto, o se le sumó otra cuña. Fernando tenía derecho preferente a comprarlo (037) y en 1874 sigue siendo fiscal."
+  },
+  {
+   "titulo": "Mojones de muñiz",
+   "texto": "Dos vértices llevan la leyenda «Mojón puesto por Muñiz»: la división Galeano de mayo de 1865 (048) dejó mojones sobre la línea común Galeano–Monsalvo que Schuster reconoce nueve años después. La línea D-… N 77° 28′ E 2200 m es la N 77° 40′ E 2188,38 m de Muñiz: 12′ y 12 m de diferencia. Cadena: Eguía 1838 (003) → Muñiz 1865 (048) → Fremiot 1866 (037) → Schuster 1874 (066)."
+  },
+  {
+   "titulo": "Técnica y variación",
+   "texto": "Metros con decímetros (o milímetros: 1259,242; 336,909); fajas de 1234,5 m (≈ 1425 v) y bloque O de 1732 m (2000 v). La variación se lee «11° 2′» [?]: si es correcta, 33′ por debajo de los 11° 35′ que el mismo Schuster usó en 1873 (064, 065); quizá «11° 25′» mal leído. Superficies a lápiz por otra mano."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "Poblaciones de Crecencio y de José Monsalvo, estancia de los herederos de Remigio Acuña, estancia de Carry con monte junto a un pequeño espejo de agua, población de Frías. Un arroyo con flechas cruza las fracciones de Remigio Acuña y Carmen Monsalvo de N a S: la cabecera de la cuenca del Luján, del otro lado de la loma donde nace el de Giles (037)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Falta todo el texto. ¿Murió Fernando Monsalvo antes de 1874? ¿Quiénes son los «Noriega y Monsalvo» (¿hijos de una Monsalvo casada con un Noriega?) y los Gómez (Fermín, Justa de Frías, Claudia de Acuña)? ¿«Félix Lezama» al E? ¿Cifra de la variación?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Fernando Monsalvo",
+   "rol": "Propietario",
+   "texto": "Hijo de Pascuala Romero de Monsalvo (003); dueño en 1866 de la «Estancia principal» y del polígono A-F (037). Sin datos en la web.",
+   "fuentes": "Fichas 003, 037."
+  },
+  {
+   "nombre": "José, Crecencio, Francisca y Carmen Monsalvo · José María, Mauricia, Celedonia, Esteban, Valentina e Inés Noriega y Monsalvo · Fermín Gómez",
+   "rol": "Adjudicatarios",
+   "texto": "Familia de Fernando; los Noriega y Monsalvo, probablemente nietos por una hija casada con un Noriega (cf. el bloque Noriega, 028, 039).",
+   "fuentes": "Este plano."
+  },
+  {
+   "nombre": "Justa Gómez de Frías · Claudia Gómez de Acuña",
+   "rol": "Adjudicatarias (bloque o)",
+   "texto": "Dos hermanas Gómez casadas con un Frías y un Acuña: unen los tres apellidos del bloque (064, 065).",
+   "fuentes": "Este plano."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Séptima diligencia en el corpus y tercera del bloque Monsalvo–Acuña–Frías (064, 065, 066).",
+   "fuentes": "Fichas 052-065."
+  },
+  {
+   "nombre": "José María Muñiz",
+   "rol": "Agrimensor (1865)",
+   "texto": "Sus mojones de la división Galeano (048) siguen en pie en 1874.",
+   "fuentes": "Fichas 034, 048."
+  },
+  {
+   "nombre": "Pablo y Avelina Bustos · Carlos Butterfield · her. de Remigio Acuña · Gregorio Acuña · her. de Patricio Kelly · José Bianchi · J. M. Echevarría · Bernardo y her. de Jerónimo Carry",
+   "rol": "Linderos",
+   "texto": "Bustos: familia de Ramón Bustos (037). Butterfield: 034, 037, 048. Remigio Acuña: reserva de Aguirre (037). Kelly: compró las hijuelas Martínez (037, 054). Bianchi y Carry (¿Carey?): nuevos en el corpus; Bianchi, otro italiano.",
+   "fuentes": "Fichas 037, 048, 054."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/066/02.jpg",
+  "fuente": "IMG_7345.JPG",
+  "lineas": [
+   "San A. de Giles",
+   "~~2[?]4~~ 66",
+   "[recuadro:] Seccion Areco",
+   "N.^{o} 265.",
+   "Mensura de los terrenos de D.^{n} Fernando",
+   "Monsalvo situados en el Partido de",
+   "San A. de Giles por el Agrimensor D.^{n}",
+   "Cárlos Schuster en 1874.",
+   "[sello:] Geodesia Catastro y Mapa · ARCHIVO · Prov. Buenos Aires",
+   "[sello:] Geodesia Catastro y Mapa · F.^{a} 16 · Prov. de Buenos Aires"
+  ]
+ },
+ "titulo": "Fernando Monsalvo",
+ "estado": "Transcripta (2 hojas, 35 renglones), 4 láminas"
+}

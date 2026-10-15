@@ -1,0 +1,221 @@
+{
+ "carpeta": "65",
+ "carpeta_nombre": "Carpeta 65",
+ "archivo": "Ficha 065 - Carmen Monsalvo de Acuña (1873).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (naciente del arroyo de Giles / arroyo de Frías)",
+  "N.º de duplicado": "65 · Sección Areco N.º 259",
+  "Propietario / solicitante": "Carmen Monsalvo de Acuña",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1873",
+  "Fecha de la diligencia": "Octubre de 1873",
+  "Ubicación": "Campo de Acuña (Ficha 037) dividido en cuatro hijuelas, entre Agüero y Frías",
+  "Orden judicial": "No fotografiada (falta todo el texto)",
+  "Vendedor / antecesor": "Ceferino Acuña y Carmen Monsalvo (037); ex Pascuala Romero (003)",
+  "Linderos citados": "José Agüero (O) · Her. de Pastor Frías (E y S) · Pedro R. Basarte · Gregorio Acuña (N)",
+  "Medidas": "Trapecio de 2546-2647 × 6412 m; 4 hijuelas de 416 ha 70 a 68 ca (≈ 1667 ha)",
+  "Rumbos": "N 31° 49′ O · [S] 30° 55′ [E] · N 58° 21′ E; «Norte verd.º Var.ⁿ 11° 35′»",
+  "Referencia de archivo": "Duplicado 65 (Sección Areco 259); portadilla «Copiado»"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 1666,8 (4 × 416,7068, lápiz)",
+  "hitos": "Tres estancias (Valentina A. de Acuña, Ángel, Guillermo); mojón de arranque",
+  "aguas": "Arroyo (¿de Frías?) con flechas de corriente; otro curso junto a A"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron carátula, portadilla y plano. En octubre de 1873 Carlos Schuster divide el campo de Carmen Monsalvo de Acuña —el mismo que Fremiot midió en 1866 (Ficha 037)— en cuatro hijuelas de igual superficie, 416 ha 70 a 68 ca cada una (≈ 1667 ha): Gregorio Acuña (N), herederos de D. Lucas Acuña y Ángel Acuña (centro) y Guillermo Acuña (S), con las estancias de D.ª Valentina A. de Acuña, de Ángel y de Guillermo. El campo es un trapecio de 2546-2647 × 6412 m (costados N 31° 49′ O y 30° 55′), entre José Agüero al O y los herederos de Pastor Frías al E y S, con Pedro R. Basarte (064) más allá. Un arroyo, quizá el de Frías, lo cruza de N a S. Variación 11° 35′.",
+ "caratula": {
+  "img": "img/f/065/01.jpg",
+  "fuente": "IMG_7341.JPG",
+  "campos": [
+   [
+    "N.º",
+    "65"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Doña Carmen Monsalve de Acuña"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "Octubre"
+   ],
+   [
+    "Año",
+    "1873."
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Schuster",
+   "img": "img/f/065/03.jpg",
+   "fuente": "IMG_7343.JPG",
+   "nota": "Sólo se fotografiaron carátula, portadilla y plano. Las cifras del frente A-B y del costado E están escritas al revés. Las superficies, a lápiz por otra mano. Las progresivas chicas de los costados son de lectura dudosa.",
+   "lineas": [
+    "[al N, fuera del campo:] O   Gregorio Acuña",
+    "[línea C-D:] C  670  N. 58° 21′ E. = 2646.76 m^{s}  D",
+    "Gregorio Acuña   [a lápiz:] 416^{h} 70 68",
+    "[línea E-G-F:] E  1298.44  G  1323.48  F    N. 58° 21′ E. = 2621.92 m^{s}",
+    "[al O, en vertical:] José [cruz] Agüero   N. 31° 49′ O. = 6412 m^{s}",
+    "Est.^{a} de D.^{a} Valentina A. de Acuña [con cerco de puntos]",
+    "Hered.^{s} de D. Lucas Acuña   [a lápiz:] 416^{h} 20 67 [?]",
+    "[divisoria G-K:] N. 31° 49′ O. = 3205.60 m^{s}",
+    "Angel Acuña   Estancia   [a lápiz:] 416^{h} 70 68",
+    "[costado E:] [S.] 30° 55′ [E.] = 6412.50 m^{s}   Herederos de Pastor Frias   ·   Pedro R. Basarte",
+    "[línea H-K-J:] H  1298.44  K  1273.06 m^{s}  J    N. 58° 21′ E. = 2571.50 m^{s}",
+    "Guillermo Acuña   Estancia de D. Guillermo   [a lápiz:] 416^{h} 70 68",
+    "[frente A-B:] B  S. 58° 21′ O. = 2546 metros  [mojón a 1300]  A Arranque",
+    "[al S:] Herederos de Pastor Frias",
+    "[diagonal:] Norte verd.^{o} Var.^{n} 11° 35′",
+    "Escala de Metros  [0 · 1000 · 2000 · 3000 · 4000]",
+    "Octubre de 1873   Cárlos Schuster [rúbrica]"
+   ],
+   "interpretacion": "El campo de Carmen Monsalvo de Acuña (el «rectángulo de Acuña» de la Ficha 037) dividido en cuatro hijuelas de igual superficie —416 ha 70 a 68 ca cada una, ≈ 1667 ha en total—: Gregorio Acuña al N (C-D-F-E), los herederos de D. Lucas Acuña (E-G-K-H) y Ángel Acuña (G-F-J-K) en el medio, separados por la divisoria G-K de 3205,6 m, y Guillermo Acuña al S (H-J-A-B), con la estancia de D. Guillermo. Es un trapecio: el costado O corre N 31° 49′ O y el E 30° 55′, de modo que el ancho crece de 2546 m (frente S) a 2646,76 m (línea C-D). Linderos: José Agüero (O), herederos de Pastor Frías (E y S) y, detrás de ellos, Pedro R. Basarte (Ficha 064); al N, otro campo de Gregorio Acuña. Un arroyo con flechas de corriente baja de C hacia B atravesando las hijuelas de Gregorio, de Lucas y de Guillermo; otro curso menor nace junto al arranque A."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la división del campo de Carmen Monsalvo de Acuña (Schuster, octubre de 1873)",
+   "img": "img/f/065/03.jpg",
+   "fuente": "IMG_7343.JPG",
+   "orientacion": "Plano vertical con marco doble; meridiano verdadero en diagonal; escala de metros; firma «Octubre de 1873 · Cárlos Schuster».",
+   "interpretacion": "Cuatro hijuelas iguales por superficie (no por frente); tres estancias dibujadas (Valentina A. de Acuña, Ángel, Guillermo); el arroyo cruza en S de N a S.",
+   "referencias": [
+    [
+     "A (Arranque) – B",
+     "S 58° 21′ O 2546 m · her. de Pastor Frías"
+    ],
+    [
+     "B – H – E – C",
+     "N 31° 49′ O 6412 m · José Agüero"
+    ],
+    [
+     "C – D",
+     "N 58° 21′ E 2646,76 m · Gregorio Acuña"
+    ],
+    [
+     "D – F – J – A",
+     "[S] 30° 55′ [E] 6412,50 m · her. de Pastor Frías; detrás Pedro R. Basarte"
+    ],
+    [
+     "E – G – F",
+     "N 58° 21′ E 2621,92 m (1298,44 + 1323,48)"
+    ],
+    [
+     "H – K – J",
+     "N 58° 21′ E 2571,50 m (1298,44 + 1273,06)"
+    ],
+    [
+     "G – K",
+     "N 31° 49′ O 3205,60 m"
+    ],
+    [
+     "Hijuelas",
+     "Gregorio · her. de Lucas · Ángel · Guillermo Acuña: 416 ha 70 a 68 ca cada una"
+    ],
+    [
+     "Poblaciones",
+     "Est.ª de D.ª Valentina A. de Acuña; Estancia (Ángel); Estancia de D. Guillermo"
+    ],
+    [
+     "Meridiano",
+     "Norte verd.º Var.ⁿ 11° 35′"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "El campo de 037, siete años después",
+   "texto": "En 1866 Fremiot midió para Carmen Monsalvo de Acuña su campo y los dos sobrantes (124 y 347 ha) entre él y el de su hermano Fernando (Ficha 037). En 1873 Schuster lo divide entre los hijos (o nietos) de Carmen y del finado Ceferino Acuña: Gregorio, Lucas (ya muerto: «herederos de D. Lucas»), Ángel y Guillermo. Los «Acuña» del abalizamiento de Dillon de 1869 (054: mirador de Acuña, estancia de la viuda de Acuña, chimenea de Gregorio, población de Guillermo) son esta familia: la estancia de la viuda sería la «Est.ª de D.ª Valentina A. de Acuña» o la de Carmen."
+  },
+  {
+   "titulo": "Partición por superficie",
+   "texto": "Las cuatro hijuelas tienen exactamente la misma superficie (416 ha 70 a 68 ca) y por eso anchos distintos (1298,44 / 1323,48 / 1273,06 m) y una divisoria interior (G-K): como en Galeano (048) o Colmenero (054), la cuota se fija en superficie y la forma se calcula. 1667 ha ≈ 2.222.000 v², casi media legua cuadrada y un tercio."
+  },
+  {
+   "titulo": "Rumbos y variación",
+   "texto": "Costados N 31° 49′ O y 30° 55′: 54′ de divergencia, que Schuster respeta en vez de enderezar (sigue los mojones existentes). El costado E (30° 55′) es el mismo rumbo que el de Basarte (064, febrero) → el campo de los herederos de Frías está entre dos líneas paralelas medidas por el mismo agrimensor. Variación 11° 35′, idéntica a la de 064."
+  },
+  {
+   "titulo": "Paisaje y aguas",
+   "texto": "Un arroyo con flechas de corriente atraviesa el campo de N a S y sale por el esquinero B hacia los Frías: por su posición (naciente del arroyo de Giles al N, campo de Frías al S) puede ser el «arroyo de Frías» de 037, que corre hacia el río Luján. Tres estancias (la de D.ª Valentina con cerco de quinta) y ningún puesto."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Falta el texto: ¿partición judicial o extrajudicial? ¿Carmen vivía aún (la carátula dice «para Doña Carmen»)? ¿Quién es D.ª Valentina A. de Acuña (¿viuda de Lucas?)? ¿Cómo se integraron los sobrantes de 1866 (347 ha) en las 1667 ha?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Carmen Monsalvo de Acuña",
+   "rol": "Propietaria",
+   "texto": "Hija de Pascuala Romero de Monsalvo (003), viuda de Ceferino Acuña; denunció en 1866 los sobrantes entre su campo y el de su hermano Fernando (037).",
+   "fuentes": "Fichas 003, 037."
+  },
+  {
+   "nombre": "Gregorio, Lucas (†), Ángel y Guillermo Acuña · Valentina A. de Acuña",
+   "rol": "Adjudicatarios",
+   "texto": "Gregorio con chimenea y Guillermo con población figuran como visuales en 1869 (054). Gregorio es también lindero S del campo de Fernando Monsalvo en 1874 (066).",
+   "fuentes": "Fichas 054, 066."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Sexta diligencia en el corpus; segunda de 1873 en este bloque (064).",
+   "fuentes": "Fichas 052-064."
+  },
+  {
+   "nombre": "José Agüero · Herederos de Pastor Frías · Pedro R. Basarte",
+   "rol": "Linderos",
+   "texto": "Agüero, sin títulos en 1866, «saneado» por Fremiot (037). Pastor Frías: mojón de fierro en 054 y «arroyo de Frías» en 037. Basarte: Ficha 064.",
+   "fuentes": "Fichas 037, 054, 064."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/065/02.jpg",
+  "fuente": "IMG_7342.JPG",
+  "lineas": [
+   "Copiado [a lápiz]",
+   "Seccion Areco",
+   "Giles",
+   "65",
+   "N.^{o} 259",
+   "Duplicado de las diligencias de men-",
+   "sura y plano del terreno de la",
+   "propiedad de Doña Cármen Mon-",
+   "salvo de Acuña",
+   "Situado en el Partido de San An-",
+   "dres de Giles",
+   "Medido por el Agrimensor Cárlos",
+   "Schuster en",
+   "Octubre de 1873"
+  ]
+ },
+ "titulo": "Carmen Monsalvo de Acuña",
+ "estado": "Transcripta (1 hojas, 17 renglones), 1 lámina"
+}

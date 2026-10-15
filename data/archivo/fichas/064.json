@@ -1,0 +1,228 @@
+{
+ "carpeta": "64",
+ "carpeta_nombre": "Carpeta 64",
+ "archivo": "Ficha 064 - Pedro Rómulo Basarte (1873).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (cabezadas del río Luján, naciente del arroyo de Giles)",
+  "N.º de duplicado": "64 · Sección Areco N.º 252",
+  "Propietario / solicitante": "Pedro Rómulo Basarte",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1873",
+  "Fecha de la diligencia": "Febrero de 1873 (plano)",
+  "Ubicación": "Entre los her. de Frías y las Noriega; al SO, Gregoria Achával de Benguria",
+  "Orden judicial": "No fotografiada (sólo el margen del último folio de texto)",
+  "Vendedor / antecesor": "No consta (¿parte del campo Noriega o del de Frías?)",
+  "Linderos citados": "Her. de Frías · C. Monsalvo de Acuña · Noriega de Sarmiento, de Galeano · Rojas de Noriega · Villalva",
+  "Medidas": "Rectángulo 1032,8 × 6841,4 m (≈ 1193 × 7900 v); ≈ 706,6 ha (calculada)",
+  "Rumbos": "N 30° 55′ O · N 55° 55′ E · S 55° 55′ O; «Norte verd.º 11° 35′ N.E.»",
+  "Referencia de archivo": "Duplicado 64 (Sección Areco 252); portadilla «Copiado»"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 706,6 (calculada: 1032,8 × 6841,4 m)",
+  "hitos": "Mojón de arranque; mojones intermedios; ninguna población",
+  "aguas": "Un arroyo sin nombre en diagonal"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron carátula, portadilla y plano (más el borde del último folio de texto). En febrero de 1873 Carlos Schuster mide el campo de Pedro Rómulo Basarte: un rectángulo de 1032,8 × 6841,4 m (≈ 1193 × 7900 v; ≈ 706,6 ha) con rumbos N 30° 55′ O y N 55° 55′ E, arranque a 866,7 m (1000 v) sobre la línea de los herederos de Frías. Linda al O con los Frías y Carmen Monsalvo de Acuña, al E con cuatro mujeres Noriega/Villalva, al S con Gregoria Achával de Benguria y al fondo con tierra del «Estado», donde una nota a lápiz señala un sobrante para una D.ª Hortensia. Variación 11° 35′ NE. Es vecino del campo de Acuña que Schuster mide en octubre (065).",
+ "caratula": {
+  "img": "img/f/064/01.jpg",
+  "fuente": "IMG_7337.JPG",
+  "campos": [
+   [
+    "N.º",
+    "64"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Pedro Romulo Basarte"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1873"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Schuster",
+   "img": "img/f/064/03.jpg",
+   "fuente": "IMG_7339 e IMG_7340",
+   "nota": "Sólo se fotografiaron carátula, portadilla y plano. Las cifras de las líneas de vuelta están escritas al revés (se leen girando 180°). A la izquierda de IMG_7339 asoma el margen derecho del último folio de texto: sólo finales de renglón («…brante», «…de la», «…Por Este», «…al de», «…varas,», «…[Norie]ga», «…[Zurri]ga,»).",
+   "lineas": [
+    "[al N:] Estado",
+    "[faja a lápiz sobre el fondo:] [S]obrante p.^{a} D.^{a} Hortensia A[…] [?]",
+    "[fondo E-D:] S. 55° 55′ O. = 1032.8 [?] m^{s}   [y hasta la línea de Frías:] 866.7 m^{s}",
+    "[al O, en vertical:] Cármen Monsalvo de Acuña   N. 30° 55′ O.",
+    "Herederos de Frias",
+    "[costado B-E:] S. 30° 55′ E. = 6841.4 m^{s}",
+    "[al E:] Cinta [?] Noriega de Sarmiento",
+    "Maria Noriega de Galeano",
+    "[costado C-D:] N. 30° 55′ O. = 6841.4 m^{s}",
+    "Avelina Rojas de Noriega",
+    "Maria Villalva de Zurriga [?]",
+    "[diagonal:] Norte verd.^{o} 11° 35′ N.E.",
+    "[frente:] A Arranque   866.7 m^{s}   B   1032.8 m^{s}   C      N. 55° 55′ E.",
+    "[al S:] Gregoria Achaval de Benguria   ·   [al SO:] Herederos de Frias",
+    "Escala de Metros  [1000 · 500 · 0 · 1000 · 2000 · 3000]",
+    "Febrero de 1873   Cárlos Schuster [rúbrica]"
+   ],
+   "interpretacion": "Rectángulo largo y angosto B-C-D-E de 1032,8 m de frente (N 55° 55′ E) por 6841,4 m de largo (N 30° 55′ O): ≈ 706,6 ha. 6841,4 m son exactamente 7900 varas, el fondo «de legua y cuarto» de las suertes del S del partido (Lescano, 045; Noriega). El arranque A está 866,7 m (≈ 1000 v) al O de B, sobre la línea de los herederos de Frías: entre A y B corre una faja de Frías y, detrás, el campo de Carmen Monsalvo de Acuña. Al E, cuatro mujeres de la familia Noriega (Cinta N. de Sarmiento, María N. de Galeano, Avelina Rojas de Noriega) y María Villalva de Zurriga [?]; al S, Gregoria Achával de Benguria. Al fondo NO, «Estado»: tierra fiscal, con una faja a lápiz rotulada como sobrante para una D.ª Hortensia. Un curso de agua sin nombre cruza el campo en diagonal (cortando los costados B-E y C-D)."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Pedro Rómulo Basarte (Schuster, febrero de 1873)",
+   "img": "img/f/064/03.jpg",
+   "fuente": "IMG_7339.JPG",
+   "orientacion": "Plano vertical con marco; meridiano verdadero en diagonal; escala gráfica de metros; contorno del terreno en carmín.",
+   "interpretacion": "Un solo rectángulo, sin poblaciones dibujadas, cruzado por un arroyo; mojones intermedios marcados con puntos a lo largo de los costados.",
+   "referencias": [
+    [
+     "A (Arranque) – B",
+     "N 55° 55′ E 866,7 m · faja de los her. de Frías; al S Gregoria Achával de Benguria"
+    ],
+    [
+     "B – C",
+     "N 55° 55′ E 1032,8 m · Gregoria Achával de Benguria"
+    ],
+    [
+     "C – D",
+     "N 30° 55′ O 6841,4 m · Noriega de Sarmiento, Noriega de Galeano, Rojas de Noriega, Villalva de Zurriga [?]"
+    ],
+    [
+     "D – E",
+     "S 55° 55′ O 1032,8 [?] m · «Estado»"
+    ],
+    [
+     "E – B",
+     "S 30° 55′ E 6841,4 m · herederos de Frías"
+    ],
+    [
+     "Al O",
+     "Cármen Monsalvo de Acuña (N 30° 55′ O)"
+    ],
+    [
+     "Meridiano",
+     "Norte verd.º 11° 35′ N.E."
+    ],
+    [
+     "Lápiz",
+     "[S]obrante p.ª D.ª Hortensia A[…] [?] (faja sobre el fondo)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Otra toma del plano",
+   "img": "img/f/064/04.jpg",
+   "fuente": "IMG_7340.JPG",
+   "orientacion": "Toma apaisada, con otra luz.",
+   "interpretacion": "Permite leer el rótulo del meridiano (11° 35′) y las cifras del fondo.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Un rectángulo de 7900 varas",
+   "texto": "El largo de 6841,4 m equivale a 7900 v: la misma «legua y cuarto» de fondo de los campos de Lescano (045), Noriega (028, 039) y de la línea de Monsalvo-Acuña (037: 6841,4 m = 7900 v en el texto de Fremiot). El campo de Basarte es, pues, una faja más del sistema de suertes de 7900 v de las cabezadas del río Luján, al S del pueblo."
+  },
+  {
+   "titulo": "Ubicación: el bloque frías–noriega–acuña",
+   "texto": "El plano de la Ficha 065 (Carmen Monsalvo de Acuña, octubre de 1873, el mismo agrimensor) dibuja al E del campo de Acuña a los «Herederos de Pastor Frías» y, más allá, a «Pedro R. Basarte»: las dos mensuras de Schuster de 1873 son contiguas, con los herederos de Frías en medio. Las vecinas Noriega (Cinta, María, Avelina Rojas) remiten al bloque Noriega (028, 039) y los Achával al lindero S de Lescano y de Díaz (045, 059)."
+  },
+  {
+   "titulo": "«estado» y una hortensia",
+   "texto": "El fondo NO linda con «Estado»: tierra pública en 1873 en la cabecera de estas fajas. Una mano posterior anotó a lápiz sobre esa franja un «sobrante» para una D.ª Hortensia (apellido dudoso): el ciclo de las sobras sigue en los años 1870."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Metros con decímetros; los rumbos no son perpendiculares (85°), como en los campos antiguos de títulos en varas. Variación 11° 35′ NE, casi la de Schuster en 1869 (11° 42′) y 12′ más alta que la de 1871 (11° 23′)."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "Ninguna población dibujada; un arroyo sin nombre (¿el de Frías, cuyo nombre recoge la Ficha 037?) atraviesa el campo en diagonal."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Falta todo el texto (sólo asoma el margen del último folio). ¿De quién compró Basarte? ¿Quién es «D.ª Hortensia»? ¿«Zurriga» o «Zúñiga»? ¿«Cinta» por Jacinta?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Pedro Rómulo Basarte",
+   "rol": "Propietario",
+   "texto": "Apellido de origen vasco. Sin datos en la web (búsqueda de octubre de 2026). En octubre de 1873 figura como lindero E del bloque Frías–Acuña (Ficha 065).",
+   "fuentes": "Este plano; Ficha 065."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Quinta diligencia en el corpus (052, 053, 060, 063, 064) y la primera de una serie de 1873-74 en el SE del partido (064, 065, 066). Sin datos biográficos en la web.",
+   "fuentes": "Fichas 052-063."
+  },
+  {
+   "nombre": "Herederos de (Pastor) Frías · Cármen Monsalvo de Acuña",
+   "rol": "Linderos o",
+   "texto": "Los Frías aparecen en 037 (arroyo de Frías, mensura de Frías por Eguía) y 054 (herederos de D. Pastor Frías). Carmen Monsalvo de Acuña: Fichas 037 y 065.",
+   "fuentes": "Fichas 037, 054, 065."
+  },
+  {
+   "nombre": "Cinta [?] Noriega de Sarmiento · María Noriega de Galeano · Avelina Rojas de Noriega · María Villalva de Zurriga [?]",
+   "rol": "Linderas e",
+   "texto": "Familia Noriega (Fichas 028, 039); María Noriega casada con un Galeano (¿de la familia de la Ficha 048?).",
+   "fuentes": "Este plano."
+  },
+  {
+   "nombre": "Gregoria Achával de Benguria",
+   "rol": "Lindera s",
+   "texto": "Familia Achával/Yramain, linderos de Noriega, Lescano y Díaz (037, 045, 059); casada con un Benguria (apellido vasco).",
+   "fuentes": "Fichas 037, 045, 059."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/064/02.jpg",
+  "fuente": "IMG_7338.JPG",
+  "lineas": [
+   "Copiado [a lápiz, al margen]",
+   "Giles 64",
+   "Seccion Areco",
+   "N.^{o} 252.",
+   "Duplicado de las diligencias",
+   "de mensura y plano del terreno",
+   "de Don Pedro Rómulo Basarte",
+   "Situado en el Partido de San Andres",
+   "de Giles",
+   "Medido por el Agrimensor",
+   "Cárlos Schuster",
+   "1873"
+  ]
+ },
+ "titulo": "Pedro Rómulo Basarte",
+ "estado": "Transcripta (1 hojas, 16 renglones), 2 láminas"
+}
