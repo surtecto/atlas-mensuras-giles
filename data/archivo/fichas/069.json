@@ -1,0 +1,246 @@
+{
+ "carpeta": "69",
+ "carpeta_nombre": "Carpeta 69",
+ "archivo": "Ficha 069 - Santiago Scully (1875).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (desembocadura del arroyo de Giles / límite con Areco)",
+  "N.º de duplicado": "69 · Sección Areco: no fotografiada",
+  "Propietario / solicitante": "Santiago Scully",
+  "Agrimensor": "Pedro Pico",
+  "Año": "1875",
+  "Fecha de la diligencia": "20 de diciembre de 1875 (plano)",
+  "Ubicación": "Entre los Alen de Sosa, Lennon, O'Brien, Torny y Monsalvo",
+  "Orden judicial": "No fotografiada; se ve el final del informe del Depto. de Ingenieros",
+  "Vendedor / antecesor": "Polígono medido antes por Chapeaurouge (según el informe)",
+  "Linderos citados": "Dionisia Alen de Sosa · G. Sosa de Sacarra [?] · E. Lennon · O'Brien · Torny · Monsalvo",
+  "Medidas": "25.806.140 m² = 0,95584 leguas² (≈ 2580,6 ha)",
+  "Rumbos": "S 50° 20′ E 3665 · S 55° 20′ E 3756 · S 47° 15′ E · N 47° 45′ O; var. 10° 24′ E",
+  "Referencia de archivo": "Duplicado 69; plano en papel milimetrado"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 2580,6 (25.806.140 m²)",
+  "hitos": "Estancia; ≈ 12 puestos; mojones con progresiva",
+  "aguas": "Curso de agua sin nombre (¿arroyo de Giles?)"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron la carátula, el final del informe del Departamento de Ingenieros (mitad derecha de los renglones) y el plano. El 20 de diciembre de 1875 Pedro Pico, que había medido en esta zona en 1860-63, presenta el plano del campo del irlandés Santiago Scully: un polígono de 25.806.140 m² (0,95584 leguas cuadradas, ≈ 2580 ha) entre Dionisia Alen de Sosa, Gerónima Sosa de Sacarra [?], Eduardo Lennon, los herederos de Juan O'Brien, de Gerónimo Torny y de Antonio Monsalvo, con una estancia y una docena de puestos. Es el primer plano del corpus sobre papel milimetrado. El Departamento considera la mensura en estado de aprobación judicial y deja fuera la cuña «GghkiG» protestada por los herederos de O'Brien; menciona un polígono medido antes por Chapeaurouge. Variación 10° 24′ E.",
+ "caratula": {
+  "img": "img/f/069/01.jpg",
+  "fuente": "IMG_7364.JPG",
+  "campos": [
+   [
+    "N.º",
+    "69"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Santiago Scully"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Pedro Pico"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1875"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Final del informe del Departamento de Ingenieros (mitad derecha)",
+   "img": "img/f/069/05.jpg",
+   "fuente": "IMG_7365.JPG (página izquierda, cortada por el lomo)",
+   "nota": "Sólo se ve la mitad derecha de cada renglón del último folio de texto, encuadernado frente al plano; el resto quedó en el lomo o fuera de la toma. Se transcribe lo visible; entre corchetes, reconstrucciones probables.",
+   "lineas": [
+    "[…] de la Testamentaria",
+    "[…] dichas providencias",
+    "[…] fs. 1[4]1 [?] y 138, el Departa-",
+    "[mento de] Ingenieros ha examina-",
+    "[do la mensura] practicada por el",
+    "[agrimensor D.] Pedro Pico del terre-",
+    "[no de D.] Santiago Scully en el",
+    "[partido de] Giles, y encontrando",
+    "[arreglado su] proceder facultativo",
+    "[…]da, la considera en",
+    "[estado de ser] aprobada judi-",
+    "[cialmente.]",
+    "[En cuanto a] la protesta de",
+    "[los herederos de O']Brien este Depar-",
+    "[tamento] considera fuera de",
+    "[…] la parte GghkiG",
+    "[…] seria en todo",
+    "[…] controversia en-",
+    "[tre …] Eduardo Lennon [?],",
+    "[…]ncia que el poli-",
+    "[gono …]DEFGHJKLMA o sea",
+    "[el medi]do por Chapeau-",
+    "[rouge …] tiene ubicada",
+    "[la parte …]kiG, el cual",
+    "[…]no y diligen-",
+    "[cia …] como una",
+    "[…] mensura, sin",
+    "[…] terreno me-",
+    "[firma:] Pico [?] [rúbrica]",
+    "[a lápiz, al margen:] 1244 / 1211 / 1212 / 1669 [?]"
+   ],
+   "interpretacion": "Final del informe técnico (no se ve la fecha). El Departamento de Ingenieros —denominación posterior a 1875— examinó la mensura de Pedro Pico del terreno de Santiago Scully «en el partido de Giles», encontró arreglado su proceder y la considera en estado de aprobación judicial. Sobre la PROTESTA de [los herederos de O']Brien, el Departamento considera fuera de la cuestión la parte «GghkiG» (la cuña rayada del plano, en el extremo E), que sería materia de controversia con Eduardo Lennon [?]; y menciona que el polígono «…DEFGHJKLMA» es el medido antes por Chapeaurouge, que ya tenía ubicada esa parte. Es decir: la mensura se aprueba y la superposición con O'Brien/Lennon se deja como cuestión entre partes. La firma final es de lectura muy dudosa."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del campo del Dr. Santiago Scully (Pico, 20 de diciembre de 1875)",
+   "img": "img/f/069/02.jpg",
+   "fuente": "IMG_7365.JPG",
+   "orientacion": "Plano dibujado sobre papel MILIMETRADO (primero del corpus), meridiano N-S con flecha y «Vᵗᵉ 10° 24′ E», escala transversal de 6000 metros; firma «Diciembre 20/75 · Pedro Pico».",
+   "interpretacion": "Polígono irregular A-B-C-D-E-F-G-H-J-K-M-L-A de 25.806.140 m² = 0,95584 leguas cuadradas, con una estancia (A), unos doce puestos dibujados y un curso de agua que entra por M y sale por H. Al E, en trazo punteado, la cuña GghkiG protestada.",
+   "referencias": [
+    [
+     "A-B",
+     "N 58° 39′ E 1000 m · Puesto y Estancia junto a A"
+    ],
+    [
+     "B-C",
+     "S 50° 20′ E 3665 m (mojón a 2100) · Dionisia Alen de Sosa"
+    ],
+    [
+     "C-D",
+     "N 39° 36′ E 1212,4 m"
+    ],
+    [
+     "D-E-F",
+     "N 42° … E 1669 m (E a 150 m) · Gerónima Sosa de Sacarra [?] al NO (línea N 50° 22′ O)"
+    ],
+    [
+     "F-G",
+     "S 55° 20′ E 3756 m (mojones a 1600 y 2800) · Eduardo Lennon"
+    ],
+    [
+     "G-H",
+     "S 42° 45′ O [?] (mojones a 3044, 3630) H a 4216 [?] · her. de Juan O'Brien"
+    ],
+    [
+     "H-Y-J",
+     "S 47° 15′ E 2923,5 m (Y a 2602) · her. de Gerónimo Torny al E"
+    ],
+    [
+     "J-K",
+     "S 42° 50′ O 929 [?] m"
+    ],
+    [
+     "K-M",
+     "N 47° 45′ O ≈ 6687 [?] m (mojones cada 1000) · her. de A. Monsalvo"
+    ],
+    [
+     "M-L-A",
+     "L a 65,5 m; L-A N 36° 22′ O [?] 5615 [?] m · Dionisia Alen de Sosa"
+    ],
+    [
+     "Cuña protestada",
+     "G-g 162,7 [?] · g-h 1096,1 · h-k 306,8 · i-k 2728 · k 28,5 m (trazo punteado)"
+    ],
+    [
+     "Superficie",
+     "25.806.140 m² = 0,95584 leguas cuadradas"
+    ],
+    [
+     "Meridiano",
+     "Vᵗᵉ 10° 24′ E"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle del plano (otra toma)",
+   "img": "img/f/069/03.jpg",
+   "fuente": "IMG_7366.JPG",
+   "orientacion": "",
+   "interpretacion": "Toma frontal del centro del plano con el rótulo «D.ⁿ Santiago Schully» y la superficie.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle del plano (tercera toma, luz cálida)",
+   "img": "img/f/069/04.jpg",
+   "fuente": "IMG_7367.JPG",
+   "orientacion": "",
+   "interpretacion": "La misma lámina con otra luz; útil para leer la escala y el borde E.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Un gran estanciero irlandés en el límite con areco",
+   "texto": "Santiago (James) Scully —«D.ⁿ Santiago Schully» en el plano— reúne en 1875 un campo de casi una legua cuadrada (2580 ha) en la zona de la Ficha 021 (Dionisia Alen de Sosa, desembocadura del arroyo de Giles en el río de Areco) y de las fichas de Pico de 1860-61 (026 Torny, 027 O'Brien, 030 Monsalvo). Sus vecinos son irlandeses (O'Brien, Lennon) y criollos (Alen de Sosa, Sosa, Monsalvo). Un año después Pico le mide otro campo, más chico, sobre el arroyo de Giles (Ficha 071)."
+  },
+  {
+   "titulo": "Pico vuelve a su zona y chapeaurouge reaparece",
+   "texto": "Pedro Pico, ex miembro del D. T., midió aquí en 1860-63 (026, 027, 030, 031). En 1875 vuelve con un plano técnicamente nuevo: papel milimetrado, letras de vértice en serie (A…M), mojones con progresivas cada 1000 m y superficie en m² y en leguas cuadradas con cinco decimales. El informe menciona un polígono medido antes por Chapeaurouge (el agrimensor-apoderado de 021, 025, 027, 030, 031): el campo de Scully estaba ya mensurado, al menos en parte."
+  },
+  {
+   "titulo": "La protesta o'brien",
+   "texto": "La cuña GghkiG, dibujada en punteado al E del vértice G, es la zona protestada por los herederos de O'Brien. En 1860 (027) Pico ya había tenido que abstenerse ante la superposición O'Brien–Sosa. El Departamento la deja «fuera» de la aprobación: la protesta no detiene la mensura, sólo aparta la parte discutida (doctrina de 053 y 062)."
+  },
+  {
+   "titulo": "Declinación",
+   "texto": "Vᵗᵉ 10° 24′ E: la cifra más baja del corpus después de la de Serna (9° 29′, 1872) y 1° 11′ menos que Schuster en 1873. Pico, en 1860-63, usaba 11° 20′-11° 32′. La caída es coherente con la tendencia secular decreciente, pero más rápida de lo esperable: comparar con 071 (≈ 10° 15′ [?])."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "Una «Estancia» con monte junto al vértice A y unos doce «Puesto» repartidos por el campo y sobre los linderos; dos o tres manchas sombreadas (¿lagunas o montes?) en L, D y sobre la línea K-M. Un curso de agua cruza el campo de O a E (¿arroyo de Giles cerca de su desembocadura, o cañada afluente?)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Falta casi todo el texto (títulos, fecha de compra, linderos citados, la protesta). ¿Es «Eduardo Lennon» el lindero NE o el protestante? ¿Qué es la «Testamentaría» del primer renglón (¿de Del Sar, de O'Brien?)? ¿Fs. 141 y 138 del expediente?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Santiago (James) Scully",
+   "rol": "Propietario",
+   "texto": "Estanciero de apellido irlandés con dos campos en el partido (069, 2580 ha; 071, 785 ha). La búsqueda web (10/2026) no dio datos sobre él (sólo un homónimo, William Scully, empresario irlandés en Brasil).",
+   "fuentes": "Dup. 69 y 71; búsqueda web sin resultados."
+  },
+  {
+   "nombre": "Pedro Pico",
+   "rol": "Agrimensor",
+   "texto": "Miembro del Departamento Topográfico (1852-58) y agrimensor en Giles en 1860-63 (007, 026, 027, 030, 031). Reaparece en 1875-76 (069, 071).",
+   "fuentes": "Fichas 007, 026-031."
+  },
+  {
+   "nombre": "Dionisia Alen de Sosa · Gerónima Sosa de Sacarra [?]",
+   "rol": "Linderas",
+   "texto": "Dionisia Alen de Sosa: Ficha 021 (1858, río de Areco en la desembocadura del arroyo de Giles). Gerónima Sosa: lindera en 021.",
+   "fuentes": "Ficha 021."
+  },
+  {
+   "nombre": "Her. de Juan O'Brien · her. de Gerónimo Torny · her. de A. Monsalvo · Eduardo Lennon",
+   "rol": "Linderos",
+   "texto": "O'Brien: Ficha 027 (1860). Torny: 026, 027, 031. Antonio Monsalvo: 030. Lennon: irlandés, primera aparición en el corpus.",
+   "fuentes": "Fichas 026, 027, 030, 031."
+  }
+ ],
+ "titulo": "Santiago Scully",
+ "estado": "Transcripta (1 hojas, 30 renglones), 3 láminas"
+}

@@ -1,0 +1,224 @@
+{
+ "carpeta": "70",
+ "carpeta_nombre": "Carpeta 70",
+ "archivo": "Ficha 070 - Domingo Gorostiaga (1876).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (rincón SO, Cañada de Moyano)",
+  "N.º de duplicado": "70 · Sección Areco N.º 276 («Sección Luján» testado)",
+  "Propietario / solicitante": "Domingo Gorostiaga",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1876",
+  "Fecha de la diligencia": "Marzo de 1876; auto judicial y «agréguese» 28/4/1876",
+  "Ubicación": "Cañada de Moyano, entre los Lima y los her. de José M.ª Rodríguez",
+  "Orden judicial": "Auto del juez Juan C. Belgrano (aprobación); se ve sólo el final",
+  "Vendedor / antecesor": "No consta (¿fracción de los Lima, Ficha 055?)",
+  "Linderos citados": "Her. de Domingo Lima (N) · Manuel Lima (E) · her. de José M.ª Rodríguez (S y O)",
+  "Medidas": "Rectángulo de 649,5 × 775 m (750 × 895 v) ≈ 50,3 ha",
+  "Rumbos": "S 45° 55′ E 649,5 m · S 44° 5′ O 775 m; «Norte verd.º [1]1° 12′ N.E.» [?]",
+  "Referencia de archivo": "Duplicado 70 (Sección Areco 276); portadilla «Copiado»; plano f.ª 5"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 50,3 (649,5 × 775 m)",
+  "hitos": "Cuatro mojones A-D; sin poblaciones",
+  "aguas": "Cañada de Moyano con bañado"
+ },
+ "sintesis": "Duplicado del que se fotografiaron carátula, portadilla, el último folio y el plano. En marzo de 1876 Carlos Schuster mide para Domingo Gorostiaga un rectángulo de 649,5 × 775 m (750 × 895 varas, ≈ 50 ha) cruzado por la Cañada de Moyano, entre los herederos de Domingo Lima, Manuel Lima y los herederos de José M.ª Rodríguez: una pieza chica del vecindario Lima del rincón SO (Fichas 055, 061). El último folio trae el final del auto aprobatorio del juez Juan C. Belgrano y la orden «Agréguese al duplicado correspondiente» del Departamento de Ingenieros, 28 de abril de 1876, firmada «Lavalle», que identifica el visto bueno del plano de la Ficha 067. Portadilla con «Sección Luján» testado y Sección Areco 276.",
+ "caratula": {
+  "img": "img/f/070/01.jpg",
+  "fuente": "IMG_7368.JPG",
+  "campos": [
+   [
+    "N.º",
+    "70"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Domingo Gorostiaga"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1876"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Final del auto judicial y «agréguese» (último folio)",
+   "img": "img/f/070/05.jpg",
+   "fuente": "IMG_7370.JPG (página izquierda)",
+   "nota": "Es el último folio de texto, encuadernado frente al plano; los folios anteriores no se fotografiaron. Letra de copista muy inclinada, con tinta que traspasa; varias palabras dudosas.",
+   "lineas": [
+    "[…]fecto [?] y para su [mayor] validez",
+    "interpónese [?] el Juzgado la autoridad",
+    "indispensable. En consecuencia da-",
+    "se por aprobada [?]. Hagase [?] por el Actuario y re-",
+    "pónganse los sellos y previo pa-",
+    "go de aquellos, entréguese al a-",
+    "gente [?] original el interesado [?] [el ex-]",
+    "pediente [?] para los usos que viere convenirle.",
+    "Comuníquese al Departamento",
+    "de Ingenieros por medio del cor-",
+    "respondiente oficio, en el que se",
+    "insertará este auto. Juan C.",
+    "Belgrano. Ante mí: Manuel",
+    "[Al]monacid [?]:",
+    "Es copia [?] [rúbrica]",
+    "Juan C. Belgrano.",
+    "Abril 28 de 1876—",
+    "Agréguese al duplicado correspon-",
+    "diente.—",
+    "Lavalle [rúbrica]"
+   ],
+   "interpretacion": "Final de la copia del auto con que el juez Juan C. Belgrano, «ante» el actuario Manuel [Al]monacid [?], aprueba la mensura: interpone «la autoridad» del Juzgado para su validez, manda reponer los sellos, previo pago entregar al interesado el expediente original «para los usos que viere convenirle», y comunicar el auto al Departamento de Ingenieros por oficio. Debajo, la orden del Departamento, «Abril 28 de 1876 — Agréguese al duplicado correspondiente», firmada «Lavalle»: el mismo funcionario cuyo visto bueno («V.º B.º Lav[…]») figura en el plano del Departamento de la Ficha 067. La mensura de marzo quedó aprobada judicialmente en menos de dos meses."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Domingo Gorostiaga (Schuster, marzo de 1876)",
+   "img": "img/f/070/03.jpg",
+   "fuente": "IMG_7372.JPG (girada 180°); también IMG_7371",
+   "orientacion": "Plano con marco; flecha del norte verdadero en diagonal; «Escala de Metros» (0-1000) al borde; firma «Marzo de 1876 · Carlos Schuster»; sello de foliatura «F.ª 5».",
+   "interpretacion": "Rectángulo A-B-C-D: A-B y D-C S 45° 55′ E 649,5 m (750 varas, un octavo de legua: el módulo de Schuster de 1869); B-C y A-D S 44° 5′ O 775 m. La CAÑADA DE MOYANO lo cruza en diagonal desde el costado A-D hasta el vértice C, con un bañado rayado junto a C. Linderos: herederos de Domingo Lima al N (A-D), Manuel Lima al E, herederos de José M.ª Rodríguez al S y al O. Ninguna población dibujada.",
+   "referencias": [
+    [
+     "A-B",
+     "S 45° 55′ E 649,5 m · Manuel Lima / her. de José M.ª Rodríguez"
+    ],
+    [
+     "B-C",
+     "S 44° 5′ O 775 m · her. de José M.ª Rodríguez"
+    ],
+    [
+     "C-D",
+     "S 45° 55′ E 649,5 m (leído al revés) · her. de José M.ª Rodríguez"
+    ],
+    [
+     "D-A",
+     "S 44° 5′ O 775 metros · her. de Domingo Lima"
+    ],
+    [
+     "Agua",
+     "Cañada de Moyano, con bañado rayado junto a C"
+    ],
+    [
+     "Meridiano",
+     "Norte verd.º [1]1° 12′ N.E. [?]"
+    ],
+    [
+     "Sello",
+     "F.ª 5 (foliatura del archivo)"
+    ]
+   ]
+  },
+  {
+   "titulo": "El plano en la toma original",
+   "img": "img/f/070/04.jpg",
+   "fuente": "IMG_7371.JPG",
+   "orientacion": "",
+   "interpretacion": "Misma lámina sin girar; se lee mejor la firma y la escala.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Una chacra en la cañada de moyano",
+   "texto": "Con ≈ 50 ha, es el terreno más chico del corpus fuera del pueblo: un rectángulo de 750 × 895 varas en la Cañada de Moyano, el paisaje de bañados del rincón SO que dibujó Prat en 1840 para Mariano Lima (055). Los linderos son todos Lima (Domingo, Manuel) y Rodríguez: la pieza parece desgajada del cuadrado de 9000 varas de Mariano Lima o de un vecino. El comprador, Domingo Gorostiaga, lleva apellido vasco."
+  },
+  {
+   "titulo": "De luján a areco y a giles",
+   "texto": "La portadilla tiene «Sección Luján» testado y «S.ᵒⁿ Areco N.º 276» y «Giles 70»: el SO del partido se archivó primero en la sección de Luján (como el campo Colmenero en 1826, 054) y en la de Mercedes (Lima, 055) antes de pasar a Giles. Serie de números: 267 (067, marzo de 1874), 274 (068, nov. de 1875), 276 (070, marzo de 1876)."
+  },
+  {
+   "titulo": "El trámite judicial y el departamento",
+   "texto": "Por primera vez el corpus muestra el auto aprobatorio y el «agréguese» en el mismo folio: el juez (Juan C. Belgrano) comunica al Departamento de Ingenieros, que manda agregar el oficio al duplicado el 28/4/1876 con la firma «Lavalle». Esa firma resuelve el «V.º B.º Lav[…]» ilegible del plano del Departamento de la Ficha 067: en 1874-76 un Lavalle era quien firmaba por el Departamento (sucede a Salas en los «agréguese»)."
+  },
+  {
+   "titulo": "Variación",
+   "texto": "La flecha parece decir «[1]1° 12′ N.E.»: 23′ menos que el 11° 35′ de Schuster en 1873 y 12′ menos que el 11° 24′ [?] de noviembre de 1875 (068). La serie de Schuster baja: 11° 42′ (1869) · 11° 23′ (1871) · 11° 35′ (1873) · 11° 24′ [?] (1875) · 11° 12′ [?] (1876)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Falta el texto de la diligencia: ¿de quién compró Gorostiaga? ¿Era una quinta o puesto dentro del campo Lima? ¿Quién es exactamente «Lavalle» en el Departamento de Ingenieros?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Domingo Gorostiaga",
+   "rol": "Propietario",
+   "texto": "Apellido vasco. Sin datos en el corpus ni en la búsqueda web breve (10/2026).",
+   "fuentes": "Dup. 70."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Novena diligencia en el corpus; vuelve al rincón SO (cf. 052, 053, 063).",
+   "fuentes": "Fichas 052-068."
+  },
+  {
+   "nombre": "Juan C. Belgrano · Manuel [Al]monacid [?]",
+   "rol": "Juez y actuario",
+   "texto": "El juez firma el auto aprobatorio y la copia; el actuario da fe. Sin más datos en esta sesión.",
+   "fuentes": "Dup. 70, último folio."
+  },
+  {
+   "nombre": "Lavalle",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firma el «agréguese» del 28/4/1876; probablemente el mismo «Lav[…]» del visto bueno del plano del Departamento en 067. No identificado (la búsqueda web no dio el nombre).",
+   "fuentes": "Dup. 70; Ficha 067."
+  },
+  {
+   "nombre": "Her. de Domingo Lima · Manuel Lima · her. de José M.ª Rodríguez",
+   "rol": "Linderos",
+   "texto": "Los Lima: familia de Mariano Lima (055); Domingo Lima ya era lindero en 1871 (061). José M.ª Rodríguez: sin otra mención en el rincón SO.",
+   "fuentes": "Fichas 055, 061."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/070/02.jpg",
+  "fuente": "IMG_7369.JPG",
+  "lineas": [
+   "S.^{on} Arco [sic]   Copiado [a lápiz, sobre la línea]",
+   "N.^{o} 276.",
+   "~~Seccion Lujan~~",
+   "Giles",
+   "70",
+   "Duplicado de las diligencias de mensu-",
+   "ra y plano del terreno de Don Do-",
+   "mingo Gorostiaga, situado en el",
+   "Partido de San Andres de Giles",
+   "Medido por el Agrimensor",
+   "Carlos Schuster en",
+   "Marzo de 1876—"
+  ]
+ },
+ "titulo": "Domingo Gorostiaga",
+ "estado": "Transcripta (1 hojas, 20 renglones), 2 láminas"
+}

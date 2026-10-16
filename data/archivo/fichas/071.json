@@ -1,0 +1,215 @@
+{
+ "carpeta": "71",
+ "carpeta_nombre": "Carpeta 71",
+ "archivo": "Ficha 071 - Santiago Scully (1876).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (margen E del arroyo de Giles, aguas abajo)",
+  "N.º de duplicado": "71 · Sección Areco: no fotografiada",
+  "Propietario / solicitante": "Santiago Scully",
+  "Agrimensor": "Pedro Pico",
+  "Año": "1876",
+  "Fecha de la diligencia": "[Octubre] [?] de 1876 (plano)",
+  "Ubicación": "Margen E del arroyo de Giles, entre Zacarelo y O'Donnell",
+  "Orden judicial": "No fotografiada (falta todo el texto)",
+  "Vendedor / antecesor": "No consta",
+  "Linderos citados": "E. Zacarelo · D. Alen de Sosa · S. Scully · her. Monsalvo · J. Nogueira · O'Donnell · Lasota",
+  "Medidas": "7.851.168 m² = 465,28 cuadras cuadradas (≈ 785 ha)",
+  "Rumbos": "S 36° 24′ E 3613 · N 32° 35′ O 4350,5 · S 57° 25′ O 866; var. 10° 15′ [?]",
+  "Referencia de archivo": "Duplicado 71; sello de foliatura en el plano"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 785,1 (7.851.168 m²)",
+  "hitos": "Pulpería; dos puestos; mojones con progresiva",
+  "aguas": "Arroyo de Giles (frente SO)"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron la carátula y el plano. En 1876 Pedro Pico mide el segundo campo del irlandés Santiago Scully, contiguo al de la Ficha 069: un polígono alargado de 7.851.168 m² (465,28 cuadras cuadradas, ≈ 785 ha) con frente sobre el arroyo de Giles (tres tramos de costa) y fondo contra los herederos de Monsalvo, entre Estanislao Zacarelo y Dionicia Alen de Sosa al NO y Jacinto Nogueira —el ex alcalde— y Nicolás O'Donnell al SE; enfrente, Clemente Lasota. Sobre el fondo, dos puestos y una pulpería. Superficie en metros y en cuadras cuadradas; variación 10° 15′ [?], la familia «baja» de Pico.",
+ "caratula": {
+  "img": "img/f/071/01.jpg",
+  "fuente": "IMG_7373.JPG",
+  "campos": [
+   [
+    "N.º",
+    "71"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Santiago Scully"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Pedro Pico"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1876"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Pico",
+   "img": "img/f/071/03.jpg",
+   "fuente": "IMG_7375.JPG (y IMG_7374)",
+   "nota": "Sólo se fotografiaron la carátula y el plano (dos tomas). Cifras de los costados escritas al revés; mes de la firma de lectura dudosa. La superficie va en m² y en «cuadras cuadradas».",
+   "lineas": [
+    "[flecha:] N. 10° 15′ [?]",
+    "[al N:] Dionicia Alen de Sosa",
+    "[al NO:] Estanislao Zacarelo   [línea de trazos:] N. 50° 16′ O.",
+    "[A-B:] A  S. 53° 39′ O. 4000 [?]  B",
+    "[B-E:] S. 36° 24′ E. 1290 · 1913 · 2613 · 3613  [y en el extremo] 65.5",
+    "[al NE:] Santiago Scully",
+    "[costado E:] S. 57° 25′ O. 866 · 1734   ·   Puesto · Puesto · Pulperia",
+    "[al E:] Hered.^{s} de Monsalvo",
+    "[F-D:] N. 32° 35′ O. 1300 · 2600 · 2783 · 4350.5",
+    "[al S:] Jacinto Nogueira   ·   Nicolas O'Donnell",
+    "[D-C, por la costa:] S. 0° 35′ E. 317.5 · S. 16° 27′ E. 800 · S. 2° 38′ O. 640",
+    "Arroyo de Giles",
+    "[C-B:] N. 50° 10′ O. 1000 · 2400^{m}",
+    "[al O, del otro lado del arroyo:] Clemente Lasota",
+    "Santiago Scully   Superficie 7851168 met.^{s} c.^{s} = 465.28 cuad.^{s} cuad.^{s}",
+    "Escala [transversal de metros: 0 · 1000 · 2000 · 3000]",
+    "[Octu]bre [?] de 1876   Pedro Pico [rúbrica]"
+   ],
+   "interpretacion": "Plano del segundo campo de Santiago Scully: un polígono alargado de 7.851.168 m² (465,28 cuadras cuadradas, ≈ 785 ha) con el frente SO sobre el ARROYO DE GILES (tres tramos de costa, C-D, de 317,5 + 800 + 640 m) y fondo al NE contra los herederos de Monsalvo (866 m). Al NO linda con Estanislao Zacarelo y Dionicia Alen de Sosa y con otro campo del propio Scully (Ficha 069); al SE con Jacinto Nogueira y Nicolás O'Donnell; enfrente, al otro lado del arroyo, Clemente Lasota. Dos puestos y una PULPERÍA sobre el fondo."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Santiago Scully sobre el arroyo de Giles (Pico, 1876)",
+   "img": "img/f/071/02.jpg",
+   "fuente": "IMG_7374.JPG",
+   "orientacion": "Plano apaisado, campo coloreado en verde agua, rótulos de molde para los linderos, escala transversal de metros, firma de Pedro Pico con rúbrica; sello circular de foliatura.",
+   "interpretacion": "El costado NO quiebra en B (N 50° 10′ O y S 36° 24′ E) siguiendo una línea antigua (de trazos, N 50° 16′ O) que separa a Zacarelo de Scully; los costados largos (S 36° 24′ E y N 32° 35′ O) convergen hacia el fondo.",
+   "referencias": [
+    [
+     "A-B",
+     "S 53° 39′ O; B a 4000 [?] m desde A (línea del campo de 069) · Dionicia Alen de Sosa"
+    ],
+    [
+     "B-E",
+     "S 36° 24′ E 3613 m (+ 65,5) · Santiago Scully al NE"
+    ],
+    [
+     "E-F",
+     "S 57° 25′ O 866 m (mojón a 1734 [?]) · her. de Monsalvo"
+    ],
+    [
+     "F-D",
+     "N 32° 35′ O 4350,5 m · Jacinto Nogueira; Nicolás O'Donnell"
+    ],
+    [
+     "D-C",
+     "Costa del arroyo de Giles: S 0° 35′ E 317,5 · S 16° 27′ E 800 · S 2° 38′ O 640 m"
+    ],
+    [
+     "C-B",
+     "N 50° 10′ O 2400 m · Estanislao Zacarelo"
+    ],
+    [
+     "Enfrente",
+     "Clemente Lasota (margen O)"
+    ],
+    [
+     "Poblaciones",
+     "Dos puestos y una pulpería junto al costado E-F"
+    ],
+    [
+     "Superficie",
+     "7.851.168 m² = 465,28 cuadras cuadradas"
+    ],
+    [
+     "Meridiano",
+     "N. 10° 15′ [?]"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle del plano (toma cercana)",
+   "img": "img/f/071/03.jpg",
+   "fuente": "IMG_7375.JPG",
+   "orientacion": "",
+   "interpretacion": "Toma cercana del polígono con las cifras de los costados y de la costa del arroyo.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Scully, del río de areco al arroyo de giles",
+   "texto": "Un año después de 069, Pico mide para Scully un segundo campo, más chico, que linda con el primero («Santiago Scully» al NE) y llega hasta el arroyo de Giles. Los linderos —Dionisia Alen de Sosa, los herederos de Monsalvo, Nicolás O'Donnell, Jacinto Nogueira— son los del extremo NE de la margen E aguas abajo (Fichas 021, 030, 043): el campo está entre la Posta de Figueroa/O'Donnell (043) y la desembocadura del arroyo (021)."
+  },
+  {
+   "titulo": "Medir en cuadras cuadradas",
+   "texto": "La superficie se da en metros cuadrados y en «cuadras cuadradas» (465,28), la unidad de Dillon en 1869 (054) y de Meyrelles en 1867 (044, «cuadras cuadradas de 150 varas»): 465,28 × 16.874 m² ≈ 7.851.000 m², exacto. La cuadra cuadrada (150 × 150 v) es la unidad de las chacras y los ejidos: Scully la usa para un campo de casi 800 ha."
+  },
+  {
+   "titulo": "Personas del pueblo en la campaña",
+   "texto": "Jacinto Nogueira es el alcalde «en comisión» de 1867 (043) y alcalde del Cuartel 6.º en 1872 (062): en 1876 es propietario lindero. Clemente Lasota, al otro lado del arroyo, aparece por primera vez. La PULPERÍA sobre el fondo del campo, cerca del lindero Monsalvo, se suma a las de Magadán (043), Tapia (054) y la del Carmen (021)."
+  },
+  {
+   "titulo": "Declinación",
+   "texto": "La flecha da «N. 10° 15′» [?] (lectura dudosa): coherente con los 10° 24′ E que Pico usó en diciembre de 1875 (069). Pico pertenece a la familia «baja» de la década de 1870 (con Serna, 9° 29′, 1872), frente a Schuster (11° 12′-11° 35′)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Falta todo el texto: títulos de Scully, de quién compró (¿Zacarelo?, ¿Alen de Sosa?), si hubo protesta. ¿«Estanislao Zacarelo» y la «Gerónima Sosa de Sacarra» [?] de 069 son la misma familia (Sacarello/Zacarelo)?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Santiago (James) Scully",
+   "rol": "Propietario",
+   "texto": "Ver Ficha 069: dos campos contiguos medidos por Pico en 1875-76 (≈ 2580 + 785 ha). Sin datos en la web.",
+   "fuentes": "Dup. 69 y 71."
+  },
+  {
+   "nombre": "Pedro Pico",
+   "rol": "Agrimensor",
+   "texto": "Ex miembro del D. T.; mensuras en Giles 1860-63 y 1875-76.",
+   "fuentes": "Fichas 007, 026-031, 069."
+  },
+  {
+   "nombre": "Jacinto Nogueira",
+   "rol": "Lindero",
+   "texto": "Alcalde en comisión (1867) y del Cuartel 6.º (1872); propietario en 1876.",
+   "fuentes": "Fichas 043, 062."
+  },
+  {
+   "nombre": "Nicolás O'Donnell · her. de Monsalvo · Dionicia Alen de Sosa",
+   "rol": "Linderos",
+   "texto": "O'Donnell: comprador de los Figueroa de la Posta, pleito de 1867-72 (043, 062). Monsalvo: herederos del alférez Antonio Monsalvo (030). Alen de Sosa: 021, 069.",
+   "fuentes": "Fichas 021, 030, 043, 062, 069."
+  },
+  {
+   "nombre": "Estanislao Zacarelo · Clemente Lasota",
+   "rol": "Linderos",
+   "texto": "Primeras apariciones en el corpus; Zacarelo puede ser de la familia de la «Gerónima Sosa de Sacarra» [?] de 069.",
+   "fuentes": "Dup. 71."
+  }
+ ],
+ "titulo": "Santiago Scully",
+ "estado": "Transcripta (1 hojas, 17 renglones), 2 láminas"
+}

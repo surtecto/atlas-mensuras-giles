@@ -1,0 +1,256 @@
+{
+ "carpeta": "68",
+ "carpeta_nombre": "Carpeta 68",
+ "archivo": "Ficha 068 - Ana Nugent de Wallace (1875).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (S del pueblo, arroyo de Noriega)",
+  "N.º de duplicado": "68 · Sección Areco N.º 274",
+  "Propietario / solicitante": "Ana Nugent de Wallace y cohered.",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1875",
+  "Fecha de la diligencia": "Noviembre de 1875",
+  "Ubicación": "Bloque Lescano–Noriega–Vivar, sobre el arroyo de Noriega",
+  "Orden judicial": "No fotografiada (falta todo el texto)",
+  "Vendedor / antecesor": "Testamentaría de Tomás Nugent [?] (padre de los adjudicatarios)",
+  "Linderos citados": "Oyuez · her. F. Lezcano · F. Lezcano · Mezquita · J. Lezcano · R. G. de Casas · Vivar",
+  "Medidas": "Siete hijuelas Nugent de ≈ 203 ha 61 a c/u (lápiz); fajas de 1033,75 m",
+  "Rumbos": "N 30° 57′ O 3742 m · N 31° 20′ O 2502 · N 59° 3′ E 1977; var. 11° 24′ NE [?]",
+  "Referencia de archivo": "Duplicado 68 (Sección Areco 274); dos portadillas"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 1425 (7 × 203,6, lápiz, dudoso)",
+  "hitos": "Estancia de Nugent; Arranque; faja «Estado»",
+  "aguas": "Arroyo de Noriega"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron carátula, dos portadillas y el plano. En noviembre de 1875 Carlos Schuster mide y divide el campo de la familia irlandesa Nugent —Ana Nugent de Wallace «y coherederos»— al S del pueblo, junto al arroyo de Noriega: dos cuerpos de fajas paralelas (≈ N 31° O) con siete hijuelas que, según las cifras a lápiz, tendrían la misma superficie (≈ 203 ha 61 a; ≈ 1425 ha): Francisco, Catalina, Ana y Miguel Nugent (con la «Estancia de Nugent») al O; Juan Nugent «su heredero», la testamentaría de Tomás Nugent y María Nugent de Melloy [?] al E. Linderos: Ceferino Oyuez, los Lezcano (045), Romualda G. de Casas, los herederos de Pedro Díaz de Vivar y, tras una faja fiscal «Estado», el Dr. Marcelino Mezquita. Variación 11° 24′ [?].",
+ "caratula": {
+  "img": "img/f/068/01.jpg",
+  "fuente": "IMG_7358.JPG",
+  "campos": [
+   [
+    "N.º",
+    "68"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Ana Nugent de Wallace y Coherederos"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1875."
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Schuster",
+   "img": "img/f/068/03.jpg",
+   "fuente": "IMG_7361.JPG (detalle en IMG_7362-7363)",
+   "nota": "Sólo se fotografiaron carátula, dos portadillas y el plano (tres tomas). Muchas cifras están escritas al revés (se leen girando la lámina); las superficies de las hijuelas, a lápiz, son casi ilegibles y se leen todas «203 61 23» [?]. Las letras de los vértices son de lectura dudosa.",
+   "lineas": [
+    "[al NO:] Ceferino Oyuez",
+    "[al N:] Herederos de Francisco Lezcano",
+    "[al NE:] Felix Lezcano",
+    "[al E:] D.^{r} Marcelino Mezquita",
+    "[al O:] Herederos de Pedro Dias de Vivar",
+    "[al S:] Geronima Lezcano   ·   Romualda G. de Casas",
+    "[línea N, bloque O:] N. 30° 57′ O = 3719^{m}  [tramos 1033.75^{m} ×3 y 617.75^{m}]",
+    "[línea S, bloque O:] N. 30° 57′ O. = 3742^{m}  [342.75 · 1033.75 · 1208.5 · 1033.75 · 2939 · 1094.45 [?]]",
+    "[costado O:] N. 59° 3′ E [?] = 1977^{m}",
+    "Francisco Nugent   [a lápiz:] 203^{h} 61^{a} 23^{c} [?]",
+    "Catalina Nugent   [a lápiz:] 203 61 23 [?]",
+    "Ana Nugent   [debajo, chico:] Superficie [?]   [a lápiz:] 203 61 23 [?]",
+    "Miguel Nugent   1.^{a} [?] Estancia de Nugent   [a lápiz:] 203 61 23 [?]",
+    "[sobre el quiebre del costado N:] Arroyo de Noriega   [rumbo:] S [?] 33° [?] … O = 315 [?] m",
+    "[bloque E, línea N:] N. 30° 24′ O. = 2515^{m}  [543.53 · 744.32 · 1127.15]",
+    "[bloque E, línea S:] N. 31° 20′ O. = 2502^{m}  [1129.57 · 848.93 · 521.50]",
+    "[costados del bloque E:] N. 59° 8′ E = 1544^{m} · N 58° [?] … E = 966^{m} · 1977 [?] · 2407.80 [?]",
+    "Juan Nugent (su heredero)   [a lápiz:] 203 61 23 [?]",
+    "Testamentaria de Tomas Nugent",
+    "Maria Nugent de Melloy [?]   [a lápiz:] 203 … [?]",
+    "[faja angosta al E:] Estado   N. 30° 54′ O. = 461^{m}",
+    "[vértice E:] Arranque",
+    "[flecha:] Norte verd.^{o} Var.^{n} 11° 24′ N.E. [?]",
+    "[al pie, en vertical:] a D.^{a} Romualda [?]",
+    "Escala de Metros",
+    "Noviembre de 1875   Carlos Schuster [rúbrica]",
+    "[a lápiz, al margen:] 83 / 2[?]4 / 1050 [?] · 8 / 9 · 33 / 7.8 / 3120 [cuentas]"
+   ],
+   "interpretacion": "Plano de la división entre los hermanos Nugent de un campo al S del pueblo, entre el bloque Lescano (045) y las «sobras» de los herederos de Pedro Díaz de Vivar (039, 045, 059). El campo tiene dos cuerpos: uno occidental, de cuatro fajas paralelas de 1033,75 m de ancho (Francisco, Catalina, Ana y Miguel Nugent; en la de Miguel, una «Estancia de Nugent»), y otro oriental, más corto y desplazado al S, de tres fajas (Juan Nugent «su heredero», testamentaría de Tomás Nugent, María Nugent de Melloy [?]). Las superficies a lápiz parecen iguales para todas (≈ 203 ha 61 a), de modo que serían siete hijuelas de igual superficie, ≈ 1425 ha. El arroyo de Noriega corta el ángulo NE del cuerpo occidental. Al E, una faja angosta rotulada «Estado» (461 m) separa el campo del Dr. Marcelino Mezquita y contiene el «Arranque»."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la división del campo de los Nugent (Schuster, noviembre de 1875)",
+   "img": "img/f/068/03.jpg",
+   "fuente": "IMG_7361.JPG",
+   "orientacion": "Plano apaisado con marco; flecha del norte verdadero en diagonal; escala de metros vertical al borde; firma «Noviembre de 1875 · Carlos Schuster».",
+   "interpretacion": "Dos cuerpos de fajas paralelas (N 30° 57′ O y N 31° 20′ O) unidos por el quiebre G-H; siete hijuelas Nugent; arroyo de Noriega en el ángulo NE del cuerpo O; faja fiscal «Estado» al E.",
+   "referencias": [
+    [
+     "Cuerpo O",
+     "Francisco · Catalina · Ana · Miguel Nugent; fajas de 1033,75 m × 1977 m [?]"
+    ],
+    [
+     "Cuerpo E",
+     "Juan Nugent (su heredero) · test. de Tomás Nugent · María Nugent de Melloy [?]"
+    ],
+    [
+     "Línea S cuerpo O",
+     "N 30° 57′ O 3742 m · Jerónima Lezcano"
+    ],
+    [
+     "Línea S cuerpo E",
+     "N 31° 20′ O 2502 m · Romualda G. de Casas"
+    ],
+    [
+     "Línea N cuerpo E",
+     "N 30° 24′ O 2515 m · her. de Francisco Lezcano"
+    ],
+    [
+     "Faja E",
+     "«Estado», N 30° 54′ O 461 m; Arranque; Dr. Marcelino Mezquita; Félix Lezcano"
+    ],
+    [
+     "Costado O",
+     "Herederos de Pedro Días de Vivar"
+    ],
+    [
+     "Agua",
+     "Arroyo de Noriega"
+    ],
+    [
+     "Meridiano",
+     "Norte verd.º Var.ⁿ 11° 24′ N.E. [?]"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle del cuerpo oriental (otra toma)",
+   "img": "img/f/068/04.jpg",
+   "fuente": "IMG_7362.JPG",
+   "orientacion": "",
+   "interpretacion": "Toma más cercana del centro del plano: hijuelas de Miguel, Juan y la testamentaría de Tomás Nugent, el arroyo de Noriega y las cifras de las líneas N y S del cuerpo E.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle del extremo E (otra toma)",
+   "img": "img/f/068/05.jpg",
+   "fuente": "IMG_7363.JPG",
+   "orientacion": "",
+   "interpretacion": "Extremo oriental: faja «Estado», Arranque, Dr. Marcelino Mezquita y la flecha del norte verdadero.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Una familia irlandesa en el s del partido",
+   "texto": "Los Nugent son una familia irlandesa (Nugent es apellido de Westmeath/Longford) que en 1875 tiene un campo de ≈ 1425 ha al S del pueblo, rodeado por criollos de viejo arraigo: los Lezcano (045), los herederos de Díaz de Vivar y Romualda G. de Casas. Ana Nugent está casada con un Wallace (otro apellido británico; cf. la población de «Tomás Wallase» en el campo de Guerrico, 029) y encabeza la carátula «y coherederos». El plano dice «Testamentaría de Tomás Nugent»: el padre habría muerto antes de noviembre de 1875 y la mensura sería la partición de su herencia en siete partes iguales."
+  },
+  {
+   "titulo": "Partición por superficie",
+   "texto": "Las cuatro fajas del cuerpo O tienen el mismo ancho (1033,75 m ≈ 1193,7 v) y el mismo largo, y las tres del cuerpo E, anchos distintos (543,53 / 744,32 / 1127,15 m en el N; 1129,57 / 848,93 / 521,50 en el S) para compensar los largos: el criterio es la superficie igual (≈ 203 ha 61 a), como en Acuña (065, 1873). Schuster vuelve a fajas de rumbo ≈ N 31° O, la orientación de las mercedes antiguas del S del partido (064, 065)."
+  },
+  {
+   "titulo": "Sobras de vivar y «estado»",
+   "texto": "Al O, los «Herederos de Pedro Días de Vivar»: es la cuarta aparición del titular originario de las «sobras de Vivar» de Saubidet (039, 045, 059), ahora como lindero con nombre propio en un plano de otro agrimensor. Al E, una faja angosta rotulada «Estado» (461 m de ancho) entre los Nugent y el Dr. Marcelino Mezquita: tierra fiscal residual, como la de 064 y 066. ¿Es parte del sobrante de 034 (Sotero Galeano → Mezquita) o un exceso nuevo?"
+  },
+  {
+   "titulo": "Agua y paisaje",
+   "texto": "El arroyo de Noriega (028, 039) corta el ángulo NE del cuerpo O, junto al lindero de los herederos de Francisco Lezcano: ubica el campo en la cabecera de ese arroyo. Una sola población rotulada («Estancia de Nugent» en la hijuela de Miguel) y varias cruces a lápiz en las fajas del E (¿puestos o marcas de revisión?)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Falta todo el texto: ¿de quién compró Tomás Nugent (¿de los Lezcano, de Noriega o de Oyuez?) y cuándo? ¿Partición judicial? ¿Quién es «Melloy» [?] (marido de María)? ¿Las cifras a lápiz son realmente iguales? La variación (11° 24′) es 11′ menor que la de Schuster en 1873 (11° 35′)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Ana Nugent de Wallace",
+   "rol": "Propietaria (con coherederos)",
+   "texto": "Hija, presumiblemente, de Tomás Nugent; casada con un Wallace. Sin datos en la búsqueda web (10/2026). Encabeza la carátula y tiene una de las siete hijuelas.",
+   "fuentes": "Plano y portadillas del Dup. 68; búsqueda web sin resultados."
+  },
+  {
+   "nombre": "Francisco, Catalina, Miguel, Juan y María Nugent (de Melloy [?]) · test. de Tomás Nugent",
+   "rol": "Adjudicatarios",
+   "texto": "Hermanos de Ana. Miguel tiene la «Estancia de Nugent». Juan figura «(su heredero)» y hay una hijuela a nombre de la testamentaría de Tomás Nugent. Familia irlandesa de la campaña (ver villa_irlanda.md).",
+   "fuentes": "Plano del Dup. 68."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Octava diligencia en el corpus (052, 053, 060, 063, 064, 065, 066, 068); vuelve al S del partido, cerca de Basarte (064).",
+   "fuentes": "Fichas 052-066."
+  },
+  {
+   "nombre": "Ceferino Oyuez · Francisco, Félix y Jerónima Lezcano · Romualda G. de Casas",
+   "rol": "Linderos",
+   "texto": "Oyuez: un «Oyuez» compraba con Francisco Lescano parte del campo de Noriega en 1866 (039). Los Lezcano: familia de la Ficha 045 (Francisco, hijo del causante). Romualda G. de Casas: cf. Facundo Casas (057) e Isidro Casas (025).",
+   "fuentes": "Fichas 039, 045, 057."
+  },
+  {
+   "nombre": "Dr. Marcelino Mezquita · her. de Pedro Díaz de Vivar",
+   "rol": "Linderos",
+   "texto": "Mezquita compró el sobrante de Sotero Galeano (034) y era lindero de Saraví en 1870 (058). Díaz de Vivar: titular originario de las «sobras» (039, 045, 059).",
+   "fuentes": "Fichas 034, 039, 045, 058, 059."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/068/02.jpg",
+  "fuente": "IMG_7360.JPG (y hoja de guarda IMG_7359)",
+  "lineas": [
+   "San Andres de Giles 68",
+   "Seccion Areco",
+   "N.^{o} 274.",
+   "San A. de Giles [en azul]",
+   "Duplicado de las deligencias de mensura",
+   "y plano del terreno de Doña Ana Nu-",
+   "gent de Wallace y coherederos—",
+   "Situado en el Partido de San Andres de",
+   "Giles—",
+   "Medido por el Agrimensor",
+   "Carlos Schuster",
+   "En Noviembre del año 1875",
+   "[rúbrica]",
+   "— hoja de guarda (IMG_7359): —",
+   "San Andres de Giles: N.^{o} 68.",
+   "Diligencia de mensura y plano",
+   "del terreno de D.^{na} Ana Nugent",
+   "de Wallace y Coherederos, en el",
+   "Partido de San Andres de Giles.",
+   "— 1875 —",
+   "Agrimensor; Carlos Schuster:"
+  ]
+ },
+ "titulo": "Ana Nugent de Wallace y cohered.",
+ "estado": "Transcripta (1 hojas, 27 renglones), 3 láminas"
+}
