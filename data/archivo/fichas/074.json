@@ -1,0 +1,300 @@
+{
+ "carpeta": "74",
+ "carpeta_nombre": "Carpeta 74",
+ "archivo": "Ficha 074 - Ramón Colmenero (1840).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (rincón SO, hacia la Guardia de Luján)",
+  "N.º de duplicado": "74 · Sección Luján N.º 152 («Areco» testado)",
+  "Propietario / solicitante": "Ramón Colmenero",
+  "Agrimensor": "Raymundo Prat",
+  "Año": "1840",
+  "Fecha de la diligencia": "2 de enero de 1840 (portadilla)",
+  "Ubicación": "Inmediaciones de la Guardia de Luján, paraje «Monte de los Gallegos»",
+  "Orden judicial": "No fotografiada",
+  "Vendedor / antecesor": "No consta; dentro, faja de D. Carlos Colmenero",
+  "Linderos citados": "P. Bello · M. Lima · J. M. Echevarría · Acuña · Garzeti · P. Romero · Molina · Frías",
+  "Medidas": "Costado N 10.950 v; costado E 540 + 3185 v (+ 2365 de Acuña = 6090)",
+  "Rumbos": "Rumbos de aguja corregidos; «Variación 13° 30′»; costado E N 12° 15′ [E] correg.",
+  "Referencia de archivo": "Duplicado 74; portadilla «N.º 152, Secc.n Luján»; plano f. 3"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 3000 [?] (10.950 × 3725 v; cifra no fotografiada)",
+  "hitos": "Monte de los Gallegos; casas de Acuña, Garzeti, Fernández; mojón A; laguna",
+  "aguas": "Bañado del costado N; Cañada de los Toros; otra cañada sin nombre"
+ },
+ "sintesis": "Duplicado de la mensura practicada por Raymundo Prat el 2 de enero de 1840 del terreno de Ramón Colmenero «a las inmediaciones de la Guardia de Luján, paraje denominado Monte de los Gallegos»; se fotografiaron la carátula, la portadilla, el plano y la mitad visible del último folio. El plano —con el norte hacia abajo y «Variación 13° 30′»— muestra un cuadrilátero de 10.950 × 6090 varas cruzado por el Camino de las Guardias, con un bañado y laguna al N, entre Pascuala Bello y Mariano Lima (N), José M. Echevarría (E), Acuña y Dominga Garzeti (S), Molina y Frías (O); más al S, la Cañada de los Toros, Pascuala Romero y Aguirre. Es el antecedente de la mensura de Dillon de 1869 (054) y une el bloque Lima–Echevarría con los apellidos de la naciente del arroyo de Giles.",
+ "caratula": {
+  "img": "img/f/074/01.jpg",
+  "fuente": "IMG_7382.JPG",
+  "campos": [
+   [
+    "N.º",
+    "74"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Ramón Colmenero"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Raimundo Prat"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1840"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Final de la diligencia (fragmento junto al plano)",
+   "img": "img/f/074/06.jpg",
+   "fuente": "IMG_7384.JPG (borde izquierdo)",
+   "nota": "Sólo se ve la mitad derecha de la última página de texto, encuadernada frente al plano: el principio de cada renglón queda oculto ([…]). No se fotografiaron los demás folios. Letra de copista redonda y regular.",
+   "lineas": [
+    "[…]te: asociado de don Ramon Colmenero, de",
+    "[…]linderos, pasé al mojon del angulo Este",
+    "[…]res, que el dia antes habia colocado so-",
+    "[…]e don Pastor Frias, en la linea de division",
+    "[…] la señora Garzeti, demarcadas las casas de",
+    "[…]n Ceferino Acuña, la primera al Norte",
+    "[…] la segunda al Norte diez grados treinta",
+    "[…]on Nordeste de mi aguja y por el des-",
+    "[…]s mil trescientas ochenta y cinco va-",
+    "[…] del angulo Este de este terreno, situado",
+    "[…] don Ceferino Acuña y distante nueve",
+    "[…]n Sur de este señor: de este mojon que de-",
+    "[…] grados Oeste de la casa de doña Mana-",
+    "[…]y dos grados Este de la casa de doña Do-",
+    "[…]ste y medí la distancia de siete mil cua-",
+    "[…]as que salí setenta y cinco varas á la",
+    "[…] de don Ceferino Acuña; habiendo ha-",
+    "[…]ras la casa de don Pedro Fernandez á la",
+    "[…] y á seis mil varas cruzado la caña-",
+    "[…]es á cada cuarto de legua, en la direc-",
+    "[…] don Ceferino Acuña; habiendose res-",
+    "[…]e hallarse las setenta y cinco varas",
+    "[…] Dominga Garzeti: de este mojon, ó",
+    "[…] de don Bernardo Martinez al Sur",
+    "[…]nce de la casa de don Narciso Mar-",
+    "[…]spues hice colocar una bandera",
+    "[…]reno de doña Pascuala Romero,",
+    "[…]ña Dominga Garzeti, y lo hallé al",
+    "[…]e mi aguja y á la distancia de",
+    "[…] varas; habiendo atravesado á",
+    "[…]s Toros: comparando esta linea",
+    "[…]a mensura de este terreno y",
+    "[…] la mensura del de doña Pascua-",
+    "[…] mojones que representan sus",
+    "[…] conviniendose las partes, de",
+    "[…]ion, se dejaron en el lugar don-",
+    "[…]n los hijos de la señora Garze-",
+    "[…]namente hallado, demarqué el",
+    "[…] al Sur veinte y seis grados",
+    "[…]scuala Romero al Norte sesen-",
+    "[…]uatro grados Oeste de la aguja,",
+    "[…]s, hallé el mojon del angulo Es-",
+    "[…]varria, esquinero tambien",
+    "[…] setenta grados Oeste del",
+    "[…]omero, y al Norte cuarenta",
+    "[…]se Acuña: de este mojon gi-",
+    "[…]quince minutos, segun ha-",
+    "[…] del señor Echevarria, y á la",
+    "[…]a y cinco varas, hallé el mo-",
+    "[…]ado para la division de es-",
+    "[…]tui al Sudeste corregido de",
+    "[…]da cuarto de legua, medí",
+    "[…]legué al punto de arranque;",
+    "[…]as y á nuestra izquierda,",
+    "[…]nero Oeste, ó sea de la divi-"
+   ],
+   "interpretacion": "Es el recorrido final de la mensura. Prat, «asociado de don Ramón Colmenero» y de los linderos, pasa al mojón del ángulo E que había puesto el día antes sobre la línea de división de don Pastor Frías y de la señora Garzeti; abaliza los mojones con las CASAS de Ceferino Acuña, de doña Mana[…], de doña Do[minga Garzeti], de Pedro Fernández y de Narciso Mar[…], y con el rumbo de su aguja; cada cuarto de legua pone mojón; cruza una cañada a las 6000 varas y atraviesa «[la cañada de lo]s Toros». Al comparar su línea con la mensura del terreno de doña Pascuala Romero encuentra mojones que «representan sus» esquinas y, «conviniéndose las partes», se dejan donde estaban; marca el ángulo con Echevarría (rumbo con minutos, «según ha[…] del señor Echevarría») y vuelve, con rumbo al SE corregido, al punto de arranque."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Ramón Colmenero (Prat, 1840)",
+   "img": "img/f/074/03.jpg",
+   "fuente": "IMG_7384.JPG",
+   "orientacion": "Plano con el NORTE HACIA ABAJO (flechas «N. aguja» y «N. corregido»); linderos en cursiva caligráfica; cañadas sombreadas con rayas; «Escala de una y media legua» (9000 varas); firma «Raymundo Prat» con rúbrica; sello de foliatura «3».",
+   "interpretacion": "El terreno de Ramón Colmenero es un cuadrilátero largo (costado N de 10.950 v sobre un bañado o cañada con el mojón A y una laguna; costado E de 6090 v contra José M. Echevarría) cruzado por el «Camino de las Guardias». Lo rodean doña Pascuala Bello y don Mariano Lima (N, del otro lado del bañado), Echevarría (E), Acuña y Garzeti (S), Molina y Frías (O). Más al S, Ceferino Acuña, la «Cañada de los Toros» (con flecha de corriente), Gómez Romero, doña Pascuala Romero, Aguirre, Almirón y Bravo. La nota aclara que las líneas sin rumbo anotado son de «rumbos generales».",
+   "referencias": [
+    [
+     "A",
+     "Mojón sobre el bañado del costado N, junto a una laguna; esquina de la faja de D. Carlos Colmenero"
+    ],
+    [
+     "Costado N",
+     "10.950 v; faja de D. Carlos Colmenero 4630 / 4650 × 540 v · al N D.ª Pascuala Bello y Don Mariano Lima"
+    ],
+    [
+     "Costado E",
+     "N corregido 12° 15′: 540 + 3185 + 2365 = 6090 v · Don José M. Echevarría"
+    ],
+    [
+     "Costado O",
+     "2350 · 865 v; línea 3250 N. E. aguja / 2385 · Molina, Frías"
+    ],
+    [
+     "Interior",
+     "Línea divisoria de 11.008 v (Colmenero / Acuña–Garzeti); «Camino de las guardias»"
+    ],
+    [
+     "Al S",
+     "Don Ceferino Acuña (N. O. aguja 7450 · 8370; 35° O.; 920) · Caballero · Fernández"
+    ],
+    [
+     "Cañada de los Toros",
+     "Con flecha de corriente; 4650 S 86° O aguja; Gómez Romero"
+    ],
+    [
+     "Al SE",
+     "D.ª Pascuala Romero · Aguirre (rectángulo) · Almirón · Bravo; línea N. 4[0]° O. magn.º [?]"
+    ],
+    [
+     "Meridiano",
+     "«Variación 13° 30′» entre N. aguja y N. corregido"
+    ],
+    [
+     "Nota",
+     "Las líneas que no llevan marcados con iniciales los rumbos a que han sido trazadas, se entiende haberlo sido a los generales"
+    ],
+    [
+     "Escala",
+     "Una y media legua (0-9000 varas)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: Colmenero, Acuña y Garzeti",
+   "img": "img/f/074/04.jpg",
+   "fuente": "IMG_7385.JPG",
+   "orientacion": "",
+   "interpretacion": "Toma cercana de la mitad N del plano: el bañado con el mojón A y la laguna, la faja de D. Carlos Colmenero, el Camino de las Guardias, las fracciones Acuña y Garzeti y la Cañada de los Toros.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: Pascuala Romero, Aguirre y la variación",
+   "img": "img/f/074/05.jpg",
+   "fuente": "IMG_7386.JPG",
+   "orientacion": "",
+   "interpretacion": "Toma cercana de la mitad S: Ceferino Acuña, Pascuala Romero, el rectángulo de Aguirre, una segunda cañada sombreada sin nombre, las flechas N. aguja / N. corregido con «Variación 13° 30′» y la escala de legua y media.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "El campo colmenero antes de dillon",
+   "texto": "La Ficha 054 es la mensura de Dillon (1869) del campo Colmenero, con un antecedente en la Sección Luján de 1826. Este duplicado es la mensura intermedia de Prat del 2 de enero de 1840 —el mismo año y agrimensor que la de Mariano Lima (055)—, y Mariano Lima figura aquí como lindero N. Echevarría (015) como lindero E es el que 054 y 055 compartían: queda confirmado que Lima, Colmenero y Echevarría forman un solo bloque."
+  },
+  {
+   "titulo": "Un puente entre el rincón so y la naciente del arroyo de giles",
+   "texto": "Los linderos del S —doña Pascuala Romero, Aguirre, Acuña, Frías— son los apellidos del bloque de la naciente del arroyo de Giles: Pascuala Romero de Monsalvo (003, Eguía 1838), la enfiteusis de Guillermo Aguirre (011, 1826), Fernando y Carmen Monsalvo de Acuña y los Frías (037, 065, 066). Si son los mismos, la segunda cañada sombreada sin nombre al pie del rectángulo de Aguirre podría ser la naciente del arroyo de Giles («punta de una especie de zanjón», 011) y la Cañada de los Toros un afluente: hipótesis a verificar en el plano del partido de 1890."
+  },
+  {
+   "titulo": "Paisaje y toponimia",
+   "texto": "El paraje se llama «Monte de los Gallegos»: un monte (arboleda plantada, probablemente de durazneros o talas) asociado a pobladores gallegos, en las «inmediaciones de la Guardia de Luján» (Mercedes). El plano dibuja el Camino de las Guardias (que une las guardias de Luján y de Areco), un bañado con laguna en el costado N, la Cañada de los Toros con flecha de corriente y una segunda cañada; las casas de Ceferino Acuña, Mana[…], Dominga Garzeti, Pedro Fernández y Narciso Mar[…] sirven de puntos de abalizamiento."
+  },
+  {
+   "titulo": "Declinación observada: 13° 30′",
+   "texto": "Prat anota «Variación 13° 30′» entre el norte de aguja y el corregido, y rotula cada rumbo como «aguja», «corregido» o «magnético». En 1838-1846 Eguía e Hidalgo usaban 15° convencional (008) y Prat 15° en 1846 (002); este 13° 30′ de 1840 es un valor intermedio entre los 14° 25′ observados por Lemoine en 1827 (013) y los ≈ 11-12° de la década de 1870. Es la cita más explícita del corpus de la operación de «corregir» la aguja."
+  },
+  {
+   "titulo": "Ritual: convenio de las partes",
+   "texto": "Al encontrar mojones de la mensura de Pascuala Romero que «representan sus» esquinas, el agrimensor no los mueve: «conviniéndose las partes» se dejan en su lugar. Es el mismo criterio que en 1858 el D. T. convierte en doctrina (respetar los amojonamientos existentes, 021-023). También: mojones «a cada cuarto de legua», mojón puesto «el día antes», bandera colocada para alinear."
+  },
+  {
+   "titulo": "Tenencia: garzeti, colmenero, acuña",
+   "texto": "La «señora Garzeti» / doña Dominga Garzeti (apellido italiano) es en 1840 propietaria con hijos; Ramón y Carlos Colmenero comparten el campo (faja de 540 v de D. Carlos); los Acuña son varios (Ceferino y otros). Garzeti es el apellido italiano más temprano del corpus."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Falta todo el texto salvo el final: título de Colmenero, superficie, nombres de la circular. ¿Doña «Mana[…]» es Manuela? ¿Narciso Mar[…] = Narciso Martínez (cf. Martínez–Garcete, 054)? ¿La Pascuala Romero de este plano es la de 003?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Ramón Colmenero · Carlos Colmenero",
+   "rol": "Propietarios",
+   "texto": "Dueños del campo del Monte de los Gallegos en 1840; el campo Colmenero se vuelve a medir en 1869 (Dillon, 054). Sin datos en la web.",
+   "fuentes": "Dup. 54, 74."
+  },
+  {
+   "nombre": "Raymundo Prat",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor de 1840-1846 en el corpus (Macome 1846, 002; Mariano Lima 1840, 055). Sin datos biográficos en la búsqueda web breve.",
+   "fuentes": "Fichas 002, 055."
+  },
+  {
+   "nombre": "Dominga Garzeti",
+   "rol": "Lindera",
+   "texto": "Propietaria con hijos al S del campo; casa usada como punto de visual. Apellido italiano.",
+   "fuentes": "Dup. 74."
+  },
+  {
+   "nombre": "Ceferino Acuña · Pastor Frías",
+   "rol": "Linderos",
+   "texto": "Acuña: casa y campo al S; familia de los Acuña de la naciente (037, 065). Frías: Pastor Frías, cuyos herederos lindan con Carmen Monsalvo de Acuña en 1873 (065).",
+   "fuentes": "Fichas 037, 065, 066."
+  },
+  {
+   "nombre": "Pascuala Romero · Aguirre",
+   "rol": "Linderos",
+   "texto": "Probablemente Pascuala Romero de Monsalvo (003, 1838) y la enfiteusis de Guillermo Aguirre (011, 1826).",
+   "fuentes": "Fichas 003, 011, 037."
+  },
+  {
+   "nombre": "Mariano Lima · Pascuala Bello · José M. Echevarría · Molina",
+   "rol": "Linderos",
+   "texto": "Lima: campo medido por Prat en 1840 (055). Echevarría: 015. Molina: cf. Petrona G. de Molina (053). Bello: primera aparición.",
+   "fuentes": "Fichas 015, 053, 055."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/074/02.jpg",
+  "fuente": "IMG_7383.JPG",
+  "lineas": [
+   "San Andres de Giles",
+   "N.^{o} ~~[..]~~ 152   74",
+   "[sobre la línea:] Lujan",
+   "Secc.^{n} ~~Areco~~",
+   "[a lápiz:] Duplicado de",
+   "Mensura del terreno",
+   "de propiedad de",
+   "D. Ramon Colmenero á las",
+   "inmediaciones de la Guardia de Lujan, paraje de-",
+   "nominado «Monte de los Gallegos»",
+   "practicada",
+   "por",
+   "El Agrimensor Prat",
+   "en",
+   "2 de Enero de 1840"
+  ]
+ },
+ "titulo": "Ramón Colmenero",
+ "estado": "Transcripta (1 hojas, 55 renglones), 3 láminas"
+}

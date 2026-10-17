@@ -1,0 +1,313 @@
+{
+ "carpeta": "72",
+ "carpeta_nombre": "Carpeta 72",
+ "archivo": "Ficha 072 - Estanislao Zacarelo (1876).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (margen E del arroyo de Giles, aguas abajo)",
+  "N.º de duplicado": "72 · Sección Areco N.º 27[8] [?]",
+  "Propietario / solicitante": "Estanislao Zacarelo",
+  "Agrimensor": "Pedro Pico",
+  "Año": "1876",
+  "Fecha de la diligencia": "9/11/1876; presentada 14/11; dictamen del Dpto. 17/11/1876",
+  "Ubicación": "Margen E del arroyo de Giles, entre Alen de Sosa y Scully",
+  "Orden judicial": "Juez de 1.ª Instancia (no fotografiada); dictamen del Dpto. de Ingenieros",
+  "Vendedor / antecesor": "No consta («documentos adjuntos» no fotografiados)",
+  "Linderos citados": "Dionicia Alen de Sosa (N) · Santiago Scully (E y S) · arroyo de Giles (O)",
+  "Medidas": "Trapecio: 3368 y 2400 m (N 50° 10′ O) × 1000 m; 2.776.396 m²",
+  "Rumbos": "S 53° 39′ O 1000 · N 50° 10′ O 3368 / 2400 · N 7° 25′ E 1150; var. N 10° 15′",
+  "Referencia de archivo": "Duplicado 72; portadilla «N.º 27[8] San A. de Giles 72, Sec.n Areco»"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 277,6 (2.776.396 m²)",
+  "hitos": "Azotea de Scully; casa de O'Donnell; ombú de G. Sosa; barranca",
+  "aguas": "Arroyo de Giles (frente O, con barranca)"
+ },
+ "sintesis": "Duplicado con texto casi completo (falta el encabezamiento y la circular). El 9 de noviembre de 1876 Pedro Pico mide para Estanislao Zacarelo un trapecio de 2.776.396 m² (164,53 cuadras cuadradas, ≈ 278 ha) con frente al arroyo de Giles: costados paralelos N 50° 10′ O de 3368 m (contra Dionicia Alen de Sosa) y 2400 m (contra Santiago Scully, «por los mojones que antes había puesto» para él), y cabecera de 1000 m S 53° 39′ O. Cada mojón se abaliza con visuales a la azotea de Scully, la casa de Nicolás O'Donnell y el ombú de Gerónima Sosa. Es la cuña que faltaba entre los dos campos de Scully (069, 071). El Departamento de Ingenieros (Lavalle, Kuhr, Moreno) la aprueba en tres días.",
+ "caratula": {
+  "img": "img/f/072/01.jpg",
+  "fuente": "IMG_3546.JPG",
+  "campos": [
+   [
+    "N.º",
+    "72"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Estanislao Zacarelo"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Pedro Pico"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "—"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Diligencia de mensura · arranque y costado de Alen de Sosa",
+   "img": "img/f/072/04.jpg",
+   "fuente": "IMG_3548.JPG (página izquierda)",
+   "nota": "Toma de doble página partida en dos. El acta empieza a mitad de frase («los nueve días…»): el encabezamiento (lugar) quedó en un folio anterior no fotografiado, o el copista omitió «En el Partido de Giles, a». Letra de copista clara y regular.",
+   "lineas": [
+    "los nueve — días del mes de Noviembre",
+    "de mil ochocientos setenta y seis, yo el",
+    "agrimensor que suscribe, comisionado",
+    "para medir el terreno que expresan los",
+    "documentos adjuntos, perteneciente á",
+    "Don Estanislao Zacarelo, previa la cita-",
+    "cion de linderos segun consta de la circu-",
+    "lar que se acompaña, tomé por punto",
+    "de arranque de la mensura el mojon letra",
+    "A del plano correspondiente desde el",
+    "cual se mira la azotea de D.^{n} Santiago",
+    "Scully al Sur nueve grados Oeste; la casa de",
+    "Don Nicolas O'Donnell al S. treinta y cuatro",
+    "grados diez minutos Oeste; y el ombú de la",
+    "casa de Doña Geronima Sosa, al Norte —",
+    "ochenta y siete grados treinta minutos",
+    "al Este. Desde este mojon puse el rumbo",
+    "Sur cincuenta y tres grados treinta y nue-",
+    "ve minutos al Oeste S. 53 39 O y medí mil",
+    "metros (1000) hasta el mojon C, deslin-",
+    "dando esta linea con Don Santiago —",
+    "Scully. Vuelto al punto A tomé el rum-",
+    "bo de los mojones que deslindan el terre-",
+    "no de Doña Dionicia Alen de Sosa con",
+    "el terreno de D.^{n} Santiago Scully y con",
+    "el terreno de Zacarelo, el cual resultó ser",
+    "Norte cincuenta grados diez minutos al",
+    "Oeste N. 50° 10′ O., y por este rumbo medí",
+    "tres mil trescientos sesenta y ocho metros",
+    "(3368^{m}) hasta el arroyo de Giles poniendo",
+    "un mojon á los mil metros, otro á los dos",
+    "mil y otro á los tres mil trescientos sesen-",
+    "ta y ocho en la barranca del arroyo; y",
+    "dejé una señal antes de llegar al arroyo",
+    "ochenta y ocho metros distante del mojon"
+   ],
+   "interpretacion": "Acta de la mensura, 9 de noviembre de 1876. Pedro Pico, comisionado para medir el terreno de Estanislao Zacarelo «que expresan los documentos adjuntos», cita a los linderos por circular y arranca del mojón A, que ABALIZA con tres visuales: la AZOTEA de Santiago Scully (S 9° O), la CASA de Nicolás O'Donnell (S 34° 10′ O) y el OMBÚ de la casa de Gerónima Sosa (N 87° 30′ E). Mide primero 1000 m al S 53° 39′ O hasta el mojón C, lindando con Scully; vuelve a A y sigue el rumbo de los mojones que separan a Dionicia Alen de Sosa de Scully y de Zacarelo (N 50° 10′ O) durante 3368 m hasta la barranca del arroyo de Giles, con mojones a los 1000, 2000 y 3368 m y una señal 88 m antes de la barranca."
+  },
+  {
+   "titulo": "Diligencia de mensura · costado de Scully, costa del arroyo y superficie",
+   "img": "img/f/072/05.jpg",
+   "fuente": "IMG_3548.JPG (página derecha, f. 2)",
+   "nota": "Folio 2 con sello circular del archivo. En el abalizamiento de C el copista escribió «Norte setenta y dos grados… al Este» y en cifras «N. 72° 25′ O»: contradicción (se transcribe tal cual, [sic]). La primera letra del renglón 2 parece una B, pero el plano y la lógica de la mensura piden C.",
+   "lineas": [
+    "de la barranca. Trasladado al punto",
+    "C [?] desde el que se mira la Azotea de Scully",
+    "al Sur ochenta y tres grados treinta y dos minu-",
+    "tos al Este S. 83° 32′ E; la casa de Don Nicolas",
+    "O'Donnell Sur veinte y siete grados quince",
+    "minutos Oeste S. 27° 15′ O, y el ombú de la po-",
+    "blacion de D.^{a} Geronima Sosa Norte seten-",
+    "ta y dos grados veinte y cinco minutos al Este",
+    "N. 72° 25′ O [sic], puse, desde dicho mojon, el rum-",
+    "bo Norte cincuenta grados diez minutos",
+    "al Oeste N. 50° 10′ O. y por los mojones que",
+    "antes habia puesto para Don Santiago",
+    "Scully, medí dos mil cuatrocientos me-",
+    "tros hasta el arroyo de Giles donde puse",
+    "el mojon D cuyo abalizamiento es el si-",
+    "guiente: Azotea de Scully Sur sesenta",
+    "grados veinte minutos al Este S. 60° 20′ E;",
+    "Ombú de D.^{a} Geronima Sosa Sur setenta",
+    "y seis grados treinta minutos al Este S. 76° 30′ E;",
+    "y la casa de O'Donnell Sur ocho grados al",
+    "Este S. 8° 00 E. Desde el mojon D puse el",
+    "rumbo Norte siete grados veinte y cinco mi-",
+    "nutos Este y medí mil ciento y cincuenta",
+    "metros hasta la señal que habia dejado",
+    "cerca del arroyo y mojon letra B; la distan-",
+    "cia anterior va orillando el arroyo hasta",
+    "los seiscientos cincuenta metros; y lle-",
+    "gando á dicha señal cerré la mensura.",
+    "La superficie encerrada dentro de los limites",
+    "medidos es igual á dos millones setecientos",
+    "setenta y seis mil trescientos noventa y seis",
+    "metros cuadrados (2776396 m.^{s} c.^{s}) que hacen",
+    "ciento sesenta y cuatro y cincuenta y tres",
+    "centecimos cuadras cuadradas —",
+    "(164.53 cuad.^{s} cuad.^{s})",
+    "Agustin J. [?] Rodriguez          Pedro Pico [rúbrica]",
+    "Ayudante [?]          [rúbrica]"
+   ],
+   "interpretacion": "Desde C (abalizado otra vez a la azotea de Scully, la casa de O'Donnell y el ombú de la población de Gerónima Sosa) Pico corre N 50° 10′ O «por los mojones que antes había puesto para Don Santiago Scully» 2400 m hasta el arroyo de Giles (mojón D, con su propio abalizamiento). De D sube por la costa N 7° 25′ E 1150 m hasta la señal B, «orillando el arroyo» los primeros 650 m, y cierra. Superficie: 2.776.396 m² = 164,53 cuadras cuadradas (≈ 277,6 ha). Firman Pedro Pico y Agustín J. [?] Rodríguez, al parecer como ayudante [?]. La frase sobre los mojones de Scully prueba que la mensura de 071 (otoño de 1876) es anterior y que su línea C-B es este costado D-C."
+  },
+  {
+   "titulo": "Presentación al Departamento de Ingenieros y dictamen",
+   "img": "img/f/072/06.jpg",
+   "fuente": "IMG_3549.JPG (página izquierda; la derecha está en blanco)",
+   "nota": "Dos manos: nota de presentación (cursiva rápida, firma subrayada de lectura dudosa) y dictamen con firma «Lavalle» y tres rúbricas de vocales.",
+   "lineas": [
+    "N[o]viembre 14/876.",
+    "Presentada en la fha al",
+    "Departam.^{to} de Ingenieros",
+    "Pos[…]i [?] [rúbrica]",
+    "Señor Juez de 1.^{a} Instancia",
+    "La operacion de",
+    "mensura practicada por el",
+    "Agrimensor D. Pedro Pico, en",
+    "el partido de Giles, para D.^{n}",
+    "Estanislao Zacarelo, está con-",
+    "forme con sus antecedentes y",
+    "puede ser aprobado por V. S.",
+    "Nob.^{re} 17/876 —",
+    "Lavalle",
+    "Encina [?]   Kuhr [rúbrica]   Moreno"
+   ],
+   "interpretacion": "El 14 de noviembre de 1876 —cinco días después de la mensura— la diligencia se presenta en el Departamento de Ingenieros; el 17 el Departamento informa al Juez de 1.ª Instancia que la operación «está conforme con sus antecedentes y puede ser aprobada». Firma Lavalle (el mismo del «agréguese» de 070 y del visto bueno de 067) con Encina [?], KUHR —el agrimensor German Kuhr de la Ficha 020 (1856), ahora vocal— y Moreno. Es el trámite más rápido del corpus: ocho días entre el campo y el dictamen."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Estanislao Zacarelo (Pico, noviembre de 1876)",
+   "img": "img/f/072/03.jpg",
+   "fuente": "IMG_3550.JPG",
+   "orientacion": "Plano apaisado, campo en verde agua, linderos en cursiva caligráfica, escala transversal de metros (0-2500), firma de Pedro Pico con rúbrica; flecha del meridiano en diagonal.",
+   "interpretacion": "Trapecio A-C-D-B: los dos costados largos son paralelos (N 50° 10′ O), de 3368 m (A-B, contra Dionicia Alen de Sosa) y 2400 m (C-D, contra Santiago Scully); el costado corto A-C (S 53° 39′ O 1000 m) también contra Scully, y el frente B-D sobre la costa del arroyo de Giles (S 7° 25′ O 1150 m), con la señal a 3280 m. Ángulos a lápiz en A (76° [?]) y en C (1[03]° [?]). La línea de trazos que cruza A en diagonal es la prolongación de un deslinde antiguo hacia el NE (¿la línea de Alen de Sosa–Scully de 069?).",
+   "referencias": [
+    [
+     "A",
+     "Mojón de arranque; visuales a la azotea de Scully (S 9° O), casa de O'Donnell (S 34° 10′ O), ombú de Gerónima Sosa (N 87° 30′ E)"
+    ],
+    [
+     "A-C",
+     "S 53° 39′ O 1000 m · Santiago Scully"
+    ],
+    [
+     "A-B",
+     "N 50° 10′ O 3368 m (mojones a 1000, 2000, 3280 = señal, 3368 = barranca) · Dionicia Alen de Sosa"
+    ],
+    [
+     "C-D",
+     "N 50° 10′ O 2400 m (mojón a 1000) · Santiago Scully (mojones de 071)"
+    ],
+    [
+     "D-B",
+     "S 7° 25′ O 1150 m (en el texto N 7° 25′ E) · arroyo de Giles; 650 m orillando la costa"
+    ],
+    [
+     "Superficie",
+     "2.776.396 m² = 164,53 cuadras cuadradas (≈ 277,6 ha)"
+    ],
+    [
+     "Meridiano",
+     "N. 10° 15′"
+    ],
+    [
+     "Escala",
+     "Transversal de metros, 0-2500"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "La pieza que faltaba entre los dos campos de scully",
+   "texto": "El campo de Zacarelo encaja exactamente en el plano de 071: allí el costado C-B (N 50° 10′ O, 2400 m) era el lindero con «Estanislao Zacarelo», y el A-B (S 53° 39′ O) es este A-C de 1000 m. En 071 se leyó «4000 [?]»: debe ser 1000. Zacarelo queda así como una cuña de ≈ 278 ha entre Dionicia Alen de Sosa (N), el campo grande de Scully (069) y el segundo campo de Scully (071), con frente al arroyo de Giles. Con 069, 071 y 072, Pico mide en un año (dic. 1875-nov. 1876) todo el bloque de la desembocadura."
+  },
+  {
+   "titulo": "Abalizar: el ritual de las tres visuales",
+   "texto": "Cada mojón importante (A, C, D) se «abaliza» con tres rumbos a objetos visibles del paisaje: la AZOTEA de Scully (casa de techo plano, signo de estancia moderna), la CASA de Nicolás O'Donnell (la vieja Posta de Figueroa, 043) y el OMBÚ de la casa/población de Gerónima Sosa. Es la técnica de visuales de Gonnet (032) y Meyrelles (043-044) aplicada a un predio chico: tres rumbos por mojón permiten reponerlo por intersección si se pierde. En GIS: con la ubicación de la casa de O'Donnell (043) y la de Scully (069) se puede triangular A, C y D."
+  },
+  {
+   "titulo": "Paisaje: azoteas, ombúes y barranca",
+   "texto": "Tres hitos y tres tipos de vivienda: azotea (Scully), casa (O'Donnell), población con ombú (Gerónima Sosa). El arroyo de Giles tiene «barranca»: el último mojón se pone en ella y la señal se deja 88 m antes, señal de que el bajo era inundable o la orilla inestable. El frente no sigue la costa sino una recta (N 7° 25′ E) que «va orillando el arroyo» sólo en sus primeros 650 m."
+  },
+  {
+   "titulo": "Mojones heredados y orden de las mensuras",
+   "texto": "Pico corre el costado de Scully «por los mojones que antes había puesto para Don Santiago Scully»: el mismo agrimensor reutiliza su propia red (como en 1860-63, Fichas 026-031). Confirma que la 071 es anterior (su mes, leído [octubre] [?], podría ser anterior) y que el «A» de 072 está sobre la línea de Alen de Sosa que también limita 069."
+  },
+  {
+   "titulo": "Técnica, unidades y declinación",
+   "texto": "Todo en metros con rumbos al minuto; superficie en m² y en cuadras cuadradas (164,53 × 16.874 m² = 2.776.300 m²: exacto), igual que en 071. Variación N 10° 15′, idéntica a 071 y 9′ menor que la de 069 (10° 24′ E, dic. 1875): Pico usa el mismo valor en todo 1876."
+  },
+  {
+   "titulo": "El departamento de ingenieros en 1876",
+   "texto": "Presentada el 14/11, informada el 17/11: tres días. Firman Lavalle (presidente o secretario, cf. 067 y 070), Encina [?], Kuhr y Moreno. German Kuhr, agrimensor de los fajas Morgan en 1856 (020) y revisor en el D. T. de 1865 (033), sigue en el Departamento veinte años después. La fórmula «conforme con sus antecedentes» resume la doctrina: la mensura vale si encaja con las vecinas."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Cómo adquirió Zacarelo (Zaccarello, apellido ligur) el terreno: de Dionicia Alen de Sosa, de Gerónima Sosa o de Scully? ¿Es pariente de la «Gerónima Sosa de Sacarra [?]» de 069 (¿Sosa de Zacarelo?)? ¿Quién es Agustín J. [?] Rodríguez? Faltan el encabezamiento del acta, la circular de citación y los «documentos adjuntos»."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Estanislao Zacarelo",
+   "rol": "Propietario",
+   "texto": "Propietario de ≈ 278 ha sobre el arroyo de Giles en 1876; lindero de Scully en 071. Apellido de origen italiano (Zaccarello/Sacarello). Sin datos en la búsqueda web breve (10/2026).",
+   "fuentes": "Dup. 71 y 72."
+  },
+  {
+   "nombre": "Pedro Pico",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor público, ex vocal del Departamento Topográfico (1852-58); en Giles mide 1860-63 (026-031) y 1875-76 (069, 071, 072).",
+   "fuentes": "Fichas 007, 026-031, 069, 071."
+  },
+  {
+   "nombre": "Agustín J. [?] Rodríguez",
+   "rol": "Ayudante [?]",
+   "texto": "Firma con Pico al pie de la diligencia. Sin otros datos.",
+   "fuentes": "Dup. 72, f. 2."
+  },
+  {
+   "nombre": "Lavalle · Encina [?] · German Kuhr · Moreno",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firmantes del dictamen del 17/11/1876. Lavalle ya firma en 067 y 070. Kuhr es el agrimensor de 1856 (020). Moreno aparece en el D. T. desde 1859. Encina: lectura dudosa.",
+   "fuentes": "Dup. 72; Fichas 020, 067, 070."
+  },
+  {
+   "nombre": "Santiago Scully · Dionicia Alen de Sosa",
+   "rol": "Linderos",
+   "texto": "Scully: irlandés, dos campos medidos por Pico (069, 071) con casa de azotea. Alen de Sosa: propietaria desde 1858 (021).",
+   "fuentes": "Fichas 021, 069, 071."
+  },
+  {
+   "nombre": "Nicolás O'Donnell · Gerónima Sosa",
+   "rol": "Hitos de visual",
+   "texto": "La casa de O'Donnell (ex Figueroa de la Posta, 043, 062) y el ombú de la población de Gerónima Sosa (021, 069) sirven de puntos de abalizamiento.",
+   "fuentes": "Fichas 021, 043, 062, 069."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/072/02.jpg",
+  "fuente": "IMG_3547.JPG",
+  "lineas": [
+   "N.^{o} 27[8] [?]  San A. de Giles   72",
+   "Secc.^{n} Areco.",
+   "Estanislao Zacarelo",
+   "Partido de",
+   "Giles —",
+   "1876"
+  ]
+ },
+ "titulo": "Estanislao Zacarelo",
+ "estado": "Transcripta (3 hojas, 87 renglones), 1 lámina"
+}

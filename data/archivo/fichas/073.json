@@ -1,0 +1,229 @@
+{
+ "carpeta": "73",
+ "carpeta_nombre": "Carpeta 73",
+ "archivo": "Ficha 073 - Pedro Pablo Quevedo (1865).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (cuadrado de Tadeo Rodríguez, al SE de la línea de Vivar)",
+  "N.º de duplicado": "73 · Sección Luján N.º 182",
+  "Propietario / solicitante": "Pedro Pablo Quevedo",
+  "Agrimensor": "José M.ª Muñiz",
+  "Año": "1865",
+  "Fecha de la diligencia": "Abril de 1865 (carátula, portadilla y plano)",
+  "Ubicación": "Faja entre la Cañada del Sauce y la Cañada de la Cruz",
+  "Orden judicial": "No fotografiada (falta todo el texto)",
+  "Vendedor / antecesor": "No consta (herencia Quevedo, cf. 049-051)",
+  "Linderos citados": "Manuela Quevedo (N) · Pablo Rodríguez (S) · J. J. Sosa hoy L. Torres (O) · Valladares y Cano (E)",
+  "Medidas": "Faja de 433 m × 6883,39 / 6890 m (≈ 298 ha)",
+  "Rumbos": "S 30° 54′ O 6883,39 · N 30° 54′ O 6890 · frente N 59° 6′ E 433 · fondo S 58° 15′ O 433",
+  "Referencia de archivo": "Duplicado 73; lápiz «Véase dup.º 87»"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 298 (433 × 6886 m)",
+  "hitos": "Población «El Tala»; puesto; mojón de arranque",
+  "aguas": "Cañada del Sauce (frente) · Cañada de la Cruz (fondo)"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron carátula, portadilla y plano. En abril de 1865 José M.ª Muñiz mide la faja de Pedro Pablo Quevedo: 433 m (500 v) de frente sobre la Cañada del Sauce por ≈ 6886 m de largo al S 30° 54′ O, entre Manuela Quevedo y Pablo Rodríguez, hasta más allá de la Cañada de la Cruz, contra Valladares y Cano; enfrente, J. J. Sosa «hoy L. Torres». Sobre el costado N, la población «El Tala»; sobre el S, un puesto. Es la faja que las Fichas 049-051 daban sólo como lindero, y el primer plano de la serie que dibuja juntas las cañadas del Sauce y de la Cruz. Lápiz: «Véase dup.º 87».",
+ "caratula": {
+  "img": "img/f/073/01.jpg",
+  "fuente": "IMG_7377.JPG",
+  "campos": [
+   [
+    "N.º",
+    "73"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Pedro Pablo Quevedo"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "José M. Muñiz"
+   ],
+   [
+    "Mes",
+    "Abril"
+   ],
+   [
+    "Año",
+    "1865"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Muñiz",
+   "img": "img/f/073/03.jpg",
+   "fuente": "IMG_7379.JPG (y detalles IMG_7380-7381)",
+   "nota": "Sólo se fotografiaron carátula, portadilla y plano; bajo la portadilla se transparenta el texto de la diligencia, que no se fotografió. Cifras del costado S escritas al revés; progresivas a lápiz junto a algunas en tinta.",
+   "lineas": [
+    "[al N, de molde:] MANUELA QUEVEDO",
+    "[costado N:] S. 30° 54′ O   6883,39   ·   (6883,39)",
+    "[mojones del costado N:] 1732 · 3270 · 5179 [junto a una población dibujada:] El Tala",
+    "[en la faja, de molde:] PEDRO PABLO QUEVEDO",
+    "[costado S, al revés:] N. 30° 54′ O   6890   ·   (6890)",
+    "[mojones del costado S:] 5128 [lápiz 5138] · Puesto · 3620 · 1171",
+    "[al S, de molde:] PABLO RODRIGUEZ",
+    "[frente O:] N. 59° 6′ E. 433   ·   Arranque   ·   Cañ.^{a} del Sauce",
+    "[al O, del otro lado de la cañada:] J. J. Sosa (hoy L. Torres)",
+    "[flecha del meridiano, con arco:] 30° 54′   ·   S   [lápiz:] 59° 6′ [?]",
+    "[fondo E:] S. 58° 15′ O. 433",
+    "[cerca del fondo:] Cañada de la Cruz",
+    "[al E:] Valladares y Cano",
+    "Escala de 3000 metros [0 · 500 · 1000 · 1500 · 2000 · 2500 · 3000]",
+    "Abril de 1865   José M.^{a} Muñiz [rúbrica]"
+   ],
+   "interpretacion": "Plano de la faja de Pedro Pablo Quevedo: 433 m de frente (500 varas) por ≈ 6886 m de largo, rumbo S 30° 54′ O / N 30° 54′ O, entre Manuela Quevedo al N y Pablo Rodríguez al S. El frente (N 59° 6′ E, con el mojón de «arranque» en su extremo S) está sobre la CAÑADA DEL SAUCE, frente al campo de J. J. Sosa «hoy L. Torres»; el fondo (S 58° 15′ O) cae después de cruzar la CAÑADA DE LA CRUZ, contra Valladares y Cano. Sobre el costado N, a los 5179 m, la población «EL TALA»; sobre el S, a 5128 m del fondo, un «Puesto»."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Pedro Pablo Quevedo (Muñiz, abril de 1865)",
+   "img": "img/f/073/03.jpg",
+   "fuente": "IMG_7379.JPG",
+   "orientacion": "Plano apaisado en dos hojas unidas; faja coloreada en verde; linderos de molde con sombra; escala de 3000 m; firma «Abril de 1865 · José M.ª Muñiz»; sello de foliatura «8».",
+   "interpretacion": "La faja es la cuarta de las de Muñiz de 1865 (049-051): S 30° 54′ E de largo, 433 m de ancho, como las de Felipa, Faustina y Manuela Quevedo y las de P. P. Rodríguez, Silva y P. A. Quevedo. Completa la serie: Manuela Quevedo 606,2 · PEDRO PABLO QUEVEDO 433 · [Piedra] · Pedro Pablo Rodríguez 390.",
+   "referencias": [
+    [
+     "Frente O",
+     "N 59° 6′ E 433 m sobre la Cañada del Sauce; mojón de arranque en el ángulo SO"
+    ],
+    [
+     "Costado N",
+     "S 30° 54′ O 6883,39 m · Manuela Quevedo; mojones 1732, 3270, 5179"
+    ],
+    [
+     "Costado S",
+     "N 30° 54′ O 6890 m · Pablo Rodríguez; mojones 1171, 3620, 5128"
+    ],
+    [
+     "Fondo E",
+     "S 58° 15′ O 433 m · Valladares y Cano"
+    ],
+    [
+     "Enfrente",
+     "J. J. Sosa (hoy L. Torres), al O de la Cañada del Sauce"
+    ],
+    [
+     "Aguas",
+     "Cañada del Sauce (frente) y Cañada de la Cruz (cerca del fondo, con su brazo)"
+    ],
+    [
+     "Poblaciones",
+     "«El Tala» (casa dibujada, costado N, 5179 m) · Puesto (costado S)"
+    ],
+    [
+     "Meridiano",
+     "Arco de 30° 54′ entre el costado y la flecha S"
+    ],
+    [
+     "Escala",
+     "3000 metros"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: fondo, El Tala y Cañada de la Cruz",
+   "img": "img/f/073/04.jpg",
+   "fuente": "IMG_7380.JPG",
+   "orientacion": "",
+   "interpretacion": "Toma cercana del tercio E: la población «El Tala» sobre el costado N, el mojón 1171 del costado S, la Cañada de la Cruz que cruza la faja en diagonal con un brazo hacia el S, y el fondo S 58° 15′ O 433 con la línea de trazos del lindero Valladares y Cano.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: frente sobre la Cañada del Sauce",
+   "img": "img/f/073/05.jpg",
+   "fuente": "IMG_7381.JPG",
+   "orientacion": "",
+   "interpretacion": "Toma cercana del frente O: la Cañada del Sauce, el mojón de «arranque», el rumbo N 59° 6′ E 433 y la flecha del meridiano con el arco de 30° 54′; al otro lado, «J. J. Sosa (hoy L. Torres)».",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "La faja que faltaba de la serie muñiz",
+   "texto": "Las Fichas 049-051 daban, por linderos, la faja de Pedro Pablo Quevedo (433 m) entre Manuela Quevedo y la «Piedra» de la Cañada del Sauce; acá está su plano propio. Mismo mes (abril de 1865), mismos rumbos (S 30° 54′ E de largo, frente N 59° 6′ E, fondo S 58° 15′ O) y largos del mismo orden (6883-6890 m frente a 6866-6909 de las vecinas). Con 049-051 y 073 quedan dibujadas con plano propio cinco de las nueve fajas Quevedo/Rodríguez/Silva del cuadrado de Tadeo Rodríguez."
+  },
+  {
+   "titulo": "Del sauce a la cruz",
+   "texto": "Por primera vez en la serie el plano muestra las DOS cañadas: la del Sauce en el frente y la de la Cruz cerca del fondo, cruzando la faja en diagonal. Confirma la definición de 047 (diez fajas entre la Cañada del Sauce y la de la Cruz) y da un punto de cruce de la Cañada de la Cruz a ≈ 6300-6500 m del frente: control GIS del curso."
+  },
+  {
+   "titulo": "Paisaje: el tala",
+   "texto": "La población con nombre propio «El Tala» —por el árbol nativo (Celtis tala), típico de los montes de la barranca— sobre el costado N, a 5179 m del frente, y un puesto sobre el S. Es el primer topónimo-árbol de esta zona; se suma al «ombú de Noriega» (039), los «ombúes de D.ª Carmen Benites» (040) y el «paraíso de D. Enrique Rodríguez» (036)."
+  },
+  {
+   "titulo": "Linderos de cabecera",
+   "texto": "Al O, «J. J. Sosa (hoy L. Torres)»: el campo de José Santiago/J. J. Sosa que compró Lorenzo Torres (Santa Elena, 044). Al E, «Valladares y Cano»: los Cano (Francisco Cano / Josefa N. de Cano) que 049-051 ponen al SE; Valladares aparece también en el campo Colmenero (054). La lápiz «Véase dup.º 87» remite a otro duplicado de la serie, ya citado entre las remisiones del plano de Differt (047)."
+  },
+  {
+   "titulo": "Declinación y técnica",
+   "texto": "No hay valor de variación explícito: la flecha marca sólo el ángulo de 30° 54′ entre el costado y el meridiano. Muñiz mide en metros con mojones intermedios cada ≈ 1500-1700 m y dobla las cifras entre paréntesis (comprobación de la cadena)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Falta el texto: título de Pedro Pablo Quevedo (¿hijuela de la herencia Quevedo?), si hubo protesta y quiénes asistieron. ¿Qué es el duplicado 87? ¿«El Tala» era la población del propio Quevedo o de un puestero?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Pedro Pablo Quevedo",
+   "rol": "Propietario",
+   "texto": "Uno de los Quevedo del cuadrado de Tadeo Rodríguez (con Felipa, Faustina, Manuela y Pedro Antonio, 049-051). Sin datos en la web.",
+   "fuentes": "Dup. 49-51, 73."
+  },
+  {
+   "nombre": "José M.ª Muñiz",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor de las fajas del Sauce en marzo-mayo de 1865 (048-051) y del sobrante Galeano (034). Sin datos biográficos en la web.",
+   "fuentes": "Fichas 034, 048-051."
+  },
+  {
+   "nombre": "Manuela Quevedo · Pablo Rodríguez",
+   "rol": "Linderos",
+   "texto": "Manuela: faja de 606,2 m (049-051). Pablo Rodríguez: el Pedro Pablo Rodríguez de 390 m del otro lado de la «Piedra».",
+   "fuentes": "Fichas 049-051."
+  },
+  {
+   "nombre": "J. J. Sosa (hoy L. Torres) · Valladares y Cano",
+   "rol": "Linderos de cabecera",
+   "texto": "Sosa / Lorenzo Torres: Santa Elena (044). Valladares y Cano: lindero SE de la serie (049-051); Valladares también en 054.",
+   "fuentes": "Fichas 044, 049-051, 054."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/073/02.jpg",
+  "fuente": "IMG_7378.JPG",
+  "lineas": [
+   "Secc.^{n} Lujan   Giles",
+   "N.^{o} 182   73",
+   "Duplicado de la mensura del terreno perte-",
+   "neciente á D. Pedro Pablo Quevedo, en el Par-",
+   "tido de Giles",
+   "practicada en Abril de 1865",
+   "por el Agrimensor Muñiz",
+   "[a lápiz:] Véase dup.^{o} 87"
+  ]
+ },
+ "titulo": "Pedro Pablo Quevedo",
+ "estado": "Transcripta (1 hojas, 15 renglones), 3 láminas"
+}

@@ -1,0 +1,256 @@
+{
+ "carpeta": "75",
+ "carpeta_nombre": "Carpeta 75",
+ "archivo": "Ficha 075 - Dominga Garzete de Martínez (1862).docx",
+ "resumen": {
+  "Partido": "Villa de Mercedes (hoy rincón SO de San Andrés de Giles)",
+  "N.º de duplicado": "75 · Sección Luján N.º 13[9] [?]",
+  "Propietario / solicitante": "Her. de Dominga Garzete de Martínez",
+  "Agrimensor": "Pedro Saubidet",
+  "Año": "1862",
+  "Fecha de la diligencia": "Agosto de 1862 (portadilla y plano)",
+  "Ubicación": "Entre los Colmenero, Pastor Frías, Monsalvo y Echevarría",
+  "Orden judicial": "No fotografiada (falta todo el texto)",
+  "Vendedor / antecesor": "Herencia de Dominga Garzete (la «señora Garzeti» de 1840, Ficha 074)",
+  "Linderos citados": "Colmenero · P. Frías · Molina · Monsalvo · M. Gaete hoy Acuña y Agüero [?] · Echevarría",
+  "Medidas": "S 47° 40′ E 11.240 v = 9733,8 m · 7637 v = 6613,6 m · 2512 v = 2175,3 m",
+  "Rumbos": "S 47° 40′ E · N 5[3]° 10′ O [?] · N 36° 4′ E [?]; «Norte verdadero 10° 3[5]′»",
+  "Referencia de archivo": "Duplicado 75; lápiz «153 7118 [?]»"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 2500 [?] (no consta; estimada de los costados)",
+  "hitos": "Mojón de arranque; mojón divisorio; poblaciones; Monte de Ávila",
+  "aguas": "Dos arroyos sin nombre; lagunas"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron carátula, portadilla y plano. En agosto de 1862 Pedro Saubidet mide en el partido de la Villa de Mercedes el campo de los herederos de Dominga Garzete de Martínez: un polígono con costado S de 11.240 varas (9733,8 m, S 47° 40′ E) contra los herederos de Ramón Colmenero, costado N de 7637 varas, costado E contra los herederos de Pastor Frías y escotadura al NO contra Monsalvo. Adentro, las poblaciones de Narciso Martínez y Josefa Díaz de Martínez; al S, el Monte de Ávila y los sobrantes de Saturnino Unzué. Es la «señora Garzeti» del plano de Prat de 1840 (074) y la «Martínez–Garcete» de Dillon (054): tres mensuras del mismo bloque SO.",
+ "caratula": {
+  "img": "img/f/075/01.jpg",
+  "fuente": "IMG_7387.JPG",
+  "campos": [
+   [
+    "N.º",
+    "75"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Dominga Garzete de Martinez"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Saubidet"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1862"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Saubidet",
+   "img": "img/f/075/04.jpg",
+   "fuente": "IMG_7389.JPG, IMG_7390 e IMG_7391",
+   "nota": "Sólo se fotografiaron carátula, portadilla y plano; a la izquierda de IMG_7389 asoma el último folio de texto, ilegible (tinta muy desvaída). Las cifras de los costados son diminutas y varias están escritas al revés: los rumbos del costado N y del E son de lectura dudosa; las longitudes se verifican por la conversión varas → metros.",
+   "lineas": [
+    "Plano Topografico",
+    "del terreno de la propiedad de los herederos",
+    "de D.^{a} Dominga Garzete de Martinez",
+    "situado en el Partido de la Villa de Mercedes",
+    "Medido en el mes de Agosto de 1862.",
+    "Por Pedro Saubidet",
+    "[en el campo:] Herederos de Doña Dominga Garzete de Martinez",
+    "[poblaciones:] Narciso Martinez · D.^{a} Josefa Diaz de Martinez · Perez · Monsalvo · Castro",
+    "[costado S:] S. 47° 40′ E. = 11240 v.^{s} = 9733,8 m.^{s}",
+    "[costado N, al revés:] N. [5]3° 10′ O. [?] = 7637 v.^{s} = 6613,6 m.^{s}",
+    "[costado NO, al revés:] N. [..]° [..]′ O. = 47[..] v.^{s} = 4113,8 m.^{s} [?]",
+    "[costado E:] N. 36° 4′ E. [?] = 2512 v.^{s} = 2175,3 m.^{s}   ·   [tramo bajo:] 820 v.^{s} = 710,1 m.^{s}",
+    "Moj.^{n} divisorio   ·   Mojon de Arranque",
+    "[flecha:] Norte verdadero 10° 3[5]′ [?]",
+    "[al N:] D.^{a} Maria Gaete [?] hoy Acuña y Agüero [?]",
+    "[al NO:] Don [Bernardo] [?] Monsalvo   ·   Comprado por Monsalvo y Bernal á D. Jose Maria Echeverria",
+    "[al E:] Herederos de Don Pastor Frias   ·   Herederos de Molina   ·   N.^{o} Cornejo [?]",
+    "[al S:] Herederos de Don Ramon Colmeneros   ·   [población:] Monte de Avila",
+    "[más al S:] Sobrante solicitado en compra por D. Saturnino Unzué é hijos",
+    "Sobrante comprado por D. Saturnino Unzué é hijos   ·   Don Saturnino Unzué é hijos",
+    "[al SO:] Don Jose Maria Echeverria   ·   Bernal   ·   Herederos de Don Mariano Lima",
+    "Escala de [3000] varas   ·   Escala de [3000] metros"
+   ],
+   "interpretacion": "Plano topográfico del campo de los herederos de Dominga Garzete de Martínez, en el partido de la Villa de Mercedes, medido por Pedro Saubidet en agosto de 1862. Es un polígono irregular con una escotadura en V al NO: costado S de 11.240 varas (9733,8 m) al S 47° 40′ E contra los herederos de Ramón Colmenero; costado N de 7637 varas contra María Gaete [?] «hoy Acuña y Agüero»; costado E de 2512 + 820 varas contra los herederos de Pastor Frías, con el mojón divisorio y el MOJÓN DE ARRANQUE; al NO, Monsalvo y lo «comprado por Monsalvo y Bernal a D. José María Echeverría». Dentro, las poblaciones de Narciso Martínez, Josefa Díaz de Martínez, Pérez y Monsalvo; dos arroyos sin nombre cruzan los costados N y E y hay lagunas sobre el costado S. Al S, del otro lado del campo Colmenero, los sobrantes comprado y solicitado por Saturnino Unzué e hijos y los herederos de Mariano Lima."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano topográfico de los her. de Dominga Garzete de Martínez (Saubidet, 1862)",
+   "img": "img/f/075/03.jpg",
+   "fuente": "IMG_7389.JPG",
+   "orientacion": "Plano grande plegado, con doble filete; polígono en carmín, arroyos y lagunas en azul, linderos en cursiva; dos escalas transversales (varas y metros); título en el ángulo superior derecho con firma de Pedro Saubidet; flecha «Norte verdadero».",
+   "interpretacion": "La lámina completa muestra el contexto: arriba el campo Garzete–Martínez, en el medio el de los herederos de Ramón Colmenero (con el «Monte de Ávila»), abajo la franja de los sobrantes de Unzué y los herederos de Mariano Lima; a la izquierda Echeverría y Bernal; a la derecha Pastor Frías y Molina. Es el mismo vecindario que Prat dibujó en 1840 (074) y Dillon en 1869 (054), visto desde el N.",
+   "referencias": [
+    [
+     "Costado S",
+     "S 47° 40′ E 11.240 v = 9733,8 m · her. de Ramón Colmenero"
+    ],
+    [
+     "Costado N",
+     "N [5]3° 10′ O [?] 7637 v = 6613,6 m · D.ª María Gaete [?] hoy Acuña y Agüero [?]"
+    ],
+    [
+     "Escotadura NO",
+     "Dos tramos en V contra Monsalvo; uno de ≈ 4113,8 m [?]"
+    ],
+    [
+     "Costado E",
+     "N 36° 4′ E [?] 2512 v = 2175,3 m + 820 v = 710,1 m · her. de Pastor Frías; mojón divisorio y mojón de arranque"
+    ],
+    [
+     "Poblaciones",
+     "Narciso Martínez · Josefa Díaz de Martínez · Pérez · Monsalvo · Castro (afuera, junto al arranque) · Monte de Ávila (en lo de Colmenero)"
+    ],
+    [
+     "Aguas",
+     "Dos arroyos sin nombre (uno con el rótulo «Arroy.»), lagunas sobre el costado S y en el sobrante de Unzué"
+    ],
+    [
+     "Sobrantes",
+     "Comprado y solicitado en compra por D. Saturnino Unzué é hijos"
+    ],
+    [
+     "Meridiano",
+     "Norte verdadero 10° 3[5]′ [?]"
+    ],
+    [
+     "Escalas",
+     "Varas y metros (transversales)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: el campo Garzete–Martínez",
+   "img": "img/f/075/04.jpg",
+   "fuente": "IMG_7390.JPG",
+   "orientacion": "",
+   "interpretacion": "Toma cercana del polígono con los rótulos de las poblaciones, los arroyos, el costado S de 11.240 varas, el campo Colmenero con el Monte de Ávila y los sobrantes de Unzué.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: título, costado E y mojón de arranque",
+   "img": "img/f/075/05.jpg",
+   "fuente": "IMG_7391.JPG",
+   "orientacion": "",
+   "interpretacion": "Toma cercana del ángulo E: título del plano con la firma de Pedro Saubidet, el costado E con el mojón divisorio y el mojón de arranque, la flecha del norte verdadero, los herederos de Pastor Frías y de Molina.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "La señora garzeti de 1840, muerta en 1862",
+   "texto": "En el plano de Prat de 1840 (074), al S del campo de Ramón Colmenero, figuraban «la señora Garzeti», «doña Dominga Garzeti» y sus «hijos», y la casa de un «Narciso Mar[…]». Veintidós años después Saubidet mide el campo de los HEREDEROS DE DOMINGA GARZETE DE MARTÍNEZ, con la población de Narciso Martínez adentro y los herederos de Ramón Colmenero como lindero S: es la misma familia y el mismo campo. Garzete (Garzeti/Garcete) de Martínez es además la «Martínez–Garcete» que Dillon pone como lindera del campo Colmenero en 1869 (054)."
+  },
+  {
+   "titulo": "Un bloque, tres mensuras: 1840, 1862, 1869",
+   "texto": "Prat (1840, 074), Saubidet (1862, 075) y Dillon (1869, 054) miden el mismo vecindario. El costado común Colmenero/Garzete mide aquí 9733,8 m al S 47° 40′ E; Dillon da para el campo Colmenero costados de 9816,8 m (N 47° 25′ O) y 9752,1 m (S 47° 25′ E): la misma línea con 15′ de diferencia en el rumbo. Prat le daba 10.950 varas (9483 m). Superponer las tres en GIS da el error de cada época."
+  },
+  {
+   "titulo": "Del partido de mercedes al de giles",
+   "texto": "La portadilla dice «Partido de la Villa de Mercedes» y la carpeta está en el archivo de Giles: este rincón SO pasó de Mercedes (Sección Luján) a San Andrés de Giles, como el campo de Mariano Lima (055) y el de Colmenero (054, 074). Los linderos —Echevarría, Lima, Unzué, Molina, Frías, Monsalvo, Acuña— son los del bloque SO."
+  },
+  {
+   "titulo": "Paisaje: montes, arroyos, lagunas",
+   "texto": "El «Monte de Ávila» (con edificio dibujado) en el campo Colmenero recuerda a los Ávila de la Torre de 054 y repite el tipo de topónimo del «Monte de los Gallegos» de 1840: los montes de frutales o talas como marcas de las poblaciones. Dos arroyos sin nombre corren hacia el N (cabeceras de cursos que van al Luján o al Areco) y hay lagunas sobre el costado S."
+  },
+  {
+   "titulo": "Sobrantes: unzué",
+   "texto": "Al S del campo Colmenero, Saturnino Unzué e hijos tienen un sobrante «comprado» y otro «solicitado en compra»: el ciclo de las sobras (033-040) empieza aquí antes de 1864. Es el sobrante de 1840 entre Lima y Colmenero (055) que METODO registra como «→ Unzué»."
+  },
+  {
+   "titulo": "Técnica y declinación",
+   "texto": "Saubidet da cada costado en varas y en metros (11.240 v = 9733,8 m: exacto a 0,866), dos escalas y el «Norte verdadero» con una variación de ≈ 10° 3[5]′ [?]. Es su mensura más temprana en el corpus: en 1856 era ayudante de Kuhr (020) y se lo conocía como agrimensor público desde 1863-65 (028)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Falta todo el texto: ¿quiénes eran los herederos y cómo se dividió el campo? ¿«D.ª María Gaete» o «Garzete»? ¿«Acuña y Agüero» son el Gregorio Acuña y el José Agüero de 065? ¿Qué remiten los números a lápiz «153 7118» de la portadilla?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Dominga Garzete (Garzeti) de Martínez",
+   "rol": "Propietaria (†)",
+   "texto": "Viva en 1840 como «señora Garzeti» con hijos (074); sus herederos hacen medir en 1862. Apellido de origen italiano. Sin datos en la web.",
+   "fuentes": "Dup. 74, 75; Ficha 054."
+  },
+  {
+   "nombre": "Pedro Saubidet",
+   "rol": "Agrimensor",
+   "texto": "Ayudante de German Kuhr en 1856 (020); agrimensor público con mensuras en Giles en 1862 (075), 1865 (028) y 1870 (059). Sin datos biográficos en la búsqueda web breve (10/2026).",
+   "fuentes": "Fichas 020, 028, 059, 075."
+  },
+  {
+   "nombre": "Narciso Martínez · Josefa Díaz de Martínez",
+   "rol": "Pobladores",
+   "texto": "Poblaciones dentro del campo; Narciso ya tenía casa en 1840 (074). Probablemente hijos o nueras de Dominga.",
+   "fuentes": "Dup. 74, 75."
+  },
+  {
+   "nombre": "Saturnino Unzué e hijos",
+   "rol": "Linderos",
+   "texto": "Compradores del sobrante entre Lima y Colmenero; la familia Unzué fue una de las grandes propietarias bonaerenses del siglo XIX.",
+   "fuentes": "Fichas 054, 055."
+  },
+  {
+   "nombre": "Her. de Ramón Colmenero · her. de Pastor Frías · her. de Molina",
+   "rol": "Linderos",
+   "texto": "Colmenero: 074, 054. Pastor Frías: lindero de Colmenero en 1840 (074) y de los Monsalvo de Acuña en 1873 (065). Molina: 074.",
+   "fuentes": "Fichas 054, 065, 074."
+  },
+  {
+   "nombre": "Monsalvo · Bernal · José María Echeverría · María Gaete [?] · Acuña y Agüero",
+   "rol": "Linderos",
+   "texto": "Monsalvo y Bernal compraron a Echeverría (015) la fracción NO. Acuña y Agüero: cf. 065. Castro, Pérez y Cornejo [?]: poblaciones vecinas sin otros datos.",
+   "fuentes": "Fichas 015, 065."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/075/02.jpg",
+  "fuente": "IMG_7388.JPG",
+  "lineas": [
+   "N.^{o} 13[9] [?]   Secc.^{n} Lujan",
+   "Giles",
+   "75",
+   "Duplicado de las diligencias de mensura del",
+   "terreno de la propiedad de los herederos de",
+   "D.^{a} Dominga Garzete de Martinez",
+   "situado en el Partido de la Villa de Mercedes",
+   "Medido en el mes de Agosto de",
+   "1862",
+   "Por el Agrimensor",
+   "Saubidet",
+   "[a lápiz:] 153 7118 [?]"
+  ]
+ },
+ "titulo": "Her. de Dominga Garzete de Martínez",
+ "estado": "Transcripta (1 hojas, 22 renglones), 3 láminas"
+}
