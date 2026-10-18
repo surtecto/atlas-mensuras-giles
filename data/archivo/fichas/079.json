@@ -1,0 +1,233 @@
+{
+ "carpeta": "79",
+ "carpeta_nombre": "Carpeta 79",
+ "archivo": "Ficha 079 - Gerónimo Tormy (1855).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (sobre la Cañada de la Cruz; antes Areco / Sección Pilar)",
+  "N.º de duplicado": "79 · N.º 45 Areco (Sección «Pilar» testado)",
+  "Propietario / solicitante": "Gerónimo Tormy",
+  "Agrimensor": "Zacarías Aispurúa",
+  "Año": "1855",
+  "Fecha de la diligencia": "19 de febrero de 1855 (portadilla)",
+  "Ubicación": "Al N de la Cañada de la Cruz, junto a la boca de la Cañada del Sauce",
+  "Orden judicial": "No fotografiada (asoma sólo el borde del f. 1)",
+  "Vendedor / antecesor": "No consta (cf. remate a Torny, Ficha 031)",
+  "Linderos citados": "Her. de Pedro Martínez (O) · Águeda Montenegro (N, E) · M. Santellán de Martínez · Sosas",
+  "Medidas": "Frente y fondo 3191 v · costados 9047 v (O) y 8953 v (E) (≈ 2150 ha)",
+  "Rumbos": "N 47° 22′ O / S 47° 22′ E · N 42° 35′ E / S 42° 35′ O · variación N. E. 11° 18′ [?]",
+  "Referencia de archivo": "Duplicado 79; lápiz «2600 / 270 / 2330 [?]»"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 2150 (3191 × ≈ 9000 v; no consta)",
+  "hitos": "Azotea de Tormy; ranchos; mojón hallado; boca de la Cañada del Sauce",
+  "aguas": "Cañada de la Cruz · Cañada del Sauce"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron carátula, portadilla y plano. El 19 de febrero de 1855 Zacarías Aispurúa mide el terreno de Gerónimo Tormy «sobre y al Norte de la Cañada de la Cruz»: un rectángulo de 3191 varas de frente por 9047 / 8953 varas de largo (N 47° 22′ O), ≈ 2150 ha, con la boca de la Cañada del Sauce en el ángulo SO; linderos: herederos de Pedro Martínez (O), Águeda Montenegro (N y E), Mercedes Santellán de Martínez y los Sosas (E). Adentro, la azotea de Tormy y cinco ranchos con nombre (Justina Martínez, Pedro Torres, Mauricio Sánchez y otros) y un «mojón hallado». Tormy es el «Torny» del remate de Del Sar (031) y lindero de Scully (069).",
+ "caratula": {
+  "img": "img/f/079/01.jpg",
+  "fuente": "IMG_7413.jpg",
+  "campos": [
+   [
+    "N.º",
+    "79"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Geronimo Tormy"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Zacarias Aispurua"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1855"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Aispurúa",
+   "img": "img/f/079/03.jpg",
+   "fuente": "IMG_7415.JPG",
+   "nota": "Sólo se fotografiaron carátula, portadilla y plano; a la derecha de la portadilla asoman los finales de renglón del f. 1 (ilegibles). Las cifras de los costados se dan sin unidad: por la escala («de 6000 varas») son varas. El rumbo del costado E y la variación son de lectura dudosa.",
+   "lineas": [
+    "[al N:] D.^{a} Agueda Montenegro",
+    "[fondo N:] N. 42° 35′ E.   3191",
+    "Rancho de D.^{n} Juan Harinton [?]",
+    "Rancho de D.^{n} Pedro Iguirre [?]",
+    "Rancho de Mauricio Sanchez",
+    "Ranchos y corral de D.^{n} Pedro Torres",
+    "Mojon hallado",
+    "Terreno de D.^{n} Geronimo Tormy",
+    "[al O:] Herederos de D.^{n} Pedro Martinez",
+    "[costado O:] N. 47° 22′ O.   9047",
+    "[costado E:] S. 47° 2[2]′ E.   8953   ·   [progresiva] 7764",
+    "[frente S, sobre la cañada:] S. 42° 35′ O.   ·   1610",
+    "Rancho de D.^{a} Justina Martinez   ·   Azotea de Tormy",
+    "Cañada del Sauce   ·   C   ·   Cañada de la Cruz",
+    "[al E, de O a E:] D.^{a} Mercedes Santellan de Martinez [1589 [?]] · D.^{a} Agueda Montenegro",
+    "D.^{a} Agueda Montenegro [casa]   ·   S. 42° 35′ O.   1500 · 800",
+    "D.^{a} Agueda Montenegro   ·   Los Señores Sosas",
+    "[flechas:] [Var.] N. E. 11° 18′ [?]",
+    "Escala de 6000 varas [1000 · 0 · 1000 · 2000 · 3000 · 4000 · 5000]",
+    "[a lápiz, al margen:] 2600 / 270 / 2330 [?]"
+   ],
+   "interpretacion": "Plano del terreno de Gerónimo Tormy «sobre y al Norte de la Cañada de la Cruz»: un rectángulo casi perfecto de 3191 varas de frente (≈ 2763 m) por 9047 / 8953 varas de largo (≈ 7835 / 7753 m), rumbo N 47° 22′ O, ≈ 2150 ha. El frente S toca la Cañada de la Cruz, en el ángulo SO (C) recibe la Cañada del Sauce; al O, los herederos de Pedro Martínez; al N, Águeda Montenegro; al E, la faja de Mercedes Santellán de Martínez, dos de Águeda Montenegro (con su casa) y la de los Señores Sosas. Adentro hay seis ocupaciones: la AZOTEA DE TORMY (casa principal, cerca de la cañada), el rancho de Justina Martínez, los ranchos y corral de Pedro Torres, y los ranchos de Mauricio Sánchez, Pedro Iguirre [?] y Juan Harinton [?] hacia el fondo; sobre el costado O, un «mojón hallado». Dos flechas marcan el meridiano con una variación de ≈ 11° 18′ NE [?]."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Gerónimo Tormy (Aispurúa, 1855)",
+   "img": "img/f/079/03.jpg",
+   "fuente": "IMG_7415.JPG",
+   "orientacion": "Plano vertical a pluma, con la Cañada de la Cruz y la del Sauce en doble trazo sombreado; rótulos en cursiva, ranchos con punto; dos flechas de meridiano en el ángulo E; escala transversal de 6000 varas al pie; anotaciones a lápiz en el margen superior izquierdo.",
+   "interpretacion": "Es la mensura más antigua del bloque de la Cañada de la Cruz después de las de Pico (026-027, 1860): muestra el frente sobre la cañada con la boca de la Cañada del Sauce y, al E, la serie de fajas Santellán de Martínez · Montenegro · Sosas, las mismas familias de la cadena «Higueras de Santa Ana → Arroyo → Montenegro, Cañas, Lagos, Sosa» de 026-027.",
+   "referencias": [
+    [
+     "Frente S",
+     "S 42° 35′ O sobre la Cañada de la Cruz; mojón C en la boca de la Cañada del Sauce"
+    ],
+    [
+     "Costado O",
+     "N 47° 22′ O 9047 v · her. de Pedro Martínez; «Mojón hallado»"
+    ],
+    [
+     "Fondo N",
+     "N 42° 35′ E 3191 v · D.ª Águeda Montenegro"
+    ],
+    [
+     "Costado E",
+     "S 47° 2[2]′ E 8953 v (progresiva 7764) · M. Santellán de Martínez, Á. Montenegro, Sosas"
+    ],
+    [
+     "Ocupaciones",
+     "Azotea de Tormy · rancho de D.ª Justina Martínez · ranchos y corral de Pedro Torres · ranchos de Mauricio Sánchez, Pedro Iguirre [?], Juan Harinton [?]"
+    ],
+    [
+     "Aguas",
+     "Cañada de la Cruz (frente) · Cañada del Sauce (ángulo SO)"
+    ],
+    [
+     "Meridiano",
+     "Dos flechas; [Var.] N. E. 11° 18′ [?]"
+    ],
+    [
+     "Escala",
+     "6000 varas (transversal)"
+    ],
+    [
+     "Superficie",
+     "≈ 28,7 millones de v² ≈ 2150 ha (no consta en el plano)"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Torny / tormy: el comprador del remate de del sar",
+   "texto": "En 1863 Pico mide las fajas de la testamentaría de Pedro del Sar sobre la Cañada de la Cruz y registra su «remate a Torny» (031); en 1875 Torny es lindero SE del campo de Scully (069). Aquí, ocho años antes de aquel remate, Gerónimo TORMY ya tiene un campo de ≈ 2150 ha con casa de AZOTEA sobre la misma cañada. Torny y Tormy son el mismo apellido (grafía con m/n confundibles en la cursiva): un propietario de larga duración (1855-1875) en el NE del partido, que se expande comprando a los Del Sar."
+  },
+  {
+   "titulo": "Justina martínez, 1855 → 1860",
+   "texto": "El «rancho de D.ª Justina Martínez» está dentro del campo de Tormy, sobre el frente. En 1860 Pico mide a los herederos de Justina Martínez sobre la Cañada de la Cruz, con títulos desde las Higueras de Santa Ana (026). La pobladora de 1855 es la causante de 1860: ¿vivía en tierra de Tormy como agregada o arrendataria, o su campo lindaba con el rancho sobre la línea? Cotejar los rumbos de 026 con los de aquí."
+  },
+  {
+   "titulo": "Paisaje: un campo poblado por ranchos",
+   "texto": "Seis puntos de ocupación en un solo campo: la azotea del dueño (casa de techo plano, signo de estatus, como la azotea de Scully en 069-072 o la de Bernal en 054) junto a la cañada, y cinco ranchos —uno con corral— de pobladores con nombre propio (Torres, Sánchez, Iguirre [?], Harinton [?], Martínez). Es la imagen más densa de la ocupación de hecho que da el corpus para la década de 1850: el estanciero y sus puesteros o agregados, distribuidos del frente al fondo. «Harinton» podría ser Harrington: otro apellido británico temprano."
+  },
+  {
+   "titulo": "Ritual y crítica: el mojón hallado",
+   "texto": "El «mojón hallado» sobre el costado O es la marca de una mensura anterior (¿la de los Martínez?) que Aispurúa encontró y respetó: la misma doctrina de respeto a los mojones aprobados que el D. T. explicitará en 1865 (033). El frente sobre la cañada y la boca de la Cañada del Sauce sirven de esquinero natural (C)."
+  },
+  {
+   "titulo": "Metrología y declinación",
+   "texto": "Plano en varas (escala de 6000 varas), anterior al cambio métrico de 1861. La variación de ≈ 11° 18′ NE [?] es del orden de las de Gonnet en 1862 (11° 17′-11° 24′). Rumbos N 47° 22′ O / N 42° 35′ E: la orientación de las suertes de la Cañada de la Cruz (cf. 026-027, 031)."
+  },
+  {
+   "titulo": "Jurisdicción",
+   "texto": "La portadilla dice «N.º 45 Areco» y «Sección Pilar» testado: en 1855 la Cañada de la Cruz era tierra de Areco (cf. 042: las ventas de 1854 dicen «Partido de Luján» para la misma cañada). Hoy está en Giles: otro caso del corrimiento de límites que el corpus documenta."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Quién fue Gerónimo Tormy y de dónde venía? ¿Cómo adquirió el campo (compra a los Martínez, a los Montenegro, a la cadena de las Higueras)? ¿Quiénes eran Pedro Torres, Mauricio Sánchez y los otros pobladores? Falta todo el texto de la diligencia: pedir foto."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Gerónimo Tormy (Torny)",
+   "rol": "Propietario",
+   "texto": "Dueño en 1855 de ≈ 2150 ha con casa de azotea al N de la Cañada de la Cruz; comprador en el remate de las fajas de Pedro del Sar (1863, 031) y lindero de Scully en 1875 (069). Búsqueda web breve sin resultados.",
+   "fuentes": "Dup. 79; Fichas 031, 069."
+  },
+  {
+   "nombre": "Zacarías Aispurúa (Aizpurúa)",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor activo en la zona hacia 1855-1859 (METODO lo registra «c. 1859»). Ésta es su primera mensura fechada en el corpus. Búsqueda web breve (10/2026) sin datos biográficos.",
+   "fuentes": "Dup. 79; búsqueda web."
+  },
+  {
+   "nombre": "Justina Martínez",
+   "rol": "Pobladora",
+   "texto": "Con rancho dentro del campo de Tormy en 1855; sus herederos hacen medir en 1860 (026).",
+   "fuentes": "Dup. 79; Ficha 026."
+  },
+  {
+   "nombre": "Águeda Montenegro · Mercedes Santellán de Martínez · los Señores Sosas",
+   "rol": "Linderos",
+   "texto": "Familias de la cadena de títulos de la Cañada de la Cruz (Montenegro, Sosa: 026-027). Águeda Montenegro tiene casa al E y otra fracción al N.",
+   "fuentes": "Fichas 026, 027."
+  },
+  {
+   "nombre": "Her. de Pedro Martínez",
+   "rol": "Linderos (o)",
+   "texto": "Sin otros datos; ¿parientes de Justina y de Mercedes Santellán de Martínez?",
+   "fuentes": "Dup. 79."
+  },
+  {
+   "nombre": "Pedro Torres · Mauricio Sánchez · Pedro Iguirre [?] · Juan Harinton [?]",
+   "rol": "Pobladores",
+   "texto": "Ocupantes con ranchos (Torres también con corral) dentro del campo. Sin datos.",
+   "fuentes": "Dup. 79."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/079/02.jpg",
+  "fuente": "IMG_7414.JPG",
+  "lineas": [
+   "N.^{o} 45. Areco   Giles",
+   "Seccion ~~Pilar~~.   79",
+   "Duplicado de Mensura de un terreno de propiedad",
+   "de D. Geronimo Tormy. sobre y",
+   "al Norte de la cañada de la Cruz",
+   "por el Agrimensor D. Zacarias Aispurua",
+   "en Febrero 19 de 1855."
+  ]
+ },
+ "titulo": "Gerónimo Tormy",
+ "estado": "Transcripta (1 hojas, 20 renglones), 1 lámina"
+}

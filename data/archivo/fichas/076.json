@@ -1,0 +1,246 @@
+{
+ "carpeta": "76",
+ "carpeta_nombre": "Carpeta 76",
+ "archivo": "Ficha 076 - Her. de José María Rodríguez (1861).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (rincón SO, vecindario de los Lima; antes Villa de Mercedes)",
+  "N.º de duplicado": "76 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Her. de José María Rodríguez",
+  "Agrimensor": "Manuel Eguía",
+  "Año": "1861",
+  "Fecha de la diligencia": "No consta; «Agréguese» del 30 de agosto de 1861",
+  "Ubicación": "Cañada de Moyano, entre los Lima, Martínez y Unzué",
+  "Orden judicial": "No fotografiada (sólo el último folio y el plano)",
+  "Vendedor / antecesor": "No consta (herencia de José María Rodríguez)",
+  "Linderos citados": "Serapio Lima · Rosa Martínez de Lima · Juan Félix Martínez · los Lima · Unzué",
+  "Medidas": "O 7691,5 m = 8882 v · frentes 1037,9 + 1022 m · 12.871.513 m² = 17.169.319 v²",
+  "Rumbos": "N 46° 40′ O (costados) · N 43° 10′ E / S 43° 10′ O (frentes)",
+  "Referencia de archivo": "Duplicado 76"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 1287 (12.871.513 m²)",
+  "hitos": "Población de J. M.ª Rodríguez; mojones de esquina",
+  "aguas": "Cañada de Moyano"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron carátula, el último folio (con el «Agréguese» del Departamento Topográfico del 30 de agosto de 1861) y el plano. Manuel Eguía mide el campo de los herederos de José María Rodríguez en el rincón SO: una faja de rumbo N 46° 40′ O, de 7691,5 m (8882 v) contra Serapio y Rosa Martínez de Lima, frente S contra Saturnino Unzué y fondo N contra Juan Félix Martínez, con el costado E escalonado contra Silverio Aceituna, Domingo Gusmán y Manuel y Domingo Lima. La Cañada de Moyano lo cruza en diagonal. Superficie: 12.871.513 m² (≈ 1287 ha). El escalón SE es el rectángulo de Aceituna de la Ficha 077.",
+ "caratula": {
+  "img": "img/f/076/01.jpg",
+  "fuente": "IMG_7392.jpg",
+  "campos": [
+   [
+    "N.º",
+    "76"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "José María Rodriguez"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Manuel Eguía"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1861"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Último folio: cierre de un oficio y «Agréguese»",
+   "img": "img/f/076/05.jpg",
+   "fuente": "IMG_7393.JPG (página izquierda)",
+   "nota": "Sólo se fotografió el folio que precede al plano, abierto a la izquierda de la toma. La tinta del oficio está muy desvaída; la firma y la rúbrica son de lectura dudosa.",
+   "lineas": [
+    "[...] á los fines convenientes",
+    "Dios gu.^{e} á V. S. m.^{s} a.^{s}",
+    "[firma:] Al[ej]o [...] [?]",
+    "Agosto 30 de 1861.",
+    "Agréguese al duplicado corres-",
+    "pondiente.",
+    "[rúbrica:] Ar[enales] [?]"
+   ],
+   "interpretacion": "Es el final de una nota o informe dirigido a una autoridad («V. S.»), que se remite «a los fines convenientes», y debajo el decreto de trámite del Departamento Topográfico del 30 de agosto de 1861: «Agréguese al duplicado correspondiente», con una rúbrica que podría ser la de José Arenales. La fórmula es la misma que el «Agréguese» del Departamento de Ingenieros en 070 (1876): el duplicado archivado recibe después las piezas que llegan del expediente. No se ve el cuerpo de la diligencia de Eguía."
+  },
+  {
+   "titulo": "Rótulos y cifras del plano de Eguía",
+   "img": "img/f/076/03.jpg",
+   "fuente": "IMG_7393, IMG_7394 e IMG_7395",
+   "nota": "Plano en papel tela, plegado, rótulos de molde; varias cifras están escritas al revés (se leyeron girando 180°). Las longitudes se verificaron con la conversión varas → metros (× 0,866) y con el cierre del costado O.",
+   "lineas": [
+    "HEREDEROS DE JOSE MARIA RODRIGUEZ",
+    "12.871.513 met.^{s} cuad.^{s}   ·   17.169.319 varas cuadradas",
+    "Cañada de Moyano",
+    "[al O:] SERAPIO LIMA   ·   [al NO:] ROSA MARTINEZ DE LIMA   ·   N. Ponce",
+    "[al N:] JUAN FELIZ MARTINEZ",
+    "[costado O:] N 46° 50′ O [?]   7691,5 m.^{s} = 8882 v.^{s}",
+    "[frente S:] N 43° 10′ E   1037,9",
+    "[escalón:] N 46° 40′ O   1948,6 m.^{s} = 2250 v.^{s}   ·   N 43° 10′ E   1022 m.^{s}",
+    "[costado E medio:] N 46° 40′ O   3897 m.^{s} = 4500 v.^{s}",
+    "[entrante:] S 43° 10′ O   776 m.^{s} = 896 v.^{s}",
+    "[costado E alto:] N 46° 40′ O   1846,6 m.^{s} = 2132 v.^{s}",
+    "[fondo N:] S 43° 10′ O   1[2]83,9 m.^{s} [?] = 14[8]2,6 v.^{s} [?]",
+    "[en el escalón:] J. M.^{a} Rodriguez [población]",
+    "[al E, de S a N:] SILVERIO ACEITUNA · DOMINGO GUSMAN · MANUEL LIMA · DOMINGO LIMA",
+    "[más al E:] FERMIN MARTINEZ · JUAN LIMA · JOSE MARIA ECHEVERRIA",
+    "[al S y al E:] SATURNINO UNZUÉ",
+    "[línea con flecha:] meridiano [sin rótulo legible]",
+    "Escala [1000 · 0 · 1000 · 2000 · 3000] Metros   ·   Manuel Eguia"
+   ],
+   "interpretacion": "Plano del campo de los herederos de José María Rodríguez: una faja larga de rumbo N 46° 40′ O, de 7691,5 m (8882 varas) sobre el costado O contra Serapio Lima y Rosa Martínez de Lima, con frente al S (N 43° 10′ E) contra Saturnino Unzué y fondo al N contra Juan Félix Martínez. El costado E es escalonado: un escalón bajo de 1948,6 m (2250 v) y 1022 m de ancho, donde está la población de J. M.ª Rodríguez, que deja afuera a Silverio Aceituna y Domingo Gusmán; un tramo medio de 3897 m (4500 v) contra Manuel Lima; un entrante de 776 m (896 v) y un tramo alto de 1846,6 m (2132 v) contra Domingo Lima. La CAÑADA DE MOYANO cruza el campo en diagonal de SO a NE. Superficie: 12.871.513 m² = 17.169.319 v² (≈ 1287 ha)."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del campo de los her. de José M.ª Rodríguez (Eguía, 1861)",
+   "img": "img/f/076/02.jpg",
+   "fuente": "IMG_7393.JPG",
+   "orientacion": "Plano en tela, desplegado a la derecha del último folio; campo sin color, rótulos de molde con sombra, cañada en trazo grueso; escala gráfica transversal en metros; firma «Manuel Eguía» al pie; sello circular del Departamento en el ángulo superior derecho.",
+   "interpretacion": "La lámina completa muestra la faja de los Rodríguez entre dos órdenes de linderos: al O los Lima (Serapio, Rosa Martínez de Lima) y al E una serie de fajas paralelas (Aceituna, Gusmán, Manuel y Domingo Lima, Fermín Martínez, Juan Lima, J. M.ª Echeverría), todas cerradas al S por Saturnino Unzué. Es el mismo vecindario de 055 (Mariano Lima, Prat 1840), 061 (Juan Félix Martínez, 1871) y 070 (Gorostiaga, 1876).",
+   "referencias": [
+    [
+     "Costado O",
+     "N 46° 50′ O [?] 7691,5 m = 8882 v · Serapio Lima; Rosa Martínez de Lima (N. Ponce)"
+    ],
+    [
+     "Frente S",
+     "N 43° 10′ E 1037,9 m · Saturnino Unzué"
+    ],
+    [
+     "Escalón SE",
+     "N 46° 40′ O 1948,6 m = 2250 v y N 43° 10′ E 1022 m: deja afuera a Silverio Aceituna (= Ficha 077)"
+    ],
+    [
+     "Costado E",
+     "N 46° 40′ O 3897 m = 4500 v (Manuel Lima) · S 43° 10′ O 776 m = 896 v · N 46° 40′ O 1846,6 m = 2132 v (Domingo Lima)"
+    ],
+    [
+     "Fondo N",
+     "S 43° 10′ O 1[2]83,9 m [?] · Juan Félix Martínez"
+    ],
+    [
+     "Superficie",
+     "12.871.513 m² = 17.169.319 v² (≈ 1287 ha)"
+    ],
+    [
+     "Aguas",
+     "Cañada de Moyano, en diagonal SO-NE"
+    ],
+    [
+     "Poblaciones",
+     "J. M.ª Rodríguez (en el escalón SE)"
+    ],
+    [
+     "Escala",
+     "Metros (transversal)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: el campo y la Cañada de Moyano",
+   "img": "img/f/076/03.jpg",
+   "fuente": "IMG_7394.JPG",
+   "orientacion": "",
+   "interpretacion": "Toma cercana con todas las cifras de los costados, la superficie en metros y varas cuadradas, la población de J. M.ª Rodríguez, la línea del meridiano y la firma de Eguía.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: el plano girado (linderos del E)",
+   "img": "img/f/076/04.jpg",
+   "fuente": "IMG_7395.JPG (girada 180°)",
+   "orientacion": "",
+   "interpretacion": "La misma lámina fotografiada desde el otro lado: se leen al derecho la superficie, la Cañada de Moyano y las fajas de Silverio Aceituna, Domingo Gusmán, Manuel Lima, Fermín Martínez, Juan Lima y José María Echeverría.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Un mosaico del rincón so en 1861",
+   "texto": "El plano dibuja once linderos con nombre en una sola lámina: el bloque Lima–Martínez–Echeverría que hasta ahora se conocía por piezas sueltas (055, 061, 070, 075). Juan Félix Martínez (N) es el de la faja de 1871 (061), que linda con Rosa M. y Domingo Lima y Fermín Martínez, los mismos de aquí; los her. de José M.ª Rodríguez, Domingo y Manuel Lima son los linderos de Gorostiaga en 1876 (070), cuyo campo también cruza la Cañada de Moyano. Con 076 + 061 + 070 se puede armar en GIS un bloque continuo de fajas N 43°-46° O / N 43°-45° E."
+  },
+  {
+   "titulo": "La cañada de moyano y la laguna de moyano",
+   "texto": "En 1840 Prat medía a Mariano Lima «en Giles, y en la Laguna de Moyano» (055). Aquí la CAÑADA DE MOYANO cruza el campo Rodríguez en diagonal SO-NE y vuelve a aparecer en 070 (1876). Es el curso que desagua esa laguna: un eje hidrográfico del rincón SO para georreferenciar junto con las lagunas del campo Garzete (075)."
+  },
+  {
+   "titulo": "Escalón y población: el campo hecho por herencia",
+   "texto": "El costado E escalonado no es un capricho del terreno: el entrante SE (1948,6 × 1022 m) es exactamente el rectángulo de Silverio Aceituna que Saubidet mide en febrero de 1861 (077), y el plano marca allí la población de J. M.ª Rodríguez. El campo Rodríguez y la pieza de Aceituna salen, pues, de un mismo origen; la forma irregular registra una segregación anterior (venta o hijuela)."
+  },
+  {
+   "titulo": "Metrología: 1861, año del metro",
+   "texto": "Eguía da cada tramo en metros y en varas (1948,6 m = 2250 v; 3897 m = 4500 v; 1846,6 m = 2132 v; 7691,5 m = 8882 v) y la superficie en metros y varas cuadradas, con escala sólo en metros. Confirma que el cambio métrico de la práctica local es de 1861 (METODO: «el cambio métrico en la práctica de la zona es de 1861»). Las medidas redondas en varas (2250, 4500) delatan títulos de origen en varas."
+  },
+  {
+   "titulo": "Crítica documental",
+   "texto": "No hay portadilla ni texto de la diligencia; sólo el último folio de una nota y el «Agréguese» del 30/8/1861. El nombre de pila del agrimensor en la carátula es MANUEL Eguía (cf. la corrección «Carlos Eguía» → Manuel Eguía de 029). Cifras dudosas: el rumbo del costado O (46° 50′ en vez de 46° 40′) y el fondo N, que por cierre debería medir ≈ 1283,9 m (1037,9 + 1022 − 776) y que en la toma se lee mal."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Quién era José María Rodríguez y cuándo murió? ¿Es pariente de Mauricia Rodríguez, lindera de Juan Félix Martínez en 061? ¿La pieza de Aceituna fue comprada a los Rodríguez o era una hijuela? ¿Por qué el duplicado no conserva el texto? Pedir a Juan foto de la portadilla y del cuerpo de la diligencia."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "José María Rodríguez (†)",
+   "rol": "Causante",
+   "texto": "Propietario del campo cruzado por la Cañada de Moyano; sus herederos lo hacen medir en 1861 y siguen como linderos en 1876 (070). Sin datos en la web.",
+   "fuentes": "Dup. 76, 77; Ficha 070."
+  },
+  {
+   "nombre": "Manuel Eguía",
+   "rol": "Agrimensor",
+   "texto": "El agrimensor más activo del corpus entre 1838 y 1861 (003-006, 010, 015, 017, 019, 025, 029). Ésta es su mensura más tardía hasta ahora. Búsqueda web breve (10/2026) sin datos biográficos útiles.",
+   "fuentes": "Fichas 003-029; búsqueda web."
+  },
+  {
+   "nombre": "Serapio Lima · Rosa Martínez de Lima · Domingo, Manuel y Juan Lima",
+   "rol": "Linderos",
+   "texto": "La familia de Mariano Lima (055, 1840), repartida en fajas. Rosa M. y Domingo Lima vuelven en 061 (1871); Domingo y Manuel en 070 (1876).",
+   "fuentes": "Fichas 055, 061, 070."
+  },
+  {
+   "nombre": "Juan Félix Martínez · Fermín Martínez",
+   "rol": "Linderos",
+   "texto": "Juan Félix: faja de 997 ha medida por Videla en 1871 (061). Fermín: lindero SE de esa faja.",
+   "fuentes": "Ficha 061."
+  },
+  {
+   "nombre": "Silverio Aceituna (Aceytuno)",
+   "rol": "Lindero",
+   "texto": "Dueño del rectángulo SE que Saubidet mide en febrero de 1861 (077), con su población.",
+   "fuentes": "Dup. 77."
+  },
+  {
+   "nombre": "Saturnino Unzué · José María Echeverría · Domingo Gusmán · N. Ponce",
+   "rol": "Linderos",
+   "texto": "Unzué: comprador de sobrantes del bloque SO (054, 055, 075). Echeverría: 015. Gusmán (Guzmán): la «población de Guzmán [?]» de las visuales de 054. Ponce: sin datos.",
+   "fuentes": "Fichas 015, 054, 055, 075."
+  }
+ ],
+ "titulo": "Her. de José María Rodríguez",
+ "estado": "Transcripta (2 hojas, 25 renglones), 3 láminas"
+}

@@ -1,0 +1,223 @@
+{
+ "carpeta": "77",
+ "carpeta_nombre": "Carpeta 77",
+ "archivo": "Ficha 077 - Silverio Aceytuno (1861).docx",
+ "resumen": {
+  "Partido": "Villa de Mercedes (hoy rincón SO de San Andrés de Giles)",
+  "N.º de duplicado": "77 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Silverio Aceytuno",
+  "Agrimensor": "Pedro Saubidet",
+  "Año": "1861",
+  "Fecha de la diligencia": "Plano firmado en la Villa de Mercedes el 28 de febrero de 1861",
+  "Ubicación": "Escalón SE del campo de los her. de José M.ª Rodríguez",
+  "Orden judicial": "No fotografiada (asoma sólo el borde del último folio)",
+  "Vendedor / antecesor": "No consta (pieza segregada del campo Rodríguez, cf. 076)",
+  "Linderos citados": "Her. de José M.ª Rodríguez (O y N) · her. de Lima · Saturnino Unzué é hijos",
+  "Medidas": "Rectángulo de 1948,5 × 1022,3 m (≈ 199 ha)",
+  "Rumbos": "N 46° 50′ O / S 46° 50′ E · N 43° 10′ E / S 43° 10′ O; ángulo 11° 30′ entre meridianos",
+  "Referencia de archivo": "Duplicado 77"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 199 (1948,5 × 1022,3 m)",
+  "hitos": "Población de Aceytuno; población de Rodríguez; Mojón de Lima",
+  "aguas": "—"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron carátula y plano, con el borde del último folio de texto. Pedro Saubidet mide, en la Villa de Mercedes, el 28 de febrero de 1861, el terreno de Silverio Aceytuno: un rectángulo de 1948,5 m (N 46° 50′ O) por 1022,3 m (N 43° 10′ E), ≈ 199 ha, entre los herederos de José María Rodríguez, los herederos de Lima y Saturnino Unzué é hijos, con la población de Aceytuno en el vértice E y una línea auxiliar al «Mojón de Lima». Es el escalón SE del campo Rodríguez que Eguía mide el mismo año (Ficha 076): dos agrimensores, la misma pieza, con diferencias de centímetros. Es la mensura propia más temprana de Saubidet en el corpus.",
+ "caratula": {
+  "img": "img/f/077/01.jpg",
+  "fuente": "IMG_7406.jpg",
+  "campos": [
+   [
+    "N.º",
+    "77"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Silverio Aceytuno"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Saubidet"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "—"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Borde del último folio de texto",
+   "img": "img/f/077/04.jpg",
+   "fuente": "IMG_7407.JPG (margen izquierdo)",
+   "nota": "Sólo asoman los finales de renglón de la página que precede al plano, cortados por la encuadernación; se transcriben los fragmentos visibles. El comienzo de cada renglón falta.",
+   "lineas": [
+    "[...] actuacion por el agri-",
+    "[...] conformandose arregla-",
+    "[...] por la cantidad [?]",
+    "[...]ada por [...] [?]",
+    "[...] que hay",
+    "[...] correspondiente [?]",
+    "[...] el titulo lo que",
+    "[...] [?] [...] varas [?]",
+    "[...] poblacion de Ace-",
+    "[...] [ytu]no se fija",
+    "[...]da por los",
+    "[...]dos siempre",
+    "[...] area [?] de los",
+    "[...] [Departam]ento Topo-",
+    "[...] [...]on alguna",
+    "[...] [conve]nientemente",
+    "[...] [con]venir que",
+    "[...] [...]sor [?] por",
+    "[...] [...]o 11 / 861 [?]"
+   ],
+   "interpretacion": "Son los finales de renglón de un informe, probablemente del Departamento Topográfico, sobre la actuación del agrimensor: se habla de que la mensura se conformó a lo arreglado, del título y su cantidad en varas, de la «población de Aceytuno» que se fija como referencia, del área y de que el Departamento no hace objeción alguna; la fecha final parece de 1861. Es el tipo de informe aprobatorio que en otras fichas cierra el expediente (033, 058)."
+  },
+  {
+   "titulo": "Rótulos y cifras del plano de Saubidet",
+   "img": "img/f/077/03.jpg",
+   "fuente": "IMG_7407 e IMG_7408",
+   "nota": "Plano a pluma, sin color, con escala transversal en metros; los rumbos de los costados están escritos al revés respecto de los linderos y se leyeron girando la toma.",
+   "lineas": [
+    "Silverio Aceytuno",
+    "P.^{n} de Acey.^{no} [población, en el ángulo E]",
+    "[costado N:] N 46° 50′ O = 1948,5 m.^{s}",
+    "[costado S:] S 46° 50′ E = 1948,5 m.^{s}",
+    "[costado E:] N 43° 10′ E = 1022,3 m.^{s}",
+    "[costado O:] S 43° 10′ O = 10[22],3 m.^{s} [?]",
+    "[al O, junto al costado:] Pob.^{n} de Rodrig.^{z}",
+    "Herederos de Jose Maria Rodriguez",
+    "Herederos de Lima",
+    "[al E:] Saturnino Unzué é hijos",
+    "[línea desde el ángulo NE:] S 43° 10′ O = 2298,5 m.^{s} [?]   ·   Mojon de Lima",
+    "[dos flechas de meridiano:] 11° 30′ N. E.",
+    "Escala [1000 · 0 · 1000 · 2000 · 3000] metros",
+    "Villa de Mercedes Feb.^{o} 28 / 861",
+    "Pedro Saubidet"
+   ],
+   "interpretacion": "Plano del terreno de Silverio Aceytuno: un rectángulo de 1948,5 m (N 46° 50′ O) por 1022,3 m (N 43° 10′ E), ≈ 199 ha, metido en el ángulo SE del campo de los herederos de José María Rodríguez (al O y al N), con los herederos de Lima más al N y Saturnino Unzué é hijos al E. La población de Aceytuno está en el vértice E y la de Rodríguez junto al costado O. Desde el ángulo NE parte una línea de 2298,5 m [?] al «Mojón de Lima», y dos flechas de meridiano marcan una diferencia de 11° 30′ NE (variación de la aguja). Firmado en la Villa de Mercedes el 28 de febrero de 1861 por Pedro Saubidet."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Silverio Aceytuno (Saubidet, 1861)",
+   "img": "img/f/077/02.jpg",
+   "fuente": "IMG_7407.JPG",
+   "orientacion": "Plano a pluma en dos hojas, linderos en cursiva inglesa, escala transversal en metros al pie; fecha y firma en el ángulo inferior derecho; a la izquierda, el borde del último folio de texto.",
+   "interpretacion": "El rectángulo de Aceytuno ocupa el ángulo de los linderos Rodríguez–Lima–Unzué. Es exactamente el escalón SE del campo Rodríguez que Eguía dibuja el mismo año (076: N 43° 10′ E 1022 m y N 46° 40′ O 1948,6 m = 2250 v): las dos mensuras se encajan con diferencias de 0,1-0,3 m en las longitudes y de 10′ en el rumbo largo.",
+   "referencias": [
+    [
+     "Costados largos",
+     "N 46° 50′ O / S 46° 50′ E = 1948,5 m (= 2250 v) · her. de J. M.ª Rodríguez (N) / Unzué [?] (S)"
+    ],
+    [
+     "Costados cortos",
+     "N 43° 10′ E = 1022,3 m (E) · S 43° 10′ O = 10[22],3 m [?] (O) · Pob.n de Rodríguez"
+    ],
+    [
+     "Poblaciones",
+     "De Aceytuno (vértice E) · de Rodríguez (costado O)"
+    ],
+    [
+     "Línea auxiliar",
+     "Desde el ángulo NE, S 43° 10′ O = 2298,5 m [?] hasta el «Mojón de Lima»"
+    ],
+    [
+     "Meridiano",
+     "Dos flechas (verdadero y magnético) separadas 11° 30′ N. E."
+    ],
+    [
+     "Linderos",
+     "Her. de José M.ª Rodríguez · her. de Lima · Saturnino Unzué é hijos"
+    ],
+    [
+     "Data",
+     "Villa de Mercedes, 28 de febrero de 1861 · Pedro Saubidet"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: el rectángulo y la línea al Mojón de Lima",
+   "img": "img/f/077/03.jpg",
+   "fuente": "IMG_7408.JPG",
+   "orientacion": "",
+   "interpretacion": "Toma cercana: el rectángulo con sus rumbos y longitudes, las poblaciones de Aceytuno y de Rodríguez, la línea al Mojón de Lima con las dos flechas del meridiano y el arco de 11° 30′, y el lindero Saturnino Unzué é hijos.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Dos agrimensores, una misma pieza (076 ↔ 077)",
+   "texto": "En febrero de 1861 Saubidet mide el rectángulo de Silverio Aceytuno (1948,5 × 1022,3 m); en el plano de Eguía del mismo año (076) esa pieza aparece como escalón SE del campo de los herederos de José M.ª Rodríguez, con 1948,6 m (= 2250 v) y 1022 m y el rótulo «Silverio Aceituna». Diferencias de 0,1 y 0,3 m y 10′ en el rumbo largo (46° 50′ / 46° 40′). Es un caso de control cruzado ideal para el GIS: dos agrimensores distintos, el mismo vértice, el mismo año."
+  },
+  {
+   "titulo": "La mensura más temprana de saubidet",
+   "texto": "Hasta ahora la primera mensura propia de Pedro Saubidet en el corpus era la de agosto de 1862 (075). Ésta es de febrero de 1861 y está firmada en la Villa de Mercedes, como corresponde a un rincón que todavía era de ese partido. Ya usa metros, dos meridianos y una variación de 11° 30′ NE: la misma cifra que repetirá en 1865-1870 (028, 039, 045, 059). El «valor convencional» de Saubidet (METODO, declinación) aparece así ya en 1861."
+  },
+  {
+   "titulo": "Mojón de lima y poblaciones como hitos",
+   "texto": "La línea auxiliar desde el ángulo NE al «Mojón de Lima» liga la pieza con el amojonamiento del campo de Lima (055, Prat 1840): Saubidet se ata a un mojón heredado, como Ybarraguirre o Dillon más tarde. Las dos poblaciones (Aceytuno, Rodríguez) son los únicos signos de ocupación: la casa como hito, igual que en 075."
+  },
+  {
+   "titulo": "Grafías",
+   "texto": "La carátula dice «Aceytuno», el plano de Saubidet «Aceytuno» con la «y» griega, y Eguía (076) «Aceituna». Se adopta Aceytuno (Aceituno) como forma del propietario y se registra la variante."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Compró Aceytuno a los herederos de Rodríguez o recibió la pieza en herencia? ¿Cuál es el título «en varas» que cita el informe? ¿El lindero S es Unzué (como en 076) o los Rodríguez? Falta el texto completo y la portadilla."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Silverio Aceytuno (Aceituna)",
+   "rol": "Propietario",
+   "texto": "Dueño de ≈ 199 ha con población propia en el ángulo SE del campo Rodríguez (1861). Sin datos en la web.",
+   "fuentes": "Dup. 76, 77."
+  },
+  {
+   "nombre": "Pedro Saubidet",
+   "rol": "Agrimensor",
+   "texto": "Ayudante de Kuhr en 1856 (020); primera mensura propia conocida: ésta, de febrero de 1861 en la Villa de Mercedes; luego 1862 (075), 1865 (028), 1866 (039, 045) y 1870 (059). Sin datos biográficos en la búsqueda web breve.",
+   "fuentes": "Fichas 020, 028, 039, 045, 059, 075."
+  },
+  {
+   "nombre": "Her. de José M.ª Rodríguez · her. de Lima",
+   "rol": "Linderos",
+   "texto": "Ver Ficha 076 y 055.",
+   "fuentes": "Fichas 055, 076."
+  },
+  {
+   "nombre": "Saturnino Unzué é hijos",
+   "rol": "Linderos",
+   "texto": "Compradores de los sobrantes del bloque SO (054, 055, 075).",
+   "fuentes": "Fichas 054, 055, 075."
+  }
+ ],
+ "titulo": "Silverio Aceytuno",
+ "estado": "Transcripta (2 hojas, 34 renglones), 2 láminas"
+}

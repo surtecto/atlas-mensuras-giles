@@ -1,0 +1,238 @@
+{
+ "carpeta": "78",
+ "carpeta_nombre": "Carpeta 78",
+ "archivo": "Ficha 078 - Her. de Narciso Martínez (1873).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (bloque SO, al N de los her. de Frías)",
+  "N.º de duplicado": "78 · Sección Luján N.º 263 (antes 258; «Areco» testado)",
+  "Propietario / solicitante": "Her. de Narciso Martínez",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1873",
+  "Fecha de la diligencia": "Septiembre de 1873 (portadilla y plano)",
+  "Ubicación": "Entre Modesta Ávila de la Torre, Santiago Murray, José Agüero y her. de Frías",
+  "Orden judicial": "No fotografiada (falta todo el texto)",
+  "Vendedor / antecesor": "Herencia de Narciso Martínez (población dentro del campo Garzete en 1862, 075)",
+  "Linderos citados": "M. Ávila de la Torre (O) · S. Murray (N) · J. Agüero (E) · her. de Frías (S)",
+  "Medidas": "Base 2190 m · fondo 2782 m · lados 2297,75-2337 m · cinco hijuelas de 114 ha 92 a 36 ca",
+  "Rumbos": "N 33° 13′ O · N 57° 55′ E · S 57° 47′ O · «Norte verdadero N 10° 32′ N. E.»",
+  "Referencia de archivo": "Duplicado 78; lápiz «1743 / 17 [?]»"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 574,6 (5 × 114 ha 92 a 36 ca)",
+  "hitos": "Mojón de Arranque (A); vértices A-M",
+  "aguas": "Arroyito sin nombre en la base"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron carátula, portadilla y plano. En septiembre de 1873 Carlos Schuster mide y divide el campo de los herederos de Narciso Martínez: un trapecio de 2190 m de base (N 57° 55′ E) contra los herederos de Frías, 2782 m de fondo contra Santiago Murray, 2337 m al E contra José Agüero y un costado O oblicuo contra Modesta Ávila de la Torre, partido en cinco hijuelas iguales de 114 ha 92 a 36 ca para Enriqueta, Rosa, Narciso, Pascual y Emilio, con divisorias N 33° 13′ O. Narciso Martínez es el poblador que aparece en los planos de 1840 (074) y 1862 (075): tres generaciones de una familia en el bloque SO.",
+ "caratula": {
+  "img": "img/f/078/01.jpg",
+  "fuente": "IMG_7409.jpg",
+  "campos": [
+   [
+    "N.º",
+    "78"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Herederos de Don Narciso Martinez"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1873"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Schuster",
+   "img": "img/f/078/03.jpg",
+   "fuente": "IMG_7411.JPG (y detalle IMG_7412)",
+   "nota": "Sólo se fotografiaron carátula, portadilla y plano (en la página izquierda, a lápiz, «1743 / 17 [?]»). Las cifras del costado N y del costado O están escritas al revés y se leyeron girando la toma; la del costado O es dudosa.",
+   "lineas": [
+    "[al N:] Santiago Murray",
+    "[costado N, de C a D:] S 57° 47′ O = 2782 m.^{s}",
+    "[progresivas desde C:] I 492,8 · [meridiano] 693 · K 988,21 · [1387] · L 1485,15 · M 1981 · D 2782",
+    "[al O:] Modesta Avila de De la Torre",
+    "[costado O, de A a D:] [N] 47° 43′ [?] = 2367 m.^{s}   ·   [progresivas] 1182 · 1875 [?]",
+    "[hijuelas, de O a E:] Enriqueta · Rosa · Narciso · Pascual · Emilio",
+    "[divisorias:] N 33° 13′ O = 2297,75 m · 2307,62 m · 2317,48 m · 2327,35 m",
+    "[costado E:] N 33° 13′ O = 2337 m   ·   [al E:] José Agüero",
+    "[base, de A a B:] N 57° 55′ E = 2190 metros",
+    "[progresivas desde A:] E 205,6 · F 704,6 · 881,25 · G 1201,6 [?] [con un arroyito] · H 1697,1 · B 2190",
+    "A Arranque",
+    "[al S:] Herederos de Frias",
+    "[flecha:] Norte verdadero N 10° 32′ N. E.",
+    "Escala de Metros [1000 · 500 · 0 · 1000 · 2000]",
+    "Setiembre de 1873   Carlos Schuster",
+    "[a lápiz, en el campo:] Martinez   ·   114^{h} 92^{a} 36^{c}"
+   ],
+   "interpretacion": "Plano de la división del campo de los herederos de Narciso Martínez en cinco hijuelas iguales de 114 ha 92 a 36 ca (cifra a lápiz), adjudicadas de O a E a Enriqueta, Rosa, Narciso, Pascual y Emilio. El campo es un trapecio: base S de 2190 m (N 57° 55′ E) contra los herederos de Frías, con el mojón de «Arranque» en el vértice A; fondo N de 2782 m (S 57° 47′ O) contra Santiago Murray; costado E de 2337 m (N 33° 13′ O) contra José Agüero; costado O oblicuo de 2367 m contra Modesta Ávila de De la Torre. Las divisorias son paralelas al costado E (N 33° 13′ O) y crecen 9,87 m cada una; las hijuelas tienen ≈ 495 m de ancho, salvo la de Enriqueta, que es un triángulo truncado (205,6 m en la base, ≈ 801 m en el fondo). Un arroyito corta la base cerca de G. Norte verdadero a N 10° 32′ NE."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la división de los her. de Narciso Martínez (Schuster, sept. de 1873)",
+   "img": "img/f/078/03.jpg",
+   "fuente": "IMG_7411.JPG",
+   "orientacion": "Plano a pluma dentro de un recuadro de doble filete; letras A-M en los vértices; nombres de los herederos en cursiva inglesa; escala de metros al pie; firma «Setiembre de 1873 · Carlos Schuster» en el ángulo inferior derecho; anotaciones posteriores a lápiz.",
+   "interpretacion": "La lámina fija una partición hereditaria en fajas paralelas, el patrón de las particiones del corpus (045, 065, 066). Linda al O con la hijuela de Modesta Ávila de la Torre de la división Colmenero de 1869 (054) y al E con José Agüero, lindero de las hijuelas Acuña de 1873 (065).",
+   "referencias": [
+    [
+     "A-B (base S)",
+     "N 57° 55′ E = 2190 m · her. de Frías; A = Arranque"
+    ],
+    [
+     "B-C (costado E)",
+     "N 33° 13′ O = 2337 m · José Agüero"
+    ],
+    [
+     "C-D (fondo N)",
+     "S 57° 47′ O = 2782 m · Santiago Murray"
+    ],
+    [
+     "D-A (costado O)",
+     "[N] 47° 43′ [?] = 2367 m · Modesta Ávila de De la Torre"
+    ],
+    [
+     "Hijuelas (O → E)",
+     "Enriqueta (A-E-M-D) · Rosa (E-F-L-M) · Narciso (F-G-K-L) · Pascual (G-H-I-K) · Emilio (H-B-C-I)"
+    ],
+    [
+     "Divisorias",
+     "N 33° 13′ O = 2297,75 · 2307,62 · 2317,48 · 2327,35 m"
+    ],
+    [
+     "Superficie",
+     "5 × 114 ha 92 a 36 ca ≈ 574,6 ha (lápiz)"
+    ],
+    [
+     "Aguas",
+     "Un arroyito cruza la base cerca de G (≈ 1200 m de A)"
+    ],
+    [
+     "Meridiano",
+     "Norte verdadero N 10° 32′ N. E."
+    ],
+    [
+     "Escala",
+     "Metros"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: hijuelas y base",
+   "img": "img/f/078/04.jpg",
+   "fuente": "IMG_7412.JPG",
+   "orientacion": "",
+   "interpretacion": "Toma cercana de las cinco hijuelas, con las longitudes de las divisorias, la base A-B con sus progresivas y el arroyito, el «Arranque» en A y las cifras a lápiz (superficie de cada hijuela y cuentas al margen).",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Narciso martínez: de poblador (1840-1862) a causante (1873)",
+   "texto": "En el plano de Prat de 1840 (074) ya había, al S del campo Colmenero, una casa de «Narciso Mar[…]»; en el de Saubidet de 1862 (075) la «población de Narciso Martínez» está dentro del campo de los herederos de su madre (probable), Dominga Garzete de Martínez. En 1873 sus propios herederos dividen un campo de ≈ 575 ha en cinco hijuelas. La historia de una familia en tres planos: ocupación (1840), herencia materna (1862), partición entre los nietos (1873)."
+  },
+  {
+   "titulo": "Encaje en el bloque so",
+   "texto": "Linderos: al O Modesta Ávila de la Torre, que en 1869 recibió 961,86 ha en la división del campo Colmenero (054); al E José Agüero y al S los herederos de Frías, los mismos que rodean las hijuelas Acuña de Schuster en 1873 (065: «entre José Agüero y los her. de Pastor Frías»). Al N Santiago Murray, nombre nuevo en el corpus (¿otro irlandés del bloque británico?). La pieza debe ser parte del antiguo campo Garzete (075), entre Colmenero y Acuña–Agüero: cotejar en GIS con el costado S de 9733,8 m de 075 y con los rumbos de 054 (N 47° 25′ O)."
+  },
+  {
+   "titulo": "Técnica: fajas paralelas y divisorias crecientes",
+   "texto": "Schuster traza las divisorias paralelas al costado E (N 33° 13′ O) y deja que absorban la oblicuidad del costado O: cada una mide 9,87 m más que la anterior (2297,75 → 2337) y la primera hijuela (Enriqueta) se vuelve triangular para igualar superficie. Todas las cifras en metros con dos decimales; letras A-M en los vértices, como en 052-053 y 063-066. «Norte verd.e N.º 10° 32′ N.E.» (lectura clara): ≈ 1° MENOS que el «Norte verd.º 11° 35′ N.E.» del mismo Schuster en febrero y octubre de 1873 (064, 065). O la cifra no es la variación sino el ángulo de la flecha respecto de otra línea, o cambió de instrumento: no usarla sin control para corregir rumbos en el GIS."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "El plano es casi mudo: un arroyito sin nombre corta la base a ≈ 1200 m del Arranque (probable cabecera del arroyo de Frías o de los cursos que nacen en el campo Garzete, 075). No hay poblaciones dibujadas: la partición es anterior a la ocupación de las hijuelas, o el agrimensor no las consignó."
+  },
+  {
+   "titulo": "Numeración y jurisdicción",
+   "texto": "La portadilla corrige dos veces la sección (Luján tachado, «Areco» tachado y vuelto a Luján) y el número (258 → 263). Es el mismo vaivén administrativo del rincón SO entre Mercedes, Areco y Giles visto en 054, 055, 074 y 075."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Quién fue la viuda o madre de los cinco herederos? ¿Es este campo una parte del de Dominga Garzete (075) o una compra aparte? ¿Quién era Santiago Murray? ¿Qué significan las cuentas a lápiz «1743 / 17»?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Narciso Martínez (†)",
+   "rol": "Causante",
+   "texto": "Poblador con casa al S del campo Colmenero en 1840 (074) y dentro del campo de los her. de Dominga Garzete de Martínez en 1862 (075); muerto antes de 1873. Sin datos en la web.",
+   "fuentes": "Dup. 74, 75, 78."
+  },
+  {
+   "nombre": "Enriqueta, Rosa, Narciso, Pascual y Emilio Martínez",
+   "rol": "Herederos",
+   "texto": "Adjudicatarios de las cinco hijuelas de 114 ha 92 a 36 ca. Sin otros datos.",
+   "fuentes": "Dup. 78."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor de las hijuelas del rincón SO y de la naciente (052, 053, 060, 063-066, 068, 070) entre 1869 y 1876. Sin datos biográficos nuevos en la búsqueda web breve.",
+   "fuentes": "Fichas 052-070."
+  },
+  {
+   "nombre": "Modesta Ávila de la Torre",
+   "rol": "Lindera (o)",
+   "texto": "Adjudicataria de 961,86 ha en la división del campo Colmenero (Dillon, 1869).",
+   "fuentes": "Ficha 054."
+  },
+  {
+   "nombre": "José Agüero · her. de Frías · Santiago Murray",
+   "rol": "Linderos",
+   "texto": "Agüero y los her. de Pastor Frías: linderos de las hijuelas Acuña (065). Murray: sin otros datos en el corpus.",
+   "fuentes": "Fichas 065, 075."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/078/02.jpg",
+  "fuente": "IMG_7410.JPG",
+  "lineas": [
+   "~~Seccion Lujan~~   Giles ✕",
+   "78",
+   "Seccion ~~Areco~~ Lujan",
+   "~~N.^{o} 258~~",
+   "N.^{o} 263",
+   "Duplicado de las diligencias de",
+   "mensura y plano del terreno de",
+   "los herederos de D.^{n} Narciso Mar-",
+   "tinez, situado en el Partido de",
+   "San Andres de Giles —",
+   "Medido en el mes de Setiembre de",
+   "1873 —",
+   "Por el Agrimensor Carlos Schuster",
+   "[rúbrica]"
+  ]
+ },
+ "titulo": "Her. de Narciso Martínez",
+ "estado": "Transcripta (1 hojas, 16 renglones), 2 láminas"
+}
