@@ -1,0 +1,242 @@
+{
+ "carpeta": "83",
+ "carpeta_nombre": "Carpeta 83",
+ "archivo": "Ficha 083 - Antonio Silva (1877).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (margen E del arroyo de Giles, aguas abajo del pueblo)",
+  "N.º de duplicado": "83 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Antonio Silva",
+  "Agrimensor": "José María Muñiz",
+  "Año": "1877",
+  "Fecha de la diligencia": "No consta; decreto de Lavalle «Agréguese …»",
+  "Ubicación": "Sobre el arroyo de Giles, entre Mauricia Duarte y her. de V. Peñalva",
+  "Orden judicial": "No fotografiada (asoma el final de un auto y el decreto)",
+  "Vendedor / antecesor": "No consta (zona de la suerte Duarte de las ventas Suero, 032)",
+  "Linderos citados": "Her. de Bernardino Rodríguez · her. de V. Peñalva · Pascual Rodríguez · L. Veloz",
+  "Medidas": "Frente 736,1 m (850 v) · fondo 519,6 m · 3.262.309 m² = 4.350.000 v²",
+  "Rumbos": "S 47° 16′ E / N 47° 16′ O · S 42° 44′ O · var. 11° 56′ NE [?]",
+  "Referencia de archivo": "Duplicado 83 (citado en la copia de 1906 de la Ficha 035)"
+ },
+ "metricas": {
+  "superficie_ha": "326,23",
+  "hitos": "Poblaciones de A. Silva y Melitón Rodríguez; tres caminos",
+  "aguas": "Arroyo de Giles"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron carátula, el borde del último folio (con el «Agréguese» de Lavalle) y el plano. José María Muñiz mide en 1877 el campo de Antonio Silva sobre la margen E del arroyo de Giles: faja S 47° 16′ E de 736,1 m (850 v) de frente que se angosta a 519,6 m (600 v) en su mitad E, donde queda la pieza de Lucía Veloz de Fariña (250 × 3000 v); 4.350.000 v² = 3.262.309 m² (326 ha). Al N, los herederos de Bernardino Rodríguez y Mauricia Duarte de Rodríguez; al S, los de V. Peñalva; al fondo, los de Pascual Rodríguez. Lo cruzan el camino de Zárate a Giles y dos caminos a Giles. Es el Dup. 83 citado en la copia de 1906 de 035.",
+ "caratula": {
+  "img": "img/f/083/01.jpg",
+  "fuente": "IMG_7422.JPG",
+  "campos": [
+   [
+    "N.º",
+    "83"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Antonino Silva"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Muñiz"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1877"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Margen del último folio: auto y «Agréguese» de Lavalle",
+   "img": "img/f/083/04.jpg",
+   "fuente": "IMG_7423.JPG (borde izquierdo)",
+   "nota": "Sólo se ve la mitad derecha del folio que precede al plano; faltan los comienzos de renglón. Las rúbricas del encabezado están arriba. La firma del auto y el año son de lectura dudosa.",
+   "lineas": [
+    "[rúbricas]",
+    "[... trans]cripcion del auto; y fe-",
+    "[cho ...] el expediente origi-",
+    "[nal ...]s que le sean convenien-",
+    "[tes ...] Solicitante J. Larralde [?]",
+    "[...]toria [?]",
+    "[... de 187]6 [?]",
+    "[firma:] [...]tiano P. Larralde [?]",
+    "[decreto:] [Agréguese al dup]licado correspondiente",
+    "Lavalle"
+   ],
+   "interpretacion": "Es el final de un auto o constancia que ordena, «hecha la transcripción del auto», devolver o pasar el expediente original a quien corresponda, con mención de un «solicitante» (¿Larralde?, quizá el procurador de Silva), y debajo el decreto de trámite del Departamento de Ingenieros: «[Agréguese al dup]licado correspondiente», con la firma de Lavalle, la misma fórmula que en 070 (1876) y 076 (1861). La fecha de la diligencia no se ve; la carátula dice 1877."
+  },
+  {
+   "titulo": "Rótulos y cifras del plano de Muñiz",
+   "img": "img/f/083/03.jpg",
+   "fuente": "IMG_7423 e IMG_7424",
+   "nota": "Plano en tela, con rótulos de molde y cifras pequeñas a lo largo de las líneas; varias cifras (las del rumbo del meridiano, las ordenadas a la costa) son dudosas. Las cifras de los lados se verificaron con la superficie (850 v × 6000 v − 250 v × 3000 v = 4.350.000 v²).",
+   "lineas": [
+    "[al N:] Mauricio [sic] Duarte de Rodriguez",
+    "[en la faja N:] • Meliton Rodriguez [casa]",
+    "[A-B:] S. 47° 16′ E.   ·   Herederos de D.^{n} Bernardino Rodriguez",
+    "[C-F:] S. 47° 16′ E.   ·   [progresivas] 863 · 1720 · 2585 · 3459 · 4324 · 5075,5",
+    "Antonio Silva. Sup: 3262309 m.^{s} c.^{s} = 4350000 v.^{s} c.^{s}",
+    "[frente sobre el arroyo, C-D:] S. 42° 44′ O. [?]   ·   303 · 387 · 519,6   ·   736,1",
+    "[ordenadas a la costa:] 99 · 98 · 126 · 146 · 156 · 146 · 106 [?]",
+    "[D-J:] N. 47° 16′ O. = JD = 2487 [?]   ·   [progresivas] 1634 · 637 [?]",
+    "[en el campo:] A. Silva [población con cerco o arboleda]",
+    "[F-G:] S. 42° 44′ O. 519,6",
+    "[I-G:] N. 47° 16′ O. = IG = 2598   ·   [progresivas] 1616 · 751",
+    "[I-J y G-H:] S. 42° 44′ O. 216,5",
+    "Lucia Veloz de Fariña. S. 562,467 m.^{c} = 750,000 v.^{s} c.^{s}",
+    "[al S:] Herederos de D.^{n} V. Peñalva   ·   [línea E:] S. 42° 16′ E. [?]",
+    "[al E:] Herederos de Pascual Rodriguez",
+    "[al O:] Arroyo de Giles",
+    "[caminos:] Camino de Zárate a Giles · Camino á Giles · Camino á Giles",
+    "[meridiano:] V.^{n} 11° 56′ N. E. [?]",
+    "Metros [1000 · 0 · 1000 · 2000 · 3000 · 4000]   ·   [firma:] José M.^{a} Muñiz"
+   ],
+   "interpretacion": "Plano del campo de Antonio Silva sobre la margen E del arroyo de Giles: una faja de rumbo S 47° 16′ E que arranca en la costa (C-D, 736,1 m = 850 varas) y corre ≈ 5075 m hasta el fondo; en su mitad E la faja se angosta a 519,6 m (600 v) porque al S queda la pieza de Lucía Veloz de Fariña, de 216,5 × 2598 m (250 × 3000 v = 750.000 v² = 562.467 m²). Superficie de Silva: 4.350.000 v² = 3.262.309 m² (326 ha). Al N, la faja de los herederos de Bernardino Rodríguez (con la casa de Melitón Rodríguez) y detrás Mauricia Duarte de Rodríguez; al S, los herederos de V. Peñalva; al fondo, los de Pascual Rodríguez. Tres caminos cruzan las fajas: el de Zárate a Giles y dos «a Giles». La población de A. Silva está en el borde S, cerca del camino."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del campo de Antonio Silva (Muñiz, 1877)",
+   "img": "img/f/083/02.jpg",
+   "fuente": "IMG_7423.JPG",
+   "orientacion": "Plano en tela, apaisado, en marco de doble filete con esquinas redondeadas; la fracción de Silva sombreada; arroyo de Giles a la izquierda; meridiano con flecha cruzando el plano en diagonal; escala transversal en metros al pie; sello circular en el ángulo superior derecho; a la izquierda, el final del auto y el decreto de Lavalle.",
+   "interpretacion": "Lámina completa: las cinco fajas paralelas (Duarte, B. Rodríguez, Silva, Veloz de Fariña, Peñalva) con el fondo común contra Pascual Rodríguez. Es la zona de la suerte de Mauricia Duarte y de la de Vicente Peñalva de las ventas de los albaceas de Suero (032, 035, 057).",
+   "referencias": [
+    [
+     "C-D (O)",
+     "Frente sobre el arroyo de Giles, S 42° 44′ O [?] · 736,1 m (850 v) en tramos 303 + 387 + …, con ordenadas a la costa"
+    ],
+    [
+     "C-F (N)",
+     "S 47° 16′ E · ≈ 5075,5 m · her. de Bernardino Rodríguez"
+    ],
+    [
+     "F-G (E)",
+     "S 42° 44′ O · 519,6 m (600 v) · her. de Pascual Rodríguez"
+    ],
+    [
+     "G-I-J",
+     "N 47° 16′ O 2598 m (3000 v) · S 42° 44′ O 216,5 m (250 v): pieza de Lucía Veloz de Fariña"
+    ],
+    [
+     "J-D (S)",
+     "N 47° 16′ O · 2487 m [?] · her. de V. Peñalva"
+    ],
+    [
+     "Superficie",
+     "Silva 3.262.309 m² = 4.350.000 v² (≈ 326 ha) · Veloz 562.467 m² = 750.000 v²"
+    ],
+    [
+     "Poblaciones",
+     "A. Silva (borde S) · Melitón Rodríguez (faja N)"
+    ],
+    [
+     "Caminos",
+     "De Zárate a Giles · dos «á Giles», con progresivas sobre las líneas"
+    ],
+    [
+     "Meridiano",
+     "V.ª 11° 56′ NE [?]"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: el frente sobre el arroyo y los caminos",
+   "img": "img/f/083/03.jpg",
+   "fuente": "IMG_7424.JPG",
+   "orientacion": "",
+   "interpretacion": "Toma cercana de la mitad O: las ordenadas a la costa del arroyo de Giles, los tramos del frente, las progresivas de los caminos, la población de A. Silva y la pieza de Lucía Veloz de Fariña con su superficie.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "La matriz suero, otra vez",
+   "texto": "Las cinco fajas de 083 encajan en la matriz de 032 (Gonnet 1862) y en sus desarrollos 035 y 057: al N la suerte de Mauricia Duarte (1700 v en 032), al S los herederos de Vicente Peñalva (3000 v; 035, 057), al fondo Pascual Rodríguez (el del «mirador» de 032). La copia azul de 1906 de 035 cita precisamente el Dup. 83 (Antonio Silva): la remisión queda confirmada. El frente de Silva (850 v) más la faja de B. Rodríguez parecen salir de la suerte Duarte o del borde N de Peñalva: medir en GIS sobre el plano de 032."
+  },
+  {
+   "titulo": "Los veloz y los rodríguez",
+   "texto": "Lucía Veloz de Fariña tiene una pieza de 250 × 3000 v metida en el campo de Silva: la familia Veloz es la que en 1870 se reparte la suerte Peñalva (057); en 1877 una Veloz casada (Fariña) tiene tierra al N de esa suerte. Los Rodríguez (Mauricia Duarte de Rodríguez, Bernardino, Melitón, Pascual) rodean el campo: el tronco Rodríguez–Duarte de la margen E del arroyo, ya visto en 032-036 y 047-051."
+  },
+  {
+   "titulo": "Paisaje: caminos hacia el pueblo",
+   "texto": "Tres caminos cruzan las fajas en dirección al pueblo: el de Zárate a Giles (el «camino de Giles para Zárate» de 043-044) y dos «a Giles», con progresivas sobre las líneas (863-1720 m en la línea N; 1634, 637 [?] en la S). Con los ocho cruces de 043-044 dan una red de puntos para trazar el camino de Zárate en GIS."
+  },
+  {
+   "titulo": "Antonio silva / antonio b. silva",
+   "texto": "En 1865 Muñiz mide para Antonio B. Silva una faja de 433 m entre las Quevedo, en el Sauce (050). En 1877 el mismo agrimensor mide un campo de Antonio Silva sobre el arroyo de Giles. Probablemente es la misma persona (la carátula dice «Antonino»): un propietario con tierras en dos rincones del partido. METODO registra además «Benjamín Silva» = Antonio B. Silva en la línea de Vivar."
+  },
+  {
+   "titulo": "Metrología y técnica",
+   "texto": "Metros con decimales, pero el diseño es de varas: 850 v de frente, 600 v de fondo, pieza de 250 × 3000 v, superficies redondas en varas cuadradas (4.350.000 y 750.000): títulos antiguos traducidos al metro. Muñiz reaparece doce años después de su campaña de 1865 (034, 048-051, 073), ahora firmando «José M.ª Muñiz»: primer nombre de pila del agrimensor en el corpus."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Cómo adquirió Silva el campo (compra a los Duarte, a los Rodríguez)? ¿Quién es el «Larralde» del auto? ¿El rumbo de la línea E (S 42° 16′ E) es un error por 47° 16′? Pedir foto del cuerpo de la diligencia."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Antonio (Antonino) Silva",
+   "rol": "Propietario",
+   "texto": "Dueño en 1877 de 326 ha sobre el arroyo de Giles, con población propia; probablemente el Antonio B. Silva de la faja del Sauce (050, 1865). Sin datos en la web.",
+   "fuentes": "Dup. 83; Fichas 035, 050."
+  },
+  {
+   "nombre": "José María Muñiz",
+   "rol": "Agrimensor",
+   "texto": "Autor de la campaña de 1865 en el Sauce y la naciente (034, 048-051, 073); aquí firma con nombre completo. Búsqueda web breve (10/2026) sin datos biográficos.",
+   "fuentes": "Fichas citadas; búsqueda web."
+  },
+  {
+   "nombre": "Lavalle",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firma los decretos de trámite («Agréguese…») del Departamento de Ingenieros en 1876-77 (070). Búsquedas anteriores sin identificación segura.",
+   "fuentes": "Ficha 070."
+  },
+  {
+   "nombre": "Lucía Veloz de Fariña",
+   "rol": "Lindera",
+   "texto": "Dueña de una pieza de 250 × 3000 v (≈ 56 ha) dentro del campo; de la familia Veloz de la suerte Peñalva (057).",
+   "fuentes": "Ficha 057."
+  },
+  {
+   "nombre": "Mauricia Duarte de Rodríguez · Bernardino, Melitón y Pascual Rodríguez",
+   "rol": "Linderos",
+   "texto": "Mauricia: dueña de la suerte Duarte (032, 035, 057). Pascual Rodríguez: el del «mirador» de 1862 (032) y la quinta de 047. Bernardino y Melitón: sin otros datos (un Melitón Rodríguez tiene quinta en el borde del pueblo en 1871, 060).",
+   "fuentes": "Fichas 032, 035, 047, 057, 060."
+  },
+  {
+   "nombre": "Her. de Vicente Peñalva",
+   "rol": "Linderos (s)",
+   "texto": "La suerte de 3000 v de las ventas Suero (035), partida entre los Veloz en 1870 (057).",
+   "fuentes": "Fichas 035, 057."
+  }
+ ],
+ "titulo": "Antonio Silva",
+ "estado": "Transcripta (2 hojas, 29 renglones), 2 láminas"
+}

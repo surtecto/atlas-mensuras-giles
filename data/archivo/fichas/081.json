@@ -1,0 +1,207 @@
+{
+ "carpeta": "81",
+ "carpeta_nombre": "Carpeta 81",
+ "archivo": "Ficha 081 - Test. de Gerónimo Tormy (1876).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (NE, sobre la Cañada de la Cruz)",
+  "N.º de duplicado": "81 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Testamentaría de Gerónimo Tormy",
+  "Agrimensor": "Mariano Ybarraguirre (Yparraguirre)",
+  "Año": "1876",
+  "Fecha de la diligencia": "Plano fechado en Buenos Aires, noviembre de 1876",
+  "Ubicación": "Fracción NO del campo Tormy (079-080), cruzada por el camino a Santa Fe",
+  "Orden judicial": "No fotografiada",
+  "Vendedor / antecesor": "Gerónimo Tormy (†)",
+  "Linderos citados": "Lennon · Sandalio Sosa · Emilio Costa · Gerardo Sosa · Juan O'Brien · test. Tormy",
+  "Medidas": "A-B 7768,06 m · C-D 7774,55 m · A-D 1086,41 m · B-C 1082,59 m · 818 ha 85 a 15 ca",
+  "Rumbos": "N 47° O / S 46° 34′ E [?] · N 43° E / S 43° 21′ O",
+  "Referencia de archivo": "Duplicado 81; a lápiz «1027» [?]"
+ },
+ "metricas": {
+  "superficie_ha": "818,85",
+  "hitos": "Siete puestos; camino a Santa Fe",
+  "aguas": "Cañada de la Cruz"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron carátula y plano. En noviembre de 1876 Mariano Ybarraguirre mide para la testamentaría de Gerónimo Tormy una fracción del campo de la Cañada de la Cruz (079-080): un rectángulo de 7768,06 / 7774,55 m de largo (N 47° O) por 1086,41 m de frente sobre la cañada y 1082,59 m de fondo contra Juan O'Brien, con 818 ha 85 a 15 ca. Al N lindan Eduardo Lennon, Sandalio Sosa, Emilio Costa y Gerardo Sosa; al S, el resto de la testamentaría. El camino a Santa Fe lo cruza en diagonal y hay siete puestos. Es la partición de la herencia de Tormy, muerto entre 1863 y 1875.",
+ "caratula": {
+  "img": "img/f/081/01.jpg",
+  "fuente": "IMG_7418.JPG",
+  "campos": [
+   [
+    "N.º",
+    "81"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA, CATASTRO Y MAPA DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Geronimo Tormy"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Mariano Yparraguirre"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1876"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Ybarraguirre",
+   "img": "img/f/081/03.jpg",
+   "fuente": "IMG_7419.JPG",
+   "nota": "Sólo se fotografiaron la carátula y el plano. Varios rótulos del costado N y el del meridiano están escritos al revés (se leyeron girando 180°). La segunda cifra del rumbo S y algunas progresivas son de lectura dudosa.",
+   "lineas": [
+    "[al N, de O a E:] Eduardo Lennon · Sandalio Sosa · Emilio Costa · Gerardo Sosa",
+    "[costado N, A-B:] N. 47° O. 7768,06 m^{s}",
+    "[progresivas sobre A-B, desde A:] 1299 · 1675 · 2227 · 3026 · [...] · 6214 [?] · 6819 [?] · 7472 [?]",
+    "[al O:] Juan O'Brien   ·   [B-C:] S. 43° 21′ O. 1082,59 m^{s}",
+    "[centro:] TES.^{TA} DE GERONIMO TORMY",
+    "Sup.^{e} = 818 h.^{as} 85 a.^{as} 15 c.^{as}",
+    "[costado S, C-D:] S. 46° 34′ [?] E. 7774,55 m^{s}   ·   [progresivas] 3250 · 4226",
+    "[al S:] Test.^{a} de Geronimo Tormy",
+    "[frente E, D-A:] N. 43° E. 1086,41 m^{s}   ·   Cañada de la Cruz",
+    "[en diagonal:] Camino [a] Santa-Fé",
+    "[dentro del campo:] P.^{to} · P.^{to} · P.^{to} · P.^{to} · P.^{to} · P.^{to} · P.^{to}",
+    "[meridiano:] N [flecha] · S   ·   [rótulo invertido] [...] 1[1]° 33′ [?]",
+    "Escala de metros [1000 · 900 · … · 0 · 1000 · 2000]",
+    "B.^{s} Aires Noviembre de 1876   [firma:] Mariano Yparraguirre",
+    "[a lápiz, bajo el rótulo S:] 1027 [?]"
+   ],
+   "interpretacion": "Plano de la fracción de la testamentaría de Gerónimo Tormy medida en noviembre de 1876: un rectángulo largo de ≈ 7770 m por ≈ 1084 m, con frente E sobre la Cañada de la Cruz (N 43° E 1086,41 m) y fondo O contra Juan O'Brien (S 43° 21′ O 1082,59 m). Al N lindan, de O a E, Eduardo Lennon, Sandalio Sosa, Emilio Costa y Gerardo Sosa; al S, el resto de la propia testamentaría. Superficie: 818 ha 85 a 15 ca. El CAMINO A SANTA FE cruza el campo en diagonal: entra por el costado N a ≈ 1675 m de la cañada y sale por el S en la progresiva 3250 (¿contada desde C, es decir a ≈ 4500 m de la cañada?). Hay siete puestos («P.to») repartidos dentro. El ancho (≈ 1252 varas) es un poco más de un tercio del frente de 3191 v de 1855-1860: es una hijuela o una venta de la testamentaría."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la fracción de la test. de Gerónimo Tormy (Ybarraguirre, 1876)",
+   "img": "img/f/081/02.jpg",
+   "fuente": "IMG_7419.JPG",
+   "orientacion": "Plano apaisado en marco de doble filete con esquinas redondeadas; rótulos de molde y cursiva inglesa; la Cañada de la Cruz a la derecha; flecha de meridiano N-S en el ángulo E; escala transversal en metros abajo a la izquierda; sello de la repartición en tinta en el ángulo superior derecho.",
+   "interpretacion": "Tercera imagen del campo Tormy (079, 080). Ahora en metros y con la tierra ya fraccionada; los linderos del N son nuevos (Lennon, Sandalio Sosa, Emilio Costa, Gerardo Sosa) y O'Brien sigue en el fondo. El camino a Santa Fe con progresivas sobre dos costados es un ancla GIS.",
+   "referencias": [
+    [
+     "A-B (N)",
+     "N 47° O · 7768,06 m · Lennon, Sandalio Sosa, Emilio Costa, Gerardo Sosa"
+    ],
+    [
+     "B-C (O)",
+     "S 43° 21′ O · 1082,59 m · Juan O'Brien"
+    ],
+    [
+     "C-D (S)",
+     "S 46° 34′ [?] E · 7774,55 m · test.ª de Gerónimo Tormy"
+    ],
+    [
+     "D-A (E)",
+     "N 43° E · 1086,41 m · Cañada de la Cruz (costa con ordenadas)"
+    ],
+    [
+     "Superficie",
+     "818 ha 85 a 15 ca (el producto de los lados da ≈ 842 ha: la costa resta superficie [?])"
+    ],
+    [
+     "Camino",
+     "Camino a Santa Fe: cruza A-B a ≈ 1675 m de A y C-D en la progresiva 3250 [?]"
+    ],
+    [
+     "Poblaciones",
+     "Siete puestos sin nombre"
+    ],
+    [
+     "Meridiano",
+     "Flecha N-S; rótulo invertido 1[1]° 33′ [?]"
+    ],
+    [
+     "Escala",
+     "Metros (transversal)"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "La herencia parte el campo",
+   "texto": "Entre 1863 (remate de Del Sar, 031) y 1875 (069, «her. de Gerónimo Torny») murió Tormy. En 1876 la testamentaría hace medir una fracción de 818 ha (≈ 1252 v de ancho) sobre el costado N del campo, con el mismo rumbo de las fajas (N 47° O) y el frente sobre la Cañada de la Cruz: la forma típica de una hijuela o de una venta para pagar deudas de la sucesión. El resto queda como «Test.ª de Gerónimo Tormy» al S."
+  },
+  {
+   "titulo": "Los vecinos del n: irlandeses y criollos",
+   "texto": "Eduardo Lennon es el irlandés lindero NE de Scully en 1875 (069); Sandalio y Gerardo Sosa continúan a «los Sosas» de 1855-1860 (079, 080); Emilio Costa podría ser pariente de Zoilo y Federico Costa, linderos de la hijuela Olivera en el rincón SO (063). O'Brien sigue al fondo, como en 1860. El cambio de linderos al N (de her. de Martínez y Del Sar a Lennon, Sosa y Costa) muestra la recomposición de las fajas de Del Sar después del remate de 1863."
+  },
+  {
+   "titulo": "Paisaje: el camino a santa fe y los puestos",
+   "texto": "El «Camino a Santa Fe» —uno de los caminos de las provincias que el corpus ya nombra en 027 («[camino de] las Provincias»)— cruza el campo en diagonal. Siete puestos sin nombre, dispersos, muestran una ganadería con puesteros (en 1855 Aispurúa nombraba cinco ranchos). No se dibuja la azotea de Tormy: quedaría en la parte S, fuera de esta fracción."
+  },
+  {
+   "titulo": "Metrología y técnica",
+   "texto": "Metros con dos decimales, superficie en hectáreas, áreas y centiáreas, rumbos al minuto y costa de la cañada con ordenadas: la práctica de la década de 1870 (Ybarraguirre ya en 056 y 058, 1870). El costado S se lee S 46° 34′ E [?], 26′ distinto del N 47° O del costado N: o la figura no es un rectángulo o la cifra es 46° 54′ / 47°."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿A quién se adjudicó o vendió esta fracción? ¿Cómo se relaciona con el «Torny» lindero SE de Scully (069)? ¿El campo de 1876 coincide con la mitad N del de 1855 (3191 v) o incluye la faja de los Martínez de 1860? Superponer 079, 080 y 081 en GIS con el frente común sobre la Cañada de la Cruz."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Gerónimo Tormy (†)",
+   "rol": "Causante",
+   "texto": "Ver Fichas 079 y 080. Muerto antes de 1875.",
+   "fuentes": "Dup. 79-81; Ficha 069."
+  },
+  {
+   "nombre": "Mariano Ybarraguirre (Yparraguirre)",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor de la década de 1870 en el corpus (056 y 058, 1870). La carátula escribe «Yparraguirre». Búsquedas web anteriores (10/2026) sin datos biográficos útiles.",
+   "fuentes": "Fichas 056, 058."
+  },
+  {
+   "nombre": "Eduardo Lennon",
+   "rol": "Lindero (n)",
+   "texto": "Irlandés, lindero NE de Santiago Scully en 1875 (069).",
+   "fuentes": "Ficha 069."
+  },
+  {
+   "nombre": "Sandalio Sosa · Gerardo Sosa",
+   "rol": "Linderos (n)",
+   "texto": "Miembros de la familia Sosa de la Cañada de la Cruz (026-027, 079-080).",
+   "fuentes": "Fichas citadas."
+  },
+  {
+   "nombre": "Emilio Costa",
+   "rol": "Lindero (n)",
+   "texto": "Sin otros datos; cf. Zoilo y Federico Costa (063).",
+   "fuentes": "Ficha 063."
+  },
+  {
+   "nombre": "Juan O'Brien",
+   "rol": "Lindero (o)",
+   "texto": "Irlandés; lindero de Tormy desde 1860 (080) y de Scully en 1875 (069, sus herederos protestan la mensura).",
+   "fuentes": "Fichas 027, 069, 080."
+  }
+ ],
+ "titulo": "Testamentaría de Gerónimo Tormy",
+ "estado": "Transcripta (1 hojas, 15 renglones), 1 lámina"
+}

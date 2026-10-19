@@ -1,0 +1,216 @@
+{
+ "carpeta": "80",
+ "carpeta_nombre": "Carpeta 80",
+ "archivo": "Ficha 080 - Gerónimo Tormy (1860).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (NE, sobre la Cañada de la Cruz; antes Areco)",
+  "N.º de duplicado": "80 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Gerónimo Tormy",
+  "Agrimensor": "Pedro Pico",
+  "Año": "1860",
+  "Fecha de la diligencia": "Plano firmado el 20 de enero de 1860",
+  "Ubicación": "Al N de la Cañada de la Cruz (mismo campo que la Ficha 079)",
+  "Orden judicial": "No fotografiada; asoma el final de un informe firmado «Malaver»",
+  "Vendedor / antecesor": "No consta; el campo de 1855 (079) más una faja nueva al SE",
+  "Linderos citados": "Pedro del Sar · her. de Martínez (NO) · O'Brien (NE) · los Sosa (SE)",
+  "Medidas": "Frente 3191 v sobre la cañada · costados 9248 / 9154 v · fajas de 383 y 302 v",
+  "Rumbos": "N 47° 22′ O (costados) · ángulo del meridiano 3[2]° 11′ [?]",
+  "Referencia de archivo": "Duplicado 80; sumas a lápiz al margen"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 2200 + ≈ 205 (no consta)",
+  "hitos": "Esquineros sobre la cañada; faja agregada",
+  "aguas": "Cañada de la Cruz"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron la carátula y el plano, con el final de un informe a su izquierda. El 20 de enero de 1860 Pedro Pico mide de nuevo el campo de Gerónimo Tormy sobre la Cañada de la Cruz, ya medido por Aispurúa en 1855 (079): mismo frente de 3191 varas y mismo rumbo N 47° 22′ O, costados de 9248 y 9154 varas, y dos fajas más en el dibujo: la de los herederos de Martínez al NO (con Pedro del Sar detrás) y una faja sombreada de 302 varas al SE, otra vez de Tormy, contra los Sosa. El fondo linda con O'Brien. Un informe firmado «Malaver» declara la mensura en estado de aprobación. Es el eslabón entre 079 y la partición testamentaria de 1876 (081).",
+ "caratula": {
+  "img": "img/f/080/01.jpg",
+  "fuente": "IMG_7416.JPG",
+  "campos": [
+   [
+    "N.º",
+    "80"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Geronimo Tormy"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Pedro Pico"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1860"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Margen del último folio: informe firmado «Malaver»",
+   "img": "img/f/080/03.jpg",
+   "fuente": "IMG_7417.JPG (borde izquierdo)",
+   "nota": "Sólo se ven los finales de renglón del folio que precede al plano (la hoja está cortada por el pliegue). Se transcribe lo visible; el comienzo de cada renglón falta.",
+   "lineas": [
+    "[...] examinado",
+    "[... p]or el agri-",
+    "[mensor ... de D. Ger]ónimo Tor-",
+    "[my ... pr]oceder facul-",
+    "[tad ...] y á las dis-",
+    "[posiciones ...] tendibles las",
+    "[...]tio á las causas",
+    "[...] practicada",
+    "[...] cree que la",
+    "[...] en estado de",
+    "[...]",
+    "[... de 18]60.",
+    "[firma y rúbrica:] [...] Malaver"
+   ],
+   "interpretacion": "Es el cierre de un informe o vista sobre la mensura: alguien ha «examinado» lo actuado «por el agrimensor» en el terreno de Gerónimo Tormy, menciona las «disposiciones» y las «causas», la operación «practicada», y concluye que la mensura está «en estado de» [ser aprobada], fórmula que el corpus conoce de los informes del Departamento Topográfico (069). La firma «Malaver» podría ser la de Antonio E. Malaver (n. 1835), abogado porteño; si es así, actuaría como asesor o fiscal en el trámite judicial (identificación dudosa)."
+  },
+  {
+   "titulo": "Rótulos y cifras del plano de Pico",
+   "img": "img/f/080/02.jpg",
+   "fuente": "IMG_7417.JPG",
+   "nota": "Plano a pluma, sin colores salvo una faja sombreada al SE. Las cifras de los costados están en varas (escala «6000 varas»). Las letras de vértice y algunas cifras pequeñas junto a la cañada son de lectura dudosa.",
+   "lineas": [
+    "[escala:] 6000 varas · 5 · 4 · 3 · 2 · 1000 · 0",
+    "[al NO:] Pedro del Sar",
+    "[faja NO:] Herederos de Martinez   ·   [vértices] 1 [?] · n [?] · A · B",
+    "[líneas NO:] 9098   ·   9248",
+    "[ancho de la faja, a ambos extremos:] 383 [?]   ·   38[3] [?]",
+    "[centro:] Geronimo Tormy",
+    "[frente SO:] Cañada de la Cruz   ·   3191",
+    "[fondo NE:] 3191   ·   N. 4[2]° [35]′ E. [?]   ·   O'Brien",
+    "[costado SE:] N. 47° 22′ O.   ·   4186   ·   9154   ·   C",
+    "[faja sombreada SE:] GERONIMO   TORMY   ·   302   ·   [ext.] 9004   ·   D · E",
+    "[al SE:] Los Sosa.",
+    "[línea desde D, con flecha:] 3[2]° 11′ [?]",
+    "Enero 20 de 1860   [firma:] Pedro Pico",
+    "[a lápiz, al margen derecho y al pie: sumas y productos ilegibles]"
+   ],
+   "interpretacion": "Pico vuelve a medir, cinco años después de Aispurúa (079), el campo de Gerónimo Tormy sobre la Cañada de la Cruz: el mismo frente de 3191 varas y el mismo rumbo N 47° 22′ O, pero ahora con costados de 9248 y 9154 varas (≈ 8009 y 7927 m) y con DOS fajas agregadas al dibujo: al NO, la de los «Herederos de Martínez» (≈ 383 v de ancho, 9098-9248 v de largo), detrás de la cual sigue Pedro del Sar; al SE, una faja sombreada de 302 varas rotulada otra vez GERÓNIMO TORMY, entre el campo y «los Sosa». El fondo NE linda ahora con O'Brien (en 1855, Águeda Montenegro). La faja sombreada es la novedad: Tormy ha incorporado una tira al SE, probablemente comprada a las fajas Santellán de Martínez / Montenegro que en 1855 estaban allí. Una línea oblicua desde el vértice D, con un ángulo de ≈ 3[2]° 11′ [?], parece ser el meridiano de referencia."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del campo de Gerónimo Tormy (Pico, 1860)",
+   "img": "img/f/080/02.jpg",
+   "fuente": "IMG_7417.JPG",
+   "orientacion": "Plano apaisado con el frente (Cañada de la Cruz) a la izquierda; cañada en doble trazo; escala transversal de 6000 varas arriba; firma y fecha al pie; a la izquierda, el final del informe «Malaver».",
+   "interpretacion": "Segunda imagen del campo Tormy (tras 079, 1855) y antecedente directo de la partición testamentaria de 1876 (081). Agrega a los vecinos que faltaban en 1855: Pedro del Sar detrás de los Martínez (cf. las fajas de la testamentaría Del Sar, 031) y O'Brien al fondo (cf. 027, 069).",
+   "referencias": [
+    [
+     "Frente SO",
+     "3191 v sobre la Cañada de la Cruz (igual que en 1855)"
+    ],
+    [
+     "Costado NO",
+     "N 47° 22′ O · 9248 v (A-B) · faja de her. de Martínez ≈ 383 v (línea exterior 9098 v)"
+    ],
+    [
+     "Costado SE",
+     "N 47° 22′ O · 9154 v (D-C) · progresiva 4186 · faja sombreada de Tormy 302 v (línea exterior 9004 v)"
+    ],
+    [
+     "Fondo NE",
+     "3191 v · O'Brien · rumbo N 4[2]° [35]′ E [?]"
+    ],
+    [
+     "Linderos",
+     "Pedro del Sar (NO) · her. de Martínez (NO) · O'Brien (NE) · los Sosa (SE)"
+    ],
+    [
+     "Meridiano",
+     "Línea con flecha desde D, ángulo 3[2]° 11′ [?]"
+    ],
+    [
+     "Escala",
+     "6000 varas (transversal)"
+    ],
+    [
+     "Superficie",
+     "No consta; ≈ 3191 × 9200 v ≈ 2200 ha + faja SE ≈ 205 ha"
+    ],
+    [
+     "Aguas",
+     "Cañada de la Cruz (frente), con dos meandros en los esquineros"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Tres mediciones de un mismo campo: 1855 · 1860 · 1876",
+   "texto": "Con 079 (Aispurúa 1855), 080 (Pico 1860) y 081 (Ybarraguirre 1876) el campo de Gerónimo Tormy es la tierra mejor seguida del NE del partido: el frente de 3191 v sobre la Cañada de la Cruz y el rumbo N 47° 22′ O se mantienen en 1855 y 1860; los costados crecen de 9047/8953 a 9248/9154 v (≈ 200 v más, quizá por correr el arranque hasta la costa de la cañada) y en 1860 aparece una faja nueva de 302 v al SE. En 1876 la testamentaría ya está partida (081)."
+  },
+  {
+   "titulo": "Vecinos: del sar, martínez, o'brien, sosa",
+   "texto": "En 1855 los linderos eran her. de Pedro Martínez (O), Águeda Montenegro (N y E), M. Santellán de Martínez y los Sosas (E). En 1860 Pico pone a los her. de Martínez en una faja al NO con Pedro del Sar detrás, y a O'Brien en el fondo NE: el irlandés ya está en 1860 donde lo encuentra Pico en 1875 (069, her. de Juan O'Brien). Tres años después Pico mide la testamentaría Del Sar y registra el «remate a Torny» (031): el comprador de 1863 era vecino de Del Sar desde antes."
+  },
+  {
+   "titulo": "Ritual y trámite",
+   "texto": "El plano lleva fecha y firma de Pico (20/1/1860) y, al lado, el final de un informe que juzga la mensura «en estado de» aprobación; la firma «Malaver» no es la de un funcionario del Departamento Topográfico conocido en el corpus (Arenales, Lavalle): podría ser un asesor letrado del juzgado. No se ve el cuerpo de la diligencia."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Varas, con escala de 6000 varas, en enero de 1860, un año antes del cambio métrico que el corpus fecha en 1861 (076). Pico conserva las cifras de Aispurúa para el frente (3191 v) pero no para los costados: o remidió desde otro arranque o corrigió la longitud de 1855."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿De quién compró Tormy la faja de 302 v del SE? ¿Por qué los Martínez aparecen ahora al NO cuando en 1855 eran linderos del O? (En 1855 la «O» de Aispurúa es el mismo costado: confirmar con los rumbos.) ¿Quién es «Malaver»? Pedir a Juan foto del cuerpo de la diligencia."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Gerónimo Tormy (Torny)",
+   "rol": "Propietario",
+   "texto": "Dueño de un campo de ≈ 2200 ha con casa de azotea sobre la Cañada de la Cruz (1855, 079), remedido por Pico en 1860 con una faja agregada; comprador en el remate de las fajas de Pedro del Sar (1863, 031); en 1875 sus herederos lindan con Scully (069) y en 1876 su testamentaría hace medir una fracción (081): murió entre 1863 y 1875. Búsqueda web sin resultados.",
+   "fuentes": "Dup. 79, 80, 81; Fichas 031, 069."
+  },
+  {
+   "nombre": "Pedro Pico",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor activo en el NE del partido entre 1860 y 1876 (007, 026, 027, 031, 069, 071, 072). Ésta es, por ahora, su mensura más temprana del corpus (enero de 1860).",
+   "fuentes": "Fichas citadas."
+  },
+  {
+   "nombre": "«Malaver»",
+   "rol": "Firmante del informe",
+   "texto": "Firma un informe favorable a la mensura en 1860. Podría tratarse de Antonio E. Malaver (n. 1835), abogado y publicista porteño; la identificación es conjetural.",
+   "fuentes": "IMG_7417; registro de autor en The Online Books Page (U. Pennsylvania)."
+  },
+  {
+   "nombre": "Pedro del Sar · her. de Martínez · O'Brien · los Sosa",
+   "rol": "Linderos",
+   "texto": "Del Sar: su testamentaría se remata en 1863 (031). Martínez: los her. de Pedro Martínez de 079. O'Brien: Juan O'Brien, irlandés, lindero en 027 y 069. Sosa: la familia de la Cañada de la Cruz (026-027, 079).",
+   "fuentes": "Fichas 027, 031, 069, 079."
+  }
+ ],
+ "titulo": "Gerónimo Tormy",
+ "estado": "Transcripta (2 hojas, 27 renglones), 1 lámina"
+}

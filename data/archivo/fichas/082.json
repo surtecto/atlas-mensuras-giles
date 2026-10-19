@@ -1,0 +1,201 @@
+{
+ "carpeta": "82",
+ "carpeta_nombre": "Carpeta 82",
+ "archivo": "Ficha 082 - Her. de Pastor Frías (1877).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (bloque naciente / cabezadas del Luján)",
+  "N.º de duplicado": "82 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Her. de Pastor Frías (tierra del Estado)",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1877",
+  "Fecha de la diligencia": "Plano fechado en septiembre de 1877",
+  "Ubicación": "Cabezada de los campos Frías y ex Basarte (064), contra Félix Lezcano",
+  "Orden judicial": "No fotografiada (venta de tierra pública: «solicitado en compra»)",
+  "Vendedor / antecesor": "El Estado provincial",
+  "Linderos citados": "Félix Lezcano (N) · Gregorio Acuña (O) · her. de P. Frías (S) · Estado (E)",
+  "Medidas": "D-A 1906,5 m · A-B 507 m · C-D 840 m · 1.707.153 v² = 1.280.290 m²",
+  "Rumbos": "N 56° 55′ E · N 30° 55′ O · var. 11° 35′ NE",
+  "Referencia de archivo": "Duplicado 82; a lápiz 56° 55′ + 30° 55′ = 87° 50′"
+ },
+ "metricas": {
+  "superficie_ha": "128,03",
+  "hitos": "Poste de Acuña (vértice C)",
+  "aguas": "Arroyo sin nombre (¿de Frías?)"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron carátula y plano. En septiembre de 1877 Carlos Schuster mide un «terreno del Estado, solicitado en compra por los herederos de Don Pastor Frías»: un trapecio de 1906,5 m de base (N 56° 55′ E) con costados paralelos N 30° 55′ O de 840 y 507 m y el lado N oblicuo contra Félix Lezcano; 1.707.153 v² = 1.280.290 m² (128 ha). Al O, Gregorio Acuña y el «poste de Acuña»; al E, otra faja del Estado y los herederos de Lezcano, antes Manuel Noriega; al S, «antes Basarte, hoy herederos de Pastor Frías». Es la cabezada fiscal de las fajas Frías y Basarte (064-065): la base ≈ 866 + 1032,8 m.",
+ "caratula": {
+  "img": "img/f/082/01.jpg",
+  "fuente": "IMG_7420.JPG",
+  "campos": [
+   [
+    "N.º",
+    "82"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "del terreno del Estado, solicitado en compra por los herederos de Don Pastor Frias"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1877"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Schuster",
+   "img": "img/f/082/03.jpg",
+   "fuente": "IMG_7421.JPG",
+   "nota": "Sólo se fotografiaron la carátula y el plano. El rumbo y la longitud del costado N (C-B) están escritos al revés y son de lectura dudosa; el resto se lee bien.",
+   "lineas": [
+    "[al N:] Felix Lezcano",
+    "[vértice C:] • Poste de Acuña   ·   C",
+    "[costado N, C-B:] [N] 66° 55′ [E] [?]   19[4]1 m [?]   ·   [progresivas] 1161 [?] · [9]25 [?]",
+    "[al O:] Gregorio Acuña   ·   [C-D:] [S] 30° 55′ E. = 840 m",
+    "[centro:] Superficie = 1.707.153 varas c.^{ds} = 1.280.290 metros c.^{ds}",
+    "[costado S, D-A:] N. 56° 55′ E. = 1906,5 m",
+    "[costado E, A-B:] N. 30° 55′ O. = 507 m.^{tros}",
+    "[al E:] Estado   ·   E",
+    "[más al E:] Hered.^{s} de Gabriela Alvarez [?]   ·   Herederos de Lezcano, antes Manuel Noriega",
+    "[al S:] Antes Basarte, hoy   Herederos de Pastor Frias   [línea de trazos que los divide]",
+    "[meridiano:] Norte verdad.^{ro} N. 11° 35′ N. E.",
+    "[curso de agua sin nombre, de SO a NE, cruzando el campo]",
+    "Escala de Metros [1000 · 500 · 0 · 1000 · 2000]",
+    "Setiembre de 1877   [firma:] Cárlos Schuster",
+    "[a lápiz:] 56 55 / 30 55 / 87 50"
+   ],
+   "interpretacion": "Plano del sobrante de tierra pública («del Estado») que los herederos de Pastor Frías piden comprar: un trapecio de 1906,5 m de base S (N 56° 55′ E) contra sus propias tierras, con costados paralelos N 30° 55′ O de 840 m (O, contra Gregorio Acuña, con el «poste de Acuña» en el vértice C) y 507 m (E, A-B); el lado N, oblicuo, linda con Félix Lezcano. Superficie: 1.707.153 v² = 1.280.290 m² (128 ha). Al E sigue una faja «Estado» y luego los herederos de Gabriela Álvarez [?] y los de Lezcano «antes Manuel Noriega». Al S, el rótulo «Antes Basarte, hoy Herederos de Pastor Frías» con una línea de trazos que divide dos fajas. Un arroyo sin nombre cruza la fracción de SO a NE."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno del Estado pedido por los her. de Pastor Frías (Schuster, 1877)",
+   "img": "img/f/082/02.jpg",
+   "fuente": "IMG_7421.JPG",
+   "orientacion": "Plano apaisado en marco simple; la fracción con borde coloreado (gris en la toma); rótulos en cursiva; meridiano verdadero con flecha en el ángulo NE; escala gráfica en metros al pie; firma de Schuster abajo a la derecha.",
+   "interpretacion": "Es la «cabezada» de las fajas Frías y Basarte del bloque naciente (064-066): los rumbos N 30° 55′ O / N 56° 55′ E son los de Basarte (064: N 30° 55′ O / N 55° 55′ E) y del costado de 30° 55′ de Carmen Monsalvo de Acuña (065). La base de 1906,5 m ≈ 866 m (Frías) + 1032,8 m (Basarte) = 1898,8 m: el sobrante cubre el fondo de las dos fajas, que la línea de trazos separa.",
+   "referencias": [
+    [
+     "D-A (S)",
+     "N 56° 55′ E · 1906,5 m · her. de Pastor Frías (antes Basarte)"
+    ],
+    [
+     "A-B (E)",
+     "N 30° 55′ O · 507 m · faja «Estado»"
+    ],
+    [
+     "C-D (O)",
+     "[S] 30° 55′ E · 840 m · Gregorio Acuña; «Poste de Acuña» en C"
+    ],
+    [
+     "C-B (N)",
+     "[N] 66° 55′ [E] [?] · 19[4]1 m [?] · Félix Lezcano"
+    ],
+    [
+     "Superficie",
+     "1.707.153 v² = 1.280.290 m² (≈ 128 ha)"
+    ],
+    [
+     "Al E",
+     "Estado · her. de Gabriela Álvarez [?] · her. de Lezcano, antes Manuel Noriega"
+    ],
+    [
+     "Aguas",
+     "Arroyo sin nombre, SO-NE"
+    ],
+    [
+     "Meridiano",
+     "Norte verdadero N 11° 35′ NE"
+    ],
+    [
+     "Escala",
+     "Metros"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Venta de tierra pública en 1877",
+   "texto": "La carátula no habla de un propietario sino «del terreno del Estado, solicitado en compra por los herederos de Don Pastor Frías»: es una mensura previa a la venta de un sobrante fiscal, como el «Estado» de 183,07 ha del campo de Fernando Monsalvo (066) y las fajas «Estado» de Nugent (068) y del pueblo (060). En 1874 el plano de Basarte (064) ya rotulaba «Estado» al N: tres años después los Frías lo compran. El poste de Acuña en el vértice O es un mojón de la mensura de 1873-74 del campo de Carmen Monsalvo de Acuña (065)."
+  },
+  {
+   "titulo": "Basarte → frías: concentración de tierra",
+   "texto": "El rótulo «Antes Basarte, hoy Herederos de Pastor Frías» dice que entre 1873 (064, Pedro R. Basarte) y 1877 los Frías compraron la faja de Basarte y ahora suman a las dos fajas su cabezada fiscal. Los herederos de Pastor Frías son también linderos E de Garzete (075) y de Colmenero (054, donde Pedro Frías firma «por sí y demás herederos de D. Pastor Frías»): una familia que en la década de 1870 consolida tierra en la naciente."
+  },
+  {
+   "titulo": "Los lezcano en el n",
+   "texto": "Félix Lezcano (N) es el lindero E de Nugent en 1875 (068); los «herederos de Lezcano, antes Manuel Noriega» del E prolongan la serie Noriega de 064 y 028/039. El bloque Lescano–Noriega–Nugent (045, 068) queda, pues, inmediatamente al N y al E de la cabezada Frías–Basarte: confirma que el bloque naciente (064-066) y el bloque S del pueblo (045, 059, 068) son contiguos."
+  },
+  {
+   "titulo": "Agua y técnica",
+   "texto": "Un arroyo sin nombre cruza en diagonal: por la ubicación podría ser el arroyo de Frías de 037 o el de Noriega de 068. Metros, superficie en varas y metros cuadrados, meridiano verdadero (N 11° 35′ NE, igual a la variación de 065): la práctica normal de Schuster en 1873-77. La suma a lápiz 56° 55′ + 30° 55′ = 87° 50′ comprueba el ángulo entre la base y los costados (no recto: 92° 10′ / 87° 50′)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿El costado N mide 1941 m o 2161 m? (El cierre geométrico da ≈ 1935 m.) ¿Quién era Gabriela Álvarez? ¿El arroyo es el de Frías? Superponer con 064-066 y 068 en GIS."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Pastor Frías (†) y sus herederos",
+   "rol": "Solicitantes",
+   "texto": "Familia propietaria en la naciente del arroyo de Giles y del Luján (065, 054, 075); entre 1873 y 1877 compran la faja de Basarte y piden la tierra fiscal de su cabezada. Pedro Frías actúa por los herederos en 1869 (054). Sin datos en la web.",
+   "fuentes": "Fichas 037, 054, 064, 065, 075."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "El agrimensor más activo del corpus en 1869-1877 (052, 053, 060, 063-066, 068, 070). Ésta es su mensura más tardía hasta ahora.",
+   "fuentes": "Fichas citadas."
+  },
+  {
+   "nombre": "Félix Lezcano · her. de Lezcano",
+   "rol": "Linderos",
+   "texto": "Félix: lindero de Nugent (068). Los Lezcano/Lescano del S del pueblo (045).",
+   "fuentes": "Fichas 045, 068."
+  },
+  {
+   "nombre": "Gregorio Acuña",
+   "rol": "Lindero (o)",
+   "texto": "Uno de los cuatro hijos que reciben hijuela del campo de Carmen Monsalvo de Acuña (065).",
+   "fuentes": "Ficha 065."
+  },
+  {
+   "nombre": "Pedro R. Basarte · Manuel Noriega · Gabriela Álvarez [?]",
+   "rol": "Antecesores y linderos",
+   "texto": "Basarte: faja de 1032,8 m medida en 1873 (064). Noriega: la familia del bloque Noriega (028, 039, 064). Álvarez: sin datos.",
+   "fuentes": "Fichas 028, 039, 064."
+  }
+ ],
+ "titulo": "Her. de Pastor Frías (tierra del Estado)",
+ "estado": "Transcripta (1 hojas, 15 renglones), 1 lámina"
+}
