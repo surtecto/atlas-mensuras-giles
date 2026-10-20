@@ -1,0 +1,243 @@
+{
+ "carpeta": "85",
+ "carpeta_nombre": "Carpeta 85",
+ "archivo": "Ficha 085 - Zoilo Costa (1878).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (rincón SO, vecindario Lima, hacia Mercedes)",
+  "N.º de duplicado": "85 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Zoilo Costa",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1878",
+  "Fecha de la diligencia": "Plano «Julio de 1878»; presentada al D. I. el 26/8/1878",
+  "Ubicación": "Sobre el arroyo de Moyano, entre los Lima, Montoya, Unzué y Casado",
+  "Orden judicial": "No fotografiada",
+  "Vendedor / antecesor": "No consta",
+  "Linderos citados": "Montoya · S. E. Unzué · L. Lowles de Jeck · A. Casado · S. y J. M.ª Lima · Servat · Silva",
+  "Medidas": "6789,90 × 1544,996 m + 2598 × 1158,27 m = 18.000.000 v²",
+  "Rumbos": "N 45° 55′ O / S 44° 5′ O [?] · var. 11° NE [?]",
+  "Referencia de archivo": "Duplicado 85"
+ },
+ "metricas": {
+  "superficie_ha": "1349,92",
+  "hitos": "Población de Z. Costa, ≈ 8 poblaciones, 2 puestos",
+  "aguas": "Arroyo de Moyano"
+ },
+ "sintesis": "Duplicado del que se fotografiaron la carátula, el último folio y el plano. Carlos Schuster mide en julio de 1878 el campo de Zoilo Costa, una L de 18.000.000 varas cuadradas (1349,92 ha): rectángulo de 6789,90 × 1544,996 m a N 45° 55′ O con un escalón de 2598 × 1158,27 m en el NE. Lo cruza el arroyo de Moyano. Linderos: los Montoya y Saturnino E. Unzué al N, Luisa Lowles [?] de Jeck y Agustín Casado al E, los Lima (Serapio, José María) y Mauricia Rodríguez de Servat al S, Antonino Silva al O. El folio final conserva la tabla de visuales desde cada mojón a las casas vecinas y el cargo del Departamento de Ingenieros del 26/8/1878 («M. Pico»). Vecindario Lima del rincón SO (055, 061, 070, 076).",
+ "caratula": {
+  "img": "img/f/085/01.jpg",
+  "fuente": "IMG_7427.jpg",
+  "campos": [
+   [
+    "N.º",
+    "85"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Zoilo Costa"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1878"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Último folio: visuales desde los mojones y cargo del Departamento",
+   "img": "img/f/085/04.jpg",
+   "fuente": "IMG_7428.JPG (izquierda)",
+   "nota": "La toma deja ver sólo el último folio del texto: el final de la tabla de visuales tomadas desde cada mojón a las casas vecinas, la firma de Schuster y el cargo del Departamento de Ingenieros. La tinta es pálida y la toma está algo desenfocada: los grados y los nombres de pila llevan [?].",
+   "lineas": [
+    "Mojon B",
+    "[Casa] de D.^{n} Zoilo Costa · S 50° 15′ E [?]",
+    "José María Olea [?] · S 5° 31′ E [?]",
+    "Pedro [?] Silva · N 80° 2[?]′ O",
+    "C",
+    "Zoilo Costa · S 8[?]° 30′ O",
+    "D.^{a} Mauricia R. de Servat · S 74° 22′ E [?]",
+    "D. Antonino Silva · S 3° 22′ O [?]",
+    "D",
+    "[D.^{n}] Agustin Casado · N 3° 2[?]′ O",
+    "H.^{s} de Domingo Lima · N 14° 22′ E",
+    "D.^{a} Mauricia R. de Servat · S 5[?]° 18′ E",
+    "E",
+    "D. Antonino Silva · S 72° 3[?]′ O",
+    "Her.^{s} de Serapio Lima · N 39° 30′ O",
+    "D.^{a} Mauricia R. de Servat · N 2[?]° 22′ E",
+    "F",
+    "D. Zoilo Costa · N 66° 2[?]′ O",
+    "Her.^{s} de Manuel Montoya · S 70° 5[?]′ O",
+    "Tomas Lattarola [?] · S 2[?]° 18′ O",
+    "Schuster [rúbrica]",
+    "Agosto 26/878.—",
+    "Presentada en la fecha al Depar-",
+    "tamento de Ingenieros.—",
+    "M. Pico [rúbrica]",
+    "[comienzo de otra firma o decreto, cortado]"
+   ],
+   "interpretacion": "Es el cierre de la diligencia: para cada mojón (B, C, D, E, F) Schuster anota el rumbo hacia tres casas o poblaciones vecinas —la de Zoilo Costa, la de Mauricia R. de Servat, las de los Lima, Antonino Silva, Agustín Casado, los Montoya y un Tomás Lattarola [?]—, de modo que cada mojón pueda reponerse por intersección de visuales: el mismo ritual de amojonamiento que Pico en 072 (azotea de Scully, casa de O'Donnell, ombú). Debajo, el cargo del Departamento de Ingenieros del 26 de agosto de 1878, firmado «M. Pico» (el mismo oficial que en 087)."
+  },
+  {
+   "titulo": "Rótulos y cifras del plano de Schuster",
+   "img": "img/f/085/03.jpg",
+   "fuente": "IMG_7428 e IMG_7429",
+   "nota": "Cifras pequeñas, varias invertidas; los lados se verificaron con la superficie: 6789,90 × 1544,996 + 2598 × 1158,27 = 13.499.208 m² ≈ 1349 ha 92 a 08 ca.",
+   "lineas": [
+    "[F-B, lado largo:] N. 45° 55′ O = 6789.90 m.   [progresivas 1278 · 1378 · 2645,5 · 3744 · 5345]",
+    "[B-G, quebrada:] S. 44° 5[2?]′ O = 2703.219 metros   [con «p.^{to} de Costa» y mojones redondos]",
+    "[G-C:] S. 45° 55′ E. [≈ 2598 m]   ·   [C-D:] S. 44° 5′ O [?] = 1158.27 m",
+    "[D-E:] S. 45° 55′ E. = 4191.90 m   ·   [E-F:] S. 44° 5′ O [?] = 1544.996 m",
+    "Superficie = 1349^{h.} 92^{a.} 08^{m.c.s} = 18.000.000 Varas cuadradas.",
+    "Arroyo de Moyano [cruza el extremo SO]",
+    "Poblacion de Z. Costa   ·   Pob.^{n} [≈ 8]   ·   p.^{to} de Costa [2]   ·   Pob.^{n} her.^{s} de S. Lima",
+    "[al N:] Hered.^{s} de Manuel Montoya   ·   Saturnino E. Unzué",
+    "[al NE:] Luisa Lowles [?] de Jeck [?]   ·   Agustin Casado   ·   Evaristo Bustos",
+    "[al S:] Herederos de Serapio Lima   ·   Mauricia Rodriguez de Servat",
+    "[al SO:] Herederos de José María Lima   ·   [al O:] Antonino Silva",
+    "[línea O-P prolongada:] 1346.192 · 775.07 · 552.415 [?] · 776.0[?]",
+    "[flecha:] N. verd.º Var.^{n} 11° N.E. [?]",
+    "Julio de 1878"
+   ],
+   "interpretacion": "Campo de Zoilo Costa en forma de L: un rectángulo de 6789,90 × 1544,996 m (N 45° 55′ O × S 44° 5′ O) con un escalón de 2598 × 1158,27 m en el extremo NE, total 18.000.000 varas cuadradas (1349,92 ha), cifra redonda que delata un título en varas (≈ 0,78 leguas²). El arroyo de Moyano corta el extremo SO del campo. Hay unas diez poblaciones dentro, la de Costa en el escalón NE. Las fajas punteadas al S (her. de Serapio Lima, Mauricia Rodríguez de Servat) siguen la misma orientación: es el vecindario Lima de 055, 061, 070 y 076."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del campo de Zoilo Costa (Schuster, julio de 1878)",
+   "img": "img/f/085/02.jpg",
+   "fuente": "IMG_7428.JPG",
+   "orientacion": "Plano en papel, marco de doble filete con faja negra, cosido detrás del último folio; la L de Costa en trazo grueso; norte verdadero hacia arriba a la derecha.",
+   "interpretacion": "Vista general: la L de Costa ocupa el centro; a la izquierda Antonino Silva y los Montoya / Unzué; arriba Luisa Lowles [?] de Jeck y Agustín Casado; abajo y a la derecha las fajas de Serapio Lima y Mauricia Rodríguez de Servat.",
+   "referencias": [
+    [
+     "F-B (N)",
+     "N 45° 55′ O · 6789,90 m · her. de Manuel Montoya y Saturnino E. Unzué"
+    ],
+    [
+     "B-G (E)",
+     "S 44° 5[2?]′ O · 2703,219 m · L. Lowles [?] de Jeck, A. Casado, E. Bustos"
+    ],
+    [
+     "G-C · C-D",
+     "≈ 2598 m (3000 v) · 1158,27 m: escalón contra her. de Serapio Lima"
+    ],
+    [
+     "D-E (S)",
+     "S 45° 55′ E · 4191,90 m · her. de Serapio Lima"
+    ],
+    [
+     "E-F (O)",
+     "1544,996 m · her. de José María Lima"
+    ],
+    [
+     "Superficie",
+     "18.000.000 v² = 1349 ha 92 a 08 ca"
+    ],
+    [
+     "Aguas",
+     "Arroyo de Moyano (extremo SO)"
+    ],
+    [
+     "Poblaciones",
+     "Z. Costa · ≈ 8 «Pob.n» · 2 puestos de Costa · her. de S. Lima"
+    ],
+    [
+     "Meridiano",
+     "N verd.º, var. 11° NE [?]"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: el arroyo de Moyano y las poblaciones",
+   "img": "img/f/085/03.jpg",
+   "fuente": "IMG_7429.JPG",
+   "orientacion": "",
+   "interpretacion": "Toma cercana: la superficie en hectáreas y en varas cuadradas, el arroyo de Moyano con su afluente, las poblaciones y los mojones del lado quebrado B-G.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "El arroyo de moyano, otra vez",
+   "texto": "Es la tercera mensura que dibuja el arroyo (o cañada) de Moyano: 070 (Gorostiaga, 1876), 076 (her. de José M.ª Rodríguez, 1861) y ahora 085. Con los Lima a ambos lados (Serapio, José María, Domingo) y Saturnino E. Unzué al N, el campo de Costa queda en el bloque Lima–Colmenero–Unzué del rincón SO (054, 055, 061, 070, 074-077). El tramo dibujado del Moyano sirve para el GIS."
+  },
+  {
+   "titulo": "Ritual de amojonamiento por visuales",
+   "texto": "La tabla final con tres visuales desde cada mojón a casas vecinas (Costa, Servat, Lima, Silva, Casado, Montoya, Lattarola [?]) repite el procedimiento de Pico en 072: el mojón se ata a construcciones existentes para poder reponerlo. Las casas citadas son, a la vez, un censo de poblaciones vecinas en 1878."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "18.000.000 v² exactas = 3 × 6.000.000: medio título de legua cuadrada (36.000.000 v²) más algo; el escalón de 3000 v (2598 m) también es una medida de título. Rumbos a 45° 55′ / 44° 5′, la orientación de las suertes de Mercedes–Giles (Colmenero N 47° 25′ O, Lima)."
+  },
+  {
+   "titulo": "Zoilo costa",
+   "texto": "Un «Zoilo y Federico Costa» figuran como linderos al S de la hijuela de Advíncula G. de Olivera (063, 1872), y un Emilio Costa en 081: es una familia de propietarios del SO del partido."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Cómo adquirió Costa las 18.000.000 v²? ¿«Lowles de Jeck» es una lectura correcta (¿Luisa Lowles de Jack?)? ¿Quién es Tomás Lattarola [?]? Pedir foto del cuerpo de la diligencia."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Zoilo Costa",
+   "rol": "Propietario",
+   "texto": "Dueño en 1878 de 1349,92 ha sobre el arroyo de Moyano, con población propia y dos puestos; lindero en 1872 de los Olivera–Alfonsín (063). Sin datos en la web.",
+   "fuentes": "Dup. 85; Ficha 063."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Ver Ficha 084.",
+   "fuentes": "Fichas 052-087."
+  },
+  {
+   "nombre": "M. Pico",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firma los cargos de presentación del Departamento en 1878 (085, 087). ¿Pariente del agrimensor Pedro Pico? Sin identificación segura.",
+   "fuentes": "Fichas 085, 087."
+  },
+  {
+   "nombre": "Saturnino E. Unzué · los Lima (Serapio, José María, Domingo)",
+   "rol": "Linderos",
+   "texto": "Unzué: comprador del sobrante de 1840 entre Colmenero y Lima (054, 075). Los Lima: el vecindario de Mariano Lima (055, 061, 070, 076).",
+   "fuentes": "Fichas 054, 055, 061, 070, 075, 076."
+  },
+  {
+   "nombre": "Mauricia Rodríguez de Servat · Antonino Silva · Agustín Casado · Manuel Montoya · Luisa Lowles [?] de Jeck · Evaristo Bustos · Tomás Lattarola [?] · José M.ª Olea [?]",
+   "rol": "Linderos y vecinos",
+   "texto": "Casado aparece en 063 y 084; un Antonio (Antonino) Silva en 050 y 083 (¿el mismo?). Los demás, primera mención.",
+   "fuentes": "Fichas 050, 063, 083, 084."
+  }
+ ],
+ "titulo": "Zoilo Costa",
+ "estado": "Transcripta (2 hojas, 40 renglones), 2 láminas"
+}

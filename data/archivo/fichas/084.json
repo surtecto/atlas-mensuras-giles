@@ -1,0 +1,208 @@
+{
+ "carpeta": "84",
+ "carpeta_nombre": "Carpeta 84",
+ "archivo": "Ficha 084 - Ángela Gutiérrez de Alegre (1878).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (rincón SO, hacia Carmen de Areco y Mercedes)",
+  "N.º de duplicado": "84 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Ángela Gutiérrez de Alegre",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1878",
+  "Fecha de la diligencia": "Plano firmado «Marzo de 1878» [?]",
+  "Ubicación": "Hijuela del campo de Bernardo Gutiérrez, al S de Caprile y Picasso",
+  "Orden judicial": "No fotografiada (sólo carátula y plano)",
+  "Vendedor / antecesor": "Herencia de Bernardo Gutiérrez (repartición de 1859, Ficha 024)",
+  "Linderos citados": "Caprile y Picasso · A. H. Sala · J. Maxwell · P. Bustos · Carrey · Gannon · Miró · Casado · Alfonsín",
+  "Medidas": "N 7173 m · S 7260 m · fondo ≈ 2775-2791 m · cinco hijuelas",
+  "Rumbos": "S 45° 36′ E · S 45° 38′ O / N 45° 34′ E · var. 11° 42′ NE",
+  "Referencia de archivo": "Duplicado 84"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 2005",
+  "hitos": "Estancia (hijuela Isabel) y ≈ 7 puestos",
+  "aguas": "No se dibujan"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron la carátula y el plano. Carlos Schuster divide en 1878 el campo de Ángela Gutiérrez de Alegre —una hijuela de la repartición de 1859 de Bernardo Gutiérrez (024)— en cinco fajas paralelas S 45° 36′ E rotuladas Dolores, Aurelia, Isabel, Ángela y Pilar, de 998 a 1588 m de ancho por ≈ 2775 m de fondo (≈ 2005 ha en total; la estancia en la hijuela Isabel). Al N, Caprile y Picasso (052) y A. H. Sala; al S, los Carrey y Patricio Gannon; al O, José M.ª Casado y Cecilio Alfonsín; al E, José Maxwell y Pablo Bustos. Es la cuarta hijuela Gutiérrez con plano (052, 053, 063) y la primera que toca a los Carry y Bustos de 066. Norte verdadero 11° 42′ NE.",
+ "caratula": {
+  "img": "img/f/084/01.jpg",
+  "fuente": "IMG_7425.jpg",
+  "campos": [
+   [
+    "N.º",
+    "84"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Angela Gutierrez de Alegre"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1878"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Schuster",
+   "img": "img/f/084/02.jpg",
+   "fuente": "IMG_7426.JPG",
+   "nota": "No hay texto de la diligencia: se transcriben los rótulos de imprenta, las cifras de los lados (muchas escritas al revés respecto de los rótulos) y las superficies a lápiz, de lectura insegura. Las áreas entre corchetes son cálculo propio con los lados del plano.",
+   "lineas": [
+    "[al N:] Caprile y Picasso.   ·   [ángulo NE:] Antonio H. Sala.",
+    "[línea N, D-A:] S. 45° 38′ O. = 7173 m.   [progresivas 423 · 1774 · 2692 · 4375,8 · 5025,5 · 6059]",
+    "[A-M:] 1530.480 m   ·   [M-L:] 1563.852 m   ·   [L-K:] 998.968 m   ·   [K-J:] 1588.400 m   ·   [J-D:] 1491.300 m",
+    "[línea S, B-C:] N. 45° 34′ E. = 7260 m.   [progresivas 1656 · 2926 · 3753 · 4622,5 · 5431,5]",
+    "[B-H:] 1530.440 m   ·   [H-G:] 1563.816 m   ·   [G-F:] 998.944 m   ·   [F-E:] 1588.362 m   ·   [E-C:] 1578.438 m",
+    "[A-B:] S. 45° 36′ E. = 2791 metros   ·   [M-H:] N. 45° 36′ O. = 2779.220 m",
+    "[L-G:] N. 45° 36′ O. = 2777.400 m   ·   [K-F:] S. 45° 36′ E. = 2776.238 m",
+    "[J-E:] S. 45° 36′ E. = 2774.390 m   ·   [D-C:] N. 45° 47′ [?] O. = 2775 m [?]",
+    "DOLORES   [lápiz:] 4[2]6,24,04 [?]   [≈ 426,25 ha]   ·   Puesto · Molina [?] · Martinez",
+    "AURELIA   [lápiz:] 433,10,01 [?]   [≈ 434,5 ha]   ·   Martinez",
+    "ISABEL   [lápiz:] 277,35,34   [≈ 277,4 ha]   ·   Reit [?] · ✻ Estancia",
+    "ANGELA   [lápiz:] 434,94,80 [?]   [≈ 440,8 ha]   ·   Puesto",
+    "PILAR   [lápiz:] 424,99,04 [?]   ·   Debarcaux [?] · Cornick [?] · [vértice Z junto a D]",
+    "[al E:] José Maxwell. (Puesto)   ·   [SE:] Pablo Bustos.",
+    "[al S:] Bernardo Carrey. · Catalina H. de Carrey · Patricio Gannon",
+    "[SO:] Eustaquia C.ª Miró.   ·   [O:] José M.ª Casado.   ·   [NO:] Cecilio Alfonsín",
+    "[flecha:] N. verd.º Var.ⁿ 11° 42′ N.E.   ·   ESCALA DE METROS [0 · 500 · 1000 · 2000]",
+    "[firma, invertida, ángulo SO:] Marzo de 1878 [?]   Carlos Schuster"
+   ],
+   "interpretacion": "Plano de la división en cinco hijuelas —Dolores, Aurelia, Isabel, Ángela y Pilar— del campo de Ángela Gutiérrez de Alegre: un rectángulo largo de ≈ 7,2 km de frente (línea N 7173 m contra Caprile y Picasso; línea S 7260 m contra los Carrey y Gannon) por ≈ 2,78 km de fondo, con divisorias paralelas S 45° 36′ E. Los nombres son de pila femeninos: casi seguro, Ángela y sus hijas (Alegre). Superficie total ≈ 2005 ha (suma de los cálculos), del orden de las 2017 ha de la hijuela de Petrona G. de Molina (053): es otra de las seis hijuelas de la repartición de 1859 del campo de Bernardo Gutiérrez (024). Hay estancia en la hijuela Isabel y puestos con apellidos de pobladores (Molina [?], Martínez, Reit [?], Debarcaux [?], Cornick [?])."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la división del campo de Ángela Gutiérrez de Alegre (Schuster, 1878)",
+   "img": "img/f/084/02.jpg",
+   "fuente": "IMG_7426.JPG",
+   "orientacion": "Plano en papel, apaisado, marco de doble filete con faja negra; la hoja está plegada en dos cuerpos (el de la derecha, más angosto, con la hijuela Pilar). Norte verdadero hacia arriba a la derecha (flecha en el ángulo NE). Escala gráfica vertical a la izquierda. Superficies a lápiz en cada hijuela.",
+   "interpretacion": "Cinco fajas paralelas de O a E. Al N, Caprile y Picasso (052) con un ancho total de 7173 m: es la misma línea que en 052 aparece como lado S del rectángulo de 4765 × 3410 m, con Antonio H. Sala en la prolongación. Al S los Carrey (Bernardo y Catalina H.), Patricio Gannon y Eustaquia C.ª Miró; al O José M.ª Casado y Cecilio Alfonsín, linderos ya vistos en 063 (Alfonsín, Casado) y 061 (Miró).",
+   "referencias": [
+    [
+     "Línea N (D-A)",
+     "S 45° 38′ O · 7173 m · contra Caprile y Picasso y A. H. Sala"
+    ],
+    [
+     "Línea S (B-C)",
+     "N 45° 34′ E · 7260 m · contra B. y C. H. de Carrey y P. Gannon"
+    ],
+    [
+     "Divisorias",
+     "S 45° 36′ E (N 45° 36′ O) · 2774-2791 m"
+    ],
+    [
+     "Dolores (A-M-H-B)",
+     "1530,48 × 2779-2791 m · ≈ 426 ha · puestos"
+    ],
+    [
+     "Aurelia (M-L-G-H)",
+     "1563,85 × 2777-2779 m · ≈ 434 ha"
+    ],
+    [
+     "Isabel (L-K-F-G)",
+     "998,97 × 2776-2777 m · ≈ 277 ha · Estancia"
+    ],
+    [
+     "Ángela (K-J-E-F)",
+     "1588,40 × 2774-2776 m · ≈ 441 ha"
+    ],
+    [
+     "Pilar (J-D-C-E)",
+     "1491,30 (N) / 1578,44 (S) × ≈ 2775 m · lápiz 424,99 [?]"
+    ],
+    [
+     "Meridiano",
+     "N verdadero, var. 11° 42′ NE"
+    ],
+    [
+     "Firma",
+     "Marzo de 1878 [?] · Carlos Schuster"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Cuarta hijuela gutiérrez con geometría",
+   "texto": "Con 052 (Caprile y Picasso), 053 (Petrona G. de Molina) y 063 (her. de Advíncula G. de Olivera), la 084 es la cuarta hijuela de la repartición de 1859 del campo de Bernardo Gutiérrez (024) que tiene plano propio. Ángela Gutiérrez de Alegre ya figuraba como lindera en 053 (1869). La línea N de 7173 m, contra Caprile y Picasso, debe coincidir con el lado S del rectángulo de 052: en GIS, empalmar los dos planos por esa línea y por los rumbos casi idénticos (≈ 45° 36′-45° 38′)."
+  },
+  {
+   "titulo": "Herencia femenina y nombres de pila",
+   "texto": "La división se rotula sólo con nombres de pila —Dolores, Aurelia, Isabel, Ángela, Pilar—, un uso raro en el corpus (en 078 Schuster rotula con nombre y apellido). Es una partición entre la madre y cuatro hijas (o cinco hijas), con hijuelas casi iguales salvo Isabel (277 ha): la diferencia sugiere una compensación con la estancia, que queda en esa hijuela."
+  },
+  {
+   "titulo": "Pobladores y linderos",
+   "texto": "Los puestos llevan apellidos de pobladores o arrendatarios —Martínez, Molina [?], Reit [?], Debarcaux [?], Cornick [?]— que pueden ser vascos-franceses o irlandeses. Entre los linderos aparecen los Carrey (= Carry de 066: Jerónimo y Bernardo), Patricio Gannon, José Maxwell y Pablo Bustos (066): el campo de Ángela Gutiérrez queda así en contacto, por el S y el E, con el bloque de las cabezadas (066) → el rincón SO y el bloque naciente son contiguos."
+  },
+  {
+   "titulo": "Metrología y técnica",
+   "texto": "Metros con milímetros, divisorias paralelas con un solo rumbo, superficies a lápiz en hectáreas, áreas y centiáreas. «Norte verdadero» con variación 11° 42′ NE: exactamente la cifra de Schuster en 052-053 (1869), nueve años antes, cuando en 1871-76 había usado 11° 12′-11° 35′. ¿Recalcula o reutiliza la red de 1869? Las líneas N y S difieren en 87 m (7173 / 7260): el polígono no es un rectángulo perfecto; la diferencia se absorbe en la hijuela Pilar (1491 / 1578 m)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Quién era el marido Alegre y cuántos hijos tuvo? ¿Las lecturas de lápiz de Dolores y Aurelia (4[2]6 y 433 ha) coinciden con las del expediente? ¿«Debarcaux» y «Cornick» son pobladores? Pedir foto del cuerpo de la diligencia y de la portadilla."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Ángela Gutiérrez de Alegre",
+   "rol": "Propietaria",
+   "texto": "Hija (o heredera) de Bernardo Gutiérrez; lindera de la hijuela de Petrona G. de Molina en 1869 (053). En 1878 divide su hijuela entre Dolores, Aurelia, Isabel, Ángela y Pilar. Sin datos en la web.",
+   "fuentes": "Dup. 84; Fichas 024, 053."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "El agrimensor más activo del corpus en 1869-1878 (052-053, 060, 063-066, 068, 070, 078, 082, 084-085, 087). Búsquedas anteriores sin datos biográficos; ¿pariente de G. Teodoro Schuster (009, 024)?",
+   "fuentes": "Fichas citadas."
+  },
+  {
+   "nombre": "Caprile y Picasso",
+   "rol": "Linderos (n)",
+   "texto": "Socios italianos dueños desde 1869 de otra hijuela Gutiérrez (052).",
+   "fuentes": "Ficha 052."
+  },
+  {
+   "nombre": "Cecilio Alfonsín · José M.ª Casado · Eustaquia C.ª Miró",
+   "rol": "Linderos (o y so)",
+   "texto": "Alfonsín y Casado, del entorno de la hijuela de Advíncula G. de Olivera (063); Eustaquia Cuello [?] de Miró, lindera de Juan Félix Martínez (061).",
+   "fuentes": "Fichas 061, 063."
+  },
+  {
+   "nombre": "Bernardo y Catalina H. de Carrey · Patricio Gannon · José Maxwell · Pablo Bustos · Antonio H. Sala",
+   "rol": "Linderos (s y e)",
+   "texto": "Los Carrey son los Carry de 066; Bustos figura en 066; Gannon, Maxwell y Sala aparecen por primera vez.",
+   "fuentes": "Ficha 066."
+  }
+ ],
+ "titulo": "Ángela Gutiérrez de Alegre",
+ "estado": "Transcripta (1 hojas, 18 renglones), 1 lámina"
+}

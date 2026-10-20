@@ -1,0 +1,227 @@
+{
+ "carpeta": "86",
+ "carpeta_nombre": "Carpeta 86",
+ "archivo": "Ficha 086 - Mezquita y Cruz Rodríguez (c. 1878).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (margen S del arroyo de Giles, al SO del pueblo)",
+  "N.º de duplicado": "86 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Marcelino Mezquita y Cruz Rodríguez",
+  "Agrimensor": "José María Muñiz",
+  "Año": "s. f. (c. 1877-1878 [?])",
+  "Fecha de la diligencia": "No consta (carátula sin mes ni año)",
+  "Ubicación": "Frente al arroyo de Giles, enfrente de Saraví; entre Butterfill, Frías y Lescano",
+  "Orden judicial": "No fotografiada (sólo carátula y plano)",
+  "Vendedor / antecesor": "No consta",
+  "Linderos citados": "Butterfill · C. M. de Acuña · Frías · Sarmiento · Noriega · Lescano · Cucullo · Pignetto",
+  "Medidas": "Rodríguez 3.317.092 m² · Mezquita 4.709.250 m² · BD 2980 · BM 5501,8 m",
+  "Rumbos": "S 46° 55′ E · N 57° 55′ E · N 63° 14′ E · var. 11° 28′ NE",
+  "Referencia de archivo": "Duplicado 86"
+ },
+ "metricas": {
+  "superficie_ha": "802,63",
+  "hitos": "Pulpería; poblaciones; puestos; caminos; línea telegráfica",
+  "aguas": "Arroyo de Giles"
+ },
+ "sintesis": "Duplicado sin fecha del que sólo se fotografiaron la carátula y el plano. José María Muñiz mide dos fracciones contiguas sobre la margen S del arroyo de Giles, frente a Saraví: la de Cruz Rodríguez (3.317.092 m² ≈ 332 ha), polígono irregular contra Butterfill y el «sobrante comprado por los her. de Pastor Frías» (082), y la de Marcelino Mezquita (4.709.250 m² ≈ 471 ha), faja S 46° 55′ E de 5,5 km hasta Francisco Lescano. Al E, Simón Cucullo (antes Natalia Arriaga) y José Pignetto (antes Pividal); al S, Ana Nugent de Wallace (068). Dibuja caminos (vecinal, de Areco a Luján, a Mercedes, de Giles), una pulpería y la primera LÍNEA TELEGRÁFICA del corpus. Var. 11° 28′ NE. Posterior a 1877.",
+ "caratula": {
+  "img": "img/f/086/01.jpg",
+  "fuente": "IMG_7430.jpg",
+  "campos": [
+   [
+    "N.º",
+    "86"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Marcelino Mezquita y Cruz Rodriguez"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "José M. Muñiz"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "—"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Muñiz",
+   "img": "img/f/086/03.jpg",
+   "fuente": "IMG_7431 a IMG_7433",
+   "nota": "Plano en tela con letras de molde; como en los demás planos de Muñiz, muchas cifras están escritas al revés y se leyeron girando la imagen. Los rumbos de la costa y algunos lados quedan dudosos.",
+   "lineas": [
+    "[al N, enfrente:] M.^{no} Mezquita   ·   Saravi   ·   Arroyo de Giles",
+    "[costa: puntos B · a · b · C · D, ordenadas 180 · 150 · 30 · 20 · 60,5]",
+    "[B-D:] S. 6[6]° 35′ O. [?]   BD = 2980   [progresivas 708 · 930 · 1771,5 = BC · 2640 · 2865,5]",
+    "AB = 14[?]1 · AP = 1190,45 m = 1375 v.",
+    "Cruz Rodriguez.   Sup: 3,317,092 m.^{s} c.^{s} = 4,423,010,4 v.^{s} c.^{s}",
+    "[D-E:] S. 71° 27′ O. [?] = DE = 2564   [progresivas 1302 · 1735]   ·   [junto a D:] Pulp.^{a}",
+    "[E-F:] N. 66° 59′ E = EF = 1924   [797 · 1360]",
+    "[F-G:] S. 30° 19′ [?] E · 507   ·   [G-H:] N. 57° 1′ E · 348   ·   [H-I:] N. 30° 40′ O [?] · 573",
+    "[I-K:] N. 63° 14′ E = IK = 2647   [1198]   ·   1679 = IJ",
+    "[J-C:] S. 46° 55′ E = CJ = 1876   [1023]   ·   [población:] Feliz Lescano",
+    "Marcelino Mezquita.   Sup: 4,709,250 m.^{s} c.^{s} = 6,2[7]9,980 v.^{s} c.^{s} [?]",
+    "[K-L:] S. 30° 46′ E · 458 [?]   ·   [L-M:] N. 57° 55′ E · 908   ·   Puesto de Mezquita",
+    "[M-B:] S. 46° 55′ E = BM = 5501,8   [progresivas 1554 · 5095 (m)]",
+    "[P-Q:] S. 46° 55′ E = PQ = 5637,8 [?]   ·   QN = 1154   ·   LN = 2280   ·   P.^{o} de Cucullo",
+    "[N-A:] S. 46° 55′ O [?] = NA = 4350,3   ·   [línea de trazo y punto m-n; 689]",
+    "Sobrante comprado por los Her.^{s} de Pastor Frias",
+    "Her.^{s} de Pastor Frias · Marcos Sarmiento · Her.^{s} de Vicente Noriega · Francisco S. Lescano",
+    "Her.^{s} de Norberto Noriega hoy Ana Nuñez de Vallace   ·   Fran.^{co} Lescano",
+    "C. Butterfill   ·   Cármen M.^{o} de Acuña   ·   Simon Cucullo (antes Natalia Arriaga)   ·   José Pignetto (antes Pividal)",
+    "Camino Vecinal · Camino de Areco á Lujan · Mercedes · Mercedes · Camino de Giles · Linea Telegráfica",
+    "[flecha:] V.^{n} 11° 28′ N.E.   ·   Metros [1000 · 0 · 1000 · 2000 · 3000]   ·   José M.^{a} Muñiz"
+   ],
+   "interpretacion": "Plano de dos fracciones vecinas sobre la margen S del arroyo de Giles, frente al campo de Saraví: la de Cruz Rodríguez (3.317.092 m² ≈ 331,7 ha), un polígono irregular al O entre la costa (C-D), el campo de Butterfill y el sobrante comprado por los herederos de Pastor Frías, y la de Marcelino Mezquita (4.709.250 m² ≈ 470,9 ha), una faja S 46° 55′ E de ≈ 5,5 km desde el arroyo hasta Francisco Lescano. Al E siguen una faja sombreada B-P-Q-M (¿callejón o fracción no medida?) y las tierras de Simón Cucullo (antes Natalia Arriaga) y José Pignetto (antes Pividal). El plano registra caminos (vecinal, de Areco a Luján, a Mercedes, de Giles), una pulpería junto al vértice D y —primera vez en el corpus— una LÍNEA TELEGRÁFICA."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano general de las fracciones de Cruz Rodríguez y Marcelino Mezquita (Muñiz)",
+   "img": "img/f/086/02.jpg",
+   "fuente": "IMG_7431.JPG",
+   "orientacion": "Plano en tela, apaisado, marco de doble filete con esquinas redondeadas; las dos fracciones sombreadas; arroyo de Giles en trazo grueso arriba; flecha del norte cruzando el plano en diagonal hacia el ángulo NE; escala transversal en metros al pie; firma de Muñiz abajo a la derecha.",
+   "interpretacion": "Vista de conjunto: el arroyo de Giles cruza el plano de SO a NE; debajo, la fracción de Rodríguez (izquierda) y la faja de Mezquita (centro), con los linderos rotulados en letra gótica.",
+   "referencias": [
+    [
+     "Arroyo de Giles (N)",
+     "Costa B-a-b-C-D; BD = 2980 m; enfrente M.no Mezquita y Saraví"
+    ],
+    [
+     "Cruz Rodríguez",
+     "3.317.092 m² = 4.423.010,4 v² (≈ 331,7 ha); polígono C-D-E-F-G-H-I-J"
+    ],
+    [
+     "Marcelino Mezquita",
+     "4.709.250 m² (≈ 470,9 ha); faja C-J-K-L-M-B, BM 5501,8 m"
+    ],
+    [
+     "E-F-G",
+     "Contra el sobrante comprado por los her. de Pastor Frías (Ficha 082): EF 1924 m, FG 507 m"
+    ],
+    [
+     "S (L-M-N)",
+     "N 57° 55′ E · contra Francisco Lescano; QN 1154, LN 2280 m"
+    ],
+    [
+     "E (N-A)",
+     "4350,3 m · José Pignetto (antes Pividal); Simón Cucullo (antes Natalia Arriaga)"
+    ],
+    [
+     "O",
+     "C. Butterfill · Carmen M.º de Acuña"
+    ],
+    [
+     "Caminos",
+     "Vecinal (costa) · de Areco a Luján · dos a Mercedes · de Giles · Línea Telegráfica"
+    ],
+    [
+     "Construcciones",
+     "Pulpería (vértice D) · población de Feliz Lescano · Puesto de Mezquita · P.º de Cucullo"
+    ],
+    [
+     "Meridiano",
+     "Variación 11° 28′ NE"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: costa del arroyo, fracciones y caminos",
+   "img": "img/f/086/03.jpg",
+   "fuente": "IMG_7432.JPG",
+   "orientacion": "",
+   "interpretacion": "Toma cercana (la 7433 es casi igual, con otra luz): las cifras de la costa, las superficies, la línea telegráfica y los caminos que cruzan las fajas.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: el borde E (Cucullo, Pignetto) y el meridiano",
+   "img": "img/f/086/04.jpg",
+   "fuente": "IMG_7433.JPG",
+   "orientacion": "",
+   "interpretacion": "Lado N-A contra José Pignetto (antes Pividal), Simón Cucullo (antes Natalia Arriaga), la flecha con la variación 11° 28′ NE y el ángulo SE con Francisco Lescano.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Empalme con 082: el sobrante de los frías",
+   "texto": "El lado F-G de 507 m y el E-F de 1924 m coinciden con el sobrante fiscal de 128 ha pedido en compra por los herederos de Pastor Frías en 1877 (082: costado E de 507 m; base 1906,5 m), aquí rotulado «Sobrante comprado por los Her.s de Pastor Frías». La 086 es, por lo tanto, posterior a sept. de 1877 y contigua a 082 y a 064 (Basarte): el bloque naciente (064-066, 082) toca el arroyo de Giles por este lado."
+  },
+  {
+   "titulo": "Una red de nombres antiguos y nuevos",
+   "texto": "El plano pone el «antes» de cada lindero: Simón Cucullo (antes Natalia Arriaga), José Pignetto (antes Pividal) —el «José Piquetto» de 059 y 060—, her. de Norberto Noriega «hoy» Ana Nuñez de Vallace = Ana NUGENT de WALLACE, la heredera irlandesa de 068. Une así 008/017 (Pividal), 033 (Cucullu), 045-068 (Lescano–Nugent), 028-039 (Noriega) y 037/064-066 (Monsalvo–Acuña–Frías)."
+  },
+  {
+   "titulo": "Paisaje: caminos, pulpería y telégrafo",
+   "texto": "Cuatro caminos cruzan las fracciones: el vecinal que sigue la costa, el de Areco a Luján (diagonal por Rodríguez), dos rotulados «Mercedes» (el camino de Giles a Mercedes) y el de Giles. Hay una pulpería junto al vértice D, en el límite con Butterfill, y una LÍNEA TELEGRÁFICA que corre paralela al arroyo por la faja de Mezquita: primera infraestructura de comunicación moderna registrada en el corpus (junto con el ferrocarril de 087)."
+  },
+  {
+   "titulo": "Metrología y técnica",
+   "texto": "Muñiz mantiene su firma técnica: letras góticas de molde, cifras al revés, superficies en m² y en v² con decimales (4.423.010,4 v²), AP = 1190,45 m = 1375 v. La flecha da «V.n 11° 28′ N.E.», idéntica a la de su campaña de 1865 (034, 048-051): ¿doce años con la misma cifra o una observación nueva con igual resultado? En 083 (1877) se leyó 11° 56′ [?]: revisar."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Qué es la faja sombreada B-P-Q-M entre Mezquita y Cucullo? ¿«M.no Mezquita» al otro lado del arroyo es el mismo Marcelino (dueño de las dos márgenes)? ¿Por qué Rodríguez y Mezquita miden juntos (¿división de un condominio?)? Pedir foto del texto."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Dr. Marcelino Mezquita",
+   "rol": "Propietario",
+   "texto": "El «Dr. Mezquita» que en 1868 adquiere el sobrante de Sotero Galeano (034) y que figura como lindero SO de Saraví (058) y E de los Nugent (068). Propietario a ambos lados del arroyo de Giles. Búsqueda web breve sin datos biográficos.",
+   "fuentes": "Fichas 034, 058, 068; búsqueda web 10/2026."
+  },
+  {
+   "nombre": "Cruz Rodríguez",
+   "rol": "Propietaria (¿o propietario?)",
+   "texto": "Dueña de ≈ 332 ha junto al arroyo; en su fracción, la población de Feliz Lescano. Posiblemente del tronco Rodríguez de la margen E (032-036, 083). Sin datos.",
+   "fuentes": "Dup. 86."
+  },
+  {
+   "nombre": "José María Muñiz",
+   "rol": "Agrimensor",
+   "texto": "Ver Ficha 083; aquí firma «José M.ª Muñiz».",
+   "fuentes": "Fichas 034, 048-051, 073, 083."
+  },
+  {
+   "nombre": "Ana Nugent de Wallace («Nuñez de Vallace»)",
+   "rol": "Lindera (s)",
+   "texto": "Heredera irlandesa del campo Nugent (068), aquí sobre lo que fue de Norberto Noriega.",
+   "fuentes": "Ficha 068."
+  },
+  {
+   "nombre": "Simón Cucullo · Natalia Arriaga · José Pignetto · C. Butterfill · Carmen M.º de Acuña · her. de Pastor Frías · Marcos Sarmiento · her. de Vicente Noriega · Francisco (S.) Lescano · Feliz Lescano",
+   "rol": "Linderos y pobladores",
+   "texto": "Cucullo = Cucullu (033); Pignetto = Piquetto (059, 060); Butterfill (034, 037, 048, 066); Acuña (037, 065); Frías (064, 082); los Lescano (045, 068, 082); Sarmiento (Noriega de Sarmiento, 064).",
+   "fuentes": "Fichas citadas."
+  }
+ ],
+ "titulo": "Marcelino Mezquita y Cruz Rodríguez",
+ "estado": "Transcripta (1 hojas, 21 renglones), 3 láminas"
+}

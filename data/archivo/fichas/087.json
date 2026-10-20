@@ -1,0 +1,262 @@
+{
+ "carpeta": "87",
+ "carpeta_nombre": "Carpeta 87",
+ "archivo": "Ficha 087 - Testamentaría Quevedo (1878).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (fajas del Sauce, entre la Cañada del Sauce y la de la Cruz)",
+  "N.º de duplicado": "87 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Test. de Juan E. Quevedo y Manuela Q. de Quevedo",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1878",
+  "Fecha de la diligencia": "Plano «Octubre de 1878»; presentada al D. I. el 14 [?]/11/1878",
+  "Ubicación": "Faja de Manuela Quevedo (051) del Sauce a la Cruz; F. C. O. ramal a Pergamino",
+  "Orden judicial": "No fotografiada",
+  "Vendedor / antecesor": "Manuela Quevedo (hijuela de 1865, Ficha 051)",
+  "Linderos citados": "P. P. Quevedo · Enrique y Antonia Rodríguez · L. L. Torres · Ormaechea · F. Cano",
+  "Medidas": "Faja de 606,2 m × 6894 m (+ piezas de 403,55 m) · seis fracciones",
+  "Rumbos": "N 31° 15′ O / S 31° 15′ E · N 58° 45′ E",
+  "Referencia de archivo": "Duplicado 87 (el «dup.º 87» del lápiz de 073 y 047)"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 418 [?]",
+  "hitos": "Poblaciones de los Quevedo, Cano, Rodríguez; ferrocarril",
+  "aguas": "Cañada del Sauce · Cañada de la Cruz"
+ },
+ "sintesis": "Duplicado del que se fotografiaron la carátula, el último folio y el plano. En octubre de 1878 Carlos Schuster mide y divide la testamentaría de Juan Eusebio Quevedo y Manuela Q. de Quevedo: la faja de 606,2 m que Muñiz había medido en 1865 para Manuela (051), de 6894 m entre la Cañada del Sauce y más allá de la de la Cruz, con rumbos N 31° 15′ O / N 58° 45′ E. Seis fracciones: Juan Pío (a) Federico Quevedo (dos, una «su legítima»), Micaela Quevedo, Petrona Flores de Quevedo y sus hijos, Andrea Pich y Quevedo y una pieza «adjudicada para gastos». La cruza el F. C. O. «Ramal al Pergamino»: primer ferrocarril del corpus. El Departamento de Ingenieros la encuentra «bien ejecutada» (nov. de 1878).",
+ "caratula": {
+  "img": "img/f/087/01.jpg",
+  "fuente": "IMG_7434.jpg",
+  "campos": [
+   [
+    "N.º",
+    "87"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Juan Eusebio Quevedo y Manuela Quevedo de Quevedo. (Testamentaria)"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1878"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Último folio: visuales, cargo e informe del Departamento",
+   "img": "img/f/087/06.jpg",
+   "fuente": "IMG_7435.JPG (izquierda, girada)",
+   "nota": "El folio está fotografiado acostado junto al plano. Se lee el final de la tabla de visuales, la firma de Schuster, el cargo del Departamento de Ingenieros y el comienzo de su informe al juez; el resto del informe queda fuera de la toma.",
+   "lineas": [
+    "Poblacion de D. Pedro Quevedo · S 88° 45′ O [?]",
+    "Juan Pio ó Federico Quevedo · N 46° 25′ O [?]",
+    "M",
+    "Luis Cano [?] · S 13° 40′ E",
+    "Francisca [?] Cano · S 45° 40′ E [?]",
+    "Pedro Quevedo · N 48° 20′ O [?]",
+    "Schuster [rúbrica]",
+    "Nov.^{e} 14 [?]/878.—",
+    "Presentada en la fecha.—",
+    "M. Pico [rúbrica]",
+    "Señor Juez de 1.^{a} Instancia",
+    "El Departam.^{to} de Ing.^{s}",
+    "ha examinado la precedente di-",
+    "ligencia de mensura y division",
+    "practicada por el agrimensor",
+    "D.^{n} Carlos Schuster del terreno",
+    "de D.^{n} Juan Eusebio Quevedo y",
+    "D.^{a} Manuela Q. de Quevedo en",
+    "el partido de San Andres de",
+    "Giles, y encontrando esta ope-",
+    "racion bien ejecutada no",
+    "ve inconveniente en su apro-",
+    "bacion.—",
+    "[sigue fuera de la toma]"
+   ],
+   "interpretacion": "Cierre de la diligencia: las últimas visuales desde los mojones (al mojón M, casas de Luis y Francisca [?] Cano y de Pedro Quevedo; antes, la población de Pedro Quevedo y la de Juan Pío o Federico Quevedo), la firma de Schuster, el cargo de presentación al Departamento de Ingenieros (noviembre de 1878, «M. Pico», el mismo oficial que en 085) y el informe favorable: la «mensura y división» del terreno de Juan Eusebio Quevedo y Manuela Q. de Quevedo está «bien ejecutada» y no hay inconveniente en aprobarla."
+  },
+  {
+   "titulo": "Rótulos y cifras del plano de Schuster",
+   "img": "img/f/087/04.jpg",
+   "fuente": "IMG_7435 a IMG_7438",
+   "nota": "El plano es una faja muy larga fotografiada en tres tramos (7436 O, 7437 centro, 7438 E). Varias cifras están al revés. Las superficies a lápiz son de lectura insegura; entre corchetes, cálculo propio.",
+   "lineas": [
+    "[al N, todo el largo:] Pedro Pablo Quevedo.   ·   [al S:] Enrique y Antonia Rodriguez.",
+    "[al O:] Francisco Cano   ·   Santiago Ormechea [= Ormaechea]   ·   P.^{to} de Ormechea",
+    "[línea N:] N. 31° 15′ O = 6894 m   [M-N 1077.109 · N-O 647.156 · O-P 1781.370 · P-Q 1791.795 · Q-A 1596.570]",
+    "[N-K:] N. 58° 45′ E = 1009.75 m   ·   [K-J:] 212.891   ·   [H-J:] N. 58° 45′ E = 403.55 m",
+    "[L-K:] S. 31° 15′ E = 1277.35 m [?]   ·   [M-L:] S 5[?]° [?] O = 1101 m [?]",
+    "Cañada de la Cruz [cruza la fracción O, entre N y J]",
+    "Juan Pio (á) Federico Quevedo, (su legítima).   [lápiz:] 108,[4]?,12 [?]   ·   Pob. de F. Quevedo",
+    "Micaela Quevedo.   [lápiz:] 47,[..] [?]   ·   [H-G:] 434.265 [?]   ·   P. P. Quevedo [población]",
+    "[O-G:] N. 58° 45′ E = 606.2 m   ·   [G: 3392,45 · 3914]",
+    "Petrona Flores de Quevedo y sus hijos.   [G-F:] 1781.38   ·   P. de P. F. de Quevedo   [≈ 108,0 ha]",
+    "[P-F:] N. 58° 45′ E = 606.2 m   ·   [F:] S. 31° 15′ E · 2111.015 · 1326 m",
+    "Andrea Pich y Quevedo.   [lápiz:] 108,61,86   [F-E:] 1791.795   [≈ 108,6 ha]",
+    "F. C. O. Ramal al Pergamino [cruza en diagonal la fracción de Andrea Pich y Quevedo]",
+    "[Q-E:] N. 58° 45′ E = 606.2 m   ·   [Q: 5159 · 5297.45]   ·   [E: 459]",
+    "(Adjudicado para gastos.)   [E-D:] 319.22   ·   [D-C:] N. 58° 45′ E = 403.55 m",
+    "Juan Pio (á) Federico Quevedo.   [lápiz:] 45^{h} 24^{a} 66   ·   [C-B:] S. 31° 15′ E = 1277.35 m",
+    "[A-B, sobre la Cañada del Sauce:] N. 58° 45′ E = 202.65 m [?]   ·   162.5",
+    "CAÑADA DEL SAUCE   ·   [enfrente:] Lorenzo L. Torres.   ·   P. de E. Rodriguez",
+    "Escala de Metros [0 · 500 · 1000]   ·   Octubre de 1878   Carlos Schuster"
+   ],
+   "interpretacion": "Partición de la faja que Muñiz midió en 1865 para Manuela Quevedo (051: 606,2 m de frente sobre la Cañada del Sauce): seis fracciones a lo largo de 6894 m, de E a O: Juan Pío (alias Federico) Quevedo (Q-A-B-C, 45,25 ha, con la pieza «adjudicada para gastos» de 319,22 × 403,55 m), Andrea Pich y Quevedo (≈ 108,6 ha), Petrona Flores de Quevedo y sus hijos (≈ 108 ha), Micaela Quevedo, y en el extremo O, más allá de la Cañada de la Cruz, la «legítima» de Juan Pío o Federico Quevedo, que ocupa el ancho entero de 1009,75 m (606,2 + 403,55: incluye la anchura de la faja vecina de Faustina Quevedo de Rodríguez, 051). La faja la cruza en diagonal el F. C. O. «Ramal al Pergamino»."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la división de la testamentaría de J. E. Quevedo y M. Q. de Quevedo (Schuster, 1878)",
+   "img": "img/f/087/02.jpg",
+   "fuente": "IMG_7435.JPG",
+   "orientacion": "Plano en papel, muy apaisado, marco de doble filete con faja negra, cosido junto al último folio; la faja corre horizontal con la Cañada del Sauce a la derecha (E) y la de la Cruz a la izquierda; norte hacia el ángulo inferior derecho.",
+   "interpretacion": "Vista general (izquierda: el último folio; derecha: el comienzo de la faja con Pedro Pablo Quevedo al N).",
+   "referencias": [
+    [
+     "Línea N",
+     "N 31° 15′ O · 6894 m · contra Pedro Pablo Quevedo (faja de 073)"
+    ],
+    [
+     "Línea S",
+     "S 31° 15′ E · contra Enrique y Antonia Rodríguez (ex Faustina Quevedo de Rodríguez)"
+    ],
+    [
+     "Frente E",
+     "Cañada del Sauce (A-B); enfrente Lorenzo L. Torres"
+    ],
+    [
+     "Fondo O",
+     "Más allá de la Cañada de la Cruz: Francisco Cano y Santiago Ormaechea"
+    ],
+    [
+     "Divisorias",
+     "N 58° 45′ E · 606,2 m (O-G, P-F, Q-E); 1009,75 m al O (N-K)"
+    ],
+    [
+     "Fracciones (E→O)",
+     "Juan Pío (a) Federico · [adjudicado para gastos] · Andrea Pich y Quevedo · Petrona Flores de Quevedo y sus hijos · Micaela Quevedo · Juan Pío (a) Federico (su legítima)"
+    ],
+    [
+     "Ferrocarril",
+     "F. C. O. Ramal al Pergamino, en diagonal"
+    ],
+    [
+     "Poblaciones",
+     "Pedro Quevedo, F. Quevedo, P. P. Quevedo, P. F. de Quevedo, E. Rodríguez, Ormaechea"
+    ],
+    [
+     "Firma",
+     "Octubre de 1878 · Carlos Schuster"
+    ]
+   ]
+  },
+  {
+   "titulo": "Tramo O: la Cañada de la Cruz y la legítima de Juan Pío Quevedo",
+   "img": "img/f/087/03.jpg",
+   "fuente": "IMG_7436.JPG",
+   "orientacion": "",
+   "interpretacion": "Extremo O: la Cañada de la Cruz cruza entre N y J; la fracción de Juan Pío (a) Federico «su legítima» con 1009,75 m de ancho; Micaela Quevedo; Francisco Cano y Santiago Ormaechea al fondo; escala y firma de Schuster.",
+   "referencias": []
+  },
+  {
+   "titulo": "Tramo central: Petrona Flores de Quevedo y el ferrocarril",
+   "img": "img/f/087/04.jpg",
+   "fuente": "IMG_7437.JPG",
+   "orientacion": "",
+   "interpretacion": "Fracciones de Petrona Flores de Quevedo y sus hijos y de Andrea Pich y Quevedo; el F. C. O. entra por la línea S y sube hacia el NE.",
+   "referencias": []
+  },
+  {
+   "titulo": "Tramo E: «Ramal al Pergamino», pieza para gastos y Cañada del Sauce",
+   "img": "img/f/087/05.jpg",
+   "fuente": "IMG_7438.JPG",
+   "orientacion": "",
+   "interpretacion": "Extremo E: el rótulo «Ramal al Pergamino», la pieza «Adjudicado para gastos», la fracción E de Juan Pío (a) Federico (45 ha 24 a 66 ca), la Cañada del Sauce en A-B y Lorenzo L. Torres enfrente.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "El ferrocarril llega a las fajas del sauce",
+   "texto": "«F. C. O. Ramal al Pergamino»: el Ferrocarril Oeste cruza en diagonal la faja de los Quevedo en octubre de 1878. Es la primera vía férrea del corpus y fija una fecha: el trazado del ramal de Luján a Pergamino ya estaba definido (o construido) por el S de Giles en 1878. En GIS, el cruce con la línea S de la faja (≈ 1326 m al O de F) y con la N (cerca de Q) da dos puntos del trazado histórico, verificables con la vía actual. [Fecha de habilitación del ramal en Giles: verificar en bibliografía ferroviaria.]"
+  },
+  {
+   "titulo": "Trece años después de muñiz",
+   "texto": "En 1865 Muñiz midió la faja de Manuela Quevedo de 606,2 m entre Faustina Quevedo de Rodríguez (403,55 m) y Pedro Pablo Quevedo (433 m) (051, 073). En 1878 Schuster la divide entre los herederos con los MISMOS anchos (606,2 y 403,55 m) y un largo de 6894 m (Muñiz: 6866-6909 m). Los rumbos pasan de S 30° 54′ E / N 59° 6′ E (Muñiz) a S 31° 15′ E / N 58° 45′ E (Schuster): 21′ de diferencia, del orden de la diferencia entre sus variaciones magnéticas. Confirma el lápiz «Véase dup.º 87» de 073."
+  },
+  {
+   "titulo": "Herencia y gastos",
+   "texto": "La fracción «adjudicado para gastos» (319,22 × 403,55 m ≈ 12,9 ha) es una pieza separada para pagar las costas del juicio sucesorio y de la mensura: primera vez que el corpus muestra la tierra usada como moneda de los honorarios. Juan Pío «alias» Federico Quevedo recibe dos fracciones, una de ellas rotulada «su legítima». Aparecen además Andrea Pich y Quevedo y Petrona Flores de Quevedo «y sus hijos»: viudas o nueras de la familia."
+  },
+  {
+   "titulo": "Paisaje y visuales",
+   "texto": "La faja cruza las dos cañadas (del Sauce en el frente E; de la Cruz cerca del extremo O). La tabla de visuales ata los mojones a las poblaciones de Pedro Quevedo, Juan Pío o Federico Quevedo y los Cano, y el plano marca puestos de Ormaechea, E. Rodríguez y P. P. Quevedo: un poblamiento disperso de una casa por fracción."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Cuál es exactamente la pieza de 403,55 m que se suma en los dos extremos (¿compra a la faja de Faustina?)? Lecturas de lápiz de Micaela y de la legítima de Juan Pío. ¿Fecha exacta del cargo (14 de noviembre [?])? Pedir foto del cuerpo de la diligencia y de la portadilla."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Juan Eusebio Quevedo y Manuela Quevedo de Quevedo",
+   "rol": "Causantes (testamentaría)",
+   "texto": "Manuela Quevedo recibió en 1865 la faja de 606,2 m del Sauce (051); casada con un Quevedo (Juan Eusebio). En 1878 su testamentaría se divide entre sus herederos. Sin datos en la web.",
+   "fuentes": "Dup. 87; Fichas 049-051, 073."
+  },
+  {
+   "nombre": "Juan Pío (alias Federico) Quevedo · Micaela Quevedo · Andrea Pich y Quevedo · Petrona Flores de Quevedo",
+   "rol": "Herederos",
+   "texto": "Adjudicatarios de las fracciones de 1878; Petrona Flores «y sus hijos», probablemente viuda de un hijo premuerto.",
+   "fuentes": "Dup. 87."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Ver Ficha 084.",
+   "fuentes": "Fichas 052-087."
+  },
+  {
+   "nombre": "M. Pico",
+   "rol": "Departamento de ingenieros",
+   "texto": "Ver Ficha 085.",
+   "fuentes": "Fichas 085, 087."
+  },
+  {
+   "nombre": "Pedro Pablo Quevedo · Enrique y Antonia Rodríguez · Lorenzo L. Torres · Santiago Ormaechea · Francisco, Luis y Francisca [?] Cano",
+   "rol": "Linderos",
+   "texto": "P. P. Quevedo: faja de 073. Enrique y Antonia Rodríguez: probables hijos de Faustina Quevedo de Rodríguez (051). Lorenzo Torres: Santa Elena (044). Ormaechea: 036. Los Cano: fondo de las fajas en 049-051.",
+   "fuentes": "Fichas 036, 044, 049-051, 073."
+  }
+ ],
+ "titulo": "Test. de Juan E. Quevedo y Manuela Q. de Quevedo",
+ "estado": "Transcripta (2 hojas, 43 renglones), 4 láminas"
+}
