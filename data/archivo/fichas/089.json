@@ -1,0 +1,190 @@
+{
+ "carpeta": "89",
+ "carpeta_nombre": "Carpeta 89",
+ "archivo": "Ficha 089 - Antonio H. Sala (1879).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (rincón SO, campo ex Gutiérrez, hacia Carmen de Areco)",
+  "N.º de duplicado": "89 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Antonio H. Sala",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1879",
+  "Fecha de la diligencia": "Plano «Febrero de 1879»",
+  "Ubicación": "Entre Caprile y Picasso (052), Pilar Alegre (084) y Tiburcio Casco",
+  "Orden judicial": "No fotografiada",
+  "Vendedor / antecesor": "¿Hijuela del campo de Bernardo Gutiérrez (024)? [hipótesis]",
+  "Linderos citados": "T. Casco · Test.ª de Victoria Gutiérrez · Caprile y Picasso · P. Alegre de Cambra · J. Maxwell · P. Bustos de Rodríguez",
+  "Medidas": "Polígono A-J de 11 lados, 3410 × 2190 m aprox. · ≈ 886 ha (cálculo propio)",
+  "Rumbos": "S 47° 3′ E / N 45° 38′ E · var. 11° 42′ NE",
+  "Referencia de archivo": "Duplicado 89"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 886 [cálculo]",
+  "hitos": "Estancia Sala, puestos, estancias vecinas",
+  "aguas": "¿Cañada en el lado NE?"
+ },
+ "sintesis": "Duplicado del que sólo se fotografiaron la carátula y el plano. En febrero de 1879 Carlos Schuster mide el campo de Antonio H. Sala, en el rincón SO del partido. Es un polígono de once lados y ≈ 886 ha (cálculo propio). El lado de 3410 m a S 47° 3′ E es el mismo de Caprile y Picasso (052) y la línea de 45° 38′ es la de la hijuela de Ángela G. de Alegre (084), ahora de Pilar Alegre de Cambra. Al N lindan Tiburcio Casco y la test.ª de Victoria Gutiérrez; al E J. Maxwell y Petrona Bustos de Rodríguez. Sería una quinta pieza del campo de Bernardo Gutiérrez (024) con geometría. Var. 11° 42′ NE.",
+ "caratula": {
+  "img": "img/f/089/01.jpg",
+  "fuente": "IMG_7439.JPG",
+  "campos": [
+   [
+    "N.º",
+    "89"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Don Antonio H. Sala"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1879"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Schuster",
+   "img": "img/f/089/02.jpg",
+   "fuente": "IMG_7440.JPG",
+   "nota": "Sólo hay carátula y plano. El plano está fotografiado acostado y los rótulos se leen girándolo 90°. Las letras de los vértices y los lados se ordenan según el recorrido; entre corchetes, lecturas o cálculos propios.",
+   "lineas": [
+    "ANTONIO H. SALA",
+    "[al N:] Tiburcio Casco   ·   [al NO:] Test.^{a} de Victoria Gutierrez   ·   Gutierrez. Puesto",
+    "[A-B:] S. 47° 14′ O. 2189.5^{m}   ·   [B-C:] S. 47° 17′ E. 270^{m}   ·   [C-D:] S. 44° 54′ O. 1126^{m}",
+    "D · Est.^{a} Caprile y Picasso   ·   [al O:] Caprile y Picasso",
+    "[D-E:] S. 47° 3′ E. 3410^{m}",
+    "E · P^{to}   ·   [al S:] Alegre   ·   Pilar Alegre de Cambra",
+    "[E-F:] N. 45° 38′ E. 1125^{m}   ·   [F-G:] S. 47° 25′ E. 280^{m}",
+    "[G-H:] N. 41° 27′ E. 866^{m}   ·   [al SE:] J. Maxwell   ·   Est.^{a} Maxwell",
+    "[H-J:] N. 47° 15′ O. 1960^{m}   ·   Puesto",
+    "[al E:] Petrona Bustos de Rodriguez   ·   Est.^{a} Rodriguez",
+    "[J-a:] N. 22° 28′ E. 255^{m}   ·   [a-b:] N. 6° 27′ O. 1375^{m}   ·   [b-A:] N. 35° 44′ O. 751^{m}   ·   [junto a A:] 69,5",
+    "Estancia Sala [arboleda]   ·   Puesto   ·   Puesto   ·   Puesto",
+    "var. 11° 42′ NE.   ·   [flecha del norte]",
+    "Escala de Metros [0 · 1000 · 2000 · 3000 · 4000]",
+    "Febrero de 1879   Carlos Schuster [rúbrica]",
+    "[a lápiz, al margen inferior:] 895[...] [?]"
+   ],
+   "interpretacion": "El plano de la mensura del campo de Antonio H. Sala que hizo Carlos Schuster en febrero de 1879. Es un polígono de once lados. Por el SO y el S toca los dos campos que Schuster ya había medido: el lado D-E (S 47° 3′ E, 3410 m) es el mismo lado B-C de la estancia de Caprile y Picasso (052, 1869, también 3410 m y S 47° 3′ E), y el lado E-F (N 45° 38′ E) sigue la línea N de la hijuela de Ángela Gutiérrez de Alegre (084, 1878), donde ahora figura Pilar Alegre de Cambra. Por el N linda con Tiburcio Casco y con la testamentaría de Victoria Gutiérrez; por el E con J. Maxwell y Petrona Bustos de Rodríguez. El lado NE (J-a-b-A) es una línea quebrada irregular, dibujada como borde ondulado: probablemente la costa de una cañada o un límite antiguo. La estancia Sala tiene arboleda y hay tres puestos. Superficie por cálculo propio: ≈ 886 ha (el polígono no cierra por 59 m; ¿los «69,5» junto a A?)."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del campo de Antonio H. Sala (Schuster, febrero de 1879)",
+   "img": "img/f/089/02.jpg",
+   "fuente": "IMG_7440.JPG",
+   "orientacion": "Plano en papel, marco con faja negra, fotografiado de costado; norte hacia la izquierda de la toma (girado 90° queda arriba).",
+   "interpretacion": "Polígono sombreado de Antonio H. Sala con los vecinos alrededor; escala de metros y firma de Schuster abajo.",
+   "referencias": [
+    [
+     "A-B",
+     "S 47° 14′ O · 2189,5 m · contra Tiburcio Casco"
+    ],
+    [
+     "B-C-D",
+     "Escotadura de 270 m y 1126 m contra la test.ª de Victoria Gutiérrez y Gutiérrez"
+    ],
+    [
+     "D-E",
+     "S 47° 3′ E · 3410 m · contra Caprile y Picasso (= lado B-C de 052)"
+    ],
+    [
+     "E-F",
+     "N 45° 38′ E · 1125 m · contra Pilar Alegre de Cambra (084)"
+    ],
+    [
+     "F-G-H",
+     "280 m y 866 m contra J. Maxwell"
+    ],
+    [
+     "H-J",
+     "N 47° 15′ O · 1960 m · contra Petrona Bustos de Rodríguez"
+    ],
+    [
+     "J-a-b-A",
+     "Línea quebrada irregular (255 + 1375 + 751 m)"
+    ],
+    [
+     "Edificios",
+     "Estancia Sala, tres puestos; estancias de Caprile y Picasso, de Maxwell y de Rodríguez"
+    ],
+    [
+     "Declinación",
+     "var. 11° 42′ NE (la de 052-053 y 084)"
+    ],
+    [
+     "Firma",
+     "Febrero de 1879 · Carlos Schuster"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Una quinta pieza del campo de bernardo gutiérrez",
+   "texto": "Sala linda con la test.ª de Victoria Gutiérrez y con «Gutiérrez», y comparte el lado de 3410 m con Caprile y Picasso (052) y la línea de 45° 38′ con la hijuela de Ángela G. de Alegre (084). Es muy probable que el campo sea otra hijuela de la repartición de 1859 (024), o parte de una, vendida a Sala. Si es así, ya hay cinco piezas del campo Gutiérrez con geometría (052, 053, 063, 084, 089). En 084 «A. H. Sala» ya figuraba como lindero NE en 1878."
+  },
+  {
+   "titulo": "Tiburcio casco en el rincón so",
+   "texto": "Tiburcio Casco aparecía en la margen O del arroyo de Giles, junto a las «suertes principales de Areco» (040, 067). Que linde aquí con Sala apoya la idea de que el campo Gutiérrez está al O, hacia Carmen de Areco, en la franja de los fondos de las suertes de Areco. Hay que verificarlo en el plano del partido de 1890."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Schuster repite sus rumbos y su declinación (11° 42′ NE, igual que en 1869 y 1878) y apoya los lados en los mojones de sus mensuras anteriores: el lado de 3410 m coincide al metro con el de 052. La línea irregular del NE, con tres tramos rectos, sugiere que sigue la costa de una cañada, aunque no tiene rótulo."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Qué es la línea quebrada J-a-b-A? ¿Qué título invoca Sala? ¿Quién es Victoria Gutiérrez? Habría que leer la cifra a lápiz del margen (¿895 ha?) y buscar el texto de la diligencia y la portadilla."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Antonio H. Sala",
+   "rol": "Propietario",
+   "texto": "Propietario de una estancia en el rincón SO del partido desde antes de 1878 (lindero NE en 084). La H. podría ser un segundo apellido (¿Hernández?). Una búsqueda web breve no dio datos.",
+   "fuentes": "Dup. 89; Ficha 084."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Ver Ficha 084.",
+   "fuentes": "Fichas 052-089."
+  },
+  {
+   "nombre": "Victoria Gutiérrez (test.ª) · Tiburcio Casco · Caprile y Picasso · Pilar Alegre de Cambra · J. Maxwell · Petrona Bustos de Rodríguez",
+   "rol": "Linderos",
+   "texto": "Victoria Gutiérrez sería de la familia de Bernardo Gutiérrez (024). Caprile y Picasso: 052. Pilar Alegre de Cambra es la «Pilar» de la partición de 084, ya casada. José Maxwell: 084. Petrona Bustos de Rodríguez es de la familia Bustos (066, 084). Tiburcio Casco: 040, 067.",
+   "fuentes": "Fichas 024, 040, 052, 066, 067, 084."
+  }
+ ],
+ "titulo": "Antonio H. Sala",
+ "estado": "Transcripta (1 hojas, 16 renglones), 1 lámina"
+}

@@ -1,0 +1,652 @@
+{
+ "carpeta": "88",
+ "carpeta_nombre": "Carpeta 88",
+ "archivo": "Ficha 088 - Juan Cunningham (1878).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (margen E del arroyo de Giles, hasta el arroyo del Sauce)",
+  "N.º de duplicado": "88 (portadilla «Giles 88»)",
+  "Propietario / solicitante": "Juan Cunningham",
+  "Agrimensor": "Pedro N. Díaz",
+  "Año": "1878",
+  "Fecha de la diligencia": "13/11/1878; firmada en dic. de 1878; aprobada el 22/8/1879",
+  "Ubicación": "Estancia «La Paloma», del arroyo de Giles al del Sauce (ex Riestra, Ficha 006)",
+  "Orden judicial": "Juez de 1.ª Inst. en lo Civil Dr. José María Rosa (25/10/1878)",
+  "Vendedor / antecesor": "Hnos. de la Riestra (1865) ← Álvaro de la Riestra (1840) ← P. A. Rodríguez",
+  "Linderos citados": "L. Tiseira · F. Maldonado · Dr. L. Torres · T. Mac Dermott · Ormaechea · Carrasco",
+  "Medidas": "1279-1299 m (1500 v) × 10.826 / 11.705 m · 14.448.380 m² (≈ 1444,8 ha)",
+  "Rumbos": "S 47° 1′ E / N 42° 59′ E · var. 11° 25′ E",
+  "Referencia de archivo": "Duplicado 88; en el expediente, fs. 34-38"
+ },
+ "metricas": {
+  "superficie_ha": "1444,8",
+  "hitos": "Mojones de Eguía y Meyrelles; La Paloma; pulpería; alambrados; ferrocarril",
+  "aguas": "Arroyo de Giles · cañada · arroyo del Sauce"
+ },
+ "sintesis": "Duplicado completo: extracto de títulos, diligencia, cierre técnico, trámite y plano. En noviembre de 1878 Pedro N. Díaz mide la estancia «La Paloma» de Juan Cunningham: la faja de 1500 v que Eguía había medido en 1854 para Álvaro de la Riestra (006), entre el arroyo de Giles y el del Sauce, de 10.826 a 11.705 m de largo y 14.448.380 m² (≈ 1445 ha). Títulos: Fernández y Figueroa (1839) → P. A. Rodríguez → Riestra (1840) → los hijos Riestra → Cunningham (1865). Díaz encuentra los mojones de Eguía y de Meyrelles (043-044) y registra alambrados, puestos, la pulpería de Magadán, tres caminos y la vía de Luján al Pergamino. Lorenzo M. Torres protesta; la mensura se aprueba igual, «de conformidad de partes» (22/8/1879).",
+ "caratula": {
+  "img": "img/f/088/01.jpg",
+  "fuente": "IMG_3551.JPG",
+  "campos": [
+   [
+    "N.º",
+    "88"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Juan Cunningham"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Pedro N. Diaz"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1878"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: Estracto de títulos (1840, 1864)",
+   "img": "img/f/088/07.jpg",
+   "fuente": "IMG_3553.JPG",
+   "nota": "",
+   "lineas": [
+    "Estracto de Titulos.   [al margen, sello y foliatura:] 1",
+    "En la Ciudad de Buenos Aires á tres de Agosto",
+    "de mil ocho cientos cuarenta, ante el escribano Don",
+    "Luis Lopez y Registro de Don Justo José Nuñez, Don",
+    "Pedro Antonio Rodriguez vende á Don Alvaro de",
+    "la Riestra un terreno de estancia compuesto de",
+    "mil quinientas varas de frente al Arroyo de Giles",
+    "y con el fondo desde dicho Arroyo de Giles hasta",
+    "el Arroyo del Sauce, es decir: dos leguas y ciento",
+    "sesenta y cuatro varas, linda por el frente al Oeste",
+    "con Don [sic] Ysabel Carrasco, por el fondo al Este Arro-",
+    "yo del Sauce en medio con Don Juan Castro, por",
+    "el Nordeste con Don Pedro Miguel de Figueroa",
+    "y por el Sud Oeste con los herederos de Don Enrique",
+    "Sosa y Don Julian Monje y la hubo el vendedor por",
+    "haberla comprado á Don Toribio Fernandez y su",
+    "esposa Doña Carmen Figueroa en veinte y dos de",
+    "Febrero de mil ocho cientos treinta y nueve.",
+    "En la Ciudad de Buenos Aires á veinte y dos de",
+    "Agosto de mil ocho cientos sesenta y cuatro, ante",
+    "el escribano José Boada y registro del finado Agre-",
+    "lo, Don Eustaquio, Don Norberto y Don Augusto de",
+    "la Riestra legitimos hermanos, y este último en",
+    "representacion tambien de su otra hermana Doña",
+    "Angela Riestra de Newton [?], de estado viuda segun",
+    "el poder que le confirió con fecha veinte y cinco",
+    "de Abril del presente año, venden á Don Herme-",
+    "negildo de la Riestra hermano tambien, la par-",
+    "te que les corresponde en el terreno de estancia",
+    "situado en el Partido de San Andres de Giles, cu-",
+    "ya area se compone de mil quinientas varas de",
+    "frente con el fondo desde el Arroyo de Giles has-",
+    "ta el del Sauce, que resulta ser de dos leguas",
+    "y ciento sesenta y cuatro varas; y linda por el fren-",
+    "te al Oeste con el Arroyo de Giles en medio con",
+    "la testamentaria de Doña Isabel Carrasco, por",
+    "el fondo Arroyo del Sauce en medio con Don"
+   ],
+   "interpretacion": "Extracto de los títulos. (1) 3/8/1840, escribano Luis López, registro de Justo José Núñez: Pedro Antonio Rodríguez vende a Álvaro de la Riestra una estancia de 1500 varas de frente sobre el arroyo de Giles con fondo hasta el arroyo del Sauce (dos leguas y 164 varas); linderos: Isabel Carrasco enfrente (O), Juan Castro al otro lado del Sauce (E), Pedro Miguel de Figueroa (NE), herederos de Enrique Sosa y Julián Monje (SO). Rodríguez la había comprado a Toribio Fernández y Carmen Figueroa el 22/2/1839. (2) 22/8/1864, escribano José Boada, registro del finado Agrelo: los hermanos Eustaquio, Norberto y Augusto de la Riestra (este también por Ángela Riestra de Newton [?], viuda) venden su parte a su hermano Hermenegildo."
+  },
+  {
+   "titulo": "Folio 1 vuelto: estracto de títulos (1864, 1865: venta a Cunningham)",
+   "img": "img/f/088/08.jpg",
+   "fuente": "IMG_3554.JPG (mitad izq.)",
+   "nota": "",
+   "lineas": [
+    "Antonio Ormaechea y por el Nord Este con Don",
+    "Lorenzo Tiseira y Don Francisco Maldonado, y",
+    "por el Sud Oeste con el Doctor Don Lorenzo Torres",
+    "les corresponde á los comparecientes como al com-",
+    "prador como únicos herederos de sus finados padres",
+    "Don Alvaro de la Riestra y Doña Maria Teresa",
+    "Martinez, los cuales lo hubieron por compra",
+    "que hicieron á Don Pedro Antonio Rodriguez",
+    "en tres de Agosto de mil ocho cientos cuarenta,",
+    "ante el escribano Luis Lopez y registro de Jus-",
+    "to José Nuñez.",
+    "En la Ciudad de Buenos Aires á veinte y seis",
+    "de Agosto de mil ocho cientos sesenta y cinco, ante",
+    "el escribano José Boada Doña Angela Riestra",
+    "de Newton de estado viuda, Don Eustaquio Don",
+    "y Augusto de la Riestra y este último en represen-",
+    "tacion tambien de su otro hermano Don Nor-",
+    "berto de la Riestra, segun el poder general que",
+    "le otorgó con fecha once de Mayo último, venden",
+    "á Don Juan Cunningham un terreno de estan-",
+    "cia de su propiedad con todas sus poblaciones",
+    "situado en el partido de San Andres de Giles",
+    "campaña de esta Provincia, cuya area se com-",
+    "pone de mil dos cientos setenta y nueve metros",
+    "de frente al Arroyo de Giles con el fondo desde",
+    "este arroyo hasta el del Sauce que resulta ser",
+    "de diez mil quinientos treinta y cuatro metros,",
+    "equivalentes á mil quinientas varas de frente",
+    "por dos leguas y ciento sesenta y cuatro va-",
+    "ras de fondo, y linda por el frente al Oeste con",
+    "Arroyo de Giles en medio con la testamentaria",
+    "de Doña Isabel Carrasco, por el fondo Arroyo",
+    "del Sauce en medio con Don Antonio Ormae-",
+    "chea por el Nord Este con Don Lorenzo Tiseira",
+    "y Don Francisco Maldonado y por el Sud",
+    "Oeste con el Doctor Don Lorenzo Torres, cu-",
+    "ya propiedad les corresponde como únicos",
+    "herederos de su otro hermano Don Hermenegildo",
+    "de la Riestra muerto en estado soltero abintestato."
+   ],
+   "interpretacion": "Sigue el extracto: los Riestra heredaron el campo de sus padres, Álvaro de la Riestra y María Teresa Martínez. (3) 26/8/1865, escribano Boada: Ángela Riestra de Newton, Eustaquio y Augusto (por sí y por Norberto) venden a JUAN CUNNINGHAM la estancia «con todas sus poblaciones»: 1279 m de frente al arroyo de Giles por 10.534 m de fondo hasta el del Sauce (= 1500 v por 2 leguas 164 v). Les tocaba como únicos herederos de Hermenegildo, muerto soltero y sin testamento. Linderos en 1865: test. de Isabel Carrasco (O), Antonio Ormaechea (E), Lorenzo Tiseira y Francisco Maldonado (NE), Dr. Lorenzo Torres (SO)."
+  },
+  {
+   "titulo": "Folio 2: Mensura (comisión, arranque, línea A-B y comienzo de B-C)",
+   "img": "img/f/088/09.jpg",
+   "fuente": "IMG_3554.JPG (mitad der.)",
+   "nota": "",
+   "lineas": [
+    "Mensura.   [al margen, sello y foliatura:] 2",
+    "El Agrimensor que suscribe, habiendo sido comi-",
+    "sionado con fecha veinte y cinco de Octubre del",
+    "corriente año por el S.^{r} Juez de 1.^{a} Instancia",
+    "en lo Civil Dor Don José Maria Rosa, para",
+    "medir el terreno de propiedad de Don Juan",
+    "Cunningham situado en el partido de San",
+    "Andres de Giles, procedí, previa citacion á los",
+    "linderos, cuyo original acompaño, á ejecutar",
+    "la operacion el dia trece de Noviembre del",
+    "presente año, siendo mi punto de partida el mo-",
+    "jon de fierro marcado en el plano con la letra",
+    "A, puesto por el Agrimensor Meyrelles en rem-",
+    "plazo del esquinero de ñandubay del campo",
+    "que se mide, cuando practicó la mensura",
+    "del Campo de Don Lorenzo Torres.",
+    "Desde A al N 42° 59′ E se midieron siete cientos seten-",
+    "ta y cinco, y en su trayecto á los dos cientos treinta y cuatro",
+    "mt. treinta cent.^{s} cruce la via ferrea de Lujan al Pergamino",
+    "á los cuatro cientos noventa y tres mt. crucé el alambrado",
+    "de la «Paloma» á los siete cientos veinte y cinco mt. vol-",
+    "ví á cruzar el alambrado ~~x~~ y levanté ordenada",
+    "á la Estancia la «Paloma» de cien mt. á la derecha de",
+    "la linea, á los siete cientos setenta y cinco mt. cua-",
+    "dré al N 47° 1′ O y se midieron dos cientos setenta y cin-",
+    "co [?] mt. volví á cuadrar al N 42° 59′ E y se midieron",
+    "quinientos veinte y cuatro mt. hasta el punto de",
+    "interseccion con la linea BC.",
+    "Linea BC. Desde B al S 47° 1′ E deslindando con Don",
+    "Lorenzo Tiseira y Don Francisco Maldonado se midieron",
+    "hasta C once mil siete cientos cinco mt. y en su trayecto",
+    "á las diez y siete mt. pasé el mojon esquinero Nord Oeste",
+    "del campo que se mide y Lorenzo Tiseira, á los tres cien-",
+    "tos ochenta mt. cruce el alambrado de Cunningham. Des-",
+    "de el esquinero al alambrado dos metros en el campo",
+    "lindero, á mil ciento sesenta y nueve mt. pase un mo-",
+    "jon de ñandubay, á dos mil tres cientos sesenta y cinco",
+    "mt. cruce el Camino de Giles á Zarate, á dos [mil] cuatro",
+    "cientos diez y siete mt. ochenta cent.^{s} cruce el alambrado"
+   ],
+   "interpretacion": "Comienzo de la diligencia. El juez de 1.ª instancia en lo civil, Dr. José María Rosa, comisiona al agrimensor el 25/10/[1878]; citados los linderos, la operación empieza el 13 de noviembre en el mojón de fierro A que Meyrelles puso en lugar del esquinero de ñandubay al medir el campo de Lorenzo Torres (Ficha 044). La línea del frente (A-B, N 42° 59′ E) cruza a los 234,30 m la vía férrea de Luján a Pergamino y dos veces el alambrado de «La Paloma»; a los 775 m, para esquivar la estancia, se corre 275 [?] m al NO y sigue 524 m hasta B. La línea B-C (S 47° 1′ E) contra Tiseira y Maldonado empieza: mojón esquinero NO a 17 m, alambrado de Cunningham, mojón de ñandubay, camino de Giles a Zárate."
+  },
+  {
+   "titulo": "Folio 2 vuelto: línea B-C (mojones de Eguía, caminos, puestos)",
+   "img": "img/f/088/10.jpg",
+   "fuente": "IMG_3555.JPG (mitad izq.)",
+   "nota": "",
+   "lineas": [
+    "de la pulperia de Magadan, á los dos mil cuatro cientos se-",
+    "tenta y ocho mt. lo volví á cruzar, á dos mil quinientos",
+    "noventa y ocho mt. pase un mojon de ñandubay, á los",
+    "dos mil nueve cientos ochenta y dos mt. encontré un mo-",
+    "jon de ñandubay puesto por el Agrimensor Eguia en",
+    "el año 1854 cuando hizo la mensura de este mismo",
+    "campo, á tres mil ocho cientos noventa y siete mt.",
+    "pase otro mojon de ñandubay á los cuatro mil dos",
+    "cientos mt. levanté una ordenada al puesto de los Sauces [?]",
+    "dejandolo cuarenta mt. á la derecha, á los cinco mil cien-",
+    "to [?] noventa y seis mt. pase un mojon de ñandubay",
+    "á cinco mil quinientos noventa y tres mt. encontré",
+    "un mojon de ñandubay puesto en la linea por",
+    "el Agrimensor Eguia en la mensura que practi-",
+    "có del Campo que se mide el año 1854 á los seis",
+    "mil ciento dos mt. crucé la Cañada que desagua",
+    "en el arroyo del Sauce, á los seis mil dos cientos sesen-",
+    "ta y ocho mt. crucé el alambrado de Arnulfo [?] Tiseira",
+    "~~[...]~~ dejandole la esquina de la quinta diez y siete mt.",
+    "dentro del Campo que se mide; á los seis mil tres cien-",
+    "tos noventa y seis volví á cruzarlo; á los seis mil cua-",
+    "tro cientos noventa y nueve mt. pase un mojon de",
+    "ñandubay, á los siete mil nueve mt. estuve [?] al",
+    "mojon de fierro esquinero de Tiseira y Doña Bene-",
+    "dicta F. de Alvarez y costanero de Don Francisco",
+    "Maldonado, á siete mil tres cientos cuarenta y seis mt.",
+    "levanté ordenada á un puesto de Cunningham (El",
+    "Basco) dejandolo á la derecha de la linea ciento vein-",
+    "te y un metro, á los siete mil siete cientos noventa y",
+    "cuatro mt. pase un mojon de ñandubay, á los o-",
+    "cho mil dos cientos cuarenta y nueve mt. crucé el",
+    "Camino de Giles á la Capilla del Señor, á los nueve",
+    "mil noventa y tres mt. pase un mojon de ñandubay",
+    "á nueve mil dos cientos ochenta y ocho mt. crucé",
+    "el Camino de San Antonio de Areco á Lujan;",
+    "á diez mil tres cientos noventa y dos mt. pase mo-",
+    "jon de ñandubay, á diez mil nueve cientos cuatro",
+    "mt. encontré un mojon de piedra sobre la linea",
+    "costanero del Campo que se mide y Don Francis-",
+    "co Maldonado á los once mil seis cientos ochenta y ocho",
+    "mt. se colocó el mojon esquinero de ñandubay entre"
+   ],
+   "interpretacion": "La línea B-C sigue 11 km tierra adentro y va encontrando todo lo que dejaron las mensuras anteriores: la pulpería de Magadán, mojones de ñandubay, DOS mojones de ñandubay de EGUÍA de 1854 (la mensura de Riestra, Ficha 006), un puesto «de los Sauces» [?], la cañada que desagua en el Sauce, la quinta alambrada de Arnulfo [?] Tiseira (17 m dentro del campo medido), el mojón de fierro esquinero de Tiseira y Benedicta F. de Álvarez (Ficha 043), el puesto «El Basco» de Cunningham, el camino de Giles a la Capilla del Señor, el de San Antonio de Areco a Luján y un mojón de piedra costanero con Maldonado. A los 11.688 m se planta el esquinero C de ñandubay."
+  },
+  {
+   "titulo": "Folio 3: cierre de B-C y línea A-D (mojones de Meyrelles y de Eguía)",
+   "img": "img/f/088/11.jpg",
+   "fuente": "IMG_3555.JPG (mitad der.)",
+   "nota": "",
+   "lineas": [
+    "[al margen, sello y foliatura:] 3",
+    "el Campo que se mide y el de Don Francisco Mal-",
+    "donado, á los once mil siete cientos cinco mt. lle-",
+    "gué al Arroyo del Sauce, este mojon esquinero",
+    "se colocó á diez y siete metros del Arroyo.",
+    "Linea AD. Volví al punto A de arranque y con",
+    "el rumbo al S 47° 1′ E deslindando con Don Lorenzo Torres,",
+    "Don Tomas M^{c} Dermott y Don Lorenzo Torres se midie-",
+    "ron hasta D diez mil ocho cientos veinte y seis mt. y en",
+    "su trayecto empezando desde el Arroyo á los treinta",
+    "mt. encontré un mojon de fierro puesto por el Agrimen-",
+    "sor Meyrelles, en remplazo del puesto por el Agrimen-",
+    "sor Eguia que se habia perdido, á los ocho cientos setenta",
+    "y tres mt. encontré otro mojon de ñandubay, que se me",
+    "dijo por antiguos vecinos ser puesto por el Agrimen-",
+    "sor Eguia en 1854; á mil dos cientos noventa y nueve",
+    "mt. pase un mojon de ñandubay, á mil nueve cien-",
+    "tos veinte y ocho mt. crucé el Camino de Giles á Zarate",
+    "á dos mil metros encontré un mojon puesto por el A-",
+    "grimensor Meyrelles, cuando practicó la mensura",
+    "del Campo de Don Lorenzo Torres, apartado de la linea",
+    "un metro á la derecha, á los dos mil setenta y cinco",
+    "mt. crucé la via ferrea al Pergamino, á los dos mil",
+    "nueve cientos diez y seis mt. encontré un mojon de",
+    "ñandubay sobre la linea puesto por el Agrimensor",
+    "Eguia el año 1854 levantando en este punto una orde-",
+    "nada á un puesto de Cunningham veinte mt. á la iz-",
+    "quierda; á los dos mil nueve cientos noventa y siete",
+    "metros encontré un mojon de ñandubay puesto",
+    "por el Agrimensor Meyrelles á la derecha un metro",
+    "sesenta, á tres mil ocho cientos ocho mt. encontré el mojon",
+    "de fierro esquinero de Torres y Mac Dermott, puesto por",
+    "el Agrimensor Meyrelles cuando hizo la mensura del",
+    "Campo de Torres, este mojon es costanero del Campo",
+    "que se mide y queda dos mt. veinte á la derecha de la linea",
+    "á tres mil ocho cientos noventa y siete mt. pase mojon",
+    "de ñandubay, á cinco mil ciento noventa y seis metros",
+    "pase mojon de ñandubay, dentro la quinta del puesto, á",
+    "los cinco mil quinientos diez y ocho mt. encontré un",
+    "mojon de ñandubay puesto sobre la linea por el A-",
+    "grimensor Eguia en 1854 á los seis mil ciento",
+    "veinte y un metro encontré un mojon de ñandubay"
+   ],
+   "interpretacion": "B-C llega al arroyo del Sauce a los 11.705 m (el esquinero queda a 17 m del agua). Vuelta a A: línea A-D (S 47° 1′ E) contra Lorenzo Torres, Tomás Mac Dermott y otra vez Torres. Junto al arroyo, el mojón de fierro de Meyrelles que reemplazó al de Eguía perdido; a 873 m otro de ñandubay que, «se me dijo por antiguos vecinos», puso Eguía en 1854. Siguen el camino de Giles a Zárate (1928 m), un mojón de Meyrelles corrido 1 m, la vía al Pergamino (2075 m), otro mojón de Eguía con un puesto de Cunningham, el esquinero de fierro de Torres y Mac Dermott (3808 m), un mojón dentro de la quinta del puesto y otro de Eguía de 1854 (5518 m)."
+  },
+  {
+   "titulo": "Folio 3 vuelto: cierre de A-D, frente al Sauce, superficie y circular",
+   "img": "img/f/088/12.jpg",
+   "fuente": "IMG_3556.JPG (mitad izq.)",
+   "nota": "",
+   "lineas": [
+    "esquinero de Don Tomas M^{c} Dermott y Don Lorenzo",
+    "Torres, á los seis mil cuatro cientos noventa y nueve",
+    "mt. pase mojon de ñandubay, á siete mil dos cientos",
+    "veinte y cinco [?] mt. crucé el Camino de Giles á la Capi-",
+    "lla del Señor á los ocho mil cientos veinte y cinco mt.",
+    "puse un mojon [de] ñandubay porque el que existia en",
+    "este punto se habia perdido, y levanté una ordenada de",
+    "doce mt. á la izquierda á un puesto de Cunningham",
+    "(Santiago Byrns [?]) á los nueve mil treinta [?] mt. encon-",
+    "tré un mojon de ñandubay puesto por el Agrimensor",
+    "Meyrelles [entre renglones: apartado de la linea á la derecha seis mt. veinte] costanero [?] de Don Ricardo [?] Torres",
+    "y Lorenzo [?], á los nueve mil cuatro cientos veinte",
+    "y cuatro mt. pase un mojon de ñandubay costane-",
+    "ro del que se mide y D.^{r} Lorenzo Torres, á los diez",
+    "mil siete cientos setenta y nueve mt. pase el mojon",
+    "esquinero del Campo que se mide, seguí midiendo",
+    "y á los diez mil ocho cientos veinte y seis mt. llegué",
+    "al Arroyo del Sauce.",
+    "Para hacer el relevamiento del frente al Arroyo del Sau-",
+    "ce me situé en D y con el rumbo de N 42° 59′ E medí",
+    "mil dos cientos noventa y nueve mt. hasta encontrar",
+    "el punto de interseccion en la linea BC medida ante-",
+    "riormente y en su trayecto, á los cuatro cientos",
+    "treinta y tres mt. treinta cent. levanté una orde-",
+    "nada hasta dar con el agua del arroyo, á los ocho",
+    "cientos sesenta y seis mt. levanté otra ordenada hasta",
+    "tocar con el agua del arroyo, la primera de estas",
+    "ordenadas es de ciento setenta y dos mt. y la segunda de",
+    "dos cientos cuarenta y cuatro mt. Con lo que quedó",
+    "terminada la operacion.—",
+    "Superficie.— El terreno medido marcado en el pla-",
+    "no con las letras A B C D se compone de una area",
+    "de catorce millones cuatro cientos cuarenta y ocho mil",
+    "tres cientos ochenta metros cuadrados equivalentes",
+    "á ocho cientas cincuenta y seis cuadras cuadradas",
+    "y dos cientos cincuenta y un milesimos de otra",
+    "(14.448.380 m.^{c} ó 856 c.^{c} 251 mils de otra).",
+    "Circular. Firmaron la circular de citacion todos",
+    "los linderos, habiendo asistido á la mensura Don",
+    "Lorenzo Tiseira, Don Tomas Mac Dermott y Don",
+    "Baltazar Rodriguez por Don Lorenzo Torres, manifes-"
+   ],
+   "interpretacion": "Fin de A-D: camino de Giles a la Capilla del Señor, un mojón NUEVO de ñandubay donde se había perdido el antiguo, un puesto de Cunningham (Santiago Byrns [?]), un mojón de Meyrelles corrido 6,20 m, el esquinero y el arroyo del Sauce a los 10.826 m. El frente del Sauce se releva con dos ordenadas desde la línea D-B′ (N 42° 59′ E, 1299 m). Superficie: 14.448.380 m² = 856,251 cuadras² (≈ 1444,8 ha). La circular la firmaron todos los linderos; asistieron Lorenzo Tiseira, Tomás Mac Dermott y Baltasar Rodríguez por Lorenzo Torres, que se declararon conformes."
+  },
+  {
+   "titulo": "Folio 4: rumbos, abalizamiento, firma, cargo y comienzo del informe del Departamento",
+   "img": "img/f/088/13.jpg",
+   "fuente": "IMG_3556.JPG (mitad der.)",
+   "nota": "",
+   "lineas": [
+    "[al margen, sello y foliatura:] 4",
+    "tando todos estar conformes.—",
+    "Todos los rumbos son verdaderos corrigiendo [?]",
+    "con la variacion de la aguja de once [?] grados veinte",
+    "y cinco minutos Este.",
+    "Abalizamiento. Mojon A. Estancia la Paloma",
+    "N 55° E [?]. Pulperia Magadan S 12° 53′ E. Lorenzo Tiseira N 33° 15′ E.",
+    "Mojon B. Lorenzo Tiseira S 71° 34′ E. Estancia la Paloma S 6° 17′ E.",
+    "Viuda de Figueroa N 10° 32′ O. Mojon C. Faustino Saavedra",
+    "S 15° 28′ E. Ormaechea S 2° 11′ O. Mauricio [?] Rodriguez S 32° 53′ O.",
+    "Mojon D. Enrique Rodriguez S 81° 1′ E. Ormaechea N 76° 49′ E.",
+    "Buenos Aires Diciembre de 1878",
+    "Pedro N. Diaz [rúbrica]",
+    "Agrimensor",
+    "Nota: Entre renglones = apartado de la linea á la derecha seis mt.",
+    "veinte cent.^{s} Vale.",
+    "Pedro N. Diaz [rúbrica]",
+    "[a lápiz, cruzado:] [ilegible]",
+    "Dic. 6/878.—",
+    "Presentada en la fecha.—",
+    "M. Pico [rúbrica]",
+    "Señor Juez de 1.^{a} Inst.^{a}",
+    "Antes de informar",
+    "el Departamento de Ingenieros",
+    "sobre la operacion facultativa",
+    "del agrimensor D.^{n} Pedro N.",
+    "Diaz, se ha de servir V. S. dar",
+    "[sigue en el folio siguiente]"
+   ],
+   "interpretacion": "Cierre técnico: rumbos verdaderos con la variación de la aguja de 11 [?]° 25′ E (el plano dice «Var. 11° 25′»). ABALIZAMIENTO: cada esquinero se ata por visuales a las casas vecinas (A: estancia La Paloma, pulpería de Magadán, Lorenzo Tiseira; B: Tiseira, La Paloma, viuda de Figueroa; C: Faustino Saavedra, Ormaechea, Mauricio [?] Rodríguez; D: Enrique Rodríguez, Ormaechea). Firma Pedro N. Díaz en Buenos Aires, diciembre de 1878; salva el entrerrenglonado. Cargo del Departamento de Ingenieros (6/12/1878, «M. Pico») y comienzo de su informe al juez."
+  },
+  {
+   "titulo": "Folio 4 vuelto: final del primer informe del Departamento de Ingenieros (24/1/1879)",
+   "img": "img/f/088/14.jpg",
+   "fuente": "IMG_3557.JPG",
+   "nota": "",
+   "lineas": [
+    "vista al lindero D.^{n} Lorenzo",
+    "M. Torres que ha protestado",
+    "la mensura y cuya protesta",
+    "se acompaña.—",
+    "Enero 24/879.—",
+    "Lavalle [rúbrica]",
+    "Encina [rúbrica]   Moreno [rúbrica]"
+   ],
+   "interpretacion": "El Departamento de Ingenieros no informa todavía: pide al juez que dé vista al lindero Lorenzo M. Torres, que protestó la mensura (la protesta va adjunta, no fotografiada). 24/1/1879. Firman Lavalle, Encina y Moreno: la misma comisión de 1876 (Ficha 072) sin Kuhr."
+  },
+  {
+   "titulo": "Oficio del juzgado al Departamento de Ingenieros (7/10/1879)",
+   "img": "img/f/088/15.jpg",
+   "fuente": "IMG_3562.JPG",
+   "nota": "",
+   "lineas": [
+    "[papel sellado: 524660 · Dirección General de Rentas de la Provincia de Buenos Aires · 6 · 1879 · Seis pesos]",
+    "9.146.174.—",
+    "[margen izq.:] [Bartolomé] Martin [?]",
+    "Cop.^{a} [?]",
+    "Buenos Ayres, Octubre 7 de 1879.   [sello: Foja 6]",
+    "Al Señor Presidente del Depar-",
+    "tamento de Ingenieros.",
+    "Comunico á Vd. que la mensura",
+    "practicada por el Agrimensor Don",
+    "Pedro N. Diaz, en Diciembre de 1878,",
+    "de un terreno de propiedad de",
+    "Don Juan Cunningham, situado",
+    "en el Partido de San Andres de",
+    "Giles, ha sido aprobada por el",
+    "auto del tenor siguiente = Bue-",
+    "nos Ayres, Agosto 22 de 1879 = Au-",
+    "tos y vistos: de conformidad de",
+    "partes, Departamento de Inge-",
+    "nieros y Agente Fiscal, se aprue-",
+    "ba en cuanto ha lugar por de-",
+    "recho la mensura practicada",
+    "por el Agrimensor Diaz, del campo"
+   ],
+   "interpretacion": "Oficio del juez José María Rosa al presidente del Departamento de Ingenieros (7/10/1879, papel sellado de 6 pesos de 1879): la mensura de Pedro N. Díaz fue aprobada por auto del 22/8/1879, «de conformidad de partes, Departamento de Ingenieros y Agente Fiscal», «en cuanto ha lugar por derecho». La protesta de Torres, entonces, se resolvió antes del auto."
+  },
+  {
+   "titulo": "Oficio (vuelto): final del auto aprobatorio y «Agréguese» (14/11/1879)",
+   "img": "img/f/088/16.jpg",
+   "fuente": "IMG_3563.JPG",
+   "nota": "",
+   "lineas": [
+    "situado en el Partido de San Andres",
+    "de Giles, de propiedad de Don",
+    "Juan Cunningham, cuya dili-",
+    "gencia con el plano respectivo,",
+    "corre de f. 34 á f. 38.— En su vir-",
+    "tud, dése testimonio si se soli-",
+    "citare, comuníquese por oficio",
+    "al Departamento de Ingenieros",
+    "y satisfechas las costas, archíve-",
+    "se el espediente = José Maria",
+    "Rosa = Ante mí = Bartolomé",
+    "Martin",
+    "Dios guarde á Vd.",
+    "José Maria Rosa [rúbrica]",
+    "Noviembre 14 de 1879.—",
+    "Agréguese al duplicado correspon-",
+    "diente.   Lavalle [rúbrica]"
+   ],
+   "interpretacion": "Final del auto: la diligencia y el plano corren de f. 34 a f. 38 del expediente; se da testimonio, se comunica al Departamento y, pagadas las costas, se archiva. Ante el secretario Bartolomé Martín. El 14/11/1879 Lavalle ordena agregar el oficio «al duplicado correspondiente»: así llega este papel al Dup. 88."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la mensura de Juan Cunningham (Pedro N. Díaz, 1878)",
+   "img": "img/f/088/03.jpg",
+   "fuente": "IMG_3558.JPG",
+   "orientacion": "Plano en papel, marco de doble filete con ángulos redondeados; faja muy larga horizontal con el arroyo de Giles a la izquierda (O) y el del Sauce a la derecha (E); flecha del norte hacia arriba a la izquierda, con «Var. 11° 25′».",
+   "interpretacion": "Vista general: la faja A-B-C-D de 11 km entre los dos arroyos, con Lorenzo Tiseira y Francisco Maldonado al N y L. Torres, Mac Dermott y L. Torres al S; la cruza en diagonal el ferrocarril de Luján al Pergamino.",
+   "referencias": [
+    [
+     "A",
+     "Mojón de fierro de Meyrelles sobre el arroyo de Giles (arranque); esquinero con L. Torres"
+    ],
+    [
+     "A-B",
+     "N 42° 59′ E, quebrada para salvar la estancia La Paloma (775 + 275 [?] + 524 m)"
+    ],
+    [
+     "B-C",
+     "S 47° 1′ E · 11.705 m · contra Lorenzo Tiseira y Francisco Maldonado"
+    ],
+    [
+     "A-D",
+     "S 47° 1′ E · 10.826 m · contra L. Torres, Mac Dermott y L. Torres"
+    ],
+    [
+     "D-C",
+     "Arroyo del Sauce; base N 42° 59′ E 1299 m con ordenadas de 172 y 244 m"
+    ],
+    [
+     "mñ / m. piedra",
+     "Mojones de ñandubay (de Eguía 1854, de Meyrelles 1867 y nuevos) y uno de piedra, con progresivas"
+    ],
+    [
+     "Edificios",
+     "Estancia La Paloma (arboleda), pulpería de Magadán, puesto «Sauces», puesto del Basco, puesto «Cheyra» [?], S. Byrns, V.º Gómez, P. Ronan, quinta de Arnulfo Tiseira; enfrente E. Rodríguez y A. Ormaechea"
+    ],
+    [
+     "Caminos",
+     "De Giles a Zárate · de Giles a la Capilla del Señor · de San Antonio de Areco a Luján"
+    ],
+    [
+     "Ferrocarril",
+     "«Ferro-carril de Luján al Pergamino», cruza A-B a 234 m y A-D a 2075 m"
+    ],
+    [
+     "Aguas",
+     "Arroyo de Giles · cañada que desagua en el Sauce · arroyo del Sauce"
+    ],
+    [
+     "Escala",
+     "De metros, 0-5000"
+    ]
+   ]
+  },
+  {
+   "titulo": "Tramo O: arroyo de Giles, La Paloma, pulpería de Magadán y el ferrocarril",
+   "img": "img/f/088/04.jpg",
+   "fuente": "IMG_3559.JPG",
+   "orientacion": "",
+   "interpretacion": "Extremo O con el arroyo de Giles: el mojón A, la línea del frente quebrada alrededor de la estancia La Paloma (arboleda negra), la casa de Lorenzo Tiseira junto a B, la pulpería de Magadán sobre B-C, el camino de Giles a Zárate y el «Carril de Luján al Pergamino» cruzando en diagonal.",
+   "referencias": []
+  },
+  {
+   "titulo": "Tramo central: la cañada del Sauce y los puestos",
+   "img": "img/f/088/05.jpg",
+   "fuente": "IMG_3560.JPG",
+   "orientacion": "",
+   "interpretacion": "Centro de la faja: la cañada que desagua en el Sauce, la quinta de Arnulfo Tiseira, el puesto «Sauces», el puesto del Basco, los puestos sobre A-D y el camino de Giles a la Capilla del Señor; Mac Dermott al S.",
+   "referencias": []
+  },
+  {
+   "titulo": "Tramo E: arroyo del Sauce, Maldonado y Ormaechea",
+   "img": "img/f/088/06.jpg",
+   "fuente": "IMG_3561.JPG",
+   "orientacion": "",
+   "interpretacion": "Extremo E: el arroyo del Sauce con las ordenadas de 172 y 244 m, el camino de San Antonio de Areco a Luján, el mojón de piedra de 10.904 m, el puesto de S. Byrns y el monte de V.º Gómez; enfrente A. Ormaechea y E. Rodríguez.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "El campo de riestra, veinticuatro años después",
+   "texto": "Es el campo que Eguía midió en 1854 para Álvaro de la Riestra (Ficha 006): 1500 v sobre el arroyo de Giles por dos leguas y 164 v hasta el Sauce. La cadena de títulos queda completa: Toribio Fernández y Carmen Figueroa → Pedro Antonio Rodríguez (1839) → Álvaro de la Riestra (1840) → sus hijos → Hermenegildo (1864) → sus hermanos → Juan Cunningham (1865). En 1867 Meyrelles ya lo dibujaba como «Juan Cunningham, campo de la Paloma» (Ficha 043). Ángela Riestra «de Newton» [?] podría vincular a los Riestra con la familia británica de los Newton (verificar)."
+  },
+  {
+   "titulo": "Los mojones de tres agrimensores",
+   "texto": "Díaz encuentra y registra uno por uno los mojones de ñandubay de Eguía (1854), los de fierro y ñandubay de Meyrelles (1867, Fichas 043-044) y pone otros nuevos donde se perdieron. Uno lo identifica por la palabra de «antiguos vecinos». Anota además cuánto se apartan de la línea (1 m, 1,60 m, 2,20 m, 6,20 m): da para medir en GIS la deriva de las líneas entre 1854, 1867 y 1878."
+  },
+  {
+   "titulo": "Un paisaje alambrado y atravesado",
+   "texto": "Es la primera mensura del corpus en que los alambrados se cuentan como hitos de la línea: el de La Paloma, el de Cunningham (a 2 m del esquinero) y la quinta de Arnulfo Tiseira. La faja la cruzan el ferrocarril de Luján al Pergamino (el ramal de 087) y tres caminos: de Giles a Zárate, a la Capilla del Señor y de San Antonio de Areco a Luján. Hay puestos con nombre: «Sauces», «El Basco» y los de Byrns y «Cheyra» [?], que hablan de un trabajo dividido entre puesteros, probablemente vascos e irlandeses. Los cruces del ferrocarril (234 m sobre A-B, 2075 m sobre A-D) son anclas GIS que se pueden comprobar con la vía actual."
+  },
+  {
+   "titulo": "Abalizamiento y declinación",
+   "texto": "Los cuatro esquineros quedan atados por visuales a casas vecinas: la estancia La Paloma, la pulpería de Magadán (la misma de Meyrelles, 044), Tiseira, la viuda de Figueroa, Faustino Saavedra, Ormaechea y los Rodríguez. Es el ritual que ya se vio con Pico (072). La variación de 11° 25′ E es casi igual a la de Muñiz en 1878 (11° 28′, Ficha 086)."
+  },
+  {
+   "titulo": "Trámite: protesta y aprobación",
+   "texto": "Lorenzo M. Torres protestó (la protesta no está fotografiada). El Departamento de Ingenieros (Lavalle, Encina, Moreno) le dio vista antes de informar (24/1/1879), y el juez Rosa aprobó la mensura el 22/8/1879 «de conformidad de partes» y del Agente Fiscal: la protesta se resolvió por acuerdo. Llama la atención que un campo con títulos desde 1839 y medido en 1854 recién se remida en 1878-79. Lo probable es que tenga que ver con el ferrocarril y con el alambrado de los linderos."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Qué reclamaba Lorenzo M. Torres? ¿Es el Dr. Lorenzo Torres de 044 o un hijo? ¿Quién es Tomás Mac Dermott y cuándo compró parte de Santa Elena? ¿La lectura «de Newton» es segura? ¿Cuánto mide exactamente el desvío alrededor de La Paloma (275 [?] m)? Faltan la circular original y la protesta."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Juan Cunningham",
+   "rol": "Propietario",
+   "texto": "Compra la estancia de los Riestra en 1865; en 1867 ya figura como lindero en el plano de Meyrelles («campo de la Paloma», Ficha 043). Tiene varios puestos y alambra su campo antes de 1878. Por el apellido, probablemente escocés o irlandés, del grupo británico que compra tierras en Giles en las décadas de 1850 y 1860 (Morgan, Mooney, Wheeler, Duggan, Scully). Una búsqueda web breve no dio datos.",
+   "fuentes": "Dup. 88; Fichas 006, 043, 044."
+  },
+  {
+   "nombre": "Pedro N. Díaz",
+   "rol": "Agrimensor",
+   "texto": "Primera mensura suya en el corpus. Firma «Pedro N. Díaz, Agrimensor» en Buenos Aires, dic. de 1878. Trabaja con mucho cuidado documental: registra cada mojón anterior y quién lo puso. Una búsqueda web breve no dio datos biográficos.",
+   "fuentes": "Dup. 88."
+  },
+  {
+   "nombre": "Álvaro de la Riestra · María Teresa Martínez · Hermenegildo, Eustaquio, Norberto, Augusto y Ángela de la Riestra (de Newton [?])",
+   "rol": "Propietarios anteriores",
+   "texto": "Álvaro de la Riestra compra en 1840 y se hace medir en 1854 (Eguía, Ficha 006). Norberto de la Riestra (1820-1879) fue un conocido financista y ministro de Hacienda de Buenos Aires; habría que verificar si es el mismo de esta familia. Hermenegildo muere soltero y sin testamento antes de 1865.",
+   "fuentes": "Dup. 88; Ficha 006."
+  },
+  {
+   "nombre": "Pedro Antonio Rodríguez · Toribio Fernández y Carmen Figueroa",
+   "rol": "Cadena de títulos",
+   "texto": "Carmen Figueroa, de la familia de los Figueroa de la Posta (010), vende con su esposo en 1839; Rodríguez revende a Riestra al año siguiente.",
+   "fuentes": "Dup. 88."
+  },
+  {
+   "nombre": "Dr. Lorenzo Torres · Lorenzo M. Torres · Baltasar Rodríguez",
+   "rol": "Lindero so; protesta",
+   "texto": "Torres es el dueño de Santa Elena (044). Lorenzo M. Torres protesta la mensura; Baltasar Rodríguez asiste en su nombre.",
+   "fuentes": "Fichas 023, 044, 087."
+  },
+  {
+   "nombre": "Lorenzo Tiseira · Arnulfo [?] Tiseira · Francisco Maldonado · Benedicta F. de Álvarez · Tomás Mac Dermott · Antonio Ormaechea",
+   "rol": "Linderos",
+   "texto": "Tiseira tiene 500 v (043), con su casa junto al esquinero B; Arnulfo tiene una quinta alambrada sobre la línea. Maldonado: Ficha 009. Benedicta Figueroa de Álvarez: 043. Ormaechea: 036. Mac Dermott es nuevo en el corpus.",
+   "fuentes": "Fichas 009, 036, 043."
+  },
+  {
+   "nombre": "Magadán · Faustino Saavedra · Mauricio [?] y Enrique Rodríguez · viuda de Figueroa · S. Byrns · V.º Gómez · P. Ronan",
+   "rol": "Vecinos y puesteros",
+   "texto": "Son las casas que sirven de visual o los puestos del campo. La pulpería de Magadán ya figura en 044.",
+   "fuentes": "Dup. 88; Ficha 044."
+  },
+  {
+   "nombre": "Dr. José María Rosa · Bartolomé Martín",
+   "rol": "Juez civil · secretario",
+   "texto": "El juez de 1.ª instancia en lo civil que comisiona y aprueba. Probablemente sea el jurista José María Rosa, después ministro de Hacienda de la Nación (no verificado: la búsqueda web dio sólo al historiador homónimo del siglo XX).",
+   "fuentes": "Dup. 88."
+  },
+  {
+   "nombre": "Lavalle · Encina · Moreno · M. Pico",
+   "rol": "Departamento de ingenieros",
+   "texto": "Es la comisión que revisa las mensuras desde 1876 (072). M. Pico firma los cargos (085, 087).",
+   "fuentes": "Fichas 067, 070, 072, 085, 087."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/088/02.jpg",
+  "fuente": "IMG_3552.JPG",
+  "lineas": [
+   "Giles.",
+   "88.",
+   "Duplicado de la mensura",
+   "para Don Juan Cunningham en",
+   "el partido de San Andres de Giles",
+   "1878"
+  ]
+ },
+ "titulo": "Juan Cunningham",
+ "estado": "Transcripta (10 hojas, 313 renglones), 4 láminas"
+}

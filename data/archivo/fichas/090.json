@@ -1,0 +1,211 @@
+{
+ "carpeta": "90",
+ "carpeta_nombre": "Carpeta 90",
+ "archivo": "Ficha 090 - Juan O'Brien (1879).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (NE, al fondo de las suertes de la Cañada de la Cruz)",
+  "N.º de duplicado": "90 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Juan O'Brien",
+  "Agrimensor": "Juan Girondo",
+  "Año": "1879",
+  "Fecha de la diligencia": "Plano «Buenos Aires, [...] de 1879» [?]",
+  "Ubicación": "Campo O'Brien entre Scully (069), Lennon y Tormy (081), al O de la Cruz",
+  "Orden judicial": "No fotografiada",
+  "Vendedor / antecesor": "Herederos de Juan O'Brien (027, 1860)",
+  "Linderos citados": "Eduardo Lennon · Santiago Scully · Gerónimo Tormy (ex Lagos y Cañas)",
+  "Medidas": "2599 × 4681,7 m (3000 × 5406 v) · ≈ 1216,8 ha · cinco fajas",
+  "Rumbos": "N 47° 15′ O / S 42° 48′ O",
+  "Referencia de archivo": "Duplicado 90"
+ },
+ "metricas": {
+  "superficie_ha": "1216,8",
+  "hitos": "Estancia, puestos de Nola, Lennon y Rocca, caminos",
+  "aguas": "Cañada de la Cruz · Laguna de Barbosa"
+ },
+ "sintesis": "Duplicado del que se fotografiaron la carátula y el plano. En 1879 Juan Girondo divide el campo O'Brien: un rectángulo de 2599 m (3000 v) por 4681,7 m, ≈ 1217 ha, entre Eduardo Lennon (N), Santiago Scully (O) y Gerónimo Tormy (E). Hay cinco fajas: la mitad central para Eugenia R. de O'Brien y un octavo para cada uno de Basilisa, Ignacia, Ana y Juan, el reparto entre viuda e hijos. Para ubicarlo, Girondo prolonga hasta la Cañada de la Cruz las suertes primitivas de Mercedes y Juana Rosa Lagos y de Julián Cañas, hoy de Tormy. Lo cruzan los caminos de Giles a Zárate y del Pilar a San Antonio de Areco. Continúa la herencia de 027 (1860).",
+ "caratula": {
+  "img": "img/f/090/01.jpg",
+  "fuente": "IMG_7441.JPG",
+  "campos": [
+   [
+    "N.º",
+    "90"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Juan O'Brien"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Juan Girondo"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1879"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Girondo",
+   "img": "img/f/090/03.jpg",
+   "fuente": "IMG_7442 a IMG_7444",
+   "nota": "Sólo hay carátula y plano (vista general 7442 y dos detalles). Varias cifras están al revés. Las progresivas se cuentan desde D (lado O) y desde B (lado E); entre corchetes, lecturas o cálculos propios.",
+   "lineas": [
+    "[letras huecas gigantes:] O'BRIEN",
+    "BASILISA   ·   IGNACIA   ·   EUGENIA R. DE [O'BRIEN]   ·   ANA   ·   JUAN",
+    "[al N:] Eduardo Lennon   ·   P.^{o} de Lennon   ·   P.^{o} de Rocca",
+    "[D-C:] N. 47° 15′ O. 2599   ·   [E-B:] S. 47° 12′ E = 2599",
+    "[D-E, al O, contra Santiago Schully:] S. 42° 48′ O. = 4681,7",
+    "[C-B, al E:] N. 42° 48′ E. = BC",
+    "[progresivas lado O:] X 58[5] · Y 1169,57 · Z 3510,8 [?] · W 4096,3 [?] · E 4681,7",
+    "[progresivas lado E, desde B:] S 585,56 · T 1170,12 · A 3518 [?] · V 4097 [?]",
+    "Estancia [en la faja de Eugenia]   ·   P.^{o} de Nola   ·   P.^{o} [en Ignacia, Ana y Juan]",
+    "Camino de Giles á Zarate   ·   Camino del Pilar á San Antonio   ·   [ramal:] Areco",
+    "[a lápiz:] 152 h [...] [en Ana y Juan]   ·   60[8] [?] [en Eugenia]   ·   1216^{h} 07^{a} 27 [?] [al pie]",
+    "[al E:] Geronimo Tormy",
+    "ONCP. Suerte que fué de Doña Mercedes y Juana Rosa Lagos   ·   AR = 7774,55 · cd = 7834,702 · ce = 7927,364",
+    "MBNO. Suerte que fué de Don Julian Cañas   ·   Nm = 7834,702 · bK = 7834,702 · BM = 7878,87 · [?] = 7658,5",
+    "fl = 7768,06 [línea de Lennon]   ·   UB [?] = 3149,4 [?]   ·   A′ · n · F · G · P · i · R · e · d · O · m · k · a · M",
+    "Cañada de la Cruz [con ordenadas a la costa: 242,5 · 930,9 · 1629,9 · 423 · 1645,4 · 2763 ...]   ·   Lag.^{a} de Barbosa",
+    "Metros [escala 0-5000]   ·   Buenos Aires [...] de 1879 [?]   Juan Girondo [rúbrica]"
+   ],
+   "interpretacion": "El plano reconstruye el campo de los O'Brien: un rectángulo de 2599 m (3000 v) por 4681,7 m (≈ 5406 v), ≈ 1217 ha, entre Eduardo Lennon (N), Santiago Scully (O) y Gerónimo Tormy (E). Está partido en cinco fajas transversales: cuatro de ≈ 585 m (≈ 152 ha cada una), para Basilisa, Ignacia, Ana y Juan, y una central de ≈ 2341 m (≈ 608 ha, la mitad exacta) para Eugenia R. de O'Brien. Es el reparto clásico entre la viuda (gananciales) y los hijos. Para ubicar el campo, Girondo prolonga hasta la Cañada de la Cruz las líneas de las «suertes primitivas» que hoy son de Tormy: la de Mercedes y Juana Rosa Lagos y la de Julián Cañas, con largos de 7658 a 7927 m. Así ata el fondo de O'Brien al frente de las suertes sobre la cañada. Lo cruzan el camino de Giles a Zárate y el del Pilar a San Antonio de Areco."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la división del campo de O'Brien (Girondo, 1879)",
+   "img": "img/f/090/02.jpg",
+   "fuente": "IMG_7442.JPG",
+   "orientacion": "Plano en papel, marco de doble filete con ángulos redondeados; Cañada de la Cruz a la derecha (E); flecha del norte en diagonal (hacia arriba a la izquierda).",
+   "interpretacion": "Vista general: el bloque O'Brien a la izquierda, con sus cinco fajas, y a la derecha el campo de Tormy cruzado por las líneas de las suertes de Lagos y de Cañas hasta la Cañada de la Cruz.",
+   "referencias": [
+    [
+     "D-C",
+     "N 47° 15′ O · 2599 m · contra Eduardo Lennon"
+    ],
+    [
+     "D-E",
+     "S 42° 48′ O · 4681,7 m · contra Santiago Scully"
+    ],
+    [
+     "E-B",
+     "S 47° 12′ E · 2599 m"
+    ],
+    [
+     "C-B",
+     "N 42° 48′ E · contra Gerónimo Tormy"
+    ],
+    [
+     "Fajas (N→S)",
+     "Basilisa ≈ 585 m · Ignacia ≈ 585 · Eugenia R. de O'Brien ≈ 2341 · Ana 585,56 · Juan 585,56"
+    ],
+    [
+     "ONCP",
+     "Suerte que fue de Mercedes y Juana Rosa Lagos (hoy Tormy)"
+    ],
+    [
+     "MBNO",
+     "Suerte que fue de Julián Cañas (hoy Tormy)"
+    ],
+    [
+     "Costa",
+     "Cañada de la Cruz con ordenadas; Laguna de Barbosa junto a G"
+    ],
+    [
+     "Edificios",
+     "Estancia (faja Eugenia); puestos de Nola, de Lennon, de Rocca y otros"
+    ],
+    [
+     "Caminos",
+     "De Giles a Zárate · del Pilar a San Antonio [de Areco] · ramal «Areco»"
+    ],
+    [
+     "Firma",
+     "Buenos Aires, [...] de 1879 [?] · Juan Girondo"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle O: las cinco fajas de los O'Brien",
+   "img": "img/f/090/03.jpg",
+   "fuente": "IMG_7443.JPG",
+   "orientacion": "",
+   "interpretacion": "Las fajas Basilisa, Ignacia, Eugenia R. de [O'Brien], Ana y Juan con sus progresivas, la estancia, los puestos y los dos caminos. Al O Santiago Scully; al N Eduardo Lennon.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle E: la Cañada de la Cruz y las suertes primitivas",
+   "img": "img/f/090/04.jpg",
+   "fuente": "IMG_7444.JPG",
+   "orientacion": "",
+   "interpretacion": "Las líneas ONCP (Lagos) y MBNO (Cañas) llegan a la costa de la Cañada de la Cruz con sus ordenadas a la barranca; la Laguna de Barbosa al N.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "La herencia o'brien, diecinueve años después",
+   "texto": "En 1860 Pico midió y dividió los campos de los herederos de Juan O'Brien en las cabezadas de la Cañada de la Cruz (027). En 1879 el campo de «Juan O'Brien» se reparte entre Eugenia R. de O'Brien, que recibe la mitad, y Basilisa, Ignacia, Ana y Juan, que reciben un octavo cada uno. Lo más probable es que el causante sea Juan O'Brien hijo (027), con su viuda y sus cuatro hijos. Es la misma familia que protestó en 1875 contra la cuña de Scully (069)."
+  },
+  {
+   "titulo": "Reconstrucción por suertes primitivas",
+   "texto": "Igual que el Departamento de Ingenieros en 067, Girondo ubica el campo reconstruyendo las suertes antiguas sobre la Cañada de la Cruz (Lagos y Cañas, hoy de Tormy), con largos de ≈ 7,8 km desde la costa. Para el GIS, el plano da la costa de la cañada con ordenadas y la serie de puntos A-R-M. Así el bloque O'Brien queda unido con el campo Tormy (079-081) y con los de Scully (069-072)."
+  },
+  {
+   "titulo": "Geometría",
+   "texto": "Rumbos N 47° 15′ O / N 42° 48′ E (los mismos de Tormy en 080, N 47° 22′ O). El frente de 2599 m es exactamente 3000 v. El lado de 4681,7 m equivale a ≈ 5406 v. Superficie: 1216,8 ha (lápiz «1216 h 07 a 27» [?])."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Quiénes son exactamente Eugenia R. de O'Brien y los cuatro hijos? ¿Cuál es la fecha exacta de la firma? ¿A qué corresponde «UB = 3149,4»? Hay que buscar el texto de la diligencia y los títulos de Lagos y Cañas, de la cadena de las Higueras de Santa Ana (026)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Juan O'Brien · Eugenia R. de O'Brien · Basilisa, Ignacia, Ana y Juan O'Brien",
+   "rol": "Propietarios",
+   "texto": "Familia irlandesa establecida sobre la Cañada de la Cruz antes de 1860 (027). En 1879 el campo se divide entre la viuda y cuatro hijos. Una búsqueda web breve no dio datos.",
+   "fuentes": "Dup. 90; Fichas 027, 069, 080, 081."
+  },
+  {
+   "nombre": "Juan Girondo",
+   "rol": "Agrimensor",
+   "texto": "Es la primera mensura suya en el corpus; firma en Buenos Aires en 1879. Podría ser el Juan Girondo padre del poeta Oliverio Girondo (n. 1891), pero no está verificado. Una búsqueda web breve no lo identificó como agrimensor.",
+   "fuentes": "Dup. 90."
+  },
+  {
+   "nombre": "Eduardo Lennon · Santiago Scully · Gerónimo Tormy · Mercedes y Juana Rosa Lagos · Julián Cañas · Nola · Rocca",
+   "rol": "Linderos y antiguos dueños",
+   "texto": "Lennon: 069, 081. Scully: 069, 071, 072. Tormy: 079-081. Lagos y Cañas son dueños primitivos de suertes sobre la Cañada de la Cruz. Nola y Rocca tienen puestos, probablemente de italianos o arrendatarios.",
+   "fuentes": "Fichas 069-072, 079-081."
+  }
+ ],
+ "titulo": "Juan O'Brien",
+ "estado": "Transcripta (1 hojas, 17 renglones), 3 láminas"
+}
