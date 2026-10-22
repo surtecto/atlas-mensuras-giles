@@ -1,0 +1,772 @@
+{
+ "carpeta": "91",
+ "carpeta_nombre": "Carpeta 91",
+ "archivo": "Ficha 091 - José Piquetto (1879).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (margen E del arroyo de Giles, a ambos lados del pueblo)",
+  "N.º de duplicado": "91 (portadilla «Partido de Giles 91»; lápiz «Véase D.do 17»)",
+  "Propietario / solicitante": "José Piquetto",
+  "Agrimensor": "José María Muñiz",
+  "Año": "1878-1879",
+  "Fecha de la diligencia": "29/6/1878; informe D. I. 8/4/1879; aprobada 25/4/1879",
+  "Ubicación": "Dos fracciones ex Pividal sobre el arroyo de Giles, separadas por Larrosa y el terreno del Santo",
+  "Orden judicial": "Juez civil Salustiano J. Zavalía (sec. Manuel A. Victorica)",
+  "Vendedor / antecesor": "Landívar (1869) y Belaústegui (1875) ← concurso de María Mouse [?] de Pividal",
+  "Linderos citados": "A. Veloz · J. Silva · F. y A. Díaz · Larrosa · Pueblo · F. Lescano · S. Cucullo",
+  "Medidas": "1.ª: 15.948.215 m² (≈ 1595 ha) · 2.ª: 3.196.995 m² (≈ 320 ha) · sobrante 65,34 ha",
+  "Rumbos": "S 46° 55′ E / S 43° 5′ O · var. 11° 5′ NE",
+  "Referencia de archivo": "Duplicado 91; en el expediente, fs. 11-20; escritura 3/12/1879"
+ },
+ "metricas": {
+  "superficie_ha": "1914,5",
+  "hitos": "Mojones cada 650 m; mojones de Saubidet; estancia; caminos; tres poblaciones",
+  "aguas": "Arroyo de Giles"
+ },
+ "sintesis": "Duplicado completo (extracto de títulos, diligencia, cierre, informe del Departamento, auto y plano). En junio de 1878 José M.ª Muñiz mide las dos fracciones que José Piquetto reunió entre 1869 y 1875 del concurso de la viuda de Rafael Pividal (017): una de 3000 v de frente al arroyo de Giles (15.948.215 m², ≈ 1595 ha) y otra de 800 v junto al terreno del Santo (3.196.995 m², ≈ 320 ha), separadas por la faja de Petrona Larrosa y la del Pueblo (060). Fondos contra los Díaz y los Lescano medidos por Saubidet. Resultan 65,34 ha de sobrante que Piquetto compra al Estado (escritura 3/12/1879). Aprobada por el juez Salustiano J. Zavalía el 25/4/1879.",
+ "caratula": {
+  "img": "img/f/091/01.jpg",
+  "fuente": "IMG_1935.JPG",
+  "campos": [
+   [
+    "N.º",
+    "91"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "José Piquetto"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "José M. Muñiz"
+   ],
+   [
+    "Mes",
+    "Abril"
+   ],
+   [
+    "Año",
+    "1879"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: Estracto de los títulos (1869, Landívar → Piquetto)",
+   "img": "img/f/091/07.jpg",
+   "fuente": "IMG_1937.JPG",
+   "nota": "",
+   "lineas": [
+    "[al margen, cruz a lápiz; sello y foliatura:] 1",
+    "Estracto de los títulos de propie-",
+    "dad de dos terrenos de don José Piquetto,",
+    "en el Partido de Giles—",
+    "En el documento de fojas 1 consta: que en",
+    "la ciudad de Buenos Aires á 16 de Abril",
+    "de 1869, y ante el Escribano Público Justo",
+    "Carballeda, D. Máximo Landivar le ven-",
+    "dió á D. José Piquetto la mitad de dos",
+    "terrenos de estancia, situados en el Parti-",
+    "do de San Andrés de Giles, que se compo-",
+    "nian asi:— La primera fraccion de",
+    "doscientas seis hectáreas seiscientas no-",
+    "venta y una áreas y sesenta centiáreas,",
+    "equivalente á veinte millones seiscientas",
+    "sesenta y nueve mil ciento sesenta varas",
+    "cuadradas, teniendo de frente tres mil",
+    "varas al Nor Oeste, siete mil quinientas",
+    "cuarenta y dos varas de fondo al Sud Este",
+    "y seis mil treinta y cuatro varas al",
+    "Sud Oeste, lindando por el frente con el",
+    "Arroyo de Giles, por el Norte con los",
+    "herederos de D. Marcelino Veloz y D. Ma-",
+    "nuel Silva, y por el Sud Oeste con D.",
+    "José Larrosa—"
+   ],
+   "interpretacion": "Extracto de títulos. El 16/4/1869, ante el escribano Justo Carballeda, Máximo Landívar vende a José Piquetto la MITAD de dos terrenos de estancia en Giles. La primera fracción: 206 ha 91 a 60 ca (20.669.160 v²), 3000 v de frente al NO sobre el arroyo de Giles, 7542 v de fondo al SE y 6034 v al SO; linderos: arroyo de Giles (frente), her. de Marcelino Veloz y Manuel Silva (N), José Larrosa (SO). Nota: las «206 ha» son en realidad 1550 ha (20.669.160 v² ≈ 15.500.000 m²): el escribiente copió mal la cifra en hectáreas."
+  },
+  {
+   "titulo": "Folio 1 vuelto: segunda fracción; venta de Belaústegui (1875)",
+   "img": "img/f/091/08.jpg",
+   "fuente": "IMG_1938.JPG",
+   "nota": "",
+   "lineas": [
+    "La segunda fraccion de treinta y nueve [?]",
+    "hectáreas, ochocientas ochenta áreas equi-   [al margen, a lápiz: 39^{h} 880^{a} equiva-",
+    "valente á tres mill^{nes} novecientos ochenta   lentes á 3988000 [v]]",
+    "y ocho mil varas, mas inmediata al",
+    "Pueblo de Giles, y teniendo por su frente",
+    "al Nor Oeste ochocientas varas que lin-",
+    "dan con el Arroyo de Giles, por el fondo",
+    "cuatro mil doscientas sesenta varas",
+    "que lindan con D. Francisco Lezcano,",
+    "por el Nord Este con el Ejido del Pue-",
+    "blo de Giles y por el Sud Oeste con D.^{a}",
+    "Natalia Arriaga— Hubo dichos terrenos",
+    "el vendedor Landivar por compra que",
+    "de ellos hizo al concurso de D. Maria",
+    "Mouse [?] de Pividal, quien los habia here-",
+    "dado de su esposo D. Rafael Pividal—",
+    "En Buenos Aires á 26 de Febrero",
+    "de 1875 D. Victor de Belaústegui ante el",
+    "Escribano D. Justo Carballeda, vende á",
+    "D. José Piquetto la mitad de dos frac-",
+    "ciones de campo que pertenecieron al",
+    "concurso de D.^{a} Maria Mouse [?] de Pivi-",
+    "dal en el Partido de Giles, cuya otra",
+    "mitad habia sido ya comprada por"
+   ],
+   "interpretacion": "La segunda fracción, «más inmediata al Pueblo de Giles»: 800 v de frente sobre el arroyo por 4260 v de fondo, 3.988.000 v² (el texto dice «treinta y nueve hectáreas ochocientas ochenta áreas», otro error: son ≈ 299 ha); linderos Francisco Lezcano (fondo), el EJIDO del pueblo (NE) y Natalia Arriaga (SO). Landívar las había comprado al CONCURSO de María Mouse [?] de Pividal, que las heredó de su esposo Rafael Pividal (Ficha 017). El 26/2/1875 Víctor de Belaústegui vende a Piquetto la otra mitad, que había comprado a Landívar el 19/3/1870: Piquetto reúne así las dos mitades."
+  },
+  {
+   "titulo": "Folio 2: fin del extracto (1870) y comienzo de la Mensura (29/6/1878)",
+   "img": "img/f/091/09.jpg",
+   "fuente": "IMG_1939.JPG",
+   "nota": "",
+   "lineas": [
+    "[sello y foliatura:] 2",
+    "Piquetto á D. Máximo Landivar— Hubo estos",
+    "terrenos el vendedor Belaústegui por com-",
+    "pra que hizo el 19 de Marzo de 1870 á D.",
+    "Máximo Landivar ante el mismo Escri-",
+    "bano Carballeda—",
+    "[al margen, cruz a lápiz]   Mensura—",
+    "En el Partido de Giles á 29 de Junio de 1878,",
+    "autorizado por el S.^{or} Juez de 1.^{a} Instancia",
+    "para medir las dos fracciones de campo",
+    "que posee D. José Piquetto en dicho Partido,",
+    "dí préviamente aviso á los linderos y en",
+    "seguida procedí asi:",
+    "Tomé por punto de arranque el mojon letra",
+    "A del plano esquinero Norte del terreno de",
+    "Piquetto y Oeste de D.^{a} Aniceta Veloz— Aba-",
+    "licé este mojon observando á la izquierda",
+    "de la línea AC las poblaciones siguientes:",
+    "de Pedro Vasquez ciento ocho grados cinco",
+    "minutos; de José Benitez ciento nueve gra-",
+    "dos veinte y cinco minutos; de Feliz",
+    "Romero noventa y cinco grados— Desde",
+    "el mismo mojon letra A, que dista no-",
+    "venta y tres metros del Arroyo de Giles",
+    "y para levantar el plano del mismo"
+   ],
+   "interpretacion": "Fin del extracto y comienzo de la MENSURA: en Giles, el 29/6/1878, Muñiz, autorizado por el juez de 1.ª instancia, avisa a los linderos y arranca en el mojón A, esquinero N de Piquetto y O de Aniceta Veloz. Lo ABALIZA con ángulos a la izquierda de la línea A-C a tres poblaciones: Pedro Vásquez 108° 5′, José Benítez 109° 25′ y Félix Romero 95°. A está a 93 m del arroyo de Giles."
+  },
+  {
+   "titulo": "Folio 2 vuelto: relevamiento de la costa del arroyo de Giles",
+   "img": "img/f/091/10.jpg",
+   "fuente": "IMG_1940.JPG",
+   "nota": "",
+   "lineas": [
+    "Arroyo, cuadrando sobre la línea AC, al",
+    "Sud cuarenta y tres grados cinco minutos",
+    "Oeste medí ochocientos cuarenta y cuatro",
+    "metros hasta dar con el Arroyo— Desde",
+    "este punto cuadré á la izquierda y medí",
+    "doscientos sesenta y tres metros ocho deci-",
+    "metros; cuadré en seguida á la derecha,",
+    "Sud cuarenta y tres grados cinco minu-",
+    "tos Oeste y medí cuatrocientos cincuen-",
+    "ta y cinco metros hasta el Arroyo. Tomé",
+    "en seguida al Sud cuarenta y seis grados",
+    "cincuenta y cinco minutos Este y medí",
+    "ciento cincuenta y seis metros dos decime-",
+    "tros— Al Sud cuarenta y tres grados cinco",
+    "minutos Oeste setecientos un metros;",
+    "al Sud cuarenta y seis grados cincuenta",
+    "y cinco minutos Este cuarenta y tres",
+    "metros tres decimetros; al Sud cuarenta",
+    "y tres grados cinco minutos Oeste cua-",
+    "trocientos setenta metros; al Sud cuaren-",
+    "ta y seis grados cincuenta y cinco minu-",
+    "tos Este, cuarenta y tres metros tres deci-",
+    "metros; y al Sud cuarenta y tres grados",
+    "cinco minutos Oeste ciento veinte y ocho"
+   ],
+   "interpretacion": "Relevamiento de la costa: desde A se trazan perpendiculares (S 43° 5′ O) y paralelas (S 46° 55′ E) en escalera hasta tocar el agua: 844 m, 263,8, 455, 156,2, 701, 43,3, 470, 43,3, 128 m. Es una poligonal de ordenadas que dibuja la barranca del arroyo de Giles aguas arriba del pueblo."
+  },
+  {
+   "titulo": "Folio 3: línea A-C (costado NE) con sus mojones",
+   "img": "img/f/091/11.jpg",
+   "fuente": "IMG_1941.JPG",
+   "nota": "",
+   "lineas": [
+    "[sello y foliatura:] 3",
+    "metros hasta el mojon B, esquinero Oeste de",
+    "la primera fraccion de campo de Piquetto—",
+    "Volví al mojon de arranque y desde él",
+    "al Sud cuarenta y seis grados cincuenta",
+    "y cinco minutos Este y dividiendo con",
+    "D.^{a} Aniceta Veloz y mas adelante con",
+    "D. Juan Silva, hallé un mojon á los",
+    "seiscientos veinte y nueve metros; otro",
+    "á los mil doscientos setenta y seis me-",
+    "tros cuatro decimetros; otro á los mil",
+    "novecientos veinte y seis metros ocho",
+    "decimetros; otro á los dos mil quinien-",
+    "tos setenta y siete metros dos decimetros;",
+    "otro á los tres mil doscientos veinte",
+    "y siete metros seis decimetros; otro á",
+    "los tres mil ochocientos setenta y ocho;",
+    "otro á los cuatro mil quinientos vein-",
+    "te y ocho metros cuatro decimetros;",
+    "otro á los cinco mil ciento setenta y",
+    "ocho metros ocho decimetros; otro á",
+    "los cinco mil ochocientos veinte y",
+    "nueve metros dos decimetros; y á los",
+    "seis mil quinientos treinta y ocho metros",
+    "cinco decimetros encontré el esquinero"
+   ],
+   "interpretacion": "Se llega al mojón B, esquinero O de la primera fracción. Vuelta a A: la línea A-C (S 46° 55′ E) contra Aniceta Veloz y luego Juan Silva, con mojones cada ≈ 650 m (629; 1276,4; 1926,8; 2577,2; 3227,6; 3878; 4528,4; 5178,8; 5829,2) y el esquinero C a 6538,5 m. La regularidad de los mojones (≈ 650,4 m = 751 v) indica que Muñiz repone una línea antigua amojonada cada 750 varas."
+  },
+  {
+   "titulo": "Folio 3 vuelto: fondo C-D contra los Díaz (Saubidet 1870) y comienzo de D-E",
+   "img": "img/f/091/12.jpg",
+   "fuente": "IMG_1942.JPG",
+   "nota": "",
+   "lineas": [
+    "Este letra C, sobre la línea del campo me-",
+    "dido por el Agrimensor Saubidet en 1870",
+    "para D. José y D. Fernando Diaz— Desde",
+    "este mojon, y dividiendo con los espresados",
+    "campos al Sud cincuenta y nueve grados",
+    "veinte y cuatro minutos Oeste hallé un",
+    "mojon á los seiscientos setenta y nueve",
+    "metros siete decimetros; otro á los mil",
+    "trescientos cincuenta y siete metros cua-",
+    "tro decimetros; otro á los mil quinientos",
+    "cuarenta metros dos decimetros; otro á los",
+    "mil setecientos veinte y cinco; á los dos",
+    "mil quinientos catorce metros siete",
+    "decimetros el esquinero de Diaz y á los",
+    "dos mil setecientos noventa y siete me-",
+    "tros tres decimetros el esquinero Sud de",
+    "Piquetto letra D— Desde aquí midiendo",
+    "al Norte cuarenta y seis grados cincuen-",
+    "ta y cinco minutos Oeste paralelamente",
+    "á CD [sic: AC] y dividiendo con Larrosa hallé un",
+    "mojon á los diez y ocho metros; otro á",
+    "los setecientos noventa y cuatro y otro,",
+    "letra E, á los mil cuatrocientos cuarenta",
+    "y cuatro metros. Desde E al Norte cua-"
+   ],
+   "interpretacion": "El esquinero C está sobre la línea del campo que SAUBIDET midió en 1870 para José y Fernando Díaz (Ficha 059). Fondo C-D (S 59° 24′ O) contra los Díaz: mojones a 679,7, 1357,4, 1540,2, 1725 m; esquinero de Díaz a 2514,7 m y esquinero S de Piquetto (D) a 2797,3 m. Desde D, al N 46° 55′ O paralelo al frente y contra Larrosa: mojones a 18 y 794 m y el mojón E a 1444 m. (El texto dice «paralelamente á CD»: debe ser A-C)."
+  },
+  {
+   "titulo": "Folio 4: cierre E-F-B y superficie de la primera fracción",
+   "img": "img/f/091/13.jpg",
+   "fuente": "IMG_1943.JPG",
+   "nota": "",
+   "lineas": [
+    "[sello y foliatura:] 4",
+    "renta y tres grados cinco minutos Este,",
+    "hallé ochenta y seis metros seis deci-",
+    "metros hasta el mojon F, desde el cual",
+    "al Norte cuarenta y seis grados cincuen-",
+    "ta y cinco minutos Oeste, encontré un",
+    "mojon á los seiscientos cincuenta metros",
+    "cuatro decimetros;— otro á los mil tres-",
+    "cientos metros ocho decimetros; á los mil",
+    "novecientos cincuenta y un metros dos",
+    "decimetros, otro á los dos mil seiscien-",
+    "tos un metros seis decimetros; otro á",
+    "los tres mil doscientos cincuenta y dos;",
+    "y á los tres mil ochocientos un metros",
+    "seis decimetros dí con el mojon esqui-",
+    "nero Oeste letra B que dista nueve me-",
+    "tros cinco decimetros del Arroyo",
+    "de Giles—",
+    "[al margen, cruz a tinta azul]   Esta primera fraccion tiene la forma",
+    "de un polígono irregular de seis lados",
+    "y una superficie de quince millones",
+    "novecientos cuarenta y ocho mil doscien-",
+    "tos quince metros cuadrados, igual á",
+    "(21.265.535 [?] v.^{s} c.^{s}). Como el título le asigna",
+    "solamente quince millones, quinientos"
+   ],
+   "interpretacion": "Escalón E-F (N 43° 5′ E, 86,6 m) y costado F-B (N 46° 55′ O) contra Larrosa, con mojones cada ≈ 650 m, hasta el esquinero B, a 9,5 m del arroyo. Primera fracción: polígono irregular de SEIS lados, 15.948.215 m² = 21.265.535 [?] v² (≈ 1594,8 ha)."
+  },
+  {
+   "titulo": "Folio 4 vuelto: exceso de la primera fracción; comienzo de la segunda",
+   "img": "img/f/091/14.jpg",
+   "fuente": "IMG_1944.JPG",
+   "nota": "",
+   "lineas": [
+    "mil novecientos sesenta metros cuadrados ó sean",
+    "(20.669.160 v.^{s} c.^{s}) resulta un exceso de cuatrocien-",
+    "tos cuarenta y siete mil doscientos cincuenta",
+    "y cinco metros cuadrados igual á (596.375 varas).   [al margen, a lápiz: 447255 · sobrant[e] [?]]",
+    "Linda por el Nor Oeste con el Arroyo de Giles",
+    "por el Nor Este con D.^{a} Aniceta Veloz y",
+    "Lopez; por el Sud Este con D. Fernando Diaz",
+    "y D.^{a} Atanasia Diaz y por el Sud Oeste",
+    "con D. José de la Rosa—   [cruz a lápiz]",
+    "Para medir la segunda fraccion",
+    "de terreno perteneciente á D. José Piquetto",
+    "me situé en el mojon letra B, esquinero",
+    "Oeste de la primera fraccion, y desde él",
+    "bajé al Sud cuarenta y seis grados cin-",
+    "cuenta y cinco minutos Este por la",
+    "línea BF noventa y cuatro metros á cuyo",
+    "estremo cuadré al Sud cuarenta y tres",
+    "grados cinco minutos Oeste y medí qui-",
+    "nientos setenta y ocho metros hasta dar",
+    "con el Arroyo; en seguida al Sud cuaren-",
+    "ta y seis grados cincuenta y cinco mi-",
+    "nutos Este, ciento cuarenta y dos metros",
+    "un decimetro, y al Sud cuarenta y tres",
+    "grados cinco minutos Oeste cuatrocientos"
+   ],
+   "interpretacion": "El título daba 15.500.960 m² (20.669.160 v²): hay un EXCESO de 447.255 m² (596.375 v²). Linderos: arroyo de Giles (NO), Aniceta Veloz y López (NE), Fernando y Atanasia Díaz (SE), José de la Rosa (= Larrosa) (SO). Segunda fracción: desde B se baja 94 m por B-F y se sigue la costa (578 m al arroyo, 142,1 m, …)."
+  },
+  {
+   "titulo": "Folio 5: salto sobre Larrosa y el terreno del Pueblo; costa de la segunda fracción",
+   "img": "img/f/091/15.jpg",
+   "fuente": "IMG_1945.JPG",
+   "nota": "",
+   "lineas": [
+    "[sello y foliatura:] 5",
+    "noventa y cinco metros ocho decimetros hasta",
+    "el mojon G habiendo asi salvado los fren-",
+    "tes de las dos propiedades que separan los",
+    "terrenos de Piquetto, una perteneciente á",
+    "D.^{a} Petrona Larroza compuesta de quinientas cua-",
+    "renta varas de frente y la otra de setecien-",
+    "tos varas pertenecientes al Pueblo de Giles.",
+    "Desde el mojon G, que dista cuarenta me-",
+    "tros del Arroyo medí al Sud cuarenta",
+    "y seis grados cincuenta y cinco minu-",
+    "tos Este ciento veinte y cinco metros;",
+    "cuadré en seguida al Sud cuarenta",
+    "y tres grados cinco minutos Oeste y á",
+    "los tres mil [sic: ¿trescientos?] metros encontré el Arroyo;",
+    "tomé al Sud cuarenta y seis grados cin-",
+    "cuenta y cinco minutos Este y á los",
+    "doscientos ochenta y dos metros nueve",
+    "decimetros cuadré al Sud cuarenta y",
+    "tres grados cinco minutos Oeste y dí",
+    "con el mojon letra H, esquinero Oeste",
+    "de la segunda fraccion de Piquetto",
+    "y Norte de D. Simon Cucullo, á los",
+    "trescientos noventa y dos metros ocho",
+    "decimetros— Volví al mojon G y al Sud"
+   ],
+   "interpretacion": "Muñiz «salta» los frentes de dos propiedades que separan los dos campos de Piquetto: la de Petrona Larroza (540 v de frente) y la de 700 v «pertenecientes al Pueblo de Giles» (el terreno del Santo de la Ficha 060). Desde G (a 40 m del arroyo) releva otra vez la costa hasta el mojón H, esquinero O de la segunda fracción y N de Simón Cucullo. El «tres mil metros» del renglón 14 es seguramente un error por trescientos (el plano da 300)."
+  },
+  {
+   "titulo": "Folio 5 vuelto: línea G-I contra el terreno de Giles; fondo contra Lescano (Saubidet 1866)",
+   "img": "img/f/091/16.jpg",
+   "fuente": "IMG_1946.JPG",
+   "nota": "",
+   "lineas": [
+    "cuarenta y seis grados cincuenta y cinco mi-",
+    "nutos Este dividiendo con terreno de",
+    "Giles, hallé un mojon á los setecientos",
+    "sesenta y dos metros cuatro decimetros;",
+    "otro á los mil cuatrocientos doce me-",
+    "tros ocho decimetros; otro á los dos mil",
+    "sesenta y tres; otro á los dos mil sete-",
+    "cientos trece metros cuatro decimetros;",
+    "otro á los tres mil trescientos sesen-",
+    "ta y tres metros ocho decimetros; otro",
+    "á los cuatro mil catorce metros dos",
+    "decimetros; otro á los cuatro mil seis-",
+    "cientos treinta y seis metros cinco deci-",
+    "metros y á los cuatro mil ochocientos",
+    "sesenta y tres el esquinero Este de Pi-",
+    "quetto, letra I, sobre la línea del",
+    "campo medido por Saubidet para",
+    "los herederos de D. Francisco Lescano",
+    "en 1866— Desde aquí, midiendo por",
+    "dicho límite, al Sud cincuenta y siete",
+    "grados cincuenta y cinco minutos",
+    "Oeste hallé un mojon de Saubidet á",
+    "los siete metros ocho decimetros; otro",
+    "á los setecientos dos metros siete deci-"
+   ],
+   "interpretacion": "Costado G-I (S 46° 55′ E) contra el terreno de Giles: mojones cada ≈ 650 m (762,4; 1412,8; 2063; 2713,4; 3363,8; 4014,2; 4636,5) y el esquinero E de Piquetto (I) a 4863 m, sobre la línea del campo medido por SAUBIDET en 1866 para los herederos de Francisco Lescano (Ficha 045). Fondo I-J (S 57° 55′ O) por ese límite, con un mojón de Saubidet a 7,8 m y otro a 702,7 m."
+  },
+  {
+   "titulo": "Folio 6: costado J-H contra Cucullo y superficie de la segunda fracción",
+   "img": "img/f/091/17.jpg",
+   "fuente": "IMG_1947.JPG",
+   "nota": "",
+   "lineas": [
+    "[sello y foliatura:] 6",
+    "metros y á los setecientos diez y siete me-",
+    "tros dí con el esquinero Sud de Piquetto",
+    "letra J, desde el cual al Norte cuarenta",
+    "y seis grados cincuenta y cinco minu-",
+    "tos Oeste y dividiendo con Cucullo hallé",
+    "un mojon á los doscientos noventa me-",
+    "tros; otro á los seiscientos sesenta y",
+    "tres metros siete decimetros; otro á",
+    "los mil trescientos catorce metros",
+    "un decimetro; otro á los mil nove-",
+    "cientos sesenta y cuatro metros cinco",
+    "decimetros; otro á los dos mil seiscien-",
+    "tos catorce metros nueve decimetros;",
+    "otro á los tres mil doscientos sesenta",
+    "y cinco metros tres decimetros; otro",
+    "á los tres mil novecientos quince me-",
+    "tros siete decimetros y á los cuatro",
+    "mil doscientos setenta dí con el",
+    "esquinero letra H que dista cincuen-",
+    "ta metros del Arroyo de Giles—",
+    "[al margen, cruz a tinta] Esta segunda fraccion tiene la for-",
+    "ma de un trapecio y una superfi-",
+    "cie de tres millones ciento noventa",
+    "y seis mil novecientos noventa y"
+   ],
+   "interpretacion": "Esquinero S (J) a 717 m. Costado J-H (N 46° 55′ O) contra Cucullo, con mojones cada ≈ 650 m, hasta H, a 50 m del arroyo, a los 4270 m. La segunda fracción es un trapecio de 3.196.995 m²."
+  },
+  {
+   "titulo": "Folio 6 vuelto: sobrante de la segunda fracción, linderos, conformidad, variación y firma",
+   "img": "img/f/091/18.jpg",
+   "fuente": "IMG_1948.JPG",
+   "nota": "",
+   "lineas": [
+    "cinco metros cuadrados (4.262.910 v.^{s} c.^{s}). El",
+    "título le fija una estension superficial",
+    "de dos millones novecientos noventa mil",
+    "ochocientos veinte y cuatro metros cuadra-",
+    "dos (3.988.000 v.^{s} c.^{s}) por lo que resulta en",
+    "esta fraccion un sobrante de doscientos",
+    "seis mil ciento setenta y un metros cua-   [al margen, a lápiz: Sobran[te] 20.6171]",
+    "drados (274.910 v.^{s} c.^{s}) que como el que re-",
+    "sultó en la otra fraccion, desea com-",
+    "prar el interesado— Ambos suman",
+    "seiscientos cincuenta y tres mil cuatro-   [al margen, a lápiz, con llave: Sobrante total [?]]",
+    "cientos veinte y seis metros cuadrados",
+    "ó sean (871.285 v.^{s} c.^{s}).   [cruz a lápiz]   Linda la segunda",
+    "fraccion por el Nor Oeste con el Arro-",
+    "yo de Giles; por el Nord Este con el",
+    "Pueblo de Giles; por el Sud Este con",
+    "D. Francisco Lescano y por el Sud Oeste",
+    "con D. Simon Cucullo—",
+    "Presenciaron la operacion todos",
+    "los linderos y se manifestaron con-",
+    "formes con ella—",
+    "La variacion de la aguja resultó de once gra-",
+    "dos cinco minutos Nord Este—",
+    "José M.^{a} Muñiz [rúbrica]",
+    "Agrim.^{or} [?]"
+   ],
+   "interpretacion": "Superficie de la segunda fracción: 3.196.995 m² = 4.262.910 v² (≈ 319,7 ha); el título le da 2.990.824 m² (3.988.000 v²): SOBRANTE de 206.171 m² (274.910 v²), que el interesado desea comprar, como el de la otra fracción. Los dos suman 653.426 m² (871.285 v²). Linderos: arroyo (NO), Pueblo de Giles (NE), Francisco Lescano (SE), Simón Cucullo (SO). Todos los linderos presenciaron la operación y se declararon conformes. Variación de la aguja: 11° 5′ NE. Firma José M.ª Muñiz."
+  },
+  {
+   "titulo": "Oficio del juzgado al Departamento de Ingenieros (26/4/1879)",
+   "img": "img/f/091/19.jpg",
+   "fuente": "IMG_1949.JPG",
+   "nota": "",
+   "lineas": [
+    "[margen izq., cortado:] [Juzg]ado Civil · [Escrib]ano Secretario · [...] A. Victorica [rúbrica]",
+    "3.141.63 [?]   Corresponde [?]",
+    "[papel sellado: 171067 · Dirección General de Rentas de la Provincia de Buenos Aires · 6 · 1879 · Seis pesos]   [sello: Foja 7]",
+    "Buenos Aires, Abril 26 [de] 1879",
+    "Al Señor Presidente del Depar-",
+    "tamento de Ingenieros—",
+    "Comunico á vd que con fecha 25 del",
+    "corriente ha sido aprobada por es-",
+    "te Juzgado la mensura practica-",
+    "da por el Agrimensor Muñiz de un",
+    "terreno de propiedad de Don José",
+    "Piquetto en el Partido de Giles, re-",
+    "cayendo al efecto el auto siguiente=",
+    "\" Buenos Aires Abril 25 de 1879= Autos",
+    "\" y Vistos: Atento lo espuesto y pe-",
+    "\" dido en el escrito de f. 24, lo dictami-",
+    "\" nado por el Departamento de In-",
+    "\" genieros á f. 19 vuelta y en mérito de la",
+    "\" conformidad que se manifiesta",
+    "\" por el Agente Fiscal en su vista que",
+    "\" antecede; se aprueba en cuanto ha"
+   ],
+   "interpretacion": "Oficio del juzgado civil (secretario Manuel A. Victorica) al presidente del Departamento de Ingenieros, 26/4/1879, en papel sellado de 1879: la mensura fue aprobada el 25 de abril. El auto cita el escrito de f. 24, el dictamen del Departamento a f. 19 vuelta y la conformidad del Agente Fiscal."
+  },
+  {
+   "titulo": "Oficio (vuelto): fin del auto aprobatorio (juez Salustiano J. Zavalía) y «Agréguese» (2/5/1879)",
+   "img": "img/f/091/20.jpg",
+   "fuente": "IMG_1950.JPG",
+   "nota": "",
+   "lineas": [
+    "lugar por derecho la Mensura y plano \"",
+    "practicado por el agrimensor públi- \"",
+    "co Don José Maria Muñiz, corrien- \"",
+    "te de f. 11 á f. 20; interponiendo el Juz- \"",
+    "gado para su mayor validez la au- \"",
+    "toridad que inviste por medio \"",
+    "del presente auto. En consecuencia, \"",
+    "líbrese oficio de comunicacion á \"",
+    "dicho Departamento y al Ministro \"",
+    "de Hacienda, haciéndole saber el \"",
+    "sobrante de terreno que ha resulta- \"",
+    "do y fecho entréguese el espediente \"",
+    "al interesado, á los fines que le sean \"",
+    "convenientes, prévio pago de costas. \"",
+    "Repóngase la foja= Salustiano \"",
+    "J. Zavalía= Manuel A. Victorica\"—",
+    "Dios güe. á v.d",
+    "Salustiano J. Zavalía [rúbrica]",
+    "Mayo 2 de 1879—",
+    "Agréguese al duplicado correspondiente.",
+    "Lavalle [rúbrica]"
+   ],
+   "interpretacion": "Fin del auto: se aprueba «en cuanto ha lugar por derecho» la mensura y plano de Muñiz (fs. 11-20 del expediente), con la autoridad del juzgado; se comunica al Departamento y al MINISTRO DE HACIENDA el sobrante, y se entrega el expediente al interesado. Firma el juez Salustiano J. Zavalía. El 2/5/1879 Lavalle ordena agregarlo al duplicado."
+  },
+  {
+   "titulo": "Cargo e informe del Departamento de Ingenieros (8/4/1879) y nota de compra del sobrante",
+   "img": "img/f/091/21.jpg",
+   "fuente": "IMG_1951.JPG",
+   "nota": "",
+   "lineas": [
+    "[...] 2/879—   [sello: Foja 8]",
+    "Presentada en la fecha al Depar-",
+    "tamento de Ingenieros—",
+    "M. Pico [rúbrica]",
+    "Señor Juez de 1.^{a} Instancia—",
+    "La mensura practica-",
+    "da por el agrimensor D.^{n} José M.^{a}",
+    "Muñiz para D.^{n} José Pichetto en el",
+    "partido de Giles está conforme con",
+    "sus antecedentes, y el Departamento",
+    "de Ingenieros la aprueba en la parte",
+    "facultativa.—",
+    "Ha resultado un sobrante",
+    "de sesenta y cinco hectáreas treinta",
+    "y cuatro áreas y veinte y seis centiá-",
+    "reas que el interesado debe comprar al",
+    "Gobierno.—",
+    "Abril 8/879—",
+    "Lavalle [rúbrica]",
+    "Encina [rúbrica]   Moreno [rúbrica]",
+    "[al margen izq., a lo largo, a lápiz/tinta:] En Diciembre 3/879 se otorgó la escritura de propiedad. Kuhr [rúbrica] · Mayo 2/880",
+    "Nota— En Mayo 17 de 1879 D. José Pichetto",
+    "solicita en compra el sobrante que ha resulta-",
+    "do de la mensura anterior (653426 m.^{c}).",
+    "Junio 3/9— Inf. en la fecha. Se anota [?]",
+    "Moreno [rúbrica]"
+   ],
+   "interpretacion": "Cargo (M. Pico) e informe del Departamento de Ingenieros (8/4/1879; Lavalle, Encina, Moreno): la mensura está conforme con sus antecedentes y se aprueba en la parte facultativa; el SOBRANTE de 65 ha 34 a 26 ca debe comprarse al Gobierno. Nota: el 17/5/1879 Piquetto (escrito «Pichetto») pide en compra el sobrante de 653.426 m²; al margen, Kuhr anota que la escritura de propiedad se otorgó el 3/12/1879."
+  },
+  {
+   "titulo": "Nota de 1938 (f. 11)",
+   "img": "img/f/091/22.jpg",
+   "fuente": "IMG_1955.JPG",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 11]",
+    "Enero 28: 1938— En la fecha informé el oficio J. [?] 16 de 1938, en la [sucesión] [?]",
+    "promovida por P. Clemente [?] de (Cotamolano [?] y Kantarin [?]) Ro-",
+    "barcio [?]",
+    "Ap. [?]   f.—                                   [rúbrica ilegible]"
+   ],
+   "interpretacion": "Nota de 1938 en el folio que precede al plano (f. 11): un empleado de Geodesia informa un oficio judicial de enero de 1938 en un juicio (¿sucesión?) promovido por un tal Clemente [?]. Muestra que el duplicado se siguió consultando en el siglo XX, igual que otros (054, 062)."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de las dos fracciones de José Piquetto (Muñiz, 1878-79)",
+   "img": "img/f/091/03.jpg",
+   "fuente": "IMG_3574.JPG (también IMG_1952-1953, IMG_3577)",
+   "orientacion": "Plano en papel, marco de doble filete con ángulos redondeados; arroyo de Giles a la izquierda (O), coloreado en azul; flecha del norte abajo a la derecha, con la variación junto a A; escala de metros 0-3000 a la derecha.",
+   "interpretacion": "Las dos fracciones de Piquetto ribeteadas en carmín, separadas por las fajas de Petrona M. de Larrosa y de la Municipalidad de Giles (el terreno del Santo). En la primera, la Estancia y el camino de Giles a la Capilla [del Señor]; otro camino la cruza en diagonal hacia J. Silva. Al E, los herederos de Francisco Lescano y Atanasia y Fernando Díaz.",
+   "referencias": [
+    [
+     "A",
+     "Mojón de arranque, esquinero N de Piquetto y O de Aniceta Veloz, a 93 m del arroyo; «Var. 11° 5′ NE»"
+    ],
+    [
+     "A-C",
+     "S 46° 55′ E · 6538,5 m al esquinero C (el rótulo dice 6631,5 [?]) · mojones cada ≈ 650 m · contra A. Veloz y J. Silva"
+    ],
+    [
+     "C-D",
+     "S 59° 24′ O · 2797,3 m · contra Atanasia y Fernando Díaz (Saubidet 1870)"
+    ],
+    [
+     "D-E-F-B",
+     "N 46° 55′ O 1444 m · escalón E-F 86,6 m · N 46° 55′ O 3801,6 m (rótulo 3811,1) · contra Petrona M. de Larrosa"
+    ],
+    [
+     "G-I",
+     "S 46° 55′ E · 4863 m (rótulo 4903) · contra la Municipalidad de Giles"
+    ],
+    [
+     "I-J",
+     "S 57° 55′ O · 717 m · contra los her. de Francisco Lescano (Saubidet 1866)"
+    ],
+    [
+     "J-H",
+     "N 46° 55′ O · 4270 m · contra Simón Cucullo («antes Natalia Arriaga», a lápiz)"
+    ],
+    [
+     "Costa",
+     "Arroyo de Giles con ordenadas: 844, 263,1, 455, 156,2, 701, 43,3, 470, 43,3, 128; 518, 142,1, 495,8, 125, 300, 282,9, 392,8 m"
+    ],
+    [
+     "Superficies",
+     "1.ª fracción 15.948.215 m² = 21.265.535 v² · 2.ª fracción 3.196.995 m² = 4.262.910 v²"
+    ],
+    [
+     "Edificios y caminos",
+     "Estancia (en la 1.ª fracción) · J. Silva · camino de Giles a la Capilla · dos caminos en diagonal"
+    ],
+    [
+     "Firma",
+     "José M.ª Muñiz"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: primera fracción, estancia y caminos",
+   "img": "img/f/091/04.jpg",
+   "fuente": "IMG_3576.JPG",
+   "orientacion": "",
+   "interpretacion": "La primera fracción con sus progresivas sobre A-C (623 · 1276,4 · 1926,8 · 2577,2 · 3227,6 · 3878 · 4528,4 · 5178,8 · 5829,2 · 6538,5), la Estancia, el camino de Giles a la Capilla y otro camino en diagonal; las ordenadas de la costa del arroyo.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: Larrosa, el terreno del Santo y la segunda fracción",
+   "img": "img/f/091/05.jpg",
+   "fuente": "IMG_3575.JPG",
+   "orientacion": "",
+   "interpretacion": "Entre las dos fracciones, las fajas de Petrona M. de Larrosa y de la Municipalidad de Giles (línea de trazos); la segunda fracción con sus mojones; Simón Cucullo al SO, con la nota a lápiz «antes Natalia Arriaga»; la firma de Muñiz.",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia en tela del plano (segunda fracción y escala)",
+   "img": "img/f/091/06.jpg",
+   "fuente": "IMG_1954.JPG",
+   "orientacion": "",
+   "interpretacion": "Segundo ejemplar del plano, en tela, con las mismas cifras y la escala de metros 0-3000: permite cotejar las lecturas dudosas (4903, 3811,1, escalón N 43° 5′ E 86,6 m).",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "El campo de pividal, cuarenta años después",
+   "texto": "Las dos fracciones son la herencia de Rafael Pividal sobre el arroyo de Giles (Ficha 017, Eguía 1854; y la traza del pueblo de 1838, Ficha 008: 800 v Pividal + 700 v del Santo + 540 v Galeano). La viuda, María Mouse [?] de Pividal, cae en CONCURSO de acreedores; Máximo Landívar compra en el concurso y vende por mitades a Piquetto (1869) y a Belaústegui (1870), que a su vez vende a Piquetto (1875). La portadilla remite a lápiz al «D.do 17». La segunda fracción, de 800 v de frente, es exactamente la pieza Pividal de 1838 lindera del terreno del Santo; la primera, de 3000 v, está al NE de la faja de Larrosa (540 v = la parte Galeano de 1838 [?])."
+  },
+  {
+   "titulo": "Muñiz salta el pueblo",
+   "texto": "La mensura recorre de corrido las dos fracciones y «salva los frentes» de las propiedades de Petrona Larroza (540 v) y del Pueblo (700 v): es la misma secuencia que Schuster midió en 1871 para la Municipalidad (Ficha 060: Larrosa al NE, Piquetto al SO). Con 008, 017, 046, 060 y 091 queda reconstruida la franja del arroyo de Giles frente al pueblo, de NE a SO: Aniceta Veloz · Piquetto 1.ª · Larrosa · Santo · Piquetto 2.ª · Cucullo."
+  },
+  {
+   "titulo": "Ritual y técnica",
+   "texto": "Arranque en un mojón existente, aviso previo a los linderos, ABALIZAMIENTO del mojón A con ángulos a tres poblaciones (Vásquez, Benítez, Romero), relevamiento de la costa por ordenadas, mojones cada ≈ 650 m (≈ 750 v, como en 052), reconocimiento de los mojones de Saubidet (1866 y 1870) sobre los fondos. Los linderos presencian la operación y se declaran conformes. Variación de 11° 5′ NE; rumbos de los costados S 46° 55′ E, casi los de Eguía y Schuster en la franja del pueblo (≈ 47°)."
+  },
+  {
+   "titulo": "Sobrantes y estado",
+   "texto": "La mensura arroja 447.255 m² de exceso en la primera fracción y 206.171 en la segunda: 65,34 ha en total. El Departamento de Ingenieros (Lavalle, Encina, Moreno) declara que el interesado «debe comprar al Gobierno» el sobrante; el juez lo comunica al Ministro de Hacienda; Piquetto lo pide en compra el 17/5/1879 y Kuhr anota la escritura del 3/12/1879. Es el mismo circuito de los sobrantes de 033-041, ahora administrado en pocos meses."
+  },
+  {
+   "titulo": "Errores de copia en el extracto",
+   "texto": "Las superficies en hectáreas del extracto están mal: «206 ha 91 a 60 ca» por ≈ 1550 ha (20.669.160 v²) y «39 ha 880 a» por ≈ 299 ha (3.988.000 v²). Un lector posterior anotó al margen el segundo cálculo. Las varas cuadradas son las correctas y coinciden con el cierre de Muñiz."
+  },
+  {
+   "titulo": "Dos tandas fotográficas",
+   "texto": "La carpeta tiene el duplicado fotografiado dos veces en 2011: IMG_1934-1955 (hojas sueltas, usadas para esta transcripción) e IMG_3564-3577 (doble página y el plano con otra luz). Se cotejó el final (3573 = 1950-1951): el contenido es el mismo. Faltan en ambas el escrito de f. 24 y el dictamen de f. 19 v. citados en el auto (están en el expediente)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Quién era María «Mouse» [?] de Pividal y por qué cayó en concurso? ¿Quiénes son Máximo Landívar y Víctor de Belaústegui (¿especuladores de tierras de la capital?)? ¿Dónde estaban las poblaciones de Pedro Vásquez, José Benítez y Félix Romero? ¿Qué juicio de 1938 consultó el duplicado? El A-C de 6631,5 [?] del rótulo frente a 6538,5 m del texto: ¿distancia hasta la línea de Díaz o error?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "José Piquetto («Pichetto»)",
+   "rol": "Propietario",
+   "texto": "Reúne entre 1869 y 1875 las dos fracciones del campo de Pividal junto al pueblo, con una estancia en la primera. Ya figuraba como lindero en 059 (1870) y 060 (1871, «hoy Piquetto»), y en 086 como «José Pignetto (antes Pividal)». Apellido italiano (ligur o piamontés), como Caprile y Picasso (052). Una búsqueda web breve no dio datos.",
+   "fuentes": "Dup. 91; Fichas 059, 060, 086."
+  },
+  {
+   "nombre": "José María Muñiz",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor público con larga actuación en Giles: 034, 048-051, 073 (1865), 083 (1877), 086 (c. 1878) y ésta (1878-79). Sus mojones aparecen reconocidos por otros (066, 058). Una búsqueda web breve no dio datos biográficos.",
+   "fuentes": "Fichas 034, 048-051, 073, 083, 086."
+  },
+  {
+   "nombre": "Rafael Pividal · María Mouse [?] de Pividal",
+   "rol": "Propietarios originarios",
+   "texto": "Pividal recibe 800 v junto al terreno del Santo en la traza de 1838 (008) y su testamentaría se mide en 1854 (017). La viuda hereda y cae en concurso antes de 1869.",
+   "fuentes": "Fichas 008, 017."
+  },
+  {
+   "nombre": "Máximo Landívar · Víctor de Belaústegui",
+   "rol": "Vendedores",
+   "texto": "Landívar compra en el concurso y revende por mitades (1869-1870); Belaústegui compra una mitad y la revende a Piquetto (1875). Escrituras ante Justo Carballeda, escribano público de Buenos Aires. No se buscaron más datos.",
+   "fuentes": "Dup. 91."
+  },
+  {
+   "nombre": "Aniceta Veloz y López · Juan Silva · Marcelino Veloz · Manuel Silva",
+   "rol": "Linderos ne",
+   "texto": "Son los Veloz y Silva de la margen E (057, 083). En el título de 1869 el lindero N eran los her. de Marcelino Veloz y Manuel Silva.",
+   "fuentes": "Fichas 057, 083."
+  },
+  {
+   "nombre": "Petrona M. de Larrosa · José Larrosa («de la Rosa»)",
+   "rol": "Lindero entre las dos fracciones",
+   "texto": "Dueños de la faja de 540 v entre Piquetto y el terreno del Santo (060).",
+   "fuentes": "Ficha 060."
+  },
+  {
+   "nombre": "Fernando y Atanasia Díaz · her. de Francisco Lescano · Simón Cucullo · Natalia Arriaga",
+   "rol": "Linderos se y so",
+   "texto": "Díaz: 059 (Saubidet 1870). Lescano: 045 (Saubidet 1866). Cucullo, «antes Natalia Arriaga»: 086.",
+   "fuentes": "Fichas 045, 059, 086."
+  },
+  {
+   "nombre": "Pedro Vásquez · José Benítez · Félix Romero",
+   "rol": "Pobladores (visuales)",
+   "texto": "Sus casas sirven para abalizar el mojón A. No figuran antes en el corpus.",
+   "fuentes": "Dup. 91."
+  },
+  {
+   "nombre": "Salustiano J. Zavalía · Manuel A. Victorica",
+   "rol": "Juez civil · secretario",
+   "texto": "Zavalía aprueba la mensura en 1879. No es el político tucumano Salustiano Zavalía (1808-1873), ya muerto; podría ser un pariente (no verificado). Victorica, secretario del juzgado.",
+   "fuentes": "Dup. 91; búsqueda web."
+  },
+  {
+   "nombre": "Lavalle · Encina · Moreno · M. Pico · Kuhr",
+   "rol": "Departamento de ingenieros",
+   "texto": "La comisión de 1876-1879 (072, 088). Kuhr, el antiguo agrimensor (020), anota la escritura del sobrante.",
+   "fuentes": "Fichas 020, 072, 088."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/091/02.jpg",
+  "fuente": "IMG_1936.JPG",
+  "lineas": [
+   "Partido de Giles—",
+   "91.",
+   "Mensura para Don José Piquetto—",
+   "[a lápiz:] Véase D.^{do} 17.",
+   "Ag.^{tor} [sic: Agr.^{or}] Muñiz—",
+   "1879.",
+   "4. 22[?]40 [rúbrica]"
+  ]
+ },
+ "titulo": "José Piquetto",
+ "estado": "Transcripta (16 hojas, 368 renglones), 4 láminas"
+}

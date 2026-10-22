@@ -1,0 +1,215 @@
+{
+ "carpeta": "93",
+ "carpeta_nombre": "Carpeta 93",
+ "archivo": "Ficha 093 - Aniceta Veloz y López (1878).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (margen E del arroyo de Giles, al NE del pueblo)",
+  "N.º de duplicado": "93 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Aniceta Veloz y López",
+  "Agrimensor": "José María Muñiz",
+  "Año": "[1878] (carátula sin fecha)",
+  "Fecha de la diligencia": "Sin fecha; contemporánea de 091 (mismo mojón A, junio de 1878) [?]",
+  "Ubicación": "Lindera NE de la 1.ª fracción de Piquetto (091), sobre el arroyo de Giles",
+  "Orden judicial": "No fotografiada",
+  "Vendedor / antecesor": "No consta (texto no fotografiado); her. de Marcelino Veloz [?]",
+  "Linderos citados": "José Piquetto · F. Peláez · Agustín y Felipe Veloz · Juan Silva · arroyo",
+  "Medidas": "ABCD 433 × 1732 m (500 × 2000 v) = 749.956 m² · total AEGCD 1.353.700 m² (≈ 135,4 ha)",
+  "Rumbos": "S 46° 55′ E / N 43° 5′ E · S 47° 37′ E · S 24° 40′ O",
+  "Referencia de archivo": "Duplicado 93; plano = f. 5"
+ },
+ "metricas": {
+  "superficie_ha": "135,4",
+  "hitos": "Mojón A común con 091; casa; tapera; camino",
+  "aguas": "Arroyo de Giles"
+ },
+ "sintesis": "Duplicado del que se fotografiaron la carátula y el plano (f. 5). José María Muñiz mide, probablemente en la misma campaña de junio de 1878 que la de Piquetto (091), el campo de Aniceta Veloz y López sobre el arroyo de Giles: el título es un rectángulo de 433 × 1732 m (500 × 2000 v = 1.000.000 v², 75 ha), y la mensura le agrega una faja de 337,5 m al NE hasta Fernando Peláez y Agustín Veloz, con un total de 1.353.700 m² (≈ 135 ha). El mojón A y la línea A-D son los mismos de 091. Linderos: Piquetto (S), Felipe Veloz y Juan Silva (E); cruza el camino de la Capilla a Giles; casa de Aniceta en el rincón D y una tapera.",
+ "caratula": {
+  "img": "img/f/093/01.jpg",
+  "fuente": "IMG_7449.JPG",
+  "campos": [
+   [
+    "N.º",
+    "93"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Aniceta Velóz y Lopez"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "José M. Muñiz"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "—"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Muñiz",
+   "img": "img/f/093/03.jpg",
+   "fuente": "IMG_7450 a IMG_7452",
+   "nota": "Sólo hay carátula y plano (vista general 7450 y dos detalles). Arriba a la izquierda asoma el sello «Foja 6» del folio siguiente; el plano lleva «Foja 5». Entre corchetes, lecturas dudosas.",
+   "lineas": [
+    "[sello:] Foja 5",
+    "[al N:] Fernando Pelaez   ·   Agustin Velóz",
+    "[E-G:] S. 47° 37′ E. = 1732   ·   [progresivas:] 750 · 1444",
+    "Sup: BEGC = 603.744 m.^{s} c.^{s} = 805.040 v.^{s} c.^{s}",
+    "[al O, costa:] Arroyo de Giles   ·   [junto a E:] 51   ·   [junto a B:] 333 [?]   ·   [junto a A:] 93",
+    "[B-E:] N. 43° 5′ E. = 337,5   ·   [A-B:] N. 43° 5′ E. = 433",
+    "Aniceta Velóz y Lopez.   ·   BC = 1732",
+    "Sup: AEGCD = 1.353.700 m.^{s} c.^{s} = 1.805.040 v.^{s} c.^{s}",
+    "Sup: ABCD = 749.956 m.^{s} c.^{s} = 1.000.000 v.^{s} c.^{s}",
+    "[G-C:] N. 43° 5′ E. = 360   ·   [C-D:] S. 24° 40′ O. = 456,3",
+    "[al E:] Felipe Velóz   ·   Juan Silva",
+    "Camino de la Capilla á Giles   ·   Tapera   ·   Aniceta Velóz [casa, junto a D]",
+    "[A-D:] S. 46° 55′ E. = 1732   ·   [progresivas:] 623 [?] · 1282,5",
+    "[al S:] José Piquetto",
+    "Metros [escala 200-0-900]   ·   [a lápiz, varias cifras ilegibles: 333 [?] · 1068 [?]]"
+   ],
+   "interpretacion": "El plano da el campo de Aniceta Veloz y López sobre el arroyo de Giles. El TÍTULO es el rectángulo A-B-C-D de 433 × 1732 m, es decir 500 × 2000 varas = 1.000.000 v² exactas (749.956 m²). La mensura le agrega hacia el NE la faja B-E-G-C, 337,5 m × 1732 m = 603.744 m² (805.040 v²), hasta Fernando Peláez y Agustín Veloz: el total A-E-G-C-D suma 1.353.700 m² (≈ 135 ha), casi el doble del título. El mojón A, a 93 m del arroyo, es el MISMO mojón A de la mensura de Piquetto (091), y la línea A-D (S 46° 55′ E, 1732 m) es el primer tramo de su línea A-C, «dividiendo con D.ª Aniceta Veloz y más adelante con D. Juan Silva». La cabecera E está cruzada por el camino de la Capilla [del Señor] a Giles; la casa de Aniceta Veloz está en el esquinero D, contra Juan Silva, y hay una tapera junto a la línea de Piquetto."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la mensura de Aniceta Veloz y López (Muñiz, [1878])",
+   "img": "img/f/093/02.jpg",
+   "fuente": "IMG_7450.JPG",
+   "orientacion": "Plano en papel, marco de doble filete con ángulos redondeados (el modelo de 091 y 092); arroyo de Giles a la izquierda (O); flecha del norte abajo, en el centro; escala de metros 200-0-900.",
+   "interpretacion": "El pentágono A-E-G-C-D con las tres superficies rotuladas: ABCD (título), BEGC (excedente al NE) y AEGCD (total). Los costados cortos siguen la línea del arroyo (N 43° 5′ E), los largos son paralelos a los de Piquetto (≈ S 47° E).",
+   "referencias": [
+    [
+     "A",
+     "Mojón a 93 m del arroyo de Giles: el mismo arranque de 091"
+    ],
+    [
+     "A-D",
+     "S 46° 55′ E · 1732 m (2000 v) · contra José Piquetto"
+    ],
+    [
+     "A-B / B-E",
+     "N 43° 5′ E · 433 m (500 v) + 337,5 m · costa del arroyo de Giles (B a 333 [?] m, E a 51 m del agua)"
+    ],
+    [
+     "E-G",
+     "S 47° 37′ E · 1732 m · contra Fernando Peláez y Agustín Veloz"
+    ],
+    [
+     "G-C",
+     "N 43° 5′ E · 360 m · contra Felipe Veloz"
+    ],
+    [
+     "C-D",
+     "S 24° 40′ O · 456,3 m · contra Juan Silva (línea oblicua)"
+    ],
+    [
+     "B-C",
+     "1732 m · divisoria entre el título y el excedente"
+    ],
+    [
+     "Superficies",
+     "ABCD 749.956 m² = 1.000.000 v² · BEGC 603.744 m² = 805.040 v² · AEGCD 1.353.700 m² = 1.805.040 v²"
+    ],
+    [
+     "Edificios",
+     "Casa de Aniceta Veloz (esquinero D) · tapera"
+    ],
+    [
+     "Camino",
+     "De la Capilla [del Señor] a Giles"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle O: el arroyo de Giles y la cabecera A-B-E",
+   "img": "img/f/093/03.jpg",
+   "fuente": "IMG_7451.JPG",
+   "orientacion": "",
+   "interpretacion": "La costa del arroyo de Giles con los mojones A, B y E y sus distancias al agua; las superficies rotuladas.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle E: el camino de la Capilla y la casa de Aniceta Veloz",
+   "img": "img/f/093/04.jpg",
+   "fuente": "IMG_7452.JPG",
+   "orientacion": "",
+   "interpretacion": "La cabecera E con el quiebre G-C-D, el camino de la Capilla a Giles, la casa de Aniceta Veloz en D y los linderos Agustín y Felipe Veloz y Juan Silva.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Mensura gemela de la de piquetto",
+   "texto": "El mojón A de este plano es el mojón A de 091 (a 93 m del arroyo de Giles), y la línea A-D (S 46° 55′ E) coincide con el tramo de la línea A-C de Piquetto que divide con Aniceta Veloz (mojones a 623 [?] y 1282,5 m, frente a 629 y 1276,4 en el texto de 091). Lo más probable es que Muñiz midiera ambos campos en la misma campaña de junio de 1878: la carátula de 093 no tiene fecha, pero sí el mismo agrimensor y el mismo modelo de plano."
+  },
+  {
+   "titulo": "Un título de un millón de varas y un excedente de 80 %",
+   "texto": "El título es un rectángulo redondo: 500 × 2000 v = 1.000.000 v², la medida típica de una suerte de chacra de las sucesiones de los Veloz (057, 083). La mensura encuentra al NE una faja de 337,5 m (≈ 390 v) más, hasta los otros Veloz y Peláez: 805.040 v². No sabemos si fue reconocida como propia (posesión, herencia) o tratada como sobrante fiscal, como en 091; falta el texto."
+  },
+  {
+   "titulo": "La franja de los veloz",
+   "texto": "Agustín, Felipe y Aniceta Veloz son vecinos: la margen E del arroyo de Giles al NE del pueblo está partida entre los herederos de Pedro Veloz (057: Ercilia, Fortunato, Pedro Pablo, Agustín, Alejo) y de Marcelino Veloz (091). Aniceta Veloz y López podría ser hija de Marcelino. Con 057, 083, 091 y 093 ya se puede reconstruir en el GIS la secuencia de fajas desde el pueblo aguas abajo."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "Una sola casa (la de Aniceta, en el rincón D), una tapera —población abandonada— y el camino de la Capilla del Señor a Giles, el mismo que en 091 cruza la estancia de Piquetto. La línea C-D oblicua (S 24° 40′ O) sigue probablemente un cerco o una zanja de la casa de Silva."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Fecha exacta? ¿De quién heredó Aniceta Veloz? ¿Qué pasó con el excedente BEGC (¿compra al Estado como Piquetto?)? ¿Quién es Fernando Peláez? Falta todo el texto."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Aniceta Veloz y López",
+   "rol": "Propietaria",
+   "texto": "Lindera NE de Piquetto en 1878 (091); en 1869 ese lindero eran los «her. de D. Marcelino Veloz y D. Manuel Silva». Su casa está en el esquinero D. Una búsqueda web breve no dio datos.",
+   "fuentes": "Dup. 93; Ficha 091."
+  },
+  {
+   "nombre": "José María Muñiz",
+   "rol": "Agrimensor",
+   "texto": "Ver 091 y 092.",
+   "fuentes": "Fichas 091, 092."
+  },
+  {
+   "nombre": "Agustín Veloz · Felipe Veloz",
+   "rol": "Linderos ne",
+   "texto": "Agustín Veloz es uno de los herederos de Bernabela Burgos (057). Felipe Veloz es nuevo en el corpus.",
+   "fuentes": "Ficha 057."
+  },
+  {
+   "nombre": "Fernando Peláez · Juan Silva · José Piquetto",
+   "rol": "Linderos",
+   "texto": "Peláez es nuevo en el corpus. Juan Silva: 091. Piquetto: 091.",
+   "fuentes": "Ficha 091."
+  }
+ ],
+ "titulo": "Aniceta Veloz y López",
+ "estado": "Transcripta (1 hojas, 15 renglones), 3 láminas"
+}

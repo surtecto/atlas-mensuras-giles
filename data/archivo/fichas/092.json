@@ -1,0 +1,226 @@
+{
+ "carpeta": "92",
+ "carpeta_nombre": "Carpeta 92",
+ "archivo": "Ficha 092 - Eustaquia Cuello de Miró (1878).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (rincón SO, hacia Carmen de Areco y Chacabuco)",
+  "N.º de duplicado": "92 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Eustaquia Cuello de Miró",
+  "Agrimensor": "José María Muñiz",
+  "Año": "1878",
+  "Fecha de la diligencia": "Julio de 1878 (carátula)",
+  "Ubicación": "Faja larga entre José María Casado y Agustín Casado, cruzada por el camino de Chacabuco a Giles",
+  "Orden judicial": "No fotografiada",
+  "Vendedor / antecesor": "No consta (texto no fotografiado)",
+  "Linderos citados": "J. M.ª Casado · A. Casado (antes J. F. Martínez) · Cruz C. de Silva · D. Alegre · P. Gannon",
+  "Medidas": "7896-7946 × 856 [?]-896 m · 7.187.355 m² = 9.583.702 v² (≈ 718,7 ha)",
+  "Rumbos": "S 44° 54′ O / N 44° 09′ E · S 45° 15′ E · var. 10° 46′ NE",
+  "Referencia de archivo": "Duplicado 92; plano = f. 6"
+ },
+ "metricas": {
+  "superficie_ha": "718,7",
+  "hitos": "Mojones cada 650 m; cuatro montes; tres ranchos; camino",
+  "aguas": "—"
+ },
+ "sintesis": "Duplicado del que se fotografiaron la carátula y el plano (f. 6). En julio de 1878 José María Muñiz mide la faja de Eustaquia Cuello de Miró, la lindera que ya aparecía en 061 y 084: un rectángulo de ≈ 7,9 km por ≈ 860-900 m (7.187.355 m², ≈ 719 ha), con los costados N 44° E, entre José María Casado (N) y Agustín Casado, antes Juan Félix Martínez (S), con María de la Cruz C. de Silva al O y Dolores Alegre y Patricio Gannon (antes Echevarría) al E. La cruza el camino de Chacabuco a Giles; hay tres ranchos y cuatro montes. Ubica una pieza más del rincón SO, junto al campo Gutiérrez–Alegre.",
+ "caratula": {
+  "img": "img/f/092/01.jpg",
+  "fuente": "IMG_7445.JPG",
+  "campos": [
+   [
+    "N.º",
+    "92"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Doña Eustaquia Cuello de Miró"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "José María Muñiz"
+   ],
+   [
+    "Mes",
+    "Julio"
+   ],
+   [
+    "Año",
+    "1878"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Muñiz",
+   "img": "img/f/092/03.jpg",
+   "fuente": "IMG_7446 a IMG_7448",
+   "nota": "Sólo hay carátula y plano (vista general 7446 y dos detalles). Las progresivas del lado A-B están escritas al revés (se leen girando 180°). Entre corchetes, lecturas dudosas.",
+   "lineas": [
+    "[sello:] Foja 6   ·   [a lápiz, margen izq.:] F [?] · 4641 · 4215 · 426   ·   [a lápiz, margen der.:] 4510 · 4409 · 89 19 [?] · 90 41 [?]",
+    "[al N, fuera del deslinde:] Gutierrez   ·   Alfonsin",
+    "[faja N, línea de trazos N-M:] José Maria Casado   ·   N. 46° 41′ O. = 1991,8 [N-B]   ·   N. 45° 48′ O. = 1991,8 [M-A]",
+    "Eustaquia Cuello de Miró.",
+    "Sup: 7.187.355 m.^{s} c.^{s} = 9.583.702 v.^{s} c.^{s}",
+    "[A-B, al revés:] S. 44° 54′ O. = 7896   ·   [progresivas desde A:] 650 · 1296 · 1946 · 2596 · 3247 [?] · 3896 [?] · 4596 · 5193 [?] · 5868 [?] · 6491 [?] · 7100 [?]",
+    "[C-D:] N. 44° 09′ E. = 7946   ·   [progresivas desde C:] 1297 [?] · 2593 · 3242 · 3902 · 4552 · 5196 · 5846 · 6503 · 7153 · 7938",
+    "[B-C:] S. 45° 15′ E. = 896   ·   [A-D:] N. 45° 10′ O. = 856 [?]   ·   [junto a B:] 325 · [junto a A:] 72 [?]",
+    "Ramon Gonzalez   ·   Victor Gonzalez   ·   Julian Rivadeneira [?]   ·   [fuera, al S:] Agustin Casado [casa]",
+    "Camino de Chacabuco á Giles",
+    "V.^{n} 10° 46′ N.E. [flecha del norte]",
+    "[al O:] Maria de la Cruz C. de Silva   ·   [al E:] Dolores Alegre   ·   Patricio Gannon (antes José Maria Echevarria)",
+    "[al S:] Agustin Casado (antes Juan Felix Martinez)",
+    "Metros [escala 1000-0-3000]"
+   ],
+   "interpretacion": "El plano da la faja de Eustaquia Cuello de Miró: un rectángulo largo y angosto, de ≈ 7,9 km por ≈ 860-900 m, 7.187.355 m² (≈ 719 ha), con los costados largos al NE-SO (S 44° 54′ O / N 44° 09′ E) y las cabeceras al NO (S 45° 15′ E, 896 m) contra María de la Cruz C. de Silva y al SE (856 [?] m) contra Dolores Alegre y Patricio Gannon. Al N, José María Casado (con una faja de 1991,8 m de ancho marcada con trazos, quizá su campo medido antes) y detrás Gutiérrez y Alfonsín; al S, Agustín Casado, «antes Juan Félix Martínez». La cruza en diagonal el camino de Chacabuco a Giles. Hay mojones cada ≈ 650 m (750 v), tres poblaciones (Ramón González, Víctor González, Julián Rivadeneira [?]) y cuatro montes de árboles, uno en el esquinero C."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la mensura de Eustaquia Cuello de Miró (Muñiz, 1878)",
+   "img": "img/f/092/02.jpg",
+   "fuente": "IMG_7446.JPG",
+   "orientacion": "Plano en papel, marco de doble filete con ángulos redondeados (el mismo modelo de 091); la faja horizontal; flecha del norte en diagonal hacia arriba a la derecha con «V.n 10° 46′ N.E.»; escala de metros abajo.",
+   "interpretacion": "La faja de Miró en el centro, José María Casado arriba y Agustín Casado abajo; el camino de Chacabuco a Giles la corta de NO a SE. Los montes (manchas con curvas concéntricas) son el único «paisaje» del plano, junto a tres ranchos.",
+   "referencias": [
+    [
+     "A-B",
+     "S 44° 54′ O · 7896 m · contra José María Casado; mojones cada ≈ 650 m"
+    ],
+    [
+     "C-D",
+     "N 44° 09′ E · 7946 m · contra Agustín Casado (antes Juan Félix Martínez)"
+    ],
+    [
+     "B-C",
+     "S 45° 15′ E · 896 m · contra María de la Cruz C. de Silva"
+    ],
+    [
+     "A-D",
+     "N 45° 10′ O · 856 [?] m · contra Dolores Alegre y Patricio Gannon (antes J. M.ª Echevarría)"
+    ],
+    [
+     "N-B / M-A",
+     "N 46° 41′ O y N 45° 48′ O · 1991,8 m: costados de la faja de José María Casado"
+    ],
+    [
+     "Superficie",
+     "7.187.355 m² = 9.583.702 v²"
+    ],
+    [
+     "Edificios",
+     "Ramón González, Víctor González, Julián Rivadeneira [?]; casa de Agustín Casado fuera de la faja"
+    ],
+    [
+     "Montes",
+     "Cuatro montes dibujados: esquinero C, junto a V. González, junto a Rivadeneira [?] y cerca de A"
+    ],
+    [
+     "Camino",
+     "De Chacabuco a Giles"
+    ],
+    [
+     "Variación",
+     "10° 46′ NE"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle O: B-C, el camino de Chacabuco y los ranchos",
+   "img": "img/f/092/03.jpg",
+   "fuente": "IMG_7447.JPG",
+   "orientacion": "",
+   "interpretacion": "La mitad O de la faja con el camino de Chacabuco a Giles, los ranchos de Ramón y Víctor González y Julián Rivadeneira [?], los montes y la casa de Agustín Casado al S.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle E: A-D, Dolores Alegre y Patricio Gannon",
+   "img": "img/f/092/04.jpg",
+   "fuente": "IMG_7448.JPG",
+   "orientacion": "",
+   "interpretacion": "El extremo E con el esquinero A, el monte cercano y los linderos Dolores Alegre y Patricio Gannon (antes José María Echevarría).",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "La «eustaquia cuello [?] de miró» de 061 y 084",
+   "texto": "Ya figuraba como lindera en el plano de Videla de 1871 (061, campo de Juan Félix Martínez y Aranguren) y en el de Schuster de 1878 (084, Ángela Gutiérrez de Alegre: «Eustaquia C.ª Miró» al SO). El rótulo de imprenta de este plano confirma la lectura «Cuello». Su faja queda entre el campo de los Casado y el de Juan Félix Martínez, hoy de Agustín Casado: es decir, en el rincón SO del partido, junto al bloque Gutiérrez–Alfonsín (024, 063, 084)."
+  },
+  {
+   "titulo": "Ubicación en el mosaico",
+   "texto": "Linderos al E: Dolores Alegre (la primera hijuela de 084, de 1530,48 m de ancho) y Patricio Gannon, «antes José María Echevarría» (015): la cabecera A-D toca el campo Gutiérrez–Alegre. Al O, María de la Cruz C. de Silva (la «Cruz C. de Silva» de 061). El rumbo de los costados (≈ N 44° E) es casi el de las hijuelas de 084 y de Caprile y Picasso (052, N 44° 54′ E), y la cabecera ≈ S 45° E el de sus divisorias: la faja se puede dibujar en el GIS colgada del costado O de Dolores Alegre."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Mojones cada ≈ 650 m (750 v), como en 091 del mismo Muñiz; variación 10° 46′ NE (en 091, cinco meses antes y unos 30 km al NE, 11° 5′). Los costados no son exactamente paralelos (44° 54′ / 44° 09′), lo que explica las cabeceras desiguales (896 / 856 [?] m)."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "Una faja de campo abierto con tres ranchos de pobladores (los González, Rivadeneira [?]), cuatro montes y un camino real —de Chacabuco a Giles— que la atraviesa: el paisaje de puestos y montecitos de la frontera vieja, sin alambrados todavía en el dibujo."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Cómo y de quién hubo Eustaquia Cuello de Miró la faja? ¿Qué es la faja de José María Casado de 1991,8 m? ¿Lectura exacta de la cabecera A-D (856 o 858)? Falta todo el texto: pedir foto del expediente si Juan vuelve al archivo."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Eustaquia Cuello de Miró",
+   "rol": "Propietaria",
+   "texto": "Lindera en 061 (1871) y 084 (1878). Casada con un Miró (apellido catalán). Una búsqueda web breve no dio datos.",
+   "fuentes": "Dup. 92; Fichas 061, 084."
+  },
+  {
+   "nombre": "José María Muñiz",
+   "rol": "Agrimensor",
+   "texto": "Ver 091: el mismo modelo de plano, de marco redondeado y letras de imprenta, y la misma práctica de mojones cada 750 v.",
+   "fuentes": "Fichas 034, 048-051, 073, 083, 086, 091."
+  },
+  {
+   "nombre": "José María Casado · Agustín Casado · Juan Félix Martínez",
+   "rol": "Linderos n y s",
+   "texto": "Agustín Casado ya figura en 063 y 084; compró el campo de Juan Félix Martínez (061, 1871).",
+   "fuentes": "Fichas 061, 063, 084."
+  },
+  {
+   "nombre": "María de la Cruz C. de Silva · Dolores Alegre · Patricio Gannon · José María Echevarría",
+   "rol": "Linderos o y e",
+   "texto": "Cruz C. de Silva: 061. Dolores Alegre: hija de Ángela Gutiérrez (084). Patricio Gannon: 084; el campo había sido de Echevarría (015).",
+   "fuentes": "Fichas 015, 061, 084."
+  },
+  {
+   "nombre": "Gutiérrez · Alfonsín",
+   "rol": "Vecinos al n",
+   "texto": "El bloque de los herederos de Bernardo Gutiérrez y de Mónica G. de Alfonsín (024, 063).",
+   "fuentes": "Fichas 024, 063."
+  },
+  {
+   "nombre": "Ramón González · Víctor González · Julián Rivadeneira [?]",
+   "rol": "Pobladores",
+   "texto": "Ranchos dentro de la faja; probablemente puesteros o arrendatarios. No figuran antes en el corpus.",
+   "fuentes": "Dup. 92."
+  }
+ ],
+ "titulo": "Eustaquia Cuello de Miró",
+ "estado": "Transcripta (1 hojas, 14 renglones), 3 láminas"
+}
