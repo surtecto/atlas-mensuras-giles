@@ -1,0 +1,216 @@
+{
+ "carpeta": "97",
+ "carpeta_nombre": "Carpeta 97",
+ "archivo": "Ficha 097 - Test. de Gerónimo Tormy (1879).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Cañada de la Cruz, límite E)",
+  "N.º de duplicado": "97 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Testamentaría de Gerónimo Tormy",
+  "Agrimensor": "Mariano Iparraguirre",
+  "Año": "1879",
+  "Fecha de la diligencia": "Plano: Buenos Aires, agosto de 1879",
+  "Ubicación": "Sobre la Cañada de la Cruz, cruzada por los arroyos del Sauce y de Vera",
+  "Orden judicial": "No fotografiada",
+  "Vendedor / antecesor": "Campo Tormy de 1855-1860 (079, 080); partición de la test.ª (081)",
+  "Linderos citados": "Test.ª G. Tormy · G. Aguirre · Bruno Vera · Salvador Castro · A. Quevedo",
+  "Medidas": "Polígono A-B-C-D-E-F-G-H-I-…; Sup. 8.596.127 m² = 509 cuadras² 10.552 v² (≈ 859,6 ha)",
+  "Rumbos": "N 47° 12′ O [?] · S 58° 28′ O [?] · S 31° 29′ E · N 58° 31′ E",
+  "Referencia de archivo": "Duplicado 97; tomas 7461-7462 = plano de Botana (096) traspapelado"
+ },
+ "metricas": {
+  "superficie_ha": "859,6",
+  "hitos": "Puestos la Bonita, el Ombú y el Pescador",
+  "aguas": "Cañada de la Cruz; arroyos del Sauce y de Vera"
+ },
+ "sintesis": "Duplicado del que se fotografiaron la carátula (1879) y el plano, firmado en Buenos Aires en agosto de 1879 por Mariano Iparraguirre. Mide una parte de la testamentaría de Gerónimo Tormy sobre la Cañada de la Cruz: un polígono de 8.596.127 m² = 509 cuadras² y 10.552 v² (≈ 859,6 ha), lindero de otras dos partes de la misma testamentaría, de Gregorio Aguirre, Bruno Vera y Salvador Castro, y cerrado al SE por una quebrada de mojones sobre la cañada (enfrente, la Cañada de A. Quevedo). Lo cruzan el arroyo del Sauce y el de Vera; tres puestos: la Bonita, el Ombú y el Pescador. Es la continuación de la partición iniciada en 1876 (081). Las tomas 7461-7462 de la carpeta son copias del plano de Botana (096).",
+ "caratula": {
+  "img": "img/f/097/01.jpg",
+  "fuente": "IMG_7463.JPG",
+  "campos": [
+   [
+    "N.º",
+    "97"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Geronimo Tormy"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Mariano Iparraguirre"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1879"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Iparraguirre",
+   "img": "img/f/097/03.jpg",
+   "fuente": "IMG_7464 a IMG_7466",
+   "nota": "Sólo carátula y plano (vista 7464, detalles 7465 y 7466, todas giradas 90°). Muchas cifras están escritas al revés respecto del rótulo principal; las de lectura insegura van con [?]. Las tomas 7461-7462 de esta carpeta son copias del plano de Botana (096).",
+   "lineas": [
+    "[arriba:] N   ·   [abajo:] S   ·   [meridiano dibujado de N a S]",
+    "[al NE:] T.^{ia} de Geronimo Tormy   ·   [A-B:] N 47° 12′ O. 2397 [?] m^{s}",
+    "[al NO:] T.^{ia} de G.^{mo} Tormy   ·   Gregorio Aguirre   ·   Bruno Vera",
+    "[B-C:] S 58° 28′ O [?]   2186,4 m^{s}   ·   [progresivas:] 409 [?] · 941,4 · 1100 · 1104,6 [?] · 1540,6 · 1891 · 2005 · 2125,34",
+    "C [sobre el] Arroyo de Vera   ·   [C-D:] S 55° 41′ O. 44,8 m^{s} [?]",
+    "[al SO:] Salvador Castro   ·   [D-E:] S 31° 29′ E. 3472,47 m^{s} [?]",
+    "[progresivas D-E:] 1002,47 [?] · 1074,47 [?] · 2373,47 [?] · 2914,47 [?] · 3472,47 [?]",
+    "P.^{to} la Bonita   ·   P.^{to} del Ombú   ·   P.^{to} del Pescador",
+    "Arroyo del Sauce [cruza el campo de O a E]",
+    "T.^{ia} de D.^{n} GERONIMO TORMY",
+    "Sup.^{e} = 8596127 m.^{os} c.^{os} = 509 c.^{dras} c.^{as} 10552 v.^{as} c.^{as}",
+    "[E-F:] N 58° 31′ E. 320 [?]   ·   [junto a E:] 200",
+    "[F-G:] N 31° 29′ O. 333,81 [?]   ·   [G-H:] N 58° 31′ E. 600   ·   [H-I:] N 31° 29′ O. 333,81 [?]",
+    "[I-f:] N 45° 20′ E. 475 [?]   ·   [cuadrilátero a-b-c-d-e:] N 58° 31′ E. 133,6 [?] · 1075 [?]",
+    "[hacia A:] 24 Q [?] · 60 m^{s} · 1250 · 1900 · 200",
+    "[líneas de trazos interiores:] S 31° 32′ E · S 31° 3? [?] E · N 1996,2 [?] · 1977 [?]",
+    "[al SE:] Cañada de la Cruz   ·   Cañada de A. Quevedo [al otro lado]",
+    "[escala:] Escala de metros [0-1000, en diagonal]",
+    "B.^{s} Aires Agosto de 1879   ·   Mariano Iparraguirre",
+    "[a lápiz:] 2186 / 2437 [?]"
+   ],
+   "interpretacion": "El plano da la «Testamentaría de D. Gerónimo Tormy»: un polígono irregular de 8.596.127 m², expresado también como 509 cuadras cuadradas y 10.552 varas cuadradas (≈ 859,6 ha; 1 cuadra² = 22.500 v²). Lo cierran: por el NE, otra parte de la misma testamentaría (A-B, ≈ N 47° O, la orientación de las fajas del campo Tormy en 079-081); por el NO, la otra «T.ia de G.mo Tormy», Gregorio Aguirre y Bruno Vera (B-C-D, con el arroyo de Vera en C); por el SO, Salvador Castro (D-E, S 31° 29′ E, ≈ 3472 m); y por el SE, la Cañada de la Cruz, contra la que se dibuja una línea quebrada de mojones (E-F-G-H-I… y un cuadrilátero a-b-c-d-e) que sigue la costa; del otro lado, la Cañada de A. Quevedo. El arroyo del Sauce atraviesa el campo. Tres puestos con nombre: la Bonita, el Ombú y el Pescador. Líneas de trazos paralelas (≈ S 31° E) prolongan dentro del campo las divisorias de los vecinos: el campo Tormy corta en diagonal la grilla de las suertes de la Cañada."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la Testamentaría de D. Gerónimo Tormy (Iparraguirre, agosto de 1879)",
+   "img": "img/f/097/02.jpg",
+   "fuente": "IMG_7464.JPG (girada 90°)",
+   "orientacion": "Pliego vertical con marco de doble filete; el N arriba y meridiano dibujado; superficie en color pálido; escala de metros en diagonal (0-1000) abajo a la izquierda; lugar, fecha y firma abajo a la derecha.",
+   "interpretacion": "El polígono Tormy entre la Cañada de la Cruz (SE) y las tierras de Aguirre, Vera y Castro, con los arroyos del Sauce y de Vera y tres puestos.",
+   "referencias": [
+    [
+     "A-B",
+     "N 47° 12′ O [?] · 2397 [?] m · contra la otra parte de la test.ª de Gerónimo Tormy"
+    ],
+    [
+     "B-C-D",
+     "S 58° 28′ O [?] · 2186,4 m + 44,8 [?] m · contra la T.ia de G.mo Tormy, Gregorio Aguirre y Bruno Vera"
+    ],
+    [
+     "D-E",
+     "S 31° 29′ E · 3472,47 [?] m · contra Salvador Castro; P.to la Bonita cerca de E"
+    ],
+    [
+     "E-F-G-H-I",
+     "Quebrada de mojones sobre la Cañada de la Cruz (N 58° 31′ E / N 31° 29′ O; 320 [?], 333,81 [?], 600 m)"
+    ],
+    [
+     "a-b-c-d-e-f",
+     "Cuadrilátero sobre la cañada (N 58° 31′ E; N 45° 20′ E 475 [?]): ¿exclusión o quinta?"
+    ],
+    [
+     "Aguas",
+     "Cañada de la Cruz (SE); arroyo del Sauce (cruza); arroyo de Vera (esquinero C)"
+    ],
+    [
+     "Puestos",
+     "La Bonita · el Ombú · el Pescador"
+    ],
+    [
+     "Superficie",
+     "8.596.127 m² = 509 cuadras² 10.552 v² (≈ 859,6 ha)"
+    ],
+    [
+     "Del otro lado",
+     "Cañada de A. Quevedo (cf. 049, 051, 073, 087)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle NO: el arroyo de Vera y los linderos Aguirre y Vera",
+   "img": "img/f/097/03.jpg",
+   "fuente": "IMG_7465.JPG (girada 90°)",
+   "orientacion": "",
+   "interpretacion": "El esquinero D, el mojón C sobre el arroyo de Vera, las progresivas del lado B-C, el rótulo de la superficie y los puestos del Ombú y la Bonita.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle E: el esquinero B y la Cañada de la Cruz",
+   "img": "img/f/097/04.jpg",
+   "fuente": "IMG_7466.JPG (girada 90°)",
+   "orientacion": "",
+   "interpretacion": "El esquinero B entre las dos partes de la testamentaría, el puesto del Pescador, el arroyo del Sauce y la quebrada de mojones sobre la Cañada de la Cruz frente a la Cañada de A. Quevedo.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "La tercera mensura del campo tormy",
+   "texto": "El campo de Gerónimo Tormy sobre la Cañada de la Cruz se midió en 1855 (079, Aispurúa: 3191 × ≈ 9000 v, ≈ 2150 ha) y en 1860 (080, Pico). Muerto Tormy, Iparraguirre midió en noviembre de 1876 una fracción de 818,85 ha de la testamentaría (081) y en agosto de 1879 esta otra de 859,6 ha, linderas de nuevas «T.ia de Gerónimo Tormy». Es la partición en curso de la herencia: con 079-081 y 097 se puede reconstruir en el GIS cómo se fue cortando el rectángulo de 1855."
+  },
+  {
+   "titulo": "Superficie en cuadras",
+   "texto": "La superficie se da en metros y en «cuadras cuadradas y varas cuadradas» (509 c² + 10.552 v²): la cuadra de 150 varas, unidad de las chacras y del mercado de tierras, aparece aquí junto al metro en un plano de 1879. La conversión implica ≈ 0,866 m por vara."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "Tres puestos con nombre propio —la Bonita, el Ombú, el Pescador—, que nombran el lugar por un árbol, por una actividad (la pesca en la cañada o el arroyo) o por un apodo. Dos cursos interiores, el arroyo del Sauce (la «Cañada del Sauce» de 079) y el arroyo de Vera, que toma el nombre del vecino Bruno Vera. La Cañada de la Cruz no es una línea sino una franja de bañado que el agrimensor bordea con una quebrada de mojones."
+  },
+  {
+   "titulo": "Una carpeta con hojas ajenas",
+   "texto": "Las tomas IMG_7461 e IMG_7462 de la Carpeta 97 son idénticas (mismo archivo) a las del plano de Ruperto Botana de la Carpeta 96: fotos repetidas al ordenar las carpetas, no un plano del duplicado 97."
+  },
+  {
+   "titulo": "Lecturas dudosas y preguntas abiertas",
+   "texto": "Varias cifras están escritas en sentido inverso y la toma es oblicua: los largos A-B (2397 [?]) y D-E (3472,47 [?]), el rumbo B-C (S 58° 28′ O [?]) y las medidas de la quebrada sobre la cañada deben verificarse con el original. ¿Qué es el cuadrilátero a-b-c-d-e-f? ¿Quiénes heredaron cada parte? No hay variación anotada. Falta todo el texto."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Gerónimo Tormy (Torny)",
+   "rol": "Causante",
+   "texto": "Propietario del gran campo sobre la Cañada de la Cruz medido en 1855 y 1860 (079, 080); fallecido antes de 1876 (081). Lindero de Juan O'Brien (090) y de Scully (069). Búsquedas web anteriores sin datos.",
+   "fuentes": "Fichas 069, 079, 080, 081, 090."
+  },
+  {
+   "nombre": "Mariano Iparraguirre",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor que firma «Ybarraguirre» o «Iparraguirre»; en el corpus desde 1870 (056, 058) y autor de la mensura de 1876 de la misma testamentaría (081). Búsquedas web anteriores sin datos.",
+   "fuentes": "Fichas 056, 058, 081."
+  },
+  {
+   "nombre": "Salvador Castro · Gregorio Aguirre · Bruno Vera",
+   "rol": "Linderos so y no",
+   "texto": "Nuevos en el corpus como linderos de Tormy. El arroyo de Vera lleva el apellido de Bruno Vera.",
+   "fuentes": "Dup. 97."
+  },
+  {
+   "nombre": "A. Quevedo",
+   "rol": "Lindero, al otro lado de la cañada",
+   "texto": "Familia Quevedo, con varias piezas sobre la Cañada de la Cruz (049, 051, 073, 087).",
+   "fuentes": "Fichas 049, 051, 073, 087."
+  }
+ ],
+ "titulo": "Testamentaría de Gerónimo Tormy",
+ "estado": "Transcripta (1 hojas, 20 renglones), 3 láminas"
+}

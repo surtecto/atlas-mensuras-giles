@@ -1,0 +1,269 @@
+{
+ "carpeta": "95",
+ "carpeta_nombre": "Carpeta 95",
+ "archivo": "Ficha 095 - Solano Lezcano y otros (1878).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (S del pueblo, arroyo de Noriega)",
+  "N.º de duplicado": "95 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Solano Lezcano y otros",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1878 (aprobada 1879)",
+  "Fecha de la diligencia": "1878; auto de aprobación s. f.; «agréguese» 1/7/1879",
+  "Ubicación": "Al N de Ojuez y del campo Nugent, entre Quiroga/Galeano y F. Lezcano",
+  "Orden judicial": "Aprobada por el juez Virgilio M. Tedín [?]",
+  "Vendedor / antecesor": "Herencia Lezcano (¿test.ª de Francisco Lescano?) [?]",
+  "Linderos citados": "M. V. de Quiroga · C. Galeano · F. Lezcano · Nugent · Molloy · Ojuez · Díaz de Vivar",
+  "Medidas": "A-B 6870 m (7933 v) · B-C 1197,21 m · polígono ≈ 484 ha (cálculo)",
+  "Rumbos": "N 30° 57′ O · N 30° 24′ O · N 63° 1′ E · S 59° 8′ O · S 10° 52′ O",
+  "Referencia de archivo": "Duplicado 95; diligencia fs. 1-16 [?]; informe f. 18 v. [?]"
+ },
+ "metricas": {
+  "superficie_ha": "484 [cálculo]",
+  "hitos": "Población de Ojuez; estancia; población de Quiroga",
+  "aguas": "Arroyo de Noriega"
+ },
+ "sintesis": "Carátula, último folio (auto de aprobación y decreto del 1/7/1879) y plano. Carlos Schuster mide y divide en 1878 el campo de «Solano Lezcano y otros» al S del pueblo, cortado por el arroyo de Noriega: una faja de 6870 m (≈ 7933 v) para Solano y, al E del campo de Ceferino Ojuez (094), seis hijuelas paralelas para Anacleto, Manuela N. de, Faustino, Bailona L. de Ojuez, Félix y Mercedes Lezcano. Las hijuelas acortadas por el arroyo se ensanchan hasta superficies casi iguales (≈ 41 ha). Polígono ≈ 484 ha (cálculo). Linderos: M. V. de Quiroga y C. Galeano (N), her. de Díaz de Vivar (O), F. Lezcano (E), los Nugent y M.ª N. de Molloy (S). Aprueba el juez, probablemente Virgilio M. Tedín.",
+ "caratula": {
+  "img": "img/f/095/01.jpg",
+  "fuente": "IMG_7455.JPG",
+  "campos": [
+   [
+    "N.º",
+    "95"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Solano Lezcano y otros"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1878"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Último folio: auto judicial de aprobación",
+   "img": "img/f/095/06.jpg",
+   "fuente": "IMG_7456 (parte superior)",
+   "nota": "Folio plegado sobre el plano, fotografiado de costado y con poca luz: lectura difícil, muchas palabras reconstruidas por la fórmula habitual de los autos (cf. 045, 091). Falta el comienzo («…informe de f. …»). Abajo, otra mano y otra tinta: el decreto del Departamento de Ingenieros.",
+   "lineas": [
+    "[...] informe de f.^{s} 18 [?] v.^{ta}, se aprueba",
+    "en cuanto ha lugar por derecho",
+    "la mensura practicada por",
+    "el Agrimensor Público Don Carlos",
+    "Schuster, corriente de f.^{s} 1 [?] á f.^{s} 16 [?],",
+    "á la cual el Juzgado interpone",
+    "para su mayor validez la autori-",
+    "dad que inviste — por medio",
+    "de este auto del que se hará sa-",
+    "ber al Departamento de Inge-",
+    "nieros por medio de oficio,",
+    "dando también testimonio",
+    "de él á los interesados que lo",
+    "solicitaren. Repuestos los sellos,",
+    "anótese [?] la presente foja, hasta [?]",
+    "las satisfechas las costas, ar-",
+    "chívese el expediente. — Virgilio",
+    "M. Tedín [?] — Ante mí: Manuel Sal-",
+    "vareza [?]",
+    "[firmas:] Virgilio M. Tedín [?]   ·   [rúbrica del actuario]",
+    "[al pie, otra mano:] Julio 1.º de 1879 — Agréguese al duplicado correspondiente. — Lavalle [?]"
+   ],
+   "interpretacion": "Auto del juez de primera instancia: visto el informe del Departamento (f. 18 v. [?]), «se aprueba en cuanto ha lugar por derecho la mensura practicada por el Agrimensor Público D. Carlos Schuster», que corre de f. 1 a f. 16 [?]; el juzgado interpone su autoridad «para su mayor validez», ordena avisar al Departamento de Ingenieros por oficio, dar testimonio a los interesados y, repuestos los sellos y pagadas las costas, archivar el expediente. Firma, probablemente, el juez Virgilio M. Tedín; ante el actuario (Manuel Sal…). Al pie, el decreto de oficina del 1.º de julio de 1879, «Agréguese al duplicado correspondiente», con firma que parece «Lavalle» (el mismo trámite de 045 y siguientes). Es la única hoja de texto de la carpeta: la diligencia de Schuster (fs. 1-16) no fue fotografiada."
+  },
+  {
+   "titulo": "Rótulos y cifras del plano de Schuster",
+   "img": "img/f/095/05.jpg",
+   "fuente": "IMG_7456 a IMG_7459",
+   "nota": "Vista general (7456) y tres detalles (7457 desde el O, 7458 al revés —rot 180— en el centro, 7459 al E). Las cifras chicas junto a las letras son progresivas o anchos; entre corchetes, las dudosas. El cuarto renglón de la cuenta (G-U) contradice la suma de los anchos.",
+   "lineas": [
+    "[al N:] Maria V. de Quiroga [signo de población]   ·   Cipriano Galeano [«Galeano», mojón a 4687]",
+    "[al O, vertical:] Herd.^{s} de P. Diaz de Vivar   ·   [al E, vertical:] F. Lezcano",
+    "SOLANO LEZCANO   ·   [A-B:] N. 30° 57′ O.   6870^{m}",
+    "[progresivas A-B:] 674 [?] · 2010^{m} · 3265 · 4000 · 4687 · 5620 · 6870",
+    "[A-H:] S. 59° 8′ O. 303^{m},10   ·   [H-G:] S. 30° 57′ E. 3425^{m},896",
+    "[dentro de la faja:] P.º [?] Ojuez [signo de población]   ·   C. Navarro [a ≈ 5620]",
+    "Ar. de Noriega [cruza la faja de Solano y la cabecera de las hijuelas]",
+    "Ceferino Ojuez [faja sin colorear al S de H-G]   ·   [G-F:] S. 59° 8′ O. 372^{m},38",
+    "[sobre G-F:] G · 372,38 [?] · U · 182,98 · T · 40,40 [?] · S · 44,44 [?] · F",
+    "[F-E:] S. 30° 57′ E. 293^{m}   ·   [E-R:] 153 [?]   ·   [R-Q:] 861,92 [?]",
+    "[Q-P:] 464^{m},86   ·   [P-D:] 238^{m},45   ·   [rumbo:] S. 10° 52′ O.   ·   1623^{m} [?]",
+    "[divisorias:] N 30° 57′ O (U, T, S)   ·   N 30° 24′ O (R, Q, P)",
+    "ANACLETO LEZCANO   ·   MANUELA N. DE LEZCANO   ·   FAUSTINO LEZCANO",
+    "BAILONA LEZCANO DE OJUEZ   ·   FELIX LEZCANO   ·   MERCEDES LEZCANO",
+    "[en la faja de Bailona/Félix:] Est.^{a} [estancia, signo de población]",
+    "[largos:] 3412^{m},15 · 3405,17 · 3402,70 · 2872,72 · 2763,72 · 2642,23",
+    "[B-C:] N. 63° 1′ E. 1197^{m},21   ·   B · 493,15 J · 596,05 K · 632,47 L · 746,49 M",
+    "889,955 N · 1039,47 O · 1197,21 C",
+    "[D-C:] S. 30° 24′ E. 2515^{m}   ·   [progresivas:] 865 · 1127,15 · 1732 · 1971,44 · 2515",
+    "[al S:] Ana Nugent · Francisco Nugent · Ana y Catalina Nugent · M.^{a} N. de Molloy",
+    "[firma:] Carlos Schuster   ·   [flecha de la variación, sin cifra legible]"
+   ],
+   "interpretacion": "Plano de mensura y división del campo de los Lezcano. La faja N es la de SOLANO LEZCANO, A-B de 6870 m (= 7933 varas: el fondo de 7900 v de los títulos de la merced de Vivar) por 303,10 m (350 v) al O y 493,15 m al E; bajo su mitad O corre la faja de Ceferino Ojuez (la de 094, sin colorear). Al E de G, entre la línea G-F, el lado oblicuo E-R-Q-P-D que sigue el arroyo de Noriega y la cabecera B-C (N 63° 1′ E, 1197,21 m), Schuster tira seis fajas paralelas para Anacleto, Manuela N. de Lezcano, Faustino, Bailona Lezcano de Ojuez, Félix y Mercedes Lezcano, con sus largos y anchos. Mi cálculo da ≈ 484 ha para el polígono, de las que ≈ 274 son de Solano y ≈ 35-42 de cada uno de los demás (Manuela, 12). Linderos: María V. de Quiroga y Cipriano Galeano (N), herederos de Pedro Díaz de Vivar (O), F. Lezcano (E), los Nugent y M.ª N. de Molloy (S). Hay una estancia (Est.ª) en la faja de Bailona/Félix y una población de Ojuez dentro de la de Solano."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la mensura y división del campo de Solano Lezcano y otros (Schuster, 1878)",
+   "img": "img/f/095/02.jpg",
+   "fuente": "IMG_7456.JPG",
+   "orientacion": "Pliego apaisado (debajo del auto plegado), marco de doble filete; el O a la izquierda, con flecha diagonal de la variación; superficie de los Lezcano en verde agua; el campo de Ojuez en blanco; firma de Carlos Schuster abajo a la izquierda.",
+   "interpretacion": "Vista general: la faja de Solano de punta a punta (6870 m) y, al E del campo de Ojuez, el haz de seis hijuelas cortado en diagonal por el arroyo de Noriega.",
+   "referencias": [
+    [
+     "A-B",
+     "N 30° 57′ O · 6870 m (7933 v) · lado N, contra M. V. de Quiroga y Cipriano Galeano"
+    ],
+    [
+     "A-H",
+     "S 59° 8′ O · 303,10 m (350 v) · cabecera O, contra los her. de P. Díaz de Vivar"
+    ],
+    [
+     "H-G",
+     "S 30° 57′ E · 3425,896 m · contra Ceferino Ojuez (094)"
+    ],
+    [
+     "G-U-T-S-F",
+     "S 59° 8′ O · 372,38 m · cabecera E de Ojuez; arranque de las hijuelas"
+    ],
+    [
+     "F-E",
+     "S 30° 57′ E · 293 m"
+    ],
+    [
+     "E-R-Q-P-D",
+     "Línea quebrada sobre el arroyo de Noriega (S 10° 52′ O; 153 [?] · 861,92 [?] · 464,86 · 238,45)"
+    ],
+    [
+     "D-C",
+     "S 30° 24′ E · 2515 m · contra los Nugent y M.ª N. de Molloy"
+    ],
+    [
+     "B-C",
+     "N 63° 1′ E · 1197,21 m · cabecera E, contra F. Lezcano; mojones J-O"
+    ],
+    [
+     "Hijuelas",
+     "Solano · Anacleto · Manuela N. · Faustino · Bailona L. de Ojuez · Félix · Mercedes"
+    ],
+    [
+     "Edificios",
+     "P.º [?] Ojuez (población) · Est.ª (estancia) · C. Navarro [?] · población de Quiroga"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle O: la cabecera A-H y el campo de Ojuez",
+   "img": "img/f/095/03.jpg",
+   "fuente": "IMG_7457.JPG",
+   "orientacion": "",
+   "interpretacion": "La cabecera O (303,10 m) contra los herederos de Díaz de Vivar, la faja de Solano con la población de Ojuez y el arroyo de Noriega; debajo, Ceferino Ojuez con su lado N S 30° 57′ E 3425,896 m.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle central: el arroyo de Noriega y el arranque de las hijuelas",
+   "img": "img/f/095/04.jpg",
+   "fuente": "IMG_7458.JPG (girada 180°)",
+   "orientacion": "",
+   "interpretacion": "Los mojones G, U, T, S, F, E, R, Q, P y D, la línea quebrada sobre el arroyo de Noriega, la estancia y los rumbos de las divisorias (N 30° 57′ O y N 30° 24′ O).",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle E: cabecera B-C y las seis hijuelas",
+   "img": "img/f/095/05.jpg",
+   "fuente": "IMG_7459.JPG",
+   "orientacion": "",
+   "interpretacion": "La cabecera E (N 63° 1′ E, 1197,21 m) con las progresivas de J a C, los largos de cada hijuela y los linderos S: Francisco, Ana y Catalina Nugent y M.ª N. de Molloy.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Una partición en fajas desiguales que busca superficies iguales",
+   "texto": "Las hijuelas de Bailona, Félix y Mercedes —más cortas porque el arroyo de Noriega les come la cabecera O— resultan más anchas (143,5, 149,5 y 157,7 m) y casi iguales en superficie (≈ 41,2, 41,3 y 41,7 ha, cálculo aproximado); Faustino tiene ≈ 38,8 ha y Anacleto ≈ 35,1 + Manuela ≈ 12,4. Schuster compensa el largo con el ancho para igualar partes. Solano, en cambio, recibe una faja entera de 6870 m (≈ 274 ha): o es la parte de un heredero principal, o suma compras."
+  },
+  {
+   "titulo": "Lezcano / lescano: el mismo linaje, otra generación",
+   "texto": "En 1866 (045) los hijos de Francisco Lescano eran Gerónima, Hilaria, Francisco, Pascual, Alejandro y Solano. En 1878 aparecen Solano otra vez y una generación nueva: Anacleto, Faustino, Bailona, Félix, Mercedes y Manuela N. de Lezcano (¿viuda de Pascual o de Alejandro?). El fondo de 6870 m ≈ 7933 v repite las 7900 varas de 045. Pero los rumbos no son los de 045 (N 52° O corregidos) sino los de 068 (N 30° 57′ O): o este es OTRO campo Lescano —el comprado con Oyuez en Noriega (039)—, o 045 y 095 usan rumbos con distinta corrección. Hay que resolverlo en el GIS con el campo Nugent (068) como pivote."
+  },
+  {
+   "titulo": "Linderos que corrigen lecturas anteriores",
+   "texto": "La «María Nugent de Melloy [?]» de 068 es aquí, con letra de molde, «M.ª N. de Molloy» (cf. el puesto de Cristóbal Molloy en las visuales de otras fichas). «F. Lezcano» al E sería Félix o Francisco hijo. «Cipriano Galeano» al N enlaza con la familia Galeano (034, 048)."
+  },
+  {
+   "titulo": "Ritual y trámite",
+   "texto": "Sólo sobrevive el final del expediente: el auto de aprobación en papel plegado y el decreto «Agréguese al duplicado correspondiente» del 1/7/1879. El juez interpone «la autoridad que inviste para su mayor validez», la misma fórmula de 045 (1869) y 091 (1879). Del ritual en el campo (citación, linderos presentes, mojones) no queda nada fotografiado."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "Tres poblaciones: la de María V. de Quiroga al N, la de Ojuez dentro de la faja de Solano y una estancia en las hijuelas centrales; un sitio rotulado «C. Navarro» [?] sobre la línea N. El arroyo de Noriega es el gran organizador: corta la faja de Solano y define con su curso la línea quebrada E-R-Q-P-D."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Cuál es exactamente el título (045 o 039)? ¿Qué indica el 372,38 junto a G-U? ¿Quién es C. Navarro? Leer en el expediente la diligencia de fs. 1-16 y el informe de f. 18 v. Confirmar el nombre del juez (Tedín) y del actuario."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Solano Lezcano (Lescano)",
+   "rol": "Propietario principal",
+   "texto": "Hijo de Francisco Lescano; en 1866 recibe la faja NE del campo paterno y tiene «estancia» (045); lindero de los Díaz (059). Aquí encabeza la mensura y conserva la faja más grande.",
+   "fuentes": "Fichas 045, 059."
+  },
+  {
+   "nombre": "Anacleto, Faustino, Félix y Mercedes Lezcano · Manuela N. de Lezcano · Bailona Lezcano de Ojuez",
+   "rol": "Adjudicatarios",
+   "texto": "Nueva generación de la familia. Félix Lezcano es lindero de los Nugent (068) y de los her. de Pastor Frías (082). Bailona está casada con Ceferino Ojuez (094). Una búsqueda web breve no dio datos sobre la familia.",
+   "fuentes": "Fichas 068, 082, 094."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Ver 094; mide en 1878 los dos campos contiguos.",
+   "fuentes": "Ficha 094."
+  },
+  {
+   "nombre": "Virgilio M. Tedín [?]",
+   "rol": "Juez de primera instancia",
+   "texto": "La firma se lee «Virgilio M. Tedín» con dudas. Si es él, se trata del jurista porteño que fue juez civil en Buenos Aires en esos años y más tarde llegó a la Corte Suprema de la Nación (dato de conocimiento general; la búsqueda web de esta sesión no dio una fuente útil).",
+   "fuentes": "Dup. 95, auto; búsqueda web sin resultados útiles."
+  },
+  {
+   "nombre": "María V. de Quiroga · Cipriano Galeano · los Nugent · M.ª N. de Molloy",
+   "rol": "Linderos",
+   "texto": "Quiroga y Galeano por el N (familias con antecedentes en 013, 024, 034, 048); los Nugent y Molloy por el S (068).",
+   "fuentes": "Fichas 013, 024, 034, 048, 068."
+  }
+ ],
+ "titulo": "Solano Lezcano y otros",
+ "estado": "Transcripta (2 hojas, 42 renglones), 4 láminas"
+}

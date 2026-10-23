@@ -1,0 +1,194 @@
+{
+ "carpeta": "96",
+ "carpeta_nombre": "Carpeta 96",
+ "archivo": "Ficha 096 - Ruperto Botana (c. 1879).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (bloque Casco–Saraví–Andrade)",
+  "N.º de duplicado": "96 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Ruperto Botana",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "s. f. [c. 1878-79]",
+  "Fecha de la diligencia": "Sin fecha (carátula en blanco); var. 11° 49′ → c. 1878-79 [?]",
+  "Ubicación": "Entre Petrona A. de Andrade, Mezquita, Julio Saraví e Ignacio Casco",
+  "Orden judicial": "No fotografiada",
+  "Vendedor / antecesor": "No consta (texto no fotografiado)",
+  "Linderos citados": "Petrona A. de Andrade · Dr. M. Mezquita · Julio Saraví · I. Casco · P. A. de Andrade",
+  "Medidas": "Rectángulo 2598 × 1258,625 m (3000 × 1453,4 v) = 3.269.908 m² (≈ 327 ha)",
+  "Rumbos": "N 42° 47′ E / S 42° 47′ O · S 47° 13′ E / N 47° 13′ O; var. 11° 49′ NE",
+  "Referencia de archivo": "Duplicado 96 (las tomas 7461-7462 están repetidas en la Carpeta 97)"
+ },
+ "metricas": {
+  "superficie_ha": "327",
+  "hitos": "Población de Botana con árboles; dos puestos",
+  "aguas": "Ninguna dibujada"
+ },
+ "sintesis": "Duplicado del que se fotografiaron la carátula (sin fecha) y el plano. Carlos Schuster mide el terreno de Ruperto Botana, un rectángulo de 2598 × 1258,625 m —3000 varas de frente con mojones cada 1000 v—, ≈ 327 ha, con lados N 42° 47′ E y N 47° 13′ O. Linderos: Petrona A. de Andrade (NO), Dr. Marcelino Mezquita (SO), Julio Saraví (SE), Ignacio Casco y P. A. de Andrade (NE): el bloque Casco–Saraví–Andrade al O del arroyo de Giles. Dentro, la población de Botana con árboles y un puesto. Variación 11° 49′ NE, compatible con 1879. Las dos tomas del plano están repetidas en la Carpeta 97.",
+ "caratula": {
+  "img": "img/f/096/01.jpg",
+  "fuente": "IMG_7460.JPG",
+  "campos": [
+   [
+    "N.º",
+    "96"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Ruperto Botana"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "—"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Schuster",
+   "img": "img/f/096/03.jpg",
+   "fuente": "IMG_7461 e IMG_7462",
+   "nota": "Sólo carátula y plano (vista 7461 y detalle 7462). Letras de molde para los nombres, cursiva menuda para cifras; firma «Cárlos Schuster». Entre corchetes, posición o lectura dudosa.",
+   "lineas": [
+    "[al N:] PETRONA A. DE ANDRADE   ·   [junto a la línea, del lado N:] Puesto",
+    "[D-A:] N. 42° 47′ E.   ·   [progresivas:] 866^{m} · 1732^{m} · 2598^{m.s}",
+    "[al O, vertical:] D.^{r} MARCELINO MEZQUITA",
+    "[C-D:] N. 47° 13′ O. = 1258,625 m^{s}   ·   [progresivas desde C:] 91 · 338,0",
+    "D   ·   Pobl.^{n} Botana [signo de árboles y casa]   ·   Puesto. [cerca de A]",
+    "RUPERTO BOTANA",
+    "A   ·   [junto a A:] 53 [?]",
+    "[A-B:] S. 47° 13′ E. 1258,625 m^{s}   ·   [progresiva:] 405,75 [?] [divisoria Casco | Andrade]",
+    "[al E, vertical:] IGNACIO CASCO   ·   P. A. DE ANDRADE",
+    "[B-C:] S. 42° 47′ O.   2598^{m.s}   ·   [progresivas:] 866^{m.s} · 1732",
+    "C   ·   B   ·   [al S:] JULIO SARAVI",
+    "[flecha:] N. V. Var.^{on} 11° 49′ NE",
+    "[escala:] 1000 · 500 · 0 · 1000 · 2000 Metros",
+    "[firma:] Cárlos Schuster"
+   ],
+   "interpretacion": "El plano da un rectángulo perfecto de 2598 × 1258,625 m: el lado largo son 3000 varas exactas (con mojones cada 1000 v = 866 m) y el corto 1453,4 v. Superficie, no rotulada: 3.269.908 m² (≈ 327 ha). Los lados largos corren N 42° 47′ E y los cortos N 47° 13′ O (90° entre sí). Linderos: Petrona A. de Andrade por el NO (lado D-A, con un puesto junto a la línea), el Dr. Marcelino Mezquita por el SO (C-D), Julio Saraví por el SE (B-C) y, por el NE (A-B), Ignacio Casco y P. A. de Andrade, cuya divisoria cae a ≈ 405 m de A. Dentro, la población de Botana con árboles cerca del esquinero D y un puesto cerca de A. Variación 11° 49′ NE."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Ruperto Botana (Schuster, s. f.)",
+   "img": "img/f/096/02.jpg",
+   "fuente": "IMG_7461.JPG",
+   "orientacion": "Plano en papel, marco de doble filete grueso; el NO arriba; flecha de la variación en diagonal (11° 49′ NE); escala gráfica de 1000-0-2000 metros; firma de Carlos Schuster abajo a la derecha. La misma toma está repetida en la Carpeta 97.",
+   "interpretacion": "Rectángulo A-B-C-D con los cuatro linderos en letras de molde, la población de Botana y dos puestos.",
+   "referencias": [
+    [
+     "D-A",
+     "N 42° 47′ E · 2598 m (3000 v) · contra Petrona A. de Andrade; mojones a 866 y 1732 m"
+    ],
+    [
+     "A-B",
+     "S 47° 13′ E · 1258,625 m (1453,4 v) · contra Ignacio Casco y P. A. de Andrade"
+    ],
+    [
+     "B-C",
+     "S 42° 47′ O · 2598 m · contra Julio Saraví; mojones a 866 y 1732 m"
+    ],
+    [
+     "C-D",
+     "N 47° 13′ O · 1258,625 m · contra el Dr. Marcelino Mezquita; marcas a 91 y 338 m"
+    ],
+    [
+     "Edificios",
+     "Población de Botana (con árboles) junto a D · puesto cerca de A · puesto de Andrade al N"
+    ],
+    [
+     "Variación",
+     "11° 49′ NE"
+    ],
+    [
+     "Superficie (cálculo)",
+     "3.269.908 m² (≈ 327 ha); no rotulada"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: rumbos, medidas y la población de Botana",
+   "img": "img/f/096/03.jpg",
+   "fuente": "IMG_7462.JPG",
+   "orientacion": "",
+   "interpretacion": "Los cuatro esquineros con sus rumbos y las progresivas de cada lado; la flecha N. V. con la variación de 11° 49′ NE.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Un rectángulo de 3000 varas en el bloque casco–saraví–andrade",
+   "texto": "Los linderos ubican el campo en el bloque al O del arroyo de Giles que ya conocemos por 005, 033, 046 y 058: Saraví (herederos de Ángela Casco), Ignacio Casco, los Andrade (046: «Andrade y Silva») y el Dr. Marcelino Mezquita (034, 086). El rumbo de los lados cortos (N 47° 13′ O) es casi el de las fajas de 046 y 058 (≈ N 48° O): Botana tiene una fracción cruzada en el fondo de esas suertes. Hay que buscar su lugar en el GIS entre la faja Saraví de 058 y el campo de Mezquita."
+  },
+  {
+   "titulo": "Medidas redondas",
+   "texto": "3000 varas de frente con mojones cada 1000 v y 1453,4 v de fondo: un frente de título y un fondo calculado para dar una superficie (≈ 4.360.000 v²). Sin el texto no sabemos si la superficie viene de una compra en varas cuadradas o de una partición."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "La «Población Botana» se dibuja con un grupo de árboles —monte o quinta— junto al esquinero D; hay un puesto dentro del campo y otro de Petrona A. de Andrade pegado a la línea N. No hay aguas ni caminos dibujados."
+  },
+  {
+   "titulo": "Fecha",
+   "texto": "La carátula no tiene mes ni año. La variación de 11° 49′ NE, la mayor del corpus para Schuster (11° 34′ en septiembre de 1878, 11° 42′ en febrero de 1879 en 089), sugiere 1879 o poco después; el orden de los duplicados (94-95 de 1878, 97 de agosto de 1879) es compatible."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Quién vendió a Botana? ¿Es la «P. A. de Andrade» la misma Petrona A. de Andrade? ¿Qué son las marcas a 91 y 338 m del lado C-D? Falta todo el texto."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Ruperto Botana",
+   "rol": "Propietario",
+   "texto": "Nuevo en el corpus. Tiene población (casa con árboles) dentro del campo. Una búsqueda web breve no dio datos.",
+   "fuentes": "Dup. 96; búsqueda web sin resultados útiles."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Ver 094 y 095.",
+   "fuentes": "Fichas 094, 095."
+  },
+  {
+   "nombre": "Petrona A. de Andrade · P. A. de Andrade",
+   "rol": "Linderos n y e",
+   "texto": "Familia Andrade, lindera de F. A. Casco (046: «Andrade y Silva»). La inicial «A.» puede ser el apellido de soltera.",
+   "fuentes": "Ficha 046."
+  },
+  {
+   "nombre": "Dr. Marcelino Mezquita · Julio Saraví · Ignacio Casco",
+   "rol": "Linderos",
+   "texto": "Mezquita, comprador del sobrante de Sotero Galeano (034) y propietario sobre el arroyo de Giles (086). Julio Saraví, hijo de Ángela Casco (033, 058). Ignacio Casco, hijo de Francisco Antonio Casco (033, 046).",
+   "fuentes": "Fichas 033, 034, 046, 058, 086."
+  }
+ ],
+ "titulo": "Ruperto Botana",
+ "estado": "Transcripta (1 hojas, 14 renglones), 2 láminas"
+}

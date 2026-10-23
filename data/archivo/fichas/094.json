@@ -1,0 +1,185 @@
+{
+ "carpeta": "94",
+ "carpeta_nombre": "Carpeta 94",
+ "archivo": "Ficha 094 - Ceferino Ojuez (1878).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (S del pueblo, arroyo de Noriega)",
+  "N.º de duplicado": "94 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Ceferino Ojuez",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1878",
+  "Fecha de la diligencia": "Septiembre de 1878 (carátula)",
+  "Ubicación": "Entre los Lezcano (N) y el campo Nugent (S), sobre el arroyo de Noriega",
+  "Orden judicial": "No fotografiada",
+  "Vendedor / antecesor": "No consta; ¿por su mujer Bailona Lezcano? (ver 095) [?]",
+  "Linderos citados": "Test.ª F. Lescano · Test.ª P. Díaz de Vivar · L. Kelly · C. y A. Nugent · P. Lynch",
+  "Medidas": "Rectángulo 3425,896 × 372,38 m (3956 × 430 v) = 1.275.735 m² (≈ 127,6 ha)",
+  "Rumbos": "N 30° 57′ O / S 30° 57′ E · N 59° 8′ E / S 59° 8′ O; var. 11° 34′ NE",
+  "Referencia de archivo": "Duplicado 94"
+ },
+ "metricas": {
+  "superficie_ha": "127,6",
+  "hitos": "Ninguno; esquinas sobre el arroyo de Noriega",
+  "aguas": "Arroyo de Noriega; cauce sin nombre"
+ },
+ "sintesis": "Duplicado del que se fotografiaron la carátula (septiembre de 1878) y el plano. Carlos Schuster mide para Ceferino Ojuez (la carátula escribe «Oyuez») una faja de 3425,896 × 372,38 m —3956 × 430 varas, ≈ 127,6 ha— orientada N 30° 57′ O, entre la testamentaría de Francisco Lescano (N), la de Pedro Díaz de Vivar (O) y cuatro piezas del campo Nugent (S): Luisa Kelly, Catalina Nugent, Patricio Lynch y Ana Nugent. El arroyo de Noriega corta la esquina NE. La faja reaparece sin colorear en el plano de los Lezcano (095), donde una hijuela es de «Bailona Lezcano de Ojuez»: Ojuez entra al campo por alianza con los Lezcano. Variación 11° 34′ NE.",
+ "caratula": {
+  "img": "img/f/094/01.jpg",
+  "fuente": "IMG_7453.JPG",
+  "campos": [
+   [
+    "N.º",
+    "94"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Don Ceferino Oyuez [Ojuez]"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "Setiembre"
+   ],
+   [
+    "Año",
+    "1878."
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Schuster",
+   "img": "img/f/094/02.jpg",
+   "fuente": "IMG_7454",
+   "nota": "Sólo hay carátula y plano. Pliego apaisado con marco de filete grueso; debajo asoma otro pliego (¿el texto?). La carátula escribe «Oyuez»; el plano, «Ojuez». Entre corchetes, lecturas dudosas o rótulos de posición.",
+   "lineas": [
+    "[al O, vertical:] Test.^{a} de Pedro Diaz de Vivar.",
+    "[escala:] Escala de Metros [0-500]   ·   [firma:] Carlos Schuster",
+    "[al N:] Testamentaria de Francisco Lescano   ·   [encima, letra menuda:] Ojuez",
+    "[línea de trazos paralela al lado N, dentro del campo Lescano]",
+    "[lado N:] S. 30° 57′ E.   3425,896^{m}",
+    "CEFERINO OJUEZ",
+    "[lado S:] N. 30° 57′ O.   3425,896^{m}",
+    "[cabecera O:] N. 59° 8′ E. 372,38   ·   [cabecera E:] S. 59° 8′ O. 372,38^{m}",
+    "[progresivas del lado S:] 1083,75 · 2067,50 · 3101,25 · 3425,896",
+    "[curso de agua sin nombre cruza la faja a ≈ 1080 m del extremo O]",
+    "Ar. Noriega [cruza la esquina NE]",
+    "[al S:] Luisa Kelly · Catalina Nugent · Patricio Lynch · Ana Nugent",
+    "[flecha:] Var. 11° 34′ NE."
+   ],
+   "interpretacion": "El plano da un rectángulo largo y angosto, de 3425,896 × 372,38 m —exactamente 3956 × 430 varas, 1.275.735 m² (≈ 127,6 ha; la superficie no está rotulada)—, orientado NO-SE como todas las fajas del rincón Noriega–Lescano. Por el N linda con la testamentaría de Francisco Lescano, y encima del rótulo alguien escribió «Ojuez»: el lindero N está pasando a la familia del medido (ver 095, donde Bailona Lezcano de Ojuez recibe una hijuela). Por el O, la testamentaría de Pedro Díaz de Vivar (las «sobras de Vivar» de 039 y 045). Por el S, cuatro piezas del campo Nugent con sus progresivas: Luisa Kelly (0-1083,75), Catalina Nugent (hasta 2067,50), Patricio Lynch (hasta 3101,25) y Ana Nugent. El arroyo de Noriega corta la esquina NE y otro curso sin nombre cruza la faja cerca del extremo O."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Ceferino Ojuez (Schuster, septiembre de 1878)",
+   "img": "img/f/094/02.jpg",
+   "fuente": "IMG_7454.JPG",
+   "orientacion": "Pliego apaisado, marco de filete grueso; el O a la izquierda; flecha de la variación en diagonal (11° 34′ NE); escala de metros vertical a la izquierda; firma de Carlos Schuster.",
+   "interpretacion": "Faja sombreada de Ceferino Ojuez entre los Lescano (N) y los Nugent (S). Las divisiones del lado S coinciden con las hijuelas del campo Nugent de 1875 (068): el tramo Lynch mide 1033,75 m, el ancho de las fajas O de 068.",
+   "referencias": [
+    [
+     "Lado N",
+     "S 30° 57′ E · 3425,896 m · contra la test.ª de Francisco Lescano («Ojuez» encima)"
+    ],
+    [
+     "Lado S",
+     "N 30° 57′ O · 3425,896 m · contra Kelly, C. Nugent, Lynch y A. Nugent"
+    ],
+    [
+     "Cabeceras",
+     "N 59° 8′ E y S 59° 8′ O · 372,38 m (430 v) cada una"
+    ],
+    [
+     "Progresivas S",
+     "1083,75 · 2067,50 · 3101,25 · 3425,896 m"
+    ],
+    [
+     "Aguas",
+     "Arroyo de Noriega en la esquina NE; curso sin nombre cerca del extremo O"
+    ],
+    [
+     "Variación",
+     "11° 34′ NE"
+    ],
+    [
+     "Superficie (cálculo)",
+     "1.275.735 m² = 1.701.080 v² (≈ 127,6 ha); no rotulada"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Una faja de 430 varas en la trama de 068 y 095",
+   "texto": "El campo de Ojuez es una pieza de 430 × 3956 varas metida entre el campo Lescano (095) y el campo Nugent (068). Con 068 (Ceferino Oyuez lindero NO de los Nugent en 1875) y 095 (la misma faja dibujada sin colorear al S de Solano Lezcano, con idénticos rumbos y medidas) ya se la puede ubicar sin ambigüedad en el GIS: su lado N es la línea H-G de 095 y su lado S, el frente N de las hijuelas Nugent."
+  },
+  {
+   "titulo": "Los nugent ya se están vendiendo",
+   "texto": "En 1875 (068) las siete hijuelas Nugent estaban a nombre de los hermanos. Tres años después dos de los linderos S de Ojuez son Luisa Kelly y Patricio Lynch: o compraron hijuelas, o son cónyuges de hermanas Nugent. El nombre de «María Nugent de Melloy [?]» de 068 se lee en 095 como «M.ª N. de Molloy»."
+  },
+  {
+   "titulo": "Rumbos y variación",
+   "texto": "Largos N 30° 57′ O, como las fajas de 068 (N 30° 57′ O) y de 095: es la misma grilla. Las cabeceras dicen 59° 8′, cuando la perpendicular exacta sería 59° 3′ (068 usa N 59° 3′ E): diferencia de 5′ que tal vez sea un error de copia. Variación 11° 34′ NE (Schuster 1878)."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "Ningún edificio dibujado dentro de la faja; sólo agua: el arroyo de Noriega en la esquina NE y otro cauce que la atraviesa cerca del extremo O. En 095 se ve, dentro del campo de Solano Lezcano y a pocos metros de esta línea, una población rotulada «P.º [?] Ojuez»: la casa de los Ojuez estaba del otro lado del lindero."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Título de Ojuez? ¿Compra a los Lescano (cf. el «Oyuez» comprador en Noriega, 039) o derechos de su mujer? ¿Cuál es el cauce sin nombre del extremo O? Falta todo el texto."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Ceferino Ojuez (Oyuez)",
+   "rol": "Propietario",
+   "texto": "Lindero NO del campo Nugent en 1875 (068). Probablemente casado con Bailona Lezcano, adjudicataria en 095 («Bailona Lezcano de Ojuez»). Un «Oyuez» compra junto con Francisco Lescano en el campo de Noriega (039). Una búsqueda web breve no dio datos.",
+   "fuentes": "Dup. 94; Fichas 039, 068, 095."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor público con larga actuación en el corpus (052, 060, 063, 068, 082, 089 y otras). En septiembre de 1878 mide este campo y, el mismo año, el de los Lezcano (095).",
+   "fuentes": "Fichas del corpus."
+  },
+  {
+   "nombre": "Luisa Kelly · Patricio Lynch · Catalina y Ana Nugent",
+   "rol": "Linderos s",
+   "texto": "Titulares de piezas del campo Nugent (068). Kelly y Lynch son nuevos como dueños en ese campo; los Kelly aparecen en otras fichas (037, 066).",
+   "fuentes": "Fichas 037, 066, 068."
+  },
+  {
+   "nombre": "Test.ª de Francisco Lescano · Test.ª de Pedro Díaz de Vivar",
+   "rol": "Linderos n y o",
+   "texto": "Los Lescano (045, 095); los herederos de Díaz de Vivar, dueños originarios de la merced y de las «sobras» (039, 045).",
+   "fuentes": "Fichas 039, 045, 095."
+  }
+ ],
+ "titulo": "Ceferino Ojuez",
+ "estado": "Transcripta (1 hojas, 13 renglones), 1 lámina"
+}
