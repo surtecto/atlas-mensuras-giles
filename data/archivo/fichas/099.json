@@ -1,0 +1,197 @@
+{
+ "carpeta": "99",
+ "carpeta_nombre": "Carpeta 99",
+ "archivo": "Ficha 099 - Bustos (1879-80).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (rincón SO, cabezadas)",
+  "N.º de duplicado": "99 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Matilde, Susana y Juana J. Bustos",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "s. f. [1879-80]",
+  "Fecha de la diligencia": "Sin fecha en carátula; aprobada en Mercedes el 4/3/1880 (oficio en dup. 100)",
+  "Ubicación": "Entre Maxwell, Pablo Bustos, Mezquita, Butterfill, Avelina Bustos y Carey",
+  "Orden judicial": "Juez Virgilio M. Tedin; aprobación 4/3/1880 (oficio guardado en el dup. 100)",
+  "Vendedor / antecesor": "Partición de la familia Bustos (¿herencia?); texto no fotografiado",
+  "Linderos citados": "José Maxwell · Pablo Bustos · Dr. M. Mezquita · Merced.s de Butterfill · Avelina Bustos · Bernardo Carey",
+  "Medidas": "Tres hijuelas de 167 ha 72 a 35 ca cada una (a lápiz) = 503,17 ha",
+  "Rumbos": "N 43° 50′ E · S 45° 53′ E · N 44° 7′ E · S 45° 20′ E · S 8° 59′ O · N 45° 47′ O; var. 11° 2′ NE",
+  "Referencia de archivo": "Duplicado 99; plano con folio «9.»"
+ },
+ "metricas": {
+  "superficie_ha": "503,2",
+  "hitos": "Ninguno dibujado (mancha de tinta junto a K)",
+  "aguas": "Ninguna dibujada"
+ },
+ "sintesis": "Duplicado del que se fotografiaron la carátula (sin fecha) y el plano, firmado por Carlos Schuster. Reparte un campo de la familia Bustos en tres hijuelas de 167 ha 72 a 35 ca cada una para Juana Josefa (NO), Matilde Flora (centro) y Susana Rufina (NE), con divisorias de rumbo ≈ N 44° E y ≈ S 46° E. Linderos: José Maxwell, Pablo Bustos, el Dr. M. Mezquita, la merced de Butterfill, Avelina Bustos y Bernardo Carey: las cabezadas del arroyo de Giles entre el campo Gutiérrez (084) y Monsalvo (066). La variación 11° 2′ NE es la de 1874 reutilizada; el oficio de aprobación (Mercedes, 4/3/1880), guardado en el dup. 100, la fecha en 1879-80. El rótulo «Bernardo Carey» resuelve la duda «Carry/Carey» de 066.",
+ "caratula": {
+  "img": "img/f/099/01.jpg",
+  "fuente": "IMG_7471.JPG",
+  "campos": [
+   [
+    "N.º",
+    "99"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Matilde Flora, Susana Rufina y Juana Josefa Bustos"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "—"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Schuster",
+   "img": "img/f/099/03.jpg",
+   "fuente": "IMG_7472 e IMG_7473",
+   "nota": "Sólo carátula y plano (vista 7472 y detalle 7473). Nombres de las hijuelas en letras de molde, linderos en cursiva de imprenta, cifras en cursiva menuda; las superficies, a lápiz. Entre corchetes, posición o lectura dudosa.",
+   "lineas": [
+    "[arriba a la derecha:] 9.",
+    "Jose Maxwell   ·   Pablo Bustos   ·   D.^{r} M. Mezquita",
+    "JUANA JOSEFA BUSTOS   ·   [a lápiz:] 167^{h} 72^{a} 35^{c}",
+    "[A-H:] N. 43° 50′ E. 1164^{m}   ·   [A-J:] S. 45° 53′ E. 2159^{m} [?]   ·   1464^{m},87",
+    "[H-G-K:] N. 47° 40′ O. [?] 467^{m}   ·   987,51 [?]   ·   2528^{m} [?]",
+    "[J-K:] N 43° 50′ E. 1152^{m},30   ·   S. 43° 50′ O. 1152^{m},30",
+    "MATILDE FLORA BUSTOS   ·   [a lápiz:] 167^{h} 72^{a} 35^{c}",
+    "[J-B:] 704^{m},43   ·   B   ·   L",
+    "[L-M:] S. 45° 53′ E. 849^{m}   ·   N. 45° 53′ O. 849^{m}",
+    "[K-F:] N. 45° 47′ O. 1540^{m},43   ·   [F-M:] 1028^{m},58 · 2569^{m},5",
+    "SUSANA RUFINA BUSTOS   ·   [a lápiz:] 167-72^{a} 35^{mc}",
+    "[B-C:] N. 44° 7′ E. 1955 · 2081^{m},14   ·   [C-D:] S. 45° 20′ E. 479",
+    "[D-E:] S. 8° 59′ O. 662^{m}   ·   [E-M:] S. 44° 30′ O. 1540^{m},92",
+    "Merced.^{s} de Butterfill   ·   Avelina Bustos   ·   Bernardo Carey",
+    "[meridiano:] Var. 11° 2′ NE.",
+    "[escala:] 1000 · 0 · 1000 · 2000 · 3000 Metros",
+    "[firma:] Cárlos Schuster"
+   ],
+   "interpretacion": "El plano reparte un campo de los Bustos en tres hijuelas de igual superficie —167 ha 72 a 35 ca cada una, anotadas a lápiz— para Juana Josefa, Matilde Flora y Susana Rufina. Las tres forman una especie de «W»: Juana Josefa al NO (A-H-G-K-J: 1164 m contra José Maxwell, 1464,87 m contra Pablo Bustos), Matilde Flora en el centro, más al S (K-J-B-L-M-F: 1152,30 m contra Juana, 849 m contra Susana, 1540,43 m contra Bernardo Carey y 2569,5 m contra Avelina Bustos) y Susana Rufina al NE (B-C-D-E-M: 2081,14 m contra Pablo Bustos, 479 m contra el Dr. Mezquita, 662 m contra la merced de Butterfill y 1540,92 m contra Avelina Bustos). Los rumbos dominantes son ≈ N 44° E y ≈ S 46° E, la grilla de las cabezadas del rincón SO (084). Variación 11° 2′ NE."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de las hijuelas de Matilde Flora, Susana Rufina y Juana Josefa Bustos (Schuster, s. f.)",
+   "img": "img/f/099/02.jpg",
+   "fuente": "IMG_7472.JPG",
+   "orientacion": "Pliego cosido al expediente (folio «9.»), marco de doble filete grueso; N arriba con la flecha y la variación; escala gráfica de 0-3000 metros abajo; firma de Carlos Schuster abajo a la derecha. Las hijuelas en color pálido.",
+   "interpretacion": "Tres hijuelas iguales entre los vecinos Maxwell, Pablo Bustos, Mezquita, Butterfill, Avelina Bustos y Carey.",
+   "referencias": [
+    [
+     "Juana Josefa",
+     "A-H N 43° 50′ E 1164 m · A-J S 45° 53′ E 1464,87 m · J-K 1152,30 m · K-G-H N 47° 40′ O [?] (467 · 987,51 [?] · 2528 [?])"
+    ],
+    [
+     "Matilde Flora",
+     "K-J 1152,30 · J-B 704,43 · L-M 849 · M-F 2569,5 (1028,58) · F-K N 45° 47′ O 1540,43 m"
+    ],
+    [
+     "Susana Rufina",
+     "B-C N 44° 7′ E 2081,14 · C-D S 45° 20′ E 479 · D-E S 8° 59′ O 662 · E-M S 44° 30′ O 1540,92 m"
+    ],
+    [
+     "Superficie",
+     "167 ha 72 a 35 ca cada hijuela (a lápiz) = 503,17 ha"
+    ],
+    [
+     "Linderos",
+     "José Maxwell (NO) · Pablo Bustos (N) · Dr. M. Mezquita (NE) · Merced.s de Butterfill (E) · Avelina Bustos (SE) · Bernardo Carey (SO)"
+    ],
+    [
+     "Variación",
+     "11° 2′ NE"
+    ],
+    [
+     "Otros",
+     "Mancha de tinta junto a K; folio «9.» en el ángulo"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: las tres hijuelas",
+   "img": "img/f/099/03.jpg",
+   "fuente": "IMG_7473.JPG",
+   "orientacion": "",
+   "interpretacion": "Rumbos, medidas, letras de los vértices y superficies a lápiz de las tres hijuelas.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Una partición en tres partes iguales",
+   "texto": "Las tres hijuelas tienen exactamente la misma superficie (167 ha 72 a 35 ca): es una partición entre hermanas, probablemente una herencia. Avelina y Pablo Bustos, linderos, serían otros herederos con sus propias hijuelas: el campo Bustos completo tendría entonces cinco o más partes. La forma en «W» resulta de igualar superficies con divisorias paralelas sobre un polígono irregular."
+  },
+  {
+   "titulo": "Fecha: 1879-80, no 1874",
+   "texto": "La carátula no tiene mes ni año. La variación 11° 2′ NE es la que Schuster anotó en 066 (1873-74), y por eso se pensó primero en c. 1874. Pero el duplicado 100 (Pablo Bustos, septiembre de 1879) dice que Schuster reutilizó en 1879 la variación tomada en 1874, y guarda el oficio del juez Virgilio M. Tedin (Mercedes, 4 de marzo de 1880) que aprueba la mensura «de un campo perteneciente a Doña Matilde Bustos» (fs. 20-24). Esta mensura es, pues, de 1879-80, contemporánea de la de Pablo Bustos."
+  },
+  {
+   "titulo": "Ubicación: cabezadas del rincón so",
+   "texto": "José Maxwell y Pablo Bustos son linderos E del campo Gutiérrez (084); Bernardo Carey es el «Carry» de 066 y el Carrey de 084, y Butterfill/Butterfield el lindero N de Monsalvo (066) y de Cruz Rodríguez (086); el Dr. Marcelino Mezquita, el de 086 y 096. El campo Bustos queda así entre el campo Gutiérrez y el bloque Monsalvo–Butterfield, en las cabezadas del arroyo de Giles. Con 066, 084 y 086 se puede ubicar en el GIS."
+  },
+  {
+   "titulo": "Carey, no carry",
+   "texto": "El rótulo de imprenta «Bernardo Carey» resuelve la duda de lectura «Carry o Carey» de la Ficha 066 y confirma que los «Carrey» de 084 son la misma familia."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿De quién heredaron los Bustos? ¿Por qué el lado A-J lleva dos cifras (2159 y 1464,87)? ¿Qué son los puntos G y L? Falta todo el texto."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Matilde Flora, Susana Rufina y Juana Josefa Bustos",
+   "rol": "Propietarias",
+   "texto": "Nuevas en el corpus. Reciben tres hijuelas iguales de 167,7 ha; por los nombres dobles y la igualdad de las partes, parecen hermanas en una sucesión. Una búsqueda web breve no dio datos.",
+   "fuentes": "Dup. 99; búsqueda web sin resultados útiles."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor alemán o de origen alemán muy activo en el partido entre 1871 y 1879 (060, 064-066, 068, 082, 084-085, 087, 094-096). Búsquedas web anteriores sin datos biográficos.",
+   "fuentes": "Fichas 060, 066, 084, 094-096."
+  },
+  {
+   "nombre": "Pablo Bustos · Avelina Bustos",
+   "rol": "Linderos n y se",
+   "texto": "Pablo Bustos, lindero de Monsalvo (066) y del campo Gutiérrez (084); su propia mensura (dup. 100, Schuster, sept. 1879) lo muestra heredero en la misma sucesión, lindero de las tres hermanas. Avelina Bustos, otra heredera, lindera también del campo ex Monsalvo de Pablo.",
+   "fuentes": "Fichas 066, 084, 100."
+  },
+  {
+   "nombre": "José Maxwell · Bernardo Carey · Butterfill · Dr. M. Mezquita",
+   "rol": "Linderos",
+   "texto": "Maxwell, lindero E del campo Gutiérrez (084, 085). Bernardo Carey (Carry, Carrey), con estancia y monte en 066 y lindero S en 084. Carlos Butterfield (Butterfill), lindero N de Monsalvo (066) y de 086. Marcelino Mezquita (034, 086, 096).",
+   "fuentes": "Fichas 034, 066, 084-086, 096."
+  }
+ ],
+ "titulo": "Matilde, Susana y Juana J. Bustos",
+ "estado": "Transcripta (1 hojas, 17 renglones), 2 láminas"
+}

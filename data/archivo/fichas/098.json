@@ -1,0 +1,218 @@
+{
+ "carpeta": "98",
+ "carpeta_nombre": "Carpeta 98",
+ "archivo": "Ficha 098 - Salvador Castro (1879).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Cañada de la Cruz, límite E)",
+  "N.º de duplicado": "98 (sin portadilla fotografiada)",
+  "Propietario / solicitante": "Salvador Castro",
+  "Agrimensor": "Mariano Iparraguirre",
+  "Año": "1879",
+  "Fecha de la diligencia": "Plano: Buenos Aires, diciembre de 1879",
+  "Ubicación": "Faja entre la test.ª Tormy y Cucullu, cruzada por el Sauce y la Cañada de la Cruz",
+  "Orden judicial": "No fotografiada",
+  "Vendedor / antecesor": "No consta (texto no fotografiado); ¿familia Castro de 007/030?",
+  "Linderos citados": "Bruno Vera · test.ª Tormy · Manuel Dobarro · Moreno · G. Gaitier [?] · José Lorenzo · Ciriaco Castro · Cucullu",
+  "Medidas": "Faja ≈ 6813,5 × 423,6 m; Sup. 2.885.728 m² = 171 cuadras² 637 [?] v² (≈ 288,6 ha)",
+  "Rumbos": "S 31° 29′ E (NE) · S 58° 29′ O (SE) · N 31° 28′ O [?] (SO); var. N 11° 19′ E [?]",
+  "Referencia de archivo": "Duplicado 98"
+ },
+ "metricas": {
+  "superficie_ha": "288,6",
+  "hitos": "Estancia de S. Castro con arboleda; puesto de Castro",
+  "aguas": "Arroyo del Sauce; Cañada de la Cruz"
+ },
+ "sintesis": "Duplicado del que se fotografiaron la carátula (1879) y el plano, firmado en Buenos Aires en diciembre de 1879 por Mariano Iparraguirre. Mide el campo de Salvador Castro: una faja de ≈ 6813 × 423,6 m (S 31° 29′ E), 2.885.728 m² = 171 cuadras² 637 [?] v² (≈ 288,6 ha), entre la testamentaría de Tormy y Manuel Dobarro (NE) y una faja de José Lorenzo, Ciriaco Castro y Dobarro (SO), con Bruno Vera en la cabecera NO y un «Campo Sobrante» en la SE. La cruzan el arroyo del Sauce, junto a la estancia de Castro, y la Cañada de la Cruz. Su lado NE es el lado SO del plano de Tormy (097): las progresivas coinciden y corrigen la lectura de aquel largo (3672,47 m).",
+ "caratula": {
+  "img": "img/f/098/01.jpg",
+  "fuente": "IMG_7467.JPG",
+  "campos": [
+   [
+    "N.º",
+    "98"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Salvador Castro"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Mariano Iparraguirre"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1879"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos y cifras del plano de Iparraguirre",
+   "img": "img/f/098/03.jpg",
+   "fuente": "IMG_7468 a IMG_7470",
+   "nota": "Sólo carátula y plano (vista 7468 y detalles 7469-7470). El plano está dibujado con el N a la izquierda; muchas cifras van escritas a lo largo de las líneas, algunas al revés. Entre corchetes, posición o lectura dudosa.",
+   "lineas": [
+    "[a la izquierda:] N   ·   [a la derecha:] S   ·   [sobre el meridiano:] V.^{on} N 11° 19′ E. [?]",
+    "[al NO, vertical:] Bruno Vera   ·   A",
+    "[lado NO, desde A:] N 5[8]° [3]1′ E. 4[2]3,8 [?]   ·   [marcas:] 21[?] · 26[?]",
+    "Test.^{ia} de Torny",
+    "[lado NE:] S 31° 29′ E. 3672,47 m^{s}   ·   [progresivas:] 1074,47 · 2373,47 · 2914,47",
+    "Arroyo   ·   Sauce [cruza la faja cerca de A]",
+    "Est.^{ia} de S. Castro [signo de casa con arboleda]",
+    "SALVADOR CASTRO",
+    "Sup.^{e} = 2885728 m.^{os} c.^{os} = 171 c.^{dras} c.^{as} 637 [?] v.^{as} c.^{as}",
+    "Cruz   ·   de la   ·   Cañada   ·   B [mojón en el cruce de la cañada]",
+    "Manuel Dobarro [al NE, después de B]",
+    "[lado NE, desde B:] S 31° 29′ E. 3141 [?]   ·   [progresivas:] 1149 · 1199,5 · 1849 · 1856 · 2498,5",
+    "P.^{to} de Castro [cerca de D]",
+    "Moreno   ·   1",
+    "[lado SE:] S 58° 29′ O. 895,8 m^{s}   ·   [progresivas desde 1:] 86,6 · 229,4 (D) · 230,8 [?] · 345,8 · 654 (E) · 895,8 (G)",
+    "DE = 423,6   ·   EG = 241,8",
+    "Campo Sobrante [entre líneas de trazos]   ·   G. Gaitier [?]",
+    "[faja S:] José Lorenzo   ·   Ciriaco Castro   ·   Manuel Dobarro",
+    "[lado SO de Castro:] N 31° 28′ O. [?]   6800 [?] m^{s}   ·   [progresivas:] 2484 [?] · 3654 [?] · 5679 · 1296 [?]",
+    "Cucullu [al SO de la faja S]",
+    "[escala:] Escala de metros",
+    "B.^{s} Aires Diciembre de 1879   ·   Mariano Iparraguirre"
+   ],
+   "interpretacion": "El plano dibuja una faja larga y angosta de NO a SE: el campo de Salvador Castro, de ≈ 6813 m de largo por 423,6 m de ancho (D-E). El lado NE se mide en dos tramos de rumbo S 31° 29′ E: 3672,47 m desde el esquinero A hasta el mojón B, donde la cruza la Cañada de la Cruz, contra la testamentaría de Tormy, y 3141 [?] m más hasta D, contra Manuel Dobarro (3672,47 + 3141 = 6813,47 m; × 423,6 = 2.886.186 m², casi exactamente la superficie rotulada, 2.885.728 m²). La cabecera SE (S 58° 29′ O) es una línea corrida desde el mojón 1 (Moreno) por D y E hasta G, frente a un «Campo Sobrante» entre trazos y a G. Gaitier [?]. Al SO, una faja paralela de 241,8 m (E-G) repartida entre José Lorenzo, Ciriaco Castro y Manuel Dobarro, y detrás Cucullu. Cerca de A, junto al arroyo del Sauce, la estancia de S. Castro (casa con árboles); cerca de D, un puesto de Castro. Superficie en metros y en cuadras cuadradas, como en 097."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del campo de Salvador Castro (Iparraguirre, diciembre de 1879)",
+   "img": "img/f/098/02.jpg",
+   "fuente": "IMG_7468.JPG",
+   "orientacion": "Pliego apaisado con marco de doble filete; N a la izquierda (flecha) y S a la derecha; faja en color pálido; escala de metros en el ángulo inferior derecho; lugar, fecha y firma junto a la escala.",
+   "interpretacion": "La faja de Castro en diagonal, con la estancia y el puesto, los cruces del arroyo del Sauce y de la Cañada de la Cruz y los vecinos de los cuatro lados.",
+   "referencias": [
+    [
+     "A-B",
+     "S 31° 29′ E · 3672,47 m · contra la test.ª de Tormy; arroyo del Sauce a 1074,47 m"
+    ],
+    [
+     "B-D",
+     "S 31° 29′ E · 3141 [?] m · contra Manuel Dobarro; B en la Cañada de la Cruz"
+    ],
+    [
+     "1-D-E-G",
+     "S 58° 29′ O · 895,8 m · 1-D 229,4 (Dobarro) · D-E 423,6 (Castro) · E-G 241,8 (faja S); frente al Campo Sobrante y G. Gaitier [?]"
+    ],
+    [
+     "Lado SO",
+     "N 31° 28′ O [?] · 6800 [?] m · contra José Lorenzo, Ciriaco Castro y M. Dobarro"
+    ],
+    [
+     "Lado NO",
+     "N 5[8]° [3]1′ E [?] · 42[3],8 [?] m · contra Bruno Vera"
+    ],
+    [
+     "Edificios",
+     "Estancia de S. Castro (casa con arboleda) junto al Sauce · puesto de Castro cerca de D"
+    ],
+    [
+     "Aguas",
+     "Arroyo del Sauce · Cañada de la Cruz"
+    ],
+    [
+     "Superficie",
+     "2.885.728 m² = 171 cuadras² 637 [?] v² (≈ 288,6 ha)"
+    ],
+    [
+     "Variación",
+     "N 11° 19′ E [?]"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle NO: la estancia de Castro y el arroyo del Sauce",
+   "img": "img/f/098/03.jpg",
+   "fuente": "IMG_7469.JPG",
+   "orientacion": "",
+   "interpretacion": "El esquinero A contra Bruno Vera, el rótulo de la superficie, la estancia con su arboleda y el cruce del arroyo del Sauce.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle SE: la cabecera, el puesto y el Campo Sobrante",
+   "img": "img/f/098/04.jpg",
+   "fuente": "IMG_7470.JPG",
+   "orientacion": "",
+   "interpretacion": "La línea 1-D-E-G con sus progresivas, el puesto de Castro, Manuel Dobarro a ambos lados y el camino o campo sobrante entre trazos frente a G. Gaitier [?].",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "El lindero so de la testamentaría tormy",
+   "texto": "Castro es el «Salvador Castro» que Iparraguirre puso cuatro meses antes como lindero SO de la test.ª de Gerónimo Tormy (097, agosto de 1879). El lado NE de esta faja es el lado D-E de aquel plano: las progresivas 1074,47 · 2373,47 · 2914,47 son idénticas en los dos planos, de modo que el largo que en 097 se leyó «3472,47 [?]» debe leerse 3672,47 m. 097 + 098 forman un solo trabajo de Iparraguirre en 1879 sobre la Cañada de la Cruz."
+  },
+  {
+   "titulo": "Una faja de 489 varas",
+   "texto": "423,6 m son ≈ 489 v; el largo, 6813,5 m, ≈ 7868 v. No son números redondos: la faja parece un resto o una partición de una suerte mayor. Junto a ella, la faja de 241,8 m (≈ 279 v) repartida a lo largo entre José Lorenzo, Ciriaco Castro y Manuel Dobarro: el mismo sistema de fajas paralelas al rumbo ≈ N 31° O de las suertes de la Cañada de la Cruz (047, 049-051, 073, 087)."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "La estancia de Salvador Castro está en la cabecera NO, junto al arroyo del Sauce, con casa y arboleda; el puesto en la otra punta, más allá de la Cañada de la Cruz. Es la lógica de casco y puesto que ya vimos en Tormy (097: puestos la Bonita, el Ombú, el Pescador). La cabecera SE da sobre un «Campo Sobrante» dibujado entre dos líneas de trazos (¿un camino?)."
+  },
+  {
+   "titulo": "Superficie en cuadras",
+   "texto": "Como en 097, Iparraguirre da la superficie en m² y en cuadras cuadradas + varas cuadradas. La conversión con 0,866 m/v da 171 c² + ≈ 367 v², no 637: o se leyó mal la cifra o hay un error de pluma."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Es Salvador Castro hijo de Lorenza La Madrid y Juan Castro (007) como Ciriaco (030)? ¿Qué es el «Campo Sobrante» y quién es G. Gaitier [?]? Variación N 11° 19′ E [?]: menor que la de Schuster el mismo año (11° 42′-11° 49′): verificar. Falta todo el texto."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Salvador Castro",
+   "rol": "Propietario",
+   "texto": "Tiene estancia sobre el arroyo del Sauce y puesto más allá de la Cañada de la Cruz; lindero SO de Tormy en 097. Probablemente de la familia Castro–La Madrid (007): Ciriaco Castro, lindero de esta faja, representó en 1861 a su madre Lorenza La Madrid (030). Una búsqueda web breve no dio datos.",
+   "fuentes": "Dup. 98; Fichas 007, 030, 097; búsqueda web sin resultados útiles."
+  },
+  {
+   "nombre": "Mariano Iparraguirre",
+   "rol": "Agrimensor",
+   "texto": "Firma «Ybarraguirre» o «Iparraguirre»; en el corpus desde 1870 (056, 058) y autor de las mensuras de la test.ª Tormy de 1876 y 1879 (081, 097).",
+   "fuentes": "Fichas 056, 058, 081, 097."
+  },
+  {
+   "nombre": "Ciriaco Castro · José Lorenzo · Manuel Dobarro",
+   "rol": "Linderos s y ne",
+   "texto": "Ciriaco Castro aparece en 1861 representando a su madre Lorenza La Madrid y a Juana Sosa (030). Manuel Dobarro es lindero por dos lados en el extremo SE; el apellido Dobarro figura en la lista de apellidos del corpus. José Lorenzo, nuevo.",
+   "fuentes": "Fichas 007, 030; dup. 98."
+  },
+  {
+   "nombre": "Test.ª de Tormy · Bruno Vera · Cucullu · Moreno · G. Gaitier [?]",
+   "rol": "Linderos",
+   "texto": "Tormy: el gran campo de la Cañada de la Cruz (079-081, 097). Bruno Vera: lindero también de 097 (arroyo de Vera). Cucullu: la familia de 033. Moreno y G. Gaitier [?], nuevos.",
+   "fuentes": "Fichas 033, 079-081, 097."
+  }
+ ],
+ "titulo": "Salvador Castro",
+ "estado": "Transcripta (1 hojas, 22 renglones), 3 láminas"
+}

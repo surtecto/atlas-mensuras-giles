@@ -1,0 +1,614 @@
+{
+ "carpeta": "100",
+ "carpeta_nombre": "Carpeta 100",
+ "archivo": "Ficha 100 - Pablo Bustos (1879).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (cabezadas, bloque Monsalvo–Bustos)",
+  "N.º de duplicado": "100",
+  "Propietario / solicitante": "Pablo Bustos",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1879",
+  "Fecha de la diligencia": "Acta: 22 de septiembre de 1879; cargo 19/12/1879",
+  "Ubicación": "Dos campos: ex Francisco Monsalvo (al S) y la hijuela Bustos (al NE)",
+  "Orden judicial": "Juez Virgilio M. Tedin (1.ª Inst. Civil, Depto. del Centro), 14/8/1879",
+  "Vendedor / antecesor": "Hijuela en la sucesión Bustos; F. Monsalvo → J. Agüero (1876) → P. Bustos (1879)",
+  "Linderos citados": "Kelly · Butterfill · J. Monsalvo · A. Acuña · Avelina, Petrona, Susana, Matilde y Juana Bustos · Maxwell · Kenny · Duberly · Mezquita",
+  "Medidas": "412 ha 47 a 58 m² (5.500.000 v²) + 829 ha 84 a (11.065.182 v²) = 1242,3 ha",
+  "Rumbos": "S 80° 42′ E · N 8° 59′ E · N 44° 31′ E · S 45° 33′ E · N 45° 53′ O; var. 11° 2′ NE (de 1874)",
+  "Referencia de archivo": "Duplicado 100; copia en tela 1937 (Geodesia, J. M. Bruno / J. S. Chiappino [?])"
+ },
+ "metricas": {
+  "superficie_ha": "1242,3",
+  "hitos": "Población y estancia de Bustos; puestos; torre de la iglesia de Giles (visual)",
+  "aguas": "Un arroyito en el campo ex Monsalvo"
+ },
+ "sintesis": "Duplicado completo (carátula, portadilla, texto, aprobación y plano con copia de 1937). En septiembre de 1879 Carlos Schuster mide, por orden del juez Virgilio M. Tedin, dos terrenos de Pablo Bustos: un campo de 1000 × 5500 v (412,48 ha) comprado por cesión de José Agüero, quien lo había comprado en 1876 a Francisco Monsalvo, adjudicatario en la testamentaría de Fernando Monsalvo; y su hijuela en la sucesión Bustos (829,84 ha), lindera de Petrona, Avelina, Susana, Matilde y Juana Bustos, Maxwell, Kenny, Duberly y Mezquita. Arrumbamientos a las poblaciones vecinas y a la torre de la iglesia de Giles. Variación de 1874 reutilizada. El duplicado guarda el oficio de aprobación de la mensura de Matilde Bustos (099), de marzo de 1880.",
+ "caratula": {
+  "img": "img/f/100/01.jpg",
+  "fuente": "IMG_9568.JPG",
+  "campos": [
+   [
+    "N.º",
+    "100"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Pablo Bustos"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1879"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: título y estracto de títulos",
+   "img": "img/f/100/05.jpg",
+   "fuente": "IMG_9570 (girada 90°)",
+   "nota": "Texto en cursiva clara de Schuster; la hoja está fotografiada de costado. Las cifras en pesos del estracto son de lectura insegura.",
+   "lineas": [
+    "Mensura de los terrenos de Don Pablo",
+    "Bustos, situados en el Partido de San",
+    "Andres de Giles.",
+    "Estracto.",
+    "Hijuela de Don Pablo Bustos.",
+    "Se le adjudican 184000 [?] $ ^{m}/_{c} por una area de",
+    "once millones cincuenta mil varas cuadradas",
+    "sobre el terreno de Estancia tasado en 6000 [?] $ ^{m}/_{c}",
+    "previniendose que su excedente valor queda a-",
+    "plicado á sus coherederos, Doña Avelina y otros &.",
+    "1876 Agosto 7 Don Francisco Monsalvo por Escritu-",
+    "ra pública promete vender á Don José Agüero un",
+    "terreno de pastoreo de su propiedad en el partido",
+    "de San Andres de Giles compuesto su estension",
+    "de mil varas de frente ó sean ochocientos sesenta",
+    "y seis metros por cinco mil quinientas varas",
+    "de fondo ó sean 4763 metros —",
+    "Marzo 12/879. Don José Agüero cedió á favor de",
+    "Don Pablo Bustos el anterior terreno.",
+    "Julio 24 de 1879. Don José Monsalvo y Doña Juana",
+    "Acuña y Don Francisco Monsalvo, dijeron que en",
+    "los autos testamentarios de Don Fernando Mon-",
+    "salvo fueron adjudicados en condominio á los com-",
+    "parecientes Don Francisco y Don José Monsalvo",
+    "y á un hijo de este llamado Crecencio Mon-",
+    "salvo diez y seis millones quinientas mil varas",
+    "cuadradas de un terreno de pastoreo situado en",
+    "el Partido de Giles, ó sean cinco millones qui-",
+    "nientas mil varas cuadradas á cada uno,",
+    "segun asi aparece del testimonio de su hijuela",
+    "que tuvo el Escribano á la vista, que Don Crecencio",
+    "Monsalvo fallecio intestado y por ante del Señor",
+    "Juez de primera Instancia en lo Civil del De-",
+    "partamento del Centro D.^{r} D. Virgilio M. Tedin"
+   ],
+   "interpretacion": "Encabezamiento y «Estracto» de títulos: la hijuela de Pablo Bustos (≈ 11.050.000 v² en el terreno de estancia de la sucesión, con el excedente de valor aplicado a sus coherederos, «Doña Avelina y otros») y la cadena del segundo terreno: el 7 de agosto de 1876 Francisco Monsalvo promete vender a José Agüero 1000 × 5500 v (866 × 4763 m) de pastoreo; el 12 de marzo de 1879 Agüero cede a Pablo Bustos; el 24 de julio de 1879 José Monsalvo, Juana Acuña y Francisco Monsalvo declaran que en la testamentaría de Fernando Monsalvo se adjudicaron 16.500.000 v² en condominio a Francisco, José y Crecencio Monsalvo (5.500.000 v² cada uno), y que Crecencio murió intestado. Las cifras en pesos de la hijuela son de lectura insegura."
+  },
+  {
+   "titulo": "Folio 1 vuelta: fin del estracto y comienzo de la mensura",
+   "img": "img/f/100/06.jpg",
+   "fuente": "IMG_9571, página izquierda",
+   "nota": "",
+   "lineas": [
+    "fueron declarados sus únicos y universales here-",
+    "deros sus padres los conyuges Don José Mon-",
+    "salvo y Doña Juana Acuña — Queda á Don",
+    "Francisco Monsalvo único y esclusivo pro-",
+    "pietario á mil varas de frente ó sean ocho-",
+    "cientos sesenta y seis metros por cinco mil qui-",
+    "nientas de fondo ó sean cuatro mil setecien-",
+    "tos sesenta y tres metros, ó sea una superfi-",
+    "cie de cinco millones quinientas mil varas",
+    "cuadradas, lindando por el Sud y Oeste con",
+    "Don Patricio Kelly, por el Norte Don Cárlos",
+    "Butterfill y por el Este con Don José Mon-",
+    "salvo —",
+    "1879 Julio 25. Don Francisco Monsalvo da escri-",
+    "tura de propiedad á D. Pablo Bustos como",
+    "cesionario de Don José Agüero del terreno que",
+    "por la anterior escritura le corresponde —",
+    "1879 Agosto 14. Don Pablo Bustos se presenta",
+    "al Señor Juez de primera Instancia propo-",
+    "niendo al Agrimensor inscripto para medir",
+    "los terrenos de su propiedad —",
+    "En la misma fecha el S.^{r} Juez lo ha por nom-",
+    "brado al Agrimensor propuesto y en",
+    "Agosto 18 toma antecedentes del Departa-",
+    "mento de Ingenieros.",
+    "Mensura",
+    "Para dar cumplimiento á la comision",
+    "que me ha conferido el Señor Juez de prime-",
+    "ra Instancia en lo Civil del Departa-",
+    "mento del Centro D.^{r} D. Virgilio M. Te-",
+    "din, segun auto de fecha catorce del",
+    "corriente año, para medir los terrenos de",
+    "la propiedad de Don Pablo Bustos, situa-",
+    "dos en el Partido de San Andres de",
+    "Giles, hecha la publicacion de edictos, co-",
+    "mo consta de los diarios que se acom-"
+   ],
+   "interpretacion": "Termina el estracto: los padres de Crecencio, José Monsalvo y Juana Acuña, son sus herederos; Francisco Monsalvo queda dueño exclusivo de las 1000 × 5500 v (5.500.000 v²), linderas de Patricio Kelly (S y O), Carlos Butterfill (N) y José Monsalvo (E). El 25 de julio de 1879 escritura a Bustos como cesionario de Agüero; el 14 de agosto Bustos pide mensura ante el juez Virgilio M. Tedin, que nombra a Schuster; el 18 de agosto este toma antecedentes en el Departamento de Ingenieros. Comienza la diligencia: publicación de edictos en los diarios y circular de citación."
+  },
+  {
+   "titulo": "Folio 2: primer campo (ex Francisco Monsalvo), lados A-B, A-C y C-D",
+   "img": "img/f/100/06.jpg",
+   "fuente": "IMG_9571, página derecha",
+   "nota": "",
+   "lineas": [
+    "pañan y la circular de citacion que tambien",
+    "se acompaña al espediente, procedí á la mensu-",
+    "ra del modo que paso á detallar:",
+    "Daré principio por la mensura del campo",
+    "comprado á Don Francisco Monsalvo —",
+    "Me situé pues en el mojon del angulo",
+    "Oeste de dicho terreno, letra A del plano, y",
+    "por el rumbo al Sud ochenta grados cuaren-",
+    "ta y dos minutos Este, medí ochocientos se[sen]-",
+    "ta y tres metros quinientos setenta y ocho mi[lí]-",
+    "metros (863.578 m) y coloqué el mojon del an-",
+    "gulo Sud del terreno que mido, letra B; en",
+    "esta linea se pasa un arroyito á los cuatro-",
+    "cientos diez metros y se deslinda con terreno",
+    "de Doña María Duffy de Kelly —",
+    "De aquí volví al mojon de arran-",
+    "que A y por el rumbo al Norte nueve",
+    "grados veintisiete minutos Este, medí hasta",
+    "el mojon C setecientos ochenta y seis metros",
+    "(786 m), deslindando con la misma Señora",
+    "Kelly, este mojon es esquinero Este del terreno",
+    "de Don Apolinario Acuña y puede conside-",
+    "rarse costanero del que mido, aunque quiebra a-",
+    "quí la linea.",
+    "Desde el mojon C al Norte ocho gra[dos]",
+    "cincuenta y nueve minutos Este, medí, des-",
+    "lindando con terreno de Doña Avelina [Bus]-",
+    "tos, tres mil novecientos sesenta y tres me-",
+    "tros cinco decímetros (3963.5 m) y llegué al",
+    "mojon del angulo Norte del terreno que",
+    "mido, señalado con la letra D, puesto por",
+    "mí mismo en la mensura de la testamen-",
+    "taría de Don Fernando Monsalvo el año",
+    "1874; en esta linea se pasa el arroyito que",
+    "se espresa anteriormente á los trescientos o-",
+    "chenta y cinco metros y se encontraron"
+   ],
+   "interpretacion": "Primer campo, el comprado a Francisco Monsalvo. Desde el mojón A (ángulo O) Schuster mide al S 80° 42′ E 863,578 m hasta B, cruzando un arroyito a 410 m, contra María Duffy de Kelly; vuelve a A y mide al N 9° 27′ E 786 m hasta C, esquinero E de Apolinario Acuña, donde la línea quiebra; de C al N 8° 59′ E, contra Avelina Bustos, 3963,5 m hasta D, mojón que él mismo había puesto en 1874 en la mensura de la testamentaría de Fernando Monsalvo (Ficha 066); el arroyito vuelve a cruzarse a 385 m."
+  },
+  {
+   "titulo": "Folio 2 vuelta: cierre del primer campo; comienza la hijuela",
+   "img": "img/f/100/07.jpg",
+   "fuente": "IMG_9572, página izquierda",
+   "nota": "",
+   "lineas": [
+    "mojones costaneros á los mil doscientos noventa",
+    "y nueve, dos mil quinientos noventa y ocho",
+    "y tres mil ochocientos noventa y siete metros —",
+    "Desde el mojon del angulo Norte, letra D",
+    "por el rumbo al Sud ochenta grados cua-",
+    "renta y dos minutos Este, se midieron ocho-",
+    "cientos ochenta y tres metros quinientos se-",
+    "tenta y siete milímetros (883.577 m) y se",
+    "colocó el mojon del angulo Oeste, letra E,",
+    "se deslinda con terreno de Doña Mer-",
+    "cedes de la T.^{e} de Butterfill.",
+    "Desde este último mojon al Sud nue-",
+    "ve grados diez y ocho minutos Oeste, des-",
+    "lindando con Don José Monsalvo se mi-",
+    "dieron cuatro mil setecientos cuarenta y",
+    "nueve metros cinco decímetros (4749.5 m) y",
+    "se llegó al mojon B, recientemente puesto",
+    "en la mensura de este terreno, colocandose",
+    "mojones costaneros á los mil cuatrocientos,",
+    "mil novecientos cincuenta, dos mil novecien-",
+    "tos veinte y tres mil novecientos metros —",
+    "Con lo que quedó concluida la mensura",
+    "de este terreno, que tiene una superficie de",
+    "cuatrocientas doce hectareas cuarenta y          [al margen, a lápiz:] 412^{h} 47^{a} 58",
+    "siete areas cincuenta y ocho metros cua-",
+    "drados ó sean cinco millones quinientas",
+    "mil varas cuadradas y linda al Nord-",
+    "Este con Doña Mercedes de la Torre de But-",
+    "terfill, al Sud-Este con Don José Monsalvo,",
+    "al Sud-Oeste con Doña María Duffy de Ke-",
+    "lly y al Nor-Oeste con esta misma Señora",
+    "y con Doña Avelina Bustos —",
+    "Para medir el terreno de la hijuela de",
+    "Don Pablo Bustos, me situé en el mojon del",
+    "angulo Oeste, letra M y por el rumbo al",
+    "Norte cuarenta y cuatro grados treinta y"
+   ],
+   "interpretacion": "Cierra el primer campo: de D al S 80° 42′ E 883,577 m hasta E, contra Mercedes de la Torre de Butterfill; de E al S 9° 18′ O 4749,5 m hasta B, contra José Monsalvo, con mojones cada ≈ 500-1000 m. Superficie 412 ha 47 a 58 m² = 5.500.000 v²; linderos Butterfill (NE), José Monsalvo (SE), María Duffy de Kelly (SO), la misma y Avelina Bustos (NO). Comienza la hijuela de Pablo Bustos en el mojón M."
+  },
+  {
+   "titulo": "Folio 3: hijuela de Pablo Bustos, lados M-K, K-L, L-J, J-H",
+   "img": "img/f/100/07.jpg",
+   "fuente": "IMG_9572, página derecha",
+   "nota": "",
+   "lineas": [
+    "un minuto Este, deslindando con Doña Petrona",
+    "Bustos de Rodriguez, medí la distancia de",
+    "mil novecientos setenta y tres metros (1973 —)",
+    "hasta el mojon del angulo Norte, para el terre-",
+    "no que se mide y del Oeste para la Señora",
+    "Rodriguez, señalado con la letra K, en esta li-",
+    "nea se pusieron mojones costaneros á los seiscien-",
+    "tos y mil doscientos metros.",
+    "Desde el mojon del angulo Norte por el",
+    "rumbo al Sud cuarenta y cinco grados trein-",
+    "ta y tres minutos Este, deslindando con Don Pedro",
+    "Kenny y Don Francisco Duberty [?], medí tres mil",
+    "cuatrocientos cincuenta y tres metros (3453 m) has-",
+    "ta el mojon L, del angulo Sud de Duberty [?] y",
+    "puede considerarse costanero del terreno que mido,",
+    "aunque aquí quiebra la linea — A los trescientos",
+    "doce metros se encontró el mojon division entre",
+    "Kenny y Duberty [?] y se colocaron mojones costaneros",
+    "á los novecientos, mil quinientos, dos mil cien y",
+    "dos mil ochocientos metros.",
+    "Desde el punto ultimamente anotado, mo-",
+    "jon L, al Sud cuarenta y cinco grados veinte",
+    "minutos Este, deslindando con terreno del Doc-",
+    "tor Don Marcelino Mezquita, medí setecien-",
+    "tos cincuenta y siete metros (757 m), hasta el",
+    "mojon del angulo Este del terreno que se",
+    "mide, letra J.",
+    "Desde este punto al Sud cuarenta y cua-",
+    "tro grados siete minutos Oeste se midieron",
+    "mil novecientos cincuenta y cinco metros",
+    "(1955 m), hasta el mojon del angulo Sud",
+    "del terreno que mido, deslindando con terreno",
+    "de Doña Susana Bustos y se pusieron mojones",
+    "costaneros á los setecientos cincuenta y cinco,",
+    "y mil doscientos cincuenta y cinco metros —",
+    "[que]da señalado el mojon Sud con la letra H."
+   ],
+   "interpretacion": "Hijuela de Pablo Bustos: M-K N 44° 31′ E 1973 m contra Petrona Bustos de Rodríguez; K-L S 45° 33′ E 3453 m contra Pedro Kenny y Francisco Duberly (mojón divisorio entre ambos a 312 m); L-J S 45° 20′ E 757 m contra el Dr. Marcelino Mezquita; J-H S 44° 7′ O 1955 m contra Susana Bustos."
+  },
+  {
+   "titulo": "Folio 3 vuelta: lados H-G y G-M; superficie de la hijuela; variación",
+   "img": "img/f/100/08.jpg",
+   "fuente": "IMG_9573, página izquierda",
+   "nota": "",
+   "lineas": [
+    "Desde aquí al Norte cuarenta y cinco gra-",
+    "dos cincuenta y tres minutos Oeste, medí",
+    "dos mil ciento cincuenta y nueve metros",
+    "(2159 m) hasta el mojon G, este mojon es",
+    "del angulo ~~Oeste~~ ^{Este} del terreno de José Max-",
+    "well y tambien puede considerarse como cos-",
+    "tanero del terreno que mido, aquí quiebra",
+    "un poco la linea, se pusieron mojones cos-",
+    "taneros á novecientos cincuenta y nueve",
+    "y mil quinientos cincuenta y nueve me-",
+    "tros y se deslinda con terreno de Doña Ma-",
+    "tilde y Doña Juana Bustos —",
+    "Desde el mojon G, al ~~Sud~~ ^{Norte} cuaren-",
+    "ta y cinco grados treinta y dos minutos",
+    "Oeste, deslindando con Don José Maxwell",
+    "se midieron dos mil sesenta y tres metros",
+    "(2063 m) y se llegó al mojon M que",
+    "me sirvió de arranque para la mensura",
+    "de este terreno —",
+    "De este modo quedó concluida esta",
+    "mensura, cuyo terreno tiene una superfi-",
+    "cie de ochocientas veintinueve hectareas          [al margen, a lápiz:] 829^{H} 84^{a}",
+    "y ochenta y cuatro areas, ó sean once",
+    "millones sesenta y cinco mil ciento o-",
+    "chenta y dos varas cuadradas y linda",
+    "al Nord-Este con Don Pedro Kenny, Don",
+    "Francisco Duberty [?] y el Doctor Don Mar-",
+    "celino Mezquita, al Sud-Este con Doña",
+    "Susana R. Bustos, al Sud-Oeste con Do-",
+    "ña Matilde y Doña Juana Bustos y",
+    "Don José Maxwell y al Nord-Oeste",
+    "con Doña Petrona Bustos de Rodriguez",
+    "Los rumbos son los verdaderos y la",
+    "variacion de la Aguja de once grados",
+    "dos minutos Nord-Este, que tomé en",
+    "la mensura practicada por mí el"
+   ],
+   "interpretacion": "H-G N 45° 53′ O 2159 m contra Matilde y Juana Bustos (G es esquinero E de José Maxwell); G-M N 45° 32′ O 2063 m contra Maxwell. Superficie 829 ha 84 a = 11.065.182 v². Linderos: Kenny, Duberly y Mezquita (NE), Susana R. Bustos (SE), Matilde y Juana Bustos y Maxwell (SO), Petrona Bustos de Rodríguez (NO). Rumbos verdaderos con variación 11° 2′ NE tomada por Schuster en 1874 en la testamentaría Monsalvo."
+  },
+  {
+   "titulo": "Folio 4: cierre, fecha, firma y arrumbamientos",
+   "img": "img/f/100/08.jpg",
+   "fuente": "IMG_9573, página derecha",
+   "nota": "",
+   "lineas": [
+    "año 1874 en el terreno de la testamentaría de",
+    "Don Fernando Monsalvo.",
+    "Se levantó la acta como lo dispone el",
+    "Artículo 655 de la Ley de Enjuiciamiento",
+    "y no hubo oposicion alguna.",
+    "Partido de San Andres de Giles á veinti-",
+    "dos de Setiembre de mil ochocientos setenta",
+    "y nueve —",
+    "Testado = Oeste = Sud = no vale = Entrelineas = Este =",
+    "Norte = vale —",
+    "Cárlos Schuster",
+    "Arrumbamientos.",
+    "Mojon A: Poblacion de Don Apolinario Acu-",
+    "ña N 53° 32′ O, id. de Don José Maxwell S 85° E,",
+    "id. de Don José Bianchi S 3° 30′ E.",
+    "Mojon B: Poblacion de Don Apolinario Acuña",
+    "N 64° 12′ O, id. de D. José Maxwell S 84° 57′ E [?], id.",
+    "de Doña María D. de Kelly S 52° 8′ O.",
+    "Mojon C: Poblacion de Don Higinio [?] Lanza [?] S 42°",
+    "18′ E, id. de D.^{a} M.^{a} D. de Kelly S 14° O, id. de Don",
+    "Apolinario Acuña S 68° 37′ O.",
+    "Mojon D: Poblacion de Don Ulabio [?] Bustos S 24° 10′ E [?],",
+    "id. de Don Pedro Kenny N 24° 10′ O, Torre de la",
+    "Iglesia de Giles N 72° 50′ E.",
+    "Mojon E: Poblacion de Don Ulabio [?] Bustos S 85° 15′ O,",
+    "id. de Don José Monsalvo S 6° E, id. de Don Apolinario",
+    "Acuña S 28° 45′ O.",
+    "Mojon M: Poblacion de D. Pedro Kenny N 8° 11′ E,",
+    "id. de D. Francisco Duberty [?] N 60° 43′ E, id. de Don",
+    "José Maxwell S 15° 14′ E —",
+    "Mojon K: Poblacion de D. José Maxwell S 24° 11′ O [?],",
+    "id. de Don Pedro Kenny N 17° 38′ E, id. de Don",
+    "Pablo Bustos S 34° 29′ E."
+   ],
+   "interpretacion": "Acta según el art. 655 de la Ley de Enjuiciamiento, sin oposición; fecha: San Andrés de Giles, 22 de septiembre de 1879; salvado de testados y entrelíneas; firma Carlos Schuster. Arrumbamientos: desde cada mojón, rumbos a las poblaciones vecinas (Apolinario Acuña, José Maxwell, José Bianchi, María D. de Kelly, Higinio [?] Lanza, «Ulabio [?]» Bustos, Pedro Kenny, Francisco Duberly) y, desde D, a la torre de la iglesia de Giles (N 72° 50′ E)."
+  },
+  {
+   "titulo": "Folio 4 vuelta: fin de los arrumbamientos, cargo y dictamen",
+   "img": "img/f/100/09.jpg",
+   "fuente": "IMG_9574, página izquierda",
+   "nota": "",
+   "lineas": [
+    "Mojon L: Poblacion de Don Pablo Bustos",
+    "N 74° 50′ O, id. Ulabio [?] Bustos S 1° 20′ E, id.",
+    "Don José Maxwell N 89° 30′ O —",
+    "Mojon J: Pob.^{n} de Don Pablo Bustos N 60° 30′ O,",
+    "id. de Don Pedro Kenny N 34° 5′ O, Torre de la",
+    "Iglesia de Giles N 86° 51′ E.",
+    "Mojon H: Poblacion de Don Ulabio [?] Bustos S 93 [?]°",
+    "23′ E, id. de Don Eustaquio Frias [?] S 25° 40′ O, id.",
+    "de Don Apolinario Acuña S 0° 22′ O —",
+    "Mojon G: Poblacion de Don José Maxwell N 65°",
+    "48′ O, id. de Don Pedro Kenny S 2° 12′ E, id. de",
+    "Don Ulabio [?] Bustos S 40° 30′ E.",
+    "[rúbrica:] Schuster",
+    "Diciembre 19/879 —",
+    "Presentada en la fecha al De-",
+    "partamento de Ingenieros —",
+    "Martin Pico",
+    "Señor Juez de 1.^{a} Instancia",
+    "La operacion de mensura",
+    "practicada por el agrimensor",
+    "D.^{n} Cárlos Schuster para D.^{n}",
+    "Pablo Bustos en el partido",
+    "de Giles, está bien ejecutada",
+    "y el Departamento de"
+   ],
+   "interpretacion": "Últimos arrumbamientos (L, J, H, G), con otra visual a la torre de Giles desde J (N 86° 51′ E) y a la población de Eustaquio Frías [?]; rúbrica de Schuster. Cargo: presentada al Departamento de Ingenieros el 19 de diciembre de 1879 (Martín Pico). Comienza el dictamen: la mensura «está bien ejecutada»."
+  },
+  {
+   "titulo": "Folio 5: oficio de aprobación (Mercedes, marzo de 1880)",
+   "img": "img/f/100/09.jpg",
+   "fuente": "IMG_9574, página derecha",
+   "nota": "",
+   "lineas": [
+    "744.4 [?] [cifra a mano]   ·   21629 [impreso]   ·   197629 [impreso]",
+    "[sello fiscal:] DIRECCION GENERAL DE RENTAS DE LA PROVINCIA DE BUENOS AIRES · 6 · 1880 · SEIS PESOS",
+    "[rúbrica:] Alonso [?]",
+    "Mercedes Marzo 4 de 1880",
+    "Al Señor Presidente del Departamento de Ingenieros",
+    "Hago saber á V. que há sido aprobada la mensu[ra]",
+    "practicada por Don Cárlos Schuster de un",
+    "campo perteneciente á Doña Matilde Bustos",
+    "por el siguiente auto = Autos y Vistos. De",
+    "acuerdo con lo solicitado en el escrito y vistos que",
+    "preceden y lo informado por el Departamento",
+    "de Ingenieros f. 24 se aprueba en cuanto ha",
+    "lugar por derecho la menzura practicada por",
+    "el Agrimensor Don Cárlos Schuster, corriente",
+    "de f. 20 á f. 24, interponiendo el Juzgado para",
+    "mayor valides la autoridad que inviste por",
+    "medio de este auto, el que se hará saber",
+    "al Departamento de Ingenieros por",
+    "medio de oficio. Repuestos los sellos, tasado[s]",
+    "y satisfechas las costas archívese dando á los",
+    "interesados los desgloses y testimonios que pidier[en]."
+   ],
+   "interpretacion": "Oficio del juez de Mercedes, 4 de marzo de 1880, en papel sellado de 1880: comunica al Departamento de Ingenieros la aprobación de la mensura de Schuster de un campo de «Doña Matilde Bustos» (fs. 20-24). Es el auto de la Carpeta 99 (hijuelas de Matilde, Susana y Juana Bustos) traspapelado o agregado a este duplicado: confirma que 099 es de 1879-80, no de 1874."
+  },
+  {
+   "titulo": "Folio 5 vuelta: firma del juez y «agréguese»; f. 7 (asomando)",
+   "img": "img/f/100/10.jpg",
+   "fuente": "IMG_9575, página izquierda",
+   "nota": "",
+   "lineas": [
+    "Repongase la foja. Virgilio M. Tedin",
+    "Ante mí Manuel Malmierca [?]",
+    "Dios guarde á V.",
+    "Virgilio M.",
+    "Tedin",
+    "Marzo 23 de 1880 —",
+    "Agréguese al duplicado correspondiente.",
+    "Lavalle [?]",
+    "[f. 7, asomando arriba a la derecha, debajo de un pliego doblado (f. 6):] de Ingenieros la aprueba en la",
+    "[...]"
+   ],
+   "interpretacion": "Firmas del oficio: Virgilio M. Tedin, ante Manuel Malmierca [?]. El 23 de marzo de 1880 el Departamento ordena «Agréguese al duplicado correspondiente» (Lavalle [?]). A la derecha asoma la f. 7 con otro texto de aprobación bajo un pliego doblado (f. 6)."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de los terrenos de Pablo Bustos (Schuster, 1879)",
+   "img": "img/f/100/03.jpg",
+   "fuente": "IMG_9576.JPG",
+   "orientacion": "Pliego plegado con marco de doble filete; flecha de la variación (Var. 11° 2′ NE) horizontal arriba a la izquierda; escala vertical de 0-4000 metros a la izquierda y firma de Schuster abajo; los dos campos en verde; linderos en letras de imprenta.",
+   "interpretacion": "Dos cuerpos separados: abajo a la izquierda, el rectángulo alargado A-B-E-D ex Monsalvo (863,6 × 3963,5/4749,5 m) entre Avelina Bustos y José Monsalvo, cruzado por un arroyito cerca de A; arriba a la derecha, el rectángulo inclinado M-K-L-J-H-G de la hijuela, entre la red de fajas de los Bustos, Maxwell, Kenny, Duberly y Mezquita.",
+   "referencias": [
+    [
+     "A-B",
+     "S 80° 42′ E · 863,578 m · contra María D. de Kelly; arroyito a 410 m"
+    ],
+    [
+     "A-C-D",
+     "N 9° 27′ E 786 m (C, esq. de Acuña) + N 8° 59′ E 3963,5 m contra Avelina Bustos; mojones 1299, 2598, 3897"
+    ],
+    [
+     "D-E",
+     "S 80° 42′ E · 883,577 m · contra Mercedes de Butterfill"
+    ],
+    [
+     "E-B",
+     "S 9° 18′ O · 4749,5 m · contra José Monsalvo"
+    ],
+    [
+     "M-K",
+     "N 44° 31′ E · 1973 m · contra Petrona B. de Rodríguez"
+    ],
+    [
+     "K-L",
+     "S 45° 33′ E · 3453 m · contra Pedro Kenny y Francisco Duberly (división a 312 m)"
+    ],
+    [
+     "L-J",
+     "S 45° 20′ E · 757 m · contra el Dr. Marcelino Mezquita"
+    ],
+    [
+     "J-H",
+     "S 44° 7′ O · 1955 m · contra Susana R. Bustos"
+    ],
+    [
+     "H-G-M",
+     "N 45° 53′ O 2159 m (Matilde F. y Juana J. Bustos) + N 45° 32′ O 2063 m (José Maxwell)"
+    ],
+    [
+     "Edificios",
+     "Población «Bustos» con cerco punteado junto a L; dos «Puesto»; E.a Bustos junto a D; estancias de Acuña, Carey y Maxwell"
+    ],
+    [
+     "Superficies",
+     "412,48 ha + 829,84 ha = 1242,3 ha"
+    ],
+    [
+     "Variación",
+     "11° 2′ NE (la de 1874)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Copia en tela de 1937 (Dirección de Geodesia y Catastro)",
+   "img": "img/f/100/04.jpg",
+   "fuente": "IMG_9577.JPG",
+   "orientacion": "Copia heliográfica o en tela con sello «Geodesia y Catastro · M. O. P. · Dirección» y rótulo: «Es copia del plano agregado al duplicado n.º 100 del partido de San Andrés de Giles, mensura practicada en Septiembre de 1879 por el Agrimensor Carlos Schuster. La Plata Febrero de 1937»; firma del director; «Dib. por J. M. Bruno · Rev. por J. S. Chiappino [?]». Arriba, a lápiz: «S. A. de Giles 100».",
+   "interpretacion": "La copia reproduce el plano con letras de los vértices en rojo; sirve para leer las cifras que en el original están gastadas.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Dos títulos, dos campos",
+   "texto": "Pablo Bustos reúne dos piezas distintas: su hijuela en la sucesión Bustos (829,84 ha, 11.065.182 v², en el bloque de fajas ≈ N 45° de las cabezadas) y un campo de pastoreo de 1000 × 5500 v (412,48 ha) que compró por cesión de José Agüero, quien a su vez lo había comprado en 1876 a Francisco Monsalvo, adjudicatario en la testamentaría de Fernando Monsalvo (Ficha 066). La cadena incluye la muerte intestada de Crecencio Monsalvo y la herencia de sus padres José Monsalvo y Juana Acuña: el gran polígono de Fernando Monsalvo empieza a fragmentarse por ventas."
+  },
+  {
+   "titulo": "La familia bustos y la carpeta 99",
+   "texto": "La hijuela de Pablo linda con Petrona Bustos de Rodríguez, Avelina, Susana R., Matilde F. y Juana J. Bustos: la sucesión Bustos repartida en al menos seis hijuelas. Las tres hermanas son las de la Ficha 099, medidas también por Schuster. El oficio de aprobación de la mensura «de Doña Matilde Bustos» (Mercedes, 4 de marzo de 1880) quedó en este duplicado: data 099 en 1879-80 y corrige la hipótesis de 1874 hecha por la variación (Schuster usa en ambas la variación de 11° 2′ tomada en 1874)."
+  },
+  {
+   "titulo": "Variación de 1874 reutilizada",
+   "texto": "Schuster declara expresamente que los rumbos son verdaderos y que la variación de 11° 2′ NE es la que tomó en 1874 en la testamentaría Monsalvo. Es una prueba directa de que la variación anotada no siempre se observaba en la mensura: puede heredarse de un trabajo anterior en el mismo lugar. Hay que relativizar la datación por variación usada en otras fichas (096, 099)."
+  },
+  {
+   "titulo": "Ritual y paisaje",
+   "texto": "Edictos en los diarios, circular de citación, acta según el art. 655 de la Ley de Enjuiciamiento sin oposición. Los arrumbamientos desde cada mojón a las poblaciones vecinas (Acuña, Maxwell, Bianchi, Kelly, Lanza [?], Bustos, Kenny, Duberly, Frías [?]) dan una red de casas del paisaje de 1879, y dos visuales a la TORRE DE LA IGLESIA DE GILES (desde D N 72° 50′ E y desde J N 86° 51′ E): anclas GIS como la de 046. Un arroyito cruza el campo ex Monsalvo cerca de A; en el plano, dos puestos dentro de la hijuela y la población Bustos con cerco."
+  },
+  {
+   "titulo": "Burocracia de 1879-80",
+   "texto": "Juez Virgilio M. Tedin (Civil, Departamento del Centro), pero el oficio de aprobación se firma en Mercedes, ante Manuel Malmierca [?]; cargo de Martín Pico en el Departamento de Ingenieros (19/12/1879); «Agréguese al duplicado correspondiente» (23/3/1880). La copia en tela de 1937 muestra que el plano se seguía consultando en el siglo XX."
+  },
+  {
+   "titulo": "Lecturas dudosas y preguntas abiertas",
+   "texto": "Las cifras en pesos del estracto (184000 [?], 6000 [?]); el nombre «Ulabio [?]» Bustos; «Higinio [?] Lanza [?]»; «Eustaquio Frías [?]»; el secretario Malmierca [?] y la rúbrica «Lavalle [?]». ¿Quién es el causante de la sucesión Bustos? ¿Qué contiene la f. 6-7 (otro texto de aprobación)?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Pablo Bustos",
+   "rol": "Propietario",
+   "texto": "Heredero en la sucesión Bustos y comprador en 1879 de un campo ex Monsalvo; lindero de Monsalvo en 1874 (066) y del campo Gutiérrez (084). Una búsqueda web breve no dio datos.",
+   "fuentes": "Dup. 100; Fichas 066, 084, 099."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Ver 094-096 y 099. Aquí mide en septiembre de 1879 y declara haber usado la variación de su mensura de 1874.",
+   "fuentes": "Fichas 066, 094-096, 099."
+  },
+  {
+   "nombre": "Fernando, Francisco, José y Crecencio Monsalvo · Juana Acuña",
+   "rol": "Antecesores",
+   "texto": "Fernando Monsalvo, dueño del gran polígono de las cabezadas medido por Schuster en 1874 (066). Sus herederos Francisco, José y Crecencio reciben 16.500.000 v² en condominio; Crecencio, hijo de José Monsalvo y Juana Acuña, muere intestado antes de 1879.",
+   "fuentes": "Dup. 100; Ficha 066, 037."
+  },
+  {
+   "nombre": "José Agüero",
+   "rol": "Comprador intermedio",
+   "texto": "Promete comprar a Francisco Monsalvo en 1876 y cede sus derechos a Pablo Bustos en marzo de 1879. Nuevo en el corpus.",
+   "fuentes": "Dup. 100."
+  },
+  {
+   "nombre": "Virgilio M. Tedin",
+   "rol": "Juez",
+   "texto": "Juez de Primera Instancia en lo Civil del Departamento del Centro; ya firmaba en 095 (1879). Una búsqueda web breve no dio datos biográficos verificables.",
+   "fuentes": "Fichas 095, 100; búsqueda web sin resultados útiles."
+  },
+  {
+   "nombre": "Linderos: Kelly, Butterfill, Acuña, Maxwell, Kenny, Duberly, Mezquita, Bianchi",
+   "rol": "Vecinos",
+   "texto": "María Duffy de Kelly (viuda de Patricio Kelly, 066); Mercedes de la Torre de Butterfill (merced de Butterfill, 099); Apolinario Acuña; José Maxwell (084, 099); Pedro Kenny y Francisco Duberly, nuevos; Dr. Marcelino Mezquita (034, 086, 096); José Bianchi (066). Una concentración de apellidos irlandeses y británicos en las cabezadas.",
+   "fuentes": "Fichas 034, 066, 084, 086, 096, 099."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/100/02.jpg",
+  "fuente": "IMG_9569.JPG (girada 90°)",
+  "lineas": [
+   "San A. Giles [a lápiz, letra moderna]   ·   1879 [a lápiz]",
+   "Partido de Giles",
+   "100.",
+   "Mensura del terreno de Don Pablo",
+   "Bustos —",
+   "Agrimensor — Cárlos Schuster",
+   "—",
+   "4 27. 115 [?]",
+   "[al margen, a lápiz:] 100. · 113"
+  ]
+ },
+ "titulo": "Pablo Bustos",
+ "estado": "Transcripta (10 hojas, 302 renglones), 2 láminas"
+}

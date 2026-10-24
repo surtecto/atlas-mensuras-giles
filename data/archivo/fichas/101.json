@@ -1,0 +1,505 @@
+{
+ "carpeta": "101",
+ "carpeta_nombre": "Carpeta 101",
+ "archivo": "Ficha 101 - Her. de Francisco Maldonado (1880).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (margen E del arroyo de Giles, arroyo del Sauce)",
+  "N.º de duplicado": "101 (antes «Partido de La Capilla», testado)",
+  "Propietario / solicitante": "Herederos de Francisco Maldonado",
+  "Agrimensor": "Carlos de Chapeaurouge",
+  "Año": "1880",
+  "Fecha de la diligencia": "27 de enero de 1880; presentada 12/3/1880; dictamen 16/3/1880",
+  "Ubicación": "Entre Monsalvo, Cufré–Álvarez–Tiseira, Cunningham y el arroyo del Sauce",
+  "Orden judicial": "Juez de 1.ª Instancia Dr. Martín Bustos",
+  "Vendedor / antecesor": "Vidal y García → P. M. Figueroa → Manuel Sosa (1840) → Sosa → F. Maldonado (1851)",
+  "Linderos citados": "Monsalvo · E. M. de Bera · Cufré · B. F. de Álvarez · Tiseira · Cunningham · Cucullu · Gariboto · Ormaechea",
+  "Medidas": "2000 v × 1 legua: 894 ha 07 a 93 ca = 529,84 cuadras²; hijuelas 474,97 + 419,11 ha",
+  "Rumbos": "N 47° 5′ O · S 42° 47′ O · S 47° 3′ E · N 56° E; divisoria N 43° 7′ E; var. 11° 15′ NE",
+  "Referencia de archivo": "Duplicado 101; remite a la mensura de Schuster de 1856 (Ficha 009)"
+ },
+ "metricas": {
+  "superficie_ha": "894,1",
+  "hitos": "Mojones de palo, fierro, madera y piedra; establecimiento principal; caminos",
+  "aguas": "Arroyo del Sauce; cañadita"
+ },
+ "sintesis": "Duplicado completo. En enero de 1880 Carlos de Chapeaurouge, comisionado por el juez Martín Bustos, mide y divide el campo de la testamentaría de Francisco Maldonado (2000 v × 1 legua, ex Pedro Miguel Figueroa → Sosa → Maldonado 1851), ya medido por Schuster en 1856 (Ficha 009). Repasa las mensuras vecinas (Pico 1861, Meyrelles 1867, Díaz 1878, Almeyra 1879) y verifica: frente 1722 m (10 m de falta, dentro del 1 %), fondo medio 5195 m; 894 ha 07 a 93 ca = 529,84 cuadras². Un mojón desaparecido deja «una pequeña depresión». La división da a la viuda Eufemia Peñalva 474,97 ha y a María Maldonado 419,11 ha más el establecimiento, tasado en 33.100 $ a razón de 1000 $ la cuadra. Cruzan el campo el arroyo del Sauce y el camino de San Antonio a Luján.",
+ "caratula": {
+  "img": "img/f/101/01.jpg",
+  "fuente": "IMG_9578.JPG (girada)",
+  "campos": [
+   [
+    "N.º",
+    "101"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Francisco Maldonado"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Chapeaurouge"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1880"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: título y antecedentes de dominio (1840-1851)",
+   "img": "img/f/101/05.jpg",
+   "fuente": "IMG_9580 (girada 90°)",
+   "nota": "Letra caligráfica muy clara de Chapeaurouge (o de su copista). Las hojas están cosidas en un cuaderno con tapa gris; los folios 1-4 numerados con sello.",
+   "lineas": [
+    "Duplicado de la Diligencia",
+    "de mensura del terreno de propiedad",
+    "de Don Francisco Maldonado —",
+    "su testamentaría",
+    "Partido de Giles. —",
+    "En 18 de Julio 1840 — Don Manuel Sosa compra á la",
+    "viuda y herederos de Don Pedro Miguel Figueroa un",
+    "terreno ubicado en el Partido de Giles y compuesto de",
+    "dos mil varas de frente con una legua de fondo; — lindan-",
+    "do al Noroeste con los vendedores, al Noreste con Doña",
+    "Agustina Monsalvo, al Sudeste con Don José G. Castro y",
+    "al Sudoeste con Don Pedro Rodriguez. —",
+    "Don Pedro M. Figueroa lo hubo por compra que",
+    "hizo en mayor porcion á Don José F.^{co} Vidal y D.^{ña} Juana",
+    "Garcia —",
+    "En Buenos Aires á 20 de Marzo de 1843, ante el escriba-",
+    "no Don Adolfo Conde, Doña María del Carmen Sosa, viuda",
+    "de Don Manuel Sosa, vende á Don Leonardo [?] Sosa, el terreno",
+    "arriba mencionado y que heredó como única herede-",
+    "ra de su finado esposo.",
+    "En Buenos Aires á 20 de Mayo 1851 — Don Lorenzo Sosa",
+    "y Don Pedro Sosa, únicos herederos de D. Lorenzo Sosa,",
+    "venden á Don Francisco Maldonado el terreno arriba",
+    "mencionado y con las mismas dimensiones de dos",
+    "mil varas de frente con una legua de fondo. —",
+    "Mensura — En el Partido de Giles á veintisiete de",
+    "Enero de mil ochocientos ochenta, hallándome comi-",
+    "sionado por el Señor Juez de 1.^{a} Instancia Doctor Don",
+    "Martín Bustos para medir el terreno de propiedad"
+   ],
+   "interpretacion": "Título y cadena de dominio. El 18 de julio de 1840 Manuel Sosa compra a la viuda y herederos de Pedro Miguel Figueroa 2000 v de frente por una legua de fondo en Giles, lindero de los vendedores (NO), Agustina Monsalvo (NE), José G. Castro (SE) y Pedro Rodríguez (SO); Figueroa lo había comprado «en mayor porción» a José Francisco Vidal y Juana García. En 1843 la viuda María del Carmen Sosa lo vende a Leonardo [?] Sosa; en 1851 Lorenzo y Pedro Sosa, herederos de Lorenzo Sosa, lo venden a Francisco Maldonado. Comienza la mensura: 27 de enero de 1880, por comisión del juez Martín Bustos."
+  },
+  {
+   "titulo": "Folio 1 vuelta: las mensuras anteriores y el método",
+   "img": "img/f/101/06.jpg",
+   "fuente": "IMG_9581, página izquierda",
+   "nota": "",
+   "lineas": [
+    "de la testamentaría de Don Francisco Maldonado",
+    "y habiendo llenado todas las formalidades de",
+    "ley para el caso, dí principio á dicha operacion",
+    "obteniendo el resultado que paso á detallar.",
+    "El terreno que iba á medir ha sido deslindado en",
+    "mil ochocientos cincuenta y seis por el Agrimensor Schuster",
+    "quien integró el título sobreponiéndose al terreno de",
+    "propiedad de Doña Agustina Monsalvo; — posterior-",
+    "mente en mil ochocientos sesenta y uno el Agrimen-",
+    "sor Pico midió el terreno de Monsalvo y logró ubicar",
+    "los dos terrenos sin sobreposicion. —",
+    "En mil ochocientos setenta y ocho el Agrimensor Díaz",
+    "midió el terreno, antes de Riestra hoy de Don Juan Cun-",
+    "ningham respetando los deslindes de Maldonado;",
+    "en mil ochocientos setenta y nueve el Agrimensor",
+    "Almeyra restableció los deslindes del terreno de",
+    "Monsalvo haciendo su division al mismo tiempo.",
+    "Finalmente en mil ochocientos sesenta y siete el",
+    "Agrimensor Meyrelles deslindó los terrenos pertene-",
+    "cientes á Don Valentín Cufré, Doña Benedicta Alvarez",
+    "y D.^{n} Lorenzo Tiseira los que componen el resto de los",
+    "terrenos que fueron de D. Pedro M. Figueroa. —",
+    "Así pues el terreno que iba á medir se hallaba",
+    "puede decirse deslindado por las mensuras de los terre-",
+    "nos linderos, de suerte que basándome en dichas ope-",
+    "raciones procedí á verificar la ubicacion del título",
+    "de Maldonado; — con este fin tomando por base el",
+    "costado Sudoeste de Monsalvo divisorio del terreno que",
+    "medía, medí cuatrocientos metros desde el mojon",
+    "esquinero Sud de Monsalvo y levantando sobre esa"
+   ],
+   "interpretacion": "Chapeaurouge repasa la HISTORIA DE LAS MENSURAS del lugar: Schuster midió el campo en 1856 (Ficha 009) y lo «integró» encimándose al de Agustina Monsalvo; Pico (1861) midió el de Monsalvo y ubicó ambos sin superposición; Díaz (1878) midió el ex Riestra, hoy Cunningham (Ficha 088), respetando los deslindes de Maldonado; Almeyra (1879) restableció y dividió el de Monsalvo; Meyrelles (1867) deslindó a Cufré, Benedicta Álvarez y Tiseira (Fichas 043-044), resto de lo que fue de Pedro M. Figueroa. El campo estaba «deslindado por las mensuras de los terrenos linderos»: Chapeaurouge sólo verifica, partiendo del esquinero S de Monsalvo."
+  },
+  {
+   "titulo": "Folio 2: frente B, tolerancia y línea A-B",
+   "img": "img/f/101/06.jpg",
+   "fuente": "IMG_9581, página derecha",
+   "nota": "",
+   "lineas": [
+    "línea una perpendicular medí por ella mil [sete]-",
+    "cientos veintidos metros hasta encontrarme en el",
+    "punto B de interseccion de los costados Sudoeste y",
+    "Sudeste del terreno que medía. —",
+    "Resulta pues en esta línea de demarca el frente, una",
+    "falta de diez metros, pero siendo esta una cantidad",
+    "inferior al uno por ciento que permite la ley como",
+    "tolerancia, juzgué oportuno no alterar los límites",
+    "ya establecidos; — mucho mas cuando despues de medi-",
+    "dos los costados Noreste y Sudoeste resultó de ellos",
+    "un término medio de cinco mil ciento noventa y",
+    "cinco metros para el fondo, esto es la legua que",
+    "dicen los títulos. —",
+    "Los detalles de la operacion son los siguientes:",
+    "Línea AB — costado Noreste al Norte cuarenta y siete",
+    "grados cinco minutos Oeste; arrancando del mojon",
+    "esquinero Sud de Monsalvo medí cinco mil tres-",
+    "cientos noventa y siete metros hasta el mojon de fierro",
+    "esquinero Este de Don Valentín Cufré y Norte del que me-",
+    "día; — En esta línea se hallaron los siguientes mojones:",
+    "uno de palo á los trescientos cincuenta y nueve metros, —",
+    "otro á los mil cuatrocientos sesenta y dos metros, — otro",
+    "á los dos mil ochocientos veinte metros, — otro á los dos mil",
+    "novecientos veinte metros, — otro á los tres mil seiscientos",
+    "sesenta metros y otro á los tres mil cuatrocientos cuarenta",
+    "y tres metros. —",
+    "Linda por este costado con Doña Exaltacion [?] M. de",
+    "Bera, — y Doña Marcelina, Don Fortunato D. Emeterio [?] y",
+    "Doña Antonia Monsalvo. —",
+    "Línea BC costado Noroeste, al Sud cuarenta y dos"
+   ],
+   "interpretacion": "El frente B resulta de 1722 m: falta 10 m respecto de 2000 v (1732 m), menos del 1 % de tolerancia legal, y el fondo medio da 5195 m = una legua: no se alteran los límites. Línea A-B (NE), N 47° 5′ O, 5397 m desde el esquinero S de Monsalvo hasta el mojón de fierro esquinero E de Cufré, con seis mojones intermedios (uno de palo); linderos Exaltación M. de Bera [Vera] y Marcelina, Fortunato, Emeterio y Antonia Monsalvo."
+  },
+  {
+   "titulo": "Folio 2 vuelta: líneas B-C, C-D y D-A; el mojón perdido de D",
+   "img": "img/f/101/07.jpg",
+   "fuente": "IMG_9582, página izquierda",
+   "nota": "",
+   "lineas": [
+    "grados cuarenta y siete minutos Oeste mide",
+    "desde el mojon esquinero B, mil setecientos",
+    "veinte metros setenta centímetros hasta el mojon",
+    "de palo esquinero Sud de Don Lorenzo Tiseira y",
+    "Oeste del terreno que medía; — en esta línea se",
+    "halló un mojon de fierro á los quinientos veinticua-",
+    "tro metros, — y otro de fierro tambien á los mil tres cien-",
+    "tos metros. — Los linderos por este costado son Don",
+    "Valentín Cufré, Doña Benedicta F. de Alvarez — y Don",
+    "Lorenzo Tiseira. —",
+    "Línea CD — costado Sudoeste al Sud cuarenta y",
+    "siete grados tres minutos Este y mide un total de",
+    "cuatro mil novecientos noventa y tres metros — se",
+    "hallaron los siguientes mojones: uno de palo á los",
+    "seiscientos setenta y seis metros — otro á los dos mil",
+    "cincuenta y un metros — otro á los tres mil tres cien-",
+    "tos setenta y nueve metros, otro de piedra á los tres mil",
+    "ochocientos sesenta y seis metros pero á seis metros á la",
+    "izquierda — y otro de palo á los cuatro mil seiscientos cua-",
+    "renta y seis metros como esquinero Este del Señor Cunnin-",
+    "gham sobre la costa del arroyo del Sauce. —",
+    "El lindero de este costado es Don Juan Cunningham. —",
+    "Línea DA costado Sudeste al Norte cincuenta y seis",
+    "grados Este mide mil setecientos sesenta y ocho me-",
+    "tros; es de advertir que el mojon del punto D no",
+    "existía si bien se veía una pequeña depresion como",
+    "rastro de haber existido; sin embargo existe otro mo-",
+    "jon á nueve metros del que puse en D y en el mis-",
+    "mo rumbo de DA — el cual me indicaron como anti-",
+    "guo esquinero — pero he creido deber dar la pre-"
+   ],
+   "interpretacion": "B-C (NO), S 42° 47′ O, 1720,70 m hasta el mojón de palo esquinero S de Tiseira, con mojones de fierro a 524 y 1300 m, contra Cufré, Benedicta F. de Álvarez y Tiseira. C-D (SO), S 47° 3′ E, 4993 m contra Juan Cunningham, con mojones de palo y uno de piedra (a 6 m a la izquierda) hasta el de palo esquinero E de Cunningham sobre la costa del arroyo del Sauce. D-A (SE), N 56° E, 1768 m. El mojón D no existía —sólo una pequeña depresión como rastro—; había otro, indicado como antiguo esquinero, 9 m más allá sobre la misma línea."
+  },
+  {
+   "titulo": "Folio 3: línea D-A, superficie, citaciones",
+   "img": "img/f/101/07.jpg",
+   "fuente": "IMG_9582, página derecha",
+   "nota": "",
+   "lineas": [
+    "-ferencia al punto D por cuanto se halla en",
+    "CD y á mil setecientos veintidos metros de la línea",
+    "costanera de Monsalvo; por lo tanto si se trazase una",
+    "nueva línea CD resultaría una falta de diez y ocho",
+    "metros en el frente de las dos mil varas, es decir mas",
+    "del uno por ciento tolerado. —",
+    "En esta línea se halló un mojon á los nueve metros, —",
+    "se cruzó el arroyo del Sauce á los setecientos quince",
+    "metros — se halló un mojon de fierro á los mil cua-",
+    "renta y ocho metros — otro igual á los mil trescientos",
+    "setenta — y otro de madera á los mil quinientos no-",
+    "venta y cinco metros. —",
+    "Los linderos por este costado son: Don Isidro Cucullu",
+    "Don Antonio Gariboto y los sucesores de Ormaechea. —",
+    "La superficie encerrada en el perímetro des-",
+    "crito es de ochocientas noventa y cuatro hectáreas",
+    "siete areas y noventa y tres centiareas sean: qui-",
+    "nientas veintinueve cuadras cuadradas mas",
+    "ochenta y cuatro centésimos de otra; — es decir que",
+    "falta para completar el título que es de quinientas",
+    "treinta y tres cuadras cuadradas, una area de tres",
+    "cuadras mas diez y seis centésimos de otra.",
+    "Todos los linderos presenciaron la mensura y",
+    "firmaron los documentos correspondientes, con excep-",
+    "cion de los Señores Gariboto que dijo que se le había",
+    "avisado á última hora y los sucesores de Ormaechea —",
+    "sin embargo publiqué con tiempo los avisos y remití",
+    "la citacion á la Señora viuda de Maldonado con",
+    "mas de diez días de anticipacion. —",
+    "Los rumbos son verdaderos y corregidos de"
+   ],
+   "interpretacion": "Prefiere su punto D porque cae sobre C-D a 1722 m de la línea de Monsalvo: con el otro el frente perdería 18 m, más del 1 % tolerado. Sobre D-A: mojón a 9 m, arroyo del Sauce a 715 m, mojones de fierro a 1048 y 1370 y de madera a 1595 m; linderos Isidro Cucullu, Antonio Gariboto y sucesores de Ormaechea. Superficie 894 ha 07 a 93 ca = 529,84 cuadras²; al título (533 c²) le faltan 3,16 c². Todos los linderos firmaron, salvo Gariboto («avisado a última hora») y los sucesores de Ormaechea; la viuda fue citada con más de diez días."
+  },
+  {
+   "titulo": "Folio 3 vuelta: variación y división entre las herederas",
+   "img": "img/f/101/08.jpg",
+   "fuente": "IMG_9583, página izquierda",
+   "nota": "",
+   "lineas": [
+    "una variacion de once grados quince minutos al",
+    "Noreste. —",
+    "Division — La division de este terreno debía",
+    "efectuarse por partes iguales entre la Señora viuda Doña",
+    "Eufemia P. de Maldonado y D.^{ña} María Maldonado,",
+    "pero como Doña María tomó el establecimiento principal",
+    "tasado en treinta y tres mil ~~[...]~~ pesos (33100 $ ^{m}/_{c}) — se",
+    "convino en que D.^{ña} Eufemia recibiría el equivalente",
+    "en tierra á razon de mil pesos ^{m}/_{c} la cuadra cuadrada.",
+    "De este arreglo resultó para cada heredera la",
+    "fraccion siguiente =",
+    "Doña Eufemia Peñalva de Maldonado =",
+    "El terreno que le corresponde tiene una super-",
+    "ficie de cuatrocientas setenta y cuatro hectáreas",
+    "noventa y seis areas sesenta y una centiareas, sean",
+    "doscientas ochenta y una cuadras cuadradas mas",
+    "cuarenta y siete centésimos de otra. — Sus dimen-",
+    "siones son: Costado NorEste: dos mil setecientos sesen-",
+    "ta y cuatro metros siete décimos lindando con Doña",
+    "Antonia M. de Ortiz Don Emeterio Don Fortunato y Doña",
+    "Marcelina ~~Mat~~ Monsalvo.",
+    "Costado Noroeste — con mil setecientos veinte me-",
+    "tros seis décimos, lindando con Don Valentín Cufré Doña",
+    "Benedicta F. de Alvarez y Don Lorenzo Tiseira.",
+    "Costado Sudoeste — tiene dos mil setecientos cincuen-",
+    "ta y cuatro metros siete décimos, lindando con",
+    "Don Juan Cunningham —",
+    "Costado Sudeste, al Norte cuarenta y tres ~~[...]~~ grados siete",
+    "minutos Este, con mil setecientos veintiun metros",
+    "lindando con D.^{ña} María Maldonado. —"
+   ],
+   "interpretacion": "Variación 11° 15′ NE. DIVISIÓN: por partes iguales entre la viuda Eufemia Peñalva de Maldonado y María Maldonado; como María tomó el «establecimiento principal», tasado en 33.100 $ m/c, Eufemia recibe el equivalente en tierra a 1000 $ la cuadra cuadrada. Hijuela de Eufemia (al NO): 474 ha 96 a 61 ca = 281,47 c²; NE 2764,7 m (Antonia M. de Ortiz, Emeterio, Fortunato y Marcelina Monsalvo), NO 1720,6 m (Cufré, Álvarez, Tiseira), SO 2754,7 m (Cunningham), SE N 43° 7′ E 1721 m (María Maldonado)."
+  },
+  {
+   "titulo": "Folio 4: hijuela de María Maldonado, firma y cargo",
+   "img": "img/f/101/08.jpg",
+   "fuente": "IMG_9583, página derecha",
+   "nota": "",
+   "lineas": [
+    "Doña María Maldonado — El terreno que le",
+    "corresponde es de cuatrocientas diez y nueve",
+    "hectáreas once areas treinta y dos centiareas, sean",
+    "doscientas cuarenta y ocho cuadras cuadradas mas",
+    "treinta y siete centésimos de otra.",
+    "Sus dimensiones son: Costado Noreste dos mil seis-",
+    "cientos treinta y dos metros tres décimos, lindando",
+    "con D.^{ña} Marcelina Monsalvo y D.^{ña} Exaltacion M. de Bera.",
+    "Costado Noroeste al Sud cuarenta y tres grados",
+    "siete minutos Oeste con mil setecientos veintiun",
+    "metros, lindando con Doña Eufemia P. de Maldonado.",
+    "Costado Sudeste — mil setecientos sesenta y ocho me-",
+    "tros, lindando con Don Isidro Cucullu, Don Antonio",
+    "Gariboto y los sucesores de Ormaechea. —",
+    "Costado Sudoeste, con dos mil doscientos treinta y",
+    "ocho metros tres décimos, lindando con Don Juan",
+    "Cunningham. —",
+    "De esta manera dí por concluida la",
+    "comision que había recibido. —",
+    "Carlos de Chapeaurouge",
+    "Agrimensor",
+    "Marzo 12/880. —",
+    "Presentada en la fecha al De-",
+    "partamento de Ingenieros —",
+    "Martín Pico"
+   ],
+   "interpretacion": "Hijuela de María (al SE, con el establecimiento): 419 ha 11 a 32 ca = 248,37 c²; NE 2632,3 m (Marcelina Monsalvo y Exaltación M. de Bera), NO 1721 m (Eufemia), SE 1768 m (Cucullu, Gariboto, Ormaechea), SO 2238,3 m (Cunningham). Firma Carlos de Chapeaurouge; presentada al Departamento de Ingenieros el 12 de marzo de 1880 (Martín Pico)."
+  },
+  {
+   "titulo": "Folio 4 vuelta: dictamen del Departamento de Ingenieros",
+   "img": "img/f/101/04.jpg",
+   "fuente": "IMG_9584, página izquierda",
+   "nota": "",
+   "lineas": [
+    "[Se]ñor Juez de 1.^{a} Instancia",
+    "El Departamento de Ingenieros ha",
+    "examinado la mensura y division del te-",
+    "rreno perteneciente á los herederos de D.",
+    "Francisco Maldonado en Giles, y la",
+    "considera en estado de ser aprobada ju-",
+    "dicialmente.",
+    "No habiendo firmado la circular",
+    "los linderos Gariboto y Ormaechea por la",
+    "razon que expone el Agrimensor, po-",
+    "dría darseles vista de lo actuado en",
+    "un término prudencial. —",
+    "Marzo 16 de 1880.",
+    "Lavalle",
+    "Moreno   Kirk [?]"
+   ],
+   "interpretacion": "Dictamen del Departamento de Ingenieros (16 de marzo de 1880, Lavalle, Moreno y otro): la mensura y división está en estado de ser aprobada; como Gariboto y Ormaechea no firmaron la circular, el juez podría darles vista en un término prudencial."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la mensura y división del campo Maldonado (Chapeaurouge, 1880)",
+   "img": "img/f/101/03.jpg",
+   "fuente": "IMG_9585.JPG (y borde en 9584)",
+   "orientacion": "Pliego plegado (foja 5), marco simple; rótulos en letra de molde inclinada; flecha del N (hacia arriba a la izquierda) y flecha de la aguja abajo a la derecha; escala 1/25000 con barra de 1000-0-3000 m; firma «C. de Chapeaurouge, Agrim. 1880». Los vecinos marcados con cruces a lápiz (¿firmas de la circular?).",
+   "interpretacion": "Rectángulo A-B-C-D partido por la divisoria N 43° 07′ E en la hijuela de Eufemia P. de Maldonado (NO, 474 ha 96 a 61 ca = 281,47 c²) y la de María Maldonado (SE, 419 ha 11 a 32 ca = 248,37 c², sombreada). Lo cruzan el arroyo del Sauce cerca de D, el «Camino de San Antonio a Luján» en diagonal y el «Camino de Giles»; una cañadita entra por el lado NE.",
+   "referencias": [
+    [
+     "A-B",
+     "N 47° 05′ O · 5397 m · contra A. M. de Ortiz, Emeterio, Fortunato y Marcelina Monsalvo y Exaltación M. de Bera"
+    ],
+    [
+     "B-C",
+     "S 42° 47′ O · 1720,6 m · contra Valentín Cufré, B. F. de Álvarez y Lorenzo Tiseira"
+    ],
+    [
+     "C-D",
+     "S 47° 03′ E · 4993 m (2754,7 + 2238,3) · contra Juan Cunningham"
+    ],
+    [
+     "D-A",
+     "N 56° E · 1768 m · contra Isidro Cucullu, Antonio Gariboto y sucesores de Ormaechea"
+    ],
+    [
+     "Divisoria",
+     "N 43° 07′ E · 1721 m entre las dos hijuelas"
+    ],
+    [
+     "Aguas",
+     "Arroyo del Sauce (cruza D-A a 715 m); cañadita en A-B"
+    ],
+    [
+     "Caminos",
+     "Camino de San Antonio a Luján (diagonal) · Camino de Giles"
+    ],
+    [
+     "Superficies",
+     "474,97 ha (Eufemia) + 419,11 ha (María) = 894,08 ha"
+    ],
+    [
+     "Escala",
+     "1/25000"
+    ]
+   ]
+  },
+  {
+   "titulo": "Borde del plano con el dictamen",
+   "img": "img/f/101/04.jpg",
+   "fuente": "IMG_9584.JPG",
+   "orientacion": "",
+   "interpretacion": "El extremo SE del plano (A-D, Cucullu, Gariboto, Ormaechea, flecha de la aguja) junto al dictamen del Departamento de Ingenieros.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Una mensura que se apoya en todas las anteriores",
+   "texto": "Es el documento del corpus que más explícitamente cita la cadena de mensuras vecinas: Schuster 1856 (009, el mismo campo), Pico 1861 (Monsalvo), Meyrelles 1867 (043-044: Cufré, Álvarez, Tiseira), Díaz 1878 (088: Cunningham, ex Riestra) y Almeyra 1879 (división Monsalvo). Chapeaurouge declara que el campo «se hallaba, puede decirse, deslindado por las mensuras de los terrenos linderos»: medir en 1880 es verificar una red ya hecha. Confirma la doctrina de las «mensuras vecinas» de los Hallazgos transversales."
+  },
+  {
+   "titulo": "Tolerancia del 1 % y el mojón fantasma",
+   "texto": "El frente da 1722 m contra 1732 m del título: 10 m de falta, dentro del 1 % legal, y se respeta lo establecido. En D no hay mojón sino «una pequeña depresión como rastro de haber existido»; otro mojón, señalado por los vecinos como antiguo esquinero, está 9 m más allá, pero aceptarlo haría perder 18 m al frente (más del 1 %): el agrimensor elige su propio punto. Es un caso nítido del conflicto entre la memoria local del mojón y la geometría del título."
+  },
+  {
+   "titulo": "Dividir con dinero: el establecimiento",
+   "texto": "La viuda Eufemia Peñalva y María Maldonado debían repartir por mitades, pero María se queda con el «establecimiento principal» (casas, corrales, montes), tasado en 33.100 $ m/c, y Eufemia recibe el equivalente en tierra a 1000 $ la cuadra cuadrada: 281,47 c² contra 248,37 c² (diferencia 33,1 c² = 33.100 $). Precio explícito de la tierra en Giles en 1880 y prueba de que las mejoras se valuaban aparte."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "Arroyo del Sauce cerca del esquinero D y del E de Cunningham; un «Camino de San Antonio a Luján» y un «Camino de Giles» atraviesan el campo; mojones de palo, fierro, madera y uno de piedra. Ancla para el GIS: el esquinero E de Cunningham «sobre la costa del arroyo del Sauce»."
+  },
+  {
+   "titulo": "Cadena de títulos y la familia figueroa",
+   "texto": "El campo es una fracción de lo que fue de Pedro Miguel Figueroa, que lo había comprado a José Francisco Vidal y Juana García; el resto (Cufré, Álvarez, Tiseira) se deslindó en 1867. La «viuda y herederos de Pedro Miguel Figueroa» venden en 1840: relación con la Posta de Figueroa (010) y con Benedicta Figueroa de Álvarez (043) por verificar. La portadilla corrige «Partido de La Capilla» por Giles."
+  },
+  {
+   "titulo": "Lecturas dudosas y preguntas abiertas",
+   "texto": "«Leonardo [?] Sosa» (comprador de 1843, aunque luego los vendedores son herederos de «Lorenzo Sosa»); la cifra «mil [sete]cientos veintidós» del frente; «Exaltación M. de Bera» (= Vera; cf. Bruno Vera de 097-098); la segunda firma del dictamen. ¿Quién es el agrimensor Díaz de 1878 (088: Pedro N. Díaz)? ¿Y Almeyra?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Francisco Maldonado",
+   "rol": "Causante",
+   "texto": "Compra en 1851 a los herederos de Lorenzo Sosa 2000 v × 1 legua; Schuster le mide el campo en 1856 (Ficha 009). Muerto antes de 1880; herederas su viuda Eufemia Peñalva y María Maldonado.",
+   "fuentes": "Dup. 101; Ficha 009."
+  },
+  {
+   "nombre": "Eufemia Peñalva de Maldonado · María Maldonado",
+   "rol": "Herederas",
+   "texto": "La viuda pertenece probablemente a la familia Peñalva de la margen E del arroyo de Giles (Vicente Peñalva, 035, 057). María —hija, presumiblemente— se queda con el establecimiento.",
+   "fuentes": "Dup. 101; Fichas 035, 057."
+  },
+  {
+   "nombre": "Carlos de Chapeaurouge",
+   "rol": "Agrimensor",
+   "texto": "Según La Capital (Mar del Plata), Carlos de Chapeaurouge nació en París el 18 de enero de 1846, hijo de Carlos Chapeaurouge, ginebrino; agrimensor en 1865 por el Departamento Topográfico de Buenos Aires; trabajó en Santa Fe (plano de Santo Tomé, 1871, y plano catastral de esa provincia), trazó en 1873-74 el pueblo y las chacras de Mar del Plata, ingeniero civil en 1885, autor del plano de la provincia con el nuevo deslinde de la Capital (1886) y del Atlas del Plano Catastral de la República (1896); murió en Buenos Aires el 7 de octubre de 1922. Por las fechas, el «Chapeaurouge» que protesta por Del Sar en 1858 (021) y es albacea en 1863 (031) debe de ser su padre.",
+   "fuentes": "La Capital de Mar del Plata (lacapitalmdp.com); Fichas 021, 031."
+  },
+  {
+   "nombre": "Pedro Miguel Figueroa · Manuel, Lorenzo y Pedro Sosa",
+   "rol": "Antecesores",
+   "texto": "Figueroa compró a José Francisco Vidal y Juana García; su viuda y herederos venden en 1840 a Manuel Sosa; la viuda de este, María del Carmen Sosa, vende en 1843; Lorenzo y Pedro Sosa venden a Maldonado en 1851.",
+   "fuentes": "Dup. 101."
+  },
+  {
+   "nombre": "Martín Bustos",
+   "rol": "Juez",
+   "texto": "Juez de Primera Instancia que comisiona la mensura en 1880. ¿Pariente de los Bustos de 099-100? Sin datos.",
+   "fuentes": "Dup. 101."
+  },
+  {
+   "nombre": "Linderos",
+   "rol": "Vecinos",
+   "texto": "Monsalvo (Agustina; sus herederos Marcelina, Fortunato, Emeterio y Antonia M. de Ortiz) al NE; Exaltación M. de Bera; Valentín Cufré, Benedicta F. de Álvarez y Lorenzo Tiseira (043-044) al NO; Juan Cunningham (088) al SO; Isidro Cucullu, Antonio Gariboto (nuevo) y sucesores de Ormaechea (036) al SE.",
+   "fuentes": "Fichas 036, 043, 044, 088."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/101/02.jpg",
+  "fuente": "IMG_9579.JPG (girada 90°)",
+  "lineas": [
+   "Giles. [letra moderna]",
+   "101 [sobre otra cifra]",
+   "Partido de ~~La Capilla~~ ^{Giles}",
+   "N.^{o}",
+   "Duplicado de la diligencia de",
+   "Mensura de los herederos de Don",
+   "Francisco Maldonado",
+   "Partido de Giles —",
+   "Año",
+   "1880",
+   "Agrimensor",
+   "Chapeaurouge",
+   "5. 17. 35."
+  ]
+ },
+ "titulo": "Herederos de Francisco Maldonado",
+ "estado": "Transcripta (8 hojas, 219 renglones), 2 láminas"
+}
