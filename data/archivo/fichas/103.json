@@ -1,0 +1,604 @@
+{
+ "carpeta": "103",
+ "carpeta_nombre": "Carpeta 103",
+ "archivo": "Ficha 103 - José Manuel Dobarro (1880).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (Cañada de la Cruz, límite con Luján/Pilar)",
+  "N.º de duplicado": "103",
+  "Propietario / solicitante": "José Manuel Dobarro",
+  "Agrimensor": "José María Muñiz",
+  "Año": "1880",
+  "Fecha de la diligencia": "Mensura 22/9/1878 [?]; presentada 16/8/1880; auto 24/9/1880",
+  "Ubicación": "Margen E de la Cañada de la Cruz, entre Ormaechea, Salvador Castro y Cucullo",
+  "Orden judicial": "Juez de lo Civil Dr. Salustiano J. Zavalía (secr. Manuel A. Victorica)",
+  "Vendedor / antecesor": "Monsalvo → Sosa / La Rosa → Montiel / Castro → Dobarro (1862-1874)",
+  "Linderos citados": "N. Ormaechea · M. Moreno · G. Guilier · Salvador Castro · Isidro Cucullo",
+  "Medidas": "1.ª 750,3 × 3466/3066 m = 251,2 ha · 2.ª 240,74 × 2966/2809 m = 69,6 ha",
+  "Rumbos": "S 31° 22′ E / N 31° 22′ O · N 58° 38′ E / S 58° 38′ O (verdaderos)",
+  "Referencia de archivo": "Dup. 103; fs. 22-27 del expediente; faltan fs. 7-8 del duplicado"
+ },
+ "metricas": {
+  "superficie_ha": "320,8",
+  "hitos": "Mojones A-H; poblaciones vecinas; tapera de Sinforoso González",
+  "aguas": "Cañada (arroyo) de la Cruz"
+ },
+ "sintesis": "Duplicado casi completo (faltan fs. 7-8). José M.ª Muñiz mide las dos fracciones que José Manuel Dobarro reunió entre 1862 y 1874 sobre la Cañada de la Cruz, comprando piezas de las suertes Monsalvo, La Rosa–Montiel y Castro: la 1.ª de 750,3 m (866 2/5 v) de frente, 251,2 ha, entre Ormaechea y Salvador Castro; la 2.ª de 240,74 m (278 v), 69,6 ha, entre Castro y Cucullo. Fajas S 31° 22′ E; mojón de arranque puesto antes por Muñiz para Ormaechea; esquineros abalizados a las poblaciones vecinas («los Catalanes», puesto de Torney); costa medida por escuadras. Dictamen del Departamento (Moreno, Kuhr) del 20/8/1880; aprobada por el juez Zavalía el 24/9/1880.",
+ "caratula": {
+  "img": "img/f/103/01.jpg",
+  "fuente": "IMG_9595.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "103"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "José Manuel Dobarro"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Muñiz"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1880"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: títulos (Monsalvo 1844 → Feliciana Sosa → Dobarro 1874)",
+   "img": "img/f/103/04.jpg",
+   "fuente": "IMG_9597 (girada 90°)",
+   "nota": "Letra cursiva de copista, inclinada, de trazo fino; foliado con sello redondo (1-6, 9). Las hojas están cosidas en cuaderno con tapa gris.",
+   "lineas": [
+    "Diligencia de mensura de unos terre-",
+    "nos pertenecientes á D. Manuel Dobarro en",
+    "el Partido de Giles —",
+    "Titulos —",
+    "En San Andrés de Giles á 17 de Setiembre de 1844, D.^{a}",
+    "Eusebia Monsalvo, ante el Juez de Paz del Partido,",
+    "vende á D.^{a} Feliciana Sosa un terreno compues-",
+    "to de cien varas de frente por legua y media",
+    "de fondo, lindando por el Norte con sus cohe-",
+    "rederas, por el Sud con D. Justo Monsalvo, por el",
+    "Este con D. Bernabé Montiel y por el Oeste con D.^{a}",
+    "Gregoria Monsalvo — Hubo dicho terreno la ven-",
+    "dedora por herencia de su padre D. Juan Ma-",
+    "nuel Monsalvo —",
+    "En el Pueblo de San Andrés de Giles á 12 de Enero",
+    "de 1874, D.^{a} Feliciana Sosa ante el Juez de Paz",
+    "del Partido, vende á D. José Manuel Dobarro",
+    "un campo compuesto de cien varas de fren-",
+    "te al Nor Oeste y fondo con las varas que re-",
+    "sulta desde el deslinde de D. Mariano",
+    "Moreno, hasta pasar cien varas del mo-",
+    "jon próximo á la tapera de Sinforoso",
+    "Gonzalez hácia el Arroyo de la Cañada de",
+    "la Cruz; lindando por el frente con mas terreno",
+    "de la vendedora, por el Sud Oeste con terreno"
+   ],
+   "interpretacion": "Títulos. 17/9/1844: Eusebia Monsalvo, heredera de su padre Juan Manuel Monsalvo, vende ante el juez de paz de Giles a Feliciana Sosa 100 v de frente por legua y media de fondo, lindera de sus coherederas (N), Justo Monsalvo (S), Bernabé Montiel (E) y Gregoria Monsalvo (O). 12/1/1874: Feliciana Sosa vende a José Manuel Dobarro 100 v de frente al NO, con el fondo que resulte desde el deslinde de Mariano Moreno «hasta pasar cien varas del mojón próximo a la tapera de Sinforoso González» hacia el arroyo de la Cañada de la Cruz."
+  },
+  {
+   "titulo": "Folio 1 vuelta: segunda compra de 1874 y título de La Rosa (1834)",
+   "img": "img/f/103/05.jpg",
+   "fuente": "IMG_9598, página izquierda",
+   "nota": "",
+   "lineas": [
+    "del comprador, por el Sud Este con D. Mariano",
+    "Moreno y por el Nor Oeste con los herederos de D.",
+    "Gerónimo Torney — Lo hubo por compra que",
+    "en mayor cantidad hizo á D.^{a} Feliciana",
+    "Sosa [sic, por: la vendedora á D.^{a}] Eusebia Monsalvo —",
+    "En el Pueblo de San Andrés de Giles",
+    "á 14 de Julio de 1874 D.^{a} Feliciana Sosa, ante el",
+    "Juez de Paz, vende á D. José Manuel Dobarro",
+    "un terreno de cien varas de frente y las varas",
+    "de fondo que se encuentren entre la Cañada de",
+    "la Cruz y el terreno del Comprador, lindando",
+    "por el frente con la mencionada Cañada; por",
+    "el Sud Oeste y Sud Este con el Comprador, y",
+    "por el Nord Este con los herederos de D. Geróni-",
+    "mo Torney — Lo hubo en mayor cantidad por",
+    "compra á D.^{a} Eusebia Monsalvo, en Setiem-",
+    "bre 17 de 1844 —",
+    "En el Pueblo de San Andrés de Giles",
+    "á 27 de Octubre de 1834 D. Luis Antonio Monsalvo,",
+    "ante el Juez de Paz, vende á D. José de la Rosa",
+    "un terreno de quinientas varas de frente y",
+    "el fondo que resulte desde la Cañada de la",
+    "Cruz hasta el campo de D. Juan José Leon;",
+    "lindando por su frente al Oeste con el Arroyo",
+    "de la Cañada de la Cruz; por el Sud con los"
+   ],
+   "interpretacion": "Linderos de esa compra (el comprador, Moreno, herederos de Gerónimo Torney). 14/7/1874: Feliciana Sosa vende a Dobarro otras 100 v de frente con el fondo que haya entre la Cañada de la Cruz y lo del comprador. 27/10/1834: Luis Antonio Monsalvo vende a José de la Rosa 500 v de frente desde la Cañada de la Cruz hasta el campo de Juan José León, con frente al O sobre el arroyo de la Cañada de la Cruz."
+  },
+  {
+   "titulo": "Folio 2: La Rosa → Montiel (1841) → Martina Montiel → Dobarro (1862); venta de 1870",
+   "img": "img/f/103/05.jpg",
+   "fuente": "IMG_9598, página derecha",
+   "nota": "",
+   "lineas": [
+    "herederos de D. Manuel Castro, por el Norte con",
+    "los de D. Manuel Monsalvo y por el Este ó fondo",
+    "con D. Juan José Leon — Lo hubo por herencia",
+    "de su señora madre D.^{a} María Arriola —",
+    "En San Andrés de Giles á 1.^{o} de Febrero de 1841 D. José",
+    "de la Rosa, ante el Juez de Paz, vende á D. Ber-",
+    "nabé Montiel el mismo terreno que compró",
+    "á D. Luis Antonio Monsalvo —",
+    "En Buenos Aires á 5 de Setiembre de 1862 D. José",
+    "Chiquerrin [?] en representacion de su esposa",
+    "D.^{a} Martina Montiel vende ante el Escribano",
+    "Cabral á D. José Manuel Dobarro un terreno",
+    "situado en la villa de Luján y compuesto",
+    "de quinientas varas de frente al Oeste y",
+    "de fondo al Este todo lo que resulte des-",
+    "de la Cañada de la Cruz hasta dar con los",
+    "terrenos de D.^{a} María Juliana Lopez, lin-",
+    "dando por el Norte con los herederos de",
+    "D. Manuel Monsalvo y por el Sud con la",
+    "testamentaría de D. Juan Castro — Lo hubo",
+    "la vendedora por herencia de su padre",
+    "D. Bernabé Montiel quien lo había com-",
+    "prado anteriormente á D. José de la Rosa",
+    "En San Andrés de Giles á 11 de Agosto de 1870 D. Ci-",
+    "riaco Castro, ante el Juez de Paz, vende á D."
+   ],
+   "interpretacion": "Linderos: herederos de Manuel Castro (S), de Manuel Monsalvo (N), Juan José León (E); Luis Antonio lo hubo de su madre María Arriola. 1/2/1841: La Rosa vende a Bernabé Montiel. 5/9/1862: José Chiquerrin [?], por su esposa Martina Montiel (heredera de Bernabé), vende ante el escribano Cabral a Dobarro las 500 v —«situado en la villa de Luján»— de la Cañada de la Cruz al fondo de María Juliana López, entre los her. de Manuel Monsalvo (N) y la test. de Juan Castro (S). 11/8/1870: Ciriaco Castro vende a Dobarro…"
+  },
+  {
+   "titulo": "Folio 2 vuelta: compras a Ciriaco Castro (1870 y 1872)",
+   "img": "img/f/103/06.jpg",
+   "fuente": "IMG_9599, página izquierda",
+   "nota": "",
+   "lineas": [
+    "José Manuel Dobarro un terreno situado en",
+    "el mismo Partido, compuesto de doscientas",
+    "sesenta y seis y dos quintas varas de frente",
+    "con tres mil setecientas sesenta de fondo, lin-",
+    "dando por el Norte con el comprador, por",
+    "el Sud con D. Salvador Castro; por el Este",
+    "con los herederos de D.^{a} María Lopez de",
+    "Montiel, y por el Oeste con el Arroyo de la",
+    "Cruz — Lo hubo en parte por herencia de su",
+    "padre D. Juan Castro y en parte por permuta",
+    "que hizo con su hermano D. Juan Castro —",
+    "En San Andrés de Giles á 21 de",
+    "Diciembre de 1872, D. Ciriaco Castro, ante el Juez",
+    "de Paz, vende á D. José Manuel Dobarro un",
+    "terreno situado en el Partido y compuesto de",
+    "doscientas setenta y ocho varas de frente",
+    "al Arroyo de la Cruz y el fondo hasta",
+    "encontrar los terrenos de D.^{a} Martina",
+    "Montiel, que serán tres mil cuatrocien-",
+    "tas varas mas ó menos; — lindando",
+    "Arroyo de la Cruz en medio con el ven-",
+    "dedor, al fondo con D.^{a} Martina Montiel,",
+    "al Norte con D. Salvador Castro y al Sud con",
+    "D.^{a} Gregoria Castro de Rosa — Lo hubo el",
+    "vendedor por herencia materna —"
+   ],
+   "interpretacion": "…266 2/5 v de frente por 3760 v de fondo, entre el comprador (N), Salvador Castro (S), los her. de María López de Montiel (E) y el arroyo de la Cruz (O); Ciriaco lo hubo de su padre Juan Castro y por permuta con su hermano Juan. 21/12/1872: Ciriaco Castro vende a Dobarro 278 v de frente al arroyo de la Cruz por ≈ 3400 v de fondo hasta Martina Montiel, entre Salvador Castro (N) y Gregoria Castro de Rosa (S), «arroyo de la Cruz en medio con el vendedor»."
+  },
+  {
+   "titulo": "Folio 3: las dos fracciones y comienzo de la mensura (22/9/1878 [?])",
+   "img": "img/f/103/06.jpg",
+   "fuente": "IMG_9599, página derecha",
+   "nota": "",
+   "lineas": [
+    "Resulta pues que los terrenos comprados por",
+    "Dobarro forman dos fracciones, separadas",
+    "entre sí por el terreno de D. Salvador Cas-",
+    "tro, compuesta la 1.^{a} de ochocientas sesen-",
+    "ta y seis varas y dos quintos (750 met.^{s} 3 dec.^{s})",
+    "de frente á la Cañada de la Cruz con el fon-",
+    "do que resulta hasta el terreno hoy de",
+    "Moreno — y la 2.^{a} de doscientas setenta",
+    "y ocho varas (240 metros 74 centím.^{s}) de frente",
+    "á la misma Cañada y fondo hasta el",
+    "campo hoy de Gerónimo Guilier —",
+    "Mensura —",
+    "En el Partido de Giles á 22 de Setiembre de 1878 [?] autori-",
+    "zado por el Señor Juez de lo Civil para medir los",
+    "terrenos de propiedad de D. José Manuel Dobarro,",
+    "situados en este Partido, prévios los trámites de",
+    "ley procedí así:",
+    "Colocándome en el mojon letra A puesto anteriormente",
+    "por mí al medir el campo de Ormaechea lo deter-",
+    "miné observando á la derecha de AB las pobla-",
+    "ciones siguientes: de D. José M. Dobarro doce gra-",
+    "dos tres minutos; de los Catalanes trescientos vein-",
+    "te y siete grados cincuenta minutos; Puesto de",
+    "Torney ciento ochenta grados — Desde el mismo",
+    "mojon A que dista noventa y cuatro metros del"
+   ],
+   "interpretacion": "Conclusión: Dobarro tiene DOS fracciones separadas por el campo de Salvador Castro: la 1.ª de 866 2/5 v (750,3 m) de frente a la Cañada de la Cruz, hasta lo de Moreno; la 2.ª de 278 v (240,74 m), hasta el campo de Gerónimo Guilier. Comienza la mensura (22 de septiembre de 1878 [?], comisión del juez de lo Civil). Mojón A: el que el propio Muñiz puso al medir el campo de ORMAECHEA, abalizado a la población de Dobarro (12° 3′), la de «los Catalanes» (327° 50′) y el puesto de Torney (180°), a 94 m del arroyo."
+  },
+  {
+   "titulo": "Folio 3 vuelta: líneas A-B y B-C de la 1.ª fracción",
+   "img": "img/f/103/07.jpg",
+   "fuente": "IMG_9600, página izquierda",
+   "nota": "",
+   "lineas": [
+    "Arroyo de la Cruz, dividiendo con Ormaechea hallé tres",
+    "mil cuatrocientos sesenta y seis metros hasta el es-",
+    "quinero Este de Dobarro sobre la línea de Moreno,",
+    "habiendo encontrado cinco costaneros, uno á los",
+    "seiscientos cincuenta metros; otro á los mil trescien-",
+    "tos, otro á los mil setecientos sesenta, otro á los dos",
+    "mil doscientos ochenta y el último á los dos mil",
+    "ochocientos ochenta y seis. — De B, á la derecha de",
+    "BC miré: Martiniano Castro cuarenta grados diez",
+    "minutos, Estancia de Dobarro setenta y ocho grados",
+    "veinte minutos, Puesto de Torney noventa grados —",
+    "Desde B midiendo al Sud cincuenta y ocho grados",
+    "treinta y ocho minutos Oeste medí setecientos cin-",
+    "cuenta metros tres decímetros hasta el esquinero",
+    "Sud de la fraccion que mido de Dobarro, letra C,",
+    "habiendo encontrado un mojon á los ochenta y seis",
+    "metros seis decímetros; otro á los quinientos diez",
+    "y nueve metros seis decímetros y á los seiscientos",
+    "seis metros el esquinero de Moreno y Guilier —",
+    "Desde C dividiendo con D. Salvador Castro al Norte",
+    "treinta y un grados veinte y dos minutos Oeste",
+    "medí tres mil sesenta y seis metros y puse el",
+    "esquinero Oeste de Dobarro y Norte de Castro,",
+    "letra D, habiendo colocado dos costaneros, el 1.^{o}",
+    "á los mil doscientos noventa y nueve metros"
+   ],
+   "interpretacion": "Línea A-B (S 31° 22′ E según el plano), 3466 m contra Ormaechea hasta el esquinero E sobre la línea de Moreno, con cinco costaneros (650, 1300, 1760, 2280, 2886 m). Desde B, visuales a Martiniano Castro, la estancia de Dobarro y el puesto de Torney. B-C, S 58° 38′ O, 750,3 m hasta C, con mojones a 86,6 y 519,6 m y el esquinero de Moreno y Guilier a 606 m. C-D, N 31° 22′ O, 3066 m contra Salvador Castro, con costaneros puestos a 1299 m…"
+  },
+  {
+   "titulo": "Folio 4: frente sobre el arroyo de la Cruz, superficie de la 1.ª fracción",
+   "img": "img/f/103/07.jpg",
+   "fuente": "IMG_9600, página derecha",
+   "nota": "",
+   "lineas": [
+    "y el 2.^{o} á los dos mil treinta. Desde el mojon",
+    "que dista sesenta metros del Arroyo de la Cruz, cuadran-",
+    "te sobre DC, al Norte cincuenta y ocho grados trein-",
+    "ta y ocho minutos Este medí doscientos treinta me-",
+    "tros tres decímetros; cuadré á la izquierda y ha-",
+    "llé doscientos metros hasta el Arroyo; cuadré á",
+    "la derecha y midiendo trescientos cuarenta me-",
+    "tros volví á cuadrar á la izquierda encontran-",
+    "do hasta el Arroyo doscientos y tomado en",
+    "seguida al Norte cincuenta y ocho grados trein-",
+    "ta y ocho minutos Este dí con el mojon de a-",
+    "rranque letra A á los ciento ochenta metros",
+    "habiendo levantado á los noventa metros una",
+    "ordenada á la izquierda hasta el Arroyo de",
+    "cuarenta metros —",
+    "Esta 1.^{a} fraccion tiene la forma de un trape-",
+    "zio y la superficie de dos millones quinien-",
+    "tos doce mil, ciento ochenta y nueve metros",
+    "cuadrados (3.349.780 v.^{s} c.^{s}) — Linda por el frente",
+    "al Nor Oeste con el Arroyo de la Cruz, por el Nord",
+    "Este con D. Nicolás Ormaechea; por el Sud Este",
+    "con D. Mariano Moreno y D. Gerónimo Guilier",
+    "y por el Sud Oeste con D. Salvador Castro —",
+    "Segunda fraccion — Para medir la 2.^{a} fraccion",
+    "de campo perteneciente á D. José Manuel Dobarro,",
+    "me situé en el esquinero Sud de la 1.^{a} fraccion"
+   ],
+   "interpretacion": "…y 2030 m. El frente sobre la Cañada de la Cruz se mide por ESCUADRA: desde el mojón D (60 m del arroyo) N 58° 38′ E 230,3 m, ordenada de 200 m al arroyo, 340 m, otra de 200 m, 180 m hasta A con una ordenada de 40 m a los 90 m. La 1.ª fracción es un trapecio de 2.512.189 m² (3.349.780 v²), lindera del arroyo de la Cruz (NO), Nicolás Ormaechea (NE), Mariano Moreno y Gerónimo Guilier (SE) y Salvador Castro (SO). Empieza la 2.ª fracción."
+  },
+  {
+   "titulo": "Folio 4 vuelta: segunda fracción, líneas C-E-F y F-G",
+   "img": "img/f/103/08.jpg",
+   "fuente": "IMG_9601, página izquierda",
+   "nota": "",
+   "lineas": [
+    "letra C, y desde él por la prolongacion de CB, al Sud",
+    "cincuenta y ocho grados treinta y ocho minutos Oeste,",
+    "dividiendo entre Castro y Guilier, hallé á los cuatrocien-",
+    "tos veinte y tres metros seis decímetros el esquinero",
+    "Sud de Castro y Este de la 2.^{a} fraccion de Dobarro,",
+    "letra E, el cual avalizé mirando á la derecha de",
+    "EH: Martiniano Castro diez grados cinco minutos;",
+    "Estancia de Dobarro veinte y cinco grados treinta mi-",
+    "nutos; Gerónimo Guilier ciento treinta y cuatro",
+    "grados cinco minutos — Desde E por la prolon-",
+    "gacion de la línea medida CE encontré dos-",
+    "cientos cuarenta metros setenta y cuatro centímetros",
+    "igual á doscientos setenta y ocho varas que es",
+    "el frente de la 2.^{a} fraccion de Dobarro, hasta F",
+    "mojon de fierro esquinero Sud de Cucullo, cuyo mo-",
+    "jon determiné mirando á la derecha de la lí-",
+    "nea FG las poblaciones siguientes: de Martinia-",
+    "no Castro veinte y cuatro grados treinta mi-",
+    "nutos; de Agustin Quevedo treinta y dos grados",
+    "cinco minutos; Lorenzo Palacios cincuenta y",
+    "cuatro grados cuarenta minutos — Desde F di-",
+    "vidiendo con Cucullo al Norte treinta y un grado",
+    "veinte y dos minutos Oeste hallé un costanero",
+    "de fierro de Cucullo á los ochocientos sesen-",
+    "ta y seis metros; á los dos mil treinta puse",
+    "mojon, á los dos mil quinientos setenta y"
+   ],
+   "interpretacion": "2.ª fracción: desde C, por la prolongación de C-B (S 58° 38′ O), entre Castro y Guilier, 423,6 m hasta E (esquinero S de Castro), abalizado a Martiniano Castro, la estancia de Dobarro y Gerónimo Guilier. E-F, 240,74 m (= 278 v) hasta F, mojón de fierro esquinero S de Cucullo, abalizado a Martiniano Castro, Agustín Quevedo y Lorenzo Palacios. F-G, N 31° 22′ O contra Cucullo: costanero de fierro de Cucullo a 866 m, mojón a 2030, a 2579…"
+  },
+  {
+   "titulo": "Folio 5: líneas G-H y H-E de la 2.ª fracción",
+   "img": "img/f/103/08.jpg",
+   "fuente": "IMG_9601, página derecha",
+   "nota": "",
+   "lineas": [
+    "nueve hallé otro mojon de fierro letra G y á",
+    "los dos mil ochocientos nueve dí con el Arro-",
+    "yo de la Cruz. Determiné por medio de las",
+    "tres visuales siguientes tomadas á la derecha",
+    "de la línea GF: Estancia de Cucullo ciento trein-",
+    "ta y ocho grados diez minutos; Antonio Gariboto [?]",
+    "ciento cinco grados cuatro minutos; Pablo Que-",
+    "vedo ochenta grados treinta minutos. Desde",
+    "el punto donde terminaron los dos mil",
+    "ochocientos nueve metros sobre la orilla",
+    "del Arroyo, cuadré al Norte cincuenta y ocho",
+    "grados treinta y ocho minutos Este y medí",
+    "doscientos cuarenta metros setenta y cuatro",
+    "centímetros que es el frente de Dobarro y á",
+    "su extremo cuadré á la izquierda y medí",
+    "ciento cuarenta y siete metros hasta H, donde",
+    "puse el esquinero Norte de la 2.^{a} fraccion",
+    "de Dobarro, á distancia de catorce metros del",
+    "Arroyo — Desde H midiendo al Sud treinta y un",
+    "grado veinte y dos minutos Este paralelamen-",
+    "te á la línea GF y dividiendo con Castro, puse",
+    "un mojon á los novecientos veinte y seis metros,",
+    "otro á los mil seiscientos sesenta y seis y á los",
+    "dos mil novecientos sesenta y seis dí con el",
+    "esquinero letra E. —",
+    "Esta fraccion de Dobarro tiene como la anterior"
+   ],
+   "interpretacion": "…otro mojón de fierro (G) y el arroyo de la Cruz a 2809 m; G abalizado a la estancia de Cucullo, Antonio Gariboto y Pablo Quevedo. Frente por escuadra (240,74 m al N 58° 38′ E y 147 m hasta H, a 14 m del arroyo). H-E, S 31° 22′ E, paralela a G-F, contra Castro: mojones a 926 y 1666 m y E a 2966 m."
+  },
+  {
+   "titulo": "Folio 5 vuelta: superficie de la 2.ª fracción, firma y cargo",
+   "img": "img/f/103/09.jpg",
+   "fuente": "IMG_9602, página izquierda",
+   "nota": "",
+   "lineas": [
+    "la forma de un trapezio y abraza entre sus esqui-",
+    "neros EFGH una superficie de seiscientos noven-",
+    "ta y cinco mil seiscientos diez y nueve metros",
+    "cuadrados (927514 [?] v.^{s} c.^{s}) Linda por su frente",
+    "al Nor Oeste con el Arroyo de la Cruz; por el",
+    "Nord Este con D. Salvador Castro; por el Sud Este",
+    "con D. Gerónimo Guilier, por el Sud Oeste con D.",
+    "Isidro Cucullo —",
+    "Presenciaron la operacion todos los",
+    "linderos manifestándose conformes —",
+    "Los rumbos son verdaderos —",
+    "José M.^{a} Muñiz",
+    "Agosto 16/880. —",
+    "Presentada en la fecha al Depar-",
+    "tamento de Ingenieros. —",
+    "Martin Pico",
+    "Señor Juez de 1.^{a} Instancia",
+    "El departamento de Ingenieros ha",
+    "examinado la mensura practicada"
+   ],
+   "interpretacion": "La 2.ª fracción es otro trapecio, E-F-G-H, de 695.619 m² (927.514,5 v² según el plano), entre el arroyo de la Cruz (NO), Salvador Castro (NE), Gerónimo Guilier (SE) e Isidro Cucullo (SO). Todos los linderos presenciaron y se mostraron conformes; rumbos verdaderos. Firma José M.ª Muñiz. Presentada al Departamento de Ingenieros el 16 de agosto de 1880 (Martín Pico); empieza el dictamen."
+  },
+  {
+   "titulo": "Folio 6: oficio del juzgado (Buenos Aires, 22/10/1880): aprobación",
+   "img": "img/f/103/09.jpg",
+   "fuente": "IMG_9602, página derecha",
+   "nota": "",
+   "lineas": [
+    "330058        640960   [sello «Dirección General de Rentas de la Provincia de Buenos Aires · 6 · 1880 · seis pesos»]   [sello: Foja 6]",
+    "Corresponde",
+    "7. 4 9. 1 [?]4. [a lápiz]",
+    "Buenos Aires, Octubre 22 de 1880.",
+    "Al Señor Presidente del Departamento",
+    "de Ingenieros. —",
+    "Comunico á Vd. que ha sido aprobada la",
+    "mensura practicada por el Agrimensor Don",
+    "José M. Muñiz de un campo en el Partido",
+    "de Giles de propiedad de Don José Manuel",
+    "Dobarro, recayendo al efecto el auto si-",
+    "guiente «Buenos Aires Setiembre 24 de 1880",
+    "Y Vistos: En mérito de lo dictaminado por el",
+    "Departamento de Ingenieros á f. 28 y 29 vuelta,",
+    "apruébase en cuanto ha lugar por derecho la",
+    "mensura y plano practicada por el agri-",
+    "mensor Don José María Muñiz, corrien-",
+    "te de f. 22 á f. 27, interponiendo el Juzgado",
+    "para su mayor validez la autoridad",
+    "que inviste por medio del presente au-",
+    "to. En consecuencia comuníquese esta",
+    "aprobacion á dicho Departamento por"
+   ],
+   "interpretacion": "Oficio del juzgado civil (Buenos Aires, 22/10/1880, papel sellado de 6 $) al presidente del Departamento de Ingenieros: la mensura y plano de Muñiz (fs. 22-27) fue aprobada por auto del 24 de septiembre de 1880, en mérito del dictamen de fs. 28 y 29 v."
+  },
+  {
+   "titulo": "Folio 6 vuelta: fin del auto (juez Zavalía) y «agréguese»",
+   "img": "img/f/103/10.jpg",
+   "fuente": "IMG_9603, página izquierda",
+   "nota": "",
+   "lineas": [
+    "medio de oficio que se librará con",
+    "transcripcion de ella y prévio pa-",
+    "go de costas, archívese el espediente;",
+    "devuélvanse al interesado los títulos",
+    "presentados, bajo constancia en autos",
+    "y dése al mismo el testimonio que so-",
+    "licitára. Repóngase la foja. Salustia-",
+    "no J. Zavalía = Ante mí Manuel A.",
+    "Victorica». — Sobre raspado: Setiembre. Vale —",
+    "Dios guarde á Vd.",
+    "Salustiano J. Zavalía",
+    "[al margen del anverso:] [Juzga]do Civil ... [Secr]etario [?] ... [Manue]l A. Victorica",
+    "Octubre 25 de 1880 —",
+    "Agréguese al duplicado correspondiente.",
+    "Lavalle"
+   ],
+   "interpretacion": "Fin del auto: comunicar al Departamento, pagar costas, archivar, devolver los títulos al interesado y darle testimonio; firma Salustiano J. Zavalía (el juez de la 091), ante el secretario Manuel A. Victorica. «Agréguese al duplicado correspondiente», 25 de octubre de 1880, Lavalle."
+  },
+  {
+   "titulo": "Folio 9: fin del dictamen del Departamento de Ingenieros (20/8/1880)",
+   "img": "img/f/103/11.jpg",
+   "fuente": "IMG_9605",
+   "nota": "",
+   "lineas": [
+    "por el Agrimensor D. José M.^{a} Muñiz de",
+    "los terrenos de D. Manuel Dobarro en Giles",
+    "y la considera en estado de ser aprobada",
+    "judicialmente.",
+    "El sello correspondiente á la peticion",
+    "de mensura ha sido repuesto y va agrega-",
+    "do.",
+    "Agosto 20/80",
+    "Moreno   Kuhr   Barr[?]",
+    "[sello: Foja 9]"
+   ],
+   "interpretacion": "Final del dictamen del Departamento (20 de agosto de 1880; Moreno, Kuhr y Barr[?]): la mensura está en estado de ser aprobada; el sello de la petición de mensura fue repuesto. Faltan en las tomas los fs. 7-8 (probablemente el plano y el comienzo del dictamen)."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de las dos fracciones de José Manuel Dobarro (Muñiz, 1880)",
+   "img": "img/f/103/03.jpg",
+   "fuente": "IMG_9604.JPG (pliego en tela plegado)",
+   "orientacion": "Marco doble; rótulos de imprenta en letra «egipcia» sombreada; flecha «N. V.» (norte verdadero) arriba a la izquierda y flecha de la aguja abajo; escala gráfica 1000-0-1000 metros; firma de Muñiz con borrón de tinta. Cifras de los costados escritas al revés en las líneas inferiores (típico de Muñiz).",
+   "interpretacion": "Dos fajas paralelas perpendiculares a la Cañada de la Cruz (dibujada en diagonal a la izquierda): la 1.ª, A-B-C-D, de José Manuel Dobarro, 2.512.189 m² = 3.349.780,5 v², entre Nicolás Ormaechea (N) y Salvador Castro; la 2.ª, H-E-F-G, 695.619 m² = 927.514,5 v², entre Salvador Castro e Isidro Cucullo (S). Al fondo (E), Mariano Moreno frente a la 1.ª y Gerónimo Guilier frente a la 2.ª, separados por una línea de trazos en la prolongación de C. En la costa, las escuadras a-b-c-d con sus ordenadas. Un punto «Dobarro» marca la población dentro de la 1.ª fracción.",
+   "referencias": [
+    [
+     "A-B",
+     "S 31° 22′ E · 3466 m · contra Nicolás Ormaechea (mojones 650, 1300, 1760, 2280, 2886)"
+    ],
+    [
+     "B-C",
+     "S 58° 38′ O · 750,3 m · contra Mariano Moreno (esq. Moreno/Guilier a 606 m)"
+    ],
+    [
+     "C-D",
+     "N 31° 22′ O · 3066 m · contra Salvador Castro (costaneros 1299, 2030)"
+    ],
+    [
+     "Frente 1.ª",
+     "D-a 250,5 · a-b 200 · b-c 340 · c-d 200 · d-A 180 m (escuadra sobre la Cañada de la Cruz)"
+    ],
+    [
+     "C-E-F",
+     "S 58° 38′ O · 423,6 + 240,74 m · contra Gerónimo Guilier"
+    ],
+    [
+     "F-G",
+     "N 31° 22′ O · 2809 m · contra Isidro Cucullo (costanero de fierro a 866 m)"
+    ],
+    [
+     "H-E",
+     "S 31° 22′ E · 2966 m · contra Salvador Castro; H a 147 m del frente G-ordenada"
+    ],
+    [
+     "Superficies",
+     "1.ª 251,22 ha · 2.ª 69,56 ha · total 320,78 ha"
+    ],
+    [
+     "Aguas",
+     "Cañada (arroyo) de la Cruz, frente NO de ambas fracciones"
+    ],
+    [
+     "Escala",
+     "Gráfica, 1000 m"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Un campo armado con seis compras",
+   "texto": "Dobarro reúne entre 1862 y 1874 cinco piezas de dos linajes: las fajas Monsalvo (Juan Manuel Monsalvo → Eusebia → Feliciana Sosa, dos compras de 100 v en 1874), la suerte de La Rosa (Luis Antonio Monsalvo, heredero de María Arriola → José de la Rosa 1834 → Bernabé Montiel 1841 → Martina Montiel 1862: 500 v) y dos fajas de Ciriaco Castro (1870: 266 2/5 v; 1872: 278 v). Resultado: 866 2/5 v (= 100 + 100 + 500 + 166 2/5 [?]) en la 1.ª fracción y 278 v en la 2.ª, separadas por Salvador Castro. Es el proceso típico de reagrupamiento de las fajas angostas heredadas."
+  },
+  {
+   "titulo": "Fajas de la cañada de la cruz y rumbos",
+   "texto": "Las fajas corren S 31° 22′ E desde la Cañada de la Cruz, con frentes N 58° 38′ E: la «familia de 31°» de las mercedes antiguas (049-051, 064-065, 073), que en esta zona son las suertes de los Monsalvo y los Castro (cf. 007, 030). Muñiz parte de un mojón A que él mismo había puesto al medir el campo de Ormaechea: su propia red (cf. 036, 051)."
+  },
+  {
+   "titulo": "Ritual: abalizamiento y frente por escuadras",
+   "texto": "Cada esquinero (A, B, E, F, G) queda referido por ángulos medidos «a la derecha» de la línea a tres poblaciones: Dobarro, «los Catalanes», el puesto de Torney, Martiniano Castro, Agustín Quevedo, Lorenzo Palacios, la estancia de Cucullo, Antonio Gariboto, Pablo Quevedo. La costa de la cañada se levanta por escuadras y ordenadas (200, 340, 180, 40 m). Todos los linderos presenciaron y firmaron conformes."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "Cañada de la Cruz como frente, con mojones a 14-94 m de la orilla; «tapera de Sinforoso González» como hito de un título de 1874; estancias de Dobarro y de Cucullo, población de «los Catalanes» (¿inmigrantes?), puesto de Torney (test. Tormy, 079-081, 097). El título de 1862 sitúa la tierra «en la villa de Luján»: la Cañada de la Cruz era borde jurisdiccional."
+  },
+  {
+   "titulo": "Lecturas dudosas y preguntas abiertas",
+   "texto": "El año de la diligencia («22 de Setiembre de 1878»: puede ser 1879, pues se presenta en agosto de 1880); «Chiquerrin [?]»; «Guilier» (en el plano; ¿Gautier/Gaitier? cf. el «G. Gaitier [?]» de 098); «Barr[?]» en el dictamen; la superficie en varas de la 2.ª fracción en el texto. Faltan los fs. 7-8. ¿Es Manuel Dobarro de la 098 (lindero de Salvador Castro) el mismo José Manuel Dobarro? Casi seguro: 098 y 103 son vecinas."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "José Manuel Dobarro",
+   "rol": "Propietario",
+   "texto": "Compra entre 1862 y 1874 seis piezas sobre la Cañada de la Cruz; tiene estancia en la 1.ª fracción. Es el «Manuel Dobarro» lindero de Salvador Castro en la 098 (Iparraguirre 1879). Apellido gallego (Dobarro, frecuente en Galicia): posible inmigrante peninsular. Sin otros datos.",
+   "fuentes": "Dup. 103; Ficha 098."
+  },
+  {
+   "nombre": "José María Muñiz",
+   "rol": "Agrimensor",
+   "texto": "Activo en Giles entre 1865 y 1880 (034, 048-051, 073, 083, 086, 091-093). Firma con borrón y escribe las cifras al revés en el plano. Búsquedas anteriores sin datos biográficos.",
+   "fuentes": "Fichas citadas."
+  },
+  {
+   "nombre": "Salustiano J. Zavalía",
+   "rol": "Juez",
+   "texto": "Juez de lo Civil en Buenos Aires (también en 091, 1879). No es el político tucumano homónimo, muerto en 1873. Secretario: Manuel A. Victorica.",
+   "fuentes": "Dup. 091, 103."
+  },
+  {
+   "nombre": "Monsalvo · La Rosa · Montiel · Castro · Sosa",
+   "rol": "Antecesores",
+   "texto": "Juan Manuel Monsalvo (padre de Eusebia), Luis Antonio Monsalvo (hijo de María Arriola), José de la Rosa, Bernabé Montiel y su hija Martina (esposa de José Chiquerrin [?]), Juan Castro y sus hijos Ciriaco y Juan, Feliciana Sosa. Los Monsalvo y Castro son las familias de las suertes de la Cañada de la Cruz (007, 030).",
+   "fuentes": "Dup. 103; Fichas 007, 030."
+  },
+  {
+   "nombre": "Linderos y poblaciones",
+   "rol": "Vecinos",
+   "texto": "Nicolás Ormaechea (036), Salvador Castro (098), Isidro Cucullo (101), Mariano Moreno, Gerónimo Guilier, Martiniano Castro, Agustín y Pablo Quevedo (049-051, 073), Lorenzo Palacios, Antonio Gariboto (101), «los Catalanes», puesto de Torney.",
+   "fuentes": "Fichas citadas."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/103/02.jpg",
+  "fuente": "IMG_9596.JPG (girada 90°)",
+  "lineas": [
+   "Partido Giles —",
+   "Giles 103 [letra moderna]",
+   "Mensura para Don José Manuel",
+   "Dobarro —",
+   "Ag.^{dor} Muñiz —",
+   "6. 67. 79."
+  ]
+ },
+ "titulo": "José Manuel Dobarro",
+ "estado": "Transcripta (13 hojas, 294 renglones), 1 lámina"
+}

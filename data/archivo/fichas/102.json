@@ -1,0 +1,548 @@
+{
+ "carpeta": "102",
+ "carpeta_nombre": "Carpeta 102",
+ "archivo": "Ficha 102 - Avelina Bustos (1880).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (cabezadas: bloque Bustos–Butterfill–Acuña)",
+  "N.º de duplicado": "102",
+  "Propietario / solicitante": "Avelina Bustos",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1880",
+  "Fecha de la diligencia": "Pedido 31/1/1880; nombramiento 5/2; acta 17/2; dictamen D. I. 12/3/1880",
+  "Ubicación": "Entre Acuña, Frías, Carey, Matilde y Susana Bustos, Butterfill y Pablo Bustos",
+  "Orden judicial": "Juez de 1.ª Instancia en lo Civil del Dep. del Centro, Dr. Virgilio M. Tedín",
+  "Vendedor / antecesor": "Hijuela en la sucesión Bustos (127.000 $ = 7.700.000 v²); vende parte a Bernardo Carey",
+  "Linderos citados": "A. Acuña · E. Frías · B. Carey · Matilde y Susana Bustos · M. L. de Butterfill · Pablo Bustos",
+  "Medidas": "593,25 ha (título 577,47 + sobrante 15,79): Carey 406,66 ha · Avelina 186,59 ha",
+  "Rumbos": "N 44° 17′ O · N 11° 37′ E · N 44° 30′ E · S 8° 59′ O; divisoria S 65° 22′ E; var. 11° 2′ NE",
+  "Referencia de archivo": "Dup. 102; incluye el oficio de aprobación del Dup. 100 (Pablo Bustos)"
+ },
+ "metricas": {
+  "superficie_ha": "593,25",
+  "hitos": "Mojones A-E; poblaciones de Acuña, Kelly, Larrea, Bustos, Monsalvo, Carey, Maxwell",
+  "aguas": "Cañadita junto al mojón A"
+ },
+ "sintesis": "Duplicado completo (texto, plano y dictamen). En febrero de 1880 Carlos Schuster, comisionado por el juez Virgilio M. Tedín, mide la hijuela de Avelina Bustos en la sucesión Bustos (7.700.000 v², adjudicada por 127.000 $) y la divide: un trapezoide de 406,66 ha que Avelina vende a Bernardo Carey y un triángulo de 186,59 ha que conserva, con un sobrante de 15,79 ha que comprará al fisco. Cuatro mojones abalizados a doce poblaciones vecinas; variación 11° 2′ NE tomada en 1874 en la mensura de Fernando Monsalvo. El Departamento de Ingenieros (Lavalle, Moreno, Kuhr) la aprueba el 12/3/1880. El duplicado guarda además el oficio de aprobación de la mensura de Pablo Bustos (100).",
+ "caratula": {
+  "img": "img/f/102/01.jpg",
+  "fuente": "IMG_9586.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "102"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Avelina Bustos"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1880"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: extracto de títulos, presentación, nombramiento y comienzo de la mensura",
+   "img": "img/f/102/04.jpg",
+   "fuente": "IMG_9588 (girada 90°)",
+   "nota": "Letra cursiva inglesa de Schuster (o de su copista), muy pareja; tinta parda. Las cruces a lápiz al margen son marcas de cotejo posteriores. Foliado con sello redondo (1, 2, 3, 5, 6).",
+   "lineas": [
+    "Mensura del terreno de Doña Avelina",
+    "Bustos, situado en el Partido de Gi-",
+    "les —",
+    "Estracto de titulos",
+    "Hijuela de Doña Avelina Bustos —",
+    "Se le adjudican ciento veintisiete mil pe-",
+    "sos ^{m}/_{c} por una area de siete millones",
+    "setecientas mil varas cuadradas, sobre el",
+    "terreno de Estancia tasado en seiscientos mil",
+    "pesos, previniendose que su escedente valor",
+    "queda aplicado á sus coherederos Don Pa-",
+    "blo Bustos y otros &.",
+    "1880 Enero 31. — Doña Avelina Bustos se pre-",
+    "senta al Señor Juez de primera Instancia",
+    "del Departamento del Centro, solicitando",
+    "mensurar el terreno de su propiedad que",
+    "indican los títulos que acompaña y á mas",
+    "hacer una division con arreglo á las instru-",
+    "cciones que dará al Agrimensor y propone",
+    "al subscripto para que practique la mensura",
+    "En Febrero 5. El Señor Juez ha por nombrado",
+    "al Agrimensor propuesto y en",
+    "Febrero 6. toma antecedentes en el Departa-",
+    "mento de Ingenieros.",
+    "Mensura",
+    "Para dar cumplimiento á la comision",
+    "que me ha conferido el Señor Juez de",
+    "primera instancia en lo Civil del",
+    "Departamento del Centro D.^{r} D. Virgilio",
+    "M. Tedin, segun auto de fecha cinco",
+    "del corriente, para medir el terreno de la"
+   ],
+   "interpretacion": "Extracto del título: en la partición de la sucesión Bustos se adjudicaron a Avelina Bustos 127.000 $ m/c, equivalentes a 7.700.000 v² del «terreno de Estancia» tasado en 600.000 $; el excedente de valor quedó aplicado a sus coherederos, Pablo Bustos y otros. El 31 de enero de 1880 Avelina pide al juez de 1.ª Instancia del Departamento del Centro mensurar su campo y hacer una división según las instrucciones que dará, y propone a Schuster; el 5 de febrero el juez lo nombra y el 6 Schuster toma antecedentes en el Departamento de Ingenieros. Empieza la diligencia: comisión del juez civil Virgilio M. Tedín."
+  },
+  {
+   "titulo": "Folio 1 vuelta: edictos, citación y líneas A-B y B-C",
+   "img": "img/f/102/05.jpg",
+   "fuente": "IMG_9589, página izquierda",
+   "nota": "",
+   "lineas": [
+    "propiedad de Doña Avelina Bustos, si-",
+    "tuado en el Partido de Giles —",
+    "Hecha la publicacion de edictos, co-",
+    "mo consta de los diarios que se acompa-",
+    "ñan y la citacion de los linderos, como",
+    "tambien consta por la circular que ori-",
+    "jinal se acompaña al espediente, pro-",
+    "cedí á llenar mi cometido del modo",
+    "que paso á detallar: Me situé en el",
+    "mojon de arranque A. del plano, for-",
+    "mando aquí el terreno un angulo a-",
+    "gudo de cincuenta y tres grados diez",
+    "y seis minutos y se considerará como el",
+    "mojon del angulo Sud — De este punto",
+    "pues, por el rumbo al Norte cuarenta",
+    "y cuatro grados diez y siete minutos",
+    "Oeste, medí mil novecientos ochenta",
+    "y seis metros (1986 m), hasta el mojon",
+    "del angulo Oeste, letra B, se deslinda",
+    "con terreno de Don Apolinario Acuña",
+    "y Don Eustaquio Frias, encontrandose",
+    "el mojon que divide á estos últimos",
+    "á los mil seiscientos veinte metros. El",
+    "mojon B es tambien esquinero Oeste pa-",
+    "ra la fraccion que la Señora Bustos",
+    "vende á Don Bernardo Carey y tam-",
+    "bien Sud de otro terreno de este último —",
+    "Desde el mojon B, deslindando",
+    "con Carey al Norte once grados treinta",
+    "y siete minutos Este á los dos mil dos-",
+    "cientos treinta metros (2230 m), llegué",
+    "al mojon Norte del terreno que se mi-",
+    "de, quedando ahora para la fraccion",
+    "que compra Carey y Oeste para el",
+    "que queda á la Señora Bustos, sien-"
+   ],
+   "interpretacion": "Edictos publicados en los diarios y circular firmada por los linderos. Mojón de arranque A: ángulo agudo de 53° 16′, esquinero S. Línea A-B, N 44° 17′ O, 1986 m hasta el esquinero O (B), contra Apolinario Acuña y Eustaquio Frías (mojón divisorio entre ambos a 1620 m). B es esquinero O de la fracción que Avelina VENDE a Bernardo Carey y S de otro campo de Carey. Línea B-C, N 11° 37′ E, 2230 m contra Carey, hasta el mojón N, que pasa a ser de la fracción de Carey y O de lo que queda a Avelina."
+  },
+  {
+   "titulo": "Folio 2: líneas C-D y D-A, mojón E y superficie",
+   "img": "img/f/102/05.jpg",
+   "fuente": "IMG_9589, página derecha",
+   "nota": "",
+   "lineas": [
+    "-do tambien de Doña Matilde Bustos, vá seña-",
+    "lado en el plano con C. —",
+    "De aquí al Norte cuarenta y",
+    "cuatro grados treinta minutos Este, me-",
+    "dí dos mil quinientos sesenta y nueve",
+    "metros cinco decímetros (2569.5 m), hasta el",
+    "mojon Este, letra D, en esta linea se des-",
+    "linda con Doña Matilde y Doña Susa-",
+    "na Bustos, encontrandose el mojon que",
+    "divide á estas últimas á los mil veinti-",
+    "ocho metros cincuenta y ocho centímetros —",
+    "Desde el punto arribado al Sud",
+    "ocho grados cincuenta y nueve minutos",
+    "Oeste, medí cinco mil quinientos me-",
+    "tros (5500 m), hasta el mojon de arran-",
+    "que A, en esta linea coloqué á los dos",
+    "mil quinientos metros el mojon divi-",
+    "sorio entre Doña Avelina Bustos y el",
+    "que vende á Don Bernardo Carey, que-",
+    "dandole á este en esta linea tres mil",
+    "metros — Es del angulo Sud para la",
+    "primera y del Este para el segundo,",
+    "vá señalado con la letra E, á mas",
+    "á los mil quinientos treinta y seis metros",
+    "cinco decímetros se encontró el mojon",
+    "que divide á Doña Mercedes L. de Bu-",
+    "tterfill de Don Pablo Bustos y se encon-",
+    "traron diferentes mojones costaneros, to-",
+    "dos colocados por mí en mensuras an-",
+    "teriores — De este modo quedó concluida",
+    "la mensura del terreno de Doña Avelina",
+    "Bustos, el cual tiene una superficie",
+    "de quinientas noventa y tres hectareas",
+    "veinticinco areas cuarenta y nueve me-",
+    "tros cuadrados ó sean siete millones"
+   ],
+   "interpretacion": "C es también esquinero de Matilde Bustos. Línea C-D, N 44° 30′ E, 2569,5 m contra Matilde y Susana Bustos (mojón divisorio a 1028,58 m). Línea D-A, S 8° 59′ O, 5500 m: a 2500 m se coloca el mojón E, divisorio entre Avelina y Carey (a Carey le tocan 3000 m de esta línea); a 1536,5 m está el mojón que separa a Mercedes L. de Butterfill de Pablo Bustos, y «diferentes mojones costaneros, todos colocados por mí en mensuras anteriores». Superficie total: 593 ha 25 a 49 m²."
+  },
+  {
+   "titulo": "Folio 2 vuelta: sobrante y línea divisoria con Carey",
+   "img": "img/f/102/06.jpg",
+   "fuente": "IMG_9590, página izquierda",
+   "nota": "",
+   "lineas": [
+    "novecientas diez mil quinientas veinti-",
+    "ocho varas cuadradas (593^{h}25^{a}49^{m.c.} =",
+    "7.910.528 v.^{s}c.^{s}) y como el título es de qui-",
+    "nientas setenta y siete hectareas cuaren-",
+    "ta y seis areas sesenta y un metros cua-",
+    "drados ó sean siete millones setecien-",
+    "tas mil varas cuadradas (577^{h}46^{a}",
+    "61^{m.c.} = 7.700.000 v.^{s}c.^{s}), hay por consiguiente",
+    "un sobrante de quince hectareas seten-",
+    "ta y ocho areas y ochenta y ocho metros",
+    "cuadrados, ó sean doscientas diez mil",
+    "quinientas veintiocho varas cuadradas",
+    "(15^{h}78^{a}88^{m.c.} = 210.528 v.^{s}c.^{s}), que la intere-",
+    "sada está dispuesta á comprar —",
+    "Ultimamente para tirar la linea",
+    "que divide el campo de Doña Ave-",
+    "lina Bustos del que ha vendido á",
+    "Don Bernardo Carey, me coloqué en",
+    "el mojon C. y por el rumbo al Sud",
+    "sesenta y cinco grados veintidos mi-",
+    "nutos Este hasta el mojon E, medí",
+    "mil quinientos cuarenta y cinco me-",
+    "tros noventa y siete centímetros —",
+    "(1545.97 m)",
+    "El terreno vendido á Don Bernardo",
+    "Carey tiene la figura de un trape-",
+    "zoide y su superficie de cuatrocien-",
+    "tas seis hectareas sesenta y seis areas",
+    "treinta y siete metros cuadrados ó sean",
+    "cinco millones cuatrocientas veintidos",
+    "mil quinientas varas cuadradas",
+    "(406^{h}66^{a}37^{m.c.} = 5.422.500 v.^{s}c.^{s}) y linda al",
+    "Nord-Este con Doña Avelina Bustos,",
+    "al Sud-Oeste con Don Apolinario A-",
+    "cuña y con Don Eustaquio Frias, al",
+    "Sud-Este con Don Pablo Bustos y al"
+   ],
+   "interpretacion": "La mensura da 7.910.528 v² contra 7.700.000 del título (577 ha 46 a 61 m²): SOBRANTE de 15 ha 78 a 88 m² = 210.528 v², que la interesada está dispuesta a comprar. La divisoria con Carey: desde C, S 65° 22′ E, 1545,97 m hasta E. La fracción vendida a Carey es un TRAPEZOIDE de 406 ha 66 a 37 m² = 5.422.500 v², lindero de Avelina (NE), Acuña y Frías (SO), Pablo Bustos (SE) y…"
+  },
+  {
+   "titulo": "Folio 3: el triángulo de Avelina Bustos, variación y acta",
+   "img": "img/f/102/06.jpg",
+   "fuente": "IMG_9590, página derecha",
+   "nota": "",
+   "lineas": [
+    "Nord-Oeste con Don Bernardo Carey —",
+    "El que queda á Doña Avelina",
+    "Bustos tiene la figura de un triangulo",
+    "escaleno y encierra una superficie de",
+    "ciento ochenta y seis hectareas cincuenta",
+    "y nueve areas doce metros cuadrados",
+    "ó sean dos millones cuatrocientas ochenta",
+    "y ocho mil veintiocho varas cuadradas",
+    "(186^{h}59^{a}12^{m.c.} = 2.488.028 v.^{s}c.^{s}), incluyendo",
+    "en esta superficie el sobrante de quince",
+    "hectareas setenta y ocho areas y ochenta",
+    "y ocho metros cuadrados, ó sean doscien-",
+    "tas diez mil quinientas veintiocho varas",
+    "cuadradas (15^{h}78^{a}88^{m.c.} = 210.528 v.^{s}c.^{s}), que",
+    "la interesada está dispuesta á comprar",
+    "al Superior Gobierno y linda al Sud-",
+    "Este con Doña Mercedes L. de Butterfill",
+    "y Don Pablo Bustos, al Sud-Oeste con",
+    "Don Bernardo Carey y al Nord-Oeste",
+    "con Doña Matilde y Doña Susana",
+    "Bustos —",
+    "Los rumbos son los verdaderos",
+    "y la variacion de la Aguja de once",
+    "grados dos minutos Nord Este, que to-",
+    "mé de la mensura practicada por",
+    "mí mismo en el terreno de la testa-",
+    "mentaría de Don Fernando Monsal-",
+    "vo —",
+    "La circular de citacion ha sido fir-",
+    "mada por todos los linderos y no ha ha-",
+    "bido oposicion alguna",
+    "Se levantó la acta como lo dis-",
+    "pone el Art.^{o} 655 de la Ley de Enjuicia-",
+    "miento —",
+    "Partido de Giles á diez y siete"
+   ],
+   "interpretacion": "…Carey (NO). Lo que queda a Avelina es un TRIÁNGULO ESCALENO de 186 ha 59 a 12 m² = 2.488.028 v², incluido el sobrante, que comprará al Superior Gobierno; linda con Mercedes L. de Butterfill y Pablo Bustos (SE), Carey (SO) y Matilde y Susana Bustos (NO). Rumbos verdaderos; variación 11° 2′ NE, tomada en la mensura que el propio Schuster hizo para la testamentaría de Fernando Monsalvo (Ficha 066). Circular firmada por todos, sin oposición; acta según el art. 655 de la Ley de Enjuiciamiento."
+  },
+  {
+   "titulo": "Folio 3 vuelta: fecha, firma, abalizamiento y cargo",
+   "img": "img/f/102/07.jpg",
+   "fuente": "IMG_9591, página izquierda",
+   "nota": "",
+   "lineas": [
+    "y de Febrero de mil ochocientos ochenta —",
+    "Cárlos Schuster",
+    "Abalizamientos —",
+    "Mojon A. Poblacion de Don Apolinario",
+    "Acuña S 8° 37′ O, id. de Doña María D.",
+    "de Kelly S 14° O, id. de D. Higinio [?] Larrea",
+    "S 42° 18′ E —",
+    "Mojon B — Poblacion de Don Elario [?] Bustos",
+    "N 34° 22′ E, id. de D. Apolinario Acuña",
+    "S 20° E, id. de D. José Monsalvo S 34° 48′ E.",
+    "Mojon C. Poblacion de la viuda Carey S 39°",
+    "35′ O, id. de D. José Monsalvo S 32° [?] 35′ E,",
+    "id. de D. Elario [?] Bustos N 86° 23′ E.",
+    "Mojon D.: Poblacion de D. Bernardo Carey",
+    "S 84° 42′ O, id. de Don José Maxwell N 70°",
+    "23′ O, id. de Don Pablo Bustos N 41° 45′ O.",
+    "Schuster",
+    "Marzo 2/880. —",
+    "Presentada en la fecha al De-",
+    "partamento de Ingenieros. —",
+    "Martin Pico",
+    "Señor Juez de 1.^{a} Instancia",
+    "El Departamento de"
+   ],
+   "interpretacion": "Fecha (17 de febrero de 1880) y firma de Schuster. ABALIZAMIENTO de cada mojón a las poblaciones vecinas: desde A, Apolinario Acuña S 8° 37′ O, María D. de Kelly S 14° O, Higinio [?] Larrea S 42° 18′ E; desde B, Elario [?] Bustos N 34° 22′ E, Acuña S 20° E, José Monsalvo S 34° 48′ E; desde C, viuda de Carey S 39° 35′ O, José Monsalvo S 3[2]° 35′ E, Elario [?] Bustos N 86° 23′ E; desde D, Bernardo Carey S 84° 42′ O, José Maxwell N 70° 23′ O, Pablo Bustos N 41° 45′ O. Presentada al Departamento de Ingenieros el 2 de marzo de 1880 (Martín Pico); empieza el dictamen."
+  },
+  {
+   "titulo": "Folio 5: oficio del juzgado de Mercedes (4/3/1880): aprobación de la mensura de Pablo Bustos",
+   "img": "img/f/102/08.jpg",
+   "fuente": "IMG_9593, página derecha",
+   "nota": "Pliego de oficio de otra mano (letra del juzgado, trazo grueso), con sello de Rentas de 1880 y números de control 21639 / 197639; una hoja en blanco plegada tapa el f. 3 v. en la toma IMG_9591.",
+   "lineas": [
+    "21639        197639   [sello «Dirección General de Rentas de la Provincia de Buenos Aires · 6 · 1880 · seis pesos»]   [sello: Foja 5]",
+    "Comunicado [?]",
+    "Mercedes Marzo 4/880",
+    "7.44.44 [a lápiz]",
+    "Al Señor Presidente del",
+    "Departamento de In-",
+    "genieros —",
+    "Buenos Ayres",
+    "Hago saber á U. que ha",
+    "sido aprobada la mensura",
+    "practicada por Don",
+    "Carlos Schuster de su",
+    "Campo de Don Pablo Bustos",
+    "por el siguiente Auto: «Mer-",
+    "cedes Febrero veinte y cuatro",
+    "de mil ochocientos ochenta —",
+    "Autos y vistos de acuerdo",
+    "con lo pedido en el escrito",
+    "y vista que precede y",
+    "en mérito de lo informado",
+    "por el Departamento de",
+    "Ingenieros f. 20 vta. se aprueba",
+    "en cuanto ha lugar por"
+   ],
+   "interpretacion": "Oficio del juzgado (Mercedes, 4 de marzo de 1880, en papel sellado de 6 $ de 1880) al Presidente del Departamento de Ingenieros: hace saber que fue aprobada la mensura de Carlos Schuster del campo de PABLO BUSTOS (Ficha 100) por auto del 24 de febrero de 1880, de acuerdo con el escrito, la vista fiscal y el informe del Departamento de f. 20 vta. Es un documento de OTRO duplicado (el 100) encuadernado en éste, como en la 100 se guardó el oficio de la 099."
+  },
+  {
+   "titulo": "Folio 5 vuelta: fin del auto (juez Tedín) y «agréguese» del Departamento",
+   "img": "img/f/102/09.jpg",
+   "fuente": "IMG_9594, página izquierda (pliego del oficio)",
+   "nota": "",
+   "lineas": [
+    "derecho la Mensura practi-",
+    "cada por el Agrimensor",
+    "Público Don Carlos",
+    "Schuster corriente de",
+    "f. 17 á f. 20 inclusive, in-",
+    "terponiendo el Juzgado",
+    "para mayor validez la",
+    "Autoridad que inviste",
+    "por medio de este Auto",
+    "el que se hará saber al",
+    "Departamento de Inge-",
+    "nieros por medio de",
+    "oficio que se librará, ta-",
+    "sadas las costas",
+    "Archívese el expediente,",
+    "dandose previamente los tes-",
+    "timonios y desgloses que",
+    "pidiere. Virgilio M. Tedin — Ante",
+    "mí Manuel Malaver [?]» —",
+    "Dios guarde á U.",
+    "Virgilio M.",
+    "Tedin",
+    "[al margen:] Marzo 23/80 — Agréguese al duplicado corres-",
+    "pondiente.",
+    "Lavalle"
+   ],
+   "interpretacion": "Fin del auto: aprueba la mensura de fs. 17-20, el juzgado interpone su autoridad, manda oficiar al Departamento, tasar costas, archivar el expediente y dar testimonios y desgloses; firma Virgilio M. Tedín, ante el actuario Manuel Malaver [?]. Al margen, el Departamento: «Agréguese al duplicado correspondiente», 23 de marzo de 1880, Lavalle."
+  },
+  {
+   "titulo": "Folio 6: dictamen del Departamento de Ingenieros (12/3/1880)",
+   "img": "img/f/102/09.jpg",
+   "fuente": "IMG_9594, página derecha",
+   "nota": "",
+   "lineas": [
+    "[El Departamento de]",
+    "Ingenieros ha examinado la mensura practi-",
+    "cada por el Agrimensor D. Cárlos Schuster de",
+    "los terrenos de D.^{a} Avelina Bustos y D.^{n} Ber-",
+    "nardo Carey en Giles y la considera en",
+    "estado de ser aprobada judicialmente.",
+    "Dentro de los mojones del terreno medido",
+    "resulta sobre el área del título un sobrante",
+    "de 157888 metros cuadrados ó sean (0^{l}.",
+    "-005848) cinco mil ochocientos cuarenta y",
+    "ocho millonésimos de una legua cua-",
+    "drada, que segun el Agrimensor la in-",
+    "teresada está dispuesta á comprar al fisco",
+    "y del cual se da en la fecha aviso al Mi-",
+    "nisterio de Hacienda —",
+    "Marzo 12/880",
+    "Lavalle",
+    "Moreno   Kuhr"
+   ],
+   "interpretacion": "Dictamen del Departamento de Ingenieros (12 de marzo de 1880; Lavalle, Moreno, Kuhr): la mensura de los terrenos de Avelina Bustos y Bernardo Carey está en estado de ser aprobada. El sobrante es de 157.888 m² = 0,005848 leguas², que la interesada quiere comprar al fisco: se avisa en la fecha al Ministerio de Hacienda."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la mensura y división Avelina Bustos – Bernardo Carey (Schuster, 1880)",
+   "img": "img/f/102/03.jpg",
+   "fuente": "IMG_9592.JPG (pliego plegado; asoma el oficio de f. 5)",
+   "orientacion": "Marco doble negro; rótulos de imprenta en cursiva espaciada; flecha de la variación «Var.: 11° 2′ NE» horizontal hacia el E del dibujo; escala gráfica de 1000-0-4000 m; firma «Cárlos Schuster». Superficies y la cuenta del sobrante agregadas a lápiz.",
+   "interpretacion": "Cuadrilátero A-B-C-D partido por la divisoria C-E: al O el trapezoide A-B-C-E de BERNARDO CAREY (406,66,37 a lápiz) y al E el triángulo C-D-E de AVELINA BUSTOS (a lápiz «170.43.11», sin el sobrante). Ángulos anotados: 53° 16′ en A, 124° 06′ en B, 147° 07′ en C, 35° 31′ en D. Un arroyuelo o cañadita nace junto al mojón A y corre al SO. Cruces a lápiz sobre cada lindero (¿firmas de la circular?). Cuenta a lápiz: medido 5932549 − título 5774661 = 157888 m².",
+   "referencias": [
+    [
+     "A-B",
+     "N 44° 17′ O · 1986 m · contra Apolinario Acuña y E. Frías (mojón divisorio a 1620 m)"
+    ],
+    [
+     "B-C",
+     "N 11° 37′ E · 2230 m · contra Bernardo Carey (otro campo suyo)"
+    ],
+    [
+     "C-D",
+     "N 44° 30′ E · 2569,5 m · contra Matilde F. Bustos y Susana R. Bustos (divisorio a 1028,58 m)"
+    ],
+    [
+     "D-A",
+     "S 8° 59′ O · 5500 m · contra Pablo Bustos y M. F. de Butterfill (divisorio a 1536,5 m de A [?]); E a 2500 m de D"
+    ],
+    [
+     "C-E",
+     "S 65° 22′ E · 1545,97 m · divisoria Carey / Avelina Bustos"
+    ],
+    [
+     "Superficies",
+     "Total 593,25 ha · Carey 406,66 ha · Avelina 186,59 ha (con sobrante 15,79 ha)"
+    ],
+    [
+     "Variación",
+     "11° 2′ NE (de la mensura de Fernando Monsalvo, 1874)"
+    ],
+    [
+     "Aguas",
+     "Cañadita junto al mojón A"
+    ],
+    [
+     "Escala",
+     "Gráfica, 4000 m"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "La hijuela que se vende antes de medirse",
+   "texto": "Avelina recibe en la partición Bustos 127.000 $ en tierra (7.700.000 v² a razón de la tasación de la estancia en 600.000 $) y, antes de mensurar, ya ha vendido la mayor parte a Bernardo Carey: la mensura es a la vez deslinde, división y protocolo de la venta. Carey se queda con el 69 % (406,66 ha) y Avelina con un triángulo de 186,59 ha que incluye el sobrante. Junto con 099 (Matilde, Susana y Juana Bustos) y 100 (Pablo Bustos) completa la partición de la sucesión Bustos de 1879-80: tres duplicados del mismo agrimensor en pocos meses."
+  },
+  {
+   "titulo": "El sobrante y el fisco",
+   "texto": "El sobrante (15,79 ha = 210.528 v², 0,005848 leguas²) es del 2,7 % del título, por encima de la tolerancia del 1 % (cf. 058 y 101): no se absorbe, se compra al Estado. El Departamento avisa «en la fecha» al Ministerio de Hacienda. Es el mismo circuito de 082 y 091 (sobrantes de Frías y de Piquetto)."
+  },
+  {
+   "titulo": "Ritual y abalizamiento",
+   "texto": "Edictos en los diarios, circular firmada por todos los linderos, acta según el art. 655 de la Ley de Enjuiciamiento, y el abalizamiento final: cada mojón A-D queda referido por rumbo a tres «poblaciones» vecinas (Acuña, Kelly, Larrea, Hilario [?] Bustos, José Monsalvo, la viuda de Carey, Bernardo Carey, José Maxwell, Pablo Bustos). Son doce visuales a casas: en GIS, las poblaciones del plano de 1890 permiten triangular los cuatro mojones."
+  },
+  {
+   "titulo": "Instrumental y declinación",
+   "texto": "Rumbos verdaderos con la variación de 11° 2′ NE «tomada» en la mensura de la testamentaría de Fernando Monsalvo (Schuster, 1874, Ficha 066): igual que en 099 y 100, Schuster reutiliza durante seis años una declinación medida una vez, en vez de observarla de nuevo. Ángulos interiores anotados en el plano."
+  },
+  {
+   "titulo": "Mojones heredados",
+   "texto": "En la línea D-A se encontraron «diferentes mojones costaneros, todos colocados por mí en mensuras anteriores»: el agrimensor encuentra su propia red (066, 099, 100). El mojón A forma un ángulo agudo de 53° 16′: el campo es un cuadrilátero muy irregular, efecto de las cabezadas oblicuas (costado E S 8° 59′ O, paralelo al costado O del polígono de Fernando Monsalvo, N 8° 59′ E en 066)."
+  },
+  {
+   "titulo": "Archivística: oficios cruzados",
+   "texto": "El duplicado guarda el oficio del juzgado de Mercedes (4/3/1880) que comunica la aprobación de la mensura de PABLO BUSTOS (dup. 100), con el «Agréguese al duplicado correspondiente» de Lavalle del 23/3/1880: el oficio se encuadernó en el duplicado vecino, igual que el de la 099 quedó en el 100. La aprobación judicial del propio campo de Avelina no está en el duplicado."
+  },
+  {
+   "titulo": "Lecturas dudosas y preguntas abiertas",
+   "texto": "«Higinio [?] Larrea»; «Elario [?] Bustos» (¿Hilario?); «S 3[2]° 35′ E»; el actuario «Manuel Malaver [?]» (cf. el «Malaver» de 080); el punto donde está el divisorio Butterfill/Pablo Bustos (1536,5 m, ¿desde A o desde D?). La cifra a lápiz «170.43.11» del triángulo no coincide con 186,59 − 15,79 = 170,80 ha. ¿Quién era la «viuda Carey» (cf. los Carry/Carrey de 066 y 084)?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Avelina Bustos",
+   "rol": "Propietaria",
+   "texto": "Heredera en la sucesión Bustos (con Pablo, Matilde Flora, Susana Rufina y Juana Josefa: 099-100). Lindera de las hijuelas de sus hermanas en 099. Vende en 1880 la mayor parte de su hijuela a Bernardo Carey y conserva un triángulo de ≈ 187 ha con el sobrante, que compra al fisco. Sin otros datos.",
+   "fuentes": "Dup. 102; Fichas 099, 100."
+  },
+  {
+   "nombre": "Bernardo Carey",
+   "rol": "Comprador / lindero",
+   "texto": "Ya lindero en 099 («Bernardo Carey») y, como Bernardo y Catalina H. de Carrey, en 084; con otro campo al N del de Avelina; población propia y otra de «la viuda Carey» cerca de los mojones C y D. Apellido irlandés (Carey/Carry), dentro de la red de estancieros irlandeses del partido (Kelly, Butterfield, Maxwell, Murray). Sin datos biográficos.",
+   "fuentes": "Dup. 102; Fichas 066, 084, 099."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor público, el más activo del corpus entre 1869 y 1880 (052-053, 060, 063-066, 068, 070, 078, 082, 084-085, 087, 089, 094-096, 099-100). Mide aquí la tercera pieza de la sucesión Bustos con la variación que tomó en 1874. Búsqueda web sin datos biográficos fiables; probablemente pariente de G. Teodoro Schuster (009, 024).",
+   "fuentes": "Fichas citadas."
+  },
+  {
+   "nombre": "Virgilio M. Tedín",
+   "rol": "Juez",
+   "texto": "Juez de 1.ª Instancia en lo Civil del Departamento del Centro (Mercedes) en 1879-80 (095, 100, 102). Búsquedas anteriores sin resultados.",
+   "fuentes": "Dup. 100, 102."
+  },
+  {
+   "nombre": "Lavalle · Moreno · Kuhr · Martín Pico",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firman el dictamen del 12/3/1880; Kuhr es probablemente el agrimensor German Kuhr de 020 y 062 (lo que corrige el «Kirk [?]» leído en la 101). Martín Pico recibe las mensuras en el Departamento (también en 101).",
+   "fuentes": "Dup. 101, 102; Fichas 020, 062, 072."
+  },
+  {
+   "nombre": "Linderos",
+   "rol": "Vecinos",
+   "texto": "Apolinario Acuña y Eustaquio Frías (O), Matilde F. y Susana R. Bustos (N, 099), Pablo Bustos (S, 100), Mercedes L. [F.] de Butterfill (E, la «merced de Butterfill» de 099), María D. de Kelly, Higinio [?] Larrea, Hilario [?] Bustos, José Monsalvo, José Maxwell (poblaciones de referencia).",
+   "fuentes": "Dup. 102; Fichas 066, 099, 100."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/102/02.jpg",
+  "fuente": "IMG_9587.JPG (girada 90°)",
+  "lineas": [
+   "1880",
+   "Giles",
+   "102.",
+   "Mensura del terreno de",
+   "Doña Avelina Bustos",
+   "Partido de Giles.",
+   "Agrimensor Cárlos Schuster",
+   "6. 14. 18.",
+   "[a lápiz:] 1 + + / 2 + + / 4 1/6 + + [y una cifra ilegible]"
+  ]
+ },
+ "titulo": "Avelina Bustos",
+ "estado": "Transcripta (9 hojas, 261 renglones), 1 lámina"
+}

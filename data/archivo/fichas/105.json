@@ -1,0 +1,493 @@
+{
+ "carpeta": "105",
+ "carpeta_nombre": "Carpeta 105",
+ "archivo": "Ficha 105 - Juan Francisco Silva (1880).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (margen E del arroyo de Giles, junto al pueblo)",
+  "N.º de duplicado": "105",
+  "Propietario / solicitante": "Juan Francisco Silva",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1880",
+  "Fecha de la diligencia": "Pedido 31/8/1880; acta 20 [?]/9/1880; dictamen D. I. 29/10/1880",
+  "Ubicación": "Entre Aniceta Veloz, Piquetto, las Veloz (Zapata y Flores) y Díaz / Rodríguez",
+  "Orden judicial": "Juez de 1.ª Instancia en lo Civil del Dep. del Centro, Dr. Virgilio M. Tedín",
+  "Vendedor / antecesor": "J. R. García (testam. 1824) → J. D. Hidalgo → M. J. Casote (1830) → donación a Silva",
+  "Linderos citados": "A. Veloz · J. Pichetto · V. V. de Zapata · S. V. de Flores · F. Díaz · F. Rodríguez",
+  "Medidas": "451,32 × 4928/5182 m; 218,88 ha (título 164,99 + excedente fiscal 53,89)",
+  "Rumbos": "N 26° 28′ E · S 46° 55′ E · N 59° 15′ E; var. 11° 5′ NE",
+  "Referencia de archivo": "Dup. 105; plano + copia heliográfica sellada; lápiz «Felipe Veloz (Dup. 13)»"
+ },
+ "metricas": {
+  "superficie_ha": "218,9",
+  "hitos": "Mojones A-D; bandera; iglesia de Giles; poblaciones; zanjón",
+  "aguas": "Zanjón que cruza la faja"
+ },
+ "sintesis": "Duplicado completo (texto, plano, dictamen y notas de compra) y copia heliográfica. En septiembre de 1880 Carlos Schuster mide para Juan Francisco Silva la suerte de 500 × 4400 v que le donó su padrino Manuel José Casote, quien la había comprado en 1830 a Juan Dionisio Hidalgo (mejorado por el testamento de su madre Juana Rosa García, 1824; testigos Lavallén y Pividal). Faja S 46° 55′ E de 451 × 4928/5182 m, entre Aniceta Veloz, Piquetto y las Veloz: 218,88 ha, de las que 53,89 exceden el título hasta la línea de Díaz de Vivar y Silva las compra al fisco (escritura 13/4/1881). Mojones abalizados a la iglesia de Giles; un zanjón cruza el campo. Es la pieza entre 091 y 093.",
+ "caratula": {
+  "img": "img/f/105/01.jpg",
+  "fuente": "IMG_9614.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "105"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Don Juan Francisco Silva"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "—"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: extracto de títulos (donación de Casote, 183[2] [?]; Hidalgo → Casote, 1830; testamento de Juana Rosa García, 1824)",
+   "img": "img/f/105/05.jpg",
+   "fuente": "IMG_9616 (girada 90°)",
+   "nota": "Letra cursiva de Schuster o su copista, menuda y pálida; folios sellados 1-5. Las cifras de superficie del f. 3 están raspadas y corregidas entre renglones, y salvadas al pie.",
+   "lineas": [
+    "Mensura del terreno de Don Juan F.^{co} Sil-",
+    "va en el Partido de Giles —",
+    "Estracto.",
+    "Don Manuel José Casote vecino del Pueblo",
+    "de Giles, hace gracia y donacion á su",
+    "ahijado Don Juan Francisco Silva de un",
+    "terreno que posee en el Partido de Giles com-",
+    "puesto de quinientas varas de frente y cua-",
+    "tro mil cuatrocientas de fondo, el cual linda",
+    "por el Oeste con Don Marcelino Veloz, por",
+    "el Sud con los herederos de Don Juan Pa-",
+    "blo Rodriguez, por el Este con terreno de D.",
+    "Pedro Diaz de Vivar y por el Norte con la fi-",
+    "nada Doña Jacinta Peñalva, el cual hubo",
+    "por compra que hizo á Don Juan Dionisio",
+    "Hidalgo, como consta de la escritura que á su",
+    "favor otorgó y está presente al otorgamiento &.",
+    "Escritura ante el Juez de Paz de Giles de",
+    "fecha 20 de Setiembre de 183[2] [?] —",
+    "Don Juan Dionisio Hidalgo, vecino de la Ciu-",
+    "dad de Buenos Aires, vende á Don Manuel",
+    "Casote vecino del Pueblo de San Andrés de Giles",
+    "un terreno de su propiedad sito en la Cañada",
+    "de Giles, que lo hubo por mejora que le hizo su",
+    "Señora madre Doña Juana Rosa Garcia segun",
+    "cláusula de su testamento, hecho en el año",
+    "1824 y se encuentra en el Registro público del",
+    "Escribano Don Luis Cartañaga, cuyo terreno",
+    "se compone de quinientas varas de frente",
+    "con cuatro mil cuatrocientas de fondo, con",
+    "los linderos por el frente de los fondos del",
+    "terreno de los Ponces, hoy Don Marcelino Veloz,",
+    "por el costado del Sud con terreno que vendió"
+   ],
+   "interpretacion": "Extracto de títulos. Manuel José Casote, vecino del pueblo de Giles, DONA a su AHIJADO Juan Francisco Silva 500 v de frente por 4400 de fondo, lindero de Marcelino Veloz (O), herederos de Juan Pablo Rodríguez (S), Pedro Díaz de Vivar (E) y la finada Jacinta Peñalva (N); escritura ante el juez de paz de Giles del 20 de septiembre de 183[2] [?]. Antes: Juan Dionisio Hidalgo, vecino de Buenos Aires, vendió a Casote ese terreno «sito en la Cañada de Giles», que había recibido como MEJORA de su madre Juana Rosa García por su testamento de 1824 (registro del escribano Luis Cartañaga); su frente da a los fondos del terreno de los PONCES, hoy Marcelino Veloz."
+  },
+  {
+   "titulo": "Folio 1 vuelta: linderos de 1830, testigos y nota del escribano; pedido de mensura (31/8/1880)",
+   "img": "img/f/105/06.jpg",
+   "fuente": "IMG_9617, página izquierda",
+   "nota": "",
+   "lineas": [
+    "dió á Don Juan Pablo Rodriguez, por el fondo",
+    "al Este con terreno de Don Pedro Diaz de Vivar",
+    "y por el costado del Norte con terreno que tam-",
+    "bien vendió el otorgante á la finada Doña",
+    "Jacinta Peñalva, que es de Don Felix Ro-",
+    "mero —",
+    "Este documento es hecho en Giles á 18 de Oc-",
+    "tubre de 1830 y lo firman = Juan Dionisio Hi-",
+    "dalgo — Tgo. Alejandro Echevarria — Tgo. Cle-",
+    "mente Lavallen — Tgo. Rafael Pividal —",
+    "Al pié de este documento hay una nota",
+    "que dice: «Buenos Aires Octubre 29 de 1830 —",
+    "En esta fecha por ante mí y en el Regis-",
+    "tro á mi cargo, Don Juan Dionisio Hidal-",
+    "go otorgó escritura á favor de Don Ma-",
+    "nuel José Casote, por la venta que halla",
+    "el documento precedente — Segun que así",
+    "consta y aparece de dicho mi Registro al",
+    "que me remito y lo anoto — Tejada [?]» —",
+    "Agosto 31 de 1880 — Don Juan Francisco Silva",
+    "se presenta al Señor Juez de primera instancia",
+    "en lo Civil del Departamento del Centro D.^{r}",
+    "Tedin solicitando la mensura de su terreno y",
+    "proponiendo al Agrimensor subscripto para prac-",
+    "ticarla —",
+    "En la misma fecha el Señor Juez ha por nom-",
+    "brado al Agrimensor propuesto y en",
+    "Setiembre 6 toma antecedentes del Departamen-",
+    "to de Ingenieros —",
+    "Mensura.",
+    "Comisionado yo el Agrimensor público que",
+    "firmo, por auto del Señor Juez de primera",
+    "instancia en lo Civil del Departamento del",
+    "Centro D.^{r} D. Virgilio M. Tedin, de fecha 31 de",
+    "Agosto del corriente año, para medir el terreno"
+   ],
+   "interpretacion": "Linderos del título de 1830: Juan Pablo Rodríguez (S), Pedro Díaz de Vivar (E, fondo), Jacinta Peñalva, hoy Félix Romero (N). Documento privado hecho en Giles el 18/10/1830, firmado por Hidalgo y los testigos Alejandro Echevarría, Clemente LAVALLÉN y Rafael PIVIDAL; nota del escribano (Buenos Aires, 29/10/1830, Tejada [?]) de que se otorgó la escritura. 31/8/1880: Silva pide al juez Tedín la mensura y propone a Schuster, que es nombrado ese día; el 6 de septiembre toma antecedentes en el Departamento de Ingenieros."
+  },
+  {
+   "titulo": "Folio 2: citación, líneas A-B (contra Aniceta Veloz) y A-C (contra Piquetto)",
+   "img": "img/f/105/06.jpg",
+   "fuente": "IMG_9617, página derecha",
+   "nota": "",
+   "lineas": [
+    "de la propiedad de Don Juan Francisco Silva,",
+    "situado en el Partido de San Andrés de Giles —",
+    "Hecha la citacion de los linderos y publicado",
+    "los edictos como lo determina la Ley de Enjuicia-",
+    "miento en su artículo 652, se acompañan al es-",
+    "pediente la circular de citacion y los diarios en",
+    "que se publicaron los edictos, procedí á llenar",
+    "mi cometido del modo siguiente —",
+    "Me coloqué en el mojon del angulo",
+    "Oeste, letra A, para cuyo punto había he-",
+    "cho la citacion y colocando una bandera en",
+    "el mojon B se tiró el rumbo al Norte veinti-",
+    "seis grados veintiocho minutos Este y medí",
+    "cuatrocientos cincuenta y un metros treinta y",
+    "dos centímetros hasta el mojon B, del angulo",
+    "Norte del terreno que mido, deslindando con terre-",
+    "no de Doña Aniceta Veloz —",
+    "De aquí volví al mojon A de arran-",
+    "que y por el rumbo al Sud cuarenta y seis",
+    "grados cincuenta y cinco minutos Este, deslin-",
+    "dando con terreno de Don José Pichetto, medí",
+    "hasta el mojon C del angulo Sud para el",
+    "terreno que mido y Este para Pichetto, cua-",
+    "tro mil novecientos veintiocho metros, es-",
+    "te mojon se encuentra en el punto de inter-",
+    "seccion de la línea del campo que perteneció",
+    "á Don Pedro Diaz de Vivar, hoy á diferentes pro-",
+    "pietarios — Se encontraron en la línea medida",
+    "mojones costaneros á los novecientos cincuenta",
+    "y dos metros cinco decímetros, dos mil doscientos",
+    "cincuenta y ocho, dos mil novecientos once, tres",
+    "mil quinientos sesenta y cuatro y tres mil quinien-",
+    "tos ochenta y cinco metros y se colocó otro á los",
+    "tres mil ochocientos diez [?] metros cuatro de-",
+    "címetros —",
+    "Desde el mojon Sud letra C por el rum-"
+   ],
+   "interpretacion": "Citación y edictos (art. 652 de la Ley de Enjuiciamiento). Mojón A (ángulo O), con una bandera en B: A-B, N 26° 28′ E, 451,32 m contra Aniceta Veloz. A-C, S 46° 55′ E, 4928 m contra José Pichetto (= Piquetto, Ficha 091), hasta C, en la línea del campo que fue de Pedro Díaz de Vivar, hoy de varios dueños; costaneros a 952,5, 2258, 2911, 3564, 3585 m y uno puesto a 3810,4 m."
+  },
+  {
+   "titulo": "Folio 2 vuelta: líneas C-D y D-B; sobrante del fondo; superficie",
+   "img": "img/f/105/07.jpg",
+   "fuente": "IMG_9618, página izquierda",
+   "nota": "",
+   "lineas": [
+    "bo al Norte cincuenta y nueve grados quince minu-",
+    "tos Este se midieron cuatrocientos cincuen-",
+    "ta metros ochenta y tres centímetros que corres-",
+    "ponden á los cuatrocientos treinta y tres me-",
+    "tros de frente que tiene este terreno y se",
+    "colocó el mojon del angulo Este, letra D, se",
+    "deslinda con terrenos de Don Fernando Díaz",
+    "y D. Francisco Rodriguez, antes de Don",
+    "Pedro Diaz de Vivar —",
+    "Concluida esta línea me trasladé",
+    "al mojon del angulo Norte letra B y medí",
+    "la línea BD paralela á la AC por el rum-",
+    "bo al Sud cuarenta y seis grados cincuen-",
+    "ta y cinco minutos Este, deslindando con Do-",
+    "ña Valentina Veloz de Zapata y Doña Segun-",
+    "da Veloz de Flores y resultó de cinco mil",
+    "ciento ochenta y dos metros, poniendo",
+    "mojones costaneros á los mil doscientos",
+    "noventa y nueve, dos mil quinientos noventa",
+    "y ocho y tres mil ~~quinientos~~ ochocientos cin-",
+    "cuenta metros cuatro decímetros —",
+    "De este modo quedó concluida esta o-",
+    "peracion de la que resultó tener mas fondo",
+    "de lo que expresan los títulos hasta los con",
+    "los linderos que ellos determinan en el fondo",
+    "(D. Pedro Diaz de Vivar); pero como el interesado",
+    "manifiesta estar dispuesto á comprar las sobran-",
+    "tes al Superior Gobierno, no tuve inconveniente",
+    "en incluirlas en la mensura —",
+    "La superficie encontrada es de dos-",
+    "cientas diez y ocho hectáreas ochenta y",
+    "ocho areas quince metros cuadrados, ó",
+    "sean dos millones novecientas diez y o-",
+    "cho mil quinientas noventa y una",
+    "varas cuadradas (218^{h} 88^{a} 15^{m.c.} = 2.918.5[91] v.^{s}c.^{s})"
+   ],
+   "interpretacion": "C-D, N 59° 15′ E, 450,83 m (equivalen a los 433 m = 500 v de frente) contra Fernando Díaz y Francisco Rodríguez, antes Díaz de Vivar. B-D, S 46° 55′ E, paralela a A-C, 5182 m contra Valentina Veloz de Zapata y Segunda Veloz de Flores, con costaneros a 1299, 2598 y 3810,4 m. El campo tiene MÁS FONDO que el título hasta el lindero que éste fija (Díaz de Vivar); como Silva quiere comprar el sobrante al Gobierno, se lo incluye. Superficie 218 ha 88 a 15 m² = 2.918.591 v²."
+  },
+  {
+   "titulo": "Folio 3: título, excedente de propiedad pública, linderos, variación, fecha y salvados",
+   "img": "img/f/105/07.jpg",
+   "fuente": "IMG_9618, página derecha",
+   "nota": "",
+   "lineas": [
+    "591 v.^{s}c.^{s}) y como el título es sólo de ciento sesen-",
+    "ta y ~~seis~~ ^{cuatro} hectáreas ~~[...]~~ ^{noventa y nueve} areas ~~[...]~~ ^{tres}",
+    "metros cuadrados ó sean dos millones doscien-",
+    "tas ~~[...]~~ mil ~~[...]~~ varas cua-",
+    "dradas (164^{h} 99^{a} 03^{m.c.} = 2.200.000 v.^{s}c.^{s}) hay por con-",
+    "siguiente un escedente de propiedad pública",
+    "de cincuenta y ~~dos~~ ^{tres} hectáreas ~~[...]~~ ^{ochenta y nueve} areas",
+    "~~[...]~~ ^{doce} metros cuadrados ó sean setecientas",
+    "^{diez y ocho} mil quinientas noventa y una",
+    "~~[...]~~",
+    "varas cuadradas (53^{h} 89^{a} 12^{m.c.} =",
+    "718.591 v.^{s}c.^{s}) y linda al Nord Este con Doña",
+    "Valentina V. de Zapata y Doña Segunda V.",
+    "de Flores, al Sud Este con Don Francisco",
+    "Rodriguez y Don Fernando Diaz, al Sud",
+    "Oeste con Don José Pichetto y al Nor Oeste",
+    "con Doña Aniceta Veloz.",
+    "Los linderos todos firmaron la citacion",
+    "haciéndolo por sus respectivas esposas Don",
+    "José Flores y D. Juan Esteban Zapata —",
+    "Los rumbos son los verdaderos y la",
+    "variacion de la Aguja de once grados",
+    "cinco minutos Nord Este —",
+    "Partido de San Andrés de Giles á",
+    "veinte [?] de Setiembre de mil ochocientos o-",
+    "chenta —",
+    "Testado = quinientos = no vale —",
+    "Cárlos Schuster",
+    "Sobre raspado = diez = vale = Testado = seis = setenta y dos =",
+    "veintitres = veintitres = noventa y cinco = dos = quince =",
+    "noventa y dos = noventa y cinco mil quinientas",
+    "noventa y seis = no vale = Entrelíneas = cuatro = noven-",
+    "ta y nueve = tres = tres = ochenta y nueve = doce = diez y ocho",
+    "mil quinientas noventa y una = Vale —",
+    "Schuster",
+    "Mojon A sobre la línea AB",
+    "Poblacion de Don Joaquin Freire [?] 170° 20′, id. de",
+    "Don Benedicto Vazquez 287° 45′. Torre de la"
+   ],
+   "interpretacion": "El título es de 164 ha 99 a 03 m² = 2.200.000 v² (500 × 4400 v): EXCEDENTE «de propiedad pública» de 53 ha 89 a 12 m² = 718.591 v² (las cifras corregidas entre renglones). Linderos: Valentina V. de Zapata y Segunda V. de Flores (NE), Francisco Rodríguez y Fernando Díaz (SE), José Pichetto (SO), Aniceta Veloz (NO). Firmaron todos; por las Veloz, sus maridos José Flores y Juan Esteban Zapata. Rumbos verdaderos, variación 11° 5′ NE. 20 [?] de septiembre de 1880; salvados de testados y entrelíneas. Empieza el abalizamiento."
+  },
+  {
+   "titulo": "Folio 3 vuelta: abalizamiento (con la iglesia de Giles), cargo y dictamen del Departamento",
+   "img": "img/f/105/08.jpg",
+   "fuente": "IMG_9619, página izquierda",
+   "nota": "",
+   "lineas": [
+    "Iglesia de Giles 305° 1[?]′ —",
+    "Mojon B sobre la línea BD.",
+    "Poblacion de Doña Aniceta Veloz 79° 2[?]′, id. de",
+    "Don Fernando Pelaez [?] 225° 15′, Iglesia de Giles",
+    "96° 50′.",
+    "Mojon C sobre la línea CA",
+    "Poblacion de Don Fernando Díaz 217° 40′, id.",
+    "de D. Juan Silva 4° 45′, id. de Don Evaristo [?]",
+    "Navarro 140° 15′ —",
+    "Mojon D sobre la línea DB.",
+    "Poblacion de D. Juan Arévalo 145° 5′, id. de",
+    "Don Agustin Veloz 41° 20′, id. de Don José Flo-",
+    "res 4° 41′.",
+    "Schuster",
+    "Octubre 2/880. —",
+    "Presentada en la fecha al Depar-",
+    "tamento de Ingenieros —",
+    "Martin Pico",
+    "Señor Juez de 1.^{a} Instancia.",
+    "El Departamento de Ingenieros ha exa-",
+    "minado la mensura practicada por el",
+    "Agrimensor D. Cárlos Schuster del terre-",
+    "no de D. Juan Francisco Silva en Giles,",
+    "y la considera en estado de ser aprobada",
+    "judicialmente.",
+    "Dentro de los mojones del terreno medi-",
+    "do ha resultado sobre la superficie del",
+    "título un sobrante de 538912 metros cuadra-",
+    "dos ó sean (0^{l}.019960) diez y nueve mil no-"
+   ],
+   "interpretacion": "Abalizamiento: desde A, poblaciones de Joaquín Freire [?] y Benedicto Vázquez y la IGLESIA DE GILES (305° 1[?]′); desde B, Aniceta Veloz, Fernando Peláez [?] y la iglesia de Giles (96° 50′); desde C, Fernando Díaz, Juan Silva y Evaristo [?] Navarro; desde D, Juan Arévalo, Agustín Veloz y José Flores. Presentada al Departamento el 2 de octubre de 1880 (Martín Pico). Dictamen: en estado de ser aprobada; sobrante de 538.912 m² = 0,019960 leguas²…"
+  },
+  {
+   "titulo": "Folio 4: fin del dictamen (29/10/1880) y notas de la compra del sobrante (1880-1882)",
+   "img": "img/f/105/09.jpg",
+   "fuente": "IMG_9622, página derecha (en 9619-9620 tapada por el plano)",
+   "nota": "",
+   "lineas": [
+    "vecientos sesenta millonésimos de una",
+    "legua cuadrada, que segun declara el",
+    "Agrimensor el interesado está dispuesto",
+    "á comprar al fisco, y del cual se dá en",
+    "la fecha aviso al Ministerio de Hacienda.",
+    "Octubre 29/80",
+    "Moreno   Kuhr   Barr[?]",
+    "Nov. 12/880 — Juan F.^{co} Silva pide el",
+    "sobrante en compra. Inf.",
+    "Dic. 10/880",
+    "Kuhr",
+    "En 13 de Abril (1881) — se otorga escritu-",
+    "ra á Silva",
+    "S.^{bre} [?] 13/882",
+    "Anotado",
+    "Lagos [?]"
+   ],
+   "interpretacion": "…que el interesado quiere comprar al fisco; aviso al Ministerio de Hacienda (29/10/1880; Moreno, Kuhr, Barr[?]). Notas posteriores: 12/11/1880 Silva pide el sobrante en compra; informe de Kuhr del 10/12/1880; el 13 de abril de 1881 se otorga la escritura a Silva; anotado en septiembre [?] de 1882 por Lagos [?]."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Juan Francisco Silva (Schuster, 1880)",
+   "img": "img/f/105/03.jpg",
+   "fuente": "IMG_9621.JPG (pliego plegado, f. 5)",
+   "orientacion": "Marco doble negro; rótulos de imprenta; flecha de la variación «Var. 11° 5′ NE» en diagonal sobre el mojón A; escala gráfica de 1000-0-4000 metros; firma «Cárlos Schuster». Superficie y nombres agregados a lápiz; cruces a lápiz sobre los linderos.",
+   "interpretacion": "Faja larga y angosta A-B-D-C, «JUAN FRANCISCO SILVA», 218 ha 88 a 15 ca (a lápiz), entre Aniceta Veloz (O, con el «P.to de Veloz»), Valentina V. de Zapata y Segunda V. de Flores (N), Francisco Rodríguez y Fernando Díaz (E) y José Pichetto (S). Un ZANJÓN la cruza a ≈ 3564-3810 m, junto a la población «Silva» (puntos). A lápiz, en la faja de Zapata: «Aniceta Veloz» y «Felipe Veloz (Dup. 13)».",
+   "referencias": [
+    [
+     "A-B",
+     "N 26° 28′ E · 451,32 m · contra Aniceta Veloz"
+    ],
+    [
+     "A-C",
+     "S 46° 55′ E · 4928 m · contra José Pichetto (952,5 · 2258 · 2911 · 3564 · 3810,4)"
+    ],
+    [
+     "B-D",
+     "S 46° 55′ E · 5182 m · contra V. V. de Zapata y S. V. de Flores (1299 · 2598 · 3810,4)"
+    ],
+    [
+     "C-D",
+     "N 59° 15′ E · 450,83 m · contra F. Rodríguez y F. Díaz (ex Díaz de Vivar)"
+    ],
+    [
+     "Superficie",
+     "218,88 ha = 2.918.591 v² (título 2.200.000 v² + excedente 718.591 v²)"
+    ],
+    [
+     "Aguas",
+     "Zanjón que cruza la faja a ≈ 3,6-3,8 km de A"
+    ],
+    [
+     "Poblaciones",
+     "Puesto de Veloz · Silva"
+    ],
+    [
+     "Escala",
+     "Gráfica, 4000 m"
+    ]
+   ]
+  },
+  {
+   "titulo": "Copia heliográfica del plano, con sello",
+   "img": "img/f/105/04.jpg",
+   "fuente": "IMG_9623.JPG",
+   "orientacion": "",
+   "interpretacion": "Copia posterior del mismo plano (heliografía, fondo claro azulado), con un sello oval y una certificación manuscrita en el ángulo inferior derecho: probablemente una copia de la Dirección de Geodesia del siglo XX, como las de 1937-38 de otras carpetas.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Una donación a un ahijado",
+   "texto": "El título de Silva es una DONACIÓN de su padrino Manuel José Casote, vecino del pueblo: el compadrazgo como vía de acceso a la tierra. La cadena llega a 1824 por el testamento de Juana Rosa García, que mejora a su hijo Juan Dionisio Hidalgo con la suerte: ¿parienta del agrimensor Joaquín Hidalgo de la traza de 1838 (008, 018)? El documento de 1830 tiene como testigos a Clemente Lavallén (la Cañada de Lavallén) y a Rafael Pividal (017): los fundadores del pueblo."
+  },
+  {
+   "titulo": "Ubicación y empalmes",
+   "texto": "Faja S 46° 55′ E (la familia de las suertes del arroyo, ≈ 47°) entre Aniceta Veloz (093: misma línea A-D S 46° 55′ E de 1732 m) y la 1.ª fracción de Piquetto (091: A-C S 46° 55′ E 6538,5 m «contra A. Veloz y J. Silva»): la 105 es la pieza que faltaba entre 091 y 093. Su frente da «a los fondos del terreno de los Ponces» (Marcelino Veloz) y su fondo a la línea de Díaz de Vivar (Fernando Díaz, 059). El lápiz «Felipe Veloz (Dup. 13)» remite al duplicado 13."
+  },
+  {
+   "titulo": "El sobrante y el fisco",
+   "texto": "El fondo excede el título en 53,89 ha (33 %); el Departamento lo calcula en 538.912 m² = 0,01996 leguas², avisa a Hacienda y la escritura de compra se otorga el 13/4/1881: es el caso más documentado del corpus del circuito sobrante → pedido → informe (Kuhr) → escritura, en cinco meses."
+  },
+  {
+   "titulo": "Ritual y abalizamiento con la iglesia",
+   "texto": "Bandera en el mojón B para alinear; citación y edictos (art. 652); firma de los linderos, las mujeres por sus maridos (Flores y Zapata). Los mojones A y B se abalizan a la IGLESIA DE GILES (305° y 96° 50′) además de las poblaciones: ancla GIS fuerte, como en 046, 058 y 100."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "Un ZANJÓN atraviesa la faja a 3,6-3,8 km del frente (cf. el «arroyo sin nombre» de 082 y 086); población de Silva junto a él y «puesto de Veloz» al O. Muchas poblaciones vecinas (Freire, Vázquez, Peláez, Navarro, Arévalo, Agustín Veloz, Flores): poblamiento denso a 5 km del pueblo."
+  },
+  {
+   "titulo": "Lecturas dudosas",
+   "texto": "Año de la donación «183[2] [?]»; «Tejada [?]» (escribano de 1830); «Joaquín Freire [?]», «Fernando Peláez [?]» (cf. Peláez de 093), «Evaristo [?] Navarro»; minutos de las visuales a la iglesia; la tercera firma «Barr[?]» (la misma de 103-104); «Lagos [?]» de la nota de 1882."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Juan Francisco Silva",
+   "rol": "Propietario",
+   "texto": "Ahijado de Manuel José Casote, que le dona la suerte; en 1880 la mide y compra el sobrante fiscal (escritura 13/4/1881). Lindero «J. Silva» de Piquetto (091) y de Aniceta Veloz (093). ¿Pariente de Antonio («Antonino») Silva (083, 085) y de Benjamín Antonio Silva (104)? Sin datos.",
+   "fuentes": "Dup. 105; Fichas 083, 091, 093."
+  },
+  {
+   "nombre": "Manuel José Casote",
+   "rol": "Antecesor / padrino",
+   "texto": "Vecino del pueblo de Giles; compra la suerte a Hidalgo en 1830 y la dona a su ahijado. Sin otros datos.",
+   "fuentes": "Dup. 105."
+  },
+  {
+   "nombre": "Juan Dionisio Hidalgo · Juana Rosa García",
+   "rol": "Antecesores",
+   "texto": "Juana Rosa García testa en 1824 (escribano Luis Cartañaga) y mejora a su hijo Juan Dionisio Hidalgo, vecino de Buenos Aires, con la suerte de la Cañada de Giles. Relación con el agrimensor Joaquín Hidalgo (008, 018) por verificar.",
+   "fuentes": "Dup. 105; Fichas 008, 018."
+  },
+  {
+   "nombre": "Alejandro Echevarría · Clemente Lavallén · Rafael Pividal",
+   "rol": "Testigos (1830)",
+   "texto": "Vecinos notables del partido naciente: Pividal es el de la fundación del pueblo (008, 017); Lavallén da nombre a la cañada del límite con Areco (029, 038, 041).",
+   "fuentes": "Fichas 008, 017, 029."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Mide en 1880, en la misma serie de duplicados, a Avelina Bustos (102) y a Silva (105); var. 11° 5′ NE (no la de 1874 que usa en 099-102).",
+   "fuentes": "Fichas 099-102."
+  },
+  {
+   "nombre": "Linderos",
+   "rol": "Vecinos",
+   "texto": "Aniceta Veloz (093), José Pichetto/Piquetto (091), Valentina Veloz de Zapata (esposa de Juan Esteban Zapata), Segunda Veloz de Flores (esposa de José Flores), Fernando Díaz (059), Francisco Rodríguez; antes Marcelino Veloz, los Ponce, Juan Pablo Rodríguez, Jacinta Peñalva → Félix Romero.",
+   "fuentes": "Fichas 059, 091, 093."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/105/02.jpg",
+  "fuente": "IMG_9615.JPG (girada 90°)",
+  "lineas": [
+   "Giles",
+   "105",
+   "Duplicado de la diligencia de",
+   "mensura y plano del terreno de",
+   "la propiedad de Don Juan F.^{co}",
+   "Silva —",
+   "Situado en el Partido de Giles.",
+   "Medido por el Agrimensor",
+   "Cárlos Schuster —",
+   "5. 115. 100. —",
+   "[a lápiz:] ... N.^{o} 73 [?]"
+  ]
+ },
+ "titulo": "Juan Francisco Silva",
+ "estado": "Transcripta (7 hojas, 222 renglones), 2 láminas"
+}
