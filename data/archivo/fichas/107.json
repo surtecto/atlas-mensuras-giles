@@ -1,0 +1,771 @@
+{
+ "carpeta": "107",
+ "carpeta_nombre": "Carpeta 107",
+ "archivo": "Ficha 107 - Zoilo Costa y her. de J. M. Lima (1880).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (rincón SO, bloque Lima–Casado–Unzué)",
+  "N.º de duplicado": "107",
+  "Propietario / solicitante": "Zoilo Costa y herederos de J. M. Lima",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1880",
+  "Fecha de la diligencia": "Operación 29/5-3/6/1880; presentada 22/11/1880; dictamen 4/12/1880",
+  "Ubicación": "Entre Casado, Jeck, Serrat, los her. de Serapio Lima, Unzué y A. Silva",
+  "Orden judicial": "Juez de 1.ª Inst. en lo Civil, Dep. del Centro, Dr. Virgilio M. Tedín",
+  "Vendedor / antecesor": "Testamentaría de José María Lima (títulos 1853-1858)",
+  "Linderos citados": "A. Casado · L. L. de Jeck · M. R. de Serrat · her. de S. Lima · S. E. Unzué · A. Silva",
+  "Medidas": "A-B 2716,6 · A-C 2598 · fondo 7778,28 m; Costa 1012,44 ha + 5 × 97,92 ha",
+  "Rumbos": "S 44° 52′ O · S 45° 55′ E · S 44° 11′ O; var. 12° NE",
+  "Referencia de archivo": "Dup. 107; plano de 1880 + copia de 1938; remite al dup. 61 (Videla 1871)"
+ },
+ "metricas": {
+  "superficie_ha": "1501,96",
+  "hitos": "Mojones A-P; línea a-b de Videla (1871); poblaciones",
+  "aguas": "Arroyo de Moyano [?]"
+ },
+ "sintesis": "Duplicado completo (texto, plano, dictamen) con dos tandas fotográficas y copia de 1938. En mayo-junio de 1880 Carlos Schuster mide y divide el campo de la testamentaría de José María Lima (≈ 1502 ha, armado con compras a hermanos y primos en 1853-58) según la transacción con Zoilo Costa, que renuncia a 200 de sus 800 cuadras: Costa recibe 600 cuadras (1012,44 ha, un hexágono que parte de sus poblaciones) y el resto se divide en cinco hijuelas de 97,92 ha (Fermín, Primitiva, Juana, Nieves y Benigna Lima). Un arroyo («de Moyano» [?]) cruza el campo. Luisa L. de Jeck protesta y el Departamento le da la razón: debe respetarse la línea de Videla de 1871 (dup. 61), que tiene sanción judicial.",
+ "caratula": {
+  "img": "img/f/107/01.jpg",
+  "fuente": "IMG_3590.JPG (girada 90°); repetida en IMG_9635",
+  "campos": [
+   [
+    "N.º",
+    "107"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Don Zoilo Costa y herederos de Don José María Lima"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1880"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: antecedentes — mensura de 1877 desaprobada y transacción entre Zoilo Costa y los herederos de José María Lima",
+   "img": "img/f/107/06.jpg",
+   "fuente": "IMG_3592 (girada 90°)",
+   "nota": "Letra cursiva de Schuster o su copista, fina y pálida; folios sellados 1-7. La carpeta tiene DOS tandas fotográficas del mismo duplicado: IMG_3590-3602 (2011, 8 MB) e IMG_9635-9647 (2012): se transcribió sobre la primera; 9647 es la copia de 1938. Las tomas 3593-3598 son de doble página.",
+   "lineas": [
+    "Mensura del terreno de D.^{n} Zoilo Costa",
+    "y herederos de D.^{n} José Maria Lima",
+    "En Julio de 1877 [?] El Agrimensor suscripto prac-",
+    "ticó una mensura para D.^{n} Zoilo Costa",
+    "en el campo de la testamentaria de D.^{n}",
+    "José Maria Lima, la cual fué desaproba-",
+    "da por el S.^{or} Juez de primera instancia",
+    "del Departamento del Centro D.^{r} Tedin y",
+    "mandó se practicase nueva mensura;",
+    "esta operacion ha estado suspendida por ha-",
+    "ber Costa y los herederos de Lima entrado",
+    "en arreglos sobre la cuestion que seguian",
+    "y acordaron segun escrito de f. 198 vta.; D.",
+    "Zoilo Costa renuncia á doscientas cuadras",
+    "cuadradas que le asigna su escritura, de-",
+    "biendo las seiscientas cuadras restantes u-",
+    "bicarse dentro del terreno de la testamenta-",
+    "ria en cualquiera direccion, tomando",
+    "por punto de partida para la ubica-",
+    "cion las poblaciones de dicho Costa. — Re-",
+    "nunciando ambas partes á los derechos",
+    "que puedan tener; Costa sobre los térmi-",
+    "nos de la Escritura y los otros por lo que",
+    "les pueda corresponder sobre las seis-",
+    "cientas cuadras de terreno que se le",
+    "adjudique á Costa. 8.^{bre} [?] Marzo 3 de 1880",
+    "el S.^{or} Juez aprueba la transaccion de",
+    "f. 198 vta. —",
+    "Un escrito del apoderado de los Lima",
+    "y otro sí del tutor de una menor, piden",
+    "que la mensura se haga bajo la base que"
+   ],
+   "interpretacion": "Antecedentes. En julio de 1877 [?] Schuster había medido para Zoilo Costa dentro del campo de la testamentaría de José María Lima; el juez Tedín DESAPROBÓ esa mensura y mandó hacer otra. La operación quedó suspendida porque Costa y los herederos de Lima transaron (escrito de f. 198 vta.): Costa RENUNCIA a 200 de las 800 cuadras cuadradas que le daba su escritura; las 600 restantes se ubicarán dentro del campo de la testamentaría «en cualquier dirección», tomando como punto de partida LAS POBLACIONES de Costa; ambas partes renuncian a otros derechos. El juez aprueba la transacción el 3 de marzo de 1880. Luego el apoderado de los Lima y el tutor de una menor piden la base de la mensura…"
+  },
+  {
+   "titulo": "Folio 1 vuelta: pedido de cinco partes, auto de Tedín, títulos agregados; extracto de títulos (1853, 1856, 1857)",
+   "img": "img/f/107/07.jpg",
+   "fuente": "IMG_3593, página izquierda",
+   "nota": "",
+   "lineas": [
+    "se ubiquen las seiscientas cuadras á",
+    "[Cos]ta y del resto del campo de la testa-",
+    "mentaria de D.^{n} José M.^{a} Lima, se",
+    "hagan cinco partes para los herede-",
+    "ros, Juana Lima de Torres, Benig-",
+    "na [?] Lima de Gonzalez, Fermin y Nieves",
+    "Lima y otra para Doña Primitiva",
+    "Lima, con lo que está conforme D.^{n}",
+    "Zoilo Costa —",
+    "Por auto del S.^{or} Juez de primera",
+    "Instancia D.^{r} Tedin se manda prac-",
+    "ticar la mensura ordenada á f. 16",
+    "y que se haga la division y adjudica-",
+    "cion de lotes en la forma establecida",
+    "en el escrito de f. 211 — &.",
+    "En Abril 27 de 1880. El Procurador Mo-",
+    "rei [?], pide sean agregados los títulos del",
+    "campo de la testamentaria de Lima —",
+    "El S.^{or} Juez decreta como se pide —",
+    "Estracto de los títulos",
+    "1853 Setiembre 29 D. Juan Lima vende",
+    "á su hermano D.^{n} José M.^{a} Lima dos-",
+    "cientas varas de terreno de Estancia de",
+    "las trescientas noventa y una que le",
+    "tocaron por herencia paterna",
+    "1856 Agosto 28 — D.^{n} Serapio Lima vende",
+    "á su hermano D.^{n} José M.^{a} Lima mil",
+    "trescientas cincuenta y nueve varas de",
+    "frente y tres mil varas de fondo que",
+    "hubo el otorgante, de mayor estension",
+    "que le fué otorgada en sus legítimas pa-",
+    "terna y materna —",
+    "1857 Abril 16 — Doña Cecilia Contreras [?] ven-",
+    "de á D.^{n} José M.^{a} Lima un terreno de"
+   ],
+   "interpretacion": "…ubicar las 600 cuadras de Costa y hacer con el resto CINCO partes iguales para los herederos: Juana Lima de Torres, Benigna Lima de González, Fermín y Nieves Lima, y otra para Primitiva Lima (la menor); Costa conforme. Tedín manda practicar la mensura de f. 16 y la división de f. 211. El 27/4/1880 el procurador Morei [?] pide agregar los títulos. Extracto: 1853, Juan Lima vende a su hermano José María 200 varas de las 391 de su herencia paterna; 1856, Serapio Lima vende a su hermano 1359 v de frente × 3000 de fondo, de sus legítimas; 1857, Cecilia Contreras [?] vende…"
+  },
+  {
+   "titulo": "Folio 2: títulos de 1858, hijuelas de José María Lima, resumen; comienzo de la mensura",
+   "img": "img/f/107/07.jpg",
+   "fuente": "IMG_3593, página derecha",
+   "nota": "",
+   "lineas": [
+    "[su] parte de su propiedad que le fué adjudi-",
+    "cado por fallecimiento de su finada señora",
+    "abuela Doña Juana Ar[r]oyo [?] de Lima y cons-",
+    "ta de doscientas cincuenta varas de frente",
+    "y nueve mil varas de fondo —",
+    "1858 Enero 3 — D.^{n} Jorge Contreras vende á",
+    "D.^{n} José M.^{a} Lima un terreno de doscien-",
+    "tas cincuenta varas de frente y legua",
+    "y media de fondo que le fué adjudi-",
+    "cado en la particion de los bienes de su",
+    "finada madre Doña Micaela Lima —",
+    "Se le adjudica á D.^{n} José Maria Lima",
+    "en su hijuela por su legítima materna un",
+    "terreno de Estancia de quinientas varas de",
+    "frente por el fondo que espresan las escri-",
+    "turas (9000 v.^{s})",
+    "Al mismo D.^{n} José M.^{a} Lima en la hijuela",
+    "paterna se le adjudican quinientas setenta",
+    "y ocho varas de terreno de Estancia &.",
+    "Resumen: mil trescientas cincuenta y nue-",
+    "ve varas de frente por tres mil de fondo",
+    "y mil setecientas setenta y ocho varas",
+    "de frente con nueve mil de fondo —",
+    "Mensura",
+    "Comisionado yo el Agrimensor que firmo por",
+    "el S.^{or} Juez de primera instancia en lo",
+    "civil del Departamento del Centro D.^{r} D.^{n}",
+    "Virgilio M. Tedin para hacer la mensura",
+    "y division del terreno de la testamentaria",
+    "de D.^{n} José Maria Lima, con arreglo á las",
+    "bases estipuladas entre los S.^{res} D.^{n} Zoilo",
+    "Costa y herederos de la testamentaria de",
+    "Lima y aprobadas por el Señor Juez —",
+    "Hecha la citacion de los linderos como"
+   ],
+   "interpretacion": "…250 × 9000 v que le tocaron por su abuela Juana Ar[r]oyo [?] de Lima; 1858, Jorge Contreras vende 250 v × legua y media, herencia de su madre Micaela Lima; José María recibe además 500 v (legítima materna, fondo 9000 v) y 578 v (paterna). RESUMEN: 1359 × 3000 v + 1778 × 9000 v. Comisión de Tedín para medir y dividir según las bases de la transacción; citación de linderos."
+  },
+  {
+   "titulo": "Folio 2 vuelta: citación (art. 652), comienzo el 29 de mayo; línea A-B contra Agustín Casado y Luisa L. de Jeck",
+   "img": "img/f/107/08.jpg",
+   "fuente": "IMG_3594, página izquierda",
+   "nota": "",
+   "lineas": [
+    "consta de la circular que original se acom-",
+    "paña al expediente y fijados los edictos que",
+    "determina la Ley de Enjuiciamiento en su",
+    "Artículo 652, acompañando los diarios. Pro-",
+    "cedí el dia 29 de Mayo del corriente año",
+    "á dar cumplimiento á mi cometido del mo-",
+    "do que paso á detallar:",
+    "Me coloqué en el mojon de la mensu-",
+    "ra que practiqué el año 1877 [?] para D.^{n}",
+    "Zoilo Costa que está en la interseccion de",
+    "la línea del costado Sud-Este del campo",
+    "de D.^{n} Agustin Casado, señalado con la",
+    "letra A, ángulo Norte del terreno y por",
+    "el rumbo al Sud cuarenta y cuatro gra-",
+    "dos cincuenta y dos minutos Oeste, medí",
+    "dos mil setecientos diez y seis metros seis-",
+    "cientos cuarenta y dos milímetros que es",
+    "lo que tiene este terreno de frente con arre-",
+    "glo á los títulos y coloqué el mojon del",
+    "ángulo Oeste para este terreno, hoy de D.^{n}",
+    "Zoilo Costa, señalado con la letra B, en es-",
+    "ta línea se deslinda con terreno del S.^{or} Casa-",
+    "do y con Doña Luisa Fuentes [?] de Jeck, se",
+    "encontró el mojon esquinero entre Casado",
+    "y la Señora Jeck á los mil veinticinco me-",
+    "tros apartado quince metros cinco decíme-",
+    "tros á la izquierda y coloqué mojones",
+    "costaneros á los novecientos veinticinco y",
+    "dos mil ciento diez metros, encontrándose",
+    "un costanero de la Señora Jeck á los dos",
+    "mil trescientos cuarenta y tres metros",
+    "apartado á la izquierda siete metros",
+    "seis decímetros —",
+    "Desde el punto anotado, volví al"
+   ],
+   "interpretacion": "Citación con circular y edictos (art. 652). Operación desde el 29 de mayo de 1880. Arranque en el mojón de la mensura de 1877 (A, ángulo N), en la línea SE del campo de Agustín Casado. A-B al S 44° 52′ O, 2716,642 m = frente según títulos (≈ 3137 v), contra Casado y Luisa L. de Jeck: el mojón esquinero Casado/Jeck aparece a 1025 m pero 15,5 m a la IZQUIERDA de la línea; costaneros a 925 y 2110 m; otro de Jeck a 2343 m, 7,6 m a la izquierda."
+  },
+  {
+   "titulo": "Folio 3: línea A-C contra Mauricia Rodríguez de Serrat; C-D contra los herederos de Serapio Lima; línea D-E-F hacia el SE",
+   "img": "img/f/107/08.jpg",
+   "fuente": "IMG_3594, página derecha",
+   "nota": "",
+   "lineas": [
+    "mojon de arranque A del ángulo Norte de",
+    "D.^{n} Zoilo Costa y por el rumbo al Sud cuaren-",
+    "ta y cinco grados cincuenta y cinco minu-",
+    "tos Este, deslindando con la Señora Doña Mau-",
+    "ricia Rodriguez de Serrat, medí dos mil",
+    "quinientos noventa y ocho metros y llegué al",
+    "mojon C puesto en mi primera mensura",
+    "y que es de un ángulo Este del terreno de",
+    "Costa, á los mil trescientos cincuenta y siete",
+    "metros cinco decímetros encontré un mojon",
+    "costanero —",
+    "Desde el mojon C por el rumbo al",
+    "Sud cuarenta y cuatro grados cincuenta y",
+    "dos minutos Oeste, deslindando con herederos de",
+    "D.^{n} Serapio Lima, medí mil ciento setenta",
+    "y seis metros ochocientos noventa y cuatro mi-",
+    "límetros, que es el frente que dá vendido",
+    "Lima (D. Serapio) segun la Escritura y puse",
+    "un mojon de un ángulo entrante del",
+    "terreno de Costa, letra D —",
+    "De este punto al Sud cuarenta y",
+    "cinco grados cincuenta y cinco minutos Es-",
+    "te, á los mil novecientos noventa y dos me-",
+    "tros, veintiocho centímetros puse el mojon",
+    "esquinero del ángulo Este de Costa, letra",
+    "E, que tambien es Norte para la fraccion",
+    "de D.^{n} Fermin Lima, á los dos mil seis-",
+    "cientos veintiocho metros veintiocho centíme-",
+    "tros, puse el mojon esquinero Este para este",
+    "último y Norte para Doña Primitiva Li-",
+    "ma, letra F; á los tres mil doscientos sesen-",
+    "ta y cuatro metros veintiocho centímetros co-",
+    "loqué el mojon del ángulo Este para es-",
+    "ta última y Norte para Doña Juana Lima de"
+   ],
+   "interpretacion": "A-C al S 45° 55′ E, 2598 m (= 3000 v) contra Mauricia Rodríguez de Serrat, hasta C de la primera mensura (costanero a 1357,5 m). C-D al S 44° 52′ O, 1176,894 m (= 1359 v, el frente vendido por Serapio Lima) contra sus herederos: ángulo entrante D. Desde D al S 45° 55′ E, sobre la línea de los herederos de Serapio: E (1992,28 m, esquina E de Costa y N de Fermín), F (2628,28, Fermín/Primitiva), G (3264,28)…"
+  },
+  {
+   "titulo": "Folio 3 vuelta: mojones G, H, I, J sobre la línea de Unzué; arroyo de Moyano [?]; línea J-K contra Unzué; vuelta K-L",
+   "img": "img/f/107/09.jpg",
+   "fuente": "IMG_3595, página izquierda",
+   "nota": "",
+   "lineas": [
+    "[Torres, le]tra G, á los tres mil novecientos metros vein-",
+    "tiocho centímetros coloqué el mojon del ángu-",
+    "lo Este para esta última y Norte para",
+    "Doña Nieves Lima, letra H, á los cuatro",
+    "mil quinientos treinta y seis metros vein-",
+    "tiocho centímetros coloqué el mojon del",
+    "ángulo Este para esta última y Norte",
+    "para Doña Benigna Lima, letra I y á los",
+    "cinco mil ciento sesenta y tres metros vein-",
+    "tiocho centímetros llegué al punto de in-",
+    "terseccion con la línea del costado Nord-Oeste",
+    "del terreno de D.^{n} Saturnino E. Unzué (an-",
+    "tes de D.^{n} Pedro Casas) y coloqué el mo-",
+    "jon del ángulo Este para la fraccion de",
+    "Doña Benigna Lima, letra J. En esta lí-",
+    "nea se deslinda con herederos de D.^{n} Se-",
+    "rapio Lima y se cruza el arroyo de",
+    "Moyano [?] á los dos mil cuatrocientos no-",
+    "venta y seis metros —",
+    "Desde el punto últimamente cita-",
+    "do, letra J, por el rumbo al Sud cuarenta",
+    "y cuatro grados once minutos Oeste, des-",
+    "lindando con terreno de D.^{n} Saturnino",
+    "E. Unzué, medí mil quinientos treinta",
+    "y nueve metros setenta y cinco centíme-",
+    "tros y coloqué el mojon del ángulo Sud",
+    "para la fraccion de Doña Benigna Li-",
+    "ma, letra K y",
+    "Desde aquí al Norte cuarenta y cin-",
+    "co grados cincuenta y cinco minutos",
+    "Oeste, á los seiscientos cuarenta y cinco",
+    "metros coloqué el mojon del ángulo Oes-",
+    "te para Doña Benigna Lima y Sud",
+    "de Doña Nieves Lima, letra L, á los mil"
+   ],
+   "interpretacion": "…G (Primitiva/Juana), H (3900,28, Juana/Nieves), I (4536,28, Nieves/Benigna), y J a 5163,28 m, en la línea NO del campo de Saturnino E. UNZUÉ (antes de Pedro Casas). En esa línea se cruza el ARROYO DE MOYANO [?] a 2496 m. J-K al S 44° 11′ O, 1539,75 m contra Unzué. Desde K al N 45° 55′ O, mojón L a 645 m…"
+  },
+  {
+   "titulo": "Folio 4: línea K-B contra Antonino Silva y Unzué (arroyo de Moyano [?]); divisorias; fracción de Zoilo Costa",
+   "img": "img/f/107/09.jpg",
+   "fuente": "IMG_3595, página derecha",
+   "nota": "",
+   "lineas": [
+    "doscientos ochenta y un metros puse el mojon del",
+    "ángulo Oeste de esta última y Sud de Doña",
+    "Juana Lima, letra M, á los mil novecientos",
+    "diez y siete metros coloqué el mojon del ángu-",
+    "lo Oeste para esta última y Sud de Doña",
+    "Primitiva Lima, letra N, á los dos mil qui-",
+    "nientos cincuenta y tres metros puse el mojon",
+    "del ángulo Oeste de esta última y Sud de",
+    "D.^{n} Fermin Lima, letra O, á los tres mil",
+    "ciento ochenta y nueve metros coloqué el mo-",
+    "jon del ángulo Oeste para D.^{n} Fermin",
+    "y Sud para D.^{n} Zoilo Costa, letra P y á",
+    "los siete mil setecientos setenta y ocho metros",
+    "veintiocho centímetros llegué al mojon del",
+    "ángulo Oeste, letra B, del terreno de D.^{n} Zoilo",
+    "Costa — En esta línea se deslinda con D.^{n} Antoni-",
+    "no Silva y D.^{n} Saturnino E. Unzué y se cruza",
+    "el arroyo de Moyano [?] á los dos mil doscientos",
+    "sesenta y cuatro metros —",
+    "En seguida tiré las líneas divisorias P E,",
+    "O F, N G, M H y L I que corren al Norte cuaren-",
+    "ta y cuatro grados cincuenta y dos minutos Este",
+    "y tienen de longitud mil quinientos treinta",
+    "y nueve metros setecientos cuarenta y ocho mi-",
+    "límetros —",
+    "Con lo que concluí esta operacion",
+    "con arreglo á lo dispuesto —",
+    "Paso en seguida á determinar la fi-",
+    "gura, superficie y linderos de cada fraccion.",
+    "A saber:",
+    "F.^{ra} [?] de D.^{n} Zoilo Costa.",
+    "Tiene la figura de un exágono y su",
+    "superficie de mil doce hectáreas cuarenta",
+    "y cuatro áreas seis metros cuadrados ó sean"
+   ],
+   "interpretacion": "…M (1281), N (1917), O (2553), P (3189) y B a 7778,28 m: la línea del fondo SO contra Antonino Silva y Unzué; el arroyo de Moyano [?] cruza a 2264 m. Divisorias P-E, O-F, N-G, M-H, L-I al N 44° 52′ E, 1539,748 m. Fracción de Zoilo COSTA: HEXÁGONO de 1012 ha 44 a 06 m²…"
+  },
+  {
+   "titulo": "Folio 4 vuelta: linderos de Costa; fracciones de Fermín y de Primitiva Lima (97,91 ha c/u)",
+   "img": "img/f/107/10.jpg",
+   "fuente": "IMG_3596, página izquierda",
+   "nota": "",
+   "lineas": [
+    "seiscientas cuadras cuadradas y linda al",
+    "Nord-Oeste con Doña Luisa Fuentes [?] de Jeck",
+    "y D.^{n} Agustin Casado, al Nord-Este con",
+    "Doña Mauricia Rodriguez de Serrat y he-",
+    "rederos de D.^{n} Serapio Lima, al Sud-Este",
+    "con estos mismos herederos y con D.^{n}",
+    "Fermin Lima y al Sud-Oeste con D.^{n}",
+    "Saturnino E. Unzué —",
+    "La de D.^{n} Fermin Lima.",
+    "Tiene la figura de un paralelógramo",
+    "y su superficie de noventa y siete hectá-",
+    "reas noventa y una áreas y noventa y",
+    "un metros cuadrados ó sean cincuenta y",
+    "ocho cuadras cuadradas mas doscientas",
+    "noventa y cinco diez milésimas de otra",
+    "y linda al Nord-Oeste con D.^{n} Zoilo Costa",
+    "al Nord-Este con herederos de D.^{n} Serapio",
+    "Lima, al Sud-Este con Doña Primitiva",
+    "Lima y al Sud-Oeste en una pequeña",
+    "parte con D.^{n} Antonino Silva y en el res-",
+    "to con D.^{n} Saturnino E. Unzué —",
+    "La de Doña Primitiva Lima",
+    "Tiene la figura de un paralelógramo",
+    "y su superficie de noventa y siete hectá-",
+    "reas noventa y una áreas noventa y un",
+    "metros cuadrados, ó sean cincuenta y o-",
+    "cho cuadras cuadradas mas doscientas",
+    "noventa y cinco diez milésimas de otra",
+    "y linda al Nord-Oeste con D.^{n} Fermin",
+    "Lima, al Nord-Este con herederos de D.",
+    "Serapio Lima, al Sud-Este con Doña Juana",
+    "Lima y al Sud-Oeste con D.^{n} Antonino",
+    "Silva —",
+    "La de Doña Juana Lima",
+    "Tiene la figura de un paralelógramo"
+   ],
+   "interpretacion": "…= 600 cuadras cuadradas (lo pactado), lindero de Jeck y Casado (NO), Serrat y herederos de Serapio Lima (NE), esos herederos y Fermín (SE) y Unzué (SO). FERMÍN LIMA y PRIMITIVA LIMA: paralelogramos de 97 ha 91 a 91 m² = 58,0295 cuadras² cada uno, de 636 m de ancho."
+  },
+  {
+   "titulo": "Folio 5: fracciones de Juana, Nieves y Benigna Lima (97,91 ha c/u); cierre",
+   "img": "img/f/107/10.jpg",
+   "fuente": "IMG_3596, página derecha",
+   "nota": "",
+   "lineas": [
+    "y su superficie de noventa y siete hectáreas",
+    "noventa y una áreas noventa y un metros",
+    "cuadrados ó sean cincuenta y ocho cuadras",
+    "cuadradas doscientas noventa y cinco diez mi-",
+    "lésimas de otra y linda al Nord-Oeste con Do-",
+    "ña Primitiva Lima, al Nord-Este con herederos",
+    "de D.^{n} Serapio Lima, al Sud-Este con Doña",
+    "Nieves Lima y al Sud-Oeste con D.^{n} Antoni-",
+    "no Silva —",
+    "La de Doña Nieves Lima",
+    "Tiene la figura de un paralelógramo y su",
+    "superficie de noventa y siete hectáreas noven-",
+    "ta y una áreas noventa y un metros cua-",
+    "drados ó sean cincuenta y ocho cuadras cua-",
+    "dradas mas doscientas noventa y cinco diez",
+    "milésimas de otra y linda al Nord-Oeste",
+    "con Doña Juana Lima, al Nord-Este con here-",
+    "deros de D.^{n} Serapio Lima, al Sud-Este con",
+    "Doña Benigna Lima y al Sud-Oeste con",
+    "D.^{n} Antonino Silva —",
+    "La de Doña Benigna Lima —",
+    "Tiene la figura de un trapecio y su super-",
+    "ficie de noventa y siete hectáreas noventa y",
+    "una áreas noventa y un metros cuadrados",
+    "ó sean cincuenta y ocho cuadras cuadradas",
+    "mas doscientas noventa y cinco diez milésimas",
+    "de otra y linda al Nord-Oeste con Doña Nie-",
+    "ves Lima, al Nord-Este con herederos de D.^{n}",
+    "Serapio Lima, al Sud-Este con D.^{n} Saturnino",
+    "E. Unzué y al Sud-Oeste con D.^{n} Antoni-",
+    "no Silva —",
+    "Quedó de este modo concluida esta ope-",
+    "racion",
+    "Los rumbos son los verdaderos y la"
+   ],
+   "interpretacion": "JUANA LIMA y NIEVES LIMA: paralelogramos iguales; BENIGNA LIMA: trapecio (su lado SE sobre la línea oblicua de Unzué), con la misma superficie. Rumbos verdaderos."
+  },
+  {
+   "titulo": "Folio 5 vuelta: variación; la oposición de Luisa de Jeck y el mojón de Videla; fecha y firma",
+   "img": "img/f/107/11.jpg",
+   "fuente": "IMG_3597, página izquierda",
+   "nota": "",
+   "lineas": [
+    "variacion de la aguja de doce grados",
+    "Nord-Este —",
+    "Los linderos todos, á escepcion de Doña",
+    "Luisa Fuentes [?] de Jeck, firmaron la circular",
+    "de citacion y el acta que se levantó des-",
+    "pues de la mensura. La Señora Fuentes [?] de",
+    "Jeck dijo que no firmaba y no aceptaba",
+    "la mensura por haberle dejado un mojon",
+    "esquinero de su campo (el del ángulo Este",
+    "al que hago referencia en la mensura) dentro",
+    "del terreno que media y que por esos mojo-",
+    "nes habria recibido el campo que compró",
+    "á D.^{n} José Antonio Aranguren [?]; le observé",
+    "que el mojon debia estar en la línea del",
+    "terreno de los S.^{res} Lima, cuyo extremo ha-",
+    "bia relacionado, como se verá por la mensu-",
+    "ra que practiqué para D.^{n} Zoilo Costa",
+    "en Julio de 1877 (línea P O) y que trazé",
+    "nuevamente en esta mensura dándome",
+    "el mismo resultado — El S.^{or} Casado",
+    "que está en las mismas condiciones que",
+    "esta Señora, por ser el mojon comun",
+    "á ambos no ha hecho observacion en",
+    "vista de la línea trazada; por estas",
+    "razones creo que la Señora Jeck no tie-",
+    "ne razon para no estar conforme",
+    "con la operacion, porque la mensura",
+    "practicada por el Agrimensor D.^{n}",
+    "Baldomero Videla, para D.^{n} Juan",
+    "Félix Martinez, dá, como es natural colo-",
+    "cado ese mojon sobre la línea dicha —",
+    "Partido de Giles á tres de Junio de mil",
+    "ochocientos ochenta —",
+    "Cárlos Schuster"
+   ],
+   "interpretacion": "Variación 12° NE. Todos los linderos firmaron la circular y el acta, salvo LUISA FUENTES [?] DE JECK, que no aceptó porque la mensura le dejaba DENTRO del campo medido el mojón esquinero de su campo, el que compró a José Antonio Aranguren. Schuster le contesta que el mojón debía estar sobre la línea de los Lima, que había fijado en 1877 (línea P-O) y repitió con el mismo resultado, que Casado —en igual situación— no objetó, y que la mensura de Baldomero Videla para Juan Félix Martínez pone ese mojón sobre la línea. Giles, 3 de junio de 1880."
+  },
+  {
+   "titulo": "Folio 6: abalizamiento de A, B, D, J, K; presentación (22/11/1880); nota sobre la diferencia con la primera mensura",
+   "img": "img/f/107/11.jpg",
+   "fuente": "IMG_3597, página derecha",
+   "nota": "",
+   "lineas": [
+    "[A]balizamiento",
+    "Mojon A sobre la línea A C. Poblacion de los he-",
+    "rederos de D.^{n} Serapio Lima 16° 25′, D.^{n} José Maria",
+    "Casado 228° 20′, D.^{n} Agustin Casado 46° —",
+    "Mojon B sobre B A.: D.^{n} Zoilo Costa 72° 45′, D.^{n} Fran-",
+    "co [?] Silva 211° 25′, D.^{n} José M.^{a} Otero [?] 138° 20′ —",
+    "Mojon D sobre D J. D.^{n} Antonino Silva 38° 10′, Doña",
+    "Mauricia R. de Serrat 311° 45′, D.^{n} Zoilo Costa 140° 2′ [?]",
+    "Mojon J, sobre J K.: D.^{n} Mariano Gonzalez 11° 52′,",
+    "D.^{n} Antonino Silva 44° 45′, Doña Mauricia R.",
+    "de Serrat 141° 10′ —",
+    "Mojon K sobre K J.: D.^{n} Mariano Gonzalez",
+    "344° 5′, D.^{n} Saturnino E. Unzué 1° 25′, D.^{n} Tomas",
+    "Kiernan 119° —",
+    "Schuster",
+    "Noviembre 22/880. —",
+    "Presentada en la fecha al",
+    "Departamento de Ingenieros —",
+    "Martin Pico",
+    "Nota — La diferencia que se nota de la pri-",
+    "mera mensura de este terreno á la segun-",
+    "da, en las líneas A B y C D de los planos, con-",
+    "siste en que, al hacer la primera men-",
+    "sura no tuve los títulos á la vista y esta la",
+    "hice por referencia de los herederos de D.^{n}",
+    "Mariano Lima, y para la segunda",
+    "se agregaron los títulos y entonces con",
+    "propiedad se midieron las distancias —",
+    "Cárlos Schuster"
+   ],
+   "interpretacion": "Abalizamiento: desde A, poblaciones de los herederos de Serapio Lima, José María Casado y Agustín Casado; desde B, Zoilo Costa, Fran[cisc]o [?] Silva y José M.ª Otero [?]; desde D, Antonino Silva, Mauricia R. de Serrat y Zoilo Costa; desde J, Mariano González, Antonino Silva y Serrat; desde K, Mariano González, Unzué y TOMÁS KIERNAN. Presentada al Departamento el 22/11/1880 (Martín Pico). Nota de Schuster: la diferencia en A-B y C-D con la primera mensura se debe a que en 1877 no tuvo los títulos y midió por referencia de los herederos de MARIANO Lima."
+  },
+  {
+   "titulo": "Folio 6 vuelta: dictamen del Departamento — la protesta de Luisa L. de Jeck y la línea a-b de Videla (1871)",
+   "img": "img/f/107/12.jpg",
+   "fuente": "IMG_3598, página izquierda",
+   "nota": "",
+   "lineas": [
+    "S.^{or} Juez de 1.^{a} Instancia.",
+    "El Departamento de Ingenieros ha",
+    "examinado la operacion de mensura",
+    "y division de los terrenos pertenecientes",
+    "á D. Zoilo Costa y herederos de D. José",
+    "M.^{a} Lima en Giles, practicada por",
+    "el Agrimensor D. Cárlos Schuster, y ob-",
+    "serva que el límite Nord-Oeste proyec-",
+    "tado AB se superpone á la línea de",
+    "mojones a b que este Departamento",
+    "ha señalado en el plano con letras y",
+    "puntos carmin, establecida en 1871 por",
+    "el Agrimensor D. Baldomero Videla",
+    "al medir los terrenos de Juan F. Mar-",
+    "tinez y de José A. Aranguren hoy de D.^{a}",
+    "Luisa L. de Jeck.",
+    "Esta lindera protesta la operacion del",
+    "Agrimensor Schuster fundándose en la",
+    "línea establecida por el de igual clase",
+    "Videla á que antes se ha hecho referencia.",
+    "El Departamento de Ingenieros consi-",
+    "dera atendibles los fundamentos de la",
+    "protesta: 1.^{o} por que no ve razon para",
+    "alterar la línea establecida por el Agri-",
+    "mensor Videla, que tiene ya sancion",
+    "judicial, y 2.^{o} porque segun el dupli-",
+    "cado de mensura de este facultativo",
+    "que es el 61 de Giles, consta que la línea"
+   ],
+   "interpretacion": "Dictamen: el límite NO proyectado A-B se SUPERPONE a la línea de mojones a-b (marcada por el Departamento en carmín sobre el plano) que fijó en 1871 Baldomero Videla al medir los terrenos de Juan F. Martínez y de José A. Aranguren, hoy de Luisa L. de Jeck. La lindera protesta y el Departamento le da la razón: 1.º no hay motivo para alterar una línea con SANCIÓN JUDICIAL; 2.º según el duplicado 61 de Giles, esa línea…"
+  },
+  {
+   "titulo": "Folio 7: conclusión del dictamen (4/12/1880): debe subsistir la línea de Videla",
+   "img": "img/f/107/12.jpg",
+   "fuente": "IMG_3598, página derecha",
+   "nota": "",
+   "lineas": [
+    "a b y su prolongacion fué trazada",
+    "de conformidad con los herederos de Lima",
+    "como linderos.",
+    "En vista de estas consideraciones es-",
+    "te Departamento opina que la opera-",
+    "cion del Agrimensor Schuster debe ser",
+    "modificada en el sentido de que deje",
+    "subsistente la línea de mojones a b esta-",
+    "blecida por el Agrimensor Videla.",
+    "Respecto de la diferencia que resulta",
+    "en las longitudes de las líneas AB y CD",
+    "comparadas con las de estas mismas",
+    "líneas en el plano de f. 129, este Depar-",
+    "tamento se remite á la nota final con",
+    "que el Agrimensor Schuster cierra su",
+    "diligencia de mensura.",
+    "~~El ultimo expediente de la peticion~~",
+    "~~de mensura [...] y va~~",
+    "~~agregado.~~",
+    "Diciembre 4/80",
+    "Lavalle",
+    "Moreno   Kuhr",
+    "Nota — Lo testado no vale — Moreno"
+   ],
+   "interpretacion": "…fue trazada de conformidad con los herederos de Lima como linderos. Opinión: la operación de Schuster debe MODIFICARSE para dejar subsistente la línea a-b de Videla. Sobre las diferencias de A-B y C-D con el plano de f. 129, se remite a la nota de Schuster. Un párrafo testado (sobre el último expediente de la petición de mensura). 4/12/1880: Lavalle, Moreno, Kuhr."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la mensura y división (Schuster, 1880)",
+   "img": "img/f/107/03.jpg",
+   "fuente": "IMG_3599-3601.JPG (pliego doble)",
+   "orientacion": "Marco doble negro; rótulos de imprenta; flecha de la variación «Var. 12° N.E.» en diagonal sobre el mojón A; escala gráfica de 4000 metros y firma «Cárlos Schuster» al borde derecho. Nombres de los linderos del SO escritos al revés (se leen girando 180°). Cifras a lápiz (1012 44 06 · 101 24 406 · 911 19 654; 1539 + 1176 = 2715) agregadas por el Departamento.",
+   "interpretacion": "Gran rótulo «Testa de JOSE MARIA LIMA» sobre todo el campo. A la izquierda la fracción ZOILO COSTA (hexágono A-C-D-E-P-B, con poblaciones «Costa» y «F. Lima»); a la derecha las cinco fajas FERMÍN · PRIMITIVA · JUANA · NIEVES · BENIGNA LIMA, divisorias N 44° 11′ E de 1539,748 m. Linderos: Agustín Casado y Luisa L. de Jeck (O, con «Martínez» detrás), Mauricia R. de Serrat (N), herederos de Serapio Lima (NE, con el ángulo entrante C-D «Hered.s de S. Lima 1176,894»), Saturnino E. Unzué (SO y E) y Antonino Silva (S). El ARROYO «Moyano» cruza en diagonal las fajas de Fermín y Primitiva. Junto a A-B, los mojones «a» (1025,5 m, desplazado 15,5 m) y «b» (2343) de la línea de Videla, que el Departamento manda respetar.",
+   "referencias": [
+    [
+     "A-B",
+     "S 44° 52′ O · 2716,642 m · contra A. Casado y L. L. de Jeck (a 1025 · 925 · 2110 · b 2343)"
+    ],
+    [
+     "A-C",
+     "S 45° 55′ E · 2598 m · contra Mauricia R. de Serrat (1357,5)"
+    ],
+    [
+     "C-D",
+     "S 44° 52′ O · 1176,894 m · contra her. de Serapio Lima"
+    ],
+    [
+     "D-J",
+     "S 45° 55′ E · 5163,28 m · E 1992,28 · F 2628,28 · G 3264,28 · H 3900,28 · I 4536,28 · arroyo 2496"
+    ],
+    [
+     "J-K",
+     "S 44° 11′ O · 1539,75 m · contra S. E. Unzué"
+    ],
+    [
+     "K-B",
+     "N 45° 55′ O · 7778,28 m · L 645 · M 1281 · N 1917 · O 2553 · P 3189 · arroyo 2264"
+    ],
+    [
+     "Fracciones",
+     "Z. Costa 1012,4406 ha (600 c²) · Fermín, Primitiva, Juana, Nieves y Benigna Lima 97,9191 ha c/u"
+    ],
+    [
+     "Aguas",
+     "Arroyo de Moyano [?], SE-NO, por las fajas de Fermín y Primitiva"
+    ],
+    [
+     "Poblaciones",
+     "Costa (varias), F. Lima"
+    ],
+    [
+     "Variación",
+     "12° NE"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: las cinco hijuelas Lima",
+   "img": "img/f/107/04.jpg",
+   "fuente": "IMG_3601.JPG",
+   "orientacion": "",
+   "interpretacion": "Las fajas de 636 m de los cinco herederos, el arroyo «Moyano» y la línea oblicua de Unzué (J-K, S 44° 11′ O 1539,75 m).",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia del plano, La Plata, agosto de 1938",
+   "img": "img/f/107/05.jpg",
+   "fuente": "IMG_9647.JPG",
+   "orientacion": "",
+   "interpretacion": "«Es copia del plano agregado al duplicado N.º 107 del partido de San Andrés de Giles, mensura practicada en junio de 1880 por el Agrimensor Carlos Schuster. La Plata, agosto de 1938», con sello de Geodesia y Catastro (M. O. P.) y firma.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Ubicación: el rincón so, entre martínez–casado y unzué",
+   "texto": "Los linderos colocan el campo en el bloque Lima del rincón SO (055, 061, 074, 092): al NO Agustín Casado (que en 092 aparece «antes Juan Félix Martínez») y Luisa L. de Jeck (la parte de José A. Aranguren de 061, 3000 v); al SO y SE Saturnino E. Unzué (los sobrantes de Unzué de 074, «antes Pedro Casas»); al NE Mauricia Rodríguez de Serrat (la «Mauricia Rodríguez» lindera SE de 061) y los herederos de Serapio Lima. La línea A-B de 107 es la línea SE de 061 (S 43° 20′ O en 1871, S 44° 52′ O aquí): GIS directo desde 061."
+  },
+  {
+   "titulo": "Una familia que se reparte un campo de legua y media",
+   "texto": "El campo de José María Lima se armó entre 1853 y 1858 comprando a sus hermanos (Juan, Serapio) y primos (Cecilia y Jorge Contreras, hijos de Micaela Lima; herencia de la abuela Juana Ar[r]oyo [?] de Lima) sus fajas de herencia, todas de fondo 9000 v (legua y media) o 3000 v: la reconstrucción de una suerte familiar fragmentada por dos generaciones de particiones, y su nueva partición en 1880."
+  },
+  {
+   "titulo": "Transacción, renuncia y poblaciones",
+   "texto": "Costa tenía escritura por 800 cuadras²; para cerrar el pleito renuncia a 200 y acepta 600 ubicadas donde convenga a los herederos, pero con sus POBLACIONES como punto de partida (como en 106, la ocupación previa guía la geometría). Su fracción es un hexágono irregular con un ángulo entrante (C-D) para no invadir a los herederos de Serapio. Costa se queda con 2/3 del campo."
+  },
+  {
+   "titulo": "Conflicto de líneas: schuster contra videla",
+   "texto": "Es el primer caso del corpus en que el Departamento de Ingenieros corrige a un agrimensor en favor de una línea anterior por tener SANCIÓN JUDICIAL: la línea a-b de Videla (1871, dup. 61), trazada con conformidad de los Lima, prevalece sobre la reconstrucción por títulos de Schuster. El desplazamiento es chico (15,5 y 7,6 m) pero decide el mojón esquinero de Jeck. Cf. 036 (Ormaechea prevalece sobre Muñiz) y 044 (Torres vs. Gonnet)."
+  },
+  {
+   "titulo": "Dos mensuras del mismo terreno",
+   "texto": "La de julio de 1877 (desaprobada, plano de f. 129) se hizo «por referencia de los herederos de Mariano Lima» sin títulos; la de 1880, con títulos. Schuster lo admite en una nota: la memoria oral de los vecinos como fuente de la mensura, corregida por el papel."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "Un arroyo, «de Moyano» [?], atraviesa el campo de SE a NO (2496 m en D-J, 2264 m en K-B) por las fajas de Fermín y Primitiva: ¿afluente del Areco en el rincón SO? Muchas poblaciones en el abalizamiento: Costa, Casados, Serrat, Otero [?], Silva, Mariano González, Tomás Kiernan (irlandés), Unzué."
+  },
+  {
+   "titulo": "Medidas",
+   "texto": "Cuadra cuadrada = 1,68740 ha (150 v de lado): 600 c² = 1012,44 ha y 58,0295 c² = 97,9191 ha cierran exactamente. A-C 2598 m = 3000 v; C-D 1176,894 m = 1359 v (la venta de Serapio); A-B 2716,642 m ≈ 3137 v. Total ≈ 1502 ha. Variación 12° NE, la más alta de Schuster (11° 5′ en 105, de septiembre del mismo año)."
+  },
+  {
+   "titulo": "Lecturas dudosas",
+   "texto": "Año de la primera mensura «1877 [?]» (en un pasaje parece «1874»); «Benigna [?]» (el plano confirma BENIGNA); «Morei [?]» (procurador); «Cecilia Contreras [?]»; «Juana Ar[r]oyo [?] de Lima»; «Luisa Fuentes [?] de Jeck» (el D. I. escribe «L.»); «Aranguren [?]» (confirmado por 061); «arroyo de Moyano [?]»; «Fran[cisc]o [?] Silva» y «Otero [?]» del abalizamiento; un minuto ilegible desde D."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Zoilo Costa",
+   "rol": "Propietario",
+   "texto": "Comprador (por escritura de 800 cuadras²) dentro del campo de la testamentaría de José María Lima; tras el pleito y la transacción de 1880 recibe 600 cuadras (1012 ha) partiendo de sus poblaciones. Sin datos biográficos en la web.",
+   "fuentes": "Dup. 107; búsqueda web (sin resultados)."
+  },
+  {
+   "nombre": "José María Lima y sus herederos",
+   "rol": "Causante / herederos",
+   "texto": "Reúne el campo comprando a hermanos y primos (1853-58). Herederos: Juana Lima de Torres, Benigna Lima de González, Fermín, Nieves y Primitiva (menor, con tutor). Familia del rincón SO: Mariano Lima (055, 1840), Rosa M. y Domingo Lima (061), Serapio y Juan Lima.",
+   "fuentes": "Dup. 107; Fichas 055, 061."
+  },
+  {
+   "nombre": "Luisa L. de Jeck",
+   "rol": "Lindera que protesta",
+   "texto": "Compró el campo de José A. Aranguren (061); se niega a firmar y el Departamento le da la razón. ¿Esposa de un Jeck de origen alemán? Sin datos.",
+   "fuentes": "Dup. 107; Ficha 061."
+  },
+  {
+   "nombre": "Baldomero Videla",
+   "rol": "Agrimensor (1871)",
+   "texto": "Su línea de 1871 para Juan F. Martínez y Aranguren (dup. 61) es la que prevalece. Sin datos biográficos (búsqueda de la sesión del 14/10).",
+   "fuentes": "Ficha 061."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Mide aquí en 1877 y de nuevo en mayo-junio de 1880; ese año mide también 102 y 105. Firma también la nota sobre las diferencias.",
+   "fuentes": "Fichas 102, 105."
+  },
+  {
+   "nombre": "Linderos",
+   "rol": "Vecinos",
+   "texto": "Agustín y José María Casado (092), Mauricia Rodríguez de Serrat (061), herederos de Serapio Lima, Saturnino E. Unzué (074), Antonino Silva (¿el de 083?), Mariano González, Tomás Kiernan, Otero [?].",
+   "fuentes": "Fichas 061, 074, 083, 092."
+  },
+  {
+   "nombre": "Virgilio M. Tedín · Martín Pico · Lavalle · Moreno · Kuhr",
+   "rol": "Juez · departamento de ingenieros",
+   "texto": "Los mismos de 102-106.",
+   "fuentes": "Fichas 102-106."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/107/02.jpg",
+  "fuente": "IMG_3591.JPG (girada 270°)",
+  "lineas": [
+   "Giles",
+   "107",
+   "Duplicado de la diligencia de mensura",
+   "y division del terreno de D.^{n} Zoilo",
+   "Costa y herederos de D.^{n} José Maria",
+   "Lima — situado en el Partido de Giles —",
+   "Medido por el Agrimensor Cárlos",
+   "Schuster",
+   "[cifras de archivo al pie, ilegibles]"
+  ]
+ },
+ "titulo": "Zoilo Costa y herederos de J. M. Lima",
+ "estado": "Transcripta (13 hojas, 418 renglones), 3 láminas"
+}

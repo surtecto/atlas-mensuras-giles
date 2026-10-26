@@ -1,0 +1,421 @@
+{
+ "carpeta": "108",
+ "carpeta_nombre": "Carpeta 108",
+ "archivo": "Ficha 108 - Martín Dowling (1880).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (cabezadas, arroyo de Frías; acta fechada en Mercedes)",
+  "N.º de duplicado": "108",
+  "Propietario / solicitante": "Martín Dowling",
+  "Agrimensor": "Tomás Dodds",
+  "Año": "1880",
+  "Fecha de la diligencia": "22-30/11/1880; dictamen D. I. 28/12/1880; aprobada 2/3/1881",
+  "Ubicación": "Campo de los Acuña (Ceferino), sobre el arroyo de Frías, al S de los her. de Pastor Frías",
+  "Orden judicial": "Juez de 1.ª Inst. Dr. Martín Bustos [?]; actuario Gregorio V. Carballo",
+  "Vendedor / antecesor": "Ángel Acuña (4/11/1878), por herencia de Ceferino Acuña",
+  "Linderos citados": "S. Morrow · T. Gaynor · Gregorio Acuña · her. de Lucas y de Guillermo Acuña",
+  "Medidas": "3205 × 1273/1328 × 3200 m; 416 ha 20 a 68 ca = 5.249.750 v²",
+  "Rumbos": "S 30° 55′ E · S 58° 21′ O · N 31° 49′ O · N 58° 21′ E; var. 11° 30′ NE",
+  "Referencia de archivo": "Dup. 108; remite a la subdivisión de Schuster del 6/10/1873"
+ },
+ "metricas": {
+  "superficie_ha": "416,2",
+  "hitos": "Mojones de fierro de Schuster 1873; estancia; alambrado",
+  "aguas": "Arroyo de Frías y dos arroyitos"
+ },
+ "sintesis": "Duplicado completo (título, mensura, acta, dictamen, aprobación y plano). En noviembre de 1880 Tomás Dodds mide para el irlandés Martín Dowling el campo que compró en 1878 a Ángel Acuña (herencia de Ceferino Acuña, subdividida por Schuster en 1873): rectángulo de 3205 × 1273-1328 m, 416,21 ha, entre Morrow y Gaynor (NE), Gregorio Acuña (NO) y los herederos de Lucas y Guillermo Acuña, cruzado en su ángulo O por el arroyo de Frías. Dos costaneros de fierro se corren 2,50 m con acta (art. 25 de las Instrucciones). «Todo bajo cerco de alambre». Aprobada el 2/3/1881.",
+ "caratula": {
+  "img": "img/f/108/01.jpg",
+  "fuente": "IMG_9648.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "108"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Martín Dowling"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Tomás Dodds"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1880"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO · Taller de Impresiones Oficiales"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: título (Ángel Acuña vende a Martín Dowling, 4/11/1878) y comienzo de la mensura (22/11/1880)",
+   "img": "img/f/108/05.jpg",
+   "fuente": "IMG_9650 (girada 90°)",
+   "nota": "Letra cursiva grande y algo irregular de Tomás Dodds; tinta negra; folios sellados 1-5. Las tomas 9651-9652 son de doble página.",
+   "lineas": [
+    "Título de Don",
+    "Martin Dowling —",
+    "En la Ciudad de Buenos Aires á cuatro de",
+    "Noviembre de mil ochocientos setenta y ocho",
+    "ante el Escribano D.^{n} M. Salas; Don Angel",
+    "Acuña vende á D.^{n} Martin Dowling un terre-",
+    "no situado en el partido de S.^{n} Andres de",
+    "Giles siendo su área de (5.249.750 v.^{cs} c.^{s} = 416 hec.",
+    "20 ar.^{s} 68 c.^{s}) cuatro cientos diez y seis hectáreas",
+    "veinte áreas y sesenta y ocho centeáreas lin-",
+    "dando al Nordeste con los Her.^{os} de Pastor",
+    "Frias por el Sudoeste c/ D.^{n} Lucas Acuña",
+    "por el Sud Este con D.^{n} G.^{mo} Acuña y por",
+    "el Nordoeste con Don Gregorio Acuña; le",
+    "corresponde á este por herencia de su",
+    "su Padre D.^{n} Ceferino Acuña. — La men-",
+    "sura y subdivision de todo el campo fué",
+    "practicada en seis de Octubre de mil ocho",
+    "cientos setenta y tres por el Agrimensor D.^{n}",
+    "Carlos Schuster. —",
+    "— Mensura —",
+    "Comisionado por el Señor Juez de 1.^{a} Instan-",
+    "cia D.^{r} D.^{n} Martin Bustos [?] Actuario D.^{n}",
+    "Gregorio V. Carvallo para medir el terreno",
+    "de D.^{n} Martin Dowling situado en el par-",
+    "tido de San Andres de Giles: Di principio",
+    "á la mensura el dia veinte y dos de Noviem-",
+    "bre del corriente previo aviso á los lin-",
+    "deros: —",
+    "Como este campo fué medido por el Ag.^{or}",
+    "Schuster en el año mil ocho cientos se-",
+    "tenta y tres, colocando mojones esquineros",
+    "y costaneros: Me situé en el mojon de fierro",
+    "A esquinero Norte del terreno que media",
+    "y Este de Don Gregorio Acuña. —"
+   ],
+   "interpretacion": "Título: el 4/11/1878, ante el escribano M. Salas, en Buenos Aires, ÁNGEL ACUÑA vende a MARTÍN DOWLING un terreno de 5.249.750 v² = 416 ha 20 a 68 ca, lindero de los herederos de Pastor Frías (NE), Lucas Acuña (SO), Guillermo Acuña (SE) y Gregorio Acuña (NO), que le tocó por herencia de su padre CEFERINO ACUÑA; todo el campo se había medido y subdividido el 6/10/1873 por Carlos Schuster. Mensura: comisión del juez de 1.ª Instancia Dr. Martín Bustos [?] (actuario Gregorio V. Carballo); comienzo el 22 de noviembre de 1880 con aviso a los linderos. Como Schuster dejó mojones esquineros y costaneros, arranca en el mojón de FIERRO A (esquina N, E de Gregorio Acuña)."
+  },
+  {
+   "titulo": "Folio 1 vuelta: líneas A-B (arroyito; mojones de fierro corridos a pedido de Morrow y Gaynor), B-C y C-D",
+   "img": "img/f/108/06.jpg",
+   "fuente": "IMG_9651, página izquierda",
+   "nota": "",
+   "lineas": [
+    "Línea A B: Desde A medí el rumbo (S. 30° 55′ E)",
+    "Sud treinta grados y cincuenta y cinco minutos",
+    "Este (3205^{m}) tres mil doscientos y cinco me-",
+    "tros hasta un mojon de palo B esquinero",
+    "Este del terreno que media y Norte del terreno",
+    "de los Her.^{os} de G.^{mo} Acuña: en esta línea á los",
+    "(137^{m}) ciento treinta y siete metros llegué á un",
+    "arroyito; á los (923^{m}) novecientos veinte y tres",
+    "metros, quedó á la derecha (2^{m}.50^{c}) dos me-",
+    "tros y cincuenta centímetros un mojon de",
+    "fierro costanero; á los (1078^{m}) mil y setenta",
+    "y ocho metros llegué á un mojon de palo",
+    "esquinero Sud de Morrow y Oeste de Gaynor;",
+    "á los (2226^{m}.40^{c}) dos mil doscientos veinte y",
+    "seis metros y cuarenta centímetros quedó á",
+    "la derecha (2^{m}.50^{c}) dos metros y cincuenta cen-",
+    "tímetros un mojon de fierro costanero: Habién-",
+    "dome pedido los linderos D.^{n} Santiago Morrow",
+    "y D.^{n} Tomás Gaynor que se colocasen los mo-",
+    "jones costaneros de fierro, que se encontraban",
+    "desviados de la línea, sobre la línea ^{actual} del",
+    "campo y manifestándome su conformidad",
+    "el S.^{r} (Dowling); coloqué los mojones de fierro",
+    "sobre la línea, levantando una acta fir-",
+    "mada por los interesados, para que conste. —",
+    "Línea B C. — (Desde B medí el rumbo (S. 58° 21′ O)",
+    "Sud cincuenta y ocho grados y veinte y un mi-",
+    "nutos Oeste (1273^{m}) mil doscientos setenta",
+    "y tres metros, hasta el mojon de fierro",
+    "C esquinero Sud del terreno que media. —",
+    "Línea C D: Desde C medí el rumbo (N. 31° 49′ O)",
+    "Norte treinta y un grados y cuarenta y nue-",
+    "ve minutos Oeste (3200^{m}) tres mil doscientos",
+    "metros hasta el mojon de fierro D esquinero",
+    "Oeste del terreno que media: En esta línea",
+    "á los (784^{m}.20^{c}) setecientos ochenta y cua-",
+    "tro metros y veinte centímetros, llegué",
+    "á un mojon de palo costanero; á los",
+    "(1737^{m}) mil setecientos treinta y siete"
+   ],
+   "interpretacion": "A-B al S 30° 55′ E, 3205 m, hasta el mojón de palo B (esquina E, N de los her. de Guillermo Acuña): ARROYITO a 137 m; costanero de fierro a 923 m, 2,50 m a la derecha; mojón de palo esquinero de Morrow y Gaynor a 1078 m; otro de fierro a 2226,40 m, también 2,50 m afuera. Morrow y Gaynor piden que esos costaneros se pongan sobre la línea actual; con conformidad de Dowling se corren, con acta. B-C al S 58° 21′ O, 1273 m, hasta el fierro C (S). C-D al N 31° 49′ O, 3200 m, hasta el fierro D (O): palo costanero a 784,20 m…"
+  },
+  {
+   "titulo": "Folio 2: arroyo de Frías; línea D-A; variación; asistentes y firmantes; campo bajo alambrado (30/11/1880)",
+   "img": "img/f/108/06.jpg",
+   "fuente": "IMG_9651, página derecha",
+   "nota": "",
+   "lineas": [
+    "metros llegué á un arroyito; á los (2017^{m})",
+    "dos mil diez y siete metros llegué á un mo-",
+    "jon de palo costanero; á los (2050^{m}) dos mil",
+    "y cincuenta metros llegué al Arroyo de",
+    "Frias. —",
+    "Línea D A: Desde D medí el rumbo (N. 58° 21′ E)",
+    "Norte cincuenta y ocho grados y veinte y un",
+    "minutos Este (1328^{m}) mil trescientos veinte",
+    "y ocho metros hasta el mojon A: en esta",
+    "línea á los (192^{m}) ciento noventa y dos",
+    "metros llegué al Arroyo de Frias. —",
+    "La variacion de la aguja es de once gra-",
+    "dos y treinta minutos Nordeste",
+    "Me acompañaron en la mensura: D.^{n} San-",
+    "tiago Morrow, Don Tomás Gaynor y el",
+    "Capataz de la Viuda de D.^{n} G.^{mo} Acuña",
+    "D.^{a} Facunda Silva de Acuña. —",
+    "Firmaron la circular de citacion",
+    "Don Santiago Morrow; D.^{n} Pedro F. Acuña",
+    "por la Viuda de D.^{n} G.^{mo} Acuña; á ruego",
+    "de D.^{a} Valentina de Acuña, viuda de D.^{n} Lucas",
+    "Acuña firma su hija D.^{a} Amancia A. de",
+    "Cané; Tomás Gaynor; y por D.^{n} Gregorio",
+    "Acuña D.^{n} Michael Llanon [?]. —",
+    "No hubo protestas. —",
+    "El campo que he medido se encuentra",
+    "todo bajo cerco de alambre. —",
+    "Buenos Aires Nov. 30/80",
+    "Tomás Dodds",
+    "Nota: La área del campo medido está conforme",
+    "con la área que expresan los títulos y es de",
+    "(416 hec. 20 ar.^{s} 68 c.^{s}) cuatro cientos diez y seis hec-",
+    "táreas veinte áreas y sesenta y ocho centeáreas.",
+    "Tomás Dodds",
+    "Buell [?]"
+   ],
+   "interpretacion": "…arroyito a 1737 m, palo a 2017 m y ARROYO DE FRÍAS a 2050 m. D-A al N 58° 21′ E, 1328 m, cruzando el arroyo de Frías a 192 m. Variación 11° 30′ NE. Acompañaron Santiago Morrow, Tomás Gaynor y el capataz de la viuda de Guillermo Acuña, Facunda Silva de Acuña. Firmaron la circular Morrow, Pedro F. Acuña por la viuda de Guillermo, Amancia A. de Cané a ruego de su madre Valentina, viuda de Lucas Acuña, Gaynor y Michael Llanon [?] por Gregorio Acuña. Sin protestas. «El campo que he medido se encuentra TODO BAJO CERCO DE ALAMBRE.» Buenos Aires, 30/11/1880, Tomás Dodds. Nota: el área coincide con los títulos."
+  },
+  {
+   "titulo": "Folio 2 vuelta: presentación (23/12/1880) y dictamen del Departamento (28/12/1880)",
+   "img": "img/f/108/07.jpg",
+   "fuente": "IMG_9652, página izquierda",
+   "nota": "",
+   "lineas": [
+    "B.^{nos} Aires Diciembre 23/880",
+    "Presentado en la fecha al De-",
+    "partamento de Ingenieros",
+    "Carlos Guyot [?]",
+    "Señor Juez de 1.^{a} Instancia:",
+    "La mensura practicada por el agrimen-",
+    "sor Don Tomas Dodds del terreno de Don",
+    "Martin Dowling en Giles está conforme",
+    "con sus antecedentes, y el Departamen-",
+    "to de Ingenieros la considera en estado de",
+    "ser aprobada judicialmente.",
+    "El sello correspondiente á la peticion de men-",
+    "sura ha sido repuesto y vá agregado",
+    "Diciembre 28 de 1880.",
+    "Moreno   Kuhr",
+    "Benoit [?]"
+   ],
+   "interpretacion": "Presentado al Departamento el 23/12/1880 (Carlos Guyot [?]). Dictamen del 28/12/1880 (Moreno, Kuhr, Benoit [?]): conforme con sus antecedentes, en estado de ser aprobada; se repuso el sello de la petición."
+  },
+  {
+   "titulo": "Folio 3: oficio del juez al Departamento comunicando la aprobación (16/3/1881)",
+   "img": "img/f/108/07.jpg",
+   "fuente": "IMG_9652, página derecha",
+   "nota": "",
+   "lineas": [
+    "Corresponde",
+    "7 5 5 . 2 6 0 —",
+    "[sello: Dirección General de Rentas · 6 · 1881 · seis pesos · N.^{o} 106023]",
+    "Buenos Aires, Marzo 16 de 1881.",
+    "[sello: Juzgado Civil · Secretario: Gregorio V. Carballo]",
+    "Al Señor Presidente del Departamento",
+    "de Ingenieros —",
+    "Comunico á V.^{d} que con fecha dos de Marzo",
+    "del corriente año ha sido aprobada la men-",
+    "sura practicada por el Agrimensor Don",
+    "Tomas Dodds en un terreno perteneciente á",
+    "Don Martin Dowling situado en el Par-",
+    "tido de Giles.",
+    "Dios guíe á V.^{d}",
+    "Martin [?] [rúbrica]",
+    "Marzo 18 de 1881.",
+    "Agréguese al duplicado correspondiente",
+    "Lavalle"
+   ],
+   "interpretacion": "Oficio del juzgado civil (sello del secretario Gregorio V. Carballo; papel sellado de 6 pesos de 1881): el 2 de marzo de 1881 se aprobó la mensura de Dodds. 18/3/1881: Lavalle ordena agregarlo al duplicado. La cifra «755.260» en el margen es el número de expediente o de registro."
+  },
+  {
+   "titulo": "Folio 4: acta de traslado de los mojones de fierro (Mercedes, 23/11/1880)",
+   "img": "img/f/108/08.jpg",
+   "fuente": "IMG_9653, página derecha",
+   "nota": "",
+   "lineas": [
+    "En el Partido de Mercedes al dia vein-",
+    "y tres de Noviembre de mil ochocientos",
+    "ochenta. —",
+    "Que habiendo resultado de la men-",
+    "sura que los mojones costaneros de fierro",
+    "linderos con el campo de D.^{n} Santiago",
+    "Morrow y D.^{n} Tomás Gaynor se encontraban",
+    "desviados de la línea, dos metros y cincuenta",
+    "centímetros, hacia el campo de Gaynor",
+    "y Morrow: y habiéndome manifestado",
+    "los Señores, Gaynor: Morrow y Dowling",
+    "su conformidad á que se colocasen",
+    "sobre la línea del campo: El Agrimensor",
+    "que suscribe en cumplimiento de lo",
+    "ordenado del Artículo veinte y cinco de",
+    "las Instrucciones para los Agrimen-",
+    "sores levanta la presente acta, firmada",
+    "por todas las partes: firmado Martin",
+    "Dowling; Santiago Morrow: Tomás",
+    "Gaynor:",
+    "Tomás Dodds"
+   ],
+   "interpretacion": "Acta labrada en el partido de Mercedes el 23/11/1880: los costaneros de fierro del lindero Morrow–Gaynor estaban 2,50 m desviados hacia esos campos; con conformidad de Gaynor, Morrow y Dowling se colocan sobre la línea, según el artículo 25 de las INSTRUCCIONES PARA LOS AGRIMENSORES; firman todos y Dodds."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Martín Dowling (Dodds, 1880)",
+   "img": "img/f/108/03.jpg",
+   "fuente": "IMG_9654.JPG (papel tela, muy manchado de humedad, f. 5)",
+   "orientacion": "Marco triple de esquinas redondeadas; flecha del meridiano en diagonal (NO arriba a la izquierda, SE abajo a la derecha); escala gráfica de metros con transversales hasta 2000 m; firma «Tomás Dodds».",
+   "interpretacion": "Rectángulo A-B-C-D, «Martín Dowling · Área = 416 h…», con la población «ESTANCIA» cerca del lado A-D. Arriba (NE) Santiago Morrow y Tomás Gaynor; a la izquierda G[regorio] Acuña; a la derecha Her.os de G.mo Acuña; abajo Her.os de Lucas Acuña. En líneas de puntos, el contorno mayor del campo de los Acuña de la subdivisión de 1873. El ARROYO DE FRÍAS entra por la izquierda, corta la esquina D (a 192 m de D sobre D-A, 2050 m de C sobre C-D) y sigue al SE por el campo de los her. de Lucas Acuña; dos arroyitos afluentes bajan desde el lado A-B (a 137 m de A) y desde el centro del campo.",
+   "referencias": [
+    [
+     "A-B",
+     "S 30° 55′ E · 3205 m · contra S. Morrow y T. Gaynor (arroyito 137 · fierro 923 · palo 1078 · fierro 2226,4)"
+    ],
+    [
+     "B-C",
+     "S 58° 21′ O · 1273 m · contra her. de Guillermo Acuña"
+    ],
+    [
+     "C-D",
+     "N 31° 49′ O · 3200 m · contra her. de Lucas Acuña (784,2 · arroyito 1737 · 2017 · arroyo de Frías 2050)"
+    ],
+    [
+     "D-A",
+     "N 58° 21′ E · 1328 m · contra Gregorio Acuña (arroyo de Frías 192)"
+    ],
+    [
+     "Superficie",
+     "416 ha 20 a 68 ca = 5.249.750 v² (conforme a títulos)"
+    ],
+    [
+     "Mojones",
+     "Fierro (A, C, D y costaneros de Schuster 1873) y palo (B y otros)"
+    ],
+    [
+     "Aguas",
+     "Arroyo de Frías y dos arroyitos"
+    ],
+    [
+     "Población",
+     "«Estancia» de Dowling"
+    ],
+    [
+     "Cerco",
+     "Todo el campo bajo alambrado"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: la estancia y el arroyo de Frías",
+   "img": "img/f/108/04.jpg",
+   "fuente": "IMG_9655.JPG",
+   "orientacion": "",
+   "interpretacion": "Toma ampliada: el rótulo, la estancia, el cauce sinuoso del arroyo de Frías y los nombres Morrow, Gaynor y her. de Lucas Acuña.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Ubicación: el campo de ceferino acuña sobre el arroyo de frías",
+   "texto": "Linderos y arroyo lo sitúan en las cabezadas, en el campo de los Acuña subdividido por Schuster en 1873 (cf. el bloque naciente 064-066 y el «poste de Acuña» y Gregorio Acuña de 082; los her. de Pastor Frías al NE = 082). Rumbos S 30° 55′ E / S 58° 21′ O: la grilla de 082 (N 30° 55′ O / N 56° 55′ E). El arroyo de Frías es el de 037 (bloque Monsalvo–Acuña). El acta se labra «en el partido de Mercedes»: el campo está sobre el límite Giles–Mercedes o el agrimensor estaba alojado allí."
+  },
+  {
+   "titulo": "Irlandeses y alambrados",
+   "texto": "El comprador, Martín Dowling, y los linderos Santiago (James) Morrow, Tomás Gaynor y Michael Llanon [?] son irlandeses: la ola de criadores de ovinos irlandeses que compran fracciones de las viejas familias criollas (Acuña) a fines de la década de 1870. «El campo se encuentra TODO BAJO CERCO DE ALAMBRE»: segunda mención explícita del alambrado en el corpus (cf. Santa Elena, 044, 1867), y la primera de un campo enteramente cercado."
+  },
+  {
+   "titulo": "Mojones de fierro y el artículo 25",
+   "texto": "Schuster había dejado en 1873 mojones esquineros y costaneros de FIERRO; Dodds los encuentra y verifica. Dos costaneros estaban 2,50 m afuera de la línea y, a pedido de los vecinos, se corren con un ACTA firmada por las tres partes «en cumplimiento del artículo 25 de las Instrucciones para los Agrimensores»: el ritual de corrección consensuada de un hito, documentado."
+  },
+  {
+   "titulo": "Trámite rápido",
+   "texto": "Mensura del 22 al 30/11/1880, Departamento el 28/12, aprobación judicial el 2/3/1881, aviso al Departamento el 16/3: tres meses y medio. Sin sobrante: «el área está conforme con los títulos»."
+  },
+  {
+   "titulo": "Lecturas dudosas",
+   "texto": "Nombre del juez «Martín Bustos [?]» (la firma del oficio dice «Martín…»); «Carlos Guyot [?]» (recepción); «Benoit [?]» (tercera firma del dictamen; ¿Pedro Benoit?); «Michael Llanon [?]»; «Buell [?]» (rúbrica al pie de la nota de Dodds)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Martín Dowling",
+   "rol": "Propietario",
+   "texto": "Comprador irlandés del campo de Ángel Acuña (1878), con su «estancia» dibujada en el plano. El apellido Dowling es frecuente entre los irlandeses del oeste bonaerense. Sin más datos verificados.",
+   "fuentes": "Dup. 108."
+  },
+  {
+   "nombre": "Ceferino Acuña y sus hijos",
+   "rol": "Antecesores / linderos",
+   "texto": "Ceferino deja el campo a sus hijos Ángel, Gregorio, Lucas (viuda Valentina; hija Amancia A. de Cané) y Guillermo (viuda Facunda Silva de Acuña; Pedro F. Acuña firma por ella). Cf. Gregorio Acuña (082) y Claudia Gómez de Acuña (066).",
+   "fuentes": "Dup. 108; Fichas 066, 082."
+  },
+  {
+   "nombre": "Tomás Dodds",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor nuevo en el corpus; apellido británico. Mide desde Buenos Aires y trabaja con las Instrucciones de agrimensores. Búsqueda web sin resultados biográficos.",
+   "fuentes": "Dup. 108; búsqueda web."
+  },
+  {
+   "nombre": "Santiago Morrow · Tomás Gaynor · Michael Llanon [?]",
+   "rol": "Linderos",
+   "texto": "Vecinos irlandeses al NE y apoderado de Gregorio Acuña. Sin datos.",
+   "fuentes": "Dup. 108."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor (1873)",
+   "texto": "Mide y subdivide el campo de los Acuña el 6/10/1873, con mojones de fierro (cf. su campaña de cabezadas 064-066).",
+   "fuentes": "Fichas 064-066."
+  },
+  {
+   "nombre": "Gregorio V. Carballo · Moreno · Kuhr · Benoit [?] · Lavalle",
+   "rol": "Juzgado · departamento de ingenieros",
+   "texto": "Carballo, secretario del juzgado civil (también actuario en otras causas de 1880-81). Pedro Benoit fue ingeniero del Departamento (planos de La Plata, 1882); la firma es compatible pero no segura.",
+   "fuentes": "Dup. 108."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/108/02.jpg",
+  "fuente": "IMG_9649.JPG",
+  "lineas": [
+   "N.^{o} 108 Giles —",
+   "Duplicado de la mensura practi-",
+   "cada en terreno de D. Martin Dow-",
+   "ling en el partido Giles —",
+   "Agrimensor Tomas Dodds",
+   "1880"
+  ]
+ },
+ "titulo": "Martín Dowling",
+ "estado": "Transcripta (6 hojas, 164 renglones), 2 láminas"
+}

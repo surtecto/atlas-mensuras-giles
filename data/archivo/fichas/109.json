@@ -1,0 +1,588 @@
+{
+ "carpeta": "109",
+ "carpeta_nombre": "Carpeta 109",
+ "archivo": "Ficha 109 - Herederos de Pascual Lescano (1880).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (S del pueblo, bloque Lescano)",
+  "N.º de duplicado": "109",
+  "Propietario / solicitante": "Herederos de Pascual Lescano",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1880",
+  "Fecha de la diligencia": "Diligencia 20/12/1880; D. I. 18/1/1881; aprobada 27/4/1881",
+  "Ubicación": "Faja de ≈ 710 m × 6,9 km entre A. Lezcano, R. G. de Casas, Naughton y Pichetto",
+  "Orden judicial": "Juez de 1.ª Inst. en lo Civil, Dep. del Centro, Dr. Juan San Martín",
+  "Vendedor / antecesor": "Antonio Lezcano (1825) → Francisco Lezcano (1838) → Pascual (Saubidet 1866)",
+  "Linderos citados": "A. Lezcano · R. G. de Casas · T. Naughton · J. Pichetto",
+  "Medidas": "718/698,5 × 6900/6903 m; 488,7394 ha; 4 × 122,1849 ha",
+  "Rumbos": "N 57° 58′ E · N 31° 9′ O · S 58° 13′ O · S 30° 59′ E; var. 11° 34′ NE",
+  "Referencia de archivo": "Dup. 109; inscripción n.º 358, f. 109, 1891; copia en tela"
+ },
+ "metricas": {
+  "superficie_ha": "488,7",
+  "hitos": "Mojones de Saubidet 1866; torres del Cabildo de Mercedes y de la iglesia de Giles; pulpería",
+  "aguas": "Ninguna citada (título: vertientes del arroyo de Giles)"
+ },
+ "sintesis": "Duplicado completo (títulos, mensura, dictamen, nota de aprobación) con plano y copia. En diciembre de 1880 Carlos Schuster divide entre los cuatro hijos de Pascual Lescano (Marcelino, Juan de Dios, Gregorio y Dionisia) la fracción que le tocó en la división de Saubidet de 1866 del campo de Francisco Lescano (comprado en 1838; origen en la compra de Antonio Lezcano a Pedro Antonio Martínez, 1825): una faja de ≈ 710 m × 6,9 km, N 31° 9′ O, de 488,74 ha, en cuatro lotes de 122,18 ha, entre Alejandro Lezcano, Romualda G. de Casas, Naughton y Pichetto. El plano muestra la población familiar, una pulpería y el camino a Luján; los mojones se abalizan a las torres del Cabildo de Mercedes y de la iglesia de Giles. Aprobada el 27/4/1881.",
+ "caratula": {
+  "img": "img/f/109/01.jpg",
+  "fuente": "IMG_9656.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "109"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Pascual Lezcano"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1880"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: extracto de títulos (Antonio Lescano → sus herederos → Francisco Lescano, 1838; Martínez 1825) y la división de Saubidet (1866)",
+   "img": "img/f/109/06.jpg",
+   "fuente": "IMG_9658 (girada 90°)",
+   "nota": "Letra cursiva pequeña y apretada de Schuster o su copista, tinta pálida; folios sellados 1-5. Las tomas 9659-9662 son de doble página.",
+   "lineas": [
+    "Mensura y division del terreno de la",
+    "testamentaria de D.^{n} Pascual Lescano,",
+    "situado en el Partido de Giles.",
+    "Estracto de títulos",
+    "1838 Abril 25 D.^{n} Pablo José Sanchez en repre-",
+    "sentacion de D.^{n} Francisco, D.^{n} Manuel, Do-",
+    "ña Laureana, Doña Jacoba, Doña Mateo [?],",
+    "Doña Monica y Doña Antonia Lezcano, he-",
+    "rederos del finado D.^{n} Antonio Lezcano, vende",
+    "á D.^{n} Francisco Lezcano, á saber un terreno",
+    "de la propiedad de sus representados, en",
+    "el Partido de la Guardia de Lujan (hoy Giles),",
+    "compuesto de cinco mil varas de frente con",
+    "siete mil novecientas de fondo, lindando por",
+    "su frente con los herederos de D.^{n} Jorge Robredo [?],",
+    "por el fondo con las vertientes del arroyo de Giles,",
+    "por el costado Nord-Oeste con D.^{n} Pedro San-",
+    "chez y por el Sud-Este con Doña Manuela",
+    "Quiroga; le corresponde á sus representados",
+    "por muerte del dicho D.^{n} Antonio ~~Lezcano~~ y este",
+    "lo hubo por compra que hizo á D.^{n} Pedro",
+    "Antonio Martinez, segun consta de la Escri-",
+    "tura de fecha 8 de Marzo de 1825 ante el Escri-",
+    "bano D.^{n} Marcos Leonardo Agrelo — Escritura",
+    "ante el Escribano público D.^{n} Luis Cartañaga —",
+    "El Agrimensor D.^{n} Pedro Saubidet midió este",
+    "campo en Agosto de 1866 para dividirlo en-",
+    "tre los herederos de D.^{n} Francisco Lezcano,",
+    "siendo uno de ellos D.^{n} Pascual Lezcano ó",
+    "sus herederos y de la mensura resultó adju-",
+    "dicado á estos últimos setecientos cinco metros",
+    "tres decímetros en el frente Nord-Oeste y se-",
+    "tecientos trece metros dos decímetros en el opues-",
+    "to ó Sud-Este, las líneas que corren de Nord-Oeste"
+   ],
+   "interpretacion": "Extracto de títulos. 25/4/1838: Pablo José Sánchez, en representación de Francisco, Manuel, Laureana, Jacoba, Mateo [?], Mónica y Antonia Lezcano, herederos de ANTONIO LEZCANO, vende a FRANCISCO LEZCANO un terreno en el partido de la GUARDIA DE LUJÁN (hoy Giles) de 5000 varas de frente × 7900 de fondo, lindero por el frente con los herederos de Jorge Robredo [?], por el fondo con las VERTIENTES DEL ARROYO DE GILES, al NO con Pedro Sánchez y al SE con Manuela Quiroga; Antonio lo había comprado a Pedro Antonio Martínez (escritura del 8/3/1825, escribano Marcos Leonardo Agrelo; la de 1838 ante Luis Cartañaga). En agosto de 1866 Pedro SAUBIDET lo midió y dividió entre los herederos de Francisco Lezcano; a los de PASCUAL LEZCANO les tocaron 705,3 m de frente NO y 713,2 m en el SE."
+  },
+  {
+   "titulo": "Folio 1 vuelta: la sucesión de Pascual Lescano (auto de 9/11/1880) y el pedido de división de Teodoro Luis Pardo",
+   "img": "img/f/109/07.jpg",
+   "fuente": "IMG_9659, página izquierda",
+   "nota": "",
+   "lineas": [
+    "á Sud-Este de esta fraccion no han sido me-",
+    "didas — La mensura fué aprobada judi-",
+    "cialmente —",
+    "Por fallecimiento de D.^{n} Pascual Lezca-",
+    "no le suceden por derecho de representacion",
+    "los hijos de este llamados: Marcelino, Dio-",
+    "nisia, Gregorio y Juan de Dios Lezcano,",
+    "auto del S.^{or} Juez de 1.^{a} Instancia en lo",
+    "Civil del Departamento del Centro, Doctor",
+    "D.^{n} Juan San-Martin de fecha 9 de Noviem-",
+    "bre de 1880 —",
+    "1880 Noviembre 24 — D. Teodoro Luis Pardo,",
+    "por la representacion que ejerce de los herede-",
+    "ros de D.^{n} Pascual Lezcano se presenta al",
+    "S.^{or} Juez de 1.^{a} instancia, diciendo: que estando",
+    "todos estos en aptitud, como mayores de edad,",
+    "de practicar la division de los bienes dejados",
+    "por su legítimo padre D. Pascual Lezcano",
+    "del modo y forma que les convenga y sien-",
+    "do el único bien que existe, la fraccion",
+    "de campo situado en el Partido de Giles,",
+    "debe practicarse la division material por",
+    "un Agrimensor público, á cuyo efecto pro-",
+    "pone al suscripto, para que proceda á",
+    "la designacion y ubicacion de la fraccion",
+    "que á cada uno corresponde, de la asigna-",
+    "da en la anterior division á los herederos",
+    "de D. Pascual Lezcano —",
+    "25 Noviembre 1880. El S.^{or} Juez ha por nom-",
+    "brado al Agrimensor propuesto — y en",
+    "1880 Diciembre 3 — toma antecedentes del De-",
+    "partamento de Ingenieros.",
+    "Mensura.",
+    "Comisionado yo el Agrimensor público",
+    "que firmo, por auto del S.^{or} Juez de 1.^{a} ins-",
+    "tancia en lo Civil del Departamento"
+   ],
+   "interpretacion": "Las fracciones al SE de ésta no fueron medidas; la mensura de 1866 se aprobó judicialmente. Muerto Pascual, lo heredan por representación sus hijos Marcelino, Dionisia, Gregorio y Juan de Dios Lezcano (auto del juez Juan San Martín, 9/11/1880). 24/11/1880: Teodoro Luis Pardo, su apoderado, pide la división material del único bien —la fracción de Giles— por un agrimensor que propone; el juez lo nombra el 25/11 y el 3/12 toma antecedentes en el Departamento."
+  },
+  {
+   "titulo": "Folio 2: citación (art. 513 [?]), mojón A de Saubidet (1866), línea A-B contra Tomás Naughton y comienzo de B-C contra Alejandro Lezcano",
+   "img": "img/f/109/07.jpg",
+   "fuente": "IMG_9659, página derecha",
+   "nota": "",
+   "lineas": [
+    "del Centro Doctor D.^{n} Juan San-Martin,",
+    "de fecha 25 de Noviembre del corriente año, pa-",
+    "ra medir y dividir el terreno de los herederos",
+    "de D.^{n} Pascual Lezcano, llamados: Marce-",
+    "lino, Juan de Dios, Gregorio y Dionisia Lez-",
+    "cano —",
+    "Hecha la citacion de los linderos y",
+    "publicados los edictos en dos diarios como",
+    "lo determina la Ley de Enjuiciamiento en",
+    "su artículo 513 [?] cuya circular y diarios se",
+    "acompañan al expediente; procedí á prac-",
+    "ticar la mensura, del modo que paso á",
+    "esplicar. Me coloqué, acompañado de",
+    "los interesados, linderos y demas personas",
+    "necesarias para la operacion, en el mojon",
+    "del ángulo Sud del terreno que iba á",
+    "medir, letra A del plano, este mojon de",
+    "como todos los demas de este terreno fue-",
+    "ron colocados por el Agrimensor D. Pedro Sau-",
+    "bidet el año 1866, cuando practicó la men-",
+    "sura y division del terreno de los herederos",
+    "de D.^{n} Francisco Lezcano, ahora este mojon",
+    "servirá para la fraccion de D. Marcelino",
+    "Lezcano — Desde él pues, por el rumbo al",
+    "Norte cincuenta y siete grados cincuenta y",
+    "ocho minutos Este, medí setecientos diez y",
+    "ocho metros, con lo que llegué al mojon",
+    "del ángulo Este, letra B ahora para el",
+    "mismo D.^{n} Marcelino, se deslinda en",
+    "esta línea con D.^{n} Tomas Naughton —",
+    "Desde B se midió, hasta el mojon",
+    "del ángulo Norte del total del terreno le-",
+    "tra C, por el rumbo al Norte treinta y un",
+    "grados nueve minutos Oeste y deslindando",
+    "con D.^{n} Alejandro Lezcano seis mil nove-",
+    "cientos metros (6900 m); en esta línea"
+   ],
+   "interpretacion": "Comisión del juez San Martín (25/11/1880). Citación y edictos en dos diarios (art. 513 [?]). Arranque en el mojón A (ángulo S), puesto, como todos los de este campo, por SAUBIDET en 1866; ahora queda para Marcelino. A-B al N 57° 58′ E, 718 m, contra TOMÁS NAUGHTON (B, ángulo E). B-C al N 31° 9′ O, 6900 m, contra ALEJANDRO LEZCANO, hasta el ángulo N C…"
+  },
+  {
+   "titulo": "Folio 2 vuelta: mojones divisorios E, F, G sobre B-C; costaneros; línea C-D contra José Pichetto; comienzo de D-A contra Romualda G. de Casas",
+   "img": "img/f/109/08.jpg",
+   "fuente": "IMG_9660, página izquierda",
+   "nota": "",
+   "lineas": [
+    "[se] colocaron los mojones divisorios entre las di-",
+    "ferentes fracciones que hay que dividir este",
+    "terreno, á saber: á los mil setecientos ocho",
+    "metros veintiseis centímetros (1708.26 m), el",
+    "del ángulo Norte de la fraccion de D.^{n}",
+    "Marcelino y Este para la de D.^{n} Juan",
+    "de Dios, letra E, á los tres mil cuatrocien-",
+    "tos veintiocho metros diez y seis centímetros",
+    "(3428.16 m), el del ángulo Norte para este",
+    "último y Este para D.^{n} Gregorio, letra F, á",
+    "los cinco mil ciento sesenta metros cuaren-",
+    "ta y nueve centímetros (5160.49), el del án-",
+    "gulo Norte para este último y Este pa-",
+    "ra Doña Dionisia, letra G, siendo el mojon",
+    "C del ángulo Norte para esta última.",
+    "Se colocaron á mas mojones costaneros",
+    "á los ochocientos cincuenta, dos mil sete-",
+    "cientos y seis mil cincuenta metros, encon-",
+    "trándose otros puestos por Saubidet á los",
+    "dos mil cuatrocientos dos apartado á la",
+    "derecha un metro veinte centímetros y",
+    "otro á cuatro mil quinientos noventa y",
+    "cuatro también á la derecha un metro",
+    "cincuenta centímetros —",
+    "Desde el punto últimamente arribado,",
+    "mojon C, por el rumbo al Sud cincuenta y",
+    "ocho grados trece minutos Oeste, deslindan-",
+    "do con D.^{n} José Pichetto, se midieron seis-",
+    "cientos noventa y ocho metros cinco decíme-",
+    "tros (698.5 m) hasta el mojon del ángulo",
+    "Oeste, letra D, hoy de la fraccion de Doña",
+    "Dionisia —",
+    "Desde este mojon D, por el rumbo al",
+    "Sud treinta grados cincuenta y nueve mi-",
+    "nutos Este, deslindando con Doña Ro-",
+    "mualda G. de Casas (antes D. Francisco"
+   ],
+   "interpretacion": "…con mojones divisorios E (1708,26 m, Marcelino/Juan de Dios), F (3428,16, Juan de Dios/Gregorio), G (5160,49, Gregorio/Dionisia); costaneros nuevos a 850, 2700 y 6050 m y dos de Saubidet encontrados a 2402 m (1,20 m a la derecha) y 4594 m (1,50 m). C-D al S 58° 13′ O, 698,5 m, contra José PICHETTO (D, ángulo O, de Dionisia). D-A al S 30° 59′ E contra Romualda G. de CASAS (antes Francisco Lezcano)…"
+  },
+  {
+   "titulo": "Folio 3: línea D-A (6903 m) con los mojones H, J, K; divisorias K-E, J-F, H-G",
+   "img": "img/f/109/08.jpg",
+   "fuente": "IMG_9660, página derecha",
+   "nota": "",
+   "lineas": [
+    "Lezcano) se midieron seis mil novecientos tres",
+    "metros (6903 m) y se llegó al mojon A de par-",
+    "tida — En esta línea se colocaron los mojones",
+    "divisorios siguientes: á los mil setecientos cua-",
+    "renta y dos metros sesenta y ocho centímetros",
+    "(1742.68) el del ángulo Sud para la fra-",
+    "ccion de Doña Dionisia y del Oeste para",
+    "D.^{n} Gregorio, letra H, á los tres mil cuatrocientos",
+    "setenta y cuatro metros sesenta y ocho centíme-",
+    "tros (3474.68) el del ángulo Sud para este",
+    "último y Oeste para D.^{n} Juan de Dios, letra J,",
+    "á los cinco mil ciento noventa y cuatro metros",
+    "sesenta y ocho centímetros (5194.68), el del ángulo",
+    "Sud para este último y del Oeste para D.^{n}",
+    "Marcelino, letra K — A mas en esta línea se colo-",
+    "caron mojones costaneros á los ochocientos cincuenta,",
+    "dos mil seiscientos veinticinco, cuatro mil trescien-",
+    "tos y seis mil metros y se encontraron otros á los",
+    "dos mil ciento treinta y siete, tres mil cuatrocien-",
+    "tos cincuenta y uno y cuatro mil quinientos cua-",
+    "tro metros —",
+    "En seguida me coloqué en el mojon K",
+    "y por el rumbo al Norte cincuenta y siete gra-",
+    "dos cincuenta y ocho minutos Este, hasta el mo-",
+    "jon E se midieron setecientos trece metros tres",
+    "centímetros (713.03), esta línea divide el terreno",
+    "de D.^{n} Marcelino del de D. Juan de Dios —",
+    "Desde el mojon J, por el rumbo al Norte",
+    "cincuenta y siete grados cincuenta y ocho mi-",
+    "nutos Este á F se midieron setecientos ocho me-",
+    "tros (708 m), dividiendo esta línea el terreno de",
+    "D. Juan de Dios del de D. Gregorio y por úl-",
+    "timo —",
+    "Desde H al Norte cincuenta y siete gra-",
+    "dos cincuenta y ocho minutos Este se midieron",
+    "hasta el mojon G setecientos dos metros noventa y"
+   ],
+   "interpretacion": "…6903 m hasta A, con divisorios H (1742,68), J (3474,68) y K (5194,68 m) y costaneros a 850, 2625, 4300 y 6000 m (encontrados a 2137, 3451 y 4504). Divisorias transversales al N 57° 58′ E: K-E 713,03 m (Marcelino/Juan de Dios), J-F 708 m (Juan de Dios/Gregorio), H-G 702,96 m (Gregorio/Dionisia)."
+  },
+  {
+   "titulo": "Folio 3 vuelta: superficie total (488,74 ha) y cuota de cada heredero; fracciones de Marcelino y Juan de Dios",
+   "img": "img/f/109/09.jpg",
+   "fuente": "IMG_9661, página izquierda",
+   "nota": "",
+   "lineas": [
+    "y seis centímetros (702.96), dividiendo esta línea",
+    "el terreno de D.^{n} Gregorio del de Doña Dionisia",
+    "La superficie total de este terreno es de",
+    "cuatrocientas ochenta y ocho hectáreas seten-",
+    "ta y tres áreas noventa y cuatro metros cuadra-",
+    "dos ó sean seis millones quinientas diez y seis mil",
+    "novecientas ocho varas cuadradas (488^{h}.73^{a}.94^{mc}",
+    "= 6.516.908 v.c.), por consiguiente corresponde á",
+    "cada uno de los cuatro herederos: ciento vein-",
+    "tidos hectáreas diez y ocho áreas cuarenta y",
+    "nueve metros cuadrados, ó sean un millon",
+    "seiscientas veintinueve mil doscientas vein-",
+    "tisiete varas cuadradas (122^{h}.18^{a}.49^{m.c.} = 1.629.227 v.^{c})",
+    "Figura, superficie y linderos de",
+    "cada una de las fracciones.",
+    "La de D. Marcelino Lezcano.",
+    "Tiene la figura de un trapecio y su super-",
+    "ficie de ciento veintidos hectáreas diez y o-",
+    "cho áreas cuarenta y nueve metros cua-",
+    "drados ó sean un millon seiscientas vein-",
+    "tinueve mil doscientas veintisiete varas",
+    "cuadradas y linda al Nord-Este con",
+    "D.^{n} Alejandro Lezcano, al Sud-Este con",
+    "D.^{n} Tomas Naughton, al Sud-Oeste con",
+    "Doña Romualda G. de Casas y por el Nord-",
+    "Oeste con D. Juan de Dios Lezcano",
+    "La de D. Juan de Dios Lezcano.",
+    "Tiene la figura de un trapecio y su super-",
+    "ficie de ciento veintidos hectáreas diez y ocho",
+    "áreas cuarenta y nueve metros cuadrados ó",
+    "sean un millon seiscientas veintinueve mil",
+    "doscientas veintisiete varas cuadradas y",
+    "linda al Nord-Este con D.^{n} Alejandro",
+    "Lezcano, al Sud-Este con D.^{n} Marcelino",
+    "Lezcano, al Sud-Oeste con Doña Romual-",
+    "da G. de Casas y al Nord-Oeste con D.^{n}"
+   ],
+   "interpretacion": "Superficie total 488 ha 73 a 94 m² = 6.516.908 v²; a cada uno de los cuatro, 122 ha 18 a 49 m² = 1.629.227 v². Marcelino: trapecio, lindero de Alejandro Lezcano (NE), Naughton (SE), Romualda G. de Casas (SO) y Juan de Dios (NO). Juan de Dios: trapecio, entre Alejandro Lezcano, Marcelino, Casas y Gregorio."
+  },
+  {
+   "titulo": "Folio 4: fracciones de Gregorio y de Dionisia; sin oposición; acta (art. 618); variación 11° 34′; fecha 20/12/1880",
+   "img": "img/f/109/09.jpg",
+   "fuente": "IMG_9661, página derecha",
+   "nota": "",
+   "lineas": [
+    "Gregorio Lezcano.",
+    "La de D. Gregorio Lezcano.",
+    "Tiene la figura de un trapecio y su super-",
+    "ficie de ciento veintidos hectáreas diez y ocho á-",
+    "reas y cuarenta y nueve metros cuadrados ó",
+    "sean un millon seiscientas veintinueve mil dos-",
+    "cientas veintisiete varas cuadradas y linda al",
+    "Nord-Este con D.^{n} Alejandro Lezcano, al Sud-",
+    "Este con D. Juan de Dios Lezcano, al Sud-Oeste",
+    "con Doña Romualda G. de Casas y al Nord-Oes-",
+    "te con Doña Dionisia Lezcano.",
+    "La de Doña Dionisia Lezcano.",
+    "Tiene la figura de un trapezoide y su su-",
+    "perficie de ciento veintidos hectáreas diez y o-",
+    "cho áreas cuarenta y nueve metros cuadrados",
+    "ó sean un millon seiscientas veintinueve mil",
+    "doscientas veintisiete varas cuadradas y linda",
+    "al Nord-Este con D.^{n} Alejandro Lezcano, al",
+    "Sud-Este con D.^{n} Gregorio Lezcano, al Sud-",
+    "Oeste con Doña Romualda G. de Casas y",
+    "al Nord-Oeste con D.^{n} José Pichetto.",
+    "Con lo que quedó concluida esta operacion",
+    "sin oposicion ni protesta alguna —",
+    "Se acompaña la acta que se levantó con",
+    "arreglo al artículo 618 de la Ley de Enjuicia-",
+    "miento.",
+    "Los rumbos son los verdaderos y la varia-",
+    "cion de la Aguja de once grados treinta y cua-",
+    "tro minutos Nord-Este.",
+    "Partido de San Andrés de Giles á",
+    "20 de Diciembre de 1880 —",
+    "Cárlos Schuster",
+    "Ava [?] [rúbrica]"
+   ],
+   "interpretacion": "Gregorio: trapecio; Dionisia: trapezoide, contra Pichetto al NO. Sin oposición ni protesta; acta según el art. 618 de la Ley de Enjuiciamiento. Rumbos verdaderos; variación 11° 34′ NE. Giles, 20/12/1880, Carlos Schuster; rúbrica «Ava [?]»."
+  },
+  {
+   "titulo": "Folio 4 vuelta: abalizamiento (torre del Cabildo de Mercedes y torre de la iglesia de Giles); presentación (14/1/1881); comienzo del dictamen",
+   "img": "img/f/109/10.jpg",
+   "fuente": "IMG_9662, página izquierda",
+   "nota": "",
+   "lineas": [
+    "Abalizamiento",
+    "Mojon A sobre la línea AB á la derecha.",
+    "Poblacion de D.^{n} Tomas Naughton 55°, id. de",
+    "la herederos [?] de D. Pascual Lezcano 335° 50′, de Torre",
+    "del Cabildo de Mercedes 141° 49′ —",
+    "Mojon B sobre BC.",
+    "Poblacion de D.^{n} Solano Lezcano 25° 35′, id. de",
+    "D. T. Naughton 176° 10′, id. de D. Francisco",
+    "Lezcano 286° 20′ —",
+    "Mojon C sobre CB.",
+    "Poblacion de Doña Romualda G. de Casas 77° 20′,",
+    "id. de D. José Pichetto 145° 33′, id. de D. Avelino Gon-",
+    "zalez 283° —",
+    "Mojon D sobre DA.",
+    "Poblacion de Doña Romualda G. de Casas 60° 10′,",
+    "id. de D. J. Pichetto 245° 15′, Torre de la Iglesia de",
+    "Giles (la de la izquierda) 179° 58′",
+    "Schuster",
+    "Enero 14/881. —",
+    "Presentada en la fecha al",
+    "Departamento de Ingenieros —",
+    "Martin Pico",
+    "Señor Juez de 1.^{a} Inst.^{a}",
+    "El Departamento de Ingenieros",
+    "ha examinado la operacion de",
+    "mensura y division del terreno",
+    "perteneciente á los herederos de",
+    "D. Pascual Lescano en Giles, ^{practicada por el agrimensor D. Carlos Schuster} y"
+   ],
+   "interpretacion": "Abalizamiento: desde A, poblaciones de Tomás Naughton (55°) y de los herederos de Pascual Lezcano (335° 50′) y la TORRE DEL CABILDO DE MERCEDES (141° 49′); desde B, Solano Lezcano, T. Naughton y Francisco Lezcano; desde C, Romualda G. de Casas, José Pichetto y Avelino González; desde D, Casas, Pichetto y la TORRE DE LA IGLESIA DE GILES («la de la izquierda», 179° 58′). Presentada al Departamento el 14/1/1881 (Martín Pico)."
+  },
+  {
+   "titulo": "Folio 5: fin del dictamen (18/1/1881) y nota de 1936 sobre la aprobación judicial (27/4/1881)",
+   "img": "img/f/109/10.jpg",
+   "fuente": "IMG_9662, página derecha",
+   "nota": "",
+   "lineas": [
+    "la considera en estado de ser aprobada",
+    "judicialmente. —",
+    "Enero 18/81",
+    "Lavalle",
+    "Moreno   Kuhr",
+    "[otra mano, a lápiz o tinta clara:]",
+    "Segun inscripcion N.^{o} 358 f.^{o} 109 / 1891 esta",
+    "mensura fué aprobada el dia 27 de",
+    "Abril de 1881 por el señor Juez Doctor",
+    "Juan San Martin, Secretario Agustin",
+    "Lopez Camelo en el Departamento del",
+    "Centro.",
+    "Enero 16/936",
+    "F. Cunci [?]"
+   ],
+   "interpretacion": "Dictamen del 18/1/1881 (Lavalle, Moreno, Kuhr): en estado de ser aprobada. Nota de 1936 (F. Cunci [?]): según la inscripción n.º 358, f. 109, de 1891, la mensura fue aprobada el 27/4/1881 por el juez Juan San Martín, secretario Agustín López Camelo, Departamento del Centro."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de los herederos de Pascual Lescano (Schuster, 1880)",
+   "img": "img/f/109/03.jpg",
+   "fuente": "IMG_9663.JPG (pliego, f. 6); detalles 9664-9666",
+   "orientacion": "Marco negro grueso; título en letras de imprenta «Plano del terreno de los herederos de PASCUAL LESCANO en el partido de Giles»; flecha «Var. 11° 34′ NE» en diagonal; escala gráfica de 3000 metros; firma «Cárlos Schuster». Cruces y cifras a lápiz del Departamento (1708 · 1720 · 1732 · 1740; «122 h 18 a 49 c»).",
+   "interpretacion": "Faja horizontal A-B-C-D (A abajo a la izquierda) sombreada, dividida en cuatro: MARCELINO · JUAN DE DIOS · GREGORIO · DIONISIA. Arriba Romualda G. de Casas (línea «S 30° 59′ E 6903»), abajo Alejandro Lezcano («N 31° 09′ O 6900»), a la izquierda T. Naughton («N 57° 58′ E 718»), a la derecha J. Pichetto («S 58° 13′ O 698,5»). En el extremo de Marcelino, junto a A, la «Pobl.ⁿ de los herederos de P. Lescano» y una «Pulpería», y dos CAMINOS que cruzan la faja en diagonal, uno rotulado «Camino a Luján».",
+   "referencias": [
+    [
+     "A-B",
+     "N 57° 58′ E · 718 m · contra Tomás Naughton"
+    ],
+    [
+     "B-C",
+     "N 31° 9′ O · 6900 m · contra Alejandro Lezcano (E 1708,26 · F 3428,16 · G 5160,49)"
+    ],
+    [
+     "C-D",
+     "S 58° 13′ O · 698,5 m · contra José Pichetto"
+    ],
+    [
+     "D-A",
+     "S 30° 59′ E · 6903 m · contra Romualda G. de Casas (H 1742,68 · J 3474,68 · K 5194,68)"
+    ],
+    [
+     "Divisorias",
+     "K-E 713,03 · J-F 708 · H-G 702,96 m, N 57° 58′ E"
+    ],
+    [
+     "Superficie",
+     "488 ha 73 a 94 ca = 6.516.908 v²; cuatro lotes de 122,1849 ha"
+    ],
+    [
+     "Caminos",
+     "Camino a Luján y otro camino, en diagonal por la fracción de Marcelino"
+    ],
+    [
+     "Poblaciones",
+     "Población de los herederos de P. Lescano y pulpería, junto al mojón A"
+    ],
+    [
+     "Visuales",
+     "Torre del Cabildo de Mercedes (desde A) · torre izquierda de la iglesia de Giles (desde D)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: Marcelino y los caminos",
+   "img": "img/f/109/04.jpg",
+   "fuente": "IMG_9665.JPG",
+   "orientacion": "",
+   "interpretacion": "Toma ampliada de la mitad de la faja con las progresivas de los costaneros y las cifras a lápiz.",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia del plano en tela",
+   "img": "img/f/109/05.jpg",
+   "fuente": "IMG_9667.JPG",
+   "orientacion": "",
+   "interpretacion": "Copia posterior sobre papel tela, con sello circular y leyenda en el ángulo inferior izquierdo (ilegible en la toma); probablemente de la Dirección de Geodesia, c. 1936-38 (cf. la nota de 1936 del f. 5).",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Ubicación: el bloque lescano al s del pueblo",
+   "texto": "Es la fracción de los herederos de Pascual Lescano dentro del campo de Francisco Lescano dividido por Saubidet en agosto de 1866 (la «Sección Lescano» de 045 y 059). Linderos: Alejandro Lezcano (NE), Romualda G. de Casas «antes Francisco Lezcano» (SO; la misma de 068 y 095), José Pichetto al NO (091, y el «al N José Piquetto» de 059) y Tomás Naughton al SE (cf. «T. Naughton» del bloque Nugent, 068). Rumbos N 31° 9′ O / N 57° 58′ E: la grilla N 30° 57′ O / N 59° E de 068-095. Encadenable en el GIS entre 059 (Díaz), 068 (Nugent) y 095 (Lezcano)."
+  },
+  {
+   "titulo": "Una suerte de 1825 en cuatro generaciones",
+   "texto": "Pedro Antonio Martínez → Antonio Lezcano (1825) → sus siete hijos → Francisco Lezcano (1838; 5000 × 7900 v, fondo a las VERTIENTES DEL ARROYO DE GILES, «partido de la Guardia de Luján, hoy Giles») → sus herederos (Saubidet 1866) → Pascual → sus cuatro hijos (1880), con 122 ha cada uno: la fragmentación de las grandes suertes coloniales hasta la escala de la chacra familiar."
+  },
+  {
+   "titulo": "Dos torres a la vista: mercedes y giles",
+   "texto": "Desde el mojón A se visa la TORRE DEL CABILDO DE MERCEDES (141° 49′) y desde D la TORRE IZQUIERDA DE LA IGLESIA DE GILES (179° 58′): dos anclas GIS lejanas que permiten triangular la faja. Es la primera visual al Cabildo de Mercedes en el corpus y confirma que la faja está en el borde SO del bloque, mirando hacia Mercedes."
+  },
+  {
+   "titulo": "Caminos y pulpería",
+   "texto": "El plano dibuja el «Camino a Luján» y otro camino cruzando la fracción de Marcelino, y junto al mojón A la población de los herederos y una PULPERÍA: el caserío familiar al borde del camino (cf. 086, pulpería y telégrafo)."
+  },
+  {
+   "titulo": "Mojones heredados",
+   "texto": "Todos los mojones son de Saubidet (1866); Schuster encuentra dos costaneros desplazados 1,20 y 1,50 m y los respeta; agrega costaneros a 850, 2625-2700, 4300 y 6000-6050 m. El largo, 6900 m ≈ 7968 v, supera en ≈ 68 v (59 m) las 7900 v del título de 1838 (= 6841 m); no se menciona sobrante."
+  },
+  {
+   "titulo": "Lecturas dudosas",
+   "texto": "«Mateo [?]» (probablemente «Mateo» por «Matea»); «Jorge Robredo [?]» (lindero de frente de 1838); «artículo 513 [?]»; «la herederos [?]» en el abalizamiento de A; rúbrica «Ava [?]»; firma de la nota de 1936, «F. Cunci [?]»."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Pascual Lescano (Lezcano) y sus hijos",
+   "rol": "Causante / herederos",
+   "texto": "Hijo de Francisco Lezcano; sus herederos Marcelino, Juan de Dios, Gregorio y Dionisia reciben 122 ha cada uno en 1880. Cf. Solano Lescano (045), Félix y Jerónima Lezcano (068, 082) y Bailona Lezcano de Ojuez (095).",
+   "fuentes": "Dup. 109; Fichas 045, 068, 095."
+  },
+  {
+   "nombre": "Antonio y Francisco Lezcano",
+   "rol": "Antecesores",
+   "texto": "Antonio compra en 1825 a Pedro Antonio Martínez; su hijo Francisco reúne la suerte en 1838 comprando a sus seis hermanos; sus herederos la dividen en 1866 (Saubidet).",
+   "fuentes": "Dup. 109."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Cuarta mensura suya de 1880 en el corpus (102, 105, 107, 109).",
+   "fuentes": "Fichas 102, 105, 107."
+  },
+  {
+   "nombre": "Pedro Saubidet",
+   "rol": "Agrimensor (1866)",
+   "texto": "Divide el campo de Francisco Lescano en 1866; mide también 028, 045, 059 y 075.",
+   "fuentes": "Fichas 028, 045, 059, 075."
+  },
+  {
+   "nombre": "Juan San Martín · Agustín López Camelo · Teodoro Luis Pardo",
+   "rol": "Juez · secretario · apoderado",
+   "texto": "San Martín, juez civil del Departamento del Centro en 1880-81 (aprueba el 27/4/1881); Pardo, apoderado de los herederos. Sin otros datos.",
+   "fuentes": "Dup. 109."
+  },
+  {
+   "nombre": "Linderos",
+   "rol": "Vecinos",
+   "texto": "Alejandro Lezcano, Romualda G. de Casas (068, 095), José Pichetto (091), Tomás Naughton (irlandés), Solano y Francisco Lezcano, Avelino González.",
+   "fuentes": "Fichas 068, 091, 095."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/109/02.jpg",
+  "fuente": "IMG_9657.JPG (girada 270°)",
+  "lineas": [
+   "Giles 109.",
+   "1880 —",
+   "Duplicado de las diligencias",
+   "de mensura y division del terreno",
+   "de los herederos de D. Pascual Lezcano,",
+   "situado en el Partido de Giles.",
+   "Medido por el Agrimensor",
+   "Cárlos Schuster",
+   "5. 11. 107."
+  ]
+ },
+ "titulo": "Herederos de Pascual Lescano",
+ "estado": "Transcripta (9 hojas, 289 renglones), 3 láminas"
+}
