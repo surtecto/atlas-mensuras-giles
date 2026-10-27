@@ -1,0 +1,520 @@
+{
+ "carpeta": "113",
+ "carpeta_nombre": "Carpeta 113",
+ "archivo": "Ficha 113 - Justo Rivas y Dionisio Acuña (1881).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (S del pueblo, bloque Lescano)",
+  "N.º de duplicado": "113",
+  "Propietario / solicitante": "Justo Rivas y Dionisio Acuña",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1881",
+  "Fecha de la diligencia": "Operación 13/7/1881; presentada 9/8/1881; D. I. 16/9/1881",
+  "Ubicación": "Fracción de Hilaria Lescano de Acuña en el campo de F. Lescano (Saubidet 1866)",
+  "Orden judicial": "Juez de 1.ª Inst. en lo Civil, Dep. del Centro, Dr. Juan San Martín (23/6/1881)",
+  "Vendedor / antecesor": "F. Lescano → Hilaria Lescano de Acuña → Damiana (venta a Rivas 1879) y Dionisio Acuña",
+  "Linderos citados": "G. Lescano de Gelves · F. Achával de Yera · J. Barco · D. Cisterna · J. Morales · F. Lescano",
+  "Medidas": "A-B 543 · B-C 3355 · C-D 523 · D-A 3355 m; dos lotes de 89,388 ha",
+  "Rumbos": "S 58° 14′ O · N 30° 31′ O · N 58° 14′ E · S 30° 50′ E; var. 11° 34′ NE",
+  "Referencia de archivo": "Dup. 113; mojones de Saubidet 1866; copia de la Dirección de Geodesia"
+ },
+ "metricas": {
+  "superficie_ha": "178,78 (2 × 89,39)",
+  "hitos": "Mojones de Saubidet 1866; poblaciones; torre del Cabildo de Mercedes; iglesia de Giles",
+  "aguas": "Ninguna citada"
+ },
+ "sintesis": "Duplicado completo (extracto, mensura, abalizamiento, dictamen) con plano y copia. En julio de 1881 Carlos Schuster divide el condominio de Justo Rivas (comprador de Damiana Acuña, 1879) y Dionisio Acuña, hijos de Hilaria Lescano de Acuña, en la fracción que ésta recibió en la división de Saubidet (1866) del campo de Francisco Lescano: rectángulo de ≈ 530 × 3355 m (178,78 ha) en dos lotes iguales de 89,39 ha. La forma —540 m de frente en lugar de 263— viene de un acuerdo con la lindera Gerónima Lescano de Gelves. Firma la circular un arrendatario, Patricio Clery. Visuales a la torre del Cabildo de Mercedes y a la iglesia de Giles.",
+ "caratula": {
+  "img": "img/f/113/01.jpg",
+  "fuente": "IMG_9711.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "113"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Justo Rivas y Dionisio Acuña"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1881"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: encabezado y extracto (hijuela de Hilaria Lescano de Acuña; hijuela de los menores Damiana y Dionisio Acuña; venta de Damiana a Justo Rivas, 13/10/1879)",
+   "img": "img/f/113/05.jpg",
+   "fuente": "IMG_9713",
+   "nota": "Letra cursiva redonda de copista, tinta parda; folios sellados 1-5 (el 5 es el plano). Tomas 9714-9717 de doble página.",
+   "lineas": [
+    "Mensura del terreno de Don Jus-",
+    "to Rivas y Don Dionisio Acuña, si-",
+    "tuado en el Partido de San Andres",
+    "de Giles —",
+    "Estracto.",
+    "En la Hijuela de Doña Hilaria Lesca-",
+    "no de Acuña, y les es adjudicado á sus cua-",
+    "tro hijos entre otras cosas —",
+    "ciento sesenta y siete y media varas de fren-",
+    "te por siete mil novecientas de fondo en",
+    "el terreno de la Estancia —",
+    "En la hijuela de los menores D.^{a} Damia-",
+    "na y Don Dionisio Acuña — se les adjudica",
+    "á esos herederos en pago de su haber, en",
+    "campo y poblacion de San Andres de Giles",
+    "en condominio por mitad y en partes",
+    "iguales —",
+    "Hay otra hijuela igual á la anterior, la",
+    "cual tiene una nota de haber vendido",
+    "Doña Damiana Acuña á Don Justo Rivas",
+    "el campo que segun esta hijuela le corres-",
+    "pondia —",
+    "1879 Obre. 13 Doña Damiana Acuña ven-",
+    "de á Don Justo Rivas, una fraccion de cam-",
+    "po que es dueña en posecion y pleno do-",
+    "minio en el Partido de Giles, cuya superfi-",
+    "cie es de ochenta y nueve hectáreas trein-",
+    "ta y ocho áreas ochenta metros cuadrados,",
+    "ó sean cincuenta y dos cuad.^{s} cuad.^{s} y",
+    "nueve cientos setenta y cuatro milésimos",
+    "de otra, y linda al N. E. con Don Francis-"
+   ],
+   "interpretacion": "EXTRACTO. En la hijuela de HILARIA LESCANO DE ACUÑA se adjudica a sus cuatro hijos, entre otras cosas, 167½ varas de frente por 7900 de fondo en el terreno de la estancia (la suerte de Francisco Lescano). En la hijuela de los menores DAMIANA y DIONISIO ACUÑA se les da, en pago de su haber, campo y población en Giles, en condominio por mitad. Otra hijuela igual lleva nota de la venta de Damiana a Justo Rivas. 13/10/1879: DAMIANA ACUÑA VENDE A JUSTO RIVAS su fracción de 89 ha 38 a 80 m² (52,974 cuadras²)…"
+  },
+  {
+   "titulo": "Folio 1 vuelta: linderos de la venta (F. Lescano, Dionisio Acuña, Gerónima Lescano de Gelves, Francisca Achával de Yera); pedido de mensura y división (21/6/1881); nota sobre la mensura de Saubidet (1866)",
+   "img": "img/f/113/06.jpg",
+   "fuente": "IMG_9714, página izquierda",
+   "nota": "",
+   "lineas": [
+    "co Lescano, al N. O. con Don Dionisio",
+    "Acuña, al S. O. con Doña Geronima Les-",
+    "cano de Gelbes y al S. E. con doña Fran-",
+    "cisca Achaval de Yera — Le correspondió con",
+    "otra por igual y en condominio con su",
+    "hermano Don Dionisio Acuña, por he-",
+    "rencia de su S.^{ra} madre Doña Hilaria",
+    "Lescano de Acuña —",
+    "Junio 21 de 1881. Don Santiago Mautalen [?]",
+    "por Don Dionisio Acuña y Don Justo",
+    "Rivas se presenta al S.^{or} Juez de 1.^{a}",
+    "Instancia en lo Civil del Departamento",
+    "del Centro, proponiendo al Agrimensor",
+    "suscripto para que practique la men-",
+    "sura y division del campo que tienen",
+    "en condominio sus representados &. —",
+    "En 23 del mismo, el S.^{or} Juez ha por",
+    "nombrado al Agrimensor propuesto y en",
+    "Julio 5 tomé antecedentes del Departamen-",
+    "to de Ingenieros —",
+    "Nota: El Agrimensor Don Pedro Saubi-",
+    "det practicó en Agosto de 1866 una men-",
+    "sura para los herederos de Don Francisco",
+    "Lescano, de la que era una de las he-",
+    "rederas Doña Hilaria Lescano de Acu-",
+    "ña y le dió en un frente del terreno",
+    "doscientos sesenta y tres metros dos deci-",
+    "metros (263 m 2 d.) y en el otro doscientos",
+    "setenta metros cinco decímetros (270 m 5 d.) —",
+    "y el fondo de seis mil ochocientos y",
+    "tantos metros, pero al mismo tiempo",
+    "tiene trazado en su plano un trapecio"
+   ],
+   "interpretacion": "…lindera de Francisco Lescano (NE), Dionisio Acuña (NO), GERÓNIMA LESCANO DE GELVES (SO) y FRANCISCA ACHÁVAL DE YERA (SE). 21/6/1881: Santiago Mautalen [?], apoderado de Dionisio Acuña y Justo Rivas, pide al juez civil del Departamento del Centro la mensura y división del condominio; el 23 el juez nombra al agrimensor y el 5/7 éste toma antecedentes. NOTA: Pedro SAUBIDET, en agosto de 1866, al medir para los herederos de Francisco Lescano, dio a Hilaria 263,2 m y 270,5 m de frente por «seis mil ochocientos y tantos» de fondo, pero dibujó en su plano un trapecio…"
+  },
+  {
+   "titulo": "Folio 2: el trapecio «con el nombre de Hilaria Lescano de Acuña» (540 × 533 m) en el plano de Saubidet; acuerdo con Gerónima Lescano de Gelves; posesión judicial; comienzo de la mensura (13/7/1881)",
+   "img": "img/f/113/07.jpg",
+   "fuente": "IMG_9714, página derecha",
+   "nota": "",
+   "lineas": [
+    "con el nombre de Hilaria Lescano de Acu-",
+    "ña, con quinientos cuarenta metros (540 m)",
+    "en su frente S. E. y quinientos treinta y tres",
+    "metros (533 m) el del N. O. y es el terreno que",
+    "actualmente con pequeñas diferencias po-",
+    "seen los herederos de Doña Hilaria, Doña",
+    "Damiana Acuña (hoy Don Justo Rivas) y",
+    "Don Dionisio Acuña, viniendo á resultar",
+    "ahora con esta figura, segun parece, por",
+    "acuerdos entre los interesados ó sus antecesor-",
+    "es con la lindera, tambien heredera de Don",
+    "Francisco Lescano, Doña Geronima Lesca-",
+    "no de Gelbes, la cual como se vé en la",
+    "acta que se acompaña está conforme con",
+    "la mensura practicada por mí; habien-",
+    "do antes de ahora tomado posecion judi-",
+    "cial del campo, como está amojonado,",
+    "los herederos Doña Damiana y Don Dio-",
+    "nisio Acuña como todo consta del espe-",
+    "diente; en vista de esto procedí á practi-",
+    "car la:",
+    "Mensura —",
+    "En el Partido de San Andres de Gi-",
+    "les á 13 de Julio del año de 1881 — Segun",
+    "el auto del S.^{or} Juez de 1.^{a} instancia en lo",
+    "Civil del Departamento del Centro Doctor",
+    "Don Juan San Martin, de fecha 23 de Ju-",
+    "nio del corriente, fuí comisionado yo",
+    "el Agrimensor público que firmo pa-",
+    "ra medir y dividir el campo que tiene en",
+    "condominio Don Justo Rivas, por compra",
+    "que hizo á Doña Damiana Acuña y"
+   ],
+   "interpretacion": "…a nombre de Hilaria, de 540 m (frente SE) y 533 m (NO): ése es el terreno que hoy poseen sus herederos, con esa figura, al parecer por ACUERDOS con la lindera GERÓNIMA LESCANO DE GELVES (también heredera de Francisco Lescano), que firmó el acta de conformidad. Damiana y Dionisio ya habían tomado POSESIÓN JUDICIAL del campo amojonado. MENSURA: Giles, 13/7/1881, por auto del juez JUAN SAN MARTÍN (23/6)…"
+  },
+  {
+   "titulo": "Folio 2 vuelta: citación y edictos; A (mojón de Saubidet, ángulo E) – B: S 58° 14′ O 543 m contra Francisca Achával de Yera; B-C N 30° 31′ O 3355 m contra Gerónima Lescano de Gelves; mojón divisorio a 1662 m",
+   "img": "img/f/113/08.jpg",
+   "fuente": "IMG_9715, página izquierda",
+   "nota": "",
+   "lineas": [
+    "Don Dionisio Acuña en el Partido de",
+    "San Andres de Giles —",
+    "Hecha la citacion de los linderos",
+    "y publicado los edictos, como consta de la",
+    "circular de citacion que original se acom-",
+    "paña y de los diarios que tambien se acom-",
+    "pañan al espediente —",
+    "Procedí á dar comienzo á la operacion co-",
+    "locandome en el mojon del ángulo Este",
+    "del campo que iba á medir y Sud del de",
+    "Don Francisco Lescano (letra A) colocado",
+    "allí por el Agrimensor Saubidet y por el",
+    "rumbo al Sud cincuenta y ocho grados ca-",
+    "torce minutos Oeste deslindando con Doña",
+    "Francisca Achaval de Yera medí qui-",
+    "nientos cuarenta y tres metros (S. 58° 14′ O.",
+    "543 m) hasta el mojon del ángulo Sud",
+    "de este terreno y Este de Doña Geronima",
+    "Lescano de Gelbes, letra B puesto tambien",
+    "por Saubidet. El mojon A y el B pertene-",
+    "cen á la fraccion de Doña Damiana Acu-",
+    "ña hoy de Don Justo Rivas —",
+    "Desde el mojon B por el rumbo al Nor-",
+    "te treinta grados treinta y un minutos Oes-",
+    "te deslindando con Doña Geronima Lesca-",
+    "no de Gelbes se midieron tres mil tres-",
+    "cientos cincuenta y cinco metros (N 30° 31′ O.",
+    "3355 m) hasta el mojon C colocado por el",
+    "mismo Agrimensor, en esta linea á los",
+    "mil seiscientos sesenta y dos metros (1662 m)",
+    "se colocó el mojon divisorio entre Don Justo",
+    "Rivas y Don Dionisio Acuña del ángulo Oes-"
+   ],
+   "interpretacion": "Citación y edictos. Arranque en A (ángulo E del campo, S del de Francisco Lescano, mojón de Saubidet); A-B S 58° 14′ O, 543 m, contra Francisca Achával de Yera, hasta B (ángulo S; también de Saubidet); A y B son de la fracción de Damiana, hoy Rivas. B-C N 30° 31′ O, 3355 m, contra Gerónima Lescano de Gelves, hasta C (de Saubidet); a 1662 m el mojón divisorio E (O de Rivas, S de Acuña)."
+  },
+  {
+   "titulo": "Folio 3: mojón E; C-D N 58° 14′ E 523 m contra Gelves hasta el costado SO de José Barco; D-A S 30° 50′ E 3355 m contra Barco, Desiderio Cisterna, Juan Morales y Francisco Lescano; mojón divisorio F a 1693 m",
+   "img": "img/f/113/09.jpg",
+   "fuente": "IMG_9715, página derecha",
+   "nota": "",
+   "lineas": [
+    "te para el primero y del Sud para el",
+    "segundo letra E. El mojon C es del ángu-",
+    "lo Oeste para Don Dionisio Acuña y de un",
+    "ángulo entrante para la Señora Gelbes.",
+    "Desde C al Norte cincuenta y ocho grados",
+    "catorce minutos Este se midieron deslindan-",
+    "do con la misma S.^{ra} de Gelbes quinientos",
+    "veinte y tres metros (N. 58° 14′ E. 523 m) hasta el",
+    "punto de interseccion de la linea del cos-",
+    "tado Sud Oeste del terreno de Don José Bar-",
+    "co y se puso el mojon D del ángulo Nor-",
+    "te para el terreno de Don Dionisio Acuña.",
+    "Desde D deslindando con Don José Bar-",
+    "co, Don Desiderio Cisterna, D. Juan Morales",
+    "y Don Francisco Lescano se midieron al",
+    "Sud treinta grados cincuenta minutos Este",
+    "tres mil trescientos cincuenta y cinco",
+    "metros (S. 30° 50′ E. 3355 m), y se llegó al",
+    "mojon A de arranque; colocandose en",
+    "esta linea á los mil seiscientos noventa",
+    "y tres metros (1693 m) el mojon F que di-",
+    "vide á Don Dionisio Acuña de Don Jus-",
+    "to Rivas del ángulo Este para el prime-",
+    "ro y Norte para el segundo. Se encontra-",
+    "ron en esta linea á los 1189 m.^{s} se encontró",
+    "el mojon que divide á Barco de Cisterna",
+    "á 1548.4 m el que divide á este último de",
+    "Morales y á 1751.9 m el que divide este úl-",
+    "timo de Lescano —",
+    "Ahora para dividir el terreno de",
+    "Don Justo Rivas del de Don Dionisio Acu-",
+    "ña me coloqué en el mojon E y por el"
+   ],
+   "interpretacion": "C es ángulo O de Acuña y ENTRANTE para Gelves. C-D N 58° 14′ E, 523 m, contra Gelves, hasta cortar el costado SO de JOSÉ BARCO (D, ángulo N). D-A S 30° 50′ E, 3355 m, contra José Barco, DESIDERIO CISTERNA, JUAN MORALES y Francisco Lescano; a 1693 m el divisorio F; mojones vecinos hallados a 1189 (Barco/Cisterna), 1548,4 (Cisterna/Morales) y 1751,9 m (Morales/Lescano)."
+  },
+  {
+   "titulo": "Folio 3 vuelta: divisoria E-F N 58° 14′ E 533 m; superficie y linderos de las dos fracciones (89 ha 38 a 80 ca = 52,974 cuadras² cada una); variación 11° 34′ NE",
+   "img": "img/f/113/10.jpg",
+   "fuente": "IMG_9716, página izquierda",
+   "nota": "",
+   "lineas": [
+    "rumbo al Norte cincuenta y ocho gra-",
+    "dos catorce minutos Este, medí hasta el",
+    "mojon F quinientos treinta y tres me-",
+    "tros (N. 58° 14′ E. 533 m) —",
+    "El terreno de Don Justo Rivas tiene",
+    "una superficie de ochenta y nueve hectáreas",
+    "treinta y ocho áreas ochenta metros cuadrados",
+    "ó sean cincuenta y dos cuadras cuad.^{s} mas",
+    "nuevecientas setenta y cuatro ~~[...]~~ milési-",
+    "mas de otra — (89^{h} 38^{a} 80^{m.c.} 52^{c.} 974^{s}) y",
+    "linda al Nord Este con Don Juan Morales",
+    "y Don Francisco Lescano, al Nord Oeste con",
+    "Don Dionisio Acuña, al Sud Oeste con Doña",
+    "Geronima Lescano de Gelbes y al Sud Es-",
+    "te con Doña Francisca Achaval de Yera.",
+    "La fraccion de Don Dionisio Acu-",
+    "ña, tiene una superficie igual á la an-",
+    "terior de ochenta y nueve hectáreas",
+    "treinta y ocho áreas ochenta metros cua-",
+    "drados — ó sean cincuenta y dos cuadras",
+    "cuadradas mas nuevecientas setenta y",
+    "cuatro ~~diez~~ milésimas de otra (89^{h} 38^{a}",
+    "80^{m.c.} 52^{c.} 974^{s}) y linda al Nord Este",
+    "con Don Juan Morales, Don Desiderio",
+    "Cisterna y Don José Barco — al Nord",
+    "Oeste y Sud Oeste con Doña Geronima",
+    "Lescano de Gelbes y al Sud Este con",
+    "Don Justo Rivas —",
+    "Los rumbos son los verdaderos",
+    "y la variacion de la Aguja de",
+    "11° 34′ Nord Este —",
+    "La circular de citacion fué fir-"
+   ],
+   "interpretacion": "Divisoria E-F N 58° 14′ E, 533 m. Justo Rivas (al SE): 89 ha 38 a 80 m² = 52,974 cuadras², entre Morales y F. Lescano (NE), Acuña (NO), Gelves (SO) y Achával de Yera (SE). Dionisio Acuña (al NO): igual superficie, entre Morales, Cisterna y Barco (NE), Gelves (NO y SO) y Rivas (SE). Rumbos verdaderos; variación 11° 34′ NE."
+  },
+  {
+   "titulo": "Folio 4: circular firmada por Patricio Clery (arrendatario de Achával de Yera); acta (art. 618); firma de Schuster; abalizamientos (torre del Cabildo de Mercedes, iglesia de Giles); presentación (9/8/1881)",
+   "img": "img/f/113/11.jpg",
+   "fuente": "IMG_9716, página derecha",
+   "nota": "",
+   "lineas": [
+    "mada por Don Patricio Clery, arren-",
+    "datario de la S.^{ra} Achaval de Yera —",
+    "Se levantó la acta que se acom-",
+    "paña con arreglo al art.^{o} 618 de la Ley",
+    "de Procedimientos —",
+    "Testado = diez = diez = no vale.",
+    "Cárlos Schuster [rúbrica]",
+    "Avalizamientos",
+    "Mojon A sobre la linea A. B.",
+    "Poblacion de Don Justo Rivas 52° 50′ —",
+    "Id. de Doña Geronima Lescano de Gelbes",
+    "62° 8′ y la de Don Toribio Achaval",
+    "275° 40′ —",
+    "Mojon B sobre BC. Poblacion de Don",
+    "Justo Rivas 23° 30′; Don Toribio Achaval",
+    "176° 32′; Torre del Cabildo de Mercedes 224° 40′;",
+    "Mojon C sobre CD Poblacion de Don José",
+    "Barco 4° 25′, Don Juan Morales 59° 25′, D.",
+    "Desiderio Cisterna 45° 30′. —",
+    "Mojon D, sobre D. A. — Don José Barco",
+    "275° 55′, Don Juan Morales 343°, Iglesia",
+    "de Giles 188° 40′. —",
+    "Schuster [rúbrica]",
+    "Agosto 9/81 —",
+    "Presentada en la fecha al Depar-",
+    "[tamento de Ingenieros] [rúbrica]"
+   ],
+   "interpretacion": "La circular la firmó PATRICIO CLERY, ARRENDATARIO de la señora Achával de Yera. Acta según el art. 618. Firma Carlos Schuster. ABALIZAMIENTOS: desde A, poblaciones de Rivas, Gelves y TORIBIO ACHÁVAL; desde B, Rivas, Achával y la TORRE DEL CABILDO DE MERCEDES (224° 40′); desde C, Barco, Morales y Cisterna; desde D, Barco, Morales y la IGLESIA DE GILES (188° 40′). Presentada al Departamento el 9/8/1881."
+  },
+  {
+   "titulo": "Folio 4 vuelta: dictamen del Departamento de Ingenieros (16/9/1881)",
+   "img": "img/f/113/12.jpg",
+   "fuente": "IMG_9717, página izquierda",
+   "nota": "",
+   "lineas": [
+    "[Depar]tamento de Ingenieros —",
+    "J. M. Lavarri [?] [rúbrica]",
+    "S.^{or} Juez de 1.^{a} Instancia",
+    "El Departamento de Ingenieros",
+    "ha examinado la operacion de",
+    "mensura practicada por el Agri-",
+    "mensor D. Cárlos Schuster de un terre-",
+    "no de D.^{a} Damiana y D. Dionisio",
+    "Acuña en el Partido de Giles, y",
+    "hallándola bien ejecutada la",
+    "considera en estado de ser apro-",
+    "bada judicialmente.",
+    "Setiembre 16/81.",
+    "Lavalle",
+    "Encina [?]   Lagos [?]"
+   ],
+   "interpretacion": "Dictamen del Departamento de Ingenieros (16/9/1881; Lavalle, Encina [?], Lagos [?]): bien ejecutada, en estado de ser aprobada judicialmente."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Justo Rivas y Dionisio Acuña (Schuster, 1881)",
+   "img": "img/f/113/03.jpg",
+   "fuente": "IMG_9718.JPG (f. 5, pliego con marco redondeado)",
+   "orientacion": "Marco negro grueso de esquinas redondeadas; flecha «Var. 11° 34′ NE» en diagonal; escala gráfica de 500 a 2000 m; firma «Cárlos Schuster». Cifras a lápiz del Departamento (89 38 80).",
+   "interpretacion": "Rectángulo largo (≈ 530 × 3355 m) dividido en dos mitades iguales: DIONICIO ACUÑA (NO) y JUSTO RIVAS (SE), sombreadas. Arriba (NE): José Barco, D. Cisterna, J. Morales y Francisco Lezcano; abajo (SO): Gerónima Lezcano; a la izquierda «Gelbes»; a la derecha «Fca. A. de Yera». Lados rotulados: S 30° 50′ E 3355 (con 1693), N 30° 31′ O 3355 (con 1662), N 58° 14′ E 523 y 533, S 58° 14′ O 543.",
+   "referencias": [
+    [
+     "A-B",
+     "S 58° 14′ O · 543 m · contra Francisca Achával de Yera"
+    ],
+    [
+     "B-C",
+     "N 30° 31′ O · 3355 m · contra Gerónima Lescano de Gelves (E a 1662 m)"
+    ],
+    [
+     "C-D",
+     "N 58° 14′ E · 523 m · contra Gelves (ángulo entrante)"
+    ],
+    [
+     "D-A",
+     "S 30° 50′ E · 3355 m · contra J. Barco, D. Cisterna, J. Morales y F. Lescano (F a 1693 m)"
+    ],
+    [
+     "E-F",
+     "N 58° 14′ E · 533 m · divisoria Acuña / Rivas"
+    ],
+    [
+     "Superficie",
+     "2 × 89 ha 38 a 80 m² (2 × 52,974 cuadras²) = 178,78 ha"
+    ],
+    [
+     "Visuales",
+     "Torre del Cabildo de Mercedes (desde B) · iglesia de Giles (desde D)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Copia en tela de la Dirección de Geodesia",
+   "img": "img/f/113/04.jpg",
+   "fuente": "IMG_9719.JPG",
+   "orientacion": "",
+   "interpretacion": "Copia posterior del mismo plano en papel tela, con sello de certificación en el ángulo inferior derecho (cf. 109 y 111, copias de 1936-38).",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Ubicación: otra hija de francisco lescano",
+   "texto": "Es la fracción de HILARIA LESCANO DE ACUÑA dentro del campo de Francisco Lescano dividido por Saubidet en 1866, la misma división que originó la de Pascual Lescano (109). Mismos rumbos (N 30°-31° O / N 58° E) y mismos mojones de Saubidet. Linderos: Gerónima Lescano de Gelves (otra heredera), Francisco Lescano (hijo), Barco, Cisterna, Morales y Francisca Achával de Yera; Toribio Achával visado desde A y B. Encadenable con 109 (Pascual), 059, 068 y 095 en el bloque Lescano."
+  },
+  {
+   "titulo": "De 263 m a 540 m: el acuerdo con la vecina",
+   "texto": "Saubidet asignó a Hilaria 263-270 m de frente por ≈ 6800 m de fondo, pero en su plano dibujó un TRAPECIO de 540 × 533 m (de la mitad del largo): es lo que poseen sus hijos, «según parece, por acuerdos» con Gerónima Lescano de Gelves. La forma del terreno nace de un arreglo entre herederas, no del título. El ángulo entrante en C para Gelves es la huella de ese canje."
+  },
+  {
+   "titulo": "Herencia y venta",
+   "texto": "Hilaria → sus cuatro hijos (167½ v de frente en la estancia) y, a los menores Damiana y Dionisio, campo y población en condominio; Damiana vende su mitad a Justo Rivas en 1879 (89,39 ha) y el condominio se divide en 1881. Otra fragmentación hasta la escala de la chacra, como en 109."
+  },
+  {
+   "titulo": "Arrendatario irlandés",
+   "texto": "Firma la circular PATRICIO CLERY, «arrendatario de la señora Achával de Yera»: la tierra de los Achával se trabaja por arrendamiento, probablemente por un ovejero irlandés (cf. Naughton en 109, Kenny y Maxwell en 111)."
+  },
+  {
+   "titulo": "Visuales a mercedes y giles",
+   "texto": "Como en 109, desde un mojón se visa la TORRE DEL CABILDO DE MERCEDES (B, 224° 40′) y desde otro la IGLESIA DE GILES (D, 188° 40′): las dos anclas lejanas del bloque Lescano. Útiles para triangular en el GIS."
+  },
+  {
+   "titulo": "Lecturas dudosas",
+   "texto": "«Santiago Mautalen [?]» (apoderado); firmantes del dictamen «Encina [?]» y «Lagos [?]»; recepción «J. M. Lavarri [?]»; «6 [?]» en la portadilla. «Achaval de Yera»: así lo rotula el plano."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Quiénes fueron los otros dos hijos de Hilaria? ¿Aprobación judicial? ¿Qué parte del trapecio de Saubidet quedó a Gerónima Lescano de Gelves?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Justo Rivas",
+   "rol": "Propietario",
+   "texto": "Compra a Damiana Acuña su mitad en 1879. Sin otros datos.",
+   "fuentes": "Dup. 113."
+  },
+  {
+   "nombre": "Dionisio y Damiana Acuña · Hilaria Lescano de Acuña",
+   "rol": "Propietario · vendedora · causante",
+   "texto": "Hijos menores de Hilaria Lescano de Acuña, hija de Francisco Lescano. Cf. la red Acuña de la naciente (037, 066, 108).",
+   "fuentes": "Dup. 113; Fichas 037, 109."
+  },
+  {
+   "nombre": "Gerónima Lescano de Gelves",
+   "rol": "Lindera",
+   "texto": "Heredera de Francisco Lescano; «Jerónima Lezcano» lindera en 068 y 082.",
+   "fuentes": "Fichas 068, 082."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Quinta mensura suya de 1880-81 en el corpus (102, 105, 107, 109, 113).",
+   "fuentes": "Fichas 102-109."
+  },
+  {
+   "nombre": "Pedro Saubidet",
+   "rol": "Agrimensor (1866)",
+   "texto": "Autor de la división de 1866 del campo de Francisco Lescano y de los mojones A, B, C.",
+   "fuentes": "Fichas 028, 045, 059, 109."
+  },
+  {
+   "nombre": "Francisca Achával de Yera · Toribio Achával · Patricio Clery",
+   "rol": "Lindera · vecino · arrendatario",
+   "texto": "Los Achával: linderos del bloque S del pueblo (037, 059). Clery: arrendatario, apellido irlandés.",
+   "fuentes": "Fichas 037, 059."
+  },
+  {
+   "nombre": "José Barco · Desiderio Cisterna · Juan Morales · Francisco Lescano",
+   "rol": "Linderos ne",
+   "texto": "Sin otros datos.",
+   "fuentes": "Dup. 113."
+  },
+  {
+   "nombre": "Juan San Martín · Santiago Mautalen [?] · Lavalle",
+   "rol": "Juez · apoderado · d. i.",
+   "texto": "San Martín, juez civil del Centro (cf. 109).",
+   "fuentes": "Ficha 109."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/113/02.jpg",
+  "fuente": "IMG_9712.JPG",
+  "lineas": [
+   "San Andrés de Giles",
+   "6 [?] N.^{o} 113.",
+   "Mensura del terreno de D. Justo Rivas",
+   "y Don Dionisio Acuña, situado en",
+   "el Partido de San Andres de Giles",
+   "Medido por el Agrimensor",
+   "Cárlos Schuster"
+  ]
+ },
+ "titulo": "Justo Rivas y Dionisio Acuña",
+ "estado": "Transcripta (8 hojas, 232 renglones), 2 láminas"
+}

@@ -1,0 +1,703 @@
+{
+ "carpeta": "111",
+ "carpeta_nombre": "Carpeta 111",
+ "archivo": "Ficha 111 - Petrona Bustos de Rodríguez (1881).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (SO, arroyo de los Chañaritos)",
+  "N.º de duplicado": "111",
+  "Propietario / solicitante": "Petrona Bustos de Rodríguez",
+  "Agrimensor": "Julio S. Salas",
+  "Año": "1880-81",
+  "Fecha de la diligencia": "Operación 14/8/1880; firma 9/2/1881; D. I. 22/4/1881",
+  "Ubicación": "Entre T. Casco, P. Kenny, P. Bustos, J. Maxwell, A. H. Sala y el arroyo de los Chañaritos",
+  "Orden judicial": "Juez de 1.ª Inst. en lo Civil Dr. José María Rosa (21/7/1880)",
+  "Vendedor / antecesor": "Gobierno (1838) → Pedro José Rodríguez → hijuela de su viuda (1869)",
+  "Linderos citados": "T. Casco · P. Kenny · P. Bustos · J. Maxwell · A. H. Sala",
+  "Medidas": "A-B 1541 · B-C 2305 · C-D 2347 · D-E 1920 m; arroyo; c-F 213 · F-A 857 m",
+  "Rumbos": "S 45°-47° E / S 44° 31′ O / N 47° 5′ O; var. 11° 24′ NE",
+  "Referencia de archivo": "Dup. 111; cita el dup. 13 de Giles (Eguía); planilla de coordenadas; copia de 1938"
+ },
+ "metricas": {
+  "superficie_ha": "746,43",
+  "hitos": "Mojones de ñandubay, de fierro y de piedra; alambrados; poblaciones y puestos; camino Carmen de Areco–Giles",
+  "aguas": "Arroyo de los Chañaritos (relevado por ordenadas)"
+ },
+ "sintesis": "Duplicado completo (títulos, mensura, abalizamiento, planilla de coordenadas, dictamen) con plano, croquis y copia de 1938. En agosto de 1880 Julio S. Salas mide el campo de Petrona Bustos de Rodríguez, adjudicado en 1869 en la testamentaría de su marido Pedro José Rodríguez, que lo había comprado al Gobierno en 1838 (Sección Topográfica de Areco, ley de 1836) y vendido luego una legua a Ramón Bustos y otra fracción a Bartolo Cortés. Polígono de 746,43 ha entre Tiburcio Casco, Pedro Kenny, Pablo Bustos, José Maxwell y Antonio H. Sala, cerrado al NO por el arroyo de los Chañaritos, relevado por ordenadas; lo cruza el camino del Carmen de Areco a Giles. Hay alambrados, puestos y poblaciones. Dictamen favorable, 22/4/1881.",
+ "caratula": {
+  "img": "img/f/111/01.jpg",
+  "fuente": "IMG_9685.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "111"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Petrona Bustos de Rodriguez"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Julio S. Salas"
+   ],
+   [
+    "Mes",
+    "Febrero"
+   ],
+   [
+    "Año",
+    "1881"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: encabezado y extracto de títulos (venta del Gobierno a Pedro José Rodríguez, 1838; venta a Ramón Bustos; hijuela de Petrona Bustos de Rodríguez, 1869; pedido de mensura, 1880)",
+   "img": "img/f/111/06.jpg",
+   "fuente": "IMG_9687 (girada 90°)",
+   "nota": "Letra inglesa clara de un copista; folios sellados 1-7 (el 7 es la planilla). Las tomas 9688-9693 son de doble página.",
+   "lineas": [
+    "Duplicado de la diligencia de mensura del",
+    "terreno de D.^{a} Petrona Bustos de Rodriguez situa-",
+    "do en el Partido de Giles.",
+    "Extracto de títulos",
+    "En Mayo 19 de 1838 — El Gobernador de la Provincia",
+    "ante el escribano mayor de Gobierno vende á Don",
+    "Pedro José Rodriguez un terreno situado en la",
+    "seccion Topográfica ^{de Areco} y en la 1.^{a} de las subdivicio-",
+    "nes establecidas por la ley de 10 de Mayo de 1836,",
+    "compuesto de una legua cuadrada mas cuatrocientos",
+    "sesenta y siete milésimos de otra.",
+    "En Junio 6 de 1838 Don Pedro José Rodriguez ante el",
+    "escribano Don Teodoro Montaño vende á Don Ra-",
+    "mon Bustos una legua cuadrada de este terreno,",
+    "segun nota puesta al pié de los títulos de Ro-",
+    "driguez.",
+    "En Julio 27 de 1869 el Señor Juez de 1.^{a} Instancia Doc-",
+    "tor Don Jorge Chevarria [?] en la testamentaria de",
+    "Don Pedro José Rodriguez y en la cuenta parti-",
+    "cionaria adjudica en la hijuela de D.^{a} Petro-",
+    "na Bustos de Rodriguez el campo mencionado.",
+    "En Julio 20 de 1880. Juan Gvosdenoviche [?] por D.^{a}",
+    "Petrona Bustos de Rodriguez segun poder que",
+    "acompaña solicita del Señor Juez de 1.^{a} Instan-",
+    "cia del Departamento de la Capital D.^{r} Don",
+    "José Maria Rosa la mensura de este terreno",
+    "proponiendo al que firma para practicarla."
+   ],
+   "interpretacion": "Encabezado y EXTRACTO DE TÍTULOS. 19/5/1838: el GOBERNADOR de la Provincia, ante el escribano mayor de Gobierno, vende a PEDRO JOSÉ RODRÍGUEZ un terreno en la SECCIÓN TOPOGRÁFICA DE ARECO, 1.ª subdivisión de la LEY DEL 10 DE MAYO DE 1836, de 1,467 leguas cuadradas (venta de tierra pública de la época de Rosas). 6/6/1838: Rodríguez vende a RAMÓN BUSTOS una legua cuadrada (nota al pie del título; escribano Teodoro Montaño). 27/7/1869: el juez Dr. Jorge Chevarría [?], en la testamentaría de Pedro José Rodríguez, adjudica el campo a la hijuela de su viuda PETRONA BUSTOS DE RODRÍGUEZ. 20/7/1880: Juan Gvosdenoviche [?], apoderado, pide la mensura al juez José María Rosa y propone al agrimensor."
+  },
+  {
+   "titulo": "Folio 1 vuelta: nombramiento (21/7/1880), aceptación ante el escribano José Martín; mensura: arranque en el mojón de ñandubay esquinero N (A), ángulo entrante en el campo de Tiburcio Casco; A-B S 47° 38′ E 1541 m",
+   "img": "img/f/111/07.jpg",
+   "fuente": "IMG_9688, página izquierda",
+   "nota": "",
+   "lineas": [
+    "En Julio 21 el Señor Juez de 1.^{a} Instancia ordena",
+    "la mensura nombrando al agrimensor propuesto",
+    "para practicarla mandando publicar edictos.",
+    "En 22 del mismo acepté el cargo ante el",
+    "escribano Don José Martin y en 27 del mismo",
+    "se tomaron antecedentes del Departamento",
+    "de Ingenieros de la Provincia.",
+    "Mensura",
+    "El agrimensor que suscribe comisionado por",
+    "el Señor Juez de 1.^{a} Instancia en lo civil D.^{r}",
+    "Don José Maria Rosa con fecha veinte y uno",
+    "de Julio de mil ochocientos ochenta para",
+    "medir el terreno de Estancia que espresa el",
+    "presente título, situado en el partido de Giles:",
+    "despues de publicados los edictos decretados",
+    "como consta de los diarios que acompañan,",
+    "y pasada la circular de citacion á los lin-",
+    "deros que original se adjunta, procedí á",
+    "dicha operacion el dia catorce ^{de Agosto} del corriente",
+    "año del modo siguiente: Situado en el mo-",
+    "jon de Ñandubay esquinero Norte del campo",
+    "que iba á medir, el que forma un ángulo",
+    "entrante en el campo de Don Tiburcio Casco",
+    "(letra A del plano), deslindando con este con",
+    "rumbo al Sud cuarenta y siete grados treinta",
+    "y ocho minutos Este se midieron mil qui-",
+    "nientos cuarenta y un metros hasta un mo-"
+   ],
+   "interpretacion": "21/7/1880 el juez ordena la mensura y manda publicar edictos; el 22 el agrimensor acepta ante el escribano José Martín y el 27 toma antecedentes en el Departamento. Edictos y circular de citación hechos, la operación empieza el 14 DE AGOSTO de 1880, en el MOJÓN DE ÑANDUBAY esquinero N (A), que forma un ángulo entrante en el campo de TIBURCIO CASCO; A-B al S 47° 38′ E, 1541 m, contra Casco."
+  },
+  {
+   "titulo": "Folio 2: mojón de fierro B (Tiburcio Casco / Pedro Kenny); B-C S 45° 38′ E 2305 m contra Kenny (puesto y población principal de Kenny, puesto de Petrona); mojón de ñandubay de Kenny internado 5,30 m; comienzo de C-D contra Pablo Bustos y José Maxwell",
+   "img": "img/f/111/08.jpg",
+   "fuente": "IMG_9688, página derecha",
+   "nota": "",
+   "lineas": [
+    "jon de fierro que es esquinero Sud de Tiburcio",
+    "Casco y Oeste de Don Pedro Kenny (letra B del plano),",
+    "desde donde, punto en que se quiebra la linea",
+    "de este costado, formando un ángulo saliente",
+    "con rumbo Sud cuarenta y cinco grados trein-",
+    "ta y ocho minutos Este deslindando con",
+    "Kenny fueron medidos dos mil trescientos",
+    "cinco metros hasta el mojon de Ñandubay",
+    "esquinero Norte de Pablo Bustos, Este del ter-",
+    "reno que se mide y costanero de P. Kenny (letra",
+    "C del plano): en esta linea á los cien metros",
+    "quedó como cien metros á la izquierda un",
+    "puesto de Kenny; á los mil novecientos",
+    "cincuenta metros como seiscientos metros",
+    "tambien á la izquierda quedó la pobla-",
+    "cion principal de Kenny; á los dos mil",
+    "ciento setenta y cinco metros como cien",
+    "metros á la derecha se enfrentó un puesto",
+    "de Doña Petrona B. de Rodriguez; y á los",
+    "cinco metros treinta centímetros del mo-",
+    "jon C y en la prolongacion de la linea CD,",
+    "se halló un mojon de Ñandubay, el que",
+    "viene á quedar internado dicha cantidad",
+    "en el campo de Kenny. Desde C deslindando",
+    "con las propiedades de Pablo Bustos y José",
+    "Maxwell con rumbo al Sud cuarenta y",
+    "cuatro grados treinta y un minutos Oes-"
+   ],
+   "interpretacion": "B: MOJÓN DE FIERRO (esquinero S de Tiburcio Casco y O de PEDRO KENNY), donde quiebra la línea. B-C al S 45° 38′ E, 2305 m, contra Kenny, hasta el mojón de ñandubay C (esquinero N de PABLO BUSTOS): a 100 m un puesto de Kenny, a 1950 m (600 m a la izquierda) la POBLACIÓN PRINCIPAL DE KENNY, a 2175 m un puesto de Petrona; a 5,30 m de C, en la prolongación de C-D, un mojón de ñandubay viejo «internado» en el campo de Kenny. C-D al S 44° 31′ O contra Pablo Bustos y JOSÉ MAXWELL…"
+  },
+  {
+   "titulo": "Folio 2 vuelta: C-D S 44° 31′ O 2347 m con puestos, el camino de San Andrés de Giles al Carmen de Areco y los mojones de Bustos y Maxwell",
+   "img": "img/f/111/09.jpg",
+   "fuente": "IMG_9689, página izquierda",
+   "nota": "",
+   "lineas": [
+    "te medí dos mil trescientos cuarenta y siete",
+    "metros hasta el mojon de Ñandubay esquinero",
+    "Oeste de Maxwell, Sud del terreno que se mide",
+    "y costanero de Antonio H. Sala (letra D del",
+    "plano); habiendo en esta linea, á los noven-",
+    "ta metros quedado como cien metros á la",
+    "derecha un puesto de la interesada y como",
+    "trescientos metros á la izquierda otro de",
+    "Kenny; á los quinientos setenta y cinco",
+    "metros y setecientos cinco metros se cru-",
+    "zó el camino de San Andres de Giles al",
+    "Carmen de Areco; á los setecientos setenta",
+    "y dos metros setenta centímetros y mil",
+    "trescientos setenta y tres metros ochenta",
+    "centímetros se hallaron dos mojones de",
+    "Ñandubay colocados como costaneros de",
+    "Bustos; á los mil setecientos setenta y",
+    "cinco metros quedó como cien metros á",
+    "la izquierda un puesto de Bustos; á los",
+    "mil novecientos setenta y cuatro metros",
+    "sesenta centímetros se encontró el mo-",
+    "jon de Ñandubay esquinero Norte de",
+    "José Maxwell y Oeste de Pablo Bustos",
+    "(letra d del plano) y á los dos mil ciento",
+    "cinco metros se halló un mojon de",
+    "Ñandubay y á los dos mil doscientos se-",
+    "tenta y un metros quedó como sesen-"
+   ],
+   "interpretacion": "…2347 m hasta el mojón de ñandubay D (esquinero O de Maxwell, costanero de ANTONIO H. SALA). En la línea: puestos de la interesada y de Kenny; el CAMINO DE SAN ANDRÉS DE GILES AL CARMEN DE ARECO cruzado a 575 y 705 m; dos costaneros de ñandubay de Bustos (772,70 y 1373,80 m); un puesto de Bustos; el esquinero Maxwell/Bustos (d) a 1974,60 m; otro ñandubay a 2105 m; un puesto a 2271 m."
+  },
+  {
+   "titulo": "Folio 3: D-E N 47° 5′ O 1920 m contra Antonio H. Sala hasta el mojón de fierro sobre el arroyo de los Chañaritos (camino de Giles a Areco); comienza el relevamiento del arroyo (E-a N 24° 42′ E 273,40 m)",
+   "img": "img/f/111/10.jpg",
+   "fuente": "IMG_9689, página derecha",
+   "nota": "",
+   "lineas": [
+    "ta metros á la derecha un puesto. Desde D deslin-",
+    "dando con Antonio H. Sala con rumbo al",
+    "Norte cuarenta y siete grados cinco minutos",
+    "Oeste se midieron mil novecientos veinte metros",
+    "hasta el mojon de fierro colocado sobre el arroyo",
+    "de los Chañaritos como límite del terreno",
+    "que se mide y el de Antonio H. Sala; en",
+    "esta linea á los doscientos cuarenta y cinco",
+    "metros quedó siete metros á la izquierda",
+    "un puesto de Sala; á los novecientos trein-",
+    "ta y cinco metros se halló un mojon de",
+    "Ñandubay; á los mil ochocientos cincuen-",
+    "ta metros se cruzó el camino de Giles á Areco",
+    "y á los mil novecientos diez y ocho metros se",
+    "cruzó el arroyo de los Chañaritos. En seguida",
+    "desde E y á fin de proceder á practicar el",
+    "relevamiento del mencionado arroyo por",
+    "ser este desde aqui el límite del terreno que se",
+    "mide, con rumbo al Norte veinte y cuatro",
+    "grados cuarenta y dos minutos Este se mi-",
+    "dieron doscientos setenta y tres metros",
+    "cuarenta centímetros hasta a, habiendo",
+    "de esta linea quedado el arroyo: á los ocho",
+    "metros cinco metros á la derecha; á los",
+    "treinta y ocho metros se cruzó, quedando",
+    "á la izquierda, á los cuarenta y siete me-",
+    "tros dos metros; á los cincuenta y seis me-"
+   ],
+   "interpretacion": "D-E al N 47° 5′ O, 1920 m, contra Antonio H. Sala, hasta el MOJÓN DE FIERRO puesto sobre el ARROYO DE LOS CHAÑARITOS como límite con Sala: puesto de Sala a 245 m, ñandubay a 935 m, CAMINO DE GILES A ARECO a 1850 m, el arroyo a 1918 m. Desde E el arroyo es el límite, y se lo RELEVA con una poligonal y ordenadas: E-a al N 24° 42′ E, 273,40 m…"
+  },
+  {
+   "titulo": "Folio 3 vuelta: relevamiento del arroyo de los Chañaritos por ordenadas (línea E-a); a-b N 6° 26′ O 1348 m",
+   "img": "img/f/111/11.jpg",
+   "fuente": "IMG_9690, página izquierda",
+   "nota": "",
+   "lineas": [
+    "tros se tocó su orilla; á los setenta y tres metros",
+    "cuatro metros; á los ciento catorce metros",
+    "seis metros; á los ciento veinte y cinco se",
+    "volvió á tocar su orilla; á los ciento",
+    "cuarenta y cuatro metros á la izquierda",
+    "como los anteriores cuatro metros; á los",
+    "ciento cincuenta y cinco ~~metros~~ dos metros;",
+    "á los ciento sesenta y cinco metros tres metros",
+    "y á los ciento setenta y nueve metros once",
+    "metros; á los ciento noventa y seis metros",
+    "fué vuelto á cruzar; á los doscientos siete",
+    "metros quedó siete metros á la derecha; á",
+    "los doscientos trece metros se volvió á",
+    "cruzar; á los doscientos veinte y cinco",
+    "metros quedó ocho metros á la izquierda",
+    "á los doscientos treinta y un metros se",
+    "volvió á cruzar; á los doscientos treinta y",
+    "ocho metros quedó á la derecha dos metros;",
+    "á los doscientos cuarenta y nueve metros",
+    "se cruzó y á los doscientos cincuenta y",
+    "cinco metros quedó á la izquierda cuatro",
+    "metros. Desde a al Norte seis grados veinte",
+    "y seis minutos Oeste se midieron mil tres-",
+    "cientos cuarenta y ocho metros hasta b en",
+    "cuyo punto quedó el arroyo treinta y cuatro",
+    "metros á la izquierda. En esta linea se",
+    "midió hasta el arroyo, á los veinte y siete me-"
+   ],
+   "interpretacion": "…con el arroyo cruzando la línea varias veces y ordenadas de 2 a 11 m. a-b al N 6° 26′ O, 1348 m (en b el arroyo queda a 34 m a la izquierda), con ordenadas al cauce cada 20-100 m."
+  },
+  {
+   "titulo": "Folio 4: continúan las ordenadas al arroyo sobre la línea a-b",
+   "img": "img/f/111/12.jpg",
+   "fuente": "IMG_9690, página derecha",
+   "nota": "",
+   "lineas": [
+    "tros diez y siete metros á la izquierda; á los",
+    "treinta y cuatro metros se cruzó; á los cin-",
+    "cuenta y siete metros cuatro metros á la de-",
+    "recha; á los ^{setenta y} ~~[...]~~ cinco metros se",
+    "tocó la orilla; á los ochenta y siete metros",
+    "diez y nueve metros; á los ciento quince",
+    "metros tres metros; á los ciento veinte y ocho",
+    "metros once metros; á los ciento cuarenta",
+    "y cuatro metros un metro y á los ciento se-",
+    "senta metros diez y siete metros; á los ciento",
+    "sesenta y tres se cruzó; á los ciento sesenta",
+    "y seis metros quedó á la izquierda tres metros;",
+    "á los ciento setenta y un metros se volvió á",
+    "cruzar, quedando este á la derecha á los",
+    "ciento ochenta y cinco metros veinte metros;",
+    "á los doscientos veinte metros trece metros; á",
+    "los doscientos treinta y cinco metros diez y",
+    "ocho metros; á los trescientos seis metros",
+    "nueve metros; á los trescientos noventa y dos",
+    "metros cuarenta y dos metros; á los quinientos",
+    "treinta y cinco metros siete metros y á los",
+    "quinientos cincuenta metros quince metros;",
+    "á los seiscientos diez y siete metros se volvió",
+    "á cruzar quedando á la izquierda, á los",
+    "seiscientos sesenta y seis metros quince",
+    "metros, á los seiscientos noventa y cinco me-",
+    "tros dos metros; á los setecientos veinte y cin-"
+   ],
+   "interpretacion": "Sigue el relevamiento del arroyo sobre a-b: cruces a los 34, 163, 171 y 617 m y ordenadas de 1 a 42 m. Es un registro minucioso de los meandros del cauce."
+  },
+  {
+   "titulo": "Folio 4 vuelta: fin de las ordenadas de a-b; b-c N 33° 47′ O 787 m hasta el costado NO, a 12 m del arroyo",
+   "img": "img/f/111/13.jpg",
+   "fuente": "IMG_9691, página izquierda",
+   "nota": "",
+   "lineas": [
+    "co metros doce metros; y á los ochocientos setenta",
+    "y cinco metros veinte metros; á los mil veinte",
+    "y cinco metros volvió á cruzar quedando á",
+    "los mil cincuenta metros cinco metros á la",
+    "derecha; á los mil sesenta y siete metros",
+    "se volvió á cruzar quedando á la izquierda,",
+    "á los mil ciento diez y siete metros treinta y un",
+    "metros; á los mil doscientos veinte y cinco metros",
+    "treinta y cinco metros y á los mil doscientos",
+    "cincuenta metros cuarenta metros. Desde b",
+    "al Norte treinta y tres grados cuarenta y siete",
+    "minutos Oeste medí setecientos ochenta",
+    "y siete metros hasta c punto situado sobre",
+    "el costado Nord Oeste del terreno que se mide",
+    "á doce metros á la derecha del arroyo; en",
+    "esta linea quedó á la izquierda el arroyo,",
+    "á los sesenta metros cuarenta metros; á",
+    "los ciento treinta y cinco metros seis metros;",
+    "á los doscientos trece metros veinte y tres metros;",
+    "á los doscientos cincuenta metros once metros;",
+    "á los trescientos siete metros tambien once",
+    "metros; á los trescientos sesenta y ocho me-",
+    "tros veinte metros; á los trescientos ochen-",
+    "ta y dos metros fué cruzado, quedando á",
+    "la derecha doce metros á los trescientos",
+    "noventa y seis metros; á los cuatrocientos",
+    "cuarenta y cinco metros fué nuevamente cru-",
+    "zado, desde donde se levantaron las siguien-"
+   ],
+   "interpretacion": "Fin de a-b (ordenadas hasta 40 m). b-c al N 33° 47′ O, 787 m, hasta c, sobre el costado NO, a 12 m a la derecha del arroyo; el arroyo se cruza a 382 y 445 m."
+  },
+  {
+   "titulo": "Folio 5: fin de b-c (puesto del campo); c-mojón N 46° 28′ E 213 m contra Tiburcio Casco (mojón de ñandubay con uno de piedra al pie); cierre N 43° E 857 m al mojón de arranque; superficie 746 ha 43 a 14 ca 85 dm²; linderos",
+   "img": "img/f/111/14.jpg",
+   "fuente": "IMG_9691, página derecha",
+   "nota": "",
+   "lineas": [
+    "tes ordenadas, á la izquierda, á los quinientos",
+    "veinte y cinco metros treinta y tres metros; á los",
+    "quinientos sesenta y ocho metros diez y siete",
+    "metros y á los seiscientos metros veinte y nueve",
+    "metros, habiendose á los quinientos treinta",
+    "y siete metros dejado como setenta metros",
+    "á la derecha un puesto del campo que se mide.",
+    "Desde c al Norte cuarenta y seis grados vein-",
+    "te y ocho minutos Este deslindando con la",
+    "propiedad de Tiburcio Casco medí doscientos trece",
+    "metros hasta un mojon de Ñandubay á cu-",
+    "yo pié se halla uno de piedra, desde cuyo",
+    "mojon que viene á quedar formando un",
+    "ángulo saliente por quebrar en él la",
+    "linea de este costado, con rumbo Norte",
+    "cuarenta y tres grados Este se midieron",
+    "hasta el mojon de arranque ochocientos",
+    "cincuenta y siete metros, en cuyo punto",
+    "se dió por terminada esta mensura, por",
+    "la que resulta que el terreno medido se com-",
+    "pone ^{de} setecientas cuarenta y seis hectáreas",
+    "cuarenta y tres áreas catorce centiáreas y",
+    "ochenta y cinco centímetros cuadrados; siendo",
+    "sus linderos al Nord-Este Tiburcio Casco y Pedro",
+    "Kenny; al Sud-Este Pablo Bustos y José Maxwell;",
+    "al Sud-Oeste Antonio H. Sala y al Nord-Oeste",
+    "Tiburcio Casco, habiendose encontrado alambra-"
+   ],
+   "interpretacion": "Últimas ordenadas (17 a 33 m) y un PUESTO DEL CAMPO a 537 m (70 m a la derecha). c-F al N 46° 28′ E, 213 m, contra Tiburcio Casco, hasta un MOJÓN DE ÑANDUBAY CON UNO DE PIEDRA AL PIE (ángulo saliente); F-A al N 43° E, 857 m, hasta el mojón de arranque. Superficie: 746 ha 43 a 14 ca 85 dm². Linderos: Tiburcio Casco y Pedro Kenny (NE), Pablo Bustos y José Maxwell (SE), Antonio H. Sala (SO), Tiburcio Casco (NO)…"
+  },
+  {
+   "titulo": "Folio 5 vuelta: alambrados; diferencia de superficie explicada por la venta de 1785/10.000 de legua a Bartolo Cortés (mensura de Eguía, duplicado 13 de Giles); circular y acta de linderos; variación de la aguja",
+   "img": "img/f/111/15.jpg",
+   "fuente": "IMG_9692, página izquierda",
+   "nota": "",
+   "lineas": [
+    "dos sobre las lineas, los costados que lindan",
+    "con Tiburcio Casco y José Maxwell. La diferen-",
+    "cia que se nota entre la superficie hallada",
+    "por esta mensura y la que segun el título",
+    "que se acompaña debia de existir, proviene",
+    "de no haberse anotado al pié de ellos la",
+    "venta hecha por Rodriguez de la fraccion",
+    "de mil setecientos ochenta y cinco diez",
+    "milésimos de legua cuadrada, que segun",
+    "la mensura del Agrimensor Eguia (du-",
+    "plicado número trece del partido de San",
+    "Andres de Giles) separó en ella para Bar-",
+    "tolo Cortes al Nor-Oeste del arroyo Chañaritos,",
+    "de cuya venta lo mismo que de la hecha",
+    "á Bustos, he tenido las escrituras á la",
+    "vista al practicar esta operacion.",
+    "La circular de linderos fué firmada",
+    "por todos ellos y presenciaron la mensura",
+    "los linderos Pablo Bustos — Antonio Romero",
+    "en representacion de Antonio H. Sala — José",
+    "Maxwell y Pedro Kenny, los que firmaron",
+    "el acta que se levantó á su terminacion",
+    "manifestando estar conformes con ella",
+    "en la parte que linda con sus respectivas",
+    "propiedades cuya acta original se acompaña.",
+    "La variacion de la aguja resultó de",
+    "once grados veinte y cuatro minu-"
+   ],
+   "interpretacion": "…con ALAMBRADOS sobre las líneas que lindan con Casco y Maxwell. La diferencia con el título se explica porque no se anotó al pie la venta de 1785/10.000 de legua cuadrada que Rodríguez hizo a BARTOLO CORTÉS al NO del arroyo de los Chañaritos, según la mensura de EGUÍA (DUPLICADO N.º 13 DE GILES); el agrimensor tuvo a la vista esa escritura y la de Bustos. Firmaron la circular y presenciaron la mensura Pablo Bustos, Antonio Romero (por Antonio H. Sala), José Maxwell y Pedro Kenny; el acta los declara conformes. Variación de la aguja: 11° 24′ NE."
+  },
+  {
+   "titulo": "Folio 6: firma (Buenos Aires, 9/2/1881, Julio S. Salas); abalizamiento de los mojones A-F a las poblaciones vecinas",
+   "img": "img/f/111/16.jpg",
+   "fuente": "IMG_9692, página derecha",
+   "nota": "",
+   "lineas": [
+    "tos Nor-Este.",
+    "Buenos Aires Febrero 9 de 1881",
+    "Julio S. Salas [rúbrica]",
+    "Abalizamiento del Norte verdadero",
+    "á la derecha.",
+    "Mojon A",
+    "Poblacion de Petrona B. de Rodriguez 175° 10′",
+    "\" \" Antonio H. Sala 192° 10′",
+    "\" \" Tiburcio Casco 335° 07′",
+    "Mojon B",
+    "Poblacion de Pedro Kenny 296° 42′",
+    "\" \" Petrona B. de Rodriguez 320° 16′",
+    "\" \" José Maxwell 354° 04′",
+    "Mojon C",
+    "Poblacion de Francisco Duberty 77° 22′",
+    "\" \" Antonio H. Sala 273° 29′",
+    "\" \" Pedro Kenny 17° 38′",
+    "Mojon D",
+    "Poblacion de José Maxwell 143° 05′",
+    "\" \" Antonio H. Sala 318° 15′",
+    "\" \" Petrona B. de Rodriguez 336° 50′",
+    "Mojon E",
+    "Poblacion de Petrona B. de Rodriguez 26° 07′",
+    "\" \" Caprile y Picasso 260° 58′",
+    "\" \" Tiburcio Casco 352° 55′",
+    "Mojon F",
+    "Poblacion de Tiburcio Casco 338° 24′",
+    "\" \" Antonio H. Sala 177° 32′"
+   ],
+   "interpretacion": "Firma: Buenos Aires, 9/2/1881, JULIO S. SALAS. ABALIZAMIENTO al norte verdadero de cada mojón a las poblaciones vecinas: desde A, Petrona, Sala y Casco; desde B, Kenny, Petrona y Maxwell; desde C, FRANCISCO DUBERTY, Sala y Kenny; desde D, Maxwell, Sala y Petrona; desde E, Petrona, CAPRILE Y PICASSO y Casco; desde F, Casco y Sala."
+  },
+  {
+   "titulo": "Folio 6 vuelta: fin del abalizamiento; salvedades; presentación al Departamento (12/2/1881); dictamen (22/4/1881)",
+   "img": "img/f/111/17.jpg",
+   "fuente": "IMG_9693, página izquierda",
+   "nota": "",
+   "lineas": [
+    "Poblacion de Pedro Kenny 91° 34′",
+    "Nota = de Areco = entre renglones = vale = de Agosto =",
+    "entre renglones = vale = ser = entre renglones = vale =",
+    "setenta y = entre renglones = vale = siete metros = testado =",
+    "no vale =",
+    "Buenos Aires Febrero 9 de 1881",
+    "Julio S. Salas [rúbrica]",
+    "Febrero 12/8[1].—",
+    "Presentada en la fecha al",
+    "Departamento de Ingenieros.—",
+    "Martin Pico [rúbrica]",
+    "Señor Juez:",
+    "El Departamento de Ingenieros",
+    "ha examinado la mensura prac-",
+    "ticada por D.^{n} Julio S. Salas del terreno",
+    "de propiedad de D.^{a} Petrona Bustos",
+    "de Rodriguez en el partido de Giles,",
+    "y encontrándola conforme con sus",
+    "antecedentes la considera en estado de",
+    "ser aprobada judicialmente.",
+    "Abril 22/81.—",
+    "Lavalle",
+    "Malato [rúbrica]   Moreno"
+   ],
+   "interpretacion": "Último rumbo (F a la población de Kenny, 91° 34′) y salvedades de enmiendas. Presentada al Departamento el 12/2/1881 (Martín Pico). Dictamen del 22/4/1881 (Lavalle, Malato, Moreno): conforme con sus antecedentes, en estado de ser aprobada judicialmente."
+  },
+  {
+   "titulo": "Folio 7: planilla del cálculo de la superficie por coordenadas (Salas, 9/2/1881)",
+   "img": "img/f/111/18.jpg",
+   "fuente": "IMG_9693, página derecha (planilla apaisada)",
+   "nota": "",
+   "lineas": [
+    "Planilla del cálculo por coordenadas de la superficie del campo de D.^{a}",
+    "Petrona B. de Rodriguez situado en el Partido de San Andrés de Giles",
+    "[ángulos medidos · ángulos reducidos · cuadrantes · lados medidos (metros) · coordenadas parciales Y, X · coordenadas totales Y, X · productos − / +]",
+    "89° 51′ · 89° 51′ · 1 · CB 2305 · + 2305.03 · + 6.03 · 2305.03 · 6.03 · · 13899.33",
+    "178° · 87° 51′ · 1 · BA 1541 · + 1539.95 · + 57.83 · 3844.98 · 63.86 · · 355655.08",
+    "90° 38′ · 1° 31′ · 4 · AF 857 · − 22.86 · + 856.90 · 3822.12 · 920.76 · · 6569937.99",
+    "183° 28′ · 1° 57′ · 1 · Fc 213 · + 7.25 · + 212.93 · 3829.37 · 1133.69 · · 1629231.76",
+    "99° 45′ · 78° 18′ · 4 · cb 787 · − 770.64 · + 159.63 · 3058.73 · 1293.32 · · 1099547.40",
+    "207° 21′ · 50° 57′ · 4 · ba 1348 · − 1046.83 · + 849.44 · 2011.90 · 2142.76 · · 4307195.94",
+    "211° 08′ · 19° 49′ · 4 · aE 273.40 · − 92.69 · + 257.27 · 1919.21 · 2400.03 · · 1011356.67",
+    "108° 13′ · 91° 36′ · 3 · ED 1920 · − 1919.21 · − 53.58 · · 2346.45 · 100831.27 ·",
+    "91° 36′ · 0° · 2 · DC 2347 · · − 2346.45",
+    "14986824.17 − 100831.27",
+    "2 S = 14885992.90",
+    "Superficie del polígono C, B, A, F, c, b, a, E, D = 7442996.45",
+    "\" de los senos del Arroyo «Chañaritos» = + 21318.40",
+    "Superficie total m^{s} c^{s} = 7464314.85",
+    "Buenos Aires Febrero 9 de 1881",
+    "Julio S. Salas [rúbrica]",
+    "[a lápiz:] Corresponde al Dup.^{do} n.^{o} 111 de Giles"
+   ],
+   "interpretacion": "PLANILLA del cálculo de la superficie por coordenadas: los nueve lados del polígono C-B-A-F-c-b-a-E-D con ángulos medidos y reducidos, cuadrantes, coordenadas parciales y totales y productos cruzados: 2S = 14.885.992,90 m²; polígono 7.442.996,45 m² + «senos» del arroyo de los Chañaritos 21.318,40 m² = 7.464.314,85 m² (746,43 ha). A lápiz: «Corresponde al Dup.º n.º 111 de Giles»."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del campo de Petrona Bustos de Rodríguez (Salas, 1881)",
+   "img": "img/f/111/03.jpg",
+   "fuente": "IMG_9695.JPG (papel cuadriculado, girado 90°)",
+   "orientacion": "Plano en papel milimetrado con marco; flecha «Variación 11° 24′ NE» en el ángulo A; «Escala de 0,01 cent.s por 200 metros»; «Buenos Aires Febrero 9 de 1881 · Julio S. Salas».",
+   "interpretacion": "Polígono A-B-C-D-E-a-b-c-F: el lado A-B-C recto contra TIBURCIO CASCO y PEDRO KENNY (con la población de Kenny), C-D contra PABLO BUSTOS y JOSÉ MAXWELL (puestos), D-E contra ANTONIO H. SALA, y desde E el ARROYO DE LOS CHAÑARITOS, sinuoso, como límite NO hasta c, con la población de A. H. Sala del otro lado. Cruza el campo en diagonal el «CAMINO DEL CARMEN DE ARECO A GILES» (de puntos), de E hacia el lado C-D. En el centro la «Población de Petrona B. de Rodríguez»; seis puestos repartidos en el contorno. Superficie rotulada: 746 ha 43 a 14 ca 0,85 cm².",
+   "referencias": [
+    [
+     "A-B",
+     "S 47° 38′ E · 1541 m · contra Tiburcio Casco (B mojón de fierro)"
+    ],
+    [
+     "B-C",
+     "S 45° 38′ E · 2305 m · contra Pedro Kenny"
+    ],
+    [
+     "C-D",
+     "S 44° 31′ O · 2347 m · contra Pablo Bustos y José Maxwell"
+    ],
+    [
+     "D-E",
+     "N 47° 5′ O · 1920 m · contra Antonio H. Sala (E mojón de fierro sobre el arroyo)"
+    ],
+    [
+     "E-a-b-c",
+     "N 24° 42′ E 273,40 · N 6° 26′ O 1348 · N 33° 47′ O 787 m: poligonal del arroyo de los Chañaritos"
+    ],
+    [
+     "c-F-A",
+     "N 46° 28′ E 213 m · N 43° E 857 m · contra Tiburcio Casco (F ñandubay con piedra al pie)"
+    ],
+    [
+     "Superficie",
+     "7.442.996,45 m² + senos del arroyo 21.318,40 = 746 ha 43 a 14,85 ca"
+    ],
+    [
+     "Camino",
+     "Del Carmen de Areco a Giles, en diagonal por el campo"
+    ],
+    [
+     "Poblaciones",
+     "Petrona B. de Rodríguez (centro) · Kenny · A. H. Sala · Maxwell · Duberty · Caprile y Picasso (visuales)"
+    ],
+    [
+     "Mojones",
+     "De ñandubay; de fierro en B y E; uno de piedra al pie de F"
+    ]
+   ]
+  },
+  {
+   "titulo": "Croquis del polígono con los ángulos (cálculo)",
+   "img": "img/f/111/04.jpg",
+   "fuente": "IMG_9694.JPG",
+   "orientacion": "",
+   "interpretacion": "Esquema a línea del polígono C-B-A-F-c-b-a-E-D con las longitudes de los lados y los ángulos medidos en cada vértice (89° 51′, 178°, 90° 38′, 183° 28′, 99° 45′, 207° 21′, 211° 08′, 108° 13′, 91° 36′): la base gráfica de la planilla de coordenadas.",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia en tela de la Dirección de Geodesia (1938)",
+   "img": "img/f/111/05.jpg",
+   "fuente": "IMG_9696.JPG",
+   "orientacion": "",
+   "interpretacion": "Copia sobre papel tela con el mismo dibujo y sello: «Es copia del plano agregado al duplicado N.º 111 del partido de San Andrés de Giles, mensura practicada en febrero de 1881 por el agrimensor Julio S. Salas. La Plata, setiembre de 1938», firmada por el director (Geodesia y Catastro, M. O. P.).",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Ubicación: el rincón so, entre los bustos, sala y kenny",
+   "texto": "Encaja con las mensuras de Schuster de 1878-80 del rincón SO: Antonio H. Sala (089, que ya nombraba a «P. Bustos de Rodríguez» como lindera), la hijuela de Alegre (084), las de los Bustos (099, 100, 102) y Caprile y Picasso (052, visados desde E). Al NE, Pedro Kenny y Francisco Duberty: los mismos del campo ex Guerrico/Morgan (029, 038). El arroyo de los Chañaritos —el paraje «los Chañaritos» de Santiago Casco en 1826 (014)— es el límite NO. Rumbos de la grilla N 45° O / N 45° E del bloque."
+  },
+  {
+   "titulo": "Tierra pública vendida en 1838",
+   "texto": "El origen es una VENTA DEL GOBIERNO de 1838, en la Sección Topográfica de Areco, 1.ª subdivisión de la ley del 10 de mayo de 1836 (la ley de venta de tierras públicas en enfiteusis de Rosas). Pedro José Rodríguez compra 1,467 leguas², vende enseguida 1 legua² a Ramón Bustos y 0,1785 legua² a Bartolo Cortés; queda ≈ 0,289 legua² (≈ 780 ha), muy cerca de las 746 ha medidas. Ramón Bustos es el lindero «R. Bustos» de 015, 029 y 037: la tierra de los Bustos del SO nace de esta venta."
+  },
+  {
+   "titulo": "El duplicado 13 y bartolo cortés",
+   "texto": "Salas cita «la mensura del agrimensor Eguía (duplicado número trece del partido de San Andrés de Giles)» para la fracción de Bartolo Cortés al NO del arroyo de los Chañaritos. La Ficha 013 (dup. 13) es la enfiteusis de Bartolomé Saraví medida por Lemoine en 1827, no una mensura de Eguía: o la numeración citada es otra (Giles antigua vs. Sección Areco) o se trata de otro duplicado. Cascallar (110) también remite a un «duplicado 13» para la mensura de Eguía de 1839. «B. Cotes» figura como lindero de Antonio Rocha en 1839 (019). Pregunta abierta."
+  },
+  {
+   "titulo": "Técnica: relevamiento del arroyo y cálculo por coordenadas",
+   "texto": "Salas no corta el arroyo con una recta: lo releva con una poligonal de tres tramos y ORDENADAS al cauce cada 20-100 m (más de 60), y suma los «senos del arroyo» (2,13 ha) al polígono. La superficie se calcula por COORDENADAS (planilla con ángulos medidos y reducidos, cuadrantes y productos cruzados): la primera planilla de este tipo tan completa en el corpus. Mojones de ñandubay, dos de FIERRO (B y E) y uno de PIEDRA al pie de F."
+  },
+  {
+   "titulo": "Paisaje: alambrados, puestos y caminos",
+   "texto": "En 1880 ya hay ALAMBRADOS sobre los costados contra Casco y Maxwell. El campo está punteado de PUESTOS (de Petrona, Kenny, Bustos, Sala, Maxwell) y de POBLACIONES (Petrona en el centro, Kenny, Sala, Maxwell, Casco, Duberty, Caprile y Picasso): una red de establecimientos ovejeros visibles entre sí, que sirven de visuales. Lo cruza el camino del Carmen de Areco a Giles (cruzado dos veces en C-D y otra en D-E)."
+  },
+  {
+   "titulo": "Ritual",
+   "texto": "Edictos en diarios, circular firmada por todos los linderos, presencia de Pablo Bustos, Antonio Romero (por Sala), Maxwell y Kenny, y ACTA de conformidad al terminar. Aceptación del cargo ante escribano. Un mojón viejo de ñandubay a 5,30 m de C, «internado» en el campo de Kenny, queda registrado sin moverse."
+  },
+  {
+   "titulo": "Lecturas dudosas",
+   "texto": "«Jorge Chevarria [?]» (juez de 1869; quizás «Echevarría»); «Juan Gvosdenoviche [?]» (apoderado; apellido de origen eslavo, lectura insegura); «Febrero 12/8[1]» (la cifra final parece un 8); número de la portadilla «5. 94. 94 [?]»."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Quién era Bartolo Cortés y dónde está su mensura? ¿Petrona era hija o hermana de Ramón Bustos? ¿Fecha de la aprobación judicial? Cotejar en el GIS el lado C-D con el de 099/100 (Maxwell–Bustos) y D-E con 089 (Sala)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Petrona Bustos de Rodríguez",
+   "rol": "Propietaria",
+   "texto": "Viuda de Pedro José Rodríguez; recibe el campo en su hijuela (1869). Lindera de Antonio H. Sala en 1879 (089). Probablemente de la familia de Ramón Bustos, comprador de 1838, y pariente de Pablo, Avelina, Susana, Matilde y Juana Bustos (099, 100, 102). Sin otros datos.",
+   "fuentes": "Dup. 111; Fichas 089, 099, 100."
+  },
+  {
+   "nombre": "Pedro José Rodríguez",
+   "rol": "Comprador de 1838",
+   "texto": "Compra al Gobierno 1,467 leguas² en 1838 y vende partes a Ramón Bustos y a Bartolo Cortés. Su testamentaría se reparte en 1869.",
+   "fuentes": "Dup. 111."
+  },
+  {
+   "nombre": "Julio S. Salas",
+   "rol": "Agrimensor",
+   "texto": "Primera aparición en el corpus. Firma en Buenos Aires; trabajo prolijo (relevamiento de arroyo, planilla de coordenadas, plano en papel milimetrado). Búsqueda web breve sin datos biográficos seguros.",
+   "fuentes": "Dup. 111."
+  },
+  {
+   "nombre": "Ramón Bustos · Pablo Bustos",
+   "rol": "Comprador (1838) · lindero",
+   "texto": "Ramón compra 1 legua² en 1838; «R. Bustos» lindero en 015, 029, 037. Pablo, lindero SE (100: su propio campo).",
+   "fuentes": "Fichas 015, 029, 037, 100."
+  },
+  {
+   "nombre": "Tiburcio Casco · Pedro Kenny · José Maxwell · Antonio H. Sala · Francisco Duberty",
+   "rol": "Linderos y visuales",
+   "texto": "Casco: 041, 089. Kenny y Duberty: campo ex Guerrico (029, 038, 100). Maxwell: 084, 089, 099. Sala: 084, 089 (representado por Antonio Romero). Kenny, Maxwell y Duberty, apellidos de la inmigración irlandesa/británica del ovino.",
+   "fuentes": "Fichas 029, 038, 041, 084, 089, 099, 100."
+  },
+  {
+   "nombre": "Bartolo Cortés",
+   "rol": "Comprador de una fracción",
+   "texto": "0,1785 legua² al NO del arroyo de los Chañaritos, según mensura de Eguía. ¿El «B. Cotes» lindero de Rocha (019)?",
+   "fuentes": "Dup. 111; Ficha 019."
+  },
+  {
+   "nombre": "José María Rosa · Jorge Chevarría [?] · Juan Gvosdenoviche [?] · José Martín",
+   "rol": "Juez · juez (1869) · apoderado · escribano",
+   "texto": "Rosa, juez civil de 1.ª instancia (cf. 110). Los demás, sin datos.",
+   "fuentes": "Dup. 110, 111."
+  },
+  {
+   "nombre": "Martín Pico · Lavalle · Malato · Moreno",
+   "rol": "Departamento de ingenieros",
+   "texto": "Pico recibe; Lavalle, Malato y Moreno firman el dictamen de abril de 1881.",
+   "fuentes": "Fichas 109, 110."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/111/02.jpg",
+  "fuente": "IMG_9686.JPG (girada 90°)",
+  "lineas": [
+   "Giles n.^{o} 111.",
+   "Duplicado de la",
+   "Diligencia de mensura",
+   "del campo de Doña Petro-",
+   "na Bustos de Rodriguez",
+   "situado en el Partido de",
+   "Giles —",
+   "Febrero de 1881",
+   "5. 94. 94 [?]",
+   "Agrimensor",
+   "Julio S. Salas"
+  ]
+ },
+ "titulo": "Petrona Bustos de Rodríguez",
+ "estado": "Transcripta (13 hojas, 342 renglones), 3 láminas"
+}

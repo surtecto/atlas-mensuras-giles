@@ -1,0 +1,575 @@
+{
+ "carpeta": "112",
+ "carpeta_nombre": "Carpeta 112",
+ "archivo": "Ficha 112 - Jorge y Eduardo Morgan (1881).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (margen O, arroyos de Suero y Sosa)",
+  "N.º de duplicado": "112",
+  "Propietario / solicitante": "Jorge y Eduardo Morgan",
+  "Agrimensor": "Germán A. Kuhr",
+  "Año": "1881",
+  "Fecha de la diligencia": "Inicio 21/7/1881; firma agosto 1881; D. I. 9/8/1881; aprob. 22/4/1883",
+  "Ubicación": "Fracciones 3.ª y 4.ª (G y H) de los sobrantes de Morgan, entre Casco, Falcón, Mooney y Vásquez",
+  "Orden judicial": "Comisión del Superior Gobierno (mensura administrativa de sobrantes)",
+  "Vendedor / antecesor": "Gobierno → her. de Eduardo Morgan (1867, cuatro sobrantes)",
+  "Linderos citados": "her. de G. Mooney · F. P. de Ponce · B. Vásquez · T. Casco · Falcón",
+  "Medidas": "A-B 6823,7 · C-D 5773 · D-E 5575 · C-a 2361,4 m; G+H 553,47 ha; exceso 56,98 ha",
+  "Rumbos": "N 47° 33′ O · N 54° 39′ E · N 58° 7′ E · S 47° 7′ E · S 48° 53′ E · S 42° 43′-53′ O",
+  "Referencia de archivo": "Dup. 112; plano del D. I. (dup. 67); mojones de Kuhr 1856, Gonnet 1866, Cascallar 1878"
+ },
+ "metricas": {
+  "superficie_ha": "553,47 (exceso 56,98)",
+  "hitos": "Mojones de palo (Kuhr 1856, Gonnet 1866), ñandubay, tosca [?]; alambrados; poblaciones Morgan; monte de Vásquez",
+  "aguas": "Arroyos de Suero, de Sosa y de Giles"
+ },
+ "sintesis": "Duplicado completo (antecedentes, mensura, abalizamiento, informe, planilla de coordenadas, nota de aprobación) con plano en tela. En julio-agosto de 1881 Germán A. Kuhr, por comisión del Gobierno, ubica para Catalina O'Farrell de Morgan y sus hijos Jorge y Eduardo la 3.ª y 4.ª fracción de los cuatro sobrantes fiscales comprados en 1867 (los de Duggan/Gonnet), según el plano del Departamento de Ingenieros que los había corrido al fondo: fracciones G y H, 553,47 ha, contra Casco y Falcón, con un nuevo exceso de 56,98 ha que los Morgan compran al Estado. Encuentra sus propios mojones de 1856 y los de Gonnet y Cascallar. Benito Vásquez protesta. Aprobada por el Gobierno en 1883; escriturado el sobrante en 1884.",
+ "caratula": {
+  "img": "img/f/112/01.jpg",
+  "fuente": "IMG_9698.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "112"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Jorge y D. Eduardo Morgan"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "German A. Kuhr"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1881"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: antecedentes: venta del Gobierno a los herederos de Eduardo Morgan de cuatro sobrantes (27/9/1867)",
+   "img": "img/f/112/06.jpg",
+   "fuente": "IMG_9700 (girada 90°)",
+   "nota": "Letra inglesa grande y clara de copista; folios sellados 1-6. Tomas 9701-9705 de doble página.",
+   "lineas": [
+    "Antecedentes.—",
+    "1867 — Setiembre 27. — Ante el Escribano Mayor de Go-",
+    "bierno, el Gobernador de Buenos Aires vende á los",
+    "herederos de Don Eduardo Morgan, cuatro sobran-",
+    "tes de terreno, situados en el partido de Giles, compues-",
+    "to el primero de: diez y nueve hectáreas, sesenta y",
+    "ocho áreas y diez y seis centiáreas, lindando por",
+    "el Nord-Este con Don Natal Torres, por el Sud-",
+    "Este con los herederos de Don Dámaso Flores y do-",
+    "ña Susana Casco de Sosa, por Sud-Oeste con Don",
+    "Isidro Cucullo y por el Nord-Oeste con los com-",
+    "pradores.",
+    "El segundo de: cuarenta y siete hectáreas,",
+    "noventa y tres áreas y veinte y seis centiáreas, lin-",
+    "dando por el Nord-Este y Sud-Este con los compra-",
+    "dores, por el Sud-Oeste con Doña Cármen Bustos",
+    "de Martinez y por el Nord-Oeste con Don Tibur-",
+    "cio Casco.",
+    "El tercero de: doscientas cincuenta y",
+    "ocho hectáreas, sesenta y nueve áreas y diez y nue-",
+    "ve centiáreas, lindando por el Nord-Este, Nord-",
+    "Oeste y Sud-Oeste con los compradores y por el",
+    "Sud-Este con los sucesores de Don Dámaso Flores.",
+    "Y el cuarto de: doscientas treinta y",
+    "siete hectáreas, setenta y nueve áreas y veinte y",
+    "una centiáreas, lindando por el Nord-Este con D.^{a}",
+    "Loreto Ponce y Don Guillermo Mooney, por el",
+    "Sud-Este con los herederos de Don Dámaso Flores,",
+    "por el Oeste con los sucesores de Don Dámaso Flores",
+    "y el Estado y por el Nord-Oeste arroyo de Suero",
+    "de por medio con los compradores.—"
+   ],
+   "interpretacion": "ANTECEDENTES. 27/9/1867, ante el escribano mayor de Gobierno: el Gobernador vende a los herederos de EDUARDO MORGAN CUATRO SOBRANTES en Giles: (1) 19 ha 68 a 16 ca, entre Natal Torres (NE), herederos de Dámaso Flores y Susana Casco de Sosa (SE), Isidro Cucullu (SO) y los compradores (NO); (2) 47 ha 93 a 26 ca, entre los compradores, Carmen Bustos de Martínez (SO) y Tiburcio Casco (NO); (3) 258 ha 69 a 19 ca, rodeada por los compradores y, al SE, los sucesores de Flores; (4) 237 ha 79 a 21 ca, entre Loreto Ponce y Guillermo Mooney (NE), herederos de Flores (SE), sucesores de Flores y el Estado (O) y, ARROYO DE SUERO por medio, los compradores (NO). Son los sobrantes denunciados por Duggan y medidos por Gonnet en 1866 (040-041): total ≈ 564 ha."
+  },
+  {
+   "titulo": "Folio 1 vuelta: mensura (comisión del Superior Gobierno, 21/7/1881): objeto, ubicar las fracciones 3.ª y 4.ª según el plano del Departamento; línea A-B N 47° 33′ O 6823,7 m (mojones de Gonnet y de Kuhr 1856)",
+   "img": "img/f/112/07.jpg",
+   "fuente": "IMG_9701, página izquierda",
+   "nota": "",
+   "lineas": [
+    "Mensura. — Comisionado",
+    "por el Superior Gobierno para medir un te-",
+    "rreno de propiedad de Doña Catalina O-",
+    "Farrell de Morgan, Don Jorge y Don Eduar-",
+    "do Morgan, ubicado en el partido de",
+    "Giles, prévia citacion á los linderos como cons-",
+    "ta en la circular que original acompaño",
+    "al espediente, dí principio al desempeño de",
+    "mi comision el dia veinte y uno (21) de",
+    "Julio del corriente año.",
+    "Siendo el objeto de esta ope-",
+    "racion ubicar la tercera y cuarta fraccion",
+    "que los Señores Morgan compraron al Gobier-",
+    "no, por haber estas variado de forma y super-",
+    "ficie, segun consta en el plano é informe del",
+    "Departamento de Ingenieros que obra en autos,",
+    "al cual me he sujetado, en arreglo á él he pro-",
+    "cedido de la manera siguiente:",
+    "Linea A.B. Desde A mojon de",
+    "Ñandubay colocado por el Agrimensor Gonnet",
+    "como esquinero Oeste de la primera fraccion",
+    "vendida por el Gobierno á los Señores Morgan,",
+    "y con rumbo Norte cuarenta y siete grados trein-",
+    "ta y tres minutos al Oeste (N. 47° 33′ O) medí has-",
+    "ta B seis mil ochocientos veinte y tres metros sie-",
+    "te decímetros (6.823^{ms},7); en su trayecto encontré",
+    "mojones de palo á los ciento cincuenta y siete",
+    "metros cinco decímetros (157^{ms},5) colocado por",
+    "el Agrimensor Kuhr en una mensura para",
+    "Don Eduardo Morgan en 1856; á los setecien-",
+    "tos cuarenta y un metros (741 m^{s}) colocado por"
+   ],
+   "interpretacion": "MENSURA, por comisión del SUPERIOR GOBIERNO (no judicial), del terreno de CATALINA O'FARRELL DE MORGAN y de JORGE y EDUARDO MORGAN; inicio el 21/7/1881. Objeto: UBICAR LA 3.ª Y 4.ª FRACCIÓN compradas al Gobierno, que «han variado de forma y superficie» según el PLANO E INFORME DEL DEPARTAMENTO DE INGENIEROS (el de 067/110), al que se sujeta. A-B: desde el mojón de ñandubay de GONNET (esquinero O de la 1.ª fracción), N 47° 33′ O, 6823,7 m, con mojones de palo de KUHR (mensura para Eduardo Morgan, 1856) a 157,5 m y de Gonnet a 741 m…"
+  },
+  {
+   "titulo": "Folio 2: mojón de Kuhr a 2750 m; línea N 47° 33′ O 2232 m para completar el título de Flores (sección 2.ª del plano del Departamento, fracciones D, E, F) desde el mojón F de Cascallar; fracción D (ex Marfil 1835)",
+   "img": "img/f/112/08.jpg",
+   "fuente": "IMG_9701, página derecha",
+   "nota": "",
+   "lineas": [
+    "el Agrimensor Gonnet y á los dos mil setecientos",
+    "cincuenta metros (2750 m^{s}) colocado por el Agri-",
+    "mensor Don German Kuhr.",
+    "Linea d. A. — Rumbo Norte cuarenta y siete grados",
+    "treinta y tres minutos al Oeste (N. 47° 33′ O), distan-",
+    "cia dos mil doscientos treinta y dos metros (2.232 m^{s});",
+    "para deducir esta distancia, fué necesario com-",
+    "pletar el título que hubo Don Dámaso Flores de",
+    "Don Francisco Suero, ó sea la seccion segunda del",
+    "plano del Departamento de Ingenieros la que se",
+    "dividió en las fracciones D, E y F (del mismo plano)",
+    "y á contar del mojon F (de mi plano) puesto por",
+    "el Agrimensor Cascallar en la mensura del terre-",
+    "no de Vasquez, el cual forma parte del título",
+    "que hubo Flores de Suero, procedí á ubicar. —",
+    "Primero el título que Flores transfirió á",
+    "Marfil en 1835 (fraccion D) compuesto de mil",
+    "quinientas varas de frente, por cuatro mil qui-",
+    "nientas varas de fondo; para esto situado en A",
+    "medí hasta F′ seiscientos treinta y dos metros (632^{ms})",
+    "distancia que completa los tres mil ochocientos",
+    "noventa y siete metros (3897 m^{s}) de fondo que de-",
+    "be tener esta fraccion segun sus títulos, es decir",
+    "la que hay entre el mojon F esquinero de Vasquez",
+    "y el punto F′. —",
+    "Esta fraccion es hoy propiedad de los Señores",
+    "Morgan, eceptuando ciento cincuenta varas de",
+    "frente por cuatro mil quinientas varas de fondo",
+    "que aun pertenecen á los sucesores de Sosa. —",
+    "Segundo el título que Don Eduardo Morgan",
+    "hubo de Don Dámaso Flores (fraccion E del pla-",
+    "no del Departamento de Ingenieros) compuesta"
+   ],
+   "interpretacion": "…y otro de Kuhr a 2750 m. Línea d-A, N 47° 33′ O, 2232 m: para deducirla hubo que completar el título de Flores ex Suero (sección 2.ª del plano del Departamento, fracciones D, E, F) a partir del mojón F puesto por CASCALLAR en la mensura de Vásquez (110). Fracción D (lo que Flores transfirió a Marfil en 1835: 1500 × 4500 v): desde A hasta F′, 632 m, para completar los 3897 m (= 4500 v) de fondo entre F (esquinero de Vásquez) y F′. Es hoy de los Morgan, salvo 150 × 4500 v que siguen siendo de los SUCESORES DE SOSA. Fracción E (lo que Eduardo Morgan compró a Flores)…"
+  },
+  {
+   "titulo": "Folio 2 vuelta: fracción E (1500 × 4572 v); punto d, esquinero S de la 3.ª fracción, a 4591,7 m de A; B-B′ N 54° 39′ E 1066 m (alambrado de los Morgan); B′-C N 58° 7′ E 1447 m (mojón de tosca de las secciones 1.ª y 2.ª; esquinero de Mooney)",
+   "img": "img/f/112/09.jpg",
+   "fuente": "IMG_9702, página izquierda",
+   "nota": "",
+   "lineas": [
+    "de mil quinientas varas de frente por cuatro mil",
+    "quinientas setenta y dos varas de fondo, ó sean",
+    "mil doscientos noventa y nueve metros de frente,",
+    "por tres mil novecientos cincuenta y nueve metros",
+    "siete decímetros de fondo los que terminaron",
+    "en d á contar desde F′. Este punto d donde",
+    "se hizo una señal como esquinero Sud de la",
+    "tercera fraccion que los Señores Morgan compra-",
+    "ron al Gobierno se halla á los cuatro mil qui-",
+    "nientos noventa y un metros siete decímetros",
+    "(4591^{ms},7) distante del mojon A. —",
+    "Linea B.B′. — Determinado el punto B,",
+    "medí desde este hasta B′ mil sesenta y seis me-",
+    "tros (1.066 m^{s}) con rumbo Norte cincuenta y cua-",
+    "tro grados treinta y nueve minutos al Este (N. 54°",
+    "39′ E), en esta linea quedó cuatro metros treinta",
+    "y tres centímetros (4^{ms},33) á la derecha el alambra-",
+    "do de los Señores Morgan. —",
+    "Linea B′C. — Costeando el alambrado",
+    "cuatro metros treinta y tres centímetros (4^{ms},33) á la",
+    "derecha, con rumbo Norte cincuenta y ocho gra-",
+    "dos siete minutos al Este (N. 58° 07′ E) medí des-",
+    "de B′ hasta C mil cuatrocientos cuarenta y",
+    "siete metros (1.447 m^{s}), en esta linea á los tres-",
+    "cientos diez y nueve metros (319 m^{s}) hallé un",
+    "mojon de tosca [?] que sirvió de esquinero de",
+    "las secciones primera y segunda y á los mil cua-",
+    "trocientos cuarenta y siete metros (1.447 m^{s}) el",
+    "mojon de Ñandubay esquinero Norte del te-",
+    "rreno que se mide y Oeste de los herederos de",
+    "Mooney. —",
+    "Linea C.D. Al Sud cuarenta y siete"
+   ],
+   "interpretacion": "…1500 × 4572 v (1299 × 3959,7 m), que termina en d contando desde F′; en d, a 4591,7 m de A, una señal: esquinero S de la 3.ª fracción. B-B′ N 54° 39′ E, 1066 m, con el ALAMBRADO DE LOS MORGAN a 4,33 m a la derecha; B′-C N 58° 7′ E, 1447 m, costeando el alambrado; a 319 m un MOJÓN DE TOSCA [?] (esquinero de las secciones 1.ª y 2.ª del Departamento) y en C el ñandubay esquinero N del terreno y O de los herederos de MOONEY."
+  },
+  {
+   "titulo": "Folio 3: C-D S 47° 7′ E 5773 m (alambrado; arroyo de Suero a 5100 m) hasta el esquinero Mooney/Ponce; D-E 5575 m (mojones de Vásquez y Ponce); C-a S 47° 7′ E 2361,4 m: el exceso del título primitivo de Marfil (sección 1.ª)",
+   "img": "img/f/112/10.jpg",
+   "fuente": "IMG_9702, página derecha",
+   "nota": "",
+   "lineas": [
+    "grados siete minutos al Este (S. 47° 07′ E) medí desde C",
+    "hasta D mojon esquinero comun de los terrenos de Moo-",
+    "ney y Ponce cinco mil setecientos setenta y tres metros (5.773 m^{s});",
+    "en su trayecto hallé un mojon á los dos mil ochocientos",
+    "ochenta metros (2880 m^{s}), tambien quedó cuatro metros trein-",
+    "ta y tres centímetros (4^{ms},33) á la derecha el alambrado, cru-",
+    "cé el arroyo de Suero á los cinco mil cien metros (5100 m^{s}).",
+    "Linea D.E. — Rumbo Sud cuarenta y ocho grados cin-",
+    "cuenta y tres minutos al Este (S. 48° 53′ E), distancia",
+    "cinco mil quinientos setenta y cinco metros (5575 m^{s});",
+    "en esta linea hallé mojones de Ñandubay á los mil",
+    "cuatrocientos treinta y ocho metros (1.438 m^{s}) el esqui-",
+    "nero Norte del terreno de Don Benito Vasquez y cos-",
+    "tanero del de Doña Fortunata P. de Ponce, á los dos",
+    "mil ochenta y seis metros (2.086 m^{s}); á los dos mil ocho-",
+    "cientos cincuenta metros (2850 m^{s}) y á los cuatro mil",
+    "seiscientos ochenta y nueve metros (4689 m^{s}). —",
+    "Linea C. a. — Rumbo Sud cuarenta y siete grados siete",
+    "minutos al Este (S. 47° 07′ E) distancia dos mil tres-",
+    "cientos sesenta y un metros cuatro decímetros (2.361^{ms},4) que",
+    "es el exceso que resulta del título primitivo que fué",
+    "de Don Vicente Marfil (Seccion primera del plano",
+    "del Departamento de Ingenieros) y que este transfi-",
+    "rió á Don Dámaso Flores (hoy Vasquez) cuatro mil",
+    "quinientas varas de fondo, á los Señores Torres lo",
+    "que hubiere entre los arroyos de Sosa y Suero y á",
+    "Galeano el resto hasta dar con las Suertes de Areco;",
+    "estas dos últimas fracciones despues de varias",
+    "transferencias de dominio son hoy propiedad",
+    "de los Señores Morgan. —",
+    "Ahora bien, deduciendo"
+   ],
+   "interpretacion": "C-D S 47° 7′ E, 5773 m, hasta el esquinero común Mooney/Ponce: mojón a 2880 m, alambrado a 4,33 m, ARROYO DE SUERO a 5100 m. D-E S 48° 53′ E, 5575 m, con ñandubayes a 1438 m (esquinero N de BENITO VÁSQUEZ y costanero de FORTUNATA P. DE PONCE), 2086, 2850 y 4689 m. C-a S 47° 7′ E, 2361,4 m: el EXCESO del título primitivo de MARFIL (sección 1.ª del Departamento): Marfil vendió a Flores (hoy Vásquez) 4500 v de fondo, a los Torres lo que hubiera entre los arroyos de Sosa y Suero y a Galeano el resto hasta las suertes de Areco; estas dos fracciones son hoy de los Morgan."
+  },
+  {
+   "titulo": "Folio 3 vuelta: cálculo del exceso de Marfil (8746,6 m de fondo = 10.100 v); a-b S 42° 53′ O 1089 m; b-c N 47° 17′ O 728 m; c-d S 42° 43′ O 1332,5 m; superficie de las fracciones G y H: 553 ha 46 a 60 ca",
+   "img": "img/f/112/11.jpg",
+   "fuente": "IMG_9703, página izquierda",
+   "nota": "",
+   "lineas": [
+    "de los ocho mil setecientos cuarenta y seis metros seis",
+    "decímetros (8746^{ms},6) de fondo que le asignan los títu-",
+    "los á esta fraccion (diez mil cien varas) las cuatro",
+    "mil quinientas varas (tres mil ochocientos noventa",
+    "y siete metros (3.897 m^{s}) que Marfil vendió á Flo-",
+    "res, quedan para las otras dos fracciones B y C cua-",
+    "tro mil ochocientos cuarenta y nueve metros seis de-",
+    "címetros (4849^{ms},6) y deduciendo esta de la distan-",
+    "cia que hay entre el mojon C y el esquinero Norte del",
+    "terreno de Vasquez que asciende á siete mil dos-",
+    "cientos once metros (7211 [?] m^{s}), resulta para la linea",
+    "C. a solo dos mil trescientos sesenta y un metros",
+    "cuatro decímetros (2361^{ms},4) que es el esceso que por",
+    "este cortado hay sobre el primitivo título de",
+    "Marfil. —",
+    "Linea a. b. — Rumbo Sud cuarenta",
+    "y dos grados cincuenta y tres minutos al Oeste",
+    "(S. 42° 53′ O) distancia mil ochenta y nueve",
+    "metros (1089 m^{s}). —",
+    "Linea b. c. — Rumbo Norte cuarenta",
+    "y siete grados diez y siete minutos al Oeste (N. 47° 17′ O)",
+    "distancia setecientos veinte y ocho metros (728 m^{s}).",
+    "Linea c. d. — Determinado c medí has-",
+    "ta la señal d mil trescientos treinta y dos metros",
+    "cinco decímetros (1332^{ms},5) con rumbo Sud cuarenta",
+    "y dos grados cuarenta y tres minutos al Oeste",
+    "(S. 42° 43′ O). —",
+    "Superficie. — La comprendida en las",
+    "fracciones G y H (B, B′, C, a, b, c, d) asciende á: qui-",
+    "nientas cincuenta y tres hectáreas, cuarenta",
+    "y seis áreas y sesenta centiáreas, lo que dá"
+   ],
+   "interpretacion": "Cuenta: de los 8746,6 m (10.100 v) de fondo del título de Marfil, restadas las 4500 v (3897 m) vendidas a Flores, quedan 4849,6 m para las fracciones B y C (Torres y Galeano); como entre el mojón C y el esquinero N de Vásquez hay 7211 [?] m, el exceso sobre el título de Marfil es C-a = 2361,4 m. a-b S 42° 53′ O 1089 m; b-c N 47° 17′ O 728 m; c-d S 42° 43′ O 1332,5 m. SUPERFICIE de las FRACCIONES G y H (B-B′-C-a-b-c-d): 553 ha 46 a 60 ca…"
+  },
+  {
+   "titulo": "Folio 4: exceso de 56 ha 98 a 20 ca que los Morgan están dispuestos a comprar; circular; protesta de Benito Vásquez; sin acta; abalizamientos; firma (Buenos Aires, agosto de 1881)",
+   "img": "img/f/112/12.jpg",
+   "fuente": "IMG_9703, página derecha",
+   "nota": "",
+   "lineas": [
+    "un exceso sobre el título que el Gobierno vendió á",
+    "los Señores Morgan, en la parte referente á la ter-",
+    "cera y cuarta fraccion de cincuenta y seis hectáreas",
+    "noventa y ocho áreas y veinte centiáreas que los Se-",
+    "ñores Morgan estan dispuestos á comprar. —",
+    "Circular de citacion. — La firmó Don Maximi-",
+    "liano Casco, Don Cecilio Falcon, la Señora de",
+    "Mooney y la Señora de Ponce. —",
+    "Protesta. — Protestó esta operacion Don Benito",
+    "Vasquez, fundándose en que los terrenos medi-",
+    "dos eran de su propiedad. —",
+    "Acta. — No se levantó por no haber concurri-",
+    "do lindero alguno á presenciar la operacion. —",
+    "Avalizamientos. —",
+    "Mojon B derecha de BA.",
+    "Sebastian Mearini [?] 68° 30′",
+    "Maximiliano Casco 169° 41′.",
+    "Eduardo Morgan 330° 52′.",
+    "Mojon C derecha de CD.",
+    "Puesto de Morgan 66° 35′",
+    "Poblacion de Eduardo Morgan 93° 43′.",
+    "Mojon D derecha de E.",
+    "Monte de Vasquez 26° 52′",
+    "Poblacion de Jorge Morgan 158°",
+    "Estancia de Mooney 237° 52′. —",
+    "Buenos Aires Agosto de 1881.",
+    "German A. Kuhr [rúbrica]",
+    "[rúbrica]"
+   ],
+   "interpretacion": "…lo que da un EXCESO de 56 ha 98 a 20 ca sobre el título vendido por el Gobierno para la 3.ª y 4.ª fracción, que los Morgan están dispuestos a COMPRAR. Firmaron la circular Maximiliano Casco, Cecilio Falcón, la señora de Mooney y la señora de Ponce. PROTESTÓ BENITO VÁSQUEZ, alegando que los terrenos medidos eran suyos. No hubo acta: no concurrió ningún lindero. Abalizamientos desde B (Sebastián Mearini [?], Maximiliano Casco, Eduardo Morgan), C (puesto de Morgan, población de Eduardo Morgan) y D (MONTE DE VÁSQUEZ, población de Jorge Morgan, ESTANCIA DE MOONEY). Buenos Aires, agosto de 1881, GERMÁN A. KUHR."
+  },
+  {
+   "titulo": "Folio 4 vuelta: presentación (5/8/1881) e informe del Departamento de Ingenieros (9/8/1881): sobrante de 56 ha 98 a 20 ca que deben comprar al Estado; vista a Vásquez",
+   "img": "img/f/112/13.jpg",
+   "fuente": "IMG_9704, página izquierda",
+   "nota": "",
+   "lineas": [
+    "[Bue]nos Aires Agosto 5/81 —",
+    "Presentada en la fecha al Depar-",
+    "tamento de Ingenieros —",
+    "J. M. Lavarri [?] [rúbrica]",
+    "Exmo. Señor.",
+    "El Departamento de Ingenieros",
+    "ha examinado la operacion de men-",
+    "sura practicada por el Agrimensor",
+    "D. German A. Kuhr de los terrenos",
+    "de los S.^{res} Morgan hermanos en Giles,",
+    "y hallándola bien ejecutada, la consi-",
+    "dera en estado de ser aprobada en la",
+    "parte facultativa.",
+    "Habiendo presentado una protesta",
+    "el Señor D. Benito Vasquez que junta-",
+    "mente se acompaña, corresponde se le",
+    "dé vista para que funde su oposicion.",
+    "Ha resultado un sobrante de (56 hect.",
+    "98 a, 0,20 cent.^{s}) cincuenta y seis hectáreas,",
+    "noventa y ocho áreas, veinte centiáreas",
+    "que el interesado debe comprar al Es-",
+    "tado y del cual se dá aviso en la fecha",
+    "al Ministerio de Hacienda.",
+    "Agosto 9/81.",
+    "Fco. Lavalle",
+    "C. Encina [?]   Edgardo Moreno"
+   ],
+   "interpretacion": "Presentada el 5/8/1881. Informe del Departamento (9/8/1881; Francisco Lavalle, C. Encina [?], Edgardo Moreno): bien ejecutada en la parte facultativa; corresponde dar vista a Benito Vásquez de su protesta; el sobrante de 56 ha 98 a 20 ca debe ser comprado al Estado y se avisa al MINISTERIO DE HACIENDA."
+  },
+  {
+   "titulo": "Folio 5: planilla del cálculo por coordenadas (Morgan hermanos, Giles)",
+   "img": "img/f/112/14.jpg",
+   "fuente": "IMG_9704, página derecha (planilla girada)",
+   "nota": "",
+   "lineas": [
+    "Morgan hermanos. — Giles —   Ej.º de la línea C a.",
+    "[Distancias en metros · Ángulos con C a · y · Y · x · X · (Y₁+Y₂)(X₂−X₁) · (X₁+X₂)(Y₂−Y₁)]",
+    "2361.4 · 180° 00′ · + 0 · 0 · − 2361 · − 2361 · + 0 × − 2361 = 0 · − 2361 × + 0 = 0",
+    "1447 · 185° 14′ [?] · + 1396 · + 1396 · − 380 · − 2741 · + 1396 × − 380 = − 530480 · − 5102 × + 1396 = − 7122392",
+    "1066 · 181° 46′ [?] · + 1043 · + 2439 · − 217 · − 2958 · + 3835 × − 217 = − 832195 · − 5699 × + 1043 = − 5944057",
+    "2232 · 359° 34′ · − 16 · + 2423 · + 2232 · − 726 · + 4862 × + 2232 = + 10851984 · − 3684 × − 16 = + 58944",
+    "1332.5 · 269° 50′ · − 1332 · + 1091 · − 2 · − 728 · + 3514 × − 2 = − 7028 · − 1454 × − 1332 = + 1936728",
+    "728 · 359° 10′ · − 2 · + 1089 · + 728 · 0 · + 2180 × + 728 = + 1587040 · − 728 × − 2 = + 1456",
+    "1089 · 270° 00′ · − 1089 · 0 · 0 · 0 · + 1089 × − 0 = 0 · − 0 × − 1089 = 0",
+    "productos + = 12439024 · − = 1369703 · 11069321",
+    "productos − = 13066449 · + = 1997128 · 11069321",
+    "Superficie = m^{s} c^{s} 5534660.",
+    "Título = m^{s} c^{s} 4964840.",
+    "Exceso = 569820.",
+    "G. A. Kuhr [rúbrica]"
+   ],
+   "interpretacion": "PLANILLA DE COORDENADAS de Kuhr (eje la línea C-a): siete lados con distancias, ángulos y productos cruzados; superficie 5.534.660 m², título 4.964.840 m², EXCESO 569.820 m² (= 56,98 ha)."
+  },
+  {
+   "titulo": "Folio 6: nota de la aprobación por el Gobierno (22/4/1883) y de la escrituración del sobrante a Jorge y Eduardo Morgan (8/2/1884)",
+   "img": "img/f/112/15.jpg",
+   "fuente": "IMG_9705, página derecha",
+   "nota": "",
+   "lineas": [
+    "Abril 22 de 1883 — En esta fecha fué aprobada",
+    "por el Gobierno la presente mensura.",
+    "Febrero 8 de 1884 — Se escrituró este sobrante en",
+    "propiedad á los S.^{res} Jorge y Eduardo Morgan —",
+    "Ambas anotaciones se hacen en Julio 7/84.",
+    "Malato [rúbrica]"
+   ],
+   "interpretacion": "Nota posterior (7/7/1884, firma Malato): la mensura fue APROBADA POR EL GOBIERNO el 22/4/1883 y el sobrante se ESCRITURÓ a Jorge y Eduardo Morgan el 8/2/1884."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de las fracciones G y H de Morgan hermanos (Kuhr, agosto de 1881)",
+   "img": "img/f/112/03.jpg",
+   "fuente": "IMG_9706.JPG (pliego entero); detalles 9707-9710",
+   "orientacion": "Plano en tela, marco simple; escala gráfica de 1000 a 4000 metros; «Buenos Aires Agosto de 1881 · German A. Kuhr». Las fracciones G y H sombreadas en gris.",
+   "interpretacion": "Faja larga de NO a SE: en el extremo NO, contra CASCO y FALCÓN (línea oblicua B-B′-C), el polígono sombreado «Fracción G / Morgan hermanos» y «Fracción H» (Área = 5.534.660 m²), con la población de E. Morgan; al NE los HEREDEROS DE G. MOONEY y FORTUNATA P. DE PONCE; al centro MORGAN HERMANOS / MORGAN, cruzados por el ARROYO DE SUERO (población de J. Morgan) y el ARROYO DE SOSA (faja «Suces. de Marfil» y faja «SUCESORES DE SOSA» entre dos de Morgan); al SE BENITO VÁSQUEZ y «Vasquez», cortados por el ARROYO DE GILES con sus brazos. Al SO, «Morgan hermanos». Rotulados los lados con rumbo y longitud (S 47° 07′ E 5773 m = CD; S 48° 53′ E 5575 m = DE; N 47° 33′ O, AB = 6823,7 m; 3959,7 m = 4572 varas).",
+   "referencias": [
+    [
+     "A-B",
+     "N 47° 33′ O · 6823,7 m (mojones de Kuhr 1856 y Gonnet 1866)"
+    ],
+    [
+     "B-B′-C",
+     "N 54° 39′ E 1066 m · N 58° 7′ E 1447 m · contra Casco y Falcón (alambrado de Morgan)"
+    ],
+    [
+     "C-D · D-E",
+     "S 47° 7′ E 5773 m (her. de Mooney) · S 48° 53′ E 5575 m (F. P. de Ponce)"
+    ],
+    [
+     "C-a-b-c-d",
+     "S 47° 7′ E 2361,4 · S 42° 53′ O 1089 · N 47° 17′ O 728 · S 42° 43′ O 1332,5 m"
+    ],
+    [
+     "Fracciones G y H",
+     "5.534.660 m² (553,47 ha); título 4.964.840 m²; exceso 569.820 m²"
+    ],
+    [
+     "Fajas de título",
+     "Suces. de Marfil · Sucesores de Sosa (150 × 4500 v) · Morgan · Benito Vásquez"
+    ],
+    [
+     "Aguas",
+     "Arroyo de Suero · arroyo de Sosa · arroyo de Giles (con brazos)"
+    ],
+    [
+     "Poblaciones",
+     "E. Morgan (en H) · J. Morgan (junto al Suero) · puesto de Morgan · monte de Vásquez · estancia de Mooney"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: fracciones G y H",
+   "img": "img/f/112/04.jpg",
+   "fuente": "IMG_9707.JPG",
+   "orientacion": "",
+   "interpretacion": "El polígono B-B′-C-a-b-c-d sombreado, con rumbos y longitudes de cada lado, la línea de división G/H (2657,7 y 1929,7 m) y la población de E. Morgan.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: arroyos de Suero y de Sosa",
+   "img": "img/f/112/05.jpg",
+   "fuente": "IMG_9709.JPG",
+   "orientacion": "",
+   "interpretacion": "Las fajas de título entre los arroyos: «Suces. de Marfil», la faja de los «Sucesores de Sosa» entre dos de Morgan, el mojón D y el lado D-E con las progresivas de los mojones de Vásquez y Ponce.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "El cierre del pleito de los sobrantes de morgan",
+   "texto": "Es el tercer acto del caso Duggan–Morgan de la margen O: venta fiscal de cuatro sobrantes a los herederos de Morgan (1867, sobre la mensura de Gonnet de 1866, 040-041) → mensura de Cascallar para los Torres (1874, 067) y para Vásquez (1877-78, 110) → informe del Departamento (1881) que reubica los sobrantes «al fondo» → esta mensura de Kuhr (1881) que ubica la 3.ª y 4.ª fracción en el EXTREMO NO, contra Casco y Falcón (las fracciones G y H del plano del Departamento). Vásquez protesta otra vez. Resultado: los Morgan quedan con 553 ha en el fondo y compran un nuevo exceso de 57 ha (escriturado en 1884)."
+  },
+  {
+   "titulo": "Mensura administrativa, no judicial",
+   "texto": "La comisión es del «Superior Gobierno», no de un juez; el informe va al Ministerio de Hacienda y la aprobación es del Gobierno (22/4/1883). Es la vía de los sobrantes fiscales: el Estado mide, vende y cobra el excedente."
+  },
+  {
+   "titulo": "Cadena de mojones: kuhr 1856 → gonnet 1866 → cascallar 1878 → kuhr 1881",
+   "texto": "Kuhr, que midió para Eduardo Morgan en 1856 (020), vuelve 25 años después y encuentra sus propios mojones de palo (157,5 y 2750 m) junto a los de Gonnet; arranca del ñandubay de Gonnet y usa el mojón F de Cascallar. Hay un mojón de TOSCA [?] (esquinero de las secciones 1.ª y 2.ª del Departamento) y ALAMBRADOS de los Morgan sobre los lados N."
+  },
+  {
+   "titulo": "Títulos de 1823 en varas, medidos en metros",
+   "texto": "Título de Marfil: 10.100 v (8746,6 m) de fondo; Flores–Marfil (1835): 1500 × 4500 v (3897 m); Flores–Morgan: 1500 × 4572 v (1299 × 3959,7 m). La faja de los «sucesores de Sosa», 150 × 4500 v, es la de Eugenio, Manuel y María Gómez de 067/110 (150 v): misma medida, otro nombre."
+  },
+  {
+   "titulo": "Paisaje",
+   "texto": "Los arroyos de Suero, Sosa y Giles (este con varios brazos) cortan las fajas en perpendicular. Hay poblaciones de Eduardo y de Jorge Morgan, un puesto de Morgan, el MONTE DE VÁSQUEZ (visado desde D: la «población de Vásquez» de 110 rodeada de árboles) y la ESTANCIA DE MOONEY."
+  },
+  {
+   "titulo": "Personas nuevas",
+   "texto": "Catalina O'Farrell de Morgan (viuda de Eduardo) y sus hijos Jorge y Eduardo; Maximiliano Casco y Cecilio Falcón (linderos NO; cf. Tiburcio Casco y Pablo Falcón de 002/020); «Sebastián Mearini [?]» (población visada desde B)."
+  },
+  {
+   "titulo": "Lecturas dudosas",
+   "texto": "«mojón de tosca [?]»; «7211 [?] m» (la cifra de la distancia C-Vásquez podría ser 4211, pero el cálculo exige ≈ 7211); «Sebastián Mearini [?]»; recepción «J. M. Lavarri [?]»; firmante «C. Encina [?]»; ángulos de la planilla «185° 14′ [?]», «181° 46′ [?]»; número de portadilla «5. 34. 245 [?]»."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Qué resolvió el juez sobre la oposición de Vásquez? ¿Dónde quedan en el GIS los sobrantes 1.º y 2.º (19,7 y 47,9 ha, contra Cucullu y Carmen Bustos de Martínez, 041)? Cotejar la línea A-B (6823,7 m) con la J-5/H-I de 110."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Catalina O'Farrell de Morgan · Jorge y Eduardo Morgan (hijos)",
+   "rol": "Propietarios",
+   "texto": "Viuda e hijos de Eduardo Morgan (†, comprador del campo Guerrico y de los sobrantes de Duggan: 020, 029, 038, 040, 041). Familia de origen irlandés/británico del ovino en Giles y Areco; los hijos escrituran el sobrante en 1884. Sin otros datos verificados en la web.",
+   "fuentes": "Dup. 112; Fichas 020, 038, 040, 041."
+  },
+  {
+   "nombre": "Germán A. Kuhr",
+   "rol": "Agrimensor",
+   "texto": "Midió para Eduardo Morgan en 1856 (020) y firma informes del Departamento de Ingenieros (109). Vuelve a medir para los hijos en 1881 y reconoce sus propios mojones: continuidad de 25 años en el mismo campo.",
+   "fuentes": "Fichas 020, 047, 109."
+  },
+  {
+   "nombre": "Benito Vásquez",
+   "rol": "Lindero que protesta",
+   "texto": "Heredero de Dámaso Flores (110); protesta porque considera suyos los terrenos medidos.",
+   "fuentes": "Ficha 110."
+  },
+  {
+   "nombre": "Herederos de Guillermo Mooney · Fortunata Porcel de Ponce",
+   "rol": "Linderos ne",
+   "texto": "Mooney: 025, 056, 067. Ponce: 067, 110.",
+   "fuentes": "Fichas 025, 067, 110."
+  },
+  {
+   "nombre": "Maximiliano Casco · Cecilio Falcón · Sebastián Mearini [?]",
+   "rol": "Linderos no / visuales",
+   "texto": "Sin otros datos; los Casco y Falcón son familias antiguas del límite Areco–Giles (002, 020, 041).",
+   "fuentes": "Fichas 002, 020, 041."
+  },
+  {
+   "nombre": "Francisco Lavalle · Edgardo Moreno · C. Encina [?] · Malato",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firmantes del informe de 1881; Malato anota en 1884 la aprobación y la escrituración (cf. 111).",
+   "fuentes": "Fichas 109-111."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/112/02.jpg",
+  "fuente": "IMG_9699.JPG (girada 90°)",
+  "lineas": [
+   "Giles. — 112.",
+   "Duplicado de la diligencia",
+   "de mensura de un terreno de pro-",
+   "piedad de D. Jorge y D. Eduardo",
+   "Morgan, en el partido de San",
+   "Andrés de Giles. —",
+   "5. 34. 245 [?]",
+   "1881.   [a lápiz:] 3-182",
+   "G. A. Kuhr."
+  ]
+ },
+ "titulo": "Jorge y Eduardo Morgan",
+ "estado": "Transcripta (10 hojas, 263 renglones), 3 láminas"
+}
