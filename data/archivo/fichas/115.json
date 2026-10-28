@@ -1,0 +1,623 @@
+{
+ "carpeta": "115",
+ "carpeta_nombre": "Carpeta 115",
+ "archivo": "Ficha 115 - Romualda Galeano de Casas (1881).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (S del pueblo, bloque Lescano)",
+  "N.º de duplicado": "115",
+  "Propietario / solicitante": "Romualda Galeano de Casas",
+  "Agrimensor": "Agustín Y. [?] Rodríguez",
+  "Año": "1881",
+  "Fecha de la diligencia": "Mensura 3/7/1881; presentada 22/8/1881; D. I. 16/9/1881",
+  "Ubicación": "Campo de Francisco Lescano (trapecio de 933 ha), al SE de los hijos de Pascual",
+  "Orden judicial": "Juez de 1.ª Inst. en lo Civil, Dep. del Centro, Dr. Juan San Martín (1881)",
+  "Vendedor / antecesor": "F. Lescano (hijo) 1869 y 1875; C. Montiel 1873 → Marcos R. Casas → su viuda",
+  "Linderos citados": "Hijos de P. Lescano · Naughton · Saraví · Barco · G. Lescano · Casey · Mesquita",
+  "Medidas": "Trapecio A-B 6887 · B-C 1364 · C-D 6886 · D-A 1346,68 m; Casas 598,83 ha",
+  "Rumbos": "S 37° 22′ E · N 51° 38′ E · N 37° 29′ O · S 51° 38′ O; var. 11° 23′ NE",
+  "Referencia de archivo": "Dup. 115; gemelo del dup. 114 (Saraví), mismo plano"
+ },
+ "metricas": {
+  "superficie_ha": "598,83 (trapecio 933,26)",
+  "hitos": "Mojones de Saubidet (algunos corridos); poblaciones, montes y casa de Rivas; torres de Giles y Mercedes",
+  "aguas": "Ninguna citada"
+ },
+ "sintesis": "Duplicado completo (títulos, mensura, abalizamiento, dictamen) con plano, gemelo del dup. 114. El 3/7/1881 Agustín Y. [?] Rodríguez mide todo el campo de Francisco Lescano —un trapecio de 6887 × 1347 m y 933,26 ha— y ubica dentro las 598,83 ha de Romualda Galeano de Casas (compras de su marido a Lescano en 1869, de ella a Ciriaco Montiel en 1873 y a Lescano en 1875, ésta ante el juez de paz Julio Saraví), junto a las ventas a Barcos, Cisterna-Morales y la parte de Saraví. El resultado es un polígono de nueve vértices aceptado por conformidad de todos. Abalizamientos a poblaciones, montes, una casa y las torres de Giles y Mercedes.",
+ "caratula": {
+  "img": "img/f/115/01.jpg",
+  "fuente": "IMG_9732.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "115"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Romualda G. de Casas"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Agustín Y. [?] Rodríguez"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1881"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: extracto de títulos (Francisco Lescano vende a Márcos Regino Casas 1560 × 3900 v, Mercedes 30/7/1869; Ciriaco Montiel vende a Romualda Galeano de Casas, viuda, Mercedes 2/10/1873)",
+   "img": "img/f/115/06.jpg",
+   "fuente": "IMG_9734 (girada 90°)",
+   "nota": "Letra cursiva redonda del mismo copista que el dup. 114; folio sellado «1».",
+   "lineas": [
+    "Estracto de títulos.",
+    "En la Ciudad de Mercedes, á treinta de",
+    "Julio de mil ochocientos sesenta y nueve, ante",
+    "el Escribano Público D. Nicanor S. [?] Ponsatí,",
+    "D. Francisco Lescano vende á Don Márcos",
+    "Regino Casas, un terreno de campo ubicado",
+    "en el Partido de Giles, compuesto de «un mil,",
+    "trescientos cincuenta métros, novecientos sesenta mi-",
+    "límetros» de frente, igual á «mil quinientas sesenta",
+    "varas», por «tres mil, trescientos setenta y siete métros,",
+    "cuatrocientos milímetros» de fondo, igual á tres mil,",
+    "novecientas varas; lindando por el Norte, con so-",
+    "bras de Virán [?]; por el Sud, con mas terreno que",
+    "se reserva el vendedor S.^{r} Lescano; y por el",
+    "Oeste, con los herederos de D.^{ña} Hilaria Lescano",
+    "de Acuña, y con Doña Gerónima Lescano.",
+    "Al vendedor le corresponde, «seiscientos cincuenta",
+    "y dos métros, noventa y ocho milímetros», como here-",
+    "dero de sus S.^{res} padres D. Francisco Lescano",
+    "y D.^{ña} Petrona López (fojas cuatro á diez de este",
+    "espediente) y el resto, por compra á D. Ciriaco Montiel.",
+    "En la Ciudad de Mercedes, á dos de Octu-",
+    "bre de mil ochocientos setenta y tres, Don Ciria-",
+    "co Montiel, ante el Escribano Don Nicanor S. [?]",
+    "Ponsatí, vende á Doña Romualda Galeano",
+    "de Casas, viuda de Don Márcos Regino",
+    "Casas, un terreno situado en el Partido de",
+    "Giles, compuesto de: «doscientos sesenta y nueve métros,"
+   ],
+   "interpretacion": "ESTRACTO DE TÍTULOS. (1) Mercedes, 30/7/1869, ante el escribano NICANOR S. [?] PONSATÍ: FRANCISCO LESCANO vende a MARCOS REGINO CASAS 1350,96 m (= 1560 v) de frente por 3377,40 m (= 3900 v) de fondo, lindero al N con «SOBRAS DE VIRÁN [?]» (¿Vivar?), al S con tierra que se reserva Lescano y al O con los herederos de HILARIA LESCANO DE ACUÑA y GERÓNIMA LESCANO. Al vendedor le tocaban 652,098 m como heredero de sus padres FRANCISCO LESCANO y PETRONA LÓPEZ, y el resto lo había comprado a CIRIACO MONTIEL. (2) Mercedes, 2/10/1873, mismo escribano: CIRIACO MONTIEL vende a ROMUALDA GALEANO DE CASAS, ya viuda de Marcos Regino Casas, un terreno de 269,326 m…"
+  },
+  {
+   "titulo": "Folio 1 vuelta: la venta de Montiel (311 × 3950 v, heredadas de Petrona López); venta de Francisco Lescano a Casas ante el juez de paz Julio Saraví (Giles, 24/12/1875: 269 × 2500 v); adjudicación a la viuda Romualda Galeano (6.988.648 v²)",
+   "img": "img/f/115/07.jpg",
+   "fuente": "IMG_9735, página izquierda",
+   "nota": "",
+   "lineas": [
+    "trescientos veintiseis milímetros» de frente, igual",
+    "á trescientas once varas, por «tresmil, cuatrocien-",
+    "tos veinte métros, setecientos milímetros» de fondo,",
+    "igual á tresmil, novecientas cincuenta varas; lin-",
+    "dando por el Sud, con Don Tomás Neughton [?];",
+    "al Este, con Doña Concepcion Diaz de Lescano;",
+    "al Norte, con Don Regino Casas; y al Oeste",
+    "con Don Francisco Lescano: le corresponde por",
+    "haberlo el vendedor heredado de su S.^{ra} madre",
+    "Doña Petrona López (fojas 11 á 13 v.^{ta}, de este esp.^{te})",
+    "En San Andrés de Giles, á los veinticuatro",
+    "dias del mes de Diciembre de mil ochocientos",
+    "setenta y cinco, ante el S.^{r} Juez de Paz de",
+    "ese Partido Don Julio Saraví, Don Francisco",
+    "Lescano, vende á Doña Romualda Galeano",
+    "de Casas, un terreno sito en ese Partido,",
+    "compuesto de: «dosmil, quinientas varas» de fondo,",
+    "por «doscientas sesenta y nueve varas» de frente,",
+    "ó sean «seiscientas setenta y dos mil, quinientas",
+    "varas cuadradas»; lindando por el Norte con",
+    "Don José Barcos; por el Sud, con Don Tomás",
+    "Neughton [?]; por el Este, con la compradora;",
+    "y por el Oeste, con mas terrenos del vendedor,",
+    "á quien le corresponde por haberlo heredado",
+    "de sus S.^{res} padres Don Francisco Lescano y",
+    "Doña Petrona López de Lescano (f. 14 á 15 vuelta.)",
+    "Habiendo fallecido Don Márcos Regino",
+    "Casas, se le adjudica á su esposa Doña Ro-",
+    "mualda Galeano, un terreno de pastoreo com-",
+    "puesto de «seis millones, novecientos ochenta y ocho",
+    "mil, seiscientas cuarenta y ocho varas cuadradas»"
+   ],
+   "interpretacion": "…(= 311 v) por 3420,70 m (= 3950 v), lindero con TOMÁS NAUGHTON (S), CONCEPCIÓN DÍAZ DE LESCANO (E), Regino Casas (N) y Francisco Lescano (O), heredado por Montiel de SU MADRE PETRONA LÓPEZ. (3) Giles, 24/12/1875, ante el JUEZ DE PAZ JULIO SARAVÍ, Francisco Lescano vende a Romualda Galeano de Casas 269 × 2500 v (672.500 v²), lindero con JOSÉ BARCOS (N), Naughton (S) y la compradora (E), heredados de sus padres. Muerto Marcos Regino Casas, se adjudica a su viuda un TERRENO DE PASTOREO de 6.988.648 v²…"
+  },
+  {
+   "titulo": "Folio 2: los tres títulos suman 598,8260 ha; mensura (3/7/1881) por orden del juez Juan San Martín: primero se mide el campo de Francisco Lescano para ubicar dentro las ventas; arranque en el mojón A (esquinero O, N de Marcelino Mesquita, costanero de Simón Cucullo)",
+   "img": "img/f/115/07.jpg",
+   "fuente": "IMG_9735, página derecha",
+   "nota": "",
+   "lineas": [
+    "que es el mismo que este compró á Don Fran-",
+    "cisco Lescano en treinta de Julio de mil",
+    "ochocientos sesenta y nueve (fojas 16 á 20 v.^{ta})",
+    "La superficie que espresan estos tres títulos que",
+    "anteceden, hacen un total de: «quinientas no-",
+    "venta y ocho hectáreas, ochenta y dos áreas,",
+    "sesenta centiareas, mas treinta céntimos de otra».",
+    "—— Mensura. ——",
+    "En el Partido de S.^{n} Andrés de Giles, á",
+    "los tres dias del mes de Julio del año mil",
+    "ochocientos ochenta y uno, comisionado el Agri-",
+    "mensor infrascrito, por el S.^{r} Juez de 1.^{a} Instan-",
+    "cia en lo Civil del Departamento de Centro",
+    "D.^{r} Don Juan S.^{n} Martin, para medir el ter-",
+    "reno perteneciente á Doña Romualda Galea-",
+    "no de Casas, sito en este Partido, procedí",
+    "así, prévia publicacion de avisos en los dia-",
+    "rios que adjunto, y citacion de linderos:",
+    "Como los diferentes títulos de propiedad de terreno",
+    "que posée la S.^{ra} Galeano, espresan que este debe",
+    "ubicarse dentro del que perteneció á Don Fran-",
+    "cisco Lescano, procedí primeramente á medirlo",
+    "para dentro de él ubicar la superficie que",
+    "espresan aquellos; al efecto, me situé en el",
+    "punto que designo por A. en el plano adjunto,",
+    "donde exíste un mojon como esquinero Oeste",
+    "del terreno que iba á medir, Norte del de",
+    "Don Marcelino Mesquita, y costanero del de",
+    "Don Simon Cucullo. Desde A. y con rumbo"
+   ],
+   "interpretacion": "…el que él compró a Lescano en 1869. Los tres títulos suman 598,8260 ha. MENSURA: Giles, 3/7/1881, por comisión del juez JUAN SAN MARTÍN; con avisos en los diarios y citación. Como los títulos dicen que la tierra está DENTRO de la de Francisco Lescano, el agrimensor mide PRIMERO todo ese campo para ubicar después la superficie. Arranca en el mojón A (esquinero O, N de MARCELINO MESQUITA, costanero de SIMÓN CUCULLO)."
+  },
+  {
+   "titulo": "Folio 2 vuelta: lado A-B S 37° 22′ E 6887 m (mojones hallados a 1380,34 m Mesquita/Casey, 2509,4 m Casey/Gerónima Lescano, 3727,4 m Gerónima Lescano, 5115,8 m, 5229 m Dionisia Acuña/Justo Rivas, 5288,6 m y 6023 m); B (esquinero con Justo Rivas, costanero de Francisca Achával); B-C N 51° 38′ E 1364 m",
+   "img": "img/f/115/08.jpg",
+   "fuente": "IMG_9736, página izquierda",
+   "nota": "",
+   "lineas": [
+    "Sud, treinta y siete grados, veintidos minutos",
+    "Este, medí seismil, ochocientos ochenta y siete",
+    "métros, hasta el punto que designo por B, don-",
+    "de exíste un mojon como esquinero comun del ter-",
+    "reno que media y el de Don Justo Rivas, y cos-",
+    "tanero del de Doña Francisca Achaval. En esta",
+    "línea, á mil trescientos ochenta métros, treinta y cua-",
+    "tro centímetros, encontré un mojon costanero del ter-",
+    "reno que media y esquinero del de los S.^{es} Don",
+    "Marcelino Mesquita y Doña Margarita Cá-",
+    "sey; á dosmil quinientos nueve métros, cuatro decí-",
+    "metros, otro, esquinero comun de los terrenos de Doña",
+    "Margarita Casey, y Doña Gerónima Lescano,",
+    "y costanero del que media. A tresmil, setecientos",
+    "veintisiete métros, cuatro decímetros, otro, esquinero",
+    "comun de los terrenos de Doña Gerónima Lescano,",
+    "y costanero del que media. A los «cincomil, cien-",
+    "to quince métros, ocho decímetros», otro mojon, y",
+    "á los cincomil, doscientos veintinueve métros, otro,",
+    "costanero del que media, y esquinero comun de",
+    "los terrenos de Doña Dionisia Acuña, y Don",
+    "Justo Rivas: y á «cinco mil, doscientos ochen-",
+    "ta y ocho métros, seis decímetros, otro mojon;",
+    "y á «seismil veintitres métros»; otro.",
+    "Desde B. y con rumbo Norte, cincuenta y",
+    "un grados, treinta y ocho minutos Este, medí",
+    "mil, trescientos sesenta y cuatro métros, hasta",
+    "el punto que designo por C. En esta línea,",
+    "á quinientos veintiun métros, ocho decímetros, en-",
+    "contré un mojon costanero del terreno que media",
+    "y esquinero comun del de Don Tomas Neughton [?]"
+   ],
+   "interpretacion": "A-B: S 37° 22′ E, 6887 m, hasta B (esquinero con JUSTO RIVAS, costanero de FRANCISCA ACHÁVAL). En la línea, mojones de los vecinos: a 1380,34 m (Mesquita / MARGARITA CASEY), 2509,4 m (Casey / GERÓNIMA LESCANO), 3727,4 m (Gerónima Lescano), 5115,8 m, 5229 m (DIONISIA ACUÑA / Justo Rivas), 5288,6 m y 6023 m. B-C: N 51° 38′ E, 1364 m; a 521,8 m un mojón costanero, esquinero de Tomás Naughton…"
+  },
+  {
+   "titulo": "Folio 3: mojones de la línea B-C desplazados (1,25 m y 1 m a la derecha); C (esquinero con Marcelino Lescano, costanero de Tomás Naughton); C-D N 37° 29′ O 6886 m contra los hijos de Pascual Lescano (mojones a 1707, 2593,8, 3427, 3441 [0,8 m a la izquierda], 4263, 4750,4 y 5144 m) hasta D (Dionisia Lescano / José Pichetto)",
+   "img": "img/f/115/08.jpg",
+   "fuente": "IMG_9736, página derecha",
+   "nota": "",
+   "lineas": [
+    "y del de Doña Francisca Achaval,",
+    "un métro veinticinco centímetros á la derecha;",
+    "y á ochocientos dos métros, dos decímetros, dos",
+    "mojones, un métro á la derecha; y á los métros",
+    "antes espresados, llegué al punto que designo",
+    "por C, donde exíste un mojon como esquinero",
+    "del terreno que media, y del de Don Marcelino",
+    "Lescano, y costanero del de Don Tomás Neughton [?].",
+    "Desde C. y con rumbo Norte, treinta y siete",
+    "grados, veintinueve minutos Oeste, medí, seis-",
+    "mil, ochocientos ochenta y seis métros hasta D,",
+    "donde exíste un mojon como esquinero comun",
+    "de este terreno y del de Doña Dionisia Les-",
+    "cano, y costanero del de Don José Picheto;",
+    "en esta línea, á mil setecientos siete métros, en-",
+    "contré un mojon costanero del terreno que media",
+    "y esquinero comun del de Don Marcelino y",
+    "Don Juan de Dios Lescano: á dosmil quinien-",
+    "tos noventa y tres métros, ocho decímetros, otro;",
+    "y á tresmil, cuatrocientos veintisiete métros, otro,",
+    "esquinero comun de los terrenos de Don Juan",
+    "de Dios y Don Gregorio Lescano, y costanero",
+    "del que media: á los tresmil, cuatrocientos cua-",
+    "renta y un métros, encontré otro mojon, ocho",
+    "decímetros á la izquierda: á los cuatromil,",
+    "doscientos sesenta y tres métros, otro mojon: á",
+    "los cuatromil, setecientos cincuenta métros, cuatro",
+    "decímetros, otro mojon; y á los cincomil, ciento",
+    "cuarenta y cuatro métros, el esquinero comun de",
+    "Don Gregorio y Doña Dionisia Lescano; y á"
+   ],
+   "interpretacion": "…y de Francisca Achával, corrido 1,25 m a la derecha; a 802,2 m DOS mojones, 1 m a la derecha. C (esquinero con MARCELINO LESCANO, costanero de Naughton). C-D: N 37° 29′ O, 6886 m, hasta D (esquinero con DIONISIA LESCANO, costanero de JOSÉ PICHETTO); mojones de los hijos de Pascual Lescano (109): a 1707 m (Marcelino / JUAN DE DIOS), 2593,8 m, 3427 m (Juan de Dios / GREGORIO), 3441 m (otro, 0,8 m a la izquierda), 4263 m, 4750,4 m y 5144 m (Gregorio / Dionisia)…"
+  },
+  {
+   "titulo": "Folio 3 vuelta: mojón a 6036 m; D-A S 51° 38′ O 1346,68 m (esquinero Pichetto/Cucullo a 14,68 m); el trapecio mide 933,2618 ha; ubicación de lo de Casas: A-E S 37° 22′ E 3378,6 m (mojón con José Barcos); E-F N 51° 38′ E 1081 m; F-G S 37° 29′ E…",
+   "img": "img/f/115/09.jpg",
+   "fuente": "IMG_9737, página izquierda",
+   "nota": "",
+   "lineas": [
+    "seismil, treinta y seis métros, otro mojon.",
+    "Desde D. y con rumbo Sud cincuenta y un",
+    "grados, treinta y ocho minutos Oeste, medí",
+    "mil trescientos cuarenta y seis métros, sesenta",
+    "y ocho centímetros, hasta A, donde exíste",
+    "el mojon que me sirvió de punto de arran-",
+    "que. En esta línea, á catorce métros, sesenta",
+    "y ocho decímetros [sic], encontré un mojon, esquinero",
+    "comun de los terrenos de Don José Picheto,",
+    "y Don Simon Cucullo.",
+    "El terreno medido, tiene la forma de un",
+    "trapecio, y una superficie de: novecientas   [al margen: 933 26]",
+    "treinta y tres hectáreas, veintiseis áreas y",
+    "dieciocho centiareas.",
+    "Procedí enseguida á ubicar el terreno cor-",
+    "respondiente á Doña Romualda Galeano",
+    "de Casas, para lo cual, desde el punto A.",
+    "y con rumbo Sud treinta y siete grados, vein-",
+    "tidos minutos Este, medí tresmil, trescientos",
+    "setenta y ocho métros, seis decímetros, hasta el",
+    "punto que designo por E, donde coloqué un",
+    "mojon como esquinero comun del terreno de",
+    "esta y del de Don José Barcos.",
+    "Desde E. y con rumbo Norte cincuenta y",
+    "un grados, treinta y ocho minutos Este, medí",
+    "mil ochenta y un métros, hasta F. donde co-",
+    "loqué otro mojon como esquinero comun del",
+    "terreno de Barcos y del que media.",
+    "Desde F. y con rumbo Sud, treinta y siete",
+    "grados, veintinueve minutos Este, medí"
+   ],
+   "interpretacion": "…y a 6036 m otro. D-A: S 51° 38′ O, 1346,68 m, al mojón de arranque; a 14,68 m el esquinero PICHETTO / CUCULLO. El campo de Francisco Lescano así medido es un TRAPECIO de 933,2618 ha. Luego se ubica lo de Casas: desde A, S 37° 22′ E 3378,6 m hasta E (mojón nuevo con JOSÉ BARCOS); E-F N 51° 38′ E 1081 m (mojón Barcos); F-G S 37° 29′ E…"
+  },
+  {
+   "titulo": "Folio 4: …1303,4 m hasta G; G-H S 51° 38′ O 234,15 m (esquinero con Desiderio Cisterna, costanero de Barcos); H-J S 37° 22′ E 574 m (esquinero Morales/Saraví); J-K S 40° 21′ E 1631,35 m (esquinero con Saraví, costanero de Naughton); K-C N 51° 38′ E 438,35 m; C-D N 37° 29′ O 6886 m; D-A S 51° 38′ O 1346 m…",
+   "img": "img/f/115/09.jpg",
+   "fuente": "IMG_9737, página derecha",
+   "nota": "",
+   "lineas": [
+    "mil trescientos tres métros, cuatro decímetros,",
+    "hasta G. donde coloqué otro mojon.",
+    "Desde G. y con rumbo Sud cincuenta y un",
+    "grados, treinta y ocho minutos Oeste, medí",
+    "doscientos treinta y cuatro métros, quince decí-",
+    "metros [sic] hasta H, donde coloqué otro mojon",
+    "como esquinero comun del terreno que media",
+    "y del de Don Desiderio Cisterna, y cos-",
+    "tanero del de Don José Barcos.",
+    "Desde H. y con rumbo Sud, treinta y siete gra-",
+    "dos, veintidos minutos Este, medí quinientos",
+    "setenta y cuatro métros hasta J, donde colo-",
+    "qué otro mojon como esquinero comun de los",
+    "terrenos pertenecientes á Don Juan Morales,",
+    "á Don Julio Saraví, y al que media.",
+    "Desde J. y con rumbo Sud cuarenta grados",
+    "veintiun minutos Este medí «mil seiscientos treinta",
+    "y un métros, treinta y cinco centím.^{s} hasta K, donde",
+    "coloqué otro mojon como esquinero del terreno",
+    "que media y del de Don Julio Saraví, y",
+    "costanero del de Don Tomás Neughton [?].",
+    "Desde K. y con rumbo Norte cincuenta y",
+    "un grados, treinta y ocho minutos Este,",
+    "medí cuatrocientos treinta y ocho métros, treinta",
+    "y cinco cent.^{s} hasta C., desde donde con rumbo [N.]",
+    "treinta y siete grados, veintinueve minutos Oeste",
+    "medí, seismil, ochocientos ochenta y seis mé-",
+    "tros, hasta D, desde donde con rumbo Sud",
+    "cincuenta y un grados, treinta y ocho minutos",
+    "Oeste, medí mil trescientos cuarenta y seis métros"
+   ],
+   "interpretacion": "…1303,4 m hasta G; G-H S 51° 38′ O 234,15 m (esquinero con DESIDERIO CISTERNA, costanero de Barcos); H-J S 37° 22′ E 574 m (esquinero común de JUAN MORALES, JULIO SARAVÍ y Casas); J-K S 40° 21′ E 1631,35 m (esquinero con Saraví, costanero de Naughton); K-C N 51° 38′ E 438,35 m; C-D N 37° 29′ O 6886 m; D-A S 51° 38′ O 1346,68 m…"
+  },
+  {
+   "titulo": "Folio 4 vuelta: cierre en A; el polígono A-E-F-G-H-J-K-C-D (598,8260 ha) no tiene la forma de los títulos por haber debido ubicar dentro del trapecio las ventas a Barcos, Cisterna y Morales; conformidad; linderos; asistencia de Emilio Casas por su madre; circular y acta de conformidad",
+   "img": "img/f/115/10.jpg",
+   "fuente": "IMG_9738, página izquierda",
+   "nota": "",
+   "lineas": [
+    "sesenta y ocho centímetros, hasta A, donde",
+    "dí por terminada la operacion de mensura.",
+    "El polígono A. E. F. G. H. J. K. C. D. encierra den-",
+    "tro de sus límites la superficie que le correspon-",
+    "de á Doña Romualda Galeano de Casas,",
+    "segun sus títulos, y que es de quinientas",
+    "noventa y ocho hectáreas, ochenta y dos",
+    "áreas, sesenta centiareas, mas treinta centé-",
+    "simos de otra; y si no tiene la forma y di-",
+    "mensiones que aquellos determinan, ha sido",
+    "á causa de haber tenido el infrascrito que",
+    "ubicar dentro del trapecio A. B. C. D. los terre-",
+    "nos correspondientes á Don José Barcos, Don",
+    "Desiderio Cisterna, y Don Juan Morales,",
+    "quienes, así como la S.^{ra} de Casas, se mani-",
+    "festaron conformes con la ubicacion que á sus",
+    "terrenos se dió en esta operacion.",
+    "Linda por el Noreste, Don Marcelino, Don Juan",
+    "de Dios, Don Gregorio, y Doña Dionisia Lescano;",
+    "por el Sudeste, Don Tomás Neughton [?]; por el Sud-",
+    "oeste, Don Julio Saraví, Don José Barco, Doña",
+    "Gerónima Lescano, Doña Margarita Casey,",
+    "y Don Marcelino Mesquita; y por el noroeste,",
+    "Don Isidro Cucullo, y Don José Picheto.",
+    "Asistieron á la mensura Don Emilio Casas, en re-",
+    "presentacion de su S.^{ra} madre Doña Romualda G.",
+    "de Casas, y todos los linderos, unos por sí, y otros",
+    "por medio de apoderados.",
+    "La circular y acta de conformidad que acompaño, ha",
+    "sido firmada por todos los linderos, ó por sus apode-",
+    "rados como se espresa en ellas."
+   ],
+   "interpretacion": "…cierre en A. El polígono de nueve vértices A-E-F-G-H-J-K-C-D encierra las 598,8260 ha de los títulos de Casas; si no tiene «la forma y dimensiones» de los títulos es porque hubo que ubicar dentro del trapecio las ventas a Barcos, Cisterna y Morales; todos, incluida Casas, se declararon CONFORMES. Linderos: NE Marcelino, Juan de Dios, Gregorio y Dionisia Lescano; SE Naughton; SO Saraví, Barco, Gerónima Lescano, Casey y Mesquita; NO ISIDRO [sic] Cucullo y Pichetto. Asistió EMILIO CASAS por su madre; la circular y el acta de conformidad las firmaron todos los linderos o sus apoderados."
+  },
+  {
+   "titulo": "Folio 5: abalizamientos («ángulos á la derecha») desde A, B, C, D, F, G y H: poblaciones de Martín Keen, Romualda Casas y Marcelino Lescano; montes de Naughton, Mesquita y Barcos; torres de la iglesia de Giles y del Cabildo de Mercedes; mojinete de la casa de Justo Rivas",
+   "img": "img/f/115/10.jpg",
+   "fuente": "IMG_9738, página derecha",
+   "nota": "",
+   "lineas": [
+    "—— Avalizamientos. —— 5",
+    "—— Angulos, á la derecha. ——",
+    "A. AB = 0.",
+    "11° 52′ poblacion de D. Martin Keen.",
+    "195° 18′ la torre de la Iglesia de Giles.",
+    "285° 41′ la poblacion de D.^{ña} Romualda Casas.",
+    "B. BC = 0.",
+    "27° 46′ el centro del monte de D. Tomás Neughton [?].",
+    "137° 39′ la torre del Cabildo de Mercedes.",
+    "233° 12′ mojinete N. E. de la casa de Justo Rivas.",
+    "C. CD = 0.",
+    "64° 33′ poblacion Marcelino Lescano.",
+    "144° 11′ el centro del monte de D. Tomás Neughton [?].",
+    "283° 42′ el mojinete de la casa de Justo Rivas.",
+    "D. DA = 0.",
+    "39° 11′ el centro del monte de Mesquita.",
+    "89° 48′ la torre de la Iglesia de Giles.",
+    "F. FG = 0.",
+    "10° 56′ centro del monte de D. José Barco.",
+    "181° 28′ la torre de la Iglesia de Giles.",
+    "347° 29′ el centro del monte de D. Tomás Neughton [?].",
+    "G. GH = 0.",
+    "87° 24′ el centro del monte de Barco.",
+    "92° 57′ la torre de la Iglesia de Giles.",
+    "253° 21′ el centro del monte de Neughton [?].",
+    "H. HJ = 0.",
+    "43° 9′ la torre del Cabildo de Mercedes.",
+    "191° 3′ el centro del monte de Barco.",
+    "319° 19′ \" \" de Neughton [?]."
+   ],
+   "interpretacion": "ABALIZAMIENTOS en «ángulos a la derecha» desde el lado de salida: desde A, la POBLACIÓN DE MARTÍN KEEN (11° 52′), la TORRE DE LA IGLESIA DE GILES (195° 18′) y la POBLACIÓN DE ROMUALDA CASAS (285° 41′); desde B, el MONTE de Naughton, la TORRE DEL CABILDO DE MERCEDES y el MOJINETE NE DE LA CASA DE JUSTO RIVAS; desde C, la población de Marcelino Lescano, el monte de Naughton y la casa de Rivas; desde D, el MONTE DE MESQUITA y la iglesia de Giles; desde F, G y H los mismos de 114 (montes de Barco y Naughton, iglesia, Cabildo)."
+  },
+  {
+   "titulo": "Folio 5 vuelta: abalizamiento desde K; rumbos verdaderos, variación 11° 23′ NE; firma; presentación al Departamento de Ingenieros (22/8/1881) y dictamen (16/9/1881)",
+   "img": "img/f/115/11.jpg",
+   "fuente": "IMG_9739, página izquierda",
+   "nota": "",
+   "lineas": [
+    "K. KC = 0.",
+    "41° 56′ la torre del Cabildo de Mercedes.",
+    "155° 59′ la poblacion de D. Joaquin Oliva.",
+    "322° 11′ el centro del monte de D. Tomás Neughton [?].",
+    "Todos los rumbos son verdaderos, y la varia-",
+    "cion de la aguja ha sido calculada en once",
+    "grados, veintitres minutos Noreste.",
+    "Agustin Y. [?] Rodriguez [rúbrica]",
+    "Agosto 22/81 —",
+    "Presentada en la fecha al Depar-",
+    "tamento de Ingenieros —",
+    "J. Lavarri [?] [rúbrica]",
+    "S.^{or} Juez de 1.^{a} Instancia:",
+    "El Departamento de Inge-",
+    "nieros ha examinado la men-",
+    "sura practicada por el Agri-",
+    "mensor D.^{n} Agustin Y. [?] Rodri-",
+    "guez del terreno perteneciente",
+    "á D.^{a} Romualda Galeano de",
+    "Casas en Giles y hallandola",
+    "bien ejecutada en la parte fa-",
+    "cultativa la considera en estado",
+    "de ser aprobada judicialmente",
+    "Buenos Aires Setbre 16/81.",
+    "Lavalle",
+    "Encina   Lagos [?]"
+   ],
+   "interpretacion": "Desde K: Cabildo de Mercedes, POBLACIÓN DE JOAQUÍN OLIVA y monte de Naughton. Rumbos verdaderos; variación 11° 23′ NE. Firma Agustín Y. [?] Rodríguez. Presentada al Departamento de Ingenieros el 22/8/1881 (J. Lavarri [?]), el mismo día que la de Saraví; dictamen del 16/9/1881 (Lavalle, Encina, Lagos [?]): bien ejecutada en la parte facultativa."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano general del trapecio A-B-C-D: Romualda Galeano de Casas, Barcos, Cisterna y Morales, Saraví (A. Y. Rodríguez, 1881)",
+   "img": "img/f/115/03.jpg",
+   "fuente": "IMG_9740.JPG (pliego en tela, f. 6)",
+   "orientacion": "Mismo plano que el dup. 114 (otro ejemplar): marco de esquinas cortadas; norte en diagonal y luna creciente; escala 0,001 = 20 m; firma «Giles Agosto de 1881 · Agustín Y. Rodríguez».",
+   "interpretacion": "La faja de 6887 × 1347 m del campo de Francisco Lescano, rotulada ROMUALDA GALEANO DE CASAS (598 ha 82 a 60,30 ca), con los tres lotes vendidos encajados al SE sobre el lado A-B: José Barcos (141,07 ha), D. Cisterna y Juan Morales (48,75 ha) y Julio Saraví (144,62 ha). La parte de Casas forma un polígono en «L» de nueve vértices: el cuerpo grande A-E-…-D y una franja de 234 a 438 m sobre el lado NE (G-H-J-K-C). Linderos: Pichetto, Dionisia, Gregorio, Juan de Dios y Marcelino Lescano al NE; Simón Cucullo al NO; Mezquita, Casey, Gerónima Lescano, Dionisia Acuña y Justo Rivas al SO; Tomás Naughton y Francisca Achával al SE.",
+   "referencias": [
+    [
+     "A-B",
+     "S 37° 22′ E · 6887 m · mojones vecinos a 1380,34 · 2509,4 · 3727,4 · 5229 m"
+    ],
+    [
+     "B-C",
+     "N 51° 38′ E · 1364 m · contra Naughton y Achával (mojones corridos 1-1,25 m)"
+    ],
+    [
+     "C-D",
+     "N 37° 29′ O · 6886 m · contra los cuatro hijos de Pascual Lescano y Pichetto"
+    ],
+    [
+     "D-A",
+     "S 51° 38′ O · 1346,68 m · contra Cucullo"
+    ],
+    [
+     "A-E",
+     "S 37° 22′ E · 3378,6 m (fin de Casas sobre A-B)"
+    ],
+    [
+     "E-F-G-H",
+     "Barcos: 1081 · 1303,4 · 234,15 (hasta H) m"
+    ],
+    [
+     "H-J / J-K",
+     "S 37° 22′ E 574 m / S 40° 21′ E 1631,35 m"
+    ],
+    [
+     "K-C",
+     "N 51° 38′ E · 438,35 m"
+    ],
+    [
+     "Superficies",
+     "Trapecio 933,26 ha = Casas 598,83 + Barcos 141,07 + Cisterna-Morales 48,75 + Saraví 144,62"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle izquierdo",
+   "img": "img/f/115/04.jpg",
+   "fuente": "IMG_9741.JPG",
+   "orientacion": "",
+   "interpretacion": "Cuerpo NO del campo de Casas, con Pichetto, Dionisia y Gregorio Lescano arriba, Cucullo a la izquierda y Mezquita, Casey y Gerónima Lescano abajo.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle derecho",
+   "img": "img/f/115/05.jpg",
+   "fuente": "IMG_9743.JPG",
+   "orientacion": "",
+   "interpretacion": "Lotes de Barcos, Cisterna-Morales y Saraví; franja de Casas por encima; Naughton y Achával al SE; Dionisia Acuña y Justo Rivas al SO.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Gemela de la 114: una sola operación en dos duplicados",
+   "texto": "El 3/7/1881 Agustín Y. [?] Rodríguez mide para Casas TODO el campo de Francisco Lescano (trapecio de 933,26 ha) y ubica dentro las ventas; el 6/8 vuelve para Saraví sobre los mismos mojones. Ambas se presentan el 22/8 y se dictaminan el 16/9/1881. El plano es el mismo en los dos duplicados. Leer las fichas 114 y 115 juntas."
+  },
+  {
+   "titulo": "Cómo se arma una propiedad de 598 ha",
+   "texto": "Tres títulos: compra de Marcos Regino Casas a Francisco Lescano (1869, 1560 × 3900 v), compra de su viuda a Ciriaco Montiel (1873, 311 × 3950 v) y otra a Lescano ante el juez de paz Julio Saraví (1875, 269 × 2500 v); más la adjudicación hereditaria a la viuda. Las medidas de título están en metros con milímetros Y en varas: la conversión ya es rutina en 1869. Como los títulos son lineales (frente × fondo) y el campo estaba vendido a varios, el resultado no tiene «la forma y dimensiones» de los títulos sino un polígono de nueve vértices aceptado por conformidad."
+  },
+  {
+   "titulo": "Montiel y saraví: la otra cara de la 114",
+   "texto": "Ciriaco Montiel heredó de SU MADRE Petrona López (la esposa de Francisco Lescano): por eso aparecía como poseedor dentro del campo en 1866 (114). Y Julio Saraví, el que en 1881 reclama tierra vendida «por error», fue en 1875 el JUEZ DE PAZ de Giles ante quien Lescano vendió a Casas: conocía de primera mano el circuito de ventas que después impugnó."
+  },
+  {
+   "titulo": "«sobras de virán [?]»",
+   "texto": "El título de 1869 dice que el campo linda al N con «sobras de Virán [?]». Lo más probable es que sea VIVAR (la merced de Díaz de Vivar, cuya línea con las suertes de Suero organiza las Fichas 032, 035, 036 y 042) mal copiado; el título del 1838 (109, 114) decía en cambio «las suertes principales del Arroyo de Giles» por el fondo. Verificar en el expediente."
+  },
+  {
+   "titulo": "Mojones corridos y señales del paisaje",
+   "texto": "En la línea B-C se hallan mojones corridos 1,25 m y 1 m a la derecha, y en C-D uno 0,8 m a la izquierda: el agrimensor los registra sin moverlos (cf. el acta de corrección de mojones de fierro en 108). Las visuales usan poblaciones (Martín Keen, Romualda Casas, Marcelino Lescano, Joaquín Oliva), montes (Naughton, Mesquita, Barco) y la casa de Justo Rivas, además de las torres de Giles y Mercedes: una malla de chacras arboladas."
+  },
+  {
+   "titulo": "Lecturas dudosas",
+   "texto": "«Virán [?]»; «Nicanor S. [?] Ponsatí»; «Agustín Y. [?]»; «J. Lavarri [?]»; «Lagos [?]»; «Neughton» = Naughton; «Simón» Cucullo en el texto y el plano pero «Isidro» en los linderos finales; «catorce métros, sesenta y ocho decímetros» y «doscientos treinta y cuatro métros, quince decímetros» (sic: centímetros)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Qué es «Virán»? ¿Quién es Martín Keen (¿Kean, irlandés?) y dónde estaba su población? ¿Se aprobaron judicialmente 114 y 115? ¿Cómo se repartió el campo de Casas entre sus hijos (Emilio Casas)?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Romualda Galeano de Casas",
+   "rol": "Propietaria",
+   "texto": "Viuda de Marcos Regino Casas; reúne 598,83 ha por herencia y compras (1873, 1875). Su hijo Emilio Casas la representa en 1881. El apellido Galeano es de los antiguos pobladores de Giles (Martín, Sotero, L. Galeano: 003, 008, 048). Lindera en 068, 095 y 109.",
+   "fuentes": "Dup. 115; Fichas 003, 068, 095, 109."
+  },
+  {
+   "nombre": "Marcos Regino Casas · Emilio Casas",
+   "rol": "Comprador (1869) · hijo",
+   "texto": "Marcos compra a Lescano en 1869 y muere antes de 1873. Emilio asiste a la mensura. Sin otros datos.",
+   "fuentes": "Dup. 115."
+  },
+  {
+   "nombre": "Agustín Y. [?] Rodríguez",
+   "rol": "Agrimensor",
+   "texto": "Autor de las mensuras gemelas 114 y 115 (julio-agosto de 1881). Sin datos en la búsqueda web breve.",
+   "fuentes": "Dup. 114, 115."
+  },
+  {
+   "nombre": "Ciriaco Montiel",
+   "rol": "Vendedor (1873)",
+   "texto": "Hijo de Petrona López (esposa de Francisco Lescano), de quien heredó 311 × 3950 v; vende a Lescano (hijo) y a Casas.",
+   "fuentes": "Dup. 114, 115."
+  },
+  {
+   "nombre": "Francisco Lescano (hijo) · Concepción Díaz de Lescano",
+   "rol": "Vendedor · lindera",
+   "texto": "Francisco, albacea de la testamentaría de sus padres, vende a Casas, Barcos, Cisterna y Morales. Concepción Díaz de Lescano: lindera E en 1873, quizá su esposa.",
+   "fuentes": "Dup. 114, 115."
+  },
+  {
+   "nombre": "Julio Saraví",
+   "rol": "Juez de paz (1875) · lindero",
+   "texto": "Juez de paz de Giles en diciembre de 1875; en 1881 cesionario de Dionisia Gelves (114).",
+   "fuentes": "Dup. 114, 115."
+  },
+  {
+   "nombre": "Martín Keen · Joaquín Oliva · Margarita Casey · Marcelino Mesquita · Simón/Isidro Cucullo",
+   "rol": "Vecinos",
+   "texto": "Poblaciones usadas como visuales (Keen, Oliva) y linderos SO y NO. Casey y Keen, apellidos irlandeses; Mesquita/Mezquita cf. 086.",
+   "fuentes": "Dup. 115; Ficha 086."
+  },
+  {
+   "nombre": "Nicanor S. [?] Ponsatí · Juan San Martín · Lavalle",
+   "rol": "Escribano de mercedes · juez · d. i.",
+   "texto": "Ponsatí autoriza las escrituras de 1869 y 1873 en Mercedes; San Martín, juez civil del Centro; dictamen Lavalle–Encina–Lagos [?].",
+   "fuentes": "Dup. 115; Fichas 109, 113."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/115/02.jpg",
+  "fuente": "IMG_9733.JPG (girada 90°)",
+  "lineas": [
+   "San Andrés de Giles",
+   "N.^{o} 115.",
+   "Mensura.",
+   "del terreno perteneciente á",
+   "D.^{ña} Romualda G. de Casas.",
+   "sito en el.",
+   "«Partido de Giles.»",
+   "Por el Agrimensor.",
+   "Agustin Y. [?] Rodriguez.",
+   "Agosto de 1881.",
+   "8.30.347 [lápiz]",
+   "2704 [lápiz]",
+   "[al margen, a lápiz: «[...]ados los rumbos [?]»]"
+  ]
+ },
+ "titulo": "Romualda Galeano de Casas",
+ "estado": "Transcripta (10 hojas, 295 renglones), 3 láminas"
+}

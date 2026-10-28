@@ -1,0 +1,714 @@
+{
+ "carpeta": "117",
+ "carpeta_nombre": "Carpeta 117",
+ "archivo": "Ficha 117 - Testamentaría de José M.ª Rodríguez (1881).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (rincón SO, cañada / arroyo de Moyano)",
+  "N.º de duplicado": "117",
+  "Propietario / solicitante": "Testamentaría de José M.ª Rodríguez",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1881",
+  "Fecha de la diligencia": "Mensura desde el 5/10/1881, fechada 10/10; D. I. 8/11/1881",
+  "Ubicación": "Ex enfiteusis Barangot / Mariano Lima sobre la cañada de Moyano",
+  "Orden judicial": "Juez de 1.ª Inst. en lo Civil, Dep. del Centro, Dr. Juan San Martín (5/9/1881)",
+  "Vendedor / antecesor": "Barangot 1825 → C. Casco [?] → M. Lima (1832) → Eustaquia Lima y J. M.ª Rodríguez",
+  "Linderos citados": "J. Barcos · P. M. de Guzmán · M. y C. F. Lima · A. Casado · Z. Costa · S. E. Unzué",
+  "Medidas": "Octógono de 1243,65 ha; divisoria C-K 1456 / K-L 2121 m; 520,58 + 723,07 ha",
+  "Rumbos": "N 45° 57′ O · S 44° 3′ O · N 44° 23′ E; var. 12° NE",
+  "Referencia de archivo": "Dup. 117; mensura de Eguía 1861; Saubidet (Aceituna); copia 1936"
+ },
+ "metricas": {
+  "superficie_ha": "1243,65 (520,58 + 723,07)",
+  "hitos": "Mojones de Eguía 1861; casa/estancia; estancia San Jacinto; almacén; poblaciones",
+  "aguas": "Arroyo (cañada) de Moyano, con laguna y bañados"
+ },
+ "sintesis": "Duplicado completo (títulos, mensura, división, abalizamiento, dictamen) con plano y copia de 1936. En octubre de 1881 Carlos Schuster mide y divide el campo de la testamentaría de José María Rodríguez y Eustaquia Lima —parte de la enfiteusis de Barangot / Mariano Lima de 1825 sobre la cañada de Moyano, más compras a parientes Lima en 1855-59—: un octógono de 1243,65 ha que se parte en dos fracciones desiguales para las herederas María (520,58 ha) y Mauricia Rodríguez de Servat (723,07 ha). Se pide la mensura porque los mojones de Eguía (1861) se perdieron y por la Ley de Cercos. El arroyo de Moyano forma una laguna donde quedó un mojón.",
+ "caratula": {
+  "img": "img/f/117/01.jpg",
+  "fuente": "IMG_9754.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "117"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "José María Rodríguez"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1881"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: encabezado y extracto de títulos (enfiteusis de Juan Pedro Barangot sobre la cañada de Moyano, 10/10/1825; mensura de Simonin 1826; Carlos Casco → Mariano Lima; venta del Gobierno a Lima 23/1/1832; hijuelas de Eustaquia Lima; mensura de Eguía de 1861)",
+   "img": "img/f/117/07.jpg",
+   "fuente": "IMG_9756 (girada 90°)",
+   "nota": "Letra cursiva redonda grande; folio sellado «1». Tomas 9757-9761 de doble página.",
+   "lineas": [
+    "Mensura y division del terreno de",
+    "la Testamentaria de Don José María",
+    "Rodriguez.",
+    "Estracto de títulos.",
+    "1825. Octubre 10. El Gobierno concedió en",
+    "enfiteusis un terreno á D. Juan Pedro Ba-",
+    "rangot en el partido de la Guardia de",
+    "Luján sobre la cañada de Moyano; me-",
+    "dido en 1826 por el agrimensor Simo-",
+    "nin; resultó de dos y cuarto leguas cua-",
+    "dradas. — Barangot trasmitió su derecho",
+    "á Don Carlos Casco [?], y éste á Don Mariano",
+    "Lima á cuyo nombre se otorgó la escritura",
+    "enfitéutica.",
+    "1832. Enero 23. El Gobierno de la Provin-",
+    "cia vendió el anterior terreno á Don Maria-",
+    "no Lima.",
+    "Por fallecimiento de Don Mariano Lima",
+    "se dividió dicho terreno entre sus hijos.",
+    "Hijuela paterna de la heredera Doña",
+    "Eustaquia Lima —",
+    "Quinientas cincuenta y cuatro y media",
+    "varas de terreno que se le adjudica etc.",
+    "La hijuela materna, que no está en el",
+    "espediente, debe constar de seiscientas",
+    "cincuenta varas de frente, formando",
+    "con la anterior un total de mil trescien-",
+    "tas cuatro y media varas, que dice el",
+    "S.^{r} Eguía en su estracto de la mensura",
+    "que practicó para los herederos de Don José",
+    "María Rodriguez el año de 1861 en el mes",
+    "de Junio."
+   ],
+   "interpretacion": "EXTRACTO DE TÍTULOS. 10/10/1825: el Gobierno concede EN ENFITEUSIS a JUAN PEDRO BARANGOT un terreno en la Guardia de Luján SOBRE LA CAÑADA DE MOYANO, medido en 1826 por el agrimensor SIMONIN: 2¼ leguas cuadradas. Barangot transfiere su derecho a CARLOS CASCO [?] y éste a MARIANO LIMA, a cuyo nombre se otorga la escritura enfitéutica. 23/1/1832: el Gobierno VENDE el terreno a Mariano Lima. Muerto éste, se divide entre sus hijos. Hijuela paterna de EUSTAQUIA LIMA: 554½ varas de frente. La materna (que no está en el expediente) sería de 650 v: total 1304½ v, según el extracto de MANUEL EGUÍA en su mensura de junio de 1861 para los herederos de José María Rodríguez."
+  },
+  {
+   "titulo": "Folio 1 vuelta: compras de José María Rodríguez (Teodora [?] Contreras 1855; Domingo Lima 1857 y 1859); el cambio de tierra de 1861 con Silverio Aceituna para dejar la «casa de azotea» de los menores en su terreno (Eguía)",
+   "img": "img/f/117/08.jpg",
+   "fuente": "IMG_9757, página izquierda",
+   "nota": "",
+   "lineas": [
+    "1855. Febrero 11. D.^{ña} Teodora [?] Contreras vende",
+    "á Don José María Rodriguez doscientos cin-",
+    "cuenta varas de terreno de pastoreo, de",
+    "frente, con el fondo que le corresponda, cu-",
+    "yo terreno lo hubo en su lejítima ma-",
+    "terna por fallecimiento de su señora ma-",
+    "dre D.^{ña} Micaela Lima de Contreras.",
+    "1857. Abril 29. Don Domingo Lima vende",
+    "á Don José María Rodriguez ochocientas",
+    "noventa y cinco varas de frente y se-",
+    "tecientas cincuenta de fondo, cuyo te-",
+    "rreno le pertenece en propiedad por le-",
+    "jítima de su S.^{ra} madre D.^{ña} Juana Hur-",
+    "tado de Lima.",
+    "1859. Setiembre 20. El mismo S.^{r} Lima vende",
+    "al mismo S.^{r} Rodriguez ochocientas noven-",
+    "ta y cinco varas de frente y dos mil",
+    "doscientas cincuenta de fondo.",
+    "En el estracto de títulos que hace el A-",
+    "grimensor Don Manuel Eguía dice: «En",
+    "«Febrero del presente año (1861) en ocasion",
+    "«de la mensura del terreno de Don Silverio",
+    "«Aceituna, celebró éste un cámbio de terreno",
+    "«con Don Federico Napoleon, como tutor de",
+    "«los menores hijos de Rodriguez, el cual tuvo",
+    "«por objeto dejar la casa de azotea de los",
+    "«menores en el terreno de su propiedad.",
+    "«Dió, pues, Don Silverio Aceituna á los meno-",
+    "«res Rodriguez ochocientas noventa y cinco",
+    "«varas de frente con setecientas cincuenta",
+    "«de fondo sobre el lado N. O. de su te-",
+    "«rreno donde se comprende la citada po-",
+    "«blacion de los menores, y recibió de estos",
+    "«igual superficie en un paralelógramo",
+    "«rectángulo de doscientas noventa y ocho"
+   ],
+   "interpretacion": "Compras de JOSÉ MARÍA RODRÍGUEZ (esposo de Eustaquia Lima): 11/2/1855, a TEODORA [?] CONTRERAS, 250 v de frente heredadas de su madre MICAELA LIMA DE CONTRERAS; 29/4/1857, a DOMINGO LIMA, 895 × 750 v (legítima de su madre JUANA HURTADO DE LIMA); 20/9/1859, al mismo, 895 × 2250 v. Cita de Eguía (1861): en febrero de ese año, al medirse el campo de SILVERIO ACEITUNA, éste hizo un CAMBIO DE TIERRA con FEDERICO NAPOLEÓN, tutor de los menores Rodríguez, para que la CASA DE AZOTEA de los menores quedara dentro de su propiedad: Aceituna dio 895 × 750 v sobre su lado NO, donde estaba la población, y recibió igual superficie en un rectángulo de 298,2…"
+  },
+  {
+   "titulo": "Folio 2: …con Saturnino Unzué; nuevo amojonamiento de Aceituna por Pedro Saubidet; pedido de Santiago Mautalen (29/8/1881): los mojones de Eguía (1861) ya no existen, la Ley de Cercos y la división entre dos herederos obligan a medir de nuevo; nombramiento (5/9/1881); comienzo de la mensura",
+   "img": "img/f/117/08.jpg",
+   "fuente": "IMG_9757, página derecha",
+   "nota": "",
+   "lineas": [
+    "«varas y dos décimas de frente al S. E.",
+    "«y linda Don Saturnino Unzué, con dos mil",
+    "«doscientas cincuenta de fondo al N. E. Ce-",
+    "«lebrado el convenio se procedió á la mensura",
+    "«y amojonamiento del terreno de Aceituna",
+    "«bajo la nueva forma por el Agrimensor",
+    "«Don Pedro Saubidet.»",
+    "1881. Agosto 29. Don Santiago Mautalen",
+    "por la representacion que ejerce en la",
+    "testamentaria de los cónyuges Don José",
+    "M.^{a} Rodriguez y D.^{ña} Eustaquia Lima,",
+    "y de Don José Eliseo Rodriguez, se presenta",
+    "al S.^{r} Juez de 1.^{a} Instancia en lo Civil",
+    "del Departamento del Centro, esponiendo",
+    "que, sin embargo de haber sido medido",
+    "por el Agrimensor Don Manuel Eguía",
+    "el año 1861, no existen hoy los mojones;",
+    "y la Ley de Cercos, y la division en dos",
+    "fracciones que hay que practicar de su",
+    "campo para los dos únicos herederos, hace",
+    "indispensable se mida y amojone nueva-",
+    "mente, proponiendo para esta operacion",
+    "al Agrimensor que suscribe.",
+    "1881. Setiembre 5. El S.^{r} Juez ha por nom-",
+    "brado al Agrimensor propuesto y en",
+    "Setiembre 10, tomé antecedentes del Depar-",
+    "tamento de Ingenieros.",
+    "Mensura",
+    "Comisionado yo, el Agrimensor público",
+    "que firma, por auto del S.^{r} Juez de 1.^{a}",
+    "Instancia en lo Civil del Departamento",
+    "del Centro, D.^{r} Don Juan San Martin, de",
+    "fecha 5 de Setiembre del corriente año,",
+    "para medir y dividir el campo de la",
+    "testamentaria de Don José M.^{a} Rodriguez",
+    "situado en el partido de Giles."
+   ],
+   "interpretacion": "…× 2250 v al SE, lindero con SATURNINO UNZUÉ; hecho el convenio, PEDRO SAUBIDET amojonó el campo de Aceituna «bajo la nueva forma». 29/8/1881: SANTIAGO MAUTALEN, por la testamentaría de los cónyuges José María Rodríguez y Eustaquia Lima y de JOSÉ ELISEO RODRÍGUEZ, pide al juez del Centro una nueva mensura porque los MOJONES DE EGUÍA (1861) YA NO EXISTEN y porque LA LEY DE CERCOS y la división entre los DOS ÚNICOS HEREDEROS lo hacen indispensable. 5/9: el juez JUAN SAN MARTÍN nombra a Schuster; 10/9: antecedentes. Comienza la mensura."
+  },
+  {
+   "titulo": "Folio 2 vuelta: citación para el 5/10/1881 y edictos (art. 615); A (ángulo E, S del ex Aceituna hoy José Barcos) – B N 45° 57′ O 1949 m contra Barcos (mojón a 1080 m); B-C N 43° 03′ [O, sic] 1036 m contra Barcos hasta C (esquinero de Petrona M. de Guzmán); C-D N 45° 57′ O 3249 m contra Guzmán y Manuel Lima",
+   "img": "img/f/117/09.jpg",
+   "fuente": "IMG_9758, página izquierda",
+   "nota": "",
+   "lineas": [
+    "Hecha la citacion de los linderos para dar",
+    "comienzo á la mensura el dia 5 del co-",
+    "rriente mes de Octubre, como consta de la",
+    "circular de citacion que original se a-",
+    "compaña al espediente, y publicados los",
+    "edictos como lo determina la Ley de Pro-",
+    "cedimientos en su art. 615, se acompañan",
+    "tambien los diarios en que han sido pu-",
+    "blicados dichos edictos. Procedí á dar",
+    "principio á la mensura en el mojon",
+    "del ángulo Este de este terreno y Sud del",
+    "que fué de Aceituna, hoy de Don José Barcos,",
+    "letra A del plano, y por el rumbo al Norte",
+    "cuarenta y cinco grados cincuenta y siete",
+    "minutos Oeste medí mil novecientos",
+    "cuarenta y nueve metros (N. 45° 57′ O =",
+    "1.949) y dí con el mojon B de un ángulo",
+    "entrante del terreno que se mide y Oeste de",
+    "Barcos; se deslinda en esta línea con Don José",
+    "Barcos, y á los mil ochenta metros puse",
+    "un mojon costanero.",
+    "Desde el mojon B por el rumbo al Norte",
+    "cuarenta y tres grados tres minutos Oeste [sic] =",
+    "(N. 43° 03′ O) deslindando con el mismo",
+    "Barcos se midieron mil treinta y seis",
+    "metros (1.036 m.) y se llegó al mojon",
+    "C del ángulo Norte p.^{a} Barcos y costanero",
+    "para D.^{ña} Petrona M. de Guzman, tambien",
+    "de otro ángulo Este del terreno que se mide.",
+    "Desde el mojon C por el rumbo al Norte",
+    "cuarenta y cinco grados cincuenta y siete",
+    "minutos Oeste (N. 45° 57′ O) deslindando",
+    "con la S.^{ra} Guzman y Don Manuel Lima,",
+    "se midieron tres mil doscientos cuarenta",
+    "y nueve metros (3.249 m.) y se llegó al",
+    "mojon D, de un ángulo Norte del terreno"
+   ],
+   "interpretacion": "Citación para el 5/10/1881 y edictos (art. 615). Desde A (ángulo E; S del campo que fue de Aceituna, HOY DE JOSÉ BARCOS): A-B N 45° 57′ O 1949 m contra Barcos (mojón costanero a 1080 m), hasta B, ángulo ENTRANTE. B-C 1036 m contra Barcos hasta C (ángulo N de Barcos, costanero de PETRONA M. DE GUZMÁN); el texto dice «N 43° 3′ O», pero el plano rotula N 44° 3′ E, que es lo geométricamente coherente. C-D N 45° 57′ O 3249 m contra Guzmán y MANUEL LIMA…"
+  },
+  {
+   "titulo": "Folio 3: D (costanero de Manuel Lima, E de Celedonio F. Lima; mojones a 650 y 2229 m); D-E S 44° 03′ O 775 m contra Celedonio F. Lima hasta E, en una LAGUNA que forma el arroyo de Moyano; E-F N 45° 57′ O 2536 m hasta el costado SE de Agustín Casado (mojones de Eguía a 649,5 y 2498 m)",
+   "img": "img/f/117/09.jpg",
+   "fuente": "IMG_9758, página derecha",
+   "nota": "",
+   "lineas": [
+    "que se mide, costanero de D. Manuel Lima,",
+    "y Este de Don Celedonio F. Lima. En esta",
+    "línea á los seiscientos cincuenta metros (650 m)",
+    "se encontró el mojon que divide á la S.^{ra}",
+    "Guzman de Don M. Lima, y á dos mil",
+    "doscientos veinte y nueve metros (2.229 m.)",
+    "un mojon costanero.",
+    "Desde el mojon D al Sud cuarenta y",
+    "cuatro grados tres minutos Oeste (S 44° 03′ O)",
+    "deslindando con Don Celedonio F. Lima se",
+    "midieron setecientos setenta y cinco metros",
+    "(775 m.) y se colocó el mojon E, de un án-",
+    "gulo entrante del terreno que se mide, el cual",
+    "queda en una laguna que forma el arroyo",
+    "de Moyano. Este mojon es tambien del",
+    "ángulo Sud del terreno de Don Celedonio",
+    "F. Lima.",
+    "Desde el último mojon arribado letra E por",
+    "el rumbo al Norte cuarenta y cinco grados",
+    "cincuenta y siete minutos Oeste (N. 45° 57′ O.)",
+    "deslindando con el mismo S.^{r} Lima se mi-",
+    "dieron dos mil quinientos treinta y seis",
+    "metros (2.536 m.) hasta el punto de inter-",
+    "seccion del costado Sud-Este del terreno",
+    "de Don Agustin Casado y Nor-Oeste del",
+    "total del campo que fué de Don Mariano",
+    "Lima hoy sus herederos; en el punto arribado",
+    "puse el mojon del ángulo Norte del terreno",
+    "que mido señalado con F. En esta línea",
+    "se encontró un mojon á los seis ~~mil cua-~~ ^{cientos cua-}",
+    "^{renta y nueve metros cinco decímetros} ~~trocientos noventa y cinco metros~~ (649,5 m.)",
+    "puesto por Eguía, y otro á los dos mil",
+    "cuatrocientos noventa y ocho metros (2.498 m.)",
+    "tambien puesto por el S.^{r} Eguía, como esqui-",
+    "nero del campo que se mide, pero que no"
+   ],
+   "interpretacion": "…hasta D (costanero de Manuel Lima, E de CELEDONIO F. LIMA); mojones a 650 m (Guzmán/M. Lima) y 2229 m. D-E S 44° 3′ O 775 m contra Celedonio F. Lima hasta E, ángulo entrante, que QUEDA EN UNA LAGUNA QUE FORMA EL ARROYO DE MOYANO. E-F N 45° 57′ O 2536 m contra el mismo Lima hasta cortar el costado SE de AGUSTÍN CASADO, límite NO de todo el campo que fue de MARIANO LIMA (mojón F); en la línea, mojones de Eguía a 649,5 m y a 2498 m, éste como esquinero pero…"
+  },
+  {
+   "titulo": "Folio 3 vuelta: el mojón de Eguía de 2498 m «no está en el lugar que le corresponde»; F-G S 44° 52′ O 1347 m contra Casado hasta G (ángulo N de Zoilo Costa, puesto por Schuster en la mensura de éste); G-H S 45° 57′ E 7748 m contra Costa y los herederos de Serapio Lima (mojones de Eguía a 1357, 2657, 5261 y 6563 m; de Schuster a 2598 m); H (esquinero con Saturnino E. Unzué); H-A N 44° 23′ E…",
+   "img": "img/f/117/10.jpg",
+   "fuente": "IMG_9759, página izquierda",
+   "nota": "",
+   "lineas": [
+    "está en el lugar que le corresponde.",
+    "Desde el mojon F por el rumbo al Sud cua-",
+    "renta y cuatro grados cincuenta y dos minutos",
+    "Oeste (S 44° 52′ O) deslindando con el S.^{r} Ca-",
+    "sado, con mil trescientos cuarenta y siete",
+    "metros llegué al mojon del ángulo Norte",
+    "del terreno de Don Zoilo Costa, puesto por",
+    "mí en la mensura que practiqué del",
+    "terreno de este S.^{r} y es Oeste para el terre-",
+    "no que mido, y costanero para Casado; vá",
+    "señalado con la letra G.",
+    "Desde este mojon (G) por el rumbo al Sud",
+    "cuarenta y cinco grados cincuenta y siete",
+    "minutos Este (S. 45° 57′ E) deslindando",
+    "con terreno de Costa y de los herederos",
+    "de Don Serápio Lima, medí siete mil se-",
+    "tecientos cuarenta y ocho metros, con cuya",
+    "distancia llegué al mojon del ángulo Sud",
+    "del terreno que mido, Este para los herede-",
+    "ros de Don Serápio Lima y costanero para",
+    "Don Saturnino E. Unzué (letra H). En esta",
+    "línea se encontraron á mil trescientos",
+    "cincuenta y siete, dos mil seiscientos",
+    "cincuenta y siete, cinco mil doscien-",
+    "tos sesenta y uno y seis mil quinientos",
+    "sesenta y tres metros, mojones costane-",
+    "ros puestos por Eguía, y á dos mil qui-",
+    "nientos noventa y ocho otro puesto por",
+    "mí en la mensura del campo de Don",
+    "Zoilo Costa, que divide con los herederos",
+    "de Don Serápio Lima; y por último",
+    "Desde el mojon del ángulo Sud letra H, por",
+    "el rumbo al Norte cuarenta y cuatro grados",
+    "veinte y tres minutos Este, (N 44° 23′ E.) des-",
+    "lindando con campo de Don Saturnino E. Unzué,",
+    "se midieron hasta el mojon de arranque mil"
+   ],
+   "interpretacion": "…«no está en el lugar que le corresponde». F-G S 44° 52′ O 1347 m contra Casado hasta G, ángulo N de ZOILO COSTA, mojón puesto por el propio Schuster en su mensura de Costa (107). G-H S 45° 57′ E 7748 m contra Costa y los herederos de SERAPIO LIMA, hasta H (E de éstos, costanero de SATURNINO E. UNZUÉ); mojones de Eguía a 1357, 2657, 5261 y 6563 m y uno de Schuster a 2598 m (división Costa / Serapio Lima). H-A N 44° 23′ E…"
+  },
+  {
+   "titulo": "Folio 4: H-A 1086 m (mojón de Eguía a 696 m); el terreno es un OCTÓGONO de 1243 ha 64 a 96 m² = 16.582.967 v²; instrucciones del apoderado: dividir en dos fracciones —una de la mitad menos 101 ha 24 a 40 m² (520 ha 58 a 08 m²) y otra de la mitad más esas 101 ha (723 ha 06 a 88 m²)—; comienzo de la divisoria desde C",
+   "img": "img/f/117/10.jpg",
+   "fuente": "IMG_9759, página derecha",
+   "nota": "",
+   "lineas": [
+    "ochenta y seis metros (1086 m.) encontrándose",
+    "á los seiscientos noventa y seis metros un",
+    "costanero puesto por Eguía.",
+    "La figura de este terreno es la de un",
+    "octágono y encierra una superficie de mil",
+    "doscientas cuarenta y tres hectáreas sesenta",
+    "y cuatro áreas noventa y seis metros cua-",
+    "drados, ó sean diez y seis millones quinien-",
+    "tas ochenta y dos mil nuevecientas se-",
+    "senta y siete varas cuadradas (1.243 hect.^{s}",
+    "64 áreas, 96 m. cuad. = 16.582.967 v.^{s} c.^{s})",
+    "Ahora, segun las instrucciones recibidas del",
+    "apoderado de la testamentaria debo dividir",
+    "este campo en dos fracciones del modo si-",
+    "guiente: una que debe tener la mitad",
+    "de la superficie del terreno, que son seis-",
+    "cientas veinte y una hectáreas ochenta y",
+    "dos áreas cuarenta y ocho metros menos cien-",
+    "to una hectáreas veinte y cuatro áreas",
+    "cuarenta metros cuadrados; por consiguien-",
+    "te esta fraccion se compone de quinientas",
+    "veinte hectáreas cincuenta y ocho áreas",
+    "ocho metros cuadrados; y la otra fraccion",
+    "que debe tener la mitad del total del terre-",
+    "no, que son seiscientas veinte y una hectá-",
+    "reas ochenta y dos áreas cuarenta y ocho",
+    "metros cuadrados, mas, ciento una hectáreas",
+    "veinte y cuatro áreas cuarenta metros cua-",
+    "drados: total, setecientas veinte y tres hec-",
+    "táreas seis áreas ochenta y ocho metros",
+    "cuadrados.",
+    "Para trazar la línea divisoria entre estos dos",
+    "terrenos me coloqué en el mojon señalado con la",
+    "letra C de un ángulo Este del terreno que se",
+    "midió y Norte de Don José Barcos y por el rumbo"
+   ],
+   "interpretacion": "…1086 m al arranque (mojón de Eguía a 696 m). El campo es un OCTÓGONO de 1243 ha 64 a 96 m² = 16.582.967 v². Por instrucción del apoderado se divide en dos: una fracción de la mitad MENOS 101 ha 24 a 40 m² (= 520 ha 58 a 08 m²) y otra de la mitad MÁS esa cantidad (723 ha 06 a 88 m²). Para la divisoria se coloca en C (ángulo E, N de José Barcos)…"
+  },
+  {
+   "titulo": "Folio 4 vuelta: divisoria C-K N 45° 57′ O 1456 m y K-L S 44° 3′ O 2121 m; primera fracción, de la heredera María Rodríguez: hexágono de 520 ha 58 a 08 m² = 6.941.484 v², entre Manuel Lima, Petrona M. de Guzmán, José Barcos, Saturnino E. Unzué, herederos de Serapio Lima y la segunda fracción",
+   "img": "img/f/117/11.jpg",
+   "fuente": "IMG_9760, página izquierda",
+   "nota": "",
+   "lineas": [
+    "al Norte cuarenta y cinco grados cincuenta y",
+    "siete minutos Oeste (N. 45° 57′ O) medí mil",
+    "cuatrocientos cincuenta y seis metros y co-",
+    "loqué un mojon, letra K, y de aquí por el",
+    "rumbo al Sud cuarenta y cuatro grados tres",
+    "minutos Oeste (S. 44° 3′ O) medí dos mil",
+    "ciento veinte y uno metros (2121 m.) hasta",
+    "el costado Sud-Oeste del terreno, y puse",
+    "el mojon L, siendo esta la línea que divide",
+    "el terreno en dos fracciones.",
+    "Mensura de la primera fraccion de",
+    "la heredera Doña María Rodriguez.",
+    "Esta fraccion queda deslindada del modo",
+    "siguiente: desde C á K y de K á L por los rumbos",
+    "y distancias espresadas ya, la L H al Sud cua-",
+    "renta y cinco grados cincuenta y siete minu-",
+    "tos Este (S. 45° 57′ E.) de tres mil cuatrocientos",
+    "metros, y la H A, A B y B C de la mensura ge-",
+    "neral; esta fraccion tiene la figura de un",
+    "exágono, y una superficie de quinientas vein-",
+    "te hectáreas cincuenta y ocho áreas ocho",
+    "metros cuadrados, ó sean, seis millones nue-",
+    "vecientos cuarenta y un mil cuatrocien-",
+    "tas ochenta y cuatro varas cuadradas",
+    "(520^{h.} 58^{a.} 08^{m.c.} = 6.941.484 v.^{s} c.^{s}); y linda",
+    "al Nor-Este con Don Manuel Lima, D.^{ña} Petrona",
+    "M. de Guzman y Don José Barcos, al Sud-Este",
+    "con el mismo Barcos y con Don Saturnino E.",
+    "Unzué, al Sud-Oeste con herederos de Don",
+    "Serapio Lima, y al Nor-Oeste con la frac-",
+    "cion segunda de D.^{ña} Mauricia R. de Servat.",
+    "[al margen, a lápiz: 520.58.08 / 168.74.01 / 351.84.07]",
+    "Mensura de la segunda fraccion",
+    "de la heredera Doña Mauricia Rodri-",
+    "guez de Servat.",
+    "Está determinada por la línea K L, por"
+   ],
+   "interpretacion": "…C-K N 45° 57′ O 1456 m y K-L S 44° 3′ O 2121 m hasta el costado SO: es la línea divisoria. PRIMERA FRACCIÓN, de MARÍA RODRÍGUEZ: C-K-L, L-H S 45° 57′ E 3400 m, H-A, A-B, B-C: hexágono de 520 ha 58 a 08 m² = 6.941.484 v², entre Manuel Lima, Petrona M. de Guzmán y José Barcos (NE), Barcos y Saturnino E. Unzué (SE), herederos de Serapio Lima (SO) y la fracción de MAURICIA R. DE SERVAT (NO). Cuenta a lápiz al margen."
+  },
+  {
+   "titulo": "Folio 5: segunda fracción, de Mauricia Rodríguez de Servat: hexágono de 723 ha 06 a 88 m² = 9.641.483 v², entre Celedonio F. Lima, Manuel Lima, la fracción de María Rodríguez, herederos de Serapio Lima, Zoilo Costa y Agustín Casado; sin oposición; acta (art. 618); variación 12° NE; Giles, 10/10/1881; salvedades; firma",
+   "img": "img/f/117/11.jpg",
+   "fuente": "IMG_9760, página derecha",
+   "nota": "",
+   "lineas": [
+    "los rumbos y distancias ya espresadas por la KD",
+    "al Norte cuarenta y cinco grados cincuenta y siete",
+    "minutos Oeste (N. 45° 57′ O.) de mil setecientos",
+    "noventa y tres metros, y las DE, EF y FG de",
+    "la mensura general, y la GL al Sud cuarenta",
+    "y cinco grados cincuenta y ~~un~~ ^{siete} minutos Este",
+    "(S. 45° 57′ E.) de cuatro mil trescientos cua-",
+    "renta y ocho metros; tambien tiene esta frac-",
+    "cion la figura de un exágono y su superficie",
+    "de setecientas veinte y tres hectáreas seis áreas",
+    "ochenta y ocho metros cuadrados, ó sean, nue-",
+    "ve millones seiscientos cuarenta y un",
+    "mil cuatrocientos ochenta y tres varas",
+    "cuadradas (723^{h.} 06^{a.} 88^{m.c.} = 9.641.483 v.^{s} c.^{s});",
+    "y linda al Nord-Este con Don Celedonio F. Lima",
+    "y Don Manuel Lima, al Sud-Este con la fraccion",
+    "primera ^{de D.^{ña} María Rodriguez} ~~[...]~~, al Sud-Oeste con herederos de",
+    "Don Serapio Lima y Don Zoilo Costa, y al",
+    "Nor-Oeste con Don Agustin Casado. —",
+    "La mensura fué hecha sin oposicion al-",
+    "guna; levantándose la acta que se acompa-",
+    "ña al espediente con arreglo al art. 618 de",
+    "la Ley de Procedimientos.",
+    "Los rumbos son los verdaderos y la va-",
+    "riacion de la aguja de doce grados Nor-Es-",
+    "te (12° N. E.)",
+    "Partido de San Andres de Giles á diez",
+    "de Octubre de mil ochocientos ochenta y uno.",
+    "Testado = mil cuatrocientos noventa y cinco metros =",
+    "un = uno = no vale.",
+    "Entre-líneas = cientos cuarenta y nueve metros",
+    "cinco decímetros = siete = de D.^{ña} María Rodri-",
+    "guez = vale.",
+    "Cárlos Schuster [rúbrica]"
+   ],
+   "interpretacion": "SEGUNDA FRACCIÓN, de MAURICIA RODRÍGUEZ DE SERVAT: K-L, K-D N 45° 57′ O 1793 m, D-E, E-F, F-G y G-L S 45° 57′ E 4348 m: hexágono de 723 ha 06 a 88 m² = 9.641.483 v², entre Celedonio F. y Manuel Lima (NE), la fracción de María (SE), herederos de Serapio Lima y Zoilo Costa (SO) y Agustín Casado (NO). SIN OPOSICIÓN; acta del art. 618. Rumbos verdaderos; variación 12° NE. Giles, 10/10/1881; salvedades de testado y entrelíneas; firma Carlos Schuster."
+  },
+  {
+   "titulo": "Folio 5 vuelta: abalizamientos (estancia «San Jacinto» de Unzué, José Bianchi, José Acuña, José Casado, Higinio Larrea, Celedonio F. Lima, Agustín Casado, Petrona Lima, almacén de Aspiri [?], Patricio Miró, Antonino Silva; el mojón E no se pudo abalizar por quedar dentro de una laguna); presentación al Departamento (31/10/1881) y comienzo del dictamen",
+   "img": "img/f/117/12.jpg",
+   "fuente": "IMG_9761, página izquierda",
+   "nota": "",
+   "lineas": [
+    "Avalizamientos",
+    "Mojon A sobre la línea A B. Estancia «San",
+    "Jacinto» de Unzué 244° 22′, id. herederos de",
+    "Rodriguez 98° 25′. D. José Bianchi 166° 5′. —",
+    "Mojon B sobre B C. D. José Bianchi 3° 27′. —",
+    "D. José Acuña 349° 22′. — D. José Casado 281° 25′.",
+    "Mojon C sobre C D. Herederos de Rodriguez",
+    "283° 5′. — D. Higinio Larrea 112° 20′ D. José A-",
+    "cuña 74° 20′. —",
+    "Mojon D sobre D E. D. Celedonio F. Lima",
+    "67° 45′. — D. Agustin Casado 85° 50′. — D.^{ña}",
+    "Petrona Lima 125°. —",
+    "Mojon E. no se pudo avalizar porque",
+    "quedó dentro de una laguna. —",
+    "Mojon F. sobre F G. D.^{ña} Petrona Lima",
+    "210°. — Almacen de Aspiri [?] 218° 15′. D. Agus-",
+    "tin Casado 128°. —",
+    "Mojon G sobre G H. D. Patricio Miró",
+    "198° 30′. D. Agustin Casado 246° 10′. D. José",
+    "Casado 228° 42′. —",
+    "Mojon H sobre H G. «San Jacinto», de",
+    "Unzué 146° 50′. D. Celedonio F. Lima 12° 15′. —",
+    "D. Antonino Silva 300° 30′. —",
+    "Schuster [rúbrica]",
+    "Octubre 31/81 —",
+    "Presentada en la fecha al",
+    "Departamento de Ingenieros —",
+    "J. Lavarri [?] [rúbrica]",
+    "Señor Juez de 1.^{a}",
+    "Instancia",
+    "El Departamento",
+    "de Ingenieros ha exa-"
+   ],
+   "interpretacion": "ABALIZAMIENTOS: desde A, la ESTANCIA «SAN JACINTO» DE UNZUÉ (244° 22′), los herederos de Rodríguez y JOSÉ BIANCHI; desde B, Bianchi, JOSÉ ACUÑA y JOSÉ CASADO; desde C, herederos de Rodríguez, HIGINIO LARREA y José Acuña; desde D, Celedonio F. Lima, Agustín Casado y PETRONA LIMA; «el mojón E NO SE PUDO ABALIZAR PORQUE QUEDÓ DENTRO DE UNA LAGUNA»; desde F, Petrona Lima, el ALMACÉN DE ASPIRI [?] y Agustín Casado; desde G, PATRICIO MIRÓ, Agustín y José Casado; desde H, «San Jacinto», Celedonio F. Lima y ANTONINO SILVA. Presentada al Departamento de Ingenieros el 31/10/1881."
+  },
+  {
+   "titulo": "Folio 6: fin del dictamen del Departamento de Ingenieros (8/11/1881): en estado de ser aprobada judicialmente",
+   "img": "img/f/117/13.jpg",
+   "fuente": "IMG_9766, página derecha",
+   "nota": "Folio 6, detrás del plano; a la izquierda, la copia en tela de 1936 en transparencia.",
+   "lineas": [
+    "minado la mensura prac-",
+    "ticada por el agrimensor D.",
+    "Cárlos Schuster del terreno",
+    "perteneciente á D.^{a} María",
+    "y D.^{a} Mauricia Rodriguez",
+    "sucesoras de D. José M.^{a} Ro-",
+    "driguez en el partido Giles",
+    "y la considera en estado de",
+    "ser aprobada judicialmente",
+    "Noviembre 8/81.",
+    "Lavalle",
+    "Moreno   Lagos [?]"
+   ],
+   "interpretacion": "Dictamen del 8/11/1881 (Lavalle, Moreno, Lagos [?]): la mensura de Schuster del terreno de MARÍA y MAURICIA RODRÍGUEZ, sucesoras de José M.ª Rodríguez, está en estado de ser aprobada judicialmente."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la mensura y división de los herederos de José M.ª Rodríguez (Schuster, 1881)",
+   "img": "img/f/117/03.jpg",
+   "fuente": "IMG_9762.JPG (f. 7, pliego con marco negro de esquinas redondeadas); detalles 9763-9764",
+   "orientacion": "Marco negro grueso; flecha «Var. 12° NE» en diagonal; escala gráfica en metros; firma Carlos Schuster. Cifras a lápiz del Departamento (520 ha 58 a 08; 45 57 / 44 3 / 90 27).",
+   "interpretacion": "Octógono largo rotulado HERED.S DE D.N JOSÉ M.ª RODRÍGUEZ, dividido por la línea quebrada C-K-L en MARÍA (SE, con la «Estancia» marcada junto al lado B-C) y MAURICIA (NO). El ARROYO DE MOYANO cruza el campo de NO a SE, con bañados (achurado) y la LAGUNA donde quedó el mojón E. Linderos: herederos de Serapio Lima y Zoilo Costa al SO; Agustín Casado al NO; Celedonio F. Lima, Manuel Lima y P.na M. de Guzmán al NE; José Barcos (en el entrante A-B-C) y Saturnino E. Unzué al SE.",
+   "referencias": [
+    [
+     "H-A",
+     "N 44° 23′ E · 1086 m · contra S. E. Unzué"
+    ],
+    [
+     "A-B",
+     "N 45° 57′ O · 1949 m · contra José Barcos (mojón a 1080)"
+    ],
+    [
+     "B-C",
+     "N 44° 03′ E (plano) · 1036 m · contra Barcos"
+    ],
+    [
+     "C-D",
+     "N 45° 57′ O · 3249 m · contra P. M. de Guzmán (650) y Manuel Lima"
+    ],
+    [
+     "D-E",
+     "S 44° 03′ O · 775 m · contra Celedonio F. Lima; E en la laguna del arroyo de Moyano"
+    ],
+    [
+     "E-F",
+     "N 45° 57′ O · 2536 m · contra C. F. Lima hasta A. Casado"
+    ],
+    [
+     "F-G",
+     "S 44° 52′ O · 1347 m · contra A. Casado"
+    ],
+    [
+     "G-H",
+     "S 45° 57′ E · 7748 m · contra Z. Costa y herederos de Serapio Lima"
+    ],
+    [
+     "C-K-L",
+     "Divisoria: N 45° 57′ O 1456 m + S 44° 3′ O 2121 m"
+    ],
+    [
+     "Superficies",
+     "Total 1243,65 ha = María 520,58 + Mauricia 723,07 ha"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle central",
+   "img": "img/f/117/04.jpg",
+   "fuente": "IMG_9763.JPG",
+   "orientacion": "",
+   "interpretacion": "Arroyo de Moyano con sus bañados, la laguna en E, la divisoria K-L, la «Estancia» junto a B-C y las progresivas de los mojones.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle derecho",
+   "img": "img/f/117/05.jpg",
+   "fuente": "IMG_9764.JPG",
+   "orientacion": "",
+   "interpretacion": "Fracción de Mauricia hacia el NO, con Celedonio F. Lima y Agustín Casado.",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia en tela de la Dirección de Geodesia (La Plata, 1936)",
+   "img": "img/f/117/06.jpg",
+   "fuente": "IMG_9765.JPG",
+   "orientacion": "",
+   "interpretacion": "«[Es copia del pla]no agregado al duplicado n.º 117 del partido de San Andrés de Giles, mensura practicada en [setiembre de 1881] por el agrimensor Schuster Carlos. La Plata, marzo [?] de 1936», con sello de la Dirección (cf. 116).",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Ubicación: el campo de mariano lima sobre la cañada de moyano",
+   "texto": "Es una parte del gran campo enfitéutico de Barangot / Mariano Lima (2¼ leguas, 1825-1832), en el rincón SO del partido, sobre la CAÑADA o ARROYO DE MOYANO. Linderos que encadenan: Zoilo Costa y herederos de Serapio Lima (107, mensura de Schuster de 1880: el mojón G es suyo), Agustín Casado (092, 107), Saturnino E. Unzué y su estancia «San Jacinto» (074), José Barcos (ex Aceituna). Con 107 y 055 (Mariano Lima, Prat 1840) permite reconstruir en el GIS la subdivisión del campo Lima."
+  },
+  {
+   "titulo": "Mauricia rodríguez de servat",
+   "texto": "La heredera de la segunda fracción es MAURICIA RODRÍGUEZ DE SERVAT [= Serrat]: la «Mauricia Rodríguez» / «Mauricia Rodríguez de Serrat» de las Fichas 061 y 107. Su hermana María recibe la otra fracción. El reparto es deliberadamente desigual (½ − 101 ha / ½ + 101 ha), por instrucción del apoderado: quizá compensación de otros bienes o de lo comprado por el padre."
+  },
+  {
+   "titulo": "La casa de azotea y el canje de 1861",
+   "texto": "Eguía cita un CANJE DE TIERRA entre Silverio Aceituna y el tutor de los menores Rodríguez (Federico Napoleón) para que la «CASA DE AZOTEA» de los menores quedara en su propiedad: otra vez las poblaciones mandan sobre la geometría (cf. 106, 107). La «Estancia» dibujada junto al lado B-C, en el entrante, es probablemente esa casa. Aceituna = «Aceytuno» de la Ficha 076."
+  },
+  {
+   "titulo": "Mojones perdidos y la ley de cercos",
+   "texto": "El pedido de 1881 dice que los mojones de Eguía (1861) ya no existen y que la LEY DE CERCOS obliga a medir de nuevo: el alambrado exige límites exactos. Sin embargo Schuster encuentra ocho mojones de Eguía, uno «fuera de su lugar». Es la cita más directa del corpus de la Ley de Cercos como causa de mensura."
+  },
+  {
+   "titulo": "Paisaje: arroyo, bañado, laguna, almacén",
+   "texto": "El arroyo de Moyano forma una LAGUNA en el vértice E (el mojón quedó dentro del agua y no pudo abalizarse) y bañados a lo largo del cauce. Visuales: la estancia «San Jacinto» de Unzué, poblaciones de Bianchi, Acuña, Casado, Larrea, Petrona Lima, Miró, Silva, y un ALMACÉN (de Aspiri [?]): comercio rural en el rincón SO."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Variación 12° NE: el mismo valor «anómalo» de Schuster que en may.-jun. de 1880 (107), frente a 11° 34′ en 113 y 116 (jul.-sep. de 1881). Superficie del octógono por cálculo; división por superficie dada. Incoherencia B-C: el texto dice N 43° 3′ O, el plano N 44° 3′ E."
+  },
+  {
+   "titulo": "Lecturas dudosas",
+   "texto": "«Carlos Casco [?]» (cesionario de Barangot); «Teodora [?] Contreras»; «almacén de Aspiri [?]»; «Lagos [?]»; «J. Lavarri [?]». «Federico Napoleón» parece nombre y apellido."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Dónde está la mensura de Eguía de 1861 (¿algún duplicado del corpus?) y la de Saubidet para Aceituna? ¿Por qué la división desigual? ¿Se aprobó judicialmente?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "José María Rodríguez · Eustaquia Lima",
+   "rol": "Causantes",
+   "texto": "Matrimonio; Eustaquia, hija de Mariano Lima; José María compra a parientes Lima en 1855-59. Sus hijas María y Mauricia (de Servat) son las únicas herederas en 1881; José Eliseo Rodríguez aparece también representado.",
+   "fuentes": "Dup. 117; Fichas 061, 107."
+  },
+  {
+   "nombre": "Mauricia Rodríguez de Servat (Serrat) · María Rodríguez",
+   "rol": "Herederas",
+   "texto": "Reciben 723,07 y 520,58 ha. Mauricia ya figura en 061 y 107.",
+   "fuentes": "Fichas 061, 107."
+  },
+  {
+   "nombre": "Juan Pedro Barangot · Mariano Lima",
+   "rol": "Enfiteuta (1825) · comprador (1832)",
+   "texto": "Barangot, enfiteuta sobre la cañada de Moyano (medido por Simonin, 1826); Lima obtiene la escritura enfitéutica y compra al Gobierno en 1832. Cf. Ficha 055 (Mariano Lima, Prat 1840).",
+   "fuentes": "Dup. 117; Ficha 055."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Séptima mensura suya de 1880-81 en el corpus (102, 105, 107, 109, 113, 116, 117); retoma sus mojones de 107.",
+   "fuentes": "Fichas 102-116."
+  },
+  {
+   "nombre": "Manuel Eguía · Pedro Saubidet · Simonin",
+   "rol": "Agrimensores anteriores",
+   "texto": "Eguía midió el campo en 1861 (mojones hallados en 1881); Saubidet amojonó a Aceituna en 1861; Simonin, agrimensor de la enfiteusis de 1826.",
+   "fuentes": "Dup. 117; Fichas 003-015, 109."
+  },
+  {
+   "nombre": "Saturnino E. Unzué",
+   "rol": "Lindero (estancia «san jacinto»)",
+   "texto": "Gran propietario; su estancia San Jacinto sirve de visual. Cf. 074, 107.",
+   "fuentes": "Fichas 074, 107."
+  },
+  {
+   "nombre": "Silverio Aceituna · Federico Napoleón · José Barcos",
+   "rol": "Vecino (1861) · tutor · sucesor",
+   "texto": "Aceituna canjea tierra con los menores en 1861; su campo es hoy de José Barcos (homónimo del de 114-115 [?]).",
+   "fuentes": "Dup. 117; Ficha 076."
+  },
+  {
+   "nombre": "Lima (Manuel, Celedonio F., Petrona, Serapio, Domingo) · A. y J. Casado · Z. Costa · P. M. de Guzmán",
+   "rol": "Linderos",
+   "texto": "Descendientes de Mariano Lima y vecinos del rincón SO (055, 092, 107).",
+   "fuentes": "Fichas 055, 092, 107."
+  },
+  {
+   "nombre": "Juan San Martín · Santiago Mautalen · Lavalle",
+   "rol": "Juez · apoderado · d. i.",
+   "texto": "Mautalen, apoderado también en 113. Dictamen Lavalle–Moreno–Lagos [?].",
+   "fuentes": "Dup. 113, 117."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/117/02.jpg",
+  "fuente": "IMG_9755.JPG (girada 90°)",
+  "lineas": [
+   "Giles N.^{o} 117.",
+   "1881.",
+   "Mensura y division del campo de la",
+   "testamentaria de D. José María",
+   "Rodriguez —",
+   "Situado en el Partido de Giles.",
+   "Agrimensor Cárlos Schuster",
+   "9-70-212 [lápiz]",
+   "3-281-8 [lápiz]"
+  ]
+ },
+ "titulo": "Testamentaría de José M.ª Rodríguez",
+ "estado": "Transcripta (11 hojas, 359 renglones), 4 láminas"
+}

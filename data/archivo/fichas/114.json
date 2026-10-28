@@ -1,0 +1,623 @@
+{
+ "carpeta": "114",
+ "carpeta_nombre": "Carpeta 114",
+ "archivo": "Ficha 114 - Julio Saraví (1881).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (S del pueblo, bloque Lescano)",
+  "N.º de duplicado": "114",
+  "Propietario / solicitante": "Julio Saraví",
+  "Agrimensor": "Agustín Y. [?] Rodríguez",
+  "Año": "1881",
+  "Fecha de la diligencia": "Mensura 6/8/1881; presentada 22/8/1881; D. I. 16/9/1881",
+  "Ubicación": "Ángulo SE del campo de Romualda G. de Casas (ex F. Lescano, Saubidet 1866)",
+  "Orden judicial": "Juez de 1.ª Inst. en lo Civil, Dep. del Centro, Dr. Juan San Martín (1881)",
+  "Vendedor / antecesor": "P. López de Lescano → Rosario Gelves → Dionisia Gelves de Ponce → Saraví (1880)",
+  "Linderos citados": "R. G. de Casas · F. Achával · T. Naughton · J. Rivas · J. Morales",
+  "Medidas": "L-J 849,45 · J-K 1631,35 · K-B 925,65 · B-L 1630,75 m; 144,62 ha",
+  "Rumbos": "N 51° 38′ E · S 40° 21′ E · S 51° 38′ O · N 37° 22′ O; var. 11° 23′ NE",
+  "Referencia de archivo": "Dup. 114; mensura de R. G. de Casas «días anteriores»; dictamen D. I."
+ },
+ "metricas": {
+  "superficie_ha": "144,62 (título 184,26)",
+  "hitos": "Mojones de la mensura de Casas; montes de Barcos y Naughton; casa de Rivas; torres de Giles y de Mercedes",
+  "aguas": "Ninguna citada (título: suertes del arroyo de Giles)"
+ },
+ "sintesis": "Duplicado completo (títulos, mensura, abalizamiento, dictamen) con plano. En agosto de 1881 Agustín Y. [?] Rodríguez mide para Julio Saraví, cesionario de Dionisia Gelves de Ponce, la parte que Rosario Gelves heredó de Petrona López de Lescano en el campo de Francisco Lescano (311 × 7900 v). Saubidet la había dejado en 1866 dentro de lo adjudicado al albacea, Francisco Lescano (hijo), que la vendió «por error». El agrimensor ubica primero las ventas (Casas, Barcos, Cisterna-Morales) dentro del trapecio de 933 ha de Romualda G. de Casas y le da a Saraví el residuo: 144,62 ha, con un faltante de 39,63 ha. Visuales a montes, casas y a las torres de Giles y Mercedes.",
+ "caratula": {
+  "img": "img/f/114/01.jpg",
+  "fuente": "IMG_9720.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "114"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Julio Saraví"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Agustín Y. [?] Rodríguez"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1881"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: extracto de títulos (venta de los hermanos Lescano a Francisco Lescano, 25/4/1838; origen Pedro Antonio Martínez → Antonio Lescano, 1825; división de Saubidet, 1866)",
+   "img": "img/f/114/07.jpg",
+   "fuente": "IMG_9722 (girada 90°)",
+   "nota": "Letra cursiva redonda muy cuidada, tinta parda; folio sellado y numerado «1». Es el mismo título que abre la Ficha 109.",
+   "lineas": [
+    "Estracto de titulos. ——",
+    "En Buenos-Aires, á veinticinco de Abril de",
+    "mil ochocientos treinta y ocho, ante el Escribano Don",
+    "Luis Castiñaga, Don Pablo José Sanchez, en re-",
+    "presentacion de Don Francisco, Don Manuel, Doña",
+    "Laureana, Doña Jocona [?], Doña Matea, Doña Mó-",
+    "nica, y Doña Antonia Lescano, vende á Don",
+    "Francisco Lescano un terreno de propiedad de",
+    "sus representados, sito en el Partido «Guardia",
+    "de Luján» (hoy Giles) compuesto de cinco mil",
+    "varas de frente, con siete mil, novecientas va-",
+    "ras, de fondo, lindando al frente con los herede-",
+    "ros de Don Jorge Robredo; por el fondo, con",
+    "las suertes principales del Arroyo de Giles; por",
+    "el Norte, con Don Pedro Sanchez; y por el",
+    "Sudeste, con Doña Manuela Quiroga.",
+    "Le corresponde á los vendedores por haberlo here-",
+    "dado de Don Antonio Lescano, quien lo hubo",
+    "por compra que hizo á Don Pedro Antonio",
+    "Martinez en ocho de Marzo de mil ochocien-",
+    "tos veinticinco, ante el Escribano Don Már-",
+    "cos L. Agrelo.",
+    "Habiendo fallecido Don Francisco Lescano,",
+    "sus herederos solicitan con fecha veintiuno de",
+    "Marzo de mil ochocientos sesenta y seis, men-",
+    "sura y division de este terreno, la que fué",
+    "practicada por el Agrimensor D.^{r} Saubidet.",
+    "Doña Rosario Gelves, fué declarada [here-]"
+   ],
+   "interpretacion": "Estracto de títulos. El 25/4/1838, ante el escribano Luis Castiñaga, PABLO JOSÉ SÁNCHEZ, en representación de Francisco, Manuel, Laureana, Jocona [?], Matea, Mónica y Antonia LESCANO, vende a FRANCISCO LESCANO un terreno en el partido de la «Guardia de Luján» (hoy Giles) de 5000 varas de frente por 7900 de fondo, lindero al frente con los herederos de JORGE ROBREDO, al fondo con las SUERTES PRINCIPALES DEL ARROYO DE GILES, al N con PEDRO SÁNCHEZ y al SE con MANUELA QUIROGA. Los vendedores lo heredaron de ANTONIO LESCANO, que lo compró a PEDRO ANTONIO MARTÍNEZ el 8/3/1825 (escribano Marcos L. Agrelo). Muerto Francisco, sus herederos piden el 21/3/1866 la mensura y división, que hizo el agrimensor SAUBIDET. ROSARIO GELVES fue declarada…"
+  },
+  {
+   "titulo": "Folio 1 vuelta: Rosario Gelves, heredera de Petrona López de Lescano (311 × 7900 v); Saubidet dejó la parte de Rosario Gelves y la de Ciriaco Montiel dentro de lo adjudicado al albacea Francisco Lescano (hijo), que la vendió «indebidamente»; Dionisia Gelves heredera (28/3/1881) y cesión a Julio Saraví (Chivilcoy, 23/8/1880)",
+   "img": "img/f/114/08.jpg",
+   "fuente": "IMG_9723, página izquierda",
+   "nota": "",
+   "lineas": [
+    "como uno de los herederos de Doña Petrona Ló-",
+    "pez de Lescano, esposa de Don Francisco Les-",
+    "cano, adjudicándosele en pago de su haber",
+    "hereditario trescientas, once varas de frente, por",
+    "siete mil, novecientas varas, de fondo, del terreno",
+    "que aquel poseia.",
+    "Conviene advertir aquí, que cuando el Agrimen-",
+    "sor S.^{r} Saubidet, practicó la division del ter-",
+    "reno perteneciente á esta testamentaria, dejó la",
+    "parte de terreno que pertenecia á Doña Rosario",
+    "Gelves, así como la de Don Ciriaco Montiel,",
+    "incluida dentro de los límites del terreno que se",
+    "le adjudicó al albacea de la testamentaria",
+    "Don Francisco Lescano (hijo) quien procedió",
+    "mas tarde é indebidamente, á la venta de",
+    "parte de este terreno.",
+    "Habiendo fallecido Doña Rosario Gelves,",
+    "se declara heredera de esta á su hermana na-",
+    "tural Doña Dionisia Gelves, por el S.^{r} Juez",
+    "de 1.^{a} Instancia en lo Civil, Don Juan S.^{n} Mar-",
+    "tin, en fecha veintiocho de Marzo de mil",
+    "ochocientos ochenta y uno (fojas 2 á 4 de este esp.^{te})",
+    "En el Pueblo del Chivilcoy, á veintitres de",
+    "Agosto de mil ochocientos ochenta, ante el",
+    "Escribano Público Don Cirilo Coronado,",
+    "Doña Dionisia Gelves de Ponce, cede á Don",
+    "Julio Saraví todos los derechos y acciones",
+    "hereditarias que le corresponden en la testamenta-",
+    "ria de su hermana Doña Rosario Gelves",
+    "(fojas 1 á 1 vuelta de este espediente).",
+    "En Mayo de mil ochocientos ochenta y uno,"
+   ],
+   "interpretacion": "…heredera de PETRONA LÓPEZ DE LESCANO, esposa de Francisco: le tocaron 311 varas de frente por 7900 de fondo. ADVERTENCIA del agrimensor: Saubidet, al dividir, dejó la parte de Rosario Gelves y la de CIRIACO MONTIEL DENTRO de lo adjudicado al albacea, FRANCISCO LESCANO (HIJO), que después la vendió «indebidamente». Muerta Rosario, el juez JUAN SAN MARTÍN declara heredera a su hermana natural DIONISIA GELVES (28/3/1881). En CHIVILCOY, el 23/8/1880, ante Cirilo Coronado, DIONISIA GELVES DE PONCE CEDE a JULIO SARAVÍ sus derechos hereditarios."
+  },
+  {
+   "titulo": "Folio 2: demanda de Saraví contra Francisco Lescano (hijo) por 2.456.000 v² (juez Juan San Martín); José A. [?] Tapié admite la venta «por error» de parte del terreno (11/6/1881); Saraví acepta la posesión de lo restante; comienzo de la mensura (6/8/1881)",
+   "img": "img/f/114/08.jpg",
+   "fuente": "IMG_9723, página derecha",
+   "nota": "",
+   "lineas": [
+    "Don Julio Saraví se presenta ante el S.^{r}",
+    "Juez de 1.^{a} Instancia en lo Civil del Depar-",
+    "tamento del Centro, Don Juan S.^{n} Martin,",
+    "demandando á Don Francisco Lescano (hijo)",
+    "por la entrega del precitado terreno — Dos mi-",
+    "llones, cuatrocientas cincuenta y seis mil varas",
+    "cuadradas — que le correspondió á Doña Dionisia",
+    "Gelves en la testamentaria de su hermana Doña",
+    "Rosario (fojas 5 á 7 vuelta.)",
+    "En once de Junio del mismo año, Don José A. [?]",
+    "Tapié, en representacion de Don Francisco Les-",
+    "cano, manifiesta ser cierto efectivamente, lo",
+    "espuesto por Don Julio Saraví, como justa su",
+    "demanda; pero que habiendo por error vendido",
+    "su representado parte del terreno que pertenecia",
+    "á Doña Dionisia Gelves, no podia sinó po-",
+    "nerlo en posesion de lo que de él restaba. En",
+    "la misma fecha, Don Julio Saraví, en vista de",
+    "la manifestacion hecha por el representante del",
+    "S.^{r} Lescano, acepta la posesion que se le ofrece",
+    "de la parte de campo que aun conserva aquel",
+    "en su poder, reservándose el derecho de enta-",
+    "blar las respectivas acciones reivindicatorias",
+    "contra los demás posedores (fojas 9 á 10.)",
+    "—— Mensura. ——",
+    "En el Partido de S.^{n} Andrés de Giles, á",
+    "los seis dias del mes de Agosto del corriente",
+    "año, comisionado el Agrimensor que suscribe",
+    "por el S.^{r} Juez de 1.^{a} Instancia en lo Civil",
+    "del Departamento del Centro D.^{r} Don Juan S.^{n} Martin"
+   ],
+   "interpretacion": "Mayo de 1881: Saraví DEMANDA a Francisco Lescano (hijo) la entrega de las 2.456.000 v² [sic: 311 × 7900 = 2.456.900] de Dionisia. El 11/6/1881 JOSÉ A. [?] TAPIÉ, apoderado de Lescano, reconoce la deuda pero dice que su representado VENDIÓ POR ERROR parte de esa tierra y que sólo puede entregar lo que le queda. Saraví acepta esa posesión y se reserva las ACCIONES REIVINDICATORIAS contra los demás poseedores. MENSURA: Giles, 6/8/1881, por comisión del mismo juez."
+  },
+  {
+   "titulo": "Folio 2 vuelta: ubicación de las ventas de Francisco Lescano dentro del campo de Romualda G. de Casas (A-B-C-D, 933,2617 ha) medido días antes; linderos; el octógono A-E-F-G-H-J-K-C-D (598,8260 ha) vendido por Lescano y Cirilo Montiel a Casas",
+   "img": "img/f/114/09.jpg",
+   "fuente": "IMG_9724, página izquierda",
+   "nota": "",
+   "lineas": [
+    "para medir el terreno perteneciente á Don Julio",
+    "Saraví como cesionario de Doña Dionisia Gelves",
+    "al que se refiere el estracto de títulos que",
+    "antecede, y prévia publicacion de edictos en los",
+    "diarios que adjunto, y citacion de linderos, pro-",
+    "cedí primeramente á ubicar las diferentes ventas",
+    "hechas por Don Francisco Lescano, dentro del",
+    "terreno que señalo en el plano adjunto con las",
+    "letras A. B. C. D., y que habia medido dias ante-",
+    "riores en la mensura que practiqué por órden",
+    "del mismo Juez, para Doña Romualda G.",
+    "de Casas, el cual tiene una superficie de:",
+    "novecientas treinta y tres hectáreas, veintiseis",
+    "áreas, diecisiete centiareas, y linda; por el Nor-",
+    "deste, con los herederos de Don Pascual Lescano;",
+    "por el Sudeste, con Don Tomás Neirghton [?] y",
+    "Doña Francisca Achaval; por el Sudoeste,",
+    "con Don Justo Rivas; Doña Dionisia Acuña;",
+    "Doña Gerónima Lescano; Doña Margarita",
+    "Casey, y Don Marcelino Mesquita; y por",
+    "el Noroeste, con Don Simon Cucullo y Don",
+    "José Picheto.",
+    "Los diferentes títulos de venta de terreno, por",
+    "Don Francisco Lescano y Don Cirilo Mon-",
+    "tiel á Doña Romualda G. de Casas, forman",
+    "un total de: Quinientas noventa y ocho hectáre-",
+    "as, ochenta y dos áreas, sesenta centiareas, mas",
+    "treinta centésimos de otra, cuya superficie es la",
+    "comprendida dentro del perímetro del octógono",
+    "A. E. F. G. H. J. K. C. D. segun la mensura que practiqué dias",
+    "anteriores y á la cual hago referencia mas arriba."
+   ],
+   "interpretacion": "Con edictos y citación, el agrimensor UBICA primero las VENTAS hechas por Francisco Lescano dentro del trapecio A-B-C-D que había medido «días anteriores» para ROMUALDA G. DE CASAS: 933,2617 ha, lindero al NE con los herederos de PASCUAL LESCANO (109), al SE con TOMÁS NAUGHTON y FRANCISCA ACHÁVAL, al SO con JUSTO RIVAS, DIONISIA ACUÑA (113), GERÓNIMA LESCANO, MARGARITA CASEY y MARCELINO MESQUITA, y al NO con SIMÓN CUCULLO y JOSÉ PICHETTO. Las ventas de Lescano y de CIRILO MONTIEL a Casas suman 598,8260 ha: el octógono A-E-F-G-H-J-K-C-D."
+  },
+  {
+   "titulo": "Folio 3: título de José Barcos (1.881.000 v² = 141,0667 ha); E-F N 51° 38′ E 1081 m (mojón común con Casas); F-G S 37° 29′ E 1303,40 m; G-M S 51° 38′ O 1083,60 m (mojón Barcos/Cisterna; esquinero Casas–Cisterna a 234,15 m); M-E N 37° 22′ O 1303,65 m",
+   "img": "img/f/114/09.jpg",
+   "fuente": "IMG_9724, página derecha",
+   "nota": "",
+   "lineas": [
+    "Otro título otorgado por Don Francisco Lescano",
+    "á Don José Barcos, hacen á este último dueño de",
+    "un terreno, cuya superficie es de: un millon, ocho-",
+    "cientas, ochenta y un mil varas cuadradas, ó sean,",
+    "Ciento, cuarenta y una hectáreas seis áreas, sesenta",
+    "y siete centiareas, mas veinticuatro centésimos de otra",
+    "Para ubicar esta superficie me situé en el punto que",
+    "designo por E. en el adjunto plano, y desde él con",
+    "rumbo Norte, cincuenta y un grados, treinta y ocho",
+    "minutos Este, medí «mil ochenta y un métros» hasta",
+    "el punto que designo por F. donde exíste el mojon",
+    "que como esquinero comun de este terreno y del de la",
+    "S.^{ra} de Casas, habia colocado en la mensura que",
+    "practiqué dias anteriores para esta. Desde F. y con",
+    "rumbo Sud, treinta y siete grados, veintinueve minutos",
+    "Este, medí «mil trescientos tres métros, cuarenta centíme-",
+    "tros» hasta G. donde exíste el otro mojon que como esqui-",
+    "nero comun de estos mismos terrenos habia colocado",
+    "tambien en aquella operacion anterior. Desde G. y",
+    "con rumbo Sud, cincuenta y un grados, treinta y ocho",
+    "minutos Oeste, medí «mil ochenta y tres métros, sesenta",
+    "centímetros» hasta M. donde coloqué un mojon como",
+    "esquinero comun del terreno de Don José Barcos",
+    "y del de Don Desiderio Cisterna: en esta linea",
+    "á «doscientos treinta y cuatro métros, quince centímetros»",
+    "encontré el mojon esquinero del terreno de la S.^{ra} de",
+    "Casas y de Don Desiderio Cisterna, y costanero",
+    "del de Don José Barcos.",
+    "Desde M. y con rumbo Norte, treinta y siete gra-",
+    "dos, veintidos minutos Oeste, medí «mil trescientos",
+    "tres métros, sesenta y cinco centímetros» hasta E. punto"
+   ],
+   "interpretacion": "Venta de Lescano a JOSÉ BARCOS: 1.881.000 v² = 141,0667 ha. Desde E, N 51° 38′ E 1081 m a F (mojón común con Casas puesto en la mensura anterior); F-G S 37° 29′ E 1303,40 m (otro mojón común); G-M S 51° 38′ O 1083,60 m hasta M, mojón nuevo entre Barcos y DESIDERIO CISTERNA (a 234,15 m, el esquinero Casas–Cisterna); M-E N 37° 22′ O 1303,65 m…"
+  },
+  {
+   "titulo": "Folio 3 vuelta: el cuadrilátero E-F-G-M de José Barcos; títulos de Desiderio Cisterna y Juan Morales (650.000 v² = 48,7471 ha); M-H N 51° 38′ E 849,45 m; H-J S 37° 29′ E 574 m; J-L S 51° 38′ O 849,45 m; L-M N 37° 22′ O 574 m",
+   "img": "img/f/114/10.jpg",
+   "fuente": "IMG_9725, página izquierda",
+   "nota": "",
+   "lineas": [
+    "de arranque.",
+    "El cuadrilátero E. F. G. M. encierra dentro de su períme-",
+    "tro la superficie que le corresponde á Don José Barcos",
+    "y que se espresa mas arriba.",
+    "Otros dos títulos otorgados por Don Francisco Les-",
+    "cano á favor de Don Desiderio Cisterna y Don",
+    "Juan Morales, hacen á éstos dos últimos dueños",
+    "de un terreno cuya superficie es de: seis cientas",
+    "cincuenta mil varas cuadradas, ó sean, cuarenta y",
+    "ocho hectáreas, setenta y cuatro áreas, setenta y",
+    "una centiareas, mas cuarenta centésimos de otra.",
+    "Para ubicar esta superficie me situé en el punto",
+    "que designo por M. y desde él con rumbo Norte,",
+    "cincuenta y un grados, treinta y ocho minutos Este,",
+    "medí «ochocientos cuarenta y nueve métros, cuarenta",
+    "y cinco centímetros» hasta H. donde exíste el mojon",
+    "á que hago referencia mas arriba. Desde H. y",
+    "con rumbo Sud, treinta y siete grados, veintinueve",
+    "minutos Este, medí «quinientos setenta y cuatro mé-",
+    "tros», hasta J. donde exíste el mojon que coloqué",
+    "en la mensura para la S.^{ra} de Casas, como esqui-",
+    "nero comun de su terreno, de los de Don Juan",
+    "Morales, y Don Julio Saraví. Desde J. con",
+    "rumbo Sud, cincuenta y un grados, treinta y ocho",
+    "minutos Oeste, medí «ochocientos cuarenta y nueve",
+    "métros, cuarenta y cinco centímetros», hasta L. donde",
+    "coloqué un mojon como esquinero del terreno de",
+    "Morales, y del de Don Julio Saraví. Desde",
+    "L. y con rumbo Norte, treinta y siete grados, vein-",
+    "tidos minutos Oeste, medí «quinientos setenta y cuatro",
+    "métros» hasta M."
+   ],
+   "interpretacion": "…al punto de arranque: E-F-G-M es lo de Barcos. Venta a DESIDERIO CISTERNA y JUAN MORALES: 650.000 v² = 48,7471 ha. Paralelogramo M-H (N 51° 38′ E 849,45 m), H-J (S 37° 29′ E 574 m, hasta el mojón de la mensura de Casas, común con Morales y Saraví), J-L (S 51° 38′ O 849,45 m, mojón nuevo Morales/Saraví), L-M (N 37° 22′ O 574 m)."
+  },
+  {
+   "titulo": "Folio 4: el paralelógramo M-H-J-L (Cisterna y Morales); la figura L-J-K-B, resto que corresponde a Saraví: L-J N 51° 38′ E 849,45 m; J-K S 40° 21′ E 1631,35 m (esquinero con Gelves, costanero de Tomás Naughton); K-B S 51° 38′ O 925,65 m (esquinero de Justo Rivas, costanero de Achával); B-L N 37° 22′ O 1630,75 m",
+   "img": "img/f/114/10.jpg",
+   "fuente": "IMG_9725, página derecha",
+   "nota": "",
+   "lineas": [
+    "El paralelógramo M. H. J. L. encierra dentro de su",
+    "perímetro la superficie que le corresponde á Don",
+    "Desiderio Cisterna, y á Don Juan Morales, y",
+    "que se espresa mas arriba.",
+    "La figura L. J. K. B. que resta del total de este ter-",
+    "reno despues de ubicados los que se espresan en los",
+    "anteriores títulos, es parte del terreno que correspon-",
+    "de á Don Julio Saraví como cesionario de la",
+    "S.^{ra} Gelves.",
+    "Para medirla, me situé en el punto que desig-",
+    "no por L. y con rumbo Norte, cincuenta y un gra-",
+    "dos, treinta y ocho minutos Este, medí «ochocientos",
+    "cuarenta y nueve métros, cuarenta y cinco centímetros»,",
+    "hasta J. desde donde con rumbo Sud, cuarenta gra-",
+    "dos, veintiun minutos Este, medí «mil seiscientos tre-",
+    "inta y un métros, treinta y cinco centímetros hasta",
+    "K. donde exíste el mojon que coloqué como esquinero",
+    "de este terreno y el de la S.^{ra} Gelves, y costanero",
+    "del de Don Tomás Neughton [?]; desde ahí y",
+    "con rumbo Sud, cincuenta y un grados, treinta y",
+    "ocho minutos Oeste, medí «novecientos veinticinco",
+    "métros, sesenta y cinco centímetros» hasta B. donde",
+    "exíste el mojon esquinero comun del terreno de Don",
+    "Justo Rivas y del que media, y costanero del",
+    "de la S.^{ra} de Achaval. Desde B. y con rumbo",
+    "Norte, treinta y siete grados, veintidos minutos",
+    "Oeste, medí «mil seiscientos treinta métros, setenta",
+    "y cinco centímetros» hasta L.",
+    "El terreno señalado en el plano con las letras",
+    "L. J. K. B. linda: por el Noreste, con Doña Romualda"
+   ],
+   "interpretacion": "M-H-J-L = Cisterna y Morales. Lo que RESTA, la figura L-J-K-B, es la parte de SARAVÍ: L-J N 51° 38′ E 849,45 m; J-K S 40° 21′ E 1631,35 m hasta K (esquinero con Gelves, costanero de TOMÁS NAUGHTON); K-B S 51° 38′ O 925,65 m hasta B (esquinero de JUSTO RIVAS, costanero de ACHÁVAL); B-L N 37° 22′ O 1630,75 m. Linda al NE con Romualda…"
+  },
+  {
+   "titulo": "Folio 4 vuelta: linderos y superficie de L-J-K-B (144,6218 ha = 85,77 cuadras²); suma con las ventas = 933,2617 ha del trapecio A-B-C-D; el título de Saraví (2.456.900 v² = 184,2566 ha) arroja una diferencia en su contra de 39,6347 ha; asistencia de linderos y acta de conformidad",
+   "img": "img/f/114/11.jpg",
+   "fuente": "IMG_9726, página izquierda",
+   "nota": "",
+   "lineas": [
+    "G. de Casas; por el Sudeste, con Doña Francis-",
+    "ca Achaval, y Don Tomás Neughton [?]; por",
+    "el Sudoeste, con Don Justo Rivas; y por el",
+    "Noroeste, con Don Juan Morales, y contiene una",
+    "superficie de: ciento cuarenta y cuatro hectáreas,",
+    "sesenta y dos áreas, dieciocho centiareas, mas trein-",
+    "ta y seis centésimos de otra, ó sean, ochenta y cinco",
+    "cuadras cuadradas, mas setenta y siete centésimas",
+    "de otra, las que sumadas á las setecientas ochen-",
+    "ta y ocho hectáreas, sesenta y tres áreas, noventa y",
+    "ocho centiareas, mas sesenta y cuatro centésimas de",
+    "otra, componen la correspondiente á Doña Romualda",
+    "G. de Casas, á Don José Barcos, á Don De-",
+    "siderio Cisterna, y á Don Juan Morales, que",
+    "segun sus títulos hacen un total de: novecien-",
+    "tas treinta y tres hectáreas, veintiseis, áreas, dieci-",
+    "siete centiareas, que es la superficie del trapecio",
+    "A. B. C. D.",
+    "Correspondiéndole á Don Julio Saraví por su título",
+    "una superficie de: dos millones, cuatro cientas cin-",
+    "cuenta y seis mil, novecientas varas, cuadradas, ó sean,",
+    "ciento ochenta y cuatro hectáreas, veinticinco áreas,",
+    "sesenta y seis centiareas, mas noventa centésimos",
+    "de otra, resta una diferencia en su contra de: treinta",
+    "y nueve ^{hect.} áreas, sesenta y tres áreas, cuarenta y",
+    "siete centiareas, mas sesenta y cuatro centésimas",
+    "de otra.",
+    "Asistieron á la mensura todos los linderos, unos",
+    "por sí y otros por medio de apoderados, y firma-",
+    "ron todos ellos la circular y acta de conformi-",
+    "dad que acompaño á esta delligencia."
+   ],
+   "interpretacion": "…G. de Casas, al SE con Francisca Achával y Tomás Naughton, al SO con Justo Rivas y al NO con Juan Morales: 144,6218 ha = 85,77 cuadras². Sumadas a las 788,6399 ha de Casas, Barcos, Cisterna y Morales dan las 933,2617 ha del trapecio A-B-C-D. El título de Saraví vale 2.456.900 v² = 184,2567 ha: le FALTAN 39,6347 ha (la tierra vendida «por error», que deberá reclamar a terceros). Asistieron todos los linderos (por sí o por apoderado) y firmaron la circular y el acta de conformidad."
+  },
+  {
+   "titulo": "Folio 5: abalizamientos desde F, G, H, K y B (montes de José Barcos y de Tomás Naughton, torre de la iglesia de Giles, torre del Cabildo de Mercedes, población de Joaquín Oliva, mojinete NE de la casa de Justo Rivas); rumbos verdaderos; variación 11° 23′ NE; firma",
+   "img": "img/f/114/11.jpg",
+   "fuente": "IMG_9726, página derecha",
+   "nota": "",
+   "lineas": [
+    "—— Avalizamientos. —— 5",
+    "F. FG. = 0.",
+    "10° 56′ centro del monte de Don José Barcos.",
+    "181° 28′ la torre de la Iglesia de Giles.",
+    "347° 29′ el centro del monte de Don Tomás Neughton [?]",
+    "G. GH = 0.",
+    "87° 24′ el centro del monte de Barcos.",
+    "92° 57′ la torre de la Iglesia de Giles.",
+    "253° 21′ el centro del monte de Neughton [?].",
+    "H. HJ = 0.",
+    "43° 9′ la torre del Cabildo de Mercedes.",
+    "191° 3′ el centro del monte de Barcos.",
+    "319° 19′ \" \" de Neughton [?]",
+    "K. KC = 0.",
+    "41° 56′ la torre del Cabildo de Mercedes.",
+    "155° 59′ la poblacion de Don Joaquin Oliva.",
+    "322° 11′ el centro del monte de Tomás Neughton [?]",
+    "B. BC. = 0.",
+    "27° 46′ el centro del monte de Tomás Neughton [?].",
+    "137° 39′ la torre del Cabildo de Mercedes.",
+    "233° 12′ mojinete N. E. de la casa de Justo Rivas.",
+    "Todos los rumbos son verdaderos, y la varia-",
+    "cion de la aguja ha sido calculada en",
+    "once grados, veintitres minutos Noreste.",
+    "Agustin Y. [?] Rodriguez [rúbrica]",
+    "[rúbrica]"
+   ],
+   "interpretacion": "ABALIZAMIENTOS (ángulos desde el lado = 0): desde F, el centro del MONTE de José Barcos (10° 56′), la TORRE DE LA IGLESIA DE GILES (181° 28′) y el MONTE de Tomás Naughton (347° 29′); desde G, Barcos, la iglesia de Giles y Naughton; desde H, la TORRE DEL CABILDO DE MERCEDES (43° 9′), Barcos y Naughton; desde K, el Cabildo de Mercedes, la POBLACIÓN DE JOAQUÍN OLIVA y el monte de Naughton; desde B, Naughton, el Cabildo de Mercedes y el MOJINETE NE DE LA CASA DE JUSTO RIVAS (233° 12′). Rumbos verdaderos; variación 11° 23′ NE. Firma Agustín Y. [?] Rodríguez."
+  },
+  {
+   "titulo": "Folio 5 vuelta: presentación al Departamento de Ingenieros (22/8/1881) y dictamen (16/9/1881): «bien ejecutada en la parte facultativa»",
+   "img": "img/f/114/12.jpg",
+   "fuente": "IMG_9727, página izquierda",
+   "nota": "A la derecha de la toma asoma el plano plegado (f. 6).",
+   "lineas": [
+    "[Bue]nos Aires Agosto 22/81 —",
+    "Presentada en la fecha al Departa-",
+    "mento de Ingenieros —",
+    "J. Lavarri [?] [rúbrica]",
+    "Señor Juez de 1.^{a} Instancia:",
+    "El Dep.^{to} de Ing.^{s} ha exa-",
+    "minado la mensura practi-",
+    "cada por el Agrimensor D.",
+    "Agustin Y. [?] Rodriguez de un ter-",
+    "reno de D.^{n} Julio Saraví en Gi-",
+    "les y hallandola bien ejecuta-",
+    "da en la parte facultativa la",
+    "considera en estado de ser apro-",
+    "bada judicialmente",
+    "Buenos Aires S.^{bre} 16/81.",
+    "Lavalle",
+    "Encina   Lagos [?]",
+    "[a lápiz: 37 72 / 37 32 / 89 00 [?]]"
+   ],
+   "interpretacion": "Presentada al Departamento de Ingenieros (Buenos Aires, 22/8/1881, J. Lavarri [?]). Dictamen del 16/9/1881 (Lavalle, Encina, Lagos [?]): «bien ejecutada en la parte facultativa», en estado de ser aprobada judicialmente. Cifras a lápiz al pie (37 72 / 37 32 / 89 00 [?])."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano general: Romualda Galeano de Casas, José Barcos, D. Cisterna y Juan Morales, Julio Saraví (A. Y. Rodríguez, 1881)",
+   "img": "img/f/114/03.jpg",
+   "fuente": "IMG_9728.JPG (pliego en tela, f. 6)",
+   "orientacion": "Marco negro de esquinas cortadas; flecha de norte en diagonal (arriba a la izquierda) y luna creciente al pie; escala «0,001 = 20 metros» con escala gráfica de transversales; firma «Giles Agosto de 1881. Agustín Y. Rodríguez».",
+   "interpretacion": "Faja larga A-B-C-D (≈ 6887 × 1347 m) con el rótulo de imprenta ROMUALDA GALEANO DE CASAS (598 ha 82 a 60,30 ca); en su extremo SE, encajadas a lo largo del lado A-B, las ventas de Lescano: JOSÉ BARCOS (141 ha 06 a 67,24 ca), D. CISTERNA Y JUAN MORALES (48 ha 74 a 71,40 ca) y JULIO SARAVÍ (144 ha 62 a 18,36 ca = 85,77 cuadras²); la franja de Casas sigue por encima (G-J-K-C). Linderos rotulados: al NE José Pichetto, Dionisia, Gregorio, Juan de Dios y Marcelino Lescano (los hijos de Pascual, 109); al NO Simón Cucullo; al SO Marcelino Mezquita, Margarita Casey, Gerónima Lescano, Dionisia Acuña y Justo Rivas (113); al SE Tomás Neughton [Naughton] y Francisca Achával.",
+   "referencias": [
+    [
+     "A-B",
+     "S 37° 22′ E · 6887 m · contra Mezquita, Casey, G. Lescano, D. Acuña y J. Rivas"
+    ],
+    [
+     "D-A",
+     "S 51° 38′ O · 1346,68 m · contra Simón Cucullo"
+    ],
+    [
+     "C-D",
+     "N 37° [22′] O · 6889 [?] m · contra los hijos de Pascual Lescano y J. Pichetto"
+    ],
+    [
+     "B-C",
+     "N 51° 38′ E · 1347 [?] m · contra T. Naughton y F. Achával"
+    ],
+    [
+     "E-F-G-M",
+     "José Barcos: EF 1081 · FG S 37° 29′ E 1303,4 · GM 1083,6 · ME N 37° 22′ O 1303,65 m"
+    ],
+    [
+     "M-H-J-L",
+     "D. Cisterna y Juan Morales: 849,45 × 574 m"
+    ],
+    [
+     "L-J-K-B",
+     "Julio Saraví: JK S 40° 21′ E 1631,35 · KB 925,65 · BL N 37° 22′ O 1630,75 m"
+    ],
+    [
+     "C-K",
+     "438,35 [?] m: franja de Casas por encima de Saraví"
+    ],
+    [
+     "Progresivas sobre A-B",
+     "1380,34 · 2509,4 · 3378,5 [?] (cambios de lindero)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle izquierdo: el cuerpo principal de Casas",
+   "img": "img/f/114/04.jpg",
+   "fuente": "IMG_9729.JPG",
+   "orientacion": "",
+   "interpretacion": "Pichetto, Dionisia y Gregorio Lescano al NE; Simón Cucullo al NO (D-A S 51° 38′ O 1346,68 m); Mezquita, Casey y Gerónima Lescano al SO; superficie de Casas 598 ha 82 a 60,30 ca.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle central",
+   "img": "img/f/114/05.jpg",
+   "fuente": "IMG_9730.JPG",
+   "orientacion": "",
+   "interpretacion": "Lote de José Barcos y comienzo de Cisterna-Morales; lado A-B S 37° 22′ E 6887 m; escala gráfica.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle derecho: Barcos, Cisterna-Morales y Saraví",
+   "img": "img/f/114/06.jpg",
+   "fuente": "IMG_9731.JPG",
+   "orientacion": "",
+   "interpretacion": "Rótulos de lados y superficies de los tres lotes; vértices G, H, J, K, M, L, B, C; Naughton y Achával al SE; Justo Rivas al SO.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Ubicación: el cierre del bloque lescano",
+   "texto": "La mensura se apoya en otra del mismo agrimensor hecha «días anteriores» para ROMUALDA G. DE CASAS (un trapecio de 933,26 ha dentro del campo de Francisco Lescano), de la que este duplicado da el plano completo. El extremo SE de ese trapecio queda repartido entre Barcos, Cisterna-Morales y Saraví. Linderos que encadenan con 109 (hijos de Pascual Lescano al NE), 113 (Dionisia Acuña y Justo Rivas al SO: los «Barco, Cisterna, Morales» de 113 son los mismos) y 091 (Pichetto). Con 109 y 113 este plano permite dibujar en el GIS casi todo el campo de Francisco Lescano (5000 × 7900 v)."
+  },
+  {
+   "titulo": "Una herencia vendida «por error»",
+   "texto": "Saubidet, en 1866, dejó la parte de Rosario Gelves (heredera de Petrona López de Lescano: 311 × 7900 v) y la de Ciriaco/Cirilo Montiel —hijo de Petrona López, según el dup. 115— dentro de lo adjudicado al albacea Francisco Lescano (hijo), que la fue vendiendo (a Casas, Barcos, Cisterna y Morales). En 1881 el agrimensor no mide el título de Saraví, sino el RESIDUO: ubica primero todas las ventas y le da a Saraví lo que sobra (144,62 ha de 184,26). La mensura es aquí un arbitraje de hecho sobre una partición defectuosa; las 39,63 ha faltantes quedan para acciones reivindicatorias."
+  },
+  {
+   "titulo": "Circulación de derechos",
+   "texto": "Cesión de derechos hereditarios de Dionisia Gelves de Ponce a Julio Saraví en CHIVILCOY (1880), antes incluso de la declaratoria de herederos (1881): un comprador de derechos litigiosos que cobra en tierra. El apellido Saraví es de Giles desde la enfiteusis (Bartolomé Saraví, 013; Ángela Casco de Saraví, 005)."
+  },
+  {
+   "titulo": "Paisaje: montes y casas como señales",
+   "texto": "Los abalizamientos usan el «centro del monte» de José Barcos y el de Tomás Naughton (montes de árboles plantados alrededor de las poblaciones), la población de Joaquín Oliva y el «mojinete NE de la casa de Justo Rivas» (casa de techo a dos aguas). Junto a ellos, las dos anclas lejanas del bloque: torre de la iglesia de Giles y torre del Cabildo de Mercedes. Es un paisaje de chacras arboladas visibles entre sí."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Rumbos verdaderos; variación 11° 23′ NE (Schuster 11° 34′ en 1880-81, 113). Medidas en metros con centímetros; superficies en hectáreas y su equivalencia en cuadras y varas cuadradas. Se reutilizan los mojones de la mensura de Casas; se ponen mojones nuevos en M y L. El rumbo J-K (S 40° 21′ E) se aparta de los 37° 22′-37° 29′ de las demás líneas: el lado NE del lote de Saraví no es paralelo (lo confirma el plano)."
+  },
+  {
+   "titulo": "Lecturas dudosas",
+   "texto": "Inicial del agrimensor «Agustín Y. [?] Rodríguez» (puede ser J.); «Jocona [?]» (¿Jacoba?) entre las hermanas Lescano; «José A. [?] Tapié»; «Ciriaco Montiel» (f. 1 v.) vs «Cirilo Montiel» (f. 2 v.); «Neughton/Neirghton» = Naughton; «Lagos [?]» en el dictamen; cifras a lápiz."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "La mensura de Romualda G. de Casas es el duplicado siguiente (Ficha 115, mismo plano). ¿Quién compró las 39,63 ha que faltan a Saraví? ¿Se aprobó judicialmente?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Julio Saraví",
+   "rol": "Propietario (cesionario)",
+   "texto": "Cesionario de los derechos de Dionisia Gelves de Ponce (Chivilcoy, 1880); demanda a Francisco Lescano (hijo) en 1881. Apellido presente en Giles desde 1827 (Bartolomé Saraví, 013). La búsqueda web breve no dio datos.",
+   "fuentes": "Dup. 114; Fichas 005, 013."
+  },
+  {
+   "nombre": "Agustín Y. [?] Rodríguez",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor público nuevo en el corpus; en agosto de 1881 mide antes el campo de Romualda G. de Casas. Letra de copista muy regular. Sin datos en la búsqueda web.",
+   "fuentes": "Dup. 114."
+  },
+  {
+   "nombre": "Rosario Gelves · Dionisia Gelves de Ponce · Petrona López de Lescano",
+   "rol": "Antecesoras",
+   "texto": "Petrona, esposa de Francisco Lescano; Rosario, heredera suya (311 × 7900 v); Dionisia, hermana natural de Rosario, declarada heredera en 1881. Gerónima Lescano de Gelves (113) es del mismo tronco.",
+   "fuentes": "Dup. 113, 114."
+  },
+  {
+   "nombre": "Francisco Lescano (padre e hijo) · Antonio Lescano · Pedro Antonio Martínez",
+   "rol": "Antecesores",
+   "texto": "Cadena del título: Martínez → Antonio Lescano (1825) → sus hijos → Francisco (1838) → sus herederos (Saubidet 1866); Francisco (hijo), albacea, vende parte de la tierra.",
+   "fuentes": "Dup. 109, 114."
+  },
+  {
+   "nombre": "Romualda Galeano de Casas",
+   "rol": "Lindera / compradora",
+   "texto": "Compra a Francisco Lescano (hijo) y a Cirilo Montiel 598,83 ha; su campo, medido por el mismo agrimensor en 1881, es la matriz del plano. Cf. 068, 095, 109.",
+   "fuentes": "Fichas 068, 095, 109."
+  },
+  {
+   "nombre": "José Barcos · Desiderio Cisterna · Juan Morales",
+   "rol": "Compradores linderos",
+   "texto": "Compran a Lescano 141,07 ha (Barcos) y 48,75 ha (Cisterna y Morales); «José Barco», Cisterna y Morales ya figuran como linderos en 113.",
+   "fuentes": "Dup. 113, 114."
+  },
+  {
+   "nombre": "Tomás Naughton · Francisca Achával · Joaquín Oliva · Justo Rivas",
+   "rol": "Linderos y referencias",
+   "texto": "Naughton, irlandés, con monte propio (109); Francisca Achával de Yera (113); Oliva, población usada como visual; Rivas (113), cuya casa sirve de señal.",
+   "fuentes": "Fichas 109, 113."
+  },
+  {
+   "nombre": "Juan San Martín · José A. [?] Tapié · Cirilo Coronado · Luis Castiñaga · Lavalle",
+   "rol": "Juez · apoderado · escribanos · d. i.",
+   "texto": "San Martín, juez civil del Centro (109, 113); Tapié, apoderado de Lescano; Coronado, escribano de Chivilcoy; Castiñaga, escribano de 1838; dictamen Lavalle–Encina–Lagos [?].",
+   "fuentes": "Dup. 114; Fichas 109, 113."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/114/02.jpg",
+  "fuente": "IMG_9721.JPG (girada 90°)",
+  "lineas": [
+   "San Andrés de Giles",
+   "N.^{o} 114.",
+   "Mensura",
+   "del terreno perteneciente á",
+   "D.^{n} Julio Saraví",
+   "— sito en el —",
+   "«Partido de Giles.»",
+   "Por el Agrimensor",
+   "Agustin Y. [?] Rodriguez",
+   "Agosto de 1881.",
+   "9.84.2916 [lápiz]",
+   "3-301 [lápiz]",
+   "[al margen, a lápiz: «[...]ados los rumbos [?]»]"
+  ]
+ },
+ "titulo": "Julio Saraví",
+ "estado": "Transcripta (10 hojas, 287 renglones), 4 láminas"
+}

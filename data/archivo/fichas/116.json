@@ -1,0 +1,508 @@
+{
+ "carpeta": "116",
+ "carpeta_nombre": "Carpeta 116",
+ "archivo": "Ficha 116 - Emilia López de Cucullu (1881).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (margen SE del arroyo de Giles, aguas abajo del pueblo [?])",
+  "N.º de duplicado": "116",
+  "Propietario / solicitante": "Emilia López de Cucullu",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1881",
+  "Fecha de la diligencia": "Mensura 14/9/1881 (fechada 15/9); D. I. 14/10; aprobada 22/10/1881",
+  "Ubicación": "Sobre el arroyo de Giles, entre José Pichetto y Marcelino Mesquita",
+  "Orden judicial": "Juez de 1.ª Inst. en lo Civil, Dep. del Centro (Mercedes), Dr. Juan San Martín",
+  "Vendedor / antecesor": "Natalia Arriaga → sus hijos López → Emilia López de Cucullu (1876)",
+  "Linderos citados": "J. Pichetto (NE) · R. G. de Casas (SE) · Dr. M. Mesquita (SO) · arroyo de Giles (NO)",
+  "Medidas": "A-B 1412 (arroyo) · B-C 3504 · C-D 1368,5 · D-A 4348 m; 522,30 ha",
+  "Rumbos": "S 22° 14′ O · S 47° 16′ E · N 57° 34′ E · N 47° 16′ O; var. 11° 34′ NE",
+  "Referencia de archivo": "Dup. 116; aprobación 22/10/1881 agregada; copia de Geodesia 1936"
+ },
+ "metricas": {
+  "superficie_ha": "522,30",
+  "hitos": "Arroyo de Giles; camino a Mercedes; dos puestos; poblaciones; torre izquierda de la iglesia de Giles",
+  "aguas": "Arroyo de Giles (lado NO, relevado por ordenadas)"
+ },
+ "sintesis": "Duplicado completo (títulos, mensura, abalizamiento, dictamen, auto de aprobación) con plano y copia de 1936. En septiembre de 1881 Carlos Schuster mide el campo de Emilia López de Cucullu, heredado de su madre Natalia Arriaga y completado en 1876 con la compra de las partes de sus cuatro hermanos: un trapecio de 522,30 ha cuyo lado NO es el ARROYO DE GILES, relevado por ordenadas, entre José Pichetto, Romualda G. de Casas y el Dr. Marcelino Mesquita. Lo cruzan el camino a Mercedes y otro camino; hay dos puestos. La operación se demoró por el mal tiempo. Aprobada por el juez Juan San Martín en Mercedes el 22/10/1881.",
+ "caratula": {
+  "img": "img/f/116/01.jpg",
+  "fuente": "IMG_9744.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "116"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Emilia López de Cucullu"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1881"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: encabezado y extracto de títulos (venta de Rosaura, Agustín, Ramón y Ambrosio López a su hermana Emilia López de Cucullu, 8/3/1876; herencia de Natalia Arriaga); pedido de mensura (12/8/1881)",
+   "img": "img/f/116/06.jpg",
+   "fuente": "IMG_9746 (girada 90°)",
+   "nota": "Letra cursiva inclinada del copista de Schuster; folio sellado «1». Tomas 9747-9750 de doble página.",
+   "lineas": [
+    "Mensura del terreno de la",
+    "propiedad de Doña Emilia Ló-",
+    "pez de Cucullu situado en el Par-",
+    "tido de Giles —",
+    "Estracto de títulos",
+    "En 1876 Marzo 8: Ante el Escribano pú-",
+    "blico Don Laureano Carballeda, Don Fe-",
+    "lipe Ruiz en representacion y con poder",
+    "bastante de D.^{a} Rosaura, Don Agustin, D.^{n}",
+    "Ramon y D.^{n} Ambrosio Lopez, vende á Do-",
+    "ña Emilia Lopez de Cucullu representa-",
+    "da por su esposo Don Simon Cucullu",
+    "la parte que á cada uno corresponde en",
+    "un terreno de pastoreo ubicado en el Par-",
+    "tido de San Andres de Giles compuesto",
+    "de mil cuatrocientos siete metros veinti-",
+    "cinco centímetros de frente, igual á mil",
+    "seiscientas veinticinco varas y cinco",
+    "mil ciento noventa y seis metros ó sean",
+    "seis mil varas de fondo mas ó menos, cu-",
+    "yas partes ó haberes pertenecen á los Seño-",
+    "res Lopez como únicos y universales here-",
+    "deros juntamente con la compradora, de",
+    "la madre comun Doña Natalia Arriaga",
+    "segun la cláusula nueve de la memo-",
+    "ria testamentaria que original tuvo á la",
+    "vista el otorgante, como de que la estension",
+    "asignada á la totalidad del terreno es-",
+    "puesta es la que resulta del inventario",
+    "y tasacion de los bienes de la S.^{ra} Arriaga.",
+    "1881. Agosto 12. Don Simon Cucullu por su",
+    "esposa D.^{a} Emilia Lopez de Cucullu se presen-",
+    "ta al Señor Juez de 1.^{a} Inst.^{a} en lo Civil del",
+    "Dep.^{to} del Centro solicitando se autorize al"
+   ],
+   "interpretacion": "ENCABEZADO: mensura del terreno de EMILIA LÓPEZ DE CUCULLU en Giles. EXTRACTO: el 8/3/1876, ante el escribano LAUREANO CARBALLEDA, FELIPE RUIZ, apoderado de ROSAURA, AGUSTÍN, RAMÓN y AMBROSIO LÓPEZ, vende a su hermana Emilia (representada por su esposo SIMÓN CUCULLU) la parte de cada uno en un TERRENO DE PASTOREO de 1407,25 m (= 1625 v) de frente por 5196 m (= 6000 v) de fondo «más o menos», que los López heredaron de su madre NATALIA ARRIAGA (cláusula 9 de la memoria testamentaria); la extensión es la que resulta del inventario y tasación de sus bienes. 12/8/1881: Simón Cucullu, por su esposa, pide al juez civil del Departamento del Centro que autorice al agrimensor…"
+  },
+  {
+   "titulo": "Folio 1 vuelta: nombramiento (13/8/1881) y antecedentes (16/8); mensura postergada por el mal tiempo del 26/8 al 14/9/1881; arranque en A (ángulo N, O de José Pichetto); A-B S 22° 14′ O 1412 m con el ARROYO DE GILES por límite y sus ordenadas",
+   "img": "img/f/116/07.jpg",
+   "fuente": "IMG_9747, página izquierda",
+   "nota": "",
+   "lineas": [
+    "Agrimensor suscripto para medir el cam-",
+    "po de su propiedad en el Partido de Giles —",
+    "En Agosto 13 el S.^{or} Juez ha por nombrado al",
+    "Agrimensor propuesto y en Agosto 16 tomé an-",
+    "tecedentes del Dep.^{to} de Ingenieros —",
+    "Mensura —",
+    "Comisionado yo el Agrimensor público",
+    "que firmo, por el S.^{or} Juez de 1.^{a} Inst.^{a}",
+    "en lo Civil del Dep.^{to} del Centro D.^{r} D.^{n} Juan",
+    "San Martin, por auto de fecha 13 de Agosto",
+    "del corriente año para medir el terreno de",
+    "la propiedad de Doña Emilia Lopez de Cu-",
+    "cullu, situado en el Partido de Giles, hice la",
+    "citacion de los linderos para dar principio",
+    "á la operacion el dia 26 del Mes de Agosto",
+    "pero á causa del mal tiempo recien pu-",
+    "do efectuarse el dia 14 del corriente mes de",
+    "Setiembre de lo que fueron avisados los lin-",
+    "deros, se acompaña original la circular de",
+    "citacion —",
+    "El dia indicado me coloqué en el",
+    "mojon del ángulo Norte del terreno de",
+    "la S.^{ra} Cucullu que tambien es del Oes-",
+    "te para Don José Pichetto, vá señalado",
+    "en el plano con la letra A., de donde co-",
+    "locando una bandera en el mojon B. es-",
+    "quinero Oeste del terreno que mido y Norte",
+    "de uno del D.^{r} Don Marcelino Mesqui-",
+    "ta; resultó al Sud veinte y dos grados",
+    "catorce minutos Oeste (S. 22° 14′ O.) y se",
+    "midieron hasta él mil cuatrocientos do-",
+    "ce metros (1412 m.^{s}), en esta línea el lími-",
+    "te es el arroyo de Giles, y se determinó del",
+    "modo siguiente; á los setenta y cinco",
+    "metros queda á la derecha ciento diez",
+    "y ocho metros, á los trescientos cuarenta y"
+   ],
+   "interpretacion": "…propuesto a medir el campo. El juez lo nombra el 13/8 y el 16/8 Schuster toma antecedentes en el Departamento de Ingenieros. MENSURA: comisionado por el juez JUAN SAN MARTÍN, cita para el 26/8, pero «a causa del MAL TIEMPO» recién opera el 14/9/1881. Desde A (ángulo N del campo, O de JOSÉ PICHETTO), con una BANDERA en B (esquinero O, N de un campo del Dr. MARCELINO MESQUITA), mide S 22° 14′ O 1412 m; en esa línea EL LÍMITE ES EL ARROYO DE GILES, cuyo curso se relevó por ordenadas: a 75 m queda 118 m a la derecha…"
+  },
+  {
+   "titulo": "Folio 2: ordenadas del arroyo de Giles sobre A-B (se cruza a 345, 535, 815, 1205 m); del mojón B el arroyo queda a 50 m al N 47° 16′ O; B-C S 47° 16′ E 3504 m contra el Dr. Marcelino Mesquita (caminos a 250 y 2350 m); C-D N 57° 34′ E 1368,5 m contra Mesquita y Romualda Galeano de Casas",
+   "img": "img/f/116/07.jpg",
+   "fuente": "IMG_9747, página derecha",
+   "nota": "",
+   "lineas": [
+    "y cinco, se cruza, á los quinientos,",
+    "queda treinta y cinco á la izquierda, á",
+    "los quinientos treinta y cinco se cruza, á",
+    "los quinientos ochenta queda treinta y",
+    "cinco á la derecha, á los setecientos cin-",
+    "co, cincuenta á la derecha, á ochocientos",
+    "quince se cruza, á ochocientos cuarenta",
+    "á la izquierda quince, á los mil veinti-",
+    "cinco, cinco, á mil ciento ochenta trein-",
+    "ta, mil doscientos cinco se cruza, á mil",
+    "trescientos ochenta, treinta y cinco á la",
+    "derecha.",
+    "Del mojon B queda el arroyo al Norte",
+    "cuarenta y siete grados diez y seis minu-",
+    "tos Oeste, cincuenta metros (N. 47° 16′ O. 50 m)",
+    "Desde el mojon B por el rumbo",
+    "al Sud cuarenta y siete grados diez y seis mi-",
+    "nutos Este (S. 47° 16′ E.) se midieron tres-",
+    "mil quinientos cuatro metros (3504 m.^{s}) —",
+    "deslindando con terreno del Doctor Mesqui-",
+    "ta y se llegó al mojon del ángulo Sud",
+    "del terreno que se mide, Este de un cam-",
+    "po y costanero de otro del D.^{r} Mesquita, vá",
+    "señalado con la letra C. En esta línea",
+    "á los doscientos cincuenta metros (250 m.^{s}) se",
+    "encontró un camino y á los dos mil tres-",
+    "cientos cincuenta m.^{s} (2350 m.^{s}) otro. —",
+    "Desde el mojon C. por el rumbo",
+    "al Norte cincuenta y siete grados treinta",
+    "y cuatro minutos Este, (N. 57° 34′ E.) se mi-",
+    "dieron mil trescientos sesenta y ocho metros",
+    "cinco decímetros (1368,5 m.^{s}), y se llegó al",
+    "mojon del ángulo Este del terreno que se",
+    "mide y Sud de Pichetto, letra D. del plano,",
+    "se deslinda con el D.^{r} Mesquita y con Doña",
+    "Romualda Galeano de Casas, á los cua-"
+   ],
+   "interpretacion": "…el arroyo se cruza a 345, 535, 815 y 1205 m, y se aparta 35, 50, 15, 5, 30 y 35 m a uno u otro lado: un cauce sinuoso que cruza la línea cuatro veces. Desde B el arroyo queda a 50 m (N 47° 16′ O). B-C: S 47° 16′ E, 3504 m, contra el Dr. Mesquita, hasta C (ángulo S); CAMINOS cruzados a 250 m y 2350 m. C-D: N 57° 34′ E, 1368,5 m, hasta D (ángulo E, S de Pichetto), contra Mesquita y ROMUALDA GALEANO DE CASAS (115)…"
+  },
+  {
+   "titulo": "Folio 2 vuelta: mojón Mesquita/Casas a 41 m; D-A N 47° 16′ O 4348 m contra Pichetto (del mojón A al arroyo de Giles hay 70 m; caminos a 2850 y 4330 m); superficie 522 ha 30 a = 6.964.408 v²; linderos; variación 11° 34′ NE; edictos y acta (art. 618); 15/9/1881",
+   "img": "img/f/116/08.jpg",
+   "fuente": "IMG_9748, página izquierda",
+   "nota": "",
+   "lineas": [
+    "renta y un metros (41 m.^{s}) se encontró el",
+    "mojon que divide á estos últimos.",
+    "Desde el mojon D por el rum-",
+    "bo al Norte cuarenta y siete grados diez y",
+    "seis minutos Oeste (N. 47° 16′ O.) deslindando",
+    "con Pichetto, se midieron cuatro mil tres-",
+    "cientos cuarenta y ocho metros (4348 m.^{s}) y",
+    "se llegó al mojon de arranque, y hasta el",
+    "arroyo de Giles hay setenta metros (70 m.^{s}) —",
+    "mas. Se encontró un camino á los",
+    "dos mil ochocientos cincuenta m.^{s} (2850 m.^{s}) —",
+    "y otro á los cuatro mil trescientos treinta",
+    "m.^{s} (4330 m.^{s}) —",
+    "La superficie de este terreno",
+    "es igual á quinientas veinte y dos",
+    "hectáreas, treinta áreas ó sean seis mi-",
+    "llones nuevecientos sesenta y cuatro mil",
+    "cuatrocientos ocho v.^{s} c.^{s} (522^{h} 30^{a} = 6.964.408 v.^{s} c.^{s})",
+    "Sus linderos son al Nord Este Don",
+    "José Pichetto al Sud Este Doña Romual-",
+    "da Galeano de Casas, y en una pequeña",
+    "parte el D.^{r} Don Marcelino Mesquita, al",
+    "Sud Oeste el mismo D.^{r} Mesquita y al Nord",
+    "Oeste el arroyo de Giles —",
+    "Los rumbos son los verdaderos",
+    "y la variacion de la Aguja de 11° 34′ N. E. —",
+    "Se acompañan los diarios en",
+    "que han sido publicados los edictos y",
+    "la acta levantado con arreglo al art.^{o}",
+    "618 de la Ley de Procedimientos —",
+    "Partido de San Andres de Giles á 15 de Se-",
+    "tiembre de 1881 —",
+    "Cárlos Schuster [rúbrica]"
+   ],
+   "interpretacion": "…a 41 m el mojón que divide a éstos. D-A: N 47° 16′ O, 4348 m, contra Pichetto, al mojón de arranque; de A al arroyo de Giles hay 70 m más; caminos a 2850 y 4330 m. SUPERFICIE: 522 ha 30 a = 6.964.408 v². Linderos: NE José Pichetto; SE Romualda G. de Casas y, en una pequeña parte, Mesquita; SO el Dr. Mesquita; NO EL ARROYO DE GILES. Rumbos verdaderos; variación 11° 34′ NE. Edictos en los diarios y acta del art. 618. Giles, 15/9/1881. Firma Carlos Schuster."
+  },
+  {
+   "titulo": "Folio 3: abalizamientos (poblaciones de Lucio [?] Saraví, Julio Saraví, Mercedes L. de Butterfield, Dr. Mesquita, Romualda G. de Casas, José Pichetto, Félix Lescano, Atanasia [?] Díaz; torre izquierda de la iglesia de Giles); presentación al Departamento de Ingenieros (10/10/1881) y comienzo del dictamen",
+   "img": "img/f/116/08.jpg",
+   "fuente": "IMG_9748, página derecha",
+   "nota": "",
+   "lineas": [
+    "Avalisamientos —",
+    "Mojon A. sobre la línea A. B.",
+    "Poblacion de D.^{n} Lucio [?] Saraví 79° 45′, id.",
+    "de Don Julio Saraví, 144° 40. Torre de la izq.^{da}",
+    "de la Iglesia de Giles 199° 18′. —",
+    "Mojon B sobre B. C. — Poblacion de Doña Mer-",
+    "cedes L. de Butterfield 83° 25, Torre de la",
+    "izq.^{da} de la Iglesia Giles 258° 12′. Poblacion del",
+    "D.^{r} Mesquita 139° 20′. —",
+    "Mojon C, sobre C. B. Poblacion de Doña Ro-",
+    "mualda G. de Casas 120° 35′. — id. de Don Jo-",
+    "sé Pichetto 87° 28′. Don Felix Lescano 305° 58′. —",
+    "Mojon D sobre D. C. Poblacion de Doña Ata-",
+    "nasia [?] Diaz 189° 20′. Don Felix Lescano 14° 45′.",
+    "y D.^{a} Romualda G. de Casas 330° 15′. —",
+    "Schuster [rúbrica]",
+    "Buenos Aires Octubre 10/81 —",
+    "Presentada en la fecha al Depar-",
+    "tamento de Ingenieros —",
+    "J. Lavarri [?] [rúbrica]",
+    "Señor Juez de 1.^{a} Instancia",
+    "El Departamento de Inge-",
+    "nieros ha examinado la",
+    "mensura practicada por",
+    "el Agrimensor D. Cárlos",
+    "Schuster del terreno de D.^{a}"
+   ],
+   "interpretacion": "ABALIZAMIENTOS: desde A, POBLACIONES de LUCIO [?] SARAVÍ (79° 45′) y JULIO SARAVÍ (144° 40′) y la TORRE IZQUIERDA DE LA IGLESIA DE GILES (199° 18′); desde B, la población de MERCEDES L. DE BUTTERFIELD, la torre izquierda de la iglesia y la población del Dr. Mesquita; desde C, las de Romualda G. de Casas, José Pichetto y FÉLIX LESCANO; desde D, las de ATANASIA [?] DÍAZ, Félix Lescano y Casas. Presentada al Departamento de Ingenieros el 10/10/1881 (J. Lavarri [?]); comienza el dictamen."
+  },
+  {
+   "titulo": "Folio 3 vuelta: fin del dictamen del Departamento de Ingenieros (14/10/1881): «la aprueba facultativamente»",
+   "img": "img/f/116/09.jpg",
+   "fuente": "IMG_9749, página izquierda",
+   "nota": "Página izquierda de la toma; abajo, en transparencia, el texto del reverso.",
+   "lineas": [
+    "Emilia L. de Cucullu en",
+    "Giles, y la aprueba faculta-",
+    "tivamente Octubre 14/81",
+    "Lavalle",
+    "Moreno   Lagos [?]"
+   ],
+   "interpretacion": "Dictamen del 14/10/1881 (Lavalle, Moreno, Lagos [?]): el Departamento examinó la mensura de Emilia L. de Cucullu en Giles «y la aprueba facultativamente»."
+  },
+  {
+   "titulo": "Folio 4: oficio del juez Juan San Martín al Presidente del Departamento de Ingenieros (Mercedes, 27/10/1881): aprobación de la mensura por auto del 22/10/1881",
+   "img": "img/f/116/09.jpg",
+   "fuente": "IMG_9749, página derecha",
+   "nota": "",
+   "lineas": [
+    "1-11-425 [lápiz]",
+    "3-35-3-8 [lápiz]   Corresponde [rúbrica]",
+    "[sello fiscal: Dirección General de Rentas de la Provincia de Buenos Aires · 6 · 1881 · seis pesos · N.^{o} 433121]",
+    "Mercedes, Octubre 27 de 1881",
+    "Al Señor Presidente del",
+    "Departamento de Ingenieros —",
+    "Comunico á U. que",
+    "con fecha veinte y dos del cor-",
+    "riente el Juzgado en vista",
+    "de encontrarse todas las diligen-",
+    "cias necesarias en autos, ha apro-",
+    "bado la mensura practicada por",
+    "el Agrimensor Don Cárlos Schus-",
+    "ter de un campo de propie-",
+    "dad de D. Simon Cucullu si-",
+    "tuado en el Partido de Giles, por",
+    "el siguiente decreto: «Autos y",
+    "vistos: Existiendo en autos las",
+    "diligencias necesarias para ser",
+    "aprobada la mensura practica-",
+    "da por el Agrimensor D. Cárlos"
+   ],
+   "interpretacion": "Papel sellado de 1881 (seis pesos, n.º 433121). El juez JUAN SAN MARTÍN comunica desde MERCEDES (27/10/1881) al Presidente del Departamento de Ingenieros que el 22/10 el juzgado APROBÓ la mensura de Schuster del campo de SIMÓN CUCULLU, por el decreto que transcribe…"
+  },
+  {
+   "titulo": "Folio 4 vuelta: fin del auto («Mercedes, Octubre veinte y dos de mil ochocientos ochenta y uno. San Martín. Ante mí: Manuel Malmierca [?]»); firma del juez; «Agréguese al duplicado correspondiente» (Lavalle, 3/11/1881)",
+   "img": "img/f/116/10.jpg",
+   "fuente": "IMG_9750, página izquierda",
+   "nota": "A la derecha asoman el plano plegado (f. 5) y la copia de 1936.",
+   "lineas": [
+    "«Schuster, corriente de f.^{s} 16 á f.^{s} 24, se",
+    "«aprueba esta operacion en cuanto",
+    "«hubiere lugar por derecho, interpo-",
+    "«niendo el Juzgado para mayor",
+    "«validez la autoridad pública q.^{e}",
+    "«inviste. Hágase saber esta reso-",
+    "«lucion al Departamento de In-",
+    "«genieros por oficio, fecho entrégue-",
+    "«se este espediente al interesado",
+    "«prévio pago de costas y reposicion",
+    "«de sellos, inclusive la presente.",
+    "«Mercedes, Octubre veinte y dos de mil",
+    "«ochocientos ochenta y uno. San",
+    "«Martin. Ante mí: Manuel",
+    "«Malmierca [?].» —",
+    "Dios G.^{de} á U.",
+    "Juan San Martin [rúbrica]",
+    "B.^{s} Ay.^{s} Noviembre 3. 1881",
+    "Agréguese — al duplicado",
+    "correspondiente",
+    "Lavalle"
+   ],
+   "interpretacion": "…«se aprueba esta operación en cuanto hubiere lugar por derecho», interponiendo el juzgado su autoridad; que se avise al Departamento por oficio y se entregue el expediente al interesado previo pago de costas y sellos. Mercedes, 22/10/1881; San Martín; ante MANUEL MALMIERCA [?]. Firma Juan San Martín. Nota del Departamento (Buenos Aires, 3/11/1881, Lavalle): «Agréguese al duplicado correspondiente». Es la vida del duplicado completa: mensura → dictamen → aprobación → oficio → agregado."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Emilia L. de Cucullu (Schuster, 1881)",
+   "img": "img/f/116/03.jpg",
+   "fuente": "IMG_9751.JPG (f. 5, cartulina con marco negro redondeado); detalle 9752",
+   "orientacion": "Marco negro grueso de esquinas redondeadas; flecha «Var. 11° 34′ NE» en diagonal; escala gráfica de 3000 metros; firma Carlos Schuster. Cifras a lápiz del Departamento (522 ha 30 a; progresivas de caminos).",
+   "interpretacion": "Trapecio sombreado EMILIA L. DE CUCULU, con el ARROYO DE GILES («Ar. de Giles», sinuoso) como lado NO (A-B, S 22° 14′ O 1412) y sus distancias a los mojones (70 m en A, 50 m en B). Arriba José Pichetto; abajo Marcelino Mezquita; a la derecha Romualda G. de Casas y Mezquita. Dos caminos cruzan el campo: uno junto al arroyo y el CAMINO A MERCEDES en diagonal (progresivas 2850 y 2350). Dos «Puesto» junto al lado D-A. El lado D-A está rotulado «N 47° 16′ O 4384 m» (el texto dice 4348).",
+   "referencias": [
+    [
+     "A-B",
+     "S 22° 14′ O · 1412 m · arroyo de Giles (se cruza 4 veces)"
+    ],
+    [
+     "B-C",
+     "S 47° 16′ E · 3504 m · contra M. Mesquita (caminos a 250 y 2350 m)"
+    ],
+    [
+     "C-D",
+     "N 57° 34′ E · 1368,5 m · contra Mesquita y R. G. de Casas"
+    ],
+    [
+     "D-A",
+     "N 47° 16′ O · 4348 m (plano: 4384) · contra J. Pichetto (caminos a 2850 y 4330 m)"
+    ],
+    [
+     "Camino a Mercedes",
+     "Diagonal NO-SE por el centro del campo"
+    ],
+    [
+     "Puestos",
+     "Dos, cerca del lado D-A (Pichetto)"
+    ],
+    [
+     "Superficie",
+     "522 ha 30 a = 6.964.408 v²"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle del plano",
+   "img": "img/f/116/04.jpg",
+   "fuente": "IMG_9752.JPG",
+   "orientacion": "",
+   "interpretacion": "Ampliación con el arroyo, los dos caminos, los puestos y los rótulos de los lados.",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia certificada de la Dirección de Geodesia (La Plata, marzo de 1936)",
+   "img": "img/f/116/05.jpg",
+   "fuente": "IMG_9753.JPG",
+   "orientacion": "",
+   "interpretacion": "«Es copia del plano agregado al duplicado n.º 116 del partido de San Andrés de Giles, mensura practicada en setiembre de 1881 por el agrimensor Carlos Schuster. La Plata, marzo de 1936». Sello Geodesia-Catastro y Mapa, M. O. P., Dirección; firma del director; «Dib. por D. O. Massabó; Rev. por J. S. Chiappino».",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Ubicación: el arroyo de giles como lindero",
+   "texto": "El campo tiene por lado NO el ARROYO DE GILES y linda con José Pichetto (NE), Romualda G. de Casas (SE, 115) y el Dr. Marcelino Mesquita (SO). Pichetto es el de 091 (ex Pividal) y lindero NO del trapecio Lescano (114-115): esta pieza queda entre el bloque Lescano y el arroyo. En 115, Simón Cucullo / Isidro Cucullo es el lindero NO de Casas: es el marido de Emilia. Con 091 y 114-115 se puede cerrar en el GIS la franja entre el arroyo y el campo de F. Lescano. Ojo: la Ficha 086 ya citaba «Simón Cucullo (antes Natalia Arriaga)»: es esta misma tierra."
+  },
+  {
+   "titulo": "Paisaje: arroyo sinuoso, caminos, puestos",
+   "texto": "Schuster releva el arroyo por ordenadas sobre la línea A-B (lo cruza cuatro veces, con desvíos de hasta 118 m). Dos caminos atraviesan el campo, uno de ellos el CAMINO A MERCEDES. Dos puestos. Visuales a cinco poblaciones (Lucio [?] y Julio Saraví, Mercedes L. de Butterfield, Mesquita, Casas, Pichetto, Félix Lescano, Atanasia [?] Díaz) y a la torre izquierda de la iglesia de Giles."
+  },
+  {
+   "titulo": "Herencia femenina y compra entre hermanos",
+   "texto": "Natalia Arriaga deja el campo a sus hijos López; en 1876 Emilia compra las partes de sus cuatro hermanos por medio de su marido. La extensión «es la que resulta del inventario y tasación» (1625 × 6000 v ≈ 7,3 millones de v²), pero la mensura da 6,96 millones: el título por varas «más o menos» se ajusta al terreno real limitado por el arroyo."
+  },
+  {
+   "titulo": "El tiempo y el circuito judicial",
+   "texto": "La operación se posterga del 26/8 al 14/9 «a causa del mal tiempo» (invierno lluvioso de 1881; el arroyo crecido). Circuito completo y rápido: pedido 12/8, nombramiento 13/8, mensura 14/9, D. I. 14/10, aprobación 22/10, oficio 27/10, agregado 3/11/1881. El juzgado del Centro funciona en MERCEDES."
+  },
+  {
+   "titulo": "Lecturas dudosas",
+   "texto": "«Lucio [?] Saraví»; «Atanasia [?] Díaz»; actuario «Manuel Malmierca [?]»; «J. Lavarri [?]»; «Lagos [?]». Diferencia 4348 (texto) / 4384 (plano) en D-A."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Quién fue Natalia Arriaga y cómo hubo el campo (¿venta de los albaceas de Suero, como el resto de la margen E?)? ¿El campo está aguas arriba o abajo del pueblo? (Butterfield, visado desde B, estaba en la naciente de la Cañada de Giles, 048.) ¿Qué es el «otro camino» paralelo al arroyo?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Emilia López de Cucullu · Simón Cucullu",
+   "rol": "Propietaria · esposo y apoderado",
+   "texto": "Hija de Natalia Arriaga; compra en 1876 las partes de sus hermanos. Simón Cucullu, lindero NO de Casas (115) y de Pascual Lescano (109); el apellido Cucullu aparece desde la tira «Cucullu» de la margen O (033, 046).",
+   "fuentes": "Dup. 116; Fichas 033, 046, 086, 115."
+  },
+  {
+   "nombre": "Natalia Arriaga · Rosaura, Agustín, Ramón y Ambrosio López",
+   "rol": "Causante · vendedores",
+   "texto": "Natalia Arriaga, antes dueña del campo (086); sus hijos venden a Emilia por intermedio de Felipe Ruiz (1876).",
+   "fuentes": "Dup. 116; Ficha 086."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Sexta mensura suya de 1880-81 en el corpus (102, 105, 107, 109, 113, 116). Sin datos biográficos en la búsqueda web de sesiones anteriores.",
+   "fuentes": "Fichas 102-113."
+  },
+  {
+   "nombre": "Dr. Marcelino Mesquita (Mezquita)",
+   "rol": "Lindero",
+   "texto": "Doctor, con población y monte; lindero SO de Casas (115) y de esta pieza; cf. Marcelino Mezquita en 086.",
+   "fuentes": "Fichas 086, 115."
+  },
+  {
+   "nombre": "José Pichetto",
+   "rol": "Lindero",
+   "texto": "Sucesor de Pividal sobre el arroyo (091); lindero NE.",
+   "fuentes": "Fichas 091, 109, 115."
+  },
+  {
+   "nombre": "Mercedes L. de Butterfield · Lucio [?] y Julio Saraví · Félix Lescano · Atanasia [?] Díaz",
+   "rol": "Vecinos (visuales)",
+   "texto": "Sus poblaciones sirven de señal. Butterfield: familia británica de la naciente de la Cañada de Giles (034, 048). Julio Saraví: 114.",
+   "fuentes": "Fichas 034, 048, 114."
+  },
+  {
+   "nombre": "Juan San Martín · Manuel Malmierca [?] · Laureano Carballeda · Felipe Ruiz · Lavalle",
+   "rol": "Juez · actuario · escribano · apoderado · d. i.",
+   "texto": "San Martín, juez civil del Centro con sede en Mercedes (109, 113-115). Dictamen Lavalle–Moreno–Lagos [?].",
+   "fuentes": "Dup. 116."
+  },
+  {
+   "nombre": "D. O. Massabó · J. S. Chiappino",
+   "rol": "Dibujante y revisor (1936)",
+   "texto": "Personal de la Dirección de Geodesia, Catastro y Mapa (M. O. P.) que copió el plano en 1936.",
+   "fuentes": "Dup. 116."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/116/02.jpg",
+  "fuente": "IMG_9745.JPG (girada 90°)",
+  "lineas": [
+   "Giles N.^{o} 116.",
+   "1881",
+   "San A. de Giles 116 —",
+   "Duplicado de la mensura del terreno",
+   "de Doña Emilia Lopez de Cucullu,",
+   "situado en el Partido de Giles.",
+   "Medido por el Agrimensor",
+   "Cárlos Schuster.",
+   "8.32.368 [lápiz]",
+   "3-62-8 [lápiz]",
+   "[a lápiz: 1920 / 1881 / 42]"
+  ]
+ },
+ "titulo": "Emilia López de Cucullu",
+ "estado": "Transcripta (8 hojas, 212 renglones), 3 láminas"
+}
