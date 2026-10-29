@@ -1,0 +1,550 @@
+{
+ "carpeta": "118",
+ "carpeta_nombre": "Carpeta 118",
+ "archivo": "Ficha 118 - José Bianchi (1881-82).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (arroyo de Monsalvo, camino de Mercedes al Carmen de Areco)",
+  "N.º de duplicado": "118",
+  "Propietario / solicitante": "José Bianchi",
+  "Agrimensor": "Ventura G. Coll",
+  "Año": "1881-82",
+  "Fecha de la diligencia": "Nombramiento 24/10/1881; mensura desde 14/11/1881; aprobada 14/6/1882",
+  "Ubicación": "Sobre el arroyo de Monsalvo, cruzado por el camino de Mercedes al Carmen de Areco",
+  "Orden judicial": "Juez de 1.ª Instancia (24/10/1881); aprobación 14/6/1882, A. Ubertis [?]",
+  "Vendedor / antecesor": "Gobierno 1838 → D. Garcete [?] de Martínez → B. Martínez → M. M. Sánchez (1869) → Bianchi y Besagno",
+  "Linderos citados": "G. Acuña · H. Larrea · M. Colmenero · M. Kelley · Catalina Cari",
+  "Medidas": "Pentágono: 780 · 1175 · 3210 · 1602 · 3587 [3687] m; 570 ha 21 a 22 ca",
+  "Rumbos": "N 32° 15′ O · N 80° 48′ O · S 57° 36′ O · S 46° 48′ E · N 57° 48′ E; var. 11° 23′ NE",
+  "Referencia de archivo": "Dup. 118; título 7.699.220 v² (1869); oficio judicial y providencia 1882"
+ },
+ "metricas": {
+  "superficie_ha": "570,21",
+  "hitos": "Mojones de piedra y de fierro; quintas; puesto; estancias de los vecinos",
+  "aguas": "Arroyo de Monsalvo; dos zanjones"
+ },
+ "sintesis": "Duplicado completo y aprobado (títulos, mensura, abalizamiento, dictamen, oficio judicial y plano). En noviembre de 1881 Ventura G. Coll mide el campo de José Bianchi sobre el arroyo de Monsalvo, cruzado por el camino de Mercedes al Carmen de Areco: un pentágono de 570 ha 21 a, entre Gregorio Acuña, Catalina Cari, María Kelley, María Colmenero e Higinio Larrea. El título remonta a una compra al Gobierno de 1838 (Dominga Garcete [?] de Martínez) y pasa por Melchor M. Sánchez (1869) a Catalina L. de Bianchi y Juan Besagno. Quintas, un puesto y zanjones; aprobada por el juez el 14/6/1882.",
+ "caratula": {
+  "img": "img/f/118/01.jpg",
+  "fuente": "IMG_9767.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "118"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "José Bianchi"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Ventura G. Coll"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "—"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: encabezado y extracto de títulos (Bernardo Martínez vende a Melchor M. Sánchez, 23/3/1869, ante Feliciano Cafaravilla [?]; herencia de Dominga Garcete [?] de Martínez; compra al Gobierno 18/4/1838)",
+   "img": "img/f/118/06.jpg",
+   "fuente": "IMG_9769 (girada 90°)",
+   "nota": "Letra cursiva redonda grande, muy clara; folio sellado «1». Al margen, las fojas del expediente donde están los títulos (30, 35, 37). Las tomas 9770-9773 son de doble página.",
+   "lineas": [
+    "——— Duplicado de la diligencia",
+    "de mensura del terreno de propie-",
+    "dad de D.^{n} José Bianchi en el",
+    "Partido de San Andres de Giles ———",
+    "——— Estracto del título ———",
+    "[al margen: (fojas 30)] — En Buenos Aires á veinte y tres",
+    "de Marzo del año mil ochocientos",
+    "sesenta y nueve, por ante el escribano",
+    "D.^{n} Feliciano Cafaravilla [?] — D.^{n} Ber-",
+    "nardo Martinez vende á D.^{n} Melchor",
+    "M. Sanchez un campo de su propie-",
+    "dad, sito en el Partido de San Andres",
+    "de Giles, compuesta su superficie",
+    "de siete millones seiscientas noven-",
+    "ta y nueve mil doscientas veinte",
+    "varas cuadradas — Lindando: por el",
+    "Norte con D.^{ña} Fernanda Monsalvo",
+    "y Maria Gante, por el Este con D.^{n}",
+    "Francisco Clemente Diaz, por el",
+    "Oeste con D.^{n} Juan Martinez y por",
+    "el Sud con D.^{n} Ramon Colmenero.",
+    "— Esta propiedad le perteneció al",
+    "otorgante por herencia de su finada",
+    "madre D.^{ña} Dominga Garcete [?] de Marti-",
+    "nez — y á esta le correspondió",
+    "en mayor porcion por compra que",
+    "hizo al Superior Gobierno el diez y",
+    "ocho de Abril del año mil ochocien-",
+    "tos treinta y ocho. ———",
+    "[al margen: (fojas 35)] — En Buenos Aires á veinte y nueve"
+   ],
+   "interpretacion": "ENCABEZADO: duplicado de la mensura del terreno de JOSÉ BIANCHI en Giles. EXTRACTO DEL TÍTULO (fs. 30 del expediente): el 23/3/1869, ante el escribano FELICIANO CAFARAVILLA [?], BERNARDO MARTÍNEZ vende a MELCHOR M. SÁNCHEZ un campo en Giles de 7.699.220 v² (≈ 577 ha), lindero al N con FERNANDA MONSALVO y MARÍA GANTE, al E con FRANCISCO CLEMENTE DÍAZ, al O con JUAN MARTÍNEZ y al S con RAMÓN COLMENERO. Martínez lo había heredado de su madre DOMINGA GARCETE [?] DE MARTÍNEZ, a quien correspondió «en mayor porción» por COMPRA AL SUPERIOR GOBIERNO el 18/4/1838 (las ventas de tierra pública de Rosas). Empieza el asiento de fs. 35."
+  },
+  {
+   "titulo": "Folio 1 vuelta: Melchor M. Sánchez vende a Catalina L. de Bianchi y Juan Besagno (29/9/1881); Besagno vende su parte a José Bianchi (Mercedes, 4/6/1881 [sic]); nombramiento (24/10/1881) y operación desde el 14/11/1881; reconocimiento general",
+   "img": "img/f/118/07.jpg",
+   "fuente": "IMG_9770, página izquierda",
+   "nota": "",
+   "lineas": [
+    "de Setiembre del año mil ochocientos",
+    "ochenta y uno D.^{n} Melchor M. San-",
+    "chez vende á D.^{ña} Catalina L. de",
+    "Bianchi y á D.^{n} Juan Besagno",
+    "el terreno mencionado; — por",
+    "ante el escribano D.^{n} F. Cafaravilla [?] —",
+    "(foja 37.) En la Ciudad de Mercedes",
+    "á cuatro de Junio del año mil",
+    "ochocientos ochenta y uno D.^{n}",
+    "Juan Besagno vende á D.^{n} José",
+    "Bianchi la parte que le correspon-",
+    "de en el ya mencionado terreno.",
+    "Escribania de L. Esquivel (Mercedes.)",
+    "Mensura: Comisionado el Agrimen-",
+    "sor que suscribe por el Señor Juez",
+    "de primera Instancia en veinte y",
+    "cuatro de Octubre del año mil",
+    "ochocientos ochenta y uno, para",
+    "medir el terreno de propiedad",
+    "de D.^{n} José Bianchi, sito en el",
+    "Partido de Giles; procedió á di-",
+    "cha operacion el dia catorce de",
+    "Noviembre del mismo año,",
+    "despues de públicado los edictos",
+    "y citado á los señores linderos",
+    "y habiendo obtenido el siguien-",
+    "te resultado. ———",
+    "Linea A.B.: Antes de dar principio",
+    "practiqué un reconocimiento",
+    "general, dando por resultado de"
+   ],
+   "interpretacion": "Fs. 35: el 29 de septiembre (el texto dice 1881, lo que choca con la venta siguiente: quizá 1880 [?]) Sánchez vende el campo a CATALINA L. DE BIANCHI y a JUAN BESAGNO, ante Cafaravilla. Fs. 37: en Mercedes, el 4/6/1881, Besagno vende a JOSÉ BIANCHI su parte (escribanía de L. ESQUIVEL). MENSURA: el agrimensor, comisionado por el juez de 1.ª instancia el 24/10/1881, opera desde el 14/11/1881, tras edictos y citación. Primero hace un «RECONOCIMIENTO GENERAL» del terreno…"
+  },
+  {
+   "titulo": "Folio 2: línea A-B N 32° 15′ O 780 m por mojones existentes (mojón de piedra a 203 m) contra Gregorio Acuña; línea B-C N 80° 48′ O 1175 m (mojón de fierro a 298 m, esquinero Acuña / Catalina Cari; zanjón a 662 m) hasta C, esquinero de Catalina Cari y María Kelley; comienzo de C-D",
+   "img": "img/f/118/08.jpg",
+   "fuente": "IMG_9770, página derecha",
+   "nota": "",
+   "lineas": [
+    "servirme por punto de partida el",
+    "mojon (A.) esquinero del campo",
+    "que iba á medir, de D.^{n} Gregorio",
+    "Acuña y D.^{n} Higinio Larrea; de",
+    "este punto enfilé una linea por",
+    "mojones escistentes al rumbo Norte",
+    "treinta y dos grados quince mi-",
+    "nutos Oeste y por ella medí:",
+    "á los doscientos tres metros encon-",
+    "tré un mojon de piedra y á los",
+    "setecientos ochenta metros llegué",
+    "al mojon (B.) esquinero del campo",
+    "que media y de D.^{n} Gregorio Acuña.",
+    "Linea B.C.: Del mojon (B.) enfilé",
+    "al Norte ochenta grados cuarenta",
+    "y ocho minutos Oeste y medí:",
+    "á los doscientos noventa y ocho",
+    "metros encontré un mojon de",
+    "fierro esquinero de D.^{n} Gregorio",
+    "Acuña y D.^{ña} Catalina Cari,",
+    "á los seiscientos sesenta y dos",
+    "cruzé un zanjon y á los mil",
+    "ciento setenta y cinco metros",
+    "llegué al mojon (C.) esquinero",
+    "de Bianchi, de D.^{ña} Catalina",
+    "Cari y de D.^{ña} Maria Kelley. —",
+    "Linea C.D.: Colocado en el mojon",
+    "(C.) enfilé una linea siempre por",
+    "mojones escistentes al Sud cin-",
+    "cuenta y siete grados treinta y seis"
+   ],
+   "interpretacion": "…que le permite tomar como arranque el mojón A (esquinero con GREGORIO ACUÑA e HIGINIO LARREA). A-B: N 32° 15′ O 780 m «por mojones existentes» (mojón de PIEDRA a 203 m), contra Acuña. B-C: N 80° 48′ O 1175 m; a 298 m un MOJÓN DE FIERRO (Acuña / CATALINA CARI), a 662 m cruza un ZANJÓN; C es esquinero de Bianchi, Catalina Cari y MARÍA KELLEY. Empieza C-D, también por mojones existentes…"
+  },
+  {
+   "titulo": "Folio 2 vuelta: C-D S 57° 36′ O 3210 m (puesto de Bianchi a 900 m; arroyo de Monsalvo a 1978 m; camino de Mercedes al Carmen de Areco a 3100 m) hasta D, esquinero de María Kelley y María Colmenero; D-E S 46° 48′ E (quinta de Bianchi; camino de Mercedes al Carmen de Areco a 325 m; mojón a 714 m; otra quinta desde 955 m)",
+   "img": "img/f/118/09.jpg",
+   "fuente": "IMG_9771, página izquierda",
+   "nota": "",
+   "lineas": [
+    "minutos Oeste y medí: á los quinien-",
+    "tos cuarenta y dos metros encontré",
+    "un mojon, á los novecientos metros",
+    "un puesto de Bianchi cincuenta",
+    "metros á la izquierda, — á los mil",
+    "novecientos diez metros otro mojon,",
+    "á los mil novecientos setenta y",
+    "ocho metros cruzé el Arroyo de",
+    "Monsalvo, á los dos mil setecientos",
+    "setenta y tres encontré otro mojon,",
+    "á los tres mil cien metros el",
+    "Camino de Mercedes al Cármen de",
+    "Areco y á los tres mil doscientos",
+    "diez metros llegué al mojon (D.)",
+    "esquinero del campo que media,",
+    "de D.^{ña} Maria Kelley y D.^{ña} Ma-",
+    "ria Colmenero. ———",
+    "Linea D.E.: Del mojon (D.) por",
+    "mojones escistentes enfilé al Sud",
+    "cuarenta y seis grados cuarenta",
+    "y ocho minutos Este y medí:",
+    "á los doscientos veinte y cinco",
+    "metros termina la quinta del",
+    "Señor Bianchi, cinco metros á",
+    "la izquierda; á los trescientos",
+    "veinte y cinco metros cruzé el",
+    "camino de Mercedes al Cármen",
+    "de Areco; á los setecientos catorce",
+    "encontré un mojon, á los nue-",
+    "vecientos cincuenta y cinco principia"
+   ],
+   "interpretacion": "C-D: S 57° 36′ O 3210 m contra María Kelley: mojones a 542, 1910 y 2773 m; a 900 m un PUESTO DE BIANCHI 50 m a la izquierda; a 1978 m cruza el ARROYO DE MONSALVO; a 3100 m el CAMINO DE MERCEDES AL CARMEN DE ARECO; D es esquinero con María Kelley y MARÍA COLMENERO. D-E: S 46° 48′ E: a 225 m termina la QUINTA de Bianchi (5 m a la izquierda), a 325 m vuelve a cruzar el camino de Mercedes al Carmen de Areco, mojón a 714 m, y a 955 m empieza OTRA QUINTA…"
+  },
+  {
+   "titulo": "Folio 3: D-E hasta E (1602 m), esquinero de Higinio Larrea y costanero de María Colmenero; E-A N 57° 48′ E 3587 m con bandera en A (quinta de Bianchi; arroyo de Monsalvo a 2140 m; zanjón a 3227 m); superficie 570 ha 21 a 22 ca; linderos",
+   "img": "img/f/118/10.jpg",
+   "fuente": "IMG_9771, página derecha",
+   "nota": "",
+   "lineas": [
+    "otra quinta de Bianchi cinco metros",
+    "á la izquierda, á los mil quinientos",
+    "noventa y cuatro metros termina",
+    "la quinta y á los mil seiscientos",
+    "dos metros el mojon (E.) esquinero",
+    "de D.^{n} Higinio Larrea y del campo",
+    "que media y costanero de Doña",
+    "Maria Colmenero. ———",
+    "Linea E.A.: Colocado en el mojon (E.)",
+    "mandé colocar una bandera en",
+    "el mojon de arranque (A.) y sobre",
+    "ella medí al rumbo Norte cin-",
+    "cuenta y siete grados cuarenta",
+    "y ocho minutos Este: á los ciento",
+    "noventa y tres metros termina",
+    "la quinta de Bianchi cinco",
+    "metros á la izquierda, á los",
+    "dos mil ciento cuarenta metros",
+    "cruzé el arroyo de Monsalvo,",
+    "á los tres mil doscientos veinte",
+    "y siete metros cruzé un zanjon",
+    "y á los tres mil quinientos",
+    "ochenta y siete metros llegué",
+    "al mojon (A) punto de partida.",
+    "Superficie: Quinientas setenta",
+    "hectáreas, veinte y una área",
+    "y veinte y dos centiáreas. ———",
+    "Linderos: por el Norte D.^{ña} Catalina",
+    "Cari y D.^{n} Gregorio Acuña, por el",
+    "Nord Este D.^{n} Gregorio Acuña,"
+   ],
+   "interpretacion": "…que termina a 1594 m; E a 1602 m, esquinero de Higinio Larrea, costanero de María Colmenero. E-A: se pone una BANDERA en el mojón de arranque y se mide sobre ella N 57° 48′ E: fin de la quinta a 193 m, ARROYO DE MONSALVO a 2140 m, un ZANJÓN a 3227 m y A a 3587 m (el plano dice 3687). SUPERFICIE: 570 ha 21 a 22 ca. Linderos: N Catalina Cari y Gregorio Acuña; NE Acuña…"
+  },
+  {
+   "titulo": "Folio 3 vuelta: linderos (Larrea SE, María Colmenero SO, María Kelley NO); abalizamiento desde A, B [?] y C (estancias de Larrea, Bianchi, Luis Agüero, Ávila, Gregorio Acuña, José Agüero; Monsalvo)",
+   "img": "img/f/118/11.jpg",
+   "fuente": "IMG_9772, página izquierda",
+   "nota": "",
+   "lineas": [
+    "por el Sud Este D.^{n} Higinio Larrea",
+    "por el Sud Oeste D.^{ña} ~~D.^{ña}~~ Maria",
+    "Colmenero y por el Nord Oeste",
+    "D.^{ña} Maria Kelley. ———",
+    "Avalizamiento: mojon (A) sobre",
+    "la linea (E. A.) forma un ángulo",
+    "con la estancia de Larrea once",
+    "grados dos minutos y con la de",
+    "Bianchi veinte grados veinte",
+    "minutos. — Mojon (B.) con la linea",
+    "(B. A.) con la estancia de D.^{n} Luis",
+    "Agüero dos grados veinte minutos,",
+    "con Larrea sesenta y dos grados",
+    "cuarenta y cinco minutos y con",
+    "Avila cuarenta y tres grados vein-",
+    "te y cinco minutos. Mojon (E.) [?]",
+    "sobre la linea (E. A.) hace un án-",
+    "gulo con la estancia de D.^{n} Gre-",
+    "gorio Acuña cinco grados diez",
+    "y ocho minutos, con D.^{n} José",
+    "Agüero diez grados y con D.^{n}",
+    "Higinio Larrea treinta grados. —",
+    "Mojon (C.) sobre la linea (C. D.) forma",
+    "un ángulo con lo de Bianchi",
+    "un grado catorce minutos, con",
+    "lo de Larrea cincuenta y tres",
+    "grados veinte y cinco minutos",
+    "y con Monsalvo cincuenta y",
+    "dos grados nueve minutos. ———",
+    "Rumbos: Los establecidos son"
+   ],
+   "interpretacion": "…SE Higinio Larrea; SO María Colmenero; NO María Kelley. ABALIZAMIENTO (ángulos a «estancias», es decir a los cascos visibles): desde A, la estancia de LARREA (11° 2′) y la de BIANCHI (20° 20′); desde B, la estancia de LUIS AGÜERO, Larrea y ÁVILA; desde el mojón siguiente (rotulado «E» [?]), las estancias de GREGORIO ACUÑA, JOSÉ AGÜERO y Larrea; desde C, lo de Bianchi, lo de Larrea y MONSALVO."
+  },
+  {
+   "titulo": "Folio 4: rumbos verdaderos, variación 11° 23′ NE; citación y acta: todos firmaron menos María Colmenero (ausente) y Gregorio Acuña (sólo firmaría prestando conformidad, y lo hizo así); firma de Ventura G. Coll; presentada al Departamento de Ingenieros (6/3/1882); comienzo del dictamen",
+   "img": "img/f/118/12.jpg",
+   "fuente": "IMG_9772, página derecha",
+   "nota": "",
+   "lineas": [
+    "verdaderos y la variacion de la",
+    "aguja fué de Norte once grados",
+    "veinte y tres minutos Este. ———",
+    "Citasion y Acta: Todos los Señores",
+    "Linderos é interesado firmaron y",
+    "prestaron su conformidad. —",
+    "menos D.^{ña} Maria Colmenero que",
+    "no se encontraba presente. — y",
+    "D.^{n} Gregorio Acuña que mandó",
+    "decir que solo firmaria prestan-",
+    "do su conformidad, haciendoló",
+    "asi. — De esta manera dí",
+    "por terminada la comision que",
+    "se me habia confiado. ———",
+    "Ventura G. Coll",
+    "Agrimensor [rúbrica]",
+    "Marzo 6/82 —",
+    "Presentada en la fecha al Depar-",
+    "tamento de Ingenieros —",
+    "J. Ferrari [?] [rúbrica]",
+    "Señor Juez de 1.^{a} Instancia:",
+    "El Departamento de Inge-",
+    "nieros ha examinado la mensura",
+    "practicada por el Agrimensor Don",
+    "Ventura G. Coll del terreno de la pro-",
+    "piedad de José Bianchi en el Partido"
+   ],
+   "interpretacion": "Rumbos verdaderos; VARIACIÓN 11° 23′ NE. CITACIÓN Y ACTA: todos los linderos firmaron y dieron conformidad, salvo MARÍA COLMENERO, ausente, y GREGORIO ACUÑA, que «mandó decir que sólo firmaría prestando su conformidad», y así lo hizo. Firma VENTURA G. COLL, agrimensor. Presentada al Departamento de Ingenieros el 6/3/1882 (recibe J. FERRARI [?], probablemente el mismo «J. Lavarri [?]» de la Ficha 117). Comienza el dictamen…"
+  },
+  {
+   "titulo": "Folio 4 vuelta: fin del dictamen del Departamento de Ingenieros (10/3/1882): sin inconveniente en su aprobación; debe notificarse a María Colmenero, que no firmó la circular de linderos",
+   "img": "img/f/118/13.jpg",
+   "fuente": "IMG_9773, página izquierda",
+   "nota": "",
+   "lineas": [
+    "de San Andres de Giles y no vé incon-",
+    "veniente en su aprobacion.",
+    "Debe notificarse á D.^{ña} Maria",
+    "Colmenero que no ha firmado la",
+    "circular de linderos.",
+    "Marzo 10 de 1882.",
+    "José M. Lagos [?] [rúbrica]   Jorge Duclout [?] [rúbrica]",
+    "F. Lavalle [?] [rúbrica]",
+    "[a lápiz: 7699220]"
+   ],
+   "interpretacion": "Dictamen del Departamento de Ingenieros (10/3/1882): no ve inconveniente en la aprobación, pero hay que NOTIFICAR A MARÍA COLMENERO, que no firmó la circular. Firmas: LAGOS [?], DUCLOUT [?] y LAVALLE [?] (cf. el dictamen de la 117: «Lavalle, Moreno, Lagos [?]»). A lápiz, 7.699.220: la superficie del título en varas cuadradas."
+  },
+  {
+   "titulo": "Folio 5: oficio del juez al Presidente del Departamento de Ingenieros (Buenos Aires, 17/6/1882): la mensura fue aprobada el 14 de junio; sello de Rentas de 1882 (6 pesos, n.º 131172); sello de entrada del Departamento, 19/6/1882",
+   "img": "img/f/118/14.jpg",
+   "fuente": "IMG_9773, página derecha",
+   "nota": "",
+   "lineas": [
+    "10-109-69 [lápiz, con rúbrica]",
+    "[sello: 131172 · DIRECCION GENERAL DE RENTAS DE LA PROVINCIA DE BUENOS AIRES · 6 · 1882 · SEIS PESOS]",
+    "Corresponde [cruzado por una raya diagonal]",
+    "Buenos Ayres, Junio 17 de 1882.",
+    "Al Señor Presidente del De-",
+    "partamento de Ingenieros",
+    "de la Provincia de Buenos Ayres",
+    "Comunico á Usted que con fecha",
+    "catorce del corriente mes y año",
+    "ha sido aprobada por este Juzgado",
+    "la mensura practicada por el",
+    "Agrimensor Don Ventura G.",
+    "Coll en un terreno de propie-",
+    "dad de Don José Bianchi situa-",
+    "do en el Partido de San Andres",
+    "de Giles. Dios Guarde á Usted.",
+    "Adolfo Ubertis [?] [rúbrica]",
+    "Ramon [...] [rúbrica]",
+    "[sello oval: DEPARTAMENTO DE INGENIEROS · Entrada · 19 JUN 1882 · DE LA PROVINCIA]",
+    "[sello al margen izquierdo: (...) WRIGHT · NOTARIO · COMERCIAL · DEPARTAMENTO DE LA CAPITAL · PROVINCIA DE BUENOS AIRES]"
+   ],
+   "interpretacion": "OFICIO JUDICIAL en papel sellado de 6 pesos de 1882: Buenos Aires, 17/6/1882, el juez comunica al Presidente del Departamento de Ingenieros que el 14 DE JUNIO DE 1882 APROBÓ la mensura de Coll del terreno de José Bianchi en Giles. Firmas: ADOLFO UBERTIS [?] (juez) y RAMÓN [...] (secretario). Sello de entrada del Departamento: 19/6/1882. Al margen, sello de una escribanía «[...] Wright, notario comercial, Departamento de la Capital»."
+  },
+  {
+   "titulo": "Folio 5 vuelta: providencia del Departamento (junio 22/1882): agréguese al duplicado correspondiente; al lado, el plano (f. 6) en transparencia",
+   "img": "img/f/118/15.jpg",
+   "fuente": "IMG_9774, página izquierda",
+   "nota": "",
+   "lineas": [
+    "[Jun]io 22/82",
+    "Agréguese al duplicado correspon-",
+    "diente.",
+    "Duclout [?] [rúbrica]"
+   ],
+   "interpretacion": "Providencia del Departamento, 22/6/1882: «Agréguese al duplicado correspondiente» (rúbrica, quizá Duclout [?]). Es el cierre del circuito: la aprobación judicial vuelve al Departamento y se agrega al duplicado del archivo. Al lado, el plano en tela (f. 6) visto por transparencia."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de José Bianchi (Ventura G. Coll, 1881)",
+   "img": "img/f/118/03.jpg",
+   "fuente": "IMG_9775.JPG (f. 6, tela con marco negro de esquinas redondeadas); detalles 9776-9777",
+   "orientacion": "Dos flechas de norte (una con «V.on 11° 23′ NE.» en C); escala gráfica de 0 a 2000 metros con contraescala decimal; firma Ventura G. Coll, Agrimensor.",
+   "interpretacion": "Pentágono alargado rotulado JOSÉ BIANCHI · Sup.: 570 h 21 a 22 c. El ARROYO DE MONSALVO lo cruza en diagonal de NO a SE. Junto a D, el CAMINO DE MERCEDES AL CARMEN DE ARECO corta la esquina, y hay dos rectángulos: la quinta chica junto a D (225-325 m) y la otra quinta sobre D-E (925-1594 m), con la casa (punto negro) cerca de D. Sobre C-D, el PUESTO a 900 m (cuadradito negro). Una línea a lápiz casi N-S cruza el campo cerca de B (¿el zanjón de 662 / 3227 m?). Manchas de tinta o lagunitas entre 925 y 1125 m sobre E-A. Linderos: María Kelley (N), Catalina Cari y Gregorio Acuña (NE-E), Higinio Larrea (S), María Colmenero (O).",
+   "referencias": [
+    [
+     "A-B",
+     "N 32° 15′ O · 780 m · contra G. Acuña (mojón de piedra a 203)"
+    ],
+    [
+     "B-C",
+     "N 80° 48′ O · 1175 m · mojón de fierro a 298; zanjón a 662"
+    ],
+    [
+     "C-D",
+     "S 57° 36′ O · 3210 m · contra M. Kelley; puesto a 900; arroyo a 1978; camino a 3100"
+    ],
+    [
+     "D-E",
+     "S 46° 48′ E · 1602 m · contra M. Colmenero; quintas"
+    ],
+    [
+     "E-A",
+     "N 57° 48′ E · 3587 m (texto) / 3687 m (plano) · contra H. Larrea; arroyo a 2140; zanjón a 3227"
+    ],
+    [
+     "Superficie",
+     "570 ha 21 a 22 ca (título: 7.699.220 v² ≈ 577 ha)"
+    ],
+    [
+     "Variación",
+     "11° 23′ NE"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle izquierdo: el ángulo D, las quintas y el camino",
+   "img": "img/f/118/04.jpg",
+   "fuente": "IMG_9776.JPG",
+   "orientacion": "",
+   "interpretacion": "Camino de Mercedes al Carmen de Areco (doble línea de trazos), quinta junto a D con la casa, segunda quinta sobre D-E, progresivas 714, 850, 925, 1594; arroyo de Monsalvo.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle derecho: los ángulos A, B y C",
+   "img": "img/f/118/05.jpg",
+   "fuente": "IMG_9777.JPG",
+   "orientacion": "",
+   "interpretacion": "Línea quebrada A-B-C contra Gregorio Acuña y Catalina Cari (lindero de Cari en trazos), con la variación anotada junto a C y progresivas 203, 298, 662, 2140, 3227.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Ubicación: el arroyo de monsalvo y el camino mercedes–carmen de areco",
+   "texto": "El campo está sobre el ARROYO DE MONSALVO, cruzado por el CAMINO DE MERCEDES AL CARMEN DE ARECO: es el sector SO-O del partido. El título de 1869 lo hace lindar con FERNANDA MONSALVO (la familia del arroyo: cf. Ficha 003, Pascuala Romero de Monsalvo) y con RAMÓN COLMENERO; en 1881 los linderos son María Kelley, Catalina Cari, Gregorio Acuña, Higinio Larrea y María Colmenero. Bianchi y Larrea vuelven a aparecer como visuales en la 117 (mojones de Schuster: «D. José Bianchi», «D. Higinio Larrea»): 117 y 118 son casi contemporáneas (oct. y nov. de 1881) y vecinas, lo que permite ensamblarlas en el GIS."
+  },
+  {
+   "titulo": "Cadena de títulos: de la venta de rosas a los inmigrantes italianos",
+   "texto": "Compra al Gobierno de 1838 (DOMINGA GARCETE [?] DE MARTÍNEZ) → herencia de BERNARDO MARTÍNEZ → MELCHOR M. SÁNCHEZ (1869) → CATALINA L. DE BIANCHI y JUAN BESAGNO (1880-81) → JOSÉ BIANCHI compra la mitad de Besagno (Mercedes, 1881). Es un caso nítido del paso de la tierra criolla de las ventas de 1836-38 a propietarios de origen italiano (Bianchi, Besagno), con escrituras en Mercedes y no ya en Buenos Aires."
+  },
+  {
+   "titulo": "Paisaje: quintas, puesto, zanjones",
+   "texto": "Dos QUINTAS de Bianchi sobre el lado D-E (una de ~100 m y otra de ~640 m de frente), la casa junto al camino, un PUESTO a 900 m sobre C-D, dos ZANJONES (662 m de B-C y 3227 m de E-A, quizá el mismo cauce, dibujado a lápiz) y el arroyo de Monsalvo. El abalizamiento nombra «ESTANCIAS» (Larrea, Bianchi, Luis y José Agüero, Ávila, Acuña) y «lo de» Bianchi, Larrea y Monsalvo: la palabra estancia ya designa el casco visible."
+  },
+  {
+   "titulo": "Ritual y técnica",
+   "texto": "«Reconocimiento general» previo para elegir el arranque; medición «por mojones existentes» (de piedra y de FIERRO: material nuevo en el corpus); BANDERA en el mojón de arranque para cerrar la última línea. Variación 11° 23′ NE, coherente con 11° 34′ de Schuster en 113 y 116 (1881). Diferencia texto/plano en E-A: 3587 / 3687 m. La superficie medida (570,21 ha) es ~7 ha menor que la del título (7.699.220 v² ≈ 577 ha), anotada a lápiz por el Departamento."
+  },
+  {
+   "titulo": "Conformidad de linderos y circuito administrativo",
+   "texto": "Todos firman la circular menos María Colmenero (ausente); Gregorio Acuña pone por condición firmar «prestando su conformidad». El Departamento pide notificar a Colmenero; el juez aprueba el 14/6/1882, oficia al Departamento el 17/6 (papel sellado de 6 pesos), éste registra la entrada el 19/6 y manda agregar al duplicado el 22/6. Es el primer duplicado del tramo con el oficio judicial original encuadernado."
+  },
+  {
+   "titulo": "Lecturas dudosas",
+   "texto": "«Feliciano Cafaravilla [?]» (escribano); «Dominga Garcete [?]»; año de la venta de Sánchez («1881», incompatible con la venta de Besagno de junio de 1881); «Mojón (E.) [?]» en el abalizamiento (¿C o D?); firmas del D. I. «Lagos [?]», «Duclout [?]», «Lavalle [?]», «J. Ferrari [?]»; juez «Adolfo Ubertis [?]»; secretario «Ramón [...]»."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Quién es Catalina L. de Bianchi: esposa o madre de José? ¿El campo de Martínez de 1838 está en alguna ficha anterior (Monsalvo, Colmenero)? ¿Son la María Kelley y la Catalina Cari las mismas de otras mensuras del sector?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "José Bianchi",
+   "rol": "Propietario",
+   "texto": "Propietario de origen italiano por el apellido; compra en 1881 a Juan Besagno la mitad del campo comprado con Catalina L. de Bianchi. Tiene estancia, quintas y puesto; aparece como visual en la mensura de Schuster de 1881 (117). Sin datos biográficos encontrados en la búsqueda web.",
+   "fuentes": "Dup. 117, 118."
+  },
+  {
+   "nombre": "Ventura G. Coll",
+   "rol": "Agrimensor",
+   "texto": "Primera mensura suya en el corpus. Letra caligráfica muy regular; método explícito (reconocimiento general, mojones existentes, bandera). La búsqueda web no dio datos biográficos.",
+   "fuentes": "Dup. 118; búsqueda web sin resultados."
+  },
+  {
+   "nombre": "Catalina L. de Bianchi · Juan Besagno",
+   "rol": "Compradores (1880-81)",
+   "texto": "Compran el campo a Melchor M. Sánchez; Besagno vende su parte a José Bianchi en Mercedes (escribanía de L. Esquivel).",
+   "fuentes": "Dup. 118."
+  },
+  {
+   "nombre": "Melchor M. Sánchez · Bernardo Martínez · Dominga Garcete [?] de Martínez",
+   "rol": "Antecesores",
+   "texto": "Dominga compró al Gobierno el 18/4/1838; su hijo Bernardo lo vendió a Sánchez en 1869.",
+   "fuentes": "Dup. 118."
+  },
+  {
+   "nombre": "Gregorio Acuña · Higinio Larrea · María Colmenero · María Kelley · Catalina Cari",
+   "rol": "Linderos",
+   "texto": "Larrea y José Acuña también son visuales en la 117. María Colmenero, sucesora de Ramón Colmenero (lindero S en 1869), no firmó la circular. Kelley: apellido irlandés del sector.",
+   "fuentes": "Dup. 117, 118."
+  },
+  {
+   "nombre": "Jorge Duclout [?] · Lavalle [?] · Lagos [?]",
+   "rol": "Departamento de ingenieros",
+   "texto": "Si la lectura es correcta, Jorge Duclout fue un ingeniero de origen francés activo en Buenos Aires desde la década de 1880 (Departamento de Ingenieros, docencia en la Facultad de Ingeniería). El trío coincide en parte con el dictamen de la 117.",
+   "fuentes": "Dup. 117, 118; referencias generales (FI-UBA)."
+  },
+  {
+   "nombre": "Adolfo Ubertis [?]",
+   "rol": "Juez de 1.ª instancia",
+   "texto": "Firma el oficio de aprobación (17/6/1882). Lectura dudosa; sin datos.",
+   "fuentes": "Dup. 118."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/118/02.jpg",
+  "fuente": "IMG_9768.JPG (girada 90°)",
+  "lineas": [
+   "Giles 118.",
+   "Primero",
+   "Duplicado de la Diligencia",
+   "de mensura del terreno de propiedad",
+   "de",
+   "D.^{n} José Bianchi.",
+   "San Andres de Giles",
+   "Ventura G. Coll",
+   "Agrimensor [rúbrica]",
+   "8-24-304 [?] [lápiz]"
+  ]
+ },
+ "titulo": "José Bianchi",
+ "estado": "Transcripta (10 hojas, 239 renglones), 3 láminas"
+}

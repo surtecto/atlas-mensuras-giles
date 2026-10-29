@@ -1,0 +1,410 @@
+{
+ "carpeta": "120",
+ "carpeta_nombre": "Carpeta 120",
+ "archivo": "Ficha 120 - Toribio González (1882).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (lindero al campo municipal / ejido)",
+  "N.º de duplicado": "120",
+  "Propietario / solicitante": "Toribio González",
+  "Agrimensor": "Félix Dabadie",
+  "Año": "1882",
+  "Fecha de la diligencia": "Comisión 28/11/1881; mensura 9/1/1882; D. I. 28/4/1882",
+  "Ubicación": "Contra el campo municipal (NO) y fracciones de los Lescano",
+  "Orden judicial": "Juez de 1.ª Inst. del Dep. del Centro, Dr. Juan San Martín (28/11/1881)",
+  "Vendedor / antecesor": "Francisco Lescano → Solano Lescano (hijuela 1876) → Toribio González (1878)",
+  "Linderos citados": "Municipalidad · Solano y Alejandro Lescano · Atanasia (Atanasio) Díaz",
+  "Medidas": "Paralelogramo 503,14 × 1645,4 m = 82 ha 78 a 17 ca",
+  "Rumbos": "N 37° 34′ E · S 51° 50′ E · N 51° 50′ O; sin variación declarada",
+  "Referencia de archivo": "Dup. 120; escrituras de E. González (1878) y J. Byrne [?] (Mercedes, 1876)"
+ },
+ "metricas": {
+  "superficie_ha": "82,78",
+  "hitos": "Mojones nuevos; poblaciones de Díaz, Yegui y Casas; campo municipal",
+  "aguas": "—"
+ },
+ "sintesis": "Duplicado completo y breve (título, mensura y dictamen) con plano en tela. En enero de 1882 Félix Dabadie mide el campo de Toribio González: un paralelogramo de 503 × 1645 m (82 ha 78 a) comprado en 1878 a Solano Lescano, heredero de Francisco Lescano, que linda al NO con un campo de propiedad municipal —el ejido de Giles— y al E, en 1878, todavía con sobras fiscales. Todos los linderos conformes; aprobada en la parte facultativa el 28/4/1882. Pequeña propiedad periurbana, ya escriturada en metros.",
+ "caratula": {
+  "img": "img/f/120/01.jpg",
+  "fuente": "IMG_9825.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "120"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Toribio Gonzalez"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Felix Dabadie"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1882"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: extracto de títulos: Lino E. Ramírez, con poder de Solano Lescano, vende a Toribio González (Buenos Aires, 23/1/1878, escribano Eduardo González) un campo de 503,146 m de frente por 1431 m de fondo; linderos Atanasia Díaz (N), Alejandro Lescano (S), el poderdante (O) y sobras de terrenos fiscales (E); herencia de Francisco Lescano",
+   "img": "img/f/120/05.jpg",
+   "fuente": "IMG_9827 (girada 90°)",
+   "nota": "Letra cursiva inglesa muy regular, renglones rayados a lápiz; folio sellado «1». Las tomas 9828-9830 son de doble página; a la derecha de 9830, el plano (f. 4) visto por el dorso.",
+   "lineas": [
+    "Extracto de titulos —",
+    "En Buenos Ayres el veinte y tres",
+    "de Enero de mil ochocientos se-",
+    "tenta y ocho, Don Lino E. Ra-",
+    "mirez con poder de Don Solano",
+    "Lescano vende, segun escritura",
+    "estendida por el escribano Don",
+    "Eduardo Gonzalez, á Don Toribio",
+    "Gonzalez un campo compuesto",
+    "de quinientos tres metros con cien-",
+    "to cuarenta y seis milimetros de",
+    "frente con un fondo de mil",
+    "cuatrocientos treinta y un metros,",
+    "bajo los linderos siguientes: por",
+    "el Norte, Doña Atanasia Diaz;",
+    "por el Sur, Don Alejandro Les-",
+    "cano; por el Oeste, el poderdante;",
+    "y por el Este, con sobras de terre-",
+    "nos fiscales. El vendedor habia",
+    "heredado, en mayor cantidad,",
+    "dicho campo de su señor padre",
+    "Don Francisco Lescano segun",
+    "^{testimonio de}",
+    "hijuela, espedida en Setiembre",
+    "veinte y siete de mil ochocien-"
+   ],
+   "interpretacion": "EXTRACTO DE TÍTULOS. Buenos Aires, 23/1/1878, ante el escribano EDUARDO GONZÁLEZ: LINO E. RAMÍREZ, con poder de SOLANO LESCANO, vende a TORIBIO GONZÁLEZ un campo de 503,146 m de frente por 1431 m de fondo, entre ATANASIA DÍAZ (N; «Atanasio» en el plano), ALEJANDRO LESCANO (S), el propio poderdante (O) y SOBRAS DE TERRENOS FISCALES (E). Solano Lescano lo había heredado, en mayor cantidad, de su padre FRANCISCO LESCANO, según testimonio de hijuela de 27/9/1876…"
+  },
+  {
+   "titulo": "Folio 1 vuelta: hijuela de 1876 (escribano Julián Byrne [?] de Mercedes); aclaración de Lino Ramírez (29/3/1878): el fondo es de 1645,4 m; MENSURA: Giles, 9/1/1882, comisión del juez Juan San Martín (28/11/1881)",
+   "img": "img/f/120/06.jpg",
+   "fuente": "IMG_9828, página izquierda",
+   "nota": "",
+   "lineas": [
+    "tos setenta y seis, por el escriba-",
+    "no Don Julian Byrne [?] de Mer-",
+    "cedes —",
+    "En Marzo veinte y nueve de mil",
+    "ochocientos setenta y ocho, Don",
+    "Lino Ramirez declara, ante el",
+    "mismo escribano, que el fondo",
+    "del terreno vendido es de mil",
+    "seiscientos cuarenta y cinco me-",
+    "tros con cuatro decimetros —",
+    "Mensura — En el partido",
+    "de Giles el dia nueve de Enero",
+    "de mil ochocientos ochenta y dos,",
+    "el Agrimensor que suscribe",
+    "comisionado, por decreto de No-",
+    "viembre veinte y ocho proximo pa-",
+    "sado del Juez de Primera Instan-",
+    "cia del Departamento del Centro",
+    "Doctor Don Juan San Martin, para",
+    "medir el campo de propiedad",
+    "de Don Toribio Gonzalez situado",
+    "en este partido ^{de Giles}, segun titulos cu-",
+    "yo extracto consta arriba, despues",
+    "de haber avisado á los linderos",
+    "segun consta por los periodicos, y",
+    "circular de citacion adjuntos, me"
+   ],
+   "interpretacion": "…expedido por el escribano JULIÁN BYRNE [?] de Mercedes. 29/3/1878: Ramírez aclara ante el mismo escribano que el fondo es de 1645,4 m (no 1431). MENSURA: Giles, 9/1/1882; Dabadie, comisionado por decreto del 28/11/1881 del juez del Centro JUAN SAN MARTÍN, tras avisar a los linderos por los periódicos y por circular…"
+  },
+  {
+   "titulo": "Folio 2: arranque en A, esquinero O, N de Alejandro Lescano y costanero de un campo de propiedad MUNICIPAL; A-B N 37° 34′ E 503,14 m contra el terreno municipal hasta B (esquinero O de una fracción de Solano Lescano, a 117,18 m del costado SO de Atanasia Díaz); regreso a A; contra Alejandro Lescano al S…",
+   "img": "img/f/120/07.jpg",
+   "fuente": "IMG_9828, página derecha",
+   "nota": "",
+   "lineas": [
+    "situé en el mojon esquinero",
+    "Oeste del campo que voy á medir,",
+    "el cual es esquinero Norte de Don",
+    "Alejandro Lescano, y costanero",
+    "de un campo de propiedad Mu-",
+    "nicipal, señalado en el plano",
+    "con la letra A. Desde este punto di",
+    "principio á la mensura deslindan-",
+    "do con el terreno Municipal, mi-",
+    "diendo al Norte treinta y siete gra-",
+    "dos treinta y cuatro minutos Este",
+    "quinientos tres metros con catorce",
+    "centimetros hasta el punto en",
+    "que clavé un mojon para es-",
+    "quinero Norte del campo, costa-",
+    "nero de la Municipalidad, y es-",
+    "quinero Oeste de una fraccion de",
+    "campo de Don Solano Lescano,",
+    "punto señalado en el plano con",
+    "la letra B, el cual dista ciento",
+    "diez y siete metros con diez y ocho",
+    "centimetros del costado Sudoeste",
+    "de Doña Atanasia Diaz. —",
+    "Regresé al mojon A, desde el",
+    "cual deslindando con Don Ale-",
+    "jandro Lescano al Sur cincuen-"
+   ],
+   "interpretacion": "…arranca en A, esquinero O, N de Alejandro Lescano y costanero de UN CAMPO DE PROPIEDAD MUNICIPAL (el ejido de Giles). A-B: N 37° 34′ E 503,14 m contra la Municipalidad hasta B, esquinero O de una fracción de Solano Lescano, a 117,18 m del costado SO de Atanasia Díaz. Vuelve a A y mide contra Alejandro Lescano…"
+  },
+  {
+   "titulo": "Folio 2 vuelta: A-C S 51° 50′ E 1645,4 m contra Alejandro Lescano hasta C (esquinero S, O de Solano Lescano); visuales desde C a las poblaciones de Fernando Díaz, Francisco Yegui [?] y Romualdo Casas; C-D N 37° 34′ E 503,14 m contra Solano Lescano…",
+   "img": "img/f/120/08.jpg",
+   "fuente": "IMG_9829, página izquierda",
+   "nota": "",
+   "lineas": [
+    "ta y un grados cincuenta mi-",
+    "nutos Este medí mil seiscientos",
+    "cuarenta y cuarenta [sic] y cinco me-",
+    "tros con cuatro decimetros hasta",
+    "el punto en que coloqué el mo-",
+    "jon esquinero Sur del campo",
+    "que mido, el cual es esquinero",
+    "Oeste de Don Solano Lescano,",
+    "costanero de Don Alejandro Les-",
+    "cano, punto C. del plano. Desde",
+    "este mojon, miré: al Sur veinte",
+    "grados cincuenta y dos minutos",
+    "Este, la poblacion de Don Fernan-",
+    "do Diaz; al Sur cincuenta y tres",
+    "grados veinte y nueve minutos",
+    "Oeste, la poblacion de Don Fran-",
+    "cisco Yegui [?]; y al Norte quince",
+    "grados cuarenta y cinco minutos",
+    "Oeste, la poblacion de Don Ro-",
+    "mualdo Casas. Desde el mojon",
+    "C, deslindando con Don Solano",
+    "Lescano, al Norte treinta y siete",
+    "grados treinta y cuatro minutos",
+    "Este medí quinientos tres metros",
+    "con catorce centimetros hasta",
+    "el punto en que clavé un mo-"
+   ],
+   "interpretacion": "A-C: S 51° 50′ E 1645,4 m (el texto repite «cuarenta y cuarenta») hasta C, esquinero S, O de Solano Lescano. VISUALES desde C a las POBLACIONES de FERNANDO DÍAZ (S 20° 52′ E), FRANCISCO YEGUI [?] (S 53° 29′ O) y ROMUALDO CASAS (N 15° 45′ O): el abalizamiento se hace con rumbos, no con ángulos a la línea. C-D: N 37° 34′ E 503,14 m contra Solano Lescano…"
+  },
+  {
+   "titulo": "Folio 3: D, esquinero E, costanero de Solano Lescano, a 121,85 m del costado SO de Atanasia Díaz; D-B N 51° 50′ O 1645,4 m contra Solano Lescano; paralelogramo ACDB de 82 ha 78 a 17 ca; límites: Solano Lescano (NE y SE), Alejandro Lescano (SO), la Municipalidad (NO)",
+   "img": "img/f/120/09.jpg",
+   "fuente": "IMG_9829, página derecha",
+   "nota": "",
+   "lineas": [
+    "jon para esquinero Este del cam-",
+    "po que mido, costanero de Don",
+    "Solano Lescano, está señalado",
+    "en el plano con la letra D y dista",
+    "ciento veinte y un metros con o-",
+    "chenta y cinco centimetros del",
+    "costado Sudoeste de Doña Atana-",
+    "sia Diaz. Desde D deslindando",
+    "con Don Solano Lescano, al Norte",
+    "cincuenta y un grados cincuenta",
+    "minutos Oeste medí mil seis-",
+    "cientos cuarenta y cinco metros",
+    "con cuatro decimetros hasta",
+    "el mojon esquinero Norte letra",
+    "B del plano, quedando termina-",
+    "da la mensura. La superficie",
+    "del paralelogramo ACDB, es i-",
+    "gual á ochenta y dos hectareas",
+    "setenta y ocho areas y diez y siete",
+    "centiareas. Los limites son: por",
+    "el Nordeste, y el Sudeste, Don",
+    "Solano Lescano; por el Sudoeste,",
+    "Don Alejandro Lescano; y por",
+    "el Noroeste, La Municipalidad.",
+    "Asistieron á la mensura todos",
+    "los interesados, quienes que="
+   ],
+   "interpretacion": "…hasta D, esquinero E, a 121,85 m del costado SO de Atanasia Díaz. D-B: N 51° 50′ O 1645,4 m contra Solano Lescano. PARALELOGRAMO ACDB de 82 ha 78 a 17 ca (= 827.817 m², como el plano). Límites: Solano Lescano (NE y SE), Alejandro Lescano (SO) y LA MUNICIPALIDAD (NO). Asistieron todos los interesados…"
+  },
+  {
+   "titulo": "Folio 3 vuelta: todos quedaron conformes (acta adjunta); salvedad; firma Félix Dabadie; presentada al Departamento de Ingenieros (10/3/1882); dictamen (28/4/1882): de acuerdo con sus antecedentes, se aprueba en la parte facultativa; sellos repuestos; firmas Jorge Coquet [?], E. Hernández [?] y José Antonio Lagos",
+   "img": "img/f/120/10.jpg",
+   "fuente": "IMG_9830, página izquierda",
+   "nota": "",
+   "lineas": [
+    "daron conformes, segun consta",
+    "por el acta adjunta —",
+    "Entre renglones = testimonio de —",
+    "de Giles = Valen.",
+    "Felix Dabadie [rúbrica]",
+    "Marzo 10/82 —",
+    "Presentada en la fecha al Depar-",
+    "tamento de Ingenieros —",
+    "J. Ferrari [?] [rúbrica]",
+    "Señor Juez de 1.^{a} Instancia:",
+    "El Departamento de Ingenieros ha examina-",
+    "do la mensura practicada por el agrimensor Don",
+    "Felix Dabadie de un terreno de propiedad de Don Tori-",
+    "bio Gonzalez en Giles, y hallandola de acuerdo con sus",
+    "antecedentes, la aprueba en la parte facultativa.",
+    "Los sellos correspondientes han sido repuestos",
+    "y van agregados.",
+    "Abril 28 de 1882.",
+    "Jorge Coquet [?] [rúbrica]",
+    "E. Hernandez [?] [rúbrica]   José Ant.^{o} Lagos [rúbrica]"
+   ],
+   "interpretacion": "…y quedaron conformes (acta adjunta). Salvedad de entrerrenglones; firma FÉLIX DABADIE. Presentada al Departamento de Ingenieros el 10/3/1882 (recibe J. FERRARI [?], como en la 118). DICTAMEN del 28/4/1882: la mensura está de acuerdo con sus antecedentes y SE APRUEBA EN LA PARTE FACULTATIVA; los SELLOS han sido repuestos. Firmas: Jorge Coquet [?], E. Hernández [?] y José Antonio Lagos."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del campo de Toribio González (Félix Dabadie, 1882)",
+   "img": "img/f/120/03.jpg",
+   "fuente": "IMG_9831.JPG (f. 4, tela con marco negro de esquinas redondeadas); detalle 9832",
+   "orientacion": "Flecha de norte inclinada (lado largo NO-SE); escala gráfica en metros; firma Félix Dabadie.",
+   "interpretacion": "Rectángulo A-C-D-B rotulado TORIBIO GONZÁLEZ · Área = 827.817 m² c², bordeado a la acuarela. Al NO «Municipalidad», al SE «S. Lescano», al NE la faja de Solano Lescano (117,18 / 121,85 m) y detrás Atanasio Díaz; al SO Alejandro Lescano. No hay casas, aguas ni caminos dibujados.",
+   "referencias": [
+    [
+     "A-B",
+     "N 37° 34′ E · 503,14 m · contra la Municipalidad"
+    ],
+    [
+     "A-C",
+     "S 51° 50′ E · 1645,4 m · contra Alejandro Lescano"
+    ],
+    [
+     "C-D",
+     "N 37° 34′ E · 503,14 m · contra Solano Lescano"
+    ],
+    [
+     "D-B",
+     "N 51° 50′ O · 1645,4 m · contra Solano Lescano"
+    ],
+    [
+     "B / D",
+     "a 117,18 y 121,85 m del costado SO de Atanasia (Atanasio) Díaz"
+    ],
+    [
+     "Superficie",
+     "82 ha 78 a 17 ca = 827.817 m²"
+    ],
+    [
+     "Visuales desde C",
+     "Poblaciones de Fernando Díaz, Francisco Yegui [?] y Romualdo Casas"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle del plano",
+   "img": "img/f/120/04.jpg",
+   "fuente": "IMG_9832.JPG",
+   "orientacion": "",
+   "interpretacion": "Rumbos y distancias de los cuatro lados, letras A-B-C-D, las fajas de Solano Lescano con sus anchos y los nombres de los linderos.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Ubicación: contra el campo municipal",
+   "texto": "El lado NO linda con «un campo de propiedad MUNICIPAL» (la Municipalidad de Giles): probablemente el ejido o tierras de pan llevar del pueblo (cf. Carpeta 137 «Ejido» y Ficha 008). Al E, en 1878, había todavía «SOBRAS DE TERRENOS FISCALES», que en 1882 ya son de Solano Lescano: indicio del ciclo de las sobras (compra o denuncia entre 1878 y 1881). Las tres poblaciones visadas (F. Díaz, Yegui, Casas) son vecinos chicos alrededor del ejido. Las poblaciones de Romualdo Casas (cf. Romualda G. de Casas, 068, 095, 115) y Fernando Díaz (105) ubican la faja en el sector Lescano–Casas al borde del pueblo."
+  },
+  {
+   "titulo": "Tenencia: fragmentación de la herencia lescano",
+   "texto": "Francisco Lescano → hijuela de su hijo Solano (1876) → venta de una faja de ~500 m a Toribio González (1878), vía apoderado. Solano conserva fajas al NE y SE; Alejandro Lescano (¿hermano?) linda al SO. Es la pequeña propiedad que se forma por partición hereditaria y venta parcial junto al pueblo. CRUCE: es parte del CAMPO DE FRANCISCO LESCANO medido entero en la Ficha 115 (trapecio de 933 ha, rumbos S 37° 22′ E / N 51° 38′ E: la misma grilla que aquí, N 37° 34′ E / S 51° 50′ E) y vecino de los hijos de Pascual Lescano (109); la hijuela de Solano (1876) es una de las particiones de ese bloque."
+  },
+  {
+   "titulo": "Metrología y técnica",
+   "texto": "Todo en METROS desde el título (503,146 m con milímetros, 1431 m corregido a 1645,4 m por escritura aclaratoria): la escritura de 1878 ya se redacta en sistema métrico. Rumbos sin variación declarada; abalizamiento con RUMBOS a poblaciones (no ángulos a la línea). Superficie exacta: 503,14 × 1645,4 = 827.866 m², el plano da 827.817 (ángulo no del todo recto)."
+  },
+  {
+   "titulo": "Circuito administrativo",
+   "texto": "Presentada el 10/3/1882 (J. Ferrari [?], como en 118); dictamen de aprobación «en la parte facultativa» el 28/4/1882, con reposición de sellos. Coquet [?] y Lagos firman también en 119: es el mismo plantel del Departamento de Ingenieros a comienzos de 1882."
+  },
+  {
+   "titulo": "Lecturas dudosas",
+   "texto": "«Julián Byrne [?]» (escribano de Mercedes); «Francisco Yegui [?]»; «Atanasia» (texto) / «Atanasio» (plano) Díaz; «Jorge Coquet [?]»; «E. Hernández [?]»; «J. Ferrari [?]»."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Qué es exactamente el «campo de propiedad Municipal»: ejido, chacras municipales? ¿Cuándo pasaron a Solano Lescano las sobras fiscales del E? ¿Hay duplicados de Francisco o Alejandro Lescano en el corpus?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Toribio González",
+   "rol": "Propietario",
+   "texto": "Compra en 1878 a Solano Lescano una faja de 82 ha junto al campo municipal de Giles. Sin datos biográficos.",
+   "fuentes": "Dup. 120."
+  },
+  {
+   "nombre": "Félix Dabadie",
+   "rol": "Agrimensor",
+   "texto": "Primera mensura suya en el corpus; apellido de origen vasco-francés. Letra muy pareja en todo el duplicado (copista o el propio agrimensor). Sin datos en la búsqueda web breve.",
+   "fuentes": "Dup. 120."
+  },
+  {
+   "nombre": "Solano Lescano · Alejandro Lescano · Francisco Lescano",
+   "rol": "Vendedor · linderos · causante",
+   "texto": "Familia de propietarios junto al ejido; Solano hereda de su padre Francisco (hijuela de 1876) y vende por medio de su apoderado Lino E. Ramírez.",
+   "fuentes": "Dup. 120."
+  },
+  {
+   "nombre": "Lino E. Ramírez",
+   "rol": "Apoderado",
+   "texto": "Otorga la venta (1878) y la escritura aclaratoria del fondo.",
+   "fuentes": "Dup. 120."
+  },
+  {
+   "nombre": "Atanasia (Atanasio) Díaz · Fernando Díaz · Francisco Yegui [?] · Romualdo Casas",
+   "rol": "Lindero y vecinos",
+   "texto": "Díaz al N; las poblaciones de F. Díaz, Yegui y Casas sirven de visual desde C.",
+   "fuentes": "Dup. 120."
+  },
+  {
+   "nombre": "Juan San Martín",
+   "rol": "Juez civil del centro",
+   "texto": "Comisiona también las mensuras de 113, 117 y 119 (1881).",
+   "fuentes": "Dup. 113, 117, 119, 120."
+  },
+  {
+   "nombre": "Jorge Coquet [?] · José Antonio Lagos · E. Hernández [?]",
+   "rol": "Departamento de ingenieros",
+   "texto": "Dictamen del 28/4/1882; Lagos y Coquet [?] también en 118-119.",
+   "fuentes": "Dup. 118-120."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/120/02.jpg",
+  "fuente": "IMG_9826.JPG (girada 90°)",
+  "lineas": [
+   "Giles N.^{o} 120.",
+   "Duplicado de la diligencia",
+   "de mensura, de Don Toribio",
+   "Gonzalez en el partido de",
+   "Giles.",
+   "8-87-214 [lápiz, con rúbrica]",
+   "1882.",
+   "Dabadie"
+  ]
+ },
+ "titulo": "Toribio González",
+ "estado": "Transcripta (6 hojas, 149 renglones), 2 láminas"
+}
