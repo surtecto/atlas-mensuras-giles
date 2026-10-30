@@ -1,0 +1,625 @@
+{
+ "carpeta": "121",
+ "carpeta_nombre": "Carpeta 121",
+ "archivo": "Ficha 121 - Melitón Rodríguez (1882).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (arroyo del Sauce – Cañada de la Cruz)",
+  "N.º de duplicado": "121",
+  "Propietario / solicitante": "Melitón Rodríguez",
+  "Agrimensor": "Federico C. de Meyrelles",
+  "Año": "1882",
+  "Fecha de la diligencia": "Nombramiento 11/2/1881; mensura 18/5/1882; aprobación 23/6/1882",
+  "Ubicación": "Faja entre el arroyo del Sauce y la Cañada de los Canos, cruzada por la Cañada de la Cruz",
+  "Orden judicial": "Juez de 1.ª Inst. en lo Civil Dr. Miguel L. Noguera; aprueba Heredia [?] (1882)",
+  "Vendedor / antecesor": "Pablo Affre → Lorenzo M. Torres (1870) → Melitón Rodríguez (1878)",
+  "Linderos citados": "N. Garibotti (NE) · S. Rodríguez (SE) · W. Bertram, ex Ormaechea (SO) · M. Maldonado (NO)",
+  "Medidas": "283,62-283,98 × 6618,20-6627,55 m = 187 ha 83 a 80 ca (111,3 cuadras)",
+  "Rumbos": "S 30° 53′ E · N 56° 14′ E · S 58° 7′ O; rumbos verdaderos; variación 11° 25′ NE",
+  "Referencia de archivo": "Dup. 121; remite a dups. 160 y 42 (lápiz); copia heliográfica La Plata 1938; nota 1929"
+ },
+ "metricas": {
+  "superficie_ha": "187,84",
+  "hitos": "Mojones de ñandubay y fierro; pulpería y quinta Garibotti; puesto y rancho; 12 poblaciones visadas; ferrocarril",
+  "aguas": "Arroyo del Sauce; Cañada de la Cruz; Cañada de los Canos"
+ },
+ "sintesis": "Duplicado completo (títulos, diligencia, detalles, abalizamientos, dictamen y auto) con plano en color y copia de 1938. En mayo de 1882 Federico C. de Meyrelles mide la faja de Melitón Rodríguez: 283,6 × 6620 m (187 ha 84 a), S 30° 53′ E, desde el arroyo del Sauce hasta más allá de la Cañada de la Cruz. Es la faja de Pablo Affre (Ficha 042), vendida a Lorenzo M. Torres (1870) y a Rodríguez (1878), entre Garibotti (ex Castro) y Bertram (ex Ormaechea). La transecta registra un puesto de material, un rancho de barro, la pulpería y quinta de Antonio Garibotti, el camino de Areco a Luján, tres cañadas y, en el extremo SE, el Ferrocarril de Arrecifes a Luján con su telégrafo.",
+ "caratula": {
+  "img": "img/f/121/01.jpg",
+  "fuente": "IMG_9843.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "121"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Meliton Rodriguez"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Federico C. de Meyrelles"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1882"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: extracto de títulos: Lorenzo Manuel Torres vende a Melitón Rodríguez (31/8/1878, escribano Vicente Artola) un terreno de pastoreo de 283,615 m de frente por 6623 m de fondo (327½ × 7647 v); linderos Juan Castro hoy Nicolás Garibotti (N), herederos de Juan Ormaechea hoy Wilhelm Bertram (S), Miguel López hoy Sinforiano Rodríguez (E), Francisco Maldonado hoy su hija María (O); antes de Pablo Affre (1870); poder a Fernando del Río (1881)",
+   "img": "img/f/121/07.jpg",
+   "fuente": "IMG_9845, página derecha (la izquierda en blanco)",
+   "nota": "Letra inglesa grande y cuidada (copista); foliación con sello circular «Folio 1» a «Folio 7». Tomas 9846-9849 de doble página; 9850-9851 son el oficio judicial cosido al final.",
+   "lineas": [
+    "Duplicado. [al margen sup. izq.]                 [sello circular: Folio 1]",
+    "Extracto de Titulos",
+    "del terreno perteneciente á D. Meliton Rodriguez.",
+    "Partido de San Andrés de Giles",
+    "1878. Agosto 31. Ante el Escribano Vicente Artola,",
+    "D. Lorenzo Manuel Torres otorga escritura de venta á",
+    "favor de D. Meliton Rodriguez, vecino del Partido de",
+    "San Andrés de Giles, de un terreno de pastoreo, ubicado en",
+    "d^{ho} Partido y compuesto de doscientos ochenta y tres me-",
+    "tros seiscientos quince milímetros de frente, p^{r} seis mil seis",
+    "cientos veinte y tres metros de fondo, ó sean trescientas",
+    "veinte y siete y media varas p^{r} siete mil seiscientas",
+    "cuarenta y siete varas — lindando por el Norte con D.",
+    "Juan Castro, (hoy Nicolás Garibotti) por el Sud con los",
+    "herederos de Juan Ormaechea (hoy Wilhelm Bertram)",
+    "{En la escritura dice Anchorena, q^{e} jamás ha sido propietario en este",
+    "Partido, mientras q^{e} Ormaechea ha sido de los mas antiguos y conocidos",
+    "vecinos, cuya casa y extensa quinta, aun existen.}",
+    "Por el Este, con Miguel Lopez, (hoy Sinforiano Rodriguez)",
+    "y por el Oeste con D. Francisco Maldonado (hoy su hija",
+    "Maria Maldonado.      Este terreno lo hubo el vendedor,",
+    "p^{r} compra q^{e} hizo á D. Pablo Affre, segun la escritura",
+    "firmada ante el mismo Escribano Artola, con fecha",
+    "20 de Enero 1870.",
+    "1881. Febrero 4. D. Meliton Rodriguez confiere po-",
+    "der especial al D^{r} D. Alberto Diana, p^{r} ante el",
+    "Escribano del Pueblo de Giles, D. Fernando del Rio,",
+    "para q^{e} solicite la mensura y corra con todas las"
+   ],
+   "interpretacion": "EXTRACTO DE TÍTULOS. 31/8/1878, ante el escribano VICENTE ARTOLA: LORENZO MANUEL TORRES vende a MELITÓN RODRÍGUEZ, vecino de Giles, un «terreno de pastoreo» de 283,615 m de frente por 6623 m de fondo (= 327½ × 7647 varas: la escritura da las dos medidas). Linderos: N, JUAN CASTRO «hoy» NICOLÁS GARIBOTTI; S, herederos de JUAN ORMAECHEA «hoy» WILHELM BERTRAM; E, MIGUEL LÓPEZ «hoy» SINFORIANO RODRÍGUEZ; O, FRANCISCO MALDONADO «hoy su hija» MARÍA MALDONADO. Entre llaves, el agrimensor corrige la escritura: decía «Anchorena», que «jamás ha sido propietario en este partido», mientras Ormaechea fue de los más antiguos vecinos, «cuya casa y extensa quinta aún existen» (dato de paisaje: la quinta Ormaechea, 036). Torres lo había comprado a PABLO AFFRE el 20/1/1870 (mismo escribano). 4/2/1881: Rodríguez da poder especial al Dr. ALBERTO DIANA ante el escribano de Giles FERNANDO DEL RÍO para pedir la mensura."
+  },
+  {
+   "titulo": "Folio 1 vuelta: el Dr. Diana nombra al agrimensor Meyrelles; el juez Miguel L. Noguera lo acepta (11/2/1881); DILIGENCIA: Giles, 18/5/1882; edictos en «La Patria Argentina» y «El Nacional» y circular; sin mojón de arranque, enfila la línea de Isidro Cucullu por sus esquineros de fierro (S 30° 53′ E); en el costanero de fierro x escuadra al S 59° 7′ O y mide 346,05 m",
+   "img": "img/f/121/08.jpg",
+   "fuente": "IMG_9846, página izquierda",
+   "nota": "",
+   "lineas": [
+    "diligencias hasta su aprobacion —",
+    "1881. Feb.^{o} 10. El D.^{r} Diana nombra al agrimensor",
+    "Meyrelles, aceptando el Juez de 1.^{a} Inst.^{a} en lo Civil, D.^{r} D.",
+    "Miguel L. Noguera d^{ho} nombramiento, p^{r} auto de 11 de",
+    "Feb.^{o} del mismo año —",
+    "Diligencia de Mensura:",
+    "En el Partido de San Andrés de Giles, á los diez y ocho",
+    "dias del mes de Mayo del corr.^{te} año de mil ochocientos",
+    "ochenta y dos, hallandome comisionado p^{r} el Sr. Juez de",
+    "1.^{a} Inst.^{a} en lo Civil D.^{r} D. Miguel L. Noguera, p^{r}",
+    "auto de Once de Feb.^{o} del año pp.^{do}, para medir el",
+    "campo perteneciente á D. Meliton Rodriguez; yo el",
+    "agrimensor publico ^{q^{e} suscribe} di principio á la mensura, ha-",
+    "biendo publicado previamente los Edictos en los diarios",
+    "Patria Argentina y Nacional, citando además en",
+    "sus domicilios á todos los linderos, segun lo demues-",
+    "tran la Circular y d^{hos} diarios q^{e} acompaño. —",
+    "No habiendo ningun mojon, q^{e} me sirviera de",
+    "arranque, me trasporté á la linea del Campo de",
+    "D. Isidro Cucullu, la q^{e} enfilé p^{r} los esquineros",
+    "de fierro, observando el rumbo Sud treinta grados",
+    "cincuenta y tres minutos Este. Puesto en estacion",
+    "en un costanero de fierro x, cuadré al Sud cincuenta",
+    "y nueve grados siete minutos Oeste, midiendo",
+    "(346,05) trescientos cuarenta y seis metros cinco centimetros;"
+   ],
+   "interpretacion": "El apoderado nombra agrimensor a MEYRELLES (10/2/1881) y el juez civil Dr. MIGUEL L. NOGUERA lo acepta (11/2/1881). DILIGENCIA: Giles, 18/5/1882 (quince meses después). Edictos en LA PATRIA ARGENTINA y EL NACIONAL y circular a los linderos. Como NO HAY MOJÓN DE ARRANQUE, Meyrelles se apoya en la línea del campo vecino de ISIDRO CUCULLU, enfilada por sus esquineros de FIERRO (S 30° 53′ E), y desde un costanero de fierro x escuadra (S 59° 7′ O) y mide 346,05 m: el ritual de arranque es aquí un préstamo de la red de mojones ajena."
+  },
+  {
+   "titulo": "Folio 2: los 346,05 m se reparten entre Antonio Garibotti (230,70) y Nicolás Garibotti (115,35); traza la divisoria Garibotti–Rodríguez (S 30° 53′ E / NO) hasta Maldonado y Sinforiano Rodríguez; prolonga la línea de Cucullu 283,62 m (frente de los títulos) y tira una paralela hasta la línea de frente de Maldonado y Cucullu (mojones de ñandubay y fierro): mojón de ñandubay A, esquinero Rodríguez–Bertram (antes Ormaechea); desde el esquinero de Maldonado, N 56° 14′ E 419,80 m hasta A, mojón de palo a los 9,80 m",
+   "img": "img/f/121/09.jpg",
+   "fuente": "IMG_9846, página derecha",
+   "nota": "",
+   "lineas": [
+    "correspondiendo (230,70) doscientos treinta metros, setenta",
+    "centimetros á D. Antonio Garibotti — y (115,35) ciento",
+    "quince metros, treinta y cinco centimetros á D. Nicolas",
+    "Garibotti.   Medido este frente, procedí á trazar la",
+    "linea divisoria, estableciendo el deslinde de los res-",
+    "pectivos terrenos de Garibotti y Meliton Rodriguez.",
+    "Al efecto, cuadré al SudEste y NordOeste (30° 53′)",
+    "treinta grados cincuenta y tres minutos, prolongando",
+    "la enfilacion hasta los terrenos de Maldonado y Sinfo-",
+    "riano Rodriguez. En seguida, prolongué la linea de los",
+    "p^{tos} q^{e} habia arrancado del campo de Cucullu y medí",
+    "(283,62^{m}) doscientos ochenta y tres metros sesenta y",
+    "dos centimetros, q^{e} es el frente q^{e} expresan los titulos",
+    "de D. Meliton Rodriguez, trazando una paralela",
+    "en el mismo rumbo Sud treinta grados cincuenta",
+    "y tres minutos Este y prolongandola en este y",
+    "en sentido opuesto, hasta la interseccion con la",
+    "linea de f^{te} de Maldonado y Cucullu, claram.^{te}",
+    "determinada por una serie de mojones de ñan-",
+    "dubay y fierro, en cuya interseccion, se puso",
+    "un mojon de ñandubay A, como esquinero de",
+    "Meliton Rodriguez y Wilhelm Bertram, (antes",
+    "Ormaechea) costanero de Maria Maldonado. Desde",
+    "el esquinero de Maldonado, medí al Norte cincuenta",
+    "y seis grados catorce minutos Este, (419,80^{m}) cua-",
+    "trocientos diez y nueve metros ochenta centimetros",
+    "hasta A, encontrando otro mojon de palo, á los",
+    "(9,80) nueve metros ochenta centimetros —"
+   ],
+   "interpretacion": "Los 346,05 m son el frente de los dos GARIBOTTI: ANTONIO (230,70) y NICOLÁS (115,35). Traza la divisoria Garibotti–Rodríguez a S 30° 53′ E, prolonga la escuadra 283,62 m (el frente de título) y tira la paralela hasta la LÍNEA DE FRENTE de MALDONADO y CUCULLU, «claramente determinada por una serie de mojones de ñandubay y fierro». Allí pone el mojón de ñandubay A (esquinero Rodríguez–Bertram, «antes Ormaechea», costanero de María Maldonado). Comprobación: desde el esquinero de Maldonado hasta A hay 419,80 m al N 56° 14′ E, con un mojón de palo viejo a los 9,80 m."
+  },
+  {
+   "titulo": "Folio 2 vuelta: A-B S 30° 53′ E 6618,20 m hasta el frente de Sinforiano Rodríguez (mojón de ñandubay B, esquinero Rodríguez–Bertram); desde A, N 56° 14′ E 283,98 m por la línea de mojones de Maldonado y Cucullu hasta C (ñandubay, esquinero con Nicolás Garibotti); C-D S 30° 53′ E 6627,55 m hasta D; D-B S 58° 7′ O 283,66 m",
+   "img": "img/f/121/10.jpg",
+   "fuente": "IMG_9847, página izquierda",
+   "nota": "",
+   "lineas": [
+    "Enfilada la linea como lo dejo dicho, en el",
+    "rumbo Sud treinta grados cincuenta y tres minutos",
+    "Este, medí desde A (6618,20^{m}) seismil seiscientos",
+    "diez y ocho metros veinte centimetros hasta la",
+    "interseccion con el frente de Sinforiano Rodriguez,",
+    "donde se puso un mojon de ñandubay B, como",
+    "esquinero de Meliton Rodriguez y Wilhelm",
+    "Bertram, costanero Sinforiano Rodriguez —",
+    "Habiendo vuelto al mojon A, medí al Norte",
+    "cincuenta y seis grados catorce minutos Este,",
+    "y siguiendo la linea de los mojones de Maldonado",
+    "y Cucullu, (283,98^{m}) doscientos ochenta y tres me-",
+    "tros noventa y ocho centimetros hasta la interseccion",
+    "de esta linea con la otra, q^{e} habia dejado",
+    "enfilada, deslinde con Garibotti, donde puse",
+    "otro mojon de ñandubay C, esquinero de Meliton",
+    "Rodriguez y Nicolas Garibotti, costanero de",
+    "Maria Maldonado —    Desde C, y siguiendo",
+    "el rumbo Sud treinta grados cincuenta y tres",
+    "minutos Este, medí (6627,55^{m}) seismil seiscientos",
+    "veinte y siete metros cincuenta y cinco centimetros",
+    "hasta la linea de frente de Sinforiano Rodriguez,",
+    "donde puse un mojon de ñandubay D, esquinero",
+    "de este y Meliton Rodriguez, costanero de Nicolás",
+    "Garibotti.     Desde este mojon, al Sud cincuenta y",
+    "ocho grados siete minutos Oeste, conté hasta",
+    "B, doscientos ochenta y tres metros sesenta y seis",
+    "centimetros.",
+    "Estando medido y amojonado"
+   ],
+   "interpretacion": "Cierre del cuadrilátero: A-B S 30° 53′ E 6618,20 m hasta el frente de Sinforiano Rodríguez (mojón B); A-C N 56° 14′ E 283,98 m por la línea de mojones Maldonado–Cucullu (mojón C, esquinero con Nicolás Garibotti); C-D S 30° 53′ E 6627,55 m (mojón D); D-B S 58° 7′ O 283,66 m. Es una faja larga y angosta (proporción ≈ 1:23), típica de las suertes de estancia subdivididas."
+  },
+  {
+   "titulo": "Folio 3: perímetro amojonado, mensura terminada; DETALLES de A-B: mojones de ñandubay cada 1000 m; puesto de material de Juan Rodríguez (923,80 m, izq.) y rancho de barro (985 m); camino de San Antonio de Areco a Luján (3100-3205 m); población y pulpería de Antonio Garibotti (3744 m, izq.); Cañadita que arranca de la Cañada de la Cruz (4890-4894 m); Cañada de la Cruz (5075-5096 m); Cañada de los Canos (6087-6213 m); A-C: arroyo del Sauce a 186 m, cauce a 228 m…",
+   "img": "img/f/121/11.jpg",
+   "fuente": "IMG_9847, página derecha",
+   "nota": "",
+   "lineas": [
+    "todo el perimetro del Campo de D. Meliton",
+    "Rodriguez, dí por terminada la mensura —      [sello: Folio 3]",
+    "Detalles.",
+    "AB. A cada mil metros se colocaron mojones",
+    "de ñandubay; á los novecientos veinte y tres metros",
+    "ochenta centimetros, cuadré á la izquierda sobre el",
+    "Puesto de material, perteneciente á Juan Rodriguez;",
+    "á los novecientos ochenta y cinco metros, á la izquierda",
+    "un rancho de barro del mismo Rodriguez; á los tres",
+    "mil cien metros, á la derecha diez metros el Camino",
+    "de S.^{n} Antonio de Areco á Luján; á los tresmil",
+    "doscientos cinco metros, crucé este camino;",
+    "á los tresmil setecientos cuarenta y cuatro metros,",
+    "cuadré á la izquierda sobre la poblacion de Antonio",
+    "Garibotti, donde hay una Pulperia; á los cua-",
+    "tromil ochocientos noventa metros, llegué á una",
+    "Cañadita, q^{e} arranca de la Cañada de la",
+    "Cruz, cruzandola á los cuatromil ochocientos noventa",
+    "y cuatro metros; á los cinco mil setenta y cinco",
+    "metros, llegué á la Cañada de la Cruz, cruzandola",
+    "á los cinco mil noventa y seis metros; á las [sic]",
+    "seismil ochenta y siete metros, encontré la",
+    "Cañada de las Canos [?], q^{e} arranca de la Cruz, atra-",
+    "vesandola á los seismil doscientos trece metros.",
+    "AC. A los ciento ochenta y seis metros, ~~llegué~~ al",
+    "arroyo del Sauce; á los doscientos veinte y ocho",
+    "metros, entré al cauce; á los doscientos cuarenta y ocho"
+   ],
+   "interpretacion": "DETALLES de la línea A-B: es la mejor «transecta de paisaje» de la ficha. Mojones de ñandubay cada 1000 m; PUESTO DE MATERIAL de JUAN RODRÍGUEZ (923,8 m) y RANCHO DE BARRO del mismo (985 m), ambos a la izquierda; CAMINO DE SAN ANTONIO DE ARECO A LUJÁN (corre 10 m a la derecha a los 3100 m y se cruza a los 3205); POBLACIÓN y PULPERÍA de ANTONIO GARIBOTTI (3744 m); una CAÑADITA que arranca de la CAÑADA DE LA CRUZ (4890-4894 m); la CAÑADA DE LA CRUZ (5075-5096 m: ¡21 m de ancho!); la CAÑADA DE LOS CANOS [?], que también arranca de la Cruz (6087-6213 m: 126 m). En A-C el ARROYO DEL SAUCE aparece a 186 m de A, con su cauce a 228 m…"
+  },
+  {
+   "titulo": "Folio 3 vuelta: …barranca y mojón C en el arroyo; DETALLES de C-D: sale del arroyo del Sauce a 7,5 m; mojones de ñandubay a 1014,30 · 2014,30 · 3014,30 · 4014,30 · 5014,30 · 6014,30 m; esquinas de la quinta de Antonio Garibotti (3696 m, 20 m a la izq.; 3915 m, 18 m); Cañada de la Cruz (5033-5052 m) y camino de San Antonio de Areco a Luján, que toma rumbo E; ABALIZAMIENTOS desde A: puesto de material de Juan Rodríguez S 80° 28′ E, ídem de paja S 32° 36′ E, población de Raimundo Ávalos S 23° 16′ O, población de los herederos de Juan Ormaechea S 5…",
+   "img": "img/f/121/12.jpg",
+   "fuente": "IMG_9848, página izquierda",
+   "nota": "",
+   "lineas": [
+    "metros, llegué á la barranca, entrando nuevamente",
+    "en el arroyo, donde se puso el mojon C.",
+    "CD. A los siete y medio metros, salí del",
+    "Arroyo del Sauce; á los mil catorce metros treinta",
+    "centimetros, dos mil catorce treinta centimetros, tresmil",
+    "catorce treinta centimetros, cuatromil catorce metros",
+    "treinta centimetros, cinco mil catorce treinta centi-",
+    "metros y seismil catorce metros treinta centi-",
+    "metros, se pusieron mojones de ñandubay; á los",
+    "tresmil seiscientos noventa y seis metros, medí á",
+    "la izquierda, veinte metros hasta la esquina",
+    "de la quinta de Ant.^{o} Garibotti; á los tresmil no-",
+    "vecientos quince metros, medí tambien á la",
+    "izquierda diez y ocho metros hasta la otra",
+    "esquina; á los cinco mil treinta y tres metros,",
+    "llegué á la Cañada de la Cruz, q^{e} atravesé",
+    "á los cinco mil cincuenta y dos metros, en-",
+    "contrandome con el Camino de S.^{n} Antonio",
+    "de Areco á Luján, q^{e} toma la direccion",
+    "Este.",
+    "Avalizamientos.",
+    "Mojon A. Puesto de Juan Rodriguez (de material) Sud ochen-",
+    "ta grados veinte y ocho minutos Este; id. de paja,",
+    "Sud treinta y dos grados treinta y seis minutos Este;",
+    "Poblacion de Raimundo Avalos, Sud veinte y tres",
+    "grados diez y seis minutos Oeste; poblacion de los",
+    "hered.^{s} de Juan Ormaechea, Sud cincuenta y"
+   ],
+   "interpretacion": "…y la barranca a 248 m: el mojón C quedó «en el arroyo». En C-D: sale del arroyo a 7,5 m; mojones cada 1000 m a partir de 14,30 m; las dos esquinas de la QUINTA de Antonio Garibotti a 3696 y 3915 m (a 20 y 18 m de la línea: quinta de ≈ 220 m de lado); CAÑADA DE LA CRUZ a 5033-5052 m, donde la línea encuentra el camino de Areco a Luján, que dobla al E. ABALIZAMIENTOS (rumbos a puntos del paisaje) desde A: puesto de material y de paja de Juan Rodríguez, población de RAIMUNDO ÁVALOS, población de los herederos de Juan Ormaechea…"
+  },
+  {
+   "titulo": "Folio 4: abalizamientos (cont.): desde A, casa de María Maldonado N 3° 51′ O; desde B, pulpería de Garibotti N 21° 31′ O, población de Francisco Cano S [?]° 27′ O, puesto de Doroteo Cufré S 62° 9′ O, población de Federico Quevedo S 87° 37′ O, puesto de Santiago Ormaechea N 74° 56′ O; desde C, población de Juan Rodríguez S 23° 18′ E, de Miguel Dowley [?] N 75° 49′ E, de los herederos de Ormaechea S 55° 57′ O, de María Maldonado N 29° 2′ O; desde D, Federico Quevedo S 82° 16′ O, Tránsito Cano S 50° 19′ O, Francisco Cano S 5° 7′ O, Francisco Blanco S 71° 29′ E",
+   "img": "img/f/121/13.jpg",
+   "fuente": "IMG_9848, página derecha",
+   "nota": "",
+   "lineas": [
+    "cinco grados cuarenta minutos Oeste; Casa de      [sello: Folio 4]",
+    "Maria Maldonado, Norte tres grados cincuenta y un",
+    "minutos Oeste.",
+    "Mojon B. Pulperia de Garibotti, Norte veinte y un",
+    "grados treinta y un minutos Oeste. Poblacion de",
+    "Francisco Cano, Sud veinte y siete minutos Oeste [sic: falta el n.º de grados];",
+    "Puesto de Doroteo Cufré, Sud sesenta y dos",
+    "grados nueve minutos Oeste; Poblacion de",
+    "Federico Quevedo, Sud ochenta y siete grados",
+    "treinta y siete minutos Oeste; Puesto de",
+    "Santiago Ormaechea, Norte setenta y cuatro",
+    "grados cincuenta y seis minutos Oeste.",
+    "Mojon C. Pobl.^{n} de Juan Rodriguez, Sud veinte y",
+    "tres grados diez y ocho minutos Este; poblacion",
+    "de Miguel Dowley [?], Norte setenta y cinco",
+    "grados, cuarenta y nueve minutos Este;",
+    "poblacion de los herederos de Ormaechea, Sud",
+    "cincuenta y cinco grados cincuenta y siete",
+    "minutos Oeste; poblacion de Maria Maldonado,",
+    "Norte veinte y nueve grados dos minutos Oeste.",
+    "Mojon D. Poblacion de Federico Quevedo, Sud ochen-",
+    "ta y dos grados diez y seis minutos Oeste; Tran-",
+    "sito Cano, Sud cincuenta grados diez y nueve",
+    "minutos Oeste. Francisco Cano, Sud cinco grados",
+    "siete minutos Oeste — Francisco Blanco,",
+    "Sud setenta y un grados veinte y nueve mi-",
+    "nutos Este —"
+   ],
+   "interpretacion": "…y CASA de MARÍA MALDONADO. Desde B: pulpería de Garibotti, poblaciones de FRANCISCO CANO y FEDERICO QUEVEDO, puestos de DOROTEO CUFRÉ y SANTIAGO ORMAECHEA. Desde C: Juan Rodríguez, MIGUEL DOWLEY [?], herederos de Ormaechea, María Maldonado. Desde D: Federico Quevedo, TRÁNSITO CANO, Francisco Cano, FRANCISCO BLANCO. Son 17 visuales a 12 casas: un censo de poblaciones del vecindario del Sauce y la Cruz en 1882, georreferenciable por intersección. En el rumbo a Francisco Cano desde B falta la cifra de grados («Sud veinte y siete minutos Oeste»)."
+  },
+  {
+   "titulo": "Folio 4 vuelta: LINDEROS del trapecio ABCD: Nicolás Garibotti (NE), Sinforiano Rodríguez (SE), Wilhelm Bertram (SO), María Maldonado (NO); SUPERFICIE 187 ha 83 a 80 ca = 111,318 cuadras de 150 v = 0,069574 legua²; circular y acta firmadas por todos los linderos; rumbos verdaderos deducidos prolongando el frente de Lorenzo M. Torres; variación 11° 25′ NE; Buenos Aires, 6/6/1882, firma Federico C. de Meyrelles; entrada en el Departamento de Ingenieros 9/6/1882",
+   "img": "img/f/121/14.jpg",
+   "fuente": "IMG_9849, página izquierda",
+   "nota": "",
+   "lineas": [
+    "Linderos. El terreno ABCD de figura trape-",
+    "zoidal, perteneciente á D. Meliton Rodriguez, linda",
+    "por el NordEste con Nicolás Garibotti, por el SudEste",
+    "con Sinforiano Rodriguez, por el SudOeste con Wilhelm",
+    "Bertram, por el NordOeste con Maria Maldonado.",
+    "Superficie. Este terreno contiene ciento ochenta",
+    "y siete hectáreas, ochenta y tres áreas, ochenta",
+    "centiáreas, equivalente á ciento once cuadras cua-",
+    "dradas y mas trescientos diez y ocho milesimos",
+    "de otra cuadrada, de ciento cincuenta varas p^{r}",
+    "lado, ó lo q^{e} es lo mismo, sesenta y nueve mil",
+    "quinientos setenta y cuatro [testado ilegible] millonesi-",
+    "mos de legua cuadrada —",
+    "Circular y Acta. Se acompañan, firmadas",
+    "por todos los linderos —",
+    "Todos los rumbos son verdaderos y",
+    "se han deducido, prolongando el frente del campo",
+    "de D. Lorenzo M. Torres —",
+    "La Variacion de la aguja magnetica, es de",
+    "once grados veinte y cinco minutos NordEste.",
+    "Buenos Aires, Junio 6/882.",
+    "Federico C. de Meyrelles [rúbrica]",
+    "[sello oval: DEPARTAMENTO DE INGENIEROS · Entradas · 9 JUN 1882 · DE LA PROVINCIA]   [rúbrica]"
+   ],
+   "interpretacion": "LINDEROS del trapecio ABCD: Nicolás Garibotti (NE), Sinforiano Rodríguez (SE), Wilhelm Bertram (SO), María Maldonado (NO). SUPERFICIE: 187 ha 83 a 80 ca = 111,318 cuadras de 150 v = 0,069574 leguas² (triple expresión métrica/colonial). Circular y acta firmadas por todos los linderos (no fotografiadas). TODOS LOS RUMBOS SON VERDADEROS, deducidos prolongando el frente del campo de LORENZO M. TORRES; VARIACIÓN 11° 25′ NE. Firma Meyrelles en Buenos Aires el 6/6/1882; entrada en el Departamento de Ingenieros el 9/6/1882."
+  },
+  {
+   "titulo": "Folio 5: dictamen del Departamento de Ingenieros (16/6/1882): mensura conforme con sus antecedentes, en estado de ser aprobada judicialmente; firmas Jorge Coquet [?], José Ant. Lagos y Pedro Benoit; nota de 4/7/1929: informe en el oficio J-115-1929, posesión treintañal a favor de la sucesión de Juan Clímaco Rodríguez (juez Dr. Rivarola, sec. Ciriaco Gómez), firma Ernesto Rossi [?]",
+   "img": "img/f/121/15.jpg",
+   "fuente": "IMG_9849, página derecha",
+   "nota": "",
+   "lineas": [
+    "[Seño]r Juez de 1.^{a} Instancia:              [sello: Folio 5]",
+    "El Departamento de Inge-",
+    "nieros encuentra la presente",
+    "Mensura conforme con sus an-",
+    "tecedentes por lo que la con-",
+    "sidera en estado de ser apro-",
+    "bada judicialmente.",
+    "Junio 16 de 1882.",
+    "Jorge Coquet [?] [rúbrica]",
+    "José Ant.^{o} Lagos [rúbrica]   Pedro Benoit [rúbrica]",
+    "Julio 4 de 1929. Informé en el oficio J-115-1929.",
+    "Posesion Treintenaria a favor de la Sucesion de",
+    "Juan Climaco Rodriguez. Juez D.^{r} Rivarola",
+    "Sec. Ciriaco Gomez. — Cop. f.^{s}",
+    "Ernesto Rossi [?] [rúbrica]"
+   ],
+   "interpretacion": "DICTAMEN del Departamento de Ingenieros (16/6/1882): mensura conforme con sus antecedentes, en estado de aprobarse judicialmente; firman JORGE COQUET [?], JOSÉ ANTONIO LAGOS y PEDRO BENOIT. NOTA DE 1929: el duplicado se usó para informar en un juicio de POSESIÓN TREINTAÑAL a favor de la sucesión de JUAN CLÍMACO RODRÍGUEZ (juez Dr. Rivarola, secretario Ciriaco Gómez): la propiedad no tenía título perfecto 47 años después y se regularizó por prescripción."
+  },
+  {
+   "titulo": "Folio 6: oficio del juzgado al Jefe del Departamento de Ingenieros (Buenos Aires, 26/7/1882), sellado de 6 pesos 1882 n.º 154816: comunica la resolución del 23/6/1882: de conformidad con lo dictaminado por el Departamento, y observadas las formalidades del Código de Procedimientos, se aprueba en cuanto hubiere lugar la mensura practicada por Meyrelles para Melitón Rodríguez en San Andrés de Giles…",
+   "img": "img/f/121/16.jpg",
+   "fuente": "IMG_9850, página derecha",
+   "nota": "",
+   "lineas": [
+    "Corresponde                    [sello fiscal: 154816 · DIRECCION GENERAL DE RENTAS DE LA PROVINCIA DE BUENOS AIRES · 6 · 1882 · SEIS PESOS]",
+    "10-111-10 [?]                                              [sello: Folio 6]",
+    "Buenos Aires Julio 26 de 1882",
+    "Al Señor Jefe del Departamen-",
+    "to de Ingenieros",
+    "Comunico á V. la reso-",
+    "lucion recaida en los seguidos por",
+    "Don Meliton Rodriguez sobre mensura.",
+    "\"Buenos Aires Junio 23 de 1882 — Vistos:",
+    "\"De conformidad con lo dictaminado",
+    "\"por el Departamento de Ingenieros",
+    "\"y habiendose observado todas las for-",
+    "\"malidades que prescribe el Código de",
+    "\"Procedimientos, apruébase en cuanto",
+    "\"hubiere lugar la mensura practicada",
+    "\"por el Agrimensor Meyrelles para Don",
+    "\"Meliton Rodriguez en San Andrés de Gi-",
+    "\"les, cuya diligencia corre de fojas tres [?]"
+   ],
+   "interpretacion": "OFICIO del juzgado al Jefe del Departamento de Ingenieros, en papel sellado de SEIS PESOS de 1882 (n.º 154816), Buenos Aires 26/7/1882. Transcribe la resolución del 23/6/1882: de conformidad con el dictamen técnico y «observadas todas las formalidades que prescribe el Código de Procedimientos», se APRUEBA en cuanto hubiere lugar la mensura de Meyrelles para Melitón Rodríguez…"
+  },
+  {
+   "titulo": "Folio 6 vuelta: …(fojas 3) a 16, interponiendo el juzgado su autoridad; hágase saber al Departamento por oficio y, previo pago de costas y reposición de sellos, entréguese el expediente al interesado; firma el juez [A.] Heredia [?] ante el secretario Estanislao López; entrada en el Departamento de Ingenieros 24/8/1882; «agréguese al duplicado correspondiente» (1/9/1882, Coquet)",
+   "img": "img/f/121/17.jpg",
+   "fuente": "IMG_9851, página izquierda",
+   "nota": "",
+   "lineas": [
+    "\"á diez y seis, interponiendo el Juzgado",
+    "\"al efecto, la autoridad que ejerce. En",
+    "\"consecuencia, hagasé saber esta resolu-",
+    "\"cion por oficio al mencionado Departa-",
+    "\"mento y previo pago de costas y repo-",
+    "\"sicion de sellos, entreguesé el expedien-",
+    "\"te al interesado — Aditardo [?] Heredia —",
+    "\"Ante mí — Estanislao Lopez\".",
+    "Dios guarde á V.",
+    "Aditardo [?] Heredia [rúbrica]",
+    "Ante mi",
+    "Estanislao Lopez [rúbrica]",
+    "[sello oval: DEPARTAMENTO DE INGENIEROS · Entradas · 24 AGO 1882 · DE LA PROVINCIA]",
+    "Setiembre 1.^{o}/82",
+    "Agréguese al duplicado cor-",
+    "respondiente.",
+    "Coquet [rúbrica]"
+   ],
+   "interpretacion": "…interponiendo el juzgado su autoridad; se manda comunicarlo al Departamento y entregar el expediente al interesado previo pago de costas y reposición de sellos. Firman el juez HEREDIA [?] y el secretario ESTANISLAO LÓPEZ. Entrada en el Departamento 24/8/1882 y orden de COQUET (1/9/1882): «agréguese al duplicado correspondiente». El circuito completo dura 15 meses desde la designación del agrimensor hasta la aprobación."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano original de Meyrelles (mayo de 1882)",
+   "img": "img/f/121/03.jpg",
+   "fuente": "IMG_9852.JPG (f. 7, papel entelado plegado; detalles 9853-9856)",
+   "orientacion": "Flecha de norte con la variación 11° 25′ arriba a la izquierda; escala gráfica de 3000 m; firma «Partido de San Andrés de Giles, Mayo 1882 — Federico C. de Meyrelles».",
+   "interpretacion": "Faja de Melitón Rodríguez en carmín (A-B-D-C), con los Garibotti y la línea de Isidro Cucullu (mojones «f» de fierro) al NE y Wilhelm Bertram al SO. Aguas en azul: arroyo del Sauce junto a A-C (mojón «palo» y «fierro»), Cañada de la Cruz con un brazo paralelo y Cañada de los Canos. Camino de San Antonio de Areco a Luján en diagonal; la pulpería de Garibotti con su quinta (cuadro con árboles); poblaciones de M.ª Maldonado, Juan Rodríguez (puesto), N. Garibotti, Doroteo Cufré y el puesto de Severo Sosa. En el ángulo SE, «Ferro-Carril de Arrecifes á Luján» con el Telégrafo, cortando el costado B-D. A lápiz azul: «dup.º 160».",
+   "referencias": [
+    [
+     "A-B",
+     "S 30° 53′ E · 6618,20 m · contra W. Bertram (ex Ormaechea)"
+    ],
+    [
+     "A-C",
+     "N 56° 14′ E · 283,98 m · sobre la línea de frente Maldonado–Cucullu; arroyo del Sauce a 186-248 m"
+    ],
+    [
+     "C-D",
+     "S 30° 53′ E · 6627,55 m · contra Nicolás Garibotti"
+    ],
+    [
+     "D-B",
+     "S 58° 7′ O · 283,66 m · contra Sinforiano Rodríguez"
+    ],
+    [
+     "x-y",
+     "N 59° 7′ E · 346,05 m (230,70 Antonio + 115,35 Nicolás Garibotti) · 283,62 m Melitón Rodríguez"
+    ],
+    [
+     "f",
+     "Mojones de fierro de la línea de Isidro Cucullu"
+    ],
+    [
+     "Pulpería",
+     "Población y quinta de Antonio Garibotti (3744 m de A)"
+    ],
+    [
+     "Camino",
+     "San Antonio de Areco a Luján (cruza A-B a 3205 m)"
+    ],
+    [
+     "Cañadas",
+     "de la Cruz (5075-5096 m) y de los Canos (6087-6213 m)"
+    ],
+    [
+     "Ferrocarril",
+     "«Ferro-Carril de Arrecifes á Luján» + Telégrafo, junto a B"
+    ],
+    [
+     "Superficie",
+     "187 ha 83 a 80 ca"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: cabecera A-C, arroyo del Sauce y Garibotti",
+   "img": "img/f/121/04.jpg",
+   "fuente": "IMG_9853.JPG",
+   "orientacion": "",
+   "interpretacion": "Mojones A y C sobre la línea Maldonado–Cucullu, el arroyo del Sauce serpenteando entre ambos, rumbo N 56° 14′ E y la oblicua (¿línea de Vivar?) que corta la faja cerca de la cabecera.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: Cañada de la Cruz, Cañada de los Canos y ferrocarril",
+   "img": "img/f/121/05.jpg",
+   "fuente": "IMG_9855.JPG",
+   "orientacion": "",
+   "interpretacion": "Tramo SE de la faja con las dos cañadas, el camino de Areco a Luján y el Ferro-Carril de Arrecifes á Luján; lápiz «dup. 160».",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia heliográfica de la Dirección de Geodesia (1938)",
+   "img": "img/f/121/06.jpg",
+   "fuente": "IMG_9857.JPG (detalle 9858)",
+   "orientacion": "",
+   "interpretacion": "«Es copia del plano agregado al duplicado N.º 121 del partido de San Andrés de Giles, mensura practicada en Mayo de 1882 por el Agrimensor Federico C. de Meyrelles. La Plata Octubre de 1938». Sello M.O.P. – Geodesia y Catastro; dib. José M. Bruno [?], rev. J. S. Chiappino [?]. Más legible que el original para los rótulos.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Ubicación: es la faja de affre (ficha 042)",
+   "texto": "Pablo Affre → Lorenzo M. Torres (1870) → Melitón Rodríguez (1878): es la faja de 281,5 m de Affre que la Ficha 042 situaba entre Micaela Castro (007) y Ormaechea (036); aquí mide 283,6 m (327½ v) y los linderos son los mismos «hoy» renovados: Castro → Garibotti al NE, Ormaechea → Bertram al SO. El lápiz de la portadilla («véase dup. 160 y 42») lo confirma. Rumbo S 30° 53′ E = el de las fajas del Sauce de Muñiz (049-051, 073: S 30° 54′) y la cuadrícula ≈ 31° de las mercedes antiguas. La cabecera NO está sobre el ARROYO DEL SAUCE, contra la línea de frente de Maldonado (009) y Cucullu, y la faja cruza la CAÑADA DE LA CRUZ a ≈ 5 km (en 073 a ≈ 6,3-6,5 km)."
+  },
+  {
+   "titulo": "Paisaje 1882",
+   "texto": "Transecta de casi 7 km con puesto de material y rancho de barro (Juan Rodríguez), una PULPERÍA con quinta de ≈ 220 m (Antonio Garibotti), el camino de San Antonio de Areco a Luján, tres cañadas con anchos medidos (cañadita 4 m, Cruz 19-21 m, Canos 126 m), el arroyo del Sauce con barranca y cauce, la «casa y extensa quinta» de los Ormaechea, y el FERROCARRIL DE ARRECIFES A LUJÁN con su telégrafo en el extremo SE: el paisaje mezcla el criollo (rancho, puesto, pulpería) con la infraestructura moderna recién llegada."
+  },
+  {
+   "titulo": "Ritual y técnica",
+   "texto": "Sin mojón propio de arranque: se toma prestada la línea de mojones de fierro de Cucullu y la de ñandubay y fierro de Maldonado–Cucullu. Mojones nuevos de ñandubay cada 1000 m. Abalizamiento por RUMBOS a 12 poblaciones desde los 4 vértices (17 visuales). Rumbos verdaderos derivados del frente de Lorenzo M. Torres; variación 11° 25′ NE. Superficie triple: hectáreas, cuadras de 150 v y millonésimos de legua cuadrada."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "El título se redacta ya en metros con su equivalencia en varas (1878). El agrimensor corrige un error de escritura (Anchorena por Ormaechea) apelando a la memoria local. La nota de 1929 (posesión treintañal de la sucesión de Juan Clímaco Rodríguez) muestra que el dominio se regularizó por prescripción medio siglo después: ¿Juan Clímaco era hijo de Melitón? ¿El «Juan Rodríguez» del puesto de material?"
+  },
+  {
+   "titulo": "Circuito administrativo",
+   "texto": "Poder 4/2/1881 → nombramiento 10-11/2/1881 → mensura 18/5/1882 → firma 6/6/1882 → entrada al Departamento 9/6 → dictamen 16/6 (Coquet [?], Lagos, Benoit) → auto de aprobación 23/6 → oficio 26/7 → entrada 24/8 → «agréguese» 1/9/1882. Mismo plantel del Departamento que en 118-120."
+  },
+  {
+   "titulo": "Lecturas dudosas",
+   "texto": "«Cañada de los Canos [?]» (texto «de las Canos»; el plano dice «de los Canos»; por los vecinos Cano, puede ser «de los Cano»); «Miguel Dowley [?]»; «Jorge Coquet [?]»; «Aditardo [?] Heredia» (juez); «Ernesto Rossi [?]» (1929); «10-111-10 [?]»; el rumbo de B a Francisco Cano sin grados."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Qué es la oblicua sin rótulo que corta la cabecera A-C en el plano (¿línea Suero–Vivar?, que 042 ponía 270 m al NO del arroyo del Sauce)? ¿Qué contiene el dup. 160 citado a lápiz? Ubicar en GIS el cruce del ferrocarril con el costado B-D (ancla ferroviaria, cf. 087)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Melitón Rodríguez",
+   "rol": "Propietario",
+   "texto": "Vecino de Giles; compra la faja en 1878 y la mide en 1882. La Ficha 083 ubica la «casa de Melitón Rodríguez» en las fajas de los herederos de Bernardino Rodríguez (margen E del arroyo de Giles). Sin otros datos.",
+   "fuentes": "Dup. 121, 083."
+  },
+  {
+   "nombre": "Federico C. de Meyrelles",
+   "rol": "Agrimensor",
+   "texto": "Autor de la red de 043-044 (1867) con mojones de fierro y visuales a torres y casas; aquí, quince años después, repite el método de abalizar con rumbos a poblaciones. Firma en Buenos Aires. La búsqueda web breve no dio datos biográficos.",
+   "fuentes": "Dup. 043, 044, 121."
+  },
+  {
+   "nombre": "Lorenzo Manuel Torres · Pablo Affre",
+   "rol": "Antecesores",
+   "texto": "Affre poseía la faja en 1865-70 (042); Torres, dueño de Santa Elena (044), la compró en 1870 y la vendió en 1878.",
+   "fuentes": "Dup. 042, 044, 121."
+  },
+  {
+   "nombre": "Antonio y Nicolás Garibotti",
+   "rol": "Linderos ne",
+   "texto": "Sucesores de Juan Castro; Antonio tiene pulpería y quinta sobre la faja vecina; Nicolás una población cerca de D. Apellido ligur, inmigración italiana de los años 1870.",
+   "fuentes": "Dup. 121."
+  },
+  {
+   "nombre": "Wilhelm Bertram · herederos de Juan y Santiago Ormaechea",
+   "rol": "Lindero so",
+   "texto": "Bertram sucede a los Ormaechea (036, 042), «de los más antiguos y conocidos vecinos»; su casa y quinta subsisten en 1882.",
+   "fuentes": "Dup. 036, 042, 121."
+  },
+  {
+   "nombre": "María Maldonado · Sinforiano Rodríguez · Isidro Cucullu",
+   "rol": "Linderos",
+   "texto": "María, hija de Francisco Maldonado (009); Sinforiano sucede a Miguel López al SE; Cucullu (033) tiene la línea de mojones de fierro.",
+   "fuentes": "Dup. 009, 033, 121."
+  },
+  {
+   "nombre": "Juan Rodríguez · Raimundo Ávalos · Francisco, Tránsito Cano · Federico Quevedo · Doroteo Cufré · Miguel Dowley [?] · Francisco Blanco · Severo Sosa",
+   "rol": "Vecinos visados",
+   "texto": "Pobladores y puesteros del Sauce y la Cruz en 1882. Los Cano y Quevedo ya figuran en las fajas del Sauce (049-051, 073); Cufré en 043.",
+   "fuentes": "Dup. 121."
+  },
+  {
+   "nombre": "Alberto Diana · Fernando del Río · Vicente Artola",
+   "rol": "Apoderado y escribanos",
+   "texto": "Diana pide la mensura; Del Río es escribano del pueblo de Giles (1881); Artola escribano de las ventas de 1870 y 1878.",
+   "fuentes": "Dup. 121."
+  },
+  {
+   "nombre": "Miguel L. Noguera · Heredia [?] · Estanislao López",
+   "rol": "Justicia civil",
+   "texto": "Noguera comisiona (1881); el auto de 1882 lo firma Heredia [?] ante el secretario López.",
+   "fuentes": "Dup. 121."
+  },
+  {
+   "nombre": "Jorge Coquet [?] · José Antonio Lagos · Pedro Benoit",
+   "rol": "Departamento de ingenieros",
+   "texto": "Dictamen del 16/6/1882; Pedro Benoit es el ingeniero-arquitecto (1836-1897) que trazará La Plata ese mismo año.",
+   "fuentes": "Dup. 118-121."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/121/02.jpg",
+  "fuente": "IMG_9844.JPG (girada 90°)",
+  "lineas": [
+   "San Andres",
+   "de Giles N.^{o} 121    1882.",
+   "Duplicado.",
+   "Mensura del terreno perteneciente á",
+   "D. Meliton Rodriguez —",
+   "Partido de San Andrés de Giles.",
+   "Agrimensor — Meyrelles.",
+   "9-74-365 [lápiz, con llave]",
+   "Véase dup.^{s} n.^{o} 160 y 42 [lápiz]"
+  ]
+ },
+ "titulo": "Melitón Rodríguez",
+ "estado": "Transcripta (11 hojas, 264 renglones), 4 láminas"
+}

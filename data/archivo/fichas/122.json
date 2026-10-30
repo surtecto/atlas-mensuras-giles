@@ -1,0 +1,679 @@
+{
+ "carpeta": "122",
+ "carpeta_nombre": "Carpeta 122",
+ "archivo": "Ficha 122 - Lorenzo M. Torres (1882).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (arroyo del Sauce, estancia «La Adelina»)",
+  "N.º de duplicado": "122",
+  "Propietario / solicitante": "Lorenzo Manuel Torres",
+  "Agrimensor": "José María Muñiz",
+  "Año": "1882",
+  "Fecha de la diligencia": "Comisión 21/4/1882; mensura 19/5/1882; aprobación 12/7/1882",
+  "Ubicación": "Dos fracciones entre Cunningham y el arroyo del Sauce; red de Santa Elena (044)",
+  "Orden judicial": "Juez de 1.ª Inst. en lo Civil Dr. Aditardo [?] Heredia (auto 21/4/1882)",
+  "Vendedor / antecesor": "Sosa → Catalina Ryan → Ricardo Torres (1865) → L. M. Torres (1868); lonja Sosa → Cucullu (1868)",
+  "Linderos citados": "Cunningham (NE) · E. Rodríguez, P. Quevedo, M. Duarte de Rodríguez (SE) · S. Fuentes · C. Mc Dermott",
+  "Medidas": "DEF¹FG 1299 × 4353-4107 m = 366,31 ha; BCHJ 216,5 × 4045-3983 m = 86,92 ha",
+  "Rumbos": "S 46° 59′ E · N 43° 1′ E · S 58° 53′ O; rumbos verdaderos; variación 10° 51′ NE",
+  "Referencia de archivo": "Dup. 122; copia heliográfica La Plata 1938"
+ },
+ "metricas": {
+  "superficie_ha": "453,23",
+  "hitos": "Mojones de fierro y ñandubay; estancia La Adelina y su ombú; puestos Santa María, Santa Rosalía, Santa Clara; Estación Azcuénaga",
+  "aguas": "Arroyo del Sauce"
+ },
+ "sintesis": "Duplicado completo (títulos, diligencia, superficies, abalizamientos, dictamen y aprobación) con plano en color y copia de 1938. En mayo de 1882 José M.ª Muñiz mide dos fracciones de Lorenzo M. Torres, separadas por la faja de Segundo Fuentes, sobre la red de mojones de Santa Elena (Meyrelles 1867, Ficha 044: mismos rumbos S 46° 59′ E y S 58° 53′ O). La grande (366 ha, ex Ryan/Mc Dermott, con la estancia «La Adelina») y la lonja (87 ha, derechos de los Sosa comprados a Simón Cucullu) llegan al arroyo del Sauce sobre la línea de Vivar. Las cruza el Ferrocarril de Arrecifes a Luján y desde B se visa la Estación Azcuénaga.",
+ "caratula": {
+  "img": "img/f/122/01.jpg",
+  "fuente": "IMG_9859.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "122"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Lorenzo Manuel Torres"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "José María Muñiz"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1882"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: extracto de títulos: Ricardo Torres vende a Lorenzo M. Torres (23/4/1868) un terreno de pastoreo de 1000 v de frente al N por 5000 de fondo al S (866 × 4330 m), entre la testamentaría de Juan Ryan (frente), el arroyo del Sauce (fondo), la testamentaría de Hermenegildo de la Riestra hoy Juan Cunningham (E) y los herederos de Santiago Sosa (O); antes de Catalina Ryan (1865, escribano Mariano Cabral) y de Juan José Sosa, por sí y por su madre Petronila Monsalvo de Sosa y sus hermanos (sucesión de Enrique Sosa)",
+   "img": "img/f/122/07.jpg",
+   "fuente": "IMG_9861 (girada 90°)",
+   "nota": "Letra inglesa grande del copista (la misma mano que el duplicado 121 de Meyrelles, mismo mes); sello «Folio 1» a «Folio 7». Tomas 9862-9866 de doble página; 9867-9868 son el oficio judicial cosido al final.",
+   "lineas": [
+    "Extracto de Titulos                         [sello: Folio 1]",
+    "de los terrenos pertenecientes á D. Lorenzo Manuel Torres.",
+    "Partido de Giles.",
+    "1868. Abril 23. Ricardo Torres otorga escritura de",
+    "venta á favor de Lorenzo M. Torres, de un terreno",
+    "de pastoreo ubicado en el Partido de Giles y compues-",
+    "to de mil varas de frente al Norte y cinco mil",
+    "de fondo al Sud, ó sean ochocientos sesenta y seis",
+    "metros por cuatro mil trescientos treinta metros;",
+    "lindando p^{r} el frente con la test.^{a} de D. Juan",
+    "Ryan, (1.^{er} esposo de D.^{a} Catalina Mc Dermott) por",
+    "el fondo con el Arroyo del Sauce, por el Este",
+    "con la test.^{a} de Hermenegildo de la Riestra,",
+    "(hoy Juan Cunningham) y p^{r} el Oeste con",
+    "los herederos de Santiago Sosa; el cual le",
+    "corresponde p^{r} compra q^{e} hizo á Catalina",
+    "Ryan, con la venia de su esposo D. Tomás",
+    "Mc Dermott, el quince de Marzo de mil",
+    "ochocientos sesenta y cinco, segun la escritura",
+    "q^{e} le otorgó ante el Escribano Mariano Cabral.",
+    "Este terreno lo hubo D.^{a} Catalina, por compra",
+    "q^{e} hizo á D. Juan José Sosa, quien otorgó la es-",
+    "critura p^{r} sí y á nombre de su S.^{ra} madre",
+    "D.^{a} Petronila Monsalvo de Sosa y de sus herma-",
+    "nos Pascual Baylon Sosa y Petrona Advincu-",
+    "la Sosa, viuda é hijos del intestado Enrique",
+    "Sosa, segun poder q^{e} le confirieron en San",
+    "[al margen izq., vertical:] Escribano — Enrique Quintana."
+   ],
+   "interpretacion": "EXTRACTO DE TÍTULOS. 23/4/1868: RICARDO TORRES vende a LORENZO M. TORRES un «terreno de pastoreo» de 1000 v de frente al N por 5000 de fondo al S (866 × 4330 m). Linderos: frente, testamentaría de JUAN RYAN (primer esposo de CATALINA, hoy casada con TOMÁS Mc DERMOTT); fondo, el ARROYO DEL SAUCE; E, testamentaría de HERMENEGILDO DE LA RIESTRA «hoy» JUAN CUNNINGHAM; O, herederos de SANTIAGO SOSA. Cadena: Ricardo Torres lo compró a Catalina Ryan (con venia de su esposo Mc Dermott) el 15/3/1865 ante MARIANO CABRAL; ella a JUAN JOSÉ SOSA, que otorgó por sí y por su madre PETRONILA MONSALVO DE SOSA y sus hermanos PASCUAL BAYLÓN y PETRONA ADVÍNCULA SOSA, viuda e hijos del intestado ENRIQUE SOSA. Al margen: escribano Enrique Quintana."
+  },
+  {
+   "titulo": "Folio 1 vuelta: (poder de los Sosa) San Andrés de Giles, 14/12/1853, ante el juez de paz; escritura del 17/7/1860 (escribano Mariano Cabral); 12/12/1868, ante el escribano Bernabé Demaría (registro hoy de José A. Castillo): Simón Cucullu vende a Lorenzo M. Torres los derechos de Pascual Baylón Sosa en la herencia de Enrique Sosa (documento privado de 26/9/1865): una lonja de 216,50 m de frente por 4330 m de fondo lindera a Torres; DILIGENCIA: Giles, 19…",
+   "img": "img/f/122/08.jpg",
+   "fuente": "IMG_9862, página izquierda",
+   "nota": "",
+   "lineas": [
+    "[San] Andrés de Giles á 14 de Diciembre 1853,",
+    "ante el Juez de Paz.",
+    "La escritura tiene f.^{ha} 17 de Julio 1860 —",
+    "Escrib.^{no} Mariano Cabral —",
+    "1868. Diciembre 12. Ante el Escribano Ber-",
+    "nabé Demaria, (cuyo registro está hoy á cargo de",
+    "D. José A. Castillo) D. Simon Cucullu, vecino",
+    "del Partido de San Andrés de Giles, vende, cede",
+    "y traspasa á favor de D. Lorenzo M. Torres,",
+    "todas las acciones y derechos q^{e} corresponderian",
+    "á D. Pascual Baylon Sosa, en la herencia",
+    "de su padre D. Enrique Sosa y que",
+    "él vendedor, adquirió p^{r} compra q^{e} hizo á d^{ho}",
+    "Sosa, segun consta del documento particular",
+    "q^{e} le otorgó el 26 de Setiembre 1865, ante",
+    "los testigos D. Felipe San Ginetti [?], D. Bruno",
+    "Lacoure [?] y D. Vicente Cutillas [?]; declarando",
+    "que los principales bienes consisten en una",
+    "lonja de campo de doscientos diez y seis",
+    "metros, cincuenta centimetros de frente, por",
+    "cuatro mil trescientos treinta metros de fondo,",
+    "ubicado en el Partido de Giles y lindero al",
+    "comprador D. Lorenzo M. Torres —",
+    "Diligencia de Mensura.",
+    "En el Partido de Giles, á los diez y nueve"
+   ],
+   "interpretacion": "…poder otorgado en Giles el 14/12/1853 ante el juez de paz; escritura del 17/7/1860 (Cabral). 12/12/1868, ante BERNABÉ DEMARÍA (registro luego de JOSÉ A. CASTILLO): SIMÓN CUCULLU vende a Torres los DERECHOS HEREDITARIOS de Pascual Baylón Sosa en la sucesión de su padre Enrique, que había comprado por DOCUMENTO PRIVADO (26/9/1865, testigos Felipe San Ginetti [?], Bruno Lacoure [?], Vicente Cutillas [?]): el bien principal es una LONJA de 216,50 m × 4330 m (250 × 5000 v) lindera al comprador. Se ve cómo una sucesión criolla se desgrana en derechos y acciones vendidos a vecinos más capitalizados. Comienza la DILIGENCIA."
+  },
+  {
+   "titulo": "Folio 2: …de mayo de 1882, comisionado por el juez civil Dr. Aditardo [?] Heredia (auto 21/4/1882); edictos en «El Ciudadano» y «El Nacional» y circular; arranca en el mojón de fierro A, esquinero de otro terreno de Torres y de Catalina Mc Dermott; A-J S 46° 59′ E 6704,79 m hasta el mojón de fierro J (esquinero Torres, costanero de Mauricia Duarte de Rodríguez); mojones de ñandubay a 1000, 3000, 5000 y 6000 m y de fierro a 2000 m; cruza el camino de Giles a la Capilla del Señor a 2910 m; señal a 2721 m…",
+   "img": "img/f/122/09.jpg",
+   "fuente": "IMG_9862, página derecha",
+   "nota": "",
+   "lineas": [
+    "días del mes de Mayo del corriente año        [sello: Folio 2]",
+    "de mil ochocientos ochenta y dos, hallando-",
+    "me comisionado p^{r} el S^{or} Juez de 1.^{a} Inst.^{a} en",
+    "lo Civil D.^{r} D. Aditardo [?] Heredia, p^{r} auto",
+    "de veinte y uno de Abril del mismo año,",
+    "para medir los terrenos pertenecientes á D.",
+    "Lorenzo M. Torres; yo el Agrimensor publico",
+    "que suscribe, previos los Edictos publicados",
+    "en los Periodicos \"El Ciudadano\" y \"El Nacional\",",
+    "y citados en sus domicilios todos los linderos,",
+    "como lo demuestran los diarios y la",
+    "Circular q^{e} acompaño, di principio á la",
+    "mensura, situandome en un mojon de",
+    "fierro A esquinero de otro terreno de Torres",
+    "y de Catalina Mc Dermott, desde el",
+    "cual, enfilada la linea p^{r} los mojones exis-",
+    "tentes, medí (6704,79^{m}) seismil setecientos",
+    "cuatro metros setenta y nueve centimetros",
+    "al Sud cuarenta y seis grados cincuenta",
+    "y nueve minutos Este, hasta otro mojon",
+    "de fierro J esquinero de Torres y costanero",
+    "de Mauricia Duartes de Rodriguez —",
+    "En esta linea, encontré mojones de ñandubay",
+    "á los mil, tres mil, cinco mil y seis mil",
+    "metros, y de fierro á los dos mil y cuatro",
+    "mil metros — y crucé el Camino de Giles",
+    "á la Capilla del Señor, á los dos mil nove-",
+    "cientos diez metros; habiendo dejado una señal",
+    "á los dos mil (2721^{m}) setecientos veinte y un"
+   ],
+   "interpretacion": "Mayo de 1882 (día 19); comisión del juez civil ADITARDO [?] HEREDIA (21/4/1882); edictos en EL CIUDADANO y EL NACIONAL y circular. Arranca en el MOJÓN DE FIERRO A (esquinero de otro terreno de Torres y de Catalina Mc Dermott) y, enfilando los mojones existentes, mide A-J S 46° 59′ E 6704,79 m hasta el mojón de fierro J (contra Mauricia Duarte de Rodríguez). Encuentra mojones viejos de ñandubay (1000, 3000, 5000, 6000 m) y de fierro (2000, 4000): es la línea de Meyrelles de 1867 (Ficha 044, mismo rumbo S 46° 59′ E). Cruza el CAMINO DE GILES A LA CAPILLA DEL SEÑOR a 2910 m y deja una señal a 2721 m…"
+  },
+  {
+   "titulo": "Folio 2 vuelta: …la señal a 2721 m es el fondo que corresponde a Catalina: mojón de ñandubay B (esquinero de Catalina, del terreno comprado a Cucullu y costanero de otro de Torres); B-F¹ N 43° 1′ E 1299 m hasta la línea de mojones del campo de Cunningham puestos por el agrimensor Pedro U. [?] Díaz: mojón de ñandubay F¹; mojones C y D a 216,5 y 433 m (esquineros Torres–Segundo Fuentes); cruza el Ferrocarril de Arrecifes a Luján a 781 m; desde F¹, S 46° 59′ E 4353 m…",
+   "img": "img/f/122/10.jpg",
+   "fuente": "IMG_9863, página izquierda",
+   "nota": "",
+   "lineas": [
+    "metros, que es el fondo q^{e} corresponde",
+    "á D.^{a} Catalina. En esta señal, hice",
+    "colocar un mojon de ñandubay B, como es-",
+    "quinero de D.^{a} Catalina, esquinero tambien",
+    "del terreno q^{e} compró Torres á Cucullu y",
+    "costanero de otro terreno de Torres —",
+    "Desde este mojon, cuadré al Norte cuarenta",
+    "y tres grados un minuto Este y medí mil",
+    "(1299^{m}) doscientos noventa y nueve metros,",
+    "hasta encontrarme con la linea de mojones",
+    "del Campo de Cunningham, colocados",
+    "por el Agrimensor Pedro U. [?] Diaz, en cuya",
+    "interseccion se puso un mojon de ñan-",
+    "dubay F^{1} como esquinero de Torres y",
+    "Catalina, costanero de Juan Cunningham.",
+    "Al medir esta linea BF^{1}, á los dos-",
+    "cientos diez y seis y medio metros — y",
+    "cuatrocientos treinta y tres metros, se",
+    "clavaron los mojones de ñandubay C y",
+    "D, esquineros de Torres y Segundo Fuentes,",
+    "costaneros de Catalina; á los setecientos",
+    "ochenta y un metros crucé el Ferro Carril",
+    "de Arrecifes á Luján —",
+    "En el mojon F^{1} cuadré al Sud cuarenta",
+    "y seis grados cincuenta y nueve minutos",
+    "Este y medí cuatro mil (4353^{m})",
+    "trescientos cincuenta y tres metros hasta"
+   ],
+   "interpretacion": "…que es el fondo de Catalina: mojón de ñandubay B. Desde B, N 43° 1′ E 1299 m (1500 v) hasta la línea de mojones del campo de CUNNINGHAM puestos por el agrimensor PEDRO U. [?] DÍAZ: mojón F¹. En el camino pone C (216,5 m) y D (433 m), esquineros con SEGUNDO FUENTES, y cruza el FERROCARRIL DE ARRECIFES A LUJÁN a 781 m. Desde F¹, S 46° 59′ E 4353 m…"
+  },
+  {
+   "titulo": "Folio 3: …hasta la línea de los campos de Enrique Rodríguez, Pablo Quevedo y Mauricia Duarte de Rodríguez: mojón de ñandubay F (esquinero Torres–Cunningham, costanero de Enrique Rodríguez); en F¹-F mojones de ñandubay a 476,5 · 1605 · 2496 · 2903 · 3384 · 4284 m; camino de Giles a la Capilla del Señor a 706 m; con banderas en los mojones de Rodríguez, Quevedo, etc., F-J S 58° 53′ O 1350,45 m hasta el mojón de fierro J; esquinero G de Quevedo, Torres y Segundo Fuentes a 900,30 m; a 1125,30 m…",
+   "img": "img/f/122/11.jpg",
+   "fuente": "IMG_9863, página derecha",
+   "nota": "",
+   "lineas": [
+    "la linea de los campos de Enrique Rodriguez,      [sello: Folio 3]",
+    "Pablo Quevedo y Mauricia Duartes de",
+    "Rodriguez, en cuya interseccion se puso",
+    "un mojon de ñandubay F como esquinero",
+    "de Torres y Cunningham, costanero de",
+    "Enrique Rodriguez — En la linea F^{1}F",
+    "encontré mojones de ñandubay, á los cua-",
+    "trocientos setenta y seis metros cinco deci-",
+    "metros — mil seiscientos cinco — dos mil",
+    "cuatrocientos noventa y seis — dos mil",
+    "novecientos tres — tresmil trescientos ochenta",
+    "y cuatro y cuatro mil doscientos ochenta",
+    "metros; á los setecientos seis metros, crucé",
+    "el Camino de Giles á la Capilla del",
+    "Señor — Colocadas banderas en los",
+    "mojones de Rodriguez, Quevedo, &c., tomé",
+    "el rumbo Sud cincuenta y ocho grados",
+    "cincuenta y tres minutos Oeste, y",
+    "deslindando con estos, medí mil (1350,45^{m})",
+    "trescientos cincuenta metros cuarenta y",
+    "cinco centimetros hasta el mojon de",
+    "fierro J. A los novecientos metros treinta",
+    "centimetros encontré el esquinero G de",
+    "Quevedo, Torres y Segundo Fuentes; á los",
+    "mil ciento veinte y cinco metros treinta"
+   ],
+   "interpretacion": "…hasta la línea de ENRIQUE RODRÍGUEZ, PABLO QUEVEDO y MAURICIA DUARTE DE RODRÍGUEZ: mojón F. En F¹-F encuentra seis mojones de ñandubay viejos y cruza el camino de Giles a la Capilla a 706 m. Con BANDERAS en los mojones de los vecinos sigue la línea S 58° 53′ O (= el fondo de la red de Meyrelles, «S 58° 53′ O» sobre la línea de Vivar en 044) 1350,45 m hasta J; G (esquinero Quevedo–Torres–Fuentes) a 900,30 m…"
+  },
+  {
+   "titulo": "Folio 3 vuelta: …y 17 cm (1125,47 m) mojón de ñandubay H (esquinero Segundo Fuentes–Torres, costanero de Mauricia Duarte de Rodríguez); en F-J cruza el Ferrocarril de Arrecifes a Luján a 607 m; desde C, S 46° 59′ E 4045,32 m hasta H; desde D, S 46° 59′ E 4106,86 m hasta G; mojones de ñandubay cada 1000 m; medidas y amojonadas las dos fracciones…",
+   "img": "img/f/122/12.jpg",
+   "fuente": "IMG_9864, página izquierda",
+   "nota": "",
+   "lineas": [
+    "y siete centimetros, mandé clavar",
+    "un mojon de ñandubay H, como es-",
+    "quinero de Segundo Fuentes y Torres,",
+    "costanero de Mauricia Duartes de",
+    "Rodriguez. En la linea FJ, crucé el",
+    "Ferro Carril de Arrecifes á Luján, á los",
+    "seiscientos siete metros —",
+    "Me dirigí en seguida al mojon C y",
+    "cuadrando al Sud cuarenta y seis grados",
+    "cincuenta y nueve minutos Este, medí",
+    "(4045,32^{m}) cuatro mil cuarenta y cinco",
+    "metros treinta y dos centimetros hasta",
+    "el mojon H, poniendo mojones de",
+    "ñandubay á cada mil metros —",
+    "Desde el mojon D hice la misma",
+    "operacion, contando en el mismo rumbo",
+    "Sud cuarenta y seis grados cincuenta",
+    "y nueve minutos Este, (4106,86^{m}) cuatro",
+    "mil ciento seis metros ochenta y seis",
+    "centimetros hasta el mojon esquinero",
+    "G, y poniendo tambien mojones de",
+    "ñandubay á cada mil metros —",
+    "Estando medidas y amojonadas las",
+    "dos fracciones de campo pertenecientes",
+    "á D. Lorenzo M. Torres, di por"
+   ],
+   "interpretacion": "…H (esquinero Fuentes–Torres) a 1125,47 m; el ferrocarril cruza F-J a 607 m. Luego C-H S 46° 59′ E 4045,32 m y D-G 4106,86 m, con mojones de ñandubay cada 1000 m. Quedan dos fracciones: la grande DEF¹FG (ex Ryan/Mc Dermott) y la lonja BCHJ (ex Sosa/Cucullu), separadas por la faja de Segundo Fuentes (C-D-G-H)."
+  },
+  {
+   "titulo": "Folio 4: mensura terminada; SUPERFICIE: fracción DEF¹FG (trapezoidal, comprada a Catalina Mc Dermott por el antecesor de Lorenzo) 366 ha 31 a 19 ca = 217,864 [?] cuadras de 150 v; fracción BCHJ (trapezoidal, comprada a Simón Cucullu) 86 ha 91 a 51 ca = 51,508 cuadras; LINDEROS de DEF¹FG: Juan Cunningham (NE), Enrique Rodríguez y Pablo Quevedo (SE)…",
+   "img": "img/f/122/13.jpg",
+   "fuente": "IMG_9864, página derecha",
+   "nota": "",
+   "lineas": [
+    "terminada la operacion de mensura.        [sello: Folio 4]",
+    "Superficie. La fraccion DEF^{1}FG de",
+    "figura trapezoidal, comprada á D.^{a} Cata-",
+    "lina Mc Dermott p^{r} el antecesor de",
+    "D. Lorenzo, contiene trescientas se-",
+    "senta y seis hectáreas, treinta y una",
+    "áreas, diez y nueve centiáreas, igual",
+    "á doscientas diez y siete cuadras",
+    "cuadradas y mas ochocientos sesenta",
+    "y cuatro diez [?] milesimos de otra cua-",
+    "drada, de ciento cincuenta varas",
+    "p^{r} lado —",
+    "La otra BCHJ tambien trapezoidal,",
+    "comprada á D. Simon Cucullu, cons-",
+    "ta de ochenta y seis hectáreas, noven-",
+    "ta y una áreas, cincuenta y una",
+    "centiáreas, equivalente á cincuenta",
+    "y una cuadras cuadradas y mas",
+    "quinientos ocho milesimos de otra",
+    "cuadrada, de ciento cincuenta varas",
+    "p^{r} lado —",
+    "Linda la fraccion DEF^{1}FG, por",
+    "el NordEste con Juan Cunningham,",
+    "por el SudEste con Enrique Rodriguez",
+    "y Pablo Quevedo, por el SudOeste"
+   ],
+   "interpretacion": "SUPERFICIES: DEF¹FG 366 ha 31 a 19 ca = 217,86 cuadras de 150 v; BCHJ 86 ha 91 a 51 ca = 51,508 cuadras. La grande linda con Cunningham (NE), E. Rodríguez y P. Quevedo (SE)…"
+  },
+  {
+   "titulo": "Folio 4 vuelta: …Segundo Fuentes (SO), Catalina Mc Dermott (NO); BCHJ linda con Segundo Fuentes (NE), Mauricia Duarte de Rodríguez (SE), otro terreno de Torres (SO) y Catalina Mc Dermott (NO); ABALIZAMIENTOS: mojón A: puesto Santa María S 38° 41′ E, puesto Santa Rosalía N 81° 57′ O, población de Segundo Fuentes S 52° 51′ E; mojón B: población de Catalina Mc Dermott N 10° 4′ O, ombú de «La Adelina» S 78° 47′ E, población de Segundo Fuentes S 70° 9′ E, ESTACIÓN AZCUÉNAGA N 31° 9′…",
+   "img": "img/f/122/14.jpg",
+   "fuente": "IMG_9865, página izquierda",
+   "nota": "",
+   "lineas": [
+    "con Segundo Fuentes, por el NordOeste",
+    "con Catalina Mc Dermott.",
+    "La otra fraccion BCHJ, linda",
+    "por el NordEste con Segundo Fuentes,",
+    "por el SudEste con Mauricia Duartes",
+    "de Rodriguez, por el SudOeste con otro",
+    "terreno de Torres, por el NordOeste",
+    "con Catalina Mc Dermott.",
+    "Avalizamientos.",
+    "Mojon A. Puesto Santa Maria, Sud",
+    "treinta y ocho grados cuarenta y un mi-",
+    "nutos Este. Puesto Santa Rosalia,",
+    "Norte ochenta y un grados cincuenta y",
+    "siete minutos Oeste. Poblacion de Segundo",
+    "Fuentes, Sud cincuenta y dos grados",
+    "cincuenta y un minutos Este —",
+    "Mojon B. Poblacion de Catalina Mc",
+    "Dermott, Norte diez grados cuatro minutos",
+    "Oeste. Ombú de \"La Adelina\", Sud",
+    "setenta y ocho grados cuarenta y siete",
+    "minutos Este. Poblacion de Segundo",
+    "Fuentes, Sud setenta grados nueve",
+    "minutos Este. Estacion Azcuenaga,",
+    "Norte treinta y un grados nueve mi-"
+   ],
+   "interpretacion": "…Segundo Fuentes (SO) y Catalina Mc Dermott (NO); la lonja con Fuentes (NE), Mauricia Duarte de Rodríguez (SE), otro terreno de Torres (SO) y Mc Dermott (NO). ABALIZAMIENTOS desde A y B: puestos SANTA MARÍA y SANTA ROSALÍA (nombres de puestos de estancia), población de Segundo Fuentes, población de Catalina Mc Dermott, el OMBÚ de «LA ADELINA» y la ESTACIÓN AZCUÉNAGA (N 31° 9′ O desde B): primera visual a una ESTACIÓN FERROVIARIA en el corpus."
+  },
+  {
+   "titulo": "Folio 5: abalizamientos (cont.): mojón C: puesto de Quevedo S 39° 39′ E, puesto de Remigio Rodríguez S 7° 9′ E, población de José Roights [?] S 17° 51′ O; mojón D: población de Catalina N 72° 29′ O, puesto Santa María S 65° 13′ O, puesto de Floro Bravo S 24° 4′ E, puesto de Pedro Cufré N 9° 9′ E; mojón E: estancia «La Adelina» S 30° 29′ E, población de Juan de Dios Monsalvo S 23° 49′ E, población de Catalina Mc Dermott S 61° 41′ O; mojón F: puesto de Mariana Lerdón [?] N 50° 3′ O, «La Adelina» N 55° 17′ O",
+   "img": "img/f/122/15.jpg",
+   "fuente": "IMG_9865, página derecha",
+   "nota": "",
+   "lineas": [
+    "nutos Oeste.                       [sello: Folio 5]",
+    "Mojon C. Puesto de Quevedo, Sud treinta",
+    "y nueve grados treinta y nueve minutos",
+    "Este. Puesto de Remigio Rodriguez, Sud",
+    "siete grados nueve minutos Este. Poblacion",
+    "de José Roights [?], Sud diez y siete grados",
+    "cincuenta y un minutos Oeste.",
+    "Mojon D. Poblacion de Catalina, Norte",
+    "setenta y dos grados veinte y nueve",
+    "minutos Oeste. Puesto Santa Maria,",
+    "Sud sesenta y cinco grados trece minutos",
+    "Oeste. Puesto de Floro Bravo, Sud veinte",
+    "y cuatro grados cuatro minutos Este. Pues-",
+    "to de Pedro Cufré, Norte nueve grados",
+    "nueve minutos Este.",
+    "Mojon E. Estancia \"La Adelina\", Sud",
+    "treinta grados veinte y nueve minutos",
+    "Este. Poblacion de Juan de Dios Monsal-",
+    "vo, Sud veinte y tres grados cuarenta",
+    "y nueve minutos Este. Poblacion",
+    "de Catalina Mc Dermott, Sud se-",
+    "senta y un grados cuarenta y un",
+    "minutos Oeste.",
+    "Mojon F. Puesto de Mariana Lerdón [?],",
+    "Norte cincuenta grados tres minutos",
+    "Oeste. \"La Adelina\", Norte cincuenta",
+    "y cinco grados diez y siete minutos Oeste."
+   ],
+   "interpretacion": "Desde C, D, E y F: puestos de QUEVEDO, REMIGIO RODRÍGUEZ, FLORO BRAVO y PEDRO CUFRÉ; poblaciones de JOSÉ ROIGHTS [?] y de JUAN DE DIOS MONSALVO; la ESTANCIA «LA ADELINA» (casco de Torres, dibujado en el plano dentro de la fracción grande) y el puesto de MARIANA LERDÓN [?]."
+  },
+  {
+   "titulo": "Folio 5 vuelta: abalizamientos (fin): población de Mauricia D. de Rodríguez S 61° 49′ O; mojón G: población de Ormaechea N 67° 10′ E, población de Raimundo Ávalos S 81° 37′ E, población de Fernando Umarán S 50° 42′ E; mojón H: puesto de Monsalvo N 42° 59′ O, «La Adelina» N 32° 42′ O, puesto de Mariana Lerdón [?] N 2° 17′ O; mojón J: población de José Belén [?] N 81° 26′ O, puesto «Santa Clara» N 50° 24′ O, puesto de Pablo Rodríguez S 69° 23′ E",
+   "img": "img/f/122/16.jpg",
+   "fuente": "IMG_9866, página izquierda",
+   "nota": "",
+   "lineas": [
+    "Poblacion de Mauricia D. de Rodriguez,",
+    "Sud sesenta y un grados cuarenta y",
+    "nueve minutos Oeste —",
+    "Mojon G. Pobl.^{n} de Ormaechea, Norte",
+    "sesenta y siete grados diez minutos Este.",
+    "Poblacion de Raimundo Avalos, Sud",
+    "ochenta y un grados treinta y siete",
+    "minutos Este. Poblacion de Fernando",
+    "Umarán, Sud cincuenta grados",
+    "cuarenta y dos minutos Este.",
+    "Mojon H. Puesto de Monsalvo, Norte",
+    "cuarenta y dos grados cincuenta y",
+    "nueve minutos Oeste. \"La Adelina\",",
+    "Norte treinta y dos grados cuarenta y",
+    "dos minutos Oeste. Puesto de Mariana",
+    "Lerdón [?], Norte dos grados diez y siete",
+    "minutos Oeste.",
+    "Mojon J. Poblacion de José Belen [?],",
+    "Norte ochenta y un grados veinte y",
+    "seis minutos Oeste. Puesto \"Santa",
+    "Clara\", Norte cincuenta grados veinte",
+    "y cuatro minutos Oeste. Puesto de",
+    "Pablo Rodriguez, Sud sesenta y nueve",
+    "grados veinte y tres minutos Este."
+   ],
+   "interpretacion": "Desde G, H, J: poblaciones de Mauricia D. de Rodríguez, ORMAECHEA, RAIMUNDO ÁVALOS (también visado desde 121), FERNANDO UMARÁN, JOSÉ BELÉN [?]; puestos de MONSALVO, «SANTA CLARA» y de PABLO RODRÍGUEZ. Ormaechea y Ávalos aparecen en las visuales de 121 (Meyrelles, mismo mes): las dos mensuras se cruzan y permiten triangular las poblaciones del Sauce."
+  },
+  {
+   "titulo": "Folio 6: circular y acta firmadas por todos los linderos; variación 10° 51′ NE; todos los rumbos verdaderos; Buenos Aires, 2/6/1882, firma José M.ª Muñiz; entrada al Departamento de Ingenieros 3/6/1882; dictamen (30/6/1882): mensura de las dos fracciones de Lorenzo M. Torres por el agrimensor José M.ª Muñiz, bien ejecutada, puede aprobarse judicialmente; sello del agrimensor repuesto por estampilla; firmas Jorge Coquet [?], E. Hernández [?] y Lagos",
+   "img": "img/f/122/17.jpg",
+   "fuente": "IMG_9866, página derecha",
+   "nota": "",
+   "lineas": [
+    "La Circular y el Acta q^{e} acompaño,       [sello: Folio 6]",
+    "van firmadas por todos los linderos —",
+    "La variacion de la aguja magnetica, es de diez",
+    "grados cincuenta y un minutos NordEste —",
+    "Todos los rumbos son verdaderos —",
+    "Buenos Aires, Junio 2/882.",
+    "José M.^{a} Muñiz [rúbrica]",
+    "[sello oval: DEPARTAMENTO DE INGENIEROS · Entradas · 3 JUN 1882 · DE LA PROVINCIA]",
+    "Señor Juez de 1.^{a} Instancia:",
+    "El Departamento de Ingenieros ha exami-",
+    "nado la precedente diligencia de mensura de",
+    "las dos fracciones de terreno pertenecientes á",
+    "Don Lorenzo M. Torres en el Partido de San Andrés",
+    "de Giles, practicada por el agrimensor Don José",
+    "M.^{a} Muñiz, y encontrándola bien ejecutada",
+    "cree que puede ser aprobada judicialmente —",
+    "El sello correspondiente al agrimensor ha sido",
+    "repuesto por una estampilla agregada al pie",
+    "de la diligencia de mensura —",
+    "Junio 30 de 1882",
+    "Jorge Coquet [?] [rúbrica]",
+    "E. Hernandez [?] [rúbrica]   Lagos [rúbrica]"
+   ],
+   "interpretacion": "Circular y acta firmadas por todos los linderos; VARIACIÓN 10° 51′ NE (Meyrelles da 11° 25′ en 121, el mismo mes); rumbos verdaderos. Firma JOSÉ M.ª MUÑIZ (Buenos Aires, 2/6/1882; entrada 3/6). DICTAMEN del 30/6/1882: bien ejecutada, puede aprobarse; sello repuesto con estampilla; Coquet [?], Hernández [?], Lagos."
+  },
+  {
+   "titulo": "Folio 7: oficio del juez Aditardo [?] Heredia al Presidente del Departamento de Ingenieros (B. A., 13/7/1882), sellado de 6 pesos 1882: comunica que con fecha de ayer ha prestado aprobación judicial a la mensura de José María Muñiz del campo de Lorenzo M. Torres, dividido en dos fracciones; linderos de la primera: Juan Cunningham (NE), Enrique Rodríguez y Pablo Quevedo (SE)…",
+   "img": "img/f/122/18.jpg",
+   "fuente": "IMG_9867, página derecha",
+   "nota": "",
+   "lineas": [
+    "13-111-102 [?]                    [sello fiscal: 153006 [?] · 6 · 1882]",
+    "B.^{s} A.^{s} Julio 13 [?] 1882",
+    "Al Señor Presidente del Departa-",
+    "mento de Ingenieros de la",
+    "Provincia.",
+    "Comunico á V. que con fecha",
+    "de ayer he prestado mi judicial apro-",
+    "bacion á la mensura practicada",
+    "por el Agrimensor público Don Jo-",
+    "sé Maria Muñiz de un campo",
+    "de propiedad de Don Lorenzo M. Tor-",
+    "res en el partido de San Andrés de",
+    "Giles; cuyo campo está dividido en dos",
+    "fracciones, lindando la primera, por",
+    "el Nord-Este con Don Juan Cunningham, por",
+    "el Sud Este con Enrique Rodriguez y Pablo"
+   ],
+   "interpretacion": "OFICIO del juez HEREDIA al Presidente del Departamento de Ingenieros (13/7/1882, sellado de 6 pesos): «con fecha de ayer» (12/7/1882) ha prestado APROBACIÓN JUDICIAL a la mensura de Muñiz del campo de Lorenzo M. Torres, «dividido en dos fracciones», y repite sus linderos…"
+  },
+  {
+   "titulo": "Folio 7 vuelta: …Segundo Fuentes (SO) y Catalina Mc Dermott (NO); la segunda: Segundo Fuentes (NE), Mauricia Duarte de Rodríguez (SE), otro terreno de Torres (SO) y Catalina Mc Dermott (NO); firma Aditardo [?] Heredia ante el secretario Rocamora [?]; entrada al Departamento 14/7/1882; «agréguese al duplicado correspondiente» (Coquet)",
+   "img": "img/f/122/19.jpg",
+   "fuente": "IMG_9868, página izquierda",
+   "nota": "",
+   "lineas": [
+    "Quevedo, por el Sud Oeste con Segundo Fuentes",
+    "y por el Nord Oeste con Catalina M.^{c} Der-",
+    "mott, y la segunda, por el Nord Este con",
+    "Segundo Fuentes, por el Sud Este con Mau-",
+    "ricia Duarte de Rodriguez, por el Sud",
+    "Oeste con otro terreno de Torres y por el Nord",
+    "Oeste con Catalina M.^{c} Dermott.",
+    "Dios gue á V.",
+    "Aditardo [?] Heredia [rúbrica]",
+    "Ante mí",
+    "[...] Rocamora [?] [rúbrica]",
+    "[sello oval: DEPARTAMENTO DE INGENIEROS · Entradas · 14 JUL 1882 · DE LA PROVINCIA]",
+    "Julio 14/82",
+    "Agréguese al duplicado correspondiente.",
+    "Coquet [rúbrica]"
+   ],
+   "interpretacion": "…Firma Heredia ante el secretario ROCAMORA [?]. Entrada al Departamento el 14/7/1882 y orden de COQUET: «agréguese al duplicado correspondiente». Circuito total: comisión 21/4 → mensura 19/5 → firma 2/6 → dictamen 30/6 → aprobación 12/7/1882: menos de tres meses."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano original de Muñiz (mayo de 1882)",
+   "img": "img/f/122/03.jpg",
+   "fuente": "IMG_9869.JPG (f. 8, papel plegado; detalles 9870-9872)",
+   "orientacion": "Flecha de norte inclinada a la izquierda; escala de metros con escala transversal; «Partido de Giles, Mayo 1882 — José M.ª Muñiz».",
+   "interpretacion": "Las dos fracciones de Lorenzo M. Torres en carmín: la grande D-E-F-G con la ESTANCIA «LA ADELINA» (símbolo de casco arbolado) y la lonja B-C-H-J, separadas por la faja de Segundo Fuentes (puesto de Fuentes, «Monsalvo», «Romero»). Al O, el triángulo A-B-F¹… de Catalina Mc Dermott (con su población) y más allá otro campo de Lorenzo M. Torres; al N Juan Cunningham; al E, más allá del ARROYO DEL SAUCE (dibujado en azul, que forma el costado F-G-H-J), Enrique Rodríguez, Pablo Quevedo y Mauricia D. de Rodríguez. FERROCARRIL «de Arrecifes á Luján» en trazos de E a O; una cañada o arroyito («Cañª del Sauce» [?]) y el camino «a Giles» cortan la cabecera. Puestos Santa María, Santa Rosalía, Santa Clara; P. B. Sosa, María Lerdón. A lápiz al margen: 46 59 / 58 53 / 105 52 (suma de rumbos).",
+   "referencias": [
+    [
+     "A-J",
+     "S 46° 59′ E · 6704,79 m (línea vieja de mojones de fierro y ñandubay); B a 2721 m"
+    ],
+    [
+     "B-F¹",
+     "N 43° 1′ E · 1299 m (C a 216,5; D a 433; ferrocarril a 781)"
+    ],
+    [
+     "F¹-F",
+     "S 46° 59′ E · 4353 m contra Cunningham"
+    ],
+    [
+     "F-J",
+     "S 58° 53′ O · 1350,45 m (G a 900,30; H a 1125,47); arroyo del Sauce"
+    ],
+    [
+     "D-G",
+     "S 46° 59′ E · 4106,86 m"
+    ],
+    [
+     "C-H",
+     "S 46° 59′ E · 4045,32 m"
+    ],
+    [
+     "B-J",
+     "3983,79 m (plano)"
+    ],
+    [
+     "DEF¹FG",
+     "366 ha 31 a 19 ca — Estancia «La Adelina»"
+    ],
+    [
+     "BCHJ",
+     "86 ha 91 a 51 ca"
+    ],
+    [
+     "Ferrocarril",
+     "de Arrecifes a Luján: cruza B-F¹ a 781 m y F-J a 607 m"
+    ],
+    [
+     "Visual notable",
+     "Estación Azcuénaga, N 31° 9′ O desde B"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: cabecera A-B-E y Catalina Mc Dermott",
+   "img": "img/f/122/04.jpg",
+   "fuente": "IMG_9870.JPG",
+   "orientacion": "",
+   "interpretacion": "Costado N 43° 1′ E 1299 m con C y D; población de Catalina, puestos Santa Rosalía y Santa María; cañada y ferrocarril.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: extremo E sobre el arroyo del Sauce",
+   "img": "img/f/122/05.jpg",
+   "fuente": "IMG_9872.JPG",
+   "orientacion": "",
+   "interpretacion": "Mojones F, G, H, J sobre la línea S 58° 53′ O en la barranca del arroyo del Sauce, con Enrique Rodríguez, Pablo Quevedo y Mauricia D. de Rodríguez al otro lado; firma de Muñiz.",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia heliográfica de la Dirección de Geodesia (1938)",
+   "img": "img/f/122/06.jpg",
+   "fuente": "IMG_9873.JPG",
+   "orientacion": "",
+   "interpretacion": "«Es copia del plano agregado al duplicado N.º 122 del partido de San Andrés de Giles, mensura practicada en el año 1882 por el agrimensor José M.ª Muñiz. Dirección de Geodesia, La Plata, [oct.] de 1938», con firmas del dibujante y revisores.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Ubicación: la red de santa elena",
+   "texto": "Rumbos S 46° 59′ E y S 58° 53′ O = los de la red de Meyrelles de 1867 para Santa Elena de Lorenzo Torres (044: «S 46° 59′ E; fondo sobre la línea de Vivar S 58° 53′ O»). Muñiz enfila los mojones de fierro y ñandubay de esa red. La fracción grande es la «testamentaría de Juan Ryan» (1000 × 5000 v) entre Cunningham (ex Riestra, 043/006) y los Sosa, con el ARROYO DEL SAUCE como fondo; el costado F-J es justamente la línea de Vivar, donde arrancan del otro lado las fajas de Quevedo y Rodríguez (049-051, 073). Torres es además el lindero NO de Melitón Rodríguez (121): Meyrelles saca allí sus rumbos verdaderos del «frente del campo de Lorenzo M. Torres»."
+  },
+  {
+   "titulo": "Paisaje 1882",
+   "texto": "Estancia «La Adelina» (casco con monte), su ombú usado como señal, puestos con nombre de santa (Santa María, Santa Rosalía, Santa Clara: toponimia de puestos de estancia), poblaciones de Mc Dermott, Fuentes, Monsalvo, Romero, Ávalos, Umarán; camino de Giles a la Capilla del Señor; FERROCARRIL DE ARRECIFES A LUJÁN cruzando ambas fracciones y la ESTACIÓN AZCUÉNAGA como punto de visual (abierta con el ramal en esos años): la estación entra en el ritual de abalizamiento."
+  },
+  {
+   "titulo": "Ritual y técnica",
+   "texto": "Mojón de fierro de arranque heredado; mojones nuevos de ñandubay cada 1000 m; BANDERAS en los mojones de los vecinos para tomar el rumbo de la línea de Vivar; abalizamientos con rumbos desde 9 vértices (≈ 30 visuales). Variación 10° 51′ NE (Meyrelles, 121, mismo mes: 11° 25′; diferencia de 34′ entre agrimensores a pocos km). Superficies en hectáreas y cuadras de 150 v."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Dos títulos: (a) compra de 1868 a Ricardo Torres de una suerte criolla de los Sosa vendida a Catalina Ryan (viuda irlandesa, luego Mc Dermott); (b) compra a Simón Cucullu de DERECHOS Y ACCIONES hereditarios de Pascual Baylón Sosa, que Cucullu adquirió por documento privado. Típica concentración: un estanciero (Torres, Santa Elena) absorbe fajas de herederos criollos e irlandeses. La faja intermedia de Segundo Fuentes queda enclavada."
+  },
+  {
+   "titulo": "Lecturas dudosas",
+   "texto": "«Aditardo [?] Heredia» (juez; ¿Adolfo? ¿Aristóbulo?); «Pedro U. [?] Díaz»; «San Ginetti [?]», «Lacoure [?]», «Cutillas [?]»; «José Roights [?]»; «Mariana Lerdón [?]» (plano: «María Lerdón»); «José Belén [?]»; «Rocamora [?]»; «217,864 [?]» cuadras (dice «ochocientos sesenta y cuatro diez milésimos»)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Es «La Adelina» el casco de Santa Elena o una estancia nueva de Torres? Superponer en GIS con 044 (Meyrelles) y 121; ubicar la Estación Azcuénaga como ancla. ¿Dónde está la mensura de Cunningham por Pedro U. [?] Díaz?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Lorenzo Manuel Torres",
+   "rol": "Propietario",
+   "texto": "Estanciero de Santa Elena (044, Meyrelles 1867), entre el arroyo de Giles y el del Sauce; compra la faja Affre (1870, vendida a M. Rodríguez en 1878, Ficha 121) y estas dos fracciones (1868). El Dr. Lorenzo Torres de 023 (1858) es probablemente su padre o pariente.",
+   "fuentes": "Dup. 023, 044, 121, 122."
+  },
+  {
+   "nombre": "José María Muñiz",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor de las fajas del Sauce (049-051, 073, 1865) y de 083, 086, 091-093 (1877-78); aquí, en 1882, remide sobre la red de Meyrelles. Firma en Buenos Aires.",
+   "fuentes": "Dup. 034, 048-051, 073, 083, 091-093, 122."
+  },
+  {
+   "nombre": "Catalina Mc Dermott (antes viuda de Juan Ryan) · Tomás Mc Dermott",
+   "rol": "Vendedora / lindera",
+   "texto": "Viuda del irlandés Juan Ryan, casada en segundas con Tomás Mc Dermott; vende en 1865 a Ricardo Torres y conserva la parte O con su población.",
+   "fuentes": "Dup. 122."
+  },
+  {
+   "nombre": "Enrique Sosa · Petronila Monsalvo de Sosa · Juan José, Pascual Baylón y Petrona Advíncula Sosa",
+   "rol": "Antecesores",
+   "texto": "Familia criolla dueña de la suerte; vende por poder (1853-60) y por documento privado (1865).",
+   "fuentes": "Dup. 122."
+  },
+  {
+   "nombre": "Simón Cucullu",
+   "rol": "Vendedor de derechos",
+   "texto": "Vecino de Giles; compra derechos hereditarios y los revende (1868). Cf. Isidro Cucullu (033, 121) y Simón Cucullo (086, 091).",
+   "fuentes": "Dup. 086, 091, 122."
+  },
+  {
+   "nombre": "Juan Cunningham",
+   "rol": "Lindero ne",
+   "texto": "Dueño del «campo de la Paloma» (043) y del ex Riestra (006).",
+   "fuentes": "Dup. 006, 043, 122."
+  },
+  {
+   "nombre": "Segundo Fuentes · Enrique Rodríguez · Pablo Quevedo · Mauricia Duarte de Rodríguez",
+   "rol": "Linderos",
+   "texto": "Fuentes ocupa la faja entre las dos fracciones; los otros, al E del arroyo del Sauce (049-051, 057, 083).",
+   "fuentes": "Dup. 122."
+  },
+  {
+   "nombre": "Aditardo [?] Heredia · Rocamora [?]",
+   "rol": "Justicia civil",
+   "texto": "El mismo juez aprueba la 121 (junio de 1882).",
+   "fuentes": "Dup. 121, 122."
+  },
+  {
+   "nombre": "Jorge Coquet [?] · E. Hernández [?] · José Antonio Lagos",
+   "rol": "Departamento de ingenieros",
+   "texto": "Dictamen del 30/6/1882.",
+   "fuentes": "Dup. 118-122."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/122/02.jpg",
+  "fuente": "IMG_9860.JPG (girada 90°)",
+  "lineas": [
+   "N.^{o} 122.",
+   "Duplicado.",
+   "Mensura del terreno perteneciente á",
+   "D. Lorenzo Manuel Torres.",
+   "Partido de San Andrés de Giles.",
+   "Agrimensor — Muñiz.",
+   "6-71-153 [?] [lápiz, con rúbrica]"
+  ]
+ },
+ "titulo": "Lorenzo Manuel Torres",
+ "estado": "Transcripta (13 hojas, 312 renglones), 4 láminas"
+}
