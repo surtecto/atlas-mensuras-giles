@@ -1,0 +1,548 @@
+{
+ "carpeta": "124",
+ "carpeta_nombre": "Carpeta 124",
+ "archivo": "Ficha 124 - Saturnino E. Unzué (1882).docx",
+ "resumen": {
+  "Partido": "San Andrés de Giles (bloque Lima, cañada/arroyo de Moyano)",
+  "N.º de duplicado": "124",
+  "Propietario / solicitante": "Saturnino E. Unzué",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1882",
+  "Fecha de la diligencia": "Pedido 10/10/1882; mensura nov. 1882; firma 1/12/1882; aprobación 16/2/1883",
+  "Ubicación": "Dos lonjas de la suerte de Mariano Lima, entre Zoilo Costa y los Montoya/Silva",
+  "Orden judicial": "Juez del Depto. del Centro Dr. José A. Capdevila (Mercedes)",
+  "Vendedor / antecesor": "M. Lima → Rufino Lima → Rosa Martínez de Lima (ejec. 1872) y Manuel Montoya (test. 1879)",
+  "Linderos citados": "Zoilo Costa, Nieves L. de Silva · Antonino Silva · C. Montoya, Longhery, Cruz C. de Silva · Luisa L. de Yeck [?]",
+  "Medidas": "A-B 2562 · B-C 2636 · C-D 791 · D-E 5184 · E-A 929 m = 421,98 ha (título 402,73)",
+  "Rumbos": "S 49° 31′ E · S 45° 25′ E · N 44° 23′ E · N 45° 55′ O · S 44° 52′ O; var. 12° NE",
+  "Referencia de archivo": "Dup. 124; copia heliográfica La Plata, agosto de 1938"
+ },
+ "metricas": {
+  "superficie_ha": "421,98",
+  "hitos": "Mojones viejos y nuevos; dos puestos de Unzué; poblaciones vecinas (azimutes)",
+  "aguas": "—"
+ },
+ "sintesis": "Duplicado completo (títulos, mensura, abalizamientos, dictamen, auto de aprobación, nota del sobrante) con plano y copia de 1938, en dos tandas fotográficas. En noviembre de 1882 Carlos Schuster deslinda para Saturnino E. Unzué dos lonjas de la suerte de los Lima compradas en remates judiciales (1872 y 1879): pentágono de 421,98 ha contra Zoilo Costa (mismo rumbo N 45° 55′ O que 085). Resulta un sobrante fiscal de 19,25 ha que el juez de Mercedes manda comunicar al Gobierno y que se escritura a Unzué en diciembre de 1883. Primeros abalizamientos en azimut 0-360°.",
+ "caratula": {
+  "img": "img/f/124/01.jpg",
+  "fuente": "IMG_3603.JPG (girada 90°; = IMG_9892)",
+  "campos": [
+   [
+    "N.º",
+    "124"
+   ],
+   [
+    "Encabezado impreso",
+    "SAN ANDRES DE GILES — DIRECCION DE GEODESIA Y CATASTRO DE LA PROVINCIA DE BUENOS AIRES"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Don Saturnino E. Unzué"
+   ],
+   [
+    "Ingeniero o Agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Mes",
+    "—"
+   ],
+   [
+    "Año",
+    "1882"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "—"
+   ],
+   [
+    "Secretaría",
+    "—"
+   ],
+   [
+    "Duplicados de referencia",
+    "—"
+   ],
+   [
+    "Pie",
+    "ARCHIVO"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1: extracto de títulos: 4/3/1872, el juez civil Dr. Honorio Martel, en el juicio ejecutivo de Mariano González contra Rosa Martínez de Lima, vende a Saturnino E. Unzué un terreno de pastoreo de 774 × 2598 m (895 × 3000 v); antes, 21/2/1867, Rufino Lima vende a Manuel Montoya una fracción igual",
+   "img": "img/f/124/05.jpg",
+   "fuente": "IMG_3605 (tanda 2011, girada 90°; = IMG_9894)",
+   "nota": "Dos tandas fotográficas del mismo duplicado: IMG_3603-3611 (2011, 5184 × 3456) e IMG_9892-9900 (2012, cuadernillo abierto). Se transcribe f. 1 de la toma 3605 y el resto de las dobles páginas 9895-9899 (= 3606-3609). Letra cursiva clara del copista; firmas autógrafas.",
+   "lineas": [
+    "Mensura de un terreno de D. Sa-",
+    "turnino E. Unzué, situado en el",
+    "Partido de Giles.                     [sello: Folio 1]",
+    "Estracto de titulos.",
+    "1872. Marzo 4. El S.^{r} Juez de 1.^{a} Instancia",
+    "en lo Civil, D.^{r} D. Honorio Martel, terminado",
+    "el juicio ejecutivo por cobro de pesos iniciado",
+    "por el D.^{r} D. Mariano Gonzalez contra D.^{ña} Rosa",
+    "Martinez de Lima, vende á D. Saturnino E.",
+    "Unzué, á nombre de la ejecutada, un terreno",
+    "de pastoreo situado en el Partido de Giles,",
+    "compuesto de setecientos setenta y cuatro",
+    "metros de frente, igual á ochocientas noventa",
+    "y cinco varas, por dos mil quinientos noventa",
+    "y ocho, igual á tres mil varas de fondo, lin-",
+    "dando por el Sud y Este con campo de Don",
+    "Manuel Montoya, por el Norte con campo",
+    "de la ejecutada y por el Oeste con D. Pedro",
+    "Silva. Dicho terreno correspondió á la eje-",
+    "cutada por compra que hizo á D. Rufino Lima.",
+    "— Escritura ante el Escribano Publico, D. Enrique Nuñez. —",
+    "1867. Febrero 21. D. Rufino Lima vende á D.",
+    "Manuel Montoya una fraccion del terreno de",
+    "pastoreo que posée en el Partido de Giles,",
+    "cuya fraccion se compone de setecientos se-",
+    "tenta y cuatro metros, igual á ochocientas",
+    "noventa y cinco varas, de frente, por dos",
+    "mil quinientos noventa y ocho metros, igual",
+    "á tres mil varas, de fondo; lindando",
+    "por el Norte y por el Oeste con terrenos",
+    "de D.^{ña} Rosa Martinez, por el Sud con mas",
+    "terreno del comprador y por el Este con el",
+    "de D. Antonio Silva. Dicha fraccion es del",
+    "campo que correspondió al vendedor como"
+   ],
+   "interpretacion": "TÍTULOS. (1) 4/3/1872: el juez civil HONORIO MARTEL, concluido el JUICIO EJECUTIVO por cobro de pesos de MARIANO GONZÁLEZ contra ROSA MARTÍNEZ DE LIMA, vende «a nombre de la ejecutada» a SATURNINO E. UNZUÉ un terreno de pastoreo de 774 × 2598 m (895 × 3000 v), lindero de Manuel Montoya (S y E), de la ejecutada (N) y de Pedro Silva (O); ella lo había comprado a RUFINO LIMA (escribano Enrique Núñez). (2) 21/2/1867: RUFINO LIMA vende a MANUEL MONTOYA otra fracción igual (774 × 2598 m), lindera de Rosa Martínez (N y O) y de Antonio Silva (E)… El campo es una parte de la gran suerte de los LIMA (055, 076, 107): la tierra criolla sale a remate judicial por deudas."
+  },
+  {
+   "titulo": "Folio 1 vuelta: … parte de la herencia de Mariano Lima y Juana Hurtado (escribano Abelardo Báez); 23/1/1879, el juez Salustiano J. Zavalía, por la testamentaría de Manuel Montoya, vende a Unzué esa fracción (escribano Rodolfo Sause [?]); 10/10/1882 Unzué pide al juez del Departamento del Centro, Dr. Capdevila, el deslinde; linderos actuales; 16/10/1882 el juez hace lugar",
+   "img": "img/f/124/06.jpg",
+   "fuente": "IMG_9895, página izquierda",
+   "nota": "",
+   "lineas": [
+    "herencia de sus finados padres D. Mariano Li-",
+    "ma y D.^{ña} Juana Hurtado. Escritura ante",
+    "el Escribano Publico, D. Abelardo Baez. —",
+    "1879. Enero 23. El S.^{r} Juez de 1.^{a} Instancia",
+    "en lo Civil, D.^{r} D. Salustiano J. Zavalia, á",
+    "nombre de la testamentaria de D. Manuel",
+    "Montoya, vende á D. Saturnino E. Unzué",
+    "un terreno de propiedad de aquella, sito",
+    "en el Partido de San Andrés de Giles, com-",
+    "puesto de setecientos setenta y cuatro metros",
+    "de frente, igual á ochocientas noventa y cinco",
+    "varas, por dos mil quinientos noventa y",
+    "ocho metros de fondo, igual á tres mil varas,",
+    "lindando por el Norte y Oeste con terrenos",
+    "de D.^{ña} Rosa Martinez, por el Sud con mas",
+    "terreno de D. Manuel Montoya y por el",
+    "Este con D. Antonio Silva; cuya propiedad",
+    "correspondió á Montoya por compra que hizo",
+    "á D. Rufino Lima, quien, á su vez, la",
+    "hubo en mayor porcion por herencia de",
+    "sus finados padres D. Mariano Lima",
+    "y D.^{ña} Juana Hurtado. — Escritura ante",
+    "el Escribano Público, D. Rodolfo Sause [?]. —",
+    "1882. Octubre 10. D. Saturnino E. Unzué se",
+    "presenta al S.^{r} Juez de 1.^{a} Instancia del",
+    "Departamento del Centro, D.^{r} Capdevila, so-",
+    "licitando el deslinde y amojonamiento de",
+    "los terrenos á que se refieren los titulos es-",
+    "tractados, cuyos actuales linderos son: al",
+    "NorOeste D.^{ña} Luisa L. de Yeck [?], al NorEste Don",
+    "Zoilo Costa, al SudEste D. Antonino Silva",
+    "y al SudOeste D.^{ña} Florencia Montoya, Don",
+    "Cándido Montoya y D.^{ña} Cruz Castillo de",
+    "Silva.",
+    "1882. Octubre 16. El S.^{r} Juez de 1.^{a} Instancia",
+    "hace lugar á lo solicitado en el anterior escrito"
+   ],
+   "interpretacion": "…que Rufino heredó de sus padres MARIANO LIMA y JUANA HURTADO (escribano Abelardo Báez). (3) 23/1/1879: el juez SALUSTIANO J. ZAVALÍA vende, por la TESTAMENTARÍA DE MANUEL MONTOYA, esa misma fracción a Unzué. Así UNZUÉ reúne dos lonjas de 895 × 3000 v compradas en DOS VENTAS JUDICIALES (ejecución y sucesión). 10/10/1882: pide al juez del Departamento del Centro JOSÉ A. CAPDEVILA el DESLINDE Y AMOJONAMIENTO; linderos actuales: Luisa L. de Yeck [?] (NO), Zoilo Costa (NE), Antonino Silva (SE), Florencia y Cándido Montoya y Cruz Castillo de Silva (SO). 16/10/1882: el juez accede…"
+  },
+  {
+   "titulo": "Folio 2: nombramiento del agrimensor propuesto; acepta y toma antecedentes en el Departamento de Ingenieros (16/11/1882); MENSURA: desde el mojón A (ángulo O), A-B S 49° 31′ E 2562 m contra Cruz C. de Silva, hasta el mojón B (esquina E de ella, N de Cristóbal Longhery, antes Florencia Montoya); mojón a 1299 m; B-C S 45° 25′ E 2636 m contra Longhery y Cándido Montoya",
+   "img": "img/f/124/07.jpg",
+   "fuente": "IMG_9895, página derecha",
+   "nota": "",
+   "lineas": [
+    "dando por nombrado al Agrimensor propuesto,    [sello: Folio 2]",
+    "debiendo este tomar los conocimientos necesa-",
+    "rios del Departamento de Ingenieros, y su-",
+    "getarse en todo á las disposiciones vigentes.",
+    "En la misma fecha acepté el cargo,",
+    "y en Noviembre 16 del corriente año tomé",
+    "antecedentes del Departamento de Inge-",
+    "nieros.",
+    "Mensura",
+    "El Agrimensor Público que firma, co-",
+    "misionado por el S.^{r} Juez de 1.^{a} Instancia,",
+    "D.^{r} D. José A. Capdevila, para medir los",
+    "terrenos de D. Saturnino E. Unzué, que",
+    "expresa el anterior estracto de titulos, ob-",
+    "servadas las formalidades legales, como",
+    "se comprueba con los justificativos que",
+    "se acompañan, procedí á llenar mi",
+    "cometido del modo siguiente:",
+    "Me coloqué en el mojon del ángulo Oeste",
+    "del terreno á medir, letra A del plano, y",
+    "por el rumbo al Sud cuarenta y nueve grados",
+    "treinta y un minutos Este medí dos mil",
+    "quinientos sesenta y dos metros (S 49° 31′ E = 2562^{m})",
+    "deslindando con terreno de D.^{ña} Cruz C. de",
+    "Silva, y di con el mojon B del ángulo Este de",
+    "dicho terreno, Norte para D. Cristobal Longhery",
+    "(antes D.^{ña} Florencia Montoya). Servirá tambien",
+    "como costanero del campo que mido. En esta",
+    "linea, á los mil doscientos noventa y nueve",
+    "metros, coloqué un mojon.",
+    "Desde B, deslindando con Longhery y con D.",
+    "Cándido Montoya, por el rumbo al Sud cuarenta",
+    "y cinco grados veinte y cinco minutos Este medí",
+    "dos mil seiscientos treinta y seis metros (S 45° 25′ E = 2636^{m})",
+    "y puse el mojon C del ángulo Sud para el terreno",
+    "que mido y Oeste para D. Antonino Silva. En esta"
+   ],
+   "interpretacion": "El agrimensor propuesto queda nombrado y debe «sujetarse en todo a las disposiciones vigentes». MENSURA: arranca del MOJÓN A (ángulo O); A-B S 49° 31′ E 2562 m contra CRUZ C. DE SILVA hasta B, esquina con CRISTÓBAL LONGHERY (que compró la parte de FLORENCIA MONTOYA): pone un mojón a 1299 m (1500 v). B-C S 45° 25′ E 2636 m contra Longhery y CÁNDIDO MONTOYA hasta C (esquina con Antonino Silva)…"
+  },
+  {
+   "titulo": "Folio 2 vuelta: mojones viejos (divisorio Longhery–Montoya a 1461 m, costanero a 886); C-D N 44° 23′ E 791 m contra Antonino Silva hasta la línea de Nieves Lima de Silva; D-E N 45° 55′ O 5184 m contra Nieves L. de Silva y Zoilo Costa (mojón divisorio a 591 m; nuevos a 1891 y 3191); E-A S 44° 52′ O 929 m contra Luisa L. de Yeck [?]; pentágono de 421 ha 97 a 50 ca",
+   "img": "img/f/124/08.jpg",
+   "fuente": "IMG_9896, página izquierda",
+   "nota": "",
+   "lineas": [
+    "linea, á los mil cuatrocientos sesenta y un metros",
+    "se encontró el mojon divisorio entre Longhery y",
+    "Montoya, y á los ochocientos ochenta y seis metros",
+    "un mojon costanero.",
+    "Desde C deslindando con D. Antonino Silva",
+    "al Norte cuarenta y cuatro grados veinte y tres",
+    "minutos Este se midieron setecientos noventa",
+    "y un metros (N 44° 23′ E = 791^{m}) hasta el punto",
+    "de interseccion del costado SudOeste del terreno",
+    "de D.^{ña} Nieves Lima de Silva, y coloqué el",
+    "mojon del ángulo Este de este terreno, y tam-",
+    "bien Norte para D. Antonino Silva, letra D.",
+    "Desde D por el rumbo al Norte cuarenta y",
+    "cinco grados cincuenta y cinco minutos Oeste",
+    "se midieron cinco mil ciento ochenta y cuatro",
+    "metros (N 45° 55′ O = 5184^{m}) hasta el mojon del",
+    "ángulo Este del terreno de D. Zoilo Costa, que",
+    "es tambien del Norte para el terreno que mido,",
+    "letra E del plano. En esta linea se deslinda con",
+    "D.^{ña} Nieves Lima de Silva y con D. Zoilo Costa.",
+    "A los quinientos noventa y un metros se encontró",
+    "el mojon que divide á estos últimos y se pu-",
+    "sieron mojones á los mil ochocientos noventa",
+    "y uno y tres mil ciento noventa y un metros.",
+    "Desde E deslindando con D.^{ña} Luisa L. de",
+    "Yeck [?], por el rumbo al Sud cuarenta y cuatro",
+    "grados cincuenta y dos minutos Oeste medí",
+    "novecientos veinte y nueve metros (S 44° 52′ O =",
+    "929^{m}) hasta el mojon que me sirvió de arran-",
+    "que, letra A.",
+    "La figura del terreno es la de un pentá-",
+    "gono; y la superficie encontrada de cua-",
+    "trocientas veinte y una hectareas noven-",
+    "ta y siete areas cincuenta metros cua-",
+    "drados, ó sea cinco millones seiscientas",
+    "veinte y seis mil seiscientas sesenta"
+   ],
+   "interpretacion": "C-D N 44° 23′ E 791 m (contra ANTONINO SILVA) hasta el costado de NIEVES LIMA DE SILVA; D-E N 45° 55′ O 5184 m —el mismo rumbo del campo de ZOILO COSTA medido por Schuster en 1878 (085: N 45° 55′ O)— con mojones nuevos cada 1300 m; E-A S 44° 52′ O 929 m contra LUISA L. DE YECK [?]. PENTÁGONO de 421 ha 97 a 50 ca. Nótese que el frente no es la suma de dos lonjas de 774 m: el polígono real es irregular (791 / 929 m) y el fondo pasa de 2598 a ≈ 5200 m: Unzué ocupa el largo de dos suertes en fila, no lado a lado."
+  },
+  {
+   "titulo": "Folio 3: superficie 5.626.666 v²; título 402 ha 72 a 64 ca = 5.370.000 v²; excedente de 19 ha 24 a 86 ca = 256.666 v², que el interesado está dispuesto a comprar al Estado; linderos; rumbos verdaderos, variación 12° NE; circular firmada por todos; acta según el art. 618 [?] de la Ley de Procedimientos; Giles, 1/12/1882, firma Cárlos Schuster",
+   "img": "img/f/124/09.jpg",
+   "fuente": "IMG_9896, página derecha",
+   "nota": "",
+   "lineas": [
+    "y seis varas cuadradas (421^{h} 97^{a} 50 [m^{c}] = 5.626.6[66] v^{s} c^{s})   [sello: Folio 3]",
+    "y como el titulo solo dá cuatrocientas dos hectareas",
+    "setenta y dos areas sesenta y cuatro metros cuadra-",
+    "dos, ó sea cinco millones trescientas setenta mil",
+    "varas cuadradas (402^{h} 72^{a} 64^{m c} = 5.370000 v^{s} c^{s}) hay",
+    "por consiguiente un excedente de diez y nueve hec-",
+    "tareas veinte y cuatro areas ochenta y seis",
+    "metros cuadrados, igual á doscientas cincuenta",
+    "y seis mil seiscientas sesenta y seis varas",
+    "cuadradas (19^{h} 24^{a} 86^{m c} = 256.666 v^{s} c^{s}) que",
+    "el interesado está dispuesto á comprar al Es-",
+    "tado.",
+    "Linderos: al NorEste D. Zoilo Costa y D.^{ña}",
+    "Nieves L. de Silva, al SudEste D. Antonino",
+    "Silva, al SudOeste D. Cándido Montoya, Don",
+    "Cristobal Longhery y D.^{ña} Cruz C. de Silva,",
+    "y al NorOeste D.^{ña} Luisa L. de Yeck [?].",
+    "Los rumbos son los verdaderos y la varia-",
+    "cion de la Aguja de doce grados NorEste (12° NE)",
+    "Los linderos han firmado todos la circular",
+    "de citacion.",
+    "Se levantó la acta con arreglo á la Ley",
+    "de Procedimientos en su artículo 618 [?], y se acom-",
+    "paña al expediente.",
+    "Partido de San Andrés de Giles",
+    "á primero de Diciembre de mil ocho-",
+    "cientos ochenta y dos.",
+    "Cárlos Schuster [rúbrica]",
+    "Ava- [reclamo]"
+   ],
+   "interpretacion": "TÍTULO 402,73 ha (2 × 895 × 3000 v = 5.370.000 v²) contra 421,97 medidas: EXCEDENTE de 19,25 ha (4,8 %) que Unzué «está dispuesto a comprar al Estado». VARIACIÓN 12° NE (la misma que dan 108 y 113 en 1880-81 en el bloque Lima–Rodríguez). Circular firmada por todos los linderos; acta según la LEY DE PROCEDIMIENTOS (art. 618 [?]); fecha y firma: Giles, 1/12/1882, CÁRLOS SCHUSTER."
+  },
+  {
+   "titulo": "Folio 3 vuelta: abalizamientos en AZIMUTES de 0° a 360° (población de José M.ª Otero, Luisa L. de Yeck [?], puesto Unzué, Antonino y Pastor Silva, Cándido, Manuel y C. Montoya, María Rodríguez, Zoilo Costa, Patricio Whelan [?]); entrada al Departamento de Ingenieros 18/12/1882; dictamen: aprueba la parte facultativa",
+   "img": "img/f/124/10.jpg",
+   "fuente": "IMG_9897, página izquierda",
+   "nota": "",
+   "lineas": [
+    "[Ava]lizamientos",
+    "Mojon A sobre AB. Poblacion de D.",
+    "José M.^{a} Otero 41° 30′ — id. de D.^{ña} Luisa L. de Yeck [?]",
+    "273° 25′ — Puesto Unzué 349° 13′. —",
+    "Mojon B sobre BC. D. Antonino Silva 358′ [sic] — Pues-",
+    "to Unzué 192° 55′ — D. Cándido Montoya 11° 25′. —",
+    "Mojon C sobre CD. D. Antonino Silva 75° 40′ —",
+    "D. Cándido Montoya 241° 37′ — D.^{ña} Maria Rodriguez",
+    "6° 2′. —",
+    "Mojon D sobre DE. D. Manuel Montoya 313° 7′ —",
+    "D. C. Montoya 31° 14′ — D. Antonino Silva 330° 55′. —",
+    "Mojon E sobre EA. D. Zoilo Costa 252° 55′ — Don",
+    "Patricio Whelan [?] 313° 30′ — D. Pastor Silva 37° 50′. —",
+    "Schuster [rúbrica]",
+    "[sello oval: DEPARTAMENTO DE INGENIEROS · Entradas · 18 DIC 1882 · DE LA PROVINCIA]",
+    "Señor Juez de 1.^{a} Instancia:",
+    "El Departamento de In-",
+    "genieros ha examinado la pre-",
+    "sente mensura practicada",
+    "por el agrimensor Schuster para",
+    "D.^{n} Saturnino Unzué en el par-",
+    "tido de Giles y la aprueba en",
+    "la parte facultativa."
+   ],
+   "interpretacion": "NOVEDAD TÉCNICA: los abalizamientos ya no se dan como rumbos de cuadrante (N x° E) sino como AZIMUTES de 0 a 360° (p. ej. «D.ª Luisa L. de Yeck 273° 25′», «Puesto Unzué 349° 13′»), leídos «sobre» un lado (A sobre AB…): Schuster usa un teodolito con limbo entero. Visuales: poblaciones de JOSÉ M.ª OTERO, YECK, el PUESTO UNZUÉ, ANTONINO y PASTOR SILVA, CÁNDIDO y MANUEL MONTOYA, MARÍA RODRÍGUEZ (113), ZOILO COSTA, PATRICIO WHELAN [?] (¿el Whelan de 097?). Entrada 18/12/1882 y dictamen del DEPARTAMENTO DE INGENIEROS: aprueba «en la parte facultativa»."
+  },
+  {
+   "titulo": "Folio 4: el sobrante de 19 ha 24 a 86 ca debe comprarse al Estado y se da cuenta al Superior Gobierno; 22/12/1882, Lagos y Jorge Coquet",
+   "img": "img/f/124/11.jpg",
+   "fuente": "IMG_9897, página derecha",
+   "nota": "",
+   "lineas": [
+    "Ha resultado un sobrante de        [sello: Folio 4]",
+    "(19 hect., 24 ar., 86 mt.) diez y nueve",
+    "hectáreas, veinte y cuatro áreas,",
+    "ochenta y seis metros, que el",
+    "interesado debe comprar al Es-",
+    "tado y del cual se dá cuenta",
+    "al Superior Gobierno.",
+    "Diciembre 22 de 1882.",
+    "Lagos [rúbrica]   Jorge Coquet [rúbrica]"
+   ],
+   "interpretacion": "El Departamento fija el SOBRANTE (19 ha 24 a 86 ca) «que el interesado debe comprar al Estado» y avisa al SUPERIOR GOBIERNO. Firmas: LAGOS y JORGE COQUET (cf. 122), 22/12/1882."
+  },
+  {
+   "titulo": "Folio 5: oficio del juez (Mercedes, 17/2/1883; sellado de 6 pesos 1883) al Director del Departamento de Ingenieros: auto de aprobación del 16/2/1883, de conformidad con el Departamento (f. 24) y el Agente Fiscal, de la mensura de f. 22…",
+   "img": "img/f/124/12.jpg",
+   "fuente": "IMG_9898, página derecha (la izquierda, en blanco)",
+   "nota": "",
+   "lineas": [
+    "10-110-205 [?] [lápiz]   Cancelado [?] [rúbrica]   14518 [sello fiscal: 6 · 1883 · seis pesos]   [sello: Folio 5]",
+    "Mercedes, Febrero 17 de 1883. —",
+    "[al margen: …ncia de … Camulo [?]; sello del Juzgado]",
+    "Al Señor Director del Departamento de",
+    "«Ingenieros»",
+    "Se dirige á V.^{d} el presente á fin de hacerle sa-",
+    "ber que la mensura practicada por el Agri-",
+    "mensor Público Don Cárlos Schuster de una",
+    "fraccion de campo situado en el Partido de",
+    "Giles de pertenencia de Don Saturnino E. Unzué",
+    "ha sido aprobada como se verá por el auto siguiente:",
+    "Mercedes, Febrero diez y seis de 1883. — Y vistos:",
+    "De conformidad con lo informado por el",
+    "Departamento de Ingenieros á f.^{s} 24 y lo",
+    "aconsejado por el Agente Fiscal en su pre-",
+    "cedente vista, — se aprueba en cuanto ha lugar",
+    "por derecho la operacion de mensura prac-",
+    "ticada por el Agrimensor Don Cárlos Schuster",
+    "corriente á f.^{s} 22 interponiendo el Juzgado"
+   ],
+   "interpretacion": "OFICIO desde MERCEDES (17/2/1883): el juzgado del Departamento del Centro ya funciona en Mercedes, no en Buenos Aires. Transcribe el AUTO del 16/2/1883: «de conformidad con lo informado por el Departamento de Ingenieros a fs. 24 y lo aconsejado por el AGENTE FISCAL», aprueba «en cuanto ha lugar por derecho» la mensura de Schuster (fs. 22), «interponiendo el Juzgado…»"
+  },
+  {
+   "titulo": "Folio 5 vuelta: …para su mayor validez la autoridad pública; comuníquese al Departamento; hágase saber al Superior Gobierno el sobrante; previo pago de costas y sellos, entréguese el expediente; firman José A. Capdevila y Agustín L. Camelo [?]; «agréguese» (Coquet, 1/3/1883); nota: 24/2/1883, Saturnino Unzué pide en compra el sobrante…",
+   "img": "img/f/124/13.jpg",
+   "fuente": "IMG_9899, página izquierda",
+   "nota": "",
+   "lineas": [
+    "para su mayor validez la autoridad pú-",
+    "blica que inviste por medio de este auto. —",
+    "En consecuencia comuníquese este auto",
+    "al Departamento de Ingenieros: hágase",
+    "saber al Superior Gobierno el sobrante que",
+    "resulta en el terreno medido y prévio pago",
+    "de costas y reposicion de sellos, entréguese este",
+    "expediente al interesado. — José A. Capdevila = Ante",
+    "mí. — Agustin L. Camelo [?]. —",
+    "Dios guarde á V.^{d} —",
+    "José A. Capdevila [rúbrica]",
+    "Marzo 1/883.",
+    "Agréguese al duplicado correspondiente.",
+    "Coquet [rúbrica]",
+    "En Buenos Aires á 24 de Febrero d/883",
+    "D.^{n} Saturnino Unzué se presentó ante",
+    "V. E. solicitando un sobrante de terreno",
+    "público que resultó en la mensura",
+    "que de terreno de su propiedad practicó"
+   ],
+   "interpretacion": "…«para su mayor validez la autoridad pública que inviste»: el auto judicial completa la aprobación técnica. Ordena avisar al Superior Gobierno del sobrante y entregar el expediente previo pago de costas y sellos. Firma JOSÉ A. CAPDEVILA ante AGUSTÍN L. CAMELO [?]; «agréguese al duplicado» (COQUET, 1/3/1883). Nota del 24/2/1883: UNZUÉ se presenta ante el Gobierno pidiendo el SOBRANTE DE TERRENO PÚBLICO…"
+  },
+  {
+   "titulo": "Folio 6: …resultante de la mensura de Schuster de diciembre de 1882 (firma Mariano Yparraguirre); 6/12/1883 se escrituró a favor de Unzué el sobrante (anotado al folio 16/884; firma Malaver [?])",
+   "img": "img/f/124/14.jpg",
+   "fuente": "IMG_9899, página derecha",
+   "nota": "",
+   "lineas": [
+    "en el partido de ~~Mercedes~~ [Giles] el agrimensor D.^{n} Cár-    [sello: Folio 6]",
+    "los Schuster en Diciembre de 1882.",
+    "Mariano Yparraguirre [rúbrica]",
+    "En Diciembre 6 de 1883, se escrituró á favor",
+    "de D. Saturnino E. Unzué el sobrante á que",
+    "se refiere esta mensura. — Anotado en fo-",
+    "lio 16/884. —",
+    "Malaver [?] [rúbrica]"
+   ],
+   "interpretacion": "…(«partido de Mercedes», el copista corrige) firma MARIANO YPARRAGUIRRE (el mismo nombre del agrimensor de 056 y 058, aquí en la oficina de Tierras). CIERRE DEL CICLO: el 6/12/1883 se ESCRITURA a favor de Unzué el sobrante (anotación al folio 16 de 1884, firma MALAVER [?]). En 21 meses: pedido de deslinde → mensura → dictamen → aprobación → compra del sobrante fiscal."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de Carlos Schuster (1882)",
+   "img": "img/f/124/03.jpg",
+   "fuente": "IMG_3610.JPG (f. 7; = IMG_9900)",
+   "orientacion": "Flecha de norte inclinada hacia el NO (arriba a la izquierda); escala de 1000-4000 metros; «Cárlos Schuster», a lápiz «año 1882».",
+   "interpretacion": "Pentágono alargado A-B-C-D-E con «SATURNINO E. UNZUÉ» y su superficie a lápiz «421h 97a 50c»; dos «Puesto» dentro del campo. Al N, ZOILO COSTA y NIEVES L. DE SILVA (divisoria punteada); al E, ANTONINO SILVA; al S, CRUZ C. DE SILVA, C. LONGHERY y CÁNDIDO MONTOYA («Montoya» con su población); al O, LUISA L. DE YECH (así en el plano). El mojón A, dibujado como un círculo, está sobre una línea diagonal (¿camino?) que cruza el vértice O. A lápiz, «19h 24a 86c» (sobrante) y cuentas de rumbos.",
+   "referencias": [
+    [
+     "A-B",
+     "S 49° 31′ E · 2562 m (Cruz C. de Silva); mojón a 1299"
+    ],
+    [
+     "B-C",
+     "S 45° 25′ E · 2636 m (Longhery, C. Montoya); mojones a 886 y 1461"
+    ],
+    [
+     "C-D",
+     "N 44° 23′ E · 791 m (Antonino Silva)"
+    ],
+    [
+     "D-E",
+     "N 45° 55′ O · 5184 m (Nieves L. de Silva, Zoilo Costa); 591, 1891, 3191"
+    ],
+    [
+     "E-A",
+     "S 44° 52′ O · 929 m (Luisa L. de Yech)"
+    ],
+    [
+     "Superficie",
+     "421 ha 97 a 50 ca; título 402 ha 72 a 64 ca; sobrante 19 ha 24 a 86 ca"
+    ]
+   ]
+  },
+  {
+   "titulo": "Copia heliográfica de la Dirección de Geodesia (1938)",
+   "img": "img/f/124/04.jpg",
+   "fuente": "IMG_3611.JPG",
+   "orientacion": "",
+   "interpretacion": "«Es copia del plano agregado al duplicado N.º 124 del partido de San Andrés de Giles, mensura practicada en diciembre de 1882 por el Agrimensor Carlos Schuster. La Plata, agosto de 1938»; dibujó C. Collar Lirón [?], revisó J. S. Chiappino; sello M. O. P. – Dirección de Geodesia y Catastro.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Ubicación: el bloque lima–costa",
+   "texto": "Es una pieza de la suerte de MARIANO LIMA y JUANA HURTADO (055, 076, 107). El lado D-E (N 45° 55′ O) es el mismo rumbo de la L de ZOILO COSTA (085, Schuster 1878) y su lindero NE es Costa: la 124 se apoya en esa línea. Rosa Martínez de Lima (076) y los Montoya y Silva (Lima de Silva, Cruz Castillo de Silva) completan el vecindario criollo; Unzué, ya dueño de una hijuela Colmenero y de sobrantes (054-055) y de la estancia San Jacinto (113), avanza sobre él. Superponer en GIS con 085, 107 y 113."
+  },
+  {
+   "titulo": "Paisaje 1882",
+   "texto": "Campo de pastoreo sin aguas citadas; dos puestos de Unzué dentro del campo; poblaciones de Otero, Yeck [?], Montoya, Silva, María Rodríguez, Costa y Whelan [?] usadas como señales. Mojones viejos (divisorio Longhery–Montoya, costanero, divisorio Silva–Costa) y nuevos cada ≈ 1300 m (1500 v)."
+  },
+  {
+   "titulo": "Ritual y técnica",
+   "texto": "Pedido de DESLINDE Y AMOJONAMIENTO del propietario (no hay sucesión): agrimensor propuesto, antecedentes del Departamento, circular firmada por todos, acta según la Ley de Procedimientos (art. 618 [?]; en 123 Schuster cita los arts. 652 y 655 del Código: cambio de numeración o de ley). ABALIZAMIENTOS EN AZIMUT 0-360° desde cada mojón: primera vez en el corpus. Variación 12° NE (como 108 y 113)."
+  },
+  {
+   "titulo": "Tenencia y circuito estatal",
+   "texto": "Dos lonjas de 895 × 3000 v adquiridas en remates judiciales (ejecución por deudas contra Rosa Martínez de Lima, 1872; testamentaría de Manuel Montoya, 1879): la tierra criolla de los Lima pasa a un gran estanciero. La mensura revela un SOBRANTE de 19,25 ha que el Departamento manda comprar al Estado; el juez (Mercedes) aprueba con vista del AGENTE FISCAL y avisa al Gobierno; Unzué lo pide (24/2/1883) y se le escritura (6/12/1883). La mensura privada funciona como instrumento de detección y venta de tierra pública."
+  },
+  {
+   "titulo": "Lecturas dudosas",
+   "texto": "«Luisa L. de Yeck [?]» (texto «Yeck», plano «Yech»); «Rodolfo Sause [?]»; «Agustín L. Camelo [?]»; «Patricio Whelan [?]»; «art. 618 [?]»; «Malaver [?]»; la cifra inicial del f. 3 (5.626.6[66] v²) está tapada por el sello."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Por qué el polígono medido (5184 m de fondo) duplica el fondo de cada título (2598 m)? Las dos lonjas estarían una tras otra (Rosa al N de Montoya, según los linderos de 1872) y no lado a lado: confirmarlo en GIS. ¿Qué es la diagonal que pasa por el mojón A en el plano? ¿Luisa L. de Yeck/Yech es una Lima casada?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Saturnino E. Unzué",
+   "rol": "Propietario",
+   "texto": "Gran estanciero y hombre de negocios porteño de origen vasco; el apellido quedó asociado al Palacio Unzué de Buenos Aires y al Asilo Unzué de Mar del Plata, levantados por la familia (búsqueda web breve, sin fechas verificadas); con «Saturnino Unzué é hijos» figura en el corpus como condómino de la hijuela Colmenero (054), dueño de sobrantes (054-055) y de la estancia San Jacinto (113). Datos biográficos externos no verificados en esta sesión.",
+   "fuentes": "Dup. 054, 055, 113, 124; Wikipedia «Unzué Palace»; La Capital (Mar del Plata)."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Aquí en su forma madura: azimutes 0-360°, variación 12° NE, firma en Giles. Ver 123.",
+   "fuentes": "Dup. 052-124."
+  },
+  {
+   "nombre": "Mariano Lima · Juana Hurtado · Rufino Lima · Rosa Martínez de Lima",
+   "rol": "Antecesores",
+   "texto": "Tronco criollo de la suerte (055, 076, 107); Rufino vende en 1867 y su mujer (o pariente) Rosa pierde su parte por ejecución en 1872.",
+   "fuentes": "Dup. 055, 076, 107, 124."
+  },
+  {
+   "nombre": "Manuel Montoya · Florencia y Cándido Montoya",
+   "rol": "Antecesor / linderos",
+   "texto": "Montoya compra a Rufino Lima en 1867; su testamentaría vende a Unzué en 1879; Florencia vende su parte a Cristóbal Longhery.",
+   "fuentes": "Dup. 124."
+  },
+  {
+   "nombre": "Zoilo Costa",
+   "rol": "Lindero ne",
+   "texto": "Dueño de la L de 1350 ha (085) y de 1012 ha en la transacción con los Lima (107).",
+   "fuentes": "Dup. 085, 107, 124."
+  },
+  {
+   "nombre": "Antonino, Pastor, Nieves Lima de, Cruz Castillo de Silva",
+   "rol": "Linderos",
+   "texto": "Familia Silva emparentada con los Lima.",
+   "fuentes": "Dup. 124."
+  },
+  {
+   "nombre": "José A. Capdevila · Honorio Martel · Salustiano J. Zavalía",
+   "rol": "Jueces civiles",
+   "texto": "Capdevila, juez del Departamento del Centro con sede en Mercedes (1882-83); Martel (1872) y Zavalía (1879; cf. 091) firman las ventas judiciales.",
+   "fuentes": "Dup. 091, 124."
+  },
+  {
+   "nombre": "Jorge Coquet · Lagos · Mariano Yparraguirre",
+   "rol": "Departamento de ingenieros / tierras",
+   "texto": "Coquet y Lagos firman el dictamen como en 122; Yparraguirre (cf. el agrimensor de 056 y 058) firma la nota del sobrante.",
+   "fuentes": "Dup. 056, 058, 122, 124."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/124/02.jpg",
+  "fuente": "IMG_3604.JPG (girada 90°; = IMG_9893)",
+  "lineas": [
+   "Giles  N.^{o} 124",
+   "1882",
+   "Duplicado de la mensura de un",
+   "campo de D. Saturnino E. Unzué",
+   "situado en el Partido de Giles —",
+   "Medido por el Agrimensor",
+   "Cárlos Schuster",
+   "9. 111. 47 [lápiz]"
+  ]
+ },
+ "titulo": "Saturnino E. Unzué",
+ "estado": "Transcripta (10 hojas, 249 renglones), 2 láminas"
+}
