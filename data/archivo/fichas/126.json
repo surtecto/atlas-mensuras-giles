@@ -1,0 +1,676 @@
+{
+ "carpeta": "126",
+ "carpeta_nombre": "Carpeta 126",
+ "archivo": "Ficha 126 - Josefa Cots de La Sota (1882).docx",
+ "resumen": {
+  "Propietario / solicitante": "Josefa Cots de La Sota",
+  "N.º de duplicado": "126",
+  "Agrimensor": "Mariano Iparraguirre",
+  "Año": "1882",
+  "Fecha de la diligencia": "Inicio 12/3/1882; plano 19/8/1882; D. I. 8/5/1883; aprob. 19/5/1883",
+  "Ubicación": "Confluencia del río de Areco y el arroyo de Giles (límite con S. A. de Areco)",
+  "Orden judicial": "Juez 1.ª Inst. Civil (Buenos Aires), Dr. Martín Bustos",
+  "Vendedor / antecesor": "Dionisia Alem de Sosa → Gregorio de La Sota (escritura simple 1858)",
+  "Linderos citados": "Río de Areco (N, NO); arroyo de Giles (NE); Nicolás O'Donnell y José Rodríguez (S)",
+  "Medidas": "Triángulo; base A-B 3500 m; 12 lados de poligonal costera; 308,24 ha",
+  "Rumbos": "Base N 32° 27′ O; var. N 11° 24′ E; rumbos verdaderos",
+  "Referencia de archivo": "AHG-PBA, duplicado 126 de S. A. de Giles; copia M.O.P. 1936"
+ },
+ "metricas": {
+  "superficie_ha": "308,24",
+  "hitos": "confluencia Areco–Giles, estancia y puesto de R. La Sota, puesto «La Argentina» de Guerrico, estancias Durand, Scully, Rodríguez",
+  "aguas": "río de Areco; arroyo (cañada) de Giles y su desembocadura"
+ },
+ "sintesis": "Triángulo de 308 ha encerrado entre el río de Areco, el arroyo de Giles y la línea de O'Donnell y Rodríguez, justo en la confluencia de ambos cursos y en el límite con San Antonio de Areco. Su título era un papel privado de 1858 por el que Dionisia Alem de Sosa vendió la punta de su campo a Gregorio de La Sota; en 1880 los herederos lo protocolizaron judicialmente y la viuda, Josefa Cots, encargó la mensura a Mariano Iparraguirre (1882). La diligencia es excepcional por su registro del agua: doce lados de poligonal pegados a la costa, con ordenadas de 5 a 90 m hasta la orilla, que permiten redibujar los meandros del Areco y el tramo final del arroyo de Giles en 1882. Incluye un cálculo de coordenadas completo; con él se corrige un rumbo mal copiado.",
+ "caratula": {
+  "img": "img/f/126/01.jpg",
+  "fuente": "Toma IMG_9918",
+  "campos": [
+   [
+    "Número",
+    "N.º 126 (ambos ángulos)"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Repartición",
+    "Dirección de Geodesia y Catastro de la Provincia de Buenos Aires"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Josefa Cots de la Sota"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Mariano Iparraguirre"
+   ],
+   [
+    "Año",
+    "1882"
+   ],
+   [
+    "Mes / Juzgado",
+    "en blanco"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Extracto de títulos: protocolización de la venta de Dionisia Alem de Sosa (1858-1880)",
+   "img": "img/f/126/09.jpg",
+   "fuente": "Toma IMG_9920",
+   "nota": "",
+   "lineas": [
+    "Extracto de los titulos del terreno",
+    "perteneciente á D^{a}. Josefa Cots de La Sota",
+    "— · — · —",
+    "1880 = En Buenos Aires á 28 de Agosto, por ante",
+    "el escribano público D. Cárlos Perez y testigos",
+    "el Señor Juez de 1^{a} Instancia en lo Civil D^{r}. D. Mar-",
+    "tin Bustos, hallandosé en su sala de despacho, calle",
+    "de Defensa N^{o}. 82 altos, dijo: Que por su juzgado y se-",
+    "cretaria de D. Gregorio V. Carballo, se han seguido autos",
+    "por el procurador D. Lúcas Iparraguirre, en represen-",
+    "tacion de D. Pedro B. Martinez, D^{a}. Josefa Cots de La So-",
+    "ta, D. Rómulo, D^{a}. Isabel y D^{a}. Rogelia Sota de Cejas, su-",
+    "cesores y herederos de D. Gregorio de La Sota, sobre pro-",
+    "tocolizacion del título de propiedad de un cam-",
+    "po situado en el Partido de Areco, al esterior del arroyo",
+    "de Giles, hasta dar con el rio de Areco, limitándolo",
+    "por el Sud, la linea que separa la propiedad de",
+    "D^{a}. Dionisia Alem de Sosa, con los herederos de D. Anto-",
+    "nio Rodriguez, formando este terreno un triángulo",
+    "con frente al Rio de Areco segun consta de la escri-",
+    "tura simple del campo mencionado que otorgó D^{a}. Dioni-",
+    "sia Alem de Sosa á favor del referido D. Gregorio de la",
+    "Sota en 21 de Noviembre de 1858 ante el Juez de Paz de Areco",
+    "que lo era D. Francisco Duberty [?] y los testigos D. Ma-",
+    "nuel J. Guerrico, D. Luis Cejas, D. Feliciano Cruz y D.",
+    "Hermenejildo de la Riestra, todos vecinos del Partido.",
+    "Para protocolizar el citado documento, se produjo",
+    "la informacion que obra de fj. 10 á 17 y de fojas 23 á 28 del",
+    "espediente referido, por la que se ha dado por válida",
+    "dicha escritura, declarándoló así el Juez de Paz au-",
+    "torizante de la misma y el testigo D. Luis Cejas, te-",
+    "niendo por otra parte el reconocimiento de la venta del",
+    "mismo instrumento practicado por los herederos de la",
+    "vendedora D^{a}. Dionisia Alem de Sosa, que lo son D. Estanis-",
+    "lao Zacarías [?] y D^{a}. Paula Cataldo, cuyo carácter lo justifica"
+   ],
+   "interpretacion": "El título de Josefa Cots de La Sota no es una escritura pública sino una «escritura simple» (documento privado) otorgada el 21/11/1858 por Dionisia Alem de Sosa a favor de Gregorio de La Sota ante el juez de paz de Areco Francisco Duberty [?], con testigos Manuel J. Guerrico, Luis Cejas, Feliciano Cruz y Hermenegildo de la Riestra. Describe el campo como un TRIÁNGULO «al exterior del arroyo de Giles hasta dar con el río de Areco», limitado al S por la línea que separaba a Dionisia Alem de Sosa de los herederos de Antonio Rodríguez. En 1880, muerto Gregorio de La Sota, sus herederos (la viuda Josefa Cots, Pedro B. Martínez, Rómulo, Isabel y Rogelia Sota de Cejas), por medio del procurador Lucas Iparraguirre, piden al juez civil porteño Martín Bustos que lo protocolice. Los herederos de Dionisia (Estanislao Zacarías [?] y Paula Cataldo) reconocen la venta."
+  },
+  {
+   "titulo": "Folio 1 v. · Auto de protocolización (25/8/1880) y comienzo de la escritura de 1881",
+   "img": "img/f/126/10.jpg",
+   "fuente": "Toma IMG_9921 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "el testamento que otorgó aquella Señora en 2 de Ene-",
+    "ro de 1877 en la Exaltacion de la Cruz á folios 17 vuelta",
+    "del registro de aquel lugar á cargo del escribano D.",
+    "Juan Pio Garcia, segun lo certifica á fojas 27 vuelta y",
+    "28, por lo que el Juzgado ordenó se protocolizace",
+    "por el escribano autorizante dicho documento espi-",
+    "diendo á fojas 31 el auto que dice así: \"Buenos Aires",
+    "\"Agosto 25 de 1880. — Vistos: de conformidad con el fiscal",
+    "\"en su vista de fojas 26 vuelta y en mérito de las decla-",
+    "\"raciones de fojas 11 vuelta y 15 vuelta que se aprueban en",
+    "\"cuanto ha lugar y del certificado de fojas 27 vuelta,",
+    "\"se declara documento público el agregado á fojas 22.",
+    "\"En su virtud, previo pago de costas y reposicion de",
+    "\"sellos, protocolízase ese documento en el registro á",
+    "\"cargo del escribano D. Cárlos Perez y archívese. Juez",
+    "\"D^{r}. D. Martin Bustos = Ante mí = Gregorio V. Carballo.\"",
+    "Lo relacionado es conforme con lo actuado en el",
+    "espediente rotulado \"Martinez D. Pedro B. y otros sobre",
+    "protocolizacion\" de un título que tuve á la vista",
+    "que queda para archivarse en la secretaria de D.",
+    "Gregorio V. Carballo, de lo que doy fé — por tanto el",
+    "Señor Juez, llevando á efecto el auto inserto, en",
+    "uso de la facultad que ejerce y como mas haya",
+    "lugar en derecho, otorga y declara: Que dá por pro-",
+    "tocolizado en una foja útil el documento",
+    "simple á que se ha hecho alusion, consintiendo",
+    "en que tanto de él como de esta escritura se les dé",
+    "copia á los interesados, en su testimonio así",
+    "lo otorgó y previa lectura en lo que se ratificaron",
+    "firmó — D^{r}. D. Martin Bustos — siendo testigos D.",
+    "Esteban A. Romero y D. Javier Isaac Gomensoro, veci-",
+    "nos y mayores de edad — Escribano Cárlos Perez f. 12",
+    "1881 — En San Antonio de Areco á 31 de Octubre",
+    "compareció ante el escribano D. José A. Esquiaga [?]",
+    "de dicho partido, D^{a}. Josefa Cots de La Sota y otorgó"
+   ],
+   "interpretacion": "Inserción del auto del 25/8/1880 que declara documento público el papel de 1858 (con vista fiscal, declaraciones de testigos y certificado del testamento de Dionisia otorgado en Exaltación de la Cruz el 2/1/1877) y lo manda protocolizar en el registro de Carlos Pérez. El 31/10/1881, en San Antonio de Areco, Josefa Cots de La Sota otorga poder ante el escribano José A. Esquiaga [?]. Es una pieza rara del corpus: muestra cómo un título informal de la frontera de 1858 se convierte en título perfecto veinte años después por vía judicial."
+  },
+  {
+   "titulo": "Folio 2 · Poder, nombramiento del agrimensor y circular de citación (1881-1882)",
+   "img": "img/f/126/11.jpg",
+   "fuente": "Toma IMG_9921 · página derecha",
+   "nota": "",
+   "lineas": [
+    "poder á favor del vecino del mismo D. José T. Burgueño [?],",
+    "para que en su nombre solicite la mensura de",
+    "un campo de su propiedad, situado en el dicho par-",
+    "tido y nombre el agrimensor de su eleccion para prac-",
+    "ticar la mensura. (fojas 3 vuelta)",
+    "En 8 de Noviembre — Se presenta ante el Señor",
+    "Juez de 1^{a}. Instancia D. José Burgueño [?] en representacion",
+    "de D^{a}. Josefa Cots de la Sota, pidiendo hacer mensura",
+    "y division del campo de su representada, ubicado",
+    "en el partido de San Antonio de Areco y propone pa-",
+    "ra la operacion al agrimensor que firma.",
+    "En 9 del mismo fuí nombrado por dicho Señor",
+    "Juez de 1^{a}. Instancia D^{r}. Bustos.",
+    "En la misma fecha se me notificó y recibí",
+    "el espediente.",
+    "1882 — En 4 de Marzo tomé antecedentes en el Depar-",
+    "tamento de Ingenieros.",
+    "Partido de Giles Marzo 11 de 1882 — Estancia de D^{a}. Jose-",
+    "fa Cots de la Sota. Circular — A los Señores linderos",
+    "del terreno que se mide.",
+    "El que firma, autorizado judicialmente",
+    "por despacho del Señor Juez de 1^{a}. Instancia en lo Ci-",
+    "vil D^{r}. D. Martin Bustos con fecha 9 de Noviembre de",
+    "1881, para medir el terreno perteneciente á D^{a}. Josefa",
+    "Cots de la Sota, ubicado en este partido, previene á",
+    "V^{d}. como lindero, que el dia 12 del corriente dará prin-",
+    "cipio á dicha operacion, tomando por punto de partida",
+    "el mojon esquinero Norte de D. Nicolas O'donnell y Oeste",
+    "del terreno que se mide; á fin de que pueda V^{d}. con-",
+    "currir con sus títulos, á ver si se sobrepasan ó no los",
+    "límites de su propiedad.",
+    "Y siendo necesario hacer constar haberse prac-",
+    "ticado esta citacion en tiempo oportuno, se servirá V^{d}.",
+    "darse por notificado poniendo su firma al pié ó es-",
+    "paldas de la presente = firmado = Mariano Iparraguirre",
+    "= firmado = Nicolas O'donel = A ruego de mi Señor pa-",
+    "dre D. José Rodriguez por no saber firmar firma = Vicente"
+   ],
+   "interpretacion": "Cronología: poder a José T. Burgueño [?]; pedido de mensura y división ante el juez (8/11/1881) para un campo que el escrito ubica en San Antonio de Areco; nombramiento de Mariano Iparraguirre (9/11/1881); antecedentes en el Departamento de Ingenieros (4/3/1882). Circular a los linderos fechada en el «Partido de Giles, 11/3/1882, Estancia de D.ª Josefa Cots de la Sota», anunciando el arranque para el día 12 desde el mojón esquinero N de Nicolás O'Donnell. Firman la circular Nicolás O'Donnell y, a ruego de José Rodríguez que no sabe firmar, su hijo Vicente Rodríguez."
+  },
+  {
+   "titulo": "Folio 2 v. · Diligencia de mensura: frente al río de Areco por poligonal con ordenadas (B-m-a-b)",
+   "img": "img/f/126/12.jpg",
+   "fuente": "Toma IMG_9922 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "Rodriguez —",
+    "Diligencia de Mensura.",
+    "El que firma, autorizado judicialmen-",
+    "te por despacho del Señor Juez de 1^{a}. Instancia en",
+    "lo Civil D^{r}. D. Martin Bustos con fecha 9 de Noviem-",
+    "bre de 1881 para medir el terreno perteneciente á D^{a}.",
+    "Josefa Cots de la Sota, ubicado en el partido de",
+    "Giles. Despues de publicados los edictos y aviso á los",
+    "linderos, segun consta de los diarios y circulares que",
+    "originales acompaño. Dí principio á esta opera-",
+    "cion el dia 12 de Marzo del corriente año, tomando",
+    "por punto de partida el mojon esquinero Norte de",
+    "D. Nicolas O'donell letra B del plano adjunto que",
+    "dista del rio de Areco diez (10) metros. Enfilada la linea",
+    "A B de mojones existentes, medí por el frente al rio de",
+    "Areco por el Norte ochenta y siete grados tres minutos",
+    "Este (N 87° 3′ E) — cuatrocientos tres metros seis decímetros",
+    "(403,6) de B hasta m, levantando á la izquierda",
+    "las perpendiculares siguientes hasta dar con el rio",
+    "de Areco: á ciento ochenta (180) metros una de vein-",
+    "te (20) metros, á doscientos cincuenta (250) metros otra",
+    "de treinta y cinco (35) metros y en el todo de la distan-",
+    "cia una de diez (10) metros. De m por el Norte ochenta",
+    "y siete grados cuarenta y cinco minutos Este (N 87° 45′ E)",
+    "medí trescientos treinta y cuatro (334) metros hasta a",
+    "donde quedó el rio treinta y tres (33) metros á la",
+    "izquierda, habiendo levantado una ordenada",
+    "á doscientos cuarenta (240) metros de cuarenta (40)",
+    "metros. De a por el Norte cuarenta y un gra-",
+    "dos cinco minutos Este (N 41° 5′ E) medí seiscientos",
+    "trece metros ocho decímetros (613,8) hasta b donde",
+    "quedó dicho rio diez y ocho (18) metros á la izquierda",
+    "habiendosé levantado las perpendiculares siguientes",
+    "á sesenta (60) metros una de cinco (5) metros, á doscien-",
+    "tos (200) metros otra de sesenta (60) metros y á trescien-"
+   ],
+   "interpretacion": "Comienza la diligencia (12/3/1882). Mojón B, esquinero N de O'Donnell, a 10 m del río de Areco. Iparraguirre no mide una línea recta sino una poligonal de rodeo pegada a la costa: B-m N 87° 3′ E 403,6 m, m-a N 87° 45′ E 334 m, a-b N 41° 5′ E 613,8 m, y desde cada línea levanta perpendiculares «a la izquierda hasta dar con el río» (20, 35, 10, 40, 5, 60 m…). Esas ordenadas permiten dibujar el meandro con precisión de pocos metros: es una fuente directa para reconstruir el curso del río de Areco en 1882."
+  },
+  {
+   "titulo": "Folio 3 · Poligonal b-c-d-e: confluencia del río de Areco con el arroyo de Giles",
+   "img": "img/f/126/13.jpg",
+   "fuente": "Toma IMG_9922 · página derecha",
+   "nota": "",
+   "lineas": [
+    "tos cincuenta (350) metros otra de setenta y cinco (75) me-",
+    "tros, todas á la izquierda hasta el rio de Areco. De b por el",
+    "Norte veintisiete grados veintidos minutos Este (N 27° 22′ E)",
+    "medí doscientos sesenta y nueve metros cinco decímetros",
+    "(269,5) hasta c donde quedó el rio treinta y cinco (35) me-",
+    "tros á la izquierda y se levantaron las ordenadas que",
+    "siguen: á cien (100) metros una de diez (10) y á doscientos",
+    "(200) metros otra de sesenta. De c por el Norte cincuenta",
+    "y cinco grados diez minutos Este (N 55° 10′ E) medí hasta",
+    "d doscientos cuarenta y dos metros ocho decímetros (242,8)",
+    "quedando el rio diez (10) metros á la izquierda, habiendo-",
+    "se levantado las perpendiculares que siguen: á cin-",
+    "cuenta (50) metros una de ochenta y cinco (85) y á ciento",
+    "cincuenta (150) metros otra de cincuenta (50) metros.",
+    "De d por el Norte veinticuatro grados treinta",
+    "y ocho minutos Este (N 24° 38′ E) medí trescientos treinta",
+    "metros tres decímetros (330,3) hasta e confluencia del",
+    "rio de Areco con el arroyo de Giles; á contar de d á setenta",
+    "(70) metros toqué el rio de Areco, á doscientos treinta (230)",
+    "metros una perpendicular ochenta (80) metros á la",
+    "izquierda hasta dicho rio y á trescientos veinticinco",
+    "(325) metros otra de cuarenta hasta el mismo. De e",
+    "por el frente al arroyo de Giles, rumbo Sud cuatro gra-",
+    "dos treinta y tres minutos Oeste (S 4° 33′ O) medí hasta f",
+    "trescientos cuarenta y cuatro metros cuatro decímetros",
+    "(344,4) quedando dicho arroyo veinticinco (25) metros á la iz-",
+    "quierda; en f levanté las ordenadas que siguen hasta",
+    "tocar con el citado arroyo: á trece (13) metros una de",
+    "cuarenta y cinco (45) metros, á ciento veinticinco (125)",
+    "metros pasé por el borde, á ciento noventa (190) me-",
+    "tros una de diez (10) metros y á trescientos (300) metros",
+    "otra de veinte (20) metros. De f por el Sud cuarenta y",
+    "siete grados cuarenta y siete minutos Este, medí hasta",
+    "g doscientos ochenta metros (280) donde quedó el arroyo",
+    "veinte (20) metros á la izquierda, habiendosé levantado",
+    "una perpendicular á ciento veinticinco (125) metros",
+    "de quince (15) metros hasta el mismo. De g por"
+   ],
+   "interpretacion": "Siguen b-c N 27° 22′ E 269,5, c-d N 55° 10′ E 242,8 y d-e N 24° 38′ E 330,3 hasta e, «confluencia del río de Areco con el arroyo de Giles». Desde allí la poligonal remonta el arroyo: e-f S 4° 33′ O 344,4 m y f-g S 47° 47′ E 280 m, siempre con ordenadas hasta la orilla. El vértice e es el mismo punto de la desembocadura que fijó Differt en 1858 para Dionisia Alen de Sosa (ficha 021)."
+  },
+  {
+   "titulo": "Folio 3 v. · Poligonal g-h-k-A por la costa del arroyo de Giles y línea A-B",
+   "img": "img/f/126/14.jpg",
+   "fuente": "Toma IMG_9923 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "el Sud cinco grados seis minutos Oeste (S 5° 6′ O) medí hasta",
+    "h mil ochocientos diez y siete (1817) metros quedando en este",
+    "punto veinte (20) metros á la izquierda el citado arroyo; se han",
+    "levantado las perpendiculares que siguen hasta dar con",
+    "el mismo, todas á la izquierda: á cien (100) metros una",
+    "de veinticinco, á trescientos (300) metros otra de doce (12)",
+    "metros, á quinientos (500) metros otra de treinta y dos (32),",
+    "á setecientos (700) metros toqué el arroyo, á novecientos",
+    "cincuenta (950) metros otra de treinta y cinco (35) metros,",
+    "á mil trescientos cincuenta (1350) metros otra de cin-",
+    "cuenta y cinco (55), á mil quinientos (1500) metros otra",
+    "de (10) diez y á mil setecientos cincuenta (1750) metros una",
+    "de treinta (30). De h por el Sud ocho grados cuarenta y",
+    "un minutos Oeste (S 8° 41′ O) medí seiscientos veintisie-",
+    "te metros seis decímetros (627,6) hasta k, quedando en",
+    "este punto ochenta (80) metros á la izquierda el citado",
+    "arroyo; á ciento veinticinco (125) metros pasé por el",
+    "borde de dicho arroyo y á quinientos (500) metros una",
+    "perpendicular de sesenta y cinco (65) metros. De k por",
+    "el Sud catorce grados veintidos minutos Este (S 14° 22′ E)",
+    "medí hasta el mojon A esquinero Este del terreno",
+    "de D. José Rodriguez y del que se mide mil ciento veinti-",
+    "siete metros cuatro decímetros (1127,4) quedando el arroyo",
+    "de Giles veintitres (23) metros mas adelante en la direccion",
+    "de la linea B A y (10) diez metros á la izquierda.",
+    "En esta linea se han levantado las ordenadas que siguen:",
+    "á doscientos cincuenta (250) metros una de veinticinco (25),",
+    "á trescientos cincuenta (350) metros otra de ochenta (80), á",
+    "quinientos (500) metros otra de sesenta (60) metros, á sete-",
+    "cientos (700) metros otra de cuarenta y cinco (45), á ochocien-",
+    "tos cincuenta (850) metros otra de noventa (90) y á mil (1000)",
+    "metros otra de sesenta (60). Por la linea A B, rumbo Norte",
+    "treinta y dos grados veintisiete minutos Oeste (N 32° 27′ O)",
+    "lindando con D. José Rodriguez y D. Nicolas O'donell medí desde",
+    "el arroyo de Giles hasta dar con el Rio de Areco, tres mil",
+    "quinientos treinta y tres (3533) metros; en dicha linea y",
+    "á contar del arroyo de Giles, á veintitres (23) metros se encuentra"
+   ],
+   "interpretacion": "g-h S 5° 6′ O 1817 m, h-k S 8° 41′ O 627,6 m y k-A S 14° 22′ E 1127,4 m siguen el arroyo de Giles hasta el mojón A, esquinero E del campo de José Rodríguez. Luego la base A-B, N 32° 27′ O, contra José Rodríguez y Nicolás O'Donnell: 3533 m del arroyo al río."
+  },
+  {
+   "titulo": "Folio 4 · Cierre, superficie, linderos, variación y abalizamientos",
+   "img": "img/f/126/15.jpg",
+   "fuente": "Toma IMG_9923 · página derecha",
+   "nota": "",
+   "lineas": [
+    "el mojon A, á mil ciento seis metros seis decímetros",
+    "(1106,6) el mojon divisorio entre D. José Rodriguez y D.",
+    "Nicolas O'donell y á tres mil quinientos veintitres",
+    "(3523) metros el mojon B punto de partida, con lo que con-",
+    "cluí la operacion.",
+    "La figura del terreno medido es la comprendida",
+    "por las letras B m a b c d e f g h k A, el rio de Areco y el",
+    "arroyo de Giles, en forma de triángulo, cuya superficie",
+    "es igual á tres millones ochenta y dos mil cuatrocien-",
+    "tos cuarenta y ocho (3082448) metros cuadrados igual á",
+    "trescientas ocho hectáreas veinticuatro áreas cuarenta",
+    "y ocho centiáreas (308^{h}. 24^{a}. 48^{ca}.)",
+    "Linda del modo siguiente: por el Norte y Nor-",
+    "Oeste con el rio de Areco, por el Nor-Este con el arro-",
+    "yo de Giles y por el Sud D. Nicolas O'donell y D. José",
+    "Rodriguez.",
+    "Los rumbos son verdaderos.",
+    "La variacion de la aguja es del Norte once grados vein-",
+    "ticuatro minutos Este (N 11° 24′ E)",
+    "Los linderos D. Nicolas O'donell y D. José Rodriguez",
+    "han firmado la circular conformes y se encontraban",
+    "en el acto de la mensura; no se ha levantado acta,",
+    "por que como dice la ley debe ser cuando dichos lin-",
+    "deros estén presentes, una vez concluida la opera-",
+    "cion, y como en esta no estaban al concluirla, no",
+    "hubo ocasion de levantar dicha acta.",
+    "Avalizamiento de los mojones á la dere-",
+    "cha de las lineas.",
+    "Mojon B linea de base B A",
+    "Estancia de Durand [?] —— 75° 58′",
+    "Puesto de Guerrico \"La Argentina\" —— 144° 15′",
+    "Estancia de Rómulo La Sota —— 351° 10′",
+    "Mojon e linea de base e f",
+    "Estancia de Rómulo La Sota — 10°",
+    "Puesto de la Sota —— 12° 9′"
+   ],
+   "interpretacion": "En la base: A a 23 m del arroyo, mojón divisorio Rodríguez/O'Donnell a 1106,6 m y B a 3523 m (A-B = 3500 m). Superficie 3 082 448 m² = 308,24 ha. Linda N y NO con el río de Areco, NE con el arroyo de Giles, S con O'Donnell y Rodríguez. Rumbos verdaderos; variación N 11° 24′ E. No se levantó acta porque los linderos, presentes al empezar, no estaban al concluir: la ley exige el acta con los linderos presentes al fin de la operación. Abalizamientos en azimut: estancia de Durand [?], puesto de Guerrico «La Argentina», estancia y puesto de Rómulo La Sota."
+  },
+  {
+   "titulo": "Folio 4 v. · Abalizamientos (mojón A) y cálculo de coordenadas",
+   "img": "img/f/126/16.jpg",
+   "fuente": "Toma IMG_9924 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "Estancia de Durand [?] —— 44° 29′ —",
+    "Mojon A linea de base A B.",
+    "Estancia de D. Rómulo La Sota —— 11° 25′ —",
+    "Estancia de D. Lucas Scully [?] —— 121° 55′ —",
+    "Estancia de D. José Rodriguez —— 299° 10′ —",
+    "Cálculo de Coordenadas.",
+    "[ángulo medido | cuadrante | ángulo reducido | lado medido | coord. simples Y · X | sumadas Y | productos − · +]",
+    "18° 5′ | 1 | 18° 5′ | 1127.4 | + 349.8 | + 1071.3 | + 349.8 | \" | 374 740.7",
+    "203° 3′ | 1 | 41° 8′ | 627.6 | + 412.8 | + 472.5 | + 762.6 | \" | 525 609.0",
+    "175° 25′ | 1 | 37° 33′ | 1817.0 | + 1107.0 | + 1439.8 | + 1869.6 | \" | 3 789 841.6",
+    "127° 7′ | 4 | 15° 26′ | 280.0 | − 74.0 | + 270.0 | + 1795.6 | \" | 989 604.0",
+    "232° 26′ | 1 | 37° — | 344.4 | + 207.2 | + 275.0 | + 2002.8 | \" | 1 044 560.0",
+    "20° 5′ | 3 | 57° 5′ | 330.3 | − 277.3 | − 179.8 | + 1725.5 | 670 348.3 | \"",
+    "210° 32′ | 3 | 87° 37′ | 242.8 | − 242.6 | − 10.2 | + 1482.9 | 32 725.7 | \"",
+    "152° 12′ | 3 | 59° 49′ | 269.5 | − 232.9 | − 135.8 | + 1250.0 | 371 127.8 | \"",
+    "203° 43′ | 3 | 83° 32′ | 613.8 | − 609.9 | − 69.2 | + 640.1 | 130 794.9 | \"",
+    "216° 40′ | 4 | 59° 48′ | 334.0 | − 288.7 | + 168.0 | + 351.4 | \" | 166 572.0",
+    "179° 18′ | 4 | 60° 30′ | 403.6 | − 357.4 | + 198.4 | \" | \" | 69 717.7",
+    "60° 30′ | 2 | — | 3500.0 | \" | − 3500.0 | \" | \" | \"",
+    "Sumas: 1 204 996.7 | 6 960 645.4",
+    "6 960 645.4 − 1 204 996.7 = 5 755 648.4 ; mitad = 2 877 824.0",
+    "Sup. entre las lineas medidas y el arroyo de Giles 131 627.0",
+    "Sup. entre las lineas medidas y el Rio de Areco 72 997.0",
+    "Sup. total = m^{s}. c^{s}. = 3,082448",
+    "Buenos Aires Agosto 19/882",
+    "Mariano Iparraguirre",
+    "[sello oval: Departamento de Ingenieros · Entrada · 19 AGO 1882]"
+   ],
+   "interpretacion": "Desde A se visan la estancia de Rómulo La Sota, la de Lucas Scully [?] y la de José Rodríguez. El «Cálculo de coordenadas» refiere todos los lados a la base A-B como eje: ángulos reducidos, coordenadas parciales y sumadas y productos cruzados (fórmula del área de Gauss). El polígono rectilíneo da 2 877 824 m²; se le suman 131 627 m² entre las líneas y el arroyo y 72 997 m² entre las líneas y el río = 3 082 448 m². Firmado en Buenos Aires el 19/8/1882; entrada al D. I. el mismo día. La tabla revela que el lado a-b se calculó con 83° 32′ respecto de la base, es decir rumbo N 51° 5′ E: el «N 41° 5′ E» del texto (f. 2 v.) es error de copia; con 51° 5′ el polígono cierra con 2,7 m de error (verificado en esta ficha)."
+  },
+  {
+   "titulo": "Folio 5 · Oficio del juez al Departamento de Ingenieros: aprobación judicial (1883)",
+   "img": "img/f/126/17.jpg",
+   "fuente": "Toma IMG_9924 · página derecha",
+   "nota": "",
+   "lineas": [
+    "10 – 119 – 72 [?]",
+    "[sello fiscal: Dirección General de Rentas de la Provincia de Buenos Aires · 1883 · Seis pesos · N.^{o} 122045]",
+    "Corresp.^{de}",
+    "Buenos Aires, Mayo 31 de 1883.",
+    "Al Señor Presidente del De-",
+    "partamento de Ingenieros de la",
+    "Provincia.",
+    "Comunico á U^{d}. que con fecha diez",
+    "y nueve del presente mes y año, ha sido",
+    "aprobada por este Juzgado la mensura",
+    "practicada por el Agrimensor Don",
+    "Mariano Iparraguirre, en un cam-",
+    "po de propiedad de Doña Josefa Cots",
+    "de La Sota, situado en el Partido de",
+    "San Antonio de Areco.",
+    "Dios Guarde á U^{d}.",
+    "Adolfo [?] Ubaldo [?] [firma]",
+    "Ante mí — Ramon [?] [firma]",
+    "[sello oval: Departamento de Ingenieros · 6 JUN 1883]",
+    "[al margen, a lápiz:] Giles 126"
+   ],
+   "interpretacion": "Oficio del juzgado (31/5/1883) al presidente del Departamento de Ingenieros: la mensura fue aprobada judicialmente el 19/5/1883. El juez sigue ubicando el campo en San Antonio de Areco, mientras el agrimensor lo pone en Giles: el triángulo entre el arroyo de Giles y el río de Areco estaba en la frontera jurisdiccional de ambos partidos. Sello fiscal de 1883 (seis pesos), entrada al D. I. 6/6/1883."
+  },
+  {
+   "titulo": "Dorso del oficio · Decreto de agregación (12/6/1883)",
+   "img": "img/f/126/18.jpg",
+   "fuente": "Toma IMG_9925 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "[al margen superior derecho:] Departamento [de] Ingenieros",
+    "Junio 12/83",
+    "Agréguese al dupl.^{do} correspond.^{te}",
+    "Coquet"
+   ],
+   "interpretacion": "Proveído del Departamento de Ingenieros (12/6/1883): agréguese el oficio al duplicado. Firma Coquet: confirma la lectura «Jorge Coquet» de los dictámenes de 125 y 126."
+  },
+  {
+   "titulo": "Folio 6 · Dictamen del Departamento de Ingenieros (8/5/1883)",
+   "img": "img/f/126/19.jpg",
+   "fuente": "Toma IMG_9925 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[Se]ñor Juez de 1^{a}. Instancia:",
+    "El Departamento de Ingenie-",
+    "ros ha examinado la presente",
+    "mensura y la aprueba en la par-",
+    "te facultativa.",
+    "Mayo 8 de 1883.",
+    "Lagos     Jorge Coquet"
+   ],
+   "interpretacion": "Dictamen técnico del Departamento de Ingenieros (8/5/1883), firmado por Lagos y Jorge Coquet: aprueba la mensura en la parte facultativa. Mismos firmantes que en la 125 (19/12/1882)."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de J. Cots de La Sota (Iparraguirre, 1882)",
+   "img": "img/f/126/03.jpg",
+   "fuente": "Toma IMG_9926",
+   "orientacion": "flecha de norte (con la variación «Var. N 11° 24′ E») hacia el NO; la base A-B horizontal abajo",
+   "interpretacion": "Plano en tela, triángulo sombreado con el rótulo «J. COTS DE LASOTA · Área 3,082448 m. c.». A la izquierda el «Río de Areco» con sus meandros; arriba a la izquierda la confluencia; en diagonal la «Cañada de Giles» (así la llama el plano, mientras el texto dice «arroyo»). Dentro, «Estª de R. La Sota» con su arboleda. Abajo, Nicolás O'Donnel y José Rodrigues separados por la línea divisoria a 1106,6 m de A. Firma: Buenos Aires, agosto 19/882, Mariano Iparraguirre. Escala gráfica de 500 m.",
+   "referencias": [
+    [
+     "B",
+     "esquinero N de O'Donnell, a 10 m del río de Areco; punto de partida"
+    ],
+    [
+     "m, a, b, c, d",
+     "vértices de la poligonal sobre el río de Areco"
+    ],
+    [
+     "e",
+     "confluencia del río de Areco con el arroyo de Giles"
+    ],
+    [
+     "f, g, h, k",
+     "vértices de la poligonal sobre el arroyo/cañada de Giles"
+    ],
+    [
+     "A",
+     "esquinero E de José Rodríguez, a 23 m del arroyo"
+    ],
+    [
+     "A-B",
+     "N 32° 27′ O 3533 m (3500 entre mojones), contra Rodríguez y O'Donnell"
+    ],
+    [
+     "Ordenadas",
+     "perpendiculares numeradas desde cada lado hasta la orilla"
+    ],
+    [
+     "Estª de R. La Sota",
+     "población con arboleda, en el centro-S del triángulo"
+    ],
+    [
+     "Var. N 11° 24′ E",
+     "flecha de declinación magnética"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: confluencia y costa del río de Areco",
+   "img": "img/f/126/04.jpg",
+   "fuente": "Toma IMG_9927",
+   "orientacion": "como el general",
+   "interpretacion": "Vértices m-a-b-c-d-e con rumbos, distancias y ordenadas al río; el meandro dibujado con línea gruesa ondulada.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: cañada de Giles (tramo central)",
+   "img": "img/f/126/05.jpg",
+   "fuente": "Toma IMG_9928",
+   "orientacion": "como el general",
+   "interpretacion": "Lado g-h (S 5° 6′ O 1817) con sus ordenadas a la cañada; leyenda «Nicolas O'Donnel» y área.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: tramo h-k-A sobre la cañada",
+   "img": "img/f/126/06.jpg",
+   "fuente": "Toma IMG_9929",
+   "orientacion": "como el general",
+   "interpretacion": "Últimos lados sobre el arroyo hasta el mojón A; flecha de variación.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: mojón A, José Rodríguez y firma",
+   "img": "img/f/126/07.jpg",
+   "fuente": "Toma IMG_9930",
+   "orientacion": "como el general",
+   "interpretacion": "Esquina SE: mojón A, línea de José Rodríguez, firma de Iparraguirre.",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia de 1936 (Geodesia, Catastro y Mapa, M.O.P.)",
+   "img": "img/f/126/08.jpg",
+   "fuente": "Toma IMG_9931",
+   "orientacion": "como el original",
+   "interpretacion": "Rótulo: «Es copia del plano agregado al duplicado n.º 126 del partido de San Andrés de Giles mensura practicada en agosto de 1882 por el Agrimensor Mariano Iparraguirre. La Plata, febrero de 1936». Sello Geodesia-Catastro y Mapa · M.O.P. · Dirección; firma del director. «Dib. por: D. O. Massabó · Rev. por: J. S. Chiappino».",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje: el agua como límite",
+   "texto": "Es la mensura del corpus que mejor registra un curso de agua. En lugar de cortar con una recta, Iparraguirre rodea el campo con 11 lados quebrados a pocos metros de la orilla y levanta 35 ordenadas (5 a 90 m) hasta el río de Areco y el arroyo de Giles; en un punto «pasé por el borde» y en otros «toqué el río». Superficie de las franjas entre la poligonal y el agua: 13,2 ha (arroyo) y 7,3 ha (río). Con estas ordenadas se puede digitalizar en el GIS la orilla de 1882 y compararla con la actual. El plano llama «Cañada de Giles» al tramo final del arroyo: el mismo curso tiene dos nombres según el documento."
+  },
+  {
+   "titulo": "Paisaje habitado",
+   "texto": "Los abalizamientos nombran la estancia de Rómulo La Sota (dentro del triángulo, con arboleda en el plano) y un «puesto de la Sota», el puesto «La Argentina» de Guerrico (cf. Manuel J. Guerrico, testigo de 1858), las estancias de Durand [?], Lucas Scully [?] y José Rodríguez. José Rodríguez no sabía firmar: firmó por él su hijo Vicente. Al sur, O'Donnell (irlandés; cf. el terreno de O'Donnell en carmín de la ficha 043)."
+  },
+  {
+   "titulo": "Ritual jurídico",
+   "texto": "Doble ritual: primero la conversión de un papel privado de frontera (1858, ante juez de paz, con testigos vecinos) en documento público mediante información de testigos, vista fiscal, reconocimiento de los herederos de la vendedora y protocolización (1880); después la mensura con edictos, circular firmada por los linderos, antecedentes del D. I., cálculo y aprobación técnica y judicial. Nota procedimental: no se labró acta porque los linderos se fueron antes de terminar, y la ley (Código de Procedimientos) exige el acta con los linderos presentes al concluir."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos verdaderos, variación N 11° 24′ E (marzo de 1882; Schuster usa 12° NE en septiembre del mismo año, y la 123 copiaba 11° 42′). Cálculo analítico de la superficie por coordenadas referidas a la base A-B (método de Gauss), con columnas de productos positivos y negativos: es el cálculo más explícito del corpus. Verificación de la ficha: con los rumbos del texto el polígono no cierra (≈ 105 m); con N 51° 5′ E en a-b —el valor que usa la tabla de coordenadas— cierra con 2,7 m y da 2 881 440 m², a 0,1 % de lo declarado. El «N 41° 5′ E» es error de copia."
+  },
+  {
+   "titulo": "Jurisdicción y frontera",
+   "texto": "El juzgado y los herederos ubican el campo en San Antonio de Areco; el agrimensor, el duplicado y Geodesia lo ponen en Giles. El triángulo de la confluencia era un borde ambiguo entre ambos partidos. El título de 1858 se otorgó ante el juez de paz de Areco y el testamento de la vendedora en Exaltación de la Cruz."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "(1) 021 (Differt 1858): mensura de Dionisia Alen de Sosa en la desembocadura del arroyo de Giles en el río de Areco, con protesta de Chapeaurouge por Del Sar. La venta a Gregorio de La Sota es del 21/11/1858, el mismo año: la punta del campo de Dionisia se vendió apenas medida. «Alen» y «Alem» son la misma persona. (2) 043 (Meyrelles): terreno de O'Donnell en la cabecera NO de la red de la Paloma. (3) 006 y 044: Riestra (Hermenegildo de la Riestra, testigo). (4) 038: Morgan ex Guerrico (Manuel J. Guerrico). (5) 125: mismos firmantes del D. I. (Lagos y Jorge Coquet). (6) Iparraguirre/Ybarraguirre de 056 y 058 (1870) probablemente es el mismo agrimensor: confirmar grafía."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Lecturas dudosas: Duberty (juez de paz de Areco 1858), Estanislao Zacarías, José T. Burgueño, Esquiaga, Durand, Lucas Scully, el juez firmante del oficio de 1883. ¿Qué relación hay entre el procurador Lucas Iparraguirre y el agrimensor Mariano Iparraguirre? ¿Pedro B. Martínez es heredero o cesionario? Superponer las ordenadas al curso actual del río de Areco y del arroyo de Giles en el GIS."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Mariano Iparraguirre",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor público. Firma en Buenos Aires (19/8/1882). Probablemente el mismo «Ybarraguirre» de las fichas 056 y 058 (1870), que también trabajó la margen O del arroyo de Giles con mojones heredados. Su estilo: poligonales con ordenadas y cálculo por coordenadas.",
+   "fuentes": "esta mensura; fichas 056, 058; búsqueda web en sesiones previas sin resultados"
+  },
+  {
+   "nombre": "Josefa Cots de La Sota",
+   "rol": "Propietaria",
+   "texto": "Viuda de Gregorio de La Sota; heredera junto a sus hijos. Otorgó poder en San Antonio de Areco el 31/10/1881. La circular de 1882 habla de la «Estancia de D.ª Josefa Cots de la Sota».",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Gregorio de La Sota",
+   "rol": "Comprador (1858)",
+   "texto": "Compró el triángulo a Dionisia Alem de Sosa por escritura simple (21/11/1858). Murió antes de 1880. Hijos: Rómulo, Isabel y Rogelia (casada Cejas). Búsqueda web sin datos específicos.",
+   "fuentes": "esta mensura; búsqueda web sin resultados"
+  },
+  {
+   "nombre": "Rómulo La Sota",
+   "rol": "Heredero / poblador",
+   "texto": "Hijo de Gregorio; tenía su estancia dentro del triángulo (dibujada en el plano) y un puesto: visados desde los mojones B, e y A.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Dionisia Alem (Alen) de Sosa",
+   "rol": "Vendedora",
+   "texto": "Propietaria del campo de la desembocadura del arroyo de Giles medido por Differt en 1858 (ficha 021). Testó en Exaltación de la Cruz el 2/1/1877; herederos Estanislao Zacarías [?] y Paula Cataldo.",
+   "fuentes": "esta mensura; ficha 021"
+  },
+  {
+   "nombre": "Nicolás O'Donnell",
+   "rol": "Lindero s",
+   "texto": "Lindero S; firmó la circular. Apellido irlandés; cf. el terreno de O'Donnell en la ficha 043 (mensura de 1857 de los herederos de Felipe Figueroa).",
+   "fuentes": "esta mensura; ficha 043"
+  },
+  {
+   "nombre": "José Rodríguez y Vicente Rodríguez",
+   "rol": "Lindero s / hijo",
+   "texto": "José Rodríguez, lindero SE, no sabía firmar; firmó a su ruego su hijo Vicente. Posible heredero de Antonio Rodríguez, citado como lindero en 1858.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Martín Bustos",
+   "rol": "Juez",
+   "texto": "Juez de 1.ª Instancia en lo Civil de la ciudad de Buenos Aires (despacho en Defensa 82, altos), secretaría de Gregorio V. Carballo. Ordenó la protocolización (1880) y la mensura (1881).",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Lucas Iparraguirre",
+   "rol": "Procurador",
+   "texto": "Procurador de los herederos de La Sota en la protocolización (1880). Mismo apellido que el agrimensor: posible parentesco.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Manuel J. Guerrico, Luis Cejas, Feliciano Cruz, Hermenegildo de la Riestra",
+   "rol": "Testigos (1858)",
+   "texto": "Vecinos de Areco testigos de la venta. Guerrico tenía en 1882 el puesto «La Argentina» visado desde B; la familia Riestra es lindera en 006 y 044; Cejas se emparenta con los La Sota (Rogelia Sota de Cejas).",
+   "fuentes": "esta mensura; fichas 006, 038, 044"
+  },
+  {
+   "nombre": "Lagos y Jorge Coquet",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firmantes de los dictámenes técnicos de 125 (19/12/1882) y 126 (8/5/1883). Coquet firma además el proveído de agregación (12/6/1883).",
+   "fuentes": "esta mensura; ficha 125"
+  },
+  {
+   "nombre": "Otros nombrados",
+   "rol": "Varios",
+   "texto": "Escribanos Carlos Pérez, Juan Pío García (Exaltación de la Cruz), José A. Esquiaga [?]; testigos Esteban A. Romero y Javier Isaac Gomensoro; Pedro B. Martínez (coheredero o cesionario); José T. Burgueño [?] (apoderado); Durand [?] y Lucas Scully [?] (estancieros vecinos); Francisco Duberty [?] (juez de paz de Areco, 1858); dibujantes de 1936 D. O. Massabó y J. S. Chiappino.",
+   "fuentes": "esta mensura"
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/126/02.jpg",
+  "fuente": "Toma IMG_9919",
+  "lineas": [
+   "8 – 146 541",
+   "Giles 126.",
+   "Duplicado de la diligencia de",
+   "mensura del terreno perteneciente á",
+   "D^{a}. Josefa Cots de la Sota",
+   "ubicado en el partido de",
+   "Giles",
+   "— 1882. —"
+  ]
+ },
+ "titulo": "Josefa Cots de La Sota",
+ "estado": "Transcripta (11 hojas, 309 renglones), 6 láminas"
+}
