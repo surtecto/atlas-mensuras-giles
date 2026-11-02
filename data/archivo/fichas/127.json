@@ -1,0 +1,605 @@
+{
+ "carpeta": "127",
+ "carpeta_nombre": "Carpeta 127",
+ "archivo": "Ficha 127 - José María Casado (1883).docx",
+ "resumen": {
+  "Propietario / solicitante": "José María Casado",
+  "N.º de duplicado": "127",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1883",
+  "Fecha de la diligencia": "Pedido 20/3/1883; mensura 11-19/5/1883; D. I. 22/6/1883; aprob. 13/7/1883",
+  "Ubicación": "SO del partido, hacia Mercedes y S. A. de Areco (ex campo de los Carrasco)",
+  "Orden judicial": "Juez 1.ª Inst. Civil Dpto. del Centro (Mercedes): José A. Capdevila; aprueba Manuel B. Gonnet",
+  "Vendedor / antecesor": "Juan G. Carrasco → hijas León-Carrasco → Casado (1855); hijuela 1858",
+  "Linderos citados": "Esquivel (NE); Bustos y Miró (SE); Silva y F. Costa (SO); hermanos Casado (NO)",
+  "Medidas": "Trapecio: 995,9 m (1150 v) × 7882/7895 m; 785,54 ha",
+  "Rumbos": "Costados S/N 45° 9′; frentes S 45° 36′ E y N 46° 23′ O; var. 11° 42′ NE",
+  "Referencia de archivo": "AHG-PBA, duplicado 127 de S. A. de Giles; copia M.O.P. 1938"
+ },
+ "metricas": {
+  "superficie_ha": "785,54",
+  "hitos": "casa de J. M.ª Casado; poblaciones Casado, E. Martínez, Bustos, Alfonsín, Seery, Manzano; mojones de Muñiz",
+  "aguas": "no se citan"
+ },
+ "sintesis": "Trapecio largo y angosto de 785 ha (1150 varas de frente por algo más de 9000 de fondo) en el rincón SO del partido, donde se tocaban Giles, Areco y Mercedes. Es la mitad del campo que José María Casado compró en 1855 a las hermanas Carrasco y sus maridos León; la otra mitad pasó en 1858 a sus hijos Pedro y Agustín, y la de Pedro se repartió luego entre cinco nietos, que Schuster midió el día anterior (ficha 128): el plano muestra la franja del abuelo con la del hijo Agustín y las de los cinco nietos al costado. La mensura (mayo de 1883) reutiliza los mojones que Muñiz había puesto en la vecina mensura de Miró y cierra con menos de un metro de error. Aprobó el juez Manuel B. Gonnet.",
+ "caratula": {
+  "img": "img/f/127/01.jpg",
+  "fuente": "Toma IMG_3578 (repetida en IMG_9932)",
+  "campos": [
+   [
+    "Número",
+    "N.º 127 (ambos ángulos)"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Repartición",
+    "Dirección de Geodesia y Catastro de la Provincia de Buenos Aires"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "José María Casado"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Año",
+    "1883"
+   ],
+   [
+    "Mes / Juzgado / Secretario",
+    "en blanco"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Estracto de títulos: compra a los León-Carrasco (1855)",
+   "img": "img/f/127/06.jpg",
+   "fuente": "Toma IMG_3580",
+   "nota": "",
+   "lineas": [
+    "Mensura del campo situado en el",
+    "Partido de Giles y de propiedad de Don",
+    "José María Casado.",
+    "[sello: FOJA 1]",
+    "=",
+    "Estracto de títulos",
+    "=",
+    "1855. Agosto 6. D. Raymundo Leon y su esposa",
+    "D^{ña}. Juana Carrasco por una parte, y por otra",
+    "D. Jacinto Leon y su esposa D^{ña}. Juana Páula",
+    "Carrasco, venden á D. José M^{a}. Casado un",
+    "terreno de estancia compuesto de dos mil",
+    "trescientas varas de frente por nueve mil",
+    "varas de fondo, situado en los Partidos",
+    "de Giles, San Antonio de Areco y Mercedes;",
+    "— en la forma siguiente: ochocientas varas",
+    "de frente por nueve mil varas de fondo",
+    "pertenecientes á los cónyuges D. Raymundo",
+    "Leon y D^{ña}. Juana Carrasco; y mil quinientas",
+    "varas de frente por nueve mil varas de fondo",
+    "pertenecientes á los cónyuges D. Jacinto Leon",
+    "y D^{ña}. Juana Páula Carrasco; — cuyo cam-",
+    "po lo hubieron ambas esposas por herencia",
+    "de su padre D. Juan Gregorio Carrasco, —",
+    "y linda por el Norte y Este con D. Bernardo",
+    "Gutierrez, por el Sud con parte del heredado",
+    "por D^{ña}. Juana Paula Carrasco y por el",
+    "Oeste con D. Segundo Costa y D. Pedro Silva.",
+    "— Escritura ante el Juez de Paz de Mercedes",
+    "D. Manuel Mones [?] Ruiz. —",
+    "Por muerte de la esposa de D. José Ma-",
+    "ria Casado y liquidada la testamentaria"
+   ],
+   "interpretacion": "Encabezamiento («Mensura del campo situado en el Partido de Giles y de propiedad de Don José María Casado») y extracto del título: el 6/8/1855 los matrimonios Raymundo León–Juana Carrasco y Jacinto León–Juana Paula Carrasco venden a José María Casado un terreno de estancia de 2300 varas de frente por 9000 de fondo «situado en los partidos de Giles, San Antonio de Areco y Mercedes»: 800 v de los primeros y 1500 v de los segundos. Ambas esposas lo heredaron de su padre Juan Gregorio Carrasco. Linderos de 1855: N y E Bernardo Gutiérrez; S el resto de lo heredado por Juana Paula Carrasco; O Segundo Costa y Pedro Silva. Escritura ante el juez de paz de Mercedes, Manuel Mones [?] Ruiz. La venta reúne dos tercios de una hijuela Carrasco en un campo de frontera entre tres partidos."
+  },
+  {
+   "titulo": "Folio 1 v. · Hijuela de 1858, pedido de mensura y nombramiento (1883)",
+   "img": "img/f/127/07.jpg",
+   "fuente": "Toma IMG_3581 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "correspondió á este, segun el testimonio de",
+    "su hijuela espedido con fecha 2 de Enero de",
+    "1858, entre otras cosas, la mitad del campo",
+    "á que se refiere la anterior escritura, ó",
+    "sean mil ciento cincuenta varas de frente",
+    "por nueve mil varas de fondo, — lindando",
+    "por el Norte con terreno de la misma tes-",
+    "tamentaria, por el Sud con los herederos",
+    "de D. Juan Gregorio Carrasco, por el Oeste",
+    "con D. Segundo Costa y D. Pedro Silva y",
+    "por el Este con D. Bernardo Gutierrez.",
+    "1883. Marzo 20. D. José Maria Casado se",
+    "presenta al S^{r}. Juez de 1^{a}. Instancia en lo",
+    "Civil de este Departamento, solicitando",
+    "la mensura del campo á que se refiere",
+    "el título estractado y proponiendo para prac-",
+    "ticar dicha operacion al Agrimensor que",
+    "firma.",
+    "En Marzo 27 se hizo lugar á lo so-",
+    "licitado y acepté el cargo en la misma",
+    "fecha, tomando antecedentes del De-",
+    "partamento de Ingenieros en Abril 17.",
+    "=",
+    "Mensura",
+    "=",
+    "Estando autorizado por el S^{r}. Juez de",
+    "1^{a}. Instancia en lo Civil del Departamento",
+    "del Centro, D^{r}. D. José A. Capdevila, para",
+    "medir el campo de propiedad de Don",
+    "José Maria Casado, situado en este Par-",
+    "tido, observadas las formalidades legales,",
+    "como se comprueba con los justificativos",
+    "que le acompañan, procedí á llenar mi co-",
+    "metido del modo que paso á detallar: —"
+   ],
+   "interpretacion": "Muerta la esposa de Casado y liquidada su testamentaría, la hijuela del 2/1/1858 le adjudica la MITAD del campo comprado en 1855: 1150 v de frente por 9000 de fondo, lindando al N con tierra de la misma testamentaría (la otra mitad, que pasa a los hijos), al S con herederos de Juan Gregorio Carrasco, al O con Segundo Costa y Pedro Silva y al E con Bernardo Gutiérrez. El 20/3/1883 Casado pide la mensura ante el juez civil del Departamento del Centro (Mercedes), José A. Capdevila, y propone a Carlos Schuster; nombrado el 27/3, toma antecedentes en el Departamento de Ingenieros el 17/4/1883."
+  },
+  {
+   "titulo": "Folio 2 · Mensura: frente A-B y costado B-C contra Bustos y Miró",
+   "img": "img/f/127/08.jpg",
+   "fuente": "Toma IMG_3581 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 2]",
+    "Me coloqué en el mojon del ángulo Norte",
+    "letra A del plano, que acabo de colocar en la men-",
+    "sura de D^{ña}. Páula Casado y otros, herederos",
+    "de D. Pedro Casado, — Este mojon es Este para",
+    "D. Cipriano Casado. De él, pues, por el",
+    "rumbo al Sud cuarenta y cinco grados trein-",
+    "ta y seis minutos Este medí novecientos",
+    "noventa y cinco metros nueve decímetros",
+    "hasta B mojon del ángulo Este para el te-",
+    "rreno que mido y Norte de D. Evaristo",
+    "Bustos. Se deslinda con D. Liborio Esquivel.",
+    "Desde el mojon B al Sud cuarenta y cinco",
+    "grados nueve minutos Oeste, deslindando",
+    "con D. Evaristo Bustos y D^{ña}. Eustaquia C.",
+    "de Miró, se midieron siete mil ochocientos",
+    "ochenta y dos metros (S 45° 9′ O = 7882^{m}.) has-",
+    "ta el mojon Sud de este terreno y Oeste de",
+    "la Señora Miró, letra C. — Coloqué mojones",
+    "á cada mil doscientos noventa y nueve",
+    "metros y encontré á seiscientos cuarenta y",
+    "nueve, mil novecientos cuarenta y tres, tres",
+    "mil doscientos diez y seis, cuatro mil qui-",
+    "nientos ochenta y ocho cinco decímetros, cin-",
+    "co mil ochocientos cincuenta y ocho y sie-",
+    "te mil ciento ochenta metros puestos por",
+    "el Agrimensor Muñiz en la mensura de",
+    "la S^{ra}. Miró y á los dos mil cuatrocientos",
+    "diez y ocho el que divide á Bustos de la",
+    "misma Señora.",
+    "Desde este mojon C por el rumbo al Norte",
+    "cuarenta y seis grados veinte y tres minutos",
+    "Oeste, deslindando con terreno de D^{ña}. Cruz"
+   ],
+   "interpretacion": "Arranque en el mojón A, que el mismo Schuster acababa de colocar el día anterior en la mensura de Petrona Paula Casado y otros herederos de Pedro Casado (ficha 128) (A es además esquinero E de Cipriano Casado). A-B S 45° 36′ E 995,9 m (= 1150 v), contra Liborio Esquivel. B-C S 45° 9′ O 7882 m contra Evaristo Bustos y Eustaquia C. de Miró; mojones cada 1299 m (= 1500 v) y hallazgo de los mojones que el agrimensor Muñiz había puesto en la mensura de Miró (a 649, 1943, 3216, 4588,5, 5858 y 7180 m) más el divisorio Bustos/Miró a 2418 m. El espaciamiento de 1299 m sobre los mojones de Muñiz revela un sistema de jalonamiento en múltiplos de 1500 varas compartido por dos mensuras separadas por años."
+  },
+  {
+   "titulo": "Folio 2 v. · Costados C-D y D-A, mojones costaneros y figura de trapecio",
+   "img": "img/f/127/09.jpg",
+   "fuente": "Toma IMG_3582 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "C. de Silva y D. Federico Costa medí nove-",
+    "cientos noventa y cinco metros nueve decí-",
+    "metros (N 46° 23′ O = 995.9^{m}.) y coloqué el mojon",
+    "del ángulo Oeste de este terreno, letra D que",
+    "tambien es Sud de D. Agustin Casado. En",
+    "esta linea á los trescientos veinte y cinco",
+    "metros está el mojon esquinero que divide",
+    "el terreno de la Señora Silva del de Costa.",
+    "Desde el punto últimamente arribado,",
+    "mojon D por el rumbo al Norte cuarenta y",
+    "cinco grados nueve minutos Este medí sie-",
+    "te mil ochocientos noventa y cinco metros",
+    "(N 45° 9′ E = 7895^{m}.) hasta el mojon A de arran-",
+    "que. Se deslinda con D. Agustin Casado, Don",
+    "Pedro, D^{ña}. Felipa, D^{ña}. Petrona, D. Remijio y",
+    "D. Cipriano Casado y coloqué mojones cos-",
+    "taneros: el primero á mil cuatrocientos",
+    "metros y los demas á mil doscientos no-",
+    "venta y nueve metros cada uno; — á mas,",
+    "están los recientemente puestos en la men-",
+    "sura de los Casado, á los tres mil nove-",
+    "cientos cuarenta y siete metros cinco deci-",
+    "metros, cuatro mil novecientos treinta",
+    "y siete, cinco mil quinientos veinte y",
+    "seis cinco decímetros, seis mil trescientos",
+    "diez y seis y siete mil ciento cinco me-",
+    "tros cinco decímetros. —",
+    "Con lo que concluí la mensura de",
+    "este terreno que tiene la figura de un",
+    "trapecio y su superficie igual á sete-",
+    "cientas ochenta y cinco hectáreas"
+   ],
+   "interpretacion": "C-D N 46° 23′ O 995,9 m contra Cruz C. (Castillo) de Silva y Federico Costa (divisorio Silva/Costa a 325 m); D es también esquinero S de Agustín Casado. D-A N 45° 9′ E 7895 m contra el hijo Agustín Casado y los cinco nietos, hijos de Pedro Casado (Pedro M., Felipa, Petrona, Remigio, Cipriano; ficha 128); mojones costaneros a 1400 m y luego cada 1299 m, y además los «recientemente puestos en la mensura de los Casado» a 3947,5, 4937, 5526,5, 6316 y 7105,5 m: son los divisorios de las hijuelas de los nietos (ficha 128). El «4937» es error de copia por 4737, que da el plano (3947,5 + 789,5). Figura: trapecio."
+  },
+  {
+   "titulo": "Folio 3 · Superficie, linderos, variación, circular y acta; firma (19/5/1883)",
+   "img": "img/f/127/10.jpg",
+   "fuente": "Toma IMG_3582 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 3]",
+    "cincuenta y cuatro areas cuarenta y siete",
+    "metros cuadrados, igual á diez millones",
+    "cuatrocientas setenta y cuatro mil quinientas",
+    "cuarenta y tres varas cuadradas (785^{h}. 54^{a}.",
+    "47^{m.c}. = 10474543 V.^{s} C.^{s})",
+    "Linda al Norreste con D. Liborio Esquivel,",
+    "al Sudeste con D. Evaristo Bustos y D^{ña}. Eus-",
+    "taquia C. de Miró, al Sudoeste con D^{ña}.",
+    "Cruz C. de Silva y con D. Federico Costa",
+    "y al Noroeste con D. Agustin Casado, D.",
+    "Pedro Casado, D^{ña}. Felipa E. Casado de",
+    "Cuello, D^{ña}. Petrona Paula Casado de Mar-",
+    "tinez, D. Remijio y D. Cipriano Casado.",
+    "Los rumbos son los verdaderos y la va-",
+    "riacion de la Aguja de once grados cua-",
+    "renta y dos minutos Noreste (11° 42′ N.E.)",
+    "La circular de citacion ha sido firmada",
+    "por todos los linderos, habiéndolo hecho D.",
+    "José T. Cuello por su esposa D^{ña}. Felipa",
+    "E. Casado.",
+    "Se levantó el acta con arreglo al Có-",
+    "digo de Procedimientos.",
+    "Partido de Giles á diez",
+    "y nueve de Mayo de mil ocho-",
+    "cientos ochenta y tres.",
+    "Carlos Schuster"
+   ],
+   "interpretacion": "Superficie: 785 ha 54 a 47 m² = 10 474 543 varas cuadradas (la equivalencia es exacta con 1 v² = 0,749956 m²). Linderos: NE Liborio Esquivel; SE Evaristo Bustos y Eustaquia C. de Miró; SO Cruz C. de Silva y Federico Costa; NO Agustín, Pedro, Felipa E. Casado de Cuello, Petrona Paula Casado de Martínez, Remigio y Cipriano Casado. Rumbos verdaderos; variación 11° 42′ NE (la misma cifra que Schuster usó en la 123). Circular firmada por todos los linderos (José T. Cuello por su esposa); acta según el Código de Procedimientos. Firmado en el Partido de Giles el 19/5/1883."
+  },
+  {
+   "titulo": "Folio 3 v. · Avalizamientos de los cuatro mojones",
+   "img": "img/f/127/11.jpg",
+   "fuente": "Toma IMG_3583 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "[A]valizamientos",
+    "Mojon A sobre A D D. José M^{a}. Casado",
+    "337° 28′ — D. Cipriano Casado 78° 15′ — D. Enrique",
+    "Martinez 285°. — Mojon B sobre B C D. Eva-",
+    "risto Bustos 351° 35′ — D. Enrique Martinez 289°",
+    "35′. — D. Remijio Casado 41° 30′ — Mojon C so-",
+    "bre C D D. José M^{a}. Casado 68° 35′ — D. Abad",
+    "Alfonsin 4° 20′ — D. Eugenio Seery 345° 5′ —",
+    "Mojon D sobre D A. D. Abad Alfonsin 275° 45′ —",
+    "D. Eugenio Seery 250° 10′ — D. Felix Manzano 320° 15′.",
+    "Schuster"
+   ],
+   "interpretacion": "Abalizamientos en azimut (0-360°) desde los cuatro mojones a las poblaciones vecinas: desde A, las casas de José M.ª Casado (337° 28′), Cipriano Casado y Enrique Martínez; desde B, Evaristo Bustos, Enrique Martínez y Remigio Casado; desde C, José M.ª Casado, Abad Alfonsín y Eugenio Seery; desde D, Abad Alfonsín, Eugenio Seery y Félix Manzano. Es una red de nueve poblaciones que puede triangularse en el GIS: la casa de Casado está dentro del campo (dibujada en el plano cerca del lado A-B)."
+  },
+  {
+   "titulo": "Folio 4 · Circular de citación (30/4/1883) con las firmas de los linderos y comienzo del acta",
+   "img": "img/f/127/12.jpg",
+   "fuente": "Toma IMG_3583 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 4]",
+    "El Agrimensor que suscribe, habiendo con fe-",
+    "cha 27 de Marzo del corriente año, recibido",
+    "comision del S^{or}. Juez de primera instancia",
+    "en lo Civil del Departamento del Centro D^{r}.",
+    "D. José A. Capdevila, para medir el terreno",
+    "de la propiedad de Don José Maria Ca-",
+    "sado, en el Partido de Giles, previene á los Se-",
+    "ñores linderos que procederá á la mensura el",
+    "dia 11 del mes de Mayo; para que puedan V^{ds}.",
+    "siendo linderos, concurrir á reconocer si se sobre-",
+    "pasan los límites de su propiedad — A este",
+    "fin son V^{ds}. invitados á asistir con sus títu-",
+    "los á la citada mensura — Y siendo tambien",
+    "necesario hacer constar haberse practicado es-",
+    "ta citacion, se servirán V^{ds}. darse por noti-",
+    "ficados, poniendo su firma al respaldo",
+    "de la presente, lo que, sino pudiesen hacer",
+    "será espresado por medio de testigos = El",
+    "espediente sobre la materia tramita por",
+    "la oficina del Escribano Secretario D^{n}. Car-",
+    "los D. [?] Gimenez = Mercedes Abril 30 de 1883 =",
+    "Firmado = Cárlos Schuster = Liborio Esquivel =",
+    "= Agustin Casado = Federico Costa = Por mi Se-",
+    "ñora madre = Patricio Miró = A ruego de D.",
+    "Evaristo Bustos por no saber firmar = Patricio",
+    "Miró = Por mi esposa D^{ña}. Paula C. de Mar-",
+    "tinez = Pablo A. Martinez = Remigio M. [?] Casa-",
+    "do = Pedro Casado = Cipriano Casado = José",
+    "T. Cuello = Por mi S^{a}. madre D^{ña}. Cruz Casti-",
+    "llo de Silva = Juan de D. Silva —",
+    "Los Señores linderos del campo de D. José Ma-",
+    "ria Casado, que acabo de medir, mani-",
+    "festaron estar conformes con la operacion",
+    "practicada, en la parte de deslinde que",
+    "á cada uno corresponde, y firman con el",
+    "Agrimensor suscrito esta acta. En el Partido"
+   ],
+   "interpretacion": "Texto de la circular de citación (Mercedes, 30/4/1883) anunciando la mensura para el 11 de mayo; el expediente tramitaba por la escribanía del secretario Carlos D. [?] Giménez. Firmas: Schuster, Liborio Esquivel, Agustín Casado, Federico Costa, Patricio Miró por su madre (Eustaquia) y a ruego de Evaristo Bustos «por no saber firmar», Pablo A. Martínez por su esposa Paula C. de Martínez, Remigio M. Casado, Pedro Casado, Cipriano Casado, José T. Cuello, Juan de D. Silva por su madre Cruz Castillo de Silva. Empieza el acta de conformidad de los linderos."
+  },
+  {
+   "titulo": "Folio 4 v. · Final del acta con firmas; dictamen del Departamento de Ingenieros (22/6/1883)",
+   "img": "img/f/127/13.jpg",
+   "fuente": "Toma IMG_3584",
+   "nota": "",
+   "lineas": [
+    "Giles á diez y nueve de Mayo de mil o-",
+    "chocientos ochenta y tres = Firmado = Cár-",
+    "los Schuster = Por mi esposa D^{ña}. Paula",
+    "C. de Martinez = Pablo A. Martinez = Reme-",
+    "gio M. Casado = Agustin Casado = Pedro",
+    "Casado = A ruego de D. Evaristo Bustos =",
+    "Patricio Miró = Cipriano Casado = Por mi",
+    "Señora madre = Patricio Miró = José T. Cue-",
+    "llo = Liborio Esquivel = Por mi S^{a}. madre",
+    "D^{ña}. Cruz Castillo de Silva = Juan de D.",
+    "Silva = Federico Costa —",
+    "Es copia",
+    "Cárlos Schuster",
+    "[sello oval: Departamento de Ingenieros · Entrada · JUN 1883]",
+    "Señor Juez de 1^{a}. Instancia",
+    "El Departamento de Ingenieros ha examinado la men-",
+    "sura del terreno perteneciente á Don José M^{a}. Casado,",
+    "practicada por el agrimensor Don Cárlos Schuster",
+    "en el Partido de Giles, y encontrandola conforme",
+    "con sus antecedentes, la aprueba en la par-",
+    "te facultativa —",
+    "Los sellos correspondientes han sido repues-",
+    "tos y van agregados.",
+    "Junio 22 de 1883",
+    "Jorge Coquet",
+    "M. Yparraguirre          Lagos"
+   ],
+   "interpretacion": "Final del acta (Giles, 19/5/1883) con las mismas firmas y copia certificada por Schuster. Debajo, el dictamen del Departamento de Ingenieros (22/6/1883): la mensura concuerda con sus antecedentes y se aprueba en la parte facultativa; firman Jorge Coquet, Lagos y M. Yparraguirre. Es decir: el agrimensor Mariano Iparraguirre de la 126 integraba en 1883 la comisión técnica del Departamento de Ingenieros."
+  },
+  {
+   "titulo": "Folio 5 · Oficio del juzgado de Mercedes al Departamento de Ingenieros: aprobación (13/7/1883)",
+   "img": "img/f/127/14.jpg",
+   "fuente": "Toma IMG_3585",
+   "nota": "",
+   "lineas": [
+    "10 – 120 – 1041 Corresp.^{te}",
+    "[sello fiscal: Dirección General de Rentas de la Provincia de Buenos Aires · 1883 · Seis pesos · N.^{o} 144959]",
+    "[sello: FOJA 5]",
+    "Mercedes Julio 13 [de 1883]",
+    "Al S^{r}. Gefe del Departa-",
+    "mento de Ingenieros",
+    "de la Provincia.",
+    "Tengo el honor",
+    "de poner en conocimien-",
+    "to del S^{r}. Gefe que en la",
+    "fecha ha sido aprobada",
+    "por este Juzgado la men-",
+    "sura practicada por",
+    "el Agrimensor Don",
+    "Cárlos Schuster, de un",
+    "campo situado en el",
+    "Partido de Giles de",
+    "propiedad de D^{n}. José",
+    "M^{a}. Casado. —",
+    "Dios Guarde á U^{d}.",
+    "Manuel B. Gonnet",
+    "[al margen izquierdo:] [Carlos] D. Gimenez · [Secre]tario",
+    "[sello oval: Departamento de Ingenieros · Entradas · 20 JUL 1883]"
+   ],
+   "interpretacion": "Oficio del juzgado de Mercedes (13/7/1883) al jefe del Departamento de Ingenieros: la mensura ha sido aprobada judicialmente en esa fecha. Firma Manuel B. Gonnet, con el secretario Giménez al margen; sello fiscal de seis pesos (1883); entrada al D. I. el 20/7/1883. El juez que encomendó la mensura fue Capdevila (marzo) y el que la aprobó, Gonnet (julio)."
+  },
+  {
+   "titulo": "Dorso del oficio · Decreto de agregación (21/7/1883)",
+   "img": "img/f/127/15.jpg",
+   "fuente": "Toma IMG_3586",
+   "nota": "",
+   "lineas": [
+    "[al pie, a pluma:] Julio 21/83",
+    "Agréguese al duplicado correspondiente",
+    "Coquet"
+   ],
+   "interpretacion": "Dorso del oficio: proveído del Departamento de Ingenieros del 21/7/1883, «Agréguese al duplicado correspondiente», firmado por Coquet. Cierra el circuito administrativo del duplicado."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del campo de José María Casado (Schuster, 1883)",
+   "img": "img/f/127/03.jpg",
+   "fuente": "Toma IMG_3587 (repetida en IMG_9941)",
+   "orientacion": "apaisado; el eje largo del trapecio horizontal; flecha N–S en diagonal (N arriba a la derecha)",
+   "interpretacion": "Plano a tinta: franja horizontal con el rótulo «José María Casado» entre dos líneas largas, con las progresivas de los mojones anotadas en cada costado. Arriba (NO), en franjas perpendiculares, Agustín Casado (la más ancha), Pedro M. Casado, Felipa E. C. de Cuello, P. Paula C. de Martínez, Remigio M. Casado y Cipriano A. Casado, con línea de trazos al fondo y, más allá, «Alfonsín». Abajo (SE), Eustaquia C. de Miró y Evaristo Bustos. A la izquierda (SO), Cruz C. de Silva y Federico Costa; a la derecha (NE), Liborio Esquivel. Signo de población con «J. M. Casado» cerca del lado A-B. A lápiz, comprobaciones del calculista (46° 23′ + 45° 09′ = 91° 32′; 1150 v → 995,9 m). Escala de metros; firma «Cárlos Schuster 1883».",
+   "referencias": [
+    [
+     "A",
+     "esquinero N, colocado en la mensura de los herederos de Pedro Casado; E de Cipriano Casado"
+    ],
+    [
+     "A-B",
+     "S 45° 36′ E 995,9 m, contra Liborio Esquivel"
+    ],
+    [
+     "B",
+     "esquinero E; N de Evaristo Bustos"
+    ],
+    [
+     "B-C",
+     "S 45° 9′ O 7882 m, contra Bustos (hasta 2418 m) y Eustaquia C. de Miró; mojones de Muñiz"
+    ],
+    [
+     "C",
+     "esquinero S; O de Miró"
+    ],
+    [
+     "C-D",
+     "N 46° 23′ O 995,9 m, contra Cruz C. de Silva y Federico Costa (divisorio a 325 m)"
+    ],
+    [
+     "D",
+     "esquinero O; S de Agustín Casado"
+    ],
+    [
+     "D-A",
+     "N 45° 9′ E 7895 m, contra Agustín Casado y los cinco nietos (ficha 128); divisorios a 3947,5 · 4737 [texto: 4937] · 5526,5 · 6316 · 7105,5 m"
+    ],
+    [
+     "J. M. Casado",
+     "población del propietario, dentro del campo"
+    ],
+    [
+     "Alfonsín",
+     "campo al NO, detrás de las hijuelas Casado"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: hijuelas Casado, Esquivel y Bustos",
+   "img": "img/f/127/04.jpg",
+   "fuente": "Toma IMG_3588",
+   "orientacion": "como el general",
+   "interpretacion": "Mitad NE del plano: rótulos de las hijuelas Casado, mojones A y B con el rumbo S 45° 36′ E y 995,9 m, «Liborio Esquivel» en vertical, «Evaristo Bustos», la población «J. M. Casado» y la firma de Schuster con el año 1883. El copista escribió «Agustín Casasado».",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia de 1938 (Geodesia, Catastro y Mapa, M.O.P.)",
+   "img": "img/f/127/05.jpg",
+   "fuente": "Toma IMG_3589",
+   "orientacion": "como el original",
+   "interpretacion": "Rótulo: «Es copia del plano agregado al duplicado n.º 127 del partido de San Andrés de Giles, mensura practicada en Mayo de 1883 por el Agrimensor Carlos Schuster. La Plata, Octubre de 1938». Sello Catastro y Mapa · M.O.P. · Dirección; firma del director; «Rev. por J. Chiappino» (el dibujante, ilegible).",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje y poblamiento",
+   "texto": "Ningún curso de agua, árbol ni camino: el paisaje está hecho de poblaciones. Los abalizamientos nombran nueve casas (José M.ª, Cipriano y Remigio Casado; Enrique Martínez; Evaristo Bustos; Abad Alfonsín; Eugenio Seery; Félix Manzano) y el plano marca la del propietario dentro del campo. En 1883 el antiguo campo de los Carrasco ya era un mosaico de familias: los Casado con sus yernos (Cuello, Martínez), los Miró, los Silva-Castillo, un irlandés (Seery)."
+  },
+  {
+   "titulo": "Herencia como forma del territorio",
+   "texto": "El campo de 1855 (2300 × 9000 v) se partió en 1858 en dos mitades: la del viudo José María (1150 v, esta mensura) y la de la testamentaría de su esposa, adjudicada a los hijos Pedro y Agustín Casado (1150 × 4500 v cada uno). Muerto Pedro, sus cinco hijos se repartieron su mitad en quintos (1872) y Schuster la midió el 18/5/1883 (ficha 128). El plano es una fotografía de tres generaciones: la tira larga del abuelo y, de costado, la de Agustín y las cinco fajas de los nietos."
+  },
+  {
+   "titulo": "Ritual",
+   "texto": "Ritual completo y sin conflicto: pedido (20/3), nombramiento y aceptación (27/3), antecedentes del D. I. (17/4), circular fechada en Mercedes (30/4) firmada por todos los linderos —quienes no sabían firmar lo hicieron por terceros: Patricio Miró a ruego de Evaristo Bustos; los hijos y maridos por las mujeres—, mensura (11-19/5), acta de conformidad en Giles con las mismas firmas, dictamen técnico (22/6), aprobación judicial (13/7) y agregación (21/7). Las firmas por las mujeres (Cuello por Felipa, Martínez por Paula, Juan de Dios Silva por su madre, Patricio Miró por la suya) muestran la representación masculina de la propiedad femenina."
+  },
+  {
+   "titulo": "Técnica y metrología",
+   "texto": "Rumbos verdaderos; variación 11° 42′ NE, idéntica a la que Schuster usó en la 123 (1879) y distinta de los 12° de sus mensuras de 1882 (124, 125): parece un valor de tabla repetido más que una observación nueva. El frente mide exactamente 1150 v (995,9 m) y los mojones del costado se ponen cada 1500 v (1299 m). El fondo real (7882-7895 m ≈ 9100 v) excede las 9000 v del título en unos 90 m. Verificación de la ficha: con los cuatro rumbos y distancias el polígono cierra con 0,7 m y da 785,37 ha, a 0,02 % de lo declarado. Superficie también en varas cuadradas (10 474 543 v²), equivalencia exacta."
+  },
+  {
+   "titulo": "Cadena de mensuras",
+   "texto": "Schuster encuentra y respeta los mojones de Muñiz (mensura de Eustaquia C. de Miró, sin fecha en este texto) y los suyos propios de la mensura de los herederos de Pedro Casado, hecha el día anterior (ficha 128). Muñiz es José María Muñiz, el agrimensor de 049-051 y 122. Interesa ubicar la mensura Miró en el corpus."
+  },
+  {
+   "titulo": "Instituciones",
+   "texto": "Juzgado civil del Departamento del Centro con sede en Mercedes (Capdevila, como en 124 y 125); la aprobación la firma Manuel B. Gonnet, luego primer ministro de Obras Públicas bonaerense tras la federalización. En el D. I. firman Jorge Coquet, Lagos y M. Yparraguirre: resuelve la duda de la 126 sobre Mariano Iparraguirre, que en 1883 dictaminaba mensuras ajenas desde el Departamento."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "(1) Bernardo Gutiérrez, lindero N y E en 1855: es el campo de la repartición Gutiérrez (024, 052, 053, 063, 123); Abad Alfonsín cruza con Cecilio Alfonsín / test. Mónica G. de Alfonsín (052, 123). (2) Segundo y Federico Costa: cf. Zoilo Costa de 085 y 124. (3) Pedro Silva / Cruz Castillo de Silva: cf. Antonio B. Silva (049-051). (4) Schuster y la variación de 123. (5) Iparraguirre (126) y Coquet/Lagos (125-126). (6) La ubicación «en los partidos de Giles, San Antonio de Areco y Mercedes» confirma el rincón triple del SO, como el bloque Colmenero-Lima (054-055, 124-125). (7) 129 (Castellanos, junio 1883): el campo de Celedonio Lima linda al NO con Agustín y José M.ª Casado: el bloque Casado toca la vieja suerte de Mariano Lima (laguna de Moyano; 055, 124, 125)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Resuelto con la 128: Pedro Casado era hijo de José María y los cinco «hermanos» linderos son sus nietos. Falta la mensura de Agustín Casado. Lecturas dudosas: el juez de paz de Mercedes de 1855 (Manuel Mones [?] Ruiz), la inicial del secretario Giménez. Ubicar la mensura Miró de Muñiz. Superponer este trapecio con el bloque Gutiérrez en el plano del partido de 1890."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor que trabajó intensamente el SO del partido: hijuelas Gutiérrez (052, 053, 063, 1869-72), repartición de Victorina Gutiérrez (123, 1879), Unzué (124) y Petrona Lima de Martínez (125) en 1882, y los Casado en 1883. Firma en Giles. Búsqueda web en sesiones previas sin datos biográficos.",
+   "fuentes": "esta mensura; fichas 052, 053, 063, 123-125"
+  },
+  {
+   "nombre": "José María Casado",
+   "rol": "Propietario",
+   "texto": "Compró en 1855 a los León-Carrasco 2300 × 9000 v; viudo antes de 1858, cuando la hijuela le dejó la mitad y la otra mitad pasó a sus hijos Pedro y Agustín. En 1883 vivía en el campo (población visada desde A y C). Abuelo de Cipriano A., Remigio M., Petrona Paula (de Martínez), Felipa E. (de Cuello) y Pedro M. Casado (ficha 128). Búsqueda web sin resultados.",
+   "fuentes": "esta mensura; búsqueda web sin resultados"
+  },
+  {
+   "nombre": "Raymundo y Jacinto León; Juana y Juana Paula Carrasco",
+   "rol": "Vendedores (1855)",
+   "texto": "Dos matrimonios; las esposas, hijas y herederas de Juan Gregorio Carrasco, vendieron 800 y 1500 v de frente respectivamente. Escritura ante el juez de paz de Mercedes.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Juan Gregorio Carrasco",
+   "rol": "Antecesor",
+   "texto": "Propietario original del campo; sus herederos lindaban aún al S en 1858. Sin datos web.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Agustín Casado y los nietos Casado",
+   "rol": "Linderos no",
+   "texto": "Agustín, hijo de José María, con la mitad SO del fondo de los hijos; Pedro M., Remigio M., Cipriano A., Felipa E. (de Cuello; firma su marido José T. Cuello) y Petrona Paula Casado (de Martínez; firma Pablo A. Martínez), hijos del difunto Pedro Casado y de Paula Acuña, con 78,62 ha cada uno (ficha 128).",
+   "fuentes": "esta mensura; ficha 128"
+  },
+  {
+   "nombre": "Liborio Esquivel",
+   "rol": "Lindero ne",
+   "texto": "Lindero sobre el frente A-B; firmó la circular y el acta.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Evaristo Bustos",
+   "rol": "Lindero se",
+   "texto": "No sabía firmar; firmó a su ruego Patricio Miró. Su campo se separa del de Miró por un mojón a 2418 m de B.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Eustaquia C. de Miró y Patricio Miró",
+   "rol": "Lindera se / hijo",
+   "texto": "Su campo fue medido antes por el agrimensor Muñiz, cuyos mojones reaparecen aquí. Firmó por ella su hijo Patricio.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Cruz Castillo de Silva y Juan de Dios Silva",
+   "rol": "Lindera so / hijo",
+   "texto": "Sucesora probable de Pedro Silva, lindero O en 1855. Firmó su hijo.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Federico Costa",
+   "rol": "Lindero so",
+   "texto": "Sucesor probable de Segundo Costa (lindero O en 1855); cf. Zoilo Costa (085, 124).",
+   "fuentes": "esta mensura; fichas 085, 124"
+  },
+  {
+   "nombre": "José A. Capdevila y Manuel B. Gonnet",
+   "rol": "Jueces (mercedes)",
+   "texto": "Capdevila, juez civil del Departamento del Centro, comisionó la mensura (también en 124 y 125). Manuel Bernardo Gonnet firmó la aprobación (13/7/1883); según Wikipedia fue el primer ministro de Obras Públicas de la provincia tras la federalización de Buenos Aires y legislador provincial; la localidad de Manuel B. Gonnet (La Plata) lleva su nombre.",
+   "fuentes": "esta mensura; es.wikipedia «Manuel B. Gonnet»"
+  },
+  {
+   "nombre": "Jorge Coquet, Lagos y M. Yparraguirre",
+   "rol": "Departamento de ingenieros",
+   "texto": "Comisión técnica que aprobó la mensura (22/6/1883); Coquet firma además la agregación. Yparraguirre es el agrimensor Mariano Iparraguirre (126), aquí como dictaminador.",
+   "fuentes": "esta mensura; fichas 125, 126"
+  },
+  {
+   "nombre": "Otros nombrados",
+   "rol": "Varios",
+   "texto": "Abad Alfonsín, Eugenio Seery, Félix Manzano y Enrique Martínez (poblaciones visadas); Manuel Mones [?] Ruiz (juez de paz de Mercedes, 1855); Carlos D. [?] Giménez (secretario del juzgado); agrimensor Muñiz (mensura Miró); J. Chiappino (revisor de la copia de 1938).",
+   "fuentes": "esta mensura"
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/127/02.jpg",
+  "fuente": "Toma IMG_3579 (repetida en IMG_9933)",
+  "lineas": [
+   "Giles 127",
+   "1883",
+   "Mensura del campo de D. José M^{a}.",
+   "Casado",
+   "Partido de Giles —",
+   "Agrimensor Cárlos Schuster",
+   "=",
+   "1 – 41 – 109"
+  ]
+ },
+ "titulo": "José María Casado",
+ "estado": "Transcripta (10 hojas, 257 renglones), 3 láminas"
+}

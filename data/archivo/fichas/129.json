@@ -1,0 +1,470 @@
+{
+ "carpeta": "129",
+ "carpeta_nombre": "Carpeta 129",
+ "archivo": "Ficha 129 - Celedonio Lima (1883).docx",
+ "resumen": {
+  "Propietario / solicitante": "Celedonio F. Lima",
+  "N.º de duplicado": "129",
+  "Agrimensor": "Wenceslao Castellanos",
+  "Año": "1883",
+  "Fecha de la diligencia": "Pedido 16/5/1883; mensura 8/6/1883; D. I. 27/7/1883; aprob. 4/8/1883",
+  "Ubicación": "SO del partido, ex suerte de Mariano Lima (laguna de Moyano), junto a los Casado",
+  "Orden judicial": "Juez Civil y Com. Dpto. del Centro (Mercedes): Capdevila; aprueba M. B. Gonnet",
+  "Vendedor / antecesor": "Mariano Lima 1838 → Domingo Lima → Napoleón, Gorostiaga, Müller / herencia 1879",
+  "Linderos citados": "E. Martínez y Manuel Lima (NE); Mauricia R. de Serval (SE, SO); Agustín y José M. Casado (NO)",
+  "Medidas": "Dos fracciones contiguas: 50,59 ha (rect. 651 × 776 m) + 146,26 ha (condominio)",
+  "Rumbos": "S 45° 55′ E / S 44° 10′ O; var. 10° 8′ NE",
+  "Referencia de archivo": "AHG-PBA, duplicado 129 de S. A. de Giles; copia de 1961"
+ },
+ "metricas": {
+  "superficie_ha": "196,85",
+  "hitos": "camino a Chacabuco; laguna en el mojón H; bañados en el frente F-G",
+  "aguas": "arroyo de Morales (cruza ambas fracciones); laguna en H; bañado"
+ },
+ "sintesis": "Dos fracciones contiguas de Celedonio Lima, nieto de Mariano Lima, en la vieja suerte de la laguna de Moyano. Una (50,6 ha) es un rectángulo que su padre Domingo había vendido en 1860 a Federico Napoleón y que, tras pasar por Gorostiaga y por el concurso de éste a Augusto Müller, Celedonio recompró en 1881. La otra (146,3 ha) es la herencia de Domingo Lima y Antonia Hernández, en condominio indiviso con sus hermanos Leopoldo e Isabel. Wenceslao Castellanos midió en junio de 1883, un mes después de Schuster en las vecinas tierras de los Casado. El plano es rico en paisaje: el arroyo de Morales atraviesa ambas fracciones, hay una laguna en el mojón H, un bañado con juncos en el frente O y el «camino a Chacabuco».",
+ "caratula": {
+  "img": "img/f/129/01.jpg",
+  "fuente": "Toma IMG_9956",
+  "campos": [
+   [
+    "Número",
+    "N.º 129 (ambos ángulos)"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Repartición",
+    "Dirección de Geodesia y Catastro de la Provincia de Buenos Aires"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Celedonio Lima"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Wenceslao Castellanos"
+   ],
+   [
+    "Año",
+    "1883"
+   ],
+   [
+    "Mes / Juzgado / Secretario",
+    "en blanco"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Título de Celedonio Lima: de Mariano Lima (1838) a Celedonio Lima (1881)",
+   "img": "img/f/129/07.jpg",
+   "fuente": "Toma IMG_9958",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 1]",
+    "Título de Celedonio Lima",
+    "En 8 de Enero de 1838. Don Mariano Lima compra al",
+    "Superior Gobierno un terreno á inmediaciones de la La-",
+    "guna de Moyano partido de Areco con una area",
+    "de dos y cuarta legua cuadrada",
+    "Testamentaría [?] de Don Mariano Lima se le",
+    "adjudica á su hijo Don Domingo Lima un terreno en",
+    "partido de Areco compuesto de ochocientas noventa y",
+    "cinco varas de frente por (9000) nueve mil varas de",
+    "fondo",
+    "Don Domingo Lima vende á Don José M. Rodri-",
+    "gues una parte de este terreno, y con fecha 14 de Junio de",
+    "1860 vende á Don Federico Napoleon otra fraccion del",
+    "terreno anteriormente indicado compuesto de (895) varas",
+    "ochocientas noventa y cinco varas, igual setecientos",
+    "setenta y cinco metros y setenta centímetros, de",
+    "frente por, setecientas cincuenta varas, igual á seis-",
+    "cientos cuarenta y nueve metros cincuenta centíme-",
+    "tros de fondo. En 2 de Marzo de 1876 El Agrimensor Don",
+    "Carlos Shuster practica mensura de este terreno.",
+    "En Marzo de 1874. Don Domingo Gorostiaga",
+    "compra á los herederos y sucesores de Don Federico Napo-",
+    "leon el terreno anteriormente indicado",
+    "En 22 de Octubre de 1878 Don Augusto",
+    "Müller compra al concurso de Gorostiaga el mismo",
+    "terreno y en Enero de 1881 Don Celedonio Lima le",
+    "compra el terreno á Müller"
+   ],
+   "interpretacion": "Cadena de títulos de la primera fracción. 8/1/1838: Mariano Lima compra al Superior Gobierno un terreno «a inmediaciones de la laguna de Moyano, partido de Areco», de 2¼ leguas cuadradas (es la suerte de Mariano Lima de las fichas 055, 124 y 125). En su testamentaría se adjudica a su hijo Domingo Lima una franja de 895 v de frente por 9000 de fondo. Domingo vende una parte a José M. Rodríguez y, el 14/6/1860, otra fracción de 895 v (775,70 m) por 750 v (649,50 m) a Federico Napoleón; Schuster la midió el «2 de marzo de 1876» [sic: la fecha es posterior a la venta siguiente]. Marzo 1874: Domingo Gorostiaga la compra a los herederos de Napoleón; 22/10/1878: Augusto Müller la compra al concurso de Gorostiaga; enero 1881: Celedonio Lima la compra a Müller. Un pedazo de la franja familiar vuelve, tras cuatro dueños, a un nieto de Mariano Lima."
+  },
+  {
+   "titulo": "Folio 1 v. · Hijuela de 1879 (condominio con Leopoldo e Isabel), pedido y nombramiento (1883)",
+   "img": "img/f/129/08.jpg",
+   "fuente": "Toma IMG_9959 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "En 19 de Setiembre de 1879. El escribano C. Gallardo cer-",
+    "tifica que en los autos testamentarios de Don Domingo",
+    "Lima y Doña Antonia Hernandes se le á adjudicado",
+    "á Don Celedonio Lima en condominio con sus herma-",
+    "nos Don Leopoldo y Doña Isabel un terreno de estan-",
+    "cia situado en el Partido de Giles compuesto de",
+    "una superficie de de dos millones cuatrocien-",
+    "tos sesenta y un mil doscientas cincuenta",
+    "varas cuadradas.",
+    "En Mayo 16 de 1883 Don Celedonio Lima",
+    "solicita del Señor Juez de 1^{a}. Instancia en lo Civil y",
+    "Comercial del Departamento del Centro D^{r}. Capde-",
+    "vila el nombramiento del Agrimensor Wences-",
+    "lao Castellanos para que practique mensura del",
+    "terreno anteriormente estractado.",
+    "En Mayo 17 de 1883 El Señor Juez da por",
+    "nombrado al Agrimensor propuesto el cual acep-",
+    "tó el cargo en la misma fecha.",
+    "En 4 de Junio de 1883 se toman an-",
+    "tecedentes del Departamento de Ingenieros, y se pu-",
+    "blican edictos en los diarios «La Nacion» de la",
+    "Capital y «El Pueblo» de Mercedes.",
+    "Mensura En el partido de",
+    "[Gi]les á ocho dias del mes de Junio del año de",
+    "[m]il ochocientos ochenta y tres. el Agrimensor",
+    "[qu]e suscribe comisionado por el Señor Juez de 1^{a}.",
+    "[Ins]tancia en lo Civil y Comercial del Departa-",
+    "[me]nto del Centro D^{r}. Capdevila. para medir el"
+   ],
+   "interpretacion": "Segunda fracción: el 19/9/1879 el escribano C. Gallardo certifica que en la testamentaría de Domingo Lima y Antonia Hernández se adjudicó a Celedonio Lima, en condominio con sus hermanos Leopoldo e Isabel, un terreno de estancia en Giles de 2 461 250 v² (≈ 184,6 ha). Trámite: pedido al juez Capdevila (16/5/1883) proponiendo al agrimensor Wenceslao Castellanos; nombramiento y aceptación (17/5); antecedentes del D. I. (4/6) y edictos en «La Nación» (Capital) y «El Pueblo» (Mercedes). La mensura comienza el 8/6/1883."
+  },
+  {
+   "titulo": "Folio 2 · Primera fracción (compra a Müller): B-I-H-J, superficie y linderos",
+   "img": "img/f/129/09.jpg",
+   "fuente": "Toma IMG_9959 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 2]",
+    "terreno de propiedad de Don Celedonio Lima situado en este",
+    "partido y previa circular á los Señores linderos procedí de",
+    "la manera siguiente. para ubicar el título que le corresp[onde]",
+    "á Don Celedonio Lima por compra que hizo á Müller",
+    "Del mojon B del plano se midió hasta el mojon I",
+    "esquinero Norte de Mauricia R. de Serval seis-",
+    "cientos cincuenta metros noventa centímetros á",
+    "rumbo Sud cuarenta y cinco grados cincuenta y cin[co]",
+    "minutos Este. Vuelto al punto de arranque se midió",
+    "al Sud cuarenta y cuatro grados diez minutos Oeste",
+    "setecientos setenta y seis metros ochenta centímetros",
+    "en donde existe un mojon como esquinero Oeste de",
+    "esta fraccion letra J. La linea J H fué medida",
+    "al Sud cuarenta y cinco grados cincuenta y",
+    "cinco minutos Este seiscientos cincuenta",
+    "y un metro cincuenta y siete centímetros y",
+    "el costado H I al Norte cuarenta y cuatro gra-",
+    "dos nueve minutos Este setecientos setenta y",
+    "seis metros diez centímetros.",
+    "Superficie cincuenta hectáreas",
+    "cincuenta y nueve areas y veinte centiáreas.",
+    "Linderos al Nor Este Manuel Lima",
+    "al Sud Este y Sud Oeste Mauricia R. de Serval",
+    "y por el Nor Oeste Celedonio Leopoldo y Isabel",
+    "Lima.",
+    "——— Herederos de Don Domingo Lima ———",
+    "Para deslindar el terreno que le corresponde á Don",
+    "Celedonio Lima por herencia de sus señores padres."
+   ],
+   "interpretacion": "Fracción comprada a Müller: B-I S 45° 55′ E 650,90 m (el plano anota S 45° 51′ E) hasta I, esquinero N de Mauricia R. de Serval; B-J S 44° 10′ O 776,80 m; J-H S 45° 55′ E 651,57 m; H-I N 44° 9′ E 776,10 m. Superficie 50,5920 ha. Linderos: NE Manuel Lima; SE y SO Mauricia R. de Serval; NO el condominio de Celedonio, Leopoldo e Isabel Lima. Es exactamente la fracción de 895 × 750 v vendida a Napoleón en 1860 (775,7 × 649,5 m): los lados medidos (776 × 651 m) coinciden. Verificación de la ficha: cierra con 0,8 m y da 50,56 ha."
+  },
+  {
+   "titulo": "Folio 2 v. · Fracción en condominio (herencia de Domingo Lima): A-F-G-J-B, superficie y linderos",
+   "img": "img/f/129/10.jpg",
+   "fuente": "Toma IMG_9960 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "[Do]n Domingo Lima y Doña Antonia Hernandes y que",
+    "posee en condominio con sus hermanos Don Leopoldo",
+    "é Isabel Lima se procedió á medir el terreno titu[lar]",
+    "de la manera siguiente Del mojon A se midió al Nor-",
+    "[O]este cuarenta y cinco grados cincuenta y cinco minutos [Oes-]",
+    "te mil trescientos un metros. La linea F G se midió",
+    "al Sud cuarenta y cuatro grados cincuenta y cuatro",
+    "minutos Oeste. setecientos setenta y cinco metros cin-",
+    "cuenta centímetros La linea G J fué medida al Sud",
+    "cuarenta y cinco grados cincuenta y cinco minutos.",
+    "Este. mil ochocientos noventa y un metro ochen-",
+    "ta y seis centímetros. Vuelto al punto de arranque",
+    "mojon A se midió Sud cuarenta y seis grados cuatro",
+    "minutos Este quinientos ochenta metros cincuenta",
+    "centímetros. y la linea B J. fué medida al Sud",
+    "cuarenta y cuatro grados diez minutos Oeste. sete-",
+    "cientos setenta y seis metros ochenta y cuatro centí-",
+    "metros.",
+    "Superficie ciento cuarenta y seis hectá-",
+    "reas. veinte y seis areas y veinte y una centiáreas",
+    "Linderos al N. E. Enrique Martinez.",
+    "Manuel Lima. al Sud Este y Sud Oeste Doña",
+    "Mauricia Rodrigues de Serval. y por el Nor Oeste Agus[tin]",
+    "Casado y José M. Casado.",
+    "No pudiéndose poner de acuerdo los here[deros]",
+    "de Doña [?] Domingo Lima; Don Leopoldo. Doña Isa[bel]",
+    "y Don Celedonio, para proceder á la ubicacion [del]",
+    "terreno que posee en condominio el que su[...]"
+   ],
+   "interpretacion": "Fracción heredada en condominio: A-F N 45° 55′ O 1301 m; F-G S 44° 54′ O 775,50 m; G-J S 45° 55′ E 1891,86 m; de A, A-B S 46° 4′ E 580,50 m y B-J S 44° 10′ O 776,84 m. Superficie 146,2621 ha. Linderos: NE Enrique Martínez y Manuel Lima; SE y SO Mauricia Rodríguez de Serval; NO Agustín Casado y José M. Casado (fichas 127-128). Verificación: el pentágono cierra con 0,45 m y da 146,35 ha. Los herederos de Domingo Lima (Leopoldo, Isabel, Celedonio) no se pusieron de acuerdo para ubicar cada parte del condominio: la página se corta en «el que su[scribe]…» y la siguiente sigue con «este día por terminado su cometido»; parece faltar un renglón o un folio (o el copista abrevió)."
+  },
+  {
+   "titulo": "Folio 3 · Cierre de la diligencia, circular, variación, firma; dictamen del D. I. (27/7/1883)",
+   "img": "img/f/129/11.jpg",
+   "fuente": "Toma IMG_9960 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 3]",
+    "este dia por terminado su cometido.",
+    "Circular de linderos fué firmada por los",
+    "Señores Don Agustin Casado, José M. Casado, Enrique",
+    "Martinez, Mauricia R. de Serval, y por Don",
+    "Manuel Lima su hijo M. Lima Hurtado.",
+    "Variacion diez grados ocho minutos",
+    "Nor Este",
+    "Wenceslao Castellanos",
+    "[sello oval: Departamento de Ingenieros · Entradas · 17 JUL 1883]",
+    "Señor Juez de 1^{a}. Instancia. —",
+    "El Departamento de",
+    "Ingenieros ha examinado la mensura",
+    "practicada por el agrimensor D. Wen-",
+    "ceslao Castellanos del terreno perte-",
+    "neciente á D. Celedonio Lima, ubica-",
+    "do en el partido de San Andres de",
+    "Giles, y encontrándola conforme con",
+    "sus antecedentes es de opinion",
+    "que V. S. puede prestarle su apro-",
+    "bacion —",
+    "— Julio 27/83 —",
+    "Jorge Coquet",
+    "Yparraguirre          Lagos"
+   ],
+   "interpretacion": "Cierre: la circular la firmaron Agustín Casado, José M. Casado, Enrique Martínez, Mauricia R. de Serval y, por Manuel Lima, su hijo M. Lima Hurtado. Variación 10° 8′ NE (Schuster, en las vecinas 127-128 del mes anterior, usaba 11° 42′). Firma Wenceslao Castellanos; entrada al D. I. el 17/7/1883. Dictamen del D. I. (27/7/1883): conforme con sus antecedentes, puede aprobarse; Jorge Coquet, Iparraguirre, Lagos."
+  },
+  {
+   "titulo": "Folio 4 · Oficio del juzgado de Mercedes: aprobación judicial (4/8/1883)",
+   "img": "img/f/129/12.jpg",
+   "fuente": "Toma IMG_9961 · página derecha",
+   "nota": "",
+   "lineas": [
+    "10 – 290 – 7 Corresp.^{te}",
+    "[sello fiscal: Dirección General de Rentas de la Provincia de Buenos Aires · 1883 · Seis pesos · N.^{o} 146807]",
+    "[sello: FOJA 4]",
+    "Mercedes Ag.^{to} 4 [de 1883]",
+    "Al S^{r}. Gefe del Dep.^{to} de",
+    "Ingenieros de la Provin-",
+    "cia.",
+    "Tengo el honor",
+    "de poner en conocimien-",
+    "to del S^{r}. Gefe que en la",
+    "fecha ha sido aprobada",
+    "por este Juzgado la men-",
+    "sura practicada por el",
+    "agrimensor D^{n}. Wences-",
+    "lao Castellanos de un",
+    "campo situado en el",
+    "Partido de Giles de pro-",
+    "piedad de D^{n}. Celedonio",
+    "F. Lima. —",
+    "Dios gde. á U^{d}.",
+    "Manuel B. Gonnet",
+    "[rúbrica:] Ago."
+   ],
+   "interpretacion": "Oficio del juez Manuel B. Gonnet (Mercedes, 4/8/1883): aprobada la mensura de Wenceslao Castellanos del campo de Celedonio F. Lima en Giles. Sello fiscal de seis pesos (1883, n.º 146807). La página izquierda de la toma está en blanco."
+  },
+  {
+   "titulo": "Dorso del oficio · Decreto de agregación (17/8/1883)",
+   "img": "img/f/129/13.jpg",
+   "fuente": "Toma IMG_9962 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "Ag.^{to} 17/83",
+    "Agréguese al dupl.^{do} correspond.^{te}",
+    "Coquet"
+   ],
+   "interpretacion": "Proveído del D. I. del 17/8/1883 («Agréguese al duplicado correspondiente»), firmado por Coquet."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Celedonio Lima (Castellanos, junio de 1883)",
+   "img": "img/f/129/03.jpg",
+   "fuente": "Toma IMG_9963",
+   "orientacion": "apaisado; flecha N-S en diagonal (N arriba a la izquierda); Manuel Lima arriba, Mauricia R. de Serval abajo",
+   "interpretacion": "Plano en color con marco de esquinas redondeadas. Dos rectángulos contiguos lavados: a la izquierda «Leopoldo, Isabel y Celedonio Lima · Sup. 146 h 26 a 21 c» (F-A-B-J-G) y a la derecha «Celedonio Lima · S. 50 h 59 a 20 c» (B-I-H-J). El «Arroyo de Morales» entra por el lado de Manuel Lima, cruza B-J y desemboca en una laguna sombreada en el mojón H, para seguir hacia el SE. En el extremo O, un bañado con matas de junco junto a F-G y el «Camino á Chacabuco» en diagonal. Linderos en letra gótica: Enrique Martínez y Manuel Lima (N), Agustín Casado y José M. Casado (O), Mauricia R. de Serval (S y E). Rótulos de lados: N 45° 55′ O = 1301 m; AB = S 46° 04′ E = 580,5; BI = S 45° 51′ E = 650,9; GJ = 1891,87; G-H S 45° 55′ E = 2543,43; F-G S 44° 54′ O = 775,40; H-I N 44° 09′ E = 776,1; J-H = 651,57; B-J S 44° 10′ O = 776,8. Firma: «Junio de 1883 · Wenceslao Castellanos».",
+   "referencias": [
+    [
+     "A",
+     "mojón de arranque sobre la línea de Manuel Lima / Enrique Martínez"
+    ],
+    [
+     "B",
+     "esquinero N de la fracción comprada a Müller"
+    ],
+    [
+     "I",
+     "esquinero N de Mauricia R. de Serval"
+    ],
+    [
+     "H",
+     "esquina S, en la laguna del arroyo de Morales"
+    ],
+    [
+     "J",
+     "esquina O de la fracción Müller; vértice común de ambas"
+    ],
+    [
+     "F, G",
+     "esquinas O del condominio, contra Agustín Casado y J. M. Casado"
+    ],
+    [
+     "Arroyo de Morales",
+     "curso que atraviesa ambas fracciones de NO a SE"
+    ],
+    [
+     "Laguna",
+     "en el mojón H, sombreada en gris"
+    ],
+    [
+     "Bañado",
+     "matas de junco a lo largo de F-G"
+    ],
+    [
+     "Camino á Chacabuco",
+     "diagonal en el extremo O, cruza F-G"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: condominio Lima y bañado",
+   "img": "img/f/129/04.jpg",
+   "fuente": "Toma IMG_9964",
+   "orientacion": "como el general",
+   "interpretacion": "Detalle de la fracción en condominio con sello de agrimensor, bañado y camino.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: fracción Müller, arroyo de Morales y laguna",
+   "img": "img/f/129/05.jpg",
+   "fuente": "Toma IMG_9965",
+   "orientacion": "como el general",
+   "interpretacion": "El arroyo de Morales y la laguna en H; firma de Castellanos.",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia de 1961 (Dirección de Geodesia)",
+   "img": "img/f/129/06.jpg",
+   "fuente": "Toma IMG_9966",
+   "orientacion": "como el original",
+   "interpretacion": "Rótulo: «Es copia del plano agregado al Duplicado N.º 129 del partido de San Andrés de Giles, mensura practicada en el año 1883 por el Agrimensor Wenceslao Castellanos. La Plata, Oct. de 1961». V.º B.º Agr. José A. González, jefe de División Agrimensura y Tasaciones; Agr. Nemesio I. Fernández, director; dibujó J. C. Jurado, revisó Lebacquerk [?].",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "El plano trae lo que el texto calla: el arroyo de Morales cruzando el campo, una laguna en el mojón H donde el arroyo se ensancha, un bañado con juncos sobre el lado O y el camino a Chacabuco. El arroyo de Morales no aparecía en fichas anteriores del corpus; con las lagunas de la 128 (sobre la línea de Alfonsín) dibuja un sistema de bajos en el rincón SO. Chacabuco como destino del camino orienta hacia el O/SO: el campo está en el borde de Giles hacia Carmen de Areco y Chacabuco."
+  },
+  {
+   "titulo": "Mercado de tierras y familia",
+   "texto": "La fracción de 895 × 750 v sale de la familia Lima en 1860 (Federico Napoleón), pasa por herencia, compra (Gorostiaga 1874), quiebra (concurso de Gorostiaga) y nueva venta (Müller 1878) y vuelve a un Lima en 1881: veinte años de circulación mercantil y vuelta a la familia. El resto lo tienen los tres hermanos en condominio, sin acuerdo para dividir. El primer título remite a la compra de 1838 al Superior Gobierno (enfiteusis rosista convertida en propiedad)."
+  },
+  {
+   "titulo": "Ritual",
+   "texto": "Pedido, nombramiento el día siguiente, antecedentes del D. I. y edictos en dos diarios —«La Nación» de la Capital y «El Pueblo» de Mercedes—: es una de las pocas mensuras del corpus que nombra los periódicos de los edictos. Circular firmada por los linderos (Manuel Lima, por su hijo M. Lima Hurtado). No se menciona acta."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Variación 10° 8′ NE, distinta de los 11° 42′ de Schuster en las mensuras vecinas del mes anterior (127-128): cada agrimensor trae su valor. Los rumbos (S 45° 55′ E / S 44° 10′ O) son casi idénticos a los de los Casado (S 45° 36′ E / S 45° 9′ O): mismo damero de fajas. Superficies en hectáreas sin equivalencia en varas. Verificación de la ficha: fracción Müller cierra con 0,8 m (50,56 ha) y condominio con 0,45 m (146,35 ha). Discrepancia menor: B-I = S 45° 55′ E en el texto y S 45° 51′ E en el plano."
+  },
+  {
+   "titulo": "Crítica documental",
+   "texto": "(1) Fechas incoherentes: Schuster mide la fracción en «2 de marzo de 1876» después de la venta de 1874; posiblemente 1873 o se trata de otra mensura. (2) El texto salta de «el que su[scribe]…» al «día por terminado su cometido»: falta la explicación sobre el desacuerdo de los herederos y quizá la ubicación interna del condominio. (3) La aprobación judicial nombra a «Celedonio F. Lima»."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "(1) 055 (Prat 1840, suerte de Mariano Lima de 9000 v), 124 (Unzué, lonjas de la suerte de Lima) y 125 (Petrona Lima de Martínez, paraje Moyano): los Lima de la laguna de Moyano. (2) 127-128: Agustín y José M.ª Casado al NO; Enrique Martínez (visado por Schuster) al NE. Sitúa a los Casado contiguos al bloque Lima. (3) Manuel Lima (y la «martillo ex Manuel Lima» de la 125). (4) Mismo juez y D. I. que 127-128."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Mauricia R. (Rodríguez) de Serval es heredera de José M. Rodríguez, comprador de otra parte de la franja de Domingo Lima? ¿Dónde está la mensura de Schuster de 1876 (o 1873) de la fracción Napoleón? Ubicar el arroyo de Morales y el camino a Chacabuco en el plano de 1890 y en la cartografía actual."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Wenceslao Castellanos",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor que firma en junio de 1883; primera aparición en el corpus. Plano de buena factura con letra gótica y color. Búsqueda web sin datos específicos.",
+   "fuentes": "esta mensura; búsqueda web sin resultados"
+  },
+  {
+   "nombre": "Celedonio F. Lima",
+   "rol": "Propietario",
+   "texto": "Hijo de Domingo Lima y Antonia Hernández, nieto de Mariano Lima. Recompró en 1881 a Augusto Müller la fracción vendida por su padre en 1860; condómino con Leopoldo e Isabel.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Mariano Lima",
+   "rol": "Antecesor (1838)",
+   "texto": "Compró al Superior Gobierno, el 8/1/1838, 2¼ leguas² junto a la laguna de Moyano (Areco). Su suerte, medida por Prat en 1840 (055), se fragmentó entre hijos y compradores (124, 125, 129).",
+   "fuentes": "esta mensura; fichas 055, 124, 125"
+  },
+  {
+   "nombre": "Domingo Lima y Antonia Hernández",
+   "rol": "Padres",
+   "texto": "Domingo recibió 895 × 9000 v de la herencia de Mariano; vendió partes a José M. Rodríguez y a Federico Napoleón (1860). Su testamentaría se liquidó antes de 1879.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Leopoldo e Isabel Lima",
+   "rol": "Condóminos",
+   "texto": "Hermanos de Celedonio; sin acuerdo para dividir el condominio.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Federico Napoleón, Domingo Gorostiaga, Augusto Müller",
+   "rol": "Compradores intermedios",
+   "texto": "Sucesivos dueños de la fracción de 50,6 ha (1860, 1874, 1878); Gorostiaga cayó en concurso de acreedores.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Manuel Lima y M. Lima Hurtado",
+   "rol": "Lindero ne / hijo",
+   "texto": "Manuel Lima, lindero NE (cf. 125); firmó por él su hijo M. Lima Hurtado.",
+   "fuentes": "esta mensura; ficha 125"
+  },
+  {
+   "nombre": "Mauricia Rodríguez de Serval",
+   "rol": "Lindera se y so",
+   "texto": "Rodea el campo por el S y el E; posible heredera de José M. Rodríguez.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Enrique Martínez, Agustín y José M.ª Casado",
+   "rol": "Linderos",
+   "texto": "Vecinos al NE y NO; cf. fichas 127-128.",
+   "fuentes": "fichas 127-128"
+  },
+  {
+   "nombre": "Capdevila, Gonnet, Coquet, Iparraguirre, Lagos",
+   "rol": "Juzgado y d. i.",
+   "texto": "Mismos funcionarios que 127-128 (juez de Mercedes y comisión técnica del Departamento de Ingenieros).",
+   "fuentes": "fichas 127-128"
+  },
+  {
+   "nombre": "Otros nombrados",
+   "rol": "Varios",
+   "texto": "C. Gallardo (escribano, 1879); José M. Rodríguez (comprador); en la copia de 1961: José A. González, Nemesio I. Fernández, J. C. Jurado, Lebacquerk [?].",
+   "fuentes": "esta mensura"
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/129/02.jpg",
+  "fuente": "Toma IMG_9957",
+  "lineas": [
+   "Giles 129.",
+   "Celedonio Lima",
+   "W. Castellanos"
+  ]
+ },
+ "titulo": "Celedonio F. Lima",
+ "estado": "Transcripta (7 hojas, 162 renglones), 4 láminas"
+}

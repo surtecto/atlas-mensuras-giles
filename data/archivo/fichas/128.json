@@ -1,0 +1,675 @@
+{
+ "carpeta": "128",
+ "carpeta_nombre": "Carpeta 128",
+ "archivo": "Ficha 128 - Herederos de Pedro Casado (1883).docx",
+ "resumen": {
+  "Propietario / solicitante": "Herederos de Pedro Casado",
+  "N.º de duplicado": "128",
+  "Agrimensor": "Carlos Schuster",
+  "Año": "1883",
+  "Fecha de la diligencia": "Pedido 9/2/1883; mensura 8-18/5/1883; D. I. 22/6/1883; aprob. 13/7/1883",
+  "Ubicación": "SO del partido, junto a J. M.ª Casado (127), Alfonsín y Esquivel",
+  "Orden judicial": "Juez Civil Dpto. del Centro (Mercedes): J. A. Capdevila; aprueba M. B. Gonnet",
+  "Vendedor / antecesor": "José M.ª Casado → hijuela de Pedro Casado (1858) → 5 hijos (1872)",
+  "Linderos citados": "Esquivel (NE); José M.ª Casado (SE); Agustín Casado (SO); Cecilio Alfonsín (NO)",
+  "Medidas": "Paralelogramo 995,9 × 3947,5 m = 393,10 ha; 5 fajas de 78,62 ha",
+  "Rumbos": "S 45° 36′ E y S 45° 9′ O; var. 11° 42′ NE; rumbos verdaderos",
+  "Referencia de archivo": "AHG-PBA, duplicado 128 de S. A. de Giles; copia M.O.P. 1945"
+ },
+ "metricas": {
+  "superficie_ha": "393,10",
+  "hitos": "casas de los Casado, E. y P. Martínez, F. Manzano; mojones de Alfonsín; dos lagunas en el lado NO",
+  "aguas": "dos lagunas (bajos) dibujadas sobre la línea de Alfonsín"
+ },
+ "sintesis": "Mensura y división en cinco quintos iguales (78,62 ha cada uno) del campo que Pedro Casado recibió en la hijuela de 1858: 1150 varas de frente por 4500 de fondo, la mitad de la franja que la ficha 127 llama «terreno de la testamentaría». La heredaron sus cinco hijos con Paula Acuña: Cipriano, Remigio, Petrona Paula (de Martínez), Felipa (de Cuello) y Pedro Mauricio. Schuster la hizo el 18 de mayo de 1883, un día antes que la de José María Casado, con los mismos mojones, juez, dictaminadores y fecha de aprobación. Las dos carpetas forman una sola operación: el abuelo con su mitad del campo de 1855 y, al lado, la tierra del hijo muerto repartida entre los nietos. El plano dibuja además dos lagunas sobre el límite con Alfonsín.",
+ "caratula": {
+  "img": "img/f/128/01.jpg",
+  "fuente": "Toma IMG_9942",
+  "campos": [
+   [
+    "Número",
+    "N.º 128 (ambos ángulos)"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Repartición",
+    "Dirección de Geodesia y Catastro de la Provincia de Buenos Aires"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para los señores Petrona Paula, Felipa Eduarda, Remigio Marcelino, Cipriano Antonio y Pedro Mauricio Casado"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Carlos Schuster"
+   ],
+   [
+    "Año",
+    "1883"
+   ],
+   [
+    "Mes / Juzgado / Secretario",
+    "en blanco"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Estracto de títulos: hijuela de Pedro Casado (1858) y de sus cinco hijos (1872)",
+   "img": "img/f/128/08.jpg",
+   "fuente": "Toma IMG_9944",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 1]",
+    "Mensura del campo de pro-",
+    "piedad de D^{ña}. Petrona Paula, D^{ña}.",
+    "Felipa Eduarda, D. Remijio Marcelino,",
+    "D. Cipriano Antonio y D. Pedro Mauricio",
+    "Casado, — situado en el Partido de",
+    "San Andres de Giles.",
+    "=",
+    "Estracto de títulos",
+    "=",
+    "Correspondió á D. Pedro Casado, se-",
+    "gun su hijuela de 2 de Enero de 1858, entre",
+    "otras cosas, un campo situado en el Partido",
+    "de Giles compuesto de mil ciento cincuenta",
+    "varas de frente con cuatro mil quinientas",
+    "varas de fondo, lindando por el Norte y Este",
+    "con D. Bernardo Gutierrez, por el Sud con",
+    "terreno de la testamentaria y por el Oeste",
+    "con terreno del heredero D. Agustin Ca-",
+    "sado.",
+    "Liquidada la testamentaria de",
+    "los cónyuges D. Pedro Casado y D^{ña}. Paula",
+    "Acuña el campo que expresa el título an-",
+    "terior fué adjudicado á los herederos hijos",
+    "lejítimos de aquellos D. Remijio Marcelino,",
+    "D^{ña}. Felipa Eduarda, D^{ña}. Petrona Paula,",
+    "D. Cipriano Antonio y D. Pedro Mauricio, —",
+    "correspondiendo á cada uno la quinta",
+    "parte del referido campo, segun los",
+    "testimonios de las respectivas hijuelas",
+    "espedidos con fecha 26 de Agosto de 1872",
+    "por el Escribano Público D. Cárlos Bay-",
+    "mond, que se acompañan."
+   ],
+   "interpretacion": "Título del campo de cinco hermanos Casado: Petrona Paula, Felipa Eduarda, Remigio Marcelino, Cipriano Antonio y Pedro Mauricio. Su padre, Pedro Casado, recibió por hijuela del 2/1/1858 —la MISMA fecha que la hijuela de José María Casado de la ficha 127— un campo de 1150 v de frente por 4500 de fondo, lindando N y E con Bernardo Gutiérrez, S con terreno de la testamentaría y O con el heredero Agustín Casado. Liquidada la testamentaría de Pedro Casado y su esposa Paula Acuña, el campo se adjudicó en quintos a sus cinco hijos (hijuelas expedidas el 26/8/1872 por el escribano Carlos Baymond [?]). Se aclara así el árbol: Pedro y Agustín Casado eran hijos de José María; los cinco «hermanos Casado» linderos de la 127 son NIETOS."
+  },
+  {
+   "titulo": "Folio 1 v. · Pedido de mensura y división (9/2/1883), auto, aceptación y comienzo de la mensura",
+   "img": "img/f/128/09.jpg",
+   "fuente": "Toma IMG_9945 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "1883. Febrero 9. D. Pablo A. Martinez, es-",
+    "poso de D^{ña}. Petrona Paula Casado, — se",
+    "presenta al Juez de 1^{a}. Instancia en lo",
+    "Civil de este Departamento, solicitando",
+    "la mensura y division por el Agrimensor que",
+    "firma, del campo á que se refiere la",
+    "hijuela originaria, prévia conformidad",
+    "de los demas herederos.",
+    "En la misma fecha se hace lugar",
+    "á lo solicitado, manifestando su con-",
+    "formidad todos los interesados.",
+    "Con fecha 14 del mismo se dictó",
+    "el auto ordenando la mensura y di-",
+    "visiva del campo.",
+    "Con fecha 17 acepté el cargo y en",
+    "Marzo 9 tomé antecedentes del Depar-",
+    "tamento de Ingenieros.",
+    "=",
+    "Mensura",
+    "=",
+    "El Agrimensor Público que firma,",
+    "comisionado por el S^{r}. Juez de 1^{a}. Ins-",
+    "tancia en lo Civil del Departamento",
+    "del Centro, D^{r}. D. José A. Capdevila,",
+    "para medir el campo de propiedad",
+    "de los señores: D^{ña}. Petrona Páula, D^{ña}.",
+    "Felipa Eduarda, D. Remijio Marcelino,",
+    "D. Cipriano Antonio y D. Pedro Mau-",
+    "ricio Casado, — herederos todos de D.",
+    "Pedro Casado, como se expresa en el",
+    "anterior estracto de títulos, observa-"
+   ],
+   "interpretacion": "Trámite: el 9/2/1883 Pablo A. Martínez, esposo de Petrona Paula Casado, pide mensura y división con conformidad de los demás herederos; auto del 14/2 (juez Capdevila, Departamento del Centro), aceptación del agrimensor el 17/2 y antecedentes del D. I. el 9/3/1883. Comienza la diligencia."
+  },
+  {
+   "titulo": "Folio 2 · Frente A-B y comienzo de la línea B-C con los divisorios E y F",
+   "img": "img/f/128/10.jpg",
+   "fuente": "Toma IMG_9945 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 2]",
+    "das las formalidades legales como se com-",
+    "prueba con los justificativos que se acom-",
+    "pañan, procedí á llenar mi cometido del",
+    "modo siguiente:",
+    "Me coloqué en el mojon del ángulo Norte",
+    "del terreno á medir señalado con la letra",
+    "A en el plano, Este de D. Cecilio Alfonsin",
+    "y costanero de D. Liborio Esquivel, del",
+    "cual, por el rumbo al Sud cuarenta y cinco",
+    "grados treinta y seis minutos Este medí",
+    "novecientos noventa y cinco metros nueve",
+    "decímetros (S 45° 36′ E = 995.9^{m}.) que corres-",
+    "ponde de frente y coloqué el mojon del",
+    "ángulo Este, letra B Norte de D. José Maria",
+    "Casado y costanero de Esquivel. En esta linea",
+    "se deslinda con este último.",
+    "Desde el mojon B. medí al Sud cuarenta",
+    "y cinco grados nueve minutos Oeste, dividiendo",
+    "con D. José Maria Casado, tres mil novecientos",
+    "cuarenta y siete metros cinco decímetros —",
+    "(S 45° 9′ O = 3947.5^{m}.) que es la mitad del",
+    "fondo de esta linea; — la otra mitad perte-",
+    "nece á D. Agustin Casado. En ella coloqué",
+    "los mojones siguientes: á los setecientos",
+    "ochenta y nueve metros cinco decímetros",
+    "el letra E. divisorio entre D. Cipriano y Don",
+    "Remijio Casado, del ángulo Sud para el",
+    "primero y Este para el segundo, á los mil",
+    "quinientos setenta y nueve metros el F divi-",
+    "sorio entre D. Remijio y D^{ña}. Paula, del ángulo",
+    "Sud para el primero y Este para el segundo"
+   ],
+   "interpretacion": "Arranque en A, esquinero N, que es E de Cecilio Alfonsín y costanero de Liborio Esquivel. A-B S 45° 36′ E 995,9 m (= 1150 v) contra Esquivel; B es N de José María Casado (ficha 127). B-C S 45° 9′ O 3947,5 m contra José María Casado: «la mitad del fondo de esta línea; la otra mitad pertenece a D. Agustín Casado». Sobre ella, divisorios: E a 789,5 m (Cipriano/Remigio) y F a 1579 m (Remigio/Paula). Cada hijuela tiene 789,5 m de frente (= 911,7 v ≈ un quinto de 1150 × 4500 v... medido en metros: 3947,5 / 5)."
+  },
+  {
+   "titulo": "Folio 2 v. · Divisorios G, H y C sobre B-C; costado C-D contra Agustín Casado",
+   "img": "img/f/128/11.jpg",
+   "fuente": "Toma IMG_9946 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "á los dos mil trescientos sesenta y ocho metros",
+    "cinco decímetros el G divisorio entre D^{ña}. Paula",
+    "y D^{ña}. Felipa, del ángulo Sud para la prime-",
+    "ra y Este para la segunda; á los tres mil",
+    "ciento cincuenta y ocho metros el H divisorio en-",
+    "tre D^{ña}. Felipa y D. Pedro, del Sud para la",
+    "primera y Este para el segundo; y por úl-",
+    "timo á los tres mil novecientos cuarenta",
+    "y siete metros cinco decímetros el C del",
+    "Sud para D. Pedro, Este para D. Agustin",
+    "Casado y costanero de D. José Maria Ca-",
+    "sado. —",
+    "Desde este mojon volví al A de arran-",
+    "que que es Norte del de D. Cipriano, y por",
+    "el rumbo al Sud cuarenta y cinco grados",
+    "nueve minutos Oeste medí, deslindando",
+    "con D. Cecilio Alfonsin á los setecientos",
+    "ochenta y nueve metros cinco decímetros",
+    "coloqué el mojon I del ángulo Oeste para",
+    "D. Cipriano y Norte para D. Remijio; á",
+    "los mil quinientos setenta y nueve metros",
+    "puse el Oeste para D. Remijio y Norte",
+    "para D^{ña}. Paula, letra K; á los dos",
+    "mil trescientos sesenta y ocho metros",
+    "cinco decímetros puse el Oeste para esta",
+    "última y Norte para D^{ña}. Felipa, letra L;",
+    "á los tres mil ciento cincuenta y ocho",
+    "metros puse el Oeste para esta última y",
+    "Norte para D. Pedro, letra M y por último,",
+    "á los tres mil novecientos cuarenta y",
+    "siete metros cinco decímetros puse el"
+   ],
+   "interpretacion": "Siguen G a 2368,5 (Paula/Felipa), H a 3158 (Felipa/Pedro) y C a 3947,5 m (S de Pedro, E de Agustín, costanero de José M.ª). Luego, de A al SO por S 45° 9′ O, contra Cecilio Alfonsín, los mojones I (789,5), K (1579), L (2368,5), M (3158) y D (3947,5). Las fajas se cortan a lo largo del eje mayor: cada hijo recibe un rectángulo de 995,9 m de largo (perpendicular a B-C) por 789,5 m de ancho."
+  },
+  {
+   "titulo": "Folio 3 · Mojón D, fondo D-C contra Agustín Casado, líneas divisorias y superficie",
+   "img": "img/f/128/12.jpg",
+   "fuente": "Toma IMG_9946 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 3]",
+    "del ángulo Oeste para D. Pedro, Norte para D.",
+    "Agustin Casado y tambien costanero para Alfonsin",
+    "letra D. En esta linea se encontraron á los",
+    "mil setecientos treinta y cuatro metros y tres",
+    "mil ciento veinte y dos metros mojones cos-",
+    "taneros de Alfonsin",
+    "Desde D al Sud cuarenta y cinco grados",
+    "treinta y seis minutos Este se midieron",
+    "novecientos noventa y cinco metros nueve",
+    "decímetros (S 45° 36′ E = 995.9^{m}.) hasta el",
+    "mojon C. — Se deslinda con D. Agustin",
+    "Casado, — y por último, medí las lineas",
+    "I.E, K.F, L.G, y M.H las cuales corren al rumbo",
+    "Sud cuarenta y cinco grados treinta y seis",
+    "minutos Este y su longitud es de nove-",
+    "cientos noventa y cinco metros nueve",
+    "decímetros.",
+    "La superficie total del terreno me-",
+    "dido, es de trescientas noventa y tres hec-",
+    "táreas nueve areas sesenta metros cua-",
+    "drados, igual á cinco millones dos-",
+    "cientas cuarenta y un mil quinientas",
+    "ochenta y siete y media varas cua-",
+    "dradas (393^{h}. 09^{a}. 60^{m.c}. = 5.241.587 ½ V.^{s} C.^{s}).",
+    "Por consiguiente corresponde á cada uno",
+    "de los cinco herederos setenta y ocho hec-",
+    "táreas sesenta y una areas noventa y dos",
+    "metros cuadrados, igual á un millon cua-",
+    "renta y ocho mil trescientas diez y sie-",
+    "te y media varas cuadradas (78^{h}. 61^{a}.",
+    "92^{m.c}. = 1.048.317 ½ V.^{s} C.^{s}) —"
+   ],
+   "interpretacion": "D es esquinero O de Pedro, N de Agustín Casado y costanero de Alfonsín; en A-D se hallaron mojones costaneros de Alfonsín a 1734 y 3122 m. D-C S 45° 36′ E 995,9 m contra Agustín Casado; las divisorias I-E, K-F, L-G, M-H tienen el mismo rumbo y largo. Superficie total 393 ha 09 a 60 m² = 5 241 587 ½ v²; cada quinto 78 ha 61 a 92 m² = 1 048 317 ½ v²."
+  },
+  {
+   "titulo": "Folio 3 v. · Figura, superficie y linderos de cada fracción: Cipriano, Remigio",
+   "img": "img/f/128/13.jpg",
+   "fuente": "Toma IMG_9947 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "Figura, superficie y linderos",
+    "de cada una de las fracciones: —",
+    "La de D. Cipriano Antonio Casado",
+    "tiene la figura de un romboide y su",
+    "superficie es de setenta y ocho hectáreas",
+    "sesenta y una areas noventa y dos metros",
+    "cuadrados, igual á un millon cuarenta",
+    "y ocho mil trescientas diez y siete y",
+    "media varas cuadradas (78^{h}. 61^{a}. 92^{m.c}. =",
+    "1048317 ½ V.^{s} C.^{s}); y linda al Noreste",
+    "con D. Liborio Esquivel, al Sudeste con",
+    "D. José M^{a}. Casado, al Sudoeste con D.",
+    "Remijio Casado y al Noroeste con D.",
+    "Cecilio Alfonsin.",
+    "La de D. Remijio Marcelino",
+    "Casado.",
+    "Tiene la figura de un romboide",
+    "y su superficie de setenta y ocho",
+    "hectáreas sesenta y una areas noventa",
+    "y dos metros cuadrados, igual á un",
+    "millon cuarenta y ocho mil trescientas",
+    "diez y siete y media varas cuadradas",
+    "(78^{h}. 61^{a}. 92^{m.c}. = 1048317 ½ V.^{s} C.^{s}); y linda al",
+    "Noreste con D. Cipriano A. Casado, al Sud-",
+    "este con D. José M^{a}. Casado, al Sudoeste",
+    "con D^{ña}. Petrona P. Casado de Martinez,",
+    "al Noroeste con D. Cecilio Alfonsin.",
+    "La de D^{ña}. Petrona Paula",
+    "Casado de Martinez",
+    "Tiene la figura de un romboide",
+    "y su superficie es de setenta y ocho"
+   ],
+   "interpretacion": "Descripción de cada fracción (todas «romboides» de 78,6192 ha): Cipriano Antonio (NE Esquivel, SE José M.ª Casado, SO Remigio, NO Cecilio Alfonsín); Remigio Marcelino (NE Cipriano, SE José M.ª, SO Petrona P. Casado de Martínez, NO Alfonsín); comienza la de Petrona Paula."
+  },
+  {
+   "titulo": "Folio 4 · Fracciones de Petrona Paula, Felipa Eduarda y comienzo de la de Pedro Mauricio",
+   "img": "img/f/128/14.jpg",
+   "fuente": "Toma IMG_9947 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 4]",
+    "hectáreas sesenta y una areas noventa y dos",
+    "metros cuadrados, igual á un millon cua-",
+    "renta y ocho mil trescientas diez y siete y",
+    "media varas cuadradas (78^{h}. 61^{a}. 92^{m.c}. =",
+    "1048317 ½ V.^{s} C.^{s}) — y linda al Noreste con",
+    "D. Remijio M. Casado, al Sudeste con Don",
+    "José M^{a}. Casado, al Sudoeste con D^{ña}.",
+    "Felipa E. Casado de Cuello y al Nor-",
+    "oeste con D. Cecilio Alfonsin.",
+    "La de D^{ña}. Felipa E. Ca-",
+    "sado de Cuello.",
+    "Tiene la figura de un rom-",
+    "boide y su superficie es igual á se-",
+    "tenta y ocho hectáreas sesenta y una areas",
+    "noventa y dos metros cuadrados, igual",
+    "á un millon cuarenta y ocho mil trescien-",
+    "tas diez y siete y media varas cuadradas",
+    "(78^{h}. 61^{a}. 92^{m.c}. = 1048317 ½ V.^{s} C.^{s}) — y",
+    "linda al Noreste con D^{ña}. Petrona P. Ca-",
+    "sado de Martinez, al Sudeste con Don",
+    "José M^{a}. Casado, al Sudoeste con Don",
+    "Pedro M. Casado y al Noroeste con Don",
+    "Cecilio Alfonsin",
+    "La de Don Pedro M. Ca-",
+    "sado.",
+    "Tiene la figura de un romboide y su",
+    "superficie es igual á setenta y ocho hec-",
+    "táreas sesenta y una areas noventa y dos",
+    "metros cuadrados, igual á un millon",
+    "cuarenta y ocho mil trescientas"
+   ],
+   "interpretacion": "Petrona Paula (NE Remigio, SE José M.ª, SO Felipa E. Casado de Cuello, NO Alfonsín); Felipa Eduarda (NE Petrona, SE José M.ª, SO Pedro M., NO Alfonsín); comienza Pedro Mauricio. Los rumbos de los linderos concuerdan con la ficha 127, donde las fajas de los nietos quedan al NO de la franja de José M.ª Casado."
+  },
+  {
+   "titulo": "Folio 4 v. · Fin de las fracciones, cierre, variación, firma (18/5/1883) y abalizamientos",
+   "img": "img/f/128/15.jpg",
+   "fuente": "Toma IMG_9948 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "diez y siete y media varas cuadradas —",
+    "(78^{h}. 61^{a}. 92^{m.c}. = 1048317 ½ V.^{s} C.^{s}) y linda al",
+    "Noreste con D^{ña}. Felipa E. Casado de Cuello,",
+    "al Sudeste con D. José M^{a}. Casado, al Sud-",
+    "oeste con D. Agustin Casado y al Noroeste",
+    "con D. Cecilio Alfonsin.",
+    "Fué concluida esta operacion sin",
+    "oposicion alguna.",
+    "La circular de citacion fué firmada",
+    "por todos los linderos.",
+    "Se levantó el acta con arreglo á la",
+    "Ley de Procedimientos y se acompaña",
+    "al espediente. —",
+    "Los rumbos son los verdaderos y la",
+    "variacion de la Aguja es de once grados,",
+    "cuarenta y dos minutos Noreste. (11° 42′ N.E.)",
+    "Partido de San Andres",
+    "de Giles á diez y ocho de Ma-",
+    "yo de mil ochocientos ochen-",
+    "ta y tres.",
+    "Cárlos Schuster",
+    "Avalizamientos",
+    "=",
+    "Mojon A sobre A B — D. José M^{a}. Casado 44° 30′ —",
+    "D. Cipriano Casado 13° 20′ — D. Remijio Casado 62° 15′ —",
+    "Mojon B sobre B C — D. Enrique Martinez 285° —",
+    "D. Pablo Martinez 276° 35′ — D. Cipriano Casado 78° 15′ —",
+    "Mojon C sobre C B — D. Pedro Casado 279° 35′ —",
+    "D. José M^{a}. Casado 15° 50′ — D. Felix Manzano 264° 20′ —",
+    "Mojon D sobre D A. D. Pedro Casado 60° — Don",
+    "Agustin Casado 147° 40′ — D. Félix Manzano 261° 45′.",
+    "Schuster"
+   ],
+   "interpretacion": "Pedro Mauricio linda NE con Felipa, SE con José M.ª Casado, SO con Agustín Casado y NO con Cecilio Alfonsín. «Fue concluida esta operación sin oposición alguna»; circular firmada por todos; acta según la Ley de Procedimientos; rumbos verdaderos; variación 11° 42′ NE. Giles, 18/5/1883 (un día antes que la 127). Abalizamientos en azimut a las casas de José M.ª, Cipriano, Remigio, Pedro y Agustín Casado, Enrique y Pablo Martínez y Félix Manzano."
+  },
+  {
+   "titulo": "Folio 5 · Circular de citación (Mercedes, 30/4/1883) y acta de conformidad (18/5/1883)",
+   "img": "img/f/128/16.jpg",
+   "fuente": "Toma IMG_9954 · página derecha (f. 5; tapado por el plano en IMG_9948)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 5]",
+    "El Agrimensor que suscribe, habiendo con fe-",
+    "cha 14 de Febrero del corriente año, recibido",
+    "comision del S^{r}. Juez de primera instancia",
+    "en lo Civil del Departamento del Centro D^{r}.",
+    "D. José A. Capdevila, para medir y dividir",
+    "el campo de Doña Paula Casado y otros situa-",
+    "do en el Partido de Giles, previene á los Seño-",
+    "res linderos que vá á dar principio á la",
+    "mensura el dia 8 del mes de Mayo; para",
+    "que puedan V^{ds}., siendo linderos, concurrir á",
+    "reconocer si se sobrepasan los límites de su",
+    "propiedad — A este fin son V^{ds}. invitados á",
+    "asistir con sus títulos á la citada mensura —",
+    "Y siendo tambien necesario hacer constar haber-",
+    "se practicado esta citacion, se servirán V^{des}.",
+    "darse por notificados, poniendo su firma",
+    "al respaldo de la presente, lo que, sino pu-",
+    "diesen hacer, será espresado por medio de tes-",
+    "tigos = El espediente sobre la materia, tra-",
+    "mita por la Oficina del Escribano Secretario",
+    "Don Cárlos D. Gimenez = Mercedes, Abril 30",
+    "de 1883 = Firmado = Cárlos Schuster = Liborio",
+    "Esquivel = José M^{a}. Casado = Cecilio Alfon-",
+    "sin = Agustin Casado —",
+    "Los Señores linderos del campo de Doña Pau-",
+    "la Casado y otros, herederos todos de Don Pedro",
+    "Casado, que acabo de medir, manifestaron",
+    "estár conformes con la operacion practicada,",
+    "en la parte de deslinde que á cada uno",
+    "le corresponde y en prueba de ello firman",
+    "con el Agrimensor suscripto esta acta — En",
+    "el Partido de Giles á diez y ocho de Mayo de",
+    "mil ochocientos ochenta y tres = Firmado = Cár-",
+    "los Schuster = Agustin Casado = José M^{a}. Casado",
+    "= Cecilio Alfonsin = Liborio Esquivel —",
+    "Es copia",
+    "Cárlos Schuster",
+    "[sello oval: Departamento de Ingenieros · Entradas · 5 JUN 1883]"
+   ],
+   "interpretacion": "Circular (Mercedes, 30/4/1883; mensura anunciada para el 8 de mayo; secretario Carlos D. Giménez) firmada por Liborio Esquivel, José M.ª Casado, Cecilio Alfonsín y Agustín Casado; acta de conformidad del 18/5/1883 con las mismas firmas; «es copia» de Schuster y entrada al D. I. el 5/6/1883. En la toma IMG_9948 esta página queda tapada por el plano plegado."
+  },
+  {
+   "titulo": "Folio 7 v. · Dictamen del Departamento de Ingenieros (22/6/1883)",
+   "img": "img/f/128/17.jpg",
+   "fuente": "Toma IMG_9955 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "Señor Juez de 1^{a}. Instancia:",
+    "El Departamento de Ingenieros ha exami-",
+    "nado la mensura y division practicada",
+    "por el agrimensor Schuster en el Parti-",
+    "do de Giles y no teniendo observacion que",
+    "oponerle, la considera en estado de ser",
+    "aprobada judicialmente.",
+    "Junio 22 de 1883.",
+    "Jorge Coquet",
+    "M. Yparraguirre          Lagos"
+   ],
+   "interpretacion": "Dictamen del D. I. (22/6/1883, mismo día que la 127): sin observaciones, «la considera en estado de ser aprobada judicialmente». Firman Jorge Coquet, M. Yparraguirre y Lagos."
+  },
+  {
+   "titulo": "Folio 8 · Oficio del juzgado de Mercedes: aprobación judicial (13/7/1883)",
+   "img": "img/f/128/18.jpg",
+   "fuente": "Toma IMG_9955 · página derecha",
+   "nota": "",
+   "lineas": [
+    "Corresp.^{te}   10 – 120 – 1035",
+    "[sello fiscal: Dirección General de Rentas de la Provincia de Buenos Aires · 1883 · Seis pesos · N.^{o} 144956]",
+    "[sello: FOJA 8]",
+    "Mercedes Julio 13 [de 1883]",
+    "Al S^{r}. Gefe del Departa-",
+    "mento de Ingenieros de",
+    "la Provincia.",
+    "Tengo el honor",
+    "de poner en conocimien-",
+    "to del S^{r}. Gefe que en la",
+    "fecha ha sido aprobada",
+    "por este Juzgado la mensu-",
+    "ra practicada por el",
+    "Agrimensor D^{n}. Cárlos",
+    "Schuster, de un campo",
+    "situado en el Partido",
+    "de Giles de propiedad de",
+    "D^{a}. Paula Casado y otros",
+    "Dios gde. al S^{r}. Gefe",
+    "Manuel B. Gonnet",
+    "[al margen izquierdo:] [Gim]enes · [Secret]ario",
+    "[sello oval: Departamento de Ingenieros · Entradas · 20 JUL 1883]"
+   ],
+   "interpretacion": "Oficio del juez Manuel B. Gonnet (Mercedes, 13/7/1883) al jefe del D. I.: aprobada la mensura de Schuster del campo «de D.ª Paula Casado y otros». Sello fiscal 144956 (el de la 127 es 144959: mismos días); entrada al D. I. el 20/7/1883."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la división entre los herederos de Pedro Casado (Schuster, 1883)",
+   "img": "img/f/128/03.jpg",
+   "fuente": "Toma IMG_9949",
+   "orientacion": "apaisado; línea de Alfonsín arriba, José M.ª Casado abajo; flecha N-S en diagonal",
+   "interpretacion": "Rectángulo largo dividido en cinco fajas: de izquierda a derecha Pedro Mauricio, Felipa Eduarda, Petrona Paula, Remigio Marcelino y Cipriano Antonio (78 61 92 a lápiz en cada una); a la izquierda, más ancho, «Agustín Casado»; arriba «Cecilio Alfonsín» y a la derecha (vertical) «Liborio Esquivel»; abajo «José María Casado». Signos de población «P. Casado» y «R. Casado» dentro de las fajas. Sobre la línea de Alfonsín dos lagunas dibujadas como contornos cerrados (una entre M y la faja de Felipa, otra en K) y una tercera mayor junto a J, fuera del campo. Escala de metros; firma de Schuster.",
+   "referencias": [
+    [
+     "A",
+     "esquinero N; E de Cecilio Alfonsín, costanero de Esquivel"
+    ],
+    [
+     "A-B",
+     "S 45° 36′ E 995,9 m contra Liborio Esquivel"
+    ],
+    [
+     "B",
+     "esquinero E = N de José M.ª Casado (A de la ficha 127)"
+    ],
+    [
+     "E, F, G, H",
+     "divisorios sobre B-C a 789,5 · 1579 · 2368,5 · 3158 m"
+    ],
+    [
+     "C",
+     "a 3947,5 m de B: S de Pedro M., E de Agustín Casado"
+    ],
+    [
+     "I, K, L, M",
+     "divisorios sobre A-D, contra Alfonsín, mismas progresivas"
+    ],
+    [
+     "D",
+     "esquinero O; N de Agustín Casado; costanero de Alfonsín"
+    ],
+    [
+     "Lagunas",
+     "contornos cerrados sobre la línea A-D (entre K y M y junto a J)"
+    ],
+    [
+     "P. Casado / R. Casado",
+     "poblaciones de Pedro y de Remigio Casado"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: fajas de Pedro Mauricio a Petrona Paula y Agustín Casado",
+   "img": "img/f/128/04.jpg",
+   "fuente": "Toma IMG_9950",
+   "orientacion": "como el general",
+   "interpretacion": "Mitad SO del plano con las progresivas y la población de P. Casado; laguna en M.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: fajas centrales y lagunas",
+   "img": "img/f/128/05.jpg",
+   "fuente": "Toma IMG_9951",
+   "orientacion": "como el general",
+   "interpretacion": "Las cinco fajas con rumbo S 45° 36′ E, 995,9 m, progresivas 789,5 · 1579 · 2368,5 · 3158 · 3947,5 y la superficie 78 61 92 a lápiz. Lagunas en M y K, y otra mayor junto a J.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: Cipriano, Remigio, Esquivel y firma",
+   "img": "img/f/128/06.jpg",
+   "fuente": "Toma IMG_9952",
+   "orientacion": "como el general",
+   "interpretacion": "Extremo NE: faja de Cipriano Antonio, línea de Liborio Esquivel y firma de Carlos Schuster.",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia de 1945 (Geodesia, Catastro y Tierras, M.O.P.)",
+   "img": "img/f/128/07.jpg",
+   "fuente": "Toma IMG_9953",
+   "orientacion": "como el original",
+   "interpretacion": "Rótulo: «Es copia del plano agregado al duplicado n.º 128 del partido de Giles; mensura practicada por el Agrim. Carlos Schuster en Mayo 18 de 1883. La Plata, Febrero 1945». Sello Geodesia, Catastro y Tierras · M.O.P. · Dirección; firma Francisco Esteban [?]; «Copiado en Sala de Dibujo». Escala hasta 3000 m.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Lo único «natural» del plano son las lagunas: dos pequeñas sobre la línea de Alfonsín (una en el mojón K, entre Remigio y Paula, y otra en M) y una mayor junto a J, fuera del campo. El texto no las nombra: sólo el dibujo las registra. El resto del paisaje lo dan las poblaciones visadas (casas de José M.ª, Agustín, Pedro, Cipriano y Remigio Casado; Enrique y Pablo Martínez; Félix Manzano). Es un paisaje de pequeñas chacras familiares de 78 ha, cada una con su casa."
+  },
+  {
+   "titulo": "Genealogía y herencia",
+   "texto": "Esta carpeta reescribe la 127: (1) José María Casado y su esposa (fallecida antes de 1858) dividieron en 1858 el campo de 2300 × 9000 v: la mitad para el viudo y la otra (la «testamentaría») para los hijos, por hijuelas del 2/1/1858. (2) Pedro Casado recibió 1150 × 4500 v (la mitad SE de esa franja) y Agustín la otra mitad. (3) Muertos Pedro y su esposa Paula Acuña, sus cinco hijos se adjudicaron un quinto cada uno (1872) y en 1883 lo midieron. La «D.ª Paula Casado» de la 127 es Petrona Paula, la nieta. Tres generaciones sobre la misma franja en 28 años: del campo de 2300 v a fajas de 912 v de ancho."
+  },
+  {
+   "titulo": "Ritual",
+   "texto": "Pedido del yerno (Pablo A. Martínez) con conformidad de los coherederos, auto, aceptación, antecedentes del D. I., circular fechada en Mercedes el 30/4 (el mismo día que la de la 127) firmada sólo por los linderos externos (Esquivel, José M.ª Casado, Cecilio Alfonsín, Agustín Casado), mensura «sin oposición alguna», acta (18/5), dictamen (22/6), aprobación (13/7) y entrada (20/7). Los dos expedientes Casado viajaron juntos por todas las instancias."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Paralelogramo de 995,9 m (1150 v) por 3947,5 m; los costados largos a S 45° 9′ O y los cortos a S 45° 36′ E: ángulo de 90° 45′, no un rectángulo. Verificación de la ficha: 995,9 × 3947,5 × sen 90° 45′ = 393,10 ha, idéntico al valor declarado. División en partes iguales por distancias iguales (789,5 m) sobre ambos costados. Variación 11° 42′ NE y rumbos verdaderos, como en la 127. Equivalencia exacta en varas cuadradas."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "(1) 127: B de esta mensura = A de la 127; los divisorios E, F, G, H, C coinciden con los mojones «recientemente puestos en la mensura de los Casado» de la 127 (C, H, G, F, E = 3947,5 · 4737 · 5526,5 · 6316 · 7105,5 m desde D en la 127, es decir 3947,5 + 0 / 789,5 / 1579 / 2368,5 / 3158). El «4937» del texto de la 127 es error de copia por 4737, cifra que da el propio plano de la 127. (2) Cecilio Alfonsín (NO) = Cecilio Alfonsín, lindero de 052 y 123; Abad Alfonsín de la 127. (3) Bernardo Gutiérrez, lindero N y E en 1858: confirma que el campo Casado tocaba la repartición Gutiérrez (024, 052, 053, 063, 123). (4) Mismos juez (Capdevila/Gonnet), secretario (Giménez) y D. I. (Coquet, Iparraguirre, Lagos) que la 127. (5) 129 (Castellanos, junio 1883): Celedonio Lima y hermanos lindan al NO/SE con Agustín y José M.ª Casado, con Enrique Martínez al NE; los rumbos de los Lima (S 45° 55′ E / S 44° 10′ O) prolongan el mismo damero. El arroyo de Morales y las lagunas de 129 continúan probablemente las lagunas dibujadas aquí sobre la línea de Alfonsín."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "Falta la mensura de Agustín Casado (la otra mitad) y la del sector de Felipa/Pedro que la 127 cita: ¿están en otros duplicados? Apellido del escribano de 1872 (Baymond [?]). ¿Quién fue la esposa de José María Casado? (no se nombra). Ubicar las lagunas en el GIS y compararlas con la cartografía actual."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor del SO del partido (052, 053, 063, 123-125, 127). Midió las dos mensuras Casado en mayo de 1883, en días consecutivos. Sin datos biográficos en la web.",
+   "fuentes": "esta mensura; fichas citadas"
+  },
+  {
+   "nombre": "Pedro Casado y Paula Acuña",
+   "rol": "Causantes",
+   "texto": "Pedro, hijo de José María Casado, recibió por hijuela de 1858 1150 × 4500 v; casado con Paula Acuña, ambos muertos antes de 1872.",
+   "fuentes": "esta mensura; ficha 127"
+  },
+  {
+   "nombre": "Cipriano Antonio, Remigio Marcelino, Petrona Paula, Felipa Eduarda y Pedro Mauricio Casado",
+   "rol": "Propietarios",
+   "texto": "Hijos de Pedro Casado y Paula Acuña; cada uno recibió 78,62 ha. Petrona Paula casada con Pablo A. Martínez (promotor del juicio); Felipa Eduarda con José T. Cuello. Pedro y Remigio tenían población propia en 1883.",
+   "fuentes": "esta mensura; ficha 127"
+  },
+  {
+   "nombre": "José María Casado",
+   "rol": "Lindero se / abuelo",
+   "texto": "Propietario de la franja contigua (127); compró el campo original en 1855.",
+   "fuentes": "ficha 127"
+  },
+  {
+   "nombre": "Agustín Casado",
+   "rol": "Lindero so / tío",
+   "texto": "Hijo de José María; heredó la otra mitad del fondo (1150 × 4500 v). Tenía población visada desde D.",
+   "fuentes": "esta mensura; ficha 127"
+  },
+  {
+   "nombre": "Cecilio Alfonsín",
+   "rol": "Lindero no",
+   "texto": "Lindero en las mensuras de la repartición Gutiérrez (052, 123); aquí con mojones costaneros propios a 1734 y 3122 m.",
+   "fuentes": "esta mensura; fichas 052, 123"
+  },
+  {
+   "nombre": "Liborio Esquivel",
+   "rol": "Lindero ne",
+   "texto": "Lindero del frente, como en la 127.",
+   "fuentes": "esta mensura; ficha 127"
+  },
+  {
+   "nombre": "Pablo A. Martínez",
+   "rol": "Promotor",
+   "texto": "Esposo de Petrona Paula; pidió la mensura y división (9/2/1883). Su casa y la de Enrique Martínez fueron visadas desde B.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "J. A. Capdevila, Manuel B. Gonnet, Carlos D. Giménez",
+   "rol": "Juzgado de mercedes",
+   "texto": "Juez que comisionó, juez que aprobó (Gonnet, luego primer ministro de Obras Públicas bonaerense) y secretario.",
+   "fuentes": "esta mensura; ficha 127; es.wikipedia «Manuel B. Gonnet»"
+  },
+  {
+   "nombre": "Jorge Coquet, M. Yparraguirre, Lagos",
+   "rol": "Departamento de ingenieros",
+   "texto": "Comisión que dictaminó el 22/6/1883 las dos mensuras Casado.",
+   "fuentes": "esta mensura; fichas 125-127"
+  },
+  {
+   "nombre": "Otros nombrados",
+   "rol": "Varios",
+   "texto": "Félix Manzano y Enrique Martínez (poblaciones vecinas); Carlos Baymond [?] (escribano, 1872); Francisco Esteban [?] (director que firma la copia de 1945).",
+   "fuentes": "esta mensura"
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/128/02.jpg",
+  "fuente": "Toma IMG_9943",
+  "lineas": [
+   "Giles 128",
+   "1883",
+   "Mensura del campo de Doña Petrona Paula",
+   "C. de Martinez, Doña Felipa E. Casado de",
+   "Cuello, D. Pedro M., D. Remigio Marcelino y",
+   "D. Cipriano A. Casado —",
+   "situado en el Partido de Giles",
+   "Medido por el Agrimensor",
+   "Cárlos Schuster",
+   "1 – 42 – 110"
+  ]
+ },
+ "titulo": "Herederos de Pedro Casado",
+ "estado": "Transcripta (11 hojas, 324 renglones), 5 láminas"
+}
