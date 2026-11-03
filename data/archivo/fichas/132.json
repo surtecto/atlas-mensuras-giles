@@ -1,0 +1,498 @@
+{
+ "carpeta": "132",
+ "carpeta_nombre": "Carpeta 132",
+ "archivo": "Ficha 132 - Antonio Tortorella (1883).docx",
+ "resumen": {
+  "Propietario / solicitante": "Antonio Tortorella",
+  "N.º de duplicado": "132",
+  "Agrimensor": "Manuel Almeira",
+  "Año": "1883",
+  "Fecha de la diligencia": "Mensura 22/5/1883; D. I. 9/11/1883; aprob. judicial nov. 1883",
+  "Ubicación": "Ex campo Monsalvo-Zárate (dup. 119), entre Cano, Aguirre/Ortiz, Bustos y Cufré",
+  "Orden judicial": "Juez Civil Dpto. del Centro: Capdevila (comisión); aprueba M. B. Gonnet",
+  "Vendedor / antecesor": "Antonio Zárate y Josefa Monsalvo → Mónica Zárate → cesión 14/2/1883",
+  "Linderos citados": "A. Aguirre, M. J. Ortiz (NE); I. Zárate de Bustos (SE); G. y E. Cano (NO); V. Cufré (SO)",
+  "Medidas": "Rectángulo 1356,85 × 1260 m",
+  "Rumbos": "S 47° 5′ E / S 42° 55′ O; var. 11° 30′ NE",
+  "Referencia de archivo": "AHG-PBA, duplicado 132 de S. A. de Giles"
+ },
+ "metricas": {
+  "superficie_ha": "170,96",
+  "hitos": "poblaciones de Ortiz, Aguirre, N. Bustos (y puestos), Cufré; puesto de Tortorella; mojones de palo de la línea Cufré",
+  "aguas": "no se mencionan"
+ },
+ "sintesis": "Un rectángulo de 171 ha recortado en el campo de los herederos de Monsalvo y Zárate que el mismo Manuel Almeira había dividido en 1881 (ficha 119). Mónica Zárate y Monsalvo cedió en febrero de 1883 sus derechos a Antonio Tortorella, y Almeira volvió en mayo a medir el lote, ahora más grande: su hermana Tomasa había cobrado su herencia en otros bienes y su franja de 862 m se repartió entre Mónica (356 m) e Isidora Zárate de Bustos (506 m). La diligencia es una pieza rara del corpus: un agrimensor que corrige y explica su propia división anterior. El abalizamiento registra las poblaciones y puestos de los vecinos y un puesto de Tortorella ya instalado.",
+ "caratula": {
+  "img": "img/f/132/01.jpg",
+  "fuente": "Toma IMG_9987",
+  "campos": [
+   [
+    "Número",
+    "N.º 132 (ambos ángulos)"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Repartición",
+    "Dirección de Geodesia y Catastro de la Provincia de Buenos Aires"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Don Antonio Tortorella"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Manuel Almeira"
+   ],
+   [
+    "Año",
+    "1883"
+   ],
+   [
+    "Juzgado / Secretaría / Duplicados de referencia",
+    "en blanco"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Extracto de títulos: cesión de Mónica Zárate y Monsalvo a Antonio Tortorella (14/2/1883); su hijuela",
+   "img": "img/f/132/06.jpg",
+   "fuente": "Toma IMG_9989",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 1]",
+    "Estracto de títulos de un terreno pertene-",
+    "ciente á Don Antonio Tortorella en el",
+    "partido de Giles.—",
+    "En catorce de Febrero de mil ocho cientos",
+    "ochenta y tres, D^{a}. Mónica Zárate y Mon-",
+    "salvo ante el Escribano de Lincoln Don",
+    "José Mena [?], hizo cesion á favor de",
+    "Don Antonio Tortorella, de todas las",
+    "acciones y derechos que le corresponden",
+    "y pueden corresponderle á un campo",
+    "con poblacion y demás anexo, ubicado",
+    "en el partido de Giles, como heredera",
+    "de su Señora Madre D^{a}. Josefa Mon-",
+    "salvo y de su Señor Padre Don Antonio",
+    "Zárate.",
+    "Segun la Hijuela de D^{a}. Mónica",
+    "Zárate y Monsalvo, el terreno que le",
+    "corresponde ubicado en el partido",
+    "de Giles, se compone de un millon",
+    "setecientos nueve mil seis cientos",
+    "treinta y cinco metros cuadrados (1709635 m^{s}. 2^{s}.),",
+    "lindando por el Sud con Don Valentin",
+    "Cufré, por el Este con D^{a}. Isidora Zárate,"
+   ],
+   "interpretacion": "Extracto de títulos. El 14/2/1883, ante el escribano de Lincoln José Mena [?], Mónica Zárate y Monsalvo cede a Antonio Tortorella todas las acciones y derechos que le corresponden en un campo con población y demás anexos en Giles, como heredera de su madre Josefa Monsalvo y de su padre Antonio Zárate. Según su hijuela, el terreno tiene 1 709 635 m², con linderos S Valentín Cufré y E Isidora Zárate (sigue)."
+  },
+  {
+   "titulo": "Folio 1 v. · Linderos de la hijuela; edictos y comienzo de la mensura (22/5/1883)",
+   "img": "img/f/132/07.jpg",
+   "fuente": "Toma IMG_9990 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "por el Norte con Don Antonio C. Chacon",
+    "(hoy M. J. Ortiz) y Don Andrés Aguirre,",
+    "y por el Oeste con Don Gregorio y",
+    "D^{a}. Elena Cano.",
+    "Mensura — En el partido de Giles á",
+    "22 de Mayo de 1883, el Agrimensor que",
+    "suscribe, comisionado por el Señor Juez",
+    "de 1^{a}. Instancia en lo Civil del Depar-",
+    "tamento del Centro D^{r}. Don José A. Capdevila",
+    "para medir el terreno perteneciente á",
+    "Don Antonio Tortorella ubicado en el",
+    "partido de Giles, prévio aviso á los",
+    "linderos, como consta de los Edictos",
+    "publicados en los diarios «La República»",
+    "y «El Oeste» de fecha 15 de Mayo de",
+    "1883; dí principio á la operacion del",
+    "modo siguiente:— Me situé en el",
+    "mojon esquinero Este del terreno",
+    "de Don Gregorio Cano, y Norte del",
+    "que iba á medir, y medí al Sud",
+    "cuarenta y siete grados cinco minutos",
+    "Este, mil tres cientos cincuenta y seis",
+    "metros ochenta y cinco centímetros,",
+    "pasando á los tres cientos sesenta y",
+    "siete metros diez centímetros, por el",
+    "mojon esquinero Sud de Don Andrés"
+   ],
+   "interpretacion": "Linderos de la hijuela (cont.): N Antonio C. Chacón (hoy M. J. Ortiz) y Andrés Aguirre; O Gregorio y Elena Cano. Mensura del 22/5/1883 por comisión del juez Capdevila; edictos en «La República» y «El Oeste» del 15/5/1883. Almeira arranca en el mojón esquinero E de Gregorio Cano (N del terreno) y mide S 47° 5′ E 1356,85 m, pasando a los 367,10 m por el esquinero S de Andrés Aguirre."
+  },
+  {
+   "titulo": "Folio 2 · Rectángulo de 1356,85 × 1260 m; mojones de palo en línea con los de Cufré",
+   "img": "img/f/132/08.jpg",
+   "fuente": "Toma IMG_9990 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 2]",
+    "Aguirre, y poniendo á su término un",
+    "mojon de palo. Desde este mojon",
+    "puse el rumbo Sud cuarenta y dos",
+    "grados cincuenta y cinco minutos Oeste,",
+    "y medí mil dos cientos sesenta metros,",
+    "y á su término puse un mojon de",
+    "palo, en linea con los que hay en",
+    "el deslinde de este terreno con el de",
+    "Cufré. De aqui siguiendo la linea",
+    "de estos mojones, medí al Norte cuaren-",
+    "ta y siete grados cinco minutos Oeste,",
+    "mil tres cientos cincuenta y seis me-",
+    "tros ochenta y cinco centímetros, hasta",
+    "el mojon esquinero Sud de Elena",
+    "Cano y Oeste del que medía. Desde",
+    "este mojon medí al Norte cincuenta",
+    "y dos grados cincuenta y cinco minutos",
+    "Este, mil dos cientos sesenta metros, pa-",
+    "sando á los cuatro cientos noventa y",
+    "seis metros por un mojon de palo",
+    "esquinero Este del terreno de D^{a}. Elena",
+    "Cano, y terminando en el mojon de",
+    "palo punto de arranque de esta",
+    "mensura.",
+    "La figura de este terreno es la de",
+    "un rectángulo, con una superficie",
+    "igual á ciento setenta hectáreas no-"
+   ],
+   "interpretacion": "Al término (B) pone un mojón de palo; de ahí S 42° 55′ O 1260 m hasta un mojón en línea con los que separan este campo del de Cufré (C); siguiendo esa línea N 47° 5′ O 1356,85 m hasta el esquinero S de Elena Cano (D); y N 42° 55′ E 1260 m, pasando a los 496 m por el esquinero E de Elena Cano, hasta el punto de arranque (A). Rectángulo de 1356,85 × 1260 m = 170,96 ha exactas (verificado)."
+  },
+  {
+   "titulo": "Folio 2 v. · Superficie y linderos; referencia al duplicado n.º 119 y explicación de la diferencia con la ubicación de 1881",
+   "img": "img/f/132/09.jpg",
+   "fuente": "Toma IMG_9991 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "venta y seis áreas y treinta y cinco",
+    "centi-áreas (1709635 m^{s}. 2^{s}.), y linda por",
+    "el Nord-Este con Don Andrés Aguirre",
+    "y Don Marcelino J. Ortiz, por el Sud-",
+    "Este con D^{a}. Isidora Zárate de Bustos,",
+    "por el Nord-Oeste con Don Gregorio",
+    "Cano y Elena Cano, y por el Sud-",
+    "Oeste con Don Valentin Cufré.",
+    "Este terreno fué ubicado por el",
+    "Agrimensor que suscribe en Diciembre",
+    "de 1881, siendo aprobada por el D^{to}.",
+    "de Ingenieros dicha mensura en 20 [?] de",
+    "Marzo de 1882, y está archivado el",
+    "duplicado de la diligencia bajo el",
+    "N^{o}. 119 de la Seccion Giles. Como al com-",
+    "parar esta mensura con la anterior,",
+    "se notará una diferencia entre",
+    "esta ubicacion y la anterior, debo",
+    "esplicar la causa que la motiva.",
+    "Al ubicar en 1881 el terreno que les",
+    "pertenecia á los herederos de Don An-",
+    "tonio Zárate, por mandato del Señor",
+    "Juez de 1^{a}. Instancia en lo Civil del",
+    "Departamento del Centro D^{r}. Don José",
+    "A. Capdevila, se le ubicó á D^{a}. Tomasa",
+    "Zárate un terreno con una superficie",
+    "igual á ciento ocho hectáreas sesenta y"
+   ],
+   "interpretacion": "Superficie 170,9635 ha. Linderos: NE Andrés Aguirre y Marcelino J. Ortiz; SE Isidora Zárate de Bustos; NO Gregorio y Elena Cano; SO Valentín Cufré. Almeira declara que él mismo ubicó este terreno en diciembre de 1881 en la división de los herederos de Monsalvo y Zárate (aprobada por el D. I. el 20 [?] de marzo de 1882, duplicado n.º 119 de Giles), y explica la diferencia: en 1881 se le había ubicado a Tomasa Zárate un terreno de 108,6130 ha…"
+  },
+  {
+   "titulo": "Folio 3 · Exceso de superficie (parte de Tomasa Zárate); circular y acta; variación; abalizamiento",
+   "img": "img/f/132/10.jpg",
+   "fuente": "Toma IMG_9991 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 3]",
+    "y una áreas y treinta centi-áreas (1086130 m^{s}. 2^{s}.),",
+    "y lindando por el Nord-~~Oeste~~ con D^{a}. Mónica",
+    "Zárate, y por el Sud-Este con D^{a}. Isidora",
+    "Zárate de Bustos; pero habiendo recibido",
+    "D^{a}. Tomasa Zárate en otras especies,",
+    "la parte de herencia que le corresponde,",
+    "se le adjudica ^{ahora} á D^{a}. Isidora Zárate de",
+    "Bustos parte de ese campo, y la otra",
+    "parte á D^{a}. Mónica Zárate, de donde",
+    "proviene el exeso de superficie que",
+    "se nota, y el que este terreno linde hoy",
+    "con D^{a}. Isidora Zárate de Bustos.",
+    "Asistieron á esta operacion Don",
+    "Pio Cufré en representacion de su",
+    "Señor Padre Don Valentin Cufré, y",
+    "firmó á su ruego la circular de",
+    "citacion y el Acta manifestando",
+    "su conformidad Don Emilio Daned [?],",
+    "Don Gregorio Cano, y Don Nemecio",
+    "Bustos, firmando la circular y",
+    "el Acta todos los linderos, con escepcion",
+    "de Don Andrés Aguirre que no lo",
+    "hizo por no encontrarse ^{presente} su repre-",
+    "sentante. No hubo protesta. La variacion de la aguja",
+    "fué de 11° 30′ al N. E. — Avalizamiento de mojo-",
+    "nes.",
+    "Desde el mojon A (del plano) se vé la pobla-",
+    "cion de Don Marcelino J. Ortiz, que forma",
+    "con la linea AB (del plano) un ángulo de 17° 13′,"
+   ],
+   "interpretacion": "…entre Mónica (NO) e Isidora (SE). Pero Tomasa recibió su parte de la herencia en otras especies, y su lote se repartió entre Isidora Zárate de Bustos y Mónica Zárate: de allí el exceso de superficie y que el campo linde ahora con Isidora. (Cálculo de la ficha: el lote de Mónica en 1881 medía 1000,89 × 1260 m = 126,11 ha; ahora mide 1356,85 m: recibió 355,96 m de los 862 m de frente de Tomasa = 44,85 ha, y los 506 m restantes pasaron a Isidora.) Asistió Pío Cufré por su padre Valentín (firmó a su ruego Emilio Daned [?]); firmaron circular y acta Gregorio Cano y Nemesio Bustos; no firmó Andrés Aguirre por no estar presente su representante. Sin protesta. Variación 11° 30′ NE. Abalizamiento: desde A se ve la población de Marcelino J. Ortiz (17° 13′ con AB)…"
+  },
+  {
+   "titulo": "Folio 3 v. · Fin del abalizamiento; firma de Almeira; comienzo del dictamen del D. I. (entrada 25/10/1883)",
+   "img": "img/f/132/11.jpg",
+   "fuente": "Toma IMG_9992 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "y la poblacion de Aguirre, que forma",
+    "con la misma linea un ángulo",
+    "de 83° 16′.",
+    "Desde el mojon B (del plano), se vé la",
+    "poblacion de Don Nemecio Bustos,",
+    "que forma con la linea BA (del plano)",
+    "un ángulo 103° 45′, y un puesto del",
+    "mismo, que forma con la misma",
+    "linea un ángulo de 116° 18′.",
+    "Desde el mojon C (del plano) se vé",
+    "la poblacion de Don Nemecio Bustos,",
+    "que forma con la linea CB (del plano)",
+    "un ángulo de 14° 23′, y un puesto del",
+    "mismo que forma un ángulo con",
+    "la misma linea de 29° 54′.",
+    "Desde el mojon D (del plano) se vé",
+    "la poblacion de Cufré, que forma",
+    "con la linea DC (del plano) un ángulo",
+    "de 25° 16′, y un puesto de Tortorella, que",
+    "forma con la ^{misma} linea un ángulo de 8° 17′.",
+    "entre renglones = ahora = presente = misma = vale.",
+    "Manuel Almeira",
+    "[sello oval: Departamento de Ingenieros · Entradas · OCT 25 1883]",
+    "Señor Juez de 1^{a}. Instancia",
+    "El Departamento de Inge-",
+    "nieros ha examinado la",
+    "diligencia de mensura que"
+   ],
+   "interpretacion": "…y la población de Aguirre (83° 16′). Desde B: población de Nemesio Bustos (103° 45′ con BA) y un puesto suyo (116° 18′). Desde C: población de Nemesio Bustos (14° 23′ con CB) y un puesto (29° 54′). Desde D: población de Cufré (25° 16′ con DC) y un puesto de Tortorella (8° 17′). Salvado de entrerrenglones y firma de Manuel Almeira. Entrada al D. I. el 25/10/1883; comienza el dictamen."
+  },
+  {
+   "titulo": "Folio 4 · Fin del dictamen del D. I. (9/11/1883)",
+   "img": "img/f/132/12.jpg",
+   "fuente": "Toma IMG_9992 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 4]",
+    "del terreno de propiedad de",
+    "D^{n}. Antonio Tortorella sito",
+    "en el Partido de Giles ha prac-",
+    "ticado el agrimensor D^{n}.",
+    "Manuel Almeira, y encontrán-",
+    "dola bien ejecutada no ve",
+    "inconveniente en que ella",
+    "sea aprobada por V. S.",
+    "Buenos Aires Noviembre 9/883",
+    "R. Otamendi          [?] Lagos",
+    "P. Salvadores"
+   ],
+   "interpretacion": "Dictamen del D. I. (Buenos Aires, 9/11/1883): examinada la diligencia, la encuentra bien ejecutada y no ve inconveniente en que sea aprobada. Firman R. Otamendi, [?] Lagos y P. Salvadores. Una firma nueva en el corpus: P. Salvadores."
+  },
+  {
+   "titulo": "Folio 5 · Oficio del juzgado de Mercedes: aprobación judicial (noviembre de 1883) y decreto de agregación (20/11/1883)",
+   "img": "img/f/132/13.jpg",
+   "fuente": "Tomas IMG_9994 (izquierda del pliego) e IMG_9993 (derecha)",
+   "nota": "",
+   "lineas": [
+    "[al margen:] Juan Carlos Ponce [?] / Secretario",
+    "[sello fiscal: Dirección General de Rentas de la Provincia de Buenos Aires · 1883 · Seis pesos · N.^{o} 21562[?]]",
+    "[sello: FOJA 5]",
+    "Mercedes Nov[iembre]",
+    "1[?] [de 1883]",
+    "Al Señor Presiden-",
+    "te del Departamen-",
+    "to de Ingenieros [de]",
+    "la Provincia [...]",
+    "Comunico á [V.]",
+    "que con esta [mis-]",
+    "ma fecha, este [Juz-]",
+    "gado le ha pres[tado]",
+    "su judicial apro[ba-]",
+    "cion á la mensura [prac-]",
+    "ticada por el A[gri-]",
+    "mensor Don [Ma-]",
+    "nuel Almeyra [de]",
+    "un Campo ubica[do]",
+    "en el Partido [de]",
+    "Giles pertene[cien-]",
+    "te á Don An[tonio Tor-]",
+    "torella",
+    "[Dios guarde] á V.",
+    "Manuel B. Gonnet",
+    "[sello oval: Departamento de Ingenieros de la Provincia · Entradas · NOV 16 1883]",
+    "Nov. 20/83",
+    "[Agré]guese al duplicado correspondiente",
+    "[rúbrica ilegible]",
+    "[al margen, otra mano: Giles 132]"
+   ],
+   "interpretacion": "Oficio del juez Manuel B. Gonnet (Mercedes, noviembre [¿14?] de 1883), con anotación marginal del secretario Juan Carlos Ponce [?]: el juzgado aprobó la mensura de Manuel Almeyra del campo de Antonio Tortorella. El pliego está doblado y la foto muestra sólo la mitad izquierda de los renglones; el resto (firma, entrada al D. I. del 16/11/1883 y proveído del 20/11/1883 «Agréguese al duplicado correspondiente») se lee en la toma IMG_9993. Sello fiscal de seis pesos de 1883."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Antonio Tortorella (Almeira, 1883)",
+   "img": "img/f/132/03.jpg",
+   "fuente": "Toma IMG_9995 (pliego desplegado)",
+   "orientacion": "vertical; flecha N arriba a la izquierda (en A); Aguirre y Ortiz arriba, Cufré abajo",
+   "interpretacion": "Plano a tinta con orla ocre y escala gráfica («Escala de Metros», 500-0-500). Rectángulo rotulado «Antonio Tortorella · Area = 1709635 m² c²». Lados: A-B «S 47° 5′ E 1356,85» con la cota 367,10 donde cae la línea divisoria entre A. Aguirre y Marcelino J. Ortiz; B-C (S 42° 55′ O 1260 m) contra «Isidora Z. de Bustos»; C-D «N 47° 5′ O 1356,85» contra «Valentín Cufré»; D-A «N 42° 55′ E 1260 m» con la cota 496 donde se separan «Elena Cano» y «Gregorio Cano». No dibuja las poblaciones del abalizamiento. Firma: Manuel Almeira. Sin copia moderna en la carpeta.",
+   "referencias": [
+    [
+     "A",
+     "mojón esquinero N; esquinero E de Gregorio Cano; arranque de la mensura"
+    ],
+    [
+     "367,10",
+     "esquinero S de Andrés Aguirre sobre A-B (límite Aguirre / Ortiz)"
+    ],
+    [
+     "B",
+     "mojón de palo esquinero E, contra Ortiz e Isidora Z. de Bustos"
+    ],
+    [
+     "C",
+     "mojón en línea con los del deslinde de Cufré"
+    ],
+    [
+     "D",
+     "esquinero S de Elena Cano"
+    ],
+    [
+     "Linderos",
+     "A. Aguirre, Marcelino J. Ortiz, Isidora Z. de Bustos, Valentín Cufré, Elena y Gregorio Cano"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle del plano (escala de grises)",
+   "img": "img/f/132/04.jpg",
+   "fuente": "Toma IMG_9995",
+   "orientacion": "como el general",
+   "interpretacion": "Ampliación con contraste para leer rótulos y cotas.",
+   "referencias": []
+  },
+  {
+   "titulo": "Mitad derecha del oficio judicial y proveído del D. I.",
+   "img": "img/f/132/05.jpg",
+   "fuente": "Toma IMG_9993",
+   "orientacion": "—",
+   "interpretacion": "Final de los renglones del oficio («…torella», «Dios guarde a V.», firma de Manuel B. Gonnet), sello de entrada del D. I. del 16/11/1883 y proveído del 20/11/1883.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Campo sin aguas ni accidentes nombrados: llanura alta entre estancias. Lo que se ve son construcciones: la población de Marcelino J. Ortiz y la de Aguirre al N, la población y un puesto de Nemesio Bustos al E, la población de Cufré al S y un puesto de Tortorella ya establecido en el campo. La línea Cufré estaba materializada con una hilera de mojones de palo, seguramente los de la división de 1881."
+  },
+  {
+   "titulo": "Ritual",
+   "texto": "Edictos en «La República» y «El Oeste» una semana antes; circular y acta firmadas por los linderos presentes; Valentín Cufré representado por su hijo Pío y firma a ruego de un tercero (Emilio Daned [?]); Andrés Aguirre sin representante presente. Abalizamiento con ángulos a construcciones visibles, como en la 131. Entrerrenglones salvados al pie («ahora, presente, misma: vale»), práctica notarial."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Rumbos idénticos a los de la división de 1881 (S 47° 5′ E / S 42° 55′ O), lo que confirma que Almeira reutiliza su propio marco. Variación 11° 30′ NE, la misma de 106, 119 y 131: Almeira usa un valor fijo. Superficie exacta: 1356,85 × 1260 = 1 709 631 m² (el título, 1 709 635). La cota 496 m del esquinero de Elena Cano resuelve la lectura «430 [?]» que quedó dudosa en la ficha 119."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "(1) La herencia Monsalvo-Zárate dividida en 1881 se reajusta dos años después por acuerdo entre hermanas: Tomasa cobra en «otras especies» y su tierra se reparte entre Mónica e Isidora. (2) Mónica cede sus derechos por escritura otorgada en Lincoln (frontera O de la provincia): ¿vivía allí? (3) Antonio Tortorella, apellido italiano (Campania), es uno de los primeros compradores inmigrantes del corpus en tierra de antiguos linajes criollos; un mes después de la cesión ya tenía puesto en el campo. (4) Chacón, lindero en 1881, ya fue reemplazado por Marcelino J. Ortiz."
+  },
+  {
+   "titulo": "Crítica documental",
+   "texto": "(1) Escribano de Lincoln «José Mena [?]». (2) Fecha de aprobación del D. I. en 1882: «20 [?] de marzo» (en la 119 el dictamen es del 24/3/1882). (3) Firmante a ruego de Cufré: «Emilio Daned [?]». (4) El oficio de aprobación está fotografiado doblado (dos tomas); el día exacto (¿14?) no se ve. (5) Firma del proveído del D. I. ilegible. (6) Se tachó «Oeste» en «Nord-Oeste con Mónica» (debía ser Nord-Oeste: el copista lo testó por error)."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "(1) 119 (herederos de Antonio Monsalvo y Antonio Zárate, Almeira 1881): esta mensura es la continuación directa; aquí se citan su número de duplicado, la fecha de aprobación y los lotes de Mónica (126,11 ha) y Tomasa (108,61 ha). Actualizar la 119: la división de los lotes de Tomasa no se ejecutó. (2) 099 (Bustos): Nemesio Bustos, marido o pariente de Isidora Zárate de Bustos. (3) 043 (Valentín Cufré, 1867): Cufré sigue siendo lindero en 1883, con su hijo Pío. (4) 106, 131: Almeira, mismo D. I. (Otamendi, Lagos) y juez Gonnet."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Qué «especies» recibió Tomasa Zárate? ¿Hay mensura del lote ampliado de Isidora Zárate de Bustos? ¿Quién era Antonio Tortorella y desde cuándo estaba en Giles? Georreferenciar la grilla de lotes de la 119 corregida con esta mensura."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Antonio Tortorella",
+   "rol": "Propietario",
+   "texto": "Cesionario en 1883 de los derechos de Mónica Zárate; tenía ya un puesto en el campo. Apellido de origen italiano meridional. Sin datos biográficos hallados.",
+   "fuentes": "esta mensura; búsqueda web sin resultados específicos"
+  },
+  {
+   "nombre": "Manuel Almeira (Almeyra)",
+   "rol": "Agrimensor",
+   "texto": "Autor de las fichas 106 (1880), 119 (1881), 131 y 132 (1883). Aquí corrige su propia división de 1881. Variación fija de 11° 30′.",
+   "fuentes": "fichas 106, 119, 131, 132"
+  },
+  {
+   "nombre": "Mónica Zárate y Monsalvo",
+   "rol": "Cedente",
+   "texto": "Hija de Antonio Zárate y Josefa Monsalvo; adjudicataria en 1881 de 126,11 ha, ampliadas con parte de la cuota de Tomasa; cedió sus derechos ante un escribano de Lincoln.",
+   "fuentes": "esta mensura; ficha 119"
+  },
+  {
+   "nombre": "Tomasa e Isidora Zárate (de Bustos)",
+   "rol": "Hermanas",
+   "texto": "Tomasa cobró su herencia en otros bienes; Isidora, casada Bustos, recibió el resto de la franja de Tomasa.",
+   "fuentes": "esta mensura; ficha 119"
+  },
+  {
+   "nombre": "Nemesio Bustos",
+   "rol": "Lindero se",
+   "texto": "Firma circular y acta; su población y un puesto sirven de referencia desde B y C. Cf. 099.",
+   "fuentes": "esta mensura; ficha 099"
+  },
+  {
+   "nombre": "Valentín Cufré y Pío Cufré",
+   "rol": "Lindero so / hijo",
+   "texto": "Valentín Cufré, lindero ya en 1867 (043) y 1881 (119); en 1883 lo representa su hijo Pío.",
+   "fuentes": "fichas 043, 119, 132"
+  },
+  {
+   "nombre": "Gregorio y Elena Cano",
+   "rol": "Linderos no",
+   "texto": "Herederos Cano del campo Monsalvo-Zárate (lotes de 119).",
+   "fuentes": "esta mensura; ficha 119"
+  },
+  {
+   "nombre": "Andrés Aguirre, Marcelino J. Ortiz, Antonio C. Chacón",
+   "rol": "Linderos ne",
+   "texto": "Aguirre, heredero Monsalvo (119); Ortiz, sucesor de Chacón.",
+   "fuentes": "esta mensura; ficha 119"
+  },
+  {
+   "nombre": "Capdevila, Gonnet, Otamendi, Lagos, P. Salvadores",
+   "rol": "Juzgado y d. i.",
+   "texto": "José A. Capdevila comisionó; Manuel B. Gonnet aprobó; dictamen del D. I. firmado por R. Otamendi, Lagos y P. Salvadores (nuevo en el corpus). Secretario: Juan Carlos Ponce [?].",
+   "fuentes": "esta mensura; fichas 127-131"
+  },
+  {
+   "nombre": "Otros",
+   "rol": "Varios",
+   "texto": "José Mena [?] (escribano de Lincoln); Emilio Daned [?] (firma a ruego de Cufré).",
+   "fuentes": "esta mensura"
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/132/02.jpg",
+  "fuente": "Toma IMG_9988",
+  "lineas": [
+   "132",
+   "Duplicado de la diligencia",
+   "de mensura de un terreno perte-",
+   "neciente á «Don Antonio",
+   "Tortorella» situado en el partido",
+   "de",
+   "«Giles»",
+   "Agrimensor – Manuel Almeira",
+   "— 1883 —",
+   "1-279-43"
+  ]
+ },
+ "titulo": "Antonio Tortorella",
+ "estado": "Transcripta (8 hojas, 204 renglones), 3 láminas"
+}

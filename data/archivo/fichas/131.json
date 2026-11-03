@@ -1,0 +1,581 @@
+{
+ "carpeta": "131",
+ "carpeta_nombre": "Carpeta 131",
+ "archivo": "Ficha 131 - José V. Apaolaza (1883).docx",
+ "resumen": {
+  "Propietario / solicitante": "José Vicente Apaolaza",
+  "N.º de duplicado": "131",
+  "Agrimensor": "Manuel Almeira",
+  "Año": "1883",
+  "Fecha de la diligencia": "Mensura 19/9/1883; D. I. 16/10/1883; aprob. judicial 22/11/1883",
+  "Ubicación": "Cuartel 6.º, margen del río de Areco, junto a O'Donell (ex Dionisia Alen de Sosa)",
+  "Orden judicial": "Juez Civil Dpto. del Centro (Mercedes): Manuel B. Gonnet",
+  "Vendedor / antecesor": "D. Alen de Sosa → G. de la Sota 1858 → herederos 1883 → Apaolaza",
+  "Linderos citados": "Josefa Cots de la Sota y Rómulo C. de la Sota (NE, SE); río de Areco (NO); N. O'Donell (SO)",
+  "Medidas": "Trapecio: 600 m al río × 1750 m (alambrado O'Donell); fondo 434 m; lado 1427 m",
+  "Rumbos": "S 32° 27′ E / N 57° 33′ E / N 25° 19′ O; var. 11° 30′ NE",
+  "Referencia de archivo": "AHG-PBA, duplicado 131 de S. A. de Giles; copia de 1945"
+ },
+ "metricas": {
+  "superficie_ha": "84,37",
+  "hitos": "alambrado de O'Donell; poblaciones de O'Donell y Apaolaza; estancia y población de J. Cots de la Sota",
+  "aguas": "río de Areco (frente NO, ribera escalonada)"
+ },
+ "sintesis": "Una fracción de 50 cuadras² (84,37 ha) sobre el río de Areco, primera subdivisión del triángulo de la confluencia Areco–Giles que Gregorio de la Sota compró en 1858 a Dionisia Alen de Sosa (021) y que Iparraguirre midió en 1882 (126). Muerto De la Sota, la viuda Josefa Cots, sus hijos Rómulo y Rogelia y el nieto Pedro B. Martínez se dividen el campo; Rómulo vende a José Vicente Apaolaza la parte de su hermana y un pedazo de la suya, y una escritura posterior corrige la ubicación. Manuel Almeira mide en septiembre de 1883 siguiendo el alambrado de Nicolás O'Donell y resuelve la orilla sinuosa del río con perpendiculares. El abalizamiento ubica tres puntos del paisaje: las poblaciones de O'Donell y de Apaolaza y la estancia de la viuda.",
+ "caratula": {
+  "img": "img/f/131/01.jpg",
+  "fuente": "Toma IMG_9977",
+  "campos": [
+   [
+    "Número",
+    "N.º 131 (ambos ángulos)"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Repartición",
+    "Dirección de Geodesia y Catastro de la Provincia de Buenos Aires"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "José V. Apaolaza"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Manuel Almeira"
+   ],
+   [
+    "Año",
+    "1883"
+   ],
+   [
+    "Mes / Juzgado / Secretaría / Duplicados de referencia",
+    "en blanco"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Oficio del juzgado de Mercedes: aprobación judicial (22/11/1883)",
+   "img": "img/f/131/05.jpg",
+   "fuente": "Toma IMG_9979",
+   "nota": "",
+   "lineas": [
+    "[sello fiscal: Dirección General de Rentas de la Provincia de Buenos Aires · 1883 · Seis pesos · N.^{o} 240534]",
+    "[sello: FOJA 1]",
+    "[al margen: Autos [?] … -torio [?]]",
+    "Mercedes",
+    "Noviembre 22 de 1883",
+    "Al Señor Presidente",
+    "del Departamento de",
+    "Ingenieros de la",
+    "Provincia",
+    "Comunico á V. que",
+    "con esta fecha este Juz-",
+    "gado le ha prestado su",
+    "judicial aprobacion á",
+    "la mensura practicada por",
+    "el Agrimensor Don",
+    "Manuel Almeira de",
+    "un Campo ubicado en",
+    "el Partido de Giles per-",
+    "teneciente á Don Vicente",
+    "Apaolaza",
+    "Dios que á V.",
+    "Manuel B. Gonnet",
+    "[sello oval: Departamento de Ingenieros de la Provincia · NOV 27 1883]"
+   ],
+   "interpretacion": "Oficio del juez Manuel B. Gonnet (Mercedes, 22/11/1883) al presidente del Departamento de Ingenieros: el juzgado aprobó la mensura de Manuel Almeira del campo de Vicente Apaolaza en Giles. Sello fiscal de seis pesos (1883, n.º 240534); entrada al D. I. el 27/11/1883. En este duplicado el oficio de aprobación está encuadernado al principio (foja 1), no al final como en 129-130."
+  },
+  {
+   "titulo": "Dorso del oficio · Decreto de agregación (30/11/1883)",
+   "img": "img/f/131/06.jpg",
+   "fuente": "Toma IMG_9980 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "Noviembre 30/83",
+    "Agréguese al duplicado correspondiente",
+    "Coquet"
+   ],
+   "interpretacion": "Proveído del D. I. del 30/11/1883, «Agréguese al duplicado correspondiente», firmado por Coquet, en el dorso del oficio."
+  },
+  {
+   "titulo": "Folio 2 · Extracto de títulos: compra de Gregorio de la Sota a Dionisia Alen de Sosa (21/11/1858)",
+   "img": "img/f/131/07.jpg",
+   "fuente": "Toma IMG_9980 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 2]",
+    "Estracto de títulos de un terreno perte-",
+    "neciente á Don José Vicente Apaolaza",
+    "situado en el partido de Giles.",
+    "En veinte y uno de Noviembre de mil",
+    "ocho cientos cincuenta y ocho, Don",
+    "Gregorio de la Sota compró á D^{a}.",
+    "Dionisia Alem de Sosa, segun cons-",
+    "ta del documento otorgado por ante",
+    "el Juez de Paz de San Antonio de",
+    "Areco Don Francisco Duberty, y pro-",
+    "tocolizado en el registro de Don Carlo[s]",
+    "M. Perez Escribano de la Capital, un",
+    "terreno situado en el Cuartel 6^{o}. del",
+    "partido de Giles, compuesto de tres cientas",
+    "ocho hectáreas veinte y cuatro areas",
+    "y cuarenta y ocho centi-áreas (308^{h}.24^{a}.48",
+    "m^{s}. 2^{s}.), equivalentes á ciento ochenta y",
+    "dos cuadras cuadradas y seis cientos",
+    "setenta y cinco milésimos de otra",
+    "(182^{c.c.}, 675^{m}.), que linda al Norte con la",
+    "Testamentaría de Don José Guerrico,",
+    "al Sud con Don Lucas Scully, al Este"
+   ],
+   "interpretacion": "Extracto de títulos. El 21/11/1858 Gregorio de la Sota compra a Dionisia Alem (Alen) de Sosa —la de la ficha 021, medida por Differt ese mismo año— un terreno en el cuartel 6.º de Giles, por documento ante el juez de paz de San Antonio de Areco Francisco Duberty, protocolizado en el registro del escribano Carlos M. Pérez de la Capital: 308,2448 ha = 182,675 cuadras². Linderos: N testamentaría de José Guerrico; S Lucas Scully; E (sigue al dorso)."
+  },
+  {
+   "titulo": "Folio 2 v. · Herencia de Gregorio de la Sota y división entre los herederos (29/3/1883)",
+   "img": "img/f/131/08.jpg",
+   "fuente": "Toma IMG_9981 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "con la Testamentaría de D^{a}. Dionisia",
+    "Alem de Sosa, y al Oeste con Don Nicolas",
+    "O'Donell.",
+    "Por fallecimiento de Don Gregorio",
+    "de la Sota, este terreno les corresponde",
+    "a D^{a}. Josefa Cots de la Sota, á D^{a}.",
+    "Rogelia y Don Rómulo de la Sota,",
+    "y al nieto Don Pedro B. Martinez;",
+    "los que siendo mayores de edad,",
+    "y habiendo sido declarados únicos",
+    "y universales herederos, por el Juzgado",
+    "de Paz de San Antonio de Areco; se pre-",
+    "sentaron en veinte y nueve de Marzo",
+    "de mil ocho cientos ochenta y tres,",
+    "ante el Escribano del Pueblo de San",
+    "Andrés de Giles Don Fernando del Rio,",
+    "manifestando que habian convenido en",
+    "dividirse este terreno segun las adju-",
+    "dicaciones siguientes:",
+    "A D^{a}. Josefa Cots de la Sota 1705028 m^{s}. 2^{s}.",
+    "\" Don Rómulo de la Sota. 459140 \"",
+    "\" D^{a}. Rogelia de la Sota. 459140 \"",
+    "\" Don Pedro B. Martinez 459140 \"",
+    "3082448 m^{s}. 2^{s}.",
+    "En quince de Junio de mil ocho cientos",
+    "ochenta y tres, Don Rómulo Clemente",
+    "de la Sota por sí y como apoderado"
+   ],
+   "interpretacion": "Linderos de 1858 (cont.): E testamentaría de Dionisia Alem de Sosa; O Nicolás O'Donell. Muerto Gregorio de la Sota, heredan su viuda Josefa Cots de la Sota, sus hijos Rogelia y Rómulo de la Sota y su nieto Pedro B. Martínez, declarados únicos herederos por el juzgado de paz de Areco. El 29/3/1883, ante el escribano de Giles Fernando del Río, acuerdan dividir: Josefa 1 705 028 m² (la mitad de gananciales más su cuota), y 459 140 m² a cada uno de los otros tres (total 3 082 448 m²). El 15/6/1883 Rómulo Clemente de la Sota, por sí y como apoderado…"
+  },
+  {
+   "titulo": "Folio 3 · Venta de Rómulo C. de la Sota a José Vicente Apaolaza (15/6/1883): 84,37 ha con frente al río de Areco",
+   "img": "img/f/131/09.jpg",
+   "fuente": "Toma IMG_9981 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 3]",
+    "de su hermana D^{a}. Rogelia de la Sota",
+    "de Cejas, vende ante el Escribano de",
+    "San Andrés de Giles Don Fernando",
+    "del Rio, á Don José Vicente Apao-",
+    "laza, la parte que le corresponde",
+    "á D^{a}. Rogelia, que se compone",
+    "de cuarenta y cinco hectáreas noven-",
+    "ta y una áreas y cuarenta centi-áreas",
+    "(459140 m^{s}. 2^{s}.), y treinta y ocho hectáreas",
+    "cuarenta y cinco áreas y sesenta cen-",
+    "ti-areas (384560 m^{s}. 2^{s}.) de lo que á él",
+    "le corresponden, que hacen un total",
+    "de ochenta y cuatro hectáreas treinta",
+    "y siete áreas (843700 m^{s}. 2^{s}.), ó sean cin-",
+    "cuenta cuadras cuadradas; obligándo-",
+    "se el vendedor, á ubicarle este terre-",
+    "no con un frente de tres cientos veinte",
+    "y cuatro metros siete cientos cincuenta",
+    "milímetros al Rio de Areco, por el",
+    "fondo correspondiente, hasta comple-",
+    "tar la superficie de cincuenta",
+    "cuadras, lindando con el terreno",
+    "de Don Nicolás O'Donell.",
+    "En veinte y nueve de Agosto de",
+    "mil ocho cientos ochenta y tres, Don",
+    "Rómulo Clemente de la Sota, se pre-",
+    "sentó ante el Escribano de San Antonio"
+   ],
+   "interpretacion": "…de su hermana Rogelia de la Sota de Cejas, vende ante Fernando del Río a José Vicente Apaolaza la parte de Rogelia (45,914 ha) más 38,456 ha de la suya: 84,37 ha = 50 cuadras². El vendedor se obliga a ubicarla con 324,750 m de frente al río de Areco y el fondo necesario, lindando con Nicolás O'Donell. El 29/8/1883 Rómulo se presenta ante el escribano de San Antonio de Areco (sigue)."
+  },
+  {
+   "titulo": "Folio 3 v. · Rectificación de la ubicación (29/8/1883) y comienzo de la mensura (19/9/1883)",
+   "img": "img/f/131/10.jpg",
+   "fuente": "Toma IMG_9982 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "de Areco Don José A. Esquiaga, declar-",
+    "rando que en la escritura de venta",
+    "otorgada por el Escribano F. del Rio, á",
+    "favor de Don José Vicente Apaolaza,",
+    "se habia cometido un error en",
+    "cuanto á la ubicacion que debia",
+    "de hacerse de dicho terreno; siendo",
+    "la ubicacion que debia de hacerse",
+    "de este terreno, de seis cientos metros",
+    "de frente al Rio de Areco en linea recta,",
+    "por un mil siete cientos cincuenta",
+    "metros de fondo en la linea Nord-",
+    "Oeste, en cuyo fondo tiene solo un",
+    "frente de cuatro cientos treinta y",
+    "cuatro metros, el que linda por el",
+    "Nord-Este con el Rio de Areco, por el",
+    "S. E. y S. O. con D^{a}. Josefa Cots de",
+    "la Sota, y Don Rómulo C. de la Sota,",
+    "y por el Nord-Oeste con Don Nicolás",
+    "O'Donell.",
+    "Mensura.— En el partido de San",
+    "Andrés de Giles, á 19 de Setiembre de",
+    "1883, el Agrimensor que suscribe",
+    "comisionado por el Señor Juez de 1^{a}.",
+    "Instancia en lo Civil del Departamen-",
+    "to del Centro D^{r}. Don Manuel B. Gonnet,"
+   ],
+   "interpretacion": "Escritura rectificatoria ante el escribano de Areco José A. Esquiaga: la ubicación correcta es de 600 m de frente al río de Areco en línea recta por 1750 m de fondo sobre la línea NO (la de O'Donell), y en el fondo sólo 434 m de frente. Linderos: NE río de Areco; SE y SO Josefa Cots de la Sota y Rómulo C. de la Sota; NO Nicolás O'Donell. Comienza la diligencia de mensura del 19/9/1883, por comisión del juez Gonnet."
+  },
+  {
+   "titulo": "Folio 4 · Edictos; mojón de palo al borde del río de Areco; alambrado de O'Donell; perpendiculares hacia el río",
+   "img": "img/f/131/11.jpg",
+   "fuente": "Toma IMG_9982 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 4]",
+    "para medir el terreno perteneciente á",
+    "Don José Vicente Apaolaza ubicado [en]",
+    "el partido de Giles; previo aviso á",
+    "los linderos como consta de los Edictos",
+    "publicados en los diarios «La Prensa»",
+    "y «El Oeste» de fecha 14 de Setiembre de 1883,",
+    "dí principio á la operacion del mod[o]",
+    "siguiente: Me situé en el mojon de palo",
+    "esquinero Oeste del terreno que iba á",
+    "medir, que está al borde del Rio de Areco,",
+    "y desde aqui al Sud treinta y dos grados",
+    "veinte y siete minutos Este, medí dos",
+    "cientos treinta y cinco metros, siguiendo por",
+    "el costado del alambrado que deslinda",
+    "este terreno con el de O'Donell, y al término",
+    "hice una señal (a del plano) y levanté una",
+    "perpendicular al alambrado, de cuatro",
+    "cientos veinte y cinco metros, dejando",
+    "el Rio de Areco á los doscientos metros,",
+    "ciento cuarenta y seis metros á la izqui[er-]",
+    "da, y llegando al borde del Rio á los cua[tro]",
+    "cientos veinte y cinco metros. De aqu[í]",
+    "cuadré al Sud treinta y dos grados",
+    "veinte y siete minutos Este, y med[í]",
+    "cien metros, y al término cuadré [al]",
+    "Norte cincuenta y siete grados trein[ta]",
+    "y tres minutos Este, y medí ciento seten[ta]",
+    "y cinco metros hasta encontrar el bo[rde]"
+   ],
+   "interpretacion": "Edictos en «La Prensa» y «El Oeste» (14/9/1883) como aviso a los linderos. Almeira parte del mojón de palo esquinero O, al borde del río de Areco, y sigue el alambrado que separa el campo de O'Donell (S 32° 27′ E). A 235 m marca la señal «a» y levanta una perpendicular (N 57° 33′ E) que corta el río, que serpentea, a los 200 m con 146 m de desvío, y llega a la orilla a los 425 m. Desde ahí, 100 m al S 32° 27′ E y 175 m al N 57° 33′ E hasta el borde del río (señal D). La ribera se resuelve por escalones ortogonales."
+  },
+  {
+   "titulo": "Folio 4 v. · Línea del alambrado de O'Donell (1750 m), esquinero E y lado de 1427 m hasta el río",
+   "img": "img/f/131/12.jpg",
+   "fuente": "Toma IMG_9983 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "del Rio, donde hice una señal (D del plano).",
+    "De aqui volví á la señal que habia",
+    "hecho anteriormente en el alambrado",
+    "que deslinda este terreno con el de",
+    "O'Donell, y seguí midiendo por el cos-",
+    "tado de este alambrado, al Sud treinta",
+    "y dos grados veinte y siete minutos",
+    "Este, hasta completar mil siete cien-",
+    "tos cincuenta metros desde el mojon",
+    "A (del plano) y á su término puse un",
+    "mojon de palo. Desde este mojon",
+    "puse el rumbo Norte cincuenta y",
+    "siete grados treinta y tres minutos",
+    "Este, y medí cuatro cientos treinta",
+    "y cuatro metros, y al término puse",
+    "un mojon de palo para que sirva",
+    "de esquinero Este del terreno que me-",
+    "dia. Desde este mojon puse el",
+    "rumbo Norte veinte y cinco grados diez",
+    "y nueve minutos Oeste, y medí mil",
+    "cuatro cientos veinte y siete metros,",
+    "poniendo á la mitad de esta dis-",
+    "tancia un mojon de palo, y llegando",
+    "á la señal que habia hecho anterior-",
+    "mente D (del plano), donde puse un mo-",
+    "jon de palo, para que sirva de",
+    "esquinero Norte del terreno que media.",
+    "La figura del terreno es la de un"
+   ],
+   "interpretacion": "Vuelve a la señal «a» y sigue el alambrado de O'Donell hasta completar 1750 m desde A, donde pone un mojón de palo (B). De allí N 57° 33′ E 434 m: mojón esquinero E (C). Desde C, N 25° 19′ O 1427 m, con un mojón en la mitad, hasta la señal D en el río, donde pone el mojón esquinero N. Verificación de la ficha: el polígono A-B-C-D más el escalonado de la ribera cierra a ~11 m de D y da ≈ 83,2 ha (el título: 84,37)."
+  },
+  {
+   "titulo": "Folio 5 · Superficie, linderos, circular y acta, variación (11° 30′ NE) y abalizamiento de mojones",
+   "img": "img/f/131/13.jpg",
+   "fuente": "Toma IMG_9983 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 5]",
+    "polígono irregular con una superficie",
+    "igual á ochenta y cuatro hectáreas y",
+    "treinta y siete áreas (843700 m^{s}. 2^{s}.) equi-",
+    "valentes á cincuenta cuadras cuadra-",
+    "das (50 c. c.), y linda por el Nord-Este",
+    "y Sud-Este con D^{a}. Josefa Cots de la",
+    "Sota y Don Rómulo C. de la Sota; por el",
+    "Nord-Oeste con el Rio de Areco, y por",
+    "el Sud-Oeste con Don Nicolás O'Donell.",
+    "Asistió á esta operacion Don",
+    "Rómulo C. de la Sota, y firmaron",
+    "la circular de citacion y el Acta,",
+    "D^{a}. Josefa Cots de la Sota, Don Rómulo",
+    "C. de la Sota y Don Nicolás O'Donell.",
+    "No hubo protesta.",
+    "La variacion de la aguja fué de 11° 30′ al",
+    "N. E.",
+    "— Avalizamiento de mojones —",
+    "Desde el mojon A (del plano) se ve una",
+    "poblacion de O'Donell, que forma con la",
+    "linea AB un ángulo de 15° 25′; y una pobla-",
+    "cion de Apaolaza, que forma con la",
+    "misma linea un ángulo de 32° 53′.",
+    "Desde el mojon B (del plano) se ve una",
+    "poblacion de Apaolaza, que forma",
+    "con la linea BA un ángulo de 73° 16′; y la",
+    "Estancia de D^{a}. Josefa Cots de la Sota",
+    "que forma con la misma linea un",
+    "ángulo de 96° 43′."
+   ],
+   "interpretacion": "Superficie 84,37 ha = 50 cuadras². Linderos: NE y SE Josefa Cots de la Sota y Rómulo C. de la Sota; NO el río de Areco; SO Nicolás O'Donell (orientación distinta de la escritura rectificatoria: el río corre al NO del campo). Asistió Rómulo de la Sota; firmaron circular y acta Josefa Cots de la Sota, Rómulo C. de la Sota y Nicolás O'Donell. Sin protesta. Variación 11° 30′ NE. Abalizamiento: desde A se ven una población de O'Donell (15° 25′ con AB) y una población de Apaolaza (32° 53′); desde B, la población de Apaolaza (73° 16′) y la estancia de Josefa Cots de la Sota (96° 43′)."
+  },
+  {
+   "titulo": "Folio 5 v. · Fin del abalizamiento, firma de Almeira; dictamen del D. I. (entrada 9/10/1883)",
+   "img": "img/f/131/14.jpg",
+   "fuente": "Toma IMG_9984 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "Desde el mojon C (del plano) se vé la",
+    "Estancia de D^{a}. Josefa Cots de la Sota,",
+    "que forma con la linea CB un ángulo",
+    "de 1[?]3° 1[?]′; y una poblacion de la misma,",
+    "que forma con la misma linea un",
+    "ángulo de 66° 35′.",
+    "Desde el mojon D (del plano) se ve la",
+    "poblacion de Apaolaza, que forma",
+    "con la linea DC un ángulo de 23° 18′, y",
+    "la Estancia de D^{a}. Josefa Cots de",
+    "la Sota, que forma con la misma",
+    "linea un ángulo de 16° 49′.",
+    "Manuel Almeira",
+    "[sello oval: Departamento de Ingenieros de la Provincia · Entradas · OCT 9 1883]",
+    "Señor Juez de 1^{a}. Instancia",
+    "El Departamento de Ingenieros aprueba facultativamente la",
+    "mensura del terreno de Don José V. Apaolaza,",
+    "practicada por el agrimensor Almeyra, ^{pero} habria",
+    "conveniencia en que se dé vista de ella á Doña",
+    "Rogelia de la Sota y Don Pedro B. Mar-",
+    "tinez, que tambien son linderos del terreno ~~me~~ me-",
+    "dido, por cuanto no hay constancia en el",
+    "presente expediente de que haya cesado el",
+    "condominio que al total de estos terrenos"
+   ],
+   "interpretacion": "Abalizamiento (cont.): desde C, la estancia de Josefa Cots (1[?]3° 1[?]′ con CB) y una población de la misma (66° 35′); desde D, la población de Apaolaza (23° 18′) y la estancia de Josefa Cots (16° 49′). Firma Manuel Almeira. Entrada al D. I. el 9/10/1883. Dictamen: el D. I. «aprueba facultativamente» la mensura, pero aconseja dar vista a Rogelia de la Sota y a Pedro B. Martínez, también linderos, porque no consta en el expediente que haya cesado el condominio que tenían sobre el total…"
+  },
+  {
+   "titulo": "Folio 6 · Fin del dictamen del D. I. (16/10/1883)",
+   "img": "img/f/131/15.jpg",
+   "fuente": "Toma IMG_9984 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 6]",
+    "tenian estos señores con los vende-",
+    "dores á Apaolaza.",
+    "Octubre 16 de 1883",
+    "Jorge Coquet",
+    "R. Otamendi          Lagos"
+   ],
+   "interpretacion": "…con los vendedores a Apaolaza. Fecha 16/10/1883; firman Jorge Coquet, R. Otamendi y Lagos. Es la primera vez en la serie 127-131 que firma Otamendi en lugar de Iparraguirre."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de José V. Apaolaza (Almeira, septiembre de 1883)",
+   "img": "img/f/131/03.jpg",
+   "fuente": "Toma IMG_9986",
+   "orientacion": "apaisado; flecha N arriba a la izquierda (junto a D); A abajo a la izquierda, sobre el río",
+   "interpretacion": "Plano a tinta y aguada con escala gráfica de 1000 m («Metros»). Un trapecio lavado en ocre, «José V. Apaolaza · Area = 843700 m² c²». El «Río de Areco» en azul, sinuoso, corre en diagonal por el lado O del campo, de A a D; la ribera se mide con la señal «a» (235 m de A), la perpendicular de 425 m (cotas 200 y 146 al río) y el escalón de 100 m y 175 m hasta D. Rótulos: A-a-B S 32° 27′ E 1750 m; B-C N 57° 33′ E 434 m; C-D N 25° 19′ O 1427 m (con «713» en la mitad: el mojón intermedio); escalón S 32° 27′ E 100 y N 57° 33′ E 175. Linderos: «Josefa Cots de la Sota y Rómulo Clemente de la Sota» en arco (N y E) y «Nicolás O'Donell» (S). No están dibujadas las poblaciones del abalizamiento. Firma: Manuel Almeira.",
+   "referencias": [
+    [
+     "A",
+     "mojón de palo esquinero O, al borde del río de Areco"
+    ],
+    [
+     "a",
+     "señal sobre el alambrado de O'Donell a 235 m de A; pie de la perpendicular al río"
+    ],
+    [
+     "B",
+     "mojón de palo a 1750 m de A, sobre el alambrado"
+    ],
+    [
+     "C",
+     "mojón esquinero E (434 m de B)"
+    ],
+    [
+     "D",
+     "señal y mojón esquinero N, en la orilla del río"
+    ],
+    [
+     "Río de Areco",
+     "frente NO del campo; dibujado en azul"
+    ],
+    [
+     "Alambrado",
+     "línea A-B, límite con Nicolás O'Donell"
+    ],
+    [
+     "Linderos",
+     "Josefa Cots de la Sota y Rómulo C. de la Sota; Nicolás O'Donell"
+    ]
+   ]
+  },
+  {
+   "titulo": "Copia de la Dirección de Geodesia, Catastro y Tierras (La Plata, marzo de 1945)",
+   "img": "img/f/131/04.jpg",
+   "fuente": "Toma IMG_9985",
+   "orientacion": "como el original",
+   "interpretacion": "Copia en tela con letra de molde: «Es copia del plano agregado al duplicado n.º 131 del partido de S. Andrés de Giles, mensura practicada en Set. de 1883 por el Agrimensor Manuel Almeira. La Plata, Marzo de 1945». Sello «Geodesia, Catastro y Tierras · M. O. P. · Dirección»; firma del director (Francisco Esteban[?]; la misma que en la copia de la 130); «Dib. Sala Dibujo». Reproduce rótulos y cotas del original.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "El río de Areco es el frente del campo: Almeira no lo trata como línea sino como orilla que hay que alcanzar con perpendiculares y escalones (200, 146, 425, 100, 175 m), la forma de medir un borde sinuoso con cinta. El alambrado de O'Donell ya existe en 1883 y sirve de línea de mensura: el cercamiento precede a la mensura y la guía. El abalizamiento nombra tres núcleos habitados —una población de O'Donell, una de Apaolaza (ya establecido en su compra de junio) y la estancia y una población de la viuda Cots de la Sota—, vistos desde cada mojón con ángulos: una red de visuales que reconstruye el paisaje de puestos sobre el río."
+  },
+  {
+   "titulo": "Ritual",
+   "texto": "Edictos en «La Prensa» y «El Oeste» (14/9/1883, cinco días antes de la operación); circular de citación y acta firmadas por los linderos; asistencia de Rómulo de la Sota; mojones de palo en A, B, C, D y en la mitad de C-D. El abalizamiento con ángulos a construcciones visibles, que Almeira cumple prolijamente, permite reubicar los mojones aunque se pierdan. El dictamen del D. I. introduce una cautela de procedimiento: dar vista a los condóminos que no firmaron."
+  },
+  {
+   "titulo": "Técnica y metrología",
+   "texto": "Superficie en m², hectáreas y cuadras cuadradas (50 c²): la cuadra sigue siendo la unidad del mercado aun en 1883. Rumbos ortogonales (S 32° 27′ E / N 57° 33′ E) sobre el alambrado, con el lado C-D oblicuo (N 25° 19′ O) para cerrar el área pactada. Variación 11° 30′ NE (cf. 11° 42′ de Schuster en 127-128 y 10° 8′ de Castellanos en 129-130). Verificación de la ficha: el polígono cierra a ~11 m de D y da ≈ 83,2 ha, algo menos que las 84,37 del título (la ribera se aproxima por rectas)."
+  },
+  {
+   "titulo": "Tenencia y mercado de tierras",
+   "texto": "Cadena: Dionisia Alen de Sosa (021) → Gregorio de la Sota (1858, ante el juez de paz de Areco, protocolizado en la Capital) → declaratoria de herederos (viuda, dos hijos, un nieto) → partición privada ante el escribano de Giles (29/3/1883) → venta a Apaolaza (15/6/1883) → rectificación de la ubicación (29/8/1883) → mensura (19/9) → aprobación (22/11). Todo el ciclo de 1883 dura ocho meses. La rectificación muestra que la escritura de venta describía la fracción con medidas que no cabían en el terreno real: la mensura corrige a la escritura y no al revés."
+  },
+  {
+   "titulo": "Crítica documental",
+   "texto": "(1) «Guerrico», «Cejas» y «Esquiaga», dudosos a primera vista, se confirman con la ficha 126. (4) El primer ángulo desde C («1[?]3° 1[?]′») está borroso. (5) Los linderos cambian de orientación entre la escritura (río al NE) y la mensura (río al NO): la mensura es la que corresponde al plano. (6) El oficio de aprobación está encuadernado como foja 1."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "(1) 126 (Josefa Cots de La Sota, Mariano Iparraguirre, 1882): es la mensura del triángulo ENTERO de 308,24 ha entre el río de Areco, el arroyo de Giles y la línea de O'Donnell; la 131 es la primera subdivisión, un año después. La base de 126 (A-B N 32° 27′ O, 3500 m, contra O'Donnell) tiene exactamente el rumbo de la línea A-B de la 131 (S 32° 27′ E, 1750 m): Almeira mide sobre la misma línea, ya alambrada, y su mojón A del río coincide con el extremo de esa base. La estancia de Rómulo La Sota y el puesto dibujados en 126 son las «poblaciones» que Almeira visa. (2) 021 (Dionisia Alen de Sosa, Differt 1858): origen de la cadena. (3) 038 (Morgan ex Guerrico) y el puesto «La Argentina» de Guerrico en 126: el lindero N de 1858. (4) 043 (O'Donnell) y 119 (quiebre hacia Nicolás O'Donell en el plano de Almeira de 1881). (5) 119: Lucas Scully, lindero de los Monsalvo-Zárate; 069 y 071: Santiago Scully. (6) Almeira: fichas 106 (1880) y 119 (1881); usa en las tres la variación 11° 30′. (7) El «Iparraguirre» que firma en el D. I. en 127-130 podría ser el mismo Mariano Iparraguirre agrimensor de la 126."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Hay mensura de la estancia de Josefa Cots de la Sota o de las fracciones de Rómulo y de Pedro B. Martínez en carpetas siguientes? ¿Dónde estaban la población de Apaolaza y la estancia Cots de la Sota? (los ángulos del abalizamiento permiten ubicarlas por intersección en el GIS). ¿Se dio la vista aconsejada por el D. I. a Rogelia y a Pedro B. Martínez antes de la aprobación judicial?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "José Vicente Apaolaza",
+   "rol": "Propietario",
+   "texto": "Comprador en 1883 de 50 cuadras sobre el río de Areco; ya tenía allí una «población» al tiempo de la mensura. Apellido vasco (Guipúzcoa), frecuente entre los inmigrantes vascos del norte bonaerense dedicados al tambo y la cría de ovejas. Sin otros datos específicos.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Manuel Almeira",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor de las fichas 106 (herederos de Laureano Castro, 1880) y 119 (Monsalvo y Zárate, 1881); búsqueda web anterior sin resultados. Letra cuidada, abalizamiento completo con ángulos a construcciones y planos en tinta y aguada.",
+   "fuentes": "esta mensura; METODO.md (sesión del 26/10/2026)"
+  },
+  {
+   "nombre": "Gregorio de la Sota",
+   "rol": "Antecesor (1858)",
+   "texto": "Compró el 21/11/1858 a Dionisia Alen de Sosa el triángulo de 308 ha de la confluencia Areco–Giles (ficha 126); murió antes de 1880. Casado con Josefa Cots; padre de Rómulo Clemente, Rogelia (de Cejas) e Isabel (madre, probablemente, de Pedro B. Martínez).",
+   "fuentes": "esta mensura; ficha 126"
+  },
+  {
+   "nombre": "Josefa Cots de la Sota",
+   "rol": "Viuda, lindera",
+   "texto": "Recibe 170,5 ha en la partición de 1883; su estancia y una población suya son puntos del abalizamiento. Firma circular y acta.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Rómulo Clemente de la Sota",
+   "rol": "Vendedor, lindero",
+   "texto": "Hijo de Gregorio; vende por sí y por su hermana; asiste a la mensura.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Rogelia de la Sota de Cejas y Pedro B. Martínez",
+   "rol": "Herederos",
+   "texto": "Hija y nieto de Gregorio; el D. I. pide que se les dé vista de la mensura.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Dionisia Alen (Alem) de Sosa",
+   "rol": "Vendedora (1858)",
+   "texto": "Propietaria de la ficha 021 (Differt 1858), sobre el río de Areco; vendió una parte a Gregorio de la Sota en noviembre de 1858; en 1858 su testamentaría ya lindaba al E (lectura del extracto).",
+   "fuentes": "esta mensura; ficha 021"
+  },
+  {
+   "nombre": "Nicolás O'Donell",
+   "rol": "Lindero so",
+   "texto": "Propietario alambrado vecino; firma circular y acta; tiene una población visible desde el mojón A. Cf. O'Donnell en la ficha 043.",
+   "fuentes": "esta mensura; ficha 043"
+  },
+  {
+   "nombre": "Lucas Scully",
+   "rol": "Lindero s (1858)",
+   "texto": "Vecino en 1858; cf. ficha 119 (lindero de los Monsalvo-Zárate) y 069/071 (Santiago Scully).",
+   "fuentes": "esta mensura; fichas 069, 071, 119"
+  },
+  {
+   "nombre": "Francisco Duberty",
+   "rol": "Juez de paz de san antonio de areco (1858)",
+   "texto": "Ante él se otorgó la venta de 1858.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Escribanos",
+   "rol": "Fe pública",
+   "texto": "Carlos M. Pérez (Capital, protocolizó la venta de 1858); Fernando del Río (pueblo de Giles, partición y venta de 1883); José A. Esquiaga (San Antonio de Areco, rectificación).",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Gonnet, Coquet, Otamendi, Lagos",
+   "rol": "Juzgado y d. i.",
+   "texto": "Manuel B. Gonnet, juez civil del Departamento del Centro; Jorge Coquet, R. Otamendi y Lagos, comisión técnica del D. I. (Otamendi reemplaza aquí a Iparraguirre).",
+   "fuentes": "fichas 127-131"
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/131/02.jpg",
+  "fuente": "Toma IMG_9978",
+  "lineas": [
+   "Giles",
+   "131.",
+   "Duplicado de la diligencia",
+   "de mensura de un terreno per-",
+   "teneciente á Don José V.",
+   "Apaolaza en el partido",
+   "de",
+   "«Giles».",
+   "Agrimensor – Manuel Almeira",
+   "— 1883 —",
+   "1-9-106"
+  ]
+ },
+ "titulo": "José Vicente Apaolaza",
+ "estado": "Transcripta (11 hojas, 247 renglones), 2 láminas"
+}

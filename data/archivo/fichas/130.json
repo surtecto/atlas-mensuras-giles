@@ -1,0 +1,423 @@
+{
+ "carpeta": "130",
+ "carpeta_nombre": "Carpeta 130",
+ "archivo": "Ficha 130 - Manuel Lima (1883).docx",
+ "resumen": {
+  "Propietario / solicitante": "Manuel Lima",
+  "N.º de duplicado": "130",
+  "Agrimensor": "Wenceslao Castellanos",
+  "Año": "1883",
+  "Fecha de la diligencia": "Pedido 16/5/1883; mensura 8/6/1883; D. I. 27/7/1883; aprob. 4/8/1883",
+  "Ubicación": "SO del partido, ex suerte de Mariano Lima (laguna de Moyano), al NE de 129",
+  "Orden judicial": "Juez Civil y Com. Dpto. del Centro (Mercedes): Capdevila; aprueba M. B. Gonnet",
+  "Vendedor / antecesor": "Mariano Lima 1838 → hijuelas paterna (1852) y materna (1854)",
+  "Linderos citados": "E., Pablo y Silvana M. de Martínez (NE, NO); P. Guzmán (SE); C. Lima, Serval, M. Rodríguez (SO)",
+  "Medidas": "Rectángulo 580,5 + 3258 m × 833,8 m (961 v de frente × 4500 v)",
+  "Rumbos": "S 45° 51′ E / N 44° 28′ E; var. 10° 8′",
+  "Referencia de archivo": "AHG-PBA, duplicado 130 de S. A. de Giles; copia de 19[4?]5"
+ },
+ "metricas": {
+  "superficie_ha": "319,44",
+  "hitos": "estancia (casa con monte); 9 mojones de palo; pozos/lagunitas junto a D",
+  "aguas": "arroyo de Morales (cruza A-B y E-A); bañados en A y en B-C; laguna cerca de D"
+ },
+ "sintesis": "Mensura gemela de la 129: el mismo agrimensor (Wenceslao Castellanos), el mismo día de campo (8/6/1883), el mismo juez, los mismos diarios para los edictos y sellos fiscales correlativos. Manuel Lima, hijo de Mariano Lima, había reunido 961 varas de frente por herencia paterna (452 v, 1852) y materna (509 v, 1854) en la suerte de 9000 × 9000 v de la laguna de Moyano; vendió las cabeceras a Domingo Guzmán y Fermín Martínez y conservó una lonja de 833,8 × 3838 m (319,4 ha). El vértice A y el lado A-B son comunes con el campo de su sobrino Celedonio. El plano dibuja la estancia, el arroyo de Morales, bañados y una lagunita: el mismo sistema de bajos de la 129.",
+ "caratula": {
+  "img": "img/f/130/01.jpg",
+  "fuente": "Toma IMG_9967",
+  "campos": [
+   [
+    "Número",
+    "N.º 130 (ambos ángulos)"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Repartición",
+    "Dirección de Geodesia y Catastro de la Provincia de Buenos Aires"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Manuel Lima"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Wenceslao Castellanos"
+   ],
+   [
+    "Año",
+    "1883"
+   ],
+   [
+    "Juzgado / Secretaría / Duplicados de referencia",
+    "en blanco"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Título de Manuel Lima: de Mariano Lima (1838) a las ventas a Guzmán y Fermín Martínez; pedido (1883)",
+   "img": "img/f/130/08.jpg",
+   "fuente": "Toma IMG_9969",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 1]",
+    "Título de Don Manuel Lima",
+    "En 8 de Enero de 1838 Don Mariano Lima compra al S.",
+    "Gobierno un terreno á inmediaciones de la laguna de Mo-",
+    "yano partido de Areco con una area de dos y cuarta",
+    "legua cuadrada. En 7 de Enero de 1840 el Agrimensor",
+    "Don Raymundo Prat mide dicho campo el cual result[a]",
+    "de nueve mil varas de frente por nueve mil de fondo",
+    "lindando al Nor Oeste con Don Ramon Colmenero y Don",
+    "José M. Echevarria, por el Nor Este Juan G. Carrasco, por",
+    "el Sud Oeste Don Pedro Nolasco Silva y Doña Maria del",
+    "Carmen Martines y por el Sud Este con Don Pedro Cara-",
+    "don [?] Pastor y Don José Leguisamon y Doña Pascuala Bello de",
+    "Leguisamon.",
+    "Por muerte de Don Mariano Lima se le adjudic[a]",
+    "á Don Manuel Lima por su herencia paterna segun su hijuel[a]",
+    "cuatrocientas cincuenta y dos varas del terreno anterior-",
+    "mente indicado. Lujan Agosto 6 de 1852.",
+    "Se le adjudica á Don Manuel por su herencia",
+    "materna quinientas nueve varas de frente por (9000)",
+    "nueve mil de fondo. Villa de Mercedes 16 de Diciembre",
+    "de 1854. Escribano Rafael Arguello.",
+    "Don Manuel Lima vende á don Domingo Guz-",
+    "man una parte de este terreno compuesto de novecientas se-",
+    "senta y una vara de fondo [sic] por tres mil varas de fondo y á Don",
+    "Fermin Martines el mismo frente por mil quinientas varas",
+    "de fondo",
+    "En 16 de Mayo de 1883 Don Manuel Lima solici-",
+    "ta del Señor Juez de 1^{a}. Instancia del Departamento de[l]"
+   ],
+   "interpretacion": "Cadena de títulos. 8/1/1838: Mariano Lima compra al Superior Gobierno 2¼ leguas² junto a la laguna de Moyano (partido de Areco). 7/1/1840: Raymundo Prat la mide (ficha 055): 9000 × 9000 v, con linderos NO Ramón Colmenero y José M. Echeverría, NE Juan G. Carrasco, SO Pedro Nolasco Silva y María del Carmen Martínez, SE Pedro Cara-[?] Pastor, José Leguizamón y Pascuala Bello de Leguizamón. A la muerte de Mariano, Manuel Lima recibe por herencia paterna 452 v de frente (Luján, 6/8/1852) y por herencia materna 509 v por 9000 de fondo (Villa de Mercedes, 16/12/1854, escribano Rafael Argüello): 961 v de frente en total. Vende a Domingo Guzmán 961 v de frente por 3000 de fondo («de fondo» por «de frente»: error del copista) y a Fermín Martínez el mismo frente por 1500 de fondo. Le quedan 961 × 4500 v. El 16/5/1883 pide mensura al juez del Departamento del Centro."
+  },
+  {
+   "titulo": "Folio 1 v. · Nombramiento, antecedentes y edictos; comienzo de la mensura (A-B-C-D)",
+   "img": "img/f/130/09.jpg",
+   "fuente": "Toma IMG_9970 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "del Centro D^{r}. Capdevila el nombramiento del Agri-",
+    "mensor Wenceslao Castellanos para que practique men-",
+    "sura del terreno anteriormente indicado.",
+    "En Mayo 17 de 1883 El Señor Juez da por nom-",
+    "brado al Agrimensor propuesto, el que acepta el cargo",
+    "en la misma fecha.",
+    "En Junio [?] de 1883 Toma antecedentes del De-",
+    "partamento de Ingenieros y se publican edictos en los",
+    "diarios «La Nacion» de la Capital y «El Pueblo» de",
+    "Mercedes.",
+    "Mensura. En el partido de Giles á ocho",
+    "dias del mes de Junio del año de mil ochocientos",
+    "ochenta y tres el Agrimensor que suscribe comisionado",
+    "por el Señor Juez de 1^{a}. Instancia del Departamento del Cen-",
+    "tro D^{r}. Capdevila, para medir el terreno de propiedad de",
+    "Don Manuel Lima, situado en este partido, previa circular",
+    "á los Señores linderos, la cual original se acompaña, procedí",
+    "de la manera siguiente: Del mojon A del plano al Sud cuaren-",
+    "ta y seis grados cuatro minutos Este medí quinientos ochen-",
+    "ta metros cincuenta centímetros. La linea BC fué medida",
+    "al Sud cuarenta y cinco grados cincuenta y un minutos",
+    "Este tres mil doscientos cincuenta y ocho metros. En",
+    "esta linea á los seiscientos cincuenta; mil doscientos cin-",
+    "cuenta y siete, mil quinientos setenta y cuatro, y dos mil",
+    "cuatrocientos cincuenta dí con mojones de palo. C.D.",
+    "este costado fué medido al Norte cuarenta y cuatro gra-",
+    "dos veinte y ocho minutos Este ochocientos treinta y",
+    "tres metros ochenta centímetros. La linea D E al"
+   ],
+   "interpretacion": "Nombramiento de Wenceslao Castellanos por el juez Capdevila (17/5/1883), antecedentes del D. I. y edictos en «La Nación» y «El Pueblo» de Mercedes: el mismo trámite, las mismas fechas y los mismos diarios que la mensura de Celedonio Lima (129); las dos se hicieron juntas. Mensura del 8/6/1883, previa circular. A-B S 46° 4′ E 580,50 m (es el mismo lado A-B de la ficha 129: el vértice A es común); B-C S 45° 51′ E 3258 m, con mojones de palo a 650, 1257, 1574 [el plano dice 1674] y 2450 m; C-D N 44° 28′ E 833,80 m."
+  },
+  {
+   "titulo": "Folio 2 · Línea D-E con sus mojones de palo, E-A; superficie, linderos, circular, acta y variación",
+   "img": "img/f/130/10.jpg",
+   "fuente": "Toma IMG_9970 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 2]",
+    "Norte cuarenta y cinco grados cincuenta y [cinco] minutos",
+    "Oeste medí tres mil ochocientos treinta y dos metros [cincuen-]",
+    "ta centímetros. En esta linea dí con mojones de palo",
+    "á los ochocientos cincuenta, novecientos cincuenta,",
+    "mil ochocientos treinta, mil novecientos cincuenta y",
+    "cinco, á la derecha un metro cincuenta centímetros, dos",
+    "mil quinientos ochenta, y dos mil ochocientos setenta y",
+    "siete. E A se midió al Sud cuarenta y cuatro grados",
+    "cincuenta y dos minutos Oeste, ochocientos treinta",
+    "y tres metros ochenta centímetros.",
+    "Superficie trescientos diez y nueve",
+    "hectáreas, cuarenta y tres areas, ochenta y dos cen-",
+    "tiareas.",
+    "Linderos, al Nor Este Enrique Martinez.",
+    "Pablo Martinez y Silvana M. de Martinez, al Sud",
+    "Este Petrona Guzman, al Nor Oeste Enrique Marti-",
+    "nez, y por el Sud Oeste Herederos de Domingo Lima, Ce-",
+    "ledonio Lima, Mauricia R. de Serval y Maria Rodriguez.",
+    "Circular fué firmada por Don Enrique Mar-",
+    "tinez, Celedonio F. Lima, Maria Rodriguez, Pablo A[?]-",
+    "Martinez, Mauricia R. de Serval, Silvana M. de Marti-",
+    "nez, y á ruego de Doña Petrona Guzman, José Moreno [?]",
+    "Se levantó el acta correspondiente la cual fué firma-",
+    "da por Don Enrique Martinez, Celedonio F. Lima",
+    "y á ruego de Don Manuel Lima su hijo M. Lima",
+    "Hurtado. Variacion diez grados ocho minut[os]",
+    "Wenceslao [Castellanos]",
+    "[sello oval: Departamento de Ingenieros · Entradas · 17 JUL 1883]"
+   ],
+   "interpretacion": "D-E N 45° 55′ O 3832,50 m, con mojones de palo a 850, 950, 1830, 1955 (uno 1,50 m a la derecha), 2580 y 2877 m; E-A S 44° 52′ O 833,80 m. Superficie 319,4382 ha (el plano agrega «= 189 cuadras cuadradas + 5596 m²»). Linderos: NE Enrique Martínez, Pablo Martínez y Silvana M. de Martínez; SE Petrona Guzmán; NO Enrique Martínez; SO herederos de Domingo Lima (Celedonio Lima), Mauricia R. de Serval y María Rodríguez. Circular firmada por los linderos (por Petrona Guzmán, a ruego, José Moreno [?]); acta firmada por Enrique Martínez, Celedonio F. Lima y, por Manuel Lima, su hijo M. Lima Hurtado. Variación 10° 8′ (igual que en 129). Verificación de la ficha: el pentágono cierra con 2,2 m y da 319,0 ha."
+  },
+  {
+   "titulo": "Folio 2 v. · Dictamen del Departamento de Ingenieros (27/7/1883)",
+   "img": "img/f/130/11.jpg",
+   "fuente": "Toma IMG_9971 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "Señor Juez de 1^{a}. Instancia",
+    "El Departamento de Ingenieros ha examinado",
+    "la mensura del terreno perteneciente á D^{n}.",
+    "Manuel Lima, ubicado en el Partido de",
+    "Giles practicada por el agrimensor D^{n}. Wen-",
+    "ceslao Castellanos y encontrándola confor-",
+    "me con sus antecedentes, la aprueba en",
+    "la parte facultativa.",
+    "Julio 27/83",
+    "Jorge Coquet",
+    "Yparraguirre          Lagos"
+   ],
+   "interpretacion": "Dictamen del D. I. (27/7/1883): examinada la mensura y conforme con sus antecedentes, «la aprueba en la parte facultativa» (fórmula distinta de la de 129, que aconsejaba al juez aprobarla). Firman Jorge Coquet, Iparraguirre y Lagos."
+  },
+  {
+   "titulo": "Folio 3 · Oficio del juzgado de Mercedes: aprobación judicial (4/8/1883) y decreto de agregación (17/8/1883)",
+   "img": "img/f/130/12.jpg",
+   "fuente": "Toma IMG_9971 · página derecha",
+   "nota": "",
+   "lineas": [
+    "10 – 290 – 8 Corresponde",
+    "[sello fiscal: Dirección General de Rentas de la Provincia de Buenos Aires · 1883 · Seis pesos · N.^{o} 146808]",
+    "[sello: FOJA 3]",
+    "Mercedes Agosto 4",
+    "Al S^{r}. Gefe del Departamen-",
+    "to de Ingenieros de la Pro-",
+    "vincia.",
+    "Tengo el honor de",
+    "poner en conocimiento del",
+    "S^{r}. Gefe que en la fecha ha",
+    "sido aprobada por este Juzgado",
+    "la mensura practicada por",
+    "el Agrimensor Don Wenceslao",
+    "Castellanos de un campo si-",
+    "tuado en el Partido de Giles",
+    "de propiedad de Don Ma-",
+    "nuel Lima.",
+    "Dios G^{de}. á U^{d}.",
+    "Manuel B. Gonnet",
+    "Agosto 17/83",
+    "Agréguese al dup^{do}. correspond^{te}.",
+    "Coquet"
+   ],
+   "interpretacion": "Oficio del juez Manuel B. Gonnet (Mercedes, 4/8/1883): aprobada la mensura de Castellanos del campo de Manuel Lima. Sello fiscal de seis pesos n.º 146808, correlativo del 146807 de la ficha 129: los dos oficios se libraron uno tras otro. Proveído del D. I. del 17/8/1883 («Agréguese al duplicado correspondiente»), Coquet."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Manuel Lima (Castellanos, junio de 1883)",
+   "img": "img/f/130/03.jpg",
+   "fuente": "Toma IMG_9972 (foja 4)",
+   "orientacion": "apaisado; flecha N-S en diagonal (N arriba a la izquierda); E-D arriba, A-B-C abajo",
+   "interpretacion": "Plano en color con marco negro de esquinas redondeadas y escala gráfica de 1000 m («Metros»). Una lonja larga lavada en ocre (A-B-C-D-E) con el rótulo gótico «Manuel Lima · Sup = 319 h 43 a 82 c = 189 cuadras cuadradas + 5596 metros cuadrados». Dentro: la «Estancia» (cuadrado sombreado con la casa en el centro, a ~1/3 desde E), una lagunita oval cerca de D, dos manchas oscuras (pozos o jagüeles) y un rancho junto a D sobre la línea, un cuadro punteado (¿corral o huerta?) en C. El «Arroyo de Morales» entra por el lado de Pablo Martínez, cruza E-A y sale por A-B hacia Celedonio Lima; bañados con matas de junco en A y en el medio de B-C. Rótulos: A-B = 580,5, S 46° 4′ E; B-C S 45° 51′ E = 3258 m con cotas 650,9, 1257, 1674, 2450, 2944; C-D N 44° 28′ E = 833,8; D-E N 45° 55′ O = 3832,6 con cotas 830 [?], 959 [?], 1830, 1955, 2580, 2877, 3631 [?]; E-A S 44° 52′ O = 833,8. Linderos en letra gótica. Firma: «Junio de 1883 · Wenceslao Castellanos».",
+   "referencias": [
+    [
+     "A",
+     "vértice común con la ficha 129 (condominio Lima); junto a un bañado"
+    ],
+    [
+     "B",
+     "esquina S, frente a Celedonio Lima (fracción Müller)"
+    ],
+    [
+     "C",
+     "esquina E, contra Petrona Guzmán y María Rodríguez"
+    ],
+    [
+     "D",
+     "esquina N, con rancho y pozos"
+    ],
+    [
+     "E",
+     "esquina O, contra Enrique Martínez"
+    ],
+    [
+     "Estancia",
+     "casa de Manuel Lima con su cuadro de monte"
+    ],
+    [
+     "Arroyo de Morales",
+     "cruza el extremo O de NO a SE (sigue en la 129)"
+    ],
+    [
+     "Bañados",
+     "juncales en A y en el centro de B-C"
+    ],
+    [
+     "Mojones de palo",
+     "cotas sobre B-C y D-E"
+    ],
+    [
+     "Linderos",
+     "Enrique, Pablo y Silvana M. de Martínez; Petrona Guzmán; María Rodríguez; Mauricia R. de Serval; Celedonio Lima; Leopoldo, Isabel y Celedonio Lima"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: extremo O (arroyo de Morales, bañado, estancia)",
+   "img": "img/f/130/04.jpg",
+   "fuente": "Toma IMG_9973",
+   "orientacion": "como el general",
+   "interpretacion": "El arroyo de Morales y el bañado en A; la estancia y los linderos Enrique y Pablo Martínez, Leopoldo, Isabel y Celedonio Lima.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: centro de la lonja y rótulo de superficie",
+   "img": "img/f/130/05.jpg",
+   "fuente": "Toma IMG_9974",
+   "orientacion": "como el general",
+   "interpretacion": "Rótulo de superficie en cuadras y metros; bañado sobre B-C.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: extremo E (lagunita, pozos, rancho, cuadro en C)",
+   "img": "img/f/130/06.jpg",
+   "fuente": "Toma IMG_9975",
+   "orientacion": "como el general",
+   "interpretacion": "Extremo contra Petrona Guzmán y María Rodríguez; firma de Castellanos.",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia de la Dirección de Geodesia, Catastro y Tierras (La Plata, octubre de 19[4?]5)",
+   "img": "img/f/130/07.jpg",
+   "fuente": "Toma IMG_9976",
+   "orientacion": "como el original",
+   "interpretacion": "Rótulo: «Es copia del plano agregado al duplicado n.º 130 del partido de San Andrés de Giles, mensura practicada en Junio de 1883 por el Agrimensor: Wenceslao Castellanos. La Plata, Octubre 19[?]5». Sello «Geodesia, Catastro y Tierras · M. O. P. · Dirección»; firma del director Francisco Esteban[?]; «Copiado Sala de Dibujo». El tercer dígito del año queda tapado por la firma; el director es el mismo que firma la copia de la 131 en marzo de 1945, de modo que la fecha es probablemente octubre de 1945.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "El plano muestra una estancia en funcionamiento: casa con su cuadro de monte, rancho y pozos (¿jagüeles?) en el extremo D, un cuadro punteado en C y una lagunita. El arroyo de Morales corta el extremo O y forma bañados con juncos en A; otro bajo aparece en el medio del lado S. Leído junto con la 129 (que dibuja el mismo arroyo, una laguna en H y el camino a Chacabuco), se reconstruye un tramo continuo del arroyo de Morales de unos 3 km a través de las tierras Lima."
+  },
+  {
+   "titulo": "Ritual",
+   "texto": "Circular a los linderos (cuyo original se acompañaba) y acta firmada sobre el terreno; a ruego firman quienes no saben (Petrona Guzmán) o no pueden (Manuel Lima, ya mayor, por su hijo M. Lima Hurtado, igual que en la 129). Edictos en «La Nación» y «El Pueblo» de Mercedes. Mojones de palo encontrados a lo largo de los dos lados largos: el terreno estaba ya amojonado, quizá por las ventas a Guzmán y Martínez."
+  },
+  {
+   "titulo": "Técnica y metrología",
+   "texto": "Rumbos y variación (10° 8′) idénticos a la 129. El frente C-D / E-A es 833,8 m = 962,8 v, casi exactamente los 961 v heredados (452 + 509). El fondo, 3838 m ≈ 4432 v, menor que los 4500 v que quedaban tras vender 3000 + 1500: ~68 v de faltante o un mojón desplazado. Superficie expresada además en cuadras cuadradas (189 cuadras² + 5596 m²), un raro puente entre el sistema antiguo y el métrico. Cierre verificado en la ficha: 2,2 m, 319,0 ha. El D. I. «aprueba en la parte facultativa»: separa la aprobación técnica de la judicial."
+  },
+  {
+   "titulo": "Tenencia y familia",
+   "texto": "Manuel Lima suma las dos hijuelas (paterna y materna) en un solo frente de 961 v, de 9000 v de fondo, y vende las dos cabeceras: 3000 v a Domingo Guzmán y 1500 a Fermín Martínez. En 1883 sus vecinos son Martínez (Enrique, Pablo, Silvana M. de) y Petrona Guzmán: los compradores o sus herederos. Las fajas de los hijos de Mariano Lima siguen paralelas: Manuel al NE, la de Domingo (hoy de sus hijos Celedonio, Leopoldo e Isabel) al SO."
+  },
+  {
+   "titulo": "Crítica documental",
+   "texto": "(1) «novecientas sesenta y una vara de fondo por tres mil varas de fondo»: el primer «fondo» debe leerse «frente». (2) Las cotas de los mojones del lado D-E en el texto (850, 950) no coinciden con el plano (830 [?], 959 [?]) y en B-C el texto da 1574 donde el plano dice 1674: discrepancias de copia. (3) El lindero SE «Don Pedro Cara-[?] Pastor» del título de 1840 es de lectura dudosa. (4) Fecha de la toma de antecedentes ilegible («Junio [?]»); en la 129 es el 4 de junio."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "(1) 129 (Celedonio Lima): vértice A y lado A-B comunes (580,50 m, S 46° 4′ E), mismo día y trámite; ahí Manuel Lima es lindero NE. (2) 055 (Prat 1840): la suerte madre de 9000 × 9000 v, con los linderos que aquí se repiten. (3) 124 y 125 (lonjas de la suerte Lima; Petrona Lima de Martínez; «martillo ex Manuel Lima»): ¿los Martínez linderos son la familia de Petrona Lima de Martínez? (4) 127-128 (Casado, Enrique Martínez): mismo juez, D. I. y bloque. (5) José M. Echeverría (015) y Carrasco (010) como linderos de 1840."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Quién era la madre de Manuel Lima (la hijuela materna de 1854 se otorga en Mercedes)? ¿Domingo Guzmán y Petrona Guzmán son padre e hija o viuda? ¿Los Martínez (Enrique, Pablo, Silvana M.) descienden de Fermín Martínez, comprador de 1500 v? Georreferenciar el arroyo de Morales uniendo los planos de 129 y 130 y contrastarlo con la cartografía actual (posible afluente del sistema del Areco o del Carmen de Areco)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Manuel Lima",
+   "rol": "Propietario",
+   "texto": "Hijo de Mariano Lima; heredó 452 v por su padre (1852) y 509 v por su madre (1854). Vendió las cabeceras de su faja a Domingo Guzmán y Fermín Martínez. En 1883 firma por él su hijo M. Lima Hurtado, lo que sugiere edad avanzada o que no sabía firmar. Tío de Celedonio, Leopoldo e Isabel Lima.",
+   "fuentes": "esta mensura; ficha 129"
+  },
+  {
+   "nombre": "Wenceslao Castellanos",
+   "rol": "Agrimensor",
+   "texto": "Midió el mismo día las tierras de Manuel y de Celedonio Lima (129-130). Planos en color con letra gótica. Sin datos biográficos hallados.",
+   "fuentes": "fichas 129-130; búsqueda web sin resultados específicos"
+  },
+  {
+   "nombre": "Mariano Lima",
+   "rol": "Antecesor (1838)",
+   "texto": "Comprador al Superior Gobierno (8/1/1838) de 2¼ leguas² junto a la laguna de Moyano; Prat midió su campo en 1840 (055).",
+   "fuentes": "fichas 055, 124, 125, 129"
+  },
+  {
+   "nombre": "Raymundo Prat",
+   "rol": "Agrimensor (1840)",
+   "texto": "Agrimensor de la ficha 002 (Macome 1846, «Prat y Puig») y de la mensura de la suerte de Lima de 1840 (055).",
+   "fuentes": "fichas 002, 055"
+  },
+  {
+   "nombre": "Domingo Guzmán, Petrona Guzmán",
+   "rol": "Comprador / lindera se",
+   "texto": "Domingo Guzmán compró 961 × 3000 v a Manuel Lima; en 1883 la lindera SE es Petrona Guzmán, que firma a ruego.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Fermín Martínez; Enrique, Pablo y Silvana M. de Martínez",
+   "rol": "Comprador / linderos",
+   "texto": "Fermín Martínez compró 961 × 1500 v. Enrique Martínez es lindero NE y NO (también en 127-129); Pablo y Silvana M. de Martínez, NE.",
+   "fuentes": "esta mensura; fichas 127-129"
+  },
+  {
+   "nombre": "Celedonio F. Lima, Mauricia R. de Serval, María Rodríguez",
+   "rol": "Linderos so",
+   "texto": "Sobrino de Manuel (129); Mauricia Rodríguez de Serval y María Rodríguez, probablemente herederas de José M. Rodríguez, comprador de otra parte de la faja de Domingo Lima.",
+   "fuentes": "esta mensura; ficha 129"
+  },
+  {
+   "nombre": "M. Lima Hurtado",
+   "rol": "Hijo de manuel lima",
+   "texto": "Firma a ruego de su padre el acta (y en la 129 la circular).",
+   "fuentes": "fichas 129-130"
+  },
+  {
+   "nombre": "Linderos de 1840",
+   "rol": "Vecinos de mariano lima",
+   "texto": "Ramón Colmenero, José M. Echeverría (015), Juan G. Carrasco (cf. 010), Pedro Nolasco Silva, María del Carmen Martínez, Pedro Cara-[?] Pastor, José Leguizamón y Pascuala Bello de Leguizamón.",
+   "fuentes": "esta mensura; fichas 010, 015, 055"
+  },
+  {
+   "nombre": "Rafael Argüello",
+   "rol": "Escribano (mercedes, 1854)",
+   "texto": "Autorizó la hijuela materna de Manuel Lima en la Villa de Mercedes.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Capdevila, Gonnet, Coquet, Iparraguirre, Lagos",
+   "rol": "Juzgado y d. i.",
+   "texto": "Los mismos funcionarios de 127-129.",
+   "fuentes": "fichas 127-129"
+  },
+  {
+   "nombre": "Francisco Esteban[?]",
+   "rol": "Director de geodesia (copia)",
+   "texto": "Firma la copia del plano (La Plata, octubre de 19[4?]5); lectura dudosa.",
+   "fuentes": "esta mensura"
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/130/02.jpg",
+  "fuente": "Toma IMG_9968",
+  "lineas": [
+   "Giles 130.",
+   "Manuel Lima",
+   "W. Castellanos [rúbrica]"
+  ]
+ },
+ "titulo": "Manuel Lima",
+ "estado": "Transcripta (5 hojas, 119 renglones), 5 láminas"
+}
