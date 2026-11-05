@@ -1,0 +1,729 @@
+{
+ "carpeta": "135",
+ "carpeta_nombre": "Carpeta 135",
+ "archivo": "Ficha 135 - Eugenia R. y Juan O'Brien (1884).docx",
+ "resumen": {
+  "Propietario / solicitante": "Eugenia R. y Juan O'Brien (condominio)",
+  "N.º de duplicado": "135",
+  "Agrimensor": "Mariano Iparraguirre (Yparraguirre)",
+  "Año": "1884",
+  "Fecha de la diligencia": "Mensura 15-16/3/1884; D. I. 27/5/1884; aprob. 4/6/1884",
+  "Ubicación": "Campo O'Brien (ex 090), entre Scully, Tormey e I. O'Brien de Funes",
+  "Orden judicial": "Juez civil Valentín M. Curutchet, 29/2/1884",
+  "Vendedor / antecesor": "Testam. Juan O'Brien (1861); división Girondo 1879 (090)",
+  "Linderos citados": "C. S. de Maguire, Miguel Scully, Ignacia O. de Funes, E. Tormey, Ana O. de Valenzuela",
+  "Medidas": "Rectángulo 2600 × 3515 m; fracción Gibney hexágono 329,78 ha",
+  "Rumbos": "S 42° 46′ O; N 47° 14′ O; N 42° 46′ E; S 47° 14′ E; var. N 10° 25′ E",
+  "Referencia de archivo": "AHG-PBA, duplicado 135 de S. A. de Giles"
+ },
+ "metricas": {
+  "superficie_ha": "913,90 (Eugenia y Juan 837,77; Ana 76,13; de ellas Gibney 329,78)",
+  "hitos": "mojones existentes y nuevos (palo); estancias y puestos de los O’Brien y de Scully; población de O’Brien",
+  "aguas": "ninguna citada"
+ },
+ "sintesis": "En marzo de 1884 Mariano Iparraguirre remide la mitad S del campo O'Brien, ya dividido por Juan Girondo en 1879 (Ficha 090): un rectángulo de 2600 × 3515 m (913,9 ha) que poseen la viuda Eugenia R. de O'Brien y su hijo Juan, más la faja de Ana O'Brien de Valenzuela, que acaba de vender a su hermano la mitad de su parte. El objeto es entregar a Guillermo Gibney, irlandés que no sabe firmar, 195,44 cuadras (329,8 ha) en forma de hexágono; el comprador exige ver la mensura antes de escriturar. El campo lo cruza el camino de Santa Fe a Buenos Aires. Es la primera mensura del corpus firmada en La Plata.",
+ "caratula": {
+  "img": "img/f/135/01.jpg",
+  "fuente": "Toma IMG_0040",
+  "campos": [
+   [
+    "Número",
+    "N.º 135 (ambos ángulos)"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Repartición",
+    "Dirección de Geodesia y Catastro de la Provincia de Buenos Aires"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Eugenia R. y Juan O'Brien"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "M. Iparraguirre"
+   ],
+   [
+    "Mes / Año",
+    "— / 1884"
+   ],
+   [
+    "Juzgado / Secretaría / Duplicados de referencia",
+    "en blanco"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Extracto de títulos: hijuelas de Eugenia R. de O'Brien y de Juan O'Brien (hijo) en la testamentaría de Juan O'Brien (17/7/1861); venta de Ana O'Brien de Valenzuela (28/1/1884)",
+   "img": "img/f/135/07.jpg",
+   "fuente": "Toma IMG_0042",
+   "nota": "Letra cursiva de Iparraguirre, regular; sellos «Foja» 1 a 7 y etiqueta «7.347 [?]» en el canto. Las tomas 0043-0048 son de doble página.",
+   "lineas": [
+    "[al margen superior, etiqueta: 7.347 [?]]",
+    "Estracto de los títulos de D^{a}. Eugenia R. y",
+    "D. Juan O'Brien, del terreno ubicado en el parti-",
+    "do de San Andres de Giles. —",
+    "[sello: Foja 1]",
+    "— —",
+    "1861 – De la hijuela espedida por el escribano",
+    "D. Laureano Silva con fecha 17 de Julio de 1861",
+    "se le adjudican á D^{a}. Eugenia R. de O'Brien en la",
+    "testamentaria de su esposo D. Juan O'Brien ciento",
+    "cincuenta mil (150000 $ m/c) pesos moneda corriente de los",
+    "300000 $ en que está tasado el terreno compuesto",
+    "de tres mil (3000) varas de frente por cinco mil cua-",
+    "trocientas cincuenta (5450) varas de fondo. – f. 1-2. –",
+    "En la hijuela espedida por el mismo",
+    "escribano y en la misma fecha se le adjudican",
+    "á D. Juan O'Brien 37500 $ de los 300000 en que es-",
+    "tá tasado el mismo terreno compuesto de 3000",
+    "varas de frente por 5450 varas de fondo. — f. 3. —",
+    "Habiendosele concedido con fecha 13 de Abril de 1882",
+    "la venia supletoria por ausencia del marido á D^{a}.",
+    "Ana O'Brien de Valenzuela, por el Señor Juez de",
+    "1^{a}. Instancia en lo Civil D^{r}. D. Aditardo [?] Heredia,",
+    "escribano Ramon Wright, compareció ante el es-",
+    "cribano D. Fernando del Rio con fecha 28 de Enero",
+    "de 1884 en San Andres de Giles D^{a}. Ana O'Brien",
+    "de Valenzuela y dijo que vendia á D. Juan O'Brien",
+    "en parte del terreno que le correspondió en la",
+    "testamentaria de su finado padre D. Juan O'Brien",
+    "compuesto de quinientos ochenta y cinco metros cua-",
+    "trocientos diez y seis milesimos (585,^{m}416) = 676 varas por"
+   ],
+   "interpretacion": "Extracto de títulos. 17/7/1861: en la testamentaría de Juan O'Brien (padre), hijuelas expedidas por el escribano Laureano Silva: a su viuda EUGENIA R. DE O'BRIEN se le adjudican 150 000 $ m/c y a su hijo JUAN O'BRIEN 37 500 $, sobre los 300 000 $ en que se tasó el campo de 3000 v de frente × 5450 v de fondo: es decir la mitad y un octavo del total. 13/4/1882: el juez civil Aditardo [?] Heredia (escribano Ramón Wright) concede a ANA O'BRIEN DE VALENZUELA la venia supletoria «por ausencia del marido». 28/1/1884, en San Andrés de Giles, ante Fernando del Río: Ana vende a su hermano Juan parte de lo que le tocó en la testamentaría de su padre, 585,416 m = 676 v por…"
+  },
+  {
+   "titulo": "Folio 1 v. · Fracción vendida por Ana O'Brien (676 × 1500 v = 76,05 ha); poder a Carlos Teodoro Glade (22/2/1884); pedido de mensura ante el juez Valentín M. Curutchet y nombramiento de Iparraguirre (29/2/1884); comienzo de la circular",
+   "img": "img/f/135/08.jpg",
+   "fuente": "Toma IMG_0043 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "mil doscientos noventa y nueve (1299) metros =",
+    "1500 varas = con una superficie de 760455,^{m. c.}384",
+    "y linda por el frente al Nor Oeste con los here-",
+    "deros de Scully, por el Sud Este con D. Gerónimo Thor-",
+    "my, por el Nor Este Eugenia R. de O'Brien y",
+    "por el Sud Oeste con el compareciente Juan",
+    "O'Brien – fojas 4 y 5. –",
+    "1884 – En la Exaltacion de la Cruz á 22 de",
+    "Febrero, comparecieron ante el escribano D. Juan Pio [?]",
+    "Garcia, D^{a}. Eugenia R. de O'Brien y D. Juan O'Brien",
+    "y dijeron que daban poder á D. Cárlos Teodoro Gla-",
+    "de para que á su nombre solicite la mensura",
+    "del terreno cuyo título acompaña. — foj. 6. —",
+    "En 29 de Febrero se presenta D. Cárlos Teodoro",
+    "Glade ante el Señor Juez de 1^{a}. Instancia D^{r}. D.",
+    "Valentin M. Curutchet escribano Ramon E.",
+    "Wright, proponiendo al agrimensor D. Mariano",
+    "Iparraguirre para que practique la mensura que",
+    "solicita. – fojas 7. –",
+    "En la misma fecha se le dá por nombrado",
+    "al agrimensor propuesto. – fojas 7 v. –",
+    "En la misma fecha se me notificó",
+    "Y en Marzo 1 saqué antecedentes del Departa-",
+    "mento de Ingenieros. — fojas 8. —",
+    "— —",
+    "Est^{a}. de D. Juan O'Brien. —",
+    "Partido de San Andres de Giles Marzo 12/84",
+    "Circular á los Señores Linderos del terreno",
+    "que se mide. —"
+   ],
+   "interpretacion": "… 1299 m = 1500 v, 76,0455 ha, entre los herederos de Scully (NO), Gerónimo Tormy (SE), Eugenia R. de O'Brien (NE) y el propio Juan (SO): la MITAD de la faja de Ana. 22/2/1884, en la Exaltación de la Cruz, ante Juan Pío [?] García: Eugenia y Juan dan poder a Carlos Teodoro Glade para pedir la mensura. 29/2/1884: Glade la pide ante el juez civil Valentín M. Curutchet (escribano Ramón E. Wright), que nombra a Mariano Iparraguirre; el 1/3 éste toma antecedentes en el Departamento de Ingenieros. Empieza la circular, fechada en la «Estancia de D. Juan O'Brien» el 12/3/1884."
+  },
+  {
+   "titulo": "Folio 2 · Circular a los linderos: arranque el 15/3/1884 en el esquinero E, S de Ignacia O'Brien de Funes; firmas de los linderos",
+   "img": "img/f/135/09.jpg",
+   "fuente": "Toma IMG_0043 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 2]",
+    "El agrimensor que suscribe, autorizado",
+    "judicialmente por despacho del Señor Juez de 1^{a}.",
+    "Instancia en lo Civil D^{r}. D. Valentin M. Curut-",
+    "chet con fecha 29 de Febrero de 1884 para medir",
+    "el terreno de estancia perteneciente á D^{a}. Euge-",
+    "nia R. de O'Brien y D. Juan O'Brien ubicado",
+    "en el partido de San Andres de Giles. —",
+    "Previene á V^{d}. como lindero que el",
+    "dia 15 de Marzo del corriente año, vá á dar",
+    "principio á la operacion, tomando por punto",
+    "de partida el mojon esquinero Este del terreno",
+    "que se mide y Sud de D^{a}. Ignacia O. de Funes,",
+    "á fin de que pueda V^{d}. como lindero concurrir",
+    "con sus títulos á ver si se sobrepasan ó nó los",
+    "limites de su propiedad. —",
+    "Y siendo necesario hacer constar ha-",
+    "berse practicado esta citacion en tiempo opor-",
+    "tuno, se servirá V^{d}. darse por notificado firman-",
+    "do la presente, en caso que no pudiera hacerlo",
+    "se espresará por medio de testigos. —",
+    "f^{do}. Mariano Iparraguirre",
+    "f^{do}. Ana O'Brien = A ruego de Guillermo",
+    "Gibney por no saber firmar = f^{do}. Juan Mac-",
+    "Mahon = f^{do}. Ignacia O'Brien de Funes =",
+    "f^{do}. Patricio Maguire = f^{do}. Miguel Scully =",
+    "f^{do}. Eduardo Tormey =",
+    "— —",
+    "Est^{a}. de D. Juan O'Brien",
+    "Partido de San Andres de Giles —"
+   ],
+   "interpretacion": "Circular: la operación empezará el 15/3/1884 en el esquinero E del campo, que es esquinero S de Ignacia O'Brien de Funes. Firman Iparraguirre y los linderos: Ana O'Brien, Guillermo Gibney (a ruego, por no saber firmar, firma Juan Mac Mahon), Ignacia O'Brien de Funes, Patricio Maguire, Miguel Scully y Eduardo Tormey."
+  },
+  {
+   "titulo": "Folio 2 v. · Acta de conformidad (16/3/1884); comienzo de la diligencia de mensura (condominio de Eugenia R. y Juan O'Brien)",
+   "img": "img/f/135/10.jpg",
+   "fuente": "Toma IMG_0044 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "— Acta. —",
+    "El agrimensor que suscribe, autorizado",
+    "[j]udicialmente por despacho del Señor Juez de",
+    "[1^{a}.] Instancia en lo Civil D^{r}. D. Valentin M. Curut-",
+    "[ch]et con fecha 29 de Febrero de 1884 para medir el",
+    "[ter]reno de estancia perteneciente á D^{a}. Eugenia",
+    "[R.] de O'Brien y D. Juan O'Brien ubicado en",
+    "[el] partido de San Andres de Giles. —",
+    "Despues de concluida la operacion",
+    "[en] el dia de la fecha procedí á levantar",
+    "[la] presente que firman conmigo conformes",
+    "[los] linderos que asistieron, á los 16 dias del",
+    "[me]s de Marzo de 1884",
+    "f^{do}. Mariano Iparraguirre",
+    "[f^{do}.] Ana O'Brien = A ruego de Guillermo Gib-",
+    "[ney] por no saber firmar = Juan Mac Mahon =",
+    "[f^{do}. Ig]nacia O'Brien de Funes = f^{do}. Patricio Maguire",
+    "[f^{do}. M]iguel Scully = f^{do}. Eduardo Tormey =",
+    "— —",
+    "Diligencia de Mensura",
+    "El agrimensor que firma, comi-",
+    "[siona]do por el Señor Juez de 1^{a}. Instan-",
+    "[cia] en lo Civil D^{r}. D. Valentin M.",
+    "[Curu]tchet con fecha 29 de Febrero de 1884",
+    "[para] medir un terreno que poseen",
+    "[en co]ndominio D^{a}. Eugenia R. de O'Brien",
+    "[y D. J]uan O'Brien, ubicado en el partido"
+   ],
+   "interpretacion": "Acta del 16/3/1884: concluida la operación, firman conformes los mismos linderos (Gibney otra vez a ruego, por Juan Mac Mahon). Comienza la diligencia: el terreno lo poseen EN CONDOMINIO Eugenia R. de O'Brien y Juan O'Brien."
+  },
+  {
+   "titulo": "Folio 3 · Arranque en el esquinero E (C); antecedentes: el rectángulo A B C H dividido en 1879 entre Eugenia R., Juan y Ana O'Brien; objeto: entregar a Guillermo Gibney 195,44 cuadras en el hexágono G F L K A H",
+   "img": "img/f/135/11.jpg",
+   "fuente": "Toma IMG_0044 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 3]",
+    "San Andres de Giles. —",
+    "Despues de publicados los edictos y aviso",
+    "á los linderos segun consta de los Diarios, Circu-",
+    "lar y Acta que originales acompaño. Dí prin-",
+    "cipio á la operacion el dia 15 de Marzo del",
+    "corriente año, tomando por punto de partida",
+    "el mojon esquinero Este letra C del plano",
+    "adjunto. —",
+    "Antes de dar cuenta de la operacion de",
+    "que se trata haré presente que el rectángulo A",
+    "B C H ha pertenecido y pertenece á D^{a}. Eugenia",
+    "R. de, D. Juan y D^{a}. Ana O'Brien, cuya mensu-",
+    "ra y division la practicó el agrimensor D. Juan",
+    "Girondo en 1879. — Ahora D^{a}. Ana O'Brien",
+    "de Valenzuela vendió con fecha 28 de Enero de",
+    "1884 á su hermano D. Juan O'Brien la",
+    "mitad de su terreno segun consta del título",
+    "adjunto, conviniendo en que la parte que á",
+    "ella le queda es la que aparece en este plano",
+    "bajo las letras G F E D. Ahora pues el objeto",
+    "de la mensura que hace D^{a}. Eugenia R. de y",
+    "D. Juan O'Brien que se encuentran en condo-",
+    "minio es únicamente para entregar á D.",
+    "Guillermo Gibney ciento noventa y cinco cua-",
+    "dras cuadradas mas cuarenta y cuatro cen-",
+    "tesimos de otra (195,^{cs}44) de superficie que le",
+    "han vendido como tambien en que la forma",
+    "y ubicacion del campo que le corresponde",
+    "sea la del exágono G F L K A H el cual contiene"
+   ],
+   "interpretacion": "Después de edictos en los diarios, circular y acta, arranca el 15/3/1884 en el mojón esquinero E, letra C. Iparraguirre explica el caso: el rectángulo A B C H perteneció y pertenece a Eugenia R., Juan y Ana O'Brien, y lo midió y dividió Juan Girondo en 1879 (Ficha 090); Ana vendió a Juan la mitad de su parte el 28/1/1884 y se queda con G F E D. El objeto real de la mensura es ENTREGAR A GUILLERMO GIBNEY 195,44 cuadras cuadradas que Eugenia y Juan le han vendido, en la forma del hexágono G F L K A H."
+  },
+  {
+   "titulo": "Folio 3 v. · Se mide el todo; C-H contra Eduardo Tormey (CAMINO DE SANTA FE A BUENOS AIRES; esquineros D y G de Ana O'Brien de Valenzuela); H-A contra Catalina Scully de Maguire",
+   "img": "img/f/135/12.jpg",
+   "fuente": "Toma IMG_0045 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "la superficie dicha.",
+    "Con este motivo y el de no ser una",
+    "gran cosa dar la vuelta entera del todo",
+    "[d]el terreno, aunque mas no sea que para da-",
+    "[tos] que sirvan al Departamento de Ingenieros",
+    "y al mismo tiempo que esté de acuerdo con",
+    "los títulos adjuntos, como antes digo. Dí prin-",
+    "cipio en el mojon C esquinero Este y de",
+    "él por el Sud cuarenta y dos grados cuarenta y",
+    "seis minutos Oeste (S 42° 46′ O) por el límite de",
+    "D. Eduardo Tormey medí tres mil quinientos",
+    "quinze metros (3515) por la linea de mojones",
+    "existentes hasta el esquinero Sud letra H",
+    "encontrando mojones costaneros á ciento vein-",
+    "tiocho metros siete decimetros (128,7), á trescientos",
+    "noventa y un (391) metros, á mil trescientos",
+    "setenta y dos (1372) metros crucé el camino",
+    "de Santa Fé á Buenos Aires, á mil trescientos",
+    "ochenta y nueve (1389) mojon, á dos mil tres-",
+    "cientos cuarenta y tres (2343) metros encontré",
+    "el mojon esquinero Este de D^{a}. Ana O. de Valen-",
+    "zuela letra D. – á dos mil novecientos vein-",
+    "tiocho metros seis decimetros (2928,6) dí con el",
+    "mojon G Sud de D^{a}. Ana O'Brien de Valenzuela.",
+    "De H por el Norte cuarenta y siete",
+    "grados catorze minutos Oeste (N 47° 14′ O), medí",
+    "dos mil seiscientos (2600) metros hasta el es-",
+    "quinero Oeste letra A dividiendo con D^{a}. Ca-",
+    "talina Scully de Maguire y encontré mojones"
+   ],
+   "interpretacion": "Aunque basta con separar lo de Gibney, mide todo el perímetro para dejar datos al D. I. y verificar los títulos. C-H S 42° 46′ O 3515 m contra Eduardo Tormey por la línea de mojones existentes: costaneros a 128,7 y 391 m; a 1372 m cruza el CAMINO DE SANTA FE A BUENOS AIRES; mojón a 1389 m; a 2343 m el esquinero E de Ana O. de Valenzuela (D) y a 2928,6 m el mojón G, S de Ana. H-A N 47° 14′ O 2600 m contra Catalina Scully de Maguire…"
+  },
+  {
+   "titulo": "Folio 4 · A-B contra Catalina S. de Maguire y Miguel Scully (población de O'Brien, camino de Santa Fe, divisorio Maguire/Scully); B-C contra Ignacia O'Brien de Funes; cierre del rectángulo A B C H",
+   "img": "img/f/135/13.jpg",
+   "fuente": "Toma IMG_0045 · página derecha",
+   "nota": "",
+   "lineas": [
+    "costaneros á mil trescientos un metro tres",
+    "decimetros (1301,3) y mil seiscientos ochenta y seis",
+    "metros cinco decimetros (1686,5). —",
+    "[sello: Foja 4]",
+    "De A por el Norte cuarenta y dos grados cua-",
+    "renta y seis minutos Este (N 42° 46′ E) medí dividien-",
+    "do con D^{a}. Catalina S. de Maguire y D. Miguel",
+    "Scully por la linea de mojones existentes tres",
+    "mil quinientos quinze (3515) metros hasta",
+    "el mojon esquinero Norte letra B en esta li-",
+    "nea á trescientos treinta (330) metros setenta",
+    "(70) á la derecha la poblacion de O'Brien á qui-",
+    "nientos ochenta y seis metros cuatro decimetros",
+    "(586,^{m}4) un mojon costanero, á ochocientos",
+    "(800) metros el camino de Santa Fé á Buenos",
+    "Aires, á mil ciento setenta y dos (1172) metros",
+    "mojon, á mil novecientos noventa y dos",
+    "metros nueve decimetros (1992,9) el mojon di-",
+    "visorio entre Maguire y Miguel Scully, á",
+    "dos mil ciento sesenta y cuatro metros nueve",
+    "decimetros (2164,9) otro mojon costanero. De B",
+    "por el Sud cuarenta y siete grados catorze mi-",
+    "nutos Este (S 47° 14′ E) límite de D^{a}. Ignacia",
+    "O'Brien de Funes medí dos mil seiscientos",
+    "(2600) metros hasta el mojon C punto de",
+    "partida, en esta linea á mil trescientos",
+    "(1300) metros se encuentra un mojon costanero.",
+    "Con lo que queda medido todo",
+    "el perímetro del rectángulo citado A B C H",
+    "cuya area total es igual á nueve millones"
+   ],
+   "interpretacion": "… con costaneros a 1301,3 y 1686,5 m. A-B N 42° 46′ E 3515 m contra Catalina S. de Maguire y Miguel Scully: a 330 m, 70 m a la derecha, la POBLACIÓN DE O'BRIEN; costanero a 586,4 m; a 800 m el camino de Santa Fe a Buenos Aires; mojón a 1172 m; a 1992,9 m el divisorio Maguire/Miguel Scully; costanero a 2164,9 m. B-C S 47° 14′ E 2600 m contra Ignacia O'Brien de Funes (costanero a 1300 m). Queda medido el rectángulo A B C H."
+  },
+  {
+   "titulo": "Folio 4 v. · Área del rectángulo: 913,9 ha (837,77 ha de Eugenia y Juan O'Brien, en verde; 76,13 ha de Ana O'Brien de Valenzuela); concordancia con la división de Girondo (1879); linderos; comienzo de la fracción de Gibney (G-H)",
+   "img": "img/f/135/14.jpg",
+   "fuente": "Toma IMG_0046 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "ciento treinta y nueve mil (9139000) metros",
+    "cuadrados; – ocho millones trescientos setenta y",
+    "siete mil setecientos veinte (8377720) metros cuadra-",
+    "dos pertenecientes á D^{a}. Eugenia R. de O'Brien y",
+    "D. Juan O'Brien con viso verde y 761280 m^{s}. c^{s}.",
+    "á D^{a}. Ana O'Brien de Valenzuela. —",
+    "La citada superficie concuerda",
+    "tanto con la mensura del agrimensor Girondo",
+    "como con los títulos de D^{a}. Ana, D^{a}. Eugenia y",
+    "D. Juan O'Brien; digo esto que concuerda por-",
+    "que entre la superficie de los títulos y",
+    "la medida solo hay diez mil novecientos",
+    "setenta y cuatro (10974) metros cuadrados de mas",
+    "diferencia que no alcanza al doce centésimos",
+    "por ciento (0,12 %)",
+    "Dicho rectángulo linda por el Nor",
+    "Oeste con D^{a}. Catalina S. de Maguire y D. Miguel",
+    "Scully, por el Nor Este con D^{a}. Ignacia O'Brien",
+    "de Funes, por el Sud Este con D. Eduardo Tormey",
+    "y por el Sud Oeste con D^{a}. Catalina S. de Maguire. —",
+    "Ahora bien despues de los datos",
+    "dados voy á medir el terreno que D^{a}. Euge-",
+    "nia y D. Juan O'Brien, venden á D. Guillermo",
+    "Gibney para el efecto me situé en el",
+    "mojon Sud de D^{a}. Ana O'Brien de Valenzuela",
+    "letra G y de él medí hasta el esquinero",
+    "Sud del todo del terreno letra H y de la parte",
+    "que se mide quinientos ochenta y seis metros",
+    "cuatro decimetros (586,4) por el rumbo Sud"
+   ],
+   "interpretacion": "Área: 9 139 000 m² (913,9 ha): 8 377 720 m² de Eugenia y Juan (con «viso verde» en el plano) y 761 280 m² de Ana O'Brien de Valenzuela. Concuerda con la mensura de Girondo y con los títulos: sólo 10 974 m² de más (0,12 %). Linderos: NO Catalina S. de Maguire y Miguel Scully; NE Ignacia O'Brien de Funes; SE Eduardo Tormey; SO Catalina S. de Maguire. Fracción de GIBNEY: desde G (mojón S de Ana) hasta H, 586,4 m…"
+  },
+  {
+   "titulo": "Folio 5 · Fracción de Gibney: G-H contra Tormey, H-A contra Maguire, A-K, K-L dividiendo con Eugenia R. de O'Brien, L-F",
+   "img": "img/f/135/15.jpg",
+   "fuente": "Toma IMG_0046 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 5]",
+    "cuarenta y dos grados cuarenta y seis minutos",
+    "Oeste (S 42° 46′ O). por el límite de D. Eduardo",
+    "Tormey, quedando un costanero de los antes descrip-",
+    "tos á doscientos cincuenta y cuatro metros dos de-",
+    "cimetros (254,2). De H por el Norte cuarenta y sie-",
+    "te grados catorze minutos Oeste (N 47° 14′ O) lin-",
+    "dando con D^{a}. Catalina S. de Maguire medí dos",
+    "mil seiscientos (2600) metros hasta el mojon",
+    "A esquinero Oeste quedando en esta linea",
+    "dos mojones costaneros uno á mil trescien-",
+    "tos un metro tres decimetros (1301,3) y á mil",
+    "seiscientos ochenta y seis metros cinco deci-",
+    "metros (1686,5) el otro mojon. —",
+    "De A por el Norte cuarenta y dos gra-",
+    "dos cuarenta y seis minutos Este (N 42° 46′ E) por",
+    "el límite de D^{a}. Catalina S. de Maguire medí",
+    "mil novecientos cincuenta (1950) metros has-",
+    "ta K donde coloqué el mojon esquinero Norte",
+    "de la parte que se mide. De K por el Sud",
+    "cuarenta y siete grados catorze minutos Este",
+    "(S 47° 14′ E) dividiendo con D^{a}. Eugenia R. de",
+    "O'Brien medí mil trescientos (1300) metros has-",
+    "ta L [?] donde coloqué un mojon en el ángulo",
+    "saliente del terreno que se mide, y puse un",
+    "costanero á quinientos cincuenta (550) metros.",
+    "De L por el Sud cuarenta y dos grados cuarenta",
+    "y seis minutos Oeste (S 42° 46′ O) medí mil tres-",
+    "cientos sesenta y cuatro (1364) metros hasta",
+    "F punto de interseccion con el costado Sud"
+   ],
+   "interpretacion": "… S 42° 46′ O contra Tormey (costanero a 254,2 m). H-A N 47° 14′ O 2600 m contra Maguire. A-K N 42° 46′ E 1950 m contra Maguire: mojón esquinero N de la fracción (K). K-L S 47° 14′ E 1300 m dividiendo con Eugenia R. de O'Brien: mojón en el ángulo saliente (L) y costanero a 550 m. L-F S 42° 46′ O 1364 m hasta F, sobre el costado…"
+  },
+  {
+   "titulo": "Folio 5 v. · L-F (cruce del camino de Santa Fe), F-G contra Ana O'Brien de Valenzuela; hexágono G H A K L F = 329,7840 ha = 195,44 cuadras",
+   "img": "img/f/135/16.jpg",
+   "fuente": "Toma IMG_0047 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "Oeste del terreno de D^{a}. Ana O'Brien de Valenzuela",
+    "lindando con D^{a}. Eugenia R. de O'Brien y Ana",
+    "O'Brien, á cuatrocientos ochenta y nueve (489) metros",
+    "crucé el camino citado, á setecientos setenta",
+    "y ocho metros cuatro decimetros (778,4) en L colo-",
+    "qué un mojon en la interseccion del costa-",
+    "do Nor Este de D^{a}. Ana O'Brien y seguí midien-",
+    "do por el límite de esta hasta el citado pun-",
+    "to F donde coloqué un mojon. —",
+    "De F por el Sud cuarenta y siete grados",
+    "catorze minutos Este (S 47° 14′ E) dividiendo con",
+    "la misma Ana O. de Valenzuela medí mil",
+    "trescientos (1300) metros hasta el mojon G pun-",
+    "to de partida, con lo que concluí esta ope-",
+    "racion dejando al mismo tiempo sepa-",
+    "rada la parte que se reserva D^{a}. Ana O'-",
+    "Brien bajo los mojones G F E D.",
+    "El terreno vendido por D^{a}. Eugenia",
+    "R. de O'Brien y D. Juan O'Brien á D. Guiller-",
+    "mo Gibney es el comprendido por el exágo-",
+    "no G H A K L F cuya superficie es igual",
+    "á tres millones doscientos noventa y siete",
+    "mil ochocientos cuarenta metros cuadrados",
+    "(3,297840^{ms. cs.}) igual á trescientas veintinue-",
+    "ve hectareas setenta y ocho areas cuarenta",
+    "centiareas (329^{h}. 78^{a}. 40^{ca}.) = 195,44^{cs. cs.}",
+    "Linda como sigue: por el",
+    "Nor Este con D^{a}. Eugenia R. de O'Brien",
+    "por el Sud Este con D. Eduardo Tormey, D^{a}. Eugenia"
+   ],
+   "interpretacion": "… NO de Ana O'Brien de Valenzuela, lindando con Eugenia y Ana: a 489 m cruza el camino de Santa Fe; a 778,4 m pone un mojón en la intersección con el costado NE de Ana y sigue por su límite hasta F. F-G S 47° 14′ E 1300 m contra Ana hasta G: cierre, y queda separada la parte de Ana (G F E D). Gibney: hexágono G H A K L F = 3 297 840 m² = 329,7840 ha = 195,44 cuadras cuadradas (verificación: 2600 × 586,4 + 1300 × 1364 = 3 297 840 m² exactos)."
+  },
+  {
+   "titulo": "Folio 6 · Linderos de la fracción Gibney; el comprador quiso ver la operación antes de escriturar; variación N 10° 25′ E; abalizamiento de los mojones C y H",
+   "img": "img/f/135/17.jpg",
+   "fuente": "Toma IMG_0047 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 6]",
+    "R. de O'Brien; por el Sud Oeste y Nor Oeste",
+    "D^{a}. Catalina Scully de Maguire y por el",
+    "Sud Este con D^{a}. Ana O'Brien de Valenzuela. —",
+    "Esta operacion ha sido hecha",
+    "de este modo, porque el comprador no ha",
+    "querido estender el título de antemano",
+    "hasta tanto no le hicieran la presente",
+    "operacion á ver si le convenia; y habiendo",
+    "quedado satisfecho le he hecho firmar la",
+    "circular y Acta en prueba de su conformi-",
+    "dad. —",
+    "Todos los linderos han firmado la",
+    "Circular y Acta conformes",
+    "Los rumbos son verdaderos corregi-",
+    "dos de una variacion del Norte diez gra-",
+    "dos veinticinco minutos Este (N 10° 25′ E). —",
+    "Avalizamiento de los mojones",
+    "á la derecha de las lineas. —",
+    "Mojon C linea de base C H.",
+    "Est^{a}. de Eugenia R. de O'Brien ———— 14° 27′ –",
+    "Puesto de O'Brien ———— 35° 39′ –",
+    "Puesto Rocha de Scully ———— 61° 2′ –",
+    "Mojon H linea de base H A",
+    "Est^{a}. de O'Brien (Juan) ———— 7° 22′ –",
+    "Puesto de O'Brien ———— 11° 34′ –",
+    "Est^{a}. de Eugenia O'Brien ———— 81° 36′ –",
+    "Est^{a}. de Ana O. de Valenzuela ———— 86° 32′ –"
+   ],
+   "interpretacion": "Linderos de Gibney: NE Eugenia R. de O'Brien; SE Tormey, Eugenia y Ana O'Brien de Valenzuela; SO y NO Catalina Scully de Maguire. Nota de método: se hizo así porque el COMPRADOR no quiso escriturar antes de ver la operación «a ver si le convenía»; satisfecho, firmó circular y acta como prueba de conformidad. Variación N 10° 25′ E (la misma que la 133, de septiembre de 1883). Abalizamiento: desde C, estancia de Eugenia R. de O'Brien, puesto de O'Brien y PUESTO ROCHA DE SCULLY; desde H, estancia de Juan O'Brien, puesto de O'Brien, estancias de Eugenia y de Ana O. de Valenzuela."
+  },
+  {
+   "titulo": "Folio 6 v. · Fin del abalizamiento (mojones A, L, K); firma de Iparraguirre (La Plata, mayo de 1884); dictamen del Departamento de Ingenieros (27/5/1884)",
+   "img": "img/f/135/18.jpg",
+   "fuente": "Toma IMG_0048 · página izquierda",
+   "nota": "",
+   "lineas": [
+    "Mojon A linea de base A H",
+    "Puesto desocupado de Scully ———— 42° 41",
+    "Puesto Bordenave ———— 76° 20",
+    "Estancia de O'Brien Juan ———— 279° 3′.",
+    "Mojon L linea de base L F",
+    "Estancia de Juan O'Brien ———— 38° 6′ —",
+    "Est^{a}. de Ignacia O. de Funes ———— 209° 44 —",
+    "Est^{a}. de Eugenia R. de O'Brien ———— 257° 56 —",
+    "Mojon K linea de base K A",
+    "Puesto de Rocha ———— 90° 11 —",
+    "Puesto de O'Brien ———— 282° 12′ —",
+    "Puesto de O'Brien ———— 314° 3′ —",
+    "La Plata Mayo de 1884. —",
+    "Mariano Iparraguirre",
+    "Señor Juez de 1^{a}. Instancia",
+    "La presente mensura practicada",
+    "por el agrimensor Don Mariano Ipa-",
+    "rraguirre del terreno perteneciente á",
+    "Doña Eugenia R. de O'Brien Don Juan",
+    "O'Brien y Don Guillermo Gibney situado",
+    "en el partido de San Andres de Giles está",
+    "bien ejecutada y el Departamento de",
+    "Ingenieros la aprueba en la parte",
+    "facultativa.",
+    "Mayo 27/84",
+    "P. Salvadores          [firma ilegible: ¿Otheguy?]",
+    "Lagos [?]"
+   ],
+   "interpretacion": "Desde A: puesto desocupado de Scully, PUESTO BORDENAVE y estancia de Juan O'Brien; desde L: estancias de Juan O'Brien, de Ignacia O. de Funes y de Eugenia R. de O'Brien; desde K: puesto de Rocha y dos puestos de O'Brien. Firma: La Plata, mayo de 1884, Mariano Iparraguirre (la primera mensura del corpus firmada en LA PLATA, nueva capital desde 1882). Dictamen del Departamento de Ingenieros del 27/5/1884 (P. Salvadores, otro, Lagos [?]): bien ejecutada, se aprueba «en la parte facultativa»."
+  },
+  {
+   "titulo": "Folio 7 · Oficio del juez Valentín M. Curutchet: aprobación de la mensura (4/6/1884; La Plata, 30/6/1884); entrada al D. I. (2/7/1884) y agregación (3/7/1884)",
+   "img": "img/f/135/19.jpg",
+   "fuente": "Toma IMG_0048 · página derecha",
+   "nota": "",
+   "lineas": [
+    "[sellos: estampilla de 1 centavo; sello fiscal: Dirección General de Rentas de la Provincia de Buenos Aires · 5 · 1884 · cinco pesos · N.^{o} 8252; etiqueta: 7.347 [?]]",
+    "[a mano, arriba: 1 m. [?] … Curutchet [?]]",
+    "La Plata Junio 30 de [1884]",
+    "[sello: Foja 7]",
+    "Al Señor Presiden[te]",
+    "del Departamento de Ingenieros.",
+    "Comunico á V^{d}. que c[on]",
+    "fecha cuatro del corriente mes y año, ha sido a[pro]-",
+    "bada la mensura practicada por el Agrimen-",
+    "sor D^{n}. Mariano Iparraguirre de un terre[no]",
+    "que poseen en condominio D^{a}. Eugenia R. [de]",
+    "O'Brien y D^{n}. Juan O'Brien, ubicado en el",
+    "partido de San Andres de Giles.",
+    "Dios guarde á V^{d}.",
+    "Valentin M. Curutchet",
+    "ante mí",
+    "Ricardo [?] M. O[...] [?]",
+    "[sello oval: Juzgado Civil · Secretario Ramon E. Wright]",
+    "[sello oval: Departamento de Ingenieros · Entradas · JUL 2 1884]",
+    "Julio 3/84.",
+    "Al duplicado correspondiente.",
+    "[rúbrica: ¿Lehuguy / Etcheguy? [?]]"
+   ],
+   "interpretacion": "Oficio del juez Valentín M. Curutchet al presidente del Departamento de Ingenieros (La Plata, 30/6/1884; sello fiscal de 5 pesos de 1884 n.º 8252): el 4 de junio se aprobó la mensura de Iparraguirre del terreno en condominio de Eugenia R. de O'Brien y Juan O'Brien. Sello del Juzgado Civil, secretario Ramón E. Wright. Entrada al D. I. 2/7/1884; el 3/7 «Al duplicado correspondiente»."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano original de Iparraguirre (La Plata, mayo de 1884)",
+   "img": "img/f/135/03.jpg",
+   "fuente": "Toma IMG_0049",
+   "orientacion": "apaisado; flecha «Var. N 10° 25′ E» arriba a la derecha (desde B); Tormey abajo",
+   "interpretacion": "Plano a tinta en marco de doble filete con ángulos redondeados (el mismo modelo que la 133). El rectángulo A K B / H G D C con el gran rótulo «EUGENIA R. y JUAN O'BRIEN · Área total = 8.377.720 m²»; en diagonal, «GUILLERMO GIBNEY · Sup. = 3.297.840 m²» sobre el hexágono A K L F G H; la faja «Ana O'Brien de Valenzuela · Sup. = 761.280 m²» entre F E y G D. El camino de Santa Fe a Buenos Aires cruza en diagonal punteada de NO a SE. Se dibujan la población de O'Brien (cuadro con monte junto a A), la estancia «Est.ª» cerca del camino sobre el lado C-H, y puestos «P.to». Cotas en todos los lados (A N 42° 46′ E; K 1950; B 3515; S 47° 14′ E 2600; S 42° 46′ O; GH = 586,4; 2343; 1372; 1389; LF = 1364; F S 42° 46′ O 585,6 [?]). Escala gráfica de 2000 m y firma «La Plata, mayo de 1884, Mariano Iparraguirre».",
+   "referencias": [
+    [
+     "A",
+     "esquinero O (Maguire); población de O’Brien a 330 m"
+    ],
+    [
+     "B",
+     "esquinero N, contra Miguel Scully e Ignacia O. de Funes"
+    ],
+    [
+     "C",
+     "esquinero E, arranque; contra Funes y Tormey"
+    ],
+    [
+     "H",
+     "esquinero S, contra Tormey y Maguire"
+    ],
+    [
+     "K",
+     "mojón nuevo, esquinero N de Gibney (1950 m de A)"
+    ],
+    [
+     "L",
+     "mojón nuevo, ángulo saliente de Gibney"
+    ],
+    [
+     "D, E, F, G",
+     "faja de Ana O’Brien de Valenzuela (585,6 × 1300 m)"
+    ],
+    [
+     "Camino",
+     "de Santa Fe a Buenos Aires (cruces a 800 m en A-B y 1372 m en C-H)"
+    ],
+    [
+     "Lotes",
+     "Gibney 329,78 ha; Eugenia y Juan 507,99 ha restantes; Ana 76,13 ha"
+    ],
+    [
+     "Linderos",
+     "C. S. de Maguire, Miguel Scully, Ignacia O’Brien de Funes, Eduardo Tormey"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle del plano original: Gibney y la faja de Ana",
+   "img": "img/f/135/04.jpg",
+   "fuente": "Toma IMG_0050",
+   "orientacion": "como el general",
+   "interpretacion": "Ampliación de la mitad O: el rótulo diagonal de Gibney, la faja de Ana O’Brien de Valenzuela y el camino.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle del plano original: lado de Miguel Scully e Ignacia de Funes",
+   "img": "img/f/135/05.jpg",
+   "fuente": "Toma IMG_0051",
+   "orientacion": "como el general",
+   "interpretacion": "Ampliación de la mitad E con la flecha de la variación, el área total y el lado contra Ignacia O’Brien de Funes.",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia de la Dirección de Geodesia, Catastro y Tierras (La Plata, mayo de 1945)",
+   "img": "img/f/135/06.jpg",
+   "fuente": "Toma IMG_0052",
+   "orientacion": "como el original",
+   "interpretacion": "«Es copia del plano agregado al duplicado n.º 135 del partido de S. A. de Giles, mensura practicada en Mayo de 1884 por el Agrimensor M. Iparraguirre. La Plata Mayo de 1945». Sello «Geodesia, Catastro y Tierras · M. O. P. · Dirección», firma del director (Francisco Esteban [?], el mismo de las copias de 130 y 131), «Dibujado Sala de Dibujo». Reproduce fielmente cotas y rótulos, más legibles (p. ej. «LF = 1364», «E S 42° 46′ O 585,6»).",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Campo sin aguas citadas, ya totalmente amojonado («línea de mojones existentes» en los cuatro lados). Lo atraviesa en diagonal el CAMINO DE SANTA FE A BUENOS AIRES (el antiguo camino real del norte, aquí cruzado a 800 y 1372 m de los esquineros), que sirve de ancla para el GIS junto con el «camino de las Provincias a Buenos Aires» de la 133 (probablemente el mismo camino). Poblamiento denso: estancias de Eugenia R. de O'Brien, Juan O'Brien, Ana O. de Valenzuela e Ignacia O. de Funes (cada heredero tiene ya su casa), la «población de O'Brien» junto al esquinero A, varios puestos de O'Brien, un PUESTO ROCHA DE SCULLY, un puesto desocupado de Scully y el PUESTO BORDENAVE (los mismos Rocha y Bordenave que la 133 abaliza desde los mojones B y C)."
+  },
+  {
+   "titulo": "Ritual",
+   "texto": "Poder otorgado en la Exaltación de la Cruz, edictos en los diarios, circular fechada en la «Estancia de D. Juan O'Brien», acta de conformidad al día siguiente. Gibney no sabe firmar y firma a ruego Juan Mac Mahon. Lo excepcional es la razón de la mensura: el comprador se niega a escriturar hasta ver el campo medido y amojonado «a ver si le convenía»; la mensura precede a la escritura y funciona como prueba para el comprador, y la firma de la circular y el acta reemplaza su consentimiento."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Rumbos verdaderos con variación N 10° 25′ E, idéntica a la de la 133 (sept. 1883): Iparraguirre no actualiza la declinación en seis meses. Los lados (2600 m = 3002 v; 3515 m) coinciden con la división de Girondo de 1879 (2599 m; 2341 + 585,56 + 585,56 = 3512,1 m): diferencia de superficie 0,12 %. El área de Gibney se verifica exactamente: 2600 × 586,4 + 1300 × 1364 = 3 297 840 m². Superficies en metros cuadrados, hectáreas y cuadras cuadradas. Es la primera mensura del corpus firmada en LA PLATA (mayo de 1884) y con el Juzgado Civil y el Departamento de Ingenieros ya en la nueva capital; el juez es el mismo de la 133 (Curutchet)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "(1) Testamentaría de Juan O'Brien (1861): la viuda recibe la mitad del valor (150 000 de 300 000 $) y cada uno de cuatro hijos un octavo (37 500 $): la regla de gananciales + legítimas, y aquí se ve que la división de 1879 (090) sólo materializó en fajas lo que las hijuelas de 1861 fijaban en dinero. (2) Ana, casada con un Valenzuela «ausente», necesita venia judicial supletoria para vender (1882): la incapacidad legal de la mujer casada y su rodeo. (3) Madre e hijo condóminos venden a un tercero, Guillermo Gibney, una pieza en forma de L (hexágono) para que encaje con la faja de Ana: la forma del lote obedece a la negociación familiar, no a la geometría. (4) La faja de Ana (585 m) se parte en dos mitades: la de Juan y la que ella conserva (G F E D)."
+  },
+  {
+   "titulo": "Crítica documental",
+   "texto": "Lecturas dudosas: el nombre del juez de 1882 («Aditardo [?] Heredia»), el escribano de la Exaltación («Juan Pío [?] García»), el segundo firmante del D. I. y el secretario del oficio de 1884. La etiqueta del canto «7.347» es un número de archivo moderno. En «Girondo» la G mayúscula se parece a una C («Cirondo»). El plano no rotula la letra L con claridad; se confirma por el texto y la copia de 1945."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "(1) 090 (Juan O'Brien, Girondo 1879): división en cinco fajas (Basilisa, Ignacia, Eugenia, Ana, Juan); aquí se identifica al causante como Juan O'Brien PADRE (testamentaría de 1861), con Eugenia R. su viuda y Juan, Ana (de Valenzuela) e Ignacia (de Funes) sus hijos: corrige la hipótesis de 090. (2) 027 (herederos de O'Brien, Pico 1860). (3) 133 (Scully, Iparraguirre 1883): su lote de Catalina Scully de Maguire y el de Miguel Scully son el lindero NO; la línea B-C de 133 contra O'Brien (S 42° 46′ O, 4210 m) es la línea A-B de aquí (N 42° 46′ E, 3515 m); el puesto de Rocha y el de Bordenave aparecen en los dos abalizamientos. (4) 079-081 y 097 (Tormy/Tormey): lindero SE. (5) 069 (protesta de O'Brien contra Scully, 1875)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Es el «camino de Santa Fe a Buenos Aires» el mismo que la 133 llama «de las Provincias a Buenos Aires»? Si es así, los cruces de 133 (3410 m de B en B-C, 850 m en U-T) y de 135 (800 m de A en A-B, 1372 m de C en C-H) permiten trazarlo en el GIS. ¿Quién era Guillermo Gibney (¿Gibney/Kibney?) y su relación con Mac Mahon? ¿Dónde estaba el marido de Ana, Valenzuela?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Eugenia R. de O'Brien",
+   "rol": "Propietaria (viuda)",
+   "texto": "Viuda de Juan O'Brien; recibió la mitad del campo en 1861 y la faja central en 1879 (090). En 1884 vende con su hijo Juan 329,8 ha a Guillermo Gibney. La inicial «R.» de su apellido no se desarrolla en el corpus.",
+   "fuentes": "fichas 090, 135"
+  },
+  {
+   "nombre": "Juan O'Brien (padre e hijo)",
+   "rol": "Causante / propietario",
+   "texto": "El padre, irlandés asentado hacia el NE del partido (cf. 027), murió antes de 1861. El hijo, condómino con su madre, compra a su hermana Ana la mitad de su faja en 1884; la circular se fecha en su estancia.",
+   "fuentes": "fichas 027, 090, 133, 135"
+  },
+  {
+   "nombre": "Ana O'Brien de Valenzuela e Ignacia O'Brien de Funes",
+   "rol": "Hijas / linderas",
+   "texto": "Ana obtiene venia supletoria por ausencia del marido (1882) y vende la mitad de su faja (1884). Ignacia, casada Funes, es lindera NE con estancia propia. La cuarta hermana, Basilisa (090), no aparece.",
+   "fuentes": "fichas 090, 135"
+  },
+  {
+   "nombre": "Guillermo Gibney",
+   "rol": "Comprador",
+   "texto": "Compra 195,44 cuadras; no sabe firmar (firma a ruego Juan Mac Mahon). Apellido irlandés: un nuevo miembro de la comunidad ovejera irlandesa del NE del partido. Sin datos en la web.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Mariano Iparraguirre",
+   "rol": "Agrimensor",
+   "texto": "Activo en Giles de 1870 a 1884 (056, 058, 097, 126, 133, 135). Se traslada con la administración a La Plata: firma allí en mayo de 1884.",
+   "fuentes": "fichas citadas"
+  },
+  {
+   "nombre": "Carlos Teodoro Glade",
+   "rol": "Apoderado",
+   "texto": "Recibe poder de Eugenia y Juan O’Brien para pedir la mensura (1884). Sin datos.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Valentín M. Curutchet; Ramón E. Wright",
+   "rol": "Juez civil / secretario",
+   "texto": "Mismo juez que la 133 (1883-84), ya en La Plata; Wright actúa como escribano-secretario del juzgado desde 1882.",
+   "fuentes": "fichas 133, 135"
+  },
+  {
+   "nombre": "Linderos y vecinos",
+   "rol": "Varios",
+   "texto": "Catalina Scully de Maguire y su marido Patricio Maguire, Miguel Scully (133), Eduardo Tormey (079-081, 097, 133), Juan Mac Mahon; puesteros Rocha (de Scully) y Bordenave.",
+   "fuentes": "esta mensura y fichas citadas"
+  },
+  {
+   "nombre": "Otros",
+   "rol": "Escribanos, d. i.",
+   "texto": "Laureano Silva (hijuelas 1861), Aditardo [?] Heredia (juez 1882), Fernando del Río (escribano, Giles 1884), Juan Pío [?] García (escribano, Exaltación de la Cruz); D. I.: P. Salvadores, Lagos [?]; director de Geodesia en 1945: Francisco Esteban [?].",
+   "fuentes": "esta mensura"
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/135/02.jpg",
+  "fuente": "Toma IMG_0041",
+  "lineas": [
+   "[etiqueta: 7.347 [?]]",
+   "Giles",
+   "135.",
+   "Diligencia de Mensura del",
+   "terreno perteneciente á D^{a}. Eugenia R.",
+   "de y Juan O'Brien y D. Guillermo",
+   "Gibney, ubicado en el partido",
+   "de San Andres de Giles",
+   "1884.",
+   "Agrimensor",
+   "M. Iparraguirre"
+  ]
+ },
+ "titulo": "Eugenia R. y Juan O'Brien (condominio)",
+ "estado": "Transcripta (13 hojas, 371 renglones), 4 láminas"
+}

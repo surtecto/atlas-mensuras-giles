@@ -1,0 +1,650 @@
+{
+ "carpeta": "134",
+ "carpeta_nombre": "Carpeta 134",
+ "archivo": "Ficha 134 - José María Echeverría (1862).docx",
+ "resumen": {
+  "Propietario / solicitante": "José María Echeverría",
+  "N.º de duplicado": "134 (antes «Sección Areco N.º 26», testado; Giles 20 [?] testado)",
+  "Agrimensor": "Pedro Saubidet",
+  "Año": "1862",
+  "Fecha de la diligencia": "Mensura 6/10/1862; firma 4/11/1862; D. T. 6/12/1862",
+  "Ubicación": "SO del partido, entre Alegre (ex Rocha), Bustos, Lima, Martínez y Unzué",
+  "Orden judicial": "Juez de 1.ª Instancia en lo civil Dr. Carlos Eguía: medir y subdividir",
+  "Vendedor / antecesor": "Enfiteusis J. Rodríguez → Gobierno → Medrano (1837) → Echeverría",
+  "Linderos citados": "Alegre, Bustos, F. Monsalvo, Unzué e hijos, Colmenero, Garcete de Martínez, J. F. Martínez, Lima",
+  "Medidas": "NO 6350 v · SO 2307 + 4271 v · SE 6100 v · NE 6664 v; Bernal 2000 v de frente",
+  "Rumbos": "S 44° 35′ O; S 46° 10′ E; S 47° 35′ E; N 45° 35′ E; N 45° 10′ O; var. 10° 35′ NE",
+  "Referencia de archivo": "AHG-PBA, duplicado 134 de S. A. de Giles"
+ },
+ "metricas": {
+  "superficie_ha": "3113,05 (Bernal 998,45 + Echeverría 2114,60)",
+  "hitos": "mojones de piedra (esquineros N y O) y de fierro (subdivisión); estancias, poblaciones, monte, puesto y arrendatarios",
+  "aguas": "lagunas dibujadas en el plano; sin cursos de agua citados"
+ },
+ "sintesis": "Remensura y subdivisión, en octubre de 1862, de la legua cuadrada que José María Echeverría compró en 1837 a Manuel A. Medrano, quien la había obtenido del Gobierno de Rosas trece días antes sobre la enfiteusis caída de José Rodríguez; es el mismo campo que Manuel Eguía midió en 1839 (Ficha 015) y cuyo sobrante se le vendió en 1858. Pedro Saubidet expresa por primera vez en el corpus cada distancia en varas y en metros, separa la franja NE vendida a Hermenegildo Bernal (998 ha) y divide el resto (2115 ha) en cuatro fracciones con mojones de fierro y un «mojón del centro» hallado por intersección de rectas. El Departamento Topográfico detecta otro exceso de 24 cuadras. El plano es una copia certificada en 1875 por Julio Ringuelet [?].",
+ "caratula": {
+  "img": "img/f/134/01.jpg",
+  "fuente": "Toma IMG_0024",
+  "campos": [
+   [
+    "Número",
+    "N.º 134 (dos veces)"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Repartición",
+    "Dirección de Geodesia y Catastro de la Provincia de Buenos Aires"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "José María Echeverría"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Pedro Saubidet"
+   ],
+   [
+    "Mes / Año",
+    "Octubre / 1862"
+   ],
+   [
+    "Juzgado / Secretaría / Duplicados de referencia",
+    "en blanco"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Extracto de los títulos: venta de Rosas a Manuel A. Medrano (14/11/1837) del campo enfitéutico de José Rodríguez; mensura de Lemoine (1826); venta a José María Echeverría (27/11/1837)",
+   "img": "img/f/134/07.jpg",
+   "fuente": "Toma IMG_0026",
+   "nota": "Copia en limpio de oficina, letra grande y regular, con sellos «Foja» 1 a 5 del Departamento Topográfico. Hojas fotografiadas acostadas (rot 90).",
+   "lineas": [
+    "Estracto de los títulos de propiedad de un terreno de",
+    "Estancia de D. José María Echeverria",
+    "[sello: 1]",
+    "En catorce de Noviembre de mil ochocientos treinta",
+    "y siete, el Gobernador Rosas, en virtud de la Ley",
+    "de diez de Mayo de mil ochocientos treinta y seis,",
+    "vende á D. Manuel A. Medrano, un terreno que",
+    "poseia en Enfiteusis D. José Rodriguez, el cual ha-",
+    "bia perdido el dominio útil, situado en la Seccion",
+    "de Areco, cuya superficie es de una legua cuadrada.",
+    "En Junio de mil ochocientos veintiseis practicó por el",
+    "Agrimensor Lemoine [?] la mensura de este terreno y to-",
+    "mó por punto de arranque en la linea que divide el",
+    "terreno de D. Juan Pedro Barangot por la parte del Nor-",
+    "Este y en la interseccion de la linea Sud Oeste del ter-",
+    "reno que iba á medir y al Nor Oeste corregida de tre-",
+    "ce grados, midió seis mil varas, hallandose á las cua-",
+    "tro mil quinientas con el mojon esquinero que de-",
+    "marca la parte Nor Oeste del terreno de Barangot,",
+    "en cuyo punto hizo poner un mojon; de aqui al Nor",
+    "Este seis mil varas, donde puso otro mojon, de aqui",
+    "al Sud Este otras seis mil varas y á su remate otro",
+    "mojon y de aqui al Sud Oeste midió seis mil varas",
+    "hasta el mojon de arranque. Fué aprobada esta men-",
+    "sura.",
+    "En veintisiete de Noviembre de mil ochocientos treinta",
+    "y siete, ante el Escribano público D. Miguel Mogro-",
+    "vejo, vende D. Manuel A. Medrano á D. José M^{a}.",
+    "Echeverria un terreno, compuesto de una legua cua-",
+    "drada, bajo la figura de un cuadrado perfecto de seis",
+    "mil varas por costado, lindando por el Sud Oeste con ter-",
+    "renos de D. Juan Pedro Barangot y Carrasco; por el",
+    "Nor Oeste con D. Bartolomé Saraví y por el Nor Este",
+    "y Sud Este con terrenos de propiedad que en aquel ac-",
+    "to no recordaba, cuyo terreno lo hubo por compra que"
+   ],
+   "interpretacion": "Extracto de títulos. 14/11/1837: el gobernador Rosas, por la ley del 10/5/1836, vende a Manuel A. Medrano una legua cuadrada en la Sección de Areco que tenía en ENFITEUSIS José Rodríguez, quien «había perdido el dominio útil». Esa tierra la había medido Lemoine [?] en junio de 1826: arranque en la línea de Juan Pedro Barangot, rumbos «corregidos de trece grados», un cuadrado de 6000 × 6000 v. 27/11/1837: ante el escribano Miguel Mogrovejo, Medrano vende a José María Echeverría la legua cuadrada «en cuadrado perfecto»: SO Juan Pedro Barangot y Carrasco, NO Bartolomé Saraví; NE y SE linderos que no recordaba."
+  },
+  {
+   "titulo": "Folio 1 v. · Medrano la compró al Gobierno (14/11/1837); mensura de Manuel Eguía (14/10/1839): pentágono de 1,138 leguas cuadradas",
+   "img": "img/f/134/08.jpg",
+   "fuente": "Toma IMG_0027",
+   "nota": "",
+   "lineas": [
+    "de él hizo al Superior Gobierno en catorce del",
+    "mismo mes y año.",
+    "En treinta y uno de Agosto de mil ocho-",
+    "cientos treinta y nueve, D. José M^{a}. Echeverria",
+    "se presenta solicitando la mensura de este terre-",
+    "no y propone al Agrimensor D. Manuel",
+    "Eguia.",
+    "En catorce de Octubre de mil ochocien-",
+    "tos treinta y nueve, practica la operacion y",
+    "toma por punto de arranque el mojon esqui-",
+    "nero Oeste de este terreno que se halla situado",
+    "en el costado Nor Este del terreno de D. Juan",
+    "Gregorio Carrasco y sirve al mismo tiempo",
+    "para determinar uno de los angulos del costa-",
+    "do Sud Este del de D. Antonio Rocha, de este",
+    "mojon al Sud cincuenta y siete grados Este se",
+    "midieron dos mil trescientas varas, hasta el mo-",
+    "jon esquinero Este de D. Juan Gregorio Carras-",
+    "co y Norte del D. Mariano Lima, desde él al",
+    "Sud cincuenta y nueve grados Este y á las dos",
+    "mil cien varas se colocó un mojon y á las",
+    "cuatro mil doscientas sesenta se halló el esqui-",
+    "nero Sud del terreno que se mide; en seguida",
+    "al Norte treinta y dos grados cuarenta y cinco",
+    "minutos Este y colocando mojones á cada mil",
+    "quinientas varas se midieron seis mil setenta",
+    "varas hasta llegar al mojon esquinero Este de",
+    "este terreno, desde él al Norte cincuenta y siete grados",
+    "Oeste y colocando mojones á cada mil quinientas",
+    "varas seis mil seiscientas cincuenta hasta el esqui-",
+    "nero Norte, desde el cual al Sud treinta y dos gra-",
+    "dos Oeste y á las seis mil doscientas cincuenta varas",
+    "se dió con el mojon de arranque; el terreno medido",
+    "es de la figura de un pentágono y la superficie",
+    "de una legua cuadrada ciento treinta y ocho milesi-",
+    "mas de otra y linda por el Nor Oeste con D. An-"
+   ],
+   "interpretacion": "Medrano la había comprado al Gobierno el 14/11/1837: es decir, la revendió a Echeverría a los trece días (especulación con tierra pública). 31/8/1839: Echeverría pide la mensura y propone a Manuel Eguía, que mide el 14/10/1839 (es la Ficha 015): arranque en el esquinero O, sobre el costado NE de Juan Gregorio Carrasco y en un ángulo del costado SE de Antonio Rocha; S 57° E 2300 v hasta el esquinero de Carrasco y Mariano Lima; S 59° E 4260 v hasta el esquinero S (mojón a las 2100); N 32° 45′ E 6070 v con mojones cada 1500 v; N 57° O 6650 v; S 32° O 6250 v. Pentágono de 1,138 leguas cuadradas."
+  },
+  {
+   "titulo": "Folio 2 · Linderos de 1839 y aprobación; compra del sobrante al Gobierno (21/8/1858); DILIGENCIA DE MENSURA de Saubidet: arranque en el mojón de piedra N, visuales y línea contra Alegre",
+   "img": "img/f/134/09.jpg",
+   "fuente": "Toma IMG_0028",
+   "nota": "",
+   "lineas": [
+    "tonio Rocha, por el Sud Oeste con D. Juan Gregorio Carras-",
+    "[sello: 2]",
+    "co y D. Mariano Lima, por el Sud Este con D. Ramon",
+    "Colmenero y por el angulo Este con D^{a}. Pascuala Ro-",
+    "mero y por el Nor Este con D. Ramon Bustos.",
+    "E aprobada la anterior mensura.",
+    "En veintiuno de Agosto de mil ochocientos cincuenta",
+    "y ocho, el Gobierno de Buenos Ayres, por ante el Es-",
+    "cribano Mayor de Gobernacion, habiendo ocurrido D.",
+    "José M^{a}. Echeverria solicitando comprar el sobrante",
+    "ó exeso que resultó de la mensura practicada por el",
+    "Agrimensor Eguia, compuesto en toda su estension de",
+    "ciento treinta y ocho milesimas de legua cuadrada,",
+    "estendiendosele con aquella fecha la escritura de propie-",
+    "dad.",
+    "Mensura: Nombrado yo el Agrimensor público que firma,",
+    "por el S^{or}. Juez de primera Instancia en lo civil D^{r}.",
+    "D. Carlos Eguia, para medir y subdividir el terreno",
+    "de la propiedad de D. José M^{a}. Echeverria, situado en",
+    "el Partido de ~~la Villa de Mercedes~~ [entre renglones: S^{n}. Andres de Giles], hecha la citacion",
+    "de linderos que original se acompaña, para dar",
+    "principio el dia seis de Octubre del corriente año: pues-",
+    "to en el mojon esquinero Norte de este terreno, que es",
+    "esquinero tambien Oeste, de D. Ramon Bustos, situado en",
+    "el costado Nor Este de D. Mariano Alegre (antes Rocha),",
+    "cuyo mojon es una piedra y se fijó por las visuales",
+    "siguientes: Estancia de Alegre Sud setenta y siete grados",
+    "quince minutos Oeste, Estancia de D. Hermenegildo Ber-",
+    "nal Sud veintidos grados cincuenta y cinco minutos Este,",
+    "Estancia de D. Fernando Monsalvo Sud cuarenta y seis",
+    "grados veinticinco minutos Este, de aqui al Sud cua-",
+    "renta y cuatro grados treinta y cinco minutos Oeste",
+    "y deslindando con Alegre se midieron dos mil",
+    "varas iguales mil setecientos treinta y dos metros, en",
+    "cuyo punto se colocó el mojon esquinero de D. Her-",
+    "menegildo Bernal y que debe ser el esquinero Norte",
+    "de D. José M^{a}. Echeverria, segun la venta que de esta",
+    "fraccion hizo al S^{r}. Bernal; de cuyo punto se miraba: la"
+   ],
+   "interpretacion": "Linderos de 1839: NO Antonio Rocha; SO Juan Gregorio Carrasco y Mariano Lima; SE Ramón Colmenero; ángulo E Pascuala Romero; NE Ramón Bustos. 21/8/1858: el Gobierno le vende el sobrante de 0,138 legua². Empieza la DILIGENCIA DE SAUBIDET: comisionado por el juez civil Carlos Eguía para MEDIR Y SUBDIVIDIR; el copista escribió «Villa de Mercedes» y lo testó por «S. Andrés de Giles». Inicia el 6/10/1862 en el mojón esquinero N, que es una PIEDRA y es también esquinero O de Ramón Bustos, sobre el costado NE de Mariano Alegre (antes Rocha). Lo fija con visuales a tres estancias: Alegre, Hermenegildo Bernal y Fernando Monsalvo. Línea NO al S 44° 35′ O contra Alegre: a las 2000 v (= 1732 m) coloca el esquinero de la fracción VENDIDA A HERMENEGILDO BERNAL, que será el esquinero N de lo que le queda a Echeverría."
+  },
+  {
+   "titulo": "Folio 2 v. · Línea NO contra Alegre hasta el esquinero O (piedra), con mojón de fierro de la subdivisión y costanero; visuales; línea SO contra Juan Félix Martínez",
+   "img": "img/f/134/10.jpg",
+   "fuente": "Toma IMG_0029",
+   "nota": "",
+   "lineas": [
+    "Estancia de D. Mariano Alegre al Norte treinta",
+    "y un grados veinticinco minutos Oeste, la de D.",
+    "Juan Feliz Martinez al Sud treinta y cua-",
+    "tro grados quince minutos Oeste y la de D.",
+    "José M^{a}. Echeverria Sud doce grados cinco",
+    "minutos Oeste, se siguió midiendo en la mis-",
+    "ma direccion de Sud cuarenta y cuatro gra-",
+    "dos treinta y cinco minutos Oeste hasta la dis-",
+    "tancia de seis mil trescientas cincuenta varas,",
+    "iguales á cinco mil cuatrocientos noventa y",
+    "nueve metros y un decímetro, á cuyo extremo",
+    "se encontró el esquinero Oeste de este terreno y",
+    "Sud de Alegre, que es tambien de piedra, ha-",
+    "biendose colocado á las cuatro mil varas, i-",
+    "guales á tres mil cuatrocientos sesenta y cua-",
+    "tro metros, un mojon de fierro que determi-",
+    "na una de las fracciones en que el S^{r}. Eche-",
+    "verria ha querido se subdivida su terreno, y á las",
+    "cinco mil ciento cincuenta varas iguales cuatro mil",
+    "cuatrocientos cincuenta y nueve metros nueve de-",
+    "cimetros puesto un mojon costanero; el mojon es-",
+    "quinero Oeste se avalizó por las siguientes visua-",
+    "les: Estancia de D. Juan Feliz Martinez Sud",
+    "diez y ocho grados cinco minutos Oeste, Estancia",
+    "de Echeverria Sud cincuenta y tres grados cin-",
+    "cuenta y cinco minutos Este, Estancia de Ale-",
+    "gre Norte treinta grados treinta y cinco mi-",
+    "nutos Este, de aqui al Sud cuarenta y seis gra-",
+    "dos diez minutos Este y deslindando con los ter-",
+    "renos de D. Juan Feliz Martinez se midie-",
+    "ron dos mil trescientas siete varas, iguales á",
+    "mil novecientos noventa y siete metros ocho",
+    "decimetros, hasta el mojon esquinero de dicho",
+    "S^{or}. que debe ser el esquinero Norte de los herede-",
+    "ros de D. Mariano Lima y puesto á las mil",
+    "doscientas varas iguales á mil treinta y nueve"
+   ],
+   "interpretacion": "Desde el mojón de Bernal, visuales a las estancias de Alegre, Juan Félix Martínez y del propio Echeverría. Sigue al S 44° 35′ O hasta 6350 v (5499,1 m): esquinero O, también de piedra, que es esquinero S de Alegre. En el camino, a las 4000 v (3464 m), un MOJÓN DE FIERRO de la subdivisión que quiere Echeverría, y a las 5150 v un costanero. Desde el esquinero O: visuales a las estancias de Martínez, Echeverría y Alegre; luego S 46° 10′ E contra Juan Félix Martínez 2307 v (1997,8 m) hasta su esquinero, que debe ser el N de los herederos de Mariano Lima; costanero a las 1200 v."
+  },
+  {
+   "titulo": "Folio 3 · Esquinero S (visuales a la población de Rufina Acuña y al monte de Mariano Lima); línea SE contra Unzué e hijos y herederos de Colmenero, con mojones de fierro de la subdivisión",
+   "img": "img/f/134/11.jpg",
+   "fuente": "Toma IMG_0030",
+   "nota": "",
+   "lineas": [
+    "[al margen superior, otra letra: Kuhr]",
+    "[sello: Foja 3]",
+    "metros dos decimetros, un mojon costanero, se determi[nó]",
+    "el esquinero por las visuales: Estancia de Echeverria",
+    "Norte setenta y cuatro grados cinco minutos Este, Es-",
+    "tancia de D. Juan Feliz Martinez Sud sesenta y",
+    "siete grados cinco minutos Oeste, Poblacion de D^{a}.",
+    "Rufina Acuña Norte treinta y siete grados cuaren[ta]",
+    "minutos Oeste; de este punto se observó la direccion de[l]",
+    "esquinero Sud del terreno que se mide y habiendo[se]",
+    "dado la del Sud cuarenta y siete grados treinta y cin[co]",
+    "minutos Este, se midió en esta linea cuatro mil",
+    "doscientas setenta y una varas, iguales á tres mil",
+    "seiscientos noventa y ocho metros seis decimetros, á",
+    "cuyo estremo se dió con este mojon, que es tambien",
+    "esquinero Oeste de un terreno de los SS. Unzué é hi-",
+    "jos, habiendose puesto á las mil doscientas setenta",
+    "y una varas, iguales á mil cien metros seis decime[tros]",
+    "un mojon de fierro, como esquinero de las fracciones e[n]",
+    "que se vá á subdividir este terreno y á las dos mil",
+    "setecientas setenta y una varas iguales á dos mil",
+    "~~cuatrocientos ...~~ [entre renglones: trescientos noventa y nueve] metros seis decimetros un mojon",
+    "costanero, se determinó el mojon del angulo Sud por las",
+    "siguientes visuales: Estancia de D. Mariano [?] Bernal",
+    "Norte sesenta y un grados veinte minutos Este, Estan-",
+    "cia de Echeverria Norte cuarenta y dos grados cua-",
+    "renta y cinco minutos Oeste, centro del monte de D.",
+    "Mariano Lima Sud cuarenta y seis grados veinti-",
+    "cinco minutos Este; de este mojon al Norte cuarenta",
+    "y cinco grados treinta y cinco minutos Este y des-",
+    "lindando con los SS. Unzué se midieron ochocien-",
+    "tas ochenta varas, iguales á setecientos sesenta y dos",
+    "metros en cuyo punto se encontró el mojon es-",
+    "quinero de dichos S^{res}., que tambien es esquinero de",
+    "los herederos de Colmenero, se siguió midiendo en la",
+    "misma direccion y deslindando con los herederos de Col-",
+    "menero, dos mil cien varas igual á mil ochocien-",
+    "tos diez y ocho metros seis decimetros, en donde se puso un",
+    "mojon esquinero de las fracciones en que se subdivide"
+   ],
+   "interpretacion": "Desde el esquinero Martínez/Lima, visuales a la estancia de Echeverría, a la de Martínez y a la POBLACIÓN DE RUFINA ACUÑA (el «P. Acuña» del plano de 1839). Línea SO al S 47° 35′ E 4271 v (3698,6 m) hasta el esquinero S, que es esquinero O de Saturnino Unzué e hijos; mojón de fierro de las fracciones a las 1271 v y costanero a las 2771 v. El esquinero S se fija por visuales a la estancia de Mariano Bernal [?], a la de Echeverría y al CENTRO DEL MONTE DE MARIANO LIMA. Línea SE al N 45° 35′ E: 880 v contra Unzué hasta el esquinero de éstos y de los herederos de Colmenero; 2100 v más contra Colmenero hasta otro mojón de las fracciones. Arriba del folio, en otra letra, «Kuhr»."
+  },
+  {
+   "titulo": "Folio 3 v. · Fin de la línea SE (divisorio Colmenero/Martínez, mojón de la fracción de Hermenegildo Bernal, esquinero E contra Fernando Monsalvo); línea NE contra Ramón Bustos; división de la fracción Bernal",
+   "img": "img/f/134/12.jpg",
+   "fuente": "Toma IMG_0031",
+   "nota": "",
+   "lineas": [
+    "este terreno, se siguió en la misma direccion y á",
+    "la distancia de tres mil seiscientas ochenta varas,",
+    "iguales á tres mil ciento ochenta y ~~...~~ [entre renglones: seis] metros",
+    "~~ocho~~ decimetros, se ~~...~~ [entre renglones: encontró] el mojon ~~el mojon~~ esqui-",
+    "nero divisorio entre Colmenero y los herederos de",
+    "Martinez, á las cuatro mil cien varas iguales",
+    "á tres mil quinientos cincuenta metros seis decime-",
+    "tros, se colocó el mojon esquinero de la fraccion",
+    "vendida á D. Hermenegildo Bernal y á las ~~mil~~",
+    "seis mil cien varas iguales á cinco mil doscien-",
+    "tos ochenta y dos metros seis decimetros, se dió con",
+    "el esquinero Este del antiguo terreno de D. José",
+    "Maria Echeverria en cuyo punto linda con",
+    "el terreno de D. Fernando Monsalvo y que es",
+    "mojon Sud de D. Ramon Bustos, se determinó",
+    "este mojon: Estancia de Monsalvo Norte setenta",
+    "y ocho grados cinco minutos Este, Estancia de",
+    "D. Ramon Bustos Norte diez grados cuarenta",
+    "minutos Oeste, la de D. Benedicto Martinez Sud",
+    "treinta y cinco grados cuarenta minutos Este y de a-",
+    "qui al Norte cuarenta y cinco grados diez minutos",
+    "Oeste, deslindando con los terrenos de D. Ramon Bus-",
+    "tos se midieron hasta el mojon de arranque seis",
+    "mil seiscientas sesenta y cuatro varas iguales á cin-",
+    "co mil setecientos setenta y un metros. En seguida",
+    "me trasladé al mojon esquinero Norte de la parte",
+    "que le queda al S^{r}. Echeverria y deslindando con",
+    "la vendida á D. Hermenegildo Bernal y al rum-",
+    "bo Sud cuarenta y cinco grados diez minutos Este,",
+    "medí la distancia de seis mil seiscientas cincuenta",
+    "varas iguales á cinco mil setecientos cincuenta y o-",
+    "cho metros nueve decimetros, en cuyo punto se en-",
+    "contró el mojon esquinero de Bernal y Este de Eche-",
+    "verria distante cuatrocientas veinte varas, iguales",
+    "á trescientos sesenta y tres metros siete decimetros al",
+    "Nor Este del de los herederos de Colmenero y de D^{a}.",
+    "Dominga Garcete de Martinez, habiendose puesto á"
+   ],
+   "interpretacion": "Sigue la línea SE: a 3680 v el divisorio entre Colmenero y los herederos de Martínez; a 4100 v el mojón de la fracción de Hermenegildo Bernal; a 6100 v (5282,6 m) el esquinero E del «antiguo terreno» de Echeverría, contra Fernando Monsalvo y esquinero S de Ramón Bustos; visuales a las estancias de Monsalvo, Bustos y Benedicto Martínez. Línea NE al N 45° 10′ O contra Bustos: 6664 v (5771 m) hasta el arranque. Luego el lindero interno con Bernal: desde el esquinero N de la parte de Echeverría, al S 45° 10′ E 6650 v (5758,9 m) hasta el esquinero de Bernal, 420 v (363,7 m) al NE del esquinero de Colmenero y Dominga Garcete de Martínez."
+  },
+  {
+   "titulo": "Folio 4 · Mojones de la línea divisoria de Bernal; visuales al puesto de Aspiri [?]; el MOJÓN DEL CENTRO, común a las cuatro fracciones, por intersección de las líneas de los mojones de fierro",
+   "img": "img/f/134/13.jpg",
+   "fuente": "Toma IMG_0032",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 4]",
+    "las dos mil ciento cincuenta varas iguales á mil o-",
+    "chocientos sesenta y un metros nueve decimetros un mo-",
+    "jon costanero, á las tres mil seiscientas cincuenta, i-",
+    "guales á tres mil ciento sesenta metros nueve decimetros",
+    "un mojon de fierro, como esquinero de las subdivi-",
+    "siones hechas en este terreno y á las cinco mil cien-",
+    "to cincuenta varas, igual á cuatro mil cuatrocientos",
+    "cincuenta y nueve metros nueve decimetros, otro mojon",
+    "costanero, el esquinero se demarcó por las siguientes vi-",
+    "suales: Estancia de Monsalvo Norte setenta y un grados",
+    "treinta y cinco minutos Este, la de D. Mariano Ber-",
+    "nal Sud treinta y cuatro grados cuarenta y cinco mi-",
+    "nutos Oeste y el Puesto de Aspiri [?] al Norte sesenta",
+    "grados cuarenta minutos Oeste, luego en seguida para",
+    "determinar el mojon del centro, comun á las cuatro frac-",
+    "ciones que el S^{or}. Echeverria ha querido hacer de su",
+    "campo, se buscó la interseccion de las lineas que determi-",
+    "nan los mojones de fierro distantes dos mil varas iguales",
+    "á mil setecientos treinta y dos metros del esquinero",
+    "Norte del terreno de Echeverria al Sud cuarenta y cua-",
+    "tro grados treinta y cinco minutos Oeste y distante del",
+    "esquinero Este otras dos mil varas iguales á mil",
+    "setecientos treinta y dos metros al Sud cuarenta y cinco",
+    "grados treinta y cinco minutos Oeste, con la que deter-",
+    "mina los otros dos mojones de fierro distante tres mil",
+    "varas iguales á dos mil quinientos noventa y ocho",
+    "metros del esquinero Sud de este terreno al rumbo",
+    "Norte cuarenta y siete grados treinta y cinco minu-",
+    "tos Oeste y el otro mojon de fierro colocado á las mis-",
+    "mas tres mil varas iguales á dos mil quinientos",
+    "noventa y ocho metros en el rumbo Norte cuaren-",
+    "ta y cinco grados diez minutos Oeste del esquinero Este",
+    "del S^{or}. Echeverria, en cuya interseccion se colocó dicho",
+    "mojon quedando fijado con las visuales siguientes:",
+    "Estancia de Echeverria Sud setenta y cuatro grados cinco",
+    "minutos Oeste, Estancia de D. Juan Feliz Martinez"
+   ],
+   "interpretacion": "Sobre la línea Bernal: costanero a 2150 v, mojón de fierro de la subdivisión a 3650 v, otro costanero a 5150 v; el esquinero se fija con visuales a la estancia de Monsalvo, a la de Mariano Bernal y al PUESTO DE ASPIRI [?]. Finalmente el MOJÓN DEL CENTRO, común a las cuatro fracciones que quiere Echeverría: se ubica en la INTERSECCIÓN de dos rectas, una que une los mojones de fierro situados a 2000 v (1732 m) de las esquinas N y E de su parte, y otra que une los mojones de fierro situados a 3000 v (2598 m) del esquinero S y del esquinero E (sobre la línea de Bernal). Allí se coloca el mojón, con visuales a las estancias de Echeverría y de Juan Félix Martínez…"
+  },
+  {
+   "titulo": "Folio 4 v. · Visuales del mojón del centro; pentágono irregular = 41 511 430 v² = 3113,05 ha; fracción de Bernal 998,45 ha y resto de Echeverría 2114,60 ha; linderos; asistentes; variación 10° 35′ NE",
+   "img": "img/f/134/14.jpg",
+   "fuente": "Toma IMG_0033",
+   "nota": "",
+   "lineas": [
+    "Sud setenta grados veinticinco minutos Oeste y la",
+    "Estancia de D. Mariano Bernal Sud treinta y",
+    "seis grados treinta y cinco minutos Este. Con lo",
+    "que dí por concluida esta operacion, siendo la figu-",
+    "ra del terreno la de un pentagono irregular y su",
+    "superficie total cuarenta y un millones quinien-",
+    "tas once mil cuatrocientas treinta varas cuadra-",
+    "das, iguales á tres mil ciento ~~tres~~ [a lápiz: (trece)] hectareas",
+    "y cinco areas y siendo el terreno vendido á Don",
+    "Hermenegildo Bernal de trece millones trescientas",
+    "catorce mil varas cuadradas iguales á novecientas",
+    "noventa y ocho hectareas cuarenta y cinco areas y",
+    "catorce metros cuadrados, resultan para el Señor",
+    "Echeverria veintiocho millones ciento noventa y siete",
+    "mil cuatrocientas treinta varas cuadradas iguales",
+    "á dos mil ciento catorce hectareas cincuenta y",
+    "nueve areas y ochenta y cinco metros cuadrados",
+    "y linda por el Nord-Este con la parte vendida",
+    "á D. Hermenegildo Bernal; por el Nord-Oeste con",
+    "Don Mariano Alegre; por el Sud-Oeste con Don",
+    "Juan Feliz Martinez y los herederos de Don Maria-",
+    "no Lima y por el Sud-Este con Don Saturnino Un-",
+    "zué é hijos, con los herederos de D. Ramon Colme-",
+    "nero y con los herederos de Doña Dominga",
+    "Garzete de Martinez.",
+    "Asistieron á esta operacion todos los linderos",
+    "y no hubo observacion ni protesta de ninguna",
+    "clase: por los herederos de D. Ramon Colmenero,",
+    "D. Lazaro Otero [?] como encargado de D. Mariano",
+    "Bernal que los representa; Don Gil M^{a}. Tapia",
+    "por los de D^{a}. [entre renglones: Dominga] Garzete de Martinez y por Don Ju-",
+    "an Lima (heredero de D. Mariano Lima) D. José",
+    "G. Gutierrez.",
+    "Los rumbos son todos corregidos y la variacion",
+    "del Instrumento con que se ha medido de diez",
+    "grados treinta y cinco minutos Nord-Este.",
+    "Nota: Se dió el correspondiente aviso al Juez",
+    "[al margen, a lápiz: 3103 [= 3113] ,0500 h · 3113.0500 − 998.4514 = 2114.5986]"
+   ],
+   "interpretacion": "… y de Mariano Bernal. El terreno es un pentágono irregular de 41 511 430 v² = 3113,05 ha (el copista escribe «tres mil ciento tres» y una mano posterior corrige a lápiz «trece»); la fracción vendida a Hermenegildo Bernal tiene 13 314 000 v² = 998,45 ha y a Echeverría le quedan 28 197 430 v² = 2114,60 ha. Linderos: NE Bernal; NO Mariano Alegre; SO Juan Félix Martínez y herederos de Mariano Lima; SE Saturnino Unzué e hijos, herederos de Ramón Colmenero y herederos de Dominga Garcete de Martínez. Asistieron todos los linderos sin protesta: Lázaro Otero [?], encargado de Mariano Bernal, por los herederos de Colmenero; Gil M.ª Tapia por los de Dominga Garcete de Martínez; José G. Gutiérrez por Juan Lima, heredero de Mariano Lima. Rumbos corregidos; variación del instrumento 10° 35′ NE."
+  },
+  {
+   "titulo": "Folio 5 · Notas, salvados y firma de Pedro Saubidet (Buenos Aires, 4/11/1862); dictamen del Departamento Topográfico (6/12/1862): exceso de 15 milésimas de legua (24 cuadras)",
+   "img": "img/f/134/15.jpg",
+   "fuente": "Toma IMG_0034",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 5]",
+    "de Paz de San Andres de Giles y nadie se presentó á re-",
+    "presentarle en la operacion, lo que anoto por diligencia.",
+    "Otra: Las lineas color carmin indican las subdivisiones, con que",
+    "el S^{or}. Echeverria, quiso que se subdividiera su terreno,",
+    "segun las esplicaciones verbales que le hizo al que",
+    "firma.",
+    "Buenos Ayres Noviembre cuatro de mil ochocientos",
+    "sesenta y dos.",
+    "Testado = la Villa de Mercedes = cuatrocientos y un = siete = co-",
+    "locó = mil = no vale. Entrerenglones = S^{n}. Andres de Giles =",
+    "trescientos noventa y nueve = seis = encontró = Dominga = vale.",
+    "Pedro Saubidet",
+    "S^{or}. Juez de 1^{a}. Instancia",
+    "El Dep^{to}. Top^{co}. ha examinado la mensura y division del terre-",
+    "no perteneciente á D^{n}. José M^{a}. Echeverria practicada por",
+    "el Agri^{sor}. D^{n}. Pedro Saubidet en el partido de San Andrés",
+    "de Giles y nada tiene que objetar al proceder facultativo em-",
+    "pleado en esta operacion, que considera en estado de ser apro-",
+    "bada judicialmente; haciendo presente á V. S. que habiendo",
+    "hallado el Agri^{sor}. una area de 41,511430 v^{s}. cuadradas resulta",
+    "un exceso sobre el contenido de los títulos de 15 milésimos",
+    "de legua ó 24 cuadras cuadradas que el interesado deberá",
+    "solicitar en compra al Superior Gobierno.",
+    "[a lápiz: 40^{h}.4476 · al margen: 40^{h}. 49^{a}. 76^{c}.]",
+    "Buenos Ayres Diciembre 6/862.",
+    "Salas          [sello oval: Moreno]          Malaver"
+   ],
+   "interpretacion": "Final de la diligencia: se avisó al juez de paz de San Andrés de Giles y nadie se presentó por él. Las líneas de color carmín del plano indican las subdivisiones que Echeverría explicó verbalmente al agrimensor. Fecha: Buenos Aires, 4/11/1862; salvados (testado «la Villa de Mercedes», entrerrenglonado «S. Andrés de Giles»…), firma de Pedro Saubidet. Dictamen del DEPARTAMENTO TOPOGRÁFICO (6/12/1862, Salas, Moreno, Malaver): nada que objetar; pero hay un EXCESO de 15 milésimas de legua (24 cuadras cuadradas; ≈ 40,5 ha anotadas a lápiz) sobre los títulos, que Echeverría deberá comprar al Gobierno."
+  },
+  {
+   "titulo": "Folio 5 v. · Nota del Departamento Topográfico: Echeverría pidió en compra el exceso (informe del 29/5/186[3?])",
+   "img": "img/f/134/16.jpg",
+   "fuente": "Toma IMG_0035",
+   "nota": "",
+   "lineas": [
+    "Nota = D. José M^{a}. Echeverria ha pedido en com-",
+    "pra el exceso de area encontrado q^{e}. es-",
+    "ta mensura dentro de los limites de su",
+    "propiedad = El D. informó en Mayo 29",
+    "/86[3?].",
+    "Salas",
+    "[a lápiz, cálculos: 1435 / 4510 / 945 … ; al pie: Giles. 134]"
+   ],
+   "interpretacion": "Nota del D. T. firmada por Salas: Echeverría ya pidió en compra el exceso encontrado dentro de los límites de su propiedad; el Departamento informó el 29 de mayo de 186[3?]. El resto de la hoja tiene cálculos a lápiz y la signatura «Giles 134»."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano topográfico de Saubidet (copia certificada, 1875 [?])",
+   "img": "img/f/134/03.jpg",
+   "fuente": "Toma IMG_0036 (pliego entero)",
+   "orientacion": "apaisado; la recta del «Norte verdadero N 10° 35′ E» cruza el plano en diagonal con su flecha abajo a la derecha; título vertical a la derecha",
+   "interpretacion": "Plano a tinta con el terreno de Echeverría contorneado en CARMÍN y dividido en cuatro por dos rectas finas que se cortan en el mojón del centro; debajo, la franja de Hermenegildo Bernal hasta la línea de Ramón Bustos. Las cotas de cada lado van en varas y metros (p. ej. «N 45° 10′ O 6664 v = 5771 m», «N 45° 35′ E 6100 v = 5282,6 m», «S 46° 10′ E 1997,8 m»). Lagunas en azul junto a los esquineros y en el interior; signos de mojón; puntos rotulados «Est.ª de Echeverría», «Arrend.º» (tres o cuatro ARRENDATARIOS dentro del campo), «H. Bernal», «Pto.» y «Villafañe» del lado de Bustos; «Mojón de arranque» en la esquina N. Linderos: herederos de Mariano Lima, Juan Félix Martínez, Mariano Alegre, Ramón Bustos, Fernando Monsalvo, herederos de Dominga Garzete de Martínez, herederos de Colmeneros, Saturnino Unzué é hijos. Escalas de 7000 varas y 6000 metros. Título: «Plano topográfico del terreno de la propiedad de D.n José M.ª Echeverría situado en el Partido de S.n Andrés de Giles. Medido en el mes de Octubre de 1862 por Pedro Saubidet». Al pie: «Es copia fiel. 8bre 27/75 [?] — Julio Ringuelet [?]». Arriba, a mano moderna: «S. A. de Giles 134».",
+   "referencias": [
+    [
+     "Contorno carmín",
+     "parte de Echeverría (2114,60 ha), con sus cuatro subdivisiones"
+    ],
+    [
+     "Franja inferior",
+     "fracción vendida a Hermenegildo Bernal (998,45 ha; 2000 v de frente)"
+    ],
+    [
+     "Mojón de arranque",
+     "esquinero N, de piedra, esquinero O de Ramón Bustos"
+    ],
+    [
+     "Norte verdadero",
+     "N 10° 35′ E (variación del instrumento)"
+    ],
+    [
+     "Arrend.º",
+     "puntos de arrendatarios dentro del campo"
+    ],
+    [
+     "Est.ª de Echeverría",
+     "casa principal, en la mitad O"
+    ],
+    [
+     "Lagunas",
+     "en azul: cerca del esquinero N, en la línea SE y en el campo de Bernal"
+    ],
+    [
+     "Escalas",
+     "7000 varas y 6000 metros, con retícula"
+    ],
+    [
+     "Copia",
+     "«Es copia fiel 8bre 27/75 [?]», firma Julio Ringuelet [?]"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle del plano: mitad superior",
+   "img": "img/f/134/04.jpg",
+   "fuente": "Toma IMG_0037",
+   "orientacion": "como el general",
+   "interpretacion": "Toma más cercana del rectángulo carmín con los nombres de los linderos del lado de Lima, Martínez y Unzué, las cotas y las lagunas.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle del plano: fracción de Bernal y línea de Bustos",
+   "img": "img/f/134/05.jpg",
+   "fuente": "Toma IMG_0038",
+   "orientacion": "como el general",
+   "interpretacion": "La franja de Hermenegildo Bernal, la recta del norte verdadero y los puntos «H. Bernal», «Pto.» y «Villafañe».",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle del plano: escalas y certificación de la copia",
+   "img": "img/f/134/06.jpg",
+   "fuente": "Toma IMG_0039",
+   "orientacion": "como el general",
+   "interpretacion": "Escalas de 7000 varas y de 6000 metros, rótulos de los herederos de Colmeneros, de Dominga Garzete de Martínez y de Fernando Monsalvo, cota «N 45° 35′ E 6100 v = 5282,6 m» y la certificación «Es copia fiel» con la firma de Julio Ringuelet [?].",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Campo de llanura sin cursos de agua nombrados: el plano dibuja cinco o seis LAGUNAS (una junto a cada esquinero de la línea SE y del NO, otra dentro del campo de Bernal). El agrimensor se orienta casi sólo con construcciones: estancias de Alegre, Hermenegildo y Mariano Bernal, Fernando Monsalvo, Juan Félix Martínez, Ramón Bustos, Benedicto Martínez y del propio Echeverría; la POBLACIÓN de Rufina Acuña; el PUESTO de Aspiri [?]; y el CENTRO DEL MONTE de Mariano Lima, un monte de árboles plantados que ya es hito geodésico. Dentro del campo el plano marca tres o cuatro «Arrend.º»: Echeverría arrienda parte de su legua."
+  },
+  {
+   "titulo": "Ritual",
+   "texto": "Citación de linderos (el original iba agregado), aviso al juez de paz de Giles (no concurre nadie por él), asistencia de todos los linderos o sus encargados, «sin observación ni protesta». Los esquineros N y O son PIEDRAS; los de la subdivisión, MOJONES DE FIERRO; los intermedios, costaneros. Cada esquinero se «avaliza» con tres visuales a casas. El mojón del centro no se mide desde un lado sino que se construye por INTERSECCIÓN de dos alineaciones entre mojones de fierro: una operación geométrica nueva en el corpus."
+  },
+  {
+   "titulo": "Técnica y metrología",
+   "texto": "Rumbos «todos corregidos», variación 10° 35′ NE en octubre de 1862 (cf. 13° en Lemoine 1826, rumbos de la aguja en Eguía 1839, 10° 25′ en Yparraguirre 1883): un punto más para la serie de declinación. Todas las distancias van en VARAS y en METROS con la equivalencia 1 v = 0,866 m (6350 v = 5499,1 m; 2000 v = 1732 m), y la superficie en varas cuadradas y en HECTÁREAS: un uso temprano del doble sistema (el metro se oficializa en la provincia en esos años). Comparación con 1839 (015): NO 6250 → 6350 v; NE 6650 → 6664 v; SE 6070 → 6100 v; SO 2300 + 4260 → 2307 + 4271 v. Las diferencias de 0,2 a 1,6 % explican el nuevo exceso de 15 milésimas de legua (543 430 v² ≈ 40,8 ha) que detecta el D. T. Error de copia: «tres mil ciento tres hectáreas» por «trece», corregido a lápiz."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena completa: enfiteusis de José Rodríguez (medida por Lemoine [?] en 1826) → caducidad del dominio útil → venta del Gobierno (ley del 10/5/1836) a Manuel A. Medrano el 14/11/1837 → reventa a José María Echeverría el 27/11/1837 → mensura de Eguía 1839 y sobrante de 0,138 legua² comprado en 1858 → venta de la franja NE (2000 v) a Hermenegildo Bernal antes de 1862 → subdivisión del resto en cuatro (¿herencia anticipada, venta o arriendo?) → nuevo exceso de 24 cuadras pedido en compra en 1863 [?]. La reventa en trece días muestra a Medrano como intermediario de la venta de tierras públicas rosista. El campo de Rocha (019) aparece ya como de Mariano Alegre."
+  },
+  {
+   "titulo": "Crítica documental",
+   "texto": "La portadilla tenía primero «Sección Areco N.º 26» y otro número de Giles, ambos testados: reordenamiento del archivo al pasar los duplicados de Areco a Giles. El copista escribió «la Villa de Mercedes» como partido y lo salvó. El plano no es el original de 1862 sino una COPIA certificada en octubre de 1875 [?] por Julio Ringuelet [?]. En el margen superior del f. 3, «Kuhr» en otra letra (¿Germán Kuhr, agrimensor de la Ficha 020, como revisor o copista?). Lecturas dudosas: Lemoine (el agrimensor de 1826), Mariano Bernal (¿o Hermenegildo?), Aspiri, Lázaro Otero, el año del informe (186[3?]) y la fecha de la copia."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "(1) 015 (Echeverría, Eguía 1839): misma tierra; aquí se reproduce el extracto de aquella mensura y se confirma que el lado SO tenía 2300 + 4260 v (no 4260 en total). (2) 013 y 019 (Saraví / Rocha): el lindero NO pasa de Rocha a Mariano Alegre. (3) 003 y 011 (Pascuala Romero, Fernando Monsalvo): lindero E. (4) 054 (Colmenero) y 055 (Mariano Lima): linderos SE y SO; el «sobrante de 1840 (Unzué)» de 054-055 explica a Saturnino Unzué e hijos en el esquinero S. (5) 061 (Juan Félix Martínez y Aranguren, 1871): su lindero NE es «José M. Chavarría = Echevarría»: este campo. (6) 070 (Gorostiaga, cañada de Moyano) y 052-053-063 (Gutiérrez): mismo rincón SO del partido. (7) 020 (Germán Kuhr). (8) La «P. Acuña» del plano de 1839 es la población de Rufina Acuña de 1862."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Para quién son las cuatro fracciones: herederos, compradores o arrendatarios? ¿Hermenegildo y Mariano Bernal son parientes, y quién es el «encargado» Lázaro Otero? ¿Dónde estaba el monte de Mariano Lima y la población de Rufina Acuña? ¿Por qué se copió el plano en 1875 (¿nueva venta o juicio sucesorio?). Georreferenciar con 015, 054, 055 y 061 usando la equivalencia en metros que da Saubidet."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "José María Echeverría",
+   "rol": "Propietario",
+   "texto": "Compró en 1837 una legua cuadrada a Manuel A. Medrano, la hizo medir por Eguía en 1839 (Ficha 015), compró el sobrante en 1858, vendió una franja a Hermenegildo Bernal y en 1862 hizo remedir y subdividir el resto; tenía su estancia en la mitad O del campo y arrendatarios dentro. En 1871 aparece como «José M. Chavarría» lindero de la Ficha 061. Sin datos biográficos en la web.",
+   "fuentes": "fichas 015, 061, 134; búsqueda web sin resultados"
+  },
+  {
+   "nombre": "Pedro Saubidet",
+   "rol": "Agrimensor",
+   "texto": "Primera aparición en el corpus. Escribe distancias en varas y metros y superficies en hectáreas ya en 1862. Apellido de origen vasco-francés presente en la provincia (la familia Saubidet de Buenos Aires); no se halló información sobre su actuación profesional.",
+   "fuentes": "esta mensura; búsqueda web sin resultados"
+  },
+  {
+   "nombre": "Manuel A. Medrano",
+   "rol": "Comprador al gobierno",
+   "texto": "Compró la tierra al Gobierno de Rosas el 14/11/1837 y la revendió a Echeverría el 27/11/1837 ante Miguel Mogrovejo.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "José Rodríguez",
+   "rol": "Enfiteuta",
+   "texto": "Poseía la legua en enfiteusis y perdió el dominio útil; su casa era visual de Eguía en 1839 (015) y su hijo José María indicó un mojón en 019.",
+   "fuentes": "fichas 015, 019, 134"
+  },
+  {
+   "nombre": "Hermenegildo Bernal y Mariano Bernal",
+   "rol": "Comprador / vecino",
+   "texto": "Hermenegildo compró a Echeverría la franja NE (998,45 ha) y tiene estancia propia; Mariano Bernal tiene otra estancia visible desde el S y su encargado, Lázaro Otero [?], representa a los herederos de Colmenero.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Manuel Eguía y Carlos Eguía",
+   "rol": "Agrimensor 1839 / juez 1862",
+   "texto": "Manuel Eguía midió el campo en 1839 y es el agrimensor más frecuente de las décadas de 1830-1850 en el corpus; el juez civil que comisiona a Saubidet en 1862 es el Dr. Carlos Eguía (cf. «Carlos Eguía» en la Ficha 029).",
+   "fuentes": "fichas 003, 010, 015, 029, 134"
+  },
+  {
+   "nombre": "Linderos",
+   "rol": "Varios",
+   "texto": "Mariano Alegre (ex Rocha), Ramón Bustos, Fernando Monsalvo (cf. 003, 037), Saturnino Unzué e hijos (cf. 054-055), herederos de Ramón Colmenero (054), herederos de Dominga Garcete (Garzete) de Martínez, Juan Félix Martínez (061), herederos de Mariano Lima (055) y su heredero Juan Lima, Benedicto Martínez; representantes: Gil M.ª Tapia y José G. Gutiérrez. Vecinos: Rufina Acuña, Aspiri [?], Villafañe.",
+   "fuentes": "esta mensura y fichas citadas"
+  },
+  {
+   "nombre": "Salas, Moreno, Malaver; Julio Ringuelet [?]",
+   "rol": "Departamento topográfico / copista",
+   "texto": "Firmantes del dictamen del 6/12/1862 (Salas firma también la nota sobre el exceso). Ringuelet [?] certifica la copia del plano en 1875 [?]; el apellido es el de la familia que da nombre a la localidad de Ringuelet (La Plata), sin que se haya podido confirmar el vínculo.",
+   "fuentes": "esta mensura; búsqueda web sin resultados específicos"
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/134/02.jpg",
+  "fuente": "Toma IMG_0025",
+  "lineas": [
+   "~~Seccion Areco~~",
+   "~~N^{o}. 26~~",
+   "Giles ~~20~~ [?]",
+   "134.",
+   "Duplicado de las diligencias de mensura",
+   "del terreno de la propiedad de Don",
+   "José María Echeverria",
+   "Situado en el Partido de S^{n}. Andres de Giles",
+   "Medido en el mes de Octubre de 1862.",
+   "Por el Agrimensor Pedro Saubidet"
+  ]
+ },
+ "titulo": "José María Echeverría",
+ "estado": "Transcripta (10 hojas, 330 renglones), 4 láminas"
+}
