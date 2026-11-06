@@ -1,0 +1,803 @@
+{
+ "carpeta": "138",
+ "carpeta_nombre": "Carpeta 138",
+ "archivo": "Ficha 138 - Pedro B. Ninet (1884).docx",
+ "resumen": {
+  "Propietario / solicitante": "Pedro B. Ninet",
+  "N.º de duplicado": "138",
+  "Agrimensor": "Apolinario Orlandini",
+  "Año": "1884",
+  "Fecha de la diligencia": "Cargo 27/10/1884; mensura 11 [?]/11/1884; firma 30/11/1884; D. I. 16/12/1884",
+  "Ubicación": "Cañada del Sauce, S del pueblo, junto al campo municipal; origen de Villa Espil",
+  "Orden judicial": "Juez Dr. Luis María Drago (Mercedes); secr. Rafael Rodríguez Brizuela",
+  "Vendedor / antecesor": "Romana Díaz, Atanacia D. de Ortiz (her. de José Díaz), Solano Lescano, Toribio González",
+  "Linderos citados": "Arévalo, B. Salas, Fernando Díaz, A. y S. Lescano, D. Acuña, P. Peñalva, Nieto, Veloz, Flores",
+  "Medidas": "1.ª 785 × 2515 m; 2.ª-3.ª 621-630 × 3121 m; 4.ª 430 × 2594 m; 5.ª 734-742 × 1503 m",
+  "Rumbos": "N 58° 51′ E; N 31° 38′ O; N 57° 33′ E; S 31° 57′ E",
+  "Referencia de archivo": "AHG-PBA, duplicado 138 de S. A. de Giles"
+ },
+ "metricas": {
+  "superficie_ha": "590,26 (1.ª 171,94; 2.ª-3.ª 194,94; 4.ª 112,49; 5.ª 110,88)",
+  "hitos": "mojones de ñandubay y uno de piedra; alambrados de Ninet y de Nieto; camino a Luján; terreno municipal",
+  "aguas": "Cañada del Sauce"
+ },
+ "sintesis": "En noviembre de 1884 Apolinario Orlandini mide las cinco fracciones que Pedro B. Ninet había ido comprando desde 1882 al S del pueblo, sobre la cañada del Sauce: dos piezas sueltas salidas de Romana Díaz y un bloque de tres (Solano Lescano, Toribio González, Atanacia Díaz de Ortiz) pegado al campo municipal y al camino a Luján. Los títulos muestran cómo se arma un campo en los años 1880: una información posesoria por treinta años de ocupación, una dación en pago al gestor y herencias de los Díaz y los Lescano (059, 045). La 1.ª fracción tiene un sobrante de 3,8 ha y tres ubicaciones posibles, que el D. I. deja a decisión del interesado. En la 5.ª nacerá la Villa Espil.",
+ "caratula": {
+  "img": "img/f/138/01.jpg",
+  "fuente": "Toma IMG_0066",
+  "campos": [
+   [
+    "Número",
+    "N.º 138 (ambos ángulos)"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Repartición",
+    "Dirección de Geodesia y Catastro de la Provincia de Buenos Aires"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Don Pedro B. Ninet"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Apolinario Orlandini"
+   ],
+   [
+    "Mes / Año",
+    "Noviembre / 1884"
+   ],
+   [
+    "Juzgado / Secretaría / Duplicados de referencia",
+    "en blanco"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Encabezamiento; extracto de títulos: información posesoria de Romana Díaz (1880) y dación en pago a Nicolás Rosendi [?] (Mercedes, 5/1/1881); venta a Francisco González (26/3/1881)",
+   "img": "img/f/138/09.jpg",
+   "fuente": "Toma IMG_0068",
+   "nota": "Letra cursiva rápida de Orlandini, inclinada y de trazo fino; sello «Foja 1»; al margen, a lápiz, las medidas del título (732,632 × 6841 m; ídem × 1500 m).",
+   "lineas": [
+    "[sello: Foja 1]",
+    "Duplicado de la diligencia de",
+    "mensura de los terrenos pertenecientes á",
+    "D. Pedro B. Ninet, ubicados en el par-",
+    "tido de San Andres de Giles.",
+    "Extracto de títulos",
+    "1881 – Enero 5 – En la Ciudad de Mercedes, y ante el",
+    "Escribano Silvestre Esquivel, D^{a}. Romana",
+    "Diaz declara que D. Nicolas Rosendi [?] ha sido",
+    "su representante en el expediente que inició an-",
+    "te el Juzgado Civil y Comercial de Mercedes",
+    "el año 1880, sobre informacion, para acredi-",
+    "tar la propiedad q^{e}. tiene á un terreno",
+    "de campo situado en Giles, compuesto de sete-",
+    "cientos treinta y dos metros seiscientos treinta",
+    "y dos milímetros de frente por seis mil ocho-",
+    "cientos cuarenta y un metros cuatrocientos",
+    "milímetros de fondo, cuyo título se le habia",
+    "extraviado. D^{a}. Romana Diaz da en pro-",
+    "piedad á D. Nicolas Rosendi [?], en compensacion",
+    "de su trabajo, una fraccion del referido campo, q^{e}.",
+    "se compondrá del mencionado frente por",
+    "por mil quinientos metros de fondo; lindando",
+    "al Norte con ~~otros~~ campo de la otorgante,",
+    "al Sud con Basilio Salas, al Este con",
+    "Francisco Arévalo, y al Oeste con Toribio",
+    "Gonzalez y Fernando Diaz",
+    "1881. Marzo 26 – En Giles, y ante el Escribano del",
+    "Rio, D. Nicolas Rosendi [?] vende á D. Fran-",
+    "cisco Gonzalez el terreno q^{e}. le confirió D^{a}. Ro-",
+    "mana Diaz en 5 de Enero del 881. Linda al Norte",
+    "[al margen, a lápiz: 732,632 m frente · 6841 m fondo; ídem frente por 1500 m fondo]"
+   ],
+   "interpretacion": "Duplicado de la mensura de los terrenos de PEDRO B. NINET en San Andrés de Giles. Extracto de títulos de la 1.ª fracción: 5/1/1881, Mercedes, escribano Silvestre Esquivel: ROMANA DÍAZ declara que NICOLÁS ROSENDI [?] la representó en el expediente de INFORMACIÓN que inició en 1880 ante el juzgado civil y comercial de Mercedes para acreditar la propiedad de un campo en Giles de 732,632 m de frente × 6841,4 m de fondo, «cuyo título se le había extraviado»; en COMPENSACIÓN DE SU TRABAJO le da en propiedad una fracción del mismo frente × 1500 m de fondo, entre la otorgante (N), Basilio Salas (S), Francisco Arévalo (E) y Toribio González y Fernando Díaz (O). 26/3/1881, en Giles, ante el escribano Del Río: Rosendi vende esa fracción a FRANCISCO GONZÁLEZ…"
+  },
+  {
+   "titulo": "Folio 1 v. · Venta de Francisco González a Ninet (11/8/1884); compra a Atanacia Díaz de Ortiz (26/12/1883: 500 × 3000 v, Cuartel 2.º, herencia de José Díaz)",
+   "img": "img/f/138/10.jpg",
+   "fuente": "Toma IMG_0069 · página izquierda",
+   "nota": "Toma IMG_0069, página izquierda.",
+   "lineas": [
+    "con Romana Diaz, al Sud con Ba-",
+    "silio Salas, al Este con Francisco Aréva-",
+    "lo, y al Oeste con Toribio Gonzalez. Le",
+    "corresponde por dacion que de él hizo",
+    "D^{a}. Romana Diaz en compensa-",
+    "cion de honorarios y gastos, segun",
+    "aparece de la escritura que le otorgó en",
+    "5 de Enero del 1881, ante el Escribano de",
+    "Mercedes D. Silvestre Esquivel.",
+    "1884 – Agosto 11 – En San Andrés de Giles,",
+    "y ante el Escribano del Rio, D. Fran-",
+    "cisco Gonzalez vende á D. Pedro B. Ninet",
+    "el mismo terreno q^{e}. compró á D. Rosen-",
+    "di [?] en 26 de Marzo de 1881, ante el mis-",
+    "mo Escribano.",
+    "1883. – Diciembre 26 – En San Andrés de",
+    "Giles, y ante el Escribano D. Fernando",
+    "del Rio, D^{a}. Atanacia Diaz de Ortiz",
+    "vende á D. Pedro B. Ninet un terreno",
+    "de pastoreo, situado en el Cuartel segun-",
+    "do de este partido, compuesto de quinien-",
+    "tas varas de frente por tres mil varas",
+    "de fondo; linda al Sud-Este con otra frac-",
+    "cion vendida á Toribio Gonzalez, al Nord-",
+    "Oeste con Fernando Diaz y Paulino Pe-",
+    "ñalva, al Sud-Oeste con Dionisio Acu-",
+    "ña y con el comprador Ninet y al Nord-",
+    "Este con mas terreno de la vendedora, que es",
+    "parte del que le correspondió por herencia",
+    "de su padre D. José Diaz, segun consta",
+    "de la hijuela espedida por el Juez de 1^{a}. Ins-"
+   ],
+   "interpretacion": "… linda con Romana Díaz, Basilio Salas, Francisco Arévalo y Toribio González; se la dio Romana Díaz «en compensación de honorarios y gastos» (5/1/1881). 11/8/1884: Francisco González vende el mismo terreno a PEDRO B. NINET ante Del Río. 4.ª fracción: 26/12/1883, ante Fernando del Río, ATANACIA DÍAZ DE ORTIZ vende a Ninet un terreno de pastoreo en el CUARTEL SEGUNDO, de 500 v × 3000 v, entre Toribio González (SE), Fernando Díaz y Paulino Peñalva (NO), Dionisio Acuña y el propio Ninet (SO) y la vendedora (NE); es parte de lo que heredó de su padre JOSÉ DÍAZ según la hijuela expedida por el juez de 1.ª instancia…"
+  },
+  {
+   "titulo": "Folio 2 · Hijuela de Atanacia Díaz (1861); 2.ª y 3.ª fracciones: compra a Solano Lescano (23/1/1883) y a Toribio González (19/6/1882)",
+   "img": "img/f/138/11.jpg",
+   "fuente": "Toma IMG_0069 · página derecha",
+   "nota": "Toma IMG_0069, página derecha; sello «Foja 2».",
+   "lineas": [
+    "[sello: Foja 2]",
+    "tancia por el Escribano Silva en",
+    "6 de Diciembre del 1861.",
+    "1883 – Enero 23 – En San Andres de Giles, y ante",
+    "el Escribano Fernando del Rio – Don So-",
+    "lano Lescano vende á Don Pedro B. Ninet",
+    "un terreno de pastoreo situado en este par-",
+    "tido, que mide seiscientos veinte y cuatro",
+    "metros noventa y cuatro centímetros de",
+    "frente por mil cuatrocientos setenta y",
+    "dos metros veinte centímetros de fondo; lin-",
+    "da al Norte con Atanacia Diaz, al Sud",
+    "con Alejandro Lescano, al Este con Dio-",
+    "nisio Acuña y al Oeste con el comprador",
+    "Ninet. Es parte del que le correspondió",
+    "por herencia de sus padres Francisco Les-",
+    "cano y Petrona Lopez y de su hermana",
+    "Justa Lescano, segun aparece de los au-",
+    "tos testamentarios q^{e}. tramitaron por el Juz-",
+    "gado del Dr. D. José A. de Zavalía y Escri-",
+    "banía de D. Nicanor L. Pancati [?], en 26 de",
+    "Julio 1869, como resulta de su hijuela espedida",
+    "en 27 de Setiembre del 1876.",
+    "1882 – Junio 19 – En San Andrés de Giles y ante el Escribano",
+    "D. Fernando del Rio, D. Toribio Gonzalez vende",
+    "á D. Pedro B. Ninet un terreno de pastoreo ubi-",
+    "cado en este partido, cuya superficie es de un",
+    "millon trescientos setenta y dos mil quinien-",
+    "tas varas cuadradas, linda al Norte con Atanacia",
+    "Diaz, al Sud con Alejandro Lescano, al Este",
+    "con Solano Lescano, y al Oeste con ~~con~~ terre-",
+    "no Municipal. Le corresponde por compra"
+   ],
+   "interpretacion": "… ante el escribano Silva el 6/12/1861. 3.ª fracción: 23/1/1883, ante Del Río, SOLANO LESCANO vende a Ninet 624,94 × 1472,20 m, entre Atanacia Díaz (N), Alejandro Lescano (S), Dionisio Acuña (E) y el comprador (O); la heredó de sus padres FRANCISCO LESCANO y PETRONA LÓPEZ y de su hermana JUSTA LESCANO (testamentaría ante el juez José A. de Zavalía y el escribano Nicanor L. Pancati [?], 26/7/1869; hijuela del 27/9/1876). 2.ª fracción: 19/6/1882, TORIBIO GONZÁLEZ vende a Ninet 1 372 500 v² entre Atanacia Díaz (N), Alejandro Lescano (S), Solano Lescano (E) y TERRENO MUNICIPAL (O)…"
+  },
+  {
+   "titulo": "Folio 2 v. · Origen de la 2.ª fracción (compras de Toribio González a Solano Lescano, 1878 y 1882); 5.ª fracción: Romana Díaz vende a Ninet (3/2/1882) un campo poseído «por más de treinta años»; aceptación del cargo (27/10/1884)",
+   "img": "img/f/138/12.jpg",
+   "fuente": "Toma IMG_0070 · página izquierda",
+   "nota": "Toma IMG_0070, página izquierda.",
+   "lineas": [
+    "que de él hizo en dos fracciones á Don Solano",
+    "Lescano segun las escrituras q^{e}. respectiva-",
+    "mente le otorgó en 23 de Enero de 1878, ante",
+    "el Escribano de la Ciudad Don José E. Gonzalez,",
+    "y 23 de Enero de 1882 ante el Escribano de Giles",
+    "D. Fernando del Rio.",
+    "1882 – Febrero 3 – En la Ciudad de Mercedes",
+    "y ante el Escribano D. Nicanor L. Pancati [?],",
+    "D^{a}. Romana Diaz vende á D. Pedro B.",
+    "Ninet una fraccion de terreno de pastoreo,",
+    "situado en el partido de San Andrés de Giles,",
+    "compuesta de ochocientas cuarenta y seis va-",
+    "ras de frente al Norte por dos mil setecien-",
+    "tas cincuenta varas de fondo al Sud, lin-",
+    "dando al Norte con Juan Silva, al Este con",
+    "Francisco Arévalo, al Oeste con Fernando",
+    "Diaz y al Sud con mas campo que",
+    "se reserva la vendedora. El terreno deslin-",
+    "dado corresponde á D^{a}. Romana",
+    "Diaz con mayor estension por haberlo",
+    "poseido por mas de treinta años sin in-",
+    "terrupcion y á título de dominio, segun",
+    "se comprueba por la informacion produ-",
+    "cida ante el Juzgado de 1^{a}. Instancia de",
+    "la Ciudad de Mercedes y aprobada judicial-",
+    "mente en Octubre 13 de 1880.",
+    "Con fecha 27 de Octubre del 884 acepté el cargo",
+    "y en 6 de Noviembre del mismo año tomé",
+    "antecedentes en el Departamento de Ingenieros",
+    "de la Provincia de Buenos Aires. —"
+   ],
+   "interpretacion": "… que Toribio González había comprado a Solano Lescano en dos fracciones (23/1/1878, escribano José E. González de Mercedes; 23/1/1882, Del Río). 5.ª fracción: 3/2/1882, Mercedes, escribano Nicanor L. Pancati [?]: ROMANA DÍAZ vende a Ninet 846 v de frente al N × 2750 v de fondo, entre Juan Silva (N), Francisco Arévalo (E), Fernando Díaz (O) y lo que se reserva (S). El campo le corresponde «con mayor extensión por haberlo POSEÍDO POR MÁS DE TREINTA AÑOS sin interrupción y a título de dominio», según la información aprobada por el juzgado de Mercedes el 13/10/1880: es una PRESCRIPCIÓN ADQUISITIVA. Orlandini acepta el cargo el 27/10/1884 y el 6/11 toma antecedentes en el Departamento de Ingenieros."
+  },
+  {
+   "titulo": "Folio 3 · Mensura (11 [?]/11/1884): cinco títulos, cinco fracciones (1.ª y 5.ª separadas, de Romana Díaz; 2.ª y 3.ª de Solano Lescano y 4.ª de Atanasia Díaz, unidas); 1.ª fracción, A-B contra Romana Díaz",
+   "img": "img/f/138/13.jpg",
+   "fuente": "Toma IMG_0070 · página derecha",
+   "nota": "Toma IMG_0070, página derecha; sello «Foja 3». Tinta muy desvaída en la primera mitad.",
+   "lineas": [
+    "[sello: Foja 3]",
+    "Mensura.",
+    "En el partido de San Andrés de Giles á once [?]",
+    "de Noviembre de mil ochocientos ochenta y cuatro,",
+    "previa citacion de linderos y publicacion de",
+    "edictos en los diarios que se acompañan dí prin-",
+    "cipio á la operacion de medir, deslindar y",
+    "amojonar las cinco fracciones de terreno perte-",
+    "necientes á D. Pedro B. Ninet.",
+    "Como se espresa en el estracto, hai cinco",
+    "títulos que corresponden á otras tantas fracciones",
+    "de terreno.",
+    "Las fracciones designadas en el expediente",
+    "como 1^{a}. y 5^{a}. – se originan de D^{a}. Ro-",
+    "mana Diaz, se encuentran completa-",
+    "mente separadas entre sí.",
+    "Las designadas como 2^{a}. y 3^{a}. – se originan",
+    "de Solano Lescano – y la 4^{a}. de Atanasia",
+    "Diaz de Ortiz. – Estas tres fracciones estan",
+    "unidas. –",
+    "La mensura se practicó como sigue: –",
+    "Primera fraccion – (Título 1681326 ^{m. c.})",
+    "Del punto A, que es un mojon de",
+    "ñandubay, esquinero Sud del terreno que mido y",
+    "Oeste de Romana Diaz – medí las lineas",
+    "siguientes: –",
+    "AB. – Rumbo Norte cincuenta y ocho grados cincuen-",
+    "ta y un minutos Este. – Deslindando con Roma-",
+    "na Diaz. – Mide setecientos sesenta [?] y siete metros",
+    "seis decímetros hasta B de ñandubay, esquinero",
+    "Este de la 1^{a}. fraccion y Norte de Romana Diaz"
+   ],
+   "interpretacion": "Con citación y edictos en los diarios, Orlandini empieza a medir, deslindar y amojonar las CINCO fracciones de Ninet: las designadas 1.ª y 5.ª provienen de Romana Díaz y están separadas entre sí; la 2.ª y 3.ª de Solano Lescano y la 4.ª de Atanasia Díaz de Ortiz están unidas. 1.ª fracción (título 1 681 326 m²): desde A, mojón de ñandubay esquinero S y O de Romana Díaz, A-B N 58° 51′ E 767,6 [?] m contra Romana Díaz hasta B de ñandubay…"
+  },
+  {
+   "titulo": "Folio 3 v. · 1.ª fracción: A-D contra el sobrante del Estado (cañada del Sauce, alambrado), D-C contra Rufino Nieto, Segunda V. de Flores y Agustín Veloz, C-B contra Francisco Arévalo",
+   "img": "img/f/138/14.jpg",
+   "fuente": "Toma IMG_0071 · página izquierda",
+   "nota": "Toma IMG_0071, página izquierda.",
+   "lineas": [
+    "sobre el deslinde con ~~...~~ Francisco Arévalo –",
+    "Alambrado sobre la linea. –",
+    "AD. – Rumbo Norte treinta y un grados trein-",
+    "ta y ocho minutos Oeste. – Deslindando con so-",
+    "brante que corresponde al Estado. – Mide dos",
+    "mil doscientos catorce metros cinco decíme-",
+    "tros hasta D mojon de piedra, esquinero Oes-",
+    "te de Ninet y Norte de una zona de tierra so-",
+    "brante que separa á Ninet de Santiago Gly-",
+    "sson – sobre el deslinde con Nieto. – En esta",
+    "linea á cinco metros cañada del Sauce; hai un",
+    "alambrado que termina á setecientos ochenta y tres",
+    "metros; á mil ciento y siete metros mojon de ñan-",
+    "dubay; á mil setecientos metros coloqué otro.",
+    "DC. – Rumbo Norte cincuenta y ocho grados",
+    "cuarenta y siete minutos Este. – Deslindando",
+    "con Rufino Nieto, Segunda V. de Flores",
+    "y Agustin Veloz. – Mide setecientos ochenta",
+    "y cinco metros hasta el mojon C de ñandu-",
+    "bay, esquinero Norte de Ninet, Oeste de Aré-",
+    "valo y costanero de A. Veloz. – En esta linea",
+    "á trescientos diez y nueve metros seis decímetros",
+    "termina el alambrado de Rufino Nieto y em-",
+    "pieza el terreno de Segunda V. de Flores. – á",
+    "trescientos cincuenta metros dos decímetros mo-",
+    "jon costanero, á setecientos cuarenta y un metros",
+    "dos decímetros esquinero comun de Segunda V. de",
+    "Flores y de Agustin Veloz. –",
+    "C.B. – Rumbo Sud treinta y un grados once",
+    "minutos Este. – Deslindando con Francisco",
+    "Arévalo. – Mide dos mil quinientos quince me-",
+    "tros treinta y cuatro centímetros hasta B ya"
+   ],
+   "interpretacion": "… sobre el deslinde con Francisco Arévalo; alambrado sobre la línea. A-D N 31° 38′ O 2214,5 m contra un SOBRANTE DEL ESTADO hasta D, MOJÓN DE PIEDRA, esquinero O de Ninet y N de una zona de tierra sobrante que separa a Ninet de SANTIAGO GLYSSON; a 5 m la CAÑADA DEL SAUCE; un alambrado termina a 783 m; mojones a 1107 y 1700 m. D-C N 58° 47′ E 785 m contra RUFINO NIETO (su alambrado termina a 319,6 m), SEGUNDA V. DE FLORES y AGUSTÍN VELOZ (esquinero común a 741,2 m), hasta C de ñandubay. C-B S 31° 11′ E 2515,34 m contra Francisco Arévalo hasta B…"
+  },
+  {
+   "titulo": "Folio 4 · 1.ª fracción: cruce de la cañada del Sauce; superficie 171,94 ha y sobrante de 38 090 m²; nota sobre el exceso y la falta, y tres ubicaciones posibles del título",
+   "img": "img/f/138/15.jpg",
+   "fuente": "Toma IMG_0071 · página derecha",
+   "nota": "Toma IMG_0071, página derecha; sello «Foja 4». Cruces (×) y corchete al margen, de la oficina.",
+   "lineas": [
+    "[sello: Foja 4]",
+    "descrito. – En esta linea á los quinientos",
+    "catorce metros puse mojon; á mil ciento",
+    "siete metros seis decímetros hallé mojon;",
+    "á mil trescientos ochenta metros tres decímetros",
+    "empieza un alambrado de Ninet; á dos mil",
+    "setenta y cinco metros crucé la Cañada del",
+    "Sauce.",
+    "[al margen: ×] Superficie: – Un millon setecientos diez",
+    "y nueve ~~metros~~ mil cuatrocientos diez y seis metros",
+    "cuadrados. ×",
+    "[al margen: ×] Sobrante – Treinta y ocho mil noventa",
+    "metros cuadrados ×",
+    "Nota. – Segun la escritura deberia tener",
+    "sobre AB y DC setecientos treinta y dos metros",
+    "seiscientos treinta y seis milímetros de frente por dos mil",
+    "doscientos noventa y cuatro metros nueve deci-",
+    "metros de fondo y su ubicacion seria AB'C'D',",
+    "resultando en AB un exceso de treinta y cinco",
+    "metros. – CD. – otro exceso de cincuenta y dos",
+    "metros cuatro decímetros y en el fondo, costado",
+    "CB una falta de setenta y nueve metros",
+    "seis decímetros, y en el costado DA otra falta",
+    "de ochenta metros cuatro decímetros. – Esto se",
+    "esplica por que el terreno originario se va",
+    "ensanchando desde setecientos treinta y cuatro",
+    "metros que mide el frente del Sud-Este hasta",
+    "setecientos ochenta y cinco metros que tiene",
+    "el de Nord-Oeste. –",
+    "Por otra parte, si se hace la ubicacion del",
+    "título de Ninet dentro de los límites existentes",
+    "del terreno primitivo de Romana Diaz,",
+    "resultaria el polígono A''B''C D, descontándose"
+   ],
+   "interpretacion": "En C-B: mojones a 514 y 1107,6 m, alambrado de Ninet desde 1380,3 m, CAÑADA DEL SAUCE a 2075 m. Superficie 1 719 416 m²; SOBRANTE 38 090 m² (la cifra anotada a lápiz en la portadilla). Nota: según la escritura debería tener 732,636 m de frente × 2294,9 m de fondo (A B′ C′ D′): hay en A-B un exceso de 35 m y en C-D de 52,4 m, y en los costados C-B y D-A faltas de 79,6 y 80,4 m. Se explica porque el terreno originario se ENSANCHA de 734 m en el frente SE a 785 m en el NO. Si se ubica el título dentro de los límites del terreno primitivo de Romana Díaz resultaría el polígono A″ B″ C D…"
+  },
+  {
+   "titulo": "Folio 4 v. · El sobrante corresponde a Romana Díaz; las partes deciden entre tres ubicaciones; linderos de la 1.ª fracción; error de superficie en el título; 5.ª fracción, A-B contra Basilio Salas",
+   "img": "img/f/138/16.jpg",
+   "fuente": "Toma IMG_0072 · página izquierda",
+   "nota": "Toma IMG_0072, página izquierda.",
+   "lineas": [
+    "del polígono ABCD de que hoi está en pose-",
+    "sion el cuadrilátero ABA''B'', que corresponde",
+    "al sobrante de treinta y ocho mil noventa",
+    "metros cuadrados que excede del 2 % y que per-",
+    "tenece evidentemente á la vendedora D^{a}. Ro-",
+    "mana Diaz.",
+    "Toca á las partes decidir sobre las tres ubi-",
+    "caciones que se han señalado.",
+    "Linderos. – Por el Nord-Este Francisco",
+    "Arévalo – por el Nord-Oeste Agustin Veloz,",
+    "Segunda V. de Flores y Rufino Nieto – por",
+    "el Sud-Este el Sobrante del Estado, en terre-",
+    "no de Fernando Diaz – y por el Sud-Oeste",
+    "Romana Diaz.",
+    "Nota. – En el título de la primera fraccion",
+    "aparece una superficie de un millon seiscien-",
+    "tos setenta y dos mil novecientos cincuenta y",
+    "cuatro metros cuadrados debiendo ser de un",
+    "millon seiscientos ochenta y un mil tres-",
+    "cientos veinte y seis metros cuadrados, segun",
+    "las dimensiones que se dán del frente y fondo",
+    "de esta fraccion. –",
+    "[al margen: ×] Quinta fraccion [Título 1.098948 ^{m. c.}]",
+    "Del punto A, donde hai un mojon de ñandu-",
+    "bay, esquinero Sud de Ninet – Este de Toribio",
+    "Gonzalez y costanero de Basilio Salas. – Medí las",
+    "lineas siguientes: –",
+    "AB. – Rumbo Norte cincuenta y ocho grados",
+    "un minuto Este. – Deslindando con Basilio",
+    "Salas. – Mide setecientos treinta y cuatro"
+   ],
+   "interpretacion": "… descontándose del polígono ABCD que posee Ninet el cuadrilátero A B A″ B″, que corresponde al sobrante de 38 090 m², excede el 2 % y pertenece «evidentemente» a la vendedora Romana Díaz. «Toca a las partes decidir sobre las tres ubicaciones que se han señalado.» Linderos: NE Francisco Arévalo; NO Agustín Veloz, Segunda V. de Flores y Rufino Nieto; SE el sobrante del Estado, en terreno de Fernando Díaz; SO Romana Díaz. Nota: el título da 1 672 954 m² cuando por sus medidas son 1 681 326. 5.ª fracción (título 1 098 948 m²): desde A, mojón de ñandubay esquinero S de Ninet, E de Toribio González y costanero de Basilio Salas: A-B N 58° 1′ E 734 m contra Basilio Salas…"
+  },
+  {
+   "titulo": "Folio 5 · 5.ª fracción: B-C contra Arévalo, C-D contra Romana Díaz, A-D contra Toribio González; superficie 110,88 ha; sobrante de 9877 m² (menos del 1 %)",
+   "img": "img/f/138/17.jpg",
+   "fuente": "Toma IMG_0072 · página derecha",
+   "nota": "Toma IMG_0072, página derecha; sello «Foja 5».",
+   "lineas": [
+    "[sello: Foja 5]",
+    "metros hasta B, esquinero Este de la fraccion,",
+    "Norte de Salas y costanero de Arévalo.",
+    "BC. – Rumbo Norte treinta y un grados diez y ocho",
+    "minutos Oeste. – Deslindando con Francisco",
+    "Arévalo. – Mide mil quinientos tres metros",
+    "hasta C, esquinero Norte de Ninet y Este de",
+    "Romana Diaz. En esta linea á cuatrocien-",
+    "tos cuarenta y dos metros mojon costanero; á",
+    "setecientos setenta se puso mojon.",
+    "CD. – Rumbo Sud cincuenta y siete grados cincuenta",
+    "y cinco minutos Oeste. – Deslindando con Ro-",
+    "mana Diaz. – Mide setecientos cuarenta y dos me-",
+    "tros tres decímetros hasta D, esquinero Oeste de",
+    "Ninet y Sud de Romana Diaz. – En esta",
+    "linea á trescientos noventa y dos metros se puso",
+    "mojon.",
+    "AD. – Rumbo Norte treinta y un grados treinta y ocho",
+    "minutos Oeste. – Deslindando con Toribio Gonzalez",
+    "Mide mil quinientos un metros seis decímetros",
+    "hasta D, ya descrito. – En esta linea á setecientos",
+    "treinta y tres metros puse mojon, – á mil",
+    "sesenta y un metros otro. –",
+    "[al margen: ×] Superficie: – Un millon ciento ocho mil",
+    "ochocientos veinte y cinco metros cuadrados ×",
+    "[al margen: ×] Sobrante. – Nueve mil ochocientos setenta",
+    "y siete metros cuadrados, que no alcanza al 1 %",
+    "sin embargo, su ubicacion se determina",
+    "con el polígono C D D'' C'', cuyo costado C''D'' dista",
+    "del existente en el terreno C D trece metros tres",
+    "decímetros. —",
+    "[a lápiz: 9.877 m^{2}]"
+   ],
+   "interpretacion": "B, esquinero E, N de Salas y costanero de Arévalo. B-C N 31° 18′ O 1503 m contra Francisco Arévalo (mojones a 442 y 770 m). C-D S 57° 55′ O 742,3 m contra Romana Díaz (mojón a 392 m). A-D N 31° 38′ O 1501,6 m contra Toribio González (mojones a 733 y 1061 m). Superficie 1 108 825 m²; sobrante 9877 m², menos del 1 %; aun así se ubica en el polígono C D D″ C″, cuyo lado C″ D″ dista 13,3 m del C-D existente."
+  },
+  {
+   "titulo": "Folio 5 v. · 2.ª y 3.ª fracciones unidas (194,94 ha): A-B contra el terreno municipal (Fernando Peláez; camino a Luján), A-D contra Alejandro Lescano (cañada del Sauce)",
+   "img": "img/f/138/18.jpg",
+   "fuente": "Toma IMG_0073 · página izquierda",
+   "nota": "Toma IMG_0073, página izquierda. Las superficies parciales encabezan la página como cuenta.",
+   "lineas": [
+    "2^{a}. y 3^{a}. Fraccion",
+    "Sup.: – 2^{a}. fr^{n}. = 1029314,61 ^{m. c.}",
+    "Sup.: – 3^{a}. fr^{n}. = 920110,29",
+    "Sup.: – 2^{a}. y 3^{a}. = 1.949425 ^{m. c.}",
+    "Arranqué del punto A, esquinero Oeste de",
+    "la 2^{a}. fraccion y Norte de Alejandro Lescano y",
+    "medí las lineas siguientes: –",
+    "AB. – Rumbo Norte cincuenta y siete grados",
+    "treinta y tres minutos Este. – Deslindando",
+    "con terreno Municipal, que separa esta frac-",
+    "cion del terreno de Fernando Pelaez. – Mi-",
+    "de seiscientos veinte y un metros dos decíme-",
+    "tros hasta B, que es de ñandubay, esquinero",
+    "Norte de Ninet sobre el deslinde con Atanasia",
+    "Diaz de Ortiz. – En esta linea á quinientos",
+    "ochenta y un metros (termina el alambrado",
+    "que empieza en A y sigue el ancho del Cami-",
+    "no á Lujan, dejado por Ninet. –",
+    "AD. – Rumbo Sud treinta y un grados cincuen-",
+    "ta y siete minutos Este. – Deslindando con",
+    "Alejandro Lescano. – Mide tres mil ciento",
+    "veinte y un metros quince centímetros has-",
+    "ta D, mojon que coloqué por esquinero Sud del",
+    "terreno que mido. – En esta linea á mil seis-",
+    "cientos cuarenta y nueve metros termina (en",
+    "A') el costado Sud-Este de la 2^{a}. fraccion; á dos",
+    "mil doscientos cuarenta y un metros Cañada",
+    "del Sauce; á dos mil trescientos cuarenta",
+    "y nueve metros se puso mojon de ñandubay.",
+    "DC. – Rumbo Norte cincuenta y siete grados vein-",
+    "te y dos minutos Este. – Deslindando con Dionisio"
+   ],
+   "interpretacion": "Superficies: 2.ª 1 029 314,61 m²; 3.ª 920 110,29 m²; juntas 1 949 425 m². Desde A, esquinero O de la 2.ª y N de Alejandro Lescano: A-B N 57° 33′ E 621,2 m contra TERRENO MUNICIPAL, que separa esta fracción del terreno de FERNANDO PELÁEZ, hasta B de ñandubay; a 581 m termina el ALAMBRADO que empieza en A y sigue el ancho del CAMINO A LUJÁN «dejado por Ninet». A-D S 31° 57′ E 3121,15 m contra Alejandro Lescano hasta D (mojón nuevo, esquinero S): a 1649 m termina en A′ el costado SE de la 2.ª fracción; a 2241 m la CAÑADA DEL SAUCE; mojón de ñandubay a 2349 m. D-C N 57° 22′ E contra Dionisio…"
+  },
+  {
+   "titulo": "Folio 6 · 2.ª y 3.ª: D-C contra Dionisio Acuña, B-B′ y B′-C contra Atanasia Díaz de Ortiz (mojón de Félix D’Abadie); linderos; 4.ª fracción, E-F contra Toribio González",
+   "img": "img/f/138/19.jpg",
+   "fuente": "Toma IMG_0073 · página derecha",
+   "nota": "Toma IMG_0073, página derecha; sello «Foja 6».",
+   "lineas": [
+    "[sello: Foja 6]",
+    "Acuña. – Mide seiscientos treinta metros",
+    "tres decímetros hasta C, que coloqué mojon para",
+    "esquinero Este de Ninet y Norte de Dionisio",
+    "Acuña. –",
+    "BB'. – Rumbo Sud treinta y dos grados tres minu-",
+    "tos Este. – Deslindando con Atanasia Diaz de Ortiz –",
+    "Mide mil seiscientos cuarenta y seis metros siete",
+    "decímetros hasta B', esquinero Este de la 2^{a}. fraccion,",
+    "colocado por el agrimensor Felix D'Abadie.",
+    "B'C. – Rumbo Sud treinta y dos grados once mi-",
+    "nutos Este. – Deslindando con Atanasia Diaz",
+    "de Ortiz y la 4^{a}. fraccion. – Mide mil cuatro-",
+    "cientos setenta y dos metros quince centímetros",
+    "hasta C, ya descrito. En esta linea á cuatro-",
+    "cientos noventa y cuatro metros cinco decímetros",
+    "mojon esquinero de la 4^{a}. fraccion.",
+    "Superficie: – Un millon novecientos cua-",
+    "renta y nueve mil cuatrocientos veinte y cinco",
+    "metros cuadrados.",
+    "Linderos: – Por el Nord-Oeste con terreno",
+    "Municipal, por el Sud-Oeste con Alejandro",
+    "Lescano, por el Nord-Este con Atanasia Diaz",
+    "de Ortiz y la 4^{a}. fraccion, y por el Sud-Este con",
+    "Dionisio Acuña.",
+    "[al margen: ×] 4^{a}. Fraccion. – [Título 1124934 ^{m. c.}]",
+    "Del punto E mojon esquinero Sud de la 4^{a}. frac-",
+    "cion y Oeste de Toribio Gonzalez y costanero de Ale-",
+    "jandro Lescano, medí las lineas siguientes: –",
+    "EF. – Rumbo Norte cincuenta y siete grados",
+    "veinte y dos minutos Este. – Deslindando con",
+    "Toribio Gonzalez. – Mide cuatrocientos treinta"
+   ],
+   "interpretacion": "… Acuña 630,3 m hasta C, mojón nuevo esquinero E. B-B′ S 32° 3′ E 1646,7 m contra Atanasia Díaz de Ortiz hasta B′, esquinero E de la 2.ª fracción «colocado por el agrimensor FÉLIX D’ABADIE» (el Dabadie de la 120, 1882). B′-C S 32° 11′ E 1472,15 m contra Atanasia y la 4.ª fracción (esquinero de la 4.ª a 494,5 m). Superficie 1 949 425 m². Linderos: NO terreno municipal; SO Alejandro Lescano; NE Atanasia Díaz de Ortiz y la 4.ª fracción; SE Dionisio Acuña. 4.ª fracción (título 1 124 934 m²): desde E, esquinero S, O de Toribio González y costanero de Alejandro Lescano, E-F N 57° 22′ E 430 m contra Toribio González…"
+  },
+  {
+   "titulo": "Folio 6 v. · 4.ª fracción: E-H contra Solano Lescano, Dionisio Acuña y la 3.ª fracción (cañada del Sauce), F-G contra Fernando Díaz y Paulino Peñalva, H-G",
+   "img": "img/f/138/20.jpg",
+   "fuente": "Toma IMG_0074 · página izquierda",
+   "nota": "Toma IMG_0074, página izquierda.",
+   "lineas": [
+    "metros hasta F, mojon esquinero Este del",
+    "terreno que mido y Sud de Fernando Diaz y costanero",
+    "de Toribio Gonzalez. —",
+    "EH. – Rumbo Norte treinta y dos grados once",
+    "minutos Oeste. – Deslindando con Solano",
+    "Lescano, Dionisio Acuña y la 3^{a}. frac-",
+    "cion. – Mide dos mil quinientos noven-",
+    "ta y tres metros noventa y siete centímetros",
+    "hasta H, mojon que coloqué para esquine-",
+    "ro Oeste del terreno que mido, y Sud para Ata-",
+    "nasia Diaz de Ortiz. – En esta linea á setecien-",
+    "tos cincuenta metros puse mojon; á mil",
+    "trescientos ochenta y tres metros dos decímetros",
+    "hallé mojon; á mil seiscientos diez y seis me-",
+    "tros treinta y dos centímetros mojon esquinero",
+    "de la 3^{a}. fraccion; á mil setecientos sesenta y",
+    "cuatro metros ocho decímetros hallé mojon;",
+    "á dos mil quinientos sesenta y tres metros Caña-",
+    "da del Sauce. —",
+    "FG. – Rumbo Norte treinta y dos grados tres",
+    "minutos Oeste. – Deslindando con Fernando",
+    "Diaz y Paulino Peñalva. – Mide dos mil",
+    "quinientos noventa y tres metros noventa",
+    "y siete centímetros hasta G, mojon que",
+    "coloqué para esquinero Norte de la 3^{a}. frac-",
+    "cion y Este de Atanasia Diaz de Ortiz, y costanero",
+    "de Paulino Peñalva. – En esta linea á setecientos",
+    "metros puse mojon y á mil setecientos treinta y",
+    "un metros mojon esquinero comun de Fer-",
+    "nando Diaz y Paulino Peñalva.",
+    "HG. – Rumbo Norte cincuenta y ocho grados",
+    "veinte y seis minutos Este. – Deslindando con"
+   ],
+   "interpretacion": "F, esquinero E, S de Fernando Díaz. E-H N 32° 11′ O 2593,97 m contra Solano Lescano, Dionisio Acuña y la 3.ª fracción hasta H (mojón nuevo, esquinero O, S de Atanasia Díaz de Ortiz); mojones a 750, 1383,2, 1616,32 (esquinero de la 3.ª) y 1764,8 m; a 2563 m la CAÑADA DEL SAUCE. F-G N 32° 3′ O 2593,97 m contra Fernando Díaz y PAULINO PEÑALVA hasta G (esquinero común de ambos a 1731 m). H-G N 58° 26′ E contra…"
+  },
+  {
+   "titulo": "Folio 7 · 4.ª fracción: superficie 112,49 ha y linderos; firma de Orlandini (Buenos Aires, 30/11/1884); dictamen del Departamento de Ingenieros (16/12/1884): aprobar 2.ª a 5.ª, vista al interesado por la 1.ª",
+   "img": "img/f/138/21.jpg",
+   "fuente": "Toma IMG_0074 · página derecha",
+   "nota": "Toma IMG_0074, página derecha; sello «Foja 7»; arriba se transparenta el texto del dorso.",
+   "lineas": [
+    "[sello: Foja 7]",
+    "Atanasia Diaz de Ortiz. – Mide cuatrocien-",
+    "tos treinta y siete [?] metros cuatro decímetros has-",
+    "ta G ya descrito.",
+    "[al margen: ×] Superficie: – Un millon ciento veinte y",
+    "cuatro mil novecientos treinta y cuatro me-",
+    "tros cuadrados ×",
+    "Linderos: – Por el Nord-Oeste con Atana-",
+    "sia Diaz de Ortiz, por el Sud-Oeste con la",
+    "3^{a}. fraccion de Ninet, con Dionisio Acuña",
+    "y Solano Lescano, por el Nord-Este con Pau-",
+    "lino Peñalva y Fernando Diaz, por el Sud-",
+    "Este con Toribio Gonzalez.",
+    "Todos linderos de las cinco fracciones que he medido",
+    "han firmado la Circular y el Acta de confor-",
+    "midad. —",
+    "Buenos Aires – Noviembre 30 de 1884",
+    "Apolinario Orlandini [rúbrica]",
+    "[sello oval: Departamento de Ingenieros de la Provincia · Entradas · 10 DIC 84]",
+    "Señor Juez de 1^{a}. Instancia",
+    "El Departamento ha examinado",
+    "la presente mensura y aconseja á V. S. la",
+    "aprobacion de la ~~mensura~~ de las fracciones",
+    "2, 3, 4 y 5 en cuanto á la 1^{a}. como el",
+    "Agrimensor propone tres ubicaciones convendria",
+    "dar vista al interesado.",
+    "Diciembre 16/884",
+    "Lagos [rúbrica]     Jorge Coquet [rúbrica]"
+   ],
+   "interpretacion": "… Atanasia Díaz de Ortiz 437 [?] m. Superficie 1 124 934 m², igual al título. Linderos: NO Atanasia Díaz de Ortiz; SO la 3.ª fracción, Dionisio Acuña y Solano Lescano; NE Paulino Peñalva y Fernando Díaz; SE Toribio González. Todos los linderos firmaron circular y acta. Firma: BUENOS AIRES, 30/11/1884, Apolinario Orlandini. Entrada al D. I. 10/12/1884. Dictamen (16/12/1884, Lagos y Jorge Coquet): aconseja aprobar las fracciones 2, 3, 4 y 5; para la 1.ª, como el agrimensor propone tres ubicaciones, «convendría dar vista al interesado»."
+  },
+  {
+   "titulo": "Folio 7 v. · Notas de Geodesia: en el ángulo S de la 5.ª fracción se formó la VILLA ESPIL (inscripción f. 148/936); oficio de 1951 (autos Lucio Méndez y Álvarez, Cuartel 8.º)",
+   "img": "img/f/138/22.jpg",
+   "fuente": "Toma IMG_0075 · página izquierda",
+   "nota": "Notas del siglo XX en una página por lo demás en blanco; a la derecha asoma el plano plegado.",
+   "lineas": [
+    "Nota: En el ángulo Sud de la 5^{a}. fraccion se ha",
+    "formado \"la Villa Espil\", cuyo plano del fraccionamiento",
+    "está agregado a la inscrip. folio 148/936 del libro de mi-",
+    "nutas de Geodesia. — J. H. Rinstau [?] [rúbrica]",
+    "28 Febrero 1951. –     Ofic.: \"J\" 44/50. –",
+    "Autos: \"Lucio Mendez y Alvarez\".",
+    "Cuartel 8^{o}.     Plano: 94-22-49. –",
+    "[al margen: ×]     Mambrin [?] [rúbrica]",
+    "[resto de la página en blanco; a la derecha, el plano plegado]"
+   ],
+   "interpretacion": "Nota de la Dirección de Geodesia: «en el ángulo Sud de la 5.ª fracción se ha formado la VILLA ESPIL», cuyo plano de fraccionamiento está agregado a la inscripción del folio 148/1936 del libro de minutas (firma J. H. Rinstau [?]). Otra nota del 28/2/1951: oficio «J» 44/50, autos «Lucio Méndez y Álvarez», Cuartel 8.º, plano 94-22-49 (firma Mambrin [?]). Es el eslabón entre la fracción rural de 1884 y la localidad actual de Villa Espil del partido."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano original de Orlandini (1884), escala 1:20 000",
+   "img": "img/f/138/03.jpg",
+   "fuente": "Toma IMG_0076",
+   "orientacion": "apaisado; flecha del N hacia arriba a la izquierda (junto a José Pichetto)",
+   "interpretacion": "«PLANO de cinco fracciones de terreno pertenecientes a Pedro B. Ninet en San Andrés de Giles, 1884». Marco de filete doble. Las cinco fracciones van en verde con su número y superficie: 1.ª (1 719 416 m²) arriba a la izquierda y 5.ª (1 108 825 m²) arriba a la derecha, separadas por el campo de ROMANA DÍAZ; abajo, la 2.ª-3.ª (1 949 425 m²) y la 4.ª (1 124 934 m²) formando una L. En el centro el gran campo de FERNANDO DÍAZ y, al E, TORIBIO GONZÁLEZ; arriba FRANCISCO ARÉVALO, al E BASILIO SALAS, al O A. VELOZ, S. V. DE FLORES, R. NIETO, SANTIAGO GLYSSON y JOSÉ PICHETTO; abajo GREGORIO GONZÁLEZ, P. PEÑALVA, ATANACIA D. DE ORTIZ, D. ACUÑA, S. LESCANO y ALEJANDRO LESCANO; F. PELÁEZ en el ángulo SO. La CAÑADA DEL SAUCE en azul baja de N a S cruzando la 1.ª fracción y el bloque inferior; el CAMINO A LUJÁN en línea de trazos cruza en diagonal por la 4.ª. Cotas en todos los lados. Escala gráfica 1/20 000; firma de Apolinario Orlandini. A lápiz: «ver plano del fracc. inscripto al folio 148/1936» junto a la 5.ª fracción.",
+   "referencias": [
+    [
+     "1.ª fracción",
+     "ex Romana Díaz (vía Rosendi y F. González): 171,94 ha; sobrante 3,8 ha"
+    ],
+    [
+     "2.ª y 3.ª",
+     "ex Toribio González y Solano Lescano: 194,94 ha; contra el terreno municipal"
+    ],
+    [
+     "4.ª",
+     "ex Atanacia Díaz de Ortiz: 112,49 ha"
+    ],
+    [
+     "5.ª",
+     "ex Romana Díaz: 110,88 ha; luego VILLA ESPIL en su ángulo S"
+    ],
+    [
+     "D (1.ª)",
+     "mojón de piedra junto a la zona sobrante que separa de Santiago Glysson"
+    ],
+    [
+     "B′",
+     "mojón colocado por el agrimensor Félix D’Abadie"
+    ],
+    [
+     "Trazo azul",
+     "Cañada del Sauce"
+    ],
+    [
+     "Línea de trazos",
+     "Camino a Luján «dejado por Ninet»"
+    ],
+    [
+     "Linderos",
+     "Arévalo, Salas, F. Díaz, T. y G. González, Peñalva, Ortiz, Acuña, Lescano, Peláez, Pichetto, Glysson, Nieto, Flores, Veloz"
+    ],
+    [
+     "Escala",
+     "1:20 000 (barra de 2000 m)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: 1.ª fracción y lindero O (Pichetto, Glysson)",
+   "img": "img/f/138/04.jpg",
+   "fuente": "Toma IMG_0077",
+   "orientacion": "como el general",
+   "interpretacion": "Ampliación del ángulo NO con la 1.ª fracción, la cañada del Sauce y el rótulo «José Pichetto».",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: bloque 2.ª-3.ª-4.ª y la cañada",
+   "img": "img/f/138/05.jpg",
+   "fuente": "Toma IMG_0078",
+   "orientacion": "como el general",
+   "interpretacion": "Ampliación del bloque inferior con las cotas de los lados y el cruce de la cañada del Sauce.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: 4.ª fracción y camino a Luján",
+   "img": "img/f/138/06.jpg",
+   "fuente": "Toma IMG_0079",
+   "orientacion": "como el general",
+   "interpretacion": "Ampliación de la 4.ª fracción con el camino a Luján y los linderos Toribio González y Fernando Díaz.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: 5.ª fracción y título del plano",
+   "img": "img/f/138/07.jpg",
+   "fuente": "Toma IMG_0080",
+   "orientacion": "como el general",
+   "interpretacion": "Ampliación del ángulo NE con la 5.ª fracción, el título y la anotación a lápiz sobre el fraccionamiento de 1936.",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia de la Dirección de Geodesia y Catastro (La Plata, agosto de 1938)",
+   "img": "img/f/138/08.jpg",
+   "fuente": "Toma IMG_0081",
+   "orientacion": "como el original",
+   "interpretacion": "«Es copia del plano agregado al duplicado n.º 138 del partido de San Andrés de Giles, mensura practicada en noviembre de 1884 por el Agrimensor Apolinario Orlandini. La Plata, agosto de 1938». Sello M. O. P., firma del director; «Dib. por F. R. Guerrero – Rev. por J. S. Chiappino» (el mismo revisor de la copia de 1936 de la 136).",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Campo al S del pueblo atravesado por la CAÑADA DEL SAUCE, que corta la 1.ª fracción (a 5 m de A en A-D y a 2075 m en C-B) y el bloque inferior (a 2241 y 2563 m). El CAMINO A LUJÁN cruza en diagonal y Ninet lo deja libre con su alambrado. El paisaje está alambrado a trozos (alambrados de Ninet y de Rufino Nieto) y amojonado con postes de ÑANDUBAY; un único MOJÓN DE PIEDRA en el vértice D de la 1.ª. Al O, el TERRENO MUNICIPAL (el ejido en formación, cf. 120 y la Carpeta 137) separa a Ninet de Fernando Peláez."
+  },
+  {
+   "titulo": "Ritual",
+   "texto": "Citación de linderos y edictos en los diarios; todos los linderos de las cinco fracciones firman circular y acta (que no están fotografiadas). Orlandini firma en Buenos Aires. El vértice B′ conserva un mojón de otro agrimensor (Félix D’Abadie), aceptado como esquinero: la mensura se apoya en una red de mojones ya existente."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "No se declara la variación magnética en el texto conservado. Rumbos coherentes con la grilla de la zona (≈ N 58° E × N 31-32° O, la misma orientación de las fajas de 059 y 120). Orlandini compara medida y título lado por lado y razona la diferencia: el campo primitivo de Romana Díaz se ensancha de 734 a 785 m; propone tres ubicaciones del título (A B′ C′ D′; A″ B″ C D; la poseída) y deja la elección a las partes; distingue sobrantes mayores y menores del 2 % y del 1 %. Superficies: 171,94 + 194,94 + 112,49 + 110,88 = 590,26 ha."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "(1) PRESCRIPCIÓN ADQUISITIVA: Romana Díaz no tiene título («se le había extraviado») y lo reconstruye con una información judicial (Mercedes, 1880) que prueba más de treinta años de posesión; es la primera vez que el corpus muestra la usucapión como origen de un título. (2) DACIÓN EN PAGO: paga a su gestor Nicolás Rosendi [?] con 1500 m de fondo de su campo, que éste revende a los dos meses. (3) Ninet, comprador externo, arma entre 1882 y 1884 un campo de 590 ha con cinco compras a herederos de las familias criollas Díaz y Lescano. (4) Siglo XX: la 5.ª fracción se fracciona como VILLA ESPIL (1936) y en 1951 el plano se cita en autos judiciales."
+  },
+  {
+   "titulo": "Crítica documental",
+   "texto": "Lecturas dudosas: el apellido del gestor (Rosendi), el escribano (Nicanor L. Pancati: es el mismo «N. Pancati» de la 136), la fecha exacta del arranque (¿11 de noviembre?), la cifra del lado A-B de la 1.ª (767,6 m, deducida del exceso de 35 m sobre 732,6) y el lado H-G de la 4.ª (437 [?] m). En el título de la 4.ª el copista escribe Atanacia y Atanasia indistintamente. Falta el auto judicial de aprobación; las notas de 1936 y 1951 son de la Dirección de Geodesia."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "(1) 059 (Saubidet 1870, herederos de José Díaz): hijuelas de Fernando Díaz (923,58 ha), Atanacia D. de Ortiz, Rufina D. de Cabral y Romana D. de González; aquí aparecen Fernando Díaz y Atanacia como linderos/vendedores; ¿Romana Díaz = Romana D. de González? (2) 045 (Solano Lescano) y 068 (Lezcano): Solano y Alejandro Lescano, hijos de Francisco Lescano y Petrona López. (3) 120 (Toribio González, Félix Dabadie 1882): el paralelogramo contra el CAMPO MUNICIPAL es la fracción que González vendió a Ninet (2.ª); el mojón B′ es de Dabadie. (4) 091 (Piquetto, Muñiz 1878) y 093 (Peláez): linderos O. (5) 060 (faja municipal del Santo) y Carpeta 137 (ejido, Orlandini): mismo agrimensor y el terreno municipal como lindero."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Quién era Pedro B. Ninet (¿francés?) y qué hizo con las 590 ha? ¿Cuándo y por quién se fundó Villa Espil sobre la 5.ª fracción (1936)? ¿Es la información posesoria de Romana Díaz la misma «Romana D. de González» heredera de José Díaz en 059, y por qué alegó posesión y no herencia? ¿Qué decidió Ninet sobre las tres ubicaciones de la 1.ª fracción?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Pedro B. Ninet",
+   "rol": "Propietario",
+   "texto": "Compra entre 1882 y 1884 cinco fracciones al S del pueblo y las hace medir por Orlandini. Apellido probablemente francés; la búsqueda web no dio datos sobre él.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Apolinario Orlandini",
+   "rol": "Agrimensor",
+   "texto": "Firma en Buenos Aires en noviembre de 1884. Es el agrimensor de la mensura del EJIDO de San Andrés de Giles (Carpeta 137), encargada por el decreto del 9/4/1883; esta mensura vecina al terreno municipal es contemporánea de aquella. Sin datos biográficos en la web.",
+   "fuentes": "esta mensura; Carpeta 137 (Word de Orlandini)"
+  },
+  {
+   "nombre": "Romana Díaz",
+   "rol": "Vendedora",
+   "texto": "Reconstruye su título por información posesoria (1880), paga a su gestor con tierra y vende a Ninet la 5.ª fracción (1882). Probablemente la Romana D. de González heredera de José Díaz (059).",
+   "fuentes": "fichas 059, 138"
+  },
+  {
+   "nombre": "Atanacia Díaz de Ortiz; Fernando Díaz",
+   "rol": "Herederos de josé díaz",
+   "texto": "Hijos de José Díaz (hijuela de 1861). Atanacia vende a Ninet la 4.ª fracción (1883); Fernando es el gran lindero central.",
+   "fuentes": "fichas 059, 138"
+  },
+  {
+   "nombre": "Solano y Alejandro Lescano",
+   "rol": "Vendedor / lindero",
+   "texto": "Hijos de Francisco Lescano y Petrona López (testamentaría de 1869, juez José A. de Zavalía). Solano vende a Toribio González (1878, 1882) y a Ninet (1883).",
+   "fuentes": "fichas 039, 045, 068, 138"
+  },
+  {
+   "nombre": "Toribio González",
+   "rol": "Vendedor / lindero",
+   "texto": "Compra a Solano Lescano y vende a Ninet la 2.ª fracción (1882); su campo contra el municipal lo midió Félix Dabadie en 1882 (120).",
+   "fuentes": "fichas 120, 138"
+  },
+  {
+   "nombre": "Luis María Drago",
+   "rol": "Juez",
+   "texto": "Juez civil y comercial en Mercedes en 1884 (cf. 136); luego canciller y autor de la Doctrina Drago.",
+   "fuentes": "fichas 136, 138; Wikipedia"
+  },
+  {
+   "nombre": "Félix D’Abadie (Dabadie)",
+   "rol": "Agrimensor",
+   "texto": "Colocó el mojón B′ que Orlandini acepta; midió la 120 en 1882.",
+   "fuentes": "fichas 120, 138"
+  },
+  {
+   "nombre": "Otros",
+   "rol": "Linderos y funcionarios",
+   "texto": "Nicolás Rosendi [?] (gestor), Francisco González, Basilio Salas, Francisco Arévalo, Dionisio Acuña, Paulino Peñalva, Rufino Nieto, Segunda V. de Flores, Agustín Veloz, Santiago Glysson, José Pichetto, Fernando Peláez, Gregorio González, Juan Silva; escribanos Silvestre Esquivel, Fernando del Río, José E. González, Nicanor L. Pancati [?], Silva (1861); secretario Rafael Rodríguez Brizuela, escribano Nemesio [?] López; D. I.: Lagos, Jorge Coquet; Geodesia: J. H. Rinstau [?], Mambrin [?], F. R. Guerrero, J. S. Chiappino.",
+   "fuentes": "esta mensura"
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/138/02.jpg",
+  "fuente": "Toma IMG_0067",
+  "lineas": [
+   "[a lápiz, arriba: Bravo [?]]",
+   "A. Giles",
+   "138",
+   "Duplicado",
+   "Diligencia de mensura de cinco",
+   "fracciones de terreno pertenecientes á",
+   "D. Pedro B. Ninet – en San",
+   "Andrés de Giles. —",
+   "1884",
+   "[a lápiz: 38090]",
+   "Juez: – Dr. Luis María Drago.",
+   "(Mercedes)",
+   "2-209-35",
+   "5-293-27",
+   "Secretario: – Rafael Rodriguez Brizuela.",
+   "Escribano: – Nemesio [?] Lopez."
+  ]
+ },
+ "titulo": "Pedro B. Ninet",
+ "estado": "Transcripta (14 hojas, 415 renglones), 6 láminas"
+}

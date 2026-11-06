@@ -1,0 +1,506 @@
+{
+ "carpeta": "136",
+ "carpeta_nombre": "Carpeta 136",
+ "archivo": "Ficha 136 - Manuel Belgrano (1884).docx",
+ "resumen": {
+  "Propietario / solicitante": "Dr. Manuel Belgrano",
+  "N.º de duplicado": "136",
+  "Agrimensor": "Baldomero Videla",
+  "Año": "1884",
+  "Fecha de la diligencia": "Mensura 24/7/1884; firma 15/9/1884; D. I. 30/9/1884; aprob. 15/10/1884",
+  "Ubicación": "Estación Franklin (F. C. Trasandino), arroyo y cañada de Moyano, límite con Mercedes",
+  "Orden judicial": "Juez civil y comercial del Dpto. del Centro Luis M. Drago, 27/6/1884",
+  "Vendedor / antecesor": "Antonino Silva (compra a Rufino Lima 1856; ex Mariano Lima, 055)",
+  "Linderos citados": "S. E. Unzué, Pedro Ruiz, Benigna L. de González, Cándido Montoya, F. C. Trasandino, Manuel Leal",
+  "Medidas": "A-B 792 · B-C 1804 · A-D 2419 m; escotadura de la estación 500 × 81,6/73,7 m",
+  "Rumbos": "S 44° 20′ O; S 45° 25′ E; S 45° 55′ E; N 89° 35′ O; var. 11° 6′ NE",
+  "Referencia de archivo": "AHG-PBA, duplicado 136 de S. A. de Giles"
+ },
+ "metricas": {
+  "superficie_ha": "173,28 (título 162,41; sobrante fiscal 10,88)",
+  "hitos": "mojones de ñandubay; alambrados de Unzué y del ferrocarril; estación; poblaciones y puestos",
+  "aguas": "Arroyo de Moyano; Cañada de Moyano"
+ },
+ "sintesis": "En julio de 1884 Baldomero Videla mide el campo que el Dr. Manuel Belgrano acaba de comprar a Antonino Silva: un cuadrilátero de 173,28 ha cruzado por el arroyo y la cañada de Moyano, cuyo vértice E está mordido por la estación del Ferrocarril Trasandino, que Silva había vendido (la vía) y donado (el predio de la estación) a la empresa en 1883. Es la primera mensura del corpus organizada en torno a una estación de ferrocarril, la futura Estación Franklin. Los linderos ya se dividen con alambrados y mojones de ñandubay. El Departamento de Ingenieros corrige el cálculo del sobrante (10,88 ha, no 7,96) y Belgrano lo escritura recién en 1896. Aprueba el juez Luis M. Drago.",
+ "caratula": {
+  "img": "img/f/136/01.jpg",
+  "fuente": "Toma IMG_0053",
+  "campos": [
+   [
+    "Número",
+    "N.º 136 (ambos ángulos)"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Repartición",
+    "Dirección de Geodesia y Catastro de la Provincia de Buenos Aires"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Don Dr. Manuel Belgrano"
+   ],
+   [
+    "Agregado posterior (lápiz, mayúsculas)",
+    "Est. FRANKLYN"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "B. Videla"
+   ],
+   [
+    "Mes / Año",
+    "Setiembre / 1884"
+   ],
+   [
+    "Juzgado / Secretaría / Duplicados de referencia",
+    "en blanco"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Encabezamiento; extracto de títulos: Rufino Lima vende a Antonino [Silva] 895 × 3000 v en el partido de Mercedes (11/3/1856); protocolización (1870); Silva vende y dona al Ferrocarril Trasandino la vía y el terreno de una estación (15/6/1883); venta a Manuel Leal (15/11/1883)",
+   "img": "img/f/136/07.jpg",
+   "fuente": "Toma IMG_0055",
+   "nota": "Letra caligráfica del copista del duplicado, muy regular; sello «Foja 1». En el renglón 7 el apellido del comprador de 1856 está subrayado en el original: el copista escribió «Lima» por «Silva».",
+   "lineas": [
+    "[sello: Foja 1]",
+    "Duplicado de la diligencia de mensura practicada",
+    "en el terreno de propiedad del Doctor Don Manuel Bel-",
+    "grano situado en el Partido de \"San Andres de Giles\".",
+    "— Estracto de Títulos —",
+    "En la Villa de Mercedes en 11 de Marzo de 1856 – Don Rufino Lima",
+    "vende á Don Antonino Lima [subrayado en el original] un terreno de Estancia que",
+    "hubo el otorgante por herencia de sus finados padres Don",
+    "Mariano Lima y Doña Juana Hurtado, compuesto de",
+    "ochocientas noventa y cinco varas de frente y tres mil de",
+    "fondo; y cuyo terreno situado en este Partido de Mercedes tie-",
+    "ne por linderos, al naciente Don José M^{a}. Lima; al poni-",
+    "ente Don Manuel Montoya; al Norte con terreno del vende-",
+    "dor; y al Sud con Don Pedro Casas – Pedro Aranguren Juez de Paz.",
+    "Mercedes en 10 de Octubre de 1870 – Por mandato del Señor",
+    "Juez de 1^{a}. Instancia en lo Civil del Departamento del",
+    "Centro, despues de los trámites de estilo, fué protocolizado",
+    "el título anterior por ante el Escribano Público Don",
+    "Mariano Cascon –",
+    "Mercedes Junio 15 de 1883 – Don Antonino Silva, vende á la",
+    "Empresa del \"Ferro Carril Trasandino\", una fraccion de",
+    "terreno compuesta de dos mil metros de largo, con treinta",
+    "de ancho – y hace donacion gratuita á la misma Em-",
+    "presa de otra fraccion de este mismo terreno, ubicado",
+    "á los costados Norte y Sud de la otra fraccion vendida,",
+    "con el objeto que se construya una Estacion en ella, cuyas",
+    "dimensiones son: cien metros de frente por quinientos",
+    "de fondo, lindando ambas fracciones al Norte y Sud con",
+    "mas terreno del vendedor, al Este con Don Saturnino E.",
+    "Unzué, y al Oeste con Don Santiago Price – Esno. N. Pancati [?] –",
+    "Mercedes Noviembre 15 de 1883 – Don Antonino Silva, ven-",
+    "de á Don Manuel Leal dos fracciones del terreno de",
+    "pastoreo que por este título le pertenece, compuesta la",
+    "1^{a}: de veintiseis hectareas noventa y cuatro areas trein-",
+    "ta y cinco centiareas; lindando al Norte con terreno de",
+    "la Via, y de la Estacion del Ferro Carril Trasandino, al",
+    "Este y Oeste con el mismo terreno de la Estacion –"
+   ],
+   "interpretacion": "Duplicado de la mensura del terreno del DOCTOR MANUEL BELGRANO en San Andrés de Giles. Extracto de títulos: 11/3/1856, en la Villa de Mercedes, RUFINO LIMA vende a ANTONINO [SILVA] (el copista escribe «Lima» y lo subraya) un terreno de estancia que heredó de sus padres MARIANO LIMA y JUANA HURTADO: 895 v de frente × 3000 v de fondo, «en este Partido de Mercedes», entre José M.ª Lima (naciente), Manuel Montoya (poniente), el vendedor (N) y Pedro Casas (S); actúa el juez de paz Pedro Aranguren. 10/10/1870: protocolizado por orden del juez civil del Departamento del Centro ante el escribano Mariano Cascón. 15/6/1883, Mercedes: Antonino Silva VENDE a la Empresa del «FERRO CARRIL TRASANDINO» una faja de 2000 × 30 m (la vía) y le DONA, a ambos lados, 100 × 500 m «con el objeto que se construya una Estación en ella»; linderos Unzué (E) y Santiago Price (O); escribano N. Pancati [?]. 15/11/1883: Silva vende a MANUEL LEAL dos fracciones; la 1.ª de 26,9435 ha, al S de la vía y de la estación…"
+  },
+  {
+   "titulo": "Folio 1 v. · Fin de la venta a Leal; venta de Antonino Silva al Dr. Manuel Belgrano (Mercedes, 25/6/1884: 162,4080 ha «de campo y poblaciones»); comisión del juez Luis M. Drago (27/6/1884) y comienzo de la operación (24/7/1884)",
+   "img": "img/f/136/08.jpg",
+   "fuente": "Toma IMG_0056",
+   "nota": "",
+   "lineas": [
+    "al Sud-Oeste con Don Inocencio Montoya y Don",
+    "Santiago Price, y al Sud-Este con Don Saturnino E.",
+    "Unzué; la 2^{a}. fraccion, compuesta de una hectarea",
+    "diez y siete areas y cincuenta y tres centiareas, situado",
+    "al costado Norte de la anterior, y que linda al Oeste con",
+    "terreno de la Estacion del Ferro Carril Trasandino y con",
+    "el vendedor, al Nord-Este con Doña Benigna Lima",
+    "de Gonzalez, al Sud-Este con Don Saturnino E. Unzué, y",
+    "al Sud con el Ferro Carril ya nombrado – Esno. N. Pancati [?] –",
+    "Ciudad de Mercedes en 25 de Junio de 1884 –",
+    "Don Domingo Aceytuna, en representacion de Don An-",
+    "tonino Silva – vende al Doctor Don Manuel Belgrano,",
+    "una area de campo y poblaciones que su representado",
+    "posee en el Partido de \"San Andres de Giles\", compuesta",
+    "en estencion de ciento sesenta y dos hectareas cua-",
+    "renta areas ochenta centiareas, lindando al Norte",
+    "con Don Saturnino Unzué y Don Pedro Ruiz – al Sud",
+    "Via del Ferro Carril Trasandino de por medio con Don",
+    "Manuel Leal; al Oeste con Don Cándido Montoya",
+    "y al Este con Don Manuel Montoya hoy Don Santia-",
+    "go Price – Esno. Silvestre Esquivel –",
+    "Mensura – El Agrimensor que",
+    "suscribe, comisionado por decreto del Señor Juez de",
+    "1^{a}. Instancia en lo Civil y Comercial del Departamen-",
+    "to del Centro Doctor Don Luis M. Drago (Secretaria",
+    "de Don Juan Cárlos Ponce) de fecha veintisiete de",
+    "Junio del corriente año, para medir el terreno de propie-",
+    "dad del Doctor Don Manuel Belgrano, situado en el",
+    "Partido de \"San Andres de Giles\", previa la citacion de",
+    "linderos, que original se acompaña, y diarios de pu-",
+    "blicacion de Edictos; dió principio al desempeño",
+    "de su comision el dia veinticuatro de Julio como",
+    "sigue:",
+    "Desde el mojon A esquinero Norte",
+    "del terreno de Belgrano y Este de Gonzalez, se midió,",
+    "siguiendo el amojonamiento de este terreno las lineas:"
+   ],
+   "interpretacion": "… la 1.ª fracción de Leal linda al SO con Inocencio Montoya y Santiago Price y al SE con Saturnino E. Unzué; la 2.ª (1,1753 ha), al N de la anterior, entre la estación, el vendedor, BENIGNA LIMA DE GONZÁLEZ (NE), Unzué (SE) y la vía (S). 25/6/1884, Mercedes: Domingo Aceytuna, apoderado de Antonino Silva, vende al DR. MANUEL BELGRANO «una área de campo y poblaciones» de 162 ha 40 a 80 ca en San Andrés de Giles: N Saturnino Unzué y PEDRO RUIZ; S la vía del Trasandino de por medio con Manuel Leal; O Cándido Montoya; E Manuel Montoya, «hoy» Santiago Price; escribano Silvestre Esquivel. MENSURA: Baldomero Videla, comisionado el 27/6/1884 por el juez civil y comercial del Departamento del Centro DR. LUIS M. DRAGO (secretario Juan Carlos Ponce); con citación y edictos, empieza el 24/7/1884 en el mojón A, esquinero N de Belgrano y E de González."
+  },
+  {
+   "titulo": "Folio 2 · Rumbos y distancias: A-B, B-C (Cañada de Moyano, vía del Trasandino), A-D (Arroyo de Moyano, alambrado de Unzué), D-E-F-G-C a lo largo del alambrado del ferrocarril; superficie 173,2839 ha",
+   "img": "img/f/136/09.jpg",
+   "fuente": "Toma IMG_0057",
+   "nota": "Sello «Foja 2». Las letras de las líneas, en el margen, van en negrita caligráfica.",
+   "lineas": [
+    "[sello: Foja 2]",
+    "AB – Sud cuarenta y cuatro grados veinte minutos Oeste.",
+    "Setecientos noventa y dos metros, mojon de ñandubay esqui-",
+    "nero Oeste de Belgrano y Sud de Gonzalez –",
+    "BC – Sud cuarenta y cinco grados veinticinco minutos Este –",
+    "Mil ochocientos cuatro metros – En esta linea á seteci-",
+    "entos treinta y cinco metros se pasó la Cañada de Moyano",
+    "á ochocientos ochenta y ocho metros un costanero de ñan-",
+    "dubay – y á mil ochocientos diez y nueve la Via del Trasan^{dino}",
+    "Se volvió al mojon A y se midió:",
+    "AD – Sud cuarenta y cinco grados cincuenta y cinco minutos",
+    "Este – Dos mil cuatrocientos diez y nueve metros, mojon",
+    "de ñandubay de Belgrano y Leal",
+    "En esta linea á cuarenta y siete metros, un mojon de ñan-",
+    "dubay – á trescientos treinta y dos metros se pasó el Arroyo",
+    "de Moyano – á seiscientos ochenta y un metros, y á setecientos",
+    "setenta y dos metros mojones de ñandubay – á novecientos",
+    "un metro esquinero de Ruiz y Unzué, y principia el alam-",
+    "brado de este último – á mil trescientos diez y siete metros",
+    "cincuenta centímetros – y á mil novecientos cincuenta y",
+    "tres metros veinte centímetros costaneros de ñandubay.",
+    "DE – Sud veinticinco minutos Oeste – Ochenta y un metro",
+    "sesenta centímetros esquina del alambrado del Ferro-",
+    "Carril",
+    "EF – Norte ochenta y nueve grados treinta y cinco minu-",
+    "tos Oeste – Quinientos metros – la otra esquina del mismo",
+    "FG – Sud veinticinco minutos Oeste – Setenta y tres metros se-",
+    "tenta centímetros – á ochenta y cinco metros diez centíme-",
+    "tros la Via –",
+    "GC – Norte ochenta y nueve grados treinta y cinco minutos",
+    "Oeste – Cuatrocientos noventa y cuatro metros –",
+    "De este modo se midió el terreno de propiedad",
+    "del Doctor Don Manuel Belgrano teniendo una superfi-",
+    "cie de ciento setenta y tres hectareas veintiocho areas",
+    "treinta y nueve centiareas y cincuenta centésimas de",
+    "otra (173 hec. 28 ar. 39,5 cent.); la que comparada con el",
+    "título de propiedad tiene un exceso de siete hecta-"
+   ],
+   "interpretacion": "A-B S 44° 20′ O 792 m, mojón de ÑANDUBAY esquinero O de Belgrano y S de González. B-C S 45° 25′ E 1804 m: a 735 m la CAÑADA DE MOYANO, costanero de ñandubay a 888 m, a 1819 m la vía del Trasandino. Desde A: A-D S 45° 55′ E 2419 m, mojón de ñandubay de Belgrano y Leal; mojones de ñandubay a 47, 681 y 772 m; a 332 m el ARROYO DE MOYANO; a 901 m el esquinero de Ruiz y Unzué, donde «principia el ALAMBRADO de este último»; costaneros a 1317,50 y 1953,20 m. Luego el contorno rodea la estación: D-E S 0° 25′ O 81,60 m hasta la esquina del alambrado del ferrocarril; E-F N 89° 35′ O 500 m (la otra esquina); F-G S 0° 25′ O 73,70 m (a 85,10 m la vía); G-C N 89° 35′ O 494 m. Superficie: 173 ha 28 a 39,5 ca, con un exceso sobre el título de siete hectáreas…"
+  },
+  {
+   "titulo": "Folio 2 v. · Exceso (7,9550 ha) que Belgrano pedirá en compra; linderos; variación 11° 6′ NE; circular firmada por Juan Price y Estanislao Sarmiento (Ferrocarril Trasandino); firma de Videla (Giles, 15/9/1884); abalizamiento desde B, A, D y C",
+   "img": "img/f/136/10.jpg",
+   "fuente": "Toma IMG_0058",
+   "nota": "La tabla de abalizamiento lleva comillas de repetición; se transcriben como están.",
+   "lineas": [
+    "reas noventa y cinco areas, cincuenta centiareas (7 hec.",
+    "95 ar. 50 cent.), que el interesado me ha manifestado que",
+    "solicitará en compra al Superior Gobierno; lindan-",
+    "do al Nord-Este Don Saturnino E. Unzué y Don Pedro Ruiz –",
+    "al Nord-Oeste Doña Benigna L. de Gonzalez – al Sud-Oeste",
+    "Don Cándido Montoya – y al Sud-Este la Via del Trasan-",
+    "dino y Don Manuel Leal –",
+    "Rumbos – Todos son verdaderos –",
+    "Variacion – Once grados seis minutos Nord-Este –",
+    "Protestas – No hubieron –",
+    "Circular – Firmaron por Don Santiago Price",
+    "su hijo Don Juan Price – y Don Estanislao Sarmien-",
+    "to, como representante del Ferro Carril Trasandino –",
+    "Giles Setbre. 15 de 1884",
+    "Baldomero Videla",
+    "— Avalizamiento —",
+    "Mojon B          Direccion B A",
+    "A la derecha Pobl^{on}. de Pedro Ruiz ——— 40° 50′",
+    "\" \" \" \" \" M. Belgrano ——— 75° 6′",
+    "\" \" \" Estacion del Ferro Carril ——— 77° 12′",
+    "Mojon A          Direccion A D –",
+    "A la derecha Estacion del Andino ——— 6° 20′",
+    "\" \" \" Puesto de Price ——— 41° 10′",
+    "\" \" \" Pobl^{on}. de Belgrano ——— 62° 20′",
+    "Mojon D          Direccion D A –",
+    "A la derecha Poblacion de P. Ruiz ——— 5° 10′",
+    "\" \" \" Puesto \" Unzué ——— 25° 15′",
+    "\" \" \" \" \"San Juan\" ——— 35° 40′",
+    "Mojon C          Direccion C B –",
+    "A la derecha Poblacion de Belgrano ——— 4° 5′",
+    "\" \" \" \" \" Gonzalez ——— 15° 10′ [?]",
+    "\" \" \" \" \" Ruiz ——— 44° 50′",
+    "B. Videla [rúbrica]     [sello fechador: … 1884 [?]]     Se [rúbrica]"
+   ],
+   "interpretacion": "… 7 ha 95 a 50 ca que «el interesado me ha manifestado que solicitará en compra al Superior Gobierno» (el cálculo es errado: 173,2839 − 162,4080 = 10,8759 ha, que es lo que corrige el D. I. en el folio siguiente). Linderos: NE Saturnino E. Unzué y Pedro Ruiz; NO Benigna L. de González; SO Cándido Montoya; SE la vía del Trasandino y Manuel Leal. Rumbos verdaderos; variación 11° 6′ NE; no hubo protestas; firmaron la circular Juan Price por su padre Santiago, y ESTANISLAO SARMIENTO como representante del Ferrocarril Trasandino. Giles, 15/9/1884, Baldomero Videla. Abalizamiento (ángulos a la derecha de cada línea): desde B, poblaciones de Pedro Ruiz y de M. Belgrano y la ESTACIÓN DEL FERRO CARRIL; desde A, «Estación del Andino», puesto de Price y población de Belgrano; desde D, población de P. Ruiz, puesto de Unzué y puesto «SAN JUAN»; desde C, poblaciones de Belgrano, González y Ruiz."
+  },
+  {
+   "titulo": "Folio 3 · Dictamen del Departamento de Ingenieros (30/9/1884): bien ejecutada; sobrante fiscal de 10,8759 ha; Belgrano lo pide en compra (1/12/1884); informe (3/2/1885)",
+   "img": "img/f/136/11.jpg",
+   "fuente": "Toma IMG_0059",
+   "nota": "Letra grande y redonda del oficinista del D. I.; las cifras del sobrante, subrayadas.",
+   "lineas": [
+    "[sello: Foja 3]",
+    "[Se]ñor Juez de 1^{a}. Instancia –",
+    "La presente mensura practicada por",
+    "el Agrimensor Don Baldomero Videla",
+    "del campo de propiedad de Don",
+    "Manuel Belgrano situado en el partido",
+    "de San Andres de Giles está bien ejecu-",
+    "tada y el Departamento de Ingenieros",
+    "la aprueba en la parte facultativa;",
+    "habiendo resultado entre mojones un",
+    "sobrante perteneciente al Estado com-",
+    "puesto de diez hectáreas ochenta",
+    "y siete area y cincuenta y nueve",
+    "metros cuadrados, por el cual el",
+    "interesado debe ocurrir al Gobierno so-",
+    "licitandolo en compra, de cuyo sobran-",
+    "te se dá cuenta en la fecha por",
+    "esta oficina al Ministerio Hacienda.",
+    "Setiembre 30/84 –",
+    "Salvadores [rúbrica]     Jorge Coquet [rúbrica]",
+    "Lagos [rúbrica]",
+    "Diciembre 1^{o}. de 1884 – Con esta fecha se",
+    "presentó D. Manuel Belgrano solicitando",
+    "en compra el sobrante. —",
+    "Febrero 3/885 – Se informó en la fecha. —",
+    "Salvadores. [rúbrica]     Marzo [...]"
+   ],
+   "interpretacion": "El Departamento de Ingenieros declara la mensura bien ejecutada y la aprueba en la parte facultativa, pero CORRIGE el sobrante: entre mojones resultan 10 ha 87 a 59 m² pertenecientes al ESTADO, que el interesado debe pedir en compra al Gobierno; se da cuenta al Ministerio de Hacienda. 30/9/1884: firman Salvadores, Jorge Coquet y Lagos. Nota del 1/12/1884: Manuel Belgrano se presentó solicitando en compra el sobrante; 3/2/1885: «se informó en la fecha» (Salvadores)."
+  },
+  {
+   "titulo": "Folio 3 v. · Nota de 1896: escrituración del sobrante a favor de Manuel Belgrano",
+   "img": "img/f/136/12.jpg",
+   "fuente": "Toma IMG_0060",
+   "nota": "Sólo una nota en el ángulo superior; el resto de la página está en blanco.",
+   "lineas": [
+    "– M^{zo}. 4 de 1896 – Se escrituró en propiedad á D. Manuel",
+    "Belgrano el sobrante que resultó de esta mensura –",
+    "Anotado en Marzo 24/96 – C 22.624 – 5.19.131 [?]",
+    "Malato [?] [rúbrica]",
+    "[resto de la página en blanco]"
+   ],
+   "interpretacion": "Cierre del ciclo del sobrante: el 4/3/1896 se escrituró «en propiedad» a Manuel Belgrano el sobrante que resultó de esta mensura; anotado el 24/3/1896 con referencias de registro (C 22.624 y 5.19.131 [?]); firma Malato [?]. Entre el pedido de compra (dic. 1884) y la escritura pasan más de once años."
+  },
+  {
+   "titulo": "Folio 4 · Oficio del juez Luis M. Drago al presidente del Departamento de Ingenieros: aprobación de la mensura (Mercedes, 15/10/1884); entrada al D. I. (4/11/1884)",
+   "img": "img/f/136/13.jpg",
+   "fuente": "Toma IMG_0061",
+   "nota": "Papel sellado de 6 pesos de 1884 (n.º 212845); firma autógrafa de Drago; secretario Juan Carlos Ponce al margen.",
+   "lineas": [
+    "[a lápiz: 1-115-112; sello: Foja 4; sello fiscal: Dirección General de Rentas de la Provincia de Buenos Aires · 6 · 1884 · seis pesos · N.^{o} 212845]",
+    "[rúbrica]",
+    "Mercedes Octubre 15 1884",
+    "[al margen: Juan] Cárlos Ponce [rúbrica]",
+    "[Se]cretario",
+    "Al Señor Presidente del De-",
+    "partamento de Ingenieros de la",
+    "Provincia. –",
+    "Comunico á V^{d}.: Que con",
+    "esta fecha, el infrascrito há apro-",
+    "bado, la mensura practicada por",
+    "el Agrimensor Don Baldomero",
+    "Videla, de un Campo de propie-",
+    "dad del Doctor Don Manuel Bel-",
+    "grano, ubicado en el Partido de",
+    "Giles. –",
+    "Dios Gue. á V^{d}. –",
+    "Luis M. Drago",
+    "[sello oval al margen: Juzgado … Civil y Comercial del Dep^{to}. del Centro · Buenos Aires]",
+    "[sello oval: Departamento de Ingenieros · Entradas · NOV 4 1884]",
+    "No [?] [rúbrica]"
+   ],
+   "interpretacion": "Oficio de aprobación: el 15/10/1884, en Mercedes, el juez LUIS M. DRAGO comunica al presidente del Departamento de Ingenieros que aprobó la mensura de Baldomero Videla del campo del Dr. Manuel Belgrano en Giles. Sello del Juzgado Civil y Comercial del Departamento del Centro; secretario Juan Carlos Ponce. Entrada al D. I. el 4/11/1884; a lápiz «1-115-112», probablemente una signatura de archivo posterior."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano original de Videla (Giles, 15/9/1884)",
+   "img": "img/f/136/03.jpg",
+   "fuente": "Toma IMG_0063",
+   "orientacion": "apaisado; flecha del N hacia arriba a la izquierda (junto a Pedro Ruiz) y meridiano magnético hacia abajo a la derecha (junto a Juan Price)",
+   "interpretacion": "Plano a tinta y acuarela en marco de doble filete con ángulos redondeados. El campo, bordeado de rosa, es un rectángulo largo A-B-C-D con el gran rótulo «Manuel Belgrano» y, a lápiz, «173h 28a 39c 5 cent.»; en el ángulo D-C la escotadura escalonada E-F-G de la estación. La vía del «F. C. T.» corre en diagonal en doble trazo con la «Estación» rotulada, y al SE la fracción triangular «M. Leal». Un trazo azul sinuoso cruza el campo de N a S: el arroyo de Moyano. Linderos rotulados en letra gótica: Pedro Ruiz y Saturnino E. Unzué (N), Benigna L. de González (O), Cándido Montoya y Juan Price (S). Cotas: N 45° 55′ O = 2419 (A-D), S 44° 20′ O = 792 (A-B), S 45° 25′ E = 1804 (B-C), N 89° 35′ O = 494 y = 500, N 44° 10′ E = 817 (lado E de Leal), progresivas 735, 888, 1819, 1844, 2603. Escala gráfica de 1600 m; firma «Giles Setbre. 15 de 1884, Baldomero Videla». Anotaciones a lápiz de la oficina (sumas 2419 + 181 = 2600; 45° 55′ + 25′…).",
+   "referencias": [
+    [
+     "A",
+     "esquinero N de Belgrano y E de Benigna L. de González; arranque"
+    ],
+    [
+     "B",
+     "esquinero O, mojón de ñandubay (Belgrano / González)"
+    ],
+    [
+     "C",
+     "esquinero S sobre el alambrado del ferrocarril (1804 m de B)"
+    ],
+    [
+     "D",
+     "esquinero E, mojón de ñandubay de Belgrano y Leal (2419 m de A)"
+    ],
+    [
+     "E, F, G",
+     "esquinas del alambrado del ferrocarril: escotadura de 500 m alrededor de la estación"
+    ],
+    [
+     "F. C. T. / Estación",
+     "Ferrocarril Trasandino y su estación (la futura Estación Franklin)"
+    ],
+    [
+     "M. Leal",
+     "fracciones vendidas por Silva a Manuel Leal (1883), al SE de la vía"
+    ],
+    [
+     "Trazo azul",
+     "Arroyo de Moyano (cruzado a 332 m de A); en B-C la Cañada de Moyano a 735 m"
+    ],
+    [
+     "Linderos",
+     "Pedro Ruiz, Saturnino E. Unzué, Benigna L. de González, Cándido Montoya, Juan Price"
+    ],
+    [
+     "Lápiz",
+     "«173h 28a 39c 5»: superficie de la mensura"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle del plano original: mitad O (González, Ruiz, Montoya)",
+   "img": "img/f/136/04.jpg",
+   "fuente": "Toma IMG_0064",
+   "orientacion": "como el general",
+   "interpretacion": "Ampliación de la mitad O con el rótulo del propietario, el lado A-B (S 44° 20′ O = 792) y el arroyo de Moyano.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle del plano original: la estación y la fracción de Leal",
+   "img": "img/f/136/05.jpg",
+   "fuente": "Toma IMG_0065",
+   "orientacion": "como el general",
+   "interpretacion": "Ampliación del ángulo E: vía del F. C. T. en doble línea, «Estación» con su edificio en negro, la escotadura D-E-F-G-C con sus cotas (81,6; 500; 73,7; 494), la fracción de M. Leal y el lado N 44° 10′ E = 817; a lápiz la superficie y la variación.",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia en tela de la Dirección de Geodesia (La Plata, marzo de 1936)",
+   "img": "img/f/136/06.jpg",
+   "fuente": "Toma IMG_0062",
+   "orientacion": "como el original",
+   "interpretacion": "«Es copia del plano agregado al duplicado n.º 136 del partido de San Andrés de Giles, mensura practicada en Setiembre de 1884 por el Agrimensor B. Videla. La Plata, Marzo 1936». Sello de la Dirección (M. O. P.), firma del director, «Dib. por E. Nistal [?] · Rev. por J. Chiappini [?]». Reproduce rótulos y cotas sin las anotaciones a lápiz.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "El paisaje de 1884 es ya el de la pampa alambrada y ferroviaria: el campo lo cruzan el ARROYO DE MOYANO (a 332 m de A) y la CAÑADA DE MOYANO (a 735 m de B), y su borde E lo define la vía del Ferrocarril Trasandino con su estación y el alambrado del ferrocarril. Unzué tiene alambrado su campo desde el esquinero con Ruiz. Los mojones son postes de ÑANDUBAY (madera dura entrerriana, la misma de los postes de alambrado). Poblamiento: poblaciones de Belgrano, de Pedro Ruiz y de González, puesto de Price, puesto de Unzué y un puesto llamado «San Juan». La anotación tardía «Est. FRANKLYN» de la carátula identifica la estación con la actual localidad de Franklin del partido."
+  },
+  {
+   "titulo": "Ritual",
+   "texto": "Comisión judicial, citación de linderos y edictos en los diarios; arranque en el mojón A. Firman la circular el hijo de Santiago Price por su padre y ESTANISLAO SARMIENTO «como representante del Ferro Carril Trasandino»: la empresa ferroviaria es por primera vez una lindera que firma. No hubo protestas. El abalizamiento final ya no usa árboles ni ombúes sino poblaciones, puestos y la propia estación."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Rumbos verdaderos, variación 11° 6′ NE (cf. 10° 25′ de Iparraguirre en 1883-84 en el NE del partido: diferencia de 41′ entre agrimensores en el mismo año). Verificación en python del polígono A-B-C-G-F-E-D: cierra con un error de ≈ 11 m y da 173,2 ha, coherente con las 173,2839 ha declaradas; los rumbos D-E y F-G («Sud veinticinco minutos Oeste») se leen S 0° 25′ O, perpendiculares a E-F y G-C (N 89° 35′ O). Videla restó mal el sobrante (7,955 ha); el D. I. lo corrige a 10,8759 ha, exactamente 173,2839 − 162,4080."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "(1) Cadena: Mariano Lima y Juana Hurtado → Rufino Lima (herencia) → Antonino Silva (1856) → Dr. Manuel Belgrano (1884). En 1856 el campo se dice «en este Partido de Mercedes»: en 1884 está en Giles; es otro testimonio del corrimiento del límite Giles–Mercedes en el rincón de los Lima. (2) El FERROCARRIL como agente de subdivisión: Silva vende la faja de vía (2000 × 30 m) y DONA el predio de la estación (100 × 500 m) para que se construya; la donación de tierras para estaciones era la estrategia habitual de los propietarios para valorizar el resto. Luego vende dos fracciones a Leal al otro lado de la vía y el resto a Belgrano: la vía parte el campo. (3) Sobrante fiscal: se paga al Estado; la escritura llega en 1896."
+  },
+  {
+   "titulo": "Crítica documental",
+   "texto": "El copista escribió «Antonino Lima» en el título de 1856 y lo subrayó: es Antonino Silva, como dicen todos los asientos posteriores. Lecturas dudosas: el escribano «N. Pancati», el último guarismo del abalizamiento desde C (15° 10′), la referencia «5.19.131» y la firma «Malato» de la nota de 1896, los nombres de dibujante y revisor de la copia de 1936. La circular original no está fotografiada (quedó en el expediente)."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "(1) 055 (Mariano Lima, Prat 1840): origen del campo («en Giles, y en la Laguna de Moyano»). (2) 085 (Zoilo Costa, Schuster 1878) tiene a Antonino Silva al O y el arroyo de Moyano en su extremo SO; 107 (Costa–Lima, 1880) adjudica 97,92 ha a BENIGNA LIMA, que aquí aparece casada González y lindera NO. (3) 124 (Unzué compra lonjas de los Lima) y 074-075 (sobrantes de Unzué): Saturnino E. Unzué es el gran vecino N y E. (4) 061 (Videla 1871): mismo agrimensor, rincón SO. (5) 125, 129, 130 (Lima, Moyano). (6) Primer ferrocarril que aparece amojonando un campo del corpus: buscar la vía en las mensuras posteriores del Cuartel de Moyano."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Es este Manuel Belgrano un descendiente de la familia del prócer (nieto o sobrino nieto)? El «Doctor» sugiere un abogado o médico porteño que invierte en tierra junto a una estación nueva. ¿Cuándo se habilitó la estación y por qué se llamó Franklin? ¿«Estación del Andino» en el abalizamiento es la misma estación (la empresa del Trasandino) o un error del copista? ¿Quién es Pedro Ruiz y qué superficie tenía?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Dr. Manuel Belgrano",
+   "rol": "Propietario",
+   "texto": "Compra el campo en junio de 1884 por medio del apoderado de Silva y pide en compra el sobrante (dic. 1884), que se le escritura en 1896. La búsqueda web no permitió identificarlo con precisión entre los descendientes de la familia Belgrano; el título de doctor sugiere un profesional porteño. Sin datos verificados.",
+   "fuentes": "esta mensura; búsqueda web sin resultados específicos"
+  },
+  {
+   "nombre": "Baldomero Videla",
+   "rol": "Agrimensor",
+   "texto": "Ya midió en 1871 la faja de Juan Félix Martínez y José A. Aranguren (061), cuya línea respetó el D. I. frente a Schuster en 107. Firma aquí en Giles en septiembre de 1884.",
+   "fuentes": "fichas 061, 107, 136"
+  },
+  {
+   "nombre": "Luis María Drago (1859-1921)",
+   "rol": "Juez civil y comercial",
+   "texto": "Abogado, periodista y luego canciller (1902), autor de la «Doctrina Drago» sobre el cobro compulsivo de deudas públicas. Sus biografías lo registran como juez civil en los años 1880; esta mensura lo documenta con apenas 25 años como juez de 1.ª instancia en lo civil y comercial del Departamento del Centro, con sede en Mercedes, en junio-octubre de 1884.",
+   "fuentes": "Wikipedia y Britannica, «Luis María Drago»; esta mensura"
+  },
+  {
+   "nombre": "Antonino Silva",
+   "rol": "Vendedor",
+   "texto": "Compra a Rufino Lima en 1856; en 1883-84 vende y dona tierras al Ferrocarril Trasandino, vende a Manuel Leal y a Belgrano (por medio de Domingo Aceytuna). Lindero O de Zoilo Costa en 085.",
+   "fuentes": "fichas 085, 136"
+  },
+  {
+   "nombre": "Rufino Lima; Mariano Lima y Juana Hurtado",
+   "rol": "Antecesores",
+   "texto": "Mariano Lima compró la suerte de Moyano en 1832 y la midió Prat en 1840 (055); su hijo Rufino vende su parte en 1856. José M.ª Lima era el lindero E en 1856.",
+   "fuentes": "fichas 055, 107, 125, 136"
+  },
+  {
+   "nombre": "Saturnino E. Unzué",
+   "rol": "Lindero",
+   "texto": "Gran propietario de la familia Unzué, que concentra tierras en el SO del partido comprando lonjas de los Lima (124) y sobrantes (074-075). Tiene su campo alambrado y un puesto en 1884.",
+   "fuentes": "fichas 074, 075, 124, 136"
+  },
+  {
+   "nombre": "Santiago Price y Juan Price",
+   "rol": "Linderos",
+   "texto": "Santiago tiene el campo que fue de Manuel Montoya, con un puesto; su hijo Juan firma por él la circular. Apellido británico: otro inversor extranjero junto a la vía.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Estanislao Sarmiento",
+   "rol": "Representante del f. c. trasandino",
+   "texto": "Firma la circular por la empresa ferroviaria. Sin datos.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Benigna Lima de González, Cándido e Inocencio Montoya, Pedro Ruiz, Manuel Leal",
+   "rol": "Linderos",
+   "texto": "Benigna es la heredera Lima de 107 (97,92 ha). Los Montoya continúan al Manuel Montoya de 1856; Leal compra a Silva al SE de la vía en 1883.",
+   "fuentes": "fichas 107, 136"
+  },
+  {
+   "nombre": "Otros",
+   "rol": "Funcionarios",
+   "texto": "Pedro Aranguren (juez de paz de Mercedes, 1856), Mariano Cascón, N. Pancati [?] y Silvestre Esquivel (escribanos), Domingo Aceytuna (apoderado), Juan Carlos Ponce (secretario del juzgado); D. I.: Salvadores, Jorge Coquet, Lagos; Malato [?] (1896).",
+   "fuentes": "esta mensura"
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/136/02.jpg",
+  "fuente": "Toma IMG_0054",
+  "lineas": [
+   "S. Andrés de Giles",
+   "136.",
+   "1884. –",
+   "Manuel Belgrano",
+   "Partido de \"San Andres de",
+   "Giles. –",
+   "Agrimensor B. Videla [rúbrica]",
+   "2-29-117 [?]"
+  ]
+ },
+ "titulo": "Dr. Manuel Belgrano",
+ "estado": "Transcripta (7 hojas, 195 renglones), 4 láminas"
+}
