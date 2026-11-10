@@ -1,0 +1,494 @@
+{
+ "carpeta": "139",
+ "carpeta_nombre": "Carpeta 139",
+ "archivo": "Ficha 139 - Juan Abadie, sobrante (1885).docx",
+ "resumen": {
+  "Propietario / solicitante": "Juan Abadie (sobrante denunciado)",
+  "N.º de duplicado": "139",
+  "Agrimensor": "Ramón B. Castro",
+  "Año": "1885",
+  "Fecha de la diligencia": "Mensura 17/11/1884; firma 14/1/1885; D. I. 20/1/1885",
+  "Ubicación": "Deslinde con Mercedes, sobre el camino de Mercedes a Giles",
+  "Orden judicial": "Administrativa (Superior Gobierno, Asesor, D. I.)",
+  "Vendedor / antecesor": "Herederos de Pedro Díaz de Vivar (apod. Dr. J. Rayces)",
+  "Linderos citados": "Gaynor, C. Ojuez, E. Kelly, G. Lescano, F. Achabal de Llera",
+  "Medidas": "A-B 500 m; B-C 2643 m; C-D 694,85 m; D-A 2650 m (trapecio)",
+  "Rumbos": "N 30° 49′ O; N 59° 11′ E; S 63° 24′ O; var. 10° 30′ NE",
+  "Referencia de archivo": "AHG-PBA, duplicado 139 de S. A. de Giles"
+ },
+ "metricas": {
+  "superficie_ha": "157,90 (1 578 981 m² = 93 cuadras²)",
+  "hitos": "mojones de palo, fierro y piedra; alambrados; casa de negocio de A. Lorea; poblaciones",
+  "aguas": "ninguna citada"
+ },
+ "sintesis": "Un «sobrante» que no lo era. Juan Abadie denuncia en 1883 unas ochenta cuadras en el deslinde de Mercedes y Giles, que el Estado ni conocía. Ramón B. Castro las mide en noviembre de 1884 (157,90 ha) entre Gaynor, Ojuez, Kelly, la Lescano y la Llera, sobre el camino de Mercedes a Giles. Pero la ocupante paga arriendo al apoderado de los herederos de Pedro Díaz de Vivar y guarda un contrato de 1866: es tierra de la vieja merced de Vivar. El D. I. (Benoit) pide oír al apoderado; en 1888 Rafael Llera quiere comprarla.",
+ "caratula": {
+  "img": "img/f/139/01.jpg",
+  "fuente": "Toma IMG_0082",
+  "campos": [
+   [
+    "Número",
+    "N.º 139 (ambos ángulos)"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Repartición",
+    "Dirección de Geodesia y Catastro de la Provincia de Buenos Aires"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "de un campo denunciado como sobrante por Don Juan Abadie"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Ramón B. Castro"
+   ],
+   [
+    "Mes / Año",
+    "Enero / 1885"
+   ],
+   [
+    "Juzgado / Secretaría / Duplicados de referencia",
+    "en blanco"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Encabezamiento; extracto del expediente: denuncia de Juan Abadie (14/12/1884 [sic, por 1883]), informe del D. I. (8/2/1884), Asesor y resolución del Superior Gobierno (27-28/2/1884); propuesta de agrimensor (23/5/1884)",
+   "img": "img/f/139/07.jpg",
+   "fuente": "Toma IMG_0084",
+   "nota": "Hoja suelta, letra redonda y clara del copista; sello «Foja 1». El año de la denuncia («14 de Diciembre de 1884») es un desliz del copista por 1883: el informe del D. I. que la sigue es del 8/2/1884.",
+   "lineas": [
+    "[sello: Foja 1]",
+    "Duplicado de la diligencia de mensura de",
+    "un campo denunciado como sobrante por Don",
+    "Juan Abadie ubicado en el deslinde de los",
+    "Partidos de Mercedes y San Andres de Giles. —",
+    "—— Estracto del Espediente. ——",
+    "Con fecha 14 de Diciembre de 1884 [sic] Don Juan Abadie",
+    "se presentó al Superior Gobierno denunciando y",
+    "solicitando a la vez como sobrante un terreno, que",
+    "lo aprecia mas ó menos en ochenta cuadras cuadradas",
+    "ubicado en el deslinde de los Partidos de Mercedes",
+    "y San Andres de Giles y pide informe el Departa-",
+    "mento de Ingenieros al respecto. En 21 de Diciembre",
+    "pasa á informe del Departamento de Ingenieros.",
+    "El 8 de Febrero de 1884 el Departamento de Ingenieros",
+    "informa que no teniendo conocimiento de su existen-",
+    "cia debe el interesado hacer medir por su cuenta",
+    "el terreno que solicita. Con fecha 15 de Febrero del mis-",
+    "mo año pasó el espediente a informe del Asesor.",
+    "El 27 del mismo mes el Asesor aconseja al Superior",
+    "Gobierno proceda como lo indica el Departamento",
+    "de Ingenieros sin perjuicio de la resolucion defini-",
+    "tiva que corresponda dictar al caso ocurrente. —",
+    "Con fecha 28 del mismo mes el Superior Gobierno",
+    "toma como resolucion el dictamen del Asesor.",
+    "El 23 de Mayo de 1884 Don Juan Abadie propo-",
+    "ne al que suscribe para efectuar la mensura"
+   ],
+   "interpretacion": "Encabezamiento del duplicado de la mensura de un campo DENUNCIADO COMO SOBRANTE por JUAN ABADIE en el DESLINDE DE LOS PARTIDOS DE MERCEDES Y SAN ANDRÉS DE GILES. Extracto del expediente: el 14 de diciembre [de 1883] Abadie se presenta al Superior Gobierno denunciando y pidiendo a la vez un terreno que estima en unas OCHENTA CUADRAS CUADRADAS; el 21 pasa al Departamento de Ingenieros, que el 8/2/1884 informa que NO TIENE CONOCIMIENTO DE SU EXISTENCIA y que el interesado debe hacerlo medir por su cuenta; el Asesor (27/2) aconseja proceder así «sin perjuicio de la resolución definitiva», y el Gobierno lo adopta (28/2). El 23/5/1884 Abadie propone al agrimensor que firma."
+  },
+  {
+   "titulo": "Folio 1 v. · Comisión (31/5/1884) y antecedentes (27/6/1884); mensura: avisos en La Nación y La Prensa, principio el 17/11/1884; A-B contra el alambrado de Tomás Gaynor; ángulo recto en B",
+   "img": "img/f/139/08.jpg",
+   "fuente": "Toma IMG_0085 · página izquierda",
+   "nota": "Toma de doble página; borde izquierdo de los últimos renglones algo cortado en la foto.",
+   "lineas": [
+    "de este campo. El 31 de Mayo del mismo año",
+    "se me dió comision para practicar esta men-",
+    "sura. Con fecha 27 de Junio de 1884 tomé an-",
+    "tecedentes en el Departamento de Ingenieros",
+    "para efectuar esta operacion. ——",
+    "Mensura. Comisionado por el Superior Go-",
+    "bierno con fecha 31 de Mayo del año próximo pa-",
+    "sado para practicar la mensura de un cam-",
+    "po denunciado como sobrante por Don Juan",
+    "Abadie, en el deslinde de los partidos de Mercedes y",
+    "San Andres de Giles y despues de haber publicado",
+    "los avisos correspondientes en los diarios La Na-",
+    "cion y La Prensa de la Capital, me trasladé al",
+    "terreno y despues de haber notificado á los linde-",
+    "ros como puede verse por la circular adjunta á",
+    "la diligencia de Mensura, di principio á la",
+    "mensura el dia 17 de Noviembre de 1884. —",
+    "Linea AB. De A, mojon de palo esquinero de",
+    "Don Tomas Gaynor y del terreno denunciado como",
+    "sobrante, enfilé y medí con rumbo Norte trein-",
+    "ta grados cuarenta y nueve minutos Oeste qui-",
+    "nientos metros (500^{m}) por la linea alambrada de",
+    "dicho Señor Gaynor en cuyo punto llegué a un",
+    "mojon de palo costanero de este Señor y esquinero",
+    "[de] Don Ceferino Ojuez y del terreno que mido. —",
+    "[L]inea BC. En B medí el ángulo ABC que hace",
+    "[la] linea de Gaynor y la de Ojuez y resultó ser",
+    "[de] noventa grados, y de aqui enfilé y"
+   ],
+   "interpretacion": "El 31/5/1884 el Gobierno da la comisión a Castro; el 27/6 toma antecedentes en el Departamento de Ingenieros. Publica avisos en LA NACIÓN y LA PRENSA de la Capital, notifica a los linderos (circular) y EMPIEZA EL 17 DE NOVIEMBRE DE 1884. A-B: desde A, MOJÓN DE PALO esquinero de TOMÁS GAYNOR y del sobrante, N 30° 49′ O 500 m POR LA LÍNEA ALAMBRADA de Gaynor, hasta un mojón de palo costanero de Gaynor y esquinero de CEFERINO OJUEZ. En B el ángulo con la línea de Ojuez es de 90°."
+  },
+  {
+   "titulo": "Folio 2 · B-C N 59° 11′ E 2643 m contra Ceferino Ojuez y Elisa Kelly: casa de negocio de Adolfo Lorea, camino de Mercedes a Giles, mojón de fierro; C-D contra Gerónima Lescano por un alambrado, mojón de piedra",
+   "img": "img/f/139/09.jpg",
+   "fuente": "Toma IMG_0085 · página derecha",
+   "nota": "Sello «Foja 2».",
+   "lineas": [
+    "[sello: Foja 2]",
+    "// medí con rumbo Norte cincuenta y nueve grados",
+    "once minutos Este dos mil seiscientos cuaren-",
+    "ta y tres metros (2643^{m}) hasta C. A los trescien-",
+    "tos dos metros (302^{m}) encontré un mojon de palo cos-",
+    "tanero de Ojuez, á los quinientos treinta metros (530^{m})",
+    "llegué á la casa de Negocio de Don Adolfo Lorea",
+    "en campo de Ojuez por donde pasa el Camino de",
+    "Mercedes á San Andres de Giles, á los seiscientos se-",
+    "tenta y tres metros encontré el mojon de fierro es-",
+    "quinero de Don Ceferino Ojuez y de Doña Elisa",
+    "Kelly, á los mil ciento setenta y cuatro metros",
+    "(1174^{m}) encontré un mojon de palo costanero de la",
+    "Sra de Kelly, á los dos mil seiscientos cuarenta y",
+    "tres metros (2643^{m}) llegué al mojon de palo,",
+    "esquinero del terreno que mido y de la Sra Kelly y",
+    "costanero de Doña Geronima Lescano. ——",
+    "Linea CD. En C medí el ángulo que hace la",
+    "linea de la Sra de Kelly con la linea de la Sra de Lescano",
+    "y resultó de noventa grados, en seguida enfilé",
+    "y medí hasta D seiscientos noventa y cuatro",
+    "metros con ochenta y cinco centímetros (694^{m},85)",
+    "por la orilla de un alambrado que no sigue",
+    "exactamente la linea de mojones, á los cuatro-",
+    "cientos cuarenta metros encontré un mojon",
+    "de piedra quedando este dos metros adentro del",
+    "alambrado, es decir en terreno de la Sra de Lescano,",
+    "á los seiscientos veinte y cuatro metros (624^{m}) ter-",
+    "mina el alambrado quedando este adent[ro]"
+   ],
+   "interpretacion": "B-C N 59° 11′ E 2643 m: mojón de palo de Ojuez a 302 m; a 530 m la CASA DE NEGOCIO DE ADOLFO LOREA, en campo de Ojuez, por donde pasa el CAMINO DE MERCEDES A SAN ANDRÉS DE GILES; a 673 m MOJÓN DE FIERRO esquinero de Ojuez y ELISA KELLY; a 1174 m mojón de palo de Kelly; en C mojón de palo esquinero de Kelly y costanero de GERÓNIMA LESCANO. C-D, a 90°, 694,85 m por la orilla de un ALAMBRADO QUE NO SIGUE EXACTAMENTE LA LÍNEA DE MOJONES: a 440 m un MOJÓN DE PIEDRA que queda 2 m adentro del alambrado, es decir en terreno de la Lescano; el alambrado termina a 624 m…"
+  },
+  {
+   "titulo": "Folio 2 v. · C-D: el mojón D, puesto en línea con los mojones de Francisca A. de Llera con banderas, ángulo C-D-A de 85° 47′; D-A S 63° 24′ O 2650 m contra Llera, cruce del camino de Mercedes a Giles",
+   "img": "img/f/139/10.jpg",
+   "fuente": "Toma IMG_0086 · página izquierda",
+   "nota": "Letra del mismo copista.",
+   "lineas": [
+    "[dentro del] sobrante 4 metros, pero no existe ningun",
+    "mojon, á los seiscientos noventa y cuatro me-",
+    "tros con ochenta y cinco centímetros (694^{m} 85^{cm})",
+    "encontré un mojon de palo señalado en el plano",
+    "adjunto con la letra D, y que está en linea",
+    "con los mojones a y C. – Con el objeto de ver",
+    "si el mojon D estaba en linea con los mojo-",
+    "nes costaneros de Doña Francisca A. de Llera",
+    "y del terreno sobrante, hice poner bandera",
+    "en los dos primeros de estos y habiendo encon-",
+    "trado que estaba tomé este mojon D como",
+    "esquinero del sobrante, pues no habia nin-",
+    "gun lindero que me diera luz sobre el asun-",
+    "to, y despues de medir el ángulo de las lineas",
+    "CD y DA ó sea el CDA que resultó de ochenta",
+    "y cinco grados cuarenta y siete minutos,",
+    "enfilé y medí la linea DA. ——",
+    "Linea DA. De D enfilé y medí con rumbo",
+    "Sud sesenta y tres grados veinte y cuatro minutos",
+    "Oeste dos mil seiscientos cincuenta metros (2650^{m})",
+    "hasta A. A los setecientos setenta ^{y cinco} metros (775^{m})",
+    "encontré un mojon de fierro costanero de la Señora",
+    "de Llera, a los mil ciento cincuenta y ocho metros",
+    "(1158^{m}) encontré un mojon de palo costanero de",
+    "la misma Señora, a los dos mil dos ciento y siete",
+    "metros (2207^{m}) encontré un mojon de palo cos-",
+    "tanero de Llera, a los dos mil quinientos vein-",
+    "te metros intercepté el Camino de Mercedes á",
+    "[Sa]n Andres de Giles, a los dos mil seiscientos"
+   ],
+   "interpretacion": "… quedando 4 m dentro del sobrante, sin mojón. A 694,85 m un mojón de palo, D, en línea con los mojones a y C. Para comprobar si D estaba alineado con los mojones costaneros de FRANCISCA A[CHABAL] DE LLERA hace PONER BANDERAS en los dos primeros, y como lo estaba toma D por esquinero, «pues no había ningún lindero que me diera luz sobre el asunto». Ángulo C-D-A 85° 47′. D-A S 63° 24′ O 2650 m contra Llera: mojón de fierro a 775 m, de palo a 1158 y 2207 m; a 2520 m cruza el CAMINO DE MERCEDES A SAN ANDRÉS DE GILES…"
+  },
+  {
+   "titulo": "Folio 3 · Llegada al mojón de arranque A (ángulo 94° 13′); linderos; circular firmada; sin acta ni protesta; rumbos verdaderos, declinación 10° 30′ NE; firma de Ramón B. Castro (La Plata, 14/1/1885); nota sobre una población dentro del sobrante",
+   "img": "img/f/139/11.jpg",
+   "fuente": "Toma IMG_0086 · página derecha",
+   "nota": "Sello «Foja 3».",
+   "lineas": [
+    "[sello: Foja 3]",
+    "// cincuenta metros (2650^{m}) llegué al mojon de arran-",
+    "que A, que es tambien costanero de la Sra de Llera.",
+    "Despues medí el ángulo DAB que resultó ser de",
+    "noventa ^{y cuatro} grados trece minutos (94°13′) y di por",
+    "terminada la mensura del terreno denunciado",
+    "como sobrante por Don Juan Abadie. ——",
+    "Linderos. Los linderos actuales son: por",
+    "Nord Oeste Don Tomas Gaynor, por el Nord Este",
+    "Don Ceferino Ojuez y Doña Elisa Kelly, por el",
+    "Sud Este Doña Geronima Lescano, por el Sud",
+    "Oeste Doña Francisca Achabal de Llera. ——",
+    "Circular. Fueron notificados y firmaron la",
+    "circular los linderos Don Tomas Gaynor, Don Ce-",
+    "ferino Ojuez, Doña Elisa Kelly, Doña Geronima",
+    "Lescano y Don Rafael Llera apoderado de su",
+    "Sra madre Doña Francisca Achabal de Llera. —",
+    "Acta. No habiendo asistido ningun lindero",
+    "ni encargado a la mensura, no se levantó acta. —",
+    "Protesta. No hubo. ——",
+    "Rumbos. Todos son verdaderos. ——",
+    "Declinacion de la aguja 10°30′ Nord Este. ——",
+    "Ramon B. Castro [rúbrica]",
+    "La Plata Enero 14 de 1885",
+    "Nota. Adentro del sobrante denunciado por",
+    "Don Juan Abadié hay una poblacion de una"
+   ],
+   "interpretacion": "… y a 2650 m llega a A, costanero también de Llera; ángulo D-A-B 94° 13′ (los cuatro ángulos suman 360°). Linderos: NO Tomás Gaynor; NE Ceferino Ojuez y Elisa Kelly; SE Gerónima Lescano; SO Francisca Achabal de Llera. Firmaron la circular Gaynor, Ojuez, Kelly, Lescano y RAFAEL LLERA, apoderado de su madre. NO SE LEVANTÓ ACTA porque NINGÚN LINDERO NI ENCARGADO ASISTIÓ; no hubo protesta. Rumbos verdaderos; DECLINACIÓN 10° 30′ NE. Firma RAMÓN B. CASTRO, LA PLATA, 14/1/1885. Nota: dentro del sobrante hay UNA POBLACIÓN de una…"
+  },
+  {
+   "titulo": "Folio 3 v. · Nota (cont.): la ocupante paga arriendo al Dr. Juan Rayces, apoderado de los herederos de Pedro Díaz de Vivar; escritura de Gaynor; documento de 1866: Mariano Díaz de Vivar y Antonio Marcó del Pont arriendan el campo a Andrés Delgado",
+   "img": "img/f/139/12.jpg",
+   "fuente": "Toma IMG_0087 · página izquierda",
+   "nota": "Al margen, en recuadro a lápiz, «Fch.»; sello oval de entrada ilegible.",
+   "lineas": [
+    "// Señora que dice paga arriendo al Dr Don Juan",
+    "Rayces, y con el objeto de averiguar la verdad",
+    "de esto hablé con dicho Dr en su estudio de",
+    "abogado de la Capital, Bolivar N° 947 [?] me",
+    "manifestó que realmente percibia los arren-",
+    "dos de ese terreno, como apoderado que era de los",
+    "herederos de Don Pedro Diaz de Vivar, que son",
+    "propietarios de ese campo segun lo acredi-",
+    "taban titulos que tenian en debida forma.",
+    "De las escrituras de los campos linderos, la",
+    "única que he podido ver es la de Don Tomas",
+    "Gaynor, y esta da como lindero por ese costado",
+    "á los herederos de Diaz de Vivar. Ademas he tenido",
+    "en mi poder al practicar la mensura, un",
+    "documento del año de mil ochocientos sesenta",
+    "y seis por el cual consta que Don Mariano Diaz",
+    "de Vivar y Don Antonio Marcó del Pont arrien-",
+    "dan este terreno á Don Andres Delgado; este do-",
+    "cumento lo posee la Señora que actualmente",
+    "está poblando este campo.",
+    "[al margen, a lápiz, en recuadro: Fch.]",
+    "R. B. Castro [rúbrica]",
+    "[sello oval del Departamento de Ingenieros, ilegible]"
+   ],
+   "interpretacion": "… señora que dice pagar ARRIENDO al Dr. JUAN RAYCES. Castro fue a verlo a su estudio de abogado en la Capital (Bolívar 947 [?]): Rayces le confirmó que cobraba los arriendos como APODERADO DE LOS HEREDEROS DE PEDRO DÍAZ DE VIVAR, «propietarios de ese campo según lo acreditaban títulos que tenían en debida forma». La única escritura lindera que pudo ver, la de Gaynor, da por ese costado como lindero a los herederos de Díaz de Vivar. Y la ocupante tiene un documento de 1866 por el cual MARIANO DÍAZ DE VIVAR y ANTONIO MARCÓ DEL PONT ARRIENDAN este terreno a ANDRÉS DELGADO. El «sobrante» es, pues, tierra privada arrendada desde hace casi veinte años."
+  },
+  {
+   "titulo": "Folio 4 · Dictamen del Departamento de Ingenieros (20/1/1885, Pedro Salvadores y Pedro Benoit): sin observaciones técnicas, pero dar vista al Dr. Rayces; nota de 28/5/1888: Rafael Llera solicita en compra el terreno (Lagos)",
+   "img": "img/f/139/13.jpg",
+   "fuente": "Toma IMG_0087 · página derecha",
+   "nota": "Sello «Foja 4». Firmas de Pedro Salvadores y Pedro Benoit; la nota de 1888 es de otra mano.",
+   "lineas": [
+    "[sello: Foja 4]",
+    "Exmo Señor",
+    "El Departamento de Ingenieros ha exami-",
+    "nado la presente mensura practicada por",
+    "el ingeniero D. Ramon B. Castro del terreno",
+    "denunciado como de propiedad pública por",
+    "Don Juan Abadie en el deslinde de los partidos",
+    "de Mercedes y San Andrés de Giles, y no tiene",
+    "observacion que hacer sobre la operacion faculta-",
+    "tiva, pero segun lo manifestado por dicho ingeniero",
+    "al final de su diligencia, el mencionado terreno",
+    "se encuentra ocupado por una Señora que arrien-",
+    "da al Doctor D. Juan Rayces apoderado de los",
+    "herederos de D. Pedro Diaz de Vivar que segun",
+    "dicen son los propietarios del terreno medido. Así",
+    "es que, es necesario, que antes de ser aprobada se",
+    "le dé vista de este espediente al Doctor Rayces.",
+    "Enero 20 de 1885",
+    "Pedro Salvadores [rúbrica]     Pedro Benoit [rúbrica]",
+    "Mayo 28 de 1888. Rafael Llera so-",
+    "licita en compra el terreno de esta",
+    "mensura. — El D. informa en",
+    "Junio 9 [?]/888.     Lagos [rúbrica]"
+   ],
+   "interpretacion": "Dictamen del DEPARTAMENTO DE INGENIEROS (20/1/1885, PEDRO SALVADORES y PEDRO BENOIT): no hay observación sobre la operación facultativa, pero como el terreno lo ocupa una señora que arrienda al Dr. Rayces, apoderado de los herederos de Pedro Díaz de Vivar, «que según dicen son los propietarios», antes de aprobarla debe darse VISTA DEL EXPEDIENTE AL DOCTOR RAYCES. Nota posterior: el 28/5/1888 RAFAEL LLERA (hijo de la lindera SO) SOLICITA EN COMPRA el terreno de esta mensura; informe del Departamento en junio [?] de 1888 (Lagos). No hay resolución final en el duplicado."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano original de Ramón B. Castro (La Plata, 14/1/1885)",
+   "img": "img/f/139/03.jpg",
+   "fuente": "Toma IMG_0088",
+   "orientacion": "apaisado; flecha del N (aguja) diagonal, punta hacia arriba a la derecha",
+   "interpretacion": "Marco de esquinas redondeadas con filete doble. Trapecio alargado en verde: «Terreno denunciado como sobrante por JUAN ABADIE. Sup.: 1578981 m.c. = 93 cd. c.». Vértices A (SO) y B (NO) contra TOMÁS GAYNOR; arriba CEFERINO OJUEZ y ELISA KELLY; a la derecha GERÓNIMA LESCANO; abajo FRANCISCA ACHABAL DE LLERA. Rumbos y cotas: «N 30° 49′ E 500» [sic, por O] en A-B, «N 59° 11′ E 2643» en B-C con las progresivas 302, 673 y 1174, «S 30° 49′ E 694,85» en C-D y «S 63° 24′ O 2650» en D-A con 775, 1158, 2207. El CAMINO DE MERCEDES A S. ANDRÉS DE GILES cruza en diagonal el extremo O, junto a la «Casa de Negocio de Adolfo Lorea» (cuadradito sobre B-C); junto a D, la «Pobl.ⁿ de Llera». Escala gráfica de 1000 m. Firma: La Plata, Enero 14 de 1885, Ramón B. Castro. A lápiz al margen: «139 S. Andrés de Giles».",
+   "referencias": [
+    [
+     "A",
+     "mojón de palo, esquinero de Tomás Gaynor; costanero de Llera"
+    ],
+    [
+     "B",
+     "mojón de palo costanero de Gaynor y esquinero de Ceferino Ojuez (ángulo 90°)"
+    ],
+    [
+     "C",
+     "mojón de palo esquinero de Elisa Kelly y costanero de Gerónima Lescano (ángulo 90°)"
+    ],
+    [
+     "D",
+     "mojón de palo alineado con banderas sobre los de Llera (ángulo 85° 47′)"
+    ],
+    [
+     "673 m (B-C)",
+     "mojón de fierro esquinero de Ojuez y Kelly"
+    ],
+    [
+     "440 m (C-D)",
+     "mojón de piedra 2 m adentro del alambrado de la Lescano"
+    ],
+    [
+     "Casa de negocio",
+     "de Adolfo Lorea, a 530 m de B, en campo de Ojuez"
+    ],
+    [
+     "Pobl.ⁿ de Llera",
+     "rancho junto al vértice D, fuera del sobrante"
+    ],
+    [
+     "Línea de trazos",
+     "Camino de Mercedes a San Andrés de Giles (cruza D-A a 2520 m)"
+    ],
+    [
+     "Escala",
+     "barra de 1000 m (≈ 1:20 000)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: extremo O (Gaynor, Ojuez, camino y casa de negocio)",
+   "img": "img/f/139/04.jpg",
+   "fuente": "Toma IMG_0089",
+   "orientacion": "como el general",
+   "interpretacion": "Ampliación del vértice A-B con el camino de Mercedes a Giles y el rótulo de la casa de negocio de Adolfo Lorea.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: extremo E (Kelly, Lescano, vértice D)",
+   "img": "img/f/139/05.jpg",
+   "fuente": "Toma IMG_0090",
+   "orientacion": "como el general",
+   "interpretacion": "Ampliación del lado C-D con la cota 694,85, el rótulo «Pobl.ⁿ de Llera» y la firma.",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia de la Dirección de Geodesia y Catastro (La Plata, marzo de 1936)",
+   "img": "img/f/139/06.jpg",
+   "fuente": "Toma IMG_0091",
+   "orientacion": "como el original",
+   "interpretacion": "«Es copia del plano agregado al duplicado n.º 139 del partido San Andrés de Giles, mensura practicada en Enero de 1885 por el Agrimensor Ramón B. Castro. La Plata, Marzo 1936». Sello M. O. P., firma del director; «Dib. por O. Chaumeil – Rev. por J. Chiappino» (el revisor de las copias de 1936-1938 de 136 y 138). Sello «Foja 6» del duplicado. Repite el «N 30° 49′ E» del original.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Campo abierto de pastoreo sin aguas citadas, en el límite con Mercedes, cruzado por el CAMINO DE MERCEDES A SAN ANDRÉS DE GILES (en A-B y a 2520 m de D-A). Sobre ese camino, a 530 m de B, una CASA DE NEGOCIO (pulpería o almacén de campaña) de ADOLFO LOREA en campo de Ojuez; junto a D la «población» de Llera, y dentro del mismo sobrante otra POBLACIÓN, la de la arrendataria. Los linderos ya están ALAMBRADOS (Gaynor en A-B; Lescano en C-D, con un alambrado que no sigue la línea de mojones y deja un mojón de piedra 2 m adentro y 4 m del sobrante afuera)."
+  },
+  {
+   "titulo": "Ritual",
+   "texto": "Avisos en LA NACIÓN y LA PRENSA de la Capital, circular firmada por los cinco linderos (Llera por apoderado, su hijo Rafael). NADIE ASISTE a la mensura y NO SE LEVANTA ACTA: el ritual de presencia vecinal se reduce a la firma de la circular. El agrimensor resuelve el vértice D sin testigos haciendo PONER BANDERAS en los mojones de Llera para comprobar la alineación, «pues no había ningún lindero que me diera luz sobre el asunto». Luego hace su propia pesquisa: va al estudio del apoderado en la Capital."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Rumbos verdaderos con DECLINACIÓN 10° 30′ NE (enero de 1885), coherente con el descenso secular de la serie del corpus (11° 34′ en 1874-81; 10° 51′ en 1882). Mide los cuatro ángulos (90°, 90°, 85° 47′, 94° 13′: suman 360°). Verificado en python: el polígono cierra con 0,17 m de error y da 1 578 977 m², frente a 1 578 981 declarados (157,90 ha ≈ 93 cuadras cuadradas; Abadie había estimado ochenta). El plano escribe «N 30° 49′ E» en A-B, lapsus por O (el original y la copia de 1936 lo repiten). Tres materiales de mojón en una misma línea: palo, FIERRO y PIEDRA. Castro firma en LA PLATA, nueva capital provincial."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "El caso desnuda la lógica de la DENUNCIA DE SOBRANTES: un particular pide tierra «pública» que el propio Estado ignora («no teniendo conocimiento de su existencia») y la hace medir a su costa. Pero la tierra está ocupada por una arrendataria que paga renta a los HEREDEROS DE PEDRO DÍAZ DE VIVAR, por intermedio de un abogado porteño (Dr. Juan Rayces), y conserva un contrato de 1866 de Mariano Díaz de Vivar y Antonio Marcó del Pont con Andrés Delgado: la cadena de arriendos prueba la posesión privada por casi veinte años. El Departamento no aprueba sin oír al apoderado. En 1888 RAFAEL LLERA, hijo de la lindera, pide comprar el terreno: el mismo predio puede terminar vendido por el Estado a un vecino. Es la categoría de «sobrante perteneciente a los herederos de D. Pedro D. de Vivar» de Saubidet (039, 059) vista desde el otro lado."
+  },
+  {
+   "titulo": "Crítica documental",
+   "texto": "El año de la denuncia («14/12/1884») es error del copista por 1883. El apellido «Ojuez» (texto) aparece como «Oyuez» en otras fichas (094); el plano lo escribe Ojuez. Lecturas dudosas: el número de la calle Bolívar (947 [?]) y la fecha del informe de 1888 («Junio 9 [?]»). En la nota final la ocupante no tiene nombre («una Señora»). Falta la resolución del Gobierno y la circular; la copia de 1936 lleva el sello «Foja 6», así que el duplicado tenía al menos seis fojas."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "(0) 141 (estancia de Tomás Gaynor, Castro, marzo de 1885): su lado B-C, N 30° 49′ O, tiene a los 500 m el esquinero del sobrante: es el A-B de esta ficha; Castro reitera que según las escrituras de Gaynor esa tierra es de los herederos de Díaz de Vivar y que Rayces estaba en Mendoza; balizamiento a la casa de negocio de Lorea. (1) 094 (Ceferino Ojuez/Oyuez, Schuster 1878): faja entre la test.ª de Francisco Lescano (N), la TEST.ª DE P. DÍAZ DE VIVAR (O) y el campo Nugent (S, con Luisa Kelly): el sobrante de Abadie está en ese mismo vecindario, sobre el costado de Vivar. (2) 039 y 059 (Saubidet): «sobrante perteneciente a los herederos de D. Pedro D. de Vivar»; 062 (Salas y Benoit, 1872): el Departamento ya había sostenido que los excesos entre títulos de una misma merced no son de propiedad pública; en 1885 BENOIT vuelve a frenar una denuncia. (3) 108 (Gaynor entre los irlandeses que compran a los Acuña, alambrados de las cabezadas). (4) 113 y 095 (Gerónima Lescano de Gelves y las hijuelas Lescano/Ojuez sobre el arroyo de Noriega). (5) 023, 032, 035 (línea de mojones de Díaz de Vivar y merced de Vivar). (6) 120 y 138: ¿Juan Abadie pariente del agrimensor Félix D’Abadie (Dabadie)?"
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Se aprobó la mensura y a quién se adjudicó finalmente la tierra: a los herederos de Vivar, a Abadie o a Rafael Llera (1888)? ¿Quién era la arrendataria y qué relación tenía con Andrés Delgado? ¿Era Juan Abadie pariente del agrimensor Félix D’Abadie? Ubicar en GIS: el trapecio se apoya en el lado NE de la estancia de Gaynor (141), entre el vértice B y el mojón a 500 m, con el camino de Mercedes a Giles como control; la casa de negocio de Lorea es un punto de paisaje a buscar en otros planos."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Juan Abadie",
+   "rol": "Denunciante del sobrante",
+   "texto": "Denuncia el terreno ante el Superior Gobierno en diciembre de [1883] y propone al agrimensor (23/5/1884). Apellido de origen vasco-francés; no se halló información biográfica. Queda abierta su posible relación con el agrimensor Félix D’Abadie, activo en Giles en 1882-1884 (120, 138).",
+   "fuentes": "esta mensura; búsqueda web sin resultados"
+  },
+  {
+   "nombre": "Ramón B. Castro",
+   "rol": "Agrimensor / ingeniero",
+   "texto": "Primera aparición en el corpus. El D. I. lo llama «ingeniero». Firma en La Plata (enero de 1885), lo que sugiere que trabajaba cerca de la nueva administración provincial. Su redacción es ordenada (apartados Linderos, Circular, Acta, Protesta, Rumbos, Declinación) y hace una pesquisa propia sobre la ocupación. La búsqueda web no dio datos biográficos.",
+   "fuentes": "esta mensura; búsqueda web sin resultados"
+  },
+  {
+   "nombre": "Pedro Díaz de Vivar (herederos); Mariano Díaz de Vivar",
+   "rol": "Propietarios alegados",
+   "texto": "Descendientes del titular de la antigua merced de Vivar entre el arroyo del Sauce y la Cañada de la Cruz, cuya «línea de mojones» y cuyas «sobras» aparecen en 023, 032, 035, 039, 059 y 094. Mariano Díaz de Vivar arrienda el terreno en 1866, junto con Antonio Marcó del Pont, a Andrés Delgado.",
+   "fuentes": "fichas 023, 032, 035, 039, 059, 094, 139"
+  },
+  {
+   "nombre": "Dr. Juan Rayces",
+   "rol": "Abogado, apoderado de los herederos de vivar",
+   "texto": "Abogado con estudio en la Capital (calle Bolívar). Cobra los arriendos del campo como apoderado de los herederos de Pedro Díaz de Vivar. Sin datos en la búsqueda web.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Antonio Marcó del Pont",
+   "rol": "Coarrendador (1866)",
+   "texto": "Miembro de una conocida familia de comerciantes de Buenos Aires; aquí, junto a Mariano Díaz de Vivar, arrienda el campo a Andrés Delgado, lo que sugiere un vínculo por matrimonio o condominio con los Vivar. Sin precisión en este expediente.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Pedro Benoit",
+   "rol": "Departamento de ingenieros",
+   "texto": "Ingeniero y arquitecto (Buenos Aires, 1836-1897), figura central del Departamento de Ingenieros y del trazado de la ciudad de La Plata (1882). Ya en 1872 (062) había firmado con Salas el informe que niega carácter público a los excesos entre títulos de una misma merced; aquí pide vista a los herederos de Vivar antes de aprobar.",
+   "fuentes": "ficha 062; conocimiento general (biografía de Pedro Benoit)"
+  },
+  {
+   "nombre": "Pedro Salvadores",
+   "rol": "Departamento de ingenieros",
+   "texto": "Ingeniero del Departamento; firma el dictamen con Benoit (20/1/1885) y aparece en otros dictámenes del D. I. de los años 1880.",
+   "fuentes": "esta mensura; METODO.md"
+  },
+  {
+   "nombre": "Francisca Achabal de Llera; Rafael Llera",
+   "rol": "Lindera so; su hijo y apoderado",
+   "texto": "Dueña del campo al SO, con su «población» junto al vértice D; su hijo Rafael firma la circular y en 1888 pide comprar el terreno medido.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Ceferino Ojuez (Oyuez)",
+   "rol": "Lindero ne",
+   "texto": "Propietario de la faja medida por Schuster en 1878 (094) entre los Lescano y la testamentaría de Díaz de Vivar; en su campo está la casa de negocio de Adolfo Lorea sobre el camino de Mercedes a Giles.",
+   "fuentes": "fichas 094, 095, 139"
+  },
+  {
+   "nombre": "Otros",
+   "rol": "Linderos y terceros",
+   "texto": "Tomás Gaynor (NO; irlandés, cf. 108); Elisa Kelly (NE; familia Kelly, cf. 094 «Luisa Kelly» y Patricio Kelly); Gerónima Lescano (SE; cf. 113 Gerónima Lescano de Gelves); Adolfo Lorea (casa de negocio); Andrés Delgado (arrendatario de 1866); la «Señora» ocupante, sin nombre; D. I.: Lagos (1888); Geodesia 1936: O. Chaumeil, J. Chiappino.",
+   "fuentes": "esta mensura"
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/139/02.jpg",
+  "fuente": "Toma IMG_0083",
+  "lineas": [
+   "Giles",
+   "139.",
+   "Duplicado de la diligencia de",
+   "mensura de un terreno denunciado",
+   "como sobrante por Don Juan Abadie,",
+   "en el deslinde de los Partidos de",
+   "Mercedes y San Andrés de Giles,",
+   "mensurado por:",
+   "Ramon B. Castro [rúbrica]",
+   "[a lápiz:] 2-12-131"
+  ]
+ },
+ "titulo": "Juan Abadie (sobrante denunciado)",
+ "estado": "Transcripta (7 hojas, 185 renglones), 4 láminas"
+}

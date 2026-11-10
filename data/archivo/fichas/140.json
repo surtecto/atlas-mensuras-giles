@@ -1,0 +1,435 @@
+{
+ "carpeta": "140",
+ "carpeta_nombre": "Carpeta 140",
+ "archivo": "Ficha 140 - Tomás Gaynor (1885).docx",
+ "resumen": {
+  "Propietario / solicitante": "Tomás Gaynor",
+  "N.º de duplicado": "140",
+  "Agrimensor": "Ramón B. Castro",
+  "Año": "1885",
+  "Fecha de la diligencia": "Comisión 27/11/1884; mensura 12/3/1885; firma 1/5/1885; D. I. 8/5/1885",
+  "Ubicación": "Cerca de la estación Franklin (F. C. al Pacífico), entre lagunas y bañados",
+  "Orden judicial": "Juez Dr. Luis María Drago (Mercedes, Depto. del Centro)",
+  "Vendedor / antecesor": "Luisa Lovoler [?] de Seck [?] (1884) ← J. A. Aranguren ← J. F. Martínez",
+  "Linderos citados": "E. C. de Miró, J. M. Cazado, Zoilo Costa, S. E. Unzué, Cruz C. de Silva",
+  "Medidas": "1256 × 2598 m (≈ 1450 × 3000 v), paralelogramo",
+  "Rumbos": "N 45° 42′ O; S 43° 54′ O; var. 10° 30′ NE",
+  "Referencia de archivo": "AHG-PBA, duplicado 140 de S. A. de Giles"
+ },
+ "metricas": {
+  "superficie_ha": "326,2568 (0,1208 leguas²)",
+  "hitos": "mojones de palo, estaca; puesto de Gaynor; casas de F. Costa, J. Elizalde y R. Fresna; estación Franklin",
+  "aguas": "tres lagunitas, una laguna redonda de 1,20 m y bañados"
+ },
+ "sintesis": "Castro, dos meses después de medir el sobrante de Abadie (139), mide por orden judicial (juez Drago) el campo de su lindero Tomás Gaynor: un paralelogramo de 1256 × 2598 m (326,26 ha) que coincide casi al metro con el título, salido de una suerte de 1440 × 3000 varas de Juan Félix Martínez (1870 [?]). El paisaje es de lagunas y bañados: un mojón está dentro de una lagunita y una laguna redonda tiene 1,20 m de hondo. Los linderos firman por medio de arrendatarios e hijos. Novedad: Castro BALIZA sus mojones con ángulos a casas vecinas y a la ESTACIÓN FRANKLIN del Ferrocarril al Pacífico.",
+ "caratula": {
+  "img": "img/f/140/01.jpg",
+  "fuente": "Toma IMG_0092",
+  "campos": [
+   [
+    "Número",
+    "N.º 140 (ambos ángulos)"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Repartición",
+    "Dirección de Geodesia y Catastro de la Provincia de Buenos Aires"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Don Tomás Gaynor"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Ramón B. Castro"
+   ],
+   [
+    "Mes / Año",
+    "Mayo / 1885"
+   ],
+   [
+    "Juzgado / Secretaría / Duplicados de referencia",
+    "en blanco"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Encabezamiento; extracto de títulos: Juan Félix Martínez vende a Antonio Aranguren 1440 × 3000 v (Mercedes, 11/10/1870 [?]); José Antonio Aranguren vende a Luisa Lovoler [?] de Seck [?] (27/7/1876); ésta vende a Tomás Gaynor 326,2308 ha (22/2/1884)",
+   "img": "img/f/140/07.jpg",
+   "fuente": "Toma IMG_0094",
+   "nota": "Hoja suelta (rot 90), letra del copista de la 139; sello «Foja 1». El año de la primera venta está retocado (¿1870 sobre 1850?). El apellido de la vendedora de 1876-1884 es de lectura dudosa («Lovoler de Seck»).",
+   "lineas": [
+    "[sello: Foja 1]",
+    "Duplicado de la diligencia de mensura de un cam-",
+    "po de propiedad de Don Tomas Gaynor, ubicado en el",
+    "partido de San Andres de Giles. ——",
+    "—— Estracto de Titulos. ——",
+    "En Mercedes á once de Octubre de 1870 [?] Don Juan Felix Mar-",
+    "tinez vende á Don Antonio Aranguren un terreno",
+    "de su propiedad sito en el partido de San Andres de Giles",
+    "que mide mil cuatrocientas cuarenta varas de frente",
+    "por tres mil varas de fondo y lindando por el ~~...~~",
+    "Este con el vendedor, al Oeste con Don Pedro Silva, al",
+    "Sud con los herederos de Don José M. Lima, por el Norte",
+    "con los herederos de Don Manuel Miró. ——",
+    "En veinte y siete de Julio de 1876 en la Ciudad de Mercedes,",
+    "Don José Antonio Aranguren vendió á Doña Luisa",
+    "Lovoler [?] de Seck [?] un terreno de su propiedad ubicado",
+    "en el partido de San Andres de Giles cuya superficie",
+    "mide mil doscientos cincuenta y cinco metros con",
+    "setenta centímetros por dos mil quinientos noven-",
+    "ta y ocho metros y lindando: por el Sud con los here-",
+    "deros de Don Mariano Lima, por el Este con Don José",
+    "M. Chavarria, por el Norte con Don Manuel Miró,",
+    "por el Oeste con Don Pedro Silva. ——",
+    "En Mercedes á veinte y dos de Febrero de 1884 la",
+    "Señora Doña Luisa Lovoler [?] de Seck [?] vendió á",
+    "Don Tomas Gaynor este mismo terreno cuya su-",
+    "perficie es de trescientas veinte y seis hectareas",
+    "veinte y tres areas y ocho centiareas. ——"
+   ],
+   "interpretacion": "Duplicado de la mensura del campo de TOMÁS GAYNOR en San Andrés de Giles. Títulos: (1) Mercedes, 11/10/1870 [?]: JUAN FÉLIX MARTÍNEZ vende a ANTONIO ARANGUREN 1440 v de frente × 3000 v de fondo, entre el vendedor (E), PEDRO SILVA (O), herederos de JOSÉ M. LIMA (S) y herederos de MANUEL MIRÓ (N). (2) Mercedes, 27/7/1876: JOSÉ ANTONIO ARANGUREN vende a LUISA LOVOLER [?] DE SECK [?] el mismo campo, ya expresado en el SISTEMA MÉTRICO: 1255,70 × 2598 m, entre herederos de Mariano Lima (S), JOSÉ M. CHAVARRÍA (E), Manuel Miró (N) y Pedro Silva (O). (3) Mercedes, 22/2/1884: ella lo vende a GAYNOR con 326 ha 23 a 8 ca."
+  },
+  {
+   "titulo": "Folio 1 v. · Antecedentes (3/3/1885); comisión del juez Luis María Drago (27/11/1884); edictos en Mercedes y en «El Diario» de la Capital; principio el 12/3/1885; A-B contra Zoilo Costa (laguna, estaca)",
+   "img": "img/f/140/08.jpg",
+   "fuente": "Toma IMG_0095 · página izquierda",
+   "nota": "Toma de doble página.",
+   "lineas": [
+    "// Antecedentes. El tres de Marzo de 1885 tomé",
+    "antecedentes en el Departamento de Ingenieros",
+    "para practicar esta mensura. ——",
+    "Mensura. Comisionado por el Señor Juez",
+    "de 1^{a} Instancia en lo Civil y Comercial del De-",
+    "partamento del Centro, Dr Dn Luis Maria Drago, pa-",
+    "ra practicar la mensura de un campo de propiedad",
+    "de Dn Tomas Gaynor ubicado en el Partido de",
+    "San Andres de Giles, con fecha veinte y siete de No-",
+    "viembre de 1884 y despues de haber publicado los",
+    "edictos ordenados por el Juez en los diarios \"El Pueblis-",
+    "ta [?]\" de la Ciudad de Mercedes, y en \"El Diario\" de la",
+    "Capital, y de haber notificado á los linderos como",
+    "consta en la circular adjunta á la diligencia de men-",
+    "sura, di principio á la operacion el dia doce de",
+    "Marzo del corriente año. ——",
+    "Linea AB. De A mojon esquinero de Dn Tomas",
+    "Gaynor y de Dn José M. Cazado y costanero de Dn Zoilo",
+    "Costa, enfilé y medí con rumbo Norte cuarenta",
+    "y cinco grados cuarenta y dos minutos Oeste, des-",
+    "pues de haber medido el ángulo en A que es de no-",
+    "venta grados veinte y cuatro minutos. A los cin-",
+    "cuenta metros entré a una lagunita y salí de ella á",
+    "los ciento cuarenta, a los setecientos cuarenta y cinco metros",
+    "encontré una estaca, a los mil doscientos cincuenta",
+    "y seis metros llegué al mojon B esquinero de Gaynor",
+    "y de Cazado y costanero de Doña Eustaquia C. de Miró.",
+    "Medí el ángulo ABC que resultó ser de ochenta y nueve"
+   ],
+   "interpretacion": "El 3/3/1885 Castro toma antecedentes en el Departamento de Ingenieros. Comisión JUDICIAL: el juez de 1.ª instancia civil y comercial del Departamento del Centro, Dr. LUIS MARÍA DRAGO, lo nombra el 27/11/1884. Edictos en «El Pueblista [?]» de Mercedes y «El Diario» de la Capital; circular a los linderos; principio el 12/3/1885. A-B: desde A, esquinero de Gaynor y de JOSÉ M. CAZADO y costanero de ZOILO COSTA, ángulo de 90° 24′, rumbo N 45° 42′ O; a 50 m entra en una LAGUNITA y sale a 140; a 745 m una ESTACA; a 1256 m el mojón B, esquinero de Gaynor y Cazado y costanero de EUSTAQUIA C. DE MIRÓ. Ángulo A-B-C de 89°…"
+  },
+  {
+   "titulo": "Folio 2 · B-C S 43° 54′ O 2598 m contra Eustaquia C. de Miró (bañado, lagunita; mojón C dentro de la lagunita); C-D S 45° 42′ E 1256 m por un bañado; D-A N 43° 54′ E 2598 m contra Unzué",
+   "img": "img/f/140/09.jpg",
+   "fuente": "Toma IMG_0095 · página derecha",
+   "nota": "Sello «Foja 2».",
+   "lineas": [
+    "[sello: Foja 2]",
+    "// grados treinta y seis minutos. ——",
+    "Linea BC. Del mojon B enfilé y medí con",
+    "rumbo Sud cuarenta y tres grados cincuenta y cua-",
+    "tro minutos Oeste dos mil quinientos noventa y",
+    "ocho metros. A los seiscientos cincuenta y cinco metros",
+    "encontré un mojon de palo en un bañado, a los mil",
+    "trescientos, cinco metros encontré otro mojon de palo,",
+    "a los mil setecientos cuarenta y cinco otro, todos tres",
+    "costaneros del Señor Gaynor y de la Sra de Miró; á los dos mil",
+    "cuatrocientos cuarenta metros entré a una lagunita",
+    "y a los dos mil quinientos noventa y ocho metros llegué",
+    "al mojon C de palo que está adentro de la lagunita",
+    "esquinero de Gaynor y Da Cruz C. de Silva y costanero",
+    "de la Sra de Miró, en seguida medí el ángulo en C que",
+    "es de noventa grados veinte y cuatro minutos. —",
+    "Linea CD. De C enfilé y medí con rumbo Sud",
+    "cuarenta y cinco grados cuarenta y dos minutos Este",
+    "mil doscientos cincuenta y seis metros por un baña-",
+    "do hasta D en cuyo punto encontré el mojon esquinero",
+    "de Gaynor y de Unzué y costanero de la Sra de Silva. —",
+    "Linea DA. Despues de haber medido el ángulo",
+    "que hacen las lineas CD y DA que resultó ser de ochen-",
+    "ta y nueve grados treinta y seis minutos, enfilé",
+    "y medí con rumbo Norte cuarenta y tres",
+    "grados cincuenta y cuatro minutos Este dos",
+    "mil quinientos noventa y ocho metros has-",
+    "ta A. A los nueve cientos veinte y siete metros",
+    "encontré el mojon de palo esquinero de Unzué"
+   ],
+   "interpretacion": "… 36′. B-C S 43° 54′ O 2598 m contra la Miró: mojones de palo a 655 m (EN UN BAÑADO), 1305 y 1745 m; a 2440 m entra en una LAGUNITA y a 2598 m llega al mojón C, de palo, DENTRO DE LA LAGUNITA, esquinero de CRUZ C. DE SILVA. Ángulo en C 90° 24′. C-D S 45° 42′ E 1256 m POR UN BAÑADO hasta D, esquinero de Gaynor y de UNZUÉ. Ángulo C-D-A 89° 36′. D-A N 43° 54′ E 2598 m; a 927 m mojón de palo esquinero de Unzué…"
+  },
+  {
+   "titulo": "Folio 2 v. · D-A (cont.): puesto de Gaynor sobre la línea, laguna redonda de 1,20 m de profundidad; superficie 326,2568 ha (paralelogramo; 0,1208 leguas²); linderos; circular firmada por arrendatarios y parientes",
+   "img": "img/f/140/10.jpg",
+   "fuente": "Toma IMG_0096 · página izquierda",
+   "nota": "Letra del mismo copista.",
+   "lineas": [
+    "// y de Costa, costanero de Gaynor, a los mil doscien-",
+    "tos cincuenta metros enfrente un puesto de Gaynor",
+    "que está sobre la linea, a los mil quinientos once me-",
+    "tros encontré un mojon de palo costanero de Gaynor",
+    "y de Costa, a los mil ochocientos setenta y cinco me-",
+    "tros entré a una laguna cuya profundidad en el",
+    "centro es de 1,20 y de forma redonda a los dos mil",
+    "trescientos metros salí de esta laguna, a los dos mil",
+    "quinientos noventa y ocho metros llegué al mojon",
+    "esquinero A de arranque quedando así terminada",
+    "la operacion. ——",
+    "Superficie. La figura del terreno deslindado",
+    "es la de un paralelógramo cuya superficie ascien-",
+    "de á trescientas veinte y seis hectareas, veinte y",
+    "cinco areas, y sesenta y ocho centiareas, ó sean mil",
+    "doscientos ocho diez milesimos de legua cuadrada.",
+    "Linderos. Los linderos son: Por el Nord Oeste",
+    "Doña Eustaquia C. de Miró, por el Sud Este Dn",
+    "Saturnino E. Unzué y Dn Zoilo Costa, por el Nord",
+    "Este Don José M. Cazado y por el Sud Oeste Doña",
+    "Cruz C. de Silva. ——",
+    "Circular. Firmaron la circular, Dn Juan",
+    "Elizalde arrendatario de Dn Zoilo Costa, Dn",
+    "Genaro Mantecon arrendatario de Dn José M.",
+    "Cazado, Dn Patricio Miró por su Señora Madre",
+    "Doña Eustaquia C. de Miró, Dn Nemesio Silva á",
+    "ruego de Doña Cruz C. de Silva y Dn Saturnino J.",
+    "Unzué por su Sr Padre Dn Saturnino E. Unzué. —"
+   ],
+   "interpretacion": "… y de Costa; a 1250 m, enfrente, un PUESTO DE GAYNOR sobre la línea; mojón a 1511 m; de 1875 a 2300 m cruza una LAGUNA REDONDA de 1,20 m de profundidad en el centro; a 2598 m llega a A. SUPERFICIE: un paralelogramo de 326 ha 25 a 68 ca = 0,1208 leguas cuadradas. Linderos: NO Eustaquia C. de Miró; SE Saturnino E. Unzué y Zoilo Costa; NE José M. Cazado; SO Cruz C. de Silva. Firmaron la circular JUAN ELIZALDE, ARRENDATARIO de Costa; GENARO MANTECÓN, ARRENDATARIO de Cazado; PATRICIO MIRÓ por su madre; NEMESIO SILVA a ruego de Cruz C. de Silva; SATURNINO J. UNZUÉ por su padre SATURNINO E. UNZUÉ."
+  },
+  {
+   "titulo": "Folio 3 · Sin acta ni protesta; rumbos verdaderos, declinación 10° 30′ NE; balizamientos desde los mojones a la casa de Federico Costa, la estación Franklin del F. C. de Buenos Aires al Pacífico, la casa de Juan Elizalde y la casa de negocio de Rafael Fresna; firma de Ramón B. Castro (La Plata, 1/5/1885)",
+   "img": "img/f/140/11.jpg",
+   "fuente": "Toma IMG_0096 · página derecha",
+   "nota": "Sello «Foja 3»; sello oval de entrada del Departamento de Ingenieros (mayo de 1885).",
+   "lineas": [
+    "[sello: Foja 3]",
+    "// Acta. Por no haber asistido ningun lindero ni",
+    "encargado de estos, no se levantó acta. ——",
+    "Protesta. No hubo. ——",
+    "Rumbos. Todos son verdaderos. ——",
+    "Declinacion de la aguja 10°30′ N.E. ——",
+    "Balizamientos. Mojon A. con linea AD y la casa",
+    "de Dn Federico Costa, á la derecha treinta y seis grados",
+    "treinta minutos, con la misma linea y la estacion",
+    "Franclin del Ferro Carril de Buenos Aires al Pacífico",
+    "setenta y seis grados siete minutos á la izquierda.",
+    "Mojon B con linea BA y casa de Elizalde Dn Juan",
+    "seis grados cuarenta y tres minutos á la derecha, con",
+    "la misma linea y casa de Dn Federico Costa ciento",
+    "quince grados veinte y cuatro minutos á la derecha.",
+    "Mojon C. con linea atras izquierda y casa de Dn",
+    "Federico Costa ciento treinta y dos grados cincuenta",
+    "y cinco minutos; con la misma linea y lado y",
+    "casa de negocio de Dn Rafael Fresna treinta y siete",
+    "grados cuarenta y seis minutos. ——",
+    "La Plata, Mayo 1° de 1885",
+    "Ramon B. Castro [rúbrica]",
+    "[sello oval: Departamento de Ingenieros de la Provincia · Entradas · [..] MAY 85]"
+   ],
+   "interpretacion": "No se levantó acta porque no asistió ningún lindero ni encargado; no hubo protesta. Rumbos verdaderos; DECLINACIÓN 10° 30′ NE. BALIZAMIENTOS (ángulos medidos desde los mojones a referencias visibles): desde A, entre la línea A-D y la CASA DE FEDERICO COSTA 36° 30′ a la derecha, y con la ESTACIÓN FRANKLIN DEL FERRO CARRIL DE BUENOS AIRES AL PACÍFICO 76° 7′ a la izquierda; desde B, con la CASA DE JUAN ELIZALDE 6° 43′ y con la de Costa 115° 24′ a la derecha; desde C, con la casa de Costa 132° 55′ y con la CASA DE NEGOCIO DE RAFAEL FRESNA 37° 46′. Firma: LA PLATA, 1/5/1885, Ramón B. Castro."
+  },
+  {
+   "titulo": "Folio 3 v. · Dictamen del Departamento de Ingenieros (8 [?]/5/1885, P. Salvadores, Jorge Coquet, Lagos): la mensura está bien ejecutada y se aprueba en la parte facultativa",
+   "img": "img/f/140/12.jpg",
+   "fuente": "Toma IMG_0097 · página izquierda",
+   "nota": "Página derecha en blanco.",
+   "lineas": [
+    "Juez de 1^{a} Instancia.",
+    "La presente mensura practicada por el",
+    "Ingeniero Dn Ramon B. Castro del terreno",
+    "de propiedad de Dn Tomas Gaynor situa-",
+    "do en el partido de San Andres de Giles",
+    "está bien ejecutada, y el Departamento",
+    "de Ingenieros la aprueba en la parte",
+    "facultativa.",
+    "Mayo 8/885.",
+    "P. Salvadores [rúbrica]     Jorge Coquet [rúbrica]",
+    "Lagos [rúbrica]",
+    "[página derecha en blanco; se transparenta el plano plegado]"
+   ],
+   "interpretacion": "Dictamen del DEPARTAMENTO DE INGENIEROS al juez (8 de mayo de 1885, P. SALVADORES, JORGE COQUET, LAGOS): la mensura «está bien ejecutada» y el Departamento LA APRUEBA EN LA PARTE FACULTATIVA. No está el auto judicial."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano original de Ramón B. Castro (La Plata, 1/5/1885)",
+   "img": "img/f/140/03.jpg",
+   "fuente": "Toma IMG_0098",
+   "orientacion": "apaisado; aguja del N en diagonal (punta arriba a la derecha)",
+   "interpretacion": "Marco redondeado de filete doble, como el de la 139. Rectángulo con borde ocre: «TOMÁS GAYNOR. Sup: 526 [sic, por 326] hect.ˢ 25 a.ˢ 68 c.ˢ = 1208/10000 leg.ˢ c.ˢ». Arriba EUSTAQUIA C. DE MIRÓ (antes Manuel Miró); a la izquierda CRUZ C. DE SILVA; a la derecha JOSÉ M. CAZADO (antes José M. Chavarría); abajo SATURNINO E. UNZUÉ (antes hered.ˢ de Mariano Lima) y ZOILA [sic] COSTA. Vértices A (abajo a la derecha), B, C, D con cotas 1256 y 2598 y rumbos N 45° 42′ O, S 43° 54′ O, S 45° 42′ E, N 43° 54′ E; progresivas 655, 1305, 2598 en B-C y 927, 1511 en D-A. LAGUNAS y bañados en aguada azul: en C, en D, junto a A y una grande y redonda sobre D-A; trazos de pasto (bañado) en el interior. «P.º» (puesto de Gaynor) sobre D-A y «P.º de Elizalde» junto a A. Escala gráfica de 1000 m.",
+   "referencias": [
+    [
+     "A",
+     "mojón esquinero de Gaynor y Cazado, costanero de Zoilo Costa (90° 24′); junto a una laguna"
+    ],
+    [
+     "B",
+     "mojón esquinero de Gaynor y Cazado, costanero de E. C. de Miró"
+    ],
+    [
+     "C",
+     "mojón de palo DENTRO DE UNA LAGUNITA, esquinero de Cruz C. de Silva"
+    ],
+    [
+     "D",
+     "mojón esquinero de Gaynor y Unzué, costanero de Silva; laguna"
+    ],
+    [
+     "P.º",
+     "puesto de Gaynor sobre la línea D-A (≈ 1250 m)"
+    ],
+    [
+     "P.º de Elizalde",
+     "puesto o casa de Juan Elizalde, arrendatario de Costa"
+    ],
+    [
+     "Manchas azules",
+     "lagunitas y laguna redonda (1,20 m de profundidad)"
+    ],
+    [
+     "Sup. «526»",
+     "error del dibujante; texto y copia de 1937: 326 ha"
+    ],
+    [
+     "Linderos «antes»",
+     "Manuel Miró, José M. Chavarría, herederos de Mariano Lima: los del título de 1876"
+    ],
+    [
+     "Escala",
+     "barra de 1000 m"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: costado O (C-D) y lagunas",
+   "img": "img/f/140/04.jpg",
+   "fuente": "Toma IMG_0099",
+   "orientacion": "como el general",
+   "interpretacion": "Ampliación de los vértices C y D con las lagunas en aguada y el rumbo S 45° 42′ E.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: costado E (A-B), laguna redonda y firma",
+   "img": "img/f/140/05.jpg",
+   "fuente": "Toma IMG_0100",
+   "orientacion": "como el general",
+   "interpretacion": "Ampliación del vértice A con la laguna grande, el puesto de Elizalde y la firma de Castro.",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia de la Dirección de Geodesia y Catastro (La Plata, mayo de 1937)",
+   "img": "img/f/140/06.jpg",
+   "fuente": "Toma IMG_0101",
+   "orientacion": "como el original",
+   "interpretacion": "«Es copia del plano agregado al duplicado n.º 140 del partido de San Andrés de Giles, mensura practicada en Mayo de 1885 por el Agrimensor Ramón B. Castro. La Plata, Mayo 1937». Sello M. O. P., firma del director; «Dib. por O. Chaumeil – Rev. por F. Venges [?]». CORRIGE la superficie a «326 hect.» (el original dice 526).",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Campo bajo y anegadizo: LAGUNITA en A-B (50-140 m), BAÑADO en B-C, mojón C DENTRO DE UNA LAGUNITA, el lado C-D entero «por un bañado», y en D-A una LAGUNA REDONDA con 1,20 m de profundidad en el centro (Castro la sondeó). El plano pinta las lagunas en aguada azul. Poblaciones dispersas: un PUESTO DE GAYNOR sobre la línea D-A, las CASAS de Federico Costa y Juan Elizalde, la CASA DE NEGOCIO de Rafael Fresna, y la ESTACIÓN FRANKLIN del Ferrocarril de Buenos Aires al Pacífico a la vista desde el mojón A: el ferrocarril (cf. 136, carátula «Est. Franklyn», y 137) ya es un hito del paisaje en 1885."
+  },
+  {
+   "titulo": "Ritual",
+   "texto": "Comisión judicial (juez Drago) con edictos en un diario de Mercedes y en «El Diario» de la Capital; circular firmada, pero NINGÚN LINDERO ASISTE y NO HAY ACTA, igual que en la 139. Firman por los propietarios ARRENDATARIOS (Elizalde por Costa, Mantecón por Cazado) e HIJOS (Patricio Miró, Saturnino J. Unzué) o un pariente a ruego (Nemesio Silva por Cruz C. de Silva, que no sabría firmar): los dueños ausentes, la tierra en manos de arrendatarios. El nuevo rito técnico es el BALIZAMIENTO: dejar los mojones referidos por ángulos a edificios estables."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Rumbos verdaderos, declinación 10° 30′ NE (la misma de la 139, enero de 1885). Ángulos medidos en los cuatro vértices (90° 24′ / 89° 36′ alternados): un paralelogramo casi rectángulo. Verificado en python: 1256 × 2598 m con esos rumbos dan 326,30 ha, contra 326,2568 declaradas (diferencia de ≈ 440 m², 0,01 %) y 326,2308 del título de 1884: el campo «cierra» al título casi exactamente. Superficie expresada también en diezmilésimos de LEGUA CUADRADA (0,1208), puente entre el sistema métrico y la legua. El título ya pasa a metros en 1876 (1255,70 × 2598), equivalente a 1450 × 3000 varas; la venta de 1870 [?] dice 1440 varas. BALIZAMIENTOS por ángulos (A: 36° 30′ a la casa de Costa, 76° 7′ a la estación Franklin), técnica de referenciación que no había aparecido antes en el corpus. Error del dibujante en la superficie del plano (526 por 326), corregido en la copia de 1937."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena: Juan Félix Martínez → Antonio (José Antonio) Aranguren (1870 [?]) → Luisa Lovoler [?] de Seck [?] (1876) → Tomás Gaynor (1884), todas las escrituras en MERCEDES. Gaynor, irlandés (cf. 108), compra un campo ya delimitado. Los linderos han cambiado de manos y la ficha lo registra («antes Manuel Miró», «antes José M. Chavarría», «antes hered.ˢ de Mariano Lima»): EUSTAQUIA C. DE MIRÓ, viuda; SATURNINO E. UNZUÉ, gran propietario porteño, sucede a los Lima; Cazado y Costa ARRIENDAN. Mensura de MERO DESLINDE para perfeccionar un título reciente: no hay sobrante ni conflicto."
+  },
+  {
+   "titulo": "Crítica documental",
+   "texto": "Fechas: el texto dice «tres de Marzo» y «doce de Marzo» (lectura de «Marzo» por la forma de la z; la firma es del 1.º de mayo y el sello de entrada de mayo de 1885); el año de la venta de Martínez (1870) está retocado; el día del dictamen (8 [?]). Nombres dudosos: LOVOLER [?] DE SECK [?] y el diario «El Pueblista [?]». ZOILO (texto) / ZOILA (plano) Costa; CAZADO en plano y texto («Casado»). No se transcribe el auto de aprobación (no fotografiado o inexistente en el duplicado)."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "(1) 139 y 141: Castro mide en 1884-85 tres trabajos seguidos. El campo de esta ficha es un SEGUNDO campo de Gaynor; su ESTANCIA principal (820 ha, arroyo de Noriega) es la 141, cuyo lado B-C (N 30° 49′ O) es la línea alambrada de la 139. (2) 136 y 137: ESTACIÓN FRANKLIN del F. C. al Pacífico (carátula «Est. Franklyn» de la 136). (3) 108: Gaynor entre los irlandeses que compran en las cabezadas. (4) 138 y 140: Drago, Salvadores, Coquet y Lagos firman en los mismos meses. (5) Unzué (cf. 124: Saturnino Unzué) y Miró (cf. 092: faja de Eustaquia Cuello de Miró)."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Es «C.» de Eustaquia C. de Miró = Cuello (092)? ¿Y el «C.» de Cruz C. de Silva? ¿Quién era Luisa Lovoler [?] de Seck [?]? Ubicar el campo en GIS con el balizamiento: el ángulo de 76° 7′ desde A hacia la estación Franklin permite fijar la orientación del predio respecto de la estación (hoy Franklin, partido de S. A. de Giles)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Tomás Gaynor",
+   "rol": "Propietario",
+   "texto": "Apellido irlandés (Gaynor/Gainor), de la inmigración irlandesa ganadera del noroeste bonaerense; compra a los Acuña en las cabezadas (108) y en 1884 este campo a Luisa Lovoler [?] de Seck [?]. Lindero NO del sobrante de Abadie (139); su estancia principal es la 141. Sin más datos en la web.",
+   "fuentes": "fichas 108, 139, 140"
+  },
+  {
+   "nombre": "Ramón B. Castro",
+   "rol": "Ingeniero / agrimensor",
+   "texto": "Segunda mensura suya en el corpus, consecutiva de la 139 y con el mismo formato (apartados Antecedentes, Mensura, Superficie, Linderos, Circular, Acta, Protesta, Rumbos, Declinación) más un apartado nuevo de BALIZAMIENTOS. Firma en La Plata. Sin datos biográficos en la web.",
+   "fuentes": "fichas 139, 140"
+  },
+  {
+   "nombre": "Luis María Drago",
+   "rol": "Juez",
+   "texto": "Juez de 1.ª instancia civil y comercial del Departamento del Centro (Mercedes) en 1884-85 (cf. 136, 138); luego canciller y autor de la Doctrina Drago (1902).",
+   "fuentes": "fichas 136, 138; Wikipedia"
+  },
+  {
+   "nombre": "Juan Félix Martínez; Antonio (José Antonio) Aranguren; Luisa Lovoler [?] de Seck [?]",
+   "rol": "Antecesores",
+   "texto": "Cadena de vendedores (1870 [?], 1876, 1884) con escrituras en Mercedes. Martínez se reserva el campo al E. Sin datos en la web.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "Saturnino E. Unzué; Saturnino J. Unzué",
+   "rol": "Lindero se; su hijo",
+   "texto": "Saturnino E. Unzué fue uno de los grandes estancieros porteños del siglo XIX; aquí sucede a los herederos de Mariano Lima. Su hijo Saturnino J. firma la circular.",
+   "fuentes": "esta mensura; conocimiento general"
+  },
+  {
+   "nombre": "Eustaquia C. de Miró; Patricio Miró",
+   "rol": "Lindera no; su hijo",
+   "texto": "Sucede a Manuel Miró (¿su marido?). ¿Es la Eustaquia Cuello de Miró de la faja de la 092?",
+   "fuentes": "fichas 092, 140"
+  },
+  {
+   "nombre": "Pedro Salvadores; Jorge Coquet; Lagos",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firman el dictamen aprobatorio (mayo de 1885); los mismos que en 138 y 139.",
+   "fuentes": "fichas 138, 139, 140"
+  },
+  {
+   "nombre": "Otros",
+   "rol": "Linderos, arrendatarios y vecinos",
+   "texto": "José M. Cazado (antes José M. Chavarría) y su arrendatario Genaro Mantecón; Zoilo (Zoila) Costa y su arrendatario Juan Elizalde; Cruz C. de Silva y Nemesio Silva (antes Pedro Silva); Federico Costa (casa); Rafael Fresna (casa de negocio); herederos de José M. / Mariano Lima; Geodesia 1937: O. Chaumeil, F. Venges [?].",
+   "fuentes": "esta mensura"
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/140/02.jpg",
+  "fuente": "Toma IMG_0093",
+  "lineas": [
+   "Giles 140.",
+   "Duplicado de la diligencia de mensu-",
+   "ra de un terreno de propiedad de Dn",
+   "Tomas Gaynor ubicado en el partido",
+   "de San Andres de Giles. Mensurado",
+   "por el Ingeniero Dn Ramon B. Castro",
+   "en Mayo de 1885. ——",
+   "R. B. Castro [rúbrica]",
+   "[a lápiz:] 1-194-55"
+  ]
+ },
+ "titulo": "Tomás Gaynor",
+ "estado": "Transcripta (6 hojas, 148 renglones), 4 láminas"
+}

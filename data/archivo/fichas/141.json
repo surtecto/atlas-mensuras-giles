@@ -1,0 +1,527 @@
+{
+ "carpeta": "141",
+ "carpeta_nombre": "Carpeta 141",
+ "archivo": "Ficha 141 - Tomás Gaynor, estancia (1885).docx",
+ "resumen": {
+  "Propietario / solicitante": "Tomás Gaynor (estancia)",
+  "N.º de duplicado": "141",
+  "Agrimensor": "Ramón B. Castro",
+  "Año": "1885",
+  "Fecha de la diligencia": "Comisión 27/11/1884; mensura 10/3/1885; firma 4/5/1885; D. I. 8/5/1885",
+  "Ubicación": "Arroyo de Noriega, lindero del sobrante de Abadie (139)",
+  "Orden judicial": "Juez Dr. Luis María Drago (Mercedes, Depto. del Centro)",
+  "Vendedor / antecesor": "Her. de Pastor Frías (1877); María Villalba de Quiroga (1880)",
+  "Linderos citados": "Morrow, Dowling, her. G. Acuña, D. Frías, Llera, Ojuez, Noriega, Abadie/Vivar",
+  "Medidas": "Hexágono: 2227, 3390, 400, 584, 1892, 3772 m",
+  "Rumbos": "N 56° 59′ E; N 30° 49′ O; var. 10° 30′ NE",
+  "Referencia de archivo": "AHG-PBA, duplicado 141 de S. A. de Giles"
+ },
+ "metricas": {
+  "superficie_ha": "820,7453 (0,3040 leguas²)",
+  "hitos": "estancia de Gaynor; quinta y monte de Ojuez; ombú de Noriega; casa de negocio de Lorea; Cabildo de Mercedes",
+  "aguas": "arroyo de Noriega y un arroyito"
+ },
+ "sintesis": "La estancia de Tomás Gaynor, medida por Ramón B. Castro en marzo de 1885 por orden del juez Drago: 820,75 ha en un hexágono alambrado entero, cruzado por el arroyo de Noriega. Gaynor la armó comprando en 1877 a los herederos de Pastor Frías (un campo de 1000 × 7900 varas de 1852, «en el partido de Luján, entonces») y en 1880 a María Villalba de Quiroga. Esta ficha resuelve la 139: los primeros 500 m de su lado B-C son la línea alambrada de Gaynor contra el «sobrante» de Abadie, que según las escrituras de Gaynor es de los herederos de Díaz de Vivar. Los mojones se balizan con ombúes, casas y la torre del Cabildo de Mercedes.",
+ "caratula": {
+  "img": "img/f/141/01.jpg",
+  "fuente": "Toma IMG_0105",
+  "campos": [
+   [
+    "Número",
+    "N.º 141 (ambos ángulos)"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Repartición",
+    "Dirección de Geodesia y Catastro de la Provincia de Buenos Aires"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Tomás Gaynor"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Ramón B. Castro"
+   ],
+   [
+    "Mes / Año",
+    "— / 1885"
+   ],
+   [
+    "Juzgado / Secretaría / Duplicados de referencia",
+    "en blanco"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Encabezamiento; extracto de títulos: Gabriela Álvarez vende a Pastor Frías 1000 × 7900 v (Guardia de Luján, 17/12/1852); poder de Gaynor a Felipe Tonola [?] (Mercedes, 16/10/1877); compra a los herederos de Frías de 424,328 cuadras = 715,9942 ha (Buenos Aires, 23/10/1877)",
+   "img": "img/f/141/06.jpg",
+   "fuente": "Toma IMG_0107",
+   "nota": "Hoja suelta (rot 90), mismo copista de 139-140; sello «Foja 1». Apellidos de lectura dudosa: Tonola [?] (apoderado) y Bengurria [?] (cf. «Benguria» en 064).",
+   "lineas": [
+    "[sello: Foja 1]",
+    "Duplicado de la diligencia de mensura",
+    "de un campo de propiedad de Dn Tomas Gaynor",
+    "ubicado en el Partido de San Andres de Giles. —",
+    "—— Estracto de Titulos. ——",
+    "En la Guardia de Lujan a diez y siete de Diciembre",
+    "de 1852, Doña Gabriela Alvarez vende á Dn Pas-",
+    "tor Frias un terreno de mil varas de frente por",
+    "siete mil novecientas de fondo cuyos linderos son:",
+    "Por el Sud el comprador, por el Norte Doña Manuela",
+    "Quiroga de Noriega, por el Oeste Dn Ceferino Acuña,",
+    "por el Este Doña Jacoba Iramain de Achabal, ubica-",
+    "do en el partido de Lujan (entonces). ——",
+    "En la Ciudad de Mercedes, el diez y seis de Octubre de",
+    "de 1877 Don Tomas Gaynor da poder á Dn Felipe Tonola [?]",
+    "para que compre á los herederos de Dn Pastor Frias un",
+    "terreno ubicado en el partido de Giles. ——",
+    "En Buenos Aires á veinte y tres de Octubre de 1877,",
+    "Dn Tomas Gaynor representado por Dn Felipe Tonola [?]",
+    "compra á los herederos de Dn Pastor Frias cuatrocien-",
+    "tas veinte y cuatro cuadras cuadradas, y trescientos vein-",
+    "te y ocho milésimos de cuadra igual á setecientos quin-",
+    "ce hectareas noventa y nueve areas y cuarenta y dos",
+    "centiareas lindando por el Sud Este con Doña Gre-",
+    "goria Achabal de Bengurria [?], por el Nord Oeste con",
+    "el vendedor, por el Sud Oeste con Dn Guillermo y",
+    "Dn Angel Acuña, por el Nord Este con Doña Maria",
+    "Villalva de Quiroga, y Doña Avelina R. de Noriega, y otro"
+   ],
+   "interpretacion": "Duplicado de la mensura del campo PRINCIPAL de TOMÁS GAYNOR. Títulos: (1) GUARDIA DE LUJÁN, 17/12/1852: GABRIELA ÁLVAREZ vende a PASTOR FRÍAS 1000 × 7900 varas, entre el comprador (S), MANUELA QUIROGA DE NORIEGA (N), CEFERINO ACUÑA (O) y JACOBA IRAMAÍN DE ACHABAL (E), «ubicado en el partido de Luján (entonces)»: Giles aún no existía como partido separado de esa zona. (2) Mercedes, 16/10/1877: Gaynor da poder a FELIPE TONOLA [?] para comprar a los herederos de Frías. (3) Buenos Aires, 23/10/1877: compra a los HEREDEROS DE PASTOR FRÍAS 424,328 cuadras² = 715,9942 ha, entre GREGORIA ACHABAL DE BENGURRIA [?] (SE), el vendedor (NO), GUILLERMO y ÁNGEL ACUÑA (SO), MARÍA VILLALBA DE QUIROGA y AVELINA R. DE NORIEGA (NE)…"
+  },
+  {
+   "titulo": "Folio 1 v. · María Villalba de Quiroga vende a Gaynor 108,0714 ha (Mercedes, 14/2/1880); antecedentes (3/3/1885); comisión del juez Drago (27/11/1884); edictos en «El Oeste» de Mercedes y «El Diario»; principio el 10/3/1885",
+   "img": "img/f/141/07.jpg",
+   "fuente": "Toma IMG_0108 · página izquierda",
+   "nota": "Toma de doble página; algunos comienzos de renglón cortados por el pliegue.",
+   "lineas": [
+    "// ubicado en el Partido de San Andres de Giles. —",
+    "En Mercedes á catorce de Febrero de 1880 Doña Ma-",
+    "ria Villalva de Quiroga vende á Dn Tomas Gay-",
+    "nor un terreno situado en el partido de San Andres",
+    "de Giles con una superficie de ciento ocho hectareas",
+    "siete areas y catorce metros cuadrados igual",
+    "[á] sesenta y cuatro cuadras cuadradas y cuarenta",
+    "[y] seis milésimos de cuadra, lindando al Nord",
+    "Este con Dn Solano Lescano y herederos de Dias",
+    "[de] Vivar, al Sud Este con Doña Francisca Acha-",
+    "[b]al de Llera, al Sud Oeste con el comprador y",
+    "[a]l Nord Oeste Avelina R. de Noriega. ——",
+    "[A]ntecedentes. Con fecha tres de Marzo de",
+    "[1]885 tomé antecedentes en el Departamento",
+    "de Ingenieros para practicar esta Mensura.",
+    "Mensura. Comisionado por el Señor Juez",
+    "de 1^{a} Instancia en lo Civil y Comercial del",
+    "Departamento del Centro, Dr Dn Luis Maria Drago",
+    "con fecha 27 de Noviembre de 1884 para practi-",
+    "car la mensura de un Campo de propiedad de",
+    "Dn Tomas Gaynor en el partido de San An-",
+    "dres de Giles, y despues de haber publicado los edic-",
+    "tos ordenados por el Sr Juez en El Oeste de la",
+    "Ciudad de Mercedes, y \"El Diario\" de la Capital",
+    "y de haber notificado á los linderos como cons-",
+    "ta en la Circular adjunta a la diligencia de",
+    "mensura, di principio a la operacion el",
+    "dia diez de Marzo del corriente año. ——"
+   ],
+   "interpretacion": "(4) Mercedes, 14/2/1880: MARÍA VILLALBA DE QUIROGA vende a Gaynor 108 ha 7 a 14 m² = 64,046 cuadras², entre SOLANO LESCANO y herederos de DÍAZ DE VIVAR (NE), FRANCISCA ACHABAL DE LLERA (SE), el comprador (SO) y AVELINA R. DE NORIEGA (NO). Total de títulos ≈ 824 ha. Antecedentes en el D. I. el 3/3/1885. Comisión del juez LUIS MARÍA DRAGO (27/11/1884), edictos en «EL OESTE» de Mercedes y «EL DIARIO» de la Capital, circular; principio el 10 de marzo de 1885."
+  },
+  {
+   "titulo": "Folio 2 · A-B N 56° 59′ E 2227 m contra Domingo Frías y Francisca Achabal de Llera (alambrada); B, esquinero del sobrante denunciado por Juan Abadie; B-C N 30° 49′ O: a 500 m el terreno de los herederos de Díaz de Vivar denunciado por Abadie",
+   "img": "img/f/141/08.jpg",
+   "fuente": "Toma IMG_0108 · página derecha",
+   "nota": "Sello «Foja 2». El copista dejó en blanco la letra del punto de arranque («De [A]»).",
+   "lineas": [
+    "[sello: Foja 2]",
+    "Linea AB. De [en blanco] enfilé y medí con rumbo Norte",
+    "cincuenta y seis grados cincuenta y nueve minutos",
+    "Este dos mil doscientos veinte y siete metros hasta B",
+    "despues de haber medido el ángulo en A, que es de ochen-",
+    "ta y siete grados cuarenta y ocho minutos. A los",
+    "ochocientos sesenta y ocho metros encontré un mo-",
+    "jon de palo costanero del Dr Dn Domingo Frias y",
+    "de Dn Tomas Gaynor, a los mil seiscientos ochenta",
+    "metros llegué al mojon, de palo, esquinero de Frias,",
+    "de Doña Francisca Achabal de Llera y costanero",
+    "de Gaynor, a los mil setecientos cincuenta metros en-",
+    "contré un mojon de fierro costanero de la Sra de Llera",
+    "y de Gaynor, a los mil novecientos once metros encon-",
+    "tré un mojon de palo costanero de las mismas personas,",
+    "á los dos mil doscientos veinte y siete metros encontré",
+    "el mojon esquinero de Gaynor y costanero de la",
+    "Sra de Llera y esquinero de un terreno denunciado",
+    "como sobrante por Dn Juan Abadie. Esta linea",
+    "está alambrada. Medí el ángulo ABC y resultó ser",
+    "de noventa y dos grados doce minutos. ——",
+    "Linea BC. Del mojon B enfilé y medí con rumbo",
+    "Norte treinta grados cuarenta y nueve minutos Oeste",
+    "tres mil trescientos noventa metros hasta C. A los",
+    "quinientos metros llegué al mojon de palo esqui-",
+    "nero de un terreno que aparece segun las escrituras",
+    "de Gaynor como perteneciente a los herederos de Diaz",
+    "de Vivar, pero que ha sido denunciado como sobran-",
+    "te por Dn Juan Abadie, y cuya mensura orde-"
+   ],
+   "interpretacion": "A-B N 56° 59′ E 2227 m (ángulo en A 87° 48′): mojón de palo de DOMINGO FRÍAS a 868 m; a 1680 m esquinero de Frías y de FRANCISCA ACHABAL DE LLERA; MOJÓN DE FIERRO a 1750 m; de palo a 1911 m; en B el esquinero de Gaynor, costanero de Llera y ESQUINERO DEL TERRENO DENUNCIADO COMO SOBRANTE POR JUAN ABADIE (139). Línea ALAMBRADA. Ángulo A-B-C 92° 12′. B-C N 30° 49′ O 3390 m: a 500 m el mojón de palo esquinero del terreno que según las escrituras de Gaynor pertenece a los HEREDEROS DE DÍAZ DE VIVAR, «pero que ha sido denunciado como sobrante por Don Juan Abadie»…"
+  },
+  {
+   "titulo": "Folio 2 v. · B-C (cont.): mojón de Ojuez; arroyito, quinta de Ojuez, arroyito «que lo llaman de Noriega»; C, esquinero de Avelina R. de Noriega; C-D S 25° 59′ O 400 m contra Noriega (alambrada)",
+   "img": "img/f/141/09.jpg",
+   "fuente": "Toma IMG_0109 · página izquierda",
+   "nota": "Toma de doble página.",
+   "lineas": [
+    "// nada por el Superior Gobierno la practicó el",
+    "que suscribe el dia diez y siete de Noviembre",
+    "del año próximo pasado. Este mojon es esqui-",
+    "nero tambien de Dn Ceferino Ojuez. A los mil",
+    "ciento noventa y seis metros encontré otro mojon",
+    "de palo costanero de Gaynor y de Ojuez, a los mil",
+    "quinientos setenta y nueve metros atravezé un",
+    "arroyito, a los mil novecientos doce metros se entra",
+    "[o] llega a la quinta de Ojuez, a los dos mil doscien-",
+    "tos veinte y cinco se sale de esta quinta, a los dos",
+    "mil quinientos treinta metros encontré un mojon",
+    "de palo costanero de Ojuez y de Gaynor, a los tres mil",
+    "doscientos ochenta y siete metros atravezé un arro-",
+    "yito que lo llaman de Noriega, á los tres mil",
+    "trescientos noventa metros encontré un mojon de",
+    "palo esquinero de Gaynor y de Doña Avelina R. de No-",
+    "riega y costanero de Ojuez. Medí el ángulo BCD y",
+    "resultó ser de cincuenta y seis grados cuarenta y",
+    "ocho minutos. A los dos mil quinientos treinta",
+    "metros en esta linea encontré un mojon de palo;",
+    "esta linea está tambien alambrada. ——",
+    "Linea CD. De C enfilé y medí con rumbo Sud",
+    "veinte y cinco grados cincuenta y nueve minutos",
+    "Oeste cuatro cientos metros hasta D en cuyo punto",
+    "encontré el mojon de palo esquinero de Gaynor y",
+    "de la Sra de Noriega. Medí el ángulo en D y resul-",
+    "tó de cincuenta y seis grados cuarenta y ocho mi-",
+    "nutos. Esta linea tambien está alambrada. —"
+   ],
+   "interpretacion": "… y cuya mensura, ordenada por el Gobierno, practicó el mismo Castro el 17/11/1884: estos 500 m son el lado A-B de la 139. Ese mojón es también esquinero de CEFERINO OJUEZ. Mojones de palo a 1196 y 2530 m; a 1579 m un ARROYITO; de 1912 a 2225 m atraviesa la QUINTA DE OJUEZ; a 3287 m un arroyito «QUE LO LLAMAN DE NORIEGA»; a 3390 m el mojón C, esquinero de AVELINA R. DE NORIEGA. Ángulo B-C-D 56° 48′. Línea alambrada. C-D S 25° 59′ O 400 m hasta D, esquinero de Gaynor y de la Noriega (ángulo en D 56° 48′), también alambrada."
+  },
+  {
+   "titulo": "Folio 3 · D-E N 30° 49′ O 584 m por un alambrado; E-F S 57° 21′ O 1892 m contra Santiago Morrow; F-A S 30° 49′ E 3772 m contra Martín Dowling y herederos de Guillermo Acuña por el alambrado de Gaynor",
+   "img": "img/f/141/10.jpg",
+   "fuente": "Toma IMG_0109 · página derecha",
+   "nota": "Sello «Foja 3». El copista dejó en blanco el nombre del vértice y del ángulo en F.",
+   "lineas": [
+    "[sello: Foja 3]",
+    "// Linea DE. Del mojon D enfilé y medí con rumbo",
+    "Norte treinta grados cuarenta y nueve minutos Oeste",
+    "quinientos ochenta y cuatro metros hasta E por la",
+    "orilla de un alambrado. Medí el ángulo en E que",
+    "es de ochenta y ocho grados diez minutos. ——",
+    "Linea EF. Del mojon E esquinero de Gaynor y de",
+    "Dn Santiago Morrow y costanero de la Sra de Noriega",
+    "enfilé y medí con rumbo Sud cincuenta y siete",
+    "grados veinte y un minutos Oeste, mil ochocien-",
+    "tos noventa y dos metros hasta F por la orilla de",
+    "un alambrado, á los nueve cientos treinta y ocho",
+    "metros encontré un mojon de palo costanero de Gaynor",
+    "y de Morrow, á los mil ochocientos noventa y",
+    "dos metros encontré el mojon esquinero de Gaynor",
+    "y de Morrow y costanero de Dn Martin Dowling",
+    "En [F] medí el ángulo [EFA] que resultó de noventa",
+    "y un grados cincuenta minutos. ——",
+    "Linea FA. De F enfilé y medí con rumbo Sud",
+    "treinta grados cuarenta y nueve minutos Este",
+    "tres mil setecientos setenta y dos metros hasta",
+    "A por la orilla de un alambrado de Gaynor, como",
+    "lo es el de todo el campo; á los mil ciento cincuenta",
+    "y uno llegué al mojon de fierro costanero de Gaynor",
+    "y de Dowling, á los dos mil ciento treinta metros",
+    "encontré el mojon, de palo, esquinero de Dowling",
+    "y de los herederos de Dn Guillermo Acuña y",
+    "costanero de Gaynor, á los tres mil cuatro cientos",
+    "cincuenta y cuatro metros entré al arroyo"
+   ],
+   "interpretacion": "D-E N 30° 49′ O 584 m por la orilla de un alambrado (ángulo en E 88° 10′). E-F S 57° 21′ O 1892 m contra SANTIAGO MORROW, por la orilla de un alambrado, mojón a 938 m; F esquinero de Morrow y costanero de MARTÍN DOWLING (ángulo 91° 50′). F-A S 30° 49′ E 3772 m «por la orilla de un alambrado de Gaynor, COMO LO ES EL DE TODO EL CAMPO»: mojón de fierro de Gaynor y Dowling a 1151 m; a 2130 m esquinero de Dowling y de los HEREDEROS DE GUILLERMO ACUÑA; a 3454 m entra al ARROYO…"
+  },
+  {
+   "titulo": "Folio 3 v. · F-A (cont.): arroyo de Noriega; llegada a A; linderos (el sobrante de Abadie, que por los títulos de Gaynor es de los herederos de Díaz de Vivar, representados por el Dr. Juan Rayces); circular: mayordomo de Domingo Frías, Ojuez, Domingo Casal por Avelina Rojas de Noriega, Morrow, A. Cané (hijo), Dowling; Rayces ausente en Mendoza",
+   "img": "img/f/141/11.jpg",
+   "fuente": "Toma IMG_0110 · página izquierda",
+   "nota": "Toma de doble página.",
+   "lineas": [
+    "// Noriega y salí de él a los tres mil cuatro cientos",
+    "sesenta y tres metros, á los tres mil setecientos",
+    "setenta y dos metros llegué al mojon de arran-",
+    "que A, esquinero de Gaynor y de los herederos de Dn",
+    "Guillermo Acuña y costanero de Dn Domingo Frias.",
+    "con lo que quedó terminada la mensura de este",
+    "terreno. ——",
+    "Linderos. Los linderos son: por",
+    "el Nord Oeste Dn Santiago Morrow, por el Sud",
+    "Oeste Dn Martin Dowling y los herederos de Dn",
+    "Guillermo Acuña, por el Sud Este Dn Domingo",
+    "Frias y Doña Francisca Achabal de Llera, por",
+    "el Nord Este Dn Ceferino Ojuez y un terreno",
+    "denunciado como sobrante por Don Juan Abadié",
+    "y que por los titulos de Gaynor pertenece á los here-",
+    "deros de Diaz de Vivar, que hoy están represen-",
+    "tados por el Dr Dn Juan Rayces. Linda tam-",
+    "bien por el Nord Este, Doña Avelina R. de Noriega.",
+    "Circular. Firmaron la circular, por",
+    "Dn Domingo Frias su Mayor Domo Dn Hor-",
+    "tencio Mendoz [?]; Dn Ceferino Ojuez; Dn Do-",
+    "mingo Casal [?] á ruego de Doña Avelina Rojas",
+    "de Noriega por no saber firmar; Don Santiago",
+    "Morrow, Dn A. Cané (hijo) en representa-",
+    "cion de los herederos de Dn Guillermo Acuña;",
+    "Dn Martin Dowling. El Dr Juan Rayces representante de los",
+    "herederos de Diaz de Vivar estaba ausente de la Capital (en la Ciudad de Mendoza)",
+    "cuando hize la mensura, por eso no lo notifiqué."
+   ],
+   "interpretacion": "… DE NORIEGA y sale a 3463 m; a 3772 m el mojón A. Linderos: NO Santiago Morrow; SO Martín Dowling y herederos de Guillermo Acuña; SE Domingo Frías y Francisca Achabal de Llera; NE Ceferino Ojuez y el SOBRANTE DENUNCIADO POR ABADIE, «que por los títulos de Gaynor pertenece a los herederos de Díaz de Vivar, que hoy están representados por el Dr. Juan Rayces»; también NE Avelina R. de Noriega. Circular: HORTENSIO MENDOZ [?], MAYORDOMO de Domingo Frías; Ceferino Ojuez; DOMINGO CASAL [?] a ruego de AVELINA ROJAS DE NORIEGA «por no saber firmar»; Santiago Morrow; A. CANÉ (HIJO) por los herederos de Guillermo Acuña; Martín Dowling. Rayces estaba EN MENDOZA y no se lo notificó."
+  },
+  {
+   "titulo": "Folio 4 · Sin acta ni protesta; rumbos verdaderos, declinación 10° 30′ NE; balizamientos a las casas de Gaynor, N. Llera, la casa de negocio de Adolfo Lorea, el monte de Ojuez, un ombú de la casa de Avelina R. de Noriega, un puesto de Ojuez y el Cabildo de Mercedes",
+   "img": "img/f/141/12.jpg",
+   "fuente": "Toma IMG_0110 · página derecha",
+   "nota": "Sello «Foja 4».",
+   "lineas": [
+    "[sello: Foja 4]",
+    "// Acta. No habiendo asistido ningun lindero",
+    "ni encargado de estos, no se levantó acta. ——",
+    "Protesta. No hubo. ——",
+    "Rumbos. Todos son verdaderos. ——",
+    "Declinacion de la aguja. 10°30′ N.E. ——",
+    "Valizamientos. Mojon A. con linea AF y casa",
+    "de Dn Tomas Gaynor 65°39′ á la derecha, con la",
+    "misma linea y casa de Dn N. Llera noventa y",
+    "cinco grados treinta y nueve minutos a la derecha.",
+    "Mojon B con linea BC y casa de negocio de Dn",
+    "Adolfo Lorea cuarenta y siete grados ocho mi-",
+    "nutos á la derecha, con la misma linea y lado y casa",
+    "de Dn N. Llera ciento treinta y seis grados cua-",
+    "renta minutos, con la misma linea y casa de",
+    "Gaynor cinco grados diez y ocho minutos. —",
+    "Mojon C. Con linea BC y casa de Gaynor diez y ocho",
+    "grados veinte y tres minutos, con la misma",
+    "linea y el extremo del monte de la casa de Ojuez",
+    "tres grados a la izquierda. Mojon D con linea",
+    "adelante derecha y el centro de un ombú de la",
+    "casa de Dña Avelina R. de Noriega diez grados",
+    "doce minutos, con la misma linea y lado y un",
+    "puesto de Ojuez treinta y siete grados. Mojon E",
+    "con linea atras izquierda y casa de Gaynor mo-",
+    "jinete de la derecha, tres grados veinte y tres mi-",
+    "nutos, con la misma linea y lado y el ombú",
+    "citado treinta grados veinte y un minutos, con",
+    "la misma linea y el Cabildo de Mercedes a la",
+    "derecha veinte y tres grados diez minutos. —"
+   ],
+   "interpretacion": "Sin acta (nadie asistió) ni protesta. Rumbos verdaderos; DECLINACIÓN 10° 30′ NE. VALIZAMIENTOS: desde A, la CASA DE TOMÁS GAYNOR (65° 39′) y la de N. LLERA (95° 39′); desde B, la CASA DE NEGOCIO DE ADOLFO LOREA (47° 8′; la misma de la 139), la de Llera y la de Gaynor; desde C, la casa de Gaynor y «el extremo del MONTE de la casa de Ojuez»; desde D, «el centro de un OMBÚ de la casa de D.ª Avelina R. de Noriega» y un PUESTO DE OJUEZ; desde E, el MOJINETE de la casa de Gaynor, el ombú y EL CABILDO DE MERCEDES (23° 10′ a la derecha): la torre del Cabildo de Mercedes como visual lejana (cf. 113)."
+  },
+  {
+   "titulo": "Folio 4 v. · Balizamiento del mojón F (casa de los herederos de Guillermo Acuña); superficie 820,7453 ha, polígono irregular de seis lados (0,3040 leguas²); firma (La Plata, 4/5/1885); dictamen del D. I. (8/5/1885): aprobada en la parte facultativa, pero antes debe darse vista a la lindera Francisca Achaval de Llera, que no firmó la circular",
+   "img": "img/f/141/13.jpg",
+   "fuente": "Toma IMG_0111 · página izquierda",
+   "nota": "Sello oval de entrada del D. I. (mayo de 1885). A la derecha, el plano plegado.",
+   "lineas": [
+    "// Mojon F. con linea atras derecha y el mismo om-",
+    "bú indicado antes cuatro grados cinco minutos,",
+    "con la misma linea y lado, y la casa de los herede-",
+    "ros de Dn Guillermo Acuña ciento veinte y",
+    "un grados diez y seis minutos. ——",
+    "Superficie. La figura del terreno des-",
+    "lindado es la de un polígono de seis lados",
+    "irregular, cuya superficie asciende á",
+    "ochocientas veinte hectareas setenta y cuatro",
+    "areas y cincuenta y tres centiareas igual á",
+    "tres mil, cuarenta diez milésimos de legua",
+    "cuadrada. ——",
+    "La Plata, Mayo 4 de 1885",
+    "Ramon B. Castro [rúbrica]",
+    "[sello oval: Departamento de Ingenieros de la Provincia · Entradas · [..] MAY 85]",
+    "Señor Juez de 1^{a} Instancia",
+    "La presente mensura practicada por el Ingeniero Don Ramon",
+    "B. Castro del terreno de propiedad de Don Tomas Gaynor",
+    "situado en el partido de San Andres de Giles, está bien",
+    "ejecutada y este Departamento la aprueba en la parte",
+    "facultativa, pero antes de ser aprobada definitivamente",
+    "es necesario que se le dé vista á la lindera Doña",
+    "Francisca Achaval de Llera que no ha firmado la",
+    "circular",
+    "Mayo 8 de 1885",
+    "P. J. Salvadores [rúbrica]     Jorge Coquet [rúbrica]",
+    "Lagos [rúbrica]"
+   ],
+   "interpretacion": "Desde F, el ombú (4° 5′) y la CASA DE LOS HEREDEROS DE GUILLERMO ACUÑA (121° 16′). SUPERFICIE: polígono IRREGULAR de seis lados, 820 ha 74 a 53 ca = 0,3040 leguas². Firma: La Plata, 4/5/1885. Dictamen del D. I. (8/5/1885, P. J. SALVADORES, JORGE COQUET, LAGOS): bien ejecutada y aprobada en la parte facultativa, pero antes de la aprobación definitiva hay que dar VISTA A FRANCISCA ACHAVAL DE LLERA, «que no ha firmado la circular»."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano original de Ramón B. Castro (La Plata, 4/5/1885)",
+   "img": "img/f/141/03.jpg",
+   "fuente": "Toma IMG_0112",
+   "orientacion": "apaisado; dos agujas: la del N apunta hacia la izquierda (arriba a la izquierda) y otra a la derecha junto a Domingo Frías",
+   "interpretacion": "Marco redondeado de filete doble (el modelo de Castro). Hexágono con borde ocre: «TOMÁS GAYNOR. Sup: 820 h.ˢ 74 ar.ˢ 53 c.ˢ = 3040/10000 leg.ˢ c.ˢ». Arriba CEFERINO OJUEZ (antes Solano Lescano) y la faja vertical «Sobrante denunciado por Juan Abadie»; a la derecha FRANCISCA ACHABAL DE LLERA y DOMINGO FRÍAS; a la izquierda AVELINA R. DE NORIEGA y SANTIAGO MORROW (antes María V. de Quiroga); abajo MARTÍN DOWLING (antes Ángel Acuña) y HER.ˢ DE GUILLERMO ACUÑA. El ARROYO DE NORIEGA en azul cruza en diagonal desde C hasta cerca de A, con un brazo (el «arroyito») que baja desde B-C. Junto al arroyo, el dibujo arbolado de la «ESTANCIA DE GAYNOR»; sobre B-C un cuadradito (la quinta o casa de Ojuez). Rumbos y cotas: N 56° 59′ E 2227 (A-B), N 30° 49′ O 3390 (B-C), 400, 584 (N 30° 49′ O), S 57° 21′ O 1892, S 30° 49′ E 3762 [sic; texto 3772]. Escala gráfica de 2000 m. Firma.",
+   "referencias": [
+    [
+     "A",
+     "mojón de arranque, esquinero de Gaynor y her. de Guillermo Acuña, costanero de Domingo Frías (87° 48′)"
+    ],
+    [
+     "B",
+     "esquinero de Gaynor y Llera y del sobrante de Abadie (92° 12′)"
+    ],
+    [
+     "500 m de B-C",
+     "esquinero del sobrante de Abadie y de Ojuez = vértice B de la 139"
+    ],
+    [
+     "C",
+     "esquinero de Avelina R. de Noriega (56° 48′)"
+    ],
+    [
+     "D, E",
+     "escotadura de 400 × 584 m contra la Noriega; E esquinero de Morrow"
+    ],
+    [
+     "F",
+     "esquinero de Morrow y Dowling (91° 50′)"
+    ],
+    [
+     "Estancia de Gaynor",
+     "casco arbolado junto al arroyo de Noriega"
+    ],
+    [
+     "Trazo azul",
+     "arroyo de Noriega y arroyito afluente"
+    ],
+    [
+     "1750 m (A-B), 1151 m (F-A)",
+     "mojones de fierro"
+    ],
+    [
+     "Escala",
+     "barra de 2000 m"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: costado NO, escotadura de la Noriega y arroyo",
+   "img": "img/f/141/04.jpg",
+   "fuente": "Toma IMG_0113",
+   "orientacion": "toma vertical, girada 90° para leer",
+   "interpretacion": "Ampliación del ángulo C-D-E con el arroyo de Noriega y los rótulos Ojuez, Morrow y Dowling.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: estancia de Gaynor y sobrante de Abadie",
+   "img": "img/f/141/05.jpg",
+   "fuente": "Toma IMG_0114",
+   "orientacion": "toma vertical, girada 90° para leer",
+   "interpretacion": "Ampliación del centro y el NE: casco de la estancia, arroyo, «Sobrante denunciado por Juan Abadie» y her. de Guillermo Acuña.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Estancia ganadera completamente ALAMBRADA («como lo es el de todo el campo»), cruzada en diagonal por el ARROYO DE NORIEGA (así lo «llaman»: el nombre aún es de uso local) y un arroyito afluente. Árboles y casas como hitos: el casco arbolado de la ESTANCIA DE GAYNOR, la QUINTA y el MONTE de la casa de Ojuez, un OMBÚ en la casa de Avelina Rojas de Noriega, la casa de los herederos de Guillermo Acuña, la de N. Llera, un puesto de Ojuez y la CASA DE NEGOCIO DE ADOLFO LOREA sobre el camino de Mercedes a Giles (139). En el horizonte, la torre del CABILDO DE MERCEDES, visible desde el mojón E."
+  },
+  {
+   "titulo": "Ritual",
+   "texto": "Comisión judicial (Drago), edictos en «El Oeste» de Mercedes y «El Diario» de la Capital, circular firmada por mayordomos, apoderados («A. Cané (hijo)» por los Acuña) y un vecino a ruego de una lindera que «no sabe firmar». Nadie asiste: no hay acta. Dos ausencias formales: la Llera no firmó (el D. I. pide darle vista) y el apoderado de los Vivar estaba en Mendoza. Los balizamientos convierten el paisaje construido (casas, ombú, cabildo) en testigo permanente del mojón."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Rumbos verdaderos, declinación 10° 30′ NE (igual en 139, 140 y 141: una sola determinación de Castro para la temporada 1884-85). Seis lados con ángulos medidos. Verificado en python: el polígono cierra con ≈ 7,9 m de error (sobre 12,3 km) y da ≈ 823,7 ha, contra 820,75 declaradas (0,36 %); el plano anota 3762 m en F-A y el texto 3772. El rumbo N 30° 49′ O de B-C es EXACTAMENTE el de A-B de la 139 (mismo alambrado), y el D-E también: la grilla de la zona es N 30° 49′ O × N 57° E. Superficie también en diezmilésimos de legua cuadrada."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Gaynor reúne 824 ha de título con dos compras: 715,99 ha a los herederos de PASTOR FRÍAS (1877, por apoderado, escritura en Buenos Aires) y 108,07 ha a MARÍA VILLALBA DE QUIROGA (1880). El título de Frías (1852) fue otorgado en la GUARDIA DE LUJÁN y ubicado «en el partido de Luján (entonces)», y tenía 1000 × 7900 v, la misma suerte larga de las cabezadas del arroyo de Frías (064, 082, 108). Lindero «antes»: Ojuez sucede a Solano Lescano, Morrow a María V. de Quiroga, Dowling a Ángel Acuña: los irlandeses (Gaynor, Morrow, Dowling) han reemplazado a las familias criollas (Acuña, Quiroga, Lescano). Las escrituras de Gaynor reconocen a los HEREDEROS DE DÍAZ DE VIVAR como dueños del supuesto sobrante: prueba documental en contra de la denuncia de Abadie."
+  },
+  {
+   "titulo": "Crítica documental",
+   "texto": "Lecturas dudosas: Felipe TONOLA [?] (apoderado), Gregoria Achabal de BENGURRIA [?] (Benguria en 064), Hortensio MENDOZ [?] y Domingo CASAL [?]. Achabal/Achaval alternan en el mismo duplicado. El copista dejó en blanco letras de vértices («De [A]», «En [F] medí el ángulo [EFA]»), señal de copia de un borrador con letras añadidas. No hay auto de aprobación ni constancia de la vista a la Llera. Sin copia de Geodesia del siglo XX en las tomas."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "(1) 139: el vértice B de la 139 está a 500 m de B en B-C; la línea alambrada de Gaynor (N 30° 49′ O) es común; la casa de negocio de Lorea y la casa de la Llera aparecen en los balizamientos. ENCAJE GIS: el trapecio de la 139 se apoya sobre el lado NE de esta estancia, entre B y el mojón a 500 m. (2) 140: es OTRO campo de Gaynor (326 ha, ex Martínez/Aranguren, cerca de la estación Franklin): queda resuelta la pregunta abierta de la 140. (3) 108 (Dowling 1880, entre Morrow y Gaynor) y 037/064/065/082 (Acuñas, Basarte, herederos de Frías, Avelina Rojas de Noriega, María Villalba, Gregoria Achával de Benguria): el bloque de las suertes de 1000 × 7900 v sobre el arroyo de Noriega/Frías. (4) 094-095 (Ojuez y los Lescano, arroyo de Noriega). (5) 113: visual a la torre del Cabildo de Mercedes."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Hubo vista a Francisca Achabal de Llera y aprobación judicial? ¿Por qué la Llera no firmó la circular aquí, si su hijo Rafael sí lo hizo en la 139 (y en 1888 quiere comprar el sobrante)? ¿Qué relación hay entre la «Estancia de Gaynor» y el actual paraje rural del partido? Georreferenciar con el arroyo de Noriega, la grilla N 30° 49′ O y la visual al Cabildo de Mercedes desde E."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Tomás Gaynor",
+   "rol": "Propietario",
+   "texto": "Estanciero irlandés; compra a los herederos de Pastor Frías (1877, por apoderado) y a María Villalba de Quiroga (1880); tiene además el campo de la 140 (1884). Su casa («mojinete de la derecha») sirve de referencia de balizamiento. Sin más datos en la web.",
+   "fuentes": "fichas 108, 139, 140, 141"
+  },
+  {
+   "nombre": "Ramón B. Castro",
+   "rol": "Ingeniero / agrimensor",
+   "texto": "Tercera mensura consecutiva (139-141), todas firmadas en La Plata entre enero y mayo de 1885 con la misma declinación y el mismo formato; introduce los VALIZAMIENTOS en el corpus.",
+   "fuentes": "fichas 139-141"
+  },
+  {
+   "nombre": "Pastor Frías (herederos); Domingo Frías",
+   "rol": "Antecesores; lindero se",
+   "texto": "Pastor Frías compra en 1852 a Gabriela Álvarez una suerte de 1000 × 7900 v; sus herederos piden tierra del Estado en 1877 (082) y venden a Gaynor; el Dr. Domingo Frías es lindero SE con mayordomo (Hortensio Mendoz [?]). Puede tratarse del abogado y político porteño Domingo Frías, pero no se verificó.",
+   "fuentes": "fichas 064, 082, 141"
+  },
+  {
+   "nombre": "Gabriela Álvarez",
+   "rol": "Vendedora (1852)",
+   "texto": "Vende en la Guardia de Luján el campo original. Sin datos.",
+   "fuentes": "esta mensura"
+  },
+  {
+   "nombre": "María Villalba de Quiroga; Avelina Rojas de Noriega",
+   "rol": "Vendedora (1880); lindera ne",
+   "texto": "Herederas de las suertes Quiroga/Noriega (cf. Manuela Quiroga de Noriega, 1852; 064). Avelina no sabía firmar; tiene un ombú en su casa.",
+   "fuentes": "fichas 064, 141"
+  },
+  {
+   "nombre": "Santiago Morrow; Martín Dowling",
+   "rol": "Linderos no y so",
+   "texto": "Irlandeses compradores de tierras de los Acuña y Quiroga (108).",
+   "fuentes": "fichas 108, 141"
+  },
+  {
+   "nombre": "Dr. Juan Rayces",
+   "rol": "Apoderado de los herederos de díaz de vivar",
+   "texto": "Estaba en Mendoza durante la mensura y no fue notificado; ver 139.",
+   "fuentes": "fichas 139, 141"
+  },
+  {
+   "nombre": "Otros",
+   "rol": "Linderos, apoderados y funcionarios",
+   "texto": "Ceferino Ojuez (antes Solano Lescano); Francisca Achabal de Llera y N. Llera; Gregoria Achabal de Bengurria [?]; Jacoba Iramaín de Achabal y Ceferino Acuña (1852); Guillermo y Ángel Acuña; A. Cané (hijo); Felipe Tonola [?]; Domingo Casal [?]; Adolfo Lorea; D. I.: P. J. Salvadores, Jorge Coquet, Lagos; juez L. M. Drago.",
+   "fuentes": "esta mensura"
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/141/02.jpg",
+  "fuente": "Toma IMG_0106",
+  "lineas": [
+   "[arriba, tachado, a lápiz azul: 37.177 [?] ...]",
+   "Giles",
+   "141.",
+   "Duplicado de la diligencia de men-",
+   "sura de un terreno de propiedad de",
+   "Dn Tomas Gaynor, ubicado en el",
+   "Partido de San Andres de Giles.",
+   "Mensurado por el Ingeniero Dn",
+   "Ramon B. Castro en Marzo de",
+   "1885",
+   "Ramon B. Castro [rúbrica]",
+   "[a lápiz:] 1-194-54"
+  ]
+ },
+ "titulo": "Tomás Gaynor (estancia)",
+ "estado": "Transcripta (8 hojas, 227 renglones), 3 láminas"
+}
