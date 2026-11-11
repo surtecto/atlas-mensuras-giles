@@ -1,0 +1,581 @@
+{
+ "carpeta": "143",
+ "carpeta_nombre": "Carpeta 143",
+ "archivo": "Ficha 143 - Marcelino J. Ortiz (1884-86).docx",
+ "resumen": {
+  "N.º de duplicado": "143 (ref. 1-337-39; lápiz «V. 119» [?])",
+  "Propietario / solicitante": "Marcelino J. Ortiz",
+  "Agrimensor": "Manuel Almeira",
+  "Año": "1884-86",
+  "Fecha de la diligencia": "16/7/1884; entrada D. I. 25/8/1885; rechazo 1/7/1886",
+  "Ubicación": "Ex campo de Antonio Monsalvo y Zárate (división de 1881)",
+  "Orden judicial": "Juez Manuel B. Gonnet, Departamento del Centro",
+  "Vendedor / antecesor": "Nemesia, M.ª Dominga, Lucía Monsalvo; I. L. Chacón (por Eusebia)",
+  "Linderos citados": "E. Tormey; her. A. Mármol; M. Fuentes; P. C. de Aguirre; Marcelina y Exalt. Monsalvo",
+  "Medidas": "A-B-C-D 913 × 1123 m; a-b-c-d 236 × 1475 m (rectángulos)",
+  "Rumbos": "N 47° 5′ O / N 42° 55′ E; variación 11° 30′ NE",
+  "Referencia de archivo": "AHG-PBA, San Andrés de Giles, duplicado 143"
+ },
+ "metricas": {
+  "superficie_ha": "137,34 (102,53 + 34,81)",
+  "hitos": "Poblaciones de Marcelina, Exaltación Monsalvo, Tormey, Maldonado, Aguirre; estancia Mármol; mojones de palo",
+  "aguas": "—"
+ },
+ "sintesis": "Marcelino J. Ortiz compró en 1881-82 los derechos hereditarios de cuatro herederas de la línea del alférez Antonio Monsalvo (Nemesia, María Dominga y Lucía, y por cesión de Ignacio L. Chacón, Eusebia) sobre el gran campo que Manuel Almeira había dividido en fajas en 1881 (ficha 119). En 1884 Almeira vuelve a medir para el nuevo dueño dos rectángulos: uno de 913 × 1123 m (102,53 ha) que junta los lotes de Nemesia, Dominga y Lucía, y otro de 236 × 1475 m (34,81 ha) que fue de Eusebia. El abalizamiento mira las poblaciones vecinas: Marcelina y Exaltación Monsalvo, la estancia de los Mármol con un puesto, la estancia de Eduardo Tormey, María Maldonado y Petrona C. de Aguirre. El Departamento de Ingenieros la rechazó dos veces, la última en julio de 1886, porque el lote de Eusebia aparecía desplazado sobre el de María de la Exaltación Monsalvo. Es uno de los pocos duplicados no aprobados del corpus.",
+ "caratula": {
+  "img": "img/f/143/01.jpg",
+  "fuente": "IMG_0133.JPG",
+  "campos": [
+   [
+    "N.º",
+    "143"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Marcelino J. Ortiz"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Manuel Almeira"
+   ],
+   [
+    "Año",
+    "1886"
+   ],
+   [
+    "Mes / Juzgado / Secretaría / Dupl. de referencia",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · extracto de títulos",
+   "img": "img/f/143/05.jpg",
+   "fuente": "IMG_0135.JPG (f. 1, hoja girada)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 1]",
+    "Extracto de títulos del terreno perteneciente",
+    "á Don Marcelino J. Ortiz, ubicado en el",
+    "partido de Giles.",
+    "En veinte y nueve de Diciembre de mil",
+    "ocho cientos ochenta y uno, D^{a}. Nemesia,",
+    "D^{a}. Maria Domingo y D^{a}. Lucia Mon-",
+    "salvo, venden ante el Escribano Público",
+    "del Pueblo de Zárate Don Rómulo Noya,",
+    "á Don Marcelino J. Ortiz, todas las accio-",
+    "nes y derechos, que le puedan correspon-",
+    "der en las Testamentarias de Don",
+    "José Francisco Monsalvo y su esposa",
+    "D^{a}. Francisca Monsalvo.",
+    "En veinte y uno de Octubre de mil",
+    "ocho cientos ochenta y dos, Don Ygnacio",
+    "L. Chacon, hace cesion ante el",
+    "Escribano Público del Pueblo de",
+    "Chivilcoy Don Juan B. Cires [?], á Don",
+    "Marcelino J. Ortiz, de todas las acciones",
+    "y derechos, que tiene en las Testamen-",
+    "tarias de Don José Francisco Monsalvo",
+    "y D^{a}. Francisca Monsalvo, como suce-",
+    "sor de la heredera de dichos causan-",
+    "tes D^{a}. Eusebia Monsalvo de Maldonado,",
+    "segun consta de la escritura de",
+    "trasmision, que ésta le otorgó en",
+    "veinte y nueve de Diciembre de mil",
+    "ocho cientos ochenta y uno, ante el Escribano"
+   ],
+   "interpretacion": "Almeira resume cómo Marcelino J. Ortiz juntó su tierra comprando derechos hereditarios, no tierra medida. El 29/12/1881, ante el escribano de Zárate Rómulo Noya, Nemesia, María Dominga y Lucía Monsalvo le venden «todas las acciones y derechos» en las testamentarías de José Francisco Monsalvo y su esposa Francisca Monsalvo. El 21/10/1882, ante el escribano de Chivilcoy Juan B. Cires [?], Ignacio L. Chacón le cede los derechos que tenía como sucesor de Eusebia Monsalvo de Maldonado, otra heredera."
+  },
+  {
+   "titulo": "Folio 1 vuelto · cuotas de la cuenta particionaria",
+   "img": "img/f/143/06.jpg",
+   "fuente": "IMG_0136.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "de Chacabuco Don Andrés de Vera.",
+    "Segun la cuenta particionaria agrega-",
+    "da al Espediente Testamentario de Don",
+    "Antonio Monsalvo y D^{n}. [?] Antonia [?] Zárate,",
+    "que tuve en mi poder, para practicar",
+    "la mensura y division del terreno",
+    "perteneciente á los herederos de estos;",
+    "les corresponde á D^{a}. Nemesia Mon-",
+    "salvo, treinta y dos varas y seis déci-",
+    "mos de otra de frente con todo el",
+    "fondo del campo; á D^{a}. Dominga Mon-",
+    "salvo treinta y dos varas y seis décimos",
+    "de otra de frente, á D^{a}. Lucia Mon-",
+    "salvo treinta y cuatro varas y ocho",
+    "décimos, y á D^{a}. Eusebia Monsalvo",
+    "treinta y tres varas y nueve décimos",
+    "de otra de frente, con todo el fondo",
+    "del campo.",
+    "El terreno de D^{a}. Nemesia, y de D^{a}.",
+    "Dominga Monsalvo, fué ubicado",
+    "cada uno con un frente de quinientos",
+    "noventa y cinco metros, y quinientos",
+    "sesenta y un metros cinco decímetros",
+    "de fondo; siendo su figura",
+    "la de un rectángulo, con una superfi-",
+    "cie de treinta y tres hectáreas cuarenta",
+    "áreas y noventa y dos centi-áreas (334092 m^{s}. c^{s}.),",
+    "y linda el 1^{o}. por el Nord-Este con",
+    "D^{a}. Dominga Monsalvo, por el Nord-Oeste",
+    "con los herederos de Don Adolfo Mármol,",
+    "por el Sud-Este con D^{a}. Lucia Monsalvo,",
+    "y por el Sud-Oeste con D^{a}. Marcelina",
+    "Monsalvo."
+   ],
+   "interpretacion": "Cierra la cesión de Eusebia, hecha ante el escribano de Chacabuco Andrés de Vera. Según la cuenta particionaria de la testamentaría de Antonio Monsalvo y [Antonia?] Zárate, que el propio Almeira usó para dividir el campo en 1881 (ficha 119), Nemesia y Dominga reciben 32,6 varas de frente cada una, Lucía 34,8 y Eusebia 33,9, todas «con todo el fondo del campo». En el terreno, los lotes de Nemesia y de Dominga se ubicaron como rectángulos de 595 × 561,5 m (33,41 ha). La división en fajas de pocas varas se convirtió al medir en bloques más compactos."
+  },
+  {
+   "titulo": "Folio 2 · lotes de Dominga, Lucía y Eusebia",
+   "img": "img/f/143/07.jpg",
+   "fuente": "IMG_0136.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 2]",
+    "El terreno de D^{a}. Dominga Monsalvo,",
+    "linda por el Nord-Este con Don Eduardo",
+    "Tormey, por el Nord-Oeste con los herede-",
+    "ros de Don Adolfo Mármol y Don Elias",
+    "Monsalvo (hoy Don Manuel Fuentes), por",
+    "el Sud-Este con D^{a}. Lucia Monsalvo,",
+    "y por el Sud-Oeste con D^{a}. Nemesia",
+    "Monsalvo.",
+    "El terreno de D^{a}. Lucia Monsalvo, fué ubi-",
+    "cado con un frente de tres cientos diez",
+    "y ocho metros, y mil ciento veinte y",
+    "tres metros de fondo; siendo su figura",
+    "la de un rectángulo, con una super-",
+    "ficie igual á treinta y cinco hectá-",
+    "reas setenta y una áreas y catorce",
+    "centi-áreas (357114 m^{s}. c^{s}.), y linda por el",
+    "Nord-Este con Don Eduardo Tormey,",
+    "por el Nord-Oeste con D^{a}. Dominga y",
+    "D^{a}. Nemesia Monsalvo, por el Sud-Este",
+    "con Don José F. Aguirre, y por el Sud-",
+    "Oeste con D^{a}. Marcelina Monsalvo.",
+    "El terreno de D^{a}. Eusebia Monsalvo, fué",
+    "ubicado con un frente de doscientos",
+    "treinta y seis metros, y mil cuatro",
+    "cientos setenta y cinco metros de",
+    "fondo; siendo su figura la de",
+    "un rectángulo, con una superficie",
+    "igual á treinta y cuatro hectáreas",
+    "y ochenta y una áreas (348100 m^{s}. c^{s}.), y",
+    "linda por el Nord-Este con Don José",
+    "F. Aguirre, por el Nord-Oeste con D^{a}.",
+    "Marcelina Monsalvo, por el Sud-Este",
+    "con D^{a}. Maria de la Exaltacion Monsalvo,",
+    "y por el Sud-Oeste con D^{a}. Maria Maldonado."
+   ],
+   "interpretacion": "Linderos del lote de Dominga: NE Eduardo Tormey; NO herederos de Adolfo Mármol y Elías Monsalvo (hoy Manuel Fuentes). Lucía: 318 × 1123 m = 35,71 ha. Eusebia: 236 × 1475 m = 34,81 ha, entre José F. Aguirre (NE), Marcelina Monsalvo (NO), María de la Exaltación Monsalvo (SE) y María Maldonado (SO). Todas las superficies cierran exactas."
+  },
+  {
+   "titulo": "Folio 2 vuelto · referencia a 1882 y comienzo de la mensura",
+   "img": "img/f/143/08.jpg",
+   "fuente": "IMG_0137.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Todo esto consta del duplicado N^{o}. [en blanco] de la",
+    "diligencia de mensura y division, prac-",
+    "ticada por el Agrimensor que suscribe,",
+    "y que fué aprobada por el Departa-",
+    "mento de Ingenieros en 29 de Marzo",
+    "de 1882.",
+    "Mensura.- En el partido de",
+    "Giles á 16 de Julio de 1884, el Agri-",
+    "mensor que suscribe comisionado",
+    "por el Señor Juez de 1^{a}. Instancia",
+    "en lo Civil y Comercial del Departa-",
+    "mento del Centro. D^{r}. Don Manuel",
+    "B. Gonnet, para medir el terreno",
+    "perteneciente á Don Marcelino",
+    "J. Ortiz ubicado en el partido de",
+    "Giles; prévio aviso á los linderos",
+    "como consta de los Edictos publi-",
+    "cados en los diarios «El Pueblo» de",
+    "Mercedes y «El Plata» de Buenos",
+    "Aires, de fecha 8 de Julio de 1884;",
+    "dí principio á la operacion del",
+    "modo siguiente:- Me situé en",
+    "el mojon esquinero Sud del terre-",
+    "no que iba á medir, y al Norte",
+    "cuarenta y siete grados cinco minutos",
+    "Oeste, medí nueve cientos trece metros,",
+    "pasando á los tres cientos diez y ocho",
+    "metros por un mojon de palo, y termi-",
+    "nando en un mojon de palo, esquinero",
+    "Sud del terreno de los herederos de Don",
+    "Adolfo Mármol, y Oeste del que medí.",
+    "Desde este mojon medí al Norte cuarenta"
+   ],
+   "interpretacion": "Todo eso consta en el duplicado de la división (n.º en blanco), aprobado por el D. I. el 29/3/1882: es la ficha 119. La nueva mensura empieza el 16/7/1884 por comisión del juez del Departamento del Centro, Manuel B. Gonnet, con edictos en «El Pueblo» de Mercedes y «El Plata» de Buenos Aires (8/7/1884). Desde el esquinero S, N 47° 5′ O, mide 913 m con mojón de palo a 318 m (límite Lucía/Nemesia), hasta el esquinero S de los herederos de Mármol."
+  },
+  {
+   "titulo": "Folio 3 · perímetro del lote mayor (A-B-C-D)",
+   "img": "img/f/143/09.jpg",
+   "fuente": "IMG_0137.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 3]",
+    "y dos grados cincuenta y cinco minutos",
+    "Este, mil ciento veinte y tres metros, pa-",
+    "sando por un mojon de palo á los quinien-",
+    "tos sesenta y un metros cinco decímetros,",
+    "y por otro mojon de palo á los siete",
+    "cientos noventa y tres metros, que es",
+    "esquinero Este del terreno de los herederos",
+    "de Mármol, y llegando á un mojon de",
+    "palo esquinero Norte del terreno que",
+    "media, y Este del de Don Manuel Fuentes.",
+    "De aquí al Sud cuarenta y siete grados",
+    "cinco minutos Este, medí nueve cientos",
+    "trece metros, pasando á los quinientos",
+    "noventa y cinco metros por un mojon",
+    "de palo, y terminando en un mojon de",
+    "palo esquinero Este del terreno que me-",
+    "dia. Desde este mojon medí al Sud",
+    "cuarenta y dos grados cincuenta y cinco",
+    "minutos Oeste, mil ciento veinte y tres",
+    "metros, pasando á los quinientos sesenta",
+    "y un metros cinco decímetros, por un",
+    "mojon de palo, y llegando al mojon",
+    "punto de arranque de esta mensura.",
+    "La figura de este terreno es la de un",
+    "rectángulo, con una superficie igual",
+    "á ciento dos hectáreas cincuenta y dos",
+    "áreas y noventa y nueve centi-áreas",
+    "(1025299 m^{s}. c^{s}.), y linda por el Nord-Este",
+    "con Don Eduardo Tormey, por el Nord-Oeste",
+    "con los herederos de Don Adolfo Mármol",
+    "y Don Manuel Fuentes, por el Sud-Este",
+    "con D^{a}. Petrona C. de Aguirre, y por",
+    "el Sud-Oeste con D^{a}. Marcelina Mon-"
+   ],
+   "interpretacion": "N 42° 55′ E 1123 m (mojones de palo a 561,5 y a 793 m, esquinero E de Mármol), hasta el esquinero N, que es el E de Manuel Fuentes; S 47° 5′ E 913 m (mojón a 595 m); S 42° 55′ O 1123 m de vuelta al punto de partida. Es un rectángulo de 102,53 ha (Nemesia + Dominga + Lucía): NE Eduardo Tormey, NO herederos de Mármol y Manuel Fuentes, SE Petrona C. de Aguirre, SO Marcelina Monsalvo."
+  },
+  {
+   "titulo": "Folio 3 vuelto · lote de Eusebia (a-b-c-d)",
+   "img": "img/f/143/10.jpg",
+   "fuente": "IMG_0138.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "salvo.",
+    "Para medir el terreno que era de D^{a}.",
+    "Eusebia Monsalvo, me situé en el mojon",
+    "de palo esquinero Norte del terreno que",
+    "iba á medir, y Este del de D^{a}. M.",
+    "Monsalvo, y al Sud cuarenta y dos grados",
+    "cincuenta y cinco minutos Oeste, medí",
+    "mil cuatro cientos setenta y cinco",
+    "metros, pasando á los siete cientos trein-",
+    "ta y cinco metros por un mojon de",
+    "palo, y llegando y llegando [sic] á otro",
+    "mojon de palo esquinero Oeste del",
+    "terreno que media. Desde este mojon",
+    "al Sud cuarenta y siete grados cinco",
+    "minutos Este, medí dos cientos treinta",
+    "y seis metros, que terminaron en el",
+    "mojon esquinero Sud del terreno",
+    "que media. De aquí al Norte cuaren-",
+    "ta y dos grados cincuenta y cinco minu-",
+    "tos Este, medí mil cuatro cientos",
+    "setenta y cinco metros, pasando",
+    "á los siete cientos treinta y cinco",
+    "metros por un mojon de palo, y llegan-",
+    "do al mojon de palo esquinero Este",
+    "del terreno que media. Desde este",
+    "mojon medí al Norte cuarenta y siete",
+    "grados ~~cincuenta~~ y cinco minutos Oeste,",
+    "dos cientos treinta y seis metros, llegan-",
+    "do al mojon punto de arranque",
+    "de esta mensura.",
+    "La figura de este terreno es la de",
+    "un rectángulo; con una superficie",
+    "igual á treinta y cuatro hectáreas"
+   ],
+   "interpretacion": "Segundo lote, el que fue de Eusebia: desde su esquinero N (E del de Marcelina Monsalvo), S 42° 55′ O 1475 m con mojón de palo a 735; S 47° 5′ E 236 m; N 42° 55′ E 1475 m; N 47° 5′ O 236 m. El copista repite «y llegando» y tacha un «cincuenta»."
+  },
+  {
+   "titulo": "Folio 4 · superficie, conformidad y abalizamiento",
+   "img": "img/f/143/11.jpg",
+   "fuente": "IMG_0138.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 4]",
+    "y ochenta y una áreas (348100 m^{s}. c^{s}.), y",
+    "linda por el Nord-Este con D^{a}. Petrona",
+    "C. de Aguirre, por el Nord-Oeste con",
+    "D^{a}. Marcelina Monsalvo, por el Sud-Este",
+    "con D^{a}. Exaltacion Monsalvo, y por el",
+    "Sud-Oeste con D^{a}. Maria Maldonado.",
+    "Siendo la mensura de estos dos terrenos,",
+    "una repeticion de la que practiqué en",
+    "1881; y que se ha efectuado con motivo",
+    "del cambio de dueño, y habiendo en esa",
+    "ocasion, manifestado todos los linderos",
+    "su conformidad con esa operacion,",
+    "no tuvieron inconveniente en esta",
+    "ocasion, en declarar que estaban",
+    "conformes, y firmar la circular de",
+    "citacion y el Acta.",
+    "- Avalizamiento de mojones -",
+    "Desde el mojon A (del plano) se vé una",
+    "poblacion de D^{a}. Marcelina Monsalvo,",
+    "que forma con la línea AB (del plano) un",
+    "ángulo de 27° 35′.",
+    "Desde el mojon B (del plano) se vé la",
+    "Estancia de los herederos de Mármol,",
+    "que forma con la línea BC (del plano)",
+    "un ángulo de 75° 6′; y un puesto que forma",
+    "con la misma línea un ángulo de",
+    "37° 15′.",
+    "Desde el mojon C (del plano) se vé una",
+    "poblacion de Don Eduardo Tormey, que",
+    "forma con la línea CD (del plano) un",
+    "ángulo de 60° 16′.",
+    "Desde el mojon D (del plano) se vé la"
+   ],
+   "interpretacion": "Lote de Eusebia: 34,81 ha. Almeira explica que esta mensura repite la suya de 1881 «con motivo del cambio de dueño» y que los linderos, conformes entonces, firmaron sin problema la circular y el acta. Empieza el «avalizamiento de mojones»: desde A se ve una población de Marcelina Monsalvo (27° 35′ con A-B); desde B la estancia de los herederos de Mármol (75° 6′) y un puesto (37° 15′); desde C una población de Eduardo Tormey (60° 16′)."
+  },
+  {
+   "titulo": "Folio 4 vuelto · fin del abalizamiento, declinación y firma",
+   "img": "img/f/143/12.jpg",
+   "fuente": "IMG_0139.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Estancia de Don Eduardo Tormey, que",
+    "forma con la línea DC (del plano) un ángulo",
+    "de 80° 23′.",
+    "Desde el mojon b (del plano) se vé una",
+    "poblacion de D^{a}. Marcelina Monsalvo,",
+    "que forma con la línea bA (del plano)",
+    "un ángulo de 87° 43′; y una poblacion",
+    "de D^{a}. Maria Maldonado, que forma",
+    "con la misma línea un ángulo",
+    "de 118° 26′.",
+    "Desde el mojon c (del plano) se vé una",
+    "poblacion de D^{a}. Exaltacion Monsalvo,",
+    "que forma con la línea cd (del plano)",
+    "un ángulo de 58° 32′.",
+    "Desde el mojon d (del plano) se vé una",
+    "poblacion de D^{a}. Exaltacion Monsalvo,",
+    "que forma con la línea dc (del plano)",
+    "un ángulo de 17° 47′; y una poblacion",
+    "de D^{a}. Petrona C. de Aguirre, que",
+    "forma con la misma línea un",
+    "ángulo de 137° 22′.",
+    "La variacion de la aguja fué de 11° 30′ al N. E.",
+    "= Lo testado no vale =",
+    "Manuel Almeira",
+    "[sello: DEPARTAMENTO DE INGENIEROS · Entradas 25 AGO. 85 · DE LA PROVINCIA]",
+    "[rúbrica]"
+   ],
+   "interpretacion": "Desde D, la estancia de Eduardo Tormey (80° 23′); desde b, poblaciones de Marcelina Monsalvo (87° 43′) y de María Maldonado (118° 26′); desde c y d, poblaciones de Exaltación Monsalvo (58° 32′ y 17° 47′) y de Petrona C. de Aguirre (137° 22′). La variación de la aguja es de 11° 30′ al NE. Firma Manuel Almeira; entrada al D. I. el 25/8/1885."
+  },
+  {
+   "titulo": "Folio 5 · informe del D. I.: «mal ejecutada»",
+   "img": "img/f/143/13.jpg",
+   "fuente": "IMG_0139.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 5]",
+    "S^{or}. Juez de 1^{a}. Instancia",
+    "La presente mensura practicada",
+    "por el agrimensor Almeira de los",
+    "terrenos de Don Marcelino Ortiz,",
+    "situados en el Partido de Giles está",
+    "mal ejecutada y de consiguien-",
+    "te no puede ser aprobada por",
+    "este Departamento.-",
+    "Segun la mensura de estos cam-",
+    "pos practicada por este mismo",
+    "agrimensor anteriormente, el",
+    "esquinero Norte de la fraccion que",
+    "perteneció á D^{a}. Eusebia Monsalvo,",
+    "figura en esa mensura como",
+    "costanero del terreno de D^{a}. Lucia",
+    "Monsalvo despues de Ortiz, y hoy",
+    "la hace figurar como costanero",
+    "de D^{a}. Petrona C. de Aguirre in-",
+    "vadiendo el terreno de D^{a}. Maria",
+    "de la E^{on}. Monsalvo.-",
+    "En Agosto del Año pasado",
+    "dicho agrimensor presentó"
+   ],
+   "interpretacion": "El Departamento de Ingenieros rechaza la mensura. Según la división anterior del mismo Almeira, el esquinero N de la fracción de Eusebia era colindante con el lote de Lucía Monsalvo (después de Ortiz); ahora lo pone colindante con Petrona C. de Aguirre, invadiendo el terreno de María de la Exaltación Monsalvo."
+  },
+  {
+   "titulo": "Folio 5 vuelto · fin del informe (1/7/1886)",
+   "img": "img/f/143/14.jpg",
+   "fuente": "IMG_0140.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "esta mensura y le fué devuelta",
+    "para que la corrigiese en el terreno;",
+    "fué presentada figurando el esquinero",
+    "Sud del campo de D^{a}. Lucia Monsalvo",
+    "como esquinero Norte de D^{a}. Eusebia.-",
+    "En el presente mes la vuelve",
+    "á presentar, mal corregida como",
+    "se manifiesta en el principio de",
+    "este informe, así es que no",
+    "puede ser aprobada.-",
+    "Julio 1/886",
+    "Pico",
+    "Salvadores",
+    "V. Genardi [?]   Juan B. Rivera [?]"
+   ],
+   "interpretacion": "En agosto de 1885 la mensura había sido devuelta para corregirla en el terreno, y volvió con el esquinero S de Lucía puesto como esquinero N de Eusebia. Ahora vuelve «mal corregida» y «no puede ser aprobada» (1/7/1886). Firman Pico, Salvadores, V. Genardi [?] y Juan B. Rivera [?]. El duplicado queda archivado SIN aprobar."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de los dos lotes de Marcelino J. Ortiz (Almeira)",
+   "img": "img/f/143/03.jpg",
+   "fuente": "IMG_0141.JPG",
+   "orientacion": "dos flechas de norte, una hacia el NE (arriba a la derecha) y otra hacia el SO (abajo); escala gráfica de 0 a 1400 m",
+   "interpretacion": "Arriba a la derecha está el rectángulo A-B-C-D (Marcelino J. Ortiz, área 1 025 299 m²); abajo a la izquierda, la faja a-b-c-d (Marcelino J. Ortiz, área 348 100 m²), con bordes en rosa. El vértice a está pegado a A, que es justamente lo que objetó el Departamento de Ingenieros. Linderos: herederos de A. Mármol y M. Fuentes (NO del lote mayor), Eduardo Tormey (NE), Petrona C. de Aguirre (SE), Marcelina Monsalvo (entre ambos lotes), María de la Exaltación Monsalvo (SE de la faja) y María Maldonado (SO). Cotas: 913 m, 1123 m, 1475 m, 236 m; mojones intermedios a 318, 561,5, 595, 735 y 793 m.",
+   "referencias": [
+    [
+     "A",
+     "Esquinero S del lote mayor; punto de partida; casi coincide con a"
+    ],
+    [
+     "B",
+     "Esquinero O (S de los herederos de Mármol)"
+    ],
+    [
+     "C",
+     "Esquinero N (E de Manuel Fuentes)"
+    ],
+    [
+     "D",
+     "Esquinero E (con Tormey y Aguirre)"
+    ],
+    [
+     "a, b, c, d",
+     "Vértices de la faja que fue de Eusebia Monsalvo (236 × 1475 m)"
+    ],
+    [
+     "318 / 595",
+     "Mojones de palo que separan los lotes de Lucía, Nemesia y Dominga en los costados de 913 m"
+    ],
+    [
+     "561,5 / 793",
+     "Mojones sobre B-C (mitad de Nemesia y Dominga; esquinero E de Mármol)"
+    ],
+    [
+     "Dos flechas",
+     "Norte verdadero y norte magnético, o norte y sur (sin aclarar)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle del plano",
+   "img": "img/f/143/04.jpg",
+   "fuente": "IMG_0142.JPG",
+   "orientacion": "detalle (misma lámina)",
+   "interpretacion": "Vista más cercana de los dos rectángulos con los rótulos de los linderos y las cotas; abajo, la escala gráfica en metros.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje y poblamiento",
+   "texto": "No se nombra ningún curso de agua ni accidente: el paisaje de 1884 se lee en las casas. El abalizamiento da visuales desde casi todos los mojones a poblaciones vecinas: dos de Marcelina Monsalvo, dos de Exaltación Monsalvo, la estancia de los herederos de Mármol con su puesto, una población y la estancia de Eduardo Tormey, una de María Maldonado y otra de Petrona C. de Aguirre. Es un campo muy subdividido entre herederos que viven en él, y cada fracción de 30 a 100 ha tiene su rancho o casa. Los mojones son de palo."
+  },
+  {
+   "titulo": "Técnica",
+   "texto": "Los dos polígonos son rectángulos exactos (N 47° 5′ O / N 42° 55′ E); las superficies son productos de lados enteros (913 × 1123; 236 × 1475; 595 × 561,5; 318 × 1123) y cierran exactas. La variación de la aguja es de 11° 30′ NE (1884), un dato para la serie de declinaciones del corpus. El abalizamiento da el ángulo entre cada línea y la visual a cada casa: con dos visuales desde mojones distintos se puede triangular la ubicación de las poblaciones en el GIS."
+  },
+  {
+   "titulo": "Ritual y control estatal",
+   "texto": "Almeira argumenta que es una repetición de su mensura de 1881 «con motivo del cambio de dueño», así que los linderos firmaron sin objetar la circular y el acta. Aun así el Departamento de Ingenieros compara con su propio archivo (el duplicado 119) y la rechaza dos veces: en agosto de 1885 y en julio de 1886 («mal corregida»). Muestra el uso del archivo de duplicados como registro catastral de control: una mensura de dos rectángulos se objeta por la posición de un vértice."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Ortiz compra «acciones y derechos» en testamentarías, no tierra deslindada. Es la vía típica de concentración en los campos de herederos múltiples (comparar con Chacón, Chapeaurouge y Cucullo en 119). Los vendedores firman en Zárate, Chivilcoy y Chacabuco: los herederos ya estaban dispersos. Los lotes de Nemesia, Dominga y Lucía eran contiguos y Ortiz los fusiona en un bloque; el de Eusebia queda aparte, a unos 600 m al SO."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "119 (herederos de Antonio Monsalvo y Antonio Zárate, Almeira 1881-82): es el duplicado de división citado aquí. Allí aparecen Chacón, Mármol, Cucullo y Chapeaurouge; habría que cotejar las fajas de Nemesia, Dominga, Lucía y Eusebia y su conversión a rectángulos. Tormey (Tormy): fichas 079-081 y 097. Manuel B. Gonnet como juez del Centro: comparar con 127-129. La portadilla anota en lápiz «V. 119» [?]."
+  },
+  {
+   "titulo": "Preguntas abiertas",
+   "texto": "¿Se aprobó alguna vez una mensura corregida? Este duplicado termina con el rechazo. ¿Quiénes son José Francisco Monsalvo y Francisca Monsalvo, los causantes de las testamentarías de 1881? Probablemente un matrimonio entre primos dentro del linaje Monsalvo. ¿«Antonio Monsalvo y Don Antonio Zárate» o «Antonia Zárate»? Ver el título de 119. La lectura «Cires» del escribano de Chivilcoy es dudosa."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Marcelino J. Ortiz",
+   "rol": "Propietario",
+   "texto": "Comprador en 1881-82 de derechos hereditarios de las Monsalvo, con los que juntó unas 137 ha en el ex campo Monsalvo-Zárate. No se encontraron datos fuera del expediente.",
+   "fuentes": "Expediente."
+  },
+  {
+   "nombre": "Manuel Almeira",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor de la división Monsalvo-Zárate (1881-82, ficha 119). Usa abalizamiento sistemático con ángulos a las poblaciones y declara la variación de la aguja. Su mensura de 1884 fue rechazada dos veces por el D. I. por desplazar un vértice respecto de su propia división.",
+   "fuentes": "Expediente; ficha 119."
+  },
+  {
+   "nombre": "Nemesia, María Dominga, Lucía y Eusebia Monsalvo",
+   "rol": "Vendedoras / herederas",
+   "texto": "Herederas en las testamentarías de José Francisco y Francisca Monsalvo, con cuotas de 32,6 a 34,8 varas de frente «con todo el fondo» en la partición de Antonio Monsalvo y Zárate. Eusebia, casada con un Maldonado, transmitió sus derechos (luego cedidos por Ignacio L. Chacón).",
+   "fuentes": "Expediente; ficha 119."
+  },
+  {
+   "nombre": "Ignacio L. Chacón",
+   "rol": "Cedente",
+   "texto": "Sucesor de Eusebia Monsalvo de Maldonado; cedió esos derechos a Ortiz en Chivilcoy (1882). Figura también como comprador en la división de 1881 (119).",
+   "fuentes": "Expediente; ficha 119."
+  },
+  {
+   "nombre": "Manuel B. Gonnet",
+   "rol": "Juez",
+   "texto": "Juez de primera instancia en lo civil y comercial del Departamento del Centro (1884). Manuel B. Gonnet fue después el primer ministro de Obras Públicas bonaerense.",
+   "fuentes": "Expediente; fichas 127-129 (Wikipedia)."
+  },
+  {
+   "nombre": "Octavio Pico",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firma el rechazo del 1/7/1886, junto con Salvadores, V. Genardi [?] y Juan B. Rivera [?]. En la misma época aprobaba la mensura de Silva (ficha 142).",
+   "fuentes": "Expediente; ficha 142."
+  },
+  {
+   "nombre": "Linderos y vecinos",
+   "rol": "Vecinos",
+   "texto": "Eduardo Tormey (estancia y población; familia Tormy de 079-081 y 097); herederos de Adolfo Mármol (estancia y puesto); Elías Monsalvo, luego Manuel Fuentes; Petrona C. de Aguirre y José F. Aguirre; Marcelina Monsalvo; María de la Exaltación Monsalvo; María Maldonado. Escribanos: Rómulo Noya (Zárate), Juan B. Cires [?] (Chivilcoy), Andrés de Vera (Chacabuco). Ninguno tiene datos fuera del corpus.",
+   "fuentes": "Expediente; fichas 079-081, 097, 119."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/143/02.jpg",
+  "fuente": "IMG_0134.JPG",
+  "lineas": [
+   "[lápiz rojo: tachadura ilegible]",
+   "San A. de Giles",
+   "143-",
+   "Duplicado de la diligencia",
+   "de mensura de un terreno per-",
+   "teneciente á Don Marcelino",
+   "J. Ortiz, ubicado en el partido",
+   "de",
+   "«Giles»",
+   "Agrimensor- Manuel Almeira-",
+   "1886",
+   "[lápiz:] V. 119 [?]",
+   "1-337-39"
+  ]
+ },
+ "titulo": "Marcelino J. Ortiz",
+ "estado": "Transcripta (10 hojas, 292 renglones), 2 láminas"
+}
