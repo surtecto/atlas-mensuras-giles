@@ -1,0 +1,472 @@
+{
+ "carpeta": "150",
+ "carpeta_nombre": "Carpeta 150",
+ "archivo": "Ficha 150 - Gerónima Sosa de Lacarra (1888).docx",
+ "resumen": {
+  "N.º de duplicado": "150 (Giles); archivo 2-1136-137 [?]",
+  "Propietario / solicitante": "Gerónima Sosa de Lacarra",
+  "Agrimensor": "Jorge Meineke",
+  "Año": "1888",
+  "Fecha de la diligencia": "10/7/1888; entrada D. I. 17/8; abstención 28/8; aprobada 30/10/1888",
+  "Ubicación": "Barranca derecha del río de Areco; camino de Giles a Zárate en el SE",
+  "Orden judicial": "Juez Dr. Adolfo Miranda Naón (sec. César S. Langenheim), 2/7/1888",
+  "Vendedor / antecesor": "División de Eguía (1853) de Narciso Sosa y Manuela Tiseyra [?]",
+  "Linderos citados": "Dellemor de Lyons, Santillán, S. Gil, D. Lennon, M. Scully, P. C. de Zacarelo",
+  "Medidas": "7842 · 1669 · 393 · 2602 · 7590 m + auxiliar 2234 m con 10 ordenadas al río",
+  "Rumbos": "S 50° 11′ E · N 42° 11′ E · N 36° 36′ E · N 19° 47′ E · N 68° 18′ O; D. M. 12° 30′ E",
+  "Referencia de archivo": "AHG PBA, duplicado 150; Eguía 1853 = «Dupl. Exaltación 12»"
+ },
+ "metricas": {
+  "superficie_ha": "2654 (1572,833 cuadras); Eguía 1853: 2606,82; títulos BH: 2594,85; sobrante 59,15",
+  "hitos": "piedra mojón S; mojón de piedra de Scully; mojones de fierro y madera; alambrados; Estancia Nueva y Estancia Vieja",
+  "aguas": "río de Areco (barranca derecha, frente NO, 10 ordenadas hasta 340 m)"
+ },
+ "sintesis": "Jorge Meineke mide el 10 de julio de 1888 el campo de Gerónima Sosa de Lacarra, lote que le tocó en 1853 en la división de Eguía de la herencia de Narciso Sosa y Manuela Tiseyra [?]. Es un polígono de cinco lados alambrados entre la barranca derecha del río de Areco y el camino de Giles a Zárate, contra Zacarelo, Scully, Lennon, Gil, Santillán y Lyons, cerrado sobre el río con una línea auxiliar y diez ordenadas. Resultan 2654 ha. Ningún lindero asiste. El Departamento primero se niega a informar por falta de títulos (art. 610) y, con el informe del Banco Hipotecario, aprueba un sobrante de 59,15 ha, que Gerónima transfiere a Carlos M. Saavedra (escritura de 1889).",
+ "caratula": {
+  "img": "img/f/150/01.jpg",
+  "fuente": "IMG_0279.JPG",
+  "campos": [
+   [
+    "N.º",
+    "150"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Gerónima Sosa de Lacarra"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Jorge Meineke"
+   ],
+   [
+    "Mes / Año",
+    "(mes en blanco) / 1888"
+   ],
+   [
+    "Juzgado / Secretaría",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · título de 1853 y arranque en la barranca del río de Areco",
+   "img": "img/f/150/05.jpg",
+   "fuente": "IMG_0281.JPG (rot 90)",
+   "nota": "Hoja suelta fotografiada acostada (rot 90); sello «FOJA 1». El duplicado de 1853 no es el Giles 12 del corpus (012 = Celidonio Fernández, 1826): la interlínea «Exaltación» indica que la división de Eguía está archivada en Exaltación de la Cruz, n.º 12. Verificado: 34 759 576 v² × 0,866² = 2606,82 ha.",
+   "lineas": [
+    "[sello: FOJA 1]",
+    "Duplicado de la diligencia de mensura",
+    "del terreno de propiedad de Doña Gerónima",
+    "Sosa de Lacarra en el partido de Giles.",
+    "Extracto del título.",
+    "1853 Diciembre. El Agrimensor Don Manuel Eguía",
+    "practicó mensura y division de los terrenos",
+    "pertenecientes á los herederos de Don Narciso",
+    "Sosa y Doña Manuela Tiseyra [?], quedando el",
+    "lote de Doña Gerónima Sosa compuesto de",
+    "34.759.576 varas cuadradas (Dupl. Giles 12.)",
+    "[interlineado sobre «Giles»: Exaltacion]",
+    "Mensura",
+    "En el partido de Giles á diez de Julio de",
+    "mil ochocientos ochenta y ocho, yo el Agri-",
+    "mensor que suscribe, comisionado por el",
+    "señor Juez de primera instancia Doctor Don",
+    "Adolfo Miranda Naon (Secretaría de Don",
+    "César S. Langenheim) con fecha dos de Julio",
+    "pp.do para medir el terreno de Doña Ge-",
+    "rónima Sosa de Lacarra, dí cumplimiento",
+    "á mi comision procediendo como sigue.",
+    "Tomé por punto de arranque el vértice Oeste",
+    "de este terreno sobre la barranca derecha",
+    "del Rio de Areco, que es esquinero Norte de",
+    "Doña Paula C. de Zacarelo, y dividiendo con",
+    "esta lindera medí al Sud cincuenta grados once",
+    "minutos Este siete mil ochocientos cuarenta y",
+    "dos metros (S. 50° 11′ E. 7842.m) hasta la piedra",
+    "mojon esquinero Sud del terreno. En esta linea",
+    "que está alambrada, encontré á los cuarenta",
+    "metros un mojon de madera, á los trescientos",
+    "veinte y dos metros un mojon de fierro, á los",
+    "seis mil trescientos diez y ocho metros y á la"
+   ],
+   "interpretacion": "Extracto del título: en diciembre de 1853 el agrimensor MANUEL EGUÍA midió y dividió los terrenos de los herederos de NARCISO SOSA y MANUELA TISEYRA [?]; el lote de GERÓNIMA SOSA quedó de 34 759 576 varas cuadradas (duplicado «Giles 12», con «Exaltación» interlineado). Acta: Giles, 10 de julio de 1888; el agrimensor JORGE MEINEKE, comisionado el 2 de julio por el juez de 1.ª instancia Dr. ADOLFO MIRANDA NAÓN (secretaría de CÉSAR S. LANGENHEIM), arranca en el vértice O, sobre la BARRANCA DERECHA DEL RÍO DE ARECO, esquinero N de PAULA C. DE ZACARELO, y mide contra ella S 50° 11′ E 7842 m hasta la PIEDRA MOJÓN esquinero S. La línea está ALAMBRADA; encuentra un mojón de madera a 40 m, uno de FIERRO a 322 m y otro de madera a 6318 m, 1 m a la derecha."
+  },
+  {
+   "titulo": "Folio 1 vuelto · camino de Giles a Zárate, Scully, Lennon y Gil",
+   "img": "img/f/150/06.jpg",
+   "fuente": "IMG_0282.JPG (mitad izquierda)",
+   "nota": "El lado E es una quebrada de tres tramos que sigue el alambrado de los vecinos. El lado contra Scully (N 42° 11′ E 1669 m) es el D-F «N 42° E 1669» de la ficha 069 (Pico, 1875): mismo largo, catorce años después.",
+   "lineas": [
+    "derecha un metro un mojon de madera, y des-",
+    "de los siete mil setecientos diez y ocho hasta",
+    "los siete mil setecientos setenta metros cruzé el",
+    "camino de Giles á Zárate. En seguida deslin-",
+    "dando con Don Miguel Scully medí al Norte",
+    "cuarenta y dos grados once minutos Este mil",
+    "seiscientos sesenta y nueve metros (N. 42° 11′ E. 1669.m)",
+    "hasta el mojon de piedra, esquinero Norte de",
+    "Scully; en esta linea encontré un mojon de",
+    "madera á los ochocientos sesenta y seis metros.",
+    "En seguida medí al Norte treinta y seis grados",
+    "treinta y seis minutos Este trescientos noventa y",
+    "tres metros (N. 36° 36′ E. 393.m) hasta un vértice del",
+    "alambrado, y en seguida al Norte diez y nueve",
+    "grados cuarenta y siete minutos Este dos mil seis-",
+    "cientos dos metros (N. 19° 47′ E. 2602.m) hasta el mojon",
+    "de palo esquinero Este del terreno de Doña Geró-",
+    "nima Sosa y esquinero Sud de Doña Catalina",
+    "Dellimor de Lyons; en esta linea encontré á",
+    "los trescientos ochenta y tres metros un mojon",
+    "de madera, y á los mil quinientos catorce metros",
+    "un mojon divisorio de Don Diego Lennon y",
+    "Don Segundo Gil. En seguida medí por",
+    "linea alambrada y deslindando con Doña",
+    "Catalina Dellimor al Norte sesenta y ocho",
+    "grados diez y ocho minutos Oeste siete mil",
+    "quinientos noventa metros (N. 68° 18′ O. 7590.m)",
+    "hasta el Rio de Areco, vértice Norte del",
+    "terreno que se mide; en esta linea encontré",
+    "mojones de madera á los dos mil trescientos",
+    "treinta y ocho, cuatro mil novecientos treinta",
+    "y cuatro, seis mil doscientos ochenta y dos metros"
+   ],
+   "interpretacion": "Entre los 7718 y 7770 m de la primera línea cruza el CAMINO DE GILES A ZÁRATE. Luego, contra MIGUEL SCULLY, N 42° 11′ E 1669 m hasta el MOJÓN DE PIEDRA esquinero N de Scully (mojón de madera a 866 m); N 36° 36′ E 393 m hasta un vértice del alambrado; N 19° 47′ E 2602 m hasta el mojón de palo esquinero E de Gerónima Sosa y S de CATALINA DELLEMOR [?] DE LYONS (mojón de madera a 383 m y, a 1514 m, mojón divisorio de DIEGO LENNON y SEGUNDO GIL). Por línea alambrada, contra Catalina Dellemor, N 68° 18′ O 7590 m hasta el río de Areco, vértice N; mojones de madera a 2338, 4934 y 6282 m…"
+  },
+  {
+   "titulo": "Folio 2 · línea auxiliar sobre el río y superficie",
+   "img": "img/f/150/07.jpg",
+   "fuente": "IMG_0282.JPG (mitad derecha)",
+   "nota": "Verificado en python: el polígono cierra; el fin de la auxiliar cae a 350,6 m de A sobre la línea SO, con 1,0 m de error lateral. Polígono auxiliar 2610,6 ha + franja de ordenadas al río (trapecios) 37,9 ha = 2648,5 ha (−0,2 % frente a 2654). 2654 ha / 16 874 m² = 1572,833 cuadras; 2654 − 2606,82 = 47,18 ha = 471 848 m² = 27,963 cuadras: cuentas exactas.",
+   "lineas": [
+    "[sello: FOJA 2]",
+    "y á la derecha un metro, y á los siete mil",
+    "quinientos treinta metros á la derecha dos metros.",
+    "Regresando al punto de los siete mil cuatro-",
+    "cientos treinta metros de la última linea,",
+    "medí al Sud veinte y nueve grados siete minutos",
+    "Oeste dos mil doscientos treinta y cuatro metros",
+    "(S. 29° 7′ O. 2234.m), quedando el rio de Areco á la",
+    "derecha á los ciento cincuenta metros inmediato,",
+    "á los doscientos metros quince metros, desde los tres-",
+    "cientos cincuenta hasta los quinientos metros inme-",
+    "diato, á los setecientos cuarenta metros veinte metros,",
+    "á los ochocientos metros doscientos cincuenta metros,",
+    "á los mil cien metros doscientos noventa metros, á los",
+    "mil doscientos cincuenta metros doscientos veinte",
+    "metros, á los mil quinientos metros doscientos seten-",
+    "ta metros, á los mil setecientos cincuenta metros",
+    "doscientos ochenta metros, y á los dos mil metros tres-",
+    "cientos cuarenta metros; al final de esta linea me",
+    "encontré en el costado Sudoeste del terreno á trescien-",
+    "tos cincuenta metros desde el punto de arranque.",
+    "El terreno [interlineado: medido] de Doña Gerónima Sosa de Lacarra",
+    "tiene una superficie de dos mil seiscientos cin-",
+    "cuenta y cuatro hectáreas ó sean mil quinientas",
+    "setenta y dos cuadras mas ochocientos treinta y",
+    "tres milésimas (2654 hect. = 1572,833 c.s), resultando",
+    "sobre la mensura de Don Manuel Eguía en 1853",
+    "un exeso de cuatrocientos setenta y un mil ochocien-",
+    "tos cuarenta y ocho metros cuadrados, igual á veinte",
+    "y siete cuadras mas novecientos sesenta y tres",
+    "milésimas (471.848 m.c. = 27,963 c.s)."
+   ],
+   "interpretacion": "… (6282 m) 1 m a la derecha, y a 7530 m, 2 m a la derecha. Desde los 7430 m de esa línea mide una LÍNEA AUXILIAR S 29° 7′ O 2234 m con el río de Areco a la derecha: inmediato a 150 m, 15 m a los 200, inmediato de 350 a 500, 20 m a 740, 250 a 800, 290 a 1100, 220 a 1250, 270 a 1500, 280 a 1750 y 340 a 2000 m; termina sobre el costado SO a 350 m del arranque. Superficie: 2654 ha = 1572,833 cuadras; EXCESO sobre la mensura de Eguía de 1853: 471 848 m² = 27,963 cuadras."
+  },
+  {
+   "titulo": "Folio 2 vuelto · linderos, ausencia de todos y primer informe del Departamento",
+   "img": "img/f/150/08.jpg",
+   "fuente": "IMG_0283.JPG (mitad izquierda)",
+   "nota": "Las firmas del Departamento se leen con duda salvo Lagos. Primera vez en el corpus que el D. I. se niega a informar por falta de títulos.",
+   "lineas": [
+    "Este terreno linda por el Nortoeste con el Rio de",
+    "Areco, por el Norleste con Doña Catalina Dellemor de",
+    "Lyons, por el Sudeste con Don Manuel Santillan, Don",
+    "Segundo Gil, Don Diego Lennon, y Don Miguel Scully,",
+    "y por el Sudoeste con Doña Paula C. de Zacarelo.",
+    "Se acompaña la circular de citacion de los linderos que",
+    "firmaron D. Segundo Gil y Don Miguel Scully personal-",
+    "mente, en representacion de Doña Catalina Dellemor",
+    "su esposo Don Patricio Lyons, por Don Manuel Santillan",
+    "por no saber firmar, Don Mariano Romero, á ruego",
+    "de Don Diego Lennon por no saber firmar, Don Juan",
+    "Lenon, y como apoderado de Doña Paula C. de Zacarelo",
+    "Don Miguel Covian.",
+    "No se levantó acta de conformidad de los linderos",
+    "por no haber concurrido á la mensura ninguno de ellos.",
+    "Jorge Meineke",
+    "[sello: DEPARTAMENTO [DE INGE]NIEROS · Entrada · 17 AGO 88 · PROVINCIA DE BUENOS AIRES]",
+    "Señor Juez de 1.a Instancia.",
+    "Este Departamento se absti-",
+    "ne de informar en la presente",
+    "mensura por no acompañarse los",
+    "títulos como lo prescribe el artí-",
+    "culo 610 del Código de Procedimientos.",
+    "La Plata Agost. 28/888.",
+    "Lagos [rúbrica]          J. Tapia [?]",
+    "Vernet [?] [rúbrica]"
+   ],
+   "interpretacion": "Linderos: NO río de Areco; NE Catalina Dellemor [?] de Lyons; SE MANUEL SANTILLÁN, Segundo Gil, Diego Lennon y Miguel Scully; SO Paula C. de Zacarelo. Firmaron la circular Segundo Gil y Miguel Scully en persona; por Catalina Dellemor su esposo PATRICIO LYONS; por Santillán, que no sabe firmar, MARIANO ROMERO; a ruego de Diego Lennon, que no sabe firmar, JUAN LENNON; y como apoderado de Paula C. de Zacarelo, MIGUEL COVIÁN. «No se levantó acta de conformidad de los linderos por no haber concurrido a la mensura ninguno de ellos». Sello de entrada del DEPARTAMENTO DE INGENIEROS, 17 AGO 88. Informe (La Plata, 28/8/1888): el Departamento «se abstiene de informar» porque no se acompañan los TÍTULOS, como prescribe el ARTÍCULO 610 DEL CÓDIGO DE PROCEDIMIENTOS. Firman LAGOS, J. TAPIA [?] y VERNET [?]."
+  },
+  {
+   "titulo": "Folio 3 · nota del Banco Hipotecario, sobrante y aprobación",
+   "img": "img/f/150/09.jpg",
+   "fuente": "IMG_0283.JPG (mitad derecha)",
+   "nota": "Verificado: 2654 − 2594,8477 = 59,1523 ha. El título que vale para el Estado no es el de Eguía (2606,82 ha) sino el del Banco Hipotecario (2594,85 ha): 11,97 ha menos, sin explicación en el duplicado. El campo estaba hipotecado o tasado por el Banco Hipotecario de la Provincia. El pedido del sobrante llega 28 días después de la aprobación técnica.",
+   "lineas": [
+    "[sello: FOJA 3]",
+    "Nota",
+    "Segun informe del Banco Hipotecario",
+    "al terreno de Doña Gerónima Sosa",
+    "de Lacarra corresponde por sus",
+    "títulos una superficie de dos mil",
+    "quinientas noventa y cuatro hectáreas",
+    "ochenta y cuatro areas setenta y siete",
+    "centiareas (2594 h. 84 a. 77), y siendo la",
+    "superficie hallada de dos mil seiscien-",
+    "tas cincuenta y cuatro areas (2654 a.) [sic: hectáreas], re-",
+    "sulta un exceso de cincuenta y nueve",
+    "hectáreas quince areas veinte y tres centiareas",
+    "(59 h. 15 a. 23).",
+    "Jorge Meineke",
+    "Señor Juez de 1.a Instancia",
+    "La presente mensura puede apro-",
+    "barse; ha resultado un sobrante de cincu-",
+    "enta y nueve hectáreas quince áreas",
+    "veinte y tres centiáreas del cual se da",
+    "cuenta al Ministerio de Hacienda.",
+    "Lagos [rúbrica]          Octubre 30 de 1888",
+    "Kummer [?] [rúbrica]          J. Tapia [?]",
+    "Nbre. 27/888. Carlos M. Saavedra [?]",
+    "solicita el sobrante de esta mensura.",
+    "Nbre. 28/888 [rúbrica: Lagos]",
+    "[al margen: ...]",
+    "[continúa en f. 3 v.]"
+   ],
+   "interpretacion": "Nota de Meineke: según informe del BANCO HIPOTECARIO, a Gerónima Sosa de Lacarra corresponden por títulos 2594 ha 84 a 77 ca; hallada 2654 ha («areas», por hectáreas), resulta un exceso de 59 ha 15 a 23 ca. Informe del Departamento (30/10/1888): «La presente mensura puede aprobarse; ha resultado un SOBRANTE de 59 ha 15 a 23 ca, del cual se da cuenta al MINISTERIO DE HACIENDA». Firman Lagos, Kummer [?] y J. Tapia [?]. Al pie: «Nbre. 27/888. CARLOS M. SAAVEDRA [?] solicita el sobrante de esta mensura. Nbre. 28/888», rúbrica de Lagos."
+  },
+  {
+   "titulo": "Folio 3 vuelto · aprobación judicial y escritura del sobrante",
+   "img": "img/f/150/10.jpg",
+   "fuente": "IMG_0284.JPG (mitad izquierda)",
+   "nota": "La dueña tenía el derecho preferente a comprar el sobrante y lo TRANSFIRIÓ a Saavedra, que lo escritura al Estado: el sobrante funciona como un bien negociable. En la mitad derecha de la toma asoma el plano plegado (Santillán, [Segu]ndo Gil, Diego Lennon, Miguel Scully).",
+   "lineas": [
+    "[No]viembre 6/888. Consta [?] que fué aproba-",
+    "da esta mensura por el Juez",
+    "Dr. Fernandez Blanco, segun consta",
+    "del exp.te original que se",
+    "ha tenido á la vista.",
+    "Lagos [rúbrica]",
+    "En Abril 13 de 1889, se otorgó escritura de propiedad",
+    "á favor de D. Cárlos M. Saavedra del sobrante que resultó de",
+    "esta mensura, por transferencia de D.a Gerónima Sosa de",
+    "Lacarra. Anotado en Mayo 10 de 1889. C. 27.818 [?].",
+    "Malato [?] [rúbrica]"
+   ],
+   "interpretacion": "[No]viembre 6/888: consta que el juez Dr. FERNÁNDEZ BLANCO aprobó la mensura, según el expediente original tenido a la vista (Lagos). «En abril 13 de 1889 se otorgó escritura de propiedad a favor de D. Carlos M. Saavedra del sobrante que resultó de esta mensura, por transferencia de D.ª Gerónima Sosa de Lacarra. Anotado en mayo 10 de 1889. C. 27.818 [?]». Rúbrica MALATO [?]."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de mensura (Meineke, 1888)",
+   "img": "img/f/150/03.jpg",
+   "fuente": "IMG_0285.JPG (vista general; IMG_0286 es una toma repetida del centro)",
+   "orientacion": "Rotado: el río de Areco a la izquierda (NO), Zacarelo abajo (SO), Scully y Lennon a la derecha (SE); flecha «D. M. 12° 30′ E.» arriba a la izquierda y otra flecha abajo",
+   "interpretacion": "Plano a tinta con letra de imprenta, escala gráfica de 1000 a 5000 metros y firma «Jorge Meineke». El campo se rotula «Gerónima Sosa de Lacarra · 2654 hectáreas = 1572,833 cuadras», con dos poblaciones marcadas por un punto: ESTANCIA NUEVA, cerca del vértice N y del río, y ESTANCIA VIEJA, en el centro-S. A la izquierda, el río de Areco dibujado con sus meandros, la línea auxiliar S 29° 7′ O con sus ordenadas (150 … 2000) y la cota 350 sobre el lado SO. El lado SO lleva las progresivas 40, 322, 6318 y 7842; el E, sus tres tramos (1669, 393, 2602) con las cotas 866, 383 y 1514; el NE, 2338, 4934, 6282 y 7590. Cerca del vértice S, un camino «de Giles» cruza el lado SO. Vecinos: Catalina Dillemor de Lyons (NE), Manuel Santillán y Segundo Gil (E, en fajas oblicuas), Diego Lennon y Miguel Scully (SE), Paula C. de Zacarelo (SO). A lápiz, de otra mano, las referencias de duplicados: «Exalt. 12» bajo el rótulo, «Exalt. 8 [?]» bajo Lyons, «Exalt. 88 [?]» junto a Santillán, «Exalt. 127» bajo Lennon, «Giles 69» bajo Scully y «Giles 21» bajo Zacarelo.",
+   "referencias": [
+    [
+     "A (vértice O)",
+     "Barranca derecha del río de Areco, esquinero N de Zacarelo"
+    ],
+    [
+     "A-B",
+     "S 50° 11′ E 7842 m, alambrada; mojones de madera (40), fierro (322) y madera (6318); camino de Giles a Zárate 7718-7770 m"
+    ],
+    [
+     "B",
+     "Piedra mojón, esquinero S"
+    ],
+    [
+     "B-C",
+     "N 42° 11′ E 1669 m contra Scully; mojón de madera a 866 m; C = mojón de piedra, esquinero N de Scully"
+    ],
+    [
+     "C-D-E",
+     "N 36° 36′ E 393 m (vértice del alambrado) y N 19° 47′ E 2602 m; mojón de madera a 383 m y divisorio Lennon/Gil a 1514 m; E = mojón de palo"
+    ],
+    [
+     "E-F",
+     "N 68° 18′ O 7590 m, alambrada, contra Lyons; mojones a 2338, 4934, 6282 m; F = río de Areco"
+    ],
+    [
+     "Auxiliar",
+     "Desde 7430 m de E-F, S 29° 7′ O 2234 m; 10 ordenadas al río (0 a 340 m); llega al lado SO a 350 m de A"
+    ],
+    [
+     "Estancia Nueva / Estancia Vieja",
+     "Dos cascos del mismo campo"
+    ],
+    [
+     "D. M.",
+     "Declinación magnética 12° 30′ E"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: lado E y referencias a lápiz",
+   "img": "img/f/150/04.jpg",
+   "fuente": "IMG_0287.JPG",
+   "orientacion": "Como el anterior",
+   "interpretacion": "Toma cercana de la mitad derecha: confirma «Dillemor» en el plano (el texto escribe Dellimor y Dellemor), las cotas del lado E (N 42° 11′ E 1669, N 36° 36′ E 393, N 19° 47′ E 2602) y las notas a lápiz «Exalt. 12», «Exalt. 127» y «Giles 69». Junto al vértice S se leen las cotas 7718 y 7770 del cruce del camino de Giles a Zárate.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Un gran campo de estancia (2654 ha) sobre la barranca derecha del río de Areco, en el borde NE del partido, ya totalmente cercado: los lados SO, E y NE son «línea alambrada» y el lado E quiebra dos veces siguiendo el alambrado vecino. El río no es un límite recto: Meineke lo sigue con una línea auxiliar y diez ordenadas que muestran una costa que se aleja hasta 340 m, con meandros y bañados de ribera. Dentro del campo hay dos cascos, ESTANCIA VIEJA (centro-S) y ESTANCIA NUEVA (junto al río, al N): el traslado de la casa principal es un indicio de modernización del establecimiento. El camino de Giles a Zárate corta el extremo S."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Circular firmada por los seis linderos o sus representantes (el esposo por la esposa, un apoderado, dos firmantes a ruego de Santillán y de Diego Lennon, que no saben firmar), pero NINGUNO concurre a la mensura y no hay acta de conformidad. El conflicto aparece del lado del Estado: el Departamento de Ingenieros se abstiene de informar por falta de títulos (art. 610 del Código de Procedimientos), el agrimensor responde con un informe del Banco Hipotecario y la mensura se aprueba con un SOBRANTE que se comunica al Ministerio de Hacienda. Un tercero, Carlos M. Saavedra, pide el sobrante al mes siguiente y lo escritura en 1889 «por transferencia» de la dueña: el derecho de preferencia se negocia."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos al minuto y distancias en metros enteros; declinación magnética declarada en el plano (12° 30′ E). Mojones de tres materiales: piedra en los vértices principales, fierro y madera en los intermedios, palo en el esquinero E. Para el frente fluvial usa una línea auxiliar con ordenadas, método que permite calcular el área entre la poligonal y la costa. Verificado en python: el polígono cierra (el fin de la auxiliar cae a 350,6 m de A, con 1,0 m de desvío lateral) y el área calculada (2610,6 ha de poligonal + 37,9 ha de ordenadas = 2648,5 ha) difiere en 0,2 % de las 2654 ha declaradas. No hay abalizamiento con visuales."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Título de 1853 en varas cuadradas (34 759 576 v² = 2606,82 ha con vara de 0,866 m); mensura en metros y hectáreas, con equivalencia en cuadras (cuadra de 150 v = 16 874 m²: 2654 ha = 1572,833 cuadras; exceso de 471 848 m² = 27,963 cuadras). El Banco Hipotecario da otra cifra de títulos, 2594 ha 84 a 77 ca (≈ 34,60 millones de v²), 11,97 ha menos que Eguía: el exceso «oficial» (59,15 ha) es mayor que el calculado contra la mensura de 1853 (47,18 ha). La nota escribe «2654 áreas» por hectáreas."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Herederos de Narciso Sosa y Manuela Tiseyra [?] → división de Eguía, diciembre de 1853 → lote de Gerónima Sosa (casada con un Lacarra) → mensura de 1888 por orden judicial → campo con relación con el Banco Hipotecario (probable hipoteca) → sobrante de 59,15 ha vendido por el Estado a Carlos M. Saavedra (1889) por cesión de la dueña. Vecinos: grandes estancieros irlandeses (Scully, Lennon, Lyons) y criollos (Gil, Santillán, Zacarelo)."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "069 (Scully, Pico 1875): el lado D-F «N 42° E 1669» contra Gerónima Sosa es el B-C de esta mensura (N 42° 11′ E 1669 m): el lindero «Gerónima Sosa de Sacarra [?]» de 069 debe leerse LACARRA; el plano lo anota a lápiz como «Giles 69». 021 (Dionisia Alen de Sosa, Differt 1858, desembocadura del arroyo de Giles en el Areco): la nota «Giles 21» bajo Paula C. de Zacarelo indica que el campo de Zacarelo sale de aquella mensura. 072 (Estanislao Zacarelo, Pico 1876): Paula C. de Zacarelo es probablemente su viuda o heredera. 069 y 082 (Eduardo Lennon): Diego y Juan Lennon. 015 y 019 (Eguía 1839) y la nota de 043/044 sobre mojones de Eguía de 1854: el mismo agrimensor en el NE. Camino de Giles a Zárate: 043, 044 y 083, entre otras. Departamento de Ingenieros: Lagos como en 130-149; Tapia [?] y Kummer [?] nuevos. Juez Miranda Naón como en 148; Fernández Blanco en 034."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Texto completo, plano, dos informes del Departamento y notas de aprobación judicial y de escritura del sobrante. Preguntas: ¿quién es el marido Lacarra?; ¿qué son los duplicados de Exaltación 8, 12, 88 y 127 anotados a lápiz (el campo estaba en jurisdicción de Exaltación de la Cruz en 1853)?; ¿dónde se ubicó en el terreno el sobrante de Saavedra?; lecturas dudosas de Tiseyra, Dellemor/Dillemor, Covián y de las firmas Tapia, Vernet, Kummer y Malato. Para el GIS: anclar B-C en el D-F de 069 y el vértice A en la barranca del Areco; la línea auxiliar y sus ordenadas digitalizan 2,2 km de costa del río."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Gerónima Sosa de Lacarra",
+   "rol": "Propietaria",
+   "texto": "Hija probable de Narciso Sosa y Manuela Tiseyra [?]; recibe en la división de 1853 un lote de 34 759 576 v². En 1876 su ombú es punto de abalizamiento en 072 y en 1875 es lindera de Scully (069, leída «Sacarra»). En 1888 pide la mensura, aporta el informe del Banco Hipotecario y cede a Carlos M. Saavedra su preferencia sobre el sobrante.",
+   "fuentes": "Este duplicado; fichas 069, 072."
+  },
+  {
+   "nombre": "Narciso Sosa y Manuela Tiseyra [?]",
+   "rol": "Antecesores",
+   "texto": "Tronco de la herencia dividida por Eguía en 1853. Tiseira es un apellido de vecinos del partido (043, 044).",
+   "fuentes": "Este duplicado, f. 1; METODO (Tiseira)."
+  },
+  {
+   "nombre": "Jorge Meineke",
+   "rol": "Agrimensor",
+   "texto": "Primera aparición en el corpus. Apellido alemán; escribe con letra cuidada y usa línea auxiliar con ordenadas y declinación magnética. Búsqueda web sin resultados útiles.",
+   "fuentes": "Este duplicado; búsqueda web 13/11/2026 sin datos."
+  },
+  {
+   "nombre": "Manuel Eguía",
+   "rol": "Agrimensor (1853)",
+   "texto": "Dividió la herencia de Sosa en diciembre de 1853; activo en Giles desde 1839 (015, 019) y con mojones de 1854 reencontrados en el NE del partido.",
+   "fuentes": "Este duplicado; fichas 015, 019, METODO."
+  },
+  {
+   "nombre": "Dr. Adolfo Miranda Naón",
+   "rol": "Juez",
+   "texto": "Juez de 1.ª instancia que comisiona a Meineke el 2/7/1888; ya aparece en 148 (1886, La Plata).",
+   "fuentes": "Este duplicado; ficha 148."
+  },
+  {
+   "nombre": "César S. Langenheim",
+   "rol": "Secretario del juzgado",
+   "texto": "Secretario de Miranda Naón en 1888.",
+   "fuentes": "Este duplicado, f. 1."
+  },
+  {
+   "nombre": "Dr. Fernández Blanco",
+   "rol": "Juez",
+   "texto": "Aprueba la mensura antes del 6/11/1888; un juez Fernández Blanco aparece en una nota de 1907 en 034.",
+   "fuentes": "Este duplicado, f. 3 v.; ficha 034."
+  },
+  {
+   "nombre": "Carlos M. Saavedra",
+   "rol": "Comprador del sobrante",
+   "texto": "Solicita el sobrante en noviembre de 1888 y recibe escritura de propiedad el 13/4/1889 por transferencia de Gerónima Sosa de Lacarra.",
+   "fuentes": "Este duplicado, ff. 3-3 v."
+  },
+  {
+   "nombre": "Paula C. de Zacarelo; Miguel Covián",
+   "rol": "Lindera so y su apoderado",
+   "texto": "Probable viuda o heredera de Estanislao Zacarelo (072); su campo procede del de Dionisia Alen de Sosa (021). Firma por ella el apoderado Miguel Covián [?].",
+   "fuentes": "Este duplicado; fichas 021, 072."
+  },
+  {
+   "nombre": "Miguel Scully",
+   "rol": "Lindero se",
+   "texto": "Hijo de Santiago Scully y Brígida Kearney; heredero de 716,38 ha en la división de 1883 (133). Firma la circular en persona.",
+   "fuentes": "Fichas 069, 133; este duplicado."
+  },
+  {
+   "nombre": "Diego Lennon; Juan Lennon",
+   "rol": "Lindero se y firmante a ruego",
+   "texto": "Diego Lennon no sabe firmar; firma por él Juan Lennon. Familia del Eduardo Lennon de 069 y 082.",
+   "fuentes": "Este duplicado; fichas 069, 082."
+  },
+  {
+   "nombre": "Segundo Gil",
+   "rol": "Lindero se",
+   "texto": "Firma en persona; su campo linda con el de Diego Lennon en el mojón de 1514 m.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Manuel Santillán; Mariano Romero",
+   "rol": "Lindero e y firmante a ruego",
+   "texto": "Santillán no sabe firmar; firma Mariano Romero.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Catalina Dellemor [?] de Lyons; Patricio Lyons",
+   "rol": "Lindera ne y su esposo",
+   "texto": "El texto escribe Dellimor y Dellemor, el plano Dillemor (quizá Dillmore o Delmore, apellido irlandés). Firma por ella su esposo Patricio Lyons.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Lagos; J. Tapia [?]; Vernet [?]; Kummer [?]",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firman la abstención del 28/8/1888 y la aprobación del 30/10/1888; Lagos firma además la nota de noviembre. Los otros tres nombres son lecturas de rúbricas.",
+   "fuentes": "Este duplicado, ff. 2 v.-3 v."
+  },
+  {
+   "nombre": "Malato [?]",
+   "rol": "Oficina de registro",
+   "texto": "Rubrica la anotación del 10/5/1889 de la escritura del sobrante.",
+   "fuentes": "Este duplicado, f. 3 v."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/150/02.jpg",
+  "fuente": "IMG_0280.JPG",
+  "lineas": [
+   "Giles",
+   "150.",
+   "Terreno de",
+   "Doña Gerónima Sosa de Lacarra",
+   "Partido de Giles.",
+   "Agrimensor: Jorge Meineke",
+   "1888.",
+   "[a tinta, abajo:] 2-1136-137 [?]"
+  ]
+ },
+ "titulo": "Gerónima Sosa de Lacarra",
+ "estado": "Transcripta (6 hojas, 162 renglones), 2 láminas"
+}

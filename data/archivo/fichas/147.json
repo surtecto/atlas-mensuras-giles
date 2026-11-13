@@ -1,0 +1,602 @@
+{
+ "carpeta": "147",
+ "carpeta_nombre": "Carpeta 147",
+ "archivo": "Ficha 147 - Melitón y Toribio Rodríguez (1886).docx",
+ "resumen": {
+  "N.º de duplicado": "147 (Part.º de Giles); archivo 1-399-229 / 1-193-174",
+  "Propietario / solicitante": "Melitón y Toribio Rodríguez",
+  "Agrimensor": "Apolinario Orlandini (Oficina de Tierras y Mensuras Orlandini y Palacios)",
+  "Año": "1886",
+  "Fecha de la diligencia": "3 jun.–jul. 1886; D. I. 10/9/1886; aprobada 18/9/1886",
+  "Ubicación": "Arroyo de Giles a Lizola; brazo del arroyo del Sauce; caminos a Capilla y Azcuénaga",
+  "Orden judicial": "Juez Civil Dr. Julián Barraquero, sec. M. Monjeaux, auto 13/5/1886",
+  "Vendedor / antecesor": "Donación de Lorenzo M. Torres (1882), ex her. de José Romero (1881)",
+  "Linderos citados": "L. M. Torres, M. Lizola, Mauricia Duarte, her. de Tadeo, Toribio, Melitón, Ramón, Basilio",
+  "Medidas": "300 v = 259,8 m de ancho; A-B 8778,6 m; D-C 8659,2 m; A-D 270,05 m",
+  "Rumbos": "N 46° 58′ O / S 58° 47′ O / S 43° 02′ O; ordenadas al arroyo cada 50 m",
+  "Referencia de archivo": "AHG PBA, duplicado 147; plano de Orlandini julio 1886 (sello n.º 197)"
+ },
+ "metricas": {
+  "superficie_ha": "227,50",
+  "hitos": "población de Eraclio López; laguna; mojones de hierro y ñandubay de Torres",
+  "aguas": "arroyo de Giles; brazo del arroyo del Sauce; laguna"
+ },
+ "sintesis": "Mensura y división de una lonja de 300 varas (259,8 m) de ancho y ≈ 8,8 km de largo, del arroyo de Giles hasta Mariano Lizola, que Lorenzo M. Torres donó en 1882 a Melitón Rodríguez (la había comprado a los herederos de José Romero en 1881) y cuya mitad Melitón donó ese mismo año a su hermano Toribio. Orlandini mide 227,50 ha entre Torres y el campo de la testamentaría de Bernardino Rodríguez (ficha 146, mismo mes), con ordenadas al arroyo, y la parte en dos lotes de superficie exactamente igual: Melitón al NO con el arroyo, Toribio al SE. En el campo, la población de Eraclio López y una laguna. El D. I. observa que los herederos de Tadeo y Ramón no firmaron la circular; Barraquero aprueba el 18/9/1886.",
+ "caratula": {
+  "img": "img/f/147/01.jpg",
+  "fuente": "IMG_0239.JPG",
+  "campos": [
+   [
+    "N.º",
+    "147"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Melitón y Toribio Rodríguez"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Apolinario Orlandini"
+   ],
+   [
+    "Mes / Año",
+    "(en blanco)"
+   ],
+   [
+    "Juzgado / Secretaría",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · títulos: la donación de Torres (1882)",
+   "img": "img/f/147/07.jpg",
+   "fuente": "IMG_0241.JPG",
+   "nota": "Página suelta fotografiada acostada (se lee girada 90°); sello «FOJA 1».",
+   "lineas": [
+    "[sello: FOJA 1]",
+    "[Duplicado]",
+    "Diligencia de mensura del terreno",
+    "de pastoreo perteneciente á Dn. Meliton",
+    "y Dn. Toribio Rodriguez, ubicado",
+    "en el partido de San Andrés de Giles",
+    "Titulos. —",
+    "1882. — Febrero 9. — En la ciudad de Mercedes",
+    "ante el escribano Dn. Nicanor S. Ponsati",
+    "Dn. Lorenzo M. Torres dona á Dn. Me-",
+    "liton Rodriguez un terreno de pastoreo si-",
+    "tuado en Giles, compuesto de trescientas va-",
+    "ras de frente al arroyo de Giles ó sean",
+    "doscientos cincuenta y nueve metros ocho",
+    "decímetros con todo el fondo hasta tocar",
+    "con los terrenos de Diaz de Vivar, y cuya",
+    "area debe ser contigua á la que se reserva",
+    "el donante. —",
+    "Le corresponde por haber comprado",
+    "en mayor porcion á los herederos de Dn. José",
+    "Romero, como consta de escrituras otorgadas",
+    "en la ciudad de Mercedes una ante el escri-",
+    "bano Dn. Manuel Lopez en 7 de Abril de 1881",
+    "y la otra ante el escribano Ponsati en 10",
+    "de Octubre de 1881.",
+    "1882. — Setiembre 6. — En San Andrés de Giles",
+    "ante el escribano Dn. Fernando del Rio Dn.",
+    "Meliton Rodriguez dona á su hermano"
+   ],
+   "interpretacion": "Duplicado de la mensura del «terreno de pastoreo» de Melitón y Toribio Rodríguez. Primer título: el 9 de febrero de 1882, en Mercedes, ante el escribano Nicanor S. Ponsati, Lorenzo M. Torres DONA a Melitón Rodríguez 300 varas de frente al ARROYO DE GILES (259,8 m, conversión exacta a 0,866 m) «con todo el fondo hasta tocar con los terrenos de Díaz de Vivar», contiguas a lo que Torres se reserva. Torres lo tenía por compra «en mayor porción» a los HEREDEROS DE JOSÉ ROMERO (escrituras de Mercedes ante Manuel López, 7/4/1881, y ante Ponsati, 10/10/1881). Segundo título (6/9/1882, Giles, escribano Fernando del Río): Melitón dona a su hermano Toribio…"
+  },
+  {
+   "titulo": "Folio 1 vuelto · la mitad de Toribio; comisión judicial",
+   "img": "img/f/147/08.jpg",
+   "fuente": "IMG_0242.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Dn. Toribio Rodriguez la mitad del",
+    "terreno de pastoreo situado en Giles que le",
+    "donó Dn. Lorenzo M. Torres por ante el",
+    "escribano de Mercedes Dn. Nicanor S.",
+    "Ponsati en 9 de Febrero de 1882; cuya mi-",
+    "tad se compone de trescientas varas de fren-",
+    "te al Este por el fondo correspondiente;",
+    "lindando dicha mitad por el expresado",
+    "frente con los terrenos conocidos por Diaz",
+    "de Vivar, por el Norte con Dn. Lorenzo",
+    "M. Torres, por el Sud con Da. Mauricia",
+    "Duarte de Rodriguez y por el Oeste con",
+    "la otra mitad que se reserva el donante.",
+    "Mensura",
+    "Comisionado por el Señor Juez de 1a",
+    "Instancia en lo Civil y Comercial Dr. Ba-",
+    "rraquero — Secretario M. Monjeaux por",
+    "auto de fecha 13 de Mayo de 1886 para",
+    "medir y dividir el terreno de Dn. Meliton",
+    "y Dn. Toribio Rodriguez, previa citacion",
+    "de linderos y edictos publicados en los dia-",
+    "rios «El Censor» y «El Nacional», di prin-",
+    "cipio á la operacion el 3 de Junio del",
+    "presente año — como sigue: —",
+    "Empecé del mojon letra A del plano",
+    "esquinero Sud del terreno de Dn. Lorenzo",
+    "M. Torres y Este del campo que mido y",
+    "costanero de Dn. Mariano Lizola y con",
+    "rumbo Sud cincuenta y ocho grados cuarenta"
+   ],
+   "interpretacion": "…la MITAD del terreno: 300 varas de frente al Este por el fondo correspondiente, lindando por ese frente con los terrenos «conocidos por de Díaz de Vivar», al N con Torres, al S con Mauricia Duarte de Rodríguez y al O con la otra mitad que se reserva Melitón. La división no es longitudinal sino transversal: el campo se parte en dos tramos de igual superficie, cada uno con las 300 varas de ancho. Comisión del juez Civil y Comercial Dr. Barraquero (sec. M. Monjeaux), auto del 13/5/1886; citación de linderos y edictos en «El Censor» y «El Nacional»; la operación empieza el 3 de junio de 1886 en el mojón A, esquinero S de Torres, costanero de MARIANO LIZOLA, con rumbo S 58° 47′ O."
+  },
+  {
+   "titulo": "Folio 2 · costado SE (A-D) y gran línea A-B contra Torres",
+   "img": "img/f/147/09.jpg",
+   "fuente": "IMG_0242.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 2]",
+    "y siete minutos Oeste medí doscientos",
+    "setenta metros cinco centímetros hasta D mo-",
+    "jon puesto por mí para esquina Este de Da.",
+    "Mauricia Duarte de Rodriguez y Sud del",
+    "campo que mido y costanero de Dn. Maria-",
+    "no Lizola — que es lo que debe corresponder á",
+    "las trescientas varas, las cuales se deben con-",
+    "siderar en la perpendicular sobre el costa-",
+    "do del Señor Torres. — En esta línea A D",
+    "á ciento setenta y dos metros crucé el brazo del",
+    "arroyo del Sauce. — Este costado deslinda con",
+    "Dn. Mariano Lizola. —",
+    "Linea A B. — Deslindando con Dn. Lorenzo",
+    "M. Torres. — Rumbo Norte cuarenta y seis",
+    "grados cincuenta y ocho minutos Oeste. —",
+    "Mide ocho mil setecientos setenta y ocho metros",
+    "seis decímetros hasta B mojon de hierro esqui-",
+    "nero Oeste de Dn. Lorenzo M. Torres y Norte",
+    "del campo que mido y hasta el arroyo ocho",
+    "mil ochocientos diez y siete metros nueve de-",
+    "címetros. — En esta línea á doscientos setenta",
+    "y cuatro metros á la izquierda veinte y cinco",
+    "metros poblacion de Dn. Eraclio Lopez; á dos",
+    "mil seis metros mojon de hierro costanero y em-",
+    "pieza una laguna y á dos mil ciento diez me-",
+    "tros la pasé; á tres mil [entre renglones] ochocientos ocho metros ca-",
+    "mino á la Capilla del Señor; á cuatro mil",
+    "un metros siete decímetros mojon de hierro",
+    "costanero; á cinco mil dos metros mojon de ñan-",
+    "dubay costanero; á seis mil dos metros cuatro",
+    "decímetros mojon de hierro costanero; á siete"
+   ],
+   "interpretacion": "A-D: 270,05 m hasta D (esquina E de Mauricia Duarte), «lo que debe corresponder a las 300 varas, las cuales se deben considerar en la perpendicular sobre el costado del Señor Torres» (verificado: 270,05 × sen 74° 15′ = 259,9 m). A 172 m cruza el BRAZO DEL ARROYO DEL SAUCE. Línea A-B contra Torres, N 46° 58′ O: 8778,6 m hasta el mojón de hierro B y 8817,9 m hasta el arroyo. Transecto: a 274 m, 25 m a la izquierda, POBLACIÓN DE ERACLIO LÓPEZ (dentro del campo medido); a 2006 m mojón de hierro y empieza una LAGUNA, que termina a 2110 m; a 3808 m camino a la CAPILLA DEL SEÑOR; mojones de hierro y de ñandubay alternados cada ≈ 1000 m (4001,7; 5002; 6002,4; 7003; 8003 m), que son los de la mensura de Torres."
+  },
+  {
+   "titulo": "Folio 2 vuelto · camino a Azcuénaga, cuadratura y ordenadas; línea D-C",
+   "img": "img/f/147/10.jpg",
+   "fuente": "IMG_0243.JPG (mitad izquierda)",
+   "nota": "Algunas iniciales de renglón quedan en el pliegue (se restituyen entre corchetes).",
+   "lineas": [
+    "mil tres metros mojon de ñandubay costane-",
+    "ro; á siete mil quinientos cuarenta metros ca-",
+    "mino á la Estacion Azcuénaga; á ocho mil",
+    "tres metros mojon de hierro; á ocho mil se-",
+    "tecientos treinta y dos metros nueve decímetros",
+    "cuadré á la izquierda y con rumbo Sud cuaren-",
+    "ta y tres grados dos minutos Oeste medí dos-",
+    "cientos cincuenta y nueve metros ocho de-",
+    "címetros hasta C mojon esquinero Norte de Dn.",
+    "Basilio Rodriguez y Oeste del campo que mido;",
+    "tomando esta última — como eje de absci-",
+    "sas tracé ordenadas al arroyo como sigue:",
+    "á cincuenta metros á la derecha setenta y cuatro",
+    "metros; á cien metros á la derecha setenta y cinco",
+    "metros; á ciento cincuenta metros á la derecha",
+    "sesenta y cuatro metros; á doscientos metros á la",
+    "derecha cuarenta y siete metros y á los doscien-",
+    "tos cincuenta y nueve metros ocho decí-",
+    "metros á la derecha catorce metros.",
+    "Linea D C. — Deslindando con Da. Mauricia",
+    "Duarte de Rodriguez, herederos de Dn. Tadeo",
+    "Rodriguez — Dn. Toribio, Dn. Meliton, Dn. Ra-",
+    "mon y Dn. Basilio Rodriguez, todos herederos",
+    "de Dn. Bernardino Rodriguez. — Rumbo Norte",
+    "cuarenta y seis grados cincuenta y ocho minutos",
+    "[O]este. — Mide (8659m,2) ocho mil seiscientos cin-",
+    "cuenta y nueve metros dos decímetros hasta C mo-",
+    "[jo]n colocado por mí, distante del arroyo catorce",
+    "[me]tros. — En esta línea á ciento ochenta y ocho",
+    "metros crucé el brazo del arroyo del Sauce; á"
+   ],
+   "interpretacion": "A 7540 m camino a la ESTACIÓN AZCUÉNAGA; a 8732,9 m «cuadró» a la izquierda S 43° 02′ O, 259,8 m hasta C, esquinero N de Basilio Rodríguez. Tomando esa línea como eje de abscisas levanta ORDENADAS AL ARROYO cada 50 m: 74, 75, 64, 47 y 14 m (en el origen, 85 m = 8817,9 − 8732,9). Línea D-C contra Mauricia Duarte, los herederos de Tadeo, Toribio, Melitón, Ramón y Basilio, «todos herederos de Bernardino Rodríguez»: N 46° 58′ O, 8659,2 m hasta C, a 14 m del arroyo; a 188 m cruza el brazo del arroyo del Sauce."
+  },
+  {
+   "titulo": "Folio 3 · mojones de la línea D-C y superficie total",
+   "img": "img/f/147/11.jpg",
+   "fuente": "IMG_0243.JPG (mitad derecha)",
+   "nota": "El copista escribe «milímetros» por «milésimos» de cuadra.",
+   "lineas": [
+    "[sello: FOJA 3]",
+    "mil cincuenta metros mojon esquinero Norte",
+    "de Da. Mauricia Duarte de Rodriguez y Este de",
+    "los herederos de Dn. Tadeo Rodriguez; á dos mil",
+    "cuatrocientos dos metros setecientos ochenta y",
+    "cinco milímetros mojon esquinero Norte de",
+    "los herederos de Dn. Tadeo Rodriguez y Este de Da.",
+    "Mauricia Duarte de Rodriguez; á cuatro mil",
+    "trescientos noventa y un metros sesenta y cinco",
+    "centímetros mojon esquinero Norte de Da. Mau-",
+    "ricia Duarte de Rodriguez y Este de Dn. Toribio",
+    "Rodriguez; á tres mil ochocientos diez metros",
+    "camino á la Capilla del Señor; á cinco mil",
+    "ciento veinte metros treinta y cinco centíme-",
+    "tros mojon esquinero Norte de Dn. Toribio Ro-",
+    "driguez y Este de Dn. Meliton Rodriguez; á",
+    "seis mil cuatrocientos treinta metros noventa",
+    "y tres centímetros mojon esquinero Norte de",
+    "Dn. Meliton Rodriguez y Este de Dn. Ramon",
+    "Rodriguez; á siete mil cuatrocientos treinta",
+    "y seis metros Camino á Estacion Azcuénaga;",
+    "á siete mil quinientos setenta y cinco metros",
+    "cincuenta y nueve centímetros esquinero Nor-",
+    "te de Dn. Ramon Rodriguez y Este de Dn.",
+    "Basilio Rodriguez. —",
+    "Superficie total (2274997m.c.,67)",
+    "dos millones doscientos setenta y cuatro mil",
+    "novecientos noventa y siete metros cuadrados",
+    "sesenta y siete decímetros cuadrados, igual á",
+    "ciento treinta y cuatro cuadras cuadradas",
+    "ochocientos veinte y dos milímetros [sic: milésimos] de otra."
+   ],
+   "interpretacion": "Sobre D-C se repiten, uno por uno, los esquineros de la división de 1886 (ficha 146): 1050 m Mauricia/her. de Tadeo; 2402,785 m her. de Tadeo/Mauricia (= 1050 + 1352,785: confirma la cifra corregida en 146); 4391,65 m Mauricia/Toribio; 3810 m camino a la Capilla (anotado fuera de orden); 5120,35 m Toribio/Melitón; 6430,93 m Melitón/Ramón; 7436 m camino a Azcuénaga; 7575,59 m Ramón/Basilio. SUPERFICIE TOTAL 2 274 997,67 m² = 134,822 cuadras cuadradas (verificado con cuadra de 150 v = 16 874 m²): 227,50 ha."
+  },
+  {
+   "titulo": "Folio 3 vuelto · división: el lote de Melitón (NO)",
+   "img": "img/f/147/12.jpg",
+   "fuente": "IMG_0244.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Division",
+    "D. Meliton Rodriguez",
+    "Le corresponde:",
+    "Por su título ............ [1137498m.c.,84 = 67c.c.,411]",
+    "Esta superficie de un millon ciento",
+    "treinta y siete mil cuatrocientos noventa y",
+    "ocho metros cuadrados ochenta y cuatro decímetros,",
+    "igual á sesenta y siete cuadras cuadradas cuatro-",
+    "cientos once milésimos de otra, — se ubicó como",
+    "sigue:",
+    "Costado Nord-Oeste. — sobre la banda derecha del",
+    "arroyo de Giles, cuya configuracion se expresa",
+    "en la mensura general.",
+    "Costado Sud-Oeste. — Deslindando con Dn. Basilio",
+    "Rodriguez, Dn. Ramon Rodriguez, con el",
+    "mismo Dn. Meliton, Dn. Toribio Rodriguez",
+    "y Da. Mauricia Duarte de Rodriguez. —",
+    "Linea E C. — Rumbo Norte cuarenta y seis gra-",
+    "dos cincuenta y ocho minutos Oeste, mide (4331m,65)",
+    "cuatro mil trescientos treinta y un metros",
+    "sesenta y cinco centímetros. —",
+    "Costado Sud-Este. — Deslindando con la mitad",
+    "del terreno donado á su hermano D. Toribio. —",
+    "Linea F E. — Rumbo Norte cuarenta y tres",
+    "grados dos minutos Este. — Mide (259m,8) dos-",
+    "cientos cincuenta y nueve metros ocho de-",
+    "címetros. —",
+    "Costado Nord-Este. — Deslindando con Dn. Lorenzo"
+   ],
+   "interpretacion": "A Melitón, por su título, 1 137 498,84 m² = 67,411 cuadras² (exactamente la mitad). Ubicación: NO sobre la banda derecha del ARROYO DE GILES; SO contra Basilio, Ramón, el mismo Melitón, Toribio y Mauricia Duarte (línea E-C′ N 46° 58′ O, 4331,65 m); SE contra Toribio (F-E N 43° 02′ E, 259,8 m); NE contra Torres. Melitón se queda con la cabecera sobre el arroyo, es decir con la aguada."
+  },
+  {
+   "titulo": "Folio 4 · Melitón (cierre) y lote de Toribio (SE)",
+   "img": "img/f/147/13.jpg",
+   "fuente": "IMG_0244.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 4]",
+    "M. Torres. —",
+    "Linea F B′. — Rumbo Norte cuarenta y seis gra-",
+    "dos cincuenta y ocho minutos Oeste. — Mide",
+    "(4402m,65) cuatro mil cuatrocientos dos metros",
+    "sesenta y cinco centímetros.",
+    "D. Toribio Rodriguez",
+    "Le corresponde:",
+    "Por su título ........ (1137498m.c.,84 = 67,411)",
+    "Esta superficie de un millon ciento treinta",
+    "y siete mil cuatrocientos noventa y ocho metros",
+    "cuadrados ochenta y cuatro decímetros, igual á",
+    "sesenta y siete cuadras cuadradas cuatrocientos",
+    "once milésimos de otra, se ubicó como sigue:",
+    "Costado Nord-Oeste. — Deslindando con Dn. Meliton",
+    "Rodriguez. —",
+    "Linea E F. — Rumbo Norte cuarenta y tres gra-",
+    "dos dos minutos Este. — Mide (259m,8) doscientos",
+    "cincuenta y nueve metros ocho decímetros.",
+    "Costado Nord-Este. — Deslindando con Dn. Lorenzo M.",
+    "Torres. —",
+    "Linea A F. — Rumbo Norte cuarenta y seis gra-",
+    "dos cincuenta y ocho minutos Oeste. Mide",
+    "(4415m,25) cuatro mil cuatrocientos quince",
+    "metros veinte y cinco centímetros. —",
+    "Costado Sud-Este. — Deslindando con D. Mariano Lizola.",
+    "Linea A D. — Rumbo Sud cincuenta y ocho",
+    "grados cuarenta y siete minutos Oeste. — Mide",
+    "(270m,05) doscientos setenta metros cinco centí-"
+   ],
+   "interpretacion": "Melitón: F-B′ 4402,65 m contra Torres (F-B′ + A-F = 8817,9 m, la distancia de A al arroyo). Toribio, también 67,411 cuadras²: NO contra Melitón (E-F 259,8 m), NE contra Torres (A-F 4415,25 m), SE contra Mariano Lizola (A-D S 58° 47′ O, 270,05 m). Verificación en python: lote de Toribio (trapecio 4415,25 / 4341,55 × 259,8) = 1 137 508 m²; lote de Melitón (rectángulo 4317,65 × 259,8 + faldón de ordenadas 15 774 m²) = 1 137 499 m²: la división es de superficie exacta, no de largo."
+  },
+  {
+   "titulo": "Folio 4 vuelto · cierre, amojonamiento y firma; vista del D. I.",
+   "img": "img/f/147/14.jpg",
+   "fuente": "IMG_0245.JPG (mitad izquierda)",
+   "nota": "D-E (4341,55) + E-C′ (4331,65) = 8673,2 m = D-C (8659,2) + 14 m al arroyo: C′ es el punto sobre el arroyo, como rotula el plano («DC′ = 8673,2»); el texto escribe «E C» por «E C′».",
+   "lineas": [
+    "metros. —",
+    "Costado Sud-Oeste. — Deslindando con Da. Mau-",
+    "ricia Duarte de Rodriguez y herederos de",
+    "Dn. Tadeo Rodriguez. —",
+    "Linea D E. — Rumbo Norte cuarenta y",
+    "seis grados cincuenta y ocho minutos Oeste —",
+    "Mide (4341m,55) cuatro mil trescientos cua-",
+    "renta y un metros cincuenta y cinco",
+    "centímetros.",
+    "Las dos fracciones descritas han sido amojo-",
+    "nadas con madera de ñandubay, presenciando",
+    "la operacion los interesados, quienes están con-",
+    "formes con la division practicada.",
+    "Giles — Julio de 1886. —",
+    "Apolinario Orlandini",
+    "[sello: DEPARTAMENTO DE INGENIEROS DE LA PROVINCIA — Entrada 4 SET. 86]",
+    "Señor Juez de 1a Instancia",
+    "La presente mensura y division",
+    "practicada por el agrimensor",
+    "don Apolinario Orlandini del",
+    "terreno de don Meliton y don",
+    "Toribio Rodriguez situado en el",
+    "partido de San Andres de Giles"
+   ],
+   "interpretacion": "SO de Toribio contra Mauricia Duarte y los herederos de Tadeo: D-E N 46° 58′ O, 4341,55 m. «Las dos fracciones descritas han sido amojonadas con MADERA DE ÑANDUBAY, presenciando la operación los interesados, quienes están conformes». Giles, julio de 1886, Apolinario Orlandini. Entrada al Departamento de Ingenieros el 4/9/1886. Empieza el informe al juez."
+  },
+  {
+   "titulo": "Folio 5 · informe del Departamento de Ingenieros (10/9/1886)",
+   "img": "img/f/147/15.jpg",
+   "fuente": "IMG_0245.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 5]",
+    "esta bien ejecutada y el De-",
+    "partamento de Ingenieros la aprue-",
+    "ba en la parte facultativa; debi-",
+    "endo hacer presente que no han",
+    "firmado la Circular los herederos",
+    "de don Tadeo Rodriguez y don",
+    "R. [Ramon] Rodriguez. —",
+    "Setiembre 10/86",
+    "P. Salvadores — Octavio Pico",
+    "Juan B. Rivera",
+    "[resto de la página en blanco]"
+   ],
+   "interpretacion": "El D. I. aprueba la operación «en la parte facultativa», pero advierte que NO FIRMARON LA CIRCULAR los herederos de Tadeo Rodríguez y «don R. Rodríguez» (Ramón, lindero SO). Firman P. Salvadores, Octavio Pico y Juan B. Rivera. El resto de la página y su vuelto quedan en blanco."
+  },
+  {
+   "titulo": "Folio 7 [?] · aprobación judicial (18/9/1886)",
+   "img": "img/f/147/16.jpg",
+   "fuente": "IMG_0246.JPG",
+   "nota": "La página izquierda de la toma (f. 5 v.) está en blanco. El sello de foja parece decir 7: el f. 6 no está fotografiado o no existe.",
+   "lineas": [
+    "[número de archivo:] 1-193-174 — [papel sellado n.º] 221443 — [sello fiscal: PROVINCIA DE BUENOS AIRES · LEY DE SELLO · 25 CENTAVOS · 1886]",
+    "[sello: FOJA 7 [?]]",
+    "La Plata Setbre. 18/86",
+    "Al Señor Pre-",
+    "sidente del Departamento de",
+    "Ingenieros. —",
+    "Comunico á",
+    "V. que con esta fecha ha",
+    "sido aprobada la mensura",
+    "y division practicada por el",
+    "Agrimensor Orlandini de un",
+    "campo situado en el Partido",
+    "de San Andrés de Giles per-",
+    "teneciente á Don Meliton y",
+    "Don Toribio Rodriguez. —",
+    "Dios gue. á V.",
+    "Julian Barraquero",
+    "Ante mí",
+    "M. Monjeaux Se[cretario]",
+    "[sello oval: … MONJEAUX … SECRETARIO]",
+    "[sello: DEPARTAMENTO DE INGENIEROS DE LA PROVINCIA — Entradas [?] SET. 86]"
+   ],
+   "interpretacion": "Oficio en papel sellado de 25 centavos de 1886 (n.º 221443; archivo 1-193-174): La Plata, 18 de septiembre de 1886, el juez Julián Barraquero, ante el secretario M. Monjeaux, comunica al Presidente del Departamento de Ingenieros que «con esta fecha» fue APROBADA la mensura y división de Orlandini del campo de Melitón y Toribio Rodríguez. Sello de entrada del D. I., septiembre de 1886 (día ilegible)."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de mensura y división (Orlandini, julio 1886)",
+   "img": "img/f/147/03.jpg",
+   "fuente": "IMG_0247.JPG (vista general; detalles IMG_0248-0252)",
+   "orientacion": "la lonja corre de izquierda (NO, arroyo de Giles) a derecha (SE, Lizola); aguja magnética dibujada sobre la línea divisoria; el extremo NO queda plegado en la vista general",
+   "interpretacion": "Plano a tinta y acuarela sobre tela, firmado «Giles, Julio de 1886 · Apolinario Orlandini», con escala gráfica de 0 a 2000 metros. La lonja de 300 varas aparece como una cinta larguísima: el lote de MELITÓN RODRÍGUEZ en verde (Sup. 1 137 498,84 m² = 67,411 c²) junto al arroyo y el de TORIBIO RODRÍGUEZ en amarillo (misma superficie) hacia el SE. Arriba, Lorenzo M. Torres; abajo, los lotes de la división de 1886 (B., R., M. y T. Rodríguez, los herederos de Tadeo en recuadro de puntos y Mauricia Duarte de Rodríguez), con las líneas divisorias en trazo discontinuo y sus distancias desde D. Cruzan el camino a la Capilla del Señor y el camino a la Estación Azcuénaga; el brazo del arroyo del Sauce en azul cerca de A-D; la población de E. López marcada con un cuadradito rojo.",
+   "referencias": [
+    [
+     "A",
+     "Esquinero S de Torres; arranque; costanero de Lizola"
+    ],
+    [
+     "D",
+     "Esquinero E de Mauricia Duarte, a 270,05 m de A (S 58° 47′ O)"
+    ],
+    [
+     "F · E",
+     "Línea divisoria N 43° 2′ E, 259,8 m (AF 4415,25; ED 4341,55)"
+    ],
+    [
+     "B · B′",
+     "B mojón de hierro (8778,6 m); cuadratura a 8732,9; B′ sobre el arroyo (AB′ 8817,9)"
+    ],
+    [
+     "C · C′",
+     "C a 14 m del arroyo (DC 8659,2); C′ sobre el arroyo (DC′ 8673,2)"
+    ],
+    [
+     "FB′ · EC′",
+     "Lote de Melitón: 4402,65 y 4331,65 m"
+    ],
+    [
+     "E. López",
+     "Población dentro del lote de Toribio, a 274 m de A"
+    ],
+    [
+     "Sello",
+     "Oficina de Tierras y Mensuras n.º 197 · A. Orlandini y José A. Palacios, agrimensores · Bolívar 81, Buenos Aires"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle NO: el arroyo de Giles y las ordenadas",
+   "img": "img/f/147/04.jpg",
+   "fuente": "IMG_0248.JPG",
+   "orientacion": "NO a la izquierda",
+   "interpretacion": "El «Arroyo de Giles» en azul cierra la lonja; la línea de cuadratura S 43° 2′ O con las ordenadas (85, 74, 75, 64, 47, 14 m) dibujadas como pequeños trazos; rótulos «AB′ = 8817,9», «B 8732,9» y «DC′ = 8673,2»; el «Camino á la Estacion Azcuénaga» atraviesa la lonja; abajo, B. Rodríguez y R. Rodríguez, separados por la divisoria de 7575,59 m; 6430,93 m marca el esquinero de Ramón y Melitón.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle central: la divisoria F-E y el camino a la Capilla",
+   "img": "img/f/147/05.jpg",
+   "fuente": "IMG_0250.JPG",
+   "orientacion": "NO a la izquierda",
+   "interpretacion": "La línea F-E (N 43° 2′ E, 259,8 m) separa el verde de Melitón del amarillo de Toribio; «FB′ = 4402,65», «EC′ = 4331,65», «AF 4415,25»; sobre la línea D-C, las cotas 4391,65 (Mauricia/Toribio) y 5120,35 (Toribio/Melitón) muestran que el lote de T. Rodríguez de 1886 queda frente al lote de Melitón de esta lonja. Una gran aguja magnética cruza el dibujo y el «Camino á la Capilla del Señor» corta la lonja en diagonal.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle SE: brazo del Sauce, E. López y sello de la oficina",
+   "img": "img/f/147/06.jpg",
+   "fuente": "IMG_0252.JPG",
+   "orientacion": "SE a la derecha",
+   "interpretacion": "Extremo SE con el costado A-D (270,05 m, S 58° 47′ O, perpendicular 259,8), «ED = 4341,55» y la divisoria de 1050 m de los herederos de Tadeo; el «Brazo del Sauce» en azul corta la esquina; la población de «E. López» en rojo; «M. Lisola» como lindero SE. Sello violeta: «Oficina de Tierras y Mensuras · N.º 197 · A. Orlandini y José A. Palacios · Agrimensores · Bolívar 81 Buenos Aires». Firma «Giles, Julio de 1886 · Apolinario Orlandini».",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "La línea A-B (8,8 km) contra Torres es otro transecto del paisaje de 1886, paralelo al D-C de la ficha 146 y a sólo 260 m: el brazo del arroyo del Sauce cerca de A, la población de Eraclio López a 274 m, una LAGUNA entre 2006 y 2110 m (≈ 104 m de ancho sobre la línea), el camino a la Capilla del Señor (3808 m), el camino a la Estación Azcuénaga (7540 m) y el arroyo de Giles con su barranca sinuosa, relevada con ordenadas de 14 a 85 m. Sobre la línea D-C se repiten los cruces de 146 (Sauce a 188 m, Capilla a 3810 m, Azcuénaga a 7436 m): los dos caminos cortan las lonjas en diagonal. La lonja no tiene casas de los dueños: es un «terreno de pastoreo» anexo a las estancias familiares."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Donación entre vecinos (Torres → Melitón, 1882) y entre hermanos (Melitón → Toribio, 1882), cuatro años antes de la mensura. Comisión judicial, citación de linderos, edictos en «El Censor» y «El Nacional», mojones de ñandubay colocados «presenciando la operación los interesados, quienes están conformes». Pero los herederos de Tadeo y Ramón Rodríguez no firmaron la circular, y el D. I. lo hace constar: dentro de la misma familia, en el mismo mes que la división de la testamentaría (146), hay quienes no prestan su firma. Barraquero aprueba igual, ocho días después del informe."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos al minuto y distancias al centímetro; mojones de hierro y de ñandubay alternados cada ≈ 1000 m sobre la línea de Torres (los de la mensura de Muñiz de 1882, ficha 122). Verificado en python: A-D 270,05 m a 74° 15′ de A-B da una perpendicular de 259,9 m = 300 varas y un avance de 73,3 m, coherente con 8732,9 − 8659,2 = 73,7 m; la superficie total 2 274 997,67 m² = 134,822 cuadras² (cuadra de 16 874 m²); Toribio (trapecio) 1 137 508 m² y Melitón (rectángulo 4317,65 × 259,8 + ordenadas 15 774 m²) 1 137 499 m² frente a 1 137 498,84 del texto: la divisoria F-E se ubicó para igualar superficies. El texto escribe «E C» donde el plano dice EC′ (al arroyo): D-E + E-C′ = 8673,2 = 8659,2 + 14 m."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Las 300 varas se convierten a 259,8 m (vara de 0,866 m) y se miden «en la perpendicular» sobre el costado de Torres, no sobre el costado oblicuo A-D (270,05 m). Superficies en m² y en cuadras cuadradas con decimales (67,411), ya no en varas cuadradas como en 146. La proporción de la lonja (1 : 34) es la del parcelario de fajas de frente al arroyo llevado al extremo."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena: herederos de José Romero → Lorenzo M. Torres (escrituras de Mercedes, 7/4 y 10/10/1881) → donación a Melitón Rodríguez (9/2/1882, Ponsati) → donación de la mitad a Toribio (6/9/1882, Del Río). Torres se queda con el resto («la que se reserva el donante») al NE. No se dice el motivo de la donación (¿pago en especie, parentesco, servidumbre de paso al arroyo?). La población de Eraclio López, dentro del lote de Toribio, sugiere un puestero u ocupante sin título. Con esta lonja, la de 1878 (121) y sus hijuelas (146), Melitón y Toribio aparecen como los hermanos que amplían el patrimonio familiar hacia el NE."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "146 (testamentaría de Bernardino Rodríguez, mismo agrimensor, mismo juez, mismo mes: la línea D-C de 8659,2 m, el mojón A, los 270,05 m y los esquineros de 1050, 2402,785, 4391,65, 5120,35, 6430,93 y 7575,59 m son comunes; 147 confirma el 1352,785 de 146); 121 (Melitón Rodríguez 1882, Meyrelles: OTRA faja comprada a Torres en 1878, 187,84 ha, S 30° 53′ E, del arroyo del Sauce a la Cañada de los Canos; no es la misma tierra); 122 (Lorenzo M. Torres, Muñiz 1882: mojones de hierro y ñandubay, visual a Azcuénaga); 106 (Mariano Lisola, lindero SE); 057 (her. de Josefa Romero junto a Mauricia Duarte en 1870: ¿los «herederos de José Romero» vendedores de Torres?); 142 (José A. Palacios, socio de Orlandini según el sello); 144-145 (Orlandini, caminos a Azcuénaga y a la Capilla)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Falta el f. 6 [?] (si el sello de la aprobación dice 7) y la circular a los linderos. Quedan por precisar el día del sello de entrada de la aprobación y la identidad de Eraclio López. Para el GIS: la lonja es la franja de 259,8 m inmediatamente al NE de la línea D-C de 146; sus líneas A-B y D-C, con la laguna (2006-2110 m) y los cruces de caminos, permiten controlar la georreferencia de ambas fichas y del campo de Torres (122)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Melitón Rodríguez",
+   "rol": "Propietario (lote no)",
+   "texto": "Hijo de Bernardino Rodríguez y Mauricia Duarte. Compró a Lorenzo M. Torres en 1878 una faja de 187,84 ha (ficha 121), recibió de él en donación esta lonja en 1882, donó la mitad a su hermano Toribio y en 1886 recibió además su hijuela en la división de la testamentaría (146), donde tiene estancia propia junto a la línea D-C.",
+   "fuentes": "Este duplicado; fichas 121, 146."
+  },
+  {
+   "nombre": "Toribio Rodríguez",
+   "rol": "Propietario (lote se)",
+   "texto": "Hermano de Melitón; concentrador de derechos en la herencia familiar (compra a Gregoria, cesiones de sus sobrinos, ficha 146) y donatario de la mitad SE de esta lonja (1882). Su estancia quedó en el lote de su madre para evitar un martillo (146).",
+   "fuentes": "Este duplicado; ficha 146."
+  },
+  {
+   "nombre": "Lorenzo M. Torres",
+   "rol": "Donante y lindero ne",
+   "texto": "Propietario del gran campo al NE (estancia «La Adelina» según 122). Compró en 1881 a los herederos de José Romero y en 1882 donó 300 varas de frente a Melitón Rodríguez; antes, en 1878, le había vendido otra faja (121).",
+   "fuentes": "Este duplicado; fichas 044, 121, 122."
+  },
+  {
+   "nombre": "Herederos de José Romero",
+   "rol": "Antecesores",
+   "texto": "Vendieron a Torres «en mayor porción» en 1881 (escrituras de Manuel López y de Ponsati, Mercedes). Podrían relacionarse con los «her. de Josefa Romero» linderos de Mauricia Duarte en 1870 (057); sin confirmar.",
+   "fuentes": "Este duplicado; ficha 057."
+  },
+  {
+   "nombre": "Mariano Lizola (Lisola)",
+   "rol": "Lindero se",
+   "texto": "Propietario al SE sobre la antigua tierra «de Díaz de Vivar»; ya lindero en 106 y 146.",
+   "fuentes": "Fichas 106, 146; este duplicado."
+  },
+  {
+   "nombre": "Eraclio López",
+   "rol": "Poblador",
+   "texto": "Tiene su población dentro del lote de Toribio, a 274 m del mojón A y 25 m de la línea de Torres. Primera aparición en el corpus; condición (arrendatario, puestero u ocupante) desconocida.",
+   "fuentes": "Este duplicado; plano."
+  },
+  {
+   "nombre": "Mauricia Duarte de Rodríguez; herederos de Tadeo; Ramón y Basilio Rodríguez",
+   "rol": "Linderos so",
+   "texto": "Viuda y descendientes de Bernardino Rodríguez, adjudicatarios de la división de 1886 (146). Los herederos de Tadeo y Ramón no firmaron la circular de esta mensura.",
+   "fuentes": "Este duplicado; ficha 146."
+  },
+  {
+   "nombre": "Apolinario Orlandini",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor muy activo en Giles en 1884-1886 (137, 138, 144-146). El sello del plano revela que tenía una OFICINA DE TIERRAS Y MENSURAS en sociedad con José A. Palacios (agrimensor de la ficha 142), en Bolívar 81, Buenos Aires. Búsqueda web sin datos biográficos.",
+   "fuentes": "Plano IMG_0252; fichas 137-146; búsqueda web 13/11/2026 sin resultados."
+  },
+  {
+   "nombre": "José A. Palacios",
+   "rol": "Agrimensor (socio)",
+   "texto": "Socio de Orlandini en la Oficina de Tierras y Mensuras de Bolívar 81; midió el campo de Benjamín A. Silva en 1885 (142).",
+   "fuentes": "Plano IMG_0252; ficha 142."
+  },
+  {
+   "nombre": "Julián Barraquero",
+   "rol": "Juez",
+   "texto": "Juez de 1.ª Instancia en lo Civil y Comercial (La Plata); comisiona (13/5/1886) y aprueba (18/9/1886), con el secretario M. Monjeaux; también en 143 y 146.",
+   "fuentes": "Fichas 143, 146."
+  },
+  {
+   "nombre": "Nicanor S. Ponsati, Manuel López, Fernando del Río",
+   "rol": "Escribanos",
+   "texto": "Ponsati (Mercedes) autorizó la donación de 1882 y una de las compras de Torres de 1881, y ya aparece en 091 (1878); López (Mercedes) la otra compra de 1881; Del Río (Giles) la donación de Melitón a Toribio y las ventas de 146.",
+   "fuentes": "Este duplicado; fichas 091, 146."
+  },
+  {
+   "nombre": "P. Salvadores, Octavio Pico, Juan B. Rivera",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firman el informe del 10/9/1886 (los mismos de 146, donde Rivera quedó dudoso: aquí se lee claro «Juan B. Rivera»).",
+   "fuentes": "Este duplicado; fichas 132-139, 146."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/147/02.jpg",
+  "fuente": "IMG_0240.JPG",
+  "lineas": [
+   "San A. de Giles. —",
+   "147",
+   "[Duplicado]",
+   "Diligencia de mensura y",
+   "division del terreno de propiedad",
+   "de D. Meliton y D. Toribio Ro-",
+   "driguez, ubicado en el partido de",
+   "San Andrés de Giles",
+   "Apolinario Orlandini",
+   "Agrimensor",
+   "Juez = Dr. Barraquero",
+   "Secretrario [sic] = M. Monjeaux",
+   "[a tinta:] 1-399-229"
+  ]
+ },
+ "titulo": "Melitón y Toribio Rodríguez",
+ "estado": "Transcripta (10 hojas, 263 renglones), 4 láminas"
+}

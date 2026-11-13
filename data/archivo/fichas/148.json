@@ -1,0 +1,605 @@
+{
+ "carpeta": "148",
+ "carpeta_nombre": "Carpeta 148",
+ "archivo": "Ficha 148 - Fortunata Porcel de Ponce (1886).docx",
+ "resumen": {
+  "N.º de duplicado": "148 (Part.º de Giles); archivo 1-356-205 / 1-200-303",
+  "Propietario / solicitante": "Fortunata Porcel de Ponce e hijos",
+  "Agrimensor": "José A. Palacios",
+  "Año": "1886",
+  "Fecha de la diligencia": "19 mayo 1886; D. I. 28/9/1886; aprobada 30/9/1886",
+  "Ubicación": "Margen O del arroyo de Giles; arroyo de Sosa; entre Morgan/Vázquez y Wheeler",
+  "Orden judicial": "Juez Civil Dr. Miranda Naón (La Plata), sec. Gregorio Carballo, 30/4/1886",
+  "Vendedor / antecesor": "Tomasa Zárate (1836) y testamentaría de Pedro del Sar (remate, 1862)",
+  "Linderos citados": "J. Morgan, B. Vázquez, Genoveva Ponce, suc. P. Wheeler, suc. G. Mooney",
+  "Medidas": "SO 5551,50 m; NE 1902,42 + 434,34 + 1948,6 + 434 + 1637,60; NO 319,25; SE 183,3",
+  "Rumbos": "S 48° 41′ E / N 47° 6′ O / N 42° 56′ E; ordenadas al arroyo de Giles",
+  "Referencia de archivo": "AHG PBA, duplicado 148; plano de Palacios mayo 1886"
+ },
+ "metricas": {
+  "superficie_ha": "219,00 (títulos 203,16 + sobrante fiscal 15,84)",
+  "hitos": "mojones de Iparraguirre; alambrados sobre casi todos los linderos; poblaciones en el plano",
+  "aguas": "arroyo de Giles (frente SE, ordenadas); arroyo de Sosa"
+ },
+ "sintesis": "José A. Palacios mide en mayo de 1886 el campo de la viuda Fortunata Porcel de Ponce y sus hijos Cayetano y Guadalupe sobre la margen O del arroyo de Giles. Une dos títulos: la mitad O (500 × 2250 v) de las 500 × 4500 v que Manuel Ponce compró a Tomasa Zárate en 1836, repartidas en tres generaciones (Genoveva Ponce se queda con la mitad E, hacia el arroyo), y una faja de 264 × 6000 v rematada en 1862 a Loreto Ponce en la testamentaría de Pedro del Sar. Resultan 219,00 ha contra 203,16 de títulos: un sobrante fiscal de 15,84 ha, dibujado en rojo contra Mooney, que el Departamento manda comprar al Gobierno y que todavía se informa en 1905, 1930 y 1936.",
+ "caratula": {
+  "img": "img/f/148/01.jpg",
+  "fuente": "IMG_0253.JPG",
+  "campos": [
+   [
+    "N.º",
+    "148"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Fortunata Porcel de Ponce y sus hijos Cayetano y Doña Guadalupe"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "José A. Palacios"
+   ],
+   [
+    "Mes / Año",
+    "(mes en blanco) / 1886"
+   ],
+   [
+    "Juzgado / Secretaría",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Título I: las 500 varas de Tomasa Zárate y su reparto",
+   "img": "img/f/148/07.jpg",
+   "fuente": "IMG_0255.JPG",
+   "nota": "Hoja suelta fotografiada acostada (rot 90); sello «FOJA 1». Las sumas cierran: 250 + 125 + 125 = 500 y 3 × 83 ⅓ = 250.",
+   "lineas": [
+    "[sello: FOJA 1]",
+    "[Duplicado]",
+    "Diligencia de mensura de un terreno de",
+    "propiedad de Da. Fortunata Porcel de Pon-",
+    "ce, Dn. Cayetano Ponce, y Da. Gua-",
+    "dalupe Ponce de Vazquez, en el Par-",
+    "tido de San Andres de Giles.",
+    "Titulo I",
+    "1836. Marzo 8. — Dn. Manuel Ponce, por ante el Juez de Paz",
+    "de Giles, compró á Da. Tomasa Zárate quinientas",
+    "varas de frente por cuatro mil quinientas varas de fondo,",
+    "segun consta en el documento que dice el Escribano del Rio",
+    "que obra en poder de Da. Genoveva Ponce, hija de Dn. Ma-",
+    "nuel. Muerto este el campo se repartió como sigue:",
+    "A la viuda Da. Carmen Benitez .......... 250 v.s",
+    "Al hijo Dn. Manuel Ponce .......... 125 \"",
+    "A la hija Da. Genoveva Ponce .......... 125 \"",
+    "Suma .......... 500 v.",
+    "Muerta Da. Carmen Benitez sus 250 v. se repar-",
+    "tieron como sigue:",
+    "A Dn. Cayetano y Da. Guadalupe Ponce, nietos de la",
+    "causante, y en representacion de su padre Dn. Loreto",
+    "Ponce, hijo del primer matrimonio de Da. Carmen con",
+    "Dn. Ant.º Ponce .......... 83 v. 1/3",
+    "Al hijo del 2.º matrimonio Dn. Manuel Ponce .......... 83 v. 1/3",
+    "A la hija \" \" \" Genoveva Ponce .......... 83 v. 1/3",
+    "Suma .......... 250 v.",
+    "Mas tarde Dn. Manuel Ponce vendió las 125 v. de",
+    "origen paterno y 41 v.s 2/3 de las 83 v. 1/3 de origen materno",
+    "á la viuda de su hermano uterino Dn. Loreto, Da. Fortu-",
+    "nata Porcel de Ponce, y á los hijos de esta Dn. Cayetano",
+    "y Da. Guadalupe; y las otras 41 v. 2/3 de origen materno",
+    "las vendió á su hermana Da. Genoveva.",
+    "[rúbrica de cierre]"
+   ],
+   "interpretacion": "Duplicado de la mensura del campo de Fortunata Porcel de Ponce, Cayetano Ponce y Guadalupe Ponce de Vázquez. TÍTULO I: el 8 de marzo de 1836 Manuel Ponce compra «por ante el Juez de Paz de Giles» a TOMASA ZÁRATE 500 varas de frente por 4500 de fondo (el documento lo tiene Genoveva Ponce, según el escribano Del Río). A su muerte: viuda CARMEN BENÍTEZ 250 v, hijos Manuel y Genoveva 125 v cada uno. Muerta Carmen, sus 250 v se parten en tercios (83 ⅓ v): los nietos Cayetano y Guadalupe en representación de su padre LORETO PONCE (hijo del primer matrimonio de Carmen con ANTONIO PONCE), Manuel y Genoveva (del segundo). Luego Manuel vende sus 125 v paternas y la mitad de sus 83 ⅓ maternas (41 ⅔) a Fortunata Porcel, viuda de su medio hermano Loreto, y a sus hijos, y la otra mitad (41 ⅔) a su hermana Genoveva."
+  },
+  {
+   "titulo": "Folio 1 vuelto · el condominio de 1884 y el Título II (del Sar, 1862)",
+   "img": "img/f/148/08.jpg",
+   "fuente": "IMG_0256.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Resulta de todo esto que actualmente el campo",
+    "(las primitivas 500 v.s) corresponde en la forma siguiente:",
+    "A Da. Genoveva Ponce:",
+    "Parte paterna .......... 125 v.",
+    "\" materna .......... 83 v. 1/3",
+    "Comprado á su hermano Manuel .......... 41 v. 2/3 .... 250 v.",
+    "A Da. Guadalupe y Dn. Cayetano Ponce:",
+    "Por representacion de su padre Dn. Loreto",
+    "en los bienes de Da. Carmen Benitez .......... 83 v. 1/3",
+    "A los mismos, en union de su ma-",
+    "dre Da. Fortunata Porcel, por com-",
+    "pra á Dn. Manuel .......... 166 v. 2/3 .... 250 v.",
+    "Suma .......... 500 v.",
+    "Todo esto se extracta de la escritura de declaratoria",
+    "y division del terreno, de fecha 6 de Dbre. de 1884, Re-",
+    "gistro de Dn. Fernando del Rio, en Giles. — Q. la cual se",
+    "conviene que Da. Genoveva Ponce tomaría la mitad",
+    "del terreno (500 v. por 2250 v.) en la parte del Este; y",
+    "Da. Fortunata Porcel y sus hijos Dn. Cayetano y",
+    "Da. Guadalupe, la otra mitad, hacia el Oeste; lin-",
+    "dando esta parte por el Este con la otra fraccion,",
+    "por el Norte y Oeste con Dn. Patricio Wheeler y por el",
+    "Sud con otro campo de los mismos condóminos q.",
+    "poseen como herederos de Dn. Loreto Ponce. —",
+    "Titulo II.",
+    "1862. En Buenos Aires, á tres de Octubre, por ante el",
+    "escribano Dn. Pedro Medina — El Juez de 1.ª Instancia en",
+    "lo civil Dr. Dn. Alejo B. Gonzales, en los autos testa-",
+    "mentarios de Dn. Pedro del Sar, otorga escritura de",
+    "venta á Dn. Loreto Ponce, de un terreno de esta",
+    "testamentaria, comprado en remate judicial, — u-",
+    "bicado en el arroyo de Giles, con 260 v. ó 264 v. de frente",
+    "por seis mil de fondo — Linda por el frente con el",
+    "citado arroyo — por un costado con el comprador",
+    "por el opuesto con Dámaso Flores y Natal Torres",
+    "y por el fondo con Guillermo Mooney. — Dn. Pedro"
+   ],
+   "interpretacion": "Resultado: Genoveva 125 + 83 ⅓ + 41 ⅔ = 250 v; Cayetano, Guadalupe y su madre 83 ⅓ + 166 ⅔ = 250 v. Por escritura de declaratoria y división del 6/12/1884 (registro de Fernando del Río, Giles) la división se hace A LO ANCHO DEL FONDO, no del frente: Genoveva toma la mitad ESTE (500 × 2250 v, la cabecera hacia el arroyo) y los Ponce Porcel la mitad OESTE, lindando al N y O con Patricio Wheeler y al S con otro campo de los mismos condóminos «como herederos de Loreto Ponce». TÍTULO II: el 3/10/1862, ante el escribano Pedro Medina, el juez civil Dr. Alejo B. González, en la testamentaría de PEDRO DEL SAR, escritura a Loreto Ponce un terreno comprado en REMATE JUDICIAL sobre el ARROYO DE GILES, de 260 ó 264 v de frente por 6000 de fondo, entre el comprador, Dámaso Flores y Natal Torres, con Guillermo Mooney al fondo."
+  },
+  {
+   "titulo": "Folio 2 · antecedentes del Sar, proposición y comienzo de la mensura",
+   "img": "img/f/148/09.jpg",
+   "fuente": "IMG_0256.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 2]",
+    "del Sar lo compró en union con su hermano",
+    "Dn. Rafael, á su abuelo el Presbítero Dn. Francis-",
+    "co del Sar, en veinte y tres de Setiembre de 1856 [?],",
+    "escribano Fernando Legade [?] — registro de Mariano",
+    "Cabral. — Mas tarde Dn. Rafael vendió su parte",
+    "á Dn. Pedro. —",
+    "1886 — Abril 30 — La Plata — Juzgado del Dr. Miranda Naon",
+    "Secretario Carballo (Gregorio). — Da. Fortunata Porcel",
+    "de Ponce, y sus hijos Dn. Cayetano Ponce y Da. Gua-",
+    "dalupe Ponce de Vazquez, proponen al agrimen-",
+    "sor que suscribe para medir las dos fracciones",
+    "de terreno á que se refieren los títulos anteriores.",
+    "Con fecha 13 de Mayo tomé antecedentes",
+    "en el Departamento de Ingenieros.",
+    "Mensura. —",
+    "En el partido de San Andres de Giles, á",
+    "diez y nueve de Mayo de mil ochocientos ochen-",
+    "ta y seis — previa citacion de linderos y edictos",
+    "publicados en los diarios que se acompañan",
+    "di principio á la operacion como sigue:",
+    "Costado Sud Oeste — Línea I A — Rumbo Sud",
+    "cuarenta y ocho grados cuarenta y un minutos Este",
+    "(S. 48° 41′ E). Mide mil seiscientos diez y siete me-",
+    "tros veinte y cinco centímetros (1617 m 25). — Deslinda",
+    "con Jorge Morgan — Alambrado sobre la línea. —",
+    "Línea A a — Deslindando con Benito Vazquez —",
+    "Rumbo Sud cuarenta y ocho grados cuarenta y dos",
+    "minutos cuarenta segundos Este (S. 48° 42′ 40″ E). Mide",
+    "mil trescientos diez y ocho metros diez centímetros (1318 m 1[0]).",
+    "Línea a a′ — Deslindando con el mismo — Rumbo",
+    "Sud cuarenta y ocho grados cuarenta y un minutos",
+    "veinte segundos Este (S. 48° 41′ 20″ E). Mide mil"
+   ],
+   "interpretacion": "Pedro del Sar lo había comprado con su hermano Rafael a su abuelo el presbítero FRANCISCO DEL SAR el 23/9/1856 [?] (escribano Fernando Legade [?], registro de Mariano Cabral); Rafael le vendió luego su parte. El 30/4/1886, en La Plata, juzgado del Dr. MIRANDA NAÓN (sec. Gregorio Carballo), los dueños proponen a Palacios para medir las DOS fracciones; el 13 de mayo toma antecedentes en el Departamento de Ingenieros; el 19 de mayo, con citación y edictos, empieza: costado SO, línea I-A (S 48° 41′ E, 1617,25 m) contra JORGE MORGAN, ALAMBRADO sobre la línea; A-a (S 48° 42′ 40″ E, 1318,10 m) contra BENITO VÁZQUEZ; a-a′ (S 48° 41′ 20″ E) …"
+  },
+  {
+   "titulo": "Folio 2 vuelto · costado SO (5551,50 m) y frente sobre el arroyo",
+   "img": "img/f/148/10.jpg",
+   "fuente": "IMG_0257.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "setecientos treinta y seis metros dos decímetros —",
+    "(1736 m 2) — En esta línea coloqué un costanero á los mil",
+    "doscientos noventa y nueve metros (1299 m)",
+    "Línea a′ B. Deslindando con el mismo — Rumbo Sud",
+    "cuarenta y ocho grados cuarenta y seis minutos cuarenta",
+    "segundos Este (S. 48° 46′ 40″ E). — Mide ochocientos o-",
+    "chenta metros (880 m) hasta B, mojon esquinero Sud del",
+    "campo que fué de del Sar, sobre el arroyo de Giles. —",
+    "Estas cuatro líneas forman los elementos de una quebrada",
+    "determinada por los mojones de este costado. Su estension",
+    "total es de [tachado: q.e] cinco mil quinientos cincuenta y un",
+    "metros cincuenta centímetros (5551 m 50)",
+    "Costado Sud Este — Sobre el arroyo de Giles —",
+    "Línea B C — Rumbo Norte catorce grados cuarenta y ocho",
+    "minutos veinte segundos Este (N. 14° 48′ 20″ E). — Mide cien-",
+    "to ochenta y tres metros tres decímetros (183 m 3) hasta B′ [?]",
+    "mojon esquinero Sud de las 500 v. que fueron de Toma-",
+    "sa Zárate, establecido por el agrimensor Iparraguirre [?], se-",
+    "gun se me informó — en mensura practicada para deslin-",
+    "dar la fraccion que corresponde á Genoveva Ponce.",
+    "Sobre esta línea, trace ordenadas [entre líneas: á la derecha] al arroyo como sigue: á",
+    "los cincuenta metros, diez y siete metros; — á los cien me-",
+    "tros ciento veinte y cuatro y sobre esta ordenada como eje",
+    "á los setenta y cinco metros á la derecha ocho metros.",
+    "Considerando este costado perpendicular al [entre líneas: costado] Sud Oeste — mide",
+    "al arroyo de Giles ciento sesenta y cuatro metros igual",
+    "á ciento ochenta y nueve varas treinta y siete centésimos",
+    "(164 m = 189 v. 37)",
+    "Costado Nord Este — Este costado forma una que-",
+    "brada á causa de la fraccion de 500 v. por 2250 v. — Sus ele-",
+    "mentos son. —",
+    "Línea C D — deslindando con la parte que correspondió á",
+    "Genoveva — (Desde el mojon C — hasta el borde del arroyo",
+    "hai ciento cuarenta y cuatro metros, de los que ciento treinta",
+    "y siete estan alambrados sobre la línea) — Rumbo Norte"
+   ],
+   "interpretacion": "… 1736,2 m con un costanero a 1299 m; a′-B (S 48° 46′ 40″ E, 880 m) hasta B, esquinero S del campo ex del Sar sobre el ARROYO DE GILES. Total de la quebrada 5551,50 m (la suma da 5551,55). Costado SE sobre el arroyo: B-C N 14° 48′ 20″ E, 183,3 m hasta el mojón esquinero S de las 500 v de Tomasa Zárate puesto por el agrimensor IPARRAGUIRRE [?] al deslindar la parte de Genoveva. ORDENADAS AL ARROYO a la derecha: 17 m a los 50 m, 124 m a los 100 m y, sobre esta ordenada como eje, 8 m a los 75 m. Medido en perpendicular al costado SO, el frente al arroyo es de 164 m = 189,37 v (verificado: 183,3 × cos 26,5° = 164,0 m; 164 / 0,866 = 189,38 v). Costado NE: C-D contra Genoveva (de C al arroyo 144 m, 137 alambrados)."
+  },
+  {
+   "titulo": "Folio 3 · costado NE en quebrada, fondo contra Mooney y superficie",
+   "img": "img/f/148/11.jpg",
+   "fuente": "IMG_0257.JPG (mitad derecha)",
+   "nota": "El texto escribe en letras «cuarenta y tres grados treinta [?] y tres minutos» y en cifras «S. 43° 3′ O»; el plano dice «S. 43° O.». Verificado en python: el polígono I-A-a-a′-B-C-D-E-F-G-H-I no cierra por 26,4 m en sentido longitudinal (N 48° O) y su área calculada es 2 180 131 m² (9888 m² menos que la declarada): falta ≈ 26 m en alguno de los lados largos, pero texto y plano coinciden en todas las cifras.",
+   "lineas": [
+    "[sello: FOJA 3]",
+    "cuarenta y siete grados seis minutos cuarenta segundos [entre líneas: Oeste] (N. 47° 6′ 40″ O)",
+    "Mide mil novecientos dos metros cuarenta y dos centímetros (1902 m 42)",
+    "hasta D, mojon esquinero Oeste de la fraccion que corresponde á Geno-",
+    "veva y Sud de la que corresponde á mis comitentes. En esta línea",
+    "clavé mojon á los mil doscientos noventa y nueve metros (1299 m)",
+    "Línea D E — Deslindando con el contrafrente de la parte",
+    "de Genoveva — Rumbo Norte cuarenta y dos grados cincuen-",
+    "ta y seis minutos veinte segundos Este (N. 42° 56′ 20″ E). Mide",
+    "cuatrocientos treinta y cuatro metros treinta y cuatro centímetros",
+    "(434 m 34) hasta E, mojon esquinero Norte del terreno de Geno-",
+    "veva y Este de una de las fracciones del que mido, colocado por el",
+    "Agrimensor Sr. [?] Iparraguirre. —",
+    "Línea E F — Deslindando con la sucesion de Dn. Patricio",
+    "Wheeler — corresponde al costado Nord Este de la fraccion de ori-",
+    "gen de Tomasa Zarate — Alambrado sobre la línea — Rumbo",
+    "Norte cuarenta y siete grados seis minutos Oeste — (N. 47° 6′ O)",
+    "mide mil novecientos cuarenta y ocho metros y seis decímet.s",
+    "(1948 m 6)",
+    "Línea F G, Deslindando con la sucesion de Dn. Patricio Wheeller [sic] —",
+    "corresponde al contrafrente de la fraccion citada — Rumbo Sud cua-",
+    "renta y dos grados cincuenta y seis minutos Oeste (S. 42° 56′ O)",
+    "Mide cuatrocientos treinta y cuatro metros. (434 m —)",
+    "Línea G H — Deslindando con la misma sucesion de",
+    "Wheeller — corresponde á parte del costado Nord Este de la fraccion",
+    "de origen de del Sar — Rumbo Norte cuarenta y siete grados",
+    "tres minutos Oeste (N. 47° 3′ O.) Mide mil seiscientos treinta",
+    "y siete metros sesenta centímetros (1637.60) — Alambrado so-",
+    "bre la línea —",
+    "Costado Nord Oeste. — Línea H I — Deslindando",
+    "con la sucesion de G. Mooney — alambrado sobre la",
+    "línea — Rumbo Sud cuarenta y tres grados treinta [?] y tres",
+    "minutos Oeste — (S. 43° 3′ O). — Mide trescientos diez y",
+    "nueve metros veinte y cinco centímetros (319 m 25). —",
+    "[al margen: X] Superficie — es de dos millones ciento noventa",
+    "mil [entre líneas: diez y nueve] metros cuadrados, (2190019 m²) y siendo el total",
+    "de ambos títulos de dos millones treinta y un mil"
+   ],
+   "interpretacion": "C-D N 47° 6′ 40″ O, 1902,42 m (mojón a 1299 m) hasta D, esquinero O de Genoveva; D-E N 42° 56′ 20″ E, 434,34 m (contrafrente de Genoveva) hasta E, mojón de Iparraguirre; E-F N 47° 6′ O, 1948,6 m contra la SUCESIÓN DE PATRICIO WHEELER, alambrado; F-G S 42° 56′ O, 434 m (contrafrente de la fracción Zárate); G-H N 47° 3′ O, 1637,60 m contra Wheeler, alambrado; costado NO H-I S 43° 3′ O, 319,25 m contra la SUCESIÓN DE G. MOONEY, alambrado. SUPERFICIE 2 190 019 m² frente a 2 031 630 m² de títulos."
+  },
+  {
+   "titulo": "Folio 3 vuelto · sobrante, circular, firma; informe del D. I.",
+   "img": "img/f/148/12.jpg",
+   "fuente": "IMG_0258.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "seiscientos treinta met.s cuadrados — resulta haber un",
+    "sobrante de ciento cincuenta y ocho mil trescientos",
+    "ochenta y nueve metros cuadrados. —",
+    "Circular y Acta. Estos documentos fueron fir-",
+    "mados por los linderos como sigue. Por sí: Jorge",
+    "Morgan — Maria M. de Mooney y Maria G. Mooney —",
+    "Benito Vazquez — Maria D. de Wheeler y Juan Whee-",
+    "ler — Por Da. Genoveva Ponce, por no saber firmar",
+    "Josefa Ramirez. —",
+    "Partido de San Andres de Giles, Mayo de 1886",
+    "José A. Palacios",
+    "[sello: Departamento de Ingenieros de la Provincia · Entrada · 23 SET. 86]",
+    "Señor Juez de 1.ª Instancia",
+    "La presente mensura practica-",
+    "da por el agrimensor Palacios del",
+    "terreno de Doña Fortunata Porcel de",
+    "Ponce y de sus hijos Don Calletano [sic]",
+    "y Doña Guadalupe, situado en el",
+    "partido de San Andres de Giles es-",
+    "tá bien ejecutada y el Departamento",
+    "de Ingenieros la aprueba en la",
+    "parte facultativa. —",
+    "Dentro de los mojo-",
+    "nes del terreno medido ha resultado un",
+    "sobrante de propiedad pública",
+    "compuesto de quince hectareas",
+    "ochenta y tres areas y ochenta"
+   ],
+   "interpretacion": "Sobrante de 158 389 m² (= 2 190 019 − 2 031 630, verificado). Títulos verificados: (500 × 2250 + 264 × 6000) v² × 0,866² = 2 031 630,8 m²: Palacios toma 264 v, el mayor de los dos frentes del título de 1862. Firmaron la circular y el acta Jorge Morgan, María M. de Mooney y María G. Mooney, Benito Vázquez, María D. de Wheeler y Juan Wheeler, y por Genoveva Ponce, que no sabe firmar, JOSEFA RAMÍREZ. Mayo de 1886, José A. Palacios. Entrada al D. I. 23/9/1886. Informe: la mensura está bien ejecutada y se aprueba en la parte facultativa; dentro de los mojones hay un SOBRANTE DE PROPIEDAD PÚBLICA de 15 ha 83 a 89 ca…"
+  },
+  {
+   "titulo": "Folio 4 · el sobrante al Gobierno; nota de 1905",
+   "img": "img/f/148/13.jpg",
+   "fuente": "IMG_0258.JPG (mitad derecha)",
+   "nota": "Mitad inferior de la página en blanco.",
+   "lineas": [
+    "[sello: FOJA 4]",
+    "y nueve metros cuadrados, por el",
+    "cual deben ocurrir al Gobierno",
+    "solicitándolo en compra; de cuyo",
+    "sobrante se dá cuenta con esta",
+    "fecha al Ministerio de Hacienda. —",
+    "Setiembre 28 de 1886",
+    "P. Salvadores — Pedro Benoit",
+    "V. Gerardi [?]",
+    "Juan B. Rivera",
+    "[otra letra:] Dbre. 22 de 1905. Informe y plano á la",
+    "Of. de tierras. Juan [?] Bugni [?]",
+    "[mitad inferior de la página en blanco]"
+   ],
+   "interpretacion": "… «por el cual deben ocurrir al Gobierno solicitándolo en compra»; se da cuenta al MINISTERIO DE HACIENDA. 28/9/1886: P. Salvadores, Pedro Benoit, V. Gerardi [?], Juan B. Rivera. Nota marginal posterior: «Dbre. 22 de 1905. Informe y plano á la Of. de tierras», firma Juan [?] Bugni [?]: el sobrante seguía en trámite diecinueve años después."
+  },
+  {
+   "titulo": "Folio 5 · aprobación judicial (30/9/1886)",
+   "img": "img/f/148/14.jpg",
+   "fuente": "IMG_0259.JPG",
+   "nota": "La página izquierda de la toma está en blanco.",
+   "lineas": [
+    "[a tinta:] 1-200-303 — [papel sellado n.º] 245109 — [timbre: Provincia de Buenos Aires · Ley de Sellos · 25 centavos nacionales · 1886]",
+    "[sello: FOJA 5]",
+    "[sello: Juzgado Civil · Secretario Gregorio J. [?] Carballo]",
+    "Corresp.de",
+    "La Plata Octubre 27 [?] de 1886",
+    "Al Señor Presidente del",
+    "Departamento de Ingenieros",
+    "Comunico á V. que",
+    "con fecha 30 de Setiembre ha sido",
+    "aprobada la mensura practicada",
+    "por el Agrimensor Don José",
+    "A. Palacios en campo de propiedad",
+    "de Doña Fortunata Porcel de Ponce",
+    "y otros situado en el Partido de San",
+    "Andres de Giles —",
+    "Dios Gde. á V.",
+    "Adolfo [?] Miranda Naon",
+    "G. Carballo",
+    "[sello: Departamento de Ingenieros de la Provincia · Entradas · 26 SET. 87 [?]]",
+    "[rúbrica al pie]"
+   ],
+   "interpretacion": "Oficio en papel sellado de 25 centavos de 1886 (n.º 245109; archivo 1-200-303), con sello del Juzgado Civil, secretario Gregorio J. [?] Carballo: La Plata, 27 [?] de octubre de 1886, el juez (Adolfo [?]) MIRANDA NAÓN comunica al Presidente del D. I. que el 30 de septiembre fue aprobada la mensura de Palacios. Sello de entrada del D. I.: «26 SET. 87» [?], un año después."
+  },
+  {
+   "titulo": "Folio 5 vuelto · notas de 1887, 1930 y 1936",
+   "img": "img/f/148/15.jpg",
+   "fuente": "IMG_0260.JPG",
+   "nota": "Firmas de 1930 y 1936 dudosas.",
+   "lineas": [
+    "[notas posteriores, distintas letras]",
+    "Setiembre 26/87",
+    "Agréguese al duplicado correspondiente.",
+    "Pico",
+    "La Plata, mayo 28 de 1930. —",
+    "En la fecha se informa el expediente le-",
+    "tra O — n.º 2 año 1930. — Cop. 83 f.º 189. — «Ocampo",
+    "Hermenegildo s/ denuncia de terrenos en varios partidos",
+    "de la Provincia». —",
+    "[firma ilegible]",
+    "Abril 16 de 1936. — Se informa el expte. C-29-936.",
+    "S/ denuncia de tierra fiscal por Miguel F. Cardinalli.",
+    "Cop. [?] — [?]",
+    "R. Giménez [?]"
+   ],
+   "interpretacion": "«Setiembre 26/87. Agréguese al duplicado correspondiente», firma Pico (confirma la fecha del sello de entrada del oficio). La Plata, 28/5/1930: se informa el expediente O-2-1930, «Ocampo Hermenegildo s/ denuncia de terrenos en varios partidos de la Provincia». 16/4/1936: se informa el expediente C-29-936, «s/ denuncia de tierra fiscal por Miguel F. Cardinalli». El sobrante de 1886 sigue siendo objeto de denuncias de tierra fiscal medio siglo después. A la derecha, el plano plegado (sello «6»)."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de mensura (Palacios, mayo 1886)",
+   "img": "img/f/148/03.jpg",
+   "fuente": "IMG_0261.JPG (vista general; detalles IMG_0262-0266)",
+   "orientacion": "la faja corre de izquierda (NO, Mooney) a derecha (SE, arroyo de Giles); aguja magnética dibujada dos veces, cruzando los linderos",
+   "interpretacion": "Plano a tinta sobre tela, firmado «Partido de Giles, Mayo de 1886 · José A. Palacios», con escala gráfica de 0 a 1000 metros. Una faja larga y angosta (≈ 5,5 km por 166-319 m) con un rectángulo adosado al NE (la fracción de origen Zárate, 1948,6 × 434 m, exactamente 2250 × 500 v), y a su derecha la fracción de GENOVEVA PONCE, que llega al arroyo. Arriba la SUCESIÓN DE PATRICIO WHEELER, a la izquierda la SUCESIÓN DE G. MOONEY, abajo JORGE MORGAN y BENITO VÁZQUEZ. Cuadro: «Sup. ABCDEFGHI = 2190019 met.s cuad.s · Título 2031630 · Sobrante 158389».",
+   "referencias": [
+    [
+     "I · A",
+     "Arranque en el fondo contra Mooney y Morgan; A = mojón Morgan/Vázquez (IA 1617,25)"
+    ],
+    [
+     "a · a′",
+     "Quiebres del costado SO contra Vázquez (Aa 1318,10; aa′ 1736,2; a′B 880)"
+    ],
+    [
+     "B · C",
+     "Frente sobre el arroyo de Giles (N 14° 48′ 20″ E, 183,3 m; perpendicular 164 m)"
+    ],
+    [
+     "D · E",
+     "Contrafrente de Genoveva Ponce (N 42° 56′ 20″ E, 434,34 m); E mojón de Iparraguirre"
+    ],
+    [
+     "F · G (F′ · G′)",
+     "Contrafrente de la fracción Zárate contra Wheeler (S 42° 56′ O, 434 m)"
+    ],
+    [
+     "H",
+     "Esquina NO contra Mooney (GH 1637,60; HI S 43° O 319,25)"
+    ],
+    [
+     "Sobrante",
+     "Rectángulo rojo de 496,12 × 319,25 m = 15 ha 83 a 89 ca contra Mooney"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle NO: el sobrante y el arroyo de Sosa",
+   "img": "img/f/148/04.jpg",
+   "fuente": "IMG_0262.JPG",
+   "orientacion": "NO a la izquierda",
+   "interpretacion": "En carmín, el SOBRANTE: un rectángulo de 496,12 m sobre las líneas de Morgan y Wheeler por 319,25 m de fondo contra Mooney, cerrado por una línea N 43° E (verificado: 496,12 × 319,25 = 158 386 m² ≈ 158 389). El Departamento lo ubica «al fondo», en el extremo opuesto al arroyo, como en otros sobrantes del corpus. En azul cruza el «ARROYO DE SOSA», afluente de la margen O del arroyo de Giles (cf. 033, 040). Cerca de F-G, un cuadro de puntos con una construcción: un cerco o corral con su rancho dentro de la fracción de origen Zárate.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle central: nombres de los dueños y la fracción de Genoveva",
+   "img": "img/f/148/05.jpg",
+   "fuente": "IMG_0264.JPG",
+   "orientacion": "NO a la izquierda",
+   "interpretacion": "Rótulo «Fortunata Porcel y Cayetano y Guadalupe Ponce» con el cuadro de superficies; la línea D-E (N 42° 56′ 20″ E, 434,34) separa a GENOVEVA PONCE; «CD = 1902,42» y el mojón de 1299 m; abajo «Aa = 1318,10», «S. 48° 41′ 20″ E» y una cota «449,8 / 0,22» sobre la línea de Vázquez (probable desvío del alambrado). Escala gráfica en metros.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle SE: el arroyo de Giles, las ordenadas y la firma",
+   "img": "img/f/148/06.jpg",
+   "fuente": "IMG_0266.JPG",
+   "orientacion": "SE a la derecha",
+   "interpretacion": "El arroyo de Giles en azul cierra la faja entre B y C, con las ordenadas (17, 124 y 8 m); «C 144 m» al borde del arroyo; «a′B = 880 m». Sobre la línea a′-B un potrero alambrado (rectángulo de puntos) que la atraviesa, con una casa del lado de Vázquez, y otra población dentro de la parte de Genoveva con un cerco quebrado: el alambrado divisorio y los cercos de las poblaciones no coinciden. Firma «Partido de Giles, Mayo de 1886 · José A. Palacios».",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Faja de la margen O del arroyo de Giles, del arroyo hasta el campo de Mooney (≈ 5,5 km), cruzada por el ARROYO DE SOSA. Hacia 1886 el paisaje está ALAMBRADO: hay alambre sobre la línea de Morgan, sobre los dos tramos de Wheeler, contra Mooney y en 137 de los 144 m de C al arroyo. El plano dibuja poblaciones con cercos y un potrero que monta sobre la línea de Vázquez cerca del arroyo. El frente al agua es mínimo (164 m) y se releva con ordenadas: el arroyo forma una vuelta que se aleja 124 m de la línea."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Proposición del agrimensor por los dueños ante el juez (30/4/1886), consulta de antecedentes en el D. I. (13/5), citación de linderos y edictos en diarios, circular y acta firmadas por TODOS los linderos, incluidas las viudas María M. de Mooney y María D. de Wheeler, y por Genoveva Ponce, que no sabe firmar, a ruego de Josefa Ramírez. El mojón de Iparraguirre (deslinde de Genoveva) se acepta «según se me informó»: la palabra de los vecinos certifica el mojón ajeno."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos al segundo (S 48° 42′ 40″ E) y distancias al centímetro; quebradas descompuestas en sus «elementos»; ordenadas al arroyo con un eje secundario sobre la ordenada de 124 m. Verificado en python: el costado SO suma 5551,55 (texto 5551,50); el frente perpendicular es 164,0 m; las superficies de título y sobrante cierran exactas. Pero el polígono NO CIERRA por 26,4 m en sentido longitudinal y su área calculada (2 180 131 m²) es 9888 m² menor que la declarada: la cifra errada (≈ 26 m) está en algún lado largo, idéntica en texto y plano."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Vara de 0,866 m: 164 m = 189,37 v; los títulos se convierten con 0,866² (500 × 2250 + 264 × 6000 = 2 709 000 v² = 2 031 630,8 m²). Entre las dos lecturas del título de 1862 («260 ó 264 v de frente»), Palacios adopta la mayor. La fracción Zárate se mide exacta (1948,6 m = 2250 v; 434 m = 501 v), pero la faja del Sar tiene ≈ 5550 m de largo frente a 6000 v = 5196 m, y un ancho que crece de 166 a 319 m: de ahí el sobrante. Superficie en m² y en hectáreas, áreas y centiáreas (D. I.)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Dos cadenas. (1) Tomasa Zárate → Manuel Ponce (1836, ante el juez de paz) → viuda Carmen Benítez ½ e hijos ¼ + ¼ → tercios de Carmen con representación de los nietos (Cayetano y Guadalupe por su padre Loreto, hijo del primer matrimonio con Antonio Ponce) → ventas de Manuel a su cuñada y a su hermana → división de 1884 a lo ancho del fondo (Genoveva al E, sobre el arroyo). (2) Presbítero Francisco del Sar → nietos Pedro y Rafael del Sar (1856 [?]) → Pedro → remate en su testamentaría → Loreto Ponce (1862). Un tercer campo «de los mismos condóminos» linda al S. Patrimonio de una familia criolla de pequeños-medianos propietarios que resiste en medio de grandes estancias de británicos (Wheeler, Mooney, Morgan)."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "040 y 067 (Departamento, c. 1866-76): «Carmen Benites / Loreto Ponce» entre las fajas ex Marfil y Wheeler de la margen O; 067 nombra ya a «Fortunata Porcel de Ponce» y a María Murray de Mooney como linderas. 022 (Wheeler 1858) y 025 (Mooney 1858, ex Del Sar): Loreto Ponce firma a ruego en ambas. 031 (testamentaría de Pedro del Sar 1863, Pico): el remate de esa testamentaría. 020/038 (Morgan) y 110 (Benito Vásquez). Agrimensor Iparraguirre (056, 097, 098, 126): deslindó antes la parte de Genoveva (mensura no vista). 142 y 147: Palacios, socio de Orlandini. Arroyo de Sosa: 033 y 040."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Texto completo, plano, aprobación y notas posteriores. Falta la mensura de Iparraguirre para Genoveva Ponce y el campo S «de los herederos de Loreto». Preguntas: ¿qué lado lleva los 26 m que impiden el cierre?; ¿la Tomasa Zárate de 1836 es pariente de la de 119/132 (1881)?; ¿se vendió alguna vez el sobrante, denunciado aún en 1930 y 1936? Para el GIS: la faja es contigua a Genoveva Ponce y a la fracción Zárate; el punto A (Morgan/Vázquez) queda alineado con G (A-G 272,7 m, casi perpendicular)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Fortunata Porcel de Ponce",
+   "rol": "Propietaria",
+   "texto": "Viuda de Loreto Ponce; compra con sus hijos a su cuñado Manuel Ponce 166 ⅔ v del campo Zárate. Ya figura como lindera en el plano del Departamento de 067 (c. 1874).",
+   "fuentes": "Este duplicado; ficha 067."
+  },
+  {
+   "nombre": "Cayetano Ponce y Guadalupe Ponce de Vázquez",
+   "rol": "Propietarios",
+   "texto": "Hijos de Loreto Ponce y Fortunata Porcel; heredan por representación de su padre en los bienes de su abuela Carmen Benítez. Guadalupe está casada con un Vázquez: posible vínculo con el lindero Benito Vázquez (sin confirmar).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Loreto Ponce",
+   "rol": "Antecesor",
+   "texto": "Hijo del primer matrimonio de Carmen Benítez con Antonio Ponce; compra en 1862 la faja rematada de la testamentaría de Pedro del Sar. Firma a ruego en las mensuras de Wheeler y Mooney de 1858. Muerto antes de 1884.",
+   "fuentes": "Este duplicado; fichas 022, 025, 040."
+  },
+  {
+   "nombre": "Manuel Ponce (padre) y Carmen Benítez",
+   "rol": "Compradores de 1836",
+   "texto": "Manuel compra a Tomasa Zárate 500 × 4500 v ante el juez de paz de Giles; su viuda Carmen Benítez (Benites) había estado casada antes con Antonio Ponce. Aparece como lindera «Carmen Benites» en 040 y 067.",
+   "fuentes": "Este duplicado; fichas 040, 067."
+  },
+  {
+   "nombre": "Manuel Ponce (hijo) y Genoveva Ponce",
+   "rol": "Herederos; genoveva lindera ne",
+   "texto": "Hijos del segundo matrimonio. Manuel vende toda su parte; Genoveva concentra 250 v y en 1884 toma la mitad E del campo Zárate, sobre el arroyo. Guarda el documento de 1836 y no sabe firmar (firma por ella Josefa Ramírez).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Tomasa Zárate",
+   "rol": "Vendedora (1836)",
+   "texto": "Vende 500 × 4500 v en 1836. Hay una Tomasa Zárate heredera en la división Monsalvo-Zárate de 1881 (119, 132); la identidad no está probada.",
+   "fuentes": "Este duplicado; fichas 119, 132."
+  },
+  {
+   "nombre": "Pedro, Rafael y presbítero Francisco del Sar",
+   "rol": "Antecesores (título ii)",
+   "texto": "El presbítero Francisco del Sar vende a sus nietos Pedro y Rafael (1856 [?]); Rafael cede a Pedro; en la testamentaría de Pedro se remata la faja (1862, juez Alejo B. González, escribano Pedro Medina). La cadena del Sar y el campo de Mooney ex Del Sar están en 025 y 031.",
+   "fuentes": "Este duplicado; fichas 025, 031."
+  },
+  {
+   "nombre": "Jorge Morgan; Benito Vázquez",
+   "rol": "Linderos so",
+   "texto": "Morgan, heredero de Eduardo Morgan (020, 038); Vázquez, comprador de la faja Torres/Cascallar (110). Firman la circular.",
+   "fuentes": "Fichas 020, 038, 110; este duplicado."
+  },
+  {
+   "nombre": "Sucesión de Patricio Wheeler (María D. de Wheeler, Juan Wheeler)",
+   "rol": "Linderos n y o",
+   "texto": "Estancia «San Cristóbal» (022). En 1886 firman la viuda María D. de Wheeler y Juan Wheeler.",
+   "fuentes": "Ficha 022; este duplicado."
+  },
+  {
+   "nombre": "Sucesión de Guillermo Mooney (María M. de Mooney, María G. Mooney)",
+   "rol": "Linderos no",
+   "texto": "Estancia «San Guillermo» ex Del Sar (025); la viuda es María Murray de Mooney (067).",
+   "fuentes": "Fichas 025, 067; este duplicado."
+  },
+  {
+   "nombre": "José A. Palacios",
+   "rol": "Agrimensor",
+   "texto": "Socio de Apolinario Orlandini en la Oficina de Tierras y Mensuras de Bolívar 81 (147); midió el campo de Benjamín A. Silva en 1885 (142).",
+   "fuentes": "Fichas 142, 147."
+  },
+  {
+   "nombre": "Mariano Iparraguirre",
+   "rol": "Agrimensor anterior",
+   "texto": "Puso los mojones del deslinde de Genoveva Ponce (C y E). Activo en Giles 1870-1882 (056, 097, 098, 126).",
+   "fuentes": "Este duplicado; METODO."
+  },
+  {
+   "nombre": "Dr. Miranda Naón (Adolfo [?])",
+   "rol": "Juez",
+   "texto": "Juez de 1.ª instancia en lo Civil del Departamento de la Capital (La Plata), con el secretario Gregorio Carballo. Primera aparición en el corpus. Búsqueda web sin resultados útiles.",
+   "fuentes": "Este duplicado; búsqueda web 13/11/2026 sin datos."
+  },
+  {
+   "nombre": "Alejo B. González; Pedro Medina; Fernando del Río; Fernando Legade [?]; Mariano Cabral",
+   "rol": "Juez y escribanos de los títulos",
+   "texto": "González, juez civil en 1862 (testamentaría del Sar); Medina, escribano de Buenos Aires; Del Río (Giles), la división de 1884 (también en 146-147); Legade [?] y Cabral, la venta de 1856 [?].",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "P. Salvadores, Pedro Benoit, V. Gerardi [?], Juan B. Rivera; Octavio Pico",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firman el informe del 28/9/1886 y dan cuenta del sobrante al Ministerio de Hacienda; Pico manda agregar el oficio judicial en 1887.",
+   "fuentes": "Este duplicado; fichas 139, 146, 147."
+  },
+  {
+   "nombre": "Josefa Ramírez",
+   "rol": "Firma a ruego",
+   "texto": "Firma por Genoveva Ponce, que no sabe firmar.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Hermenegildo Ocampo; Miguel F. Cardinalli",
+   "rol": "Denunciantes de tierra fiscal (1930, 1936)",
+   "texto": "Sus expedientes (O-2-1930: denuncia de terrenos en varios partidos; C-29-936: denuncia de tierra fiscal) motivan informes sobre este duplicado: el sobrante de 1886 seguía siendo apetecible como tierra pública.",
+   "fuentes": "Este duplicado, f. 5 v."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/148/02.jpg",
+  "fuente": "IMG_0254.JPG",
+  "lineas": [
+   "San A. de Giles",
+   "148 —",
+   "[Duplicado]",
+   "Diligencia de mensura de un campo de",
+   "propiedad de Da. Fortunata Porcel de Ponce y",
+   "sus hijos Dn. Cayetano y Da. Guadalupe, en el",
+   "Partido de San Andres de Giles, Mayo | 886",
+   "Juez ..... Dr. Miranda Naon",
+   "Secretario — Dn. Greg.º Carballo",
+   "Depart.º de la Capital",
+   "José A. Palacios",
+   "Agrimensor",
+   "[a tinta:] 1-356-205"
+  ]
+ },
+ "titulo": "Fortunata Porcel de Ponce e hijos",
+ "estado": "Transcripta (9 hojas, 249 renglones), 4 láminas"
+}
