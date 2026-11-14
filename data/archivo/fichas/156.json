@@ -1,0 +1,436 @@
+{
+ "carpeta": "156",
+ "carpeta_nombre": "Carpeta 156",
+ "archivo": "Ficha 156 - Oostendorp y Cía (1890).docx",
+ "resumen": {
+  "N.º de duplicado": "156 (Giles); número a lápiz 3.304.444 [?] en la portadilla",
+  "Propietario / solicitante": "Oostendorp y Compañía",
+  "Agrimensor": "Ricardo A. Muñiz",
+  "Año": "1890",
+  "Fecha de la diligencia": "3/9/1890; entrada D. I. 18/10/1890; dictamen 21/10/1890",
+  "Ubicación": "Rincón SO, hijuela de Dolores Alegre (084) del campo de B. Gutiérrez (024)",
+  "Orden judicial": "Juez de 1.ª Instancia del Departamento del Centro (nombre en folio faltante)",
+  "Vendedor / antecesor": "Liborio Esquivel por sus hijos (1888) → R. A. Muñiz (1888-90)",
+  "Linderos citados": "S. Unzué, P. Gannon, C. Alfonsín, C. y R. Casado, E. Bustos, Oostendorp y C.ª",
+  "Medidas": "A-B 1531; B-C 2786,56; C-D 1530,92; D-A 2783 m (título 1530,48 / 2781)",
+  "Rumbos": "A-B S 45° 59′ O; B-C S 45° 19′ E; C-D N 45° 51′ E; D-A N 45° 19′ O",
+  "Referencia de archivo": "AHG PBA, duplicado 156 de San Andrés de Giles"
+ },
+ "metricas": {
+  "superficie_ha": "426,2412",
+  "hitos": "mojones A-D; poblaciones de la viuda Carey, Patricio Alegre [?], Lucas Winter, Casado y Álvarez; tapera de Alegre; monte de P. Gannon",
+  "aguas": "ninguna citada en los folios conservados"
+ },
+ "sintesis": "Remensura de la hijuela de Dolores Alegre (Ficha 084, Schuster 1878) en el rincón SO del partido. Sus hijos menores Rafael Mariano y Dolores Esquivel Alegre la heredaron por legítima materna; su padre Liborio Esquivel la vendió con venia judicial en 1888 al propio agrimensor Ricardo A. Muñiz (130 $ m/n la cuadra), que en junio de 1890 la revendió a Oostendorp y C.ª por 20 000 $, ya dueños de la vecina estancia de Caprile y Picasso (052). Muñiz la mide el 3/9/1890: rectángulo casi perfecto (cierre 5 mm) de 426,24 ha, exceso de ≈ 1,95 ha menor que el 1 % de la ley del 14/2/1890; ángulos a poblaciones vecinas y a la tapera de Alegre.",
+ "caratula": {
+  "img": "img/f/156/01.jpg",
+  "fuente": "IMG_0391.JPG",
+  "campos": [
+   [
+    "N.º",
+    "156"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Oostendorp y Cía."
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Ricardo A. Muñiz"
+   ],
+   [
+    "Mes / Año",
+    "(en blanco) / 1890"
+   ],
+   [
+    "Juzgado / Secretaría / Duplicados de referencia",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · encabezado y títulos: la legítima materna de los Esquivel Alegre",
+   "img": "img/f/156/05.jpg",
+   "fuente": "IMG_0393.JPG",
+   "nota": "Rotada 90°; leída en tres franjas. Sello «FOJA 1».",
+   "lineas": [
+    "[Sello: «FOJA 1»]",
+    "Diligencia de Mensura",
+    "de un campo perteneciente á los",
+    "Señores Oostendorp y Compañía,",
+    "en el Partido de San Andrés de",
+    "Giles.",
+    "Títulos",
+    "Los títulos que acreditan la propiedad",
+    "del campo á que se refiere esta men-",
+    "sura son los siguientes:",
+    "En las hijuelas 2.ª y 3.ª se les adjudica",
+    "respectivamente á los herederos Rafael Maria-",
+    "no y Dolores Esquivel Alegre, por su",
+    "legítima materna, la cantidad de sesen-",
+    "ta y dos mil docientos ocho pesos veinte",
+    "centavos moneda corriente en un cam-",
+    "po de pastoreo situado en San Andrés",
+    "de Giles.",
+    "Don Liborio Esquivel, padre de los menores",
+    "Rafael Mariano y Dolores Esquivel Alegre,",
+    "pidió autorizacion al Señor Juez de la tes-",
+    "tamentaria para vender á nombre de",
+    "sus hijos el inmueble referido, y esta"
+   ],
+   "interpretacion": "Encabezamiento del duplicado: «Diligencia de Mensura de un campo perteneciente á los Señores Oostendorp y Compañía». Bajo «Títulos», Muñiz arranca de las hijuelas 2.ª y 3.ª de una testamentaría (la de la madre, no nombrada en este folio) que adjudican a los menores Rafael Mariano y Dolores Esquivel Alegre, «por su legítima materna», 62 208,20 $ m/c en un «campo de pastoreo» de Giles. Su padre, Liborio Esquivel, pide autorización al juez de la testamentaría para vender el inmueble en nombre de sus hijos. El apellido materno (Alegre) y el ancho del campo (1530,48 m, f. 1 v.) permiten identificar a la madre con DOLORES ALEGRE, la primera de las cinco hijuelas de Ángela Gutiérrez de Alegre en la división de Schuster de 1878 (Ficha 084)."
+  },
+  {
+   "titulo": "Folio 1 vuelto · venta de Esquivel al agrimensor Muñiz (Mercedes, 5/12/1888)",
+   "img": "img/f/156/06.jpg",
+   "fuente": "IMG_0394.JPG (mitad izquierda)",
+   "nota": "Media página izquierda de IMG_0394.",
+   "lineas": [
+    "le fué acordada, siempre que no ba-",
+    "jara el precio de venta por cua-",
+    "dra cuadrada de mil trecientos",
+    "pesos moneda corriente.",
+    "En la ciudad de Mercedes á",
+    "cinco de Diciembre de mil ochocien-",
+    "tos ochenta y ocho, por ante el escri-",
+    "bano Graz, D.n Liborio Esquivel ven-",
+    "dió á D.n Ricardo A. Muñiz una",
+    "fraccion de campo compuesta de cua-",
+    "trocientas veinte y cuatro hectareas vein-",
+    "tinueve areas cuatro centiareas y",
+    "veinticinco centímetros cuadrados,",
+    "situada en el partido de Giles y cuyas",
+    "dimensiones son; al Nord Este dos mil",
+    "setecientos setenta y nueve metros docien-",
+    "tos veinte milímetros; al Sud Este mil",
+    "quinientos treinta metros cuatrocientos",
+    "cuarenta milímetros; al Sud Oeste",
+    "dos mil setecientos ochenta y un metros;",
+    "al Nord Oeste mil quinientos treinta",
+    "metros cuatrocientos ochenta milímetros.",
+    "Este fué vendido en la suma de",
+    "treinta y dos mil seiscientos ochenta y",
+    "[sigue en f. 2; cierre de renglón con dos rayas]"
+   ],
+   "interpretacion": "La autorización judicial se concede «siempre que no bajara el precio de venta por cuadra cuadrada de mil trecientos pesos moneda corriente». El 5 de diciembre de 1888, en Mercedes, ante el escribano Graz, Liborio Esquivel vende a RICARDO A. MUÑIZ (el mismo agrimensor que luego mide) 424 ha 29 a 4 ca 25 dm², con lados NE 2779,22 m, SE 1530,44 m, SO 2781 m y NO 1530,48 m, por 32 688 $ m/n. Verificado en python: 424,290425 ha = 251,446 cuadras de 150 varas (vara 0,866 m) y 251,446 × 130 = 32 688,0: el precio es EXACTAMENTE 130 $ m/n por cuadra (frente a 1300 $ m/c del piso judicial: ¿coincidencia decimal o confusión de moneda del copista?)."
+  },
+  {
+   "titulo": "Folio 2 · linderos del título y reventa a Oostendorp y C.ª (La Plata, 28/6/1890)",
+   "img": "img/f/156/07.jpg",
+   "fuente": "IMG_0394.JPG (mitad derecha)",
+   "nota": "Media página derecha de IMG_0394; sello «FOJA 2». El borde derecho del último renglón se completó con un recorte ampliado.",
+   "lineas": [
+    "[Sello: «FOJA 2»]",
+    "ocho pesos moneda nacional, y recono-",
+    "cía por linderos al Nord Este con",
+    "D.ña Aurelia Alegre (hoy Saturnino Unzué);",
+    "por el Sud Este con D.n Patricio Gannon;",
+    "por el Sud Oeste con D.ña Eustaquia",
+    "Cuello de Miró (hoy E. Bustos), con D.n",
+    "José María Casado, hoy sus herederos, y",
+    "con Doña Mónica Gutierrez, hoy Cecilio",
+    "Alfonsin y por el Nord Oeste con este",
+    "último y con los Señores Caprile y Picasso",
+    "hoy Oostendorp y C.ª",
+    "Con fecha veintiocho de Junio de mil",
+    "ochocientos noventa, en la ciudad de",
+    "La Plata y por ante el escribano D.n",
+    "Teodoro Catalá, D.n Ricardo Muñiz ven-",
+    "dió el referido campo en la suma de",
+    "veinte mil pesos á los Señores Oostendorp y",
+    "Compañía.",
+    "Mensura",
+    "En el Partido de San Andrés de Giles á",
+    "tres de Setiembre de mil ochocientos",
+    "noventa, comisionado por el Señor Juez",
+    "de 1.ª Instancia del Departamento del Centro,",
+    "[cierre de renglón con dos rayas]"
+   ],
+   "interpretacion": "Linderos del título de 1888, con sus reemplazos («hoy»): NE Aurelia Alegre (hoy Saturnino Unzué); SE Patricio Gannon; SO Eustaquia Cuello de Miró (hoy E. Bustos), José María Casado (hoy sus herederos) y Mónica Gutiérrez (hoy Cecilio Alfonsín); NO Alfonsín y Caprile y Picasso, «hoy Oostendorp y C.ª». El 28 de junio de 1890, en La Plata, ante el escribano Teodoro Catalá, Muñiz revende el campo a Oostendorp y Compañía por 20 000 $ (≈ 79,5 $ por cuadra: el 61 % de lo que pagó dieciocho meses antes, en plena crisis de 1890). Comienza la mensura: Giles, 3 de setiembre de 1890, comisión del Juez de 1.ª Instancia del Departamento del Centro."
+  },
+  {
+   "titulo": "Folio 3 vuelto · ángulos a las poblaciones vecinas, superficie y linderos",
+   "img": "img/f/156/08.jpg",
+   "fuente": "IMG_0395.JPG (mitad izquierda)",
+   "nota": "Media página izquierda de IMG_0395. «Patricio Ale[g]» leído con duda (puede ser abreviatura de Alegre).",
+   "lineas": [
+    "[Faltan en las tomas los folios intermedios (f. 2 v. y f. 3: descripción de la operación, rumbos y medidas de los lados, mojones A y B y comienzo de los ángulos de referencia del mojón B). El texto retoma a mitad de frase.]",
+    "[…Ca]sado; 65°2' con idem de Alvarez.",
+    "El del mojon C es, desde este hácia D,",
+    "á la derecha, 5°5' con la poblacion de",
+    "la viuda Carey; 33°10' con idem de",
+    "Patricio Alegre [?]; 63°30' con el extremo",
+    "N.O. del monte de P. Gannon.",
+    "El del mojon D es, desde este hácia",
+    "A, á la derecha, 108°34' con la po-",
+    "blacion de la viuda Carey; 41°15' con",
+    "la tapera de Alegre y 10°32' con la po-",
+    "blacion de Lucas Winter.",
+    "La forma del terreno es la de",
+    "un cuadrilátero irregular y encierra",
+    "una superficie de cuatrocientas vein-",
+    "tiseis hectareas, veinticuatro areas doce",
+    "centiareas (426 hts 24 as 12 cts).",
+    "Sus linderos son: por el Nord Este",
+    "D.n Saturnino Unzué, por el Sud Este D.n Pa-",
+    "tricio Gannon, por el Sud Oeste Cecilio",
+    "Alfonsin, Cipriano Casado, Remigio Ca-",
+    "sado y Evaristo Bustos, y por el Nord",
+    "Oeste Cecilio Alfonsin y los mismos",
+    "señores Oostendorp y C.ª",
+    "Presenciaron la operacion",
+    "[cierre de renglón con dos rayas]"
+   ],
+   "interpretacion": "FALTAN f. 2 v. y f. 3 (operación, rumbos y medidas de los lados, mojones A y B). El texto retoma en los ángulos de referencia: desde C (hacia D, a la derecha) 5° 5′ a la población de la viuda Carey, 33° 10′ a la de Patricio Alegre [?], 63° 30′ al extremo NO del monte de P. Gannon; desde D (hacia A) 108° 34′ a la población de la viuda Carey, 41° 15′ a la TAPERA DE ALEGRE y 10° 32′ a la población de Lucas Winter; el folio perdido terminaba con un ángulo a la población de [Ca]sado y 65° 2′ a la de Álvarez. Cuadrilátero irregular de 426 ha 24 a 12 ca. Linderos actuales: NE Saturnino Unzué; SE Patricio Gannon; SO Cecilio Alfonsín, Cipriano Casado, Remigio Casado y Evaristo Bustos; NO Alfonsín y los mismos Oostendorp y C.ª."
+  },
+  {
+   "titulo": "Folio 4 · conformidad de linderos, variación de la aguja y dictamen testado",
+   "img": "img/f/156/09.jpg",
+   "fuente": "IMG_0395.JPG (mitad derecha)",
+   "nota": "Media página derecha de IMG_0395; sello «FOJA 4».",
+   "lineas": [
+    "[Sello: «FOJA 4»]",
+    "de mensura todos los señores lin-",
+    "deros y se conformaron con ella fir-",
+    "mando al efecto la citacion y acta",
+    "de mensura que acompaño.",
+    "La variacion de la aguja del ins-",
+    "trumento con que se operó fué de",
+    "11°44' al Este.",
+    "Ricardo A. Muñiz [firma y rúbrica]",
+    "[Sello oval: «DEPARTAMENTO DE INGENIEROS DE LA PROVINCIA — Entrada OCT 18 1890»]",
+    "[Dictamen, testado con trazos ondulados y cruzado por un sello rectangular en tinta roja: «TILDAD[O]» [?]]",
+    "Señor Juez:",
+    "Puede aprobarse la mensura practicada por el",
+    "Agrimensor Muñiz en terreno de propiedad",
+    "de los Señores Oostendorp y C.ª en el partido de Giles.",
+    "El exceso de una hectarea noventa y [?] nueve areas",
+    "diez y siete centiareas de que habla la ley de 14",
+    "de Febrero del presente año",
+    "[rúbrica, sin nombre legible]"
+   ],
+   "interpretacion": "«Presenciaron la operación de mensura todos los señores linderos y se conformaron con ella firmando al efecto la citación y acta de mensura que acompaño» (esos papeles no están en el duplicado). Variación de la aguja: 11° 44′ al Este. Firma Ricardo A. Muñiz. Entrada en el Departamento de Ingenieros el 18/10/1890. Debajo, un primer dictamen («puede aprobarse… El exceso de una hectárea noventa y [?] nueve áreas diez y siete centiáreas de que habla la ley de 14 de Febrero del presente año») quedó inconcluso, TESTADO con trazos ondulados y cruzado por un sello rojo «TILDAD[O]» [?]: el escribiente no había escrito la conclusión (si el exceso alcanzaba o no el 1 %)."
+  },
+  {
+   "titulo": "Folio 4 vuelto y folio 5 · dictamen definitivo (21/10/1890) y hoja del plano",
+   "img": "img/f/156/10.jpg",
+   "fuente": "IMG_0396.JPG",
+   "nota": "Vista general; dictamen ampliado con recorte. En la mitad inferior se transparenta, invertido, el dictamen testado.",
+   "lineas": [
+    "[f. 4 v. — nuevo dictamen del Departamento de Ingenieros, que reemplaza al testado de f. 4]",
+    "H. Señor Juez",
+    "Puede aprobarse la mensura practi-",
+    "cada por el Agrimensor Muñiz en terreno de",
+    "propiedad de los S.res Oostendorp y C.a en el",
+    "partido de Giles.",
+    "El exceso de una hectárea no-",
+    "venta y nueve areas setenta centiareas es menor",
+    "que el uno por ciento (1 %) de que habla la",
+    "Ley de 14 de Febrero del corriente año.",
+    "Octubre 21/90",
+    "Julio C. Serna [firma y rúbrica]",
+    "[rúbrica: Lagos [?]]",
+    "Julian Romero [firma y rúbrica] — Cárlos M. Albarracin [firma y rúbrica]",
+    "[En la mitad inferior de f. 4 v. se transparenta, invertido, el dictamen testado de f. 4.]",
+    "[f. 5 — hoja del plano, plegada; sello «FOJA 5»; dorso en blanco.]"
+   ],
+   "interpretacion": "Dictamen rehecho: «El exceso de una hectárea noventa y nueve áreas setenta centiáreas es menor que el uno por ciento (1 %) de que habla la Ley de 14 de Febrero del corriente año», 21/10/1890; firman Julio C. Serna, una rúbrica (Lagos [?]), Julián Romero y Carlos M. Albarracín. Verificación: 426,2412 − 424,2904 = 1,9508 ha (0,46 %); el 1,9970 del Departamento supone un título de 424,2442 ha (¿«veinticuatro áreas cuarenta y dos» en el expediente?). En cualquier caso, muy por debajo del 1 % (4,24 ha): el exceso queda para el propietario sin pago al fisco. A la derecha, el pliego del plano (f. 5) plegado. No hay auto de aprobación en el duplicado."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de mensura (Muñiz, 1890) · vista general",
+   "img": "img/f/156/03.jpg",
+   "fuente": "IMG_0397.JPG (f. 5, pliego desplegado)",
+   "orientacion": "flecha del meridiano cruzando el plano de SE a NO (punta junto al vértice A); el lado largo corre NO-SE",
+   "interpretacion": "Plano a tinta con el campo coloreado en ocre: rectángulo A-B-C-D rotulado en letras de molde «OOSTENDORP Y C.ª», «Sup.: 426 hts 24 as 12 cts = 252.602 cds c.s» (cuadras cuadradas: 426,2412 ha / 16 874 m² = 252,602, verificado). Al NE «S. UNZUÉ»; al SE «P. Gannon»; al NO, sobre A-B, «OOSTENDORP Y C.ª» (la ex estancia de Caprile y Picasso) y, más al S, «C. ALFONSIN» (escrito dos veces, una a lápiz); al SO, en fajas perpendiculares a B-C, «C. Casado», «R. Casado» y «E. Bustos». Escala gráfica en metros (0-1500, con talón subdividido) y firma «Ricardo A. Muñiz». No dibuja poblaciones, montes ni aguas: el plano es puramente geométrico.",
+   "referencias": [
+    [
+     "A",
+     "Vértice N, contra Oostendorp y C.ª (ex Caprile y Picasso) y S. Unzué"
+    ],
+    [
+     "B",
+     "Vértice O, contra Cecilio Alfonsín"
+    ],
+    [
+     "C",
+     "Vértice S, contra E. Bustos y P. Gannon"
+    ],
+    [
+     "D",
+     "Vértice E, contra S. Unzué y P. Gannon"
+    ],
+    [
+     "A-B",
+     "S 45° 59′ O = 1531 m; progresiva 412,6 [?] (cambio de lindero Oostendorp/Alfonsín)"
+    ],
+    [
+     "B-C",
+     "S 45° 19′ E = 2786,56 m; progresivas 662 · 1662,4 · 2660,6 (Alfonsín | C. Casado | R. Casado | E. Bustos)"
+    ],
+    [
+     "C-D",
+     "N 45° 51′ E = 1530,92 m"
+    ],
+    [
+     "D-A",
+     "N 45° 19′ O = 2783 m; marca 1300 [?] sin lindero asociado visible"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle del plano: rumbos, distancias y superficie",
+   "img": "img/f/156/04.jpg",
+   "fuente": "IMG_0398.JPG",
+   "orientacion": "toma de detalle del mismo pliego",
+   "interpretacion": "Ampliación del rectángulo con las leyendas de los cuatro lados (las de A-B y D-A escritas invertidas, leídas con recorte girado) y las progresivas sobre B-C. Verificado en python: con estos rumbos y distancias el polígono cierra a 5 mm y encierra 426,2389 ha (23 m² menos que la cifra declarada), lo que indica que los valores del plano son los ya compensados del cálculo. Los ángulos interiores rondan los 88° 42′-91° 18′: es la hijuela trapezoidal de 1878 (084) casi rectangular.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Los folios conservados no nombran aguas, caminos ni accidentes; el paisaje aparece sólo en los ángulos de referencia desde los mojones: la POBLACIÓN DE LA VIUDA CAREY (vista desde C y desde D), la de Patricio Alegre [?], el MONTE DE P. GANNON (su extremo NO), la población de Lucas Winter, la de [Ca]sado y la de Álvarez, y una TAPERA DE ALEGRE. La tapera es el dato más elocuente: en 1878 este era el campo de los Alegre (084), en 1890 la casa familiar está abandonada y el campo pasó, por la venta del viudo, a una sociedad comercial. Es un paisaje de estancias y puestos de cría ovina y vacuna («campo de pastoreo» en el título), con montes de árboles plantados como referencia visual."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Comisión del Juez de 1.ª Instancia del Departamento del Centro; «presenciaron la operación de mensura todos los señores linderos y se conformaron con ella firmando al efecto la citación y acta de mensura que acompaño»: el ritual de conformidad sigue vigente pero ya no se transcribe, se adjunta (y no está en el duplicado). La venta de los menores exige VENIA JUDICIAL con un precio mínimo por cuadra, que protege la legítima materna frente al padre administrador. El trámite ante el Departamento de Ingenieros muestra su lado burocrático: un primer dictamen inconcluso se testa y se rehace en la vuelta del folio."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Variación de la aguja declarada: 11° 44′ al Este (la misma familia que Schuster 11° 42′ en 052 y 084, 1869-1878, sobre el mismo bloque). Rumbos al minuto y distancias al centímetro en el plano; el título de 1888 da milímetros (2779,220; 1530,440; 1530,480). Verificado en python: cierre del polígono 0,005 m; área 426,2389 ha frente a 426,2412 declaradas; 252,602 cuadras cuadradas con vara de 0,866 m. Referencias angulares desde cada mojón a poblaciones, montes y taperas, medidas a la derecha de la línea siguiente, como en los demás trabajos de los Muñiz."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Convivencia de sistemas: el título judicial fija el piso de venta «por cuadra cuadrada» en pesos moneda corriente (1300 $ m/c), la escritura de 1888 da la superficie en hectáreas, áreas, centiáreas y centímetros cuadrados (424 ha 29 a 4 ca 25 dm²) y el precio en pesos moneda nacional, y el plano vuelve a traducir a «cuadras cuadradas» (252,602) para los lectores rurales. El precio de 1888 es exactamente 130 $ m/n por cuadra (251,446 cuadras × 130 = 32 688). El exceso se mide contra el 1 % de la ley del 14/2/1890 (como en 154-155)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena: Bernardo Gutiérrez (024) → hijuela de Ángela Gutiérrez de Alegre → división de 1878 entre sus hijas (084) → Dolores Alegre (de Esquivel) → sus hijos menores Rafael Mariano y Dolores Esquivel Alegre (hijuelas 2.ª y 3.ª, legítima materna) → venta del padre Liborio Esquivel con venia judicial al agrimensor Ricardo A. Muñiz (Mercedes, 5/12/1888, 32 688 $ m/n) → reventa a Oostendorp y C.ª (La Plata, 28/6/1890, 20 000 $). El agrimensor-comprador-revendedor es un caso nuevo en el corpus: Muñiz conoce el campo por la familia de agrimensores (José M.ª Muñiz midió a la vecina Miró en 1878, 092), compra en el auge de 1888 y vende con fuerte pérdida nominal en la crisis de 1890, a una sociedad que ya poseía la estancia lindera de Caprile y Picasso. Concentración: Oostendorp y C.ª suma al menos 1635 + 426 ha en el rincón SO. Los vecinos también rotaron: Aurelia Alegre → Saturnino Unzué; Eustaquia Cuello de Miró → Evaristo Bustos; José M.ª Casado → sus herederos Cipriano y Remigio; Mónica Gutiérrez → Cecilio Alfonsín."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "084 (Schuster 1878: hijuela de Dolores 426 ha, ancho 1530,48 m = el lado NO del título de 1888; Aurelia 434 ha al NE, hoy Unzué; divisorias S 45° 36′ E de 2774-2791 m, aquí D-A N 45° 19′ O 2783 m); 024 (campo de Bernardo Gutiérrez, 1859); 052 (Caprile y Picasso, Schuster 1869: la estancia que en 1890 es de Oostendorp y C.ª, lindera al NO); 092 (Eustaquia Cuello de Miró, José M.ª Muñiz 1878: la faja lindera al SO, que tenía al E a Dolores Alegre y a Patricio Gannon; hoy E. Bustos); 128 (herederos de Pedro Casado, Schuster 1883: Cipriano y Remigio Casado, nietos de José M.ª Casado, linderos SO; lagunas sobre la línea de Cecilio Alfonsín); 089 (A. H. Sala) y 100 (Pablo Bustos, Bernardo Carey); 152 (Ricardo Muñiz 1888-89, remensura del quinto lote de B. Gutiérrez); 154-155 (1890: ley del 14/2/1890 sobre excedentes)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Faltan en las tomas f. 2 v. y f. 3 (rumbos y medidas en el terreno, mojones A y B, primeras visuales), la citación y el acta de mensura (que Muñiz dice acompañar) y el auto de aprobación. Dudas: «Patricio Ale[g]re» [?]; la rúbrica del D. I. (¿Lagos?); el número 3.304.444 [?] de la portadilla; la marca 1300 sobre D-A y el 412,6 sobre A-B. El exceso del D. I. (1,9970 ha) no coincide con la resta texto-plano (1,9508 ha): ¿el expediente daba 424 ha 24 a 42 ca? ¿Quién era Oostendorp (comerciante holandés o alemán de Buenos Aires)? Para el GIS: el rectángulo es la hijuela de Dolores de 084, con rumbos de 1890 y variación 11° 44′ E; la estancia de la viuda Carey y el monte de Gannon son puntos de control posibles."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Oostendorp y Compañía",
+   "rol": "Propietarios",
+   "texto": "Sociedad compradora del campo en 1890 y, ya antes, de la estancia de Caprile y Picasso (052, 1635 ha) lindera al NO. El apellido es neerlandés; no se hallaron datos de la firma en la búsqueda web. Probable casa de comercio o sociedad ganadera de Buenos Aires que invierte en tierra en el rincón SO del partido.",
+   "fuentes": "Este duplicado; Ficha 052; búsqueda web 14/11/2026 sin resultados."
+  },
+  {
+   "nombre": "Ricardo A. Muñiz",
+   "rol": "Agrimensor; comprador y vendedor del campo",
+   "texto": "Agrimensor activo en Giles a fines de la década de 1880 (Ficha 152, Petrona Gutiérrez de Molina, 1888-89, y esta). Compró el campo a Liborio Esquivel en 1888 y lo revendió a Oostendorp y C.ª en 1890 antes de medirlo para ellos. Probablemente pariente (¿hijo?) de José M.ª Muñiz, agrimensor de la zona desde la década de 1860 (036, 083, 092, 103, 104, 122), sin confirmación documental.",
+   "fuentes": "Este duplicado; fichas 152, 092."
+  },
+  {
+   "nombre": "Liborio Esquivel",
+   "rol": "Vendedor, padre y administrador de los menores",
+   "texto": "Viudo de Dolores Alegre; pidió autorización al juez de la testamentaria para vender la parte de sus hijos y la vendió a Muñiz en Mercedes el 5/12/1888 ante el escribano Graz.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Rafael Mariano y Dolores Esquivel Alegre",
+   "rol": "Herederos menores",
+   "texto": "Hijos de Liborio Esquivel y de Dolores Alegre; recibieron el campo en las hijuelas 2.ª y 3.ª por su legítima materna (62 208,20 $ m/c).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Dolores Alegre (de Esquivel)",
+   "rol": "Antecesora (inferida)",
+   "texto": "Hija de Ángela Gutiérrez de Alegre; adjudicataria en 1878 de la primera hijuela (426 ha, 1530,48 m de ancho) de la división de Schuster (084). No se la nombra en los folios conservados: se la infiere por el apellido de sus hijos, el ancho idéntico y la vecina Aurelia Alegre.",
+   "fuentes": "Ficha 084; este duplicado."
+  },
+  {
+   "nombre": "Aurelia Alegre",
+   "rol": "Lindera ne (anterior)",
+   "texto": "Hermana de Dolores; adjudicataria de la segunda hijuela de 084 (434 ha), en 1890 ya de Saturnino Unzué.",
+   "fuentes": "Ficha 084; este duplicado."
+  },
+  {
+   "nombre": "Saturnino Unzué",
+   "rol": "Lindero ne",
+   "texto": "Gran propietario de la familia Unzué, presente en el SO del partido desde los sobrantes de 1840 (Unzué é hijos, 801,61 ha) y las lonjas Lima (124); compra la hijuela de Aurelia Alegre.",
+   "fuentes": "Fichas 124, 125 y bloque Lima de METODO."
+  },
+  {
+   "nombre": "Patricio Gannon",
+   "rol": "Lindero se",
+   "texto": "Estanciero irlandés del rincón SO, lindero de las hijuelas Alegre desde 1878 (084) y de la faja Miró (092, «antes J. M.ª Echevarría»); su monte de árboles sirve de referencia visual desde el mojón C.",
+   "fuentes": "Fichas 084, 092; este duplicado."
+  },
+  {
+   "nombre": "Cecilio Alfonsín",
+   "rol": "Lindero so y no",
+   "texto": "Lindero de los Casado y de los Alegre (084, 128); en 1890 tiene la tierra que fue de Mónica Gutiérrez. La «pulpería de Alfonsín» aparece en 153.",
+   "fuentes": "Fichas 084, 128, 153; este duplicado."
+  },
+  {
+   "nombre": "Cipriano y Remigio Casado",
+   "rol": "Linderos so",
+   "texto": "Nietos de José M.ª Casado, adjudicatarios de quintos de la herencia de Pedro Casado (Schuster 1883, 128); en el plano, fajas de ≈ 1000 m sobre B-C.",
+   "fuentes": "Ficha 128; este duplicado."
+  },
+  {
+   "nombre": "Evaristo Bustos",
+   "rol": "Lindero so",
+   "texto": "Sucesor de Eustaquia Cuello de Miró (092) en el extremo SO del lado B-C; de la familia Bustos del rincón SO (100, Pablo Bustos).",
+   "fuentes": "Fichas 092, 100; este duplicado."
+  },
+  {
+   "nombre": "Eustaquia Cuello de Miró, José María Casado, Mónica Gutiérrez",
+   "rol": "Linderos del título de 1888",
+   "texto": "Vecinos SO según la escritura de 1888, ya reemplazados en 1890 por Bustos, los herederos Casado y Alfonsín. Miró: faja medida por José M.ª Muñiz en 1878 (092).",
+   "fuentes": "Fichas 061, 092, 128."
+  },
+  {
+   "nombre": "Viuda Carey, Patricio Alegre [?], Lucas Winter, Álvarez",
+   "rol": "Pobladores vecinos (visuales)",
+   "texto": "Dueños de las poblaciones a las que Muñiz toma ángulos desde los mojones. La viuda Carey es probablemente Catalina H. de Carrey (084) o la viuda de Bernardo Carey (100); Patricio Alegre [?] sería un pariente de las hijuelas Alegre. Lucas Winter: primera aparición en el corpus.",
+   "fuentes": "Fichas 084, 100; este duplicado."
+  },
+  {
+   "nombre": "Graz; Teodoro Catalá",
+   "rol": "Escribanos",
+   "texto": "Graz autorizó la venta de 1888 en Mercedes; Teodoro Catalá la reventa de 1890 en La Plata. Sin otros datos.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Julio C. Serna, Julián Romero, Carlos M. Albarracín",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firman el dictamen del 21/10/1890. Serna es el agrimensor de la Ficha 062 (1872) y firma también el informe del D. I. del 30/5/1890 (154); Romero y Albarracín aparecen por primera vez en el corpus. Una cuarta rúbrica se lee con duda «Lagos».",
+   "fuentes": "Fichas 062, 154; este duplicado."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/156/02.jpg",
+  "fuente": "IMG_0392.JPG",
+  "lineas": [
+   "Año 1890 — Giles 156",
+   "Duplicado N.º",
+   "Diligencia de",
+   "Mensura de un",
+   "campo de los Señores",
+   "Oostendorp y C.ª",
+   "Giles",
+   "1890",
+   "Agrimensor Ricardo A. Muñiz",
+   "3.304.444 [?] (a lápiz, al pie)"
+  ]
+ },
+ "titulo": "Oostendorp y Compañía",
+ "estado": "Transcripta (6 hojas, 134 renglones), 2 láminas"
+}

@@ -1,0 +1,822 @@
+{
+ "carpeta": "152",
+ "carpeta_nombre": "Carpeta 152",
+ "archivo": "Ficha 152 - Petrona Gutiérrez de Molina (1889).docx",
+ "resumen": {
+  "N.º de duplicado": "152 (San Andrés de Giles); archivo 2-207-330",
+  "Propietario / solicitante": "Petrona Gutiérrez de Molina",
+  "Agrimensor": "Ricardo Muñiz",
+  "Año": "1888-1889",
+  "Fecha de la diligencia": "29/10/1888; plano 1889; D. I. entrada 29/10/1889, vista 2/11/1889",
+  "Ubicación": "Bloque Gutiérrez, entre la línea de Pirán (NO) y la de Alfonsín (SE)",
+  "Orden judicial": "Juez de 1.ª Instancia Dr. Demaría, secretario Nemesio López",
+  "Vendedor / antecesor": "Bernardo Gutiérrez (quinto lote, 1859) y testam. de Victorina Gutiérrez",
+  "Linderos citados": "Doulon, Dunn, Iriberry, C. P. de Madariaga, Mansilla, Gaynor, C. Alfonsín, Olivera, Graic",
+  "Medidas": "A-B 1499,8; B-C 745; C-D 4033; D-H 6373,4; H-I 4112; I-A 6910,4 m",
+  "Rumbos": "N 46° 37′ O / N 43° 8′ E / N 57° 32′ E / S 44° 30′ O; var. 11° 42′ NE",
+  "Referencia de archivo": "AHG PBA, duplicado 152 de Giles; arranque en mojón A de Schuster 1869"
+ },
+ "metricas": {
+  "superficie_ha": "3095,44 (total); 926,73 (remanente)",
+  "hitos": "mojón A de Schuster (1869); mojón de fierro F; estancia de Doulon",
+  "aguas": "no se mencionan"
+ },
+ "sintesis": "Ricardo Muñiz remide en 1888 el campo de Petrona Gutiérrez de Molina: el quinto lote de la herencia de su padre Bernardo Gutiérrez (0,74 legua², 1859) y la parte de la testamentaría de Victorina Gutiérrez que ella y su esposo Olegario Molina tuvieron en condominio (1069,2 ha, en parte compradas a los Potes). Arranca del mojón A de Schuster (1869), cierra el total en 3095,44 ha (excedente de 0,92 %, dentro de tolerancia) y verifica las cinco ventas de 1871-1888 a Dunn, Iriberry, Doulon, Mansilla y Gaynor, todas amojonadas antes por Schuster. Le quedan 926,73 ha en un polígono de diez lados. Variación 11° 42′ NE; vista favorable del D. I. el 2/11/1889.",
+ "caratula": {
+  "img": "img/f/152/01.jpg",
+  "fuente": "IMG_0314.JPG",
+  "campos": [
+   [
+    "N.º",
+    "152"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Doña Petrona Gutierrez de Molina"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Ricardo Muñiz"
+   ],
+   [
+    "Año",
+    "1889"
+   ],
+   [
+    "Tramitado en el Juzgado / Secretaría",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · encabezado y títulos",
+   "img": "img/f/152/07.jpg",
+   "fuente": "IMG_0316.JPG",
+   "nota": "Hoja suelta fotografiada acostada (se lee girada 90°); sello «FOJA 1».",
+   "lineas": [
+    "[Sello «FOJA 1»]",
+    "Diligencia de Mensura de un cam-",
+    "po perteneciente á Doña Petrona Gutierrez",
+    "de Molina, situado en el Partido de",
+    "Giles.",
+    "Títulos",
+    "Los títulos que acreditan la propiedad",
+    "de Doña Petrona Gutierrez de Molina consis-",
+    "ten por una parte en la hijuela de adjudica-",
+    "cion de los bienes de su padre Don Bernar-",
+    "do Gutierrez que dice así en una de sus cláu-",
+    "sulas.",
+    "Idem ciento sesenta mil pesos que im-",
+    "porta el quinto lote de terreno que le está",
+    "adjudicado segun consta del plano de f. 19;",
+    "cuya area se compone de setenta y cuatro",
+    "centésimos de legua cuadrada.",
+    "En los autos sobre mensura seguidos",
+    "por Doña Victorina Gutierrez que tramita-",
+    "ron por la Secretaría de Don Luis Lacasa,",
+    "se encuentran hechas las siguientes adjudi-",
+    "caciones: Hijuela primera = Para la he-",
+    "redera Doña Petrona Gutierrez se le adju-",
+    "dica entre otras cosas noventa y ocho mil",
+    "quinientos pesos moneda corriente sobre"
+   ],
+   "interpretacion": "Encabezado: «Diligencia de Mensura de un campo perteneciente á Doña Petrona Gutierrez de Molina, situado en el Partido de Giles». Bajo «Títulos», Muñiz cita dos orígenes: (1) la hijuela de los bienes de su padre Bernardo Gutiérrez (repartición de 1859, ficha 024): el QUINTO LOTE, tasado en 160 000 pesos, de 0,74 legua cuadrada, «según consta del plano de f. 19»; (2) los autos de mensura seguidos por Victorina Gutiérrez (secretaría de Luis Lacasa; ficha 123), donde la hijuela primera da a Petrona 98 500 pesos m/c sobre los 985 000 en que se valoró el campo."
+  },
+  {
+   "titulo": "Folio 1 vuelto · las compras de Olegario Molina",
+   "img": "img/f/152/08.jpg",
+   "fuente": "IMG_0317.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "los novecientos ochenta y cinco mil en que",
+    "está valorado el campo de la testamenta-",
+    "ría ubicado en el Partido de Giles.",
+    "Don Olegario Molina esposo de",
+    "Doña Petrona Gutierrez compró sus partes",
+    "á otros tres herederos de esta testamentaría co-",
+    "mo consta por la hijuela que dice así: Hi-",
+    "juela doce = Para Don Olegario Molina",
+    "se le adjudica como secionario [sic] de los he-",
+    "rederos Don Zacarias, Don Marcelo y Don",
+    "Angel Potes, con arreglo á la partida ter-",
+    "cera inciso trece, entre otras cosas doscientos",
+    "noventa y cinco mil quinientos pesos mo-",
+    "neda corriente sobre los novecientos ochen-",
+    "ta y cinco mil en que ha sido valorado",
+    "el campo de la testamentaría ubicado en",
+    "el Partido de Giles.",
+    "La ubicacion del campo á que se",
+    "refieren las anteriores adjudicaciones, es, se-",
+    "gun el mismo documento, la siguiente:",
+    "Doña Petrona Gutierrez dos millones seis-",
+    "cientos setenta y tres mil (2,673,000) metros",
+    "cuadrados igual á tres millones quinien-",
+    "tos sesenta y cuatro mil doscientos nueve",
+    "varas cuadradas (3,564,209 vs. cds) ó sean",
+    "ciento cincuenta y ocho cuadras cuadradas"
+   ],
+   "interpretacion": "Olegario Molina, esposo de Petrona, compró las partes de tres herederos de la testamentaría de Victorina: la hijuela doce le adjudica, como cesionario de Zacarías, Marcelo y Ángel Potes («partida tercera inciso trece»), 295 500 pesos sobre los mismos 985 000. Es la lógica de los DÉCIMOS tasados en pesos que ya se vio en 123: la tierra circula como cuota de valor antes de tener forma. Ubicación según el mismo documento: Petrona 2 673 000 m² = 3 564 209 v² = 158,409 cuadras cuadradas (verificado)."
+  },
+  {
+   "titulo": "Folio 2 · superficie de los títulos y primera venta",
+   "img": "img/f/152/09.jpg",
+   "fuente": "IMG_0317.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello «FOJA 2»; a lápiz: 3]",
+    "con cuatrocientos nueve milésimos (158,409",
+    "cds cds). Don Olegario Molina ocho",
+    "millones diez y nueve mil (8,019,000) me-",
+    "tros cuadrados ó sean diez millones seiscien-",
+    "tos noventa y dos mil seiscientos veinte y",
+    "siete varas cuadradas mas tres décimos",
+    "(10,692,627.3 vs. cds) igual á cuatrocientos seten-",
+    "ta y cinco mas doscientos veinte y ocho",
+    "milésimos cuadras cuadradas (475,228 cds cds).",
+    "Estas fracciones han sido medidas",
+    "en un solo cuerpo á pedido de los inte-",
+    "resados.",
+    "Por lo tanto Doña Petrona Gutier-",
+    "rez y Don Olegario Molina poseian una",
+    "superficie de veinte y un millon seiscien-",
+    "tos ochenta y siete mil ciento veinte y",
+    "tres metros cuadrados (21,687,123 m.c)",
+    "igual á mil ochocientos diez y siete cua-",
+    "dras cuadradas mas seiscientos treinta",
+    "y siete milésimos (1,817,637 cds, cds).",
+    "Las ventas hechas posteriormente",
+    "por Doña Petrona Gutierrez de Moli-",
+    "na son las siguientes:",
+    "1ª En Mercedes á siete de Agos-",
+    "to de mil ochocientos setenta y nueve",
+    "Doña Petrona Gutierrez de Molina"
+   ],
+   "interpretacion": "Olegario: 8 019 000 m² = 10 692 627,3 v² = 475,228 cuadras (verificado). «Estas fracciones han sido medidas en un solo cuerpo á pedido de los interesados» (es la mensura de Schuster de 1879, ficha 123). Total que el texto atribuye a ambos: «21,687,123 m.c» = 1817,637 cuadras. La cifra en metros es un ERROR DE COPIA: 1817,637 cuadras son 30 670 807 m² (f. 6: 3067 ha 08 a 07 ca); el total resulta de 0,74 legua² del padre (1184 cuadras = 19 978 828 m²) + 158,409 + 475,228 cuadras = 1817,637 (verificado en python). Comienza la lista de ventas: 1.ª en Mercedes, 7 de agosto de 1879."
+  },
+  {
+   "titulo": "Folio 2 vuelto · ventas a Mansilla (1879) y Gaynor (1888)",
+   "img": "img/f/152/10.jpg",
+   "fuente": "IMG_0318.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "[a lápiz: 4]",
+    "vendió ante el Escribano Ponsati á Don",
+    "Ygnacio Mansilla parte del terreno que",
+    "se le adjudicó por su hijuela en condomi-",
+    "nio con otra fraccion que vendió su espo-",
+    "so Don Olegario Molina. Esta parte ven-",
+    "dida consta segun nota márgen del espe-",
+    "diente de ochocientos veinte y seis mas siete",
+    "décimos (826.7 m) metros por el noreste",
+    "ochocientos dos mas siete décimos (802.7",
+    "mts) metros por el sudeste, cuatro mil",
+    "ciento diez y ocho mas cuarenta y seis",
+    "centésimos (4118.46 mts) metros por el",
+    "noroeste y cuatro mil doscientos noven-",
+    "ta y nueve mas seis décimos (4299.6 m)",
+    "metros por el sudoeste ó sea una super-",
+    "ficie de tres millones trescientos setenta",
+    "y cuatro mil ochocientos (3,374,800 mts",
+    "cds) metros cuadrados igual á doscientos",
+    "(200) cuadras cuadradas.",
+    "2º En Mercedes con fecha vein-",
+    "te y ocho de Marzo de mil ochocientos",
+    "ochenta y ocho ante el escribano Du-",
+    "fourg Doña Petrona Gutierrez de Mo-",
+    "lina representada por Don Amando",
+    "Molina vendió á Dn Pedro Gaynor",
+    "trescientos treinta y siete hectáreas cua-"
+   ],
+   "interpretacion": "1.ª venta ante el escribano Ponsati a Ignacio Mansilla: parte de la hijuela de Victorina, en condominio con otra fracción que vendió el esposo; según nota marginal del expediente 826,7 m al NE, 802,7 al SE, 4118,46 al NO y 4299,6 al SO = 3 374 800 m² = 200 cuadras. 2.ª en Mercedes, 28 de marzo de 1888, ante el escribano Dufourg: Petrona, REPRESENTADA POR AMANDO MOLINA (¿hijo?, Olegario ya no aparece), vende a Pedro Gaynor 337 ha 48 a 02 ca = 200 cuadras."
+  },
+  {
+   "titulo": "Folio 3 · venta a José Dunn (1871)",
+   "img": "img/f/152/11.jpg",
+   "fuente": "IMG_0318.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello «FOJA 3»; a lápiz: 5]",
+    "renta y ocho areas y dos centiareas (337 hc.",
+    "48 a. 02 cta) igual á doscientas (200 cds. cds)",
+    "cuadras cuadradas del campo que le corres-",
+    "pondia por su hijuela y la de su esposo",
+    "Don Olegario Molina.",
+    "Tanto esta venta como la anterior",
+    "fueron hechas en las fracciones que fué",
+    "de la testamentaría de Doña Victorina",
+    "Gutierrez.",
+    "3ª Con fecha tres de Octubre de mil",
+    "ochocientos setenta y uno en Mercedes",
+    "y por ante el Escribano Ponsati Doña",
+    "Petrona Gutierrez de Molina otorgó escri-",
+    "tura de venta á favor de Dn José Dunn",
+    "de una fraccion del campo que por su",
+    "hijuela le correspondia compuesta su",
+    "estension de mil doscientos setenta y seis",
+    "mas cuatrocientos ochenta y cuatro mi-",
+    "lésimos (1276.484 m) metros por el Norte,",
+    "mil doscientos cuarenta y siete mas",
+    "novecientos seis milésimos (1247.906 m)",
+    "metros por el Sud, tres mil setecientos",
+    "cuatro mas setecientos cuarenta y ocho",
+    "milésimos (3704.748 ms) metros por el",
+    "Este y cuatro mil treinta y dos mas no-",
+    "vecientos sesenta y dos milésimos (4032.962 m)"
+   ],
+   "interpretacion": "Ambas ventas anteriores se hicieron en la fracción ex Victorina. 3.ª: el 3 de octubre de 1871, en Mercedes ante Ponsati, Petrona vende a José Dunn una fracción de su hijuela paterna: 1276,484 m al N, 1247,906 al S, 3704,748 al E y 4032,962 al O."
+  },
+  {
+   "titulo": "Folio 3 vuelto · ventas a Iriberry y Doulon (1873)",
+   "img": "img/f/152/12.jpg",
+   "fuente": "IMG_0319.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "[a lápiz: 6]",
+    "metros por Oeste que componen cuatro-",
+    "cientos ochenta y una hectárea treinta",
+    "y una area veinte y seis centiareas",
+    "(481 hc. 31 a. 26 cta) igual á doscientas",
+    "ochenta y cinco mas doscientos treinta",
+    "y nueve milésimos cuadras cuadradas",
+    "(285.239 cds. cds).",
+    "4º En Mercedes con fecha veinte y",
+    "siete de Enero de mil ochocientos setenta",
+    "y tres ante el Escribano Ponsati, Doña Pe-",
+    "trona Gutierrez de Molina vendió á Dn",
+    "Bautista Iriberry y su esposa Doña Ma-",
+    "riana Camadro [?] un área de tierra compues-",
+    "ta de nueve millones de varas cuadradas",
+    "(9,000,000 vs cds) igual á cuatrocientas",
+    "cuadras cuadradas (400 cds cds) ó sean",
+    "seiscientos setenta y cuatro hectáreas no-",
+    "venta y seis areas (674 h. 96 a 00) del cam-",
+    "po que le corresponde por su hijuela.",
+    "5º Con fecha once de Febrero",
+    "de mil ochocientos setenta y tres en Mer-",
+    "cedes y ante el Escribano Ponsati Doña",
+    "Petrona Gutierrez de Molina otorgó es-",
+    "critura de venta á favor de Don Loren-",
+    "zo Doulon de una fraccion de campo",
+    "que por su título le corresponde com-"
+   ],
+   "interpretacion": "Dunn: 481 ha 31 a 26 ca = 285,239 cuadras (el trapecio de los lados del título da ≈ 488 ha: los lados son aproximados). 4.ª: 27 de enero de 1873, ante Ponsati, a Bautista Iriberry y su esposa Mariana Camadro [?]: 9 000 000 v² = 400 cuadras = 674 ha 96 a. 5.ª: 11 de febrero de 1873, ante Ponsati, a Lorenzo Doulon (comienza)."
+  },
+  {
+   "titulo": "Folio 4 · Doulon; acta de mensura (29/10/1888)",
+   "img": "img/f/152/13.jpg",
+   "fuente": "IMG_0319.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello «FOJA 4»; a lápiz: 7]",
+    "puesta de mil cuatrocientos ochenta y nue-",
+    "ve mas quinientos veinte milésimos me-",
+    "tros (1489.520 mts) de frente por dos mil",
+    "doscientos cincuenta y uno mas seiscien-",
+    "tos milésimos metros (2251.600 mts) de fon-",
+    "do igual á trescientos treinta y siete hectá-",
+    "reas cuarenta y ocho areas (337 h. 48 a 00 ct)",
+    "ó sean doscientas cuadras cuadradas (200",
+    "cds cds).",
+    "Estas ventas Nºs 3, 4 y 5 forman par-",
+    "te del terreno que heredó Doña Petrona",
+    "de su padre Dn Bernardo Gutierrez.",
+    "Mensura",
+    "En el Partido de Giles á veinte y",
+    "nueve de Octubre de mil ochocientos ochen-",
+    "ta y ocho autorizado por el Señor Juez",
+    "de 1ª Instancia Doctor Demaría ante",
+    "el Secretario Dn Nemesio Lopez, para",
+    "medir el terreno perteneciente á Doña",
+    "Petrona Gutierrez de Molina situado",
+    "en este Partido previos los requisitos",
+    "del caso, procedí á la operacion.",
+    "Para medir el terreno que actual-",
+    "mente tiene Doña Petrona G. de Molina"
+   ],
+   "interpretacion": "Doulon: 1489,52 m de frente por 2251,6 de fondo = 337 ha 48 a = 200 cuadras (el producto da 335,4 ha: diferencia de 0,6 %). Las ventas 3, 4 y 5 salen de la herencia paterna. Acta: «En el Partido de Giles á veinte y nueve de Octubre de 1888», autorizado por el Juez de 1.ª Instancia Dr. Demaría ante el secretario Nemesio López, previos los requisitos del caso, Muñiz procede a la operación."
+  },
+  {
+   "titulo": "Folio 4 vuelto · método y arranque en el mojón A de Schuster",
+   "img": "img/f/152/14.jpg",
+   "fuente": "IMG_0320.JPG",
+   "nota": "Página izquierda; a la derecha asoma el plano plegado (Madariaga).",
+   "lineas": [
+    "[a lápiz: 8]",
+    "me resolví previamente á medir el",
+    "total del campo que fué de ella y de",
+    "su esposo Don Olegario Molina, y me-",
+    "dir en seguida las cinco fracciones ven-",
+    "didas por ella á Lorenzo Doulon, José",
+    "Dunn, Bautista Iriberry, Pedro Gaynor",
+    "é Ygnacio Mansilla, las que han sido",
+    "amojonadas extrajudicialmente por el",
+    "Agrimensor Don Cárlos Schuster. Al",
+    "efecto tomé por punto de arranque el",
+    "mojon letra A del plano, de donde tam-",
+    "bien arrancó la mensura judicial que",
+    "practicó el mismo Agrimensor en once",
+    "de Noviembre de mil ochocientos sesen-",
+    "ta y nueve de la fraccion que heredó",
+    "Doña Petrona G. de Molina de su",
+    "padre. Desde ese mojon marcado",
+    "con la letra A en el plano adjunto,",
+    "al Norte 46° 37′ Oeste medí, dividiendo",
+    "entre Olivera y Doulon, mil cuatro-",
+    "cientos noventa y nueve metros mas",
+    "ocho decímetros (1499.8 mts) hasta el",
+    "esquinero de Doulon y Olivera, costa-",
+    "nero de Graic, letra B. Al Norte 43°",
+    "8′ Este encontré setecientos cuarenta",
+    "y cinco metros (745 mts) hasta C."
+   ],
+   "interpretacion": "Muñiz decide medir primero el TOTAL del campo que fue de Petrona y de Olegario y luego las cinco fracciones vendidas, «amojonadas extrajudicialmente» por Carlos Schuster. Arranca del mojón A, el mismo de la mensura judicial de Schuster del 11/11/1869 (ficha 053). A-B N 46° 37′ O 1499,8 m dividiendo entre Olivera y Doulon, hasta el esquinero de Doulon y Olivera, «costanero de Graic» (Archibald Craig, ficha 053); B-C N 43° 8′ E 745 m."
+  },
+  {
+   "titulo": "Folio 5 · línea de Pirán: D-E-F-G-H",
+   "img": "img/f/152/15.jpg",
+   "fuente": "IMG_0325.JPG",
+   "nota": "Página derecha de la toma; la izquierda es el dorso del plano.",
+   "lineas": [
+    "[Sello «FOJA 5»; a lápiz: 9]",
+    "esquinero de Graic y Dunn. Al Norte",
+    "46° 35′ Oeste, por la division de Graic",
+    "y Dunn medí cuatro mil treinta y",
+    "tres metros (4033 mts) hasta la línea",
+    "de Piran letra D. De aquí midiendo",
+    "al Norte 57° 32′ Este hallé el esquinero",
+    "de Dunn y de Iriberry, letra E, á los",
+    "mil doscientos setenta y siete metros",
+    "(1277 mts); el esquinero de Iriberry",
+    "y de Doña Petrona G. de Molina,",
+    "letra F, á los tres mil ochocientos ochen-",
+    "ta y tres metros mas cuatro decíme-",
+    "tros (3883.4 mts), siendo este un mojon",
+    "de fierro, esquinero comun de la frac-",
+    "cion que heredó Doña Petrona G. de",
+    "Molina de sus padres y de la que",
+    "tuvo en condominio con su esposo,",
+    "proveniente de Doña Victorina Gu-",
+    "tierrez; el esquinero Norte de Doña",
+    "Petrona G. de Molina y Oeste de",
+    "Mansilla, á los cinco mil quinien-",
+    "tos cuarenta y siete metros (5547 mts);",
+    "letra G; y por último el esquinero de las",
+    "fracciones de Mansilla, letra H, hasta don-",
+    "de alcanzó el campo que tenian en condo-",
+    "minio Doña Petrona G. de Molina y su"
+   ],
+   "interpretacion": "C-D N 46° 35′ O 4033 m entre Graic y Dunn hasta la «línea de Pirán». Por ella, N 57° 32′ E: E esquinero Dunn-Iriberry a 1277 m; F, esquinero Iriberry-Petrona, a 3883,4 m, «un MOJÓN DE FIERRO», esquinero común de la fracción paterna y de la de Victorina; G, esquinero N de Petrona y O de Mansilla, a 5547 m; H, esquinero de las fracciones de Mansilla, a 6373,4 m."
+  },
+  {
+   "titulo": "Folio 5 vuelto · costados H-I e I-A",
+   "img": "img/f/152/16.jpg",
+   "fuente": "IMG_0326.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "[a lápiz: 10]",
+    "esposo, á los seis mil trescientos setenta",
+    "y tres metros mas cuatro decímetros",
+    "(6373.4 mts). Desde el mojon H, dividien-",
+    "do entre la fraccion comprada por Man-",
+    "silla á Doña Petrona G. de Molina y",
+    "entre otra comprada á las herederas de",
+    "Doña Victorina Gutierrez, al Sud 46° 22′",
+    "Este, encontré cuatro mil ciento doce me-",
+    "tros (4112 mts) hasta el mojon I. Des-",
+    "de este al Sud 44° 30′ Oeste hallé seis",
+    "mil novecientos diez metros mas cua-",
+    "tro decímetros (6910.4 mts) hasta el mo-",
+    "jon de arranque letra A, habiendo encon-",
+    "trado en esta línea el esquinero de Man-",
+    "silla y Gaynor letra J, á los ochocien-",
+    "tos dos metros mas cuatro decímetros",
+    "(802.4 mts); el esquinero de Gaynor",
+    "y Doña Petrona G. de Molina, letra",
+    "K. á los dos mil ciento un metro mas",
+    "cuatro decímetros (2101.4 mts); el esqui-",
+    "nero de las dos antiguas fracciones de",
+    "Doña Petrona G. de Molina y Doña",
+    "Victorina Gutierrez, letra Z, á los dos mil",
+    "cuatrocientos treinta y tres metros mas",
+    "cuatro decímetros (2433.4 mts); y el",
+    "esquinero de Doña Petrona G. de M."
+   ],
+   "interpretacion": "H-I S 46° 22′ E 4112 m, dividiendo la fracción que Mansilla compró a Petrona de otra que compró a las herederas de Victorina (Mansilla tiene dos campos contiguos). I-A S 44° 30′ O 6910,4 m sobre la línea de Alfonsín, con J (Mansilla-Gaynor) a 802,4, K (Gaynor-Petrona) a 2101,4, Z (límite de las dos fracciones antiguas: paterna y ex Victorina) a 2433,4 y L (Petrona-Doulon) a 4698,4 m. Cierre del polígono A-B-C-D-H-I verificado en python: 0,8 m; superficie 3095,12 ha."
+  },
+  {
+   "titulo": "Folio 6 · superficie total y excedente",
+   "img": "img/f/152/17.jpg",
+   "fuente": "IMG_0326.JPG (mitad derecha)",
+   "nota": "Llave a lápiz al margen sobre este párrafo (control del Departamento).",
+   "lineas": [
+    "[Sello «FOJA 6»; a lápiz: 11]",
+    "lina y de Doulon letra L, á los cua-",
+    "tro mil seiscientos noventa y ocho me-",
+    "tros mas cuatro decímetros (4698.4 mts).",
+    "Con esto quedaron medidas las dos",
+    "fracciones que fueron de Doña Petrona",
+    "G. de Molina, tanto la ABCDFZ que",
+    "heredó de sus padres como la FZIH que",
+    "heredó en parte de Doña Victorina Gu-",
+    "tierrez y en parte de su esposo. La super-",
+    "ficie total que existe entre mojones es de",
+    "tres mil noventa y cinco hectáreas cuaren-",
+    "ta y cuatro areas y treinta centiareas ó",
+    "sean mil ochocientas treinta y cuatro cua-",
+    "dras cuadradas con cuatrocientos cuaren-",
+    "ta milésimos de otra (3095 h. 44 a. 30 cta = 1834.",
+    "440 cds cds).",
+    "Como los títulos le dan, segun",
+    "se vé en el extracto que encabeza esta",
+    "diligencia tres mil sesenta y siete hectá-",
+    "reas ocho areas y siete centiareas ó sean",
+    "mil ochocientas diez y siete cuadras cua-",
+    "dradas con seiscientos treinta y siete mi-",
+    "lésimos de otra (3067 hs 08 as. 07 ctas = 1817.637",
+    "cds cds), resulta un pequeño excedente de",
+    "veinte y ocho hectáreas treinta y seis areas",
+    "y veinte y tres centiareas igual á diez y se[is]",
+    "[Al margen izquierdo, llave a lápiz que abarca el párrafo.]"
+   ],
+   "interpretacion": "Dos fracciones: ABCDFZ (paterna) y FZIH (ex Victorina). Total entre mojones: 3095 ha 44 a 30 ca = 1834,440 cuadras. Títulos: 3067 ha 08 a 07 ca = 1817,637 cuadras. Excedente: 28 ha 36 a 23 ca (0,92 %)."
+  },
+  {
+   "titulo": "Folio 6 vuelto · tolerancia; lote de Doulon",
+   "img": "img/f/152/18.jpg",
+   "fuente": "IMG_0327.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "[a lápiz: 12; al margen, trazos de lápiz]",
+    "cuadras cuadradas con ochocientos tres mi-",
+    "lésimos de otra (28 hs. 36 as. 23 ctas = 16.803 cds",
+    "cds) que está dentro de la tolerancia que",
+    "acuerdan las instrucciones de Agrimensores.",
+    "Ahora para medir las cinco fracciones",
+    "vendidas por Doña Petrona G. de Molina",
+    "y averiguar la superficie que le queda prin-",
+    "cipié por determinar la de Doulon. Colo-",
+    "cado en el mojon letra B, esquinero Oeste",
+    "de dicha fraccion, medí al Norte 43° 8′ Es-",
+    "te dos mil doscientos doce metros (2212",
+    "mts) hasta el esquinero Norte letra N,",
+    "habiendo pasado á los setecientos cuaren-",
+    "ta y cinco metros (745 mts) por el mojon",
+    "C y á los mil doscientos cuarenta y siete",
+    "metros (1247 mts) mas desde este mojon,",
+    "por el esquinero de Dunn y de Doña",
+    "Petrona G. de Molina, letra M. Desde N",
+    "dividiendo con Doulon y Doña Petrona",
+    "G. de Molina al Sud 46° 37′ Este hallé mil",
+    "quinientos cincuenta y dos metros mas cin-",
+    "co decímetros (1552.5 mts) hasta L sobre",
+    "la línea de Alfonsin. El trapezio ABNL",
+    "de Don Lorenzo Doulon tiene la mis-",
+    "ma superficie que sus títulos le dan:",
+    "trescientas treinta y siete hectáreas cua-"
+   ],
+   "interpretacion": "El excedente (= 16,803 cuadras; el cálculo exacto da 16,808) «está dentro de la tolerancia que acuerdan las instrucciones de Agrimensores»: no se trata como sobrante fiscal. Doulon: desde B, N 43° 8′ E 2212 m hasta N (pasando por C a 745 y por M, esquinero Dunn-Petrona, a 1247 más); N-L S 46° 37′ E 1552,5 m hasta la línea de Alfonsín. El trapecio ABNL tiene la superficie de sus títulos: 337 ha 48 a (verificado: 337,57 ha, cierre 0,4 m)."
+  },
+  {
+   "titulo": "Folio 7 · lotes de Dunn e Iriberry",
+   "img": "img/f/152/19.jpg",
+   "fuente": "IMG_0327.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 8» por error del foliador (debería ser 7).",
+   "lineas": [
+    "[Sello «FOJA 8» [sic, por 7]; a lápiz: 13]",
+    "renta y ocho areas ó sean doscientas cuadras",
+    "cuadradas (337 hs. 48 as. 00 ctas = 200 cds cds).",
+    "José Dunn. Para recorrer esta fraccion,",
+    "teniendo ya medidos tres de sus costa-",
+    "dos: CM, CD y DE, solo me restaba medir",
+    "el cuarto EM á cuyo fin desde el punto",
+    "E al Sud 46° 43′ Este hallé tres mil setecien-",
+    "tos catorce metros mas cinco decímetros (3714.",
+    "5 mts), habiendo encontrado á los tres mil",
+    "siete metros mas cinco decímetros (3007.5 mts)",
+    "el esquinero de Iriberry y Doña Petrona G.",
+    "de Molina, letra O.",
+    "Esta fraccion tiene casi las mismas esten-",
+    "siones lineales que sus títulos le señalan y cons-",
+    "ta de una superficie de cuatrocientas ochen-",
+    "ta y una hectáreas treinta y una area vein-",
+    "te y siete centiareas ó sean doscientas ochenta",
+    "y cinco cuadras cuadradas con doscientas trein-",
+    "ta y nueve milésimos de otra (481 hs. 31 as 27",
+    "ctas = 285.239 cds cds.",
+    "Bautista Iriberry. Teniendo ya medidos los",
+    "lados EO y EF me situé en este último mojon,",
+    "y desde él al Sud 46° 10′ Este medí dos mil tres-",
+    "cientos sesenta y dos metros (2362 mts) hasta P.",
+    "Desde aquí al Sud 43° 10′ Oeste hallé dos mil",
+    "quinientos tres metros mas siete decímetros"
+   ],
+   "interpretacion": "Dunn (CDEM): falta sólo E-M, S 46° 43′ E 3714,5 m, con O (Iriberry-Petrona) a 3007,5; 481 ha 31 a 27 ca (verificado 481,29 ha, cierre 0,9 m). Iriberry: desde F, S 46° 10′ E 2362 m hasta P; P-O S 43° 10′ O 2503,7 m."
+  },
+  {
+   "titulo": "Folio 7 vuelto · lotes de Iriberry, Mansilla y Gaynor",
+   "img": "img/f/152/20.jpg",
+   "fuente": "IMG_0328.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "[a lápiz: 14]",
+    "(2503.7 mts) hasta O.",
+    "El cuadrilátero EFPO queda con la",
+    "misma estension superficial que sus títulos",
+    "le marcan, á saber, seiscientos setenta y cua-",
+    "tro hectáreas noventa y seis areas, ó sean cuatro-",
+    "cientas cuadras cuadradas (674 hs. 96 as. 00 ctas =",
+    "400 cds cds).",
+    "Ignacio Mansilla. Habiendo ya recorri-",
+    "do tres lados de este trapezio, medí el último,",
+    "JG, al Norte 46° 22′ Oeste cuatro mil dos cien-",
+    "tos noventa y nueve metros mas seis decíme-",
+    "tros (4299.6 mts) habiendo encontrado á los dos",
+    "mil quinientos noventa y ocho metros mas dos de-",
+    "címetros (2598.2 mts) de J el esquinero de Gay-",
+    "nor y de Doña Petrona G. de Molina, le-",
+    "tra O [sic, por Q]. La superficie de la fraccion de Man-",
+    "silla es la que sus títulos le dan: trescientos",
+    "treinta y siete hectáreas cuarenta y ocho areas",
+    "igual á doscientas cuadras cuadradas (337",
+    "hs. 48 as. 00 ctas = 200 cds cds).",
+    "Pedro Gaynor. Desde K, dividiendo con",
+    "Doña Petrona G. de Molina al Norte 46° 22′",
+    "Oeste encontré dos mil quinientos noventa y ocho",
+    "metros mas dos decímetros (2598.2 mts) hasta el",
+    "mojon R. Desde aquí al Norte 44° 30′ Este",
+    "dí con el esquinero Norte, letra Q, á los mil"
+   ],
+   "interpretacion": "Iriberry EFPO: 674 ha 96 a = 400 cuadras (el polígono da 675,71 ha, cierre 1,1 m). Mansilla (GHIJ): J-G N 46° 22′ O 4299,6 m, con el esquinero Gaynor-Petrona a 2598,2 m de J (el texto dice «letra O», error por Q, que es la letra del plano); 337 ha 48 a (verificado 337,39). Gaynor: desde K, N 46° 22′ O 2598,2 m hasta R; R-Q N 44° 30′ E."
+  },
+  {
+   "titulo": "Folio 8 · balance: lo que le queda a Petrona",
+   "img": "img/f/152/21.jpg",
+   "fuente": "IMG_0328.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 9» (por 8).",
+   "lineas": [
+    "[Sello «FOJA 9» [sic, por 8]; a lápiz: 15]",
+    "doscientos noventa y nueve metros (1299 mts).",
+    "La superficie de este paralelógramo",
+    "es la que sus títulos le asignan: trescientos",
+    "treinta y siete hectáreas cuarenta y ocho areas",
+    "igual á doscientas cuadras cuadradas (337",
+    "hs. 48 as. 00 ctas = 200 cds cds).",
+    "Medidas así las cinco fracciones que",
+    "vendió Doña Petrona G. de Molina, que",
+    "suman una superficie de dos mil ciento",
+    "sesenta y ocho hectáreas setenta y una area",
+    "veinte y tres centiareas, ó sea, mil doscien-",
+    "tos ochenta y cinco cuadras cuadradas",
+    "mas doscientas treinta y nueve milésimos",
+    "de otra (2168 hs 71 as. 23 ctas = 1285.239 cds cds)",
+    "y restándola de la superficie total encon-",
+    "trada, tres mil noventa y cinco hectáreas",
+    "cuarenta y cuatro areas y treinta centiareas,",
+    "ó sea mil ochocientos treinta y cuatro cua-",
+    "dras cuadradas mas cuatrocientas cuaren-",
+    "ta milésimos de otra (3095 hs 44 as. 30 cta",
+    "1834 cds cds 440 milésimos), resulta la fraccion",
+    "de campo de esta Señora LNMOPFGQR[K]",
+    "con la forma de un polígono irregular de",
+    "diez lados y con una superficie de nove-",
+    "cientas veinte y seis hectáreas setenta",
+    "y tres areas y siete centiareas igual á"
+   ],
+   "interpretacion": "Gaynor: 1299 m de frente (= K-J, 2101,4 - 802,4); paralelogramo de 337 ha 48 a (verificado, cierre 0). Las cinco ventas suman 2168 ha 71 a 23 ca = 1285,239 cuadras (verificado); restadas del total de 3095 ha 44 a 30 ca, queda la fracción LNMOPFGQRK, polígono irregular de diez lados."
+  },
+  {
+   "titulo": "Folio 8 vuelto · remanente, linderos, variación y vista del D. I.",
+   "img": "img/f/152/22.jpg",
+   "fuente": "IMG_0329.JPG",
+   "nota": "A la derecha, encuadernada, una copia en papel tela del plano con «152» a lápiz (no fotografiada abierta).",
+   "lineas": [
+    "[a lápiz: 16]",
+    "quinientas cuarenta y nueve cuadras cua-",
+    "dradas mas doscientos un milésimo de",
+    "otra (926 hs. 73 as. 07 ctas = 549.201 cds cds).",
+    "Sus linderos son: al Sudoeste Lo-",
+    "renzo Doulon, José Dunn y Bautista",
+    "Iriberry; al Noroeste Bautista Iriberry",
+    "y Cármen P. de Madariaga; al No-",
+    "reste Ygnacio Mansilla y Pedro Gay-",
+    "nor; y al Sureste Cecilio Alfonsin y",
+    "Pedro Gaynor.",
+    "Presenciaron la operacion todos los",
+    "linderos y se conformaron con ella, fir-",
+    "mando la circular y acta de mensu-",
+    "ra. Calculada la variacion de la",
+    "aguja del teodolito, resultó que se",
+    "apartaba 11° 42′ del Norte verdadero",
+    "hácia el Este.",
+    "Ricardo Muñiz [firma]",
+    "[Sello oval: «Departamento de Ingenieros de la Provincia · Entrada · OCT 29 1889»]",
+    "Señor Juez:",
+    "Puede aprobarse la mensura practicada por el Agrimensor Ricardo",
+    "Muñiz en terrenos de propiedad de Dª Petrona Gutierrez de",
+    "Molina en el partido de Giles.",
+    "Noviembre 2/89",
+    "Julio C. Serna [?] [firma]     José M. Viv[...] [?] [firma]",
+    "Ant. A. Cavallo [?] [firma]",
+    "[A la derecha, encuadernado, un papel tela transparente (copia del plano) con el número «152» a lápiz.]"
+   ],
+   "interpretacion": "Remanente de Petrona: 926 ha 73 a 07 ca = 549,201 cuadras. Linderos: SO Doulon, Dunn e Iriberry; NO Iriberry y Carmen P[irán] de Madariaga; NE Mansilla y Gaynor; SE Cecilio Alfonsín y Gaynor. «Presenciaron la operación todos los linderos y se conformaron con ella, firmando la circular y acta de mensura». Variación de la aguja del teodolito: 11° 42′ al E del N verdadero. Firma Ricardo Muñiz. Entrada al Departamento de Ingenieros 29/10/1889; vista del 2/11/1889: «Puede aprobarse la mensura»; firmas Julio C. Serna [?], José M. Viv[…] [?] y Ant. A. Cavallo [?]."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de mensura (Ricardo Muñiz, 1889)",
+   "img": "img/f/152/03.jpg",
+   "fuente": "IMG_0321.JPG (detalles IMG_0322-0324)",
+   "orientacion": "flecha de N verdadero arriba a la derecha con «V.ⁿ 11° 42′ N.E.»; escala gráfica de 1000 m en metros",
+   "interpretacion": "Plano a tinta con el remanente de Petrona coloreado en verde y rotulado «PETRONA G. DE MOLINA · Sup: OPFGQRKLMN = 926 h. 73 a. 07 c. = 549 cd.² 201». Alrededor, las cinco fracciones vendidas con sus superficies: Lorenzo Doulon (3 374 800 m², con una «Estancia» marcada con un pequeño cuadrado junto a L), José Dunn (4 813 126 m²), Bautista Iriberry (6 749 600 m² = 400 c.²), Pedro Gainor [sic] (3 374 800 m²) e Ignacio Mansilla (3 374 800 m²), más otra fracción de Mansilla al E. Linderos externos: Carmen Pirán de Madariaga (NO, línea N 57° 32′ E), Archival Graic (O), F. Olivera (hijo) (SO) y Cecilio Alfonsín (SE, línea S 44° 30′ O, IA = 6910,4). Al pie: «Sup. total ABCDHI = 3095 h.ª 44 a.ª 30 c.ª». Firma «Ricardo Muñiz 1889». Cálculos a lápiz del D. I. en los márgenes (4637, 4430, 9107…).",
+   "referencias": [
+    [
+     "A",
+     "Mojón de arranque (el mismo de Schuster, 11/11/1869); esquinero de Olivera y Doulon sobre la línea de Alfonsín"
+    ],
+    [
+     "B · C",
+     "Esquineros de Doulon-Olivera (costanero de Graic) y de Graic-Dunn"
+    ],
+    [
+     "D · E · F · G · H",
+     "Línea de Pirán (N 57° 32′ E): Dunn, Iriberry, mojón de fierro F, Mansilla"
+    ],
+    [
+     "I · J · K · Z · L",
+     "Línea de Alfonsín (S 44° 30′ O): Mansilla, Gaynor, límite de las dos fracciones antiguas, Doulon"
+    ],
+    [
+     "M · N · O · P · Q · R",
+     "Vértices interiores de Dunn, Doulon, Iriberry y Gaynor que cierran el remanente de diez lados"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: Doulon, Dunn e Iriberry",
+   "img": "img/f/152/04.jpg",
+   "fuente": "IMG_0322.JPG",
+   "orientacion": "toma de detalle de la mitad O del plano",
+   "interpretacion": "Se leen las cotas que confirman el texto: AB = 1499,8 (N 46° 37′ O), BC = 745 (N 43° 8′ E), CD = 4033 (N 46° 35′ O), CM = 1247, BN = 2212, MN = 220, NL = 1552,5 (S 46° 37′ E), EM = 3714,5 (S 46° 43′ E), EO = 3007,5, OM = 707, PO = 2503,7 (S 43° 10′ O), EF = 2606,4 y 3883,4 en F sobre la línea de Pirán. La «Estancia» de Doulon aparece como único edificio dibujado del plano.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: el remanente y la fracción de Gaynor",
+   "img": "img/f/152/05.jpg",
+   "fuente": "IMG_0323.JPG",
+   "orientacion": "toma de detalle del centro del plano",
+   "interpretacion": "El polígono verde del remanente de Petrona encaja en L entre Iriberry, Doulon, Gaynor y Mansilla; se ven KL = 2597 sobre la línea de Alfonsín, KR = 2598,2 y el rótulo «Pedro Gainor · Sup: 3 374 800 m. c.».",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: Mansilla y el ángulo NE",
+   "img": "img/f/152/06.jpg",
+   "fuente": "IMG_0324.JPG",
+   "orientacion": "toma de detalle de la mitad E",
+   "interpretacion": "Las dos fracciones de Ignacio Mansilla (la comprada a Petrona y la comprada a las herederas de Victorina) separadas por la línea H-I de 4112 m; JG = 4299,6 (N 46° 22′ O); firma del agrimensor.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "La diligencia casi no describe el terreno: no hay aguas, ni montes, ni caminos. El único rasgo construido es la «Estancia» de Doulon dibujada en el plano, y el único hito material nombrado es el «mojón de fierro» F. El paisaje que emerge es puramente catastral: una gran L del bloque Gutiérrez ya fragmentada en siete propietarios (Petrona, Doulon, Dunn, Iriberry, Mansilla, Gaynor y, al NO, Pirán de Madariaga), con nombres irlandeses (Dunn, Gaynor), vascos (Iriberry, Doulon [?]) y escoceses (Graic = Craig) que señalan la ocupación ovina de la década de 1870."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Autorización del juez Demaría ante el secretario Nemesio López; «previos los requisitos del caso»; todos los linderos presencian la operación, se conforman y firman la circular y el acta. El ritual es aquí sobre todo DOCUMENTAL: Muñiz no coloca mojones nuevos sino que verifica los que Schuster puso extrajudicialmente para cada venta, y arranca del mojón A de la mensura judicial de 1869. La llave a lápiz del Departamento sobre el párrafo del excedente muestra dónde estaba el punto sensible del control."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Teodolito con brújula; variación calculada 11° 42′ NE, IDÉNTICA a la de Schuster en 052, 089 y 123 (1869-1879), lo que sugiere que Muñiz la tomó de los antecedentes más que de una observación propia (la declinación debía haber variado en diez años). Distancias al decímetro, superficies en ha y en cuadras cuadradas al milésimo. Verificación en python: el polígono total A-B-C-D-H-I cierra a 0,8 m y da 3095,12 ha (declarado 3095,44); Doulon 337,57 ha (cierre 0,4 m), Dunn 481,29 (0,9 m), Iriberry 675,71 (1,1 m), Mansilla 337,39 (1,2 m), Gaynor 337,47 (cierre exacto). La suma de las ventas (2168,71 ha) y el remanente (926,73 ha) son aritméticamente exactos."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Convive la vieja medida de los títulos (0,74 legua cuadrada; 9 000 000 v²; cuadras cuadradas de 150 v = 16 874 m²) con el sistema métrico (ha, a, ca). La cuadra cuadrada es la unidad de negocio: cada venta se pacta en cifras redondas de cuadras (200, 400 cuadras) y luego se expresa en hectáreas. Las ventas de 200 cuadras a Doulon, Mansilla y Gaynor muestran un MÓDULO DE VENTA de 337,48 ha. Error de copia detectado: en f. 2 el total de títulos dice «21,687,123 m.c», pero 1817,637 cuadras son 30 670 807 m² (f. 6); la suma correcta es 1184 (0,74 legua²) + 158,409 + 475,228 cuadras."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Petrona suma dos orígenes: herencia paterna (1859) y la cuota de la testamentaría de Victorina (heredera de Emilio, hermano de Petrona), ampliada con las compras de Olegario Molina a los Potes. Entre 1871 y 1888 vende 2168 ha (70 % del total) en cinco operaciones, todas en Mercedes y cuatro ante el escribano Ponsati: Dunn 1871, Iriberry 1873, Doulon 1873, Mansilla 1879 y Gaynor 1888. En 1888 actúa por medio de Amando Molina y la mensura se hace sólo a su nombre: probable viudez. Es un caso claro de liquidación gradual de una herencia criolla a favor de compradores inmigrantes."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "024 (repartición de Bernardo Gutiérrez 1859: el quinto lote de Petrona); 053 (Schuster, 11/11/1869: mensura judicial de la hijuela de Petrona, mismo mojón A, Archibald Craig lindero, variación 11° 42′); 123 (Schuster 1879, testamentaría de Victorina: 2673 ha en décimos; Olegario y Petrona 1069,2 ha = 2 673 000 + 8 019 000 m², confirmado aquí; Mansilla 534,6 ha; Teódulo Olivera; los Potes); 052 (Caprile y Picasso, misma variación); 089 (Sala, test.ª de Victorina); 108 y 141 (Gaynor en Giles); METODO cita una carpeta de Schuster 1883 con Carmen Pirán de Madariaga, Bautista Yriberry, Cecilio Alfonsín e Ignacio Mancilla como linderos: es el mismo vecindario."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Falta el auto de aprobación judicial (sólo la vista favorable del D. I. del 2/11/1889) y no se fotografió abierta la copia en tela encuadernada al final. Dudas: apellido de la esposa de Iriberry (Camadro [?]); firmantes del D. I. (Serna, Viv…, Cavallo [?]); identidad de Amando Molina; por qué la mensura de 1888 tarda un año en entrar al Departamento (octubre 1888 a octubre 1889); si el juez Demaría es del Departamento del Centro (Mercedes). Para el GIS: los rumbos de A-B y de la línea de Alfonsín permiten encajar esta ficha con 053 y 123 sin ajustes."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Petrona Gutiérrez de Molina",
+   "rol": "Propietaria",
+   "texto": "Hija de Bernardo Gutiérrez, heredera del quinto lote de la repartición de 1859 (0,74 legua²) y de una cuota en la testamentaría de Victorina Gutiérrez. Casada con Olegario Molina. Vende entre 1871 y 1888 a Dunn, Iriberry, Doulon, Mansilla y Gaynor y conserva 926,73 ha en 1889.",
+   "fuentes": "Este duplicado; fichas 024, 053, 123."
+  },
+  {
+   "nombre": "Olegario Molina",
+   "rol": "Esposo, condómino",
+   "texto": "Compró como cesionario las partes de Zacarías, Marcelo y Ángel Potes en la testamentaría de Victorina (hijuela doce, 295 500 $ m/c); con Petrona tuvo 1069,2 ha en condominio. No figura en las operaciones de 1888: probablemente fallecido.",
+   "fuentes": "Este duplicado; ficha 123."
+  },
+  {
+   "nombre": "Bernardo Gutiérrez",
+   "rol": "Causante",
+   "texto": "Gran propietario cuyo campo, medido y repartido por G. Teodoro Schuster en 1859, originó el bloque Gutiérrez de Giles.",
+   "fuentes": "Fichas 024, 052, 053."
+  },
+  {
+   "nombre": "Victorina Gutiérrez",
+   "rol": "Causante (segunda fracción)",
+   "texto": "Heredera de Emilio Gutiérrez; su testamentaría (Schuster 1879) dividió 2673 ha en décimos tasados en pesos, autos tramitados por la secretaría de Luis Lacasa.",
+   "fuentes": "Fichas 089, 123."
+  },
+  {
+   "nombre": "Ricardo Muñiz",
+   "rol": "Agrimensor",
+   "texto": "Primera aparición en el corpus. Posible pariente de José María Muñiz, agrimensor activo en Giles 1865-1882 (fichas 034, 048-051, 083, 122), sin confirmar. Firma con rúbrica; reutiliza la variación de Schuster.",
+   "fuentes": "Este duplicado; búsqueda web 14/11/2026 sin resultados específicos."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor anterior",
+   "texto": "Midió judicialmente la hijuela de Petrona en 1869 (053) y la testamentaría de Victorina en 1879 (123), y amojonó extrajudicialmente las cinco ventas. Su mojón A es el arranque de esta mensura.",
+   "fuentes": "Fichas 052, 053, 123 y METODO."
+  },
+  {
+   "nombre": "Lorenzo Doulon, José Dunn, Bautista Iriberry y Mariana Camadro [?]",
+   "rol": "Compradores (1871-1873)",
+   "texto": "Dunn compra 481,31 ha en 1871; Iriberry y su esposa 674,96 ha y Doulon 337,48 ha (con su estancia) en 1873, todos ante el escribano Ponsati en Mercedes. Iriberry aparece como «Yriberry» lindero en una mensura de Schuster de 1883.",
+   "fuentes": "Este duplicado; METODO."
+  },
+  {
+   "nombre": "Ignacio Mansilla (Mancilla)",
+   "rol": "Comprador (1879), lindero ne",
+   "texto": "Compra 200 cuadras a Petrona en 1879 y tiene otra fracción comprada a las herederas de Victorina (en 123 recibe 534,6 ha por compra de décimos).",
+   "fuentes": "Este duplicado; ficha 123."
+  },
+  {
+   "nombre": "Pedro Gaynor",
+   "rol": "Comprador (1888)",
+   "texto": "Compra 337,48 ha el 28/3/1888 ante el escribano Dufourg. Del linaje irlandés de los Gaynor de Giles (Tomás Gaynor, 141; compras a los Acuña, 108).",
+   "fuentes": "Este duplicado; fichas 108, 141."
+  },
+  {
+   "nombre": "Carmen Pirán de Madariaga, Cecilio Alfonsín, F. Olivera (hijo), Archibald Craig («Graic»)",
+   "rol": "Linderos",
+   "texto": "Pirán de Madariaga al NO (los Pirán protestaron la mensura de 1869, 053); Alfonsín al SE (familia de Mónica Gutiérrez de Alfonsín, 024); Olivera hijo de Teódulo Olivera (123); Craig, arrendatario en 1859 y lindero con puesto propio en 1869.",
+   "fuentes": "Fichas 024, 053, 123."
+  },
+  {
+   "nombre": "Zacarías, Marcelo y Ángel Potes",
+   "rol": "Cedentes",
+   "texto": "Herederos en la testamentaría de Victorina que ceden sus partes a Olegario Molina.",
+   "fuentes": "Este duplicado; ficha 123 (Serapia, Nemesia y Fermina Potes)."
+  },
+  {
+   "nombre": "Amando Molina",
+   "rol": "Apoderado",
+   "texto": "Representa a Petrona en la venta a Gaynor (1888). Probable hijo del matrimonio; sin otros datos.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Dr. Demaría y Nemesio López",
+   "rol": "Juez y secretario",
+   "texto": "Juez de 1.ª Instancia que autoriza la mensura (1888) y su secretario. Sin datos verificados en esta sesión.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Ponsati, Dufourg, Luis Lacasa",
+   "rol": "Escribanos y secretario",
+   "texto": "Ponsati autoriza en Mercedes las ventas de 1871, 1873 (dos) y 1879; Dufourg la de 1888; Lacasa fue secretario en los autos de Victorina.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Julio C. Serna [?], José M. Viv… [?], Ant. A. Cavallo [?]",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firmantes de la vista del 2/11/1889 («Puede aprobarse la mensura»). Lecturas dudosas de las rúbricas.",
+   "fuentes": "IMG_0329."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/152/02.jpg",
+  "fuente": "IMG_0315.JPG",
+  "lineas": [
+   "San A. de Giles",
+   "— 152 —",
+   "Duplicado N.º 152.",
+   "Doña Petrona G. de Molina",
+   "Giles",
+   "2-207-330",
+   "1889"
+  ]
+ },
+ "titulo": "Petrona Gutiérrez de Molina",
+ "estado": "Transcripta (16 hojas, 429 renglones), 4 láminas"
+}

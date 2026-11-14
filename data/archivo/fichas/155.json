@@ -1,0 +1,766 @@
+{
+ "carpeta": "155",
+ "carpeta_nombre": "Carpeta 155",
+ "archivo": "Ficha 155 - Silvio Sosa (1890).docx",
+ "resumen": {
+  "N.º de duplicado": "155 (San Andrés de Giles); portadilla 3-80-92 [?]",
+  "Propietario / solicitante": "Silvio Sosa",
+  "Agrimensor": "A. Varangot, ingeniero civil (nombre de pila dudoso: Avelino [?])",
+  "Año": "1890",
+  "Fecha de la diligencia": "Inicio 1/6/1890; firma La Plata 16/6; azimut 3/7; D. I. 8/7; auto 16/7/1890",
+  "Ubicación": "Margen del arroyo de Giles, frente a G. Sanatta [?]; ex campo Zacarelo (072)",
+  "Orden judicial": "Dr. Arturo H. Gamboa, juez civil de La Plata; actuario Cirilo P. Romero",
+  "Vendedor / antecesor": "Lorenzo A. Muzio (1889) ← Paula Cataldo de Zacarello (1888) ← D. Alem de Sosa",
+  "Linderos citados": "Miguel Covián (NE), Lucas Scully (SE y SO), arroyo de Giles (NO)",
+  "Medidas": "Polígono auxiliar de 9 lados: NE 3366,40 m; SE 993,40 m; SO 2427,30 m; arroyo 1206,40 m",
+  "Rumbos": "S 50° 1′ 30″ E (NE), S 53° 42′ 30″ O (SE), N 50° 9′ 30″ O (SO); verdaderos",
+  "Referencia de archivo": "AHG PBA, duplicado 155 de Giles; carátula de la DGC; portadilla"
+ },
+ "metricas": {
+  "superficie_ha": "280,09 (título 276,73 = 164 cuadras; sobrante fiscal 3,36 ha, 1,21 %)",
+  "hitos": "sin mojones nuevos: cercos de alambre en tres lados; ordenadas de 0,70 a 4,80 m a los cercos",
+  "aguas": "arroyo de Giles (lado NO, ordenadas cada 50 m) y un afluente o zanjón junto a C"
+ },
+ "sintesis": "El ingeniero civil A. Varangot mide en junio de 1890, por orden del juez Gamboa (La Plata), el campo que Silvio Sosa compró en 1889 a Lorenzo A. Muzio, quien lo había comprado en 1888 a Paula Cataldo de Zacarello, hija adoptiva y heredera de Dionisia Alem de Sosa. Es el mismo trapecio que Pico midió en 1876 para Estanislao Zacarelo (072): frente al arroyo de Giles, costados de unos 3366 y 2427 m y cabecera S 53° 42′ O. Como el campo ya está alambrado en tres lados, Varangot mide un polígono auxiliar con ordenadas a los cercos. Resultan 280,09 ha contra 164 cuadras (276,73 ha) del título, y el D. I. manda comprar al Fisco el sobrante de 3,36 ha según la ley del 14/2/1890. Covián y Scully firman conformes. El expediente se revisa en 1905 y en 1930.",
+ "caratula": {
+  "img": "img/f/155/01.jpg",
+  "fuente": "IMG_0373.JPG",
+  "campos": [
+   [
+    "N.º",
+    "155"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Silvio Sosa"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "A. Varangot"
+   ],
+   [
+    "Mes / Año",
+    "(mes en blanco) 1890"
+   ],
+   [
+    "Tramitado en el Juzgado",
+    "(en blanco)"
+   ],
+   [
+    "Secretaría",
+    "(en blanco)"
+   ],
+   [
+    "Duplicados de referencia",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · extracto de títulos: Cataldo → Muzio → Silvio Sosa",
+   "img": "img/f/155/06.jpg",
+   "fuente": "IMG_0375.JPG",
+   "nota": "Hoja suelta fotografiada acostada (se lee girada 90°); sello «FOJA 1».",
+   "lineas": [
+    "[Sello «FOJA 1»]",
+    "Estracto de titulos",
+    "Año 1888: Con fecha seis de Diciembre",
+    "del año mil ochocientos ochenta y ocho",
+    "el Doctor D.n Narciso Sosa como",
+    "apoderado de doña Paula Cataldo de",
+    "Zacarello otorgó escritura de venta",
+    "á favor de Don Lorenzo A. Muzio",
+    "ante el Escribano Don Agustin",
+    "Beruti.—",
+    "Año 1889; En la Ciudad de La",
+    "Plata á catorce de Febrero del año",
+    "mil ochocientos ochenta y nueve",
+    "ante el Escribano Don Agustin",
+    "Beruti, Don Lorenzo A. Muzio ven-",
+    "de á Don Silvio Sosa un campo",
+    "de propiedad del esponente situa-",
+    "do en el Partido de San Andrés",
+    "de Giles compuesto proximamen-",
+    "te de una superficie de ciento",
+    "sesenta y cuatro cuadras cuadra-",
+    "das de ciento cincuenta varas",
+    "por costado, ó sean dos millones",
+    "setecientos sesenta y siete mil",
+    "trescientos treinta y siete me-",
+    "tros cuadrados, lindando",
+    "al Nor-Este con la esten-",
+    "sion de tres mil cuatrocien-"
+   ],
+   "interpretacion": "«Estracto de titulos». El 6/12/1888 el Dr. Narciso Sosa, apoderado de Paula Cataldo de Zacarello, vende a Lorenzo A. Muzio ante el escribano Agustín Beruti; el 14/2/1889, en La Plata y ante el mismo escribano, Muzio vende a Silvio Sosa un campo en Giles de «proximamente» 164 cuadras cuadradas de 150 varas, «ó sean» 2 767 337 m² (verificado: 164 × 22 500 v² × 0,866² = 2 767 337,6 m², exacto). Empieza la lista de linderos: al NE 3415,43 m…"
+  },
+  {
+   "titulo": "Folio 1 vuelto · linderos del título y comienzo de la diligencia",
+   "img": "img/f/155/07.jpg",
+   "fuente": "IMG_0376.JPG (mitad izquierda)",
+   "nota": "«el mismo Scully» sin mención previa: el copista salteó el lindero SE (Scully). Una cruz al margen de la diligencia.",
+   "lineas": [
+    "-tos quince metros y cuarenta y tres",
+    "centimetros con Doña Dionisia",
+    "Alem de Sosa, al Sud-Este con",
+    "la distancia de novecientos noven-",
+    "ta y ocho metros y cuarenta y",
+    "tres centimetros, al Sud-Oeste",
+    "con la de dos mil quinientos doce",
+    "metros con el mismo Scully",
+    "debiendo ser esta linea paralela",
+    "con el costado Nord-Este, y al Nord-",
+    "Oeste arroyo de Giles por medio",
+    "con Don Gregorio Sanatta [?].—",
+    "[Al margen: una cruz]",
+    "Diligencia de Mensura",
+    "En el Partido de San Andres de",
+    "Giles á primero de Junio del año",
+    "mil ochocientos noventa di prin-",
+    "cipio á la operacion de mensura",
+    "del terreno del Señor Don Silvio",
+    "Sosa situado en este Partido de",
+    "San Andres de Giles, operacion",
+    "que me fué ordenada prac-",
+    "ticar por el Señor Juez de",
+    "primera Instancia en lo Civil",
+    "doctor Don Arturo H. Gamboa,",
+    "Para practicar esta opera-",
+    "cion y despues de haber",
+    "publicado los edictos en dos"
+   ],
+   "interpretacion": "Linderos del título: NE 3415,43 m con Dionisia Alem de Sosa; SE 998,43 m (el lindero se omitió en la copia); SO 2512 m «con el mismo Scully», paralela al NE; NO el arroyo de Giles, «por medio» Gregorio Sanatta [?]. La diligencia empieza el 1/6/1890 en Giles: mensura ordenada por el juez civil de primera instancia Dr. Arturo H. Gamboa; edictos en dos diarios."
+  },
+  {
+   "titulo": "Folio 2 · el polígono auxiliar y los primeros lados sobre el arroyo",
+   "img": "img/f/155/08.jpg",
+   "fuente": "IMG_0376.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 2».",
+   "lineas": [
+    "[Sello «FOJA 2»]",
+    "diarios y haber notificado á los",
+    "Señores linderos, todo lo cual",
+    "se comprueba por los diarios y",
+    "demas documentos adjuntos, pro-",
+    "cedi á establecer el poligono",
+    "auxiliar ABCDEFGHIA,",
+    "por ser imposible medir el terre-",
+    "no por su perimetro á causa",
+    "de estar alambrado por tres costa-",
+    "dos y por el otro Costado limi-",
+    "tado por el Arroyo de Giles;",
+    "En el punto A me situé con",
+    "el Teodolito y medí el ángulo",
+    "I.A.B de (119°43') ciento diez y",
+    "nueve grados cuarenta y tres mi-",
+    "nutos y A con rumbo Norte",
+    "(10°10'30\") diez grados diez minutos",
+    "treinta segundos, Este, medí doscien-",
+    "tos ochenta y dos metros (282m). en",
+    "B, medí el ángulo ABC de",
+    "(181°26') ciento ochenta y un grado",
+    "veinte y seis minutos y de B con",
+    "rumbo Norte (8°44'30\") ocho gra-",
+    "dos cuarenta y cuatro minutos trein-",
+    "ta segundos Este medí hasta",
+    "C cuatrocientos sesenta y dos metros",
+    "cuarenta centimetros; En C, medí",
+    "el ángulo BCD, de (193°12')"
+   ],
+   "interpretacion": "Notificados los linderos, el agrimensor arma el POLÍGONO AUXILIAR ABCDEFGHIA «por ser imposible medir el terreno por su perimetro á causa de estar alambrado por tres costados y por el otro Costado limitado por el Arroyo de Giles». En A, con el teodolito: ángulo IAB 119° 43′; A-B N 10° 10′ 30″ E 282 m; en B ángulo 181° 26′; B-C N 8° 44′ 30″ E 462,40 m; en C ángulo 193° 12′."
+  },
+  {
+   "titulo": "Folio 2 vuelto · lado C-D y la línea larga con Covián",
+   "img": "img/f/155/09.jpg",
+   "fuente": "IMG_0377.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "ciento noventa y tres grados doce",
+    "minutos, y de C con rumbo Norte",
+    "(4°27'30\") Oeste cuatro grados",
+    "veinte y siete minutos, treinta",
+    "segundos Oeste medí hasta",
+    "D cuatrocientos sesenta y dos",
+    "metros (462m.s) en este punto",
+    "D tracé una ordenada al cerco",
+    "de un metro (1m 30) treinta centime-",
+    "tros en D medí el ángulo",
+    "CDE de cuarenta y cinco gra-",
+    "dos treinta y cuatro minutos",
+    "(45°34') y de D con rumbo Sud",
+    "(50°1'30\") cincuenta grados",
+    "un minuto treinta segundos",
+    "Este, medí hasta E. (1935m 90)",
+    "mil novecientos treinta y cinco",
+    "metros noventa centimetros, en",
+    "E medí el angul. DEF de",
+    "(180°7') ciento ochenta grados",
+    "siete minutos y de aqui con",
+    "rumbo Sud (50°8'30\") cincuen-",
+    "ta grados ocho minutos treinta",
+    "segundos Este medí hasta F,",
+    "setecientos treinta y un metro",
+    "noventa centimetros; En F, medí",
+    "el angulo EFG de ciento",
+    "setenta y nueve grados cuarenta"
+   ],
+   "interpretacion": "C-D N 4° 27′ 30″ O 462 m; en D, ordenada de 1,30 m al cerco; ángulo CDE 45° 34′; D-E S 50° 1′ 30″ E 1935,90 m; en E ángulo 180° 7′; E-F S 50° 8′ 30″ E 731,90 m; en F ángulo 179° 44′."
+  },
+  {
+   "titulo": "Folio 3 · F-G y la cabecera con Scully y Covián",
+   "img": "img/f/155/10.jpg",
+   "fuente": "IMG_0377.JPG (mitad derecha)",
+   "nota": "El texto dice «en el punto G» para la segunda ordenada: por la secuencia debe ser H (error de copia o de redacción).",
+   "lineas": [
+    "[Sello «FOJA 3»]",
+    "y cuatro minutos (179°44') y de",
+    "este punto con rumbo Sud",
+    "(49°52'30\") cuarenta y nueve gra-",
+    "dos cincuenta y dos minutos",
+    "treinta segundos Este medí",
+    "hasta G, seiscientos noventa",
+    "y ocho metros sesenta centi-",
+    "metros en G tracé una ordenada",
+    "al cerco de setenta centimetros",
+    "siendo este cerco el que separa",
+    "el terreno que se mide del de",
+    "Don Lucas Scully en este punto",
+    "G medí el ángulo FGH de",
+    "(76°25') setenta y seis grados veinte",
+    "y cinco minutos y de aqui con",
+    "rumbo Sud (53°42'30\") cincuen-",
+    "ta y tres grados cuarenta y dos",
+    "minutos treinta segundos Oeste",
+    "medí hasta el punto H nove-",
+    "cientos noventa y tres metros",
+    "cuarenta centimetros (993m 40),",
+    "en el punto G [sic: por H] tracé una ordena-",
+    "da de cuatro metros ochenta cen-",
+    "timetros (4m 80) al cerco que divide",
+    "la propiedad que se mide con",
+    "la de Don Miguel Covian.—",
+    "En el punto H medí el angu-",
+    "lo GHI de ciento tres grados",
+    "cincuenta y dos minutos (103°52'),"
+   ],
+   "interpretacion": "F-G S 49° 52′ 30″ E 698,60 m; en G ordenada de 0,70 m al cerco «que separa el terreno que se mide del de Don Lucas Scully»; ángulo FGH 76° 25′; G-H S 53° 42′ 30″ O 993,40 m; ordenada de 4,80 m «al cerco que divide la propiedad que se mide con la de Don Miguel Covian»; en H ángulo 103° 52′."
+  },
+  {
+   "titulo": "Folio 3 vuelto · el costado SO con Scully y el cierre en A",
+   "img": "img/f/155/11.jpg",
+   "fuente": "IMG_0378.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "y de aqui con rumbo Norte (50°9'30\")",
+    "cincuenta grados nueve minutos",
+    "treinta segundos Oeste medí",
+    "hasta I mil trescientos sesenta",
+    "y cinco metros (1365m,80) ochenta",
+    "centimetros en el punto H",
+    "tracé una ordenada al cerco",
+    "que divide el terreno que se",
+    "mide con el de Don Lucas Scully",
+    "siendo esta ordenada de un",
+    "metro cincuenta y cinco centi-",
+    "metros (1m,55), y tambien del punto",
+    "H tracé otra ordenada al cerco",
+    "que divide á este terreno del",
+    "terreno del mismo Señor Scully.",
+    "En I, medí el ángulo HIA de",
+    "(179°57') ciento setenta y nueve",
+    "grados cincuenta y siete mi-",
+    "nutos y de este punto con rumbo",
+    "Norte (50°6'30\") cincuenta grados",
+    "seis minutos treinta segundos, Oeste, medí",
+    "hasta el punto A mil sesenta",
+    "y un metro cincuenta centimetros",
+    "(1061m.50); en I levanté una orde-",
+    "nada al cerco de (2m) dos metros",
+    "en el punto A levanté una orde-",
+    "nada al cerco de (3m,10) tres metros",
+    "diez centimetros.—",
+    "La"
+   ],
+   "interpretacion": "H-I N 50° 9′ 30″ O 1365,80 m; en H, ordenada de 1,55 m al cerco de Lucas Scully y otra (sin cifra) al cerco del mismo; en I ángulo 179° 57′; I-A N 50° 6′ 30″ O 1061,50 m; ordenadas de 2 m en I y 3,10 m en A. Verificación en python: el polígono de nueve lados cierra a 0,11 m."
+  },
+  {
+   "titulo": "Folio 4 · superficies y circular",
+   "img": "img/f/155/12.jpg",
+   "fuente": "IMG_0378.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 4».",
+   "lineas": [
+    "[Sello «FOJA 4»]",
+    "[Al margen: una tilde]",
+    "Superficie de este poligono es",
+    "de dos millones setecientos sesenta",
+    "y dos mil novecientos treinta y dos",
+    "metros cuadrados con ochenta",
+    "centimetros ó sean doscientas setenta",
+    "y seis hectareas, veinte y nueve",
+    "areas y treinta y dos centiáreas",
+    "y agregando á esta superficie",
+    "la comprendidas por las lineas",
+    "del poligono auxiliar y las ordena-",
+    "das á los cercos y al arroyo tene-",
+    "mos una superficie total para",
+    "este terreno comprendido entre",
+    "los cercos y las costas del Arroyo",
+    "de dos millones ochocientos",
+    "mil ochocientos noventa y ocho",
+    "metros con noventa y cuatro",
+    "centimetros cuadrados (2.800,898m.c 94)",
+    "ó sean doscientas ochenta hecta-",
+    "reas, ocho areas y noventa y",
+    "ocho centiareas.— X",
+    "Circular: la firmaron los",
+    "linderos Don Miguel Covian del",
+    "costado Nor-Este y D.n Lucas",
+    "Scully lindero por el costado",
+    "Sud-Este y Sud-Oeste.",
+    "Acta: la firmaron en prue-",
+    "ba de conformidad y habiendo"
+   ],
+   "interpretacion": "Polígono auxiliar: 2 762 932,80 m² = 276 ha 29 a 32 ca (python da 2 762 903 m², 0,001 % de diferencia). Con las fajas entre el polígono, los cercos y el arroyo: 2 800 898,94 m² = 280 ha 08 a 98 ca. Firman la circular Miguel Covián (lado NE) y Lucas Scully (lados SE y SO)."
+  },
+  {
+   "titulo": "Folio 4 vuelto · acta, declinación, firma y nota sobre Covián",
+   "img": "img/f/155/13.jpg",
+   "fuente": "IMG_0379.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "concurrido á este acto Don Miguel",
+    "Covian y D.n Lucas Scully.",
+    "Declinacion de la aguja ocho",
+    "grados cuarenta y un minuto Orien-",
+    "tal.",
+    "Rumbos: los dados son verdade-",
+    "ros",
+    "La Plata Junio 16 de 1890",
+    "Avelino [?] Varangot",
+    "Ingeniero Civil",
+    "Nota: Al lindero Don Miguel Covian",
+    "le corresponde en mérito de los",
+    "titulos que con sus antecedentes se",
+    "relacionan en la escritura otor-",
+    "gada ante el Escribano Haedo [?]",
+    "en fecha doce de Mayo de mil",
+    "ochocientos noventa al f. 562 vt.",
+    "que dice asi; Don José Maria",
+    "Sosa legitimo esposo que fué",
+    "de Doña Dionisia Alem de",
+    "Sosa hubo este campo en mayor",
+    "area y en dos fracciones, la pri-",
+    "mera por herencia de su Señor",
+    "padre Don Francisco Sosa",
+    "cuya testamentaria fué",
+    "liquidada al principio",
+    "de este siglo, en el Segundo"
+   ],
+   "interpretacion": "Covián y Scully concurren y firman el acta «en prueba de conformidad». Declinación de la aguja 8° 41′ oriental; «Rumbos: los dados son verdaderos». La Plata, 16/6/1890, firma «Avelino [?] Varangot, Ingeniero Civil». Nota: el título de Covián (escritura ante Haedo [?] del 12/5/1890, f. 562 v.) arranca en José María Sosa, esposo de Dionisia Alem, que tuvo el campo «en mayor area y en dos fracciones», la primera por herencia de su padre Francisco Sosa, cuya testamentaría se liquidó «al principio de este siglo»…"
+  },
+  {
+   "titulo": "Folio 5 · la cadena Sosa–Alem",
+   "img": "img/f/155/14.jpg",
+   "fuente": "IMG_0379.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 5». Borde derecho algo cortado en la toma.",
+   "lineas": [
+    "[Sello «FOJA 5»]",
+    "Departamento del Centro",
+    "Villa de Lujan siendo Juez",
+    "el Doctor Don Juan José",
+    "Cernadas y actuando el Escri-",
+    "bano D.n José Ignacio Reyband [?]",
+    "La segunda fraccion la",
+    "compró don José Maria Sosa",
+    "segun escritura estendida en",
+    "Buenos Aires el 12 de Abril",
+    "de 1850 ante el Escribano José",
+    "Manuel de Zeballos.—",
+    "Don José Maria Sosa falle-",
+    "ció en Areco bajo testamento",
+    "reciproco que con su esposa Doña",
+    "Dionisia Alem otorgaron en",
+    "Buenos Aires el 13 de Diciembre",
+    "de 1827 ante el Escribano Don",
+    "Miguel Mogrovejo instituyendose",
+    "herederos.—",
+    "Doña Dionisia Alem de",
+    "Sosa falleció en Areco el",
+    "10 de Setiembre de 1878 bajo",
+    "testamento cerrado estendido en",
+    "28 de Enero de 1861 cuya Carátu[la]",
+    "autorizó el Escribano Don Julia[n]",
+    "Aranda el 29 del mismo mes",
+    "y año, declarando por la Clausu[la]",
+    "tercera que habia sido legitimame[nte]",
+    "casada con Don José Maria Sosa"
+   ],
+   "interpretacion": "…en el Departamento del Centro, Villa de Luján (juez Dr. Juan José Cernadas, escribano José Ignacio Reyband [?]); la segunda fracción la compró José María Sosa en Buenos Aires el 12/4/1850 ante José Manuel de Zeballos. José María murió en Areco con testamento recíproco (Buenos Aires, 13/12/1827, escribano Miguel Mogrovejo). Dionisia Alem de Sosa murió en Areco el 10/9/1878 con testamento cerrado del 28/1/1861 (carátula autorizada por Julián Aranda el 29/1/1861)."
+  },
+  {
+   "titulo": "Folio 5 vuelto · Paula Cataldo heredera y cálculo del azimut",
+   "img": "img/f/155/15.jpg",
+   "fuente": "IMG_0380.JPG (mitad izquierda)",
+   "nota": "Renglón 2 muy desvaído (la cláusula del testamento).",
+   "lineas": [
+    "no haber tenido sucesion y por",
+    "la décima cuarta [?] clausula [?] [instituye] [?] unica",
+    "y universal heredera á su hija",
+    "adoptiva Doña Paula Cataldo.—",
+    "Doña Paula Cataldo de Zacarello",
+    "transfirió al Señor Miguel Covian",
+    "todos los derechos y acciones que",
+    "le correspondian al Campo situado",
+    "en el Partido de Giles y á los",
+    "demas bienes que le pertenecian",
+    "por herencia de Doña Dionisia",
+    "Alem de Sosa, segun resulta de",
+    "la escritura estendida en San",
+    "Antonio de Areco el 23 de Abril",
+    "de 1889 ante el Escribano Don José",
+    "A. Ezquiaga [?]",
+    "Cálculo del Azimut de la linea GH",
+    "[Tabla:]",
+    "Tiempo local 2h 40m p.m. · Dia 3 de Julio 1890",
+    "Altura aparente ☉ 21°40'50\"",
+    "½ D = 15'46\"",
+    "21°25'4\"",
+    "Ref. 2'27\"",
+    "21°22'37\"",
+    "Ang. [con la] Material [?] 266°51'"
+   ],
+   "interpretacion": "Sin sucesión, Dionisia instituye heredera universal a su hija adoptiva Paula Cataldo; Paula Cataldo de Zacarello transfiere a Miguel Covián los derechos al campo de Giles (San Antonio de Areco, 23/4/1889, escribano José A. Ezquiaga [?]). Sigue el «Cálculo del Azimut de la linea GH»: tiempo local 2 h 40 m p. m. del 3 de julio de 1890; altura aparente del Sol 21° 40′ 50″, menos semidiámetro 15′ 46″ y refracción 2′ 27″ = 21° 22′ 37″; ángulo con la marca [?] 266° 51′."
+  },
+  {
+   "titulo": "Folio 6 · resolución del triángulo de posición",
+   "img": "img/f/155/16.jpg",
+   "fuente": "IMG_0380.JPG (mitad derecha)",
+   "nota": "La suma de logaritmos escrita (19,05636) excede en 0,0005 la de los cuatro términos (19,05586); python da A = 140° 33′ 54″ (24″ de diferencia). La distancia polar corresponde a la declinación solar de comienzos de julio: la observación es posterior a la entrada del 16/6.",
+   "lineas": [
+    "[Sello «FOJA 6»]",
+    "[Continúa el cálculo:]",
+    "co alt. 68°37'23\" · lg. cosec. = 0,03045",
+    "co lat. 55°46' · \" \" = 0,08262",
+    "D.a p.r [distancia polar] = 112°55'36\"",
+    "2 S = 237°18'59\"",
+    "S = 118°39'29\" · \" sen = 9.94324",
+    "Δ = 112°55'36\"",
+    "S - Δ = 5°43'53\" · \" sen = 8.99955",
+    "19.05636",
+    "lg cos A/2 = 9.52818",
+    "A/2 = 70°16'45\"",
+    "A = 140°33'30\"",
+    "Am - A = 126°17'30\"",
+    "Az. verd. S 53°42'30\" O",
+    "\" Mag. S 45°1'30\" O",
+    "Declinacion Mag. 8°41'",
+    "A. Varangot",
+    "[Sello oval: «DEPARTAMENTO DE INGENIEROS · Entrada · JUN 16 1890 · DE LA PROVINCIA»]",
+    "[Trazo de cierre y rúbrica]"
+   ],
+   "interpretacion": "Colatitud 55° 46′ (latitud 34° 14′ S), coaltura 68° 37′ 23″, distancia polar 112° 55′ 36″; fórmula de semiángulos con logaritmos: A = 140° 33′ 30″; Am − A = 126° 17′ 30″; azimut verdadero de G-H S 53° 42′ 30″ O (= el rumbo de la diligencia); magnético S 45° 1′ 30″ O; declinación 8° 41′. Firma A. Varangot. Sello de entrada del Departamento de Ingenieros 16/6/1890."
+  },
+  {
+   "titulo": "Folio 6 vuelto · informe del Departamento de Ingenieros",
+   "img": "img/f/155/17.jpg",
+   "fuente": "IMG_0381.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Señor Juez:",
+    "Puede aprobarse la mensura practicada por",
+    "el Agrimensor Varangot en terreno de pro-",
+    "piedad de D.n Silvio Sosa en el partido",
+    "de Giles.",
+    "De esta mensura resulta un sobrante con",
+    "relacion al titulo de tres hectáreas treinta y",
+    "cinco areas sesenta y una centiárea que el inte-",
+    "resado deberá comprar al Fisco con sujecion á",
+    "la ley 14 de Febrero del presente año.",
+    "Julio 8/90",
+    "Julio C. Serna · J. [?] A. [?] Hayes [?]",
+    "Benjamin Sal · Cárlos M. Albarracin",
+    "[Otra letra:] Abril [?] 22 de 1905. Informe y plano",
+    "á la Of. de Tierras. Juan J. [?] Bugni [?]"
+   ],
+   "interpretacion": "«Puede aprobarse la mensura»; resulta un SOBRANTE respecto del título de 3 ha 35 a 61 ca (python: 2 800 898,94 − 2 767 337 = 33 562 m²), que el interesado «deberá comprar al Fisco con sujecion á la ley 14 de Febrero del presente año». 8/7/1890: Julio C. Serna, J. [?] A. [?] Hayes [?], Benjamín Sal, Carlos M. Albarracín. Nota de otra mano: «Abril [?] 22 de 1905. Informe y plano á la Of. de Tierras», Juan J. [?] Bugni [?]."
+  },
+  {
+   "titulo": "Folio 7 · oficio y auto de aprobación del juez Gamboa",
+   "img": "img/f/155/18.jpg",
+   "fuente": "IMG_0381.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 7»; al margen «25.55 · 155» y una rúbrica.",
+   "lineas": [
+    "[Papel sellado n.º 169541; timbre «DIRECCION GENERAL DE RENTAS · 1890 · 0.25 CENT.mos · DE LA PROVINCIA DE BUENOS AIRES»; sello «FOJA 7»]",
+    "[Al margen superior izquierdo, de otra mano: 25.55 · 155]",
+    "[Al margen: Gramea [?] (rúbrica)]",
+    "La Plata Julio 16/90",
+    "Al Señor Presidente del",
+    "Departamento de Ingenieros",
+    "A los efectos consiguientes co-",
+    "munico á V.d la resolucion dic-",
+    "tada por este Juzgado en el",
+    "juicio seguido por Don Silvio",
+    "Sosa sobre mensura, cuyo te-",
+    "nor es el siguiente: La Plata",
+    "Julio diez y seis de 1890 – Autos",
+    "y Vistos: De conformidad con",
+    "lo solicitado é informado por",
+    "el Departamento de Ingenieros",
+    "á f. 17 [?] se aprueba en cuanto há",
+    "lugar por derecho la mensu-",
+    "ra practicada por el Ingeniero",
+    "Don A. Varangot de un campo",
+    "de propiedad de Don Silvio"
+   ],
+   "interpretacion": "Papel sellado de 1890 (25 centavos, n.º 169541). La Plata, 16/7/1890: el juez comunica al presidente del Departamento de Ingenieros el auto que aprueba «en cuanto há lugar por derecho» la mensura del ingeniero A. Varangot del campo de Silvio Sosa."
+  },
+  {
+   "titulo": "Folio 7 vuelto · fin del auto y agregado al duplicado",
+   "img": "img/f/155/19.jpg",
+   "fuente": "IMG_0382.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Sosa situado en el Partido de",
+    "Giles, cuya operacion, plano y",
+    "demas documentos de su refe-",
+    "rencia obran de f. 5. á f. 17. En",
+    "su virtud comuniquese esta re-",
+    "solucion al Departamento de",
+    "Ingenieros y previo pago de cos-",
+    "tas y reposicion de sellos, entré-",
+    "guese original al interesado",
+    "de acuerdo con lo que dispone",
+    "el art. 620 del Codigo de Pro-",
+    "cedimientos. Arturo H. Gam-",
+    "boa. Ante mi: Cirilo P. Romero.—",
+    "Dios gue. á V.d",
+    "Arturo H. Gamboa",
+    "Ante mi:",
+    "Cirilo P. Romero",
+    "[Sello oval: «DEPARTAMENTO DE INGENIEROS · Entrada · JUL 21 1890 · DE LA PROVINCIA»]",
+    "Julio 21 de 1890",
+    "Agréguese al duplicado correspondien-",
+    "te",
+    "Hayes [?] / Lagos [?] (rúbrica)",
+    "[Al pie, a lápiz: La 11 [?]]"
+   ],
+   "interpretacion": "El plano y documentos obran de f. 5 a f. 17 del expediente original; previo pago de costas y reposición de sellos, se entrega el original al interesado (art. 620 del Código de Procedimientos). Firman Arturo H. Gamboa y el actuario Cirilo P. Romero. Entrada al D. I. 21/7/1890: «Agréguese al duplicado correspondiente», rúbrica (la misma del informe del 8/7)."
+  },
+  {
+   "titulo": "Folio 8 · nota de 1930: denuncia de Hermenegildo Ocampo",
+   "img": "img/f/155/20.jpg",
+   "fuente": "IMG_0382.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 8». El resto de la página en blanco.",
+   "lineas": [
+    "[Sello «FOJA 8»]",
+    "[Otra letra, 1930:] La Plata, mayo 28 de 1930.—",
+    "En la fecha se informa el expediente letra O-nú-",
+    "mero 2 año 1930.— Cop. 83 f.º 189.— «Ocampo Her-",
+    "menegildo s/ denuncia de terrenos en varios partidos de la pro-",
+    "vincia».—",
+    "J. [?] Ernestano [?] (rúbrica)"
+   ],
+   "interpretacion": "La Plata, 28/5/1930: se informa el expediente letra O n.º 2 de 1930, copiador 83 f. 189, «Ocampo Hermenegildo s/ denuncia de terrenos en varios partidos de la provincia». Firma ilegible."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano: campo de Silvio Sosa sobre el arroyo de Giles (Varangot, junio de 1890)",
+   "img": "img/f/155/03.jpg",
+   "fuente": "IMG_0383.JPG (otra toma completa IMG_0384; detalles IMG_0385-0390)",
+   "orientacion": "el lado largo D-G con Miguel Covián va arriba, el lado H-A con Lucas Scully abajo y el arroyo de Giles a la izquierda; flecha con «V. O. 8° 41′» junto al rótulo de Covián y otra flecha en el vértice H; escala gráfica en metros",
+   "interpretacion": "Título en letras de fantasía iluminadas en carmín y celeste: «SILVIO SOSA · SUPERFICIE – 2.800.898 m.s c.ds 94 – 165 c.ds c.ds más 16688 m.s c.ds 94» (165 cuadras cuadradas más 16 688,94 m²: comprobado con la cuadra de 150 v de 0,866 m). Polígono auxiliar en tinta con rumbos y distancias en cada lado (S 50° 1′ 30″ E 1935,90; S 50° 8′ 30″ E 731,90; S 49° 52′ 30″ E 698,60; S 53° 42′ 30″ O 993,40; N 50° 9′ 30″ O 1365,80; N 50° 6′ 30″ O 1061,50) y ángulos en rojo; el perímetro real (cercos) en línea roja fina, apenas por fuera del polígono. Firma «La Plata Junio de 1890 · Avelino [?] Varangot, Ingeniero Civil». Cálculos a lápiz junto a Covián: 2 800 898 − 2 767 337 = 33 561 (el sobrante) y 1935,90 + 731,90 + 698,60 = 3366,40, al lado de 3415,43 y 2512, las medidas del título.",
+   "referencias": [
+    [
+     "A",
+     "Esquinero O sobre el arroyo de Giles; ángulo 119° 43′; ordenada de 3,10 m al cerco"
+    ],
+    [
+     "B · C · D",
+     "Quiebres del polígono sobre la costa del arroyo (ángulos 181° 26′ y 193° 12′); ordenadas al agua cada 50 m"
+    ],
+    [
+     "D",
+     "Esquinero N; arranque de la línea con Covián; ordenada de 1,30 m"
+    ],
+    [
+     "E · F",
+     "Quiebres casi rectos (180° 7′ y 179° 44′) sobre el alambrado de Covián"
+    ],
+    [
+     "G",
+     "Esquinero E; ordenada de 0,70 m al cerco de Lucas Scully; ángulo 76° 25′"
+    ],
+    [
+     "H",
+     "Esquinero S; ángulo 103° 52′; ordenadas al cerco de Covián (4,80 m, según el texto) y al de Scully (1,55 m)"
+    ],
+    [
+     "I",
+     "Quiebre sobre el alambrado de Scully (179° 57′); ordenada de 2 m"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: el arroyo de Giles y los lados A-B-C-D",
+   "img": "img/f/155/04.jpg",
+   "fuente": "IMG_0385.JPG",
+   "orientacion": "detalle del sector O del plano",
+   "interpretacion": "El arroyo pintado en celeste con rótulo caligráfico «Arroyo de Guiles» [sic]. Sobre los lados A-B (N 10° 10′ 30″ E 282), B-C (N 8° 44′ 30″ E 462,40) y C-D (N 4° 27′ 30″ O 462) se ven en rojo las progresivas cada 50 m y las ordenadas hasta la orilla, de 15 a 58 m. Junto a C entra en el campo un brazo corto, un afluente o zanjón que el texto no menciona.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: la cabecera G-H con Lucas Scully",
+   "img": "img/f/155/05.jpg",
+   "fuente": "IMG_0390.JPG",
+   "orientacion": "detalle del ángulo E del plano",
+   "interpretacion": "Lado G-H «S. 53° 42′ 30″ O. 993m 40», ángulos de 76° 25′ en G y 103° 52′ en H, el lado F-G «S. 49° 52′ 30″ E. = 698m 60» y el rótulo «LUCAS SCULLY». A lápiz, «3415.43», el costado NE del título. En H, una flecha de meridiano hacia afuera del polígono.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Es un campo completamente cercado: «alambrado por tres costados» (Covián al NE, Scully al SE y al SO) y cerrado al NO por el arroyo de Giles, con un afluente o zanjón que entra junto a C. Es la primera mensura del corpus que declara IMPOSIBLE medir por el perímetro porque los alambrados lo impiden, y por eso traza un polígono interior con ordenadas a los cercos (0,70 a 4,80 m). Los cercos ya no coinciden con las líneas rectas del título: hay quiebres de minutos en E, F e I y desvíos de hasta 4,8 m. No se mencionan población, montes, puestos ni caminos; enfrente, cruzando el arroyo, está Gregorio Sanatta [?]. El campo, sin edificios propios en el texto, parece de inversión (Muzio y Sosa compran y revenden en tres meses)."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Edictos en dos diarios y notificación a los linderos, que firman la circular y CONCURREN al acta «en prueba de conformidad» (Covián y Lucas Scully), a diferencia de 154, donde los vecinos sólo firmaron. No se colocan mojones: el alambrado reemplaza al mojón como marca reconocida, y el ritual se reduce a medir hasta el cerco. Tramitación rápida y urbana: firma en La Plata (16/6), entrada al D. I. el mismo día, informe a los 22 días y auto a los 8; el juzgado es civil de La Plata (Gamboa) y no el de Mercedes. El Estado aparece como parte: el sobrante debe comprarse al Fisco."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Teodolito y polígono auxiliar de 9 lados con ángulos internos al minuto y rumbos al medio minuto. Verificaciones en python: el polígono cierra a 0,11 m; su área da 2 762 903 m² (el agrimensor 2 762 932,80; diferencia de 0,001 %); el ángulo ABC 181° 26′ coincide con la diferencia de rumbos A-B y B-C. ORIENTACIÓN ASTRONÓMICA: azimut de G-H por altura del Sol (3/7/1890, 2 h 40 m p. m.), corregida por semidiámetro y refracción, resuelta con la fórmula de semiángulos y logaritmos, con colatitud 55° 46′ (34° 14′ S). Recalculado en python: A = 140° 33′ 54″ contra 140° 33′ 30″ escrito (pequeño error de suma de logaritmos, 0,0005). La declinación solar implícita (22° 55′ 36″) es de comienzos de julio: el cálculo se agregó DESPUÉS de la entrada al D. I. (16/6) y antes del informe (8/7), probablemente a pedido de la oficina. Con la altura del Sol observada y la latitud, la hora (2 h 40 m) es coherente."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "El título está en cuadras cuadradas de 150 varas (164) con equivalencia en m² exacta para la vara de 0,866 m (2 767 337 m²). La mensura da 280 ha 08 a 98 ca y el plano lo traduce de nuevo a «165 cuadras cuadradas más 16 688,94 m²»: doble lenguaje métrico y colonial todavía en 1890. Sobrante de 33 562 m² = 1,21 %, liquidado como tierra fiscal por la ley del 14/2/1890. Comparado con 072 (1876): 164,53 cuadras cuadradas = 2 776 396 m², costado NE 3368 m (hoy 3366,40), SO 2400 m (hoy 2427,30), cabecera 1000 m (hoy 993,40); las diferencias son del orden de los desvíos de los cercos."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena: Francisco Sosa (testamentaría liquidada a comienzos del siglo XIX, Villa de Luján) → su hijo José María Sosa, que suma una segunda fracción comprada en 1850 → testamento recíproco con Dionisia Alem (1827) → Dionisia Alem de Sosa († Areco 10/9/1878) → su hija adoptiva Paula Cataldo de Zacarello, esposa o viuda de Estanislao Zacarelo, cuyo campo de 164 cuadras ya se midió en 1876 (072) → venta por apoderado (Dr. Narciso Sosa) a Lorenzo A. Muzio (6/12/1888) → Silvio Sosa (14/2/1889). El resto de la herencia de Dionisia (el campo lindero al NE) pasa a Miguel Covián (Areco, 23/4/1889). En 1888-1889 la herencia Alem-Sosa se liquida entera: un campo para un comprador porteño de apellido italiano que revende enseguida, y el otro para Covián."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "072 (Estanislao Zacarelo, Pico 1876): es el MISMO TRAPECIO (frente al arroyo de Giles, costados N 50° 10′ O de 3368 y 2400 m, cabecera S 53° 39′ O 1000 m contra 3366,40, 2427,30 y S 53° 42′ 30″ O 993,40 m de 1890); ancla GIS de primer orden. 021 (Dionisia Alen de Sosa, Differt 1858) y 126: la herencia Alem-Sosa; aquí se documenta su testamento (1861), su muerte (1878) y la heredera Paula Cataldo. 071 y 133: Santiago Scully y la división de 1883, en la que Lucas Scully recibe 1249,21 ha sobre el arroyo: es el lindero SE y SO de este campo. 148: la misma nota de 1905 a la Oficina de Tierras (firma Bugni [?]) y la denuncia de tierra fiscal de Hermenegildo Ocampo de 1930; en las dos carpetas el sobrante fiscal vuelve a revisarse décadas después. 062 y otras: Julio C. Serna firma en el D. I. desde 1872."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Completa: texto, cálculo de azimut, informe del D. I., auto judicial, plano y notas de 1905 y 1930. Dudas: nombre de pila del ingeniero (Avelino [?]; la carátula y la portadilla dicen «A. Varangot»); Gregorio «Sanatta» [?]; escribanos Reyband [?], Haedo [?] y Ezquiaga [?]; cláusula del testamento de Dionisia (renglón desvaído); firma del D. I. «Hayes [?] / Lagos [?]»; firma de 1930; número de la portadilla 3-80-92 [?]. Preguntas: ¿quién es Silvio Sosa y qué relación tiene con el Dr. Narciso Sosa, apoderado de la vendedora? ¿La ley del 14/2/1890 es la que obligó a comprar los sobrantes al Fisco (¿ley provincial n.º 2357?, a verificar)? ¿Por qué la ordenada de 4,80 m de G-H va al cerco de Covián, si el plano pone a Scully en esa cabecera? ¿Covián compró también tierra de Scully, o el texto confunde G con H? ¿Qué es el brazo de agua junto a C?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Silvio Sosa",
+   "rol": "Propietario y solicitante",
+   "texto": "Compra el campo a Lorenzo A. Muzio el 14/2/1889 en La Plata (escribano Beruti) y lo hace medir en 1890 en juicio de mensura en La Plata. No se conoce su relación con el Dr. Narciso Sosa ni con los Sosa de Giles.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "A. Varangot (¿Avelino?)",
+   "rol": "Ingeniero civil",
+   "texto": "Firma en La Plata como «Ingeniero Civil». Mide con teodolito, polígono auxiliar con ordenadas y azimut solar por alturas con logaritmos. Primera aparición en el corpus de Giles; la búsqueda web no dio datos.",
+   "fuentes": "Este duplicado; búsqueda web sin resultados."
+  },
+  {
+   "nombre": "Lorenzo A. Muzio",
+   "rol": "Vendedor",
+   "texto": "Compra a Paula Cataldo de Zacarello el 6/12/1888 y revende a Silvio Sosa a los dos meses (14/2/1889), ante el mismo escribano, Agustín Beruti.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Paula Cataldo de Zacarello",
+   "rol": "Antecesora",
+   "texto": "Hija adoptiva y heredera universal de Dionisia Alem de Sosa; probablemente esposa o viuda de Estanislao Zacarelo (072). Vende el campo Zacarelo a Muzio (1888, por medio de su apoderado) y transfiere a Miguel Covián los derechos al campo heredado de Dionisia (1889).",
+   "fuentes": "Este duplicado; fichas 021, 072, 071."
+  },
+  {
+   "nombre": "Estanislao Zacarelo",
+   "rol": "Antecesor (1876)",
+   "texto": "Hizo medir este mismo campo por Pedro Pico en 1876 (164,53 cuadras cuadradas); su estancia figura en el plano de Scully de 1883.",
+   "fuentes": "Fichas 072, 133."
+  },
+  {
+   "nombre": "Dr. Narciso Sosa",
+   "rol": "Apoderado de paula cataldo",
+   "texto": "Otorga la venta de 1888 a Muzio.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Dionisia Alem de Sosa",
+   "rol": "Antecesora",
+   "texto": "Esposa de José María Sosa; testamento recíproco de 1827 y testamento cerrado de 1861; murió en San Antonio de Areco el 10/9/1878 sin sucesión. Gran propietaria entre el arroyo de Giles y el río Areco (1858).",
+   "fuentes": "Este duplicado; fichas 021, 030, 031, 126."
+  },
+  {
+   "nombre": "José María Sosa y Francisco Sosa",
+   "rol": "Antecesores",
+   "texto": "José María heredó la primera fracción de su padre Francisco (testamentaría liquidada a comienzos del siglo XIX, juez Juan José Cernadas, Luján) y compró la segunda en 1850; murió en Areco.",
+   "fuentes": "Este duplicado; ficha 133 («campo de Francisco R. Sosa sobre el arroyo de Giles»)."
+  },
+  {
+   "nombre": "Miguel Covián",
+   "rol": "Lindero ne",
+   "texto": "Recibe en 1889 de Paula Cataldo los derechos al campo de Dionisia Alem de Sosa (escritura ante Haedo [?], 12/5/1890). Concurre y firma el acta.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Lucas Scully",
+   "rol": "Lindero se y so",
+   "texto": "Hijo de Santiago Scully y Brígida Kearney; en la división de 1883 recibe 1249,21 ha sobre el arroyo de Giles. Concurre y firma el acta.",
+   "fuentes": "Este duplicado; fichas 069, 071, 133."
+  },
+  {
+   "nombre": "Gregorio Sanatta [?]",
+   "rol": "Lindero frente al arroyo (título)",
+   "texto": "Citado sólo en el título, del otro lado del arroyo de Giles.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Dr. Arturo H. Gamboa y Cirilo P. Romero",
+   "rol": "Juez civil de la plata y actuario",
+   "texto": "Ordenan la mensura y la aprueban el 16/7/1890 según el art. 620 del Código de Procedimientos.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Julio C. Serna, Benjamín Sal, Carlos M. Albarracín y J. [?] A. [?] Hayes [?]",
+   "rol": "Departamento de ingenieros",
+   "texto": "Aconsejan aprobar y cobran el sobrante (8/7/1890); la última firma ordena agregar el oficio al duplicado (21/7/1890). Serna fue agrimensor en Giles en 1872 (062); Sal ya firmaba en 153.",
+   "fuentes": "Este duplicado; fichas 062, 152, 153, 154."
+  },
+  {
+   "nombre": "Escribanos Agustín Beruti, Haedo [?], José A. Ezquiaga [?], José Ignacio Reyband [?], José Manuel de Zeballos, Miguel Mogrovejo y Julián Aranda",
+   "rol": "Escribanos de la cadena de títulos",
+   "texto": "Beruti (La Plata, 1888-1889); Haedo (1890); Ezquiaga (Areco, 1889); Reyband (Luján, comienzos del siglo XIX); Zeballos (Buenos Aires, 1850); Mogrovejo (Buenos Aires, 1827); Aranda (1861).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Juan J. [?] Bugni [?]",
+   "rol": "Oficina técnica (1905)",
+   "texto": "Pasa el informe y el plano a la Oficina de Tierras el 22/4/1905, como en 148.",
+   "fuentes": "Este duplicado; ficha 148."
+  },
+  {
+   "nombre": "Hermenegildo Ocampo",
+   "rol": "Denunciante de tierras fiscales (1930)",
+   "texto": "Su expediente O-2/1930 sobre «terrenos en varios partidos» motiva el informe del 28/5/1930, como en 148.",
+   "fuentes": "Este duplicado; ficha 148."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/155/02.jpg",
+  "fuente": "IMG_0374.JPG",
+  "lineas": [
+   "1890",
+   "San Andres de Giles · N.º 155",
+   "Duplicado de la Mensura por A. Varangot para Silvio Sosa.",
+   "San Andrés de Giles",
+   "3-80-92 [?]"
+  ]
+ },
+ "titulo": "Silvio Sosa",
+ "estado": "Transcripta (15 hojas, 370 renglones), 3 láminas"
+}

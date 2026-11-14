@@ -1,0 +1,697 @@
+{
+ "carpeta": "153",
+ "carpeta_nombre": "Carpeta 153",
+ "archivo": "Ficha 153 - Herederos de Patricio Kelly (1889).docx",
+ "resumen": {
+  "N.º de duplicado": "153 (San Andrés de Giles); archivo 3-96-7",
+  "Propietario / solicitante": "Herederos de Patricio Kelly (María Duffy de Kelly e hijos)",
+  "Agrimensor": "Juan J. Aranguren",
+  "Año": "1889-1890",
+  "Fecha de la diligencia": "Inicio 23/2/1889; cierre Mercedes 30/12/1889; D. I. 13/1 y 28/1/1890",
+  "Ubicación": "Monte de los Gallegos, arroyo de Monsalvo, junto al camino a Areco",
+  "Orden judicial": "Dr. Domingo De María, juez de 1.ª Inst. Civil y Comercial, Depto. del Centro",
+  "Vendedor / antecesor": "Gobierno (sobrante 1864) y Juana Martínez de Pimentel (1865); ex Maydana–Garcete",
+  "Linderos citados": "S. J. Unzué, P. Gannan, J. Belson, Sandalia M. de Castro, J. Mulvihil, E. y B. Bianchi",
+  "Medidas": "AB 2222,5; BC 2114,3; CD 783,7; DE 2966; EA 3218 m",
+  "Rumbos": "N 44° 58′ O / N 48° 11′ E / S 11° 8′ O / S 78° 55′ E / S 59° 18′ O; var. 11° 6′ NE",
+  "Referencia de archivo": "AHG PBA, duplicado 153 de Giles; carátula de la DGC, portadilla 3-96-7"
+ },
+ "metricas": {
+  "superficie_ha": "530,34 (declarada); 529,94 (cálculo, cierre 2,5 m)",
+  "hitos": "mojones de ñandubay A-E y costaneros; mojón de fierro Gannan-Unzué; mojón a pedido de la viuda",
+  "aguas": "arroyo de Monsalvo (cruza D-E y E-A)"
+ },
+ "sintesis": "Juan J. Aranguren mide en 1889, por orden del juez De María, el campo de los herederos del irlandés Patricio Kelly en el antiguo Monte de los Gallegos, sobre el arroyo de Monsalvo. El título reúne un sobrante fiscal de 289 ha comprado en 1864, surgido de la mensura de los herederos de Dominga Garcete de Martínez, y una lonja de unas 130 ha comprada en 1865 a Juana Martínez de Pimentel. Ambos derivan de la enfiteusis de 1826 de Maydana y Martínez (Prat y Puig), vendida por Rosas en 1838. El pentágono de 530,34 ha cierra a 2,5 m. Hay alambrados de Unzué, Belson, Castro y Mulvihil, el camino a Areco y la pulpería de Alfonsín. Sin protestas; el D. I. lo aprueba el 28/1/1890.",
+ "caratula": {
+  "img": "img/f/153/01.jpg",
+  "fuente": "IMG_0330.JPG",
+  "campos": [
+   [
+    "N.º",
+    "153"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para los herederos de Don Patricio Kelly"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "J. J. Aranguren"
+   ],
+   [
+    "Año",
+    "1889"
+   ],
+   [
+    "Tramitado en el Juzgado / Secretaría",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · encabezado y compra del sobrante (1864)",
+   "img": "img/f/153/07.jpg",
+   "fuente": "IMG_0332.JPG",
+   "nota": "Hoja suelta fotografiada acostada (se lee girada 90°); sello «FOJA 1».",
+   "lineas": [
+    "[Sello «FOJA 1»]",
+    "Duplicado de la diligencia de mensu-",
+    "ra del terreno de propiedad de los herederos",
+    "de Don Patricio Kelly situado en el parti-",
+    "do de San Andres de Giles.—",
+    "Estracto de títulos.—",
+    "[Al margen: 1.º]",
+    "Buenos Aires 23 de Julio de 1864.— S. E. el Señor Goberna-",
+    "dor de la Provincia, ciudadano Don Mariano Saabedra",
+    "dijo: que en 7 de Mayo del mismo año, Don Manuel",
+    "Hobal [?] en representacion de Don Patricio Kelly se presen-",
+    "tó al Superior Gobierno solicitando en compra unos",
+    "sobrantes de terreno de propiedad pública situados en",
+    "el Partido de la Villa de Mercedes, el que habia resul-",
+    "tado de eceso en la mensura practicada para los",
+    "herederos de Doña Dominga Garcete de Martinez.—",
+    "Corrido traslado al apoderado de dichos herederos, Don",
+    "Máximo Landivar, se espidió diciendo que renuncia-",
+    "ba, á nombre de sus comitentes, á los derechos que po-",
+    "dia tener.— Previa vista fiscal y dictamen del Asesor,",
+    "el Gobierno decretó con fecha 16 de Julio de 1864, que se",
+    "notificara á Don Patricio Kelly, que el Gobierno acep-",
+    "ta la propuesta de compra del terreno de que trata",
+    "ese espediente y vuelva á la Oficina de tierras pú-",
+    "blicas para que el comprador pague al contado el",
+    "valor del terreno y fecho otórguese la respectiva escri-",
+    "tura de propiedad &.ª. y hágase saber al Departa-",
+    "mento Topográfico.— Saabedra.— Pablo Cárdenas.",
+    "Practicada la liquidacion por la mesa respectiva",
+    "y hecho el pago del importe del terreno, canon y aren-",
+    "damiento, el Señor Gobernador en uso de las facul-"
+   ],
+   "interpretacion": "«Duplicado de la diligencia de mensura del terreno de propiedad de los herederos de Don Patricio Kelly situado en el partido de San Andrés de Giles». Bajo «Estracto de títulos», el primero: el 7 de mayo de 1864 Manuel Hobal [?], por Kelly, pide comprar al Gobierno unos SOBRANTES de propiedad pública en el partido de la Villa de Mercedes, resultados de «eceso» en la mensura practicada para los herederos de Dominga Garcete de Martínez (es la de Pedro Saubidet de 1862, ficha 075). El apoderado de esos herederos, Máximo Landívar, renuncia a sus derechos; el gobernador Mariano Saavedra acepta la compra el 16 de julio de 1864 (firma Pablo Cárdenas) y se manda pagar al contado precio, canon y arrendamiento."
+  },
+  {
+   "titulo": "Folio 1 vuelto · 289 ha de sobrante y la venta de Rosas (1838)",
+   "img": "img/f/153/08.jpg",
+   "fuente": "IMG_0333.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "tades que por la ley ejerce, otorga y declara que",
+    "dá y concede en venta á Don Patricio Kelly, un terre-",
+    "no de propiedad de la Provincia, situado en el Parti-",
+    "do de la Villa de Mercedes, seccion de Lujan, compues-",
+    "to de tres millones ochocientas cincuenta y nueve",
+    "mil trescientas veintiseis varas cuadradas.— Escriba-",
+    "no de tierras públicas— José Robredo.—",
+    "Buenos Aires 18 de Abril de 1838.— El Ex.mo Gobernador",
+    "de la Provincia, Ilustre restaurador de las leyes Briga-",
+    "dier General Don Juan M. de Rosas, por ante el Escri-",
+    "bano Mayor de Gobierno, usando de las facultades",
+    "que le confiere la ley de 10 de Mayo de 1836, ven-",
+    "de, por auto de 24 de Mayo del mismo año, á Don",
+    "Justo Maydana y á Doña Dominga Garcete, viuda",
+    "de Don Dionicio Martinez, un terreno de propiedad",
+    "pública que poseen en enfiteusis, situado en la",
+    "Seccion de Lujan, cuya superficie es de una le-",
+    "gua cuadrada mas setecientas ochenta y un mil",
+    "trescientas treinta y dos millonésimas de otra, cuya",
+    "fraccion es un poco mayor de tres cuartos de legua",
+    "cuadrada, por la cantidad de ocho mil novecien-",
+    "tos seis pesos moneda corriente: y despues de haber",
+    "entegado [sic] los compradores en tesorería el valor de di-",
+    "cho terreno se han hecho las competentes anota-",
+    "ciones en la Contaduría y en el Departamento To-",
+    "pográfico segun todo resulta del espediente de",
+    "la materia cuyo tenor es el siguiente:",
+    "Buenos Aires 14 de Abril de 1830.— El Ex.mo Gobernador de la",
+    "Provincia, por ante el Escribano Mayor de Gobierno dijo:"
+   ],
+   "interpretacion": "La escritura otorga a Kelly un terreno de la Provincia «en el Partido de la Villa de Mercedes, sección de Luján», de 3 859 326 varas cuadradas = 289,43 ha (verificado: vara de 0,866 m). Siguen los antecedentes del campo madre: el 18 de abril de 1838 Juan Manuel de Rosas, por la ley de 10 de mayo de 1836, vende a Justo Maydana y a Dominga Garcete, viuda de Dionisio Martínez, el terreno que poseían en ENFITEUSIS en la sección de Luján: 1,781332 leguas cuadradas, en 8906 $ m/c."
+  },
+  {
+   "titulo": "Folio 2 · la enfiteusis de 1826 en el Monte de los Gallegos",
+   "img": "img/f/153/09.jpg",
+   "fuente": "IMG_0333.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 2».",
+   "lineas": [
+    "[Sello «FOJA 2»]",
+    "que concede en enfiteusis á Don Justo Maydana y á Don",
+    "Dionicio Martinez un terreno de propiedad pública inmedia-",
+    "to á la Guardia de Lujan, parage conocido por el Monte",
+    "de los Gallegos, que denunciaron en 15 de Junio de 1862 [sic: por 1826].—",
+    "Se practicó la mensura por el Agrimensor Don Raymun-",
+    "do Prat y Puig y aprobada esta con audiencia del Depar-",
+    "tamento Topográfico se otorgó la escritura segun consta",
+    "del espediente en que obran las siguientes actuadas:",
+    "Buenos Aires Noviembre 27 de 1826.— Se concede al suplican-",
+    "te el terreno que solicita en enfiteusis sin perjuicio de ter-",
+    "cero y bajo las condiciones de canon que fija la ley",
+    "de 18 de Mayo último.— Practicase la mensura por",
+    "el Agrimensor Don Raymundo Prat y Puig y resulta",
+    "ser un polígono irregular de siete lados, y cuya área",
+    "es de una legua cuadrada mas setecientas ochenta y",
+    "un mil trescientas treinta y dos millonésimas de otra",
+    "y sus linderos: por el Sud-Oeste Pascuala Vello y Don Ma-",
+    "riano Lima: por el Nord-Oeste Don José Rodriguez: por",
+    "el Nord-Este Don Guillermo Aguirre y Doña Maria Gante [?];",
+    "por el Sud-Este Don Ysidoro Molina.—",
+    "En Enero 21 de 1830.— El Departamento Topográfico",
+    "habiendo examinado la mensura de Prat y Puig aconseja",
+    "su aprobacion.—",
+    "En 8 de Febrero de 1830.— se aprueba y se manda estender",
+    "la escritura en forma.— Estando presente el procura-",
+    "dor de número Don José Canaberi [?], apoderado de Mayda-",
+    "na y Martinez, dijo que recibia el terreno de que se tra-",
+    "ta, en la misma forma que se les concedia y se-",
+    "ñala, é hizo la escritura por el Escribano Don José Ramon de",
+    "Basabilbaso.—"
+   ],
+   "interpretacion": "La concesión enfitéutica a Maydana y Dionisio Martínez, «inmediato á la Guardia de Luján, parage conocido por el MONTE DE LOS GALLEGOS», se otorga el 27/11/1826 bajo la ley de 18 de mayo; la denuncia figura «15 de Junio de 1862», error de copia evidente por 1826. Mide el agrimensor Raymundo Prat y Puig: polígono irregular de SIETE lados, 1,781332 leguas². Linderos de 1826: SO Pascuala Vello [Bello] y Mariano Lima; NO José Rodríguez; NE Guillermo Aguirre y María Gante [?]; SE Isidoro Molina. El Departamento Topográfico aconseja aprobar (21/1/1830); aprobación 8/2/1830; el procurador José Canaberi [?] recibe el terreno; escritura ante José Ramón de Basavilbaso."
+  },
+  {
+   "titulo": "Folio 2 vuelto · la división Maydana–Garcete (1837-1838)",
+   "img": "img/f/153/10.jpg",
+   "fuente": "IMG_0334.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Buenos Aires Setiembre 20 de 1837.— Don Justo Maydana, pro-",
+    "pone comprar la mitad del terreno concedido en enfi-",
+    "teusis en comunidad con Don Dionicio Martinez y pide se",
+    "le estienda la escritura de propiedad por separado de la",
+    "de Martinez.—",
+    "Buenos Aires Setiembre 20 de 1837.— Juan de la Cruz Marti-",
+    "nez, á nombre de Doña Dominga Garcete de Martinez, viuda",
+    "de Don Dionicio Martinez, propone comprar la mitad",
+    "del terreno que se concedió en enfiteusis á su finado es-",
+    "poso Don Dionicio Martinez en comunidad con Don Justo",
+    "Maydana y pide se le estienda la escritura de pro-",
+    "piedad por separado de la de Maydana.—",
+    "Setiembre 23/837.— Se pide informe al Departamento",
+    "Topográfico.—",
+    "Setiembre 29/837.— Se espide el Departamento Topográfico diciendo",
+    "que el terreno á que se refiere la solicitud habia sido mensu-",
+    "rado para ambos señores por el Agrimensor Prat y Puig",
+    "pero que no habia sido dividido y creia conveniente se eje-",
+    "cutara la division antes de resolverse sobre la solici-",
+    "tud y firman Don José de Arenales y Don Juan M.ª Gutierrez.—",
+    "En Buenos Aires 3 de Octubre de 1837.— pasa al Asesor y",
+    "despues de una larga tramitacion en 20 de Mayo de",
+    "1838 el Asesor aconseja al Gobierno que acepte la propues-",
+    "ta de Don Justo Maydana y de la viuda de Don Dionicio",
+    "Martinez.—",
+    "Buenos Aires Mayo 27 de 1838.— De conformidad con lo espuesto",
+    "por el ministerio fiscal y lo dictaminado por el Asesor,",
+    "usando el Gobierno de las facultades que le acuerda la",
+    "ley de 10 de Mayo de 1836, vende á Don Justo Maydana",
+    "y á Doña Dominga Garcete, viuda de Don Dionicio Marti-"
+   ],
+   "interpretacion": "El 20/9/1837 Maydana y Juan de la Cruz Martínez (por su madre Dominga Garcete) piden comprar cada uno su MITAD y escriturar por separado. El Departamento Topográfico (José de Arenales y Juan María Gutiérrez) informa que Prat y Puig midió para ambos pero no dividió, y aconseja dividir antes. Tras «una larga tramitación», el Asesor aconseja aceptar (20/5/1838) y el Gobierno vende el 27/5/1838."
+  },
+  {
+   "titulo": "Folio 3 · pago, escritura de 1854 y validación de 1864",
+   "img": "img/f/153/11.jpg",
+   "fuente": "IMG_0334.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "nez, el terreno que solicitan comprar y que tiene en enfiteusis, por",
+    "la cantidad de ocho mil novecientos seis pesos moneda corrien-",
+    "te que entregarán los compradores por mitad, es decir, cuatro mil",
+    "cuatrocientos cincuenta y tres pesos cada uno, y previa nota de la",
+    "contaduría y del Departamento Topográfico y hecha la liquida-",
+    "cion y pago, manda estender la escritura de propiedad á",
+    "favor de Don Justo Maydana y de Doña Dominga Garcete, lo",
+    "que fecho se archivará dándoles testimonios que en todo tiem-",
+    "po solicitaren y firman: Rosas— Manuel Insiarte.— A fojas",
+    "cinco de la Seccion de Lujan se toma razon y allí cons-",
+    "ta el pago del canon que corresponde.— A. Ibañez de",
+    "Luca.— Departamento Topográfico Abril 18 de 1838.— Lo anota",
+    "Arenales.—",
+    "En 13 de Agosto de 1854 [la cifra parece «1804»].— Se estiende la escritura",
+    "de propiedad á cada uno de los solicitantes del ter-",
+    "reno á que se refieren las anteriores tramitaciones y",
+    "cuya superficie consta en el informe del Departa-",
+    "mento Topográfico de fecha 28 de Setiembre de 1837.",
+    "y firman esta escritura S. E. el Señor Gobernador",
+    "de la Provincia, testigos y Don José Ramon de Basa-",
+    "vilbaso Escribano Mayor de Gobierno.—",
+    "Buenos Aires Enero 20/864— El Superior Gobierno decla-",
+    "ra válida en todas sus partes la escritura de propie-",
+    "dad, segun consta del espediente promovido á su",
+    "respecto por Don Máximo Landivar, apoderado de la testa-",
+    "mentaría de Doña Dominga Garcete de Martinez y de",
+    "mandato superior lo anota el Escribano Mayor de Gobier-",
+    "no Don Alejandro Araujo.—",
+    "Villa de Mercedes 10 de Enero de 1865.— Doña Juana Marti-",
+    "nez de Pimentel, legítima esposa de Don José Pimentel y con"
+   ],
+   "interpretacion": "Precio por mitades: 4453 $ cada uno (8906 / 2, verificado). Firman Rosas y Manuel Insiarte; toma de razón por A. Ibáñez de Luca (fojas 5 de la sección Luján) y anotación de Arenales (18/4/1838). La escritura se extiende recién el 13/8/1854 (la cifra parece «1804»; f. 3 vuelto confirma 1854). El 20/1/1864 el Gobierno declara válida la escritura, a pedido de Máximo Landívar por la testamentaría de Dominga Garcete (escribano mayor Alejandro Araujo): la validación de 1864 es la que permite vender el excedente a Kelly ese mismo año. Comienza el segundo título (Villa de Mercedes, 10/1/1865)."
+  },
+  {
+   "titulo": "Folio 3 vuelto · compra a Juana Martínez de Pimentel (1865)",
+   "img": "img/f/153/12.jpg",
+   "fuente": "IMG_0335.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "su venia, vende á Don Patricio Kelly, un terreno de cam-",
+    "po de figura irregular, situado en esta villa, parage de-",
+    "nominado Monte de los Gallegos, compuesto de trescien-",
+    "tos cuarenta y seis metros cuatro decímetros de frente al",
+    "Sud, equivalente á cuatrocientas varas, lindando con los",
+    "herederos de Colmenero; cuatrocientos noventa y tres metros",
+    "seis decímetros y dos centímetros de fondo al Norte, igual á",
+    "quinientas setenta varas lindando con Don Fernando Mon-",
+    "salvo; tresmil doscientos treinta y dos metros setecientos",
+    "sesenta y ocho milímetros por el costado Este equivalente",
+    "á tresmil setecientas treinta y tres varas, lindando",
+    "con Don Bernardo Martinez; dos mil novecientos cin-",
+    "cuenta y nueve metros novecientos ochenta y ocho",
+    "milímetros por el costado Oeste, igual á tresmil",
+    "cuatrocientas diez y ocho varas lindando con el com-",
+    "prador señor Kelly.— Le corresponde á la Señora",
+    "vendedora por habérsele adjudicado entre otros",
+    "bienes en pago de su legítima materna segun cons-",
+    "ta de la hijuela 4 de Julio de 1863 del Escribano Don",
+    "Pedro Medina.— A su finada señora madre le cor-",
+    "respondió por compra que hizo al Gobierno segun",
+    "consta de la escritura que en 13 de Agosto de 1854",
+    "se le otorgó ante el escribano Mayor de Gobierno Don José",
+    "Ramon de Basavilbaso.—",
+    "Lo vende á Don Patricio Kelly en sesenta mil pesos mo-",
+    "neda corriente, pagaderos treinta mil pesos al con-",
+    "tado y treinta mil á seis meses de plazo, ante el",
+    "Escribano Don Nicanor S. Ponsati.— Esc.no público y del",
+    "Crímen.— Recibe la señora vendedora un pagaré",
+    "á seis meses de plazo por la suma de treinta mil"
+   ],
+   "interpretacion": "Juana Martínez de Pimentel, con venia de su esposo José Pimentel, vende a Kelly un campo de figura irregular «en esta villa, parage denominado Monte de los Gallegos»: frente S 346,4 m = 400 v (herederos de Colmenero), fondo N 493,62 m = 570 v (Fernando Monsalvo), costado E 3232,768 m = 3733 v (Bernardo Martínez) y O 2959,988 m = 3418 v (el propio comprador Kelly). Conversiones verificadas (3733 v dan 3232,778: 1 cm de diferencia de copia). Superficie aproximada del cuadrilátero: 130 ha. Le venía de su legítima materna (hijuela de 4/7/1863, escribano Pedro Medina) y a su madre por la escritura de 1854. Precio 60 000 $ m/c, mitad al contado y mitad a seis meses con pagaré, ante el escribano Nicanor S. Ponsati."
+  },
+  {
+   "titulo": "Folio 4 · las hijuelas de los Kelly y Duffy",
+   "img": "img/f/153/13.jpg",
+   "fuente": "IMG_0335.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 4».",
+   "lineas": [
+    "pesos moneda corriente que fué pagado á su ven-",
+    "cimiento segun consta del recibo, que en el mismo paga-",
+    "ré se encuentra y que todo está agregado al título de",
+    "propiedad.—",
+    "Los bienes de Don Patricio Kelly han sido adjudi-",
+    "cados á sus herederos segun consta de las hijuelas, pero",
+    "en estas no se espresa los bienes que se adjudican.",
+    "Hijuela para la hija menor legítima Doña",
+    "Julia Kelly y Duffy.— Se le adjudican veinticin-",
+    "co mil cuatrocientos sesenta y un pesos veinte centavos mo-",
+    "neda corriente que segun la partida primera es igual",
+    "á su haber. partida 83.—",
+    "Hijuela para el hijo menor legítimo Don Eduardo",
+    "Kelly y Duffy.— Se le adjudican veinticinco mil cua-",
+    "trocientos sesenta y un pesos veinte centavos moneda cor-",
+    "riente que segun la partida 1.ª es igual á su haber par-",
+    "tida 73.ª",
+    "Hijuela para el hijo menor legítimo Don Patricio Kel-",
+    "ly y Duffy.— Se le adjudican veinticinco mil cuatrocien-",
+    "tos sesenta y un pesos veinte centavos moneda corriente que",
+    "segun la partida 1.ª es igual á su haber partida 76.ª— y",
+    "en una marca de fuego ochocientos pesos moneda corrien-",
+    "te— partida 29.ª",
+    "Hijuela para la hija menor legítima Doña Maria",
+    "Kelly y Duffy— Se le adjudican veinticinco mil cuatro-",
+    "cientos sesenta y un pesos veinte centavos moneda corriente",
+    "que segun la partida primera es igual á su haber— parti-",
+    "da 80.ª",
+    "La hijuela de la señora Doña Maria Duffy de Kelly no se",
+    "estracta porque la señora no tiene testimonio de su hijuela"
+   ],
+   "interpretacion": "El pagaré se pagó a su vencimiento. Los bienes de Kelly se adjudicaron a sus herederos, pero las hijuelas «no expresan los bienes que se adjudican»: Julia, Eduardo, Patricio y María Kelly y Duffy, hijos menores, reciben cada uno 25 461,20 $ m/c (partidas 83, 73, 76 y 80); Patricio además «una marca de fuego» de 800 $ (partida 29). La hijuela de la viuda, María Duffy de Kelly, no se extracta porque no tiene testimonio."
+  },
+  {
+   "titulo": "Folio 4 vuelto · comisión judicial y costados A-B y B-C",
+   "img": "img/f/153/14.jpg",
+   "fuente": "IMG_0336.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Mensura.— El Agrimensor que suscribe, comisio-",
+    "nado por decreto del señor Juez de 1.ª Instancia en lo Civil",
+    "y Comercio del Departamento del Centro, Doctor Don Domingo",
+    "De Maria, para medir el terreno de propiedad de los herede-",
+    "ros de Don Patricio Kelly, situado en el Partido de San Andrés",
+    "de Giles, previa citacion de linderos que orijinal se acom-",
+    "paña y diarios de publicacion de edictos, dió principio á",
+    "la mensura el dia 23 de Febrero del corriente año del modo",
+    "siguiente:",
+    "Desde el punto A, mojon de ñandubay, esquinero Sud",
+    "del terreno que se mide, al Norte cuarenta y cuatro grados",
+    "cincuenta y ocho minutos Oeste, medí dosmil doscientos",
+    "veinte y dos metros cincuenta centímetros hasta B, mojon",
+    "de ñandubay esquinero Oeste.— En esta línea se encontró á los",
+    "trescientos veintiocho metros un mojon de ñandubay costa-",
+    "nero y á los mil doscientos setenta y cinco metros veinticinco",
+    "centímetros se colocó otro mojon de ñandubay á pedido de",
+    "la señora Doña Maria Duffy de Kelly.— El alambrado del terre-",
+    "no del señor Unzué se encuentra establecido á veintiseis me-",
+    "tros á la izquierda del mojon A y á los dosmil ciento vein-",
+    "tiun metros á veintisiete metros cuarenta centímetros, de-",
+    "jando así el camino á Areco de por medio, y desde este",
+    "punto empieza á abrir.—",
+    "Desde B al Norte cuarenta y ocho grados once minutos Este",
+    "medí dosmil ciento catorce metros treinta centímetros hasta",
+    "el mojon de ñandubay C, habiendo encontrado á los ciento",
+    "veintiun metros un mojon de fierro esquinero de Gan-",
+    "nan y Unzué y costanero de los herederos de Kelly y el alam-",
+    "brado de Gannan y Unzué á los tres metros á la izquierda",
+    "de la línea BC.—"
+   ],
+   "interpretacion": "Aranguren, comisionado por el Dr. Domingo De María, juez de 1.ª Instancia en lo Civil y Comercial del Departamento del Centro, previa citación de linderos y edictos, empieza el 23 de febrero [1889]. A-B N 44° 58′ O 2222,5 m entre mojones de ñandubay, con un mojón costanero a 328 m y OTRO COLOCADO A PEDIDO DE MARÍA DUFFY DE KELLY a 1275,25 m (división interna entre herederos). El alambrado de Unzué corre a 26-27,4 m a la izquierda «dejando así el CAMINO Á ARECO de por medio». B-C N 48° 11′ E 2114,3 m; a 121 m un mojón de fierro esquinero de Gannan [Gannon] y Unzué, cuyo alambrado está a 3 m de la línea."
+  },
+  {
+   "titulo": "Folio 5 · costados C-D, D-E y E-A",
+   "img": "img/f/153/15.jpg",
+   "fuente": "IMG_0336.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 5».",
+   "lineas": [
+    "[Sello «FOJA 5»]",
+    "Desde C al Sud once grados ocho minutos Oeste, me-",
+    "dí setecientos ochenta y tres metros setenta centímetros",
+    "hasta D, mojon de ñandubay esquinero y el alambrado",
+    "de Don Jorge Belson se encuentra á tres metros de la línea.",
+    "Desde D al Sud setenta y ocho grados cincuenta y cinco",
+    "minutos Este, se midió dosmil novecientos sesenta y seis",
+    "metros hasta E y en esta línea se encontró á los cuatro-",
+    "cienta [sic] doce metros el arroyo de Monsalvo; á los ochocientos",
+    "sesenta y seis metros ochenta centímetros un mojon de ñan-",
+    "dubay esquinero del terreno de Don Jorge Belson, y de Doña",
+    "Sandalia M. de Castro; á ochocientos setenta y siete metros cin-",
+    "cuenta centímetros otro mojon de ñandubay costanero; á los",
+    "mil quinientos treinta y siete metros mojon de ñandubay",
+    "á dosmil treinta y nueve metros ochenta centímetros empieza",
+    "un alambrado de la señora S. M. de Castro y á los dosmil tres-",
+    "cientos veinticinco termina;— á dos mil seiscientos seis metros",
+    "veinte centímetros un mojon de ñandubay esquinero del",
+    "terreno de la señora Sandalia M. de Castro y empieza el de",
+    "Don Juan Mulvihil; á dosmil setecientos noventa y cinco",
+    "[metros] sesenta centímetros un mojon de ñandubay á seis metros diez",
+    "centímetros á la izquierda de la línea; á dos mil ochocientos",
+    "cuarenta y un metros otro mojon ñandubay en la línea;",
+    "el campo de Belson y el de Mulvihil se encuentran alambrados",
+    "por la línea.—",
+    "Desde E al Sud cincuenta y nueve grados diez y ocho mi-",
+    "nutos Oeste, medí tresmil doscientos diez y ocho metros",
+    "hasta A, y en esta línea encontré á los cuatrocientos cin-",
+    "cuenta y siete metros cincuenta centímetros un mojon",
+    "de ñandubay esquinero de los terrenos de Emilio y Bernabé",
+    "Bianchi y costanero de Kelly; á quinientos diez y ocho metros"
+   ],
+   "interpretacion": "C-D S 11° 8′ O 783,7 m (el texto parece decir «Oeste» y el plano lo confirma: con «Este» el polígono no cierra por 300 m); alambrado de Jorge Belson a 3 m. D-E S 78° 55′ E 2966 m: arroyo de Monsalvo a 412 m; esquinero Belson–Sandalia M. de Castro a 866,8; alambrado de Castro entre 2039,8 y 2325; esquinero Castro–Juan Mulvihil a 2606,2; Belson y Mulvihil alambrados por la línea. E-A S 59° 18′ O 3218 m: a 457,5 m el esquinero de Emilio y Bernabé Bianchi."
+  },
+  {
+   "titulo": "Folio 5 vuelto · superficie, linderos y circular",
+   "img": "img/f/153/16.jpg",
+   "fuente": "IMG_0337.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "treinta centímetros un mojon de ñandubay costanero",
+    "y á mil cuatrocientos setenta y seis metros setenta centíme-",
+    "tros otro ñandubay esquinero de Unzué y Bianchi y has-",
+    "ta este punto el alambrado está por la línea y en adelan-",
+    "te, en el costado del campo de Unzué á seis metros de la",
+    "línea; á mil novecientos once metros veinte centímetros",
+    "y á dosmil ochocientos cinco metros setenta centímetros",
+    "mojones de ñandubay costaneros y á mil novecientos seten-",
+    "ta y cinco metros se pasó el arroyo de Monsalvo.— A los tres",
+    "mil ciento cinco metros termina el alambrado de Unzué y",
+    "dejando una calle de la pulpería de Alfonsin, continúa",
+    "á las tres mil ciento treinta y siete metros cincuenta centímetros.—",
+    "El terreno medido es un pentágono irregular y tiene una",
+    "superficie de quinientas treinta hectáreas treinta y cua-",
+    "tro áreas cuarenta y cuatro centiáreas y doscientos noven-",
+    "ta y dos centécimos y los linderos son: al Sud-Oeste Don",
+    "Saturnino J. Unzué; al Nord-Oeste Don Patricio Gannan y",
+    "Don Saturnino J. Unzué, al Este Don Jorge Belson; al Norte",
+    "Don Jorge Belson, Doña Sandalia M. de Castro y Don Juan",
+    "Mulvihil y al Sud-Este Don Emilio y Don Bernabé Bianchi",
+    "y Don Saturnino J. Unzué.—",
+    "Protestas no hubieron.—",
+    "Variacion once grados seis minutos Nord-Este.—",
+    "Circular: firmaron: por Doña Sandalia M. de Castro, su",
+    "esposo Don Gregorio Castro; por Don Saturnino J. Unzué, Don",
+    "Juan Dufourquet, los demas linderos firmaron por sí",
+    "con escepcion de Don Patricio Gannan que no se notifi-",
+    "có por ignorarse su domicilio y no estar autorizado para",
+    "firmar el ocupante del terreno.—",
+    "Terminada la operacion se levantó el acta que se adjunta"
+   ],
+   "interpretacion": "Sobre E-A: esquinero Unzué–Bianchi a 1476,7 m; el alambrado de Unzué se aparta 6 m de la línea; arroyo de Monsalvo a 1975 m; a 3105 m termina el alambrado de Unzué «dejando una CALLE de la PULPERÍA DE ALFONSÍN». Pentágono irregular de 530 ha 34 a 44,292 ca (en python: cierre 2,5 m, 529,94 ha, diferencia de 0,08 %). Linderos: SO Saturnino J. Unzué; NO Patricio Gannan y Unzué; E y N Jorge Belson, Sandalia M. de Castro y Juan Mulvihil; SE Emilio y Bernabé Bianchi y Unzué. «Protestas no hubieron». Variación 11° 6′ NE. Firman la circular Gregorio Castro por su esposa, Juan Dufourquet por Unzué y los demás por sí; Gannan no fue notificado «por ignorarse su domicilio» y el ocupante de su campo no estaba autorizado a firmar."
+  },
+  {
+   "titulo": "Folio 6 · cierre y abalizamiento",
+   "img": "img/f/153/17.jpg",
+   "fuente": "IMG_0337.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 6»; al pie comienza a lápiz «Se-[ñor Juez]».",
+   "lineas": [
+    "[Sello «FOJA 6»]",
+    "á la diligencia de mensura.—",
+    "Mercedes Diciembre 30 de 1889.",
+    "Juan J. Aranguren [rúbrica]",
+    "Avalizamiento",
+    "Mojon A — direccion AB — Estancia de Kelly á la derecha 32° 30′.—",
+    "\" \" \" Puesto de Unzué \" \" 27° 5′.—",
+    "\" \" \" Estancia de Belson \" \" 52° 25′.—",
+    "B \" BC Puesto de Gannan \" \" 187°.—",
+    "\" \" \" Pulpería de Alfonsin \" \" 84° 15′.—",
+    "C \" CD puesto de Unzué \" \" 54° 33′.",
+    "\" \" \" Estancia Carey \" \" 173° 10′",
+    "\" \" \" Unzué \" \" 344° 8′",
+    "D \" DE puesto \" \" \" 208° 42′",
+    "\" \" \" Estancia Kelly \" \" 94° 43′",
+    "E \" EA Puesto de S. M. de Castro \" \" 57° 10′",
+    "\" \" \" Bianchi \" \" 353° 15′",
+    "Juan J. Aranguren [rúbrica]",
+    "[Sello oval: «DEPARTAMENTO DE INGENIEROS / Entrada / ENE 13 1890 / DE LA PROVINCIA»]",
+    "Se-"
+   ],
+   "interpretacion": "Fecha: Mercedes, 30 de diciembre de 1889, firma Juan J. Aranguren. «Avalizamiento»: desde cada mojón, ángulos a la derecha de la dirección del lado hacia edificios: estancia de Kelly, puesto de Unzué, estancia de Belson (desde A); puesto de Gannan y PULPERÍA DE ALFONSÍN (B); puesto de Unzué, estancia Carey y Unzué (C); un puesto y la estancia Kelly (D); puesto de S. M. de Castro y Bianchi (E). Entrada al Departamento de Ingenieros el 13/1/1890."
+  },
+  {
+   "titulo": "Folio 6 vuelto · aprobación técnica del D. I. (28/1/1890)",
+   "img": "img/f/153/18.jpg",
+   "fuente": "IMG_0338.JPG (mitad izquierda)",
+   "nota": "A la derecha, el plano plegado encuadernado (IMG_0338 mitad derecha; abierto en IMG_0339).",
+   "lineas": [
+    "ñor Juez:",
+    "Esta Oficina ha estudiado la mensura",
+    "practicada por el Agrimensor Juan J. Aran-",
+    "guren del campo de los herederos de Don",
+    "Patricio Kelly en el partido de S.n Andres",
+    "de Giles, y encontrándola bien ejecutada la",
+    "aprueba en su parte técnica",
+    "Enero 28/90",
+    "Julio C. Serna [rúbrica]  José M. Viv[…] [?] [rúbrica]",
+    "Benjamin Sal[…] [?] [rúbrica]"
+   ],
+   "interpretacion": "«Señor Juez: Esta Oficina ha estudiado la mensura practicada por el Agrimensor Juan J. Aranguren del campo de los herederos de Don Patricio Kelly en el partido de S.n Andrés de Giles, y encontrándola bien ejecutada la aprueba en su parte técnica». Enero 28/90. Firman Julio C. Serna, José M. Viv[…] [?] y Benjamín Sal[…] [?]."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de mensura (Juan J. Aranguren, diciembre de 1889)",
+   "img": "img/f/153/03.jpg",
+   "fuente": "IMG_0339.JPG (detalles IMG_0340-0342, tanda de enero de 2013)",
+   "orientacion": "el lado E-A va horizontal abajo; flecha de norte hacia arriba a la derecha (el norte gira unos 30° en sentido horario); escala gráfica de 500 a 2000 metros",
+   "interpretacion": "Pentágono iluminado en verde con «HEREDEROS DE PATRICIO KELLY · Sup. = 5 303 444,292 m²». Cotas que coinciden con el texto: N 48° 11′ E = 2114,3 m (B-C), S 11° 8′ O = 783,7 m (C-D: confirma la lectura «Oeste»), S 78° 55′ E = 2966,1 m (D-E), S 59° 18′ O = 3218 m (E-A) y N 44° 58′ O = 2222,5 m (A-B). Una línea paralela punteada junto a A-B es el camino a Areco, con la leyenda «Camino» a lo largo del lado. El arroyo de Monsalvo, dibujado a pulso, entra por D-E y sale por E-A. Dentro, una «Estancia» (casco de Kelly) dibujada como pequeño cuadrado cerca del centro-oeste; junto a A, un «Puesto» sobre E-A. Linderos rotulados: Saturnino J. Unzué (O, NO y S), P. Gannan (en B), B. Carey (en C, fuera del polígono), J. Belson, Sandalia M. de Castro, J. Mulvihill, B. Bianchi y E. Bianchi. Firma «Diciembre de 1889 · Juan J. Aranguren».",
+   "referencias": [
+    [
+     "A",
+     "Mojón de ñandubay, esquinero S; desde aquí el alambrado de Unzué deja el camino a Areco de por medio"
+    ],
+    [
+     "B",
+     "Mojón de ñandubay, esquinero O; puesto de Gannan cerca; mojón de fierro Gannan-Unzué a 121 m"
+    ],
+    [
+     "C",
+     "Mojón de ñandubay, esquinero N; estancia Carey a la vista"
+    ],
+    [
+     "D",
+     "Mojón de ñandubay; vértice entrante, alambrado de Belson"
+    ],
+    [
+     "E",
+     "Mojón de ñandubay, esquinero E; arranque del límite con los Bianchi"
+    ],
+    [
+     "Arroyo",
+     "Arroyo de Monsalvo: cruza D-E a 412 m y E-A a 1975 m"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: lado O, camino a Areco y estancia",
+   "img": "img/f/153/04.jpg",
+   "fuente": "IMG_0340.JPG",
+   "orientacion": "toma de detalle de la mitad izquierda",
+   "interpretacion": "Se lee «N 44° 58′ O = 2222,5 m» a lo largo de A-B, con el camino punteado al lado; «P. Gannan» junto a B con un pequeño edificio; «Estancia» dentro del polígono; puesto junto a A sobre E-A. Al margen izquierdo, operaciones a lápiz del Departamento (sumas de ángulos).",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: ángulo C-D y arroyo de Monsalvo",
+   "img": "img/f/153/05.jpg",
+   "fuente": "IMG_0341.JPG",
+   "orientacion": "toma de detalle del centro",
+   "interpretacion": "El vértice entrante D y el lado C-D «S 11° 8′ O = 783,7 m»; la flecha de norte sale de C hacia «B. Carey». El arroyo de Monsalvo, con su rótulo a lo largo del cauce, corta D-E y E-A.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: lado E, Castro, Mulvihill y los Bianchi",
+   "img": "img/f/153/06.jpg",
+   "fuente": "IMG_0342.JPG",
+   "orientacion": "toma de detalle de la mitad derecha",
+   "interpretacion": "Sobre D-E, las progresivas de los mojones y alambrados de Sandalia M. de Castro (2039,8; 2325; 2606,2) y de J. Mulvihill (2795,6; 2841); «= 2966,1 m». A lápiz, la cuenta del D. I. «48 11 / 11 8 / 37 03»: la diferencia entre los rumbos de B-C y C-D da el ángulo en C, prueba de que el Departamento revisó la geometría.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Es la diligencia de 1889 que más describe el paisaje cercado del corpus. Cuatro vecinos tienen ALAMBRADO: Unzué (a 26-27,4 m de A-B, dejando el camino a Areco de por medio, y a 6 m de E-A), Gannan y Unzué (a 3 m de B-C), Belson (a 3 m de C-D) y Castro y Mulvihil (por la línea). El campo de Kelly no aparece cercado. Elementos: arroyo de Monsalvo que lo cruza de N a S; camino a Areco por el lado O; una CALLE que sale de la pulpería de Alfonsín; casco de estancia de Kelly; puestos de Unzué, Gannan y Castro; estancias de Belson y Carey. El topónimo colonial Monte de los Gallegos (1826) se conserva en el título de 1865, pero ya no hay monte en la diligencia: hay alambres, puestos y calles."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Citación de linderos «que original se acompaña» y edictos en diarios; circular firmada por todos menos Gannan, «por ignorarse su domicilio», cuyo ocupante (arrendatario o puestero) no podía firmar por él: el propietario ausente y el ocupante presente son figuras distintas. Gregorio Castro firma por su esposa Sandalia y Juan Dufourquet por Unzué (apoderado o mayordomo). La viuda María Duffy de Kelly pide que se coloque un mojón a 1275,25 m sobre A-B: en plena mensura judicial asoma una partición privada entre herederos. «Protestas no hubieron»."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos al minuto y distancias al centímetro; mojones de ÑANDUBAY en todos los vértices y costaneros, y un mojón de FIERRO ajeno (Gannan-Unzué). El «avalizamiento» da, desde cada vértice, ángulos de 0 a 360° medidos a la derecha del lado hacia estancias, puestos y la pulpería: es una red de referencia para volver a encontrar los mojones, como la de 100 o 124. Variación 11° 6′ NE, propia (no copia la de 11° 42′ de Muñiz en 152). En python: el pentágono cierra a 2,5 m y da 529,94 ha contra 530,34 declaradas (0,08 %). Con C-D al SE, el error sería de 300 m: confirma «Oeste»."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Tres sistemas se apilan: leguas cuadradas en millonésimas (1826-1838: 1,781332 leguas² = 4809 ha con vara de 0,866 m), varas cuadradas (sobrante de 1864: 3 859 326 v² = 289,43 ha) y metros con equivalencia en varas (1865: 346,4 m = 400 v; 493,62 = 570; 3232,768 ≈ 3733 [3232,778]; 2959,988 = 3418), y por último hectáreas (1889). En la escritura de 1865 los metros se calculan desde las varas al milímetro: la medida real sigue siendo la vara. Las dos piezas suman unas 419 ha (289 + 130) y la mensura da 530 ha: faltan unas 110 ha. Pueden ser tierras de Kelly no extractadas (las hijuelas Martínez que compraba en 1866, según 037; el lindero O del título de 1865 es «el comprador señor Kelly»)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena: enfiteusis de 1826 (Justo Maydana y Dionisio Martínez, Prat y Puig) → venta de Rosas por mitades en 1838 (Maydana y Dominga Garcete viuda de Martínez) → escritura recién en 1854 → mensura de los herederos de Garcete (Saubidet 1862) que deja un excedente → validación de la escritura y venta del sobrante a Kelly en 1864, con renuncia de los herederos por medio de Landívar → compra de la lonja de Juana Martínez de Pimentel, nieta o hija de los Martínez, en 1865 → muerte de Kelly y partición entre su viuda y cuatro hijos menores, en pesos y no en tierras (con una «marca de fuego» como bien adjudicado) → mensura de 1889. Es el patrón irlandés de entrada: comprar sobrantes fiscales y fracciones de herederos criollos."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "074 (Prat 1840, Monte de los Gallegos, Colmenero); 075 (Saubidet 1862, herederos de Dominga Garcete: la mensura cuyo «eceso» compra Kelly; allí el lindero NE es «María Gaete [?]», aquí «María Gante [?]» en 1826); 054 (1869: Kelly sucesor de Martínez–Garcete, con población, lindero de Colmenero); 037 (Kelly compra hijuelas Martínez, 1866); 066 (Monsalvo 1874: el fondo N 80° 42′ O de Monsalvo contra los herederos de Kelly y Bianchi; aquí D-E S 78° 55′ E: probable mismo límite, con 1° 47′ de diferencia de variación); 118 (José Bianchi 1881, 570,21 ha sobre el arroyo de Monsalvo, ex Bernardo Martínez: el lindero E de 1865 y SE de 1889); 055 (Pascuala Bello viuda de Leguisamón); 011 (Guillermo Aguirre, enfiteusis 1826); 102 (Bernardo Carey); 085 (Patricio Gannon); 124-125 (Unzué, sobrantes de Colmenero). El juez De María y el D. I. (Serna) son los mismos de 152."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Completa en texto y plano; falta el acta original y el auto judicial de aprobación (sólo la aprobación técnica del 28/1/1890). Dudas: Manuel «Hobal» [?], José «Canaberi» [?], María «Gante» [?]; firmantes del D. I. Viv… y Sal…; la fecha de la denuncia «1862» (por 1826) y de la escritura «1804» (por 1854). Preguntas: ¿de dónde salen las 110 ha que exceden los títulos extractados? ¿Quién es Juana Martínez de Pimentel en el árbol Martínez–Garcete (hija de Juan de la Cruz)? ¿La pulpería de Alfonsín es la misma familia del bloque Gutiérrez (152)? Para el GIS: el arroyo de Monsalvo y el camino a Areco dan dos referencias físicas actuales para encajar el pentágono entre 066, 075 y 118."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Patricio Kelly",
+   "rol": "Causante",
+   "texto": "Irlandés, compra en 1864 un sobrante fiscal de 289 ha surgido de la mensura de los herederos de Garcete y en 1865 la lonja de Juana Martínez de Pimentel; en 1866 compra hijuelas Martínez (037) y en 1869 es lindero con población (054). Murió antes de 1874, porque en 066 ya figuran sus herederos. Casado con María Duffy.",
+   "fuentes": "Este duplicado; fichas 037, 054, 066. Búsqueda web sin datos específicos."
+  },
+  {
+   "nombre": "María Duffy de Kelly",
+   "rol": "Viuda, heredera",
+   "texto": "Pide en la mensura que se coloque un mojón intermedio sobre A-B. Su hijuela no se extracta por falta de testimonio. Los Duffy son otra familia irlandesa de la región.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Julia, Eduardo, Patricio y María Kelly y Duffy",
+   "rol": "Herederos menores",
+   "texto": "Cada uno recibe 25 461,20 $ m/c; Patricio, además, una marca de fuego tasada en 800 $.",
+   "fuentes": "Este duplicado (f. 4)."
+  },
+  {
+   "nombre": "Juan J. Aranguren",
+   "rol": "Agrimensor",
+   "texto": "Primera aparición en el corpus como agrimensor; firma en Mercedes. Usa el «avalizamiento» con ángulos de 0 a 360° y variación propia. Tal vez emparentado con José A. Aranguren, que tenía tierras en el bloque Lima (061, 140), sin confirmar.",
+   "fuentes": "Este duplicado; fichas 061, 140; búsqueda web 14/11/2026 sin resultados."
+  },
+  {
+   "nombre": "Dr. Domingo De María",
+   "rol": "Juez",
+   "texto": "Juez de 1.ª Instancia en lo Civil y Comercial del Departamento del Centro (Mercedes); es el «Dr. Demaría» que autoriza la mensura de Petrona G. de Molina (152).",
+   "fuentes": "Este duplicado; ficha 152."
+  },
+  {
+   "nombre": "Justo Maydana, Dionisio Martínez y Dominga Garcete",
+   "rol": "Enfiteutas y compradores (1826-1838)",
+   "texto": "Enfiteutas del Monte de los Gallegos (1826) que compran por mitades a Rosas en 1838; Juan de la Cruz Martínez gestiona por su madre. La testamentaría de Garcete, representada por Máximo Landívar, renuncia en 1864 al excedente.",
+   "fuentes": "Este duplicado; fichas 054, 075, 118."
+  },
+  {
+   "nombre": "Juana Martínez de Pimentel y José Pimentel",
+   "rol": "Vendedores (1865)",
+   "texto": "Juana hereda de su madre (hijuela de 4/7/1863, escribano Pedro Medina) y vende con venia de su esposo unas 130 ha a Kelly en 60 000 $ m/c.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Raymundo Prat y Puig",
+   "rol": "Agrimensor (1826-1830)",
+   "texto": "Mide la enfiteusis como polígono de siete lados; aprobada en 1830. Es el Prat de 002 y 074.",
+   "fuentes": "Este duplicado; fichas 002, 074."
+  },
+  {
+   "nombre": "Juan Manuel de Rosas, Manuel Insiarte, José R. de Basavilbaso, A. Ibáñez de Luca, José de Arenales, Juan M.ª Gutiérrez",
+   "rol": "Gobierno y oficinas (1837-1854)",
+   "texto": "Rosas vende por la ley de 10/5/1836; Insiarte refrenda; Basavilbaso, escribano mayor de gobierno; Ibáñez de Luca toma razón en Contaduría; Arenales y Gutiérrez firman por el Departamento Topográfico.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Mariano Saavedra, Pablo Cárdenas, José Robredo, Alejandro Araujo",
+   "rol": "Gobierno (1864)",
+   "texto": "El gobernador Saavedra aprueba la venta del sobrante; Cárdenas refrenda; Robredo, escribano de tierras públicas; Araujo, escribano mayor de gobierno, anota la validación de 1864.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Saturnino J. Unzué",
+   "rol": "Lindero so, no y se",
+   "texto": "Gran propietario del bloque Colmenero; alambrado y puestos. Juan Dufourquet firma por él.",
+   "fuentes": "Este duplicado; fichas 054, 124, 125."
+  },
+  {
+   "nombre": "Patricio Gannan (Gannon)",
+   "rol": "Lindero no",
+   "texto": "No fue notificado «por ignorarse su domicilio»; tiene puesto y alambrado común con Unzué.",
+   "fuentes": "Este duplicado; ficha 085."
+  },
+  {
+   "nombre": "Jorge Belson, Sandalia M. de Castro (con Gregorio Castro) y Juan Mulvihil",
+   "rol": "Linderos n y e",
+   "texto": "Campos alambrados sobre C-D y D-E, probablemente fracciones del antiguo campo de Fernando Monsalvo (lindero N en 1865). Primera aparición en el corpus.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Emilio y Bernabé Bianchi",
+   "rol": "Linderos se",
+   "texto": "Sucesores de José Bianchi (118) sobre el arroyo de Monsalvo.",
+   "fuentes": "Este duplicado; ficha 118."
+  },
+  {
+   "nombre": "Nicanor S. Ponsati",
+   "rol": "Escribano",
+   "texto": "Escribano público y del crimen en Mercedes; autoriza la compra de 1865 y las ventas de Petrona G. de Molina (152).",
+   "fuentes": "Este duplicado; ficha 152."
+  },
+  {
+   "nombre": "Julio C. Serna, José M. Viv… [?], Benjamín Sal… [?]",
+   "rol": "Departamento de ingenieros",
+   "texto": "Aprueban la parte técnica el 28/1/1890. Serna y Viv… firman también en 152.",
+   "fuentes": "IMG_0338."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/153/02.jpg",
+  "fuente": "IMG_0331.JPG",
+  "lineas": [
+   "San Andrés de Giles 153",
+   "1889. 153",
+   "Mensura del terreno de propiedad de los herederos de Don Patricio Kelly situado en el Partido de San Andrés de Giles.",
+   "Agrimensor J. J. Aranguren",
+   "3-96-7"
+  ]
+ },
+ "titulo": "Herederos de Patricio Kelly (María Duffy de Kelly e hijos)",
+ "estado": "Transcripta (12 hojas, 332 renglones), 4 láminas"
+}

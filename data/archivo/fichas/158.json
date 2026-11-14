@@ -1,0 +1,429 @@
+{
+ "carpeta": "158",
+ "carpeta_nombre": "Carpeta 158",
+ "archivo": "Ficha 158 - Sucesión de Luis Vernet (1891).docx",
+ "resumen": {
+  "N.º de duplicado": "158 (Giles)",
+  "Propietario / solicitante": "Sucesión de Luis Vernet",
+  "Agrimensor": "Luis Monteverde",
+  "Año": "1891",
+  "Fecha de la diligencia": "Pedido 5/9/1885; mensura 7/4/1891; firma 5/5/1891; D. I. 26/5/1891; escritura 22/7/1892",
+  "Ubicación": "Sobras de Díaz de Vivar, fondo SO del campo Noriega, sobre el camino de Mercedes a Giles",
+  "Orden judicial": "Ninguna: trámite administrativo; pide Carlos Vernet por la sucesión",
+  "Vendedor / antecesor": "Fisco (sobrante concedido «á cuenta» de derechos de tierras de Vernet)",
+  "Linderos citados": "G. Lescano (NE), D. Frías y C.ª (SE), her. T. Gaynor (SO), C. Oyuez y E. Kelly (NO)",
+  "Medidas": "A-B 524; B-C 2655; C-D 643; D-E 809; E-A 1851,02 m",
+  "Rumbos": "N 30° 39′ O; N 59° 11′ E; S 30° 39′ E; S 58° 1′ O; S 63° 24′ O (texto: 43°)",
+  "Referencia de archivo": "AHG PBA, duplicado 158 de San Andrés de Giles"
+ },
+ "metricas": {
+  "superficie_ha": "161,9524",
+  "hitos": "mojones de ñandubay y de fierro; mojón de fierro caminero; alambrados; tranquera; tapera; población de Margarita Casey",
+  "aguas": "ninguna citada"
+ },
+ "sintesis": "Tercera medición de las «sobras de Díaz de Vivar». En 1885 la sucesión de Luis Vernet, el comandante de Malvinas, pide al Gobierno este sobrante de 138 ha «á cuenta» de los derechos de tierras que se le reconocían. Luis Monteverde lo mide en abril de 1891 sin juez: es un pentágono de 161,95 ha entre Gaynor, Oyuez, Kelly, Gerónimo Lescano y Domingo Frías y C.ª, cruzado por el camino de Mercedes a Giles, con la población de Margarita Casey, una tapera y un alambrado con tranquera. Monteverde corrige la mensura de Castro de 1884 (Ficha 139) para respetar el alambrado de Frías. Ningún lindero asiste. El D. I. aprueba el 26/5/1891 y en julio de 1892 la tierra se escritura a la sucesión.",
+ "caratula": {
+  "img": "img/f/158/01.jpg",
+  "fuente": "IMG_0407.JPG",
+  "campos": [
+   [
+    "N.º",
+    "158"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Luis Vernet"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Luis Monteverde"
+   ],
+   [
+    "Mes / Año",
+    "(en blanco) / 1891"
+   ],
+   [
+    "Juzgado / Secretaría / Duplicados de referencia",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · extracto del expediente: el pedido de la sucesión Vernet (1885-1891)",
+   "img": "img/f/158/06.jpg",
+   "fuente": "IMG_0409.JPG",
+   "nota": "Hoja suelta acostada, leída rotada 90°; sello «FOJA 1». No hay comisión judicial: el trámite es administrativo (Superior Gobierno y Departamento de Ingenieros).",
+   "lineas": [
+    "[sello: FOJA 1]",
+    "Mensura para la sucesión de Don Luis",
+    "Vernet, de un sobrante en el partido de Giles.",
+    "Estracto del espediente.",
+    "Setiembre 5 de 1885. Don Carlos Vernet, representando la su-",
+    "cesión de D. Luis Vernet, se presenta al superior Go-",
+    "bierno, pidiendo que á cuenta de los terrenos á cuya ubi-",
+    "cación tiene derechos, se le conceda la propiedad",
+    "de un sobrante, ubicado en el partido de Giles, con la",
+    "estensión de 138 hectareas, y cuyos linderos son: al",
+    "Nordeste N. Lescano y herederos de Norberto Noriega; al",
+    "Noroeste herederos de Vicente Noriega; al Sud Oeste",
+    "Jacoba Iramain de Achaval y al Sud Este Fran-",
+    "cisco Lescano.",
+    "Despues de varias tramitaciones é informes el señor",
+    "Vernet, en Mayo 17 de 1890, propone al agrimen-",
+    "sor que firma, para practicar la mensura del",
+    "terreno, cuya propiedad tiene solicitada.–",
+    "Febrero 25 de 1891. Habiendo sido aceptado, en",
+    "esta fecha, tomé antecedentes en el Depar-",
+    "tamento de Ingenieros.–"
+   ],
+   "interpretacion": "Encabezamiento: «Mensura para la sucesión de Don Luis Vernet, de un sobrante en el partido de Giles». El 5/9/1885 Carlos Vernet, en representación de la sucesión de Luis Vernet, pide al Superior Gobierno que, «á cuenta de los terrenos á cuya ubicación tiene derechos», se le conceda la propiedad de un sobrante de 138 ha en Giles, con linderos NE N. Lescano y herederos de Norberto Noriega, NO herederos de Vicente Noriega, SO Jacoba Iramain de Achával y SE Francisco Lescano. Son los linderos de 1866 de las «sobras de Díaz de Vivar» que Saubidet separó del campo Noriega (Ficha 039: 521 × 2641 m = 137,89 ha), y es el mismo pedido de la nota del 3/9/1885 anotada en esa ficha. El 17/5/1890 Vernet propone al agrimensor; aceptado, éste toma antecedentes en el Departamento de Ingenieros el 25/2/1891."
+  },
+  {
+   "titulo": "Folio 1 vuelto · operación: lados A-B y B-C",
+   "img": "img/f/158/07.jpg",
+   "fuente": "IMG_0410.JPG (mitad izquierda)",
+   "nota": "Media página izquierda de IMG_0410. «treinta y nueve minutos» se confirmó ampliando la palabra y coincide con el plano.",
+   "lineas": [
+    "Mensura",
+    "En el partido de Giles á siete de Abril de mil",
+    "ochocientos noventa y uno, el agrimensor sus-",
+    "cripto, comisionado por el superior Gobierno, para",
+    "medir el terreno solicitado por la sucesión de D. Luis",
+    "Vernet en este partido, previa publicación de avisos",
+    "en los diarios acompañados, citación á los linderos",
+    "é instrucciones del Departamento de Ingenieros pro-",
+    "cedí de la manera siguiente:–",
+    "Linea A B. Colocado en A, mojón de ñandubay",
+    "esquinero de D. Tomás Gaynor, y de D. Domingo",
+    "Frías y C.ª, con el rumbo Norte, treinta grados trein-",
+    "ta y nueve minutos Oeste, medí siguiendo el",
+    "alambrado, quinientos veinte y cuatro metros",
+    "hasta B, donde encontré otro mojón de ñandu-",
+    "bay, costanero de Tomás Gaynor y esquinero de",
+    "Ceferino Oyuez.",
+    "Linea B C. Desde B, con el rumbo Norte, cin-",
+    "cuenta y nueve grados once minutos Este, medí",
+    "hasta C donde existe otro mojón de ñandubay,",
+    "esquinero de Elisa Kelly, y costanero de Geróni-",
+    "mo Lescano, medí dosmil seiscientos cincuenta"
+   ],
+   "interpretacion": "Giles, 7/4/1891. Monteverde actúa «comisionado por el Superior Gobierno», previa publicación de avisos en los diarios, citación de linderos e instrucciones del D. I. A (mojón de ñandubay, esquinero de Tomás Gaynor y de Domingo Frías y C.ª) → N 30° 39′ O, siguiendo el ALAMBRADO, 524 m → B (ñandubay, costanero de Gaynor y esquinero de Ceferino Oyuez). B → N 59° 11′ E → C (ñandubay, esquinero de Elisa Kelly y costanero de Gerónimo Lescano), 2655 m."
+  },
+  {
+   "titulo": "Folio 2 · lado B-C (cont.), C-D, D-E y comienzo de E-A",
+   "img": "img/f/158/08.jpg",
+   "fuente": "IMG_0410.JPG (mitad derecha)",
+   "nota": "Media página derecha de IMG_0410; sello «FOJA 2». El rumbo de E-A es un ERROR DE COPIA: el plano dice S 63° 24′ O y sólo con 63° cierra el polígono (con 43° el error de cierre es de 642 m; verificado en python).",
+   "lineas": [
+    "[sello: FOJA 2]",
+    "y cinco metros.– En esta linea á los trescientos",
+    "setenta y cinco metros, crucé el Camino á",
+    "Giles; á los seiscientos setenta y cinco metros y cin-",
+    "cuenta centímetros, encontré un mojón de fierro",
+    "esquinero entre Oyuez y Kelly, desde cuyo punto",
+    "empieza el alambrado, y á los mil ciento ochen-",
+    "ta metros encontré otro mojón de ñandubay.",
+    "Linea C D. Desde C, con el rumbo Sud treinta grados",
+    "treinta y nueve minutos Este, medí seiscientos",
+    "cuarenta y tres metros hasta D, donde coloqué",
+    "un mojón de ñandubay como esquinero del",
+    "terreno que mido y el de Gerónimo Lescano,",
+    "y costanero de Domingo Frías y C.ª",
+    "Linea D E. Desde D, con el rumbo Sud cin-",
+    "cuenta y ocho grados, un minuto Oeste, medí",
+    "ochocientos nueve metros hasta E, donde encon-",
+    "tré un mojón de fierro, esquinero de Do-",
+    "mingo Frías y C.ª En esta linea á los",
+    "cuarenta y nueve metros, veinte centímetros",
+    "encontré un mojón costanero de ñandubay.",
+    "Linea E A. Desde E con el rumbo Sud cuarenta",
+    "y tres grados, veinte y cuatro minutos Oeste,"
+   ],
+   "interpretacion": "Sobre B-C: a 375 m cruza el CAMINO A GILES; a 675,50 m un mojón de FIERRO esquinero entre Oyuez y Kelly, desde donde empieza el alambrado; a 1180 m otro de ñandubay. C → S 30° 39′ E 643 m → D, donde el agrimensor COLOCA un ñandubay (esquinero del sobrante y de Gerónimo Lescano, costanero de Frías y C.ª). D → S 58° 1′ O 809 m → E (mojón de fierro, esquinero de Frías y C.ª); a 49,20 m un costanero de ñandubay. E-A: el texto dice «Sud cuarenta y tres grados, veinte y cuatro minutos Oeste»."
+  },
+  {
+   "titulo": "Folio 2 vuelto · cierre, nota sobre la mensura de Castro, superficie y linderos",
+   "img": "img/f/158/09.jpg",
+   "fuente": "IMG_0411.JPG (mitad izquierda)",
+   "nota": "Media página izquierda de IMG_0411. El número de duplicado citado (134) no es el de la carpeta actual de Castro (139): numeración anterior del archivo.",
+   "lineas": [
+    "medí mil ochocientos cincuenta y un metros,",
+    "dos centímetros hasta el punto de arranque.",
+    "Nota. En una mensura practicada de este",
+    "mismo terreno, por el Ing.º Sr. Ramón B. Castro",
+    "(duplicado N.º 134 de Giles) se ha prolongado el",
+    "costado A E hasta interceptar la prolonga-",
+    "ción de la linea C D, pero como la propiedad de",
+    "los señores Domingo Frías y C.ª está alambrada",
+    "sobre las lineas aprobadas, (mensura de López [?]",
+    "Tomás [?], Dup.º 96 de Mercedes) he creido deber res-",
+    "petar estas lineas.",
+    "Superficie. El terreno así medido tiene la",
+    "figura de un pentágono irregular y encierra",
+    "una superficie de ciento sesenta y una hec-",
+    "táreas, noventa y cinco áreas y veinte y cua-",
+    "tro centiáreas.",
+    "Linderos. Son por el Nordeste D. Gerónimo",
+    "Lescano, por el Sud Este D. Domingo Frías",
+    "y C.ª; por el Sud Oeste, los herederos de D.",
+    "Tomás Gaynor; y por el Noroeste, D. Ceferino",
+    "Oyuez y D.ña Elisa Kelly.–",
+    "Circular. Vá adjunta y la firmaron"
+   ],
+   "interpretacion": "E-A mide 1851,02 m hasta el punto de arranque. NOTA: en una mensura anterior «de este mismo terreno» por el Ing. Ramón B. Castro («duplicado N.º 134 de Giles», hoy Ficha 139) se prolongó el costado A-E hasta cortar la prolongación de C-D; pero como la propiedad de Domingo Frías y C.ª está alambrada sobre las líneas aprobadas (mensura de López [?] Tomás [?], dup. 96 de Mercedes), Monteverde las respeta y el terreno queda como PENTÁGONO irregular de 161 ha 95 a 24 ca. Linderos: NE Gerónimo Lescano; SE Domingo Frías y C.ª; SO herederos de Tomás Gaynor; NO Ceferino Oyuez y Elisa Kelly."
+  },
+  {
+   "titulo": "Folio 3 · circular, acta, firma, dictamen del D. I. (26/5/1891) y nota de escrituración (1892)",
+   "img": "img/f/158/10.jpg",
+   "fuente": "IMG_0411.JPG (mitad derecha)",
+   "nota": "Media página derecha de IMG_0411; sello «FOJA 3». La rúbrica junto a Serna se lee «Lagos» con dudas en la inicial.",
+   "lineas": [
+    "[sello: FOJA 3]",
+    "todos los linderos.",
+    "Acta. No se levantó por no haber con-",
+    "currido ningun lindero.–",
+    "La Plata Mayo 5 de 1891",
+    "Luis Monteverde",
+    "[sello oval: DEPARTAMENTO DE INGENIEROS DE LA PROVINCIA – Entrada – MAY 23 1891]",
+    "Exmo. Señor",
+    "El Departamento de Ingenieros ha examinado la presen-",
+    "te mensura practicada por el agrimensor Luis Monte-",
+    "verde de un sobrante solicitado en propiedad por la",
+    "sucesión de D.n Luis Vernet, ubicado en el partido de",
+    "Giles y la encuentra bien ejecutada por lo cual a-",
+    "consejá á V. E. su aprobación. Mayo 26 de 1891",
+    "Julio [?] C. Serna – [F.?] Lagos",
+    "Cárlos M. Albarracín – Julián Romero",
+    "[otra letra:] Julio 22/92 – Se escrituró el terreno de que",
+    "trata este duplicado á la Sucesión de Luis",
+    "Bernet [sic, por Vernet]",
+    "Serna"
+   ],
+   "interpretacion": "La circular «va adjunta» (no copiada) y la firmaron todos los linderos; el ACTA no se levantó «por no haber concurrido ningún lindero». Firma Luis Monteverde en La Plata, 5/5/1891; entrada al D. I. el 23/5/1891. Dictamen del 26/5/1891: la mensura está «bien ejecutada» y se aconseja su aprobación (firman Julio C. Serna, Lagos, Carlos M. Albarracín y Julián Romero). Al pie, otra mano: «Julio 22/92 – Se escrituró el terreno de que trata este duplicado á la Sucesión de Luis Bernet [sic]», firma Serna. A diferencia de 156-157, el D. I. no calcula exceso: aquí todo el terreno es fiscal y se escritura entero."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de mensura (Monteverde, 7 de abril de 1891) · vista general",
+   "img": "img/f/158/03.jpg",
+   "fuente": "IMG_0412.JPG (f. 4, papel tela desplegado)",
+   "orientacion": "lado largo B-C horizontal arriba (NO); dos agujas de orientación dibujadas (arriba a la derecha y abajo al centro); el norte queda arriba a la derecha",
+   "interpretacion": "Plano a tinta sobre papel tela, con marco de grecas en las esquinas, escala gráfica de 0 a 1000 metros y firma «Partido de San Andrés de Giles, Abril 7 de 1891, Luis Monteverde». Pentágono alargado A-B-C-D-E rotulado «Sucesión de Luis Vernet · Sup. ABCDE = 161 h 95 a 24 c». Alrededor, los linderos: Tomás Gaynor (O), Ceferino Ojuez y Elisa Kelly (arriba), Gerónimo Lescano (E) y Domingo Frías y C.ª (abajo). La línea inferior se quiebra en E: es el ángulo que Monteverde respeta del alambrado de Frías en vez de prolongar E-A como Castro. Sello de foja en el ángulo superior derecho.",
+   "referencias": [
+    [
+     "A",
+     "Ñandubay; esquinero de Gaynor y de Domingo Frías y C.ª"
+    ],
+    [
+     "B",
+     "Ñandubay; costanero de Gaynor, esquinero de Oyuez"
+    ],
+    [
+     "C",
+     "Ñandubay; esquinero de Elisa Kelly, costanero de Gerónimo Lescano"
+    ],
+    [
+     "D",
+     "Ñandubay colocado por Monteverde; G. Lescano y costanero de Frías"
+    ],
+    [
+     "E",
+     "Mojón de fierro; esquinero de Frías y C.ª"
+    ],
+    [
+     "A-B",
+     "N 30° 39′ O = 524 m, alambrado"
+    ],
+    [
+     "B-C",
+     "N 59° 11′ E = 2655 m; camino a 375 m; fierro a 675,50 m; ñandubay a 1180 m"
+    ],
+    [
+     "C-D",
+     "S 30° 39′ E = 643 m"
+    ],
+    [
+     "D-E",
+     "S 58° 1′ O = 809 m; costanero a 49,20 m"
+    ],
+    [
+     "E-A",
+     "S 63° 24′ O = 1851,02 m; camino entre 1682,40 y 1700,90 m"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle del plano: mitad O (camino, tapera, tranquera, población)",
+   "img": "img/f/158/04.jpg",
+   "fuente": "IMG_0413.JPG",
+   "orientacion": "toma de detalle del mismo pliego",
+   "interpretacion": "El CAMINO DE MERCEDES A GILES, en doble línea de puntos, cruza el pentágono en diagonal desde el lado E-A (progresivas 1682,40 y 1700,90 m, ≈ 18,5 m de ancho medido en oblicuo) hasta B-C (375 m) y sigue al N hacia un «mojón de fierro caminero» en el campo de Ojuez. Junto a B-C, una «Tapera». Desde el mojón de fierro f (675,50 m) baja un ALAMBRADO interior hasta E-A con una «Tranquera»: prolonga a través del sobrante el límite entre Ojuez y Kelly. Al E del alambrado, la población de «Margarita Casey» (dos edificios y signos de arboleda [?]). Los mojones se marcan «ñ» (ñandubay) y «f» (fierro).",
+   "referencias": [
+    [
+     "Camino de Mercedes á Giles",
+     "corta B-C a 375 m y E-A a 1682,40-1700,90 m"
+    ],
+    [
+     "Mojón de fierro caminero",
+     "al N de B-C, en el campo de Ojuez"
+    ],
+    [
+     "Tapera",
+     "sobre B-C, entre 375 y 675,50 m"
+    ],
+    [
+     "Tranquera",
+     "en el alambrado interior que baja de f"
+    ],
+    [
+     "Margarita Casey",
+     "población dentro del sobrante"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle del plano: mitad E (lados C-D y D-E)",
+   "img": "img/f/158/05.jpg",
+   "fuente": "IMG_0414.JPG",
+   "orientacion": "toma de detalle del mismo pliego",
+   "interpretacion": "Lado C-D «S 30° 39′ E · CD = 643» con una marca «f» y la cifra 511,50 [?] cerca de D, no mencionada en el texto; D-E «S 58° 1′ O · DE = 809 m» con la progresiva 49,20 del costanero. En el texto la línea C-B se continúa al N por el lindero Kelly–Lescano. Debajo, «Domingo Frías y C.ª» y la firma del agrimensor.\n511,50 f [?]\nmarca sobre C-D, sin correlato en el texto\n49,20\ncostanero de ñandubay sobre D-E",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Un sobrante ocupado y atravesado. El CAMINO DE MERCEDES A GILES lo cruza en diagonal (el mismo de la casa de negocio de Adolfo Lorea en 139 y 141); hay un mojón de fierro «caminero» sobre la vía. Dentro del terreno «fiscal» viven otros: la POBLACIÓN de Margarita Casey, una TAPERA (población abandonada) junto al lado B-C y un ALAMBRADO interior con TRANQUERA que prolonga el límite Oyuez–Kelly a través del sobrante, señal de que los linderos lo usaban como propio. Los lados A-B (Gaynor), B-C desde 675,50 m (Oyuez–Kelly) y D-E-A (Frías y C.ª) están alambrados: en 1891 el sobrante es el hueco que dejaron los cercos vecinos. No se nombra ningún curso de agua, aunque el arroyo de Noriega pasa cerca (039, 141)."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Ritual reducido al mínimo: avisos en los diarios, circular (adjunta, no copiada) que «firmaron todos los linderos», y el acta «no se levantó por no haber concurrido ningún lindero». La única negociación es técnica y unilateral: Monteverde decide respetar el alambrado de Frías y C.ª «sobre las líneas aprobadas» y no la prolongación de Castro, evitando un conflicto con un propietario poderoso. No hay juez: el Superior Gobierno comisiona y el D. I. dictamina. No aparecen los herederos de Díaz de Vivar, que en 1866 (039) y todavía en 1884 (139) se presentaban como dueños de estas «sobras»."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos al minuto, sin declarar la variación magnética. Lados A-B y C-D paralelos (N 30° 39′ O / S 30° 39′ E) y perpendiculares a B-C (N 59° 11′ E, idéntico al de Castro en 1884). Verificado en python: con los rumbos del plano el polígono cierra con 0,66 m de error y da 161,86 ha (declarado 161,9524 ha; diferencia 0,09 ha, 0,06 %). El texto copia E-A como «Sud cuarenta y tres grados»: con 43° el error de cierre sería de 642 m; el plano y la geometría exigen S 63° 24′ O, el mismo rumbo del lado D-A de Castro. Si se prolongaran E-A y C-D hasta cortarse (criterio de Castro), el cuadrilátero tendría 165,10 ha: Monteverde deja afuera ≈ 3,24 ha que quedan del lado de Frías."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todo en metros y hectáreas. 161,95 ha = 2 159 492 varas² ≈ 96 cuadras cuadradas (vara 0,866 m). Tres mediciones del mismo terreno: Saubidet 1866, 521 × 2641 m = 137,89 ha (602 varas de frente); Castro 1884, trapecio 500 × 2643 × 694,85 × 2650 m = 157,90 ha; Monteverde 1891, pentágono 524 × 2655 m de lados mayores = 161,95 ha. El pedido de 1885 repite la cifra de 1866 (138 ha): el sobrante creció 24 ha entre la letra y el terreno. Los lados de 1891 no son múltiplos limpios de varas (524 m = 605 v; 2655 m = 3066 v)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena: merced de Pedro Díaz de Vivar → «sobras» reconocidas a sus herederos y separadas por transacción del campo Noriega (Saubidet 1866, 039) → arrendadas por el apoderado de los Vivar (contrato de 1866) y denunciadas como sobrante fiscal por Juan Abadie (Castro 1884, 139) → pedidas en 1885 por la sucesión de Luis Vernet «á cuenta de los terrenos á cuya ubicación tiene derechos» → mensura de 1891 y escritura a la sucesión el 22/7/1892. El Estado trató el terreno como fiscal y lo usó para pagar una deuda de tierras con los Vernet; la pretensión de los Vivar desaparece del expediente. Ocupante: Margarita Casey."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "039 (sobras de Díaz de Vivar, Saubidet 1866: mismos linderos que el pedido de 1885 —herederos de Norberto y Vicente Noriega, Jacoba Iramain de Achával, F. Lescano— y nota del 3/9/1885 de Vernet, informada por Lagos); 139 (Abadie, Castro 1884: «este mismo terreno», citado como «duplicado N.º 134»; mismos rumbos N 59° 11′ E y S 63° 24′ O, mismos linderos Gaynor, Ojuez, Kelly, G. Lescano); 141 (estancia de Gaynor, Castro 1885: su lado alambrado B-C contiene el A-B de este sobrante; Gaynor ya muerto en 1891); 115 (trapecio Lescano: G. Lescano y Casey linderos al SO, es decir, contra este sobrante); 095 y 039 (Oyuez/Ojuez, comprador en Noriega); 153 (herederos de Patricio Kelly, posible origen de Elisa Kelly); 156-157 (mismo D. I.: Serna, Albarracín, Romero)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Duplicado completo: extracto, operación, superficie, linderos, firma, dictamen, nota de escritura y plano; falta sólo la circular original. Preguntas: ¿qué derechos de tierras tenía la sucesión Vernet y por qué se pagaban en Giles (¿indemnización por Malvinas?)? ¿Cómo se extinguió la pretensión de los herederos de Díaz de Vivar y qué pasó con el pedido de compra de Rafael Llera (1888, 139)? ¿Quién es la mensura «de López [?] Tomás [?], dup. 96 de Mercedes» que fija el alambrado de Frías? ¿Qué es la marca «f 511,50» sobre C-D? ¿Margarita Casey era arrendataria, ocupante o pariente de un lindero? Para el GIS: anclar A-B en el alambrado de Gaynor (141) y B-C en el rumbo común N 59° 11′ E."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Luis Vernet",
+   "rol": "Causante",
+   "texto": "Comerciante nacido en Hamburgo (1791), radicado en Buenos Aires; Comandante Político y Militar de las Islas Malvinas desde 1829, desalojado tras el ataque de la Lexington (1831) y la ocupación británica (1833). Murió en San Isidro en 1871. Durante décadas reclamó compensaciones; el extracto dice que su sucesión «tiene derechos» a la ubicación de terrenos, a cuenta de los cuales pide este sobrante (vínculo con Malvinas no explicitado en el documento).",
+   "fuentes": "Este duplicado; Ficha 039; Wikipedia, «Luis Vernet»."
+  },
+  {
+   "nombre": "Carlos Vernet",
+   "rol": "Representante de la sucesión (1885)",
+   "texto": "Presenta el pedido del 5/9/1885 y propone al agrimensor el 17/5/1890. Probablemente hijo de Luis Vernet (sin confirmar).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Luis Monteverde",
+   "rol": "Agrimensor",
+   "texto": "Firma en La Plata (5/5/1891); comisionado por el Superior Gobierno. Primera aparición en el corpus. La búsqueda web no dio datos biográficos.",
+   "fuentes": "Este duplicado; búsqueda web sin resultados."
+  },
+  {
+   "nombre": "Ramón B. Castro",
+   "rol": "Agrimensor de la mensura anterior",
+   "texto": "Midió este mismo terreno en 1884 como sobrante denunciado por Juan Abadie (139) y las dos propiedades de Gaynor (140, 141). Monteverde corrige su criterio de prolongar A-E.",
+   "fuentes": "Fichas 139-141; este duplicado."
+  },
+  {
+   "nombre": "Tomás Gaynor y sus herederos",
+   "rol": "Linderos so",
+   "texto": "Estanciero irlandés; su estancia de 820 ha (141) linda con el sobrante por el alambrado A-B. En 1885 aún vivía; en 1891 los linderos son «sus herederos» (el plano conserva su nombre).",
+   "fuentes": "Fichas 139-141; este duplicado."
+  },
+  {
+   "nombre": "Domingo Frías y C.ª",
+   "rol": "Linderos se",
+   "texto": "Sociedad propietaria de un campo alambrado «sobre las líneas aprobadas» por una mensura del dup. 96 de Mercedes. Lindero de Gaynor en 141 y representado por un mayordomo en 1885. Posible vínculo con los herederos de Pastor Frías (141), sin confirmar.",
+   "fuentes": "Este duplicado; fichas 139, 141."
+  },
+  {
+   "nombre": "Ceferino Oyuez (Ojuez)",
+   "rol": "Lindero no",
+   "texto": "De la familia Oyuez/Ojuez que compró en el campo Noriega (039) y emparentada con los Lescano (Bailona Lezcano de Ojuez, 095); en 141 tiene quinta y monte. En su campo está el mojón de fierro caminero.",
+   "fuentes": "Fichas 039, 095, 139, 141; este duplicado."
+  },
+  {
+   "nombre": "Elisa Kelly",
+   "rol": "Lindera no",
+   "texto": "Esquinera en C y en el fierro de 675,50 m. Posiblemente de la familia de Patricio Kelly (153) o de Luisa Kelly (campo Nugent), sin confirmar.",
+   "fuentes": "Este duplicado; fichas 139, 153."
+  },
+  {
+   "nombre": "Gerónimo Lescano",
+   "rol": "Lindero ne",
+   "texto": "Hijo de Francisco Lescano y heredero de su hermana Justa (157); su fracción, en el fondo SO del campo Lescano de 1838, linda con el sobrante. En 115 aparece como «G. Lescano» lindero SO.",
+   "fuentes": "Fichas 045, 115, 157; este duplicado."
+  },
+  {
+   "nombre": "Margarita Casey",
+   "rol": "Ocupante (población dentro del sobrante)",
+   "texto": "Sólo en el plano. Un Casey aparece como lindero SO del trapecio Lescano en 115. Posible ocupante o arrendataria, como la que en 1884 pagaba arriendo a los Vivar (139).",
+   "fuentes": "Este duplicado; fichas 115, 139."
+  },
+  {
+   "nombre": "Herederos de Norberto y Vicente Noriega; Jacoba Iramain de Achával; N. y Francisco Lescano",
+   "rol": "Linderos de 1866 repetidos en el pedido de 1885",
+   "texto": "Son los vecinos de las sobras de Vivar en la mensura de Saubidet (039); el pedido de Vernet los copia del expediente de 1866 sin actualizar.",
+   "fuentes": "Ficha 039; este duplicado."
+  },
+  {
+   "nombre": "Julio C. Serna, Lagos, Carlos M. Albarracín, Julián Romero",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firman el dictamen favorable del 26/5/1891; Serna firma además la nota de escrituración del 22/7/1892. Lagos informó en 1885 la nota de Vernet anotada en 039. Serna, Albarracín y Romero firman también en 154-157.",
+   "fuentes": "Este duplicado; fichas 039, 154-157."
+  },
+  {
+   "nombre": "López [?] Tomás [?]",
+   "rol": "Autor o titular de la mensura dup. 96 de mercedes",
+   "texto": "Lectura insegura de la referencia a la mensura que aprobó las líneas del campo de Frías y C.ª.",
+   "fuentes": "Este duplicado."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/158/02.jpg",
+  "fuente": "IMG_0408.JPG",
+  "lineas": [
+   "1891",
+   "San Andrés de Giles",
+   "N.º 158",
+   "Giles",
+   "Duplicado",
+   "de la diligencia de mensura practicada del",
+   "sobrante solicitado en propiedad por la suce-",
+   "sión de D.r [sic] Luis Vernet en Giles.",
+   "Mayo de 1891",
+   "Luis Monteverde",
+   "agrimensor",
+   "[rúbrica]",
+   "[a lápiz:] 3.456.132 [?]"
+  ]
+ },
+ "titulo": "Sucesión de Luis Vernet",
+ "estado": "Transcripta (5 hojas, 108 renglones), 3 láminas"
+}
