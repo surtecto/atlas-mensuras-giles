@@ -86,6 +86,29 @@ main{flex:1;min-height:0;position:relative}
 .lyr{display:grid;grid-template-columns:minmax(0,1fr) auto auto;align-items:center;gap:.05rem .5rem;font-size:14px}
 .lyr .mv{display:flex;gap:.2rem}.lyr .mv .iconbtn{padding:.05rem .4rem;font-size:10px;line-height:1.4}.lyr .mv .iconbtn:disabled{opacity:.3;cursor:default}
 .note-s{margin:-.3rem 0 .1rem;font-size:13px;color:var(--muted)}
+.ptabs{display:flex;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--sheet);z-index:3}
+.ptabs button{flex:1;border:0;border-bottom:2px solid transparent;background:none;padding:.65rem .4rem;font:500 11px var(--f-mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);cursor:pointer}
+.ptabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.bgx{grid-column:1/-1;display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:.3rem .5rem;align-items:center;font-size:13px;color:var(--muted);margin:0 0 .5rem 1.45rem;padding:.45rem .6rem;border-left:2px solid var(--line);background:var(--paper);border-radius:0 6px 6px 0}
+.bgx select,.bgx input[type=number]{font:12px var(--f-mono);color:var(--ink);background:var(--sheet);border:1px solid var(--line);border-radius:4px;padding:.15rem .3rem;min-width:0;max-width:100%}
+.bgx input[type=number]{width:4.2rem}
+.lyr .bgx input[type=range]{grid-column:auto;margin:0;width:100%;accent-color:var(--accent);height:14px}
+.bgx output{font:11px var(--f-mono);font-variant-numeric:tabular-nums;text-align:right;min-width:2.6em}
+.bgx .full{grid-column:2/-1;display:flex;gap:.4rem;align-items:center;flex-wrap:wrap}
+.bgx .prev{grid-column:1/-1;height:9px;border-radius:2px;border:1px solid var(--line)}
+.bgx label.in{display:flex;gap:.3rem;align-items:center;cursor:pointer;color:var(--ink)}
+.gps a[aria-pressed="true"]{background:#1A73E8;color:#fff}
+.gps a{font-size:18px;line-height:30px}
+.gpsmsg{position:absolute;left:38px;top:0;white-space:nowrap;background:var(--sheet);color:var(--ink);border:1px solid var(--line);border-radius:6px;padding:.25rem .5rem;font:12px var(--f-mono);box-shadow:var(--shadow)}
+.saverow{display:flex;gap:.4rem}
+.saverow input{flex:1;min-width:0;font:14px var(--f-body);padding:.3rem .55rem;border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink)}
+.linkout{width:100%;font:11px var(--f-mono);padding:.3rem .5rem;border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink)}
+.startrow{display:grid;gap:.3rem;font-size:13px;color:var(--muted)}
+.startrow select{font:12px var(--f-mono);color:var(--ink);background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:.3rem .4rem;max-width:100%}
+#mine .pair{display:inline-flex}
+#mine .pair button:first-child{border-radius:4px 0 0 4px}
+#mine .pair .del{border-left:0;border-radius:0 4px 4px 0;color:var(--muted);padding:.2rem .4rem}
+#mine .pair .del[data-armed]{background:var(--sel,#B8321F);border-color:var(--sel,#B8321F);color:#fff}
 .lbls label{display:flex;gap:.5rem;align-items:flex-start;font-size:13.5px;line-height:1.35;cursor:pointer}.lbls input{margin-top:.2rem;accent-color:var(--accent)}
 .here{display:grid;gap:.55rem;padding-bottom:.75rem;border-bottom:1px solid var(--line)}
 .mlist{display:flex;flex-direction:column;gap:.3rem}
@@ -226,6 +249,11 @@ td.num{font-family:var(--f-mono);font-variant-numeric:tabular-nums;text-align:ri
         </div>
         <div class="stats" id="stats"></div>
       </div>
+      <div class="ptabs" role="tablist" aria-label="Panel del mapa">
+        <button role="tab" id="ptb-capas" aria-selected="true" aria-controls="pt-capas" data-pt="capas">Capas</button>
+        <button role="tab" id="ptb-vis" aria-selected="false" aria-controls="pt-vis" data-pt="vis">Visualización</button>
+      </div>
+      <div id="pt-capas" role="tabpanel" aria-labelledby="ptb-capas">
       <div class="blk">
         <p class="eyebrow">Colorear mensuras por</p>
         <div class="seg" id="mode">
@@ -238,15 +266,6 @@ td.num{font-family:var(--f-mono);font-variant-numeric:tabular-nums;text-align:ri
         <div class="legend" id="legend"></div>
       </div>
       <div class="blk">
-        <p class="eyebrow">Fondo actual (siempre debajo)</p>
-        <div class="seg" id="base">
-          <button aria-pressed="true" data-b="sat">satélite</button>
-          <button aria-pressed="false" data-b="osm">OpenStreetMap</button>
-          <button aria-pressed="false" data-b="none">sin fondo</button>
-        </div>
-        <div class="lyr"><label for="bop">Visibilidad del fondo</label><span class="opv" id="bov">100 %</span><input type="range" id="bop" min="0" max="100" value="100" aria-label="Opacidad del fondo actual"></div>
-      </div>
-      <div class="blk">
         <p class="eyebrow">Capas · la de arriba se dibuja encima</p>
         <p class="note-s">Casilla para mostrar, flechas para cambiar el orden, barra para transparentar.</p>
         <div class="layers" id="layers"></div>
@@ -254,6 +273,33 @@ td.num{font-family:var(--f-mono);font-variant-numeric:tabular-nums;text-align:ri
       <div class="blk">
         <p class="eyebrow">Etiquetas por tema · aparecen según la escala</p>
         <div class="layers lbls" id="labels"></div>
+      </div>
+      </div>
+      <div id="pt-vis" role="tabpanel" aria-labelledby="ptb-vis" hidden>
+      <div class="blk">
+        <p class="eyebrow">Combinaciones prefijadas</p>
+        <div class="seg" id="presets"></div>
+        <p class="note-s" id="presetNote" style="margin:0"></p>
+      </div>
+      <div class="blk">
+        <p class="eyebrow">Mis combinaciones · guardadas en este navegador</p>
+        <div class="seg" id="mine"></div>
+        <div class="saverow"><input type="text" id="mineName" maxlength="40" placeholder="Nombre para la combinación actual" aria-label="Nombre para guardar la combinación actual"><button class="iconbtn" id="mineSave">Guardar</button></div>
+        <div class="saverow"><button class="iconbtn" id="visLink">Copiar enlace de la combinación actual</button></div>
+        <input type="text" id="visLinkOut" class="linkout" readonly hidden aria-label="Enlace de la combinación actual">
+        <label class="startrow" for="visStart">Al abrir el Atlas, empezar con<select id="visStart"></select></label>
+        <p class="note-s" id="mineNote" style="margin:0" aria-live="polite"></p>
+      </div>
+      <div class="blk">
+        <p class="eyebrow">Fondos · se mezclan; el de arriba se dibuja encima</p>
+        <p class="note-s">Casilla para sumar un fondo, flechas para el orden, barra para la opacidad. Cada fondo encendido abre sus ajustes.</p>
+        <div class="layers" id="bgs"></div>
+      </div>
+      <div class="blk">
+        <p class="eyebrow">Tinta de linderos y contornos</p>
+        <div class="seg" id="ink"><button data-k="claro">clara · fondos oscuros</button><button data-k="oscuro">oscura · fondos claros</button></div>
+        <p class="note-s" style="margin:0"><button class="iconbtn" id="visReset">Volver a mi combinación de inicio</button></p>
+      </div>
       </div>
       <div class="ficha" id="ficha">
         <p class="hint">Tocá cualquier punto del mapa: se listan todas las mensuras superpuestas en ese lugar y lo que hay en las demás capas visibles. Cada mensura abre su ficha con la carátula y el plano.</p>
@@ -341,13 +387,169 @@ const FRAGL=['1 parcela (se conserva)','2–4','5–14','15 o más'];
 const map=L.map('map',{zoomSnap:.25,attributionControl:true,minZoom:9,maxZoom:19});
 L.control.scale({imperial:false,position:'bottomleft'}).addTo(map);
 map.attributionControl.setPrefix('<a href="https://leafletjs.com" target="_blank" rel="noopener">Leaflet</a>');
-const BASES={
-  sat:L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',{maxZoom:19,maxNativeZoom:18,attribution:'Imágenes © Esri, Maxar, Earthstar Geographics'}),
-  osm:L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'© colaboradores de <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>'}),
-  none:null};
-let baseOn=null,baseOp=1;
-function setBase(k){if(baseOn)map.removeLayer(baseOn);baseOn=BASES[k];if(baseOn){baseOn.setOpacity(baseOp);baseOn.addTo(map).bringToBack()}
-  $$('#base button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.b===k))}
+/* ---------- fondos: pila de capas mezclables (pestaña «Visualización») ----------
+   Cada fondo vive en su propio panel por debajo de las capas del Atlas: se enciende, se ordena, se transparenta
+   y se mezcla (mix-blend-mode). El modelo de elevación (teselas Terrarium) se colorea y se sombrea en el navegador. */
+const TERR='https://s3.amazonaws.com/elevation-tiles-prod/terrarium/{z}/{x}/{y}.png';
+const PALS={
+  aguadas:{t:'Aguadas',c:['#1B4F72','#3E8E9E','#8CC3A9','#E6E2B5','#E9C98C','#CF9A5E','#A8683F']},
+  grises:{t:'Grises',c:['#0E0E0E','#F7F7F7']},
+  tinta:{t:'Tinta azul',c:['#12304D','#3F7096','#9DBDCB','#EEF1EA']},
+  sepia:{t:'Sepia',c:['#35220F','#8A6238','#D2B487','#F6EEDC']},
+  hipso:{t:'Hipsométrica clásica',c:['#3F7F58','#9CC27A','#EFE5A0','#D9A860','#A8683F','#F4F0EA']},
+  espectral:{t:'Espectral',c:['#2B3F9E','#2E9FC4','#57C785','#EDE35A','#F08A3C','#C2302E']},
+  viridis:{t:'Viridis',c:['#440154','#3B528B','#21908C','#5DC863','#FDE725']}
+};
+const BLENDS={normal:'normal',multiply:'multiplicar',screen:'aclarar (pantalla)',overlay:'superponer','soft-light':'luz suave',color:'solo color',luminosity:'solo luminosidad'};
+const palStops=(k,inv)=>{const c=(PALS[k]||PALS.aguadas).c.slice();return inv?c.reverse():c};
+const LUTS={};
+function lut(k,inv){const id=k+(inv?'-':'+');if(LUTS[id])return LUTS[id];const st=palStops(k,inv).map(h=>[1,3,5].map(i=>parseInt(h.substr(i,2),16))),o=new Uint8Array(768),n=st.length-1;
+  for(let i=0;i<256;i++){const p=i/255*n,a=Math.min(n-1,Math.floor(p)),f=p-a;for(let c=0;c<3;c++)o[i*3+c]=Math.round(st[a][c]+(st[a+1][c]-st[a][c])*f)}return LUTS[id]=o}
+function smooth(h,r){if(!r)return h;const n=256,t=new Float32Array(65536),o=new Float32Array(65536),w=2*r+1;
+  for(let y=0;y<n;y++){const b=y*n;let s=0;for(let k=-r;k<=r;k++)s+=h[b+Math.min(n-1,Math.max(0,k))];for(let x=0;x<n;x++){t[b+x]=s/w;s+=h[b+Math.min(n-1,x+r+1)]-h[b+Math.max(0,x-r)]}}
+  for(let x=0;x<n;x++){let s=0;for(let k=-r;k<=r;k++)s+=t[Math.min(n-1,Math.max(0,k))*n+x];for(let y=0;y<n;y++){o[y*n+x]=s/w;s+=t[Math.min(n-1,y+r+1)*n+x]-t[Math.max(0,y-r)*n+x]}}
+  return o}
+const DemLayer=L.GridLayer.extend({
+  createTile(co,done){const c=L.DomUtil.create('canvas','leaflet-tile');c.width=c.height=256;const im=new Image();im.crossOrigin='anonymous';
+    im.onload=()=>{try{const x=c.getContext('2d',{willReadFrequently:true});x.drawImage(im,0,0);const d=x.getImageData(0,0,256,256).data,h=new Float32Array(65536);
+      for(let i=0,j=0;i<65536;i++,j+=4)h[i]=d[j]*256+d[j+1]+d[j+2]/256-32768;c._h=h;c._z=co.z;c._y=co.y;this.paint(c);done(null,c)}catch(e){done(e,c)}};
+    im.onerror=()=>done(new Error('dem'),c);
+    im.src=TERR.replace('{z}',co.z).replace('{x}',co.x).replace('{y}',co.y);return c},
+  elev(c,r){if(c._sr!==r){c._s=smooth(c._h,r);c._sr=r}return c._s},
+  paint(c){const x=c.getContext('2d'),im=x.createImageData(256,256),o=im.data;
+    if(this.options.kind==='alt'){const P=VIS.alt,L=lut(P.pal,P.inv),mn=P.min,rg=Math.max(.5,P.max-P.min),st=+P.step,h=this.elev(c,+P.sm);
+      for(let i=0,j=0;i<65536;i++,j+=4){let v=h[i];if(st)v=Math.floor(v/st)*st;let t=(v-mn)/rg;t=t<0?0:t>1?1:t;const k=(t*255|0)*3;o[j]=L[k];o[j+1]=L[k+1];o[j+2]=L[k+2];o[j+3]=255}}
+    else{const P=VIS.hill,h=this.elev(c,+P.sm),n=Math.PI-2*Math.PI*(c._y+.5)/Math.pow(2,c._z),lat=Math.atan(Math.sinh(n)),cell=40075016.686*Math.cos(lat)/(256*Math.pow(2,c._z)),k=P.ex/(2*cell),lx=-.5,ly=.5,lz=.7071;
+      for(let y=0;y<256;y++){const ym=y?y-1:0,yp=y<255?y+1:255;for(let xx=0;xx<256;xx++){const xm=xx?xx-1:0,xp=xx<255?xx+1:255,
+        gx=(h[y*256+xp]-h[y*256+xm])*k,gy=(h[ym*256+xx]-h[yp*256+xx])*k,d=(-gx*lx-gy*ly+lz)/Math.sqrt(gx*gx+gy*gy+1)-lz,j=(y*256+xx)*4,v=d<0?0:255;
+        o[j]=o[j+1]=o[j+2]=v;o[j+3]=Math.min(255,Math.abs(d)*2.4*255)}}}
+    x.putImageData(im,0,0)},
+  repaint(){for(const k in this._tiles){const el=this._tiles[k].el;if(el&&el._h)this.paint(el)}},
+  sample(){const v=[],b=map.getBounds(),z=this._tileZoom;if(z==null)return v;for(const k in this._tiles){const t=this._tiles[k],el=t.el;if(!el||!el._h||t.coords.z!==z)continue;
+      const nw=map.unproject(t.coords.scaleBy(this.getTileSize()),z),se=map.unproject(t.coords.add([1,1]).scaleBy(this.getTileSize()),z);
+      for(let y=4;y<256;y+=8){const la=nw.lat+(se.lat-nw.lat)*y/256;if(la<b.getSouth()||la>b.getNorth())continue;for(let x=4;x<256;x+=8){const lo=nw.lng+(se.lng-nw.lng)*x/256;if(lo<b.getWest()||lo>b.getEast())continue;v.push(el._h[y*256+x])}}}
+    return v}
+});
+const ESRI='https://server.arcgisonline.com/ArcGIS/rest/services/',IGN='https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/';
+const BGDEF={
+  vial:{t:'Caminería actual: rutas, caminos y calles con nombre',mk:()=>L.tileLayer(ESRI+'Reference/World_Transportation/MapServer/tile/{z}/{y}/{x}',{maxZoom:19,maxNativeZoom:18,attribution:'Caminería © Esri, HERE, Garmin'})},
+  hill:{t:'Sombreado del relieve (DEM)',mk:()=>new DemLayer({kind:'hill',maxZoom:19,maxNativeZoom:13,attribution:'Relieve: Mapzen Terrain Tiles (SRTM)'})},
+  alt:{t:'Altimetría coloreada (DEM)',mk:()=>new DemLayer({kind:'alt',maxZoom:19,maxNativeZoom:13,attribution:'Relieve: Mapzen Terrain Tiles (SRTM)'})},
+  topo:{t:'Argenmap topográfico (IGN)',mk:()=>L.tileLayer(IGN+'mapabase_topo@EPSG%3A3857@png/{z}/{x}/{y}.png',{tms:true,maxZoom:19,maxNativeZoom:17,attribution:'Argenmap © IGN'})},
+  gris:{t:'Argenmap gris (IGN)',mk:()=>L.tileLayer(IGN+'mapabase_gris@EPSG%3A3857@png/{z}/{x}/{y}.png',{tms:true,maxZoom:19,maxNativeZoom:17,attribution:'Argenmap © IGN'})},
+  osm:{t:'OpenStreetMap',mk:()=>L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'© colaboradores de <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>'})},
+  osc:{t:'Base oscura (Esri)',mk:()=>L.tileLayer(ESRI+'Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}',{maxZoom:19,maxNativeZoom:16,attribution:'Base oscura © Esri, HERE, Garmin'})},
+  sat:{t:'Satélite (Esri)',mk:()=>L.tileLayer(ESRI+'World_Imagery/MapServer/tile/{z}/{y}/{x}',{maxZoom:19,maxNativeZoom:18,attribution:'Imágenes © Esri, Maxar, Earthstar Geographics'})}
+};
+const BGIDS=Object.keys(BGDEF);
+const off=()=>({on:false,op:1,bl:'normal'});
+const visBase=()=>({v:1,preset:'paisaje',ink:'claro',order:['vial','hill','alt','topo','gris','osm','osc','sat'],
+  L:{vial:off(),hill:off(),alt:off(),topo:off(),gris:off(),osm:off(),osc:off(),sat:{...off(),sat:100}},
+  alt:{pal:'aguadas',inv:false,min:20,max:60,auto:true,step:0,sm:2},hill:{ex:25,sm:2}});
+const PRESETS={
+  paisaje:{t:'Paisaje',n:'Combinación de inicio: satélite apagado como textura, altimetría coloreada, sombreado del relieve y la caminería actual para ubicarse. Deja ver a la vez el uso actual del suelo y la forma del terreno.',
+    f:v=>{v.L.sat={on:true,op:1,bl:'normal',sat:45};v.L.alt={on:true,op:.6,bl:'normal'};v.L.hill={on:true,op:.75,bl:'normal'};v.L.vial={on:true,op:.85,bl:'normal'}}},
+  sat:{t:'Satélite',n:'La imagen actual sola, como estaba el Atlas.',f:v=>{v.L.sat={on:true,op:1,bl:'normal',sat:100}}},
+  aguadas:{t:'Aguadas',n:'Sólo el modelo de elevación: bajos en azul, lomas en ocre. «Ajustar a la vista» estira la paleta al tramo que estés mirando.',
+    f:v=>{v.L.alt={on:true,op:1,bl:'normal'};v.L.hill={on:true,op:.8,bl:'normal'};v.ink='oscuro'}},
+  grises:{t:'Relieve en grises',n:'Altimetría en escala de grises con sombreado: fondo neutro para que el color lo pongan las mensuras.',
+    f:v=>{v.L.alt={on:true,op:1,bl:'normal'};v.L.hill={on:true,op:.7,bl:'normal'};v.alt.pal='grises';v.ink='oscuro'}},
+  tinte:{t:'Satélite teñido',n:'La altimetría presta sólo el color y el satélite conserva la textura (mezcla «solo color»).',
+    f:v=>{v.L.sat={on:true,op:1,bl:'normal',sat:30};v.L.alt={on:true,op:.85,bl:'color'};v.L.hill={on:true,op:.6,bl:'normal'};v.L.vial={on:true,op:.85,bl:'normal'}}},
+  carta:{t:'Carta IGN',n:'Argenmap topográfico del IGN con el sombreado del relieve multiplicado encima.',
+    f:v=>{v.L.topo={on:true,op:1,bl:'normal'};v.L.hill={on:true,op:.6,bl:'multiply'};v.ink='oscuro'}},
+  noche:{t:'Nocturno',n:'Base oscura con relieve tenue: resalta los colores de las mensuras.',
+    f:v=>{v.L.osc={on:true,op:1,bl:'normal'};v.L.hill={on:true,op:.5,bl:'normal'}}},
+  papel:{t:'Papel',n:'Sin fondo: sólo las capas del Atlas sobre el color del papel.',f:v=>{v.ink='oscuro'}}
+};
+const mkPreset=k=>{const v=visBase();PRESETS[k].f(v);v.preset=k;return v};
+function okVis(o){if(!(o&&o.v===1&&Array.isArray(o.order)&&o.L&&o.alt&&o.hill&&PALS[o.alt.pal]))return null;
+  const d=visBase(),ord=o.order.filter((i,k)=>BGDEF[i]&&o.order.indexOf(i)===k),L={};
+  BGIDS.forEach(i=>{if(!ord.includes(i))ord.unshift(i);const x=o.L[i];L[i]=x&&typeof x==='object'?{...d.L[i],...x}:d.L[i]});
+  return{...d,...o,order:ord,L,alt:{...d.alt,...o.alt},hill:{...d.hill,...o.hill}}}
+/* Combinaciones propias de quien usa el Atlas: viven en su navegador (localStorage), no en el servidor. */
+let MINE={list:[],start:'last'};
+try{const m=JSON.parse(localStorage.getItem('amg-vis-mine')||'null');if(m&&Array.isArray(m.list)){MINE.list=m.list.filter(x=>x&&typeof x.n==='string'&&okVis(x.s));if(typeof m.start==='string')MINE.start=m.start}}catch(e){}
+const saveMine=()=>{try{localStorage.setItem('amg-vis-mine',JSON.stringify(MINE));return true}catch(e){return false}};
+const mineGet=n=>MINE.list.find(x=>x.n===n);
+const fromMine=u=>{const v=okVis(JSON.parse(JSON.stringify(u.s)));v.preset='';v.mine=u.n;return v};
+/* Enlace con la combinación adentro (#vis=…): para compartirla o abrirla en otro dispositivo. */
+const b64e=t=>btoa(unescape(encodeURIComponent(t))).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,'');
+const b64d=t=>decodeURIComponent(escape(atob(t.replace(/-/g,'+').replace(/_/g,'/'))));
+let FROMLINK=null;
+function fromHash(){const m=location.hash.match(/^#vis=([\w-]+)$/);if(!m)return null;
+  try{const o=JSON.parse(b64d(m[1])),v=okVis(o);if(!v)return null;FROMLINK={n:typeof o.n==='string'?o.n.replace(/[<>&"]/g,'').slice(0,40):''};delete v.n;v.preset='';v.mine='';v.alt.auto=false;return v}catch(e){return null}}
+function visLink(){const o={v:1,order:VIS.order,L:VIS.L,alt:{...VIS.alt,auto:false},hill:VIS.hill,ink:VIS.ink};if(VIS.mine)o.n=VIS.mine;else if(VIS.preset)o.n=PRESETS[VIS.preset].t;
+  const base=/^https?:$/.test(location.protocol)?location.origin+location.pathname:'https://surtecto.github.io/atlas-mensuras-giles/';return base+'#vis='+b64e(JSON.stringify(o))}
+function startVis(){const hv=fromHash();if(hv)return hv;const s=MINE.start;if(s.startsWith('p:')&&PRESETS[s.slice(2)])return mkPreset(s.slice(2));
+  if(s.startsWith('u:')){const u=mineGet(s.slice(2));if(u)return fromMine(u)}
+  try{const v=okVis(JSON.parse(localStorage.getItem('amg-vis')||'null'));if(v)return v}catch(e){}
+  return mkPreset('paisaje')}
+let VIS=startVis();
+const saveVis=()=>{try{localStorage.setItem('amg-vis',JSON.stringify(VIS))}catch(e){}};
+const BG={};
+BGIDS.forEach(id=>{const p=map.createPane('bg-'+id);p.style.pointerEvents='none';BG[id]=BGDEF[id].mk();BG[id].options.pane='bg-'+id});
+function fitAlt(){const v=BG.alt.sample();if(v.length<50)return false;v.sort((a,b)=>a-b);const lo=Math.floor(v[Math.floor(v.length*.02)]),hi=Math.ceil(v[Math.floor(v.length*.98)]);
+  VIS.alt.min=lo;VIS.alt.max=Math.max(lo+2,hi);VIS.alt.auto=false;BG.alt.repaint();saveVis();const a=$('#bg-min'),b2=$('#bg-max');if(a){a.value=VIS.alt.min;b2.value=VIS.alt.max}return true}
+BG.alt.on('load',()=>{if(VIS.alt.auto)fitAlt()});
+function applyBG(){VIS.order.forEach((id,i)=>{const S=VIS.L[id],p=map.getPane('bg-'+id),l=BG[id];
+    p.style.zIndex=190-i*10;p.style.mixBlendMode=S.bl||'normal';p.style.filter=id==='sat'&&S.sat!==100?`saturate(${S.sat/100})`:'';
+    if(S.on&&!map.hasLayer(l))l.addTo(map);if(!S.on&&map.hasLayer(l))map.removeLayer(l);l.setOpacity(S.op)});saveVis()}
+function setInk(k){VIS.ink=k;LINE=HALO=k==='oscuro'?'#1D221F':'#FFFFFF';r1874.setStyle({color:LINE});urb.setStyle({color:LINE});restyle();
+  $$('#ink button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.k===k));saveVis()}
+function renderBG(){
+  const blend=id=>`<span>Mezcla</span><span class="full"><select id="bg-bl-${id}" aria-label="Modo de mezcla">${Object.entries(BLENDS).map(([k,t])=>`<option value="${k}"${VIS.L[id].bl===k?' selected':''}>${t}</option>`).join('')}</select></span>`;
+  const rng=(id,l,min,max,val,suf)=>`<span>${l}</span><input type="range" id="${id}" min="${min}" max="${max}" value="${val}" aria-label="${l}"><output id="${id}-o">${val}${suf||''}</output>`;
+  const extra=id=>id==='sat'?rng('bg-sat','Saturación',0,160,VIS.L.sat.sat,' %')
+    :id==='alt'?`<span>Paleta</span><span class="full"><select id="bg-pal" aria-label="Paleta de colores">${Object.entries(PALS).map(([k,p])=>`<option value="${k}"${VIS.alt.pal===k?' selected':''}>${p.t}</option>`).join('')}</select><label class="in"><input type="checkbox" id="bg-inv"${VIS.alt.inv?' checked':''}>invertir</label></span>
+      <div class="prev" id="bg-prev"></div>
+      <span>Altura</span><span class="full"><input type="number" id="bg-min" value="${VIS.alt.min}" step="1" aria-label="Altura mínima de la paleta, en metros">a<input type="number" id="bg-max" value="${VIS.alt.max}" step="1" aria-label="Altura máxima de la paleta, en metros">m <button class="iconbtn" id="bg-fit">Ajustar a la vista</button></span>
+      <span>Franjas</span><span class="full"><select id="bg-step" aria-label="Franjas de altura">${[[0,'continuo'],[1,'cada 1 m'],[2,'cada 2 m'],[5,'cada 5 m']].map(([v,t])=>`<option value="${v}"${+VIS.alt.step===v?' selected':''}>${t}</option>`).join('')}</select></span>
+      ${rng('bg-asm','Suavizado',0,5,VIS.alt.sm)}`
+    :id==='hill'?rng('bg-ex','Exageración',2,90,VIS.hill.ex,'×')+rng('bg-hsm','Suavizado',0,5,VIS.hill.sm):'';
+  $('#bgs').innerHTML=VIS.order.map((id,i)=>{const S=VIS.L[id],t=BGDEF[id].t;return `<div class="lyr"><label for="bg-on-${id}"><input type="checkbox" id="bg-on-${id}" ${S.on?'checked':''}>${t}</label>
+  <span class="opv" id="bg-ov-${id}">${Math.round(S.op*100)} %</span>
+  <span class="mv"><button class="iconbtn" data-bmv="${id}" data-d="-1" ${i===0?'disabled':''} aria-label="Subir el fondo: ${t}">▲</button><button class="iconbtn" data-bmv="${id}" data-d="1" ${i===VIS.order.length-1?'disabled':''} aria-label="Bajar el fondo: ${t}">▼</button></span>
+  <input type="range" id="bg-op-${id}" min="0" max="100" value="${Math.round(S.op*100)}" aria-label="Opacidad: ${t}">${S.on?`<div class="bgx">${blend(id)}${extra(id)}</div>`:''}</div>`}).join('');
+  const custom=()=>{VIS.preset='';VIS.mine='';$$('#presets button,#mine [data-u]').forEach(b=>b.setAttribute('aria-pressed','false'));$('#presetNote').textContent='Combinación propia, sin guardar.'};
+  VIS.order.forEach(id=>{const S=VIS.L[id];
+    $('#bg-on-'+id).onchange=e=>{S.on=e.target.checked;custom();applyBG();renderBG()};
+    $('#bg-op-'+id).oninput=e=>{S.op=e.target.value/100;$('#bg-ov-'+id).textContent=e.target.value+' %';custom();applyBG()};
+    const bl=$('#bg-bl-'+id);if(bl)bl.onchange=e=>{S.bl=e.target.value;custom();applyBG()}});
+  $$('#bgs [data-bmv]').forEach(b=>b.onclick=()=>{const id=b.dataset.bmv,i=VIS.order.indexOf(id),j=i+(+b.dataset.d);if(j<0||j>=VIS.order.length)return;
+    [VIS.order[i],VIS.order[j]]=[VIS.order[j],VIS.order[i]];custom();applyBG();renderBG();const nb=$(`#bgs [data-bmv="${id}"][data-d="${b.dataset.d}"]`);if(nb&&!nb.disabled)nb.focus()});
+  const on=(sel,ev,fn)=>{const el=$(sel);if(el)el[ev]=fn},out=(id,v,suf)=>{$('#'+id+'-o').textContent=v+(suf||'')};
+  on('#bg-sat','oninput',e=>{VIS.L.sat.sat=+e.target.value;out('bg-sat',e.target.value,' %');custom();applyBG()});
+  const prev=()=>{const p=$('#bg-prev');if(p)p.style.background=`linear-gradient(90deg,${palStops(VIS.alt.pal,VIS.alt.inv).join(',')})`};prev();
+  const altCh=()=>{custom();prev();BG.alt.repaint();saveVis()};
+  on('#bg-pal','onchange',e=>{VIS.alt.pal=e.target.value;altCh()});
+  on('#bg-inv','onchange',e=>{VIS.alt.inv=e.target.checked;altCh()});
+  on('#bg-step','onchange',e=>{VIS.alt.step=+e.target.value;altCh()});
+  on('#bg-asm','oninput',e=>{VIS.alt.sm=+e.target.value;out('bg-asm',e.target.value);altCh()});
+  const lim=()=>{const a=parseFloat($('#bg-min').value),b=parseFloat($('#bg-max').value);if(isFinite(a)&&isFinite(b)&&b>a){VIS.alt.min=a;VIS.alt.max=b;VIS.alt.auto=false;altCh()}};
+  on('#bg-min','onchange',lim);on('#bg-max','onchange',lim);
+  on('#bg-fit','onclick',()=>{if(fitAlt())custom();else $('#presetNote').textContent='Todavía no llegó el modelo de elevación de esta vista; probá de nuevo en un momento.'});
+  on('#bg-ex','oninput',e=>{VIS.hill.ex=+e.target.value;out('bg-ex',e.target.value,'×');custom();BG.hill.repaint();saveVis()});
+  on('#bg-hsm','oninput',e=>{VIS.hill.sm=+e.target.value;out('bg-hsm',e.target.value);custom();BG.hill.repaint();saveVis()});
+}
+function setPreset(k){VIS=mkPreset(k);initVis()}
+function renderMine(){const note=t=>{$('#mineNote').textContent=t},safe=n=>esc(n).replace(/"/g,'&quot;');
+  $('#mine').innerHTML=MINE.list.length?MINE.list.map(u=>`<span class="pair"><button data-u="${safe(u.n)}" aria-pressed="${VIS.mine===u.n}">${safe(u.n)}</button><button class="del" data-del="${safe(u.n)}" aria-label="Borrar la combinación ${safe(u.n)}" title="Borrar">×</button></span>`).join(''):'<span class="note-s" style="margin:0">Todavía no guardaste ninguna. Armá una con los fondos de abajo y ponele nombre.</span>';
+  $$('#mine [data-u]').forEach(b=>b.onclick=()=>{const u=mineGet(b.dataset.u);if(u){VIS=fromMine(u);initVis()}});
+  $$('#mine [data-del]').forEach(b=>b.onclick=()=>{const n=b.dataset.del;if(!b.dataset.armed){b.dataset.armed='1';b.textContent='¿borrar?';setTimeout(()=>{if(b.isConnected){delete b.dataset.armed;b.textContent='×'}},4000);return}
+    MINE.list=MINE.list.filter(x=>x.n!==n);if(MINE.start==='u:'+n)MINE.start='last';if(VIS.mine===n)VIS.mine='';saveMine();saveVis();renderMine();note(`Se borró «${n}».`)});
+  const opt=(v,t)=>`<option value="${safe(v)}"${MINE.start===v?' selected':''}>${safe(t)}</option>`;
+  $('#visStart').innerHTML=opt('last','la última que dejé puesta')+`<optgroup label="Prefijadas">${Object.entries(PRESETS).map(([k,p])=>opt('p:'+k,p.t)).join('')}</optgroup>`+(MINE.list.length?`<optgroup label="Mías">${MINE.list.map(u=>opt('u:'+u.n,u.n)).join('')}</optgroup>`:'');
+  $('#visStart').onchange=e=>{MINE.start=e.target.value;note(saveMine()?'Listo: el Atlas va a abrir con esa combinación en este navegador.':'Este navegador no permite guardar preferencias.')};
+  const save=()=>{const n=$('#mineName').value.replace(/[<>&"]/g,'').trim().slice(0,40);if(!n){note('Poné un nombre para guardar la combinación actual.');$('#mineName').focus();return}
+    const snap=JSON.parse(JSON.stringify(VIS));snap.preset='';delete snap.mine;const ex=mineGet(n);if(ex)ex.s=snap;else MINE.list.push({n,s:snap});
+    VIS.preset='';VIS.mine=n;const ok=saveMine();saveVis();$('#mineName').value='';initVis();note(ok?(ex?`Se actualizó «${n}».`:`Se guardó «${n}».`):'Este navegador no permite guardar preferencias.')};
+  $('#mineSave').onclick=save;$('#mineName').onkeydown=e=>{if(e.key==='Enter'){e.preventDefault();save()}}}
+function initVis(){
+  $('#presets').innerHTML=Object.entries(PRESETS).map(([k,p])=>`<button data-p="${k}" aria-pressed="${VIS.preset===k}">${p.t}</button>`).join('');
+  $$('#presets button').forEach(b=>b.onclick=()=>setPreset(b.dataset.p));
+  $('#presetNote').textContent=VIS.preset?PRESETS[VIS.preset].n:VIS.mine?`Tu combinación «${VIS.mine}».`:'Combinación propia, sin guardar.';
+  renderMine();applyBG();renderBG();setInk(VIS.ink);BG.alt.repaint();BG.hill.repaint()}
 const Rosa=L.Control.extend({onAdd(){const d=L.DomUtil.create('div','rosa');d.innerHTML='N<small>↑</small>';return d}});
 new Rosa({position:'topright'}).addTo(map);
 window.atlasMap=map;
@@ -355,7 +557,7 @@ window.atlasMap=map;
 /* Cada capa vive en su propio panel (pane) con su propio lienzo: así se puede cambiar el orden de dibujo.
    Ninguna capa captura el clic: un único inspector consulta TODAS las capas visibles en el punto tocado. */
 const OP={p24:.7,r1874:.75,actual:.85,mens:.45,cam:.95,pm:1,p84:1,urb:.7,partido:1};
-const LINE='#FFFFFF',HALO='#FFFFFF';
+let LINE='#FFFFFF',HALO='#FFFFFF';
 function paneOpts(id){if(!map.getPane('pn-'+id)){const p=map.createPane('pn-'+id);p.style.pointerEvents='none'}
   return{pane:'pn-'+id,renderer:L.canvas({pane:'pn-'+id,padding:.3}),interactive:false}}
 let mode='anio',Y=1925,SEL=new Set(),ACTIVE=null;
@@ -562,9 +764,34 @@ $('#year').oninput=e=>{Y=+e.target.value;applyYear()};
 let timer=null;
 $('#play').onclick=()=>{if(timer){clearInterval(timer);timer=null;$('#play').textContent='▶';return}
   if(Y>=1925)Y=1825;$('#play').textContent='❚❚';timer=setInterval(()=>{Y++;$('#year').value=Y;applyYear();if(Y>=1925){clearInterval(timer);timer=null;$('#play').textContent='▶'}},180)};
-$$('#base button').forEach(b=>b.onclick=()=>setBase(b.dataset.b));
-$('#bop').oninput=e=>{baseOp=e.target.value/100;$('#bov').textContent=e.target.value+' %';if(baseOn)baseOn.setOpacity(baseOp)};
-setBase('sat');
+$$('.ptabs button').forEach(b=>b.onclick=()=>{$$('.ptabs button').forEach(x=>x.setAttribute('aria-selected',x===b));$('#pt-capas').hidden=b.dataset.pt!=='capas';$('#pt-vis').hidden=b.dataset.pt!=='vis'});
+$$('#ink button').forEach(b=>b.onclick=()=>{VIS.preset='';VIS.mine='';setInk(b.dataset.k);$$('#presets button,#mine [data-u]').forEach(x=>x.setAttribute('aria-pressed','false'));$('#presetNote').textContent='Combinación propia, sin guardar.'});
+/* ---------- mi ubicación (GPS del dispositivo) ---------- */
+{const gp=map.createPane('gps');gp.style.zIndex=645;gp.style.pointerEvents='none';
+ const Gps=L.Control.extend({onAdd(){const d=L.DomUtil.create('div','leaflet-bar gps');d.style.position='relative';
+   d.innerHTML='<a href="#" role="button" id="gpsBtn" aria-pressed="false" title="Mostrar mi ubicación" aria-label="Mostrar mi ubicación en el mapa">◎</a><div class="gpsmsg" id="gpsMsg" role="status" hidden></div>';
+   L.DomEvent.disableClickPropagation(d);return d}});
+ new Gps({position:'topleft'}).addTo(map);
+ let on=false,first=true,dot=null,acc=null,tm=null;const B=$('#gpsBtn'),M=$('#gpsMsg');
+ const msg=(t,keep)=>{clearTimeout(tm);M.textContent=t;M.hidden=!t;if(t&&!keep)tm=setTimeout(()=>M.hidden=true,6000)};
+ const stop=t=>{map.stopLocate();on=false;[dot,acc].forEach(l=>l&&map.removeLayer(l));dot=acc=null;B.setAttribute('aria-pressed','false');B.title='Mostrar mi ubicación';msg(t||'')};
+ B.onclick=e=>{e.preventDefault();if(on)return stop();
+   if(!navigator.geolocation)return msg('Este dispositivo no ofrece ubicación.');
+   on=true;first=true;B.setAttribute('aria-pressed','true');B.title='Dejar de mostrar mi ubicación';msg('Buscando tu ubicación…',true);
+   map.locate({watch:true,enableHighAccuracy:true,maximumAge:5000,timeout:20000})};
+ map.on('locationfound',e=>{if(!on)return;
+   if(!dot){acc=L.circle(e.latlng,{radius:e.accuracy,pane:'gps',interactive:false,color:'#1A73E8',weight:1,fillColor:'#1A73E8',fillOpacity:.12}).addTo(map);
+     dot=L.circleMarker(e.latlng,{radius:7,pane:'gps',interactive:false,color:'#fff',weight:2.5,fillColor:'#1A73E8',fillOpacity:1}).addTo(map)}
+   else{acc.setLatLng(e.latlng).setRadius(e.accuracy);dot.setLatLng(e.latlng)}
+   const out=!partido.getBounds().pad(.1).contains(e.latlng);
+   if(first){first=false;map.setView(e.latlng,Math.max(map.getZoom(),out?11:15));msg(`Precisión ±${Math.round(e.accuracy)} m`+(out?' · estás fuera del partido':''))}});
+ map.on('locationerror',e=>{if(on)stop(e.code===1?'No hay permiso de ubicación: habilitalo en el navegador.':'No se pudo obtener tu ubicación.')})}
+$('#visLink').onclick=()=>{const u=visLink(),o=$('#visLinkOut');o.value=u;o.hidden=false;o.focus();o.select();
+  const ok=()=>{$('#mineNote').textContent='Enlace copiado: quien lo abra ve el Atlas con esta combinación y puede guardarla como propia.'},no=()=>{$('#mineNote').textContent='Copiá el enlace del recuadro: quien lo abra ve el Atlas con esta combinación.'};
+  if(navigator.clipboard&&navigator.clipboard.writeText)navigator.clipboard.writeText(u).then(ok,no);else no()};
+$('#visReset').onclick=()=>{VIS=MINE.start==='last'?mkPreset('paisaje'):startVis();initVis()};
+initVis();
+if(FROMLINK){$('#ptb-vis').click();$('#mineName').value=FROMLINK.n;$('#presetNote').textContent='Combinación recibida por enlace.';$('#mineNote').textContent='Si querés conservarla, ponele un nombre y tocá «Guardar».'}
 renderLayerList();applyOrder();
 legend();applyYear();
 
@@ -761,6 +988,8 @@ $('#fuentes').innerHTML=`
 <tr><td>Parcelario actual 2024</td><td class="num">13.661</td><td>Parcelas catastrales de ARBA (urbanas y rurales) con nomenclatura, partida, superficie y zona del Código de Ordenamiento Urbano. Se omitieron los titulares y domicilios.</td></tr>
 <tr><td>Estancias y puestos 1884</td><td class="num">${G.p1884.features.length}</td><td>Estancias, puestos, pulperías, postas y poblaciones del registro de 1884.</td></tr>
 </tbody></table></div>
+<h3>Fondos del mapa</h3>
+<p>La pestaña «Visualización» del mapa permite sumar, ordenar, transparentar y mezclar los fondos: imagen satelital (Esri), la caminería actual con nombres de rutas y calles (Esri), Argenmap topográfico y gris (Instituto Geográfico Nacional), OpenStreetMap, una base oscura (Esri) y dos lecturas del modelo digital de elevación. El modelo proviene de las teselas Terrarium de Mapzen, que en esta zona derivan de la misión SRTM (unos 30 m por celda); el navegador lo colorea por altura y calcula el sombreado. Es un modelo de superficie y no de suelo: los montes y cortinas forestales figuran como lomas de varios metros. En la llanura sirve como aproximación a la forma del terreno actual, no como evidencia del relieve ni de las aguadas del siglo XIX.</p>
 <h3>Procesamiento</h3>
 <ul class="warns">
 <li>Las capas estaban en POSGAR 2007 / Argentina faja 5 (EPSG:5347) y se reproyectaron a WGS84. La capa de parcelas urbanas 1884 declaraba WGS84 pero sus coordenadas eran POSGAR; se reproyectó igual que las demás.</li>
@@ -784,7 +1013,7 @@ let startTab='mapa';try{startTab=localStorage.getItem('amg-tab')||'mapa'}catch(e
 const h=location.hash.slice(1);
 if(/^m\d+$/.test(h)){show('mapa');select(+h.slice(1),true)}
 else if(/^c\d+$/.test(h)){openViewer(+h.slice(1),'duo')}
-else if(['mapa','carpetas','lecturas','fuentes'].includes(h))show(h);else show(startTab);
+else if(['mapa','carpetas','lecturas','fuentes'].includes(h))show(h);else if(h.startsWith('vis='))show('mapa');else show(startTab);
 matchMedia('(prefers-color-scheme: dark)').addEventListener('change',()=>{legend();applyYear()});
 new MutationObserver(()=>{applyYear()}).observe(document.documentElement,{attributes:true,attributeFilter:['data-theme']});
 })();
