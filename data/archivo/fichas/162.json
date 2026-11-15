@@ -1,0 +1,639 @@
+{
+ "carpeta": "162",
+ "carpeta_nombre": "Carpeta 162",
+ "archivo": "Ficha 162 - Dionisia Alem de Sosa (1891).docx",
+ "resumen": {
+  "N.º de duplicado": "162 (Giles; portadilla «San A. de Areco» tachado); 3. 5. 111 [?] a lápiz",
+  "Propietario / solicitante": "Sucesión de Dionisia Alem de Sosa",
+  "Agrimensor": "Ing. Pedro Sauberan («Sauveran» en la vista del D. I.)",
+  "Año": "1891",
+  "Fecha de la diligencia": "21/11/1890 – 2/1/1891; D. I. entrada 19/1/1891, vista 23/1/1891",
+  "Ubicación": "Confluencia del arroyo de Giles con el río de Areco (S. A. de Areco / Giles)",
+  "Orden judicial": "Juez Civil y Com. Dto. del Centro Dr. Domingo Demaría; sec. Pedro T. Ferrer [?]",
+  "Vendedor / antecesor": "José María Sosa (herencia de Francisco Sosa; compra a J. Santiago Sosa 1850)",
+  "Linderos citados": "Julio A. Roca (NE); Tomás / Lucas Scully (SE y SO); Guerrico (enfrente, en el plano)",
+  "Medidas": "A-H 8016 m; H-G 1212,50; G-F 7056 (plano 7046); F-E 746,60; D-C 235,47; C-B 362,50",
+  "Rumbos": "S 49° 11′ E / S 40° 43′ O / N 49° 12′ O; costa con ordenadas cada 50 m",
+  "Referencia de archivo": "AHG PBA, duplicado 162 de Giles"
+ },
+ "metricas": {
+  "superficie_ha": "915,03",
+  "hitos": "mojones de fierro; alambrados; camino a Giles; estancia; límite del bañado",
+  "aguas": "río de Areco; arroyo de Giles (confluencia); bañado"
+ },
+ "sintesis": "Mensura y división (nov. 1890 – ene. 1891) del campo de la sucesión de Dionisia Alem de Sosa en la confluencia del arroyo de Giles con el río de Areco, pedida por los presuntos herederos abintestato y por el cesionario de la heredera instituida tras el juicio de nulidad de testamento, porque ya habían vendido sus fracciones. Los títulos de José María Sosa (herencia de Francisco Sosa y compra de 1850) se habían perdido y se suplieron en 1857 con una información de posesión de más de cuarenta años. El ingeniero Pedro Sauberan mide 915,03 ha (8016 × 1212,5 m) entre Julio A. Roca y Scully, releva con ordenadas la costa y el bañado y divide en 468,26 y 446,77 ha. Ningún lindero concurre; el D. I. aconseja aprobar el 23/1/1891.",
+ "caratula": {
+  "img": "img/f/162/01.jpg",
+  "fuente": "IMG_0496.JPG",
+  "campos": [
+   [
+    "N.º",
+    "162"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Dionisia Alem de Sosa"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Pedro Sauberan"
+   ],
+   [
+    "Año",
+    "1891"
+   ],
+   [
+    "Mes / Juzgado / Secretaría",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · encabezado y extracto del título (1856)",
+   "img": "img/f/162/06.jpg",
+   "fuente": "IMG_0498.JPG",
+   "nota": "Página suelta fotografiada acostada: se lee girada 90°. Sello «FOJA 1». La mitad inferior de la hoja está en blanco.",
+   "lineas": [
+    "[sello: Geodesia Catastro y Tierras · Archivo · FOJA 1]",
+    "Mensura y Division",
+    "del terreno de la Sucesion",
+    "de Dionisia Alem de",
+    "Sosa, en San Antonio de Areco",
+    "Extracto del Titulo",
+    "Buenos Aires Diciembre 3 de 1856. Ante",
+    "el escribano Eduardo Mansilla [?], Don José",
+    "Maria Sosa, otorga poder á su sobri-",
+    "no Don Francisco Sosa, para que en",
+    "su nombre pueda buscar en los Re-",
+    "gistros de las Oficinas, ó en manos",
+    "de particulares los títulos de propiedad",
+    "de unos terrenos de estancia situados",
+    "en el partido de San Antonio de Areco",
+    "de la propiedad de Don José Maria Sosa,",
+    "cuyos títulos se han estraviado, y en",
+    "caso de que no los pueda encontrar,",
+    "le faculta para que ante las autori-",
+    "dades competentes, levante una infor-",
+    "macion de testigos ó de vecinos para",
+    "obtener el esclarecimiento de la propiedad"
+   ],
+   "interpretacion": "Encabezamiento caligráfico: «Mensura y División del terreno de la Sucesión de Dionisia Alem de Sosa, en San Antonio de Areco». El extracto arranca el 3/12/1856: ante el escribano Eduardo Mansilla [?], José María Sosa (marido de Dionisia) da poder a su sobrino Francisco Sosa para buscar en los registros o en manos de particulares los títulos de sus «terrenos de estancia» en Areco, que se han EXTRAVIADO, y, si no aparecen, levantar una INFORMACIÓN DE TESTIGOS O DE VECINOS que aclare la propiedad."
+  },
+  {
+   "titulo": "Folio 1 vuelto · pedido de información supletoria (1857)",
+   "img": "img/f/162/07.jpg",
+   "fuente": "IMG_0499.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "que tenga á los espresados terrenos.",
+    "Buenos Aires Febrero 14 de 1857 Don",
+    "Francisco R. Sosa se presenta mani-",
+    "festando que á su representado le tocó",
+    "por herencia en la liquidacion de la",
+    "testamentaria de Don Francisco Sosa su",
+    "padre legitimo un terreno en el parti-",
+    "do de San Antonio de Areco, com-",
+    "puesto de mil cien varas de frente y",
+    "nueve mil de fondo, sus linderos",
+    "son: por el frente el Rio Areco, por el",
+    "fondo terrenos de Doña Mercedes Lagos que",
+    "hoy son de Don Julian M. Sosa por el",
+    "Nord Este los de Doña Geronima Sosa",
+    "y por el Sud Oeste los del finado",
+    "Don Santiago Sosa, los titulos originarios",
+    "de este campo que en mayor porcion",
+    "perteneció al espresado Don Francisco Sosa",
+    "se han estraviado y como su representado",
+    "desea esa propiedad, solicita que se",
+    "levante una informacion que supla",
+    "á los titulos estraviados."
+   ],
+   "interpretacion": "14/2/1857: Francisco R. Sosa, apoderado, expone que a José María le tocó por herencia de su padre legítimo Francisco Sosa un campo de 1100 varas de frente por 9000 de fondo: frente al RÍO ARECO, fondo con Mercedes Lagos (hoy Julián M. Sosa), NE Gerónima Sosa y SO el finado Santiago Sosa. Los títulos originarios, que eran de una porción mayor del padre, se perdieron: pide una información que los supla."
+  },
+  {
+   "titulo": "Folio 2 · aprobación de la información y segunda compra (1850)",
+   "img": "img/f/162/08.jpg",
+   "fuente": "IMG_0499.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 2]",
+    "Buenos Aires Diciembre 9 de 1857. Se",
+    "aprueba la informacion producida por",
+    "el representante de Don José Maria Sosa",
+    "para acreditar la posesion por mas de",
+    "cuarenta años y á titulo hereditario",
+    "de un terreno en el partido de San",
+    "Antonio de Areco compuesto de mil",
+    "cien varas de frente por nueve mil",
+    "varas de fondo, cuyos linderos son:",
+    "por el frente el Rio Areco por el fon-",
+    "do terrenos de Doña Mercedes Lagos hoy",
+    "de Don Julian M. Sosa, por el Nord Oeste los",
+    "de Doña Geronima Sosa, por el Sud Oeste los",
+    "del finado Don Santiago Sosa.",
+    "Buenos Aires Abril 12 de 1850. Don",
+    "José Santiago Sosa ante el escribano Dá-",
+    "maso Salvatierra vende á Don José Maria",
+    "Sosa un terreno para estancia situado",
+    "en San Antonio de Areco compuesto de",
+    "dos mil varas de frente por legua y",
+    "media de fondo. Lindando por el frente",
+    "con el Rio Areco por el fondo con Don"
+   ],
+   "interpretacion": "9/12/1857: se aprueba la información que acredita la POSESIÓN POR MÁS DE CUARENTA AÑOS «y á título hereditario» del campo de 1100 × 9000 v (aquí la Gerónima Sosa aparece al «Nord Oeste», sin duda error por Nord Este). Segunda fracción: el 12/4/1850, ante el escribano Dámaso Salvatierra, José Santiago Sosa vende a José María Sosa un terreno de estancia de 2000 v de frente por legua y media de fondo, frente al río Areco."
+  },
+  {
+   "titulo": "Folio 2 vuelto · la sucesión en litigio (1890)",
+   "img": "img/f/162/09.jpg",
+   "fuente": "IMG_0500.JPG (mitad izquierda)",
+   "nota": "El «asimario» del original se interpreta como «cesionario»: lectura dudosa.",
+   "lineas": [
+    "Francisco [?] del Sar [?] por un costado al Norte",
+    "con el mismo comprador y por el otro con",
+    "el finado Don Antonio Rodriguez, el cual",
+    "le corresponde por compra que del él",
+    "hizo á su tio Don Agustin Sosa. La",
+    "escritura de propiedad se ha estra-",
+    "viado, pero para comprobarlo se pro-",
+    "dujo la competente informacion.",
+    "Julio 19 de 1890. Se presenta ante",
+    "el señor Juez de 1.ª Instancia D. Augusto",
+    "Morés [?] y Leopoldo Maleplate [?] el primero",
+    "por los presuntos herederos abintestato",
+    "de Doña Dionisia Alem de Sosa, y el",
+    "segundo por el cesionario [?] de la heredera",
+    "instituida por la misma señora, ma-",
+    "nifestando que habiendo vendido",
+    "sus mandantes las fracciones del",
+    "campo de Doña Dionisia Alem de Sosa",
+    "situado en San Antonio de Areco",
+    "que le fueron adjudicadas en los",
+    "autos sobre nulidad de testamento;",
+    "y los compradores han exigido"
+   ],
+   "interpretacion": "La compra de 1850 linda al fondo con Francisco [?] del Sar, a un costado con el mismo comprador y al otro con el finado Antonio Rodríguez; también ese título se extravió y se suplió con información. 19/7/1890: Augusto Morés [?], por los PRESUNTOS HEREDEROS ABINTESTATO de Dionisia, y Leopoldo Maleplate [?], por el cesionario [?] de la HEREDERA INSTITUIDA, dicen que sus mandantes vendieron las dos fracciones que les fueron adjudicadas en los AUTOS SOBRE NULIDAD DE TESTAMENTO, y que los compradores exigen mensura judicial previa."
+  },
+  {
+   "titulo": "Folio 3 · nombramiento del ingeniero y comienzo de la diligencia",
+   "img": "img/f/162/10.jpg",
+   "fuente": "IMG_0500.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 3]",
+    "previamente se proceda á la mensura",
+    "judicial de ambas fracciones, pide se",
+    "nombre al ingeniero que firma para",
+    "que ejecute dicha operacion. Los lin-",
+    "deros de este campo son: al N.Este Don",
+    "Julio A. Roca al N.Oeste el Rio Areco y",
+    "el arroyo de Giles al Sud Este y Sud Oeste",
+    "Don Tomás Scully.",
+    "Julio 26 de 1890. En esta fecha fué",
+    "aceptado el Ingeniero propuesto.",
+    "Diligencia de Mensura",
+    "En San Antonio de Areco, á 21 de",
+    "Noviembre de 1890, el ingeniero que sus-",
+    "cribe comisionado por el Señor Juez",
+    "de 1.ª Instancia en lo Civil y Comercial",
+    "del Departamento del Centro Doctor Domin-",
+    "go Demaría, Secretario Pedro T. Ferrer [?],",
+    "para medir el terreno perteneciente",
+    "á la sucesion de Doña Dionisia Alem",
+    "de Sosa situado en el partido"
+   ],
+   "interpretacion": "Linderos declarados: NE Julio A. Roca; NO el río Areco y el arroyo de Giles; SE y SO Tomás Scully. 26/7/1890: se acepta al ingeniero propuesto. Diligencia: «En San Antonio de Areco, á 21 de Noviembre de 1890», Pedro Sauberan, comisionado por el juez de 1.ª Instancia en lo Civil y Comercial del Departamento del Centro Dr. Domingo Demaría (secretario Pedro T. Ferrer [?])."
+  },
+  {
+   "titulo": "Folio 3 vuelto · línea A-H, el gran costado NE",
+   "img": "img/f/162/11.jpg",
+   "fuente": "IMG_0501.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "San Antonio de Areco, prévias las instruc-",
+    "ciones del departamento de Ingenieros, cita-",
+    "cion á los linderos y publicacion de edictos",
+    "en los diarios acompañados, procedí de",
+    "la manera siguiente:",
+    "Linea AH. Situado en A mojon",
+    "esquinero del campo que mido con el rum-",
+    "bo Sud cuarenta nueve grados once mi-",
+    "nutos Este, medí hasta H, ocho mil diez",
+    "y seis metros donde existe un mojon.",
+    "En esta linea á los trescientos veinte y",
+    "cuatro metros encontré un mojon fierro á",
+    "los dos mil quinientos ochenta y cinco m.ts",
+    "un alambrado hacia el interior, á los",
+    "cinco mil quinientos setenta m.ts con sesenta",
+    "centimetros un mojon fierro, á los cinco mil seis-",
+    "cientos cincuenta y ocho m.ts otro mojon de fierro",
+    "á los siete mil setecientos treinta y tres con",
+    "setenta centimetros el costado del camino á",
+    "Giles á los siete mil setecientos ochenta y",
+    "seis m.ts el otro costado del camino.",
+    "Linea HG. Desde H, con el rumbo Sud"
+   ],
+   "interpretacion": "Previas instrucciones del Departamento de Ingenieros, citación y edictos. Desde A, mojón esquinero junto al río: S 49° 11′ E, 8016 m hasta H. Hitos: mojón de fierro a 324 m; ALAMBRADO hacia el interior a 2585 m; mojones de fierro a 5570,60 y 5658 m (el plano rotula el segundo «mojón palo»); el CAMINO A GILES entre 7733,70 y 7786 m (52 m de ancho). Es el lado lindero con Julio A. Roca."
+  },
+  {
+   "titulo": "Folio 4 · líneas H-G y G-F; relevamiento del río",
+   "img": "img/f/162/12.jpg",
+   "fuente": "IMG_0501.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 4]",
+    "cuarenta grados, cuarenta y tres minutos",
+    "Oeste, medí hasta G, mil doscientos",
+    "doce metros con cincuenta centimetros don-",
+    "de encontré un mojon.",
+    "Linea GF. Desde G con el Rumbo Norte",
+    "cuarenta y nueve grados, doce minutos",
+    "Oeste medí hasta F, mojon de siete",
+    "mil cincuenta y seis metros. En esta",
+    "linea á los quinientos sesenta y seis me-",
+    "tros encontré un costado del camino á",
+    "Giles á los seiscientos treinta m.ts con cincuen-",
+    "ta el otro costado á los mil trescientos",
+    "quince, un mojon fierro á los dos mil",
+    "cuatrocientos noventa y cuatro otro mojon de",
+    "fierro, á los cinco mil novecientos catorce,",
+    "con ochenta centimetros un alambrado hácia",
+    "el interior del campo.",
+    "Relevamiento del Arroyo",
+    "de Giles y Rio de Areco.",
+    "Linea FE. Desde F, con el Rumbo Norte",
+    "once grados, siete minutos Este medí"
+   ],
+   "interpretacion": "H-G, S 40° 43′ O, 1212,50 m (cabecera SE, contra Scully). G-F, N 49° 12′ O, 7056 m (el plano dice 7046), con el camino a Giles entre 566 y 630,50 m, mojones de fierro a 1315 y 2494 m y un alambrado hacia el interior a 5914,80 m. Título: «Relevamiento del Arroyo de Giles y Río de Areco»: F-E, N 11° 07′ E."
+  },
+  {
+   "titulo": "Folio 4 vuelto · ordenadas al arroyo de Giles (F-E)",
+   "img": "img/f/162/13.jpg",
+   "fuente": "IMG_0502.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "hasta E, setecientos cuarenta y seis m.ts con",
+    "sesenta centimetros levantando las siguientes",
+    "ordenadas á la izquierda, en el punto",
+    "F diez y seis metros, á los cuarenta",
+    "y seis metros de catorce metros con",
+    "treinta y nueve centimetros, desde este",
+    "punto cada cincuenta metros levanté",
+    "las siguientes: la primera de tres metros,",
+    "la segunda de tres metros, la tercera",
+    "de dos metros, la cuarta toca el arroyo,",
+    "la quinta de siete metros, la sexta",
+    "de veinte y seis metros la septima trein-",
+    "ta y tres m.ts con cuarenta centimetros, la octava",
+    "treinta y nueve m.ts cincuenta centimetros la",
+    "novena de cuarenta y un metros con",
+    "sesenta centimetros la (10) decima de",
+    "cuarenta y un metros, la undecima de",
+    "cuarenta y siete metros, la duodecima",
+    "de cuarenta y dos metros, la decima",
+    "tercera de cincuenta y siete metros.",
+    "Linea ED. Con el rumbo Norte",
+    "cincuenta grados, ocho minutos, Oeste."
+   ],
+   "interpretacion": "F-E mide 746,60 m. Ordenadas a la izquierda hasta el arroyo: 16 m en F, 14,39 m a los 46 m y luego cada 50 m: 3, 3, 2, 0 («toca el arroyo»), 7, 26, 33,40, 39,50, 41,60, 41, 47, 42 y 57 m. Línea E-D: N 50° 08′ O (el copista omite la distancia; el plano parece decir 287 m)."
+  },
+  {
+   "titulo": "Folio 5 · líneas E-D, D-C y C-B",
+   "img": "img/f/162/14.jpg",
+   "fuente": "IMG_0502.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 5]",
+    "En esta linea levanté las siguientes",
+    "ordenadas á la izquierda á los ochen-",
+    "ta y seis metros cincuenta centimetros de diez",
+    "metros y cada cincuenta metros las si-",
+    "guientes, la primera de nueve metros",
+    "la segunda de diez metros con cincuenta",
+    "centimetros la tercera de once metros.",
+    "Linea DC. Con el Rumbo Norte diez",
+    "minutos [sic] Oeste medí doscientos treinta",
+    "y cinco metros, cuarenta y siete centimetros.",
+    "En esta linea levanté las siguientes orde-",
+    "nadas á la izquierda á los treinta",
+    "y cinco metros, de treinta metros, y cada",
+    "cincuenta metros las siguientes la",
+    "primera de treinta y dos metros con cincuenta,",
+    "la segunda de cuarenta y cuatro m.ts cincuenta",
+    "centimetros, la tercera de cuarenta y un me-",
+    "tros con treinta centimetros, la cuarta",
+    "de cuarenta y dos metros.",
+    "Linea CB. Con el Rumbo Norte cua-",
+    "renta y siete grados, cincuenta mi-",
+    "nutos Oeste, medí trescientos sesenta"
+   ],
+   "interpretacion": "Ordenadas de E-D: 10 m a los 86,50 m y luego 9, 10,50 y 11 m. D-C: «Norte diez minutos Oeste» (falta el «cero grados»: N 0° 10′ O, como en el plano), 235,47 m, con ordenadas de 30, 32,50, 44,50, 41,30 y 42 m. C-B: el texto dice «N 47° 50′ O», pero el plano rotula N 41° 50′ E = 362,50 m, y sólo con este rumbo cierra la superficie (verificado en python)."
+  },
+  {
+   "titulo": "Folio 5 vuelto · ordenadas al río y la línea A-B",
+   "img": "img/f/162/15.jpg",
+   "fuente": "IMG_0503.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "y dos metros, cincuenta centimetros. En",
+    "esta linea levanté las siguientes or-",
+    "denadas á la izquierda en el punto C",
+    "veinte metros con treinta centimetros á",
+    "los sesenta y dos metros, cincuenta centi-",
+    "metros de treinta y tres m.ts con setenta centimetros",
+    "y cada cincuenta metros las siguientes, la",
+    "primera de diez y ocho metros, con cincuenta",
+    "centimetros, la segunda de diez y nueve metros",
+    "la tercera de diez metros, la cuarta de",
+    "once metros, la quinta de treinta y siete",
+    "metros, con setenta centimetros, y el punto",
+    "B dista ciento cincuenta metros de A.",
+    "Linea AB. Desde A en direccion á",
+    "H, relevé el Rio á la derecha en la",
+    "siguiente forma en el punto A, cua-",
+    "renta metros con cincuenta centimetros á los",
+    "cincuenta metros de veinte y tres metros",
+    "á los cien metros de treinta y cinco me-",
+    "tros.",
+    "Superficie. El terreno asi me-",
+    "dido encierra una superficie de"
+   ],
+   "interpretacion": "C-B mide 362,50 m: ordenadas de 20,30 m en C, 33,70 a los 62,50 m y 18,50, 19, 10, 11 y 37,70 m. B dista 150 m de A sobre la línea A-H. Desde A hacia H «relevé el Río a la derecha»: 40,50, 23 y 35 m. El campo tiene así su FRENTE sobre la CONFLUENCIA del arroyo de Giles con el río de Areco (punto C). Comienza el cálculo de la superficie."
+  },
+  {
+   "titulo": "Folio 6 · superficie, linderos, circular y división",
+   "img": "img/f/162/16.jpg",
+   "fuente": "IMG_0503.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 6]",
+    "de novecientas quince hectareas, dos",
+    "areas, sesenta y ocho centiareas y noventa",
+    "centimetros de metro.",
+    "Linderos. Linda al Nord Este con Don",
+    "Julio A. Roca por Sud Este y Sud Oeste con",
+    "Scully y por el Oeste con el arroyo de",
+    "Giles y por N. Oeste el Rio Areco.",
+    "Circular. La han firmado los",
+    "linderos, Don Julio A. Roca y Lucas Scully.",
+    "Acta. No se levantó por no",
+    "haber concurrido ningun lindero",
+    "á la mensura.",
+    "Division",
+    "Para practicar la division en",
+    "dos partes, desde el punto A sobre",
+    "la linea AH medí cuatro mil tres-",
+    "cientos treinta y un metros, treinta cen-",
+    "timetros donde coloqué un mojon",
+    "y desde allí con el rumbo Norte cua-",
+    "renta y cuatro grados, cuarenta y cinco",
+    "minutos Oeste medí hasta I"
+   ],
+   "interpretacion": "Superficie: 915 ha 2 a 68 ca 90 dm² (915,026890 ha). Linderos: NE Julio A. Roca; SE y SO Scully; O el arroyo de Giles; NO el río Areco. La CIRCULAR la firmaron Julio A. Roca y Lucas Scully; NO SE LEVANTÓ ACTA «por no haber concurrido ningún lindero á la mensura». División en dos partes: desde A, sobre A-H, a 4331,30 m se coloca el mojón J y desde allí se mide hacia I, «N 44° 45′ O» según el texto (el plano: N 40° 45′ O; la línea es paralela a la cabecera H-G de S 40° 43′ O, así que ambos rumbos están mal copiados en el cuadrante o en los grados)."
+  },
+  {
+   "titulo": "Folio 6 vuelto · las dos fracciones; firma y entrada",
+   "img": "img/f/162/17.jpg",
+   "fuente": "IMG_0504.JPG (mitad izquierda)",
+   "nota": "El reverso del plano plegado ocupa la mitad derecha de la toma.",
+   "lineas": [
+    "[anotaciones a lápiz, ilegibles, en el margen superior]",
+    "mil doscientos doce metros con",
+    "cuarenta centimetros interceptando la",
+    "linea GF donde coloqué un mojon.",
+    "En esta linea JI coloqué un mo-",
+    "jon á los seiscientos metros partien-",
+    "do de J.",
+    "De esta manera quedó dividido",
+    "todo el campo en dos fracciones",
+    "una la AJIE [sic] con la super-",
+    "ficie de cuatrocientas sesenta y ocho",
+    "hectareas veinte y cinco áreas, sesen-",
+    "ta y tres centiareas y cuarenta y siete",
+    "centesimos de metro y la otra JHGI",
+    "de cuatrocientas cuarenta y seis hecta-",
+    "reas setenta y siete areas seis centiareas",
+    "y cuarenta centesimos de metro.",
+    "San Antonio de Areco Ene-",
+    "ro 2 de 1891.",
+    "Pedro Sauberan [firma y rúbrica]",
+    "[sello oval: Departamento de Ingenieros de la Provincia · Entrada · ENE 19 1891]",
+    "[rúbrica: Se]"
+   ],
+   "interpretacion": "J-I mide 1212,40 m y corta G-F; mojón intermedio a 600 m de J. Fracción NO «AJIE» [sic, por A-J-I-F-E-D-C-B]: 468 ha 25 a 63 ca 47; fracción SE J-H-G-I: 446 ha 77 a 06 ca 40 según el texto, 446 ha 77 a 05 ca 43 según el plano (sólo la cifra del plano suma exactamente la superficie total). «San Antonio de Areco Enero 2 de 1891. Pedro Sauberan». Entrada en el Departamento de Ingenieros: 19/1/1891."
+  },
+  {
+   "titulo": "Folio 8 [?] · vista del Departamento de Ingenieros (23/1/1891)",
+   "img": "img/f/162/18.jpg",
+   "fuente": "IMG_0511.JPG",
+   "nota": "A la izquierda, el reverso del plano plegado (se ve «Guerrico» en espejo y la confluencia). No hay auto de aprobación fotografiado.",
+   "lineas": [
+    "[sello: FOJA 8 [?]]",
+    "[Se]ñor Juez:",
+    "La mensura practicada por el In-",
+    "geniero Sauveran en terreno de la",
+    "Sucesion de doña Dionisia A. de",
+    "Sosa en San Antonio de Areco está",
+    "bien ejecutada en su parte geométri-",
+    "ca y no habiendo oposicion por par-",
+    "te de los linderos puede ser aproba-",
+    "da por V. S. Enero 23 de 1891.",
+    "Julio [?] C. [?] Serna [?]      E. [?] Lagos [?] [firma]",
+    "                     Benjamin Sal [?]",
+    "Rufino Arroyo"
+   ],
+   "interpretacion": "«La mensura practicada por el Ingeniero Sauveran» en terreno de la sucesión de Dionisia A. de Sosa «está bien ejecutada en su parte geométrica y no habiendo oposición por parte de los linderos puede ser aprobada por V. S.». Enero 23 de 1891. Firmas: Julio C. Serna [?], Lagos [?], Benjamín Sal y Rufino Arroyo. Es un dictamen en cuatro días y sin observaciones sobre títulos ni sobrante."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de mensura y división (Sauberan, enero de 1891)",
+   "img": "img/f/162/03.jpg",
+   "fuente": "IMG_0505.JPG (vista general; detalles IMG_0506-0510)",
+   "orientacion": "flecha de N hacia arriba en diagonal; el campo es una franja larga NO-SE dibujada horizontal",
+   "interpretacion": "Plano a tinta y acuarela sobre tela, con orla de esquinas redondeadas y título en letras de sombra: «SUCESION DE DIONISIA ALEM DE SOSA · Superficie total 915 h, 2 a, 68 c, 90 c.mos». Firma «Pedro Sauberan» abajo a la derecha. El campo es un rectángulo de 8 km por 1,2 km: arriba «Julio A. Roca», abajo y a la derecha «Sculli» (Scully), a la izquierda, del otro lado del río, «Guerrico». La línea J-I lo parte en dos fracciones: 468 h 25 a 63 c 47 (NO, sobre el agua) y 446 h 77 a 05 c 43 (SE). El camino de Zárate a Azcuénaga y a Giles cruza en diagonal el extremo SE. Escala gráfica de 0 a 1000 metros.",
+   "referencias": [
+    [
+     "A · B",
+     "Esquinero NO sobre el río de Areco; B a 150 m de A sobre A-H"
+    ],
+    [
+     "C",
+     "Confluencia del arroyo de Giles con el río de Areco"
+    ],
+    [
+     "D · E · F",
+     "Poligonal sobre la costa del arroyo de Giles, con ordenadas cada 50 m"
+    ],
+    [
+     "H · G",
+     "Cabecera SE contra Scully, S 40° 43′ O = 1212,50 m"
+    ],
+    [
+     "J · I",
+     "Línea divisoria: J a 4331,30 m de A; J-I 1212,40 m; I a 3684,20 m de G"
+    ],
+    [
+     "Mojón fierro / mojón palo",
+     "Sobre A-H a 324, 5570,60 y 5658 m; sobre G-F a 1315 y 2494 m"
+    ],
+    [
+     "Camino de Zárate á Azcuénaga á Giles",
+     "Cruza A-H a 7733,70-7786 m y G-F a 566-630,50 m"
+    ],
+    [
+     "Linderos rotulados",
+     "Julio A. Roca, Sculli [Scully], Guerrico"
+    ],
+    [
+     "Sello",
+     "Departamento de Ingenieros (en la esquina superior derecha)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: la confluencia, el bañado y la estancia",
+   "img": "img/f/162/04.jpg",
+   "fuente": "IMG_0506.JPG",
+   "orientacion": "como el plano general",
+   "interpretacion": "El extremo NO del campo: el «Río de Areco» y el «Arroyo de Giles» se unen en C; las ordenadas de la costa están dibujadas como peines con sus cifras en rojo. Toda la fracción NO está pintada como BAÑADO (trazos horizontales verdes y azules con matas de juncos), y una línea curva rotulada «Límite del bañado» corre paralela al arroyo a 1,5-2 km de la costa. Justo afuera del bañado, una «Estancia» con su monte (puntos negros). Rumbos rotulados: N 41° 50′ E = 362,50 (C-B), N 0° 10′ O (D-C), N 50° 08′ O = 287 [?] (E-D), N 11° 07′ E (F-E); F a 7046 [?] m de G.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: cabecera SE y el camino a Giles",
+   "img": "img/f/162/05.jpg",
+   "fuente": "IMG_0510.JPG",
+   "orientacion": "como el plano general",
+   "interpretacion": "La cabecera H-G (S 40° 43′ O = 1212,50) contra «Sculli», el vértice H a 8016 m de A, y el «Camino de Zárate á Azcuénaga á Giles» con sus anchos sobre A-H (7733,70) y sobre G-F (566 y 630,50). Mojones de fierro a 1315 m sobre G-F. Firma de Pedro Sauberan.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "El plano muestra un paisaje de AGUA: la mitad NO del campo es un bañado (con «Límite del bañado» dibujado), cerrado al NO por el río de Areco y al O por el arroyo de Giles, que se juntan en el vértice C. La costa se releva con 30 ordenadas: el arroyo se acerca y se aleja de la poligonal entre 0 y 57 m. Afuera del bañado, una «Estancia» con monte: el casco quedó en el alto. Hacia el SE la tierra es firme y la cruzan alambrados (a 2585 m de A y a 5914,80 m de G) y el camino de Zárate a Azcuénaga y a Giles, de 52 m de ancho. La división pone casi toda el agua y el bañado en la fracción NO (468 ha) y la tierra alta y el camino en la SE (446 ha)."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Ritual reducido al mínimo de 1890: instrucciones del Departamento de Ingenieros, citación y edictos «en los diarios acompañados», circular firmada por Julio A. Roca y Lucas Scully, pero ningún lindero va al terreno y no se levanta acta. La negociación ocurrió antes y en otro lugar: en el juicio de nulidad de testamento entre los presuntos herederos abintestato de Dionisia y el cesionario de la heredera instituida. La mensura la piden los COMPRADORES («han exigido que previamente se proceda á la mensura judicial»): el agrimensor certifica la cosa vendida. El Departamento aconseja aprobar en 4 días, mirando sólo «la parte geométrica»."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos al minuto, distancias al centímetro, superficie al decímetro cuadrado. Costa relevada con ordenadas perpendiculares cada 50 m desde una poligonal (F-E-D-C-B y A-B). Verificación en python: con el rumbo C-B del plano (N 41° 50′ E) el polígono da 911,5-912,2 ha y las ordenadas 3,64 ha, en total 915,2-915,8 ha frente a las 915,03 declaradas; con el «N 47° 50′ O» del texto la cifra cae a 891 ha, así que el rumbo del texto es un error de copia. El cierre lineal, con E-D estimado en 287 m, queda en 23-35 m: falta la distancia E-D en el texto. La fracción SE (3684,5 × 1212,45 m ≈ 446,7 ha) confirma la línea J-I. Las fracciones del plano (468,256347 + 446,770543) suman exactamente 915,026890 ha; las del texto se pasan en 0,97 m², luego «seis centiáreas y cuarenta» es error por 05 ca 43."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todo en sistema métrico (hectáreas, áreas, centiáreas y «centésimos de metro»); las varas quedan sólo en los títulos. El ancho medido, 1212,5 m, es 1400 varas (vara de 0,866 m), y A-H, 8016 m, son 9256 varas: no coincide con ninguno de los dos títulos (1100 × 9000 v y 2000 v × legua y media), lo que sugiere que el campo de 1890 es una recomposición de partes de los dos, o lo que quedó tras las ventas de 1858 (La Sota) y 1876 (Francisco R. Sosa a Scully). El ancho de 1212,4-1212,5 m reaparece en el C-D de 069 (Scully, N 39° 36′ E 1212,4 m)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena: Francisco Sosa (comienzos del siglo XIX) → su hijo José María Sosa por herencia (1100 × 9000 v) + compra a José Santiago Sosa (12/4/1850, 2000 v × 1,5 leguas) → títulos extraviados, suplidos por información de posesión de más de 40 años (1856-1857) → Dionisia Alem de Sosa, viuda (testamento recíproco de 1827) → muere en 1878; heredera instituida su hija adoptiva Paula Cataldo; los parientes Alem impugnan el testamento → en los autos de nulidad cada parte recibe una fracción y la vende → mensura de 1890-1891 exigida por los compradores. La posesión prolongada sustituye al título perdido dos veces en la misma familia."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "021 (Differt 1858: el mismo campo de Dionisia Alen de Sosa en la desembocadura del arroyo de Giles); 126 (punta de la confluencia vendida a Gregorio de La Sota en 1858); 069, 071 y 133 (Santiago y Lucas Scully: el campo Scully, comprado en parte a Francisco R. Sosa en 1876, rodea ahora este campo por el SE y el SO); 072 y 155 (Zacarelo / Silvio Sosa 1890: la otra porción Alem, con Miguel Covián como heredero de los derechos de D. Alem; mismos firmantes del D. I.); 152-153 y 160 (juez Domingo Demaría; Serna, Lagos y Benjamín Sal en el D. I.); 029 y 038 (Guerrico, enfrente sobre el río de Areco); 083, 144 y 160 (camino de Zárate a Giles y Azcuénaga)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Falta el auto de aprobación y el f. 7 (probablemente el plano, que lleva su propio sello). Dudosas: el escribano de 1856 (Mansilla [?]), los apoderados Morés [?] y Maleplate [?], el «cesionario» [?], el secretario Ferrer [?] y dos firmas del D. I. Preguntas: ¿quiénes fueron los compradores de cada fracción? ¿Julio A. Roca, presidente hasta 1886, compró el campo de Gerónima Sosa (Lacarra), lindero NE en los títulos y en 069? ¿El cesionario de la heredera instituida es Miguel Covián, como en 155? Para el GIS: la confluencia C, el límite del bañado y el cruce del camino a Giles (7733,70 m de A) son anclas firmes."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Dionisia (Dionicia) Alem (Alen) de Sosa",
+   "rol": "Causante",
+   "texto": "Viuda de José María Sosa, con quien hizo testamento recíproco en 1827. Dueña del campo de la confluencia del arroyo de Giles con el río de Areco, medido por Differt en 1858; vendió la punta a Gregorio de La Sota (1858) y otra parte a Francisco R. Sosa (1876, revendida a Scully). Murió en Areco el 10/9/1878; heredera instituida su hija adoptiva Paula Cataldo (de Zacarello). Su testamento fue impugnado por presuntos herederos abintestato. No se pudo verificar su parentesco con Leandro N. Alem.",
+   "fuentes": "Este duplicado; fichas 021, 071, 126, 155."
+  },
+  {
+   "nombre": "José María Sosa",
+   "rol": "Marido de la causante, titular original",
+   "texto": "Hijo de Francisco Sosa; heredó 1100 × 9000 varas sobre el río Areco y compró en 1850 a José Santiago Sosa otras 2000 v × legua y media. Perdió sus títulos y en 1856 dio poder a su sobrino Francisco (R.) Sosa para suplirlos con información de testigos. Su mensura de 1838 fue anulada (ficha 018).",
+   "fuentes": "Este duplicado; fichas 018, 155."
+  },
+  {
+   "nombre": "Francisco Sosa (padre) y Francisco R. Sosa (sobrino)",
+   "rol": "Antecesor y apoderado",
+   "texto": "El padre, dueño de una porción mayor sobre el río de Areco a comienzos del siglo XIX, cuya testamentaría dio la hijuela de José María. El sobrino Francisco R. Sosa gestionó la información de 1857 y en 1876 compró a Dionisia y revendió a Santiago Scully (ficha 071).",
+   "fuentes": "Este duplicado; ficha 071."
+  },
+  {
+   "nombre": "José Santiago Sosa",
+   "rol": "Vendedor (1850)",
+   "texto": "Vende a José María Sosa 2000 v × 1,5 leguas ante el escribano Dámaso Salvatierra el 12/4/1850; compró sobras a F. Arroyo en 1825 (ficha 016). El título de 1857 llama «finado Don Santiago Sosa» al lindero SO.",
+   "fuentes": "Este duplicado; ficha 016."
+  },
+  {
+   "nombre": "Gerónima Sosa, Mercedes Lagos, Julián M. Sosa, Antonio Rodríguez, Agustín Sosa, Francisco [?] del Sar",
+   "rol": "Linderos de los títulos",
+   "texto": "Gerónima Sosa (de Lacarra), lindera NE en 1857 y en 069; Mercedes Lagos, al fondo, cuyo campo pasó a Julián M. Sosa; Antonio Rodríguez, que compró a su tío Agustín Sosa; Del Sar, al fondo de la compra de 1850 (cf. 021 y 031: Francisco del Sar, Margarita del Sar de Chapeaurouge).",
+   "fuentes": "Este duplicado; fichas 021, 031, 069."
+  },
+  {
+   "nombre": "Julio A. Roca",
+   "rol": "Lindero ne",
+   "texto": "Julio Argentino Roca (1843-1914), presidente de la Nación 1880-1886 y 1898-1904, firma la circular como lindero NE en 1890, entre sus dos presidencias. Primera aparición en el corpus de Giles; la búsqueda web no dio datos de su campo en Areco.",
+   "fuentes": "Este duplicado; búsqueda web 15/11/2026 sin resultados específicos."
+  },
+  {
+   "nombre": "Tomás y Lucas Scully",
+   "rol": "Linderos se y so",
+   "texto": "Herederos o sucesores de Santiago Scully, el estanciero irlandés que entre 1875 y 1879 armó una estancia de unas 3400 ha en el NE del partido (069, 071, 133). El escrito de 1890 nombra a Tomás; la circular la firma Lucas.",
+   "fuentes": "Fichas 069, 071, 072, 133, 155."
+  },
+  {
+   "nombre": "Pedro Sauberan",
+   "rol": "Ingeniero",
+   "texto": "Ingeniero que mide y divide en nov. de 1890 – ene. de 1891; el Departamento escribe «Sauveran». Primera aparición en el corpus; no confundir con Pedro Saubidet (fichas 028, 039). Sin datos en la web.",
+   "fuentes": "Este duplicado; búsqueda web 15/11/2026 sin resultados."
+  },
+  {
+   "nombre": "Domingo Demaría (De María)",
+   "rol": "Juez",
+   "texto": "Juez de 1.ª Instancia en lo Civil y Comercial del Departamento del Centro (La Plata) en 1889-1890; secretario aquí Pedro T. Ferrer [?].",
+   "fuentes": "Fichas 152-153."
+  },
+  {
+   "nombre": "Augusto Morés [?] y Leopoldo Maleplate [?]",
+   "rol": "Apoderados",
+   "texto": "Representan, respectivamente, a los presuntos herederos abintestato de Dionisia y al cesionario de la heredera instituida (19/7/1890). Sin otros datos.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Eduardo Mansilla [?] y Dámaso Salvatierra",
+   "rol": "Escribanos",
+   "texto": "Mansilla [?] autoriza el poder de 1856; Salvatierra, escribano de Buenos Aires, la venta de 1850.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Julio C. Serna, Lagos, Benjamín Sal, Rufino Arroyo",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firmantes de la vista del 23/1/1891; Serna, Lagos y Sal firman también en 155 y 160. Rufino Arroyo aparece por primera vez.",
+   "fuentes": "Fichas 153, 155, 160."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/162/02.jpg",
+  "fuente": "IMG_0497.JPG",
+  "lineas": [
+   "[a lápiz:] Giles 162",
+   "1891",
+   "[tachado:] San A. de Areco",
+   "Duplicado",
+   "de la",
+   "Mensura y Division",
+   "de la Sucesion",
+   "de Dionisia Alem de Sosa",
+   "en San Antonio de Areco",
+   "Practicada por el Ing.^{o} Pedro Sauberan",
+   "[rúbrica]",
+   "[a lápiz:] 3. 5. 111 [?]"
+  ]
+ },
+ "titulo": "Sucesión de Dionisia Alem de Sosa",
+ "estado": "Transcripta (13 hojas, 278 renglones), 3 láminas"
+}

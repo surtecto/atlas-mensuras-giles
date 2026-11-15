@@ -1,0 +1,531 @@
+{
+ "carpeta": "161",
+ "carpeta_nombre": "Carpeta 161",
+ "archivo": "Ficha 161 - Herederos de Felipe Figueroa (1857).docx",
+ "resumen": {
+  "N.º de duplicado": "161 (San Andrés de Giles); antes Sección Areco N.º 49",
+  "Propietario / solicitante": "Herederos de Felipe Figueroa",
+  "Agrimensor": "German Kuhr",
+  "Año": "1857",
+  "Fecha de la diligencia": "Citación 9/5/1857; mensura desde 12/5/1857; D. T. 1/8; aprobada 17/8/1857",
+  "Ubicación": "Partido de S. A. de Areco, entre el río de Areco y el arroyo de Giles (barra de Suero)",
+  "Orden judicial": "Juez civil Dr. Pablo Font, decreto del 20/4/1857; apoderado Laureano Bonorino",
+  "Vendedor / antecesor": "Martínez (1824-39), Suero a Tomás Figueroa (1755), Rodríguez (1852-54)",
+  "Linderos citados": "V. y J. A. Martínez, Iglesia, Donojo, Moonie, Carnero, R. de Dios, Zárate, J. Rodríguez",
+  "Medidas": "A-B 1000; B-C 3075; E-P 8300; S-T 4350; B′-C′ 6000; C′-A′ 2566 ⅓ varas",
+  "Rumbos": "N 58° 10′ E / S 31° 50′ E (cuadrícula); var. 11° 30′ NE; lat. 34° 20′ S",
+  "Referencia de archivo": "AHG PBA, duplicado 161; copia de plano de 1947; cf. fichas 043, 056 y 062"
+ },
+ "metricas": {
+  "superficie_ha": "2595,4 (34.607.350 v² declaradas; 2790,2 según los lados)",
+  "hitos": "piedra enterrada en C hallada por casualidad; mojones nuevos en D, O; amojonamiento de Zárate",
+  "aguas": "río de Areco, arroyo de Giles, barra de la cañada de Suero, arroyo de Bague"
+ },
+ "sintesis": "Mensura y división judicial de la estancia de Felipe Figueroa, entre el río de Areco y el arroyo de Giles, armada con títulos de 1755 a 1854 (Suero, Martínez, Sosa, Rodríguez). Kuhr halla por casualidad, enterrada por las crecientes, la piedra esquinera del río; respeta los mojones de Zárate aunque el fondo quede corto; observa la latitud (34° 20′ S) y la variación con el sol y Antares. Declara 34.607.350 v² (2595 ha) en tres hijuelas para José, Gregorio y Abelina Figueroa de Durán; la viuda Damiana San Martín tiene la mitad. Los lados que da miden 2.598.000 v² más en la hijuela de José: el sobrante de 433 × 6000 v que el D. T. declarará en 1872 (Ficha 062).",
+ "caratula": {
+  "img": "img/f/161/01.jpg",
+  "fuente": "",
+  "campos": []
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · extracto de títulos: los Martínez (1783-1825)",
+   "img": "img/f/161/07.jpg",
+   "fuente": "IMG_0478.JPG",
+   "nota": "El apellido Bague se confirma por el «Arroyo de Bague» del plano. Rumbos: suertes «Nordoeste á Sudeste», cabezadas «Nordeste á Sudoeste».",
+   "lineas": [
+    "Estracto de los títulos de los herederos de D. Felipe Figueroa",
+    "[Al margen:] f. 1.",
+    "Con fha. diez y nueve de Abril de mil ochocientos veinte y cinco; D. Pedro Antonio Martinez se presentó al Escribano D. Manuel Llames pidiendo protocolizacion de una Escritura simple, cuyo tenor en estracto es como sigue:",
+    "Con fha. veinte y dos de Septiembre de mil ochocientos veinte y cuatro, y ante el Juez de Paz de San Antonio de Areco D. Pedro Antonio Martinez, otorga Escritura de venta D. Francisco Mariano Martinez á favor de sus hermanos D. Norberto Antonio y D. Pedro Antonio Martinez de una Estancia sita poco mas de una legua de aquel Pueblo que le pertenece en posesion y propiedad, compuesta de dos mil doscientas cincuenta varas de tierra, de las cuales setecientas cincuenta son de suerte principal al Rio de Areco por su frente con legua y media de fondo, siendo en este sus rumbos Nordoeste á Sudeste y las otras mil y quinientas son de cabezadas con una legua de fondo, cuyos rumbos son de las Suertes principales y de Nordeste á Sudoeste, siendo sus frentes por sus perpendiculares.",
+    "Lindan las primeras por el costado de arriba con tierras de D. Vicente Martinez y por el de abajo con las de D. Felipe Figueroa, y en lo antiguo fueron unas y otras del finado D. José Bague [?] quien por Escritura que otorgó en Buenos Ayres á ocho de Noviembre de mil setecientos ochenta y tres ante D. José Garcia de Echaburu Escribano las vendió al finado D. Felipe Antonio Martinez padre del otorgante, á quien cupieron como una parte de su haber paterno."
+   ],
+   "interpretacion": "Kuhr encabeza el duplicado con un extracto de los títulos, citando el folio del expediente al margen. F. 1: protocolización (1825, escribano Manuel Llames) de la venta de 1824 de Francisco Mariano Martínez a sus hermanos Norberto Antonio y Pedro Antonio: 2250 v, 750 de suerte principal al río de Areco con legua y media de fondo y 1500 de cabezadas con una legua de fondo, a poco más de una legua del pueblo. Lindan con Vicente Martínez (arriba) y Felipe Figueroa (abajo); antes de José Bague [?], que las vendió en 1783 (escribano José García de Echaburu) a Felipe Antonio Martínez, padre del vendedor."
+  },
+  {
+   "titulo": "Folio 1 vuelto · Sosa (1784), Suero (1755), Monsalvo (1849)",
+   "img": "img/f/161/08.jpg",
+   "fuente": "IMG_0479.JPG (mitad izquierda)",
+   "nota": "Tres capas de títulos: merced de Arellano (1755), reparto Martínez-Sosa (1780) y fraccionamiento hereditario de los Rodríguez (1849-54) en tiras de 166 ⅔ v (= 500/3).",
+   "lineas": [
+    "[Al margen:] f. 5.",
+    "D. José de Sosa vende por medio de un documento simple á D. Felipe Martinez quinientas varas de tierra de cabezadas, las que habia comprado á su hermano D. Pedro de Sosa. Con fha. veinte y dos de Octubre de mil setecientos ochenta y cuatro.",
+    "[Al margen:] f. 11.",
+    "Doña Teodora de Suero otorga Escritura de venta á favor de D. Tomas Figueroa de mil varas de tierra en esta banda del Rio de Areco, lindando por el Este con tierras que la otorgante ha vendido á D. Andres de Sosa, por el poniente con tierras de Doña Josepha Osorio, cuyas tierras hubo y heredó de su finado esposo D. Joseph Ruiz de Arellano. Con fha. dos de Septiembre de mil setecientos cincuenta y cinco ante el Escribano Felipe Vasquez Pelayo.—",
+    "[Al margen:] f. 21.",
+    "Con fha. veinte y ocho de Junio de mil ochocientos cuarenta y nueve ante el Juez de Paz de San Antonio de Areco D. Tiburcio Lima — Doña Valeria Rodriguez otorga Escritura de venta a favor de D. Elias Monsalvo de un terreno de Estancia situado en el Partido de San Antonio de Areco compuesto de ciento sesenta y seis y dos tercias varas de frente con legua y media de fondo, lindando por el Norte con el Rio de Areco por el Sud con D. Pedro Miguel Figueroa por el Este con otra igual cantidad de varas que fueron adjudicadas á la esposa del comprador Doña Juana María Rodriguez y por el Oeste con igual terreno perteneciente á D. José Rodriguez. Cuyo terreno hubo la otorgante por la legítima que la correspondió de su finado padre D. Antonio Rodriguez. Siendo las referidas ciento sesenta y seis y dos tercias varas parte de las quinientas varas que el espresado D. Antonio Rodriguez ha comprado á D.ª María del Rosario Puebla viuda del finado D. Domingo Casco.—"
+   ],
+   "interpretacion": "F. 5: José de Sosa vende por documento simple a Felipe Martínez 500 v de cabezadas compradas a su hermano Pedro (22/10/1784). F. 11: Teodora de Suero vende a Tomás Figueroa 1000 v en esta banda del río de Areco, entre Andrés de Sosa (E) y Josepha Osorio, viuda de Joseph Ruiz de Arellano (O), 2/9/1755, escribano Felipe Vásquez Pelayo. F. 21: Valeria Rodríguez vende a Elías Monsalvo 166 ⅔ v × legua y media (1849, juez de paz Tiburcio Lima), parte de 500 v que su padre Antonio Rodríguez compró a María del Rosario Puebla, viuda de Domingo Casco."
+  },
+  {
+   "titulo": "Folio 2 · Damiana San Martín y la sociedad «Tres hermanos» (1852-1854)",
+   "img": "img/f/161/09.jpg",
+   "fuente": "IMG_0479.JPG (mitad derecha)",
+   "nota": "Como Kuhr incluye esas 333 ⅓ v en el campo de los herederos, la sociedad «Tres hermanos» parece ser la de los tres hijos de Felipe Figueroa [inferencia].",
+   "lineas": [
+    "[Sello: Foja 2]",
+    "[Al margen:] f. 23.",
+    "Con fha. veinte de Julio de mil ochocientos cincuenta y dos. Ante el Juez de Paz de San Antonio de Areco.— Doña Damiana Rodriguez otorga Escritura de venta á favor de Doña Damiana San Martin de ciento sesenta y seis y dos tercias varas de terreno de frente con nueve mil de fondo, lindando por su frente con el Rio de Areco por el Este con otro terreno compuesto de igual numero de varas que se adjudicaron á Doña Juana Rodriguez, por el Sud con Doña Agustina Monsalvo y por el Oeste con terrenos de la propiedad de la compradora, cuyo terreno lo hubo la vendedora por herencia de su finado Padre D. Victoriano Antonio Rodriguez y son parte de las mil varas de terreno de frente con nueve mil de fondo que poseía dicho Señor.—",
+    "[Al margen:] f. 25.",
+    "Con fha. siete de Junio de mil ochocientos cincuenta y cuatro ante D. Juan Francisco Font Juez de Paz de San Antonio de Areco. Doña Juana Rodriguez con el correspondiente permiso y aprobacion de su esposo D. Elias Monsalvo, otorga Escritura de venta á favor de la sociedad titulada «Tres hermanos» de trescientas treinta y tres y tercia varas de terreno de frente con legua y media de fondo situado en este Partido, y linda por su frente que es el Norte con el Rio de Areco, su fondo al Sud con terreno del finado D. Pedro Miguel Figueroa ó sus herederos por el Oeste ó costado de arriba con terreno perteneciente á la testamentaría de D. Felipe Figueroa y por el costado de abajo con D. José Rodriguez. Dicho terreno hubo la vendedora en la siguiente forma = Ciento sesenta y seis y dos tercias varas por herencia de su finado Padre D. Antonio Rodriguez y otras ciento"
+   ],
+   "interpretacion": "F. 23: Damiana Rodríguez vende a Damiana San Martín (la viuda de Felipe Figueroa) 166 ⅔ v × 9000 v (20/7/1852), parte de las 1000 v de su padre Victoriano Antonio Rodríguez. F. 25: Juana Rodríguez, con licencia de su esposo Elías Monsalvo, vende a la sociedad «Tres hermanos» 333 ⅓ v × legua y media (7/6/1854, juez de paz Juan Francisco Font); al S Pedro Miguel Figueroa o sus herederos, al O la testamentaría de Felipe Figueroa, al E José Rodríguez."
+  },
+  {
+   "titulo": "Folio 2 vuelto · Marcelina Figueroa y la compra a los Martínez",
+   "img": "img/f/161/10.jpg",
+   "fuente": "IMG_0480.JPG (mitad izquierda)",
+   "nota": "La fecha del f. 28 queda incompleta («mil ochocientos veinte y», sin la unidad). «Caguané» [?] es lectura dudosa del distrito del teniente juez.",
+   "lineas": [
+    "sesenta y seis y dos tercias varas, que le ha comprado la vendedora á su hermana D.ª Valeria Rodriguez como consta por las Escrituras que anteceden.—",
+    "[Al margen, con una llave que abarca el asiento:] f. 27.",
+    "Con fha. veinte y siete de Noviembre de mil ochocientos veinte y dos y ante D. Marc.n [Marcelino?] Castro Teniente Juez del Caguané [?] D.ª Marcelina Figueroa hace presente que habiendo cedido desde soltera á su primo hermano D. Felipe Figueroa la porcion de varas de terreno que en la Estancia de sus Padres sobre la Cañada de Giles le fueron adjudicadas en el año 1810 la compareciente suplica al Juez que autorice y reduzca á terminos de publico su relacionado y antiguo contrato.",
+    "[Al margen:] f. 28.",
+    "Con fha. treinta de Abril de mil ochocientos veinte y [sic: falta la unidad] ante D. Patricio José Arriaga Juez de Paz de San Antonio de Areco.— D. Norberto Antonio Martinez y D. Pedro Antonio Martinez otorgan Escritura de venta á favor de D. Felipe Figueroa de setecientas cincuenta varas de tierras de frente al Rio de Areco con nueve mil de fondo, linderas por el costado del Nordoeste con otras del Comprador por el Sudoeste con las de D. Vicente Martinez y por los fondos con las de los Figueroas. Mas mil quinientas varas de frente y seis mil de fondo de cabezeras, las cuales hacen aquel sobre el costado del Sudueste de las referidas setecientas y cincuenta, y este al Sudueste siguiendo el costado del Nordoeste sobre la linea de cabezeras del terreno de D. Vicente Martinez y del de esta Iglesia de San Antonio y demas que siguen, que son las Suertes principales al Rio de Areco linderas por el costado del Sueste con las de los Figueroas.",
+    "[Al margen:] f. 31.",
+    "Con fha. once de Febrero de mil ochocientos treinta y nueve y ante D. Tiburcio Lima Juez de Paz Sobstituto de San Antonio de Areco.— D. José"
+   ],
+   "interpretacion": "F. 27: Marcelina Figueroa pide en 1822 (ante el teniente juez Marcelino [?] Castro) que se reduzca a escritura pública la cesión que hizo de soltera a su primo hermano Felipe Figueroa de las varas que le tocaron en 1810 en la estancia de sus padres sobre la Cañada de Giles. F. 28: Norberto Antonio y Pedro Antonio Martínez venden a Felipe Figueroa 750 v × 9000 al río de Areco y 1500 × 6000 de cabezadas, que siguen la línea de cabezadas de Vicente Martínez, de la Iglesia de San Antonio «y demás que siguen»."
+  },
+  {
+   "titulo": "Folio 3 · Vicente Martínez y Marcelina Figueroa (1839); citación de linderos",
+   "img": "img/f/161/11.jpg",
+   "fuente": "IMG_0480.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: Foja 3]",
+    "Vicente Martinez otorga Escritura de venta á favor de D. Felipe Figueroa de un terreno compuesto de mil varas de frente y seis mil de fondo, el cual linda por su frente al Norte con terreno de la propiedad del vendedor, por el Sud y Este con el mismo comprador, y por el Oeste con terrenos de la fabrica de la Iglesia de San Antonio de Areco.—",
+    "[Al margen:] f. 32.",
+    "Con fha. diez y seis de Enero de mil ochocientos treinta y nueve y ante el Juez de Paz de San Antonio de Areco D. José V. Martinez. Doña Marcelina Figueroa otorga Escritura de venta á favor de D. Felipe Figueroa de setecientas cincuenta varas de frente y legua y media de fondo, lindando por el Nordeste con D. Antonio Rodriguez por el Sudoeste con propiedad de los Martinez por el frente con el Rio de Areco y por el fondo con terreno de los Sueros.—",
+    "[Firma, cortada en el lomo:] [German] Kuhr / [Agrim]ensor",
+    "Citacion de Linderos.",
+    "A los Sres. Linderos del campo de los herederos de D. Felipe Figueroa:",
+    "El Agrimensor que suscribe habiendo con fha. veinte de Abril pp.do recibido la comision del Juzgado de 1.ª Instancia en lo Civil del Sr. Dor. D.n Pablo Font, para medir el terreno de los herederos de D. Felipe Figueroa, previene á V.d que va a dar principio á la Mensura el Martes doce del corriente mes de Mayo para que pueda V.d siendo lindero concurrir á ver si se sobrepasan los limites de su propiedad. A este fin es V.d convidado á asistir con sus titulos á la Estancia de Figueroa ó de no á inmediacion de los mojones que lo dividen"
+   ],
+   "interpretacion": "F. 31: Vicente Martínez vende a Felipe Figueroa 1000 × 6000 v, lindando al O con la fábrica de la Iglesia de San Antonio de Areco (11/2/1839, juez de paz sustituto Tiburcio Lima). F. 32: Marcelina Figueroa vende a Felipe 750 v × legua y media, entre Antonio Rodríguez y los Martínez, con fondo a los Suero (16/1/1839, juez de paz José V. Martínez). Sigue la circular: comisión del juez civil Dr. Pablo Font del 20 de abril; la mensura empieza el martes 12 de mayo (verificado: 12/5/1857 cayó martes); se cita a los linderos a la estancia de Figueroa o a los mojones."
+  },
+  {
+   "titulo": "Folio 3 vuelto · firmas de la circular; inicio de la diligencia",
+   "img": "img/f/161/12.jpg",
+   "fuente": "IMG_0481.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "del terreno que se va a medir, indicando la casa donde nos aguardará para pasarle aviso en tiempo oportuno, en la inteligencia que de no concurrir por sí ó por medio de Apoderado le pararán los perjuicios que el derecho determina. Siendo por ultimo necesario conservar constancia de haber practicado la presente diligencia se servirá V.d acusar recibo firmando á continuacion, lo que si no pudiese hacer será espresado por medio de testigos. Estancia de Figueroa a 9 de Mayo de 1857.— German Kuhr = Tomas Donojo = José V. Martinez = Mariano Martinez = Rosendo de Dios = Juan Pio Figueroa = A ruego de D. Juan Carnero, Paz Martinez = A ruego de D. José Rodriguez — José M. Romero = A ruego de D. Antonio Zarate, Manuel S.ta Cruz =",
+    "Diligencia de Mensura.",
+    "En el Partido de San Antonio de Areco á doce de Mayo de mil ochocientos cincuenta y siete, para dar cumplimiento al Decreto con fha. veinte de Abril pp.do del Señor Juez de 1.ª Instancia en lo Civil Dor. D.n Pablo Font, yo el Agrimensor que suscribe acompañado por el Juez de Paz del Partido D. José Martinez, D. Laureano Bonorino en representacion de los herederos de D. Felipe Figueroa, los linderos: D. Vicente Martinez, D. Tomas Donojo, D. José Rodriguez, D. Antonio Zarate, D. Juan Pio Figueroa en representacion de los herederos de D. Tomas Figueroa, D. Rosendo de Dios, D. Juan Carnero, D. Valentin Cufré y D. Mariano Martinez como síndico de la Iglesia de San Antonio de Areco, me trasladé al mojon señalado en el Plano con la"
+   ],
+   "interpretacion": "Circular fechada en la estancia de Figueroa el 9/5/1857. Firman Tomás Donojo, José V. Martínez, Mariano Martínez, Rosendo de Dios, Juan Pío Figueroa; Paz Martínez firma a ruego de Juan Carnero, José M. Romero a ruego de José Rodríguez y Manuel Santa Cruz a ruego de Antonio Zárate. Diligencia: el 12 de mayo Kuhr sale con el juez de paz José Martínez, Laureano Bonorino (apoderado de los herederos), los linderos y Mariano Martínez como síndico de la Iglesia de San Antonio de Areco."
+  },
+  {
+   "titulo": "Folio 4 · A-B, la piedra enterrada en C y el fondo B-N",
+   "img": "img/f/161/13.jpg",
+   "fuente": "IMG_0481.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: Foja 4]",
+    "letra A. cuyo mojon es el esquinero de arriba del fondo de la media legua que se habia reservado D. Vicente Martinez vendiendo segun la Escritura á f. 31 á D. Felipe Figueroa mil varas de frente con una legua de fondo, y existiendo tambien el esquinero de abajo B hice colocar una bandera en este mojon y observando el rumbo hallé Norte cuarenta y seis grados cuarenta minutos Este de un compas, cuya variacion en este punto era de once grados treinta minutos Nordeste, lo que da un rumbo corregido de Norte cincuenta y ocho grados diez minutos Este, en cuya direccion medí desde A hasta B mil varas de frente que debia tener el terreno comprado a Martinez segun la Escritura á f. 31. En seguida para esclarecer la duda de D. Vicente Martinez si el terreno que el se habia reservado tenia la media legua de fondo, y á la vez para basar ya los otros terrenos pertenecientes á la Testamentaría de D. Felipe Figueroa, cuyos terrenos arrancan desde el Rio de Areco, cuadré en el punto B al Norte treinta y un grados cincuenta minutos Oeste y medí hasta el Rio de Areco tres mil setenta y cinco varas hasta el punto C. En este punto ninguno de los Interesados ni linderos habia conocido un mojon por una serie de años, pero por una casualidad se descubrió la piedra á dos varas distancia del punto C, habiendo sido cubierta enteramente con tierra y vegetacion, probablemente por las crecientes del Rio. Satisfechos los concurrentes por esta piedra volví sobre el punto B y medí al Sud treinta y un grados cincuenta minutos Este tres mil varas hasta el punto D donde se colocó un mojon y en seguida medí tres mil varas mas en la misma linea hasta el punto N. donde concluyó la legua del fondo de esta fraccion."
+   ],
+   "interpretacion": "Desde el mojón A (esquinero de la media legua que Vicente Martínez se había reservado) mide al N 46° 40′ E de la brújula, con variación de 11° 30′ NE: rumbo corregido N 58° 10′ E (verificado), 1000 v hasta B. Para aclarar la duda de Vicente Martínez cuadra en B al N 31° 50′ O y mide 3075 v hasta el río de Areco (C), donde nadie conocía mojón desde hacía años: «por una casualidad se descubrió la piedra á dos varas distancia del punto C», cubierta de tierra y vegetación por las crecientes, y los concurrentes quedan satisfechos. Luego B-D 3000 v y D-N otras 3000 v al S 31° 50′ E."
+  },
+  {
+   "titulo": "Folio 4 vuelto · primera fracción y los frentes al río",
+   "img": "img/f/161/14.jpg",
+   "fuente": "IMG_0482.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "En seguida cuadré en el punto N. al Sud cincuenta y ocho grados diez minutos Oeste midiendo mil varas hasta O, de cuyo punto despues de haber colocado un mojon medí al Norte treinta y un grados cincuenta minutos Oeste seis mil varas hasta el mojon A, con cuya Operacion quedó deslindada la primera fraccion que tiene una superficie de seis millones de varas cuadradas igual á un sexto de legua cuadrada. En seguida con motivo de deslindar los frentes de las fracciones que arrancan del Rio de Areco y delinear el curso de este Rio para basar sus fondos me trasladé al punto D y medí al Norte cincuenta y ocho grados diez minutos Este dos mil varas de frente hasta el punto E, cuyas dos mil varas componen tres fracciones, la primera de setecientas cincuenta varas á la que hacen referencia las Escrituras de f. 1 y f. 28 vendida por D. Norberto Antonio y D. Pedro Antonio Martinez á D. Felipe Figueroa; la segunda de otras setecientas y cincuenta varas segun la Escritura á f. 32 vendida por D.ª Marcelina Figueroa á D. Felipe Figueroa, cuyas setecientas cincuenta varas con otras doscientas cincuenta de la fraccion vendida por los Martinez tienen su origen en la Escritura que obra á f. 11 relativa á mil varas de frente con legua y media de fondo; El resto de las dos mil varas de frente que he medido, es decir quinientas varas tienen su origen en las Escrituras que obran la primera á f. 23 de ciento sesenta y seis y dos tercias varas vendidas por D.ª Damiana Rodriguez á Doña Damiana San Martin viuda de D. Felipe Figueroa, y la segunda á f. 25 de trescientas treinta y tres y tercia varas de frente vendidas por Doña Juana Rodriguez á la sociedad titulada «Tres Herma-"
+   ],
+   "interpretacion": "N-O 1000 v al S 58° 10′ O y O-A 6000 v: primera fracción de 6.000.000 v² = 1/6 de legua² (verificado; 450 ha). D-E 2000 v al N 58° 10′ E: tres fracciones de frente (750 v de los Martínez, f. 1 y 28; 750 v de Marcelina, f. 32, que con 250 de los Martínez vienen de las 1000 v de Suero a Tomás Figueroa, f. 11; y 500 v de los Rodríguez, f. 23 y 25)."
+  },
+  {
+   "titulo": "Folio 5 · la poligonal del río de Areco y la línea E-P",
+   "img": "img/f/161/15.jpg",
+   "fuente": "IMG_0482.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: Foja 5]",
+    "nos». En seguida para deslindar el Rio de Areco medí desde E hasta F al Norte treinta y un grados cincuenta minutos Oeste cuatrocientas ochenta y una varas, habiendo ademas cincuenta varas hasta la barranca del Rio de Areco. Desde F medí hasta G al Sud sesenta y tres grados veinte minutos Oeste trescientas cuarenta y dos varas. Desde G hasta H medí al Norte cuarenta y ocho grados treinta y cuatro minutos Oeste mil varas. Desde H hasta J. medí al Norte sesenta y seis grados seis minutos Oeste doscientas veinte y cinco varas y desde J. hasta K. al Norte cuarenta y seis grados cincuenta y seis minutos Oeste mil ciento veinte y cinco varas. En cuyo punto medí una Ordenada al Rio de ciento ochenta y dos varas. En seguida medí desde K. hasta L. al Sud setenta y ocho grados cuarenta minutos Oeste quinientas varas y desde L hasta M al Norte treinta y seis grados cuarenta y cuatro minutos Oeste dos mil ochocientas varas, midiendo á las dos mil varas una ordenada de trescientas treinta varas hasta la barranca del Rio de Areco. Finalmente medí desde M hasta el punto C al Norte sesenta y cinco grados cuarenta minutos Oeste cuatrocientas cuarenta y cuatro varas. En seguida volví sobre el punto E donde terminaron las dos mil varas de frente y medí desde este punto al Sud treinta y un grados cincuenta minutos Este ocho mil trescientas varas hasta el punto P donde encontré la linea de mojones del terreno de D. Antonio Zarate. Esta linea se compone desde F hasta P de ocho mil setecientas ochenta y una varas, y quedó dentro del campo medido la poblacion de D. José Rodriguez cien varas distante de la linea y se conformó este lindero con mudarla"
+   ],
+   "interpretacion": "E-F 481 v (más 50 hasta la barranca); poligonal costera F-G-H-J-K-L-M-C (342, 1000, 225, 1125, 500, 2800 y 444 v) con ordenadas al río de 182 y 330 v. Verificado en python: la poligonal cierra en C con 3,0 v de error sobre ≈ 9900 v (1/3300). E-P 8300 v al S 31° 50′ E hasta la línea de mojones de Antonio Zárate; F-P 8781 v (481 + 8300, verificado). La población de José Rodríguez quedó 100 v dentro de la línea y él «se conformó con mudarla»."
+  },
+  {
+   "titulo": "Folio 5 vuelto · el fondo corto, la regla de Ysach y el deslinde S-T sobre el arroyo de Giles",
+   "img": "img/f/161/16.jpg",
+   "fuente": "IMG_0483.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "para su campo. Aunque el fondo de este terreno no está completo, por la dimension de la linea F.P. maxime cuando se considera, que esos terrenos han sido deslindados antiguamente, teniendo el costado lateral mas corto igual a nueve mil varas, por cuya circunstancia dice el Agrimensor Ysach en su diligencia de Mensura á f. 9 v.ta que debian principiarse á medir de abajo para arriba, se conformaron los herederos de Figueroa á respetar el amojonamiento existente de Zarate y cuadré en el punto P al Sud cincuenta y ocho grados diez minutos Oeste midiendo hasta Q quinientas varas para el frente del fondo de las dos fracciones cuyas Escrituras obran á f. 23 y f. 25 que deben deslindarse en una sola. En seguida me trasladé al punto N. y para completar el fondo de las quinientas varas que forman parte de la Escritura á f. 28 segun el antiguo deslinde medí al Sud treinta y un grados cincuenta minutos Este cuatrocientas varas hasta el punto R y en seguida al Norte cincuenta y ocho grados diez minutos Este quinientas varas hasta S. Desde S medí al Sud treinta y un grados cincuenta minutos Este cuatro mil trescientas cincuenta varas hasta T que concluyeron en la margen derecha del Arroyo de Giles y en frente de la barra de la Cañada de Suero, completando el fondo de las mil varas segun la Escritura á f. 11 y conforme á los antiguos deslindes. En seguida cuadré en el punto T al Norte cincuenta y ocho grados diez minutos Este midiendo mil varas hasta V. y finalmente al Sud treinta y un grados cincuenta minutos Este quinientas cincuenta varas hasta el punto Q donde se concluyó el deslinde de las tres"
+   ],
+   "interpretacion": "El fondo F-P no llega a las 9000 v, pero como los terrenos «han sido deslindados antiguamente» y el agrimensor Ysach escribió (f. 9 v.) que debían medirse «de abajo para arriba», los herederos aceptan respetar el amojonamiento de Zárate. P-Q 500 v; N-R 400 v; R-S 500 v; S-T 4350 v hasta la margen derecha del arroyo de Giles, frente a la barra de la cañada de Suero; T-V 1000 v; V-Q 550 v."
+  },
+  {
+   "titulo": "Folio 6 · superficie de los frentes y la fracción de cabezadas",
+   "img": "img/f/161/17.jpg",
+   "fuente": "IMG_0483.JPG (mitad derecha)",
+   "nota": "«hasta C′» va entre renglones y se salva al pie.",
+   "lineas": [
+    "[Sello: Foja 6]",
+    "fracciones mencionadas, que entre las letras C. N. R. S. T. V. Q. P. F y el Rio de Areco comprenden una superficie de diez y nueve millones seiscientas siete mil trescientas cincuenta varas cuadradas igual á cinco mil cuatrocientas cuarenta y seis diez milesimos de una legua cuadrada. En seguida para deslindar la fraccion de cabezeras vendida segun la Escritura á f. 28 por los Martinez á D. Felipe Figueroa, compuesta de mil quinientas varas de frente con seis mil de fondo, que tiene su fondo siguiendo las lineas de los fondos de las Suertes principales del Rio de Areco, me trasladé al punto O y medí al Norte treinta y un grados cincuenta minutos Oeste cuatrocientas varas hasta la linea del fondo del terreno perteneciente á la Iglesia de Areco es decir al punto X y en seguida por esa misma linea de fondo al Sud cincuenta y ocho grados diez minutos Oeste mil varas hasta el punto Y. Desde Y medí hasta Z al Norte treinta y un grados cincuenta minutos Oeste mil doscientas varas hasta la linea del fondo de los terrenos de D. José Antonio Martinez y D. Tomas Donojo, que corren á la par y en seguida medí desde Z hasta A′ al Sud cincuenta y ocho grados diez minutos Oeste tres mil quinientas varas, cuya distancia completó las seis mil varas de fondo que debe tener este terreno segun la Escritura. En seguida me trasladé al punto S. y medí al Sud treinta y un grados cincuenta minutos Este quinientas sesenta y seis y una tercia varas, hasta B′ y en seguida medí al Sud cincuenta y ocho grados diez minutos Oeste seis mil [entre renglones:] hasta C′ varas. Finalmente medí desde C′ hasta A′ al Norte treinta y un grados cincuenta minutos Oeste dos mil quinientas sesenta y seis y una tercia varas, cuya distancia completó a deslindar esta fraccion, no"
+   ],
+   "interpretacion": "Frentes: 19.607.350 v² = 0,5446 leguas² (verificado: 19.607.350/36.000.000). Cabezadas (f. 28): O-X 400 v hasta el fondo de la Iglesia de Areco; X-Y 1000; Y-Z 1200 hasta el fondo de José Antonio Martínez y Tomás Donojo; Z-A′ 3500, que completa las 6000 v de fondo; S-B′ 566 ⅓; B′-C′ 6000; C′-A′ 2566 ⅓ v."
+  },
+  {
+   "titulo": "Folio 6 vuelto · superficie total, ausentes y división",
+   "img": "img/f/161/18.jpg",
+   "fuente": "IMG_0484.JPG (mitad izquierda)",
+   "nota": "Verificado en python: con los lados que da el texto, las cabezadas miden 11.598.000 v² y la hijuela de José 13.598.000 v² (1019,8 ha), no 9 y 11 millones: sobran 2.598.000 v² = 433 × 6000 v, exactamente el sobrante que el D. T. declaró en 1872 (Ficha 062).",
+   "lineas": [
+    "exactamente segun las dimensiones de frente y fondo que mencionan los titulos pero si segun su area buscando la regularidad en cuanto era posible con consentimiento de los linderos, y comprende esta fraccion nueve millones varas cuadradas igual á un cuarto de legua, y el total del terreno medido para los herederos de D. Felipe Figueroa se compone de treinta y cuatro millones seiscientas siete mil trescientas cincuenta varas cuadradas igual á nueve mil seiscientas trece diez milesimos de legua cuadrada. A esta Operacion del deslinde general asistieron todos los linderos a excepcion de D. José Antonio Martinez y D. Guillermo Moonie, cuyos dos Señores no comparecieron por sí ni por apoderado á pesar de repetidas citaciones é invitaciones. Todos los linderos concurrentes estaban conformes con la Operacion.",
+    "En seguida procedí á la division del terreno medido segun los datos que me suministraba el Representante de los herederos de D. Felipe Figueroa, D. Laureano Bonorino, para cuyo efecto me trasladé al mojon X y medí al Norte treinta y un grados cincuenta minutos Oeste ochocientas varas hasta D′ y desde este punto hasta E′ al Norte cincuenta y ocho grados diez minutos Este mil quinientas varas, quedando señalado para el heredero D. José Figueroa la fraccion comprendida entre E′ B′ C′ A′ Z Y X D′ con una superficie de once millones varas cuadradas. En seguida medí desde E′ hasta F′ al Norte treinta y un grados cincuenta minutos Oeste mil doscientas varas y desde F′ hasta G′ al Norte cincuenta y ocho grados diez minutos Este mil quinientas varas, que-"
+   ],
+   "interpretacion": "Kuhr declara 9.000.000 v² para las cabezadas «no exactamente según las dimensiones … pero sí según su área», y 34.607.350 v² en total = 0,9613 leguas² (verificado; 2595,4 ha). Faltaron José Antonio Martínez y Guillermo Moonie «á pesar de repetidas citaciones». División según Bonorino: a José Figueroa E′-B′-C′-A′-Z-Y-X-D′ (11.000.000 v²; X-D′ 800, D′-E′ 1500 v)."
+  },
+  {
+   "titulo": "Folio 7 · hijuelas de Gregorio y Abelina; relación de linderos; nota",
+   "img": "img/f/161/19.jpg",
+   "fuente": "IMG_0484.JPG (mitad derecha)",
+   "nota": "Verificado: 11.000.000 + 11.000.000 + 12.607.350 = 34.607.350 y la mitad 17.303.675.",
+   "lineas": [
+    "[Sello: Foja 7]",
+    "dando señalados entre las letras G′ F′ T V Q P el terreno para el heredero D. Gregorio Figueroa y entre G′ F′ E′ D′ A B C Rio de Areco y F el terreno para la heredera Doña Abelina Figueroa de Duran, el primero con una superficie de once millones varas y el segundo de doce millones seiscientas siete mil trescientas cincuenta varas cuadradas, con lo que dí por concluida la Operacion.— Entrerenglones = la, vale = hasta C′, vale =",
+    "German Kuhr",
+    "Relacion de los linderos del campo de los herederos de D. Felipe Figueroa.",
+    "D. José Rodriguez asistió, Conforme.",
+    "D. J. Antonio Zarate asistió, Conforme.",
+    "D. Valentin Cufré asistió, Conforme.",
+    "D. Juan Pio Figueroa asistió en representacion de los herederos de D. Tomas Figueroa, Conforme.",
+    "D. Rosendo de Dios asistió, Conforme.",
+    "D. Juan Carnero asistió, Conforme.",
+    "D. Guillermo Moonie no firmó la circular ni asistió",
+    "D. Tomas Donojo asistió, Conforme.",
+    "D. José Antonio Martinez no firmó la circular ni asistió",
+    "D. Mariano Martinez asistió como Síndico de la Iglesia de San Antonio de Areco, Conforme.",
+    "D. Vicente Martinez asistió, Conforme.—",
+    "Kuhr",
+    "Nota: Dentro de las tres fracciones repartidas posee D.ª Damiana de San Martin diez y siete millones trescientas tres mil seiscientas setenta y cinco varas cuadradas, mitad del total del terreno, representando esta Señora los gananciales y los tres herederos D. José D. Gregorio y D.ª Abelina la succesion del Padre D. Felipe Figueroa"
+   ],
+   "interpretacion": "Gregorio: G′-F′-T-V-Q-P, 11.000.000 v² (verificado: 1500 × 7150 + 500 × 550). Abelina Figueroa de Durán: G′-F′-E′-D′-A-B-C, el río y F, 12.607.350 v² (cierra con la franja costera). Relación: asistieron conformes José Rodríguez, J. Antonio Zárate, Valentín Cufré, Juan Pío Figueroa (por los herederos de Tomás), Rosendo de Dios, Juan Carnero, Tomás Donojo, Mariano Martínez (síndico) y Vicente Martínez; no firmaron ni asistieron Moonie y José Antonio Martínez. Nota: la viuda Damiana de San Martín posee la mitad (17.303.675 v², gananciales), repartida por partes iguales en las tres hijuelas."
+  },
+  {
+   "titulo": "Folio 7 vuelto · observaciones astronómicas (11/5/1857) e informe del D. T.",
+   "img": "img/f/161/20.jpg",
+   "fuente": "IMG_0485.JPG (mitad izquierda)",
+   "nota": "La declinación del sol el 11 de mayo es boreal (≈ 18° N); el «S.» del texto es dudoso, pero la cuenta (37° 42′ + 17° 58′ = 55° 40′; 90° − 55° 40′ = 34° 20′) es correcta para el hemisferio sur.",
+   "lineas": [
+    "Mayo 11. Casa de Figueroa.",
+    "Altura observada ☉ 38° 7′ · Error de Indice + 8′",
+    "Semid. + Error + Refr. y [?] · − 25′ · 37° 42′",
+    "Decl. S. [?] · + 17° 58′",
+    "Dist. Pol. á Zenit · 55° 40′",
+    "Latitud · 34° 20′ S.",
+    "Mayo 11. ☉ [limbo] Error + 8′",
+    "8 h 2′ 30″ · Alt. 8° 35′ · Azimut. 50° 04′",
+    "8 h 4′ 30″ · 8° 48′ · 49° 49′",
+    "8 h 5′ 30″ · 9° 00′ · 49° 37′",
+    "Var. 11° 30′ N. E.",
+    "Mayo 11. Antares α Scorpii p. m.",
+    "Alturas 7° 12′ · Azim. 94° 9′",
+    "7° 17′ · 94° 4′",
+    "7° 23′ · 93° 50′",
+    "Var: 11° 32′ N. E.",
+    "Error + 8′. — Kuhr",
+    "Examinada la anterior diligencia de mensura que el agrimensor D.n German Kuhr ha practicado en los terrenos pertenecientes á los herederos de D. Felipe Figueroa, situados en el partido de San Antonio de Areco, el Departamento Topográfico nada tiene que observar al proceder facultativo que se ha empleado en dicha operacion, que por otra parte está de acuerdo con las superiores disposiciones que rigen la materia. En consecuencia, el Departamento Topográfico opina que la anterior diligencia de mensura está en el caso de ser aprobada judicialmente.—",
+    "Buenos Ayres Agosto 1.º de 1857",
+    "Salas — Pico — Jardel [?]",
+    "[Al pie, otra mano:] Bue[no] [?] 71 [?]"
+   ],
+   "interpretacion": "En la «Casa de Figueroa», el 11 de mayo: altura meridiana del sol 38° 7′, corrección − 25′, declinación 17° 58′, distancia polar al cenit 55° 40′ → latitud 34° 20′ S (verificado). Acimutes del sol a las 8 h 2-5 m (alturas 8° 35′-9° 00′): variación 11° 30′ NE; acimutes de Antares (α Scorpii) a 7° de altura: 11° 32′ NE. Error de índice + 8′. Informe del Departamento Topográfico (Buenos Aires, 1/8/1857): nada que observar; firman Salas, Pico y Jardel [?]."
+  },
+  {
+   "titulo": "Folio 8 · copia del auto de aprobación (17/8/1857)",
+   "img": "img/f/161/21.jpg",
+   "fuente": "IMG_0485.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: Foja 8]",
+    "Buenos Ayres Septiembre 3 [?]/857.",
+    "Con fha. 19 del pp.do Agosto, el Sr. Juez de 1.ª Instancia D.r Font, comunica á este Departamento el siguiente decreto —",
+    "«Buenos Ayres Agosto 17/857.— Con la conformidad del Agente fiscal, se aprueba en cuanto ha lugar por derecho, la mensura practicada por el agrimensor D.n German Kuhr del terreno propiedad de los herederos de D.n Felipe Figueroa, situado en el partido de San Antonio de Areco, y para mayor firmeza el Juzgado interpone su autoridad: en consecuencia entreguese el espediente original á el representante de los interesados, satisfechas que sean las costas causadas con arreglo á arancel, repuesto este sello, y librado el oficio que corresponde al Departamento Topográfico.— Pablo Font» —",
+    "Es Copia —",
+    "Salas"
+   ],
+   "interpretacion": "Nota del D. T. (3 [?] de septiembre de 1857) que copia el decreto comunicado por el juez Pablo Font: con la conformidad del agente fiscal se aprueba la mensura «en cuanto ha lugar por derecho» y el juzgado interpone su autoridad; se entrega el expediente original al representante, pagadas las costas, y se libra oficio al D. T. «Es copia», Salas."
+  },
+  {
+   "titulo": "Folio 9 · oficio original del juez Font (papel sellado de 1857)",
+   "img": "img/f/161/22.jpg",
+   "fuente": "IMG_0486.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: Foja 9 · Papel sellado: 3 PESOS · ESTADO DE BUENOS AYRES 1857]",
+    "[Ángulo superior izquierdo, otra mano:] [Juzg]ado civil · [Secretar]ia Font [?] · [rúbrica] · [Arriba, al centro:] Tomas F[?]",
+    "Buenos Ayres Agosto 19/857",
+    "A los Sres. del Dep.to Topográfico.—",
+    "El Juez que firma se dirije á V.V. haciendoles saber á los efectos que haya lugar, que en el espediente que D. Laureano Bonorino ha seguido ante este Juzgado sobre aprobacion de una mensura practicada en terrenos de los herederos de D. Felipe Figueroa, (de quienes es apoderado) sitos en el Partido de San Antonio de Areco, ha recaido el auto aprobatorio siguiente = «Buenos Ay.s Ag.to 17 de 1857.= Con la conformidad del Agente Fiscal, se aprueba en cuanto ha lugar por derecho, la mensura practicada por el Agrimensor D.n German Kuhr del terreno, propiedad de los herederos de D.n Felipe Figueroa, situado en el Partido de San Antonio de Areco y para mayor firmeza el Juzgado interpone su autoridad: en consecuencia entreguese el espediente o-"
+   ],
+   "interpretacion": "Oficio en papel sellado de 3 pesos del Estado de Buenos Ayres, 1857: el juez Pablo Font comunica al D. T. (19/8/1857) el auto aprobatorio del 17 de agosto en el expediente que siguió Laureano Bonorino, apoderado de los herederos. La página izquierda de la toma está en blanco."
+  },
+  {
+   "titulo": "Folio 9 vuelto · firma del juez; archivo (1857); pedido de copia de 1909",
+   "img": "img/f/161/23.jpg",
+   "fuente": "IMG_0487.JPG (mitad izquierda)",
+   "nota": "O'Donnell, que protestó en 1867 la mensura de Benedicta Figueroa de Álvarez (Ficha 043), es dueño de una parte del campo Figueroa: su sucesión necesita esta mensura en 1909.",
+   "lineas": [
+    "riginal á el representante de los interesados, satisfechas que sean las costas causadas con arreglo á arancel, repuesto este sello y librado el oficio que corresponde al departamento topográfico.» = Pablo Font.»",
+    "Dios que á V.V. m.s a.s",
+    "Pablo Font [rúbrica]",
+    "Septbre. 3/857.",
+    "Insertandose el decreto aprobatorio de la mensura á que se refiere en el duplicado respectibo, y previo acuse de recibo, archivese",
+    "Salas",
+    "Con fecha Agosto 26 de 1909. El Juez D.r Valentin Fernandez Blanco, Secretario Bauza, en autos [tachado: testamentaría] de D.n Nicolas O'Donnell y D.ña Elena Murtagh, pide copia del presente duplicado. Se remitió en la fecha.",
+    "[Sello: DEPARTAMENTO DE INGENIEROS · ARCHIVO · DE LA PROVINCIA DE BUENOS AIRES]",
+    "Setiembre 4 de 1909",
+    "J. Gorriá [?]"
+   ],
+   "interpretacion": "Firma Pablo Font. El 3/9/1857 Salas ordena insertar el decreto en el duplicado y archivar. Nota de 1909: el juez Dr. Valentín Fernández Blanco (secretario Bauza), en autos de Nicolás O'Donnell y Elena Murtagh, pide copia de este duplicado; se remite el 4/9/1909 (firma J. Gorriá [?]; sello del Departamento de Ingenieros, Archivo)."
+  },
+  {
+   "titulo": "Folio 10 · nota de 1924",
+   "img": "img/f/161/24.jpg",
+   "fuente": "IMG_0487.JPG (mitad derecha)",
+   "nota": "La misma nota de 1924 aparece en la Ficha 062.",
+   "lineas": [
+    "[Sello: Foja 10 · hoja rayada agregada]",
+    "La Plata Febrero 18 de 1924.— En la fecha informé en el expediente — Letra F — N.º 30 de 1923 — D. G. y C. «Figueroa J. J. y otra — Mensura» — Copiador 68 — folio 448.—",
+    "Leandro Cast[...] [?]"
+   ],
+   "interpretacion": "Hoja rayada agregada: La Plata, 18/2/1924, informe en el expediente F 30/1923 de la Dirección de Geodesia y Catastro «Figueroa J. J. y otra — Mensura», copiador 68, folio 448; firma Leandro Cast[…] [?]."
+  },
+  {
+   "titulo": "Plano original de Kuhr (1857)",
+   "img": "img/f/161/03.jpg",
+   "fuente": "IMG_0488.JPG",
+   "nota": "Tomas 0488 (vista general) y 0489-0494 (detalles del mismo plano, roto y con papeles pegados); se leen giradas 180°.",
+   "lineas": [
+    "Plano de los Terrenos pertenecientes á los Herederos de D. Felipe Figueroa, sitos en el Partido de San Antonio de Areco. Su area total consta de treinta y cuatro millones seiscientas siete mil tres cientas cincuenta Varas cuadradas. Mensurados judicialmente en Mayo de 1857 por: German Kuhr.",
+    "Resumen: D. José Figueroa 11000000 Varas cuad.s [color oscuro] · D. Gregorio Figueroa 11000000 · D.ª Abelina Figueroa de Duran 12607350 · Total 34607350 Varas cuad.s",
+    "Nota. Dentro de esta Superficie total posee D.ª Damiana de San Martin 17303675 Varas cuad.s repartidas á partes iguales entre las tres fracciones.",
+    "Lados rotulados: A-B N. 58° 10′ E. 1000 · B-C N. 31° 50′ O. 3075 · B-D-N S. 31° 50′ E. 3000 + 3000 · D-E N. 58° 10′ E. 2000 · E-F N. 31° 50′ O. 481 [+ 50 a la barranca] · F-G S. 63° 20′ O. 342 · G-H N. 48° 34′ O. 1000 · H-J N. 66° 6′ O. 225 · J-K N. 46° 56′ O. 1125 · K-L S. 78° 40′ O. 500 · L-M N. 36° 44′ O. 2800 · M-C N. 65° 40′ O. 444 · E-P S. 31° 50′ E. 8781 [desde F] · P-Q S. 58° 10′ O. 500 · N-R 400 · R-S N. 58° 10′ E. 500 · S-T S. 31° 50′ E. 4350 · T-V N. 58° 10′ E. 1000 · O-X 400 · X-Y S. 58° 10′ O. 1000 · Y-Z N. 31° 50′ O. 1200 · Z-A′ S. 58° 10′ O. 3500 · S-B′ 566 ⅓ · B′-C′ S. 58° 10′ O. 6000 · C′-A′ N. 31° 50′ O. 2566 · X-D′ 800 · D′-E′ 1500 · E′-F′ 1200 · F′-G′ 1500.",
+    "Linderos: D. Vicente Martinez · Iglesia de Areco · D. José Antonio Martinez · D. Tomas Donojo · D. Guillermo Moonie · D. Juan Carnero · D. Rosendo de Dios · Herederos de D. Tomas Figueroa · D. Antonio Zarate · D. José Rodriguez; en rojo, de otra mano: D. Valentin Cufré · Benedicta Figueroa de Alvarez [líneas que cruzan el arroyo de Giles; triángulo rayado entre T, V y el arroyo].",
+    "Rasgos: Rio de Areco (con ordenadas 50, 182, 330 v) · Arroyo de Giles · Arroyo de Suero (barra en T) · Arroyo de Bague [tres cauces que atraviesan el campo hacia el Rio de Areco] · ▫ Iglesia de Areco (sobre el río, fuera del campo) · casa de Duran (cerca de D) · Estancia de Figueroa (junto al arroyo de Giles, cerca de T) · Puestos de Figueroa (tres) · Puesto (cerca de G′) · Rabireau [?] (casa junto a V) · José Rodriguez (casa sobre la línea E-P) · un árbol [?] dibujado cerca del arroyo de Suero · línea del meridiano magnético (aguja) que cruza el plano en diagonal · Escala de 6000 varas con escala de transversales.",
+    "[Anotaciones posteriores en tinta y lápiz sobre el arroyo de Bague y junto a la costa del río: ilegibles en la toma.] [Rectángulos de papel coloreado pegados (fracción de José Figueroa); rotura con pérdida en el centro.]"
+   ],
+   "interpretacion": "Ver la sección de planos."
+  },
+  {
+   "titulo": "Copia heliográfica de 1947",
+   "img": "img/f/161/06.jpg",
+   "fuente": "IMG_0495.JPG",
+   "nota": "Toma girada 180°.",
+   "lineas": [
+    "[Copia heliográfica del plano anterior, con los mismos rótulos, letras y rumbos.]",
+    "Es copia del plano agregado al duplicado n.º 161 del partido San Andres de Giles mensura practicada en mayo de 1857 por el Agrimensor German Kuhr. La Plata Agosto de 1947.",
+    "[Sello:] M.O.P. · DIRECCION GEODESIA CATASTRO Y TIERRAS · [firma] · Director Interino Agrim. Nac. ISIDRO ESTIÚ · Dibujo Aida Ramos Quintana · Rev. [en blanco]",
+    "[Al pie de la escala:] Dib. A. Ramos Quintana"
+   ],
+   "interpretacion": "Ver la sección de planos."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de los terrenos pertenecientes a los herederos de D. Felipe Figueroa (Kuhr, mayo de 1857)",
+   "img": "img/f/161/03.jpg",
+   "fuente": "IMG_0488.JPG (vista general; detalles IMG_0489-0494)",
+   "orientacion": "flecha de la aguja al N arriba a la izquierda; el río de Areco arriba, el arroyo de Giles abajo a la derecha",
+   "interpretacion": "Plano original a tinta, firmado por German Kuhr, con escala de 6000 varas y escala de transversales. Una cuadrícula de rectángulos orientada N 58° 10′ E / S 31° 50′ E se apoya arriba en la poligonal del río de Areco (letras C-M-L-K-J-H-G-F) y abajo en el arroyo de Giles (T, barra de la cañada de Suero). Tres hijuelas coloreadas (José, oscura; Gregorio y Abelina, claras) según el «Resumen» y la nota sobre los 17.303.675 v² de Damiana de San Martín. El arroyo de Bague cruza el campo en tres cauces hacia el río. Dibuja la casa de Durán, la estancia de Figueroa junto al arroyo de Giles, tres puestos de Figueroa, otro puesto, la casa de José Rodríguez sobre la línea E-P, otra rotulada Rabireau [?] junto a V y, fuera del campo, un cuadradito «Iglesia de Areco» sobre la costa del río: el pueblo como referencia. Una línea recta larga cruza el plano en diagonal desde la flecha: el meridiano magnético. En rojo, de otra mano, las líneas de Valentín Cufré y Benedicta Figueroa de Álvarez cortan el arroyo de Giles y un triángulo rayado entre T, V y el arroyo marca la superposición discutida en 1867 (Ficha 043). Papeles pegados, rotura central y anotaciones posteriores en tinta y lápiz.",
+   "referencias": [
+    [
+     "A · B",
+     "Esquineros de la primera fracción (ex Vicente Martínez), A-B N 58° 10′ E 1000 v"
+    ],
+    [
+     "C",
+     "Piedra esquinera en el río de Areco, hallada enterrada a 2 v"
+    ],
+    [
+     "C-M-L-K-J-H-G-F",
+     "Poligonal costera del río de Areco (cierra con 3 v de error)"
+    ],
+    [
+     "D · N · O",
+     "Mojones sobre la línea B-N (3000 + 3000 v) y esquinero O"
+    ],
+    [
+     "E-P",
+     "S 31° 50′ E 8300 v hasta los mojones de Antonio Zárate"
+    ],
+    [
+     "P-Q · R-S · S-T · T-V · V-Q",
+     "Fondo escalonado contra Zárate y el arroyo de Giles"
+    ],
+    [
+     "T",
+     "Margen derecha del arroyo de Giles, frente a la barra de la cañada de Suero"
+    ],
+    [
+     "X-Y-Z-A′ · B′-C′",
+     "Cabezadas: escotadura de la Iglesia de Areco (1000 × 1200 v) y fondo contra J. A. Martínez y Donojo"
+    ],
+    [
+     "D′-E′ · F′-G′",
+     "Divisorias de las hijuelas (1500 v)"
+    ],
+    [
+     "José Figueroa",
+     "E′-B′-C′-A′-Z-Y-X-D′, 11.000.000 v² (13.598.000 según los lados)"
+    ],
+    [
+     "Gregorio Figueroa",
+     "G′-F′-T-V-Q-P, 11.000.000 v²"
+    ],
+    [
+     "Abelina Figueroa de Durán",
+     "G′-F′-E′-D′-A-B-C, el río y F, 12.607.350 v²"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: título, firma de Kuhr y extremo del arroyo de Giles",
+   "img": "img/f/161/04.jpg",
+   "fuente": "IMG_0489.JPG",
+   "orientacion": "girada 180°",
+   "interpretacion": "El título caligráfico con la firma «German Kuhr»; la estancia de Figueroa junto al arroyo de Giles; la barra del arroyo de Suero en T; el triángulo rayado de la superposición y las líneas rojas de Cufré y Benedicta Figueroa de Álvarez; D. Antonio Zárate al pie; la escala de varas.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: Resumen, nota de Damiana de San Martín y río de Areco",
+   "img": "img/f/161/05.jpg",
+   "fuente": "IMG_0492.JPG",
+   "orientacion": "girada 180°",
+   "interpretacion": "El cuadro de resumen con las muestras de color de cada hijuela, la nota sobre la mitad de la viuda, la «Iglesia de Areco» sobre el río, los lindes de Vicente Martínez, José Antonio Martínez, la Iglesia de Areco y Tomás Donojo, y el arroyo de Bague. Cifras a lápiz al costado de la costa.",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia heliográfica del plano (La Plata, agosto de 1947)",
+   "img": "img/f/161/06.jpg",
+   "fuente": "IMG_0495.JPG",
+   "orientacion": "girada 180°",
+   "interpretacion": "Copia fiel en papel heliográfico con la leyenda «Es copia del plano agregado al duplicado n.º 161 del partido San Andrés de Giles mensura practicada en mayo de 1857 por el Agrimensor German Kuhr», sello M.O.P. Dirección de Geodesia, Catastro y Tierras, firma del director interino agrim. nac. Isidro Estiú y dibujo de Aída Ramos Quintana. Repite todos los rótulos y permite leer lo que la rotura del original oculta (puestos de Figueroa, letras X, Y, Z, D′).",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Un campo de 2600 ha entre dos aguas: arriba la barranca del río de Areco, medida por una poligonal de siete tramos con ordenadas de 50, 182 y 330 v hasta la barranca; abajo el arroyo de Giles frente a la barra de la cañada de Suero. Lo cruza el arroyo de Bague, en tres cauces, que no menciona el texto y sí el plano. La ocupación es dispersa: la estancia de Figueroa junto al arroyo de Giles, la casa de Durán (yerno), tres puestos de Figueroa y otro puesto, la población de José Rodríguez (100 v dentro de la línea) y una casa rotulada Rabireau [?]. La piedra del río de Areco, cubierta «con tierra y vegetación, probablemente por las crecientes», es un testimonio del trabajo del río sobre los hitos. La Iglesia de Areco aparece dos veces: como dueña de tierras (la fábrica de la Iglesia, lindero del O) y como punto del pueblo, a poco más de una legua."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Circular del 9 de mayo firmada en la estancia, con tres firmas a ruego (Carnero, José Rodríguez, Zárate). Acompañan el juez de paz José Martínez, emparentado con los linderos Martínez, y Mariano Martínez como síndico de la Iglesia. Tres momentos de acuerdo: la búsqueda del mojón del río, resuelta cuando aparece la piedra y los concurrentes quedan «satisfechos»; la aceptación por los herederos del amojonamiento antiguo de Zárate aunque el fondo no llegue a las 9000 v, con la autoridad de un agrimensor anterior (Ysach); y el compromiso de José Rodríguez de mudar su población. La división entre herederos se hace «según los datos que me suministraba» el apoderado Bonorino, y las cabezadas se miden «según su área … buscando la regularidad … con consentimiento de los linderos». Moonie y José Antonio Martínez no aparecen. Aprobación rápida: D. T. el 1/8 y auto el 17/8/1857."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Brújula («un compás») con variación medida en el lugar: rumbo magnético N 46° 40′ E + 11° 30′ = N 58° 10′ E. La página de observaciones es excepcional: latitud por altura meridiana del sol (34° 20′ S), variación por tres acimutes del sol a las 8 h y por tres acimutes de Antares (α Scorpii) a 7° de altura (11° 30′ y 11° 32′ NE), con error de índice + 8′: Kuhr tenía un instrumento con limbo vertical (teodolito o sextante). Todo el campo es una cuadrícula de rectas perpendiculares que se cuadran en los vértices («cuadré en el punto»). Verificado en python: la poligonal del río cierra con 3,0 v de error; las sumas de superficies son exactas. Pero la geometría de las cabezadas no coincide con la superficie declarada (ver Tenencia)."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todo en varas y varas cuadradas, con la superficie expresada también en diez milésimos de legua cuadrada (36.000.000 v²): 6.000.000 v² = 1/6 de legua²; 19.607.350 = 0,5446; 9.000.000 = 1/4; total 34.607.350 = 0,9613 leguas². Con vara de 0,866 m: 2595,4 ha declaradas; según los lados 37.205.350 v² = 2790,2 ha. Fondos de «legua y media» (9000 v) para las suertes al río y de una legua (6000 v) para las cabezadas; fracciones de herencia de 166 ⅔ y 333 ⅓ v (tercios de 500 v)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "El campo junta cinco orígenes: las 1000 v que Teodora de Suero vendió a Tomás Figueroa en 1755 (dentro de la merced de Ruiz de Arellano), las tierras de José Bague [?] vendidas a Felipe Antonio Martínez en 1783 y pasadas a sus hijos, la media legua de Vicente Martínez (1839), la porción heredada por Marcelina Figueroa en 1810 y las tiras de 166 ⅔ v de los Rodríguez (1852-54), una comprada por la propia viuda y otra por la sociedad «Tres hermanos». La viuda Damiana San Martín conserva la mitad como gananciales, repartida en las tres hijuelas. La hijuela de José, según los lados, mide 13.598.000 v², no 11.000.000: los 2.598.000 v² de exceso (= 433 × 6000 v) son el sobrante que el D. T. discutió en 1872 (062). En 1909 la sucesión de Nicolás O'Donnell y Elena Murtagh pide copia: parte del campo pasó a O'Donnell."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "062 (Serna, 1872, viuda de José Figueroa): mide la hijuela de José con los rumbos de Kuhr; sus lados coinciden en varas con los de 1857: A′-B 2222 m = 2566 v (C′-A′), B-C 3031 m = 3500 v (Z-A′), escotadura de la Iglesia 1000 × 1200 v (X-Y-Z), F-G 1299 m = 1500 v (D′-E′), G-H′ 1876 m = 2166 v (E′-B′), A′-H′ 5171 m ≈ 6000 v (B′-C′); y su superficie de 13.598.000 v² (1019,79 ha) es exactamente la que dan los lados de Kuhr. 043 (Meyrelles, 1867): el triángulo rayado en T y las líneas rojas de Cufré y Benedicta Figueroa de Álvarez sobre este plano son la superposición que el D. T. dibujó en carmín; Cufré firma conforme en 1857. 056: el «terreno cuestionado por D. José Figueroa». 025 (Eguía 1858, Moonie), 020 y 112 (Kuhr 1856 y 1881), 011-014 (Ysach). Linderos repetidos: Rosendo de Dios, Donojo, herederos de Tomás Figueroa, Zárate, José Rodríguez."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Duplicado completo: extracto de títulos, circular, diligencia, observaciones, informe del D. T., copia del auto y oficio original del juez, más notas de 1909 y 1924, el plano original (roto, con papeles pegados) y su copia de 1947. Quedan dudosos el distrito del teniente juez de 1822 («Caguané»), la tercera firma del D. T. (Jardel), el nombre de la casa junto a V (Rabireau) y las firmas de 1909 y 1924. Preguntas: ¿la diferencia de 2.598.000 v² en las cabezadas es un error de Kuhr al calcular o una decisión de dar a José las 433 v de más? ¿Quiénes formaban la sociedad «Tres hermanos»? ¿Qué parte compró O'Donnell? La latitud observada y la piedra de C son anclas para ubicar el campo en el GIS."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "German Kuhr",
+   "rol": "Agrimensor",
+   "texto": "Mide en la zona en 1856 (Morgan, Ficha 020) y 1857 (esta), luego integra el Departamento Topográfico y el de Ingenieros (dictámenes de 1865-1881) y vuelve a medir para los Morgan en 1881 (112). Aquí deja una de las páginas de observación astronómica más completas del corpus. Sus rumbos N 58° 10′ E / S 31° 50′ E se vuelven la «cuadrícula Figueroa» que siguen Serna (062) y los planos de estudio (056). La búsqueda web no dio datos biográficos nuevos.",
+   "fuentes": "Este duplicado; fichas 020, 062, 063, 112; búsqueda web sin resultados útiles."
+  },
+  {
+   "nombre": "Felipe Figueroa; Damiana San Martín",
+   "rol": "Causante y viuda",
+   "texto": "Felipe Figueroa reunió el campo entre 1822 y 1839 por cesión de su prima Marcelina y compras a los Martínez; murió antes de 1852, cuando su viuda Damiana San Martín compra una tira a Damiana Rodríguez. En 1857 la viuda posee la mitad (17.303.675 v², ≈ 1298 ha) como gananciales.",
+   "fuentes": "Este duplicado, fs. 1-7."
+  },
+  {
+   "nombre": "José, Gregorio y Abelina Figueroa (de Durán)",
+   "rol": "Herederos",
+   "texto": "Los tres hijos reciben 11.000.000, 11.000.000 y 12.607.350 v². José es el de la «cuestión» de la 056; su viuda Livia P. de Figueroa hace remedir su hijuela en 1872 (062). Abelina estaba casada con un Durán (Durand en 062), cuya casa figura en el plano junto al mojón D.",
+   "fuentes": "Este duplicado; fichas 056 y 062."
+  },
+  {
+   "nombre": "Laureano Bonorino",
+   "rol": "Apoderado de los herederos",
+   "texto": "Representa a los herederos en la mensura, da los datos para la división y sigue el expediente de aprobación ante el juez Font. La búsqueda web no dio datos.",
+   "fuentes": "Este duplicado; búsqueda web sin resultados útiles."
+  },
+  {
+   "nombre": "Pablo Font; Salas, Pico y Jardel [?]",
+   "rol": "Juez civil y departamento topográfico",
+   "texto": "Font, juez de 1.ª instancia en lo civil (1857-58), comisiona a Kuhr el 20/4/1857 y aprueba el 17/8. Salas (probablemente Saturnino Salas, presidente del D. T.) firma el informe, la copia y el archivo; Pico y Jardel [?] completan el informe del 1/8/1857.",
+   "fuentes": "Este duplicado; METODO (jueces civiles)."
+  },
+  {
+   "nombre": "Linderos de 1857",
+   "rol": "Linderos",
+   "texto": "Vicente Martínez (O, media legua reservada); José Antonio Martínez y Tomás Donojo (fondo de las cabezadas); la Iglesia de San Antonio de Areco, por su síndico Mariano Martínez; Guillermo Moonie (ausente); Juan Carnero, Rosendo de Dios y los herederos de Tomás Figueroa, representados por Juan Pío Figueroa; Antonio Zárate (fondo, con amojonamiento antiguo); José Rodríguez; Valentín Cufré, del otro lado del arroyo de Giles. Firman a ruego Paz Martínez, José M. Romero y Manuel Santa Cruz.",
+   "fuentes": "Este duplicado; fichas 025, 043, 056, 062."
+  },
+  {
+   "nombre": "José Martínez (José V. Martínez)",
+   "rol": "Juez de paz de san antonio de areco",
+   "texto": "Juez de paz en 1839 (escritura de Marcelina Figueroa) y en 1857, cuando acompaña la mensura y firma la circular: autoridad local y pariente de los linderos Martínez.",
+   "fuentes": "Este duplicado, fs. 3 y 3 v."
+  },
+  {
+   "nombre": "Martínez, Bague, Sosa, Suero, Arellano",
+   "rol": "Antiguos dueños",
+   "texto": "José Bague [?] vende en 1783 a Felipe Antonio Martínez (escribano José García de Echaburu); sus hijos Francisco Mariano, Norberto Antonio y Pedro Antonio venden a Figueroa (1824-25, escribano Manuel Llames). José y Pedro de Sosa (1784). Teodora de Suero vende a Tomás Figueroa en 1755 (escribano Felipe Vásquez Pelayo), lindando con Andrés de Sosa y con Josepha Osorio, viuda de Joseph Ruiz de Arellano, el de la merced.",
+   "fuentes": "Este duplicado, fs. 1-3."
+  },
+  {
+   "nombre": "Rodríguez, Monsalvo, Casco",
+   "rol": "Antiguos dueños (frentes al río)",
+   "texto": "Antonio Rodríguez compró 500 v a María del Rosario Puebla, viuda de Domingo Casco; sus hijas Valeria, Juana y Damiana (esta, hija de Victoriano Antonio) las venden en tiras de 166 ⅔ v a Elías Monsalvo (1849), a Damiana San Martín (1852) y a la sociedad «Tres hermanos» (1854). Jueces de paz Tiburcio Lima y Juan Francisco Font.",
+   "fuentes": "Este duplicado, fs. 1 v.-2 v."
+  },
+  {
+   "nombre": "Francisco Ysach",
+   "rol": "Agrimensor anterior",
+   "texto": "Kuhr cita su diligencia (f. 9 v. de los títulos), según la cual estos campos debían medirse «de abajo para arriba». Ysach midió enfiteusis en la zona en 1826.",
+   "fuentes": "Este duplicado; fichas 011-014."
+  },
+  {
+   "nombre": "Nicolás O'Donnell y Elena Murtagh",
+   "rol": "Propietarios posteriores",
+   "texto": "Su sucesión pide copia del duplicado en 1909 (juez Valentín Fernández Blanco, secretario Bauza). O'Donnell había protestado la mensura de 1867 de Benedicta Figueroa de Álvarez y Valentín Cufré por superposición con este campo.",
+   "fuentes": "Nota de 1909, f. 9 v.; Ficha 043."
+  },
+  {
+   "nombre": "Leandro Cast[…] [?]; Isidro Estiú; Aída Ramos Quintana",
+   "rol": "Funcionarios de geodesia (1924, 1947)",
+   "texto": "Informe de 1924 en el expediente F 30/1923 «Figueroa J. J. y otra»; copia del plano en 1947 bajo el director interino Estiú, dibujada por Ramos Quintana.",
+   "fuentes": "Este duplicado, f. 10 y copia de 1947."
+  }
+ ],
+ "portadilla": {
+  "img": "",
+  "fuente": "transcripción · IMG_0477.JPG",
+  "lineas": [
+   "Seccion Areco [tachado: S.n Antonio de Areco; Areco; 5 (?)]",
+   "N.º 49",
+   "San Andres de Giles",
+   "— 161 —",
+   "Duplicado de mensura del terreno de propiedad de Don Felipe Figueroa en Areco por el agrimensor",
+   "German Kuhr.",
+   "13.1.9. [subrayado]"
+  ]
+ },
+ "titulo": "Herederos de Felipe Figueroa",
+ "estado": "Transcripta (20 hojas, 117 renglones), 4 láminas"
+}

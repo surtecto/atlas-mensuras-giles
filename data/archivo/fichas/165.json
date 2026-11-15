@@ -1,0 +1,443 @@
+{
+ "carpeta": "165",
+ "carpeta_nombre": "Carpeta 165",
+ "archivo": "Ficha 165 - Hillner y Sintas (1893).docx",
+ "resumen": {
+  "N.º de duplicado": "165 (Giles); a lápiz en la portadilla «4.157.5»",
+  "Propietario / solicitante": "Heraclio Hillner y Agustín Sintas",
+  "Agrimensor": "Carlos de Chapeaurouge, ingeniero",
+  "Año": "1892-1895",
+  "Fecha de la diligencia": "Mensura 29/11/1892; plano nov. 1892; D. I. 3 y 15/3/1893; aprobada 18/9/1895",
+  "Ubicación": "Giles, entre el camino de San Antonio a Luján y el arroyo del Sauce (ex Maldonado)",
+  "Orden judicial": "Juez Marcelino Escalada (Mercedes), por exhorto del juez Luis J. [?] Posse (Capital)",
+  "Vendedor / antecesor": "F. Maldonado → María Maldonado 1880 → E. Casasco → J. M. Muñiz → Hillner y Sintas 1888",
+  "Linderos citados": "Chanvillar (NO); Burdet ex Vera (NE); L. Ruiz, M. Rodríguez, Ormechea (SE); Altaparro (SO)",
+  "Medidas": "D-F 1061; F-G 1768; G-I 1455; I-D 1721,60 m (bloque Maldonado A-F 4993 m)",
+  "Rumbos": "S 47° 03′ E / N 56° E / N 47° 05′ O / S 43° 07′ O",
+  "Referencia de archivo": "AHG PBA, duplicado 165 de Giles"
+ },
+ "metricas": {
+  "superficie_ha": "216,6251 (216,5104 según el título de 1888; 216,59 calculadas)",
+  "hitos": "mojones A, B, D, F, G, I, K; esquineros y alambrados de Chanvillar",
+  "aguas": "arroyo del Sauce (en el plano, cruza F-G y D-F); otro cauce sin nombre al N"
+ },
+ "sintesis": "Mensura judicial, pedida por exhorto de un juez de la Capital en el juicio de Enrique Scherrer [?] contra Heraclio Hillner y Agustín Sintas, de 216,6 ha del extremo SE del viejo campo de Francisco Maldonado, que el mismo Chapeaurouge había dividido en 1880 (ficha 101) entre la viuda Eufemia P. de Maldonado y su hija María. María vendió 202 ha a José Chanvillar y el resto pasó en 1888, en tres ventas en ocho meses, por Casasco y Muñiz a Hillner y Sintas. Chapeaurouge rehace la línea A-F de 4993 m y halla a Chanvillar corrido 57,30 m hacia el SE; lo ubica según 1880 y Chanvillar firma salvando sus derechos. El D. I. aprueba la geometría (cierre 0,23 m) pero exige vista a dos linderos que no firmaron; la aprobación judicial llega recién en 1895.",
+ "caratula": {
+  "img": "img/f/165/01.jpg",
+  "fuente": "IMG_0537.JPG",
+  "campos": [
+   [
+    "N.º",
+    "165"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Heraclio Hillner y Agustín Sintas"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Chapeaurouge"
+   ],
+   [
+    "Año",
+    "1893"
+   ],
+   [
+    "Mes / Juzgado / Secretaría",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · encabezado y títulos (1888)",
+   "img": "img/f/165/07.jpg",
+   "fuente": "IMG_0539.JPG",
+   "nota": "Hoja suelta fotografiada acostada (rot 90). Sello «FOJA 1». Tres ventas en ocho meses de 1888: plena especulación del boom de tierras previo a la crisis de 1890. Verificado: 216,5104 ha / (129,9 m)² = 128,31 cuadras cuadradas, como dice el título. Los linderos del título no coinciden con los del plano: parecen copiados de otro deslinde.",
+   "lineas": [
+    "[Sello circular con el número de foja: 1]",
+    "Duplicado de la Diligencia de Mensura del terreno de propiedad de los Señores Hillner y Sintas.",
+    "Partido «Gilles»",
+    "Títulos.",
+    "En la Plata á 27 de Noviembre 1888 — y por ante el Escribano Dn Enrique Piñero [?], Don José M. Muñiz vende á los Señores Heraclio Hillner y Don Augustin [sic] Sintas, un terreno ubicado en el partido de Giles y compuesto de doscientos diez y seis hectareas, cincuenta y una areas, cuatro centiareas (equivalentes á 128 C. C. 31/100) lindando al NorEste con los herederos de Marcelina Monsalvo y Doña Exaltacion M. de Vera; Al SudEste, con Isidro Cucullo, Antonio Gariboto y herederos de Ormechia; — Al Noroeste con José Chanvillar y por el Sudoeste con Doña Marcelina Monsalvo. — Le correspondia al vendedor por compra hecha en 6 de Setiembre 1888, á Doña [sic] Eugenio Casasco.",
+    "Don Eugenio Casasco habia comprado esa propiedad en 21 de Marzo 1888 á Doña Maria Maldonado segun documento pasado en Mercedes ante el Escribano Esteban Dufourg. —",
+    "Mensura —. En el partido de Giles á 29 de"
+   ],
+   "interpretacion": "Duplicado de la mensura del terreno de los señores Hillner y Sintas, partido «Gilles». Títulos: La Plata, 27/11/1888, ante el escribano Enrique Piñero [?], José M. Muñiz vende a Heraclio Hillner y Agustín Sintas 216 ha 51 a 04 ca (= 128 cuadras cuadradas 31/100), lindando al NE con herederos de Marcelina Monsalvo y Exaltación M. de Vera, al SE con Isidro Cucullo, Antonio Gariboto y herederos de Ormechea, al NO con José Chanvillar y al SO con Marcelina Monsalvo. Muñiz lo había comprado el 6/9/1888 a Eugenio Casasco, y éste el 21/3/1888 a María Maldonado (escribano Esteban Dufourg, Mercedes)."
+  },
+  {
+   "titulo": "Folio 1 vuelto · comisión judicial y antecedentes",
+   "img": "img/f/165/08.jpg",
+   "fuente": "IMG_0540.JPG (mitad izquierda)",
+   "nota": "La mensura no la piden los dueños sino un juicio de la Capital contra ellos: es una mensura para ejecución o embargo. Verificado: 419,1132 − 202,4881 = 216,6251 ha. El título de 1888 dice 216,5104: 1147 m² menos.",
+   "lineas": [
+    "Noviembre de 1892, procedí á dar cumplimiento al mandato del Señor Juez de 1a Instancia Doctor Don Marcelino Escalada, por auto de 3 de octubre pasado ante el actuario Agustin J. [?] Carnet [?] á requisicion del Señor Juez de 1a Instancia de la Capital federal Doctor Don Luis J. [?] Posse, en los autos seguidos por Don Enrique Scherrer [?], contra los Señores Hillner y Sintas, por ante el actuario D. Julio Ramallo [?]. —",
+    "Citados los Señores linderos y publicados los correspondientes Edictos, procedí á efectuar la mensura del Terreno de propiedad de los Señores Hillner y Sintas como paso á esponer.",
+    "El terreno que se debia medir correspondia á Doña Maria Maldonado por herencia de su finado padre Don Francisco Maldonado segun testamento de fecha 16 setiembre 1878. y fue dividido del condominio en que estaba con Doña Eufemia P. de Maldonado por el que suscribe en Marzo de 1880. —",
+    "En aquella operacion se adjudicaron á Doña Maria Maldonado, una superficie de cuatro cientos diez y nueve hectareas once areas y treinta y dos centiareas; de la cual vendió á Don José Chanvillar una superficie de doscientos dos hectareas cuarenta y ocho areas ochenta y una centiareas; En su consecuencia debe quedar para los actuales compradores una superficie de doscientos diez y seis hectareas sesenta y dos areas cincuenta y una centiareas, y por lo tanto basándose"
+   ],
+   "interpretacion": "29/11/1892: Chapeaurouge cumple el mandato del juez de 1.ª Instancia Dr. Marcelino Escalada (auto del 3 de octubre, actuario Agustín J. [?] Carnet [?]), librado a requisición del juez de la Capital Federal Dr. Luis J. [?] Posse en los autos de Enrique Scherrer [?] contra Hillner y Sintas (actuario Julio Ramallo [?]). Citación de linderos y edictos. El terreno era de María Maldonado por herencia de su padre Francisco Maldonado (testamento del 16/9/1878) y fue dividido del condominio con Eufemia P. de Maldonado por el mismo Chapeaurouge en marzo de 1880: a María 419 ha 11 a 32 ca, de las que vendió a José Chanvillar 202 ha 48 a 81 ca; quedan 216 ha 62 a 51 ca."
+  },
+  {
+   "titulo": "Folio 2 · línea A-F y el error de Chanvillar",
+   "img": "img/f/165/09.jpg",
+   "fuente": "IMG_0540.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 2». El borde derecho de la hoja está roto (se pierden letras finales). La letra del mojón D se escribe como «II». Verificado: 2755,60 + 2237,40 = 4993; 2755,60 + 1176,40 = 3932 y 2812,90 + 1176,40 = 3989,30, como en el plano.",
+   "lineas": [
+    "[Sello circular con el número de foja: 2]",
+    "en la citada mensura me coloqué en el mojon A y al rumbo de Sud cuarenta y siete grados tres minutos Este — establecido por los mojones y alambrados existentes, medí hasta el otro esquinero F la distancia total cuatro mil — novecientos noventa y tres metros correspondiendo por lo tanto á la distancia de mi primera operacion.",
+    "En esa linea encontré el esquinero de Don José Chanvillar [y?] á los dos mil ochocientos doce metros, noventa centímetros mientras que, siendo punto divisorio con el terreno de Doña Eufemia P. Maldonado, debia encontrarse á los dos mil setecientos cincuenta cinco metros sesenta centímetros; punto donde coloqué un mojon B.",
+    "Conocido ese error en la ubicacion del terreno del Señor Chanvillar y la existencia de las verdaderas dimensiones de la totalidad resolví terminar las ubicaciones conforme á la primera operacion; En su consecuencia colocado en el mojon B. tiré la linea BF al Sud cuarenta y siete grados tres minutos Este y anoté las siguientes distancias: á los cincuenta y siete metros el esquinero del Señor Chanvillar, á los mil ciento setenta y seis metros cuarenta centímetros, coloqué el mojon D [?]. como esquinero del terreno de los Señores Hillner y Sintas, á los mil doscientos treinta tres metros setenta centímetros encontré el otro esquinero del alambrado de Chanvillar y á los dos mil dos cientos treinta siete metros cuarenta centímetros el mencionado mojon F — por este costado el terreno medido deslinda con propiedad de Don"
+   ],
+   "interpretacion": "Desde el mojón A, al rumbo S 47° 03′ E fijado por mojones y alambrados, mide hasta F 4993 m, igual que en 1880. El esquinero de Chanvillar aparece a 2812,90 m cuando debía estar a 2755,60 (divisoria con Eufemia P. Maldonado), donde coloca el mojón B. Conocido el error, ubica todo según la primera operación: sobre B-F, a 57 m el esquinero de Chanvillar, a 1176,40 m pone el mojón D (esquina de Hillner y Sintas), a 1233,70 m el otro esquinero del alambrado de Chanvillar y a 2237,40 m el mojón F. Por este costado linda con Pedro Altaparro (antes Cunningham)."
+  },
+  {
+   "titulo": "Folio 2 vuelto · lados F-G y G-K",
+   "img": "img/f/165/10.jpg",
+   "fuente": "IMG_0541.JPG (mitad izquierda)",
+   "nota": "Las distancias de G-K deberían crecer: «dos mil trescientos cincuenta y ocho» antes de 1397,70 es probable error de copia (¿358,10?) o una cota tomada desde otro origen. Rumbo de G-K enmendado («Oeste»). Melitón «Meleton».",
+   "lineas": [
+    "Pedro Altaparro (antes Cunningham). —",
+    "Linea F.G. Costado SudEste, al Norte cincuenta y seis grados Este y medí; á los doscientos diez y nueve metros sesenta centímetros, hallé un mojon. á los mil cuarenta y ocho metros, sesenta centímetros otro mojon, á los mil trescientos setenta un metros cincuenta centímetros, y á los mil setecientos sesenta y ocho metros, encontré el esquinero G deslindando con los Señores Lorenzo Ruiz, Meleton [sic] Rodriguez y la testamentaría de Ormechea. —",
+    "Linea G.K. (Costado NorEste) al Norte cuarenta siete grados cinco minutos Oeste [enmendado] encontré los siguientes mojones uno á los dos mil [sic] trescientos cincuenta y ocho metros diez centímetros, á los mil trescientos noventa y siete metros, setenta centímetros, el alambrado del Señor Chanvillar, á los mil cuatrocientos cincuenta cinco metros, coloqué el esquinero I del terreno que medía, á los dos mil quinientos setenta cuatro metros diez centímetros encontré el alambrado de Chanvillar y á los dos mil seiscientos treinta uno metros cuarenta centímetros coloqué el otro mojon K. que corresponde á la linea divisoria entre la fraccion de Doña Eufemia P. de Maldonado y lo que fué de Doña Maria Maldonado; deslinda por este costado con don José Burdet [?] (antes Vera) y Don José Chanvillar. —",
+    "Linea K.B., Costado NorOeste al Sud cuarenta y tres grados siete minutos Oeste con mil setecientos veinte"
+   ],
+   "interpretacion": "F-G (SE) N 56° E: mojones a 219,60, 1048,60 y 1371,50 m; esquinero G a 1768 m; linda con Lorenzo Ruiz, Melitón Rodríguez y la testamentaría de Ormechea. G-K (NE) N 47° 05′ O: un mojón a «dos mil» [sic] 358,10 m, alambrado de Chanvillar a 1397,70, esquinero I a 1455 m, alambrado de Chanvillar a 2574,10 y mojón K a 2631,40 (divisoria entre Eufemia P. de Maldonado y lo que fue de María); linda con José Burdet [?] (antes Vera) y José Chanvillar. K-B (NO) S 43° 07′ O 1721 m…"
+  },
+  {
+   "titulo": "Folio 3 · lado I-D, superficie, conformidad y firma",
+   "img": "img/f/165/11.jpg",
+   "fuente": "IMG_0541.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 3». Al pie, la gran «S» con que empieza el «Señor Juez» de la vista del D. I. Verificado en python: D-F 1061, F-G N 56° E 1768, G-I N 47° 05′ O 1455, I-D S 43° 07′ O 1721,60 cierra a 0,23 m y da 216,59 ha (texto 216,6251). Con N 56° 30′ E el error sube a 15,7 m: el «y medí» del texto no es «y medio».",
+   "lineas": [
+    "[Sello circular con el número de foja: 3]",
+    "y uno metros deslindando con doña Eufemia P. de Maldonado, en seguida se trazó la linea I.D. costado Noroeste del terreno que medía al Norte cuarenta y tres grados siete minutos Este con una longitud de mil siete cientos veinte y uno metros sesenta centímetros.",
+    "Queda pues constatado que el terreno del Señor Chanvillar se ha ubicado cincuenta siete metros treinta centímetros dentro del terreno que le quedaba á la vendedora Doña Maria Maldonado.",
+    "La Superficie encerrada en el perímetro D.I.F.G. es de dos cientos diez y seis hectareas sesenta y dos areas cincuenta y una centiareas.",
+    "El Señor Chanvillar formó el acta de conformidad como linderos por el costado Noroeste dejando á salvo sus derechos para reclamar de su mala ubicacion. —",
+    "Firmaron la citacion y acta de conformidad. Don Pedro Altaparo, José Burdet, por Lorenzo Ruiz Don José Lorenzo [?], y Don Julio Suffert [?] por Doña Eufemia P. de Maldonado.",
+    "C. de Chapeaurouge [rúbrica]",
+    "[Sello oval: Departamento de Ingenieros de la Provincia. Entrada Mar 3 1893]",
+    "[Al pie, gran rúbrica a pluma, de otra mano]"
+   ],
+   "interpretacion": "K-B 1721 m contra Eufemia P. de Maldonado. I-D (NO del lote) N 43° 07′ E 1721,60 m. Chanvillar quedó ubicado 57,30 m dentro de lo que le quedaba a María Maldonado. Superficie D-I-F-G: 216 ha 62 a 51 ca. Chanvillar firma el acta de conformidad como lindero NO, salvando su derecho a reclamar por su mala ubicación. Firmaron la citación y el acta Pedro Altaparo, José Burdet, por Lorenzo Ruiz José Lorenzo [?], y Julio Suffert [?] por Eufemia P. de Maldonado. Firma «C. de Chapeaurouge». Sello del Departamento de Ingenieros: entrada 3/3/1893."
+  },
+  {
+   "titulo": "Folio 3 vuelto · vista del Departamento de Ingenieros (15/3/1893)",
+   "img": "img/f/165/12.jpg",
+   "fuente": "IMG_0542.JPG (mitad izquierda)",
+   "nota": "El D. I. controla la circular firma por firma: un firmante «que no es lindero» (P. Murillo) no vale sin poder declarado.",
+   "lineas": [
+    "[Se]ñor Juez",
+    "La mensura practicada por el ingeniero Chapeaurouge de un terreno de propiedad de los Sres Heraclio Hillner y Agustin Sintas situado en el partido de San Andrés de Giles está bien ejecutada en su parte geométrica y conforme con sus antecedentes por lo cual puede ser aprobada por V. S., pero es conveniente antes de hacerlo dar vista de la mensura á los linderos Meliton Rodriguez y Testamentaria de Ormechea que no han firmado la circular de citacion y acta de conformidad.",
+    "Al pié de la circular aparece la firma de un P. Murillo que no es lindero y que el Ingeniero Chapeaurouge no manifiesta si lo ha hecho en representacion de alguno de los dos linderos que no han cumplido ese requisito.",
+    "Marzo 15/893",
+    "Julio C. Serna — Ad. Laschuabz [?] [rúbricas]",
+    "Cárlos M. Albarracin",
+    "Benjamin Sal",
+    "Julian Romero",
+    "[Sello oval del Departamento de Ingenieros, apenas visible]"
+   ],
+   "interpretacion": "«Señor Juez: La mensura practicada por el ingeniero Chapeaurouge … está bien ejecutada en su parte geométrica y conforme con sus antecedentes por lo cual puede ser aprobada por V. S., pero es conveniente antes de hacerlo dar vista de la mensura á los linderos Melitón Rodríguez y Testamentaría de Ormechea que no han firmado la circular de citación y acta de conformidad. Al pié de la circular aparece la firma de un P. Murillo que no es lindero y que el Ingeniero Chapeaurouge no manifiesta si lo ha hecho en representación de alguno de los dos linderos». Firmas: Julio C. Serna, Ad. Laschuabz [?], Carlos M. Albarracín, Benjamín Sal, Julián Romero."
+  },
+  {
+   "titulo": "Folio 4 · oficio del juzgado de Mercedes (20/9/1895)",
+   "img": "img/f/165/13.jpg",
+   "fuente": "IMG_0542.JPG (mitad derecha)",
+   "nota": "A lápiz «5.271.59». Sello marginal cortado «…EL AGUILA … ANO», del escribano Rafael del Águila. La aprobación llega dos años y medio después de la vista del D. I.: el expediente quedó parado en la vista a Rodríguez y Ormechea.",
+   "lineas": [
+    "[A lápiz, arriba: 5.271.59.] [Sello circular con el número de foja: 4 [?]] [Papel sellado: Ley de Sellos 1895, Provincia de Buenos Aires, $ 0,50, n.º 285871]",
+    "[En el margen izquierdo, a pluma: (San Andrés) de Giles — (1)65]",
+    "Mercedes, Setiembre 20, de 1895",
+    "Al Señor Presidente del Departamento de Ingenieros de la Provincia «La Plata».",
+    "En el juicio seguido por Don Heraclio Hillner y otros sobre mensura, dirijo á VS. el presente, haciéndole saber que con fecha 18 de Setiembre del corriente año ha sido aprobada por este Juzgado, la operacion de mensura practicada en estos autos por el Ingeniero Don Carlos Chapeaurrouge de una fraccion de terreno de propiedad de los Señores Heraclio Hillner y Don Agustin Sintas, situada en el partido de San Andres de Giles, cuya operacion fué presentada",
+    "[Sello marginal, cortado: «…(D)EL AGUILA … (ESCRIB)ANO» [?]]"
+   ],
+   "interpretacion": "Papel sellado de 1895 ($ 0,50, n.º 285871). Mercedes, 20/9/1895, al presidente del Departamento de Ingenieros: en el juicio seguido por Heraclio Hillner y otros sobre mensura, el juzgado aprobó el 18/9/1895 la operación del ingeniero Carlos Chapeaurrouge en la fracción de Hillner y Sintas…"
+  },
+  {
+   "titulo": "Folio 4 vuelto · firma del oficio y agregación",
+   "img": "img/f/165/14.jpg",
+   "fuente": "IMG_0543.JPG (mitad izquierda)",
+   "nota": "Ezquer [?] firma como juez y Del Águila como secretario o escribano actuario. A la derecha, el plano plegado (f. 5).",
+   "lineas": [
+    "por el Ingeniero Chapeaurrouge á ese Departamento con fecha 3 de Marzo de 1.893. —",
+    "Dios guarde á VS. —",
+    "Angel Mª Ezquer [?] [rúbrica]",
+    "Rafael del Aguila [rúbrica]",
+    "Sr [?]",
+    "[Sello oval: Departamento de Ingenieros de la Provincia. Entrada 24 Setl 95 [precedido de un «1» o signo]]",
+    "Sbre 24/95.",
+    "Agréguese al duplicado correspondiente.",
+    "Romero [rúbrica]"
+   ],
+   "interpretacion": "…presentada al Departamento el 3/3/1893. «Dios guarde á VS.» Firmas Ángel M.ª Ezquer [?] y Rafael del Águila. Sello del D. I.: entrada 24/9/1895. «Sbre 24/95. Agréguese al duplicado correspondiente. Romero»."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de mensura (Chapeaurouge, noviembre de 1892), f. 5",
+   "img": "img/f/165/03.jpg",
+   "fuente": "IMG_0544.JPG",
+   "orientacion": "dos flechas de aguja en diagonal (arriba a la izquierda y abajo al centro); el lado A-F (S 47° 03′ E) abajo, el G-K arriba",
+   "interpretacion": "Plano en tela, enmarcado, que repite el rectángulo de 1880 (ficha 101) con sus tres fracciones: a la izquierda «Eufemia P. de Maldonado, Superficie 474 h 96 a 61 c»; al centro «José Chanvillar, Sup. 202 h 48 a 81 c», bordeado de rosa y con una línea de trazos interior que marca su alambrado corrido; a la derecha, coloreado en rosa, «Heraclio Hillner y Agustín Sintas, Sup. 216 h 62 a 51 c», con un pequeño signo punteado en el centro (¿población o montecito?). Linderos: Arnulfo Tisseira (O), Federico Lacroze, Domingo Bargas, Pedro Altaparro y Testamentaría de Ormechea (abajo, SO), Lorenzo Ruiz y Melitón Rodríguez (derecha, SE), José Chanvillar y José Burdet (arriba, NE), con las divisiones de las chacras del N. El «Camino de Giles á la Capilla» (punteado) cruza A-B entre 1212 y 1229 m; el «Camino de San Antonio á Luján» (doble trazo) corta en diagonal la fracción de Eufemia y sale por B (2222,6-2349,4 m). El «Arroyo del Sauce» entra por F-G (cotas 703 [?] y 721 [?]) y sale por D-F; otro cauce sin nombre bordea el lado N. Cruces a lápiz rojo en cada fracción. Escala gráfica de 1000 m (1000-0-2000 metros). Firma «Partido de Giles, Noviembre 1892, Chapeaurouge». Sello de foja 5; a lápiz al margen «1721», «1321» [?].",
+   "referencias": [
+    [
+     "A",
+     "Mojón de 1880, esquina de Eufemia P. de Maldonado y Tisseira; origen (0)"
+    ],
+    [
+     "A-F",
+     "S 47° 03′ E 4993 m, igual que en 1880"
+    ],
+    [
+     "B",
+     "Mojón a 2755,6 m: divisoria Eufemia / Chanvillar según 1880"
+    ],
+    [
+     "C",
+     "Esquinero de Chanvillar hallado a 2812,9 m (57,3 m corrido)"
+    ],
+    [
+     "D",
+     "Mojón a 3932 m (1176,4 de B): esquina de Hillner y Sintas"
+    ],
+    [
+     "E",
+     "Otro esquinero de Chanvillar a 3989,3 m"
+    ],
+    [
+     "F",
+     "4993 m; esquina con Altaparro y Ormechea"
+    ],
+    [
+     "F-G",
+     "N 56° E 1768 m; mojones a 219,6, 1048,6 y 1371,5; arroyo del Sauce"
+    ],
+    [
+     "G-I",
+     "N 47° 05′ O 1455 m; Lorenzo Ruiz en G"
+    ],
+    [
+     "H · J",
+     "Alambrado de Chanvillar sobre G-K (1397,7 y 2574,1 m)"
+    ],
+    [
+     "I",
+     "Esquinero de Hillner y Sintas a 1455 m de G"
+    ],
+    [
+     "K",
+     "Mojón a 2631,4 m de G: divisoria Eufemia / María de 1880"
+    ],
+    [
+     "K-B · I-D",
+     "S 43° 07′ O 1721 m / N 43° 07′ E 1721,6 m"
+    ],
+    [
+     "Escala",
+     "1000 m; divisiones de 100"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle O: la fracción de Eufemia P. de Maldonado y los caminos",
+   "img": "img/f/165/04.jpg",
+   "fuente": "IMG_0545.JPG",
+   "orientacion": "como el plano general",
+   "interpretacion": "Se leen «A 0», «2755,6 / S 47° 03′ E», «S 42° 47′ O» en el lado de Tisseira, «S 43° 07′ O 1721 m» en K-B, las cotas 1212 / 1229 del camino a la Capilla y 2222,6 / 2349,4 del camino de San Antonio a Luján, B, C, 57,3, 2755,6, 2812,9 y K-J con 2631,4. Linderos Arnulfo Tisseira, Federico Lacroze y Domingo Bargas.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle E: Chanvillar y la fracción de Hillner y Sintas",
+   "img": "img/f/165/05.jpg",
+   "fuente": "IMG_0546.JPG",
+   "orientacion": "como el plano general",
+   "interpretacion": "Las dos fracciones rosadas con sus líneas de trazos (los alambrados corridos de Chanvillar), las cotas 1176,4, 1721,6, 1455, 1061, 1768, 3932, 3989,3, 2237,4 y 4993, «N 47° 05′ O 2631,4» arriba, «N 56° E» con 219,6, 1048,6 y 1371,5 en F-G, y el «Arroyo del Sauce» que corta el ángulo F. Linderos Lorenzo Ruiz, Melitón Rodríguez, Pedro Altaparro, Testamentaría de Ormechea. Fecha y firma.",
+   "referencias": []
+  },
+  {
+   "titulo": "El plano plegado dentro del cuaderno",
+   "img": "img/f/165/06.jpg",
+   "fuente": "IMG_0543.JPG (mitad derecha)",
+   "orientacion": "plegado",
+   "interpretacion": "Toma del plano doblado sobre la f. 4 vta., con el sello de foja 5 arriba; se ven Chanvillar, Lorenzo Ruiz, Melitón Rodríguez, Altaparro y la firma.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Un campo ya parcelado y alambrado en fracciones rectangulares de 200 a 475 ha, herencia del rectángulo de Francisco Maldonado (2000 v × 1 legua, ficha 009 y 101). Lo cruzan dos caminos regionales: el de Giles a la Capilla (del Señor) y el de San Antonio (de Areco) a Luján, que pasa en diagonal por la fracción de Eufemia. El arroyo del Sauce corta el ángulo SE de la fracción medida, entrando por F-G y saliendo por D-F, y otro cauce sin nombre corre por el lado NE. El texto no menciona ni el arroyo ni casas: sólo mojones y alambrados; el plano marca un pequeño signo punteado en el centro del lote (¿población o monte?)."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "La mensura no la piden los dueños sino un juez de la Capital (exhorto a Mercedes) en el juicio de Enrique Scherrer [?] contra Hillner y Sintas: el agrimensor actúa como auxiliar de una ejecución. Citación por circular y edictos. Chanvillar, cuyo alambrado está 57,30 m corrido, firma el acta de conformidad pero deja a salvo su derecho a reclamar: conformidad con reserva, figura nueva en el corpus. Firman por otros José Burdet [?] y José Lorenzo [?] (por Lorenzo Ruiz) y Julio Suffert [?] por Eufemia; aparece además un «P. Murillo» que no es lindero. El D. I. no acepta esa firma sin poder y exige dar vista a Melitón Rodríguez y a la testamentaría de Ormechea; el expediente queda detenido dos años y medio hasta la aprobación del 18/9/1895."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Chapeaurouge mide de nuevo su propia línea de 1880: A-F da otra vez 4993 m exactos, y por eso decide ubicar todo «conforme á la primera operación» y no según los alambrados. Rumbos al minuto, distancias al centímetro; no declara variación magnética ni instrumento. Verificado en python: D-F 1061, F-G N 56° E 1768, G-I N 47° 05′ O 1455, I-D S 43° 07′ O 1721,60 cierra a 0,23 m y encierra 216,59 ha (declarado 216,6251). Los rumbos del bloque no son ortogonales: 47° 03′ / 43° 07′ forman 90° 04′ en B, y 47° 05′ en el lado opuesto. Las cotas del texto y del plano coinciden (2755,6 + 1176,4 = 3932; 2812,9 + 1176,4 = 3989,3; 2755,6 + 2237,4 = 4993). Única anomalía: la primera cota de G-K («dos mil trescientos cincuenta y ocho») no encaja en la serie creciente."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todo métrico. El título de 1888 da 216 ha 51 a 04 ca «equivalentes á 128 C. C. 31/100», es decir cuadras cuadradas de 150 v (16.874 m²): verificado, 216,5104 ha = 128,31 c². La mensura halla 216,6251 ha, 1147 m² más que el título, exactamente la resta 419,1132 − 202,4881 de la división de 1880 y la venta a Chanvillar. Chanvillar: 1176,4 × 1721,6 m ≈ 202,53 ha (declarado 202,4881). Eufemia: 2755,6 × 1721 ≈ 474,4 ha (declarado 474,9661). Suma de las tres fracciones = 894,0793 ha, la superficie de 101."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Pedro Miguel Figueroa → Manuel Sosa 1840 → Francisco Maldonado 1851 (009) → testamento del 16/9/1878 → división del condominio por Chapeaurouge en marzo de 1880 (101): la viuda Eufemia Peñalva de Maldonado 474,97 ha (O) y la hija María Maldonado 419,11 ha (E) → María vende 202,49 ha a José Chanvillar (centro) → vende el resto el 21/3/1888 a Eugenio Casasco (escribano Dufourg, Mercedes) → Casasco a José M. Muñiz el 6/9/1888 → Muñiz a Heraclio Hillner y Agustín Sintas el 27/11/1888 (La Plata, escribano Piñero [?]) → juicio de Scherrer [?] en la Capital y mensura de 1892. Tres ventas en ocho meses de 1888, en pleno auge especulativo, y un juicio contra los compradores después de la crisis de 1890: la tierra de Giles circula como mercancía financiera."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "101 (herederos de Francisco Maldonado, Chapeaurouge 1880): el mismo rectángulo (N 47° 5′ O 5397, S 42° 47′ O 1720,7, S 47° 3′ E 4993, N 56° E 1768 con el arroyo del Sauce a 715 m); 165 es su continuación doce años después, por el mismo agrimensor, y la fracción de María es la oriental. 009 (Francisco Maldonado 1856, Schuster): origen del campo. 088 (Juan Cunningham 1878, «La Paloma»): el lindero SO «Pedro Altaparro (antes Cunningham)» es parte de esa estancia; Arnulfo Tisseira (O) aparece también en el entorno de 088 y 042. 163 (Moreyra / Ormaechea 1892): tiene como linderos NO a «Altaparro y ex Maldonado»; la testamentaría de Ormechea es lindera SE aquí. 121 y 147 (Melitón Rodríguez): faja sobre el arroyo del Sauce; lindero SE. 149 (testamentaría de Marcelina Monsalvo 1887, Dillon): cita a José «Chamillard» y a Eufemia P. de Maldonado como linderos, lo que explica a Marcelina Monsalvo en los linderos del título de 1888. 160 (Ormaechea-Reyes 1891): Eufemia Peñalva cede 8,1954 ha. La firma del D. I. (Serna, Albarracín, Sal, Romero) es la de 158-164."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Texto completo fs. 1-4 vta. y plano f. 5 (tres tomas + plegado). No se fotografió la circular de citación ni el auto de aprobación (sólo el oficio que lo comunica). Dudosas: escribano Enrique Piñero [?], actuario Agustín J. [?] Carnet [?], juez Luis J. [?] Posse, demandante Enrique Scherrer [?], actuario Julio Ramallo [?], José Burdet [?], José Lorenzo [?], Julio Suffert [?], Ad. Laschuabz [?] del D. I., juez Ángel M.ª Ezquer [?]; la primera cota de G-K (2358,10). Preguntas: ¿qué reclamaba Scherrer (deuda hipotecaria, precio impago)? ¿Reclamó Chanvillar los 57,30 m? ¿El signo punteado del plano es una población? ¿Los linderos del título de 1888 (Cucullo, Garibotto, Monsalvo) describen esta tierra o fueron copiados de otro deslinde?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Heraclio Hillner",
+   "rol": "Copropietario, demandado",
+   "texto": "Comprador en 1888, con Agustín Sintas, de 216,51 ha del ex campo Maldonado; en 1892 es demandado en la Capital por Enrique Scherrer [?] y figura después como actor del «juicio seguido por Don Heraclio Hillner y otros sobre mensura». Apellido de origen germánico; no se hallaron otros datos.",
+   "fuentes": "Este duplicado; búsqueda web 15/11/2026 sin resultados."
+  },
+  {
+   "nombre": "Agustín Sintas",
+   "rol": "Copropietario",
+   "texto": "Socio de Hillner en la compra de 1888 («Augustin» en el título).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Carlos de Chapeaurouge",
+   "rol": "Ingeniero agrimensor",
+   "texto": "Agrimensor e ingeniero de larga actuación en la provincia; delineó el trazado de Mar del Plata y es autor de planos catastrales de la provincia y del Atlas del plano catastral de la República Argentina (1901). En Giles ya había medido y dividido el campo Maldonado en 1880 (101) y protestó por Del Sar en 021. Aquí vuelve sobre su propia mensura y la hace prevalecer sobre los alambrados.",
+   "fuentes": "Este duplicado; fichas 021, 101; La Capital de Mar del Plata, «Carlos Chaperouge, el agrimensor que delineó las calles…»; RIDAA-UNQ, «El país en un libro: parcelas, mensuras y territorio en catastros tempranos en la Argentina» (búsqueda web 15/11/2026)."
+  },
+  {
+   "nombre": "Francisco Maldonado y Eufemia Peñalva de Maldonado",
+   "rol": "Antiguo dueño y su viuda",
+   "texto": "Francisco compró el campo en 1851 (009) y testó el 16/9/1878. Su viuda Eufemia (la «P.» es Peñalva, según 101 y 160) recibió en 1880 la fracción O de 474,97 ha; sigue siendo lindera en 1892 y firma por ella Julio Suffert [?].",
+   "fuentes": "Este duplicado; fichas 009, 101, 149, 160."
+  },
+  {
+   "nombre": "María Maldonado",
+   "rol": "Heredera, vendedora",
+   "texto": "Hija de Francisco; recibió 419,11 ha en 1880, vendió 202,49 ha a Chanvillar y el resto en marzo de 1888 a Eugenio Casasco.",
+   "fuentes": "Este duplicado; ficha 101."
+  },
+  {
+   "nombre": "José Chanvillar",
+   "rol": "Lindero no y ne",
+   "texto": "Compró a María Maldonado 202,49 ha (fracción central) y tiene además chacras al N. Su alambrado quedó corrido 57,30 m al SE; firma conformidad reservándose el reclamo. En 149 aparece como «José Chamillard». Apellido francés (¿Chanvillard?).",
+   "fuentes": "Este duplicado; ficha 149."
+  },
+  {
+   "nombre": "Eugenio Casasco y José M. Muñiz",
+   "rol": "Intermediarios de 1888",
+   "texto": "Casasco compró a María Maldonado el 21/3/1888 y vendió a Muñiz el 6/9/1888; Muñiz vendió a Hillner y Sintas el 27/11/1888 en La Plata. Un José María Muñiz fue agrimensor en Giles en las décadas de 1860-1880 (034, 048, 050, 122): coincidencia de nombre no confirmada.",
+   "fuentes": "Este duplicado; fichas 034, 048, 050, 122."
+  },
+  {
+   "nombre": "Enrique Scherrer [?]",
+   "rol": "Demandante",
+   "texto": "Promovió en la Capital Federal juicio contra Hillner y Sintas, del que deriva la mensura.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Marcelino Escalada",
+   "rol": "Juez de 1.ª instancia (mercedes, 1892)",
+   "texto": "Ordenó la mensura por auto del 3/10/1892, a requisición del juez de la Capital, actuario Agustín J. [?] Carnet [?].",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Luis J. [?] Posse y Julio Ramallo [?]",
+   "rol": "Juez de la capital federal y actuario",
+   "texto": "Libraron el exhorto en los autos de Scherrer contra Hillner y Sintas.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Ángel M.ª Ezquer [?] y Rafael del Águila",
+   "rol": "Juez y escribano actuario (mercedes, 1895)",
+   "texto": "Comunican al D. I. la aprobación del 18/9/1895; el sello marginal del escribano («…EL AGUILA … ANO») identifica a Del Águila.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Esteban Dufourg y Enrique Piñero [?]",
+   "rol": "Escribanos",
+   "texto": "Dufourg, en Mercedes, autorizó la venta Maldonado-Casasco (1888); Piñero [?], en La Plata, la venta Muñiz-Hillner y Sintas.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Pedro Altaparro (Altaparo)",
+   "rol": "Lindero so",
+   "texto": "Sucesor de Juan Cunningham en la estancia «La Paloma» al SO; firma la circular. Lindero también de 163.",
+   "fuentes": "Este duplicado; fichas 088, 163."
+  },
+  {
+   "nombre": "Lorenzo Ruiz y José Lorenzo [?]",
+   "rol": "Lindero se y su firmante",
+   "texto": "Lindero en G; firma por él José Lorenzo [?].",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Melitón Rodríguez",
+   "rol": "Lindero se",
+   "texto": "Dueño de la faja sobre el arroyo del Sauce (121, 147); no firmó la circular y el D. I. pidió darle vista.",
+   "fuentes": "Este duplicado; fichas 121, 147."
+  },
+  {
+   "nombre": "Testamentaría de Ormechea (Ormaechea)",
+   "rol": "Lindero se",
+   "texto": "La sucesión de Juan Ormaechea y Victoria Reyes (036, 160, 163); no firmó la circular.",
+   "fuentes": "Este duplicado; fichas 036, 160, 163."
+  },
+  {
+   "nombre": "José Burdet [?] y Exaltación M. de Vera",
+   "rol": "Lindero ne",
+   "texto": "Burdet ocupa lo que fue de Vera; en el título de 1888 la lindera es Exaltación M. de Vera. Firma la circular.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Arnulfo Tisseira, Federico Lacroze, Domingo Bargas",
+   "rol": "Linderos del bloque (sólo en el plano)",
+   "texto": "Tisseira al O de la fracción de Eufemia (puesto de Arnulfo Tiseira en 042); Lacroze y Bargas al SO del bloque, sobre la tierra ex Cunningham. Federico Lacroze es probablemente el empresario del Tramway Rural (identificación no confirmada).",
+   "fuentes": "Plano de este duplicado; fichas 042, 088."
+  },
+  {
+   "nombre": "Marcelina Monsalvo, Isidro Cucullo, Antonio Gariboto",
+   "rol": "Linderos del título de 1888",
+   "texto": "Citados en la escritura de 1888 pero ausentes del plano de 1892: Monsalvo (149), Cucullo (033, 040) y Garibotto (pulpería de 121).",
+   "fuentes": "Este duplicado; fichas 033, 040, 121, 149."
+  },
+  {
+   "nombre": "P. Murillo y Julio Suffert [?]",
+   "rol": "Firmantes de la circular",
+   "texto": "Murillo firmó sin ser lindero ni declarar representación; Suffert [?] firmó por Eufemia P. de Maldonado.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Julio C. Serna, Carlos M. Albarracín, Benjamín Sal, Julián Romero, Ad. Laschuabz [?]",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firman la vista del 15/3/1893; Romero ordena en 1895 agregar el oficio al duplicado. Los mismos nombres en las vistas de 1890-1892 (158-164).",
+   "fuentes": "Este duplicado; fichas 158, 160, 163, 164."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/165/02.jpg",
+  "fuente": "IMG_0538.JPG",
+  "lineas": [
+   "San Andres de Giles nº 165",
+   "Partido de Giles",
+   "Duplicado de la diligencia de mensura del terreno de Dn Heraclio Hillner y Dn Agustin Sintas",
+   "Ingeniero Chapeaurouge 1893",
+   "[a lápiz:] 4. 157. 5."
+  ]
+ },
+ "titulo": "Heraclio Hillner y Agustín Sintas",
+ "estado": "Transcripta (8 hojas, 52 renglones), 4 láminas"
+}

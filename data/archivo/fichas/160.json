@@ -1,0 +1,657 @@
+{
+ "carpeta": "160",
+ "carpeta_nombre": "Carpeta 160",
+ "archivo": "Ficha 160 - Sucesión Juan Ormaechea (1891).docx",
+ "resumen": {
+  "N.º de duplicado": "160 (San Andrés de Giles)",
+  "Propietario / solicitante": "Sucesión Juan Ormaechea y Victoria Reyes",
+  "Agrimensor": "Luis G. Klappenbach",
+  "Año": "1891",
+  "Fecha de la diligencia": "Inicio 26/5/1891; firma La Plata 15/7/1891; D. I. 21/7/1891",
+  "Ubicación": "Entre el arroyo del Sauce y la Cañada de la Cruz; F. C. Central y tranvía",
+  "Orden judicial": "Juez Civil Dr. Ignacio M. Gómez (La Plata), sec. César [?] Langenheim; 9/5/1891",
+  "Vendedor / antecesor": "Pedro Díaz de Vivar a Juan de Ormachea, 24/9/1804 (merced Bergara 1735)",
+  "Linderos citados": "M. Rodríguez, Garibotte, Frías, Cano, E. Rodríguez, Lezano, Risso, Torres, Lizola",
+  "Medidas": "A-B 6619; B-C 419,20; C-D 281,70; D-E 540; E-F 6883; F-A 992,40 m",
+  "Rumbos": "N 31° 09′ O (NE); S 31° 29′ E (SO); N 58° 31′ E (divisorias); var. 11° 08′ NE",
+  "Referencia de archivo": "AHG PBA, duplicado 160; antecedentes Ficha 036 (Gonnet 1866) y dup. 121"
+ },
+ "metricas": {
+  "superficie_ha": "688,4184",
+  "hitos": "mojones de palo de Gonnet; puerta; alambrados del tranvía y del ferrocarril; mojón de piedra (1866)",
+  "aguas": "arroyo del Sauce, Cañada de la Cruz y dos arroyitos"
+ },
+ "sintesis": "Mensura y división de las «cabezadas» que Pedro Díaz de Vivar vendió en 1804 a Juan de Ormaechea, entre el arroyo del Sauce y la Cañada de la Cruz, ya medidas por Gonnet en 1866 (Ficha 036). Klappenbach parte del mojón de Gonnet y mide un hexágono de 688,42 ha, cruzado por los caminos viejo y nuevo de Carlos Keen a Azcuénaga, el Tramway Rural y el F. C. Central Argentino. Lo divide en siete ramas de 98,35 ha (los hijos Claudia y Gregoria habían vendido a Quevedo en 1812 y 1827); seis ramas y media son ya de Guillermo Bertram, cesionario. Sólo la rama de Domingo se subdivide entre Juan Julián Ormaechea y los Peñalva, hasta parcelas de 1,64 ha para cinco menores.",
+ "caratula": {
+  "img": "img/f/160/01.jpg",
+  "fuente": "",
+  "campos": []
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · circular a los linderos",
+   "img": "img/f/160/07.jpg",
+   "fuente": "IMG_0456.JPG",
+   "nota": "Hoja suelta acostada; se lee girada 90°.",
+   "lineas": [
+    "— Circular —",
+    "El Agrimensor que suscribe comisionado judicialmente por decreto del señor Juez de 1.ª Instancia en lo civil y comercial del Departamento de la Capital de la Provincia Doctor D. Ignacio M. Gomez de fecha nueve de Mayo de mil ochocientos noventa y uno, para medir y dividir el terreno de propiedad de la sucesion de Juan Ormaechea y D.ª Victoria Reyes situado en el partido de San Andres de Giles, hace saber á V.d como lindero que el dia veinte y seis de Mayo dará principio á la operacion á fin de que se sirva V.d concurrir al lugar de la operacion á ver si se sobrepasan ó no los límites de su propiedad.",
+    "Siendo necesario hacer constar haberse practicado esta citacion se servirá V.d darse por notificado firmando en prueba de ello la presente.",
+    "L. G. Klappenbach",
+    "Firmó Emilia Torres.",
+    "firmó Toribio Lezano",
+    "firmó Paolo Risso",
+    "firmó Nicolas Garibotte",
+    "á ruego de D. Ruperto Torres por no saber firmar firmó Felisá Ormaechea",
+    "á ruego de Mariano Lizola firmó Felisá Ormaechea",
+    "firmó N. Frías.",
+    "El propietario Cano no ha firmado por estar ausente y no haber persona alguna en el campo á pesar de la notificacion. Conste.",
+    "L. G. Klappenbach",
+    "Por mí y como testigo firmó Pedro Altaparro [?]",
+    "Á ruego por mi señor padre por no saber firmar f.º Isabel R. de Navarro.",
+    "A ruego de mi señor padre D. Meliton Rodriguez firma Bernardino E. Rodriguez.",
+    "Por el terreno de Maldonado firmó Ortiz"
+   ],
+   "interpretacion": "Circular de Klappenbach (comisión del 9/5/1891, juez Ignacio M. Gómez, Departamento de la Capital, es decir La Plata): la operación empieza el 26 de mayo. Firman Emilia Torres, Toribio Lezano, Paolo Risso, Nicolás Garibotte; Felisa Ormaechea firma «á ruego» por Ruperto Torres y por Mariano Lizola; N. Frías; Pedro Altaparro como lindero y testigo; Isabel R. de Navarro por su padre Enrique Rodríguez; Bernardino E. Rodríguez por su padre Melitón; «Ortiz» por el terreno de Maldonado. El propietario Cano no firma: ausente y «sin persona alguna en el campo»."
+  },
+  {
+   "titulo": "Folio 1 vuelto · acta de conformidad",
+   "img": "img/f/160/08.jpg",
+   "fuente": "IMG_0457.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Acta —",
+    "El agrimensor que suscribe, comisionado judicialmente por decreto del señor Juez de 1.ª Instancia en lo Civil y Comercial del Dep.to de la Capital de la Provincia Dr. D. Ignacio M. Gomez de fecha nueve de Mayo del corriente año, para medir y dividir el terreno de propiedad de la sucesion de D. Juan Ormaechea y D.ª Victoria Reyes situado en el partido de S. Andres de Giles, una vez concluida la operacion de mensura y division y prévia conformidad de los señores linderos levanté la presente acta que firman conmigo conformes los linderos que asistieron á dicha operacion.",
+    "L. G. Klappenbach",
+    "firma Emilia Torres, firma Toribio Lezano, firma Paolo Risso, firma Nicolas Garibotte, á ruego de D. Ruperto Torres firma Felisá Ormaechea, Por Mariano Lizola firma Felisá Ormaechea, firma N. Frías, el propietario Cano no ha firmado por estar ausente y no haber persona alguna en el campo á pesar de la notificacion. Conste.",
+    "L. G. Klappenbach",
+    "Por mí y como testigo firma Pedro Altaparro [?]. Á ruego por mi señor padre por no saber firmar Enrique Rodriguez firma Isabel R. de Navarro, á ruego de mi señor padre Meliton Rodriguez firma Bernardino E. Rodriguez. Por el terreno de Maldonado firmó Ortiz. —"
+   ],
+   "interpretacion": "Acta de fin de operación con las mismas firmas que la circular. Felisa Ormaechea, heredera, firma por dos linderos analfabetos: la sucesión media entre los vecinos y el agrimensor, lo que luego observará el Departamento."
+  },
+  {
+   "titulo": "Folio 2 · extracto de títulos: el poder a Pablo Affre (1866)",
+   "img": "img/f/160/09.jpg",
+   "fuente": "IMG_0457.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "Extracto de Títulos",
+    "En San Andres de Giles el dia diez y nueve de Febrero de mil ochocientos sesenta y seis ante el Juez de Paz del partido D. Carlos M.ª Farias comparecieron Doña Isidora Ormachea, D.ª Ramona Moyano de Ormachea y D.ª Josefa Arévalo de Ormachea de estado viudas y dijeron que como herederas del finado Juan Ormachea confieren poder á D. Pablo Afre, para que les sea dado por su intermedio el testimonio de la Escritura de compra de un terreno de pastoreo situado en el Partido de Giles de la propiedad de D. Juan Ormaechea y consiga la licencia para medirlo y amojonarlo.",
+    "En Marzo ocho del mismo año D. Pablo Afre se presenta ante el Juez competente con el poder adjunto para los efectos consiguientes, proponiendo en Marzo diez al Agrimensor E. Gonnet para practicar la operacion de mensura y amojonamiento del terreno de sus poderdantes. Con fecha doce de Marzo se dá por nombrado al Agrimensor propuesto quien acepta el cargo, tomando antecedentes en el Departamento de Ingenieros en diez y nueve de Marzo; quien dá lugar á su cometido el dia veinte y tres de Marzo.",
+    "De la mensura practicada por el Agrimensor Gonnet estracto lo siguiente para mejor comprender las circunstancias y antecedentes del título de la sucesion de D. Juan Ormaechea:",
+    "«Pasé á verificar la operacion reconociendo primero el frente existente entre el terreno de D. Pablo Afre medido por mí en dias anteriores y el terreno de D.ª Felipa Quevedo medido en el año pp.do por el Agrimensor Muñiz, pues entre estos dos terrenos corresponde la ubicacion del terreno de Ormaechea. Este frente segun el título debe constar de (1500 v.s) mil y quinientas varas, pero habiéndose vendido por los herederos de Ormaechea dos fracciones á D.ⁿ Manu[el]"
+   ],
+   "interpretacion": "El 19/2/1866, ante el juez de paz Carlos M.ª Farías, tres viudas Ormaechea (Isidora, Ramona Moyano y Josefa Arévalo) dan poder a Pablo Affre para sacar testimonio del título y medir; Affre propone a E. Gonnet, que mide desde el 23/3/1866 (Ficha 036). Klappenbach copia a Gonnet: el frente debía tener 1500 varas entre Affre y Felipa Quevedo, pero los herederos vendieron dos fracciones a Manuel Quevedo."
+  },
+  {
+   "titulo": "Folio 2 vuelto · cita de Gonnet: el frente reducido a 1169 varas",
+   "img": "img/f/160/10.jpg",
+   "fuente": "IMG_0458.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Quevedo el frente del terreno de Ormaechea queda reducido á (1169 v.s) mil ciento sesenta y nueve varas = mil doce metros y treinta y cinco centímetros. Encontrando que faltaba terreno para el completo de este frente procedí á reconocer si no existia algun exceso en los terrenos que siguen al Sud oeste y que proceden del mismo orígen que el de Ormaechea. Estos terrenos son los siguientes: 1.º las dos fracciones procedentes de Ormaechea vendidas á D.ⁿ Manuel Quevedo y que constan de (331 v.s) trescientas treinta y una varas = doscientos ochenta y seis metros 2.º el terreno de D.ⁿ Manuel Quevedo cuyo título consta de (1500 v.s) mil y quinientas varas de frente = mil doscientos noventa y nueve metros. 3.º el terreno que fué de D. Tadeo Rodriguez (de varios) y cuyo título consta de siete mil setecientas varas de frente = seis mil seiscientos sesenta y ocho metros. Estas tres cantidades sumadas producen un total de ocho mil doscientos cincuenta y cinco metros el que debe encontrarse entre el mojon esquinero Norte del terreno de D.ª Felipa Quevedo y el mojon esquinero Oeste del antiguo terreno de D. Tadeo Rodriguez. Situándome pues en el mojon esquinero norte del terreno medido por el Agrimensor Muñiz para D.ª Felipa Quevedo medí desde este mojon al Sud cincuenta y ocho grados y treinta y un minutos oeste verdadero, ocho mil seiscientos veinte metros hasta un mojon de piedra conocido como esquinero Oeste del antiguo terreno de D. Tadeo Rodriguez resultando un exceso de trescientos sesenta y cinco metros. Cerciorado así de que existia mas terreno de lo necesario para ubicar todos los títulos y que la falta en el frente del terreno de Ormaechea solo procedia del"
+   ],
+   "interpretacion": "Frente reducido a 1169 v = 1012,35 m. Gonnet comprueba el exceso al SO: 331 v (dos fracciones a Quevedo) + 1500 v (Manuel Quevedo) + 7700 v (ex Tadeo Rodríguez) = 8255 m; mide 8620 m al S 58° 31′ O desde el esquinero N de Felipa Quevedo hasta un mojón DE PIEDRA, esquinero O de Tadeo Rodríguez: sobran 365 m. Verificado: 331 × 0,866 = 286,6; 1500 × 0,866 = 1299; 7700 × 0,866 = 6668,2; suma 8253,8 m (el texto redondea 8255)."
+  },
+  {
+   "titulo": "Folio 3 · superficie de Gonnet y aprobación de 1881",
+   "img": "img/f/160/11.jpg",
+   "fuente": "IMG_0458.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "la ubicacion dada por el Agrimensor Muñiz á los terrenos de Quevedo, ubicacion que dicho Agr.r se encontraba en la imposibilidad de comprobar por la falta del título de Ormaechea que se hallaba perdido.",
+    "La superficie del terreno medido por el Agr.r Gonnet es de (686 h.s 87 a.s y 19 c.s) seiscientas ochenta y seis hectáreas ochenta y siete áreas y diez y nueve centiáreas ó sea doscientos cincuenta y cuatro milésimos de una legua cuadrada. El título consta de (692 h.s 58 a.s y 91 c.s) seiscientas noventa y dos hectáreas cincuenta y ocho áreas y noventa y una centiáreas, resulta pues una falta de cinco hectáreas setenta y una áreas y setenta y dos centiáreas debido á la entrada que hace el terreno de D. Fco Maldonado en la parte Norte del terreno. —",
+    "De la presente operacion resulta una sobreposicion del terreno de los herederos de Ormaechea sobre el terreno medido por el Agr.r Muñoz [sic, por Muñiz] para los herederos de Quevedo, sobreposicion representada por una lonja de terreno de un ancho mediano de ciento cincuenta y siete metros por todo el largo de ambos terrenos.» —",
+    "Esta operacion fué protestada por varios vecinos, y despues de correrse los trámites necesarios, se dictó el siguiente auto con fecha Enero 20 [?]/881: «de conformidad con lo solicitado en los escritos de fs. 81 y 104, lo que resulta de la informacion corriente de f. 98 á f. 99 v.ta del certificado de f. 94 y atento lo espuesto por el Agente Fiscal en las vistas de f. 89, f. 95 y f. 105, se aprueba en cuanto ha lugar derecho la citada informacion de f. 98 á f. 99 v.ta y bajo la misma calidad de en cuanto ha lugar y sin perjuicio de terceros; se aprueba la mensura practicada por el Agr.or D. E.d Gonnet corriente de f. 11 á f. 16 interponiendo el Juzgado para su mayor validez la autoridad judicial que inviste"
+   ],
+   "interpretacion": "Gonnet midió 686 ha 87 a 19 ca (0,254 leguas² : verificado 686,87/2700 = 0,2544) contra 692 ha 58 a 91 ca del título; la falta de 5,7172 ha se debe a «la entrada que hace el terreno de D. Fco. Maldonado en la parte Norte». La mensura de 1866 se sobrepone a la de Muñiz para Quevedo en una lonja de 157 m de ancho por todo el largo. Protestada por vecinos, fue aprobada recién por auto de enero de 1881 [?], «en cuanto ha lugar y sin perjuicio de terceros»."
+  },
+  {
+   "titulo": "Folio 3 vuelto · el título de 1804: Díaz de Vivar a Ormaechea",
+   "img": "img/f/160/12.jpg",
+   "fuente": "IMG_0459.JPG (mitad izquierda)",
+   "nota": "Verificado: la «superficie del título» de 692,5891 ha = 1169 v × 7900 v (legua de 6000 + 1900) × 0,866² = 692,59 ha: es el frente REDUCIDO por las ventas a Quevedo por el fondo de 1804; el fondo de 7900 v = 6841 m coincide con los costados medidos (6619 y 6883 m).",
+   "lineas": [
+    "A fs. 109 corre agregado el testimonio de la escritura del terreno en cuestion.",
+    "— Estracto. —",
+    "El Escribano D. Juan José Rocha estenderá escritura que ha de otorgar D. Pedro Diaz de Vivar á favor de D. Juan de Ormachea por la venta de unas tierras de Estancia en cantidad de ciento ochenta y siete pesos cuatro reales, de que ha satisfecho en la Tesorería de esta aduana el derecho de Alcavala. Buenos Aires veinte y cuatro de Setiembre de mil ochocientos cuatro. — Justo Pastor Lynch. — Sea notorio como yo D. Pedro Diaz de Vivar, por la presente otorgo, que vendo á D. Juan de Ormachea unas tierras de las que tengo y poseo por mias propias y son cabezadas con mil y quinientas varas de frente y de fondo una legua, y mil novecientas varas, linderas por el Norte con otras de D. Manuel Castro, por el Sud con la de D. Manuel Quevedo, por el oeste con otra de D. Leandro de Sosa y por el Este con la que corresponde á Cipriano Lopez y con las que últimamente he vendido al Santuario de Nuestra Señora de Luján que es donde se hallan situadas al otro lado del rio de dicha Villa y proceden de las que en mayor número me hizo gracia y donacion de su libre y espontánea voluntad intervivos é irrevocable D.ª Teodora de Leiva y Bergara viuda del Capitan Graduado de Dragones D. Manuel de la Riva como heredero de Doña Juana y Doña Antonia de Leiva y Bergara que lo fueron en sucesion del Regidor D. Juan M. Bergara quien las poseyó sin oposicion, por merced que le hizo de ellas el señor Gobernador, Capitan Gral y Justicia mayor que fué de estas Provincias del Rio de la Plata ante D. Alonso Agreda"
+   ],
+   "interpretacion": "Extracto del título agregado a fs. 109: el 24/9/1804 Pedro Díaz de Vivar vende a Juan de Ormachea tierras de estancia «cabezadas» de 1500 v de frente por una legua y 1900 v de fondo, por 187 pesos 4 reales (alcabala pagada; Justo Pastor Lynch). Linderos: Manuel Castro (N), Manuel Quevedo (S), Leandro de Sosa (O), Cipriano López y el Santuario de Nuestra Señora de Luján (E), «al otro lado del río de dicha Villa». Origen: donación de Teodora de Leiva y Bergara, heredera de la merced del regidor Juan M. Bergara (escribano Alonso Agreda de Bergara, diciembre de 1735)."
+  },
+  {
+   "titulo": "Folio 4 · el expediente sucesorio y la declaratoria (1889)",
+   "img": "img/f/160/13.jpg",
+   "fuente": "IMG_0459.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "de Bergara escribano mayor de este Gobierno en [?] de Diciembre del año pasado de mil setecientos treinta y cinco.",
+    "Estos antecedentes que dejo espuestos han sido tomados del espediente caratulado «Ormaechea D. Juan sus herederos Mensura» que tramita por la Oficina del Escrib.no secretario Juan A. Giusto [?] Juez Dr. Bustos. Como el departamento de Ingenieros se encontraria sin datos respecto á los títulos del campo de la sucesion de D. Juan Ormaechea al juzgar y entender en la presente diligencia, por cuanto en el espediente en tramitacion y al cual va adjunta esta diligencia no existe constancia alguna; he creido conveniente para evitar esa dificultad referirme á ellos en lo pertinente.",
+    "A fs. 819 con fecha La Plata Marzo ocho de mil ochocientos ochenta y nueve el Juez Dr. D. Valentin Fernandez Blanco, de acuerdo con lo dictaminado por los Ministerios Fiscal y Pupilar el certificado del actuario sobre el resultado negativo de los edictos, se declara en cuanto ha lugar por derecho: 1.º Únicos y universales herederos de Don Domingo Ormaechea i Reyes — á D. Juan Julian y Martina Ormaechea y Moreyra — por muerte de esta última — sus cuatro hijos Eufemia — Presentacion — María i Patricio Peñalva i Ormaechea y por fallecimiento de este último — sus hijos — Claudia — Facunda — Isidora — Patricio, Victoria y Catalina Peñalva y Suarez [?] —",
+    "2.º Únicos y universales herederos de Don Basilio Ormaechea y Reyes sus hijos Nicolas — Maxima — Petrona Salomé — Adrian i Ciriaca Ormaechea i Saavedra —",
+    "3.º Únicos y universales herederos de Doña Dominga Ormaechea y Reyes á D. Estanislao — Dionisia y Juana Regina Pacheco y Ormaechea. —",
+    "4.º Únicos y universales herederos de Doña Claudia Ormaechea y Reyes á sus cuatro hijos Guillerma — Ursula — María Monserrat y Josefa Alvarez y Ormaechea — por muerte de Guillerma á su hijo Ceferino Lujan y Alvarez — por muerte"
+   ],
+   "interpretacion": "Los antecedentes vienen del expediente «Ormaechea D. Juan sus herederos Mensura» (juez Dr. Bustos); Klappenbach los copia porque el expediente al que va la diligencia no los tiene. Declaratoria del juez Valentín Fernández Blanco (La Plata, 8/3/1889, fs. 819): herederos de los hijos Domingo, Basilio, Dominga y Claudia Ormaechea y Reyes, con sus ramas Moreyra, Peñalva, Saavedra, Pacheco, Álvarez, Luján y Cuello."
+  },
+  {
+   "titulo": "Folio 4 vuelto · declaratoria (fin) y ampliación",
+   "img": "img/f/160/14.jpg",
+   "fuente": "IMG_0460.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "de Ursula sus dos hijos Micaela y Josefa Cuello i Alvarez y por muerte de Doña Josefa Alvarez i Ormaechea su hija Catalina Ramona Alvarez y Alvarez. —",
+    "5.º Únicos y universales herederos de Doña Gregoria Ormaechea y Reyes á Doña Pascuala Pacheco y Ormaechea, y por fallecimiento de esta última sus tres hijos Norberto, Balbina i Florentino Alzaga [?] y Pacheco. —",
+    "6.º Únicos y universales herederos de Doña Juana Lucía Ormaechea y Reyes — á sus cuatro hijos Liberato [?] — Hipólito, Bernabela y Miguel Moreyra y Ormaechea, por fallecimiento de Doña Bernabela sus tres hijos Luis — Isabel y Braulio Ponce i Moreyra y por muerte de D. Miguel Moreyra i Ormaechea su hijo Cleto Moreyra. —",
+    "7.º Únicos y universales herederos de Don Manuel José Ormaechea y Reyes sus legítimos hijos Estefanía — Santiago — Cornelia — Feliciano — Romualda — María y Natalia Ormaechea y Moyano y por fallecimiento de Estefanía atento el reconocimiento de fs. 800 á su hija Felisa —",
+    "8.º Únicos y universales herederos de D. Manuel Antonio Ormaechea y Reyes á D. Cleto Moreyra, Doña Benita y Don Marcelino Mansilla [?]. — Interponiendo el Juzgado para la mayor validez de este auto la autoridad judicial del cargo que inviste. En consecuencia cese la intervencion Fiscal. Fórmese incidente por separado para la justificacion de la filiacion de los que se dicen herederos de D.ª María Nieves Ormaechea y Reyes etc. —",
+    "A fs. 872 se hace la ampliacion de la declaratoria anterior, declarando en cuanto ha lugar por derecho herederos de Doña Martina Ormaechea y Reyes conjuntamente con los declarados á fs. 819 — á sus legítimos hijos Doña Juana y Don Venancio Peñalva y Ormaechea, y por fallecimiento de Doña Juana á su legítima hija D.ª Isidora Martina Aparicio conjuntamente con D. José María Aparicio —"
+   ],
+   "interpretacion": "Ramas de Gregoria (Pacheco, Alzaga [?]), Juana Lucía (Moreyra, Ponce), Manuel José (Ormaechea y Moyano; Felisa, hija de Estefanía) y Manuel Antonio (Cleto Moreyra, Benita y Marcelino Mansilla [?]). Queda pendiente la filiación de los herederos de María Nieves. Ampliación de fs. 872: Juana y Venancio Peñalva, Isidora Martina y José María Aparicio. Cinco generaciones en un solo auto: los nietos de 1804 son bisnietos y tataranietos en 1889."
+  },
+  {
+   "titulo": "Folio 5 · el convenio con Bertram y el nombramiento (1891)",
+   "img": "img/f/160/15.jpg",
+   "fuente": "IMG_0460.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "A fs. 877 corre la partida de defuncion de la menor Catalina Peñalva heredera declarada de D. Patricio Peñalva. —",
+    "A fs. 881 el tutor de los menores Dr. E. C. Rivarola con fecha Marzo 9/91 espone que habiendo fallecido la menor Catalina, se sirva declarar herederos de ella á sus otros cinco hermanos. —",
+    "A fs. 884 con fecha Abril 7, D. Enrique Rivarola por los menores Peñalva, D. Juan Coronado por Doña Presentacion Peñalva y otros y D. Fortunato Piñero por D. Guillermo Bertram cesionario de varios herederos en los autos testamentarios de D. Juan Ormaechea esponen que han resuelto proceder á la division del campo de esta testamentaria conviniendo en que la parte del señor Bertram se coloque en el lado Sud Este y las de los demas herederos en el lado Nor Oeste y proponen para la operacion de mensura y division al Agrimensor Luis G. Klappenbach quien hará las divisiones consultando los intereses de todos los herederos.",
+    "Con fecha Mayo nueve de /91 se dá por nombrado al agrimensor propuesto quien acepta el cargo en la misma fecha. —",
+    "Con fecha Mayo 19 se toman antecedentes en el departamento de Ingenieros y se publican los edictos. —",
+    "— Diligencia de mensura. —",
+    "El Agrimensor que suscribe comisionado judicialmente por decreto del señor Juez de 1.ª Instancia en lo Civil y comercial del departamento de la Capital de la Provincia de fecha Mayo nueve de mil ochocientos noventa y uno, para medir y dividir el terreno de propiedad de la sucesion de Juan Ormaechea y Doña Victoria Reyes situado en el Partido de San Andres de Giles; una vez publicados los edictos y dado aviso á los señores linderos segun consta de los diarios circular y acta que originales acompaño, dí principio á la operacion el dia veinte"
+   ],
+   "interpretacion": "Muere la menor Catalina Peñalva; el tutor Dr. Enrique C. Rivarola pide que la hereden sus cinco hermanos. El 7/4/1891 los apoderados (Rivarola, Juan Coronado y Fortunato Piñero por GUILLERMO BERTRAM, «cesionario de varios herederos») convienen dividir: la parte de Bertram al SE y la de los demás herederos al NO. Proponen a Luis G. Klappenbach; nombrado y aceptado el 9/5/1891; antecedentes en el Departamento de Ingenieros y edictos el 19/5."
+  },
+  {
+   "titulo": "Folio 5 vuelto · línea A-B: arroyitos, Cañada de la Cruz, caminos y tranvía",
+   "img": "img/f/160/16.jpg",
+   "fuente": "IMG_0461.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "y seis de Mayo del corriente año, arrancando del mojon esquinero ~~Sud~~ Este letra A del plano adjunto, colocado por el agrimensor E.d Gonnet en Marzo de mil ochocientos sesenta y seis al medir este mismo terreno, y á la cual operacion me he referido al principio de esta diligencia.",
+    "De A y por el rumbo N 31° 09′ O Norte treinta y un grados nueve minutos Oeste medí 6619 m.s seis mil seiscientos diez y nueve metros ~~[tachado]~~ deslindando con Nicolas Garibotte y ~~Nicola~~ Meliton Rodriguez llegando al punto B. En esta línea á los 200 doscientos metros cruzé un arroyito volviéndolo á cruzar á los 208 doscientos ocho, á 618.20 seiscientos diez y ocho metros veinte centímetros encontré un mojon de palo, á 1024 mil veinte y cuatro metros cruzé la cañada de la Cruz volviéndola á cruzar á 1034 mil treinta y cuatro metros, á 1222 mil doscientos veinte y dos metros cruzé un arroyito y lo volví á cruzar á 1232 mil doscientos treinta y dos metros, á 2118.90 dos mil ciento diez y ocho metros noventa centímetros encontré un mojon de palo, á 2443 dos mil cuatrocientos cuarenta y tres metros encontré el principal del camino de Carlos Keen á Azcuénaga el cual no es ahora de tránsito, á 2923.60 dos mil novecientos veinte y tres metros y sesenta centímetros encontré el principal del actual camino de Carlos Keen á Azcuénaga, ó plata [entre renglones; ¿«ó punta»?] teniendo 34 treinta y cuatro metros de ancho, á 3119 tres mil ciento diez y nueve metros encontré un mojon de palo, á 3266 tres mil doscientos sesenta y seis metros el alambrado de la via del Tramway Rural, á 3278.20 tres mil doscientos setenta y ocho metros veinte centímetros el otro alambrado, á 3612 tres mil seiscientos doce metros llegué á una calle á la derecha, terminando en este punto el terreno de Garibotte, á 3619.20 termina la calle tres mil seiscientos diez y nueve metros veinte centímetros"
+   ],
+   "interpretacion": "Arranca el 26/5/1891 del mojón esquinero E (A) que puso Gonnet en 1866. A-B N 31° 09′ O 6619 m contra Garibotte y Melitón Rodríguez: arroyito (200-208 m), mojón de palo (618,20), CAÑADA DE LA CRUZ (1024-1034), otro arroyito (1222-1232), mojón (2118,90), el camino VIEJO de Carlos Keen a Azcuénaga «que no es ahora de tránsito» (2443), el ACTUAL, de 34 m de ancho (2923,60), mojón (3119), los dos alambrados del TRAMWAY RURAL (3266 y 3278,20), una calle a la derecha (3612-3619,20) donde termina Garibotte."
+  },
+  {
+   "titulo": "Folio 6 · B-C-D (Maldonado) y D-E sobre el arroyo del Sauce",
+   "img": "img/f/160/17.jpg",
+   "fuente": "IMG_0461.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "y empieza el terreno de D. Meliton Rodriguez, á 4119.40 cuatro mil ciento diez y nueve metros cuarenta centímetros encontré un mojon de palo, á 4929.60 un alambrado á la derecha cuatro mil novecientos veinte y nueve metros sesenta centímetros, á 5119.20 cinco mil ciento diez y nueve metros veinte centímetros un mojon de palo, á 5401.40 cinco mil cuatrocientos un metros y cuarenta centímetros una puerta, á 6619 seis mil seiscientos diez y nueve metros el mojon esquinero Norte punto B.",
+    "De B por el rumbo S 55° 58′ O Sud cincuenta y cinco grados cincuenta y ocho minutos Oeste medí 419.20 cuatrocientos diez y nueve metros veinte centímetros hasta C dividiendo con terreno que fué de F.co Maldonado á los 409.40 cuatrocientos nueve metros cuarenta centímetros encontré un mojon de palo.",
+    "De C por el rumbo N 46° 55′ O Norte cuarenta y seis grados cincuenta y cinco minutos Oeste medí 281.70 doscientos ochenta y un metros setenta centímetros hasta D y 302.70 trescientos dos metros setenta centímetros hasta el arroyo del Sauce.",
+    "De D por el rumbo S 58° 31′ O Sud cincuenta y ocho grados treinta y un minutos Oeste medí deslindando con Pedro Altaparro 540 quinientos cuarenta metros hasta E mojon esquinero Oeste del terreno que se mide, en esta línea á 25 veinte y cinco metros cruzé el arroyo del Sauce á 48 cuarenta y ocho metros volví á cruzarlo, á 150 ciento cincuenta metros trazé una ordenada á la derecha hasta el arroyo de 31 treinta y un metros, á 250 doscientos cincuenta metros otra ordenada de 61 sesenta y un metros, á 350 trescientos cincuenta metros otra ordenada de 42 cuarenta y dos metros, y en el punto E la distancia al arroyo es de 149 ciento cuarenta"
+   ],
+   "interpretacion": "Melitón Rodríguez: mojones (4119,40 y 5119,20), un alambrado a la derecha (4929,60) y una PUERTA (5401,40); B a 6619 m. B-C S 55° 58′ O 419,20 m contra el terreno que fue de Francisco Maldonado (mojón de palo a 409,40); C-D N 46° 55′ O 281,70 m (302,70 hasta el arroyo del Sauce). D-E S 58° 31′ O 540 m contra Pedro Altaparro, cruzando dos veces el Sauce, con ordenadas al arroyo de 31, 61, 42 y 149 m."
+  },
+  {
+   "titulo": "Folio 6 vuelto · frente de Enrique Rodríguez; línea E-F; F-A",
+   "img": "img/f/160/18.jpg",
+   "fuente": "IMG_0462.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "y nueve metros. Llegado á este punto, reconocí el frente del terreno lindero ó sea la fraccion de Don Enrique Rodriguez y lo encontré ajustado al título que son 403,50 cuatrocientos tres metros cincuenta centímetros que con la encontrada por mí 404.20 cuatrocientos cuatro metros veinte centímetros dá una diferencia de 0.70 setenta centímetros, diferencia que no influye en nada pues no alcanza al error dispensado por nuestro reglamento.",
+    "De E por el rumbo S 31° 29″ [sic] E Sud treinta y un grados veinte y nueve minutos Este medí deslindando con Enrique Rodriguez, Toribio Lezano, Pablo Risso, Emilia Torres, Ruperto Torres, y Lizola 6883 seis mil ochocientos ochenta y tres metros hasta el punto F. En esta línea á los 1735 mil setecientos treinta y cinco metros coloqué un mojon de palo á los 2543.50 dos mil quinientos cuarenta y tres metros cincuenta centímetros cruzé el alambrado del tramway Rural á los 2554 dos mil quinientos cincuenta y cuatro metros lo volví á cruzar, á 4391 cuatro mil trescientos noventa y un metros cruzé el alambrado del Ferro Carril Central Argentino volviéndolo á cruzar á los 4473 cuatro mil cuatrocientos setenta y tres metros á los 5610 cinco mil seiscientos diez metros cruzé la cañada de la Cruz volviéndola á cruzar á 5623 cinco mil seiscientos veinte y tres metros. llegando así á F mojon esquinero Sud del terreno que se mide.",
+    "De F por el rumbo N 57° 49′ E Norte cincuenta y siete grados cuarenta y nueve minutos Este medí dividiendo con Cano y Frías 992.40 novecientos noventa y dos metros cuarenta centímetros hasta A punto de arranque. En esta línea á los 483.40 cuatrocientos ochenta y tres metros cuarenta centímetros encontré un mojon"
+   ],
+   "interpretacion": "El frente de Enrique Rodríguez da 404,20 m contra 403,50 del título: 0,70 m, «no alcanza al error dispensado por nuestro reglamento». E-F S 31° 29′ E 6883 m contra E. Rodríguez, Lezano, Risso, Emilia y Ruperto Torres y Lizola: mojón puesto (1735), tranvía rural (2543,50-2554), F. C. CENTRAL ARGENTINO (4391-4473), Cañada de la Cruz (5610-5623). F-A N 57° 49′ E contra Cano y Frías."
+  },
+  {
+   "titulo": "Folio 7 · cierre, superficie, linderos y variación",
+   "img": "img/f/160/19.jpg",
+   "fuente": "IMG_0462.JPG (mitad derecha)",
+   "nota": "La progresiva final de F-A se copia «892.40» por 992.40 (el lado y el plano dicen 992,40).",
+   "lineas": [
+    "de palo, á los 586 quinientos ochenta y seis metros cruzé un arroyito volviéndolo á cruzar á los 591 quinientos noventa y uno, á los 820 ochocientos veinte metros encontré el alambrado del Ferro Carril Central Argentino, y á los 846.40 ochocientos cuarenta y seis metros cuarenta centímetros cruzé el otro alambrado del mismo Ferrocarril, á los 892.40 [sic, por 992.40] ochocientos noventa y dos metros cuarenta centímetros encontré un mojon de palo, llegando allí á A y dando fin á la mensura general del terreno de la sucesion.",
+    "— Superficie —",
+    "La figura del terreno medido es la de un exágono irregular comprendido por las letras A. B. C. D. E. F. y el arroyo del Sauce el cual se compone de una superficie de",
+    "688 h.s 41 a.s y 84 c.s",
+    "seiscientas ochenta y ocho hectáreas, cuarenta y una áreas y ochenta y cuatro centiáreas, que comparada con la superficie deducida del título",
+    "692 h.s 58 a.s 91 c.s",
+    "seiscientas noventa y dos hectáreas cincuenta y ocho áreas y noventa y una centiáreas, dá una diferencia de: 4 h.s 17 a.s 07 c.s",
+    "cuatro hectáreas diez y siete áreas y siete centiáreas diferencia menor que la encontrada por el Agr.r Gonnet que es de; 5 h.s 71 a.s 72 c.s",
+    "cinco hectáreas setenta y una áreas y setenta y dos centiáreas: —",
+    "— Linderos —",
+    "El terreno medido tiene por linderos al",
+    "Nor Este. D. Meliton Rodriguez, D. Nicolas Garibotte",
+    "Sud Este. D. N. Frías y Cano.",
+    "Sud Oeste. D. Enrique Rodriguez Toribio Lezano, Pablo Risso Emilia Torres. Ruperto Torres, y Lizola. —",
+    "Nor Oeste. Don Pedro Altaparro y terreno que fué de F.co Maldonado. —",
+    "— Variacion —",
+    "La variacion de la aguja es de once grados ocho minutos Nor Este (11° 08′ NE). Los rumbos son"
+   ],
+   "interpretacion": "F-A 992,40 m (arroyito 586-591, los dos alambrados del ferrocarril 820 y 846,40). Hexágono A-F más el arroyo: 688 ha 41 a 84 ca, 4 ha 17 a 07 ca menos que el título (692,5891) y menos falta que la de Gonnet (5,7172). Variación 11° 08′ NE. Verificado en python: el polígono cierra con 3,1 m de error y 686,14 ha sin la franja del arroyo (≈ 2,3 ha), coherente con lo declarado."
+  },
+  {
+   "titulo": "Folio 7 vuelto · circular y acta; la división: nueve hijos, siete ramas",
+   "img": "img/f/160/20.jpg",
+   "fuente": "IMG_0463.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "verdaderos y corregidos de una variacion de once grados ocho minutos Este 11° 8′ E. —",
+    "— Circular y Acta. —",
+    "Han sido firmadas por Doña Emilia Torres, Toribio Lezano, Pablo Risso, Nicolas Garibotte, á ruego de D. Ruperto Torres por no saber firmar Felisá Ormachea por Mariano Lizola Felisá Ormachea, N. Frías, El propietario Cano no ha firmado por estar ausente y no haber persona alguna en el campo á pesar de la notificacion Conste, por mí y como testigo Pedro Altaparro, á ruego por mi señor padre por no saber firmar Enrique Rodriguez Isabel R. de Navarro, á ruego de mi señor padre Don Meliton Rodriguez firmó Bernardino E. Rodriguez. —",
+    "— Division —",
+    "Una vez concluida la operacion de mensura procedí á efectuar la division del terreno de acuerdo con la declaratoria de herederos y su ampliacion y consultando los intereses de los herederos y en la forma convenida por los apoderados de las respectivas partes. — Segun se desprende de la declaratoria de herederos los causantes Don Juan Ormaechea y D.ª Victoria Reyes han dejado como sucesion directa nueve hijos Don Domingo, Don Basilio, D.ª Dominga D.ª Claudia D.ª Gregoria, D.ª María Nieves, D.ª Juana Luisa Don Manuel José y Don Manuel Antonio. Ahora bien segun se deduce del estudio hecho en este espediente, resulta que la rama de Claudia no debe tomarse en cuenta al hacerse la division por cuanto todas sus acciones y derechos fueron vendidos en el año de mil ochocientos doce á D. Manuel Quevedo (escritura de fs. 297) y que los herederos de este, están en posesion del campo que le correspondió á Claudia. La rama de Gregoria se encuentra en el mismo caso que la de Claudia por cuanto D.ª Gregoria vendió sus acciones"
+   ],
+   "interpretacion": "De los nueve hijos de Juan Ormaechea y Victoria Reyes se excluyen Claudia, que vendió sus acciones a Manuel Quevedo en 1812 (escritura de fs. 297), y Gregoria (ver folio siguiente): sus herederos de Quevedo poseen ya esas tierras."
+  },
+  {
+   "titulo": "Folio 8 · Claudia y Gregoria = las dos fracciones de Quevedo; rama de Domingo",
+   "img": "img/f/160/21.jpg",
+   "fuente": "IMG_0463.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "y derechos á Juan Manuel Quevedo en el año de mil ochocientos veinte y siete (escritura de fs. 284) cuyos herederos están en posesion del terreno que correspondió á aquella. Respecto á estas dos herederas Claudia y Gregoria, el agrimensor Gonnet dá cuenta en su diligencia de mensura en estos términos «pero habiéndose vendido por los herederos de Ormaechea dos fracciones á D. Manuel Quevedo el frente del terreno de Ormaechea queda reducido á 1169 v.s mil ciento sesenta y nueve varas.» Y mas arriba «dos fracciones á D. Manuel Quevedo la una de 166 v.s ciento sesenta y seis varas y la otra de 165 v.s ciento sesenta y cinco varas. — Estas fracciones son las mismas, como he dicho, las correspondientes á las herederas D.ª Claudia y D.ª Gregoria hijas de los causantes D. Juan Ormaechea y Doña Victoria Reyes. —",
+    "Hecha esta aclaracion solo quedan como herederos en el campo cuya mensura he practicado, los siete restantes es decir D. Domingo Don Basilio, D.ª Dominga, Doña María Nieves, Doña Juana Luisa, D. Manuel José y D. Manuel Antonio. — Corresponde pues dividir la superficie encontrada para el campo entre estos siete herederos. En efecto siendo la superficie total de 688 h.s 41 a.s 84 c.s seiscientas ochenta y ocho hectáreas cuarenta y una áreas y ochenta y cuatro centiáreas, corresponde para cada heredero una superficie de 98 h.s 34 a.s 54 c.s noventa y ocho hectáreas, treinta y cuatro áreas y cincuenta y cuatro centiáreas. Esto supuesto, me coloqué en el mojon esquinero Oeste letra E del plano y medí con rumbo S 31° 29′ E sud treinta y un grados veinte y nueve minutos Este 1042.28 mil cuarenta y dos metros y veinte y ocho centímetros hasta Q, donde cuadré al N 58° 31′ E norte cincuenta y ocho grados treinta y un minutos Este y medí 1026.37 mil veinte y seis metros y treinta y siete centímetros hasta R, dejando en los puntos Q y R señales quedando así deslindada la parte correspondiente á Don Domingo Ormaechea. Omitia decir que de R por el rumbo N 31° 09′ O norte treinta y un grados nueve minutos Oeste medí 777.88 setecientos setenta y siete metros"
+   ],
+   "interpretacion": "Gregoria vendió a Juan Manuel Quevedo en 1827 (fs. 284). Klappenbach identifica las dos fracciones de 166 y 165 v (= 331 v) que Gonnet halló vendidas a Quevedo con las cuotas de Claudia y Gregoria: cada hijo heredó ≈ 166 v de frente (1500/9 = 166,7). Quedan siete ramas a 98 ha 34 a 54 ca (688,4184/7 = 98,3455, verificado). 1.ª rama (Domingo): E-Q S 31° 29′ E 1042,28; Q-R N 58° 31′ E 1026,37; R-B 777,88 m."
+  },
+  {
+   "titulo": "Folio 8 vuelto · ramas de Basilio y Dominga",
+   "img": "img/f/160/22.jpg",
+   "fuente": "IMG_0464.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "y ochenta y ocho centímetros hasta B siguiendo de B el mismo sentido de la mensura general hasta E.",
+    "2.ª — Rama de D. Basilio Ormaechea.",
+    "De Q por el rumbo S 31° 29′ E Sud treinta y un grados veinte y nueve minutos Este medí 960.82 novecientos sesenta metros ochenta y dos centímetros hasta O dejando en este punto una señal. En O cuadré al N 58° 31′ E norte cincuenta y ocho grados treinta y un minutos Este y medí 1020.77 mil veinte metros y setenta y siete centímetros hasta P dejando tambien una señal. De P por el rumbo N 31° 09′ O norte treinta y un grados nueve minutos Oeste medí 960.89 novecientos sesenta metros y ochenta y nueve centímetros hasta R.",
+    "Superficie: 98 h.s 34 a.s 54 c.s noventa y ocho hectáreas treinta y cuatro áreas cincuenta y cuatro centiáreas",
+    "Linderos: Por el Nor Este D. Meliton Rodriguez, por el Sud Este fraccion de la Rama de D.ª Dominga Ormaechea por el Sud Oeste D. Enrique Rodriguez y por el Nor Oeste rama de D. Domingo Ormaechea. —",
+    "3.ª — Rama de D.ª Dominga Ormaechea:",
+    "De O por el rumbo S 31° 29′ E Sud treinta y un grados veinte y nueve minutos Este medí 966.66 novecientos sesenta y seis metros y sesenta y seis centímetros hasta M dejando una señal. En M cuadré al N 58° 31′ E norte cincuenta y ocho grados treinta y un minutos Este y medí 1015.14 mil quince metros catorce centímetros hasta N dejando señal. De N por el rumbo N 31° 09′ O norte treinta y un grados nueve minutos Oeste medí 966.73 novecientos sesenta y seis metros setenta y tres centímetros hasta P.",
+    "Superficie: 98 h.s 34 a.s 54 c.s noventa y ocho hectáreas treinta y cuatro áreas cincuenta y cuatro centiáreas.",
+    "Linderos: Por el Nor Este D. Meliton Rodriguez por el Sud Este fraccion de la rama de D.ª María Nieves Ormaechea por el Sud Oeste D. Toribio Lezano y P. Risso y por el Nor Oeste rama deslindada para Don Basilio Ormaechea. —"
+   ],
+   "interpretacion": "2.ª Basilio: Q-O 960,82; O-P 1020,77; P-R 960,89 m. 3.ª Dominga: O-M 966,66; M-N 1015,14; N-P 966,73 m. Cada rama cierra en python con área 98,35 ha (Dominga 98,40). Los frentes crecen de 960 a 982 m y los anchos bajan de 1026 a 998 m porque los costados NE (31° 09′) y SO (31° 29′) no son paralelos: el campo se abre en abanico."
+  },
+  {
+   "titulo": "Folio 9 · ramas de María Nieves y Juana Luisa",
+   "img": "img/f/160/23.jpg",
+   "fuente": "IMG_0464.JPG (mitad derecha)",
+   "nota": "La superficie de la 4.ª se escribe en letras «cincuenta centiáreas» (omite «y cuatro»).",
+   "lineas": [
+    "4.ª — Rama de Doña María Nieves Ormaechea",
+    "De M por el rumbo S 31° 29′ E sud treinta y un grados veinte y nueve minutos Este medí 971.50 novecientos setenta y un metros cincuenta centímetros hasta K dejando una señal. En K cuadré al N 58° 31′ E norte cincuenta y ocho grados treinta y un minutos Este y medí 1009.48 mil nueve metros y cuarenta y ocho centímetros hasta L dejando señal. De L por el rumbo N 31° 09′ O norte treinta y un grados nueve minutos Oeste medí 971.57 m.s novecientos setenta y un metros cincuenta y siete centímetros hasta N. —",
+    "Superficie: 98 h.s 34 a.s 54 c.s noventa y ocho hectáreas treinta y cuatro áreas y cincuenta centiáreas [sic, omite «y cuatro»]. —",
+    "Linderos: Por el Nor Este Meliton Rodriguez y Garibotte por el Sud Este fraccion de la rama de Doña Juana Luisa Ormaechea por el Sud Oeste Pablo Risso y Emilia Torres y por el Nor Oeste fraccion deslindada para la rama de D.ª Dominga Ormaechea.",
+    "5.ª — Rama de Doña Juana Luisa Ormaechea. —",
+    "De K por el rumbo S 31° 29′ E sud treinta y un grados veinte y nueve minutos Este medí 977 novecientos setenta y siete metros hasta I dejando señal. En I cuadré al N 58° 31′ E norte cincuenta y ocho grados treinta y un minutos Este y medí 1003.78 mil tres metros y setenta y ocho centímetros hasta J dejando señal. De J por el rumbo N 31° 09′ O norte treinta y un grados nueve minutos Oeste medí 977.06 novecientos setenta y siete metros seis centímetros hasta L. —",
+    "Superficie: 98 h.s 34 a.s 54 c.s noventa y ocho hectáreas treinta y cuatro áreas cincuenta y cuatro centiáreas. —",
+    "Linderos: Por el Nor Este Nicolas Garibotte por el Sud Este la fraccion de la rama de D. Manuel José Ormaechea, por el Sud Oeste Emilia Torres y R. Torres y por el Nor Oeste la fraccion deslindada de la rama de Doña María Nieves Ormaechea. —",
+    "6.ª Rama de D. Manuel José Ormaechea. —",
+    "De I por el rumbo S 31° 29′ E sud treinta y un grados veinte y nueve minutos Este medí 982.56."
+   ],
+   "interpretacion": "4.ª María Nieves: M-K 971,50; K-L 1009,48; L-N 971,57 m. 5.ª Juana Luisa: K-I 977; I-J 1003,78; J-L 977,06 m. Linderos SO: Risso, Emilia y R. Torres; NE: Melitón Rodríguez y Garibotte."
+  },
+  {
+   "titulo": "Folio 9 vuelto · ramas de Manuel José y Juan Antonio",
+   "img": "img/f/160/24.jpg",
+   "fuente": "IMG_0465.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "novecientos ochenta y dos metros cincuenta y seis centímetros hasta G dejando una señal. En G cuadré al N 58° 31′ E norte cincuenta [entre renglones: y ocho grados treinta y un minutos Este] y medí 998.05 novecientos noventa y ocho metros cinco centímetros hasta H dejando señal. De H por el rumbo N 31° 09′ O norte treinta y un grados nueve minutos Oeste medí 982.63 novecientos ochenta y dos metros sesenta y tres centímetros hasta J.",
+    "Superficie: 98 h.s 34 a.s 54 c.s noventa y ocho hectáreas treinta y cuatro áreas cincuenta y cuatro centiáreas. —",
+    "Linderos: Por el Nor Este D. Nicolas Garibotte, por el Sud Este la fraccion de la rama de D. Juan Antonio Ormaechea por el Sud Oeste R. Torres y Lizola y por el Nor Oeste fraccion deslindada de Doña Juana Luisa Ormaechea. —",
+    "7.ª Rama de Don Juan Antonio Ormaechea. —",
+    "De G por el rumbo S 31° 29′ E Sud treinta y un grados veinte y nueve minutos Este medí 982.18 novecientos ochenta y dos metros diez y ocho centímetros hasta F. De F seguí en el mismo sentido de la mensura general hasta A. De A por el rumbo N 31° 09′ O norte treinta y un grados nueve minutos Oeste medí 982.24 novecientos ochenta y dos metros veinte y cuatro centímetros hasta H. —",
+    "Superficie: 98 h.s 34 a.s 54 c.s noventa y ocho hectáreas treinta y cuatro áreas cincuenta y cuatro centiáreas:",
+    "Linderos: por el Nor Este D. Nicolas Garibotte por el sud Este Frías y Cano por el Sud Oeste Lizola por el Nor Oeste la fraccion de D. Manuel José Ormaechea. —",
+    "Habiendo terminado con esto la division del terreno en la parte que se refiere á las siete ramas principales de la sucesion de Don Juan Ormaechea y Doña Victoria Reyes.",
+    "— Subdivision —",
+    "Me refiero en este párrafo aparte á la division de la fraccion correspondiente á la rama"
+   ],
+   "interpretacion": "6.ª Manuel José: I-G 982,56; G-H 998,05; H-J 982,63 m. 7.ª Juan Antonio (la declaratoria dice Manuel Antonio): G-F 982,18; F-A 992,40; A-H 982,24 m, contra Frías y Cano. Verificado: los tramos del costado SO suman exactamente 6883 m y los del NE 6619 m."
+  },
+  {
+   "titulo": "Folio 10 · subdivisión de la rama de Domingo",
+   "img": "img/f/160/25.jpg",
+   "fuente": "IMG_0465.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "de Don Domingo Ormaechea esclusivamente puesto que la sucesion de cada una de las ramas siguientes han enajenado sus derechos y acciones á la parte que pudiere corresponderles en la liquidacion de los bienes dejados por la rama principal. Segun la declaratoria de herederos vemos que se declaran únicos y universales herederos de D. Domingo Ormaechea i Reyes á D. Juan Julian y Martina Ormaechea y Moreyra, por muerte de esta última sus cuatro hijos Eufemia — Presentacion — María y Patricio Peñalva y Ormaechea y por fallecimiento de este último sus hijos — Claudia — Facunda — Isidora — Patricio — Victoria y Catalina Peñalva y Suarez — y por fallecimiento de esta última sus cinco hermanos segun el escrito del tutor D.r Enrique Rivarola haciendo esa manifestacion en virtud de la partida de defuncion. —",
+    "Ahora bien la fraccion adjudicada á la rama de D. Domingo Ormaechea debe dividirse en dos partes una para Don Juan Julian Ormaechea y Moreyra y la otra para los herederos de Doña Martina que á mas de los declarados son Don Venancio Peñalva y Ormaechea y Doña Isidora Martina Aparicio ó sean 49 h.s 17 a.s 27 c.s 0.42 cuarenta y nueve hectáreas diez y siete áreas, veinte y siete centiáreas y cuarenta y dos centésimos [entre renglones] para cada parte.",
+    "Subrama de Doña Martina Ormaechea y Moreyra",
+    "Para dividir la fraccion correspondiente á esta rama me situé en el punto E y por el rumbo S 31° 29′ E sud treinta y un grados veinte y nueve minutos Este medí 767.76 setecientos sesenta y siete metros setenta y seis centímetros hasta f donde dejé una señal, en f cuadré al norte 58° 31′ E norte cincuenta y ocho grados treinta y un minutos Este y medí 614.96 seiscientos catorce metros noventa y seis centímetros hasta g dejando una señal en g cuadré al N 31° 29′ E [sic, por O] norte treinta y un grados veinte y nueve minutos Oeste"
+   ],
+   "interpretacion": "Sólo se subdivide la rama de Domingo, «puesto que la sucesión de cada una de las ramas siguientes han enajenado sus derechos»: las ramas 2.ª a 7.ª ya son de Bertram. Domingo se parte en dos mitades de 49 ha 17 a 27,42 ca: Juan Julián Ormaechea y Moreyra y los herederos de Martina (seis, incluidos Venancio Peñalva e Isidora Martina Aparicio). Subrama de Martina: E-f 767,76; f-g 614,96 m."
+  },
+  {
+   "titulo": "Folio 10 vuelto · fracciones de Martina y de Juan Julián; seis herederos de Martina",
+   "img": "img/f/160/26.jpg",
+   "fuente": "IMG_0466.JPG (mitad izquierda)",
+   "nota": "El lado E-a se repite como «243.34» (arriba y en el plano 94,34).",
+   "lineas": [
+    "y medí 496.16 cuatrocientos noventa y seis metros diez y seis centímetros hasta C. De C seguí el mismo sentido de la mensura general hasta llegar á E. — Resultando las siguientes fracciones:",
+    "Fraccion de Doña Martina Ormaechea y Moreyra",
+    "Es la comprendida por las letras f. g. C D E y el arroyo del sauce: Superficie 49 h.s 17 a.s 27 c.s y 0.42. —",
+    "Fraccion de Don Juan Julian Ormaechea y Moreyra",
+    "Es la comprendida por las letras f. Q R B C g. Superficie: 49 h.s 17 a.s 27 c.s y 0.42 cuarenta y nueve hectáreas diez y siete áreas veinte y siete centiáreas y cuarenta y dos centésimos. —",
+    "División",
+    "Rama de Doña Martina Ormaechea y Moreyra.",
+    "Siendo la superficie de la fraccion adjudicada para la sucesion de Doña Martina de 49 h.s 17 a.s 27 c.s 0.42 cuarenta y nueve hectáreas diez y siete áreas veinte y siete centiáreas y cuarenta y dos centésimos, y como esta ha dejado seis herederos declarados que son los siguientes — Eufemia, Presentacion — María y Patricio, Venancio é Isidora Martina Aparicio, corresponde á cada uno de estos herederos una fraccion de campo de 8 h.s 19 a.s 54 c.s 0.57 ocho hectáreas, diez y nueve áreas cincuenta y cuatro centiáreas y cincuenta y siete centésimos: Para ubicar cada una de estas fracciones, empezé á medir del punto E hacia F con rumbo S 31° 29′ E sud treinta y un grados veinte y nueve minutos Este 94.34 noventa y cuatro metros, treinta y cuatro centímetros hasta a donde puse una señal, y en a cuadré al N 58° 31′ E cincuenta y ocho grados treinta y un minutos Este y medí 565.86 quinientos sesenta y cinco metros ochenta y seis centímetros hasta l [?] donde dejé una señal quedando así separada la fraccion de D.ª Isidora Martina Aparicio ubicada con frente al arroyo del Sauce — sus lados y distancias son — Ea = 243.34 [sic; arriba 94.34] doscientos cuarenta y tres metros treinta y cuatro centímetros. —"
+   ],
+   "interpretacion": "Martina: f-g-C-D-E y el arroyo del Sauce; Juan Julián: f-Q-R-B-C-g (en el plano «hoy Bertram»). A cada heredero de Martina 8 ha 19 a 54,57 ca. La faja de Isidora Martina Aparicio da frente al arroyo del Sauce (E-a, a-l 565,86, l-D 118,80 m)."
+  },
+  {
+   "titulo": "Folio 11 · fajas de Patricio, Venancio y María Peñalva",
+   "img": "img/f/160/27.jpg",
+   "fuente": "IMG_0466.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "a l = 565.86 quinientos sesenta y cinco metros ochenta y seis centímetros",
+    "l D = 118.80 ciento diez y ocho metros ochenta centímetros y el arroyo del Sauce. —",
+    "De a seguí midiendo en el sentido de F, con el mismo rumbo y á los 234.39 doscientos treinta y cuatro metros treinta y nueve centímetros llegando á b y puse señal, en b cuadré al N 58° 31′ E norte cincuenta y ocho grados treinta y un minutos Este y medí 604.70 seiscientos cuatro metros setenta centímetros hasta k donde puse una señal, quedando de esta manera ubicada la fraccion correspondiente á D. Patricio Peñalva y Ormaechea sus lados y distancias son:",
+    "a b = 140.05 ciento cuarenta metros cinco centímetros. —",
+    "b k = 604.70 seiscientos cuatro metros setenta centímetros",
+    "k l = 145.30 ciento cuarenta y cinco metros treinta centímetros",
+    "l a = 565.86 quinientos sesenta y cinco metros ochenta y seis centímetros",
+    "De b seguí midiendo en el sentido de F, con el mismo rumbo y á los 367.97 trescientos sesenta y siete metros noventa y siete centímetros llegando á c y puse señal, en c cuadré al N 58° 31′ E norte cincuenta y ocho grados treinta y un minutos Este y medí 614.96 seiscientos catorce metros noventa y seis centímetros hasta j [?]; de j por el rumbo N 31° 29′ O norte treinta y un grados veinte y nueve minutos Oeste medí 96.38 noventa y seis metros treinta y ocho centímetros hasta C y desde este punto con rumbo N 46° 55′ O norte cuarenta y seis grados cincuenta y cinco minutos Oeste medí 38.60 treinta y ocho metros sesenta centímetros hasta k la cual ubicacion he practicado para D. Venancio Peñalva. De c seguí midiendo hacia F y á los 501.23 quinientos un metros veinte y tres centímetros hasta d donde puse señal. En d cuadré en el mismo sentido que el anterior y medí 614.96 seiscientos catorce metros noventa y seis centímetros hasta i quedando así separada la fraccion para D.ª María Peñalva. — De d seguí midiendo hacia F y á los 634.50 seiscientos treinta y cuatro metros cincuenta centímetros hasta e puse señal. En e cuadré en el mismo"
+   ],
+   "interpretacion": "Fajas paralelas sobre el costado SO, perpendiculares a él: Patricio a-b 140,05 × 604,70 m; Venancio hasta c (367,97) con un quiebre contra C; María hasta d (501,23) × 614,96 m. Verificado: 133,26 × 614,96 = 8,195 ha."
+  },
+  {
+   "titulo": "Folio 11 vuelto · Presentación y Eufemia; la fracción de Patricio para cinco menores",
+   "img": "img/f/160/28.jpg",
+   "fuente": "IMG_0467.JPG (mitad izquierda)",
+   "nota": "El rumbo se copia «N 51° 81′ E» por N 58° 31′ E (los minutos no pueden pasar de 59).",
+   "lineas": [
+    "sentido que el anterior y medí 614.96 seiscientos catorce metros noventa y seis centímetros hasta h quedando separada la fraccion para Doña Presentacion Peñalva. — De e seguí midiendo hacia F y á los 767.76 setecientos sesenta y siete metros setenta y seis centímetros punto f puse señal, en f cuadré al N 51° 81′ [sic, por 58° 31′] E Norte cincuenta y ocho grados treinta y un minutos Este medí 614.96 seiscientos catorce metros noventa y seis centímetros hasta g, quedando de esta manera separada la fraccion de D.ª Eufemia Peñalva y por consiguiente cada una de las seis fracciones en que debia dividirse la fraccion total de Doña Martina Ormaechea y Moreyra. —",
+    "Division",
+    "Fraccion de D. Patricio Peñalva.",
+    "herederos menores.",
+    "Ya hemos visto mas atrás, que los herederos dejados por D. Patricio eran sus seis hijos, Claudia, Facunda, Isidora, Patricio, Victoria y Catalina y por muerte de esta última sus hermanos. En efecto, siendo la superficie adjudicada á D. Patricio Peñalva de 8 h.s 19 a.s 54 c.s 0.57 ocho hectáreas diez y nueve áreas, cincuenta y cuatro centiáreas y cincuenta y siete centésimos, corresponde pues á cada heredero una fraccion de superficie igual á 1 h.s 63 a.s 92 c.s una hectárea sesenta y tres áreas y noventa y dos centiáreas. Esto supuesto, del punto a medí hacia b y con el rumbo S 31° 29′ E sud treinta y un grados veinte y nueve minutos Este 140.05, ciento cuarenta metros cinco centímetros hasta b y en b cuadré al N 58° 31′ E norte cincuenta y ocho grados treinta y un minutos Este y á los 117.03 ciento diez y siete metros tres centímetros hasta n puse señal y cuadré al N 31° 29′ O norte treinta y un grados veinte y nueve minutos Oeste y medí el ancho de 140.05 ciento cuarenta metros cinco centímetros hasta m separando la fraccion de Doña Claudia Peñalva.",
+    "De b seguí midiendo en el sentido de k 234.06"
+   ],
+   "interpretacion": "Presentación (hasta e, 634,50) y Eufemia (hasta f, 767,76). La parte de Patricio Peñalva se subdivide entre cinco hijos menores: 1 ha 63 a 92 ca cada uno (8,1954/5 = 1,6391, verificado; 117,03 × 140,05 = 1,6390 ha). Claudia Peñalva: rectángulo b-n-m."
+  },
+  {
+   "titulo": "Folio 12 · los menores Peñalva; firma (La Plata, 15/7/1891)",
+   "img": "img/f/160/29.jpg",
+   "fuente": "IMG_0467.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "doscientos treinta y cuatro metros seis centímetros hasta p puse señal y cuadré como en la fraccion anterior hasta o. A los 351.09 trescientos cincuenta y un metros nueve centímetros punto r cuadré en el sentido anterior hasta q con el ancho correspondiente separando así la fraccion de Facunda é Isidora Peñalva. A los 468.12 cuatrocientos sesenta y ocho metros doce centímetros t puse señal y cuadré como en las otras fracciones hasta s con el ancho correspondiente, poniendo señal y separando la fraccion de D. Patricio.",
+    "Quedan con esto separadas las cinco fracciones de los menores pues la 5.ª fraccion, de hecho queda separada. Cuatro de las fracciones son rectángulos de 117.03 ciento diez y siete metros tres centímetros por 140.05 ciento cuarenta metros cinco centímetros, solo la fraccion de la menor Victoria es de forma trapezoidal cuyas distancias son las siguientes:",
+    "lado t k = 136.58 ciento treinta y seis metros cincuenta y ocho centímetros,",
+    "lado k l = 145.30 ciento cuarenta y cinco metros treinta centímetros,",
+    "lado l s = 97.74 noventa y siete metros setenta y cuatro centímetros,",
+    "lado s t = 140.05 ciento cuarenta metros cinco centímetros",
+    "Al presentar esta diligencia creo haber llenado cumplidamente mi cometido, esponiendo con brevedad y claridad todo lo relacionado. Solo tengo que agregar, en cuanto al plano, he hecho en diferente escala la parte de la division de la fraccion de Martina Ormaechea y Moreyra para mejor comprender sus detalles lados, y distancias. —",
+    "La Plata Provincia de Buenos Aires Julio 15/91",
+    "L. G. Klappenbach",
+    "Agr. Púb.co",
+    "[Sello ovalado: DEPARTAMENTO DE INGENIEROS · Entrada · JUL 28 1891.] [Rúbrica al pie.]"
+   ],
+   "interpretacion": "Facunda, Isidora y Patricio reciben rectángulos de 117,03 × 140,05 m; Victoria, el trapecio t-k-l-s (136,58; 145,30; 97,74; 140,05). Verificado: 4 × 117,03 + 136,58 = 604,70 = b-k. Plano con un detalle a otra escala. Firma de Klappenbach, Agrimensor Público; entrada al Departamento de Ingenieros 28/7/1891."
+  },
+  {
+   "titulo": "Folio 12 vuelto · informe del Departamento (21/7/1891) y nota de 1927",
+   "img": "img/f/160/30.jpg",
+   "fuente": "IMG_0468.JPG (mitad izquierda)",
+   "nota": "El informe (21/7) lleva fecha anterior al sello de entrada (28/7).",
+   "lineas": [
+    "~~[palabras tachadas]~~:",
+    "El Departamento de Ingenieros ha examinado la mensura y division practicada por el agrimensor Klappenbach en un campo perteneciente á la testamentaria de D.ⁿ Juan Ormaechea y D.ª Victoria Reyes, situado en el partido de Giles y no encuentra que observar acerca de la operacion geométrica; sin embargo este Departamento es de opinion que antes de ser aprobada judicialmente por V. S. debe dársele vista á los linderos Señores Cano, R. Torres y Lizola al primero por no haber firmado la circular de linderos y á los dos últimos por haberlo hecho á su nombre D.ª Felisa Ormaechea.",
+    "Falta ademas agregar el sello correspondiente á la peticion de mensura. — Julio 21 de 1891.",
+    "Julio [?] Serna — [firma] Lagos [?]",
+    "Carlos M. Albarracin — Benjamin Sal [?]",
+    "[Nota posterior, otra mano:] Agosto 18/927. — En la fecha informé el Expediente J 89/927, sobre posesion treintenaria á favor de Doña Angela Lucchini [?] de Ormaechea en una fraccion del campo de que trata esta mensura.",
+    "Juz. Dr. Berri — Secr. Angé [?].",
+    "Cop. 77 fs. 151",
+    "[Rúbrica]"
+   ],
+   "interpretacion": "Nada que observar en la geometría, pero pide dar vista a Cano (no firmó) y a R. Torres y Lizola (firmó por ellos Felisa Ormaechea); falta el sello de la petición. Firmas Julio [?] Serna, Lagos [?], Carlos M. Albarracín y Benjamín Sal [?], las mismas que en la 159. Nota del 18/8/1927: expediente J 89/927 de posesión treintañal a favor de Ángela Lucchini [?] de Ormaechea sobre una fracción de este campo (juez Dr. Berri)."
+  },
+  {
+   "titulo": "Plano de mensura y división (vista general)",
+   "img": "img/f/160/03.jpg",
+   "fuente": "IMG_0469.JPG",
+   "nota": "Tomas 0469 (general), 0470-0474 (detalles) y 0475 (detalle de la sub-rama de Martina).",
+   "lineas": [
+    "PLANO DEL TERRENO DE LA TESTAMENTARIA DE D.ⁿ JUAN ORMAECHEA Y DE D.ª VICTORIA REYES. PARTIDO DE GILES. SUP.cie TOTAL 688 H.s 41 A.s 84 C.as. Escala de 1:20 000 [?] (100 m).",
+    "Polígono A-B-C-D-E-F: N 31° 09′ O = 6619,00 (costado NE, linderos Meliton Rodriguez y Nicolas Garibotte); S 31° 29′ E = 6883,00 (costado SO, linderos Enrique Rodriguez, Toribio Lezano, P. Risso, Emilia Torres, R. Torres, Lizola); N 57° 49′ E = 992,40 (costado SE, Frías y Cano); S 55° 58′ O = 419,20 (B-C, F. Maldonado); N 46° 55′ O = 281,70 (C-D); D-E sobre el arroyo del Sauce contra Pedro Altaparro.",
+    "Lotes: 1.ª rama D. Domingo Ormaechea (Juan Julian Ormaechea, «hoy Bertram», 49 H. 17 A. 27 C. 0,42; Martina Ormaechea, 49 H. 17 A. 27 C. 0,42); 2.ª rama Basilio Ormaechea; 3.ª D.ª Dominga Ormaechea; 4.ª D.ª María Nieves Ormaechea; 5.ª D.ª Juana Luisa Ormaechea; 6.ª D. Manuel José Ormaechea; 7.ª D. Juan Antonio Ormaechea; todas «hoy Bertram», Sup. = 98 H. 34 A. 54 C.s c/u.",
+    "Rasgos dibujados: arroyo del Sauce (O), cañada de la Cruz y un arroyito afluente (E, en las ramas 6.ª y 7.ª), camino de Carlos Keen á Azcuénaga [rotulado «Camino… Azcuenaga»] cruzando en diagonal las ramas 1.ª-4.ª, Tramway Rural (ramas 3.ª-4.ª), alambrado del F. C. Central Argentino (ramas 5.ª-7.ª); progresivas de mojones (M. P.), «puerta» y alambrados sobre el costado NE.",
+    "[En lápiz azul:] dup.º 121.",
+    "La Plata Julio 15/91 — El Agrimensor Público L. G. Klappenbach. [Al margen derecho, cálculos en lápiz.]"
+   ],
+   "interpretacion": "Ver la sección de planos."
+  },
+  {
+   "titulo": "Plano: detalle de la sub-rama de Martina Ormaechea",
+   "img": "img/f/160/06.jpg",
+   "fuente": "IMG_0475.JPG",
+   "nota": "",
+   "lineas": [
+    "DIVISION. SUB-RAMA DE D.ª MARTINA ORMAECHEA Y MOREYRA. Escala de 1:5000 [?].",
+    "Fajas de E hacia f sobre el costado SO (progresivas 94,34 · 234,39 · 367,97 · 501,23 · 634,50 · 767,76): Isidora Aparicio (Sup. 8 H. 19 A. 54 m.² 0,57) con frente al arroyo del Sauce; Patricio Peñalva y Ormaechea subdividido en cinco parcelas para Claudia, Facunda, Isidora [?], Patricio y Victoria Peñalva (1 H. 63 A. 92 c/u); Venancio Peñalva y Ormaechea; María Peñalva y Ormaechea; Presentacion Peñalva y Ormaechea; Eufemia Peñalva y Ormaechea (8 H. 19 A. 54 0,57 c/u). Fondo: Juan Julian Ormaechea. Linderos: F. Maldonado, Pedro Altaparro, Enrique Rodriguez."
+   ],
+   "interpretacion": "Ver la sección de planos."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de la testamentaría de Juan Ormaechea y Victoria Reyes (Klappenbach, La Plata, 15 de julio de 1891)",
+   "img": "img/f/160/03.jpg",
+   "fuente": "IMG_0469.JPG (vista general; detalles IMG_0470-0474)",
+   "orientacion": "flechas al NO (arriba a la izquierda); el costado NE arriba, el arroyo del Sauce a la izquierda",
+   "interpretacion": "Plano en papel entelado, título en letra de molde y bordes de cada rama en colores (rojo, verde, azul, amarillo). Una banda larga y estrecha de ≈ 6,7 × 1 km dividida en siete rectángulos casi iguales («1.ª a 7.ª rama»), con la leyenda «HOY BERTRAM» en las ramas 2.ª a 7.ª y en la mitad de Juan Julián. Arriba Melitón Rodríguez y Nicolás Garibotte; abajo Enrique Rodríguez, Toribio Lezano, P. Risso, Emilia Torres, R. Torres y Lizola; a la izquierda F. Maldonado y Pedro Altaparro con el arroyo del Sauce; a la derecha Frías y Cano. Dibujados: el camino a Azcuénaga en diagonal sobre las ramas 1.ª-4.ª, el «Tramway» rural sobre las 3.ª-4.ª, el alambrado del F. C. Central Argentino sobre las 5.ª-7.ª, la Cañada de la Cruz y un arroyito en las 6.ª-7.ª. Al pie, un recuadro con la «División · Sub-rama de D.ª Martina Ormaechea y Moreyra» a escala mayor. En lápiz azul: «dup.º 121».",
+   "referencias": [
+    [
+     "A",
+     "Esquinero E (mojón de Gonnet, 1866); arranque"
+    ],
+    [
+     "B",
+     "Esquinero N, contra Melitón Rodríguez y F. Maldonado"
+    ],
+    [
+     "C · D",
+     "Entrante de Maldonado; D sobre el arroyo del Sauce"
+    ],
+    [
+     "E",
+     "Esquinero O, contra Pedro Altaparro y Enrique Rodríguez"
+    ],
+    [
+     "F",
+     "Esquinero S, contra Lizola, Frías y Cano"
+    ],
+    [
+     "Q-R · O-P · M-N · K-L · I-J · G-H",
+     "Divisorias de las siete ramas, N 58° 31′ E"
+    ],
+    [
+     "N 31° 09′ O = 6619,00",
+     "Costado NE"
+    ],
+    [
+     "S 31° 29′ E = 6883,00",
+     "Costado SO"
+    ],
+    [
+     "N 57° 49′ E = 992,40",
+     "Costado SE"
+    ],
+    [
+     "Ramas 2.ª-7.ª",
+     "Basilio, Dominga, María Nieves, Juana Luisa, Manuel José, Juan Antonio: «hoy Bertram», 98 ha 34 a 54 ca c/u"
+    ],
+    [
+     "1.ª rama",
+     "Domingo: Juan Julián (hoy Bertram) y Martina, 49 ha 17 a 27 ca c/u"
+    ],
+    [
+     "Firma",
+     "«La Plata, Julio 15/91 · El Agrimensor Público L. G. Klappenbach»"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: rama de Domingo y 2.ª rama contra el arroyo del Sauce",
+   "img": "img/f/160/04.jpg",
+   "fuente": "IMG_0470.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "Extremo NO: el entrante de F. Maldonado (B-C-D), el arroyo del Sauce con las ordenadas 31, 61, 42 y 149 m, las fajas de los Peñalva dentro de la mitad de Martina y la mitad de Juan Julián «hoy Bertram». Progresivas de mojones (1735 M. P., 5119,20 M. P.) y la «puerta» a 5401,40 sobre el costado NE.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: 6.ª y 7.ª rama, Cañada de la Cruz y ferrocarril",
+   "img": "img/f/160/05.jpg",
+   "fuente": "IMG_0474.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "Extremo SE: la Cañada de la Cruz y su arroyito afluente atraviesan las ramas de Manuel José y Juan Antonio; el «alambrado del F. C. Central Argentino» cruza en diagonal; progresivas 1024-1034, 1222-1232 sobre A-B y 5610-5623 sobre E-F; a la derecha Frías y Cano.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: división de la sub-rama de Martina Ormaechea y Moreyra",
+   "img": "img/f/160/06.jpg",
+   "fuente": "IMG_0475.JPG",
+   "orientacion": "flecha al NO",
+   "interpretacion": "Recuadro a escala mayor: seis fajas perpendiculares al costado SO (Isidora Aparicio con frente al Sauce, Patricio, Venancio, María, Presentación y Eufemia Peñalva y Ormaechea, 8 ha 19 a 54,57 ca c/u); la de Patricio cortada en cinco parcelas para sus hijos menores. Al fondo, Juan Julián Ormaechea.\nE · a · b · c · d · e · f\nProgresivas 0 · 94,34 · 234,39 · 367,97 · 501,23 · 634,50 · 767,76 sobre el costado SO\nm · n · o · p · q · r · s · t\nParcelas de los menores de Patricio Peñalva (117,03 × 140,05 m)",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "La línea A-B es un transecto de 6,6 km del paisaje de 1891 entre la Cañada de la Cruz y el arroyo del Sauce: dos arroyitos que se cruzan dos veces cada uno (meandros de 8-10 m de anchura de cruce), la Cañada de la Cruz (10 m), el camino VIEJO de Carlos Keen a Azcuénaga «que no es ahora de tránsito» y, 480 m más allá, el ACTUAL, de 34 m de ancho; los dos alambrados del Tramway Rural (12 m entre sí), una calle, un alambrado y una PUERTA en el campo de Melitón Rodríguez. Sobre E-F, el F. C. Central Argentino ocupa 82 m entre alambrados. No se nombra ninguna población, rancho ni monte: el campo, en manos de un cesionario, aparece vacío de casas. Al NO el arroyo del Sauce hace de límite natural con ordenadas medidas al arroyo."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Circular y acta firmadas por casi todos los linderos, pero con tres rasgos: firmas «á ruego» de hijas por padres analfabetos (Isabel R. de Navarro por Enrique Rodríguez; Bernardino E. Rodríguez por Melitón), una heredera, Felisa Ormaechea, que firma por DOS linderos (Ruperto Torres y Mariano Lizola) y un propietario (Cano) ausente, «sin persona alguna en el campo». El Departamento de Ingenieros no acepta esas firmas: pide vista a Cano, Torres y Lizola antes de la aprobación. La división se pacta antes de medir entre apoderados: Bertram al SE, los herederos al NO; el agrimensor ejecuta un convenio."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Klappenbach no redetermina el campo: arranca del mojón A de Gonnet (1866) y verifica el frente vecino de Enrique Rodríguez (0,70 m de diferencia, «dentro del error dispensado por el reglamento»). Divide por perpendiculares al costado SO (N 58° 31′ E) dejando «señales» en cada vértice, y mide el borde del arroyo por ordenadas desde la línea D-E. Verificado en python: el hexágono cierra con 3,1 m de error (686,14 ha sin la franja del arroyo); cada rama cierra con 98,35 ha; los tramos de los costados suman exactamente 6883 y 6619 m. El lote de Domingo no cierra (≈ 12 m) y la mitad de Juan Julián da 48,1 ha contra 49,17: el error está en Q-R o R-B. Variación 11° 08′ NE."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todo en metros, pero el título se piensa en varas: frente de 1500 v (1299 m) reducido a 1169 v (1012,35 m), fracciones de 166 y 165 v, fondo de «una legua y mil novecientas varas» (7900 v = 6841 m). Verificado: la «superficie del título» de 692,5891 ha = 1169 × 7900 v² × 0,866². El frente original de 1500 v / 9 hijos = 166,7 v: las fracciones de 166 y 165 v vendidas a Quevedo son exactamente dos novenos. Las cuotas finales bajan a 1 ha 63 a 92 ca (117,03 × 140,05 m): 1/420 del campo para cada menor Peñalva."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Una merced de 1735 (regidor Juan M. Bergara) pasa por donación a Pedro Díaz de Vivar y por venta (1804) a Juan de Ormaechea; en 1891 la tierra sigue indivisa 87 años después, con herederos de cuarta y quinta generación. Dos hijas vendieron temprano a los Quevedo (1812, 1827) y sus partes ya se poseen como de Quevedo. Guillermo (Wilhelm) Bertram compró las acciones de seis ramas y media: la división es en realidad la separación entre un comprador de derechos sucesorios y la última rama campesina (Peñalva y Ormaechea), que queda fragmentada hasta parcelas de 1,6 ha. En 1927 una viuda Ormaechea pide posesión treintañal sobre una fracción: la ocupación sobrevivió a la división."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "036 (Gonnet 1866): misma tierra, mismo mojón A; Klappenbach copia su diligencia y fija el auto de aprobación de 1881. 042 (Affre 1866): Pablo Affre, apoderado de las viudas Ormaechea, es el vecino NE cuya faja pasó a Melitón Rodríguez (121, Meyrelles 1882, «véase dup.º 121»); en 121 ya figuraba Bertram al SO. Rumbos: 121 da S 30° 53′ E con variación 11° 25′; aquí N 31° 09′ O con 11° 08′: el rumbo magnético resulta idéntico (137° 42′-43′), de modo que la diferencia es sólo de declinación adoptada. 049, 073 y otras fajas Quevedo: los 8620 m de Gonnet y el mojón de piedra de Tadeo Rodríguez. 159: mismo plantel del Departamento (Serna, Lagos, Albarracín, Sal) tres días después, y la misma observación del sello faltante."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Texto completo (fs. 1-12 v.), plano general y detalle; falta el auto de aprobación (el D. I. pedía vista a tres linderos). Pendientes: lectura del segundo nombre de la portadilla del secretario (César [?] Langenheim, conocido de la 150) y de los firmantes del D. I.; la letra del vértice l/k en la subdivisión; el error de cierre del lote de Domingo; ¿quién es «Cano», ausente? Para el GIS: el cruce del camino actual de Carlos Keen a Azcuénaga a 2923,60 m de A, los alambrados del tranvía (3266) y del F. C. Central (4391-4473 sobre E-F; 820-846 sobre F-A) son anclas precisas."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Juan de Ormaechea (Ormachea) y Victoria Reyes",
+   "rol": "Causantes",
+   "texto": "Compradores en 1804 de las «cabezadas» de Díaz de Vivar al otro lado del río de Luján; nueve hijos: Domingo, Basilio, Dominga, Claudia, Gregoria, María Nieves, Juana Luisa (Lucía), Manuel José y Manuel (o Juan) Antonio.",
+   "fuentes": "Este duplicado; Ficha 036."
+  },
+  {
+   "nombre": "Pedro Díaz de Vivar",
+   "rol": "Vendedor (1804)",
+   "texto": "Vende a Ormaechea tierras de la merced Bergara recibidas por donación de Teodora de Leiva y Bergara; había vendido otras al Santuario de Luján. Su línea de merced reaparece como «línea de Vivar» en las fichas del Sauce.",
+   "fuentes": "Este duplicado; fichas 039, 122."
+  },
+  {
+   "nombre": "Teodora de Leiva y Bergara; Juan M. Bergara",
+   "rol": "Antecesores",
+   "texto": "Viuda del capitán de Dragones Manuel de la Riva, heredera de Juana y Antonia de Leiva y Bergara, sucesoras del regidor Juan M. Bergara, que recibió la merced ante el escribano Alonso Agreda de Bergara (diciembre de 1735).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Guillermo (Wilhelm) Bertram",
+   "rol": "Cesionario",
+   "texto": "Comprador de acciones de varios herederos; recibe las ramas 2.ª a 7.ª y la mitad de Juan Julián («hoy Bertram»), ≈ 639 ha. Ya figura como lindero SO de la 121 en 1882. Representado por Fortunato Piñero.",
+   "fuentes": "Este duplicado; Ficha 121."
+  },
+  {
+   "nombre": "Juan Julián Ormaechea y Moreyra; Martina Ormaechea y Moreyra y sus hijos Peñalva y Ormaechea",
+   "rol": "Herederos de la rama de domingo",
+   "texto": "Nietos de los causantes. Martina deja a Eufemia, Presentación, María, Patricio y Venancio Peñalva y a su nieta Isidora Martina Aparicio (hija de Juana Peñalva). Los hijos menores de Patricio (Claudia, Facunda, Isidora, Patricio, Victoria; Catalina murió en 1891) reciben 1,64 ha cada uno, bajo la tutela del Dr. Enrique C. Rivarola.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Felisa Ormaechea",
+   "rol": "Heredera y firmante",
+   "texto": "Hija de Estefanía Ormaechea y Moyano (rama de Manuel José); firma la circular por los linderos Ruperto Torres y Mariano Lizola, lo que observa el Departamento.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Pablo Affre y las viudas Isidora Ormachea, Ramona Moyano y Josefa Arévalo",
+   "rol": "Apoderado y poderdantes (1866)",
+   "texto": "Affre, vecino NE con su faja propia (042), gestionó la mensura de Gonnet por poder del 19/2/1866 otorgado ante el juez de paz Carlos M.ª Farías.",
+   "fuentes": "Este duplicado; fichas 036, 042."
+  },
+  {
+   "nombre": "Luis G. Klappenbach",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor público con domicilio en La Plata; primera aparición en las fichas de Giles. Prosa ordenada en títulos, mensura, división y subdivisión; plano en colores con detalle a otra escala. La búsqueda web no dio datos biográficos.",
+   "fuentes": "Este duplicado; búsqueda web sin resultados útiles."
+  },
+  {
+   "nombre": "E. Gonnet",
+   "rol": "Agrimensor (1866)",
+   "texto": "Midió el campo en marzo de 1866 (686,87 ha); su mensura, protestada, fue aprobada en 1881 y prevaleció sobre la de Muñiz para Quevedo. Su mojón A sirve de arranque en 1891.",
+   "fuentes": "Fichas 036, 040-042."
+  },
+  {
+   "nombre": "Ignacio M. Gómez; César [?] Langenheim; Valentín Fernández Blanco; Dr. Bustos",
+   "rol": "Jueces y secretario",
+   "texto": "Gómez, juez civil del Departamento de la Capital (La Plata), nombra a Klappenbach; Langenheim fue secretario también en la 150. Fernández Blanco dictó la declaratoria de 1889; Bustos tramitó el expediente de mensura de 1866-1881.",
+   "fuentes": "Este duplicado; Ficha 150."
+  },
+  {
+   "nombre": "Enrique C. Rivarola, Juan Coronado, Fortunato Piñero",
+   "rol": "Apoderados (1891)",
+   "texto": "Rivarola, tutor de los menores Peñalva; Coronado, por Presentación Peñalva y otros; Piñero, por Bertram. Convinieron la ubicación de las partes y propusieron al agrimensor.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Linderos de 1891",
+   "rol": "Linderos",
+   "texto": "Melitón Rodríguez (faja de la 121) y Nicolás Garibotte (pulpería Garibotti en la 121) al NE; N. Frías y Cano al SE; Enrique Rodríguez, Toribio Lezano, Paolo (Pablo) Risso, Emilia y Ruperto Torres y Mariano Lizola al SO; Pedro Altaparro y el terreno que fue de Francisco Maldonado (firma un Ortiz) al NO. Vecindario criollo e italiano.",
+   "fuentes": "Este duplicado; Ficha 121."
+  },
+  {
+   "nombre": "Manuel Quevedo, Juan Manuel Quevedo, Felipa Quevedo, Tadeo Rodríguez",
+   "rol": "Vecinos y compradores antiguos",
+   "texto": "Manuel Quevedo compra a Claudia Ormaechea en 1812 y Juan Manuel a Gregoria en 1827; Felipa Quevedo, medida por Muñiz en 1865; el mojón de piedra de Tadeo Rodríguez cierra la serie de títulos al SO.",
+   "fuentes": "Este duplicado; fichas 036, 049, 073."
+  },
+  {
+   "nombre": "Julio [?] Serna, Lagos [?], Carlos M. Albarracín, Benjamín Sal [?]",
+   "rol": "Departamento de ingenieros",
+   "texto": "Informe del 21/7/1891; el mismo plantel firma la 159 el 24/7/1891.",
+   "fuentes": "Este duplicado, f. 12 v.; Ficha 159."
+  },
+  {
+   "nombre": "Ángela Lucchini [?] de Ormaechea",
+   "rol": "Poseedora (1927)",
+   "texto": "Beneficiaria de una información de posesión treintañal sobre una fracción del campo (exp. J 89/927, juez Dr. Berri).",
+   "fuentes": "Nota marginal de 1927, f. 12 v."
+  }
+ ],
+ "portadilla": {
+  "img": "",
+  "fuente": "transcripción · IMG_0455.JPG",
+  "lineas": [
+   "San A. de Giles — 1891 — N.º 160",
+   "— Año 1891 —",
+   "Duplicado de la mensura y division del terreno perteneciente á la sucesion de Don Juan Ormaechea y Doña Victoria Reyes situado en el partido de San Andres de Giles. —",
+   "Agrimensor L. G. Klappenbach",
+   "[En lápiz azul:] Véase dup.º 121",
+   "Juez Dr. Ignacio M. Gomez — Secretario Cesar [?] Langenheim",
+   "[Al pie, cifra subrayada:] 3.307.114."
+  ]
+ },
+ "titulo": "Sucesión Juan Ormaechea y Victoria Reyes",
+ "estado": "Transcripta (26 hojas, 171 renglones), 4 láminas"
+}

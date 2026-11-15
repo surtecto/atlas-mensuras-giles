@@ -1,0 +1,584 @@
+{
+ "carpeta": "164",
+ "carpeta_nombre": "Carpeta 164",
+ "archivo": "Ficha 164 - Herederos de Fernando Díaz (1892).docx",
+ "resumen": {
+  "N.º de duplicado": "164 (Giles); a lápiz en la portadilla «3.107.277»",
+  "Propietario / solicitante": "Herederos de Fernando Díaz",
+  "Agrimensor": "Juan J. Aranguren",
+  "Año": "1891-1892",
+  "Fecha de la diligencia": "Comisión 27/11/1891; mensura desde el 25/12/1891; firma set. 1892; D. I. 17/11/1892",
+  "Ubicación": "Cuartel 3.º de Giles, al S del pueblo, entre Glesson, Ninet, los González y Díaz de Vivar",
+  "Orden judicial": "Juez Civil y Com. del Dto. del Centro (Mercedes); partición aprobada por R. Etcheverry",
+  "Vendedor / antecesor": "Feliciana Torres de Díaz (1849) → Fernando Díaz; permuta con Romana Díaz 1871",
+  "Linderos citados": "S. Glesson (NO); P. Peñalva y P. B. Ninet (SO); F., M. y Felipa González (SE); Vivar (NE)",
+  "Medidas": "A-B 2134,80; B-C 440,80; C-D 1731,40; D-E 2172,80; E-F 3842,30; F-A 1732 m",
+  "Rumbos": "S 29° 53′ E / S 60° 42′ [O] / S 29° 59′ E / N 60° 10′ E / N 29° 58′ O / S 60° 47′ O",
+  "Referencia de archivo": "AHG PBA, duplicado 164 de Giles"
+ },
+ "metricas": {
+  "superficie_ha": "743,76 en 10 lotes (749,2060 según la sucesión; 743,15 calculadas)",
+  "hitos": "mojones de ñandubay A-F y a-s; portadas, alambrados, puesto de Antonio E. Díaz",
+  "aguas": "un arroyo (dos o tres «arroyitos» en A-B y E-F)"
+ },
+ "sintesis": "Mensura y división de la estancia de Fernando Díaz y Torres, en el cuartel 3.º de Giles al S del pueblo, entre su viuda Florencia Antonia Navarro y nueve hijos o sus herederos. Los títulos remontan a la hijuela materna de 1849 (1500 × 7900 v de la herencia de Feliciana Torres de Díaz), a una permuta de 1871 con su hermana Romana y Toribio González y a una venta de 1883 a Santiago Glesson. Aranguren empieza el 25/12/1891: hexágono alambrado de 743 ha con mojones de ñandubay, cruzado por un arroyo, el Camino General de Giles a Luján y el camino de Mercedes, con el puesto de Antonio E. Díaz; el lado NE queda en disputa con los sobrantes de Díaz de Vivar (24,5-35 m). Diez lotes en dos columnas, con valor de 88,6229 $/ha. El D. I. aconseja aprobar el 17/11/1892.",
+ "caratula": {
+  "img": "img/f/164/01.jpg",
+  "fuente": "IMG_0519.JPG",
+  "campos": [
+   [
+    "N.º",
+    "164"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Fernando Diaz"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "J. J. Aranguren"
+   ],
+   [
+    "Año",
+    "1892"
+   ],
+   [
+    "Mes / Juzgado / Secretaría",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · encabezado y primer título (protocolización de la permuta)",
+   "img": "img/f/164/09.jpg",
+   "fuente": "IMG_0521.JPG",
+   "nota": "Hoja suelta fotografiada acostada (rot 90). Sello «FOJA 1». El nombre de la hermana se lee aquí «Romana»; en f. 1 vta. y f. 2 «Ramona». En 059 (Saubidet 1870) figura «Romana D. de González». Entre renglones, «pidiendo».",
+   "lineas": [
+    "[Sello circular con el número de foja: 1]",
+    "Duplicado de la diligencia de mensura practicada en terreno de propiedad de los herederos de Don Fernando Diaz, situado en el partido de San Andrés de Giles. —",
+    "Estracto de títulos",
+    "Mercedes, Mayo diez y ocho de mil ochocientos setenta y siete. — Don Felipe de San Martin en representacion de Don Fernando Diaz se presenta al Juzgado de Primera Instancia en lo Civil y Comercial del departamento del Centro, esponiendo que su representado posée en el partido de Giles, un terreno de pastoreo compuesto de tres millones, setecientas veinte mil varas cuadradas, el cual le correspondió por una permuta que otorgó con Doña Romana Diaz y su esposo Don Toribio Gonzalez, con fecha dos de Enero de mil ochocientos setenta y uno, ante el Juez de Paz del Partido de Giles Don Juan Silva y competente número de testigos según consta del documento original que acompaña, y que deseando protocolizar dicho título ocurre ‹pidiendo› que previa ratificacion de firmas y demás trámites de orden se mande hacer la protocolizacion solicitada.",
+    "Mercedes, Noviembre veintiseis de mil ochocientos ochenta y uno. — Corridos los trámites legales se manda en esta fecha hacer la protocolizacion solicitada en el registro del Escribano Ponsati. —"
+   ],
+   "interpretacion": "Encabezado del duplicado y «Estracto de títulos». Mercedes, 18/5/1877: Felipe de San Martín, apoderado de Fernando Díaz, pide ante el Juzgado Civil y Comercial del Departamento del Centro la protocolización de un terreno de pastoreo de 3.720.000 varas cuadradas que Díaz obtuvo por PERMUTA con Romana (Ramona) Díaz y su esposo Toribio González el 2/1/1871, ante el juez de paz de Giles Juan Silva y testigos. Mercedes, 26/11/1881: se manda protocolizar en el registro del escribano Ponsati."
+  },
+  {
+   "titulo": "Folio 1 vuelto · escritura de protocolización (6/12/1881)",
+   "img": "img/f/164/10.jpg",
+   "fuente": "IMG_0522.JPG (mitad izquierda)",
+   "nota": "El juez y el apoderado comparten apellido (San Martín): parentesco posible, no dicho.",
+   "lineas": [
+    "Escritura. — Mercedes seis de Diciembre de mil ochocientos ochenta y uno. — Estando en su sala de despacho el Señor Juez de Primera Instancia en lo Civil y Comercial del Departamento del Centro Doctor Don Juan San Martin vecino de esta ciudad etc. dijo: Que por el Juzgado á su cargo y secretario de Don Valentin Piñero tramitó un espediente seguido por Don Felipe de San Martin en representacion de Don Fernando Diaz en el que el nombrado San Martin se presentó esponiendo que según resulta del instrumento que acompañaba pasado ante el Juez de Paz de San Andrés de Giles en dos de Enero de mil ochocientos setenta y uno su representado habia permutado á Doña Ramona Diaz, casada con Don Toribio Gonzalez un terreno de pastoreo situado en el partido de San Andrés de Giles y pidiendo la protocolizacion del título previos los trámites legales. — El Juzgado proveyó de conformidad y por el auto de foja se mandó hacer la protocolizacion. — El Señor Juez de Primera Instancia cumpliendo lo dispuesto en el auto mencionado y en uso y ejercicio de las facultades que le acuerda la autoridad judicial que inviste otorga: Que protocoliza en este registro el espediente seguido por Don Felipe de San Martin en representacion de Don Fernando Diaz para autentizar el documento de permuta otorgado entre Doña Ramona Diaz casada con"
+   ],
+   "interpretacion": "El juez de 1.ª Instancia del Centro Dr. Juan San Martín, por secretaría de Valentín Piñero, protocoliza el expediente de Felipe de San Martín para autenticar el documento de permuta entre Ramona Díaz, casada con Toribio González, y Fernando Díaz."
+  },
+  {
+   "titulo": "Folio 2 · el documento de permuta de 1871",
+   "img": "img/f/164/11.jpg",
+   "fuente": "IMG_0522.JPG (mitad derecha)",
+   "nota": "Verificado: 3.720.000 v² = 278,98 ha y 3.750.000 v² = 281,23 ha (vara 0,866 m). Los González ceden 30.000 v² (2,25 ha) menos de lo que reciben: permuta de lotes vecinos para juntar cada uno su tierra contra la casa. «Piquetto» = Pichetto de 091; en f. 3 vta. «Picheto».",
+   "lineas": [
+    "[Sello circular: Foja 2]",
+    "Don Toribio Gonzalez y su representado Don Fernando Diaz con fecha dos de Enero de mil ochocientos setenta y uno ante el Juez de Paz del partido de San Andrés de Giles, Don Juan Silva y ante los testigos Don Luis Saccone y Don Geremias [?] Vanoli cuyo documento original corre á foja siete del espediente protocolizado del cual y de ésta escritura se dará copia etc. — Escribano Nicanor Ponsati —",
+    "Estracto de la escritura. — San Andrés de Giles dos de Enero de mil ochocientos setenta y uno — Los abajo firmados Toribio Gonzalez y Ramona Diaz de Gonzalez, esposos, por una parte y de la otra Fernando Diaz hacemos una permuta en la forma siguiente: primero: nosotros: Toribio Gonzalez y Ramona Diaz de Gonzalez entregamos á Don Fernando Diaz una área de terreno de pastoreo de nuestra propiedad ubicado en el partido de Giles compuesta de tres millones, setecientas veinte mil varas cuadradas, lindero por el Norte con sobrante de los herederos de Don Pedro Diaz de Vivar, al Este herederos de Achaval, al Sud Doña Francisca Diaz y al Oeste Don José Piquetto [?] en cambio de tres millones setecientas cincuenta mil varas cuadradas terreno de pastoreo ubicado en el partido de Giles, lindero por el Norte con sobrante de los herederos de Don Pedro Diaz de Vivar, por el Este Doña Ramona Diaz de Gonzalez, por el Sud Doña Anastacia y Doña Rufina Diaz y por el Oeste Don Fernando Diaz cuya área hemos recibido y de la que nos ha da-",
+    "do posecion y le otorgamos el más bastante recibo etc. — Juez de Paz Juan Silva. —"
+   ],
+   "interpretacion": "Escribano Nicanor Ponsati. Testigos de la permuta: Luis Saccone y Geremías [?] Vanoli. Los González entregan 3.720.000 v² (N sobrante de los herederos de Pedro Díaz de Vivar, E herederos de Achával, S Francisca Díaz, O José Piquetto [?]) y reciben 3.750.000 v² (N el mismo sobrante de Vivar, E Ramona Díaz de González, S Anastasia y Rufina Díaz, O Fernando Díaz). Cierra con «Juez de Paz Juan Silva»."
+  },
+  {
+   "titulo": "Folio 2 vuelto · hijuela de 1849: la herencia de Feliciana Torres de Díaz",
+   "img": "img/f/164/12.jpg",
+   "fuente": "IMG_0523.JPG (mitad izquierda)",
+   "nota": "1500 × 7900 v = 11.850.000 v² = 888,70 ha. La lista de hijos mezcla nombres dobles (Juana Rufina, Romana Atanacia) que más abajo aparecen como personas distintas.",
+   "lineas": [
+    "Conformacion y ratificacion de la division estrajudicial de los bienes de Doña Feliciana Torres de Diaz. — Testimonio para Don Fernando Diaz. — Los abajo firmados, José Diaz por sí y en representacion de sus dos hijas Juliana y Micaela Diaz; Fernando, Juana Rufina, Romana Atanacia y Ramona Diaz y Torres, viudo é hijos de la finada Doña Feliciana Torres de Diaz en virtud del fallecimiento de su causante, disponen hacer inventario de ellos estrajudicialmente; nombran tazadores á Don Pascual y Don Cristobal Rodriguez los que se espiden en el inventario y tazacion en Giles á veintiseis de Junio de mil ochocientos cuarenta y nueve. — En dos de Julio de mil ochocientos cuarenta y nueve aprueban todos de conformidad las tazaciones hechas y nombran á Don Vicente Cutillas [?] para que haga la cuenta particionaria el que se espide adjudicando á cada uno de los herederos nombrados la parte que le corresponde y á Don Fernando Diaz lo siguiente: Hijuela y adjudicacion del heredero Don Fernando Diaz y Torres: — Ha de haber este de parte materna cuatro mil cuatrocientos ochenta y cinco pesos y cinco reales; — se le adjudica en pago entre otras cosas mil quinientas varas de terreno de frente con siete mil novecientas varas de fondo terreno de estancia en este Partido que lindan por el Norte con"
+   ],
+   "interpretacion": "Testimonio para Fernando Díaz de la división extrajudicial de los bienes de Feliciana Torres de Díaz entre el viudo José Díaz (por sí y por sus hijas Juliana y Micaela) y los hijos Fernando, Juana, Rufina, Romana, Atanacia y Ramona Díaz y Torres. Tasadores Pascual y Cristóbal Rodríguez (Giles, 26/6/1849); cuenta particionaria por Vicente Cutillas [?], aprobada el 2/7/1849. A Fernando, de parte materna 4485 $ 5 reales: entre otras cosas 1500 varas de frente por 7900 de fondo de terreno de estancia."
+  },
+  {
+   "titulo": "Folio 3 · linderos de 1849, venta a Glesson (1883) y escritura de ratificación (1882)",
+   "img": "img/f/164/13.jpg",
+   "fuente": "IMG_0523.JPG (mitad derecha)",
+   "nota": "Venta a Glesson: 2000 × 1125 v = 2.250.000 v² = 168,74 ha. Verificado: 923,58 ha (hijuela de Fernando en el plano de Saubidet 1870, ficha 059) − 168,74 = 754,84 ha, muy cerca de las 749,2060 ha que la sucesión atribuye al campo en 1891.",
+   "lineas": [
+    "[Sello circular: Foja 3]",
+    "los herederos de Doña Cruz Rodriguez de Diaz; por el Sud con las adjudicadas al viudo Don José Diaz; por el Este con Don Blas Achaval y por el Oeste con terrenos del pueblo de Giles. — Al margen de ésta hijuela hay esta nota: Giles Abril siete de mil ochocientos ochenta y tres. Con ésta fecha al folio veintidós vuelta del registro de mi cargo Don Fernando Diaz vendió á Don Santiago Glesson un terreno de pastoreo con dos mil varas de frente al Nor Oeste por mil ciento veinticinco varas de fondo que forma parte del que le corresponde por este título y otro. — Del Rio",
+    "Escritura de confirmacion y ratificacion. — En San Andrés de Giles, veinte de Agosto de mil ochocientos ochenta y dos. Don Fernando Diaz y Doña Micaela Diaz, casados, acompañada ésta de su esposo Don Mauricio Ponce; Doña Atanacia Diaz, viuda de Don Julian Ortiz en cuyo caracter permanece, estos por sí; Don Ireneo [?] y Don Fructuoso Arias, casados en su caracter de herederos de su finada madre Doña Juliana Diaz; Don Pedro Rodriguez, viudo de Doña Juana Diaz de quien dice ser único heredero, Doña Teresa Alcazar viuda de Don Saturnino Latorre y Don Leon Alcazar, casado, como hijos y herederos de Doña Rufina Diaz; Don Toribio Gonzalez viudo y sus seis hijos, Polonio y Francisco Gonzalez solteros y Bibiano, Cecilia, Macario y Felipa Gonzalez casados acompañados estos tres últimos de sus respectivos maridos Don Isidoro Diaz, Don Esteban Perez"
+   ],
+   "interpretacion": "Linderos de la hijuela: N herederos de Cruz Rodríguez de Díaz; S lo adjudicado al viudo José Díaz; E Blas Achával; O terrenos del pueblo de Giles. Nota marginal (Giles, 7/4/1883, escribano Del Río): Fernando Díaz vendió a Santiago Glesson un pastoreo de 2000 varas de frente al NO por 1125 de fondo. San Andrés de Giles, 20/8/1882: escritura de confirmación y ratificación otorgada por Fernando y Micaela Díaz (esposo Mauricio Ponce), Atanacia Díaz viuda de Julián Ortiz, Ireneo [?] y Fructuoso Arias (por su madre Juliana Díaz), Pedro Rodríguez viudo de Juana Díaz, Teresa Alcázar viuda de Saturnino Latorre y León Alcázar (por su madre Rufina Díaz), Toribio González viudo y sus hijos Polonio, Francisco, Bibiano, Cecilia, Macario y Felipa González con sus maridos Isidoro Díaz, Esteban Pérez…"
+  },
+  {
+   "titulo": "Folio 3 vuelto · fin de la ratificación; hijuela 1.ª de la viuda",
+   "img": "img/f/164/14.jpg",
+   "fuente": "IMG_0524.JPG (mitad izquierda)",
+   "nota": "Los rumbos de los linderos están confundidos («NorEste» dos veces). Picheto y Revello, linderos en el título de la sucesión, ya no aparecen en la mensura de 1891: son los linderos del campo en bloque (1849-1870), no de la fracción medida.",
+   "lineas": [
+    "y Don Agustin Gonzalez como herederos de Doña Romana Diaz de Gonzalez y Doña Antonia Campana acompañada de su marido Don Juan Coppa como heredera de su señora madre Doña Ramona Diaz confirman y ratifican en todas sus partes las operaciones estrajudiciales de inventario, tazacion y particion de los bienes quedados por fallecimiento de Doña Feliciana Torres de Diaz y que ya fueron estractadas. — Que igualmente confirman y ratifican la poseción en que están de las porciones que fueron adjudicadas etc. — Fernando del Rio — Escribano Público",
+    "Estracto de las hijuelas de los herederos de Don Fernando Diaz:",
+    "Hijuela primera, para la viuda Doña Florencia Antonia Navarro de Diaz. — Su haber lo forman nueve mil doscientos pesos con setecientos once milésimos. — Se le adjudica en pago entre otras cosas seis mil doscientos pesos con setecientos once milésimos en igual suma de los sesenta y seis mil seiscientos pesos en que ha sido valorado el todo del campo de pastoreo ubicado en el cuartel tercero del partido de Giles que tiene una superficie de setecientas cuarenta y nueve hectáreas, veinte áreas y sesenta centiáreas lindando al NorEste con Don Pedro B. Ninet al SudEste con herederos de Toribio Gonzalez, al NorEste [sic] José Picheto y José Revello y al SudOeste Paulino Peñalva y Pedro B. Ninet. — Según la cuenta particionaria practicada por el Doctor José Bartis [?] y aprobada por auto del Señor Juez de Primera Instancia en"
+   ],
+   "interpretacion": "…y Agustín González, maridos de las hijas casadas, «como herederos de Doña Romana Díaz de González», y Antonia Campana con su marido Juan Coppa (por su madre Ramona Díaz) ratifican la partición de 1849 y las posesiones. Escribano Fernando del Río. Extracto de las hijuelas de la sucesión de Fernando Díaz: 1.ª para la viuda Florencia Antonia Navarro de Díaz, haber 9200,711 $; se le adjudican 6200,711 $ sobre los 66.600 $ en que se tasó el campo del CUARTEL TERCERO de Giles, de 749 ha 20 a 60 ca, lindero con Pedro B. Ninet, herederos de Toribio González, José Picheto y José Revello, Paulino Peñalva y Ninet. Cuenta particionaria del Dr. José Bartis [?]."
+  },
+  {
+   "titulo": "Folio 4 · aprobación de la partición (9/10/1891); hijuelas 2.ª a 4.ª",
+   "img": "img/f/164/15.jpg",
+   "fuente": "IMG_0524.JPG (mitad derecha)",
+   "nota": "En la división (f. 7 vta.-8 vta.) aparece como «Domingo N. Díaz»: la lectura «Nereo» es coherente con la inicial.",
+   "lineas": [
+    "[Sello circular: Foja 4]",
+    "lo Civil y Comercial del Departamento del Centro Doctor Don Rómulo Etcheverry en nueve de Octubre de mil ochocientos noventa y uno. — Escribano Secretario Don Miguel Herrera. —",
+    "Hijuela segunda: heredera Doña Maria Dolores Diaz de Navarro. — Su haber: seis mil novecientos ochenta y dos pesos moneda nacional con seiscientos sesenta y un milésimos. — Se le adjudica en pago entre otras cosas seis mil trescientos ochenta y dos pesos con seiscientos once milésimos en el campo de pastoreo perteneciente á la testamentaria situado en el cuartel tercero del partido de Giles cuya extension y linderos fueron extractados en la hijuela primera y según la cuenta particionaria y auto aprobatorio estractado en la misma.",
+    "Hijuela tercera: heredera Doña Gregoria Naciancena Diaz y Navarro. — Su haber: siete mil ciento treinta y dos pesos moneda nacional con seiscientos sesenta y un milésimos. — Se le adjudica en pago entre otras cosas seis mil seiscientos treinta y dos pesos con seiscientos once milésimos en igual suma de los sesenta y seis mil seiscientos pesos en que ha sido valorado en su totalidad el campo de la testamentaria situado en el cuartel tercero del partido de Giles cuya extension y linderos se estractaron en la hijuela primera y según la cuenta particionaria y auto aprobatorio mencionados al estractar la misma hijuela.",
+    "Hijuela Cuarta: para el heredero Don Domingo Nereo [?] Diaz y por su muerte á sus cuatro hijos menores"
+   ],
+   "interpretacion": "Aprobada por el juez del Centro Dr. Rómulo Etcheverry el 9/10/1891, escribano secretario Miguel Herrera. Hijuela 2.ª María Dolores Díaz de Navarro (haber 6982,661; en el campo 6382,611); 3.ª Gregoria Naciancena Díaz y Navarro (haber 7132,661; en el campo 6632,611); 4.ª Domingo Nereo [?] Díaz y, por su muerte, sus cuatro hijos menores…"
+  },
+  {
+   "titulo": "Folio 4 vuelto · hijuelas 4.ª a 6.ª",
+   "img": "img/f/164/16.jpg",
+   "fuente": "IMG_0525.JPG (mitad izquierda)",
+   "nota": "Haber de cada hijo: 6982,661 $; cada uno recibe en el campo algo menos y el resto en otros bienes («entre otras cosas»).",
+   "lineas": [
+    "y Domingo Fortunato, Modesto Fernando, Francisco Aureliano y José Antonio Diaz y Quiroga. — Su haber: seis mil novecientos ochenta y dos pesos moneda nacional con seiscientos sesenta y un milésimos. — Se le adjudica en pago entre otras cosas seis mil setecientos setenta y seis pesos con un milésimo en igual suma sobre los sesenta y seis mil seiscientos pesos en que ha sido valorado en su totalidad un campo de pastoreo situado en cuartel tercero del partido de Giles cuya superficie y linderos ya fueron estractados en la hijuela primera y en la cuenta particionaria y auto aprobatorio mencionados en el estracto de la misma hijuela primera.",
+    "Hijuela Quinta: para la heredera Doña Gerónima Emiliana Diaz y Navarro. — Su haber: seis mil novecientos ochenta y dos pesos con seiscientos sesenta y un milésimos. — Se le adjudica entre otras cosas seis mil ciento ochenta y dos pesos con trescientos ochenta y un milésimos en igual suma sobre los sesenta y seis mil seiscientos pesos en que ha sido valorado en su totalidad el campo de pastoreo situado en el cuartel tercero del partido de Giles, cuya estension y linderos ya fueron estractados en la hijuela primera y en la cuenta particionaria y auto aprobatorio mencionados tambien en la misma hijuela primera. —",
+    "Hijuela sexta: para el heredero Don José Benito Diaz y Navarro. — Su haber seis mil novecientos ochenta y dos pesos con seiscientos sesenta y un milésimos. Se le adjudica en pago entre otras cosas seis mil setecientos dos pesos con novecientos sesenta y un milésimos en igual suma sobre los sesenta y seis"
+   ],
+   "interpretacion": "Los hijos de Domingo: Domingo Fortunato, Modesto Fernando, Francisco Aureliano y José Antonio Díaz y Quiroga (6776,001 $ en el campo). 5.ª Gerónima Emiliana Díaz y Navarro (6182,381 $). 6.ª José Benito Díaz y Navarro (6702,961 $)."
+  },
+  {
+   "titulo": "Folio 5 · hijuelas 7.ª a 9.ª",
+   "img": "img/f/164/17.jpg",
+   "fuente": "IMG_0525.JPG (mitad derecha)",
+   "nota": "Dos veces se añadió «seiscientos» entre renglones (66.600). Tildes de control al margen.",
+   "lineas": [
+    "[Sello circular: Foja 5]",
+    "mil seiscientos pesos en que ha sido valorado en su totalidad el terreno de pastoreo perteneciente á la testamentaria situado en el cuartel tercero del partido de Giles y cuyos linderos y superficie lo mismo que la cuenta particionaria y auto aprobatorio, fueron estractados en la hijuela primera.",
+    "Hijuela septima: para el heredero Don Pedro Crisólogo Diaz y Navarro. — Su haber: seis mil novecientos ochenta y dos pesos con seiscientos sesenta y un milésimos. Se le adjudica en pago entre otras cosas seis mil ciento cincuenta y tres pesos con seiscientos sesenta y un milésimos en igual suma sobre los sesenta y seis mil seiscientos pesos en que ha sido valorado el campo de pastoreo situado en el cuartel tercero de Giles y cuyos linderos, superficie y la cuenta particionaria y auto aprobatorio fueron estractados en la hijuela primera.",
+    "Hijuela octava para la heredera Doña Petrona Celestina Diaz y Navarro. — Su haber: seis mil novecientos ochenta y dos pesos con seiscientos sesenta y un milésimos; se le adjudica en pago, entre otras cosas, seis mil novecientos treinta y dos pesos con seiscientos sesenta y uno milésimos en igual suma sobre los sesenta y seis mil ‹seiscientos› pesos del campo etc. —",
+    "Hijuela novena para la heredera Doña Josefa Valentina Diaz y Navarro. — Su haber seis mil novecientos ochenta y dos pesos con seiscientos sesenta y un milésimos. — Se le adjudica en pago entre otras cosas seis mil novecientos sesenta y siete pesos con seiscientos sesenta y un milésimos en igual suma sobre los sesenta y seis mil ‹seiscientos› pesos en que fué valorado el campo etc.",
+    "[Al margen izquierdo, tildes de control (✓) frente a las hijuelas octava y novena]"
+   ],
+   "interpretacion": "7.ª Pedro Crisólogo Díaz y Navarro (6153,661 $). 8.ª Petrona Celestina Díaz y Navarro (6932,661 $). 9.ª Josefa Valentina Díaz y Navarro (6967,661 $)."
+  },
+  {
+   "titulo": "Folio 5 vuelto · hijuela 10.ª e inicio de la mensura (25/12/1891)",
+   "img": "img/f/164/18.jpg",
+   "fuente": "IMG_0526.JPG (mitad izquierda)",
+   "nota": "Comenzar una mensura el 25 de diciembre es excepcional en el corpus.",
+   "lineas": [
+    "Hijuela décima: para el heredero Don Antonio E. Diaz y por fallecimiento de éste á su viuda doña Socorro Frias y á sus tres hijos Antonio Gerónimo, Justo Rufino y Rita Prudencia Diaz y Frias. — Su haber: seis mil novecientos ochenta y dos pesos con seiscientos sesenta y un milésimos. — Se le adjudica en pago seis mil novecientos ochenta y dos pesos con seiscientos sesenta y un milésimos en igual suma sobre los sesenta y seis mil seiscientos pesos en que ha sido valorado el campo etc. —",
+    "Mensura. — El Agrimensor que suscribe comisionado por decreto del Señor Juez de Primera Instancia en lo Civil y Comercial del Departamento del Centro de la Provincia de Buenos Aires, de fecha veintisiete de Noviembre de mil ochocientos noventa y uno para medir y dividir el terreno de propiedad de los herederos de Don Fernando Diaz, situado en partido de San Andrés de Giles, previa citacion de linderos que en original se acompaña y diarios de publicacion de edictos, dió principio á la mensura el dia veinticinco de Diciembre de mil ochocientos noventa y uno del modo siguiente: desde A, mojon de ñandubay esquinero de Don Santiago Glesson, Paulino Peñalva y el que se mide, al Sud veinte y nueve grados cincuenta y tres minutos Este, medí dos mil ciento treinta y cuatro metros ochenta centímetros hasta B mojon de ñandubay esquinero de P. B. Ninet y Diaz. — En esta linea á los mil ciento sesenta y cin-"
+   ],
+   "interpretacion": "10.ª Antonio E. Díaz y, por su muerte, su viuda Socorro Frías y sus hijos Antonio Gerónimo, Justo Rufino y Rita Prudencia Díaz y Frías (6982,611 $). MENSURA: Aranguren, comisionado por decreto del juez del Centro del 27/11/1891, previa citación de linderos y edictos, empieza el DÍA DE NAVIDAD de 1891 en el mojón de ñandubay A (esquina de Santiago Glesson y Paulino Peñalva): A-B S 29° 53′ E 2134,80 m hasta B, mojón de ñandubay esquinero de P. B. Ninet y Díaz."
+  },
+  {
+   "titulo": "Folio 6 · perímetro B-C-D-E",
+   "img": "img/f/164/19.jpg",
+   "fuente": "IMG_0526.JPG (mitad derecha)",
+   "nota": "Verificado en python: con B-C «Este» el perímetro no cierra por 767 m; con «Oeste» cierra a 2,69 m y encierra 743,15 ha. El plano dibuja el entrante hacia el SO. Error del copista o del autor, repetido en el plano («S 60° 42′»).",
+   "lineas": [
+    "[Sello circular: Foja 6]",
+    "co metros setenta centímetros esquinero de Peñalva á un metro y cincuenta centímetros del alambrado, y empieza don Pedro B. Ninet, á los mil doscientos metros un arroyito; á los mil cuatrocientos cincuenta y tres metros, portada del camino General de Giles á Luján. —",
+    "Desde B al Sud sesenta grados cuarenta y dos minutos Este, medí cuatrocientos cuarenta metros, ochenta centímetros hasta C, mojon de ñandubay esquinero de Diaz y P. B. Ninet. —",
+    "Desde C al Sud veintinueve grados, cincuenta y nueve minutos Este medí mil setecientos treinta y un metros con cuarenta centímetros hasta D, mojon de ñandubay esquinero de Ninet y Diaz y costanero de Doña Felipa Gonzalez. — En esta línea se han encontrado: á los ochocientos sesenta metros un camino á Mercedes; á mil treinta y uno metros con sesenta centímetros un mojon de ñandubay costanero, á mil setecientos treinta y un metros con cuarenta centímetros un mojon de ñandubay esquinero. —",
+    "Desde D al Norte sesenta grados, diez minutos Este medí dos mil ciento setenta y dos metros con ochenta centímetros hasta E, mojon de ñandubay esquinero de Diaz, Gonzalez y terrenos de Vibar. — En esta línea se encontró á los ciento doce metros sesenta centímetros un mojon de ñandubay dos metros adentro de la línea y sobre el alambrado, á los mil cincuenta y seis metros un mojon de ñandubay esquinero de Felipa Gonzalez y de Francisco Gonzalez, á los mil setecientos noventa y cuatro metros sesenta centíme-",
+    "tros portada del camino General de Giles á Luján y fin del terreno de don Francisco Gonzalez y principio del de Don Maximo Gonzalez."
+   ],
+   "interpretacion": "En A-B: a 1165,70 m esquina de Peñalva a 1,50 m del alambrado y empieza Ninet; a 1200 m un ARROYITO; a 1453 m PORTADA del Camino General de Giles a Luján. B-C S 60° 42′ E [sic, debe ser O] 440,80 m. C-D S 29° 59′ E 1731,40 m (a 860 m camino a MERCEDES; a 1031,60 mojón costanero). D-E N 60° 10′ E 2172,80 m hasta E, esquina de Díaz, González y «terrenos de Vibar»: a 112,60 m un mojón a 2 m dentro de la línea sobre el alambrado; a 1056 m esquina de Felipa y Francisco González; a 1794,60 m portada del Camino General y fin de Francisco / principio de Máximo González."
+  },
+  {
+   "titulo": "Folio 6 vuelto · lado E-F contra Díaz de Vivar; F-A; inicio de la división",
+   "img": "img/f/164/20.jpg",
+   "fuente": "IMG_0527.JPG (mitad izquierda)",
+   "nota": "Entre renglones, «61» sobre «once»: corrección de 6153,611 a 6153,661, como en la hijuela 7.ª. La faja en litigio con Vivar mide entre 24,5 y 35 m × 3842 m ≈ 11,4 ha.",
+   "lineas": [
+    "Desde E al Norte veintinueve grados, cincuenta y ocho minutos Oeste medí tres mil ochocientos cuarenta y dos metros treinta centímetros hasta F, mojon de ñandubay costanero de Vibar y esquinero de Diaz y Glesson. En esta línea no se encontró ningún mojon costanero con Diaz de Vibar y á los mil doscientos quince metros una portada, á los mil setecientos cincuenta metros un arroyito, á los dos mil seiscientos diez metros un arroyito, á los dos mil novecientos cincuenta se pasó por el patio del puesto de los herederos de Antonio E. Diaz. — En esta línea los terrenos de Diaz de Vibar tienen en el punto E veinticuatro metros cincuenta centímetros y en el punto F treinta y cinco metros. —",
+    "Desde F al Sud sesenta grados cuarenta y siete minutos Oeste medí mil setecientos treinta y dos metros hasta A mojon ya mencionado. — En esta línea se encontró á los quinientos treinta y nueve metros cuarenta centímetros un mojon de ñandubay. — Las líneas estan alambradas á escepcion de la E F que no está pero la línea E' F' que es el límite del terreno de Diaz de Vibar sí está. —",
+    "División. — Al heredero Don Pedro Diaz se le adjudican entre otras cosas seis mil ciento cincuenta y tres pesos con seiscientos ‹61› once milésimos en terreno por lo que le corresponden sesenta y nueve hectáreas cuarenta y tres áreas, sesenta y cuatro centiáreas",
+    "[Entre renglones, sobre «once», la cifra «61»: corrección a «sesenta y un milésimos», como en la hijuela séptima]"
+   ],
+   "interpretacion": "E-F N 29° 58′ O 3842,30 m hasta F (mojón costanero de Vivar, esquina de Díaz y Glesson): ningún mojón con Vivar; a 1215 m portada, a 1750 y 2610 m arroyitos, a 2950 m se pasa por el PATIO DEL PUESTO de los herederos de Antonio E. Díaz. Los terrenos de Díaz de Vivar «tienen» 24,50 m en E y 35 m en F: la línea alambrada E′-F′ de Vivar no coincide con la E-F de la mensura. F-A S 60° 47′ O 1732 m (a 539,40 mojón). Todo alambrado salvo E-F. División: Pedro Díaz, 6153,661 $ = 69 ha 43 a 64,6 ca."
+  },
+  {
+   "titulo": "Folio 7 · lotes de Pedro Díaz y de los herederos de Antonio E. Díaz",
+   "img": "img/f/164/21.jpg",
+   "fuente": "IMG_0527.JPG (mitad derecha)",
+   "nota": "Mojones de división con minúsculas (a…s), los del perímetro con mayúsculas. Verificado: Pedro cierra a 0,02 m, 69,429 ha (texto 69,436).",
+   "lineas": [
+    "[Sello circular: Foja 7]",
+    "y seis décimos. — Para ubicarlos procedí del siguiente modo: desde A al Sud veintinueve grados, cincuenta y tres minutos Este medí ochocientos un metros cincuenta centímetros y coloqué un mojon de ñandubay a; desde a al Norte sesenta grados, cuarenta y siete minutos Este medí ochocientos sesenta y seis metros sesenta centímetros hasta b y coloqué otro mojon de ñandubay; de éste al Norte veintinueve grados cincuenta y cinco minutos, treinta segundos Oeste medí ochocientos un metros cincuenta centímetros y coloqué el mojon c; desde c al Sud sesenta grados cuarenta y siete minutos Oeste medí ochocientos sesenta y seis metros hasta A, punto de partida. — Los linderos son: al NorOeste Santiago Glesson; al SudOeste Paulino Peñalva; al SudEste la fraccion adjudicada á Doña Gregoria Diaz de Quiroga y al NorEste la de los herederos de Don Antonio E. Diaz. —",
+    "A los herederos de Don Antonio E. Diaz se les adjudican en terreno seis mil novecientos ochenta y dos pesos con seiscientos once milésimos y les corresponden setenta y ocho hectáreas, setenta y nueve áreas, siete centiáreas y cuarenta centécimos. — Para éste desde c al Sud veintinueve grados cincuenta y cinco minutos treinta segundos Este medí novecientos nueve metros cincuenta centímetros y coloqué el mojon de ñandubay esquinero d; desde éste al Norte sesenta grados cuarenta y siete minutos Este medí ochocientos sesenta y seis metros sesenta centímetros y coloqué el mojon de ñandubay esquinero e en la interseccion de"
+   ],
+   "interpretacion": "Pedro: A-a 801,50 m sobre A-B; a-b N 60° 47′ E 866,60; b-c N 29° 55′ 30″ O 801,50; c-A 866. Linderos Glesson, Peñalva, Gregoria Díaz de Quiroga y Antonio E. Díaz. Herederos de Antonio E. Díaz: 6982,611 $ = 78 ha 79 a 07,40 ca; c-d S 29° 55′ 30″ E 909,50; d-e N 60° 47′ E 866,60 hasta la línea E-F…"
+  },
+  {
+   "titulo": "Folio 7 vuelto · cierre de Antonio E.; lote de Gregoria N. Díaz de Quiroga",
+   "img": "img/f/164/22.jpg",
+   "fuente": "IMG_0528.JPG (mitad izquierda)",
+   "nota": "Verificado: Antonio E. cierra a 0,06 m (78,780 ha). Gregoria: 863,30 × 867,20 = 74,83 ha; el plano dice 74 ha 84 a 07,1 ca y la tasa uniforme de 88,6229 $/ha da 74,84: «setenta y ocho» es error de copia por «setenta y cuatro». Hay un «diez» tachado y «cero» entre renglones en los centésimos.",
+   "lineas": [
+    "esta línea con la E F, desde este punto al N. veintinueve grados cincuenta y ocho minutos Oeste medí novecientos nueve metros cincuenta centímetros hasta el esquinero F y desde este sobre la línea F A ya medida medí ochocientos sesenta y seis metros hasta c. — Los linderos son al NorOeste Santiago Glesson; al SudOeste el heredero Don Pedro Diaz y la heredera Doña Gregoria Diaz de Quiroga; al SudEste Doña Maria Dolores Diaz y al NorEste los terrenos de Diaz de Vibar. —",
+    "A la heredera Doña Gregoria N. Diaz de Quiroga se le adjudican seis mil seiscientos treinta y dos pesos con seiscientos once milésimos en terreno por lo que le corresponde setenta y ocho hectáreas, ochenta y cuatro áreas siete centiáreas y ‹cero› diez [tachado] centécimos. — Para ésta desde a al Sud veintinueve grados cincuenta y tres minutos Este medí ochocientos sesenta y tres metros treinta centímetros y coloqué el mojon de ñandubay f. Desde éste al Norte sesenta grados cuarenta y siete minutos Este medí ochocientos sesenta y siete metros veinte centímetros y coloqué un mojon de ñandubay. En esta línea á los cuatrocientos metros coloqué un mojon de ñandubay para esquinero común de Doña Antonia N. de Diaz y herederos de Domingo N. Diaz. — Desde g al Norte veintinueve grados cincuenta y cinco minutos treinta segundos Oeste medí ochocientos sesenta y tres metros treinta centímetros hasta b mojon de ñandubay ya colocado éstas y la a b ya medida completan el polígono cuyos linderos son: al NorOeste Don Pedro Diaz; al SudOeste Don Paulino Peñalva y Don P. B. Ninet; al SudEste"
+   ],
+   "interpretacion": "e-F 909,50 y F-c 866. Gregoria: 6632,611 $ = «setenta y ocho» [sic] ha 84 a 07 ca: a-f S 29° 53′ E 863,30; f-g N 60° 47′ E 867,20 (a los 400 m mojón j, esquina común de la viuda y de los herederos de Domingo N. Díaz); g-b 863,30."
+  },
+  {
+   "titulo": "Folio 8 · lotes de María Dolores Díaz y de los herederos de Domingo N. Díaz",
+   "img": "img/f/164/23.jpg",
+   "fuente": "IMG_0528.JPG (mitad derecha)",
+   "nota": "Verificado: María D. cierra a 0,01 m (72,016 ha). B-f = 2134,80 − 801,50 − 863,30 = 470,00: exacto.",
+   "lineas": [
+    "[Sello circular: Foja 8]",
+    "los herederos de Don Domingo N. Diaz y la Señora Antonia N. de Diaz; al NorEste Doña Maria Dolores Diaz y los herederos de Don Antonio Diaz. —",
+    "A la heredera Doña Maria D. Diaz se le adjudican seis mil trescientos ochenta y dos pesos y seiscientos un milésimos entre otras cosas, en terreno y le corresponden setenta y dos hectáreas una área noventa y siete centiáreas y setenta centécimos. — Para esta heredera desde d al Sud veintinueve grados cincuenta y cinco minutos treinta segundos Este medí ochocientos treinta metros, ochenta centímetros hasta h y coloqué un mojon de ñandubay; desde h al Norte sesenta grados cuarenta y siete minutos Este medí ochocientos sesenta y siete metros con veinte centímetros hasta i y coloqué otro mojon de ñandubay; desde i al Norte veintinueve grados cincuenta y ocho minutos Oeste medí ochocientos treinta metros con ochenta centímetros hasta e; estos y la e d ya medida completan la figura cuyos linderos son: al NorOeste herederos de Antonio E. Diaz, al SudOeste Doña Gregoria D. de Quiroga y Doña Antonia N. de Diaz que es lindera tambien al SudEste y al NorEste los terrenos de Diaz de Vibar.",
+    "A los herederos de Don Domingo N. Diaz se les adjudican entre otras cosas seis mil setecientos setenta y seis pesos con un milésimo en terreno y les corresponde setenta y seis hectáreas, cuarenta y cinco áreas ochenta y ocho centiáreas y diez centécimos. — Para estos desde B al Norte veintinueve grados cincuenta y tres minutos Oeste medí cuatrocientos setenta metros hasta f ya"
+   ],
+   "interpretacion": "María D.: 6382,611 $ = 72 ha 01 a 97,70 ca; d-h S 29° 55′ 30″ E 830,80; h-i N 60° 47′ E 867,20; i-e 830,80. Linderos: Antonio E., Gregoria, Antonia N. de Díaz y «terrenos de Díaz de Vibar». Domingo N. Díaz: 6776,001 $ = 76 ha 45 a 88,10 ca; B-f N 29° 53′ O 470 m…"
+  },
+  {
+   "titulo": "Folio 8 vuelto · cierre de Domingo; lote de la viuda Florencia Antonia Navarro",
+   "img": "img/f/164/24.jpg",
+   "fuente": "IMG_0529.JPG (mitad izquierda)",
+   "nota": "Verificado: con C-B al NE el lote de Domingo cierra a 7 m (76,14 ha, texto 76,46). 75,50 + 497,90 = 573,40 y 467,20 + 867,20 = 1334,40: las cotas encajan. «milésimos» de la viuda está repasado o tachado.",
+   "lineas": [
+    "colocado; desde j al Sud veintinueve grados cincuenta y ocho minutos Este medí mil ciento cincuenta y nueve metros sesenta centímetros hasta k habiendo colocado en esta línea á los quinientos setenta y tres metros cuarenta centímetros un mojon de ñandubay para esquinero común de Doña Antonia N. de Diaz y Doña Petrona Diaz de Bravo; desde k al Sud sesenta y un grados seis minutos Oeste medí ochocientos treinta y ocho metros cuarenta centímetros hasta l y coloqué un mojon de ñandubay, desde éste al Norte veintinueve grados cincuenta y nueve minutos Oeste medí seiscientos setenta y ocho metros hasta el esquinero C, estos y la C B ya medida cierran la figura y los linderos son al NorOeste Gregoria N. Diaz de Quiroga y Don P. B. Ninet; al SudOeste P. B. Ninet; al Sud Este Valentina Diaz de Altube y José Benito Diaz y al NorEste Doña Petrona Celestina D. de Bravo y Doña Antonia N. de Diaz.",
+    "A la señora viuda Doña Florencia Antonia N. de Diaz; se le adjudican seis mil doscientos pesos con setecientos once milésimos [palabra repasada o tachada] en terreno por lo que le corresponden sesenta y nueve hectáreas, noventa y seis areas setenta y tres centiáreas y ochenta centécimos. — Para esta medí desde g al Sud veintinueve grados, cincuenta y cinco minutos, treinta segundos Este medí setenta y cinco metros cincuenta centímetros hasta h; de i al Sud veintinueve grados cincuenta y ocho minutos Este medí cuatrocientos noventa y siete metros noventa centímetros hasta m y coloqué un mojon de ñandubay; de m al Sud sesenta grados cuarenta y siete minutos Oeste medí mil trescientos"
+   ],
+   "interpretacion": "Domingo: (falta f-j, 400 m, ya medida) j-k S 29° 58′ E 1159,60 m, con mojón n a 573,40 m (esquina de la viuda y de Petrona Díaz de Bravo); k-l S 61° 06′ O 838,40; l-C N 29° 59′ O 678; C-B. Viuda: 6200,711 $ = 69 ha 96 a 73,80 ca; g-h 75,50 m; i-m S 29° 58′ E 497,90; m-n S 60° 47′ O 1334,40…"
+  },
+  {
+   "titulo": "Folio 9 · cierre de la viuda; lote de Petrona Celestina D. de Bravo",
+   "img": "img/f/164/25.jpg",
+   "fuente": "IMG_0529.JPG (mitad derecha)",
+   "nota": "Verificado: viuda cierra a 0,05 m (69,961 ha); Petrona a 0,00 m (78,216 ha). La suma asignada a Petrona en la división (6967,661) es la de Valentina; su hijuela dice 6932,661 y sólo esa cifra da la tasa uniforme de 88,6229 $/ha. «seis grados» por «sesenta grados»: error de copia (el plano dice N 60° 47′ E).",
+   "lineas": [
+    "[Sello circular: Foja 9]",
+    "treinta y cuatro metros cuarenta centímetros hasta n mojon ya colocado; estos y los g j, j n y h i ya medidos completan el polígono cuyos linderos son: al NorOeste Doña Maria D. Diaz y doña Gregoria N. Diaz de Quiroga; al SudOeste herederos de Domingo N. Diaz, al SudEste Doña Petrona D. de Bravo y al NorEste terrenos de Diaz de Vibar. —",
+    "A la heredera Doña Petrona Celestina D. de Bravo se le adjudica entre otras cosas seis mil novecientos sesenta y siete pesos con seiscientos sesenta y un milésimos en terreno y le corresponden setenta y ocho hectareas, veintidós areas sesenta y cinco centiáreas y veinte centécimos. — Para esta heredera desde k al Norte seis [sic: sesenta] grados cuarenta y siete minutos Este medí mil trescientos treinta y cuatro metros cuarenta centímetros hasta o y coloqué un mojon de ñandubay; en ésta línea á los seiscientos cincuenta y un metros cincuenta centímetros coloqué un mojon de ñandubay p para esquinero común de Doña Gerónima D. de Albis y Don José Benito Diaz. — Desde o al Norte veintinueve grados cincuenta y ocho minutos Oeste medí quinientos ochenta y seis metros veinte centímetros hasta m mojon ya colocado; estos y los m n y n k ya medidos cierran el cuadrilátero cuyos linderos son al NorOeste Doña Florencia A. N. de Diaz, al SudOeste los herederos de Don Domingo N. Diaz, al SudEste Don José B. Diaz y Doña Gerónima D. de Albis y al NorEste terrenos de Diaz de Vibar",
+    "A la heredera Doña Gerónima Diaz de Albis se le adjudica entre otras cosas seis mil ciento ochenta y dos pesos con trescientos ochenta y un milésimos en terreno por lo que le corresponden sesenta y nueve hec-"
+   ],
+   "interpretacion": "La viuda cierra con g-j, j-n, h-i. Petrona: 6967,661 $ [sic] = 78 ha 22 a 65,20 ca; k-o «N seis [sesenta] grados 47′ E» 1334,40 m, con mojón p a 651,50 m (esquina de Gerónima D. de Albis y José Benito Díaz); o-m N 29° 58′ O 586,20; m-n y n-k. Gerónima Díaz de Albis: 6182,381 $ = 69 ha 76 a 05,60 ca."
+  },
+  {
+   "titulo": "Folio 9 vuelto · lotes de Gerónima D. de Albis y de José Benito Díaz",
+   "img": "img/f/164/26.jpg",
+   "fuente": "IMG_0530.JPG (mitad izquierda)",
+   "nota": "Verificado: Gerónima cierra a 0,16 m (69,753 ha); José B. a 0,98 m (75,610 ha).",
+   "lineas": [
+    "tareas setenta y seis áreas, cinco centiáreas y sesenta centécimos. — Para esta desde o al Sud veintinueve grados cincuenta y ocho minutos Este medí mil diez y siete metros noventa centímetros hasta E, de éste al Sud sesenta grados diez minutos Oeste medí seiscientos ochenta y dos metros noventa centímetros hasta q y coloqué un mojon de ñandubay, desde q al Norte veintinueve grados cincuenta y ocho minutos Oeste medí mil veinticinco metros con diez centímetros hasta p ya colocado y estos y la p o ya medida completan la figura cuyos linderos son: al NorOeste Doña Petrona Diaz de Bravo; al SudOeste Don José B. Diaz al SudEste Don Maximo y Don Francisco Gonzalez y al NorEste los terrenos de Diaz de Vibar. —",
+    "Al heredero Don José B. Diaz se le adjudican entre otras cosas seis mil setecientos dos pesos con novecientos sesenta y un milésimos en terreno y le corresponden setenta y cinco hectareas sesenta y tres áreas, cuarenta y seis centiáreas y cuarenta centécimos. — Para éste desde q al Sud sesenta grados diez minutos Oeste medí setecientos treinta y cinco metros cincuenta centímetros hasta r; desde éste al Norte veintinueve grados cincuenta y ocho minutos Oeste medí mil treinta y dos metros con cincuenta centímetros hasta s y coloqué un mojon de ñandubay desde éste al Norte sesenta y un grado seis minutos Este medí ochenta y cuatro metros hasta k ya colocado. — Desde k al Sud [sic: Norte] sesenta grados cuarenta y siete minutos Este medí seiscientos cincuenta y un metros cincuenta centímetros hasta p. — Estas y la p q ya medida completan la figura cuyos linderos son al NorOeste Doña Petro-"
+   ],
+   "interpretacion": "Gerónima: o-E S 29° 58′ E 1017,90; E-q S 60° 10′ O 682,90; q-p N 29° 58′ O 1025,10; p-o. Linderos Petrona, José B., Máximo y Francisco González, Díaz de Vivar. José B.: 6702,961 $ = 75 ha 63 a 46,40 ca; q-r S 60° 10′ O 735,50; r-s N 29° 58′ O 1032,50; s-k N 61° 06′ E 84; k-p «al Sud [Norte]» 60° 47′ E 651,50."
+  },
+  {
+   "titulo": "Folio 10 · lote de Valentina D. de Altube; variación, protestas, circular y firma",
+   "img": "img/f/164/27.jpg",
+   "fuente": "IMG_0530.JPG (mitad derecha)",
+   "nota": "Verificado: k-l 838,40 − s-k 84 = 754,40, no 764,90: probable error de copia; aun con 754,40 el lote cierra a 8,7 m. 678 + 1053,40 = 1731,40 = C-D: exacto.",
+   "lineas": [
+    "[Sello circular: Foja 10]",
+    "na D. de Bravo y los herederos de don Domingo N. Diaz, al SudOeste Doña Valentina D. de Altube; al SudEste Don Francisco y Doña Felipa Gonzalez y al NorEste Doña Gerónima D. de Albis. —",
+    "A la heredera Valentina D. de Altube se le adjudican seis mil novecientos sesenta y siete pesos con seiscientos sesenta y un milésimos en terreno y le corresponden setenta y ocho hectareas, sesenta y dos áreas catorce centiáreas y cincuenta centécimos, para ésta desde s al Sud sesenta y un grados seis minutos Oeste medí setecientos sesenta y cuatro metros noventa centímetros hasta l; desde l al Sud veintinueve grados cincuenta y nueve minutos Este medí mil cincuenta y tres metros cuarenta centímetros hasta D, y desde D al Norte sesenta grados diez minutos Este medí setecientos cincuenta y cuatro metros ochenta centímetros hasta r. — Los linderos son al NorOeste los herederos de Don Domingo N. Diaz, al SudOeste Don Pedro B. Ninet, al SudEste Doña Felipa Gonzalez y al NorEste Don José Benito Diaz. —",
+    "Variación: once grados diez minutos NorEste",
+    "Protestas no hubieron. —",
+    "[Otra mano, tinta más pálida:] Circular fue firmada: por Doña Isabel [?] S. de Peñalva á ruego de Don Paulino Peñalva; por Don Maximo Gonzalez firmó Don Francisco Gonzalez; por Doña Felipa Gonzalez Don Gerardo [?] Amarillo y por Don Santiago Glesson su hija Doña Margarita [?] Glesson. — Los demas linderos por sí.",
+    "La Plata Setiembre de 1892",
+    "Juan J. Aranguren",
+    "Agrimensor",
+    "[Sello oval: Departamento de Ingenieros de la Provincia — Entrada — OCT 4 1892]",
+    "[Rúbrica al pie: «Le»]"
+   ],
+   "interpretacion": "Valentina: 6967,661 $ = 78 ha 62 a 14,50 ca; s-l S 61° 06′ O 764,90 [?]; l-D S 29° 59′ E 1053,40; D-r N 60° 10′ E 754,80. Variación 11° 10′ NE. «Protestas no hubieron». De otra mano: la circular la firmaron Isabel [?] S. de Peñalva a ruego de Paulino Peñalva, Francisco González por Máximo González, Gerardo [?] Amarillo por Felipa González y Margarita [?] Glesson, hija de Santiago, por su padre; «los demás linderos por sí». La Plata, setiembre de 1892, Juan J. Aranguren, agrimensor. Sello del Departamento de Ingenieros: entrada 4/10/1892."
+  },
+  {
+   "titulo": "Folio 10 vuelto · vista del Departamento de Ingenieros (17/11/1892)",
+   "img": "img/f/164/28.jpg",
+   "fuente": "IMG_0531.JPG (mitad izquierda)",
+   "nota": "Las líneas del dictamen están escritas con sangría alternada (cada renglón empieza a la izquierda del anterior). Croquis a lápiz al pie. No hay auto de aprobación fotografiado.",
+   "lineas": [
+    "Señor Juez:",
+    "El Departamento de Ingenieros ha examinado la mensura y division practicada por el agrimensor Juan J. Aranguren en un campo de propiedad de la testamentaria de Don Fernando Diaz, situado en el partido de Giles y no tiene que observar respecto de la operacion geométrica por lo que puede ser aprobada por V. S. — Noviembre 17/92 —",
+    "[Rúbrica ilegible]",
+    "Benjamin Sal [?] — Carlos M. Albarracin — Julian Romero",
+    "[Al pie, croquis a lápiz de un rectángulo con trazos y un pequeño recuadro; el resto de la página en blanco con transparencias de la foja siguiente]"
+   ],
+   "interpretacion": "«Señor Juez: El Departamento de Ingenieros ha examinado la mensura y división practicada por el agrimensor Juan J. Aranguren en un campo de propiedad de la testamentaría de D. Fernando Díaz, situado en el partido de Giles y no tiene que observar respecto de la operación geométrica por lo que puede ser aprobada por V. S. Noviembre 17/92». Firmas: una rúbrica ilegible, Benjamín Sal [?], Carlos M. Albarracín y Julián Romero."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de mensura y división (Aranguren, setiembre de 1892), f. 11",
+   "img": "img/f/164/03.jpg",
+   "fuente": "IMG_0532.JPG",
+   "orientacion": "flecha de norte magnético arriba a la izquierda (y otra abajo a la derecha); el lado E-F, contra Díaz de Vivar, arriba; el frente A-B-C-D, contra Peñalva y Ninet, abajo",
+   "interpretacion": "Plano en tela desplegado, enmarcado, con el perímetro reforzado en verde. Diez fracciones en dos columnas separadas por la línea media c-b-g-h-…: a la izquierda (NO) «Herederos de Antonio E. Díaz» (78 h 79 a 07,4 c) y «Pedro Díaz» (69 h 43 a 64,6 c); luego «María D. Díaz» (72 h 01 a 97,7 c) y «Gregoria D. de Quiroga» (74 h 84 a 07,1 c, cifra que corrige el «setenta y ocho» del texto); al centro «Antonia Navarro de Díaz» (69 h 96 a 73,8 c), «Petrona D. de Bravo» (78 h 22 a 65,2 c) y «Hers. de Domingo N. Díaz» (76 h 45 a 88,1 c); a la derecha (SE) «Gerónima D. de Albis» (69 h 76 a 05,6 c), «José B. Díaz» (75 h 63 a 46,4 c) y «Valentina D. de Altube» (78 h 62 a 14,5 c). Arriba, línea de trazos con la leyenda «Sobrantes conocidos por de Díaz de Vivar» y «N 29° 58′ O = 3842,3 m». Un «Arroyo» serpentea de SO a NE por Gregoria y María D.; el «Camino General de Giles á Luján» cruza en diagonal desde f hacia el NE; el «Camino de Mercedes» corre casi paralelo a l-o. Cuadraditos negros (poblaciones o mojones) y cruces a lápiz en cada lote. Escala gráfica de 100 m (0-500). Firma «La Plata Setiembre de 1892, Juan J. Aranguren, Agrimensor». Sello de foja 11; anotaciones posteriores a lápiz («289440» [?], «37420» [?], «1165 m»).",
+   "referencias": [
+    [
+     "A",
+     "Mojón de ñandubay, esquina de Glesson, Peñalva y Díaz; punto de partida"
+    ],
+    [
+     "A-B",
+     "S 29° 53′ E 2134,80 m; a 1165,70 empieza Ninet; arroyito a 1200; portada del camino de Luján a 1453"
+    ],
+    [
+     "B-C",
+     "440,80 m; rumbo escrito «S 60° 42′ E», debe ser O (entrante hacia el SO)"
+    ],
+    [
+     "C-D",
+     "S 29° 59′ E 1731,40; camino a Mercedes a 860 m"
+    ],
+    [
+     "D-E",
+     "N 60° 10′ E 2172,80; Felipa, Francisco y Máximo González"
+    ],
+    [
+     "E-F / E′-F′",
+     "N 29° 58′ O 3842,30; la línea alambrada de Vivar corre 24,5 m (E) a 35 m (F) adentro"
+    ],
+    [
+     "F-A",
+     "S 60° 47′ O 1732; Santiago Glesson"
+    ],
+    [
+     "a…s",
+     "Mojones de ñandubay de la división (minúsculas)"
+    ],
+    [
+     "j",
+     "Mojón a 400 m de f sobre f-g: esquina de la viuda y de los hijos de Domingo"
+    ],
+    [
+     "n · p",
+     "Esquinas comunes a 573,40 m de j y a 651,50 m de k"
+    ],
+    [
+     "Puesto",
+     "De los herederos de Antonio E. Díaz, a 2950 m de E sobre E-F"
+    ],
+    [
+     "Escala",
+     "100 m; divisiones hasta 500"
+    ]
+   ]
+  },
+  {
+   "titulo": "El mismo plano plegado dentro del cuaderno",
+   "img": "img/f/164/04.jpg",
+   "fuente": "IMG_0531.JPG (mitad derecha)",
+   "orientacion": "plegado; se ve la mitad SE",
+   "interpretacion": "Toma del plano doblado sobre la última foja: Gerónima D. de Albis, José B. Díaz y Valentina D. de Altube, «N 60° 10′ E 2172,8 m», la leyenda «de Giles á Luján» y los linderos González y Ninet. Sirve para ver cómo se encuadernaba la tela.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle NO: Pedro Díaz y herederos de Antonio E. Díaz",
+   "img": "img/f/164/05.jpg",
+   "fuente": "IMG_0533.JPG",
+   "orientacion": "como el plano general",
+   "interpretacion": "Se leen A, a, b, c, d, F′ y «S 60° 47′ O = 1732 m», las cotas 866 m, 801,5 m, 909,5 m, «N 60° 47′ E = 866,6 m» y «S 29° 55′ 30″ E». El arroyo entra desde el frente A-B. Lápiz: «289440» [?] y «1165 m».",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle central: Gregoria, María D. y la viuda",
+   "img": "img/f/164/06.jpg",
+   "fuente": "IMG_0534.JPG",
+   "orientacion": "como el plano general",
+   "interpretacion": "«Arroyo» rotulado; «Gregoria D. de Quiroga, Sup. = 74 h 84 a 07,1 c»; «N 60° 47′ E = 867,2 m»; cotas 400 m y 467,2 m en f-j-g; 75,5 junto a h; «Antonia Navarro de Díaz, Sup. = 69 h 96 a 73,8 c». A la derecha la leyenda de los sobrantes de Díaz de Vivar.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle centro-SE: Domingo N. Díaz, Petrona D. de Bravo y los caminos",
+   "img": "img/f/164/07.jpg",
+   "fuente": "IMG_0535.JPG",
+   "orientacion": "como el plano general",
+   "interpretacion": "«Camino General» en diagonal, «Camino de Mercedes» a lo largo de l-o; «S 29° 58′ E = 1159,6 m», «N 60° 47′ E = 1334,4 m» (dos veces), «S 61° 06′ O = 838,4 m», 678 m y «S 29° 59′ E = 1731,4 m»; cotas 573,4 y 586,2; 84 m junto a s; 651,5 y 682,9.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle SE: Valentina, José B. y Gerónima; los González",
+   "img": "img/f/164/08.jpg",
+   "fuente": "IMG_0536.JPG",
+   "orientacion": "como el plano general",
+   "interpretacion": "«N 60° 10′ E = 2172,8 m» con parciales 754,8, 735,5 y 682,9; 1053,4 y 1032,5 / 1025,1 / 1017,9 en las divisorias; E y E′ en la esquina; linderos «Felipa González», «Francisco González», «Máximo González»; flecha de norte.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Un campo de pastoreo ya cerrado: todas las líneas alambradas salvo E-F, con PORTADAS donde entran los caminos (Camino General de Giles a Luján en A-B a 1453 m y en D-E a 1794,6 m; otra portada en E-F a 1215 m). Lo cruzan un arroyo con varios brazos («arroyitos» a 1200 m en A-B y a 1750 y 2610 m en E-F) que corre de SO a NE, el camino a Mercedes y el de Luján. Hay un PUESTO de los herederos de Antonio E. Díaz con patio, atravesado por la línea E-F a 2950 m: la casa queda justo sobre el límite disputado con Vivar. Mojones de ñandubay en todos los vértices; un mojón viejo «dos metros adentro de la línea y sobre el alambrado». Es el paisaje de fines del XIX: alambre, portada, puesto, camino real, y la vieja estancia de 1849 convertida en diez chacras de 70-79 ha."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Comisión judicial (27/11/1891), citación de linderos en circular (que se acompaña en original) y edictos en diarios; la mensura arranca el 25 de diciembre de 1891, día de Navidad. «Protestas no hubieron». La circular la firman por otros: una mujer a ruego de su marido (Isabel [?] S. de Peñalva por Paulino Peñalva), un hermano por otro (Francisco por Máximo González), un tercero por Felipa González (Gerardo [?] Amarillo) y una hija por su padre (Margarita [?] Glesson por Santiago). La negociación real ocurrió antes, entre hermanos: la permuta de 1871 con Romana (copiada «Ramona») y Toribio González (30.000 v² de diferencia) y la ratificación colectiva de 1882 de la partición extrajudicial de 1849, firmada por tres generaciones de Díaz, Arias, Alcázar, González, Campana y Coppa: la «formalización» de títulos privados para poder dividir en juicio."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos al minuto (y al medio minuto: 29° 55′ 30″) y distancias al centímetro; variación 11° 10′ NE. Verificación en python: el perímetro cierra a 2,69 m sólo si B-C es S 60° 42′ O (el texto y el plano dicen E) y encierra 743,15 ha. Los lotes rectangulares cierran entre 0,00 y 0,16 m (Pedro, Antonio E., María D., la viuda, Petrona, Gerónima); José B. a 0,98 m; Domingo a 7 m y Valentina a 8,7 m, en el entrante B-C-l donde concurren los rumbos 60° 42′, 61° 06′ y 60° 10′. Suma de los diez lotes: 743,757 ha (con Gregoria = 74,84). La división se hizo por valor: todos los lotes dan exactamente 88,6229 $/ha, lo que permite detectar dos errores de copia (Gregoria 78 → 74 ha; Petrona 6967,661 → 6932,661 $). Las divisorias son paralelas a los lados (N 60° 47′ E y N 29° 55′ 30″ O): reparto en dos columnas a ambos lados de una línea media."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Los títulos están en varas (1500 × 7900 v en 1849 = 888,70 ha; 3.720.000 y 3.750.000 v² en 1871 = 278,98 y 281,23 ha; 2000 × 1125 v vendidas a Glesson en 1883 = 168,74 ha); la mensura es enteramente métrica, con superficies en hectáreas, áreas, centiáreas y «centécimos» de centiárea. Valores en pesos moneda nacional con milésimos (66.600 $ el campo). Las 749,2060 ha del título sucesorio caben bien en 923,58 ha de la hijuela de Fernando en Saubidet 1870 (059) menos la venta a Glesson (= 754,84 ha); la mensura halla 5,4 ha menos, del orden de la faja que retienen los alambrados de Vivar sobre E-F (≈ 11 ha)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "José Díaz y Feliciana Torres → partición extrajudicial de 1849: a Fernando Díaz y Torres 1500 × 7900 v en el sur del ejido, entre los herederos de Cruz Rodríguez de Díaz, José Díaz, Blas Achával y el pueblo → permuta de lotes con su hermana Romana y Toribio González en 1871, protocolizada en 1877-1881 → venta de una punta de 168,74 ha a Santiago Glesson (1883) → sucesión de Fernando Díaz (partición aprobada 9/10/1891) → diez lotes para la viuda Florencia Antonia Navarro y los hijos Díaz y Navarro (o sus herederos: los Díaz y Quiroga, los Díaz y Frías). Las hijas casadas firman con apellidos de marido: de Quiroga, de Navarro, de Bravo, de Albis, de Altube. La fragmentación en lotes de 70-79 ha anticipa la chacra familiar del siglo XX."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "059 (Saubidet 1870, herederos de José Díaz: el rectángulo de ≈ 1830 ha al S del pueblo con la hijuela de Fernando Díaz de 923,58 ha, Atanacia D. de Ortiz, Rufina D. de Cabral y Romana D. de González, y el «sobrante» de los herederos de Pedro Díaz de Vivar: es el antecedente directo, y aquí se ve el mismo sobrante como «Sobrantes conocidos por de Díaz de Vivar»); 138 (Pedro B. Ninet 1884: sus cinco fracciones con títulos de Romana Díaz y Atanacia D. de Ortiz, el camino a Luján: Ninet es el lindero SO); 120 (Toribio González 1882); 091 y 060 (José Piquetto / Pichetto, lindero O del bloque); 039, 139-141 y 158 (las «sobras de Díaz de Vivar»); 153 y 157 (Aranguren 1889-1890, bloque Lescano vecino, rumbos S 29° 32′ E / N 59° 56′ E casi iguales); 160 y 163 (las mismas firmas del D. I.: Albarracín, Sal, Romero); 035 y 057 (los Peñalva)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Texto completo fs. 1-10 vta. y plano f. 11 (seis tomas). Falta el auto de aprobación. IMG_0532 (plano desplegado) tiene fecha de archivo 2019: toma agregada después, pero corresponde a este mismo plano. Dudosas: Geremías [?] Vanoli, José Piquetto [?] / Picheto, Vicente Cutillas [?], José Bartis [?], Domingo Nereo [?], Ireneo [?] Arias, Isabel [?] S. de Peñalva, Gerardo [?] Amarillo, Margarita [?] Glesson, Benjamín Sal [?] y la rúbrica inicial del D. I.; s-l 764,90 (¿754,40?). Preguntas: ¿la faja de 24,5-35 m entre E-F y el alambrado de Vivar se perdió o se reclamó? ¿qué valor tenía el resto de los bienes («entre otras cosas»)? ¿«Gregoria N. Díaz de Quiroga» y los hijos «Díaz y Quiroga» de Domingo indican un doble casamiento con una familia Quiroga? ¿quién es la Francisca Díaz lindera S en 1871?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Fernando Díaz y Torres",
+   "rol": "Causante",
+   "texto": "Hijo de José Díaz y Feliciana Torres; recibió en 1849 1500 × 7900 v al S del pueblo; permutó lotes con su hermana Ramona en 1871 y vendió a Santiago Glesson en 1883; ratificó la partición materna en 1882. Murió antes de 1891; casado con Florencia Antonia Navarro, padre de diez hijos.",
+   "fuentes": "Este duplicado; ficha 059."
+  },
+  {
+   "nombre": "Florencia Antonia Navarro de Díaz",
+   "rol": "Viuda, adjudicataria",
+   "texto": "Recibe 69 ha 96 a 73,8 ca (6200,711 $ de un haber de 9200,711 $) en el centro del campo, entre Gregoria, María D., Domingo y Petrona.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Hijos Díaz y Navarro",
+   "rol": "Herederos",
+   "texto": "Pedro Crisólogo (69,44 ha); Antonio E., fallecido, representado por su viuda Socorro Frías y sus hijos Antonio Gerónimo, Justo Rufino y Rita Prudencia Díaz y Frías (78,79 ha, con el puesto); María Dolores Díaz de Navarro (72,02 ha); Gregoria Naciancena Díaz de Quiroga (74,84 ha); Domingo Nereo [?], fallecido, representado por sus hijos menores Domingo Fortunato, Modesto Fernando, Francisco Aureliano y José Antonio Díaz y Quiroga (76,46 ha); Petrona Celestina Díaz de Bravo (78,23 ha); Gerónima Emiliana Díaz de Albis (69,76 ha); José Benito (75,63 ha); Josefa Valentina Díaz de Altube (78,62 ha).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "José Díaz y Feliciana Torres de Díaz",
+   "rol": "Abuelos, origen del título",
+   "texto": "Matrimonio cuya herencia se partió extrajudicialmente en 1849; José, viudo, recibió tierra al S de la de Fernando. Hijos: Fernando, Juana, Rufina, Romana, Atanacia, Ramona, Juliana, Micaela. Su campo, medido por Saubidet en 1870, es la ficha 059.",
+   "fuentes": "Este duplicado; ficha 059."
+  },
+  {
+   "nombre": "Romana (Ramona) Díaz de González y Toribio González",
+   "rol": "Hermana y cuñado; permuta de 1871",
+   "texto": "Permutaron con Fernando 3.720.000 v² por 3.750.000 v² en 1871 ante el juez de paz Juan Silva. La ratificación de 1882 muestra que la esposa de Toribio era ROMANA (sus hijos firman «como herederos de Doña Romana Díaz de González»), como en 059; el «Ramona» de la copia de la permuta es confusión con otra hermana. Toribio, viudo en 1882, con hijos Polonio, Francisco, Bibiano, Cecilia, Macario y Felipa González; Felipa, Francisco y Máximo son linderos SE en 1891. Toribio es el comprador de 120 (Dabadie 1882); Romana figura en 059 y en los títulos de Ninet (138).",
+   "fuentes": "Este duplicado; fichas 059, 120, 138."
+  },
+  {
+   "nombre": "Atanacia Díaz de Ortiz, Micaela Díaz de Ponce, Juliana Díaz, Juana Díaz y Rufina Díaz",
+   "rol": "Tías; ratificantes de 1882",
+   "texto": "Atanacia, viuda de Julián Ortiz (en 059 y 138); Micaela con Mauricio Ponce; Juliana, madre de Ireneo [?] y Fructuoso Arias; Juana, esposa de Pedro Rodríguez; Rufina, madre de Teresa Alcázar (viuda de Saturnino Latorre) y León Alcázar (en 059 «Rufina D. de Cabral»).",
+   "fuentes": "Este duplicado; fichas 059, 138."
+  },
+  {
+   "nombre": "Ramona Díaz, Antonia Campana y Juan Coppa",
+   "rol": "Tía y sus herederos; ratificantes de 1882",
+   "texto": "Ramona Díaz (casada con un Campana) es hermana distinta de Romana: su hija Antonia Campana, con su marido Juan Coppa, ratifica en 1882 como heredera. Los maridos de las hijas de Toribio y Romana fueron Isidoro Díaz, Esteban Pérez y Agustín González.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Juan J. Aranguren",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor de La Plata, autor en Giles de las mensuras de los herederos de Patricio Kelly (1889) y de Dionisio Acuña (1890), en el bloque Lescano vecino; aquí comienza el 25/12/1891 y firma en setiembre de 1892. Probablemente emparentado con José A. Aranguren, propietario en el rincón SO (061, 140).",
+   "fuentes": "Este duplicado; fichas 153, 157, 061."
+  },
+  {
+   "nombre": "Felipe de San Martín",
+   "rol": "Apoderado de fernando díaz (1877)",
+   "texto": "Pidió en Mercedes la protocolización del documento de permuta.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Juan San Martín",
+   "rol": "Juez de 1.ª instancia del departamento del centro (1881)",
+   "texto": "Doctor; ordenó la protocolización (26/11/1881) y otorgó la escritura del 6/12/1881 con el secretario Valentín Piñero.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Rómulo Etcheverry",
+   "rol": "Juez de 1.ª instancia del centro (1891)",
+   "texto": "Aprobó la cuenta particionaria el 9/10/1891 (escribano secretario Miguel Herrera). Probablemente el jurista Rómulo Etcheverry Boneo, estudiado como tal por la Universidad Católica Argentina.",
+   "fuentes": "Este duplicado; repositorio UCA, «Rómulo Etcheverry Boneo, jurista» (búsqueda web 15/11/2026; identificación no confirmada)."
+  },
+  {
+   "nombre": "Juan Silva",
+   "rol": "Juez de paz de giles (1871)",
+   "texto": "Autorizó la permuta del 2/1/1871 con los testigos Luis Saccone y Geremías [?] Vanoli. Un Juan Silva aparece como vecino en las fichas del ejido.",
+   "fuentes": "Este duplicado; METODO (lista de vecinos del pueblo)."
+  },
+  {
+   "nombre": "Nicanor Ponsati, Fernando del Río, Valentín Piñero, Miguel Herrera",
+   "rol": "Escribanos y secretarios",
+   "texto": "Ponsati protocoliza en Mercedes (1881); Del Río, escribano de Giles, registra la venta a Glesson (1883) y la ratificación (1882); Piñero y Herrera, secretarios de los juzgados del Centro.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Pascual y Cristóbal Rodríguez; Vicente Cutillas [?]; José Bartis [?]",
+   "rol": "Tasadores y partidores",
+   "texto": "Los Rodríguez tasaron los bienes de Feliciana Torres en 1849 y Cutillas [?] hizo la cuenta particionaria; el Dr. José Bartis [?] hizo la de la sucesión de Fernando Díaz (1891).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Santiago Glesson y Margarita [?] Glesson",
+   "rol": "Lindero no y su hija",
+   "texto": "Compró a Fernando Díaz en 1883 un pastoreo de 2000 × 1125 v (168,74 ha); su hija firma la circular por él. Apellido irlandés (¿Gleeson?).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Paulino Peñalva e Isabel [?] S. de Peñalva",
+   "rol": "Lindero so",
+   "texto": "Su campo empieza en A y llega a 1165,70 m sobre A-B; su esposa firma a su ruego. Rama de los Peñalva de 035, 057 y 163.",
+   "fuentes": "Este duplicado; fichas 035, 057, 163."
+  },
+  {
+   "nombre": "Pedro B. Ninet",
+   "rol": "Lindero so",
+   "texto": "Propietario de cinco fracciones medidas por Orlandini en 1884 (138) con títulos de Romana Díaz y Atanacia D. de Ortiz: es decir, de tierra de los mismos Díaz.",
+   "fuentes": "Este duplicado; ficha 138."
+  },
+  {
+   "nombre": "Felipa, Francisco y Máximo González; Gerardo [?] Amarillo",
+   "rol": "Linderos se y firmante",
+   "texto": "Hijos de Toribio González y Ramona Díaz; Felipa casada (¿con Amarillo?), firma por ella Gerardo [?] Amarillo.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Herederos de Pedro Díaz de Vivar",
+   "rol": "Lindero ne («sobrantes»)",
+   "texto": "Titulares del viejo sobrante al NE del campo; su alambrado (E′-F′) corre entre 24,5 y 35 m dentro de la línea de mensura.",
+   "fuentes": "Este duplicado; fichas 039, 059, 139-141, 158."
+  },
+  {
+   "nombre": "José Piquetto (Picheto), José Revello, Blas Achával, Cruz Rodríguez de Díaz, Francisca Díaz",
+   "rol": "Linderos de los títulos",
+   "texto": "Linderos antiguos del bloque Díaz (1849-1871); Piquetto/Pichetto es el de 091; Achával al E (059).",
+   "fuentes": "Este duplicado; fichas 059, 091."
+  },
+  {
+   "nombre": "Carlos M. Albarracín, Julián Romero, Benjamín Sal [?]",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firman la vista favorable del 17/11/1892 junto a una rúbrica ilegible; los mismos nombres aparecen en las vistas de 1890-1892 (160, 163).",
+   "fuentes": "Este duplicado; fichas 160, 163."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/164/02.jpg",
+  "fuente": "IMG_0520.JPG",
+  "lineas": [
+   "San Andres de Giles «164»",
+   "1892",
+   "Duplicado de la diligencia de mensura practicada en terreno de propiedad de los herederos de Don Fernando Diaz situado en Partido de San Andres de Giles. —",
+   "Agrimensor J. J. Aranguren",
+   "[trazo diagonal]",
+   "[a lápiz:] 3.107.277."
+  ]
+ },
+ "titulo": "Herederos de Fernando Díaz",
+ "estado": "Transcripta (20 hojas, 76 renglones), 6 láminas"
+}
