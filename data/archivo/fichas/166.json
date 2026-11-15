@@ -1,0 +1,461 @@
+{
+ "carpeta": "166",
+ "carpeta_nombre": "Carpeta 166",
+ "archivo": "Ficha 166 - Yriberry y Camadro (1894).docx",
+ "resumen": {
+  "N.º de duplicado": "166 (Partido de Giles); en portadilla «4. 169.26» [?]",
+  "Propietario / solicitante": "Bautista Yriberry y Mariana Camadro",
+  "Agrimensor": "Apolinario Orlandini",
+  "Año": "1894",
+  "Fecha de la diligencia": "Auto 2/4/1894; operación abril; D. I. 26/4/1894; aprobada 20/7/1894",
+  "Ubicación": "Bloque Gutiérrez, entre los caminos viejo y nuevo de Mercedes al Carmen de Areco",
+  "Orden judicial": "Juez Civil del Centro Dr. Lorenzo A. Espinosa, sec. Miguel Herrera (Mercedes)",
+  "Vendedor / antecesor": "Petrona Gutiérrez de Molina (1873), hijuela de Bernardo Gutiérrez",
+  "Linderos citados": "J. M. Muñiz, J. N. Martínez, C. Madariaga de Gallino, herederos de José Dunne",
+  "Medidas": "AB 3018,77 m; BC 2502,28; CD 2369; DA 2607,5 (todo alambrado)",
+  "Rumbos": "S 46° 48′ E / N 43° 06′ E / N 46° 13′ O / S 57° 32′ O",
+  "Referencia de archivo": "AHG PBA, duplicado 166 de Giles; copia del plano La Plata, agosto 1938"
+ },
+ "metricas": {
+  "superficie_ha": "677,71",
+  "hitos": "estancia y puesto de Yriberry; tres taperas, monte; mojones de ñandubay y de fierro",
+  "aguas": "no se citan cursos de agua"
+ },
+ "sintesis": "Mensura del «terreno de pastoreo» de Bautista Yriberry y Mariana Camadro: 400 cuadras compradas en 1873 a Petrona Gutiérrez de Molina, parte de su hijuela en la testamentaría de Bernardo Gutiérrez. Orlandini mide en abril de 1894 un cuadrilátero alambrado de 677,71 ha (exceso 0,41 %, cierre de 6 cm) entre José María Muñiz, Julián N. Martínez, Carmen Madariaga de Gallino y los herederos de José Dunne. Corrige un error del título (7 794 000 m² por 6 749 604 m²: el escribano convirtió las varas cuadradas como lineales). El campo está cruzado por el telégrafo y los caminos viejo y nuevo de Mercedes al Carmen de Areco; tiene estancia con arboleda y alfalfar, un puesto, tres taperas y un monte. Sin acta: ningún lindero concurrió, pero todos firmaron la circular. D. I. 26/4/1894; aprobación 20/7/1894.",
+ "caratula": {
+  "img": "img/f/166/01.jpg",
+  "fuente": "IMG_0547.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "166"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Bautista Yriberry y Mariana Camadro"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Apolinario Orlandini"
+   ],
+   [
+    "Mes / Año",
+    "Abril de 1894"
+   ],
+   [
+    "Juzgado",
+    "Dr. Lorenzo A. Espinosa"
+   ],
+   [
+    "Secretaría",
+    "Miguel Herrera"
+   ],
+   [
+    "Duplicados de referencia",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · encabezado y extracto de títulos (1873)",
+   "img": "img/f/166/06.jpg",
+   "fuente": "IMG_0549.JPG (girada 90°)",
+   "nota": "La página se fotografió con el libro acostado: se lee girándola 90°.",
+   "lineas": [
+    "[Sello: Foja 1]",
+    "[Duplicado]",
+    "Diligencia de men-/sura del terreno de pastoreo per-/teneciente á Dn. Bautista Yri-/berry y á Da. Mariana / Camadra [sic], ubicado en el / partido de Giles.—",
+    "Extracto de títulos.—",
+    "En Mercedes á 27 de / Enero de 1873,— ante el Escribano / Dn. Nicanor S. Ponsati, Doña / Petrona Gutierrez de Molina y su / legítimo esposo Dn. Olegario Mo-/lina, quien le concede su venia / para este acto,— la primera dijo: / Que vende á Dn. Bautista Yriberry / y su legítima esposa Da. Mariana / Camadro una área de campo / de su propiedad, situada"
+   ],
+   "interpretacion": "Encabezamiento del duplicado: «Diligencia de mensura del terreno de pastoreo» de Bautista Yriberry y Mariana Camadro (aquí escrito «Camadra»), en el partido de Giles. Abre el «Extracto de títulos»: en Mercedes, el 27 de enero de 1873, ante el escribano Nicanor S. Ponsati, Petrona Gutiérrez de Molina, con la venia de su esposo Olegario Molina, vende al matrimonio un área de campo de su propiedad."
+  },
+  {
+   "titulo": "Folio 1 vuelto · superficie, linderos de 1873 y origen sucesorio",
+   "img": "img/f/166/07.jpg",
+   "fuente": "IMG_0550.JPG (mitad izquierda)",
+   "nota": "Los linderos de 1873 (Pirán, Dunn, reserva de Petrona, Victorina) no son los de 1894 (Muñiz, Martínez, Madariaga de Gallino, Dunne): veinte años de ventas en el bloque Gutiérrez.",
+   "lineas": [
+    "en el partido de Giles, cuya / superficie se compone de siete / millones setecientos noventa y / cuatro mil metros cuadrados, / equivalente á nueve millones / de varas cuadradas ó sea un cuar-/to de legua de campo;— linda / por el Norte con herederos de Dn. / Antonio Piran, por el Oeste con / Dn. José Dunn, por el Sud con / mas campo que se reserva la / vendedora, y por el Este con cam-/po perteneciente á la testamenta-/ria de Da. Victorina Gutierrez.",
+    "Le corresponde como parte de / lo que en mayor estension, / y entre otras cosas, le fué adju-/dicado en el arreglo y liquidacion / de la testamentaria de su señor / padre Dn. Bernardo Gutierrez, / en pago de su legítima, segun / así consta de su hijuela res-/pectiva, cuyo testimonio fué / autorizado con fecha 2 de Octubre / de 1871, por el Escribano Dn. / Leandro Garcia, adscripto á la"
+   ],
+   "interpretacion": "El título declara 7 794 000 m² «equivalente á nueve millones de varas cuadradas ó sea un cuarto de legua de campo». Linderos de 1873: al N herederos de Antonio Pirán, al O José Dunn, al S más campo que se reserva la vendedora, al E la testamentaría de Victorina Gutiérrez. Petrona lo tiene como parte de lo adjudicado en la testamentaría de su padre Bernardo Gutiérrez «en pago de su legítima», hijuela autorizada el 2/10/1871 por el escribano Leandro García, adscripto a la oficina de Mariano Cabral."
+  },
+  {
+   "titulo": "Folio 2 · precio, pago y nota sobre el error del título",
+   "img": "img/f/166/08.jpg",
+   "fuente": "IMG_0550.JPG (mitad derecha)",
+   "nota": "Verificado: 9 000 000 × 0,866² = 6 749 604 m² exactos. El 7 794 000 del título parece salir de multiplicar por 0,866 una sola vez (9 000 000 × 0,866 = 7 794 000): el escribano convirtió varas cuadradas como si fueran lineales.",
+   "lineas": [
+    "[Sello: Foja 2]",
+    "Oficina de Dn. Mariano Cabral, / á cargo de Dn. Laureano Car-/balleda.—",
+    "Se lo vende á los nombrados / Dn. Bautista Yriberry y Da. Ma-/riana Camadro en trescientos / cincuenta mil pesos moneda / corriente, pagando al contado tres-/cientos mil pesos y el resto quedó / á pagarse en un año de plazo.—",
+    "Con fecha 27 de Enero de / 1874, ante el Escribano Dn. Ni-/canor S. Ponsati, en Mercedes, / se pagaron los cincuenta mil / pesos que se quedaron debiendo.—",
+    "Nota.— Hay que hacer una / salvedad respecto de la reduccion / en metros que se ha hecho del / cuarto de legua de campo, ó sea / cuatrocientas cuadras cuadradas equi-/valente á nueve millones de varas / cuadradas que está equivocada, / por que las cuatrocientas cua-/dras, que son las que realmen-/te se han vendido, forman un / área de seis millones setecientos / cuarenta y nueve mil seiscien-[tos]"
+   ],
+   "interpretacion": "Precio: 350 000 pesos moneda corriente, 300 000 al contado y 50 000 a un año; el saldo se cancela el 27/1/1874 ante Ponsati en Mercedes. Orlandini agrega una NOTA: la reducción a metros del cuarto de legua (400 cuadras = 9 000 000 v²) está equivocada; lo realmente vendido forma 6 749 604 m²."
+  },
+  {
+   "titulo": "Folio 2 vuelto · cierre de la nota; proposición y antecedentes (abril 1894)",
+   "img": "img/f/166/09.jpg",
+   "fuente": "IMG_0551.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "-tos cuatro metros cuadrados, y no, / como equivocadamente se / dice en el título que son: siete / millones setecientos noventa y / cuatro mil metros cuadrados.—",
+    "Con fecha 2 de Abril de / 1894 el suscrito fué propuesto / para practicar la mensura / del campo de Dn. Bautista Yri-/berry y de Da. Mariana Camadro,— / en Abril 2 acepté el cargo y en 12 del / mismo mes tomé antecedentes / en el Departamento de Ingenieros / de la Provincia.—",
+    "Mensura.—",
+    "Comisionado por / el señor Juez de 1.ª Ynstancia / en lo Civil y Comercial del Depar-/tamento del Centro, Doctor Dn. / Lorenzo A. Espinosa,— secretario Dn. / Miguel Herrera, por auto de / fecha 2 de Abril de 1894 pa-/ra medir un campo de pro-"
+   ],
+   "interpretacion": "Cierra la nota («y no, como equivocadamente se dice en el título, 7 794 000 m²»). El 2 de abril de 1894 Orlandini es propuesto para la mensura, acepta el mismo día y el 12 toma antecedentes en el Departamento de Ingenieros. Comienza la «Mensura»: comisión del Juez de 1.ª Instancia en lo Civil y Comercial del Departamento del Centro, Dr. Lorenzo A. Espinosa, secretario Miguel Herrera, auto del 2/4/1894."
+  },
+  {
+   "titulo": "Folio 3 · edictos, arranque y costado NE (D-C)",
+   "img": "img/f/166/10.jpg",
+   "fuente": "IMG_0551.JPG (mitad derecha)",
+   "nota": "La letra D del copista se parece a «II»; el plano confirma D.",
+   "lineas": [
+    "[Sello: Foja 3]",
+    "piedad de Don Bautista Yriberry / y de Doña Mariana Camadro, ubi-/cado en el partido de Giles, previa / citacion de linderos y edictos pu-/blicados en los diarios «El Boletin / Judicial» y el «El Provincial» / de Mercedes, di principio á la ope-/racion el dia 1[?] de Abril del / corriente año, de la manera / que sigue:—",
+    "Costado Nord-Este.— / Deslindando con Dn. José Maria Muñiz.—",
+    "Linea D C [?].— Alambrada.— / Rumbo Sud cuarenta y seis gra-/dos trece minutos Este.— Mide / (2369.m) dos mil trescientos sesenta / y nueve metros hasta C, mojon / esquinero Este del campo que se / mide.— En esta línea: á mil cien-/to veinte metros, á la derecha mil / metros Estancia de Don Bautista / Yriberry.—",
+    "Costado Nord-Oeste.— / Deslindando con Dn. Julian / Norberto Martinez y Doña Cármen / Madariaga de Gallino.—"
+   ],
+   "interpretacion": "Citación de linderos y edictos en «El Boletín Judicial» y «El Provincial» de Mercedes; la operación empieza un día de abril (cifra dudosa: 1[?]). Costado NE, con José María Muñiz: línea D-C, ALAMBRADA, S 46° 13′ E, 2369 m hasta C, esquinero E. A 1120 m, 1000 m a la derecha (hacia adentro), la «Estancia de Don Bautista Yriberry». Empieza el costado NO, con Julián Norberto Martínez y Carmen Madariaga de Gallino."
+  },
+  {
+   "titulo": "Folio 3 vuelto · costado NO (A-D): telégrafo, caminos, puesto y mojones de fierro",
+   "img": "img/f/166/11.jpg",
+   "fuente": "IMG_0552.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Linea A D.— Alambrada.— / Rumbo Norte cincuenta y siete / grados treinta y dos minutos Este.— / Mide (2607.m5) dos mil seiscientos / siete metros cinco decímetros has-/ta D, mojon esquinero Norte / ya descripto.— En esta línea: á / dos mil quinientos setenta y cua-/tro metros mojon esquinero co-/mun de Dn. Julian Norberto / Martinez y de Da. Cármen Mada-/riaga de Gallino y costanero / del campo que se mide;— á dos / mil doscientos veinte y siete me-/tros interseccion del Telégrafo;— / á mil setecientos treinta metros / cuatro decímetros, mojon costanero / de fierro;— á mil ciento cincuenta / y dos metros camino nuevo de / Mercedes al Cármen de Areco;— á / ochocientos cincuenta y siete metros / camino antiguo de Mercedes al Cár-/men de Areco;— á ochocientos siete / metros, á la derecha ocho metros pues-/to de Dn. Bautista Yriberry;— á cua-/trocientos veinte y ocho metros"
+   ],
+   "interpretacion": "Línea A-D, alambrada, N 57° 32′ E, 2607,5 m hasta D. Las progresivas se cuentan desde A pero se enumeran desde D: a 2574 m mojón esquinero común de Martínez y de Madariaga de Gallino; 2227 m cruce del TELÉGRAFO; 1730,4 m mojón costanero DE FIERRO; 1152 m CAMINO NUEVO de Mercedes al Carmen de Areco; 857 m CAMINO ANTIGUO de Mercedes al Carmen de Areco; 807 m, 8 m a la derecha, PUESTO de Yriberry; 428,6 m otro mojón de fierro."
+  },
+  {
+   "titulo": "Folio 4 · tapera con monte; costado SO (A-B) con los Dunne",
+   "img": "img/f/166/12.jpg",
+   "fuente": "IMG_0552.JPG (mitad derecha)",
+   "nota": "Tres taperas y un monte en el borde del campo: rastros de ocupaciones anteriores al alambrado.",
+   "lineas": [
+    "[Sello: Foja 4]",
+    "seis decímetros mojon costanero / de fierro;— á doscientos veinte / y siete metros, á la derecha cien-/to cincuenta metros tapera anti-/gua con monte.—",
+    "Costado Sud-Oeste.— / Deslindando con los herederos de / Don José Dunne.—",
+    "Linea A B.— Alambrada.— / Rumbo Sud cuarenta y seis / grados cuarenta y ocho minutos / Este.— Mide (3018.m77) tres mil / diez y ocho metros setenta y sie-/te centímetros hasta el mo-/jon B, esquinero Sud del cam-/po que se mide.— En esta línea: / á dos mil ochenta y ocho metros ta-/pera y á dos mil doscientos ochen-/ta metros, á la izquierda ochenta / metros otra tapera antigua.—",
+    "Costado Sud-Este.— / Deslindando con Dn. José Ma-/ria Muñiz.—",
+    "Linea B C.— Alambrada.— / Rumbo Norte cuarenta y tres / grados seis minutos Este.—"
+   ],
+   "interpretacion": "A 227 m de A, 150 m a la derecha, «tapera antigua con monte». Costado SO, con los herederos de José Dunne: A-B, alambrada, S 46° 48′ E, 3018,77 m hasta B, esquinero S; a 2088 m una tapera y a 2280 m, 80 m a la izquierda, «otra tapera antigua». Costado SE, con José María Muñiz: B-C, alambrada, N 43° 06′ E."
+  },
+  {
+   "titulo": "Folio 4 vuelto · B-C, mojones de ñandubay y superficie",
+   "img": "img/f/166/13.jpg",
+   "fuente": "IMG_0553.JPG (mitad izquierda)",
+   "nota": "Verificado en python: el polígono cierra a 6 cm y su área calculada es 677,7055 ha (el texto da 677,7058).",
+   "lineas": [
+    "Mide (2502.m28) dos mil qui-/nientos dos metros veinte / y ocho centímetros hasta C, / mojon esquinero Este del / campo que se mide.— En / esta línea: á setecientos cua-/renta y cuatro metros cami-/no antiguo de Mercedes al / Cármen de Areco;— á dos / mil doscientos noventa y / tres metros interseccion del / Telégrafo.—",
+    "Los cuatro mojones es-/quineros del campo que se / acaba de deslindar, son / de madera de ñandubay.—",
+    "Superficie.— El / polígono A B C D, contiene una / superficie de (677.h 70.a 58.c) seiscientas / setenta y siete hectáreas setenta / áreas cincuenta y ocho centiá-/reas.—",
+    "El título del campo / que se ha medido expresa / (674.h 96.a 04.c) seiscientas setenta"
+   ],
+   "interpretacion": "B-C mide 2502,28 m hasta C; a 744 m el camino antiguo de Mercedes al Carmen de Areco y a 2293 m el telégrafo. Los cuatro mojones esquineros son de madera de ñandubay. Superficie del polígono ABCD: 677 ha 70 a 58 ca. El título expresa 674 ha 96 a 04 ca."
+  },
+  {
+   "titulo": "Folio 5 · exceso, cierre y circular firmada",
+   "img": "img/f/166/14.jpg",
+   "fuente": "IMG_0553.JPG (mitad derecha)",
+   "nota": "En el encabezado del costado NO el lindero figura como «Julián Norberto Martínez»; en la circular, «Julián N.» firma por medio de su hermano «Norberto E.»: dos personas distintas.",
+   "lineas": [
+    "[Sello: Foja 5]",
+    "y cuatro hectáreas noventa y / [y] seis áreas cuatro centiáreas, / teniendo, por consiguiente, el / terreno un exceso de (2.h 74.a 54.c) / dos hectáreas setenta y cuatro / áreas cincuenta y cuatro / centiáreas, que están compren-/didas dentro de la tolerancia ex-/presada en las Ynstrucciones / para los Agrimensores.—",
+    "Con lo espuesto que-/da terminado mi cometido.—",
+    "Circular.— Este / documento ha sido suscrito por / los señores linderos.—",
+    "Firmando: Don José Maria / Muñiz;— Doña Cármen Mada-/riaga de Gallino;— por los here-/deros de Don José Dunne fir-/mó la señora viuda Doña Maria / R. de Dunne, y por Don Ju-/lian N. Martinez firmó su / señor hermano Don Norber-/to E. Martinez.—"
+   ],
+   "interpretacion": "Exceso de 2 ha 74 a 54 ca (0,41 %), «dentro de la tolerancia expresada en las Instrucciones para los Agrimensores». Circular firmada por los linderos: José María Muñiz, Carmen Madariaga de Gallino, por los herederos de José Dunne la viuda María R. de Dunne, y por Julián N. Martínez su hermano Norberto E. Martínez."
+  },
+  {
+   "titulo": "Folio 5 vuelto · sin acta; firma; vista del Departamento de Ingenieros",
+   "img": "img/f/166/15.jpg",
+   "fuente": "IMG_0554.JPG (mitad izquierda)",
+   "nota": "El Departamento escribe «Mariano Camadro».",
+   "lineas": [
+    "No habiendo concurrido / los señores linderos á pre-/senciar la mensura, no / se labró Acta.—",
+    "Buenos Aires, Abril 2[3?] de / 1894 / Apolinario Orlandini",
+    "[Sello oval: Departamento de Ingenieros de la Provincia — Entrada 23 Abril 94]",
+    "Señor Juez / El Departamento de Ingenieros ha examinado la / mensura practicada por el agrimensor Orlandini, de / un campo de propiedad de D.n Bautista Yriberry y / Mariano [sic] Camadro, situado en el partido de Giles, / y encontrándola bien ejecutada en su parte geomé-/trica y conforme con sus antecedentes, la considera / en estado de ser aprobada judicialmente. / Es necesario hacer presente que al estenderse / la escritura se ha padecido un error, pues / se dice que el terreno vendido se compone de / 7794000 mts. cuads. equivalentes á 9.000000 V.s C.s / ó sea un cuarto de legua cuadrada cuando en / verdad 9.000000 varas c.s equivalen á 6.749604 / metros cuads. que es lo realmente comprado por"
+   ],
+   "interpretacion": "«No habiendo concurrido los señores linderos á presenciar la mensura, no se labró Acta». Buenos Aires, abril 2[3?] de 1894, Apolinario Orlandini; sello de entrada del Departamento de Ingenieros del 23/4/1894. Informe al juez: mensura bien ejecutada y conforme con sus antecedentes; señala el mismo error de la escritura (7 794 000 m² por 6 749 604 m²)."
+  },
+  {
+   "titulo": "Folio 6 · fin del informe (26/4/1894) y firmas",
+   "img": "img/f/166/16.jpg",
+   "fuente": "IMG_0554.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: Foja 6]",
+    "por los interesados.— Este error lo hace notar / el agrimensor Orlandini al final del extrac-/to de títulos. El pequeño sobrante de / dos hect.s setenta i cuatro áreas cincuenta y cuatro / cent.s que resulta se encuentra comprendido en / la tolerancia admitida por la ley de la ma-/teria. / Abril 26/94",
+    "[Firmas:] Félix A. Malato [?] — [J.] Lagos [?] / Angel Etcheverry — Benjamin Sal / Cárlos M. Albarracin — Julian Romero",
+    "[Resto de la página en blanco]"
+   ],
+   "interpretacion": "«Este error lo hace notar el agrimensor Orlandini al final del extracto de títulos». El sobrante de 2,7454 ha está dentro de la tolerancia legal. Abril 26/94. Firmas: Félix A. Malato [?], [J.] Lagos [?], Ángel Etcheverry, Benjamín Sal, Carlos M. Albarracín, Julián Romero."
+  },
+  {
+   "titulo": "Folio 6 vuelto · en blanco",
+   "img": "img/f/166/17.jpg",
+   "fuente": "IMG_0555.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "[En blanco; se transparenta la escritura del f. 6]"
+   ],
+   "interpretacion": "Página en blanco; se transparenta la tinta del folio 6."
+  },
+  {
+   "titulo": "Folio 7 · aprobación judicial (20/7/1894)",
+   "img": "img/f/166/18.jpg",
+   "fuente": "IMG_0555.JPG (mitad derecha)",
+   "nota": "Al pie, un reclamo «Le—» sugiere que el f. 7 vuelto continúa (¿nota de registro?), pero no fue fotografiado.",
+   "lineas": [
+    "[Al margen:] Giles — 166 —   [Arriba:] 4. 352.615 [?]   [Sello fiscal de 1894, 0,50 centavos, N.º 265814]   [Sello: Foja 7]",
+    "Mercedes, Julio 20 de 1894.",
+    "Al Señor Presidente del Departa-/mento de Ingenieros de la / Provincia. La Plata.",
+    "Comunico á V. S. que en / esta fecha se ha aprobado / la operacion de mensura / practicada por el Agrimen-/sor Don Apolinario Orlan-/dini, de un campo situado / en el Partido de Giles de pro-/piedad de Don Bautista Yri-/berry y Doña Maria-/na Camadro.—",
+    "Dios gde. á V. S.",
+    "Angel M.a Ezquer [?]",
+    "Miguel Herrera",
+    "[Sello oval: Departamento de Ingenieros de la Provincia — Entrada 29 Setbre. 94]",
+    "[Al pie, reclamo:] Le—"
+   ],
+   "interpretacion": "Oficio desde Mercedes, 20 de julio de 1894, en papel sellado de 1894 (0,50 $), al Presidente del Departamento de Ingenieros, La Plata: «en esta fecha se ha aprobado la operación de mensura» de Orlandini. Firma el juez Ángel M.ª Ezquer [?] (no Espinosa, que había comisionado) y el secretario Miguel Herrera. Entrada al Departamento el 29/9/1894."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de mensura (Orlandini, abril 1894)",
+   "img": "img/f/166/03.jpg",
+   "fuente": "IMG_0556.JPG (vista general; detalles IMG_0557-0560)",
+   "orientacion": "flecha de N en el ángulo inferior derecho, apuntando hacia abajo a la derecha; el campo queda «cabeza abajo» respecto del N",
+   "interpretacion": "Plano a tinta y acuarela, firmado «Giles, Abril de 1894 · Apolinario Orlandini», escala 0,10 m : 1000 m (1:10 000). Cuadrilátero ABCD con borde verde, rotulado en letras sombreadas «Bautista Yriberry y Mariana Camadro» y «Procedencia de D.n Bernardo Gutiérrez». Cada lado lleva rumbo y longitud en metros y varas (DC 2369 m = 2735,56 v; BC 2502,28 m = 2889,47 v; AB 3018,77 m = 3485,87 v; AD 2607,5 m = 3010,97 v). Lo cruzan la línea del telégrafo (trazo y punto, cerca de D-C), el camino nuevo de Mercedes al Carmen de Areco (doble línea punteada que dobla hacia B-C) y el camino antiguo (línea ondulada). En el centro, la estancia: casa en un cuadro de arboleda cercado, con un potrero «Alfalfar» al pie y un callejón hasta el lado D-C. Junto a A, un monte con «Tapera»; sobre A-B, dos taperas. Legenda: «Sup. ABCD = 677.70.58 · Título = 674.96.04 = 400 c.c. · Exceso = 2.74.54». Junto a AD el rumbo parece «N 51° 32′ E»: la copia de 1938 y el cierre del polígono confirman N 57° 32′ E.",
+   "referencias": [
+    [
+     "A",
+     "Esquinero O, entre Dunne y J. N. Martínez; arranque de A-B y A-D"
+    ],
+    [
+     "B",
+     "Esquinero S, entre Dunne y Muñiz"
+    ],
+    [
+     "C",
+     "Esquinero E, contra Muñiz"
+    ],
+    [
+     "D",
+     "Esquinero N, junto al esquinero común de Martínez y Madariaga de Gallino"
+    ],
+    [
+     "Telégrafo",
+     "Cruza A-D a 2227 m y B-C a 2293 m"
+    ],
+    [
+     "Camino nuevo",
+     "Mercedes al Carmen de Areco; cruza A-D a 1152 m"
+    ],
+    [
+     "Camino antiguo",
+     "Mercedes al Carmen de Areco; cruza A-D a 857 m y B-C a 744 m"
+    ],
+    [
+     "Estancia",
+     "Casa, arboleda, alfalfar; a 1120 m de D y 1000 m hacia adentro"
+    ],
+    [
+     "Puesto",
+     "A 807 m de A, 8 m dentro del campo"
+    ],
+    [
+     "Taperas",
+     "Una con monte a 227 m de A; dos sobre A-B (2088 y 2280 m)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: la estancia de Yriberry",
+   "img": "img/f/166/04.jpg",
+   "fuente": "IMG_0558.JPG",
+   "orientacion": "toma de detalle del plano original",
+   "interpretacion": "Ampliación del centro del plano: la casa (bloque negro) dentro de un cuadrado de árboles con cerco de postes, un segundo cuadro arbolado contiguo, una hilera de árboles al O y debajo el potrero rayado «Alfalfar», todo bajo el rótulo vertical «Estancia». Un callejón cercado baja desde el lado D-C y sigue hasta el camino nuevo al Carmen de Areco. Es el núcleo productivo de un tambo o cabaña ovina vasca de fin de siglo: arboleda de abrigo y alfalfa cultivada.\nCasa\nBloque negro en el cuadro arbolado\nAlfalfar\nPotrero cercado al pie de la arboleda\nCallejón\nDel lado D-C a la estancia y al camino nuevo",
+   "referencias": []
+  },
+  {
+   "titulo": "Copia del plano (Dirección de Geodesia y Catastro, 1938)",
+   "img": "img/f/166/05.jpg",
+   "fuente": "IMG_0561.JPG",
+   "orientacion": "igual al original",
+   "interpretacion": "Copia en tela: «Es copia del plano agregado al duplicado N.º 166 del partido de San Andrés de Giles, mensura practicada en abril de 1894 por el Agrimensor Apolinario Orlandini. La Plata, agosto de 1938». Sello de la Dirección de Geodesia y Catastro (M.O.P.), firma del Director; «Dib. por C. C. Lirón · Rev. por J. S. Chiappino». Repite todos los datos y escribe con claridad N 57° 32′ E en A-D. Las cifras en varas van en rojo.\nCertificación\nLa Plata, agosto de 1938\nDibujante\nC. C. Lirón\nRevisor\nJ. S. Chiappino",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "En 1894 el campo ya está cerrado: los cuatro lados son «alambrada». Adentro hay una estancia con arboleda y ALFALFAR (no hay otro alfalfar registrado en METODO.md: sería el primero de la serie), un puesto sobre el lado NO y TRES TAPERAS, una «antigua con monte». Las taperas son la huella de ocupaciones anteriores (puesteros de los Gutiérrez o arrendatarios) que el alambrado de los vascos dejó atrás. Infraestructura: la línea del TELÉGRAFO y DOS trazas del camino de Mercedes al Carmen de Areco, la antigua y la nueva, separadas unos 300 m sobre A-D: el camino se rectificó, probablemente siguiendo el alambrado. No se nombra ningún curso de agua: campo alto de pastoreo."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Secuencia completa y rápida: propuesta y aceptación el mismo día (2/4/1894), antecedentes en el Departamento de Ingenieros (12/4), edictos en «El Boletín Judicial» y «El Provincial» de Mercedes, citación de linderos. Ningún lindero concurrió («no se labró Acta»), pero todos firmaron la circular, dos de ellos por representación: la viuda María R. de Dunne por los herederos y Norberto E. Martínez por su hermano Julián. El alambrado preexistente hace de la mensura una verificación más que un deslinde disputado: los mojones esquineros de ñandubay y los costaneros de fierro ya estaban."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos al minuto, distancias al centímetro. Verificado en python: el polígono A-B-C-D (S 46° 48′ E 3018,77; N 43° 06′ E 2502,28; N 46° 13′ O 2369; S 57° 32′ O 2607,5) cierra a 0,06 m y encierra 677,7055 ha, contra 677,7058 ha del texto. Las progresivas de A-D se miden desde A pero se escriben desde D (de mayor a menor). Mojones esquineros de ñandubay y costaneros de fierro (a 428,6 y 1730,4 m de A): convivencia de los dos materiales en 1894."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "El dato metrológico central es el ERROR DEL TÍTULO: la escritura de 1873 dice que 9 000 000 v² (un cuarto de legua, 400 cuadras) equivalen a 7 794 000 m². El escribano multiplicó por 0,866 una sola vez, como si fueran varas lineales (9 000 000 × 0,866 = 7 794 000); lo correcto es 9 000 000 × 0,866² = 6 749 604 m². Orlandini lo corrige en una nota del extracto y el Departamento de Ingenieros lo repite en su vista. El exceso real es 2,7454 ha (0,41 %). Conversiones del plano verificadas (AB 3018,77 m = 3485,88 v, etc.). El módulo de venta de 400 cuadras confirma el mercado de tierras por cuadra cuadrada en 1873 (ficha 152)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena: Bernardo Gutiérrez († antes de 1859) → testamentaría, hijuela de Petrona Gutiérrez de Molina (testimonio del 2/10/1871, escribano Leandro García) → venta a Bautista Yriberry y su esposa Mariana Camadro, 27/1/1873, ante Nicanor S. Ponsati en Mercedes, por 350 000 $ m/c (300 000 al contado, saldo pagado el 27/1/1874). Compra conyugal a nombre de ambos esposos. Veintiún años después piden la mensura judicial, quizá para dividir o escriturar. Los linderos cambiaron por completo entre 1873 (Pirán, Dunn, reserva de Petrona, Victorina Gutiérrez) y 1894 (Muñiz, Martínez, Madariaga de Gallino, Dunne)."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "152 (Muñiz 1888-89: verifica la venta «Iriberry 1873 674,96 ha» en el bloque de Petrona Gutiérrez; la cifra coincide exactamente con el título de esta ficha y allí Yriberry figura como lindero); 024 (repartición de Bernardo Gutiérrez 1859); 053 (Schuster 1869, mojón A y hijuela de Petrona; ventas a Dunn 1871 e Iriberry 1873); 123 (testamentaría de Victorina Gutiérrez, lindera E en 1873). José María Muñiz, agrimensor de 034, 048, 083 y 122, es aquí PROPIETARIO lindero por dos lados. Carmen Madariaga de Gallino es probablemente hija de Carmen Pirán de Madariaga (lindera en 152) y heredera de Antonio Pirán (lindero N en 1873). Orlandini: 137-138, 144-146 (1884-86) y 159 (Butterfill, 1891). Secretario Miguel Herrera también en la mensura de Butterfill (159, 1891). Juez Ángel M.ª Ezquer [?] también en 165. Firmas del D. I. (Albarracín, Sal, Romero) como en 1892 (163)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Texto completo fs. 1-7 y plano (original + copia 1938). Falta el f. 7 vuelto (el reclamo «Le—» al pie del f. 7 indica que sigue algo). Dudas: día de inicio de la operación («1[?] de abril»); fecha de la firma de Orlandini (abril 2[3?]); dos firmantes del D. I. (Malato [?], Lagos [?]); juez que aprueba (Ezquer [?]); número «4. 169.26» de la portadilla y «4. 352.615» del f. 7. Preguntas: ¿por qué Espinosa comisiona y otro juez aprueba? ¿Para qué se mide en 1894 un campo comprado en 1873 y ya alambrado (división, hipoteca, venta)? Para el GIS: el polígono cierra y puede situarse a partir del mojón A de Schuster y del lado de Dunn en 152."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Bautista Yriberry (Iriberry)",
+   "rol": "Propietario",
+   "texto": "Por el apellido, vasco (Iriberri, «pueblo nuevo»), probablemente francés o navarro, como otros compradores del bloque Gutiérrez (Doulon). Compra con su esposa 400 cuadras a Petrona Gutiérrez en 1873 y tiene allí estancia y puesto; figura como lindero en la mensura de 1888 (152). En el plano se escribe Yriberry; en 152, Iriberry.",
+   "fuentes": "Fs. 1-3 de este duplicado; ficha 152."
+  },
+  {
+   "nombre": "Mariana Camadro",
+   "rol": "Copropietaria, esposa",
+   "texto": "Esposa legítima de Yriberry y compradora a la par en la escritura de 1873. El apellido varía en el expediente: Camadro (carátula, título, plano), «Camadra» (encabezado del f. 1) y «Mariano Camadro» (vista del D. I.). La lectura Camadro, dudosa en 152, queda confirmada.",
+   "fuentes": "Carátula, fs. 1-2, f. 5 vuelto, plano."
+  },
+  {
+   "nombre": "Petrona Gutiérrez de Molina",
+   "rol": "Vendedora",
+   "texto": "Hija de Bernardo Gutiérrez; recibió su legítima en la testamentaría (hijuela de 1871) y vendió por lotes a Dunn (1871), Yriberry y Doulon (1873), Mansilla (1879) y Gaynor (1888). Su remanente fue medido por Muñiz en 1888-89.",
+   "fuentes": "Fs. 1-1 vuelto; fichas 053 y 152."
+  },
+  {
+   "nombre": "Olegario Molina",
+   "rol": "Esposo de la vendedora",
+   "texto": "Concede la venia marital para la venta de 1873, según el régimen civil vigente.",
+   "fuentes": "F. 1."
+  },
+  {
+   "nombre": "Bernardo Gutiérrez",
+   "rol": "Antecesor",
+   "texto": "Gran propietario de Giles cuya tierra se repartió en 1859 entre seis herederos (024); la «Procedencia de D.n Bernardo Gutiérrez» se rotula en el plano.",
+   "fuentes": "F. 1 vuelto; plano; ficha 024."
+  },
+  {
+   "nombre": "Nicanor S. Ponsati",
+   "rol": "Escribano (mercedes)",
+   "texto": "Autoriza la venta (27/1/1873) y la cancelación del saldo (27/1/1874). También escribano de las ventas de Petrona en 152.",
+   "fuentes": "Fs. 1-2; ficha 152."
+  },
+  {
+   "nombre": "Leandro García, Mariano Cabral, Laureano Carballeda",
+   "rol": "Escribanos",
+   "texto": "García, adscripto a la oficina de Mariano Cabral, a cargo de Laureano Carballeda, autorizó el testimonio de la hijuela de Petrona el 2/10/1871. Sin otras apariciones verificadas.",
+   "fuentes": "Fs. 1 vuelto-2."
+  },
+  {
+   "nombre": "Apolinario Orlandini",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor de largo trabajo en Giles (fichas 137-138, 144-146, 159 de 1891 y esta de 1894). Firma en Buenos Aires. Su nota sobre el error del título muestra el control metrológico del agrimensor sobre la escritura.",
+   "fuentes": "Fs. 2 vuelto-5 vuelto; plano; fichas citadas."
+  },
+  {
+   "nombre": "Lorenzo A. Espinosa",
+   "rol": "Juez comisionante",
+   "texto": "Juez de 1.ª Instancia en lo Civil y Comercial del Departamento del Centro (Mercedes); auto del 2/4/1894.",
+   "fuentes": "Carátula, portadilla, f. 2 vuelto."
+  },
+  {
+   "nombre": "Ángel M.ª Ezquer [?]",
+   "rol": "Juez que aprueba",
+   "texto": "Firma la comunicación de la aprobación (Mercedes, 20/7/1894). La misma firma dudosa aparece en la ficha 165. Puede ser juez subrogante o sucesor de Espinosa en el juzgado.",
+   "fuentes": "F. 7; ficha 165."
+  },
+  {
+   "nombre": "Miguel Herrera",
+   "rol": "Secretario",
+   "texto": "Secretario del juzgado civil de Mercedes; firma la aprobación. Secretario también en la mensura de Butterfill (159, 1891).",
+   "fuentes": "Carátula, f. 2 vuelto, f. 7."
+  },
+  {
+   "nombre": "José María Muñiz",
+   "rol": "Lindero ne y se",
+   "texto": "Agrimensor activo en Giles entre 1865 y 1889 (034, 048, 083, 122, 152) y aquí propietario lindero por dos costados. Firma la circular.",
+   "fuentes": "Fs. 3-5; fichas citadas."
+  },
+  {
+   "nombre": "Julián Norberto Martínez y Norberto E. Martínez",
+   "rol": "Lindero no y su hermano",
+   "texto": "Julián N. Martínez es lindero al NO; firma por él su hermano Norberto E. Martínez. Sin otras apariciones verificadas.",
+   "fuentes": "Fs. 3-5; plano."
+  },
+  {
+   "nombre": "Carmen Madariaga de Gallino",
+   "rol": "Lindera no (ángulo de d)",
+   "texto": "Probablemente hija de Carmen Pirán de Madariaga (lindera en 152) y heredera de Antonio Pirán, lindero N en 1873. Casada con un Gallino. Firma la circular.",
+   "fuentes": "Fs. 3-5; ficha 152."
+  },
+  {
+   "nombre": "José Dunne (Dunn) y María R. de Dunne",
+   "rol": "Linderos so",
+   "texto": "José Dunn compró 481,31 ha a Petrona Gutiérrez en 1871 (152); en 1894 está muerto y firma por sus herederos la viuda María R. de Dunne. Familia irlandesa.",
+   "fuentes": "Fs. 1 vuelto, 4, 5; ficha 152."
+  },
+  {
+   "nombre": "Antonio Pirán y Victorina Gutiérrez",
+   "rol": "Linderos de 1873",
+   "texto": "Herederos de Antonio Pirán al N y testamentaría de Victorina Gutiérrez al E, según el título; Victorina fue medida en 1879 (123).",
+   "fuentes": "F. 1 vuelto; fichas 024 y 123."
+  },
+  {
+   "nombre": "Félix A. Malato [?], [J.] Lagos [?], Ángel Etcheverry, Benjamín Sal, Carlos M. Albarracín, Julián Romero",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firmantes de la vista del 26/4/1894. Albarracín, Sal y Romero ya firman en 1892 (163); Malato aparece como rúbrica dudosa en una anotación de 1889.",
+   "fuentes": "F. 6; fichas 163 y 152."
+  },
+  {
+   "nombre": "C. C. Lirón y J. S. Chiappino",
+   "rol": "Dibujante y revisor (1938)",
+   "texto": "Personal de la Dirección de Geodesia y Catastro (M.O.P.) que dibuja y revisa la copia del plano en agosto de 1938.",
+   "fuentes": "IMG_0561."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/166/02.jpg",
+  "fuente": "IMG_0548.JPG (girada 90°)",
+  "lineas": [
+   "Giles",
+   "N.º 166 —",
+   "Duplicado",
+   "Diligencia de mensura del terreno de pastoreo",
+   "de propiedad de Dn. Bautista Yriberry y de Doña",
+   "Mariana Camadro, ubicado en el partido de Giles.—",
+   "Mercedes · Juez Dr. Lorenzo A. Espinosa · Secretario Miguel Herrera",
+   "4. 169.26 [?] · Apolinario Orlandini, Agrimensor",
+   "Buenos Aires, Abril de 1894"
+  ]
+ },
+ "titulo": "Bautista Yriberry y Mariana Camadro",
+ "estado": "Transcripta (13 hojas, 55 renglones), 3 láminas"
+}

@@ -1,0 +1,546 @@
+{
+ "carpeta": "167",
+ "carpeta_nombre": "Carpeta 167",
+ "archivo": "Ficha 167 - Herederos de Facundo González (1894).docx",
+ "resumen": {
+  "N.º de duplicado": "167 (San Andrés de Giles); en portadilla «H. 145. 165.»",
+  "Propietario / solicitante": "Herederos de Facundo González",
+  "Agrimensor": "Juan J. Aranguren",
+  "Herederos": "Sandalio y Saturnina González (207,97 ha cada uno)",
+  "Año": "1894",
+  "Fecha de la diligencia": "Inicio 28/4/1894; plano agosto; texto set. 1894; D. I. 25/9/1894",
+  "Ubicación": "Fajas de Tadeo Rodríguez (N 31° 04′ O), cuartel 3.º, cruzadas por el Tramway Rural",
+  "Orden judicial": "Juez Civil y Comercial del Centro Dr. Lorenzo A. Espinosa (Mercedes)",
+  "Vendedor / antecesor": "Remigio Rodríguez (herencia), P. R. de Navarro, I. y S. Cucullu, B. Gallo",
+  "Linderos citados": "L. Rodríguez, her. de Arévalo, S. Pagano, B. Gallo, S. Cucullu",
+  "Medidas": "12 lados; A-B 2431,70; E-F 2062,20; H-I 1748,40; G-H 1365,70; I-J 1259 m",
+  "Rumbos": "N 31° 04′ O / N 58° 56′ E (y 58° 54′); B-C N 56° 13′ E; var. 11° 20′ NE",
+  "Referencia de archivo": "AHG PBA, duplicado 167 de Giles; anotaciones de 1899, 1902 y 1905"
+ },
+ "metricas": {
+  "superficie_ha": "561,06",
+  "hitos": "mojones de ñandubay; mojón viejo «a»; estancia en A; alambrados; Tramway Rural",
+  "aguas": "un arroyito en G-H, a 290 m"
+ },
+ "sintesis": "Mensura y división del campo de los herederos de Facundo González, armado entre 1883 y 1892 con la herencia de Remigio Rodríguez (1000 × 7900 v), compras a Pastora R. de Navarro, Isidro y Simón Cucullu y Bartolomé Gallo, menos ventas a Aguilar, Lárega, Pagano, Gallo y Garavento y una donación a Federico Lacroze. Aranguren mide en 1894 un polígono de doce lados de 561,06 ha sobre las fajas N 31° 04′ O de Tadeo Rodríguez (cadena hasta Pedro Díaz de Vivar, 1801), cruzado por el Tramway Rural y un arroyito. Separa el lote de Garavento (145,12 ha) y divide el resto entre Sandalio y Saturnina González (207,97 ha cada uno). Sobrante fiscal de 13,94 ha, escriturado a los dos hermanos en 1902. Cierre en python: 0,60 m.",
+ "caratula": {
+  "img": "img/f/167/01.jpg",
+  "fuente": "IMG_0562.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "167"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Facundo Gonzalez"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "J. J. Aranguren"
+   ],
+   [
+    "Mes / Año",
+    "(en blanco) / 1894"
+   ],
+   [
+    "Juzgado",
+    "(en blanco)"
+   ],
+   [
+    "Secretaría",
+    "(en blanco)"
+   ],
+   [
+    "Duplicados de referencia",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · encabezado y extracto de títulos: hijuelas Rodríguez",
+   "img": "img/f/167/06.jpg",
+   "fuente": "IMG_0564.JPG (girada 90°)",
+   "nota": "El juzgado que tramita la testamentaría se nombra «del Crimen» del Departamento del Centro: probable error de copia.",
+   "lineas": [
+    "[sello: Foja 1 · Archivo]",
+    "Duplicado de la Diligencia de Mensura practicada en terreno de propiedad de los herederos de Don Facundo Gonzalez, situado en el Partido de San Andrés de Giles.—",
+    "Estracto de títulos.—",
+    "Hijuela de Don Remigio Rodriguez.— Hay una copia de hijuela para este heredero, en un sello del año 1868 [?: 1808] y 1869 que no tiene fecha ni más dato que las adjudicaciones entre las que se encuentran adjudicadas mil varas de tierra á real— ciento veinticinco pesos.— Escribano Montiel.—",
+    "2 de Mayo de 1868— Hijuela de Doña Pastora Rodriguez de Navarro.— Se le adjudican diez y seis mil ochocientos sesenta y cuatro pesos siete reales moneda corriente en una área de campo de ciento veintiocho y cuarta varas de frente por siete mil novecientas varas de fondo.— Terreno de estancia en Partido de Giles.— El área adjudicada reconoce por linderos al Norte Doña Pía Rodriguez; al Sud Doña María Villamil y Rodriguez; al Este herederos de Doña Narcisa Diaz y al Oeste herederos de Don Bernardino Rodriguez. Esta adjudicación fué hecha en los autos testamentarios de Doña Faustina Quevedo, por ante el Juzgado del Crímen [sic] del Departamento del Centro, á cargo del Doctor Don José Antonio Zabalía y ante el Escribano Don Nicanor S. Ponsati.—",
+    "Giles 6 de Junio de 1880.— Doña Pastora Rodriguez de Navarro y los herederos de Doña Pía Rodriguez de Arévalo, procedieron á otorgar nueva división del campo que según sus hijuelas les corresponde, quedando de propiedad de Doña"
+   ],
+   "interpretacion": "Encabezamiento del duplicado: mensura del terreno de los herederos de Facundo González en San Andrés de Giles. Abre el «Estracto de títulos»: hijuela de Remigio Rodríguez (copia en sello de 1868 [?] y 1869, sin fecha, mil varas de frente; escribano Montiel) e hijuela de Pastora Rodríguez de Navarro (2/5/1868): 128 ¼ v de frente × 7900 v de fondo, «terreno de estancia», entre Pía Rodríguez (N), María Villamil y Rodríguez (S), herederos de Narcisa Díaz (E) y de Bernardino Rodríguez (O), adjudicada en la testamentaría de Faustina Quevedo (juez José Antonio Zabalía, escribano Nicanor S. Ponsati). Empieza la nueva división de 6/6/1880 entre Pastora y los herederos de Pía Rodríguez de Arévalo."
+  },
+  {
+   "titulo": "Folio 1 vuelto · Pastora Navarro vende a Facundo González (1886); hijuela Villamil",
+   "img": "img/f/167/07.jpg",
+   "fuente": "IMG_0565.JPG (mitad izquierda)",
+   "nota": "Verificado: 256,5 × 0,866 = 222,13 m y 3950 × 0,866 = 3420,7 m. La equivalencia «veintiuna cuadra cuadrada y ciento tres milésimos» no corresponde: 45,69 ha = 27,08 cuadras (cuadra de 150 v). Error de copia o del título.",
+   "lineas": [
+    "Pastora Rodriguez de Navarro una fracción de doscientas cincuenta y seis y media varas de frente, igual á doscientos veintidós metros ciento treinta y un milímetros, por tres mil novecientas cincuenta varas de fondo ó sea tres mil cuatrocientos veinte metros setenta centímetros; lindando al Oeste con herederos de Don Bernardino Rodriguez; por el fondo, con la fracción que se destina á los herederos de Doña Pía Rodriguez de Arévalo; por el Norte con Doña Nicolasa Rodriguez y por el Sud con Doña María Villamil.— Escribano Fernando del Rio.",
+    "Giles 17 de Junio de 1886.— Doña Pastora Rodriguez de Navarro, vende á Don Facundo Gonzalez una fracción de campo de su propiedad, situado en el cuartel tercero de este Partido, compuesto de cuarenta y cinco hectáreas sesenta y nueve áreas ocho centiáreas y cuarenta y siete milésimos, igual á veintiuna [sic] cuadra cuadrada y ciento tres milésimos, lindando al Oeste con Don Luis Rodriguez; al Este herederos de Doña Pía Rodriguez; al Norte Doña Nicolasa Rodriguez y al Sud Don Luis Rodriguez y el comprador. Escribano Esteban S. Dufourq [?].",
+    "26 de Abril de 1879.— Mercedes. Hijuela de Doña María Villamil.— Se le adjudican treinta mil catorce pesos siete reales moneda corriente, por una área de doscientas veintiocho y cuarta varas de frente por siete mil novecientas varas de fondo, del terreno de estancia situado en el Partido de Giles, lindando al Sud con Remigio Rodriguez; al Norte Doña Pastora Rodriguez; al Este los herederos de Doña Narcisa Diaz y al Oeste los herederos de Don Bernardino Rodriguez. Esta adjudicación fué hecha, lo mismo que las anteriores"
+   ],
+   "interpretacion": "Por la división de 1880 Pastora queda con 256 ½ v (222,131 m) × 3950 v (3420,70 m), escribano Fernando del Río. El 17/6/1886 vende a Facundo González 45 ha 69 a 08,47 ca en el cuartel 3.º, entre Luis Rodríguez (O y S), herederos de Pía Rodríguez (E) y Nicolasa Rodríguez (N); escribano Esteban S. Dufourq [?]. Hijuela de María Villamil (Mercedes, 26/4/1879): 228 ¼ × 7900 v."
+  },
+  {
+   "titulo": "Folio 2 · Villamil → Isidro Cucullu → Facundo González; Negri → Simón Cucullu",
+   "img": "img/f/167/08.jpg",
+   "fuente": "IMG_0565.JPG (mitad derecha)",
+   "nota": "Verificado: 16 × 22 500 × 0,866² = 269 984,16 m² exactos; 1074 × 1245 = 1 337 130 m². En cambio 228,25 × 7900 v² dan 1 352 302 m², no 1 362 298: diferencia de 1 ha en el título de Villamil. Lindero E «Mauricia Díaz» en lugar de Narcisa Díaz.",
+   "lineas": [
+    "[sello: Foja 2]",
+    "en la testamentaría de Doña Faustina Quevedo.— Escribano Secretario Julian Byron [?].—",
+    "Giles 20 de Noviembre de 1882.— Doña María Villamil vende á Don Isidro Cucullu un terreno de pastoreo que posee en este Partido compuesto de doscientas veintiocho y cuarta varas de frente por siete mil novecientas varas de fondo, haciendo una superficie de un millón trescientos sesenta y dos mil doscientos noventa y ocho metros cuadrados, cuatrocientos noventa milésimos.— Linda al Norte con Doña Pastora y Don Luis Rodriguez; al Sud herederos de Don Remigio Rodriguez; al Este herederos de Doña Mauricia [sic: Narcisa] Diaz y al Oeste Don Bernardino Rodriguez— Escribano Fernando del Rio.—",
+    "Giles 14 de Febrero de 1884.— Don Isidro Cucullu vende á Don Luis Rodriguez, diez y seis cuadras cuadradas del terreno cuyo título se ha estractado, ó sean veintiséis hectáreas noventa y nueve áreas ochenta y cuatro centiáreas y diez y seis centésimos. Escribano del Rio.—",
+    "Giles 14 de Febrero de 1884.— Don Isidro Cucullu vende á Don Facundo Gonzalez el terreno de pastoreo cuyo título se ha estractado, deduciendo de él la parte vendida á Don Luis Rodriguez. Escribano Fernando del Rio.—",
+    "Giles 18 de Mayo de 1880.— Don Antonio Negri vende á Don Simon Cucullu un terreno de pastoreo ubicado en este Partido compuesto de mil setenta y cuatro metros de frente por mil doscientos cuarenta y cinco metros de fondo que hacen una superficie de ciento treinta y tres hectáreas setenta y una áreas treinta centiáreas, igual á setenta y nueve y cuarta cuadras cuadradas, lindando al Nort-"
+   ],
+   "interpretacion": "Villamil vende a Isidro Cucullu (Giles, 20/11/1882) 228 ¼ × 7900 v = 1 362 298,49 m²; Cucullu vende 16 cuadras (26 ha 99 a 84,16 ca) a Luis Rodríguez y el resto a Facundo González (ambas el 14/2/1884, escribano del Río). Antonio Negri vende a Simón Cucullu (18/5/1880) 1074 × 1245 m = 133 ha 71 a 30 ca = 79 ¼ cuadras."
+  },
+  {
+   "titulo": "Folio 2 vuelto · Simón Cucullu → Facundo González (1887); ventas y compras con Gallo (1892)",
+   "img": "img/f/167/09.jpg",
+   "fuente": "IMG_0566.JPG (mitad izquierda)",
+   "nota": "Verificado: 205,80 × 1245 = 256 221 m² = 25 ha 62 a 21 ca del resumen. 91,373 × 369,782 = 33 788 m²: el título dice 33 784 (diferencia de 4 m²). Linderos «Sud Este y Sud Oeste» repetido: debe ser Sud Este y Nord Oeste.",
+   "lineas": [
+    "Oeste con Don Simon Cucullu, al Nord Este herederos [de] Rodriguez, al Sud Este más terreno de su propiedad y al Sud Oeste Doña Gregoria Gonzalez.— Le corresponde por compra que hizo en mayor estensión á Don Prudencio Rodriguez según escritura que ante el mismo Escribano del Rio otorgó éste en siete de Noviembre de 1879.—",
+    "La Plata 15 de Marzo de 1887.— Don Simon Cucullu vende á Don Facundo Gonzalez un terreno de pastoreo de su propiedad situado en el Partido de San Andrés de Giles, compuesto de mil setenta y cuatro metros de frente por mil doscientos cuarenta y siete metros de fondo y cuyo título ha sido ya estractado.— Escribano Antonio Vieytes.—",
+    "San Antonio de Areco Setiembre 27 de 1892. Don Facundo Gonzalez vende á Don Bartolomé Gallo y Cravero [?] doscientos cinco metros ochenta centímetros de frente por mil",
+    "doscientos cuarenta y cinco metros de fondo.— Escribano Esquiaga [?].—",
+    "Giles 19 de Setiembre de 1892.— Don Bartolomé Gallo y Cravero [?] vende á Don Facundo Gonzalez una fracción de terreno de su propiedad situado en este Partido, compuesto de noventa y un metros trescientos setenta y tres milésimos por los costados Sud Este y Nord Oeste y trescientos sesenta y nueve metros setecientos ochenta y dos milésimos por los Nord Este y Sud Oeste, cuyas medidas hacen una superficie [de] treinta y tres mil setecientos ochenta y cuatro metros cuadrados más trescientos noventa y dos milésimos.— Linda al Nord Este y Sud Oeste con el comprador y al Sud Este y Sud Oeste [sic] con el vendedor.— Le corresponde en mayor estensión de la división de condominio que llevaron á cabo"
+   ],
+   "interpretacion": "Antecedente de Negri: compra a Prudencio Rodríguez (7/11/1879). Simón Cucullu vende a Facundo González (La Plata, 15/3/1887, escribano Antonio Vieytes) 1074 × 1247 m. Facundo vende a Bartolomé Gallo y Cravero [?] 205,80 × 1245 m (San Antonio de Areco, 27/9/1892, escribano Esquiaga) y le compra (Giles, 19/9/1892) una fracción de 91,373 × 369,782 m = 33 784,392 m²."
+  },
+  {
+   "titulo": "Folio 3 · origen del campo Gallo: retroventa Donato Rodríguez – Nicolás Méndez",
+   "img": "img/f/167/10.jpg",
+   "fuente": "IMG_0566.JPG (mitad derecha)",
+   "nota": "La venta con pacto de retroventa funciona como crédito hipotecario encubierto: Donato Rodríguez «vende» a Méndez y luego cede el derecho de rescate a los Gallo.",
+   "lineas": [
+    "[sello: Foja 3]",
+    "el esponente con Don Jorge, Don Guillermo y Don Bartolomé Gallo por escritura que otorgaron en San Antonio de Areco el 17 de Agosto de 1891 ante el Escribano Don José A. Esquiaga [?].—",
+    "Los cuatro señores Gallo adquirieron el campo de que forma parte la fracción deslindada, en una superficie de cuatrocientas sesenta y una hectáreas setenta y tres áreas noventa centiáreas, de la manera siguiente: en trece de Junio de 1891, ante el Escribano Esquiaga, obtuvieron de Don Donato Rodriguez el derecho de retrotraer la mencionada propiedad que había enagenado el mencionado Rodriguez á Don Nicolás Mendez, con pacto de retroventa, en escrituras otorgadas ante el Escribano Cornelio James, en San Andrés de Giles, en 23 de Julio de 1889 y 17 de Julio de 1890.— En 13 de Julio de 1891, Don Nicolás Mendez en cumplimiento de la obligación contraída y á mérito de la cesión de derechos hecha por Rodriguez, retrovende á los cuatro señores Gallo el campo á que se ha hecho mérito, según escritura que pasó ante el mismo Escribano Esquiaga en San Antonio de Areco.—",
+    "Don Donato Rodriguez hubo esta propiedad por compra que hizo á Don Antonio Negri, según escritura que le otorgó en Buenos Aires en 8 de Octubre de 1880, ante el Escribano Don Bernabé Burgos, habiéndole correspondido al mencionado Negri por compra que hizo á Don Prudencio Rodriguez en 7 de Noviembre de 1879, ante el Escribano Don Fernando del Rio y en su registro.— Don Prudencio Rodriguez lo adquirió, una parte de Don Donato Rodriguez según escritura que formalizó ante el mismo Escribano del Rio en 15 de Octubre de 1879, quien á su vez obtuvo la misma parte de Don Prudencio Rodriguez"
+   ],
+   "interpretacion": "Gallo tenía su campo de la división de condominio con Jorge, Guillermo y otro Gallo (17/8/1891). Los cuatro Gallo adquirieron 461 ha 73 a 90 ca: obtuvieron de Donato Rodríguez el derecho de retrotraer la tierra que éste había vendido a Nicolás Méndez con pacto de retroventa (1889-1890, escribano Cornelio James) y Méndez se la retrovendió (13/7/1891). Donato la tenía de Antonio Negri (8/10/1880, escribano Bernabé Burgos), y Negri de Prudencio Rodríguez (7/11/1879)."
+  },
+  {
+   "titulo": "Folio 3 vuelto · de Tadeo Rodríguez a Pedro Díaz de Vivar (1801); testimonio de herencia de Remigio",
+   "img": "img/f/167/11.jpg",
+   "fuente": "IMG_0567.JPG (mitad izquierda)",
+   "nota": "La cadena llega a 1801 y a la «línea de Vivar»: el campo está dentro del cuadrado de Tadeo Rodríguez (ficha 047). Remigio no deja herederos forzosos y nombra a González: relación no explicada (¿criado, socio, pariente político?).",
+   "lineas": [
+    "en 29 de Julio de 1879, según escritura otorgada ante el Escribano Don Anacleto Resta, en el registro titulado de Saldías [?] a cargo del Escribano Don José Eduardo Gonzalez.—",
+    "Don Prudencio Rodriguez había obtenido la misma propiedad una parte por herencia en la testamentaría de su finado padre Don Tadeo Rodriguez y otra por compra que hizo á su hermano y coheredero Don Venancio Rodriguez en 6 de Febrero de 1863 [?].—",
+    "Don Tadeo Rodriguez lo adquirió por compra que hizo á Don Pedro Diaz de Vivar, según escritura que en 4 de Mayo de 1801 le otorgó ante el Escribano de número y de Real Proto-Medicato de la Ciudad de Buenos Aires, Don Juan José de Roche.— Escribano Cornelio James.—",
+    "Testimonio de Don Facundo Gonzalez.— Don Remigio Rodriguez, que falleció en 5 de Diciembre de 1876 [?], bajo disposición testamentaria, otorgada ante el Juez de Paz de este Partido de",
+    "San Andrés de Giles, en 1.º de Noviembre de 1876 [?], y cuyo original se encuentra protocolizado en el registro á cargo del Escribano Esquivel, por la cláusula quinta de su testamento, instituyó único y universal heredero á Don Facundo Gonzalez.— De los inmuebles quedados por fallecimiento del causante, el único sujeto á inscripción en el registro de la propiedad es un campo de pastoreo ubicado en el Partido de San Andrés de Giles, componiéndose su área de ochocientos sesenta y seis metros de frente, igual á mil varas, por seis mil ochocientos cuarenta y un metros cuarenta centímetros de fondo, igual á siete mil novecientas varas; del que fué puesto en posesión el heredero, con fecha tres de Octubre de mil ochocientos ochenta y tres.— Linda: al Norte, con"
+   ],
+   "interpretacion": "Prudencio Rodríguez tuvo esas tierras por herencia de su padre Tadeo Rodríguez y por compra a su hermano Venancio (6/2/1863 [?]). Tadeo las compró a Pedro Díaz de Vivar por escritura del 4/5/1801 ante Juan José de Roche, escribano de número y del Real Protomedicato de Buenos Aires. Testimonio de Facundo González: Remigio Rodríguez murió el 5/12/1876 [?] con testamento ante el juez de paz de Giles (1/11/1876 [?]) y lo instituyó único y universal heredero de un campo de 866 m (1000 v) × 6841,40 m (7900 v); posesión el 3/10/1883."
+  },
+  {
+   "titulo": "Folio 4 · linderos de la herencia; Resumen de compras, ventas y donación",
+   "img": "img/f/167/12.jpg",
+   "fuente": "IMG_0567.JPG (mitad derecha)",
+   "nota": "Verificado: las compras suman exacto 884,478959 ha y 1000 × 7900 v = 592 ha 46 a 52,40 ca exactos. Las ventas suman 482,4799 ha sólo si se leen Lárega 89 h 14 a 72 ca y Pagano 85 h 74 a 72 ca (la grafía del 4 y del 7 se confunde).",
+   "lineas": [
+    "[sello: Foja 4]",
+    "con Don Luis Rodriguez y más terreno del mismo Don Facundo Gonzalez; al Este Don Isidro Lasa [?]; al Sud Don Donato Rodriguez, Don Luis Cucullu y los Señores Miguel y Nieto [?] y al Oeste Don José Rois [?].— Esta adjudicación fué hecha en los autos testamentarios de Don Remigio Rodriguez que tramitan por la Secretaría á cargo del Escribano Don Manuel Malmierca, á la que está adscripto el Escribano Don Pedro M. Piedrabuena que autoriza este testimonio.—",
+    "Resúmen",
+    "Compras y adjudicaciones",
+    "Giles 17 de Junio de 1886.— Comprado á Doña Pastora R. de Navarro — 45 h 69 a 08 c,47",
+    "Giles 14 Febrero de 1884 — 〃 〃 Isidro Cucullu — 109 h 23 a 14 c,33",
+    "La Plata 15 de Marzo de 1887 — 〃 〃 Simon Cucullu — 133 h 71 a 30 c,00",
+    "Giles 19 Setiembre de 1892 — 〃 〃 Bartolomé Gallo y Cravero [?] — 3 h 37 a 84 c,39",
+    "Mercedes 27 [?] de Noviembre [18]85 — heredado de Don Remigio Rodriguez — 592 h 46 a 52 c,40",
+    "Total = 884 h 47 a 89 c 59",
+    "Ventas y donaciones.—",
+    "Giles 31 Octubre de 1887 — Vendido á Mariano Aguilar — 113 h 05 a 58 c",
+    "〃 〃 〃 〃 — 21. 93. 62.",
+    "〃 3 de Abril 1891 — 〃 — José Lárega [?] — 89 h 14. 72 [?]",
+    "〃 〃 〃 〃 — Santiago Pagano — 85 h 74 a 72 c [?]",
+    "〃 8 de Abril /91 — donado á Federico Lacroze — 1. 85 a 50 c",
+    "San Antonio de Areco Setiembre 27/92 — Vendido á Bartolomé Gallo y Cravero [?] = 25 h 62 a 21 c",
+    "Mercedes 27 de Junio de 1893 [?] — 〃 — José Garavento — 145 h 11 a 64 c",
+    "[suma] 482 h 47 a 99 c",
+    "Terreno adquirido 884 h 47 a 89 c 59",
+    "〃 vendido 482 h 47 a 99 c 00",
+    "Diferencia 401 h 99 a 90 c,59"
+   ],
+   "interpretacion": "Linderos del campo heredado: Luis Rodríguez y Facundo (N), Isidro Lasa [?] (E), Donato Rodríguez, Luis Cucullu y Miguel y Nieto [?] (S), José Rois [?] (O); testimonio de Pedro M. Piedrabuena, adscripto a la secretaría de Manuel Malmierca. Resumen: compras y herencia = 884 ha 47 a 89,59 ca; ventas y donación = 482 ha 47 a 99 ca (Mariano Aguilar 1887, José Lárega [?] y Santiago Pagano 1891, donación a Federico Lacroze 8/4/1891, Gallo 1892, José Garavento 1893 [?]). Diferencia: 401 ha 99 a 90,59 ca."
+  },
+  {
+   "titulo": "Folio 4 vuelto · superficie de títulos; comisión y arranque de la mensura (28 de abril)",
+   "img": "img/f/167/13.jpg",
+   "fuente": "IMG_0568.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "La superficie que corresponde á los títulos y que debía repartirse entre los herederos de Don Facundo Gonzalez es de cuatrocientas una hectáreas noventa y nueve áreas noventa centiáreas y cincuenta y nueve centímetros [sic] (401 h 99 a 90 c,59).— [a lápiz, debajo: 200 99 95 30]",
+    "Mensura.— El Agrimensor que suscribe, comisionado por decreto del Señor Juez de 1.ª Instancia en lo Civil y Comercial del Departamento del Centro, Doctor Don Lorenzo A. Espinosa, para medir y fraccionar el terreno de propiedad de los sucesores de Don Facundo Gonzalez, situado en el Partido de San Andrés de Giles, previa citación de linderos que en original se acompaña y diarios de publicación de edictos, dió principio á la mensura el día 28 de Abril del corriente año del modo siguiente.",
+    "Desde B, mojón de ñandubay esquinero del terreno de Don Santiago Pagano, del que medía y esterno [sic: externo] del de Gallo al Norte cincuenta y seis grados trece minutos Este, medí mil sesenta y cuatro metros sesenta centímetros hasta C, mojón de ñandubay esquinero de Pagano, herederos de Arévalo y del que medía.—",
+    "Desde C, al Norte treinta y un grados cuatro minutos Oeste, medí quinientos ochenta y dos metros diez centímetros hasta el mojón de ñandubay D esquinero de los herederos de Arévalo y el que medía.—",
+    "Desde D, al Norte cincuenta y ocho grados cincuenta y seis minutos Este, medí doscientos veinticuatro metros diez centímetros hasta E, mojón de ñandubay esquinero de los herederos de Arévalo, Don Luis Rodriguez y herederos de Gonzalez que mido."
+   ],
+   "interpretacion": "La superficie de títulos a repartir es 401 ha 99 a 90,59 ca (a lápiz, la mitad: 200 99 95 30). Aranguren, comisionado por el juez civil del Centro Lorenzo A. Espinosa para medir y fraccionar, con citación de linderos y edictos, empieza el 28 de abril. B-C N 56° 13′ E 1064,60 m (mojones de ñandubay, esquinas de Pagano y Gallo); C-D N 31° 04′ O 582,10 m (herederos de Arévalo); D-E N 58° 56′ E 224,10 m (Arévalo, Luis Rodríguez)."
+  },
+  {
+   "titulo": "Folio 5 · contorno E-F-G-H-I-J-K: arroyito y tres cruces del Tramway Rural",
+   "img": "img/f/167/14.jpg",
+   "fuente": "IMG_0568.JPG (mitad derecha)",
+   "nota": "La faja de vía mide 107 m en G-H (de 290 a 397 m): cruce oblicuo, como se dibuja en el plano.",
+   "lineas": [
+    "[sello: Foja 5]",
+    "Desde E, al Norte treinta y un grados cuatro minutos Oeste, medí dos mil sesenta y dos metros veinte centímetros hasta F, mojón de ñandubay esquinero de Rodriguez y herederos de Gonzalez.—",
+    "Desde F, al Sud cincuenta y ocho grados cincuenta y seis minutos Oeste, medí cuatrocientos diez y nueve metros treinta centímetros hasta G.",
+    "Desde G, al Norte treinta y un grados cuatro minutos Oeste, medí mil trescientos sesenta y cinco metros setenta centímetros hasta el mojón de ñandubay H; en esta línea, á los doscientos noventa metros un arroyito y el alambrado del Tramway Rural, á los trescientos noventa y siete metros el otro alambrado del Tramway Rural.—",
+    "Desde H, al Sud cincuenta y ocho grados cincuenta y cuatro minutos Oeste, medí mil setecientos cuarenta y ocho metros cuarenta centímetros hasta I, mojón de ñandubay costanero de Cucullu y esquinero del terreno que medía y del de Don Bartolomé Gallo. En esta línea se encontró mojones de ñandubay costaneros, á los ochocientos cincuenta y nueve metros, á los mil cuatrocientos noventa y seis metros y á los mil quinientos once metros el alambrado del Tramway Rural.—",
+    "Desde I, al Sud treinta y un grados cuatro minutos Este medí mil doscientos cincuenta y nueve metros hasta J, mojón de ñandubay esquinero de Gallo y del que se mide.— Desde J, al Norte cincuenta y ocho grados cincuenta y cuatro minutos Este, medí setecientos ochenta y ocho metros noventa centímetros hasta K, en este punto no hay mojón pues está el poste esquinero del alambrado.—"
+   ],
+   "interpretacion": "E-F N 31° 04′ O 2062,20 m; F-G S 58° 56′ O 419,30 m; G-H N 31° 04′ O 1365,70 m (a 290 m un ARROYITO y el alambrado del TRAMWAY RURAL; a 397 m el otro alambrado del tramway); H-I S 58° 54′ O 1748,40 m (mojones costaneros de ñandubay a 859 y 1496 m; a 1511 m el alambrado del tramway); I-J S 31° 04′ E 1259 m; J-K N 58° 54′ E 788,90 m, sin mojón: poste esquinero del alambrado."
+  },
+  {
+   "titulo": "Folio 5 vuelto · cierre, superficie 561,06 ha, sobrante; división: lote Garavento",
+   "img": "img/f/167/15.jpg",
+   "fuente": "IMG_0569.JPG (mitad izquierda)",
+   "nota": "Verificado en python: el polígono de doce lados cierra a 0,60 m pero encierra 562,83 ha (1,78 ha más que el texto). La diferencia se explica comparando con títulos + Garavento: 401,9991 + 145,1164 + 13,9425 = 561,058 ha.",
+   "lineas": [
+    "Desde K, al Sud treinta y un grados cuatro minutos Este, medí trescientos sesenta y nueve metros ochenta centímetros hasta L, donde no hay mojón pues sí el poste del alambrado.",
+    "Desde L, al Norte cincuenta y ocho grados cincuenta y seis minutos Este, medí noventa y un metros treinta centímetros hasta A; no hay tampoco mojón en este punto pero sí el esquinero del alambrado.—",
+    "Desde A, al Sud treinta y un grados cuatro minutos Este, medí dos mil cuatrocientos treinta y un metros setenta centímetros hasta B, punto de partida.—",
+    "Con esto quedó terminada la mensura del terreno de los herederos de Don Facundo Gonzalez, el que encierra una superficie de quinientas sesenta y una hectáreas cinco áreas sesenta y siete centiáreas y un décimo, que dá una diferencia con la superficie de los títulos que es de trece hectáreas noventa y cuatro áreas veinticuatro centiáreas y cincuenta y un centécimos.— Esta diferencia es mayor que la tolerancia de la ley.—",
+    "División. Para esto, según lo ordenado por el Juzgado, se hizo la separación del terreno vendido á Don José Garavento, que es de ciento cuarenta y cinco hectáreas once áreas sesenta y cuatro centiáreas, para ello, desde B, al Norte treinta y un grados cuatro minutos Oeste, medí mil doscientos cincuenta y siete metros setenta centímetros y coloqué un mojón de ñandubay C; desde C, al Norte cincuenta y ocho grados cincuenta y seis minutos Este, medí mil doscientos ochenta y"
+   ],
+   "interpretacion": "K-L S 31° 04′ E 369,80 m; L-A N 58° 56′ E 91,30 m; A-B S 31° 04′ E 2431,70 m. Superficie: 561 ha 05 a 67,1 ca; diferencia con los títulos 13 ha 94 a 24,51 ca, «mayor que la tolerancia de la ley». División: primero se separa lo vendido a José Garavento (145 ha 11 a 64 ca), con mojón c a 1257,70 m de B."
+  },
+  {
+   "titulo": "Folio 6 · lote Garavento y lote de Sandalio González",
+   "img": "img/f/167/16.jpg",
+   "fuente": "IMG_0569.JPG (mitad derecha)",
+   "nota": "Verificado: lote Garavento 145,07 ha y lote de Sandalio 207,97 ha calculados, coincidentes con el texto. El mojón viejo «a» es un hito de la propia historia del campo: la esquina de una de las compras de Facundo.",
+   "lineas": [
+    "[sello: Foja 6]",
+    "siete metros cincuenta centímetros y coloqué el mojón de ñandubay d, en la intercepción de la cd con la EF; desde d, al Sud treinta y un grados cuatro minutos Este, medí seiscientos veinticinco metros hasta E.— Estas y las BC, CD, y DE ya medidas cierran la figura cuyos linderos son: al Nord Este Don Luis Rodriguez y los herederos de Arévalo, al Nord Oeste el heredero Don Sandalio Gonzalez; al Sud Oeste Don Bartolomé Gallo y al Sud Este Don Santiago Pagano.—",
+    "Para el heredero Don Sandalio Gonzalez.— Por la mitad del terreno de la sucesión, le corresponden doscientas siete hectáreas noventa y siete áreas una centiárea y cincuenta [?] centécimos.— Para éste, desde d, al Norte treinta y un grados cuatro minutos Oeste, medí mil cuatrocientos treinta y siete metros veinte centímetros hasta F; desde G al Norte treinta y un grados cuatro minutos Oeste, medí trescientos cuarenta y cuatro metros veinte centímetros y coloqué el mojón de ñandubay b; desde b al Sud cuarenta y tres grados treinta y ocho minutos Oeste, medí novecientos un metros hasta a, mojón colocado en otra época para esquinero de Don Facundo Gonzalez y en la intercepción de las líneas BA [?] y JK; desde a, al Sud cincuenta y ocho grados cincuenta y cuatro minutos Oeste, medí noventa y un metros treinta centímetros hasta K.—",
+    "Desde A, al Sud treinta y un grados cuatro minutos Este, medí mil ciento setenta y cuatro metros veinte centímetros hasta c.— Estas y las cd, FG, AL y LK"
+   ],
+   "interpretacion": "Mojón d en la intersección de c-d con E-F; d-E 625 m. Lote Garavento: linderos Luis Rodríguez y Arévalo (NE), Sandalio González (NO), Gallo (SO), Pagano (SE). A Sandalio le corresponde la mitad: 207 ha 97 a 01,05 ca; d-F 1437,20 m; desde G 344,20 m al nuevo mojón b; b-a S 43° 38′ O 901 m hasta a, «mojón colocado en otra época para esquinero de Don Facundo González»; a-K 91,30 m; A-c 1174,20 m."
+  },
+  {
+   "titulo": "Folio 6 vuelto · lote de Saturnina González; variación; circular; firma (setiembre 1894)",
+   "img": "img/f/167/17.jpg",
+   "fuente": "IMG_0570.JPG (mitad izquierda)",
+   "nota": "Verificado: el lote de Saturnina calculado da 209,79 ha: allí se concentra el exceso del contorno (1,8 ha).",
+   "lineas": [
+    "ya medidas cierran la figura con la superficie mencionada y los siguientes linderos: al Nord Este Don Luis Rodriguez, al Nord Oeste la heredera Doña Saturnina Gonzalez y Don Luis Rodriguez; al Sud Oeste Don Bartolomé Gallo y al Sud Este Don José Garavento.—",
+    "Para la heredera Doña Saturnina Gonzalez le corresponde, como al anterior, doscientas siete hectáreas noventa y siete áreas una centiárea y cinco centécimos. Desde b, al Norte treinta y un grados cuatro minutos Oeste, medí mil veintiún metros cincuenta centímetros hasta H. Esta y las HI, IJ, JKa ya medidas completan la figura con la superficie mencionada y los linderos siguientes: al Nord Este, Don Luis Rodriguez; al Nord Oeste Don Simon Cucullu; al Sud Oeste Don Bartolomé Gallo y al Sud Este el mismo Gallo y el heredero Don Sandalio Gonzalez.—",
+    "Variación, once grados veinte minutos Nord-Este.—",
+    "Protestas no hubieron.—",
+    "Circular, la firmaron: Por Don Luis Rodriguez, su hijo Don Ramon Z. [?] Rodriguez; por los herederos de Arévalo Don Juan Arévalo; por Don Santiago Pagano Don Emilio Pizarro y Don Bartolomé Gallo firmó por sí.—",
+    "Mercedes Setiembre de 1894",
+    "Juan J. Aranguren [rúbrica]",
+    "[sello: Departamento de Ingenieros de la Provincia · Entrada · 17 SET 94]",
+    "[reclamo:] Se"
+   ],
+   "interpretacion": "Saturnina recibe también 207 ha 97 a 01,05 ca: b-H 1021,50 m más H-I, I-J, J-K-a; linderos Luis Rodríguez (NE), Simón Cucullu (NO), Gallo (SO), Gallo y Sandalio (SE). Variación 11° 20′ NE. «Protestas no hubieron». Circular firmada por Ramón Z. [?] Rodríguez (hijo de Luis), Juan Arévalo (por los herederos de Arévalo), Emilio Pizarro (por Santiago Pagano) y Bartolomé Gallo. Mercedes, setiembre de 1894, Juan J. Aranguren. Entrada al D. I. 17/9/1894."
+  },
+  {
+   "titulo": "Folio 7 · vista del Departamento de Ingenieros (25/9/1894); aviso a Hacienda",
+   "img": "img/f/167/18.jpg",
+   "fuente": "IMG_0570.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 7]",
+    "[Se]ñor Juez:",
+    "El Departamento de Ingenieros ha examinado la mensura y división practicadas por el agrimensor Aranguren de un terreno de propiedad de los herederos de D.n Facundo Gonzalez, situado en el partido de San Andrés de Giles y encuentra ámbas operaciones bien ejecutadas por cuyo motivo las considera en estado de ser aprobadas judicialmente.",
+    "El sobrante de 13 h.s 49 (1) a.s 24 c.s que ha resultado debe ser solicitado en compra al Superior Gobierno, pues, es mayor que la tolerancia fijada por la ley de la materia y en su defecto ubicado á un costado del campo total.— Setiembre 25/[1]894",
+    "[al margen, salvedad: (1) 94 a.]",
+    "Julian Romero · Félix A. Malato · Benjamín Sal · Ángel Etcheverry [firmas]",
+    "Setiembre 29 de 1894.",
+    "En la fecha se dá cuenta al M[inisterio] de Hacienda, del presente sobrante.—",
+    "García [rúbrica]",
+    "[reclamo:] Se"
+   ],
+   "interpretacion": "El D. I. encuentra la mensura y la división «bien ejecutadas». El sobrante de 13 ha 94 a 24 ca (corregido al margen sobre «49») debe solicitarse en compra al Superior Gobierno o, en su defecto, ubicarse a un costado del campo. Firman Julián Romero, Félix A. Malato, Benjamín Sal y Ángel Etcheverry. 29/9/1894: se da cuenta al Ministerio de Hacienda (García)."
+  },
+  {
+   "titulo": "Folio 7 vuelto · anotaciones: plano a la Comisión (1899), escritura del sobrante (1902), Oficina de bienes (1905)",
+   "img": "img/f/167/19.jpg",
+   "fuente": "IMG_0571.JPG (mitad izquierda)",
+   "nota": "El fisco vende el sobrante a los herederos ocho años después; las dos fajas se dibujan en rojo en el plano (39,85 m sobre H-I y 54,14 m entre Sandalio y Garavento). 2 × 6,9706 = 13,9412 ha.",
+   "lineas": [
+    "[Dicie]mbre [?] 13/1899 [?] — Plano é inf[orme] á la C[omisión] [?] art. [?] — II. 164 — 1 — 325 — 99.",
+    "[firma ilegible: ¿Lagos?]",
+    "Junio 13/902. Con esta fecha se escrituraron á D.ª Saturnina Gonzales el sobrante de 6 h 97 a 06 ca y á D.n Sandalio Gonzales el otro sobrante con 6 h 97 a 06 ca á que se refiere la presente mensura. Anotado en Julio 29 de 1902.",
+    "J. Ratis [?] [rúbrica]",
+    "S.bre 22 de 1905— Con esta fecha informe y plano á la Oficina de bienes [?]. Juan J. Bugni [?]",
+    "Nota 9.272.606 [?]"
+   ],
+   "interpretacion": "Diciembre [?] 13/1899: plano e informe; referencia II. 164-1-325-99. Junio 13/1902: se escrituran a Saturnina y a Sandalio González dos sobrantes de 6 ha 97 a 06 ca cada uno; anotado el 29/7/1902 (firma J. Ratis [?]). 22/9/1905: informe y plano a la Oficina de bienes [?], Juan J. Bugni [?]. Nota 9.272.606 [?]."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de mensura y división (Aranguren, agosto 1894)",
+   "img": "img/f/167/03.jpg",
+   "fuente": "IMG_0572.JPG (vista general, aún plegado sobre el f. 7 vuelto; detalles IMG_0573-0574)",
+   "orientacion": "flecha de N en diagonal, cerca de G, apuntando hacia arriba a la izquierda; las fajas N 31° 04′ O quedan horizontales",
+   "interpretacion": "Plano en tela, firmado «Mercedes, Agosto de 1894 · Juan J. Aranguren, Agrimensor», con escala gráfica de 2000 m. El contorno de doce vértices (A a L) lleva rumbo y longitud en cada lado. Tres lotes: «Vendido á José Garavento, Sup. = 145 h 11 a 64 c» (B-C-D-E-d-c), «Sandalio Gonzalez, Sup. = 207 h 97 a 01,05 c» (el centro, en forma de L con el escalón A-L-K) y «Saturnina Gonzalez, Sup. = 207 h 97 a 01,05» (el bloque H-I-J-K-a-b, al O). La línea recta del «Tramway Rural» cruza en diagonal el lote de Saturnina desde cerca de b hasta el lado I-J. Junto al vértice A se rotula «Estancia» con dos pequeños cuadrados (edificios). En tinta roja, agregado posterior: dos fajas de sobrante de 6 h 97 a 06 c cada una, una a lo largo de H-I (39,85 m de ancho) y otra entre los lotes de Sandalio y Garavento (54,14 m, N 58° 56′ E = 1287,5). Hay anotaciones a lápiz: «Venta á Gallo y Cravero» bajo I-J, «Prudencio» al pie y una línea ilegible cerca de G-H.",
+   "referencias": [
+    [
+     "A",
+     "Esquina con «Estancia»; poste del alambrado, sin mojón"
+    ],
+    [
+     "B",
+     "Mojón de ñandubay, esquina de Pagano y Gallo; punto de partida"
+    ],
+    [
+     "C-D-E",
+     "Escalón contra los herederos de Arévalo"
+    ],
+    [
+     "F",
+     "Esquina de Luis Rodríguez"
+    ],
+    [
+     "G-H",
+     "Lado con el arroyito y el Tramway Rural"
+    ],
+    [
+     "H-I",
+     "Contra Simón Cucullu; faja roja de sobrante"
+    ],
+    [
+     "I-J",
+     "Contra Bartolomé Gallo («Venta á Gallo y Cravero»)"
+    ],
+    [
+     "K-L",
+     "Postes de alambrado, sin mojón"
+    ],
+    [
+     "a",
+     "Mojón viejo de Facundo González"
+    ],
+    [
+     "b, c, d",
+     "Mojones nuevos de la división"
+    ],
+    [
+     "Rojo",
+     "Sobrantes escriturados en 1902"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: lotes de Saturnina y Sandalio, tramway y estancia",
+   "img": "img/f/167/04.jpg",
+   "fuente": "IMG_0573.JPG",
+   "orientacion": "toma de detalle del plano original",
+   "interpretacion": "Se leen con claridad los rumbos «S 31° 4′ E = 1365,7 m» (G-H), «N 58° 54′ E = 1748,4 m» (H-I), «S 31° 4′ E = 1259 m» (I-J), «N 58° 54′ E = 788,9 m» (J-K), «N 43° 38′ E = 901 m» (a-b) y «S 31° 4′ E = 2431,7 m» (A-B), con las parciales 1021,5 + 344,2 y 1174 + 1257,7. El «Tramway Rural» atraviesa el lote de Saturnina en recta. En rojo: «Sobrante sup. = 6 h 97 a 06 c, N 58° 54′ E = 1748,4» y la otra faja «N 58° 56′ E = 1287,5; Sobrante sup. = 6 h 97 a 06 c». El rótulo «Estancia» queda en A con dos edificios.\nTramway Rural\nDiagonal sobre el lote de Saturnina\nEstancia\nVértice A\nFajas rojas\n39,85 m y 54,14 m de ancho",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: lote Garavento y linderos del E",
+   "img": "img/f/167/05.jpg",
+   "fuente": "IMG_0574.JPG",
+   "orientacion": "toma de detalle del plano original",
+   "interpretacion": "Mitad derecha del plano: «Vendido á José Garavento, Sup. = 145 h 11 a 64 c», herederos de Arévalo y Santiago Pagano al E, Luis Rodríguez al N, Bartolomé Gallo al S, la escala gráfica y la firma de Aranguren. A lápiz, la cuenta «738 + 913 [?] = 879 [?]» en el margen.\nGaravento\nLote B-C-D-E-d-c\nPagano\nLindero SE (lado B-C)\nArévalo\nLindero del escalón C-D-E",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Campo ya alambrado: los vértices K, L y A no tienen mojón porque los marca «el poste esquinero del alambrado». En A está la «Estancia» de los González (dos edificios en el plano). El único curso de agua es «un arroyito» que corta G-H a 290 m, justo donde pasa el Tramway Rural: el terraplén y el arroyo coinciden. La vía, con dos alambrados propios (faja de unos 107 m medida en oblicuo), cruza el campo en diagonal y lo parte; es la segunda aparición del Tramway Rural en la serie, después del campo de Carlos Keen. El campo es un mosaico de compras: la herencia de Remigio (faja larga de 1000 × 7900 v), lotes de Navarro, Cucullu y Gallo, y escalones donde se vendió (Aguilar, Pagano, Lárega, Garavento)."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Citación de linderos y edictos (no se nombran los diarios). Arranque el 28 de abril de 1894; el texto se firma en setiembre. No hay acta ni se menciona asistencia; «protestas no hubieron». La circular la firman representantes: el hijo de Luis Rodríguez (Ramón Z. [?]), Juan Arévalo por los herederos, Emilio Pizarro por Santiago Pagano; sólo Bartolomé Gallo firma por sí. La división entre los dos herederos se hace «según lo ordenado por el Juzgado», separando primero lo ya vendido a Garavento: la mensura funciona como partición sucesoria. El mojón «a», «colocado en otra época para esquinero de Don Facundo González», se reutiliza como vértice de la partición: la memoria material de una compra anterior ordena el reparto."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos al minuto, distancias al centímetro; variación 11° 20′ NE (coherente con las fichas de 1889-1894). Verificado en python: el contorno de doce lados cierra a 0,60 m (0,31 E, 0,51 S), pero su área es 562,83 ha, no 561,0567: hay 1,78 ha de diferencia. Los lotes de Garavento (145,07 ha) y Sandalio (207,97 ha) calculados coinciden con el texto; el de Saturnina da 209,79 ha: el exceso está en el bloque O (H-I-J-K). b-a calculado deja a 90,43 m de K (texto 91,30). Mojones de ñandubay en todos los vértices nuevos y costaneros; postes de alambrado como hitos."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Conversión vara = 0,866 m usada con exactitud por los escribanos de 1880-1886 (256,5 v = 222,131 m; 1000 × 7900 v = 592 ha 46 a 52,40 ca; 16 cuadras = 26 ha 99 a 84,16 ca), pero con fallas: el título Villamil de 1882 da 1 362 298 m² por 228 ¼ × 7900 v (lo correcto es 1 352 302) y la venta de Navarro de 1886 equipara 45,69 ha a «veintiuna cuadra cuadrada y ciento tres milésimos» (son 27,08). El fondo de 7900 v = 6841,4 m es el largo de las fajas de Tadeo Rodríguez y de los Quevedo entre la Cañada del Sauce y la de la Cruz. En el resumen el 4 y el 7 tienen grafías parecidas; la suma obliga a leer Lárega 89 h 14 a 72 ca y Pagano 85 h 74 a 72 ca."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena larga: Pedro Díaz de Vivar → Tadeo Rodríguez (4/5/1801, escribano Juan José de Roche) → sus hijos Prudencio y Venancio (1863) → Negri (1879) → Donato Rodríguez (1880) → venta con pacto de retroventa a Nicolás Méndez (1889-1890) → los cuatro Gallo (1891). Por otro lado, testamentaría de Faustina Quevedo (de Rodríguez): hijuelas de Remigio Rodríguez, Pastora R. de Navarro y María Villamil. Facundo González arma el campo: heredero universal de Remigio (posesión 1883), compra a Cucullu (1884 y 1887), Navarro (1886), Gallo (1892); vende a Aguilar (1887), Lárega y Pagano (1891), Gallo (1892), Garavento, y dona 1,855 ha a Federico Lacroze (8/4/1891), casi con certeza para la vía del Tramway Rural. Muere antes de 1894; heredan Sandalio y Saturnina por mitades. El sobrante fiscal de 13,94 ha se escritura a ambos en 1902."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "047 (herederos de Tadeo Rodríguez, Differt 1868: cuadrado de diez fajas N 31° 04′ O entre la Cañada del Sauce y la de la Cruz, con remisiones a lápiz a los duplicados 73, 87, 106, 138, 169, 173, 203 y 242): esta ficha está dentro de ese cuadrado, con el mismo rumbo. 049-051 (Quevedo 1865, Muñiz): Faustina Quevedo de Rodríguez tiene una faja de 403,55 m; aquí su testamentaría reparte las hijuelas de Remigio, Pastora y Villamil. 106 (Laureano Castro 1880: faja de 914 m × 6894 m entre P. A. Quevedo y Luis Rodríguez): Luis Rodríguez es lindero también aquí. 146 (testamentaría de Bernardino Rodríguez, Orlandini 1886): los «herederos de Bernardino Rodríguez» son el lindero O de las hijuelas de 1868 y 1879; allí se reparten los nietos de Tadeo. 154 (testamentaría de Mauricia Duarte de Rodríguez, Orlandini 1890): su 2.ª fracción del cuartel 3.º (ex Quevedo) tiene la VÍA DEL TRAMWAY RURAL, el camino a la estación Carlos Keen, Luis Rodríguez como lindero y, en el lado J-A, a Simón Cucullu: es el vecindario inmediato de esta ficha, que sigue el tramway cuatro años después. 153 (Kelly 1889): otra mensura de Juan J. Aranguren. 033 y 116: Isidro y Emilia López de Cucullu. El lindero «José Rois» coincide con los Rois/Roy de la lista de apellidos."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Texto completo fs. 1-7 vuelto y plano original (sin copia de 1938). Dudas: fechas de la muerte y testamento de Remigio (1876 [?]), compra a Venancio (1863 [?]), año de la venta a Garavento (1893 [?]); escribanos Dufourq [?], Esquiaga [?], Byron [?]; linderos Isidro Lasa [?], Miguel y Nieto [?], José Rois [?]; Ramón Z. [?] Rodríguez; firmas de 1899 y 1905. Preguntas: ¿qué lugar ocupaba Facundo González junto a Remigio Rodríguez para heredarlo todo?; ¿el arroyito de G-H es la naciente de la Cañada de la Cruz o del Sauce?; ¿la donación a Lacroze fija la fecha de la vía (1891) y su traza en el GIS? Ancla GIS: los tres cruces del tramway (G-H a 290 y 397 m; H-I a 1511 m)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Facundo González",
+   "rol": "Causante",
+   "texto": "Heredero universal de Remigio Rodríguez (testamento de 1876 [?]; posesión 3/10/1883) y comprador entre 1884 y 1892; vende y dona parcelas en 1887-1893. Muerto antes de abril de 1894. Tenía su estancia en el vértice A.",
+   "fuentes": "Fs. 1-4; plano."
+  },
+  {
+   "nombre": "Sandalio González y Saturnina González",
+   "rol": "Herederos",
+   "texto": "Reciben 207 ha 97 a 01,05 ca cada uno en la división de 1894 y compran al fisco en 1902 dos fajas de sobrante de 6 ha 97 a 06 ca cada una. Probables hijos de Facundo.",
+   "fuentes": "Fs. 6-7 vuelto; plano."
+  },
+  {
+   "nombre": "Remigio Rodríguez",
+   "rol": "Antecesor",
+   "texto": "Hijo o heredero de Faustina Quevedo; recibe una faja de 1000 × 7900 v (592,47 ha). Muere en 1876 [?] dejando por testamento ante el juez de paz de Giles todo a Facundo González.",
+   "fuentes": "Fs. 1, 3 vuelto, 4."
+  },
+  {
+   "nombre": "Faustina Quevedo (de Rodríguez)",
+   "rol": "Causante de las hijuelas",
+   "texto": "Su testamentaría (juez José Antonio Zabalía, escribano Nicanor S. Ponsati) adjudica las fajas de Remigio, Pastora y María Villamil. En 1865 tenía una faja de 403,55 m (051).",
+   "fuentes": "Fs. 1-2; ficha 051."
+  },
+  {
+   "nombre": "Pastora Rodríguez de Navarro",
+   "rol": "Vendedora",
+   "texto": "Hijuela de 1868; división con los herederos de Pía Rodríguez de Arévalo en 1880; vende 45,69 ha a González en 1886.",
+   "fuentes": "Fs. 1-1 vuelto."
+  },
+  {
+   "nombre": "Pía Rodríguez de Arévalo y herederos; Juan Arévalo",
+   "rol": "Linderos",
+   "texto": "Linderos al NE (escalón C-D-E); Juan Arévalo firma la circular por los herederos.",
+   "fuentes": "Fs. 1, 4 vuelto, 6 vuelto."
+  },
+  {
+   "nombre": "María Villamil (y Rodríguez)",
+   "rol": "Antecesora",
+   "texto": "Hijuela de 1879 en la testamentaría de Faustina Quevedo; vende a Isidro Cucullu en 1882.",
+   "fuentes": "Fs. 1-2."
+  },
+  {
+   "nombre": "Isidro Cucullu, Simón Cucullu, Luis Cucullu",
+   "rol": "Vendedores y linderos",
+   "texto": "Isidro, propietario conocido desde 1865 (033), vende a Luis Rodríguez y a González en 1884; Simón compra a Negri (1880) y vende a González (1887) y es lindero NO en 1894; Luis Cucullu linda al S del campo heredado.",
+   "fuentes": "Fs. 2-4; fichas 033 y 116."
+  },
+  {
+   "nombre": "Luis Rodríguez y Ramón Z. [?] Rodríguez",
+   "rol": "Lindero n y ne; su hijo",
+   "texto": "Compra 16 cuadras a Cucullu (1884); lindero principal. Su hijo firma la circular. Luis Rodríguez es lindero también en la faja de Laureano Castro (106).",
+   "fuentes": "Fs. 2, 6 vuelto; ficha 106."
+  },
+  {
+   "nombre": "Tadeo, Prudencio, Venancio y Donato Rodríguez",
+   "rol": "Antecesores del campo gallo",
+   "texto": "Tadeo compra en 1801 a Pedro Díaz de Vivar; sus herederos midieron el cuadrado en 1868 (047). Prudencio vende a Negri (1879); Donato compra a Negri (1880), vende con retroventa a Méndez y cede el rescate a los Gallo (1891).",
+   "fuentes": "Fs. 2 vuelto-3 vuelto; ficha 047."
+  },
+  {
+   "nombre": "Pedro Díaz de Vivar",
+   "rol": "Propietario colonial",
+   "texto": "Vende a Tadeo Rodríguez el 4/5/1801 ante Juan José de Roche, escribano de número y del Real Protomedicato de Buenos Aires. Sus sobras y la «línea de Vivar» aparecen en 039 y otras fichas.",
+   "fuentes": "F. 3 vuelto; ficha 039."
+  },
+  {
+   "nombre": "Antonio Negri y Nicolás Méndez",
+   "rol": "Intermediarios",
+   "texto": "Negri compra a Prudencio Rodríguez (1879) y vende a Simón Cucullu y a Donato Rodríguez (1880). Méndez recibe el campo con pacto de retroventa (1889-1890) y lo retrovende a los Gallo (1891).",
+   "fuentes": "Fs. 2-3."
+  },
+  {
+   "nombre": "Bartolomé Gallo (y Cravero [?]); Jorge y Guillermo Gallo",
+   "rol": "Lindero so; vendedor y comprador",
+   "texto": "Uno de los cuatro Gallo que recuperan 461,74 ha en 1891; condominio dividido en San Antonio de Areco (17/8/1891). Compra y vende fracciones a González en 1892. Firma la circular por sí.",
+   "fuentes": "Fs. 2 vuelto-3, 6 vuelto; plano."
+  },
+  {
+   "nombre": "José Garavento",
+   "rol": "Comprador",
+   "texto": "Compra 145 ha 11 a 64 ca (Mercedes, 1893 [?]); su lote se separa primero en la división.",
+   "fuentes": "Fs. 4, 5 vuelto-6; plano."
+  },
+  {
+   "nombre": "Santiago Pagano y Emilio Pizarro",
+   "rol": "Lindero se y su representante",
+   "texto": "Pagano compra 85,75 ha a González en 1891; Pizarro firma la circular por él.",
+   "fuentes": "Fs. 4, 6 vuelto."
+  },
+  {
+   "nombre": "Mariano Aguilar y José Lárega [?]",
+   "rol": "Compradores",
+   "texto": "Aguilar compra 113,06 + 21,94 ha (31/10/1887); Lárega [?] 89,15 ha (3/4/1891).",
+   "fuentes": "F. 4."
+  },
+  {
+   "nombre": "Federico Lacroze",
+   "rol": "Donatario",
+   "texto": "Empresario de tranvías (1835-1899), fundador del Tramway Rural (luego Ferrocarril Central de Buenos Aires, hoy línea Urquiza). González le dona 1,855 ha el 8/4/1891, casi seguro para la vía que cruza el campo. Su nombre ya aparece como lindero en un plano de la serie aprobado en 1893.",
+   "fuentes": "F. 4; [Wikipedia, «Federico Lacroze»](https://en.wikipedia.org/wiki/Federico_Lacroze)."
+  },
+  {
+   "nombre": "Juan J. Aranguren",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor que firma en Mercedes; midió también a los herederos de Patricio Kelly en 1889 (153). Posible pariente de José A. Aranguren, propietario en 1871 (061).",
+   "fuentes": "Carátula, portadilla, f. 6 vuelto, plano; fichas 153 y 061."
+  },
+  {
+   "nombre": "Lorenzo A. Espinosa",
+   "rol": "Juez comisionante",
+   "texto": "Juez de 1.ª Instancia en lo Civil y Comercial del Departamento del Centro (Mercedes); comisiona también la 166 (1894).",
+   "fuentes": "F. 4 vuelto; ficha 166."
+  },
+  {
+   "nombre": "Escribanos: Montiel, Nicanor S. Ponsati, Fernando del Río, Esteban S. Dufourq [?], Julián Byron [?], Antonio Vieytes, José A. Esquiaga [?], Cornelio James, Bernabé Burgos, Anacleto Resta, José Eduardo González, Juan José de Roche, Esquivel, Manuel Malmierca, Pedro M. Piedrabuena",
+   "rol": "Escribanos de la cadena de títulos",
+   "texto": "Del Río (Giles) autoriza la mayoría de las operaciones de 1879-1884; Esquiaga [?] actúa en San Antonio de Areco (1891-1892); James en Giles (1889-1890); Piedrabuena, adscripto a la secretaría de Malmierca, expide el testimonio de herencia.",
+   "fuentes": "Fs. 1-4."
+  },
+  {
+   "nombre": "José Antonio Zabalía",
+   "rol": "Juez de la testamentaría quevedo",
+   "texto": "Juez del Departamento del Centro ante quien se adjudican las hijuelas de 1868.",
+   "fuentes": "F. 1."
+  },
+  {
+   "nombre": "Julián Romero, Félix A. Malato, Benjamín Sal, Ángel Etcheverry; García",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firman la vista del 25/9/1894, los mismos de la 166; García da cuenta del sobrante al Ministerio de Hacienda (29/9/1894).",
+   "fuentes": "F. 7; ficha 166."
+  },
+  {
+   "nombre": "J. Ratis [?], Juan J. Bugni [?]",
+   "rol": "Funcionarios posteriores",
+   "texto": "Anotan la escritura del sobrante (1902) y el envío de informe y plano a la Oficina de bienes [?] (1905).",
+   "fuentes": "F. 7 vuelto."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/167/02.jpg",
+  "fuente": "IMG_0563.JPG (girada 90°)",
+  "lineas": [
+   "[a lápiz: Facundo Gonzalez; a la derecha, anotación tachada ilegible]",
+   "San Andrés de Giles",
+   "N.º 167",
+   "1894",
+   "Duplicado de la diligencia de mensura practicada en terreno de",
+   "propiedad de los herederos de Don Facundo Gonzalez, situado en el",
+   "Partido de San Andrés de Giles.—",
+   "Agrimensor J. J. Aranguren [rúbrica]",
+   "H. 145. 165."
+  ]
+ },
+ "titulo": "Herederos de Facundo González",
+ "estado": "Transcripta (14 hojas, 96 renglones), 3 láminas"
+}
