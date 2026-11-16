@@ -1,0 +1,447 @@
+{
+ "carpeta": "170",
+ "carpeta_nombre": "Carpeta 170",
+ "archivo": "Ficha 170 - Herederos de María C. de Carey (1895).docx",
+ "resumen": {
+  "N.º de duplicado": "170 (Partido de San Andrés de Giles)",
+  "Propietario / solicitante": "Herederos de María C. de Carey",
+  "Agrimensor": "Juan J. Aranguren",
+  "Año": "1895",
+  "Fecha de la diligencia": "7/3–abril 1895; entrada D. I. mayo 1895; vista D. I. 1/6/1895",
+  "Ubicación": "Pentágono de 1172 ha entre el camino de Mercedes a lo de Bustos y el de Chacabuco a Giles",
+  "Orden judicial": "Juez Civil del Centro Ángel M.ª Ezquer, secretario Miguel Herrera",
+  "Vendedor / antecesor": "Liboria Bustos → Isidro Cucullu (1870-71); Avelina Bustos (1880, 1883)",
+  "Linderos citados": "Unzué, Cambra, Maxwell, P. Bustos, Villafañe, Cané, Belson, Frías, C. W. de Carey",
+  "Medidas": "A-B 1785,4 · B-C 2533,5 · C-D 2571,5 · D-E 5517,2 · E-A 5766 m",
+  "Rumbos": "N 45° 25′ E / S 45° 45′ E / N 44° 33′ E / S 8° 59′ O / N 44° 15′ O; var. 11° 5′ NE",
+  "Referencia de archivo": "AHG PBA, duplicado 170"
+ },
+ "metricas": {
+  "superficie_ha": "1172,1625 (medida); 1226,5948 o 1139,5618 según título",
+  "hitos": "mojones de piedra en A y B, de ñandubay (uno quebrado en E), portada, alambrados, callejón de 14 m",
+  "aguas": "un «arroyito» a 5120 m de D sobre el costado D-E"
+ },
+ "sintesis": "Mensura y división del campo de los herederos de María Cormack [?] de Carey (1172,16 ha), reunido por Bernardo Carey con la compra a Isidro Cucullu (1871, ex Liboria Bustos) y dos compras a Avelina Bustos (1880 y 1883, la primera medida por Schuster en la ficha 102). Aranguren cierra el pentágono con 5,6 m de error, separa 253,11 ha ya vendidas a Jorge Belson, da 100 ha a cada uno de seis hijos y el resto (319,05 ha) al viudo. Un error de reducción heredado de 1870 (7,5 millones de v² no son 6.495.000 m²) deja el título entre una falta de 54 ha y un sobrante de 32,6 ha, y el Departamento lo deja a criterio del juez. Callejón de 14 m, portada, alambrados, camino de Chacabuco a Giles y un arroyito.",
+ "caratula": {
+  "img": "img/f/170/01.jpg",
+  "fuente": "",
+  "campos": []
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · extracto de títulos (1870-1880)",
+   "img": "img/f/170/07.jpg",
+   "fuente": "IMG_0605.JPG",
+   "nota": "Hoja suelta acostada; sello «FOJA 1».",
+   "lineas": [
+    "[Sello: FOJA 1] [cruces a lápiz]",
+    "Duplicado de la diligencia de mensura practicada en terreno de propiedad de los herederos de Doña María Cormak [?] de Carey situado en el Partido de San Andrés de Giles.—",
+    "Estracto de títulos.— Mercedes 3 de Octubre de 1870.— Doña Liboria Bustos vende á Don Isidro Cucullu un campo de pastoreo de su propiedad, situado en el Partido de San Andrés de Giles, compuesto de seis millones, cuatrocientos noventa y cinco mil metros cuadrados equivalentes á siete millones quinientas mil varas cuadradas.— Linda al Norte con Don José y Don Pablo Bustos; al Sud Don Gerónimo Cari [?]; al Este Doña Abelina Bustos de Ordoñez y al Oeste con Mariano Alegre.— Le corresponde por habérsele adjudicado entre otras cosas en el arreglo de la testamentaría de su señor padre Don Ramón Bustos, según hijuela autorizada por el Escribano Don Abelardo Baez, en 25 de Noviembre de 1863.— Escribano N. S. Ponsati [?].— (La reducción de metros á varas no es exacta, en esta Escritura, hay una diferencia de ochenta y siete hectáreas tres áreas treinta centiáreas.)",
+    "Mercedes 5 de Enero de 1871.— Don Isidro Cucullu vende á Don Bernardo Carey un terreno de campo de pastoreo, ubicado en el Partido de San Andrés de Giles, compuesto de seis millones cuatrocientos noventa y cinco mil metros cuadrados, igual á siete millones quinientas mil varas cuadradas.— Aquí hay la misma diferencia que en la escritura anterior. Los linderos son los mismos que en la escritura antes estractada.— Escribano Don Mariano Lagcon [?].—",
+    "Mercedes 26 de Mayo de 1880.— Doña Avelina Bustos de Ordoñez, viuda, vende á Don Bernardo Carey, un terreno de pastoreo de su propiedad, situado en el Partido de San Andrés de Giles, compuesto de mil quinientos cuarenta y cinco metros noventa y siete centímetros en el Nord-Este; mil seiscientos veinte metros veinte centímetros en el Sud-Oeste; dos mil doscientos treinta metros en el Nord-Oeste y tres mil metros en el Sud-Este.— Con una superficie de cuatrocientas seis hectáreas sesenta"
+   ],
+   "interpretacion": "Tres eslabones: (1) 3/10/1870, Liboria Bustos vende a Isidro Cucullu un campo de pastoreo de 6.495.000 m² «equivalentes» a 7.500.000 v² (linderos N José y Pablo Bustos, S Gerónimo Cari [?], E Abelina Bustos de Ordóñez, O Mariano Alegre), que le tocó en la testamentaría de su padre Ramón Bustos (hijuela de Abelardo Báez, 25/11/1863); el agrimensor anota entre paréntesis que la reducción no es exacta y que hay 87 ha 03 a 30 ca de diferencia (verificado: 7,5 millones de v² × 0,866² = 562,467 ha). (2) 5/1/1871, Cucullu vende lo mismo a Bernardo Carey. (3) 26/5/1880, Avelina Bustos de Ordóñez, viuda, vende a Bernardo Carey un cuadrilátero de 1545,97 m (NE), 1620,20 (SO), 2230 (NO) y 3000 m (SE)."
+  },
+  {
+   "titulo": "Folio 1 vuelto · la compra de 1880 y la de 1883",
+   "img": "img/f/170/08.jpg",
+   "fuente": "IMG_0606.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "y seis áreas treinta y siete centiáreas, equivalente á doscientas cuarenta y una cuadras cuadradas.— Linda al Nord Este con más terreno que se reserva la vendedora, al Sud Este, Don Pablo Bustos; al Sud Oeste Apolinario Acuña y Eustaquio E. Frías [?], y al Nord Oeste el comprador.— Este terreno es parte del que correspondió á la vendedora por herencia de su finado padre Don Ramón Bustos en cuya testamentaría le fué adjudicado según consta de su hijuela que tiene á la vista el escribano autorizante de la presente. Don Avelardo Baez, secretario del Juzgado del Crimen del Departamento del Centro, autoriza la hijuela. El terreno deslindado fué mensurado por el Agrimensor Don Carlos Schuster, siendo aprobada la mensura por auto del Juzgado de Primera Instancia del Departamento del Centro á cargo del Doctor Don Virgilio M. Tedín y secretaría de Don M. Malmierca.— A Don Ramón Bustos le correspondió por compra que en mayor porción hizo á Don Pablo José Rodríguez según consta de la escritura de venta que éste le otorgó en 6 de Junio de 1838, en Buenos Aires y ante el Escribano Don Luis de Castañaga [?].— Esc.no N. S. Ponsati [?].—",
+    "Mercedes 5 de Enero de 1883.— Doña Avelina Bustos de Ordoñez vende á Don Bernardo Carey una fracción de terreno de su propiedad situado en el Partido de San Andrés de Giles, cuya figura es la de un triángulo, compuesto de mil quinientos cuarenta y cinco metros noventa y siete centímetros en el costado Sud-Este; dos mil quinientos metros en el Sud Oeste [corregido sobre «Sud Este»]; dos mil quinientos setenta y nueve metros cincuenta centímetros en el Nord Este; comprendiendo una superficie de ciento setenta hectáreas cuarenta y tres áreas once centiáreas igual á ciento una cuadras y doscientas veintitrés milésimas de cuadra cuadrada. Linda al Sud-Este con más campo del comprador; al Sud Oeste con"
+   ],
+   "interpretacion": "El cuadrilátero de 1880 tiene 406 ha 66 a 37 ca = 241 cuadras² (verificado: 406,6637 / 1,6874 = 241,00); linda NE con lo que se reserva la vendedora, SE Pablo Bustos, SO Apolinario Acuña y Eustaquio E. Frías [?], NO el comprador. Lo midió Carlos Schuster, con aprobación del juez del Centro Virgilio M. Tedín (es la ficha 102). Ramón Bustos lo había comprado en mayor porción a Pablo José Rodríguez (Buenos Aires, 6/6/1838, escribano Luis de Castañaga [?]). (4) 5/1/1883: Avelina vende a Carey un TRIÁNGULO de 1545,97 (SE), 2500 (SO) y 2579,50 m (NE), 170 ha 43 a 11 ca = 101,223 cuadras²."
+  },
+  {
+   "titulo": "Folio 2 · linderos de 1883 y comisión",
+   "img": "img/f/170/09.jpg",
+   "fuente": "IMG_0606.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 2».",
+   "lineas": [
+    "[Sello: FOJA 2]",
+    "Don Pablo Bustos y Doña M. F. de Buterfill [?] y al Nord Este con Doña Matilde F. [?] Bustos y Doña Susana B. de Etcheverry [?].— El terreno deslindado es parte y último resto del que correspondió á la vendedora por herencia de su finado padre Don Ramón Bustos en cuya testamentaría le fué adjudicado según consta de la hijuela respectiva corriente á fojas 35 vuelta de dicha testamentaría, que tramitó por el Juzgado de Primera Instancia en lo Criminal del Departamento del Centro en cuya testamentaría se halla archivada y de la citada hijuela tiene á la vista el Escribano autorizante de ésta un testimonio autorizado por el Escribano Don Avelardo Baez y lo devuelve á la vendedora con nota de esta enagenación.",
+    "Mensura.— El Agrimensor que suscribe, comisionado por decreto del Juzgado de Primera Instancia en lo Civil y Comercial del Departamento del Centro á cargo del Doctor Don Angel M.a Ezquer, Secretaría de Don Miguel Herrera para medir y dividir el terreno de propiedad de los herederos de Doña María Cormak de Carey, situado en Partido de San Andrés de Giles, previa citación de linderos que en original se acompaña y diarios de publicación de edictos, dió principio á la mensura el día 7 de Marzo del corriente año del modo siguiente:",
+    "Desde A, mojón de piedra esquinero del terreno de Carey; del de Doña Catalina W. de Carey y costanero de Unzué [?], al Norte cuarenta y cinco grados veinticinco minutos Este, medí mil setecientos ochenta y cinco metros cuarenta centímetros hasta B, mojón de piedra esquinero de Carey, Don José Maxwell y costanero del terreno de Don Pablo Bustos. En esta línea, á los doscientos metros termina el terreno del Señor Unzué [?] y principia el de los herederos de Doña Pilar Alegre de Cambra [?]"
+   ],
+   "interpretacion": "El triángulo linda SE con más campo del comprador, SO con Pablo Bustos y M. F. de Buterfill [?], NE con Matilde F. [?] Bustos y Susana B. de Etcheverry [?]; es el «último resto» de la hijuela de Avelina (fs. 35 vta. de la testamentaría Bustos, Juzgado del Crimen del Centro). MENSURA: comisionado por el juez civil del Centro Ángel M.ª Ezquer (secretario Miguel Herrera) «para medir y dividir» el campo de los herederos de María Cormak [?] de Carey; citación de linderos y edictos; empieza el 7 de marzo de 1895. A (mojón de piedra, esquinero con Catalina W. de Carey, costanero de Unzué) → N 45° 25′ E 1785,40 m → B (mojón de piedra, esquinero con José Maxwell y costanero de Pablo Bustos); a los 200 m termina Unzué y empieza Pilar Alegre de Cambra."
+  },
+  {
+   "titulo": "Folio 2 vuelto · costados B-C, C-D y comienzo de D-E",
+   "img": "img/f/170/10.jpg",
+   "fuente": "IMG_0607.JPG (mitad izquierda)",
+   "nota": "El rumbo D-E debe ser S 8° 59′ O (lo exigen el cierre y la ficha 102).",
+   "lineas": [
+    "á los mil cuatrocientos [tachado «cuatro», interlineado «nove[?]cientos»] ochenta metros mojón ñandubay costanero, donde termina el terreno de los herederos de Doña Pilar Alegre de Cambra [?] y principia el de Don José Maxwell que termina en el mojón de piedra esquinero.— La línea se encuentra entre un callejón de catorce metros formado por los alambrados de Carey, Unzué [?] y Maxwell, pues sólo el terreno de los herederos de Cambra [?] no es alambrado.—",
+    "Desde B, al Sud cuarenta y cinco grados cuarenta y cinco minutos Este, medí dos mil quinientos treinta y tres metros cincuenta centímetros hasta C, intercepción de la línea BC con la CD; en este punto no había mojón é hice colocar uno.— La línea está alambrada á cinco metros entre [?] el terreno de Carey.— A los quinientos treinta metros hay un mojón de ñandubay costanero. A los ochocientos setenta metros otro mojón de ñandubay costanero de Carey y esquinero de Don Pablo Bustos y de Doña Matilde Busto de Villafañe; á los mil quinientos seis metros setenta centímetros otro mojón de ñandubay costanero.—",
+    "Desde C, al Norte cuarenta y cuatro grados treinta y tres minutos Este, medí dos mil quinientos setenta y un metros cincuenta centímetros hasta D, mojón de ñandubay esquinero de Belson y Carey y costanero de los herederos de Cané. En esta línea, á los diez metros una portada del camino de Mercedes á lo de Bustos; á mil veintiocho metros mojón esquinero de Villafañe y Belson y costanero de Carey y á dos mil setenta y un metros otro mojón costanero.—",
+    "Desde D, al Sud ocho grados cincuenta y nueve minutos Este [sic, ¿Oeste?], medí cinco mil quinientos diez y siete metros veinte"
+   ],
+   "interpretacion": "A 1480 m (número retocado) empieza José Maxwell. La línea A-B corre por un CALLEJÓN DE 14 M entre los alambrados de Carey, Unzué y Maxwell; sólo el campo de los Cambra no está alambrado. B-C S 45° 45′ E 2533,50 m hasta C, sin mojón (se hace colocar uno); alambrada «á cinco metros» [?]; mojones de ñandubay a 530, 870 (esquinero de Pablo Bustos y Matilde Bustos de Villafañe) y 1506,70 m. C-D N 44° 33′ E 2571,50 m hasta D (ñandubay, esquinero con Belson, costanero de los herederos de Cané): a los 10 m UNA PORTADA DEL CAMINO DE MERCEDES A LO DE BUSTOS; a 1028 m esquinero Villafañe/Belson. D-E arranca «al Sud 8° 59′ Este»."
+  },
+  {
+   "titulo": "Folio 3 · D-E, E-A y superficies",
+   "img": "img/f/170/11.jpg",
+   "fuente": "IMG_0607.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 3». Cierre del polígono verificado en python: 5,6 m sobre 18,2 km de perímetro (1 : 3250); área por coordenadas 1172,64 ha.",
+   "lineas": [
+    "[Sello: FOJA 3]",
+    "centímetros hasta E, mojón de ñandubay, quebrado.— En esta línea, alambrada, á los mil quinientos veinticinco metros cincuenta centímetros, termina el terreno de Don Facundo Cané y empieza el de Don Jorge Belson.— A los mil seiscientos nueve metros un mojón de ñandubay costanero; á los dos mil quinientos diez y siete, dos mil novecientos trece; cuatro mil doscientos quince metros, mojones de ñandubay costaneros. A los tres mil setecientos treinta metros el camino de Chacabuco á Giles y á los cinco mil ciento veinte metros un arroyito.—",
+    "Desde E, al Norte, cuarenta y cuatro grados quince minutos Este [sic, ¿Oeste?], medí cinco mil setecientos sesenta y seis metros hasta A, mojón de partida.— En esta línea se encontró á los tres mil ciento treinta y cinco, cuatro mil doce y cuatro mil ochocientos ochenta y siete metros mojones de ñandubay costaneros; á los dos mil ochocientos setenta y siete [«setenta y siete» retocado] metros el alambrado divisorio entre Doña Catalina W. de Carey y Don Eustaquio Frías y á los c[?] mil seiscientos veintiún [¿1621? el plano ubica el límite Unzué–Frías a ≈ 1,5 km de E] metros [«metros» repetido] termina el terreno de Unzué [?] y empieza el de Frías.— En este punto no hay mojón.—",
+    "La superficie del terreno medido es de mil ciento setenta y dos hectáreas diez y seis áreas veinticinco centiáreas (1172 h 16 a 25 c).—",
+    "La superficie de los títulos, como en el título del terreno comprado por Don Bernardo Carey á Don Isidro Cucullu hay siete millones quinientas mil varas cuadradas igual á seis millones cuatrocientos noventa y cinco mil metros cuadrados"
+   ],
+   "interpretacion": "D-E 5517,20 m hasta E (ñandubay QUEBRADO), alambrada; a 1525,50 m termina Facundo Cané y empieza Jorge Belson; mojones a 1609, 2517, 2913 y 4215 m; a 3730 m el CAMINO DE CHACABUCO A GILES y a 5120 m UN ARROYITO. E-A («Norte 44° 15′ Este», por Oeste) 5766 m hasta A, con mojones a 3135, 4012 y 4887 m, el ALAMBRADO divisorio Catalina W. de Carey / Eustaquio Frías a 2877 m y el fin de Unzué y comienzo de Frías a «c[?] mil seiscientos veintiún» m, sin mojón. Superficie medida: 1172 ha 16 a 25 ca. Empieza la discusión de los títulos."
+  },
+  {
+   "titulo": "Folio 3 vuelto · el error de la reducción y la separación de Belson",
+   "img": "img/f/170/12.jpg",
+   "fuente": "IMG_0608.JPG (mitad izquierda)",
+   "nota": "Polígono de Belson verificado: cierre 1,1 m; 253,06 ha.",
+   "lineas": [
+    "y estas dos cantidades no son iguales, pues las varas indicadas son iguales á cinco millones seiscientos veinticuatro mil seiscientos setenta metros cuadrados, hay la duda de si se toma una ú otra superficie. Tomando la primera, es decir, el número de metros de la escritura, la superficie de todo el terreno es de mil doscientas veintiséis hectáreas cincuenta y nueve áreas cuarenta y ocho centiáreas, resultando entonces una falta de cincuenta y cuatro hectáreas cuarenta y tres áreas veintitrés centiáreas.— Tomando el número de varas cuadradas, reduciéndolas á metros cuadrados, la superficie total del terreno sería de mil ciento treinta y nueve hectáreas cincuenta y seis áreas diez y ocho centiáreas y la diferencia sería un sobrante de treinta y dos hectáreas sesenta áreas siete centiáreas.— [tres cruces a lápiz]",
+    "División.— Para la división se procedió primeramente á separar el terreno vendido, que lo fué á Don Jorge Belson y cuya superficie es de doscientas cincuenta y tres hectáreas once áreas.— Para esto, desde E, al Norte cuarenta y cuatro grados quince minutos Este [sic, por Oeste], medí mil seiscientos ochenta y cinco metros cincuenta centímetros y coloqué el mojón de ñandubay a; de éste al Norte diez y ocho grados veintinueve minutos Este, medí mil quinientos treinta y tres metros sesenta centímetros y coloqué el mojón de ñandubay b; desde b, al Sud ochenta y un grados un minuto Este, medí mil noventa y seis metros hasta la intercepción de ésta con la DE y coloqué el mojón de ñandubay c, y de éste al Sud ocho grados cincuenta y nueve minutos Oeste, medí dos mil quinientos veintiún metros ochenta centímetros hasta E.—"
+   ],
+   "interpretacion": "Las 7.500.000 v² valen 5.624.670 m², no 6.495.000: «hay la duda de si se toma una ú otra superficie». Con los metros, el título suma 1226 ha 59 a 48 ca y hay FALTA de 54 ha 43 a 23 ca; con las varas, 1139 ha 56 a 18 ca y SOBRANTE de 32 ha 60 a 07 ca (todo verificado: 649,5 + 406,6637 + 170,4311 = 1226,5948; 562,467 + 406,6637 + 170,4311 = 1139,5618). DIVISIÓN: primero se separa lo VENDIDO a Jorge Belson, 253 ha 11 a: E → a (1685,50 m sobre E-A), a → b N 18° 29′ E 1533,60 m, b → c S 81° 1′ E 1096 m hasta la línea D-E, c → E S 8° 59′ O 2521,80 m."
+  },
+  {
+   "titulo": "Folio 4 · reparto entre los Carey y lote de Bernardo",
+   "img": "img/f/170/13.jpg",
+   "fuente": "IMG_0608.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 4». El plano da m-n S 63° 44′ E, y sólo con ese rumbo el lote 1 da 100 ha (99,95 contra 93,1): error de copia en el texto.",
+   "lineas": [
+    "[Sello: FOJA 4]",
+    "Los linderos son: al Sud Oeste Don Saturnino J. Unzué y Don Eustaquio Frías; al Nord Oeste y Nord Este los herederos de Doña María C. de Carey y al Sud Este el comprador, Don Jorge Belson.",
+    "En seguida procedí á hacer la división indicada por el señor representante de los herederos de Carey, que es: á cada uno de los hijos de Doña María Cormack de Carey, cien hectáreas, y á Don Bernardo Carey el resto del terreno.—",
+    "Para Don Bernardo Carey.— Trescientas diez y nueve hectáreas cinco áreas veinticinco centiáreas.— Para ubicarlas, desde A, al Sud cuarenta y cuatro grados quince minutos Este, medí mil setecientos cincuenta y nueve metros sesenta centímetros y coloqué el mojón de ñandubay d; de éste al Norte cuarenta y cinco grados treinta y cinco minutos Este medí mil ochocientos treinta y un metros hasta e y coloqué otro mojón de ñandubay.— De aquí, al Norte cuarenta y cinco grados cuarenta y cinco minutos Oeste, medí mil setecientos setenta metros hasta B.— Éstas y la AB ya medida completan la figura cuyos linderos son: al Nord Oeste Don José Maxwell, los herederos de Doña Pilar Alegre de Cambra y Don Saturnino J. Unzué; al Sud Oeste, Doña Catalina W. de Carey; al Sud Este los lotes N.os cuatro y cinco de los herederos de Carey y al Nord Este Don Pablo Bustos y Doña Matilde B. de Villafañe.",
+    "Lote número uno.— Éste como los otros cinco lotes son de cien hectáreas.— Para éste, desde D, al Sud cuarenta y cuatro grados treinta y tres minutos Oeste, medí mil ochocientos cincuenta y seis metros cincuenta centímetros y coloqué el mojón de ñandubay m; de éste, al Sud setenta y tres grados catorce minutos Este, medí mil ciento treinta y cuatro me"
+   ],
+   "interpretacion": "Linderos de Belson: SO Saturnino J. Unzué y Eustaquio Frías; NO y NE los Carey; SE el comprador. El representante de los herederos pide CIEN HECTÁREAS para cada hijo de María Cormack de Carey y el RESTO para Bernardo Carey (el viudo). Bernardo: 319 ha 05 a 25 ca, A-d S 44° 15′ E 1759,60 m, d-e N 45° 35′ E 1831 m, e-B N 45° 45′ O 1770 m; linda NO Maxwell, Cambra y Unzué, SO Catalina W. de Carey, SE lotes 4 y 5, NE Pablo Bustos y Matilde B. de Villafañe. Lote 1 (100 ha): D-m S 44° 33′ O 1856,50 m, m-n «S 73° 14′ E» 1134 m…"
+  },
+  {
+   "titulo": "Folio 4 vuelto · lotes 1, 2 y 3",
+   "img": "img/f/170/14.jpg",
+   "fuente": "IMG_0609.JPG (mitad izquierda)",
+   "nota": "Verificado: 1856,5 + 816,9 + 322 + 2521,8 = 5517,2 m (todo el lado D-E); 1085 + 380 + 68,6 = 1533,6 m (a-b).",
+   "lineas": [
+    "tros hasta n; de aquí, al Norte ocho grados cincuenta y nueve minutos Este, medí mil ochocientos cincuenta y seis metros cincuenta centímetros hasta D.— Los linderos son: al Nord Oeste, Matilde B. de Villafañe y Don Jorge Belson; al Sud Oeste el lote número dos y al Este Don Facundo Cané y Don Jorge Belson.—",
+    "Lote número dos.— Desde m al Sud cuarenta y cuatro grados treinta y tres minutos Este [sic, por Oeste], medí setecientos quince metros hasta C.— De éste, al Sud cincuenta y nueve grados cuarenta y cuatro minutos Este, medí mil seiscientos dos metros veinte centímetros y coloqué el mojón de ñandubay l.— De éste al Norte ocho grados cincuenta y nueve minutos Este, medí ochocientos diez y seis metros noventa centímetros hasta n.— Éstas y la mn ya medida completan la figura de cien hectáreas, lindando al Nord Oeste, Doña Matilde B. de Villafañe; al Sud Este el lote número tres y al Este Don Jorge Belson.—",
+    "Lote número tres.— Desde C al Sud cuarenta y cinco grados treinta y cinco minutos Oeste, medí quinientos cuarenta y nueve metros tres centímetros hasta k y coloqué un mojón de ñandubay.— Desde k al Sud cuarenta y cuatro grados quince minutos Este, medí ochocientos cincuenta y cuatro metros ochenta centímetros hasta j y coloqué otro mojón de ñandubay. Desde j al Norte diez y ocho grados veintinueve minutos Este, medí sesenta y ocho metros sesenta centímetros hasta b.— Desde c al Norte ocho grados cincuenta y nueve minutos Este, medí trescientos veintidós metros hasta l ya colocado.— Éstas y las Cl y bc ya medidas cierran la"
+   ],
+   "interpretacion": "Lote 1 cierra con n-D N 8° 59′ E 1856,50 m (linda con Villafañe, Belson, Facundo Cané). Lote 2: m-C 715 m, C-l S 59° 44′ E 1602,20 m, l-n N 8° 59′ E 816,90 m. Lote 3: C-k S 45° 35′ O 549,03 m, k-j S 44° 15′ E 854,80 m, j-b N 18° 29′ E 68,60 m, c-l 322 m. Todos de 100 ha."
+  },
+  {
+   "titulo": "Folio 5 · lotes 4 y 5",
+   "img": "img/f/170/15.jpg",
+   "fuente": "IMG_0609.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 5». Verificado: 1770 + 763,5 = 2533,5 m (B-C); 964,8 + 866,2 = 1831 m (d-e). Áreas por coordenadas: lote 3 = 99,85, lote 4 = 99,60, lote 5 = 100,00, lote 6 = 100,05 ha.",
+   "lineas": [
+    "[Sello: FOJA 5]",
+    "figura de cien hectáreas, lindando al Nord Oeste y Sud Oeste el lote número cuatro; al Sud el terreno vendido á Don Jorge Belson; al Este Don Jorge Belson y al Nord Este el lote número dos.—",
+    "Lote número cuatro.— Desde C, al Norte cuarenta y cinco grados cuarenta y cinco minutos Oeste medí setecientos sesenta y tres metros cincuenta centímetros hasta e. De éste al Sud cuarenta y cinco grados treinta y cinco minutos Oeste [?], medí ochocientos sesenta y seis metros veinte centímetros y coloqué el mojón de ñandubay f; de éste, al Sud cuarenta y cuatro grados quince minutos Este, medí mil ochocientos veintitrés metros setenta centímetros, habiendo colocado en esta línea un mojón de ñandubay á los mil treinta y seis metros cincuenta centímetros para divisorio entre los lotes cinco y seis.— Desde i, al Norte diez y ocho grados veintinueve minutos Este, medí trescientos ochenta metros hasta j. Éstas y las jk y kC ya medidas, completan la figura de cien hectáreas cuyos linderos son: al Nord Oeste Don Bernardo Carey; al Sud Oeste los lotes números cinco y seis y al Oeste [?] el terreno vendido á Don Jorge Belson; al Nord Este el lote número tres y Doña Matilde B. de Villafañe y al Sud Este el lote número tres.—",
+    "Lote número cinco.— Desde d, al Sud cuarenta y cuatro grados quince minutos Este, medí mil treinta y seis metros cincuenta centímetros hasta h, y de éste al Norte [corregido sobre «Oeste»?] cuarenta y cinco grados treinta y cinco minutos Este medí novecientos sesenta y cuatro metros ochenta centí"
+   ],
+   "interpretacion": "Lote 4: C-e N 45° 45′ O 763,50 m, e-f 866,20 m, f-i S 44° 15′ E 1823,70 m (mojón a 1036,50 m, divisorio de los lotes 5 y 6), i-j N 18° 29′ E 380 m; cierra con j-k y k-C. Lote 5: d-h S 44° 15′ E 1036,50 m, h-g N 45° 35′ E 964,80 m…"
+  },
+  {
+   "titulo": "Folio 5 vuelto · lote 6, variación, circular y firma",
+   "img": "img/f/170/16.jpg",
+   "fuente": "IMG_0610.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "metros hasta g.— Éstas y las fg y fd ya medidas cierran la figura cuya superficie es de cien hectáreas y linda al Nord Oeste con Don Bernardo Carey; al Sud Oeste Doña Catalina W. de Carey; al Sud Este, el lote número seis y al Nord Este el lote número cuatro.—",
+    "Lote número seis.— Desde h, al Sud cuarenta y cuatro grados quince minutos Este, medí mil doscientos ochenta y cuatro metros cuarenta [corregido] centímetros hasta a, desde a, al Norte diez y ocho grados veintinueve minutos Este, medí mil ochenta y cinco metros hasta i; éstas y las ig y gh, ya medidas completan el lote número seis, con cien hectáreas y lindando al Nord Oeste el lote número cinco; al Sud Oeste Doña Catalina W. de Carey y Don Eustaquio Frías; al Este el terreno vendido á Don Jorge Belson y al Nord Este el lote número cuatro.—",
+    "Con esto se dió por terminada la división y mensura practicada.—",
+    "Protestas no hubieron.— Variación once grados cinco minutos Nord-Este.—",
+    "Circular: firmaron Doña Justa G. de Frías por Don Eustaquio Frías; Don Fernando Villafañe por su esposa Doña Matilde B. de Villafañe; Doña Mary [?] M. de Maxwell por Don José Maxwell; Don Juan B. Cambra por su hermano Don Jesús Cambra, que es heredero de Doña Pilar Alegre; Don Francisco Fariz [?] por la Sucesión de Don Facundo Cané. Los demás linderos firmaron por sí.—",
+    "Mercedes Abril de 1895",
+    "Juan J. Aranguren [rúbrica]",
+    "[Sello: Departamento de Ingenieros · Entrada · [?] Mayo 95]"
+   ],
+   "interpretacion": "Lote 6: h-a S 44° 15′ E 1284,40 m, a-i N 18° 29′ E 1085 m (linda SO con Catalina W. de Carey y Eustaquio Frías, E con Belson). «Protestas no hubieron». Variación 11° 5′ NE. Circular: Justa G. de Frías por Eustaquio Frías; Fernando Villafañe por su esposa Matilde B. de Villafañe; Mary [?] M. de Maxwell por José Maxwell; Juan B. Cambra por su hermano Jesús Cambra, heredero de Pilar Alegre; Francisco Fariz [?] por la sucesión de Facundo Cané; los demás firmaron por sí. «Mercedes Abril de 1895 · Juan J. Aranguren». Entrada en el Departamento de Ingenieros, [?] de mayo de 1895."
+  },
+  {
+   "titulo": "Folio 6 · nota del agrimensor y vista del Departamento",
+   "img": "img/f/170/17.jpg",
+   "fuente": "IMG_0610.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 6».",
+   "lineas": [
+    "[Sello: FOJA 6]",
+    "Nota: El sobrante ó falta de terreno queda en la fracción de Don Bernardo Carey, pues á los otros herederos se les ha fijado en cien hectáreas.—",
+    "Al hacer la división de este terreno se pidió se hiciera la ubicación de las doscientas cincuenta y tres hectáreas once áreas vendidas á Don Jorge Belson.",
+    "Juan J. Aranguren [rúbrica]",
+    "Señor Juez:",
+    "El Departamento de Ingenieros ha examinado la mensura y división practicada por el Agrimensor J. Aranguren de un terreno perteneciente á los herederos de María C. de Carey situado en el partido de San Andrés de Giles.",
+    "El título del terreno comprado por Bernardo Carey á Isidro Cucullu, dá como superficie 6495000 metros cuadrados equivalente á 7.500000 varas cuadradas.",
+    "Como se comprende, en esta reducción hay un error. Si se toma la superficie espresada en metros cuadrados existiría una falta de 54 hs 43 as 23 cs, con respecto á la superficie encontrada por el Agrimensor y en el segundo caso un exceso de 32 hs 60 as 07 cs."
+   ],
+   "interpretacion": "NOTA: el sobrante o la falta quedan en la fracción de Bernardo Carey, porque a los otros herederos se les fijaron cien hectáreas; la ubicación de las 253 ha 11 a de Belson se hizo «á pedido». VISTA del Departamento de Ingenieros: el título de Cucullu trae un error de reducción; con los metros falta 54 ha 43 a 23 ca, con las varas sobran 32 ha 60 a 07 ca."
+  },
+  {
+   "titulo": "Folio 6 vuelto · dictamen (1/6/1895)",
+   "img": "img/f/170/18.jpg",
+   "fuente": "IMG_0611.JPG",
+   "nota": "No hay auto de aprobación en el duplicado.",
+   "lineas": [
+    "Este defecto ó sobrante queda incluído en la fracción de Bernardo Carey.",
+    "Sobre estas diferencias del título V. S. resolverá lo que estime conveniente.",
+    "Según manifiesta el Agrimensor la fracción deslindada para Jorge Belson lo há sido á pedido de los interesados por existir un contrato de venta con dicho Señor.",
+    "Este Departamento es pues de parecer que la presente diligencia de mensura puede ser aprobada por V. S. una vez salvadas las deficiencias del título.",
+    "Junio 1.º de 1895",
+    "[Firmas:] F. [?] Lagos [?] · Julián Romero · Ángel Etcheverry [?] · Benjamín Sal · Carlos M. Albarracín",
+    "[A la derecha de la toma, el plano plegado cosido al expediente.]"
+   ],
+   "interpretacion": "La diferencia queda incluida en la fracción de Bernardo Carey; el juez «resolverá lo que estime conveniente». La fracción de Belson se deslindó a pedido de los interesados «por existir un contrato de venta con dicho Señor». La mensura puede aprobarse «una vez salvadas las deficiencias del título». Firman F. [?] Lagos [?], Julián Romero, Ángel Etcheverry [?], Benjamín Sal y Carlos M. Albarracín. A la derecha, el plano cosido."
+  },
+  {
+   "titulo": "Plano de mensura y división · vista general",
+   "img": "img/f/170/03.jpg",
+   "fuente": "IMG_0612.JPG",
+   "nota": "",
+   "lineas": [
+    "[Plano a tinta sobre tela, plegado; con cruces azules a lápiz sobre cada lindero.] Rótulos de linderos: S. J. Unzué · Her.s de Pilar A. de Cambra · J. Maxwell (NO, sobre A-B) · Pablo Bustos · Matilde B. de Villafañe (NE, sobre B-C) · Jorge Belson (sobre C-D) · Facundo Cané (sobre D-E) · Jorge Belson (fuera de E) · Catalina W. de Carey · Eustaquio Frías · S. J. Unzué (SO, sobre E-A). Lotes: «Bernardo Carey · Sup. = 319h 05a 25c» · «Lote N.º 1 · Sup. = 100h 00a 00c» · «Lote N.º 2» · «Lote N.º 3» · «Lote N.º 4» · «Lote N.º 5» · «Lote N.º 6» (cada uno 100h 00a 00c) · «Vendido á Jorge Belson · Sup. = 253h 11a 00c». Lados: N 45° 25′ E = 1785,4 m · S 45° 45′ E = 2533,5 m · N 44° 33′ E = 2571,5 m · N 8° 59′ E = 5517,2 m · S 44° 15′ E = 5766 m. Escala gráfica de 0 a 1500 metros con escala transversal; aguja meridiana. Firma: «Mercedes Abril de 1895 · Juan J. Aranguren»."
+   ],
+   "interpretacion": "Plano a tinta sobre tela, firmado «Mercedes Abril de 1895 · Juan J. Aranguren»: pentágono A-B-C-D-E con el lote de Bernardo Carey (319 ha 05 a 25 ca), seis lotes de 100 ha y el triángulo «Vendido á Jorge Belson · 253 ha 11 a». Linderos rotulados en los cinco lados; escala gráfica de 1500 m; aguja meridiana. Cruces azules a lápiz sobre cada lindero (¿control de la circular?)."
+  },
+  {
+   "titulo": "Plano · detalle NO: lote de Bernardo Carey",
+   "img": "img/f/170/04.jpg",
+   "fuente": "IMG_0613.JPG",
+   "nota": "",
+   "lineas": [
+    "A-B «N 45° 25′ E = 1785,4 m», con marcas en ≈ 200 m (fin de S. J. Unzué) y ≈ 1480 m (Cambra/Maxwell); A-d «1759,6 m»; d-e «N 45° 35′ E = 1831 m» dividido en «964,8 m» y «866,2 m»; e-B «1770 m»; B-C «S 45° 45′ E = 2533,5 m». Lote «Bernardo Carey · Sup. = 319h 05a 25c». Firma de Aranguren en el margen. Escala de 0-1500 m. A lápiz sobre el costado SO: «2889 [?]»."
+   ],
+   "interpretacion": "A-B con las divisiones S. J. Unzué / Her.s de Pilar A. de Cambra / J. Maxwell (la marca de 1480 m confirma la cifra del texto, y no el interlineado). d-e partido en 964,8 y 866,2 m. Escala gráfica transversal."
+  },
+  {
+   "titulo": "Plano · detalle central: lotes 1 a 6",
+   "img": "img/f/170/05.jpg",
+   "fuente": "IMG_0614.JPG",
+   "nota": "",
+   "lineas": [
+    "C-k «N 45° 35′ E = 549,03 m» [en el texto, desde C al S 45° 35′ O]; m-n «S 63° 44′ E = 1134 m» [el texto dice S 73° 14′ E]; C-l «S 59° 44′ E = 1602,2 m»; D-m «1856,5 m», m-C «715 m»; e-C «763,5 m»; f-i «S 44° 15′ E = 1823,7 m»; g-h «N 45° 35′ E = 964,8 m»; a-b «N 18° 29′ E = 1533,6 m» con «1085 m» y «380 m»; b-c «S 81° 1′ E = 1096 m»; D-E «5517,2 m» con «1856,5 m», «816,9 m» [?] y «322 m» [?]. A lápiz: «2877 [?]» sobre E-A."
+   ],
+   "interpretacion": "Rumbos y medidas de los seis lotes; m-n rotulado «S 63° 44′ E = 1134 m», contra el S 73° 14′ E del texto. La línea quebrada E-a-b-c de Belson corta en diagonal los lotes 3, 4 y 6."
+  },
+  {
+   "titulo": "Plano · detalle SE: lo vendido a Jorge Belson",
+   "img": "img/f/170/06.jpg",
+   "fuente": "IMG_0615.JPG",
+   "nota": "",
+   "lineas": [
+    "«Vendido á Jorge Belson · Sup. = 253h 11a 00c»; c-E «2521,8 m», E-a «1685,5 m» [?]; «N 8° 59′ E = 5517,2 m»; «S. J. Unzué» y «Eustaquio Frías» sobre el costado SO, con una marca de límite punteada entre a y E. A lápiz, con letra posterior: «Exp. [?] de la Sucesión María C. de Carey»; cuentas a lápiz junto a a."
+   ],
+   "interpretacion": "El triángulo de Belson entre D-E (Facundo Cané y Jorge Belson del otro lado) y E-A (S. J. Unzué). A lápiz, con letra posterior: «Exp. [?] de la Sucesión María C. de Carey»."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de mensura y división del campo de los herederos de María C. de Carey (Aranguren, abril 1895)",
+   "img": "img/f/170/03.jpg",
+   "fuente": "IMG_0612.JPG (detalles IMG_0613-0615)",
+   "orientacion": "aguja meridiana en diagonal; el costado A-B (N 45° 25′ E) queda vertical a la izquierda y E-A horizontal abajo",
+   "interpretacion": "Plano a tinta sobre tela, firmado «Mercedes Abril de 1895 · Juan J. Aranguren». Un pentágono irregular dividido en ocho piezas: el gran rectángulo casi regular de Bernardo Carey contra el lado A-B, seis lotes de 100 ha encajados entre ese rectángulo, el lado C-D y la poligonal quebrada E-a-b-c, y el triángulo «Vendido á Jorge Belson» contra el vértice E. Los lados llevan rumbo y longitud; los lotes, su superficie. No hay paisaje dibujado: ni la portada, ni los caminos, ni el arroyito, ni los alambrados que cita el texto. Cruces azules a lápiz sobre cada nombre de lindero, que parecen marcar quién firmó la circular.",
+   "referencias": [
+    [
+     "A · B",
+     "Mojones de piedra: A esquinero con Catalina W. de Carey y Unzué; B con Maxwell y Pablo Bustos"
+    ],
+    [
+     "C",
+     "Sin mojón previo: se coloca uno (intersección de B-C con C-D)"
+    ],
+    [
+     "D · E",
+     "Ñandubay; E quebrado"
+    ],
+    [
+     "d · e",
+     "Lote de Bernardo Carey (319 ha 05 a 25 ca)"
+    ],
+    [
+     "m · n · l · k · j · f · g · h · i",
+     "Mojones de ñandubay de los lotes 1 a 6 (100 ha cada uno)"
+    ],
+    [
+     "a · b · c",
+     "Quiebres de la poligonal de Belson (253 ha 11 a)"
+    ],
+    [
+     "Linderos rotulados",
+     "S. J. Unzué, Her.s de Pilar A. de Cambra, J. Maxwell, Pablo Bustos, Matilde B. de Villafañe, Jorge Belson, Facundo Cané, Eustaquio Frías, Catalina W. de Carey"
+    ],
+    [
+     "Escala",
+     "Gráfica de 0-1500 m con escala transversal"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle NO: lote de Bernardo Carey",
+   "img": "img/f/170/04.jpg",
+   "fuente": "IMG_0613.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "El lado A-B con las marcas de los tres linderos: la de Cambra/Maxwell cae a ≈ 1480 m, como dice el texto y no el interlineado. La firma de Aranguren corre por el margen izquierdo.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle central: los seis lotes de 100 ha",
+   "img": "img/f/170/05.jpg",
+   "fuente": "IMG_0614.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "Se leen los rumbos de las divisorias. El de m-n, «S 63° 44′ E = 1134 m», corrige el «S 73° 14′ E» del texto copiado.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle SE: el triángulo vendido a Jorge Belson",
+   "img": "img/f/170/06.jpg",
+   "fuente": "IMG_0615.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "«Vendido á Jorge Belson · Sup. = 253h 11a 00c», con S. J. Unzué al SO y Facundo Cané y Jorge Belson del otro lado de D-E. A lápiz, en letra posterior: «Exp. [?] de la Sucesión María C. de Carey».",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "En 1895 el campo está casi todo ALAMBRADO: el lado A-B corre por un CALLEJÓN DE 14 M formado por los alambrados de Carey, Unzué y Maxwell (sólo el campo de los Cambra está abierto); B-C está alambrada; D-E también; sobre E-A hay un alambrado divisorio entre Catalina W. de Carey y Eustaquio Frías. Dos caminos lo cruzan o lo tocan: en C-D, a 10 m de C, una PORTADA del «camino de Mercedes á lo de Bustos» (un camino que lleva a una estancia, nombrada por la familia); en D-E, a 3730 m de D, el CAMINO DE CHACABUCO A GILES. A 5120 m de D, cerca del vértice E, «un arroyito» sin nombre. La única agua del campo está en el triángulo de Belson. Es campo de pastoreo según todos los títulos; el texto no menciona casas ni montes."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Citación de linderos (el original queda en el expediente) y edictos; «protestas no hubieron». La circular muestra la mediación de las mujeres y de la familia: Justa G. de Frías firma por su marido Eustaquio, Fernando Villafañe por su esposa Matilde Bustos, Mary [?] M. de Maxwell por José Maxwell, Juan B. Cambra por su hermano Jesús (heredero de Pilar Alegre) y Francisco Fariz [?] por la sucesión de Facundo Cané. La división no se calcula: la DICTA «el señor representante de los herederos» (100 ha por hijo y el resto al viudo), y se respeta un contrato de venta a Jorge Belson que aún no tiene escritura. El agrimensor, en una nota, carga sobre el lote de Bernardo Carey toda la incertidumbre del título (falta o sobrante)."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos al minuto (N 45° 25′ E, S 45° 45′ E, N 44° 33′ E, S 8° 59′ O, N 44° 15′ O); variación 11° 5′ NE; distancias al centímetro. Verificado en python: el pentágono cierra con 5,6 m de error (1 : 3250) y su área por coordenadas es 1172,64 ha contra 1172,16 declaradas; la suma de las piezas (319,0525 + 6 × 100 + 253,11) da exactamente 1172,1625. Los lotes de 100 ha salen por coordenadas entre 99,6 y 100,05 ha, sólo si m-n es S 63° 44′ E (como en el plano). El copista escribió «Este» por «Oeste» en D-E, E-A y en otros dos rumbos: el cierre y la ficha 102 lo prueban. Mojones nuevos de ñandubay en C y en todos los vértices interiores; en A y B se hallan mojones de PIEDRA, más antiguos."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "El error de 1870 es una lección de metrología: 7.500.000 v² NO son 6.495.000 m² (con la vara de 0,866 m dan 5.624.670 m²; con 0,9306 m, vara «inflada», sí darían 6.495.000). La diferencia, 87 ha 03 a 30 ca, la calcula el propio Aranguren (verificado al m²). El error se copió tal cual en la escritura de 1871 y el agrimensor y el Departamento de Ingenieros deben decidir cuál de las dos cifras es «el título»: con los metros, falta 54,4323 ha; con las varas, sobran 32,6007 ha (las dos cifras verificadas). Ninguno decide: se deja al juez. Otra prueba de la conversión cuadra = 1,6874 ha: 406,6637 ha = 241,00 cuadras² y 170,4311 ha = 101,00 (el texto dice 101,223)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena: merced/compra de Ramón Bustos a Pablo José Rodríguez (1838) → testamentaría de Ramón Bustos (hijuelas de 1863) → tres compras de Bernardo Carey (a Cucullu, ex Liboria Bustos, 1871; a Avelina Bustos de Ordóñez, 1880 y 1883) → muerte de María Cormack [?] de Carey → partición entre el viudo y seis hijos (1895), con una venta previa de 253 ha a Jorge Belson. Un campo bonaerense de 1172 ha armado por un inmigrante (Carey, de apellido irlandés) comprándole por partes a una familia criolla que lo había heredado, y que a la generación siguiente se fragmenta en lotes de 100 ha. Verificado con Herón: los lados del triángulo de 1883 dan 186,76 ha y no las 170,43 que dice la escritura; la diferencia es ≈ el sobrante fiscal de 15,79 ha que, según la ficha 102, Avelina compró al fisco."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "102 (Avelina Bustos, Schuster, feb. 1880): es el mismo bloque oriental; C-D (N 44° 30′ E 2569,5 m) y D-A de 102 (S 8° 59′ O 5500 m) son el C-D (N 44° 33′ E 2571,5) y el D-E (S 8° 59′ O 5517,2) de esta ficha; la «mensura de Schuster» citada en el título es la 102. 099 y 100 (hijuelas Bustos de Matilde, Susana, Juana y Pablo): linderos NE. 066 (Fernando Monsalvo, 1874): «her. de Jerónimo y Bernardo Carry» con estancia y monte, y Justa Gómez de Frías; el «Gerónimo Cari» de 1870 es el mismo Jerónimo Carry/Carey. 084 (Ángela G. de Alegre, 1878): lado S contra «Bernardo y Catalina H. de Carrey» y Patricio Gannon, con José Maxwell como lindero: los Carey ocupan dos campos y Catalina (W. o H.) es la otra rama. Unzué (054, 055, 124): Saturnino J. Unzué ya es lindero SO. Pilar Alegre de Cambra: hija de la familia Alegre de 084 (Ángela Gutiérrez de Alegre dio una hijuela a una Pilar). Cucullu (033: sobrante de 286 ha): el mismo comprador-especulador de tierras."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Texto completo fs. 1-6 vuelto y plano; falta el auto de aprobación y el original de la citación de linderos. Preguntas: ¿el apellido es «Cormak», «Cormack» o «McCormack»? ¿«Mary M. de Maxwell»? ¿«Francisco Fariz» o «Fariña»? ¿A cuántos metros de E termina Unzué sobre E-A (el texto dice «c[?] mil seiscientos veintiún», el plano sugiere ≈ 1,45 km)? ¿Quién es Jorge Belson y cuándo escrituró? ¿Cómo resolvió el juez el error de reducción del título? GIS: anclar el bloque con la ficha 102 (vértice D común y lado D-E) y con el camino de Chacabuco a Giles a 3730 m de D."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "María Cormack [?] de Carey",
+   "rol": "Causante",
+   "texto": "Esposa de Bernardo Carey, fallecida antes de 1895; sus seis hijos reciben 100 ha cada uno. El apellido (Cormak/Cormack) es irlandés. Sólo en este duplicado.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Bernardo Carey",
+   "rol": "Viudo, comprador del campo",
+   "texto": "Compra a Cucullu (1871) y dos veces a Avelina Bustos (1880, 1883) hasta reunir ≈ 1226 ha de título. En 1895 recibe el resto, 319,05 ha, y carga con la falta o el sobrante. Aparece como «Bernardo Carry» en 066 (1874), con estancia y monte, y como «Bernardo Carrey» en 084 (1878). Una búsqueda web no dio datos biográficos.",
+   "fuentes": "Fichas 066, 084, 102; búsqueda web 16/11/2026 sin resultados útiles."
+  },
+  {
+   "nombre": "Catalina W. de Carey",
+   "rol": "Lindera so",
+   "texto": "Dueña del campo contiguo al lado E-A, alambrado; ¿viuda de Jerónimo Carry/Carey («Gerónimo Cari» en el título de 1870)? En 084 figura «Catalina H. de Carrey».",
+   "fuentes": "Este duplicado; fichas 066, 084."
+  },
+  {
+   "nombre": "Liboria, Avelina (Abelina), Pablo, José, Matilde y Susana Bustos",
+   "rol": "Herederos de ramón bustos",
+   "texto": "Hijos de Ramón Bustos, que había comprado en 1838 a Pablo José Rodríguez. Liboria vende a Cucullu (1870); Avelina, viuda de Ordóñez, vende a Carey (1880, 1883); Pablo, Matilde (casada con Fernando Villafañe) y Susana (B. de Etcheverry [?]) son linderos.",
+   "fuentes": "Fichas 099, 100, 102."
+  },
+  {
+   "nombre": "Isidro Cucullu",
+   "rol": "Comprador y revendedor (1870-71)",
+   "texto": "Compra a Liboria Bustos en octubre de 1870 y vende a Carey tres meses después: operación de intermediario. Es el mismo Cucullu del sobrante de 286 ha (033).",
+   "fuentes": "Ficha 033."
+  },
+  {
+   "nombre": "Jorge Belson",
+   "rol": "Comprador de 253,11 ha",
+   "texto": "Tiene un contrato de venta con los Carey y es además lindero E (más allá de D-E). Sin escritura en autos. Sin otros datos.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Saturnino J. Unzué",
+   "rol": "Lindero no y so",
+   "texto": "Gran propietario de la familia Unzué, presente en el rincón SO del partido (054, 055, 124).",
+   "fuentes": "Fichas 054, 124."
+  },
+  {
+   "nombre": "Pilar Alegre de Cambra, Juan B. y Jesús Cambra",
+   "rol": "Linderos no",
+   "texto": "Los herederos de Pilar Alegre tienen el único tramo sin alambrar del lado A-B. Juan B. firma por su hermano Jesús. Mariano Alegre era lindero O en 1870.",
+   "fuentes": "Este duplicado; ficha 084."
+  },
+  {
+   "nombre": "José Maxwell y Mary [?] M. de Maxwell",
+   "rol": "Linderos no",
+   "texto": "Maxwell es lindero también en 084 y 099; firma por él su esposa.",
+   "fuentes": "Fichas 084, 099."
+  },
+  {
+   "nombre": "Eustaquio Frías y Justa G. de Frías",
+   "rol": "Linderos so",
+   "texto": "Justa Gómez de Frías es dueña en el bloque O de 066 (1874); en 1880 (102) el mojón A de Avelina es esquina de Apolinario Acuña y Eustaquio Frías.",
+   "fuentes": "Fichas 066, 102."
+  },
+  {
+   "nombre": "Facundo Cané (sucesión) y Francisco Fariz [?]",
+   "rol": "Lindero e y su representante",
+   "texto": "Los herederos de Cané lindan con el tramo norte de D-E. Cané es apellido recurrente en el corpus.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Fernando Villafañe",
+   "rol": "Firma por su esposa matilde b. de villafañe",
+   "texto": "Marido de Matilde Bustos (099).",
+   "fuentes": "Ficha 099."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor de 1880",
+   "texto": "Midió el cuadrilátero de Avelina Bustos (102), aprobado por el juez Virgilio M. Tedín, secretario M. Malmierca.",
+   "fuentes": "Ficha 102."
+  },
+  {
+   "nombre": "Abelardo (Avelardo) Báez, N. S. Ponsati [?], Mariano Lagcon [?], Luis de Castañaga [?]",
+   "rol": "Escribanos",
+   "texto": "Báez, secretario del Juzgado del Crimen del Centro, autoriza las hijuelas Bustos (1863); Ponsati [?] y Lagcon [?] las escrituras de Mercedes (1870-1883); Castañaga [?] la de 1838 en Buenos Aires.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Ángel M.ª Ezquer y Miguel Herrera",
+   "rol": "Juez y secretario",
+   "texto": "Juez de 1.ª Instancia en lo Civil y Comercial del Departamento del Centro (Mercedes), que comisiona también la 169.",
+   "fuentes": "Fichas 165-169."
+  },
+  {
+   "nombre": "Juan J. Aranguren",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor con base en Mercedes, activo en Giles en 1889-1895 (153, 157, 164, 167, 169, 170). Aquí declara con franqueza la ambigüedad del título y la deja al juez.",
+   "fuentes": "Fichas 153-169."
+  },
+  {
+   "nombre": "F. [?] Lagos [?], Julián Romero, Ángel Etcheverry [?], Benjamín Sal, Carlos M. Albarracín",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firman la vista del 1/6/1895; el mismo plantel firma en 157, 164 y 169 (sin Etcheverry [?], que aparece aquí por primera vez).",
+   "fuentes": "Fichas 157, 164, 169."
+  }
+ ],
+ "portadilla": {
+  "img": "",
+  "fuente": "transcripción · IMG_0604.JPG",
+  "lineas": [
+   "San Andrés de Giles / 1895 N.º 170 / Duplicado de la diligencia de / mensura practicada en terreno de / propiedad de los herederos de Doña / María C. de Carey, situado / en Partido de San Andrés / de Giles.— / Agrimensor: J. J. Aranguren [rúbrica] / 5. 27. 44. / [a lápiz azul:] 1 a 2 + + / 3 3v + + [?] / 6 y 6v + + / [ilegible] 14/870 [?]"
+  ]
+ },
+ "titulo": "Herederos de María C. de Carey",
+ "estado": "Transcripta (16 hojas, 61 renglones), 4 láminas"
+}

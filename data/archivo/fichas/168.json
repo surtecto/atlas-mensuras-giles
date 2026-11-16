@@ -1,0 +1,806 @@
+{
+ "carpeta": "168",
+ "carpeta_nombre": "Carpeta 168",
+ "archivo": "Ficha 168 - Jorge Morgan y her. de E. Morgan (1894).docx",
+ "resumen": {
+  "N.º de duplicado": "168 (San Andrés de Giles); en portadilla «H. 239. 329.» y, a lápiz, «40-41»",
+  "Propietario / solicitante": "Jorge Morgan y her. de E. Morgan",
+  "Causante": "Testamentaría de Catalina O’Farrell (Farrell) de Morgan, madre de Jorge y Eduardo",
+  "Agrimensor": "Tomás Dodds (Piedad 641 [?], Buenos Aires)",
+  "Año": "1894",
+  "Fecha de la diligencia": "Inicio 8/8/1894; firma 12/9/1894; entrada D. I. 24/9; vista D. I. 11/10/1894",
+  "Ubicación": "Dos fracciones casi contiguas sobre los arroyos del Suero y de la Noria (O de Giles)",
+  "Orden judicial": "Juez de 1.ª instancia Dr. Gamboa (¿Arturo H. Gamboa, La Plata?)",
+  "Vendedor / antecesor": "Macome, Flores, Sosa, Cabrera, Guerrico, Torres, el Fisco, suc. Lucero, B. Vásquez",
+  "Linderos citados": "Mooney, Ponce, Vásquez, Pichetto, Ferreto, Silva, Casas, Welsh, Mesquita, Kenny, los Casco",
+  "Medidas": "1.ª: A-B 5776, I-J 4226, C-D 2835 m; 2.ª: K-P 6018, P-Q 5759, S-G 4606, X-L 4313 m",
+  "Rumbos": "S 47° 09′ E / S 42° 51′ O (1.ª); S 43° 16′ O / S 45° 39′ E / N 41° 48′ E (2.ª)",
+  "División": "Cuatro lotes: 2 × 1266,82 ha y 2 × 1526,79 ha, uno de cada par para cada rama",
+  "Referencia de archivo": "AHG PBA, duplicado 168 de Giles; nota de 5/4/1911 (posesión treintañal Martínez)"
+ },
+ "metricas": {
+  "superficie_ha": "5587,23",
+  "hitos": "mojones de palo, de fierro (I, costanero) y de piedra (M); mojones de Gómez Molina (1882); alambrados; dos estancias",
+  "aguas": "arroyo del Suero y arroyo de la Noria; dos lagunas sobre el Suero"
+ },
+ "sintesis": "Mensura y división judicial de la estancia de los Morgan, una de las mayores propiedades medidas en Giles: 5587 ha en dos fracciones casi contiguas (2533,64 y 3053,59 ha) sobre los arroyos del Suero y de la Noria, formadas entre 1850 y 1892 con once títulos que Dodds ubica en un «plano demostrativo»: compras a Macome, Flores, Sosa y Cabrera (medidas por Kuhr en 1856), el campo de Guerrico (Eguía 1861, Coquet 1866), fracciones Torres, sobrantes fiscales de 1867 y 1884, la sucesión Lucero y una permuta con Benito Vásquez (1882). Muerta Catalina Farrell, Jorge Morgan y los herederos de su hermano Eduardo parten cada fracción en dos lotes iguales, quedándose cada rama con su estancia. Campo enteramente alambrado; ningún lindero concurre; dos se niegan a firmar.",
+ "caratula": {
+  "img": "img/f/168/01.jpg",
+  "fuente": "IMG_3632.JPG (girada 90°)",
+  "campos": [
+   [
+    "N.º",
+    "168"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Jorge Morgan y herederos de Eduardo Morgan"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Dodds"
+   ],
+   [
+    "Mes / Año",
+    "(en blanco) / 1894"
+   ],
+   [
+    "Juzgado",
+    "(en blanco)"
+   ],
+   [
+    "Secretaría",
+    "(en blanco)"
+   ],
+   [
+    "Duplicados de referencia",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · Extracto del título: Macome → Morgan (1850, 1853); Flores (1854)",
+   "img": "img/f/168/11.jpg",
+   "fuente": "IMG_3634.JPG (girada 90°)",
+   "nota": "La primera escritura sitúa el campo en San Antonio de Areco y la segunda en «Carmen de Areco» (error del copista): es la franja limítrofe Areco–Giles. Fracción A del plano demostrativo.",
+   "lineas": [
+    "[sello: Foja 1 · Archivo]",
+    "Extracto del Título",
+    "1850: En la Ciudad de Buenos Aires á 1 de Junio de 1850: ante el Escribano Aranda: Jorge Macome, vende á Dn. Eduardo Morgan, la mitad del terreno de una estancia que posée en el partido de Sn. Antonio de Areco, compuesto su estencion total de mil tres cientas varas de frente al Arroyo del Suero, y fondo hasta tocar con las suertes principales del Rio Areco, lindando al Sud con Damaso Flores y al Norte con Francisco del Sar.—",
+    "1853= En la Ciudad de Buenos Aires á 22 de Agosto de 1853: ante el Escribano Saldias; Jorge Macome Vende á Dn. Eduardo Morgan la otra mitad del mismo campo á que se refiere la anterior escritura, situado en el partido de Carmen de Areco y compuesto de seis cientas cincuenta varas de frente por cinco mil novecientas veinte varas de fondo, lindando por el Sud con Damaso Flores por el fondo con el Arroyo del Suero, por el Oeste con el comprador y por el Este con Buenaventura Flores.— Estas dos fracciones las hubo Macome por compra á Bogarin en 2 de Junio de 1840.—",
+    "1854: En San Andres de Giles á 4 de Diciembre de 1854 ante el Juez de Paz: Damaso Flores y su esposa Juana Casco, Venden á Eduardo Morgan dos terrenos de estancia en Giles compuesto el primero de dos mil varas de frente por cuatro mil ocho cientos cincuenta varas de fondo en el costado Sud y cuatro mil dos cientos noventa y cinco varas"
+   ],
+   "interpretacion": "Abre el «Extracto del Título». Jorge Macome vende a Eduardo Morgan en dos mitades (1/6/1850, escribano Aranda; 22/8/1853, escribano Saldías) su estancia de 1300 varas de frente al ARROYO DEL SUERO y fondo hasta las suertes principales del río Areco (la segunda mitad: 650 × 5920 v), entre Dámaso Flores (S) y Francisco del Sar (N); Macome la tenía de Bogarín (2/6/1840). Empieza la venta de Dámaso Flores y Juana Casco (Giles, 4/12/1854, ante el juez de paz): dos terrenos de estancia."
+  },
+  {
+   "titulo": "Folio 1 vuelto · Flores, Sosa y Cabrera (1853-1855); mensura de Kuhr (1856)",
+   "img": "img/f/168/12.jpg",
+   "fuente": "IMG_3635.JPG (mitad izquierda)",
+   "nota": "Es la mensura de la ficha 020 (Eduardo Morgan, Kuhr, 1856). «Buollerfiel» es deformación de Butterfield. Fracciones B, C y D del plano demostrativo.",
+   "lineas": [
+    "en el costado Norte: La segunda fraccion tiene quinientas varas de frente por tres mil varas de fondo; Linda la primera fraccion al Norte con el comprador, al Sud con Carlos Buollerfiel [sic, por Butterfield] por el Este con los vendedores y por el Oeste con Santiago Casco y Pablo Falcon; la segunda fraccion linda al Sud y Oeste con el comprador al Norte con Natal Torres y al Este con los Vendedores.—",
+    "[al margen: 1853.—] En San Andres de Giles á 1 de Diciembre de 1853, ante el Juez de Paz.— Eustaquio Sosa y su esposa Susana Casco, Venden á Eduardo Morgan, un terreno de Estancia en Sn. Antonio de Areco, compuesto de mil varas de frente por tres mil varas de fondo, lindando al Norte con Damaso Flores al Sud Francisco A. Casco por el Este con los vendedores y por el Oeste con Matias Martinez.—",
+    "[al margen: 1855] En San Andres de Giles á 5 de Febrero de 1855: ante el Juez de Paz: Dn. Mariano Cabrera y su esposa Da. Manuela Cané, Venden á Eduardo Morgan un terreno de Estancia en Giles compuesto de tres cientas cincuenta varas de frente por tres mil varas de fondo, lindando al Este y Norte con el comprador al Sud Matias Martinez al Oeste Suertes principales del Rio de Areco.—",
+    "Estos tres titulos han sido protocolizado[s] en la Escribania de Saldias el 21 de Enero de 1856: y en el mismo año fué practicada la mensura de estos terrenos por el Agrimensor Germa[n] Kuhr (padre) La cual mensura fué aprobada por el Juez de 1ª. Instancia Dr. Pablo Font en Marzo 14 de 1857.—"
+   ],
+   "interpretacion": "Flores vende 2000 v de frente × 4850 v (costado S) y 4295 v (costado N), y otra de 500 × 3000 v; linderos Butterfield (S), Santiago Casco y Pablo Falcón (O), Natal Torres (N). Eustaquio Sosa y Susana Casco venden 1000 × 3000 v (1/12/1853); Mariano Cabrera y Manuela Cané, 350 × 3000 v (5/2/1855), lindando al O con las suertes principales del río de Areco. Los tres títulos se protocolizan ante Saldías (21/1/1856); mensura de Germán Kuhr (padre), aprobada por el juez Pablo Font el 14/3/1857."
+  },
+  {
+   "titulo": "Folio 2 · compra a Plácido Guerrico (1861); mensura y división de Eguía",
+   "img": "img/f/168/13.jpg",
+   "fuente": "IMG_3635.JPG (mitad derecha)",
+   "nota": "Es la mensura de la ficha 029 (herederos de Guerrico, Eguía 1861). Eduardo Morgan (padre) ya había muerto en 1861. El apellido Duberti se confirma en el plano demostrativo. 44.650.788 m² = 4465,08 ha.",
+   "lineas": [
+    "[sello: Foja 2 · Archivo]",
+    "1861. En la Ciudad de Buenos Aires á 7 de Junio de 1861. ante el Escribano Aranda: Placido Guerrico Vende á la Testamentaria de Eduardo Morgan un terreno de Estancia en el partido de Sn. Andres de Giles compuesto de cinco mil dos cientas cincuenta varas de frente al Sud por nueve mil ochocientas varas de fondo al Norte incluyendo amas [subrayado] un martillo contiguo de mil varas de frente por tres mil varas de fondo, lindando por su frente, con Casco por el fondo con El Estado por el Este Carlos R. Casco y por el Oeste con mas terreno de Casco: Le corresponde al vendedor, por haberlo heredado á sus padres, Placido Guerrico y Juana Lasarra, segun consta de la hijuela aprobada judicialmente por el Juez de 1ª. Instancia Dr. Mancilla en 15 de Febrero de 1850: y el dicho finado Guerrico lo hubo por compra á Ramon Cané en 24 de Diciembre de 1838 ante el Escribano Nuñez.—",
+    "Practicada la mensura por el Agrimensor Eguia en Marzo de 1861. resultó tener el campo una superficie de 44,650,788. m.c. cuarenta y cuatro millones, seis cientos cincuenta mil setecientos, ochenta y ocho metros cuadrados: resultando dentro de mojones de 1.569.747 m.c. un millon quinientos sesenta y nueve mil setecientos cuarenta y siete metros cuadrados:— Al mismo tiempo el Agrimensor Eguia practicó la division de este campo: adjudicandole á los Hros. de Morgan las 2/3 partes del campo y á Francisco Duberti [?] la otra tercera parte: de la cual Duberti le habia vendido á Pedro Kenny un cuarto de legua.—",
+    "Esta mensura fué aprobada por el Juez"
+   ],
+   "interpretacion": "Plácido Guerrico (hijo) vende a la testamentaría de Eduardo Morgan (7/6/1861, escribano Aranda) 5250 v de frente al S × 9800 v de fondo más un martillo de 1000 × 3000 v, heredado de Plácido Guerrico y Juana Lasarra (hijuela de 15/2/1850), que lo compraron a Ramón Cané (24/12/1838, escribano Núñez). Eguía mide en marzo de 1861: 44.650.788 m² y un sobrante de 1.569.747 m² dentro de mojones; divide el campo: 2/3 para los herederos de Morgan, 1/3 para Francisco Duberti, que había vendido a Pedro Kenny un cuarto de legua."
+  },
+  {
+   "titulo": "Folio 2 vuelto · sobrante de 1866-67 (Coquet, Alsina); compra a los Torres (1878)",
+   "img": "img/f/168/14.jpg",
+   "fuente": "IMG_3636.JPG (mitad izquierda)",
+   "nota": "Mensura de Coquet = ficha 038. Las «secciones» y «fracciones» B y D son las del plano del Departamento de Ingenieros agregado a la ficha 067 (Torres, Cascallar 1874). 2982,02 − 259,68 = 2722,34 ha de título.",
+   "lineas": [
+    "de 1ª. Instancia Dr. Alejo B. Gonzales en 5 de Junio de 1861.— Posteriormente y en el año 1866. habiendo los Hros. de Morgan, solicitado en compra el sobrante resultado de la mensura de Eguia, se practicó una nueva mensura de este terreno por el Agrimensor Juan Coquet [subrayado]: resultando tener este campo una superficie de 2982 h: 02 a. 10 c— dos mil novecientos ochenta y dos hectareas dos areas y diez centiareas: resultando segun esta mensura un sobrante dentro de mojones de 259 h. 68 a 07 c dos cientos cincuenta y nueve hectareas. sesenta y ocho areas y siete centiareas. Sobrante que les fué vendido á los Hros. de Morgan. por el Gobernador de la Provincia de Buenos Aires Dr. Adolfo Alsina en Junio 5 de 1867. por ante el Escribano Mayor de Gobierno",
+    "[al margen: 1878] En la Ciudad de Buenos Aires á 25 de Noviembre de 1878. ante el Escribano Artola— El Juez de 1ª. Instancia Dr. Noguera [?] á nombre de Natal Torres y á nombre de la Testamentaria de Macario Torres, Vende á Catalina O’Farrell y á sus dos hijos: Eduardo y Jorge Morgan en la proporcion de una mitad para la Señora y la otra mitad para sus dos hijos; Tres fracciones de campo en Giles, señalados en el plano que corre á f. 248: La primera con la fraccion B. de la 1ª. Seccion: La segunda con la parte de la fraccion D. de la Seccion 2ª. y la tercera tambien con parte de la fraccion D, Seccion 2ª. pero con el agregado Pedro Veloz, compuesto segun el mismo plano de 1300 vs. mil tres cientas varas"
+   ],
+   "interpretacion": "Aprobación del juez Alejo B. González (5/6/1861). En 1866 los herederos piden en compra el sobrante: nueva mensura de Juan Coquet, 2982 ha 02 a 10 ca con 259 ha 68 a 07 ca de sobrante, vendido por el gobernador Adolfo Alsina el 5/6/1867. El 25/11/1878 (escribano Artola) el juez, por Natal Torres y la testamentaría de Macario Torres, vende a Catalina O’Farrell y a sus hijos Eduardo y Jorge Morgan (mitad para ella, mitad para ellos) tres fracciones del plano de f. 248: la B de la 1.ª sección y partes de la D de la 2.ª, una con el agregado «Pedro Veloz»."
+  },
+  {
+   "titulo": "Folio 3 · las tres fracciones Torres: entre el Suero y la Noria",
+   "img": "img/f/168/15.jpg",
+   "fuente": "IMG_3636.JPG (mitad derecha)",
+   "nota": "«P. Whelan» es el Wheeler de las fichas 067 y 110. El fondo ya no es una medida sino un arroyo: de arroyo a arroyo. Fracción F del plano demostrativo.",
+   "lineas": [
+    "[sello: Foja 3 · Archivo]",
+    "de frente al Nor Oeste al Arroyo del Suero por el fondo que resulta hasta el Arroyo de la Noria Linda por el frente con el Arroyo del Suero por el fondo con el Arroyo de la Noria por el Sud Oeste parte con el comprador y parte con la segunda fraccion y por el Nor Este parte con Guillermo Mooney y parte con P. Whelan La segunda fraccion, mide 700 vs. setecientas varas de frente al Nor Oeste, por 4500 vs. cuatro mil quinientas varas de fondo, y linda por el frente con los compradores; por el Sud Este con Damaso Flores por el Sud Oeste Hros. de Manuel Sosa y por el Nor Este parte con la primera seccion y parte con Damaso Flores.— La tercera, fraccion y es la que tiene el nombre de Pedro Veloz: tiene 650 vs. seis cientas cincuenta varas de frente al Nor Oeste por 4500 vs. cuatro mil quinientas varas de fondo al Sud Este; Linda por el frente con los compradores, por el fondo con Damaso Flores por el Nor Este con los Hros. de Manuel Sosa y por el Sud Oeste parte con los compradores y parte con Susana Casco de Sosa.— Les corresponde á los Vendedores. la primera y segunda fraccion por compra á Vicente Marfil en 28 de Abril de 1840, segun consta del documento otorgado ante el Juez de Paz de Sn. Andres de Giles.— y la tercera fraccion por compra á Pedro Veloz; habiendole pertenecido á Veloz por compra á Simona Marfil Dn. Apolinario Galeano y otros en 26 de Mayo de 1838. ante el Juez de Paz de Giles.—"
+   ],
+   "interpretacion": "Primera: 1300 v de frente al NO sobre el ARROYO DEL SUERO y fondo hasta el ARROYO DE LA NORIA, entre el comprador y la segunda fracción (SO) y Guillermo Mooney y P. Whelan (NE). Segunda: 700 × 4500 v, lindando con Dámaso Flores y los herederos de Manuel Sosa. Tercera («Pedro Veloz»): 650 × 4500 v. Origen: las dos primeras por compra a Vicente Marfil (28/4/1840, ante el juez de paz de Giles); la tercera por compra a Pedro Veloz, que la tuvo de Simona Marfil, Apolinario Galeano y otros (26/5/1838)."
+  },
+  {
+   "titulo": "Folio 3 vuelto · compra al Gobierno (8/2/1884): sobrante de Kuhr y cuatro lotes fiscales",
+   "img": "img/f/168/16.jpg",
+   "fuente": "IMG_3637.JPG (mitad izquierda)",
+   "nota": "Es la operación de la ficha 112 (Kuhr 1881, escriturada el 8/2/1884). Allí el exceso se leyó 56,98 ha y aquí 56,58: una de las dos copias trastoca la cifra. Las tres primeras superficies coinciden con los sobrantes de 1867 (19,68 + 47,93 + 258,69 ha). Fracción G del plano demostrativo.",
+   "lineas": [
+    "[al margen: 1884] En la Ciudad de Buenos Aires á 8 de Febrero de 1884: ante el Escribano Mayor de Gobierno de la Provincia de Buenos Aires Sr. Dr. Dardo Rocha, vende á Eduardo y Jorge Morgan un sobrante en el partido de Giles que ha resultado de la mensura practicada por el Agrimensor German A. Kuhr en el año 1883:— compuesto de 56 h: 58 a. 20 c. cincuenta y seis hectareas. cincuenta y ocho areas y veinte centiareas, estando este sobrante comprendido dentro de los limites de la mensura:, Asi como tambien Vende á los mismos Señores, cuatro lotes mas de terreno Fiscal, situados en el mismo partido de Giles, compuesto el primer lote de 19 h: 68 a 16 c diez y nueve hectareas. sesenta y ocho areas y diez y seis centiareas, lindando al Nor Este con Natal Torres; al Sud Este Hros. de Damaso Flores y Da. Susana Casco de Sosa: al Sud Oeste Isidoro Cucullo y al Nor Oeste con los compradores: La 2ª. fraccion se compone de 47 h. 93 a. 26 c. cuarenta y siete hectareas. noventa y tres areas y veinte y seis centiareas, y linda al Nor Este y Sud Este con los compradores al Sud Oeste con Da. Carmen Busto de Martinez y al Nor Oeste con Tiburcio Casco.— La Tercera fraccion compuesta de 258 h. 69 a. 19 c. dos cientas cincuenta y ocho hectareas, sesenta y nueve areas y diez y nueve centiareas. linda al Nor Este, Nor Oeste y Sud Oeste con los compradores, y al Sud Este con los Hros. de Damaso Flores.— La cuarta fraccion linda al Nor Este con Sixto Ponce y Guillermo Mooney al Sud Este, Damaso"
+   ],
+   "interpretacion": "El gobernador Dardo Rocha vende a Eduardo y Jorge Morgan el sobrante de 56 ha 58 a 20 ca hallado por Germán A. Kuhr en 1883 dentro de los límites de la mensura, y cuatro lotes fiscales: 19 ha 68 a 16 ca (entre Natal Torres, herederos de Flores, Susana Casco de Sosa e Isidoro Cucullo), 47 ha 93 a 26 ca (contra Carmen Busto de Martínez y Tiburcio Casco), 258 ha 69 a 19 ca (rodeado por los compradores) y un cuarto sin superficie expresa."
+  },
+  {
+   "titulo": "Folio 4 · compra a la sucesión Lucero–Martínez (1885); derechos de Marfil (1892)",
+   "img": "img/f/168/17.jpg",
+   "fuente": "IMG_3637.JPG (mitad derecha)",
+   "nota": "Verificado: 136,168 × 4330 = 58,9607 ha (el título dice 58 ha 96 a 50 ca). Al margen, a lápiz, «ojo» y una cruz: el Departamento marcó el título de 1892, que no es dominio perfecto sino cesión de derechos hereditarios por interpósita persona. Fracciones H e I.",
+   "lineas": [
+    "[sello: Foja 4 · Archivo]",
+    "Flores al Oeste con la Sucesion de Flores y el Estado al Nor Oeste Arroyo del Suero por medio con los compradores.—",
+    "1885: Mercedes Febrero 19 de 1885: El Juez de 1ª. Instancia Sr. Dr. Octavio Amadeo: en nombre de la Sucesion de Leandro Lucero y Matilde Martinez vende á los Señores Jorge y Eduardo Morgan un terreno en Giles compuesto de 136,168 m ciento treinta y seis metros y ciento sesenta y ocho milimetros de frente por cuatro mil tres cientos treinta metros de fondo igual á una superficie de 58 h. 96 a. 50 c cincuenta y ocho hectareas. noventa y seis areas y cincuenta centiareas, lindando al Nor Oeste [corregido sobre «Sud Este»] con Tiburcio Casco: por el Sud Este y Sud Oeste con los compradores y por el Nor Este con Martinez.— Le corresponde á la Sucesion vendedora por fallecimiento de Da. Matilde Martinez y Dn. Leandro Lucero",
+    "[al margen, a lápiz: X y «ojo»] En San Andres de Giles á 20 de Abril de 1892 ante el Escribano Cornelio Games: Dn. Julio Saravi y Dn. Saturnino Argañaras [?], Venden á Dn. Guillermo Mooney todos los derechos y acciones que puedan corresponderle á los bienes dejados por fallecimiento de Vicente Marfil: Dn. Juan Saturnino Carneiro Da. Alejandra Carneiro y Dn. Pedro Pueblas; estos derechos les corresponden como cecionarios de los herederos de los causantes, Dn. Saturnino Pueblas Dn. Andres Pueblas y Da. Jacinta Carneiro de Laura [?].— Estos derechos los compró Dn. Guillermo M. Mooney para los Señores Jorge Morgan y Hros. de Eduardo Morgan, y oportunamente hará la transferencia á su favor.—"
+   ],
+   "interpretacion": "Cuarto lote fiscal: entre Sixto Ponce y Guillermo Mooney (NE), Dámaso Flores (SE), sucesión de Flores y el Estado (O) y el arroyo del Suero (NO). El 19/2/1885 el juez Octavio Amadeo (Mercedes) vende por la sucesión de Leandro Lucero y Matilde Martínez 136,168 m × 4330 m = 58 ha 96 a 50 ca. El 20/4/1892 (Giles, escribano Cornelio Games) Julio Saraví y Saturnino Argañarás [?] venden a Guillermo Mooney los derechos sobre los bienes de Vicente Marfil y de los Carneiro y Pueblas; Mooney compra para los Morgan «y oportunamente hará la transferencia»."
+  },
+  {
+   "titulo": "Folio 4 vuelto · convenio con Benito Vásquez (1882): la transacción",
+   "img": "img/f/168/18.jpg",
+   "fuente": "IMG_3638.JPG (mitad izquierda)",
+   "nota": "Es el desenlace del conflicto de la ficha 110 (Vásquez, Cascallar 1877-78) y de la protesta de Vásquez en la 112. La posesión de treinta años sirve de título de cambio: se permuta lo que se posee, no lo que se tiene escriturado.",
+   "lineas": [
+    "Convenio celebrado entre Benito Vasquez y los Señores Jorge y Eduardo Morgan. Legajo 4 N.º 15 del Indice de Bondon [?], Archivo General de La Plata.—",
+    "En 20 de Julio de 1882, se presentaron al Juez de 1ª. Instancia Dr. Heredia en los autos seguidos por Benito Vasquez sobre mensura los Señores Jorge Morgan, por sí y en representacion de Dn. Eduardo Morgan: y Dn. Matias Torres en representacion de Benito Vasquez, celebrando el siguiente convenio.—",
+    "Transaccion",
+    "1.º Don Jorge Morgan por sí y en representacion de su hermano Dn. Eduardo segun las facultades que le confiere el poder, se compromete á ceder en propiedad á Dn. Benito Vasquez con todos sus derechos accesorios los terrenos comprendidos en el plano, levantado por el Agrimensor Cascallares de f. 51. entre las lineas M E K F divididas por medio por las tierras que aparecen con el nombre de Manuel: Eugenio y Maria Gomez al precio de setecientos cincuenta pesos m/c la cuadra cuadrada.—",
+    "2.º A presentar los titulos que tengan ademas producir un sumario informacion de testigos sobre la propiedad y posesion treintanaria [sic: «treintanearea»] que los Señores Morgan tienen del terreno comprendido entre la linea K F y el limite del campo de Gomez tierras que constituyen una de las fracciones del campo que dichos Señores ceden á Vasquez por el precio mencionado.—",
+    "Dn. Matias Torres segun las facultades que"
+   ],
+   "interpretacion": "Extracto del expediente «Legajo 4 n.º 15» del Archivo General de La Plata. El 20/7/1882, en los autos de mensura de Benito Vásquez ante el juez Heredia, Jorge Morgan (por sí y por su hermano Eduardo) y Matías Torres (por Vásquez) transan: Morgan cede a Vásquez los terrenos entre las líneas M-E-K-F del plano de Cascallar (f. 51), partidos por la faja de Manuel, Eugenio y María Gómez, a 750 pesos m/c la cuadra cuadrada, y se obliga a producir una información de testigos sobre su «posesión treintañal» de la tierra entre K-F y el campo de Gómez."
+  },
+  {
+   "titulo": "Folio 5 · contraprestación de Vásquez; mensura de Gómez Molina (set. 1882)",
+   "img": "img/f/168/19.jpg",
+   "fuente": "IMG_3638.JPG (mitad derecha)",
+   "nota": "Permuta judicial de fajas cruzadas para rectificar un lindero en martillo: cada parte se queda con lo que queda de su lado de una sola recta. Fracción L del plano demostrativo.",
+   "lineas": [
+    "[sello: Foja 5 · Archivo]",
+    "le confiere el poder que corre tambien en estos Autos se compromete por Benito Vasquez.—",
+    "1.º A ceder en propiedad á los Señores Morgan por el mismo precio de 750 $ m/c la cuadra cuadrada las dos fracciones de tierra que quedan á la izquierda de la linea M K. prolongada en su rumbo Nor Este y Sud Oeste hasta dar con las lineas A B: y H I limites estremos de la propiedad de Vasquez.—",
+    "En Agosto 2 de 1882 despues de ratificadas las partes y previo informe del Agente Fiscal el Juez de 1ª. Instancia Dr. Heredia aprueba el convenio celebrado.—",
+    "En Agosto 7 de 1882: los Señores Morgan y Vasquez proponen para que verifique la mensura de las areas permutadas al Agrimensor Dn. Federico Gomez Molina",
+    "En Agosto 9 de 1882. El Juez de 1ª. Instancia Dr. Heredia nombra al Agrimensor propuesto",
+    "En Setiembre 22 El Agrimensor Gomez Molina practica la operacion solicitada y presenta la operacion con los planos para la aprobacion del Juez.—",
+    "En Setiembre 30 de 1882— El Juez de 1ª. Instancia Dr. Heredia aprobó la mensura practicada por el Agrimensor Gomez Molina [subrayado desde «aprobó»]"
+   ],
+   "interpretacion": "Vásquez cede a los Morgan, al mismo precio, las dos fracciones a la izquierda de la línea M-K prolongada hasta A-B y H-I, límites extremos de su propiedad. El juez Heredia aprueba el convenio (2/8/1882), nombra a Federico Gómez Molina (9/8) y aprueba su mensura de las áreas permutadas (30/9/1882)."
+  },
+  {
+   "titulo": "Folio 5 vuelto · croquis de la mensura de F. Gómez Molina (1882)",
+   "img": "img/f/168/20.jpg",
+   "fuente": "IMG_3639.JPG (mitad izquierda)",
+   "nota": "Verificado: 1165 × 435,5 = 50,74 ha (el croquis dice 50,6257); 2100 × 1295 = 271,95 ha, de las que 243,85 son las dos partes permutadas (el resto, ≈ 28 ha, es la faja de los Gómez, de ≈ 134 m de ancho). Las cifras a lápiz «700» y «650» son los frentes en varas de las fracciones Torres.",
+   "lineas": [
+    "[croquis a tinta y aguada, con el título en vertical:] Croquis de la mensura de F. Gomez Molina",
+    "[flecha de norte; a lápiz: «NE», «SO»]",
+    "[rótulos:] Morgan — Benito Vasquez — Arroyo de la Noria — Morgan — Manuela [sic], Eugenio y Maria Gomez — Benito Vasquez — José M. Saravi",
+    "[faja azul B-A′-M-C:] 193 [arriba] — 191° 45 [?] — 1074 — 1088 — Sup. = [en blanco] — 159 [abajo]",
+    "[rectángulos M-E-F-K:] 1 terreno permutado por Morgan á favor de Vasquez — 2 terreno permutado por Morgan á favor de Vasquez — Sup = 1. 2 = 243 h: 85 a 00 c — 2100 [lado M-E] — 2100 [lado K-F] — 1295 [lado E-F] — A′B′ = 1287,9 [?]",
+    "[rectángulo azul J-K-B′-I:] terreno permutado por Vasquez á favor de Morgan Sup = 50 h: 62 a. 57 c — 1165 — 1160 — 433 — 438 — 90.25 — 90.21 [?]",
+    "[a lápiz, sobre la línea M-K:] 700 [?] — 650"
+   ],
+   "interpretacion": "Croquis copiado por Dodds: el ARROYO DE LA NORIA separa el campo de Morgan (O) del de Benito Vásquez (E). En verde, los dos rectángulos M-E-F-K (2100 × 1295 m) «permutados por Morgan a favor de Vásquez», 243 ha 85 a, separados por la faja de Manuela [sic], Eugenio y María Gómez; en azul, la faja B-A′-M-C (193 y 159 m de ancho × 1074-1088 m, superficie en blanco) y el rectángulo J-K-B′-I (1165 × 433-438 m, 50 ha 62 a 57 ca) «permutado por Vásquez a favor de Morgan». Al S, José M. Saraví."
+  },
+  {
+   "titulo": "Folio 6 · Mensura: arranque (8 de agosto) y lados A-B-C-D-E",
+   "img": "img/f/168/21.jpg",
+   "fuente": "IMG_3639.JPG (mitad derecha)",
+   "nota": "Los mojones de la permuta de 1882 se reconocen y se adoptan sin discusión. D-E = 1165 m es el lado J-K del croquis de Gómez Molina.",
+   "lineas": [
+    "[sello: Foja 6 · Archivo]",
+    "Mensura.",
+    "Comisionado por el Señor Juez de 1ª. Instancia Dr. Gamboa para medir y dividir el terreno de la Testamentaria de Catalina Farrell de Morgan Dn. Jorge Morgan y Hros. de Eduardo Morgan previa publicacion de edictos y citacion á los linderos: Dí principio á la mensura el dia 8 de Agosto del corriente año.—",
+    "Me situé en un mojon de palo A. angulo Norte del terreno que media, y con rumbo Sud cuarenta y siete grados y nueve minutos Este medí cinco mil setecientos setenta y seis metros; hasta un mojon de palo B. esquinero Sud del terreno de Mooney y Oeste de Ponce: Desde B. medí al Sud cuarenta y ocho grados y cincuenta y cuatro minutos Este mil seis cientos treinta y un metros, hasta un mojon de palo C. puesto por el Agrimensor Gomez Molina en la mensura que practicó en el año 1882: de los terrenos permutados con Vasquez [subrayado]. como esquinero Este de Morgan y Norte de Vasquez.—",
+    "Desde C. y siguiendo la linea establecida por Gomez Molina medí al Sud cuarenta y dos grados y cincuenta y un minutos Oeste dos mil ocho cientos treinta y cinco metros hasta un mojon de palo D puesto por Molina como esquinero Oeste del terreno de Vasquez.—",
+    "Desde D: medí al Norte cuarenta y siete grados y veinte y nueve minutos Oeste. mil ciento sesenta y cinco metros hasta un mojon de palo E: esquinero Norte de José Pichetto:",
+    "Desde E medí al Sud cuarenta y un grados"
+   ],
+   "interpretacion": "Comisionado por el juez de 1.ª instancia Dr. Gamboa para medir y dividir el terreno de la testamentaría de Catalina Farrell de Morgan, Jorge Morgan y herederos de Eduardo Morgan. Edictos y citación; empieza el 8 de agosto de 1894. A-B S 47° 09′ E 5776 m (B: esquinero S de Mooney y O de Ponce); B-C S 48° 54′ E 1631 m (C: mojón de Gómez Molina, 1882); C-D S 42° 51′ O 2835 m («siguiendo la línea establecida por Gómez Molina»); D-E N 47° 29′ O 1165 m (E: esquinero N de José Pichetto)."
+  },
+  {
+   "titulo": "Folio 6 vuelto · lados E-F-H-I-J-M-A; la lonja de Jorge Morgan",
+   "img": "img/f/168/22.jpg",
+   "fuente": "IMG_3641.JPG (mitad izquierda)",
+   "nota": "Verificado en python: el decágono cierra a 2,2 m sobre 23,1 km de perímetro. El quiebre J-M / M-A (54° 24′ y 58° 07′) es la vieja línea de las suertes de Areco.",
+   "lineas": [
+    "y cuarenta y tres minutos Oeste, ocho cientos sesenta y ocho metros hasta un mojon de palo F esquinero Sud del terreno que media.—",
+    "Desde F medí al Norte cuarenta y siete grados y cincuenta minutos Oeste, dos mil setecientos setenta y cinco metros hasta un mojon de palo H en esta linea á los mil sesenta y un metros llegué al mojon divisorio entre Ferreto y Silva y á los 2557 m dos mil quinientos cincuenta y siete metros llegué al mojon G. esquinero Este de la otra fraccion del campo de los Morgans.",
+    "Desde H medí al Norte cuarenta y dos grados, y cincuenta y cuatro minutos Este: quinientos sesenta y cuatro metros hasta un mojon de fierro I esquinero Este de Martinez:",
+    "Desde I medí al Norte cuarenta y siete grados y treinta y cuatro minutos Oeste, cuatro mil dos cientos veinte y seis metros hasta un mojon de palo J. esquinero Este del terreno que media y Norte de Marini:",
+    "Desde J. medí al Norte cincuenta y cuatro grados, veinte y cuatro minutos Este mil setecientos noventa y ocho metros hasta un mojon de piedra M esquinero Este de M. Casco y Sud de Zerboni.—",
+    "Desde M medí al Norte cincuenta y ocho grados y siete minutos Este medí mil cuatro cientos cuarenta y siete metros hasta el mojon A.—",
+    "Dentro de esta fraccion [subrayado] medida hay una pequeña lonja de tierra, comprada particularmente por Dn. Jorge Morgan á Asiria Galeano y Raymunda Gomez y que me han manifestado los interesados no debe"
+   ],
+   "interpretacion": "E-F S 41° 43′ O 868 m; F-H N 47° 50′ O 2775 m (a 1061 m el divisorio Ferreto/Silva; a 2557 m el mojón G, esquinero E de la otra fracción); H-I N 42° 54′ E 564 m (I: mojón de FIERRO, esquinero E de Martínez); I-J N 47° 34′ O 4226 m (J: esquinero N de Marini); J-M N 54° 24′ E 1798 m (M: mojón de PIEDRA, esquinero E de M. Casco y S de Zerboni); M-A N 58° 07′ E 1447 m. Dentro hay una «pequeña lonja» comprada particularmente por Jorge Morgan a Asiria Galeano y Raymunda Gómez, que no debe incluirse."
+  },
+  {
+   "titulo": "Folio 7 · medición de la lonja a-b-c-d; superficie de la 1.ª fracción",
+   "img": "img/f/168/23.jpg",
+   "fuente": "IMG_3641.JPG (mitad derecha)",
+   "nota": "Verificado: 1694 + 130 + 1011 = 2835 m; lonja 130 × 1922 = 24,99 ha; 2558,6304 − 24,9860 = 2533,6444 ha exactos. El polígono con los rumbos y distancias del texto encierra 2563,35 ha: 4,72 ha más (0,18 %) que la cifra de Dodds. La lonja es la faja de los Gómez de la permuta de 1882, prolongada 1,9 km.",
+   "lineas": [
+    "[sello: Foja 7 · Archivo]",
+    "ser incluida en la presente mensura: y para medir este terreno y apreciar su superficie me situé en el mojon C. y medí sobre la linea C D al Sud cuarenta y dos grados y cincuenta y un minutos Oeste mil seis cientos noventa y cuatro metros [subrayado] hasta un mojon de palo d:— Desde d medí al Norte cuarenta y siete grados y cuarenta y cinco minutos Oeste mil novecientos veinte y tres metros [subrayado] hasta un mojon c: desde c. medí al Sud cuarenta y dos grados y quince minutos Oeste ciento treinta metros hasta un mojon b. y desde b y por medio á una paralela al costado dc medí al Sud cuarenta y siete grados y cuarenta y cinco minutos Este medí mil novecientos veinte y un metros hasta intersectar la linea C D en a: y distante mil once metros de D.— Comprendiendo este terreno una superficie de 24 h: 98 a. 60 c. veinte y cuatro hectareas. noventa y ocho areas y sesenta centiareas.—",
+    "Superficie",
+    "La superficie comprendida dentro de los mojones A B C D E F H I J M es de 2558 h: 63 a. 04 c dos mil quinientos cincuenta y ocho hectareas. sesenta y tres areas y cuatro centiareas: á la cual hay que rebajar la superficie comprendida dentro de las letras a b c d [subrayado] que es de 24 h: 98 a. 60 c. veinte y cuatro hectareas, noventa y ocho areas. y sesenta centiareas: lo que deja una superficie liquida de 2533 h: 64 a. 44 c.— dos mil quinientos treinta y tres hectareas, sesenta y cuatro areas y cuarenta y cuatro centiareas.—"
+   ],
+   "interpretacion": "Desde C, sobre C-D, 1694 m hasta d; d-c N 47° 45′ O 1923 m; c-b S 42° 15′ O 130 m; b-a S 47° 45′ E 1921 m, paralela a d-c, hasta cortar C-D en a, a 1011 m de D. Superficie de la lonja 24 ha 98 a 60 ca. Superficie entre mojones 2558 ha 63 a 04 ca; rebajada la lonja, 2533 ha 64 a 44 ca."
+  },
+  {
+   "titulo": "Folio 7 vuelto · linderos; mensura de la 2.ª fracción: G-H-X-L-K-P",
+   "img": "img/f/168/24.jpg",
+   "fuente": "IMG_3642.JPG (mitad izquierda)",
+   "nota": "Las dos fracciones sólo se tocan en el tramo G-H (218 m): entre ellas se meten las fajas de Avelino Martínez y Sebastián Marini (X-I = 427,5 m de ancho).",
+   "lineas": [
+    "Linderos",
+    "Los linderos son al Nor Este Hros. de Mooney y Cayetano Ponce: al Sud Este: Hros. de Benito Vasquez y José Pichetto.— al Sud Oeste Manuel Ferreto, Clemencia F. de Silva. Avelino Martinez Sebastian Marini y al Nor Oeste Juan Zerboni y Maximiliano Casco.—",
+    "Mensura de la 2ª. fraccion.—",
+    "En seguida pasé á medir la otra fraccion de campo casi contiguo: y me situé en el mojon G. ya determinado y medí con rumbo Norte cuarenta y siete grados y cincuenta minutos Oeste doscientos diez y ocho metros hasta H: Desde H medí por la linea H I. al Norte cuarenta y dos grados y cincuenta y cuatro minutos Este, ciento treinta y seis metros con cincuenta centimetros hasta un mojon de palo X [corregido] esquinero Sud de Martinez.—",
+    "Desde X medí al Norte cuarenta y siete grados y treinta y cuatro minutos Oeste, cuatro mil tres cientos trece metros hasta un mojon de palo L. esquinero Norte del terreno que media.—",
+    "Desde L medí al Sud cincuenta y cuatro grados y veinte y cuatro minutos Oeste ciento cuarenta metros, veinte centimetros hasta un mojon de palo K:— Desde K. medí al Sud cuarenta y tres grados y diez y seis minutos Oeste seis mil diez y ocho metros hasta un mojon de palo P esquinero Oeste del terreno que media"
+   ],
+   "interpretacion": "Linderos de la 1.ª: herederos de Mooney y Cayetano Ponce (NE); herederos de Benito Vásquez y José Pichetto (SE); Manuel Ferreto, Clemencia F. de Silva, Avelino Martínez y Sebastián Marini (SO); Juan Zerboni y Maximiliano Casco (NO). La otra fracción es «casi contigua»: G-H N 47° 50′ O 218 m; H-X N 42° 54′ E 136,50 m; X-L N 47° 34′ O 4313 m; L-K S 54° 24′ O 140,20 m; K-P S 43° 16′ O 6018 m."
+  },
+  {
+   "titulo": "Folio 8 · K-P con sus cinco divisorios; P-Q, Q-R, R-S, S-G",
+   "img": "img/f/168/25.jpg",
+   "fuente": "IMG_3642.JPG (mitad derecha)",
+   "nota": "Verificado en python: el polígono de nueve lados cierra a 8,2 m sobre 23,9 km y encierra 3054,24 ha (texto: 3053,59). El costado NO es el fondo de seis fajas de los Casco (anchos 1460, 1085, 1013, 1324 y 1136 m).",
+   "lineas": [
+    "[sello: Foja 8 · Archivo]",
+    "En esta linea á los mil cuatro cientos sesenta metros llegué á un mojon de palo divisorio entre Prosperina y Paulina Casco: á los dos mil ciento veinte y cinco metros, llegué á un mojon costanero de fierro:— á los dos mil quinientos cuarenta y cinco metros llegué á otro mojon de palo divisorio entre Paulina y Tiburcio Casco: á los 3558 m tres mil quinientos cincuenta y ocho metros llegué al mojon divisorio entre Tiburcio Casco: y Ramirez: y á los cuatro mil ochocientos ochenta y dos metros llegué al mojon de palo divisorio entre Ramirez y Irene M. Casco:",
+    "Desde P medí al Sud cuarenta y cinco grados y treinta y nueve minutos Este cinco mil setecientos cincuenta y nueve metros hasta un mojon de palo Q esquinero Sud del terreno que media: En esta linea á los dos mil seis cientos doce metros llegué al alambrado divisorio entre Kenny y Mesquita",
+    "Desde Q medí al Norte cuarenta y tres grados y diez y nueve minutos Este, mil seis cientos nueve metros, hasta un mojon de palo R.",
+    "Desde R. medí al Norte cuarenta y ocho grados y nueve minutos Oeste, mil ochenta y cuatro metros hasta un mojon de palo S. esquinero Oeste de Welsh: Desde S. medí al Norte cuarenta y un grados y cuarenta y ocho minutos Este cuatro mil seis cientos seis metros hasta el mojon G ya determinado.— En esta linea á los cuatro mil cuatro cientos noventa y un metros llegué á un mojon de palo divisorio de Casas y Silva—"
+   ],
+   "interpretacion": "Sobre K-P: a 1460 m el divisorio Prosperina/Paulina Casco; a 2125 m un mojón costanero de FIERRO; a 2545 m Paulina/Tiburcio Casco; a 3558 m Tiburcio Casco/Ramírez; a 4882 m Ramírez/Irene M. Casco. P-Q S 45° 39′ E 5759 m (a 2612 m el ALAMBRADO divisorio entre Kenny y Mesquita); Q-R N 43° 19′ E 1609 m; R-S N 48° 09′ O 1084 m (S: esquinero O de Welsh); S-G N 41° 48′ E 4606 m (a 4491 m el divisorio de Casas y Silva)."
+  },
+  {
+   "titulo": "Folio 8 vuelto · superficie y linderos de la 2.ª fracción; la División",
+   "img": "img/f/168/26.jpg",
+   "fuente": "IMG_3643.JPG (mitad izquierda)",
+   "nota": "Verificado: 3053,5874 − 12,6014 = 3040,9860 ha = 2982,0210 (Coquet 1866) + 58,9650 (Lucero 1885): el «título» de la 2.ª fracción es exactamente la suma de esas dos piezas. El exceso (0,4 %) no se denuncia como sobrante fiscal ni el D. I. lo objeta. La división la encargan «los interesados», no el juez.",
+   "lineas": [
+    "Superficie—",
+    "La Superficie. comprendida dentro de los mojones G H X L K P Q R S. es de 3053 h: 58 a. 74 c. tres mil cincuenta y tres hectareas, cincuenta y ocho areas y setenta y cuatro centiareas que comparada con el area del titulo da un pequeño exceso de 12 h. 60 a 14 c. doce hectareas. sesenta areas y catorce centiareas.—",
+    "Linderos",
+    "Los linderos son al Nor Este. Sebastian Marini y Avelino Martinez: al Sud Este: Clemencia F. de Silva: Julio Casas: Maria M. de Welsh y Hros. de Mesquita: al Sud Oeste; Hros. de Mesquita y Pedro Kenny: y al Nor Oeste Maximiliano Casco: Prosperina S. de Casco: Paulina U. de Casco Tiburcio Casco: Nicacio Z. Ramirez y Irene M. Casco.—",
+    "Division",
+    "Perteneciendo hoy en su totalidad [subrayado] este campo á Dn. Jorge Morgan y Eduardo Morgan (hoy sus herederos) unicos hijos de Da. Catalina Farrell de Morgan, me comisionaron los interesados para que lo dividiera en dos fracciones de igual superficie, adjudicandole la parte á Dn. Jorge. donde tiene poblada su Estancia y á los Hros. de Eduardo. la parte, donde está su Estancia.—",
+    "Para dividir la primera parte del campo me situé en el mojon A y medí"
+   ],
+   "interpretacion": "Superficie 3053 ha 58 a 74 ca, con «un pequeño exceso» de 12 ha 60 a 14 ca sobre el título. Linderos: Marini y Avelino Martínez (NE); Clemencia F. de Silva, Julio Casas, María M. de Welsh y herederos de Mesquita (SE); herederos de Mesquita y Pedro Kenny (SO); Maximiliano Casco, Prosperina S. de Casco, Paulina U. de Casco, Tiburcio Casco, Nicacio Z. Ramírez e Irene M. Casco (NO). División: el campo pertenece «en su totalidad» a Jorge Morgan y a los herederos de Eduardo, únicos hijos de Catalina Farrell; se divide en dos partes iguales, dando a cada uno la parte «donde tiene poblada su Estancia»."
+  },
+  {
+   "titulo": "Folio 9 · división de la 1.ª fracción: línea O-N",
+   "img": "img/f/168/27.jpg",
+   "fuente": "IMG_3643.JPG (mitad derecha)",
+   "nota": "Verificado: 3636 + 2140 = 5776 m; O-N calculado 3127,8 m y N-I 151,9 m (coinciden); 2533,6444 / 2 = 1266,8222 ha. Con las medidas del texto el lote de los herederos encierra 1267,52 ha y el de Jorge 1270,83 ha: todo el exceso del contorno (4,7 ha) queda en el lote de Jorge.",
+   "lineas": [
+    "[sello: Foja 9 · Archivo]",
+    "A B al Sud cuarenta y siete grados y nueve minutos Este tres mil seis cientos treinta y seis metros y coloqué un mojon de palo O. como esquinero Norte del lote de Dn. Jorge y Este del lote de los Hros. de Eduardo Morgan: este mojon dista dos mil ciento cuarenta metros del mojon B.—",
+    "En O. cuadré y medí al Sud cuarenta y dos grados y cincuenta y un minutos Oeste tres mil ciento veinte y siete metros, hasta intersectar la prolongacion de la linea I J: y coloqué un mojon de palo N. como esquinero Sud del lote adjudicado á los Hros. de Eduardo Morgan: distante este mojon ciento cincuenta y un metros del mojon I: en esta linea á los mil quinientos sesenta y tres metros coloqué un mojon costanero.—",
+    "El lote adjudicado á los Hros. de Eduardo Morgan y comprendido dentro de los mojones A O. N J. M tiene una Superficie de 1266 h: 82 a 22 c. [subrayado] mil doscientas sesenta y seis hectareas ochenta y dos areas y veinte y dos centiareas, y linda al Nor Este con los Hros. de Mooney: al Sud Este: el lote adjudicado á Jorge Morgan al Sud Oeste parte con Jorge Morgan y Avelino Martinez y S. Marini y al Nor Oeste con Juan Zerboni y Maximiliano Casco.—",
+    "El lote adjudicado á Dn. Jorge Morgan y comprendido dentro de las letras O. B. C d c b a D E F H I N: tiene una superficie de 1266 h: 82 a: 22 c. [subrayado] mil dos cientas sesenta y seis hectareas. ochenta y dos areas, y veinte y dos centiareas: y linda al Nor Este con los Hros. de Mooney y Cayetano Ponce: al Sud Este Hros. de Benito Vasquez y José Pichetto"
+   ],
+   "interpretacion": "Sobre A-B, a 3636 m de A (2140 m de B), mojón O; en O «cuadré» y medí S 42° 51′ O 3127 m hasta cortar la prolongación de I-J en N, a 151 m de I (mojón costanero a 1563 m). Lote de los herederos de Eduardo, A-O-N-J-M: 1266 ha 82 a 22 ca, entre herederos de Mooney, Jorge Morgan, A. Martínez, S. Marini, J. Zerboni y M. Casco. Lote de Jorge, O-B-C-d-c-b-a-D-E-F-H-I-N: 1266 ha 82 a 22 ca."
+  },
+  {
+   "titulo": "Folio 9 vuelto · división de la 2.ª fracción: línea T-U-V-W",
+   "img": "img/f/168/28.jpg",
+   "fuente": "IMG_3644.JPG (mitad izquierda)",
+   "nota": "Verificado: 3053,5874 / 2 = 1526,7937 ha; 2100 + 2213 = 4313 m; T-U calculado 1489,1 m. El rumbo de U-V está mal copiado: U-V prolonga S-R, cuyo rumbo es N 48° 09′ O; con «43°» resultan V-W 4719 m y lotes desiguales (1523,9 y 1530,6 ha); con 48° 09′ dan V-W 4773 m, X-W 2101 m y lotes de 1526,7 y 1527,7 ha. Debe leerse «cuarenta y ocho».",
+   "lineas": [
+    "al Sud Oeste: José Pichetto: Manuel Ferretto y Clemencia F. de Silva: y al Nor Oeste: Hros. de Eduardo Morgan y Avelino Martinez.—",
+    "Para dividir la segunda fraccion me situé en el mojon P: y medí sobre la linea P Q al Sud cuarenta y cinco grados y treinta y nueve minutos Este tres mil veinte y tres metros y coloqué un mojon de palo T como esquinero Sud del lote adjudicado á los Herederos de Eduardo Morgan y Oeste de Jorge Morgan:— Desde T medí al Norte cuarenta y un grados y cuarenta y ocho minutos Este mil cuatro cientos ochenta y nueve metros y coloqué un mojon de palo U en la prolongacion de la linea S R: Desde U medí al Norte cuarenta y tres grados y nueve minutos Oeste seis cientos veinte y cuatro metros y coloqué un mojon de palo V:",
+    "Desde V: medí al Norte cuarenta y un grados y cuarenta y ocho minutos Este cuatro mil setecientos sesenta y cinco metros hasta intersectar la linea X L: y coloqué un mojon de palo W: como esquinero Norte de Jorge Morgan y Este de los Hros. de Eduardo Morgan: distante este mojon dos mil cien metros del mojon X: y dos mil doscientos trece metros del mojon L.—",
+    "El lote adjudicado á Dn. Jorge Morgan y comprendido dentro de las letras G H X W V U T Q R S tiene una superficie de 1526 h. 79 a. 37 c. mil quinientas veinte y seis hectareas setenta y nueve areas y treinta y siete centiareas: y linda al Nor Este"
+   ],
+   "interpretacion": "Sobre P-Q, a 3023 m de P, mojón T; T-U N 41° 48′ E 1489 m (U en la prolongación de S-R); U-V «N 43° 09′ O» 624 m; V-W N 41° 48′ E 4765 m hasta cortar X-L en W, a 2100 m de X y 2213 m de L. Lote de Jorge, G-H-X-W-V-U-T-Q-R-S: 1526 ha 79 a 37 ca."
+  },
+  {
+   "titulo": "Folio 10 · linderos de los lotes; la Circular",
+   "img": "img/f/168/29.jpg",
+   "fuente": "IMG_3644.JPG (mitad derecha)",
+   "nota": "La circular es un censo de quién responde por cada campo en 1894: dueños, hijos, apoderados, un encargado irlandés y un arrendatario italiano. La inicial de Prosperina de Casco varía (S. en f. 8 vuelto, L. aquí y en el plano); la de Clemencia de Silva también (F. / E.).",
+   "lineas": [
+    "[sello: Foja 10 · Archivo]",
+    "parte con Marini: Avelino Martinez y una pequeña parte con el otro campo adjudicado á Dn. Jorge: al Sud Este con Clemencia F. de Silva Julio Casas, Maria M. de Welsh y Hros. de Mesquita: al Sud Oeste Hros. de Mesquita y al Nor Oeste Hros. de Eduardo Morgan.",
+    "El lote adjudicado á los Hros. de Eduardo Morgan comprendido dentro de los mojones L K P T U V W: tiene una superficie de 1526 h. 79 a 37 c mil quinientas veinte y seis hectareas setenta y nueve areas. y treinta y siete centiareas y linda al Nor Este con Marini al Sud [corregido] Este el lote adjudicado á Dn. Jorge Morgan: al Sud Oeste Hros. de Mesquita y Pedro Kenny: y al Nor Oeste, Irene M. Casco: Nicacio Z. Ramirez Tiburcio Casco Paulina U. de Casco: Prosperina L. de Casco y Maximiliano Casco.—",
+    "Circular",
+    "La Circular ha sido firmada, por Maximiliano Casco: Por Paulina U. de Casco, José Bielsa [?]: Tiburcio Casco: Por Irene M. Casco: Alfredo Chaves; Pedro Kenny: Manuel Ferretto: Bernardo Farrell: Por los Herederos de Marcelino Mesquita Guillermo McLaughlin.— Maria M. de Welsh Julio Casas: Clemencia E. [sic] de Silva: José Pichetto Por Avelino Martinez Adriano Martinez: p. Juan Zerboni; Juan Zerboni hijo: Como encargado del campo de los Hros. de Maria M. de Mooney Daniel Carthy: Por Prosperina L. de Casco como arrendatario Juan Pepino [?]: Nicacio Z. Ramirez Cayetano Ponce. El lindero Sebastian Marini"
+   ],
+   "interpretacion": "Lote de los herederos de Eduardo, L-K-P-T-U-V-W: 1526 ha 79 a 37 ca. Firmaron la circular Maximiliano Casco; José Bielsa [?] por Paulina U. de Casco; Tiburcio Casco; Alfredo Chaves por Irene M. Casco; Pedro Kenny; Manuel Ferretto; Bernardo Farrell; Guillermo McLaughlin por los herederos de Marcelino Mesquita; María M. de Welsh; Julio Casas; Clemencia de Silva; José Pichetto; Adriano Martínez por Avelino; Juan Zerboni hijo por su padre; Daniel Carthy, encargado del campo de los herederos de María M. de Mooney; Juan Pepino [?], arrendatario de Prosperina L. de Casco; Nicacio Z. Ramírez; Cayetano Ponce."
+  },
+  {
+   "titulo": "Folio 10 vuelto · negativas; sin acta; firma (12/9/1894); vista del D. I. (11/10/1894)",
+   "img": "img/f/168/30.jpg",
+   "fuente": "IMG_3645.JPG (mitad izquierda)",
+   "nota": "Treinta y cinco días entre el arranque y la firma para 5587 ha y 47 km de perímetro. Guadalupe Ponce de Vásquez es la hija de Fortunata Porcel de Ponce de la ficha 148; su negativa es jurídica (viuda sin representación de la sucesión), la de Marini no se explica.",
+   "lineas": [
+    "se negó firmar, lo que hago constar por testigos.— Notifiqué á la Señora Da. Guadalupe Ponce de Vasquez esposa de Dn. Benito Vasquez quien me manifestó que estando iniciada la Testamentaria de su esposo, no se consideraba autorizada para firmar la Circular lo que hago constar por testigos.—",
+    "Acta de Conformidad.—",
+    "No habiendo concurrido á la mensura ningun lindero no se ha levantado acta de conformidad.—",
+    "Todo el campo está cercado de alambre",
+    "La Plata Setiembre 12/94",
+    "Tomás Dodds",
+    "[sello: Departamento de Ingenieros de la Provincia · Entrada · 24 SET. 94]",
+    "Señor Juez:",
+    "El Departamento de Ingenieros ha examinado la mensura practicada por el agrimensor Dodds del terreno de propiedad de Jorge Morgan y Herederos de Don Eduardo Morgan, situados en el partido de Giles y encontrándola bien ejecutada la considera en estado de ser aprobada judicialmente.",
+    "Los linderos Sebastian Marini y Guadalupe Ponce de Vasquez se han negado á firmar la circular de citacion.",
+    "Octubre 11/894",
+    "[firmas:] Paz [?] — Angel Etcheverry — Julian Romero — Benjamin Sal — [rúbrica]"
+   ],
+   "interpretacion": "Sebastián Marini se negó a firmar. Guadalupe Ponce de Vásquez, esposa de Benito Vásquez, declara que, iniciada la testamentaría de su esposo, no se considera autorizada para firmar. Ningún lindero concurrió: no hay acta de conformidad. «Todo el campo está cercado de alambre.» Firma Tomás Dodds, La Plata, 12/9/1894; entrada en el Departamento de Ingenieros el 24/9/1894. El D. I. (11/10/1894) la encuentra bien ejecutada y en estado de ser aprobada."
+  },
+  {
+   "titulo": "Folio 11 · nota de 1911: posesión treintañal de la sucesión de Avelino Martínez",
+   "img": "img/f/168/31.jpg",
+   "fuente": "IMG_3645.JPG (mitad derecha)",
+   "nota": "La misma nota, con igual fecha y referencias, está en los duplicados 40 y 41 (fichas 040 y 041): el Archivo anotó en 1911 los tres duplicados cuyos planos rotulan la faja de los Martínez.",
+   "lineas": [
+    "[sello: Foja 11 · Archivo]",
+    "Plata, Abril 5/911— En la fecha se informa al Juez Dr. Diez Gomez Secretaria Villarino en el juicio sobre posesion treintenaria seguido por la sucesion de Don Avelino Martinez quien pretende prescribir la fraccion que figura á nombre del mismo en el plano de este duplicado.— Oficio n. [?] 198.430",
+    "Copiador 46 de Geodesia fs. 310",
+    "Libro de posesiones treintenarias f. 175.",
+    "Alcides Rocha"
+   ],
+   "interpretacion": "La Plata, 5/4/1911: se informa al juez Dr. Díez Gómez, secretaría Villarino, en el juicio de posesión treintañal seguido por la sucesión de Avelino Martínez, «quien pretende prescribir la fracción que figura a nombre del mismo en el plano de este duplicado». Copiador 46 de Geodesia, fs. 310; Libro de posesiones treintenarias, f. 175. Firma Alcides Rocha."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de mensura y división (Tomás Dodds, 1894)",
+   "img": "img/f/168/03.jpg",
+   "fuente": "IMG_3650.JPG (vista general; detalles IMG_3649, 3651 y 3652)",
+   "orientacion": "flecha de N en el ángulo superior derecho, apuntando arriba a la derecha (NE arriba a la derecha); los costados S 47° E quedan verticales",
+   "interpretacion": "Plano en tela, firmado «Tomás Dodds», con escala gráfica en metros y sello «Tomás Dodds Agrimensor, Piedad 641 [?]». Las dos fracciones se tocan sólo en el tramo G-H; entre ellas, las fajas de Sebastián Marini y Avelino Martínez. Cuatro lotes rotulados en letra de imprenta: «Hdos. de Eduardo Morgan S. 1526 h 79 a 37 c» y «Jorge Morgan S. 1526 h 79 a 37 c» en la fracción O; «Hdos. de Eduardo Morgan S. 1266 h 82 a 22 c» y «Jorge Morgan S. 1266 h 82 a 22 c» en la fracción E. El ARROYO DEL SUERO nace en una laguna junto al mojón U, recibe otra sobre el lado P-Q y cruza en diagonal el lote de Jorge hasta G y luego toda la fracción E hasta salir por O-B. Cascos de estancia y puestos dibujados como cuadros con arboleda; ángulos interiores anotados en cada vértice. Linderos rotulados en todo el contorno. Anotaciones a lápiz «6917/900» en tres lotes (expediente posterior) y cruces azules de cotejo sobre cada lindero.",
+   "referencias": [
+    [
+     "A",
+     "Ángulo N de la 1.ª fracción; mojón de palo"
+    ],
+    [
+     "B",
+     "Esquinero S de Mooney y O de Ponce"
+    ],
+    [
+     "C, D",
+     "Mojones de Gómez Molina (1882), contra Vásquez"
+    ],
+    [
+     "E",
+     "Esquinero N de José Pichetto"
+    ],
+    [
+     "G-H",
+     "Único contacto entre las dos fracciones (218 m)"
+    ],
+    [
+     "I",
+     "Mojón de fierro, esquinero E de Martínez"
+    ],
+    [
+     "M",
+     "Mojón de piedra, esquinero de M. Casco y Zerboni"
+    ],
+    [
+     "O-N",
+     "Divisoria de la 1.ª fracción (3127 m)"
+    ],
+    [
+     "T-U-V-W",
+     "Divisoria en martillo de la 2.ª fracción"
+    ],
+    [
+     "K-M",
+     "N 54° 24′ E, 2374 m (K-L 140,20; L-J 435,80; J-M 1798)"
+    ],
+    [
+     "a-b-c-d",
+     "Lonja de Jorge Morgan (Galeano–Gómez), excluida"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: fracción O (2.ª) y mitad N de la 1.ª",
+   "img": "img/f/168/04.jpg",
+   "fuente": "IMG_3652.JPG",
+   "orientacion": "toma de detalle del plano",
+   "interpretacion": "Se leen «S 43° 16′ O · K P · 6018» con los seis linderos del fondo NO (Irene M. Casco, Nicacio Z. Ramírez, Tiburcio Casco, Paulina U. de Casco, Prosperina L. de Casco, Maximiliano Casco), «N 41° 48′ E · V W · 4765 m», «N 41° 48′ E · T U · 1489», «N 41° 48′ E · S G · 4606 m», «N 43° 19′ E · Q R · 1609», «S 45° 39′ E · P Q · 5759», «P T 3023», «T Q 2737 [?]». Al SE, María M. de Welsh, Julio Casas, Clemencia F. de Silva y Manuel Ferreto; al SO, Pedro Kenny y herederos de Mesquita. En el lote O de los herederos de Eduardo se dibujan cuatro puestos; sobre S-G, tres. El arroyo sale de la laguna de U.\nP, Q\nEsquineros O y S de la 2.ª fracción\nR, S\nMartillo contra María M. de Welsh\nU\nLaguna, naciente del arroyo del Suero\nPuestos\nCuadros con punto, repartidos por los cuatro lotes",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: ángulo N, estancia «La Margarita» y fajas Marini–Martínez",
+   "img": "img/f/168/05.jpg",
+   "fuente": "IMG_3649.JPG",
+   "orientacion": "toma de detalle del plano",
+   "interpretacion": "«N 54° 24′ E · K M = 2374», «J M = 1798», «N 58° 07′ E · M A = 1447», «A O = 3636», «J N = 4377 [?]», «L W = 2213», «W X = 2100», «V W 4765 m». Entre W-X y J-N, las fajas rotuladas «Sebastián Marini» y «Avelino Martínez». Dentro del lote de los herederos de Eduardo Morgan, junto al lado J-M, un casco con arboleda rotulado «Estancia La Margarita». Linderos: Maximiliano Casco, Juan Zerboni, herederos de Mooney. A lápiz, cuentas y «6917/900».\nEstancia La Margarita\nCasco de los herederos de Eduardo Morgan\nSebastián Marini\nFaja entre las dos fracciones (parte NO)\nAvelino Martínez\nFaja entre las dos fracciones (parte SE); posesión treintañal en 1911\nK-L-J-M\nFondo sobre la línea N 54° 24′ E",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: lote de Jorge Morgan en la 1.ª fracción; arroyo de la Noria y camino",
+   "img": "img/f/168/06.jpg",
+   "fuente": "IMG_3651.JPG",
+   "orientacion": "toma de detalle del plano",
+   "interpretacion": "«Estancia» de Jorge Morgan (cuadro rojo con arboleda) junto al arroyo del Suero; «O B = 2140»; «S 48° 54′ E · B C = 1631»; «S 42° 51′ [?] O · C D = 2835 m»; «N 47° 29′ O · D E = 1165»; «S 41° 43′ O · E F = 868»; «N 47° 50′ O · F H = 2775». El ARROYO DE LA NORIA cruza el ángulo S de B-C a D, con un afluente junto a D. En punteado, el «Camino de San Antonio de Areco a Giles». La lonja a-b-c-d lleva la leyenda «Jorge Morgan por compra a Asirio Galeano y Raymunda Gómez», 130 m de ancho, «S 47° 45′ E · 1921» y «N 47° 45′ O · 1923». Otras líneas de puntos (e-f, g-h) marcan los límites de los títulos antiguos. Puesto en el ángulo F. Linderos: Cayetano Ponce, herederos de Benito Vásquez, José Pichetto, Manuel Ferreto, Clemencia F. de Silva.",
+   "referencias": [
+    [
+     "Estancia",
+     "Casco de Jorge Morgan, sobre el arroyo del Suero"
+    ],
+    [
+     "Arroyo de la Noria",
+     "Cruza el ángulo S, de B-C a D"
+    ],
+    [
+     "Camino",
+     "De San Antonio de Areco a Giles, en punteado"
+    ],
+    [
+     "a-b-c-d",
+     "Lonja Galeano–Gómez (24,99 ha), excluida de la división"
+    ],
+    [
+     "e-f, g-h",
+     "Límites de títulos antiguos, en punteado"
+    ]
+   ]
+  },
+  {
+   "titulo": "Plano demostrativo de la ubicación de los títulos de Morgan (fs. 12-13)",
+   "img": "img/f/168/07.jpg",
+   "fuente": "IMG_3646.JPG (vista general; detalles IMG_3647 y 3648)",
+   "orientacion": "flecha de N a la izquierda, apuntando arriba a la izquierda; NO a la izquierda, SE a la derecha (arroyo de Giles al borde derecho)",
+   "interpretacion": "Plano en tela, en colores, foliado 12 y 13, firmado «Tomás Dodds». Es un plano de títulos: cada compra tiene una letra y un color, y una tabla al pie da año, vendedor y medidas. Arriba, de NO a SE, las fajas entre Cecilio Falcón y el ARROYO DE GILES, cortadas por el ARROYO DEL SUERO y el ARROYO DE LA NORIA: G (sobrantes fiscales, rosa), A (Macome), F (Torres), I (derechos de Marfil), L (permuta con Vásquez, rayado rojo), C (Flores, «2000 vs. según ubicación de Kuhr»), D (Cabrera), H (sucesión Lucero), B (Sosa), K (Galeano–Gómez). Abajo, el gran rectángulo E (ex Guerrico) entre los herederos de Casco, P. Kenny, F. Duberti y los herederos de Galeano. Linderos: Guillermo Mooney, Loreto Ponce, Benito Vásquez (tres veces), Susana Casco de Sosa, herederos de Martínez. Varias letras de la tabla llevan cruces a lápiz (A, B, F, I, K, L).",
+   "referencias": [
+    [
+     "A",
+     "1850 y 1853: compra a «Masomé» [Macome], 1300 × 5920 v"
+    ],
+    [
+     "B",
+     "1853: compra a Eustaquio Sosa y Susana Casco, 1000 × 3000 v"
+    ],
+    [
+     "C",
+     "1854: compra a Dámaso Flores, 2000 × 4850/4295 v y 500 × 3000 v"
+    ],
+    [
+     "D",
+     "1855: compra a Mariano Cabrera y Manuela Cané, 350 × 3000 v"
+    ],
+    [
+     "E",
+     "1861 y 1866: compra a Plácido Guerrico y al Estado, 2982 ha 02 a 10 ca"
+    ],
+    [
+     "F",
+     "1878: compra a N. Torres, tres fracciones (1300 v entre el Suero y la Noria; 700 × 4500; 650 × 4500 v)"
+    ],
+    [
+     "G",
+     "1884: compra al Gobierno de la Provincia, en cuatro fracciones"
+    ],
+    [
+     "H",
+     "1885: compra a los herederos de Leandro Lucero y Matilde Martínez, 136,168 × 4330 m = 58 ha 96 a 50 ca"
+    ],
+    [
+     "I",
+     "1894: compra a Guillermo Mooney de los derechos de Marfil"
+    ],
+    [
+     "K",
+     "1883: compra a Asirio Galeano y Reymunda Gómez"
+    ],
+    [
+     "L",
+     "1882: terreno permutado con Benito Vásquez"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle del plano demostrativo: fajas entre Falcón y el arroyo de Giles",
+   "img": "img/f/168/08.jpg",
+   "fuente": "IMG_3648.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "Se distinguen las cotas en varas (2000, 1300, 500, 1000, 350, 700, 650, 160 [?]) y la leyenda vertical «2000 vs. según ubicación de Kuhr». Las fracciones F aparecen rayadas donde fueron cedidas a Vásquez en la permuta; las L, en rojo, son lo recibido. El arroyo de la Noria corta las fracciones F, I, K y L; el del Suero separa A y C de F y B.\nArroyo del Suero\nFrente de los títulos Macome y Torres\nArroyo de la Noria\nFondo de la 1.ª fracción Torres\nArroyo de Giles\nBorde SE, fondo de Vásquez y de Susana Casco de Sosa",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle del plano demostrativo: tabla de títulos",
+   "img": "img/f/168/09.jpg",
+   "fuente": "IMG_3647.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "Tabla de once títulos (A-L, sin J) con fecha, vendedor y medidas, transcripta en las referencias del plano general. El título I está fechado «1894» en la tabla y 20/4/1892 en el extracto (f. 4): la tabla da probablemente la fecha de la transferencia de Mooney a los Morgan, prometida en 1892. El K (1883) no figura en el extracto de títulos porque Jorge Morgan lo compró «particularmente» y queda fuera de la división.\nI 1894\nTransferencia de Mooney (cesión de 1892)\nK 1883\nCompra particular de Jorge Morgan, excluida",
+   "referencias": []
+  },
+  {
+   "titulo": "Croquis de la mensura de F. Gómez Molina (1882), f. 5 vuelto",
+   "img": "img/f/168/10.jpg",
+   "fuente": "IMG_3640.JPG",
+   "orientacion": "flecha de N arriba a la izquierda; a lápiz «NE» y «SO»; el título se lee girando la hoja",
+   "interpretacion": "Copia de Dodds del plano de la permuta Morgan–Vásquez. El arroyo de la Noria baja de arriba abajo; a su izquierda Morgan, a su derecha Vásquez. La recta B-C-M-K-B′ es el nuevo lindero único: a su derecha, los rectángulos 1 y 2 (M-E-F-K, 2100 × 1295 m) pasan de Morgan a Vásquez; a su izquierda, la faja B-A′-M-C y el rectángulo J-K-B′-I pasan de Vásquez a Morgan. La faja de Manuela [sic], Eugenio y María Gómez atraviesa todo de lado a lado y no se permuta.",
+   "referencias": [
+    [
+     "1 y 2",
+     "Terreno permutado por Morgan a favor de Vásquez, 243 ha 85 a"
+    ],
+    [
+     "J-K-B′-I",
+     "Terreno permutado por Vásquez a favor de Morgan, 50 ha 62 a 57 ca"
+    ],
+    [
+     "B-A′-M-C",
+     "Faja azul de 193-159 m × 1074-1088 m, sin superficie"
+    ],
+    [
+     "Faja Gómez",
+     "De Manuel(a), Eugenio y María Gómez"
+    ],
+    [
+     "José M. Saraví",
+     "Lindero al S"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Dos arroyos organizan el campo y los títulos: el del Suero, que nace en una laguna dentro de la fracción O (junto al mojón U), recibe otra sobre el lado P-Q y cruza en diagonal las dos fracciones, y el de la Noria, que corta el ángulo S. Las escrituras de 1850 y 1878 los usan como frente y como fondo («frente al arroyo del Suero por el fondo que resulta hasta el arroyo de la Noria»). En 1894 «todo el campo está cercado de alambre»: el alambrado divisorio entre Kenny y Mesquita es el único hito intermedio del lado P-Q. Dos cascos con arboleda: la «Estancia La Margarita» en el lote de los herederos de Eduardo y la «Estancia» de Jorge sobre el Suero; una docena de puestos repartidos por los lotes, varios pegados a los esquineros. El «Camino de San Antonio de Areco a Giles» atraviesa la fracción E. El fondo NO es el respaldo de seis fajas angostas de los Casco, restos de las suertes de Areco."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Edictos y circular. Dieciocho firmas, de las cuales siete por representación (hijos, apoderados, un encargado y un arrendatario). Dos negativas con distinta razón: Sebastián Marini se niega sin más (consta «por testigos»); Guadalupe Ponce de Vásquez no se considera autorizada mientras tramita la testamentaría de su esposo. Ningún lindero asiste, no hay acta. La negociación verdadera es anterior y está en el extracto: la transacción de 1882 con Benito Vásquez, que cierra el pleito de 1877-81 permutando fajas a 750 pesos la cuadra y obligando a los Morgan a probar con testigos su posesión de treinta años. La división la piden los interesados y cada rama recibe «la parte donde tiene poblada su estancia»."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos al minuto y distancias al metro (al decímetro en dos lados cortos). No se declara la variación magnética ni el instrumento. Verificado en python: la 1.ª fracción cierra a 2,2 m sobre 23,1 km y la 2.ª a 8,2 m sobre 23,9 km; las superficies calculadas con los datos del texto son 2563,35 ha (texto 2558,63; +0,18 %) y 3054,24 ha (texto 3053,59; +0,02 %). Las líneas divisorias se trazan «cuadrando» en O y por intersección con prolongaciones (N sobre I-J, U sobre S-R, W sobre X-L); las distancias calculadas coinciden al metro (O-N 3127,8; N-I 151,9; T-U 1489,1). El rumbo de U-V («N 43° 09′ O») es error de copia por N 48° 09′ O, el de S-R que prolonga. Dodds reutiliza los mojones de Gómez Molina (1882) y entrega, además del plano de mensura, un «plano demostrativo» de títulos con tabla."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Los títulos de 1850-1878 están en varas (1300 × 5920; 2000 × 4850; 5250 × 9800; 700 y 650 × 4500); desde 1861 las superficies se expresan en metros cuadrados (Eguía: 44.650.788 m²) y desde 1866 en hectáreas, áreas y centiáreas. El título de 1885 ya da el frente en metros con milímetros (136,168 m × 4330 m = 58,9607 ha; la escritura dice 58 ha 96 a 50 ca). La permuta de 1882 se paga por «cuadra cuadrada» (750 pesos m/c). El «área del título» de la 2.ª fracción es 2982,0210 + 58,9650 = 3040,9860 ha, y el exceso de 12,6014 ha (0,4 %) se llama «pequeño» y no se trata como sobrante."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Formación de una gran estancia irlandesa en 44 años: Eduardo Morgan (padre) compra entre 1850 y 1855 cuatro piezas a vecinos criollos (Macome, Flores–Casco, Sosa–Casco, Cabrera–Cané), tres de ellas ante el juez de paz de Giles; su testamentaría compra en 1861 el campo de Guerrico y en 1867 el sobrante; su viuda Catalina O’Farrell y sus hijos Eduardo y Jorge compran en remate judicial las fracciones Torres (1878), al Fisco los sobrantes (1884), a la sucesión Lucero (1885), permutan con Vásquez (1882) y adquieren por interpósita persona (Guillermo Mooney) derechos hereditarios de Marfil (1892). Muertos Catalina y Eduardo (hijo), la propiedad se parte en dos ramas con dos lotes cada una. Una lonja comprada «particularmente» por Jorge queda fuera. La faja de Avelino Martínez, enclavada entre las dos fracciones, será objeto de un juicio de posesión treintañal en 1911."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "020 (Eduardo Morgan, Kuhr 1856: los títulos B, C y D; aprobada por Font el 14/3/1857). 029 (herederos de Guerrico, Eguía 1861: título E y división Morgan 2/3 – Duberti 1/3 – Kenny). 038 (herederos de Morgan, Coquet 1866: 2982,02 ha y sobrante de 259,68 ha). 040 y 041 (Duggan, Gonnet 1866; Carmen Bustos de Martínez: sobrantes de la margen O; llevan la misma nota de 5/4/1911). 067 (Torres, Cascallar 1874: plano del D. I. con las secciones y fracciones A-H que cita la escritura de 1878). 110 (Benito Vásquez, Cascallar 1877-78: el plano «de f. 51» sobre el que se transa). 112 (Morgan, Kuhr 1881: sobrantes y escritura de 8/2/1884). 148 (Fortunata Porcel de Ponce, 1886: Cayetano y Guadalupe Ponce de Vásquez). 116 y 118 (Pichetto, Casas, Mesquita sobre el arroyo de Giles). La portadilla remite a lápiz a «40-41»."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Texto completo fs. 1-11, croquis del f. 5 vuelto y dos planos en tela; la serie de 2012 (IMG_0575-0592) repite los mismos folios y no agrega ninguno. Dudas: «Índice de Bondón [?]» del Archivo General de La Plata; juez «Noguera [?]» (1878); «Saturnino Argañarás [?]» y «Jacinta Carneiro de Laura [?]» (1892); firmantes «José Bielsa [?]» y «Juan Pepino [?]»; primera firma del D. I. («Paz [?]»); número del oficio de 1911; rumbo C-D (texto 42° 51′, en el plano parece 42° 57′). Preguntas: ¿por qué el exceso del contorno de la 1.ª fracción (4,7 ha) queda entero en el lote de Jorge?; ¿cuál es la superficie del cuarto lote fiscal de 1884 (en 112: 237,79 ha)?; ¿56,58 o 56,98 ha de sobrante de 1883?; ¿se aprobó judicialmente la división (no hay auto en el duplicado)?; identificar a los herederos de Eduardo Morgan (hijo)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Eduardo Morgan (padre)",
+   "rol": "Fundador de la estancia",
+   "texto": "Compra entre 1850 y 1855 a Macome, Flores, Sosa y Cabrera y hace medir sus campos por Kuhr en 1856. Muerto antes de junio de 1861, cuando «la testamentaría de Eduardo Morgan» compra el campo de Guerrico. Estanciero de origen irlandés (una búsqueda web devuelve una entrada genealógica «Edward Morgan & Catherine O’Farrell», no consultada en detalle).",
+   "fuentes": "Fs. 1-2; fichas 020, 029, 038."
+  },
+  {
+   "nombre": "Catalina O’Farrell (Farrell) de Morgan",
+   "rol": "Viuda; causante de la testamentaría",
+   "texto": "Compra en 1878, por mitades con sus hijos, las fracciones Torres. En 1894 su testamentaría es parte del juicio de mensura y división; Jorge y Eduardo son sus «únicos hijos».",
+   "fuentes": "Fs. 2 vuelto, 6, 8 vuelto; ficha 112."
+  },
+  {
+   "nombre": "Jorge Morgan",
+   "rol": "Propietario; adjudicatario de dos lotes",
+   "texto": "Actúa en 1882 por sí y por su hermano en la transacción con Vásquez; compra con él al Fisco (1884) y a la sucesión Lucero (1885); en 1883 compra por su cuenta la lonja de Galeano y Gómez. Recibe 1266,82 + 1526,79 ha, con su estancia sobre el arroyo del Suero.",
+   "fuentes": "Fs. 3 vuelto-10; planos."
+  },
+  {
+   "nombre": "Eduardo Morgan (hijo) y sus herederos",
+   "rol": "Condómino; adjudicatarios de dos lotes",
+   "texto": "Vivo en 1885, muerto antes de abril de 1892 (la compra de Mooney es «para Jorge Morgan y herederos de Eduardo Morgan»). Sus herederos, no nombrados, reciben 1266,82 + 1526,79 ha, con la estancia «La Margarita».",
+   "fuentes": "Fs. 4, 8 vuelto-10; plano."
+  },
+  {
+   "nombre": "Tomás Dodds",
+   "rol": "Agrimensor",
+   "texto": "Mide entre el 8 de agosto y el 12 de setiembre de 1894; firma en La Plata; sello con domicilio en Piedad 641 [?]. Ya había medido en Giles en 1880 (Martín Dowling, ficha 108).",
+   "fuentes": "Fs. 6-10 vuelto; planos; ficha 108."
+  },
+  {
+   "nombre": "Dr. Gamboa",
+   "rol": "Juez de 1.ª instancia",
+   "texto": "Comisiona la mensura y división. Probablemente Arturo H. Gamboa, juez civil de La Plata en 1890 (identificación por otra ficha, no por este texto).",
+   "fuentes": "F. 6."
+  },
+  {
+   "nombre": "Jorge Macome y Bogarín",
+   "rol": "Vendedor (1850, 1853) y su antecesor",
+   "texto": "Macome vende en dos mitades la estancia de 1300 v sobre el arroyo del Suero que compró a Bogarín el 2/6/1840.",
+   "fuentes": "F. 1; ficha 020."
+  },
+  {
+   "nombre": "Dámaso Flores y Juana Casco",
+   "rol": "Vendedores (1854) y linderos",
+   "texto": "Venden 2000 × 4850/4295 v y 500 × 3000 v ante el juez de paz de Giles. Flores y luego sus herederos siguen de linderos hasta 1884.",
+   "fuentes": "Fs. 1-1 vuelto, 3-4."
+  },
+  {
+   "nombre": "Eustaquio Sosa y Susana Casco de Sosa",
+   "rol": "Vendedores (1853); ella, lindera",
+   "texto": "Venden 1000 × 3000 v. Susana Casco de Sosa conserva el campo contiguo hasta el arroyo de Giles (457,7 ha en una lista citada en otra ficha).",
+   "fuentes": "F. 1 vuelto; plano demostrativo."
+  },
+  {
+   "nombre": "Mariano Cabrera y Manuela Cané",
+   "rol": "Vendedores (1855)",
+   "texto": "Venden 350 × 3000 v lindando con las suertes principales del río de Areco.",
+   "fuentes": "F. 1 vuelto."
+  },
+  {
+   "nombre": "Germán Kuhr (padre) y Germán A. Kuhr",
+   "rol": "Agrimensores (1856; 1881-83)",
+   "texto": "El padre mide los primeros campos de Morgan en 1856; el hijo, el sobrante de 1883 que el Fisco vende en 1884. El plano demostrativo conserva la «ubicación de Kuhr».",
+   "fuentes": "Fs. 1 vuelto, 3 vuelto; fichas 020 y 112."
+  },
+  {
+   "nombre": "Plácido Guerrico (padre e hijo), Juana Lasarra, Ramón Cané",
+   "rol": "Antecesores del campo e",
+   "texto": "Guerrico padre compra a Ramón Cané en 1838; su hijo hereda (hijuela de 1850) y vende a la testamentaría de Morgan en 1861.",
+   "fuentes": "F. 2; ficha 029."
+  },
+  {
+   "nombre": "Eguía y Juan Coquet",
+   "rol": "Agrimensores (1861; 1866)",
+   "texto": "Eguía mide y divide el campo de Guerrico (44.650.788 m²); Coquet lo remide para la compra del sobrante (2982,02 ha).",
+   "fuentes": "Fs. 2-2 vuelto; fichas 029 y 038."
+  },
+  {
+   "nombre": "Francisco Duberti y Pedro Kenny",
+   "rol": "Condómino de 1861 y su comprador; linderos",
+   "texto": "Duberti recibe un tercio del campo de Guerrico y vende a Kenny un cuarto de legua. Pedro Kenny sigue de lindero SO en 1894 y firma la circular.",
+   "fuentes": "Fs. 2, 8-10; plano demostrativo."
+  },
+  {
+   "nombre": "Natal Torres y Macario Torres",
+   "rol": "Vendedores (1878, por el juez)",
+   "texto": "Tres fracciones entre el Suero y la Noria, compradas a Vicente Marfil (1840) y a Pedro Veloz. Medidas por Cascallar en 1874.",
+   "fuentes": "Fs. 2 vuelto-3; ficha 067."
+  },
+  {
+   "nombre": "Vicente Marfil, Simona Marfil, Apolinario Galeano, Pedro Veloz",
+   "rol": "Propietarios de 1838-1840",
+   "texto": "Antecesores de las fracciones Torres. Los derechos de la sucesión de Vicente Marfil se ceden todavía en 1892.",
+   "fuentes": "Fs. 3, 4."
+  },
+  {
+   "nombre": "Guillermo Mooney; herederos de María M. de Mooney; Daniel Carthy",
+   "rol": "Lindero ne y testaferro; encargado",
+   "texto": "Mooney compra en 1892 los derechos de Marfil para los Morgan. En 1894 el campo es de los herederos de María M. (Murray, según la ficha 067) de Mooney y lo administra Daniel Carthy, que firma la circular.",
+   "fuentes": "Fs. 3, 4, 6, 10; ficha 067."
+  },
+  {
+   "nombre": "Julio Saraví, Saturnino Argañarás [?], los Carneiro y los Pueblas",
+   "rol": "Cedentes de derechos (1892)",
+   "texto": "Saraví y Argañarás [?], cesionarios de Saturnino y Andrés Pueblas y Jacinta Carneiro, venden a Mooney los derechos sobre los bienes de Vicente Marfil, Juan Saturnino y Alejandra Carneiro y Pedro Pueblas. Julio Saraví es el cesionario de la ficha 114.",
+   "fuentes": "F. 4; ficha 114."
+  },
+  {
+   "nombre": "Leandro Lucero y Matilde Martínez",
+   "rol": "Causantes de la venta de 1885",
+   "texto": "Su sucesión vende por el juez Octavio Amadeo una faja de 136,168 × 4330 m.",
+   "fuentes": "F. 4."
+  },
+  {
+   "nombre": "Benito Vásquez y Guadalupe Ponce de Vásquez",
+   "rol": "Lindero se; su viuda",
+   "texto": "Pleitea desde 1877 con los Morgan; transa en 1882 (representado por Matías Torres). Muerto antes de agosto de 1894; su esposa, hija de Fortunata Porcel de Ponce, no firma la circular por estar abierta la testamentaría.",
+   "fuentes": "Fs. 4 vuelto-5 vuelto, 10 vuelto; fichas 110, 112, 148."
+  },
+  {
+   "nombre": "Federico Gómez Molina",
+   "rol": "Agrimensor (1882)",
+   "texto": "Mide las áreas permutadas entre Morgan y Vásquez (22/9/1882, aprobada el 30/9). Sus mojones C y D son vértices de la mensura de 1894.",
+   "fuentes": "Fs. 5-6; croquis."
+  },
+  {
+   "nombre": "Manuel, Eugenio y María Gómez; Asiria (Asirio) Galeano y Raymunda Gómez",
+   "rol": "Dueños de la faja intermedia; vendedores (1883)",
+   "texto": "La faja de los Gómez divide los terrenos permutados en 1882. En 1883 Jorge Morgan compra a Galeano y Raymunda Gómez la lonja a-b-c-d (130 × 1922 m).",
+   "fuentes": "Fs. 4 vuelto, 6 vuelto-7; croquis; planos."
+  },
+  {
+   "nombre": "Cascallar (Cascallares)",
+   "rol": "Agrimensor de vásquez",
+   "texto": "Autor del plano «de f. 51» que sirve de base a la transacción (Joaquín Cascallar, fichas 067 y 110).",
+   "fuentes": "F. 4 vuelto."
+  },
+  {
+   "nombre": "Los Casco: Maximiliano, Prosperina de, Paulina U. de, Tiburcio, Irene M.; Nicacio Z. Ramírez",
+   "rol": "Linderos no",
+   "texto": "Seis fajas con fondo sobre el lado K-P. Tiburcio Casco ya lindaba en 1884-85. Por Paulina firma José Bielsa [?], por Irene Alfredo Chaves, por Prosperina su arrendatario Juan Pepino [?].",
+   "fuentes": "Fs. 8-10; plano."
+  },
+  {
+   "nombre": "Avelino Martínez, Adriano Martínez, Carmen Busto(s) de Martínez",
+   "rol": "Linderos enclavados",
+   "texto": "La faja de los Martínez queda entre las dos fracciones. Adriano firma por Avelino en 1894; la sucesión de Avelino tramita en 1911 la posesión treintañal.",
+   "fuentes": "Fs. 3 vuelto, 7 vuelto, 10, 11; fichas 040 y 041."
+  },
+  {
+   "nombre": "Sebastián Marini",
+   "rol": "Lindero",
+   "texto": "Faja contigua a la de Martínez; se niega a firmar la circular.",
+   "fuentes": "Fs. 7 vuelto, 10-10 vuelto."
+  },
+  {
+   "nombre": "José Pichetto, Manuel Ferreto (Ferretto), Clemencia F. de Silva, Julio Casas, María M. de Welsh",
+   "rol": "Linderos se",
+   "texto": "Firman todos la circular. Pichetto es propietario en la zona desde 1871.",
+   "fuentes": "Fs. 6-10; plano."
+  },
+  {
+   "nombre": "Herederos del Dr. Marcelino Mesquita; Guillermo McLaughlin",
+   "rol": "Linderos s y so; su representante",
+   "texto": "El campo de Mesquita (ex sobrante de Sotero Galeano, 1868) linda con la 2.ª fracción; un alambrado lo separa de Kenny.",
+   "fuentes": "Fs. 8-10; fichas 034 y 118."
+  },
+  {
+   "nombre": "Juan Zerboni (padre e hijo); Cayetano Ponce; Bernardo Farrell",
+   "rol": "Linderos y firmantes",
+   "texto": "Zerboni linda al NO de la 1.ª fracción (firma el hijo); Cayetano Ponce, hijo de Fortunata Porcel, al NE. Bernardo Farrell firma la circular sin que se diga por qué campo.",
+   "fuentes": "Fs. 6 vuelto-10; ficha 148."
+  },
+  {
+   "nombre": "Jueces y escribanos del extracto",
+   "rol": "Autoridades",
+   "texto": "Escribanos Aranda (1850, 1861), Saldías (1853, 1856), Núñez (1838), Artola (1878), Cornelio Games (Giles, 1892). Jueces Pablo Font (1857), Mancilla (1850), Alejo B. González (1861), Noguera [?] (1878), Heredia (1882), Octavio Amadeo (Mercedes, 1885). Gobernadores Adolfo Alsina (1867) y Dardo Rocha (1884).",
+   "fuentes": "Fs. 1-5."
+  },
+  {
+   "nombre": "Ángel Etcheverry, Julián Romero, Benjamín Sal, «Paz [?]»",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firman la vista del 11/10/1894; tres de ellos firman también las vistas de las fichas 166 y 167 (setiembre de 1894).",
+   "fuentes": "F. 10 vuelto; fichas 166 y 167."
+  },
+  {
+   "nombre": "Alcides Rocha",
+   "rol": "Funcionario de geodesia (1911)",
+   "texto": "Firma la nota del 5/4/1911 sobre el juicio de la sucesión Martínez, repetida en los duplicados 40 y 41.",
+   "fuentes": "F. 11; fichas 040 y 041."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/168/02.jpg",
+  "fuente": "IMG_3633.JPG (girada 90°)",
+  "lineas": [
+   "San Andres de Giles",
+   "N.º 168.—",
+   "Duplicado de la mensura del terreno de Dn.",
+   "Jorge Morgan y Herederos de",
+   "Eduardo Morgan",
+   "el [sic] el partido de",
+   "Giles—",
+   "Año 1894.          Agr. Dodds",
+   "[a lápiz:] 40-41",
+   "H. 239. 329."
+  ]
+ },
+ "titulo": "Jorge Morgan y her. de E. Morgan",
+ "estado": "Transcripta (21 hojas, 110 renglones), 8 láminas"
+}

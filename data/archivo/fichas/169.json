@@ -1,0 +1,536 @@
+{
+ "carpeta": "169",
+ "carpeta_nombre": "Carpeta 169",
+ "archivo": "Ficha 169 - Martín Arévalo (1894).docx",
+ "resumen": {
+  "N.º de duplicado": "169 (Partido de San Andrés de Giles)",
+  "Propietario / solicitante": "Martín Arévalo",
+  "Agrimensor": "Juan J. Aranguren",
+  "Año": "1894",
+  "Fecha de la diligencia": "5/7–set. 1894; entrada D. I. 27/9/1894; vista D. I. 22/2/1895",
+  "Ubicación": "Faja de 532 × 6983,8 m cruzada por un arroyo y el camino de Mercedes a Zárate",
+  "Orden judicial": "Juez Civil del Centro Ángel M. Ezquer [?]; partición aprobada por R. Etcheverry",
+  "Vendedor / antecesor": "Testamentaría de Francisco Arévalo (hijuela 22/7/1891)",
+  "Linderos citados": "Her. de Cipriano Lucero, Tomás Duggan, Silvano Méndez, her. de Basilio Salas",
+  "Medidas": "Campo 532 × 6983,80 m; lote A-B-C-D 532 × 1321,73 m",
+  "Rumbos": "N 31° 4′ O / N 59° 10′ E; verdaderos; variación 11° 20′ NE",
+  "Referencia de archivo": "AHG PBA, duplicado 169; D. N.º 124 (Oficina de Tierras, 1899)"
+ },
+ "metricas": {
+  "superficie_ha": "70,3160 (lote); 371,5382 (campo total)",
+  "hitos": "mojones de ñandubay (uno quebrado), mojón de fierro en C, mojones viejos, alambrados",
+  "aguas": "arroyo sin nombre que cruza el campo a ≈ 5 km del extremo SE"
+ },
+ "sintesis": "Mensura del lote de Martín Arévalo (70,32 ha), hijuela de la testamentaría de Francisco Arévalo (1891). Para ubicarlo Aranguren mide todo el campo indiviso, una faja alambrada de 532 × 6983,8 m (371,54 ha) cruzada por un arroyo y el camino de Mercedes a Zárate, y lo divide en trece lotes: tres de los Casas, Martín, el bloque de Patricio Miró y sus hijos, seis lotes de 244,85 m y el de Sixta Arévalo. El exceso de 8,35 ha se reparte a prorrata, pero el Departamento de Ingenieros (1895) exige comprarlo al Fisco y en 1899 se manda el plano del sobrante a la Oficina de Tierras. Una nota revela que el campo fueron cuatro fracciones iguales y que una venta y una permuta, conocidas sólo «verbalmente», movieron a los Casas al extremo SE.",
+ "caratula": {
+  "img": "img/f/169/01.jpg",
+  "fuente": "",
+  "campos": []
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · extracto de títulos y comisión judicial",
+   "img": "img/f/169/07.jpg",
+   "fuente": "IMG_0595.JPG",
+   "nota": "Hoja suelta fotografiada acostada; sello «FOJA 1».",
+   "lineas": [
+    "[sello: FOJA 1]",
+    "+ Duplicado de la diligencia de la mensura",
+    "practicada en terreno de propiedad de Don Martín Aré-",
+    "valo, situado en Partido de San Andrés de Giles.-",
+    "Estracto de títulos.-",
+    "[margen:] Mercedes 22 de julio de 1891. Hijuela para el heredero Don Martín Aré-",
+    "valo. Se le adjudica en pago de su haber, que es de ocho",
+    "mil novecientos treinta y tres pesos ochenta centavos, sesenta y ocho",
+    "hectáreas setenta y dos áreas quince centiáreas, del terreno de",
+    "pastoreo perteneciente á la sucesión de Don Francisco",
+    "Arévalo, lindando al Norte con mas campo de la sucesion",
+    "adjudicado al heredero Don Patricio Miró; al Este Don Cipriano",
+    "Lucero, al Sud Don Facundo Casas y al Oeste Don Tomás",
+    "Duggan.- La copia de la hijuela, autorizada por el escri-",
+    "bano [entre renglones: y secretario] Don Pedro Larrosa, lo es de la correspondiente de la cuen-",
+    "ta particionaria practicada en los autos testamentarios de",
+    "Don Francisco Arévalo y aprobada por auto del Señor",
+    "Juez de Primera Instancia en lo Civil y Comercial del",
+    "Departamento del Centro, Doctor Don Rómulo Etcheverry",
+    "y secretaría del Autorizante, de fecha 22 de julio de 1891.-",
+    "+ Mensura.- El Agrimensor que suscribe, comisionado por",
+    "decreto del Señor Juez de 1ª Instancia en lo Civil y Comercial",
+    "del Departamento del Centro, Doctor Don Angel M. Ezquer [?], pa-",
+    "ra medir y deslindar el terreno de propiedad de Don Martín",
+    "Arévalo, situado en Partido de San Andrés de Giles, previa",
+    "citación de linderos que en original se acompaña y diarios",
+    "de publicación de edictos, dió principio á la mensura",
+    "el día 5 de julio del corriente año del modo siguiente:"
+   ],
+   "interpretacion": "El título es una HIJUELA de la testamentaría de Francisco Arévalo (Mercedes, 22/7/1891): a Martín Arévalo, por su haber de 8933,80 $, se le adjudican 68 ha 72 a 15 ca «del terreno de pastoreo» de la sucesión, lindando al N con Patricio Miró (otro heredero), al E con Cipriano Lucero, al S con Facundo Casas y al O con Tomás Duggan. La copia la autoriza el escribano y secretario Pedro Larrosa; la cuenta particionaria fue aprobada por el juez civil del Departamento del Centro, Rómulo Etcheverry. La mensura la ordena otro juez del Centro, Ángel M. Ezquer [?]; previa citación de linderos (cuyo original no está en el duplicado) y edictos, Aranguren empieza el 5 de julio de 1894."
+  },
+  {
+   "titulo": "Folio 1 vuelto · reconocimiento del campo entero",
+   "img": "img/f/169/08.jpg",
+   "fuente": "IMG_0596.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Como el terreno que iba á medir estaba unido al de los demás",
+    "herederos de Don Francisco Arévalo se procedió á hacer el reconoci-",
+    "miento del terreno total.- Para esto, desde a, mojón de ñan-",
+    "dubay, quebrado, situado en el medio de un callejón, se midió",
+    "al Norte cincuenta y nueve grados diez minutos Este, quinien-",
+    "tos treinta y dos metros hasta b; en este punto no hay mo-",
+    "jón pero se determinó por la intercepción de las líneas",
+    "de los mojones.- Desde b, al Norte treinta y un grados cua-",
+    "tro minutos Oeste, medí seis mil novecientos ochenta y",
+    "tres metros, ochenta centímetros hasta c, mojón de ñandu-",
+    "bay esquinero del que se mide, de los herederos de Lucero",
+    "y costanero de Mendez.- En esta línea se encontró mojones",
+    "de ñandubay á los mil setecientos setenta metros; á los",
+    "tres mil quinientos setenta y ocho metros; á los tres mil qui-",
+    "nientos noventa y nueve metros; á los tres mil novecientos",
+    "treinta metros cincuenta centímetros y á los cinco mil",
+    "setenta metros un arroyo.-",
+    "Desde c, al Sud cincuenta y nueve grados diez mi-",
+    "nutos Oeste, medí quinientos treinta y dos metros has-",
+    "ta d, mojón de ñandubay esquinero del que se mide",
+    "y de Duggan y costanero de Mendez.-",
+    "Desde d, al Sud treinta y un grados cuatro minutos",
+    "Este, medí seis mil novecientos ochenta y tres metros",
+    "ochenta centímetros hasta el punto de partida a.- En",
+    "esta línea, á los mil setecientos dos metros, un mojón de",
+    "ñandubay; á los mil novecientos setenta metros un arro-",
+    "yo y á los cuatro mil ochocientos metros un camino",
+    "de Mercedes á Zárate.-"
+   ],
+   "interpretacion": "Como el terreno de Martín estaba unido al de los demás herederos, Aranguren mide primero TODO el campo: desde a (mojón de ñandubay QUEBRADO, en medio de un CALLEJÓN) N 59° 10′ E 532 m hasta b (sin mojón: lo determina por la intersección de las líneas de mojones vecinas); b-c N 31° 4′ O 6983,80 m hasta c (ñandubay, esquinero con los herederos de Lucero y costanero de Méndez), con mojones viejos a 1770, 3578, 3599 y 3930,5 m y UN ARROYO a 5070 m; c-d S 59° 10′ O 532 m (ñandubay, esquinero con Duggan); d-a S 31° 4′ E 6983,80 m, con mojón a 1702 m, el ARROYO a 1970 m y el CAMINO DE MERCEDES A ZÁRATE a 4800 m."
+  },
+  {
+   "titulo": "Folio 2 · superficie total y adjudicaciones",
+   "img": "img/f/169/09.jpg",
+   "fuente": "IMG_0596.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 2]",
+    "Todas las líneas, cd y da, se encuentran alambradas.",
+    "La superficie del terreno medido es de trescientas setenta y una",
+    "hectáreas cincuenta y tres áreas ochenta y una centiáreas y",
+    "seis décimos.-",
+    "Don Facundo, Doña Simona y Don Ramón Casas, exhibieron",
+    "sus hijuelas, por las que se les adjudican treinta hectáreas",
+    "veintiuna áreas cincuenta y siete centiáreas de terreno",
+    "á cada uno. + Las de los herederos Arévalo las he tenido",
+    "también á la vista en la secretaría del Juzgado de Primera",
+    "Instancia, á cargo hoy de Don Pedro Ferrer [?] y se hacen las",
+    "siguientes adjudicaciones:",
+    "A Don Martín Arévalo sesenta y ocho hectáreas setenta y dos áreas quince centiáreas",
+    "A Don Patricio Miró — catorce \" treinta y seis \" cincuenta y ocho \"",
+    "A Doña Petrona Miró — trece \" setenta y cuatro \" cuarenta y tres \"",
+    "A Doña Gregoria Miró — trece \" setenta y cuatro \" cuarenta y tres \"",
+    "A Don Miguel Miró — trece \" setenta y cuatro \" cuarenta y tres \"",
+    "A Doña María F. Miró — trece \" setenta y tres \" sesenta y cinco \"",
+    "A Doña Josefa F. Arévalo — doce \" setenta y tres \" sesenta y cinco \"",
+    "A Doña Francisca Magdalena Arévalo doce \" setenta y tres \" sesenta y cinco \"",
+    "A Don Juan del Carmen Arévalo doce \" setenta y tres \" sesenta y cinco \"",
+    "A Don Emiliano Irene Arévalo doce \" setenta y tres \" sesenta y cinco \"",
+    "A Don Justo C. Arévalo doce \" setenta y tres \" sesenta y cinco \"",
+    "A Doña Paula E. Arévalo doce \" setenta y tres \" sesenta y cinco \"",
+    "A Doña Sixta Arévalo cincuenta y ocho \" cinco \" sesenta y tres \"",
+    "Estas hacen un total de trescientas sesenta y tres hectáreas +",
+    "diez y ocho áreas sesenta y nueve centiáreas.-",
+    "Hay, pues, un exeso con la superficie del terreno medido, de ocho",
+    "hectáreas treinta y cinco áreas doce centiáreas y seis décimos",
+    "[lápiz, margen:] 3ª [?] · [al pie, lápiz:] a la vuelta"
+   ],
+   "interpretacion": "Las líneas c-d y d-a están ALAMBRADAS. Superficie: 371 ha 53 a 81,6 ca (= 532 × 6983,8; verificado). Los tres Casas (Facundo, Simona, Ramón) exhiben hijuelas de 30,2157 ha cada uno; las de los herederos Arévalo las vio en la secretaría del juzgado (a cargo de Pedro Ferrer [?]). Lista de trece adjudicaciones Arévalo-Miró que suman, según el texto, 363 ha 18 a 69 ca: exceso de 8 ha 35 a 12,6 ca. Verificado en python: la suma con los números copiados da 363,1791 ha; si María F. Miró recibe 13,7443 ha como sus hermanos (y no 13,7365, valor copiado del renglón de abajo) la suma da exactamente 363,1869. Error de copia en el duplicado."
+  },
+  {
+   "titulo": "Folio 2 vuelto · reparto proporcional y lotes de los Casas",
+   "img": "img/f/169/10.jpg",
+   "fuente": "IMG_0597.JPG (mitad izquierda)",
+   "nota": "Cruces y llamadas a lápiz en el margen.",
+   "lineas": [
+    "que es mayor que la tolerancia de la ley.",
+    "Para hacer la ubicación del terreno de Don Martín Arévalo",
+    "era menester dejar ubicado también el de los demás con-",
+    "dóminos, y mas aun cuando todos ellos pidieron que se",
+    "dejaran marcados sus lotes.- La diferencia sobre la super-",
+    "ficie fué repartida proporcionalmente á la superficie",
+    "que á cada uno correspondía, según se indica en el",
+    "plano y en el cual están marcadas todas las adjudicacio-",
+    "nes. + Para ubicar el terreno, de que es objeto esta mensura,",
+    "de propiedad de Don Martín Arévalo, se procedió de la si-",
+    "guiente manera:",
+    "Desde a, al Norte treinta y un grados cuatro minutos Oeste,",
+    "medí mil setecientos cuarenta y tres metros cincuenta y cua-",
+    "tro centímetros y coloqué un mojón de ñandubay D;",
+    "en esta línea coloqué á cada quinientos ochenta y un",
+    "metros diez y ocho centímetros, mojones de ñandubay en",
+    "los puntos de división de los terrenos de los señores Casas.",
+    "Desde D, al Norte cincuenta y nueve [entre renglones: grados diez] minutos Este, medí qui-",
+    "nientos treinta y dos metros y coloqué otro mojón de ñandu-",
+    "bay A; desde este al Sud treinta y un grados cuatro mi-",
+    "nutos Este, medí mil setecientos cuarenta y tres metros cin-",
+    "cuenta y cuatro centímetros hasta b, habiendo colocado,",
+    "como en el costado aD, mojones de ñandubay á cada qui-",
+    "nientos ochenta y un metros diez y ocho centímetros, para",
+    "hacer las divisiones de los terrenos de los señores Casas. De",
+    "esta manera quedó ubicado el terreno perteneciente á",
+    "Don Sandalio, Doña Simona y Don Ramón Casas, con una",
+    "superficie de treinta hectáreas noventa y una áreas ochen-",
+    "[lápiz, margen:] 3ª [?]"
+   ],
+   "interpretacion": "El exceso supera la tolerancia legal. Todos los condóminos pidieron que se marcaran sus lotes; Aranguren reparte el sobrante PROPORCIONALMENTE a cada superficie y amojona todas las adjudicaciones. Desde a, N 31° 4′ O 1743,54 m hasta D (ñandubay), con mojones cada 581,18 m para dividir a los Casas; D-A N 59° 10′ E 532 m; A-b S 31° 4′ E 1743,54 m. Quedan ubicados «Don Sandalio [sic], Doña Simona y Don Ramón Casas» con 30 ha 91 a 87,76 ca cada uno (532 × 581,18 m: verificado). El texto dice aquí «Sandalio» donde el f. 2 y el plano dicen «Facundo»."
+  },
+  {
+   "titulo": "Folio 3 · lote de Martín Arévalo, rumbos y circular",
+   "img": "img/f/169/11.jpg",
+   "fuente": "IMG_0597.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 3]",
+    "ta y siete centiáreas setenta y seis centécimos cada uno.-",
+    "Desde A, al Norte treinta y un grados cuatro minutos Oeste,",
+    "medí mil trescientos veintiún metros setenta y tres centíme-",
+    "tros y coloqué un mojón de ñandubay B.-",
+    "Desde B, al Sud cincuenta y nueve grados diez minutos Oeste, me-",
+    "dí quinientos treinta y dos metros hasta C, donde coloqué un",
+    "mojón de fierro.-",
+    "Desde C, al Sud treinta y un grados cuatro minutos Este,",
+    "medí mil trescientos veintiún metros setenta y tres centí-",
+    "metros hasta D; estas y la AD, ya medida completan",
+    "la figura cuya superficie es de setenta hectáreas trein-",
+    "ta y una áreas sesenta centiáreas treinta y seis centécimos",
+    "que es de propiedad de Don Martín Arévalo y cuyos",
+    "linderos son: al NordOeste Don Patricio Miró; al SudOeste",
+    "Don Tomás Duggan; al SudEste Don Facundo Casas y al",
+    "NordEste los herederos de Don Cipriano Lucero.-",
+    "Según se vé en el plano, fueron también medidas",
+    "y amojonadas las fracciones pertenecientes á los",
+    "demás herederos de Arévalo, con la superficie que les cor-",
+    "responde, distribuyendo el sobrante proporcionalmente á la",
+    "superficie del terreno de cada uno.-",
+    "Rumbos, todos son verdaderos.- Variación once grados vein-",
+    "te minutos NordEste.-",
+    "Circular, fué firmada por Don Patricio Miró por sí; por",
+    "Don Facundo Casas firmó su hija Doña Justina Casas; por",
+    "los herederos de Lucero, Don Honorio [?] Lucero y por Don To-",
+    "más Duggan Don Esteban Mc Donnell.-",
+    "Mercedes, setiembre de 1894.",
+    "Juan J. Aranguren [rúbrica]",
+    "[sello: DEPARTAMENTO DE INGENIEROS DE LA PROVINCIA · ENTRADA 27 SET. 94]",
+    "No- [sigue en f. 3 vuelto: «ta»]"
+   ],
+   "interpretacion": "A-B N 31° 4′ O 1321,73 m (mojón de ñandubay B); B-C S 59° 10′ O 532 m (MOJÓN DE FIERRO en C); C-D S 31° 4′ E 1321,73 m. Superficie 70 ha 31 a 60,36 ca (verificado: 532 × 1321,73). Linderos: NO Patricio Miró, SO Tomás Duggan, SE Facundo Casas, NE herederos de Cipriano Lucero. También se midieron y amojonaron las demás fracciones Arévalo. Rumbos verdaderos; variación 11° 20′ NE. Circular firmada por Patricio Miró, por Justina Casas en nombre de su padre Facundo, por Honorio [?] Lucero por los herederos de Lucero y por Esteban Mc Donnell por Tomás Duggan. «Mercedes, setiembre de 1894. Juan J. Aranguren». Entrada en el Departamento de Ingenieros el 27/9/1894."
+  },
+  {
+   "titulo": "Folio 3 vuelto · nota sobre las cuatro fracciones; inicio del informe",
+   "img": "img/f/169/12.jpg",
+   "fuente": "IMG_0598.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "[No]ta: El total del terreno que se ha deslindado perteneció, dividido en",
+    "cuatro fracciones iguales á los siguientes dueños: Una fracción á Don José",
+    "Isabel Cordero, situada en la parte SudEste; la siguiente, al NordOeste, á Don",
+    "Facundo Casas y sus hijos y las dos siguientes, á los herederos de Don",
+    "Francisco Arévalo.- Don José Isabel Cordero vendió su parte á",
+    "Don Francisco Arévalo y este la permutó con Don Facundo Casas.",
+    "Estos datos verbales obtenidos de los herederos al hacer la operación y los",
+    "datos de las hijuelas, son los que han hecho al Agrimensor proceder",
+    "como se dá cuenta, admitiendo la nueva ubicación de los terrenos",
+    "de Casas y del que fué de Don José I. Cordero, pues las actuaciones",
+    "de la testamentaría no dan datos precisos y no existen en autos",
+    "escrituras de estas fracciones.-",
+    "Juan J. Aranguren [rúbrica]",
+    "Señor Juez:",
+    "El Departamento de Ingenieros ha exami-",
+    "nado la diligencia de mensura practicada",
+    "por el agrimensor Aranguren, de un terreno",
+    "perteneciente á Don Martín Arévalo, ubicado",
+    "en el partido de San Andrés de Giles y la #"
+   ],
+   "interpretacion": "NOTA del agrimensor: el campo total perteneció, dividido en CUATRO FRACCIONES IGUALES, a José Isabel Cordero (la del SE), a Facundo Casas y sus hijos (la siguiente al NO) y a los herederos de Francisco Arévalo (las dos restantes). Cordero vendió a Francisco Arévalo y éste la PERMUTÓ con Casas. Estos «datos verbales obtenidos de los herederos al hacer la operación» y los de las hijuelas lo llevaron a admitir la nueva ubicación de Casas y de lo que fue de Cordero, porque la testamentaría no da datos precisos y no hay escrituras de esas fracciones en autos. Empieza la vista del Departamento de Ingenieros."
+  },
+  {
+   "titulo": "Folio 4 · vista del Departamento de Ingenieros (22/2/1895) y nota de 1899",
+   "img": "img/f/169/13.jpg",
+   "fuente": "IMG_0598.JPG (mitad derecha)",
+   "nota": "No hay auto de aprobación en el duplicado.",
+   "lineas": [
+    "[sello: FOJA 4]",
+    "[#] encuentra en condiciones de ser aprobada por",
+    "V. S.",
+    "Para ubicar ésta fracción el agrimensor ha",
+    "tenido que medir todo el campo que pertene-",
+    "ció á Don Francisco Arévalo el cual resultó con",
+    "un sobrante en la superficie de ocho hectáreas,",
+    "treinta i cinco áreas y doce centiáreas, que deberá",
+    "ser comprado al Fisco, por cuanto excede la to-",
+    "lerancia legal.          Febrero 22 de 1895",
+    "[firmas:] Lagos [?] [rúbrica] · Julián Romero",
+    "Cárlos M. Albarracín · Benjamín Sal",
+    "Octubre 10/99.- Se remitió plano é informe del so-",
+    "brante á la Oficina de Tierras.- D. N.º 124.- F. 327. 116 [?].",
+    "[rúbrica: Lagos [?]]"
+   ],
+   "interpretacion": "La mensura está en condiciones de ser aprobada. Para ubicar la fracción el agrimensor midió todo el campo de Francisco Arévalo, que tiene un sobrante de 8 ha 35 a 12 ca que DEBERÁ SER COMPRADO AL FISCO porque excede la tolerancia legal. Firman Lagos [?], Julián Romero, Carlos M. Albarracín y Benjamín Sal. Nota del 10/10/1899: se remitió plano e informe del sobrante a la Oficina de Tierras (D. N.º 124, F. 327. 116 [?])."
+  },
+  {
+   "titulo": "Plano de mensura y división (f. 5) · vista general",
+   "img": "img/f/169/03.jpg",
+   "fuente": "IMG_0599.JPG",
+   "nota": "Plano plegado; los detalles se leen en IMG_0600-0602.",
+   "lineas": [
+    "[sello: FOJA 5]",
+    "[papel por detrás, arriba:] ... de 191[?]",
+    "[linderos:] Herederos de Cipriano Lucero (NE) · Tomás Duggan (SO) · Silvano Mendez (NO, tras c-d) · Hros. de Basilio Salas (SE, tras a-b)",
+    "[costados mayores:] S 31° 4′ E = 6983,8 m (arriba, c-b) · S 31° 4′ E = 6983,8 m (abajo, d-a)",
+    "[lotes de NO a SE:] Sobrante · Sixta Arévalo · Paula E. · Justo C. · Emiliano I. · Juan del C. · Francisca M. · Josefa F. Arévalo · Patricio Miró y sus hijos · Martín Arévalo · Facundo Casas · Simona Casas · Ramón Casas",
+    "[aguja meridiana en diagonal, con flecha hacia el NO arriba y contraflecha al SE abajo]",
+    "[escala gráfica:] 1000 900 ... 100 0 · 1000 · 2000 · 3000 Metros",
+    "Mercedes Setiembre de 1894 · Juan J. Aranguren [rúbrica]"
+   ],
+   "interpretacion": "Plano a tinta sobre tela, «Mercedes Setiembre de 1894 · Juan J. Aranguren». Una faja de 532 × 6983,8 m dividida en trece lotes transversales, entre los herederos de Cipriano Lucero (NE) y Tomás Duggan (SO), Silvano Méndez (NO) y los herederos de Basilio Salas (SE). Aguja meridiana en diagonal; escala gráfica en metros. El arroyo, el camino de Mercedes a Zárate y los alambrados citados en el texto NO están dibujados."
+  },
+  {
+   "titulo": "Plano · detalle NO: el «Sobrante» y los lotes chicos",
+   "img": "img/f/169/04.jpg",
+   "fuente": "IMG_0600.JPG",
+   "nota": "",
+   "lineas": [
+    "Silvano Mendez",
+    "c · d · N 59° 10′ E = 532 m",
+    "[faja angosta:] Sobrante · Sup. = 8h 35a 12c · 156,977 [m, arriba y abajo; letra menuda, ¿agregado posterior?]",
+    "Sixta Arevalo · Sup. = 59h 38a 45c · 1116,25 m (c-r y d-q)",
+    "Paula E. Arévalo · Justo C. Arévalo · Emiliano I. Arévalo · Juan del C. Arévalo · Francisca M. Arévalo · Josefa F. Arévalo",
+    "cada uno: 244,85 m · S = 13h 02a 60c,2 · N 59° 10′ E = 532 m",
+    "[marcas en tinta roja sobre algunos lotes]"
+   ],
+   "interpretacion": "En el extremo NO, junto a Silvano Méndez, una faja angosta rotulada «Sobrante · Sup. = 8h 35a 12c» con 156,977 m de lado, en letra menuda (¿agregado posterior, quizá del informe al Fisco de 1899?). Sigue Sixta Arévalo (1116,25 m, 59 ha 38 a 45 ca) y seis lotes de 244,85 m (13 ha 02 a 60,2 ca cada uno): Paula E., Justo C., Emiliano I., Juan del C., Francisca M. y Josefa F. Arévalo. Si el sobrante estuviera dentro de los 1116,25 m de Sixta, a ella le quedarían 51 ha, menos que su hijuela: la faja contradice el reparto proporcional del texto."
+  },
+  {
+   "titulo": "Plano · detalle central: Miró y Martín Arévalo",
+   "img": "img/f/169/05.jpg",
+   "fuente": "IMG_0601.JPG",
+   "nota": "",
+   "lineas": [
+    "S 31° 4′ E = 6983,8 m",
+    "Patricio Miró y sus hijos · Sup. = 70h 92a 51c,76 · 1333,18 m · N 59° 10′ E = 532 m",
+    "B · C · A · D",
+    "Martín Arevalo · Sup. = 70h 31a 60c,36c · 1321,73 m · N 59° 10′ E = 532 m [lote recuadrado con aguada verde]",
+    "S 31° 4′ E = 6983,8 m"
+   ],
+   "interpretacion": "Patricio Miró «y sus hijos» reciben un bloque único de 1333,18 m (70 ha 92 a 51,76 ca) que suma las cinco hijuelas Miró. El lote de Martín Arévalo (A-B-C-D, 1321,73 m, 70 ha 31 a 60,36 ca) está recuadrado con aguada verde: es el objeto de la mensura."
+  },
+  {
+   "titulo": "Plano · detalle SE: los Casas",
+   "img": "img/f/169/06.jpg",
+   "fuente": "IMG_0602.JPG",
+   "nota": "",
+   "lineas": [
+    "Facundo Casas · S = 30h 91a 87c,76 · 581,18 m",
+    "Simona Casas · S = 30h 91a 87c,76 · 581,18 m",
+    "Ramon Casas · S = 30h 91a 87c,76 · 581,18 m",
+    "b · a · N 59° 10′ E = 532 m",
+    "Hros. de Basilio Salas",
+    "Mercedes Setiembre de 1894"
+   ],
+   "interpretacion": "Facundo, Simona y Ramón Casas: tres lotes de 581,18 m y 30 ha 91 a 87,76 ca cada uno, entre el lote de Martín (A-D) y el costado a-b, más allá del cual están los herederos de Basilio Salas. Comprobado: 1743,54 + 1321,73 + 1333,18 + 6 × 244,85 + 1116,25 = 6983,80 m, exactamente el costado total."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de mensura y división del campo de Francisco Arévalo (Aranguren, setiembre 1894)",
+   "img": "img/f/169/03.jpg",
+   "fuente": "IMG_0599.JPG (detalles IMG_0600-0602)",
+   "orientacion": "aguja meridiana en diagonal (flecha N arriba a la izquierda); la faja corre NO-SE, horizontal en el papel",
+   "interpretacion": "Plano a tinta sobre tela, sello «FOJA 5», firmado «Mercedes Setiembre de 1894 · Juan J. Aranguren». Es un plano de DIVISIÓN más que de mensura de un lote: la faja de 532 × 6983,8 m (S 31° 4′ E en sus dos costados mayores) está cortada en trece lotes transversales de 532 m de frente (N 59° 10′ E), con los largos y superficies de cada uno. El lote de Martín Arévalo, objeto del duplicado, va recuadrado en verde. No hay paisaje dibujado: ni el arroyo, ni el camino de Mercedes a Zárate, ni el callejón, ni los alambrados que el texto describe. En el extremo NO, una faja angosta de «Sobrante» (156,977 m, 8 ha 35 a 12 ca) en letra menor, que parece agregada después. Escala gráfica de 1000 m con escala transversal.",
+   "referencias": [
+    [
+     "a · b",
+     "Esquineros SE del campo; a, mojón de ñandubay quebrado en medio de un callejón; b, sin mojón (intersección de líneas)"
+    ],
+    [
+     "c · d",
+     "Esquineros NO; ñandubay, con her. de Lucero (c) y con Duggan (d), costaneros de Méndez"
+    ],
+    [
+     "A · B · C · D",
+     "Lote de Martín Arévalo; C con mojón de fierro"
+    ],
+    [
+     "Casas (3 lotes)",
+     "Facundo, Simona y Ramón: 581,18 m y 30,9188 ha cada uno"
+    ],
+    [
+     "Patricio Miró y sus hijos",
+     "1333,18 m · 70,9252 ha (cinco hijuelas reunidas)"
+    ],
+    [
+     "Seis lotes Arévalo",
+     "Paula E., Justo C., Emiliano I., Juan del C., Francisca M., Josefa F.: 244,85 m · 13,0260 ha"
+    ],
+    [
+     "Sixta Arévalo",
+     "1116,25 m · 59,3845 ha"
+    ],
+    [
+     "Sobrante",
+     "156,977 m · 8,3512 ha, junto a Silvano Méndez (¿agregado de 1895-1899?)"
+    ],
+    [
+     "Linderos rotulados",
+     "Herederos de Cipriano Lucero, Tomás Duggan, Silvano Méndez, Hros. de Basilio Salas"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle NO: Sobrante, Sixta y los lotes de 244,85 m",
+   "img": "img/f/169/04.jpg",
+   "fuente": "IMG_0600.JPG",
+   "orientacion": "toma de detalle del mismo plano",
+   "interpretacion": "Ampliación del extremo NO con la faja del sobrante (156,977 m arriba y abajo) y los lotes de los hijos Arévalo, rotulados en vertical con sus superficies de 13 ha 02 a 60,2 ca y los frentes N 59° 10′ E = 532 m. Se ven marcas en tinta roja sobre algunos lotes.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle central: Patricio Miró y sus hijos y Martín Arévalo",
+   "img": "img/f/169/05.jpg",
+   "fuente": "IMG_0601.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "Los costados S 31° 4′ E = 6983,8 m arriba y abajo; el bloque Miró de 1333,18 m y el lote A-B-C-D de Martín Arévalo con su aguada verde.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle SE: los lotes de los Casas",
+   "img": "img/f/169/06.jpg",
+   "fuente": "IMG_0602.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "Facundo, Simona y Ramón Casas entre A-D y a-b; afuera, los «Her.s de Basilio Salas». El rótulo dice «Facundo» y no «Sandalio» como el f. 2 vuelto.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Una faja larguísima y angosta (532 m de frente por casi 7 km de fondo, proporción 1 : 13), típica de las «suertes» de frente por fondo, ya cerrada con ALAMBRADOS en dos costados (c-d y d-a) en 1894. La cruzan un ARROYO sin nombre (a 5070 m del extremo SE por el costado NE y a 1970 m del NO por el SO, es decir a ≈ 5 km de a: corta los lotes chicos de los hijos Arévalo) y el CAMINO DE MERCEDES A ZÁRATE (a 2184 m de a, dentro del lote de Martín). En el extremo SE el mojón a está en medio de un CALLEJÓN. Es «terreno de pastoreo»: la hijuela no menciona casas, puestos ni montes, y el texto tampoco."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Citación de linderos (el original queda en el expediente) y edictos; circular firmada por Patricio Miró, por Justina Casas a nombre de su padre, por Honorio [?] Lucero y por Esteban Mc Donnell como representante de Tomás Duggan. Todos los condóminos pidieron que se marcaran SUS lotes: una mensura particular se convierte en división de hecho de todo el condominio. La nota final muestra que la geografía de la propiedad descansa en «datos verbales obtenidos de los herederos al hacer la operación»: una venta (Cordero → Francisco Arévalo) y una permuta (Arévalo ↔ Casas) sin escritura en autos fijan dónde queda cada uno. El agrimensor las «admite» y lo declara."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos verdaderos al minuto (N 31° 4′ O, N 59° 10′ E), variación 11° 20′ NE; distancias al centímetro. Verificado en python: el ángulo entre los dos rumbos es 90° 14′, de modo que la figura es un paralelogramo y no un rectángulo; Aranguren calcula la superficie como producto de lados (371,53816 ha), lo que excede en ≈ 31 m² al área exacta (371,53508 ha): diferencia despreciable. Los largos del plano suman exactamente 6983,80 m. El punto b se fija sin mojón, «por la intercepción de las líneas de los mojones» vecinos. Se reutilizan mojones viejos de ñandubay y se pone un mojón de FIERRO en C."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todo en sistema métrico: hijuelas en ha-áreas-centiáreas, ningún dato en varas. 532 m ≈ 614,3 varas y 6983,8 m ≈ 8064 varas: ni el frente ni el fondo dan cifras redondas en varas, lo que sugiere que el campo no proviene de una traza en varas conocida o que sus límites se movieron. Las cuatro fracciones «iguales» originales serían de ≈ 1745,95 m (≈ 2016 v) y 92,88 ha cada una; los Casas reciben 1743,54 m (92,76 ha). El reparto proporcional usa un coeficiente ≈ 1,0230 (371,538 / 363,187); los lotes del plano se apartan levemente de él (Casas 581,18 m frente a 581,02 m calculados; Miró 1333,18 frente a 1333,41)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Condominio hereditario en proceso de fragmentación: un campo de cuatro fracciones (Cordero, Casas, dos Arévalo) pasa a ser de dos familias, y en 1891-1894 los Arévalo se dividen en ONCE titulares (Martín 68,72 ha, Sixta 58,06 ha, Patricio Miró y cuatro hijos Miró —¿viudo de una hija de Francisco?—, y seis hijos con 12,74 ha cada uno). Lotes de 13 ha sobre un campo de pastoreo son ya inviables como unidad ganadera: la partición igualitaria produce minifundio. El exceso de 8,35 ha no se queda con los herederos: el Departamento de Ingenieros lo reclama para el FISCO (compra obligatoria) y en 1899 se manda el plano del sobrante a la Oficina de Tierras."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "Mismo agrimensor que 153, 157, 164 y 167 (Juan J. Aranguren, con base en Mercedes). El rumbo N 31° 4′ O es el MISMO de las fajas de Tadeo Rodríguez en 167 (N 31° 04′ O / N 58° 56′ E) y muy próximo al del plano Arias–González de 146 (S 31° 17′ E): el campo pertenece al mismo sistema de fajas paralelas. Pedro Larrosa, escribano y secretario, es del linaje Larrosa del pueblo (008, 060). El juez Rómulo Etcheverry aprueba también la partición de 164 y Ángel M. Ezquer [?] firma aprobaciones en fichas vecinas (165-167). La vista del D. I. la firman los mismos de 157 y 164 (Lagos [?], Julián Romero, Carlos M. Albarracín, Benjamín Sal). Duggan: la familia de Miguel Duggan (040, 041, 168). Lucero: una sucesión Lucero aparece en los títulos de Morgan (168, 1885) y Luciano Lucero en 025. Casas: ¿parientes de Isidro Casas (025) o de Romualda Galeano de Casas (114-115)?"
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Duplicado completo en lo esencial (fs. 1-4 + plano f. 5); faltan la citación original, los diarios de edictos y el auto de aprobación (el D. I. sólo dice que «se encuentra en condiciones»). Preguntas: ¿quién es Sandalio Casas (f. 2 v.) frente a Facundo (f. 2 y plano)? ¿un hijo, o error del copista? ¿La faja del «Sobrante» junto a Méndez es un agregado de 1899 y quién la compró al Fisco? ¿Qué arroyo cruza el campo (¿de Giles? ¿del Durazno?) y en qué cuartel está? Para el GIS: la intersección del camino de Mercedes a Zárate con el lote de Martín (a 2184 m de a) y el cruce del arroyo son buenos puntos de control. Lecturas a revisar: Ezquer, Ferrer, Honorio Lucero, Lagos."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Martín Arévalo",
+   "rol": "Propietario",
+   "texto": "Heredero de Francisco Arévalo; recibe por hijuela del 22/7/1891 68 ha 72 a 15 ca por un haber de 8933,80 $ (≈ 130 $ por ha), que la mensura eleva a 70,3160 ha. Primera aparición en el corpus.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Francisco Arévalo",
+   "rol": "Causante",
+   "texto": "Dueño de dos de las cuatro fracciones originales del campo; compró la de José Isabel Cordero y la permutó con Facundo Casas. Su testamentaría (cuenta particionaria aprobada el 22/7/1891 por el juez Etcheverry) reparte ≈ 272,5 ha entre once herederos. Sin otros datos.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Sixta, Josefa F., Francisca Magdalena, Juan del Carmen, Emiliano Irene, Justo C. y Paula E. Arévalo",
+   "rol": "Herederos",
+   "texto": "Sixta recibe 58,06 ha (59,38 ha medidas), lote mayor que el de sus hermanos: ¿viuda o heredera con mejora? Los otros seis reciben 12,7365 ha cada uno (13,0260 ha medidas, 244,85 m de frente).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Patricio Miró y Petrona, Gregoria, Miguel y María F. Miró",
+   "rol": "Herederos y lindero no",
+   "texto": "Patricio recibe 14,37 ha y sus cuatro hijos 13,74 ha cada uno; el plano los reúne en un bloque de 70,93 ha. Probablemente viudo de una hija de Francisco Arévalo. Firma la circular por sí. Los Miró aparecen en Giles desde la mensura de Eustaquia Cuello de Miró (fichas 084, 092).",
+   "fuentes": "Este duplicado; fichas 084, 092."
+  },
+  {
+   "nombre": "Facundo, Simona y Ramón Casas (¿y Sandalio?)",
+   "rol": "Condóminos, lindero se",
+   "texto": "Facundo Casas y sus hijos tenían una de las cuatro fracciones y la permutaron con Arévalo; cada uno recibe 30,9188 ha. Facundo no firma: lo hace su hija Justina Casas. El f. 2 vuelto nombra a un «Sandalio» en lugar de Facundo.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "José Isabel Cordero",
+   "rol": "Antiguo condómino",
+   "texto": "Dueño de la fracción SE del campo; la vendió a Francisco Arévalo antes de 1891. Sin escritura en autos.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Cipriano Lucero (herederos) y Honorio [?] Lucero",
+   "rol": "Linderos ne",
+   "texto": "Los herederos de Cipriano Lucero lindan con todo el costado NE; firma por ellos Honorio [?] Lucero. Una sucesión Lucero vende a Morgan en 1885 (ficha 168).",
+   "fuentes": "Este duplicado; ficha 168."
+  },
+  {
+   "nombre": "Tomás Duggan y Esteban Mc Donnell",
+   "rol": "Lindero so y su representante",
+   "texto": "Tomás Duggan, de la familia irlandesa de Miguel Duggan (fichas 040, 041), es dueño de todo el costado SO; firma por él Esteban Mc Donnell, otro apellido irlandés. Primera aparición de ambos nombres en el corpus.",
+   "fuentes": "Este duplicado; fichas 040, 041."
+  },
+  {
+   "nombre": "Silvano Méndez y herederos de Basilio Salas",
+   "rol": "Linderos no y se",
+   "texto": "Méndez es «costanero» en c y d (cabecera NO); los herederos de Basilio Salas están más allá del callejón del extremo SE. Sin otros datos.",
+   "fuentes": "Plano IMG_0599."
+  },
+  {
+   "nombre": "Juan J. Aranguren",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor con base en Mercedes, activo en Giles entre 1889 y 1894 (fichas 153, 157, 164, 167, 169). Estilo sobrio: rumbos verdaderos, superficies por producto, mojones de ñandubay y fierro, notas francas sobre las fuentes verbales. Sin datos biográficos en la web.",
+   "fuentes": "Fichas 153, 157, 164, 167; búsqueda web 16/11/2026 sin resultados."
+  },
+  {
+   "nombre": "Rómulo Etcheverry y Ángel M. Ezquer [?]",
+   "rol": "Jueces",
+   "texto": "Jueces de 1.ª Instancia en lo Civil y Comercial del Departamento del Centro (Mercedes): Etcheverry aprueba la partición (22/7/1891, también en 164); Ezquer [?] comisiona la mensura (también firma aprobaciones en fichas vecinas, 165-167).",
+   "fuentes": "Fichas 164-167."
+  },
+  {
+   "nombre": "Pedro Larrosa y Pedro Ferrer [?]",
+   "rol": "Escribano-secretario y secretario",
+   "texto": "Larrosa autoriza la copia de la hijuela; ¿del linaje Larrosa del pueblo de Giles? Ferrer [?] tiene a su cargo la secretaría en 1894.",
+   "fuentes": "Este duplicado; fichas 008, 060."
+  },
+  {
+   "nombre": "Lagos [?], Julián Romero, Carlos M. Albarracín, Benjamín Sal",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firman la vista del 22/2/1895 que exige comprar el sobrante al Fisco; la misma comisión firma en 157 y 164. Lagos [?] rubrica también la nota de 1899.",
+   "fuentes": "Fichas 157, 164."
+  }
+ ],
+ "portadilla": {
+  "img": "",
+  "fuente": "transcripción · IMG_0594.JPG",
+  "lineas": [
+   "Giles 1894 · N.º 169",
+   "Duplicado de la diligencia de men-",
+   "sura practicada en terreno de pro-",
+   "piedad de Don Martín Arévalo",
+   "situado en Partido de San An-",
+   "drés de Giles.-",
+   "Agrimensor Juan J. Aranguren [rúbrica]",
+   "[lápiz:] Vara 47 [?] · N. 8. 15 [?]",
+   "[lápiz, cuentas de control:] 1 + + / 2ª 3ª 4 + + / 1 ... 4ª [?]"
+  ]
+ },
+ "titulo": "Martín Arévalo",
+ "estado": "Transcripta (11 hojas, 207 renglones), 4 láminas"
+}

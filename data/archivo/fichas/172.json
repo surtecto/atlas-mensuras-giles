@@ -1,0 +1,536 @@
+{
+ "carpeta": "172",
+ "carpeta_nombre": "Carpeta 172",
+ "archivo": "Ficha 172 - Sucesión de José Manuel Dobarro (1896).docx",
+ "resumen": {
+  "N.º de duplicado": "172 (Partido de San Andrés de Giles)",
+  "Propietario / solicitante": "Sucesión de José Manuel Dobarro",
+  "Agrimensor": "A. M. Bourdet (La Plata)",
+  "Año": "1896",
+  "Fecha de la diligencia": "operación 29/1/1896; firma 15/3/1896; entrada D. I. 26/3; vista 28/4/1896",
+  "Ubicación": "Margen E de la Cañada de la Cruz, entre Ormaechea, Salvador Castro, Moreno y Ruiz",
+  "Orden judicial": "Juez civil y comercial de la Capital Dr. Arturo H. Gamboa (sec. Eliseo Parodi)",
+  "Vendedor / antecesor": "Monsalvo → La Rosa/Montiel, Sosa, Castro → J. M. Dobarro (1862-1872)",
+  "Linderos citados": "Ormaechea, Códega, Morgan, S. Castro, Moreno, Guglieri, Ruiz, Cucullo; Tramway",
+  "Medidas": "1.ª: 750,30 × 3564/3122,20 m; 2.ª: 242,34 × 2974/2809 m",
+  "Rumbos": "N 31° 17′ O / S 58° 43′ O; rumbos verdaderos",
+  "Referencia de archivo": "AHG PBA, duplicado 172"
+ },
+ "metricas": {
+  "superficie_ha": "320,9098 (1.ª 250,8373 + 2.ª 70,0725) en seis lotes",
+  "hitos": "mojones de fierro en A y sobre A-I (773 y 1943 m); mojones nuevos en D-C, B y en cada lote; los de Muñiz «arrancados»",
+  "aguas": "Cañada de la Cruz (frente NO de ambas fracciones, orilla relevada por perpendiculares)"
+ },
+ "sintesis": "Remensura y división de las dos fajas que José Manuel Dobarro reunió sobre la Cañada de la Cruz (ya medidas por Muñiz en 1878, ficha 103). Los títulos explican el frente de 750,30 m: 500 v de Martina Montiel (1862) + 100 v de Feliciana Sosa (1874) + 266 2/5 v de Ciriaco Castro (1870) = 866 2/5 v; la 2.ª faja son 278 v de Castro (1872). Muerto Dobarro en 1889, el agrimensor A. M. Bourdet ubica en enero de 1896 las hijuelas de la viuda María Eulogia A. y de Gerónima, Manuel, Paula y Ramón: 320,91 ha en seis lotes. Repone los mojones de Muñiz arrancados, releva la orilla del arroyo por perpendiculares, encuentra 1,60 m de excedente en la 2.ª faja y registra dos cruces del Tramway Rural. Ningún lindero asistió.",
+ "caratula": {
+  "img": "img/f/172/01.jpg",
+  "fuente": "",
+  "campos": []
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · encabezado y títulos de 1844 y 1834",
+   "img": "img/f/172/06.jpg",
+   "fuente": "IMG_0642.JPG",
+   "nota": "Hoja suelta acostada; se lee girada 90°. Los títulos no siguen orden cronológico.",
+   "lineas": [
+    "[Sello: FOJA 1]",
+    "Duplicado de la diligencia de mensura de dos fracciones de terreno ubicadas en San Andrés de Giles, de propiedad de la sucesión de D.n José Manuel Dobarro.—",
+    "Extracto de títulos.— Setiembre 17 de 1844.— En San Andrés de Giles, por ante el Juez de Paz compareció D.a Eusebia Monsalvo y dijo: Que vende á D.a Feliciana Sosa un terreno de estancia compuesto de cien varas de frente por una y media legua de fondo, cuyos linderos son: por el N con sus coherederos — por el S con Jacinto [?] Monsalvo — por el E con Bernabé Montiel y por el O con Gregorio Monsalvo — firmado por D.a Eusebia Monsalvo — D.n Domingo Tuñones [?] — Testigo: Vicente Cuselles [?] — Ante mí — Pedro A. Rodríguez.",
+    "Octubre 27 de 1834.— Luis Antonio Monsalvo vende á D.n José de la Rosa 500 varas de frente por un fondo igual al número de varas que resulte desde el arroyo de la «Cañada de la Cruz» hasta encontrar el terreno de D.n Juan José León — terreno que lo hubo en mayor porción por herencia"
+   ],
+   "interpretacion": "Encabezado: dos fracciones de la sucesión de José Manuel Dobarro. Extracto de títulos: 17/9/1844, ante el juez de paz de Giles, Eusebia Monsalvo vende a Feliciana Sosa 100 v de frente por legua y media de fondo (N coherederos, S Jacinto [?] Monsalvo, E Bernabé Montiel, O Gregorio Monsalvo; testigos Domingo Tuñones [?] y Vicente Cuselles [?], ante Pedro A. Rodríguez). 27/10/1834: Luis Antonio Monsalvo vende a José de la Rosa 500 v de frente, con fondo desde la Cañada de la Cruz hasta el terreno de Juan José León…"
+  },
+  {
+   "titulo": "Folio 1 vuelto · la suerte de La Rosa pasa a Montiel",
+   "img": "img/f/172/07.jpg",
+   "fuente": "IMG_0643.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "de su señora madre D.a María Arriola — el terreno de que se ha hecho mención linda por su frente con el arroyo «Cañada de la Cruz», por el S con los herederos de Manuel Casas — por el N con los herederos de Manuel Monsalvo y por el E con Juan José León. Este documento fué estendido por ante el Juez de Paz D.n Pedro M. Lasallares [?] en San Andrés de Giles.",
+    "Febrero 1.º de 1841.— Por ante el Juez de Paz D.n Pedro M. Lasallares [?] en San Andrés de Giles, compareció D.n José de la Rosa y dijo: Que vendía á D.n Bernabé Montiel, el terreno que hubo por compra á D.n Antonio Monsalvo en Octubre 27 de 1834.",
+    "Agosto 22 de 1862.— En Luján por ante el Juez de Paz D.n Cruz Casas, compareció D.a Martina Montiel de Chiquirrin [?] y dijo: Que otorgaba poder en su debida forma á su esposo D.n José Arriquesrin [?] para que pueda vender todas sus acciones, derechos, etc. etc. que tenía á un terreno de estancia."
+   ],
+   "interpretacion": "…tierra heredada de su madre María Arriola, que linda al frente con la Cañada de la Cruz, S herederos de Manuel Casas, N herederos de Manuel Monsalvo, E Juan José León (juez de paz Pedro M. Lasallares [?]). 1/2/1841: José de la Rosa la vende a Bernabé Montiel. 22/8/1862, en Luján (juez de paz Cruz Casas): Martina Montiel de Chiquirrin da poder a su esposo para vender sus derechos."
+  },
+  {
+   "titulo": "Folio 2 · Dobarro compra a los Montiel (1862) y a Feliciana Sosa (1874)",
+   "img": "img/f/172/08.jpg",
+   "fuente": "IMG_0643.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: FOJA 2]",
+    "Setiembre 5 de 1862.— En virtud del poder anteriormente descrito — en B.s A.s por ante el escribano José V. Cabral se presenta José Chiquirrin en representación de su esposa D.a Martina Montiel y dijo: Que vende á José Manuel Dobarro un terreno de estancia de 500 varas de frente al O. y de fondo al E por lo que resulte desde la Cañada de la Cruz hasta dar con los terrenos de D.a María Juliana López — por el N con Manuel Monsalvo etc.ª y por el S con la sucesión de D.n Juan Castro.— el que le corresponde á su representada por muerte de su señor padre D.n Bernabé Montiel, según consta de la hijuela espedida por D.n Cruz Casas Juez de Paz de Luján con fecha 22 de Julio de 1862.—",
+    "Julio 14 de 1874.— Feliciana Sosa vende á D.n José Manuel Dobarro en San Andrés de Giles y por ante el Juez de Paz, un terreno de estancia compuesto de 100 varas de frente al N O con las que resulten desde el Arroyo «Cañada de la Cruz»"
+   ],
+   "interpretacion": "5/9/1862, escribano José V. Cabral: José Chiquirrin, por su esposa Martina Montiel, vende a José Manuel Dobarro 500 v de frente al O por el fondo que resulte desde la Cañada de la Cruz hasta María Juliana López (N Manuel Monsalvo, S sucesión de Juan Castro), herencia de Bernabé Montiel (hijuela del 22/7/1862). 14/7/1874: Feliciana Sosa vende a Dobarro 100 v de frente al NO desde la Cañada de la Cruz…"
+  },
+  {
+   "titulo": "Folio 2 vuelto · las dos ventas de Feliciana Sosa",
+   "img": "img/f/172/09.jpg",
+   "fuente": "IMG_0644.JPG (mitad izquierda)",
+   "nota": "La suerte de Sosa se vende en dos tramos: el fondo (enero) y el frente sobre el arroyo (julio de 1874).",
+   "lineas": [
+    "hasta dar con los terrenos del comprador — lindando por el frente con el arroyo — por el S O y S E con terrenos del comprador y por el N E con los herederos de Gerónimo Tormi [sic] — terreno que lo hubo por compra en mayor porción á Eusebia Monsalvo en 17 de Setiembre de 1844.— Juez de Paz Antonio H. Sala [?].",
+    "Enero 12 de 1874.— En S. A. de Giles compareció Feliciana Sosa y dijo que vende á José Manuel Dobarro un terreno de estancia compuesto de 100 varas de frente al N O con las varas que resulten desde el deslinde con Mariano Moreno hasta pasar cien varas más del mojón que está al lado de la tapera de Sinforosa González para el lado del Arroyo Cañada de la Cruz, lindando por el frente con más terreno de la vendedora por el S O con terrenos del comprador por el S E con Mariano Moreno y por el N E con los herederos de Gerónimo Torny.",
+    "Febrero 8 de 1858.— El escribano Victoriano"
+   ],
+   "interpretacion": "…hasta dar con tierras del comprador (NE herederos de Gerónimo Tormi [sic]), parte de su compra de 1844 (juez de paz Antonio H. Sala [?]). 12/1/1874: otra venta de Feliciana Sosa a Dobarro, 100 v de frente desde el deslinde con Mariano Moreno «hasta pasar cien varas más del mojón que está al lado de la tapera de Sinforosa González» hacia la cañada (SE Mariano Moreno, NE herederos de Gerónimo Torny)."
+  },
+  {
+   "titulo": "Folio 3 · la hijuela de Ciriaco Castro y la permuta de 1870",
+   "img": "img/f/172/10.jpg",
+   "fuente": "IMG_0644.JPG (mitad derecha)",
+   "nota": "3420,70 m son 3950 v, no 3900: error de copia o de conversión.",
+   "lineas": [
+    "[Sello: FOJA 3]",
+    "Vila otorga en B.s A.s á pedido de D.n Ciriaco Castro de La Madrid, la hijuela de un terreno que le corresponde en los autos testamentarios de D.n Juan Castro, compuesto de 133 1/5 varas de frente por 7900 varas de fondo.",
+    "Agosto 5 de 1870.— En Luján por ante el escribano Antonio Ruiz compareció por una parte D.n Ciriaco Castro y por la otra Martiniano Castro en representación de su hermano Juan Castro por poder otorgado en 13 de Julio de 1870 por ante el escribano del partido del Pergamino D.n Juan Beltrán y dijeron: Que han convenido en efectuar una permuta de unos terrenos que les corresponde en propiedad.— Ciriaco Castro declara dar en propiedad á su hermano D.n Juan, por vía de permuta un terreno de estancia compuesto de 115 m.s 446 milímetros de frente por 3420 m.s y 700 milímetros de fondo poco más ó menos, equivalente á 133 1/5 varas de frente por 3900 varas de fondo ó lo más que"
+   ],
+   "interpretacion": "8/2/1858: el escribano Victoriano Vila otorga a Ciriaco Castro de La Madrid la hijuela de 133 1/5 × 7900 v en la testamentaría de Juan Castro. 5/8/1870, escribano Antonio Ruiz (Luján): Ciriaco y Martiniano Castro (por su hermano Juan, poder ante Juan Beltrán, Pergamino) permutan tierras: Ciriaco da a Juan 115,446 × 3420,700 m, «equivalente á 133 1/5 varas de frente por 3900 varas de fondo»…"
+  },
+  {
+   "titulo": "Folio 3 vuelto · fin de la permuta y venta de 1870",
+   "img": "img/f/172/11.jpg",
+   "fuente": "IMG_0645.JPG (mitad izquierda)",
+   "nota": "Mancha de tinta sobre «Ciriaco Castro».",
+   "lineas": [
+    "tenga hasta dar con la «Cañada de la Cruz» lindando al N con los herederos de Antonio Monsalvo, al S con más terreno de Ciriaco Castro por el E con Gerónimo Torny y por el O con Salvador Castro hermano de los comparecientes.",
+    "D.n Martiniano en representación de su hermano Juan dá á Ciriaco un terreno de iguales dimensiones que el anterior, ubicado en el mismo partido de Giles, lindando por el N con más terreno de D.n Juan, por el S con la testamentaria de de [sic] María López de Montiel por el E con Ciriaco Castro y por el Oeste con Salvador Castro.",
+    "Agosto 11 de 1870.— por ante el Juez de Paz compareció Ciriaco Castro y declaró vender á José M. Dobarro, un terreno compuesto de 266 2/5 varas de frente por 3760 de fondo, cuyo terreno está ubicado en S. A. de Giles, el cual hubo parte por permuta con su hermano Juan y"
+   ],
+   "interpretacion": "…linda N herederos de Antonio Monsalvo, S Ciriaco, E Gerónimo Torny, O Salvador Castro. Juan da a Ciriaco otra suerte igual (N Juan, S testamentaría de María López de Montiel, E Ciriaco, O Salvador Castro). 11/8/1870, ante el juez de paz: Ciriaco Castro vende a José M. Dobarro 266 2/5 × 3760 v, que hubo parte por permuta y…"
+  },
+  {
+   "titulo": "Folio 4 · escrituras de 1887 y la segunda fracción",
+   "img": "img/f/172/12.jpg",
+   "fuente": "IMG_0645.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: FOJA 4]",
+    "parte en la testamentaria de su padre D.n Juan.—",
+    "Octubre 27 de 1887. por ante el Escribano de San A. de Giles compareció Ciriaco Castro y otorgó escritura á favor de D.n José Manuel Dobarro del terreno que le había vendido por ante el Juez de Paz en Agosto 11 de 1870.",
+    "Diciembre 21 de 1872.— Comparecieron por ante el Juez de Paz de San A. de Giles, D.n Ciriaco Castro y José Manuel Dobarro y el primero dijo que vende al segundo un terreno compuesto de 278 varas de frente por el Arroyo Cañada de la Cruz por un fondo igual hasta encontrar el terreno de Martina Montiel, que serán más ó menos 3400 varas, el cual linda por el frente con el arroyo mencionado por el fondo con Martina Montiel, por el N con Salvador Castro y por el S con Gregorio Castro. Este terreno lo hubo por herencia materna —",
+    "En 28 de Octubre de 1887. por ante el escri-"
+   ],
+   "interpretacion": "…parte por herencia de su padre Juan. 27/10/1887: Ciriaco escritura esa venta ante el escribano de Giles. 21/12/1872, ante el juez de paz: Ciriaco Castro vende a Dobarro 278 v de frente sobre la Cañada de la Cruz por el fondo hasta Martina Montiel (unas 3400 v), N Salvador Castro, S Gregorio Castro: herencia materna. 28/10/1887: otra escritura…"
+  },
+  {
+   "titulo": "Folio 4 vuelto · las dos fracciones y la testamentaría",
+   "img": "img/f/172/13.jpg",
+   "fuente": "IMG_0646.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "bano Cornelio Gomez [sic, ¿Games?], D.n Ciriaco Castro otorga escritura á D.n José Manuel Dobarro del terreno que le había vendido por ante el Juez de Paz en Diciembre 21 de 1872.—",
+    "El conjunto de estos terrenos forman dos fracciones una compuesta de 750 m.ts 3 dec. de frente al Arroyo Cañada de la Cruz por un fondo igual hasta llegar al terreno de D.n Mariano Moreno, y la otra con frente m.ts 240,74 por un fondo igual hasta llegar al terreno de Gerónimo Guglieri [?].—",
+    "Habiendo fallecido D.n José Manuel Dobarro el 14 de Noviembre de 1889 — iniciada la testamentaria y practicada la cuenta particionaria por el Contador Juan B. Gibert [?], la que se aprobó en Agosto 22 de 1895 — Secretaría de Eliseo Parodi — Juez D.r Arturo H. Gamboa [?] — se adjudicaron á sus herederos en la siguiente forma los terrenos ubicados en San Andrés de Giles:"
+   ],
+   "interpretacion": "…ante el escribano Cornelio Gomez [sic, ¿Games?]. El conjunto forma dos fracciones: una de 750,3 m de frente a la Cañada de la Cruz hasta Mariano Moreno, otra de 240,74 m hasta Gerónimo Guglieri [?]. Dobarro muere el 14/11/1889; la cuenta particionaria del contador Juan B. Gibert [?] se aprueba el 22/8/1895 (secretaría de Eliseo Parodi, juez Arturo H. Gamboa)."
+  },
+  {
+   "titulo": "Folio 5 · hijuelas de la viuda y de Gerónima",
+   "img": "img/f/172/14.jpg",
+   "fuente": "IMG_0646.JPG (mitad derecha)",
+   "nota": "La hijuela dice «Gerónimo Dobarro» por Gerónima.",
+   "lineas": [
+    "[Sello: FOJA 5]",
+    "Hijuela 1.ª — para D.a Eulogia A. de Dobarro esposa del causante, se le adjudica, una fracción de 79 H.s 35 a.s 43 c.s 39 lindando al N E con Nicolás Ormaechea al N O con terreno adjudicado á Manuel Dobarro — al S E terreno adjudicado á Gerónimo Dobarro y al S O con Salvador Castro.",
+    "Otra fracción próxima á la anterior compuesta de 10 H.s 43 a.s 75 c.s 77 lindando al N E con Salvador Castro al S E terreno adjudicado á Ramón Dobarro, al N O con el arroyo Cañada de la Cruz y al S O con Isidro Cucullo.",
+    "Gerónima Dobarro.— se le adjudican — 817,5 m.ts de frente al N E por 750,3 m.ts al N O igual á 61 H.s 33 a.s 70 c.s 25 — Lindando al N E con Nicolás Ormaechea — al S E con Mariano Moreno y Gerónimo Guglieri [?] — al S O con Salvador Castro y al N O terreno adjudicado á D.a Eulogia A. de Dobarro.",
+    "Manuel Dobarro.— Se le adjudica 616,70 m.s"
+   ],
+   "interpretacion": "Hijuela 1.ª, Eulogia A. de Dobarro, viuda: 79 ha 35 a 43 ca 39 (NE Nicolás Ormaechea) y otra fracción de 10 ha 43 a 75 ca 77 junto a la cañada (SO Isidro Cucullo). Gerónima Dobarro: 817,5 × 750,3 m = 61 ha 33 a 70 ca 25 (SE Mariano Moreno y Gerónimo Guglieri [?]). Manuel Dobarro: 616,70 m…"
+  },
+  {
+   "titulo": "Folio 5 vuelto · hijuelas de Manuel, Paula y Ramón",
+   "img": "img/f/172/15.jpg",
+   "fuente": "IMG_0647.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "al N E por 750,3 m.ts al N O igual á 46 h.s 27 a.s 16 c.s — Lindando al N E con Nicolás Ormaechea al N O terreno adjudicado á Paula Dobarro — al S E con terreno adjudicado á Eulogia A. de Dobarro y al S O con Salvador Castro.",
+    "Paula Dobarro.— Se le adjudica una fracción de 64 h.s 25 a.s 41 c.s 69. Lindando al N E con Nicolás Ormaechea — al S E con terreno adjudicado á Manuel Dobarro — al S O con Salvador Castro y al N O con el Arroyo Cañada de la Cruz.",
+    "Ramón Dobarro.— Se le adjudica una fracción de 2455,941 m.ts al N E por 240,74 c.s [sic] al N O igual á 59 h.s 12 a.s 43 c.s 23 — lindando al N E con Salvador Castro — al S E con Gerónimo Guglieri [?] al S O con terreno de Ruiz y al N O con terreno adjudicado á D.a Eulogia A. de Dobarro.",
+    "Mensura.— El Agrimensor"
+   ],
+   "interpretacion": "Manuel: 616,70 × 750,3 m = 46 ha 27 a 16 ca. Paula: 64 ha 25 a 41 ca 69 sobre la cañada. Ramón: 2455,941 × 240,74 m = 59 ha 12 a 43 ca 23, entre Salvador Castro, Gerónimo Guglieri [?], Ruiz y la viuda. Comienza la mensura."
+  },
+  {
+   "titulo": "Folio 6 · comisión, edictos y línea de frente",
+   "img": "img/f/172/16.jpg",
+   "fuente": "IMG_0647.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: FOJA 6]",
+    "que suscribe comisionado por el S.r Juez de 1.ª Instancia en lo Civil y Comercial del Departamento de la Capital D.r Arturo H. Gamboa, previa publicación de edictos y citación de linderos procedió el día 29 de Enero pp.do á efectuar la mensura y división del terreno de la sucesión de D.n José Manuel Dobarro — ubicado en San A. de Giles.",
+    "Situado en el mojón señalado en el plano con la letra D procedí á establecer la línea D. C. B. A. colocando al efecto una bandera en el mojón de fierro letra A estableciendo otras intermediarias con el auxilio del Teodolito.",
+    "Medí con rumbo Sud cincuenta y ocho grados cuarenta y tres minutos Oeste (S 58° 43′ O) setecientos cincuenta metros treinta centímetros (750,30). donde coloqué un mojón — puesto que el que fué colocado por el Agrimensor Muñiz cuando midió este campo ha sido"
+   ],
+   "interpretacion": "El agrimensor, comisionado por el juez civil de la Capital Arturo H. Gamboa, con edictos y citación de linderos, empieza el 29 de enero de 1896. Desde el mojón D alinea D-C-B-A con bandera en el mojón de fierro A y jalones intermedios con teodolito. D-C: S 58° 43′ O, 750,30 m; pone un mojón porque el de Muñiz…"
+  },
+  {
+   "titulo": "Folio 6 vuelto · línea D-E y relevamiento del arroyo",
+   "img": "img/f/172/17.jpg",
+   "fuente": "IMG_0648.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "arrancado — como así mismo todos los de la línea designada con las letras C. F.",
+    "Vuelto al punto D medí con rumbo Norte treinta y un grados diez y siete minutos Oeste (N 31° 17′ O) hasta llegar al arroyo Cañada de la Cruz — tres mil quinientos sesenta y cuatro metros (3564). En esta línea encontré mojones á los mil ciento cincuenta y seis m.ts veinte centímetros (1156,20) — mil quinientos cuarenta y seis el eje de la vía de Tramway Rural (1546) — mil setecientos un metro (1701).",
+    "Cien [?] metros antes de llegar al arroyo levanté una perpendicular á efectos del relevamiento de una longitud de ciento ochenta y cinco m.ts (185) hasta llegar al arroyo punto donde establecí un ángulo de 90° á la derecha con una perpendicular de 200 metros — cuadré á la izquierda y medí hasta el arroyo tres cientos cinco metros (305) volví á cuadrar á la"
+   ],
+   "interpretacion": "…fue «arrancado», como todos los de C-F. D-E: N 31° 17′ O, 3564 m hasta la Cañada de la Cruz, con mojones a 1156,20 y 1701 m y el eje de la vía del Tramway Rural a 1546 m. Cerca del arroyo releva la orilla por perpendiculares: 185 m, 200, 305 y 260,30…"
+  },
+  {
+   "titulo": "Folio 7 · cierre de la 1.ª fracción",
+   "img": "img/f/172/18.jpg",
+   "fuente": "IMG_0648.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: FOJA 7]",
+    "izquierda y medí dos cientos sesenta metros treinta centímetros (260,30) para completar los m.ts 750,30 de frente por el costado lindero á Mariano Moreno y Guglieri [?].— desde el último punto establecí un ángulo de 90° y prolongué una línea en dirección al punto C y medí desde el arroyo con rumbo Sud treinta y un grados diez y siete minutos Este (S 31° 17′ E) tres mil ciento veintidós m.ts veinte centímetros (3122,20)",
+    "El terreno así medido encierra una superficie de dos cientos cincuenta hectáreas ochenta y tres áreas setenta y tres centiáreas (250 h.s 83 a.s 73 c.s).—",
+    "Vuelto nuevamente al punto D de partida procedí á ubicar las partes adjudicadas en esta fracción.",
+    "Gerónima Dobarro",
+    "Del punto D medí con el mismo rumbo que la línea D E. ocho cientos diez y siete"
+   ],
+   "interpretacion": "…completando los 750,30 m de frente contra Mariano Moreno y Guglieri [?]; C-F: S 31° 17′ E, 3122,20 m desde el arroyo. Superficie: 250 ha 83 a 73 ca. Vuelve a D para ubicar los lotes: Gerónima, desde D, 817,50 m…"
+  },
+  {
+   "titulo": "Folio 7 vuelto · lote de Gerónima",
+   "img": "img/f/172/19.jpg",
+   "fuente": "IMG_0649.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "metros cincuenta centímetros punto donde cuadré á la derecha ó sea con rumbo Sud cincuenta y ocho grados cuarenta y tres minutos Oeste (S 58° 43′ O) — colocando un mojón en la intersección de esta línea con la ya establecida F. C.",
+    "Superficie sesenta y una hectáreas treinta y tres áreas setenta centiáreas y veinticinco centímetros de otra (61 H.s 33 a.s 70 c.s 25) — Linderos N E Bernardo Códega — S E Mariano Moreno y Gerónimo Guglieri [?] — S O Salvador Castro y N O María E. A. de Dobarro.",
+    "María E. A. de Dobarro",
+    "Del mojón puesto por el costado que linda con Salvador Castro y que deslinda la fracción que se mide con la de D.a Gerónima medí por la línea C F y con el rumbo ya mencionado — mil cincuenta y siete metros sesenta y tres centímetros (1057,63) donde puse un mojón que"
+   ],
+   "interpretacion": "…y cuadra a S 58° 43′ O hasta C-F. 61 ha 33 a 70 ca 25; linderos NE Bernardo Códega, SE Mariano Moreno y Gerónimo Guglieri [?], SO Salvador Castro, NO María E. A. de Dobarro. María E. A.: desde el mojón sobre C-F mide 1057,63 m…"
+  },
+  {
+   "titulo": "Folio 8 · lote de María E. A. de Dobarro",
+   "img": "img/f/172/20.jpg",
+   "fuente": "IMG_0649.JPG (mitad derecha)",
+   "nota": "La superficie difiere en 60 cm² de la hijuela (79 ha 35 a 43 ca 39).",
+   "lineas": [
+    "[Sello: FOJA 8]",
+    "deslinda esta fracción con la de D.n Manuel — estableciendo á la derecha un ángulo de 90° y prolongando esta nueva línea con rumbo Norte cincuenta y ocho grados cuarenta y tres minutos Este (N 58° 43′ E) coloqué otro mojón en la intersección con la línea D E — Superficie setenta y nueve hectáreas treinta y cinco áreas cuarenta y dos centiáreas y setenta y nueve centímetros de otra (79 h.s 35 a. 42 c. 79). Linderos al N E Nicolás Ormaechea y Bernardo Códega — al S E Gerónima — al S O Salvador Castro y al N O con Manuel Dobarro.",
+    "Manuel Dobarro",
+    "Desde el mojón puesto en el costado de Ormaechea y que deslinda la fracción anteriormente medida y la que se mide, medí en dirección al arroyo Cañada de la Cruz, seis cientos diez y seis metros setenta"
+   ],
+   "interpretacion": "…cuadra a N 58° 43′ E hasta D-E. 79 ha 35 a 42 ca 79; linderos NE Ormaechea y Códega, SE Gerónima, SO Salvador Castro, NO Manuel. Manuel: 616,70 m desde el mojón del costado de Ormaechea…"
+  },
+  {
+   "titulo": "Folio 8 vuelto · lotes de Manuel y Paula",
+   "img": "img/f/172/21.jpg",
+   "fuente": "IMG_0650.JPG (mitad izquierda)",
+   "nota": "Paula recibe 0,38 ha menos que su hijuela (64 ha 25 a 41 ca 69).",
+   "lineas": [
+    "centímetros (616,70) — estableciendo una línea hácia la derecha, con un ángulo de 90°, colocando mojones en este último punto y en el cual la nueva línea corta á la C F.— Superficie cuarenta y seis hectáreas veintisiete áreas diez y seis centiáreas (46 h.s 27 a.s 16 c.s). — Lindando al N E con Nicolás Ormaechea — al S E María E. A. de Dobarro al S O con Salvador Castro y al N O con Paula Dobarro.",
+    "Paula Dobarro.",
+    "Esta fracción queda deslindada de por sí y encierra una superficie de sesenta y tres hectáreas ochenta y siete áreas cuarenta y cuatro centiáreas (63 h. 87 a. 44 c.s) — Lindando al N E con el arroyo Cañada de la Cruz al S E Daniel Morgan y Nicolás Ormaechea al S O con Manuel Dobarro y al N O con Salvador Castro [sic: los rumbos de linderos parecen girados respecto del plano].",
+    "Vuelto al punto C medí en la línea ya"
+   ],
+   "interpretacion": "Manuel: 46 ha 27 a 16 ca (NE Ormaechea, SE María E. A., SO Salvador Castro, NO Paula). Paula queda deslindada «de por sí»: 63 ha 87 a 44 ca; linderos según el texto NE la Cañada, SE Morgan y Ormaechea, SO Manuel, NO Salvador Castro (orientación girada respecto del plano)."
+  },
+  {
+   "titulo": "Folio 9 · 2.ª fracción: el excedente",
+   "img": "img/f/172/22.jpg",
+   "fuente": "IMG_0650.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: FOJA 9]",
+    "establecida y hácia A cuatro cientos veintitrés metros sesenta centímetros (423,60) que corresponden de frente á la fracción de D.n Salvador Castro, hasta llegar al punto B donde puse un mojón por no existir el puesto por el Agrimensor Muñiz. Del punto B al A, resultó haber una distancia de dos cientos cuarenta y dos metros treinta y ocho centímetros, habiendo pues en este frente un excedente de un metro sesenta centímetros (1,60).",
+    "Vuelto al punto B. medí hácia la cañada de la Cruz con rumbo Norte treinta y un grados diez y siete minutos Oeste (N 31° 17′ O), dos mil nueve cientos setenta y cuatro metros hasta llegar al arroyo,— debiendo encontrado [sic] en esta línea un mojón á los 1300 m.ts setenta centímetros (0,70) á la izquierda y otro catorce metros (14) antes de llegar al arroyo que se encuentra á dos m.ts cuarenta centímetros (2,40) á la derecha.— frente á este mojón puse otro en la línea que llevaba. Además puse otro á los dos mil cuatro-"
+   ],
+   "interpretacion": "Desde C mide 423,60 m (frente de Salvador Castro) hasta B, donde repone el mojón de Muñiz que no existe. B-A: 242,38 m, «un excedente de un metro sesenta». B-G: N 31° 17′ O, 2974 m hasta el arroyo; encuentra un mojón a 1300 m (0,70 a la izquierda) y otro 14 m antes del arroyo (2,40 a la derecha)…"
+  },
+  {
+   "titulo": "Folio 9 vuelto · lotes de Ramón y de la viuda",
+   "img": "img/f/172/23.jpg",
+   "fuente": "IMG_0651.JPG (mitad izquierda)",
+   "nota": "353,60 debería ser 353,06 (2809 − 2455,94): trasposición de cifras.",
+   "lineas": [
+    "cientos cincuenta y cinco m.ts noventa y cuatro centímetros (2455,94) para deslindar la fracción de D.n Ramón y D.a María E. A. de Dobarro. En este último punto tracé con rumbo Sud cincuenta y ocho grados cuarenta y tres minutos Oeste (S 58° 43′ O) una línea de dos cientos cuarenta y dos m.ts treinta y cuatro centímetros (242,34) donde coloqué otro mojón. Desde este y con un ángulo de 90° medí, ó mejor dicho prolongué una línea hasta llegar al punto H en la orilla del arroyo — midiendo desde este y con rumbo Sud treinta y un grados diez y siete minutos Este (S 31° 17′ E) hasta llegar al mojón de fierro letra H [sic, ¿A?] dos mil ocho cientos nueve metros (2809) — En esta línea á los ciento cinco metros cruzé el eje de la vía del Tramway Rural.— á los tres cientos cincuenta y tres m.ts sesenta centímetros (353,60) encontré el mojón que puse anteriormente y á los setecientos setenta y tres m.ts (773) y mil nueve cientos cuarenta y tres m.ts (1943) encontré mojones de fierro.",
+    "Terminada así la operación resultó para"
+   ],
+   "interpretacion": "…y pone otro a 2455,94 m para separar a Ramón de la viuda; traza a S 58° 43′ O 242,34 m y sigue a 90° hasta la orilla (punto I). Desde allí, S 31° 17′ E, 2809 m hasta el mojón de fierro A: a 105 m cruza la vía del Tramway Rural, a 353,60 m el mojón recién puesto y a 773 y 1943 m mojones de fierro."
+  },
+  {
+   "titulo": "Folio 10 · superficies de la 2.ª fracción y circular",
+   "img": "img/f/172/24.jpg",
+   "fuente": "IMG_0651.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: FOJA 10]",
+    "toda la fracción una superficie de setenta hectáreas siete áreas veinticinco centiáreas (70 h. 07. 25) y para la de",
+    "Ramón Dobarro",
+    "Cincuenta y nueve hectáreas cincuenta y una áreas setenta y dos centiáreas (59 h. 51 a. 72 c.) — Lindando al N E con María E. A. de Dobarro al S E con Salvador Castro — al S O con Gerónimo Guglieri [?] y al N O con el terreno de Ruiz",
+    "María E. A. de Dobarro",
+    "Diez hectáreas cincuenta y cinco áreas cincuenta y tres centiáreas (10 h. 55 a. 53 c.s) — Lindando al N E con la «Cañada de la Cruz» — al S E con Salvador Castro — al S O con Ramón Dobarro y al N O con Ruiz.",
+    "Ningún lindero presenció la operación razón por la cual no se levantó acta.",
+    "Los rumbos son verdaderos.",
+    "La circular fué firmada por José M.ª Ormaechea por su señor padre — Nicolás Gariboto [?] por el S.r Ruiz — Bernardo Códega — Mariano Moreno — Daniel Morgan y Gerónimo"
+   ],
+   "interpretacion": "2.ª fracción: 70 ha 07 a 25 ca; Ramón 59 ha 51 a 72 ca; María E. A. 10 ha 55 a 53 ca. «Ningún lindero presenció la operación razón por la cual no se levantó acta.» Rumbos verdaderos. Firman la circular José M.ª Ormaechea por su padre, Nicolás Gariboto [?] por Ruiz, Bernardo Códega, Mariano Moreno, Daniel Morgan y Gerónimo…"
+  },
+  {
+   "titulo": "Folio 10 vuelto · firma y vista del Departamento",
+   "img": "img/f/172/25.jpg",
+   "fuente": "IMG_0652.JPG",
+   "nota": "A la derecha, el plano plegado (f. 11). No hay auto de aprobación.",
+   "lineas": [
+    "nimo Guglieri [?] por ello.",
+    "La Plata Marzo 15/96",
+    "A. M. Bourdet",
+    "[Sello: Departamento de Ingenieros de la Provincia · Entrada · 26 Marz. 96]",
+    "Señor Juez",
+    "El Departamento de Ingenieros ha examinado la mensura i división practicada por el Agrimensor Bourdet en el campo de propiedad de la testamentaria de Don Manuel Dobarro, situado en el partido de Giles i no tiene que observar respecto de la operación geométrica, por lo que puede ser aprobada por V. S.",
+    "Abril 28 de 1896.",
+    "J. [?] Lagos [?] — Julián Romero — Benjamín Sal [?] — Ángel Etcheverry — J. Pinguelet [?]",
+    "[A lápiz, al pie: suma 750 / 423 / 1173 / 242 / 1415 [?] (frentes de Dobarro 1.ª, Salvador Castro y Dobarro 2.ª sobre la Cañada de la Cruz)]",
+    "[A la derecha, el plano plegado con sello FOJA 11]"
+   ],
+   "interpretacion": "…Guglieri [?]. «La Plata Marzo 15/96 · A. M. Bourdet»; entrada 26/3/1896. Vista del Departamento de Ingenieros (28/4/1896): nada que observar a la operación geométrica en el campo de «la testamentaria de Don Manuel Dobarro»; puede ser aprobada. Firman J. [?] Lagos [?], Julián Romero, Benjamín Sal [?], Ángel Etcheverry y J. Pinguelet [?]. Suma a lápiz de los frentes 750 + 423 + 242."
+  },
+  {
+   "titulo": "Plano de mensura y división (Bourdet, marzo de 1896)",
+   "img": "img/f/172/03.jpg",
+   "fuente": "IMG_0653.JPG",
+   "nota": "",
+   "lineas": [
+    "[Plano en tela, f. 11, sin título ni escala numérica escrita; escala gráfica de 0 a 1500 «Metros»; flecha de norte (dos flechas: arriba a la izquierda y abajo a la derecha). Firma: A. M. Bourdet / Marzo de 1896. Sello FOJA 11.]",
+    "Fracción 1.ª (abajo): rectángulo D-C (750,30, rumbo «N 58° 43′ E» escrito sobre el costado C-D, con marca 148 donde termina Gerónimo Giliere y empieza Mariano Moreno) y D-E «N 37° 17′ O» [sic; a lápiz debajo: «31° 17′ O»] 3564, con progresivas 817,50 · 1156,20 · 1546 (vía) · 1701 · 1875,13 · 2491,84; línea C-F «S 37° 17′ E» [sic] 3122,20 con marcas 1057,63 · 616,70 · 630,37 [?] y 58,20 [?] junto a F; relevamiento del arroyo entre E y F por perpendiculares 100 · 185 · 200 · 305 · 200 · 260,30. Lotes: GERÓNIMA DOBARRO Sup. 61 h.s 33 a.s 70 c.s 25 · MARÍA E. A. de DOBARRO Sup. 79 h.s 35 a.s 42 c.s 79 · MANUEL DOBARRO Sup. 46 h.s 27 a.s 16 c.s 00 · PAULA DOBARRO Sup. 63 h.s 87 a.s 44 c.s (la palabra DOBARRO corre en letras espaciadas a lo largo de los cuatro lotes).",
+    "Fracción 2.ª (arriba): B-G «N 31° 17′ O» 2974 (mojón a 1300 y marca 2455,94); A-I «S 37° 17′ E» [sic] 2809 con marcas 1943 · 773 · 353 [?] · 105 (vía); A-B 242,34; B-C 423,60. Lotes: RAMÓN DOBARRO Sup. 59 h.s 51 a.s 72 c.s · MARÍA E. A. de DOBARRO Sup. 10 h.s 55 a.s 53 c.",
+    "Entre ambas: SALVADOR CASTRO. Linderos: RUIZ (al SO de la 2.ª, con una línea oblicua que remata en la flecha de norte); GERÓNIMO GILIERE y MARIANO MORENO (cabecera SE); BERNARDO CÓDEGA, NICOLÁS ORMAECHEA y DANIEL MORGAN (al NE de la 1.ª, separados por líneas de puntos); CAÑADA DE LA CRUZ (curso en azul de I a E, con los puntos I, G, F, E). Línea roja de trazos: «Tramway Rural», que corta D-E y A-I y atraviesa el campo de Salvador Castro. [A lápiz sobre el lote de Ramón: «Ruiz» [?].]"
+   ],
+   "interpretacion": "Plano en tela con escala gráfica de 1500 m: las dos fracciones con Salvador Castro en medio, los seis lotes con su superficie, la Cañada de la Cruz en azul, el relevamiento de la orilla y la línea roja del Tramway Rural. Linderos Ruiz, Gerónimo Giliere, Mariano Moreno, Bernardo Códega, Nicolás Ormaechea y Daniel Morgan. Rumbo de D-E escrito «N 37° 17′ O», corregido a lápiz «31° 17′ O»."
+  },
+  {
+   "titulo": "Plano · detalle izquierdo",
+   "img": "img/f/172/04.jpg",
+   "fuente": "IMG_0654.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma de detalle de la mitad izquierda del plano (lotes Gerónima, María E. A., Manuel y fracción de Ramón); no se transcribe de nuevo. Sirvió para leer las progresivas y el lápiz «31° 17′ O».]"
+   ],
+   "interpretacion": "Toma de detalle: Ramón, Gerónima, María E. A. y Manuel; progresivas de D-E y la corrección a lápiz."
+  },
+  {
+   "titulo": "Plano · detalle derecho",
+   "img": "img/f/172/05.jpg",
+   "fuente": "IMG_0655.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma de detalle de la mitad derecha del plano (Paula, María E. A. 2.ª, Cañada de la Cruz, Daniel Morgan); no se transcribe de nuevo. Sirvió para leer el relevamiento del arroyo 100-185-200-305-200-260,30 y las marcas 105 y 2974.]"
+   ],
+   "interpretacion": "Toma de detalle: Paula, María E. A. (2.ª fracción), la cañada con sus perpendiculares y Daniel Morgan."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de mensura y división de la sucesión Dobarro (Bourdet, marzo de 1896)",
+   "img": "img/f/172/03.jpg",
+   "fuente": "IMG_0653.JPG (detalles IMG_0654-0655)",
+   "orientacion": "flecha de norte en diagonal; las fajas S 31° 17′ E quedan horizontales y la Cañada de la Cruz a la derecha",
+   "interpretacion": "Plano a tinta negra, roja y azul sobre tela, sin escala numérica (escala gráfica de 0 a 1500 m), firmado «A. M. Bourdet · Marzo de 1896». Dos rectángulos alargados separados por el campo de Salvador Castro: abajo la 1.ª fracción, partida en cuatro lotes perpendiculares a la faja (Gerónima, María E. A., Manuel y Paula, con la palabra DOBARRO en letras espaciadas que los atraviesa); arriba la 2.ª, partida a lo largo en Ramón (59,52 ha) y un retazo de la viuda junto al arroyo (10,56 ha). La cañada, en azul, corta en diagonal las cabeceras NO; en la de la 1.ª se dibujan las perpendiculares del relevamiento (100, 185, 200, 305, 200, 260,30). La línea roja de trazos del Tramway Rural cruza en diagonal toda la composición. El dibujante escribió «37° 17′» en tres rumbos que el texto da como 31° 17′; un lápiz corrige el de D-E. No dibuja casas, montes ni alambrados.",
+   "referencias": [
+    [
+     "A · B · C · D",
+     "Línea de frente SE (S 58° 43′ O): A mojón de fierro, B y C repuestos; D-C 750,30, C-B 423,60 (Salvador Castro), B-A 242,34"
+    ],
+    [
+     "E · F",
+     "Puntos de la 1.ª fracción sobre la Cañada de la Cruz (D-E 3564, C-F 3122,20)"
+    ],
+    [
+     "G · I",
+     "Puntos de la 2.ª fracción sobre la cañada (B-G 2974, A-I 2809)"
+    ],
+    [
+     "817,50 · 1875,13 · 2491,84",
+     "Divisorias de los lotes sobre D-E; 1156,20 y 1701 mojones viejos; 1546 eje del tramway"
+    ],
+    [
+     "1300 · 2455,94",
+     "Mojón hallado y divisoria Ramón / María E. A. sobre B-G"
+    ],
+    [
+     "105 · 353 · 773 · 1943",
+     "Tramway, divisoria y mojones de fierro sobre A-I"
+    ],
+    [
+     "Tramway Rural",
+     "Línea roja de trazos, rumbo aproximado N 82° O"
+    ],
+    [
+     "Linderos",
+     "Ruiz, Gerónimo Giliere, Mariano Moreno, Bernardo Códega, Nicolás Ormaechea, Daniel Morgan"
+    ],
+    [
+     "Lápiz",
+     "«31° 17′ O» bajo D-E; «Ruiz» [?] sobre el lote de Ramón"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle izquierdo",
+   "img": "img/f/172/04.jpg",
+   "fuente": "IMG_0654.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "Lotes de Ramón, Gerónima, María E. A. y Manuel; progresivas de D-E y el «37°» corregido a lápiz.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle derecho: la Cañada de la Cruz",
+   "img": "img/f/172/05.jpg",
+   "fuente": "IMG_0655.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "Lote de Paula con el relevamiento de la orilla, el retazo de la viuda en la 2.ª fracción y el campo de Daniel Morgan.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Campo sin construcciones declaradas: ni población ni puesto ni alambrado en el texto ni en el plano, aunque en 1878 Muñiz había registrado la población de Dobarro y la tapera de Sinforoso/Sinforosa González (103). El agua organiza la forma: ambas fajas tienen su frente NO sobre la Cañada de la Cruz, cuya orilla irregular Bourdet releva por perpendiculares (185, 305 y 260,30 m de profundidad) porque no puede medirla en línea recta. Dos cruces con la vía del Tramway Rural: a 1546 m de D sobre D-E y a 105 m de la orilla sobre A-I; reconstruida, la vía corre a N 82° O aproximadamente, y corta el lote 1.º de la viuda y su retazo de la 2.ª fracción. La desaparición de los mojones de Muñiz («arrancados», «por no existir») en sólo 18 años indica un campo trabajado, quizá arado o pastoreado sin cercos."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Edictos y circular, pero «ningún lindero presenció la operación razón por la cual no se levantó acta». La circular la firman José M.ª Ormaechea por su padre Nicolás, Nicolás Gariboto [?] por Ruiz, Bernardo Códega, Mariano Moreno, Daniel Morgan y Gerónimo Guglieri [?]: el ritual se reduce al papel. La partición viene decidida por la cuenta particionaria del contador Juan B. Gibert [?], aprobada el 22/8/1895; el agrimensor sólo la ubica, y donde el terreno no coincide (excedente de 1,60 m en la 2.ª faja, orilla del arroyo en la 1.ª) ajusta los lotes extremos sin consultar: Ramón gana 0,39 ha y Paula pierde 0,38 respecto de sus hijuelas. El juez es de la Capital (La Plata), no del Departamento del Centro."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Teodolito y banderas para alinear D-C-B-A desde el mojón de fierro A. Rumbos «verdaderos» (N 31° 17′ O), sin dar la variación; Muñiz había usado S 31° 22′ E en 1878 (5′ de diferencia). Verificado en python: 2.ª fracción como trapecio 242,34 × (2974 + 2809)/2 = 70,0726 ha (declarada 70,0725); Ramón 2455,94 × 242,34 = 59,5172 (exacto); retazo de la viuda 10,5553 (exacto). 1.ª fracción con el relevamiento del arroyo (E, perpendiculares 100-185-200-305-200-260,30, F a 58,20 m) da 250,7274 ha contra 250,8373 declaradas: 0,11 ha de diferencia, toda en el lote de Paula (63,7654 calculadas contra 63,8744). Gerónima 817,50 × 750,30 = 61,3370 exacto; María E. A. 1057,63 × 750,30 = 79,3540 (3 m² de diferencia); Manuel 46,2710 (6 m²). Errores de copia: 353,60 por 353,06 (2809 − 2455,94); B-A 242,38 en un folio y 242,34 en otro; «mojón de fierro letra H» por A; «37°» por 31° en el plano."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Los títulos están en varas y la mensura en metros. Verificado: el frente de la 1.ª fracción suma 500 v (Montiel, 1862) + 100 v (Feliciana Sosa, 1874) + 266 2/5 v (Ciriaco Castro, 1870) = 866 2/5 v × 0,866 = 750,30 m, la cifra exacta de Muñiz y de Bourdet. Las 266 2/5 v de Castro son dos suertes de 133 1/5 v (la propia y la permutada con su hermano Juan). La 2.ª faja: 278 v = 240,75 m; Bourdet mide 242,34 (1,60 m de excedente). Salvador Castro tiene 423,60 m = 489 v, igual que en 098. En la permuta de 1870, 115,446 m = 133 1/5 v (vara de 0,8667 m), pero 3420,70 m son 3950 v y no las 3900 que dice la copia. Las hijuelas suman 320,7793 ha y la mensura 320,9098: 0,13 ha de más."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Dobarro arma su campo con cuatro compras a tres familias de antiguos ocupantes de la Cañada de la Cruz: (1) la suerte Monsalvo → José de la Rosa (1834) → Bernabé Montiel (1841) → su hija Martina Montiel de Chiquirrin, que la vende con poder de su marido (1862); (2) la suerte de Eusebia Monsalvo → Feliciana Sosa (1844), vendida en dos tramos en 1874 (el fondo en enero, el frente sobre el arroyo en julio); (3) dos suertes de los Castro (testamentaría de Juan Castro, hijuela de 1858, permuta entre hermanos de 1870) que Ciriaco vende en 1870; (4) otra suerte de Ciriaco por herencia materna (1872). Las compras ante juez de paz se escrituran recién en 1887, poco antes de la muerte de Dobarro (14/11/1889). En la partición la viuda recibe dos piezas (79,35 + 10,56 ha) y cada hijo una: el reparto no es igualitario (46 a 64 ha) y combina tiras transversales en la 1.ª fracción con una longitudinal en la 2.ª."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "103 (Muñiz, 1878-80): las mismas dos fajas; Bourdet repone sus mojones arrancados. Las longitudes cambian: D-E 3564 contra 3466 de Muñiz, C-F 3122,20 contra 3066, B-G 2974 contra 2966; sólo A-I (2809) coincide; la diferencia está en la orilla de la cañada. Los títulos de 103 (Monsalvo/Sosa, La Rosa/Montiel, Ciriaco Castro) se completan aquí con fechas y escribanos. 104 (Nicolás Ormaechea, 1878): en 1896 su faja lindera ya está repartida entre Bernardo Códega (SE), Ormaechea (centro) y Daniel Morgan (NO, junto al arroyo). 098 (Salvador Castro, Iparraguirre 1879): faja intermedia de 423,6 m, idéntica. 097 y 079-081 (testamentaría Tormy/Torny): los «herederos de Gerónimo Torny» linderos NE de las suertes Sosa y Castro. 171 y 167 (Tramway Rural de Lacroze): otro campo atravesado por la vía en 1896. 157-171: el juez Arturo H. Gamboa y los firmantes del Departamento (Lagos, Romero, Etcheverry, Pinguelet) se repiten."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Texto completo fs. 1-10 vta., plano f. 11 y vista del Departamento del 28/4/1896; falta el auto de aprobación. Preguntas: ¿por qué Ormaechea vendió parte de su faja a Códega y Morgan antes de 1896? ¿Qué pasó con la población de Dobarro de 1878? ¿Por qué la viuda recibe un retazo de 10,56 ha sobre el arroyo en la 2.ª fracción (¿aguada?)? ¿«Eulogia A.» es Arriola, apellido que aparece en el título de 1834? El nombre del lindero SE oscila entre Guglieri, Giliere y Guilier (103). Lecturas dudosas: Jacinto [?] Monsalvo, Domingo Tuñones [?], Vicente Cuselles [?], Pedro M. Lasallares [?], Antonio H. Sala [?], Juan B. Gibert [?], Nicolás Gariboto [?], Benjamín Sal [?], «Cien [?] metros antes de llegar al arroyo»."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "José Manuel Dobarro",
+   "rol": "Causante",
+   "texto": "Inmigrante gallego (según 103), compra entre 1862 y 1874 cuatro suertes sobre la Cañada de la Cruz a Martina Montiel, Feliciana Sosa y Ciriaco Castro; Muñiz las mide en 1878. Escritura las compras en 1887 y muere el 14/11/1889.",
+   "fuentes": "Este duplicado; fichas 098, 103, 104."
+  },
+  {
+   "nombre": "María Eulogia A. de Dobarro",
+   "rol": "Viuda, heredera",
+   "texto": "Recibe la hijuela 1.ª: 79,35 ha en la 1.ª fracción y 10,56 ha junto a la cañada en la 2.ª. El texto la llama «Eulogia A.» y «María E. A.».",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Gerónima, Manuel, Paula y Ramón Dobarro",
+   "rol": "Herederos",
+   "texto": "Hijos del causante: Gerónima 61,34 ha (contra Moreno), Manuel 46,27, Paula 63,87 (sobre la cañada) y Ramón 59,52 ha en la 2.ª fracción, contra Ruiz.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Eusebia, Luis Antonio, Gregorio, Jacinto [?] y Manuel Monsalvo; María Arriola",
+   "rol": "Antiguos dueños",
+   "texto": "Familia de las suertes de la Cañada de la Cruz. Luis Antonio, hijo de María Arriola, vende 500 v a José de la Rosa (1834); Eusebia vende 100 v a Feliciana Sosa (1844).",
+   "fuentes": "Este duplicado; fichas 003, 030, 103."
+  },
+  {
+   "nombre": "José de la Rosa, Bernabé Montiel, Martina Montiel y José Chiquirrin",
+   "rol": "Cadena de la suerte de 500 v",
+   "texto": "La Rosa compra en 1834 y vende a Montiel en 1841; Martina, hija de Bernabé, hereda en 1862 (hijuela del juez de paz de Luján Cruz Casas) y vende a Dobarro por medio de su esposo Chiquirrin (escribano José V. Cabral). La madre aparece como María Juliana López o María López de Montiel.",
+   "fuentes": "Este duplicado; ficha 103."
+  },
+  {
+   "nombre": "Feliciana Sosa",
+   "rol": "Vendedora (1874)",
+   "texto": "Compra en 1844 a Eusebia Monsalvo 100 v por legua y media y la vende a Dobarro en dos tramos en 1874; el de enero se describe desde el mojón «al lado de la tapera de Sinforosa González».",
+   "fuentes": "Este duplicado; fichas 103, 104."
+  },
+  {
+   "nombre": "Ciriaco Castro (de La Madrid), Martiniano, Juan, Salvador y Gregorio Castro",
+   "rol": "Vendedores y linderos",
+   "texto": "Hijos de Juan Castro y de una La Madrid (Lorenza La Madrid de Castro, ficha 007). Ciriaco recibe en 1858 una hijuela de 133 1/5 × 7900 v, permuta con Juan (1870) y vende a Dobarro 266 2/5 v (1870) y 278 v (1872). Salvador es el lindero entre las dos fracciones.",
+   "fuentes": "Este duplicado; fichas 007, 098, 103."
+  },
+  {
+   "nombre": "Nicolás Ormaechea y José M.ª Ormaechea",
+   "rol": "Linderos ne",
+   "texto": "Nicolás compra y permuta su faja en 1877-78 (104); en 1896 firma por él su hijo José M.ª.",
+   "fuentes": "Este duplicado; fichas 104, 160."
+  },
+  {
+   "nombre": "Bernardo Códega y Daniel Morgan",
+   "rol": "Linderos ne",
+   "texto": "Aparecen por primera vez: ocupan los extremos SE y NO de la antigua faja de Ormaechea. Morgan quizá emparentado con los Morgan de 020, 038 y 168.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Mariano Moreno y Gerónimo Guglieri [?] (Giliere, Guilier)",
+   "rol": "Linderos se",
+   "texto": "Los mismos de la cabecera SE en 1878 (103-104). Firman la circular.",
+   "fuentes": "Este duplicado; fichas 098, 103, 104."
+  },
+  {
+   "nombre": "Ruiz e Isidro Cucullo",
+   "rol": "Linderos so y no",
+   "texto": "Ruiz linda con la 2.ª fracción (firma por él Nicolás Gariboto [?]); Cucullo figura sólo en la hijuela de 1895 junto al retazo de la viuda.",
+   "fuentes": "Este duplicado; fichas 103, 115."
+  },
+  {
+   "nombre": "Arturo H. Gamboa, Eliseo Parodi y Juan B. Gibert [?]",
+   "rol": "Juez, secretario y contador",
+   "texto": "Gamboa, juez civil y comercial de La Plata, aprueba la partición (22/8/1895) y comisiona la mensura; Parodi es su secretario y Gibert [?] el contador partidor.",
+   "fuentes": "Este duplicado; fichas 155 y 168 (Gamboa)."
+  },
+  {
+   "nombre": "Pedro A. Rodríguez, Pedro M. Lasallares [?], Antonio H. Sala [?], Cruz Casas",
+   "rol": "Jueces de paz",
+   "texto": "Autorizan las ventas de 1844, 1834/1841 y 1874 en Giles y la hijuela de 1862 en Luján (Casas).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "José V. Cabral, Victoriano Vila, Antonio Ruiz, Juan Beltrán, Cornelio Gomez [?]",
+   "rol": "Escribanos",
+   "texto": "Cabral (Buenos Aires, 1862), Vila (1858), Ruiz (Luján, 1870), Beltrán (Pergamino, 1870) y el escribano de Giles de 1887, probablemente Cornelio Games (ficha 171).",
+   "fuentes": "Este duplicado; ficha 171."
+  },
+  {
+   "nombre": "José María Muñiz",
+   "rol": "Agrimensor anterior",
+   "texto": "Midió las dos fajas en 1878; sus mojones ya no existen en 1896.",
+   "fuentes": "Fichas 034, 103, 104."
+  },
+  {
+   "nombre": "A. M. Bourdet",
+   "rol": "Agrimensor",
+   "texto": "Firma en La Plata el 15/3/1896; primer duplicado de Giles a su nombre. Prosa con rumbos escritos en letras y cifras, uso de teodolito y relevamiento de orillas por perpendiculares. Sin datos biográficos hallados (una búsqueda web sin resultados útiles).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "J. [?] Lagos [?], Julián Romero, Benjamín Sal [?], Ángel Etcheverry, J. Pinguelet [?]",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firman la vista del 28/4/1896. Lagos, Romero, Etcheverry y Pinguelet (el «Pinguett [?]» de 171) se repiten; Benjamín Sal [?] es nuevo.",
+   "fuentes": "Fichas 157-171."
+  }
+ ],
+ "portadilla": {
+  "img": "",
+  "fuente": "transcripción · IMG_0641.JPG",
+  "lineas": [
+   "San Andrés de Giles / N.º 172 [corregido sobre otra cifra] / Duplicado de la dili- / gencia de mensura de dos fraccio- / nes de terreno ubicadas en San A. / de Giles y de la Sucesión de D.n / José Manuel Dobarro. / [abajo, a lápiz:] Legajo [?] / 1896. / 5. 41. 95. [?] / [Sello: Departamento de Ingenieros · Entrada · 26 Marz. 96]"
+  ]
+ },
+ "titulo": "Sucesión de José Manuel Dobarro",
+ "estado": "Transcripta (23 hojas, 91 renglones), 3 láminas"
+}

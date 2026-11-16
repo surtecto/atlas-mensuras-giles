@@ -1,0 +1,692 @@
+{
+ "carpeta": "171",
+ "carpeta_nombre": "Carpeta 171",
+ "archivo": "Ficha 171 - Herederos de Pablo Bustos (1896).docx",
+ "resumen": {
+  "N.º de duplicado": "171 (Partido de San Andrés de Giles)",
+  "Propietario / solicitante": "Herederos de Pablo Bustos (seis hijas)",
+  "Agrimensor": "Ingeniero César A. Spotti (La Plata)",
+  "Año": "1895-1896",
+  "Fecha de la diligencia": "dic. 1895 – firma 14/2/1896; entrada D. I. 15/2/1896; vista 3/3/1896",
+  "Ubicación": "Entre Kenny, Mezquita, Belson, Villafañe, Carry y Maxwell; camino Giles–Carmen de Areco",
+  "Orden judicial": "Juez de 1.ª instancia del Departamento del Centro (sin nombre en la copia)",
+  "Vendedor / antecesor": "Estado → Pedro José Rodríguez → Ramón Bustos (1838) → Pablo Bustos (hijuela 1863)",
+  "Linderos citados": "Kenny, Mezquita, E. Rodríguez, Maxwell, Belson, Villafañe, Carry; Tramway Rural",
+  "Medidas": "AB 1973, BC 3453, CD 757, DE 1955, EF 706, FG 1155, GH 988, HI 467, IJ 1164, JA 2063 m",
+  "Rumbos": "N 44° 31′ E / S 45° 33′ E / S 44° 7′ O / N 45° 32′ O…; astronómicos, var. 8° 31′ NE",
+  "Referencia de archivo": "AHG PBA, duplicado 171"
+ },
+ "metricas": {
+  "superficie_ha": "998,1837 (polígono total); 827,1334 de la sucesión + 165,6503 permuta + 1,5679 tramway + 3,8321 sobrante",
+  "hitos": "mojones de piedra en H; de madera nuevos en a, c, f, e, g, h, k, i, j; mojón de madera L en un alambrado mal puesto; alambrados en BC, CD, DE, EF, FL, MN, KN y la zona del tramway",
+  "aguas": "ninguna mencionada"
+ },
+ "sintesis": "División del campo heredado por Pablo Bustos de su padre Ramón (hijuela de 1863: 11.050.000 v², parte de la legua comprada en 1838 a Pedro José Rodríguez). El ingeniero César A. Spotti mide primero el conjunto (998,18 ha, cierre de 2,5 cm), que incluye una faja de 165,65 ha permutada en 1886 con Juana Josefa Bustos y la vía del Tramway Rural vendida a Lacroze; reparte 827,13 ha en seis lotes para seis hijas, dos líneas maternas (Rodríguez y Alderete) con 413,57 ha exactas cada una. Detecta un alambrado mal puesto contra Villafañe, que corrige con la mensura de Schuster, y carga un sobrante de 3,83 ha en el lote de Matilde. «La población» queda a Erlinda por testamento.",
+ "caratula": {
+  "img": "img/f/171/01.jpg",
+  "fuente": "",
+  "campos": []
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · presentación y título de 1838",
+   "img": "img/f/171/08.jpg",
+   "fuente": "IMG_0618.JPG",
+   "nota": "Hoja suelta acostada; sello «FOJA 1». El duplicado 170 llama al vendedor «Pablo José Rodríguez»; la ficha 111 confirma «Pedro José».",
+   "lineas": [
+    "[Sello: FOJA 1]",
+    "Señor Presidente del Departamento de Ingenieros.",
+    "El ingeniero que suscribe autorizado por el Señor Juez de primera instancia del departamento del Centro, para medir y dividir el terreno de campo perteneciente á la sucesión de Don Pablo Bustos, situado en el partido de San Andrés de Giles, habiendo efectuado las operaciones indicadas, somete á examen de ese Departamento los planos y correspondiente diligencia de mensura.",
+    "Estracto de títulos.",
+    "Junio 6 de 1838.— Con esta fecha y ante el escribano Don Luis Castañaga, el Señor Pedro José Rodríguez vendió á Don Ramón Bustos un terreno de estancia situado en el partido de San Andrés de Giles, compuesto de una legua cuadrada, lindando"
+   ],
+   "interpretacion": "El ingeniero, autorizado por el juez de 1.ª instancia del Departamento del Centro «para medir y dividir» el campo de la sucesión de Pablo Bustos, somete al Departamento de Ingenieros planos y diligencia. Extracto de títulos: el 6/6/1838, ante el escribano Luis Castañaga, Pedro José Rodríguez vende a Ramón Bustos una legua cuadrada de estancia en Giles."
+  },
+  {
+   "titulo": "Folio 1 vuelto · linderos de 1838, hijuela de 1863 y permuta de 1886",
+   "img": "img/f/171/09.jpg",
+   "fuente": "IMG_0619.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "do por el Sud Oeste con Bartolo Saraví [?] y Don José Rodríguez, por el Sud Este con Don Guillermo Aguirre, por el Nord Este con más terreno del vendedor quien lo hubo por compra que hizo al Estado, según escritura de fecha 19 de Mayo de 1838 ante el escribano de Gobierno Don José Barabillaso [?] (¿Basavilbaso?).",
+    "25 de Noviembre de 1863.— Con esta fecha se adjudica, ante el escribano Don Abelardo Baez, á Don Pablo Bustos por herencia de Don Ramón Bustos, una fracción del campo que espresa el anterior estracto, compuesta de once millones cincuenta mil varas cuadradas, siendo los linderos, por el Norte Don Francisco Duberty, por el Este Doña Ceferina Bustos, al Sud Luisa Bustos de León y Don José Bustos.",
+    "Enero 20 de 1886.— Con esta fecha ante el escribano Don Cornelio Games, el Señor Pablo Bustos permutó con Doña Juana"
+   ],
+   "interpretacion": "La legua de 1838 linda SO con Bartolo Saraví [?] y José Rodríguez, SE con Guillermo Aguirre y NE con más tierra del vendedor, que la había comprado al Estado (escritura del 19/5/1838 ante el escribano de Gobierno José Barabillaso [?], seguramente Basavilbaso). 25/11/1863: en la testamentaría de Ramón Bustos (escribano Abelardo Báez) se adjudican a Pablo Bustos 11.050.000 v² (828,70 ha), con linderos N Francisco Duberty, E Ceferina Bustos, S Luisa Bustos de León y José Bustos. 20/1/1886, escribano Cornelio Games: Pablo permuta con Juana Josefa Bustos…"
+  },
+  {
+   "titulo": "Folio 2 · la permuta y la venta a Lacroze",
+   "img": "img/f/171/10.jpg",
+   "fuente": "IMG_0619.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: FOJA 2]",
+    "Josefa Bustos una fracción del campo á que se refiere el anterior estracto, compuesta de un millón seiscientos cincuenta y seis mil quinientos tres metros cuadrados, lindando al Nord Este con Don Pedro Kenny y Don Francisco Duberty hoy Don Marcelino Mezquita, al Nord Oeste con Don Emiliano [?] Rodríguez, al Sud Oeste con Don José Maxwell y al Sud Este con más terreno del mismo Bustos. La fracción de campo perteneciente á Doña Juana Josefa Bustos, la que permuta con la anterior, consta de igual superficie y sus linderos son: por el Nord Este Don Pablo Bustos, por el Nord Oeste Don José Maxwell, al Sud Este Doña Matilde Bustos de Villafañe y al Sud Oeste Don Bernardo Carry.",
+    "Noviembre 5 de 1892.— Con esta fecha Don Pablo Bustos vendió á Don Federico Lacroze,"
+   ],
+   "interpretacion": "…una fracción de 1.656.503 m² que linda NE con Pedro Kenny y Francisco Duberty «hoy» Marcelino Mezquita, NO Emiliano [?] Rodríguez, SO José Maxwell y SE más tierra de Bustos, por otra de igual superficie de Juana Josefa (linderos NE Pablo Bustos, NO José Maxwell, SE Matilde Bustos de Villafañe, SO Bernardo Carry). 5/11/1892: Pablo Bustos vende a Federico Lacroze…"
+  },
+  {
+   "titulo": "Folio 2 vuelto · venta al Tramway y hijuela 1",
+   "img": "img/f/171/11.jpg",
+   "fuente": "IMG_0620.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "una superficie de quince mil seiscientos setenta y nueve metros cuadrados.",
+    "Diciembre 21 [?] de 1895.— Con esta fecha fué aprobada por el Señor Juez de primera instancia del Departamento del Centro el proyecto de división del terreno del Señor Bustos, hoy de sus herederos, adjudicándoselé á estos en la siguiente forma, según lo indican las respectivas hijuelas.",
+    "Hijuela 1.ª A Doña Matilde Bustos y Rodríguez se le adjudica una fracción compuesta de ciento veinte hectáreas noventa y ocho áreas y quince centiáreas, cuyos linderos son: por el Sud Este con la misma adjudicataria y campo que perteneció á Doña Susana Bustos, al Nord Este con terreno que se adjudica á Doña Virginia Bustos, al Nord Oeste con terreno que se adjudica á Doña Susana Bustos y por el Sud Oeste con Don Bernardo Carry."
+   ],
+   "interpretacion": "…15.679 m² (la zona de la vía del Tramway Rural). 21 [?]/12/1895: el juez del Centro aprueba el proyecto de división entre los herederos. Hijuela 1, Matilde Bustos y Rodríguez: 120 ha 98 a 15 ca entre la misma adjudicataria y «campo que perteneció á Doña Susana Bustos» (SE), Virginia Bustos (NE), Susana Bustos (NO) y Bernardo Carry (SO)."
+  },
+  {
+   "titulo": "Folio 3 · hijuelas 2 y 3",
+   "img": "img/f/171/12.jpg",
+   "fuente": "IMG_0620.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: FOJA 3]",
+    "Hijuela N.º 2.— A Doña Susana Bustos y Rodríguez se le adjudica una fracción compuesta de ciento setenta y una hectárea, sesenta áreas y treinta y cinco centiáreas. Linda por el Nord Este con terreno que se adjudica á Doña Virginia y á Doña Erlinda Bustos, por el Sud Este con Doña Matilde Bustos, por el Sud Oeste con Don Bernardo Carry y por el Nord Oeste con Don José Maxwell y campo que se adjudica á Doña Delfina Busto[s].",
+    "Hijuela N.º 3, á Doña Josefa Bustos y Rodríguez se le adjudica una fracción compuesta de ciento veinte hectáreas, noventa y ocho áreas y quince centiáreas. Linda por el Nord Este, con campo que fué de Don Francisco Duberty, por el Nord Oeste con campo de esta misma heredera, por el Sud Este con campo que se adjudica á Doña Erlinda Bustos y con el tramway Rural y por el Sud Oeste con Doña Delfina Bustos."
+   ],
+   "interpretacion": "Hijuela 2, Susana Bustos y Rodríguez: 171 ha 60 a 35 ca (NE Virginia y Erlinda, SE Matilde, SO Bernardo Carry, NO José Maxwell y Delfina). Hijuela 3, Josefa Bustos y Rodríguez: 120 ha 98 a 15 ca (NE ex Duberty, NO campo de la misma heredera —la fracción permutada—, SE Erlinda y el Tramway Rural, SO Delfina)."
+  },
+  {
+   "titulo": "Folio 3 vuelto · hijuelas 4 y 5",
+   "img": "img/f/171/13.jpg",
+   "fuente": "IMG_0621.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Hijuela N.º 4, á Doña Virginia Fermina Bustos y Alderete, se le adjudica una fracción compuesta de ciento cuarenta y seis hectáreas, veinte y nueve áreas y veinte y cinco centiáreas, lindando por el Nord Este, con herederos de Don Marcelino Mezquita, por el Sud Este con campo que perteneció á Doña Susana Bustos, por el Sud Oeste con terreno que se adjudica á Doña Matilde Bustos y por el Nord Oeste con terreno que se adjudica á Doña Erlinda Bustos.",
+    "Hijuela N.º 5, á Doña Ramona Delfina Bustos y Alderete, se le adjudica una fracción compuesta de ciento veinte hectáreas noventa y ocho áreas y quince centiáreas, lindando por el Nord Este con terreno que se adjudica á Doña Josefa Bustos, por el Sud Este con Doña Susana y Doña Erlinda Bustos, por el Sud Oeste"
+   ],
+   "interpretacion": "Hijuela 4, Virginia Fermina Bustos y Alderete: 146 ha 29 a 25 ca (NE herederos de Marcelino Mezquita, SE campo que fue de Susana Bustos, SO Matilde, NO Erlinda). Hijuela 5, Ramona Delfina Bustos y Alderete: 120 ha 98 a 15 ca (NE Josefa, SE Susana y Erlinda, SO…)."
+  },
+  {
+   "titulo": "Folio 4 · hijuela 6 y nombramiento",
+   "img": "img/f/171/14.jpg",
+   "fuente": "IMG_0621.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: FOJA 4] [a lápiz:] 4",
+    "con Don José Maxwell y por el Nord Oeste con campo de esta heredera.",
+    "Hijuela 6.ª á Doña Juana María Erlinda Bustos y Alderete, se le adjudica una fracción compuesta de ciento cuarenta y seis hectáreas veinte y nueve áreas y veinte y cinco centiáreas, lindando por el Nord Este con campo que fué de Don Francisco Duberty, por el Sud Este con terreno que se adjudica á Doña Virginia Bustos, por el Sud Oeste con campo que se adjudica á Doña Susana Bustos y por el Nord Oeste con terreno que se adjudica á Doña Josefa Bustos y con el Tramway Rural.",
+    "Diciembre de 1895.— Con esta fecha fué propuesto el ingeniero que suscribe para medir y dividir el referido campo; aceptado el cargo y previa publicación de edictos y citación de"
+   ],
+   "interpretacion": "…José Maxwell, NO campo de la heredera. Hijuela 6, Juana María Erlinda Bustos y Alderete: 146 ha 29 a 25 ca (NE ex Duberty, SE Virginia, SO Susana, NO Josefa y el Tramway Rural). Diciembre de 1895: el ingeniero es propuesto para medir y dividir; acepta, publica edictos y cita a los linderos por circular."
+  },
+  {
+   "titulo": "Folio 4 vuelto · arranque en A y decisión sobre la permuta",
+   "img": "img/f/171/15.jpg",
+   "fuente": "IMG_0622.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "linderos por medio de la correspondiente circular procedí á la operación de:",
+    "Mensura.",
+    "Dí principio á la mensura del terreno de los herederos de Don Pablo Bustos, tomando por punto de partida, el mojón señalado en el plano con la letra A, que es el mojón esquinero Oeste del campo que fué de Don Pablo Bustos. Como no se ubicó la fracción permutada con Doña Josefa Bustos, por mandato judicial; procedí á medir el terreno total comprendiendo el que pertenece á Doña Josefa Bustos por la permuta antedicha, para deslindarlo antes de ubicar las fracciones correspondientes á los herederos. Desde A con rumbo N 44° 31′ E Norte cuarenta y cuatro grados treinta y un minuto Este, medí 1973 mil novecientos setenta y tres metros hasta el mojón B esquinero Norte del terreno medido, este de Don Emiliano Ro"
+   ],
+   "interpretacion": "Parte del mojón A, esquinero O del campo. Como la fracción permutada con Josefa Bustos no se ubicó «por mandato judicial», mide el terreno total incluyéndola, para deslindarla después. A-B: N 44° 31′ E, 1973 m, hasta B, esquinero N, de Emiliano Rodríguez y costanero de Pedro Kenny."
+  },
+  {
+   "titulo": "Folio 5 · lado B-C",
+   "img": "img/f/171/16.jpg",
+   "fuente": "IMG_0622.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: FOJA 5]",
+    "dríguez y costanero de Don Pedro Kenny, con esta línea á los ciento cuarenta metros de A crucé la vía del tramway Rural y á los mil doscientos treinta y un metros el camino que va de Giles al Carmen de Areco. Del mojón B con rumbo S 45° 33′ E Sud cuarenta y cinco grados treinta y tres minutos Este, medí 3453.00 [?] tres mil cuatrocientos cincuenta y tres metros hasta el mojón C, á los trescientos trece metros de B encontré el esquinero Sud de Kenny y Oeste de los herederos de Mezquita antes Francisco Duberty, á los ochocientos treinta y seis metros cincuenta centímetros encontré otro mojón que han colocado allí como esquinero Este de la fracción de campo permutada con Doña Josefa Bustos y Rodríguez; á los novecientos treinta y cinco metros cincuenta centímetros de B encontré el camino de Giles al Carmen de Areco, y á los mil novecientos noventa y nueve metros con cin"
+   ],
+   "interpretacion": "A 140 m de A cruza la vía del Tramway Rural y a 1231 m el camino de Giles al Carmen de Areco. B-C: S 45° 33′ E, 3453 m: a 313 m el esquinero de Kenny y los herederos de Mezquita (ex Duberty); a 836,50 m un mojón colocado como esquinero E de la fracción permutada; a 935,50 m el camino de Giles al Carmen de Areco; a 1999,48 [?] m…"
+  },
+  {
+   "titulo": "Folio 5 vuelto · lados C-D, D-E y E-F",
+   "img": "img/f/171/17.jpg",
+   "fuente": "IMG_0623.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "cuenta y ocho centímetros crucé la vía del tramway Rural. Desde el mojón C con rumbo S 45° 20′ E Sud cuarenta y cinco grados veinte minutos Este, medí 757,00 setecientos cincuenta y siete metros hasta D, donde existe el mojón esquinero Este del campo que se mide, esquinero Norte de Don Jorge Belson y costanero de herederos de Mezquita, las líneas BC y CD están alambradas. Del mojón D con rumbo S 44° 7′ O Sud cuarenta y cuatro grados siete minutos Oeste, medí 1955,00 mil novecientos cincuenta y cinco metros hasta E, siendo esta línea divisoria con Don Jorge Belson. Desde E donde existe un mojón, esquinero del campo que se mide y del de Doña Matilde Bustos de Villafañe, medí con rumbo N 45° 53′ O Norte cuarenta y cinco grados cincuenta y tres minutos Oeste, 706.30 setecientos seis metros con treinta centímetros hasta"
+   ],
+   "interpretacion": "…la vía del Tramway Rural. C-D: S 45° 20′ E, 757 m hasta D, esquinero N de Jorge Belson y costanero de los herederos de Mezquita; B-C y C-D están alambradas. D-E: S 44° 7′ O, 1955 m, divisoria con Belson. E-F: N 45° 53′ O, 706,30 m. En E, mojón común con Matilde Bustos de Villafañe."
+  },
+  {
+   "titulo": "Folio 6 · el alambrado mal colocado",
+   "img": "img/f/171/18.jpg",
+   "fuente": "IMG_0623.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: FOJA 6]",
+    "el esquinero F, este mojón es el esquinero Este del terreno que pertenecía á Doña Josefa Bustos que es el comprendido entre las letras FGHIJ que fué permutado por el que indican las letras ABca [?] que pertenecía á Don Pablo Bustos. Las líneas medidas DE y EF están alambradas. Entre el mojón F y el punto L indicado en el plano, existe un alambrado siendo el rumbo de la línea FL S 49° 51′ O Sud cuarenta y nueve grados cincuenta y un minuto Oeste; debiendo tener la línea divisoria entre el terreno medido y el lindero perteneciente á Doña Matilde Bustos de Villafañe el siguiente rumbo S 43° 50′ O, según la mensura practicada por el agrimensor Don Carlos Shuster en esos terrenos, cuyo duplicado existe en el archivo de ese Departamento, lo que me hizo suponer que el alambrado está mal colocado á pesar de existir un mojón de madera en el punto L que se encuentra á 1160.70 mil"
+   ],
+   "interpretacion": "F es el esquinero E del campo que fue de Josefa Bustos (FGHIJ), permutado por la faja ABca. D-E y E-F están alambradas. Entre F y L hay un alambrado a S 49° 51′ O, pero según la mensura de Carlos Schuster (duplicado en el Departamento) la divisoria con Villafañe debe ir a S 43° 50′ O: el ingeniero concluye que «el alambrado está mal colocado», pese a un mojón de madera en L, a 1160,70 m de F."
+  },
+  {
+   "titulo": "Folio 6 vuelto · F-G y G-H",
+   "img": "img/f/171/19.jpg",
+   "fuente": "IMG_0624.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "ciento sesenta metros con setenta centímetros del mojón F. Procedí á trazar la línea FG, midiendo desde F con rumbo S 43° 50′ O Sud cuarenta y tres grados cincuenta minutos Oeste, 1155,18 mil ciento cincuenta y cinco metros con diez y ocho centímetros hasta G, punto de intersección con la línea HM divisoria con el terreno de Don Bernardo Carry, coloqué el mojón G para una vez cerrado el perímetro, controlar la posición de dicho mojón, midiendo las líneas que cierran el campo de Doña Matilde Bustos de Villafañe. Desde el mojón G con rumbo N 45° 47′ O Norte cuarenta y cinco grados cuarenta y siete minutos Oeste, medí 987,57 novecientos ochenta y siete metros cincuenta y siete centímetros hasta H donde existe un mojón de piedra, que es esquinero de Don Bernardo Carry y Doña María M. de Maxwell. Desde este mojón con rumbo N 47° 34′ O Norte"
+   ],
+   "interpretacion": "Traza F-G a S 43° 50′ O, 1155,18 m, hasta G, intersección con H-M (divisoria con Bernardo Carry); coloca allí un mojón para controlarlo después cerrando el campo de Villafañe. G-H: N 45° 47′ O, 987,57 m, hasta H, mojón de PIEDRA esquinero de Bernardo Carry y María M. de Maxwell."
+  },
+  {
+   "titulo": "Folio 7 · cierre del perímetro y control en el campo Villafañe",
+   "img": "img/f/171/20.jpg",
+   "fuente": "IMG_0624.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: FOJA 7]",
+    "cuarenta y siete grados treinta y cuatro minutos Oeste, medí 467,00 cuatrocientos sesenta y siete metros hasta el mojón I, esquinero del campo medido y también de Doña María M. de Maxwell. Del mojón I con rumbo N 43° 50′ E Norte cuarenta y tres grados cincuenta minutos Este, medí 1164,00 mil ciento sesenta y cuatro metros hasta J, mojón esquinero Este de Maxwell y del campo medido. De J con rumbo N 45° 32′ O Norte cuarenta y cinco grados treinta y dos minutos Oeste, medí 2063,00 dos mil sesenta y tres metros hasta el mojón de arranque A. Cerrado este polígono me trasladé donde está el mojón que coloqué en G, á fin de medir el perímetro del terreno de Doña Matilde Bustos de Villafañe y cerciorarme si la posición de ese mojón estaba de acuerdo con el deslinde de ambos terrenos. Desde G con rumbo S 45° 47′ E Sud cuarenta y cinco grados cuarenta y siete minutos Este medí"
+   ],
+   "interpretacion": "H-I: N 47° 34′ O, 467 m (I, esquinero de Maxwell). I-J: N 43° 50′ E, 1164 m (J, esquinero E de Maxwell). J-A: N 45° 32′ O, 2063 m. Cerrado el polígono, vuelve a G para medir el perímetro del campo de Matilde Bustos de Villafañe y comprobar el mojón. G-M: S 45° 47′ E…"
+  },
+  {
+   "titulo": "Folio 7 vuelto · el polígono Villafañe",
+   "img": "img/f/171/21.jpg",
+   "fuente": "IMG_0625.JPG (mitad izquierda)",
+   "nota": "Verificado: G-M-N-K-E-F-G cierra a 3 cm y da 168,251 ha.",
+   "lineas": [
+    "1542.70 mil quinientos cuarenta y dos metros con setenta centímetros hasta el mojón M esquinero Sud de este terreno. Del mojón M con rumbo N 44° 30′ E Norte cuarenta y cuatro grados treinta minutos Este, medí 1027.10 mil veinte y siete metros diez centímetros hasta N, en este punto no hay mojón pero se reunen allí los alambrados MN y KN, que cierran el terreno. Desde N con rumbo N 45° 37′ O Norte cuarenta y cinco grados treinta y siete minutos Oeste, medí 849,00 ochocientos cuarenta y nueve metros hasta el mojón K que es esquinero de Don José Belson y del terreno medido, desde K con rumbo N 44° 7′ E Norte cuarenta y cuatro grados siete minutos Este, medí 126,80 ciento veinte y seis metros con ochenta centímetros hasta el mojón E. Las líneas de este polígono y su superficie que es de 168 h 24 a 73 c ciento sesenta y ocho hectáreas veinte y cuatro áreas y setenta y tres centiáreas, están"
+   ],
+   "interpretacion": "…1542,70 m hasta M, esquinero S. M-N: N 44° 30′ E, 1027,10 m (en N no hay mojón: se juntan los alambrados MN y KN). N-K: N 45° 37′ O, 849 m (K, esquinero de José [sic] Belson). K-E: N 44° 7′ E, 126,80 m. El polígono de Villafañe da 168 ha 24 a 73 ca."
+  },
+  {
+   "titulo": "Folio 8 · superficie total y su reparto",
+   "img": "img/f/171/22.jpg",
+   "fuente": "IMG_0625.JPG (mitad derecha)",
+   "nota": "Verificado: el decágono cierra a 2,5 cm y da 998,1809 ha.",
+   "lineas": [
+    "[Sello: FOJA 8] [rayas a lápiz en el margen izquierdo]",
+    "de acuerdo con la mensura practicada por el Señor Shuster y con el área que dan los títulos, en vista de esto, dí por bien colocado el mojón G. La superficie total que resulta en el polígono ABCDEFGHIJ, es de 998 h 18 a 37 c novecientos noventa y ocho hectáreas diez y ocho áreas y treinta y siete centiáreas que hay que distribuirlas en la siguiente forma: 165 h 65 a 03 c ciento sesenta y cinco hectáreas sesenta y cinco áreas y tres centiáreas, corresponden á Doña Josefa Bustos por permuta; 1 h 56 a 79 c una hectárea cincuenta y seis áreas y setenta y nueve centiáreas pertenecen á la vía del Tramway Rural, según compra que hizo el propietario Señor Lacroze al Señor Pablo Bustos; 827 h 13 a 34 c ochocientos veinte y siete hectáreas trece áreas y treinta y cuatro centiáreas, es el área de campo que poseía el Señor Pablo Bustos y que debe ser repartida entre sus herederos según sus respectivas hijuelas, resulta"
+   ],
+   "interpretacion": "Las líneas y la superficie coinciden con Schuster y con los títulos: «dí por bien colocado el mojón G». Polígono ABCDEFGHIJ: 998 ha 18 a 37 ca, que se reparten en 165 ha 65 a 03 ca de Josefa Bustos (permuta), 1 ha 56 a 79 ca de la vía del Tramway Rural (vendidas a Lacroze), 827 ha 13 a 34 ca del campo de Pablo Bustos a repartir según las hijuelas y…"
+  },
+  {
+   "titulo": "Folio 8 vuelto · sobrante y deslinde de la permuta",
+   "img": "img/f/171/23.jpg",
+   "fuente": "IMG_0626.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "además un pequeño sobrante de 3 h 83 a 21 c tres hectáreas ochenta y tres áreas y veinte y una centiárea. Procedí á deslindar la fracción permutada con Doña Josefa Bustos, midiendo desde el mojón A con rumbo S 45° 32′ E Sud cuarenta y cinco grados treinta y dos minutos Este, 839,58 ochocientos treinta y nueve metros con cincuenta y ocho centímetros hasta a, colocando un mojón de madera en a que viene á ser el esquinero Sud del terreno que fué permutado y Oeste del campo de los herederos de Bustos; Del mojón a con rumbo N 44° 31′ E Norte cuarenta y cuatro grados treinta y un minuto Este, medí 1973,20 mil novecientos setenta y tres metros veinte centímetros hasta c donde coloqué otro mojón de madera que es el esquinero Norte del terreno de los herederos de Bustos, á los novecientos nueve metros con ochenta centímetros de a, crucé la vía del tramway Rural y á los mil ocho"
+   ],
+   "interpretacion": "…un sobrante de 3 ha 83 a 21 ca. Deslinde de la faja permutada: A-a S 45° 32′ E 839,58 m (mojón de madera en a); a-c N 44° 31′ E 1973,20 m (mojón de madera en c); a 909,80 m de a cruza el Tramway y a 1845 m…"
+  },
+  {
+   "titulo": "Folio 9 · la faja de Josefa B. de Rodríguez",
+   "img": "img/f/171/24.jpg",
+   "fuente": "IMG_0626.JPG (mitad derecha)",
+   "nota": "Verificado: A-a-c-B cierra a 4 cm, 165,656 ha. «Don Josefa» por «Doña».",
+   "lineas": [
+    "[Sello: FOJA 9] [a lápiz:] 9",
+    "cientos cuarenta y cinco metros, el camino de Giles al Carmen de Areco. Desde el mojón c con rumbo N 45° 33′ O Norte cuarenta y cinco grados treinta y tres minutos Oeste medí 839.58 ochocientos treinta y nueve metros con cincuenta y ocho centímetro hasta el mojón B. quedando así deslindado el terreno permutado con Don [sic] Josefa Bustos, que se compone de 165 h 65 a 03 c ciento sesenta y cinco hectáreas sesenta y cinco áreas y tres centiáreas, y cuyos linderos son por el Nord Este, Don Pedro Kenny y herederos de Mezquita, por el Sud Este, herederos de Don Pablo Bustos, por el Sud Oeste María M. de Maxwell y por el Nord Oeste Don Emiliano Rodríguez. En seguida procedí á deslindar las fracciones correspondientes á cada heredero de Don Pablo Bustos.",
+    "Fracción de Doña Josefa Bustos y Rodríguez; á fin de deslindar la fracción de esta heredera, medí desde el mojón letra c, con"
+   ],
+   "interpretacion": "…el camino de Giles al Carmen de Areco. c-B: N 45° 33′ O, 839,58 m. Fracción permutada: 165 ha 65 a 03 ca, linderos NE Pedro Kenny y herederos de Mezquita, SE herederos de Pablo Bustos, SO María M. de Maxwell, NO Emiliano Rodríguez. Empieza el deslinde de los lotes: Josefa Bustos y Rodríguez, desde c…"
+  },
+  {
+   "titulo": "Folio 9 vuelto · lote de Josefa",
+   "img": "img/f/171/25.jpg",
+   "fuente": "IMG_0627.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "rumbo S 45° 33′ E Sud cuarenta y cinco grados treinta y tres minutos Este 1245.22 mil doscientos cuarenta y cinco metros veinte y dos centímetros hasta f colocando un mojón de madera en este punto, á los 1160 mil ciento sesenta metros de c crucé la vía del Tramway Rural y á los noventa y seis metros el camino que va de Giles al Carmen de Areco. Desde el mojón f con rumbo S 45° 9′ O Sud cuarenta y cinco grados nueve minutos Oeste, medí 988.10 novecientos ochenta y ocho metros diez centímetros hasta e donde coloqué otro mojón de madera que es el esquinero sud de este lote. Del mojón e con rumbo N 45° 32′ O Norte cuarenta y cinco grados treinta y dos minutos Oeste medí 1234,40 mil doscientos treinta y cuatro metros cuarenta centímetros hasta b colocando otro mojón en este punto y cruzando la vía del tramway Rural"
+   ],
+   "interpretacion": "c-f: S 45° 33′ E 1245,22 m (mojón de madera en f; a 1160 m la vía y a 96 m más el camino de Giles al Carmen de Areco); f-e: S 45° 9′ O 988,10 m (mojón de madera, esquinero S); e-b: N 45° 32′ O 1234,40 m (mojón en b; cruza la vía…"
+  },
+  {
+   "titulo": "Folio 10 · lote de Josefa (fin)",
+   "img": "img/f/171/26.jpg",
+   "fuente": "IMG_0627.JPG (mitad derecha)",
+   "nota": "Verificado: c-f-e-b cierra a 11 cm, 122,479 ha brutas; menos la vía, 121,02 (35 a más que lo declarado).",
+   "lineas": [
+    "[Sello: FOJA 10] [a lápiz:] 10",
+    "á los mil ciento cincuenta y un metro, con ochenta y seis centímetros de e. Del mojón b con rumbo N 44° 31′ E Norte cuarenta y cuatro grados treinta y un minuto Este, medí 987.7 novecientos ochenta y siete metros con setenta centímetros hasta el mojón c. La vía del tramway Rural cruza diagonalmente este terreno en una longitud de 1462,40 mil cuatrocientos sesenta y dos metros con cuarenta centímetros y con el rumbo S 88° 2′ E sud ochenta y ocho grados dos minutos Este, según se indica en el plano, ocupando una zona de terreno alambrada de diez metros de ancho, lo que da una superficie de 1 h 46 a 24 c una hectárea cuarenta y seis áreas y veinte y cuatro centiáreas, la superficie restante del polígono cfeb es de 120 h 98 a 15 c ciento veinte hectáreas noventa y ocho áreas y quince centiáreas y sus linderos son por el Nord Este herederos de Mezquita, por el Sud Este, la fracción que se adjudica á Doña Erlinda Bustos por el Sud"
+   ],
+   "interpretacion": "…a 1151,86 m de e). b-c: N 44° 31′ E 987,70 m. La vía del Tramway Rural cruza el lote en diagonal 1462,40 m a S 88° 2′ E, en una zona alambrada de 10 m de ancho (1 ha 46 a 24 ca); queda 120 ha 98 a 15 ca. Linderos NE herederos de Mezquita, SE Erlinda…"
+  },
+  {
+   "titulo": "Folio 10 vuelto · lote de Delfina",
+   "img": "img/f/171/27.jpg",
+   "fuente": "IMG_0628.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Oeste Doña Delfina Bustos y por el Nord Oeste la misma heredera.",
+    "Fracción de Doña Ramona Delfina Bustos y Alderete: me situé en el mojón a señalado en el plano y con rumbo N 44° 31′ E Norte cuarenta y cuatro grados treinta y un minuto Este medí 985,50 novecientos ochenta y cinco metros cincuenta centímetros hasta el mojón b cruzando la vía del tramway Rural á los novecientos nueve metros con ochenta centímetros de a. Del mojón b con rumbo S 45° 32′ E Sud cuarenta y cinco grados treinta y dos minutos Este, medí 1234,40 mil doscientos treinta y cuatro metros con cuarenta centímetros hasta e, cruzando la vía del tramway á los 82,54 ochenta y dos metros con cincuenta y cuatro centímetros de b. Del mojón e, con rumbo S 45° 9′ O Sud cuarenta y cinco grados nueve minutos Oeste, medí 985,55 novecientos ochenta y cinco metros con cin"
+   ],
+   "interpretacion": "…SO Delfina, NO la misma heredera (la faja permutada). Ramona Delfina Bustos y Alderete: a-b N 44° 31′ E 985,50 m (vía a 909,80 m); b-e S 45° 32′ E 1234,40 m (vía a 82,54 m de b); e-J S 45° 9′ O 985,55 m…"
+  },
+  {
+   "titulo": "Folio 11 · lote de Delfina (fin)",
+   "img": "img/f/171/28.jpg",
+   "fuente": "IMG_0628.JPG (mitad derecha)",
+   "nota": "Verificado: 121,111 ha brutas, 120,999 sin la vía.",
+   "lineas": [
+    "[Sello: FOJA 11] [a lápiz:] 11",
+    "cuenta y cinco centímetros hasta el mojón J, y del mojón J con rumbo N 45° 32′ O Norte cuarenta y cinco grados treinta y dos minutos Oeste medí 1223,40 mil doscientos veinte y tres metros cuarenta centímetros hasta el mojón a. La vía del tramway Rural cruza este terreno en el ángulo Norte, en un trecho de 112,05 ciento doce metros con cinco centímetros y con rumbo S 88° 2′ E sud ochenta y ocho grados dos minutos Este, ocupando una zona de terreno de diez metros de ancho, el cual está alambrado, lo que da una superficie de 1120.50 mil ciento veinte metros cuadrados con cincuenta centésimos. La superficie del polígono abeJ, deduciendo la de la vía del tramway es de, 120 h 98 a 15 c ciento veinte hectáreas noventa y ocho áreas y quince centiáreas, y sus linderos son por el Nord Este Josefa Rodríguez [sic, por Josefa Bustos y Rodríguez], por el Sud Este Doña Erlinda y Doña Susana Bustos y por el Sud Oeste María M. de Maxwell."
+   ],
+   "interpretacion": "…J-a N 45° 32′ O 1223,40 m. El Tramway corta el ángulo N en 112,05 m (S 88° 2′ E), zona alambrada de 10 m: 1120,50 m². Polígono abeJ, sin la vía: 120 ha 98 a 15 ca; linderos NE «Josefa Rodríguez», SE Erlinda y Susana, SO María M. de Maxwell."
+  },
+  {
+   "titulo": "Folio 11 vuelto · lote de Erlinda",
+   "img": "img/f/171/29.jpg",
+   "fuente": "IMG_0629.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Fracción de Doña Juana María Erlinda Bustos y Alderete.— Deslindé esta fracción midiendo desde el mojón f con rumbo S 45° 33′ E Sud cuarenta y cinco grados treinta y tres minutos Este 1060,24 mil sesenta metros con veinte y cuatro centímetros hasta g, colocando un mojón de madera en este punto; Desde g con rumbo S 44° 28′ O Sud cuarenta y cuatro grados veinte y ocho minutos Oeste, medí 1369,30 mil trescientos sesenta y nueve metros treinta centímetros hasta h. coloqué otro mojón de madera en h y con rumbo N 45° 32′ O Norte cuarenta y cinco grados treinta y dos minutos Oeste medí 1076.56 mil setenta y seis metros con cincuenta y seis centímetros hasta d colo[-]qué otro mojón en d y con rumbo N 45° 9′ E Norte cuarenta y cinco grados nueve minutos Este, medí 1369,35 mil trescientos sesenta y nueve metros con treinta y cinco centímetros hasta el mojón f, encontrando"
+   ],
+   "interpretacion": "Juana María Erlinda Bustos y Alderete: f-g S 45° 33′ E 1060,24 m (mojón de madera); g-h S 44° 28′ O 1369,30 m (mojón de madera); h-d N 45° 32′ O 1076,56 m (mojón en d); d-f N 45° 9′ E 1369,35 m…"
+  },
+  {
+   "titulo": "Folio 12 · «la población» y lote de Virginia",
+   "img": "img/f/171/30.jpg",
+   "fuente": "IMG_0629.JPG (mitad derecha)",
+   "nota": "Verificado: f-g-h-d cierra a 26 cm, 146,279 ha. c-f + f-g + g-C = 2613,42 = B-C − B-c, exacto.",
+   "lineas": [
+    "[Sello: FOJA 12] [a lápiz:] 12",
+    "á los trescientos ochenta y un metro veinte y cinco centímetros de d, el mojón e esquinero de las fracciones de Doña Josefa y Doña Delfina Busto[s]. La superficie de la fracción medida asciende á 146 h 29 a 25 c ciento cuarenta y seis hectáreas veinte y nueve áreas y veinte y cinco centiáreas; siendo sus linderos, por el Nord Este herederos de Mezquita, por el Sud Este Doña Virginia Bustos al Sud Oeste Doña Matilde y Doña Susana Bustos y al Nord Oeste Doña Delfina y Doña Josefa Bustos. En esta fracción queda la población, según disposición testamentaria.",
+    "Fracción de Doña Virginia Fermina Bustos y Alderete. Desde el mojón g con rumbo S 45° 33′ E Sud cuarenta y cinco grados treinta y tres minutos Este, medí 307,96 hasta el mojón C trescientos siete metros noventa y seis centímetros. Del mojón C con rumbo S 45° 20′ E Sud cuarenta y cinco grados veinte minutos Este"
+   ],
+   "interpretacion": "…con el mojón e a 381,25 m de d. 146 ha 29 a 25 ca; linderos NE herederos de Mezquita, SE Virginia, SO Matilde y Susana, NO Delfina y Josefa. «En esta fracción queda la población, según disposición testamentaria». Virginia Fermina Bustos y Alderete: g-C S 45° 33′ E 307,96 m; C-…"
+  },
+  {
+   "titulo": "Folio 12 vuelto · lote de Virginia (fin)",
+   "img": "img/f/171/31.jpg",
+   "fuente": "IMG_0630.JPG (mitad izquierda)",
+   "nota": "Verificado: cierra a 38 cm, 146,292 ha.",
+   "lineas": [
+    "medí 757,00 setecientos cincuenta y siete metros hasta el mojón esquinero D. De este mojón con rumbo S 44° 7′ O Sud cuarenta y cuatro grados siete minutos Oeste, medí 1366,44 mil trescientos sesenta y seis metros con cuarenta y cuatro centímetros hasta k coloqué un mojón en este punto el cual viene á ser esquinero Sud de esta fracción. Del mojón k con rumbo N 45° 32′ O Norte cuarenta y cinco grados treinta y dos minutos Oeste, medí 1073,48 mil setenta y tres metros con cuarenta y ocho centímetros hasta el mojón h y desde este mojón con rumbo N 44° 28′ E Norte cuarenta y cuatro grados veinte y ocho minutos Este medí 1369,30 mil trescientos sesenta y nueve metros con treinta centímetros hasta el mojón g. La superficie de esta fracción asciende á 146 h 29 a 25 c ciento cuarenta y seis hectáreas veinte y nueve áreas y veinte y cinco centiáreas y sus linderos son: por"
+   ],
+   "interpretacion": "…C-D S 45° 20′ E 757 m; D-k S 44° 7′ O 1366,44 m (mojón k, esquinero S); k-h N 45° 32′ O 1073,48 m; h-g N 44° 28′ E 1369,30 m. 146 ha 29 a 25 ca; linderos…"
+  },
+  {
+   "titulo": "Folio 13 · lote de Susana",
+   "img": "img/f/171/32.jpg",
+   "fuente": "IMG_0630.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: FOJA 13] [a lápiz:] 13",
+    "el Nord Este, herederos de Mezquita, por el Sud Este Jorge Belson por el Sud Oeste Doña Matilde Bustos y por el Nord Oeste Doña Erlinda Bustos.",
+    "Fracción de Doña Susana Bustos y Rodríguez: Deslindé esta fracción partiendo del mojón J con rumbo N 45° 9′ E Norte cuarenta y cinco grados nueve minutos Este y medí 604.3 seiscientos cuatro metros con treinta centímetros hasta el mojón d. Desde este mojón con rumbo S 45° 32′ E Sud cuarenta y cinco grados treinta y dos minutos Este, medí 966.18 novecientos sesenta y seis metros con diez y ocho centímetros hasta i, coloqué un mojón en este punto y con rumbo S 43° 50′ O Sud cuarenta y tres grados cincuenta minutos Oeste, medí 1750.12 mil setecientos cincuenta metros con doce centímetros hasta j, coloqué en este punto el esquinero sud de esta fracción, y con rumbo N 45° 47′ O Norte cuarenta y cinco grados cuarenta y siete minutos Oeste, medí 512.80"
+   ],
+   "interpretacion": "…NE herederos de Mezquita, SE Jorge Belson, SO Matilde, NO Erlinda. Susana Bustos y Rodríguez: J-d N 45° 9′ E 604,30 m; d-i S 45° 32′ E 966,18 m (mojón); i-j S 43° 50′ O 1750,12 m (esquinero S); j-H N 45° 47′ O 512,80 m…"
+  },
+  {
+   "titulo": "Folio 13 vuelto · lote de Susana (fin)",
+   "img": "img/f/171/33.jpg",
+   "fuente": "IMG_0631.JPG (mitad izquierda)",
+   "nota": "Verificado: cierra a 73 cm, 171,601 ha.",
+   "lineas": [
+    "quinientos doce metros con ochenta centímetros hasta el mojón de piedra H, este mojón es esquinero de B. Carry y M. Maxwell; por la pequeña desviación de la línea puede considerarse costanero del terreno medido. Del mojón H con rumbo N 47° 34′ O Norte cuarenta y siete grados treinta y cuatro minutos Oeste medí 467.00 cuatrocientos sesenta y siete metros hasta el mojón esquinero I. Desde este mojón con rumbo N 43° 50′ E Norte cuarenta y tres grados cincuenta minutos Este, medí 1164.00 mil ciento sesenta y cuatro metros hasta el mojón J. La superficie de esta fracción es de 171 h 60 a 35 c ciento setenta y una hectárea sesenta áreas y treinta y cinco centiáreas, y los linderos son, por el Nord Este Doña Erlinda Bustos por el Sud Este Doña Matilde Bustos, por el Sud Oeste Bernardo Carry y María M. de Maxwell y por el Nord"
+   ],
+   "interpretacion": "…hasta el mojón de piedra H (Carry–Maxwell), que «por la pequeña desviación de la línea puede considerarse costanero» del lote. H-I N 47° 34′ O 467 m; I-J N 43° 50′ E 1164 m. 171 ha 60 a 35 ca; linderos NE Erlinda, SE Matilde, SO Bernardo Carry y María M. de Maxwell, NO…"
+  },
+  {
+   "titulo": "Folio 14 · lote de Matilde",
+   "img": "img/f/171/34.jpg",
+   "fuente": "IMG_0631.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: FOJA 14] [a lápiz:] 14",
+    "Oeste María M. de Maxwell y Delfina Bustos.",
+    "Fracción de Doña Matilde Bustos y Rodríguez: Del mojón j, esquinero sud de Doña Susana Bustos y Oeste de Doña Matilde Bustos; medí con rumbo N 43° 50′ E Norte cuarenta y tres grados cincuenta minutos Este 1750,12 mil setecientos cincuenta metros con doce centímetros hasta el mojón i que es esquinero Norte de esta fracción; del mojón i con rumbo S 45° 32′ E Sud cuarenta y cinco grados treinta y dos minutos Este, medí 1183,86 mil ciento ochenta y tres metros con ochenta y seis centímetros hasta el mojón k esquinero Este de esta fracción y Sud de Doña Virginia Bustos, en esta línea á los ciento diez metros con treinta y ocho centímetros de i se encuentra el mojón h, esquinero de Doña Virginia y Doña Erlinda Bustos y costanero de Doña Matilde Bustos. Del mojón k con rumbo S 44° 7′ O Sud cuarenta y cuatro grados siete minutos Oeste,"
+   ],
+   "interpretacion": "…Maxwell y Delfina. Matilde Bustos y Rodríguez: j-i N 43° 50′ E 1750,12 m; i-k S 45° 32′ E 1183,86 m (a 110,38 m de i, el mojón h); k-E S 44° 7′ O…"
+  },
+  {
+   "titulo": "Folio 14 vuelto · lote de Matilde (fin)",
+   "img": "img/f/171/35.jpg",
+   "fuente": "IMG_0632.JPG (mitad izquierda)",
+   "nota": "Verificado: cierra a 18 cm, 124,820 ha. D-k + k-E = 1955 = D-E; G-j + j-H = 987,57 = G-H.",
+   "lineas": [
+    "medí 588.56 quinientos ochenta y ocho metros con cincuenta y seis centímetros hasta el mojón E. Desde este mojón con rumbo N 45° 53′ O Norte cuarenta y cinco grados cincuenta y tres minutos Oeste, medí 706.30 setecientos seis metros con treinta centímetros hasta el mojón F. De F con rumbo S 43° 50′ O Sud cuarenta y tres grados cincuenta minutos Oeste, medí 1155,18 mil ciento cincuenta y cinco metros con diez y ocho centímetros hasta G mojón esquinero Sud de esta fracción. Del mojón G con rumbo N 45° 47′ O Norte cuarenta y cinco grados cuarenta y siete minutos Oeste medí 474,77 cuatrocientos setenta y cuatro metros setenta y siete centímetros hasta el mojón j, á los ciento veinte y un metro con sesenta centímetros de G existe un mojón del cual hize mención al principio. La superficie de esta fracción es de 124 h 81 a 36 c ciento veinte y cuatro hectáreas ochenta y una área y trein"
+   ],
+   "interpretacion": "…588,56 m; E-F N 45° 53′ O 706,30 m; F-G S 43° 50′ O 1155,18 m; G-j N 45° 47′ O 474,77 m; a 121,60 m de G está el mojón L del alambrado mal puesto. 124 ha 81 a 36 ca…"
+  },
+  {
+   "titulo": "Folio 15 · sobrante, circular y acta",
+   "img": "img/f/171/36.jpg",
+   "fuente": "IMG_0632.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: FOJA 15] [a lápiz:] 15 [sello circular ilegible al pie, parcialmente visible]",
+    "ta y seis centiáreas, resultando un sobrante de 3 h 83 a 21 c tres hectáreas ochenta y tres áreas y veinte y una centiárea, pues por los títulos corresponde á Doña Matilde Bustos 120 h 98 a 15 c ciento veinte hectáreas noventa y ocho áreas y quince centiáreas. Son linderos de este terreno por el Nord Este Doña Erlinda y Doña Virginia Bustos, por el Sud Este Don Jorge Belson y la misma heredera, por el Sud Oeste Don Bernardo Carry y por el Nord Oeste Doña Susana Bustos.",
+    "Circular y acta.— Firmaron la circular los linderos Emiliano Rodríguez, Pedro Kenny, Jorge Belson, María M. de Maxwell, por el Señor Villafañe Ramón Vidal. Los señores Bernardo Carry y herederos de Mezquita no firmaron por no haberlos podido encontrar. La conformidad de la mensura la firmaron los Señores Pedro Kenny, Jorge Belson y Doña María M. de Maxwell, los demás linderos no presenciaron la mensura."
+   ],
+   "interpretacion": "…con un sobrante de 3 ha 83 a 21 ca sobre las 120 ha 98 a 15 ca de su hijuela. Linderos NE Erlinda y Virginia, SE Belson y la misma heredera (el campo Villafañe), SO Bernardo Carry, NO Susana. Circular: firman Emiliano Rodríguez, Pedro Kenny, Jorge Belson, María M. de Maxwell y, por Villafañe, Ramón Vidal; Bernardo Carry y los herederos de Mezquita «no firmaron por no haberlos podido encontrar». El acta de conformidad la firman Kenny, Belson y María M. de Maxwell; los demás no presenciaron la mensura."
+  },
+  {
+   "titulo": "Folio 15 vuelto · rumbos, firma y entrada",
+   "img": "img/f/171/37.jpg",
+   "fuente": "IMG_0633.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Rumbos y Variación.— Los rumbos señalados en el plano son astronómicos y la variación magnética resultó 8° 31′ ocho grados treinta y un minuto Nord Este. Determiné la dirección de la meridiana tomando alturas correspondientes del sol antes y después del pasaje por el plano meridiano.",
+    "La Plata Febrero 14 de 1896",
+    "César A. Spotti [firma]",
+    "[Sello oval: DEPARTAMENTO DE INGENIEROS DE LA PROVINCIA · ENTRADA 15 FEBR. 96]"
+   ],
+   "interpretacion": "Rumbos astronómicos; variación magnética 8° 31′ NE, con la meridiana determinada por alturas correspondientes del sol antes y después del paso por el meridiano. «La Plata Febrero 14 de 1896 · César A. Spotti». Sello de entrada del Departamento de Ingenieros: 15 de febrero de 1896."
+  },
+  {
+   "titulo": "Folio 16 · vista del Departamento de Ingenieros",
+   "img": "img/f/171/38.jpg",
+   "fuente": "IMG_0633.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Sello: FOJA 16] [otra letra, del Departamento]",
+    "Señor Juez.",
+    "El Departamento de Ingenieros ha examinado la mensura practicada por el Ingeniero Spotti de un terreno de propiedad de los herederos de Don Pablo Bustos, situado en el partido de San Andrés de Giles y encontrándola bien ejecutada la considera en estado de ser aprobada judicialmente.",
+    "La división se encuentra conforme con las hijuelas respectivas á excepción del lote ubicado para Doña Matilde Bustos y Rodríguez, en el cual se ha dejado el sobrante de tres hectáreas ochenta y tres áreas veinte y un centiáreas (3 hs 83 as 21 cs) que ha resultado en todo el terreno medido.",
+    "Por esta circunstancia sería conveniente se diera vista de la mensura á los herederas á fin de que presten su conformidad.",
+    "Los linderos Bernardo Carry y M[ezquita] [continúa]"
+   ],
+   "interpretacion": "Otra letra. El Departamento encuentra la mensura «bien ejecutada» y la considera en estado de ser aprobada. La división coincide con las hijuelas salvo el lote de Matilde Bustos y Rodríguez, al que se le cargó todo el sobrante (3 ha 83 a 21 ca): conviene dar vista a las herederas para que presten conformidad. Los linderos Bernardo Carry y…"
+  },
+  {
+   "titulo": "Folio 16 vuelto · firmas del Departamento",
+   "img": "img/f/171/39.jpg",
+   "fuente": "IMG_0634.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "[M]ezquita no han firmado la circular de linderos y acta de conformidad.",
+    "Marzo 3 de 1896.",
+    "[Firmas:] J. [?] Lagos [?] — Julián Romero — Carlos M. Albarracín — R. Martín [?] — Ángel Etcheverry — J. [?] Pinguett [?]",
+    "[Resto de la página en blanco; transparenta la tinta del folio 16.]"
+   ],
+   "interpretacion": "…Mezquita no firmaron la circular ni el acta. 3 de marzo de 1896. Firmas: J. [?] Lagos [?], Julián Romero, Carlos M. Albarracín, R. Martín [?], Ángel Etcheverry y J. [?] Pinguett [?]."
+  },
+  {
+   "titulo": "Folio 17 · en blanco",
+   "img": "img/f/171/40.jpg",
+   "fuente": "IMG_0634.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Página en blanco, rayada.]"
+   ],
+   "interpretacion": "Página rayada sin texto. No hay auto de aprobación."
+  },
+  {
+   "titulo": "Plano de mensura y división (Spotti, 14/2/1896)",
+   "img": "img/f/171/03.jpg",
+   "fuente": "IMG_0635.JPG",
+   "nota": "",
+   "lineas": [
+    "[Sello: FOJA 17 [?]] Plano a tinta negra y roja sobre tela, escala 1/10.000, flecha de norte astronómico. Polígono ABCDEFGHIJ con las subdivisiones a, b, c, d, e, f, g, h, i, j, k y los vértices K, L [?], M, N del campo de Villafañe. Rótulos: arriba «Pedro Kenny», «Herederos de M. Mezquita» (dos veces); a la izquierda la faja permutada «Josefa B. de Rodríguez» con «Camino de Giles al Carmen de Areco»; diagonal «Tramway Rural»; lotes «Josefa Bustos y Rodríguez · Superficie 120 h 98 a 15 c», «Juana María Erlinda Bustos y Alderete · Superficie 146 h 29 a 25 c» (con un monte de unos veinte árboles y dos edificios: «Población»), «Virginia Fermina Bustos y Alderete · Superficie 146 h 29 a 25 c», «Ramona Delfina Bustos y Alderete · Superficie 120 h 98 a 15 c», «Susana Bustos y Rodríguez · Superficie 171 h 60 a 35 c» (con un edificio: «Puesto»), «Matilde Bustos y Rodríguez · Superficie 124 h 81 a 36 c»; linderos «María M. de Maxwell», «Matilde B. de Villafañe», «Jorge Belson», «Bernardo Carry». Rumbos y distancias de cada lado en rojo sobre las líneas (p. ej. «AB = 1973.00 N 44° 31′ E», «BC = 3453.00 S 45° 33′ E», «GM = 1542.70 S 45° 47′ E»). Abajo a la izquierda: «La Plata Febrero 14 de 1896. César A. Spotti». Agregados a lápiz posteriores: «Hoy Maxwell» sobre el lote de Susana; «Carey» junto a «Bernardo Carry» y, en vertical, «Bernardo Carey» al E del campo Villafañe; en el campo Villafañe «1[6]8 [?] h 24 a 73 c»; al pie «Antonio [?] Aguilar 167 h 72 a 35 c»; en el margen izquierdo cifras a lápiz rojo «343 / 757 / 1250 [?]»."
+   ],
+   "interpretacion": "Plano en tela a escala 1:10.000, con todos los lados acotados en rojo, los seis lotes con su superficie, la faja permutada «Josefa B. de Rodríguez», el camino de Giles al Carmen de Areco y la diagonal del Tramway Rural. Dibuja la «Población» (dos edificios y un monte de unos veinte árboles) en el lote de Erlinda y un «Puesto» en el de Susana. Lápices posteriores: «Hoy Maxwell», «Carey» y «Antonio [?] Aguilar 167 h 72 a 35 c»."
+  },
+  {
+   "titulo": "Plano · detalle occidental",
+   "img": "img/f/171/04.jpg",
+   "fuente": "IMG_0636.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma de detalle del plano: franja occidental (faja permutada, lotes de Josefa y Delfina, tramway). No se transcribe de nuevo.]"
+   ],
+   "interpretacion": "Faja permutada, lotes de Josefa y Delfina y la diagonal del tramway."
+  },
+  {
+   "titulo": "Plano · detalle central",
+   "img": "img/f/171/05.jpg",
+   "fuente": "IMG_0637.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma de detalle del plano: franja central (lotes de Erlinda, Susana y Delfina, «Población»). No se transcribe de nuevo.]"
+   ],
+   "interpretacion": "Lotes de Erlinda, Susana y Delfina; la «Población» con su monte."
+  },
+  {
+   "titulo": "Plano · detalle oriental",
+   "img": "img/f/171/06.jpg",
+   "fuente": "IMG_0638.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma de detalle del plano: franja oriental (Virginia, Matilde, Belson, Villafañe). No se transcribe de nuevo.]"
+   ],
+   "interpretacion": "Lotes de Virginia y Matilde; los campos de Jorge Belson y Matilde B. de Villafañe, con el quiebre F-G."
+  },
+  {
+   "titulo": "Plano · detalle del ángulo N",
+   "img": "img/f/171/07.jpg",
+   "fuente": "IMG_0639.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma de detalle del plano: ángulo norte (Pedro Kenny, herederos de M. Mezquita, Josefa B. de Rodríguez, Juana María E[rlinda]). No se transcribe de nuevo.]"
+   ],
+   "interpretacion": "Pedro Kenny, herederos de M. Mezquita, la faja de Josefa B. de Rodríguez y el lote de Juana María E[rlinda]."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de mensura y división del campo de los herederos de Pablo Bustos (Spotti, 14/2/1896)",
+   "img": "img/f/171/03.jpg",
+   "fuente": "IMG_0635.JPG (detalles IMG_0636-0639)",
+   "orientacion": "flecha de norte en diagonal; los lados NE-SO quedan verticales y la línea B-C (S 45° 33′ E) horizontal arriba",
+   "interpretacion": "Plano a tinta negra y roja sobre tela, escala 1:10.000, firmado «La Plata Febrero 14 de 1896 · César A. Spotti». Un decágono casi rectangular cortado en una cuadrícula regular: la faja permutada al NO, seis lotes en dos filas de tres, y el campo de Matilde B. de Villafañe encajado al SE como un rectángulo ajeno, con el quiebre F-G que sigue la divisoria de Schuster y no el alambrado. Cada lado lleva rumbo y longitud en rojo y cada lote su superficie. A diferencia de los planos de Aranguren (170), éste sí dibuja paisaje: la diagonal del Tramway Rural, el camino de Giles al Carmen de Areco que corta la faja permutada, una «Población» con dos edificios y un monte de unos veinte árboles en el lote de Erlinda, y un «Puesto» en el de Susana. Los lápices posteriores registran la circulación del campo: «Hoy Maxwell» sobre el lote de Susana, «Carey» corrigiendo a «Carry» y «Antonio [?] Aguilar 167 h 72 a 35 c» al pie, que es la superficie que dio Schuster a cada hijuela de la ficha 099.",
+   "referencias": [
+    [
+     "A · B · C · D",
+     "Ángulos O, N, quiebre y E del campo; A-B y B-C lindan con Emiliano Rodríguez, Pedro Kenny y herederos de M. Mezquita"
+    ],
+    [
+     "E · F · G",
+     "Quiebre contra el campo de Matilde B. de Villafañe; G es mojón nuevo, controlado cerrando ese campo"
+    ],
+    [
+     "H · I · J",
+     "H mojón de piedra (Carry–Maxwell); I y J esquinas del campo de María M. de Maxwell"
+    ],
+    [
+     "a · c",
+     "Mojones de madera que cierran la faja permutada (ABca, 165,65 ha)"
+    ],
+    [
+     "b · d · e · f · g · h · i · j · k",
+     "Mojones de madera de los seis lotes"
+    ],
+    [
+     "K · M · N",
+     "Ángulos del campo Villafañe (N sin mojón: cruce de alambrados)"
+    ],
+    [
+     "Población · Puesto",
+     "Casco con monte en el lote de Erlinda; puesto en el de Susana"
+    ],
+    [
+     "Tramway Rural",
+     "Diagonal NE-SO, zona alambrada de 10 m, rumbo S 88° 2′ E en los lotes"
+    ],
+    [
+     "Lápiz",
+     "«Hoy Maxwell», «Carey», «Antonio [?] Aguilar 167 h 72 a 35 c», cifras «343 / 757 / 1250 [?]» al margen"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle O: faja permutada y tramway",
+   "img": "img/f/171/04.jpg",
+   "fuente": "IMG_0636.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "La faja de Josefa B. de Rodríguez, con el camino de Giles al Carmen de Areco, y la diagonal del tramway sobre los lotes de Josefa y Delfina.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle central: la Población",
+   "img": "img/f/171/05.jpg",
+   "fuente": "IMG_0637.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "Lote de Erlinda con el monte y los dos edificios de la «Población», que el testamento de Pablo Bustos asigna a esa hija.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle E: Matilde, Virginia, Belson y Villafañe",
+   "img": "img/f/171/06.jpg",
+   "fuente": "IMG_0638.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "El quiebre F-G entre el lote de Matilde y el campo Villafañe; Jorge Belson al SE.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle N: Kenny y Mezquita",
+   "img": "img/f/171/07.jpg",
+   "fuente": "IMG_0639.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "Ángulo B con Pedro Kenny y los herederos de M. Mezquita; arranque de la faja permutada.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "En 1896 el campo está cercado en casi todo su borde: alambrados en B-C y C-D (contra Kenny, Mezquita y Belson), D-E y E-F (Belson y Villafañe), F-L (mal puesto), M-N y K-N; la zona del Tramway Rural es una faja ALAMBRADA de 10 m que corta en diagonal los lotes de Josefa y Delfina. Dos infraestructuras atraviesan el campo y sirven de anclas GIS: el CAMINO DE GILES AL CARMEN DE ARECO (cruces a 1231 m de A sobre A-B, 935,50 m de B sobre B-C, 1845 m de a sobre a-c y 96 m más allá de la vía sobre c-f) y la VÍA DEL TRAMWAY RURAL (140 m de A, 909,80 m de a, 1160 m de c, 1151,86 m de e, 82,54 m de b; rumbo S 88° 2′ E). El plano dibuja la única ocupación: una «Población» con dos edificios y un monte de unos veinte árboles (lote de Erlinda) y un «Puesto» (lote de Susana). No se menciona agua."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Edictos y circular a los linderos. Firman la circular Emiliano Rodríguez, Pedro Kenny, Jorge Belson, María M. de Maxwell y Ramón Vidal «por el Señor Villafañe»; Bernardo Carry y los herederos de Mezquita no firman «por no haberlos podido encontrar». Sólo tres linderos (Kenny, Belson y la señora de Maxwell) presencian y aprueban la mensura. La partición no la decide el ingeniero: viene aprobada por el juez en diciembre de 1895 como «proyecto de división» con hijuelas ya calculadas, y la casa principal se asigna por «disposición testamentaria». El ingeniero pone por delante una decisión jurídica: como el juez ordena no ubicar la permuta de 1886, mide el todo (incluida la faja de Juana Josefa) y la deslinda después. El Departamento de Ingenieros objeta que el sobrante de 3,83 ha se cargó a una sola heredera y pide vista a las demás: el excedente se vuelve un asunto familiar a negociar."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos ASTRONÓMICOS: meridiana determinada por alturas correspondientes del sol antes y después del paso meridiano, y variación magnética 8° 31′ NE. Todo verificado en python: el decágono ABCDEFGHIJ cierra a 2,5 cm y da 998,1809 ha (declaradas 998,1837); el polígono de Villafañe cierra a 3 cm (168,251 contra 168,2473); la faja permutada a 4 cm (165,656 contra 165,6503); los lotes cierran entre 11 y 73 cm y dan 122,479 brutas (Josefa), 121,111 (Delfina), 146,279 (Erlinda), 146,292 (Virginia), 171,601 (Susana) y 124,820 ha (Matilde); las sumas de tramos coinciden al centímetro (c-f + f-g + g-C = B-C − B-c = 2613,42; D-k + k-E = D-E = 1955; G-j + j-H = G-H = 987,57; d-i + i-h = h-d = 1076,56). El alambrado F-L (S 49° 51′ O) y la divisoria de Schuster F-G (S 43° 50′ O) divergen 6°: el punto L cae sobre G-H a 121,67 m de G (el texto da 121,60) y el triángulo F-G-L encierra 7,03 ha de los Bustos dentro del campo Villafañe. Spotti zanja el conflicto con el duplicado de Schuster «que existe en el archivo de ese Departamento»: el archivo de duplicados funciona ya como autoridad para corregir el terreno."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todo en sistema métrico; las varas sólo sobreviven en el título de 1863 (11.050.000 v²). Verificado: 11.050.000 × 0,866² = 828,7014 ha; menos las 1,5679 ha vendidas a Lacroze dan 827,1335 ha, exactamente las 827,1334 de la sucesión: el título en varas está bien reducido (contraste con el error de 1870 de la ficha 170). La permuta de 1886 se escrituró ya en metros (1.656.503 m² = 165,6503 ha, que la medición confirma). Las hijuelas forman una progresión: 120,9815 + 25,311 = 146,2925; + 25,311 = 171,6035 ha. La zona del tramway: 1462,40 × 10 = 14.624 m² y 112,05 × 10 = 1120,5 m², 1,5745 ha medidas contra 1,5679 escrituradas (66 m² de diferencia)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena: venta del Estado a Pedro José Rodríguez (19/5/1838, ley de 1836) → una legua cuadrada a Ramón Bustos (6/6/1838) → hijuela de Pablo Bustos (1863, 11.050.000 v²) → permuta con su hermana Juana Josefa Bustos (1886) para juntar el campo hacia el NO → venta de la zona de vía a Federico Lacroze (5/11/1892) → partición entre seis hijas (aprobada dic. 1895). La división revela dos matrimonios: tres hijas «Bustos y Rodríguez» (Matilde, Susana, Josefa) y tres «Bustos y Alderete» (Virginia Fermina, Ramona Delfina, Juana María Erlinda). Cada línea materna recibe EXACTAMENTE la mitad: 2 × 120,9815 + 171,6035 = 413,5665 ha (Rodríguez) y 2 × 146,2925 + 120,9815 = 413,5665 ha (Alderete); 827,133 / 2 = 413,5667. Dentro de cada línea los lotes son desiguales, quizá por la mitad de gananciales o por compensaciones testamentarias que el duplicado no explica. El campo de Juana Josefa Bustos del otro lado de la permuta (FGHIJ) es una de las hijuelas «en W» de la ficha 099; el lápiz posterior «Hoy Maxwell» indica que el lote de Susana pasó a los Maxwell."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "099 (Schuster, hijuelas de Matilde Flora, Susana Rufina y Juana Josefa Bustos, 167 ha 72 a 35 ca cada una): el campo de «Matilde B. de Villafañe» aquí mide 168,2473 ha y el lápiz «Antonio [?] Aguilar 167 h 72 a 35 c» repite la cifra de 099; la mensura de Schuster que Spotti usa para corregir el alambrado es la de 099. La Juana Josefa de la permuta es la de 099 (tía de las herederas), distinta de Josefa Bustos y Rodríguez (hija). 111 (Petrona Bustos de Rodríguez, 1880): confirma la venta del Gobierno a «Pedro José Rodríguez» (1838) y la legua de Ramón Bustos; el lindero NO Emiliano Rodríguez es de ese campo. 170 (Carey, 1895): el vendedor de 1838 aparece allí como «Pablo José Rodríguez» (error de copia de 170); Pablo Bustos, Matilde de Villafañe, José/María Maxwell y Jorge Belson son los mismos linderos. 167 (donación a Federico Lacroze, 1891): otra cesión de faja para el Tramway Rural. 086 y 034/068 (Marcelino Mezquita, comprador de tierras de Duberty y Galeano): los «herederos de Mezquita» al NE. 011 (Guillermo Aguirre): lindero SE de la legua en 1838. 013/058 (Saraví): el «Bartolo Saraví [?]» de 1838. 100 (Pablo Bustos compra el campo ex Monsalvo de 412,48 ha en 1879): ese campo NO entra en esta partición."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Texto completo fs. 1-16 vta. y plano; f. 17 en blanco; falta el auto de aprobación. Preguntas: ¿por qué la partición da exactamente la mitad a cada línea materna y, dentro de ella, 171,6 ha a Susana y 120,98 a sus hermanas? ¿Se aceptó cargar el sobrante de 3,83 ha a Matilde? ¿Se corrigió el alambrado F-L, que encerraba 7 ha de los Bustos en el campo Villafañe? ¿Qué fue del campo ex Monsalvo de la ficha 100? ¿Quién es Antonio [?] Aguilar? La variación magnética de Spotti (8° 31′ NE, 1896) difiere en 2,5° de las de Aranguren (11° 5′, 1895) y Schuster (11° 2′, 1880): o Spotti usa otro procedimiento (meridiana solar) o alguna de las cifras es convencional. Lecturas dudosas: «Bartolo Saraví [?]», «José Barabillaso [?]», día 21 [?] de la aprobación de diciembre de 1895, las firmas del Departamento."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Pablo Bustos",
+   "rol": "Causante",
+   "texto": "Hijo de Ramón Bustos; recibe en 1863 una hijuela de 11.050.000 v² de la legua paterna, compra en 1879 el campo ex Monsalvo (100), permuta en 1886 con su hermana Juana Josefa y vende en 1892 la zona de vía a Lacroze. Dos matrimonios (con una Rodríguez y con una Alderete) y seis hijas; muere antes de diciembre de 1895 con testamento.",
+   "fuentes": "Este duplicado; fichas 099, 100, 170."
+  },
+  {
+   "nombre": "Matilde, Susana y Josefa Bustos y Rodríguez",
+   "rol": "Herederas (primera línea)",
+   "texto": "Hijas de Pablo Bustos con una Rodríguez. Reciben 120,98, 171,60 y 120,98 ha; a Matilde se le carga el sobrante (124,81 ha). No confundir con sus tías Matilde Flora (de Villafañe), Susana Rufina y Juana Josefa Bustos de la ficha 099.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Virginia Fermina, Ramona Delfina y Juana María Erlinda Bustos y Alderete",
+   "rol": "Herederas (segunda línea)",
+   "texto": "Hijas de Pablo Bustos con una Alderete. Reciben 146,29, 120,98 y 146,29 ha; a Erlinda le toca «la población» por disposición testamentaria.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Ramón Bustos",
+   "rol": "Antecesor",
+   "texto": "Compra una legua cuadrada a Pedro José Rodríguez (6/6/1838, escribano Luis Castañaga); su testamentaría se reparte en 1863 (escribano Abelardo Báez).",
+   "fuentes": "Este duplicado; fichas 099, 111, 170."
+  },
+  {
+   "nombre": "Pedro José Rodríguez",
+   "rol": "Vendedor de 1838",
+   "texto": "Compra la tierra al Estado (19/5/1838, Sección Topográfica de Areco, ley de 1836) y la revende por leguas: una a Ramón Bustos y otra parte a Bartolo Cortés.",
+   "fuentes": "Este duplicado; ficha 111. En 170 figura como «Pablo José»."
+  },
+  {
+   "nombre": "Juana Josefa Bustos",
+   "rol": "Tía de las herederas, permutante",
+   "texto": "Hija de Ramón Bustos; su hijuela (099) linda con Maxwell, Villafañe y Carey. En 1886 la permuta con su hermano Pablo por una faja de igual superficie (165,65 ha) junto a Kenny y Mezquita; en el plano figura como «Josefa B. de Rodríguez», casada con un Rodríguez.",
+   "fuentes": "Este duplicado; ficha 099."
+  },
+  {
+   "nombre": "Matilde Bustos de Villafañe",
+   "rol": "Lindera se",
+   "texto": "Hermana de Pablo, casada con Fernando Villafañe; su campo (168,25 ha, ex hijuela de 099) tiene el alambrado F-L mal puesto. Por su marido firma la circular Ramón Vidal.",
+   "fuentes": "Este duplicado; fichas 099, 170."
+  },
+  {
+   "nombre": "Federico Lacroze",
+   "rol": "Comprador de la zona de vía",
+   "texto": "Empresario del Tramway Rural (luego Ferrocarril Central de Buenos Aires); compra a Pablo Bustos 15.679 m² el 5/11/1892 para la vía.",
+   "fuentes": "Este duplicado; ficha 167."
+  },
+  {
+   "nombre": "Pedro Kenny",
+   "rol": "Lindero n",
+   "texto": "Firma la circular y el acta y presencia la mensura. Familia irlandesa establecida en Giles desde la década de 1860.",
+   "fuentes": "Este duplicado; fichas 029, 038, 111."
+  },
+  {
+   "nombre": "Marcelino Mezquita (herederos)",
+   "rol": "Linderos ne",
+   "texto": "El Dr. Marcelino Mezquita compró el campo de Francisco Duberty y el sobrante de Sotero Galeano; en 1896 sus herederos no son encontrados para firmar.",
+   "fuentes": "Este duplicado; fichas 034, 068, 086."
+  },
+  {
+   "nombre": "Emiliano Rodríguez",
+   "rol": "Lindero no",
+   "texto": "Firma la circular; su campo es el de la familia Rodríguez de la ficha 111 (Petrona Bustos de Rodríguez).",
+   "fuentes": "Este duplicado; ficha 111."
+  },
+  {
+   "nombre": "José Maxwell y María M. de Maxwell",
+   "rol": "Linderos so",
+   "texto": "José Maxwell figura en la permuta de 1886; en 1896 firma su esposa o viuda María M. (la «Mary [?] M.» de 170), que presencia la mensura. Un lápiz posterior («Hoy Maxwell») indica que los Maxwell compraron el lote de Susana.",
+   "fuentes": "Este duplicado; ficha 170."
+  },
+  {
+   "nombre": "Jorge Belson",
+   "rol": "Lindero se",
+   "texto": "Comprador de 253 ha a los Carey (170); firma la circular y el acta.",
+   "fuentes": "Este duplicado; ficha 170."
+  },
+  {
+   "nombre": "Bernardo Carry (Carey)",
+   "rol": "Lindero so",
+   "texto": "Viudo de María Cormack [?] de Carey (170); no es encontrado para firmar. Un lápiz posterior corrige «Carry» por «Carey».",
+   "fuentes": "Este duplicado; fichas 066, 084, 170."
+  },
+  {
+   "nombre": "Ramón Vidal",
+   "rol": "Representante",
+   "texto": "Firma la circular «por el Señor Villafañe».",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor anterior",
+   "texto": "Su mensura del campo Villafañe (099), con duplicado en el Departamento, es la referencia que usa Spotti para declarar mal puesto el alambrado.",
+   "fuentes": "Fichas 099, 100, 102."
+  },
+  {
+   "nombre": "Luis Castañaga, José Barabillaso [?] (¿Basavilbaso?), Abelardo Báez, Cornelio Games",
+   "rol": "Escribanos",
+   "texto": "Castañaga escritura la venta de 1838; el escribano de Gobierno (probablemente José Ramón Basavilbaso) la de 1838 al Estado; Báez las hijuelas de 1863; Games la permuta de 1886.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "César A. Spotti",
+   "rol": "Ingeniero",
+   "texto": "Firma en La Plata el 14/2/1896; primer duplicado de Giles a su nombre. Usa rumbos astronómicos por alturas correspondientes del sol y prosa técnica muy ordenada. Sin datos biográficos hallados (una búsqueda web sin resultados útiles).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "J. [?] Lagos [?], Julián Romero, Carlos M. Albarracín, R. Martín [?], Ángel Etcheverry, J. [?] Pinguett [?]",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firman la vista del 3/3/1896. Lagos, Romero, Albarracín y Etcheverry aparecen ya en 157, 164, 169 y 170; Martín [?] y Pinguett [?] son nuevos.",
+   "fuentes": "Fichas 157-170."
+  }
+ ],
+ "portadilla": {
+  "img": "",
+  "fuente": "transcripción · IMG_0617.JPG",
+  "lineas": [
+   "San Andrés de Giles / N.º 171.— / Duplicado de la diligencia / de mensura del terreno de / los herederos de D.n Pablo / Bustos en el partido / de San Andrés de / Giles / [arriba, a lápiz o tinta:] 5. 19. 125."
+  ]
+ },
+ "titulo": "Herederos de Pablo Bustos (seis hijas)",
+ "estado": "Transcripta (38 hojas, 84 renglones), 5 láminas"
+}
