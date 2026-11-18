@@ -316,7 +316,7 @@ footer{border-top:1px solid var(--line);padding-block:1.2rem 2.5rem;font-size:14
 </section>
 
 </div></main>
-<footer><div class="wrap">Documentos: Archivo Histórico de Geodesia, Ministerio de Infraestructura de la Provincia de Buenos Aires. Transcripción, interpretación y curaduría: Juan Patricio Addesso, Doctorado en Geografía (USAL) · <a href="https://www.surtectura.ar" target="_blank" rel="noopener">Surtectura</a>.</div></footer>
+<footer><div class="wrap">Documentos: Archivo Histórico de Geodesia, Ministerio de Infraestructura de la Provincia de Buenos Aires. Transcripción, interpretación y curaduría: Arq. Juan Patricio Addesso, doctorando en Geografía (USAL) · <a href="https://www.surtectura.ar" target="_blank" rel="noopener">Surtectura</a>.</div></footer>
 
 <script>
 (async function(){
@@ -480,7 +480,7 @@ $('#dimg').innerHTML=Array.from({length:TOTAL},(_,i)=>`<option value="${i+1}">Ca
 const setImg=()=>{const n=pad($('#dimg').value);$('#dimg-c').href='img/c/'+n+'.jpg';$('#dimg-c').download='carpeta_'+n+'_caratula.jpg';$('#dimg-p').href='img/p/'+n+'.jpg';$('#dimg-p').download='carpeta_'+n+'_plano.jpg'};$('#dimg').addEventListener('input',setImg);setImg();
 const GT={Polygon:'polígonos',MultiPolygon:'polígonos',LineString:'líneas',Point:'puntos'},peso=k=>k>=1024?(k/1024).toFixed(1).replace('.',',')+' MB':k+' KB';
 get('descargas/sig/capas.json',[]).then(C=>{$('#dsig tbody').innerHTML=C.map(c=>`<tr><td><b>${esc(c.titulo)}</b></td><td>${c.n.toLocaleString('es-AR')} ${c.n===1?(GT[c.geom]||'').replace(/e?s$/,''):GT[c.geom]||''}</td><td><span class="row">${[['shp.zip','SHP'],['geojson','GeoJSON'],['kml','KML']].filter(x=>c.kb[x[0]]!=null).map(x=>`<a class="btn" href="descargas/sig/${c.id}.${x[0]}" download>${x[1]} <span style="color:var(--muted)">${peso(c.kb[x[0]])}</span></a>`).join('')}</span></td></tr>`).join('')+`<tr><td><b>Aportes con ubicación</b></td><td>${APO.filter(a=>a.coordenadas).length} puntos</td><td><span class="row"><button class="btn" data-dl="apo-geojson">GeoJSON</button><button class="btn" data-dl="apo-kml">KML</button></span></td></tr>`});
-$('#citeall').textContent=`Addesso, Juan Patricio (2026). Atlas de Mensuras de Giles: archivo abierto. Investigación doctoral, Doctorado en Geografía, Universidad del Salvador. ${SITE} (consultado el ${HOY}).`;
+$('#citeall').textContent=`Addesso, Juan Patricio (2026). Atlas de Mensuras de Giles: archivo abierto. Investigación doctoral en curso, Doctorado en Geografía, Universidad del Salvador. ${SITE} (consultado el ${HOY}).`;
 $('#lic').innerHTML=`Transcripciones, lecturas y datos elaborados: <a href="${esc(CFG.licencia_url||'#')}" target="_blank" rel="noopener">${esc(CFG.licencia_textos||'')}</a>. Las reproducciones de los documentos pertenecen al Archivo Histórico de Geodesia; consultá sus condiciones antes de reutilizarlas. Cada aporte conserva la autoría de quien lo acercó.`;
 const apoGeo=()=>APO.filter(a=>a.coordenadas).map(({contacto,coordenadas,archivos,...p})=>{const c=String(coordenadas).split(/[,;]/).map(x=>parseFloat(x));return {type:'Feature',properties:p,geometry:{type:'Point',coordinates:[c[1],c[0]]}}});
 const DL={

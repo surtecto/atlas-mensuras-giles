@@ -10,7 +10,7 @@ Atlas histórico de consulta de las **191 carpetas de mensuras del partido de Sa
 - **Fuentes:** capas, método y advertencias.
 - **Archivo abierto** (`archivo.html`): las fichas transcriptas con la fotografía de cada hoja, lector renglón por renglón y búsqueda de texto completo; índice de personas, biblioteca del territorio, aportes del público, preguntas abiertas y enlaces a las otras plataformas municipales. Descargas ya maquetadas: cada ficha en PDF, los datos en un libro de Excel, imágenes en JPG e información espacial en Shapefile, GeoJSON y KML (`descargas/`). Ver `ARCHIVO.md`.
 
-Investigación doctoral de **Juan Patricio Addesso** (Doctorado en Geografía, Universidad del Salvador) sobre el paisaje pampeano y el Pago Gilense.
+Investigación doctoral en curso del arquitecto **Juan Patricio Addesso**, doctorando en Geografía (Universidad del Salvador), sobre el paisaje pampeano y el Pago Gilense.
 
 ## Publicarlo con GitHub Pages
 

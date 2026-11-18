@@ -242,7 +242,7 @@ def excel(F, D, P, B, AP, destino):
             ('Láminas', 'Una fila por plano o detalle: título, fuente, orientación y lectura.'), ('Personas', '%d notas biográficas de las personas nombradas.' % len(P)),
             ('Biblioteca', '%d referencias sobre el territorio.' % len(B)), ('Aportes', 'Aportes del público ya publicados.'), ('', ''),
             ('Notación', 'En «Renglones»: ⟨texto⟩ = testado en el original; [texto] = nota o reconstrucción del transcriptor; [?] = lectura dudosa. Se respeta la ortografía del original.'),
-            ('Actualizado', FECHA), ('Autor', 'Juan Patricio Addesso · Doctorado en Geografía, Universidad del Salvador · Surtectura'),
+            ('Actualizado', FECHA), ('Autor', 'Arq. Juan Patricio Addesso · doctorando en Geografía, Universidad del Salvador · Surtectura'),
             ('Cómo citar', 'Addesso, Juan Patricio (%d). Atlas de Mensuras de Giles: archivo abierto. %s' % (HOY.year, SITIO)),
             ('Licencia', 'Transcripciones, lecturas y datos: CC BY 4.0. Los documentos originales pertenecen al Archivo Histórico de Geodesia.')]
     for i, (a, b) in enumerate(info, 6):
