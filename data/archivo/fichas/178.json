@@ -1,0 +1,506 @@
+{
+ "carpeta": "178",
+ "carpeta_nombre": "Carpeta 178",
+ "archivo": "Ficha 178 - Emilio J. Muñiz (1898).docx",
+ "resumen": {
+  "N.º de duplicado": "178 (San Andrés de Giles); cifra 7.172.47",
+  "Propietario / solicitante": "Emilio J. Muñiz",
+  "Agrimensor": "Alfredo Thamm",
+  "Año": "1898",
+  "Fecha de la diligencia": "7/11/1898; entrada D. I. 24/11/1898; vista 2/12/1898",
+  "Ubicación": "Campo de Bernardo Gutiérrez, fajas Alfonsín (dupl. 63), estancia «San Ramón»",
+  "Orden judicial": "Juez 1.ª Inst. Dto. de la Capital Dr. Vicente Anzoátegui",
+  "Vendedor / antecesor": "Honoria Alfonsín de Manzano y Abad Alfonsín (esc. Graz, 1888)",
+  "Linderos citados": "C. Alfonsín, L. Cassou, A. Casado, F. Costa, E. Seery, J. M.ª Muñiz, M. Mac Laughlin",
+  "Medidas": "AB 2656,41 · BC 3767,08 · CD 2788,17 · DA 3777,42 m",
+  "Rumbos": "N 46° 28′ O / N 43° 06′ E / S 46° 39′ E / S 45° 06′ O; var. 11° 43′ NE",
+  "Referencia de archivo": "AHG PBA, duplicado 178; cita el duplicado 63 (Schuster 1872)"
+ },
+ "metricas": {
+  "superficie_ha": "857,96 (de Muñiz); 1026,70 el conjunto con Cassou",
+  "hitos": "estancia «San Ramón», pulpería de Scotti, puestos de Farley, Geoghan y Mac Laughlin; mojones de fierro de 1872",
+  "aguas": "ninguna nombrada"
+ },
+ "sintesis": "Remensura en 1898, por Alfredo Thamm, de dos de las cinco fajas en que Carlos Schuster dividió en 1872 la testamentaría de Advíncula Gutiérrez de Alfonsín (duplicado 63, citado expresamente): las hijuelas de Honoria Alfonsín de Manzano y de Abad Alfonsín, que Emilio J. Muñiz compró en Mercedes en noviembre y diciembre de 1888, salvo 100 cuadras que Abad ya había vendido a Luis Cassou. Thamm arranca en los mojones de fierro de Schuster, sigue alambrados ya existentes y obtiene un rectángulo de 1026,7 ha con las mismas superficies de 1872: Muñiz tiene 857,96 ha frente a 830,20 de títulos, y el exceso es el sobrante fiscal de 27,76 ha que Schuster ya había detectado y que ahora se ubica como una faja de 73,70 m sobre el costado NO. Visuales a la estancia «San Ramón», a puestos, azoteas y a una pulpería; vista favorable del Departamento el 2/12/1898.",
+ "caratula": {
+  "img": "img/f/178/01.jpg",
+  "fuente": "IMG_0769.JPG",
+  "campos": [
+   [
+    "N.º",
+    "178"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Emilio J. Muñiz"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Alfredo Thamm"
+   ],
+   [
+    "Año",
+    "1898"
+   ],
+   [
+    "Juzgado / Secretaría",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · extracto de títulos: Honoria Alfonsín de Manzano (1888)",
+   "img": "img/f/178/06.jpg",
+   "fuente": "IMG_0771.JPG",
+   "nota": "Hoja fotografiada acostada (rot 90); sello «FOJA 1»; cruces de lápiz de revisión.",
+   "lineas": [
+    "[sello: Dirección de Geodesia — 1]",
+    "Estracto de títulos.",
+    "En la ciudad de Mercedes á / veinte y nueve de Noviembre de mil / ochocientos ochenta y ocho ante el / escribano Don Darío Graz [?], D.ª / Honoria Alfonsin de Manzano / vende á Don Emilio J. Muñiz / un terreno en el Partido de San / Andrés de Giles, compuesto de / cuatrocientas noventa y nueve / hectáreas, cuarenta y siete áreas / y siete centiáreas (499 hs 47 as 07 / cts) y lindando al Nord-Este / con D. Cecilio Alfonsin, al Sud- / Este con D. Abad Alfonsin, al / Sud-Oeste con D. Zoilo Costa, hoy / D. Eugenio Seery [?] y al Nord- / Oeste con D. José Alfonsin, hoy / D. José Martinez y D. Lorenzo / Dondero [?].",
+    "Este terreno correspondia á la ven- / dedora por herencia de su finada / madre D.ª Advíncula [?] Gu- / tierrez de Alfonsin y le fué ad- / judicado en la cuenta particio- / naria de sus bienes practicada / por el contador D. Adolfo Al- / dao y aprobada por el señor Juez / de primera Instancia Dr. Don"
+   ],
+   "interpretacion": "Primer título: en Mercedes, el 29/11/1888, ante el escribano Darío Graz, Honoria Alfonsín de Manzano vende a Emilio J. Muñiz 499 ha 47 a 07 ca en San Andrés de Giles, con linderos Cecilio Alfonsín (NE), Abad Alfonsín (SE), Zoilo Costa «hoy» Eugenio Seery (SO) y José Alfonsín «hoy» José Martínez y Lorenzo Dondero [?] (NO). La tierra le venía por herencia de su madre Advíncula Gutiérrez de Alfonsín, en la cuenta particionaria del contador Adolfo Aldao."
+  },
+  {
+   "titulo": "Folio 1 vuelto · cadena de dominio hasta 1838",
+   "img": "img/f/178/07.jpg",
+   "fuente": "IMG_0772.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Luis Beláustegui, secretario Don / Francisco Raggio [?], en Buenos Ai- / res á veinte y cuatro de Agosto / de mil ochocientos setenta y dos.",
+    "Á D.ª Advíncula Gutierrez de / Alfonsin correspondia este terreno / por herencia de su finado padre / D. Bernardo Gutierrez y le fué / adjudicado en mayor extension / en la cuenta particionaria prac- / ticada por el contador D. Francisco / Albarracin y aprobada por el señor / Juez de 1.ª Instancia Dr. D. Juan / A. Garcia en Buenos Aires á vein- / te y dos de Abril de mil ochocien- / tos sesenta y uno, ante el escriba- / no D. Pedro Medrano [?].",
+    "D. Bernardo Gutierrez hubo el / terreno, de que el deslindado es / parte, por compra que en dos / fracciones hizo á D. Antonio Ro- / cha en diez de Noviembre de mil / ochocientos cuarenta y nueve / ante el escribano D. Manuel José / de Zeballos.",
+    "Á D. Antonio Rocha correspon- / dia una fraccion por compra / al mismo D. Bernardo Gutierrez / en diez y nueve de Diciembre de / mil ochocientos treinta y ocho"
+   ],
+   "interpretacion": "La partición de Advíncula fue aprobada por el juez Luis Beláustegui (24/8/1872). Advíncula había heredado de su padre Bernardo Gutiérrez «en mayor extensión» (cuenta del contador Francisco Albarracín, aprobada por el juez Juan A. García, 22/4/1861, escribano Pedro Medrano [?]). Bernardo compró el campo en dos fracciones a Antonio Rocha el 10/11/1849 (escribano Manuel José de Zeballos), y Rocha tenía una de ellas por compra al mismo Bernardo Gutiérrez el 19/12/1838: el ida y vuelta Gutiérrez-Rocha ya registrado en las fichas 052-053."
+  },
+  {
+   "titulo": "Folio 2 · Schuster 1872 y el sobrante",
+   "img": "img/f/178/08.jpg",
+   "fuente": "IMG_0772.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 2]",
+    "ante el escribano D. Casiano [?] / Montaño, y la otra por compra / á D. Bartolo Cobo á diez y seis / de Noviembre de mil ochocientos / cuarenta y tres ante el escribano / D. Pablo Yzarzabal [?].",
+    "En la mensura y division que / por órden del señor Juez de pri- / mera Instancia Dr. Don Luis / Beláustegui practicó en Se- / tiembre de mil ochocientos / setenta y dos el agrimensor D. / Cárlos Schuster de los terrenos / de la testamentaria de D.ª Ad- / víncula Gutierrez de Alfonsin, / operacion que fué aprobada",
+    "por el Departamento Topográ- / fico en tres de Enero y por / el referido Juez en veinte y siete / de Marzo de mil ochocientos se- / tenta y tres, dicho agrimensor / dejó dentro de los límites de / la fraccion adjudicada á D.ª / Honoria Alfonsin de Manza- / no un sobrante de propiedad / pública de doscientos setenta / y siete mil, seiscientos trein- / ta y tres metros cuadrados (277.633 metros c.) / que le corresponde en posesion por"
+   ],
+   "interpretacion": "La otra fracción de Rocha venía de Bartolo Cobo (16/11/1843, escribano Pablo Yzarzabal [?]). En la mensura y división de la testamentaría de Advíncula que Carlos Schuster practicó en septiembre de 1872 (aprobada por el Departamento Topográfico el 3/1/1873 y por el juez el 27/3/1873; es el duplicado 63) se dejó dentro de la fracción de Honoria un SOBRANTE de propiedad pública de 277 633 m²."
+  },
+  {
+   "titulo": "Folio 2 vuelto · cesión del sobrante; título de Abad Alfonsín",
+   "img": "img/f/178/09.jpg",
+   "fuente": "IMG_0773.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "cesion que le hicieron sus cohere- / deros á fin de que solicitase su / compra al Superior Gobierno.",
+    "En la presente escritura de D.ª / Honoria Alfonsin de Manzano á / favor de D. Emilio J. Muñiz / dicha señora vende tambien / á este último sus derechos á la / compra del referido sobrante.",
+    "En la ciudad de Mercedes an- / te el escribano D. Darío Graz á / veinte y cuatro de Diciembre de / mil ochocientos ochenta y ocho, / D. Abad Alfonsin vende á / Emilio J. Muñiz un terreno / en el Partido de San Andrés / de Giles, compuesto de trescien- / tas treinta hectáreas, seten- / ta y tres áreas y siete centiá- / reas (330 hs 73 as 07 cts) y lindan- / do al Nord-Este con D. Cecilio Al- / fonsin, hoy D. Luis Cassou, al / Sud-Este con D. Agustin Casa- / do, al Sud-Oeste con D. Federico / y D. Zoilo Costa y por el Nord- / Oeste con D.ª Honoria Alfonsin / de Manzano, hoy el comprador / señor Muñiz.",
+    "Este terreno fué adjudicado al"
+   ],
+   "interpretacion": "Los coherederos cedieron a Honoria el derecho a pedir en compra el sobrante al gobierno, y ella vende ese derecho a Muñiz junto con la tierra. Segundo título: el 24/12/1888, ante Graz, Abad Alfonsín vende a Muñiz 330 ha 73 a 07 ca, con linderos Cecilio Alfonsín «hoy» Luis Cassou (NE), Agustín Casado (SE), Federico y Zoilo Costa (SO) y Honoria, «hoy el comprador» (NO)."
+  },
+  {
+   "titulo": "Folio 3 · venta previa a Cassou; comienzo de la mensura",
+   "img": "img/f/178/10.jpg",
+   "fuente": "IMG_0773.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 3]",
+    "vendedor en mayor estension en / la testamentaria de su finada / madre D.ª Advíncula Gutie- / rrez de Alfonsin, habiendo ya / vendido D. Abad Alfonsin en / veinte y dos de Febrero de mil / ochocientos ochenta y cuatro, / ante el mismo escribano Graz / á D. Luis Cassou ciento se- / senta y ocho hectáreas y se- / tenta y cuatro áreas (168 hs 74 as) / ó sean cien cuadras cuadra- / das (100 cs. cs.), lindando al / Norte con D. Cecilio Alfonsin, / al Sud con el vendedor, al Este / con D. Agustin Casado y al / Oeste con D.ª Honoria Alfon- / sin de Manzano.",
+    "Las procedencias del terreno / de D.ª Advíncula Gutierrez / de Alfonsin ya se han de- / tallado en el antecedente ex- / tracto de títulos de D.ª Hono- / ria Alfonsin de Manzano.",
+    "[cruces de lápiz al margen]",
+    "Mensura.",
+    "En el Partido de San Andrés / de Giles á siete de Noviembre / de mil ochocientos noventa"
+   ],
+   "interpretacion": "Abad ya había vendido el 22/2/1884, ante Graz, 168 ha 74 a = 100 cuadras cuadradas a Luis Cassou. Su faja original era, por lo tanto, 330,7307 + 168,74 = 499,47 ha, igual a la de Honoria (las fajas de Schuster eran iguales). Comienza la «Mensura» el 7 de noviembre de 1898."
+  },
+  {
+   "titulo": "Folio 3 vuelto · comisión judicial y línea A-B",
+   "img": "img/f/178/11.jpg",
+   "fuente": "IMG_0774.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "y ocho el agrimensor que firma / comisionado por el señor Juez de / primera Instancia del Departa- / mento de la Capital de esta Pro- / vincia, Dr. D. Vicente Anzoátegui, / secretario D. Enrique C. Casa[res ?], / para medir el terreno de Don / Emilio J. Muñiz, previa la / citacion de los linderos, la cual / acompaño, procedí como sigue.",
+    "Me coloqué en A, mojon / antiguo de fierro, puesto en mil / ochocientos setenta y dos por el / agrimensor D. Cárlos Schuster / como esquinero Sud de D. Abad / Alfonsin en su division del / terreno de los herederos de D.ª / Advíncula Gutierrez de Alfon- / sin (Dupl. 63), y de aquí medí / bajo el alambrado de D. Federico / Costa y de D. Eugenio Seery (an- / tes D. Zoilo Costa) con rumbo / Norte cuarenta y seis grados, vein- / te y ocho minutos Oeste (N. 46° / 28′ O) dos mil, seiscientos cincuen- / ta y seis metros, cuarenta y un cen- / tímetros (2656,41 ms) hasta B, mojon / de fierro, puesto por el citado facul- / tativo como esquinero Oeste de D.ª"
+   ],
+   "interpretacion": "El agrimensor Alfredo Thamm, comisionado por el juez de 1.ª Instancia del Departamento de la Capital, Dr. Vicente Anzoátegui (secretario Enrique C. Casa[res ?]), cita a los linderos. Arranca en A, mojón de FIERRO puesto por Schuster en 1872 como esquinero S de Abad Alfonsín, con la cita expresa «(Dupl. 63)», y mide bajo el alambrado de Federico Costa y Eugenio Seery N 46° 28′ O 2656,41 m hasta B, otro mojón de fierro de Schuster."
+  },
+  {
+   "titulo": "Folio 4 · mojones en A-B; puesto de Farley y portada de Seery",
+   "img": "img/f/178/12.jpg",
+   "fuente": "IMG_0774.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 4]",
+    "Honoria Alfonsin de Manzano / y Sud de D. José Alfonsin.",
+    "En esta línea AB hallé á los / cuatrocientos treinta y un metros / (431 ms) un mojon de palo, esqui- / nero Norte de D. Federico Costa / y Este de D. Eugenio Seery y / á los mil trescientos veinte y / tres metros, cincuenta centíme- / tros (1323,50 ms), en F, el esqui- / nero Sudoeste de un antiguo / alambrado divisorio entre D. / Abad Alfonsin y D.ª Honoria / A. de Manzano, en cuyo punto / puse un mojon de palo, que- / dando entónces la FB igual / á mil, trescientos treinta y / dos metros, noventa y un cen- / tímetros (1332,91 ms).",
+    "A contar de A enfrenté á los / mil cuatrocientos cuarenta y / ocho metros (1448 ms), á la dere- / cha, el puesto de D. Bernardo / Farley y pasé á los dos mil, / seiscientos cuarenta y ocho / metros (2648 ms) el centro de / la portada de Seery.",
+    "Desde B, dividiendo con D. José / María Muñiz y D. Miguel Mac"
+   ],
+   "interpretacion": "En A-B halla a 431 m un mojón de palo (esquinero de Costa y Seery) y a 1323,50 m, en F, el esquinero SO del ANTIGUO ALAMBRADO divisorio entre Abad y Honoria (1323,50 + 1332,91 = 2656,41: cierra). Enfrenta a 1448 m el puesto de Bernardo Farley y cruza a 2648 m la portada de Seery. B-C deslinda con José María Muñiz y Miguel Mac Laughlin."
+  },
+  {
+   "titulo": "Folio 4 vuelto · línea B-C (NO)",
+   "img": "img/f/178/13.jpg",
+   "fuente": "IMG_0775.JPG (mitad izquierda)",
+   "nota": "El final de los renglones queda en el pliegue del cuadernillo; se reconstruye por el contexto.",
+   "lineas": [
+    "Laughlin (ambos antes D. José / Alfonsin) y bajo el alambrado / de dichos propietarios, medí con / rumbo Norte cuarenta y tres / grados, seis minutos Este / (N. 43° 06′ E) tres mil, setecientos / sesenta y siete metros, ocho cen- / tímetros (3767,08 ms) hasta C, mo- / jon de palo, puesto por el agri- / mensor Schuster como esqui- / nero Norte de D.ª Honoria A. de / Manzano y Este de D. José Al- / fonsin, habiendo ya hallado en / esta línea BC dos esquineros / de palo del mismo facultativo / á los mil trescientos sesenta / y cuatro metros (1364 ms) y dos / mil, seiscientos dos metros / (2602 ms). Á los doscientos sesen- / ta y cuatro metros (264 ms) crucé / el centro de una portada de D. / José M.ª Muñiz, hallé á los mil / trescientos sesenta y dos metros, / siete decímetros (1362,7 ms) y dos / mil, seiscientos catorce metros / siete decímetros (2614,7 ms) los es- / quineros Nordoeste de dos alam- / brados interiores de D. Emilio J. / Muñiz, y á los dos mil, cuatro-"
+   ],
+   "interpretacion": "B-C, N 43° 06′ E, 3767,08 m, bajo el alambrado de José M.ª Muñiz y Mac Laughlin («ambos antes José Alfonsín»), hasta C, mojón de palo de Schuster; en la línea, dos esquineros de palo del mismo agrimensor (1364 y 2602 m), la portada de José M.ª Muñiz (264 m), los esquineros NO de dos alambrados interiores de Emilio Muñiz (1362,7 y 2614,7 m)."
+  },
+  {
+   "titulo": "Folio 5 · línea C-D (NE)",
+   "img": "img/f/178/14.jpg",
+   "fuente": "IMG_0775.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 5]",
+    "cientos veinte y nueve metros, / veinte y nueve centímetros (2429, / 29 ms) el esquinero Sudeste de un / alambrado divisorio entre D. José / M.ª Muñiz y D. Miguel Mac Laugh- / lin.",
+    "Desde C, dividiendo con Don / Cecilio Alfonsin y bajo el a- / lambrado de este propietario, / medí con rumbo Sud cuaren- / ta y seis grados, treinta y nueve / minutos Este (S. 46° 39′ E) dos / mil, setecientos ochenta y ocho / metros, diez y siete centímetros / (2788,17 ms) hasta D, mojon de / fierro puesto por el agrimensor / Schuster como esquinero Este / de D. Abad Alfonsin.",
+    "Á los mil cuatrocientos se- / senta y cuatro metros, cincuen- / ta y siete centímetros (1464,57 ms), en / E, hallé el esquinero Nordeste / del ántes referido antiguo a- / lambrado divisorio entre D.ª / Honoria A. de Manzano y D. / Abad Alfonsin, en cual pun- / to puse un mojon de palo, que- / dando así la ED de mil tres- / cientos veinte y tres metros, se- / senta centímetros (1323,60 ms)."
+   ],
+   "interpretacion": "A 2429,29 m el esquinero SE del alambrado entre José M.ª Muñiz y Mac Laughlin. C-D, contra Cecilio Alfonsín y bajo su alambrado, S 46° 39′ E 2788,17 m hasta D, mojón de fierro de Schuster. En E (1464,57 m) el esquinero NE del antiguo alambrado Abad/Honoria; ED = 1323,60 m (1464,57 + 1323,60 = 2788,17)."
+  },
+  {
+   "titulo": "Folio 5 vuelto · estancia «San Ramón»; línea D-A",
+   "img": "img/f/178/15.jpg",
+   "fuente": "IMG_0776.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Á contar de C crucé en la CD / á los cuatrocientos veinte y seis / metros (426 ms) el centro de una / portada de D. Emilio J. Muñiz, / enfrenté á los setecientos cin- / cuenta y seis metros (756 ms) la / estancia «San Ramon» de dicho / propietario y pasé á los dos mil, / trescientos cincuenta y ocho me- / tros (2358 ms) el centro de una por- / tada de D. Luis Cassou.",
+    "Desde D, dividiendo con D. A- / gustin Casado y bajo el alam- / brado de este propietario, medí / con rumbo Sud cuarenta y cin- / co grados, seis minutos Oeste / (S. 45° 06′ O) tres mil, setecientos / setenta y siete metros, cuarenta / y dos centímetros (3777,42 ms) hasta / el mojon de arranque A, habien- / do encontrado á los dos mil, cua- / trocientos setenta y nueve metros / (2479 ms) un costanero de fierro de / D. Abad Alfonsin del agrimen- / sor Schuster y á los mil, dos- / cientos setenta y cinco metros, cua- / renta y cuatro centímetros (1275,44 ms), / en H, el esquinero Sudeste de un / alambrado divisorio entre D. Luis / Cassou y D. Emilio J. Muñiz (ámbos"
+   ],
+   "interpretacion": "En C-D: portada de Emilio Muñiz a 426 m, la ESTANCIA «SAN RAMÓN» del propietario enfrentada a 756 m, portada de Luis Cassou a 2358 m. D-A, contra Agustín Casado y bajo su alambrado, S 45° 06′ O 3777,42 m hasta A, con costanero de fierro de Schuster a 2479 m y, en H (1275,44 m), el esquinero SE del alambrado Cassou-Muñiz."
+  },
+  {
+   "titulo": "Folio 6 · portada de Casado y línea E-F",
+   "img": "img/f/178/16.jpg",
+   "fuente": "IMG_0776.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 6]",
+    "ántes Abad Alfonsin), quedan- / do entónces la HA de dos mil / quinientos un metros, noventa / y ocho centímetros (2501,98 ms).",
+    "Á los mil quinientos veinte / metros (1520 ms) de D crucé el centro / de una portada de Casado.",
+    "Regresé á E y de aquí medí, / bajo el antiguo alambrado divi- / sorio entre D. Abad Alfonsin / y D.ª Honoria A. de Manzano, / con rumbo Sud cuarenta y cin- / co grados, seis minutos Oeste / (S. 45° 06′ O) tres mil, setecientos / setenta y tres metros, diez y / ocho centímetros (3773,18 ms) / hasta F, habiendo hallado dos / costaneros de palo del agrimen- / sor Schuster á los mil qui- / nientos treinta y cinco metros / (1535 ms) y dos mil, setecientos / veinte y seis metros (2726 ms).",
+    "Á los mil cuatrocientos seten- / ta metros, cuatro decímetros / (1470,4 ms) y dos mil, seiscientos / veinte metros, cinco decímetros / (2620,5 ms) hallé los esquineros / Sudeste de dos alambrados in- / teriores de D. Emilio J. Muñiz y / crucé á los tres mil, sesenta y cinco"
+   ],
+   "interpretacion": "HA = 2501,98 m (1275,44 + 2501,98 = 3777,42); portada de Casado a 1520 m de D. Desde E, bajo el antiguo alambrado Abad/Honoria, S 45° 06′ O 3773,18 m hasta F, con costaneros de palo de Schuster a 1535 y 2726 m y los esquineros SE de dos alambrados interiores de Muñiz (1470,4 y 2620,5 m)."
+  },
+  {
+   "titulo": "Folio 6 vuelto · las dos fracciones",
+   "img": "img/f/178/17.jpg",
+   "fuente": "IMG_0777.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "metros (3065 ms) el centro de una por- / tada. Á mas encontré á los mil / doscientos setenta y cinco metros, / cuarenta y cuatro centímetros / (1275,44 ms), en G, el esquinero Nord- / oeste del alambrado divisorio entre / D. Emilio J. Muñiz y D. Luis Cassou, / el cual corre de G hasta H, / resultando así la GF de dos mil, / cuatrocientos noventa y siete / metros, setenta y cuatro cen- / tímetros (2497,74 ms).",
+    "Queda de este modo el terreno / total ABCD dividido en las / dos fracciones siguientes: / el trapecio ADEF con una su- / perficie de cuatrocientas noven- / ta y nueve hectáreas, cuarenta / y siete áreas y siete centiáreas / (499 hs 47 as 07 cts), que es el an- / tiguo lote de D. Abad Alfonsin / hoy dividido entre D. Emilio J. / Muñiz y D. Luis Cassou, y / el trapezóide BCEF con una su- / perficie de quinientas veinte y / siete hectáreas, veinte y tres áreas / y cuarenta centiáreas (527 hs / 23 as 40 cts), que es el antiguo / lote de D.ª Honoria Alfonsin de / Manzano, hoy de D. Emilio J."
+   ],
+   "interpretacion": "En E-F: portada a 3065 m; en G (1275,44 m) el esquinero NO del alambrado Muñiz-Cassou; GF = 2497,74 m. El terreno total ABCD queda en dos fracciones: I = trapecio ADEF, 499 ha 47 a 07 ca, lote de Abad, hoy de Muñiz y Cassou; II = trapezoide BCEF, 527 ha 23 a 40 ca, lote de Honoria, hoy de Muñiz. Recalculado en python: 499,455 y 527,219 ha."
+  },
+  {
+   "titulo": "Folio 7 · igualdad con Schuster; separación de Cassou",
+   "img": "img/f/178/18.jpg",
+   "fuente": "IMG_0777.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 7]",
+    "Muñiz.",
+    "Ambas fracciones I y II contienen / las mismas superficies que les / habia dado el agrimensor Schus- / ter, incluyendo en el área de la / fraccion II el sobrante que men- / cionan los títulos de D.ª Honoria / A. de Manzano: con veinte y siete / hectáreas, setenta y seis áreas / [y] treinta y tres centiáreas (27 hs / 76 as 33 cts).",
+    "Para separar de la fraccion I / las ciento sesenta y ocho hectá- / reas, setenta y cuatro áreas y / una centiárea (168 hs 74 as 01 cts) / ó sean las cien cuadras cua- / dradas (100 cs. cs.) vendidas por / D. Abad Alfonsin á D. Luis / Cassou, volví á G, y de aquí / medí con rumbo Sud cua- / renta y seis grados, treinta y / nueve minutos Este (S. 46° / 39′ E) mil trescientos veinte y / tres metros, sesenta centímetros / (1323,60 ms) hasta H, poniendo mo- / jones de palo en G y H.",
+    "Resulta entónces el paralelógra- / mo DEGH, ya encerrado por an- / tiguos alambrados, el terreno de / D. Luis Cassou con la arriba"
+   ],
+   "interpretacion": "Ambas fracciones tienen exactamente las superficies que les dio Schuster, incluyendo en la II el sobrante de 27 ha 76 a 33 ca (499,4707 + 27,7633 = 527,2340: exacto). Para separar las 100 cuadras de Cassou (168 ha 74 a 01 ca), vuelve a G y mide G-H S 46° 39′ E 1323,60 m, con mojones de palo en G y H: el paralelogramo DEGH, «ya encerrado por antiguos alambrados»."
+  },
+  {
+   "titulo": "Folio 7 vuelto · superficie de Muñiz y exceso",
+   "img": "img/f/178/19.jpg",
+   "fuente": "IMG_0778.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "indicada superficie y / el trapecio AFGH, que es la parte / vendida por D. Abad Alfonsin á / D. Emilio J. Muñiz, con la super- / ficie de trescientas treinta hectá- / reas, setenta y tres áreas y seis / centiáreas (330 hs 73 as 06 cts).",
+    "Agregando esta última super- / ficie á la del trapezóide BCEF / resulta el terreno total compra- / do por D. Emilio J. Muñiz á D. / Abad Alfonsin y D.ª Honoria / Alfonsin de Manzano respec- / tivamente ó sea el exágono / irregular ABCEGH con una / superficie total de ochocientas / cincuenta y siete hectáreas, no- / venta y seis áreas y cuarenta / y seis centiáreas (857 hs 96 as / 46 cts).",
+    "[cruces de lápiz al margen]",
+    "El total de sus dos títulos es / solamente de ochocientas trein- / ta hectáreas veinte áreas y / trece centiáreas (830 hs 20 as 13 cts), / de modo que en el terreno resul- / ta un esceso de veinte y siete / hectáreas, setenta y seis áreas / y treinta y tres centiáreas (27 hs / 76 as 33 cts), que ya se mencionó y / cuya compra solicitará D. Emi-"
+   ],
+   "interpretacion": "AFGH (compra a Abad) = 330 ha 73 a 06 ca; con BCEF, el hexágono irregular ABCEGH suma 857 ha 96 a 46 ca. Títulos: 830 ha 20 a 13 ca. Exceso 27 ha 76 a 33 ca, que Muñiz pedirá en compra «en tiempo oportuno» al Superior Gobierno."
+  },
+  {
+   "titulo": "Folio 8 · ubicación del sobrante; linderos; circular",
+   "img": "img/f/178/20.jpg",
+   "fuente": "IMG_0778.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 8]",
+    "lio J. Muñiz en tiempo oportuno al / Superior Gobierno. [cruces de lápiz]",
+    "Para ubicar dicho sobrante regresé / á C y de aquí medí sobre la CD / setenta y tres metros, setenta cen- / tímetros hasta a, de a con rumbo / Sud cuarenta y tres grados, seis / minutos Oeste (S. 43° 06′ O) tres / mil setecientos sesenta y siete me- / tros, treinta y dos centímetros (3767, / 32 ms) hasta intersectar la AB en b y / por fin de b, sobre la AB, setenta / y tres metros, setenta centímetros / (73,70 ms) hasta B.",
+    "Queda así el sobrante con su / correspondiente superficie ubicado / en el trapecio BCab.",
+    "Linda el terreno ABCEGH por / el Nord-Este con D. Cecilio Al- / fonsin y D. Luis Cassou, por el / Sud-Este con D. Agustin Casa- / do, por el Sud-Oeste con D. Federi- / co Costa y D. Eugenio Seery y / por el Nord-Oeste con D. José Ma- / ría Muñiz y D. Miguel Mac / Laughlin.",
+    "No hubo protesta por parte de / los linderos.",
+    "Firmaron la circular: D. Ce- / cilio Alfonsin, D. Luis Cassou"
+   ],
+   "interpretacion": "El sobrante se ubica como una FAJA de 73,70 m de ancho a lo largo de todo el costado NO (B-C-a-b; a-b S 43° 06′ O 3767,32 m): recalculado 27,764 ha. Linderos del conjunto: Cecilio Alfonsín y Luis Cassou (NE), Agustín Casado (SE), Federico Costa y Eugenio Seery (SO), José M.ª Muñiz y Miguel Mac Laughlin (NO). «No hubo protesta»."
+  },
+  {
+   "titulo": "Folio 8 vuelto · firmantes, variación, visuales",
+   "img": "img/f/178/21.jpg",
+   "fuente": "IMG_0779.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "D. Federico Costa, D. Eugenio Seery, / D. José M.ª Muñiz y D. Miguel Mac / Laughlin por sí y D. Lucas Már- / quez, arrendatario y encargado de / D. Agustin Casado por este pro- / pietario residente en Mercedes (B.s A.s) / y el acta de conformidad las / mismas personas ménos D. Federico / Costa, ausente al concluirse la / mensura.",
+    "La variacion de la aguja se / calculó en once grados, cuaren- / ta y tres minutos Nord-Este / (11° 43′ N.E).",
+    "Avalizamientos.",
+    "A (AF = 0)",
+    "2° 12′ Puesto de Bernardo Farley. / 22° 32′ Azotea G.mo M.c Laughlin. / 87° 50′ Estancia de Luis Cassou.",
+    "B (BC = 0)",
+    "10° 30′ Puesto de Antonio Geoghan [?]. / 86° 56′ » » Bernardo Farley. / 284° 40′ Estancia de José M.ª Muñiz.",
+    "C (CD = 0)",
+    "3° 28′ Estancia «San Ramon». / 111° 25′ id. de José M.ª Muñiz. / 170° 20′ » Miguel M.c Laughlin.",
+    "E (ED = 0)",
+    "16° 28′ Estancia de Luis Cassou. / 27° 25′ Pulpería de Antonio Scotti."
+   ],
+   "interpretacion": "Firman la circular todos los linderos, Lucas Márquez como arrendatario y encargado de Agustín Casado, que reside en Mercedes; el acta de conformidad, todos menos Federico Costa, ausente al terminar. Variación 11° 43′ NE. «Avalizamientos» (visuales angulares desde los mojones): desde A, puesto de Bernardo Farley, azotea de Guillermo Mac Laughlin, estancia de Luis Cassou; desde B, puestos de Antonio Geoghan [?] y Farley y estancia de José M.ª Muñiz; desde C, estancia «San Ramón», estancia de José M.ª Muñiz y la de Miguel Mac Laughlin; desde E, estancia de Cassou y PULPERÍA DE ANTONIO SCOTTI."
+  },
+  {
+   "titulo": "Folio 9 · últimas visuales y firma",
+   "img": "img/f/178/22.jpg",
+   "fuente": "IMG_0779.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 9]",
+    "73° 00′ P.to de Guillermo Mac Laughlin.",
+    "G (GE = 0)",
+    "46° 50′ Estancia de Luis Cassou. / 124° 04′ Puesto de G.mo M.c Laughlin. / 159° 56′ Azotea id. id.",
+    "H (HA = 0)",
+    "10° 35′ Azotea de G.mo M.c Laughlin. / 59° 06′ Puesto id. id. / 167° 10′ Estancia de Luis Cassou.",
+    "Sobre raspado, «Manzano» vale. / Entre renglones, «centí» vale.",
+    "Alfredo Thamm [firma]",
+    "[sello: Departamento de Ingenieros de la Provincia — Entrada — 24 Noviembre 189(8)]",
+    "[resto de la página en blanco, inutilizado con dos rayas; rúbrica al pie]"
+   ],
+   "interpretacion": "Desde E también el puesto de Guillermo Mac Laughlin; desde G y H, la estancia de Cassou y el puesto y la azotea de Guillermo Mac Laughlin. Salvedades («Manzano», «centí») y firma de Alfredo Thamm. Sello de entrada del Departamento de Ingenieros: 24/11/1898. El resto de la página está inutilizado con dos rayas."
+  },
+  {
+   "titulo": "Folio 9 vuelto · vista del Departamento de Ingenieros (2/12/1898)",
+   "img": "img/f/178/23.jpg",
+   "fuente": "IMG_0780.JPG",
+   "nota": "Hoja suelta con el plano plegado a la derecha (tomas IMG_0780-0783). No hay auto de aprobación judicial en el duplicado.",
+   "lineas": [
+    "[cruces de lápiz]",
+    "Se- / ñor Juez:",
+    "El Departamento de Ingenieros ha examinado la men- / sura practicada por el agrimensor Thamm de un terreno / de propiedad de D.n Emilio J. Muñiz, situado en el / partido de San Andrés de Giles y la encuentra en con- / diciones de ser aprobada judicialmente.",
+    "Ha resultado un sobrante de propiedad pública de / 27 h 76 a 33 c, el cual era ya conocido por la men- / sura que practicó el agrimensor Schuster en 1872, / para los herederos de D.ª Advincula de Gutierrez, quien lo / incluyó en la fraccion adjudicada á D.ª Honoria Al- / fonsin de Manzano, vendedora al S.r Muñiz, desig- / nada con las letras CEGFB en el plano de la pre- / sente mensura.",
+    "Dicho sobrante ha sido ubicado sobre el costado N.O. / del campo medido y linda al N.E. con Cecilio Alfonsin; al / N.O. con José M. Muñiz y Miguel M.c Laughlin; al S.O. / con Eugenio Seery y al S.E. con Emilio J. Muñiz. – / El acta de conformidad ha sido suscrita por todos los / linderos menos D. Federico Costa quien no se encon- / traba presente al finalizar la operacion. –",
+    "Diciembre 2 de 1898.",
+    "Félix A. Malato [firma] – Julian Romero [firma] / Benjamin Sal [firma] – Cárlos M. Albarracin [firma]",
+    "[rúbrica; cruces de lápiz]"
+   ],
+   "interpretacion": "El Departamento encuentra la mensura en condiciones de aprobarse. El sobrante de 27 ha 76 a 33 ca «era ya conocido» por la mensura de Schuster de 1872, que lo incluyó en la fracción de Honoria (CEGFB en el plano); se ubica sobre el costado NO, entre Cecilio Alfonsín (NE), José M. Muñiz y Miguel Mac Laughlin (NO), Eugenio Seery (SO) y Emilio J. Muñiz (SE). Firman Félix A. Malato, Julián Romero, Benjamín Sal y Carlos M. Albarracín."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del terreno de Emilio J. Muñiz (Thamm, 1898)",
+   "img": "img/f/178/03.jpg",
+   "fuente": "IMG_0781.JPG (vista general; detalles IMG_0782-0783)",
+   "orientacion": "plano en tela, plegado y fotografiado girado: el costado B-C (NO) queda arriba; flecha «V. 11° 43′ NE»; escala gráfica a la izquierda, sin escala numérica legible",
+   "interpretacion": "Dibujo cuidado, con letra de normógrafo, del rectángulo A-B-C-D (≈ 2,66 × 3,77 km). En el centro, la planilla: AFGH = 330 h 73 a 06 c; BCEF = 527 h 23 a 40 c; Terreno = 857 h 96 a 46 c; Título = 830 h 20 a 13 c; Esceso = 27 h 76 a 33 c. En rojo, la faja del sobrante «BCab = 277.633 m.c», de 73,7 m de ancho, «ab = 3767.32». Abajo a la derecha, la fracción de Luis Cassou (DEGH, «S = 168 h 74 a 01 c») con su «Est.ª». Están dibujados los puntos de los puestos y casas usados como visuales: «Ant.º Geaghan», «Bernardo Farley», dos de «Guillermo M.c Laughlin» y la estancia «San Ramón» (casa con arboleda, sobre el costado NE). Una línea de trazos oblicua cruza la fracción de Honoria hacia G: un alambrado interior que el texto no describe. Lápiz: «46 28 / 43 06 / 3 34», la diferencia entre los rumbos de AB y BC, porque la figura NO es un rectángulo perfecto (ángulo en B de 89° 34′).",
+   "referencias": [
+    [
+     "A",
+     "Esquinero S, mojón de fierro de Schuster (1872), arranque; Casado, Costa"
+    ],
+    [
+     "B",
+     "Esquinero O, mojón de fierro de Schuster; Seery, J. M.ª Muñiz"
+    ],
+    [
+     "C",
+     "Esquinero N, mojón de palo de Schuster; Mac Laughlin, C. Alfonsín"
+    ],
+    [
+     "D",
+     "Esquinero E, mojón de fierro de Schuster; C. Alfonsín (Cassou), Casado"
+    ],
+    [
+     "E · F",
+     "Antiguo alambrado divisorio Abad / Honoria (EF = 3773,18 m)"
+    ],
+    [
+     "G · H",
+     "Divisoria Muñiz / Cassou (GH = 1323,6 m)"
+    ],
+    [
+     "a · b",
+     "Límite interior de la faja del sobrante (Ca = bB = 73,7 m)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: costado NO, sobrante y planilla",
+   "img": "img/f/178/04.jpg",
+   "fuente": "IMG_0782.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "Cotas parciales de B-C (264, 1362,7, 1364 a.p., 2429,29, 2602 a.p., 2614,7) y de E-F (1470,4, 1535, 2620,5, 2726, 3065); la faja roja del sobrante; la flecha de la variación; la estancia «San Ramón» junto a C-E.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: fracción de Cassou y costado SE",
+   "img": "img/f/178/05.jpg",
+   "fuente": "IMG_0783.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "DEGH de Luis Cassou (168 ha 74 a 01 ca), cotas DH = EG = 1275,44, GH = ED = 1323,6, HA = 2501,98, DA = 3777,42 m; linderos Agustín Casado (SE), Eugenio Seery y Federico Costa (SO); firma de Thamm con rúbrica en forma de espiga.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Un campo completamente ALAMBRADO hacia 1898: Thamm camina «bajo el alambrado» de cada vecino y encuentra alambrados interiores de Muñiz (cuatro esquineros) y el «antiguo alambrado divisorio» entre las hijuelas de Abad y Honoria, levantado entre 1873 y 1888. Las aberturas son PORTADAS (de José M.ª Muñiz, Emilio Muñiz, Cassou, Seery, Casado): la circulación entre campos se hace por tranqueras sobre las líneas. El poblamiento es denso y jerarquizado: estancias (San Ramón de Muñiz, Cassou, José M.ª Muñiz, Miguel Mac Laughlin), puestos (Farley, Geoghan, Guillermo Mac Laughlin), una AZOTEA (casa de techo plano, de material) de Guillermo Mac Laughlin visible desde cuatro mojones y una PULPERÍA de Antonio Scotti hacia el E. Los apellidos irlandeses (Farley, Geoghan, Mac Laughlin, Seery) muestran la ocupación ovejera irlandesa de la zona. No se nombra ninguna agua."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Citación por circular, firmada por todos los linderos; Lucas Márquez firma como ARRENDATARIO y encargado del ausente Agustín Casado, que vive en Mercedes: el propietario no reside y el arrendatario lo representa. El acta de conformidad la firman todos menos Federico Costa, que se fue antes de terminar. «No hubo protesta». No hay negociación de líneas: todo está ya definido por mojones de 1872 y alambrados, y la mensura consiste en verificar y documentar."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Thamm reconoce los mojones de FIERRO de Schuster en las cuatro esquinas (A, B, D) y de palo en C y en los costados, 26 años después: es una de las pocas mensuras de la serie en que los mojones de la anterior se encuentran todos. Mide con cinta al centímetro, coloca mojones de palo nuevos (F, E, G, H) y registra «avalizamientos»: ángulos desde cada mojón a casas y puestos (0° sobre el lado siguiente), una triangulación del paisaje construido como la de Gonnet (032). Variación 11° 43′ NE. Cierre del polígono recalculado en python: 0,12 m sobre 13 km de perímetro; superficies parciales coherentes a ±0,02 ha."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todo en metros y hectáreas; los títulos de 1884-1888 ya se escrituran en hectáreas, salvo la venta a Cassou, todavía en «cien cuadras cuadradas» (168,74 ha; cuadra de 150 v = 129,9 m). Las fajas de Schuster eran iguales: 499,47 ha cada una (la de Teódulo Olivera, ficha 063, 499,5 ha). El total de títulos se da como 830 ha 20 a 13 ca, aunque la suma de las escrituras (499,4707 + 330,7307) es 830,2014: la diferencia de 1 ca coincide con AFGH medido 330,7306 (el agrimensor ajusta el título a la medida). El sobrante (277 633 m²) es una faja de 73,70 × 3767 m ≈ 2,6 % del campo de Honoria."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena: Bartolo Cobo y Bernardo Gutiérrez → Antonio Rocha (1838-1843) → Bernardo Gutiérrez (1849) → su hija Advíncula Gutiérrez de Alfonsín (partición de 1861) → sus hijos (partición de 1872, Schuster) → Honoria Alfonsín de Manzano y Abad Alfonsín → Emilio J. Muñiz (1888), salvo 100 cuadras de Abad a Luis Cassou (1884). La faja de José Alfonsín pasó a José Martínez y Lorenzo Dondero [?] y luego a José M.ª Muñiz y Miguel Mac Laughlin; la de Cecilio Alfonsín, en parte, a Cassou. En 26 años, los nietos de Bernardo Gutiérrez venden y la tierra se concentra en manos de una familia de agrimensores-propietarios (los Muñiz) y de ovejeros irlandeses. El sobrante fiscal, cedido por los coherederos a Honoria en 1873 para que lo comprara, todavía no estaba comprado en 1898: el derecho a comprarlo se vendía con la tierra."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "Ficha 063 (Schuster, 1872): es el «Dupl. 63» que Thamm cita; aquí se confirma que la tercera y cuarta fajas eran las de Honoria y Abad (en 063 el nombre de Abad se leyó con duda: queda confirmado) y que los mojones de las esquinas eran de fierro. Los rumbos de 063 (A-B N 46° 28′ O; B-C N 43° 8′ E; C-D S 46° 37′ E) coinciden con los de Thamm (N 46° 28′ O; N 43° 06′ E; S 46° 39′ E). En 063 Félix Manzano pide en compra el sobrante en 1873: en 1898 seguía sin comprarse. Fichas 052-053 y 152 (campo Gutiérrez; Petrona G. de Molina remedida por Ricardo Muñiz en 1888-89) y 156 (Ricardo A. Muñiz compra la hijuela de Dolores Alegre el 5/12/1888 ante el mismo escribano Graz, en Mercedes): en un mes, noviembre-diciembre de 1888, Emilio J. y Ricardo A. Muñiz compran ante Graz tierras del antiguo campo Gutiérrez. José María Muñiz, el agrimensor de 1865-1878 (034, 048, 073, 083), aparece aquí como LINDERO NO, con estancia. Ficha 085 (Zoilo Costa, Schuster 1878): los Costa al SO. Fichas 176-177: el mismo Departamento (Romero, Albarracín) en 1898."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Texto completo fs. 1-9 vta. y plano; no hay auto de aprobación judicial (el duplicado termina con la vista del 2/12/1898). Dudas: escribanos «Pedro Medrano [?]», «Casiano [?] Montaño», «Pablo Yzarzabal [?]»; «Lorenzo Dondero [?]»; secretario «Enrique C. Casa[res ?]» (cortado en el pliegue); puesto de «Antonio Geoghan» (texto) / «Ant.º Geaghan» (plano); secretario del juez Beláustegui en 1872 «Francisco Raggio [?]». ¿Qué parentesco une a Emilio J. con José María y Ricardo A. Muñiz? ¿Compró finalmente Muñiz el sobrante (el sello «Sobrante» de la portadilla indica que la Dirección lo fichó como tal)? ¿Por qué una mensura de Giles en 1898 tramita ante un juez de la Capital (La Plata) y no ante el de Mercedes, como 176 y 177?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Alfredo Thamm",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor activo en la provincia de Buenos Aires a fines del siglo XIX; única intervención suya en la serie de Giles hasta ahora. Prolijo: cotas al centímetro, visuales angulares desde cada mojón, plano en tela con letra de normógrafo y sobrante en rojo; firma con rúbrica en forma de espiga.",
+   "fuentes": "Este duplicado. Búsqueda web 18/11/2026 sin resultados pertinentes."
+  },
+  {
+   "nombre": "Emilio J. Muñiz",
+   "rol": "Propietario",
+   "texto": "Compra en Mercedes, ante Darío Graz, la hijuela de Honoria Alfonsín (29/11/1888) y la de Abad Alfonsín menos 100 cuadras (24/12/1888); en 1898 tiene allí la estancia «San Ramón», alambrados interiores y portadas. Probablemente de la familia del agrimensor José María Muñiz (lindero NO) y de Ricardo A. Muñiz, que compra tierra vecina ante el mismo escribano en diciembre de 1888.",
+   "fuentes": "Este duplicado; fichas 152 y 156."
+  },
+  {
+   "nombre": "Honoria Alfonsín de Manzano",
+   "rol": "Vendedora",
+   "texto": "Hija de Advíncula Gutiérrez; adjudicataria de una faja de 499,47 ha en la división de Schuster (1872) con un sobrante fiscal adentro; su marido Félix Manzano pidió ese sobrante en compra en 1873 (ficha 063). Vende a Muñiz en 1888 tierra y derecho al sobrante.",
+   "fuentes": "Ficha 063; este duplicado."
+  },
+  {
+   "nombre": "Abad, Cecilio y José Alfonsín",
+   "rol": "Hermanos de honoria; vendedor y linderos",
+   "texto": "Hijos de Advíncula Gutiérrez de Alfonsín. Abad vende 100 cuadras a Cassou (1884) y el resto a Muñiz (1888); Cecilio sigue como lindero NE en 1898; la faja de José ya pasó a otros dueños.",
+   "fuentes": "Fichas 052, 063; este duplicado."
+  },
+  {
+   "nombre": "Advíncula Gutiérrez de Alfonsín",
+   "rol": "Causante (madre)",
+   "texto": "Hija de Bernardo Gutiérrez; heredó en la partición de 1861 (contador Francisco Albarracín, juez Juan A. García); su testamentaría se dividió en 1872 (Schuster, juez Luis Beláustegui, contador Adolfo Aldao). En la ficha 052 figura como «Advíncula G. de Olivera»: el apellido Olivera (Teódulo Olivera, primera faja de 063) sugiere un segundo matrimonio o un hijo de otro enlace.",
+   "fuentes": "Fichas 052, 063; este duplicado."
+  },
+  {
+   "nombre": "Bernardo Gutiérrez, Antonio Rocha, Bartolo Cobo",
+   "rol": "Antecesores (1838-1849)",
+   "texto": "Gutiérrez vende a Rocha en 1838 y le recompra en 1849 las dos fracciones; la otra venía de Bartolo Cobo (1843). Es el mismo ida y vuelta Gutiérrez-Rocha registrado en las fichas 052-053.",
+   "fuentes": "Fichas 052-053; este duplicado."
+  },
+  {
+   "nombre": "Carlos Schuster",
+   "rol": "Agrimensor de 1872",
+   "texto": "Midió y dividió la testamentaría de Advíncula Gutiérrez (duplicado 63) y puso los mojones de fierro que Thamm encuentra en 1898; activo en Giles entre 1859 y 1879.",
+   "fuentes": "Fichas 063, 085, 096 y otras; METODO.md."
+  },
+  {
+   "nombre": "Luis Cassou",
+   "rol": "Lindero ne y se",
+   "texto": "Compra a Abad Alfonsín 100 cuadras (1884) y otra parte a Cecilio Alfonsín; tiene estancia visible desde cinco mojones.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "José María Muñiz",
+   "rol": "Lindero no (agrimensor)",
+   "texto": "Agrimensor de muchas mensuras de Giles entre 1865 y 1878; en 1898 es propietario y tiene estancia en la antigua faja de José Alfonsín.",
+   "fuentes": "Fichas 034, 048, 073, 083; este duplicado."
+  },
+  {
+   "nombre": "Miguel y Guillermo Mac Laughlin",
+   "rol": "Lindero no y vecino",
+   "texto": "Miguel, lindero NO con estancia; Guillermo tiene puesto y AZOTEA dentro o junto al campo medido, usados como visuales.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Federico y Zoilo Costa, Eugenio Seery",
+   "rol": "Linderos so",
+   "texto": "Zoilo Costa poseía un gran campo al SO (ficha 085, Schuster 1878); parte pasó a Eugenio Seery, con portada sobre la línea A-B. Federico Costa no firmó el acta final.",
+   "fuentes": "Ficha 085; este duplicado."
+  },
+  {
+   "nombre": "Agustín Casado y Lucas Márquez",
+   "rol": "Lindero se y su arrendatario",
+   "texto": "Casado, propietario de la quinta faja de 063 y de una estancia al SE, vive en Mercedes; firma por él su arrendatario y encargado Lucas Márquez.",
+   "fuentes": "Fichas 061, 063; este duplicado."
+  },
+  {
+   "nombre": "Bernardo Farley, Antonio Geoghan [?], Antonio Scotti",
+   "rol": "Puesteros y pulpero",
+   "texto": "Farley y Geoghan tienen puestos en el campo o en su borde; Scotti, una pulpería hacia el E, visible desde E.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Darío Graz",
+   "rol": "Escribano de mercedes",
+   "texto": "Autoriza las tres ventas de 1884-1888 de este duplicado y la compra de Ricardo A. Muñiz del 5/12/1888 (ficha 156).",
+   "fuentes": "Ficha 156; este duplicado."
+  },
+  {
+   "nombre": "Vicente Anzoátegui",
+   "rol": "Juez de 1.ª instancia del departamento de la capital",
+   "texto": "Comisiona a Thamm; el secretario se lee Enrique C. Casa[res ?].",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Félix A. Malato, Julián Romero, Benjamín Sal, Carlos M. Albarracín",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firman la vista del 2/12/1898. Los mismos nombres aparecen en las vistas de 1890-1898 (fichas 152-177).",
+   "fuentes": "METODO.md; fichas 176-177."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/178/02.jpg",
+  "fuente": "IMG_0770.JPG",
+  "lineas": [
+   "[sello azul al margen: Sobrante]",
+   "San Andres de Giles – N.º 178 –",
+   "Duplicado de la diligencia de mensura",
+   "del terreno de D. Emilio J. Muñiz",
+   "en el Partido de San Andrés de Giles",
+   "por el agrimensor Alfredo Thamm",
+   "1898.",
+   "[otra mano:] 7. 172. 47."
+  ]
+ },
+ "titulo": "Emilio J. Muñiz",
+ "estado": "Transcripta (18 hojas, 88 renglones), 3 láminas"
+}

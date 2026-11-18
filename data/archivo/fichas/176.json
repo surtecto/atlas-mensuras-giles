@@ -1,0 +1,722 @@
+{
+ "carpeta": "176",
+ "carpeta_nombre": "Carpeta 176",
+ "archivo": "Ficha 176 - Petrona Almirón de Andrada (1898).docx",
+ "resumen": {
+  "N.º de duplicado": "176 (San Andrés de Giles)",
+  "Propietario / solicitante": "Petrona Almirón de Andrada (venta de 300 ha a Jorge Morgan)",
+  "Agrimensor": "Carlos M. Ramallo, ingeniero civil",
+  "Año": "1898",
+  "Fecha de la diligencia": "auto 7/5; campo desde 6/6; plano 22/6; informe 22/7; D. I. 2/9/1898",
+  "Ubicación": "Ex campo de Serafín Andrada, entre Morgan, Welch, Botana y Silva",
+  "Orden judicial": "Juzgado de Mercedes; aprobada por auto del 21/9/1898 [?]",
+  "Vendedor / antecesor": "Serafín Andrada; títulos de Casco 1855, Cucullu 1866, Saraví-Posadas 1869-70",
+  "Linderos citados": "J. Morgan, her. de Welch, Mezquita, Botana, Pichetto, Ferretto, Pagnone, Ambrune, Casas",
+  "Medidas": "A-B 869,40; B-C 876,20; C-D 2614,80; D-E 1688,30; E-F 2616,35; H-A 2971,15 m",
+  "Rumbos": "S 41° 48′ O (orientación de Dodds 1894); declinación 8° 26′ NE",
+  "Referencia de archivo": "AHG PBA, duplicado 176; cita «Mens. N.º 168» (Dodds 1894)"
+ },
+ "metricas": {
+  "superficie_ha": "699,47 (campo total); 610,61 (viuda); 300 (Morgan)",
+  "hitos": "mirador de Welch; casas de Casas, Welch, Santia, Benítez, Andrada, Mereta; alambrados",
+  "aguas": "no se mencionan"
+ },
+ "sintesis": "Mensura del ingeniero civil Carlos M. Ramallo (junio-julio de 1898) para deslindar 300 ha que la viuda Petrona Almirón de Andrada vendió a Jorge Morgan. Para hacerlo reconstruye el campo de Serafín Andrada (compras a Casco 1855, Cucullu 1866 y Saraví-Posadas 1869-70: 691,78 ha por títulos, 699,47 medidas), registra las cinco hijuelas de 17,78 ha que Orlandini había ubicado en 1896 sin pasar por el Departamento y deja a la viuda 610,61 ha, con un sobrante de 7,74 ha sobre el costado SE. Morgan coloca él mismo los mojones; los parientes Casas y Benítez se niegan a firmar. Los mojones se balizan con ángulos al mirador de Welch y a las casas vecinas, y la orientación se toma de Dodds 1894 (Ficha 168). Aprobada en setiembre de 1898.",
+ "caratula": {
+  "img": "img/f/176/01.jpg",
+  "fuente": "IMG_0701.JPG",
+  "campos": [
+   [
+    "N.º",
+    "176"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para Doña Petrona Almirón de Andrada"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Ramallo"
+   ],
+   [
+    "Mes / Año",
+    "Julio 1898"
+   ],
+   [
+    "Juzgado / Secretaría",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · presentación al juez (Mercedes, 22/7/1898)",
+   "img": "img/f/176/06.jpg",
+   "fuente": "IMG_0703.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "Mercedes Julio 22/898.",
+    "Señor Juez de 1ª Instancia:",
+    "El subscripto,- nombrado por auto de fecha 7 de mayo para practicar el deslinde i amojonamiento de una fracción de campo perteneciente á Dña. Petrona Almirón de Andrada vendida á Dn. Jorge Morgan, debe esponer á V. S. lo siguiente como resultado de la operación realizada:",
+    "—",
+    "Debo empezar por manifestar que en los antecedentes que me han sido suministrados por el Juzgado no figura la venta hecha por Dn. Serafín Andrada á Dn. Domingo Silva de la mitad del campo que aquel comprara á Dn. Francisco Ant. Casco (título 1º) de cuya"
+   ],
+   "interpretacion": "El ingeniero Carlos M. Ramallo, nombrado por auto del 7 de mayo, informa al juez el deslinde y amojonamiento de una fracción del campo de Petrona Almirón de Andrada VENDIDA a Jorge Morgan. Advierte de entrada que en los antecedentes del Juzgado falta la venta que Serafín Andrada hizo a Domingo Silva de la mitad del campo comprado a Francisco Antonio Casco: el expediente llega incompleto y el agrimensor completa la cadena con lo que le cuentan los interesados."
+  },
+  {
+   "titulo": "Folio 1 vuelto · Differt 1868 y la división de 1896",
+   "img": "img/f/176/07.jpg",
+   "fuente": "IMG_0704.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "operación me informó Dn. Juan B. Andrada i de la que existen también antecedentes en el Departamento de Ingenieros por haber practicado la división el agrimensor Differt [?] el año 1868.-",
+    "Además de esto, puso también en mi conocimiento el mismo señor Andrada que la antigua propiedad de Dn. Serafín Andrada, formada por la suma de las fracciones á que se refieren los títulos del presente expediente, había sido dividida en virtud de las adjudicaciones testamentarias aprobadas por auto del Juez Dr. Angel M. Esquer [?] de fecha 26 de Febrero de 1896, en el expediente caratulado: «Almirón de Andrada Dña. Petrona i otros contra Andrada Juan Bautista i otros sobre división de condominio» i que la operación de división practicada por el agrimen-"
+   ],
+   "interpretacion": "Juan B. Andrada informa la venta a Silva (dividida por Teodoro Differt en 1868) y que la antigua propiedad de Serafín Andrada ya había sido dividida entre sus herederos por adjudicaciones aprobadas por el juez Dr. Ángel M. Esquer [?] el 26/2/1896, en el juicio «Almirón de Andrada, Petrona y otros contra Andrada, Juan Bautista y otros, sobre división de condominio»."
+  },
+  {
+   "titulo": "Folio 2 · las cinco hijuelas de 17 ha 7841 m²",
+   "img": "img/f/176/08.jpg",
+   "fuente": "IMG_0704.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "sor Dn. Apolinario Orlandini fué aprobada por auto del mismo Juez de fecha 29 de Abril de 1896.- Por esta operación i en virtud de las hijuelas respectivas se había adjudicado á cada uno de los herederos de Dn. Serafín Andrada, á saber: Rómulo i Juan B. Andrada, María Andrada de Cano, María Cayetana Andrada de Benítez i Herederos de Bonifacia Andrada de Casas, una superficie de diez i siete hectáreas siete mil ochocientos cuarenta i un metros cuadrados (17h 7841 m²) incluyendo en ella la parte proporcional que á cada uno correspondía del sobrante que tenía el campo.",
+    "Como no obstante haber sido aprobada judicialmente la operación practicada por el agrimensor Orlandini no había"
+   ],
+   "interpretacion": "La división de Apolinario Orlandini fue aprobada el 29/4/1896: a cada uno de cinco herederos (Rómulo y Juan B. Andrada, María Andrada de Cano, María Cayetana Andrada de Benítez y herederos de Bonifacia Andrada de Casas) le tocaron 17 ha 7841 m², incluida su parte del sobrante. Pero esa operación no había quedado registrada en el Departamento de Ingenieros."
+  },
+  {
+   "titulo": "Folio 2 vuelto · el programa de trabajo en tres pasos",
+   "img": "img/f/176/09.jpg",
+   "fuente": "IMG_0705.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "constancia de ella en el Departamento de Ingenieros de la Provincia, he debido por mi parte para dar cumplimiento al mandato de V. S. i atendiendo á las instrucciones formuladas por aquella repartición: 1º) Medir el campo que correspondía á los títulos primitivos de Dn. Serafín Andrada.- 2º) Medir la superficie perteneciente á Dña. Petrona Almirón de Andrada,- excluyendo las propiedades de los herederos ya mencionados de Dn. Serafín Andrada - 3º) Practicar la operación de deslinde i amojonamiento de la fracción vendida al Sor. Morgan, ubicándola de acuerdo con éste teniendo en cuenta los nuevos linderos que resultan por la división del campo.",
+    "Debo hacer presente á V. S. que al frac-"
+   ],
+   "interpretacion": "Por instrucciones del Departamento, Ramallo se impone tres operaciones: 1) medir el campo de los títulos primitivos de Serafín Andrada; 2) medir la parte de la viuda, excluyendo las cinco hijuelas; 3) deslindar la fracción vendida a Morgan «de acuerdo con éste», según los nuevos linderos de la división. Es un ejemplo de cómo una mensura «de venta» obliga a reconstruir toda la cadena previa."
+  },
+  {
+   "titulo": "Folio 3 · Títulos: compra a Casco (1855)",
+   "img": "img/f/176/10.jpg",
+   "fuente": "IMG_0705.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "ticar la 2ª operación he tenido á la vista todos los títulos de los nuevos propietarios habiendo encontrado á todos ellos concordantes con las mediciones efectuadas.",
+    "—",
+    "I.- Títulos.",
+    "1855.- En San Andrés de Giles á 23 de Abril, ante el Juez de Paz Dn. José Mª Casado, compra Dn. Serafín Andrada á Dn. Francisco Ant. Casco un campo compuesto de dos mil varas (2000 v) de frente por tres mil varas (3000 v) de fondo, lindando al Norte con Eduardo Morgan, al Sud con Hermenegildo Saraví, al Este con el vendedor i al oeste con Herederos de Plácido Guerrico [?].",
+    "Posteriormente vende Dn. Serafín"
+   ],
+   "interpretacion": "Revisó los títulos de todos los nuevos propietarios y los halló concordantes. 23/4/1855, ante el juez de paz José M.ª Casado: Serafín Andrada compra a Francisco Antonio Casco 2000 × 3000 varas, lindando N Eduardo Morgan, S Hermenegildo Saraví, E el vendedor y O herederos de Plácido Guerrico [?]."
+  },
+  {
+   "titulo": "Folio 3 vuelto · venta a los Silva y compra a Cucullu (1866)",
+   "img": "img/f/176/11.jpg",
+   "fuente": "IMG_0706.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Andrada la mitad de este campo á Juan i Domingo Silva con el que viene á quedar lindando por el Norte, practicando la división el agrimensor Teodoro Differt el año 1868- Le queda á Andrada una fracción de mil varas (1000 v) de frente por tres mil de fondo (3000 v).-",
+    "1866.- En el pueblo de Giles á 26 de Noviembre ante el Juez de Paz Dn. Julio Saraví, Dn. Isidro Cucullu vendió á Dn. Serafín Andrada un terreno de pastoreo compuesto de mil varas (1000 v) de frente por trescientos noventa i ocho varas (398 v) de fondo, cuyos linderos son: por el Norte Juan i Domingo Silva, por el Sud el vendedor, por el Este el comprador i por el oeste Herederos de Eduardo Morgan.",
+    "En esta venta se ratificó el vendedor Cucullu á pedido de Dña. Petrona A. de Andrada con fecha 11 de octubre de"
+   ],
+   "interpretacion": "Andrada vende la mitad (1000 v de frente) a Juan y Domingo Silva, que quedan al N (división Differt 1868); le quedan 1000 × 3000 v. 26/11/1866, ante el juez de paz Julio Saraví: Isidro Cucullu le vende 1000 × 398 v de pastoreo (N Silva, S el vendedor, E el comprador, O herederos de Eduardo Morgan). La venta se ratificó en 1894 a pedido de la viuda, ante el escribano Cornelio Gómez [?] de Giles: 28 años después hubo que sanear el título."
+  },
+  {
+   "titulo": "Folio 4 · compras a Saraví y Posadas (1869-1870)",
+   "img": "img/f/176/12.jpg",
+   "fuente": "IMG_0706.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "1894 ante el escribano de Giles Dn. Cornelio Gómez [?].-",
+    "1869.- En San Andrés de Giles á 23 de Marzo de 1869 ante el Juez de Paz Dn. Juan Silva, venden Dn. Julio Saraví i Dn. Lucas Posadas á Dn. Serafín Andrada un terreno de pastoreo compuesto de cuatro millones quinientas mil varas cuadradas (4500000 v²) lindando por el Norte con el comprador, por el Sud con herederos de Dña. Micaela Casco de Galeano i por el Este i el oeste con la testamentaría de Dña. Angela Casco de Saraví.",
+    "1870. En San Andrés de Giles á 4 de Agosto de 1870 ante el Juez de Paz Dn. Juan Silva, venden Dn. Julio Saraví i Dn. Lucas Posadas"
+   ],
+   "interpretacion": "23/3/1869, ante el juez de paz Juan Silva: Julio Saraví y Lucas Posadas venden 4 500 000 v² de pastoreo (N el comprador, S herederos de Micaela Casco de Galeano, E y O testamentaría de Ángela Casco de Saraví). 4/8/1870: nueva venta de los mismos."
+  },
+  {
+   "titulo": "Folio 4 vuelto · lote Iparraguirre de la testamentaría Casco de Saraví",
+   "img": "img/f/176/13.jpg",
+   "fuente": "IMG_0707.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "á Dn. Serafín Andrada un terreno de pastoreo compuesto de un millón trescientas veintisiete mil varas cuadradas (1327000 v²) lindando por el Norte con el comprador, por el Sud con los herederos de Dña. Micaela Galeano, por el Este con el mismo comprador i por el oeste con Dn. Isidro Cucullu.",
+    "Las dos últimas fracciones suman un total de cinco millones ochocientos veintisiete mil quinientas varas cuadradas (5827500 v²) correspondientes á uno de los lotes delineados por el agrimensor Iparraguirre el año 1870 en la división practicada en la Testamentaria de Dña. Angela Casco de Saraví.",
+    "1896. División i adjudicación hecha á los herederos de Dn. Serafín Andrada"
+   ],
+   "interpretacion": "La segunda compra es de 1 327 000 v² (O Isidro Cucullu). Las dos fracciones, «5 827 500 v²» según el copista (la suma da 5 827 000: error de 500 v²), forman uno de los lotes trazados por Mariano Iparraguirre en 1870 en la división de Ángela Casco de Saraví. Empieza la relación de la división de 1896."
+  },
+  {
+   "titulo": "Folio 5 · hijuela de Rómulo Andrada",
+   "img": "img/f/176/14.jpg",
+   "fuente": "IMG_0707.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "aprobada por auto de 26 de Febrero de 1896 Juzgado del Dr. Esquer, Secretaría de Pedro J. Torres [?].",
+    "1) A Rómulo Andrada le corresponde en campo según su hijuela 17h 6164 m² más la parte proporcional del exceso 1677 m², son diez i siete hectáreas 17h 7841 m² siete mil ochocientos cuarenta i un metros cuadrados, que se ubican en polígono de las siguientes dimensiones i linderos: costados N.O quinientos cuarenta i cinco metros (545) i N.E. trescientos veintiseis metros trescientos trece milímetros (326,313), linda en ambos con Petrona Almirón de Andrada; Costado S.O. lindando con Juan B. Andrada trescientos veintiseis metros trescientos trece milímetros (326,313); Costado S.E. lindando con Ruperto Botana quinientos cuarenta i cinco metros (545)"
+   ],
+   "interpretacion": "Juzgado del Dr. Esquer, secretario Pedro J. Torres [?]. Rómulo: 17 ha 6164 m² + 1677 m² de exceso = 17 ha 7841 m², rectángulo de 545 × 326,313 m (verificado: 177 840,6 m²), entre la viuda (NO y NE), Juan B. Andrada (SO) y Ruperto Botana (SE)."
+  },
+  {
+   "titulo": "Folio 5 vuelto · hijuela de Juan B. Andrada",
+   "img": "img/f/176/15.jpg",
+   "fuente": "IMG_0708.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "2) A Juan B. Andrada le corresponde en campo según su hijuela 17h 6164 m² más la parte proporcional del exceso 1677, son diez i siete hectáreas- 17h 7841 m² siete mil ochocientos cuarenta i un metros que se ubican en polígono de las siguientes dimensiones i linderos: Costado N.O quinientos cuarenta i cinco metros (545,00); Costado S.O. trescientos veintiseis metros trescientos trece milímetros (326,313) lindando en ambos con Petrona Almirón de Andrada; costado N.E. lindando con Rómulo Andrada, trescientos veintiseis metros trescientos trece milímetros (326,313).- Costado S.E. lindando con Ruperto Botana quinientos cuarenta i cinco metros (545,00)",
+    "Las dos fracciones anteriores han sido"
+   ],
+   "interpretacion": "Igual superficie y medidas, contigua a la de Rómulo. Las dos fracciones de los hermanos varones forman un bloque de 1090 m sobre el costado SE (línea E-F)."
+  },
+  {
+   "titulo": "Folio 6 · reventas y lote de los Casas",
+   "img": "img/f/176/16.jpg",
+   "fuente": "IMG_0708.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "vendidas sucesivamente á Zenobio Palacios [?] á Manuel Ferretto i á Carlos Mereta [?] su actual propietario ante el escribano de Giles Dn. Cornelio Gómez [?].",
+    "3).- A los herederos de Bonifacia Andrada de Casas se les adjudican 17h 6164 m² más la parte proporcional del exceso 1677 m², son diez i siete hectáreas 17h 7841 m² siete mil ochocientos cuarenta i un metros cuadrados que se ubican en polígono de las siguientes dimensiones i linderos: Costado N.O lindando con Jorge Morgan quinientos catorce metros cuatrocientos treinta i siete milímetros (514,437), costado N.E. lindando con Clemencia E. de Silva (hoi Luis Ambrune) trescientos cuarenta i cinco metros setenta centímetros (345,70); Costado S.E. quinientos catorce metros cuatrocientos treinta i siete milímetros (514,437) Costado S.O trescientos cuarenta i cinco me-"
+   ],
+   "interpretacion": "Las hijuelas de Rómulo y Juan B. se vendieron sucesivamente a Zenobio Palacios [?], Manuel Ferretto y Carlos Mereta [?], actual dueño. Herederos de Bonifacia Andrada de Casas: 514,437 × 345,70 m (177 840,9 m²), lindando NO con Jorge Morgan y NE con Clemencia E. de Silva (hoy Luis Ambrune)."
+  },
+  {
+   "titulo": "Folio 6 vuelto · hijuela de Cayetana A. de Benítez",
+   "img": "img/f/176/17.jpg",
+   "fuente": "IMG_0709.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "tros setenta centímetros (345,70) lindando en ambos con Petrona A. de Andrada.",
+    "4).- A María Cayetana Andrada de Benítez se le adjudican 17h 6164 m² más la parte proporcional del exceso 1677 m², son diez i siete hectáreas i 17h 7841 m² siete mil ochocientos cuarenta i un metros que se ubican en polígono de las siguientes dimensiones i linderos: Costado N.O quinientos treinta i ocho metros novecientos doce milímetros, costado N.E., costado N.E. trescientos treinta metros (330,00) costado S.E. quinientos treinta i ocho metros novecientos doce milímetros, (538,912) en todos ellos lindando con Petrona Almirón de Andrada (hoi Jorge Morgan) costado S.O. trescientos treinta metros- (330,00) lindando con Marcelino Mezquita.",
+    "5) Á María Andrada de Cano se"
+   ],
+   "interpretacion": "538,912 × 330 m (177 841 m²), rodeada por la viuda (hoy Jorge Morgan) y al SO por Marcelino Mezquita: queda como un ENCLAVE dentro de la fracción vendida a Morgan."
+  },
+  {
+   "titulo": "Folio 7 · hijuela de María Andrada de Cano, vendida a Juan Clímaco Casas",
+   "img": "img/f/176/18.jpg",
+   "fuente": "IMG_0709.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "le adjudican 17h 6164 m² más la parte proporcional del exceso 1677 son diez i siete 17h 7841 hectáreas siete mil ochocientos cuarenta i un metros cuadrados que se ubican en polígono de las siguientes dimensiones i linderos: Costados N.E. doscientos sesenta metros (260,00), S.O. (684,00) seiscientos ochenta i cuatro metros, S.E. doscientos sesenta metros, lindando en todos ellos con Petrona Almirón de Andrada; costado N.O. seiscientos ochenta i cuatro metros (684,00) lindando con María M. de Welch i Juan Santia [?].",
+    "Este terreno fué vendido á Juan Clímaco Casas con fecha 5 de octubre de 1897 ante el escribano de Giles Dn. Cornelio Gómez [?].",
+    "6) Á la Sra. Petrona Almirón de Andrada corresponde el excedente de"
+   ],
+   "interpretacion": "260 × 684 m (177 840 m²), rodeada por la viuda, y al NO por María M. de Welch y Juan Santia [?]. Vendida a Juan Clímaco Casas el 5/10/1897 ante Cornelio Gómez [?]. A la viuda le corresponde el resto del campo."
+  },
+  {
+   "titulo": "Folio 7 vuelto · superficie según títulos",
+   "img": "img/f/176/19.jpg",
+   "fuente": "IMG_0710.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "la superficie total del campo sobre la suma de las adjudicaciones anteriores.",
+    "Superficie. Del examen de los títulos anteriores i teniendo presente la venta hecha por Andrada á Juan i Domingo Silva, resulta que la superficie total del campo es de nueve millones doscientos veinticinco mil varas cuadradas (9225000 v²) ó sean seis millones novecientos diecisiete mil ochocientos veintiocho metros cuadrados (691h 7828 m²) de los que deduciendo las adjudicaciones hechas á los hijos de Dn. Serafín Andrada ó sean ochocientos ochenta i nueve mil doscientos cinco metros cuadrados (88h 9205 m²), quedan seis millones veintiocho mil seis-"
+   ],
+   "interpretacion": "Total de títulos: 9 225 000 v² = 691 ha 7828 m² (factor 0,74990 m²/v², vara ≈ 0,866 m); menos las cinco hijuelas (88 ha 9205 m² = 5 × 17 ha 7841) quedan a la viuda «602 ha 8678 m²» (la resta exacta da 602 ha 8623: diferencia de 55 m² en el original)."
+  },
+  {
+   "titulo": "Folio 8 · antecedentes de mensura",
+   "img": "img/f/176/20.jpg",
+   "fuente": "IMG_0710.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "cientos setenta i ocho metros cuadrados (602h 8678 m²) de propiedad de la Sra. Petrona Almirón de Andrada.",
+    "—",
+    "II. Antecedentes de Mensura.",
+    "1868- El agrimensor Teodoro Differt delinea i ubica las propiedades de Andrada i de Silva vendidas por Francisco Ant. Casco.",
+    "1865.- El agrimensor Teodoro Fremiot mide los sobrantes de la propiedad de F. A. Casco comprados por Isidro Cucullu.",
+    "1870. El agrimensor Mariano Iparraguirre delinea i ubica las fracciones de la testamentaria de Angela Casco de Saraví",
+    "III. Mensura.",
+    "1º) Campo de Serafín Andrada (títulos primitivos)- Polígono ABCDE"
+   ],
+   "interpretacion": "Tres mensuras previas: Teodoro Differt (1868, Andrada y Silva), Teodoro Fremiot (1865, sobrantes de Casco comprados por Cucullu) y Mariano Iparraguirre (1870, testamentaría de Ángela Casco de Saraví). Comienza la mensura del polígono ABCDE…"
+  },
+  {
+   "titulo": "Folio 8 vuelto · arranque en el mojón A (6 de junio)",
+   "img": "img/f/176/21.jpg",
+   "fuente": "IMG_0711.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "FGH del plano.-",
+    "Conforme á los edictos i á la citación hecha á los linderos, que se acompañan en este expediente, di comienzo á la operación de mensura el día 6 de Junio partiendo del Mojón esquinero Norte del campo por resultar así más conveniente:",
+    "Colocado en el punto A, medí con rumbo Sud cuarenta i un grados cuarenta i ocho minutos oeste (S 41° 48′ O) ochocientos sesenta i nueve metros cuarenta centímetros (869,40) hasta el Mojón B, encontrando á los quinientos catorce metros cuarenta centímetros (514,40) el Mojón esquinero oeste (A3) de la fracción de campo perteneciente á los Herederos de Bonifacia Andrada de Casas; dos- de B, con rumbo Sud cuarenta i"
+   ],
+   "interpretacion": "Con edictos y citación de linderos, empieza el 6 de junio desde el mojón esquinero N. A-B: S 41° 48′ O, 869,40 m; a 514,40 m el mojón A3 de los herederos de Casas."
+  },
+  {
+   "titulo": "Folio 9 · costado de los Welch",
+   "img": "img/f/176/22.jpg",
+   "fuente": "IMG_0711.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "ocho grados cuatro minutos Este (S 48° 4′ E) medí ochocientos setenta i seis metros veinte centímetros (876,20 m.) hasta el mojón C, esquinero E. del campo de Welch; desde C con rumbo Sud cuarenta i un grados cincuenta i siete minutos Oeste (S 41° 57′ O) medí dos mil seiscientos catorce metros ochenta centímetros, hasta el mojón D (2614,80 m) encontrando á los doscientos veinticuatro metros (224,00) el mojón esquinero Norte del campo de Juan Clímaco Casas (C1), á los doscientos noventa i siete metros veinticinco centímetros (297,25) la divisoria del campo del lindero María M. de Welch, á los novecientos ocho metros (908,00) el mojón esquinero oeste del campo de Casas, á los mil tres metros noventa centímetros (1003,90 m) la divisoria del campo del lindero Juan Santia [?], á los mil trescientos dos metros setenta i cinco centímetros (1302,75) un mojón que delimita el campo"
+   ],
+   "interpretacion": "B-C: S 48° 4′ E, 876,20 m hasta el esquinero E del campo de Welch. C-D: S 41° 57′ O, 2614,80 m, con mojones y divisorias de Juan Clímaco Casas (224 y 908 m), María M. de Welch (297,25), Juan Santia [?] (1003,90) y otro en 1302,75 m."
+  },
+  {
+   "titulo": "Folio 9 vuelto · mojón desviado y alambrados",
+   "img": "img/f/176/23.jpg",
+   "fuente": "IMG_0712.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "del lindero Juan Sommers, á los mil trescientos cuatro metros veinticinco centímetros (1304,25 m) un mojón desviado 0,50 m á la derecha de la línea, á los mil quinientos cincuenta i cuatro metros ochenta centímetros (1554,80) la divisoria del campo entre los linderos María M. Welch i Juan Welch (hijo), á los dos mil doscientos ochenta i seis metros veinte centímetros (2286,20) un alambrado; desde D, con rumbo Sud cuarenta i ocho grados siete minutos Este (S 48° 7′ E) medí mil seiscientos ochenta i ocho metros treinta centímetros (1688,30) hasta el mojón E, encontrando á los doscientos once metros cuarenta centímetros (211,40) un alambrado que divide las propiedades de los linderos Morgan i Mezquita á los ochocientos ochenta i un metros noventa centímetros (881,90) el mojón esquinero oeste"
+   ],
+   "interpretacion": "Sigue C-D: lindero Juan Sommers; a 1304,25 m un mojón «desviado 0,50 m a la derecha de la línea»; divisoria entre María M. Welch y Juan Welch (hijo) a 1554,80; un ALAMBRADO a 2286,20 m. D-E: S 48° 7′ E, 1688,30 m; a 211,40 m otro alambrado que divide a Morgan de Mezquita; esquineros D1 y D4 de la hijuela de Benítez a 881,90 y 1212 m."
+  },
+  {
+   "titulo": "Folio 10 · reposición del mojón E1 y lados F-G-H",
+   "img": "img/f/176/24.jpg",
+   "fuente": "IMG_0712.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "del Campo de Cayetana A. de Benítez (D1) i á los mil doscientos doce metros (1212,00) el mojón esquinero Sud (D4) del mismo; desde E con rumbo Norte cuarenta i un grados cincuenta i cinco minutos Este (N 41° 55′ E) medí dos mil seiscientos diez i seis metros treinta i cinco centímetros hasta el mojón F (2616,35) sobre esta línea repuse el mojón E1 [?], que faltaba midiendo mil noventa metros (1090,00) desde F, conforme á las dimensiones asignadas en la adjudicación hecha á Rómulo i Juan B. Andrada; desde F, con rumbo S 48° 12′ E medí cuatrocientos seis metros cuarenta i cinco centímetros (406,45) hasta el Mojón G; desde G con rumbo Norte cuarenta i un grados cincuenta i tres minutos Este (N. 41° 53′ E) medí ochocientos sesenta i seis metros ochenta centímetros (866,80) hasta el Mojón H.- Este Mojón dista tres metros de otro situado sobre"
+   ],
+   "interpretacion": "E-F: N 41° 55′ E, 2616,35 m; Ramallo REPONE el mojón E1 que faltaba, a 1090 m de F, según las medidas de las hijuelas de Rómulo y Juan B. F-G: S 48° 12′ E, 406,45 m; G-H: N 41° 53′ E, 866,80 m. El mojón H dista 3 m de otro sobre la prolongación de G-H."
+  },
+  {
+   "titulo": "Folio 10 vuelto · cierre en A: linderos del NE",
+   "img": "img/f/176/25.jpg",
+   "fuente": "IMG_0713.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "la prolongación de la línea GH i 2m,30 de otro situado en la prolongación de la línea AH; desde H con rumbo Norte cuarenta i ocho grados cinco minutos oeste medí dos mil novecientos setenta i un metros quince centímetros (2971,15) hasta el mojón de partida A, encontrando á los mil cuatrocientos setenta i seis metros diez centímetros (1476,10) un mojón que divide las propiedades de Manuel Ferretto i José Pagnone, á los dos mil doscientos veintitres metros treinta i cinco centímetros (2223,35) un mojón que delimita á los linderos Pagnone i Luis Ambrune, á los dos mil seiscientos veinticinco metros sesenta i cinco centímetros (2625,65) el mojón esquinero Este (A1) del Campo de los Herederos de Bonifacia Andrada de Casas i á los dos mil novecientos cincuenta i siete metros ochenta centímetros (2957,80) la línea del alambrado que"
+   ],
+   "interpretacion": "… y 2,30 m de otro sobre la prolongación de A-H: dos generaciones de mojones conviven en la esquina. H-A: N 48° 5′ O, 2971,15 m, con mojones divisorios Ferretto/Pagnone (1476,10), Pagnone/Ambrune (2223,35), el esquinero A1 de los Casas (2625,65) y la línea del alambrado a 2957,80 m."
+  },
+  {
+   "titulo": "Folio 11 · superficie medida y linderos",
+   "img": "img/f/176/26.jpg",
+   "fuente": "IMG_0713.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "cerca el mismo.-",
+    "Superficie. El cálculo del polígono medido (planilla I) arroja una superficie de seiscientas noventa i nueve hectáreas cuatro mil seiscientos setenta i ocho metros cuadrados (699h 4678 m²) ó sea un exceso sobre lo que da el título, de siete hectáreas seis mil ochocientos cincuenta metros cuadrados, que coincide, con una mínima diferencia, con el que resulta del cálculo de la planilla II, el cual, como se verá más adelante, es el que se ha tenido en cuenta para ubicarlo como sobrante, por referirse sólo á la propiedad de la Sra. de Andrada.",
+    "Linderos. Los actuales linderos son: por el N.O Jorge Morgan i Herederos de Welch (antes Isidro Cucullu) por el S.O Jorge Morgan i Marcelino Mezquita, por el S.E. Ruperto Botana (antes Elvira Videla [?] i Julio Saraví) i José Pichetto (antes Francisco Ant. Casco) por el N.E. (antes Juan i Domingo Silva) Manuel Ferretto, José Pagnone i"
+   ],
+   "interpretacion": "Planilla I: 699 ha 4678 m², exceso de 7 ha 6850 m² sobre el título (1,1 %); recalculado en python con los ocho rumbos y distancias: 699 ha 4868 m² y error de cierre de 0,68 m. Linderos: NO Jorge Morgan y herederos de Welch (antes Isidro Cucullu); SO Morgan y Marcelino Mezquita; SE Ruperto Botana (antes Elvira Videla [?] y Julio Saraví) y José Pichetto (antes F. A. Casco); NE (antes Juan y Domingo Silva) Manuel Ferretto, José Pagnone y Luis Ambrune."
+  },
+  {
+   "titulo": "Folio 11 vuelto · campo de la viuda: rodeo de las hijuelas",
+   "img": "img/f/176/27.jpg",
+   "fuente": "IMG_0714.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Luis Ambrune.-",
+    "2º) Campo de Dña. Petrona Almirón de Andrada.",
+    "Para medir la superficie perteneciente á la Señora Petrona Almirón de Andrada he tenido presente los resultados de las medidas efectuadas en el primer polígono, de acuerdo con los cuales he procedido en el orden siguiente: Colocado en el Mojón A1 ya determinado, medí quinientos quince metros (515,00) con rumbo Sud cuarenta i un grados cuarenta i seis minutos oeste (S. 41° 46′ O) hasta el Mojón A2; desde aquí, con rumbo Norte cuarenta i ocho grados cuatro minutos oeste (N 48° 4′ O) medí trescientos cuarenta i cinco metros noventa centímetros (345,90) llegando al Mojón A3, en el cual medí el ángulo de los alineamientos A2 A3 i A3 B. Colocado en el mojón C, medí (260,00) doscientos sesenta metros con"
+   ],
+   "interpretacion": "Para medir lo de Petrona Almirón, Ramallo rodea las hijuelas desde los mojones ya fijados: A1-A2 S 41° 46′ O 515 m; A2-A3 N 48° 4′ O 345,90 m, midiendo los ángulos en los quiebres; desde C, 260 m…"
+  },
+  {
+   "titulo": "Folio 12 · lados de los enclaves Casas y Benítez",
+   "img": "img/f/176/28.jpg",
+   "fuente": "IMG_0714.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "rumbo Sud cuarenta i siete grados treinta i dos minutos Este (S 47° 32′ E) hasta el C2, en éste con rumbo Sud cuarenta i un grados cincuenta i siete minutos oeste (S 41° 57′ O) medí seiscientos ochenta i un metros setenta centímetros (681,70) hasta el mojón C3, desde el cual con rumbo Norte cuarenta i siete grados cincuenta i nueve minutos oeste (N 47° 59′ O) medí doscientos cincuenta i nueve metros noventa centímetros (259,90) llegando al Mojón C4 donde medí el ángulo de los alineamientos C3 C4 i C4 D.- Colocado en el Mojón D1, con rumbo Norte cuarenta i un grados cuarenta i cuatro minutos Este (N 41° 44′ E) medí quinientos treinta i ocho metros sesenta centímetros (538,60) hasta el mojón D2.- Desde éste con rumbo Sud cuarenta i ocho grados trece minutos Este (S 48° 13′ E) medí trescientos treinta metros cinco centí-"
+   ],
+   "interpretacion": "C-C2 S 47° 32′ E 260 m; C2-C3 S 41° 57′ O 681,70; C3-C4 N 47° 59′ O 259,90; D1-D2 N 41° 44′ E 538,60; D2-D3 S 48° 13′ E 330,05 m…"
+  },
+  {
+   "titulo": "Folio 12 vuelto · lados de la hijuela de Benítez y de los hermanos",
+   "img": "img/f/176/29.jpg",
+   "fuente": "IMG_0715.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "metros (330,05) hasta el mojón D3, desde el cual, con rumbo Sud cuarenta i un grados cuarenta i tres minutos oeste medí quinientos treinta i nueve metros diez centímetros (539,10) llegando al mojón D4 donde medí el ángulo de los alineamientos D3 D4 i D4 E.- Colocado en el mojón E, con rumbo Norte cuarenta i ocho grados diez minutos oeste (N 48° 10′ O) medí trescientos veintiseis metros sesenta i cinco centímetros hasta el mojón E2, desde éste con rumbo Norte cuarenta i un grados cincuenta i seis minutos Este (N 41° 56′ E) medí mil noventa metros (1090,40) cuarenta centímetros hasta el mojón E3 encontrando á los quinientos cuarenta i cinco metros (545,00) un mojón intermedio. En E3 con rumbo Sud cuarenta i ocho grados cinco minutos Este medí trescientos veintiseis metros setenta i cuatro centímetros (326,74 m)"
+   ],
+   "interpretacion": "D3-D4 S 41° 43′ O 539,10 m. E-E2 N 48° 10′ O 326,65; E2-E3 N 41° 56′ E 1090,40 m con mojón intermedio a 545 m (la divisoria Rómulo / Juan B.); E3-F S 48° 5′ E 326,74 m."
+  },
+  {
+   "titulo": "Folio 13 · sobrante de 7 ha 7424 m² y comienzo del lote Morgan",
+   "img": "img/f/176/30.jpg",
+   "fuente": "IMG_0715.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "llegando al mojón esquinero F en donde medí el ángulo de los alineamientos E3 F i FG.",
+    "Superficie i Sobrante. Calculado el polígono A1 A2 A3 B C C1 C2 C3 C4 D D1 D2 D3 D4 E E2 E3 F G H A1 (planilla II) resulta tener una superficie de seiscientas diez hectáreas seis mil ciento dos m² (610h 6102 m²) ó sea un exceso de siete hectáreas siete mil cuatrocientos veinticuatro met. cuad. (7h 7424 m²) que como pasa la tolerancia legal he ubicado como sobrante en el costado S.E del campo, sobre el lado GH. La superficie ha sido asimilada á la de un rectángulo de ochocientos sesenta i seis metros ochenta centímetros de base (866,80) lindando con José Pichetto por ochenta i nueve metros treinta i dos centím. (89,32) en los costados linderos con Manuel Ferretto i Ruperto Botana",
+    "Linderos. A los ya mencionados (en 1º) deben agregarse: por el N. i NO Herederos de Bonifacia A. de Casas i Juan Clímaco Casas, por el S. i S.E Cayetana A. de Benítez i Carlos Mereta [?]",
+    "3º) Deslinde i amojonamiento de la fracción vendida á Jorge Morgan. Con los datos de las mensuras anteriores procedí al cálculo previo de los lados E2 E′, E′ C′ i C′ C3"
+   ],
+   "interpretacion": "Planilla II: 610 ha 6102 m², exceso de 7 ha 7424 m² (1,28 %) que «como pasa la tolerancia legal» se ubica como SOBRANTE en el costado SE, sobre G-H: un rectángulo de 866,80 × 89,32 m (77 422,6 m², verificado) entre Pichetto, Ferretto y Botana. Linderos adicionales: herederos de Bonifacia A. de Casas, Juan Clímaco Casas, Cayetana A. de Benítez y Carlos Mereta [?]."
+  },
+  {
+   "titulo": "Folio 13 vuelto · replanteo de la fracción vendida",
+   "img": "img/f/176/31.jpg",
+   "fuente": "IMG_0716.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "en el polígono C3 C4 D E E1 E2 E′ C′ C3 cuya superficie así como la del polígono D1 D2 D3 D4 fue calculada. Con los resultados de estos cálculos me trasladé al terreno para emplazar los mojones E′ i C′ esquineros Este i Norte del Campo vendido a cuyo efecto colocado en el mojón E2 con rumbo Norte cuarenta i un grados cincuenta i seis minutos Este (N 41° 56′ E) medí quinientos cuatro metros sesenta i cuatro centímetros (504,64) i coloqué el mojón E′ desde el cual con rumbo norte cuarenta i ocho grados diez minutos oeste (N 48° 10′ O) medí mil cien metros ochenta i cinco centímetros i coloqué el mojón C′; desde este con rumbo Sud cuarenta i un grados cincuenta i siete minutos oeste (S 41° 57′ O) medí trescientos veintitres metros cuarenta i cuatro centímetros, llegando al Mojón C3.",
+    "Superficie. Los resultados del cálcu-"
+   ],
+   "interpretacion": "Calcula primero en gabinete los lados E2-E′, E′-C′ y C′-C3 y luego «me trasladé al terreno para emplazar los mojones»: E2-E′ N 41° 56′ E 504,64 m; E′-C′ N 48° 10′ O 1100,85 m; C′-C3 S 41° 57′ O 323,44 m. Primero el número, después el mojón: la tierra se diseña en el papel."
+  },
+  {
+   "titulo": "Folio 14 · 300 hectáreas; el comprador pone sus mojones",
+   "img": "img/f/176/32.jpg",
+   "fuente": "IMG_0716.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "lo final (planilla III) comprueban la exactitud de los cálculos preliminares, arrojando la superficie de trescientas hectáreas que se ha querido ubicar.",
+    "Linderos. Los linderos de la fracción ubicada son: por el N.O Juan Clímaco Casas, Herederos de Welch i en parte Cayetana A. de Benítez; por el S.O. el comprador Jorge Morgan, Marcelino Mezquita i Cayetana A. de Benítez, por el S.E. Ruperto Botana i Carlos Mereta [?] i por el N.E. en parte Carlos Mereta [?] i más campo de la vendedora Petrona Almirón de Andrada.",
+    "El comprador Dn. Jorge Morgan hizo colocar personalmente los mojones en los puntos indicados quedando satisfecho de la operación realizada.-",
+    "Todos los linderos del campo firmaron la citación correspondiente, excepción"
+   ],
+   "interpretacion": "Planilla III: exactamente 300 ha. Linderos de la fracción: NO J. C. Casas, herederos de Welch y Benítez; SO Morgan (comprador), Mezquita y Benítez; SE Botana y Mereta; NE Mereta y más campo de la vendedora. «El comprador Dn. Jorge Morgan hizo colocar PERSONALMENTE los mojones en los puntos indicados quedando satisfecho»."
+  },
+  {
+   "titulo": "Folio 14 vuelto · negativa de los Casas y Benítez; firma",
+   "img": "img/f/176/33.jpg",
+   "fuente": "IMG_0717.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "hecha de Julio Casas como tutor de los herederos de Bonifacia Andrada de Casas, Juan Clímaco Casas i Cayetana A. de Benítez.-",
+    "Carlos M. Ramallo",
+    "[Sello:] Departamento de Ingenieros de la Provincia – Entrada – 10 Agosto 1898",
+    "[Resto de la página inutilizado con raya y rúbrica.]"
+   ],
+   "interpretacion": "Todos los linderos firmaron la citación salvo Julio Casas (tutor de los herederos de Bonifacia Andrada de Casas), Juan Clímaco Casas y Cayetana A. de Benítez: precisamente los parientes de la vendedora. Firma Carlos M. Ramallo; entrada al Departamento de Ingenieros el 10/8/1898."
+  },
+  {
+   "titulo": "Folio 15 · «Avalizamiento de mojones»",
+   "img": "img/f/176/34.jpg",
+   "fuente": "IMG_0717.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "Avalizamiento de Mojones.",
+    "—",
+    "Mojón A: origen en B:",
+    "Esquina O. del mirador de Welch: 320° 28′",
+    "id O casa de Julio Casas 281° 53′",
+    "Mojón A1: origen en A2:",
+    "Esquina N. casa de Julio Casas: 67° 15′",
+    "Mojón C: origen en B:",
+    "Esquina S. casa de Welch 319° 7′",
+    "id N. casa de Santia [?] 294° 14′",
+    "Mojón C2: origen en C3:",
+    "Esquina N. casa de Juan Casas 20° 20′",
+    "Mojón C4: origen en D:",
+    "Esquina O casa de Santia [?] 124° 9′",
+    "id N casa de Juan Casas 202° 57′",
+    "Mojón D1 origen en D2:",
+    "Esquina N casa de Benítez 37° 5′",
+    "Mojón D2: origen en D:",
+    "Esquina N. casa de Benítez 346° 28′",
+    "Mojón C′ origen en C3:",
+    "Esq. S. casa de Julio Casas 45° 33′",
+    "Ang. E Mirador de Welch 145° 8′"
+   ],
+   "interpretacion": "Cada mojón queda referido por ángulos a esquinas de edificios visibles: el MIRADOR de Welch, las casas de Julio Casas, de Welch, de Santia [?], de Juan Casas y de Benítez. Es un registro único de las construcciones del paraje en 1898 y una técnica nueva en el corpus: el amojonamiento se asegura contra la desaparición del poste."
+  },
+  {
+   "titulo": "Folio 15 vuelto · balizas finales y declinación magnética",
+   "img": "img/f/176/35.jpg",
+   "fuente": "IMG_0718.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Esq. N. Casa de Andrada 231° 7′",
+    "Mojón E′ origen en E2:",
+    "Ang. O casa de Mereta [?] 312° 45′",
+    "Ang E « « Benítez 4° 12′",
+    "Ang. E Mirador de Welch 109° 4′",
+    "=",
+    "Declinación Magnética.",
+    "Las determinaciones meridianas practicadas han dado resultados concordantes con los obtenidos por el agrimensor Sor Tomás Dodds el año 1894 (Mens. Nº 168) por cuya razón he adoptado para el lado AB de partida la orientación que aquel le asignara (S 41° 48′ O)- Este azimut verdadero dá para valor de la declinación magnética de la aguja ocho grados veintiseis minutos al Este.- (8° 26′ N.E.)-",
+    "Carlos M. Ramallo",
+    "[Sello:] Departamento de Ingenieros – Entrada – 10 Agosto 1898"
+   ],
+   "interpretacion": "Mojón C′ con la casa de Andrada y E′ con las de Mereta y Benítez y el mirador de Welch. Declinación: las determinaciones meridianas coinciden con las de Tomás Dodds de 1894 («Mens. N.º 168», es decir la Ficha 168), por lo que adopta su orientación de A-B (S 41° 48′ O); la declinación resulta 8° 26′ NE."
+  },
+  {
+   "titulo": "Folio 16 · Planilla I (cálculo de superficie)",
+   "img": "img/f/176/36.jpg",
+   "fuente": "IMG_0718.JPG (mitad derecha)",
+   "nota": "Planilla plegada sobre otra hoja; las columnas de la izquierda quedan ocultas.",
+   "lineas": [
+    "Planilla I.",
+    "[Planilla de cálculo de superficie por coordenadas, en papel cuadriculado plegado; columnas «(xn + xn+1) +» y «(yn+1 – yn) –»; vértices … F, G, H, A. Cifras legibles: 1591.18; 228.76; 4587659.01 [?]; 3372.28; 13420839.25; 4041.79; 5150581.42. Totales: 4589478.95 | 18578834.74; 4589478.95; 2S = 13989355.79]"
+   ],
+   "interpretacion": "Planilla de coordenadas en papel cuadriculado, plegada; sólo se ve la parte final: 2S = 13 989 355,79 → S = 699 ha 4678 m², igual al texto."
+  },
+  {
+   "titulo": "Folio 16 vuelto · dorso de planilla",
+   "img": "img/f/176/37.jpg",
+   "fuente": "IMG_0719.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "[Dorso de la planilla en papel cuadriculado: sólo se ven por transparencia las cifras del anverso; ilegible. Las planillas II y III no aparecen desplegadas en las tomas.]"
+   ],
+   "interpretacion": "Sólo transparencias; las planillas II y III no se fotografiaron desplegadas."
+  },
+  {
+   "titulo": "Folio 17 · vista del Departamento de Ingenieros",
+   "img": "img/f/176/38.jpg",
+   "fuente": "IMG_0719.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "Señor Juez:",
+    "El Departamento de Ingenieros ha examinado la diligencia de mensura practicada por el Ingeniero Ramallo, de un terreno perteneciente á Doña Petrona Almirón de Andrada ubicado en el partido de San Andrés de Giles y la encuentra en condiciones de ser aprobada por V. S.",
+    "De la superficie total que perteneció á Dn. Serafín Andrada se han deducido cinco fracciones de 17 hs. 78 as. 41 cs. cada una que ya por mensura judicial pero sin intervención de este Departamento, les había ubicado el agrimensor Apolinario Orlandini; además el Ingeniero Ramallo ha destinado también un lote de 300 hectáreas que por mandato de V. S. ha sido vendido á Don Jorge Morgan.-",
+    "Los linderos Juan Clímaco Casas, Cayetana A. de Benítez y Julio Casas, tutor de los herederos de Bonifacia"
+   ],
+   "interpretacion": "El Departamento encuentra la mensura en condiciones de aprobarse. Reconoce que las cinco hijuelas de 17 ha 78 a 41 ca las había ubicado Orlandini por mensura judicial «pero sin intervención de este Departamento», y que Ramallo destinó 300 ha vendidas a Morgan «por mandato de V. S.»."
+  },
+  {
+   "titulo": "Folio 17 vuelto · firmas (2/9/1898)",
+   "img": "img/f/176/39.jpg",
+   "fuente": "IMG_0720.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Andrada de Casas, se han negado á firmar la circular de citación.-",
+    "Setiembre 2 de 1898.",
+    "Lagos [?]   Julián Romero",
+    "[firma: ¿M. Sanmartino?]",
+    "Carlos M. Albarracín",
+    "[Resto de la página en blanco, inutilizado con raya.]"
+   ],
+   "interpretacion": "Consigna que Juan Clímaco Casas, Cayetana A. de Benítez y Julio Casas se negaron a firmar la circular. Firmas: Lagos [?], Julián Romero, otra ilegible y Carlos M. Albarracín."
+  },
+  {
+   "titulo": "Folio 18 · aprobación judicial (Mercedes, 4/10/1898)",
+   "img": "img/f/176/40.jpg",
+   "fuente": "IMG_0720.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Al margen:] 7.235.60 [rúbrica]   [Papel sellado: Provincia de Buenos Aires – 0.50 centavos – Ley de Sellos 1898 – Nº 342570]",
+    "Mercedes, Octubre cuatro de 1898.",
+    "Al Señor Presidente del Departamento de Ingenieros de la Provincia",
+    "«La Plata».-",
+    "Tengo el agrado de dirigirme á Vd. haciéndole saber que por auto de fecha veinte y uno del corriente año, ha sido aprobada por este Juzgado la mensura practicada por el Ingeniero Ramallo de un campo situado en el Partido de Giles, perteneciente á la misma Doña Petrona Almirón de Andrada, cuya aprobación fué aconsejada por ese Departamento con fecha dos de Setiembre del mismo año.",
+    "Dios guarde á Vd.-",
+    "Nicolás Savio",
+    "José A. Aguirre [?]",
+    "[Sello:] Departamento de Ingenieros de la Provincia – Entrada – 10 Octubre 1898",
+    "[Sello octogonal parcialmente visible: «…GUIRRE … NOTARIO … MERCEDES» [?]]"
+   ],
+   "interpretacion": "Oficio del juzgado de Mercedes al Presidente del Departamento: la mensura fue aprobada por auto del día 21 (de setiembre [?]), tras el informe favorable del 2/9. Firmas Nicolás Savio y José A. Aguirre [?]; papel sellado de 0,50 de 1898; entrada 10/10/1898; al margen «7.235.60»."
+  },
+  {
+   "titulo": "Folio 18 vuelto · agréguese al duplicado",
+   "img": "img/f/176/41.jpg",
+   "fuente": "IMG_0721.JPG",
+   "nota": "",
+   "lineas": [
+    "La Plata, Octubre 10/98.",
+    "Previo conocimiento de la Sección de Geodesia, agréguese al duplicado correspondiente",
+    "Romero",
+    "Octubre 11/98",
+    "Archívese [?] á sus efectos [?]",
+    "Lagos [?]"
+   ],
+   "interpretacion": "La Plata, 10/10/1898: «Previo conocimiento de la Sección de Geodesia, agréguese al duplicado correspondiente», Romero; 11/10/1898, nota de trámite y rúbrica. A la derecha, el plano en tela plegado."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano «Propiedad de Serafín Andrada, hoi sus herederos» (Ramallo, 1898)",
+   "img": "img/f/176/03.jpg",
+   "fuente": "IMG_0722.JPG (vista general; detalles IMG_0723-0728)",
+   "orientacion": "tela desplegada con el título a la izquierda, rotado; flecha de N dibujada a la derecha; escala gráfica en metros",
+   "interpretacion": "Plano a tinta sobre tela, firmado «Buenos Aires, Junio 22/898 · Carlos M. Ramallo, Ing. Civil». Muestra el campo entero de Serafín Andrada como un gran rectángulo con un escalón (F-G-H) y, dentro, las dos grandes piezas de 1898: «Petrona Almirón de Andrada, Sup. 610 ha 6102 m² (incluido sobrante)» y «Jorge Morgan, Sup. 300 ha». Encajadas aparecen las hijuelas de 1896 como pequeños rectángulos: Herederos de Bonifacia Andrada de Casas, «Juan Clímaco Casas, antes María Andrada de Cano», «Cayetana A. de Benítez» y «Carlos Mereta, antes Juan B. y Rómulo Andrada». Alrededor: Herederos de Welch (antes I. Cucullu) con María M. de Welch, Juan Santia, Juan Sommers y Juan Welch; Marcelino Mezquita; Ruperto Botana (antes J. Saraví); José Pichetto (antes F. A. Casco); Manuel Ferretto y José Pagnone (antes Domingo Silva); Luis Ambrune. Cada lado lleva rumbo y distancia (p. ej. «S 48° 7′ E: D4 E 476,30 m»). Casitas dibujadas marcan las poblaciones.",
+   "referencias": [
+    [
+     "A",
+     "Esquinero N del campo; arranque (6/6/1898), orientación de Dodds 1894"
+    ],
+    [
+     "B · C · D · E",
+     "Costados NO (Welch) y SO (Morgan, Mezquita)"
+    ],
+    [
+     "E-F · F-G-H",
+     "Costado SE (Botana, Pichetto) con el escalón del sobrante"
+    ],
+    [
+     "H-A",
+     "Costado NE: Ferretto, Pagnone, Ambrune, herederos de Casas"
+    ],
+    [
+     "A1-A2-A3",
+     "Hijuela de los herederos de Bonifacia Andrada de Casas"
+    ],
+    [
+     "C-C2-C3-C4",
+     "Hijuela de Juan Clímaco Casas (ex María Andrada de Cano)"
+    ],
+    [
+     "D1-D2-D3-D4",
+     "Hijuela de Cayetana A. de Benítez, enclavada en lo de Morgan"
+    ],
+    [
+     "E-E2-E3-F",
+     "Hijuelas de Rómulo y Juan B. Andrada, hoy Carlos Mereta"
+    ],
+    [
+     "E′ · C′",
+     "Mojones nuevos de la fracción de 300 ha de Jorge Morgan"
+    ],
+    [
+     "G-H",
+     "Sobrante de 7 ha 7424 m² (866,80 × 89,32 m)"
+    ],
+    [
+     "Firma",
+     "Buenos Aires, Junio 22/898 · Carlos M. Ramallo, Ing. Civil"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: título del plano y lindero NE",
+   "img": "img/f/176/04.jpg",
+   "fuente": "IMG_0723.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "Rótulo «PROPIEDAD DE SERAFIN ANDRADA · Hoi sus Herederos · SAN ANDRES DE GILES»; debajo, invertidos, «José Pagnone · antes Domingo Silva» y «Manuel Ferretto», y la cota N 48° 5′ O del lado H-A.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: la fracción de Jorge Morgan",
+   "img": "img/f/176/05.jpg",
+   "fuente": "IMG_0726.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "Bloque «Jorge Morgan, Sup. 300 ha» con la hijuela de Juan Clímaco Casas al NO, Herederos de Welch y, al SE, Carlos Mereta y Ruperto Botana.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Es un paisaje ya cercado y edificado: alambrados que dividen a Welch, Morgan y Mezquita, mojones viejos y nuevos que conviven a 2-3 m unos de otros, y un caserío disperso que el agrimensor usa como red de referencia (casas de Julio y Juan Casas, Welch, Santia, Benítez, Andrada, Mereta y el MIRADOR de Welch). No se nombra ningún curso de agua ni camino: el campo está lejos del arroyo de Giles, entre los ex Casco, los Saraví y Morgan. El «pastoreo» de los títulos de 1866-1870 se ha vuelto en 1898 un mosaico de chacras de 17 ha y de dos grandes fracciones."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Auto del 7 de mayo, edictos y circular de citación; arranque el 6 de junio en el mojón A. La venta a Morgan está mediada por el juez («por mandato de V. S.»). El comprador coloca él mismo los mojones y queda «satisfecho». Los únicos que se niegan a firmar son los parientes de la vendedora: Julio Casas como tutor de los hijos de Bonifacia, Juan Clímaco Casas y Cayetana A. de Benítez, cuyas hijuelas quedan rodeadas por la tierra que pasa a Morgan. La negativa familiar es el rastro de un conflicto interno de la sucesión."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Ramallo es ingeniero civil y trabaja en gabinete antes que en el campo: calcula previamente los lados de la fracción vendida y después va a «emplazar» los mojones. Tres planillas de superficie por coordenadas (I: campo total; II: viuda; III: Morgan). Mide ángulos en cada quiebre, repone un mojón faltante (E1) a partir de las medidas de las hijuelas y anota un mojón «desviado 0,50 m». Novedad: el «avalizamiento» de cada mojón por ángulos (0-360°) a esquinas de edificios. La orientación no se determina de nuevo: adopta la de Tomás Dodds 1894 para A-B y deduce una declinación de 8° 26′ NE. Recalculado en python: cierre del polígono ABCDEFGH de 0,68 m y superficie de 699 ha 4868 m² (la planilla da 699 ha 4678)."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Títulos en varas y varas cuadradas (2000 × 3000 v; 1000 × 398 v; 4 500 000 y 1 327 000 v²), mensura íntegramente en metros. El total de títulos, 9 225 000 v², se convierte en 691 ha 7828 m² (0,74990 m²/v², vara de 0,86597 m; con 0,866 m darían 691 ha 8344). Errores del copista: «5 827 500 v²» por 5 827 000, y la resta 691 ha 7828 − 88 ha 9205 = 602 ha 8623 (el texto da 8678). Las cinco hijuelas son rectángulos de superficie idéntica con lados distintos (545 × 326,313; 514,437 × 345,70; 538,912 × 330; 260 × 684 m), todas 177 841 m² ± 1. Tolerancia: el 1,1 % del campo total no se trata, pero el 1,28 % sobre la parte de la viuda «pasa la tolerancia legal» y se segrega como sobrante."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena: Francisco Antonio Casco → Serafín Andrada (1855; mitad a Juan y Domingo Silva) + Isidro Cucullu (1866, ratificado en 1894) + Julio Saraví y Lucas Posadas (1869-1870, lote Iparraguirre de la testamentaría de Ángela Casco de Saraví). Sucesión: juicio de división de condominio de la viuda contra Juan Bautista Andrada y otros; cinco hijuelas de 17,78 ha (1896) y el resto a la viuda. Mercado activo de chacras: las hijuelas de Rómulo y Juan B. pasan por Zenobio Palacios [?] y Manuel Ferretto hasta Carlos Mereta [?]; la de María Andrada de Cano a Juan Clímaco Casas (1897); y 300 ha a Jorge Morgan, que absorbe tierra de su vecino. La división de Orlandini, aprobada judicialmente, no estaba registrada en el Departamento: el registro estatal va detrás de la justicia."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "Ficha 168 (Dodds 1894, Morgan): citada expresamente como «Mens. N.º 168», lo que confirma que el número de duplicado del archivo coincide con nuestra carpeta; sus linderos ya incluían a Pichetto, Ferreto, J. Casas y M. M. de Welsh, y Jorge Morgan es el mismo heredero que aquí compra. Ficha 033 (Cucullu 1865, Fremiot): el sobrante de Casco entre Saraví y Morgan es el origen de la fracción de 1000 × 398 v. Ficha 058 (Iparraguirre 1870, testamentaría de Ángela Casco de Saraví): de allí sale el lote comprado a Saraví y Posadas; ficha 005 es el campo madre. Fichas 086 (Mezquita) y 096 (Ruperto Botana) son los linderos SO y SE. Orlandini (fichas 137-146) aparece de nuevo como agrimensor de una división de 1896 que no pasó por el Departamento. Differt (021-023) y Fremiot (033, 035, 037) cierran la genealogía de mensuras de este rincón."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Texto completo fs. 1-18 v.; las planillas II y III y parte de la I quedaron plegadas y no se fotografiaron. Dudas: apellido del juez del condominio (Esquer [?]), del firmante del oficio de Mercedes (Nicolás Savio), del escribano (Cornelio Gómez [?]), de Carlos Mereta y de Juan Santia. ¿Existe en el archivo el duplicado de la división de Orlandini de 1896? ¿Dónde está la mensura Differt de 1868 (Andrada-Silva)? ¿Quién era Julio Casas y por qué los Casas se oponen a la venta a Morgan? Corrección posterior (ficha 177, misma noche): el firmante del oficio de Mercedes es el juez Nicolás Savio (secretario Juan J. Ojea); «Carlos Mereta» es Carlos Meretta, casado con Aurelia [?] Costa; la antecesora «Elvira Videla [?]» de Botana es probablemente Elvira Saraví."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Carlos M. Ramallo",
+   "rol": "Ingeniero civil",
+   "texto": "Firma el plano en Buenos Aires (22/6/1898) y el informe en Mercedes (22/7/1898) como «Ing. Civil»; el Departamento lo llama «Ingeniero Ramallo». Primera aparición en el corpus. Trabaja con cálculo previo, planillas por coordenadas y balizamiento a edificios.",
+   "fuentes": "Este duplicado; búsqueda web 18/11/2026 sin resultados específicos."
+  },
+  {
+   "nombre": "Petrona Almirón de Andrada",
+   "rol": "Propietaria, vendedora",
+   "texto": "Viuda de Serafín Andrada; demandante en el juicio de división de condominio contra Juan Bautista Andrada y otros (aprobado 1896); en 1894 hace ratificar la venta de Cucullu; en 1898 vende 300 ha a Jorge Morgan y conserva 310,61 ha. Su apellido enlaza con los Almirón de la Cañada de la Cruz (Roque Almirón, ficha 142), sin parentesco probado.",
+   "fuentes": "Este duplicado; METODO.md."
+  },
+  {
+   "nombre": "Serafín Andrada",
+   "rol": "Causante",
+   "texto": "Compra en 1855 a F. A. Casco (2000 × 3000 v), vende la mitad a los Silva, y suma en 1866-1870 las fracciones de Cucullu y de Saraví-Posadas. Hijos: Rómulo, Juan Bautista, María (de Cano), María Cayetana (de Benítez) y Bonifacia (de Casas).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Jorge Morgan",
+   "rol": "Comprador",
+   "texto": "Heredero de Eduardo Morgan y Catalina O’Farrell (ficha 168, 1894); compra 300 ha por mandato judicial y coloca personalmente los mojones. Ya lindaba al NO y SO.",
+   "fuentes": "Ficha 168; este duplicado."
+  },
+  {
+   "nombre": "Juan Bautista, Rómulo, María, Cayetana y Bonifacia Andrada",
+   "rol": "Herederos",
+   "texto": "Reciben 17 ha 7841 m² cada uno (1896). Rómulo y Juan B. venden; María (de Cano) vende a Juan Clímaco Casas (1897); Cayetana (de Benítez) conserva su casa; los hijos de Bonifacia (de Casas) están bajo tutela de Julio Casas. Juan B. es quien informa al agrimensor la venta a Silva.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Julio Casas y Juan Clímaco Casas",
+   "rol": "Linderos, opositores",
+   "texto": "Julio, tutor de los herederos de Bonifacia Andrada de Casas, con casa usada como baliza; Juan Clímaco, comprador de la hijuela de María Andrada de Cano y con casa propia. Ambos se niegan a firmar la citación.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Apolinario Orlandini",
+   "rol": "Agrimensor (división de 1896)",
+   "texto": "Ubicó las cinco hijuelas por mensura judicial aprobada el 29/4/1896 sin intervención del Departamento. Agrimensor activo en Giles desde 1884 (fichas 137-146).",
+   "fuentes": "Fichas 137-146; este duplicado."
+  },
+  {
+   "nombre": "Tomás Dodds",
+   "rol": "Agrimensor de referencia",
+   "texto": "Su mensura de 1894 (Mens. N.º 168) da la orientación adoptada. Ver ficha 168.",
+   "fuentes": "Ficha 168."
+  },
+  {
+   "nombre": "Teodoro Differt, Teodoro Fremiot, Mariano Iparraguirre",
+   "rol": "Agrimensores antecedentes",
+   "texto": "Differt dividió Andrada-Silva en 1868 (fichas 021-023 para su actividad); Fremiot midió en 1865 los sobrantes de Casco comprados por Cucullu (ficha 033); Iparraguirre dividió en 1870 la testamentaría de Ángela Casco de Saraví (ficha 058).",
+   "fuentes": "Fichas 021-023, 033, 058."
+  },
+  {
+   "nombre": "Francisco Antonio Casco, Isidro Cucullu, Julio Saraví, Lucas Posadas",
+   "rol": "Vendedores",
+   "texto": "Casco vende en 1855; Cucullu en 1866 (ante el juez de paz Julio Saraví) y ratifica en 1894; Saraví y Posadas venden en 1869-1870 tierras de la testamentaría de Ángela Casco de Saraví.",
+   "fuentes": "Fichas 005, 033, 058; este duplicado."
+  },
+  {
+   "nombre": "José María Casado, Juan Silva",
+   "rol": "Jueces de paz",
+   "texto": "Casado autoriza la compra de 1855; Juan Silva las de 1869-1870. Juan y Domingo Silva son también los compradores de la mitad N del campo.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Linderos de 1898",
+   "rol": "Vecinos",
+   "texto": "María M. de Welch, Juan Welch (hijo) y herederos de Welch (con mirador), Juan Santia [?], Juan Sommers, Marcelino Mezquita (ficha 086), Ruperto Botana (ficha 096), José Pichetto, Manuel Ferretto, José Pagnone, Luis Ambrune, Clemencia E. de Silva, Carlos Mereta [?], Zenobio Palacios [?].",
+   "fuentes": "Este duplicado; fichas 086, 096, 168."
+  },
+  {
+   "nombre": "Julián Romero, Carlos M. Albarracín, Lagos [?]",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firman la vista del 2/9/1898; Romero ordena agregar al duplicado (10/10/1898). Los mismos firmantes aparecen en 1890-1892 (fichas 160-164).",
+   "fuentes": "METODO.md; este duplicado."
+  },
+  {
+   "nombre": "Ángel M. Esquer [?], Pedro J. Torres [?], Nicolás Savio, José A. Aguirre [?], Cornelio Gómez [?]",
+   "rol": "Justicia y escribanía",
+   "texto": "Juez y secretario del condominio de 1896; firmantes del oficio de aprobación de Mercedes (4/10/1898); escribano de Giles en 1894-1897. Lecturas dudosas.",
+   "fuentes": "Este duplicado."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/176/02.jpg",
+  "fuente": "IMG_0702.JPG",
+  "lineas": [
+   "San A. de Giles",
+   "N.º 176",
+   "Propiedad de Dña. Petrona Almirón de Andrada",
+   "i otros.",
+   "San Andrés de Giles.",
+   "Julio de 1898.",
+   "Carlos M. Ramallo",
+   "Ing. Civil",
+   "[a lápiz azul: cifras y fechas de trámite, ilegibles]"
+  ]
+ },
+ "titulo": "Petrona Almirón de Andrada (venta de 300 ha a Jorge Morgan)",
+ "estado": "Transcripta (36 hojas, 137 renglones), 3 láminas"
+}

@@ -1,0 +1,473 @@
+{
+ "carpeta": "179",
+ "carpeta_nombre": "Carpeta 179",
+ "archivo": "Ficha 179 - Sucesión María Murray de Mooney (1898).docx",
+ "resumen": {
+  "N.º de duplicado": "179 (San Andrés de Giles); cifra «f. 170,28 [?]»",
+  "Propietario / solicitante": "Sucesión de María Murray de Mooney (Guillermo M., María y Margarita M. de Morgan)",
+  "Agrimensor": "Luis G. Klappenbach",
+  "Año": "1898",
+  "Fecha de la diligencia": "pedido 22/6/1898; firma agosto 1898; D. I. 24/9 y 2/12/1898; aprobada 22/2/1899",
+  "Ubicación": "Estancia de Mooney (ex Del Sar, ficha 025), arroyos de Suero y Bogarín",
+  "Orden judicial": "Juez 1.ª Inst. Civil Dto. de la Capital Dr. Arturo H. Gamboa",
+  "Vendedor / antecesor": "Rafael y Pedro del Sar (1856 y 1860); mensura de Eguía 1858",
+  "Linderos citados": "De Dios, L. P. de Figueroa, Wheeler, Morgan, Zerboni, Pérez, Casella, Peret, Vignolo",
+  "Medidas": "12 lados; I-J 5775,50 · J-K 2930 · C-D 2593 · H-I 2058 m",
+  "Rumbos": "N 46° 54′ O / N 43° 06′ E (verdaderos); var. 11° 15′ NE",
+  "Referencia de archivo": "AHG PBA, duplicado 179 (Giles); antecedente: duplicado de Eguía 1858"
+ },
+ "metricas": {
+  "superficie_ha": "1998,69 medidas; 1975,95 de título; 3 lotes de 666,23; sobrante 22,74",
+  "hitos": "mojón cañón, mojones de palo de 1858, poblaciones «El Paraíso», jagüeles, potrero, chacra",
+  "aguas": "arroyo de Suero, arroyo Bogarín"
+ },
+ "sintesis": "Mensura y división, en 1898, de la estancia que Guillermo Mooney compró a los Del Sar en 1856 y que Eguía midió en 1858 (ficha 025). Klappenbach recorre el perímetro alambrado desde los mojones de 1858: 12 lados, 1998,69 ha contra 1975,95 de título, que son exactamente las varas de Eguía. Divide en tres lotes iguales de 666,23 ha según el testamento de María Murray de Mooney: a la hija María, el de las poblaciones, corrales y montes («El Paraíso»); a Margarita M. de Morgan, el del SO, junto a su campo; a Guillermo, el resto. El Departamento obliga a declarar el exceso como sobrante fiscal (ley de 1890) y a ubicarlo sobre J-K. Mooney lo pide en compra en 1899, no escritura, y en 1903 se manda rematar.",
+ "caratula": {
+  "img": "img/f/179/01.jpg",
+  "fuente": "IMG_0784.JPG",
+  "campos": [
+   [
+    "N.º",
+    "179"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "María Murray de Mooney"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "L. G. Klappenbach"
+   ],
+   [
+    "Año",
+    "1898"
+   ],
+   [
+    "Mes / Juzgado / Secretaría",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · extracto de títulos: la compra a los Del Sar (1856)",
+   "img": "img/f/179/07.jpg",
+   "fuente": "IMG_0786.JPG",
+   "nota": "Hoja suelta fotografiada acostada (rot 90); sello «FOJA 1». «Carco» se lee con claridad, pero podría ser una mala copia de «Casco».",
+   "lineas": [
+    "[sello: FOJA 1]",
+    "Estracto de títulos.",
+    "En 24 de Setiembre de 1856, Don Rafael y D. Pedro / del Sar venden á Don Guillermo Mooney un terreno / en el partido de San Antonio de Areco, compuesto de / una figura irregular que tiene 6210 varas por / una parte, tres mil por otra (3000), cinco mil doscientas / setenta por otra (5270), y tres mil quinientas cuaren- / ta y dos por otra (3542) igual á dos mil ochenta y / seis varas de frente con legua y media de fondo, y á / mas una lonja de terreno de (260 v.s) doscientas / sesenta varas de frente y (6000) seis mil de fondo; / lindando todo por una parte con Don Pedro An- / tonio Rodriguez y compañía, por otra con Don / Felipe Figueroa, con otra con D. Jacinto Bogarin / y por otra con Don Pilar Carco [?] y varios otros / segun resulta del plano respectivo. Este terreno / es parte de los que en mayor porcion compraron á [?] / su abuelo Don Francisco del Sar segun la escritu- / ra de venta de fecha 23 del corriente.",
+    "Con fecha 22 de Abril de 1858 Don Guillermo Mooney / confiere poder á D. Adolfo Conde para que solici-"
+   ],
+   "interpretacion": "El 24/9/1856 Rafael y Pedro del Sar venden a Guillermo Mooney, en el partido de San Antonio de Areco, una figura irregular de 6210, 3000, 5270 y 3542 varas por lado, «igual á» 2086 varas de frente por legua y media de fondo, más una lonja de 260 × 6000 varas. Linderos: Pedro Antonio Rodríguez y Cía., Felipe Figueroa, Jacinto Bogarín (cuyo nombre queda en el «Arroyo Bogarín» del plano) y Pilar Carco [?]. La tierra era parte de la que los Del Sar compraron a su abuelo Francisco del Sar. El 22/4/1858 Mooney da poder a Adolfo Conde para pedir la mensura."
+  },
+  {
+   "titulo": "Folio 1 vuelto · la mensura de Eguía (1858) y su exceso",
+   "img": "img/f/179/08.jpg",
+   "fuente": "IMG_0787.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "te la mensura de un terreno de Estancia de su / propiedad situado en el partido de San Anto- / nio de Areco, con arreglo á los títulos que le entre- / ga.",
+    "En Mayo 10 de 1858 Don Adolfo Conde propone al / Agrimensor Don Manuel Eguia para practicar / la mensura.",
+    "Con fecha 19 de Junio de 1858 el Agrimensor Eguia / practica la operacion, encontrando una super- / ficie de 26.347.226 v.s c.s y siendo la del título 21.360.000 v.s c.s / resulta un exceso de 4.987.226 v.s c.s á favor de los vende- / dores D. Rafael y Don Pedro del Sar y que el propietario / Don Guillermo Mooney tiene tratado en compra.—",
+    "En Agosto 17 de 1859 el Departamento Topográfico / aprueba la mensura del Agrimensor Eguia.—",
+    "En Setiembre 7/859 se aprueba judicialmente di- / cha operacion.—",
+    "En Junio 27/859 Don Rafael del Sar convino en vender / á D. Guillermo Mooney el sobrante equivalente á / quinientas cincuenta y cuatro varas de frente por / nueve mil de fondo (554 x 9000) resultante de la men-"
+   ],
+   "interpretacion": "Conde propone al agrimensor Manuel Eguía (10/5/1858), que mide el 19/6/1858 y halla 26 347 226 varas cuadradas contra 21 360 000 del título: 4 987 226 v² de exceso «á favor de los vendedores», que Mooney ya tenía apalabrado. El Departamento Topográfico aprueba la mensura (17/8/1859) y el juez la confirma (7/9/1859). Rafael del Sar había convenido el 27/6/1859 venderle el sobrante, equivalente a 554 × 9000 varas. Es la mensura de la ficha 025."
+  },
+  {
+   "titulo": "Folio 2 · compra del sobrante (1860) y pedido de 1898",
+   "img": "img/f/179/09.jpg",
+   "fuente": "IMG_0787.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 2]",
+    "sura practicada por D. Manuel Eguia.",
+    "En 23 de Enero de 1860 Don Rafael del Sar por sí y por / su hermano Don Pedro del Sar vende á Don Guillermo / Mooney un sobrante de 4.987.226 v.s c.s ratificando esta / venta ante el escribano Don Fernando Segade.—",
+    "En Junio 22 de 1898 Don Julio B. Muzlera [?] por / Don Guillermo M. Mooney y el Doctor Santiago G. / O'Farrell por D.ª Margarita M. de Morgan y Doña / Maria Mooney solicitan la mensura y division / del campo perteneciente á la sucesion de D.ª / Maria Murray de Mooney, proponiendo al perito / que suscribe.",
+    "En 25 de Julio se nombra al Agrimensor quien / con fecha Agosto 6 toma antecedentes en el Depar- / tamento de ingenieros.—",
+    "Diligencia de Mensura.—",
+    "El Agrimensor que suscribe, comisionado judi- / cialmente por decreto del Señor Juez de 1.ª Instan- / cia en lo Civil del Departamento de la Capital / de la Provincia Dr. Arturo H. Gamboa, de fecha / 25 de Julio de mil ochocientos noventa y ocho"
+   ],
+   "interpretacion": "El 23/1/1860 Rafael del Sar, por sí y por su hermano Pedro, vende a Mooney el sobrante de 4 987 226 v² ante el escribano Fernando Segade. El 22/6/1898 Julio B. Muzlera [?], por Guillermo M. Mooney, y el Dr. Santiago G. O’Farrell, por Margarita M. de Morgan y María Mooney, piden la mensura y división del campo de la sucesión de María Murray de Mooney y proponen a Klappenbach. Nombrado el 25/7, toma antecedentes en el Departamento de Ingenieros el 6/8. Comienza la «Diligencia de mensura»: comisión del juez de 1.ª Instancia en lo Civil del Departamento de la Capital, Dr. Arturo H. Gamboa."
+  },
+  {
+   "titulo": "Folio 2 vuelto · edictos, circular; líneas A-B-C",
+   "img": "img/f/179/10.jpg",
+   "fuente": "IMG_0788.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "para medir y dividir el terreno de Estancia per- / teneciente á la sucesion de D.ª Maria Murray / de Mooney situado en el Partido de San Andrés / de Giles; una vez publicados los edictos y dado / aviso á los señores linderos segun consta de los diá- / rios, circular y acta que originales acompaño / procedió á practicar la operacion en la forma / siguiente:—",
+    "Me situé en el punto A mojon esquinero de D. Rosendo / de Dios y el terreno que se mide y con rumbo N 46°54' O / Norte cuarenta y seis grados cincuenta y cuatro mi- / nutos Oeste medí 1588 mil quinientos ochenta y / ocho metros hasta B esquinero de D.ª Livia P. de Figue- / roa. En esta línea, á los 919.25 novecientos diez / y nueve metros veinte y cinco centímetros encon- / tré el mojon cañon esquinero de D. Rosendo de Dios y / D.ª Livia P. de Figueroa y costanero de Mooney. De / B con rumbo S 58°32' O sud cincuenta y ocho grados / treinta y dos minutos Oeste medí 304 trescientos cu- / atro metros hasta C. De C con rumbo N 32°14' O Nor- / te treinta y dos grados catorce minutos Oeste medí",
+    "[margen izquierdo: guiones de foliatura/renglones]"
+   ],
+   "interpretacion": "El campo ya está en San Andrés de Giles. Edictos en los diarios, circular y acta. Arranca en A, esquinero de Rosendo de Dios: A-B N 46° 54′ O 1588 m hasta el esquinero de Livia P. de Figueroa; a 919,25 m, un MOJÓN CAÑÓN (un caño de hierro o un cañón viejo) esquinero de De Dios y Figueroa y costanero de Mooney. B-C S 58° 32′ O 304 m; C-D N 32° 14′ O…"
+  },
+  {
+   "titulo": "Folio 3 · perímetro D-I",
+   "img": "img/f/179/11.jpg",
+   "fuente": "IMG_0788.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 3]",
+    "2593 dos mil quinientos noventa y tres metros / hasta D. De D con rumbo S 58°29' O sud cincuenta / y ocho grados veinte y nueve minutos Oeste medí / 1073.50 mil setenta y tres metros cincuenta centíme- / tros hasta E. De E con rumbo N 31°34' O Norte trein- / ta y un grados treinta y cuatro minutos Oeste me- / dí 299.50 doscientos noventa y nueve metros cin- / cuenta centímetros hasta F. De F con rumbo S 58°20' O / Sud cincuenta y ocho grados veinte minutos Oeste / medí 1178.50 mil ciento setenta y ocho metros cin- / cuenta centímetros hasta G. De G con rumbo / S 31°32' E sud treinta y un grados treinta y dos / minutos Este, medí 297.60 doscientos noventa / y siete metros sesenta centímetros hasta H. / De H con rumbo S 58°28' O sud cincuenta / y ocho grados veinte y ocho minutos Oeste, / medí 2058 dos mil cincuenta y ocho metros / hasta I. De I con rumbo S 46°46' E Sud / cuarenta y seis grados cuarenta y seis minutos / Este, medí 5775.50 cinco mil setecientos seten- / ta y cinco metros cincuenta centímetros has-"
+   ],
+   "interpretacion": "…2593 m; D-E S 58° 29′ O 1073,50; E-F N 31° 34′ O 299,50; F-G S 58° 20′ O 1178,50; G-H S 31° 32′ E 297,60; H-I S 58° 28′ O 2058; I-J S 46° 46′ E 5775,50 m. El costado NO es una línea quebrada en escalones de ≈ 300 m: los fondos de las suertes vecinas no coinciden."
+  },
+  {
+   "titulo": "Folio 3 vuelto · cierre del perímetro alambrado; superficie",
+   "img": "img/f/179/12.jpg",
+   "fuente": "IMG_0789.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "ta J. De J con rumbo N 43°06' E Norte cua- / renta y tres grados seis minutos Este, medí / 2930 dos mil novecientos treinta metros hasta / K. De K con rumbo N 46°54' O Norte cuarenta / y seis grados cincuenta y cuatro minutos / Oeste, medí 454 cuatrocientos cincuenta y cua- / tro metros hasta L. De L con rumbo N 43°06' E. / Norte cuarenta y tres grados seis minutos Este / medí 868.50 ochocientos sesenta y ocho metros / cincuenta centímetros hasta A punto de / arranque. En la línea IJ, á los 2885.50 dos / mil ochocientos ochenta y cinco metros cin- / cuenta centímetros encontré un mojon de / palo. En la línea JK á los 755 y 1843 setecien- / tos cincuenta y cinco metros y mil ochocientos / cuarenta y tres metros encontré mojones de / palo con lo que dí por terminada la opera- / cion de mensura del perímetro alambrado.",
+    "Superficie.— El polígono medido tiene una fi- / gura irregular con una superficie de / 1998 hectáreas 68 áreas 83 centiáreas 0.68 sesenta y / ocho centésimos.—",
+    "[margen izquierdo: guiones; margen derecho, a lápiz, anotación ilegible]"
+   ],
+   "interpretacion": "J-K N 43° 06′ E 2930; K-L N 46° 54′ O 454; L-A N 43° 06′ E 868,50 m. Mojones de palo en I-J (2885,50) y J-K (755 y 1843 m). Así termina la mensura «del perímetro alambrado». Superficie: 1998 ha 68 a 83,68 ca. Recalculado en python con los rumbos y distancias copiados: error de cierre ≈ 8 m (1:2700) y 2001,7 ha; la diferencia es de copia o de redondeo de rumbos, no de método."
+  },
+  {
+   "titulo": "Folio 4 · el exceso «no puede considerarse sobrante»",
+   "img": "img/f/179/13.jpg",
+   "fuente": "IMG_0789.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 4]",
+    "mil novecientas noventa y ocho hectáreas, sesen- / ta y ocho áreas ochenta y tres centiáreas y sesen- / ta y ocho centésimos de otra.—",
+    "Ahora bien, la superficie del título 1975 hect.s / 94 a.s 54 c.s mil novecientas setenta y cinco / hectáreas noventa y cuatro áreas cincuenta / y cuatro centiáreas, comparada con la encon- / trada para el polígono medido; da una dife- / rencia en más de 22 h.s 74 a.s 29 c.s y 0.68 / veinte y dos hectáreas setenta y cuatro áreas veinte / y nueve centiáreas con sesenta y ocho centési- / mos de otra. Esta demasiada [sic] sobre la su- / perficie del título, apenas sobrepasa la / tolerancia admitida, y no puede conside- / rarse como sobrante puesto que se en- / cuentra dentro de los límites fijados por / mojones que datan del año 1858, y de líneas / que han permanecido fijas como lo prueban / los alambrados existentes. Además, las ope- / raciones que se han practicado para / los linderos de la parte Norte y Este del",
+    "[margen izquierdo, a lápiz: anotación ilegible]"
+   ],
+   "interpretacion": "Título: 1975 ha 94 a 54 ca; diferencia en más 22 ha 74 a 29,68 ca, que «apenas sobrepasa la tolerancia» y, según el agrimensor, no es sobrante porque está dentro de mojones que datan de 1858 y de líneas que han permanecido fijas, «como lo prueban los alambrados existentes». Los vecinos del N y E siempre respetaron las líneas de Mooney. Dato verificado: 1975,9454 ha = 26 347 484 v² (vara de 0,866 m), es decir, la superficie del título de 1898 es la de Eguía en 1858 (título + sobrante comprado en 1860)."
+  },
+  {
+   "titulo": "Folio 4 vuelto · linderos y firmantes de la circular",
+   "img": "img/f/179/14.jpg",
+   "fuente": "IMG_0790.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "terreno en cuestion, siempre han respeta- / do las líneas del campo de Mooney sin / avanzar sobre ellas, al establecer sus ubi- / caciones, posteriores á la mensura del agrimen- / sor Eguia.—",
+    "Linderos.— Por el costado N.O. Zerboni, Perez / Casella, Peret y Luis Vignolo. Por el N.E. / Livia P. de Figueroa y Rosendo de Dios, por el / S.E. María D. de Wheeler y parte del terreno / de Dios, y por el S.O. D. Jorge Morgan y Mar- / garita M. de Morgan.",
+    "Circular y Acta. Han sido firmadas por / D. Juan Wheeler por D.ª María D. de Wheeler, / [D.] Alejandro Zerboni por su señora madre y por / autorizacion, por G. de Dios, Miguel Carco [?] / por D. Zenon Perez, Lorenzo Campodonico / por D. Luis Vignolo, F. Martinez por Domin- / go Casella, Jorge Morgan, Daniel Carthy [?] / por D. Pedro Peret, Eduardo F. Morgan por / D.ª Margarita M. de Morgan. [otra letra:] Enrique Figueroa.—",
+    "Variacion.— Los rumbos son verdaderos"
+   ],
+   "interpretacion": "Linderos: NO Zerboni, Pérez, Casella, Peret y Luis Vignolo; NE Livia P. de Figueroa y Rosendo de Dios; SE María D. de Wheeler y parte de De Dios; SO Jorge Morgan y Margarita M. de Morgan. Firman circular y acta: Juan Wheeler por María D. de Wheeler; Alejandro Zerboni por su madre; por autorización, G. de Dios; Miguel Carco [?] por Zenón Pérez; Lorenzo Campodónico por Luis Vignolo; F. Martínez por Domingo Casella; Jorge Morgan; Daniel Carthy [?] por Pedro Peret; Eduardo F. Morgan por Margarita M. de Morgan; Enrique Figueroa (otra letra). Los firmantes «por» revelan hijos, encargados y arrendatarios."
+  },
+  {
+   "titulo": "Folio 5 · el testamento ordena la división; lote 1",
+   "img": "img/f/179/15.jpg",
+   "fuente": "IMG_0790.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: FOJA 5]",
+    "y la variacion de la aguja de 11°15' N.E. / once grados, quince minutos N.E.—",
+    "División.—",
+    "La cláusula octava del testamento de la causante / fojas 34, establece que el terreno de San Andrés de / Giles se dividirá en tres partes iguales con la pre- / vencion expresa que á su hija Maria se le ubique / su tercera parte de campo en donde se encuen- / tran las poblaciones, corrales y montes.",
+    "Además se ha convenido entre los mismos here- / deros, que á la heredera D.ª Margarita M. de Mor- / gan se le ubique su tercera parte en el costa- / do S.O. lindando con su terreno, y al herede- / ro D. Guillermo Mooney [testado: en el] el tercer lote, don- / de resulte.—",
+    "Lote 1. Margarita M. de Morgan.",
+    "Del mojon J. medí con rumbo N 43°06' E Norte cua- / renta y tres grados seis minutos Este 1193.33 mil / ciento noventa y tres metros treinta y tres centímetros / hasta P. donde coloqué el mojon divisorio con el / lote 2. De P cuadré al N 46°54' O Norte cuarenta"
+   ],
+   "interpretacion": "Variación 11° 15′ NE; rumbos verdaderos. La cláusula octava del testamento (fs. 34 del expediente) manda dividir el campo de San Andrés de Giles en tres partes iguales, y que a la hija María le toque la tercera parte «en donde se encuentran las poblaciones, corrales y montes». Los herederos convienen que Margarita M. de Morgan reciba la suya en el costado SO, junto a su propio campo, y Guillermo, la que resulte. Lote 1 (Margarita): desde J por J-K 1193,33 m hasta P, mojón divisorio."
+  },
+  {
+   "titulo": "Folio 5 vuelto · lote 1 (fin) y lote 2",
+   "img": "img/f/179/16.jpg",
+   "fuente": "IMG_0791.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "y seis grados cincuenta y cuatro minutos / Oeste y medí 5450.07 cinco mil cuatrocientos / cincuenta metros siete centímetros hasta / O donde coloqué otro mojon en la interse- / cion con la línea HI. En esta línea á los / 2598 dos mil quinientos noventa y ocho me- / tros coloqué un mojon costanero.",
+    "Superficie: 666 h.s 22 a.s 94 c.s 0.56 seiscientas sesen- / ta y seis hectáreas veinte y dos áreas noventa y cua- / tro centiáreas con cincuenta y seis centésimos.—",
+    "Linderos: N.O. Zerboni y Perez, S.O. Margarita / M. de Morgan y Jorge Morgan, S.E. María D. / de Wheeler y N.E. María Mooney.",
+    "Lote 2. María Mooney.—",
+    "Del mojon P medí con rumbo N 43°06' E. Norte / cuarenta y tres grados seis minutos Este 1240.48 / mil doscientos cuarenta metros cuarenta y ocho / centímetros hasta M. donde coloqué un mo- / jon divisorio entre los lotes 2 y 3. De M cua- / dré al N 46°54' O Norte cuarenta y seis grados / cincuenta y cuatro minutos Oeste y medí"
+   ],
+   "interpretacion": "De P, N 46° 54′ O 5450,07 m hasta O, mojón en la línea H-I; costanero a 2598 m. 666 ha 22 a 94,56 ca. Linderos: Zerboni y Pérez (NO), Margarita y Jorge Morgan (SO), Wheeler (SE), María Mooney (NE). Recalculado: 666,13 ha y O queda a 1,1 m de la recta H-I. Lote 2 (María): de P por J-K 1240,48 m hasta M."
+  },
+  {
+   "titulo": "Folio 6 · lote 2 (fin) y lote 3; firma",
+   "img": "img/f/179/17.jpg",
+   "fuente": "IMG_0791.JPG (mitad derecha)",
+   "nota": "Las tres partes suman exactamente el polígono medido (3 × 666,2295 = 1998,688 ha): el reparto incluye el exceso.",
+   "lineas": [
+    "[sello: FOJA 6]",
+    "5417.15 cinco mil cuatrocientos diez y siete metros / quince centímetros hasta N. donde coloqué otro / mojon en la interseccion con la línea F.G.— / En esta línea á los 2598 dos mil quinientos noven- / ta y ocho metros coloqué un mojon costanero.— [la cifra repite la del lote 1: posible error de copia]",
+    "Superficie: 666 h.s 22 a.s 94 c.s 0.56 seiscientas sesen- / ta y seis hectáreas veinte y dos áreas noventa y cuatro / centiáreas con cincuenta y seis centésimos.—",
+    "Linderos: N.O. Perez y Casella. S.O. lote / 1 de D.ª Margarita M. de Morgan, S.E. María / D. de Wheeler y N.E. lote 3 de D. Guillermo / Mooney.—",
+    "Lote 3. Guillermo Mooney.—",
+    "Este lote queda ubicado con la misma / superficie que los otros dos",
+    "Linderos. N.O. Casella, Peret y Vignolo, S.O. / lote 2 de D.ª María Mooney, S.E. María D. / de Wheeler y Rosendo de Dios, N.E. Rosendo / de Dios y Livia P. de Figueroa.—",
+    "Buenos Aires Agosto / 98",
+    "L. G. Klappenbach [rúbrica] / Ag.r",
+    "[sello oval: DEPARTAMENTO DE INGENIEROS [?] / ENTRADA / 24 SETIEMBRE 1898 / DE LA PROVINCIA]"
+   ],
+   "interpretacion": "De M, N 46° 54′ O 5417,15 m hasta N, en la línea F-G; costanero «a los 2598 m» (la misma cifra que en el lote 1: probable repetición de copia). Superficie igual. Linderos: Pérez y Casella (NO), lote 1 (SO), Wheeler (SE), lote 3 (NE). Lote 3 (Guillermo): «queda ubicado con la misma superficie», entre Casella, Peret y Vignolo (NO), lote 2 (SO), Wheeler y De Dios (SE), De Dios y Livia P. de Figueroa (NE). Firma: Buenos Aires, agosto de 1898. Entrada al Departamento de Ingenieros: 24/9/1898."
+  },
+  {
+   "titulo": "Folio 6 vuelto · nota agregada: el sobrante se ubica en J-K",
+   "img": "img/f/179/18.jpg",
+   "fuente": "IMG_0792.JPG (mitad izquierda)",
+   "nota": "El resto de la página está inutilizado con dos rayas; al pie, la reclamante «Se». El folio 7 es el plano.",
+   "lineas": [
+    "Nota. El sobrante de 22 hect.s 74 a.s 29 c.s 0.68 m.a [?] / veinte y dos hectáreas setenta y cuatro áreas veinte / y nueve centiáreas sesenta y ocho centésimos de m.2 [?] / se ha ubicado en el costado JK segun lo prescribe / el art.º 7. de la ley de sobrantes de 14 de Febrero de 1890. / Linderos. Costado S.E. María D. de Wheeler. S.O. / Jorge Morgan N.O. y N.E. los lotes 1. 2. 3 de / D.ª Margarita M. de Morgan, D.ª María Mooney / y D. Guillermo Mooney.—",
+    "L. G. Klappenbach [rúbrica]",
+    "[resto de la página inutilizado con dos rayas oblicuas; al pie, la reclamante «Se»]"
+   ],
+   "interpretacion": "Nota con la firma de Klappenbach, sin duda agregada a pedido del Departamento: el sobrante de 22 ha 74 a 29,68 ca se ubica sobre el costado J-K, «según lo prescribe el art. 7 de la ley de sobrantes de 14 de febrero de 1890». Linderos: Wheeler (SE), Jorge Morgan (SO) y los tres lotes (NO y NE). Con 2930 m de frente, la faja tendría ≈ 77,6 m de ancho. Desdice lo afirmado en el folio 4."
+  },
+  {
+   "titulo": "Folio 8 · vista del Departamento de Ingenieros",
+   "img": "img/f/179/19.jpg",
+   "fuente": "IMG_0797.JPG",
+   "nota": "La página izquierda de la toma es el reverso del plano en tela. El final de los renglones se completó con un recorte del borde.",
+   "lineas": [
+    "[la página izquierda de la toma es el reverso del plano (tela azulada) sin texto; sello: FOJA 8]",
+    "Señor Juez:",
+    "El Departamento de Ingenieros ha examinado / la mensura y division practicadas por el agrimen- / sor Klappenbach de un terreno de propiedad de / la Sucesion de D.ª María Murray de Mooney, si- / tuado en el partido de San Andrés de Giles y en- / cuentra ambas operaciones en condiciones de ser / aprobadas judicialmente.",
+    "Ha resultado un sobrante de propiedad pú- / blica de 22 h. 74 a. 29 c., el cual se ha ubicado / sobre la línea que separa el campo medido con / el de D.ª María D. de Wheeler.",
+    "Dicho sobrante linda al N.E. con Rosendo de / Dios; al N.O. con Margarita M. de Morgan, Ma- / ría y Guillermo Mooney; al S.O. con Jorge / Morgan y al S.E. con María D. de Wheeler.",
+    "Esta division se ha hecho en el concepto de adquirir / el sobrante hallado para la sucesion; pero si él no / fuera escriturado á su favor, la division / efectuada para los herederos quedará altera- / da, pues la ubicacion del referido sobrante"
+   ],
+   "interpretacion": "El Departamento encuentra en condiciones de aprobarse la mensura y la división. El sobrante de propiedad pública (22 ha 74 a 29 ca) se ubica sobre la línea que separa el campo del de María D. de Wheeler; linda NE con Rosendo de Dios, NO con los tres herederos, SO con Jorge Morgan y SE con Wheeler. Advertencia: la división se hizo suponiendo que la sucesión adquirirá el sobrante; si no se le escritura, la división «quedará alterada», porque la ubicación del sobrante…"
+  },
+  {
+   "titulo": "Folio 8 vuelto · firmas del D. I.; aprobación; venta fallida del sobrante (1899-1912)",
+   "img": "img/f/179/20.jpg",
+   "fuente": "IMG_0798.JPG",
+   "nota": "La mitad derecha de la toma muestra el reverso del plano plegado.",
+   "lineas": [
+    "[la mitad derecha de la toma muestra el reverso del plano plegado, sin texto]",
+    "afecta desigualmente esta operacion.— / Diciembre 2 de 1898.",
+    "Félix A. Malato [?] [rúbrica] — Julian Romero [?] [rúbrica] / Benjamin Sal [?] [rúbrica] — Cárlos M. Albarracin [rúbrica]",
+    "[otra letra:] Febrero 3/99 — Guillermo Mooney / pidió [?] el sobrante en compra / exp. [?] Abril 6/99 [rúbrica]",
+    "Esta mensura fué aprobada / por el Juez Dr. Gamboa en Febrero / 22 de 1899. Anotado en 6 de Abril [?] /99. [rúbrica]",
+    "Octubre 28 de 1903 — Con esta fecha se de- / ja sin efecto la venta hecha á favor / de Don Guillermo Mooney del sobrante / de esta mensura por no haberse presenta- / do á la escrituracion y se manda sacar á remate. / Juan J. Buguí [?] [rúbrica]",
+    "Julio 20 de 1912 — Informe y plano á la Ofi- / cina de Tierras [?] del sobrante de esta mensura. / Juan J. Buguí [?] [rúbrica]"
+   ],
+   "interpretacion": "…«afecta desigualmente esta operación». 2/12/1898: firman Félix A. Malato, Julián Romero, Benjamín Sal y Carlos M. Albarracín (la misma comisión y el mismo día que en la ficha 178). Notas marginales: 3/2/1899, Guillermo Mooney pide el sobrante en compra; el juez Gamboa aprueba la mensura el 22/2/1899 (anotado 6/4/1899); el 28/10/1903 se deja sin efecto la venta a Mooney «por no haberse presentado á la escrituración» y se manda sacar el sobrante a REMATE; el 20/7/1912, informe y plano del sobrante a la Oficina de Tierras [?]. Firma las dos últimas Juan J. Buguí [?]."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la Sucesión de Doña María Murray de Mooney (Klappenbach, 1898)",
+   "img": "img/f/179/03.jpg",
+   "fuente": "IMG_0793.JPG (vista general; detalles IMG_0794-0796)",
+   "orientacion": "plano en papel tela acuarelado, plegado (es el folio 7); flecha de norte abajo a la derecha; escala gráfica en metros a la izquierda",
+   "interpretacion": "El polígono de 12 lados, con el costado NO en escalones, dividido por dos rectas paralelas (N 46° 54′ O) en tres fajas coloreadas: lote 1, celeste, Margarita M. de Morgan; lote 2, ocre, María Mooney; lote 3, rosado, Guillermo M. Mooney, cada uno con «Sup: 666 h 22 a 94 c 0,56». Cuadro: «Sup. total 1998 h 68 a 83 c 0,68 / título 1975 · 94 · 54 / difer.ª 22 h 74 a 29 c 0,68». Sobre J-K, la faja rotulada «Sobrante». Paisaje dibujado: el ARROYO DE SUERO cruza los lotes 1 y 2 hacia J-K, con un afluente; un POTRERO alambrado en faja oblicua corta el arroyo y termina en la población «EL PARAÍSO» (casa con arboleda) con su JAGÜEL, en el lote 2, tal como manda el testamento; otras poblaciones («P.b») en el lote 1 junto a I y en el lote 3 junto al mojón cañón; el ARROYO BOGARÍN, con otro jagüel, atraviesa el lote 3 cerca de D, con un recinto rectangular alambrado sobre el arroyo; una «CHACRA» en el ángulo N del lote 2. Firma de Klappenbach al pie izquierdo. Numerosas cifras a lápiz posteriores (4043, 1650, 1580, 1399…), probablemente de revisiones catastrales.",
+   "referencias": [
+    [
+     "A",
+     "Esquinero de Rosendo de Dios, arranque"
+    ],
+    [
+     "B",
+     "Esquinero de Livia P. de Figueroa (a 919,25 m de A, mojón cañón)"
+    ],
+    [
+     "C-D-E-F-G-H",
+     "Costado NO en escalones (Vignolo, Peret, Casella, Pérez, Zerboni)"
+    ],
+    [
+     "I",
+     "Esquinero O; I-J 5775,50 m contra Margarita M. de Morgan"
+    ],
+    [
+     "J-K",
+     "Costado SE contra Wheeler (2930 m), con la faja del sobrante"
+    ],
+    [
+     "P · M",
+     "Mojones divisorios de los lotes sobre J-K (1193,33 y 1240,48 m)"
+    ],
+    [
+     "O · N",
+     "Extremos de las divisorias sobre H-I y F-G (5450,07 y 5417,15 m)"
+    ],
+    [
+     "K-L-A",
+     "Escotadura contra Rosendo de Dios"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: arroyo de Suero, potrero y «El Paraíso»",
+   "img": "img/f/179/04.jpg",
+   "fuente": "IMG_0794.JPG (girada 180°)",
+   "orientacion": "toma de detalle",
+   "interpretacion": "Costado J-K «N 43° 06′ E, JK = 2930 m» con la faja «Sobrante», mojones de palo (755 y 1843) y los divisorios P y M; el arroyo de Suero con su afluente, el potrero en diagonal y la población «El Paraíso» con jagüel; la escotadura K-L-A y el mojón «Cañón» con una población junto a A-B.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: los tres lotes y el arroyo Bogarín",
+   "img": "img/f/179/05.jpg",
+   "fuente": "IMG_0795.JPG (girada 180°)",
+   "orientacion": "toma de detalle",
+   "interpretacion": "PO = 5450,07, MN = 5417,15, IJ = 5775,50 m con el mojón a 2885,5; costaneros a 2598; C-D = 2593 m N 32° 14′ O; el arroyo Bogarín con jagüel y el recinto alambrado que monta sobre C-D; la «Chacra».",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: costado NO y cuadro de superficies",
+   "img": "img/f/179/06.jpg",
+   "fuente": "IMG_0796.JPG (girada 180°)",
+   "orientacion": "toma de detalle",
+   "interpretacion": "Escalones D-E-F-G-H-I con sus cotas (807,76 m de F a N; 835,75 de H a O; 1222,80 de O a I); linderos Luis Vignolo, Peret, Casella, Pérez y Zerboni; flecha del norte y cuadro de superficies.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Cuarenta años después de Eguía, la estancia «San Guillermo» de 1858 (ficha 025) aparece cerrada por alambrados en todo su perímetro, con un POTRERO alambrado interior, una CHACRA (tierra de labranza) en el ángulo N, un recinto cercado sobre el arroyo Bogarín y al menos tres POBLACIONES. La principal se llama ahora «EL PARAÍSO» (¿por un árbol paraíso?), con arboleda y jagüel: es el núcleo de «poblaciones, corrales y montes» que el testamento asigna a la hija soltera. Dos arroyos nombrados, el de SUERO (que da nombre al bloque de 1856-1858) y el BOGARÍN, que conserva el apellido de un lindero de 1856, Jacinto Bogarín: la hidronimia fija a los antiguos ocupantes. Los jagüeles junto a cada arroyo muestran que el agua de bebida se buscaba en pozos aun al lado de los cursos."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Edictos, circular y acta firmados por TODOS los linderos, pero casi siempre por intermediarios: un hijo por su madre (Zerboni), apoderados o encargados por propietarios ausentes (Carco [?] por Pérez, Campodónico por Vignolo, Martínez por Casella, Carthy [?] por Peret), Juan Wheeler por María D. de Wheeler, Eduardo F. Morgan por Margarita. La división no se sortea: la fija el testamento (la hija recibe la casa) y un acuerdo entre herederos (Margarita, casada con un Morgan, recibe el lote pegado a su propio campo). El conflicto real es con el Estado: el agrimensor sostiene que el exceso no es sobrante porque está dentro de mojones de 1858 y alambrados consolidados, y el Departamento lo obliga a declararlo y ubicarlo (nota del f. 6 vta.)."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos verdaderos con variación de 11° 15′ NE (Thamm, el mismo año, usa 11° 43′, ficha 178). Distancias al centímetro. El agrimensor reconoce y reutiliza los mojones de palo de Eguía de 1858 y un «mojón cañón». Divisiones por paralelas (N 46° 54′ O) a partir de cotas sobre J-K calculadas para áreas iguales; los mojones divisorios P, M, O, N y dos costaneros se colocan nuevos. Verificación en python: error de cierre del perímetro ≈ 8 m (1:2700), área 2001,7 ha contra 1998,69 declaradas (0,15 %); lote 1 recalculado 666,13 ha y su vértice O a 1,1 m de la recta H-I; I-O 1223,9 m contra 1222,80 del plano."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "El título de 1856 se expresa en varas: 2086 v de frente por legua y media de fondo más una lonja de 260 × 6000 v; Eguía midió 26 347 226 v² con 21 360 000 de título. En 1898, la superficie de título en hectáreas (1975,9454) equivale a 26 347 484 v² con la vara de 0,866 m: es la superficie de Eguía, porque el exceso de 1858 fue comprado en 1860. El nuevo exceso (22,74 ha, 1,15 %) es la diferencia entre la medición con cinta de 1858 y la de 1898. Las tres cuotas (666,2295 ha) suman exactamente el área medida, incluido el sobrante."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Gran estancia de origen colonial de los Del Sar, vendida a un irlandés en 1856, con su exceso comprado en 1860; heredada por la viuda, María Murray de Mooney, y dividida en 1898 entre sus tres hijos. Margarita casó con un Morgan, otra familia británica lindera (Jorge Morgan es vecino al SO), de modo que la tierra se agrega por alianza matrimonial. El sobrante fiscal muestra la política de la ley de 1890: preferencia de compra para el propietario, pedido de Guillermo Mooney (1899), caducidad por no escriturar (1903) y remate; en 1912 todavía se informaba sobre él."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "025 (Mooney, Eguía 1858): es el origen exacto; los mojones de palo de Eguía siguen en pie. 020 y 029 (Morgan): linderos SO; 067 nombra a María Murray de Mooney; 022 (Wheeler, Differt 1858): María D. de Wheeler es lindera SE; 056 (Rosendo de Dios) y 062 (Figueroa): los linderos NE, y el mojón esquinero De Dios/Figueroa/Mooney (el «cañón») es el punto que en 1872 Serna halló fuera de línea; 148: allí el sobrante fiscal se ubicó «contra Mooney». 178: la misma comisión del Departamento (Malato, Romero, Sal, Albarracín) firma el mismo día, 2/12/1898. 160 y 163: otras mensuras de Klappenbach. Zerboni figura como lindero en otra ficha del NO."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Duplicado completo: fs. 1-8 vta. con plano (f. 7), aprobación judicial (22/2/1899) y notas hasta 1912. Dudas: apellidos «Muzlera», «Carco» (¿Casco?), «Carthy», «Buguí» y la oficina destinataria de 1912; la cifra 2598 repetida en los lotes 1 y 2. ¿Se remató el sobrante después de 1903 y quién lo compró? ¿«El Paraíso» es la misma casa de la chimenea «San Guillermo» que Eguía y Gonnet usaban como visual? Georreferenciar con los vértices A y J (común con 022/025) y comparar el escalonado NO con las fajas de Zerboni, Pérez y Casella."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "María Murray de Mooney",
+   "rol": "Causante",
+   "texto": "Viuda de Guillermo Mooney (ficha 067 la identifica). Su testamento (cláusula 8.ª) divide el campo de Giles en tres partes iguales y reserva a su hija María la parte con poblaciones, corrales y montes.",
+   "fuentes": "Este duplicado; fichas 025, 056, 067."
+  },
+  {
+   "nombre": "Guillermo Mooney (padre)",
+   "rol": "Comprador de 1856",
+   "texto": "Estanciero irlandés; compró a los Del Sar en 1856, hizo medir por Eguía en 1858 y compró el exceso en 1860. Su casa con chimenea era visual de otros agrimensores.",
+   "fuentes": "Ficha 025; este duplicado."
+  },
+  {
+   "nombre": "Guillermo M. Mooney, María Mooney y Margarita M. de Morgan",
+   "rol": "Herederos",
+   "texto": "Reciben 666,23 ha cada uno: Margarita el lote 1 (SO), María el 2 (con «El Paraíso»), Guillermo el 3 (NE). Guillermo pide el sobrante en compra en 1899 y la venta caduca en 1903. Margarita está casada con un Morgan; firma por ella Eduardo F. Morgan.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Luis G. Klappenbach",
+   "rol": "Agrimensor",
+   "texto": "Activo en Giles en 1891-1898 (sucesión Ormaechea-Reyes, fichas 160 y 163). Aquí defiende que el exceso no es sobrante y luego, por nota, lo ubica según la ley de 1890.",
+   "fuentes": "Fichas 160, 163; este duplicado."
+  },
+  {
+   "nombre": "Manuel Eguía",
+   "rol": "Agrimensor de 1858",
+   "texto": "Autor de la mensura de origen (ficha 025) y de muchas otras de la década de 1850 en Giles.",
+   "fuentes": "METODO.md; ficha 025."
+  },
+  {
+   "nombre": "Rafael, Pedro y Francisco del Sar",
+   "rol": "Vendedores y antecesor",
+   "texto": "Rafael y Pedro venden en 1856 y 1860; la tierra venía de su abuelo Francisco del Sar. La testamentaría de Pedro del Sar remató otra faja en 1862 (ficha 031).",
+   "fuentes": "Fichas 025, 031; este duplicado."
+  },
+  {
+   "nombre": "Adolfo Conde",
+   "rol": "Apoderado de mooney (1858)",
+   "texto": "Pide la mensura de 1858 y propone a Eguía.",
+   "fuentes": "Ficha 025; este duplicado."
+  },
+  {
+   "nombre": "Fernando Segade",
+   "rol": "Escribano",
+   "texto": "Autoriza la venta del sobrante de 1860.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Julio B. Muzlera [?] y Dr. Santiago G. O’Farrell",
+   "rol": "Apoderados (1898)",
+   "texto": "Muzlera por Guillermo M. Mooney; O’Farrell, abogado de origen irlandés, por Margarita y María.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Arturo H. Gamboa",
+   "rol": "Juez de 1.ª instancia en lo civil, departamento de la capital",
+   "texto": "Comisiona a Klappenbach (25/7/1898) y aprueba la mensura (22/2/1899).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Rosendo de Dios y G. de Dios",
+   "rol": "Linderos ne-se",
+   "texto": "Familia lindera desde 1870 (ficha 056); firma G. de Dios.",
+   "fuentes": "Ficha 056; este duplicado."
+  },
+  {
+   "nombre": "Livia P. de Figueroa y Enrique Figueroa",
+   "rol": "Linderos ne",
+   "texto": "Herederos de la faja Figueroa de 062; Enrique firma con otra letra.",
+   "fuentes": "Ficha 062; este duplicado."
+  },
+  {
+   "nombre": "María D. de Wheeler y Juan Wheeler",
+   "rol": "Lindera se",
+   "texto": "Campo de Wheeler (ficha 022); Juan firma por ella. El sobrante se ubica contra su línea.",
+   "fuentes": "Ficha 022; este duplicado."
+  },
+  {
+   "nombre": "Jorge Morgan y Eduardo F. Morgan",
+   "rol": "Lindero so y firmante",
+   "texto": "Familia Morgan (fichas 020, 029, 067), al SO.",
+   "fuentes": "Fichas 020, 029, 067; este duplicado."
+  },
+  {
+   "nombre": "Alejandro Zerboni, Zenón Pérez, Domingo Casella, Pedro Peret, Luis Vignolo",
+   "rol": "Linderos no",
+   "texto": "Apellidos italianos y franceses en el costado NO; firman por ellos Alejandro Zerboni (por su madre), Miguel Carco [?], F. Martínez, Daniel Carthy [?] y Lorenzo Campodónico: arrendatarios o encargados.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Jacinto Bogarín, Felipe Figueroa, Pedro Antonio Rodríguez, Pilar Carco [?]",
+   "rol": "Linderos de 1856",
+   "texto": "Bogarín ya había vendido a Macome en 1840 (ficha 020); su apellido queda en el arroyo Bogarín del plano.",
+   "fuentes": "Ficha 020; este duplicado."
+  },
+  {
+   "nombre": "Félix A. Malato, Julián Romero, Benjamín Sal, Carlos M. Albarracín",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firman la vista del 2/12/1898, el mismo día que en la ficha 178.",
+   "fuentes": "METODO.md; ficha 178."
+  },
+  {
+   "nombre": "Juan J. Buguí [?]",
+   "rol": "Funcionario del departamento",
+   "texto": "Anota la caducidad de la venta del sobrante (1903) y el informe de 1912.",
+   "fuentes": "Este duplicado."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/179/02.jpg",
+  "fuente": "IMG_0785.JPG",
+  "lineas": [
+   "San Andrés de Giles / 1898. N.º 179 [sobre otra cifra]",
+   "Duplicado de la mensura y división / del campo de la sucesión de / D.ª María Murray de Mooney / situado en el Partido de San Andrés de Giles",
+   "L. G. Klappenbach [rúbrica] / Agrimensor",
+   "[a lápiz:] f. 170,28 [?]"
+  ]
+ },
+ "titulo": "Sucesión de María Murray de Mooney (Guillermo M., María y Margarita M. de Morgan)",
+ "estado": "Transcripta (14 hojas, 71 renglones), 4 láminas"
+}

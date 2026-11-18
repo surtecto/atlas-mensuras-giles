@@ -1,0 +1,666 @@
+{
+ "carpeta": "181",
+ "carpeta_nombre": "Carpeta 181",
+ "archivo": "Ficha 181 - Mónica Gutiérrez de Alfonsín (1899).docx",
+ "resumen": {
+  "N.º de duplicado": "181 (Partido de San Andrés de Giles); portadilla «7.92.80»",
+  "Propietario / solicitante": "Herederos de Mónica Gutiérrez de Alfonsín",
+  "Agrimensor": "Jorge Meineke (carátula «Meinke»)",
+  "Año": "1899",
+  "Fecha de la diligencia": "inicio 18/7/1899; entrada D. I. 17 [?]/8/1899; informe 12/9/1899",
+  "Ubicación": "Rincón SO del partido, sobre el camino de Mercedes al Carmen de Areco (km 30-32,5)",
+  "Orden judicial": "Juez de 1.ª Inst. del Dto. del Centro Dr. Jorge Maurice",
+  "Vendedor / antecesor": "Lote 4 de la testam. de Bernardo Gutiérrez (partición aprobada 22/4/1861)",
+  "Linderos citados": "Donlon, Piñero, Gaynor, Unzué, C., P. y A. Casado, Cassou, Muñiz, Mc Laughlin",
+  "Medidas": "AB 4810; BC 590; CD 3352; DE 1119; EF 663; FG 4134; GA 3942 m",
+  "Rumbos": "N 44° 25′ E / S 44° 19′ E / S 45° 6′ O / N 46° 39′ O (sin declinación declarada)",
+  "Referencia de archivo": "AHG PBA, duplicado 181; exptes. V-525-1902 (O. T. P.) y V-956-1940 (M. O. P.)"
+ },
+ "metricas": {
+  "superficie_ha": "2039,98 (título 1997,88 = 0,74 legua²; exceso 42,10: camino 15,42 + sobrante 26,68)",
+  "hitos": "mojones de fierro (D, F, G, a 4476 m), de palo (B), de piedra y palo (E); mojones kilométricos del camino; estancia y puestos",
+  "aguas": "ninguna mencionada"
+ },
+ "sintesis": "Mensura y división del lote 4 de la testamentaría de Bernardo Gutiérrez (1861), que fue de Mónica Gutiérrez de Alfonsín: 0,74 legua² o 1997,88 ha de título. Jorge Meineke mide en 1899 un heptágono alambrado de 2039,98 ha que linda con Unzué, los Casado, Cassou, Muñiz, Mc Laughlin, Donlon, Piñero y Gaynor. Ubica el exceso de 42,10 ha sobre el costado NE: 15,42 ha corresponden a la mitad del camino de Mercedes al Carmen de Areco, de 50 m y con mojones de fierro en los km 30 y 32,5, y 26,68 ha son un sobrante fiscal que los herederos piden en compra y que se escritura en 1906. El campo se divide en siete lotes, de 181 a 486 ha, por comparendo verbal.",
+ "caratula": {
+  "img": "img/f/181/01.jpg",
+  "fuente": "IMG_0823.JPG",
+  "campos": [
+   [
+    "N.º",
+    "181"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para los herederos de Doña Mónica Gutiérrez de Alfonsín"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Jorge Meinke"
+   ],
+   [
+    "Mes",
+    "(en blanco)"
+   ],
+   [
+    "Año",
+    "1899"
+   ],
+   [
+    "Juzgado / Secretaría",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · extracto del título: el lote 4 de la partición Gutiérrez; arranque de la mensura",
+   "img": "img/f/181/06.jpg",
+   "fuente": "IMG_0825.JPG",
+   "nota": "Hoja suelta fotografiada acostada (se lee girada 90°); sello «FOJA 1». 0,74 legua² × (6000 v × 0,866 m)² = 1997,88 ha: la cifra exacta del título (verificado en python). La cadena «Rodríguez 1838 → Gutiérrez» difiere de la que dan 024 y 178 (Cobo/Rocha 1838-43 → Gutiérrez 1849): véase Cruces.",
+   "lineas": [
+    "[sello: FOJA 1]",
+    "Duplicado de la diligencia de mensura y division del",
+    "terreno de los Herederos de Doña Mónica Gutierrez de Alfonsin",
+    "en el Partido de Giles.",
+    "Extracto del titulo y antecedentes del terreno.",
+    "1861 Abril 22. Ante el Secretario Pedro Medina, Oficina de Maria-",
+    "no Cabral, el Juez de 1ª inst.cia Doctor Juan A. Garcia aprobó",
+    "la cuenta particionaria de la testamentaria de Don Bernardo",
+    "Gutierrez, adjudicandose á la heredera Doña Mónica Gutierrez",
+    "el lote 4, compuesto de 0.74 legua cuadrada.",
+    "Los terrenos de Don Bernardo Gutierrez fueron comprados al",
+    "Gobierno de la Provincia en 25 de Octubre de 1838 por los",
+    "herederos de Don Juan Antonio Rodriguez, vendidos por estos",
+    "en 19 de Diciembre de 1838 á Don Bernardo Gutierrez, y medidos",
+    "y divididos entre sus herederos por el Agrimensor Don Teodoro",
+    "Schuster en Enero de 1859 (Dupl. Giles 24).",
+    "Mensura.",
+    "En el partido de Giles á 18 de Julio de 1899, yo el Agrimen-",
+    "sor que suscribo, comisionado por el señor Juez de primera",
+    "instancia del Departamento del Centro Doctor Jorge Maurice",
+    "para medir y dividir el terreno perteneciente á los Herederos",
+    "de Doña Mónica Gutierrez de Alfonsin, di principio á esta",
+    "operacion y procedí como sigue",
+    "Tomé por punto de arranque al mojon esquinero Oeste de",
+    "este terreno, letra A del plano acompañado, que es esquinero",
+    "Sud de Don Lorenzo Donlon, y costanero Norteste de Don Mi-",
+    "guel Mc Laughlin. Desde este punto medí al Norte cua-",
+    "renta y cuatro grados veinte y cinco minutos Este cuatro"
+   ],
+   "interpretacion": "Meineke abre con el «Extracto del título y antecedentes del terreno». El 22/4/1861, ante el secretario Pedro Medina (oficina de Mariano Cabral), el juez de 1.ª instancia Dr. Juan A. García aprobó la cuenta particionaria de la testamentaría de Bernardo Gutiérrez y adjudicó a Mónica Gutiérrez el LOTE 4, de 0,74 legua cuadrada. Antecedentes: las tierras las compraron al Gobierno, el 25/10/1838, los herederos de Juan Antonio Rodríguez; ellos las vendieron el 19/12/1838 a Bernardo Gutiérrez, y Teodoro Schuster las midió y dividió entre los herederos en enero de 1859 (cita «Dupl. Giles 24», es decir, la ficha 024). La mensura empieza el 18/7/1899 por comisión del juez del Departamento del Centro Dr. Jorge Maurice. El arranque es el mojón A, esquinero O, que también es esquinero S de Lorenzo Donlon y costanero NE de Miguel Mc Laughlin."
+  },
+  {
+   "titulo": "Folio 1 vuelto · el perímetro: Donlon, Piñero, Gaynor, Unzué y los mojones del camino",
+   "img": "img/f/181/07.jpg",
+   "fuente": "IMG_0826.JPG (mitad izquierda)",
+   "nota": "La cifra entre paréntesis del primer tramo dice «810 m»: el texto («cuatro / mil ochocientos diez») y la tablilla (AB 4810) dan 4810. Los mojones kilométricos del camino están separados 2500 m, igual que en el terreno (2848 − 348 = 2500): el camino tenía amojonadas sus distancias en metros.",
+   "lineas": [
+    "mil ochocientos diez metros (N. 44° 25′ E. 810 m [sic, por 4810 m]) hasta el mo-",
+    "jon de palo, letra B. En esta linea deslindé hasta los dos",
+    "mil doscientos doce metros con Don Lorenzo Donlon, y en se-",
+    "guida con Don Enrique Piñero; y á los cuatro mil cuatrocien-",
+    "tos setenta y seis metros encontré un mojon de fierro. En segui-",
+    "da deslindando con Don Pedro Gaynor, medí al Norte cuarenta",
+    "y cuatro grados cuarenta y un minutos Este quinientos noventa",
+    "metros (N. 44° 41′ E. 590 m) hasta el punto C, esquinero Norte, que-",
+    "dando á la izquierda cuatro metros cinco decimetros el alambrado",
+    "de Gaynor. En seguida deslindando con Don Saturnino Unzué,",
+    "medí al Sud cuarenta y cuatro grados diez y nueve minutos Este",
+    "tres mil trescientos cincuenta y dos metros (S. 44° 19′ E. 3352 m)",
+    "hasta el mojon de fierro D; en esta linea á los trescientos cua-",
+    "renta y ocho y á los dos mil ochocientos cuarenta y ocho metros",
+    "quedaron á la izquierda cuatro metros mojones de fierro del",
+    "camino de Mercedes á Carmen de Areco, correspondientes á",
+    "las distancias de treinta [interlineado: y dos mil quinientos] [tachado: mil doscientos cincuenta] y treinta",
+    "mil metros. En seguida continuando el deslinde con Unzué,",
+    "medí al Sud cuarenta y cinco grados cuarenta y seis minutos",
+    "Oeste mil ciento diez y nueve metros (S. 45° 46′ O. 1119 m) hasta",
+    "el mojon piedra y palo letra E, y al Sud cuarenta y cinco grados",
+    "treinta y cuatro minutos Este seiscientos sesenta y tres metros",
+    "(S. 45° 34′ E. 663 m) hasta el mojon de fierro F. Desde este pun-",
+    "to deslindando con Don Cipriano, Don Pedro y Don Agustin",
+    "Casado, medí al Sud cuarenta y cinco grados seis minutos Oeste",
+    "cuatro mil ciento treinta y cuatro metros (S. 45° 6′ O. 4134 m)",
+    "hasta el mojon de fierro G, esquinero Sud. Y por último",
+    "medí hasta el punto de arranque al Norte cuarenta y seis"
+   ],
+   "interpretacion": "A-B N 44° 25′ E 4810 m hasta un mojón de PALO (B), deslindando con Donlon hasta los 2212 m y luego con Enrique Piñero; a los 4476 m, un mojón de FIERRO. B-C N 44° 41′ E 590 m con Pedro Gaynor hasta el esquinero N, C, y el alambrado de Gaynor queda 4,5 m a la izquierda. C-D S 44° 19′ E 3352 m con Saturnino Unzué hasta el mojón de fierro D; a 4 m, a los 348 y a los 2848 m, quedan los MOJONES DE FIERRO DEL CAMINO DE MERCEDES AL CARMEN DE ARECO correspondientes a los 32 500 y 30 000 metros (la cifra se corrigió entre renglones). D-E S 45° 46′ O 1119 m hasta el mojón «piedra y palo» E; E-F S 45° 34′ E 663 m hasta el mojón de fierro F; F-G S 45° 6′ O 4134 m con Cipriano, Pedro y Agustín Casado hasta el mojón de fierro G (esquinero S)."
+  },
+  {
+   "titulo": "Folio 2 · cierre, superficie y el exceso: camino y sobrante fiscal",
+   "img": "img/f/181/08.jpg",
+   "fuente": "IMG_0826.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 2». Verificado: 2039,98 − 1997,88 = 42,10 = 15,42 + 26,68; 3352 × 46 m = 15,42 ha. El segundo «costado Sudeste» (línea IH) es un error de copia por «Sudoeste». Al pie, a lápiz y de otra mano: «Comprar [?] 26h los 15h quedan á camino [?]».",
+   "lineas": [
+    "[sello: FOJA 2]",
+    "grados treinta y nueve minutos Oeste tres mil novecientos cua-",
+    "renta y dos metros (N. 46° 39′ O. 3942 m), encontrando á los mil",
+    "trescientos veinte y tres metros cinco decimetros el mojon divi-",
+    "sorio de Don Luis Cassou y Don Emilio J. Muñiz, y á los dos",
+    "mil setecientos ochenta y ocho metros el mojon divisorio de Muñiz",
+    "y Mc Laughlin.",
+    "El terreno medido ABCDEFG comprende una superficie de",
+    "dos mil treinta y nueve hectareas noventa y ocho areas (2039h 98a),",
+    "resultando sobre la de su titulo de mil novecientos noventa y siete",
+    "hectareas ochenta y ocho areas (1997h 88a) un exceso de cuarenta y",
+    "dos hectareas diez areas (42h 10a). Ubicado este exceso sobre la linea",
+    "CD del costado Norteste, quedan dentro de él cuarenta y seis",
+    "metros del camino que conduce de Mercedes á Carmen de Areco,",
+    "completandose así con los cuatro metros que quedan dentro del",
+    "terreno de Unzué, los cincuenta metros que corresponden al",
+    "ancho de este camino. Así ocupa este camino dentro del",
+    "terreno medido la lonja CDIH del plano, siendo el costado",
+    "Norteste, linea CD de tres mil trescientos cincuenta y dos me-",
+    "tros; el costado Sudeste, linea DI de cuarenta y seis metros; el",
+    "costado Sudeste [sic, por Sudoeste], linea IH, al Norte cuarenta y cuatro grados",
+    "diez y nueve minutos Oeste de tres mil trescientos cincuenta y un",
+    "metros dos decimetros; y el costado Nortoeste, linea HC de cuarenta",
+    "y seis metros; y la superficie CDIH de quince hectareas cuarenta",
+    "y dos areas (15h 42a). Los restantes veinte y seis hectareas sesenta",
+    "y [interlineado: ocho] [tachado: seis] areas (26h 68a) del exceso de superficie forman un sobrante",
+    "del terreno de los Herederos de Doña Mónica de Gutierrez [interlineado: de Alfonsin], que",
+    "estos manifestaron su interes en comprarlo al Gobierno,",
+    "y que se ubicó sobre la linea HI del terreno del",
+    "[nota marginal a lápiz, otra mano: «Comprar [?] 26h los 15h quedan á camino [?]»]"
+   ],
+   "interpretacion": "G-A N 46° 39′ O 3942 m hasta el arranque. A los 1323,5 m encuentra el mojón divisorio entre Luis Cassou y Emilio J. Muñiz y a los 2788 m el de Muñiz y Mc Laughlin. Superficie ABCDEFG: 2039 ha 98 a. El título da 1997 ha 88 a, así que hay un EXCESO de 42 ha 10 a, que se ubica sobre el costado NE (C-D). Dentro del exceso quedan 46 m de ancho del camino de Mercedes al Carmen de Areco, que con los 4 m que quedan en el campo de Unzué completan los 50 m del camino. La lonja CDIH (3352 × 46 m) suma 15 ha 42 a. Las 26 ha 68 a restantes forman un sobrante que los herederos quieren comprar al Gobierno y se ubica sobre la línea HI."
+  },
+  {
+   "titulo": "Folio 2 vuelto · el sobrante HIKL; la división: lotes I y II",
+   "img": "img/f/181/09.jpg",
+   "fuente": "IMG_0827.JPG (mitad izquierda)",
+   "nota": "Ancho del sobrante verificado: 26,68 ha / 3351,2 m ≈ 79,6 m. Los rectángulos I y II cierran exactamente y dan 485,92 y 233,96 ha.",
+   "lineas": [
+    "camino en la forma HIKL del plano, teniendo un ancho de",
+    "setenta y nueve metros seis decímetros.",
+    "En seguida procedí á efectuar la division del terreno, resul-",
+    "tando los siguientes lotes con sus respectivas lineas de des-",
+    "linde, superficies y linderos.",
+    "Lote I. Costado Nortoeste, linea Am al Norte cuarenta y cuatro",
+    "grados veinte y cinco minutos Este de dos mil setecientos metros",
+    "(N. 44° 25′ E. 2700 m).",
+    "Costado Norteste linea mn al Sud cuarenta y seis grados treinta y",
+    "nueve minutos Este de mil ochocientos metros (S. 46° 39′ E. 1800 m).",
+    "Costado Sudeste linea no al Sud cuarenta y cuatro grados veinte",
+    "y cinco minutos Oeste de dos mil setecientos metros (S. 44° 25′ O. 2700 m).",
+    "Costado Sudoeste oA al Norte cuarenta y seis grados treinta y nueve",
+    "minutos Oeste de mil ochocientos metros (N. 46° 39′ O. 1800 m).",
+    "Superficie Amno de cuatrocientos ochenta y cinco hectareas no-",
+    "venta y un areas (485h 91a).",
+    "Linderos: por el Nortoeste Lorenzo Donlon y Enrique Piñero; por el",
+    "Norteste el lote II; por el Sudeste los lotes V y IV; por el Sudoeste",
+    "Emilio Muñiz y Miguel Mc Laughlin.",
+    "Lote II. Costado Nortoeste mp al Norte cuarenta y cuatro grados",
+    "veinte y cinco minutos Este de mil trescientos metros (N. 44° 25′ E. 1300 m)",
+    "Costado Norteste pq al Sud cuarenta y seis grados treinta y nueve",
+    "minutos Este de mil ochocientos metros (S. 46° 39′ E. 1800 m.)",
+    "Costado Sudeste qn al Sud cuarenta y cuatro grados veinte y cinco",
+    "minutos Oeste de mil trescientos metros (S. 44° 25′ O. 1300 m.)",
+    "Costado Sudoeste nm al Norte cuarenta y seis grados treinta y",
+    "nueve minutos Oeste de mil ochocientos metros (N. 46° 39′ O. 1800 m.)",
+    "Superficie mpqn de doscientos treinta y tres hectareas noventa",
+    "[anotaciones a lápiz en el margen inferior, ilegibles]"
+   ],
+   "interpretacion": "El sobrante ocupa la figura HIKL del plano, de 79,6 m de ancho. Luego empieza la división, lote por lote, con lados, superficies y linderos. Lote I (Amno, en el ángulo O): un rectángulo de 2700 × 1800 m (N 44° 25′ E / S 46° 39′ E) de 485 ha 91 a, lindero de Donlon y Piñero al NO y de Muñiz y Mc Laughlin al SO. Lote II (mpqn): 1300 × 1800 m, 233 ha 97 a."
+  },
+  {
+   "titulo": "Folio 3 · lote III (con sobrante) y lote IV",
+   "img": "img/f/181/10.jpg",
+   "fuente": "IMG_0827.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 3». Con p a 4000 m de A (2700 + 1300), p-B de 810 m confirma que A-B mide 4810 m.",
+   "lineas": [
+    "[sello: FOJA 3]",
+    "y siete areas (233h 97a).",
+    "Linderos: por el Nortoeste Enrique Piñero; por el Norteste",
+    "el lote III; por el Sudeste el lote VI; por el Sudoeste el lote I.",
+    "Lote III. Costado Nortoeste linea pB al Norte cuarenta y cuatro",
+    "grados veinte y cinco minutos Este de ochocientos diez metros (N. 44°",
+    "25′ E. 810 m) y linea BH al Norte cuarenta y cuatro grados cuaren-",
+    "ta y un minutos Este de quinientos cuarenta y cuatro metros (N. 44° 41′ E. 544 m)",
+    "Costado Norteste Hr al Sud cuarenta y cuatro grados diez y nueve",
+    "minutos Este de mil [interlineado: setecientos] [tachado: novecientos] noventa y siete metros cinco",
+    "decimetros (S. 44° 19′ E. 1797,5 m).",
+    "Costado Sudeste rq al Sud cuarenta y cuatro grados veinte y",
+    "cinco minutos Oeste de mil doscientos ochenta metros ocho deci-",
+    "metros (S. 44° 25′ O. 1280,8 m).",
+    "Costado Sudoeste qp al Norte cuarenta y seis grados treinta y",
+    "nueve minutos Oeste de mil ochocientos metros (N. 46° 39′ O. 1800 m).",
+    "Superficie pBHrq de doscientos treinta y siete hectareas dos",
+    "areas (237h 02a), de los que catorce hectareas treinta y dos",
+    "areas (14h 32a) corresponden al sobrante.",
+    "Linderos: por el Nortoeste Enrique Piñero y Pedro Gaynor;",
+    "por el Norteste [interlineado: camino por medio] Saturnino Unzué; por el Sudeste el lote VII;",
+    "por el Sudoeste el lote II.",
+    "Lote IV. Costado Nortoeste os al Norte cuarenta y cuatro grados",
+    "veinte y cinco minutos Este de mil trescientos cincuenta me-",
+    "tros (N. 44° 25′ E. 1350 m).",
+    "Costado Norteste st al Sud cuarenta y seis grados treinta y",
+    "nueve minutos Este de dos mil ciento cincuenta y ocho metros",
+    "(S. 46° 39′ E. 2158 m).",
+    "Costado Sudeste tG al Sud cuarenta y cinco grados seis minu-",
+    "tos Oeste de mil trescientos cincuenta metros seis decímetros (S. 45°"
+   ],
+   "interpretacion": "Lote III (pBHrq): p-B N 44° 25′ E 810 m; B-H N 44° 41′ E 544 m; H-r S 44° 19′ E 1797,5 m (la cifra se corrigió de «novecientos» a «setecientos»); r-q 1280,8 m; q-p 1800 m. Superficie: 237 ha 02 a, de las que 14 ha 32 a son del sobrante. Linda al NE con Unzué, «camino por medio». Lote IV (ostG): o-s 1350 m; s-t S 46° 39′ E 2158 m; t-G S 45° 6′ O 1350,6 m."
+  },
+  {
+   "titulo": "Folio 3 vuelto · lotes IV, V y comienzo del VI",
+   "img": "img/f/181/11.jpg",
+   "fuente": "IMG_0828.JPG (mitad izquierda)",
+   "nota": "En los lotes IV a VI el lado SE es la línea F-G de Casado, que no corre paralela a los lados NO (45° 6′ contra 44° 25′). Por eso los lotes son trapecios casi rectángulos, con cierres de 0,2-0,3 m en los redondeos (verificado).",
+   "lineas": [
+    "6′ O. 1350,6 m).",
+    "Costado Sudoeste Go al Norte cuarenta y seis grados treinta",
+    "y nueve minutos Oeste de dos mil ciento cuarenta y dos me-",
+    "tros (N. 46° 39′ O. 2142 m).",
+    "Superficie ostG de doscientos noventa hectareas veinte areas",
+    "(290h 20a)",
+    "Linderos: por el Nortoeste el lote I; por el Norteste el lote V;",
+    "por el Sudeste Pedro y Agustin Casado; por el Sudeste [sic, por Sudoeste]",
+    "Luis Cassou y Emilio Muñiz.",
+    "Lote V. Costado Nortoeste sn al Norte cuarenta y cuatro grados",
+    "veinte y cinco minutos Este de mil trescientos cincuenta",
+    "metros (N. 44° 25′ E. 1350 m).",
+    "Costado Norteste nu al Sud cuarenta y seis grados treinta y",
+    "nueve minutos Este de dos mil ciento setenta y cuatro me-",
+    "tros un decímetro (S. 46° 39′ E. 2174,1 m).",
+    "Costado Sudeste ut al Sud cuarenta y cinco grados seis mi-",
+    "nutos Oeste de mil trescientos cincuenta metros seis deci-",
+    "metros (S. 45° 6′ O. 1350,6 m).",
+    "Costado Sudoeste ts al Norte cuarenta y seis grados treinta",
+    "y nueve minutos Oeste de dos mil ciento cincuenta y ocho",
+    "metros (N. 46° 39′ O. 2158 m).",
+    "Superficie snut de doscientos noventa y dos hectareas",
+    "treinta y seis areas (292h 36a)",
+    "Linderos: por el Nortoeste el lote I; por el Norteste el lote VI;",
+    "por el Sudeste Casado; por el Sudoeste el lote IV.",
+    "Lote VI. Costado Nortoeste nq al Norte cuarenta y cuatro grados",
+    "veinte y cinco minutos Este de mil trescientos metros (N. 44° 25′ E. 1300 m)",
+    "Costado Norteste qE al Sud cincuenta y dos grados cuatro minutos Este",
+    "de mil quinientos treinta y siete metros siete decímetros (S. 52° 4′ E.",
+    "1537,7 m), y linea EF al Sud cuarenta y cinco grados treinta y cuatro"
+   ],
+   "interpretacion": "Lote IV: G-o N 46° 39′ O 2142 m; 290 ha 20 a; linderos Casado (SE) y Cassou y Muñiz (SO; el texto vuelve a decir «Sudeste»). Lote V (snut): 1350 × 2174,1/2158 m, 292 ha 36 a, lindero de Casado al SE. Lote VI (nqEFu): n-q 1300 m; q-E S 52° 4′ E 1537,7 m (es la única línea divisoria oblicua, porque llega al quiebre E del perímetro) y E-F 663 m."
+  },
+  {
+   "titulo": "Folio 4 · lotes VI y VII",
+   "img": "img/f/181/12.jpg",
+   "fuente": "IMG_0828.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 4». Las siete superficies suman 2024,56 ha, que es la superficie total menos el camino (2039,98 − 15,42); sin el sobrante dan exactamente las 1997,88 ha del título (verificado). Las superficies que se recalcularon por coordenadas coinciden con el texto a ±0,08 ha.",
+   "lineas": [
+    "[sello: FOJA 4]",
+    "minutos Este de seiscientos sesenta y tres metros (S. 45° 34′ E.",
+    "663 m).",
+    "Costado Sudeste Fu al Sud cuarenta y cinco grados seis mi-",
+    "nutos Oeste de mil cuatrocientos treinta y dos metros ocho",
+    "decimetros (S. 45° 6′ O. 1432,8 m).",
+    "Costado Sudoeste un al Norte cuarenta y seis grados treinta y",
+    "nueve minutos Oeste de dos mil ciento setenta y cuatro metros",
+    "un decimetros (N. 46° 39′ O. 2174,1 m).",
+    "Superficie nqEFu de trescientos tres hectareas noventa y",
+    "un areas (303h 91a).",
+    "Linderos: por el Nortoeste el lote II; por el Norteste el lote VII",
+    "y Saturnino Unzué; por el Sudeste Cipriano Casado; por el Sud-",
+    "oeste el lote V.",
+    "Lote VII. Costado Nortoeste qr al Norte cuarenta y cuatro grados",
+    "veinte y cinco minutos Este de mil doscientos ochenta metros",
+    "ocho decimetros (N. 44° 25′ E. 1280,8 m).",
+    "Costado Norteste rk al Sud cuarenta y cuatro grados diez y nueve",
+    "minutos Este de mil quinientos cincuenta y tres metros siete de-",
+    "cimetros (S. 44° 19′ E. 1553,7 m).",
+    "Costado Sudeste kE al Sud cuarenta y cinco grados cuarenta y",
+    "seis minutos Oeste de mil setenta y tres metros (S. 45° 46′ O. 1073 m)",
+    "Costado Sudoeste Eq al Norte cincuenta y dos grados cuatro mi-",
+    "nutos Oeste de mil quinientos treinta y siete metros siete deci-",
+    "metros (N. 52° 4′ O. 1537,7 m).",
+    "Superficie qrkE de ciento ochenta y un hectareas diez y nueve",
+    "areas (181h 19a), de los que doce hectareas treinta y seis",
+    "areas (12h 36a) corresponden al sobrante",
+    "Linderos: por el Nortoeste el lote III; por el Norte camino en"
+   ],
+   "interpretacion": "Lote VI: F-u S 45° 6′ O 1432,8 m; u-n N 46° 39′ O 2174,1 m; 303 ha 91 a; linderos lote II (NO), lote VII y Unzué (NE), Cipriano Casado (SE). Lote VII (qrkE): q-r 1280,8 m; r-k S 44° 19′ E 1553,7 m; k-E S 45° 46′ O 1073 m; E-q N 52° 4′ O 1537,7 m; 181 ha 19 a, de las que 12 ha 36 a son del sobrante."
+  },
+  {
+   "titulo": "Folio 4 vuelto · nota sobre linderos y edictos; tablilla de cálculos",
+   "img": "img/f/181/13.jpg",
+   "fuente": "IMG_0829.JPG (mitad izquierda)",
+   "nota": "Tablilla verificada: las sumas NO = SE = 4115,4 y NE = SO = 5399,0 cierran; los productos suman 20 399 860,67 m², y el título y el exceso (19 978 827 y 421 033 m²) coinciden con el texto. En el tercer renglón de productos se lee 3349,0 por 3349,2 (el producto está hecho con 3349,2). Mi cálculo del perímetro da un cierre de 0,09 m y 2040,00 ha. Sello oval «Departamento de Ingenieros · Entrada · 17 [?] Agosto 1899» y una rúbrica.",
+   "lineas": [
+    "medio Saturnino Unzué; por el Sudeste Saturnino Unzué;",
+    "por el Sudoeste el lote VI.",
+    "Nota. La circular de citacion de los linderos que se acom-",
+    "paña á estas diligencias, lo firmó Don Victorino Muñiz en",
+    "representacion de Don Emilio Muñiz; en casa de Don Luis",
+    "Cassou no habia quien se creyese autorizado para firmarlo.",
+    "El acta de conformidad lo firmaron Don Lorenzo Donlon, Don",
+    "Victorino Muñiz, Don Pedro Casado, Don Cipriano Casado, y",
+    "Don Saturnino Unzué.",
+    "Se acompañan ejemplares de los diarios «El Oeste» y «La",
+    "Ley» en que se publicaron los Edictos.",
+    "Jorge Meineke",
+    "Tablilla de Calculos.",
+    "[tabla de coordenadas referidas a la direccion GA; columnas: lado, distancia, rumbo, Dir., NO., SE., NE., SO.]",
+    "GA 3942 m N. 46° 39′ O. | Dir. 0°-0′ | NO. 3942,0 | SE. – | NE. – 0 | SO. –",
+    "AB 4810 N. 44-25 E. | 91-4 | – | 89,6 | 4809,2 | –",
+    "BC 590 N. 44-41 E. | 91-20 | – | 13,7 | 589,8 | –",
+    "CD 3352 S. 44-19 E. | 182-20 | – | 3349,2 | – | 136,4",
+    "DE 1119 S. 45-46 O. | 272-25 | 47,2 | – | – | 1118,0",
+    "EF 663 S. 45-34 E. | 181-5 | – | 662,9 | – | 12,5",
+    "FG 4134 S. 45-6 O. | 271-45 | 126,2 | – | – | 4132,1",
+    "[sumas] 4115,4 | 4115,4 | 5399,0 | 5399,0",
+    "[columna auxiliar a lápiz: 3942. / 3852,4 / 3838,7 / 489,5 / 536,7 / –126,2 / 0,0]",
+    "[segundo bloque: ordenadas NE acumuladas, con los avances SE/NO escritos entre renglones y los productos]",
+    "0",
+    " + 89,6 = + 215.452,16",
+    "4809,2",
+    " + 13,7 + 69.926,17",
+    "5399,0",
+    " + 3349,0 [sic, por 3349,2] + 17.853.915,36",
+    "5262,6",
+    " – 47,2 – 222.009,92",
+    "4144,6",
+    " + 662,9 + 2.743.312,21",
+    "4132,1",
+    " – 126,2 – 260.735,31",
+    "0",
+    "Superficie ABCDEFG = 20.399.860 m² c.",
+    "Titulo 19.978.827",
+    "Exeso 421.033",
+    "[sello oval: DEPARTAMENTO DE INGENIEROS · ENTRADA · 17 [?] AGOSTO 1899 · PROVINCIA]",
+    "Jorge Meineke",
+    "[rúbrica de la oficina, con iniciales «S e» [?]]"
+   ],
+   "interpretacion": "Linderos del lote VII: Unzué, camino por medio, al N y SE. NOTA: la circular de citación la firmó Victorino Muñiz por Emilio Muñiz; «en casa de Don Luis Cassou no había quien se creyese autorizado para firmarlo». El acta de conformidad la firman Lorenzo Donlon, Victorino Muñiz, Pedro y Cipriano Casado y Saturnino Unzué. Los edictos salieron en los diarios «El Oeste» y «La Ley» (de Mercedes), cuyos ejemplares se acompañaron. Firma Jorge Meineke. Sigue una «Tablilla de Cálculos»: las coordenadas de los siete lados van referidas a la dirección G-A, tomada como eje (Dir. 0° 0′), y la superficie se calcula por el método de los productos."
+  },
+  {
+   "titulo": "Folio 5 · informe del Departamento de Ingenieros (I)",
+   "img": "img/f/181/14.jpg",
+   "fuente": "IMG_0829.JPG (mitad derecha)",
+   "nota": "Sello «FOJA 5». La palabra «mínima» en «la superficie mínima de los lotes» es dudosa. El margen izquierdo del folio está cortado en la toma («[Se]ñor Juez»).",
+   "lineas": [
+    "[sello: FOJA 5]",
+    "[Se]ñor Juez:",
+    "El Departamento de Ingenieros ha examinado",
+    "la diligencia de mensura practicada por el Agrimensor",
+    "Meineke, de un terreno perteneciente á los herederos de",
+    "Doña Mónica Gutierrez de Alfonsin, ubicado en el partido",
+    "de San Andrés de Giles y la encuentra en condiciones de ser",
+    "aprobada por V. S.",
+    "En cuanto á la division este Departamento se limi-",
+    "ta á manifestar á V. S. que la operacion geométrica está",
+    "bien ejecutada y la superficie mínima [?] de los lotes, de",
+    "acuerdo con lo convenido en el comparendo verbal que",
+    "tuvo lugar en ese Juzgado, puesto que en el expediente",
+    "no existen antecedentes respecto del número, forma y",
+    "ubicacion de las distintas fracciones segun sus superfi-",
+    "cies respectivas.",
+    "Dentro de mojones ha resultado un sobrante fiscal",
+    "de cuarenta y dos hectáreas diez áreas (42h 10a) que ha sido",
+    "ubicado sobre el costado NE y con los siguientes linderos:",
+    "al NE y SE Saturnino Unzué, al S.O. los lotes III y VII",
+    "y al N.O. Pedro Gaynor, del cual el Agrimensor ha in-",
+    "cluido en la reparticion veinte y seis hectáreas sesenta y",
+    "ocho áreas (26h 68a) de las que catorce hectáreas treinta y",
+    "dos áreas (14h 32a) ha incorporado al lote III y doce",
+    "hectáreas treinta y seis áreas (12h 36a) al lote VII, por",
+    "haber hecho el propósito los herederos de esta sucesion",
+    "de solicitarlos en compra del Superior Gobierno. Las",
+    "quince hectáreas y cuarenta y dos áreas (15h 42a) res-",
+    "tantes las ha excluido de la reparticion por corresponder"
+   ],
+   "interpretacion": "El Departamento encuentra la mensura en condiciones de ser aprobada. En cuanto a la división, se limita a decir que la operación geométrica está bien ejecutada y que la superficie de los lotes se ajusta a lo convenido en el COMPARENDO VERBAL que tuvo lugar en el juzgado, porque el expediente no trae antecedentes sobre el número, la forma ni la ubicación de las fracciones. Resume el sobrante fiscal de 42 ha 10 a, ubicado sobre el NE: 26 ha 68 a se incluyeron en la repartición (14,32 en el lote III y 12,36 en el VII) porque los herederos quieren comprarlas al Superior Gobierno. Las 15 ha 42 a restantes se excluyen."
+  },
+  {
+   "titulo": "Folio 5 vuelto · fin del informe (12/9/1899) y notas de 1901-1907",
+   "img": "img/f/181/15.jpg",
+   "fuente": "IMG_0830.JPG",
+   "nota": "En la toma, a la derecha, asoma el borde del plano. El apellido del comprador del sobrante queda cortado al final del renglón y no se lee con seguridad. El duplicado no trae auto de aprobación.",
+   "lineas": [
+    "al camino que va [?] de Mercedes á Carmen de",
+    "Areco y creo por esta circunstancia que no",
+    "deben comprenderse en la solicitud de compra.",
+    "Sobre esto convendria que V. S. oyese á la",
+    "Oficina de Tierras Públicas.",
+    "El lindero Luis Cassou no firma la cir-",
+    "cular de citacion.",
+    "Setiembre 12 de 1899.",
+    "Julian Romero",
+    "J. [?] Mayer [?]",
+    "Cárlos M. Albarracin",
+    "J. Ringuelet [?]",
+    "Angel Etcheverry",
+    "Set. 12/901. En esta fecha se remitió plano",
+    "é informe á la Of. de Tierras. Escobar",
+    "Febrero 17 de 1906. Se escrituró el sobrante",
+    "de 26 hts. 68 as. á favor de Don Juan Villa[...] [?]",
+    "Ae [?] [interlineado ilegible]. Anotado Marzo 4 de 1907.",
+    "Exp.: V-525-1902 (O.T.P.)",
+    "V-956-1940 (M.O.P.). EC [?] Jones"
+   ],
+   "interpretacion": "Las 15,42 ha se excluyen porque corresponden al camino de Mercedes al Carmen de Areco y no deben entrar en la solicitud de compra; convendría oír a la Oficina de Tierras Públicas. Luis Cassou no firmó la circular. Fechado el 12/9/1899, lo firman Julián Romero, J. [?] Mayer [?], Carlos M. Albarracín, J. Ringuelet [?] y Ángel Etcheverry. Siguen las notas posteriores: el 12/9/1901 se remitieron el plano y el informe a la Oficina de Tierras (firma Escobar); el 17/2/1906 se escrituró el sobrante de 26 ha 68 a a favor de Juan Villa[...] [?], anotado el 4/3/1907; los expedientes son V-525-1902 (O. T. P.) y V-956-1940 (M. O. P.), con firma Jones."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de la mensura y división (Meineke, 1899)",
+   "img": "img/f/181/03.jpg",
+   "fuente": "IMG_0831.JPG (vista completa; detalles IMG_0832-0834)",
+   "orientacion": "línea meridiana con flecha junto a C (arriba a la derecha) y otra con «S» abajo; el costado A-B corre arriba, de izquierda a derecha; escala gráfica 1000-0-2000 metros",
+   "interpretacion": "Plano en tela, firmado «Jorge Meineke», sin título impreso. El heptágono ABCDEFG está rotulado en el centro «Herederos de Mónica Gutiérrez de Alfonsín» y dividido en siete lotes con su superficie: I 485 ha 91 a, II 233,97, III 237,02, IV 290,20, V 292,36, VI 303,91 y VII 181,19. Un cuadro resume «Superficie ABHIEFG 2024 h 56 a · Título ABlkEFG 1997 h 88 a · Sobrante lHIk 26 h 68 a». Sobre el costado C-D corren dos líneas paralelas, la lonja del «Camino de Mercedes á Carmen de Areco 15 h 42 a», y una línea de puntos marca el sobrante (H-l-k-I, 1797,5 + 1553,7 = 3351,2 m). En el lote I están dibujadas la «Estancia» (dos puntos) y un «Puesto»; en el lote VII, otro «Puesto». Los linderos, en sentido horario desde arriba a la izquierda: Villatte Cano, Lorenzo Donlon, Enrique Piñero, Pedro Gaynor; Saturnino Unzué (NE y, más abajo, al SE del quiebre E-F); Cipriano, Pedro y Agustín Casado (SE); Luis Cassou, Emilio J. Muñiz y Miguel Mc Laughlin (SO). Las progresivas de los mojones divisorios se leen sobre G-A (1323,5 y 2788) y sobre A-B (2212 y 4476). Los rumbos están rotulados a lo largo de los lados (algunos invertidos, como «S. 45° 46′ O» y «S. 45° 6′ O» junto a D y F). Hay un círculo a lápiz junto a F y cruces azules de revisión sobre los nombres de los linderos.",
+   "referencias": [
+    [
+     "A",
+     "Esquinero O: mojón de arranque (esq. S de Donlon, costanero NE de Mc Laughlin)"
+    ],
+    [
+     "B",
+     "Mojón de palo a 4810 m de A; fin de Piñero y comienzo de Gaynor"
+    ],
+    [
+     "C",
+     "Esquinero N, mojón de punto; alambrado de Gaynor a 4,5 m"
+    ],
+    [
+     "D · F · G",
+     "Mojones de fierro (D esquinero E; G esquinero S)"
+    ],
+    [
+     "E",
+     "Mojón de piedra y palo, en el quiebre del costado contra Unzué"
+    ],
+    [
+     "H · I",
+     "Borde interior de la lonja del camino (46 m dentro del campo)"
+    ],
+    [
+     "l · k",
+     "Línea de puntos: límite interior del sobrante fiscal (79,6 m)"
+    ],
+    [
+     "m n o p q r s t u",
+     "Vértices de la división en lotes I-VII"
+    ],
+    [
+     "Estancia · Puesto",
+     "Construcciones dibujadas en los lotes I y VII"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: costado NE, camino de Mercedes al Carmen de Areco y lotes III y VII",
+   "img": "img/f/181/04.jpg",
+   "fuente": "IMG_0834.JPG",
+   "orientacion": "detalle del sector E del plano (girado)",
+   "interpretacion": "Ampliación del costado C-D. Se ve la doble línea del camino con el rótulo «Camino de Mercedes á Carmen de Areco 15 h 42 a», los rumbos «S. 44° 19′ E» de C-D (3352) y de H-I (3351,2), la línea de puntos del sobrante con 1797,5 (lote III) y 1553,7 (lote VII), la divisoria oblicua q-E «N. 52° 4′ O 1537,7» y el quiebre E-F «S. 45° 34′ E 663». El «Puesto» del lote VII está cerca del lado k-E. Sobre A-B se lee «4476 · 810 · 4810 B», y la meridiana con flecha pasa por C.\nC · H · l\nextremo N de la lonja del camino y del sobrante\nD · I · k\nextremo SE\nq-E\núnica divisoria oblicua",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: lotes I, IV y V y los linderos del SO",
+   "img": "img/f/181/05.jpg",
+   "fuente": "IMG_0832.JPG",
+   "orientacion": "detalle del sector O del plano (girado)",
+   "interpretacion": "El mojón A con «3942» (G-A) y «N. 44° 25′ E»; los lotes I (485 ha 91 a, con «Estancia» y «Puesto»), IV (290 ha 20 a) y V (292 ha 36 a), y la escala gráfica. Del lado SO, Miguel Mc Laughlin, Emilio J. Muñiz y Luis Cassou, con los mojones divisorios a 2788 y 1323,5 m; abajo, Agustín y Pedro Casado. Al margen hay cuentas a lápiz de un revisor.\nA · G\nesquineros O y S\n2788 · 1323,5\nmojones Muñiz/Mc Laughlin y Cassou/Muñiz",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Un gran campo de pastoreo de unas 2040 ha en el rincón SO del partido, en el límite con Mercedes y Carmen de Areco, ya cerrado por alambrados de los vecinos (el de Gaynor queda a 4,5 m del esquinero C). El texto no menciona agua: ni arroyos, ni cañadas, ni lagunas. La única obra de infraestructura es el CAMINO DE MERCEDES AL CARMEN DE ARECO, que corre por el límite NE con 50 m de ancho, 46 dentro de este campo y 4 dentro del de Unzué. El camino tiene MOJONES DE FIERRO KILOMÉTRICOS: los de los 30 000 y 32 500 metros (contados probablemente desde Mercedes) quedan a 4 m de la línea C-D. El plano muestra el poblamiento: una «Estancia» y un «Puesto» en el lote I, cerca del vértice A, y otro «Puesto» en el lote VII, junto al camino. A los lados, el paisaje de los años 1890: estancias de compradores irlandeses (Donlon, Gaynor, Mc Laughlin) y de grandes propietarios criollos (Unzué, Muñiz), y los Casado, que ya tienen sus fajas subdivididas."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Hubo edictos en dos diarios de Mercedes, «El Oeste» y «La Ley», y circular de citación a los linderos. La circular la firmó Victorino Muñiz por Emilio J. Muñiz; en la casa de Luis Cassou «no había quien se creyese autorizado para firmarlo», un ritual frustrado que el Departamento vuelve a señalar. El acta de conformidad la firman cinco linderos (Donlon, V. Muñiz, Pedro y Cipriano Casado, Unzué). La negociación decisiva no ocurre en el campo: la división se hizo por COMPARENDO VERBAL en el juzgado, y el Departamento declara que no puede juzgarla porque el expediente no dice cuántas son las fracciones ni qué forma deben tener. Los herederos no aparecen nombrados en ninguna parte del duplicado. La otra negociación es con el Estado: los herederos «manifestaron su interés» en comprar el sobrante, el agrimensor lo reparte por anticipado entre los lotes III y VII, y el Departamento separa la parte que es camino, que no puede venderse. Según las notas posteriores, el trámite fiscal duró hasta 1906-1907."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Es un perímetro de siete lados con rumbos al minuto (no se declara la declinación de la aguja ni hay observación astronómica) y distancias al metro o al decímetro. Meineke arranca de mojones viejos: de fierro en D, F y G y a los 4476 m de A-B, de palo en B y de piedra y palo en E. Los rumbos del costado SE coinciden con los de la remensura de 1898 de la hijuela de Advíncula (178): F-G S 45° 6′ O aquí y D-A S 45° 06′ O allá, y la distancia de 2788 m al mojón Muñiz/Mc Laughlin también coincide (C-D de 178: S 46° 39′ E 2788,17). La «Tablilla de Cálculos» da coordenadas giradas al eje G-A y la superficie por productos de semisumas. Verificaciones en python: el cierre del perímetro es de 0,09 m en 19,6 km y la superficie de 2040,00 ha (texto: 2039,98). Los siete lotes cierran a ±0,3 m y sus superficies coinciden a ±0,08 ha; la suma es exactamente 2024,56 ha. Para dividir trazó paralelas a A-B (N 44° 25′ E) y a G-A (N 46° 39′ O) con frentes redondos (2700, 1300, 1350 m y 1800 m de fondo)."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todo está en metros y hectáreas. El título se expresa en leguas cuadradas: 0,74 legua² = 1997,88 ha con la legua de 6000 varas y la vara de 0,866 m (verificado: 0,74 × 5196² m² = 1997,88 ha). El exceso es del 2,1 %. El camino tiene un ancho legal de 50 m (≈ 57,7 varas) y mojones de distancia en metros, cada 2500 m. El sobrante forma una faja de 79,6 m de ancho. Lotes en hectáreas y áreas."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "La cadena del título es esta: compra al Gobierno de los herederos de Juan Antonio Rodríguez (25/10/1838); venta a Bernardo Gutiérrez (19/12/1838); división de Schuster entre los herederos (enero de 1859, ficha 024); aprobación judicial de la cuenta particionaria (22/4/1861), que adjudica a Mónica el lote 4 de 0,74 legua²; y la división de 1899 entre sus herederos, en siete lotes desiguales (de 181 a 486 ha). El lote I es casi el doble de los demás y tiene la estancia: ¿le tocó al heredero que conservaba el casco? Los lotes no se adjudican a nadie en el duplicado. El sobrante fiscal de 26,68 ha se escritura el 17/2/1906 a favor de un tal Juan Villa[...] [?], no a los herederos en conjunto: tal vez ya había comprado uno o los dos lotes que lo contienen (III y VII). Es otro eslabón del ciclo de sobrantes fiscales descubiertos en la mensura y comprados después (cf. 033-036, 063, 178)."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "024 (Bernardo Gutiérrez, Schuster 1859): esta ficha confirma que cada hijuela era de 0,74 legua² y que la de Mónica era el lote 4. La cadena de 1838 que da Meineke (herederos de Juan Antonio Rodríguez → Gutiérrez, 19/12/1838) no coincide con la de 024 y 178 (Cobo/Rocha 1838-43 → Gutiérrez 1849); hay que revisar. · 052-053 (Schuster 1869): «testam. de Mónica G. de Alfonsín» ya figura como lindera y difunta; la hijuela de Petrona (053, L de ≈ 2017 ha) tiene la misma escala que esta (2040 ha) y el mismo camino de Mercedes al Carmen de Areco. · 063 y 178 (hijuela de Advíncula, Schuster 1872 y Thamm 1898): el costado SO de este campo (G-A, N 46° 39′ O) es el lado NE de la hijuela de Advíncula; el mojón Muñiz/Mc Laughlin a 2788 m coincide con C-D = 2788,17 de 178, y el divisorio Cassou/Muñiz cae a 1323,5 m. 178 llama a este lindero «C. Alfonsín», es decir, Cecilio, hijo o heredero de Mónica. · 156 (Oostendorp 1890): «C. Alfonsín (ex Mónica Gutiérrez)» como lindero junto a S. Unzué, P. Gannon y los Casado. · 128 (herederos de Pedro Casado, 1883): los nietos Cipriano y Pedro Mauricio Casado son aquí linderos del SE; en 1883 había «dos lagunas sobre la línea de Cecilio Alfonsín». · 054 (Colmenero, 1869): hijuela de Saturnino Unzué é hijos; Unzué es aquí el lindero NE y E. · 151-152 (bloque Gutiérrez): Pedro Gaynor compró 337,48 ha en el bloque Gutiérrez el 28/3/1888; aquí es el lindero N. · 166 (Yriberry 1894): caminos «viejo y nuevo» de Mercedes al Carmen de Areco; este puede ser el nuevo, de 50 m y con mojones kilométricos. · 180 (Guevara 1899): el D. I. de 1899 (Romero, Albarracín) firma también aquí."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Duplicado completo en 5 folios más el plano, sin auto de aprobación. Lecturas dudosas: la fecha de entrada al D. I. (17 [?] de agosto), dos firmas del D. I. («J. Mayer [?]» y «J. Ringuelet [?]»), «superficie mínima [?] de los lotes», «al camino que va [?]» y el apellido del comprador del sobrante de 1906 (Juan Villa[...]), cortado en la toma. Quedan preguntas abiertas: ¿quiénes eran los herederos de Mónica y a quién tocó cada lote? (habría que buscar el expediente judicial del comparendo); ¿por qué la cadena de 1838 difiere de la de 024 y 178?; ¿el kilometraje del camino se cuenta desde la plaza de Mercedes? Si es así, los mojones de los km 30 y 32,5 serían un ancla métrica para el GIS. También conviene comprobar en el GIS que el lado C-D coincide con la traza actual de la ruta o camino entre Mercedes y Carmen de Areco."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Mónica Gutiérrez de Alfonsín",
+   "rol": "Causante",
+   "texto": "Hija de Bernardo Gutiérrez y heredera del lote 4 (0,74 legua²) por la partición aprobada el 22/4/1861. Casada con un Alfonsín. Ya había muerto en noviembre de 1869, cuando la ficha 053 cita su «testamentaría» como lindera. Cecilio Alfonsín, dueño de una estancia en su hijuela (052, 128, 156, 178), era probablemente hijo suyo. Los Alfonsín (José, Honoria de Manzano, Abad) también tuvieron parte en la hijuela de su hermana Advíncula (063, 178).",
+   "fuentes": "Este duplicado; fichas 024, 052, 053, 063, 128, 156, 178 (METODO.md)."
+  },
+  {
+   "nombre": "Bernardo Gutiérrez",
+   "rol": "Antecesor",
+   "texto": "Propietario del gran campo del rincón SO del partido. Según este duplicado lo compró el 19/12/1838 a los herederos de Juan Antonio Rodríguez; las fichas 024 y 178 dan otra cadena (Cobo/Rocha, 1849). Sus hijos fueron Emilio, Norberto, Petrona de Molina, Mónica de Alfonsín, Ángela de Alegre y Advíncula de Olivera o de Alfonsín. Teodoro Schuster lo dividió en 1859.",
+   "fuentes": "Este duplicado; fichas 024, 052, 053, 063, 178."
+  },
+  {
+   "nombre": "Herederos de Juan Antonio Rodríguez",
+   "rol": "Compradores al gobierno (1838)",
+   "texto": "Compraron la tierra al Gobierno de la Provincia el 25/10/1838, en el contexto de las ventas de tierra pública de Rosas, y la revendieron a Gutiérrez menos de dos meses después.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Juan A. García, Pedro Medina, Mariano Cabral",
+   "rol": "Juez, secretario y oficina (1861)",
+   "texto": "El juez de 1.ª instancia Dr. Juan A. García aprobó la cuenta particionaria de Gutiérrez el 22/4/1861, ante el secretario Pedro Medina, en la oficina (escribanía) de Mariano Cabral. Podría tratarse de Juan Agustín García, juez civil de Buenos Aires y padre del historiador homónimo [?]; no se verificó.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Teodoro Schuster",
+   "rol": "Agrimensor de 1859",
+   "texto": "G. Teodoro Schuster midió y dividió el campo Gutiérrez en 1859 (duplicado 24 de Giles). Carlos Schuster remidió hijuelas en 1869-1872. Meineke encuentra en 1899 mojones de fierro que pueden venir de esas operaciones.",
+   "fuentes": "Fichas 009, 024, 052, 053, 063 (METODO.md)."
+  },
+  {
+   "nombre": "Jorge Meineke",
+   "rol": "Agrimensor",
+   "texto": "Firma «Jorge Meineke» en el plano y al pie de la diligencia; la carátula dice «Meinke». Primera aparición en el corpus de Giles. Su método es prolijo: tablilla de coordenadas, cifras en letras y números, notas sobre la citación. No se hallaron datos biográficos en una búsqueda web.",
+   "fuentes": "Este duplicado; búsqueda web sin resultados."
+  },
+  {
+   "nombre": "Jorge Maurice",
+   "rol": "Juez de 1.ª instancia del departamento del centro",
+   "texto": "Comisionó la mensura en 1899. Ya figura en el corpus como juez del Centro.",
+   "fuentes": "Este duplicado; METODO.md."
+  },
+  {
+   "nombre": "Lorenzo Donlon",
+   "rol": "Lindero no",
+   "texto": "Lindero NO entre A y los 2212 m; firmó el acta. Apellido irlandés, sin antecedentes en el corpus.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Enrique Piñero",
+   "rol": "Lindero no",
+   "texto": "Lindero NO entre los 2212 y los 4810 m (lotes I-III). En el corpus hay un escribano Enrique Piñero [?]; puede ser otra persona.",
+   "fuentes": "Este duplicado; METODO.md."
+  },
+  {
+   "nombre": "Pedro Gaynor",
+   "rol": "Lindero n",
+   "texto": "Lindero del tramo B-C, con alambrado propio. Compró 337,48 ha en el bloque Gutiérrez el 28/3/1888 (escribano Dufourg). Pariente probable de Tomás Gaynor (140).",
+   "fuentes": "Este duplicado; fichas 140, 151-152."
+  },
+  {
+   "nombre": "Villatte Cano",
+   "rol": "Lindero (plano)",
+   "texto": "Aparece sólo en el plano, al NO del vértice A y más allá de Donlon. Sin antecedentes en el corpus.",
+   "fuentes": "Plano de este duplicado."
+  },
+  {
+   "nombre": "Saturnino Unzué",
+   "rol": "Lindero ne y e",
+   "texto": "Estanciero de la familia Unzué, una de las mayores propietarias rurales de Buenos Aires. «Saturnino Unzué é hijos» recibieron en 1869 una hijuela de 801,61 ha del campo Colmenero (054) y compraron su sobrante. En 1890 ya era dueño de la ex hijuela de Aurelia Alegre (156). Lindero al otro lado del camino; firmó el acta.",
+   "fuentes": "Este duplicado; fichas 054, 156."
+  },
+  {
+   "nombre": "Cipriano, Pedro y Agustín Casado",
+   "rol": "Linderos se",
+   "texto": "Descendientes de José M.ª Casado. Cipriano y Pedro Mauricio fueron herederos de Pedro Casado en 1883 (128). Agustín Casado tenía la faja ex Juan Félix Martínez (092) y en 1898 la arrendaba a Lucas Márquez (178). Pedro y Cipriano firmaron el acta.",
+   "fuentes": "Este duplicado; fichas 092, 127-128, 156, 178."
+  },
+  {
+   "nombre": "Luis Cassou",
+   "rol": "Lindero so",
+   "texto": "Compró el 22/2/1884 cien cuadras (168,74 ha) de la hijuela de Advíncula Gutiérrez (178). En 1899 en su casa nadie se creyó autorizado para firmar la circular.",
+   "fuentes": "Este duplicado; ficha 178."
+  },
+  {
+   "nombre": "Emilio J. Muñiz y Victorino Muñiz",
+   "rol": "Lindero so y su representante",
+   "texto": "Emilio J. Muñiz era dueño de la estancia «San Ramón», sobre las fajas 3.ª y 4.ª de Advíncula, que Thamm remidió en 1898 (178). Victorino Muñiz firmó por él la circular y el acta.",
+   "fuentes": "Este duplicado; ficha 178."
+  },
+  {
+   "nombre": "Miguel Mc Laughlin",
+   "rol": "Lindero so",
+   "texto": "Lindero junto al vértice A; en 1898 tenía una estancia vecina, ex José Alfonsín, y un Guillermo Mac Laughlin tenía un puesto con azotea (178).",
+   "fuentes": "Este duplicado; ficha 178."
+  },
+  {
+   "nombre": "Julián Romero, Carlos M. Albarracín, Ángel Etcheverry, J. Mayer [?], J. Ringuelet [?]",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firmaron el informe del 12/9/1899. Romero y Albarracín firman en el corpus desde 1890. Etcheverry es nuevo entre los firmantes del D. I.; las otras dos firmas son de lectura dudosa.",
+   "fuentes": "Este duplicado; fichas 156, 177-180."
+  },
+  {
+   "nombre": "Escobar, Jones, Juan Villa[...] [?]",
+   "rol": "Oficina y comprador del sobrante",
+   "texto": "Escobar remitió el plano a la Oficina de Tierras el 12/9/1901. Jones firma la anotación de 1907. Juan Villa[...] [?] recibió la escritura del sobrante de 26,68 ha el 17/2/1906.",
+   "fuentes": "Notas de f. 5 vta."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/181/02.jpg",
+  "fuente": "IMG_0824.JPG",
+  "lineas": [
+   "San Andrés de Giles",
+   "N.º 181 —",
+   "Terreno",
+   "de los Herederos de Mónica Gutiérrez de Alfonsín",
+   "Partido «Giles».",
+   "Agrimensor: Jorge Meineke",
+   "1899.",
+   "7. 92-80. [anotación de archivo]"
+  ]
+ },
+ "titulo": "Herederos de Mónica Gutiérrez de Alfonsín",
+ "estado": "Transcripta (10 hojas, 296 renglones), 3 láminas"
+}

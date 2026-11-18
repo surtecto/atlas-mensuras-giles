@@ -1,0 +1,592 @@
+{
+ "carpeta": "177",
+ "carpeta_nombre": "Carpeta 177",
+ "archivo": "Ficha 177 - Her. de Josefa Suárez de Botana (1898).docx",
+ "resumen": {
+  "N.º de duplicado": "177 (San Andrés de Giles)",
+  "Propietario / solicitante": "Herederos de Josefa Suárez de Botana (viudo Ruperto Botana y 9 hijos)",
+  "Agrimensor": "César A. Spotti, ingeniero (La Plata)",
+  "Año": "1898",
+  "Fecha de la diligencia": "partición aprobada 20/6; observación solar 26/9; informe 12/10; D. I. 18/10/1898",
+  "Ubicación": "Campo de Botana (ficha 096), entre Morgan, Andrade, Pichetto, Daly y Mezquita",
+  "Orden judicial": "Juzgado del Centro (Mercedes), Dr. Nicolás Savio; aprobada 26/10/1898",
+  "Vendedor / antecesor": "Julio Saraví (1871, 884 × 3000 v) y Elvira Saraví (1872, 128,95 ha)",
+  "Linderos citados": "J. Morgan, C. Meretta, P. A. de Andrade, J. Pichetto, L. Daly, Á. A. de Mezquita",
+  "Medidas": "Rectángulo 2598 × 1258,62 m; 10 hijuelas; calle de 4,30 m (5 v) por fuera del alambrado",
+  "Rumbos": "N 42° 47′ E / N 47° 13′ O (verdaderos, por altura de sol); variación 11° 45′ NE",
+  "Referencia de archivo": "AHG PBA, duplicado 177; plano copia de abril de 1941 (Geodesia y Catastro)"
+ },
+ "metricas": {
+  "superficie_ha": "326,99 (campo); 160,39 (viudo); 9 hijuelas de 13,71 a 20,38",
+  "hitos": "mojones; alambrado perimetral; calle de 4,30 m; rancho de material",
+  "aguas": "no se mencionan"
+ },
+ "sintesis": "Mensura y división practicada en 1898 por el ingeniero César A. Spotti del campo que Ruperto Botana compró a Julio Saraví (1871) y a Elvira Saraví (1872): un rectángulo de 2598 × 1258,62 m (326,99 ha), el mismo que Schuster había dibujado hacia 1879 (ficha 096), rodeado por una calle de 4,30 m que los propios dueños dejaron al alambrar. La sucesión de Josefa Suárez tasó la tierra a $ 120 la hectárea y adjudicó pesos, no tierra: Spotti convierte cada suma en metros cuadrados por regla de tres (160,39 ha para el viudo y nueve fajas de 13,71 a 20,38 ha para los hijos). Una divisoria se quiebra en 40 × 20 m para que un rancho de material quede en la hijuela de Irenea Josefa. Rumbo por altura de sol (26/9/1898); variación 11° 45′ NE. Aprobada en Mercedes el 26/10/1898; el plano original falta y lo reemplaza una copia de 1941.",
+ "caratula": {
+  "img": "img/f/177/01.jpg",
+  "fuente": "IMG_0750.JPG",
+  "campos": [
+   [
+    "N.º",
+    "177"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para los herederos de Doña Josefa Suarez de Botana"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "(en blanco)"
+   ],
+   [
+    "Mes / Año",
+    "(en blanco)"
+   ],
+   [
+    "Juzgado / Secretaría",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · presentación al Departamento y título de 1871",
+   "img": "img/f/177/06.jpg",
+   "fuente": "IMG_0752.JPG",
+   "nota": "Hoja suelta fotografiada acostada; se lee girada 90°. La equivalencia 884 v = 762,96 m no cierra con la vara de 0,866 m (daría 765,54 m): ver Metrología.",
+   "lineas": [
+    "[sello: Dirección de Geodesia, Catastro y Tierras — FOJA 1]",
+    "S.r Presidente del Departamento de / Ingenieros.",
+    "El Ingeniero que suscribe nombrado / por el S.r Juez de primera instancia / del Departamento del Centro, para / practicar la mensura y división de / un terreno de campo, situado en / el partido de San Andres de Giles, / perteneciente á los herederos de D.ª / Josefa Suarez de Botana; habiendo efec- / tuado dicha operacion, la somete / á examen de ese Departamento.",
+    "Estracto de títulos",
+    "Agosto 28 de 1871 – En esta fecha y ante el / escribano D. Gregorio Carballo, el S.r Julio / Saravi vendió á D. Ruperto Botana y Som- / pirgo [?], una area de campo compuesta / de ochocientas ochenta y cuatro varas / de frente al Sud-oeste por tres mil va- / ras de fondo al Nord-Este ó sean setecien- / tos sesenta y dos metros noventa y seis mi- / límetros al primer rumbo, por dos mil="
+   ],
+   "interpretacion": "El ingeniero, nombrado por el juez de primera instancia del Departamento del Centro (Mercedes), somete al Departamento de Ingenieros la mensura y DIVISIÓN del campo de los herederos de Josefa Suárez de Botana. Extracto de títulos: el 28/8/1871, ante el escribano Gregorio Carballo, Julio Saraví vende a Ruperto Botana y Sompirgo [?] 884 varas de frente al SO por 3000 de fondo al NE, «o sean 762,96 m por 2598 m»."
+  },
+  {
+   "titulo": "Folio 1 vuelto · linderos de 1871 y compra a Elvira Saraví (1872)",
+   "img": "img/f/177/07.jpg",
+   "fuente": "IMG_0753.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "quinientos noventa y ocho metros al / segundo; situado este terreno en el / partido de San Andres de Giles, siendo / los linderos por el frente con el D.r D. / Marcelino Mezquita, por el fondo al / Nord Este con herederos de D. Francisco / Casco y D. Serafin Andrade, por el Nord- / Oeste con D. Angela Casco de Saravi y por / el Sud Este con D.a Elvira y D. Fidel Saravi.",
+    "Julio 15 de 1872 – En esta fecha y ante el / escribano D. Vicente Artola, la S.ra Elvira / Saravi por medio de su apoderado D. / Julio Saravi, vende al S.r Ruperto Botana / un terreno de pastoreo situado en el / partido de San Andres de Giles, compues- / to de una superficie de un millon / setecientas diez y nueve mil trecientas / ochenta varas cuadradas mas seiscientas / veinte y cinco milesimas de otra ó sea / ciento veinte y ocho hectareas noventa y / cuatro areas y sesenta centiareas; linda / por el Norte con D. Ygnacio Casco, por="
+   ],
+   "interpretacion": "Linderos del primer lote: SO (frente) el Dr. Marcelino Mezquita; NE (fondo) herederos de Francisco Casco y Serafín Andrada; NO Ángela Casco de Saraví; SE Elvira y Fidel Saraví. El 15/7/1872, ante el escribano Vicente Artola, Elvira Saraví, por su apoderado Julio Saraví, vende a Botana 1 719 380,625 v² de pastoreo = 128 ha 94 a 60 ca (verificado: 0,866² × 1 719 380,625 = 128,946 ha), lindando al N con Ignacio Casco."
+  },
+  {
+   "titulo": "Folio 2 · linderos de 1872 y juicio testamentario (1897)",
+   "img": "img/f/177/08.jpg",
+   "fuente": "IMG_0753.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello FOJA 2]",
+    "el Sud con el D.r Marcelino Mezquita, por / el Este con D. Octavio Saravi y por el Oeste / con D. Jorge Fidel Saravi.",
+    "Enero 27 de 1897 – Con esta fecha se ini- / ció el juicio testamentario de D.a Petrona [sic: la carátula dice Josefa] / Suarez de Botana, esposa de D. Ruperto Bo- / tana, habiendo resultado de este juicio / la particion del terreno indicado en / los anteriores estractos en la siguien- / te forma y ubicacion:",
+    "Hijuela N.º 1 – Para el conyuge Ruperto / Botana; se le adjudica 19247.38 $ Diez / y nueve mil docientos cuarenta y siete pe- / sos con treinta y ocho centavos, parte de / los 39238.88 $ treinta y nueve mil docien- / tos treinta y ocho pesos con ochenta y ocho / centavos en que ha sido valorado la / totalidad del campo antes citado. La / fraccion que se le adjudica tendrá / por linderos, por el Nord-Este las frac- / ciones que se adjudicaran á los he- / rederos Felisa, Sixta [?: «Sista»], Ana y Agapito="
+   ],
+   "interpretacion": "Segundo lote: S el Dr. Marcelino Mezquita, E Octavio Saraví, O Jorge Fidel Saraví. El 27/1/1897 se inicia el juicio testamentario de la esposa de Ruperto Botana (el copista escribe «Petrona» en vez de Josefa). Hijuela N.º 1, para el cónyuge: $ 19 247,38 de los $ 39 238,88 en que se tasó el campo, al SO del bloque, entre los hijos (NE), Petrona A. de Andrade (NO), Julio Saraví (SE) y Mezquita (SO)."
+  },
+  {
+   "titulo": "Folio 2 vuelto · hijuelas 2 y 3",
+   "img": "img/f/177/09.jpg",
+   "fuente": "IMG_0754.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Botana, al Nor Oeste D.a Petrona A. de An- / drade, al Sud Este con Julio Saravi y al / Sud Oeste con D. Marcelino Mezquita.",
+    "Hijuela N.º 2 – A la heredera D. Irenea Jo- / sefa Botana y Suarez se le adjudica 2171 $ / dos mil ciento setenta y un peso, en parte / de los 39238,88 treinta y nueve mil docientos / treinta y ocho pesos ochenta y ocho centavos / en que ha sido valorado el campo. / Esta fracion tendrá por linderos, al / Nor Este y Nor Oeste con Petrona Almiron / de Andrade al Sud Este con Ruperto D. [Dionisio] / Botana y al Sud Oeste con Felisa Botana.",
+    "Hijuela N.º 3 – Al heredero D. Ruperto / Dionicio Botana se le adjudica, 1645 mil / seiscientos cuarenta y cinco pesos, en parte / de los 39238,88 treinta y nueve mil doci- / entos treinta y ocho pesos con ochenta y ocho / centavos en que ha sido valorado el cam- / po; esta fraccion tendrá por linderos / al Nor Este con Ygnacio Casco y Petrona / Almiron de Andrade al Nor Oeste con="
+   ],
+   "interpretacion": "Hijuela 2, Irenea Josefa Botana y Suárez: $ 2171 (entre Petrona Almirón de Andrade al NE y NO, Ruperto D. Botana al SE y Felisa al SO). Hijuela 3, Ruperto Dionisio Botana: $ 1645 (Ignacio Casco y Petrona Almirón al NE). Cada hijuela se expresa sólo en pesos: la tierra se reparte en proporción al dinero."
+  },
+  {
+   "titulo": "Folio 3 · hijuelas 4 y 5",
+   "img": "img/f/177/10.jpg",
+   "fuente": "IMG_0754.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello FOJA 3]",
+    "la fraccion de la coheredera Irenea Botana / al Sud Este con José Hipolito Botana y al / Sud Oeste con Sista Botana.",
+    "Hijuela N.º 4 – Para el heredero José Hi- / polito Botana y Suarez se le adjudica 2445 / dos mil cuatrocientos cuarenta y cinco pe- / sos, en parte de los 39238,88 treinta y nueve / mil docientos treinta y ocho pesos con / ochenta y ocho centavos en que se ha a- / valuado este campo; los linderos de esta / fraccion serán por el Nor Este Ygnacio / Casco al Nor Oeste con Ruperto D. Botana / al Sud Este con Juana J. Botana y al / Sud Oeste con Ana Botana.",
+    "Hijuela N.º 5 – A la heredera D.a Jua- / na Justina Botana y Suarez, se le adjudi- / ca 2195 dos mil ciento noventa y cinco pe- / sos en parte de los 39238,88 treinta y nueve / mil docientos treinta y ocho pesos con ochen- / ta y ocho centavos en que ha sido valora- / do el campo. Esta fraccion lindará por / el Nor Este con D. Ygnacio Casco, por el="
+   ],
+   "interpretacion": "Hijuela 4, José Hipólito Botana y Suárez: $ 2445 (NE Ignacio Casco, SE Juana J. Botana, SO Ana). Hijuela 5, Juana Justina Botana y Suárez: $ 2195 (NE Ignacio Casco)."
+  },
+  {
+   "titulo": "Folio 3 vuelto · hijuelas 6 y 7",
+   "img": "img/f/177/11.jpg",
+   "fuente": "IMG_0755.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Nor Oeste con José H. Botana, al Sud Este con / Sofia Botana y al Sud Oeste con Ana y / Agapito Botana.",
+    "Hijuela N.º 6 – Para la heredera Sofia / Melitona Botana y Suarez se adjudica / 1830 mil ochocientos treinta pesos en par- / te de los 39238,88 treinta y nueve mil do- / cientos treinta y ocho pesos ochenta y ocho / centavos en que ha sido tasado este campo, / esta fracion tendrá por linderos por el / Nor Este Ygnacio Casco, por el Nor Oeste Jua- / na Justina Botana, al Sud Este Julio Saravi, / y al Sud Oeste Agapito D. Botana.",
+    "Hijuela N.º 7 – A la heredera Felisa Bo- / tana y Suares se le adjudica 2370,50 dos / mil trecientos setenta pesos con cincuenta / centavos en parte de los 39238,88 treinta y / nueve mil docientos treinta y ocho pesos / con ochenta y ocho centavos en que se ha ava- / luado el campo; los linderos de esta frac- / cion serán al Nor Este con Irenea Botana / al Nor Oeste con Petrona Almiron de Andrade="
+   ],
+   "interpretacion": "Hijuela 6, Sofía Melitona Botana y Suárez: $ 1830 (NE Ignacio Casco, SE Julio Saraví, SO Agapito D. Botana). Hijuela 7, Felisa Botana y Suárez: $ 2370,50 (NE Irenea, NO Petrona Almirón de Andrade)."
+  },
+  {
+   "titulo": "Folio 4 · hijuelas 8 y 9",
+   "img": "img/f/177/12.jpg",
+   "fuente": "IMG_0755.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello FOJA 4]",
+    "[a]l Sud Este Sista Botana y al Sud Oeste / [co]n Ruperto Botana.",
+    "Hijuela N.º 8 – A la heredera D.a Sista / Botana y Suarez se le adjudica 2445 / dos mil cuatrocientos cuarenta y cinco / pesos en parte de los 39238,88 treinta y / nueve mil docientos treinta y ocho pe- / sos con ochenta y ocho centavos en que / ha sido tasado este terreno. Los linderos / de esta fraccion serán, por el Nor Este / Ruperto D. Botana, por el Nor Oeste Felisa / Botana al Sud Este con Ana Botana y / al Sud Oeste con Ruperto Botana.",
+    "Hijuela N.º 9 – A la heredera Ana Bo- / tana y Suares se le adjudica 2445 – / dos mil cuatrocientos cuarenta y cinco / pesos en parte de los 39238,88 treinta / y nueve mil docientos treinta y ocho pe- / sos con ochenta y ocho centavos en que / fué tasado el campo, la fraccion co- / rrespondiente tendrá por linderos,="
+   ],
+   "interpretacion": "Hijuela 8, Sixta («Sista») Botana y Suárez: $ 2445. Hijuela 9, Ana Botana y Suárez: $ 2445. Los linderos de cada hijuela, citados con los nombres de 1872 (Ignacio Casco, Julio Saraví), son anteriores a la mensura: la partición se escribió sobre un croquis, no sobre el terreno."
+  },
+  {
+   "titulo": "Folio 4 vuelto · hijuela 10, aprobación y comienzo de la mensura",
+   "img": "img/f/177/13.jpg",
+   "fuente": "IMG_0756.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "al Nor Este José H. y Juana Botana al / Nor Oeste Sista Botana al Sud Este Agapito / D. Botana y al Sud Oeste Ruperto Botana.",
+    "Hijuela N.º 10 – Al heredero D. Agapito / D. Botana y Suarez se le adjudica 2445 / dos mil cuatrocientos cuarenta y cinco / pesos de los 39238,88 treinta y nueve mil / docientos treinta y ocho pesos con ochenta / y ocho centavos en que ha sido tasado / el terreno, los linderos de esta fraccion / serán al Nor Este Sofia Botana al Nor- / Oeste Ana Botana, al Sud Este Julio Sa- / ravi y al Sud Oeste Ruperto Botana.",
+    "Junio 20 de 1898 – Con esta fecha el S.r / Juez de 1.ª Instancia del Departamen- / to del Centro, aprobó la anterior cuen- / ta de particion y adjudicacion.",
+    "— Mensura —",
+    "Procedí á practicar la mensura / del terreno de los herederos de D.a Jo- / sefa Suarez de Botana, despues de / haberse publicado los edictos en los="
+   ],
+   "interpretacion": "Hijuela 10, Agapito D. Botana y Suárez: $ 2445. El 20/6/1898 el juez del Centro aprueba la cuenta de partición. Comienza la mensura, después de publicar edictos y notificar a los linderos por circular."
+  },
+  {
+   "titulo": "Folio 5 · mojón A, lado A-B y el alambrado retirado",
+   "img": "img/f/177/14.jpg",
+   "fuente": "IMG_0756.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello FOJA 5]",
+    "diarios que acompaño, y notifica- / do á los señores linderos por me- / dio de la circular correspondiente; / situandome en el punto señalado / en el plano con la letra A, aquí existe / [u]n mojon que es reconocido como esqui- / nero Sud del terreno de Botana, oeste [?: «este»] / del de D. Laurence Daly y estanciero de / D.a Angela A. de Mezquita desde este mo- / jon con rumbo N 47° 13′ O Norte cuarenta y / siete grados trece minutos Oeste, medí / 1258,62 mil docientos cincuenta y ocho me- / tros con sesenta y dos centimetros hasta el / mojon B, que es el esquinero Oeste del / terreno medido, esquinero Sud de Jorge / Morgan y estanciero [?] de Mezquita. La li- / nea AB es divisoria con la propiedad de / D. Angela A. de Mezquita; paralelamente / á esta linea y á (4.30) cuatro metros 30 c.s distan- / cia á la derecha, existe un alambrado que / cierra el campo de Botana, pues al / construir este alambrado se han de="
+   ],
+   "interpretacion": "En el mojón A (esquinero S de Botana, O del de Laurence Daly y esquinero de Ángela A. de Mezquita) arranca hacia B: N 47° 13′ O, 1258,62 m. B es esquinero O del campo y S de Jorge Morgan. A 4,30 m a la derecha corre, paralelo, el ALAMBRADO que cierra el campo de Botana: al construirlo se dejaron 4,30 m (5 varas) para CALLE."
+  },
+  {
+   "titulo": "Folio 5 vuelto · lados B-C y C-D",
+   "img": "img/f/177/15.jpg",
+   "fuente": "IMG_0757.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "jado 4,30 cuatro metros treinta centime- / tros (5 varas) para calle. Del mojon letra / B con rumbo N 42° 47′ E Norte cuarenta y / dos grados cuarenta y siete minutos Este / medí 2598,00 dos mil quinientos noventa / y ocho metros hasta el otro mojon C, esqui- / nero Norte de Botana, Este de D. Carlos Me- / retta y estanciero de D. Petrona A. de Andra- / de, á la derecha de esta linea paralelamen- / te á distancia de 4,30 cuatro metros trein- / ta centimetros se encuentra el alam- / brado mencionado antes. Desde el mojon / C con rumbo S 47° 13′ E Sud cuarenta y siete / grados trece minutos Este medí 1258,62 / mil docientos cincuenta y ocho metros / sesenta y dos centimetros hasta el mo- / jon D, esta linea corre por el centro de / la calle, estando el alambrado á 4,30 / cuatro metros treinta centimetros á la dere- / cha de CD, á los cuatrocientos cinco me- / tros sesenta centimetros de C encontré / un mojon que deslinda los te="
+   ],
+   "interpretacion": "B-C: N 42° 47′ E, 2598,00 m hasta el mojón C (esquinero N de Botana, E de Carlos Meretta y esquinero de Petrona A. de Andrade), con el alambrado a 4,30 m. C-D: S 47° 13′ E, 1258,62 m «por el centro de la calle»; a 405,60 m de C un mojón separa a Petrona A. de Andrade de José Pichetto."
+  },
+  {
+   "titulo": "Folio 6 · cierre D-A, linderos y superficie: 326,99 ha",
+   "img": "img/f/177/16.jpg",
+   "fuente": "IMG_0757.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello FOJA 6]",
+    "rrenos de D. Petrona A. de Andrade y de D. / José Pichetto. Del mojon D con rumbo S 42° / 47′ O Sud cuarenta y dos grados cuarenta / y siete minutos Oeste, medí 2598,00 dos mil / quinientos noventa y ocho metros has- / ta el mojon de arranque A, tam- / bien esta linea corre por el medio de / una calle, quedando el alambra- / do de Botana á 4.30 cuatro metros / treinta centimetros á la derecha.",
+    "Los linderos del campo medido / son, todos calle por medio, por el / Nor Este D. Petrona A. de Andrade y / D. José Pichetto, por el Sud Este D. Lau- / rence Daly, por el Sud Oeste D. Ange- / la A. de Mezquita y por el Nor Oeste / D. Jorge Morgan y D. Carlos Meretta.",
+    "Superficie – La forma del terreno / medido es un rectangulo cuya / superficie consta de 326 h 99 a 08 c tre- / cientos veinte y seis hectareas noven- / ta y nueve areas y ocho centiareas."
+   ],
+   "interpretacion": "D-A: S 42° 47′ O, 2598 m, también por el medio de una calle. Linderos, «todos calle por medio»: NE Petrona A. de Andrade y José Pichetto; SE Laurence Daly; SO Ángela A. de Mezquita; NO Jorge Morgan y Carlos Meretta. Rectángulo de 326 ha 99 a 08 ca (1258,62 × 2598 = 326,9895 ha: el original redondea 13 m² de más)."
+  },
+  {
+   "titulo": "Folio 6 vuelto · tasación a $ 120 la hectárea; fracción del viudo",
+   "img": "img/f/177/17.jpg",
+   "fuente": "IMG_0758.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Segun el inventario aprobado fué tasa- / do este campo á razon de ciento veinte pe- / sos la hectarea, lo que da un total de / 39238,88 treinta y nueve mil docientos / treinta y ocho pesos con ochenta y ocho / centavos. Las areas de terreno que co- / rresponden á los herederos que figu- / ran en las hijuelas ya estractadas, / son proporcionales á las sumas / de dinero adjudicadas como se / demuestra en la planilla que / acompaño.",
+    "Ruperto Botana – Procedí á deslindar la / fraccion que corresponde al conyuge / Ruperto Botana, midiendo desde el mo- / jon B en la linea BC, 1274,37 mil doci- / entos setenta y cuatro metros 37 c.s hasta a, / desde este punto medré [sic: medí] con rumbo S 47° / 13′ E Sud cuarenta y siete grados trece mi- / nutos Este y medí 1258,62 mil docien- / tos cincuenta y ocho metros con sesen- / ta y dos centimetros hasta e punto de="
+   ],
+   "interpretacion": "El inventario tasó el campo a $ 120 por hectárea (326,9908 × 120 = 39 238,90): las superficies son proporcionales al dinero adjudicado. Ruperto Botana: desde B mide 1274,37 m sobre B-C hasta a y cuadra S 47° 13′ E 1258,62 m hasta e, sobre D-A."
+  },
+  {
+   "titulo": "Folio 7 · mojones en el alambrado; Felisa Botana",
+   "img": "img/f/177/18.jpg",
+   "fuente": "IMG_0758.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello FOJA 7]",
+    "interseccion con la linea DA. en esta linea / coloqué un mojon á los 4.30 cuatro metros / treinta centimetros de a y otro á los 1254,32 / mil docientos cincuenta y cuatro metros / treinta y dos centimetros de a que son los / puntos donde la linea a e interceptan el / alambrado, desde e con rumbo S 42° 47′ O / Sud cuarenta y dos grados cuarenta y sie- / te minutos Oeste medí 1274,37 mil doci- / entos setenta y cuatro metros treinta y sie- / te centimetros hasta A quedando des- / lindada esta fraccion.",
+    "Felisa Botana y Suarez – A fin de deslindar / la fraccion de esta heredera, procedí pri- / mero á separar las fracciones de los / linderos de D. Ruperto Botana por el Nor- / este, para esto medí desde a hácia C / 642,60 seiscientos cuarenta y dos metros se- / senta centimetros hasta f y de f cuadran- / do con rumbo S 47° 13′ E Sud cuarenta="
+   ],
+   "interpretacion": "Coloca mojones a 4,30 m de a y a 1254,32 m, donde la línea a-e corta los alambrados; de e a A, 1274,37 m. Para los hijos, primero separa el rectángulo a-f-n-e de los que lindan con el padre: desde a 642,60 m hasta f."
+  },
+  {
+   "titulo": "Folio 7 vuelto · el bloque de los cuatro hijos; Felisa",
+   "img": "img/f/177/19.jpg",
+   "fuente": "IMG_0759.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "y siete grados trece minutos Este, medí 1258,62 / mil docientos cincuenta y ocho metros se- / senta y dos centimetros hasta n, en el / restangulo a f n e se encuentra la su- / perficie que suman las fracciones lin- / deras de Ruperto Botana. Separé la que / corresponde á D. Felisa Botana y Suarez mi- / diendo desde a 307,41 trecientos siete me- / tros cuarenta y un centimetro hasta / b sobre la linea a e y desde f medí otros / 307,41 trecientos siete metros cuarenta y / un centimetros hasta h en la linea f n / coloqué un mojon en h y otro en b mi- / diendo la linea entre ambos mojones que / consta de 642,60 seiscientos cuarenta y dos / metros con sesenta centimetros, siendo / el rumbo N 42° 47′ E Norte cuarenta y dos / grados cuarenta y siete minutos Este. / La superficie que encierra el rectan- / gulo a f b h es de 19 h 75 a 41 c diez y nue="
+   ],
+   "interpretacion": "f-n S 47° 13′ E 1258,62 m. Dentro de a-f-n-e corta la fracción de Felisa: 307,41 m desde a hasta b y desde f hasta h; b-h 642,60 m, N 42° 47′ E. Superficie a-f-b-h: 19 ha 75 a 41 ca (verificado 642,60 × 307,41 = 197 541,7 m²)."
+  },
+  {
+   "titulo": "Folio 8 · Sixta Botana",
+   "img": "img/f/177/20.jpg",
+   "fuente": "IMG_0759.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello FOJA 8]",
+    "ve hectareas setenta y cinco areas y cua- / renta y una centiarea.",
+    "Sista Botana y Suares – Deslindé la frac- / cion de esta heredera, midiendo desde / el mojon b 317,07 trecientos diez y siete / metros siete centimetros hasta c, coloqué / el mojon c en la linea divisoria con Ru- / perto Botana y medí 642,60 seiscientos / cuarenta y dos metros sesenta centime- / tros con rumbo N 42° 47′ E Norte cuarenta / y dos grados cuarenta y siete minutos / Este hasta j, coloqué el mojon j y con / rumbo N 47° 13′ O Norte cuarenta y siete / grados trece minutos Oeste, medí 317,07 / trecientos diez y siete metros siete centime- / tros hasta el mojon h, quedando des- / lindada esta fraccion que consta de una / superficie de 20 h 37 a 50 c veinte hectareas / treinta y siete areas y cincuenta centiareas.",
+    "Ana Botana y Suares – Para deslindar="
+   ],
+   "interpretacion": "b-c 317,07 m; c-j 642,60 m N 42° 47′ E; j-h 317,07 m N 47° 13′ O. 20 ha 37 a 50 ca (642,60 × 317,07 = 203 749 m²). Comienza Ana."
+  },
+  {
+   "titulo": "Folio 8 vuelto · Ana y Agapito",
+   "img": "img/f/177/21.jpg",
+   "fuente": "IMG_0760.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "la fraccion de esta heredera, medí desde el / mojon c 317,07 trecientos diez y siete metros siete / centimetros hasta d, coloqué este mojon en / la linea divisoria con Ruperto Botana, despues / medí con rumbo N 42° 47′ E Norte cuarenta y dos / grados cuarenta y siete minutos Este 642,60 / seiscientos cuarenta y dos metros sesenta centi- / metros hasta l coloqué un mojon en l y con / rumbo N 47° 13′ O Norte cuarenta y siete grados / trece minutos Oeste medí 317,07 trecientos diez / y siete metros siete centimetros hasta j. La / superficie del rectangulo c d l j consta de / 20 h 37 a 50 c veinte hectareas, treinta y siete areas / y cincuenta centiareas.",
+    "Agapito Botana y Suares – La fraccion de este / heredero ha quedado deslindada con la co- / locacion de los mojones d y l; rectifiqué las / las [sic] distancias d e y n l que resultaron / de 317,07 trecientos diez y siete metros sie- / te centimetros cada linea. El mojon esqui="
+   ],
+   "interpretacion": "Ana: c-d 317,07 m, d-l 642,60 m, l-j 317,07 m; 20 ha 37 a 50 ca. Agapito queda deslindado con los mojones d y l; Spotti RECTIFICA d-e y n-l: 317,07 m cada una."
+  },
+  {
+   "titulo": "Folio 9 · Agapito y Sofía M.",
+   "img": "img/f/177/22.jpg",
+   "fuente": "IMG_0760.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello FOJA 9]",
+    "nero Este de esta fraccion lo coloqué á los 4.30 / cuatro metros treinta centimetros de n, en / la linea n l donde cruza con el alambrado. / El area de esta fraccion es de 20 h 37 a 50 c veinte / hectareas treinta y siete areas y cincuenta / centiareas.",
+    "Sofia M. Botana y Suarez. Deslindé la fraccion / de esta heredera midiendo desde n 223,92 / doscientos veinte y tres metros noventa y dos cen- / timetros hasta m colocando aquí un mo- / jon, en la linea divisoria con Agapito D. Bo- / tana y Suarez. Desde m con rumbo N 42° 47′ E / Norte cuarenta y dos grados cuarenta y siete / minutos Este, medí 681,03 seiscientos ochen- / ta y un metro tres centimetros hasta v, / crucé el alambrado á los 676,73 seiscientos se- / tenta y seis metros setenta y tres centimetros de / m, colocando en este punto un mojon. Desde / v con rumbo S 47° 13′ E Sud cuarenta y siete gra- / dos trece minutos Este, medí 223,92 docientos="
+   ],
+   "interpretacion": "El esquinero E de Agapito se coloca a 4,30 m de n, donde la línea cruza el alambrado; 20 ha 37 a 50 ca. Sofía M.: desde n 223,92 m hasta m (divisoria con Agapito); de m N 42° 47′ E 681,03 m hasta v, cruzando el alambrado a 676,73 m."
+  },
+  {
+   "titulo": "Folio 9 vuelto · Sofía M. y Juana Justina",
+   "img": "img/f/177/23.jpg",
+   "fuente": "IMG_0761.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "veinte y tres metros noventa y dos centime- / tros hasta el mojon D y desde D con rumbo / S 42° 47′ O Sud cuarenta y dos grados cuarenta y / siete minutos Este [sic: Oeste] medí 681,08 [sic: 681,03] seiscientos ochen- / ta y un metro tres centimetros hasta n. El / area de este rectangulo consta de 15 h 25 a 00 c quin- / ce hectareas veinte y cinco areas.",
+    "Juana Justina Botana – La fraccion correspon- / diente á esta heredera, la deslindé, midiendo / desde el mojon m 268,58 docientos sesenta y ocho / metros cincuenta y ocho centimetros hasta k / colocando en este punto un mojon y desde k / con rumbo N 42° 47′ E Norte cuarenta y dos gra- / dos cuarenta y siete minutos Este medí 681,03 / seiscientos ochenta y un metro tres centimetros has- / ta u, colocando un mojon á los 676,73 seis- / cientos setenta y seis metros setenta y tres centi- / metros de k, punto donde cruza el alambrado. / Desde u con rumbo S 47° 13′ E Sud cuarenta y / siete grados trece minutos Este, medí 268,58="
+   ],
+   "interpretacion": "v-D S 47° 13′ E 223,92 m; D-n 681,03 m (el copista escribe «681,08» y «Este» por Oeste): 15 ha 25 a. Juana Justina: m-k 268,58 m, k-u 681,03 m con mojón en el alambrado a 676,73 m."
+  },
+  {
+   "titulo": "Folio 10 · Juana Justina e Hipólito",
+   "img": "img/f/177/24.jpg",
+   "fuente": "IMG_0761.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello FOJA 10]",
+    "docientos sesenta y ocho metros cincuenta y ocho / centimetros hasta v. la superficie que en- / cierra el rectangulo m k u v es de 18 h 29 a 17 c / diez y ocho hectareas veinte y nueve areas y diez / y siete centiareas.",
+    "Hipolito Botana y Suares – La fraccion de este / heredero la deslindé, midiendo desde el / mojon k 299,18 docientos noventa y nueve / metros 18 c.s hasta i, colocando en este punto / de la linea divisoria con Sista Botana, un / mojon; desde i con rumbo N 42° 47′ E Norte / cuarenta y dos grados cuarenta y siete mi- / nutos Este, medí 681,03 seiscientos ochenta y un / metro tres centimetros hasta t, colocando en / el punto de interseccion con el alambrado / á los 676,73 seiscientos setenta y seis metros se- / tenta y tres centimetros de i un mojon. De / t con rumbo S 47° 13′ E Sud cuarenta y siete / grados trece minutos Este, medí 299,18 docientos / noventa y nueve metros diez y ocho centime="
+   ],
+   "interpretacion": "u-v 268,58 m: 18 ha 29 a 17 ca (681,03 × 268,58 = 182 911 m²; 6 m² menos que la planilla). Hipólito: k-i 299,18 m, i-t 681,03 m, t-u 299,18 m."
+  },
+  {
+   "titulo": "Folio 10 vuelto · Hipólito y Ruperto Dionisio: la línea quebrada",
+   "img": "img/f/177/25.jpg",
+   "fuente": "IMG_0762.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "tros hasta u. La superficie del rectangulo / k i t u asciende á 20 h 37 a 50 c veinte hectareas / treinta y siete areas y cincuenta centiareas.",
+    "Ruperto Dionicio Botana – La fraccion de este / heredero la deslindé, midiendo desde el / mojon i 202,46 docientos dos metros cuaren- / ta y seis centimetros hasta g colocando este / mojon en la linea divisoria con D. Felisa / Botana y Suarez. Desde g con rumbo N 42° 47′ E / Norte cuarenta y dos grados cuarenta y siete / minutos Este, medí 235 docientos treinta y / cinco metros hasta o coloqué un mojon en / o y con rumbo S 47° 13′ E Sud cuarenta y siete / grados trece minutos Este medí 20 veinte / metros hasta p, coloqué el mojon p y cua- / dré con rumbo N 42° 47′ E Norte cuarenta y / dos grados cuarenta y siete minutos Este mi- / diendo 40 cuarenta metros hasta q, colo- / qué aquí otro mojon y con rumbo N 47° 13′ O / Norte cuarenta y siete grados trece minutos Oeste="
+   ],
+   "interpretacion": "Hipólito: 20 ha 37 a 50 ca (203 750,6 m²). Ruperto Dionisio: desde i 202,46 m hasta el mojón de la divisoria con Felisa (el texto lo llama g; el plano de 1941, h); de allí 235 m N 42° 47′ E hasta o, 20 m S 47° 13′ E hasta p, 40 m N 42° 47′ E hasta q y vuelta al NO…"
+  },
+  {
+   "titulo": "Folio 11 · el rancho de material decide la divisoria",
+   "img": "img/f/177/26.jpg",
+   "fuente": "IMG_0762.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello FOJA 11]",
+    "medí veinte metros hasta r, coloqué el mojon / r y con rumbo N 42° 47′ E Norte cuarenta y dos / grados cuarenta y siete minutos Este, medí / 406,03 cuatrocientos seis metros tres centime- / tros hasta s colocando un mojon á los 401,73 / cuatrocientos un metro con setenta y tres cen- / timetros de r que es donde esta linea cruza / el alambrado. Tracé la linea quebrada ante- / rior á indicacion de los interesados con el / objeto de que el rancho de material que se / indica en el plano quedara en terreno de / D.a Irenea Josefa Botana y Suarez como lo espresa la / hijuela, no variando la superficie que se le / asigna. Desde s con rumbo S 47° 13′ E Sud cuarenta / y siete grados trece minutos Este, medí 202,46 do- / cientos dos metros cuarenta y seis centimetros / hasta t. El area de la fraccion deslindada / asciende á 13 h 70 a 84 c trece hectareas setenta areas / y ochenta y cuatro centiareas.",
+    "Irenea Josefa Botana y Suarez – La fraccion co="
+   ],
+   "interpretacion": "…20 m hasta r y 406,03 m hasta s (alambrado a 401,73 m). «Tracé la línea quebrada anterior a indicación de los interesados con el objeto de que el RANCHO DE MATERIAL que se indica en el plano quedara en terreno de D.ª Irenea Josefa Botana y Suárez como lo expresa la hijuela, no variando la superficie que se le asigna»: una muesca de 40 × 20 m (800 m²) que pasa de un hermano a otra. Ruperto Dionisio: 13 ha 70 a 84 ca (681,03 × 202,46 − 800 = 137 081 m², verificado)."
+  },
+  {
+   "titulo": "Folio 11 vuelto · Irenea Josefa, circular, variación y firma",
+   "img": "img/f/177/27.jpg",
+   "fuente": "IMG_0763.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "rrespondiente á esta heredera queda deslinda- / da una vez trazada la divisoria con D. Ruperto / Dionicio Botana, siendo el area de esta fraccion / 18 h 09 a 17 c diez y ocho hectareas nueve areas y diez / y siete centiareas.",
+    "Circular y Acta – La circular y el acta de con- / formidad fué firmada por todos los linde- / ros. Laurence Daly, Jorge Morgan, José Pichetto. / Por Petrona A. de Andrade firmó Juan B. Andra- / de; Por D.a Angela B. [sic: antes «A.»] de Mezquita firmó José Pi- / chetto y por Carlos Meretta, por no saber firmar / lo hizo su esposa Aurelia [?] Costa.",
+    "Rumbos y Variacion – Los rumbos señala- / dos en el plano son verdaderos y la varia- / cion magnetica resultó 11° 45′ once grados / cuarenta y cinco minutos Nor Este.",
+    "La Plata Octubre 12 de 1898",
+    "César A. Spotti [?] [firma]",
+    "[sello ovalado: DEPARTAMENTO DE INGENIEROS DE LA PROVINCIA – ENTRADA – 13 OCTUBRE 1898]",
+    "[rúbrica]"
+   ],
+   "interpretacion": "Irenea Josefa: 18 ha 09 a 17 ca (681,03 × 264,48 + 800 = 180 919 m², verificado). Firmaron la circular y el acta de conformidad TODOS los linderos: Laurence Daly, Jorge Morgan, José Pichetto; por Petrona A. de Andrade, Juan B. Andrade; por Ángela B. [?] de Mezquita, José Pichetto; por Carlos Meretta, que no sabe firmar, su esposa Aurelia [?] Costa. Rumbos verdaderos; variación magnética 11° 45′ NE. La Plata, 12/10/1898, César A. Spotti; entrada al Departamento 13/10/1898."
+  },
+  {
+   "titulo": "Folio 12 · Planilla de la distribución del terreno",
+   "img": "img/f/177/28.jpg",
+   "fuente": "IMG_0763.JPG (mitad derecha)",
+   "nota": "Hoja escrita en sentido apaisado; se lee girada 90°.",
+   "lineas": [
+    "[Hoja con tabla, escrita en sentido apaisado; se lee girada 90°]",
+    "Planilla de la distribucion del terreno",
+    "Hijuelas | Nombres | Suma adjudicada | coef.te proporcional | Superficies correspondientes",
+    "N.º 1 | Ruperto Botana | 19247,38 $ | × 3269908 / 39238,88 = | 1603949 metros cuadrados",
+    "\" 2 | Irenea Josefa Botana y Suarez | 2171,00 \" | × 3269908 / 39238,88 = | 180917 \" \"",
+    "\" 3 | Ruperto Dionicio Botana | 1645,00 \" | × 3269908 / 39238,88 = | 137084 \" \"",
+    "\" 4 | Hipolito Botana y Suarez | 2445,00 \" | × 3269908 / 39238,88 = | 203750 \" \"",
+    "\" 5 | Juana Justina Botana | 2195,00 \" | × 3269908 / 39238,88 = | 182917 \" \"",
+    "\" 6 | Sofia M. Botana y Suarez | 1830,00 \" | × 3269908 / 39238,88 = | 152500 \" \"",
+    "\" 7 | Felisa Botana y Suarez | 2370,50 \" | × 3269908 / 39238,88 = | 197541 \" \"",
+    "\" 8 | Sista Botana y Suarez | 2445,00 \" | × 3269908 / 39238,88 = | 203750 \" \"",
+    "\" 9 | Ana Botana y Suarez | 2445,00 \" | × 3269908 / 39238,88 = | 203750 \" \"",
+    "\" 10 | Agapito Botana y Suares | 2445,00 \" | × 3269908 / 39238,88 = | 203750 \" \"",
+    "Valuacion del terreno $ 39238,88 | 3269908 Met.² = area del terreno",
+    "César A. Spotti [?] [firma]"
+   ],
+   "interpretacion": "Tabla apaisada: suma adjudicada × (3 269 908 m² / $ 39 238,88) = superficie. Verificado en python: la suma de las hijuelas da exactamente $ 39 238,88 y 3 269 908 m²; los productos coinciden con la planilla (salvo ±1 m² de redondeo en Ruperto Dionisio y Felisa). El viudo recibe 160,39 ha (49 %); los nueve hijos entre 13,71 y 20,38 ha."
+  },
+  {
+   "titulo": "Folio 12 vuelto · Cálculo del rumbo por altura de sol",
+   "img": "img/f/177/29.jpg",
+   "fuente": "IMG_0764.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Calculo del rumbo –",
+    "Observacion, dia 26 de setiembre de 1898 / hora 9 h 20′, altura ☉ 44° 42′, latitud 34° 25′ S / declinacion 1° 24′ S, angulo con la linea CD 82° 44′ / altura corregida 44° 57′",
+    "cos ½ A = √( sen k sen (k−d) / sen c sen z )",
+    "z = 90° − 44° 57′ = 45° 3′ / c = 90° − 34° 25′ = 55° 35′ / d = 90 − 1° 24′ = 88° 36′ / [suma] 189° 14′ / k = 94° 37′ / d = 88° 36′ / k−d = 6° 1′",
+    "lg sen 94° 37′ = 9,9985886 / lg sen 6° 1′ = 9,0204348 / c lg sen 55° 35′ = 0,0835728 / c lg sen 45° 3′ = 0,1501363 / [suma] 19,2527325 / [mitad] 9,6263662",
+    "64° 58′ 30″ × 2 = 129° 57′ 00 / 180 − = 50° 3′ = azimut / 82 44 angulo material / 132° 47′ N. E / 180 − / 47° 13′ = rumbo S E de C D.",
+    "César A. Spotti [?] [firma]"
+   ],
+   "interpretacion": "Observación del 26/9/1898 a las 9 h 20′: altura del sol 44° 42′ (corregida 44° 57′), latitud 34° 25′ S, declinación 1° 24′ S, ángulo con la línea C-D 82° 44′. Fórmula del triángulo de posición, cos ½A = √(sen k · sen (k−d) / sen c · sen z), con logaritmos de siete decimales: azimut 50° 3′, rumbo de C-D S 47° 13′ E. Recalculado en python: 47° 12,9′. Es el único cálculo astronómico completo copiado en un duplicado del corpus reciente."
+  },
+  {
+   "titulo": "Folio 13 · Vista del Departamento de Ingenieros (18/10/1898)",
+   "img": "img/f/177/30.jpg",
+   "fuente": "IMG_0764.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[arriba, a lápiz: 7.231.85 [?] — numerador: 293662 [?]] [sello FOJA 13]",
+    "Señor Juez: / El Departamento de Ingenieros ha / examinado la mensura y division prac- / ticada por el Ingeniero Spotti de un / terreno perteneciente á los herederos / de Doña Josefa Suarez de Botana, / situado en el partido de Giles y encuen- / tra ambas operaciones en condicio- / nes de ser aprobadas judicialmente. / Octubre 18 de 1898.",
+    "[firmas:] Lagos [?] — Julian Romero — Carlos M. Albarracin — Angel Etcheverry — R. Martin [?] [rúbrica]"
+   ],
+   "interpretacion": "El Departamento encuentra la mensura y la división «en condiciones de ser aprobadas judicialmente». Firman Lagos [?], Julián Romero, Carlos M. Albarracín, Ángel Etcheverry y R. Martín [?]."
+  },
+  {
+   "titulo": "Folio 13 vuelto · en blanco",
+   "img": "img/f/177/31.jpg",
+   "fuente": "IMG_0765.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "[en blanco; sólo transparencia del folio 13]"
+   ],
+   "interpretacion": "Sólo la transparencia del folio 13."
+  },
+  {
+   "titulo": "Folio 14 · aprobación judicial (Mercedes, 26/10/1898)",
+   "img": "img/f/177/32.jpg",
+   "fuente": "IMG_0765.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[al margen, a lápiz: S. A. de Giles 177] [arriba: 7.236.95 — numerador impreso 393662] [sello FOJA 14] [estampilla PROVINCIA DE BUENOS AIRES – 0,50 centavos – LEY DE SELLOS 1898]",
+    "Mercedes Octubre 26 de 1898 [año tapado por la estampilla]",
+    "Al Señor Presidente del Departamen- / to de Ingenieros de la Provincia – / La Plata",
+    "En el juicio seguido por la / sucesion de Doña Josefa Suares de Bota- / na sobre mensura, se dirije á V. el / presente, haciendole saber que se ha / aprobado la mensura de un campo / de la citada sucesion, practicada por / el Ingeniero Don César A. Spotti. – / Dios guarde á V. –",
+    "Nicolás Savio [firma; nombre confirmado por la nota del plano de 1941]",
+    "Juan J. Ojea / Sec.° [firma]",
+    "[sello ovalado: DEPARTAMENTO DE INGENIEROS DE LA PROVINCIA – ENTRADA – 28 OCTUBRE 1898]",
+    "La Plata, Octubre 28/98. / Prévio conocimiento de la Sec- / cion de Geodesia, agréguese / al duplicado correspondiente. / Romero [rúbrica] / [rúbrica]"
+   ],
+   "interpretacion": "Oficio del juzgado de Mercedes, en papel sellado de $ 0,50 de 1898: en el juicio sucesorio «sobre mensura» se aprobó la mensura de Spotti. Firman el juez Nicolás Savio y el secretario Juan J. Ojea (nombres confirmados por la nota del plano de 1941). Entrada 28/10/1898; Romero ordena agregar al duplicado."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano «Propiedad de los Herederos de Josefa Suárez de Botana» (copia de 1941)",
+   "img": "img/f/177/03.jpg",
+   "fuente": "IMG_0766.JPG (vista general; detalles IMG_0767-0768)",
+   "orientacion": "flecha de N arriba a la derecha; el lado largo B-C (N 42° 47′ E) corre arriba, de izquierda a derecha; escala 1:7.500",
+   "interpretacion": "No es el plano de Spotti: es una copia en papel heliográfico (o tela) dibujada con letra de normógrafo, con la nota «Plano confeccionado de acuerdo a la relación del duplicado de mensura 177 de San Andrés de Giles. Confrontado con el original existente en los autos caratulados “Suarez de Botana Josefa, sobre mensura”, existente en los tribunales del departamento del Centro, juzgado del Dr. Nicolás Savio, Secretario Juan J. Ojea. La Plata, abril de 1941», sello «Geodesia y Catastro · M. O. P. · Dirección» y firma del ingeniero civil director. El plano original de 1898 se perdió o se retiró del duplicado y la Dirección lo reconstruyó a partir del texto y del expediente judicial. Muestra el rectángulo A-B-C-D con la gran fracción de Ruperto Botana (160 ha 39 a 49 ca) a la izquierda y, a la derecha, dos columnas de hijuelas: Felisa, Sixta, Ana y Agapito (642,60 m de largo) y, hacia el NE, Irenea Josefa, Ruperto Dionisio, Hipólita [sic], Juana Justina y Sofía M. (681,03 m). La muesca o-p-q-r de 40 × 20 m entre Irenea y Ruperto Dionisio está dibujada, pero no el rancho que la motivó. Las marcas de 4,30 m y 8,60 m en las esquinas indican la calle perimetral.",
+   "referencias": [
+    [
+     "A",
+     "Esquinero S: Botana, Laurence Daly y Ángela A. de Mezquita (arranque)"
+    ],
+    [
+     "B",
+     "Esquinero O; S de Jorge Morgan"
+    ],
+    [
+     "C",
+     "Esquinero N; E de Carlos Meretta y esquinero de Petrona A. de Andrade"
+    ],
+    [
+     "D",
+     "Esquinero E, entre José Pichetto y Laurence Daly"
+    ],
+    [
+     "a · e",
+     "Divisoria del viudo (Ba = Ae = 1274,37 m)"
+    ],
+    [
+     "b · c · d",
+     "Divisorias de Felisa, Sixta, Ana y Agapito (cada 307,41 / 317,07 m)"
+    ],
+    [
+     "f · n",
+     "Divisoria entre las dos columnas de hijuelas (af = en = 642,60 m)"
+    ],
+    [
+     "h · o · p · q · r · s",
+     "Línea quebrada del rancho entre Irenea Josefa y Ruperto Dionisio"
+    ],
+    [
+     "i · t · k · u · m · v",
+     "Divisorias de Hipólito, Juana Justina y Sofía M."
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: fracción del viudo y primera columna",
+   "img": "img/f/177/04.jpg",
+   "fuente": "IMG_0767.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "Ruperto Botana, 160 ha 39 a 49 ca; cotas AB = ae = 1258,62 m, Ba = Ae = 1274,37 m; Felisa 19 ha 75 a 41 ca, Sixta, Ana y Agapito 20 ha 37 a 50 ca. Linderos Jorge Morgan y Carlos Meretta (NO), Ángela A. de Mezquita (SO), Laurence Daly (SE).",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: segunda columna de hijuelas",
+   "img": "img/f/177/05.jpg",
+   "fuente": "IMG_0768.JPG",
+   "orientacion": "toma de detalle",
+   "interpretacion": "Irenea Josefa 18 ha 09 a 17 ca; Ruperto Dionisio 13 ha 70 a 84 ca; Hipólita [sic] 20 ha 37 a 50 ca; Juana Justina 18 ha 29 a 17 ca; Sofía M. 15 ha 25 a. Cotas laterales fh = Cs = 264,48; hi = st = 202,46; ik = tu = 299,18; km = uv = 268,58; mn = vD = 223,92 (suma 1258,62 m). Linderos Petrona A. de Andrade y José Pichetto.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Un campo enteramente ALAMBRADO y rodeado de calles: el alambrado de Botana corre a 4,30 m (5 varas) de la línea de propiedad porque al construirlo los dueños cedieron esa franja para calle; Spotti mide por el eje de la calle en dos lados y por la línea de mojones en los otros. Dentro sólo se nombra un RANCHO DE MATERIAL (de ladrillo) en la parte NE, que por su valor obliga a quebrar una divisoria. No aparecen aguas, montes ni caminos con nombre. En 1879 el plano de Schuster (ficha 096) mostraba una «población de Botana con árboles»; en 1884 unas 53 ha del campo quedaban dentro del cuadrado del ejido del pueblo proyectado por Orlandini (ficha 137): es un campo periurbano, vecino de chacras y quintas."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Edictos en los diarios y circular a los linderos; el acta de conformidad la firman TODOS, con firmas por poder que retratan la sociabilidad del lugar: Juan B. Andrade firma por su madre Petrona Almirón (la misma que acababa de vender a Morgan, ficha 176), José Pichetto firma por la viuda de Mezquita y Aurelia [?] Costa firma por su marido Carlos Meretta, que no sabe escribir. La negociación visible es FAMILIAR: los herederos piden a Spotti trazar una línea quebrada para que el rancho quede en la hijuela de Irenea Josefa, «como lo expresa la hijuela», compensando la superficie. La partición judicial fijó pesos y linderos de memoria; el terreno se ajusta después a lo construido."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Spotti, ingeniero de La Plata, orienta con una observación de altura de sol (26/9/1898, 9 h 20′): resuelve el triángulo de posición con la fórmula del coseno del semiángulo y logaritmos de siete decimales y obtiene para C-D el rumbo verdadero S 47° 13′ E (recalculado en python: 47° 12,9′). Las divisiones son rectángulos por escuadra: mide sobre los lados largos los anchos proporcionales y cierra con la paralela, colocando mojones en los cruces con el alambrado (a 4,30 m de los vértices). Rectifica distancias ya replanteadas (d-e, n-l). La planilla de distribución es una regla de tres: coeficiente 3 269 908 m² / $ 39 238,88."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Títulos en varas: 884 × 3000 v (1871) y 1 719 380,625 v² (1872). La equivalencia del título de 1871 da 3000 v = 2598 m (vara de 0,866 m) pero 884 v = «762,96 m», que corresponde a 881 v o a una vara de 0,8631 m: con 765,54 m (884 × 0,866) los dos lotes sumarían 1261,87 m de ancho, contra 1259,29 m con 762,96 y 1258,62 medidos; el error parece estar en las 884 v del título (el plano de Schuster, ficha 096, ya daba 1258,625 m = 1453,4 v). El área medida es 326 ha 98 a 95 ca (el texto dice 99 a 08 ca, 13 m² de más) frente a ≈ 327,16 ha de títulos: faltante de ≈ 0,17 ha (0,05 %). La tierra se tasó a $ 120 la hectárea (326,9908 × 120 = 39 238,90)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena: testamentaría Casco de Saraví → Julio Saraví (vende 1871) y Elvira Saraví (vende 1872 por medio de Julio) → Ruperto Botana y Sompirgo [?], casado con Josefa Suárez. Muerta Josefa, el juicio testamentario (iniciado el 27/1/1897, aprobado el 20/6/1898) da al viudo la mitad ganancial menos algo (49 %, 160,39 ha) y a los nueve hijos fajas de 13,71 a 20,38 ha. Las diferencias de valor entre hijos ($ 1645 a $ 2445) sugieren colaciones o compensaciones previas que el duplicado no explica. Es el mismo patrón que en 176 (Andrada) y 171 (Bustos): la segunda generación de compradores de la década de 1870 se fragmenta por herencia hacia 1896-98."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "Ficha 096 (Ruperto Botana, Schuster c. 1879): MISMO CAMPO; rectángulo 2598 × 1258,625 m, rumbos N 42° 47′ E / N 47° 13′ O y variación 11° 49′ NE: Spotti reproduce exactamente los rumbos de Schuster y obtiene una variación de 11° 45′, casi la misma de 19 años antes. Ficha 176 (Ramallo, 1898): campo vecino al NE; allí Botana es lindero SE «antes Elvira Videla [?] y Julio Saraví» (aquí se lee Elvira Saraví); Ramallo midió en el mismo año 8° 26′ NE de declinación. Ficha 171 (Spotti, 1896): el mismo ingeniero midió entonces 8° 31′ NE con meridiana solar. Ficha 086 (Mezquita) y 137 (ejido de 1884: Ruperto Botana 53,2 ha a expropiar; Lorenzo Daly 265,3 ha; Mezquita 1688,7 ha). Ficha 168 (Dodds 1894): Pichetto y Morgan como vecinos."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Texto completo fs. 1-14 (13 vta. en blanco), planilla y cálculo del rumbo; falta el plano original, reemplazado por la copia de 1941. Dudas: segundo apellido de Ruperto Botana («Sompirgo» [?]), nombre de la esposa de Meretta (Aurelia [?] Costa), inicial de Ángela «A.» / «B.» de Mezquita, firmas Lagos [?] y R. Martín [?] del Departamento. ¿Por qué la variación de 11° 45′ de Spotti difiere 3° de la de Ramallo (8° 26′) en el campo vecino el mismo año, y de la suya propia de 1896? ¿Adoptó Spotti la orientación de Schuster y ajustó la variación a ella? ¿Por qué se reconstruyó el plano en 1941: un pedido de catastro, una nueva subdivisión?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "César A. Spotti",
+   "rol": "Ingeniero",
+   "texto": "Ingeniero con domicilio en La Plata. Midió en 1895-96 el campo de los herederos de Pablo Bustos (ficha 171, 998 ha), donde orientó por meridiana solar con 8° 31′ NE; aquí, en 1898, calcula el rumbo por altura de sol y copia en el duplicado el cálculo logarítmico completo. Repartos proporcionales por planilla, rectificación de líneas, mojones en los cruces con alambrados.",
+   "fuentes": "Fichas 171 y 177; METODO.md."
+  },
+  {
+   "nombre": "Ruperto Botana (y Sompirgo [?])",
+   "rol": "Propietario, viudo",
+   "texto": "Compra el campo a Julio Saraví (1871) y Elvira Saraví (1872); hacia 1879 Schuster dibuja su «población» con árboles (ficha 096); en 1884 figura con 53,2 ha dentro del ejido proyectado (ficha 137); en 1898 es lindero SE del campo Andrada (ficha 176) y recibe 160,39 ha en la sucesión de su esposa.",
+   "fuentes": "Fichas 096, 137, 176; este duplicado. Búsqueda web 18/11/2026 sin resultados."
+  },
+  {
+   "nombre": "Josefa Suárez de Botana",
+   "rol": "Causante",
+   "texto": "Esposa de Ruperto Botana; su juicio testamentario se inicia el 27/1/1897 (el copista la llama una vez «Petrona»). Madre de nueve hijos.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Irenea Josefa, Ruperto Dionisio, José Hipólito, Juana Justina, Sofía Melitona, Felisa, Sixta, Ana y Agapito D. Botana y Suárez",
+   "rol": "Herederos",
+   "texto": "Reciben entre $ 1645 (Ruperto Dionisio, 13,71 ha) y $ 2445 (Hipólito, Sixta, Ana y Agapito, 20,38 ha). Irenea Josefa conserva el rancho de material gracias a la línea quebrada.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Julio, Elvira, Fidel, Jorge Fidel y Octavio Saraví",
+   "rol": "Vendedores y linderos de 1871-72",
+   "texto": "Herederos de Ángela Casco de Saraví; Julio vende en 1871 y actúa como apoderado de Elvira en 1872 (fichas 005, 013, 024, 058; en 1884 Julio Saraví tenía 685,1 ha en el ejido, ficha 137).",
+   "fuentes": "Fichas 058, 137, 176; este duplicado."
+  },
+  {
+   "nombre": "Gregorio Carballo, Vicente Artola",
+   "rol": "Escribanos",
+   "texto": "Autorizan las escrituras de 1871 y 1872. Los Artola tienen chacras junto al pueblo (ficha 137).",
+   "fuentes": "Este duplicado; ficha 137."
+  },
+  {
+   "nombre": "Laurence (Lorenzo) Daly",
+   "rol": "Lindero se",
+   "texto": "Firma la circular. En 1884 tenía 265,3 ha dentro del ejido proyectado (ficha 137).",
+   "fuentes": "Ficha 137; este duplicado."
+  },
+  {
+   "nombre": "Jorge Morgan, Petrona Almirón de Andrade, Juan B. Andrade",
+   "rol": "Linderos no y ne",
+   "texto": "Morgan acababa de comprar 300 ha a la viuda de Andrada (ficha 176); Juan B. Andrade, hijo de Petrona, firma por ella.",
+   "fuentes": "Fichas 168 y 176."
+  },
+  {
+   "nombre": "José Pichetto",
+   "rol": "Lindero ne y firmante por mezquita",
+   "texto": "Mayor propietario del ejido en 1884 (1839,8 ha, ficha 137); firma por la viuda de Mezquita.",
+   "fuentes": "Fichas 137, 168, 176."
+  },
+  {
+   "nombre": "Ángela A. [B.?] de Mezquita",
+   "rol": "Lindera so",
+   "texto": "Viuda o heredera del Dr. Marcelino Mezquita, lindero en los títulos de 1871-72 (ficha 086).",
+   "fuentes": "Ficha 086; este duplicado."
+  },
+  {
+   "nombre": "Carlos Meretta y Aurelia [?] Costa",
+   "rol": "Linderos no",
+   "texto": "Meretta (Mereta [?] en la ficha 176) no sabe firmar; firma su esposa. Había comprado las hijuelas de Rómulo y Juan B. Andrada (ficha 176).",
+   "fuentes": "Ficha 176; este duplicado."
+  },
+  {
+   "nombre": "Nicolás Savio y Juan J. Ojea",
+   "rol": "Juez y secretario del departamento del centro",
+   "texto": "Firman la aprobación del 26/10/1898; la nota del plano de 1941 confirma los nombres. El «Nicolás Saird [?]» de la ficha 176 es el mismo juez.",
+   "fuentes": "Este duplicado; plano de 1941."
+  },
+  {
+   "nombre": "Julián Romero, Carlos M. Albarracín, Ángel Etcheverry, Lagos [?], R. Martín [?]",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firman la vista del 18/10/1898; Romero ordena agregar al duplicado (28/10/1898). Romero, Albarracín y Lagos firman también la de la ficha 176.",
+   "fuentes": "Ficha 176; este duplicado."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/177/02.jpg",
+  "fuente": "IMG_0751.JPG",
+  "lineas": [
+   "San Andres de Giles — N.º 177 —",
+   "Duplicado de la diligencia",
+   "de mensura del campo de",
+   "los herederos de D.ª Josefa Sua-",
+   "rez de Botana, partido",
+   "de Giles.",
+   "[rúbrica]",
+   "[cifra de trámite: 7.266.84 [?]]"
+  ]
+ },
+ "titulo": "Herederos de Josefa Suárez de Botana (viudo Ruperto Botana y 9 hijos)",
+ "estado": "Transcripta (27 hojas, 103 renglones), 3 láminas"
+}
