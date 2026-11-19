@@ -1,0 +1,373 @@
+{
+ "carpeta": "187",
+ "carpeta_nombre": "Carpeta 187",
+ "archivo": "Ficha 187 - Miguel Gaynor y her. de C. Gaynor (1903).docx",
+ "resumen": {
+  "N.º de duplicado": "187 (San Andrés de Giles); a lápiz 10.133.10",
+  "Propietario / solicitante": "Miguel Gaynor y Murray y her. de Cristóbal Gaynor y Leary",
+  "Agrimensor": "Ing. civil Juan E. Doyle",
+  "Año": "1903",
+  "Fecha de la diligencia": "Mensura desde 10/7/1903; copia 31/8/1903; D. I. 22/9/1903",
+  "Ubicación": "Al S del pueblo, sobre el arroyo Noriega, cruzado por el telégrafo Giles-Mercedes",
+  "Orden judicial": "Juez civil y comercial del Centro Dr. Rafael López Saubidet, 6/6/1903",
+  "Vendedor / antecesor": "Tomás Gaynor († 1890), compra a Urbano Álvarez 1887; antes Lescano y Noriega",
+  "Linderos citados": "Braulio Lescano (NE), Ceferino Ojuez (SE), Cipriano Galeano y Brígida B. de Shanahan",
+  "Medidas": "AB 3431; BC 492,60; CD 3474,26; DA 494,60 m",
+  "Rumbos": "S 30° 40′ E / S 58° 17′ O / N 30° 42′ O / N 63° 10′ E; FE N 59° 18′ E",
+  "Referencia de archivo": "AHG PBA, duplicado 187; títulos y acta en el duplicado 188 (ff. 3, 6-10)"
+ },
+ "metricas": {
+  "superficie_ha": "170,2131 (título 100 cuadras = 168,7401 ha = 2 250 000 v²; exceso 1,4730 ha, 0,87 %)",
+  "hitos": "mojón de piedra A; mojones de madera; población; alambrado Galeano-Shanahan; telégrafo Giles-Mercedes",
+  "aguas": "arroyo Noriega (esquina SE, cruzado en AB y BC)"
+ },
+ "sintesis": "Mensura y división de las «cien cuadras cuadradas» (168,74 ha de título; 170,21 medidas) de la familia irlandesa Gaynor, al S del pueblo, sobre el arroyo Noriega y cruzadas por el telégrafo de Giles a Mercedes. Tomás Gaynor las compró en 1887 a Urbano Álvarez (antes Lescano y Noriega); al morir él (1890) se adjudicaron por mitades a Miguel Gaynor y Murray, hijo del primer matrimonio, y a Cristóbal Gaynor y Leary, hijo del segundo, muerto sin descendencia en 1893. Por eso Doyle da a Miguel la mitad SE (85,11 ha) y reparte la de Cristóbal en cuatro fajas de ≈ 21,28 ha entre sus hermanos María G. de Kelly, Tomás, Diego y Anita. Es el anexo de una comisión doble (juez López Saubidet, 1903): títulos y acta están en el duplicado gemelo 188.",
+ "caratula": {
+  "img": "img/f/187/01.jpg",
+  "fuente": "IMG_0964.JPG",
+  "campos": [
+   [
+    "N.º",
+    "187"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Miguel Gaynor y herederos de Cristóbal Gaynor"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Juan E. Doyle"
+   ],
+   [
+    "Año",
+    "1903"
+   ],
+   [
+    "Juzgado / Secretaría",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · circular a los linderos (2/7/1903)",
+   "img": "img/f/187/04.jpg",
+   "fuente": "IMG_0966.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "Circular",
+    "El Ingeniero que suscribe, habiendo recibido comisión del Señor Juez de 1.ª Instancia en lo Civil y Comercial del Departamento del Centro D.r D.n Rafael López Saubidet con fecha 6 de Junio de 1903 para medir y dividir un campo propiedad de D.n Tomás, D.n Diego, D.ña Anita y D.ña María Gaynor y Leary y D.n Miguel Gaynor y Murray, ubicado en el Partido de San Andrés de Giles, comunica á los Señores Linderos que va á dar principio á esta operación el día 10 de Julio del año corriente desde el mojón esquinero Norte de dicho campo.",
+    "Para constancia de que han sido notificados, sírvase devolverme la presente con su firma al pie como es de práctica.",
+    "Buenos Aires Julio 2 de 1903",
+    "f.do Juan E. Doyle",
+    "Ing.o Civil",
+    "f.do Cipriano Galeano — f.do Ceferino Ojuez",
+    "f.do Braulio Lezcano [?] — f.do Brígida A. [?] de Shanahan",
+    "Es copia. — Buenos Aires Agosto 31 de 1903",
+    "Juan E. Doyle",
+    "[sello: Foja 1]"
+   ],
+   "interpretacion": "El juez civil y comercial del Departamento del Centro, Dr. Rafael López Saubidet, comisiona a Doyle el 6/6/1903 para medir y dividir el campo de Tomás, Diego, Anita y María Gaynor y Leary y de Miguel Gaynor y Murray. La circular anuncia el arranque para el 10 de julio desde el mojón esquinero Norte. La firman los cuatro linderos: Cipriano Galeano, Ceferino Ojuez (el copista escribe algo como «Ojea»; la grafía Ojuez la confirman la firma copiada y los títulos de la 188), Braulio Lezcano y Brígida B. de Shanahan. Copia certificada el 31/8/1903. Los apellidos responden a los dos matrimonios del causante Tomás Gaynor († 1890): Miguel es hijo del primero, con una Murray; Tomás, Diego, Anita y María, del segundo, con Margarita Leary (Doyle escribe «Leary»; carátula, portadilla y D. I., «Leavy»)."
+  },
+  {
+   "titulo": "Folio 2 · remisión al duplicado gemelo; comienzo de la «Mensura»",
+   "img": "img/f/187/05.jpg",
+   "fuente": "IMG_0967.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "El extracto de títulos, el extracto del expediente y el acta que corresponden á la presente operación están agregados al duplicado N.º [en blanco] Giles de la mensura de un campo de los herederos de D. Tomás Gaynor, Margarita Leary de Gaynor y otro, ejecutada también por el que suscribe y á la cual me remito.",
+    "Mensura.",
+    "El Ingeniero que suscribe comisionado por el Señor Juez de 1.ª Instancia en lo Civil y Comercial del Departamento del Centro D.r Rafael López Saubidet con fecha 6 de Junio del corriente año para proceder á la mensura y división de dos campos pertenecientes á los herederos de D. Tomás Gaynor y D.ña Margarita Leary de Gaynor ubicados en el Partido de San Andrés de Giles, después de haber hecho la publicación de edictos por el tiempo y en los diarios fijados por el Señor Juez y de haber pasado el aviso á los linderos de dichos campos según consta por los diarios y citaciones originales que acom-",
+    "[sello: Foja 2]"
+   ],
+   "interpretacion": "Doyle no copia títulos, extracto del expediente ni acta: los remite al duplicado de la mensura gemela del campo de los herederos de Tomás Gaynor y Margarita Leary de Gaynor. La portadilla lo identifica a lápiz como el duplicado n.º 188. Una sola comisión judicial cubre «dos campos» de la familia; esta carpeta es el segundo. Se cumplen edictos y citaciones. El acta, común a las dos mensuras, se labró el 13/7/1903 en la Estancia «Santa María» (dupl. 188, f. 3), con los testigos Roque F. [?] Benavides y Juan J. Sheridan y sin linderos presentes."
+  },
+  {
+   "titulo": "Folio 3 · arranque en A (mojón de piedra); líneas AB, BC, CD",
+   "img": "img/f/187/06.jpg",
+   "fuente": "IMG_0968.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "paño, dió principio á la operación el día 10 de Julio del año que rije, tomando por punto de arranque el mojón esquinero Norte que designo en el plano con la letra A.",
+    "Línea AB. Desde A (mojón de piedra) con rumbo (S 30°40′ E) Sud treinta grados cuarenta minutos [Este] y lindando con Braulio Lezcano medí (3431 m) tres mil cuatrocientos treinta y un metros hasta B mojón de madera; á los 511,50 m crucé el telégrafo de Giles á Mercedes; á los 2010 m.ts dejé una población 5 m.ts á la derecha y á 3313 m.ts crucé el arroyo Noriega.",
+    "Línea BC. Desde B con rumbo (S 58°17′ O) Sud cincuenta y ocho grados diez y siete minutos Oeste y lindando con Ceferino Ojuez medí (492,60 m) cuatrocientos noventa y dos metros con sesenta centímetros hasta C mojón de madera, á los 115 m.ts crucé el arroyo Noriega.",
+    "Línea CD. Desde C con rumbo (N 30°42′ O) Norte treinta grados cuarenta y dos minutos Oeste y lindando con Cipriano Galeano y Brígida B. de Shanahan medí (3474,26 m.ts) tres mil cuatrocientos setenta y cuatro metros con veinte y seis centíme-",
+    "[sello: Foja 3]"
+   ],
+   "interpretacion": "Arranca el 10/7/1903 en A, MOJÓN DE PIEDRA, esquinero N. AB S 30° 40′ E 3431 m con Braulio Lezcano: cruza el TELÉGRAFO DE GILES A MERCEDES a 511,50 m, deja una POBLACIÓN 5 m a la derecha a 2010 m y cruza el ARROYO NORIEGA a 3313 m. BC S 58° 17′ O 492,60 m con Ceferino Ojuez; otra vez el arroyo Noriega a 115 m. CD N 30° 42′ O 3474,26 m con Cipriano Galeano y Brígida B. de Shanahan."
+  },
+  {
+   "titulo": "Folio 4 · DA; superficie 170,21 ha; exceso dentro de la tolerancia",
+   "img": "img/f/187/07.jpg",
+   "fuente": "IMG_0969.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "tros hasta D mojón de madera, á los 1261 m.ts encontré un mojón de madera, á los 1456 m.ts crucé el telégrafo de Giles á Mercedes y á los 2938 m.ts encontré el alambrado divisorio entre Galeano y Shanahan.",
+    "Línea DA. Desde D con rumbo (N 63°10′ E) Norte sesenta y tres grados diez minutos Este y lindando con Brígida B. de Shanahan medí (494,60 m.ts) cuatrocientos noventa y cuatro metros con sesenta centímetros hasta A punto de partida.",
+    "Superficie. El área encerrada en el cuadrilátero ABCD es igual á (170 h.s 21 a.s 31 c.s) ciento setenta hectáreas veinte y una áreas treinta y una centiáreas la cual excede del área señalada en los títulos en (1 h. 47 a.s 30 c.s) una hectárea cuarenta y siete áreas treinta centiáreas lo que está dentro de la tolerancia que admite la ley de sobrantes.",
+    "Linderos. Lindo por el Nord Este con Braulio Lezcano, por el Nord Oeste con Brígida B. de Shanahan por el Sud Este con Ceferino Ojuez y por el Sud Oeste",
+    "[sello: Foja 4]"
+   ],
+   "interpretacion": "Sobre CD halla un mojón de madera a 1261 m, el telégrafo a 1456 m y el ALAMBRADO divisorio Galeano-Shanahan a 2938 m (el plano dice 2928,50). DA N 63° 10′ E 494,60 m con Shanahan. Cuadrilátero de 170 ha 21 a 31 ca, que excede los títulos en 1 ha 47 a 30 ca, «dentro de la tolerancia que admite la ley de sobrantes». El título resulta así de 168,7401 ha: son las «cien cuadras cuadradas» de la escritura de 1887 (dupl. 188, ff. 7-8), es decir exactamente 2 250 000 varas cuadradas."
+  },
+  {
+   "titulo": "Folio 5 · División: lote de Miguel Gaynor (CFEB)",
+   "img": "img/f/187/08.jpg",
+   "fuente": "IMG_0970.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "con Cipriano Galeano y Brígida B. de Shanahan.",
+    "División",
+    "De acuerdo con el mandato del Señor Juez procedí á dividir este campo en la siguiente forma:",
+    "Don Miguel Gaynor",
+    "Línea CF. Desde C y sobre la línea CD medí (1730,68 m.ts) un mil setecientos treinta metros con sesenta y ocho centímetros hasta F donde puse un mojón de madera.",
+    "Línea FE. Desde F con rumbo (N 59°18′ E) Norte cincuenta y nueve grados diez y ocho minutos Este medí (493 m.ts) cuatrocientos noventa y tres metros hasta E donde coloqué un mojón de madera.",
+    "Línea EB. Desde E y sobre la línea AB medí (1721,93 m.ts) un mil setecientos veinte y un metros con noventa y tres centímetros hasta B, la línea BC ya está descrita en la mensura general.",
+    "Superficie. El área comprendida en el cuadrilátero CFEB es igual á (85 h.s 10 a.s 65 c.s) o-",
+    "[sello: Foja 5]"
+   ],
+   "interpretacion": "Por mandato del juez: Miguel Gaynor recibe el extremo SE, la mitad del campo. CF 1730,68 m sobre CD; FE N 59° 18′ E 493 m; EB 1721,93 m sobre AB. Mojones de madera en F y E."
+  },
+  {
+   "titulo": "Folio 6 · Miguel: 85,11 ha; los cuatro lotes de los herederos de Cristóbal",
+   "img": "img/f/187/09.jpg",
+   "fuente": "IMG_0971.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "chenta y cinco hectáreas diez áreas sesenta y cinco centiáreas.",
+    "Linderos. Linda por el Nord Este con Braulio Lescano, por el Nord Oeste con el lote que se adjudica á María G. de Kelly, por el Sud Este con Ceferino Ojuez y por el Sud Oeste con Cipriano Galeano.",
+    "Herederos de Cristóbal Gaynor",
+    "Desde F y sobre la línea CD medí tres lotes de (431,50 m.ts) cuatrocientos treinta y un metros con cincuenta centímetros cada uno y el 4.º ó último quedó de (449,02 m.ts) cuatrocientos cuarenta y nueve metros con dos centímetros: enseguida desde E y sobre la línea BA medí tres de (431,50 m.ts) cuatrocientos treinta y un metros con cincuenta centímetros cada uno y el 4.º ó último quedó de (414,57 m.ts) cuatrocientos catorce metros con cincuenta y siete centímetros, en todos estos puntos puse mojones de madera, el primero lote lo adjudiqué á María G. de Kelly, su superficie es igual á (21 h.s 27 a.s 10 c.s) veinte y una hectáreas veinte y siete áreas diez centiáreas y tiene como linderos por el Nord Este Braulio Lescano, por el Nord Oeste el lote que se adjudica",
+    "[sello: Foja 6]"
+   ],
+   "interpretacion": "Miguel: 85 ha 10 a 65 ca, contra Lescano (NE), Kelly (NO), Ojuez (SE) y Galeano (SO). La otra mitad se divide en cuatro fajas transversales iguales: tres de 431,50 m de frente y la última de 449,02 m sobre CD y de 414,57 m sobre BA (verificado: 3431 − 1721,93 − 3 × 431,50 = 414,57). Primer lote, junto a Miguel: María G. de Kelly, 21 ha 27 a 10 ca."
+  },
+  {
+   "titulo": "Folio 7 · lotes de Tomás, Diego y Anita Gaynor",
+   "img": "img/f/187/10.jpg",
+   "fuente": "IMG_0972.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "á Tomás Gaynor, por el Sud Este Miguel Gaynor y por el Sud Oeste Cipriano Galeano; el segundo lote lo adjudiqué á Tomás Gaynor y su superficie es igual á (21 h.s 27 a.s 50 c.s) veinte y una hectáreas veinte y siete áreas cincuenta centiáreas y linda por el Nord Este con Braulio Lescano, por el Nord Oeste con el lote que se adjudica á Diego Gaynor, por el Sud Este con María G. de Kelly y por el Sud Oeste con Cipriano Galeano; el tercer lote lo adjudiqué á Diego Gaynor su superficie es igual (21 h.s 27 a.s 70 c.s) veinte y una hectáreas veinte y siete áreas setenta centiáreas y linda por el Nord Este con Braulio Lescano, por el Nord Oeste con el lote que se adjudica á Anita Gaynor, por el Sud Este con Tomás Gaynor y por el Sud Oeste con Cipriano Galeano y Brígida B. de Shanahan; el cuarto lote lo adjudiqué á Anita Gaynor, su superficie es igual á (21 h.s 28 a.s 36 c.s) veinte y una hectáreas veinte y ocho áreas treinta y seis centiáreas y linda por el Nord Este con Braulio Lescano por el Nord Oeste y Sud Este respectivamente con Brígida B. de Shanahan y Diego Gaynor y por el Sud Oeste con Brígida B. de Shanahan.",
+    "[sello: Foja 7]"
+   ],
+   "interpretacion": "Tomás 21 ha 27 a 50 ca; Diego 21 ha 27 a 70 ca (linda con Galeano y Shanahan); Anita 21 ha 28 a 36 ca, en el extremo NO, contra Shanahan por dos lados. Suma de los cinco lotes: 170,2131 ha, igual a la mensura."
+  },
+  {
+   "titulo": "Folio 8 · conformidad de los herederos; informe del Departamento de Ingenieros",
+   "img": "img/f/187/11.jpg",
+   "fuente": "IMG_0973.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "Estando conforme todos los herederos con esta forma de división labré un acta que firmaron conmigo y cuyo original acompaño.",
+    "Buenos Aires Agosto 31 de 1903",
+    "Juan E. Doyle",
+    "[sello: Departamento de Ingenieros de la Provincia — Entrada 2 Setiembre 1903]",
+    "Señor Juez:",
+    "El Departamento de Ingenieros ha examinado la diligencia de mensura y división practicada por el Ingeniero Juan E. Doyle de dos fracciones de terreno pertenecientes respectivamente á la Sucesión de Doña Margarita Leary de Gaynor y á Don Tomás y Herederos de Don Cristóbal Gaynor, ubicadas en el partido de San Andrés de Giles y la encuentra en condiciones de ser aprobada por V. S. —",
+    "Dentro de los mojones de la primera fracción ha resultado un exceso de tres hectáreas, veinte y tres áreas, sesenta y una centiáreas",
+    "[sello: Foja 8]"
+   ],
+   "interpretacion": "Todos los herederos firman con Doyle un acta de conformidad (original adjunto, no copiado). Buenos Aires, 31/8/1903; entrada al Departamento de Ingenieros el 2/9/1903. El D. I. examina en un solo informe las DOS fracciones (sucesión de Margarita Leary de Gaynor; Tomás y herederos de Cristóbal Gaynor) y las encuentra en condiciones de aprobarse. En la primera fracción (dupl. 188) resulta un exceso de 3 ha 23 a 61 ca."
+  },
+  {
+   "titulo": "Folio 8 vuelto · ambos excesos en la tolerancia; firmas del D. I. (22/9/1903)",
+   "img": "img/f/187/12.jpg",
+   "fuente": "IMG_0974.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "(3 h. 23 a. 61 c.) que está comprendido en la tolerancia de la ley y en la segunda fracción ha resultado otro excedente de una hectárea cuarenta y siete áreas, treinta centiáreas (1 h. 47 a. 30 c.) que también queda comprendido en la tolerancia. —",
+    "Todos los linderos han firmado la circular de citación. —",
+    "El Ingeniero Doyle acompaña dos actas suscritas por los interesados en que consta la conformidad de estos con la división practicada. —",
+    "La Plata, Setiembre 22 / 903.",
+    "And.s E. [?] Villanueva — Benjamín Sal",
+    "J. Ringuelet",
+    "Adriano Díaz",
+    "Sec.o",
+    "[al margen derecho asoma una planilla impresa de cálculo («…DAS», «FACTOR») con cifras 8,75 · 431,50 · 33,40 · 473,65 [?], no fotografiada desplegada]"
+   ],
+   "interpretacion": "Los excesos de 3,2361 ha (dupl. 188) y 1,4730 ha (éste; «1 h 47 a 30 c», cifra legible en la 188) quedan en la tolerancia. Todos los linderos firmaron la circular; Doyle acompaña dos actas de conformidad. La Plata, 22/9/1903: firmas Andrés E. [?] Villanueva, Benjamín Sal, J. Ringuelet y el secretario Adriano Díaz. Al margen asoma una planilla impresa de cálculo de áreas, no fotografiada."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de mensura y división de la propiedad de Miguel Gaynor y herederos de Cristóbal Gaynor (julio 1903)",
+   "img": "img/f/187/03.jpg",
+   "fuente": "IMG_0975.JPG (vista general; detalles IMG_0976-0978)",
+   "orientacion": "flecha N con flor de lis hacia arriba a la izquierda (NO); el costado largo A-B (S 30° 40′ E) corre horizontal",
+   "interpretacion": "Plano en tela coloreado, «Superficie total = 170 ha.s 21 a.s 31 ca.s», escala 1:10 000, firmado «Buenos Aires, Julio de 1903 · Juan E. Doyle Ing.º Civil». Rectángulo largo y angosto dividido en cinco lotes con superficies en rojo: de O a E Anita Gaynor (21,2836 ha, verde azulado), Diego (21,2770), Tomás (21,2750, rosa), María G. de Kelly (21,2710) y Miguel Gaynor (85,1065 ha, verde, la mitad del campo). Linderos rotulados en cursiva: Braulio Lescano (NE), Ceferino Ojuez (SE), Cipriano Galeano (SO) y Brígida B. de Shanahan (NO y SO, con la divisoria Galeano-Shanahan punteada a 2928,50 m de C sobre C-D). La línea de trazos del «Telégrafo de Giles á Mercedes» cruza en diagonal los lotes de Diego, Tomás, Kelly y Miguel; el «Arr.º Noriega», en azul, corta la esquina B. Junto a E se dibuja la «Población» (tres cuadraditos). Todos los vértices son «m. m.» (mojón de madera) salvo A, «m. piedra».",
+   "referencias": [
+    [
+     "A",
+     "Mojón de piedra, esquinero N (arranque)"
+    ],
+    [
+     "B · C · D",
+     "Esquineros, mojones de madera"
+    ],
+    [
+     "E · F",
+     "Divisoria FE N 59° 18′ E 493 m entre Miguel y los herederos de Cristóbal"
+    ],
+    [
+     "A-B",
+     "3431 m S 30° 40′ E; telégrafo a 511,50; arroyo Noriega a 3313"
+    ],
+    [
+     "B-C",
+     "492,60 m S 58° 17′ O; arroyo a 115"
+    ],
+    [
+     "C-D",
+     "3474,26 m N 30° 42′ O; mojón a 1261, telégrafo a 1456, alambrado a 2928,50"
+    ],
+    [
+     "D-A",
+     "494,60 m N 63° 10′ E"
+    ],
+    [
+     "Frentes",
+     "A-E: 414,57 · 431,50 · 431,50 · 431,50; D-F: 449,02 · 431,50 · 431,50 · 431,50; divisorias 493,40 · 493,30 · 493,15"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Hacia 1903 el campo es una faja rural alambrada al menos en parte (alambrado divisorio Galeano-Shanahan), con una sola población, a 5 m del costado NE, sobre la línea de Lezcano. Lo atraviesan en diagonal el telégrafo de Giles a Mercedes (que ya aparece en el corpus en 1878 y 1885) y, en la esquina SE, el arroyo Noriega, que se cruza dos veces. No hay montes, taperas ni caminos nombrados: es un paisaje de campo de cría o de chacra subdividido, en el borde del rincón Noriega-Lezcano-Nugent."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Ritual ya administrativo: comisión judicial pedida por el apoderado Pedro Villafañe (30/5/1903, dupl. 188), edictos, circular firmada por los cuatro linderos (sin firmas a ruego), arranque en un mojón de piedra y mojones de madera en cada vértice de la división. El acta de mensura es COMÚN a los dos campos y está en la 188: Doyle la labra el 13/7/1903 en la Estancia «Santa María» de los Gaynor, sin linderos presentes, con los testigos Roque F. [?] Benavides y Juan J. Sheridan. La división se documenta con un acta de conformidad de los herederos por campo; el Departamento las toma como prueba suficiente."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos al minuto y distancias al centímetro. Cierre en python con los rumbos y distancias del texto: 1,57 m de error sobre 7,9 km de perímetro (≈ 1/5000); área por coordenadas 170,42 ha contra 170,21 del texto (la diferencia viene del error de cierre). El lote de Miguel (CFEB) da 85,11 ha y FE 493,5 m a N 59° 18′ E: coincide. La suma de los cinco lotes da exactamente 170,2131 ha. Discrepancias menores: el 4.º lote sobre CD debería medir 449,08 m y no 449,02; el alambrado Galeano-Shanahan está a 2938 m en el texto y a 2928,50 en el plano. El exceso del D. I. es 1 ha 47 a 30 ca en letra y en cifra (la cifra, dudosa aquí, es legible en la 188)."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todo en metros y hectáreas, pero el título está en la unidad vieja: la escritura de 1887 vende «cien cuadras cuadradas» = 168 ha 74 a 01 ca (cuadra cuadrada de 150 v de lado = 1,6874 ha; en total exactamente 2 250 000 varas cuadradas de 0,866 m). Medida: 170,2131 ha; el exceso del 0,87 % se tolera por la «ley de sobrantes», como el de 3,24 ha de la 188. El origen es una faja colonial: Francisco Borja Lescano compró a Aniceto Noriega en 1858 400 × 3944 varas; ese fondo (3415 m) es casi el largo medido en 1903 (3431-3474 m)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena completa (dupl. 188, ff. 6-10): herencia de Manuel Noriega → Manuela Noriega y su marido Francisco Borja Lescano, que compra además a Aniceto Noriega (1858) → Francisco Solano Lescano → Urbano Álvarez (20/6/1881) → Tomás Gaynor (Mercedes, 27/5/1887; linderos Juan Shanahan NO, Anacleto Lescano NE, Cipriana Galeano SO, Ceferino Ojuez SE). Tomás Gaynor muere en diciembre de 1890; casado primero con una Murray (madre de Miguel Gaynor y Murray) y después con Margarita Leary. En la hijuela de 1893 (juez Lorenzo A. Espinosa) las 100 cuadras se adjudican por mitades a Miguel y a Cristóbal Gaynor y Leary. Margarita muere el 16/2/1893 y Cristóbal el 26/5/1893, sin descendencia: su mitad pasa a sus hermanos María (G. de Kelly), Tomás, Diego y Anita. De ahí la división de 1903: la mitad para Miguel y un octavo para cada hermano."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "188 (gemelo y cabeza del expediente: her. de Tomás Gaynor y Margarita Leary, Estancia «Santa María», 827,30 ha; mismo juez, ingeniero, acta e informe del D. I.; contiene los títulos de este campo en ff. 6-8 y las testamentarías en ff. 8-10). 141 (Castro 1885): la estancia Santa María de los Gaynor, contigua. 140: Tomás Gaynor, el mismo causante. 094 (Ceferino Ojuez, Schuster 1878): faja de 3425,90 m (3956 v) a N 30° 57′ O con el arroyo Noriega en el ángulo NE; casi el largo de este campo (3431-3474 m) y del fondo Lescano de 1858 (3944 v): el Gaynor sería la faja paralela contigua al NO de Ojuez. 095 (Solano Lezcano, 1878): el vendedor de 1881 y las hijuelas Lescano; Cipriano Galeano como lindero. 068 (Nugent 1875): la misma grilla N 30° 57′ O / N 59° 3′ E. 158 (Vernet 1891): linderos «her. de T. Gaynor» y «C. Oyuez». 186 (Doyle, Wheeler 1903): mismo ingeniero y firmantes del D. I. 086 y 137: telégrafo de Giles a Mercedes."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Texto completo ff. 1-8 vta. y plano. Títulos, acta y testamentarías están en el duplicado 188. Faltan: el auto de aprobación judicial, las actas de conformidad (originales no copiados) y la planilla de cálculo de áreas que asoma en el f. 8 vta. Quedan dudas: la inicial de Brígida B. de Shanahan, lindera nueva en 1903, que no figura en la 188 (allí en 1887-1893 el lindero NO es Juan Shanahan), y si Cipriano y «Cipriana» Galeano son la misma persona. Pendiente: ubicar en el GIS el rectángulo entre 094 y 095 usando el arroyo Noriega, el telégrafo y la Estancia Santa María (188) como anclas."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Tomás Gaynor",
+   "rol": "Causante",
+   "texto": "Estanciero irlandés del cuartel 3.º. Compra el campo Frías en 1877 y 108 ha de María Villalba de Quiroga en 1880 (Estancia «Santa María», dupl. 188), y estas 100 cuadras a Urbano Álvarez el 27/5/1887. Casado primero con una Murray (madre de Miguel) y después con Margarita Leary. Testa en Mercedes y muere en diciembre de 1890.",
+   "fuentes": "Duplicado 188, ff. 8-10; Fichas 140, 141, 158."
+  },
+  {
+   "nombre": "Cristóbal Gaynor y Leary",
+   "rol": "Hijo heredero",
+   "texto": "Hijo de Tomás Gaynor y Margarita Leary. En la hijuela de 1893 recibe la mitad de las 100 cuadras. Muere el 26/5/1893 sin descendencia y lo heredan sus hermanos María, Tomás, Diego y Anita: son los «herederos de Cristóbal Gaynor» de la carátula.",
+   "fuentes": "Duplicado 188, f. 10; este duplicado."
+  },
+  {
+   "nombre": "Margarita Leary (Leavy) de Gaynor",
+   "rol": "Viuda",
+   "texto": "Segunda esposa de Tomás Gaynor; madre de Anita, María, Tomás, Diego y Cristóbal. Recibe la mayor parte de la estancia en 1893 y muere el 16/2/1893. Doyle escribe «Leary»; carátula, portadilla, plano y D. I. de la 188, «Leavy».",
+   "fuentes": "Duplicado 188."
+  },
+  {
+   "nombre": "Miguel Gaynor y Murray",
+   "rol": "Propietario",
+   "texto": "Hijo del primer matrimonio de Tomás Gaynor. Recibe la mitad de las 100 cuadras en 1893 y en 1903 la mitad SE (85,11 ha), con el arroyo Noriega. Adhiere al pedido de división de sus medio hermanos. No es condómino de la estancia Santa María.",
+   "fuentes": "Este duplicado; duplicado 188, ff. 8-11."
+  },
+  {
+   "nombre": "Tomás, Diego, Anita y María Gaynor y Leary (María G. de Kelly)",
+   "rol": "Herederos",
+   "texto": "Hermanos y herederos de Cristóbal. Reciben cuatro fajas de ≈ 21,28 ha; María, casada con un Kelly, la vecina de Miguel, y Anita la del extremo NO. Su apoderado es Pedro Villafañe. Firman el acta de conformidad y se reparten también la estancia de la 188.",
+   "fuentes": "Este duplicado; duplicado 188."
+  },
+  {
+   "nombre": "Francisco Borja Lescano, Francisco Solano Lescano y Urbano Álvarez",
+   "rol": "Antecesores",
+   "texto": "Borja Lescano, casado con Manuela Noriega, compra a Aniceto Noriega en 1858 una faja de 400 × 3944 v. Solano Lescano (Ficha 095) vende a Urbano Álvarez el 20/6/1881, y Álvarez a Tomás Gaynor en 1887.",
+   "fuentes": "Duplicado 188, ff. 6-8; Ficha 095."
+  },
+  {
+   "nombre": "Juan E. Doyle",
+   "rol": "Ingeniero civil",
+   "texto": "Ingeniero civil con domicilio en Buenos Aires. En 1903 hace las diligencias 186 (Wheeler), 187 y 188 (Gaynor) para familias irlandesas del partido. Aquí la operación es simple (rectángulo y fajas) y el D. I. no le corrige nada.",
+   "fuentes": "Fichas 186, 187 y 188."
+  },
+  {
+   "nombre": "Rafael López Saubidet",
+   "rol": "Juez",
+   "texto": "Juez de 1.ª instancia en lo civil y comercial del Departamento del Centro en 1903; da una sola comisión para los dos campos. El apellido Saubidet ya está en el corpus con el agrimensor Pedro Saubidet (1856-1870); el parentesco no está verificado.",
+   "fuentes": "Este duplicado; duplicado 188; Fichas 020, 028, 059, 075."
+  },
+  {
+   "nombre": "Roque F. [?] Benavides y Juan J. Sheridan",
+   "rol": "Testigos del acta",
+   "texto": "Testigos del acta común de las dos mensuras (Estancia «Santa María», 13/7/1903). Roque J. Benavides aparece también como testigo de Doyle en la 186 (marzo de 1903): probablemente el mismo ayudante, con la inicial dudosa.",
+   "fuentes": "Duplicado 188, f. 3; Ficha 186."
+  },
+  {
+   "nombre": "Braulio Lescano (Lezcano)",
+   "rol": "Lindero ne",
+   "texto": "De la familia Lescano/Lezcano del rincón al S del pueblo (Fichas 045, 059, 095, 115). En 1887 el lindero NE era Anacleto Lescano. Firma la circular.",
+   "fuentes": "Este duplicado; duplicado 188; METODO.md."
+  },
+  {
+   "nombre": "Ceferino Ojuez",
+   "rol": "Lindero se",
+   "texto": "Dueño desde 1878 de una faja de 430 v sobre el arroyo Noriega (Ficha 094, «Oyuez»); lindero de los Nugent (068), de Vernet (158) y de la estancia Santa María (188). Ya era lindero SE de este campo en 1887. Firma la circular en 1903.",
+   "fuentes": "Fichas 068, 094, 095, 158, 188; este duplicado."
+  },
+  {
+   "nombre": "Cipriano Galeano",
+   "rol": "Lindero so",
+   "texto": "Ya lindero N de los Lezcano en 1878 (Ficha 095); en la escritura de 1887 figura «Cipriana Galeano». De la familia Galeano del partido (Fichas 008, 034, 048).",
+   "fuentes": "Este duplicado; Ficha 095; duplicado 188."
+  },
+  {
+   "nombre": "Brígida B. de Shanahan",
+   "rol": "Lindera no y so",
+   "texto": "Apellido irlandés de casada; no figura en la 188, donde el lindero NO en 1887-1893 es Juan Shanahan, quizá su marido o antecesor. Su campo rodea el extremo NO de los Gaynor; tiene alambrado divisorio con Galeano.",
+   "fuentes": "Este duplicado; duplicado 188, f. 8."
+  },
+  {
+   "nombre": "Firmantes del Departamento de Ingenieros (22/9/1903)",
+   "rol": "Técnicos",
+   "texto": "Andrés E. [?] Villanueva (también en la 186), Benjamín Sal y J. Ringuelet (ambos en informes del D. I. de 1899-1902 del corpus) y el secretario Adriano Díaz (también en la 186). Un solo informe para las dos fracciones.",
+   "fuentes": "Este duplicado; duplicado 188; Ficha 186; METODO.md."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/187/02.jpg",
+  "fuente": "IMG_0965.JPG",
+  "lineas": [
+   "— San Andrés de Giles — N.º 187",
+   "[a lápiz:] Gaynor Cristóbal (herederos)",
+   "Duplicado de Mensura",
+   "D.n Miguel Gaynor",
+   "y Herederos de Cristóbal Gaynor",
+   "San Andrés de Giles",
+   "1903",
+   "[a lápiz:] 10. 133. 10",
+   "[a lápiz:] El título que corresponde á esta mensura está extractado á f.s 6 del dupl.do n.º 188.",
+   "Ing.ro Juan E. Doyle"
+  ]
+ },
+ "titulo": "Miguel Gaynor y Murray y her. de Cristóbal Gaynor y Leary",
+ "estado": "Transcripta (9 hojas, 58 renglones), 1 lámina"
+}

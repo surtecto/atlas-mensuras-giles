@@ -1,0 +1,862 @@
+{
+ "carpeta": "185",
+ "carpeta_nombre": "Carpeta 185",
+ "archivo": "Ficha 185 - Suc. José E. Monsalvo (1902).docx",
+ "resumen": {
+  "N.º de duplicado": "185 (San Andrés de Giles); signatura 9.168.134",
+  "Propietario / solicitante": "Suc. José E. Monsalvo",
+  "Agrimensor": "Ing. Julio Labarthe (Mercedes)",
+  "Año": "1902",
+  "Fecha de la diligencia": "25/10/1902; informe 11/11/1902; D. I. 5/12/1902",
+  "Ubicación": "Fondo del ex campo de Fernando Monsalvo (066), entre Kelly y Megoey",
+  "Orden judicial": "Auto 19/8/1902 (fs. 173), juzgado de Mercedes; convenio de herederos",
+  "Vendedor / antecesor": "Legado de Fernando Monsalvo 1873; herencias Crecencio, Juana Acuña",
+  "Linderos citados": "J. Megoey, L. Cané, J. Mulvihill, M. Duffy de Kelly, vda. M. Belson",
+  "Medidas": "A-B 1738,80; B-C 4762,40; C-D 1722; D-A 4762,40 m (2000 × 5500 v)",
+  "Rumbos": "N 80° 42′ O / N 9° 30′ 10″ E / S 80° 42′ E / S 9° 18′ O",
+  "Referencia de archivo": "AHG PBA, duplicado 185; sello Geodesia «F.º 12 · XIII-11-1927»"
+ },
+ "metricas": {
+  "superficie_ha": "824,0857 (sucesión 659,1161)",
+  "hitos": "mojones de madera y de línea; alambrados del camino y de Castro-Clock y Cané-Mulvihill",
+  "aguas": "ninguna citada"
+ },
+ "sintesis": "División de la sucesión de José E. Monsalvo (1902), último eslabón del legado de Fernando Monsalvo (1873: 16 500 000 v² a José y sus hijos Francisco y Crecencio). Labarthe mide el campo de 2000 × 5500 varas (824,09 ha; faltan ≈ 0,87 ha), confirma la línea E-F que ya separaba de hecho a tres hermanos (300 v) y divide 700,36 ha según un convenio de herederos homologado: Cármen M. de Gómez (217 ha, junto a Kelly), Sandalia M. de Castro y Benicia M. de Clock (175,76 ha) y la viuda Elvira Iriarte (131,82 ha). Un camino vecinal alambrado que cruza en diagonal obliga a inclinar una divisoria. Linderos Megoey, Cané, Mulvihill, Kelly, Belson; D. I. favorable 5/12/1902.",
+ "caratula": {
+  "img": "img/f/185/01.jpg",
+  "fuente": "IMG_0907.JPG",
+  "campos": [
+   [
+    "N.º",
+    "185"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para la Sucesión de Don José E. Monsalvo"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "(en blanco)"
+   ],
+   [
+    "Año",
+    "(en blanco)"
+   ],
+   [
+    "Juzgado / Secretaría",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · nombramiento del perito y cláusula 1.ª del convenio",
+   "img": "img/f/185/06.jpg",
+   "fuente": "IMG_0909.JPG",
+   "nota": "Hoja suelta fotografiada acostada; se lee girada 90°. Sello «F.º 1».",
+   "lineas": [
+    "Mercedes, Noviembre 11/1902",
+    "Sr. Juez,",
+    "El Ingeniero que suscribe, ha sido nombrado",
+    "por auto de fecha 19 Agosto 1902, perito para",
+    "practicar la mensura y división de los bienes",
+    "de la Sucesión José E. Monsalvo, consistentes",
+    "en un campo ubicado en el Partido de San",
+    "Andrés de Giles, en la forma establecida en",
+    "el convenio celebrado entre las partes y aprobado",
+    "por el Juez, y que se transcribe en la parte",
+    "pertinente: ______________________",
+    "1.º Cambiar la ubicación de la fracción que en",
+    "el croquis figura á nombre de Cármen",
+    "Monsalvo de Gomez, según su hijuela fs. 114.",
+    "En vez de la forma actual de 86,66 metros",
+    "de frente por todo el fondo del campo (de José",
+    "E. Monsalvo), el perito nombrado ubicará la su-",
+    "perficie de dicha fracción en la cabeza",
+    "del campo de José E. Monsalvo, que linda con",
+    "María Duffy de Kelly, tomando una misma",
+    "parte de la misma fracción de Cármen",
+    "Monsalvo y lo restante del campo que es de"
+   ],
+   "interpretacion": "Mercedes, 11 de noviembre de 1902. El ingeniero Julio Labarthe informa al juez que fue nombrado perito por auto del 19/8/1902 para medir y dividir los bienes de la sucesión de JOSÉ E. MONSALVO, un campo en San Andrés de Giles, «en la forma establecida en el convenio celebrado entre las partes y aprobado por el Juez», que transcribe. Cláusula 1.ª: la fracción que en el croquis figura a nombre de CÁRMEN MONSALVO DE GÓMEZ (hijuela a fs. 114), hoy una faja de 86,66 m de frente (100 varas) «por todo el fondo del campo», se reubica en la CABEZA del campo que linda con MARÍA DUFFY DE KELLY."
+  },
+  {
+   "titulo": "Folio 1 vuelto · cláusulas 2.ª a 4.ª: orden de los lotes",
+   "img": "img/f/185/07.jpg",
+   "fuente": "IMG_0910.JPG (mitad izquierda)",
+   "nota": "El nombre de la viuda se lee «Elvira» en el plano; en el texto la grafía es ambigua (Elvia / Elvira).",
+   "lineas": [
+    "la sucesión de José E. Monsalvo, procurando",
+    "dar á la nueva ubicación, la forma más",
+    "regular posible. ______________",
+    "2.º Junto al lote expresado en el número que",
+    "antecede, el perito propuesto ubicará la su-",
+    "perficie de campo que le corresponde á la",
+    "heredera Cármen Monsalvo de Gomez, consis-",
+    "tente en una quinta parte de la superficie",
+    "total del campo de José E. Monsalvo, y más",
+    "una tercera parte de otra quinta, que le",
+    "corresponde como heredera de su hermano",
+    "Francisco Monsalvo, fallecido. ________",
+    "3.º Junto al lote expresado en el número que",
+    "antecede el perito ubicará otro de igual",
+    "superficie para la heredera Sandalia",
+    "Monsalvo de Castro. ______________",
+    "4.º Lindando con éste y siguiendo el mismo",
+    "rumbo ubicará el perito otro lote de un",
+    "quinto de la superficie total del campo de",
+    "José E. Monsalvo para la viuda D.ña",
+    "Elvira [?] Iriarte de Monsalvo. __________",
+    "5.º En la cabecera Norte del campo de la"
+   ],
+   "interpretacion": "Junto a ese lote va la parte de Cármen en la sucesión: un quinto del campo más un tercio de otro quinto, heredado de su hermano FRANCISCO MONSALVO, fallecido. Sigue un lote igual para SANDALIA MONSALVO DE CASTRO y, «siguiendo el mismo rumbo», un quinto para la viuda ELVIRA [?] IRIARTE DE MONSALVO. La división es una secuencia de fajas transversales desde el lindero S (Kelly) hacia el N."
+  },
+  {
+   "titulo": "Folio 2 · cláusula 5.ª y extracto de títulos (1873-1879)",
+   "img": "img/f/185/08.jpg",
+   "fuente": "IMG_0910.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "sucesión entre el lote de Elvira Iriarte de",
+    "Monsalvo y el lindero Juan Megoey, ubicará",
+    "el perito el otro lote de una superficie igual",
+    "á los de las herederas Cármen y Sandalia, ó",
+    "sea de un quinto del total y de un tercio de",
+    "otro quinto, cuyo lote será para la heredera",
+    "Benicia Monsalvo de Clock.” ____________",
+    "Para efectuar la operación de mensura y",
+    "división, procedí en la forma que expongo á",
+    "V. S. ______________________",
+    "I. Extracto de títulos",
+    "1873. Junio 13. Fernando Monsalvo, lega en",
+    "condominio y por partes iguales á José",
+    "Monsalvo y á los hijos de éste, Francisco y",
+    "Crecencio, 16.500.000 varas cuadradas ó sean",
+    "12.374.274 metros cuadrados de campo ubicado",
+    "en el Partido de S. Andrés de Giles.",
+    "1879. Mayo 30. A la muerte de Crecencio, el",
+    "Juez declara únicos y universales herederos",
+    "á sus padres los cónyuges José Monsalvo y",
+    "Juana Acuña de Monsalvo á quienes se les"
+   ],
+   "interpretacion": "Cláusula 5.ª: en la cabecera N, entre el lote de la viuda y el lindero JUAN MEGOEY, el lote de BENICIA MONSALVO DE CLOCK (quinto + tercio de quinto). I. Extracto de títulos: el 13/6/1873 FERNANDO MONSALVO lega en condominio y por partes iguales a JOSÉ MONSALVO y a sus hijos FRANCISCO y CRECENCIO 16 500 000 v² = 12 374 274 m² en Giles (verificado: × 0,866²). El 30/5/1879, muerto Crecencio, el juez declara herederos a sus padres José Monsalvo y JUANA ACUÑA DE MONSALVO."
+  },
+  {
+   "titulo": "Folio 2 vuelto · sucesiones de Juana Acuña, José E. y Francisco Monsalvo",
+   "img": "img/f/185/09.jpg",
+   "fuente": "IMG_0911.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "adjudicaron en condominio 5.500.000 varas cua-",
+    "dradas ó sean 4.124.758 metros cuadrados.",
+    "1884. Noviembre 20. Por fallecimiento de D.ña",
+    "Juana Acuña de Monsalvo, el Juez declara",
+    "que le suceden como hijos legítimos, Francisco,",
+    "Benicia, Sandalia, y Cármen Monsalvo y Acuña",
+    "sin perjuicio de los derechos que el Código civil",
+    "acuerda al cónyuge sobreviviente.",
+    "1886. Mayo [?] 17. El Juez declara que habiendo",
+    "fallecido D.n José E. Monsalvo, le suceden en su",
+    "carácter de únicos y universales herederos, sus",
+    "hijos legítimos Francisco, Benicia, Sandalia,",
+    "y Cármen, sin perjuicio de los derechos que el",
+    "Código civil acuerda al cónyuge sobreviviente,",
+    "D.ña Elvira [?] Iriarte, segunda esposa del finado.",
+    "1892. Abril 5. Por fallecimiento de Francisco",
+    "Monsalvo, el Juez declara que son sus únicos",
+    "y universales herederos sus hermanas, Benicia",
+    "Sandalia y Cármen. ____________",
+    "II. Antecedentes de mensura",
+    "Con fecha 24 de Octubre de 1902 tomé los siguientes"
+   ],
+   "interpretacion": "A los padres se les adjudican en condominio 5 500 000 v² = 4 124 758 m² (verificado). 20/11/1884: muere Juana Acuña; la suceden Francisco, Benicia, Sandalia y Cármen Monsalvo y Acuña, sin perjuicio de los derechos del cónyuge. 17/5 [?]/1886: muere José E. Monsalvo; lo heredan los cuatro hijos, sin perjuicio de los derechos de ELVIRA [?] IRIARTE, «segunda esposa del finado». 5/4/1892: muere Francisco; lo heredan sus hermanas Benicia, Sandalia y Cármen. II. Antecedentes de mensura: el 24/10/1902 Labarthe toma antecedentes."
+  },
+  {
+   "titulo": "Folio 3 · antecedentes: Schuster 1873 y 1879; campo indiviso",
+   "img": "img/f/185/10.jpg",
+   "fuente": "IMG_0911.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "antecedentes en el Departamento de Ingenieros.",
+    "1873. Junio 19. El Juez nombra al agrimensor",
+    "Carlos Schuster para que proceda á la división",
+    "y mensura de los campos dejados por Fernando",
+    "Monsalvo á su fallecimiento, entre los que se",
+    "encontraban los legados á José Monsalvo y á",
+    "sus dos hijos Francisco y Crecencio, siendo prac-",
+    "ticada dicha operación con aprobación del Juez.",
+    "1879. Agosto 14. El Juez nombra al mismo",
+    "agrimensor para medir y ubicar la parte",
+    "correspondiente á Francisco Monsalvo, por haberla",
+    "vendido á Pablo Bustos, aprobándose la",
+    "operación efectuada. ______________",
+    "De lo expuesto resultaría que el campo de la",
+    "Sucesión de José E. Monsalvo y la parte correspondiente",
+    "á sus cuatro hijos por herencia de D.ña Juana Acuña",
+    "estarían aun indivisos, pues no existen antecedentes",
+    "de mensura y división aprobadas; pero del texto",
+    "del convenio transcripto y del croquis adjunto",
+    "á fs. 169. se desprende —y así lo comprobé como",
+    "se verá más adelante— que la parte de campo"
+   ],
+   "interpretacion": "En el Departamento de Ingenieros: el 19/6/1873 el juez nombra a CARLOS SCHUSTER para dividir los campos de Fernando Monsalvo (ficha 066) y el 14/8/1879 para medir la parte de Francisco Monsalvo «por haberla vendido a PABLO BUSTOS» (ficha 100). No hay mensura ni división aprobada del campo de José E. y de la parte de los cuatro hijos por herencia materna; pero el convenio y el croquis de fs. 169 muestran, y Labarthe lo comprobó, que una parte ya estaba separada de hecho."
+  },
+  {
+   "titulo": "Folio 3 vuelto · descomposición de las 11 000 000 v²",
+   "img": "img/f/185/11.jpg",
+   "fuente": "IMG_0912.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "perteneciente á Francisco Monsalvo, Benicia Monsalvo",
+    "de Clock y Sandalia Monsalvo de Castro, ha sido",
+    "dividida del resto del campo, quedando indivisos",
+    "los de la Sucesión y la parte de Cármen Monsalvo",
+    "de Gomez que obtuvo por herencia de la madre,",
+    "D.ña Juana Acuña de Monsalvo.",
+    "No obstante esto, y para comprobar la exactitud",
+    "de la división efectuada, procedí á la mensura",
+    "total del campo cuya superficie total es de",
+    "11.000.000 varas cuadradas ó sean 8.249.516 metros",
+    "cuadrados, descompuesta así:",
+    "Campo de la Sucesión José Monsalvo m² 6.599.612,8",
+    "\" Benicia M. Clock \" 412.475,8",
+    "\" Francisco Monsalvo \" 412.475,8",
+    "\" Sandalia M. Castro \" 412.475,8",
+    "\" Cármen M. Gomez \" 412.475,8",
+    "Superficie total m. cuad. 8.249.516.",
+    "III. Mensura",
+    "Publicados los edictos en los diarios «La Ley» y el",
+    "«Derecho» de Mercedes de conformidad con el",
+    "auto de fs. 173 de fecha 19 Agosto 1902 y dili-"
+   ],
+   "interpretacion": "La parte de Francisco, Benicia y Sandalia está dividida del resto; quedan indivisos el campo de la sucesión y la parte de Cármen por herencia materna. Para comprobarlo mide el campo entero: 11 000 000 v² = 8 249 516 m² (verificado), compuesto por la sucesión de José Monsalvo 6 599 612,8 m² y cuatro partes de 412 475,8 m² (Benicia, Francisco, Sandalia, Cármen). Verificado: 412 475,8 = 2 062 379 / 5, es decir la mitad de Juana Acuña en lo heredado de Crecencio repartida en CINCO partes (cuatro hijos y el viudo); José: 4 124 758 + 2 062 379 + 412 475,8 = 6 599 612,8. III. Mensura: edictos en «La Ley» y «El Derecho» de Mercedes (auto de fs. 173, 19/8/1902)."
+  },
+  {
+   "titulo": "Folio 4 · el perímetro: A-B y B-C",
+   "img": "img/f/185/12.jpg",
+   "fuente": "IMG_0912.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "genciadas las citaciones de linderos di principio",
+    "el 25 de Octubre de 1902 á la operación de mensura",
+    "por el mojón esquinero SudEste del campo —",
+    "letra A del plano— y con rumbo N 80° 42′ O.",
+    "medí (1738,80) mil setecientos treinta y ocho metros",
+    "con ochenta centímetros hasta encontrar el mojón",
+    "esquinero Sudoeste —letra B del plano—; á los",
+    "mil sesenta y ocho metros con setenta centímetros",
+    "encontré un mojón y á los mil cuatrocientos",
+    "setenta y nueve metros, otro E [?] de la línea que",
+    "limita la propiedad de los hermanos Francisco",
+    "Monsalvo, Benicia M. Clock y Sandalia M. Castro:",
+    "Desde B. y con rumbo N 9° 30′ 10″ E. medí",
+    "cuatro mil setecientos sesenta y dos metros con",
+    "cuarenta centímetros (4762,40) hasta encontrar el",
+    "mojón esquinero Noroeste —letra C del plano—;",
+    "á los tres mil, trescientos sesenta y dos metros hallé",
+    "un mojón de madera (3362 m). ____________",
+    "Desde C y con rumbo S 80° 42′ E. medí",
+    "mil setecientos veintidos metros (1722 m) hasta encon-",
+    "trar el mojón esquinero Nordeste —letra D del",
+    "plano—; á los doscientos cincuenta y nueve metros"
+   ],
+   "interpretacion": "El 25/10/1902, tras citar a los linderos, arranca en el mojón esquinero SE (A): N 80° 42′ O 1738,80 m hasta el esquinero SO (B), con mojones a 1068,70 y a 1479 m (este último, E, de la línea que limita la propiedad de los hermanos Francisco, Benicia y Sandalia). B-C: N 9° 30′ 10″ E 4762,40 m hasta el esquinero NO, con un MOJÓN DE MADERA a 3362 m. C-D: S 80° 42′ E 1722 m hasta el esquinero NE."
+  },
+  {
+   "titulo": "Folio 4 vuelto · D-A, superficie total y linderos",
+   "img": "img/f/185/13.jpg",
+   "fuente": "IMG_0913.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "ochenta centímetros (259 m 80) encontré el mojón F",
+    "del plano, también de la línea divisoria ya",
+    "citada, y á los cuatrocientos cincuenta y tres metros",
+    "30/100 de F. otro mojón. ______________",
+    "Desde D y con rumbo S 9° 18′ O. medí",
+    "cuatro mil setecientos sesenta y dos metros, cuarenta",
+    "centímetros (4762 m 40) hasta encontrar el mojón de",
+    "partida A; á los setecientos setenta y ocho metros",
+    "con setenta centímetros (778 m 70) encontré un mojón.",
+    "Superficie. La superficie del rectángulo",
+    "A B C D, ó sea del campo de la sucesión y de los",
+    "hermanos Francisco Monsalvo, Benicia M. Clock,",
+    "Sandalia M. Castro y Cármen M. Gomez, resultó",
+    "ser de ochocientas veinticuatro hectáreas, ocho áreas",
+    "cincuenta y siete centiáreas (824 ha 08 a 57 ca).",
+    "Como la de los títulos es de 824 ha 95 a 52 ca, le faltan",
+    "al campo ochenta y seis áreas noventa y cinco",
+    "centiáreas (86 a 95 ca). [sic: la resta da 86 a 59 ca]",
+    "Linderos. Los linderos del campo total son",
+    "por el Norte: Juan Megoey; por el Este, Luis",
+    "Cané y Juan Mulvihill; por el Sud, la Señora",
+    "María Duffy de Kelly y por el Oeste, V.da María Belson."
+   ],
+   "interpretacion": "En C-D, el mojón F a 259,80 m y otro a 453,30 m de F. D-A: S 9° 18′ O 4762,40 m, con un mojón a 778,70 m. Superficie del «rectángulo» ABCD: 824 ha 08 a 57 ca; los títulos dan 824 ha 95 a 52 ca: faltan «86 a 95 ca». Verificado en python: el polígono cierra a 6 cm y da 824,0936 ha; la resta correcta es 86 a 59 ca (error de copia o de cálculo: 59 por 95). Linderos: N JUAN MEGOEY; E LUIS CANÉ y JUAN MULVIHILL; S MARÍA DUFFY DE KELLY; O la viuda MARÍA BELSON."
+  },
+  {
+   "titulo": "Folio 5 · la línea E-F y el campo de los tres hermanos",
+   "img": "img/f/185/14.jpg",
+   "fuente": "IMG_0913.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "Uniendo los mojones E F por una línea, resultó, ésta",
+    "paralela al lado B C, es decir con rumbo N 9° 30′ 10″ E",
+    "y con una longitud de cuatro mil setecientos sesen-",
+    "ta y dos metros con cuarenta centímetros (4762 m 40).",
+    "La superficie comprendida al Oeste de dicha línea",
+    "ó sea la del cuadrilátero E B C F perteneciente á",
+    "Francisco Monsalvo, Benicia M. de Clock y",
+    "Sandalia M. Castro, es de ciento veinte y tres hectá-",
+    "reas, setenta y dos áreas, setenta y dos centiáreas",
+    "(123 ha 72 a 72 ca), mientras que la de los títulos es la",
+    "de un rectángulo de 300 varas de frente por 5500",
+    "varas de fondo ó sean 123 ha 74 a 27 ca. ____________",
+    "Como la diferencia es de solo 1 a 55 ca di por",
+    "bien trazada la línea E F que separa dicho",
+    "campo del de la sucesión José Monsalvo y del",
+    "de la S.ra Cármen M. de Gomez, que es el que",
+    "debo dividir en la forma establecida en el",
+    "convenio. ______________",
+    "Superficie. La superficie de este campo, ó",
+    "sea la del cuadrilátero A E F D es:",
+    "Superficie A B C D = 824 ha 08 a 57",
+    "\" E B C F = 123 . 72 . 72",
+    "\" A E F D = 700 ha 35 a 85 ca"
+   ],
+   "interpretacion": "La línea E-F (N 9° 30′ 10″ E, 4762,40 m) es paralela a B-C y separa el cuadrilátero EBCF de Francisco, Benicia y Sandalia: 123 ha 72 a 72 ca, contra 300 × 5500 varas = 123 ha 74 a 27 ca de títulos (verificado; 300 v = 259,80 m). La diferencia es de sólo 1 a 55 ca y Labarthe da por bien trazada la línea. Queda AEFD (sucesión + Cármen): 824,0857 − 123,7272 = 700 ha 35 a 85 ca (verificado)."
+  },
+  {
+   "titulo": "Folio 5 vuelto · la parte de Cármen y el campo de la sucesión",
+   "img": "img/f/185/15.jpg",
+   "fuente": "IMG_0914.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "setecientas hectáreas, treinta y cinco áreas, ochenta",
+    "y cinco centiáreas. ______________",
+    "Como la de los títulos es de 701 ha 20 a 89 ca, dicho",
+    "campo tiene 85 a 04 ca de menos. ____________",
+    "Previa la deducción de la fracción perteneciente",
+    "á la S.ra Cármen M. de Gomez, que, á fin de esta-",
+    "blecer estricta igualdad entre los hermanos, la",
+    "haremos igual á la tercera parte de la fracción",
+    "actualmente en posesión de sus tres hermanos,",
+    "cuya superficie es de 123 ha 72 a 72 ca, ó sean",
+    "41 ha 24 a 24 ca, procedemos á la división",
+    "de la parte restante del campo, que es el de la",
+    "Sucesión, de acuerdo con las bases del convenio;",
+    "la superficie de dicho campo es de:",
+    "Superficie A E F D = 700 ha 35 a 85 ca",
+    "Fracción de Cármen Gomez = 41 - 24 - 24",
+    "Superficie de la Sucesión = 659 ha 11 a 61 ca",
+    "seiscientas cincuenta y nueve hectáreas, once",
+    "áreas, sesenta y una centiáreas. ________",
+    "IV. División",
+    "Según el convenio transcripto, dicho campo"
+   ],
+   "interpretacion": "Títulos de AEFD: 701 ha 20 a 89 ca (= 6 599 612,8 + 412 475,8 m², verificado); falta 85 a 04 ca. Para «establecer estricta igualdad entre los hermanos», la parte materna de Cármen se fija en un tercio de lo que poseen sus tres hermanos: 123,7272 / 3 = 41 ha 24 a 24 ca (y no en los 41,25 ha de títulos). Campo de la sucesión: 700,3585 − 41,2424 = 659 ha 11 a 61 ca. IV. División."
+  },
+  {
+   "titulo": "Folio 6 · cuotas: cinco quintos y el tercio de Francisco",
+   "img": "img/f/185/16.jpg",
+   "fuente": "IMG_0914.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "debe dividirse en partes iguales entre cinco herederos",
+    "—cuatro hijos, Francisco, Benicia, Sandalia y Cármen",
+    "y la esposa Elvira [?] Iriarte—, correspondiendo por lo",
+    "tanto á cada uno ciento treinta y una hectáreas",
+    "ochenta y dos áreas, treinta y dos centiáreas (131 ha 82 a 32).",
+    "Pero como falleció Francisco Monsalvo, su parte",
+    "debe repartirse entre sus tres hermanas, tocando además",
+    "á cada una cuarenta y tres hectáreas, noventa y",
+    "cuatro áreas, once centiáreas (43 ha 94 a 11 ca), ó sea",
+    "en total ciento setenta y cinco hectáreas, setenta",
+    "y seis áreas, cuarenta y tres centiáreas (175 ha 76 a 43 ca).",
+    "El campo de la Sucesión deberá pues dividirse",
+    "en la siguiente forma:",
+    "Cármen M. Gomez 175 ha 76 a 43 ca",
+    "Benicia M. Clock 175 - 76 - 43",
+    "Sandalia M. Castro 175 - 76 - 42 [el 2 sobre un 3]",
+    "Elvira [?] Iriarte de Monsalvo 131 - 82 - 32",
+    "Campo de la Sucesión 659 ha 11 a 61 ca",
+    "Como por la cláusula segunda del convenio",
+    "debe ubicarse la parte perteneciente á la S.ra",
+    "Cármen M. Gomez de 41 ha 24 a 24 ca en la cabecera",
+    "Sud del campo y á continuación agregarse la"
+   ],
+   "interpretacion": "La sucesión se divide en cinco partes iguales (cuatro hijos y la viuda): 131 ha 82 a 32 ca cada una; la de Francisco, fallecido, se reparte entre sus tres hermanas (43 ha 94 a 11 ca), que reciben 175 ha 76 a 43 ca. Cuadro: Cármen, Benicia y Sandalia 175-76-43 (la de Sandalia corregida a 42), Elvira [?] Iriarte 131-82-32; total 659 ha 11 a 61 ca (verificado). La parte de Cármen va en la cabecera S."
+  },
+  {
+   "titulo": "Folio 6 vuelto · orden de los lotes y arranque del de Cármen",
+   "img": "img/f/185/17.jpg",
+   "fuente": "IMG_0915.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "fracción que le corresponde de la sucesión, procedí",
+    "á efectuar la división del cuadrilátero A E F D",
+    "en cuatro lotes con la superficie y el orden",
+    "siguientes:",
+    "1.º Cármen M. Gomez 175-76-43 + 41-24-24 = 217 ha 00 a 67 ca",
+    "2.º Sandalia M. Castro = 175-76-43",
+    "3.º Elvira [?] Iriarte de Monsalvo = 131-82-32",
+    "4.º Benicia M. Clock = 175-76-43",
+    "Superficie A E F D = 700 ha 35 a 85 ca",
+    "1.º Lote de la S.ra Cármen Monsalvo de Gomez.",
+    "Este lote, según la cláusula 2.ª del convenio",
+    "celebrado entre las partes, deberá ubicarse en la",
+    "cabecera Sud del campo lindando con el de la",
+    "S.ra María Duffy de Kelly. ______________",
+    "Para esto, partí del mojón E, que según",
+    "ya vimos se halla á mil cuatrocientos setenta",
+    "y nueve metros (1479 m) del mojón esquinero",
+    "Sudoeste [sic: Sudeste] —A del plano— sobre el lado A B cuyo rumbo",
+    "es N 80° 42′ O; dicho mojón E viene á ser el",
+    "esquinero Sudoeste de este lote. ____________",
+    "Desde E, medimos sobre el lado E F cuyo rumbo",
+    "es N 9° 30′ 10″ E, mil cuatrocientos sesenta y nueve"
+   ],
+   "interpretacion": "Lotes en AEFD: 1.º Cármen 175,7643 + 41,2424 = 217 ha 00 a 67 ca; 2.º Sandalia 175-76-43; 3.º Elvira [?] Iriarte 131-82-32; 4.º Benicia 175-76-43; suma 700 ha 35 a 85 ca (verificado). Lote de Cármen junto a María Duffy de Kelly: parte del mojón E, a 1479 m del esquinero A (el texto dice «Sudoeste» por SE), y sube por E-F N 9° 30′ 10″ E 1469,83 m."
+  },
+  {
+   "titulo": "Folio 7 · lote de Cármen AEGH",
+   "img": "img/f/185/18.jpg",
+   "fuente": "IMG_0915.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "metros, ochenta y tres centímetros (1469 m 83), donde",
+    "colocamos el mojón G, esquinero Noroeste del lote.",
+    "Desde G, con rumbo S 80° 42′ E, medimos, mil",
+    "cuatrocientos setenta y tres metros, ochenta y un",
+    "centímetros (1473 m 81) hasta encontrar el lado D A,",
+    "donde colocamos el mojón H, esquinero Noreste",
+    "del lote; á los 530 m 30 y 1077 m 50, colocamos dos",
+    "mojones de línea. ______________",
+    "El mojón H, resultó distar mil cuatrocientos",
+    "sesenta y nueve metros, ochenta y tres centímetros",
+    "(1469 m 83) del mojón A, siendo el rumbo del lado",
+    "H A, S 9° 18′ O. ______________",
+    "Superficie. La superficie del lote A E G H",
+    "es de (217 ha 00 a 67 ca) doscientas diez y siete",
+    "hectáreas, sesenta y siete centiáreas. ________",
+    "En el plano hemos dividido por la línea N M, dicho",
+    "lote en dos fracciones, la que corresponde á la S.ra",
+    "Cármen M. Gomez por herencia de D.ña Juana Acuña de",
+    "Monsalvo —la A E M N—; y la que le corresponde de la",
+    "sucesión de José Monsalvo —la N M G H—. ________",
+    "Dicha línea N M, limita también el campo de la",
+    "sucesión ó sea la del cuadrilátero N M F D; no la"
+   ],
+   "interpretacion": "En G (NO del lote) gira S 80° 42′ E 1473,81 m hasta H, sobre D-A, con mojones de línea a 530,30 y 1077,50 m; H dista 1469,83 m de A. Superficie AEGH = 217 ha 00 a 67 ca (verificado por coordenadas: 217,0064 ha). En el plano la línea N-M separa la parte materna de Cármen (AEMN, 41,2424 ha) de su parte en la sucesión (NMGH); esa línea no se trazó en el terreno «pues no tenía objeto»."
+  },
+  {
+   "titulo": "Folio 7 vuelto · linderos de Cármen; el CAMINO VECINAL tuerce la división",
+   "img": "img/f/185/19.jpg",
+   "fuente": "IMG_0916.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "hemos trazado en el terreno, pues no tenía objeto.",
+    "Linderos. Los linderos de este lote son:",
+    "al Norte, la S.ra Sandalia M. Castro; al Este,",
+    "Juan Mulvihill; al Sud, María Duffy de Kelly",
+    "y al Oeste, Gregorio Castro. ____________",
+    "2.º Lote de la Señora Sandalia Monsalvo de Castro.",
+    "Según la cláusula 3.ª del convenio, á continua-",
+    "ción de este lote debemos ubicar el de la S.ra San-",
+    "dalia M. Castro. ______________",
+    "Hubiera sido nuestro deseo limitar dicho lote por",
+    "un lado paralelo á G H; pero como existe un camino",
+    "vecinal que atraviesa el campo oblicuamente,",
+    "hubiesen quedado dos fracciones de campo muy",
+    "pequeñas, entre la línea divisoria á trazarse y",
+    "el camino, por lo que preferimos, dejar el camino",
+    "de un solo lado de la línea divisoria, dando á ésta",
+    "cierta inclinación. ______________",
+    "Al efecto, partimos del mojón esquinero G, Noroeste",
+    "del lote de Cármen Gomez, Sudoeste del de Sandalia",
+    "Castro; según ya vimos, dicho mojón dista de H.",
+    "mil cuatrocientos setenta y tres metros, ochenta y un"
+   ],
+   "interpretacion": "Linderos del lote de Cármen: N Sandalia M. Castro, E Juan Mulvihill, S María Duffy de Kelly, O GREGORIO CASTRO. Lote de Sandalia: «hubiera sido nuestro deseo» limitarlo por un lado paralelo a G-H, pero un CAMINO VECINAL atraviesa el campo oblicuamente y habrían quedado dos fracciones muy pequeñas entre la divisoria y el camino; «preferimos dejar el camino de un solo lado», dando a la línea «cierta inclinación». Parte de G."
+  },
+  {
+   "titulo": "Folio 8 · lote de Sandalia HGIJ",
+   "img": "img/f/185/20.jpg",
+   "fuente": "IMG_0916.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "centímetros (1473 m 81), siendo el rumbo del lado H G",
+    "N 80° 42′ O. ______________",
+    "Desde G, medimos, sobre el lado G F, de rumbo N 9° 30′ 10″ E",
+    "mil cincuenta y dos metros, setenta y siete centímetros",
+    "(1052 m 77) hasta encontrar el alambrado del camino",
+    "donde colocamos el mojón I, esquinero Noroeste de",
+    "este lote. ______________",
+    "Desde I, con rumbo N 88° 24′ 15″ E, medí mil",
+    "cuatrocientos noventa y siete metros, ocho centímetros",
+    "(1497 m 08) hasta encontrar el lado D A, colocando en",
+    "dicho punto un mojón J, esquinero Noreste de este",
+    "lote; á los 915 m 60 coloqué un mojón de línea.",
+    "El mojón J, resultó distar mil trescientos, treinta",
+    "y cinco metros, setenta y seis centímetros (1335 m 76)",
+    "del mojón H, siendo el rumbo de J H, S 9° 18′ O.",
+    "Superficie. La superficie de este lote H G I J,",
+    "resultó ser de ciento setenta y cinco hectáreas,",
+    "setenta y seis áreas, cuarenta y dos centiáreas",
+    "(175 ha 76 a 42 ca). ______________",
+    "Linderos. Los linderos de este lote son: al Norte",
+    "Elvira [?] Iriarte de Monsalvo; al Este, Juan Mulvihill;",
+    "al Sud, Cármen M. Gomez; y al Oeste Gregorio Castro."
+   ],
+   "interpretacion": "Desde G, sobre G-F (N 9° 30′ 10″ E) 1052,77 m «hasta encontrar el ALAMBRADO DEL CAMINO»: mojón I. Desde I, N 88° 24′ 15″ E 1497,08 m hasta D-A: mojón J (mojón de línea a 915,60 m). J-H 1335,76 m, S 9° 18′ O. Superficie 175 ha 76 a 42 ca (verificado: 175,7642 ha). Linderos: N la viuda, E Mulvihill, S Cármen, O Gregorio Castro."
+  },
+  {
+   "titulo": "Folio 8 vuelto · lote de la viuda: el camino y los alambrados",
+   "img": "img/f/185/21.jpg",
+   "fuente": "IMG_0917.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "3.º Lote de Elvira [?] Iriarte de Monsalvo.",
+    "A continuación del lote de la S.ra Sandalia M. Castro,",
+    "ubicamos, de acuerdo con la cláusula 4.ª del convenio,",
+    "el de la S.ra Elvira [?] Iriarte de Monsalvo.",
+    "Partimos del mojón esquinero I, Sudoeste de este",
+    "lote y que, según ya vimos, dista mil cuatrocientos",
+    "noventa y siete metros 8/100 de J, siendo el rumbo de",
+    "J I, S 88° 24′ 15″ O. ______________",
+    "Desde I, medimos sobre I F con rumbo N 9° 30′ 10″ E.",
+    "mil treinta y nueve metros, cuarenta y nueve centí-",
+    "metros (1039 m 49) colocando un mojón K, esquinero",
+    "Noroeste de éste; á los 28 m 60 encontramos el alambrado",
+    "Norte del camino vecinal cuya progresiva desde el mo-",
+    "jón E es 2551 m 20; á los 671 m (progresiva 3193 m 60) el",
+    "alambrado que divide las propiedades de los linderos",
+    "Gregorio Castro, y José Clock. ______________",
+    "Desde K y con rumbo S 80° 42′ E. medí mil",
+    "cuatrocientos sesenta y seis metros, cuarenta y tres",
+    "centímetros (1466 m 43) hasta encontrar el lado D A, colo-",
+    "cando en dicho punto el mojón L, esquinero Noreste",
+    "de este lote; á los 948 m 45, coloqué un mojón de",
+    "línea. ______________"
+   ],
+   "interpretacion": "Lote de Elvira [?] Iriarte: desde I, N 9° 30′ 10″ E 1039,49 m hasta K. A 28,60 m el ALAMBRADO NORTE del camino vecinal (progresiva 2551,20 m desde E) y a 671 m (progresiva 3193,60) el ALAMBRADO que divide las propiedades de GREGORIO CASTRO y JOSÉ CLOCK (verificado: 1469,83 + 1052,77 + 28,60 = 2551,20). Desde K, S 80° 42′ E 1466,43 m hasta L sobre D-A, con mojón de línea a 948,45 m."
+  },
+  {
+   "titulo": "Folio 9 · superficie de la viuda; lote de Benicia",
+   "img": "img/f/185/22.jpg",
+   "fuente": "IMG_0917.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "El mojón L, resultó distar setecientos cincuenta y",
+    "seis metros, cincuenta centímetros (756 m 50) de",
+    "J, siendo el rumbo de L J de S 9° 18′ O.; á los",
+    "552 m 19 y 586 m 39 de L, encontramos los alambrados del",
+    "camino vecinal, cuyas progresivas desde el mojón D",
+    "son 1752 m 50 y 1786 m 70, respectivamente. ________",
+    "Superficie. La superficie del lote J I K L,",
+    "perteneciente á la S.ra Elvira [?] Iriarte de Monsalvo",
+    "resultó ser de ciento treinta y una hectáreas,",
+    "ochenta y dos áreas, treinta y nueve centiáreas",
+    "(131 ha 82 a 39 ca). ______________",
+    "Linderos. Los linderos de este lote son:",
+    "al Norte, Benicia M. de Clock, al Este, Juan",
+    "Mulvihill; al Sud, Sandalia Monsalvo de Castro,",
+    "al Oeste, Gregorio Castro y José Clock. ________",
+    "4.º Lote de la S.ra Benicia Monsalvo de Clock.",
+    "Este lote, vino á quedar de hecho ubicado en la",
+    "cabecera Norte del campo de la sucesión, de acuerdo",
+    "con la cláusula 5.ª del convenio. ____________",
+    "El mojón esquinero Sudoeste K, según ya vimos, dista",
+    "mil cuatrocientos sesenta y seis metros cuarenta y tres"
+   ],
+   "interpretacion": "L dista 756,50 m de J; a 552,19 y 586,39 m de L los alambrados del camino vecinal (progresivas 1752,50 y 1786,70 desde D, verificado). Superficie JIKL 131 ha 82 a 39 ca (coordenadas: 131,8235). Linderos: N Benicia M. de Clock, E Mulvihill, S Sandalia, O Gregorio Castro y José Clock. 4.º lote, Benicia: queda «de hecho» en la cabecera N, según la cláusula 5.ª."
+  },
+  {
+   "titulo": "Folio 9 vuelto · lote de Benicia LKFD",
+   "img": "img/f/185/23.jpg",
+   "fuente": "IMG_0918.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "centímetros (1466 m 43) del mojón L, siendo el rumbo",
+    "del lado L K, N 80° 42′ E [sic: O]. ______________",
+    "El mojón K, resultó distar del mojón F esquinero",
+    "Noroeste, mil doscientos metros, treinta y un centí-",
+    "metros (1200 m 31), siendo el rumbo de K F, N 9° 30′ 10″ E.",
+    "El lado F D, según ya vimos, mide mil cuatrocientos",
+    "sesenta y dos metros veinte centímetros (1462 m 20),",
+    "siendo su rumbo S 80° 42′ E; á los 453 m 30 existe",
+    "un mojón de línea. ______________",
+    "El lado D L, resultó tener mil doscientos metros",
+    "treinta y un centímetros (1200 m 31), siendo su",
+    "rumbo S 9° 18′ O; á los 778 m 70 encontré un",
+    "mojón y un alambrado divisorio de las propiedades",
+    "de los linderos, Luis Cané y Juan Mulvihill.",
+    "Superficie. La superficie del lote L K F D.",
+    "de Benicia M. Clock, resultó ser de ciento setenta",
+    "y cinco hectáreas, setenta y seis áreas, treinta y",
+    "siete centiáreas (175 ha 76 a 37 ca). ____________",
+    "Linderos. Los linderos son: al Norte, Juan",
+    "Megoey; al Este, Luis Cané y Juan Mulvihill",
+    "al Sud Elvira [?] Iriarte de Monsalvo, y al Oeste,",
+    "José Clock. ______________"
+   ],
+   "interpretacion": "K está a 1466,43 m de L (el texto da el rumbo L-K «N 80° 42′ E» por O) y a 1200,31 m de F. F-D 1462,20 m con mojón a 453,30 m; D-L 1200,31 m, con un mojón y el ALAMBRADO DIVISORIO entre LUIS CANÉ y JUAN MULVIHILL a 778,70 m. Superficie 175 ha 76 a 37 ca (coordenadas: 175,7632). Linderos: N Megoey, E Cané y Mulvihill, S la viuda, O José Clock. Suma de los cuatro lotes = 700,3585 ha exactas."
+  },
+  {
+   "titulo": "Folio 10 · cierre y firma de Labarthe",
+   "img": "img/f/185/24.jpg",
+   "fuente": "IMG_0918.JPG (mitad derecha)",
+   "nota": "El acta firmada por los linderos no está copiada en el duplicado.",
+   "lineas": [
+    "Con esto, di por terminado el mandato que me",
+    "confirió V. S.",
+    "Estando conformes todos los linderos, con la",
+    "operación efectuada por el que suscribe, en",
+    "prueba de ello, firmaron el acta adjunta.",
+    "J. Labarthe [rúbrica]",
+    "[resto de la página en blanco, inutilizado con una gran rúbrica en «S»]"
+   ],
+   "interpretacion": "«Con esto, di por terminado el mandato que me confirió V. S. Estando conformes todos los linderos, con la operación efectuada [...] firmaron el ACTA ADJUNTA». Firma «J. Labarthe». El resto de la página está inutilizado con una gran rúbrica en «S»."
+  },
+  {
+   "titulo": "Folio 10 vuelto · informe del Departamento de Ingenieros (5/12/1902)",
+   "img": "img/f/185/25.jpg",
+   "fuente": "IMG_0919.JPG (mitad izquierda)",
+   "nota": "Mismos firmantes que en 181-184 (Mayer [?], Sal, Ringuelet [?]).",
+   "lineas": [
+    "Señor Juez:",
+    "El Departamento de Ingenieros ha exa-",
+    "minado la diligencia de mensura y división prac-",
+    "ticada por el Ingeniero Julio Labarthe de un cam-",
+    "po situado en el partido de San Andrés de Giles,",
+    "perteneciente á la sucesión de José E. Monsalvo y",
+    "la encuentra en condiciones de ser aprobada por V. S.",
+    "La división se hizo según lo establecido en",
+    "autos.",
+    "La Plata, Diciembre 5 de 1902",
+    "T. Mayer [?] [rúbrica] Benjamín Sal [rúbrica]",
+    "Arturo González [rúbrica] J. Ringuelet [?] [rúbrica]",
+    "[al pie, a lápiz:] 175 [?]"
+   ],
+   "interpretacion": "El Departamento de Ingenieros examinó la diligencia del «Ingeniero Julio Labarthe» y la encuentra en condiciones de ser aprobada; «la división se hizo según lo establecido en autos». La Plata, 5 de diciembre de 1902. Firmas: T. Mayer [?], Benjamín Sal, Arturo González [?] y J. Ringuelet [?]."
+  },
+  {
+   "titulo": "Folio 11 · planilla de coordenadas (mitad izquierda)",
+   "img": "img/f/185/26.jpg",
+   "fuente": "IMG_0919.JPG (mitad derecha)",
+   "nota": "Sólo se fotografió la mitad izquierda de la planilla.",
+   "lineas": [
+    "[Hoja plegable; sólo está fotografiada su mitad izquierda: el título y las columnas de coordenadas totales y superficies quedan en el pliegue no fotografiado.]",
+    "Planilla del cálculo de [superficies ?]",
+    "Vértices | Lados | Ángulos en los vértices | Ángulos c/ el lado A D | Coordenadas parciales corregidas Δx (+ / −) | Δy (+ / −) | Coord[enadas totales] (+ …)",
+    "Polígono [H G I J]",
+    "H | | 270 | | 0 / 0 | 0 / 0 | 0",
+    " | 1473.81 | | 270°",
+    "G | | 270-12-10 | | 0 / 0 | — / 1473.81 | 0",
+    " | 1052.77 | | 0°12-10",
+    "I | | 258-54-5 | | 1052.77 / — | 3.71 / — | 1052.77",
+    " | 1497.08 | | 79°6-15",
+    "J | | 280-53-45 | | 282.99 / — | 1470.10 / — | 1335.76",
+    " | 1335.76 | | 180°",
+    "H | | | | — / 1335.76 | — / — | 0",
+    "Polígono [J I K L]",
+    "J | | 259°6-15 | | 0 / 0 | 0 / 0 | 0",
+    " | 1497.08 | | 259°6-15",
+    "I | | 281-5-55 | | — / 282.99 | — / 1470.10 | —",
+    " | 1039.49 | | 0°12′-10",
+    "K | | 269°47-50 | | 1039.49 / — | 3.67 / — | 756.50",
+    " | 1466.43 | | 90°",
+    "L | | 270°0 | | 0 / 0 | 1466.43 / — | 756.50",
+    " | 756.50 | | 180°",
+    "J | | - | | — / 756,50 | 0 / 0 | 0",
+    "Polígono [L K F D]",
+    "L | | 270° | | 0 / 0 | 0 / 0 | 0",
+    " | 1466.43 | | 270°",
+    "K | | 270°12-10 | | 0 / 0 | — / 1466.43 | 0",
+    " | 1200,31 | | 0°12′-10",
+    "F | | 269°47-50 | | 1200,31 / — | 4.23 / — | 1200.31",
+    " | 1462.20 | | 90°",
+    "D | | 270° | | 0 / 0 | 1462.20 / — | 1200,31",
+    " | 1200.31 | | 180°",
+    "L | | | | — / 1200,31 | 0 / 0 | 0"
+   ],
+   "interpretacion": "Hoja plegable con la «Planilla del cálculo de [superficies]»: para los polígonos HGIJ, JIKL y LKFD, vértices, lados, ángulos en los vértices y con el lado A-D, coordenadas parciales corregidas Δx/Δy y coordenadas totales. Eje x sobre A-D. Recalculadas en python dan 175,7642, 131,8235 y 175,7632 ha. La mitad derecha (dobles áreas) queda plegada; asoma en el borde de IMG_0920 (productos 3,71 × 1052,77, 1470,10 × 2382,53 y resultados 175 ha 7642, 131 ha 8235, 175 ha 7632)."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano «Campo de la sucesión de José E. Monsalvo» (Labarthe, nov. 1902)",
+   "img": "img/f/185/03.jpg",
+   "fuente": "IMG_0920.JPG (vista general; detalles IMG_0921-0923)",
+   "orientacion": "Norte hacia la DERECHA: flechas N. V. y N. M. con un ángulo de ≈ 8° anotado a lápiz; el largo del campo (N 9° 30′ E) corre horizontal",
+   "interpretacion": "Plano en tela, con título en capitales: «Campo de la sucesión de José E. Monsalvo en el partido de San Andrés de Giles · Superficie NMFDN = 659 ha 11 a 61 c · Escala 1:10000», firmado «Mercedes, Noviembre de 1902 · J. Labarthe, Ing. civil». El rectángulo ABCD queda dividido por la línea E-F: arriba (O) la faja de GREGORIO CASTRO y JOSÉ CLOCK (sin división interior dibujada, salvo una línea de puntos en la progresiva 3194,95 / 3193,60 que marca su alambrado); abajo (E), los cuatro lotes, de izquierda (S, María Duffy de Kelly) a derecha (N, Juan Megoey): Cármen Monsalvo de Gómez (AEMN 41,2424 + NMGH 175,7643 = AEGH 217,0067 ha), Sandalia Monsalvo de Castro (HGIJH 175,7642), Elvira Iriarte viuda de Monsalvo (JIKLJ 131,8239) y Benicia Monsalvo de Clock (LKFDL 175,7637). El CAMINO VECINAL, a doble línea de puntos, entra por I y sale cerca de J, y la divisoria I-J (N 88° 24′ 15″ E 1497,08 m) se tuerce para acompañarlo. Progresivas al milímetro sobre cada lado y la marca «m. m.» (mojón de madera). Linderos rotulados: María K. de Belson (O), Juan Mulvihill y Luis Cané (E). A lápiz, cuentas de archivo («123 h 74 27», «1200 4/35») y fechas «2/3/903 [?]».",
+   "referencias": [
+    [
+     "A · B · C · D",
+     "Esquineros SE, SO, NO y NE del campo de 2000 × 5500 varas"
+    ],
+    [
+     "E · F",
+     "Extremos de la línea que separa la faja de 300 v de Francisco, Benicia y Sandalia (hoy Castro y Clock)"
+    ],
+    [
+     "M · N",
+     "Línea interna (no amojonada) entre la parte materna de Cármen y su parte en la sucesión"
+    ],
+    [
+     "G · H · I · J · K · L",
+     "Mojones de las divisorias de los cuatro lotes"
+    ],
+    [
+     "Camino vecinal",
+     "Cruza oblicuo los lotes de Sandalia y de la viuda, entre alambrados"
+    ],
+    [
+     "N. V. / N. M.",
+     "Norte verdadero y norte magnético, ≈ 8° entre ambos"
+    ],
+    [
+     "Escala",
+     "1:10000"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: lote de Cármen Monsalvo de Gómez y línea M-N",
+   "img": "img/f/185/04.jpg",
+   "fuente": "IMG_0921.JPG (y IMG_0922)",
+   "orientacion": "como el plano general",
+   "interpretacion": "Ampliación del extremo S: la línea A-B (N 80° 42′ O, AD 1738,80 · AE 1479,00), la línea de puntos M-N con EM = 278,945 m y MG = 1190,885 m (suma 1469,83, verificado), las tres superficies del lote de Cármen y los lados GH 1473,81 y JH 1335,76 m. A la izquierda asoma la parte plegada de la planilla de coordenadas con las dobles áreas.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: el camino vecinal, la viuda y Benicia; flechas de norte",
+   "img": "img/f/185/05.jpg",
+   "fuente": "IMG_0923.JPG",
+   "orientacion": "como el plano general",
+   "interpretacion": "Extremo N: el camino vecinal entre I y J, los lotes JIKL y LKFD, el mojón de madera de 3362 m sobre B-C, la línea de puntos de la progresiva 3194,95 (alambrado Castro-Clock), las flechas N. V. y N. M. con el ángulo de 8° y el lindero Juan Megoey.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "En 1902 el campo es un paisaje cerrado por alambres: el alambrado del camino vecinal (con su lado Norte y Sur), el que separa a Gregorio Castro de José Clock dentro de la faja de 300 varas, y el que divide a Luis Cané de Juan Mulvihill al E. El único rasgo no parcelario es el CAMINO VECINAL que cruza en diagonal (≈ 30 m entre alambrados medidos en oblicuo): es un camino anterior a la división, que la geometría debe respetar. No se citan aguas, montes ni poblaciones: ninguna casa condiciona las líneas, a diferencia de 146."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "La división no la decide el agrimensor: la fija un CONVENIO entre los herederos aprobado por el juez y transcripto al comienzo (cinco cláusulas con el orden de los lotes, de S a N). Labarthe agrega dos decisiones propias: hacer la parte materna de Cármen igual a un tercio de lo que de hecho poseen sus hermanos («estricta igualdad») y torcer la divisoria de Sandalia para no dejar retazos entre la línea y el camino. Edictos en «La Ley» y «El Derecho» de Mercedes, citación de linderos y un acta firmada por todos ellos «conformes» (no copiada). La línea M-N «no tenía objeto» en el terreno: una división sólo de papel entre dos derechos de la misma persona."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos al segundo (N 9° 30′ 10″ E, N 88° 24′ 15″ E), distancias al centímetro, progresivas acumuladas desde E y desde D, y una planilla de coordenadas parciales y totales con el eje x sobre A-D (técnica nueva en el corpus de Giles: cálculo analítico de áreas por dobles áreas). Verificado en python: perímetro ABCD cierra a 6 cm y da 824,0936 ha (texto 824,0857); lotes por coordenadas 217,0064 / 175,7642 / 131,8235 / 175,7632 ha; suma de los cuatro = 700,3585 ha exactas. Errores del texto: faltante «86 a 95 ca» por 86 a 59; «Sudoeste» por Sudeste en A; rumbo L-K «N 80° 42′ E» por O; la cuota de Sandalia corregida de 43 a 42 centiáreas para cerrar la suma. Lados opuestos no paralelos (B-C N 9° 30′ 10″ E y D-A S 9° 18′ O): el «rectángulo» es un cuadrilátero."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Los títulos siguen en varas cuadradas (16 500 000, 11 000 000, 5 500 000 v²; 300 × 5500 v) y Labarthe las convierte con 0,866² (12 374 274; 8 249 516; 4 124 758 m², verificados). El campo es 2000 × 5500 varas (1732 × 4763 m: medido 1738,80/1722 × 4762,40). La faja de Cármen era de 100 varas = 86,66 m «por todo el fondo»: el modelo colonial de fajas de frente por fondo se sustituye por bloques transversales de superficie equivalente, igual que en 146. Las superficies se expresan en ha, a y ca."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena: Fernando Monsalvo lega 16 500 000 v² (1873) a José y a sus hijos Francisco y Crecencio, 5 500 000 v² cada uno; Francisco vende su tercio a Pablo Bustos (1879, ficha 100); Crecencio muere intestado (1879) y lo heredan sus padres José y Juana Acuña; muerta Juana (1884), su mitad se reparte en cinco partes (cuatro hijos y el viudo, 412 475,8 m² cada una, verificado); muere José (1886), con segunda esposa Elvira Iriarte; muere Francisco hijo (1892). Entre 1886 y 1902 los hijos ocuparon de hecho: Francisco, Benicia y Sandalia separaron 300 varas al O, que en 1902 explotan los maridos (Gregorio Castro y José Clock) con alambrado propio. La división formal llega 16 años después de la muerte de José y la ocupación precede al título."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "066 (Schuster 1874: polígono de Fernando Monsalvo con fondo N 80° 42′ O contra los herederos de Kelly, el mismo rumbo del lado A-B de 185; reparto entre José, Crecencio y Francisca (¿Francisco?) Monsalvo); 100 (Pablo Bustos 1879: tercio de Francisco Monsalvo, 1000 × 5500 v = 412,48 ha, misma profundidad de 5500 v; «muerte intestada de Crecencio»); 153 (Kelly 1889: el frente N contra Monsalvo ya es de Belson, Sandalia M. de Castro y Mulvihil; María Duffy de Kelly); 159 (Butterfill 1891: linderos Belson, «Monsalvo de Cloke» = Benicia M. de Clock, Mulvihill y Luis Cané); 037 (Fremiot 1866, campos de Fernando Monsalvo y Acuña); 170-171 (Jorge Belson). Firmantes del D. I. como en 181-184 (Mayer [?], Sal, Ringuelet [?])."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Faltan el acta de los linderos, el convenio completo, el croquis de fs. 169, el auto de aprobación y la mitad derecha de la planilla. No se nombra al juez (juzgado de Mercedes). Lecturas dudosas: el nombre de la viuda (Elvira / Elvia), el mes de la declaratoria de 1886 (mayo [?]) y dos firmas del D. I. ¿Es «Juan Megoey» un McGoey irlandés? ¿Es «María K. de Belson» la viuda de Jorge Belson (170-171)? Para el GIS: el lado A-B coincide con el fondo N 80° 42′ O de 066 y la línea de Kelly de 153; el camino vecinal oblicuo podría identificarse en la cartografía catastral posterior."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "José E. Monsalvo",
+   "rol": "Causante",
+   "texto": "Hijo o pariente de Fernando Monsalvo, legatario en 1873 de un tercio de 16 500 000 v²; casado en primeras nupcias con Juana Acuña (†1884) y luego con Elvira [?] Iriarte; murió hacia 1886. Hijos: Francisco (†1892), Crecencio (†1879), Benicia, Sandalia y Cármen.",
+   "fuentes": "Este duplicado; fichas 066, 100."
+  },
+  {
+   "nombre": "Fernando Monsalvo",
+   "rol": "Testador",
+   "texto": "Gran propietario de la familia Monsalvo del Monte de los Gallegos; su testamentaría fue medida y dividida por Carlos Schuster en 1873-1874 (ficha 066); legó en condominio 16 500 000 v² a José Monsalvo y sus hijos Francisco y Crecencio.",
+   "fuentes": "Fichas 037, 066, 100; este duplicado."
+  },
+  {
+   "nombre": "Juana Acuña de Monsalvo",
+   "rol": "Primera esposa",
+   "texto": "Muerta antes del 20/11/1884; heredó con su marido a su hijo Crecencio. Probablemente de la familia Acuña lindera del campo Monsalvo (037, 065).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Elvira [?] Iriarte de Monsalvo",
+   "rol": "Viuda, heredera",
+   "texto": "«Segunda esposa del finado»; recibe un quinto de la sucesión, 131 ha 82 a 39 ca, entre Sandalia y Benicia, cruzado por el camino vecinal.",
+   "fuentes": "Este duplicado; plano."
+  },
+  {
+   "nombre": "Cármen Monsalvo de Gómez, Sandalia Monsalvo de Castro y Benicia Monsalvo de Clock",
+   "rol": "Hijas, herederas",
+   "texto": "Cármen recibe 217 ha junto a Kelly (parte materna + quinto + tercio de Francisco). Sandalia, casada con Gregorio Castro, y Benicia, casada con José Clock (en 159 «Monsalvo de Cloke»), ya tenían con Francisco una faja de 300 varas alambrada y lindera; reciben 175,76 ha cada una.",
+   "fuentes": "Este duplicado; fichas 153, 159."
+  },
+  {
+   "nombre": "Francisco y Crecencio Monsalvo",
+   "rol": "Hijos fallecidos",
+   "texto": "Legatarios de Fernando Monsalvo en 1873. Francisco vendió su tercio a Pablo Bustos (1879, ficha 100) y murió en 1892; Crecencio murió intestado en 1879.",
+   "fuentes": "Este duplicado; ficha 100."
+  },
+  {
+   "nombre": "Gregorio Castro y José Clock",
+   "rol": "Linderos o, yernos",
+   "texto": "Maridos de Sandalia y Benicia; ocupan la faja de 300 v al O de la línea E-F, divididos entre sí por un alambrado (progresiva 3193,60 m).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Juan Megoey, Luis Cané, Juan Mulvihill, María Duffy de Kelly, María K. de Belson",
+   "rol": "Linderos",
+   "texto": "Megoey (N), primera aparición. Luis Cané (E), heredero del lote de 421,85 ha de la testamentaría de Mercedes de la Torre de Butterfill (159). Juan Mulvihill (E), irlandés ya lindero en 153 y 159. María Duffy de Kelly (S), viuda de Kelly con hijuela en 153. María K. de Belson (O), «viuda» en el texto: probablemente de Jorge Belson (170-171).",
+   "fuentes": "Fichas 153, 159, 170, 171."
+  },
+  {
+   "nombre": "Julio Labarthe",
+   "rol": "Ingeniero civil",
+   "texto": "Ingeniero civil con sede en Mercedes, perito judicial en 1902; firma «J. Labarthe, Ing. civil». Primera aparición en el corpus de Giles. Trabajo de estilo moderno: planilla de coordenadas, progresivas, plano impreso a escala 1:10000. Sin datos biográficos verificados en la web.",
+   "fuentes": "Este duplicado; búsqueda web 19/11/2026 sin resultados útiles."
+  },
+  {
+   "nombre": "T. Mayer [?], Benjamín Sal, Arturo González [?], J. Ringuelet [?]",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firmantes del informe del 5/12/1902. Sal, Mayer [?] y Ringuelet [?] firman también en 181-184; Arturo González [?] aparece por primera vez.",
+   "fuentes": "Fichas 181-184."
+  },
+  {
+   "nombre": "Carlos Schuster y Pablo Bustos",
+   "rol": "Agrimensor anterior y comprador",
+   "texto": "Schuster dividió la testamentaría de Fernando Monsalvo (1873) y midió la parte de Francisco vendida a Pablo Bustos (1879).",
+   "fuentes": "Fichas 066, 100."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/185/02.jpg",
+  "fuente": "IMG_0908.JPG",
+  "lineas": [
+   "– S.n Andrés de Giles –",
+   "N.º 185",
+   "Duplicado",
+   "de la",
+   "Mensura y división",
+   "del campo de la",
+   "Sucesión José E. Monsalvo",
+   "en el",
+   "Partido de San Andrés de Giles",
+   "[a lápiz] Ing.ro Julio Labarthe",
+   "9.168.134.",
+   "[sellos] Geodesia Catastro y Mapa · Archivo · F.º 12 · XIII-11-1927"
+  ]
+ },
+ "titulo": "Suc. José E. Monsalvo",
+ "estado": "Transcripta (21 hojas, 443 renglones), 3 láminas"
+}

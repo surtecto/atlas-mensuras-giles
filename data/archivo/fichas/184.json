@@ -1,0 +1,889 @@
+{
+ "carpeta": "184",
+ "carpeta_nombre": "Carpeta 184",
+ "archivo": "Ficha 184 - Suc. Catalina W. de Carry (1900).docx",
+ "resumen": {
+  "N.º de duplicado": "184 (Partido de San Andrés de Giles)",
+  "Propietario / solicitante": "Suc. Catalina Whelan de Carry",
+  "Agrimensor": "Wenceslao Castellanos",
+  "Año": "1900",
+  "Fecha de la diligencia": "Cargo 15/9/1899; firma jun. 1900; D. I. 24/7/1900; aprob. 28/8/1900",
+  "Ubicación": "Cabezadas del Luján, entre Unzué, Culleton, Frías y Gannon",
+  "Orden judicial": "Juez Civil y Com. del Dto. del Centro (Mercedes) Dr. Nicolás Savio",
+  "Vendedor / antecesor": "M. Duggan 1869 (ex Bernal); I. Cucullu 1875; J. Gómez de Frías 1872",
+  "Linderos citados": "her. de Culleton, S. J. Unzué, Patricio Gannon, Justa Gómez de Frías",
+  "Medidas": "A-B 1732; B-C 2876; C-E 866; E-F 42,80; F-D 864,20; D-A 2890,80 m",
+  "Rumbos": "N 45° 30′ E / S 44° 10′ E; S 46° 21′ O; S 41° 22′ E; S 46° 30′ O",
+  "Referencia de archivo": "AHG PBA, duplicado 184; plano reconstruido La Plata, feb. 1933"
+ },
+ "metricas": {
+  "superficie_ha": "499,4791",
+  "hitos": "mojones de fierro, piedra (B) y palo; 7 lotes con mojones a-k",
+  "aguas": "ninguna citada"
+ },
+ "sintesis": "Mensura y división de la sucesión de Catalina Whelan, viuda del irlandés Gerónimo Carry. Castellanos mide en 1899-1900 un hexágono de 499,48 ha en las cabezadas del Luján, armado con la compra de Gerónimo a Duggan (1869, 2000 × 3000 v, ex testamentaría Bernal) y dos de la viuda a Cucullu (1875) y Justa Gómez de Frías (1872). Antes de medir rehace la partición de Gerónimo (nueve hijos, puestos, cercos, bebidas, 369 ovejas) y halla sus errores. Divide en cinco lotes de 87,21 ha y dos de 31,71 ha según la doble herencia paterna y materna; poblaciones y alambrados se tasan aparte. Ningún lindero concurre. Faltan 2,99 ha respecto de los títulos. El Departamento objeta que los papeles dicen «Pilar» y «Kuelly»; Savio aprueba en agosto de 1900. El plano se dibujó recién en 1933.",
+ "caratula": {
+  "img": "img/f/184/01.jpg",
+  "fuente": "IMG_0891.JPG",
+  "campos": [
+   [
+    "N.º",
+    "184"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Catalina W. de Carry"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Wenceslao Castellanos"
+   ],
+   [
+    "Año",
+    "1900"
+   ],
+   [
+    "Juzgado / Secretaría",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · extracto de títulos: Duggan a Gerónimo Carry (1869), Cucullu (1875) y Frías (1872)",
+   "img": "img/f/184/07.jpg",
+   "fuente": "IMG_0893.JPG",
+   "nota": "Hoja suelta fotografiada acostada; se lee girada 90°. Al margen, a lápiz, «1872». «Fausta» aquí; en el resto del expediente y en el plano «Justa».",
+   "lineas": [
+    "Diligencia de mensura de los te-",
+    "rrenos propiedad de los Herederos de Doña",
+    "Catalina W. de Carry, situados en el partido",
+    "de San Andrés de Giles.",
+    "Extracto de títulos.",
+    "1869 – Diciembre 11. – En Buenos Aires, Dn. Miguel",
+    "Duggan vende á Dn. Gerónimo Carry un terreno situado",
+    "en San Andrés de Giles compuesto de 1732 m de frente",
+    "por 2598 m de fondo cuyos linderos son: al Norte con los",
+    "Herederos de Bustos; al Sud con el señor Bernal; al Este",
+    "con los mismos Herederos de Bustos, y por el Oeste Don",
+    "Mariano Alegre.",
+    "Don Miguel Duggan lo hubo por compra en venta",
+    "judicial en la ejecución seguida por Gonzalez contra",
+    "la Testamentaria de Don Ermenegildo Bernal.",
+    "1875 – Mayo 4 – En San Andrés de Giles, por ante el",
+    "Juez de Paz, Don Isidoro Cucullu vende á Doña Cata-",
+    "lina W. de Carry un terreno con una superficie de",
+    "650.000 varas cuad.s ó sean 487471 metros cuad.s teniendo",
+    "por linderos al Norte Bernardo Carry, al Sud Patricio Ga-",
+    "nnon, al Este con la compradora y al Oeste con los Here-",
+    "deros de Alegre. Esta escritura se ractificó ante el es-",
+    "cribano Doufour en 23 de Febrero de 1876.",
+    "[al margen, a lápiz, «1872»]",
+    "1872. Abril 1.º – En el Partido de Giles, D.a Fausta",
+    "Gomez de Frias, vende á D.a Catalina W. de Carry",
+    "un terreno de 43 m 30 de frente por 866 m, lo que hace",
+    "una superficie de 37497 metros cuadrados. Linda"
+   ],
+   "interpretacion": "Castellanos abre con el «Extracto de títulos». Título 1.º: el 11/12/1869, en Buenos Aires, MIGUEL DUGGAN vende a GERÓNIMO CARRY 1732 × 2598 m (= 2000 × 3000 varas exactas), con los herederos de Bustos al N y al E, el «señor Bernal» al S y Mariano Alegre al O; Duggan lo había comprado en venta judicial en la ejecución de González contra la testamentaría de Ermenegildo Bernal (el comprador de la franja NE de Echeverría, ficha 134). Título 2.º: el 4/5/1875, ante el juez de paz de Giles, ISIDORO CUCULLU vende a CATALINA W. DE CARRY 650 000 v² = 487 471 m² (verificado: 650 000 × 0,866² = 487 471 m²), entre Bernardo Carry (N), Patricio Gannon (S), la compradora (E) y los herederos de Alegre (O); ratificada ante el escribano Doufour el 23/2/1876. Título 3.º: el 1/4/1872 FAUSTA [JUSTA] GÓMEZ DE FRÍAS le vende una lonja de 43,30 × 866 m (50 × 1000 v) = 37 497 m²."
+  },
+  {
+   "titulo": "Folio 1 vuelto · linderos de Frías y la cuenta de partición de Gerónimo Carry",
+   "img": "img/f/184/08.jpg",
+   "fuente": "IMG_0894.JPG (mitad izquierda)",
+   "nota": "Las 6 700 000 v² incluyen las tres compras, también las dos hechas por la viuda.",
+   "lineas": [
+    "por el SudOeste con Patricio Gannon; por el NordOeste",
+    "con los Herederos de Gerónimo Carry, y por el SudEste y",
+    "NordEste con terrenos de la vendedora",
+    "———",
+    "En la cuenta de division y adjudicacion de los",
+    "bienes quedados por fallecimiento de Don Gerónimo",
+    "Carry, su haber testamentario asciende á 437920",
+    "pesos m/c, menos la partida 19 para gastos testa-",
+    "mentarios de 49.910 $ m/c, queda un total á repartir-",
+    "se en la forma siguiente:",
+    "A la viuda Catalina W. de Carry 1.93,955 $ m/c,",
+    "y á sus hijos Juan, Diego, Concepcion Elena, Geró-",
+    "nimo, Pío Pedro, María, Bernardo, Catalina y",
+    "Brígida, 21550 $ m/c con 4½ reales.",
+    "En las hijuelas correspondientes á los hijos",
+    "les adjudica las partidas siguientes:",
+    "1.º El establecimiento de campo en el Partido de",
+    "Giles compuesto de una area de 6.700.000 varas cua-",
+    "dradas igual á 502 h.s 47 a.s 05 c.s, el cual tiene por",
+    "linderos por el Norte con D.a Avelina Campos y Dn.",
+    "Bernardo Carry, por el Sud con Patricio Gannon; por",
+    "el Este Don Eustaquio Frias, y por el Oeste con los Here-",
+    "deros de Alegre, avaluado en 120.000 $ m/c.",
+    "2.º Poblacion, principal, galpon palomar y",
+    "pozo – – – – – – – 33.221 $ m/c",
+    "3.º Otra habitacion – – – 500 〃",
+    "4.º Arboles – – – 465 〃",
+    "5.º Muebles, loza etc. – – – 254 〃",
+    "6.º Un carro – – – 500 〃",
+    "Total 34.940 $ m/c"
+   ],
+   "interpretacion": "La lonja de Frías linda al SO con Patricio Gannon, al NO con los herederos de Gerónimo Carry y al SE y NE con la vendedora. Sigue la cuenta de división de los bienes de GERÓNIMO CARRY: haber 437 920 $ m/c, menos 49 910 de gastos (partida 19). A la viuda CATALINA W. DE CARRY 193 955 $; a cada uno de los NUEVE hijos (Juan, Diego, Concepción Elena, Gerónimo, Pío Pedro, María, Bernardo, Catalina y Brígida) 21 550 $ con 4 ½ reales. Verificado: 9 × 21 550,5625 = 193 955, la mitad gananciales exacta; pero 437 920 − 49 910 = 388 010 y no 387 910 (= 2 × 193 955): error de 100 $ en una de las dos cifras. Partida 1.ª de los hijos: el establecimiento de Giles de 6 700 000 v² = 502 ha 47 a 05 ca (verificado) avaluado en 120 000 $, entre Avelina Campos y Bernardo Carry (N), Gannon (S), Eustaquio Frías (E) y her. de Alegre (O). Partidas 2.ª a 6.ª: población principal, galpón, palomar y pozo 33 221 $; otra habitación 500; árboles 465; muebles y loza 254; un carro 500; total 34 940 (verificado)."
+  },
+  {
+   "titulo": "Folio 2 · las instalaciones del campo y la hacienda lanar",
+   "img": "img/f/184/09.jpg",
+   "fuente": "IMG_0894.JPG (mitad derecha)",
+   "nota": "Castellanos hace aquí trabajo de contador: rehace la partición antes de dividir la tierra.",
+   "lineas": [
+    "Del frente $ m/c 34940",
+    "7.º Cuatro puestos – – – – 1000",
+    "8.º Cercos – – – – 3624",
+    "9.º Alambres – – – – 450",
+    "10.º 200 listones de corrales – 3000",
+    "11.º 30 bebidas – – – – 1800",
+    "Total $ m/c 9874 —— 9874",
+    "12.º De esta partida se",
+    "le adjudica 369 ovejas",
+    "á $ 23 – – – – – – 7544",
+    "y en efectivo 45",
+    "———",
+    "Total de las partidas adjudicadas 172403 $ m/c",
+    "De estas partidas que no alcanza á cubrir el ha-",
+    "ber que le corresponde á los nueve herederos hijos,",
+    "el contador hace ocho partes de 21.550 $ m/c y 4½ reales",
+    "y adjudica nueve hijuelas lo que hace un total",
+    "de 193.995 $ m/c igual al haber. Revisando las parti-",
+    "das se encuentra que la diferencia está en la partida",
+    "12.ª, que segun el inventario y cuenta de particion",
+    "importa 259.256 $ m/c importe de la hacienda la-",
+    "nar. Esta partida se adjudica:",
+    "A Doña Catalina W. de Carry $ m/c 180251",
+    "Para gastos juridicos 49910",
+    "y entre los herederos hijos 29095",
+    "$ m/c 259.256",
+    "Y sin embargo en las hijuelas solo se ha distribuido",
+    "7.544 $ m/c de consiguiente habiendosele adjudicado",
+    "á los nueve herederos una parte en el campo y po-",
+    "blaciones, le corresponde á cada uno:",
+    "1.º La novena parte del campo avaluado en"
+   ],
+   "interpretacion": "Partidas 7.ª a 11.ª: cuatro PUESTOS 1000 $, CERCOS 3624, ALAMBRES 450, 200 LISTONES DE CORRALES 3000, 30 BEBIDAS 1800; total 9874 (verificado). Partida 12.ª: 369 OVEJAS «á $ 23» = 7544 $ (pero 369 × 23 = 8487; 7544 / 369 = 20,44 $: la cuenta no cierra con el precio declarado) y 45 $ en efectivo. Total adjudicado 172 403 $ (verificado: 120 000 + 34 940 + 9874 + 7544 + 45). El contador hizo OCHO partes de 21 550 $ 4 ½ r. (8 × 21 550,5625 = 172 404,5) pero adjudicó nueve hijuelas; Castellanos busca la diferencia en la partida 12.ª, la HACIENDA LANAR, que el inventario tasa en 259 256 $: a la viuda 180 251, gastos 49 910, a los hijos 29 095 (verificado). En las hijuelas sólo se distribuyeron 7544 $."
+  },
+  {
+   "titulo": "Folio 2 vuelto · la hijuela tipo y las cesiones a la madre (1882, 1889)",
+   "img": "img/f/184/10.jpg",
+   "fuente": "IMG_0895.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "la cantidad de 120000 $ m/c – – – – $ m/c 13.333,33",
+    "2.º La novena parte de 34.940 $",
+    "partidas del 2 al 6 – – – – – 〃 3.882,22",
+    "3.º La novena parte de la par-",
+    "tida 9872 $ (partida del 7 al 11 – – 〃 1.096,90",
+    "4.º La novena parte de los 29.095",
+    "parte de la partida 12.ª – – – – 〃 3.232,77",
+    "5.º En dinero efectivo – – – – 〃 5.33",
+    "Total igual al valor de",
+    "su hijuela – – – – – – – $ m/c 21.550. 4½",
+    "De estos herederos han fallecido Catalina",
+    "y Bernardo en vida de Doña Catalina W. de",
+    "Carry; y en Marzo 23 de 1882 la heredera D.a",
+    "Elena Concepcion Carry vende á su señora ma-",
+    "dre D.a Catalina W. de Carry la parte que le",
+    "corresponde como heredera de los bienes dejados",
+    "por su señor padre Dn. Gerónimo Carry; y el",
+    "heredero Pío Pedro el 8 de Octubre de 1889 vende",
+    "tambien la parte que le corresponde en los bienes",
+    "dejados por su señor padre, á su señora madre",
+    "D.a Catalina W. de Carry.",
+    "———",
+    "Por fallecimiento de D.a Catalina W. de Carry, sus",
+    "herederos proponen al agrimensor Wenceslao Caste-",
+    "llanos para que proceda á la mensura y division",
+    "del terreno de esta sucesion situado en el partido",
+    "de San Andrés de Giles.",
+    "En Setiembre quince de mil ochocientos noven-",
+    "ta y nueve el Señor Juez acepta el agrimensor"
+   ],
+   "interpretacion": "Cada hijo recibe: 1/9 del campo (13 333,33), 1/9 de las partidas 2-6 (3882,22), 1/9 de «9872» de las partidas 7-11 (1096,90; con 9874 daría 1097,11), 1/9 de los 29 095 de lanares (3232,77) y 5,33 en efectivo; total 21 550 $ 4 ½ r. (verificado: 21 550,55). Catalina y Bernardo (hijos) murieron en vida de la madre; ELENA CONCEPCIÓN vende su parte a la madre el 23/3/1882 y PÍO PEDRO el 8/10/1889. Muerta Catalina W. de Carry, los herederos proponen a WENCESLAO CASTELLANOS para la mensura y división; el juez lo acepta el 15/9/1899."
+  },
+  {
+   "titulo": "Folio 3 · edictos, antecedentes y arranque de la mensura",
+   "img": "img/f/184/11.jpg",
+   "fuente": "IMG_0895.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "propuesto y ordena publique los edictos de mensu-",
+    "ra en los diarios «La Ley» y «El Oeste» de la Ciu-",
+    "dad de Mercedes.",
+    "En la misma fecha el agrimensor acepta el",
+    "cargo y en Octubre treinta y uno del mismo año",
+    "toma antecedentes en el Departamento de Inge-",
+    "nieros.",
+    "Mensura",
+    "El agrimensor que suscribe comisionado por el",
+    "señor Juez del Departamento del Centro Dr. Don",
+    "Nicolas Savio para medir y dividir un terreno pro-",
+    "piedad de la Sucesion de D.a Catalina W. de",
+    "Carry situado en el partido de San Andrés de",
+    "Giles, prévio aviso publicado en los diarios que se",
+    "acompañan y circular á los linderos que origi-",
+    "nal tambien se acompaña, dió principio á la",
+    "operacion de mensura en la forma siguiente:",
+    "Situado en el mojon fierro punto A del",
+    "plano esquinero NordOeste del campo que mido y",
+    "costanero del de Dn. Saturnino Unzué, y al rum-",
+    "bo Norte cuarenta y cinco grados treinta minutos",
+    "Este se midieron mil setecientos treinta y dos me-",
+    "tros hasta el punto B mojon piedra. En esta línea:",
+    "á los trescientos cuarenta y un metros encontré",
+    "un mojon fierro, y otro á los ochocientos setenta",
+    "y dos metros.",
+    "En B, al rumbo Sud cuarenta y cuatro gra-",
+    "dos diez minutos Este se midieron dos mil ocho-",
+    "cientos setenta y seis metros hasta dar con el"
+   ],
+   "interpretacion": "El juez manda publicar edictos en «LA LEY» y «EL OESTE» de Mercedes; Castellanos acepta el mismo día y el 31/10/1899 toma antecedentes en el Departamento de Ingenieros. Comisionado por el juez del Departamento del Centro Dr. NICOLÁS SAVIO, con aviso en los diarios y circular a los linderos, arranca en el MOJÓN DE FIERRO A, esquinero NO, «costanero» del campo de SATURNINO UNZUÉ: A-B N 45° 30′ E 1732 m hasta el MOJÓN DE PIEDRA B; en la línea, mojones de fierro a 341 y 872 m. Empieza B-C S 44° 10′ E 2876 m."
+  },
+  {
+   "titulo": "Folio 3 vuelto · perímetro (cierre), superficie y linderos",
+   "img": "img/f/184/12.jpg",
+   "fuente": "IMG_0896.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "mojon fierro punto C. En esta línea se encon-",
+    "traron los mojones siguientes: á los ochocientos",
+    "setenta y ocho metros de palo; á los mil sete-",
+    "cientos cincuenta y tres metros y mil novecien-",
+    "tos ochenta tambien de palo.",
+    "En C salí al Rumbo Sud cuarenta y seis",
+    "grados veinte y un minutos Oeste y medí ocho",
+    "cientos sesenta y seis metros, hasta E mojon",
+    "fierro, donde al Rumbo Sud cuarenta y un",
+    "grados veinte y dos minutos Este medí has-",
+    "ta el mojon fierro F, cuarenta y dos metros",
+    "ochenta cent.s. En este punto al Sud cuarenta y",
+    "seis grados treinta minutos Oeste se midieron",
+    "ochocientos sesenta y cuatro metros, veinte cent.s",
+    "hasta el mojon fierro D. En D y al rumbo",
+    "Norte cuarenta y cuatro grados diez minutos",
+    "Oeste se midieron dos mil ochocientos noven-",
+    "ta metros ochenta cent.s hasta dar con el",
+    "mojon fierro punto A arranque de esta men-",
+    "sura.",
+    "Superficie – Son cuatrocientas noventa",
+    "y nueve hectáreas cuarenta y siete areas no-",
+    "venta y una centiáreas, con veinte centésimos",
+    "de otra.",
+    "Linderos – Por el NordEste los Herederos",
+    "de Culeton [Culleton]; por el SudEste Fausta Gomez de",
+    "Frias; por el NordOeste con Dn. Saturnino Unzué;",
+    "y por el SudOeste con Don Patricio Gannon.",
+    "Con lo que doy por terminada la mensu-",
+    "ra del perímetro general."
+   ],
+   "interpretacion": "En B-C encuentra mojones DE PALO a 878, 1753 y 1980 m hasta el mojón de fierro C. C-E S 46° 21′ O 866 m (mojón de fierro); E-F S 41° 22′ E 42,80 m (fierro); F-D S 46° 30′ O 864,20 m (fierro); D-A N 44° 10′ O 2890,80 m. Superficie 499 ha 47 a 91,20 ca. Linderos: NE herederos de CULLETON, SE Justa Gómez de Frías, NO Saturnino Unzué, SO Patricio Gannon. Verificado en python: el hexágono cierra a 0,23 m y su área analítica es 499,56 ha (0,08 ha más que la declarada, que es la suma de lotes calculados como rectángulos). El escalón E-F de 42,80 m es la lonja de 50 v (43,30 m) comprada a Frías en 1872."
+  },
+  {
+   "titulo": "Folio 4 · bases de la división y lote 1",
+   "img": "img/f/184/13.jpg",
+   "fuente": "IMG_0896.JPG (mitad derecha)",
+   "nota": "Dos lotes chicos para los dos hijos (no nombrados) que sólo heredan de la madre: ¿nietos o hijos de otro matrimonio? Pregunta abierta.",
+   "lineas": [
+    "División.",
+    "Procedí á la division del terreno teniendo en",
+    "cuenta las instrucciones recibidas por los intere-",
+    "sados y los antecedentes:",
+    "1.º Tomar por base la superficie que arroja esta",
+    "mensura.",
+    "2.º Lo adquirido en vida por D.a Catalina de sus",
+    "hijos Concepcion Elena y Pío Pedro.",
+    "3.º Lo heredado por dicha señora por fallecimien-",
+    "to de sus hijos Catalina y Bernardo.",
+    "4.º No tomar en cuenta para la division del",
+    "terreno el valor de las poblaciones y alambrados",
+    "que deberán ser tasados por separado cargandose",
+    "el importe al heredero á quien se adjudique ese",
+    "lote.",
+    "Bajo estas bases, se dividió el campo en siete",
+    "lotes, cinco de los cuales con una superficie corres-",
+    "pondiente á la herencia paterna y materna,",
+    "y dos con una superficie correspondiente á la",
+    "herencia materna solamente.",
+    "Descripcion de los Lotes.",
+    "Lote n.º 1.",
+    "Se ubicó en la forma siguiente:",
+    "Línea D e – Desde el mojon D y sobre la línea D A ya",
+    "descripta, se midieron al rumbo Norte cuarenta",
+    "y cuatro grados diez minutos Oeste, ochocientos",
+    "setenta y seis metros setenta cent. donde colo-",
+    "qué un mojon punto e."
+   ],
+   "interpretacion": "Bases dadas por los interesados: 1) la superficie de la mensura; 2) lo comprado por la madre a Concepción Elena y Pío Pedro; 3) lo heredado de los hijos Catalina y Bernardo; 4) las POBLACIONES Y ALAMBRADOS no se computan en la tierra: se tasarán aparte y se cargarán al heredero que reciba el lote. Siete lotes: CINCO por herencia paterna y materna, DOS sólo por herencia materna. Lote 1: desde D sobre D-A, N 44° 10′ O 876,70 m hasta el mojón e."
+  },
+  {
+   "titulo": "Folio 4 vuelto · lote 1 (cierre) y comienzo del lote 2",
+   "img": "img/f/184/14.jpg",
+   "fuente": "IMG_0897.JPG (mitad izquierda)",
+   "nota": "El agregado posterior corrige un lindero omitido: el lote 1 toca al 5 entre f y g (125,30 m).",
+   "lineas": [
+    "Línea e g – Desde el mojon e y al rumbo Norte",
+    "cuarenta y cinco grados treinta minutos Este",
+    "se midieron novecientos noventa y un metros",
+    "treinta cent.s donde coloqué el mojon g.",
+    "Línea g j – En g y al rumbo Sud cuarenta y cua-",
+    "tro grados diez minutos Este se midieron ocho-",
+    "cientos cincuenta y un metros donde coloqué",
+    "el mojon j.",
+    "Línea j E – Sobre la línea C E ya descripta se mi-",
+    "dieron desde el punto j al rumbo Sud cuarenta",
+    "y seis grados veinte y un minutos Oeste ciento vein-",
+    "te y cinco metros veinte y cinco cent. hasta dar con",
+    "el mojon E.",
+    "Las líneas E F y F D que cierran este lote han",
+    "sido descriptas en la mensura general.",
+    "Superficie – Son ochenta y siete hectáreas vein-",
+    "te y una areas seis centiáreas con cuarenta",
+    "centésimos de otro.",
+    "Linderos.– Por el NordEste el lote 6 y el 7 de",
+    "esta Sucesion; por el SudEste Justa Gomez de",
+    "Frias; por el SudOeste Patricio Gannon; y por el",
+    "NordOeste el lote dos de esta Sucesion. [agregado en otra letra, a lápiz o tinta más clara:] y parte del",
+    "N.º 5 de la misma sucesión.–",
+    "Lote n.º 2.",
+    "Se ubicó como sigue: Arrancando del mojon",
+    "colocado por mí punto e medí sobre la línea D A",
+    "ya descripta al rumbo Norte cuarenta y cuatro",
+    "grados diez minutos Oeste mil siete metros cin-",
+    "co cent. donde coloqué el mojon punto d."
+   ],
+   "interpretacion": "e-g N 45° 30′ E 991,30 m; g-j S 44° 10′ E 851 m; j-E sobre C-E 125,25 m; E-F y F-D del perímetro. Superficie 87 ha 21 a 06,40 ca (polígono verificado: 87,25 ha). Linderos: NE lotes 6 y 7, SE Justa Gómez de Frías, SO Patricio Gannon, NO lote 2, y —agregado en otra letra— «parte del N.º 5». Lote 2: desde e sobre D-A 1007,05 m hasta el mojón d."
+  },
+  {
+   "titulo": "Folio 5 · lotes 2 (cierre) y 3",
+   "img": "img/f/184/15.jpg",
+   "fuente": "IMG_0897.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "En este punto y al Norte cuarenta y cinco grados",
+    "treinta minutos Este se midieron ochocientos sesen-",
+    "ta y seis metros donde coloqué el mojon b. Aquí se",
+    "midieron al Sud cuarenta y cuatro grados diez mi-",
+    "nutos Este mil siete metros cinco cent. clavando allí",
+    "el mojon punto f. En este punto y al Sud cuarenta",
+    "y cinco grados treinta minutos Oeste se midieron",
+    "ochocientos sesenta y seis metros hasta dar con el",
+    "mojon e ya descripto.",
+    "Superficie. Son ochenta y siete hectáreas veinte",
+    "y un areas seis centiáreas con cuarenta centési-",
+    "mos de otro.",
+    "Linderos – Por el NordEste el lote cinco de esta",
+    "Sucesion, por el NordOeste el lote número tres;",
+    "por el SudEste el lote uno, y por el SudOeste Dn.",
+    "Patricio Gannon.",
+    "Lote n.º 3.",
+    "Se ubicó en la forma siguiente: Situado en el",
+    "mojon fierro punto A arranque en la mensura ge-",
+    "neral y sobre la línea A B ya descripta al Rumbo Nor-",
+    "te cuarenta y cinco grados treinta minutos Este",
+    "medí ochocientos sesenta y seis metros donde co-",
+    "loqué el mojon punto a. En este punto al Rum-",
+    "bo Sud cuarenta y cuatro grados diez minutos Este",
+    "se midieron mil siete metros cinco cent. donde",
+    "se colocó el mojon b. Vuelto al punto de arranque",
+    "mojon A se midieron al rumbo Sud cuarenta y cua-",
+    "tro grados diez minutos Este, mil siete metros cinco",
+    "cent. hasta dar con el mojon d ya colocado.",
+    "La línea d b ha sido descripta."
+   ],
+   "interpretacion": "Lote 2: d-b N 45° 30′ E 866; b-f S 44° 10′ E 1007,05; f-e S 45° 30′ O 866 m. 87 ha 21 a 06,40 ca (866 × 1007,05 = 872 105,3 m², verificado). Linderos: NE lote 5, NO lote 3, SE lote 1, SO Gannon. Lote 3: desde A sobre A-B 866 m al mojón a (= 1000 varas); a-b S 44° 10′ E 1007,05; A-d 1007,05 m."
+  },
+  {
+   "titulo": "Folio 5 vuelto · lote 3 (linderos) y lote 4",
+   "img": "img/f/184/16.jpg",
+   "fuente": "IMG_0898.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Superficie: Son ochenta y siete hectáreas vein-",
+    "te y una areas seis centiáreas con cuarenta centé-",
+    "simos de otra.",
+    "Linderos. Por el NordEste el lote cuatro de",
+    "esta Sucesion; por el SudEste el lote dos; por",
+    "el SudOeste Patricio Gannon y por el Nord",
+    "Oeste Saturnino Unzué.",
+    "Lote n.º 4.",
+    "Se ubicó como sigue: Me coloqué en el mojon a",
+    "y sobre la línea A B ya descripta medí desde ese",
+    "punto ochocientos sesenta y seis metros hasta B.",
+    "En este punto se midieron, sobre la línea B C ya des-",
+    "cripta, mil siete metros cinco cent.s donde coloqué el",
+    "mojon c. Aquí al rumbo Sud cuarenta y cinco",
+    "grados treinta minutos Oeste se midieron ochocien-",
+    "tos sesenta y seis metros hasta dar con el mojon b.",
+    "La línea b a ha sido descripta.",
+    "Superficie – Son ochenta y siete hectáreas veinte",
+    "y una areas seis centiáreas con cuarenta centési-",
+    "mos de otra.",
+    "Linderos. Por el NordEste los herederos de Cu-",
+    "leton; por el NordOeste con Saturnino Unzué; por",
+    "el SudEste el lote cinco, y por el SudOeste el lote tres",
+    "de esta Sucesion.",
+    "Lote n.º 5",
+    "Se ubicó en la forma siguiente: situado en"
+   ],
+   "interpretacion": "Lote 3: 87 ha 21 a 06,40 ca; NE lote 4, SE lote 2, SO Gannon, NO Saturnino Unzué. Lote 4: a-B 866 m; B-c sobre B-C 1007,05 m; c-b S 45° 30′ O 866 m. Igual superficie. Linderos: NE herederos de Culleton, NO Unzué, SE lote 5, SO lote 3. Comienza el lote 5."
+  },
+  {
+   "titulo": "Folio 6 · lote 5 y lote 6",
+   "img": "img/f/184/17.jpg",
+   "fuente": "IMG_0898.JPG (mitad derecha)",
+   "nota": "La corrección a lápiz de «Oeste» por «Este» es del examinador del Departamento.",
+   "lineas": [
+    "el mojon c medí sobre la línea B C, mil siete me-",
+    "tros donde coloqué el mojon h. En este punto al",
+    "rumbo Sud cuarenta y cinco grados treinta minu-",
+    "tos Oeste se midieron ochocientos sesenta y seis",
+    "metros donde coloqué el mojon f. Las líneas f b y b c",
+    "han sido descriptas.",
+    "Superficie – Son ochenta y siete hectáreas vein-",
+    "te y una areas seis centiáreas con cuarenta cen-",
+    "tésimos de otro.",
+    "Linderos – Por el NordEste los herederos de Culeton;",
+    "por el NordOeste el lote cuatro; por el SudEste",
+    "el lote seis y parte del uno de esta sucesion; y por",
+    "el SudOeste el lote dos de la misma.",
+    "Lote n.º 6.",
+    "Situado en el mojon h medí sobre la línea h f, se-",
+    "tecientos cuarenta metros setenta cent.s donde co-",
+    "loqué el mojon g. En este punto al Sur cuarenta",
+    "y cuatro grados diez minutos Oeste [tachado a lápiz; encima, a lápiz: «Este»] medí cuatrocien-",
+    "tos veinte y ocho metros catorce cent.s colocandose",
+    "el mojon K; – En este punto al Norte cuarenta y",
+    "cinco grados treinta minutos Este se midieron",
+    "setecientos cuarenta metros setenta cent.s donde co-",
+    "loqué el mojon i. En i, sobre la línea C B ya",
+    "descripta se midieron cuatrocientos veinte y ocho",
+    "metros catorce cent.s",
+    "Superficie: – Son treinta y una hectáreas seten-",
+    "ta y una areas veinte y nueve centiáreas con"
+   ],
+   "interpretacion": "Lote 5: c-h sobre B-C «mil siete metros» (deben ser 1007,05: con 1007 el resto i-C sería 433,81 y no los 433,76 que da el lote 7; verificado); h-f S 45° 30′ O 866 m. 87 ha 21 a 06,40 ca. Linderos: NE Culleton, NO lote 4, SE lote 6 y parte del 1, SO lote 2. Lote 6: desde h sobre h-f 740,70 m al mojón g; g-K «Sur 44° 10′ Oeste» —corregido a lápiz «Este»— 428,14 m; K-i N 45° 30′ E 740,70 m; i-h sobre C-B 428,14 m."
+  },
+  {
+   "titulo": "Folio 6 vuelto · lote 7, linderos y circular",
+   "img": "img/f/184/18.jpg",
+   "fuente": "IMG_0899.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "sesenta centésimos de otra.",
+    "Lote n.º 7.",
+    "Se ubicó en la forma siguiente: Se arrancó en",
+    "el mojon C y se midieron sobre la línea C E descrip-",
+    "ta setecientos cuarenta metros setenta y cinco cen-",
+    "tímetros hasta el mojon j. – En este punto al Norte",
+    "cuarenta y cuatro grados diez minutos Oeste se mi-",
+    "dieron cuatrocientos veinte y dos metros ochenta y",
+    "seis cent.s hasta el mojon K. La línea K i ha",
+    "sido descripta. En i sobre la línea B C descripta",
+    "medí hasta C cuatrocientos treinta y tres metros",
+    "setenta y seis centímetros.",
+    "Superficie – Son treinta y una hectáreas seten-",
+    "ta y una areas veinte y nueve centiáreas con",
+    "sesenta centésimos de otra.",
+    "Linderos – Por el NordEste los Herederos de Cu-",
+    "leton; por el NordOeste el lote seis; por el Sud",
+    "Este Justa Gomez de Frias, y por el SudOeste",
+    "el lote uno de esta Sucesion.",
+    "Con lo que doy por terminada la mensura",
+    "y division de la Sucesion de Doña Catalina W.",
+    "de Carry.",
+    "Circular – Ha sido firmada como sigue: Juan",
+    "Culleton por los herederos de Culleton; Patricio",
+    "Murphy por Patricio Gannon; por Doña Justa",
+    "Gomez de Frias, Santiago Frias; S. J. Unzué por",
+    "sí."
+   ],
+   "interpretacion": "Lote 6: 31 ha 71 a 29,60 ca (740,70 × 428,14 = 317 123 m², verificado). Lote 7: C-j sobre C-E 740,75 m; j-K N 44° 10′ O 422,86 m; K-i; i-C 433,76 m. 31 ha 71 a 29,60 ca (polígono 31,73 ha). Linderos: NE Culleton, NO lote 6, SE Justa Gómez de Frías, SO lote 1. Suma de lotes: 5 × 87,210640 + 2 × 31,712960 = 499,47912 ha = superficie de la mensura (verificado). Circular firmada por JUAN CULLETON (por los herederos de Culleton), PATRICIO MURPHY (por Patricio Gannon), SANTIAGO FRÍAS (por Justa Gómez de Frías) y S. J. UNZUÉ por sí."
+  },
+  {
+   "titulo": "Folio 7 · acta no levantada, firma y nota del Departamento",
+   "img": "img/f/184/19.jpg",
+   "fuente": "IMG_0899.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "Acta – No se levantó por no haber concurrido nin-",
+    "guno de los linderos á presenciar la operacion de",
+    "mensura.",
+    "Buenos Aires, Junio de 1900.",
+    "Wenceslao Castellanos [firma]",
+    "[sello oval:] DEPARTAMENTO DE INGENIEROS DE LA PROVINCIA · Entrada · 22 JUNIO 1900",
+    "[otra letra, del examinador del Departamento:]",
+    "Nota –",
+    "Tanto el título original que corresponde á la compra hecha",
+    "en Diciembre 11 de 1869 por Don Gerónimo Carrey á",
+    "Don Miguel Duggan del terreno situado en el Parti-",
+    "do de San Andrés de Giles compuesto de 1732 me-",
+    "tros de frente por 2598 de fondo, como la cuenta de",
+    "división y adjudicación de los bienes dejados por",
+    "fallecimiento de Don Gerónimo Carrey á que",
+    "se hace referencia, los he tenido á la vista y se ha-",
+    "llan agregados al expediente de Doña Catalina",
+    "W de Carrey que trasmitan [?] por la Secreta-",
+    "ría de Juan Y. Ejea [?] [= Juan J. Ojea], Juzgado de 1.ª Instan-",
+    "cia en lo Civil y Comercial á cargo del Doctor",
+    "Don Nicolás Savio.",
+    "En el título agregado ratificación de la venta",
+    "hecha por Don Isidoro Cucullo á Doña Catali-",
+    "na W de Carrey (por error Catalina Kuelly [?] de",
+    "Carrey) habiendo firmado á ruego de dicha seño-"
+   ],
+   "interpretacion": "«Acta – No se levantó por no haber concurrido ninguno de los linderos á presenciar la operación de mensura». Buenos Aires, junio de 1900, firma Wenceslao Castellanos. Sello de ENTRADA del Departamento de Ingenieros, 22/6/1900. Sigue, en otra letra, la nota del examinador: vio el título de 1869 y la cuenta de división de Gerónimo «Carrey», agregados al expediente de Catalina W. de Carrey que tramita por la secretaría de «Juan Y. Ejea» [= Juan J. Ojea, ficha 177], Juzgado Civil y Comercial del Dr. Nicolás Savio; en la ratificación de la venta de Cucullo la compradora figura «por error» como CATALINA KUELLY [?] DE CARREY y firmó a ruego de ella…"
+  },
+  {
+   "titulo": "Folio 7 vuelto · resumen de títulos, croquis y faltante de 2,99 ha",
+   "img": "img/f/184/06.jpg",
+   "fuente": "IMG_0900.JPG (mitad izquierda)",
+   "nota": "El croquis concuerda con los linderos de 1875: la franja de Cucullu corre a lo largo del lado A-B, con Bernardo Carry en un extremo (NE), Gannon en el otro (SO), Alegre detrás (NO) y la compradora delante. Los títulos giran los rumbos 45°: su «Norte» es el NE de 1900 y su «Oeste» el NO.",
+   "lineas": [
+    "ra Don Juan Moir [?].",
+    "Título 1.º Venta de Duggan á Gerónimo",
+    "Carrey – Superficie 449 h.s 97 a.s 36 c.s",
+    "Título 2.º Venta de Isidoro Cucullo á",
+    "Catalina K. de Carrey (C. W. de Carrey) 48 h.s 74 a.s 71 c.s",
+    "Título 3.º Venta de Justa Gomez de Frias",
+    "á Catalina W. de Carrey 3 h.s 74 a.s 97 c.s",
+    "Superficie total = 502 h.s 47 a.s 04 c.s",
+    "[croquis a tinta: rectángulo con flecha de Norte arriba a la derecha. Arriba: «Alegre hoy Unzué»; franja superior «Título 2.º S = 48 h.s 74 a.s 71 c.s»; debajo, sobre la línea, «1732 m»; cuerpo «Título 1.º S = 449 h.s 97 a.s 36 c.s», costados «2598»; a la izquierda «Patricio Gannon»; a la derecha «Bernardo Carry hoy Culleton»; abajo «1732 m»; en el ángulo inferior izquierdo una franja «T.º 3 S = 3 h.s 74 a.s 97 c.s» de «866» con, a lápiz, «43.30»; abajo «Justa G. de Frias».]",
+    "La superficie que dá la presente operación de",
+    "mensura es menor que sus títulos en dos hec-",
+    "táreas 99 areas y trece centiáreas",
+    "Junio 1900",
+    "Wenceslao Castellanos [firma y rúbrica]"
+   ],
+   "interpretacion": "…«Don Juan Moir [?]». Resumen: título 1.º 449 ha 97 a 36 ca (1732 × 2598 m, verificado); 2.º Cucullo 48 ha 74 a 71 ca; 3.º Frías 3 ha 74 a 97 ca; total 502 ha 47 a 04 ca (verificado). CROQUIS: el título 1.º como rectángulo; la franja del título 2.º (1732 × 281,45 m = 2000 × 325 v, calculado) al NO contra «Alegre hoy Unzué»; la lonja del 3.º (866 × 43,30) en el rincón S contra «Justa G. de Frías»; «Patricio Gannon» al SO y «Bernardo Carry hoy Culleton» al NE. Castellanos firma (junio 1900): la mensura da 2 ha 99 a 13 ca MENOS que los títulos (verificado: 502,4704 − 499,4791 = 2,9913 ha)."
+  },
+  {
+   "titulo": "Folio 8 · informe del Departamento: los documentos",
+   "img": "img/f/184/20.jpg",
+   "fuente": "IMG_0900.JPG (mitad derecha)",
+   "nota": "Tres grafías para la misma mujer: W., «Kuelly» y «Walahagn»; el juez escribe «Whelan» (f. 9).",
+   "lineas": [
+    "[raya inicial]",
+    "Señor Juez:",
+    "En el presente expediente sobre division de",
+    "condominio de la sucesion de D.a Catalina Wala-",
+    "hagn [?] de Carry (viuda de Dn. Gerónimo Carry) se",
+    "acompaña como documentos comprobatorios del de-",
+    "recho de posesion sobre los terrenos de que trata",
+    "la mensura, ubicados en el partido de San An-",
+    "drés de Giles.–",
+    "1.º Una hijuela perteneciente á Doña María Carry",
+    "de Whealen, hija legítima de Dn. Gerónimo Carry",
+    "por la cual se le adjudica en el partido del",
+    "Pilar, la octava parte de un campo, compuesto",
+    "en todo de seis millones setecientos mil varas cuadradas.",
+    "2.º Un título de D.a Catalina Kuelly [?] de Carry,",
+    "sobre compra de seiscientas cincuenta mil varas",
+    "cuadradas en el partido de Giles, que hace á",
+    "Isidro Cucullo en 23 de Febrero de 1886.",
+    "3.º Un título de Doña Catalina Walahagn [?] de",
+    "Carry, viuda de Dn. Gerónimo Carry sobre cincuen-",
+    "ta varas de frente por mil varas de fondo, com-",
+    "pra que hizo á D.a Justa Gomez en el mismo par-",
+    "tido de Giles.–",
+    "Estos documentos adolecen de ciertas deficiencias,",
+    "que no son del resorte de este Departamento resol-",
+    "verlas.– El primero, es una hijuela por la cual"
+   ],
+   "interpretacion": "Al juez: en el condominio de la sucesión de «Catalina WALAHAGN [?] de Carry (viuda de Gerónimo Carry)» se presentan: 1) la hijuela de MARÍA CARRY DE WHEALEN, hija de Gerónimo, que le adjudica 1/8 [sic] de un campo de 6 700 000 v² «en el partido del PILAR»; 2) el título de «Catalina KUELLY [?] de Carry» por 650 000 v² comprados a Isidro Cucullo «en 23 de febrero de 1886» (es la ratificación de 1876); 3) el de Catalina Walahagn [?] de Carry por 50 × 1000 v comprados a Justa Gómez. «Estos documentos adolecen de ciertas deficiencias que no son del resorte de este Departamento resolverlas»."
+  },
+  {
+   "titulo": "Folio 8 vuelto · dictamen del Departamento (24/7/1900)",
+   "img": "img/f/184/21.jpg",
+   "fuente": "IMG_0901.JPG (mitad izquierda)",
+   "nota": "Albarracín, Etcheverry y Sal firman también el informe de 183 (feb. 1900).",
+   "lineas": [
+    "se adjudica á Doña María Carry y Whealen, la",
+    "octava parte de un campo en el partido del Pilar,",
+    "cuando los terrenos que se han medido se encuentran",
+    "en el partido de Giles.",
+    "El segundo, es un título de propiedad de D.a",
+    "Catalina Kuelly [?] de Carry, tratándose en el presente",
+    "expediente de la sucesion de D.a Catalina Walahagn [?]",
+    "de Carry.",
+    "Corresponde á V. S. resolver lo que crea conveniente",
+    "y una vez salvadas estas deficiencias y en el caso de",
+    "reconocerse la validez de los expresados documentos,",
+    "este Departamento no vé inconveniente que se aprue-",
+    "be judicialmente la presente diligencia de mensura,",
+    "siempre que los interesados manifiesten su confor-",
+    "midad con la division que se practicó ya que",
+    "debía efectuarse segun las indicaciones de estos.–",
+    "Julio 24 de 1900",
+    "T. Mayer [?] · Cárlos M. Albarracin",
+    "Angel Etcheverry · Benjamin Sal",
+    "Rufino Arroyo [?]",
+    "[firmas de los miembros del Consejo del Departamento de Ingenieros]"
+   ],
+   "interpretacion": "Las deficiencias: la hijuela ubica el campo en Pilar cuando se midió en Giles, y el título 2.º está a nombre de «Kuelly» y no de la causante. Corresponde al juez resolver; salvadas, el Departamento no ve inconveniente en aprobar la mensura «siempre que los interesados manifiesten su conformidad con la división», ya que se hizo según sus indicaciones. Firman T. Mayer [?], Carlos M. Albarracín, Ángel Etcheverry, Benjamín Sal y Rufino Arroyo."
+  },
+  {
+   "titulo": "Folio 9 · oficio de aprobación (Mercedes, 28/8/1900)",
+   "img": "img/f/184/22.jpg",
+   "fuente": "IMG_0901.JPG (mitad derecha)",
+   "nota": "El juez resuelve la identidad: W. = WHELAN.",
+   "lineas": [
+    "[a tinta, arriba a la izquierda:] 8. 180. 102.",
+    "[sello de papel sellado:] 295818 · PROVINCIA DE BUENOS AIRES · 1900 · 0.50 CENTAVOS",
+    "Mercedes, Agosto veintiocho",
+    "de 1900.",
+    "Al Señor Presidente del Departa-",
+    "mento de Ingenieros de la Pro-",
+    "vincia – «La Plata»",
+    "Tengo el agrado de comu-",
+    "nicar á Vd. que en la fecha se",
+    "ha aprobado la mensura prac-",
+    "ticada por el agrimensor Don",
+    "Wenceslao Castellanos, de una",
+    "fraccion de campo de propie-",
+    "dad de la sucesion de Doña Ca-",
+    "talina Whelan de Carry y de",
+    "la cual ese Departamento a-",
+    "consejó su aprobacion con",
+    "fecha veinte y cuatro de Ju-",
+    "lio próximo pasado.–",
+    "Dios guarde á Vd.",
+    "Nicolás Savio [firma]",
+    "José Aguirre [?] [firma; secretario] [rúbrica]",
+    "[sello circular al margen izquierdo:] JUZGADO CIVIL Y COMERCIAL DEL D.TO DEL CENTRO · MERCEDES",
+    "[sello oval:] DEPARTAMENTO DE INGENIEROS DE LA PROVINCIA · ENTRADA · 4 SETIEMBRE 1900"
+   ],
+   "interpretacion": "En papel sellado provincial de 1900 (0,50 $, n.º 295818), el juez NICOLÁS SAVIO comunica al presidente del Departamento de Ingenieros, en La Plata, que aprobó la mensura de Castellanos de la sucesión de «Doña Catalina WHELAN de Carry», aconsejada el 24 de julio. Firma también José Aguirre [?] (secretario o actuario). Sellos del Juzgado Civil y Comercial del Departamento del Centro y de entrada en el Departamento de Ingenieros, 4/9/1900. Arriba, «8. 180. 102.»"
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de mensura y división reconstruido (La Plata, febrero de 1933)",
+   "img": "img/f/184/03.jpg",
+   "fuente": "IMG_0902.JPG (vista general; detalles IMG_0903-0906)",
+   "orientacion": "flecha de N arriba a la izquierda; el campo dibujado con el lado de Culleton (NE) arriba y el de Gannon (SO) abajo",
+   "interpretacion": "Plano a tinta sobre tela, escala 1:7500, SIN firma de agrimensor. Leyenda: «Construido con los datos de la diligencia de la operación de mensura y división que practicó en 1900, con carácter judicial, el agrim. Dn. Wenceslao Castellanos, del campo de los herederos de D.ña Catalina Whelan de Carry … (dup. 184). La Plata, Febrero de 1933». Es la respuesta a la nota a lápiz de la portadilla («No tiene plano agregado [?] · Junio/932»): el Departamento dibujó el plano treinta y tres años después, con los números del texto. Muestra el hexágono A-B-C-E-F-D con sus rumbos y distancias, los siete lotes numerados en círculo con sus superficies (cinco de 87 H 21 A 06 C 40 dm² y dos de 31 H 71 A 29 C 60 dm²), los mojones con su material (m.f., m.p., m.m.) y los cuatro linderos en mayúsculas. Ninguna población, alambrado, camino ni agua: el plano es puramente geométrico.",
+   "referencias": [
+    [
+     "A",
+     "Mojón de fierro, esquinero NO, «costanero» de Saturnino Unzué; arranque"
+    ],
+    [
+     "B",
+     "Mojón de piedra (m.p.), esquina N"
+    ],
+    [
+     "341 · 872 (A-B)",
+     "Mojones de fierro encontrados; el de 872 casi coincide con a (866 m = 1000 v)"
+    ],
+    [
+     "878 · 1753 · 1980 (B-C)",
+     "Mojones de madera encontrados en el lado de Culleton"
+    ],
+    [
+     "C · E · F · D",
+     "Mojones de fierro; E-F (S 41° 22′ E 42,80 m) es el escalón de la lonja de Frías"
+    ],
+    [
+     "a · b · c · d · e · f · g · h · i · j · K",
+     "Mojones de la división colocados por Castellanos"
+    ],
+    [
+     "① a ⑤",
+     "Lotes de 87,2106 ha (herencia paterna y materna)"
+    ],
+    [
+     "⑥ · ⑦",
+     "Lotes de 31,7130 ha (sólo herencia materna)"
+    ],
+    [
+     "Linderos",
+     "Herederos de Culleton (NE), Saturnino Unzué (NO), Patricio Gannon (SO), Justa Gómez de Frías (SE)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: lado de Unzué y lotes 3 y 4",
+   "img": "img/f/184/04.jpg",
+   "fuente": "IMG_0903.JPG (y IMG_0904-0905)",
+   "orientacion": "toma girada respecto de la vista general",
+   "interpretacion": "«SATURNINO UNZUE · N 45° 30′ E = 1732 ms.»: A.a = 866, a.B = 866; los mojones de fierro encontrados a 341 y «a 872»; A m.f. [?], B m.p.; A.d = d b = B.C = 1007,05 ms.; d.b = b.c = 866 m; en B-C el mojón de madera de 878 m. IMG_0904 y 0905 muestran el centro (lotes 2, 5, 6, 7, la línea g-j de 851 m y «JUSTA GOMEZ DE FRIAS»).\nA.d · d.e · e.D\n1007,05 + 1007,05 + 876,70 = 2890,80 m (D-A), verificado\nB.c · c.h · h.i · i.C\n1007,05 + 1007,05 + 428,14 + 433,76 = 2876 m (B-C), verificado",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: lote 1, escala y leyenda de 1933",
+   "img": "img/f/184/05.jpg",
+   "fuente": "IMG_0906.JPG",
+   "orientacion": "N arriba a la izquierda",
+   "interpretacion": "Lote 1 con e.f 866 m, e.g = 991,30 m N 45° 30′ E, D.F = 864,20 m S 46° 30′ O, e.D = 876,70 ms; mojón de fierro en D; «Escala 1: 7500»; leyenda «La Plata Febrero de 1933».",
+   "referencias": []
+  },
+  {
+   "titulo": "Croquis de títulos del examinador (1900)",
+   "img": "img/f/184/06.jpg",
+   "fuente": "IMG_0900.JPG (mitad izquierda)",
+   "orientacion": "flecha de N arriba a la derecha",
+   "interpretacion": "Croquis a tinta del Departamento de Ingenieros dentro del expediente: el título 1.º de Duggan (1732 × 2598 m, 449 h 97 a 36 c), la franja del título 2.º (Cucullo, 48 h 74 a 71 c) contra «Alegre hoy Unzué», la lonja del título 3.º (866 m; «43.30» a lápiz; 3 h 74 a 97 c) contra «Justa G. de Frías», «Patricio Gannon» al SO y «Bernardo Carry hoy Culleton» al NE. Es el único dibujo de 1900 y el único que nombra a los linderos anteriores.\nTítulo 1.º\nDuggan 1869: 2000 × 3000 v\nTítulo 2.º\nCucullu 1875: 2000 × 325 v = 650 000 v²\nTítulo 3.º\nGómez de Frías 1872: 50 × 1000 v",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "El expediente no nombra ni una cañada ni una laguna: el campo aparece por sus instalaciones, y sólo en la cuenta de partición de Gerónimo Carry. Una POBLACIÓN PRINCIPAL con galpón, palomar y pozo (33 221 $), «otra habitación», árboles (465 $), muebles y loza, un carro; CUATRO PUESTOS, cercos (3624 $), alambres (450 $, todavía poco), 200 listones de corrales y TREINTA BEBIDAS; 369 ovejas adjudicadas a los hijos y una hacienda lanar total de 259 256 $, el bien más valioso después de la tierra. Es un establecimiento ovejero irlandés típico de la década de 1870: casco con palomar y monte, cuatro puestos para pastores y bebederos repartidos. En 1900 los herederos piden que poblaciones y alambrados se tasen aparte: el campo ya está alambrado. El plano de 1933 borra todo esto y deja sólo la geometría."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Propuesta del agrimensor por los herederos, aceptación del juez Savio (15/9/1899), edictos en «La Ley» y «El Oeste» de Mercedes, antecedentes en el Departamento (31/10/1899), circular firmada por los cuatro linderos —tres por apoderado: Juan Culleton por sus coherederos, Patricio Murphy por Gannon, Santiago Frías por Justa Gómez— y, sin embargo, «Acta – No se levantó por no haber concurrido ninguno de los linderos». La firma de la circular reemplaza la presencia en el terreno. La división se hace «según las indicaciones» de los interesados, y el Departamento condiciona su visto bueno a que los herederos manifiesten conformidad: el acuerdo familiar precede a la operación técnica."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos al minuto, distancias al centímetro y mojones de tres materiales: los de FIERRO (A, C, E, F, D y dos en A-B), uno de PIEDRA (B) y tres de PALO o madera en B-C (878, 1753, 1980 m), que son los antiguos. Castellanos no menciona declinación magnética ni visuales; la división se hace por paralelas a los lados, con lotes calculados como rectángulos (866 × 1007,05) aunque los lados forman 89° 40′: el error es despreciable (lote 1: 87,21 declaradas, 87,25 por coordenadas). Verificado en python: el perímetro cierra a 0,23 m; suma de lotes = superficie total al centiárea. Corrección a lápiz del examinador («Oeste» → «Este» en el lote 6) y un lindero omitido agregado en el lote 1. El plano, en cambio, no es de Castellanos: lo construye el Departamento en 1933."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Las medidas del título de 1869 son varas redondas expresadas en metros: 1732 = 2000 v y 2598 = 3000 v; la franja de Cucullu 650 000 v² = 2000 × 325 v (281,45 m); la lonja de Frías 50 × 1000 v (43,30 × 866 m). Los lotes son de 1000 v (866 m) de frente: Castellanos divide en varas aunque escribe metros. Conversiones verificadas: 6 700 000 v² = 502 ha 47 a 05 ca; total de títulos 502,4704 ha; faltante 2,9913 ha. Errores de copia hallados: 437 920 − 49 910 no da 2 × 193 955 (diferencia 100 $); 369 ovejas «á $ 23» no dan 7544 $ (darían 8487); 9872/9874 en las partidas 7-11; «193.995» por 193 955; «mil siete metros» por 1007,05 en el lote 5; la ratificación de 1876 citada como de 1886. Moneda: pesos moneda corriente y reales (4 ½ reales = 0,5625 $)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Un campo de familia irlandesa en tres capas: la compra del padre (1869) en una venta judicial de la testamentaría Bernal, y dos compras de la viuda (1872, 1875) que la partición trató como gananciales. La partición de Gerónimo da la mitad a la viuda y la otra mitad a nueve hijos; luego la madre reconcentra: hereda a dos hijos muertos y compra la parte de otros dos (1882, 1889). En 1900 el campo se divide en cinco lotes de doble herencia y dos de herencia sólo materna. El Departamento detecta identidades vacilantes —«W.», «Kuelly», «Walahagn», y el juez «Whelan»— y una hijuela que sitúa el campo en Pilar: los papeles de una familia inmigrante circulan con nombres deformados y el Departamento lo señala pero no lo resuelve («no son del resorte de este Departamento»). Los vecinos también son irlandeses (Culleton, Gannon, Murphy) o grandes compradores (Unzué)."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "066 (Monsalvo, Schuster 1874): el bloque O de 1732 × 2877,5 m de Justa Gómez de Frías, Claudia Gómez de Acuña y Esteban Noriega y Monsalvo «junto a la estancia de Carry» es el gemelo SE de este campo (1732 × 2876 m): mismo frente de 2000 v. 084 (Ángela G. de Alegre, 1878): su línea S de 7260 m «contra Bernardo y Catalina H. de Carrey y Patricio Gannon» es el lado A-B de 1900; «Catalina H.» = Catalina W. 170 (María Cormack de Carey, 1895): Bernardo Carey reunió su campo con la compra a Isidro Cucullu de 1871 y nombra a «Catalina W. de Carey» como lindera SO; en 1900 ese campo es de los «herederos de Culleton» («Bernardo Carry hoy Culleton»). 033 (Cucullu): Isidro Cucullu revende a los dos Carry la tierra comprada a Liboria Bustos en 1870. 134 (Echeverría, Saubidet 1862): Hermenegildo Bernal compra la franja NE; la ejecución contra su testamentaría origina el título de Duggan. 040-041 (Duggan, Gonnet 1866-67): el mismo Miguel Duggan. 015/084: Gannon «antes J. M.ª Echevarría». 124 y siguientes (Unzué): «Alegre hoy Unzué». 129-130 (Castellanos 1883): el mismo agrimensor diecisiete años antes. 176-177 (Savio, sec. Juan J. Ojea): «Juan Y. Ejea» = Ojea. 183 (O’Donnell, 1899-1900): mismos firmantes del Departamento (Albarracín, Etcheverry, Sal) y otra Whelan (Emilia O. de Whelan)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Transcripción completa de los ff. 1-9 y del plano de 1933; no se detectan folios faltantes (el expediente trae su propio índice de documentos). Dudosas: «Kuelly» y «Walahagn» (deformaciones de Whelan), «Juan Moir [?]», la primera firma del Departamento («T. Mayer» [?]), «José Aguirre [?]» al pie del oficio, la signatura de la portadilla y «Avelina Campos» (¿Avelina Bustos, ficha 102?). Preguntas: ¿quiénes reciben los lotes 6 y 7 de herencia sólo materna? ¿Cuándo murió Gerónimo Carry (entre 1875 y 1882)? ¿Qué relación hay entre Gerónimo y Bernardo Carry? ¿María Carry de Whealen es la madre o tía de Emilia O’Donnell de Whelan (183)? Georreferenciar el lado A-B sobre la línea S de 084 y el lado C-E sobre el bloque O de 066."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Catalina Whelan de Carry",
+   "rol": "Causante",
+   "texto": "Viuda de Gerónimo Carry, de origen irlandés. Compra la lonja de Justa Gómez de Frías (1872) y la franja de Isidoro Cucullu (1875, ratificada en 1876); recibe la mitad de los gananciales a la muerte del marido, hereda a sus hijos Catalina y Bernardo y compra las partes de Elena Concepción (1882) y Pío Pedro (1889). En los papeles figura como «W.», «Kuelly» [?], «Walahagn» [?] y «H.» (084); el juez Savio la llama «Whelan». Murió antes de septiembre de 1899.",
+   "fuentes": "Este duplicado; fichas 084, 170."
+  },
+  {
+   "nombre": "Gerónimo (Jerónimo) Carry",
+   "rol": "Primer propietario",
+   "texto": "Compra el 11/12/1869 a Miguel Duggan el campo de 2000 × 3000 varas; establecimiento ovejero con población principal, palomar, cuatro puestos y treinta bebidas. Muere entre 1875 y 1882 dejando viuda y nueve hijos; su haber testamentario es de 437 920 $ m/c. Es el «Gerónimo Cari» lindero S en 1870 (170).",
+   "fuentes": "Este duplicado; fichas 066, 170."
+  },
+  {
+   "nombre": "Hijos de Gerónimo Carry",
+   "rol": "Herederos",
+   "texto": "Juan, Diego, Concepción Elena (o Elena Concepción; vende a la madre 23/3/1882), Gerónimo, Pío Pedro (vende a la madre 8/10/1889), María (casada Whealen/Whelan; su hijuela es uno de los documentos objetados), Bernardo y Catalina (muertos en vida de la madre) y Brígida.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Bernardo Carry (Carey)",
+   "rol": "Lindero ne (antiguo)",
+   "texto": "Lindero N en 1875 y en la partición; «Bernardo Carry hoy Culleton» en el croquis de 1900. Es el Bernardo Carey de 170, viudo de María Cormack [?], que reunió 1172 ha con compras a Cucullu (1871) y a Avelina Bustos (1880, 1883). Probablemente pariente de Gerónimo (no se dice).",
+   "fuentes": "Este duplicado; fichas 066, 084, 102, 170."
+  },
+  {
+   "nombre": "Juan Culleton y herederos de Culleton",
+   "rol": "Linderos ne",
+   "texto": "Sucesores del campo de Bernardo Carey en 1900; Juan firma la circular por sus coherederos. Apellido irlandés (Culleton, Wexford).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Saturnino J. Unzué",
+   "rol": "Lindero no",
+   "texto": "«Alegre hoy Unzué»: la familia Unzué compró las hijuelas de los Alegre (084); firma la circular «por sí». Gran propietario del partido (estancia San Jacinto).",
+   "fuentes": "Este duplicado; fichas 084, 124, 125, 170."
+  },
+  {
+   "nombre": "Patricio Gannon; Patricio Murphy",
+   "rol": "Lindero so y apoderado",
+   "texto": "Gannon, irlandés, lindero desde 1872-75, en tierra «antes J. M.ª Echevarría»; por él firma la circular Patricio Murphy.",
+   "fuentes": "Este duplicado; fichas 015, 084."
+  },
+  {
+   "nombre": "Justa (Fausta) Gómez de Frías; Santiago Frías; Eustaquio Frías",
+   "rol": "Vendedora y lindera se",
+   "texto": "Vende en 1872 la lonja de 50 × 1000 v; es una de las dueñas del bloque O de 066. Santiago Frías firma por ella en 1899-1900; Eustaquio Frías es lindero E en la partición de Gerónimo (y lindero en 170).",
+   "fuentes": "Este duplicado; fichas 066, 082, 170."
+  },
+  {
+   "nombre": "Miguel Duggan",
+   "rol": "Vendedor (1869)",
+   "texto": "Comprador en venta judicial de la tierra de la testamentaría de Ermenegildo Bernal, que vende a Gerónimo Carry. El mismo Duggan de las denuncias de sobrantes de 1866-67 (040, 041).",
+   "fuentes": "Este duplicado; fichas 040, 041."
+  },
+  {
+   "nombre": "Ermenegildo (Hermenegildo) Bernal; González",
+   "rol": "Antecesor y ejecutante",
+   "texto": "Bernal compró en 1862 la franja NE de la legua de Echeverría (134); su testamentaría fue ejecutada por un González y el campo rematado. «El señor Bernal» es el lindero S en 1869.",
+   "fuentes": "Este duplicado; ficha 134."
+  },
+  {
+   "nombre": "Isidoro (Isidro) Cucullu",
+   "rol": "Vendedor (1875)",
+   "texto": "Vende ante el juez de paz de Giles 650 000 v² a la viuda; había comprado a Liboria Bustos en 1870 y revendido a Bernardo Carey en 1871. Escrito «Cucullo» en el informe.",
+   "fuentes": "Este duplicado; fichas 033, 170."
+  },
+  {
+   "nombre": "Mariano Alegre y herederos de Alegre",
+   "rol": "Linderos o (antiguos)",
+   "texto": "Lindero O en 1869; sus herederos en 1875; reemplazados por Unzué en 1900.",
+   "fuentes": "Este duplicado; ficha 084."
+  },
+  {
+   "nombre": "Avelina Campos [?]",
+   "rol": "Lindera n en la partición",
+   "texto": "Nombrada junto a Bernardo Carry como lindera N; probablemente Avelina Bustos (102), que vendió a Carey.",
+   "fuentes": "Este duplicado; ficha 102."
+  },
+  {
+   "nombre": "Wenceslao Castellanos",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor que en 1883 midió a Celedonio F. y Manuel Lima (129-130) en el mismo partido; en 1899-1900 firma en Buenos Aires. Su diligencia es inusual por rehacer la cuenta de partición antes de dividir.",
+   "fuentes": "Este duplicado; fichas 129, 130."
+  },
+  {
+   "nombre": "Nicolás Savio; Juan J. Ojea; José Aguirre [?]",
+   "rol": "Juez, secretario y actuario",
+   "texto": "Savio, juez Civil y Comercial del Departamento del Centro (Mercedes), comisiona y aprueba (28/8/1900); la causa tramita por la secretaría de «Juan Y. Ejea» = Juan J. Ojea; al pie del oficio firma un José Aguirre [?].",
+   "fuentes": "Este duplicado; fichas 176, 177."
+  },
+  {
+   "nombre": "Carlos M. Albarracín, Ángel Etcheverry, Benjamín Sal, Rufino Arroyo, T. Mayer [?]",
+   "rol": "Departamento de ingenieros",
+   "texto": "Firmantes del dictamen del 24/7/1900; los tres primeros firman también en 183 (febrero de 1900).",
+   "fuentes": "Este duplicado; fichas 162, 181, 183."
+  },
+  {
+   "nombre": "Doufour; Juan Moir [?]",
+   "rol": "Escribano y firmante a ruego",
+   "texto": "Ante el escribano Doufour se ratificó en 1876 la venta de Cucullu; «Don Juan Moir [?]» firmó a ruego de la compradora.",
+   "fuentes": "Este duplicado."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/184/02.jpg",
+  "fuente": "IMG_0892.JPG",
+  "lineas": [
+   "San Andrés de Giles N.º 184",
+   "Mensura",
+   "de un terreno propiedad de los",
+   "Herederos",
+   "de Doña Catalina W. de Carry.–",
+   "situado en el partido de",
+   "Giles.",
+   "Agrimensor",
+   "Wenceslao Castellanos",
+   "1900.",
+   "[signatura] J. L. [?] 1. [?]",
+   "[a lápiz] No tiene plano agregado [?] · Junio/932"
+  ]
+ },
+ "titulo": "Suc. Catalina Whelan de Carry",
+ "estado": "Transcripta (17 hojas, 454 renglones), 4 láminas"
+}

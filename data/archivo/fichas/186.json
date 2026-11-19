@@ -1,0 +1,749 @@
+{
+ "carpeta": "186",
+ "carpeta_nombre": "Carpeta 186",
+ "archivo": "Ficha 186 - Suc. María Dooner de Wheeler (1903).docx",
+ "resumen": {
+  "N.º de duplicado": "186 (San Andrés de Giles); a lápiz 10.64.18",
+  "Propietario / solicitante": "Sucesión de María Dooner de Wheeler",
+  "Agrimensor": "Ing. civil Juan E. Doyle (carátula y portadilla: «Juan T. Doyle»)",
+  "Año": "1903",
+  "Fecha de la diligencia": "10-14/3/1903; copia 16/4/1903; D. I. 21/8/1903; sobrante 1905",
+  "Ubicación": "Estancia «San Cristóbal», entre los arroyos de Giles y Suero, cuartel 6.º",
+  "Orden judicial": "Juez civil Dr. Hermidio [?] A. Lascano (La Plata), 25/2/1903",
+  "Vendedor / antecesor": "Patricio Wheeler († 1885); títulos Torres 1854, Marfil 1862, Puebla 1870, De Dios 1899",
+  "Linderos citados": "Mooney, Morgan, G. de Dios, Labayen, Speroni, Sillou, Nascimbene, F. P. de Ponce",
+  "Medidas": "AB 454; BC 1201; CD 1353,2; EF 1663; FG 2910; GH 2487,55; IJ 1511; JA 2607 m",
+  "Rumbos": "N 46° 58′ O / N 43° 02′ E; FG S 16° 34′ O; ordenadas a los arroyos",
+  "Referencia de archivo": "AHG PBA, duplicado 186; exp. E-160-154 (1904); P-173-1941, P-1276-1940"
+ },
+ "metricas": {
+  "superficie_ha": "1068,06 (sucesión) + 509,61 (María W.) = 1577,67",
+  "hitos": "estancia San Cristóbal; estancia de Ponce; población de Nascimbene; 3 puestos; mojón de fierro A; mojones de madera; alambrados",
+  "aguas": "arroyo de Giles; arroyo Suero («antes Cañada de los Sosas»); arroyo Mooney"
+ },
+ "sintesis": "Mensura y división de la sucesión de María Dooner, viuda de Patricio Wheeler, en la estancia «San Cristóbal» entre los arroyos de Giles y Suero. Los títulos encadenan una venta de 1759 (Juan Francisco de Suero), la estancia de Torres (1854), las fajas de Marfil y Puebla y 110 ha compradas a los De Dios en 1899. Doyle mide 1068,06 ha y, al medir también la fracción de la hija María (509,61 ha), halla un sobrante de 44,67 ha que ubica sobre el arroyo de Giles. Divide en cinco lotes (Juan compra a Tomás y Lorenzo). El Departamento de Ingenieros eleva el sobrante fiscal a 52,02 ha; en 1904-1905 se remata y se vende a Miguel Pelaez a 130 $ la hectárea.",
+ "caratula": {
+  "img": "img/f/186/01.jpg",
+  "fuente": "IMG_0924.JPG (duplicado IMG_3724)",
+  "campos": [
+   [
+    "N.º",
+    "186"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "María Dooner de Wheeler"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Juan T. Doyle"
+   ],
+   [
+    "Año",
+    "1903"
+   ],
+   [
+    "Juzgado / Secretaría",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · circular a los linderos (2/3/1903)",
+   "img": "img/f/186/06.jpg",
+   "fuente": "IMG_0926.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "Circular.",
+    "El Ingeniero que suscribe, habiendo recibido comisión del Señor Juez de Primera Instancia en lo Civil y Comercial del Departamento de la Capital de la Provincia de Buenos Aires Doctor D. Hermidio [?] A. Lascano, con fecha 25 de febrero de 1903 para proceder á practicar la mensura y división del campo de propiedad de la Sucesión de Doña María Dooner de Wheeler, ubicado en el Partido de San Andrés de Giles, avisa á Vd. que va á dar principio á la mensura el día 10 del corriente Marzo, desde el mojón esquinero Norte de dicho campo, á fin de que pueda Vd. como lindero concurrir á presenciarla.",
+    "Queda Vd. pues invitado á asistir con sus títulos al mencionado punto si desea acompañarme desde allí, y si lo hará desde los límites de su campo, le pido indique donde se le debe pasar el",
+    "[sello: Foja 1]"
+   ],
+   "interpretacion": "Circular impresa-manuscrita del ingeniero: comisionado el 25/2/1903 por el juez civil de la Capital (La Plata) Dr. Hermidio [?] A. Lascano para la mensura y división del campo de la sucesión de María Dooner de Wheeler, avisa que empezará el 10 de marzo desde el mojón esquinero Norte e invita a los linderos a concurrir «con sus títulos». Es la fórmula estándar de citación de fines del siglo XIX."
+  },
+  {
+   "titulo": "Folio 1 vuelto · firmas de los linderos notificados",
+   "img": "img/f/186/07.jpg",
+   "fuente": "IMG_0927.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "aviso oportuno. ——",
+    "Servirse darse por notificado devolviéndome la presente suscrita por Vd. como es de práctica.",
+    "Buenos Aires Marzo 2 de 1903",
+    "f.do Juan E. Doyle",
+    "Por poder de mi Señora Madre Trinidad [?] S. de Rodríguez",
+    "f.do Bernardino C. Rodríguez",
+    "f.do Emiliano J. Sosa — f.do Cenobio Pelaez.",
+    "f.do G. de Dios — f.do Margarita Mooney de Morgan",
+    "A ruego de M. E. Mooney",
+    "f.do Daniel Carthy [?]",
+    "f.do Fran.co Gurría — f.do Alejo Sillou",
+    "Por herederos de Rosendo de Dios",
+    "f.do Venancia C. de de Dios",
+    "Por Fortunata P. de Ponce",
+    "f.do Cayetano Ponce",
+    "Por María Wheeler Dooner",
+    "f.do Juan Wheeler",
+    "f.do José A. Labayen — f.do",
+    "f.do Ángel Nascimbene Francisco Speroni.",
+    "Es copia Buenos Aires abril 16 de 1903",
+    "Juan E. Doyle",
+    "Ing.o Civil"
+   ],
+   "interpretacion": "La circular vuelve firmada por los linderos: Bernardino C. Rodríguez (por poder de su madre Trinidad [?] S. de Rodríguez), Emiliano J. Sosa, Cenobio Pelaez, G. de Dios, Margarita Mooney de Morgan, Daniel Carthy [?] a ruego de M. E. Mooney (María Mooney no firma), Francisco Gurría, Alejo Sillou, Venancia C. de de Dios por los herederos de Rosendo de Dios, Cayetano Ponce por Fortunata P. de Ponce, Juan Wheeler por María Wheeler Dooner, José A. Labayen, Ángel Nascimbene y Francisco Speroni. Es la lista completa del vecindario: criollos (Sosa, De Dios, Ponce, Rodríguez), irlandeses (Mooney, Morgan, Wheeler, Carthy) e italianos y vascos (Speroni, Nascimbene, Gurría, Labayen, Sillou)."
+  },
+  {
+   "titulo": "Folio 2 · acta de inasistencia en la estancia «San Cristóbal»",
+   "img": "img/f/186/08.jpg",
+   "fuente": "IMG_0927.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "Acta",
+    "En la Estancia «San Cristóbal» Partido de San Andrés de Giles á catorce días del mes de Marzo del año del sello di fin á la operación de mensura general del campo perteneciente á la Sucesión de Doña María Dooner de Wheeler y no habiendo concurrido los linderos que fueron citados con la anticipación debida, formulo esta acta que firman conmigo los Sres. Roque J. Benavides y Alberto Secchi.",
+    "f.do Juan E. Doyle",
+    "f.do Roque J. Benavides",
+    "f.do Alberto Secchi",
+    "Es copia Buenos Aires Abril 16 de 1903",
+    "Juan E. Doyle",
+    "Ing.o Civil",
+    "[sello: Departamento de Ingenieros de la Provincia · Entrada 18 Abril 1903] [sello: Foja 2]"
+   ],
+   "interpretacion": "El 14 de marzo de 1903, en la estancia «San Cristóbal», Doyle termina la mensura general y labra acta porque ningún lindero concurrió; firman como testigos Roque J. Benavides y Alberto Secchi. El ritual se cumple aun sin público: la citación firmada reemplaza la presencia."
+  },
+  {
+   "titulo": "Folio 3 · títulos: la estancia «Alcadia» o «San Cristóbal» (1842-1854)",
+   "img": "img/f/186/09.jpg",
+   "fuente": "IMG_0928.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 3]",
+    "Estracto de títulos",
+    "Título procedente de la compra efectuada á D. Francisco Torres.",
+    "En Buenos Aires á 27 de Agosto de 1842 ante el escribano D. Adolfo Conde, D. Climaco Daract en representación de D. Luis Maldonado vende á D. Francisco Torres una Estancia conocida por de «Alcadia» ó «San Cristóbal» cita entre los arroyos de Giles y Suero en el Partido de San Andrés de Giles cuyo terreno se compone de (2500 v.) dos mil quinientas varas de frente al Este y una legua de fondo al Oeste: y linda por el primer viento con el mencionado arroyo de Giles, por el segundo con D. Francisco del Sar, por el Sud con Doña Cármen Benitez y por el Norte con D. Vicente Marfil.",
+    "En Buenos Aires á 23 de Setiembre de 1854 ante el escribano D. Manuel José de Zeballos, D. Francisco Torres vende á D. Patricio Wheeler la Estancia San Cristóbal antes citada.",
+    "Título procedente de la compra efectuada á Doña Micaela Marfil."
+   ],
+   "interpretacion": "Primer título: el 27/8/1842 Clímaco Daract, por Luis Maldonado, vende a Francisco Torres la estancia «de Alcadia» [?] o «San Cristóbal», entre los arroyos de Giles y Suero, de 2500 varas de frente al E (sobre el arroyo de Giles) por una legua de fondo al O; linderos Francisco del Sar (O), Carmen Benítez (S) y Vicente Marfil (N). El 23/9/1854 Torres la vende a Patricio Wheeler. Cruce directo con la Ficha 022 (Wheeler 1858) y con la 009 (Francisco Maldonado 1856)."
+  },
+  {
+   "titulo": "Folio 4 · títulos de Micaela Marfil (1862) y origen colonial (1759)",
+   "img": "img/f/186/10.jpg",
+   "fuente": "IMG_0929.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 4]",
+    "En San Andrés de Giles á 25 de Febrero de 1862 ante el Juez de Paz del Partido, D. José M. del Mármol, Doña Micaela Marfil vende á D. Patricio Wheeler un terreno de Estancia situado en Giles en el parage denominado Cañada de los Sosas compuesto de (500 vs.) quinientas varas de frente que lo tenía en dicha Cañada con todo el fondo que resulte hasta el mojón de la legua y linda por el Norte con el comprador D. Patricio Wheeler, por el Sur con D. Natal Torres, por el Este con los herederos de D. Manuel Ponce y por el Oeste con D. Guillermo Mooney.",
+    "Este terreno lo hubo por donación que de él le hizo su legítimo hermano D. Vicente Marfil según documento otorgado á su favor en San Andrés de Giles á 4 de Junio de 1839 ante el Juez de Paz D. Joaquín Sosa.",
+    "Título procedente de la compra efectuada á D. Andrés Puebla.",
+    "En la Villa de Luján á 13 de Setiembre de 1759 ante D. Juan Ponce de León alcalde ordinario de dicha Villa, D. Juan Francisco de Suero vende á D."
+   ],
+   "interpretacion": "El 25/2/1862, ante el juez de paz José M. del Mármol, Micaela Marfil vende a Wheeler 500 varas «en la Cañada de los Sosas», con fondo hasta el mojón de la legua; linderos el comprador (N), Natal Torres (S), herederos de Manuel Ponce (E) y Guillermo Mooney (O). Lo tenía por donación de su hermano Vicente Marfil (1839, juez de paz Joaquín Sosa). Comienza el título de Andrés Puebla, que remonta a 1759: Juan Francisco de Suero vende ante el alcalde de Luján Juan Ponce de León."
+  },
+  {
+   "titulo": "Folio 5 · cadena Suero-Soca-Marfil-Carnero-Puebla (1759-1891)",
+   "img": "img/f/186/11.jpg",
+   "fuente": "IMG_0930.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 5]",
+    "Pedro Soca (1000 vs.) mil varas de tierra de cabezada con una legua de fondo.",
+    "Por fallecimiento de D. Pedro Soca le hereda su nieto D. Vicente Marfil á quien hereda á su vez su sobrino D. Juan Salustiano Carnero (1850).",
+    "En la testamentaría de este último se le adjudica á D. Andrés Puebla como parte de su haber un campo en San Antonio de Areco compuesto de (500 vs.) quinientas varas de frente con una legua de fondo (1863) Juez Dor. Miguel García Fernández.",
+    "En San Andrés de Giles á 27 de Mayo de 1870 ante D. Juan Silva Juez de Paz del Partido, D. Andrés Puebla vende á D. Patricio Wheeler un terreno de pastoreo situado en San Antonio de Areco compuesto de (500 vs.) quinientas varas de frente por una legua de fondo y linda por el Norte con D. Rosendo de Dios, por el Sur con el comprador, por el Este con el arroyo de Giles y por el Oeste con D. Guillermo Mooney.",
+    "En San Andrés de Giles á 10 de Julio de 1891 ante el escribano D. Cornelio Gamez [?], D. Andrés Puebla ratifica la venta anteriormente citada. ——"
+   ],
+   "interpretacion": "Suero vende a Pedro Soca 1000 varas de cabezada por una legua; lo hereda su nieto Vicente Marfil y de éste su sobrino Juan Salustiano Carnero (1850); en la testamentaría de Carnero (1863, juez Miguel García Fernández) se adjudican a Andrés Puebla 500 v × 1 legua, ubicadas «en San Antonio de Areco». Puebla las vende a Wheeler el 27/5/1870 (juez de paz Juan Silva) y ratifica en 1891. Un título de 1759 sostiene todavía una parcela de 1903: el apellido del primer poblador quedó en el arroyo de Suero."
+  },
+  {
+   "titulo": "Folio 6 · testamentaría de Patricio Wheeler (1885-1894)",
+   "img": "img/f/186/12.jpg",
+   "fuente": "IMG_0931.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 6]",
+    "Fallecido D. Patricio Wheeler en 16 de Junio de 1885 se inicia su testamentaría ante el Juzgado del Dor. Ignacio M. Gomez Secretaría de D. Máximo [?] Y. Gambra [?] y según su testamento fechado en Buenos Aires á 27 de Noviembre de 1882 por ante el escribano D. Arturo Agüela [?] son instituidos únicos y universales herederos su esposa Doña María Dooner y sus hijos legítimos D. Tomás, D. Lorenzo, D. Juan, Doña María, Doña Ana y Doña Catalina Wheeler y Dooner, su nieto D. Santiago Wheeler y Murtagh y según la cuenta de partición y adjudicaciones practicada por el Dor. Santiago G. O'Farrell y aprobada por auto fecha 22 de Diciembre de 1894 del Juez Dor. Rómulo Etcheverry se le adjudica á Doña María Dooner de Wheeler (947 hs. 57 as. 396 m.) novecientas cuarenta y siete hectáreas cincuenta y siete áreas trescientas noventa y seis centésimas [sic], del campo ubicado en San Andrés de Giles cuyos linderos son los siguientes: al Oeste los herederos de Guillermo Mooney, al Norte los herederos de Dios, al Este la otra fracción de este campo"
+   ],
+   "interpretacion": "Patricio Wheeler muere el 16/6/1885. Testamento de 1882; herederos la viuda María Dooner y los hijos Tomás, Lorenzo, Juan, María, Ana y Catalina Wheeler y Dooner, y el nieto Santiago Wheeler y Murtagh. Partición del Dr. Santiago G. O′Farrell, aprobada el 22/12/1894 por el juez Rómulo Etcheverry: a la viuda 947 ha 57 a 39,6 ca, al O (linderos her. Mooney, her. de Dios, Fortunata Porcel)."
+  },
+  {
+   "titulo": "Folio 7 · hijuela de María Wheeler y Dooner; compra a la sucesión De Dios (1899)",
+   "img": "img/f/186/13.jpg",
+   "fuente": "IMG_0932.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 7]",
+    "adjudicada á la heredera María Wheeler y al Sur Doña Fortunata Porcel. Por la misma cuenta de partición ya citada se adjudica á Doña María Wheeler y Dooner (475 hs. 42 as. 604 m.) cuatrocientas setenta y cinco hectáreas cuarenta y dos áreas seiscientos cuatro milésimas del mismo campo en Giles con los siguientes linderos: al Este arroyo de Giles en medio, con los herederos de Rodríguez, al Norte con los herederos de Dios, al Sur con Genoveva Ponce y Fortunata Porcel y al Oeste con la otra fracción de este campo adjudicada á Doña María Dooner de Wheeler.",
+    "Título procedente de la compra efectuada á la Sucesión de D. Ignacio de Dios.",
+    "En la Ciudad de Mercedes (B.s Aires) á 28 de Febrero de 1899 por ante el escribano José María Collazo, el Señor Juez de 1.a Instancia en lo Civil y Comercial del Departamento del Centro Dor. D. Jorge Maurice vende en nombre de la sucesión de D. Ignacio de Dios á Doña María Dooner de Wheeler una fracción de"
+   ],
+   "interpretacion": "A la hija María se adjudican 475 ha 42 a 60,4 ca al E, sobre el arroyo de Giles (enfrente, los herederos de Rodríguez). Comienza el título de la fracción comprada en remate judicial el 28/2/1899 (Mercedes, escribano José María Collazo, juez del Centro Jorge Maurice) a la sucesión de Ignacio de Dios."
+  },
+  {
+   "titulo": "Folio 8 · fracción De Dios de 110 ha (cuartel 6.º)",
+   "img": "img/f/186/14.jpg",
+   "fuente": "IMG_0933.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 8]",
+    "campo situada en el cuartel sexto del Partido de San Andrés de Giles con superficie de (110 hs.) ciento diez hectáreas, lindando por el Nor Este con unos campos que se reserva la sucesión vendedora, por el Nor Oeste con la misma sucesión vendedora y herederos de Guillermo Mooney, por el Sud Oeste con la compradora antes su esposo D. Patricio Wheeler y por el Sud Este arroyo del Suero de por medio con herederos de Rosendo de Dios y Gregorio de Dios.",
+    "A D. Ignacio de Dios correspondió este campo en mayor estensión por los siguientes conceptos: una fracción de (151 hs. 86 as. 70 cs.) ciento cincuenta y una hectáreas ochenta y seis áreas setenta centiáreas por herencia de sus finados padres D. Rosendo de Dios y Doña Petrona Figueroa por adjudicación que se le hizo según la cuenta particionaria practicada por el Dor. Augusto Elías y aprobada por auto de fecha 18 de Setiembre de 1883 por el Señor Juez de 1.a Instancia en lo Ci-"
+   ],
+   "interpretacion": "110 ha en el cuartel sexto, lindando con campos que se reserva la sucesión vendedora, con her. de Guillermo Mooney, con la propia compradora y, «arroyo del Suero de por medio», con herederos de Rosendo y Gregorio de Dios. Ignacio de Dios había recibido 151,867 ha por herencia de Rosendo de Dios y Petrona Figueroa (partición de Augusto Elías, aprobada 18/9/1883)."
+  },
+  {
+   "titulo": "Folio 9 · condominio Dios-Burgueño; extracto del expediente (1902)",
+   "img": "img/f/186/15.jpg",
+   "fuente": "IMG_0934.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 9]",
+    "vil y Comercial del Departamento del Centro Dor. D. Manuel B. Gonnet autorizado por el escribano D. Carlos D. Jimenez [?], y otra fracción igual á la anterior y dentro de los mismos linderos por compra efectuada á D. José E. Burgueño en San Antonio de Areco en 11 de Setiembre de 1884 ante el escribano D. José A. Ezquiaga. A D. José E. Burgueño correspondió esta última fracción por adjudicación que como cesionario de D. Ezequiel de Dios se le hizo en las testamentarías de sus finados padres de éste, los ya nombrados D. Rosendo de Dios y Doña Petrona Figueroa según la cuenta de partición ya citada.",
+    "A D. Ignacio de Dios y D. José E. Burgueño le fueron adjudicadas sus respectivas porciones en condominio habiendo cesado éste con motivo de la venta hecha por el segundo al primero como queda demostrado.",
+    "Estracto del expediente",
+    "En San Andrés de Giles á 7 de Abril de 1902 por ante el escribano D. Cornelio Gamez [?], D. Juan Wheeler dá poder al Dor. Santiago G. O'Fa-"
+   ],
+   "interpretacion": "Ignacio de Dios compró además la porción de José E. Burgueño, cesionario de Ezequiel de Dios (San Antonio de Areco, 11/9/1884, escribano José A. Ezquiaga), terminando el condominio. Extracto: el 7/4/1902 Juan Wheeler da poder al Dr. O′Farrell para iniciar la testamentaría de su madre."
+  },
+  {
+   "titulo": "Folio 10 · poderes de los herederos (abril 1902)",
+   "img": "img/f/186/16.jpg",
+   "fuente": "IMG_0935.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 10]",
+    "rrell para iniciar la testamentaría de su Señora madre Doña María Dooner de Wheeler.",
+    "En el Cármen de Areco á 11 de Abril de 1902 ante el escribano D. José Rivas, Doña Catalina Wheeler de Kelly con la venia de su esposo D. Mateo Kelly, dió poder al Dor. O'Farrell para iniciar la testamentaría de su Señora madre.",
+    "En San Andrés de Giles ante el escribano D. Cornelio Gamez [?] á 7 de Abril de 1902 D. Tomás Wheeler y D.a Ana Wheeler con análogo objeto confieren poder al Dor. O'Farrell.",
+    "El 14 de Abril de 1902 el Dor. O'Farrell inicia el juicio sucesorio de Doña María Dooner de Wheeler ante el Juzgado del D.r Pedro C. Aguilar [?] secretaría de Alfredo J. Gambra.",
+    "El 16 de Abril de 1902 D. Santiago Wheeler ante el escribano D. Antonio C. Varela de San Antonio de Areco confiere poder al D.r O'Farrell para iniciar la testamentaría de su abuela D.a María Dooner de Wheeler.",
+    "En el Cármen de Areco á 14 de Abril de 1902 ante el escribano D. José Rivas D. Lorenzo Wheeler"
+   ],
+   "interpretacion": "Catalina Wheeler de Kelly (con venia de su esposo Mateo Kelly) en Carmen de Areco; Tomás y Ana Wheeler en Giles; Santiago Wheeler en San Antonio de Areco; Lorenzo en Carmen de Areco. O′Farrell inicia el sucesorio el 14/4/1902 ante el juez Pedro C. Aguilar [?], secretaría Alfredo J. Gambra. La familia ya está dispersa en los partidos vecinos."
+  },
+  {
+   "titulo": "Folio 11 · declaratoria y descripción del campo (1902)",
+   "img": "img/f/186/17.jpg",
+   "fuente": "IMG_0936.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 11]",
+    "dá poder al Dor. O'Farrell para iniciar la testamentaría de su Señora madre.",
+    "En Julio 19 de 1902 el Juez Dor. Pedro C. Aguilar [?] autorizado por el escribano D. Alfredo J. Gambra, aprueba el Inventario y avalúo de los bienes de esta sucesión practicados por los Señores Lucas Cully [?] y Guillermo Ham [?] y declara como únicos y universales herederos de la causante á sus hijos legítimos D. Tomás, D. Lorenzo, D. Juan, D.a María, Doña Ana y Doña Catalina Wheeler y Dooner y por derecho de representación su nieto D. Santiago Wheeler hijo de D. Santiago Wheeler.",
+    "Entre los bienes que pertenecen á esta Sucesión figura un campo ubicado en San Andrés de Giles con una superficie de (947 hs. 57 as. 396 mil.) novecientas cuarenta y siete hectáreas cincuenta y siete áreas trescientas noventa y seis milésimas que linda al Norte con D. Alejo Sillou, sucesores de Rosendo de Dios y más campo de la misma testamentaría, al Este con María Wheeler y Dooner, al Sur sucesores de Loreto Ponce y Genoveva Ponce de Correa y al Oeste con Doña María"
+   ],
+   "interpretacion": "19/7/1902: se aprueba el inventario y avalúo (tasadores Lucas Cully [?] y Guillermo Ham [?]) y se declara herederos a los seis hijos y al nieto Santiago (hijo de Santiago). El campo de 947,57 ha linda al N con Alejo Sillou y sucesores de Rosendo de Dios, al E con María Wheeler y Dooner, al S con sucesores de Loreto Ponce y Genoveva Ponce de Correa y al O con María Mooney y Margarita M. de Morgan."
+  },
+  {
+   "titulo": "Folio 12 · nombramiento de Doyle; comienza la «Mensura»",
+   "img": "img/f/186/18.jpg",
+   "fuente": "IMG_0937.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 12]",
+    "Mooney y Doña Margarita M. de Morgan.",
+    "Lindando con el citado campo por el Norte otra fracción compuesta de (110 hs.) ciento diez hectáreas que linda por el Norte con José A. Labayen, al Este con sucesores de Rosendo de Dios, al Sud la otra fracción de campo ya citada y al Oeste con Gregorio de Dios.",
+    "En Febrero 25 de 1903 el Señor Juez Dor. D. Hermidio [?] A. Lascano nombra al Agrimensor Juan E. Doyle para que proceda á la división en lotes del campo de esta sucesión ubicado en San Andrés de Giles.",
+    "En la misma fecha fuí notificado y acepté el cargo.",
+    "En Marzo 2 de 1903 tomé antecedentes en el Departamento de Ingenieros de la Capital de la Provincia de Buenos Aires para practicar la mensura y división de este campo.",
+    "Mensura.",
+    "El Ingeniero que suscribe comisionado por el Señor Juez de 1.a Instancia en lo Civil y Comercial del Departamento de la Capital de la Provincia de Buenos Aires Dor. D. Hermidio [?] A. Lascano con"
+   ],
+   "interpretacion": "La fracción De Dios de 110 ha linda al N con José A. Labayen y al O con Gregorio de Dios. El 25/2/1903 el juez Lascano nombra al agrimensor Doyle para la división; acepta el mismo día y el 2/3/1903 toma antecedentes en el Departamento de Ingenieros."
+  },
+  {
+   "titulo": "Folio 13 · edictos, arranque en A (mojón de fierro); líneas AB y BC",
+   "img": "img/f/186/19.jpg",
+   "fuente": "IMG_0938.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 13]",
+    "fecha 25 de Febrero del corriente año para proceder á la mensura y división del campo perteneciente á la sucesión de Doña María Dooner de Wheeler ubicado en el Partido de San Andrés de Giles, después de haber hecho la publicación de edictos por el tiempo y en los diarios fijados por el S.r Juez y de haber pasado el aviso á los linderos de dicho campo según consta por los diarios y citación que original acompaño, dí principio á la operación el día diez de Marzo del año que rije, tomando por punto de arranque el designado con la letra A en el plano adjunto.",
+    "Línea AB. Desde A (mojón de fierro) con rumbo (N 46° 58′ O) Norte cuarenta y seis grados cincuenta y ocho minutos Oeste y lindando con María Mooney, medí (454 m.) cuatrocientos cincuenta y cuatro metros hasta B.",
+    "Línea BC. Desde B mojón de madera con rumbo (N. 43° 02′ E) Norte cuarenta y tres grados dos minutos Este y lindando con María Mooney y Gregorio de Dios medí (1201 m.) un mil doscientos un metros, á los (434 m.) cuatrocientos"
+   ],
+   "interpretacion": "Tras edictos y citación, el 10/3/1903 arranca en A, mojón de FIERRO. AB N 46° 58′ O 454 m con María Mooney; BC N 43° 02′ E 1201 m con María Mooney y Gregorio de Dios (mojón de madera a 434 m)."
+  },
+  {
+   "titulo": "Folio 14 · CD, relevamiento del arroyo Suero (DE) y EF",
+   "img": "img/f/186/20.jpg",
+   "fuente": "IMG_0939.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 14]",
+    "treinta y cuatro metros encontré un mojón de madera, á los (867,20 m.) ochocientos sesenta y siete metros con veinte centímetros encontré otro mojón de madera divisorio de Mooney y Dios.",
+    "Línea CD. Desde C (mojón de madera) con rumbo (S 46° 49′ E) Sud cuarenta y seis grados cuarenta y nueve minutos Este y lindando con José A. Labayen medí (1353,20 m.) un mil trescientos cincuenta y tres metros con veinte centímetros hasta llegar al punto D en la orilla del Arroyo Suero.",
+    "Línea DE. Desde D á fin de relevar el Arroyo Suero tracé la línea DE con rumbo (S. 33° 0′ O) Sud treinta y tres grados Oeste y lindando con Francisco Speroni y herederos de Rosendo de Dios arroyo por medio medí (778 m.) setecientos setenta y ocho metros hasta llegar á E y conjuntamente relevé el arroyo á lo largo de esta línea.",
+    "Línea EF. Desde E con rumbo (S 46° 58′ E) Sud cuarenta y seis grados cincuenta y ocho minutos Este y lindando con Francisco Speroni, Herederos de Rosendo de Dios y Alejo Sillou medí (1663 m.) un mil seiscientos sesenta y tres metros; á los (1100 m.) un mil cien metros"
+   ],
+   "interpretacion": "A 867,20 m de B, mojón divisorio Mooney-Dios. CD S 46° 49′ E 1353,20 m con Labayen hasta D, en la orilla del arroyo Suero. DE S 33° O 778 m, línea auxiliar para relevar el arroyo (Speroni y her. de Rosendo de Dios enfrente). EF S 46° 58′ E 1663 m con Speroni, her. de Rosendo de Dios y Sillou."
+  },
+  {
+   "titulo": "Folio 15 · camino de Giles a Vagues; FG y GH; estancia de Ponce",
+   "img": "img/f/186/21.jpg",
+   "fuente": "IMG_0940.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 15]",
+    "crucé el camino de Giles á Vagues; á los (1589,70 m.) un mil quinientos ochenta y nueve metros con setenta centímetros encontré un mojón de madera divisorio de Herederos de Rosendo de Dios, Speroni y Sillou.",
+    "Línea FG. Desde F (mojón de madera) con rumbo (S. 16° 34′ O) Sud diez y seis grados treinta y cuatro minutos Oeste y lindando con la heredera María Wheeler y Dooner medí (2910 m.) dos mil novecientos diez metros, á los (2440 m.) dos mil cuatrocientos cuarenta metros dejé un puesto (50 m.) cincuenta metros á la derecha.",
+    "Línea GH. Desde G (mojón de madera) con rumbo (N 46° 58′ O) Norte cuarenta y seis grados cincuenta y ocho minutos Oeste y lindando con Ángel Nascimbene y Fortunata P. de Ponce medí (2487,55 m.) dos mil cuatrocientos ochenta y siete metros con cincuenta y cinco centímetros, á los 404 m. encontré un mojón de madera divisorio de Nascimbene y Ponce, á los 552 m. crucé el camino de Giles á Vagues y á los 2413 m. dejé la Estancia de Ponce 420 m. á la izquierda.",
+    "Línea HI. Desde H mojón de madera con"
+   ],
+   "interpretacion": "EF cruza a 1100 m el CAMINO DE GILES A VAGUES; mojón triple Dios-Speroni-Sillou a 1589,70 m. FG S 16° 34′ O 2910 m con María Wheeler y Dooner, dejando un PUESTO 50 m a la derecha. GH N 46° 58′ O 2487,55 m con Nascimbene y Fortunata P. de Ponce: mojón Nascimbene-Ponce a 404 m, otra vez el camino a Vagues a 552 m y la ESTANCIA DE PONCE 420 m a la izquierda a 2413 m."
+  },
+  {
+   "titulo": "Folio 16 · HI, IJ (arroyo Suero «antes Cañada de los Sosas»), JA",
+   "img": "img/f/186/22.jpg",
+   "fuente": "IMG_0941.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 16]",
+    "rumbo (S. 43° 02′ O) Sud cuarenta y tres grados dos minutos Oeste y lindando con Fortunata P. de Ponce medí (435 m.) cuatrocientos treinta y cinco metros.",
+    "Línea IJ. Desde I (mojón de madera) con rumbo (N 46° 58′ O) Norte cuarenta y seis grados cincuenta y ocho minutos Oeste y lindando con Fortunata P. de Ponce medí (1511 m.) un mil quinientos once metros: á los 605 m. crucé el Arroyo Suero antes Cañada de los Sosas.",
+    "Línea JA. Desde J mojón de madera con rumbo (N. 43° 02′ E) Norte cuarenta y tres grados dos minutos Este y lindando con Margarita M. de Morgan y María Mooney medí (2607 m.) dos mil seiscientos siete metros hasta el punto A de partida, á los 871,20 m. encontré un mojón de madera divisorio de Morgan y Mooney y á los 1743 m. crucé el arroyo Mooney.",
+    "Habiendo dado término á esta operación el día doce de Marzo del corriente año y no habiendo concurrido á presenciarla ninguno de los linderos levanté el acta que original se acompaña ante los testigos D. Roque J. Benavides"
+   ],
+   "interpretacion": "HI S 43° 02′ O 435 m; IJ N 46° 58′ O 1511 m con Ponce, cruzando a 605 m el «Arroyo Suero antes Cañada de los Sosas»; JA N 43° 02′ E 2607 m con Margarita M. de Morgan y María Mooney, mojón Morgan-Mooney a 871,20 m y cruce del ARROYO MOONEY a 1743 m. Termina el 12 de marzo sin linderos presentes. (Cierre verificado en python: error 4,2 m sobre 15,4 km de perímetro; área 1066,95 ha contra 1066,27 del texto.)"
+  },
+  {
+   "titulo": "Folio 17 · linderos y superficie: 1068,06 ha",
+   "img": "img/f/186/23.jpg",
+   "fuente": "IMG_0942.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 17]",
+    "y D. Alberto Secchi.",
+    "Linderos. Linda por el Nor Oeste en parte con Margarita M. de Morgan, María Mooney y Gregorio de Dios, por el Nor Este en parte con José A. Labayen, Francisco Speroni, Herederos de Rosendo de Dios y Alejo Sillou, por el Sud Este con la heredera María Wheeler y Dooner por el Sud Oeste en parte con Ángel Nascimbene y Fortunata P. de Ponce.",
+    "Superficie. El área comprendida por el polígono ABCDEFGHIJA es de (1066 hs. 27 as. 11 cs.) un mil sesenta y seis hectáreas veinte y siete áreas once centiáreas más la superficie estrapoligonal encontrada por el relevamiento del Arroyo Suero (1 hs. 79 as. 30 cs.) una hectárea setenta y nueve áreas treinta centiáreas formando un total de (1068 hs. 06 as. 41 cs.) un mil sesenta y ocho hectáreas seis áreas cuarenta y una centiáreas la cual escede del área señalada en los títulos de (1057 hs. 57 as. 396 mils.) un mil cincuenta y siete hectáreas cincuenta y siete áreas trescientas noventa y seis milésimas en (10 hs. 49 as. 014 mils.) diez hectáreas cuarenta y nueve áreas catorce milésimas.",
+    "Con el fin de esclarecer si el escedente encontrado"
+   ],
+   "interpretacion": "Polígono ABCDEFGHIJA 1066 ha 27 a 11 ca + 1 ha 79 a 30 ca extrapoligonal del arroyo Suero = 1068 ha 06 a 41 ca; títulos (947,57 + 110) = 1057,57 ha: exceso de 10 ha 49 a (≈ 1 %)."
+  },
+  {
+   "titulo": "Folio 18 · se mide también la fracción de María Wheeler (FU y poligonal UVWXY)",
+   "img": "img/f/186/24.jpg",
+   "fuente": "IMG_0943.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 18]",
+    "en el campo de esta sucesión pudiera corresponder á la fracción que le fué adjudicada á María Wheeler en la testamentaría de D. Patricio Wheeler procedí á medir esta fracción en la siguiente forma:",
+    "Línea FU. Desde F con rumbo (S. 46° 58′ E) Sud cuarenta y seis grados cincuenta y ocho minutos Este y lindando con Alejo Sillou medí (2129 m.) dos mil ciento veinte y nueve metros hasta U punto situado á (11 m.) once metros antes del arroyo de Giles. A los (537 m.) quinientos treinta y siete metros dejé un puesto ciento cincuenta metros (150 m.) á la derecha; á los (748,30 m.) setecientos cuarenta y ocho metros con treinta centímetros encontré un mojón de madera.",
+    "Para relevar el arroyo Giles tracé la poligonal UVWXY [?].",
+    "Línea UV. Desde U con rumbo (S. 19° 16′ O) Sud diez y nueve grados diez y seis minutos Oeste y lindando con Bernardino Rodríguez y Francisco Gurría arroyo de Giles de por medio medí (533 m.) quinientos treinta y tres metros hasta V; á los (325 m.) trescientos veinte y cinco metros enfrenté al alambrado divisorio entre Rodríguez y Gurría.",
+    "Línea VW. Desde V con rumbo (S. 7° 13′ E) Sud siete grados trece minutos Este y lindando con Francisco Gurría",
+    "[nota: el copista traza U y V de modo casi idéntico; se normaliza según la secuencia de la poligonal.]"
+   ],
+   "interpretacion": "Para ver si el exceso pertenecía a la hija, Doyle mide su fracción: FU S 46° 58′ E 2129 m con Sillou hasta U, a 11 m del arroyo de Giles, dejando un PUESTO 150 m a la derecha. Poligonal auxiliar sobre el arroyo: UV S 19° 16′ O 533 m (enfrente Bernardino Rodríguez y Francisco Gurría; a 325 m el ALAMBRADO divisorio Rodríguez-Gurría); VW S 7° 13′ E."
+  },
+  {
+   "titulo": "Folio 19 · WX, XY y ordenadas cada 50 m al arroyo de Giles",
+   "img": "img/f/186/25.jpg",
+   "fuente": "IMG_0944.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 19]",
+    "y Emiliano J. Sosa arroyo de Giles de por medio medí (490 m.) cuatrocientos noventa metros hasta W.",
+    "Línea WX. Desde W con rumbo (S 54° 28′ O) Sud cincuenta y cuatro grados veinte y ocho minutos Oeste y lindando con Francisco Gurría y Emiliano J. Sosa arroyo de Giles de por medio medí (722 m.) setecientos veinte y dos metros hasta X; á los (450 m.) cuatrocientos cincuenta metros dejé un puesto (400 m.) cuatrocientos metros á la derecha.",
+    "Línea XY. Desde X con rumbo (S 32° 47′ O) Sud treinta y dos grados cuarenta y siete minutos Oeste y lindando con Emiliano J. Sosa y Cenobio Pelaez arroyo de Giles de por medio medí (1115 m.) un mil ciento quince metros hasta Y; á los (1020 m.) un mil veinte metros enfrenté al alambrado divisorio entre Sosa y Pelaez. A lo largo de las líneas UV, VW, WX y XY como eje de abcisas tomé ordenadas á la izquierda cada cincuenta metros (50) para relevar el Arroyo de Giles como está indicado en el plano respectivo.",
+    "Línea YG. Desde el punto Y situado á (14 m.) catorce metros del arroyo con rumbo (N. 46° 58′ O) Norte cuarenta y seis grados cincuenta y ocho minutos Oeste medí (1478"
+   ],
+   "interpretacion": "VW 490 m (Gurría y Emiliano J. Sosa enfrente); WX S 54° 28′ O 722 m, con un PUESTO 400 m a la derecha; XY S 32° 47′ O 1115 m (Sosa y Cenobio Pelaez, alambrado divisorio a 1020 m). Ordenadas cada 50 m a la izquierda para dibujar el arroyo. YG N 46° 58′ O 1478 m."
+  },
+  {
+   "titulo": "Folio 20 · fracción de María: 509,61 ha; el sobrante «excede la ley»",
+   "img": "img/f/186/26.jpg",
+   "fuente": "IMG_0945.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 20]",
+    "m.) un mil cuatrocientos setenta y ocho metros hasta G mojón de madera: á los (700 m.) setecientos cincuenta [sic] metros dejé la población de Ángel Nascimbene (300 m.) trescientos metros á la izquierda.",
+    "Línea GF. Rumbo (N. 16° 34′ E) Norte diez y seis grados treinta y cuatro minutos Este. Longitud (2900 m.) [sic] dos mil novecientos diez metros.",
+    "Superficie. El área encerrada en el polígono FUVWXYG es igual á (500 hs. 39 as. 07 cs.) según planilla que acompaño y la estrapoligonal (9 hs. 21 as. 74 cs.) nueve hectáreas veinte y una áreas setenta y cuatro centiáreas que dá un total de (509 hs. 60 as. 81 cs.) quinientas nueve hectáreas sesenta áreas ochenta y una centiáreas sobrepasando á lo que le adjudica la hijuela respectiva de (475 hs. 42 as. 604 mils.) cuatrocientos setenta y cinco hectáreas cuarenta y dos áreas seiscientas cuatro milésimas en 34 hs. 18 as. 214 mils. treinta y cuatro hectáreas diez y ocho áreas doscientas catorce milésimas lo que escede de lo admitido por la ley de sobrantes.",
+    "Sobrante. Agregando al sobrante hallado en el campo de María Wheeler y Dooner de 34 hs. 18 as. 214 mils. treinta y cuatro hectáreas diez y ocho áreas doscientas catorce"
+   ],
+   "interpretacion": "En YG deja la POBLACIÓN DE ÁNGEL NASCIMBENE 300 m a la izquierda. FUVWXYG = 500,39 ha + 9,22 extrapoligonal = 509,61 ha contra 475,43 de hijuela: exceso de 34,18 ha (7,2 %), que «excede de lo admitido por la LEY DE SOBRANTES»."
+  },
+  {
+   "titulo": "Folio 21 · sobrante total 44,67 ha ubicado sobre el arroyo de Giles",
+   "img": "img/f/186/27.jpg",
+   "fuente": "IMG_0946.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 21]",
+    "milésimas el excedente encontrado en el campo de la sucesión de Doña María Dooner de Wheeler de 10 hs. 49 as. 014 mils. diez hectáreas cuarenta y nueve áreas catorce milésimas resulta un sobrante total de 44 hs. 67 as. 228 mil. cuarenta y cuatro hectáreas setenta y siete [sic: sesenta y siete] áreas doscientos veinte y ocho milésimas en todo el campo que procedí á ubicarlo en la siguiente forma:",
+    "Desde U sobre la línea UF medí (777,13 m.) setecientos setenta y siete metros con trece centímetros hasta a donde coloqué un mojón de madera. En a cuadré á la izquierda y medí (487,80 m.) cuatrocientos ochenta y siete metros con ochenta centímetros hasta b donde coloqué mojón de madera. En b cuadré á la izquierda y medí (991,93 m.) novecientos noventa y un metros con noventa y tres centímetros hasta V. Desde este punto medí hasta U (533 m.) quinientos treinta y tres metros. El área del trapecio UabV es igual á 43 hs. 14 as. 74 cs. cuarenta y tres hectáreas catorce áreas setenta y cuatro centiáreas y agregando la superficie estrapoligonal sobre la base UV de 1 hs. 52 as. 50 cs. una hectárea cincuenta y dos áreas cincuenta centiáreas resulta para superficie total del sobrante 44 hs. 67 as. 24 cs. cuarenta y cuatro hectáreas sesenta y siete áreas veinte y cuatro centiáreas.",
+    "Con el fin de ubicar el área exacta que corresponde á la Su-"
+   ],
+   "interpretacion": "Suma 34,18 + 10,49 = 44,67 ha y lo ubica como trapecio U-a-b-V junto al arroyo de Giles (Ua 777,13 m, ab 487,80, bV 991,93, VU 533), 43,15 ha + 1,53 extrapoligonal (verificado). El copista escribe «setenta y siete» por sesenta y siete áreas."
+  },
+  {
+   "titulo": "Folio 22 · traslado paralelo de FG; División en cinco lotes",
+   "img": "img/f/186/28.jpg",
+   "fuente": "IMG_0947.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 22]",
+    "cesión de Doña María Dooner de Wheeler transporté la línea FG paralelamente á sí misma de 36,05 m. treinta y seis metros con cinco centímetros hasta F′G′ quedando los puntos F′ y G′ que marqué con mojones de madera á 40,27 m. cuarenta metros con veinte y siete centímetros de F y G respectivamente y determinando así el paralelogramo FGG′F′ cuyo área es igual á 10 hs. 49 as. 05 cs. diez hectáreas cuarenta y nueve áreas cinco centiáreas.",
+    "División",
+    "Terminada la mensura general del campo procedí á dividirlo en (5) cinco lotes teniendo en cuenta lo manifestado por los herederos D. Tomás, D. Lorenzo y D. Juan Wheeler de que los dos primeros vendían al último la parte de campo que les correspondieran.",
+    "Doña María Wheeler y Dooner.",
+    "Línea F′G′. Desde F′ (mojón de madera) esquinero Este de todo el campo perteneciente á esta sucesión y Norte de más campos de María Wheeler y Dooner con rumbo (S 16° 34′ O) Sud diez y seis grados treinta y cuatro minutos Oeste y lindando con más campos de María Wheeler y Dooner medí (2910 m.) dos mil novecientos diez metros hasta G′.",
+    "Línea G′R. Desde G′ mojón de madera y sobre G′H medí (544,53 m.) quinientos cuarenta y cuatro metros con cincuenta y tres centímetros hasta R donde puse un mojón de madera."
+   ],
+   "interpretacion": "Para devolver a la sucesión exactamente sus títulos, corre FG 36,05 m paralela hasta F′G′: paralelogramo de 10,49 ha (36,05 × 2910 m, verificado) que pasa a la fracción de María. Juan compra a Tomás y Lorenzo, de modo que se hacen 5 lotes y no 7. Lote de María: F′G′ S 16° 34′ O 2910 m; G′R 544,53 m."
+  },
+  {
+   "titulo": "Folio 23 · lote de María (141,85 ha); arranque del de Juan",
+   "img": "img/f/186/29.jpg",
+   "fuente": "IMG_0948.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 23]",
+    "Línea RO. Desde R con rumbo (N 16° 34′ E) Norte diez y seis grados treinta y cuatro minutos Este medí (2910 m.) dos mil novecientos diez metros hasta O donde puse un mojón de madera.",
+    "Línea OF′. Desde O sobre la línea EF′ medí (544,53 m.) quinientos cuarenta y cuatro metros con cincuenta y tres centímetros hasta F′ punto de partida.",
+    "Superficie. El área del polígono F′G′ROF′ es igual á (141 hs. 85 as. 28 cs.) ciento cuarenta y una hectáreas ochenta y cinco áreas veinte y ocho centiáreas.",
+    "Linderos. Al Nor Este linda con Francisco Speroni, Herederos de Rosendo de Dios y Alejo Sillou; al Nor Oeste los lotes que se adjudicaron á Juan Wheeler y á Catalina W. de Kelly, al Sud Este con más campos de María Wheeler y Dooner y al Sud Oeste con Ángel Nascimbene y Fortunata P. de Ponce.",
+    "Don Juan Wheeler",
+    "Línea AK. Desde A mojón de fierro sobre la línea AJ medí (300 m.) trescientos metros hasta K donde coloqué un mojón de madera.",
+    "Línea KL. Desde K con rumbo (S 46° 58′ E) Sud cuarenta y seis grados cincuenta y ocho minutos Este medí (1086 m.) un mil ochenta y seis metros hasta L donde puse un mojón de madera; á los (1064 m.) crucé el arroyo «Suero»."
+   ],
+   "interpretacion": "María: F′G′RO, 141,85 ha, franja de 544,53 × 2910 m al E. Juan Wheeler: AK 300 m sobre AJ, KL S 46° 58′ E 1086 m cruzando el arroyo Suero a 1064 m."
+  },
+  {
+   "titulo": "Folio 24 · lote de Juan Wheeler: 450,54 ha poligonales",
+   "img": "img/f/186/30.jpg",
+   "fuente": "IMG_0949.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 24]",
+    "Línea LM. Desde L con rumbo (S 61° 34′ O) Sud sesenta y un grados treinta y cuatro minutos Oeste medí (922,60 m.) novecientos veinte y dos metros con sesenta centímetros hasta M donde puse un mojón de madera y al mismo tiempo relevé el arroyo «Suero» en todo el largo de esta línea; á los (825 m.) corta el arroyo.",
+    "Línea MN. Desde M con rumbo (S 46° 58′ E) Sud cuarenta y seis grados cincuenta y ocho minutos Este medí (2119,15 m.) dos mil ciento diez y nueve metros con quince centímetros hasta N donde coloqué un mojón de madera.",
+    "Línea ND [= NO]. Desde N siguiendo la línea RD [= RO] medí (1798,50 m.) un mil setecientos noventa y ocho metros con cincuenta centímetros hasta D [= O].",
+    "Línea DE [= OE]. Desde D [= O] sobre la línea FE medí (1078,55 m.) un mil setenta y ocho metros con cincuenta y cinco centímetros hasta E.",
+    "Las líneas ED, DC, CB y BA están ya descriptas en la mensura general.",
+    "Superficie. El área comprendida dentro del polígono AKLMNOEDCBA es igual á (450 hs. 53 as. 59 cs.) cuatrocientas cincuenta hectáreas cincuenta y tres áreas cincuenta y nueve centiáreas.",
+    "[nota: el copista traza la O como D en este folio; el polígono AKLMNOEDCBA y la geometría (O sobre EF′) confirman que se trata del punto O.]"
+   ],
+   "interpretacion": "LM S 61° 34′ O 922,60 m relevando el arroyo Suero; MN S 46° 58′ E 2119,15 m; NO 1798,50 m; OE 1078,55 m (el copista traza O como D). Polígono AKLMNOEDCBA = 450,54 ha."
+  },
+  {
+   "titulo": "Folio 25 · Juan: 455,08 ha (triple porción, incluye la estancia); Catalina",
+   "img": "img/f/186/31.jpg",
+   "fuente": "IMG_0950.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 25]",
+    "más la superficie estrapoligonal de la línea ED de (1 hs. 79 as. 30 cs.) una hectárea setenta y nueve áreas treinta centiáreas, más la superficie estrapoligonal de la línea LM igual á (2 hs. 74 as. 75 cs.) dos hectáreas setenta y cuatro áreas setenta y cinco centiáreas dá un total de (455 hs. 07 as. 64 cs.) cuatrocientas cincuenta y cinco hectáreas siete áreas sesenta y cuatro centiáreas.",
+    "Linderos. Linda por el Nor Este con José A. Labayen, Francisco Speroni y Herederos de Rosendo de Dios, al Nor Oeste con María Mooney, Gregorio de Dios y arroyo por medio con Santiago Wheeler, al Sud Este con el lote adjudicado á María Wheeler y arroyo por medio con Francisco Speroni y Herederos de Rosendo de Dios, al Sud Oeste los lotes que se adjudican á Catalina W. de Kelly y Ana y Santiago Wheeler.",
+    "Doña Catalina W. de Kelly.",
+    "Línea RQ. Desde R mojón de madera sobre la línea RH medí (1772,75 m.) un mil setecientos setenta y dos metros con setenta y cinco centímetros hasta el punto Q donde coloqué un mojón de madera.",
+    "Línea QP. Desde Q con rumbo (N 43° 02′ E) Norte cuarenta y tres grados dos minutos Este medí (995 m.) novecientos noventa y cinco me-"
+   ],
+   "interpretacion": "Con extrapoligonales de ED (1,79) y LM (2,75) da 455,08 ha, ≈ 3 × 151,7: las porciones de Juan, Tomás y Lorenzo. Según el plano, la ESTANCIA SAN CRISTÓBAL queda en este lote. Catalina W. de Kelly: RQ 1772,75 m sobre RH; QP N 43° 02′ E 995 m."
+  },
+  {
+   "titulo": "Folio 26 · Catalina (151,62 ha); Santiago",
+   "img": "img/f/186/32.jpg",
+   "fuente": "IMG_0951.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 26]",
+    "tros hasta encontrar la línea MN en el punto P donde coloqué un mojón de madera.",
+    "Línea PN. Desde P sobre la línea MN medí (1274,85 m.) un mil doscientos setenta y cuatro metros con ochenta y cinco centímetros hasta llegar al punto N (mojón de madera).",
+    "Línea NR. Desde N sobre la línea OR medí (1111,50 m.) un mil ciento once metros con cincuenta centímetros hasta llegar al punto R (mojón de madera).",
+    "Superficie. El área encerrada por el polígono RQPNR es igual á (151 hs. 61 as. 81 cs.) ciento cincuenta y una hectáreas sesenta y una áreas ochenta y una centiáreas.",
+    "Linderos. Esta fracción de campo linda por el Nor Este con el lote de Juan Wheeler, por el Sud Este con el de María Wheeler, por el Sud Oeste con Fortunata P. de Ponce y por el Nor Oeste con el lote que se adjudica á Ana Wheeler.",
+    "Don Santiago Wheeler.",
+    "Línea MS. Desde M (mojón de madera) con rumbo (S 41° 45′ O) Sud cuarenta y un grados cuarenta y cinco minutos Oeste medí (928,45 m.) novecientos veinte y ocho metros con cuarenta y cinco centímetros hasta llegar al punto S donde coloqué un mojón de madera: en todo el largo de esta línea relevé el arroyo el cual es cortado varias veces por la misma."
+   ],
+   "interpretacion": "Catalina: RQPNR, 151,62 ha. Santiago Wheeler: MS S 41° 45′ O 928,45 m, relevando el arroyo «que es cortado varias veces» por la línea."
+  },
+  {
+   "titulo": "Folio 27 · Santiago (155,02 ha); Ana",
+   "img": "img/f/186/33.jpg",
+   "fuente": "IMG_0952.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 27]",
+    "Línea ST. Desde S con rumbo (N 46° 58′ O) Norte cuarenta y seis grados cincuenta y ocho minutos Oeste medí (816 m.) ochocientos diez y seis metros hasta T donde coloqué un mojón de madera.",
+    "Línea TK. Desde T y sobre la línea JA medí (1803 mts.) un mil ochocientos tres metros hasta K mojón de madera.",
+    "Las líneas KL y LM son las mismas del lote adjudicado á D. Juan Wheeler.",
+    "Superficie. El área comprendiendo las estrapoligonales de este lote es de (155 hs. 01 as. 90 cs.) ciento cincuenta y cinco hectáreas una área noventa centiáreas.",
+    "Linderos. Linda por el Nor Este con Juan Wheeler, por el Sud arroyo por medio con Juan y Ana Wheeler, por el Sud Oeste con Ana Wheeler y por el Nor Oeste con Margarita M. de Morgan y María Mooney.",
+    "Doña Ana Wheeler.",
+    "Línea JT. Desde J mojón de madera sobre la línea JA medí (504 mts.) quinientos cuatro metros hasta T mojón de madera."
+   ],
+   "interpretacion": "ST N 46° 58′ O 816 m; TK 1803 m; superficie con extrapoligonales 155,02 ha. Ana: JT 504 m."
+  },
+  {
+   "titulo": "Folio 28 · Ana (153,59 ha); conformidad de los herederos",
+   "img": "img/f/186/34.jpg",
+   "fuente": "IMG_0953.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 28]",
+    "Las líneas TS, SM, MP y PQ son las descriptas en los lotes anteriores.",
+    "Línea QH. Desde Q mojón de madera medí (130 mts.) ciento treinta metros hasta H.",
+    "Las líneas HI é IJ están ya descriptas en la mensura general.",
+    "Superficie. El área del polígono JTSMPQHIJ es de (154 hs. 41 as. 17 cs.) ciento cincuenta y cuatro hectáreas cuarenta y una áreas diez y siete centiáreas y restándole la estrapoligonal 81 as. 85 cs. ochenta y una áreas ochenta y cinco centiáreas queda de (153 hs. 59 as. 32 cs.) ciento cincuenta y tres hectáreas cincuenta y nueve áreas treinta y dos centiáreas.",
+    "Linderos. Este lote linda por el Nor Este con Santiago Wheeler y Juan Wheeler, por el Sur con Catalina W. de Kelly y Fortunata P. de Ponce, por el Nor Oeste con Margarita M. de Morgan y arroyo por medio con Santiago Wheeler y por el Sud Oeste con Fortunata P. de Ponce.",
+    "Estando conforme todos los herederos con esta forma de división labré una acta que firmaron conmigo y cuyo original lo pasado [sic] al apoderado común D.r Santiago G. O'Farrell.",
+    "Buenos Aires Abril 16 de 1903.",
+    "Es copia. Buenos Aires Abril 16 de 1903",
+    "Juan E. Doyle",
+    "Ing.o Civil"
+   ],
+   "interpretacion": "Ana: JTSMPQHIJ 154,41 − 0,82 = 153,59 ha (verificado). Los herederos firman un acta de conformidad cuyo original pasa al apoderado O′Farrell. Buenos Aires, 16/4/1903, Doyle. Suma de lotes 1057,16 ha, 0,41 ha menos que la superficie de títulos: diferencia no explicada en el texto."
+  },
+  {
+   "titulo": "Folio 29 · informe del Departamento de Ingenieros: el sobrante es de 52,02 ha",
+   "img": "img/f/186/35.jpg",
+   "fuente": "IMG_0954.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 29]",
+    "Señor Juez:",
+    "El Departamento de Ingenieros ha examinado la diligencia de mensura practicada por el Ingeniero Don Juan E. [?] Doyle, de un terreno de propiedad de la Sucesión de Doña María Dooner de Wheeler, ubicado en el partido de San Andrés de Giles y la encuentra en condiciones de ser aprobada por V. S. con las siguientes salvedades:",
+    "Dentro de los mojones y linderos del terreno que perteneció á Don Patricio Wheeler y Doña María Dooner de Wheeler ha resultado un sobrante fiscal de cincuenta y dos hectáreas, dos áreas, veinte y nueve centiáreas (52 h. 02 a. 29 c.) y no de cuarenta y cuatro hectáreas, sesenta y siete áreas, veinte y cuatro centiáreas (44 h. 67 a. 24 c.) como erróneamente dice el Ingeniero Doyle, como se verá por el siguiente extracto de títulos.",
+    "En Setiembre 23 de 1854 Don Francisco Torres vende á Don Patricio Wheeler un terreno compuesto de dos mil quinientas varas de frente (2500 vs.) por una legua de fondo, ó"
+   ],
+   "interpretacion": "El D. I. corrige a Doyle: el sobrante fiscal en todo el campo que fue de Patricio Wheeler y María Dooner es de 52 ha 02 a 29 ca, no 44,67. Rehace los títulos: Torres 2500 v = 2165 m × 5196 m = 1124,93 ha."
+  },
+  {
+   "titulo": "Folio 29 vuelto · Marfil y Puebla en hectáreas",
+   "img": "img/f/186/36.jpg",
+   "fuente": "IMG_0955.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "sean dos mil ciento sesenta y cinco metros (2165 ms.) de frente por cinco mil ciento noventa y seis metros (5196 m.) de fondo, lo que hace una superficie de mil ciento veinte y cuatro hectáreas noventa y tres áreas, cuarenta centiáreas (1124 h. 93 a. 40 c.).—",
+    "En Febrero 25 de 1862 Doña Micaela Marfil vende á Don Patricio Wheeler un terreno de quinientas varas de frente (500 vs.) con el fondo que resulte hasta el mojón de la legua. Según la presente mensura la superficie de este título entre los linderos que él expresa es de sesenta y cinco hectáreas, setenta y dos áreas, ochenta y cinco centiáreas (65 h. 72 a. 85 c.).—",
+    "En Mayo 27 de 1870 Don Andrés Puebla vende á Don Patricio Wheeler un terreno de quinientas varas de frente (500 vs.) por una legua de fondo, ó sean cuatrocientos treinta y tres metros (433 ms.) de frente por cinco mil ciento noventa y seis metros (5196 ms.) de fondo, lo que forma una superficie de doscientas veinte"
+   ],
+   "interpretacion": "Marfil: 65,73 ha medidas entre linderos; Puebla: 433 × 5196 m = 224,99 ha (verificado; la legua = 6000 v = 5196 m)."
+  },
+  {
+   "titulo": "Folio 30 · la partición de 1894 repartió 7,35 ha de más",
+   "img": "img/f/186/37.jpg",
+   "fuente": "IMG_0955.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 30]",
+    "y cuatro hectáreas, noventa y ocho áreas, sesenta y ocho centiáreas (224 h. 98 a. 68 c.).—",
+    "Sumando estos tres títulos resulta una superficie total de mil cuatrocientas quince hectáreas, sesenta y cuatro áreas, noventa y tres centiáreas (1415 h. 64 a. 93 c.) y como en la testamentaría de Don Patricio Wheeler se adjudicó á Doña María Dooner de Wheeler y á su hija Doña María Wheeler mil cuatrocientas veinte y tres hectáreas (1423 h.) según la cuenta particionaria, resulta que la superficie distribuida excede á la de los títulos en siete hectáreas, treinta y cinco áreas, siete centiáreas (7 h. 35 a. 07 c.).—",
+    "En Febrero 23 de 1899, á nombre de la Sucesión de Don Ygnacio de Dios se vende judicialmente á Doña María Dooner de Wheeler una fracción de terreno compuesta de ciento diez hectáreas (110 h.), que agregados á la superficie que arrojaban los títulos anteriormente extractados resulta una superficie total de mil quinientas veinte y cinco hectáreas, sesenta y cuatro áreas, noventa y tres centiá-"
+   ],
+   "interpretacion": "Tres títulos = 1415,65 ha, pero la partición de Wheeler adjudicó 1423 ha a viuda e hija: 7,35 ha más de lo titulado. Con las 110 ha De Dios, 1525,65 ha de títulos."
+  },
+  {
+   "titulo": "Folio 30 vuelto · 1577,67 medidas − 1525,65 tituladas = 52,02 ha fiscales",
+   "img": "img/f/186/38.jpg",
+   "fuente": "IMG_0956.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "reas (1525 h. 64 a. 93 c.) que viene á formar la verdadera superficie de todos los títulos reunidos que corresponden á la Sucesión de Don Patricio Wheeler y Doña María Dooner de Wheeler, y como por la presente mensura se ha encontrado una superficie total de mil quinientas setenta y siete hectáreas, sesenta y siete áreas, veinte y dos centiáreas (1577 h. 67 a. 22 c.), resulta un sobrante fiscal de cincuenta y dos hectáreas, dos áreas, veinte y nueve centiáreas (52 h. 02 a. 29 c.) mayor en siete hectáreas, treinta y cinco áreas, siete centiáreas (7 h. 35 a. 07 c.) que el que dá el Ingeniero Doyle.—",
+    "Respecto á la ubicación que este perito ha dado á ese sobrante convendría oir á la Oficina de Tierras Públicas y en caso que ésta aceptase debería ser aumentado dicho sobrante con las siete hectáreas treinta y cinco áreas, siete centiáreas (7 h. 35 a. 07 c.) que el señor Doyle ha separado de menos.—",
+    "En cuanto á la división, como ella ha"
+   ],
+   "interpretacion": "Sobrante 52,02 ha (verificado), 7,35 más que el de Doyle. La ubicación del sobrante debe consultarse a la Oficina de Tierras Públicas y, si la acepta, agrandarse con esas 7,35 ha."
+  },
+  {
+   "titulo": "Folio 31 · vista a los herederos; firmas del D. I. (21/8/1903)",
+   "img": "img/f/186/39.jpg",
+   "fuente": "IMG_0956.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[sello: Foja 31]",
+    "sido practicada de acuerdo con los herederos, sin tener en cuenta el pedido de f.s 55 que establecía que debían formarse 7 lotes de igual superficie, corresponde dar vista de ella al representante de aquellos, á fin de que si se ajusta al convenio que han celebrado le preste su conformidad.—",
+    "La presente mensura ha sido notificada á todos los linderos.—",
+    "La Plata, Agosto 21 de 1903.",
+    "[firmas:] And.s [?] Villanueva [?] · J. Mayer [?] · Arturo [?] González · J. Quijano [?] · Adriano Díaz",
+    "La Plata Agosto [?] 1/903 [?]",
+    "En la fecha se remitió en vista el plano correspondiente al sobrante que trace [?] referencia.",
+    "[firma:] N. Beracoechea [?]",
+    "Octubre 12/904. La mensura de",
+    "[continúa al dorso; no fotografiado en la serie 2012]"
+   ],
+   "interpretacion": "La división no siguió el pedido «de fs. 55» de 7 lotes iguales: se da vista al representante para que preste conformidad. Mensura notificada a todos los linderos. La Plata, 21/8/1903; firmas Villanueva [?], J. Mayer [?], Arturo [?] González, Quijano [?], Adriano Díaz. Nota de remisión del plano del sobrante y comienzo de una nota del 12/10/1904."
+  },
+  {
+   "titulo": "Folio 31 vuelto · el sobrante se mide (1905) y se vende a Miguel Pelaez",
+   "img": "img/f/186/40.jpg",
+   "fuente": "IMG_3722.JPG",
+   "nota": "Toma de la serie 2011 (no está en la serie 2012); hoja acostada, girada 90°.",
+   "lineas": [
+    "[toma de la serie 2011; hoja fotografiada acostada, se lee girada 90°]",
+    "[… de] Wheeler se presente reclamando como [?] á su propiedad el sobrante.—",
+    "Of. [?] Noviembre 2/904",
+    "[rúbrica]",
+    "Enero 14/905.",
+    "En esta fecha se midió y amojonó el sobrante que resultó de esta mensura, de acuerdo con el plano agregado.",
+    "Escobar [rúbrica]",
+    "Enero 20/905. — En esta fecha se otorgó escritura de venta á favor de Don Miguel Pelaez, por transferencia de Don Felipe S. Espil, del sobrante que resultó de esta mensura, compuesto de 52 h. 02 a. 29 c. á razón de 130 pesos la hectárea. La venta se efectuó en remate público el día 5 de Octubre de 1904 por el Martillero Don Mariano Arau [?]. — Expediente letra E. 160. 154 — O. de T. Públicas año 1904 — N.º de entrada del Dpt.º de Ingenieros E. 160. 154 — Anotado en Diciembre 4 de 1907",
+    "[firma:] A. Haumüller [?]",
+    "[otra mano:] Exp.: P-173-1941 (O.T.P.), P-1276-1940 (M.O.P.) [inicial]"
+   ],
+   "interpretacion": "Reclamo de los Wheeler sobre el sobrante (2/11/1904); el 14/1/1905 se mide y amojona el sobrante «de acuerdo con el plano agregado» (Justo Escobar); el 20/1/1905 se escritura a Miguel Pelaez, por transferencia de Felipe S. Espil, el sobrante de 52 ha 02 a 29 ca a 130 $ la hectárea (≈ 6763 $), vendido en REMATE PÚBLICO el 5/10/1904 por el martillero Mariano Arau [?]. Exp. E-160-154 (Oficina de Tierras Públicas 1904); anotado el 4/12/1907; referencias de 1940-41."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de división de la sucesión de María Dooner de Wheeler (abril 1903)",
+   "img": "img/f/186/03.jpg",
+   "fuente": "IMG_3713.JPG (serie 2011; otras tomas IMG_0959, 3714-3717)",
+   "orientacion": "flecha N hacia arriba a la izquierda; los costados largos corren NO-SE",
+   "interpretacion": "Plano en tela, «Superf. total = 1057 ha 57 a 36 ca», escala 1:20 000, firmado «Buenos Aires, Abril de 1903 · Juan E. Doyle Ing. Civil». Muestra los cinco lotes con superficies en rojo: Juan Wheeler (455,08 ha) al NO, con la «Estancia San Cristóbal» dibujada junto al arroyo Suero; Santiago (155,02) y Ana (153,59) al O, cortados por el arroyo Mooney y el Suero; Catalina W. de Kelly (151,62) al centro; la franja diagonal de María Wheeler (141,85) y, al E, la fracción de María Wheeler y Dooner (475,43 ha) con el «Sobrante» (44,67 ha) recortado contra el arroyo de Giles. A la derecha, perfiles de los arroyos con sus tablas de ordenadas (D-E Suero; L-M Suero; M-S).",
+   "referencias": [
+    [
+     "A",
+     "Mojón de fierro, esquinero N (arranque)"
+    ],
+    [
+     "F′ · G′ · R · O",
+     "Lote de María Wheeler (paralelogramo trasladado 36,05 m)"
+    ],
+    [
+     "U · a · b · V",
+     "Trapecio del sobrante sobre el arroyo de Giles (44,67 ha)"
+    ],
+    [
+     "K · L · M · N · P · Q · S · T",
+     "Vértices de los lotes de Juan, Santiago, Ana y Catalina"
+    ],
+    [
+     "Linderos",
+     "J. A. Labayen, G. de Dios, F. Speroni, her. de Rosendo de Dios, A. Sillon, B. Rodríguez, F. Gurría, E. J. Sosa, C. Pelaez, Á. Nasimbene, F. P. de Ponce, M. M. de Morgan, M. Mooney"
+    ]
+   ]
+  },
+  {
+   "titulo": "Cianotipia de los títulos reunidos (junio 1903)",
+   "img": "img/f/186/04.jpg",
+   "fuente": "IMG_0957.JPG (detalle IMG_0958; duplicados IMG_3720-3721)",
+   "orientacion": "flecha N hacia arriba a la izquierda",
+   "interpretacion": "Copia heliográfica (fondo azul) titulada «Propiedad de la sucesión de D.ª María Dooner de Wheeler y María Wheeler y Dooner», superficie total 1578 ha 19 a 77 ca [?], escala 1:20 000, firmada en Buenos Aires en junio de 1903, probablemente hecha para el Departamento de Ingenieros. Superpone los cuatro títulos: Ignacio de Dios (110,72 ha) al N, la faja de Andrés Puebla «antes Vicente Marfil» (234,74 ha), el gran bloque de Francisco Torres (1167,01 ha) y la pequeña faja de Micaela Marfil (65,73 ha) al S. Cada lindero lleva su genealogía de dueños: «Fortunata P. de Ponce, antes Natal Torres, antes Carmen Benítez»; «Margarita M. de Morgan / María Mooney, antes Francisco del Sar, después Guillermo Mooney». Rotula la Estancia San Cristóbal, el arroyo Mooney, el Suero, el de Giles, «Población» y «Estancia» de Ponce, y a la derecha los perfiles de los arroyos.\nTítulos\nDe Dios 110,72 · Puebla 234,74 · Torres 1167,01 · Marfil 65,73 ha (suma 1578,20; verificado)\nLinderos con antecesores\nLabayen y G. de Dios «antes Ignacio de Dios»; Sillon «antes Rosendo de Dios»; Ponce «antes Natal Torres antes Carmen Benítez»\nFirma\nJuan E. Doyle, Ing. Civil, Buenos Aires, junio de 1903",
+   "referencias": []
+  },
+  {
+   "titulo": "Plano del sobrante vendido a Miguel Pelaez (Justo Escobar, 24/1/1905)",
+   "img": "img/f/186/05.jpg",
+   "fuente": "IMG_0963.JPG (otras tomas IMG_0960-0962, 3718-3719)",
+   "orientacion": "flecha N hacia la izquierda arriba; flecha S abajo",
+   "interpretacion": "Plano en tela del sobrante fiscal medido y amojonado el 14/1/1905: rectángulo-trapecio A-B-D-C rotulado «MIGUEL PELAEZ · Sup. A C b d = 52 ha 02 a 29 ca», con AB 927,82 m, AC S 43° 02′ O 487,80 m, CD S 46° 58′ E 1142,62 m y BD S 19° 16′ O 533 m sobre el arroyo de Giles, con ordenadas en rojo y un «Puente» en B. Linderos Alejo Sillón, Bernardino Rodríguez, Francisco Gurria y Wheeler. Escobar conserva la base UV de Doyle y alarga el trapecio unos 150 m hacia el O para absorber las 7,35 ha que agregó el Departamento (1035,22 × 487,8 m = 50,50 ha + 1,52 extrapoligonal = 52,02; verificado).\nA · B · C · D\nVértices del sobrante (B y D sobre el arroyo de Giles)\nPuente\nSobre el arroyo de Giles en B: probablemente el paso del camino de Giles a Vagues\nFirma\nJusto Escobar, Enero 24/905",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Hacia 1903 el campo de los Wheeler está entre tres cursos: el arroyo de Giles al E, el Suero en el medio («antes Cañada de los Sosas»: el nombre del bajo cambió en el siglo XIX) y el arroyo Mooney al O, que lleva el nombre del vecino irlandés. En el texto aparecen la estancia «San Cristóbal» (antes «de Alcadia» [?]), la estancia de Ponce, la población de Ángel Nascimbene, tres PUESTOS (uno a 50 m de FG, otro a 150 m de FU y otro a 400 m de WX), el camino de Giles a Vagues, cruzado dos veces, un puente sobre el arroyo de Giles y alambrados divisorios entre Rodríguez y Gurría y entre Sosa y Pelaez. El campo ya está cercado y dividido entre vecinos de varios orígenes."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "La secuencia completa: comisión judicial, edictos en los diarios, circular firmada por catorce linderos (con firmas a ruego y por poder), arranque en un mojón de fierro, acta en la estancia con dos testigos porque NADIE concurrió, mojones de madera en cada vértice nuevo y acta de conformidad de los herederos, que el apoderado se queda. La división se negocia en familia: Juan compra a Tomás y Lorenzo y en lugar de 7 lotes iguales (pedido de fs. 55) se hacen 5; el Departamento obliga a dar vista para que la división se ajuste al convenio. El ritual ya no se hace sólo frente a los vecinos: ahora los actores son el Estado (D. I., Oficina de Tierras Públicas) y el remate."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos al minuto, distancias al centímetro, superficie en hectáreas. Cierre del polígono general en python: 4,2 m sobre 15,4 km; área 1066,95 ha contra 1066,27 del texto. Los arroyos se relevan con poligonales auxiliares (DE, UVWXY) y ordenadas cada 50 m; las áreas entre la poligonal y el agua se suman o restan como «extrapoligonales». El sobrante se ubica como un trapecio sobre el arroyo y la diferencia de la sucesión se resuelve corriendo una línea paralela a sí misma (36,05 m: 10,49 ha), dos recursos de cálculo y no de terreno. La suma de lotes (1057,16 ha) queda 0,41 ha debajo de los títulos (1057,57): pequeña inconsistencia no explicada."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "El Departamento convierte la legua a 5196 m (6000 v × 0,866) y las 2500 v de Torres a 2165 m: los títulos coloniales y de mediados del XIX se leen con la vara de 0,866 m. La «ley de sobrantes» actúa como umbral: el exceso del 1 % en el campo de la viuda se tolera, pero el 7,2 % en el de la hija «excede de lo admitido» y se vuelve tierra fiscal. Precio del sobrante: 130 $ la hectárea en remate (1904)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena de títulos larguísima: Juan Francisco de Suero vende a Pedro Soca (Luján, 1759); herencia Soca → Vicente Marfil → Juan Salustiano Carnero (1850) → Andrés Puebla (1863) → Wheeler (1870). La estancia de Maldonado pasa a Francisco Torres (1842) y a Patricio Wheeler (1854); Micaela Marfil vende en 1862 lo que le donó su hermano en 1839. Los De Dios (Rosendo y Petrona Figueroa) se fragmentan entre hijos, cesionarios (Burgueño) y remates judiciales (1899). La partición de Wheeler de 1894 asignó 7,35 ha más que los títulos, y el Estado las reclama en 1903. El sobrante fiscal termina en manos de un vecino, Miguel Pelaez, por cesión de Felipe S. Espil, quien probablemente lo compró en el remate."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "022 (Patricio Wheeler 1858, Differt: estancia «San Cristóbal» entre los arroyos de Giles y Suero, el mismo campo 45 años antes); 009 (Francisco Maldonado 1856: el vendedor de 1842 era Luis Maldonado); 025 (Guillermo Mooney, estancia «San Guillermo», lindero O) y 020/112 (Morgan; O′Farrell apoderado también de Catalina O′Farrell de Morgan); 056 y 062 (Rosendo de Dios 1870; esquinero De Dios-Figueroa-Mooney); 067 (Natal Torres, lindero S en 1862); 148 (Fortunata Porcel de Ponce 1886, cruzada por el «arroyo de Sosa» = el Suero «antes Cañada de los Sosas»); 146 (Bernardino Rodríguez, enfrente sobre el arroyo de Giles: su nieto Bernardino C. Rodríguez firma la circular); 183 (O′Donnell-Murtagh: el nieto Santiago Wheeler y Murtagh vincula a las dos familias irlandesas); Espil (137 y Villa Espil 1936-37)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Texto completo ff. 1-31 vta. La serie 2011 (IMG_3713-3724) repite carátula, portadilla y planos, pero aporta el f. 31 vta. (venta del sobrante), que falta en la serie 2012; la 2012 tiene todo el texto. Dudas: inicial del agrimensor (T. en carátula y portadilla, E. en el D. I. y los planos); nombre del juez (Hermidio [?] A. Lascano); firmantes del D. I.; martillero «Arau [?]»; «Alcadia [?]». Para el GIS: el trapecio del sobrante de Pelaez sobre el arroyo de Giles y el puente en B son buenos puntos de control. ¿Hay mensura del campo de María Wheeler y Dooner en otra carpeta?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "María Dooner de Wheeler",
+   "rol": "Causante",
+   "texto": "Irlandesa o de familia irlandesa, viuda de Patricio Wheeler. Recibió 947,57 ha en la partición de 1894 y compró 110 ha a la sucesión de Ignacio de Dios en 1899. Murió antes de abril de 1902. Hijos: Tomás, Lorenzo, Juan, María, Ana, Catalina (casada con Mateo Kelly) y Santiago († antes de 1902, casado con una Murtagh).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Patricio Wheeler",
+   "rol": "Antecesor",
+   "texto": "Estanciero irlandés; compró la estancia «San Cristóbal» a Francisco Torres (1854) y la amplió con las fajas de Marfil (1862) y Puebla (1870). Murió el 16/6/1885; testamento de 1882. Su campo fue medido por Differt en 1858.",
+   "fuentes": "Este duplicado; Ficha 022."
+  },
+  {
+   "nombre": "Juan, Tomás, Lorenzo, María, Ana y Catalina Wheeler y Dooner; Santiago Wheeler (nieto)",
+   "rol": "Herederos",
+   "texto": "Juan concentra las partes de Tomás y Lorenzo (455 ha, con la estancia) y firma por su hermana María. Catalina vive en Carmen de Areco, casada con Mateo Kelly; Santiago, hijo de Santiago Wheeler y Murtagh, en San Antonio de Areco. María Wheeler y Dooner tiene además su propia fracción de 475 ha sobre el arroyo de Giles.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Juan E. (o T.) Doyle",
+   "rol": "Ingeniero civil",
+   "texto": "Ingeniero civil con domicilio en Buenos Aires; primera aparición en el corpus. Mide con poligonales auxiliares y ordenadas y resuelve la división con recursos de cálculo (trapecio, traslado paralelo). El Departamento le corrige el sobrante. La búsqueda web no dio datos biográficos.",
+   "fuentes": "Este duplicado; búsqueda web 19/11/2026 sin resultados."
+  },
+  {
+   "nombre": "Santiago G. O′Farrell",
+   "rol": "Abogado y apoderado",
+   "texto": "Partidor de la testamentaría de Patricio Wheeler (1894) y apoderado común de los herederos en 1902-1903; también apoderado en la sucesión Morgan (ficha 112). Figura destacada de la comunidad irlandesa de Buenos Aires.",
+   "fuentes": "Este duplicado; Ficha 112."
+  },
+  {
+   "nombre": "Hermidio [?] A. Lascano; Pedro C. Aguilar [?]",
+   "rol": "Jueces",
+   "texto": "Lascano, juez civil y comercial del Departamento de la Capital (La Plata), comisiona la mensura el 25/2/1903; Aguilar tramita el sucesorio en 1902 con el secretario Alfredo J. Gambra. Lecturas a confirmar.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Miguel Pelaez y Felipe S. Espil",
+   "rol": "Comprador del sobrante y cedente",
+   "texto": "Pelaez recibe en 1905 la escritura de las 52,02 ha fiscales, por transferencia de Felipe S. Espil, quien seguramente las compró en el remate del 5/10/1904. Cenobio Pelaez ya era lindero sobre el arroyo de Giles. Los Espil reaparecen en Giles en el siglo XX (Villa Espil, 1936-37).",
+   "fuentes": "Este duplicado; fichas 137 y siguientes (Espil)."
+  },
+  {
+   "nombre": "Justo Escobar",
+   "rol": "Agrimensor del sobrante",
+   "texto": "Mide y amojona el sobrante en enero de 1905 y firma el plano de Pelaez. Sin otros datos en el corpus.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Linderos de 1903",
+   "rol": "Vecinos",
+   "texto": "María Mooney (M. E. Mooney, firma a ruego Daniel Carthy [?]) y Margarita Mooney de Morgan, herederas de Guillermo Mooney; Gregorio de Dios, los herederos de Rosendo de Dios (Venancia C. de de Dios), José A. Labayen y Alejo Sillou, sucesores de los De Dios; Francisco Speroni y Ángel Nascimbene, italianos; Fortunata Porcel de Ponce (firma Cayetano Ponce); al otro lado del arroyo de Giles, Bernardino C. Rodríguez (por su madre Trinidad S. de Rodríguez), Francisco Gurría, Emiliano J. Sosa y Cenobio Pelaez.",
+   "fuentes": "Este duplicado; fichas 025, 056, 146, 148."
+  },
+  {
+   "nombre": "Firmantes del Departamento de Ingenieros (1903)",
+   "rol": "Técnicos",
+   "texto": "Andrés [?] Villanueva, J. Mayer [?], Arturo [?] González, Quijano [?] y Adriano Díaz (21/8/1903); N. Beracoechea [?] remite el plano; A. Haumüller [?] anota en 1907. J. Mayer firma también en la 181.",
+   "fuentes": "Este duplicado; Ficha 181."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/186/02.jpg",
+  "fuente": "IMG_0925.JPG (duplicado IMG_3723)",
+  "lineas": [
+   "San Andrés de Giles",
+   "N.º 186",
+   "Duplicado de Mensura",
+   "Sucesión de",
+   "Doña María Dooner de Wheeler",
+   "San Andrés de Giles",
+   "1903",
+   "Ing.ro Juan T. Doyle",
+   "[a lápiz:] 10.64.18"
+  ]
+ },
+ "titulo": "Sucesión de María Dooner de Wheeler",
+ "estado": "Transcripta (35 hojas, 221 renglones), 3 láminas"
+}

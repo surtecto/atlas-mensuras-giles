@@ -1,0 +1,620 @@
+{
+ "carpeta": "188",
+ "carpeta_nombre": "Carpeta 188",
+ "archivo": "Ficha 188 - Her. de Tomás Gaynor y M. Leary (1903).docx",
+ "resumen": {
+  "N.º de duplicado": "188 (San Andrés de Giles); a lápiz 10.133.10",
+  "Propietario / solicitante": "Her. de Tomás Gaynor y Margarita Leary de Gaynor",
+  "Agrimensor": "Ing. civil Juan E. Doyle",
+  "Año": "1903",
+  "Fecha de la diligencia": "Mensura 10-13/7/1903; copia 31/8/1903; D. I. 22/9/1903",
+  "Ubicación": "Estancia «Santa María», cuartel 3.º, arroyos Noriega y Ciego, telégrafo Giles-Mercedes",
+  "Orden judicial": "Juez civil y comercial del Centro Dr. Rafael López Saubidet, 6/6/1903",
+  "Vendedor / antecesor": "Her. de Pastor Frías (1877) y María Villalba de Quiroga (1880)",
+  "Linderos citados": "Mosca, Ojuez, Morrow, M. Erevica [?], Aldao, Dowling, Acuña; el Fisco firma",
+  "Medidas": "AB 2238; BC 3382,50; CD 400; DE 584,50; EF 1910; FA 3769 m",
+  "Rumbos": "N 56° 59′ E / N 30° 40′ O / S 25° 59′ O / N 30° 52′ O / S 57° 15′ O / S 30° 50′ E",
+  "Referencia de archivo": "AHG PBA, duplicado 188 (gemelo del 187; contiene sus títulos)"
+ },
+ "metricas": {
+  "superficie_ha": "827,3017 (títulos 824,0656; exceso 3,2361 ha, 0,39 %); 4 lotes de ≈ 206,82 ha",
+  "hitos": "mojones de fierro y de madera; Estancia Santa María; 6 poblaciones; puesto; alambrados Mosca-Ojuez y Dowling-Acuña; telégrafo Giles-Mercedes",
+  "aguas": "arroyo Noriega (cruzado en B-C, F-A y en los lotes) y arroyo Ciego, su afluente"
+ },
+ "sintesis": "Mensura y división de la estancia «Santa María» de los Gaynor (827,30 ha), entre los arroyos Noriega y Ciego y cruzada por el telégrafo de Giles a Mercedes. Es la mitad principal de la comisión doble de 1903 (la otra es la 187) y trae los títulos de ambos campos: el campo Frías de 1852 (715,99 ha, comprado por Tomás Gaynor en 1877), 108 ha de Villalba de Quiroga (1880) y las 100 cuadras Lescano-Álvarez de la 187 (1887). Tras las muertes de Tomás (1890), Margarita Leary y Cristóbal (1893), Doyle divide el hexágono en cuatro lotes de ≈ 206,82 ha para Anita, Tomás, Diego y María G. de Kelly. Hay un terreno en litigio ocupado por Mauricio Erevica [?], y el Fisco firma la circular.",
+ "caratula": {
+  "img": "img/f/188/01.jpg",
+  "fuente": "IMG_0979.JPG",
+  "campos": [
+   [
+    "N.º",
+    "188"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Herederos de Don Tomás Gaynor, Margarita Leavy de Gaynor y otro"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Juan E. Doyle"
+   ],
+   [
+    "Año",
+    "1903"
+   ],
+   [
+    "Juzgado / Secretaría",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · circular a los linderos (2/7/1903)",
+   "img": "img/f/188/05.jpg",
+   "fuente": "IMG_0981.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "Circular",
+    "El Ingeniero que suscribe, habiendo recibido comisión del Señor Juez de 1.ª Instancia en lo Civil y Comercial del Departamento del Centro D.r Don Rafael López Saubidet con fecha 6 de Junio del año corriente para medir y dividir un campo ubicado en San Andrés de Giles propiedad de D.n Tomás, D.n Diego, D.ña Anita, y D.ña María Gaynor y Leary, comunica á los Señores Linderos que va á dar principio á esta operación el día 10 de Julio corriente desde el mojón esquinero Sud de dicho campo.",
+    "Para constancia de que han sido notificados sírvase devolverme la presente con su firma al pie como es de práctica.",
+    "Buenos Aires Julio 2 de 1903",
+    "f.do Juan E. Doyle",
+    "Ingeniero Civil",
+    "Es copia. — Buenos Aires Agosto 31 de 1903",
+    "Juan E. Doyle",
+    "[sello: Foja 1]"
+   ],
+   "interpretacion": "El juez civil y comercial del Departamento del Centro, Dr. Rafael López Saubidet, comisiona a Doyle el 6/6/1903. La circular de este campo nombra sólo a los cuatro hermanos Tomás, Diego, Anita y María Gaynor y Leary (no a Miguel, que es condómino del otro campo, el de la 187) y anuncia el arranque para el 10 de julio desde el mojón esquinero SUD."
+  },
+  {
+   "titulo": "Folio 2 · firmas de los linderos",
+   "img": "img/f/188/06.jpg",
+   "fuente": "IMG_0982.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "Por el Fisco",
+    "f.do J. [?] A. de Oro [?]",
+    "f.do Santiago Morrow",
+    "Por ausencia de mi padre Carlos Mosca [?]",
+    "f.do Lorenzo Mosca [?]",
+    "f.do María S. de Dowling",
+    "f.do Ceferino Ojuez [?]",
+    "Conforme f.do G. [?] Acuña",
+    "A ruego de don Mauricio Erevica [?]",
+    "f.do Tomás C. [?] Crinigan [?]",
+    "f.do G. [?] Aldao",
+    "Es copia. Buenos Aires Agosto 31 de 1903",
+    "Juan E. Doyle",
+    "[sello: Foja 2]"
+   ],
+   "interpretacion": "Firman nueve linderos: el Fisco (J. [?] A. de Oro [?]), Santiago Morrow, Lorenzo Mosca por ausencia de su padre Carlos, María S. de Dowling, Ceferino Ojuez, G. [?] Acuña «conforme», Tomás C. [?] Crinigan [?] a ruego de Mauricio Erevica [?] (que no sabe firmar) y G. [?] Aldao. Que firme «el Fisco» indica tierra pública contigua: probablemente el sobrante de Díaz de Vivar / Vernet (039, 139, 158), aunque en el plano no figura como lindero."
+  },
+  {
+   "titulo": "Folio 3 · acta de mensura en la Estancia «Santa María» (13/7/1903)",
+   "img": "img/f/188/07.jpg",
+   "fuente": "IMG_0983.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "Acta",
+    "En la Estancia «Santa María» Partido de San Andrés de Giles á 13 de Julio de 1903, di fin á las mensuras de dos campos en este Partido, propiedad de los Herederos de D.n Tomás Gaynor, D.ña Margarita Leary de Gaynor y de D.n Cristóbal Gaynor y no habiendo concurrido á presenciarlas ninguno de los linderos, citados en oportunidad, labré esta acta que firmo en el lugar y fecha indicados.",
+    "f.do Juan E. Doyle",
+    "Ing.o Civil",
+    "Testigos",
+    "f.do Roque F. [?] Benavides",
+    "f.do Juan J. Sheridan",
+    "Es copia. Buenos Aires Agosto 31 de 1903",
+    "Juan E. Doyle",
+    "[sello: Foja 3]"
+   ],
+   "interpretacion": "Única acta del par 187-188: Doyle termina las dos mensuras el 13 de julio en la estancia «Santa María» de los Gaynor; ningún lindero concurrió. Testigos Roque F. [?] Benavides y Juan J. Sheridan. El acta nombra como dueños a los herederos de Tomás Gaynor, Margarita Leary de Gaynor y Cristóbal Gaynor."
+  },
+  {
+   "titulo": "Folio 4 · extracto de títulos: el campo Frías (1852-1877)",
+   "img": "img/f/188/08.jpg",
+   "fuente": "IMG_0984.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "Estracto de títulos",
+    "En la Guardia de Luján á 17 de Diciembre de 1852 [?] ante Don Pastor Goroztiaga [?] Juez de Paz del Partido, Doña Gabriela Álvarez vende á Don Pastor Frías un terreno de Estancia compuesto de (1000 v.s) mil varas de cabezada ó frente con (7900 v.s) siete mil novecientas varas de fondo, sito en ese Partido. Este campo lo hubo en propiedad por compra que dicho [?] su finado esposo D. Mariano Noriega á D. Pedro Antonio Martínez por escritura pasada en Buenos Aires en 26 de Noviembre de 1823 [?] ante el Escribano D. Marcos Leonardo Agrelo. Linda por el Sud con el comprador D. Pastor Frías, por el Norte con Doña Manuela Quiroga de Noriega, por el Oeste con Ceferino Acuña y por el Este con Doña Jacoba Tramain [?] de Acharal [?].",
+    "En Buenos Aires á 28 de Octubre de 1877 ante el Escribano D. Manuel Salas, Doña Manuela García de Frías, D. Pedro Frías, Doña Catalina Frías de Méndez [?], Doña Ysabel Frías de Muñiz, Doña Justa Frías de Fragueiro, D. Domingo y D. Pastor Frías, todos herederos de D. Pastor Frías venden",
+    "[sello: Foja 4]"
+   ],
+   "interpretacion": "Cadena más antigua: Mariano Noriega compra a Pedro Antonio Martínez (Buenos Aires, 26/11/1823 [?], esc. Marcos Leonardo Agrelo); su viuda Gabriela Álvarez vende a Pastor Frías en la Guardia de Luján (17/12/1852 [?], juez de paz Pastor Goroztiaga [?]) 1000 varas de frente por 7900 de fondo, entre Manuela Quiroga de Noriega (N), Ceferino Acuña (O) y Jacoba Tramain [?] de Achával [?] (E). En 1877 los herederos de Frías (Manuela García de Frías y sus hijos) venden."
+  },
+  {
+   "titulo": "Folio 5 · venta Frías a Tomás Gaynor (1877) y Villalba de Quiroga a Gaynor (1880)",
+   "img": "img/f/188/09.jpg",
+   "fuente": "IMG_0985.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "á D. Felipe Córdoba [?] para D. Tomás Gaynor, un campo de propiedad común situado en el Partido de Giles compuesto de (2200 v.s) dos mil doscientas varas de frente al Sud Este por (4340 90/100 v.s) cuatro mil trescientas cuarenta varas con noventa centésimos de fondo al Nord Oeste ó sean (424 318/1000 cuadras) cuatrocientas veinte y cuatro cuadras con trescientos diez y ocho milésimos equivalentes á (715 h.s 99 a.s 42 c.s) setecientas quince hectáreas noventa y nueve áreas cuarenta y dos centiáreas, lindando por el Sud Este con Doña Gregoria Achával [?] de Venguria [?], por el Nord Oeste con los vendedores, por el Sud Oeste con D. Guillermo y D. Ángel Acuña y por el Nord Este con Doña María Villalba de Quiroga, Doña Avelina [?] R. de Noriega y otros.",
+    "En la Ciudad de Mercedes á 14 de Febrero de 1880 por ante el escribano D. Nicanor S. Morsati [?], Doña María Villalba de Quiroga, vende á D. Tomás Gaynor un terreno de pastoreo situado en el Partido de San Andrés de Giles con una superficie de (108 h.s 07 a.s 14 c.s) ciento ocho hectáreas siete áreas catorce centiáreas, equivalentes á (64 46/1000",
+    "[sello: Foja 5]"
+   ],
+   "interpretacion": "Los Frías venden a Felipe Córdoba [?] «para» Tomás Gaynor 2200 varas de frente al SE por 4340,90 de fondo = 424,318 cuadras = 715,9942 ha, entre Gregoria Achával de Venguria [?] (SE), los vendedores (NO), Guillermo y Ángel Acuña (SO) y María Villalba de Quiroga y Avelina R. de Noriega (NE). En Mercedes, 14/2/1880, María Villalba de Quiroga le vende 108,0714 ha (64,046 cuadras) de pastoreo."
+  },
+  {
+   "titulo": "Folio 6 · antecedentes Noriega-Quiroga; Lezcano a Urbano Álvarez (1881)",
+   "img": "img/f/188/10.jpg",
+   "fuente": "IMG_0986.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "c.s) sesenta y cuatro cuadras cuarenta y seis milésimos lindando al Nord Este con D. Solano Lezcano y herederos de Días de Vivar [?], al Sud Este con D.a Francisca Achával [?] de Yera [?], al Sud Oeste con el comprador y al Nor Oeste con Doña Avelina [?] R. de Noriega. Este terreno le correspondió á la vendedora como heredera de su esposo D. Dionisio Quiroga, quien á su vez lo obtuvo por compra efectuada á D. Felipe, D.ña Cecilia [?] y Doña María Noriega en 15 de Julio de 1860 en la Villa de Mercedes ante el Juez de Paz D. Celestino Fernández.",
+    "A estos últimos correspondió el terreno por herencia de sus padres D. Vicente Noriega y Doña Antonina Montiel quienes lo habían comprado de D. Dionisio Noriega en 19 de Setiembre de 1848 ante el Juez de Paz de la Guardia de Luján.",
+    "En Buenos Aires á 20 de Junio de 1881 por ante el escribano D. José Álvarez de Granada [?], D. Francisco Solano Lezcano representado por D. Juan B. Foste [?] vende á D. Urbano Álvarez representado por el D.r Juan José Álvarez y Álvarez un terreno de Estancia sito en el Partido de San Andrés de Giles compuesto aproximadamente de (168 h.s 75 a.s) ci-",
+    "[al margen izquierdo, a lápiz: «… dupl. 187»]",
+    "[sello: Foja 6]"
+   ],
+   "interpretacion": "Las 108 ha venían de Dionisio Quiroga, que las compró en 1860 a Felipe, Cecilia [?] y María Noriega, hijos de Vicente Noriega y Antonina Montiel, compradores de Dionisio Noriega en 1848. Linderos: Solano Lezcano y her. de Díaz de Vivar (NE), Francisca Achával de Yera [?] (SE). En 1881 Francisco Solano Lezcano vende a Urbano Álvarez 168,75 ha: es el título del campo de la 187 (la anotación a lápiz del margen remite al «dupl. 187»)."
+  },
+  {
+   "titulo": "Folio 7 · 100 cuadras cuadradas: origen Noriega-Lescano",
+   "img": "img/f/188/11.jpg",
+   "fuente": "IMG_0987.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "ciento sesenta y ocho hectáreas setenta y cinco áreas igual á cien cuadras cuadradas (100 c.s) ó lo que resulte entre los linderos que son: por el Nord Oeste D. Félix Lescano, por el Nord Este D. Anacleto Lescano, por el Sud Oeste D.a Cipriana Galeano y por el Sud Este D. Cipriano [sic] Ojuez.",
+    "Este terreno correspondió al vendedor en la siguiente forma: á Doña Manuela Noriega madre del vendedor se le adjudicaron (160 v.s) ciento sesenta varas de frente por una legua y media de fondo como heredera de D. Manuel Noriega, y por herencia materna se le adjudicó á la misma una extensión de (140 v.s) ciento cuarenta varas con otras (50) cincuenta. D. Aniceto Noriega hermano de la precitada Doña Manuela vendió á D. Francisco Borja Lescano esposo de ésta, por ante el Juez de Paz de la Villa de Mercedes en 12 de Noviembre de 1858 (400 v.s) cuatrocientas varas de frente por (3944 v.s) tres mil novecientas cuarenta y cuatro varas de fondo. Fallecido D. Francisco Borja Lescano lo heredan entre sus hijos el vendedor á quien se le adjudica este campo en mayor extensión, según la cuenta de división y partición prac-",
+    "[sello: Foja 7]"
+   ],
+   "interpretacion": "El campo de la 187 mide «cien cuadras cuadradas» (168,75 ha) entre Félix Lescano (NO), Anacleto Lescano (NE), Cipriana Galeano (SO) y Cipriano [sic] Ojuez (SE). Viene de Manuela Noriega, heredera de Manuel Noriega (160 varas por legua y media), y de la compra de su marido Francisco Borja Lescano a Aniceto Noriega (1858: 400 × 3944 varas). El fondo de 3944 v (3415 m) es el largo del campo de 1903 (3431-3474 m)."
+  },
+  {
+   "titulo": "Folio 8 · Álvarez vende a Gaynor (1887); testamentaria de Tomás Gaynor (1890)",
+   "img": "img/f/188/12.jpg",
+   "fuente": "IMG_0988.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "ticada por el apoderado de todos los herederos D. Maximiano [?] Rosende [?].",
+    "En la Ciudad de Mercedes á 27 de Mayo de 1887 por ante el Escribano D. Esteban S. Dufourg [?], D. Urbano Álvarez vende á D. Tomás Gaynor un terreno de pastoreo situado en el cuartel tercero del Partido de San Andrés de Giles cuya superficie se compone de (168 h.s 74 a.s 01 c.s) ó sean (100 c.s) cien cuadras cuadradas, lindando al Nord Oeste con D. Juan Shanahan, al Nord Este con D. Anacleto Lescano, al Sud Oeste con Doña Cipriana Galeano y al Sud Este con D. Ceferino Ojuez.",
+    "Estracto del expediente",
+    "Fallecido D. Tomás Gaynor en 14 [?] de Diciembre de 1890 se inicia su testamentaria ante el Juzgado del D.r Demaría [?] y según su testamento otorgado en 10 de Diciembre de 1890 en Mercedes por ante el Escribano D. Manuel López, son declarados sus únicos y universales herederos su esposa D.a Margarita Leary de Gaynor y sus hijos Doña Anita, Doña María, D. Tomás, D. Diego, y D. Cristóbal Gaynor y Leary y D. Miguel Gaynor y Murray y según la cuenta particionaria practicada por el D.r Ricardo Videla",
+    "[sello: Foja 8]"
+   ],
+   "interpretacion": "El 27/5/1887 Urbano Álvarez vende a Tomás Gaynor las 100 cuadras (168,7401 ha) del cuartel 3.º, entre Juan Shanahan (NO), Anacleto Lescano (NE), Cipriana Galeano (SO) y Ceferino Ojuez (SE). Tomás Gaynor muere el 14 [?] de diciembre de 1890 tras testar el 10 en Mercedes; herederos: su esposa Margarita Leary y sus hijos Anita, María, Tomás, Diego y Cristóbal Gaynor y Leary, y Miguel Gaynor y Murray (de otro matrimonio)."
+  },
+  {
+   "titulo": "Folio 9 · hijuelas de 1893: 820,74 ha tasadas a 120 $/ha",
+   "img": "img/f/188/13.jpg",
+   "fuente": "IMG_0989.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "aprobada en 26 de Enero de 1893 [?] por el Juez D.or Lorenzo A. Espinosa ante el Secretario Pedro Larroca se adjudica el campo en Giles de (820 h.s 74 a.s 53 c.s) ochocientas veinte hectáreas setenta y cuatro áreas cincuenta y tres centiáreas que linda al Nord Este con D. Ceferino Ojuez, al Nord Oeste con D.a Avelina R. de Noriega y D. Santiago Morrow, al Sud Este con Doña Francisca Achával [?] y D. Domingo Frías y al Sud Oeste con los herederos de Acuña y D. Martín Dowling: tasado en 98489.45 [sic] $ en la siguiente forma:",
+    "En condominio y partes proporcionales",
+    "á Doña Margarita Leary de Gaynor — $ 54620.75",
+    "〃 〃 Anita Gaynor — 10967.17",
+    "〃 〃 María Gaynor — 10967.17",
+    "〃 D. Tomás Gaynor — 10967.17",
+    "〃 〃 Diego Gaynor — 10967.17",
+    "Suma $ 98489.43.",
+    "y el campo en Giles de (168 h.s 74 a.s 01 c.s) ciento sesenta y ocho hectáreas setenta y cuatro áreas una centiáreas que linda al Nord Oeste con D. Juan Shanahan, al Nord Este con Anacleto Lescano, al Sud Oeste con Doña Cipriana Galeano y al Sud Este con D. Ceferino Ojuez, por",
+    "[sello: Foja 9]"
+   ],
+   "interpretacion": "La cuenta particionaria (juez Lorenzo A. Espinosa, secr. Pedro Larroca, aprobada el 26/1/1893 [?]) adjudica la estancia de 820,7453 ha (la medida de Castro en 1885, Ficha 141), tasada en 98 489,43 $ (exactamente 120 $ por hectárea; el encabezado dice 98 489,45), a Margarita (54 620,75 $, el 55,5 %) y a Anita, María, Tomás y Diego (10 967,17 $ cada uno). Linderos: Ceferino Ojuez (NE), Avelina R. de Noriega y Santiago Morrow (NO), Francisca Achával y Domingo Frías (SE), her. de Acuña y Martín Dowling (SO)."
+  },
+  {
+   "titulo": "Folio 10 · muertes de Margarita y Cristóbal (1893); partición Videla (1894)",
+   "img": "img/f/188/14.jpg",
+   "fuente": "IMG_0990.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "la misma cuenta particionaria se adjudica en condominio por iguales partes á los herederos D. Cristóbal Gaynor y Leary y D. Miguel Gaynor y Murray.",
+    "Fallecida Doña Margarita Leary de Gaynor y D. Cristóbal Gaynor en 16 de Febrero y 26 de Mayo de 1893 respectivamente se inicia sus testamentarias ante el mismo Juzgado del D.or Espinosa secretaría Larroca y por auto fecha 7 de Setiembre de 1893 son declarados únicos y universales herederos de Doña Margarita Leary de Gaynor sus hijos legítimos Cristóbal, María, Tomás, Diego y Anita Gaynor y Leary y de Cristóbal Gaynor y Leary son declarados herederos sus legítimos hermanos María, Tomás, Diego y Anita Gaynor y Leary.",
+    "Según la cuenta de división y adjudicación practicada por el D.r Ricardo Videla aprobada en 3 de Abril de 1894 se adjudica la parte de campo de Giles que perteneció á Doña Margarita Leary de Gaynor, en condominio por iguales partes entre sus hijos María, Tomás, Diego y Anita Gaynor y Leary y la parte de campo en Giles que pertenecía á Cristóbal Gaynor y Leary por iguales",
+    "[sello: Foja 10]"
+   ],
+   "interpretacion": "El campo de 100 cuadras se adjudica por mitades a Cristóbal Gaynor y Leary y a Miguel Gaynor y Murray: por eso en la 187 Miguel recibe la mitad. Margarita muere el 16/2/1893 y Cristóbal el 26/5/1893; Cristóbal, sin descendencia, hereda a sus hermanos. La partición del Dr. Ricardo Videla (3/4/1894) da la parte de Margarita a María, Tomás, Diego y Anita por iguales."
+  },
+  {
+   "titulo": "Folio 11 · pedido de división (30/5/1903) y comienzo de la mensura",
+   "img": "img/f/188/15.jpg",
+   "fuente": "IMG_0991.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "partes también entre sus hermanos los citados Doña María, D. Tomás, D. Diego y Doña Anita.",
+    "En Mayo 30 de 1903 D. Pedro Villafañe como apoderado de D. Tomás, D. Diego, Doña María y Doña Anita Gaynor á fin de hacer cesar el condominio se presenta al S.r Juez D.or Rafael López Saubidet Secretaría de D. Martín Irasabal [?], solicitando la división y proponiendo el perito que suscribe, pedido á que se adhiere D. Miguel Gaynor.",
+    "En Junio 6 el Señor Juez nombra el perito propuesto.",
+    "En la misma fecha acepté el cargo.",
+    "En Junio 23 tomé antecedentes en el Departamento de Ingenieros.",
+    "Mensura.",
+    "El Ingeniero que suscribe comisionado por el Señor Juez de 1.ra Instancia en lo Civil y Comercial del Departamento del Centro D.r Rafael López Saubidet con fecha 6 de Junio del corriente año para proceder á la mensura y división de dos campos pertenecientes á los herederos de D. Tomás Gaynor y Doña Mar-",
+    "[sello: Foja 11]"
+   ],
+   "interpretacion": "Pedro Villafañe, apoderado de los cuatro hermanos, pide al juez López Saubidet (secretaría Martín Irasabal [?]) el fin del condominio y propone a Doyle; Miguel adhiere. Nombramiento y aceptación el 6/6; antecedentes en el D. I. el 23/6/1903."
+  },
+  {
+   "titulo": "Folio 12 · arranque en A (mojón de fierro); A-B con Guillermo Aldao",
+   "img": "img/f/188/16.jpg",
+   "fuente": "IMG_0992.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "garita Leary de Gaynor ubicados en el Partido de San Andrés de Giles, después de haber hecho la publicación de edictos por el tiempo y en los diarios fijados por el Señor Juez y de haber pasado el aviso á los linderos de dichos campos según consta por los diarios y citaciones originales que acompaño, dió principio á la operación el día 10 de Julio del año que rije, tomando por punto de arranque el mojón esquinero Sud de la fracción principal de campo y que designo con la letra A en el plano correspondiente.",
+    "Línea AB. Desde A (mojón de fierro) con rumbo (N 56°59′ E) Norte cincuenta y seis grados cincuenta y nueve minutos Este y lindando con Guillermo Aldao medí (2238 m.ts) dos mil doscientos treinta y ocho metros hasta B mojón de madera, á los 410 m.ts crucé el telégrafo de Giles á Mercedes, á los 820 m.ts dejé una población 15 m.ts á la derecha: á los 1685,40 m.s encontré un mojón de madera, á los 1757,60 m.s uno de fierro, á los 1911 m.ts otro de madera y á los 2235 m.ts uno de fierro.",
+    "Línea BC. Desde B con rumbo (N 30°40′ O) Norte treinta grados cuarenta minutos Oeste y lindando",
+    "[sello: Foja 12]"
+   ],
+   "interpretacion": "Arranque el 10/7/1903 en el esquinero S de «la fracción principal». A-B N 56° 59′ E 2238 m con Guillermo Aldao: telégrafo de Giles a Mercedes a 410 m, población a 15 m a la derecha a 820 m, y una serie de mojones viejos (madera a 1685,40 y 1911; fierro a 1757,60 y 2235 m)."
+  },
+  {
+   "titulo": "Folio 13 · B-C: arroyo Ciego, Estancia «Santa María», arroyo Noriega; C-D y D-E (terreno en litigio)",
+   "img": "img/f/188/17.jpg",
+   "fuente": "IMG_0993.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "con Carlos Mosca y Ceferino Ojuez medí (3382,50 m.ts) tres mil trescientos ochenta y dos metros con cincuenta centímetros hasta C mojón de madera, á los 524,20 [?] m.s encontré un mojón de madera y en este mismo punto dejé una población 100 m.s á la derecha, á los 920 m.s dejé una población 100 m.s á la derecha, á los 1401,60 m.ts encontré el alambrado divisorio de Mosca y Ojuez, á los 1592 m.s crucé el arroyo Ciego, á los 2130 m.s dejé una población 80 m.s á la derecha, á los 2600 m.ts dejé la Estancia Santa María 80 m.s á la izquierda, á los 2790,40 m.ts encontré un mojón de madera y á los 3295 m.s crucé el arroyo Noriega.",
+    "Línea CD. Desde C con rumbo (S 25°59′ O) Sud veinte y cinco grados cincuenta y nueve minutos Oeste y lindando con un terreno en litigio ocupado por Mauricio Erevica [?] medí (400 m.ts) cuatrocientos metros hasta D mojón de madera.",
+    "Línea DE. Desde D con rumbo (N 30°52′ O) Norte treinta grados cincuenta y dos minutos Oeste y lindando con terreno en litigio ocupado por Mauricio Erevica [?] medí (584,50 m.ts) quinientos ochenta y cuatro metros con cincuenta centímetros hasta E",
+    "[sello: Foja 13]"
+   ],
+   "interpretacion": "B-C N 30° 40′ O 3382,50 m con Carlos Mosca y Ceferino Ojuez: poblaciones a 100 m a la derecha a 524 y 920 m, alambrado Mosca-Ojuez a 1401,60, ARROYO CIEGO a 1592, población a 2130, la ESTANCIA SANTA MARÍA 80 m a la izquierda a 2600 m, mojón a 2790,40 y ARROYO NORIEGA a 3295. C-D S 25° 59′ O 400 m y D-E N 30° 52′ O 584,50 m contra un «terreno en litigio ocupado por Mauricio Erevica [?]», que muerde la esquina N del campo."
+  },
+  {
+   "titulo": "Folio 14 · E-F (Santiago Morrow), F-A (Dowling y Acuña); 827,30 ha",
+   "img": "img/f/188/18.jpg",
+   "fuente": "IMG_0994.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "mojón de madera.",
+    "Línea EF. Desde E con rumbo (S 57°15′ O) Sud cincuenta y siete grados quince minutos Oeste y lindando con Santiago Morrow medí (1910 m.ts) un mil novecientos diez metros hasta F mojón de madera, á los 220 m.s crucé el telégrafo de Giles á Mercedes, á los 936 m.s encontré un mojón de madera y á los 1181 m.ts dejé una población 15 m.s á la izquierda.",
+    "Línea FA. Desde F con rumbo (S 30°50′ E) Sud treinta grados cincuenta minutos Este y lindando con María S. de Dowling y G. [?] Acuña medí (3769 m.ts) tres mil setecientos sesenta y nueve metros hasta A punto de partida, á los 1153 m.s encontré un mojón de fierro, á los 2136 m.s encontré el alambrado divisorio entre Dowling y Acuña y á los 3460 m.s crucé el arroyo Noriega.",
+    "Superficie. El área comprendida dentro del polígono ABCDEF es igual á (827 h.s 30 a.s 17 c.s) ochocientas veinte y siete hectáreas treinta áreas diez y siete centiáreas, la cual excede del área señalada en los títulos en (3 h.s 23 a.s 61 c.s) tres hectáreas veinte y tres áreas sesenta y una centiáreas lo que está",
+    "[sello: Foja 14]"
+   ],
+   "interpretacion": "E-F S 57° 15′ O 1910 m con Santiago Morrow (telégrafo a 220, población a 15 m a la izquierda a 1181). F-A S 30° 50′ E 3769 m con María S. de Dowling y G. [?] Acuña: mojón de fierro a 1153, alambrado Dowling-Acuña a 2136, arroyo Noriega a 3460. Hexágono de 827 ha 30 a 17 ca, exceso de 3,2361 ha sobre títulos (824,0656 ha = 715,9942 + 108,0714), tolerado."
+  },
+  {
+   "titulo": "Folio 15 · linderos; «División» en cuatro lotes; Anita Gaynor",
+   "img": "img/f/188/19.jpg",
+   "fuente": "IMG_0995.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "dentro de la tolerancia que admite la ley de sobrantes.",
+    "Linderos. Linda por el Nord Este con Carlos Mosca y Ceferino Ojuez, por el Nord Oeste con Santiago Morrow y en parte con terreno en litigio ocupado por Mauricio Erevica [?], por el Sud Oeste [sic, por Sud Este] con Guillermo Aldao y por el Sud Oeste con María S. de Dowling y G. [?] Acuña.",
+    "División.",
+    "De acuerdo con el mandato del Señor Juez procedí á dividir este campo en 4 lotes lo más regular é iguales posible, uno para cada uno de los herederos Don Tomás, D. Diego, D.a Anita Gaynor y María G. de Kelly y en la siguiente forma.",
+    "Anita Gaynor",
+    "Línea FJ. Desde F y sobre la línea FA medí (955,74 m.ts) novecientos cincuenta y cinco metros con setenta y cuatro centímetros hasta J donde coloqué un mojón de madera.",
+    "Línea JI. Desde J con rumbo (N 59°10′ E) Norte cincuenta y nueve grados diez minutos Este medí (2243,50 m.ts) dos mil doscientos cuarenta y tres metros",
+    "[sello: Foja 15]"
+   ],
+   "interpretacion": "Linderos: Mosca y Ojuez (NE), Morrow y el terreno en litigio (NO), Aldao (SE; el texto repite «Sud Oeste») y Dowling y Acuña (SO). División «lo más regular é iguales posible» en cuatro lotes, uno por heredero. Anita: F-J 955,74 m sobre F-A; J-I N 59° 10′ E 2243,50 m."
+  },
+  {
+   "titulo": "Folio 16 · Anita Gaynor: 206,83 ha (FJICDE)",
+   "img": "img/f/188/20.jpg",
+   "fuente": "IMG_0996.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "con cincuenta centímetros hasta I donde coloqué un mojón de madera, á los 1121,75 [?] m.ts puse un mojón de madera que designo en el plano con la letra K. á los 1504 m.s crucé el telégrafo de Giles á Mercedes y á los 1894 m.s crucé el arroyo Noriega.",
+    "Línea IC. Desde I y sobre la línea BC medí (654,50 m.ts) seiscientos cincuenta y cuatro metros con cincuenta centímetros hasta C.",
+    "Las líneas CD, DE, y EF están ya descritas en la mensura general.",
+    "Superficie. El área encerrada en el polígono FJICDE es igual á (206 h.s 83 a.s 08 c.s) doscientas seis hectáreas ochenta y tres áreas ocho centiáreas según planilla que acompaño.",
+    "Linderos. Linda por el Nord Este con Ceferino Ojuez y terreno en litigio ocupado por Mauricio Erevica [?] por el Nord Oeste con Santiago Morrow y terreno en litigio ocupado por Mauricio Erevica [?], por el Sud Oeste con María S. de Dowling y por el Sud Este con los lotes que voy [á] adjudicar á Tomás y Diego Gaynor.",
+    "Tomás Gaynor",
+    "[sello: Foja 16]"
+   ],
+   "interpretacion": "Sobre J-I, mojón K a 1121,75 m (la mitad exacta), telégrafo a 1504 [plano 1354 ?] y arroyo Noriega a 1894. I-C 654,50 m. Lote hexagonal del extremo NO que absorbe el entrante C-D-E del terreno en litigio: 206,8308 ha «según planilla que acompaño»."
+  },
+  {
+   "titulo": "Folio 17 · Tomás Gaynor: 206,82 ha (KLHJ)",
+   "img": "img/f/188/21.jpg",
+   "fuente": "IMG_0997.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "Línea KL. Desde K mojón de madera con rumbo (S 30°45′ E) Sud treinta grados cuarenta y cinco minutos Este medí (1846 m.ts) un mil ochocientos cuarenta y seis metros hasta L donde coloqué un mojón de madera, á los 1000 m.ts puse un mojón de madera.",
+    "Línea LH. Desde L con rumbo (S 59°10′ O) Sud cincuenta y nueve grados diez minutos Oeste medí (1119 m.ts) un mil ciento diez y nueve metros hasta H donde puse un mojón de madera, á los 390 m crucé el telégrafo y á los 643 m.ts el arroyo Noriega.",
+    "Línea HJ. Desde H y sobre la línea AF medí (1846 m.ts) un mil ochocientos cuarenta y seis metros hasta J. La línea JK ya está descrita en el lote de Anita Gaynor.",
+    "Superficie. El área encerrada en el cuadrilátero KLHJ es igual á (206 h.s 82 a.s 12 c.s) doscientas seis hectáreas ochenta y dos áreas doce centiáreas.",
+    "Linderos. Linda por el Nord Este con el lote que voy á adjudicar á Diego Gaynor, por el Nord Oeste con Anita Gaynor, por [el] Sud Este con el lote que voy [á] adjudicar á María G. de Kelly y por el Sud Oeste con G. [?] Acuña y María S. de Dowling.",
+    "Diego Gaynor",
+    "[sello: Foja 17]"
+   ],
+   "interpretacion": "K-L S 30° 45′ E 1846 m (mojón a 1000 m), L-H S 59° 10′ O 1119 m (telégrafo a 390, arroyo Noriega a 643), H-J 1846 m sobre F-A. Lote SO central, contra J. Acuña y María S. de Dowling."
+  },
+  {
+   "titulo": "Folio 18 · Diego Gaynor: 206,82 ha (LGIK); comienzo de Kelly",
+   "img": "img/f/188/22.jpg",
+   "fuente": "IMG_0998.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "Línea LG. Desde L mojón de madera con rumbo (N 59°10′ E) Norte cincuenta y nueve grados diez minutos Este medí (1119 m.ts) un mil ciento diez y nueve metros hasta G donde puse un mojón de madera.",
+    "Línea GI. Desde G y sobre la línea BC medí (1846 m.ts) un mil ochocientos cuarenta y seis metros hasta I mojón de madera.",
+    "Línea IK. Desde I sobre la línea IJ medí (1121,75 m.ts) un mil ciento veinte y un metros con setenta y cinco centímetros hasta K. La línea KL ya está descrita en el lote de Tomás Gaynor.",
+    "Superficie. El área del cuadrilátero LGIK es igual á (206 h.s 82 a.s 12 c.s) doscientas seis hectáreas ochenta y dos áreas doce centiáreas.",
+    "Linderos. Linda por el Nord Este con Carlos Mosca y Ceferino Ojuez, por el Nord Oeste con Anita Gaynor, por el Sud Oeste con Tomás Gaynor y por el Sud Este con el lote que voy adjudicar á María G. de Kelly.",
+    "María G. de Kelly",
+    "Línea HA. Desde H mojón de madera y sobre la línea FA medí (967,26 m.ts) novecientos sesenta y siete",
+    "[sello: Foja 18]"
+   ],
+   "interpretacion": "L-G N 59° 10′ E 1119 m, G-I 1846 m sobre B-C, I-K 1121,75 m. Lote NE central, contra Mosca y Ojuez: contiene la Estancia Santa María y la confluencia de los arroyos Ciego y Noriega. Kelly: H-A 967,26 m sobre F-A."
+  },
+  {
+   "titulo": "Folio 19 · María G. de Kelly: 206,83 ha (HABG); cierre (31/8/1903)",
+   "img": "img/f/188/23.jpg",
+   "fuente": "IMG_0999.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "metros con veinte y seis centímetros hasta A mojón de fierro. La línea AB ya la he descrito en la mensura general.",
+    "Línea BG. Desde B mojón de madera y sobre la línea BC medí (882 m.ts) ochocientos ochenta y dos metros hasta G mojón de madera, la línea GH es la suma de las líneas GL y LH ya descritas en los lotes de Diego y Tomás Gaynor.",
+    "Superficie. El área encerrada en el cuadrilátero HABG es igual á (206 h.s 82 a.s 85 c.s) doscientas seis hectáreas ochenta y dos áreas ochenta y cinco centiáreas.",
+    "Linderos. Linda por el Nord Este con Carlos Mosca, por el Nord Oeste con Diego y Tomás Gaynor, por el Sud Oeste con G. [?] Acuña y por el Sud Este con Guillermo Aldao.",
+    "Estando conforme todos los herederos con esta forma de división labré un acta que firmaron conmigo y cuyo original acompaño.",
+    "Buenos Aires Agosto 31 de 1903",
+    "Juan E. Doyle",
+    "Ing.o Civil",
+    "[rúbrica de entrada]",
+    "[sello: Foja 19]"
+   ],
+   "interpretacion": "B-G 882 m sobre B-C; G-H = G-L + L-H (2238 m). Lote del extremo SE contra Mosca, Acuña y Aldao. Los herederos firman un acta de conformidad (original adjunto, no copiado). Firma Doyle, Buenos Aires, 31/8/1903."
+  },
+  {
+   "titulo": "Folio 20 · informe del Departamento de Ingenieros",
+   "img": "img/f/188/24.jpg",
+   "fuente": "IMG_1000.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "[Se]ñor Juez:",
+    "El Departamento de Ingenieros ha examinado la diligencia de mensura y división practicada por el Ingeniero Juan E. Doyle, de dos fracciones de terreno pertenecientes respectivamente á la sucesión de Doña Margarita Leavy [sic] de Gaynor y á Don Tomás y herederos de Don Cristóbal Gaynor, ubicadas en el partido de San Andrés de Giles y la encuentra en condiciones de ser aprobada por V. S.—",
+    "Dentro de los mojones de la primera fracción ha resultado un exceso de tres hectáreas, veinte y tres áreas, sesenta y una centiáreas (3 h. 23 a. 61 c.) que está comprendido en la tolerancia de la ley y en la segunda fracción ha resultado otro excedente de una hectárea, cuarenta y siete áreas, treinta centiáreas (1 h. 47 a. 30 c.) que también queda comprendido en la tolerancia.—",
+    "[sello: Foja 20]"
+   ],
+   "interpretacion": "Un solo informe para las dos fracciones (sucesión de Margarita «Leavy» de Gaynor = esta carpeta; Tomás y her. de Cristóbal = 187): excesos de 3 ha 23 a 61 ca y de 1 ha 47 a 30 ca, ambos en la tolerancia. La cifra de la segunda es «30 c», como en letra."
+  },
+  {
+   "titulo": "Folio 20 vuelto · firmas del D. I. (La Plata, 22/9/1903)",
+   "img": "img/f/188/25.jpg",
+   "fuente": "IMG_1001.JPG",
+   "nota": "Hoja fotografiada acostada; se lee girada 90°.",
+   "lineas": [
+    "—Todos los linderos han firmado la circular de citación.—",
+    "El Ingeniero Doyle acompaña dos actas suscritas por los interesados en que consta la conformidad de éstos con la división practicada.—",
+    "La Plata, Setiembre 22 1903.—",
+    "And.s E. [?] Villanueva — Benjamín Sal",
+    "J. Ringuelet",
+    "Adriano Díaz",
+    "Secr.o"
+   ],
+   "interpretacion": "Todos los linderos firmaron la circular; Doyle acompaña dos actas de conformidad. Firman And.s E. [?] Villanueva, Benjamín Sal, J. Ringuelet y el secretario Adriano Díaz."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de mensura y división de la propiedad de la sucesión de D.ª Margarita Leavy de Gaynor (julio 1903)",
+   "img": "img/f/188/03.jpg",
+   "fuente": "IMG_1002.JPG (vista general; detalles IMG_1003-1006)",
+   "orientacion": "flecha N con flor de lis arriba a la izquierda, apuntando al NO; el lado F-A (S 30° 50′ E) corre horizontal abajo",
+   "interpretacion": "Plano en tela coloreado, «Propiedad de la sucesión de D.na Margarita Leavy de Gaynor · San Andrés de Giles · Superficie total = 827 ha.s 30 a.s 17 ca.s», escala 1:10 000, firmado «Buenos Aires, Julio de 1903 · Juan E. Doyle Ing.º Civil». Cuatro lotes con superficies en rojo: Anita Gaynor (206 ha 83 a 08 ca, NO), Diego Gaynor (206,8212, NE), Tomás Gaynor (206,8212, centro SO, recuadro rosa) y María G. de Kelly (206,8285, SE, recuadro verde). Linderos rotulados: Ceferino Ojuez y Carlos Mosca (NE), Guillermo Aldao (SE), G. Acuña y María S. de Dowling (SO), Santiago Morrow (NO) y el «Terreno en litigio ocupado por Mauricio Erevica [?]» en el entrante C-D-E con su población. En el lote de Diego, junto al lado B-C, la «Estancia Santa María» (recinto cercado con casco y montes, dibujados como puntos) y un «Puesto». El «Arroyo Noriega» entra por la esquina C y sale cerca de A, cortando el lote de Kelly; el «Arroyo Ciego» baja desde B-C y desemboca en el Noriega sobre la línea K-L. El «Telégrafo de Giles á Mercedes» (línea de trazo y punto) cruza todo el campo de NO a SE. Poblaciones junto a A-B, E-F y B-C.",
+   "referencias": [
+    [
+     "A",
+     "Mojón de fierro, esquinero S (arranque)"
+    ],
+    [
+     "B · C · D · E · F",
+     "Esquineros, mojones de madera"
+    ],
+    [
+     "A-B",
+     "2238 m N 56° 59′ E (Aldao); telégrafo a 410, población a 820, mojones viejos a 1685,40, 1757,60 (fierro), 1911 y 2235 (fierro)"
+    ],
+    [
+     "B-C",
+     "3382,50 m N 30° 40′ O (Mosca, Ojuez); B-G 882, G-I 1846, I-C 654,50; arroyo Ciego a 1592, Est. Santa María a 2600, arroyo Noriega a 3295"
+    ],
+    [
+     "C-D · D-E",
+     "400 m S 25° 59′ O y 584,50 m N 30° 52′ O (terreno en litigio)"
+    ],
+    [
+     "E-F",
+     "1910 m S 57° 15′ O (Morrow); telégrafo a 220, población a 1181"
+    ],
+    [
+     "F-A",
+     "3769 m S 30° 50′ E (Dowling, Acuña); F-J 955,74, J-H 1846, H-A 967,26; arroyo Noriega a 3460"
+    ],
+    [
+     "J-I",
+     "2243,50 m N 59° 10′ E; K a 1121,75 (mitad); telégrafo, arroyo a 1894"
+    ],
+    [
+     "K-L · L-H · L-G",
+     "1846 m S 30° 45′ E; 1119 m S 59° 10′ O; 1119 m N 59° 10′ E (H-G 2238)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle del plano: esquina NO (Santiago Morrow y terreno en litigio)",
+   "img": "img/f/188/04.jpg",
+   "fuente": "IMG_1003.JPG",
+   "orientacion": "como el plano general",
+   "interpretacion": "Toma de detalle que confirma la grafía «Santiago Morrow» y el rótulo vertical «Terreno en litigio ocupado por Mauricio Erevica [?]» con su «Población». E-F = 1910 S 57° 15′ O, mojón a 936 m, telégrafo a 220 m, D-E = 584,50 N 30° 52′ O.\nE · F\nEsquineros NO del campo, mojones de madera\nE-F\n1910 m S 57° 15′ O",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "En 1903 la estancia «Santa María» es un casco con montes, cercado y con un puesto, sobre el costado NE (lado B-C), a 80 m del lindero Mosca-Ojuez. El campo está surcado por el arroyo Noriega, que lo atraviesa en diagonal de N a S, y por su afluente, el arroyo Ciego, que entra por B-C y desemboca en el Noriega en el centro del campo; es el primer registro del nombre «arroyo Ciego» en el corpus. Hay al menos seis poblaciones en los bordes, dos alambrados divisorios de vecinos (Mosca-Ojuez, Dowling-Acuña) y el telégrafo de Giles a Mercedes, que lo cruza de NO a SE. Los mojones viejos de madera y fierro sobre A-B (cuatro en 550 m) delatan mensuras anteriores de vecinos."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "La circular reúne nueve firmas, entre ellas la del Fisco (el Estado como vecino), una firma por ausencia del padre (Lorenzo por Carlos Mosca) y una a ruego (Mauricio Erevica [?], ocupante del terreno en litigio). Ningún lindero va al terreno: el acta del 13/7/1903 se labra en la propia estancia con dos testigos (Benavides y Sheridan) y sirve para las dos mensuras. La división se pacta entre los herederos y se protocoliza con un acta de conformidad. El ocupante del terreno en litigio firma la circular, pero el ingeniero contornea su terreno (C-D-E) en vez de discutirlo: el pleito queda fuera de la mensura."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos al minuto y distancias al centímetro; mojones nuevos de madera, esquinero de arranque de fierro. Verificación en python con los rumbos y distancias del texto: el hexágono cierra con 2,22 m de error sobre 12,3 km (≈ 1/5500) y el área por coordenadas da 827,33 ha (texto: 827,3017). Las particiones de los lados cierran exactas: F-A = 955,74 + 1846 + 967,26 = 3769; B-C = 882 + 1846 + 654,50 = 3382,50; K está en la mitad de J-I (2 × 1121,75 = 2243,50); H-G = 2 × 1119. Los cuatro lotes suman 827,3017 ha, igual a la mensura. El f. 16 da el mojón K a «1121,75» [la cifra parece 1121,25]: el f. 18 y el plano dicen 1121,75. El telégrafo sobre J-I a 1504 m en el texto y 1354 en el plano [?]."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Los títulos se expresan en varas y cuadras y se convierten a hectáreas con 1 cuadra cuadrada = 1,6874 ha (vara de 0,866 m): 424,318 cuadras = 715,9942 ha; 64,046 cuadras = 108,0714 ha; 100 cuadras = 168,7401 ha. Esto corrige la lectura de la 187: su título no es «1/16 de legua cuadrada» sino «cien cuadras cuadradas», unidad que nombra la escritura de 1887. El campo Frías vendido en 1877 mide 2200 × 4340,90 varas, pero el producto (424,44 cuadras) excede en 0,13 cuadras a las 424,318 declaradas (que corresponderían a 4339,6 v de fondo). La tasación de 1893 es exactamente 120 $ por hectárea sobre 820,7453 ha. Excesos de 1903: 0,39 % aquí y 0,87 % en la 187."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena de títulos larga y bien documentada: Pedro Antonio Martínez → Mariano Noriega (1823 [?]) → su viuda Gabriela Álvarez → Pastor Frías (1852) → sus herederos → Tomás Gaynor (1877, mediante Felipe Córdoba [?]); y Dionisio Noriega → Vicente Noriega y Antonina Montiel (1848) → sus hijos → Dionisio Quiroga (1860) → su viuda María Villalba → Gaynor (1880). Para la 187: Manuel Noriega → Manuela Noriega y su esposo Francisco Borja Lescano (compra a Aniceto Noriega, 1858) → Francisco Solano Lescano → Urbano Álvarez (1881) → Gaynor (1887). La tierra criolla de los Noriega pasa a un irlandés en tres compras en diez años. La sucesión Gaynor muestra dos matrimonios del causante (Murray y Leary), dos muertes en 1893, la herencia entre hermanos de Cristóbal y la división final en cuatro lotes iguales; el condominio dura de 1890 a 1903."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "141 (Castro 1885): es la misma estancia, medida como hexágono alambrado de 820,75 ha; la cifra pasa a la hijuela de 1893 (820,7453 ha); Doyle halla 827,30 en 1903 (+6,55 ha). Lado B-C: N 30° 49′ O 3390 m en 1885, N 30° 40′ O 3382,50 en 1903. 139 y 158 (sobras de Díaz de Vivar / Vernet): ocupan los primeros 500 m del lado B-C de la 141; en 1903 ese costado lo ocupan Mosca y Ojuez, y la firma «por el Fisco» puede remitir a esa tierra. 187 (gemelo): títulos, acta e informe comunes. 064 y 082 (Basarte, sobrante Frías): linderos Avelina R. de Noriega, María Villalba y Gregoria Achával de Benguria [Venguria]. 108 (Martín Dowling, ex Ángel Acuña) y 065: lindero SO; María S. de Dowling sería su viuda o heredera. 094 y 095 (Ojuez, Lezcano 1878) y 039 (Noriega)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Texto completo ff. 1-20 vta., carátula, portadilla y plano. Faltan el auto de aprobación, el acta de conformidad (original no copiado), la «planilla» de áreas que cita el f. 16, los diarios y las citaciones originales. Dudas: apellido del ocupante («Erevica», «Crevica» o «Erecia»), firmante fiscal «J. A. de Oro», «Crinigan», inicial de Acuña (J./G.) y de Villanueva (E./G.), fechas 1852 y 1823 del primer título. Abierto: qué pleito afectaba al terreno de Erevica [?] y si el Fisco firmaba por el sobrante de Vivar/Vernet; ubicar la Estancia Santa María y la confluencia Ciego-Noriega en el GIS a partir de la 141."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Tomás Gaynor",
+   "rol": "Causante",
+   "texto": "Irlandés o de familia irlandesa; compra el campo Frías (1877), 108 ha de Villalba de Quiroga (1880) y 100 cuadras de Urbano Álvarez (1887), y hace medir su estancia por Ramón B. Castro en 1885 (141); tiene otro campo de 326 ha (140). Casado con una Murray (madre de Miguel) y luego con Margarita Leary. Testa en Mercedes el 10/12/1890 ante Manuel López y muere días después.",
+   "fuentes": "Este duplicado, ff. 4-10; Fichas 140, 141, 187."
+  },
+  {
+   "nombre": "Margarita Leary (Leavy) de Gaynor",
+   "rol": "Causante",
+   "texto": "Viuda de Tomás Gaynor; recibe el 55,5 % de la estancia en 1893 y muere el 16/2/1893. La carátula, la portadilla, el plano y el D. I. escriben «Leavy»; el texto de Doyle, «Leary».",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Cristóbal Gaynor y Leary",
+   "rol": "Heredero fallecido",
+   "texto": "Hijo de Tomás y Margarita; recibe con Miguel las 100 cuadras de la 187; muere el 26/5/1893 sin descendencia y lo heredan sus hermanos.",
+   "fuentes": "Este duplicado, f. 10; Ficha 187."
+  },
+  {
+   "nombre": "Anita, María (de Kelly), Tomás y Diego Gaynor y Leary",
+   "rol": "Adjudicatarios",
+   "texto": "Cada uno recibe ≈ 206,82 ha en 1903: Anita el lote NO (con el entrante del terreno en litigio), Diego el NE (con la Estancia Santa María), Tomás el SO central y María, casada con un Kelly, el SE. Su apoderado es Pedro Villafañe.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Miguel Gaynor y Murray",
+   "rol": "Heredero",
+   "texto": "Hijo de Tomás Gaynor y de una Murray (primer matrimonio); recibe la mitad de las 100 cuadras (187) y adhiere al pedido de división.",
+   "fuentes": "Este duplicado, ff. 8 y 11; Ficha 187."
+  },
+  {
+   "nombre": "Juan E. Doyle",
+   "rol": "Ingeniero civil",
+   "texto": "Ingeniero civil con domicilio en Buenos Aires; en 1903 mide la sucesión Wheeler (186) y las dos fracciones Gaynor (187-188), todas de familias irlandesas.",
+   "fuentes": "Fichas 186-188."
+  },
+  {
+   "nombre": "Rafael López Saubidet",
+   "rol": "Juez",
+   "texto": "Juez de 1.ª instancia en lo civil y comercial del Departamento del Centro en 1903; secretaría de Martín Irasabal [?].",
+   "fuentes": "Este duplicado; Ficha 187."
+  },
+  {
+   "nombre": "Lorenzo A. Espinosa y Pedro Larroca",
+   "rol": "Juez y secretario (1893)",
+   "texto": "Aprueban la cuenta particionaria de la testamentaria de Tomás Gaynor y tramitan las de Margarita y Cristóbal.",
+   "fuentes": "Este duplicado, ff. 9-10."
+  },
+  {
+   "nombre": "Ricardo Videla",
+   "rol": "Partidor",
+   "texto": "Practica las cuentas particionarias de 1893 y 1894. Un agrimensor Videla aparece en el corpus (061, 1871), sin parentesco verificado.",
+   "fuentes": "Este duplicado; Ficha 061."
+  },
+  {
+   "nombre": "Pedro Villafañe",
+   "rol": "Apoderado",
+   "texto": "Apoderado de los cuatro hermanos en el pedido de división del 30/5/1903.",
+   "fuentes": "Este duplicado, f. 11."
+  },
+  {
+   "nombre": "Pastor Frías y sus herederos",
+   "rol": "Antecesores",
+   "texto": "Pastor Frías compra en 1852 a Gabriela Álvarez, viuda de Mariano Noriega, 1000 × 7900 varas; sus herederos (Manuela García de Frías, Pedro, Catalina Frías de Méndez [?], Ysabel Frías de Muñiz, Justa Frías de Fragueiro, Domingo y Pastor) venden en 1877. Familia ya conocida del bloque SO (064, 074, 082).",
+   "fuentes": "Este duplicado, ff. 4-5; Fichas 064, 082, 141."
+  },
+  {
+   "nombre": "Noriega (Mariano, Manuel, Manuela, Aniceto, Vicente, Dionisio, Felipe, María) y Avelina R. de Noriega",
+   "rol": "Antecesores y linderos",
+   "texto": "Familia criolla dueña de las tierras del arroyo de su nombre desde 1823 [?]; aparecen como vendedores, herederos y linderos hasta 1893.",
+   "fuentes": "Este duplicado; Fichas 028, 039, 064."
+  },
+  {
+   "nombre": "Dionisio Quiroga y María Villalba de Quiroga",
+   "rol": "Antecesores",
+   "texto": "Dionisio compra a los Noriega en 1860 en Mercedes ante el juez de paz Celestino Fernández; su viuda vende 108 ha a Gaynor en 1880 (esc. Nicanor S. Morsati [?]).",
+   "fuentes": "Este duplicado, ff. 5-6."
+  },
+  {
+   "nombre": "Francisco Borja Lescano, Francisco Solano Lescano y Urbano Álvarez",
+   "rol": "Antecesores (campo de la 187)",
+   "texto": "Lescano compra 400 × 3944 v a Aniceto Noriega (1858); su hijo Francisco Solano, representado por Juan B. Foste [?], vende 100 cuadras a Urbano Álvarez (1881, representado por el Dr. Juan José Álvarez y Álvarez), que las vende a Gaynor en 1887 (esc. Esteban S. Dufourg [?]). Linderos de entonces: Félix y Anacleto Lescano, Juan Shanahan, Cipriana Galeano.",
+   "fuentes": "Este duplicado, ff. 6-8; Fichas 045, 095, 187."
+  },
+  {
+   "nombre": "Carlos y Lorenzo Mosca",
+   "rol": "Linderos ne",
+   "texto": "Nuevos en el corpus; Lorenzo firma por su padre ausente. Su campo, alambrado contra Ojuez, ocupa el costado NE junto con el de Ojuez.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Ceferino Ojuez",
+   "rol": "Lindero ne",
+   "texto": "Firma claramente «Ojuez»; el título de 1881 lo llama «Cipriano Ojuez». Lindero NE de esta estancia y SE del campo de la 187.",
+   "fuentes": "Este duplicado; Fichas 094, 158, 187."
+  },
+  {
+   "nombre": "Santiago Morrow",
+   "rol": "Lindero no",
+   "texto": "Apellido escocés o irlandés; lindero NO ya en la hijuela de 1893.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Mauricio Erevica [?]",
+   "rol": "Ocupante de terreno en litigio",
+   "texto": "Ocupa con población el terreno en litigio del entrante C-D-E; no sabe firmar (firma a ruego Tomás C. [?] Crinigan [?]). Grafía insegura (Erevica, Crevica, Erecia).",
+   "fuentes": "Este duplicado, ff. 2, 13-16 y plano."
+  },
+  {
+   "nombre": "Guillermo Aldao",
+   "rol": "Lindero se",
+   "texto": "Nuevo en el corpus; firma «G. Aldao». Ocupa el lugar de Francisca Achával y Domingo Frías (linderos SE en 1893).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "María S. de Dowling y G. Acuña",
+   "rol": "Linderos so",
+   "texto": "Sucesores de Martín Dowling (108, ex Ángel Acuña) y de los Acuña (Guillermo y Ángel en 1877); alambrado divisorio entre ambos.",
+   "fuentes": "Este duplicado; Fichas 065, 108."
+  },
+  {
+   "nombre": "Roque F. [?] Benavides y Juan J. Sheridan",
+   "rol": "Testigos del acta",
+   "texto": "Testigos de la única acta de las dos mensuras, en la Estancia Santa María.",
+   "fuentes": "Este duplicado, f. 3."
+  },
+  {
+   "nombre": "Firmantes del Departamento de Ingenieros (22/9/1903)",
+   "rol": "Técnicos",
+   "texto": "And.s E. [?] Villanueva, Benjamín Sal, J. Ringuelet y el secretario Adriano Díaz, los mismos de las 186 y 187.",
+   "fuentes": "Este duplicado; Fichas 186, 187."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/188/02.jpg",
+  "fuente": "IMG_0980.JPG",
+  "lineas": [
+   "— San Andrés de Giles — N.º 188 —",
+   "Duplicado de Mensura",
+   "Her.ros de D.n Tomás Gaynor, Margarita Leavy de Gaynor y otro",
+   "San Andrés de Giles",
+   "10. 133. 10",
+   "1903",
+   "Ing.ro Juan E. Doyle",
+   "[al margen, a lápiz:] Gaynor Tomás (herederos) · Gaynor Margarita Leavy de (sucesión)"
+  ]
+ },
+ "titulo": "Her. de Tomás Gaynor y Margarita Leary de Gaynor",
+ "estado": "Transcripta (21 hojas, 139 renglones), 2 láminas"
+}
