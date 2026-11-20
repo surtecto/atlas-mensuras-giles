@@ -1,0 +1,374 @@
+{
+ "carpeta": "V02",
+ "carpeta_nombre": "Varios V02",
+ "archivo": "Ficha V02 - Catastro urbano, hoja 2 (c. 1938).docx",
+ "resumen": {
+  "Documento": "Hoja catastral 2 (partes A y B) del pueblo de San Andrés de Giles",
+  "Propietario / solicitante": "Catastro urbano · hoja 2",
+  "Autor": "Dirección de Geodesia [y] Catastro (PBA)",
+  "Agrimensor": "Sin firma (levantamiento oficial)",
+  "Año": "c. 1938 (inscripciones hasta 1937)",
+  "Escala": "1:1000 (como la hoja 1)",
+  "Ubicación": "Sector N-NO: Mitre, Avellaneda, Alsina, Pellegrini, Quintana, Urquiza, Rawson",
+  "Calles N-S": "Francia, B. de Irigoyen, Nueve de Julio, San Martín",
+  "Rasgos": "Calle José Pichetto; calles públicas ocupadas; plaza o faja municipal",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), juego de 9 hojas catastrales"
+ },
+ "metricas": {
+  "superficie_ha": "— (hoja urbana; parcelas de 0,03 a 1,7",
+  "hitos": "calle José Pichetto; calles públicas ocupadas sin título",
+  "aguas": "no figuran"
+ },
+ "sintesis": "Segunda hoja catastral del pueblo (sector N-NO), sin rótulo de título en las tomas: se identifica por el «2» en lápiz rojo y el gráfico de ubicación con sus partes A y B. Parcelario entre las calles General Mitre y Rawson y entre Francia y San Martín, con titular, asiento de dominio, superficie y Guía. Destacan la parcela de 16 552 m² de Juana Picchetto de Gazzaniga junto a la calle José Pichetto, la sucesión Marino y Ricco (1935), los Barbella, Mónaco y Sarlinga, y varias calles públicas ocupadas sin título por vecinos. Persisten títulos de 1885-1891.",
+ "caratula": {
+  "img": "img/v/V02/01.jpg",
+  "fuente": "IMG_1062.JPG (girada 180°)",
+  "campos": [
+   [
+    "Plano",
+    "San Andrés de Giles — hoja catastral 2"
+   ],
+   [
+    "Autor",
+    "Dirección de Geodesia [y] Catastro"
+   ],
+   [
+    "Fecha",
+    "sin fecha visible (c. 1938)"
+   ],
+   [
+    "Escala",
+    "1:1000 (probable)"
+   ],
+   [
+    "Gráfico de ubicación",
+    "IMG_1060 (partes A y B)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Gráfico de ubicación de la hoja 2",
+   "img": "img/v/V02/02.jpg",
+   "fuente": "IMG_1060.JPG (girada 180°)",
+   "nota": "",
+   "lineas": [
+    "[Croquis del ejido a lápiz rojo, con las manzanas numeradas 8 a 25, 34-59, 66-163; las manzanas de la hoja coloreadas en rojo y un sector rayado al NE]",
+    "HOJAS 2 [?] · B · A [letras grandes a lápiz sobre el croquis, que dividen la hoja en partes A y B]",
+    "[Manzanas numeradas legibles:] 8 · 9 · 10 · 11 · 12 · 13 · 14 · 15 · 16 · 17-25 · 34-51 · 53-59 · 66-72 · 76-80 · 94-102 · 105-113 · 130-133 · 138-148 · 156-163 [?]",
+    "[Línea de puntos y trazos a lo largo del borde S:] Estación […] [?] … de Mercedes [?] [rótulo casi borrado del ferrocarril]"
+   ],
+   "interpretacion": "Croquis a lápiz rojo del ejido con las manzanas numeradas; las que entran en la hoja 2 están coloreadas en rojo y un sector rayado al NE. Las letras A y B dividen la hoja en dos partes. Al S, una línea de trazos con un rótulo casi borrado que parece del ferrocarril."
+  },
+  {
+   "titulo": "Calle José Pichetto: los Marino y Ricco, los Barbella y Juana Picchetto de Gazzaniga",
+   "img": "img/v/V02/03.jpg",
+   "fuente": "IMG_1061.JPG (girada 180°)",
+   "nota": "",
+   "lineas": [
+    "[Croquis de ubicación en el ángulo, con la letra A y las manzanas 55-59]",
+    "F° 107/926 · Vicente Blanco · s.t. 43,30 × 86,60 = 3749 m² 78 · Guía N° 1991",
+    "F° 194/935 · Guía N° 2709 · Andrés Marino y Ricco · s.t. 64,60 × 46,60 = 2026 m² 67 [?]",
+    "F° 193/935 · Teresa Marino y Ricco de Miano · s.t. 21,65 × 40 = 866 m² · Guía N° 2707",
+    "N° 506/906 · Guía N° [en blanco] · María R. [?] Marino de Costaro [?] · s.t. 21,65 × 43,30",
+    "F° 197/935 · María Concepción Marino y R. de Patrone [?] · s.t. 21,65 × 43,30 = 937 m² 45 · Guía N° 2708",
+    "CALLE JOSÉ PICHETTO",
+    "F° 196/935 · Guía N° 3955 · Rosa Marino y Ricco · s.t. 15,47,50 [sic] = 712 m² 50 [?]",
+    "F° 192/935 · Domingo Antonio Marino y Ricco · s.t. 18 × 47,50 = 855 m² · Guía N° 3954",
+    "F° 195/935 · Juan Marino y Ricco · s.t. 2966 m² 372 · Guía N° 3950",
+    "F° 193/935 · Teresa Marino y Ricco de Miano · s.t. 55,33 × 53,60 = 2965 m² 688 [?] · Guía N° 1016 [?]",
+    "[Cotas de los lados:] s.t. 39,10 · s.t. 55,33 · s.t. 53,60 · s.t. 51,27 · s.t. 55,55",
+    "N° 16284/913 · Juana Picchetto de Gazzaniga · s.t. 16 552 m² · Guía N° 2509",
+    "[A lápiz, sobre el lote:] Saubidet [?]",
+    "F° 92/923 · Julián Giampietro · s.t. 43,30 × 43,30 = 1874 m² 89 · Guía N° 2516",
+    "F° 212/934 · Julián Giampietro · s.t. 43,30 × 43,30 = 1874 m² 89 · Guía N° 2515",
+    "[Franja:] Ocupado por Giampietro según plano Ins. N° 11771 [?]/930 · CALLE",
+    "F° 162/927 · Guía N° 905 · José Francisco Larezca [?] · s.t. 29,47 × 86,60 = 2550 m²",
+    "N° 18, F° 1/908 · Cesáreo Gastaldi · s.t. 43,30 × 86,60 · Guía N° 2504",
+    "F° 170/917 · Miguel Barbella y Germino · s.t. 43,30 × 86,60 = 3749 m² 78 · Guía N° 0088",
+    "F° 113/919 · Miguel Barbella · s.t. 43,30 × 86,60 = 3749 m² 78 · Guía N° 1928",
+    "CALLE PÚBLICA OCUPADA [sin título] [?]",
+    "F° 169/917 · Guía N° 0089 · Nicolás Barbella y Germino · s.t. 17,60 × 86,60 = 1524 m² 56",
+    "F° 168/917 · Guía N° 0087 · Félix Barbella y Germino · s.t. 26,60 × 86,60 = 2303 m² 56",
+    "F° 171/917 · Guía N° 0502 · María Barbella de Denápoli · s.t. 42,40 × 86,60 = 3671 m² 84",
+    "F° 50/917 · Guadalupe Rovelli de Soulé · St. 41,12 × 86,60 = 3561 m² 85 · Guía 3482 [?]",
+    "F° 55/917 · Juan Antonio Rovelli · St. 23,81 × 86,60 = 2061 m² 94 · Guía 3070",
+    "F° 105/924 · Guía N° 1837 · José Federico Aggio · s.t. 21,65 × 86,60 = 1874 m² 89",
+    "[Calles al E:] CALLE NUE[VE DE JULIO] [?] · CALLE SA[…]"
+   ],
+   "interpretacion": "Sector O-SO: la gran parcela de Juana Picchetto de Gazzaniga (16 552 m², N.º 16284/1913), los lotes de los hermanos Marino y Ricco (todos inscriptos en 1935: una división hereditaria), los Barbella y Germino (1917-1919), Giampietro, Rovelli y Gastaldi. Una calle pública aparece ocupada sin título."
+  },
+  {
+   "titulo": "Calles Rawson, Juan B. Etcheverry y Bernardo de Irigoyen",
+   "img": "img/v/V02/01.jpg",
+   "fuente": "IMG_1062.JPG (girada 180°)",
+   "nota": "",
+   "lineas": [
+    "[Calles:] CALLE RAWSON · CALLE JUAN B. ETCHEVERRY [?] · CALLE JOSÉ PICHETTO · CALLE BERNARDO DE IRIGOYEN · CALLE NUEVE DE JULIO · CALLE SAN MARTÍN",
+    "José Mónaco [?] y Serafina Mónaco de Rose [?] · s.t. 16 244 m² · Guía 1508",
+    "N° 5798/909 · José Sile · s.t. 86,60 × 86,60 · Guía N° 1628",
+    "F° 115/921 y 148/925 · Juan Mariano Martínez y otros · s.t. 86,60 × 86,60 = 7499 m² 56 · Guía N° 1036",
+    "N° 1582/885 · José Lufrano · s.t. 86,60 × 43,30 · Guía N° 2648",
+    "F° 164/929 · Juan Luis Sillén [?] · s.t. 40,30 × 86,60 = 3805 m² 75 [?] · Guía N° 2552",
+    "F° 59/923 Remanente · Juan de Dios Videla · s.t. 7066 m² 56 · Guía N° 1797 [?]",
+    "F° 63/932 · Juan de Dios Videla · s.t. 10,43 × 43,30 [?] · Guía N° 2604 [?]",
+    "N° 1007/F° 55/907 · Antonio Colucci · s.t. 43,30 × 86,60 · Guía N° 2160",
+    "N° 1003/88 [?] Remanente · Pablo Armentano · s.t. 43,30 × 43,30 · Guía N° 1011",
+    "F° 45/920 · María Victoria Spinelli de De Santi · s.t. 43,30 × 43,30 = 1874 m² 89 · Guía N° 2263",
+    "F° 89/9[..] · Cosme Pinto [?] · s.t. …",
+    "N° 6764/909 · Guía N° 3152 · Cecilio Pascual Sillo [?] · s.t. 34,54 [?] × 34,64 [?] = 1199 m² 92 [?]",
+    "F° 129/925 · Guía N° […] · Pedro Pellero [?]",
+    "F° 80/925 · Guía N° 3146 · Inocencio Silva · s.t. 17,52 × 58,89 [?] = 1039 m² 27 [?]",
+    "F° 4/931 · Guía N° 1787 [?] · Cosme Pinto · s.t. 27,71 [?] × 41,50 [?] = 1150 m² [?]",
+    "F° 73/918 · Guía N° 2067 · Rosa Contarella de Menice [?] · s.t. 54,64 [?] × 58,89 = 2019 m² 08 [?]",
+    "CALLE PÚBLICA OCUPADA POR Juana Picchetto de Gazzaniga",
+    "N° 7556/913 · Petrona Josefa Almirón · s.t. 1124 m² 95 · Guía N° 1857",
+    "N° 7553/913 · Felipe Almirón [?] de […] · Guía N° 2[..]",
+    "F° 53/924 · Guía N° 2102 [?] · Quintín Campos · s.t. 17,32 × 43,30 [?]",
+    "F° 152/933 · Gregoria Flores de Minutti [?] · s.t. 1124 m² 95 · Guía N° 2647",
+    "F° 140/933 · Miguel Blanco (hijo) · s.t. 1414 m² 18 [?] · Guía N° 3698 [?]",
+    "[Lote menor junto a Blanco: inscripción a lápiz ilegible]",
+    "[Columna de manzanas densas al E de la calle Nueve de Julio, entre Rawson y Etcheverry:]",
+    "Juan Silli [?] · F° 87/27 [?] · Guía 3155 [?]",
+    "Nicolás M[…] · F° 32/27 [?]",
+    "José Manuel Méndez · F° 173/28 · Guía N° 2137 [?] · Sup. s.t. 940 m² 46 [?]",
+    "Eloísa Olivera de Llanos y otros · F° 146/20 [?] y 101/32 · Guía N° 2628 [?] · Sup. s.t. 1087 m² 60 [?]",
+    "Pascual Lamorte [?] · F° 9/32 [?] · Guía 2052 [?]",
+    "Sdad. Llames Hnos. [?] · F° 78/34 · Guía N° 3681 [?] · Sup. s.t. 884 m² 28 [?]",
+    "F° 17/21 Remanente · Fernando C. Lillia [?] · s.t. 14,96 m² [?] · Guía N° 2455 [?]",
+    "F° 11/33 · Remigio Joaquín Rodríguez · Guía N° 2470 [?]",
+    "F° 41/[..] · Santiago Camilo [?] Lo Bianco y N. Ormachea [?]",
+    "José Santos Macchione [?] · s.t. 13,35 × 1050 m² [?] · Guía N° 3590 [?]",
+    "Carlos Volti [?] · Guía 3596 [?]",
+    "F° 14/28 · Antonio Ruano [?] Roldán",
+    "F° 14/33 · Domingo Antonio Marino [?]",
+    "F° 41/27 · Miguel Rizzo [?]",
+    "Lottero de Ferraris [?] · Guía N° 1505 [?]",
+    "F° 189/[..] · Gerónimo Lobo [?] · s.t. 555 m² 90 [?]",
+    "F° 14/35 · Bienvenido de Belaguardo [?]",
+    "F° 160/927 · Julián Giampietro · s.t. 26 × 86,60 = 2250 m² · Guía N° 2513"
+   ],
+   "interpretacion": "Manzanas enteras de 86,60 × 86,60 m (José Sile, Juan Mariano Martínez: 7499,56 m²), cuartos de manzana y subdivisiones densas sobre Nueve de Julio. Juana Picchetto de Gazzaniga ocupa también una calle pública."
+  },
+  {
+   "titulo": "Calles M. Quintana y Urquiza: los Mónaco, Guerriere y el ocupante Simón R. Cruz",
+   "img": "img/v/V02/04.jpg",
+   "fuente": "IMG_1063.JPG (girada 180°)",
+   "nota": "",
+   "lineas": [
+    "[Calles:] CALLE M. QUINTANA · CALLE URQUIZA · CALLE RAWSON · CALLE FRANCIA · CALLE BERNARDO DE IRIGOYEN",
+    "F° 6/922 · Carmelo Guerriere y Dómine · Guía N° 0844",
+    "F° 62/922 [?] · Guía N° 2035 [?] · Carmelo Guerriere y Dómine · s.t. 23,50 [?] × 86,60",
+    "F° 61/922 · Carmelo Guerriere y Dómine · s.t. 10 665 m² 8456 [?] · Guía N° 0844",
+    "F° 62/933 · Donato Bilancieri [?] · s.t. 23,30 × 86,60 = 2021 m² 60 [?] · Guía N° 2036",
+    "F° 237/927 · Marcos Teófilo [?] Casas · St. 3749 m² 78 · Guía [no figura] [?]",
+    "N° 1211/903 · Leopoldo Mángano · s.t. 43,30 × 86,60 · Guía N° 2684",
+    "N° 1506/885 · José Larezca · s.t. 43,30 × 86,60 · Guía N° 2605",
+    "F° 24/928 · Guía N° 2067 [?] · Rafael Pugelli [?] · s.t. 20,45 × 43,30 = 866 m² [?]",
+    "F° 16/927 · Guía N° 2251 [?] · Juan Bautista de Francisco · s.t. 43,30 × 43,30 [?]",
+    "[Cuatro lotes angostos sobre Irigoyen, rótulos menudos:] … Rafael Pugelli [?] … Guía 2065 [?]",
+    "N° 54007/914 B. · Miguel Paladino y Antonio Mónaco · St. 43,30 × 173 m² [sic, por 173,20 m] · Guía 1142 [?]",
+    "F° 23/929 · María Antonia Mónaco de Paladino · St. 43,30 × 173,20 · Guía 1309 [?]",
+    "F° 24 y 25/929 · José Mónaco y Serafina Mónaco de Rose · St. 16 244 m² · Guía 1508",
+    "F° 4/929 · Ofelia E., Francisco L., Lucío E. Blanco y Cáffaro, Héctor V. Mónaco y Cáffaro [?] · s.t. 1874 m² 89 · Guía N° 2788 [?]",
+    "F° 145/933 · Guía N° 3175 · Sdad. «Fernando T. Pérez y Hnos.» · s.t. 43,30 × 43,30",
+    "F° 19/929 · Blanca B., Teresa V., Antonio, Horacio A. y María E. Spaletta [?] y Mónaco · s.t. 1874 m² 89 [?] · Guía N° 2789 [?]",
+    "F° 14/920 [?] · Guía N° 2363 [?] · Paula M. Sosa de Faccini · s.t. 21,65 × 43,30 [?]",
+    "F° 91/915 [?] · Fco. Faccini · s.t. 625 m² [?] · Guía N° 2564 [?]",
+    "F° 70/920 · Gaspar [?] Faccini · s.t. 396 m² [?] · Guía N° 1176 [?]",
+    "ocupado sin título por Simón R. Cruz [?] · St. 4850 m² [?]",
+    "F° 23/938 [?] · Gregorio Escobar · Ver[…] Título de José Vincenti y […] F° 111/... [?] · José Dimeni [?] Raggio · Juez de Paz del Partido · Guía: no figura",
+    "[Columna de manzanas al E:]",
+    "Antonio Di Francisco · F° 163/[..] · Guía N° 2807 [?] · Sup. s.t. 307 m² [?]",
+    "Josefa Santiago Demeca [?] y Josefa M. de Tolosana [?] · F° 6/31 [?]",
+    "Kurate [?] Lamatti [?] y Ernesto [?] · F° 29/29 · Guía 3284 [?] · S.t. 1522 m² [?]",
+    "Beatriz Ernesta Bonetti de Casoli · N° 3687/895 y F° 146/917 · Guía N° 2129 · Superficie remanente s. título 1621 m² 08 [?]",
+    "Antonio Giácomo [?] · N° 1654, F° 85/895, N° 331, F° 159 [?] de 1889 · Guía N° 2312 · Seg. título 22,516 × 86,60 [?]",
+    "Francisco Mónaco · F° 20/29 · S/título 86,60 × 86,60 · Guía N° 2784",
+    "Catalina A. Rosa [?] Feliciana Llanos [?] y Olivera · F° 14/20 · Guía N° 2650 [?]",
+    "Juan Cranotti [?] · F° 14/8/30 [?]",
+    "Antonio Faggi [?] · N° 13561/910 · Guía N° 2366 [?]",
+    "Nicolás M. Dolce [?] · F° 39/27 · Guía N° 3086 [?]"
+   ],
+   "interpretacion": "Fajas de 43,30 × 173,20 m (dos manzanas de fondo) de los Mónaco y Paladino; Carmelo Guerriere y Dómine con 10 665 m²; «ocupado sin título por Simón R. Cruz» (4850 m² [?]) y un lote de Gregorio Escobar con referencia a un título ante el Juez de Paz del partido."
+  },
+  {
+   "titulo": "Calles Alsina y C. Pellegrini",
+   "img": "img/v/V02/05.jpg",
+   "fuente": "IMG_1064.JPG (girada 180°)",
+   "nota": "",
+   "lineas": [
+    "[Calles:] CALLE ALSINA · CALLE C. PELLEGRINI · CALLE M. QUINTANA · CALLE URQUIZA · CALLE FRANCIA · CALLE BERNARDO DE IRIGOYEN · CALLE NUEVE DE JULIO",
+    "Luis Pablo […] [?] · s.t. … [rótulo cortado en el borde]",
+    "N° 9587/1960 [sic, por 1890 o 1906 ?]/891 · Reman. · Pompilio Sarlinga · Rem. s.t. 44 m 40 × 64 m 95 = 2883 m² 78 [?] · Guía N° 1582",
+    "F° 3[..]/927 · Pompilio Sarlinga [?] · Guía N° 3[..]",
+    "s.t. 86,60 × 86,60 = 7499 m² 56 · Guía N° 2960 [rótulo de la manzana al NE, cortado]",
+    "F° 37/924 · José Abatte [?] · s.t. 8822 m² 1073 [?] · Guía N° 0001",
+    "N° 17350/912 · Josefa Sarlinga de Sforza · Rem. s.t. 3319 m² 78 · Guía 1607",
+    "F° 78/935 [?] · Victoria Sarlinga de Rapisa [?] · s.t. 10 × 43 [?] · Guía 3[..]",
+    "N° 17352/912 · Andrés Marino · s.t. 43,30 × 86,60 = 3749 m² 78 · Guía N° 2606",
+    "F° 131/930 · Juan Antonio Robascio [?] · s.t. 7499 m² 56 · Guía N° 3788",
+    "N° 5952/907 · Próspero Mitidiero y Josefa Blanco · s.t. 43,30 × 43,30 · Guía N° 2776",
+    "F° 135 y 136/920 · Alfredo Andrés y Rodolfo Juan Trombetta y Caletti · s.t. 5624 m² 57 · Guía N° 1758",
+    "ocupado por Municipalidad de S. Andrés de Giles · Guía no figura [faja sobre la calle Nueve de Julio]",
+    "[Sobre la misma faja:] ocupado [por] Josefa [?] Sarlinga [?] … · Guía no figura",
+    "F° 237/927 · Marcos Teófilo [?] Casas · St. 3749 m² 78 · Guía no figura",
+    "F° 23/938 · Gregorio Escobar · Título [por] prescripción [?] … ante el Juez de Paz del Partido … · Guía: no figura",
+    "[Columna de manzanas al E de Nueve de Julio, rótulos menudos:]",
+    "Luis Dicecco [?] · F° 79/16 [?] · Guía N° 2307 [?] · Sup. s.t. 1438 m² [?]",
+    "Pedro Antonio Picecco [?] · F° 78/29 · Guía N° 3291 [?] · Sup. s.t. 504 m² 69 [?]",
+    "María R. Gómez de Bonetti [?] · F° 177/29 · Remanente · Guía N° 3560 [?]",
+    "Ermenio [?] Lanzone · F° 14/30 · Guía N° 2944 [?]",
+    "Juana M. Tesoroni [?] de Frías, María R., Juana L., María Rita, Eustaquio A. y José M. Frías y Tesoroni [?] · F° 98/17 · Guía N° 2418 [?] · Sup. remanente s/ título 10,40 [?] … s/ plano 1036 [?] m²",
+    "Ernesto A. Freggiaro · F° 28/33 · Guía N° 3608 [?] · Sup. s.t. 987 m² 44 [?]",
+    "Sdad. «Fdo. T. Pérez y Hnos.» · F° 32/34 · Guía N° 3756 [?] · Sup. s.t. 1186 m² 60 [?]",
+    "Margarita Vicente [?] de Casas · F° 23/29 · Guía N° 2852 [?]",
+    "Andrés J. J. Bonetti [?] · F° 151/29 [?] · Guía N° 3786 [?]",
+    "Sixta [?] Rivero de […] · F° 4/31 · Guía N° 3[..]",
+    "José Pascual Siriguti [?]",
+    "Fermín Dorado [?] · F° 151/[..]",
+    "Kurate Lamatti [?] y otros"
+   ],
+   "interpretacion": "Remanentes de los Sarlinga (1891, 1912), la gran parcela de José Abatte [?] (Guía N.º 0001), Trombetta y Caletti, y una faja sobre Nueve de Julio «ocupada por Municipalidad de S. Andrés de Giles»."
+  },
+  {
+   "titulo": "Borde N: General Mitre y Avellaneda, empalme con la hoja 1",
+   "img": "img/v/V02/06.jpg",
+   "fuente": "IMG_1065.JPG (girada 180°)",
+   "nota": "",
+   "lineas": [
+    "[Números de manzana, a lápiz, sobre la calle General Mitre:] 8 · 21 [?] · 34 · 53 [?]   [Lápiz rojo, ángulo:] 2",
+    "[Calles:] CALLE GENERAL MITRE · CALLE AVELLANEDA · CALLE ALSINA · CALLE FRANCIA · CALLE BERNARDO DE IRIGOYEN · CALLE NUEVE DE JULIO",
+    "F° 140/926 · Roque Cornelio Coffaro y otros · s.t. 2071 m² [?] 75 · Guía N° 2073",
+    "CALLE PÚBLICA OCUPADA SIN TÍTULO por Roque Cornelio Coffaro y otros y Lorenzo [Tabanno] [?]",
+    "F° 188/929 · Guía N° 3562 [?] · Eduardo Silva · s.t. 26,45 × 21,45 [?] = 1406 m² 73 [?]",
+    "F° 87/22 [?] · Guía N° 3561 [?] · Eduardo M. Echevarri [?] …",
+    "ocupado por Roque Cornelio Coffaro y otros · Sup. 1406 m² 17 · Guía no figura",
+    "F° 64/927 · Guía N° 3203 · Donato Tabano · s.t. 21,65 × 86,60 = 1874 m² 89",
+    "F° 63/927 · Guía N° 3204 · Julián Tabano · s.t. 21,65 × 86,60 = 1874 m² 89",
+    "F° 94/926 · Luis Pablo Mauricio Sillon [?] y Gimeno [?] · s.t. 5767 m² 16 [?] · Guía N° 3159 [?]",
+    "[Franja:] CALLE PÚBLICA OCUPADA SIN TÍTULO por Luis Pablo Mauricio Sillon [?]",
+    "N° 775/905 · José Perrupato · s.t. 86,60 × 86,60 = 7500 m² 60 [sic] · Guía N° 1587",
+    "F° 200/931 · Félix Ramírez · s.t. 23,30 [?] × 43,30 = 1008 m² 89 · Guía N° 3563 [?]",
+    "F° 124/933 · Guía N° 3501 · Domingo Antonio Romano · s.t. 10,42 [?] × 43,30 = 433 m²",
+    "F° 49/927 · Carmen Deluca de Romano · s.t. 20 × 43,30 = 866 m² · Guía N° 2269 [?]",
+    "F° 166/931 · Rita Faccini de Bava · s.t. 30,50 [?] × 43,30 = 1144 m² 80 [?] · Guía N° 2677",
+    "F° 26/921 · Guía N° 1885 [?] · Simón Amador [?] · s.t. 21,65 × 43,30 = 937 m² 45 [?]",
+    "F° 120/927 [?] · Lugardo [?] Juana Tavares · s.t. 21,65 × 43,30 = 937 m² 45 [?] · Guía N° 3215 [?]",
+    "F° 47/931 · Eduardo Capotani [?] …",
+    "F° 125/928 [?] · Fausto [?] de González [?]",
+    "F° 103/925 · Andrés Castro · s.t. 10,42 × 43,30 …",
+    "[Seis lotes numerados 1 a 6 en la manzana entre Avellaneda y Alsina, sobre Francia:] 1 F° 125/935 Domingo Ricci [?] · 2 F° 26/935 Angel [?] M. Basilio [?] · 3 F° 31/935 Domingo Lucchesi [?] · 4 F° 13/934 Matías Grandoni [?] · 5 F° 15/934 Pedro Milano [?] · 6 F° 13/935 Juana [?] Ismael González [?] · Guías 3940-3947 [?]",
+    "F° 252/927 · St. 1124 m² 95 [?] · Juan Pablo Raggio · Guía no figura",
+    "N° 9587/1960 [?]/891 · Reman. · Pompilio Sarlinga · Rem. s.t. 44 m 40 × 64 m 95 = 2883 m² 78 · Guía N° 1582",
+    "F° 26/927 [?] · Pompilio Sarlinga · Guía 3189 [?]",
+    "F° 166/931 · Rita Faccini de Bava · s.t. 86,60 × 86,60 = 7499 m² 56 · Guía N° 2960",
+    "F° 1/930 [?] · Juan Fortunato [?] Lazzani [?] …",
+    "F° 16/935 [?] · José García Moreno [?] · s.t. 18 [?] × 43,30 … · Guía N° 2215 [?]",
+    "F° 16/934 · Guía N° 1822 [?] · Luis Tabanno [?] · s.t. 21,65 × 43,30 [?]",
+    "F° 95/925 · Fernando Teófilo Pérez y Peláez · s.t. 1656 m² · Guía N° 2925 [?]",
+    "Sin título, ocupado por Ángela Cecilia Magnanego [?] de Stopiello · S. aprox. 1874 m² · Guía 2665",
+    "F° 17/937 · Héctor J. Martignone [?] · s.t. 1383 m² 59 [?] · Guía 3334 [?]",
+    "F° 237/936 · N. Peverelli [?] … · s.t. 250 m² [?] · Guía 1830 [?]",
+    "[Columna de manzanas al E de Nueve de Julio:]",
+    "Sdad. Talleres [?] de Socorro Mutuos [?] «Asociación Italiana» [?] · F° 103/26 [?] · Guía N° 2[..]",
+    "Sdad. «Unione [?] e Benevolenza» [?] · F° 99/24 [?] · Sup. s.t. 937 m² [?]",
+    "Saturnino [?] Alonso [?]",
+    "Carmen Alexandrina [?] Viderola [?] de Silva · F° 133/32 · Guía N° 3184 [?] · Sup. s.t. 1407 m² 80 [?]",
+    "María del Carmen Monsalvo de Gómez · N° 5356/906 · Guía N° 2524 [?] · S. tít. 14,80 × 61,25 [?]",
+    "Carmen Monsalvo [?] de Gómez · F° 72/23 · Guía N° 3523 [?]",
+    "María Antonia Gómez de Bonetti · F° 158/29 · Guía N° 2101 · Sup. s.t. 1001 m² 26 [?]",
+    "Carlos Volti · F° 60/29 · Remanente · Guía N° 2990",
+    "Salvador Vidal [?] Marino · F° 35/[..] · Guía N° 2004 [?]",
+    "Vicente Dicecco · F° 147/32 [?] · Guía N° 3[..]",
+    "Enrique Lidia [?] Bonetti [?]",
+    "Fernando Oración [?] Lillia [?] · F° 14/30 [?] · Guía N° 2991 [?]",
+    "Pedro Antonio Picecco [?] · F° 78/29 · Guía N° 3291 · Sup. s.t. 504 m² 69 [?]",
+    "Luis Dicecco · F° 79/16 · Guía N° 2307 · Sup. s.t. 1438 m² [?]"
+   ],
+   "interpretacion": "Números de manzana a lápiz (8, 21 [?], 34, 53 [?]); se repiten Coffaro, Tabanno, Sillon [?] y Perrupato de la hoja 1. Calles públicas ocupadas sin título por Coffaro y por Sillon [?]; ocupación sin título de Ángela Cecilia Magnanego de Stopiello. Lápiz rojo «2»."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Hoja catastral 2 (sector central)",
+   "img": "img/v/V02/01.jpg",
+   "fuente": "IMG_1062.JPG (girada 180°; contiguas IMG_1061-1065)",
+   "orientacion": "sin flecha de N; calles Rawson y Etcheverry en sentido O-E",
+   "interpretacion": "Dibujo a tinta más cuidado que el de la hoja 1 (rotulación a normógrafo o letra técnica). La hoja se fotografió en cinco tomas solapadas; no hay vista general. Manzanas de 86,60 m, calles rotuladas, parcelas con límites rojos y tildes a lápiz de control.\nA · B\npartes de la hoja según el gráfico de IMG_1060\ns.t.\nsuperficie o medidas según título\nGuía N.º\nnúmero de guía catastral\nCalle pública ocupada\ncalle trazada pero cerrada por un vecino",
+   "referencias": []
+  },
+  {
+   "titulo": "Gráfico de ubicación de la hoja 2",
+   "img": "img/v/V02/02.jpg",
+   "fuente": "IMG_1060.JPG (girada 180°)",
+   "orientacion": "croquis del ejido",
+   "interpretacion": "Croquis a lápiz rojo con las manzanas numeradas y coloreadas: sirve de índice de la hoja y muestra la numeración de manzanas usada en todo el juego (8-163).\nA · B\npartes de la hoja\n8 … 163\nnúmeros de manzana",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Sector de transición entre el centro y las quintas del N: manzanas enteras sin subdividir (Sile, Martínez, Faccini de Bava, 7499,56 m² cada una), fajas de dos manzanas de fondo (Mónaco) y, sobre Nueve de Julio, un tejido muy subdividido de lotes de 300-1000 m². Varias calles del trazado no están abiertas: son «calles públicas ocupadas»."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "El levantamiento deja constancia de calles ocupadas por Juana Picchetto de Gazzaniga, por Giampietro «según plano Ins. N.º 11771 [?]/930», por Coffaro y por Sillon [?]; de ocupaciones sin título (Simón R. Cruz, Magnanego de Stopiello) y de un título otorgado ante el Juez de Paz (Gregorio Escobar, 1938). La propiedad urbana se negocia frente al Estado a través del registro y la posesión."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Productos verificados en python: 43,30 × 86,60 = 3749,78; 41,12 × 86,60 = 3561,0 (Rovelli de Soulé, 3561,85 en el plano); 23,81 × 86,60 = 2061,9; 17,60 × 86,60 = 1524,16; 26,60 × 86,60 = 2303,56; 42,40 × 86,60 = 3671,84; 55,33 × 53,60 = 2965,69; 43,30 × 173,20 = 7499,56. José Perrupato «7500 m² 60» es un redondeo/errata de 7499,56."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todas las cotas básicas son múltiplos de la vara: 173,20 m = 200 v, 86,60 = 100 v, 43,30 = 50 v, 21,65 = 25 v. El catastro métrico hereda el módulo de la traza colonial-republicana."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Sucesiones visibles en el registro: Marino y Ricco (todos F.º 192-197/1935), Barbella y Germino (1917), Mónaco y Paladino (1914-1929), Frías y Tesoroni. Juana Picchetto de Gazzaniga (1913) retiene 1,65 ha dentro del pueblo: la familia Pichetto, mayor propietaria del ejido en 1884 (137), conserva tierra urbana y da nombre a una calle."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "137 (ejido 1884: José Pichetto, mayor propietario con 1839,8 ha); 040 y 046 (Pichetto arrendatario y luego dueño en el fondo de Susana Casco); V01 (empalme por General Mitre: Coffaro, Tabanno, Perrupato); V03 (Laura Pichetto de Cutiño [?], Monsalvo); hoja 5 (IMG_1077: Laura Pichetto de Culligan, remanente de 4,89 ha)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "No hay título ni fecha en las tomas de esta hoja; falta una vista general. Dudas en numerosos números de Guía y en los nombres de la columna densa sobre Nueve de Julio. ¿El rótulo del borde S del gráfico (IMG_1060) es el ferrocarril a Mercedes?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Juana Picchetto de Gazzaniga",
+   "rol": "Propietaria",
+   "texto": "Titular de 16 552 m² (N.º 16284/1913, Guía 2509) y ocupante de una calle pública junto a la calle José Pichetto. Probablemente hija o nieta de José Pichetto, el mayor propietario del ejido en 1884.",
+   "fuentes": "Este plano; ficha 137; METODO.md."
+  },
+  {
+   "nombre": "Hermanos Marino y Ricco (Juan, Teresa de Miano, Rosa, Domingo Antonio, Andrés, María Concepción de Patrone, María R. de Costaro)",
+   "rol": "Herederos",
+   "texto": "Inscriptos todos en 1935 (F.º 192-197): reparto hereditario de una manzana sobre la calle José Pichetto.",
+   "fuentes": "Este plano."
+  },
+  {
+   "nombre": "Familias Barbella y Germino, Mónaco y Paladino, Sarlinga, Giampietro, Rovelli",
+   "rol": "Propietarios",
+   "texto": "Titulares de lotes y fajas del sector N entre 1891 y 1935; los Sarlinga (Pompilio, Josefa de Sforza, Victoria de Rapisa [?]) parecen la misma familia que los Sarlingo de la hoja 1.",
+   "fuentes": "Este plano; V01."
+  },
+  {
+   "nombre": "Simón R. Cruz, Ángela Cecilia Magnanego de Stopiello, Gregorio Escobar",
+   "rol": "Ocupantes / título por el juez de paz",
+   "texto": "Ocupaciones sin título registradas por el catastro; Escobar tiene un asiento de 1938 [?] vinculado a una actuación del Juez de Paz del partido. Simón Regino Cruz figura además como titular en la hoja 3.",
+   "fuentes": "Este plano; V03."
+  },
+  {
+   "nombre": "Municipalidad de San Andrés de Giles",
+   "rol": "Ocupante",
+   "texto": "Ocupa una faja sobre la calle Nueve de Julio sin guía catastral.",
+   "fuentes": "Este plano."
+  }
+ ],
+ "titulo": "Catastro urbano · hoja 2",
+ "estado": "Transcripta (6 hojas, 187 renglones), 2 láminas"
+}

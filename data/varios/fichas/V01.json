@@ -1,0 +1,292 @@
+{
+ "carpeta": "V01",
+ "carpeta_nombre": "Varios V01",
+ "archivo": "Ficha V01 - Catastro urbano, hoja 1 (c. 1938).docx",
+ "resumen": {
+  "Documento": "Hoja catastral 1, «Parte A», del pueblo de San Andrés de Giles",
+  "Propietario / solicitante": "Catastro urbano · hoja 1",
+  "Autor": "Dirección de Geodesia [y] Catastro (PBA)",
+  "Agrimensor": "Sin firma legible (levantamiento oficial)",
+  "Año": "c. 1938 (año roto; inscripciones hasta 1936)",
+  "Escala": "1:1000",
+  "Ubicación": "Sector NE del pueblo: camino general a S. A. de Areco, calles Francia, Irigoyen, 9 de Julio",
+  "Contenido": "Parcelas con titular, asiento de dominio, superficie s/ título y n.º de Guía",
+  "Rasgos": "Cauce ocupado por la Municipalidad (17 420 m²); quintas de 100 v de fondo",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), juego de 9 hojas catastrales"
+ },
+ "metricas": {
+  "superficie_ha": "— (hoja urbana; parcelas de 0,03 a 1,7",
+  "hitos": "cauce ocupado por la Municipalidad; camino general a S. A. de Areco",
+  "aguas": "cañada o zanja serpenteante en la banda NE"
+ },
+ "sintesis": "Primera de las nueve hojas catastrales del pueblo de San Andrés de Giles levantadas por la Dirección de Geodesia [y] Catastro de la provincia (enero-mayo de un año perdido en el desgarro; las inscripciones llegan a 1936-1938). Cubre el sector NE: una banda diagonal de quintas sobre el camino general a San Antonio de Areco, cortada por un cauce que ocupa la Municipalidad (17 420 m²), y manzanas de 100 varas sobre las calles Francia, Bernardo de Irigoyen y Nueve de Julio. Cada parcela trae titular, asiento de dominio, superficie según título y n.º de Guía; persisten títulos de 1880-1892 y ocupaciones sin título.",
+ "caratula": {
+  "img": "img/v/V01/01.jpg",
+  "fuente": "IMG_1050.JPG (vista general, girada 180°)",
+  "campos": [
+   [
+    "Plano",
+    "San Andrés de Giles — hoja catastral 1, Parte A"
+   ],
+   [
+    "Autor",
+    "Dirección de Geodesia [y] Catastro"
+   ],
+   [
+    "Fecha",
+    "enero a mayo de [año roto]"
+   ],
+   [
+    "Escala",
+    "1:1000"
+   ],
+   [
+    "Sello / firma",
+    "no visibles"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulos marginales · título, escala y gráfico de hojas",
+   "img": "img/v/V01/02.jpg",
+   "fuente": "IMG_1050.JPG (recorte del margen O, girado 180°)",
+   "nota": "Vista girada 180°; recorte del ángulo O de IMG_1050.",
+   "lineas": [
+    "[Título, al margen O, roto:] SAN ANDRÉS DE G[ILE]S",
+    "PLANO CONFECCIONADO CON / DATOS DEL LEVANTAMIENTO EJE[CUTA]DO / POR LA DIRECCIÓN DE GEODESIA CATASTR[O …] / DURANTE LOS MESES DE ENERO A MAYO [de 19.. — roto]",
+    "ESCALA de 1:1000",
+    "[A lápiz, en el ángulo:] HOJA 1 [?] / Parte A",
+    "[Recuadro del ángulo, a lápiz:] Gráfico demostrativo de / las hojas catastrales [con el ejido urbano dividido en hojas 1 a 9: 1 y 3 al NE, 2 al N, 4 al E, 5 al O, 6 al SE-centro, 7 al centro-S, 8 al SE, 9 al S]",
+    "[Dos leyendas verticales menores, casi borradas:] Gráfico de ubicación de las hojas […] / Gráfico de ubicación de [la] Sección [?] […]",
+    "[Rótulo de camino, a lo largo del margen:] de Carmen de Areco [?] / CAMINO GENERAL / A San Antonio de Areco",
+    "[Lápiz rojo, ángulos:] 1 [número de hoja, repetido]"
+   ],
+   "interpretacion": "El rótulo, roto en su mitad, dice que el plano se confeccionó con datos del levantamiento de la Dirección de Geodesia [y] Catastro hecho entre enero y mayo de un año perdido en el desgarro; escala 1:1000. El «Gráfico demostrativo de las hojas catastrales» divide el pueblo en nueve hojas: es la llave de todo el juego de planos que ocupa IMG_1050-1129. Esta es la hoja 1, «Parte A», al NE del pueblo, sobre el camino general a San Antonio de Areco."
+  },
+  {
+   "titulo": "Sector NE · banda de quintas sobre el camino y la cañada",
+   "img": "img/v/V01/03.jpg",
+   "fuente": "IMG_1050.JPG (mitad N, girada 180°; detalle IMG_1057)",
+   "nota": "",
+   "lineas": [
+    "F° 75/936 [?] · Esteban Gall[…] [?] y otro · s.t. 41,2 [?] × … · Guía 3253 [?]",
+    "N° 3370/901 · Vicente Sarlinga [?] · s.t. 44,40 [?] × 43,30 · Guía N° 3110",
+    "F° 26/916 [?] · Waldemiro [?] Rodríguez y otr[o] · s.t. 41,2 [?] … · Guía 3946 [?]",
+    "F° 49/935 · Valentino [?] Rodríguez y otra · s.t. … × 43,30 · Guía 3907",
+    "F° 74/926 · Nicolás Sarlinga [?] · s.t. 43,30 [?] × 43,30 · Guía N° 3105",
+    "F° 71/926 · Nicolás Sarlinga [?] · s.t. … · Guía N° 2106 [?]",
+    "F° 113/924 · Luis Pablo Mauricio Sillon [?] · s.t. 66,[..] × 86,60 = 5767 [?] m² 16 · Sup. s/ catastro 1010 [?] m² · Guía N° 1661",
+    "F° 158/920 · Gustavo Trombetta [?] · s.t. 5180 [?] m² … 6821 m² [?] · Guía N° 1784",
+    "N° 14[..]/920 [?] · José Perrupato · s.t. 18,60 [?] × 86,60 … · Guía N° 2080",
+    "F° 140/926 · Roque Cornelio Coffaro y otros · St. 2974,85 m² · Guía 2073",
+    "[Franja rayada:] Calle pública ocupada por R. C. Coffaro y otros [y] Lorenzo Tabanno [?]",
+    "F° 94/923 · Juan Pedro Rivas · 1874 m² 44 [?] · Guía 3004",
+    "N° 549/892 · Demetrio Buonofiglio · s.t. 22,00 × 43,30 [?] · Guía 2[.]5",
+    "N° 8375/891 [?] · Rafael Lorrigia [?] · s.t. … · Guía …",
+    "N° 368/1912 · Antonio Pessano · s.t. 2966 m² [?] · Guía N° 2947",
+    "F° 162/931 · Fernando [?] W. Barbio [?] · St. 937 m² · Guía 2852 | F° 53/927 · [ídem] · St. 937 m² · Guía 1934",
+    "N° 3643/1890 · Guadalupe Ponce de Vázquez · s.t. 41,30 [?] × … · Guía N° 1789",
+    "N° 3045 [?]/896 y F° 14/916 · Guadalupe Ponce de Vázquez y otros · s.t. 44,40 × 86,60 = 38[4]5 m² [?] · Guía N° 1786",
+    "N° 7177/889 [?] · Eduardo Gutiérrez · s.t. 22,00 × 86,60 · Guía N° 2556 [?]",
+    "N° 6488/1912 · Bengoa [?] Dionisio y Domingo Evaristo Castro · s.t. 1885 [?] m² · Guía N° 2150",
+    "N° 1881/916 [?] · [..] Hno. y otros · s.t. 2420 [?] m² · Guía N° 2882 [?]",
+    "N° [..]/912 · Carmelo Sorrenti [?] · s.t. 44,40 × 86,60 = 38[4]5 m² [?] · Guía N° 2166",
+    "N° 1507/1914 · José San Marco [?] (hijo) · s.t. 44,40 × 86,60 · Sup. 38[4]5 [?] · Guía N° 3801 [?]",
+    "N° 831/1892 · Pedro Copia [?] · s.t. 66,[..] × 86,60 · Sup. calc. 5810 m² · Guía N° 2177",
+    "F° 30/919 · José Perrupato · s.t. 44,40 × 86,60 = 38[4]5 m² [?] · Guía N° 2968",
+    "F° 126/931 · Pedro […] · sup. s.t. 7465 m² [?] · Guía N° 852, 855 y 2551 [?]",
+    "F° 100/935 [?] · Luis […] · St. 2755,20 m² · Guía 2059 [?]",
+    "F° 13/933 · Alejandro R. y Nor[…] J. Pereyra [?] · Sup. 4472 [?] · Guía 3476",
+    "F° 18/926 · Pedro Puebla [?] · sup. 1897 [?] m² · Guía N° 2363 [?]",
+    "N° 1201/1915 [?] · Juana Nicasia Tesoro [?] de Frías y otros · Sup. 1388 [?] m² · Guía N° 2410 [?]",
+    "N° 9176 [?]/907 · Nicolás Bondancia [?] · St. 1000 m² · Guía 1995",
+    "N° 1255/897 · Nicolás Bondancia · St. 813 [?] m² · Guía 1996",
+    "F° 134/923 · Petrona del Mar [?] Moreira de Díaz · St. 3795 [?] m² 84 · Guía 2302",
+    "N° 2538 [?]/880 · Víctor Mautori [?] · hoy ocupado por sus herederos Vicente Mauton [?] y Sofía Mauton de Lagrossa de Pascera [?] · St. 4997 m² · s/ mensura [?] 5250 m² · Guía 1151",
+    "F° 12/924 · Remanente · Agedo [?] Garone y Lagrossa de Giacomantonio · s. rem. s/ título 3716 m² 90 · s. rem. s/ plano 2604 m² 50 · Guía N° 3318",
+    "[Cañada o zanja serpenteante que cruza la banda; la faja sobre ella:] ocupado por / la Municipalidad de S. Andrés de Giles / superficie calculada aprox.^{te} 17 420 m² / origen Galidoro [?] Sarlinga [?] (fallecido) 14972/912 R.",
+    "N° 2613/892 · Pascual J., María R., Antonio J., Ángela C., Nacianceno G. L., Antonio D., Filomena R., Luisa C. — Stopiello [?] · St. 86,60 × 109,446 [?] · Guía 3134 [?]"
+   ],
+   "interpretacion": "Franja diagonal de lotes largos (anchos de 22 a 66 m por 86,60 m de fondo = 100 varas) entre el camino general y un cauce serpenteante que la Municipalidad ocupa en 17 420 m², con la nota «origen Galidoro [?] Sarlinga (fallecido)». Aparecen títulos de 1880-1892 (Mautori, Buonofiglio, Lorrigia [?], Copia [?], Stopiello) junto a inscripciones de 1907-1936. Lectura en vista general a 1400 px: muchos nombres quedan con [?]; IMG_1051-1059 son retomas de detalle de esta misma hoja."
+  },
+  {
+   "titulo": "Sector de manzanas · Francia, Bernardo de Irigoyen y Nueve de Julio",
+   "img": "img/v/V01/04.jpg",
+   "fuente": "IMG_1050.JPG (mitad S, girada 180°)",
+   "nota": "",
+   "lineas": [
+    "[Calles rotuladas:] CALLE FRANCIA · CALLE BERNARDO DE IRIGOYEN · CALLE NUEVE DE JULIO",
+    "F° 87/917 – 88/912 [?] · Félix Caffaro y Grassano · Guía 2036",
+    "F° 24/931 · Luis, María Carmen, Alejandro, Ramón y Francisco Farola e Instorza [?] · Guía N° 2404 [?]",
+    "N° 1117/1911 · Nicolás Pastor Silva · s.t. 43,30 × 86,60 · Guía N° 1624",
+    "F° 48/932 · Lorenzo Rafael Tabanno · St. 3178,55 [?] m² · Guía 3244",
+    "F° 129 [?]/931 · José Tabanno · St. 3742,85 [?] m² · Guía 1581",
+    "[Manzana entre Francia e Irigoyen:]",
+    "F° 150/9[..] · Regino [?] Tavares · St. 271 m² · Guía 3219 [?]",
+    "F° 121/930 · Antonio Gavotti · St. 971 m² · Guía 3216",
+    "F° 80/923 · Salvador Benvenuto [?] · St. 1124,91 [?] m² · Guía 1960",
+    "F° 38/926 · Nepomuceno [?] B. Peralta · St. 449 m² 77 · Guía 2918 [?]",
+    "N° 4686/898 · Matilde Muñiz · St. 43,30 × 43,30 · Guía 2823",
+    "F° 114/926 · José Méndez Hno. Ruiz, Peláez [?] · St. 1874 [?] m² 89 · Guía 2732",
+    "N° 1966 [?]/910 · Vital Ponce · 387 [?] m² · Guía 2953",
+    "N° 15362 [?]/914 · Luis Farola · 5[..] m² 98 · Guía 2371",
+    "N° 15339/914 · Vital Ponce · 587 m² 47 · Guía 2954",
+    "F° 157/92[.] · Vital Darbali [?] … · Guía N° 2232 [?]",
+    "F° 13/931 · Luis, María C., Alejandro, Ramón y Francisco Farola e Instorza · s.t. 125,60 [?] × 42,46 · Guía N° 2405",
+    "N° 8262 [?]/911 · Luis Farola · s.t. 12,60 × 42,46 · Guía 2375",
+    "F° 64/924 · Antonio Garone e Inés Garone y Lagrossa · s.t. 56,25 [?] × … · Guía N° 2407 [?]",
+    "F° 43/934 · Manuela Contreras de Suárez · s.t. 22,00 × 43,30 = 901 [?] m² · Guía N° 1973",
+    "[Manzana entre Irigoyen y Nueve de Julio:]",
+    "F° 11/926 [?] · Pedro Vicente Ruiz · s.t. 43,30 × 43,30 [?] · Guía N° 3082 [?]",
+    "[ocupado por] Jorge Elías [?] D. … · Juan Germino [?] y otros · Guía 2591 [?]",
+    "F° 31/934 · Trinidad Lagrossa de Bristone [?] · St. 928 m² 87 · Sm. 828 m² 25 · Guía 3474 [?]",
+    "F° 1/32 [?] · Francisco Jordán [?] … · Guía N° 3629 [?]",
+    "N° 1452/906 · Juana M. M. Silva M., Alcira L., Juan E., Florentino y Eugenio G. Gorleri [?] y Lujan [?] · Guía N° 2336 [?]",
+    "N° 2630 [?]/906 · ídem · Guía N° 2557 [?]",
+    "N° 3[..]/90[.] · Felipe Coccia [?] de Castro [?] … · Guía N° 2525 [?]",
+    "N° 3[..]/906 · Elías G. Gómez · s.t. 43,30 × 43,30 · Guía N° 2525 [?]",
+    "N° 6181 [?]/926 [?] · José Mecchi [?] · s.t. 43,30 × 86,60 · Guía N° 2855",
+    "F° 21/931 [?] · Atanasio Laguna [?] · s.t. 21,65 [?] × 43,30 · Guía N° 2614 [?]",
+    "F° … · Pedro Freggiaro y Domenguez [?] … · Guía 2616 [?]",
+    "F° 207/28 [?] · María S. Vera · s.t. 16,60 × 41,20 = 685 m² · Guía N° 3274 [?]",
+    "F° 152/29 · Manuel y María Benita Laquaquena [?] · s.t. 11,66 × 41,20 = 457 m² · Guía N° 3292 [?]",
+    "F° 13/30 [?] · Antonio P. Pessano · s.t. 11,46 [?] × 41,20 = 477 m² 02 · Guía N° 2655",
+    "F° 6/32 [?] · Apolinario M. Correa [?] · s.t. 11,61 [?] × 41,20 · Guía N° 2654 [?]",
+    "N° 1904, F° 110/908 · Pedro Freggiaro · s.t. 27,46 × 41,20 = 1131 m² · Guía N° 2148 [?]",
+    "N° 9905 [?]/902 · José Perrupato · s.t. 43,30 × 43,30 · Guía N° 2928 [?]",
+    "Anastasia Ramírez · ver al margen de N° 6014/928 [?] · s.t. 21,65 × 43,30 · Guía N° 2978 [?] · ocupado por José Perrupato",
+    "F° 104/929 · Sociedad F. T. Pérez y Hnos. · s.t. 43,30 × 86,60 = 3749 m² 78 · Guía N° 2335",
+    "F° 145/934 · Pedro Bava · s.t. 43,30 × 86,60 = 3749 m² 78 · Guía N° 1944",
+    "F° 121/929 · José Manuel Méndez y Alférez [?] · s.t. 43,30 × 86,60 · Guía N° 2694",
+    "F° 119/917 · Antonia Lagrossa y Picone [?] de Pascera [?] · s.t. 43,30 × 86,60 = 3749 m² 78 · Guía N° 2868",
+    "F° 11/934 · César Bonaparte [?] · s.t. … · Guía 1830 [?]",
+    "F° 9/924 · Filomena Giacomandoni [?] · s.t. 11,16 m² [?] · Guía N° 2511 [?]",
+    "F° 33/924 · María Carolina Giacomandoni [?] …",
+    "F° 128/[..] · José Manuel Méndez · s.t. 22,00 × 43,30 = 950 m² [?] · Guía N° 3465 [?]",
+    "F° 166/[..] [?] · Francisco Pascal [?] Pugliesi [?] · s.t. 21,65 × 43,30 = 937 m² · Guía N° 2754",
+    "F° 26/923 [?] · Domingo Rinaldi [?] …",
+    "ocupado por Sr. José Sirillo [?] [sin título]",
+    "F° 37/934 · Antonio Gianfagliese [?] … · Guía 3472 [?]",
+    "F° 103/923 · Cornelio Silva … · Guía N° 2[..]3",
+    "ocupado por Graciano González · Guía no está",
+    "F° 70/933 · Eduardo Silva · s.t. 10,50 [?] × 43,30 · Guía N° 1835 [?]",
+    "F° 103/925 · Luis F. Giménez O. · s.t. 10,82 × 43,30 · Guía N° 2829 [?]",
+    "F° 77/935 · Andrés Pellegrini · s.t. 13 [?] × 43,30 · Guía N° 2836 [?]",
+    "F° 33/934 [?] · Simón Mendizábal [?] · s.t. … · Guía N° 3496 [?]",
+    "F° 21/927 · José Mainguy [?] · Guía N° 1832 [?]",
+    "F° 11/933 · Petrona Magnaga [?] · Guía N° 3376 [?]",
+    "ocupado por Carmen L. de Echeverría [?] · Guía 2304 [?]",
+    "F° 99/924 [?] · José Mainguy [?] [?]",
+    "Pedro V. Ruiz · Guía N° 3083 [?]",
+    "F° 118 [?] · Rosamunda [?] Pedro Vicente Ruiz · s.t. 43,30 × 43,30 · Guía N° 3082 [?]"
+   ],
+   "interpretacion": "Manzanas regulares de 86,60 m (100 varas) subdivididas en cuartos (43,30 × 43,30 = 1874,89 m²), octavos (21,65 × 43,30 = 937,445 m²) y fracciones menores. Cada parcela lleva el asiento de dominio (N.º/año antiguo o F.º/año desde 1916), el titular, la superficie según título (s.t.) y el número de Guía catastral. Hay parcelas «ocupadas» sin título (Graciano González, Perrupato sobre la parte de Anastasia Ramírez)."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Hoja catastral 1, Parte A (vista general)",
+   "img": "img/v/V01/01.jpg",
+   "fuente": "IMG_1050.JPG (girada 180°; detalles IMG_1051-1059)",
+   "orientacion": "sin flecha de N visible; el gráfico de hojas sitúa la hoja 1 al NE del pueblo",
+   "interpretacion": "Plano a tinta negra y roja sobre papel, muy dañado en el borde O (desgarro que se lleva el año del título). A la izquierda, en blanco, el gran recinto de quintas hacia el camino general; en el centro la banda diagonal de lotes y el cauce serpenteante; a la derecha las manzanas regulares entre Francia, Irigoyen y Nueve de Julio. Tinta roja para los límites de parcela, negra para los rótulos; tildes a lápiz sobre cada parcela (control de Guía). Número de hoja «1» en lápiz rojo en los ángulos.",
+   "referencias": [
+    [
+     "1 · 2 … 9",
+     "Gráfico demostrativo: hojas catastrales del ejido urbano"
+    ],
+    [
+     "s.t.",
+     "superficie o medidas según título"
+    ],
+    [
+     "N.º …/año",
+     "asiento de dominio antiguo (hasta c. 1915)"
+    ],
+    [
+     "F.º …/año",
+     "folio y año de inscripción en el Registro (desde 1916)"
+    ],
+    [
+     "Guía N.º",
+     "número de guía catastral de la parcela"
+    ],
+    [
+     "ocupado por",
+     "tenencia sin título registrada por el levantamiento"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "A comienzos del siglo XX el borde NE del pueblo conserva la forma de las QUINTAS: lotes largos de 86,60 m (100 varas) de fondo, orientados en diagonal respecto de la cuadrícula, sobre el camino general a San Antonio de Areco. Un cauce o zanja serpenteante (probablemente un desagüe hacia la cañada) atraviesa la banda y queda «ocupado por la Municipalidad» en 17 420 m²: el agua define todavía el límite del damero."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "No hay citación ni acta: el ritual de la mensura se sustituye por un LEVANTAMIENTO ADMINISTRATIVO que coteja el terreno con el Registro de la Propiedad. Las tensiones aparecen como rótulos: «calle pública ocupada por R. C. Coffaro y otros», «ocupado por Graciano González — Guía no está», Perrupato ocupando la parte de Anastasia Ramírez. El Estado registra la posesión de hecho junto al título."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Escala 1:1000, parcelario completo, cotas de lado y de esquina, numeración de guías. Las superficies se escriben con dos decimales de m² y se controlan: 43,30 × 86,60 = 3749,78 m²; 43,30² = 1874,89; 21,65 × 43,30 = 937,445 (verificados en python). En «44,40 × 86,60» la vista general da «3825», pero el producto es 3845,04: lectura dudosa, transcripta 38[4]5."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "La traza conserva la vara: 86,60 m = 100 v, 43,30 = 50 v, 21,65 = 25 v (vara de 0,866 m). El levantamiento métrico de c. 1938 registra en metros lo que fue medido en varas: las fracciones de cuarto, octavo y dieciseisavo de manzana son la huella de la traza de 1838 (ficha 008) y del ejido de 1884 (137)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Mezcla de títulos antiguos (1880-1892: Mautori, Buonofiglio, Copia [?], Stopiello) y de inscripciones de 1907-1936; fuerte presencia de apellidos italianos (Sarlinga, Perrupato, Farola, Lagrossa, Giacomandoni, Coffaro, Tabanno) que dominan el borde de quintas. La Municipalidad aparece como poseedora del cauce «por origen» en un titular fallecido."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "008 (traza del pueblo, Hidalgo 1838) y 137 (ejido de Orlandini, 1884): las medidas de 100 y 50 varas son las de esos trazados. V02-V04 continúan el juego de hojas (2, 3 y 4); las hojas 5-9 siguen en IMG_1077-1129 (tramo 2)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Título roto: falta el año del levantamiento (enero-mayo de 19..); las inscripciones más tardías leídas en el juego son de 1936-1938. Lectura sólo en la vista general (más una retoma): las tomas IMG_1051-1059 permitirían corregir muchos [?]. Falta identificar el cauce ocupado por la Municipalidad y el «camino general» exacto (¿a San Antonio o a Carmen de Areco?)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Familia Sarlinga (Galidoro [?], Vicente, Nicolás; Pompilio y Josefa en la hoja 2)",
+   "rol": "Propietarios de quintas",
+   "texto": "Titulares de varias quintas del borde NE (inscripciones de 1901 a 1926). El rótulo del cauce municipal remite a un «Galidoro [?] Sarlinga (fallecido)» con asiento 14972/1912. Sin aparición previa en el corpus.",
+   "fuentes": "Este plano; hoja 2 (V02)."
+  },
+  {
+   "nombre": "José Perrupato",
+   "rol": "Propietario y ocupante",
+   "texto": "Uno de los mayores titulares urbanos del juego: lotes de 1902, 1905, 1919 y 1920 en las hojas 1 y 2, y ocupante de la parte de Anastasia Ramírez.",
+   "fuentes": "Este plano; V02."
+  },
+  {
+   "nombre": "Guadalupe Ponce de Vázquez",
+   "rol": "Propietaria",
+   "texto": "Títulos de 1890 y 1896 (más F.º 14/1916) en la hoja 1 y otro de 1890 en la hoja 3: una de las propietarias más antiguas del pueblo. Los Ponce y Vázquez aparecen en el corpus rural (032, Gonnet; 137).",
+   "fuentes": "Este plano; V03; METODO.md (Ponce de V.)."
+  },
+  {
+   "nombre": "Familias Farola e Instorza, Lagrossa, Giacomandoni, Coffaro, Tabanno, Freggiaro, Stopiello",
+   "rol": "Propietarios",
+   "texto": "Titulares de lotes y quintas del NE (1906-1936). Los Stopiello (Pascual J., María R., Antonio J., Ángela C., Nacianceno G. L., Antonio D., Filomena R., Luisa C.) tienen título de 1892 sobre una quinta de 86,60 × 109 m [?].",
+   "fuentes": "Este plano."
+  },
+  {
+   "nombre": "Municipalidad de San Andrés de Giles",
+   "rol": "Ocupante del cauce",
+   "texto": "Posee de hecho 17 420 m² del cauce que corta la banda de quintas; en otras hojas es titular de plazas (Cutillas) y lotes.",
+   "fuentes": "Este plano; V03-V04."
+  },
+  {
+   "nombre": "Dirección de Geodesia [y] Catastro",
+   "rol": "Autor del levantamiento",
+   "texto": "Repartición provincial que hizo el levantamiento catastral urbano. Una búsqueda web no permitió fechar con precisión el relevamiento de Giles; los asientos más tardíos leídos son de 1936-1938.",
+   "fuentes": "Rótulo del plano; búsqueda web sin resultado preciso."
+  }
+ ],
+ "titulo": "Catastro urbano · hoja 1",
+ "estado": "Transcripta (3 hojas, 109 renglones), 1 lámina"
+}

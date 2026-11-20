@@ -1,0 +1,367 @@
+{
+ "carpeta": "V03",
+ "carpeta_nombre": "Varios V03",
+ "archivo": "Ficha V03 - Catastro urbano, hoja 3 (c. 1938).docx",
+ "resumen": {
+  "Documento": "Hoja catastral 3 del pueblo de San Andrés de Giles (centro)",
+  "Propietario / solicitante": "Catastro urbano · hoja 3",
+  "Autor": "Dirección de Geodesia [y] Catastro (PBA)",
+  "Agrimensor": "Sin firma (levantamiento oficial)",
+  "Año": "c. 1938 (inscripciones hasta 1936)",
+  "Escala": "1:1000 (como la hoja 1)",
+  "Ubicación": "Centro: plazas San Martín y Cutillas, de las vías a General Mitre",
+  "Calles": "9 de Julio, San Martín, Rivadavia, Espil; Suero, Hidalgo, Saavedra, Sarmiento, Moreno, Belgrano",
+  "Instituciones": "Iglesia Parroquial, Banco Provincia, Gobierno Nacional, Escuela N.º 1, Municipalidad",
+  "Rasgos": "Iglesia sin títulos, probada por el Dup. 137 (Orlandini); embarcadero del ferrocarril",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), juego de 9 hojas catastrales"
+ },
+ "metricas": {
+  "superficie_ha": "— (hoja urbana; plaza Cutillas 0,695",
+  "hitos": "Iglesia Parroquial; plazas San Martín y Cutillas; Escuela N.º 1; embarcadero",
+  "aguas": "no figuran"
+ },
+ "sintesis": "Tercera hoja catastral del pueblo: el centro, desde las vías y el embarcadero del ferrocarril (avenida Morgan) hasta la plaza San Martín y la calle General Mitre. Reúne las instituciones (Iglesia Parroquial, Banco de la Provincia, Gobierno Nacional, Municipalidad, Escuela N.º 1) y las plazas San Martín y Cutillas (6952,555 m²). La Iglesia no tiene título: el catastro remite al «Dup. 137, mensura del pueblo por el Agr. D. Orlandini», el ejido de 1884. Parcelario con titulares de 1889-1936 (Ponce de Vázquez, Campana de Coppa, Monsalvo y Ponce, Espil, Méndez y Álvarez).",
+ "caratula": {
+  "img": "img/v/V03/01.jpg",
+  "fuente": "IMG_1066.JPG (vista general, girada 180°)",
+  "campos": [
+   [
+    "Plano",
+    "San Andrés de Giles — hoja catastral 3"
+   ],
+   [
+    "Autor",
+    "Dirección de Geodesia [y] Catastro"
+   ],
+   [
+    "Fecha",
+    "sin fecha visible (c. 1938)"
+   ],
+   [
+    "Escala",
+    "1:1000 (probable)"
+   ],
+   [
+    "Número de hoja",
+    "3 (lápiz rojo)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Vista general de la hoja 3",
+   "img": "img/v/V03/01.jpg",
+   "fuente": "IMG_1066.JPG (girada 180°)",
+   "nota": "",
+   "lineas": [
+    "[Lápiz rojo, ángulo:] 3",
+    "[Calles paralelas a Nueve de Julio:] CALLE NUEVE DE JULIO · CALLE SAN MARTÍN · CALLE RIVADAVIA · CALLE FELIPE SANTIAGO ESPIL · CALLE MAIPÚ · AVENIDA MORGAN (en diagonal, en el ángulo NO, junto a las vías y el embarcadero)",
+    "[Calles transversales:] CALLE FRANCISCO SUERO · CALLE DOMINGO HIDALGO · CALLE SAAVEDRA · CALLE SARMIENTO · CALLE MORENO · CALLE BELGRANO · CALLE GENERAL MITRE",
+    "F° 37/925 · PLAZA CUTILLAS · Municipalidad de San Andrés de Giles · s.t. 6952 m² 555 · Guía N° 2820",
+    "PLAZA SAN MARTÍN",
+    "[Ocho manzanas en blanco tachadas con una cruz a lápiz, con anotaciones a lápiz ilegibles; entre ellas las del N de Rivadavia, que figuran sin parcelar en esta hoja]",
+    "[Rótulo de manzana a lápiz junto a la avenida:] Hoja 1 [?]"
+   ],
+   "interpretacion": "La hoja cubre el centro del pueblo desde la avenida y las vías (NO) hasta la plaza San Martín. Las manzanas al E de Rivadavia están tachadas con cruces a lápiz y sin parcelario: se levantaron en la hoja 4. Dos plazas: Cutillas y San Martín."
+  },
+  {
+   "titulo": "Plaza San Martín, Iglesia Parroquial y Escuela N.º 1",
+   "img": "img/v/V03/02.jpg",
+   "fuente": "IMG_1067.JPG (girada 180°)",
+   "nota": "",
+   "lineas": [
+    "[Calles:] CALLE NUEVE DE JULIO · CALLE BELGRANO · CALLE GENERAL MITRE · CALLE FELIPE SANTIAGO ESPIL · CALLE [MORENO]",
+    "[Números de manzana, a lápiz:] 23 (en círculo, manzana tachada) · 54 [?] · 63 · 64 · 87 · 32 [?] · 135 [?]",
+    "Municipalidad de San Andrés de Giles · F° 100/27 · Guía N° 2821 · Sup. s.t. 937 m² 44",
+    "F° 1/935 · Guía N° 3785 · Gobierno Nacional · s.t. 21,65 × 43,30",
+    "Vicente Vignati · F° 28/926 · Remanente · Guía N° 3285 · Sup. s.t. 1874 m² 90",
+    "Carmen Alejandrina Vildósola de Silva · F° 144/18 · Guía N° 3161 · Sup. s.t. 937 m² 445",
+    "Simón Regino Cruz · F° 75/917 · Guía N° 2811 · Sup. s.t. 937 m² 445",
+    "Juan Luis Sillón · F° 87/926 · Guía N° 3154 · Sup. s.t. 1874 m² 89",
+    "PLAZA SAN MARTÍN",
+    "Alcira Vázquez Ponce de García Sotillo · F° 46/19 · Guía N° 2457 · Sup. s.t. 1874 m²",
+    "Guía N° 1924 · Banco de la Provincia de Buenos Aires · N° 16235 B/909 · S.t. 776 m² 51 [?]",
+    "Pedro Juan Corbetta · F° 130/31 · Guía N° 2182 · S.t. 21,65 × 43,30",
+    "Antonio Donato Stopello [?] · F° 154/33 · Guía N° 2099 · Sup. s.t. 1016 m² 53 [?]",
+    "F° 67/928 · José Manuel Méndez y Alférez [?] · Sup. s.t. 858 m² 30 [?] · Guía 2755",
+    "F° 209/934 · César L. Pasarotti · Guía N° 3246 · s.t. 21,65 × 43,30",
+    "Cristina Cioparelli [?] de Sanz y Vicente Sanz · F° 34/926 · Guía N° 3099 · Sup. s.t. 937 m² 445",
+    "Iglesia Parroquial · No se pudo hallar títulos. Figura en el plano del Dup. 137 (mensura del pueblo por el Agr. D. Orlandini)",
+    "Simón Claudio, Juan Bautista, Fernando Teófilo y Fausto Eduardo Pérez y Peláez · F° 34, 35, 36 y 38/929 · Guía N° 2924 · Sup. s.t. 1874 m² 89",
+    "Inocencia Silva de Rodríguez · F° 157/25 · Guía N° 3034 · Sup. s.t. 599 m² 96",
+    "José Fernando Peláez y Carry [?] · N° 10592/903 · Guía N° 2906 · Sup. s. título 1687 m² 401 [?]",
+    "F° 87/921 · Herederos de V. Teodolinda P. María E. Spaletta [?] · s.t. 12,49 × 23,50 [?] · Guía 3190",
+    "F° 49/928 · Florencio A. Spaletta · S.t. 274 m² [?] · Guía 3191",
+    "[Cuatro lotes menudos sobre General Mitre:] F° 7/927 [?] … · F° 21/27 [?] … · F° 14/27 [?] … · F° Spalletta [?] … · Guías 3192-3195 [?]",
+    "Consejo Escolar · Escuela N° 1",
+    "N° 3850, F° 249/911 · Remanente · Fernando C. Lillia · s.t. 13,775 × 43,30 · Guía N° 2652",
+    "F° 192/32 · Juana Santia [?] · s.t. 13,775 × 43,30 = 596 m² 457 · Guía N° 2453",
+    "F° 156/20 · Félix Joaquín Penna · s.t. 11,60 × 43,30 = 502 m² 28 · Guía N° 2919 [?]",
+    "F° 108/31 · Manuel Blanco Montecarlo [?] · s.t. 11,60 [?] × 43,30 · Guía N° 1943 [?]",
+    "N° 3850/911 · Remanente · F° 103/23 · Remanente · Juan Santia [?] …",
+    "Fernando C. Lillia · Guía N° 2653 [?]",
+    "F° 58/926 · José Manuel Méndez y Alvarez [?] · s.t. 32,80 × 33,20 = 1089 m² 37 [?] · Guía N° 2802",
+    "F° 92/932 [?] · Sdad. «Luis J. T.» [?] … · Guía N° 3051 [?]",
+    "F° 14/1/[..] · Mar. Sanz [?] … · Guía N° 3046 [?]",
+    "F° 31/23 · Antonio López Méndez · s.t. 15,40 × 43,30 [?] · Guía N° 2640 [?]",
+    "[A lápiz, en el margen O:] Feo [?] Jordán · F° 131/32 [?] · 81/925 [?]",
+    "F° 150/927 [?] [junto a la esquina de General Mitre]"
+   ],
+   "interpretacion": "El núcleo institucional: Iglesia Parroquial («No se pudo hallar títulos. Figura en el plano del Dup. 137, mensura del pueblo por el Agr. D. Orlandini»), Banco de la Provincia (1909), Gobierno Nacional (1935), Municipalidad, Consejo Escolar · Escuela N.º 1. El catastro de c. 1938 usa el duplicado del ejido de 1884 como prueba de dominio de la Iglesia."
+  },
+  {
+   "titulo": "Manzanas entre Sarmiento, Moreno y Belgrano",
+   "img": "img/v/V03/03.jpg",
+   "fuente": "IMG_1068.JPG (girada 180°)",
+   "nota": "",
+   "lineas": [
+    "[Calles:] CALLE SARMIENTO · CALLE MORENO · CALLE BELGRANO · CALLE NUEVE DE JULIO · CALLE SAN MARTÍN · CALLE RIVADAVIA · CALLE FELIPE SANTIAGO ESPIL",
+    "[Números de manzana, a lápiz:] 43 · 25 · 23 (en círculo) · 32 · 63 · 140 [?]",
+    "[Rótulos cortados en el borde superior:] Claudio [?] Olivera · N° 3138/92 [?] · Guía N° … · Rosa [?] Silveira [?] Raggio · Andrés [?] Lima … · s. plano 1495 m² 5026 [?] · Ramón Grosso · F° 167/30 · Guía N° 2595 · Sup. s.t. 632 m² 9559 [?] · Laurel [?] Rapello [?] … · Raúl [?] Magnanego … · A. Magnane[go] … F° 13/919 · Guía … · María S. Vildósola de Ruiz · F° 38/31 · Guía N° 3472 · Sup. s.t. 428 m² 69 [?] · Estanislao [?] M. Segurola [?] · F° 38/31 · Guía N° 3471 · Sup. s.t. 368 m² 43 [?]",
+    "José Manuel Méndez y Alvarez · F° 80/26 · Guía N° 2734 · Sup. seg. título 3149 m² 81 = 36,37 × 86,60 [?]",
+    "Juana Marcelia [?], Magdalena, Silvia [?], Manuela, Alcira Lina, Juan Enrique [?], Florentino y Eugenio Gregorio [?] Gorleri y Tuya · N° 668/1903 [?], 801 · Guía N° 2536 [?] · Seg. título 33,69 × 30,51 [?]",
+    "Cipriano Casado · N° 5710/902 y 5778/913 · Guía N° [..] · Seg. título 21,65 × 56,29",
+    "Juan Dray [?] · F° 65/23 · Guía N° 2323 · Sup. s. título 1218 m² 678 [?]",
+    "Juana Marcelia [?], Magdalena, Alcira L., Juan E., Florentino y E. G. Gorleri y Tuya · N° 2809, F° 124/897 · Guía N° 2534 · Seg. título 1880 × 53,00 [?]",
+    "F° 13/936 · Guía N° 4012 · Anastasio L. Cuello [?] · s.t. 21,65 × … [?]",
+    "Antonia Campana de Coppa · N° 3372/891 · Guía N° 2178 · Sup. remanente s.t. 2498 m² 70 · s. plano 2088 m² 32",
+    "María Eva Cuello Casado · F° 126/932 · Guía N° 3626 · Sup. s.t. 350 m² 32 [?]",
+    "Ireneo E. Cuello Casado · F° 127/932 · Guía N° 3627 · Sup. s.t. 537 m² 33 [?]",
+    "Catalina J. G. de Santía [?] · F° 21/929 · Guía N° 3095 · Sup. s.t. 31 m² 64 [?]",
+    "C. G. de Santía [?] · F° 1/18 · Guía N° 3335 [?] · Sup. s.t. … 28 [?]",
+    "F° 1/926 · Fernando Alvis [?] · S.t. 1474 m² [?] · Guía 3097 [?]",
+    "F° 130/924 · María Luisa Alvis [?] · Guía N° 1791 [?]",
+    "Municipalidad de San Andrés de Giles · N° 8464/902 [?] · Guía N° [..] · s.t. … 2062 [?]",
+    "María Luisa Alvis · N° 1219/898 · Guía N° 1819 · Sup. s.t. 1874 m² 856 [?]",
+    "José Necchi · N° 3230/903 · Guía N° 2857 [?]",
+    "[Cotas de esquina:] s.t. 21,65 · 43,30 · s.t. 1050 m² 259 [?]",
+    "[Manzanas al E de Rivadavia, tachadas con cruz y con grandes rúbricas a lápiz, sin parcelario]"
+   ],
+   "interpretacion": "Méndez y Álvarez, Gorleri y Tuya, Casado, Cuello Casado, Alvis, Necchi, Antonia Campana de Coppa (N.º 3372/1891, con remanente según título y según plano diferentes) y un lote de la Municipalidad."
+  },
+  {
+   "titulo": "Manzanas entre Domingo Hidalgo, Saavedra y Sarmiento; plaza Cutillas",
+   "img": "img/v/V03/04.jpg",
+   "fuente": "IMG_1069.JPG (girada 180°)",
+   "nota": "",
+   "lineas": [
+    "[Calles:] CALLE DOMINGO HIDALGO · CALLE SAAVEDRA · CALLE SARMIENTO · CALLE SAN MARTÍN · CALLE RIVADAVIA",
+    "PLAZA CUTILLAS · Municipalidad de San Andrés de Giles · s.t. 6952 m² 555 [?] · Guía N° 2820",
+    "Simón Mendizábal [?] · N° 13188/912 [?] · Guía N° 2157 [?] · S.t. 22,32 [?] × … 685 m² [?]",
+    "Pascual Caletti · N° 14138/910 y F° 117/928 [?] · S.t. 22,32 × 12,10 [?] · Guía N° 2051 [?]  [lotes numerados 15 a 20]",
+    "Francisco Albino Oriol [?] · F° 182/927 · Guía N° 2662 [?]",
+    "Carlos Alberverio [?] · F° 75/926 · Guía N° 1847 [?] · S.t. 15,80 × 43,30 [?]",
+    "Carlos Alberverio [?] · F° 75/926 · Guía N° 1848 · S.t. 20 × 43,30 = 866 m² [?]",
+    "Carlos y Juan Meretta [?] · F° 127/924 · Guía N° 2750 · Sup. s.t. 743 m² 40 [?]",
+    "J. M. Méndez y otros [?] · F° 53/28 y N° 60/1890 [?] · Remanente · Guía N° 2752 [?] · Sup. s.t. 579 m² 20 [?]",
+    "Ugo [?] Di Paolo · F° 14/924 · Guía N° 2298 · s.t. 43,30 × 43,30",
+    "Lorenzo Antonio Magnanego · F° 77/27 · Guía N° 2669 · Seg. tít. 1214 m² 8650 [?]",
+    "Julio Ireneo Sarasí [?] · F° 90/927 · Guía N° 3303 [?]",
+    "Francisco Cardonale [?] · F° 252 [?]/927 · Guía N° 3552 [?] · Sup. s.t. 621 m²",
+    "Superf. remanen[te] s. tít. 1288 m² 60 [?]",
+    "Juan Dellori [?] · F° 11/21 · Guía N° 2272 · Seg. tít. 1567 m² 86 [?]",
+    "Hipólito U., Esteban, Florentino B., Rosa, Narciso F. [?] y Estefanía Ormaches y Fariña [?] · N° 13306/1915 [?] · Guía N° 2865 [?] · S.t. 21,65 × 43,30",
+    "Felipe [?] E. y Juana M. García Climiño [?] · F° 118/30 [?] · Guía N° 2467 [?] · Sup. s.t. 541 m² 33 [?]",
+    "Nascianceno G. L. Stopiello · F° 90/27 · Guía N° 3198 · Sup. s.t. 1042 m² 84 [?]",
+    "Ireneo E. Cuello Casado · F° 72/25 · Guía N° 2218 [?] · Sup. s.t. 753 m² 650 [?]",
+    "Ireneo E. Cuello Casado · F° 26/26 [?] · Guía N° 2219 [?] · Sup. s.t. 389 m² 01 [?]",
+    "Ireneo E. Cuello Casado · F° 36/26 · Guía N° 2221 [?] · Sup. s.t. 314 m² 57 [?]",
+    "Alberto Espil · F° 36/[..] · Guía N° 2342 [?]",
+    "Genoveva López de Escribano · F° 12/25 · Guía N° 2341 · Sup. s.t. 965 m² 05 [?]",
+    "Alberto Espil · F° 12 bis/22 · Guía N° 2347 · Sup. s.t. 908 m² 94 [?]",
+    "Esther María R. Nascimbene M. [?] · F° 133/26 · Guía N° 2833 [?] · Sup. s.t. 362 m² 46 [?]",
+    "Rafaela García B. de Bariola [?] · F° 119/30 · Guía N° 2470 · Sup. s.t. 783 m² 86 [?]",
+    "Fortunato J. Cufré y Ch. [?] · N° 10771/891 [?] · Guía N° 2224 · s.t. 30,31 × 43,30",
+    "Pedro García Cuñarro [?] · F° 55/29 · Guía N° 3312 · Sup. s.t. 917 m² 05 [?]",
+    "César Pasarotti · F° 18/33 [?] · Guía N° 2680 [?] · S.t. 11,40 [?] × 35,60 = 405 m² 30 [?]",
+    "Manuel Manso · F° 188/935 · Guía N° 2690 [?] · S.t. 11,40 [?] × 37,00 = 407 m² 30 [?]",
+    "Petrona Eleuteria [?] Martínez · F° 37/932 · Guía N° 3142 [?] · S.t. 11,00 × 37,00 = 407 m² 00 [?]",
+    "F° 47/935 · José Gastaldi · s.t. 2065 m² 35 cm [?] · Guía 3884 [?]",
+    "N° 10592, F° 15 [?]/903 · Peláez y C. Fernando · 2131 m² · Guía N° 2965 [?]",
+    "F° 60/933 · Isabel Sabina y María Nemesia Monsalvo y Ponce · s.t. 86,60 × 42,60 · Guía N° 3625 [?]",
+    "Emilio Caletti · N° 19064/911 · Guía N° 2047 · Seg. tít. 937 m² 445",
+    "Emilio Caletti · F° 68/920 · Guía N° 2048 · Seg. tít. 937 m² 445",
+    "Tomás Monsalvo · N° 7483/899 [?] · Guía N° 2801 [?] · S. tít. 12,99 × 43,30",
+    "Emilio Caletti · F° 185/923 · Guía N° 2049 · Seg. tít. 937 m² 445",
+    "Esteban Nicolás Bellagamba [?] · F° 182/31 · Guía N° 1955 [?] · Sup. s.t. 471 m² 77 [?]",
+    "Pedro Leyli [?] · A. Rossani [?] y Venturi [?] · F° 73/33 · Guía N° 3695 [?]",
+    "Petrona Ponce de Rosaroni [?] · F° 128/33 · Guía N° 3696 [?]",
+    "María Virginia Freggiaro y Domenguez [?] · F° 13/924 · Guía N° 3414 · Sup. rem. s.t. 1710 m² 77 [?] · s. plano 1495 m² 5026 [?]",
+    "Claudio Olivera · F° 3138/32 [?]",
+    "Andrés Lima [?] · Ramón [?] Raggio [?]",
+    "Ramón Grosso · F° 167/30 · Guía N° 2595 · Sup. s.t. 632 m² 9559",
+    "Crescencio Marino · F° 117/24 · Guía N° 2702 · Sup. s.t. 1874 m² 89",
+    "Laura Pichetto de Culligan · F° 128/935 [?] · Guía N° 2226 [?]",
+    "Raúl Magnanego [?] … · Guía N° 2668 [?]",
+    "A. Magnanego y Cía. [?] · F° 73/919 · Guía N° 2667 [?] · Sup. s.t. 1041 m² 38 [?]",
+    "Elvira García · F° 136/28 · Guía N° 2472 · Sup. s.t. 459 m² 29 [?] [lote D]",
+    "Amelia García · F° 135/28 · Guía N° 2458 · Sup. s.t. 476 m² 30 [?] [lote C]",
+    "Francisco M. García · F° 134/28 · Guía N° 2476 [?] · Sup. s.t. 454 m² 65 [?] [lote B]",
+    "Damacena G. de Escribano · F° 133/28 · Guía N° 2471 · Sup. s.t. 454 m² 65 [?] [lote A]",
+    "Benedicta [?] García de Bonfiglio [?] · F° 144/934 · Guía N° 2523 [?] · S.t. 10,50 × 43,30 [?]",
+    "María S. Vildósola de Ruiz · F° 38/31 · Guía N° 3472 · Sup. s.t. 428 m² 69 [?]",
+    "Estanislao M. Segurola [?] · F° 38/31 · Guía N° 3471 · Sup. s.t. 368 m² 43 [?]",
+    "[Manzanas al E, tachadas con cruz; número a lápiz 92 [?]]"
+   ],
+   "interpretacion": "Lotes numerados (15-20; A-D de la familia García), Caletti, Espil, Monsalvo y Ponce, Pasarotti, Manso; plaza Cutillas de la Municipalidad, 6952,555 m² (Guía 2820)."
+  },
+  {
+   "titulo": "Borde O: calle Francisco Suero",
+   "img": "img/v/V03/05.jpg",
+   "fuente": "IMG_1070.JPG (girada 180°)",
+   "nota": "",
+   "lineas": [
+    "[Calles:] CALLE FRANCISCO SUERO · CALLE DOMINGO HIDALGO · AVENIDA [..] (diagonal, NO)   [Lápiz rojo:] 3",
+    "[Números de manzana, a lápiz:] 62 · 14 [?] · 11 [?]",
+    "Carlos Meretta · N° 13333 A/906 · Guía N° 2759 · [cotas] s.t. 86,60 · 43,30 [?]",
+    "Remigio Doroteo Altube [?] · F° 29/[..] · Guía N° 1865 [?] · s.t. 1874 m² 89",
+    "F° 10/928 [?] · Guía N° 2210 · s.t. 43,30 × 43,30 = 1874 m² 89 [?] · [a lápiz:] 81/935 [?]",
+    "Juan Meretta · Sup. s.t. 1874 m² 89 · F° 130/926 · Guía N° 2761",
+    "Manuel Blanco Montesín · Sup. s.t. 937 m² 445 · F° 46/932 · Guía N° 1990",
+    "Anselmo Pablo Spaletta · Sup. s.t. 937 m² 445 · F° 73/923 · Guía N° 3186 [?]",
+    "Guadalupe Ponce de Vázquez · N° 2912/890 · Guía N° 3268 [?] · S. tít. 43,30 × 43,30",
+    "Ángel Carlos Dellacha y Rosa Meretta de Dellacha · Sup. s.t. 749 m² 956 [?] · F° 45/926 · Guía N° 2271",
+    "Mauricio Iribarren · N° 1953/890 [?] · Guía N° 2572 [?] · S. tít. 25,98 × 43,30 [?]",
+    "F° 61/916 · Remanente · Clara Andreoli de Di Florio, Ángel María, Nicolás, Andrés y Carmelo Di Florio y Andreoli · sup. rem. s.t. 1853 m² 90 [?] · s. pl. 1403 m² 11 [?] · Guía N° 2283",
+    "F° 59/[..] · Guía N° 3975 [?] · Alejandro Ghibaudi [?] · s.t. 10,40 × 27 = 270 m² [?]",
+    "F° 19/928 [?] · Juan Ghibaudi [?] · s.t. 16,35 = 560 m² [?]",
+    "[Lotes angostos al pie de la manzana:] … Mariano [?] … Guía N° 2925 [?] · … Leopardo [?] … Guía N° 3043 [?] · … Miguel Cervera [?] … Guía N° 3047 [?]",
+    "F° 61/916 [lote rinconero] · Josefa [?] … de Pereyra [?] · F° 79/[..] · Guía N° 3650 [?]",
+    "Antonio Orio · F° 161/925 · Remanente · Sup. s. título 1982 m² 05 [?] · Guía N° 2861 [lotes 11-13]",
+    "José Crosetti [?] · N° 5996 B/910 · S.t. 12,32 × 32 = 394 m² [?] · Guía N° 2208 [lotes 4-8]",
+    "José Crosetti [?] · F° 10/[..] · Guía N° 2207 [?]",
+    "José Crosetti [?] · N° 18864 C/911 [?] · Rem. · s.t. 15,50 × 32,50 = 512 m² [?] · Guía N° 2209",
+    "Simón Mendizábal y María E. Ligüeri [?] · F° 9/928 [?] · Guía N° 2157 [?] [lote 14]",
+    "Juana Vázquez de Espil · F° 172/925 · Guía N° 2355 · Sup. s.t. 2175 m²",
+    "Méndez Hnos., Ruiz y Peláez · F° 114/926 · Guía N° 2731 · Sup. s.t. 1874 m² 89",
+    "F° 37/925 · PLAZA CUTILLAS · Municipalidad de San Andrés de Giles · s.t. 6952 m² 555 · Guía N° 2820"
+   ],
+   "interpretacion": "Meretta, Ponce de Vázquez (1890), Iribarren (1890), Di Florio y Andreoli, Ghibaudi, Orio, Crosetti, Juana Vázquez de Espil; repetición de la plaza Cutillas."
+  },
+  {
+   "titulo": "Ángulo NO: vías, embarcadero y avenida Morgan",
+   "img": "img/v/V03/06.jpg",
+   "fuente": "IMG_1071.JPG (girada 180°)",
+   "nota": "",
+   "lineas": [
+    "[Doble línea diagonal de las vías del ferrocarril, con alambrado a ambos lados]",
+    "EMBARCADERO [recinto rectangular junto a las vías]",
+    "AVENIDA MORGAN [rótulo repetido en dos tramos de la avenida, paralela a las vías]",
+    "[A lápiz, en un triángulo entre la avenida y las vías:] Suc. Blasco [?] Rapalo [?]",
+    "[A lápiz, en la faja al S de las vías:] 126/925 [?]",
+    "[Lápiz rojo, grande:] 3",
+    "[Cotas de esquina en el borde de la faja ferroviaria:] 145 [?] · 62 · 44 [?]"
+   ],
+   "interpretacion": "La doble línea del ferrocarril con un EMBARCADERO rectangular y la avenida Morgan paralela; un recinto a lápiz «Suc. Blasco [?] Rapalo [?]»."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Hoja catastral 3 (vista general)",
+   "img": "img/v/V03/01.jpg",
+   "fuente": "IMG_1066.JPG (girada 180°; detalles IMG_1067-1071)",
+   "orientacion": "sin flecha de N; la avenida y las vías en diagonal en el ángulo NO",
+   "interpretacion": "Plano a tinta con rotulación técnica; doblado en ocho paños. Las manzanas al E de Rivadavia llevan una cruz y rúbricas a lápiz: se dejaron para la hoja 4, que las contiene con su parcelario. Dos plazas en blanco con su rótulo, la iglesia y la escuela identificadas por su función.",
+   "referencias": [
+    [
+     "Plaza San Martín",
+     "plaza principal"
+    ],
+    [
+     "Plaza Cutillas",
+     "F.º 37/1925, Municipalidad, 6952,555 m², Guía 2820"
+    ],
+    [
+     "Iglesia Parroquial",
+     "sin títulos; remite al Dup. 137"
+    ],
+    [
+     "Embarcadero",
+     "recinto junto a las vías (IMG_1071)"
+    ],
+    [
+     "×",
+     "manzanas levantadas en otra hoja"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: plaza San Martín e Iglesia Parroquial",
+   "img": "img/v/V03/02.jpg",
+   "fuente": "IMG_1067.JPG (girada 180°)",
+   "orientacion": "calles Belgrano y General Mitre en sentido horizontal",
+   "interpretacion": "La manzana de la iglesia comparte el frente con los Pérez y Peláez, Inocencia Silva de Rodríguez y Peláez y Carry; enfrente, el Banco de la Provincia y la Municipalidad; al lado, el Consejo Escolar.\nDup. 137\nmensura del ejido por Orlandini, 1884 (ficha 137)",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "El centro del pueblo hacia 1938: dos plazas (San Martín, la principal; Cutillas, cerca de las vías), la iglesia, el banco, la escuela y el edificio nacional (probablemente el correo) en torno a la plaza; al NO, el ferrocarril con su EMBARCADERO de hacienda y la avenida Morgan, que hereda el nombre de una de las grandes familias británicas del partido (029, 020)."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "La nota de la Iglesia Parroquial es el hallazgo central: «No se pudo hallar títulos. Figura en el plano del Dup. 137 (mensura del pueblo por el Agr. D. Orlandini)». Un siglo después, el DUPLICADO DE MENSURA funciona como título supletorio: el catastro del siglo XX se apoya en el archivo de Geodesia que esta tesis transcribe."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Verificado en python: 13,775 × 43,30 = 596,46 m² (Juana Santia, «596 m² 457»); 11,60 × 43,30 = 502,28 (Penna); 21,65 × 43,30 = 937,445; la plaza Cutillas, 6952,555 m², equivale a 9270 v², algo menos que la manzana entera de 10 000 v² (7499,56 m²)."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "La manzana de 100 varas y sus cuartos, octavos y fracciones menores organizan todo el centro. Los remanentes «según título» y «según plano» difieren (Campana de Coppa 2498,70 / 2088,32 m²): el catastro mide la diferencia entre el papel y el terreno."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Títulos antiguos (1889-1898: Campana de Coppa, Alvis, Ponce de Vázquez, Iribarren, Cufré, Monsalvo) y familias concentradoras del centro: Méndez y Álvarez, Pérez y Peláez, Peláez y Carry, Espil, Cuello Casado. Inocencia Silva de Rodríguez conserva 600 m² frente a la plaza."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "137 (Orlandini, ejido 1884: la iglesia figura en su plano); 008 (traza de 1838, Hidalgo); 003 y 031 (Monsalvo); 032 (Ponce); 146 (Inocencia Rodríguez de Silva: ¿la misma familia que «Inocencia Silva de Rodríguez»?); 186 y 138 (Peláez, Espil, Villa Espil); V04 (mismas manzanas del E)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Falta fecha y firma. ¿Qué dicen las rúbricas a lápiz sobre las manzanas tachadas? ¿El «Gobierno Nacional» es el correo? Confirmar si «Inocencia Silva de Rodríguez» es la hija de Bernardino Rodríguez (146) o una homónima. Nombre exacto de la avenida: «Morgan» se lee con claridad en IMG_1072."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Iglesia Parroquial de San Andrés de Giles",
+   "rol": "Titular sin títulos",
+   "texto": "Ocupa media manzana frente a la plaza San Martín; el catastro no halló títulos y remite al plano del ejido de 1884 (Dup. 137).",
+   "fuentes": "Este plano; ficha 137."
+  },
+  {
+   "nombre": "Domingo F. Orlandini",
+   "rol": "Agrimensor del ejido (1884)",
+   "texto": "Autor de la mensura del ejido y pueblo de Giles (Dup. 137), citada aquí como prueba de dominio. En el corpus también Apolinario Orlandini (138, 144-146).",
+   "fuentes": "Este plano; METODO.md (137, 138)."
+  },
+  {
+   "nombre": "Familia Monsalvo y Ponce (Isabel Sabina, María Nemesia; Tomás Monsalvo; María del Carmen Monsalvo de Gómez)",
+   "rol": "Propietarios urbanos",
+   "texto": "Descendientes probables de la familia Monsalvo del corpus rural (003, 031), con lotes en el centro inscriptos en 1899-1933.",
+   "fuentes": "Este plano; V02, V04; METODO.md."
+  },
+  {
+   "nombre": "Alberto Espil y Juana Vázquez de Espil",
+   "rol": "Propietarios",
+   "texto": "Titulares en el centro (1921-1925). Alberto Espil donó tierra para la Policía Caminera y dio nombre a Villa Espil (1936-37), según la 137 y la 138; la calle Felipe Santiago Espil recuerda a otro miembro de la familia.",
+   "fuentes": "Este plano; METODO.md."
+  },
+  {
+   "nombre": "Antonia Campana de Coppa, María Luisa Alvis, Guadalupe Ponce de Vázquez, Mauricio Iribarren, Fortunato J. Cufré",
+   "rol": "Propietarios con títulos del siglo xix",
+   "texto": "Asientos de 1889-1898: los más antiguos del centro.",
+   "fuentes": "Este plano."
+  },
+  {
+   "nombre": "Instituciones: Banco de la Provincia de Buenos Aires, Gobierno Nacional, Consejo Escolar (Escuela N.º 1), Municipalidad",
+   "rol": "Titulares",
+   "texto": "Banco: N.º 16235 B/1909; Gobierno Nacional: F.º 1/1935; Municipalidad: plaza Cutillas (F.º 37/1925) y lotes en 1902 y 1927.",
+   "fuentes": "Este plano."
+  }
+ ],
+ "titulo": "Catastro urbano · hoja 3",
+ "estado": "Transcripta (6 hojas, 152 renglones), 2 láminas"
+}

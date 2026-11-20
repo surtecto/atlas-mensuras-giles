@@ -1,0 +1,190 @@
+{
+ "temas": [
+  {
+   "id": "catastro1938",
+   "titulo": "Catastro urbano del pueblo (c. 1938)",
+   "texto": "Juego de nueve hojas catastrales del pueblo de San Andrés de Giles a escala 1:1000, levantadas por la Dirección de Geodesia [y] Catastro de la provincia hacia 1938. Cada parcela lleva su titular, el asiento de dominio, la superficie según título y el n.º de Guía, que es la partida inmobiliaria que la parcela conserva hoy: por eso las hojas se pueden ubicar sobre el catastro actual.",
+   "juego": 9,
+   "fichas": [
+    {
+     "cod": "V01",
+     "titulo": "Catastro urbano · hoja 1",
+     "doc": "Hoja catastral 1, «Parte A», del pueblo de San Andrés de Giles",
+     "y": "c. 1938 (año roto; inscripciones hasta 1936)",
+     "autor": "Dirección de Geodesia [y] Catastro (PBA)",
+     "escala": "1:1000",
+     "ubic": "Sector NE del pueblo: camino general a S. A. de Areco, calles Francia, Irigoyen, 9 de Julio",
+     "sint": "Primera de las nueve hojas catastrales del pueblo de San Andrés de Giles levantadas por la Dirección de Geodesia [y] Catastro de la provincia (enero-mayo de un año perdido en el desgarro; las inscripciones llegan a 1936-1938). Cubre el sector NE: una banda diagonal de quintas sobre el camino general a San Antonio de Areco, cortada por un cauce que ocupa la Municipalidad (17 420 m²), y manzanas de 100 varas sobre las calles Francia, Bernardo de Irigoyen y Nueve de Julio. Cada parcela trae titular, asiento de dominio, superficie según título y n.º de Guía; persisten títulos de 1880-1892 y ocupaciones sin título.",
+     "folios": 3,
+     "renglones": 109,
+     "planos": 1,
+     "fotos": 4,
+     "pdf": true,
+     "geo": {
+      "guias": 89,
+      "ubicadas": 44,
+      "descartadas": 33,
+      "sin_partida": 12,
+      "sup_coincide": 12,
+      "sup_comparable": 34,
+      "mapa": true,
+      "centro": [
+       -59.450463,
+       -34.440141
+      ]
+     },
+     "estado": "georreferenciada"
+    },
+    {
+     "cod": "V02",
+     "titulo": "Catastro urbano · hoja 2",
+     "doc": "Hoja catastral 2 (partes A y B) del pueblo de San Andrés de Giles",
+     "y": "c. 1938 (inscripciones hasta 1937)",
+     "autor": "Dirección de Geodesia [y] Catastro (PBA)",
+     "escala": "1:1000 (como la hoja 1)",
+     "ubic": "Sector N-NO: Mitre, Avellaneda, Alsina, Pellegrini, Quintana, Urquiza, Rawson",
+     "sint": "Segunda hoja catastral del pueblo (sector N-NO), sin rótulo de título en las tomas: se identifica por el «2» en lápiz rojo y el gráfico de ubicación con sus partes A y B. Parcelario entre las calles General Mitre y Rawson y entre Francia y San Martín, con titular, asiento de dominio, superficie y Guía. Destacan la parcela de 16 552 m² de Juana Picchetto de Gazzaniga junto a la calle José Pichetto, la sucesión Marino y Ricco (1935), los Barbella, Mónaco y Sarlinga, y varias calles públicas ocupadas sin título por vecinos. Persisten títulos de 1885-1891.",
+     "folios": 6,
+     "renglones": 187,
+     "planos": 2,
+     "fotos": 6,
+     "pdf": true,
+     "geo": {
+      "guias": 124,
+      "ubicadas": 78,
+      "descartadas": 35,
+      "sin_partida": 11,
+      "sup_coincide": 13,
+      "sup_comparable": 72,
+      "mapa": true,
+      "centro": [
+       -59.451574,
+       -34.446505
+      ]
+     },
+     "estado": "georreferenciada"
+    },
+    {
+     "cod": "V03",
+     "titulo": "Catastro urbano · hoja 3",
+     "doc": "Hoja catastral 3 del pueblo de San Andrés de Giles (centro)",
+     "y": "c. 1938 (inscripciones hasta 1936)",
+     "autor": "Dirección de Geodesia [y] Catastro (PBA)",
+     "escala": "1:1000 (como la hoja 1)",
+     "ubic": "Centro: plazas San Martín y Cutillas, de las vías a General Mitre",
+     "sint": "Tercera hoja catastral del pueblo: el centro, desde las vías y el embarcadero del ferrocarril (avenida Morgan) hasta la plaza San Martín y la calle General Mitre. Reúne las instituciones (Iglesia Parroquial, Banco de la Provincia, Gobierno Nacional, Municipalidad, Escuela N.º 1) y las plazas San Martín y Cutillas (6952,555 m²). La Iglesia no tiene título: el catastro remite al «Dup. 137, mensura del pueblo por el Agr. D. Orlandini», el ejido de 1884. Parcelario con titulares de 1889-1936 (Ponce de Vázquez, Campana de Coppa, Monsalvo y Ponce, Espil, Méndez y Álvarez).",
+     "folios": 6,
+     "renglones": 152,
+     "planos": 2,
+     "fotos": 6,
+     "pdf": true,
+     "geo": {
+      "guias": 120,
+      "ubicadas": 78,
+      "descartadas": 30,
+      "sin_partida": 12,
+      "sup_coincide": 19,
+      "sup_comparable": 71,
+      "mapa": true,
+      "centro": [
+       -59.447103,
+       -34.440593
+      ]
+     },
+     "estado": "georreferenciada"
+    },
+    {
+     "cod": "V04",
+     "titulo": "Catastro urbano · hoja 4",
+     "doc": "Hoja catastral 4 del pueblo de San Andrés de Giles (N y estación)",
+     "y": "c. 1938 (inscripciones hasta 1936)",
+     "autor": "Dirección de Geodesia [y] Catastro (PBA)",
+     "escala": "1:1000 (como la hoja 1)",
+     "ubic": "Entre la estación Giles y la calle General Mitre, de Rivadavia a Lavalle",
+     "sint": "Cuarta hoja catastral del pueblo: el sector N y E del centro, entre la estación Giles del ferrocarril y la calle General Mitre, desde Rivadavia hasta Lavalle. Las avenidas Morgan y Lucas Scully, en diagonal junto a las vías, llevan los nombres de dos grandes propietarios rurales del siglo XIX. Parcelario denso (lotes de 10 a 15 m de frente) con titulares inscriptos entre 1895 y 1936: Méndez y Álvarez, Peláez y Carry, Pérez y Peláez, Kenny y Kenny, Rodríguez, García, la Sociedad Española de Socorros Mutuos (una manzana, 1908) y la Municipalidad.",
+     "folios": 5,
+     "renglones": 183,
+     "planos": 2,
+     "fotos": 5,
+     "pdf": true,
+     "geo": {
+      "guias": 111,
+      "ubicadas": 61,
+      "descartadas": 41,
+      "sin_partida": 9,
+      "sup_coincide": 5,
+      "sup_comparable": 55,
+      "mapa": true,
+      "centro": [
+       -59.444542,
+       -34.441418
+      ]
+     },
+     "estado": "georreferenciada"
+    },
+    {
+     "cod": "V05",
+     "titulo": "Catastro urbano · hoja 5",
+     "doc": "Hoja catastral 5 del pueblo de San Andrés de Giles (sector O y SO)",
+     "y": "c. 1938 (asientos hasta F.º 18/1937)",
+     "autor": "Dirección de Geodesia [y] Catastro (PBA)",
+     "escala": "1:1000 (como la hoja 1)",
+     "ubic": "Entre San Martín y Lavalle, de la av. 25 de Mayo y Etcheverry a General Mitre",
+     "sint": "Quinta hoja catastral del pueblo: el sector O y SO, entre San Martín y Lavalle, desde la avenida 25 de Mayo y la calle J. B. Etcheverry hasta General Mitre. Al O quedan las últimas grandes fracciones urbanas: los remanentes de Laura Pichetto de Culligan (48 920,98 m², 1913) y de Balbina M. Pérez de Echandi (81 775 m², 1929), con calles proyectadas y lotes vendidos en 1934. Hay manzanas enteras de Miano, Piazzi y Ángela Pichetto de Saubidet. Al E el damero se parcela fino. Figuran el Hospital de Caridad, la plaza Colón, la Comisaría, la Diócesis de Mercedes (1937) y el campo del Club Atlético «Comercio». También hay ocupantes sin título y una calle pública ocupada.",
+     "folios": 12,
+     "renglones": 473,
+     "planos": 3,
+     "fotos": 12,
+     "pdf": true,
+     "geo": {
+      "guias": 341,
+      "ubicadas": 237,
+      "descartadas": 67,
+      "sin_partida": 37,
+      "sup_coincide": 87,
+      "sup_comparable": 226,
+      "mapa": true,
+      "centro": [
+       -59.446662,
+       -34.447107
+      ]
+     },
+     "estado": "georreferenciada"
+    },
+    {
+     "cod": "V06",
+     "titulo": "Catastro urbano · hoja 6",
+     "doc": "Hoja catastral 6 del pueblo de San Andrés de Giles (sector S y SE)",
+     "y": "c. 1938 (asientos hasta F.º 276/1936)",
+     "autor": "Dirección de Geodesia [y] Catastro (PBA)",
+     "escala": "1:1000 (como la hoja 1)",
+     "ubic": "Entre Lavalle y Nicolás Méndez, de Alsina a la av. Lucas Scully y el camino a Luján",
+     "sint": "Sexta hoja catastral del pueblo: el sector S y SE, entre Lavalle y Nicolás Méndez, desde Alsina hasta la avenida Lucas Scully y el camino general a Luján, que cortan el damero en diagonal. Al O y al S hay manzanas enteras de un solo dueño (Carbone y Allegro 1906, Méndez y Álvarez 1910, Walker 1921, Miano 1915, Mugica Zudaire 1922, la Sdad. Italiana «L’Avvenire d’Italia» 1923). Al centro y al E hay un parcelario fino: un loteo de 1913 inscripto en bloque, lotes de 1935 de Eduardo A. Espil y la Asociación Española. También figuran el remanente Montoto de Morales (1899) y titulares irlandeses y británicos (Grogan, Kennedy, Walker). Hay ocupantes sin título y una superficie real menor que la del título junto al camino.",
+     "folios": 7,
+     "renglones": 247,
+     "planos": 3,
+     "fotos": 7,
+     "pdf": true,
+     "geo": {
+      "guias": 174,
+      "ubicadas": 122,
+      "descartadas": 33,
+      "sin_partida": 19,
+      "sup_coincide": 49,
+      "sup_comparable": 118,
+      "mapa": true,
+      "centro": [
+       -59.439607,
+       -34.444281
+      ]
+     },
+     "estado": "georreferenciada"
+    }
+   ]
+  }
+ ],
+ "capas": {
+  "hojas": 6,
+  "parcelas": 620
+ }
+}

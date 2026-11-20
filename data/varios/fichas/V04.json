@@ -1,0 +1,368 @@
+{
+ "carpeta": "V04",
+ "carpeta_nombre": "Varios V04",
+ "archivo": "Ficha V04 - Catastro urbano, hoja 4 (c. 1938).docx",
+ "resumen": {
+  "Documento": "Hoja catastral 4 del pueblo de San Andrés de Giles (N y estación)",
+  "Propietario / solicitante": "Catastro urbano · hoja 4",
+  "Autor": "Dirección de Geodesia [y] Catastro (PBA)",
+  "Agrimensor": "Sin firma (levantamiento oficial)",
+  "Año": "c. 1938 (inscripciones hasta 1936)",
+  "Escala": "1:1000 (como la hoja 1)",
+  "Ubicación": "Entre la estación Giles y la calle General Mitre, de Rivadavia a Lavalle",
+  "Calles": "Espil, Maipú, Chacabuco, av. España, Lavalle; avenidas Morgan y Lucas Scully",
+  "Instituciones": "Sdad. Española de Socorros Mutuos; Municipalidad; plaza Cutillas",
+  "Rasgos": "Estación Giles; avenidas con nombres de estancieros británicos e irlandeses",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), juego de 9 hojas catastrales"
+ },
+ "metricas": {
+  "superficie_ha": "— (hoja urbana; parcelas de 0,01 a 1,1",
+  "hitos": "Estación Giles; avenidas Morgan y Lucas Scully; Sociedad Española",
+  "aguas": "no figuran"
+ },
+ "sintesis": "Cuarta hoja catastral del pueblo: el sector N y E del centro, entre la estación Giles del ferrocarril y la calle General Mitre, desde Rivadavia hasta Lavalle. Las avenidas Morgan y Lucas Scully, en diagonal junto a las vías, llevan los nombres de dos grandes propietarios rurales del siglo XIX. Parcelario denso (lotes de 10 a 15 m de frente) con titulares inscriptos entre 1895 y 1936: Méndez y Álvarez, Peláez y Carry, Pérez y Peláez, Kenny y Kenny, Rodríguez, García, la Sociedad Española de Socorros Mutuos (una manzana, 1908) y la Municipalidad.",
+ "caratula": {
+  "img": "img/v/V04/01.jpg",
+  "fuente": "IMG_1076.JPG (vista general)",
+  "campos": [
+   [
+    "Plano",
+    "San Andrés de Giles — hoja catastral 4"
+   ],
+   [
+    "Autor",
+    "Dirección de Geodesia [y] Catastro"
+   ],
+   [
+    "Fecha",
+    "sin fecha visible (c. 1938)"
+   ],
+   [
+    "Escala",
+    "1:1000 (probable)"
+   ],
+   [
+    "Número de hoja",
+    "4 (lápiz)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Ángulo NO: avenidas Morgan y Lucas Scully, camino general",
+   "img": "img/v/V04/02.jpg",
+   "fuente": "IMG_1072.JPG",
+   "nota": "",
+   "lineas": [
+    "[Lápiz negro, ángulo:] 4   [A lápiz, al margen O:] Hoja 3 [?]",
+    "[Calles y caminos:] AVENIDA MORGAN · AVENIDA LUCAS SCULLY · CAMINO GENERAL A […] · CALLE [FRANCISCO] SUERO · CALLE [DOMINGO] HIDALGO",
+    "[A lápiz, en la faja entre las avenidas:] Suc. Eloísa [?] Rapalo [?] … · Rapalo [?] [rótulo de un recinto]",
+    "Elvira García · s.t. 21,65 × 21,30 [?] = 461 m² 145 [?] · Guía 2473",
+    "ocupado sin título por Emilio Cr[…] [?] … · ocupado sin título por Lorenzo [?] … · no figura en guía [?]",
+    "F° 1[..]/936 · Germino [?] … · F° 128/928 [?] · Antonio Puyelli [?] · s.t. 1823 m² 080 [?] · Guía N° 2622 [?]",
+    "F° 14/936 · Gaetano [?] Germino de Bellacci [?] · s.t. 21,65 × 43,30 = 937 m² 445 · Guía N° 2179",
+    "Margarita Ana [?] de Ferrari, Rosario [?] … y Juan Rosso [?] y Traut [?] · s.t. 3168 m² [?] · Guía N° 2067 [?]",
+    "F° 6/933 · Juan Luis Alvis · s.t. 1150 m² · Guía N° 3686 [?]",
+    "F° 61/916 · R.te [remanente] · Clara Andreoli de Di Florio, Ángel María, Nicolás, Andrés y Carmelo Di Florio y Andreoli · St. 4853 [?] m² 90 · Sp. 1403 m² 11 · Guía 2283",
+    "F° 96/931 · Josefa Arrías [?] de Pinero [?] · s.t. 579 m² 56 [?] · Guía 3558 [?]",
+    "F° 59/935 · Alejandro Ghibaudi · St. 270 m² [?] · Guía 3975 [?]",
+    "N° 14389/906 · Guía N° 2581 · Ana, Tomás, José Juan y Brígida María Kenny y Kenny · s.t. 50,60 × 43,30 = 1650 m² [?]",
+    "Ramón Gotelli · ocupado sin título",
+    "F° 87/922 · Lucas Acuña · s.t. 849 m² · Guía N° 1834",
+    "F° 73/932 · Guía N° 3288 · Eugenio Rodríguez · s.t. 21,65 × 43,30 = 937 m² 445",
+    "N° 15332/906 · Guía N° 3029 · Eugenio Rodríguez · s.t. 11 223 m² [?]",
+    "CALLE PÚBLICA · Ocupada por Eugenio Rodríguez",
+    "N° 7005 A/907 · Eugenio Rodríguez · s.t. 43,30 × 43,30 = 1874 m² 78 [?] · Guía N° 3035 [?]",
+    "F° 30/919 · Eugenio Rodríguez · s.t. 3749 m² 97 [?] · Guía N° 3030 [?]",
+    "F° 154/926 · Sociedad Méndez Hnos., Ruiz y Peláez · s.t. 1512 m² [?] · Guía N° 2[..]",
+    "F° 101/930 · Raimundo Juan Ronzini [?] · s.t. 15,40 × 36,60 = 562 m² [?] · Guía N° 2[..]",
+    "F° 7/935 · Raimundo J. Ronzini [?] · s.t. 13,65 × 36,60 = 500 m² [?] · Guía N° 3653 [?]",
+    "F° 117/923 · Antonio Peláez · s.t. 43,30 × 43,30",
+    "F° 168/913 [?] · Pedro Peláez · s.t. … 36,20 = 1005 m² [?] · Guía N° 2904",
+    "[Lotes angostos con rótulos tachados a lápiz:] … Ramírez [?] Pessano … · … Mariano [?] …",
+    "F° 89 [?]/930 · Municipalidad de S. Andrés de Giles · PLAZA [CUTILLAS] · St. 6952 m² 555 · Guía 2820 [con rúbricas a lápiz encima]",
+    "F° 72/929 · Guía N° 2731 · Enrique Barbieri · s.t. 22,20 × 40 = 888 m² [?]",
+    "F° 105/935 · Enrique Barbieri · s.t. 10 × 40 = 400 m² [?] · Guía N° 3002 [?]",
+    "F° 14/32 [?] · Félix Joaquín Penna · s.t. 10,40 × 40 = 416 m² [?]",
+    "Esteban Gerardo Cascio [?] · F° … · Guía N° 2118 [?] · s.t. 10,40 × 44 = 440 m² [?]",
+    "F° 3/928 · Guía N° 2238 · Pedro Alejandro Nievas [?] · s.t. 15,40 × 43,30 = 664 m² [?]",
+    "F° 14/935 · Guía N° 1882 · Fernando Alvis · s.t. 15,40 × 43,30 = 663 m² [?]",
+    "F° 17/933 [?] · Francisco Abel [?] Tortonelli [?] · s.t. 820 m² [?]",
+    "F° 70/928 [?] · Guía N° 2027 · Carlos Nicanor Bustos [?] · s.t. 1122 m² [?]",
+    "Carlos M. Bustos Cajal [?] · F° … · s.t. 14,40 × …",
+    "F° 61/926 · Guía N° 1631 [?] · Pedro Gussoni [?] · s.t. 1173 m² [?]",
+    "José [?] Gussoni y otros · F° … · Guía N° 2552 [?]",
+    "Ignacio [?] Tomás [?] de Alvis · F° … · Guía N° 2[..]",
+    "N° 11865/906 · María Marquesa [?] Chávez de Romero · R.te s.plano 2124 m² 50 [?] · Guía 3054 [?]",
+    "F° 121/930 · Américo P. Bigini [?] · St. 255 m² [?] · Guía 1374 [?]",
+    "F° 14/934 · César Pasarotti · St. 125 m² [?] · Guía 3880 [?]",
+    "Manuel Mango [?] · Guía 2490 [?] · Petrona E. Martínez [?] · St. 407 m² [?]",
+    "José R. de Llamas [?] · Guía 2514 [?]",
+    "N° 6537/913 · Antonio Giampietro [?] · Guía 3814 [?]",
+    "Antonio Pasarotti [?] · St. 579 m² … · Guía 3936 [?]",
+    "F° 37/935 [?] · Pedro García · St. 12,40 × 43,30 · Guía 2483 [?]",
+    "N° 10592/903 · R.te · José Fernando Peláez y Carry · Sup. R.te según plano 4196 m² 445 [?] · Guía 2905",
+    "F° 60/933 · Isabel Sabina y María Nemesia Monsalvo y Ponce · St. 42,60 × 86,60 · Guía 3623 [?]",
+    "F° 14/929 · Guía N° 2041 [?] · Jaime G. Colominas [?] · s.t. 1556 m² [?]",
+    "F° 21/935 · Sdad. Fernando T. Pérez y Hnos. · Guía N° 2414 [?]",
+    "F° 14/932 · Florencio Domingo Bozzini · s.t. 14,40 × 43,30 [?]",
+    "F° 62/927 · Florencio Domingo Bozzini · s.t. 1140 m² 05 [?] · Guía N° 2009",
+    "F° 1/932 · Fernando Alvis · s.t. 1187 m² 40 [?]",
+    "F° 14/932 [?] · Santiago Coppa [?] …",
+    "F° 13/935 · Carlos Pasaro [?] … · F° 13/935 · Máximo Roldán [?] · Guía N° 3[..]",
+    "N° 6589/1906 · Víctor Leopoldo Sosa · s.t. 43,30 × 43,30 · Guía N° 3177 [?]",
+    "F° 113/926 · Margarita E., María R., Pedro R. y Cirilo P. Bulasio [?] · s.t. 1874 m² 89 · Guía N° 2023 [?]",
+    "F° 20/922 · Rodolfo Gigena [?]",
+    "F° 113/928 [?] · Angela Carmen [?] y Antonio [?] … Lisandro [?] Novelli [?] · s.t. … · s. plano … 562 m² [?] · F° 99/926 y 164/932 [?]",
+    "F° 85/929 · Guía N° 2050 · Nicolás Bozzetti [?] · s.t. 1749 m² [?]",
+    "F° 14/923 · Guía N° 2967 · Francisco Benvenuto · s.t. 21,65 × 43,30 = 937 m² 445 [?]",
+    "F° 147/931 · Ángel Fortunato Pentinelli [?] · s.t. 1152 m² [?] · Guía N° 3557",
+    "F° 191/905 [?] · Adolfo Nascimbene · s.t. 21,65 × 43,30 [?] · Guía N° 2050 [?]",
+    "N° 3825/899 · Remanente · Feliciana Montoto y R. de Morales · Reman. en esta manzana 595 m² [?] · Reman. total 1244 m² [?] · Guía N° 1150 [?]",
+    "F° 10/923 · Juan Ángel Cruz · s.t. 10,43 × 43,30 = 451 m² [?]"
+   ],
+   "interpretacion": "Franja entre el ferrocarril y el damero: avenidas Morgan y Lucas Scully en diagonal, el camino general, la sucesión Di Florio y Andreoli, los Kenny y Kenny (1906), los Rodríguez (Eugenio, con una calle pública ocupada) y la plaza Cutillas repetida."
+  },
+  {
+   "titulo": "Manzanas centrales (entre Hidalgo y Rivadavia)",
+   "img": "img/v/V04/03.jpg",
+   "fuente": "IMG_1073.JPG",
+   "nota": "",
+   "lineas": [
+    "[Calles:] CALLE [DOMINGO] HIDALGO · CALLE [RIVA]DAVIA · CAMINO GENERAL A […]",
+    "[Números de manzana, a lápiz:] 122 · 123 · 124 [?] · 145 [?] · 146 [?]",
+    "F° 44/922 · Julia Catalina Althaparro [?] · St. 17,60 × … · Guía 1842 [?]",
+    "N° 3720/906 · Romelo [?] Álvarez (hijo) · R.te s/ plano [?] 1095 m² 54 [?] · Guía 1869 [?]",
+    "F° 25 [?]/931 · Ricardo [?] Álvarez (hijo) · R.te 1303 m² 54 [?] · Guía 1870",
+    "F° 113/930 · Catalina Santia [?] · St. 14 × 28,9 [?] = 413 m² 30 [?] · Guía 3385 [?]",
+    "F° … · José García Cuñarro · St. 455 m² … · Guía 2468 [?]",
+    "N° 15474/908 [?] · Pedro García · St. 31,176 × 43,30 · Guía 2486",
+    "F° 105/921 · Pedro García · R.te s/ 1462 m² [?] · Guía 2487",
+    "F° 140/919 · José Manuel Méndez y Álvarez · St. 938 m² [?] · Guía 2747",
+    "F° 185/923 · José Manuel Méndez y Álvarez · St. 1416 m² [?] · Guía 2746",
+    "F° 7/919 · José Manuel Méndez y Álvarez · St. 2478 m² [?] · Guía 2747 [?]",
+    "F° 7, 8, 137, 152/919 [?] · José Manuel Méndez y Álvarez …",
+    "F° 55/921 · Remanente · Dolores Alonso de García Pastur [?] · rem. s.t. 1671 m² 05 [?] · Guía N° 2443 [?]",
+    "F° 1/933 · Virginia B. Ambrohe [?] de Alvis · s.t. 20,56 × 30 = 624 m² [?] · Guía N° 1884 [?]",
+    "F° 14/930 [?] y 14/906 · Guía N° 3025 [?] · Juan P. Alvis · s.t. 20,50 × 40 [?] = 702 m² [?]",
+    "F° 13/9[..] · Américo [?] Bonaccorsi [?] … · Raúl Antonio Casas [?] … · Ángel Pianzola [?] … [lotes menudos sobre Rivadavia]",
+    "N° 4184/895 · Ángel Piazzo · s.t. 43,30 × 43,30 · Guía N° 2040 [?]",
+    "F° 13/933 · Alejandro Ramón y María Soledad Pereyra · s.t. 33,30 × 43,30 = 1449 m² [?] · Guía N° 2021",
+    "F° 65/932 · Méndez Hnos., Ruiz y Peláez S. A. · s.t. 21,65 × 43,30 = 937 m² 445 · Guía N° 2020 [?]",
+    "N° 15581/911 · Juan Gregorio Frías y Gómez · s.t. … · Guía N° 2[..]",
+    "N° 15582/911 [?] · Francisco Eusebio Frías y Gómez · s.t. … · Guía N° 2121 [?]",
+    "F° … · Antonio [?] Aranda [?] · Guía N° 3683 [?]",
+    "F° 9/919 · … Sosa [?] … · s.t. 21,65 × 43,30 …",
+    "N° 47/21 C/915 · Pedro García · s.t. 1875 m² [?] · Guía N° 2486 [?]",
+    "F° 99/923 · Pedro García Cuñarro · s.t. 43,30 × 43,30 · Guía N° 2469",
+    "N° 47/24 C/915 · Fortunato J. Cufré · s.t. 1875 m² [?] · Guía N° 2225",
+    "F° 160/933 · María Nemesia e Isabel Sabina Monsalvo · s.t. 1875 m² [?] · Guía N° 2051 [?]",
+    "N° 176/909 · Lorenzo Lázaro · s.t. 44,40 × 43,30 = 1946 m² 3 [?] · Guía 2617",
+    "F° 7/919 · José Manuel Méndez y Álvarez · s.t. 40 × 40,80 [?] = 1616 m² [?] · Guía 2748 [?]",
+    "F° 70/919 [?] · Juan Ángel Cruz · s.t. 10,43 × 43,30 …",
+    "F° 81/925 · Guía N° 2107 · Juan R. Galeano · s.t. 20,50 × 43,30 …",
+    "F° 20/922 · Rodolfo Gigena · s.t. 43,30 × 43,30 = 1874 m² 89 · Guía N° 2510",
+    "F° 9/919 [?] · Simón Mendizábal · s.t. … · Guía N° 2[..]",
+    "F° 21/935 · Sdad. Com. [?] «Juan Bautista [?]» … · Guía N° 2050 [?]",
+    "F° 159/924 · Rem. · Guía 2332 · Victorino, Macario Agapito, Catalina y Ricardo Miguel Echavarry y Ezquer [?] · s.t. … 433 m² [?]",
+    "F° 233/927 · Guía 3027 [?] · Celestino y Catalina Echavarry [?] · 10,40 × 43,30 = 433 m² [?]",
+    "F° 57/924 [?] · Lula [?] María Cappanelli [?] · s.t. 15,60 × 43,30 = 676 m² [?]",
+    "F° 57/924 · Nicolás Mariano Silvano Méndez · s.t. 12,50 [?] × 43,30 …",
+    "F° 87/30 · Guía N° 1000 [?] · Felipe Russo [?] · s.t. 20 × 43,30 …",
+    "F° 144/28 · Felipe Russo [?] · s.t. 20 × 43,30 …",
+    "F° 141/928 · Raimundo Juan Ronzini · s.t. 1985 m² [?] · Guía N° 3056 [?]",
+    "F° 163/25 [?] · Humberto Lorenzetti [?] · s.t. 11,70 × 43,30 …",
+    "N° 531/895 [?] · Constancia Luján de Echeverry [?] · s.t. 11,73 × 43,30 …",
+    "F° 11/935 [?] · Florentino B. Lescano · s.t. 12,40 × 43,30 …",
+    "F° … · Alberto Espil · sin título",
+    "Bruno Ernesto [?] Saccone · s.t. 1750 m² [?] · Guía N° 3065 [?]",
+    "F° 27/925 · Justino Agustín Alvis · s.t. 25,40 × 43,30 = 1124 m² 93 · Guía 1878 [?]",
+    "F° 107/929 · Juan Bautista, María Eugenia y Emilia Marcelina Erice [?] · s.t. 43,30 × 43,30 = 1874 m² 89 · Guía N° 3294",
+    "N° 14252 [?], F° 18/908 · Sdad. Española de Socorros Mutuos de San Andrés de Giles · s.t. 86,60 × 86,60 = 7499 m² 56 · Guía N° 3168 [?]",
+    "F° 189/928 · F° 8/933 · F° 41/933 [rótulos cortados en el borde inferior]"
+   ],
+   "interpretacion": "Méndez y Álvarez (varias fracciones), García y García Cuñarro, Cufré, Monsalvo, Lázaro, Pereyra, Frías y Gómez, Alvis, Lescano, Echavarry y Ezquer, Erice; la Sociedad Española de Socorros Mutuos con una manzana entera (7499,56 m², 1908)."
+  },
+  {
+   "titulo": "Manzanas entre Rivadavia y Lavalle",
+   "img": "img/v/V04/04.jpg",
+   "fuente": "IMG_1074.JPG",
+   "nota": "",
+   "lineas": [
+    "[Calles:] CALLE RIVADAVIA · CALLE FELIPE SANTIAGO ESPIL · CALLE MAIPÚ · CALLE CHACABUCO · AVENIDA ESPAÑA · CALLE LAVALLE · CALLE [MO]RENO · PLAZA SAN MARTÍN [en el margen]",
+    "F° 169/928 · Beatriz María Bonetti y Colombo [?] · s.t. 43,30 × 43,30 = 1874 m² 89 · Guía N° 1899 [?]",
+    "F° 8/933 · Pascual Pedro Camerote [?] · s.t. 43,30 × 43,30 · Guía N° 2057",
+    "[Columna de lotes angostos sobre Maipú, rótulos menudos:] … Juan Bautista Gallo [?] … · F° 196/935 [?] …",
+    "F° 4/933 · Adolfo Bornaja [?] y otros · s.t. 17,25 [?] × … · Guía N° 3[..]",
+    "F° 59/932 · Secundino García Pastur · s.t. 1146 m² [?] · Guía N° 2494 [?]",
+    "F° 21/928 · Lorenzo Gussoni · s.t. 43,30 × 43,30 · Guía N° 2546",
+    "F° 14/921 · Alberto Espil · St. 779 m² … · Guía 2[..]3",
+    "F° 172/925 · Juana Vázquez de Espil · St. 7140 m² [?] · Guía 2354 [?]",
+    "N° 5013/89[.] · Miguel Peláez · … · Guía 2[..]",
+    "F° 157/18 · Damacena García de Escribano · s.t. 21,65 × 43,30 = 937 m² 445 [?] · Guía N° 3[..]",
+    "F° 138/32 · Carmen Alejandrina Vildósola de Silva · s.t. 19,95 × 40,40 [?] = 805 m² [?] · Guía N° 3150",
+    "F° 52/33 [?] · Luis Tabanno [?] … · F° 13/23 · Eduardo M. Fangino [?] … · N° 14646/909 · Miguel Peláez · … · Guía N° 2899 [?]",
+    "N° 3240/897 · Remanente · Trinidad Nicéfora Rodríguez de Cruz · Remanente s.t. 43,30 × 43,30 [?] · Guía N° 2212",
+    "F° 129/920 · Pedro Peláez · s.t. 12,60 × 43,30 [?] · Guía N° 2902",
+    "F° 14/927 [?] · Pedro Peláez · s.t. … · Guía N° 2903",
+    "F° 154/929 · Juan Bautista Pérez · s.t. 20 [?] × 41,40 = 847 m² 44 [?] · Guía N° 2102",
+    "F° 153/929 · Juan y Julián Lacanette [?] · s.t. 22 [?] × 43,30 = 951 m² [?] · Guía N° 3574 [?]",
+    "F° 21/919 [?] · Florentino Lescano · s.t. 11,00 × 43,30 · Guía N° 3[..]",
+    "Bernardo Lescano [?] … · Remanente … · s.t. 1,60 × …",
+    "F° 17/933 y 124/934 · José Fernando Peláez y Carry · s.t. 1445 m² [?] · Guía N° 2056 [?]",
+    "F° 55/929 · Juan Bautista Pérez y Peláez · s.t. 1172 m² [?] · Guía N° 2926 [?]",
+    "F° 166/927 · Carlos Epifanio [?] Serra · s.t. 43,30 × 43,30 = 1874 m² [?] · Guía N° 3153 [?]",
+    "F° 25/921 · Antonia Roveglia [?] de Ferrari · s.t. 40,70 × 41,30 [?] = 1681 m² 98 [?] · Guía N° 2386",
+    "F° 189/926 · Emilio Labriola · s.t. 9,16 m² [?] … · Guía N° 2[..]",
+    "Víctor Labriola · s.t. 14,20 m² [?] … · Guía N° 2[..]",
+    "F° 14/931 · Emilio Gerra [?] · s.t. … · Guía N° 3[..]",
+    "F° 15/932 · Ramón Bispo [?] · s.t. 17,20 × … · Guía N° 3[..]",
+    "F° 179/930 · Remanente · Venero [?] Vera [?] · s.t. 15,40 × … · Guía N° 3373 [?]",
+    "[Manzana con lotes numerados 1 a 18 junto a la calle Lavalle:]",
+    "Sdad. Fernando T. Pérez y Hnos. · F° … · lotes 11-14 [?]",
+    "F° 80/935 · Ana [?] Scotto de Tredicese [?] · lote 13 [?]",
+    "Ramón Vicente [?] … · José Grillo [?] · Jorge Hanna [?] · Sdad. Caleh [?] Hnos. [?] · F° 152/935 · F° 156/936 [?] · s.t. 11,30 × 39 = 440 m² [?] · lotes 3-18",
+    "F° 24/934 · Luis Florentino Amitrano [?] · s.t. 12,61 × 43,30 [?] · Guía N° 3500 [?]",
+    "[Fila inferior, rótulos cortados:] F° 103/934 · Petrona Magnanego · … · Pedro Volti [?] · Nicolás Bozzetti [?] · Miguel Tanassi [?] · Guías 3523-3527 [?]"
+   ],
+   "interpretacion": "Damero entre Rivadavia, Espil, Maipú, Chacabuco, avenida España y Lavalle: Peláez y Carry, Pérez y Peláez, Rodríguez de Cruz (1897), Lacanette, Serra, Roveglia de Ferrari, Labriola; manzana junto a Lavalle con 18 lotes numerados."
+  },
+  {
+   "titulo": "Borde S: calle General Mitre",
+   "img": "img/v/V04/05.jpg",
+   "fuente": "IMG_1075.JPG",
+   "nota": "",
+   "lineas": [
+    "[Calles:] CALLE RIVADAVIA · CALLE FELIPE SANTIAGO ESPIL · CALLE MAIPÚ · CALLE CHACABUCO · AVENIDA ESPAÑA · CALLE LAVALLE · [CALLE GENERAL MI]TRE",
+    "F° 7, 8, 137, 152/919 · José Manuel y Lucio Méndez y Álvarez · St. 3760 m² · Guía 2738",
+    "F° 30/926 · Guía N° 3252 · Sdad. «Terreri [?] Hnos. y Cía.» · s.t. 13,50 [?] × 40 [?] = 540 m² [?]",
+    "F° 28/9[..] · Estéban [?] Santos [?] …",
+    "F° 39/920 [?] · Pedro Volti · s.t. … · Guía N° 3227 [?]",
+    "N° 6391/37 [?] /907 · Nicolás Bozzetti · s.t. … · Guía N° 2035 [?]",
+    "N° 1188 [?]/911 · Municipalidad de San Andrés de Giles · s.t. 43,30 × 43,30 = 1874 m² 89 · Guía N° 2814",
+    "F° 21/927 · Guía N° 2[..] · Félix Joaquín Penna · s.t. 12 [?] × 30,50 = 366 m² [?]",
+    "F° 86/927 · Félix Joaquín Penna · s.t. 30,50 × 30 [?] = 961 m² [?] · Guía N° 2912",
+    "F° 103/934 · Petrona Magnanego · s.t. 10,70 × 43,30 [?] · Guía N° 3[..]",
+    "F° 16/26 · Alejandrina Gómez [?] … · s.t. … · Guía N° 2557 [?]",
+    "F° 21/27 · Genaro Masaro [?] … · Guía N° 2521 [?]",
+    "F° 19/19 · Remanente · Ramón Álvarez · Guía N° 1371 [?] · s.t. 11 × 43,30 …",
+    "F° 14/[..] · Antonio Arraiga [?] · Julia Blanco de Arraiga [?] · s.t. 13,50 × 43,30 [?] · Guía N° 1001 [?]",
+    "F° 27/933 [?] · Miguel Tomasi [?] … · Guía N° 3[..]",
+    "F° 65/933 [?] … · Juan Lorenzo [?] … · Carmen [?] … [lotes angostos, rótulos con correcciones en tinta negra]",
+    "F° 128/928 · Celestino Freggiaro · s.t. 26,40 × 43,30 = 1145 m² 20 [?] · Guía N° 2411 [?]",
+    "F° 15/916 · Remanente · Pascual Galardo [?] · s.t. 86,60 × 43,30 = 3715 m² [?] · Guía N° 2440 [?]",
+    "F° 14/916 [?] · Antonio [?] … Luis Juan Domenici [?] …",
+    "F° 14/[..] · Casimiro Pedro [?] … N. [?] Nicolás … F° 14/ … Ignacio [?] …",
+    "F° 24/934 · Luis Florentino Amitrano [?] · s.t. 25 × 43,30 [?] · Guía N° 3100 [?]",
+    "N° 13118/909 · Pedro García · s.t. 21,6 × 43,30 …",
+    "ocupado por Martín Huviedo [?] sin título",
+    "[A lápiz, en el margen E:] F° 80/934 [?]"
+   ],
+   "interpretacion": "Méndez y Álvarez (3760 m²), Municipalidad (1874,89 m², 1911), Penna, Freggiaro, Galardo [?], Amitrano [?], Pedro García y un ocupante sin título (Martín Huviedo [?])."
+  },
+  {
+   "titulo": "Vista general de la hoja 4",
+   "img": "img/v/V04/01.jpg",
+   "fuente": "IMG_1076.JPG",
+   "nota": "",
+   "lineas": [
+    "[Lápiz, ángulo NO:] 4",
+    "ESTACIÓN GILES [rótulo a lo largo del borde NO; edificio de la estación y recintos junto a las vías]",
+    "AVENIDA MORGAN · AVENIDA LUCAS SCULLY · CAMINO GENERAL [A …] [en diagonal]",
+    "[A lápiz, en un recinto entre la avenida Morgan y las vías:] Suc. Eloísa [?] Rapalo [?]",
+    "[Calles rotuladas en la vista general:] CALLE LAVALLE · AVENIDA ESPAÑA · CALLE CHACABUCO · CALLE MAIPÚ · CALLE FELIPE SANTIAGO ESPIL · CALLE RIVADAVIA · CALLE FRANCISCO SUERO · CALLE DOMINGO HIDALGO · CALLE SAAVEDRA · CALLE SARMIENTO · CALLE SAN MARTÍN · CALLE MORENO · PLAZA SAN MARTÍN · CALLE BELGRANO · CALLE GENERAL MITRE",
+    "[La franja S (manzanas entre Rivadavia y San Martín) queda en blanco: es el sector parcelado en la hoja 3]",
+    "[A lápiz, en el ángulo SO:] Hoja 3 [?]"
+   ],
+   "interpretacion": "La hoja completa con la ESTACIÓN GILES en el ángulo NO, las avenidas Morgan y Lucas Scully y el camino general; la franja S (entre Rivadavia y San Martín) queda en blanco porque se parceló en la hoja 3."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Hoja catastral 4 (vista general)",
+   "img": "img/v/V04/01.jpg",
+   "fuente": "IMG_1076.JPG (detalles IMG_1072-1075)",
+   "orientacion": "sin flecha de N; la estación y las vías en el ángulo NO",
+   "interpretacion": "Plano a tinta con rotulación técnica, doblado y reparado con cinta adhesiva en los bordes. Las parcelas llevan límites rojos, tildes y algunas correcciones a lápiz o en tinta negra (lotes reinscriptos). En la plaza Cutillas, rúbricas a lápiz.\nEstación Giles\nedificio y recintos ferroviarios en el ángulo NO\nAv. Morgan · Av. Lucas Scully\navenidas paralelas a las vías\nCamino general\nsalida del pueblo en diagonal\n1-18\nlotes numerados de la manzana junto a Lavalle",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: avenidas Morgan y Lucas Scully",
+   "img": "img/v/V04/02.jpg",
+   "fuente": "IMG_1072.JPG",
+   "orientacion": "avenidas en diagonal de O a E",
+   "interpretacion": "Las dos avenidas y la franja ferroviaria con recintos sin rotular; los Kenny y Kenny, Lucas Acuña, Ramón Gotelli (ocupante sin título) y Eugenio Rodríguez, que ocupa una calle pública.\nCalle pública\nocupada por Eugenio Rodríguez",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "La estación del ferrocarril organiza el borde N del pueblo: avenidas paralelas a las vías, un camino general que sale en diagonal y manzanas incompletas o triangulares entre el damero y la línea férrea. Hacia el E, el damero se densifica en lotes angostos (10-15 m) típicos de la expansión de 1920-1935."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Como en las otras hojas, el levantamiento registra ocupaciones sin título (Ramón Gotelli, Martín Huviedo [?]) y una calle pública ocupada (Eugenio Rodríguez). Las correcciones en tinta negra sobre algunos lotes indican puestas al día posteriores al dibujo."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Se repiten las cotas de 43,30 y 86,60 m; la manzana de la Sociedad Española, 86,60 × 86,60 = 7499,56 m² (verificado). Muchos lotes menudos sólo se leen a medias en las tomas: quedan con [?]."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Damero de 100 varas como en las hojas 1-3; las subdivisiones de 10,40-15,40 m de frente ya no responden a fracciones de vara redondas: son loteos métricos del siglo XX."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Concentración de varias parcelas en Méndez y Álvarez, Pérez y Peláez, Peláez y Carry, Eugenio Rodríguez y Pedro García; títulos del siglo XIX en Rodríguez de Cruz (1897), Ponce y Feliciana Montoto de Morales (1899). Sociedades de inmigrantes (Española de Socorros Mutuos, 1908) como propietarias."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "029, 020, 002 (Morgan); 069, 071 y el «bloque Scully» sobre el arroyo de Giles (Lucas Scully, 1249 ha); 029 (Pedro Kenny): las avenidas y los Kenny y Kenny conectan el pueblo con los grandes campos británicos e irlandeses del siglo XIX. V03 (plaza Cutillas, Monsalvo, Peláez y Carry)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Sin título ni fecha en las tomas. Lotes menudos con lecturas dudosas. ¿Desde cuándo llevan las avenidas los nombres de Morgan y Lucas Scully? ¿Qué es el recinto «Suc. Eloísa [?] Rapalo [?]» entre la avenida y las vías?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Eduardo Morgan / familia Morgan",
+   "rol": "Epónimo de la avenida",
+   "texto": "Familia británica que compró 2/3 del campo de Guerrico (029) y sucedió a Macome (002, 020). La avenida Morgan, junto a la estación, la recuerda.",
+   "fuentes": "METODO.md (Morgan)."
+  },
+  {
+   "nombre": "Lucas Scully",
+   "rol": "Epónimo de la avenida",
+   "texto": "Gran propietario irlandés sobre la desembocadura del arroyo de Giles (1249,21 ha; 069, 071) y lindero en numerosas mensuras.",
+   "fuentes": "METODO.md (Scully)."
+  },
+  {
+   "nombre": "Ana, Tomás, José Juan y Brígida María Kenny y Kenny",
+   "rol": "Propietarios",
+   "texto": "Titulares de un lote junto a la avenida Lucas Scully (N.º 14389/1906); probables descendientes de Pedro Kenny (029).",
+   "fuentes": "Este plano; METODO.md (Kenny)."
+  },
+  {
+   "nombre": "José Manuel (y Lucio) Méndez y Álvarez",
+   "rol": "Propietarios",
+   "texto": "Los mayores titulares del centro: varias parcelas en las hojas 3 y 4 (1919-1928), además de sociedades «Méndez Hnos., Ruiz y Peláez».",
+   "fuentes": "Este plano; V03."
+  },
+  {
+   "nombre": "Sociedad Española de Socorros Mutuos de San Andrés de Giles",
+   "rol": "Titular",
+   "texto": "Una manzana entera (N.º 14252 [?], F.º 18/1908).",
+   "fuentes": "Este plano."
+  },
+  {
+   "nombre": "Eugenio Rodríguez, Pedro García, Peláez y Carry, Pérez y Peláez",
+   "rol": "Propietarios",
+   "texto": "Concentran varias parcelas cerca de la estación y del centro (1906-1934).",
+   "fuentes": "Este plano."
+  }
+ ],
+ "titulo": "Catastro urbano · hoja 4",
+ "estado": "Transcripta (5 hojas, 183 renglones), 2 láminas"
+}

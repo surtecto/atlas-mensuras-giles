@@ -83,3 +83,11 @@ Ya están cargadas en `config.json` → `plataformas`: Consulta Urbanística (`C
 - a una mensura en el mapa: `…/atlas-mensuras-giles/#m57`
 - a una ficha: `…/atlas-mensuras-giles/archivo.html#f057`
 - a una sección: `archivo.html#biblioteca`, `#aportes`, `#preguntas`, `#descargas`
+
+## Varios del Archivo Histórico de Geodesia (`varios.html`)
+
+Documentos de las «Carpetas de Planos (Varios)» que no son duplicados de mensura. Los Word se llaman «Ficha Vnn - Título (año).docx» y se convierten con un script propio:
+
+`python3 tools/varios.py "RUTA\Transcripciones" V07 V08` convierte esas fichas (`data/varios/fichas/Vnn.json`, fotos en `img/v/Vnn/`), rehace el índice por temas (`data/varios/varios.json`), la capa del catastro de 1938, sus descargas en `descargas/sig/varios_*` y los PDF en `descargas/varios/`. Con `--indice` sólo rehace índice, capa y PDF; con `--sin-pdf` omite los PDF.
+
+Los temas se definen al comienzo de `tools/varios.py` (lista `TEMAS`, por patrón en el título). Las hojas catastrales se ubican por su «Guía N.º», que es la partida inmobiliaria actual (094-00NNNN en `data/parcelas_2024.json`); lo que no se puede ubicar queda como documento de consulta.
