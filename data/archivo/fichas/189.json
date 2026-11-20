@@ -1,0 +1,506 @@
+{
+ "carpeta": "189",
+ "carpeta_nombre": "Carpeta 189",
+ "archivo": "Ficha 189 - Juan José y Elina Figueroa (1923).docx",
+ "resumen": {
+  "N.º de duplicado": "189 (San Andrés de Giles); exp. D. G. C. letra F n.º 30/1923",
+  "Propietario / solicitante": "Juan José y Elina Figueroa",
+  "Agrimensor": "Alejandro N. Cagnoni",
+  "Año": "1923",
+  "Fecha de la diligencia": "Comisión 10/9/1923; mensura 12/11/1923; informe 14/2/1924; elevada 19/2/1924",
+  "Ubicación": "Arroyos de Giles y de Suero, F.C.C.A. (Est. Vagues), camino a Azcuénaga",
+  "Orden judicial": "Juez 1.ª Inst. Civil de La Plata Dr. Aramburú, secretaría n.º 1",
+  "Vendedor / antecesor": "José Domingo Figueroa ← Felipe Figueroa y Damiana San Martín (Kuhr 1857)",
+  "Linderos citados": "Mooney, Sarú, Labayen, Marini, O′Donnell, A. López, Carro Hnos., Tisseyra, I. y C. Figueroa",
+  "Medidas": "A-B 5208 m; B-C 3173; D-E 4183,90; a-b 668,20; b-c 1081; c-d 369,55",
+  "Rumbos": "N 58° 30′ E (A-B); S 32° 26′ E; N 38° 45′ O; S 46° 56′ E; N 43° 04′ E",
+  "Referencia de archivo": "AHG PBA, duplicado 189; antecedentes 25, 62, 161, 175, 179"
+ },
+ "metricas": {
+  "superficie_ha": "586,51 (3.ª 530,375 + 4.ª 56,133)",
+  "hitos": "mojones de hierro y de caño, mojones de Weigel E′ y F, estancia San Felipe, puestos",
+  "aguas": "arroyo de Giles, arroyo de Suero, confluencia; arroyo de Vagues (plano)"
+ },
+ "sintesis": "Mensura judicial de 1923 de dos de las cuatro fracciones de Juan José y Elina Figueroa, herederos de José Domingo Figueroa, a quien se adjudicó en 1857 parte del campo de Felipe Figueroa y Damiana San Martín. Cagnoni no traza: reconoce límites ya alambrados y amojonados, repone la línea A-B de Kuhr (5208 m) y la de transacción de Weigel, y releva el arroyo de Giles con una poligonal. Resultado: 3.ª fracción, 530,375 ha (estancia San Felipe, confluencia del Suero y el Giles); 4.ª, 56,133 ha. Linderos de 1923: O′Donnell bajo curatela, Labayen, Sarú, Marini, Carro Hnos. Sin protestas; Geodesia la da por bien ejecutada (febrero de 1924).",
+ "caratula": {
+  "img": "img/f/189/01.jpg",
+  "fuente": "IMG_1007.JPG",
+  "campos": [
+   [
+    "N.º",
+    "189"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Juan José Figueroa y Elina Figueroa"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Alejandro N. Cagnoni"
+   ],
+   [
+    "Mes / Año",
+    "(en blanco) / 1923"
+   ],
+   [
+    "Juzgado / Secretaría / Duplicados de referencia",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · comisión judicial y antecedentes",
+   "img": "img/f/189/06.jpg",
+   "fuente": "IMG_1009.JPG",
+   "nota": "Página suelta fotografiada acostada (se lee girada 90°). El n.º del duplicado de Kuhr quedó en blanco.",
+   "lineas": [
+    "1) [sello circular: «Foja 1»]",
+    "Diligencia de Mensura.—",
+    "Habiendo sido nombrado con fecha diez de Septiembre del corriente año 1923. por el Sr. Juez de 1ª Instancia en lo Civil de la Capital de la Provincia de Buenos Aires. Dr. Aramburú (secretaría Nº 1). para practicar la mensura de dos fracciones de campo situadas en el Partido de San Andrés de Giles, propiedad de Don Juan José Figueroa y Sta. Elina Figueroa, procedí á efectuar la operación encomendada el día doce de Noviembre del corriente, previa citación á los Sres. linderos y edictos publicados en los diarios El Boletín Oficial y La Provincia cuyos originales se acompañan á este expediente.",
+    "Para proceder á la mensura de los citados campos, hize un reconocimiento general de sus líneas límites que se encuentran amojonadas y alambradas, que fueron establecidas por los Agrimensores Kuhr y Eguía, duplicados Nos. [en blanco] y 25, años 1857 y 1858 respectivamente habiendo consultado también previamente los duplicados de mensura Nos. 62, 175 y 179 de los Agrimensores Serna, Weigel y Klappenbach, Partido de San Andrés de Giles.",
+    "Con estos antecedentes tomando por base la línea límite amojonada A. M. N. que establecieron los Sres. Kuhr y Eguía años 1857 y 1858, línea que divide la propiedad que fué de Don Guillermo"
+   ],
+   "interpretacion": "El agrimensor Alejandro N. Cagnoni es nombrado el 10 de septiembre de 1923 por el juez de 1.ª Instancia en lo Civil de la Capital de la Provincia (La Plata), Dr. Aramburú, secretaría n.º 1, para medir DOS fracciones de campo de Juan José y Elina Figueroa. Opera el 12 de noviembre de 1923, con citación de linderos y edictos en el «Boletín Oficial» y «La Provincia». Los límites ya están «amojonados y alambrados»: el agrimensor sólo los reconoce. Antecedentes citados: Kuhr 1857 (ficha 161) y Eguía 1858 (duplicado 25 = ficha 025), y los duplicados 62, 175 y 179 (Serna, Weigel y Klappenbach). Toma por base la línea A-M-N de Kuhr y Eguía, que separa lo que fue de Guillermo Mooney de lo de Figueroa."
+  },
+  {
+   "titulo": "Folio 1 vuelto · origen del campo y línea A-B",
+   "img": "img/f/189/07.jpg",
+   "fuente": "IMG_1010.JPG (mitad izquierda)",
+   "nota": "Dos entrelíneas que se salvan en f. 6 v.: «los Sres. Lavayen, Marini, Constancio Figueroa y» y «la 3.ª fracción que también se trata medir».",
+   "lineas": [
+    "Mooney hoy sus herederos y la de Don José Domingo Figueroa hoy Don Juan José y Sta. Elina Figueroa.",
+    "Esta última propiedad fué adjudicada á Don José Domingo Figueroa en la testa[mentaría] de sus finados padres Don Felipe Figueroa y Doña Damiana San Martín (mensura de Kuhr).",
+    "Para dejar establecido de una manera precisa, enfilé con banderas la línea A.B por sus esquineros A y B. y enseguida me establecí en el punto A. esquinero Sud del campo de Figueroa, arriba mencionado y N.O de la fracción de la Sra. María E. Mooney y con rumbo Norte, cincuenta y ocho grados treinta minutos Este deslindando con los campos de la Sra. de Mooney, la 4ª fracción [interlineado: los Sres. Lavayen, Marini [?], Constancio Figueroa y] de Figueroa que se trata medir, perteneciente á Don Juan José [interlineado: la 3ª fracción que también se trata medir — así lo salva la nota de f. 6 v.] y Elina Figueroa, medí la distancia total entre estos dos puntos que me resultó de Cinco mil doscientos ocho metros (5196 de Kuhr año 1857.).",
+    "En el trayecto de esta línea á los trescientos tres metros ochenta centímetros encontré el esquinero Norte de la fracción de Doña María E. Mooney y N.O. de la fracción 4ª que se trata medir para los Figueroa punto a.— Este esquinero a con el mojón antigüo de cañón b. y su prolongación determina la línea antigüa divisoria de los campos de Don Juan Carnero y Don Rosendo de Diós, hoy de Doña María"
+   ],
+   "interpretacion": "La fracción mayor fue adjudicada a José Domingo Figueroa en la testamentaría de sus padres Felipe Figueroa y Damiana San Martín (mensura de Kuhr). Cagnoni enfila con banderas la línea A-B (N 58° 30′ E) desde A, esquinero S del campo y NO de María E. Mooney, y la mide: 5208 m, frente a 5196 m de Kuhr (5196 m = 6000 varas: la cifra de Kuhr ya viene convertida a metros). A 303,80 m halla el esquinero a (Mooney / 4.ª fracción); el mojón antiguo de caño b y su prolongación son la línea vieja entre Juan Carnero y Rosendo de Dios."
+  },
+  {
+   "titulo": "Folio 2 · transecto de la línea A-B",
+   "img": "img/f/189/08.jpg",
+   "fuente": "IMG_1010.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "2) [sello circular: «Foja 2»]",
+    "E. Mooney y en parte, de Don Juan José y Elina Figueroa á los mil cuatrocientos veintiseis metros sesenta centímetros dejé á la derecha, siete metros quince centímetros, el esquinero del alambrado que divide la 4ª fracción citada con el campo de Don José Lavayen [?], á los dos mil ochocientos veintinueve y dos mil ochocientos cincuenta y cinco metros sesenta centímetros, cruzé los alambrados y vía del Ferro Carril Central Argentino; á los tres mil seiscientos metros del punto A mé coloqué en la intersección de la línea A.B. establecida por sus esquineros y la establecida alambrada y amojonada por el Agrimensor Weigel, como línea de transacción entre las fracciones de campo de Don Tomás Figueroa hoy sus herederos y Don José Domingo Figueroa hoy sus herederos Don Juan José y Elina Figueroa; á los tres mil novecientos [interlineado: seis] metros sesenta y cinco centímetros coloqué en la línea un mojón de hierro y cruzé por un puesto en campos de Figueroa; á los cuatro mil cuatrocientos noventa y tres metros cincuenta centímetros y cuatro mil quinientos veinticuatro metros sesenta centímetros, cruzé por alambrados de las chacras que deslindan el Camino General que conduce á los Pueblos San Antonio de Areco y San Andrés de Giles; á los cinco mil metros, dejé á la izquierda próximo á la línea un puesto de chacra en campo 1ª fracción de Figueroa, á los cinco mil doscientos"
+   ],
+   "interpretacion": "Recorrido de la línea A-B como corte del paisaje de 1923: a 1426,60 m el esquinero del alambrado de la 4.ª fracción con José Lavayen; a 2829 y 2855,60 m los alambrados y la vía del Ferrocarril Central Argentino; a 3600 m el punto E, cruce con la línea de transacción de Weigel entre Tomás Figueroa (hoy sus herederos) y José Domingo Figueroa (hoy Juan José y Elina); a 3906,65 m un mojón de hierro y un puesto; a 4493,50 y 4524,60 m los alambrados de las chacras del camino general de San Antonio de Areco a San Andrés de Giles; a 5000 m un puesto de chacra en la 1.ª fracción."
+  },
+  {
+   "titulo": "Folio 2 vuelto · mojón B y líneas a-b, b-c",
+   "img": "img/f/189/09.jpg",
+   "fuente": "IMG_1011.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "ocho metros, llegué al mojón B. esquinero S.E. de la 1ª fracción de Don Juan José y Elina Figueroa y N.E. de la 3ª fracción de los mismos y costanero de O'Donell punto correspondiente á la línea B.B' establecida con mil ochocientos setenta y seis metros veinte centímetros (2166 1/3 varas) que pertenecen á la fracción que fué adjudicada á Don José Domingo Figueroa, véase mensura del Agrimensor Kuhr y á los cinco mil doscientos doce metros veinte centímetros encontré el alambrado divisorio con campo de O'Donell.",
+    "Línea a.b. Restablecida esta línea A.B. y á fin de medir la fracción menor designada con el Nº 4. volví al punto a. y deslindando con campo de Doña María E. Mooney, medí sobre línea alambrada con rumbo Sud, cuarenta y seis grados cincuenta y seis minutos Este, la distancia de Seiscientos sesenta y ocho metros veinte centímetros hasta b. mojón antigüo de cañón.",
+    "Línea b.c. Desde el mojón b. y deslindando con línea alambrada y amojonada, con las fracciones de campo de los Sres. Juan Sarú y José Lavayen, medí con rumbo Norte, cuarenta y tres grados cuatro minutos Este, la distancia de mil ochenta y un metros hasta C. y en su trayecto, á los Cuatrocientos ochenta y seis metros encontré mojón de madera esquinero de las fracciones de Sarú y Lavayen y costanero del que se mide, este mojón se encuentra en la línea alambrada divisoria con la Calle establecida que conduce al Camino General del Pueblo"
+   ],
+   "interpretacion": "B es esquinero SE de la 1.ª fracción y NE de la 3.ª, costanero de O′Donnell; B-B′ = 1876,20 m (2166 ⅓ varas) de la fracción adjudicada a José Domingo Figueroa según Kuhr. Comienza la 4.ª fracción: a-b S 46° 56′ E 668,20 m contra María E. Mooney hasta el mojón antiguo de caño b; b-c N 43° 04′ E 1081 m contra Juan Sarú y José Lavayen, con un mojón de madera a 486 m sobre la calle que conduce al camino general del pueblo."
+  },
+  {
+   "titulo": "Folio 3 · líneas c-d y a-d: cierre de la 4.ª fracción",
+   "img": "img/f/189/10.jpg",
+   "fuente": "IMG_1011.JPG (mitad derecha)",
+   "nota": "En c-d el copista corrigió «cuarenta» por «cincuenta» (369,55 m).",
+   "lineas": [
+    "3 [sello circular: «Foja 3»]",
+    "de Giles; á los quinientos dos metros termina el ancho de la mencionada calle y continuando por el costado alambrado divisorio con Lavayen hasta los quinientos sesenta y cinco metros desde donde cruzé la calle por internarse en el campo que se mide hasta los quinientos ochenta y nueve metros y á los mil ochenta y un metros llegué al punto C donde coloqué mojón de hierro como esquinero S.E. del campo que se mide, Norte de la 1ª fracción de Lavayen y costanero de la 2ª fracción del mismo.",
+    "Línea C.d. Desde el mojón C deslindando con la 2ª fracción de Lavayen medí con rumbo Norte, cuarenta y seis grados cuarenta y seis minutos al Oeste, la distancia trescientos sesenta y nueve metros y [tachado: cuarenta; interlineado: cincuenta] y cinco centímetros y en su trayecto á los trescientos sesenta y dos metros cuarenta centímetros, dí con el poste esquinero de los alambrados divisorios de Lavayen y entrando á la calle anteriormente citada á los trescientos sesenta y nueve metros cincuenta y cinco centímetros, coloqué en la intersección con la línea A.B y la que se mide, un mojón de hierro que es esquinero N.E. de la 4ª fracción de Figueroa, costanero del de la 1ª fracción y esquinero N.O del de la 2ª fracción de Lavayen.",
+    "Línea a.d. Vuelto al mojón a de la línea A a B y deslindando con la 1ª fracción de Figueroa, con rumbo Norte cincuenta y ocho grados treinta minutos Este medí la distancia de mil ciento veintidos metros ochenta centímetros hasta el mencionado esquinero de hierro, establecido d, con lo que quedó recorrido el perímetro de la fracción 4ª perteneciente"
+   ],
+   "interpretacion": "La calle mide de 502 a 565 m y la línea vuelve a cruzarla; en c (1081 m) coloca mojón de hierro. c-d N 46° 46′ O 369,55 m contra la 2.ª fracción de Lavayen; en d, sobre la línea A-B, otro mojón de hierro. a-d N 58° 30′ E 1122,80 m (tramo de A-B). Cierre verificado en python: error 0,28 m."
+  },
+  {
+   "titulo": "Folio 3 vuelto · superficie de la 4.ª fracción; empieza la 3.ª",
+   "img": "img/f/189/11.jpg",
+   "fuente": "IMG_1012.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "á Don Juan José y Sta. Elina Figueroa.",
+    "Superficie y linderos.",
+    "La figura geométrica de esta fracción 4ª es la de un cuadrilátero irregular a.b.c.d. que encierra la superficie de Cincuenta y seis hectáreas, trece areas, veintiocho centiáreas y setenta y cuatro decímetros cuadrados y tiene por linderos en el costado N.O. la fracción 1ª de los expresados propietarios Don Juan José y Elina Figueroa; por el S.O. campo de Doña María E. Mooney; por el S.E. campo de los Sres. Juan Sarú y José Labayen y por el N.E. con la 2ª fracción de Labayen.",
+    "Mensura de la 3ª Fracción",
+    "Para medir esta fracción, me establecí en el punto B mojón esquinero N.E. de esta fracción, S.E. del de la 1ª fracción de Figueroa y costanero de Don Gregorio O'Donell y por sus esquineros B C enfilé la línea B.C.",
+    "Línea B.C. Desde B. con rumbo Sud treinta y dos grados veintiseis minutos Este y deslindando; parte con Don Gregorio O'Donnell y el resto con terreno hoy de Don Juan José Figueroa (antes O'Donnell después Alejo López), medí la distancia de tres mil ciento setenta y tres metros hasta C. mojón de hierro distante en prolongación de esta línea veinte y dos metros y sesenta centímetros del Arroyo de Giles.",
+    "En el trayecto de esta línea; á los mil cuarenta y tres metros"
+   ],
+   "interpretacion": "4.ª fracción: cuadrilátero a-b-c-d de 56 ha 13 a 28 ca 74 dm² (python: 56,130 ha). Linderos: NO la 1.ª fracción de los mismos dueños; SO María E. Mooney; SE Juan Sarú y José Labayen; NE la 2.ª fracción de Labayen. La 3.ª fracción arranca en B: línea B-C S 32° 26′ E 3173 m contra Gregorio O′Donnell y luego contra tierra de Juan José Figueroa «antes O′Donnell, después Alejo López»; C es un mojón de hierro a 22,60 m del arroyo de Giles."
+  },
+  {
+   "titulo": "Folio 4 · línea B-C y el arroyo de Giles",
+   "img": "img/f/189/12.jpg",
+   "fuente": "IMG_1012.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "4 [sello circular: «Foja 4»]",
+    "cruzé un arroyito; á mil cincuenta metros dí con la intersección del alambrado divisorio entre las fracciones de O'Donnell y Alejo López hoy Juan José Figueroa; á los mil ochocientos sesenta y cinco metros cruzé un alambrado en campo que se mide; á dos mil ciento cincuenta y dos metros cruzé por un portón de entrada al campo hoy de Figueroa; á dos mil doscientos metros cincuenta centímetros, coloqué estacón de hierro distante (7 mts) siete metros á la izquierda del alambrado divisorio establecido; á dos mil doscientos cincuenta metros levanté ordenada á la izquierda hasta la población de López hoy de Figueroa, distante unos ciento cincuenta metros de la línea; á los dos mil seiscientos cincuenta metros cruzé el alambrado y camino General á Giles y Estación Azcuénaga á (2825) dos mil ochocientos veinticinco metros, dejé á la derecha próximo á la línea la población principal de esta 3ª fracción Estancia San Felipe y á los tres mil ciento setenta y tres metros llegué al mojón de hierro C.",
+    "Relevamiento del Arroyo de Giles costado Sud Este de esta 3ª Fracción.",
+    "Establecido en C con rumbo Sud diez y ocho grados veintidos minutos Oeste, medí ciento sesenta y siete metros y cincuenta centímetros hasta m y en su trayecto á los veintiocho metros cruzé el arroyo de Suero que se interna en campo que se mide; y vuelto al punto C con el fin de relevar con mayor exactitud la sinuosidad del arroyo en este límite, con"
+   ],
+   "interpretacion": "Transecto de B-C: un arroyito; el alambrado O′Donnell / Alejo López; un portón de entrada; un estacón de hierro; la población de López (hoy Figueroa) a unos 150 m; el camino general a Giles y a la Estación Azcuénaga (2650 m); la «población principal» de la 3.ª fracción, ESTANCIA SAN FELIPE (2825 m, nombre que recuerda a Felipe Figueroa), y el mojón C (3173 m). Empieza el relevamiento del arroyo de Giles: C-m S 18° 22′ O 167,50 m, cruzando el arroyo de Suero."
+  },
+  {
+   "titulo": "Folio 4 vuelto · confluencia de los arroyos de Suero y Giles",
+   "img": "img/f/189/13.jpg",
+   "fuente": "IMG_1013.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "un ángulo de ciento cincuenta y dos grados treinta minutos formado con la línea B C, medí ciento catorce metros ochenta centímetros hasta h borde del arroyo de Giles y en su trayecto á los veintidos metros levanté perpendicular á la izquierda de siete metros hasta la intersección de los dos Arroyos, de Suero y Giles; á los veintitres metros cuarenta centímetros cruzé el arroyo de Suero; á los ochenta y tres metros ordenada á la izquierda de cuatro metros treinta centímetros hasta el arroyo de Giles, y desde h con un ángulo de ciento veinte grados treinta y siete minutos medí hasta el punto m anteriormente citado setenta y siete metros treinta centímetros y en su trayecto á los veinte metros cincuenta y cinco y sesenta y cuatro metros levanté respectivamente perpendiculares al arroyo de cinco metros treinta centímetros uno y seis metros y en el punto m siete metros.",
+    "Línea m.n. Con rumbo Sud tres grados seis minutos Este medí trescientos ochenta y nueve metros y en su trayecto; á los cincuenta metros, setenta y ocho metros y ciento veintiun metros levanté ordenadas al arroyo respectivamente de nueve metros, siete y veintiocho metros; á doscientos metros pasé por el borde del arroyo hasta los doscientos setenta y cinco metros donde levanté ordenada de tres metros á los trescientos ochenta y nueve metros punto n levanté ordenada de diez y ocho metros á la izquierda hasta el borde del arroyo y prolongando esta línea m n hasta el arroyo"
+   ],
+   "interpretacion": "Con ángulos medidos desde la línea B-C (152° 30′ y 120° 37′), Cagnoni sitúa la CONFLUENCIA de los arroyos de Suero y de Giles a 7 m de su línea, mide ordenadas al cauce (5,30, 1, 6 y 7 m) y sigue: m-n S 3° 06′ E 389 m, con ordenadas de 9, 7, 28, 3 y 18 m. El límite natural se reemplaza por una poligonal de apoyo y la diferencia se calcula aparte."
+  },
+  {
+   "titulo": "Folio 5 · líneas n-o, o-p, p-D",
+   "img": "img/f/189/14.jpg",
+   "fuente": "IMG_1013.JPG (mitad derecha)",
+   "nota": "La cifra de o-p (ciento treinta y un metros) fue agregada después con tinta más oscura y se salva en f. 6 v.",
+   "lineas": [
+    "5 [sello circular: «Foja 5»]",
+    "medí sesenta y tres metros.",
+    "Línea n.o. Desde n con rumbo Sud diez y nueve grados cincuenta y un minutos Oeste, medí la línea n.o. de cuatrocientos ochenta y tres metros y en su trayecto á los cincuenta metros levanté ordenada á la izquierda de veintitres metros hasta el borde del arroyo intersección con el punto extremo de la línea anterior; á los setenta y un metros dí con el borde del arroyo y continué hasta los ciento veintinueve metros; á ciento cincuenta metros intersección con la línea alambrada divisoria entre las propiedades de Carro Hnos. y Teresa Tisseyra margen Sud Este; á doscientos treinta metros ordenada á la izquierda hasta el arroyo de seis metros cincuenta centímetros, á cuatrocientos metros otra de cuatro metros, á cuatrocientos cincuenta otra de doce metros cincuenta centímetros y á cuatrocientos ochenta y tres metros el punto O distante un metro á la derecha del arroyo.",
+    "Línea O.P. Rumbo Sud veintiun grados diez y nueve minutos O[est]e y [agregado en tinta más oscura: ciento treinta y un metros] diez centímetros de longitud. 131,10 m.",
+    "Línea p. D. Con rumbo Sud treinta y cinco grados seis minutos Oeste y distancia trescientos sesenta y siete metros y en su trayecto á los veinticuatro metros y cincuenta metros ordenada á la izquierda hasta el arroyo respectivamente de veintitres y diez y siete metros; á ciento diez metros dí con el borde del"
+   ],
+   "interpretacion": "n-o S 19° 51′ O 483 m, cruzando a 150 m el alambrado entre Carro Hnos. y Teresa Tisseyra, en la otra margen; o-p S 21° 19′ O 131,10 m; p-D S 35° 06′ O 367 m. El arroyo corre a 1-57 m a la izquierda de la poligonal."
+  },
+  {
+   "titulo": "Folio 5 vuelto · punto D, mojón F de Weigel y línea D-E",
+   "img": "img/f/189/15.jpg",
+   "fuente": "IMG_1014.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "arroyo; á doscientos metros y doscientos setenta y cinco ordenadas á la izquierda, al borde del arroyo con las distancias respectivamente de veintidos metros treinta centímetros y cincuenta y siete metros y á trescientos sesenta y siete metros llegué al alambrado divisorio de la propiedad que se mide y la de Don Isaac Figueroa punto D. del plano.",
+    "Este punto D. dista sesenta y cinco metros ochenta centímetros del mojón esquinero que se encuentra en el borde del arroyo Giles punto F. [?] puesto por el Agrimensor Weigel como esquinero Sud Este de la fracción de Don Isaac Figueroa y S.O. del de Don Juan José y Elina Figueroa en la línea de transacción establecida D.E. con lo cual queda relevado el arroyo de Giles en esta fracción.",
+    "Línea D.E. Desde el punto D. con rumbo Norte treinta y ocho grados cuarenta y cinco m[inu]tos Oeste y deslindando con campo de los Sres. Isaac y Constancio Figueroa, medí la distancia de cuatro mil ciento ochenta y tres metros noventa centímetros hasta E. intersección con la línea A.B. ya descripta y en su trayecto á mil trescientos noventa y ocho metros veinte centímetros, cruzé el borde del Arroyo de Suero que se extiende á ambos lados de la línea; á mil novecientos veinticinco metros veinte centímetros dí con una tranquera; á dos mil ciento diez metros"
+   ],
+   "interpretacion": "D, sobre el alambrado con Isaac Figueroa, está a 65,80 m del mojón F que Weigel puso a la orilla del arroyo de Giles como esquinero de la línea de transacción entre los Figueroa (ficha 175). D-E N 38° 45′ O 4183,90 m contra Isaac y Constancio Figueroa: cruza el arroyo de Suero, que «se extiende a ambos lados de la línea» (bañado), y una tranquera."
+  },
+  {
+   "titulo": "Folio 6 · cierre y superficie de la 3.ª fracción",
+   "img": "img/f/189/16.jpg",
+   "fuente": "IMG_1014.JPG (mitad derecha)",
+   "nota": "Se ve en espejo, por transparencia, el pase mecanografiado del 19/12/1923 escrito en el dorso.",
+   "lineas": [
+    "6 [sello circular: «Foja 6»]",
+    "levanté ordenada á la izquierda á la población de Isaac Figueroa distante unos ciento ochenta metros de la línea; á cuatro mil ciento sesenta y dos metros veinte centímetros dí con el mojón esquinero establecido por Weigel punto E' y queda en la intersección de los dos alambrados del campo de Don Constancio Figueroa.",
+    "Línea E.B. ya descripta en la línea A.B. su rumbo Norte cincuenta y ocho grados treinta minutos Este y su distancia mil seiscientos ocho metros, deslinde con la 1ª fracción antes mencionada. Con lo que quedó recorrido el perímetro de esta 3ª Fracción.",
+    "[Transparenta en espejo, desde el verso, el sello mecanografiado del pase: «La Plata, Diciembre 15 de 1923 / Pase a Informe a Geodesia, Fecho a la Sección Catastro a sus efectos.»]",
+    "Superficie y linderos. Esta fracción 3ª encierra, dentro de sus límites que forma un polígono irregular, la superficie total libre de Quinientos treinta hectáreas treinta y siete áreas Cincuenta c[entiáre]as y tiene por linderos por su costado N.O. la fracción 1ª de los mismos propietarios Don Juan José y Sta. Elina Figueroa, por el N.E. parte con Don Gregorio O'Donnell y el resto hasta el arroyo de Giles hoy Don Juan José Figueroa (antes O'Donnell después Alejo López) por el S.E. el Arroyo de Giles de por medio con Carro Hnos. y Teresa Tisseyra y por el S.O. los Sres. Isaac y Constancio Figueroa.",
+    "Circular de Citación y Acta. Han sido firmado por los Sres. linderos y se acompañan á este expediente.— No hubo protestas"
+   ],
+   "interpretacion": "Ordenada a la población de Isaac Figueroa, a unos 180 m; a 4162,20 m el mojón E′ de Weigel, en el encuentro de los alambrados de Constancio Figueroa. E-B 1608 m (tramo de A-B). Superficie: 530 ha 37 a 50 ca. Linderos: NO la 1.ª fracción; NE O′Donnell y Juan José Figueroa; SE el arroyo de Giles, frente a Carro Hnos. y Teresa Tisseyra; SO Isaac y Constancio Figueroa. Circular y acta firmadas, «no hubo protestas»."
+  },
+  {
+   "titulo": "Folio 6 vuelto · fecha, salvedades y entrada en Geodesia",
+   "img": "img/f/189/17.jpg",
+   "fuente": "IMG_1015.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "[La parte superior de la página, en blanco o con el final del texto de f. 6:] Diciembre 10 de [1]923",
+    "Alejandro N. Cagnoni [firma con rúbrica]",
+    "Ent[re]l[ínea]s: los Sres. Lavayen, Marini [?], Constancio Figueroa y la 3ª fracción que también se trata medir vale— fojas 5 ciento treinta y un metros diez centímetros. vale. Cagnoni [rúbrica]",
+    "[Sello oval: «Dirección General de Obras Públicas / Dirección de Geodesia y Catastro / 19 DIC 1923 / Prov. de Buenos Aires»]",
+    "[Mecanografiado:] La Plata, Diciembre 19 de 1923",
+    "Pase a informe a Geodesia, fecho a la Sección Catastro a sus efectos.— [rúbrica: S. Arce (Santiago Arce, director)]",
+    "[Manuscrito:] La Plata, Diciembre 20 de 1923. Informe el Agrimensor Don Leandro A. Castro. Arturo A. Cand[...] [?] [firma]",
+    "[Mecanografiado:] Señor Inspector técnico de 1ª:",
+    "El subscripto ha estudiado la mensura judicial practicada por el Agrimensor Alejandro Cagnoni de dos fracciones de campo de propiedad de doña Juana Elina y don [interlineado: Juan] José Julio Figueroa, ubicadas en el Partido de San Andrés de Giles.—"
+   ],
+   "interpretacion": "Firma de Cagnoni (10/12/1923) y salvedad de las entrelíneas. Sello de la Dirección de Geodesia y Catastro (Dirección General de Obras Públicas) del 19/12/1923; pase a informe firmado por S. Arce; el 20/12/1923 Arturo A. Cano [?] encarga el informe al agrimensor Leandro A. Castro. Comienza el informe al «Señor Inspector técnico de 1.ª»: los titulares aparecen como doña Juana Elina y don Juan José Julio Figueroa."
+  },
+  {
+   "titulo": "Folio 7 · informe técnico: títulos frente a mensura",
+   "img": "img/f/189/18.jpg",
+   "fuente": "IMG_1015.JPG (mitad derecha)",
+   "nota": "",
+   "lineas": [
+    "[Mecanografiado] Exp. letra F – nº 30 año 1923.— [sello circular: «Foja 7»]",
+    "La superficie y linderos de estas fracciones según los títulos son los siguientes: la denominada 4ª fracción en el plano, tiene una superficie de cincuenta y seis hectáreas, catorce áreas, treinta y cuatro centiáreas (56 hs. 14 as. 34 cs.) y linda al N.O. con mas campo de doña Juana Elina y de don Juan José Julio Figueroa; al S.E. con Juan Sarú y José Labayen; al N.E. con Marini e hijos; y al S.O. con Margarita Mooney.—",
+    "La denominada 3ª fracción tiene una superficie de quinientas veintiocho hectáreas, setenta y seis áreas (528 hs. 76 as.), y linda al N.O. con mas campo de doña Juana Elina y de don Juan José Julio Figueroa; al S.E. Arroyo Giles en medio, con Carro Hnos. y Teresa Tisseyra; al N.E. con Gregorio O'Donell y Juan José Julio Figueroa (antes O'Donell, despues Alejo López); y al S.O. con los señores Isaac y Contancio Figueroa.—",
+    "a) El Agrimensor encuentra para la 4ª fracción una superficie de cincuenta y seis hectáreas, trece áreas, veintiocho centíareas con setenta y cuatro centímetros cuadrados (56 hs. 13 as. 28 cs. 74 dm²) que comparada con la que dan los títulos arroja un déficit de un área, cinco centíareas con veintiseis decímetros cuadrados (0 hs. 01 as. 05 cs. 26 dm²).—",
+    "b) Para la 3ª fracción el Agrimensor encuentra una superficie de quinientas treinta hectáreas, treinta y siete áreas, cincuenta centíareas (530 hs. 37 as. 50 cs.) que comparada con la que le asignan los títulos de propiedad arroja un excedente de una hetárea, sesenta y una áreas, cincuenta centíareas (1 hs. 61 as. 50 cs.)",
+    "c) La circular de linderos fué firmada por los siguientes linderos: Patricio E. Whelan, como curador de Gregorio O'Donnell; Juan Sarú, Pío Labayen; Augusto Sillon, por la Sucesión de Augusto Sillon; Isaac Figueroa Morales por sí y en representación de don Contancio Figueroa.—",
+    "d) El acta de conformidad fué firmada por don Patricio Whelan como curador de Gregorio O'Donnell; Pío Labayen en representación de José A. Labayen; María E. Mooney; Isaac Figueroa Mo-"
+   ],
+   "interpretacion": "«Exp. letra F – n.º 30 año 1923». Según los títulos, la 4.ª fracción tiene 56 ha 14 a 34 ca (linda con Juan Sarú, José Labayen, Marini e hijos y Margarita Mooney) y la 3.ª 528 ha 76 a. La mensura da 56,1329 ha (déficit de 1 a 5 ca 26 dm²) y 530,3750 ha (excedente de 1 ha 61 a 50 ca: 0,31 %). Firmaron la circular Patricio E. Whelan (curador de Gregorio O′Donnell), Juan Sarú, Pío Labayen, Augusto Sillon por la sucesión Sillon e Isaac Figueroa Morales (por sí y por Constancio); el acta, Whelan, Pío Labayen (por José A. Labayen), María E. Mooney e Isaac Figueroa Morales."
+  },
+  {
+   "titulo": "Folio 7 vuelto · dictamen y elevación al juez",
+   "img": "img/f/189/19.jpg",
+   "fuente": "IMG_1016.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "rales por sí y en representación de Contancio Figueroa.— No firmó don Augusto Sillon.—",
+    "Las observaciones hechas en los puntos a y b no afectan la validez de la operación por estar dentro de la tolerancia superficial admitida.—",
+    "La operación está geométricamente bien ejecutada y de acuerdo a las instrucciones dadas por esta Oficina, por lo tanto está en condiciones de ser aprobada.—",
+    "La Plata, Febrero 14 de 1924.— Leandro A. Castro [firma]",
+    "Señor Director: De acuerdo con el informe que antecede elevo a Vd. este expediente.— La Plata, Febrero 18 de 1924.— Arturo A. Cano [?] [firma]",
+    "Señor Juez de 1ª Instancia: De acuerdo con el informe que antecede, la presente operación de mensura practicada por el Agrimensor don Alejandro Cagnoni para don Juan José Julio Figueroa y otra de dos fracciones de terrenos ubicadas en el Partido de San Andrés de Giles, está geométricamente bien ejecutada por lo V.S. puede prestarle su aprobación.— La Plata, Febrero 19 de 1924.— Santiago Arce [firma] Director.—"
+   ],
+   "interpretacion": "No firmó Augusto Sillon. Las diferencias quedan «dentro de la tolerancia superficial admitida» y la operación está «geométricamente bien ejecutada y de acuerdo a las instrucciones dadas por esta Oficina» (Leandro A. Castro, 14/2/1924). Arturo A. Cano [?] la eleva al director (18/2/1924) y el director Santiago Arce aconseja al juez aprobarla (19/2/1924)."
+  },
+  {
+   "titulo": "Folio 8 · planilla de coordenadas de la 3.ª fracción",
+   "img": "img/f/189/20.jpg",
+   "fuente": "IMG_1016.JPG (mitad derecha)",
+   "nota": "Hoja apaisada; se reproduce girada. La planilla de la 4.ª fracción (cuadrilátero a-b-c-d), que asoma al margen de IMG_1021, no fue fotografiada.",
+   "lineas": [
+    "[sello circular: «Foja 8»] [Hoja escrita apaisada]",
+    "Planilla de Coordenadas del octógono irregular B.C.m.n.o.p.D.E. campo situado en el P[arti]do de San Andrés de Giles, perteneciente á Don Juan José Figueroa y Sta. Elina Figueroa. 12 Novbre. 1923",
+    "Columnas: ángulos medidos | Inclinación | Ángulos reducidos | cuadr[ante] | distancias medidas | Coordenadas parciales y, x | Coordenadas corregidas y, x | Iguadadas [?] y, x",
+    "E = 82°45' | 82°45' | 82°45' | 1 | 1608 m | +1595.14 | +202.93 | +1595.01 | +202.95 | +1595.01 | +202.95 | 1",
+    "B = 90°56' | 353°41' | 6°19' | 4 | 3173 | −349.11 | +3153.74 | −349.14 | +3154.14 | +1245.87 | +3357.09 | 2",
+    "C = 129°12' | 302°53' | 57°07' | 4 | 167.50 | −140.66 | +90.94 | −140.67 | +90.95 | +1105.20 | +3448.04 | 3",
+    "m = 201°28' | 324°21' | 35°39' | 4 | 389.— | −226.72 | +316.10 | −226.74 | +316.14 | +878.46 | +3764.18 | 4",
+    "n = 157°03' | 301°24' | 58°36' | 4 | 483.— | −412.26 | +251.65 | −412.30 | +251.68 | +466.16 | +4015.86 | 5",
+    "o = 178°32' | 299°56' | 60°04' | 4 | 131.10 | −113.61 | +65.42 | −113.61 | +65.43 | +352.55 | +4081.29 | 6",
+    "p = 166°13' | 286°09' | 73°51' | 4 | 367.— | −352.52 | +102.08 | −352.55 | +102.09 | ±0 | +4183.38 | 7",
+    "D = 73°51' | 180 | 0 | 2 | 4183.90 | 0 | −4183.90 | 0 | −4183.38 | 0 | ±0 | 8",
+    "Dif. + 0.26 / ½ = −0.13 ; Dif. − 1.04 / ½ − 0.52 ; Dif. 0",
+    "Superficie del octógono irregular . . 527 Hs. 65 as. 79 cas.",
+    "Sup[erfici]e entre poligonales y el cauce del arroyo Giles . . 2 Hs. 71 as. 71 cas.",
+    "superficie total . . 530 Hs. 37 as. 50 cas.",
+    "Alejandro N. Cagnoni [firma con rúbrica]"
+   ],
+   "interpretacion": "Planilla del «octógono irregular» B-C-m-n-o-p-D-E fechada el 12/11/1923: ángulos medidos, inclinaciones (acimutes), cuadrantes, coordenadas parciales, corregidas y acumuladas. Error de cierre: +0,26 en y y −1,04 en x (python, con los rumbos del texto: 1,08 m), repartido. Superficie del octógono 527 ha 65 a 79 ca + 2 ha 71 a 71 ca entre la poligonal y el cauce del arroyo de Giles = 530 ha 37 a 50 ca. Python, con las coordenadas corregidas: 527,658 ha (coincide)."
+  },
+  {
+   "titulo": "Plano · las cuatro fracciones Figueroa (10/12/1923)",
+   "img": "img/f/189/03.jpg",
+   "fuente": "IMG_1017.JPG",
+   "nota": "Vista general en IMG_1017 (invertida, aquí girada 180°); detalles en IMG_1018-1023.",
+   "lineas": [
+    "[Plano en tela, plegado, fotografiado completo en IMG_1017 (invertido) y en detalle en IMG_1018 a IMG_1023; IMG_1019 e IMG_1020 son retomas de 2013 del sector del título y del relevamiento del arroyo.]",
+    "PLANO / DE LAS FRACCIONES DE CAMPO / PERTENECIENTES A / DON JUAN JOSÉ Y STA. ELINA FIGUEROA / EN EL PARTIDO DE SAN ANDRÉS DE GILES. [Rosa de los vientos con flecha del N.] ESCALA 0,01 = 150 m. / Buenos Aires, 10 de Diciembre de 1923 / Alejandro N. Cagnoni [firma].",
+    "Recuadro: RELEVAMIENTO DEL ARROYO DE GILES / ESCALA 0,01 m = 50 m. [poligonal C–m–n–o–p–D con ordenadas al cauce: S 18°22' O 167,50; S 3°06' E = 389 m; S 19°51' O = 483 m; S 21°19' O 131,10; S 35°06' O = 367 m; D–F 65,80; N 38°45' O].",
+    "1ª FRACCIÓN / Don Juan José y Elina Figueroa / hoy sus herederos / adjudicado a Don José Domingo Figueroa en la testam[entarí]a de sus padres Don Felipe Figueroa y Doña Damiana San Martín / mensura del Agr. Kuhr. Lados: A–M S 32°20' E = 2234 m [con M sobre un arroyito]; M–B' N 58°30' E; A–B = 5208 mts. (N 58°30' E); B'–B = 1876,20 m = 2166 ⅓ v. s/mens. Agr. Kuhr.",
+    "2ª FRACCIÓN de Juan José y Elina Figueroa [junto a la Estac. Vagues del F.C.C.A., con desvío del ferrocarril, «Campo denominado del Santo», arroyo de Vagues, paso a nivel; cotas 866 m, 866 m, 1301 m].",
+    "3ª FRACCIÓN Juan José y Elina Figueroa. Sup. = 530 Hs. 37 As. 50 cas. Lados: E–B N 58°30' E 1608 m; B–C S 32°26' E = 3173 m; D–E 4183,90 / F–E = 4249,70 N 38°45' O «línea límite establecida por transacción»; tranquera; puestos; población «San Felipe» junto a C; puente y camino a San Andrés de Giles y Est. Azcuénaga; arroyo de Suero; arroyito.",
+    "4ª FRACCIÓN Juan José y Elina Figueroa. Sup. = 56 Hs. 13 As. 28 cas. 74 dm². a–b = 668,20 m S 46°56' E (b: mojón de caño); b–c N 43°04' E 1081 m (mp a 486 m, 502, 565 m, «calle que conduce al cam[ino] gral. al Pueblo de Giles»); c–d 369,55 N 46°46' O; a–d 1122,80 N 58°30' E; A–a 303,80; A–d 1426,60.",
+    "Linderos rotulados: antes Guillermo Mooney; María E. Mooney; Margarita Mooney; terreno que fue de Juan Carnero; Juan Sarú; antes Rosendo de Dios; José Labayen 1ª fracción; 2ª fracción Marini e Hijos, antes herederos de Tomás Figueroa; Constancio Figueroa; Isaac Figueroa (población de I. Figueroa); Gregorio O'Donnell; Alejo López hoy Juan José Figueroa; Carro Hnos.; Teresa Tisseyra; antes de Tomás Donoso. Cruces: F.C.C.A. (vía y alambrados a 2829 y 2855,60 m de A), camino general (4493,50 y 4524,60), puestos a 3906,65 y 5000 m.",
+    "[Anotaciones a lápiz ilegibles sobre la 3ª y la 4ª fracción; en IMG_1021 se ve, al margen, una hoja no fotografiada: «…de coordenadas del cuadrilátero irregular a.b.c.d. denominado 4ª Fracción en la mensura…».]"
+   ],
+   "interpretacion": "Plano en tela de las cuatro fracciones de Juan José y Elina Figueroa, escala 0,01 = 150 m, firmado en Buenos Aires el 10/12/1923; recuadro con el relevamiento del arroyo de Giles a 0,01 m = 50 m. Además de las dos fracciones medidas, dibuja la 1.ª (la gran fracción de Kuhr, entre A-M, el arroyito de Tomás Donoso y la vía) y la 2.ª, junto a la Estación Vagues del F.C.C.A. y al «Campo denominado del Santo», cruzada por el arroyo de Vagues."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano de las fracciones de campo de Juan José y Sta. Elina Figueroa (Cagnoni, 1923)",
+   "img": "img/f/189/03.jpg",
+   "fuente": "IMG_1017.JPG (vista general, girada 180°; detalles IMG_1018-1023)",
+   "orientacion": "flecha N en diagonal; la línea A-B (N 58° 30′ E) cruza el plano y el arroyo de Giles corre en el borde SE",
+   "interpretacion": "Plano en tela, a tinta, escala 0,01 = 150 m (1:15 000), firmado «Buenos Aires, 10 de Diciembre de 1923 · Alejandro N. Cagnoni». Es un plano de conjunto del patrimonio Figueroa: dibuja las cuatro fracciones aunque se midan sólo la 3.ª y la 4.ª. La 1.ª, la gran fracción de Kuhr, va de la línea A-M (S 32° 20′ E 2234 m, con M sobre un arroyito, frente a «antes de Tomás Donoso») a la línea A-B (5208 m); la 2.ª está junto a la ESTACIÓN VAGUES del F.C.C.A., con desvío de vía, paso a nivel, el «Campo denominado del Santo» y el arroyo de Vagues; B-B′ = 1876,20 m = 2166 ⅓ v «s/mens. Agr. Kuhr». La 3.ª (530 ha 37 a 50 ca) baja hasta el arroyo de Giles, con la estancia San Felipe y su monte junto a C, el puente y el camino a San Andrés de Giles y a la Estación Azcuénaga, el arroyo de Suero, la tranquera y la «línea límite establecida por transacción» D-E (F-E 4249,70 m). La 4.ª (56 ha 13 a 28 ca 74 dm²) es un cuadrilátero contra Mooney, Juan Carnero (antes), Sarú y Labayen. Árboles en damero marcan las poblaciones: Labayen, Isaac Figueroa, puestos.",
+   "referencias": [
+    [
+     "A",
+     "Esquinero S de la 1.ª fracción y NO de María E. Mooney; arranque de A-B"
+    ],
+    [
+     "B",
+     "Esquinero SE de la 1.ª y NE de la 3.ª fracción, costanero de O′Donnell"
+    ],
+    [
+     "B′",
+     "Extremo de B-B′ = 1876,20 m (2166 ⅓ v de Kuhr)"
+    ],
+    [
+     "C",
+     "Mojón de hierro a 22,60 m del arroyo de Giles"
+    ],
+    [
+     "m · n · o · p",
+     "Poligonal de apoyo del arroyo de Giles"
+    ],
+    [
+     "D",
+     "Encuentro con el alambrado de Isaac Figueroa"
+    ],
+    [
+     "F",
+     "Mojón de Weigel a la orilla del arroyo (D-F 65,80 m)"
+    ],
+    [
+     "E · E′",
+     "Cruce de la línea de transacción con A-B; mojón de Weigel"
+    ],
+    [
+     "a · b · c · d",
+     "4.ª fracción (b: mojón antiguo de caño)"
+    ],
+    [
+     "M",
+     "Esquina sobre el arroyito de Tomás Donoso"
+    ],
+    [
+     "F.C.C.A.",
+     "Vía principal y ramal de la Estación Vagues"
+    ],
+    [
+     "Escalas",
+     "0,01 = 150 m; recuadro del arroyo 0,01 m = 50 m"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: título del plano y relevamiento del arroyo de Giles",
+   "img": "img/f/189/04.jpg",
+   "fuente": "IMG_1019.JPG (retoma de 2013)",
+   "orientacion": "toma parcial",
+   "interpretacion": "Retoma con otra luz del sector del título («Plano de las fracciones de campo pertenecientes a Don Juan José y Sta. Elina Figueroa, en el Partido de San Andrés de Giles»), la rosa de los vientos y el recuadro «Relevamiento del arroyo de Giles, escala 0,01 m = 50 m», con la poligonal C-m-n-o-p-D, los rumbos y las ordenadas al cauce.",
+   "referencias": []
+  },
+  {
+   "titulo": "Detalle: 1.ª, 2.ª y 4.ª fracción y la línea A-B",
+   "img": "img/f/189/05.jpg",
+   "fuente": "IMG_1021.JPG (girada 180°)",
+   "orientacion": "toma parcial",
+   "interpretacion": "Detalle de la 4.ª fracción (a-b-c-d), la línea A-B con sus cotas (303,80; 1122,80; 1426,60; 2829; 2855,60; 3600; 3906,65) y la vía del F.C.C.A. Al margen derecho asoma una hoja no fotografiada: «…de coordenadas del cuadrilátero irregular a.b.c.d. denominado 4.ª Fracción en la mensura…» (la planilla de la 4.ª fracción).",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "En 1923 el campo ya está cerrado: todas las líneas son alambrados, con portones, tranqueras, estacones y mojones de hierro. La línea A-B (5,2 km) corta la vía del Ferrocarril Central Argentino, las chacras del camino general de Areco a Giles y varios puestos; la línea B-C cruza el camino a Giles y a la Estación Azcuénaga y pasa junto a la población de López y a la ESTANCIA SAN FELIPE, la casa principal de la 3.ª fracción. Al SE, el arroyo de Giles con la confluencia del arroyo de Suero, cuyo bañado «se extiende a ambos lados» de la línea D-E. El plano agrega la Estación Vagues, el ramal, el «Campo del Santo» y el arroyo de Vagues (el «arroyo de Bague» de Kuhr, ficha 161). Estancia, puestos y poblaciones de herederos componen un paisaje de subdivisión familiar sobre la red ferroviaria."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "El ritual se ha burocratizado: comisión del juez de La Plata, edictos en el «Boletín Oficial» y «La Provincia», circular y acta firmadas, «no hubo protestas». La negociación ya ocurrió antes: la línea D-E es la «línea límite establecida por transacción» que Weigel fijó en 1897 entre las ramas de Tomás y de José Domingo Figueroa (ficha 175), y Cagnoni sólo la repone desde los mojones de Weigel (E′ y F). Firman herederos e intermediarios: Patricio E. Whelan como curador de Gregorio O′Donnell, Pío Labayen por José A. Labayen, Augusto Sillon por la sucesión Sillon (que al final no firma el acta), Isaac Figueroa Morales por sí y por Constancio."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rumbos al minuto y distancias al centímetro; poligonal de apoyo para el arroyo, con ángulos medidos desde la línea B-C y ordenadas al cauce; planilla de coordenadas rectangulares con corrección del error de cierre. Verificaciones en python: 3.ª fracción, cierre de 1,08 m en 13 km de perímetro y 527,55 ha con los rumbos del texto; 527,658 ha con las coordenadas corregidas de la planilla (coincide con 527 ha 65 a 79 ca); + 2,7171 ha de faldón = 530,375 ha. 4.ª fracción: cierre de 0,28 m y 56,130 ha (texto: 56,1329). Las coordenadas parciales recalculadas coinciden con la planilla al centímetro. El plano corrige una errata aparente: la línea A-B mide 5208 m y E-B 1608 (5208 − 1608 = 3600, el punto E del f. 2)."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todo en metros y hectáreas, pero la herencia vara sobrevive: B-B′ = 1876,20 m = 2166 ⅓ varas, citada de Kuhr; y la línea A-B de Kuhr se da como 5196 m, que es exactamente 6000 varas × 0,866: la cifra de 1857 ya llega convertida. La diferencia de 12 m (0,23 %) sobre 5,2 km es la discrepancia entre la mensura de 1857 y la de 1923. Títulos y mensura difieren en −0,019 % (4.ª) y +0,31 % (3.ª), dentro de la tolerancia."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena: Tomás Figueroa (siglo XVIII) → Felipe Figueroa y Damiana San Martín → testamentaría medida por Kuhr en 1857 → José Domingo Figueroa → sus herederos Juan José (Julio) y Elina (Juana Elina) Figueroa, dueños en 1923 de cuatro fracciones. Por el NE, la tierra de Juan José ya incluye una compra ajena: «antes O′Donnell, después Alejo López». Alrededor, los Figueroa de la otra rama (Isaac Figueroa Morales y Constancio, de la línea de Juan Pío Figueroa y Trinidad Morales, ficha 175) y los herederos de Tomás, ahora «Marini e hijos». Apellidos de inmigración (Marini, Sarú, Sillon, Carro, Tisseyra, Labayen) rodean el viejo núcleo criollo."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "161 (Kuhr 1857, testamentaría de Felipe Figueroa: el antecedente cuyo n.º quedó en blanco; su nota de 1924 «exp. F 30/1923» es ESTE expediente; arroyo de Bague = arroyo y Estación Vagues); 025 (Eguía 1858, Guillermo Mooney: línea A-M-N); 062 (Serna 1872, Livia P. de Figueroa: nota al pie del 18/2/1924 del exp. F-30-1923 «Figueroa J. J. y otra – mensura», firmada por el mismo informante, Leandro A. Castro, que dictamina aquí el 14/2/1924); 175 (Weigel 1897, her. de Juan Pío Figueroa y Trinidad Morales: línea de transacción y mojones E′ y F; Isaac Figueroa Morales); 179 (Klappenbach 1898, sucesión Murray de Mooney: María y Margarita Mooney); 183 (sucesión de Nicolás O′Donnell y Elena Murtagh 1899: Gregorio O′Donnell, aquí bajo curatela de Patricio E. Whelan); 184 (Catalina Whelan); 186 (arroyos de Giles y Suero); 010 y 043 (Figueroa, margen E del arroyo de Giles; protesta de Nicolás O′Donnell)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Faltan la planilla de la 4.ª fracción (asoma en IMG_1021), la circular, el acta y los edictos «que se acompañan», y la aprobación judicial. Es la carpeta más tardía del corpus (1923-24): salta veinte años después de las de 1899-1903. ¿Por qué se mide en 1923 un campo heredado ya deslindado? Probablemente para inscribir la sucesión o vender (las fichas 161 y 062 se consultan en el mismo trámite). Por resolver: el juez «Dr. Aramburú», el firmante «Arturo A. Cano [?]» de Geodesia y la fecha de la carátula de Kuhr. Para el GIS: la estancia San Felipe, la confluencia Suero-Giles y la Estación Vagues son puntos de control excelentes."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Juan José (Julio) Figueroa y Elina (Juana Elina) Figueroa",
+   "rol": "Propietarios",
+   "texto": "Herederos de José Domingo Figueroa, dueños en 1923 de cuatro fracciones al O del arroyo de Giles, a ambos lados del F.C.C.A. Juan José había comprado además la tierra que fue de O′Donnell y luego de Alejo López. En el informe de Geodesia aparecen con sus nombres completos, «Juana Elina» y «Juan José Julio».",
+   "fuentes": "Este duplicado; fichas 062 y 161 (nota de 1924)."
+  },
+  {
+   "nombre": "José Domingo Figueroa",
+   "rol": "Antecesor",
+   "texto": "Hijo de Felipe Figueroa y Damiana San Martín; recibió en la testamentaría medida por Kuhr (1857) la fracción mayor. Su línea con la rama de Tomás Figueroa se fijó por transacción con Weigel (1897).",
+   "fuentes": "Fichas 161, 175; este duplicado."
+  },
+  {
+   "nombre": "Felipe Figueroa y Damiana San Martín",
+   "rol": "Tronco familiar",
+   "texto": "Matrimonio cuya testamentaría midió German Kuhr en mayo de 1857 (ficha 161); de ellos viene el nombre de la ESTANCIA SAN FELIPE.",
+   "fuentes": "Ficha 161; este duplicado."
+  },
+  {
+   "nombre": "Alejandro N. Cagnoni",
+   "rol": "Agrimensor",
+   "texto": "Agrimensor que firma en Buenos Aires el 10/12/1923. Primera y única aparición en el corpus. La búsqueda web no dio datos biográficos.",
+   "fuentes": "Este duplicado; búsqueda web 20/11/2026 sin resultados."
+  },
+  {
+   "nombre": "Dr. Aramburú",
+   "rol": "Juez",
+   "texto": "Juez de 1.ª Instancia en lo Civil de la Capital de la Provincia (La Plata), secretaría n.º 1, que nombra al agrimensor el 10/9/1923. Sin otros datos.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Leandro A. Castro",
+   "rol": "Agrimensor de la dirección de geodesia y catastro",
+   "texto": "Informa la mensura el 14/2/1924. La nota del 18/2/1924 en la ficha 062, leída como «Leandro [?] Lasch [?]», es casi con seguridad suya.",
+   "fuentes": "Este duplicado; ficha 062."
+  },
+  {
+   "nombre": "Arturo A. Cano [?]",
+   "rol": "Inspector técnico de geodesia",
+   "texto": "Encarga el informe (20/12/1923) y lo eleva al director (18/2/1924). Lectura del apellido dudosa.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Santiago Arce",
+   "rol": "Director de geodesia y catastro",
+   "texto": "Director de la Dirección de Geodesia y Catastro (Dirección General de Obras Públicas de la Provincia) en 1923-1924; firma el pase y el dictamen al juez. La búsqueda web no dio datos.",
+   "fuentes": "Este duplicado; búsqueda web 20/11/2026 sin resultados."
+  },
+  {
+   "nombre": "Patricio E. Whelan y Gregorio O′Donnell",
+   "rol": "Lindero ne y su curador",
+   "texto": "Gregorio O′Donnell, de la sucesión de Nicolás O′Donnell y Elena Murtagh (ficha 183), está en 1923 bajo curatela de Patricio E. Whelan, de la familia Whelan de Giles (ficha 184).",
+   "fuentes": "Fichas 183, 184; este duplicado."
+  },
+  {
+   "nombre": "Isaac Figueroa Morales y Constancio Figueroa",
+   "rol": "Linderos so",
+   "texto": "De la rama de Juan Pío Figueroa y Trinidad Morales (ficha 175); Isaac firma por sí y por Constancio. Población de Isaac a unos 180 m de la línea D-E.",
+   "fuentes": "Ficha 175; este duplicado."
+  },
+  {
+   "nombre": "María E. Mooney y Margarita Mooney",
+   "rol": "Linderas so",
+   "texto": "Herederas de Guillermo Mooney (ficha 025) y de María Murray de Mooney (ficha 179). María firma el acta; los títulos citan a Margarita.",
+   "fuentes": "Fichas 025, 179; este duplicado."
+  },
+  {
+   "nombre": "José A. Labayen y Pío Labayen",
+   "rol": "Linderos se y ne",
+   "texto": "Dueños de la 1.ª y la 2.ª fracción de Labayen (o Lavayen); Pío firma por José A. Los Labayen ya son linderos en fichas del 1890-1900.",
+   "fuentes": "METODO.md; este duplicado."
+  },
+  {
+   "nombre": "Juan Sarú, Marini e hijos, Augusto Sillon, Alejo López, Carro Hnos., Teresa Tisseyra",
+   "rol": "Otros linderos",
+   "texto": "Sarú, al SE de la 4.ª fracción; Marini e hijos, en la 2.ª fracción ex herederos de Tomás Figueroa; la sucesión de Augusto Sillon (Sillou en otras fichas), que no firma el acta; Alejo López, dueño intermedio de la tierra ex O′Donnell; Carro Hnos. y Teresa Tisseyra, en la otra margen del arroyo de Giles.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "German Kuhr, Eguía, Julio C. Serna, Emilio C. Weigel, Luis G. Klappenbach",
+   "rol": "Agrimensores antecedentes",
+   "texto": "Autores de los duplicados que Cagnoni consulta: Kuhr 1857 (161), Eguía 1858 (025), Serna 1872 (062), Weigel 1897 (175) y Klappenbach 1898 (179).",
+   "fuentes": "Fichas citadas."
+  },
+  {
+   "nombre": "Juan Carnero, Rosendo de Dios, Tomás Donoso, Guillermo Mooney",
+   "rol": "Antiguos dueños rotulados",
+   "texto": "Nombres antiguos que el plano y el texto conservan: la línea vieja entre Carnero y Rosendo de Dios, «antes de Tomás Donoso» y «antes Guillermo Mooney».",
+   "fuentes": "Este duplicado; fichas 025, 161."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/189/02.jpg",
+  "fuente": "IMG_1008.JPG",
+  "lineas": [
+   "San Andrés de Giles",
+   "189",
+   "Duplicado de la",
+   "Diligencia de mensura de dos fracciones",
+   "de campo situadas en el Partido de San Andrés",
+   "de Giles practicada en Nov.^{bre} de 1923.",
+   "Alejandro N. Cagnoni",
+   "Juan José Figueroa y Elina Figueroa."
+  ]
+ },
+ "titulo": "Juan José y Elina Figueroa",
+ "estado": "Transcripta (16 hojas, 92 renglones), 3 láminas"
+}

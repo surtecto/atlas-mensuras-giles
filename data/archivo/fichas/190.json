@@ -1,0 +1,595 @@
+{
+ "carpeta": "190",
+ "carpeta_nombre": "Carpeta 190",
+ "archivo": "Ficha 190 - Dionisio Martínez y Justo Maidana (1829).docx",
+ "resumen": {
+  "N.º de duplicado": "190 (San Andrés de Giles); antes «Mercedes N.º 1»; copia: «N.º 17 Sección Areco»",
+  "Propietario / solicitante": "Dionisio Martínez y Justo Maidana",
+  "Agrimensor": "Raymundo Prat y Vz [?] (agrimensor público)",
+  "Año": "1829",
+  "Fecha de la diligencia": "Mensura 18/10/1829; informe D. T. 21/1/1830; venta de Rosas 27/3/1838",
+  "Ubicación": "Monte de los Gallegos, cerca de la Guardia de Luján; «en el Fortín de Areco»",
+  "Orden judicial": "Comisión del Superior Gobierno (enfiteusis), no judicial",
+  "Vendedor / antecesor": "Tierra pública en enfiteusis; vendida por Rosas en 1838 (ley 10/5/1836)",
+  "Linderos citados": "I. Molina, M. Gaute, P. Bello de Leguisamón, M. Lima, J. Rodríguez, G. Aguirre",
+  "Medidas": "3245; 7200; 2100; 10490; 5000; 800; 4630 varas (heptágono)",
+  "Rumbos": "NE y NO de la aguja; SO corr. 15° [?]; NE corr. 13°; S 4° E; N 85° E (aguja)",
+  "Referencia de archivo": "AHG PBA, duplicado 190; ciclo en 054, 055, 074, 075, 153"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 4809 (1,781332 leguas² con vara de 0,866 m)",
+  "hitos": "mojones de esquina, banderas, casas de Martínez y Molina visadas, Monte de los Gallegos",
+  "aguas": "río de Luján (al SE, tras Molina); manchón dibujado junto al arranque"
+ },
+ "sintesis": "Mensura de la enfiteusis de Dionisio Martínez y Justo Maydana, hecha por Raymundo Prat el 18/10/1829 en el Monte de los Gallegos, cerca de la Guardia de Luján. Es el primer eslabón del ciclo que la ficha 054 resume: Prat arranca de la esquina de Isidoro Molina, lee el rumbo «en las trazas existentes», visa casas con un teodolito azimutal y cierra un heptágono de 1,781332 leguas² (≈ 4809 ha) entre Molina, Gaute, Bello de Leguisamón, Lima, Rodríguez y Aguirre. Aguirre no trae papeles: «mostraría sus mojones». En 1838 Rosas vende el campo a Maidana y a la viuda Dominga Garcete por 8906 pesos. El duplicado guarda el original con su plano, una copia y una copia en tela de 1875.",
+ "caratula": {
+  "img": "img/f/190/01.jpg",
+  "fuente": "IMG_1024.JPG",
+  "campos": [
+   [
+    "N.º",
+    "190"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "para los Señores Dionisio Martínez y Justo Maidana"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Prat"
+   ],
+   [
+    "Mes / Año",
+    "Octubre / 1829"
+   ],
+   [
+    "Juzgado / Secretaría / Duplicados de referencia",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Cubierta original · «Mercedes 1», Partido de Areco",
+   "img": "img/f/190/05.jpg",
+   "fuente": "IMG_1026.JPG",
+   "nota": "Hoja fotografiada acostada (se lee girada 90°). El «47 [?]» del margen superior está cortado.",
+   "lineas": [
+    "[Cubierta original del expediente; margen superior izquierdo:] 47 [?]",
+    "[Arriba a la derecha:] Mercedes / 1",
+    "[Partido] de Areco.",
+    "Mensura del Terreno",
+    "de",
+    "D.n Dionisio Martinez y",
+    "D.n Justo Maydana en el",
+    "Fortin de Areco –",
+    "practicada",
+    "por",
+    "El Agrimensor Prat",
+    "en",
+    "18 de Octubre de 1829."
+   ],
+   "interpretacion": "Carátula manuscrita del expediente original: «Mensura del terreno de D.n Dionisio Martínez y D.n Justo Maydana en el Fortín de Areco, practicada por el Agrimensor Prat en 18 de Octubre de 1829». Arriba «Mercedes / 1» y «[Partido] de Areco»: el duplicado se archivó primero en la serie de Mercedes (n.º 1, el más antiguo) y luego pasó a San Andrés de Giles como 190."
+  },
+  {
+   "titulo": "Folio 1 · arranque en el Monte de los Gallegos y primeras líneas",
+   "img": "img/f/190/06.jpg",
+   "fuente": "IMG_1027.JPG",
+   "nota": "Original. Las cifras «2100» y «7200» se fijaron con la copia (f. 4 v.) y el plano: en la letra de Prat el 1 y el 7 se parecen. «15°» de variación en el primer rumbo corregido, frente a «13°» en el segundo y 13° 30′ en la nota final: así en el original y en la copia.",
+   "lineas": [
+    "[Al margen izquierdo, rúbrica y «2» [?]; sello en seco del papel sellado y sello «Foja 1 – Dirección de Geodesia – Archivo».]",
+    "Mensura del terreno de don Dionisio Martinez y don",
+    "Justo Maidana.",
+    "A las inmediaciones de la guardia de Luxan y parage conocido con el",
+    "nombre Monte de los Gallegos, á 18 de Octubre de 1829, yo el Agrimensor publi-",
+    "co que suscribe, comisionado por el superior Gobierno, para medir el terreno que ha",
+    "sido concedido en enfiteusis á don Dionisio Martinez y don Justo Maydana",
+    "pasé al mojon del angulo O. del terreno de don Ysidoro Molina, asociado de los",
+    "interesados y linderos: acto continuo, don Ysidoro Molina presentó sus docume-",
+    "tos que se reducian simplemente á unas escrituras de venta, una de ellas de",
+    "media legua de frente al rio de Luxan y legua y media de fondo; y otra de",
+    "igual frente con el fondo hasta dar con el terreno de don Felipe Martinez, ac-",
+    "tualmente de doña Maria Gaute [?]; y habiendo ultimamente descubierto por",
+    "las trazas ecsistentes, que estos terrenos estaban medidos de N.E. á S.O. de la",
+    "aguja, puse un teodolite azimutal sobre el espresado mojon del cual despues",
+    "de haber demarcado el centro de la casa de don Dionisio Martinez al N. de la",
+    "aguja y el centro de la casa de don Romano Molina al N. 65° E. tambien",
+    "de la aguja, me dirijí al N.E. de la aguja y medí 3245 varas, con cuya",
+    "distancia llegué al costado S.O. del terreno de doña Maria Gaute, distante",
+    "835 varas al N.O. del mojon S. de dicha señora: en el punto donde se intercep-",
+    "taron ambas lineas se pusó un mojon y de él cuadré al N.O. en cuya direc-",
+    "cion medí 7200 varas y dí con el mojon del angulo O. del terreno de Gaute.",
+    "Despues pasé al mojon de arranque y al S.O. corregido de 15° [?] variacion, me-",
+    "dí 2100 varas con las que dí con el terreno de doña Pascuala Bello, viuda de",
+    "don Antonio Leguisamon, habiendo á las 300 varas atravesado el camino de la",
+    "guardia de Luxan á la de Areco: despues giré por la perpendicular al N.",
+    "O. y á la distancia de 10490 varas llegué á la linea del terreno de don",
+    "José Rodriguez; habiendo encontrado á las 6400 varas el mojon N. del ter-",
+    "reno del espresado Leguisamon, quedando apartado 500 varas al S.O. cor-",
+    "regido, el mojon E. del terreno de don Mariano Lima antes de don Juan",
+    "Pedro Baranoot [?]. En la interseccion de ambas lineas y 500 varas al N.E.",
+    "corregido del mojon del angulo S. de Rodriguez, hice poner otro y desde él",
+    "medí al N.E. corregido de 13°, como estaban los titulos de Rodriguez,",
+    "5000 varas; con las que llegué al esquinero E. del terreno de este lindero, ha-",
+    "biendo encontrado á las 3200 varas el camino de Areco. En este punto se pre-",
+    "sentó don Guillelmo Aguirre y dijo que sus espedientes se hallaban en",
+    "la Ciudad, por lo cual no podia presentarlos; pero que mostraria sus mojones",
+    "de los cuales aquel era uno: para indagar el rumbo hice poner una bandera",
+    "en el mojon del angulo O. del terreno de Aguirre y dirigido á ella el obje-",
+    "tivo del anteojo del instrumento, lo hallé al S. 4° E. de la aguja y dista[nte]"
+   ],
+   "interpretacion": "El 18/10/1829, «a las inmediaciones de la guardia de Luxan y parage conocido con el nombre Monte de los Gallegos», Raymundo Prat, comisionado por el Superior Gobierno, mide la enfiteusis de Dionisio Martínez y Justo Maydana. Arranca del mojón del ángulo O de Isidoro Molina, que exhibe dos escrituras de venta (media legua de frente al río de Luján por legua y media de fondo, y otra igual «hasta dar con» Felipe Martínez, hoy María Gaute). Descubre «por las trazas existentes» que los campos se midieron NE-SO de la aguja; pone el teodolito azimutal, visa la casa de Dionisio Martínez (N) y la de Romano Molina (N 65° E) y mide: NE 3245 v hasta el costado de Gaute (a 835 v del mojón S de ella); NO 7200 v hasta el ángulo O de Gaute; desde el arranque, SO corregido 15° [?] 2100 v hasta Pascuala Bello, viuda de Antonio Leguisamón, cruzando a 300 v el camino de la guardia de Luján a la de Areco; NO 10490 v hasta la línea de José Rodríguez (a 6400 v el mojón N de Leguisamón, y a 500 v el mojón E de Mariano Lima, antes de Juan Pedro Basanoot [?]); NE corregido 13° 5000 v «como estaban los títulos de Rodríguez», cruzando a 3200 v el camino de Areco. Allí aparece Guillermo Aguirre: sus expedientes están «en la Ciudad», pero «mostraría sus mojones»."
+  },
+  {
+   "titulo": "Folio 1 vuelto · cierre, área y venta de Rosas (1838)",
+   "img": "img/f/190/07.jpg",
+   "fuente": "IMG_1028.JPG",
+   "nota": "La firma final, en la copia, se lee claramente «Arenales».",
+   "lineas": [
+    "[dista]ba del mojon en que nos hallabamos 800 varas. Transportado á dicho esqui-",
+    "nero y con el mismo objeto hice poner una bandera en un mojon que se",
+    "hallaba como á la mitad de la linea del S. del terreno de este lindero y ha-",
+    "llé que [su] rumbo era N. 85° E. de la aguja, por él medí 4630 varas, con",
+    "cuya distancia llegué al Mojon del angulo O. del terreno de doña Maria",
+    "Gaute, quedando asi cerrada la figura.",
+    "Este terreno forma un poligono irregular de siete lados y cuya area [es]",
+    "de una legua cuadrada y setecientos ochenta y un mil trescientos [trein-]",
+    "ta y dos millonesimos de otra legua cuadrada; siendo sus linderos, [por]",
+    "el S.O. doña Pascuala Bello y don Mariano Lima; por el N.O. don [José]",
+    "Rodriguez; por el N.E. don Guillelmo Aguirre y doña Maria Gaute, [por]",
+    "el S.E. don Ysidoro Molina; cuyos linderos se citaron anticipadamente se[gun]",
+    "se deja ver de la circular inserta.",
+    "Nota. La verdadera variacion magnetica en el lugar de la operacion [es]",
+    "de 13° 30′ N.E.",
+    "Raymundo Prat y Vz [?] [rúbrica]",
+    "Enero 21 de 1830",
+    "Informe de orden ——",
+    "[Raya.]",
+    "Copia de superior decreto. — «Buenos Aires, marzo veinte y siete de mil ocho-",
+    "cientos treinta y ocho. — Visto este espediente: de conformidad con lo espues-",
+    "to por el ministerio fiscal y dictaminado por el Asesor; usando el Gobierno",
+    "de la facultad que le acuerda la ley de 10 de mayo de 1836; vende á D.n",
+    "Justo Maidana y á D.ña Dominga Garcete, viuda de D.n Dionicio Martinez,",
+    "el terreno que solicitan comprar y poseen en enfiteusis como lo acredita",
+    "la escritura testimoniada adjunta fecha 14 de abril de 1830, cuya superfi-",
+    "cie se espresa y determina en el informe del Departamento Topografico da-",
+    "tado á 28 de setiembre de 1837, por la cantidad de ocho mil noveci-",
+    "entos seis pesos, que entregarán los compradores por mitad. &.ª &.ª —",
+    "— Rosas. — Manuel Insiarte.» — Abril 17 de 1838.",
+    "Arenales [rúbrica]"
+   ],
+   "interpretacion": "Con una bandera en el mojón O de Aguirre lo halla al S 4° E de la aguja, a 800 v; desde allí, con otra bandera en un mojón «como a la mitad de la línea del S.» de Aguirre, sigue N 85° E de la aguja 4630 v hasta el ángulo O de Gaute, «quedando así cerrada la figura». Polígono irregular de siete lados de 1,781332 leguas cuadradas (≈ 4809 ha). Linderos: SO Pascuala Bello y Mariano Lima; NO José Rodríguez; NE Guillermo Aguirre y María Gaute; SE Isidoro Molina, «citados anticipadamente» por circular (no fotografiada). Variación magnética «verdadera» 13° 30′ NE. Firma «Raymundo Prat y Vz [?]». Siguen la nota del D. T. «Enero 21 de 1830 – Informe de orden» y la copia del decreto del 27/3/1838: en uso de la ley de 10 de mayo de 1836 el gobierno VENDE a Justo Maidana y a Dominga Garcete, viuda de Dionisio Martínez, el terreno que poseen en enfiteusis (escritura del 14/4/1830; superficie según informe del Departamento Topográfico del 28/9/1837) por 8906 pesos, pagaderos por mitades. Firman Rosas y Manuel Insiarte; certifica Arenales (17/4/1838)."
+  },
+  {
+   "titulo": "Folio 2 · plano original de Prat (1829)",
+   "img": "img/f/190/03.jpg",
+   "fuente": "IMG_1029.JPG",
+   "nota": "Sello «Foja 2 [?]». Ver la sección Planos.",
+   "lineas": [
+    "[Plano a pluma en la hoja siguiente al f. 1 v.; sello «Foja 2 [?] – Geodesia, Catastro y Tierras – Archivo». Orientación: flecha de «S» a «N. correg.do» (el N. corregido queda hacia el ángulo inferior derecho de la hoja).]",
+    "[Escala gráfica:] 1000 · 2000 · 3000 v.s · 6000 v.s · 12000 — Escala de dos leguas.",
+    "[Rótulos de los campos:] Leguisamon · Lima · Rodriguez · Aguirre · Gaute · Molina · Molina · Martinez y Maidana.",
+    "[Rasgos:] Rio de Luxan (línea ondulada en el extremo SE) · Camino de Areco (línea de puntos que cruza el campo y el de Rodríguez) · Monte de los Gallegos (cuadradito con signos de árboles) · Martinez (cuadradito: casa) · Arranque (mojón) · Molina (cuadradito: casa de Romano Molina [?]) · un manchón dibujado junto al mojón de arranque (¿laguna o monte?).",
+    "[Cotas:] 2100 · 3245 · 7200 · 4630 · 800 · 500 · 5000 · 10490.",
+    "[Área, en grande:] 1,781332",
+    "[Firma:] R. Prat y Vz [?] [rúbrica]",
+    "[A lápiz, letra posterior:] 6400 (sobre la línea de Leguisamón) · Guillermo [?] (junto a «Aguirre») · 9000 [?] (junto a la línea NO de Molina) · otra palabra ilegible a lápiz en el ángulo superior derecho.",
+    "[Trazos auxiliares a lápiz fino: dos líneas desde el ángulo O. de Gaute y desde el «Arranque» hacia el esquinero de Rodríguez (construcción del área). Junto al ángulo de Rodríguez/Aguirre, la cota 800.]"
+   ],
+   "interpretacion": "Plano a pluma con flecha S → «N. corregido» y escala de dos leguas (1000 a 12 000 v). El campo de Martínez y Maidana es un heptágono entre el río de Luján (al SE, tras las fajas de Molina), el camino de Areco (de puntos) y los rectángulos de Leguisamón, Lima y Rodríguez. Dentro: «Monte de los Gallegos», la casa de Martínez, el «Arranque» junto a la casa de Molina y un manchón que puede ser una laguna o un monte. Área en grande: 1,781332. A lápiz, de otra mano: «6400» y «Guillermo»."
+  },
+  {
+   "titulo": "Folio 2 · detalle del plano original",
+   "img": "img/f/190/08.jpg",
+   "fuente": "IMG_1030.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma de detalle del mismo plano (sector central): confirma las cotas 10490, 2100, 3245, 7200, 4630 y 500, el «Monte de los Gallegos», la casa de «Martinez», el «Arranque» junto a la casa de «Molina» y, a lápiz, «6400» y «Guillermo [?]».]"
+   ],
+   "interpretacion": "Toma de detalle del sector central: confirma las cotas 10490, 2100, 3245, 7200, 4630 y 500 y los rótulos del monte, las casas y el arranque."
+  },
+  {
+   "titulo": "Folio 3 · portada de la copia y nota de 1937",
+   "img": "img/f/190/09.jpg",
+   "fuente": "IMG_1031.JPG",
+   "nota": "Hoja acostada (girada 90°). La firma de la nota de 1937 es ilegible.",
+   "lineas": [
+    "[Portada de una COPIA posterior, en letra caligráfica; sello «Foja 3 – Geodesia, Catastro y Tierras – Archivo».]",
+    "N.º 17 } Sección Areco. — P.do de Giles.",
+    "[A lápiz:] Mercedes 1",
+    "[Lápiz rojo, grande:] MERCEDES N.º 1",
+    "Mensura del terreno",
+    "de",
+    "Dionisio Martinez y",
+    "Justo Maidana",
+    "en el",
+    "Fortin de Areco",
+    "practicada por",
+    "el agrimensor Prat",
+    "en",
+    "18 de Octubre de 1829",
+    "[Rúbrica ornamental.]",
+    "[Nota de 1937, a pluma, otra mano:]",
+    "La Plata, enero 15/937. —",
+    "Esta copia, permanecía suelta, según parece",
+    "desde [?] cuando se copió el hoy duplicado 190 de San",
+    "And. de Giles para el Registro Gráfico. Por",
+    "eso lo agrego [á] dicho duplicado, sin perjuicio",
+    "del original que está en el mismo [?]",
+    "[firma ilegible: «...rado» [?]]"
+   ],
+   "interpretacion": "Portada caligráfica de una COPIA: «N.º 17 · Sección Areco · P.do de Giles», con «MERCEDES N.º 1» en lápiz rojo. Nota del 15/1/1937, en La Plata: «Esta copia permanecía suelta, según parece desde cuando se copió el hoy duplicado 190 de San And. de Giles para el Registro Gráfico. Por eso la agrego a dicho duplicado, sin perjuicio del original que está en el mismo». O sea, el duplicado guarda a la vez el original de 1829 y una copia que hizo el Registro Gráfico, probablemente en 1875, el año de la copia en tela del plano."
+  },
+  {
+   "titulo": "Folio 4 · copia: arranque y primeras líneas",
+   "img": "img/f/190/10.jpg",
+   "fuente": "IMG_1032.JPG",
+   "nota": "",
+   "lineas": [
+    "[Copia posterior (s. XIX tardío [?]), letra inclinada; sello «Foja 4 – Geodesia, Catastro y Tierras – Archivo».]",
+    "Mensura del terreno de D.n Dionisio Mar-",
+    "tinez y D.n Justo Maidana. —",
+    "A las inmediaciones de la Guardia de Lujan",
+    "y paraje conocido con el nombre monte de los",
+    "Gallegos, á 18 de Octubre de 1829, yo el agrimensor",
+    "publico que suscribe, comisionado por el su-",
+    "perior Gobierno para medir el terreno que ha",
+    "sido concedido en enfiteusis á D.n Dionisio",
+    "Martinez y D.n Justo Maidana, pasé al mo-",
+    "jon del ángulo Oeste del terreno de D.n Isidoro",
+    "Molina, asociado de los interesados y linderos:",
+    "acto continuo, D.n Isidoro Molina presentó sus",
+    "documentos que se reducian simplemente",
+    "á unas escrituras de venta, una de ellas",
+    "de media legua de frente al rio de Lujan y",
+    "legua y media de fondo; y otra de igual",
+    "frente con el fondo hasta dar con el terreno",
+    "de D.n Felipe Martinez, actualmente de D.ña",
+    "Maria Gaute; y habiendo ultimamente",
+    "descubierto por las trazas existentes, que estos",
+    "terrenos estaban medidos de N.E. á S.O. de la",
+    "aguja, puse un teodolite azimutal sobre",
+    "el espresado mojon del cual despues de ha-",
+    "ber demarcado el centro de la casa de D.n",
+    "Dionisio Martinez al N. de la aguja y el",
+    "centro de la casa de D.n Romano Molina",
+    "al N. 65° E. tambien de la aguja; me dirijí al",
+    "N.E. de la aguja y medí 3245 varas, con",
+    "cuya distancia llegué al costado S.O. del",
+    "terreno de D.ña Maria Gaute distante 835 varas",
+    "al N.O. del mojon S. de dicha señora: en el"
+   ],
+   "interpretacion": "Copia, en letra de fines del siglo XIX, del texto de Prat (f. 1). Moderniza la grafía (Lujan, Isidoro, existentes) y escribe «Gaute»."
+  },
+  {
+   "titulo": "Folio 4 vuelto · copia: líneas SO, NO y NE",
+   "img": "img/f/190/11.jpg",
+   "fuente": "IMG_1033.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "punto donde interceptaron ambas lineas se",
+    "puso un mojon y de él cuadré al N.O. en",
+    "cuya direccion medí 7200 varas y dí con el",
+    "mojon del ángulo O. del terreno de Gaute.",
+    "Despues pasé al mojon de arranque y al S.O.",
+    "corregido de 15° de variacion, medí 2100 varas",
+    "con las que dí con el terreno de D.ña Pascuala",
+    "Bello, viuda de D.n Antonio Leguisamon, ha-",
+    "biendo á las 300 varas atravesado el camino de",
+    "la Guardia de Lujan á la de Areco: despues",
+    "giré por la perpendicular al N.O. y á la dis-",
+    "tancia de 10490 varas llegué á la linea del",
+    "terreno de D.n José Rodriguez; habiendo en-",
+    "contrado á las 6400 varas el mojon N. del",
+    "terreno del espresado Leguisamon, quedando",
+    "apartado 500 varas al S.O. corregido el mojon E.",
+    "del terreno de D.n Mariano Lima antes de D.n",
+    "Juan Pedro Basanoots [?]. En la interseccion",
+    "de ambas lineas y 500 varas al N.E. corregido",
+    "del mojon del angulo S. de Rodriguez, hice",
+    "poner otro y desde él medí al N.E. corregido",
+    "de 13 grados, como estaban los titulos de Rodri-",
+    "guez, 5000 varas, con las que llegué al esqui-",
+    "nero E. del terreno de este lindero, habiendo",
+    "encontrado á las 3200 varas el camino de",
+    "Areco. En este punto se presentó D.n Guillermo",
+    "Aguirre y dijo que sus espedientes se halla-",
+    "ban en la ciudad, por lo que no podia",
+    "presentarlos; pero que mostraria sus",
+    "mojones de los cuales aquel era uno: para",
+    "indagar el rumbo hice poner una bandera",
+    "en el mojon del ángulo O. del terreno"
+   ],
+   "interpretacion": "Copia de las líneas 7200, 2100, 10490 y 5000 v. Deja sin dudas las cifras 2100 y 7200 y las variaciones de 15° y 13°; escribe «Basanoots [?]» por el antiguo dueño del campo de Lima."
+  },
+  {
+   "titulo": "Folio 5 · copia: cierre, área y nota de variación",
+   "img": "img/f/190/12.jpg",
+   "fuente": "IMG_1033.JPG (mitad derecha)",
+   "nota": "Sello «Foja 5».",
+   "lineas": [
+    "[Sello «Foja 5 – Geodesia, Catastro y Tierras – Archivo».]",
+    "de Aguirre y dirijida á ella el objetivo del ante-",
+    "ojo del instrumento, lo hallé al S. 4° E. de la aguja",
+    "y distante del mojon en que nos hallabamos",
+    "800 varas. Transportado á dicho esquinero y con",
+    "el mismo objeto hice poner una bandera en",
+    "un mojon que se hallaba como á la mi-",
+    "tad de la linea del S. del terreno de este lindero",
+    "y hallé que el rumbo era N. 85° E. de la aguja,",
+    "por él medí 4630 varas, con cuya distancia",
+    "llegué al Mojon del ángulo O. del terreno de",
+    "D.ña Maria Gaute, quedando asi cerrada la",
+    "figura. —",
+    "Este terreno forma un poligono regular [sic: el original dice «irregular»] de",
+    "siete lados y cuya area es de una legua",
+    "cuadrada y setecientos ochenta y un mil",
+    "trescientos treinta y dos millonesimos",
+    "de otra legua cuadrada; siendo sus lin-",
+    "deros, por el S.O. D.ña Pascuala Bello y D.n",
+    "Mariano Lima; por el N.O. D.n José Ro-",
+    "driguez; por el N.E. D.n Guillermo Aguirre",
+    "y D.ña Maria Gaute y por el S.E. D.n Isidoro",
+    "Molina; cuyos linderos se citaron anticipa-",
+    "damente segun se deja ver en la circular",
+    "inserta. —",
+    "Nota. — La variacion magnetica en el",
+    "lugar de la operacion fué de 13° 30′ N.E.",
+    "Raimundo Prat y Vz [?] [firma copiada con su rúbrica]",
+    "Enero 21 de 1830",
+    "Informe de orden"
+   ],
+   "interpretacion": "Copia del cierre (S 4° E 800 v; N 85° E 4630 v), del área (1,781332 leguas²) y de los linderos. El copista escribe «polígono REGULAR» donde el original dice «irregular», y la nota pasa a ser «La variación magnética en el lugar de la operación fué de 13° 30′ N.E.». Copia la firma «Raimundo Prat y Vz» y la nota «Enero 21 de 1830 – Informe de orden»."
+  },
+  {
+   "titulo": "Folio 5 vuelto · copia del decreto de venta (1838)",
+   "img": "img/f/190/13.jpg",
+   "fuente": "IMG_1034.JPG",
+   "nota": "«dactado» por «datado».",
+   "lineas": [
+    "Copia de Superior decreto. — «Buenos Aires, mar-",
+    "zo veinte y siete de mil ochocientos treinta y",
+    "ocho. — Visto este espediente: de conformidad",
+    "con lo espuesto por el ministerio fiscal y dicta-",
+    "minado por el Asesor; usando el Gobierno de la",
+    "facultad que le acuerda la ley de 10 de Mayo",
+    "de 1836, vende á D.n Justo Maidana y D.ña",
+    "Dominga Garcete, viuda de D.n Dionisio Mar-",
+    "tinez, el terreno que solicitan comprar y",
+    "poseen en enfiteusis como lo acredita la",
+    "escritura testimoniada adjunta fecha 14 de",
+    "Abril de 1830, cuya superficie se espresa y deter-",
+    "mina en el informe del Departamento Topo-",
+    "gráfico dactado [sic] á 28 de Setiembre de 1837, por",
+    "la cantidad de ocho mil novecientos seis",
+    "pesos, que entregarán los compradores por",
+    "mitad &.ª &.ª",
+    "Rosas — Manuel Insiarte»",
+    "Abril 17 de 1838",
+    "Arenales",
+    "[Rúbrica ornamental del copista.]",
+    "[Página derecha (f. 6) en blanco; se transparenta una marca o sello del papel.]"
+   ],
+   "interpretacion": "Copia del decreto del 27/3/1838 (Rosas – Manuel Insiarte) y de la certificación de Arenales del 17/4/1838. La página de la derecha (f. 6) está en blanco."
+  },
+  {
+   "titulo": "Folio 6 · copia en tela del plano (1875)",
+   "img": "img/f/190/04.jpg",
+   "fuente": "IMG_1035.JPG",
+   "nota": "Ver la sección Planos.",
+   "lineas": [
+    "[Copia en tela del plano de Prat, pegada en la hoja; sello «Foja 6 – Geodesia, Catastro y Tierras – Archivo». Al pie, a lápiz grueso: «S. A. de Giles: 190».]",
+    "[Mismo dibujo que el plano original (f. 2): flecha S → N. correg.do; Rio de Lujan; campos Leguisamon · Lima · Rodriguez · Aguirre · Guillermo [Aguirre] · Gaute · Molina · Molina · Martinez y Maidana; Camino de Areco; Monte de los Gallegos; Martinez; Arranque; Molina.]",
+    "[Cotas:] 2100 · 3245 · 7200 · 4630 · 500 · 5000 · 10490.",
+    "[Área:] 1,781332",
+    "[Escala gráfica:] 1000 · 2000 · 3000 · 6000 · 12000 varas — Escala de dos leguas.",
+    "Es copia fiel",
+    "B.s A.s Agosto 9/875",
+    "E. Guyot [?] [rúbrica, dentro de un óvalo]",
+    "= R. Prat = [firma copiada]"
+   ],
+   "interpretacion": "Copia fiel del plano de Prat en tela, firmada «Es copia fiel · B.s A.s Agosto 9/875 · E. Guyot [?]», con la firma de Prat copiada («= R. Prat =»). Pasa a tinta el rótulo «Guillermo», que en el original estaba a lápiz. A lápiz grueso: «S. A. de Giles: 190»."
+  },
+  {
+   "titulo": "Folio 6 · detalle de la copia en tela",
+   "img": "img/f/190/14.jpg",
+   "fuente": "IMG_1036.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma de detalle de la copia en tela (luz rasante; la tela, muy arrugada). Sin texto nuevo.]"
+   ],
+   "interpretacion": "Toma de detalle con luz rasante; no agrega texto."
+  },
+  {
+   "titulo": "Folio 6 · detalle de la copia en tela",
+   "img": "img/f/190/14.jpg",
+   "fuente": "IMG_1037.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma de detalle del sector central de la copia en tela: «10490», «2100», «Arranque», «Molina», «3245», «Monte de los Gallegos», «Martinez», «7200», «Gaute», «4630», «5000», «Rodriguez», «Aguirre», «Guillermo»; en la copia «Aguirre» y «Guillermo» aparecen como dos rótulos separados a uno y otro lado de la línea que baja del esquinero de Rodríguez.]"
+   ],
+   "interpretacion": "Detalle del sector central. «Aguirre» y «Guillermo» quedan como dos rótulos a uno y otro lado de la línea que baja del esquinero de Rodríguez, como si fueran dos campos."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano original de la enfiteusis Martínez–Maidana (Prat, 1829)",
+   "img": "img/f/190/03.jpg",
+   "fuente": "IMG_1029.JPG (detalle en IMG_1030)",
+   "orientacion": "flecha de «S» a «N. corregido» en diagonal: el N verdadero queda hacia el ángulo inferior derecho de la hoja",
+   "interpretacion": "Plano a pluma, sin título, firmado «R. Prat y Vz [?]», con escala gráfica «de dos leguas» (1000 a 12 000 v). El campo es un heptágono: el lado SO (2100 v) y el NO (10490 v) son perpendiculares y apoyan contra los rectángulos de Leguisamón y Lima; el NE (5000 v) sigue el costado de Rodríguez, cuadrado de mayor tamaño; el quiebre de 800 v y la línea de 4630 v van contra Aguirre; el SE, quebrado (3245 + 7200 v), contra las fajas de Molina y de Gaute, que bajan hasta el río de Luján. Es el clásico parcelario de las suertes de estancia: fajas angostas perpendiculares al río y, detrás, rectángulos de fondo. El camino de Areco cruza el campo de SE a NO. Signos: el Monte de los Gallegos (cuadradito con árboles), las casas de Martínez y de Molina y el mojón de arranque; junto a éste, un manchón irregular que puede ser una laguna o un monte. Área: 1,781332. A lápiz, de una mano posterior, «6400» (la distancia al mojón N de Leguisamón), «Guillermo» junto a Aguirre y dos líneas finas de construcción del área.",
+   "referencias": [
+    [
+     "Arranque",
+     "Mojón del ángulo O de Isidoro Molina, junto a su casa"
+    ],
+    [
+     "Monte de los Gallegos",
+     "Paraje y monte, dentro del campo"
+    ],
+    [
+     "Martinez · Molina",
+     "Casas visadas desde el arranque (N y N 65° E de la aguja)"
+    ],
+    [
+     "Rio de Luxan",
+     "Borde SE, tras las fajas de Molina"
+    ]
+   ]
+  },
+  {
+   "titulo": "Copia en tela del plano de Prat (E. Guyot [?], 1875)",
+   "img": "img/f/190/04.jpg",
+   "fuente": "IMG_1035.JPG (detalles en IMG_1036-1037)",
+   "orientacion": "la misma del original",
+   "interpretacion": "Calco en tela del plano de 1829, hecho para el Registro Gráfico: «Es copia fiel · B.s A.s Agosto 9/875», firma en óvalo «E. Guyot [?]» y firma de Prat copiada («= R. Prat =»). Reproduce cotas, rótulos y área, y pasa a tinta el «Guillermo» que en el original sólo estaba a lápiz, de modo que «Aguirre» y «Guillermo» parecen dos campos distintos: un error de copia que muestra cómo el Registro Gráfico fijaba como dato las anotaciones posteriores. Al pie, a lápiz, «S. A. de Giles: 190».",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Es el paisaje más antiguo del corpus en el bloque SO del partido: en 1829 no hay alambrados ni zanjas. Hay un MONTE con nombre propio (el Monte de los Gallegos, que da nombre al paraje), casas sueltas (la de Dionisio Martínez dentro del campo, la de Romano Molina en la faja vecina), dos caminos (el de la guardia de Luján a la de Areco y el «camino de Areco») y, al fondo, el río de Luján, que ordena las fajas de los primeros pobladores. La carátula dice «en el Fortín de Areco» y el texto «a las inmediaciones de la guardia de Luxan»: el campo está entre las dos guardias de la frontera vieja, sobre el camino que las une. El manchón dibujado junto al arranque puede ser una laguna o un monte: el texto no lo nombra."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "La mensura empieza por la exhibición de títulos: Isidoro Molina, «asociado de los interesados y linderos», presenta «simplemente» dos escrituras de venta. Los linderos fueron citados «anticipadamente» por una circular (no fotografiada). Guillermo Aguirre llega en medio de la operación: sus expedientes están «en la Ciudad», pero «mostraría sus mojones», y Prat acepta ese mojón como esquina. Es la autoridad del mojón frente al papel: el lindero sin títulos a mano se impone con un hito en el suelo. Aguirre era enfiteuta desde 1826 (ficha 011), y su título también estaba en trámite. Prat usa además las «trazas existentes» de mensuras viejas para deducir el rumbo de los campos (NE-SO de la aguja): mide dentro de una cuadrícula ya trazada."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Teodolito azimutal puesto sobre el mojón de arranque; orientación por visuales a dos casas (Martínez al N de la aguja, Romano Molina al N 65° E), con banderas en los mojones ajenos para «indagar el rumbo» por el objetivo del anteojo. Prat mezcla rumbos de la aguja (las líneas contra Molina, Gaute y Aguirre) y rumbos «corregidos» (las de Leguisamón y Rodríguez, «como estaban los títulos de Rodríguez»), con 15° de corrección en un caso y 13° en otro, y declara una variación «verdadera» de 13° 30′ NE, la misma que usa en 1840 (fichas 055 y 074). Verificación en python: con los siete lados y la variación de 13° 30′ el polígono no cierra por 177 v (0,5 % del perímetro de 33 465 v), y con 15° por 172 v. El mejor cierre (≈ 100 v) sale con 14,3°, y da 1,7797 leguas², casi la cifra declarada (1,781332). Es decir: Prat mezcló las dos correcciones y compensó el área."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todo en varas y leguas cuadradas, con el área en millonésimos de legua (1,781332 = «una legua cuadrada y setecientos ochenta y un mil trescientos treinta y dos millonésimos»). Con legua de 6000 v y vara de 0,866 m, 1,781332 leguas² = 64 127 952 v² ≈ 4809 ha. La venta de 1838 se pagó 8906 pesos, unos 5000 pesos por legua cuadrada, en mitades iguales. Los títulos de Molina se expresan en leguas de frente y fondo (media legua × legua y media), la medida de las mercedes y suertes de estancia antiguas."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Enfiteusis de la ley de 1826: el Superior Gobierno comisiona la mensura, el Departamento Topográfico informa (21/1/1830) y se otorga escritura de enfiteusis (14/4/1830). Con la ley del 10 de mayo de 1836, que autorizaba la venta de las tierras en enfiteusis, el gobierno de Rosas vende el campo (27/3/1838) a Justo Maidana y a Dominga Garcete, viuda de Dionisio Martínez, en dos mitades: es el origen de las dos líneas Maydana → Colmenero (5/11/1838) y Martínez–Garcete que las fichas 054, 074 y 075 dividen en 1840, 1862 y 1869. Alrededor, los vecinos de 1829 tienen formas de tenencia distintas: Molina, con escrituras de venta antiguas; Aguirre y Rodríguez, enfiteutas; Gaute, heredera de Felipe Martínez."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "054 (Colmenero, Dillon 1869) resume el ciclo completo y da la misma área (1,781332 leguas²) y la misma fecha (18/10/1829). 074 (Ramón Colmenero, Prat, 2/1/1840) repite «inmediaciones de la Guardia de Luján, paraje denominado Monte de los Gallegos» y la variación de 13° 30′: Prat vuelve al mismo campo once años después para dividirlo. 055 (Mariano Lima, Prat, 7/1/1840) es el lindero SO-NO de 1829 («Mariano Lima antes de Juan Pedro Basanoot [?]»), con su «cuadrado de nueve mil varas»; allí firma Narciso Leguisamón por Pascuala Bello, la misma viuda de 1829. 075 (Saubidet 1862) y 153 (Kelly 1889, Monte de los Gallegos) continúan la mitad Martínez–Garcete. 011 (Guillermo Aguirre, enfiteusis de 1826) es el lindero NE sin papeles. La «María Gaute» de 1829 es probablemente la «María Gaete [?] hoy Acuña y Agüero» de 074/075. José Rodríguez es el enfiteuta cuya concesión caduca y Rosas vende a Medrano en 1837 (fichas 015 y 134)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Transcripción completa del original (f. 1, f. 1 v. y plano) y de la copia (ff. 3-5 v., plano en tela). Falta la «circular inserta» a los linderos, que no está en el duplicado. Preguntas: (1) ¿«Prat y Vz» o «Prat y Puig»? La firma de esta ficha dice «Vz» en el original y en la copia: revisar 002 y 055. (2) ¿Gaute = Gaete? (3) ¿El manchón junto al arranque es la laguna del vértice de Colmenero que aparece en 055? (4) Ubicar en GIS el Monte de los Gallegos con el arranque de Molina y el lado de 10490 v, que debería coincidir con el costado S 47° 40′ E de 11 240 v de 075 (comparar 11 240 v con los 10 490 v de Prat). (5) Identificar a E. Guyot, el dibujante de la copia de 1875."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Raymundo Prat y Vz [?]",
+   "rol": "Agrimensor público",
+   "texto": "Agrimensor del Departamento Topográfico en la época de la enfiteusis. En el corpus firma esta mensura (1829), las de Colmenero y Lima (enero de 1840; fichas 074 y 055) y la de Macome (1846; ficha 002). Usa teodolito azimutal y una variación de 13° 30′ contrastada con «la meridiana trazada en la capital». La segunda parte del apellido se lee «Vz» en esta ficha y «P[uig] [?]» en otras: queda por resolver. Una búsqueda web (10/2026) no dio datos biográficos.",
+   "fuentes": "Este duplicado; fichas 002, 054, 055, 074; METODO.md."
+  },
+  {
+   "nombre": "Dionisio Martínez",
+   "rol": "Enfiteuta",
+   "texto": "Concesionario, con Justo Maydana, de la enfiteusis del 27/11/1826 («sección topográfica de Luján»). En 1829 tiene casa dentro del campo, que Prat usa como punto de mira. Murió antes de 1837; su viuda Dominga Garcete y su hijo Juan de la Cruz Martínez piden la compra.",
+   "fuentes": "Este duplicado; ficha 054."
+  },
+  {
+   "nombre": "Justo Maidana (Maydana)",
+   "rol": "Enfiteuta y comprador",
+   "texto": "Socio de Martínez en la enfiteusis. Compra su mitad al gobierno en 1838 (Juan González es su apoderado) y la revende a Ramón Colmenero el 5/11/1838.",
+   "fuentes": "Este duplicado; ficha 054."
+  },
+  {
+   "nombre": "Dominga Garcete (Garzete) de Martínez",
+   "rol": "Compradora",
+   "texto": "Viuda de Dionisio Martínez; compra la otra mitad en 1838. Sus herederos son medidos por Saubidet en 1862 (ficha 075); el sobrante de esa mensura pasa a irlandeses (ficha 153).",
+   "fuentes": "Este duplicado; fichas 054, 075, 153."
+  },
+  {
+   "nombre": "Isidoro (Ysidoro) Molina",
+   "rol": "Lindero se y punto de arranque",
+   "texto": "Dueño de dos fajas sobre el río de Luján, compradas por escritura (media legua de frente por legua y media de fondo, y otra igual hasta el campo de Felipe Martínez). Prat lo llama «asociado de los interesados y linderos». Los Molina reaparecen en la zona (Petrona Gutiérrez de Molina, ficha 053).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Romano Molina",
+   "rol": "Vecino",
+   "texto": "Su casa es uno de los dos puntos de mira del arranque (N 65° E de la aguja). Probablemente pariente de Isidoro.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "María Gaute [?] y Felipe Martínez",
+   "rol": "Linderos ne",
+   "texto": "María Gaute es la dueña en 1829 del campo que fue de Felipe Martínez, entre Molina y la enfiteusis. Es probablemente la «María Gaete [?]» de 074 y 075, cuyo campo pasó a Acuña y Agüero.",
+   "fuentes": "Este duplicado; fichas 074, 075."
+  },
+  {
+   "nombre": "Pascuala Bello, viuda de Antonio Leguisamón",
+   "rol": "Lindera so",
+   "texto": "Dueña del rectángulo al SO, cuyo mojón N está a 6400 v sobre la línea de 10 490 v. En 1840 la representa Narciso Leguisamón en la mensura de Lima (055).",
+   "fuentes": "Este duplicado; ficha 055."
+  },
+  {
+   "nombre": "Mariano Lima y Juan Pedro Basanoot [?]",
+   "rol": "Linderos so-no",
+   "texto": "Lima es dueño del campo que antes fue de Juan Pedro Basanoot [?] (Baranoot o Basanoots en las dos lecturas). Prat lo mide el 7/1/1840 (ficha 055): un «cuadrado de nueve mil varas».",
+   "fuentes": "Este duplicado; ficha 055."
+  },
+  {
+   "nombre": "José Rodríguez",
+   "rol": "Lindero no",
+   "texto": "Enfiteuta cuyo «título» fija el rumbo NE corregido 13°. Su enfiteusis caduca y Rosas la vende a Manuel A. Medrano en 1837, y luego pasa a Echeverría (fichas 015, 134).",
+   "fuentes": "Este duplicado; fichas 015, 134."
+  },
+  {
+   "nombre": "Guillermo Aguirre",
+   "rol": "Lindero ne",
+   "texto": "Enfiteuta desde 1826 (ficha 011). Se presenta en medio de la mensura sin expedientes («se hallaban en la Ciudad») y muestra sus mojones. No pudo comprar su campo, que pasó a Pascuala Romero de Monsalvo (fichas 003, 037, 066).",
+   "fuentes": "Este duplicado; fichas 011, 003, 066."
+  },
+  {
+   "nombre": "Juan Manuel de Rosas",
+   "rol": "Gobernador",
+   "texto": "Firma el decreto de venta del 27/3/1838 según la ley del 10/5/1836, que permitía vender las tierras dadas en enfiteusis.",
+   "fuentes": "Este duplicado; ficha 054."
+  },
+  {
+   "nombre": "Manuel Insiarte",
+   "rol": "Ministro refrendante",
+   "texto": "Refrenda el decreto de venta de 1838 junto a Rosas. Funcionario del gobierno de Rosas; el cargo exacto queda por verificar (una búsqueda web no lo precisó).",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "José Arenales",
+   "rol": "Jefe del departamento topográfico",
+   "texto": "Certifica la copia del decreto el 17/4/1838. En el corpus firma informes del D. T. en 1839-1840 (fichas 018 y 055, con Salas).",
+   "fuentes": "Este duplicado; fichas 018, 055."
+  },
+  {
+   "nombre": "E. Guyot [?]",
+   "rol": "Dibujante copista (1875)",
+   "texto": "Firma, el 9/8/1875 en Buenos Aires, la copia fiel en tela del plano de Prat, hecha probablemente para el Registro Gráfico. No aparece en otras fichas, y una búsqueda web no dio resultados.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Juan de la Cruz Martínez, Juan González, Ramón Colmenero",
+   "rol": "Actores posteriores (ficha 054)",
+   "texto": "Hijo de Dionisio y Dominga, que pide la compra en 1837; apoderado de Maydana en 1838; comprador de la mitad de Maydana en 1838. No se nombran en este duplicado, pero completan el ciclo.",
+   "fuentes": "Ficha 054."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/190/02.jpg",
+  "fuente": "IMG_1025.JPG",
+  "lineas": [
+   "– Mercedes –",
+   "N.º 1 [lápiz: SAG 190]",
+   "Mensura de Dionisio",
+   "Martínez y Justo Maidana",
+   "– 1829 –",
+   "Agrimensor. Prat."
+  ]
+ },
+ "titulo": "Dionisio Martínez y Justo Maidana",
+ "estado": "Transcripta (13 hojas, 244 renglones), 2 láminas"
+}

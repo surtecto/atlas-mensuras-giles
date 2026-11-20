@@ -1,0 +1,665 @@
+{
+ "carpeta": "191",
+ "carpeta_nombre": "Carpeta 191",
+ "archivo": "Ficha 191 - Saturnino Unzué e hijos (1862).docx",
+ "resumen": {
+  "N.º de duplicado": "191 (San Andrés de Giles); antes «Mercedes 38»; «Sección Luján N.º 120» testado",
+  "Propietario / solicitante": "Saturnino Unzué é hijos",
+  "Agrimensor": "Pedro Saubidet (agrimensor público); dibujante «Brito»",
+  "Año": "1862",
+  "Fecha de la diligencia": "Pedido 7/8/1861; citación 7/8/1862; mensura desde 13/8; cierre 1/9; D. T. 22/9/1862",
+  "Ubicación": "Partido de la Villa de Mercedes (hoy SO de Giles), Monte de Ávila",
+  "Orden judicial": "Comisión del Superior Gobierno (venta de tierra pública), no judicial",
+  "Vendedor / antecesor": "El Estado; las herederas de Ramón Colmenero ceden su preferencia",
+  "Linderos citados": "Her. de Colmenero, J. M.ª Echeverría, her. de Molina (Frías), her. de D. Garcete",
+  "Medidas": "Faja de 343 × 11.238 v (297 × 9732,1 m); campo Colmenero 820/11.240/3140/11.238/2345 v",
+  "Rumbos": "N 56° 50′ E; N 47° 40′ O; S 45° 35′ O; S 47° 40′ E; N 42° 20′ E; var. 10° 35′ NE",
+  "Referencia de archivo": "AHG PBA, duplicado 191; plano «Cajón 12 – Carpeta 35 – N.º 21»; sello 612"
+ },
+ "metricas": {
+  "superficie_ha": "289,4324 (3.859.326 v²); campo Colmenero declarado 2694,0895 ha",
+  "hitos": "mojones esquineros y divisorios; visuales a poblaciones, al Monte de Ávila y a la estancia San Jacinto",
+  "aguas": "Arroyo de Monsalvo; arroyo sin nombre que cruza la faja; lagunas pintadas en los mojones"
+ },
+ "sintesis": "Mensura del sobrante que Saturnino Unzué é hijos compró al Estado en el campo de los herederos de Ramón Colmenero, la mitad que fue de Maydana en la enfiteusis de 1826 (ficha 190). Pedro Saubidet mide en agosto de 1862 todo el pentágono Colmenero y luego aparta, contra el campo de Unzué, una faja de 343 × 11.238 varas: 289,43 ha. El título valía 0,890666 leguas², justo la mitad de las 1,781332 de Prat (1829). Las herederas ceden su preferencia a Unzué; asiste el mayordomo de Bernal y Monsalvo firma a ruego. Una nota dice que dejó un sobrante igual en el campo Martínez: es la ficha 075. El Departamento Topográfico aprueba el 22/9/1862 y corrige la liquidación previa.",
+ "caratula": {
+  "img": "img/f/191/01.jpg",
+  "fuente": "IMG_1038.JPG (repetida en IMG_7474)",
+  "campos": [
+   [
+    "N.º",
+    "191"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Duplicado de la diligencia de mensura",
+    "Saturnino Unzué é hijos"
+   ],
+   [
+    "Ingeniero o agrimensor",
+    "Saubidet"
+   ],
+   [
+    "Mes / Año",
+    "(en blanco) / 1862"
+   ],
+   [
+    "Juzgado / Secretaría",
+    "(en blanco)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Folio 1 · extracto de títulos (1861-1862)",
+   "img": "img/f/191/05.jpg",
+   "fuente": "IMG_1040.JPG",
+   "nota": "Hoja fotografiada acostada (se lee girada 90°). «En cinco de Abril del mismo»: el año no se repite; por la secuencia debe ser 1862. Sello «Foja 1».",
+   "lineas": [
+    "[Sello «Geodesia y Tierras – Foja 1 – Archivo».]",
+    "Estracto de los titulos de un terreno sobrante, conce-",
+    "dido en compra á D. Saturnino Unzué é hijos,",
+    "en el Partido de la Villa de Mercedes –",
+    "En Agosto siete de mil ochocientos sesenta y uno",
+    "D. Saturnino Unzué é hijos, solicita comprar al",
+    "Gobierno un terreno sobrante entre el de su propiedad",
+    "y el de los herederos de D. Ramon Colmeneros, que",
+    "consta de ciento ochenta y cinco varas por diez mil",
+    "novecientas cincuenta de fondo.",
+    "En el mismo dia pide informe al Departamento",
+    "Topografico el Gefe de Tierras publicas –",
+    "El Departamento dice que de la area del terreno de",
+    "Colmenero, segun la mensura de mil ochocientos",
+    "cuarenta hay un eceso de setenta y cuatro mile-",
+    "simas, que es mas que lo que designa el S.r Un-",
+    "zué, que ademas no puede determinar á que lado de-",
+    "be quedar en razon de que es en toda la superficie,",
+    "é indica el Departamento se prefiera en la compra",
+    "á los herederos de Colmeneros –",
+    "El Agente Fiscal dice, que debe darsele vista á Colme-",
+    "nero –",
+    "En cinco de Abril del mismo D.a Manuela Colmenero y",
+    "D.a Maria Colmenero de Balladares con la venia de",
+    "su esposo D. Gabriel Balladares, unicas herederas de D. Ra-",
+    "mon Colmeneros, ceden á D. Saturnino Unzué é hijo los",
+    "sobrantes que resulten en el terreno de su propiedad lin-",
+    "deros al S.r Unzué –",
+    "En veintinueve de Abril del mismo, el Gobierno acepta",
+    "la propuesta de compra, de un campo en la Villa",
+    "de Mercedes que hace D. Saturnino Unzué é hijo –",
+    "En doce de Junio el Presidente del Departamento Topo-",
+    "grafico, propone al Gobierno el Agrimensor que firma",
+    "para medir este terreno. El veinticuatro es aceptada la",
+    "propuesta y el dia once de Julio se sacan los ante-"
+   ],
+   "interpretacion": "Extracto del trámite: el 7/8/1861 Saturnino Unzué é hijos pide comprar al Gobierno un sobrante «entre el de su propiedad y el de los herederos de D. Ramón Colmeneros», de 185 × 10.950 varas. El Departamento Topográfico informa que el campo Colmenero, según la mensura de 1840 (Prat, ficha 074), tiene un exceso de 74 milésimas de legua, más de lo que pide Unzué, pero repartido «en toda la superficie», y que debe preferirse en la compra a los herederos. El Agente Fiscal pide vista a Colmenero. El 5 de abril las únicas herederas, Manuela Colmenero y María Colmenero de Balladares (con venia de su esposo Gabriel Balladares), CEDEN a Unzué los sobrantes lindantes con él. El 29 de abril el Gobierno acepta la compra; el 12 y el 24 de junio se nombra al agrimensor; el 11 de julio se sacan los antecedentes."
+  },
+  {
+   "titulo": "Folio 1 vuelto · arranque en el mojón de Molina-Frías",
+   "img": "img/f/191/06.jpg",
+   "fuente": "IMG_1041.JPG (mitad izquierda)",
+   "nota": "«Garcete [?]»: la letra admite Garrete; en f. 3 v. y f. 5 se lee Garcete, como en la ficha 190.",
+   "lineas": [
+    "cedentes –",
+    "Mensura del terreno sobrante solicitado en com-",
+    "pra por D. Saturnino Unzué é hijos en el Cam-",
+    "po de los herederos de D. Ramon Colmeneros –",
+    "Estando nombrado por disposicion Superior de vein-",
+    "ticuatro de Junio del corriente, yo el Agrimensor",
+    "publico que firma, para medir y deslindar un terre-",
+    "no sobrante en el de los herederos de D. Ramon Col-",
+    "meneros, solicitado y concedido en compra al S.r D.",
+    "Saturnino Unzué é hijos, hecha la citacion de linde-",
+    "ros que original se acompaña, procedí á la mensu-",
+    "ra del todo del terreno arrancando del mojon es-",
+    "quina Oeste del terreno que fué de D. Ysidoro Mo-",
+    "lina, hoy de los herederos de D. Pastor Frias, y que",
+    "habia servido de partida en la mensura de este ter-",
+    "reno en mil ochocientos cuarenta, practicada por",
+    "el Agrimensor Prat, cuyo mojon fué determinado",
+    "por las visuales: Sud cuatro grados veinticinco mi-",
+    "nutos Este y Sud cuarenta y cinco grados treinta y",
+    "cinco minutos Oeste, la primera á la poblacion de D.a",
+    "Maria Cornejo [?] de Molina y la segunda á S.n Jacinto,",
+    "Estancia de Unzué; de este punto tiré el rumbo Norte",
+    "cincuenta y seis grados cincuenta minutos Este",
+    "y deslindando con terrenos de los herederos de D.",
+    "Pastor Frias, medí la distancia de ochocientas",
+    "veinte varas igual á setecientos diez metros y",
+    "un decimetro, en donde se colocó el mojon divisorio",
+    "entre el terreno que se mide y el de los herederos de",
+    "D.a Dominga Garcete [?] de Martinez, habiendose a-",
+    "valuado [?] este mojon con las visuales al Monte de",
+    "Avila Norte setenta y siete grados veinticinco mi-",
+    "nutos Oeste; D.a Maria Cornejo [?] de Molina Sud",
+    "treinta y siete grados cinco minutos Oeste: del mo-",
+    "jon divisorio tomé el rumbo Norte cuarenta y siete"
+   ],
+   "interpretacion": "Saubidet, nombrado el 24 de junio, mide primero TODO el campo Colmenero. Arranca del mojón esquina O del terreno «que fué de D. Isidoro Molina, hoy de los herederos de D. Pastor Frías», el mismo que usó Prat en 1840, y lo identifica por dos visuales: S 4° 25′ E a la población de María Cornejo de Molina y S 45° 35′ O a San Jacinto, estancia de Unzué. Línea 1: N 56° 50′ E, 820 v = 710,1 m contra Frías, hasta el mojón divisorio con Dominga Garcete de Martínez (visuales al Monte de Ávila y a Cornejo de Molina). Empieza la línea 2, N 47° 40′ O."
+  },
+  {
+   "titulo": "Folio 2 · costados contra Martínez, Echeverría y Unzué",
+   "img": "img/f/191/07.jpg",
+   "fuente": "IMG_1041.JPG (mitad derecha)",
+   "nota": "Sello «Foja 2». El rumbo de la línea 3 se lee «Oeste [?]»; lo confirman el plano («S 45° 35′ O») y el cierre.",
+   "lineas": [
+    "[Sello «Geodesia y Tierras – Foja 2 – Archivo».]",
+    "grados cuarenta minutos Oeste y deslindando con los",
+    "herederos de D.a Dominga Garcete [?] de Martinez, llegué",
+    "con la distancia de once mil doscientas cuarenta varas,",
+    "iguales á nueve mil setecientos treinta y tres metros ocho",
+    "decimetros, á la linea de los terrenos de D. José M.a Eche-",
+    "verria, en cuyo punto se puso un mojon esquinero de",
+    "los Martinez y esquinero tambien de los herederos de",
+    "Colmeneros, de cuyo mojon se demarcó la poblacion de",
+    "D. Fernando Monsalvo Norte sesenta y ocho grados veinte",
+    "minutos Este, poblacion de D. Mariano Vernal Sud trein-",
+    "ta y dos grados treinta y cinco minutos Oeste, de aqui",
+    "seguí el rumbo Sud cuarenta y cinco grados treinta y cin-",
+    "co minutos Oeste [?], por estar así amojonada esta linea y",
+    "despues de haber medido la distancia de tres mil ciento",
+    "cuarenta varas, iguales á dos mil setecientos diez y nueve",
+    "metros dos decimetros, dí con el mojon esquinero del Cam-",
+    "po que se mide, esquinero tambien de D. Saturnino",
+    "Unzué é hijos y costanero de D. José M.a Echeverria, cu-",
+    "yo mojon se determinó con las visuales siguientes: Estan-",
+    "cia de Bernal Norte sesenta y ocho grados treinta y cin-",
+    "co minutos Este, Estancia de Avila Sud cincuenta y",
+    "seis grados cinco minutos Este; [interlineado: de este mojon tomé el rumbo Sud",
+    "cuarenta y siete grados cuarenta minutos Este] y habiendo medido la",
+    "distancia de cuatro mil quinientas noventa y seis varas",
+    "iguales á tres mil novecientos ochenta metros un deci-",
+    "metro, dí con el mojon esquinero del terreno que fué",
+    "de D.a Pascuala Bello, hoy de D. Saturnino Unzué é",
+    "hijo, seguí midiendo en la misma direccion y á las on-",
+    "ce mil doscientas treinta y ocho varas, iguales á nueve",
+    "mil setecientos treinta y dos metros un decimetro, colo-",
+    "qué un mojon esquinero del campo que se mide y",
+    "de los herederos de Molina, de cuyo mojon se demar-",
+    "có: Monte de Avila Norte veintiocho grados cuarenta",
+    "minutos Oeste; S.n Jacinto (de Unzué) Sud cuarenta y nue-",
+    "ve grados treinta y cinco minutos Oeste, de aqui giré",
+    "por la perpendicular al Norte cuarenta y dos grados"
+   ],
+   "interpretacion": "Línea 2: N 47° 40′ O 11.240 v = 9733,8 m contra Garcete de Martínez hasta la línea de José M.ª Echeverría (mojón esquinero de Martínez y Colmenero; visuales a las poblaciones de Fernando Monsalvo y Mariano Bernal). Línea 3: S 45° 35′ O, «por estar así amojonada», 3140 v = 2719,2 m hasta el esquinero de Unzué. Línea 4 (entrerrenglones): S 47° 40′ E; a 4596 v = 3980,1 m el mojón del campo que fue de Pascuala Bello, hoy Unzué; a 11.238 v = 9732,1 m el esquinero con los herederos de Molina (visuales al Monte de Ávila y a San Jacinto). Empieza la perpendicular N 42° 20′ E."
+  },
+  {
+   "titulo": "Folio 2 vuelto · pentágono, área y sobrante",
+   "img": "img/f/191/08.jpg",
+   "fuente": "IMG_1042.JPG (mitad izquierda)",
+   "nota": "Verificación en python: las cinco líneas cierran con un error de 25 v (0,09 % del perímetro), pero el área que dan es ≈ 34,98-35,01 millones de v², no 35,92: ver Metrología.",
+   "lineas": [
+    "y veinte minutos Este, y deslindando con los herederos",
+    "de Molina medí dos mil trescientas cuarenta",
+    "y cinco varas, iguales á dos mil treinta me-",
+    "tros siete decimetros, hasta el mojon de arran-",
+    "que. Así pues se determinó el terreno de los he-",
+    "rederos de D. Ramon Colmeneros, cuya figura",
+    "es la de un pentagono irregular y encierra una",
+    "superficie de treinta y cinco millones novecien-",
+    "tas veintitres mil trescientas dos varas cuadra-",
+    "das, iguales á nueve millones novecientas seten-",
+    "ta y ocho mil seiscientas noventa y cinco diez",
+    "millonesimas de legua cuadrada, iguales á dos",
+    "mil seiscientas noventa y cuatro hectareas, ocho",
+    "areas y noventa y cinco centiareas y siendo la",
+    "superficie del titulo: treinta y dos millones se-",
+    "senta y tres mil novecientas setenta y seis varas",
+    "cuadradas, resulta en favor del Estado una",
+    "superficie de tres millones ochocientas cincuenta",
+    "y nueve mil trescientas veintiseis varas cuadra-",
+    "das iguales á un millon setenta y dos mil",
+    "treinta y cinco diez millonesimas de legua cua-",
+    "drada, iguales á doscientas ochenta y nueve hecta-",
+    "reas, cuarenta y tres areas y veinticuatro centiareas,",
+    "cuya denuncia ha hecho el S.or D. Saturnino",
+    "Unzué é hijos, y como segun consta, los herederos",
+    "de D. Ramon Colmeneros han cedido al S.r Unzué",
+    "esta sobra contigua al terreno de su propiedad,",
+    "el Agrimensor que firma procedió á su deslinde",
+    "del modo siguiente: puesto en el mojon esqui-",
+    "nero antiguo de Colmeneros y costanero de Eche-",
+    "verria y esquinero tambien de D. Saturnino Unzué",
+    "é hijos, al rumbo Norte cuarenta y cinco grados",
+    "treinta y cinco minutos Este medí trescientas cua-",
+    "renta y tres varas, iguales á doscientos noventa",
+    "y siete metros y clavé el mojon esquinero que"
+   ],
+   "interpretacion": "Línea 5: N 42° 20′ E 2345 v = 2030,7 m hasta el arranque. Pentágono irregular de 35.923.302 v² (0,9978695 leguas² = 2694 ha 08 a 95 ca); el título da 32.063.976 v², exactamente la MITAD de las 1,781332 leguas² de la enfiteusis de 1829 (ficha 190). Sobrante a favor del Estado: 3.859.326 v² = 0,1072035 leguas² = 289 ha 43 a 24 ca, denunciado por Unzué y cedido por las herederas. Deslinde: desde el esquinero antiguo de Colmenero-Echeverría-Unzué, N 45° 35′ E 343 v = 297 m hasta el nuevo mojón."
+  },
+  {
+   "titulo": "Folio 3 · la faja de 343 varas",
+   "img": "img/f/191/09.jpg",
+   "fuente": "IMG_1042.JPG (mitad derecha)",
+   "nota": "Sello «Foja 3». La esquina doblada tapa letras de los dos primeros renglones. Al margen, a lápiz, otra mano repite la superficie (3.859.326 v²; 289 ha 43 a 24 ca).",
+   "lineas": [
+    "[Sello «Geodesia y Tierras – Foja 3 – Archivo»; la esquina superior derecha está doblada y tapa algunas letras.]",
+    "servirá para Colmeneros y para el sobrante que se mi-",
+    "de [?], cuyo mojon se determinó por las visuales siguien-",
+    "tes: Estancia de D. Mariano Bernal Norte setenta y nue-",
+    "ve [?] grados treinta y cinco minutos Este; Monte de Avila",
+    "Sud cincuenta y tres grados veinticinco minutos Este,",
+    "de aqui tomé el rumbo Sud cuarenta y siete grados",
+    "cuarenta minutos Este, paralelo al costado opuesto y",
+    "deslindando con los herederos de Colmeneros, medí hasta",
+    "la linea de los herederos de Molina once mil doscien-",
+    "tas treinta y ocho varas, iguales á nueve mil setecientos",
+    "treinta y dos metros un decimetro, en cuyo punto colo-",
+    "qué el mojon esquinero del terreno que se mide y que",
+    "servirá tambien de esquinero á los herederos de Colme-",
+    "neros, habiendo quedado determinado este mojon con",
+    "las visuales al Monte de Avila Norte treinta y tres gra-",
+    "dos cincuenta y cinco minutos Oeste, D.a Maria Corne-",
+    "jo Norte setenta y cinco grados treinta y cinco minu-",
+    "tos Este; de aqui giré por la perpendicular al Sud cua-",
+    "renta y dos grados veinte minutos Oeste y medí has-",
+    "ta el esquinero antiguo de Colmeneros y Molina y",
+    "costanero de Unzué trescientas cuarenta y tres varas, i-",
+    "guales á doscientos noventa y siete metros, habiendo-",
+    "se determinado este último punto con las visuales: Mon-",
+    "te de Avila Norte veintiocho grados cuarenta minutos",
+    "Oeste, S.n Jacinto (Unzué) Sud cuarenta y nueve gra-",
+    "dos treinta y cinco minutos Oeste y habiendose ya en",
+    "la mensura general medido el costado lindero con",
+    "el S.r Unzué, dí por concluida la operacion, resultan-",
+    "do el terreno medido de la figura de un trapecio",
+    "y su superficie igual á tres millones ochocientas cin-",
+    "cuenta y nueve mil trescientas veintiseis varas cua-",
+    "dradas, iguales á un millon setenta y dos mil trein-",
+    "ta y cinco diez millonesimas de legua cuadrada, i-",
+    "gual á doscientas ochenta y nueve hectareas cuaren-",
+    "ta y tres areas y veinticuatro centiareas y linda por",
+    "por el Nord Este con los terrenos de los herederos de D.",
+    "[Al margen izquierdo, a lápiz y de otra mano, con una flecha que señala el renglón de la superficie (las primeras cifras quedan en el pliegue):] [3.8]59 326 v² / [28]9 H 43 a 24 c"
+   ],
+   "interpretacion": "El nuevo mojón (visuales a la estancia de Mariano Bernal y al Monte de Ávila) servirá a Colmenero y al sobrante. Paralela S 47° 40′ E 11.238 v = 9732,1 m hasta la línea de Molina (visuales al Monte de Ávila y a María Cornejo); perpendicular S 42° 20′ O 343 v = 297 m hasta el esquinero antiguo Colmenero-Molina, costanero de Unzué. Trapecio de 3.859.326 v² = 289 ha 43 a 24 ca. Linda al NE con los herederos de Ramón Colmenero."
+  },
+  {
+   "titulo": "Folio 3 vuelto · linderos, asistentes y nota sobre Prat",
+   "img": "img/f/191/10.jpg",
+   "fuente": "IMG_1043.JPG (mitad izquierda)",
+   "nota": "",
+   "lineas": [
+    "Ramon Colmeneros, por el Nor Oeste con D. José",
+    "Maria Echeverria, con los herederos de Molina",
+    "por el Sud Este y por el Sud Oeste con D. Sa-",
+    "turnino Unzué é hijos –",
+    "Asistieron á esta operacion todos los linde-",
+    "ros, como consta de la citacion adjunta: el",
+    "S.r Echeverria y los herederos de Colmeneros fue-",
+    "ron representados por D. Mariano Bernal,",
+    "quien comisionó á su Mayordomo D. Lazaro",
+    "Otero [?]; D. Maximo Landivar [?] por los herede-",
+    "ros de D.a Dominga Garcete [?] de Martinez y",
+    "de oficio el Juez de Paz del Partido de la",
+    "Villa de Mercedes de quien fué comisionado",
+    "el Alcalde D. Gregorio Castro. No hubo pro-",
+    "testa ni observacion de ninguna clase –",
+    "Los rumbos son todos corregidos y la",
+    "variacion del instrumento con que se ha medi-",
+    "do diez grados treinta y cinco minutos Nord Este –",
+    "Nota: No habiendo mojones divisorios en-",
+    "tre los herederos de Martinez y Colmeneros, tuvo",
+    "el Agrimensor que firma que medir el todo del",
+    "antiguo terreno de Maydana y Martinez, pa-",
+    "ra determinar el sobrante concedido en compra",
+    "á D. Saturnino Unzué é hijos y como en la",
+    "primera mensura el Agrimensor Prat, dividió",
+    "en dos partes iguales, ó mas bien compraron así",
+    "al Gobierno en el año mil ochocientos treinta y",
+    "siete, así es que procediendo de igual modo ha",
+    "dejado el que firma igual sobrante en el terre-",
+    "no de Martinez, que el que ha medido para",
+    "D. Saturnino Unzué é hijos; lo anoto por delegencia [sic]",
+    "de mensura.",
+    "Entrerenglones = de este mojon tomé el rumbo Sud cuarenta",
+    "y siete grados cuarenta minutos Este = vale –",
+    "Villa de Mercedes, Setiembre primero de mil"
+   ],
+   "interpretacion": "Linderos de la faja: NE her. de Ramón Colmenero; NO José M.ª Echeverría; SE her. de Molina; SO Unzué é hijos. Asistieron todos: Echeverría y Colmenero, por Mariano Bernal, que mandó a su mayordomo Lázaro Otero [?]; Máximo Landívar [?] por los herederos de Garcete de Martínez; de oficio el alcalde Gregorio Castro, comisionado por el juez de paz de Mercedes. Sin protestas. Rumbos corregidos; variación 10° 35′ NE. NOTA: como no había mojones entre Martínez y Colmenero, midió todo el antiguo campo Maydana-Martínez; y como Prat lo dividió «en dos partes iguales, ó mas bien compraron así al Gobierno» en 1837, dejó en el campo Martínez un sobrante IGUAL al de Unzué. Fechado en la Villa de Mercedes, 1/9/1862."
+  },
+  {
+   "titulo": "Folio 4 · aprobación del Departamento Topográfico",
+   "img": "img/f/191/11.jpg",
+   "fuente": "IMG_1043.JPG (mitad derecha)",
+   "nota": "Sello «Foja 4».",
+   "lineas": [
+    "[Sello «Geodesia y Tierras – Foja 4 – Archivo».]",
+    "ochocientos sesenta y dos",
+    "Pedro Saubidet [rúbrica]",
+    "Exmo. Señor –",
+    "De la presente mensura practicada por el A-",
+    "grimensor D.n Pedro Saubidet, resulta",
+    "que el sobrante concedido en venta á D.n",
+    "Saturnino Unzué é hijos, es mayor que el",
+    "que se le habia liquidado, en trescientos trein-",
+    "ta y dos mil treinta y cinco diez millone-",
+    "simas partes de una legua cuadrada, por",
+    "lo que la espresada liquidacion debe ser",
+    "reformada. La operacion de mensura",
+    "que ha dado este resultado, el Dep.to",
+    "Top.co la considera bien ejecutada",
+    "y por lo mismo digna de la Supe-",
+    "rior Aprobacion de V. E. –",
+    "Buenos Ayres Setiembre 22/62",
+    "Saturnino Salas [rúbrica] – Mariano Moreno [rúbrica]",
+    "Ant.o E. Malaver [rúbrica]"
+   ],
+   "interpretacion": "Firma de Pedro Saubidet. Informe del Departamento Topográfico (Buenos Aires, 22/9/1862; Saturnino Salas, Mariano Moreno, Antonio E. Malaver): el sobrante es mayor que el liquidado en 332.035 diez millonésimas de legua², por lo que la liquidación «debe ser reformada»; la mensura está bien ejecutada y es digna de aprobación. La cifra cierra: 0,1072035 − 0,0332035 = 0,074, las 74 milésimas del primer informe."
+  },
+  {
+   "titulo": "Folio 5 · citación de linderos",
+   "img": "img/f/191/12.jpg",
+   "fuente": "IMG_1044.JPG",
+   "nota": "Hoja fotografiada acostada (girada 90°). Sello «Foja 5».",
+   "lineas": [
+    "[Sello «Geodesia Catastro y Tierras – Foja 5 – Archivo». Hoja de la citación de linderos, fotografiada acostada.]",
+    "[Al margen superior izquierdo:] Saubidet, Agrimensor publico –",
+    "A los S.res linderos del terreno de la propiedad de",
+    "los herederos de D. Ramon Colmeneros y de D.a Do-",
+    "minga Garcete de Martinez –",
+    "El Agrimensor publico que firma, habiendo con fe-",
+    "cha veinticuatro de Junio del corriente año recibido la",
+    "comision Superior, para medir un terreno solicita-",
+    "do en compra por el S.or D. Saturnino Unzué",
+    "é hijos, entre los mojones de los herederos de D. Ra-",
+    "mon Colmeneros y D.a Dominga Garcete de Martinez,",
+    "hace saber á V. que el dia trece del presente mes",
+    "vá á dar principio á la mensura, del mojon",
+    "esquinero Oeste del terreno que fué de D. Ysidro Mo-",
+    "lina, hoy Frias, para que pueda V., siendo lindero, con-",
+    "currir á reconocer si se sobrepasan los limites de su",
+    "propiedad. A este fin es V. invitado á asistir con",
+    "sus titulos al citado punto, si quiere acompañarnos",
+    "desde allí, ó de no, á la inmediacion de los mojo-",
+    "nes que lo dividen del terreno que se vá á medir,",
+    "indicando la casa donde nos aguardará para",
+    "pasarle aviso en tiempo oportuno. Y siendo tambien",
+    "necesario hacer constar haberse practicado esta citacion,",
+    "se servirá V. darse por notificado, poniendo su firma",
+    "al respaldo de la presente, lo que si no pudiese hacer,",
+    "será espresado por medio de testigo =",
+    "Villa de Mercedes, Agosto siete de mil ochocientos sesenta",
+    "y dos = Pedro Saubidet = V.o B.o = Adolfo M. Caldeira [?] – Sostituto",
+    "= Como Alcalde del Cuartel he presenciado la mensura,",
+    "Gregorio Castro = Como representante de los S.S. Saturnino",
+    "Unzué é hijo – Mariano Brantes [?] = A ruego y como",
+    "testigo de D. Fernando Monsalvo, Gil M. Tapia –",
+    "Como encargado del S.or D. Mariano Bernal, Laz[aro Otero] [continúa en el f. 5 vta., que no fue fotografiado]"
+   ],
+   "interpretacion": "Circular del 7/8/1862 a los linderos de Colmenero y de Garcete de Martínez: la mensura empezará «el día trece del presente mes» en el mojón O de Molina, hoy Frías; se invita a concurrir con los títulos o a esperar junto a los mojones, «indicando la casa donde nos aguardará», y a firmar al respaldo o por testigo. Visto bueno de Adolfo M. Caldeira [?], juez sustituto; firmas del alcalde Gregorio Castro, de Mariano Brantes [?] por Unzué, de Gil M. Tapia a ruego de Fernando Monsalvo, que no sabía firmar, y del encargado de Mariano Bernal («Láz[aro]…»). Sigue en el f. 5 v., que no fue fotografiado."
+  },
+  {
+   "titulo": "Folio 6 · plano en papel de calco",
+   "img": "img/f/191/03.jpg",
+   "fuente": "IMG_1045.JPG",
+   "nota": "Las tomas IMG_7476-7479 repiten este calco con otra luz. Ver la sección Planos.",
+   "lineas": [
+    "[Plano a pluma en papel de calco, con doble filete negro. Arriba a la derecha:]",
+    "Plano Topografico",
+    "de un terreno sobrante solicitado en compra",
+    "al Superior Gobierno",
+    "por D. Saturnino Unzué é hijos",
+    "Situado en el Partido de la Villa de Mercedes",
+    "Medido en el mes de Agosto de 1862",
+    "Por Pedro Saubidet",
+    "Brito",
+    "[Rótulos, de N a S:] Doña Maria Gaute [?] hoy Acuña y Agüero – Don Fernando Monsalvo – Arroy[o] de Monsalvo (con un afluente) – o Monsalvo – Comprado por Monsalvo y Bernal á Don José M.a Echeverria – Don José Maria Echeverria – o Pera [?] – Norte verdadero 10° 35′ N.E. (línea con flecha) – Herederos de Doña Dominga Garcete [?] de Martinez – o D.a Josefa Diaz de Martinez – o Narciso Martinez – Herederos de Don Pastor Frias – arroyo sin nombre que corta el lindero E – Moj. divisorio – Mojon de Arranque – o Castro – Herederos de Molina – o M.a Cornejo – Herederos de Don Ramon Colmeneros – [casita] Monte de Avila – o Bernal – Sobrante solicitado en compra por Don Saturnino Unzué é hijos (faja con filete rojo) – Sobrante comprado p.r D. Saturnino Unzué é hijos – Don Saturnino Unzué é hijos – arroyo con flecha que corre hacia el S y cruza la faja junto a una laguna en el mojón de Bello – Herederos de Don Mariano Lima.",
+    "[Cotas:] N 56° 50′ E 820 v = 710,1 m – N 47° 40′ O = 11240 v = 9733,8 m – S 45° 35′ O 3140 v = 2719,2 m – N 45° 35′ E 343 v [?] – S 47° 40′ E = 11238 v = 9732,1 m (dos veces, costados de la faja) – 4596 v = 3980,1 m – N 42° 20′ E = 2345 v = 2030,7 m – N 42° 20′ E 343 v 297 m. Lagunas o jagüeles pintados de azul sobre los mojones del costado Martinez/Colmeneros y en el mojón de Bello.",
+    "[Dos escalas de transversales:] Escala de 7000 [?] varas – Escala de 7000 [?] metros.",
+    "[Sellos y números modernos:] «612» en sello grande; «Cajon 27 [?] / 4»; sello «ARCHIVO … DE BUENOS AIRES»; sello redondo de foja. [Al dorso, que se transparenta:] Partido Villa de Mercedes – Plano Topografico de un terreno solicitado en compra al Superior Gobierno por D. Saturnino Unzué é hijos – Cajon 12 – Carpeta 35 – Numero 21 – 186[2] [?].",
+    "[Las tomas IMG_7476, IMG_7477 e IMG_7478 repiten este calco con otra luz y en detalle.]"
+   ],
+   "interpretacion": "Plano topográfico «Medido en el mes de Agosto de 1862 – Por Pedro Saubidet – Brito», con el bloque SO completo: Gaute [?] hoy Acuña y Agüero, Monsalvo y el Arroyo de Monsalvo, Echeverría (vendido a Monsalvo y Bernal), herederos de Garcete de Martínez (poblaciones de Josefa Díaz de Martínez y Narciso Martínez), herederos de Pastor Frías y de Molina, el campo de Colmenero con el Monte de Ávila, la faja roja del sobrante y debajo el «sobrante comprado» anterior de Unzué, y los herederos de Mariano Lima. Norte verdadero 10° 35′ NE."
+  },
+  {
+   "titulo": "Folio 7 · segundo ejemplar, en papel",
+   "img": "img/f/191/04.jpg",
+   "fuente": "IMG_1046.JPG",
+   "nota": "",
+   "lineas": [
+    "[Segundo ejemplar del mismo plano, en papel, abierto y reforzado al dorso con tiras de cinta engomada que tapan parte de los rótulos. Repite el título, los rótulos y las cotas del calco; a lápiz, de otra mano: «4.072 [?]».]"
+   ],
+   "interpretacion": "El mismo plano en papel, abierto y reforzado al dorso con tiras de cinta engomada que tapan parte de los rótulos. Repite cotas y rótulos; a lápiz, «4.072 [?]»."
+  },
+  {
+   "titulo": "Folio 7 · detalle O del plano en papel",
+   "img": "img/f/191/13.jpg",
+   "fuente": "IMG_1047.JPG",
+   "nota": "",
+   "lineas": [
+    "[Detalle del sector O del ejemplar en papel: «Comprado por Monsalvo y Bernal á Don José M.a Echeverria»; «Don José Maria Echeverria»; «S 45° 35′ O 3140 v = 2719,2 m»; «o Bernal»; faja roja con «S 47° 40′ E = 11238 v = 9732,1 m» y «4596 v = 3980,1 m»; «Sobrante comprado [por D.] Saturnino Unzué é hijos»; arroyo que cruza la faja con una laguna en el mojón; «[Herederos de Don] Mariano Lima». A lápiz, al margen: 3140 / 343 / 2797 (resta del costado O).]"
+   ],
+   "interpretacion": "Echeverría, Bernal, el costado de 3140 v, la faja roja, el «sobrante comprado» y el arroyo que cruza la faja con una laguna en el mojón de Bello. A lápiz, la resta 3140 − 343 = 2797."
+  },
+  {
+   "titulo": "Folio 7 · detalle E del plano en papel",
+   "img": "img/f/191/14.jpg",
+   "fuente": "IMG_1048.JPG",
+   "nota": "",
+   "lineas": [
+    "[Detalle del sector E: «Doña Dominga»; «D.a Josefa Diaz de Martinez»; «Moj. divisorio»; «N 56° 50′ E 820 v = 710,1 m»; «Mojon de Arranque»; «Castro»; «Heredero[s] de Molina»; «N 42° 20′ E = 2345 v = 2030,7 m»; «M.a Cornejo»; «Monte de Avila» (con signo de edificio); «N 42° 20′ E 343 v 297 m»; «Unzué é hijos». A lápiz: sumas de comprobación (2419 [?] / 9444 [?] / 11238 [?]; 3250 [?] / 4220 [?] / 1440 [?]).]"
+   ],
+   "interpretacion": "Mojón divisorio, Mojón de Arranque, casa de Castro, Cornejo, Monte de Ávila (con signo de edificio), cotas de 820, 2345 y 343 v. A lápiz, sumas de comprobación."
+  },
+  {
+   "titulo": "Folio 7 · detalle del título",
+   "img": "img/f/191/15.jpg",
+   "fuente": "IMG_1049.JPG",
+   "nota": "",
+   "lineas": [
+    "[Detalle del título del ejemplar en papel, en parte bajo la cinta: «Plano Topografico de un terreno sobrante solicitado en compra al Superior Gobierno por D. Saturnino Unzué é hijos. Situado en el Partido de la Villa de Mercedes. Medido en el mes de Agosto de 1862. Por Pedro Saubidet. Brito». La toma IMG_7479 repite el título en el calco.]"
+   ],
+   "interpretacion": "Título del ejemplar en papel, parcialmente bajo la cinta; firma «Por Pedro Saubidet» y, debajo, «Brito», el dibujante."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano topográfico del sobrante de Unzué (Saubidet y Brito, 1862), calco",
+   "img": "img/f/191/03.jpg",
+   "fuente": "IMG_1045.JPG (otras luces y detalles: IMG_7476-7479)",
+   "orientacion": "«Norte verdadero 10° 35′ N.E.» con flecha hacia el ángulo superior izquierdo; los costados largos (N 47° 40′ O) van casi horizontales",
+   "interpretacion": "Plano a pluma en papel de calco, con doble filete y dos escalas de transversales, una en varas y otra en metros (7000 [?] cada una), como en el texto, que da cada distancia en varas y en metros. Muestra mucho más que la faja medida: todo el bloque SO del partido de Mercedes que hoy cae en Giles. De N a S: el campo de María Gaute [?] hoy Acuña y Agüero; Fernando Monsalvo, con el Arroyo de Monsalvo y un afluente; el ángulo «Comprado por Monsalvo y Bernal á Don José M.ª Echeverría»; los herederos de Dominga Garcete de Martínez con las poblaciones de Josefa Díaz de Martínez y Narciso Martínez; los herederos de Pastor Frías y de Molina al E; el gran campo de Ramón Colmenero con el Monte de Ávila dibujado como edificio; la faja roja del sobrante solicitado, el «sobrante comprado» anterior de Unzué y el campo de Unzué; al S los herederos de Mariano Lima. Un arroyo con flecha que corre al S cruza la faja en el mojón de Pascuala Bello, donde hay una laguna; otras lagunas, pintadas de azul, marcan los mojones del costado Martínez-Colmenero. Casas como puntos con nombre: Monsalvo, Bernal, Castro, Cornejo, Pera [?]. Al dorso: «Cajón 12 – Carpeta 35 – Número 21», la signatura del Departamento Topográfico.",
+   "referencias": [
+    [
+     "Mojón de Arranque",
+     "Esquina O del campo que fue de Isidoro Molina, hoy Frías (el arranque de Prat en 1840)"
+    ],
+    [
+     "820 v = 710,1 m",
+     "N 56° 50′ E, contra Frías, hasta el mojón divisorio Martínez-Colmenero"
+    ],
+    [
+     "11.240 v = 9733,8 m",
+     "N 47° 40′ O, contra los her. de Garcete de Martínez"
+    ],
+    [
+     "3140 v = 2719,2 m",
+     "S 45° 35′ O, contra Echeverría (ahora Monsalvo y Bernal)"
+    ],
+    [
+     "4596 v = 3980,1 m",
+     "S 47° 40′ E, hasta el mojón de Pascuala Bello (hoy Unzué), con laguna y arroyo"
+    ],
+    [
+     "11.238 v = 9732,1 m",
+     "S 47° 40′ E, costados de la faja"
+    ],
+    [
+     "2345 v = 2030,7 m",
+     "N 42° 20′ E, contra los her. de Molina"
+    ],
+    [
+     "343 v = 297 m",
+     "Ancho de la faja, en los dos extremos"
+    ],
+    [
+     "Sobrante solicitado en compra",
+     "Faja con filete rojo, 289 ha 43 a 24 ca"
+    ],
+    [
+     "Sobrante comprado",
+     "Faja anterior de Unzué entre la nueva y su campo"
+    ],
+    [
+     "Monte de Ávila",
+     "Dentro del campo Colmenero; visual de casi todos los mojones"
+    ],
+    [
+     "Arroyo de Monsalvo",
+     "Al N, en el campo de Monsalvo y Gaute"
+    ]
+   ]
+  },
+  {
+   "titulo": "Segundo ejemplar del plano, en papel reforzado",
+   "img": "img/f/191/04.jpg",
+   "fuente": "IMG_1046.JPG (detalles: IMG_1047-1049)",
+   "orientacion": "la misma del calco",
+   "interpretacion": "Ejemplar en papel del mismo plano, con igual título, firma y cotas. Está abierto y pegado al dorso con tiras de cinta engomada que tapan parte del título y de los rótulos (Garcete, Pastor Frías). Tiene cuentas a lápiz de un revisor: 3140 − 343 = 2797 (el resto del costado de Echeverría que queda a Colmenero) y otras sumas junto a la faja. El duplicado guarda, pues, un plano para el expediente y un calco, o al revés: el calco pudo servir para copiar el plano del Registro Gráfico.",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "El paisaje se lee en las visuales: el MONTE DE ÁVILA, dentro del campo Colmenero, es la referencia de casi todos los mojones; también San Jacinto, «Estancia de Unzué» (la misma de las fichas 118 y 124), las estancias de Bernal y Ávila y las poblaciones de Fernando Monsalvo, Mariano Bernal y María Cornejo de Molina. El plano agrega casas de Castro, Josefa Díaz de Martínez, Narciso Martínez y Pera [?]. Hay agua: el Arroyo de Monsalvo al N, un arroyo que baja al S y corta la faja con una laguna en el mojón de Bello, y lagunas en los mojones de la línea Martínez-Colmenero. No hay cercos ni caminos dibujados. Es campo de estancias grandes con puestos dispersos, en el borde entre Mercedes, Luján y Giles."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "El trámite muestra una negociación de tres partes. El Departamento Topográfico propone preferir a los herederos de Colmenero, dueños del exceso; el Fiscal les da vista, y las dos herederas, Manuela y María Colmenero de Balladares, CEDEN el sobrante a Unzué, su vecino poderoso. La citación sigue el formulario: día, mojón de partida, invitación a llevar los títulos, la casa donde esperar, firma al respaldo «o por medio de testigo». En el campo no aparecen los dueños sino sus mandatarios: el mayordomo de Bernal (Lázaro Otero [?]), Máximo Landívar [?] por los Martínez, Mariano Brantes [?] por Unzué, el alcalde de cuartel Gregorio Castro por el juez de paz; Monsalvo firma «a ruego» por Gil M. Tapia. «No hubo protesta ni observación de ninguna clase.» La Nota final traslada la lógica de la mitad: como Prat partió el campo en dos iguales, Saubidet deja un sobrante igual a los Martínez."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Saubidet no tenía mojones entre Martínez y Colmenero, de modo que mide todo el campo de Maydana-Martínez para ubicar el sobrante. Rumbos corregidos, con variación de 10° 35′ NE, la misma de la ficha 075 y del D. T. de 1862 (ficha 080 y otras). Fija cada mojón con dos o tres visuales a casas, estancias y al Monte de Ávila: una triangulación práctica que permite reponerlos. La línea 3 sigue el rumbo «por estar así amojonada»: respeta el amojonamiento heredado. Verificación en python: el pentágono cierra con un error de 25 v sobre un perímetro de 28.783 v (0,09 %). Todas las equivalencias en metros son exactas con vara de 0,866 m (820 → 710,1; 11.240 → 9733,8; 3140 → 2719,2; 4596 → 3980,1; 11.238 → 9732,1; 2345 → 2030,7; 343 → 297)."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "El título vale 32.063.976 v² = 0,890666 leguas² (legua de 6000 v), exactamente la mitad de las 1,781332 leguas² de Prat en 1829: la venta de 1838 partió el heptágono por mitades contables. Las conversiones del texto son coherentes entre sí (v², diez millonésimas de legua, hectáreas, áreas y centiáreas). PERO el área declarada del pentágono (35.923.302 v²) no sale de sus propias líneas: con los cinco rumbos y distancias el área es ≈ 34,98-35,01 millones de v², unas 910.000 v² menos (2,6 %). Si el cálculo de Saubidet está errado, el sobrante real sería ≈ 2,95 millones de v² (≈ 221 ha, una faja de ≈ 262 v), no 3,86 millones; y la liquidación previa del D. T. (0,074 leguas² = 2.664.000 v²) quedaba más cerca. El D. T. no advirtió la diferencia y mandó «reformar» la liquidación hacia arriba. El pedido original era de 185 × 10.950 v (2.025.750 v²)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Cadena de títulos: enfiteusis de Dionisio Martínez y Justo Maydana (1826; mensura de Prat, 1829, ficha 190); venta de Rosas en 1838 por mitades (en este texto, «compraron así al Gobierno en el año 1837», por la fecha del informe del D. T.); la mitad de Maydana pasa a Ramón Colmenero (1838; mensura de Prat, 1840, ficha 074); sus herederas ceden a Unzué el exceso. El EXCESO de mensura es del Estado y se vende al lindero: es la política de «sobrantes» de los años 1860. Unzué ya tenía un «sobrante comprado» al SO (el del plano) y el campo que fue de Pascuala Bello: compra tierra en fajas hasta formar San Jacinto. En 1869 recibe además 801,61 ha en la división del campo Colmenero (ficha 054)."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "190 (Martínez y Maidana, Prat 1829): el heptágono de 1,781332 leguas² cuya mitad exacta es el título Colmenero; Dominga Garcete compradora en 1838. 074 (Ramón Colmenero, Prat 1840): el arranque de Saubidet es el mojón de Prat; la línea de 10.950 v (9483 m) de 1840 se vuelve aquí 11.240 v. 075 (her. de Dominga Garzete de Martínez, Saubidet, agosto 1862): la MENSURA GEMELA, mismo mes, misma línea S 47° 40′ E 11.240 v = 9733,8 m, mismos linderos; la Nota de este duplicado explica por qué existe 075 (sobrante igual en el campo Martínez). 054 (Colmenero, Dillon 1869): la división en tres hijuelas incluye a Unzué; «el sobrante comprado por Unzué» de 054 es este o el anterior. 118 y 124: estancia San Jacinto de Unzué. 080 y otras: el mismo trío Salas, Moreno, Malaver en el D. T. de 1862. 078 y 082: her. de Narciso Martínez y de Pastor Frías, los vecinos al E."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Transcripción completa de ff. 1-5 y de los dos ejemplares del plano; falta el f. 5 v. (fin de las firmas de la citación). Dudosos: Garcete/Garrete en f. 1 v.; Cornejo; Lázaro Otero; Máximo Landívar; Mariano Brantes; Adolfo M. Caldeira, juez sustituto; el grado de la visual a Bernal en f. 3 (setenta y nueve [?]); las escalas (7000 [?]). Preguntas: ¿el error de ≈ 910.000 v² en el área del pentágono es de cálculo de Saubidet o hay una cifra mal copiada en el duplicado? Comparar con el área del campo Martínez en 075. ¿Qué es el «sobrante comprado» anterior de Unzué y cuándo se compró? ¿Cuál es el arroyo que cruza la faja en el mojón de Bello (¿naciente del arroyo de Giles o de la Cañada de los Toros?)? Georreferenciar la faja contra 054 y 075."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Pedro Saubidet",
+   "rol": "Agrimensor público",
+   "texto": "Agrimensor activo en Mercedes y San Andrés de Giles entre 1861 y 1870: en el corpus firma las fichas 028, 039, 045, 059, 075 y 077, además de esta. En 1862 usa varas y metros a la vez, variación 10° 35′ NE y visuales a montes y estancias. Mide en el mismo mes (agosto de 1862) los dos lados de la línea Martínez-Colmenero (075 y 191).",
+   "fuentes": "Este duplicado; fichas 028, 039, 045, 059, 075, 077; METODO.md."
+  },
+  {
+   "nombre": "Brito",
+   "rol": "Dibujante del plano",
+   "texto": "Firma debajo del nombre de Saubidet en los dos ejemplares del plano; probablemente el dibujante o copista. No aparece en otras fichas del corpus.",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Saturnino Unzué é hijos",
+   "rol": "Comprador del sobrante",
+   "texto": "Firma familiar de Saturnino Unzué, estanciero y comerciante porteño, padre de Mariano Unzué. Dueño de la estancia San Jacinto en el límite de Mercedes y Giles, compra tierra en fajas y sobrantes: el «sobrante comprado» del plano, el campo ex Pascuala Bello, esta faja (1862), una hijuela del campo Colmenero (1869, ficha 054) y lonjas de los Lima (1872-1879, ficha 124). Una búsqueda web (11/2026) no dio una biografía precisa; los datos familiares quedan por confirmar.",
+   "fuentes": "Este duplicado; fichas 054, 113, 118, 124; búsqueda web."
+  },
+  {
+   "nombre": "Ramón Colmenero (Colmeneros)",
+   "rol": "Antiguo dueño del campo",
+   "texto": "Compró en 1838 a Justo Maydana la mitad de la enfiteusis Martínez-Maydana; Prat le midió el campo en 1840. En 1861-62 ya había muerto; sus únicas herederas son Manuela Colmenero y María Colmenero de Balladares.",
+   "fuentes": "Este duplicado; fichas 054, 074, 190."
+  },
+  {
+   "nombre": "Manuela Colmenero y María Colmenero de Balladares",
+   "rol": "Herederas cedentes",
+   "texto": "Hijas y únicas herederas de Ramón Colmenero; el 5/4/1862 ceden a Unzué su preferencia sobre el sobrante. María actúa «con la venia de su esposo» Gabriel Balladares (Valladares en 054, donde recibe 641,24 ha en 1869).",
+   "fuentes": "Este duplicado; ficha 054."
+  },
+  {
+   "nombre": "Dominga Garcete (Garzete) de Martínez",
+   "rol": "Lindera (sus herederos)",
+   "texto": "Viuda de Dionisio Martínez, compradora de la otra mitad en 1838 (ficha 190). Sus herederos lindan al NE de Colmenero; Saubidet los mide en agosto de 1862 (ficha 075) y les deja un sobrante igual al de Unzué.",
+   "fuentes": "Este duplicado; fichas 075, 190."
+  },
+  {
+   "nombre": "Isidoro Molina, Pastor Frías y María Cornejo de Molina",
+   "rol": "Linderos al e",
+   "texto": "El mojón O del campo que fue de Isidoro Molina, «hoy de los herederos de D. Pastor Frías», es el arranque de Prat y de Saubidet. María Cornejo [?] de Molina tiene una población que sirve de visual; los herederos de Molina lindan al SE de la faja.",
+   "fuentes": "Este duplicado; fichas 074, 078, 082, 190."
+  },
+  {
+   "nombre": "José María Echeverría",
+   "rol": "Lindero al no",
+   "texto": "Dueño del campo al NO de Colmenero; en el plano un ángulo figura «comprado por Monsalvo y Bernal á Don José M.ª Echeverría». Lo representó Mariano Bernal.",
+   "fuentes": "Este duplicado; fichas 015, 075."
+  },
+  {
+   "nombre": "Mariano Bernal",
+   "rol": "Vecino y representante",
+   "texto": "Tiene estancia y población al O, usada como visual. Representó a Echeverría y a los Colmenero y envió a su mayordomo Lázaro Otero [?].",
+   "fuentes": "Este duplicado."
+  },
+  {
+   "nombre": "Fernando Monsalvo",
+   "rol": "Vecino",
+   "texto": "Poblador al N (arroyo que lleva su nombre); compró con Bernal parte del campo de Echeverría. Firmó la citación «a ruego» por medio de Gil M. Tapia: no sabía firmar.",
+   "fuentes": "Este duplicado; fichas 075, 119."
+  },
+  {
+   "nombre": "Pascuala Bello",
+   "rol": "Antigua lindera",
+   "texto": "Viuda de Antonio Leguisamón, lindera SO de la enfiteusis de 1826; su campo es en 1862 «de D. Saturnino Unzué é hijo».",
+   "fuentes": "Este duplicado; fichas 055, 190."
+  },
+  {
+   "nombre": "Modesta Ávila de la Torre (Monte de Ávila)",
+   "rol": "Referencia del paisaje",
+   "texto": "El «Monte de Ávila» y la «Estancia de Ávila» son las visuales principales. En 1869 Modesta Ávila de la Torre recibe la hijuela mayor del campo Colmenero (961,86 ha, ficha 054): el monte ya era su casa.",
+   "fuentes": "Este duplicado; ficha 054."
+  },
+  {
+   "nombre": "Gregorio Castro",
+   "rol": "Alcalde de cuartel",
+   "texto": "Comisionado por el juez de paz de Mercedes; firma que presenció la mensura. El plano marca una casa «Castro» junto al mojón de arranque. Un Gregorio Castro, yerno de los Kelly, ocupa una faja en 1902 (ficha 185): quizá otra generación.",
+   "fuentes": "Este duplicado; ficha 185."
+  },
+  {
+   "nombre": "Lázaro Otero [?], Máximo Landívar [?], Mariano Brantes [?], Gil M. Tapia, Adolfo M. Caldeira [?]",
+   "rol": "Mandatarios, testigo y juez",
+   "texto": "Mayordomo de Bernal; representante de los herederos de Martínez; representante de Unzué; testigo a ruego de Monsalvo (hay una pulpería y un ombú de Tapia en el corpus); juez de paz sustituto que da el visto bueno. Lecturas dudosas, no aparecen en otras fichas.",
+   "fuentes": "Este duplicado; METODO.md."
+  },
+  {
+   "nombre": "Saturnino Salas, Mariano Moreno y Antonio E. Malaver",
+   "rol": "Departamento topográfico",
+   "texto": "Firman el informe del 22/9/1862. Salas fue presidente del Departamento por décadas; el trío firma también los informes de 1862 de las fichas 029, 030, 032 y 080.",
+   "fuentes": "Este duplicado; METODO.md."
+  }
+ ],
+ "portadilla": {
+  "img": "img/f/191/02.jpg",
+  "fuente": "IMG_1039.JPG (repetida en IMG_7475)",
+  "lineas": [
+   "[testado] Sección «Luján» N.º 120",
+   "Mercedes 38",
+   "5 – 1",
+   "Duplicado de las diligencias de mensura de los sobrantes de un terreno de propiedad pública",
+   "solicitado y obtenido en compra por el S.r D. Saturnino Unzué é hijo",
+   "Situado en el Partido de la Villa de Mercedes",
+   "Medido en el mes de Setiembre de 1862",
+   "Por el Agrimensor Saubidet",
+   "[lápiz] fs 6 – XXIV-V-1918 [?]"
+  ]
+ },
+ "titulo": "Saturnino Unzué é hijos",
+ "estado": "Transcripta (13 hojas, 285 renglones), 2 láminas"
+}
