@@ -1,0 +1,185 @@
+{
+ "carpeta": "V19",
+ "carpeta_nombre": "Varios V19",
+ "archivo": "Ficha V19 - Carpeta 7, el pueblo y el camino a Mendoza (c. 1933-1938).docx",
+ "resumen": {
+  "Documento": "Carpeta N.º 7 (Tomo 53), pieza 16 [?]: «Plano con camino a Mendoza»",
+  "Propietario / solicitante": "Pueblo y camino a Mendoza",
+  "Autor": "Sin firma (Vialidad Nacional o Municipalidad [?])",
+  "Agrimensor": "—",
+  "Año": "S. f.; probable 1933-1938 (proyecto de la ruta Bs. As.-Mendoza)",
+  "Escala": "Sin escala visible (≈ 1:2000 [?])",
+  "Ubicación": "Borde O [?] de la planta urbana de Giles, a lo largo de la Av. 25 de Mayo",
+  "Linderos": "Calles Alem, Ituzaingó, San Lorenzo, Italia, Lavalle, Etcheverry, Pichetto",
+  "Rasgos": "Avenida de 30 m; ensanche con calles de 15 m; rotonda; cotas de nivel [?]",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Tomo 53 pieza 16 [?]"
+ },
+ "metricas": {
+  "superficie_ha": "—",
+  "hitos": "estacas numeradas del replanteo; rotonda; plaza [?]",
+  "aguas": "—"
+ },
+ "sintesis": "Gran calco sin rótulo, fotografiado en doce tomas parciales. Por el índice del Tomo 53 es la pieza 16, «Plano con camino a Mendoza». Dibuja las manzanas del pueblo con el contorno de la edificación sobre las calles Alem, Ituzaingó, San Lorenzo, Italia, Lavalle, Etcheverry y Pichetto y la Av. 25 de Mayo, con cotas en las esquinas. Del otro lado proyecta un ensanche: una avenida de 30 m rotulada «Camino a Mendoza», con rotonda y boulevard, y manzanas nuevas de 80 m entre «calles de 15 m de ancho paralelas a Rivadavia». Es el paso urbano de la futura ruta 7, que continúa el camino Luján-Giles de Vialidad de 1933 (V12).",
+ "caratula": {
+  "img": "img/v/V19/01.jpg",
+  "fuente": "IMG_1188.JPG (girada 180°)",
+  "campos": [
+   [
+    "Carpeta",
+    "N.º 7, Planos varios (Tomo 53)"
+   ],
+   [
+    "Pieza",
+    "16 [?], «Plano con camino a Mendoza»"
+   ],
+   [
+    "Rótulo",
+    "Camino a Mendoza"
+   ],
+   [
+    "Calles",
+    "Alem, Ituzaingó, San Lorenzo, Italia, Lavalle, Etcheverry, Pichetto, 25 de Mayo"
+   ],
+   [
+    "Proyecto",
+    "avenida de 30 m y calles de 15 m paralelas a Rivadavia"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Pieza 16 [?]: el pueblo y el camino a Mendoza, sector E",
+   "img": "img/v/V19/03.jpg",
+   "fuente": "IMG_1177.JPG",
+   "nota": "Fotografiado sobre el piso en doce tomas; se lee girado 180°.",
+   "lineas": [
+    "[Toma a 0°: gran hoja de papel de calco amarillento, sin entelar, plegada en muchos paños y fotografiada sobre el piso en doce tomas parciales (IMG_1177-1188), con el rótulo de las calles cabeza abajo: se leen girando 180°. Arriba a la izquierda asoma la hoja del tomo con escritura a tinta (ilegible). No se ve rótulo, escala, fecha ni firma en ninguna toma.]",
+    "[Dibujo a tinta negra con algunas líneas rojas: manzanas del pueblo con la línea municipal y la línea de edificación de las casas (frentes y medianeras), calles con ejes en trazo y punto, cotas en las esquinas y, al E [?], una franja de manzanas nuevas proyectadas, más tenues, entre la Avenida 25 de Mayo y el camino.]"
+   ],
+   "interpretacion": "Calco grande, sin rótulo visible, que corresponde a la pieza 16 del índice («Plano con camino a Mendoza»). A tinta: las manzanas del pueblo con la línea municipal y el contorno de las casas en los frentes, ejes de calles en trazo y punto, cotas en las esquinas. Al costado, en trazo más tenue, un proyecto de manzanas nuevas entre la Av. 25 de Mayo y el camino. Algunas líneas en rojo marcan las afectaciones del camino [?]."
+  },
+  {
+   "titulo": "Detalle: calles del pueblo y Av. 25 de Mayo",
+   "img": "img/v/V19/02.jpg",
+   "fuente": "IMG_1181.JPG",
+   "nota": "Girada 180°.",
+   "lineas": [
+    "[Toma de detalle, girada 180°.]",
+    "[Calles, en mayúsculas:] Calle Leandro N. Alem · Calle Ituzaingó · Calle San Lorenzo · Calle Italia · Calle Lavalle · Calle J. B. Etcheverry · Calle José Pichetto · [Avenida] 25 de Mayo",
+    "[Cotas en las esquinas (¿de nivel?):] 36 · 35 · 34 · 33 · 31,51 · 31,46 [?] · 31,18 [?] · 30 · 37",
+    "[Medidas de manzanas y frentes, sobre la calle Lavalle y la 25 de Mayo:] 86,60 · 86,48 · 52,62 · 33,86 · 82,96 [?] · 81,41 · 81,19 [?] · 41,015 · 41,02 · 52,035 [?] · 88,59 · 85,08 [?] · 86,10",
+    "[Notas a lápiz, muy tenues, junto a la calle Etcheverry y la 25 de Mayo:] «… a … [ilegible] … Lavalle» [?]",
+    "[Manzana cuadrada, de esquinas redondeadas y trazo grueso, entre Italia, San Lorenzo y las calles Etcheverry y Pichetto [?]: probablemente la plaza [?].]",
+    "[Al O de la 25 de Mayo, franja de manzanas nuevas de trazo tenue:] Calle de 15 m de ancho paralela a Rivadavia [repetido en cada calle] · 80 m · 40 m [?] · 15 m",
+    "[Rótulo grande, tenue, a lo largo de la franja:] [Camino a] Mendoza [?]",
+    "Camino General [al S, curva con estacas numeradas en círculo (¿progresivas?) y radios de curva]"
+   ],
+   "interpretacion": "Calles rotuladas: Leandro N. Alem, Ituzaingó, San Lorenzo, Italia y Lavalle (en un sentido); J. B. Etcheverry, José Pichetto y 25 de Mayo (en el otro). Las cotas de las esquinas (36, 35, 34, 33… 31,51, 30) bajan hacia la 25 de Mayo: parecen cotas de nivel de una nivelación para el desagüe o la rasante del camino [?]. Una manzana de esquinas redondeadas y trazo grueso puede ser la plaza [?]. Del otro lado de la 25 de Mayo, manzanas proyectadas con «Calle de 15 m de ancho paralela a Rivadavia», de 80 m de lado, y el «Camino General», que entra en curva con estacas numeradas."
+  },
+  {
+   "titulo": "Detalle: avenida de 30 m, rotonda y diagonal",
+   "img": "img/v/V19/04.jpg",
+   "fuente": "IMG_1185.JPG",
+   "nota": "Girada 180°.",
+   "lineas": [
+    "[Toma de detalle, girada 180°: sector de manzanas proyectadas. Una calle diagonal angosta (¿camino o vía existente?) cruza las manzanas nuevas. En el cruce de la avenida con una calle transversal se dibuja un círculo (rotonda o plazoleta) con un boulevard dividido en canteros; estacas numeradas en círculos pequeños (100 [?], 101 [?], …) y arcos de curva con sus radios.]",
+    "[Cotas:] 15 m · 15 m · 30 m · 80 m · 80 m · 80 m [?] · Calle de 15 m de ancho paralela a Rivadavia"
+   ],
+   "interpretacion": "El camino proyectado tiene 30 m de ancho, y las calles del ensanche, 15 m. En un cruce se dibuja una rotonda (círculo con radios) y un tramo de boulevard con canteros. Una diagonal angosta corta las manzanas nuevas (¿camino existente o desvío?). Hay estacas en círculos con numeración correlativa, como en un replanteo vial."
+  },
+  {
+   "titulo": "Detalle: «Camino a Mendoza»",
+   "img": "img/v/V19/01.jpg",
+   "fuente": "IMG_1188.JPG",
+   "nota": "Girada 180°.",
+   "lineas": [
+    "[Toma de detalle, girada 180°: borde de la hoja.]",
+    "[Rótulo, en letra inglesa grande:] Camino a Mendoza",
+    "[Calles transversales:] Calle de 15 m de ancho paralela a Rivadavia [varias] · 15 m · 30 m · 80 m",
+    "[La avenida de 30 m del camino corre junto a una calle con línea de edificación existente:] [Avenida] 25 de Mayo [?] · cotas y ángulos ilegibles · estaca 149 [?] en círculo"
+   ],
+   "interpretacion": "Rótulo en letra inglesa grande: «Camino a Mendoza». Va a lo largo de la franja de 30 m, paralela a la calle con edificación existente (25 de Mayo [?]); a un lado, la serie de «calles de 15 m de ancho paralelas a Rivadavia»."
+  },
+  {
+   "titulo": "Retomas del calco",
+   "img": "img/v/V19/05.jpg",
+   "fuente": "IMG_1178.JPG",
+   "nota": "Retomas; se exporta una como referencia.",
+   "lineas": [
+    "[IMG_1178-1180, 1182-1184, 1186-1187: tomas parciales del mismo calco, con luz despareja y fuertes pliegues; muestran las mismas calles del pueblo (otras manzanas hacia el N y el S) y las manzanas proyectadas. No se releen una por una; no aportan rótulo, escala ni fecha.]"
+   ],
+   "interpretacion": "Las tomas 1178-1180, 1182-1184 y 1186-1187 muestran otras partes de la misma hoja (más manzanas al N y al S, la estación [?] y el resto del ensanche), con luz despareja. No se releen una por una: ninguna trae rótulo, escala ni fecha."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "El pueblo, la Av. 25 de Mayo y el ensanche proyectado",
+   "img": "img/v/V19/02.jpg",
+   "fuente": "IMG_1181.JPG (girada 180°; vista general IMG_1177; detalles 1185, 1188)",
+   "orientacion": "sin flecha de N en las tomas",
+   "interpretacion": "A la derecha, el pueblo existente. Cada manzana tiene su línea municipal y, en trazo grueso, las casas sobre la línea de edificación, de modo que se ve qué frentes están construidos. A la izquierda, más allá de la Av. 25 de Mayo, todo es proyecto: una cuadrícula de manzanas de 80 m separadas por calles de 15 m «paralelas a Rivadavia», y la franja del «Camino General» o «Camino a Mendoza», de 30 m, que entra en curva con estacas numeradas y radios. Las cotas de las esquinas bajan hacia la 25 de Mayo. Es un plano de vialidad y de urbanismo a la vez: cómo hacer pasar la nueva ruta por el borde del pueblo y ordenar el crecimiento a su lado.",
+   "referencias": [
+    [
+     "Calles existentes",
+     "Leandro N. Alem, Ituzaingó, San Lorenzo, Italia, Lavalle; J. B. Etcheverry, José Pichetto; Av. 25 de Mayo"
+    ],
+    [
+     "Calle de 15 m de ancho paralela a Rivadavia",
+     "Calles del ensanche proyectado"
+    ],
+    [
+     "Camino General / Camino a Mendoza",
+     "Avenida proyectada de 30 m"
+    ],
+    [
+     "Números en círculo",
+     "Estacas del replanteo (progresivas [?])"
+    ],
+    [
+     "36, 35… 31,51",
+     "Cotas de esquina (¿nivel?)"
+    ],
+    [
+     "Trazo grueso en las manzanas",
+     "Edificación existente sobre la línea municipal"
+    ],
+    [
+     "Círculo con canteros",
+     "Rotonda o plazoleta en un cruce"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "El plano muestra el borde del pueblo hacia 1935: manzanas con los frentes construidos sólo en parte, sobre todo en las esquinas, y casas aisladas hacia las afueras. Más allá de la 25 de Mayo hay campo abierto, que el proyecto convierte en una cuadrícula nueva ordenada por la ruta. La rotonda, el boulevard y la avenida de 30 m son marcas de la modernidad vial de los años treinta."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Calco a tinta sobre un relevamiento de la edificación y una nivelación de esquinas [?], con el trazado vial superpuesto: curvas con radio, estacas correlativas y anchos normalizados (30 m la ruta, 15 m las calles). Es la técnica de la Dirección Nacional de Vialidad que ya se vio en V12 (1933)."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Medidas en metros: manzanas existentes de 86,60 m (100 varas) y del ensanche de 80 m; calles de 15 m y avenida de 30 m. El cambio de módulo de 86,60 a 80 m marca el paso de la traza colonial en varas al urbanismo métrico."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "V12: láminas del camino Capital Federal-Mendoza, tramo Luján-Giles (Vialidad, nov. 1933), hasta el Km 43; este plano sería el cruce del pueblo. V07: el catastro urbano llega «de la av. 25 de Mayo a Alsina» y de Lavalle a Nicolás Méndez, lo que ubica la 25 de Mayo en el borde O-SO. V02: calle José Pichetto. V13: el índice del Tomo 53 (piezas 16-20, camino a Mendoza). 137: el eje del pueblo y de las quintas."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Sin rótulo, escala, fecha ni firma visibles; la atribución a la pieza 16 sale del orden del tomo y de la leyenda «Camino a Mendoza». No se fotografiaron las piezas 17-20 (láminas del tramo Giles-Carmen de Areco). Conviene comparar con el trazado real de la ruta 7 en Giles para ver si se hizo el ensanche y por dónde pasó finalmente la ruta. ¿Las cotas son de nivel o números de manzana?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Dirección Nacional de Vialidad",
+   "rol": "Autora probable del proyecto",
+   "texto": "Proyectó en 1933 el camino de Capital Federal a Mendoza por Luján y Giles (V12). Este calco sería su estudio del paso urbano por Giles.",
+   "fuentes": "V12; este plano (atribución hipotética)."
+  }
+ ],
+ "titulo": "Pueblo y camino a Mendoza",
+ "estado": "Transcripta (5 hojas, 18 renglones), 1 lámina"
+}

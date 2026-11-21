@@ -1,0 +1,275 @@
+{
+ "carpeta": "V12",
+ "carpeta_nombre": "Varios V12",
+ "archivo": "Ficha V12 - Vialidad, camino Luján-Giles (1933).docx",
+ "resumen": {
+  "Documento": "Carpeta N.º 6 (Tomo 52): láminas del camino Capital Federal-Mendoza, tramo Luján-Giles",
+  "Propietario / solicitante": "Vialidad, camino Luján-Giles (Ruta 7)",
+  "Autor": "Dirección Nacional de Vialidad; estudio y proyecto Ing. Taboada y Arq. Olivares",
+  "Agrimensor": "—",
+  "Año": "Noviembre de 1933",
+  "Escala": "1:50 000 (planimetría general); 1:10 000 (accesos a Luján)",
+  "Ubicación": "Km 28.177 (límite Luján-Mercedes) a Km 43.052, al NO de San Andrés de Giles",
+  "Linderos": "Pagano, Topella, Rossi, Díaz, Quiroga [?], Lucio Méndez, Carrega [?], P. Saubidet",
+  "Rasgos": "Variante a replantear (Km 35); arroyo de Giles; estaciones Giles y Cucullú; perfiles",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), IMG_1133-1143"
+ },
+ "metricas": {
+  "superficie_ha": "— (obra lineal; sección de 14,875 km)",
+  "hitos": "Km 28.177, 30, 35, 40, 41.742, 43.052; P.R. y estacas de fierro (acceso a Luján)",
+  "aguas": "arroyo de Giles; afluente al NE; río Luján y lagunita (acceso a Luján)"
+ },
+ "sintesis": "Carpeta N.º 6 (Tomo 52) de la oficina provincial. Su índice enumera 15 láminas del «Camino de la Capital Federal a Mendoza, tramo Luján a San Andrés de Giles», la futura Ruta Nacional 7. De ellas se fotografiaron tres. La primera es la lámina A, planimetría general 1:50 000 de la Dirección Nacional de Vialidad (noviembre de 1933), que va del Km 28.177, en el límite Luján-Mercedes, a la salida NO de Giles (Km 43.052), con los propietarios de la traza y una variante a replantear. Las otras dos son el plano de los «Accesos a Luján» (1:10 000) y su perfil longitudinal, con la Basílica, el río Luján, jagüeles, ranchos y cesiones de paso. Es el documento de origen del camino pavimentado que en 1939 se usa como argumento de venta en V15.",
+ "caratula": {
+  "img": "img/v/V12/01.jpg",
+  "fuente": "",
+  "campos": []
+ },
+ "folios": [
+  {
+   "titulo": "Índice del Tomo 52 (pegado en la tapa interior)",
+   "img": "img/v/V12/04.jpg",
+   "fuente": "IMG_1133.JPG",
+   "nota": "Toma girada 90°; hoja con manchas de humedad.",
+   "lineas": [
+    "[Toma girada 90°: libro abierto con el lomo rojo arriba; se lee girándola 90° antihorario. Hoja con grandes manchas de humedad.]",
+    "S A N  A N D R É S  D E  G I L E S",
+    "T O M O  52",
+    "1 Camino de la Capital Federal a Mendoza. Tramo Luján a S. Giles",
+    "2 ″ ″ ″ ″ ″ ″ ″ ″ ″ ″ ″ ″ /",
+    "3 ″ ″ ″ ″ ″ ″ ″ ″ Km. 72 a Km. 100 ........",
+    "4 ″ ″ ″ ″ ″ ″ ″ ″ ″ ........",
+    "4 Bis ″ ″ ″ ″ ″ ″ ″ ″ ........",
+    "5 ″ ″ ″ ″ ″ a Mendoza. Tramo Luján a San Andrés Giles. Km. 28 a San Andrés de Giles.",
+    "6 ″ ″ ″ ″ ″ a Mendoza. Tramo Luján a San Andrés de Giles. Km. 28 a San Andrés de Giles.",
+    "7 ″ ″ ″ ″ Federal a Mendoza. Tramo Luján - San Andrés de Giles. Km. 72 a Km 100 ........",
+    "8 ″ ″ ″ ″ ″ ″ ″ ″ ″ ″ ........",
+    "9 ″ ″ ″ ″ ″ ″ ″ ″ 28 a San Andrés de Giles.",
+    "10 ″ ″ ″ ″ ″ ″ ″ ″ ″ ″ ″ ″ ″ ″..",
+    "11 ″ ″ ″ ″ ″ a Mendoza Tramo Luján San Andrés de Giles Km. 72 a Km. 100 ........",
+    "12 ″ ″ ″ ″ ″ ″ ″ ″ ″ ″ ........",
+    "13 ″ ″ ″ ″ ″ ″ ″Km. 28 a San Andrés de Giles .",
+    "14 ″ ″ ″ ″ ″ ″ ″ 72 a Km. 100 ........",
+    "[Margen inferior, lápiz, girado:] M. 84.68 [?]"
+   ],
+   "interpretacion": "Índice dactilografiado del «Tomo 52» de San Andrés de Giles, con 15 piezas (14 numeradas y una «4 Bis»). Todas son láminas del «Camino de la Capital Federal a Mendoza. Tramo Luján a San Andrés de Giles», repartidas en dos secciones: «Km. 72 a Km. 100» y «Km. 28 a San Andrés de Giles». Es el legajo de la obra de la Ruta 7 en el partido."
+  },
+  {
+   "titulo": "Tapa de la Carpeta N.º 6, «Planos varios»",
+   "img": "img/v/V12/05.jpg",
+   "fuente": "IMG_1134.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°: carpeta igual a la N.º 1 (lomo de tela roja atado con hilo; tapa de papel jaspeado gris).]",
+    "[Lomo, etiqueta dactilografiada, poco legible:] [Planos] varios [?]",
+    "[Lomo, lápiz grande:] 6",
+    "[Etiqueta de la tapa, dactilografiada:] PARTIDO DE SAN ANDRÉS DE GILES [subrayado con guiones] / CARPETA N.º 6 [subrayado] / Planos varios."
+   ],
+   "interpretacion": "Carpeta igual a la N.º 1, con etiqueta PARTIDO DE SAN ANDRÉS DE GILES / CARPETA N.º 6 / Planos varios y un «6» grande a lápiz en el lomo. La Carpeta N.º 6 corresponde al Tomo 52 del índice anterior."
+  },
+  {
+   "titulo": "«Accesos a Luján», planimetría 1:10 000",
+   "img": "img/v/V12/02.jpg",
+   "fuente": "IMG_1135.JPG",
+   "nota": "Toma a 0°; copia heliográfica azul plegada. Pertenece al partido de Luján: es el arranque del tramo.",
+   "lineas": [
+    "[Toma a 0°; copia heliográfica en azul, plegada, sobre la mesa.]",
+    "ACCESOS A LUJÁN / PLANIMETRÍA / ESCALA 1:10.000",
+    "[Ángulo SO:] F.C. Oeste · → a Luján · Hormigón · 14 m.ts [ancho] · prog. 0 [junto a «Toro [?] A.C.A.» [?]] · prog. 262 · Frutales · 20,00 m.ts · 141° [?] · prog. 954 [?]",
+    "[Diagonal SO-NE:] Hormigón existente [con flecha N.M. y una segunda flecha]",
+    "[Centro y NE:] BASÍLICA [recuadro con cruz] · RÍO LUJÁN · Puente existente · Pasarela · Quema [de] basuras · Stati[on] [?] [edificio] · 187° 16′ [?] · prog. 2204 · 180° 47′ [?] · prog. 2550 [?] · prog. 2850 · 115° 15′ · prog. 3716 · Frutales [árboles en hilera] · PEDRO LAROSA · prog. 4701 [?] · 42,00 m.ts [ancho del nuevo camino]"
+   ],
+   "interpretacion": "Cianotipo de la planimetría del nuevo acceso a Luján desde el E. Sale del hormigón existente junto al F.C. Oeste, rodea la Basílica por el S y cruza el río Luján con puente existente y pasarela. Tiene progresivas de 0 a unos 4700 m, curvas con sus ángulos (115° 15′, 187° 16′ [?]) y un ancho de 42 m al final, sobre la propiedad de Pedro Larosa. Se rotulan frutales y una «quema de basuras»."
+  },
+  {
+   "titulo": "Perfil longitudinal y planta del acceso, Km 0 a 5",
+   "img": "img/v/V12/03.jpg",
+   "fuente": "IMG_1136.JPG",
+   "nota": "Toma a 0°; tira desplegada en curva. Varias cifras de la cuadrícula del perfil no se transcribieron una por una.",
+   "lineas": [
+    "[Toma a 0°; tira larga desplegada en curva, con su respaldo de papel; abajo, el legajo.]",
+    "[Encabezados de las fajas:] Terraplén de 12 m.ts · Desmonte de 12 m.ts · Terraplén de 12 m.ts · Abovedamiento 12 m.ts",
+    "[Cuadrícula del perfil: distancias parciales (61, 26, 38, 28, 57, 45, 20, 56, 52, 35, 32, 46, 42…; 50, 70, 44, 61, 39, 66, 83, 64, 76, 74, 72, 104), cotas de terreno y de rasante (≈ 45-53 m) y diferencias; K.5 al final.]",
+    "[Planta, abajo, de O a E:] QUEMA DE BASURAS · Terraplén defensa · 3198 · P.R. [punto de referencia] Poste 45,79 · ANTONIO AGUILAR · Jagüel viejo [con] noria · Lagunita · R = 200 · Arc = 226 · Tg = 126,80 · 2α = 64° 45′ · 115° 15′ · Alambrados a construir · Est. fierro 49,49 enterrada · prog. 3716 · RANCHO · Const. 2D 0,80 × 10,00 / 3 Alc. 0,50 B / 11 0,60 × 10,00 [?] [obras de arte: alcantarillas] · Const. 2 Alc. 1 = 4,00 / ac = 12,00 [?] · PEDRO LAROSA (tiene cedido paso) · Alambrado a construir · 80° 23′ · R = 150 · Arc = 210,44 · Tg = 126,72 · α = 80° 23′ · Calle Pinos [hilera de árboles] · Al puente actual · Rancho con paraísos · prog. 4609 · 42,00 m.ts · K.5 · Hormigón · → a Luján · F.C. Oeste"
+   ],
+   "interpretacion": "Tira del perfil longitudinal: terraplén y desmonte de 12 m de ancho, «abovedamiento», distancias parciales y cotas de terreno y de rasante de unos 45 a 53 m. Debajo, la planta con los propietarios afectados (Antonio Aguilar; Pedro Larosa, «tiene cedido paso»), un jagüel viejo con noria, una lagunita, ranchos y un «rancho con paraísos», la «calle Pinos», alambrados a construir, curvas (R = 200 y R = 150 m) y alcantarillas."
+  },
+  {
+   "titulo": "Lámina A: planimetría general, Km 28 a San Andrés de Giles (vista general)",
+   "img": "img/v/V12/01.jpg",
+   "fuente": "IMG_1137.JPG",
+   "nota": "Toma a 0°; cianotipo desplegado. Estudió y proyectó el Ing. Taboada, con el Arq. Olivares.",
+   "lineas": [
+    "[Toma a 0°; cianotipo desplegado a lo ancho desde el libro.]",
+    "[Rótulo, a la izquierda:] DIRECCIÓN NACIONAL DE VIALIDAD / CAMINO DE: CAPITAL FEDERAL A MENDOZA / TRAMO: LUJÁN A SAN ANDRÉS DE GILES / SECCIÓN: KM. 28 A SAN ANDRÉS DE GILES / Provincia de Buenos Aires / PLANIMETRÍA GENERAL / ESCALA = 1:50.000 / [firma] El Ingeniero Jefe / Buenos Aires, Noviembre de 1933",
+    "LÁMINA A",
+    "[Mapa:] P.do LUJÁN · P.do MERCEDES · Km. 28.177 (de Luján) · ADOLFO PAGANO · JUAN TOPELLA · Km. 30 · ÁNGEL ROSSI · DÍAZ · SUC. I. QUIROGA [?] · LUCIO MÉNDEZ · LUCIO MÉNDEZ [?] · CARREGA [?] · Km. 35 · VARIANTE A CONSIDERAR EN EL REPLANTEO · PEDRO SAUBIDET · Km. 40 · S. A. DE GILES [damero] · Km. 41.742 · Km. 43.052 [prolongación en trazos] · Arroyo de Giles · Arr.º de … [?] [afluente del NE] · PARTIDO DE SAN ANDRÉS DE GILES · F.C.C.B.A. · Est. S. A. de Giles · Est. Cucullú · a Capital Federal · a Carmen de Areco · F.C.C.A. Azcuénaga a Vagues y S. A. de [Giles] · N.M. [flecha]",
+    "[Cuadro, ángulo SO:] ESTUDIADO POR Ing. Taboada · PROYECTADO POR Ing. Taboada / Arq. Olivares · V.º B.º [dos firmas]"
+   ],
+   "interpretacion": "Planimetría general 1:50 000 de la Dirección Nacional de Vialidad (noviembre de 1933) para la sección Km 28 (límite Luján-Mercedes, Km 28.177) a San Andrés de Giles. Marca los kilómetros 30, 35 y 40 y la salida en Km 41.742, con prolongación hasta el Km 43.052. Rotula los propietarios a lo largo de la traza (Pagano, Topella, Rossi, Díaz, Quiroga [?], Lucio Méndez, Carrega [?], Pedro Saubidet), una «variante a considerar en el replanteo» cerca del Km 35, el arroyo de Giles, el pueblo y las estaciones S. A. de Giles y Cucullú."
+  },
+  {
+   "titulo": "Detalle: sector O de la lámina A",
+   "img": "img/v/V12/06.jpg",
+   "fuente": "IMG_1139.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°, retoma ampliada de 1137: cuadro de firmas en el ángulo SO, «LÁMINA A», el cruce del límite P.do Luján / P.do Mercedes en el Km. 28.177 (de Luján), «a Capital Federal» y la vía F.C.O. [?] Sin datos nuevos.]"
+   ],
+   "interpretacion": "Retoma ampliada del cuadro de firmas y del límite Luján-Mercedes en el Km 28.177; no aporta lecturas nuevas."
+  },
+  {
+   "titulo": "Detalle: Km 28 a Km 35",
+   "img": "img/v/V12/07.jpg",
+   "fuente": "IMG_1140.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°. Se leen con claridad:] ADOLFO PAGANO · JUAN TOPELLA · Km. 30 · ÁNGEL ROSSI · DÍAZ · SUC. I. QUIROGA [?] · LUCIO MÉNDEZ [dos parcelas] · CARREGA · Km. 35 · PEDRO [SAUBIDET] · Est. Cucullú · N.M. · Arr.º … [?] · PARTIDO"
+   ],
+   "interpretacion": "Detalle legible de los linderos de la traza: Adolfo Pagano, Juan Topella, Ángel Rossi, Díaz, Suc. I. Quiroga [?], Lucio Méndez (dos parcelas) y Carrega [?] hasta el Km 35, con la estación Cucullú y un arroyo afluente al N."
+  },
+  {
+   "titulo": "Detalle: Km 35 al pueblo y al arroyo de Giles",
+   "img": "img/v/V12/08.jpg",
+   "fuente": "IMG_1141.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°.] Km. 35 · VARIANTE A CONSIDERAR EN EL REPLANTEO · PEDRO SAUBIDET · F.C.C.B.A. · Est. S. A. de Giles · S. A. DE GILES · Km. 40 · Arroyo de Giles · Km. 41.742 · Km. 43.052 · [S AN AN]DRÉS DE GILES · [PAR]TIDO DE"
+   ],
+   "interpretacion": "La «variante a considerar en el replanteo» después del Km 35, el campo de Pedro Saubidet, el F.C.C.B.A. y la estación S. A. de Giles, el Km 40, el pueblo en damero, el arroyo de Giles y los Km 41.742 y 43.052."
+  },
+  {
+   "titulo": "Detalle: salida al NO",
+   "img": "img/v/V12/09.jpg",
+   "fuente": "IMG_1142.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°, retoma: el pueblo, el arroyo de Giles, Km. 41.742 y Km. 43.052 y el camino «a Carmen de Areco» del ferrocarril. Sin datos nuevos.]"
+   ],
+   "interpretacion": "Retoma del extremo NO: el pueblo, el arroyo y el camino que sigue «a Carmen de Areco». Sin lecturas nuevas."
+  },
+  {
+   "titulo": "Retoma general de la lámina A",
+   "img": "img/v/V12/10.jpg",
+   "fuente": "IMG_1143.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°, con la lámina entera: igual a 1137; se ven la vía «F.C.C.A. Azcuénaga a Vagues…» al S y el cuadro de firmas. Sin datos nuevos.]"
+   ],
+   "interpretacion": "Vista entera igual a 1137 que muestra la vía del F.C.C.A. de Azcuénaga a Vagues al S. Sin lecturas nuevas."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Lámina A: planimetría general, Km 28 a San Andrés de Giles (1:50 000)",
+   "img": "img/v/V12/01.jpg",
+   "fuente": "IMG_1137.JPG (detalles IMG_1138-1143)",
+   "orientacion": "flecha N.M. (norte magnético) al S del pueblo",
+   "interpretacion": "Cianotipo de un proyecto de camino. La traza, en trazo grueso, corre en diagonal SE-NO paralela al F.C.C.B.A. Atraviesa en ángulo las parcelas rurales, cuyos titulares se rotulan a uno y otro lado. Pasa al S del pueblo de Giles, cruza el arroyo y sale hacia Carmen de Areco. Los kilómetros se cuentan desde Luján. Cerca del Km 35 se dibuja en trazos una variante «a considerar en el replanteo»: el trazado no estaba cerrado al firmarse la lámina. Al S, la vía del Central Argentino de Azcuénaga a Vagues y Giles.",
+   "referencias": [
+    [
+     "Km 28.177 (de Luján)",
+     "límite de los partidos de Luján y Mercedes, origen de la sección"
+    ],
+    [
+     "Km 41.742 / Km 43.052",
+     "fin de la sección y prolongación en trazos"
+    ],
+    [
+     "Variante a considerar en el replanteo",
+     "alternativa de traza entre Km 35 y Km 40"
+    ],
+    [
+     "Pedro Saubidet",
+     "gran campo entre la traza y el pueblo"
+    ],
+    [
+     "Est. S. A. de Giles / Est. Cucullú",
+     "estaciones del F.C.C.B.A."
+    ],
+    [
+     "F.C.C.A. Azcuénaga a Vagues",
+     "ramal del Central Argentino"
+    ],
+    [
+     "Arroyo de Giles",
+     "cruzado al NO del pueblo"
+    ]
+   ]
+  },
+  {
+   "titulo": "Accesos a Luján: planimetría 1:10 000",
+   "img": "img/v/V12/02.jpg",
+   "fuente": "IMG_1135.JPG",
+   "orientacion": "flecha N.M. sobre la diagonal del hormigón existente",
+   "interpretacion": "Planta del nuevo acceso a Luján, del hormigón existente junto al F.C. Oeste hasta la salida al O. Rodea la Basílica, cruza el río Luján con «puente existente» y «pasarela» y pasa por quintas de frutales y una quema de basuras. Las progresivas (0, 262, 954, 2204, 2550, 2850, 3716, 4701) y los ángulos de las curvas son los datos de replanteo. El ancho de zona llega a 42 m.\nBASÍLICA\nsantuario de Luján, rodeado por el S\nRÍO LUJÁN\npuente existente y pasarela\nPEDRO LAROSA\npropietario al final del acceso; «tiene cedido paso» (IMG_1136)\nHormigón existente\ncamino pavimentado previo desde la Capital",
+   "referencias": []
+  },
+  {
+   "titulo": "Perfil longitudinal y planta, Km 0 a 5 del acceso",
+   "img": "img/v/V12/03.jpg",
+   "fuente": "IMG_1136.JPG",
+   "orientacion": "tira longitudinal",
+   "interpretacion": "Arriba, el perfil con terraplenes y desmontes de 12 m de coronamiento y cotas de unos 45 a 53 m. Abajo, la planta con los puntos de referencia (P.R. «Poste 45,79», estaca de fierro 49,49 enterrada), las curvas con su radio, arco, tangente y ángulo, las obras de arte (alcantarillas de 0,80 × 10,00 m) y las mejoras del terreno: jagüel viejo con noria, lagunita, ranchos, rancho con paraísos, hileras de pinos y alambrados a construir.\nANTONIO AGUILAR\npropietario afectado\nJagüel viejo / noria\npozo de agua tradicional en la traza\nRancho con paraísos\nvivienda rural con árboles de sombra\nR = 200 / R = 150\nradios de las curvas en metros",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "La lámina A muestra la llanura rural de 1933 vista desde la carretera: campos medianos y grandes con nombre de dueño, una red de vías férreas que ya tiene medio siglo y el pueblo en damero junto al arroyo de Giles. El perfil del acceso a Luján baja al detalle del suelo: ranchos, un jagüel con noria, una lagunita, paraísos, pinos, frutales y una quema de basuras. Es el paisaje de quintas del borde urbano que la carretera iba a atravesar."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "La negociación con los propietarios aparece en notas breves: «Pedro Larosa (tiene cedido paso)», «Alambrados a construir» y la «variante a considerar en el replanteo». Ya no hay actas de mensura con linderos: el Estado nacional traza y luego cede, expropia o compensa con alambrados nuevos. Las firmas son de técnicos (Ingeniero Jefe, Ing. Taboada, Arq. Olivares y dos V.º B.º), no de vecinos."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Técnica de ingeniería vial: planimetría general a escala chica, planta de detalle 1:10 000, perfil longitudinal con cotas de terreno y rasante, curvas circulares definidas por radio, arco, tangente y ángulo, progresivas en metros, puntos de referencia materializados (postes, estacas de fierro enterradas) y obras de arte tipificadas. Son copias heliográficas en azul (cianotipos) de originales de la Dirección Nacional de Vialidad."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Sistema métrico: kilómetros desde Luján con tres decimales (28.177; 41.742; 43.052) y progresivas en metros. La sección de la lámina A mide 43,052 − 28,177 = 14,875 km (verificado en python). Las cotas se dan en metros sobre un plano de referencia no indicado."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "La lámina rotula los titulares de los campos que cruza la traza: Adolfo Pagano, Juan Topella, Ángel Rossi, Díaz, Suc. I. Quiroga [?], Lucio Méndez, Carrega [?] y Pedro Saubidet. Son apellidos italianos y criollos de la generación posterior a las mensuras del siglo XIX. En el acceso a Luján figuran Antonio Aguilar y Pedro Larosa."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "V15 (1939): el folleto del campo de Sillón vende la «Ruta denominada N.º 7», «camino internacional», ya pavimentada de Buenos Aires a Giles. Seis años después de esta lámina, la obra estaba hecha y pasaba por el O del pueblo. V13: el índice del Tomo 53 registra otras cinco piezas del mismo camino (16-20), entre ellas el tramo Giles-Carmen de Areco. V06/V08: el «camino a Luján» del borde S del pueblo es el antecedente urbano de la traza. 028/039: los Saubidet ya eran propietarios (y agrimensores) en el siglo XIX; aquí aparece un Pedro Saubidet como titular de campo. El apellido Pagano figura como lindero en fichas rurales del siglo XIX."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Del Tomo 52 se fotografiaron sólo la lámina A y las dos piezas del acceso a Luján. Faltan las láminas de la sección Km 72 a Km 100 y las de detalle (piezas 2-14 del índice). Los nombres «Suc. I. Quiroga» y «Carrega» son dudosos. Queda por confirmar si la variante del Km 35 fue la traza construida y cuándo se habilitó el pavimento (antes de 1939, según V15)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Dirección Nacional de Vialidad",
+   "rol": "Autora del proyecto",
+   "texto": "Organismo nacional creado por la Ley Nacional de Vialidad de 1932 [ley 11.658, dato a confirmar] para construir la red troncal de caminos. Entre sus primeras obras estuvo el camino Buenos Aires-Mendoza, más tarde Ruta Nacional 7. Esta lámina de noviembre de 1933 es de su primer año de trabajo.",
+   "fuentes": "Esta lámina; dato general de historia vial argentina, no verificado en la búsqueda web."
+  },
+  {
+   "nombre": "Ing. Taboada y Arq. Olivares",
+   "rol": "Estudio y proyecto",
+   "texto": "Firman el cuadro de estudio y proyecto de la lámina A. No hay datos.",
+   "fuentes": "Esta lámina (IMG_1137)."
+  },
+  {
+   "nombre": "Pedro Saubidet",
+   "rol": "Propietario sobre la traza",
+   "texto": "Titular de un campo grande entre el Km 35 y el pueblo. En V15 (1939) aparece «Ángela Pichetto de Saubidet» junto a la estación Giles. No hay otros datos.",
+   "fuentes": "Esta lámina; V15."
+  },
+  {
+   "nombre": "Pedro Larosa",
+   "rol": "Propietario en el acceso a luján",
+   "texto": "Figura con la nota «tiene cedido paso»: cedió la franja del camino. No hay datos.",
+   "fuentes": "IMG_1135-1136."
+  }
+ ],
+ "titulo": "Vialidad, camino Luján-Giles (Ruta 7)",
+ "estado": "Transcripta (10 hojas, 42 renglones), 3 láminas"
+}

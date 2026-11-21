@@ -1,0 +1,428 @@
+{
+ "carpeta": "V09",
+ "carpeta_nombre": "Varios V09",
+ "archivo": "Ficha V09 - Catastro urbano, hoja 9 (c. 1938).docx",
+ "resumen": {
+  "Documento": "Hoja catastral 9 del pueblo de San Andrés de Giles (sector S y SO)",
+  "Propietario / solicitante": "Catastro urbano · hoja 9",
+  "Autor": "Dirección de Geodesia [y] Catastro (PBA)",
+  "Agrimensor": "Sin firma (levantamiento oficial)",
+  "Año": "c. 1938 (asientos hasta F.º 205/1936)",
+  "Escala": "1:1000 (como la hoja 1)",
+  "Ubicación": "Al S de Nicolás Méndez, del camino del borde O a la calle Alsina",
+  "Calles": "Nicolás Méndez, Cecilio Manchi, San Andrés; Urquiza, Quintana, Pellegrini, Alsina (lápiz)",
+  "Instituciones": "no figuran",
+  "Rasgos": "4 manzanas y 2 calles de Ángela Pichetto de Guevara; Cardinale; Biasco 3,6 ha",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), juego de 9 hojas catastrales"
+ },
+ "metricas": {
+  "superficie_ha": "— (hoja urbana; parcelas de 0,07 a 3,6 ha)",
+  "hitos": "camino curvo del borde O; diagonal del SE; «9» en lápiz rojo",
+  "aguas": "no figuran"
+ },
+ "sintesis": "Novena y última hoja catastral: el sector S y SO del pueblo, al S de Nicolás Méndez, desde un camino curvo del borde O hasta Alsina. Casi todas las manzanas están enteras: Maturo, Spinelli, Perillo, Didier, Guerrieri, Almirón (1891 y 1894), Hadad, Bozzani de Miano. Ángela Pichetto de Guevara tiene cuatro manzanas bajo un título de 1913 y ocupa las dos calles entre ellas. Los Cardinale reúnen varias manzanas y fracciones (1899-1936), Biasco tiene 3,6 ha junto a la diagonal y en el borde O hay fracciones grandes (Deluca, Cirilo [?] y Ribarola). Hay ocupantes sin título, un título de 1888 no inscripto (Suc. Francisco Monsalvo) y calles ocupadas por Gaggini y otros.",
+ "caratula": {
+  "img": "img/v/V09/01.jpg",
+  "fuente": "IMG_1117.JPG (vista general)",
+  "campos": [
+   [
+    "Plano",
+    "San Andrés de Giles: hoja catastral 9"
+   ],
+   [
+    "Autor",
+    "Dirección de Geodesia [y] Catastro"
+   ],
+   [
+    "Fecha",
+    "sin fecha visible (c. 1938; último asiento F.º 205/1936)"
+   ],
+   [
+    "Escala",
+    "1:1000 (probable)"
+   ],
+   [
+    "Número de hoja",
+    "9 (lápiz rojo, IMG_1128)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Vista general de la hoja 9",
+   "img": "img/v/V09/01.jpg",
+   "fuente": "IMG_1117.JPG",
+   "nota": "Toma a 0°; ángulo NO plegado. El rótulo que el inventario leyó «Núñez Delucci [?]» es NICOLÁS DELUCA.",
+   "lineas": [
+    "[Hoja suelta, a 0° (N arriba, como la hoja 7); el ángulo NO plegado y el borde O con pliegues y desgarros.]",
+    "[Calles longitudinales, de N a S:] CALLE NICOLÁS MÉNDEZ [borde N, común con la hoja 7] · CALLE CECILIO MANCHI · CALLE SAN ANDRÉS · [cuatro calles más hacia el S, sin rótulo en la vista]",
+    "[Calles transversales: sin rótulo en tinta; a lápiz, sobre algunas: Urquiza, Quintana, C. Pellegrini (IMG_1125) y Calle Alsina en el borde E (IMG_1129)]",
+    "[En el borde O, un camino de doble línea, curvo, sin rótulo, y una diagonal recta que corta el ángulo NO [?]]",
+    "[Gran fracción en el ángulo SO, al O del camino:] NICOLÁS DELUCA · F.º 30/921 · Guía 496 · s.t. 3… [?] m² [a lápiz: «p 23» [?]; a lápiz, abajo: Deluca [?]]",
+    "[Fila O, de N a S:] F.º 76/922 · Nicolás Maturo · s.t. 7499 m² 56 · Guía N.º 2718 · ocupado sin título por Martín Huviedo 780 m² p/c [?]",
+    "N.º 3799/908 A · Rosendo Rubiero · s.t. 7500 m² · Guía 3074 · ocupado sin título por Martín Huviedo 860 m² p/c [?]",
+    "F.º 51/935 · Antonio Molinari · s.t. las medidas lineales en el perímetro · Guía no figura · ocupado sin título por Antonio Molinari · s/p 437 [?] m²",
+    "[Al centro y al E, manzanas de Spinelli, Perillo, Cardinale, Didier, Carbone y Allegro, Almirón, Rodríguez Roca, Guerrieri, Perrupato, Archidiácono [?], Pichetto de Guevara, Biasco; ver los detalles]",
+    "[Ángulo SE, sobre las fracciones cortadas por la diagonal:] F.º 195/928 · Cayetano Cardinale · ver la hoja que completa a esta · F.º 57/920 · Cayetano Cardinale · ver la otra hoja · 151/934 · Antonia [Anselma] Cancio · ver la otra hoja",
+    "[Lápiz rojo, ángulo SE:] 9"
+   ],
+   "interpretacion": "La hoja entera, con el N arriba como la hoja 7: el sector S y SO del pueblo, al S de Nicolás Méndez, desde un camino de doble línea curvo en el borde O hasta la calle Alsina. Al O, las fracciones de Nicolás Deluca y de Cirilo [?] y Ribarola; al centro, un damero de manzanas casi todas enteras; al SE, la gran fracción de Ángel Biasco cortada por la diagonal que viene de la hoja 8, y en el ángulo las remisiones «ver la otra hoja». Número de hoja en lápiz rojo."
+  },
+  {
+   "titulo": "Sector N: de Maturo a Cardinale (manzanas 243-248)",
+   "img": "img/v/V09/03.jpg",
+   "fuente": "IMG_1118.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°. Arriba, a lápiz, tenue, sobre el margen: …Robascio [?] · 51/935 [?]]",
+    "F.º 76/922 · Nicolás Maturo · s.t. 7499 m² 56 · Guía N.º 2718 [lápiz: 245]",
+    "ocupado sin título por Martín Huviedo · 780 m² p/c [?] [faja angosta al O de la manzana Maturo]",
+    "F.º 75/935 · Costábile Spinelli · s.t. 86,60 × 86,60 = 7499 m² 56 · Guía N.º 0190 [lápiz: 246 [?]]",
+    "F.º 86/931 · Cósimo Perillo · s.t. 7499 m² 56 · Guía 2121 [lápiz: 243]",
+    "F.º 74/919 [?] · Víctor Antonio Cardinale · s.t. 86,60 × 86,60 · Guía 263-262 [?]",
+    "N.º 3799/908 A · Rosendo Rubiero · s.t. 7500 m² · Guía 3074 [lápiz: 266]",
+    "ocupado sin título por Martín Huviedo · 860 m² p/c [?]",
+    "[Manzana 247 [lápiz]:] F.º 61/930 · Guía N.º 1986 · Nicolás Cervino · s.t. 17,32 × 34,64 = 599 m² 96",
+    "F.º 161/928 · Guía N.º 563 · Sgo. [Santiago] Lorenzo Durante · s.t. 17,32 × 34,64 = 599 m² 9648",
+    "F.º 193/936 · Gerardo F. Martinesi · s.t. 34,64 × 51,96 = 1799 m² 8944 · Guía N.º 0191",
+    "F.º 55/930 · Pablo Barrera · s.t. 51,96 × 34,64 = 1799 m² 89 · Guía N.º 3415",
+    "F.º 88/936 · Segunda Fortunata T. Pérez de Castro, Ricardo Carmen Castro y Antonio Ángel Pérez · s.t. 51,96 × 51,96 = 2699 m² 8416 · Guía N.º 3998",
+    "[Manzana 248 [lápiz]:] F.º 211/934 · José Marino · s.t. 43,30 × 43,30 = 1875 m² · Guía N.º 0189",
+    "F.º 109/934 · Antonio Di Tata · s.t. 43,30 × 43,30 = 1875 m² · Guía N.º 0511",
+    "F.º 182/926 · Josefina Cardinale Luvisio de Agotegaray · s.t. 43,30 × 43,30 = 1875 m² · Guía N.º 0860",
+    "F.º 181/926 · Teresa Cardinale Luvisio de Agotegaray · s.t. 43,30 × 43,30 = 1875 m² · Guía N.º 0022",
+    "[Abajo, borde S de la toma:] F.º 56/927 · Demetrio Ernesto Archidiácono [?] · s.t. 43,30 × 86,60 = 3750 m² · Guía N.º 0048"
+   ],
+   "interpretacion": "Bajo Nicolás Méndez, manzanas enteras (Maturo 1922, Spinelli 1935, Perillo 1931, Víctor Antonio Cardinale 1919) y dos manzanas subdivididas: la 247 en lotes de 20 × 40 y 40 × 60 v (Cervino, Durante, Martinesi, Barrera, Pérez de Castro) y la 248 en cuartos de 1875 m² (Marino, Di Tata y las hermanas Cardinale Luvisio de Agotegaray, 1926). Martín Huviedo ocupa sin título dos fajas (780 y 860 m²)."
+  },
+  {
+   "titulo": "Sector centro: de Molinari a Mastrolinardo (manzanas 265-271)",
+   "img": "img/v/V09/04.jpg",
+   "fuente": "IMG_1119.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°.]",
+    "F.º 51/935 · Antonio Molinari · s.t. las medidas lineales en el perímetro · Guía no figura · [lados:] 92 m · 86 m · 91,50 m [lápiz: 268]",
+    "ocupado sin título por Antonio Molinari · s/p 437 [?] m² [faja angosta al O]",
+    "F.º 40/930 · Antonio Maturo · s.t. 43,30 × 86,60 = 3749 m² 78 · Guía 2125",
+    "F.º 24/925 · Luis Vicente Chimente [?] y otros · s.t. 3749 m² 78 · Guía 2240 [lápiz: 267]",
+    "F.º 56/927 · Demetrio Ernesto Archidiácono [?] · s.t. 43,30 × 86,60 = 3750 m² · Guía N.º 0048 [lápiz: 266]",
+    "F.º 89/928 · Genaro Agotegaray · s.t. 43,30 × 43,30 = 1875 m² · Guía 1839",
+    "F.º 34/930 · Guía N.º 3416 · Manuel Cerejo [?] · s.t. 21,65 × 43,30 = 937 m² 445",
+    "F.º 122/933 · Cenobio de la Cruz Gallo · s.t. 21,65 × 43,30 = 937 m² 50 · Guía 193 [?]",
+    "[Fila S:] F.º 123/934 · Nicolás Vacoy [?] · s.t. 3750 m² · Guía 3791 · (lote 1) [lápiz: 269]",
+    "F.º 88/934 · Ignacio Morales y Roldán · s.t. 1875 m² · Guía 1153 · (lote 2)",
+    "F.º 122/934 · Zoilo Fernández · s.t. 1875 m² · Guía 3792 · (lote 3)",
+    "F.º 22/933 · Natalio Mastrolinardo y Concepción Camerano de Mastrolinardo · s.t. 3749 m² 78 · Guía 1626 [lápiz: 270]",
+    "F.º 106/934 · Pablo Gaggini · s.t. 3749 m² 78 · Guía 3799",
+    "CALLE PÚBLICA OCUPADA POR PABLO GAGGINI [faja rayada]",
+    "F.º 106/934 · Pablo Gaggini · s.t. 3749 m² 78 · Guía 3798",
+    "F.º 22/933 · Natalio Mastrolinardo y Concepción Camerano de Mastrolinardo · s.t. 3749 m² 78 · Guía 1616 [lápiz: 271 [?]]",
+    "[Mojones de esquina numerados:] 20 · 78 · 58 · 191 [?]"
+   ],
+   "interpretacion": "La manzana de Antonio Molinari, cuyo título no da superficie sino «las medidas lineales en el perímetro» (92, 86 y 91,50 m) y que «no figura» en la Guía, más una faja que él mismo ocupa sin título. Medias manzanas de Maturo, Chimente [?], Archidiácono [?], Mastrolinardo y Gaggini, y una «calle pública ocupada por Pablo Gaggini», rayada."
+  },
+  {
+   "titulo": "Sector centro-S: Ángela Pichetto de Guevara y calles ocupadas",
+   "img": "img/v/V09/02.jpg",
+   "fuente": "IMG_1120.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°.]",
+    "[Un solo rótulo repartido sobre cuatro manzanas (289, 288, 290 y 291 [lápiz]) y las dos calles que las separan:] N.º 19758/913 · Ángela Pichetto de Guevara · s.t. 2 h 99 a 9[8] c 24 [leído «96»; 4 × 7499,56 = 29 998,24 m²] libre de calles · Guía 0045",
+    "[En tinta roja, sobre las dos calles que separan las cuatro manzanas:] Calle pública ocupada por Ángela Pichetto de Guevara · Calle pública ocupada por Ángela Pichetto de Guevara",
+    "F.º 76/929 · Sandalia E. Medina de Maira [?] · s.t. 86,60 × 86,60 = 7499 m² 56 · Guía 1798 [lápiz: 287]",
+    "F.os 204/927 y 49/928 · Salvador Agotegaray · s.t. 86,60 × 86,60 = 7499 m² 56 · Guía 0023 [lápiz: 292 [?]]",
+    "[Arriba, repite la fila de IMG_1119 (Fernández, Vacoy, Mastrolinardo, Gaggini); mojones: 58 · 191 · 12; a lápiz en el borde O: 86,60]"
+   ],
+   "interpretacion": "Ángela Pichetto de Guevara tiene CUATRO MANZANAS bajo un solo título (N.º 19758/1913), «2 h 99 a 9[8] c 24 libre de calles», y dos calles públicas ocupadas, anotadas en tinta roja. Es el mismo apellido de la calle Intendente G. B. Guevara de la hoja 7. Al E, manzanas enteras de Sandalia E. Medina de Maira [?] y Salvador Agotegaray."
+  },
+  {
+   "titulo": "Sector SE: Egidio Bruno, Chimenti, Di Paola, Gaggini y Mariño",
+   "img": "img/v/V09/05.jpg",
+   "fuente": "IMG_1121.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°.]",
+    "[Manzana 307 [lápiz], fila N:] F.º 90/921 · Luis Chimenti · s.t. 937 m² 44 · Guía 2242",
+    "N.º 50449/914 A · María V. Spinelli · s.t. 937 m² 44 · Guía 3197",
+    "F.º 154/918 · Antonio Dipaola · s.t. 21,65 × 43,30 = 937 m² 44 · Guía 2313 · s.t. 21,65 × 43,30 = 937 m² 44 · Guía 2314",
+    "N.º 56425/914 D [?] · Egidio Bruno · s.t. 3750 m² 08 [?] · Guía 201",
+    "[Manzana 308 [lápiz]:] N.º 49076/915 C · Ángel Raggio [?] · s.t. 937 m² 44 · Guía 2975",
+    "N.º 50436/914 A · Antonio di Paulo · s.t. 937 m² 44 · Guía 2888",
+    "F.º 151/921 · Luis Chimenti · s.t. 2812 m² 33 · Guía 2241",
+    "N.º 50435/914 A · Rosa Dileo de di Paulo · s.t. 2812 m² 23 [?] · Guía 2889",
+    "[Manzana siguiente:] ocupado con título no inscripto por Suc. Francisco Monsalvo · s/c. 7499 m² 56 · Guía 1443 · en 7407 m² título otorg[ado] por C. Gómez el 20 de agosto 1888 · Correg. [?] 1150/887 [?]",
+    "Guía 2703 [manzana al E, sin otro rótulo en esta toma]",
+    "[Fila S:] N.º 6806/941 C [sic; ¿911?] · Egidio Bruno · s.t. 86,60 × 86,60 = 7499 m² 56 · Guía 202 [lápiz: 309]",
+    "[A lápiz, sobre la calle al E de la manzana Bruno:] terreno ocupado por Pedro Dipaola y Egidio Bruno",
+    "[Manzana 310 [lápiz]:] F.º 214/931 · Pedro R. Dipaola · s.t. 21,65 × 43,30 = 937 m² 4450 · Guía 3579",
+    "F.º 207/931 · Cataldo Anzaloni [?] · s.t. 1874 m² 89 · Guía 3575",
+    "F.º 205/931 · Pablo Gaggini · s.t. 43,30 × 43,30 = 1874 m² 89 · Guía 3578",
+    "F.º 206/931 · Jorge Mariño · s.t. 16 × 43,30 = 692 m² 80 · Guía 3574",
+    "F.º 160/934 · Juan R. S. Schenone · s.t. 16 × 43,30 = 692 m² 80 · Guía 3846",
+    "F.º 69/936 · Mariano Mariño · s.t. 16,475 × 43,30 = 713 m² 3675 · Guía 3994",
+    "F.º 68/923 · Desiderio Gaggini · s. = 713 m² 3675 · Guía 702",
+    "[A lápiz, sobre la calle al E:] terreno ocupado por Mariano Mariño y Desiderio Gaggini",
+    "[Manzana 311 [lápiz]:] F.º 69/936 · Mariano Mariño · s.t. 21,65 × 43,30 = 937 m² 4450 · Guía 3994",
+    "F.º 68/923 · Desiderio Gaggini · s. 937 m² 4450 · Guía 702",
+    "F.º 203/931 · José Dipaola · s.t. 21,65 × 43,30 = 937 m² 4450 · Guía 3577",
+    "F.º 204/931 · Cipriana Gadea · s.t. 21,65 × 43,30 = 937 m² 4450 · Guía 3576",
+    "F.º 81/936 · Mariano Mariño · s.t. 937 m² 4450 = 21,65 × 43,30 · Guía 3985",
+    "F.º 101/934 · Ramón Gómez · s.t. 21,65 × 43,30 = 937 m² 4450 · Guía 3793",
+    "F.º 101/935 · Martín Díaz · s.t. 43,30 × 43,30 · Guía 701",
+    "Guía 2055 [manzana al E]"
+   ],
+   "interpretacion": "Tres manzanas en lotes de 21,65 × 43,30 (937,445 m²) y de 16 × 43,30 (692,80 m²), con títulos de 1914-1936. Dos fajas de calle anotadas a lápiz: «terreno ocupado por Pedro Dipaola y Egidio Bruno» y «por Mariano Mariño y Desiderio Gaggini». La manzana de la Suc. Francisco Monsalvo está «ocupada con título no inscripto»: el título, por 7407 m², lo «otorgó C. Gómez el 20 de agosto 1888»."
+  },
+  {
+   "titulo": "Borde SO: fracción Deluca y manzanas de Egidio Bruno",
+   "img": "img/v/V09/06.jpg",
+   "fuente": "IMG_1122.JPG",
+   "nota": "Toma girada 90° respecto de la vista general.",
+   "lineas": [
+    "[Toma girada 90° respecto de la vista general (el camino curvo del borde O queda arriba a la izquierda).]",
+    "[Fracción grande al O de la calle:] [NICOLÁS DE]LUCA · F.º 30/921 · Guía 496 [?] · s.t. 3… [?] m² · [a lápiz:] p 23 [?]",
+    "[Manzana al S, sin rótulo en tinta; a lápiz, con tilde:] Dicecco",
+    "F.º 154/918 · Antonio Dipaola · s.t. 21,65 × 43,30 = 937 m² 44 · Guía 2313 · Guía 2314",
+    "N.º 50449/914 A · María V. Spinelli · s.t. 937 m² 44 · Guía 3197",
+    "N.º 56425/914 D [?] · Egidio Bruno · s.t. 3750 m² 08 · Guía 201",
+    "N.º 6806/911 C [?] · Egidio Bruno · s.t. 86,60 × 86,60 = 7499 m² 56 · Guía 202 [lápiz: 309]"
+   ],
+   "interpretacion": "La fracción de Nicolás Deluca (F.º 30/1921) junto al camino del borde O y, al S, una manzana sin rótulo en tinta con «Dicecco» a lápiz. Egidio Bruno tiene una manzana entera y media más (1911-1914)."
+  },
+  {
+   "titulo": "Borde O: fracciones de Vacoy y Deluca junto al camino",
+   "img": "img/v/V09/07.jpg",
+   "fuente": "IMG_1123.JPG",
+   "nota": "Toma a 0°; ángulo NO plegado; mancha de humedad.",
+   "lineas": [
+    "[Toma a 0°; ángulo NO plegado, mancha de humedad.]",
+    "[Camino curvo de doble línea en el borde O, sin rótulo; mojón 85 [?]]",
+    "F.º 129/924 · Nicolás Vacoy [?] · s.t. 4048 m² 37 · Guía 1824 [a lápiz, tenue: 129/924]",
+    "F.º 70/926 · [a lápiz: Nicolás Deluca] · 7499 m² 56 p/c · Guía 2268 · [lados] 86,60 · 86,60 [a lápiz: 70/926]",
+    "NICOLÁS DELUCA · F.º 30/9[21] · 3… [?] m² · Guía 496 · [a lápiz: p 23; 30/921 [?]]",
+    "[A la derecha: manzanas 289 y 290 de la fila S (Guía 0045) y la fila de Vacoy, Morales y Fernández (IMG_1119); mojón 58]"
+   ],
+   "interpretacion": "El camino curvo de doble línea limita fracciones irregulares: Nicolás Vacoy [?] (4048,37 m², 1924) y una manzana de 7499,56 m² «p/c» (por cálculo) con el F.º 70/1926, que a lápiz se atribuye a Nicolás Deluca."
+  },
+  {
+   "titulo": "Borde O: Molinari y la fracción de Cirilo y Ribarola",
+   "img": "img/v/V09/08.jpg",
+   "fuente": "IMG_1124.JPG",
+   "nota": "Toma a 0°; legajo plegado a la izquierda.",
+   "lineas": [
+    "[Toma a 0°; a la izquierda el legajo plegado; el borde O de la hoja desgarrado.]",
+    "F.º 59/930 · Máximo Cirilo [?] y Máximo Ribarola [?] · s.t. 28 845 m² [?] · Guía 3333 [fracción triangular entre el camino curvo y la primera calle; a lápiz, tenue: 59/930 [?]]",
+    "[A lápiz, tenue, en el borde N:] 3737 [?]",
+    "F.º 51/935 · Antonio Molinari · s.t. las medidas lineales en el perímetro · Guía no figura · [lados] 92 m · 86 m · 91,50 m",
+    "ocupado sin título por Antonio Molinari · s/p 437 [?] m²",
+    "N.º 3799/908 A · Rosendo Rubiero · 7500 m² · Guía 3074 · ocupado sin título por Martín Huviedo 860 m² p/c [?]",
+    "F.º 123/934 · Nicolás Vacoy [?] · s.t. 3750 m² · Guía 3791 (lote 1) · F.º 88/934 · Ignacio Morales y Roldán · s.t. 1875 m² · Guía 1153 (lote 2) · F.º 122/934 · Zoilo Fernández · s.t. 1875 m² · Guía 3792 (lote 3)",
+    "[Mojones de esquina:] 20 · 78 · 59 [?] · 58 · [lado] 86,60"
+   ],
+   "interpretacion": "La fracción triangular entre el camino y la primera calle es de Máximo Cirilo [?] y Máximo Ribarola [?] (F.º 59/1930, 28 845 m² [?]). Repite Molinari, Rubiero y el lote de Vacoy, Morales y Fernández (lotes 1-3)."
+  },
+  {
+   "titulo": "Borde N: calle Nicolás Méndez, de Urquiza a Alsina",
+   "img": "img/v/V09/09.jpg",
+   "fuente": "IMG_1125.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°. En el margen N, la faja de la hoja 7 al N de Nicolás Méndez, con un rótulo a lápiz casi borrado:] … [?] Cipriano [?] Casado sin título [?]",
+    "CALLE NICOLÁS MÉNDEZ · CALLE CECILIO MANCHI · CALLE [SAN ANDRÉS] · [a lápiz, sobre las calles transversales:] Urquiza · Quintana [?] · C. Pellegrini [?]",
+    "F.º 86/931 · Cósimo Perillo",
+    "F.º 74/919 · Víctor Antonio Cardinale · s.t. 86,60 × 86,60 · Guía 263-262 [lápiz: 242]",
+    "F.º 37/921 · Víctor Antonio Cardinale · s.t. 16 894 m² · Se observa su ficha [?] · Guía 264 [lápiz: 241]",
+    "F.º 192/925 · Augusto Didier · s.t. 7499 m² 56 · Guía 0528 [lápiz: 240]",
+    "[Al E, manzana 239 [lápiz] y rótulo:] CALLE PÚBLICA [OCUPADA POR C. CARBONE]",
+    "F.º 165/920 · Agustín Felice y Serafino [?] · s.t. 64,95 × 43,30 = 2812 m² 34 · Guía 2383 [lápiz: 249]",
+    "F.º 79/930 · Juan Domingo Ríos · s.t. 21,65 × 43,30 = 937 m² 445 · Guía 3549",
+    "N.º 3139/891 · Froilán Almirón · s.t. 43,30 × 43,30 = [sin cifra] · Guía 1854",
+    "F.º 2/935 · Exequiel C. Ríos · s.t. 43,30 × 43,30 = 1874 m² 89 · Guía 2999",
+    "F.º 109/922 · Juan Bocconi · s.t. 43,30 × 86,60 = 3749 m² 78 p/c [?] · Guía 1992",
+    "F.º 108/922 · Filomena Serra de Felice · s.t. 86,60 × 43,30 = s.c. 3749 m² 78 · Guía 620",
+    "F.º 13/935 · José Rodríguez Roca · s.t. 86,60 × 86,60 = 7499 m² 56 · Guía 2384"
+   ],
+   "interpretacion": "La fila N de la hoja: Cardinale (dos manzanas, una de 16 894 m²), Didier, Rodríguez Roca, Bocconi, Serra de Felice, los Ríos y Froilán Almirón (1891). A lápiz, sobre las calles transversales, sus nombres (Urquiza, Quintana, C. Pellegrini) y en el margen N un rótulo casi borrado: «… Cipriano [?] Casado sin título», el ocupante de la hoja 7."
+  },
+  {
+   "titulo": "Sector centro: Almirón, Cardinale, Guerrieri, Paolino",
+   "img": "img/v/V09/10.jpg",
+   "fuente": "IMG_1126.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°.]",
+    "N.º 232/894 · Froilán Almirón · s.t. 86,60 × 86,60 = · Guía 1855 [lápiz: 265 [?]]",
+    "F.º 24/927 · Mariano M. Fernández · s.t. 43,30 × 43,30 = 1874 m² 89 · Guía 628 [?]",
+    "F.º 143/926 · José A. Sonte [?] · s.t. 43,30 × 43,30 = 1874 m² 89 · Guía 2577",
+    "ocupante · Enrique Paolino · s/c 1874 m² 89 · Guía no figura",
+    "F.º 198/928 · Santiago Grosso Pagano · s.t. 43,30 × 43,30 = p.c. 1874 m² 89 · Guía 2541 [lápiz: 264]",
+    "F.º 13/919 · Juan Guerrieri · s.t. 86,60 × 86,60 = 7499 m² 56 · Guía 0848 [lápiz: 263]",
+    "F.º 57/927 · Víctor Antonio Cardinale · s.t. 43,30 × 86,60 = 3749 m² 78 [?] · Guía N.º 0265",
+    "F.º 108/928 [?] · Josefina Perrupato de Cappecci [?] · s.t. 43,30 × 86,60 = 3749 m² 78 · Guía N.º 4141 [?]",
+    "N.º 4170/899 · Cayetano Cardinale · s.t. 7500 m² · Guía 2089",
+    "N.º 5952/899 - 7245/900 - 14805/907 A · CAYETANO CARDINALE · según títulos 16 358 m² 89 · Guía 2087-2088 · la fracción de 8437 m² [?] del título 5952/899 no está [en] guía",
+    "[Lado S:] s.t. 214 m · [mojón] 126"
+   ],
+   "interpretacion": "Froilán Almirón (N.º 232/1894), un «ocupante» Enrique Paolino que «no figura» en Guía, Juan Guerrieri (1919) y las fracciones de Cayetano Cardinale: una manzana de 1899 y 16 358,89 m² según tres títulos (1899, 1900, 1907), con la nota de que «la fracción de 8437 m² del título 5952/899 no está [en] guía»."
+  },
+  {
+   "titulo": "Ángulo S: fracción de Ángel Biasco",
+   "img": "img/v/V09/11.jpg",
+   "fuente": "IMG_1127.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°.]",
+    "F.º 205/936 · Clementino B. Díaz · s.t. 43,30 × 43,30 = 1874 m² 89 · Guía 621 [?]",
+    "F.º 19/932 · Anastasio L. Cuello · s.t. 43,30 × 43,30 = 1874 m² 89 · Guía 906",
+    "N.º 13472/913 · Vicente C. Ormachea · s.t. 3749 m² 78 · Guía 1287",
+    "F.º 76/929 · [Sandalia E. Medina de Maira]",
+    "N.º 1731 [?]/901 · Gabino Di Tata · s.t. 7499 m² 56 · Guía 0510",
+    "N.º 13347/908 · Ángel Biasco · por cálculo 3 h 60 a 59 c · Guía 3320 · [lados] s.t. 214 m [N] · s.t. 214 m [O] · s.t. 235 m [diagonal E] [lápiz: 254 [?]]",
+    "[Mojones:] 126 · 12 · 145"
+   ],
+   "interpretacion": "La fracción de Ángel Biasco (N.º 13347/1908), 3 h 60 a 59 c «por cálculo», entre dos lados de 214 m y la diagonal (235 m). Al O, lotes de Clementino B. Díaz, Anastasio L. Cuello, Vicente C. Ormachea (1913) y la manzana de Gabino Di Tata (1901)."
+  },
+  {
+   "titulo": "Ángulo SE: Hadad, Bozzani de Miano, Biasco y el «9»",
+   "img": "img/v/V09/12.jpg",
+   "fuente": "IMG_1128.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°.]",
+    "F.º 108/935 · Jamil Caluch [?] y Daher Hadad · s.t. 86,60 × 86,60 s/c 7499 m² 56 · Guía 2703 [lápiz: 305 [?]]",
+    "F.º 97/933 · Rosa M. Bozzani de Miano · s.t. 86,60 × 86,60 = 7499 m² 56 · Guía 2055 [lápiz: 312 [?]]",
+    "ocupado con título no inscripto por Suc. Francisco Monsalvo · s/c 7499 m² 56",
+    "N.º 13347/908 · Ángel Biasco · por c/ 1048 [?] m² 20 · Guía 3520 [?] · [lados] s.t. 32,50 · s.t. 34 [?] · 41 [?] [triángulo al S de la calle] · [lado de la fracción mayor] s.t. 123 m",
+    "[Más allá, campo en blanco con contornos de edificios; mojones 173 · 174 · 129]",
+    "[Lápiz rojo, grande:] 9"
+   ],
+   "interpretacion": "Manzanas enteras de Jamil Caluch [?] y Daher Hadad (1935) y de Rosa M. Bozzani de Miano (1933), un triángulo de Biasco al S de la calle y, más allá, el campo sin parcelar con contornos de edificios. «9» grande en lápiz rojo."
+  },
+  {
+   "titulo": "Ángulo NE: Carbone y Allegro, Didier, Cardinale y remisiones a la otra hoja",
+   "img": "img/v/V09/13.jpg",
+   "fuente": "IMG_1129.JPG",
+   "nota": "Toma girada 180°; la imagen se exporta enderezada.",
+   "lineas": [
+    "[Toma girada 180°.]",
+    "CALLE NICOLÁS MÉNDEZ · CALLE CECILIO MANCHI · CALLE SAN ANDRÉS · [a lápiz, en el borde E:] Calle Alsina",
+    "F.º 192/925 · Augusto Didier · s.t. 7499 m² 56 · Guía 0528",
+    "N.º 10073/906 · Carlota Carbone y Allegro · s.t. 86,60 × 86,60 · Guía N.º 2079 [lápiz: 239]",
+    "CALLE PÚBLICA OCUPADA POR C. CARBONE",
+    "N.º 10073/906 · Carlota Carbone y Allegro · s.t. 86,60 × 86,60 · Guía N.º 2079",
+    "F.º 13/935 · José Rodríguez Roca · s.t. 86,60 × 86,60 = 7499 m² 56 · Guía 2384",
+    "F.º 13/919 · Juan Guerrieri · s.t. 86,60 × 86,60 = 7499 m² 56 · Guía 0848",
+    "F.º 162/925 · Crescenzo Marino · s.t. 3749 m² 78 · Guía 2704",
+    "N.º 5902/905 · Nicolás Perrupato · s.t. 43,30 × 86,60 = 3749 m² 78 · Guía 2932",
+    "N.º 5952/899 - 7245/900 - 14805/907 A · CAYETANO CARDINALE · según títulos 16 358 m² 89 · Guía 2087-2088 · la fracción de 8437 m² del título 5952/899 no está [en] guía",
+    "F.º 195/928 · Cayetano Cardinale · ver la hoja que complementa a esta",
+    "151/934 · Antonia A[nselma] Cancio · ver la otra hoja",
+    "[A lápiz, en el margen E, sobre la manzana al E de Alsina:] 129/924 [?] · Robascio [?]"
+   ],
+   "interpretacion": "Las dos manzanas de Carlota Carbone y Allegro (N.º 10073/1906) con la calle ocupada entre ellas, Didier, Rodríguez Roca, Guerrieri, Marino, Perrupato y las remisiones de Cardinale y Cancio a la hoja 8. A lápiz en el margen E: «Calle Alsina» y «Robascio [?]», el titular sin inscripción de la hoja 8."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Hoja catastral 9 (vista general)",
+   "img": "img/v/V09/01.jpg",
+   "fuente": "IMG_1117.JPG (detalles IMG_1118-1129)",
+   "orientacion": "N arriba (Nicolás Méndez en el borde N, común con la hoja 7); sin flecha visible",
+   "interpretacion": "Mismo formato que las otras hojas: tinta negra, bordes rojos, tildes rojos, números de manzana a lápiz (239-312) y rótulos agregados en tinta roja (calles ocupadas). Las calles transversales no llevan nombre en tinta; sus nombres se agregaron a lápiz. En los bordes, rótulos a lápiz de las hojas vecinas (Casado al N, Robascio al E) muestran que las hojas se compaginaron entre sí.",
+   "referencias": [
+    [
+     "Calle pública ocupada por Ángela Pichetto de Guevara",
+     "dos calles, en tinta roja (IMG_1120)"
+    ],
+    [
+     "Calle pública ocupada por Pablo Gaggini",
+     "faja rayada (IMG_1119)"
+    ],
+    [
+     "Calle pública ocupada por C. Carbone",
+     "entre las manzanas de Carlota Carbone y Allegro (IMG_1129)"
+    ],
+    [
+     "Ver la otra hoja",
+     "remisiones de Cardinale (F.º 195/928, F.º 57/920) y Cancio (151/934) a la hoja 8"
+    ],
+    [
+     "Camino curvo",
+     "borde O, sin rótulo"
+    ],
+    [
+     "9 (lápiz rojo)",
+     "número de la hoja, ángulo SE"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: las cuatro manzanas de Ángela Pichetto de Guevara",
+   "img": "img/v/V09/02.jpg",
+   "fuente": "IMG_1120.JPG",
+   "orientacion": "toma a 0°",
+   "interpretacion": "Un solo rótulo repartido sobre cuatro manzanas (288-291) dice que el título de 1913 cubre 2 h 99 a 9[8] c 24 «libre de calles», es decir sólo las manzanas (4 × 7499,56 = 29 998,24 m²); las dos calles que las separan están «ocupadas» por la titular. En el terreno la cuadrícula no se había abierto.\nN.º 19758/913\ntítulo de Ángela Pichetto de Guevara, Guía 0045\nF.º 76/929\nSandalia E. Medina de Maira [?]\nF.os 204/927 y 49/928\nSalvador Agotegaray",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Es el borde S y SO del pueblo: casi todas las manzanas siguen enteras, con una o dos construcciones dibujadas, y varias calles del trazado oficial están cerradas por los vecinos. Al O, un camino curvo separa fracciones de forma irregular (Deluca, Cirilo [?] y Ribarola, Vacoy); al SE, la diagonal que viene de la hoja 8 corta la fracción de Biasco. Más allá, el papel queda en blanco: es el campo."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "La hoja suma muchas situaciones de hecho: calles ocupadas por Ángela Pichetto de Guevara (dos), Pablo Gaggini y C. Carbone; fajas de calle «ocupadas» por Dipaola y Bruno y por Mariño y Gaggini; Martín Huviedo y Antonio Molinari ocupan sin título; Enrique Paolino figura sólo como «ocupante». La sucesión de Francisco Monsalvo tiene un título no inscripto otorgado por «C. Gómez» el 20/8/1888 (el mismo nombre que en la escritura de Destefano de 1887, hoja 7). El título de Molinari no da superficie, sólo medidas lineales, y no figura en la Guía."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Se verificaron en python: 34,64 × 51,96 = 1799,8944; 51,96² = 2699,8416; 64,95 × 43,30 = 2812,335; 16 × 43,30 = 692,80; 16,475 × 43,30 = 713,3675; 21,65 × 43,30 = 937,445. Todo exacto. El rótulo de Pichetto de Guevara se leyó «2 h 99 a 96 c 24», pero cuatro manzanas dan 29 998,24: se corrigió a 9[8]. Hay superficies «p/c» (por cálculo) y «s/c» cuando el título no las da."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Manzanas de 100 v (86,60 m). Subdivisiones en varas: 20 × 40 v (17,32 × 34,64), 40 × 60 v (34,64 × 51,96), 60 × 60 v (51,96²), cuartos de 50 × 50 v (1875 m²) y octavos de 25 × 50 v (937,445 m²). En la manzana 310 hay frentes métricos de 16 y 16,475 m sobre fondos de 43,30 m (50 v). Las fracciones del borde se dan en hectáreas, áreas y centiáreas."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Predominan las manzanas enteras de un solo dueño, con títulos de 1891 a 1936. Los títulos del siglo XIX son los de Almirón (1891, 1894), Cayetano Cardinale (1899, 1900) y el título no inscripto de Monsalvo (1888). Muchos italianos (Cardinale, Maturo, Spinelli, Perillo, Guerrieri, Gaggini, Mastrolinardo, Bruno, Di Tata, Perrupato), algunos españoles y vascos (Agotegaray, Ormachea, Rodríguez Roca) y un sirio-libanés (Daher Hadad, 1935). Los Cardinale y los Agotegaray están emparentados (Cardinale Luvisio de Agotegaray)."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "V05: Ángela Pichetto de Saubidet ocupaba allí una calle pública; aquí Ángela Pichetto de GUEVARA ocupa dos. Puede ser la misma persona con dos matrimonios o dos Ángelas de la familia [?]. La calle Intendente G. B. Guevara (hojas 6 y 7) lleva el apellido de su marido o de un pariente [?]. V05: la «Suc. de Vicente Di Cecco, no se hallaron títulos» reaparece aquí como «Dicecco» a lápiz en una manzana sin rótulo. V06: Cecilio David Huviedo (1911); aquí Martín Huviedo ocupa sin título. 160 (1891): sucesión de Juan Ormaechea; aquí Vicente C. Ormachea (1913). Fichas rurales de Monsalvo (Francisco y Crecencio, legado de 1873): aquí la Suc. Francisco Monsalvo, con título de 1888. 060: Almirón y Molinari en el borde urbano."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Se leyeron las 13 tomas. Quedan con [?] Cirilo, Ribarola, Vacoy, Caluch, Archidiácono, Medina de Maira y la superficie de Cirilo y Ribarola (28 845 m²). Preguntas abiertas: qué camino es el curvo del borde O (¿prolongación de la avenida 25 de Mayo o camino a Areco?); quién es C. Gómez, que otorga títulos en 1887-1888; qué relación hay entre Ángela Pichetto de Guevara, la calle Intendente G. B. Guevara y el agrimensor Ramón Guevara (180, 1899). Una búsqueda web sólo confirmó que hoy existe en Giles una calle «Prolongación Guevara»."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Ángela Pichetto de Guevara",
+   "rol": "Titular de cuatro manzanas y dos calles",
+   "texto": "Por título de 1913 (N.º 19758) tenía cuatro manzanas (29 998,24 m²) en el S del pueblo y ocupaba las dos calles que las separan. Es de la familia de José Pichetto (V02; fichas 109, 116, 177, 180) y su marido o pariente pudo ser el intendente G. B. Guevara que da nombre a una calle [?]. En V05 aparece una Ángela Pichetto de Saubidet [?].",
+   "fuentes": "Este plano (IMG_1120); CV05; CV07; METODO.md. Búsqueda web sin resultado sobre el intendente."
+  },
+  {
+   "nombre": "Familia Cardinale",
+   "rol": "Titulares de las hojas 8 y 9",
+   "texto": "Cayetano Cardinale reúne unas 12,4 ha en las hojas 8 y 9 (títulos de 1899 a 1928), entre ellas 16 358,89 m² en tres títulos de 1899-1907 y la fracción de 9 ha 15 a 74 c de 1920. Víctor Antonio Cardinale tiene unas 3,3 ha (1919-1936). Josefina y Teresa Cardinale Luvisio de Agotegaray tienen dos lotes de 1875 m² (1926). Es la familia con más tierra en el S del pueblo. No hay datos externos.",
+   "fuentes": "Este plano (IMG_1118, 1125, 1126, 1129); CV08."
+  },
+  {
+   "nombre": "Sucesión de Francisco Monsalvo",
+   "rol": "Ocupante con título no inscripto",
+   "texto": "Ocupa una manzana (7499,56 m²) con un título de 7407 m² «otorgado por C. Gómez el 20 de agosto 1888», que no se inscribió. El apellido es de los más antiguos del partido: la suerte colonial de Monsalvo (119) y el legado de Fernando Monsalvo a sus hijos Francisco y Crecencio (1873). No se sabe si es el mismo Francisco.",
+   "fuentes": "Este plano (IMG_1121, 1128); METODO.md (119 y fichas de Monsalvo)."
+  },
+  {
+   "nombre": "Antonio Molinari",
+   "rol": "Titular y ocupante",
+   "texto": "Tiene en la hoja 9 una manzana cuyo título (F.º 51/1935) sólo da medidas lineales y no figura en la Guía, y ocupa sin título una faja contigua; en la hoja 7, con el mismo folio, un remanente de 4453,67 m². El apellido figura entre los ocupantes italianos del terreno del Santo en 1871 (060).",
+   "fuentes": "Este plano (IMG_1119, 1124); CV07; METODO.md (060)."
+  }
+ ],
+ "titulo": "Catastro urbano · hoja 9",
+ "estado": "Transcripta (13 hojas, 158 renglones), 2 láminas"
+}

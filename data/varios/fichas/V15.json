@@ -1,0 +1,308 @@
+{
+ "carpeta": "V15",
+ "carpeta_nombre": "Varios V15",
+ "archivo": "Ficha V15 - Avisos de remate de campos (1939).docx",
+ "resumen": {
+  "Documento": "Tres avisos de remate pegados en el Tomo 53 (piezas 21-23)",
+  "Propietario / solicitante": "Avisos de remate de campos",
+  "Autor": "Casa de Bmé. Mitre 475; Banco de la Nación y Olmi; Banco Hipotecario Nacional",
+  "Agrimensor": "—",
+  "Año": "1939 (Sillón); c. 1932-1938 [?] (Zapattini); 1935-1946 [?] (BHN)",
+  "Escala": "Sin escala; croquis del BHN con escala gráfica de 0 a 6 km",
+  "Ubicación": "Cerca de Espora; NO de la ciudad (Ruta 7); 1 km al S de la estación Ruiz",
+  "Superficies": "44,5127 ha; 490,1285 ha en 50 lotes; 18,3152 ha",
+  "Rasgos": "Ruta 7 pavimentada; crédito agrario; camino de cintura de 60 m; remate hipotecario",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), IMG_1152-1157"
+ },
+ "metricas": {
+  "superficie_ha": "44,5127 · 490,1285 (50 lotes, verificado) · 18,3152 (verificado)",
+  "hitos": "D.º Km 125; estaciones Giles, Espora y Ruiz",
+  "aguas": "arroyo de Giles (S del campo Sillón); arroyo de la Cruz (lote del BHN)"
+ },
+ "sintesis": "Tres avisos de remate pegados al final del Tomo 53 (piezas 21-23): 44,51 ha «de campo flor» de la sucesión de María Zapattini de Raggio cerca de la estación Espora, a $ 450 la hectárea, con plano de unos 90 titulares del SE; el folleto del Banco de la Nación y Olmi (1939) para «El campo de Sillón», 490,13 ha al NO de la ciudad en 50 chacras sobre la Ruta 7 pavimentada, con crédito agrario a 10 años (la suma de lotes verifica); y un remate del Banco Hipotecario Nacional de 18,32 ha junto a la estación Ruiz por una deuda de $ 4020. Mercado de tierras de los años treinta: sucesiones, crédito estatal y ejecuciones.",
+ "caratula": {
+  "img": "img/v/V15/01.jpg",
+  "fuente": "IMG_1156.JPG (tapa del folleto de 1939)",
+  "campos": [
+   [
+    "Pieza 21",
+    "«44 hectáreas de campo flor», suc. Zapattini de Raggio, base $ 450/ha"
+   ],
+   [
+    "Pieza 22",
+    "«El campo de Sillón», 490 ha 12 a 85 ca en 50 fracciones, 14/5/1939"
+   ],
+   [
+    "Vendedor (22)",
+    "Banco de la Nación Argentina; Olmi; martillero Fernando Alvis"
+   ],
+   [
+    "Pieza 23",
+    "Banco Hipotecario Nacional, 18 ha 3152 m², est. Ruiz, base $ 5400"
+   ],
+   [
+    "Martillero (23)",
+    "Eduardo E. Navone"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Aviso: «44 hectáreas de campo flor» (sucesión Zapattini de Raggio)",
+   "img": "img/v/V15/03.jpg",
+   "fuente": "IMG_1152.JPG",
+   "nota": "Toma girada 90° (se lee girándola en sentido horario). Es la pieza 21 del Tomo 53. Año: el 26 de octubre cae miércoles en 1927, 1932 y 1938 (verificado); por la tipografía, c. 1932-1938 [?].",
+   "lineas": [
+    "[Toma girada 90°: se lee girándola 90° horario. Hoja impresa en negro y rojo, plegada, pegada sobre la hoja del libro; detrás asoma, a lápiz rojo, «San Andrés de Giles».]",
+    "Bmé. Mitre 475 · Buenos Aires",
+    "EN SAN ANDRÉS DE GILES [rojo]",
+    "44 Hectáreas de campo flor",
+    "En la zona maicera, una espléndida fracción de campo para todo destino, tierra de capacidad productiva extraordinaria, sin desperdicio alguno. Dista sólo una legua de San Andrés de Giles y legua y media de la estación Espora del F. C. C. G. B. A. Lote 8 del plano especial de subdivisión; linda al NE., Nicolás Méndez; al NO., lote 7; al SO., Rosa T. de Acuña y al SE., Juan Shanahan. Superficie total: 44 hectáreas, 51 áreas, 27 centiáreas, 45 decímetros cs.",
+    "Base $ 450 la Hectárea",
+    "[Plano de ubicación en recuadro (sin escala); la fracción, en negro, junto a «Suc. Luis Cané [?]». Titulares rotulados de N a S:] José E. Pichetto · L. P. de Cullingan · Ángela Pichetto de Saubidet · Gipparelli · J. Pichetto · A. de Saubidet · J. Caletti · J. Gallo · Peñalva · A. E. Casco · M. C. de Peralta · M. T. Casco · EST. GILES · A. D. de Ortiz · A. Lescano · Luis P. M. Sillón · Juana P. de Cazzaniga · F.C.C.B.A. · Hoy Bava [?] · S. Thompson · Juan L. Sillón · Luis Nasimbene · Suc. Lina Cucullu · R. Galeano de Casas · Andrés J. Caletti y H.nos · J. Facchini [?] · A. B. Bava · lotes 33-45 · «El Retiro» Ángel Bonetti · E. Caletti · R. Álvarez · Augusto Didier · P. M. T. G. de Calegari [?] · Tomás Kain [?] · Suc. Juan Nugent · Miguel Nugent · Brígida Shanahan de Ménica · D. B. de Busso · Suc. Nicolás Méndez · Pedro Pablo Shanahan · Martinelli · U. Álvarez · M. Gaynor · Sarmiento · I. B. de Necchi · Mercedes C. de Contreras · Suc. Luis Cané [?] · J. Goyeneche · Suc. Santiago Morrow · M. G. de Kelly · T. Gaynor · Suc. D. Santia [?] · María S. de Pontiroli · Suc. G. Acuña · J. L. Cucullu · Luis G. Acuña · Patricio Dowling · Suc. Felipe S. Espil · Ana Mulvihill · Juan Mulvihill · J. T. y G. de Puente · C. T. G. Garassi [?] Pontiroli · Dionisio Mulvihill · Elisa Mulvihill · M. y G. Mulvihill · Bartolomé Novaro · Juan Mulvihill · A. Cané · Farías · Suc. Cané · Rosas de Espil · Suc. Jorge Belson · Carmen M. de Gómez · Suc. Bianchi · Juana Hauret de Larrea · R. Echenique · D. de A. U. de Pereyra Iraola · E. Silva · M. Linche · M. G. de Linche · S. J. Unzué · «San José» José S. Larrea · Santiago Murray · J. Eyharts [?] · D.º Km 125 · EST. ESPORA · Saturnino J. Unzué",
+    "El Miércoles 26 de Octubre, a las 16 hs. [rojo]",
+    "en nuestra casa Bartolomé Mitre 475",
+    "Venta por división de condominio en la «Sucesión de Doña María Zapattini de Raggio». – Mayores datos en nuestra casa: Bmé. Mitre 475 – U. T. (33) Avda. 3275 y 5319."
+   ],
+   "interpretacion": "Hoja de remate de una casa de Bartolomé Mitre 475 (Buenos Aires) que no se nombra. Ofrece el lote 8 de un plano especial de subdivisión: 44 ha 51 a 27 ca 45 dm² «en la zona maicera», a una legua del pueblo y a legua y media de la estación Espora del F.C.C.G.B.A. Linda con Nicolás Méndez (NE), el lote 7 (NO), Rosa T. de Acuña (SO) y Juan Shanahan (SE). Base $ 450 la hectárea; remate el miércoles 26 de octubre a las 16 h, por división de condominio en la sucesión de María Zapattini de Raggio. Trae un plano de ubicación con unos 90 titulares del cuadrante S y SE del partido, de la estación Giles a la estación Espora."
+  },
+  {
+   "titulo": "Folleto del Banco de la Nación: interior (facilidades de pago, bases y plano de las 50 chacras)",
+   "img": "img/v/V15/02.jpg",
+   "fuente": "IMG_1153.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°: el folleto desplegado; a la izquierda, texto en negro con títulos en rojo; a la derecha, plano impreso en azul con el camino en rosa.]",
+    "FACILIDADES DE PAGO",
+    "La Ley de «Crédito Agrario», faculta al Banco de la Nación Argentina a acordar créditos a los colonos que exploten, directamente la tierra, hasta un máximo de $ 50.000.— por firma, debiendo solicitarse el préstamo con anterioridad a la fecha del remate, en el Banco de la Nación Argentina, en Mercedes (Buenos Aires). Los préstamos que acuerda el Banco de la Nación Argentina, podrán abonarse a 5, 7 ó 10 años de plazo, a opción del comprador, de acuerdo con el detalle siguiente:",
+    "PAGO EN 5 AÑOS: 10 % al vencimiento del 1er. año · 15 ″ 2.º · 20 ″ 3.º · 25 ″ 4.º · 30 ″ 5.º · Interés 5 % anual",
+    "PAGO EN 7 AÑOS: 10 % al vencimiento del 1er. año · 10 ″ 2.º · 10 ″ 3.º · 15 ″ 4.º · 15 ″ 5.º · 20 ″ 6.º · 20 ″ 7.º · Interés 5 ½ % anual",
+    "PAGO EN 10 AÑOS: 10 % al vencimiento de cada año · Interés 6 % anual",
+    "Los intereses, se abonarán, en todos los casos, por semestres anticipados, constituyéndose hipoteca en primer grado a favor del Banco de la Nación Argentina. El excedente entre el importe total de la venta y el préstamo que acuerde el Banco de la Nación Argentina, se abonará al contado, en el acto de la escrituración.",
+    "Las escrituras, se extenderán ante el escribano que designe el Banco de la Nación Argentina.",
+    "Títulos perfectos, examinados y aceptados por el Banco.",
+    "Seña 8 %. · Comisión 2 %.",
+    "BASES DE VENTA [$ por hectárea]",
+    "Lote N.º 1 $ 600 · 2 630 · 3 630 · 4 600 · 5 580 · 6 360 · 7 600 · 8 630 · 9 630 · 10 550 · 11 500 · 12 500 · 13 390 · 14 450 · 15 600 · 16 630 · 17 550 · 18 390 · 19 360 · 20 610 · 21 670 · 22 500 · 23 360 · 24 600 · 25 580",
+    "26 430 · 27 360 · 28 430 · 29 600 · 30 600 · 31 580 · 32 480 · 33 390 · 34 390 · 35 500 · 36 450 · 37 430 · 38 360 · 39 480 · 40 430 · 41 360 · 42 300 · 43 300 · 44 300 · 45 380 · 46 480 · 47 480 · 48 530 · 49 390 · 50 300",
+    "[Plano, sin título ni escala; flecha de N abajo a la derecha. Linderos:] J. M. Méndez [N y E] · E. J. Lombardi · J. Martinelli · Thompson · M. S. L. Melo · P. Feely e Hijos · J. Vázquez de Espil [O] · J. E. Clapesonni [?] de Vanni e Hijos [S]",
+    "[Caminos:] CAMINO NACIONAL A MENDOZA (PAVIMENTADO) [en rosa, diagonal NO-SE] · CAMINO (PROYECTADO) DE MERCEDES A SAN ANTONIO DE ARECO DE 60 MS. DE ANCHO · CAMINO DE C. DE ARECO A S. ANDRÉS DE GILES · Camino [vecinales, entre lotes] · F.C.C.B.A. [diagonal] · ARROYO DE GILES [límite S] · CIUDAD DE SAN ANDRÉS DE GILES",
+    "[Lotes y superficies:] 1: 15 H 84 A 33 · 2: 6 H 06 A 75 · 3: 9 H 74 A 81 · 4: 7 H 89 A 12 · 5: 7 H 88 A 88 · 6: 13 H 87 A 27 · 7: 15 H 02 A 83 · 8: 4 H 23 A 99 · 9: 5 H 11 A 43 · 10: 5 H 67 A · 11: 7 H 49 A 98 · 12: 7 H 49 A 98 · 13: 9 H 95 A 36 · 14: 15 H 01 A 68 · 15: 7 H 49 A 99 · 16: 5 H 04 A 54 · 17: 9 H 50 A 47 · 18: 14 H 03 A 28 · 19: 15 H 00 A 56 · 20: 7 H 49 A 99 · 21: 10 H 67 A 43 · 22: 5 H 69 A 59 · 23: 6 H 50 A 13 · 24: 13 H 95 A 80 · 25: 14 H 28 A 72 · 26: 7 H 14 A 34 · 27: 8 H 99 A 50 · 28: 6 H 39 A 25 · 29: 4 H 00 A 65 · 30: 13 H 69 A 30 · 31: 14 H 79 A 27 · 32: 4 H 56 A 64 · 33: 5 H 41 A 21 · 34: 6 H 68 A 50 · 35: 9 H 43 A 75 · 36: 11 H 69 A 85 · 37: 15 H 33 A 05 · 38: 3 H 70 A 46 · 39: 13 H 98 A 63 · 40: 6 H 71 A 67 · 41: 8 H 11 A 16 · 42: 13 H 56 A 52 · 43: 15 H · 44: 7 H 49 A 98 · 45: 10 H 30 A 82 · 46: 19 H 63 A 54 · 47: 10 H 29 A · 48: 15 H 95 A 30 · 49: 7 H 97 A 98 · 50: 8 H 18 A 57",
+    "[Medidas de lado: 315,65 m (módulo de los lotes), 475,21 m, 237,60 m, 332,64 m, 300,65 m, 448,38 m, 546,87 m, 1026,27 m, etc.]"
+   ],
+   "interpretacion": "Interior del folleto de 1939. A la izquierda, las condiciones de pago por la Ley de «Crédito Agrario» (préstamos hasta $ 50 000 a 5, 7 o 10 años, al 5, 5 ½ y 6 %), seña 8 %, comisión 2 % y las bases por hectárea de los 50 lotes ($ 300 a $ 670). A la derecha, el plano de las 50 fracciones (3,70 a 19,64 ha) del campo de Sillón, al NO de la ciudad. Lo cruzan el «Camino Nacional a Mendoza (pavimentado)», el «camino (proyectado) de Mercedes a San Antonio de Areco de 60 ms. de ancho», el F.C.C.B.A. y el camino de Carmen de Areco; el arroyo de Giles lo cierra al S. La suma de los 50 lotes da 490,1285 ha, igual al total anunciado (verificado)."
+  },
+  {
+   "titulo": "Folleto del Banco de la Nación: exterior completo (vista general)",
+   "img": "img/v/V15/05.jpg",
+   "fuente": "IMG_1154.JPG",
+   "nota": "Toma a 0°; no se volvió a transcribir.",
+   "lineas": [
+    "[Toma a 0°: el pliego exterior desplegado. Izquierda, «CHACRAS FÉRTILES CENTRALÍSIMAS» (transcripto en 1155); derecha, la tapa «Ubicación Excepcional…» (transcripta en 1156). Lápiz, ángulo NO: San Andrés de Giles · 22. No se volvió a transcribir.]"
+   ],
+   "interpretacion": "El pliego exterior desplegado: contratapa «Chacras fértiles centralísimas» (1155) y tapa «Ubicación excepcional…» (1156). Lápiz: «San Andrés de Giles · 22» (pieza 22 del Tomo 53)."
+  },
+  {
+   "titulo": "Contratapa: «Chacras fértiles centralísimas»",
+   "img": "img/v/V15/06.jpg",
+   "fuente": "IMG_1155.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°.]",
+    "[Lápiz:] San Andrés de Giles · 22",
+    "CHACRAS FÉRTILES CENTRALÍSIMAS / PARA RECREO Y PRODUCCIÓN / SAN ANDRÉS DE GILES, F. C. C. B. A. / 10 AÑOS DE PLAZO",
+    "UBICACIÓN. — En las Puertas de la Capital. 50 chacras, lindando con la Ciudad de San Andrés de Giles, F. C. C. B. A., cuya prosperidad tiene por base su proximidad a los importantes centros de consumo, como la Capital Federal, Rosario, San Nicolás, Mercedes, Luján, etc. Cruza estas magníficas tierras, el Camino pavimentado Buenos Aires-San Andrés de Giles, el cual será hormigonado hasta la misma Ciudad de Mendoza, o sea, la Ruta denominada N.º 7, llamado camino internacional, futura carretera de América del Sud pasando por Chile y por donde desfila todo el tráfico del Oeste y Norte de la República, contando además este camino, con varias líneas de colectivos Pullman, que ponen en contacto permanente a San Andrés de Giles con la Capital Federal y las principales ciudades del interior del País. Dentro del inmueble en venta, se encuentra la esquina más importante, por su situación estratégica comercial, de la Provincia de Buenos Aires. Cruza, también, estas tierras el proyectado camino de 60 metros de ancho, llamado de cintura, que partiendo del camino Buenos Aires-Rosario-Córdoba, nace en San Antonio de Areco, pasando por San Andrés de Giles, Mercedes, Navarro, Lobos y cuyas obras de pavimentación ya aprobadas, comenzarán en breve. Están, por otra parte, frente, también, al camino de Carmen de Areco a San Andrés de Giles. A 100 kilómetros de la Capital Federal, por camino, todo, pavimentado.",
+    "CAMINOS. — El excelente camino pavimentado Buenos Aires-San Andrés de Giles, que cruza las tierras en venta y que en breve llegará a la Ciudad de Mendoza, asegura una comunicación rápida y permanente con el Gran Mercado Central de Consumos, de la República: la Capital Federal, lo que permite que cada agricultor dependa, así, de su propio camión, para el transporte de sus propios productos.",
+    "SUELO Y AGUA. — Se trata de las tierras más fértiles y productivas de la zona agrícola de la Provincia de Buenos Aides [sic], que han dado siempre los más altos rendimientos en calidad y cantidad. Tierra ubérrima en alto grado, con vigorosa capa de humus. Apta para todos los cultivos: trigo, maíz, avena, lino, cebada, verduras, etc. Especial para ganadería. Son tierras excepcionales, para la formación de granjas, quintas, huertas, etc. Para recreo, constituyen, también, un punto ideal, porque hay que agregar a la proximidad de la Capital Federal y sus excelentes caminos, las condiciones naturales de su suelo y su altura, que permiten vivir a pleno aire, a pleno sol y pleno cielo. Agua de primerísima calidad de 7 a 12 metros de profundidad.",
+    "EXTENSIÓN Y DIVISIÓN. — En el plano que presenta este prospecto en el interior, pueden consultarse las medidas lineales y superficie de cada lote.",
+    "MEJORAS. — El alambrado perimetral que circunda el campo, entra proporcionalmente en cada fracción. Todo lo plantado, clavado y adherido al suelo, entra también en la venta, con excepción de los alambrados interiores que no entran en la venta y serán levantados por los propietarios.",
+    "VISITA. — Puede visitarse por San Andrés de Giles, dirigiéndose al martillero público señor Fernando Alvis, quien dará datos y acompañará a los interesados, pudiendo anticipar la visita telefónicamente al 41 de San Andrés de Giles o dirigiéndose a su domicilio calle San Martín y Moreno.",
+    "ENTREGA. — Inmediata, en el acto de la escrituración, libres de ocupantes.",
+    "BASES DE VENTA. — En el interior de este prospecto, están detalladas las bases para cada lote.",
+    "CONDICIONES. — El Banco de la Nación Argentina, encarando con criterio práctico, el tema de más vital importancia que tiene el País — la tierra, — ofrece extraordinarias facilidades de pago, para que el colono, pueda abonar la tierra, con el producto de la misma tierra.",
+    "Los compradores podrán hacer uso de las facilidades que acuerda el Banco de la Nación Argentina, por la Ley N.º 11684 de «Crédito Agrario», cuyos préstamos se abonan a 5, 7 ó 10 años de plazo, a opción del comprador, con intereses del 5 al 6 % anual, según los planes que insertamos en el interior de este prospecto.",
+    "El Domingo 14 de Mayo, a las 14 hs. (2 p. m.)",
+    "en SAN ANDRÉS DE GILES en la Confitería «LAS FAMILIAS» (frente a la Plaza Principal) aunque llueva.",
+    "PLANOS Y DATOS: OLMI, Reconquista 353 - Bs. Aires - U. T. 31 - Retiro 2390 y FERNANDO ALVIS, en San Andrés de Giles, calle San Martín y Moreno, U. T. 41 - San Andrés de Giles.",
+    "[Pie de imprenta:] Tall. Gráf. Ferrari Hnos. - Bmé. Mitre 2734-48"
+   ],
+   "interpretacion": "Texto de propaganda en cuatro rubros (ubicación, caminos, suelo y agua, mejoras) y las condiciones. Vende 50 chacras «en las puertas de la Capital», atravesadas por la «Ruta denominada N.º 7», «futura carretera de América del Sud», con colectivos Pullman, y por el proyectado «camino de cintura» de 60 m. Destaca la «esquina más importante» de la provincia, tierra «ubérrima», agua a 7-12 m y la posibilidad de que cada agricultor tenga «su propio camión». Remate el domingo 14 de mayo a las 14 en la confitería «Las Familias», frente a la plaza, «aunque llueva». Datos: Olmi (Reconquista 353) y el martillero local Fernando Alvis."
+  },
+  {
+   "titulo": "Tapa: «Ubicación excepcional de la Provincia de Buenos Aires», el campo de Sillón (1939)",
+   "img": "img/v/V15/01.jpg",
+   "fuente": "IMG_1156.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°; a la derecha asoma, plegado, el aviso del Banco Hipotecario Nacional (1157).]",
+    "1939 · ×Olmi× · RECONQUISTA 353 · U. T. 31 - Retiro 2390",
+    "Ubicación Excepcional de la Provincia de Buenos Aires",
+    "SAN ANDRÉS DE GILES, F. C. C. B. A. [rojo]",
+    "EL CAMPO DE SILLÓN",
+    "490 hects. 12 áreas y 85 cas.",
+    "en 50 Fracciones desde 3 hectáreas, 70 áreas, 46 centiáreas hasta 19 hectáreas, 63 áreas, 54 centiáreas.",
+    "Frente al Camino Pavimentado: BUENOS AIRES-MENDOZA y en el cruce más interesante de Caminos de la Provincia de Buenos Aires.",
+    "BASES: desde $ 300 hasta $ 670 la hectárea",
+    "Plazos de 5 a 10 años, a opción del comprador, por la Ley de «Crédito Agrario».",
+    "El Domingo 14 de Mayo [rojo] · a las 14 horas (2 p. m.) · en la Confitería «LAS FAMILIAS» en San Andrés de Giles",
+    "[Croquis regional:] EN VENTA [silueta en rojo] · GILES · SAN A. DE ARECO · C. DEL SEÑOR · LUJÁN · PILAR · CAMINO NACIONAL A MENDOZA (PAVIMENTADO) · CAPITAL FEDERAL · Arroyo de Giles · F.C.C.B.A. · F.C.P. · F.C.O. [?]",
+    "EL BANCO DE LA NACIÓN ARGENTINA [rojo] / ACUERDA FACILIDADES DE PAGO"
+   ],
+   "interpretacion": "Tapa con el año 1939 y la marca «×Olmi×». Anuncia «El campo de Sillón»: 490 ha 12 a 85 ca en 50 fracciones, frente al camino pavimentado Buenos Aires-Mendoza, con bases de $ 300 a $ 670 la hectárea. Un croquis regional muestra el campo «EN VENTA» al NO de Giles sobre el «Camino Nacional a Mendoza (pavimentado)», con Luján, Pilar, San Antonio de Areco, Capilla del Señor y la Capital Federal. Lo vende el Banco de la Nación Argentina, que «acuerda facilidades de pago»."
+  },
+  {
+   "titulo": "Aviso del Banco Hipotecario Nacional: lote de campo próximo a la estación Ruiz",
+   "img": "img/v/V15/04.jpg",
+   "fuente": "IMG_1157.JPG",
+   "nota": "Toma a 0°. Es la pieza 23 del Tomo 53. Año: el 17 de marzo cae domingo en 1929, 1935, 1940 y 1946 (verificado).",
+   "lineas": [
+    "[Toma a 0°: hoja impresa plegada, pegada en el libro; arriba asoma el pie del folleto anterior.]",
+    "[Margen izquierdo, manuscrito:] Diego Bello Aragón [?]",
+    "BANCO HIPOTECARIO NACIONAL / Calle 25 de Mayo 245/63 (Capital Federal)",
+    "Suc. LA PLATA - N.º H.º 16/2834 - B 92 · R. 6631.-",
+    "PROVINCIA DE BUENOS AIRES / LOTE DE CAMPO EN EL PARTIDO DE SAN ANDRÉS DE GILES / Próximo a la estación RUIZ, F. C. C. B. A.",
+    "EL DOMINGO 17 DE MARZO, A LAS 10,30 HORAS / en el Banco de la Nación Argentina, en Luján, F. C. O.",
+    "MARTILLERO: EDUARDO E. NAVONE",
+    "[Croquis de ubicación, escala gráfica 0-6 Km; N. Titulares:] Enrique y Antonia Rodríguez · J. V. Quevedo [?] · J. Rodr. · B. Vélez [?] · Pedro A. Quevedo · Benjamín A. Silva · Antonio Garibotto · Suc. de Melitón Ormaechea [?] · Ernesto Rodríguez · Ángela Corro de Buttini · César Passarotti · C. E. Morgan · Pedro Chapirón [?] · Suc. Ormaechea · Pedro A. Barro [?] · Nicolás Armaechea [?] · P. Dolhagaray [?] · Suc. Gilieri y Cía. · César Passarotti · Ruiz · Garibotti · Luis Bellagamba · Suc. M. Roteta · Catalina G. de Gilieri · Suc. J. Bilieri [?] · Varios · Ramón Castro · M. Castro · Suc. Gallo · S. Pagano · Dorotea R. de Castro · EST. RUIZ · F.C.C.B.A. · F.C.C.A. · a Carlos Keen",
+    "[Plano del lote:] C. Pessarotti [N] · Arminda Garibotto [O] · J. Garibotto [S] · Lorenzo V. Ruiz [E, del otro lado del camino «a Est. Ruiz»] · Arr.º de la Cruz [con puente o alcantarilla] · 202,066 m [N y S] · 906,397 m [E y O] · Sup. = 18 Hs. 3152 m²",
+    "BASE $ 5.400 · HIPOTECA $ 4.350 · DEUDA ACTUAL $ 4.020",
+    "El Banco Hipotecario Nacional rematará una fracción de campo, apta para agricultura y ganadería, ubicada en la Provincia de Buenos Aires, Partido de San Andrés de Giles, compuesta de una superficie de 18 Hs. 3152 m2., con población de 2 piezas y dependencias.- Se halla a 1 Km. al S. de la Estación RUIZ del FCCBA.- Linderos de acuerdo al plano.- · B.H.N. Of. de Ant. Catastrales.-",
+    "CONDICIONES GENERALES DE LOS REMATES",
+    "1.º Los remates están sujetos a la aprobación del Directorio y se hacen por cuenta del deudor con sujeción a la ley N.º 10.676.",
+    "2.º El comprador podrá continuar con la hipoteca que reconoce la propiedad, abonando la diferencia entre la deuda y el precio de compra.",
+    "3.º Todo comprador abonará EN EFECTIVO al firmar el boleto, el 5 % de seña, el 1 % de comisión y el importe del sellado que corresponda.",
+    "4.º Si el comprador fuera deudor moroso del Banco deberá, de inmediato, poner sus préstamos al día. En su defecto el remate será desaprobado con pérdida de seña y comisión, salvo que optare por la cancelación del préstamo que grave la propiedad subastada.",
+    "5.º Las propiedades se venden con sus edificios en el estado en que se encuentran.",
+    "Los títulos de propiedad pueden ser revisados en el archivo de la Sucursal, antes del remate. Para mayores informes, diríjase a la Oficina de Remates."
+   ],
+   "interpretacion": "Aviso de remate judicial-hipotecario (Suc. La Plata, N.º H.º 16/2834, B 92; R. 6631) de un lote de 18 ha 3152 m² (202,066 × 906,397 m) a 1 km al S de la estación Ruiz del F.C.C.B.A., «con población de 2 piezas y dependencias». Linda con C. Pessarotti, Arminda Garibotto, J. Garibotto y Lorenzo V. Ruiz y lo cruza el arroyo de la Cruz. Base $ 5400, hipoteca $ 4350, deuda actual $ 4020. Remate el domingo 17 de marzo a las 10,30 en el Banco de la Nación en Luján; martillero Eduardo E. Navone. Las condiciones generales remiten a la ley 10.676."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "El campo de Sillón en 50 fracciones (1939)",
+   "img": "img/v/V15/02.jpg",
+   "fuente": "IMG_1153.JPG (tapa y croquis regional en IMG_1156)",
+   "orientacion": "flecha de N abajo a la derecha, apuntando al NE",
+   "interpretacion": "Plano impreso en azul con el camino nacional en rosa. El campo está entre J. Vázquez de Espil (O), J. M. Méndez (N y E) y J. E. Clapesonni [?] de Vanni e hijos (S), y el arroyo de Giles lo separa de la «Ciudad». Los lotes son rectángulos con módulo de 315,65 m de frente y 475,21 o 237,60 m de fondo (≈ 15 y 7,5 ha), cortados por el Camino Nacional a Mendoza, por el proyectado camino de cintura de Mercedes a San Antonio de Areco y por el F.C.C.B.A. Los lotes del cruce de caminos (29, 32-34, 38, 40-41) son triangulares y chicos, y el folleto los vende como «la esquina más importante» de la provincia. Bases de $ 300 a $ 670 por hectárea: los valores altos van junto al camino pavimentado (lotes 2, 3, 8, 9, 16, 21) y los bajos lejos de él (42-44, 50). El valor base total es ≈ $ 236 022, con un promedio de $ 481,6 por hectárea (verificado).",
+   "referencias": [
+    [
+     "CAMINO NACIONAL A MENDOZA (PAVIMENTADO)",
+     "la Ruta 7 de V12, en rosa"
+    ],
+    [
+     "CAMINO (PROYECTADO) DE MERCEDES A SAN ANTONIO DE ARECO DE 60 MS. DE ANCHO",
+     "«camino de cintura»"
+    ],
+    [
+     "CAMINO DE C. DE ARECO A S. ANDRÉS DE GILES",
+     "frente NE"
+    ],
+    [
+     "F.C.C.B.A.",
+     "vía en diagonal"
+    ],
+    [
+     "ARROYO DE GILES",
+     "límite S con la ciudad"
+    ],
+    [
+     "1-50",
+     "lotes; superficies de 3,7046 a 19,6354 ha"
+    ]
+   ]
+  },
+  {
+   "titulo": "Plano de ubicación del lote 8 (sucesión Zapattini de Raggio)",
+   "img": "img/v/V15/03.jpg",
+   "fuente": "IMG_1152.JPG",
+   "orientacion": "sin flecha; la estación Giles arriba (NO) y la estación Espora abajo (SE)",
+   "interpretacion": "Mosaico catastral impreso del cuadrante SE del partido, de la estación Giles a la estación Espora, con unos 90 titulares: Pichetto, Saubidet, Sillón, Cazzaniga, Cucullu, Didier, Nugent, Shanahan, Méndez, Morrow, Mulvihill, Espil, Acuña, Dowling, Cané, Larrea, Unzué, Murray, Pereyra Iraola y otros. El lote en venta, en negro, queda entre la Suc. Nicolás Méndez y Shanahan. Lo cruzan el F.C.C.B.A., el arroyo de Giles y el F.C.C.G.B.A. hasta Espora («D.º Km 125»).\n■\nlote 8 en venta, 44 ha 51 a 27 ca\nEST. GILES / EST. ESPORA\nestaciones del F.C.C.B.A. y del F.C.C.G.B.A.\nLuis P. M. Sillón / Juan L. Sillón\nel futuro «campo de Sillón» al O de la estación\nSuc. Santiago Morrow / Mulvihill / Shanahan / Dowling\ntierra irlandesa del SE",
+   "referencias": []
+  },
+  {
+   "titulo": "Lote del Banco Hipotecario Nacional junto a la estación Ruiz",
+   "img": "img/v/V15/04.jpg",
+   "fuente": "IMG_1157.JPG",
+   "orientacion": "flecha de N a la derecha",
+   "interpretacion": "Rectángulo de 202,066 × 906,397 m = 183 152 m² (verificado), entre C. Pessarotti (N), Arminda Garibotto (O), J. Garibotto (S) y un camino «a Est. Ruiz» con Lorenzo V. Ruiz enfrente (E). El arroyo de la Cruz cruza el S con una alcantarilla. El croquis regional (0-6 km) muestra la estación Ruiz en el cruce del F.C.C.B.A. con el F.C.C.A. y los titulares vecinos (Passarotti, Ormaechea, Quevedo, Silva, Garibotti, Gilieri, Roteta, Bellagamba, Castro, Pagano).\nSup. = 18 Hs 3152 m²\n202,066 × 906,397 m\nArr.º de la Cruz\ncruza el S del lote\nBASE $ 5.400 · HIPOTECA $ 4.350 · DEUDA ACTUAL $ 4.020\ndatos del remate\nEST. RUIZ\na 1 km al N",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Los tres avisos venden un paisaje. «Zona maicera», «campo flor», «tierra ubérrima» con «vigorosa capa de humus», agua a 7-12 m, «vivir a pleno aire, a pleno sol y pleno cielo». La carretera pavimentada y el colectivo Pullman ponen a Giles «en las puertas de la Capital». La chacra se ofrece a la vez para producir (trigo, maíz, lino, granja, tambo) y para recreo. El lote del BHN, en cambio, se describe sin adjetivos: «2 piezas y dependencias»."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "El remate reemplaza a la mensura como acto público de traspaso. Tiene lugar, día y hora (confitería «Las Familias», frente a la plaza, «aunque llueva»; el Banco de la Nación en Luján; la casa de Bartolomé Mitre 475), martillero, seña y comisión. El Banco de la Nación aparece como agente de la política de colonización y crédito agrario. El Hipotecario ejecuta a un deudor y permite al comprador «continuar con la hipoteca»."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Impresos comerciales en dos tintas (negro y rojo, azul y rosa) de talleres de Buenos Aires (Ferrari Hnos., Bmé. Mitre 2734-48). Los planos de loteo vienen de agrimensura (medidas al centímetro, superficies al centiárea) y se reducen a croquis publicitarios. Los mosaicos catastrales de ubicación, con decenas de titulares, son una fuente de catastro rural de los años treinta en sí mismos."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Hectáreas, áreas, centiáreas y decímetros cuadrados. Suma de los 50 lotes de Sillón: 490,1285 ha, igual a «490 hects. 12 áreas y 85 cas.». 202,066 × 906,397 = 183 152 m², igual a 18 ha 3152 m². 44,5127 ha × $ 450 = $ 20 031 de base. Base del BHN: $ 5400 / 18,3152 ha = $ 294,8 por hectárea, menos de la mitad del promedio de Sillón ($ 481,6). Todo verificado en python."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Tres formas de salida de la tierra al mercado. La sucesión Zapattini de Raggio divide un condominio. El campo de los Sillón, en manos del Banco de la Nación [¿por deuda?], se colonizaba en chacras con crédito estatal. El lote junto a Ruiz se ejecutaba por hipoteca. El plano de 1152 muestra a la vez la persistencia de grandes titulares irlandeses y criollos (Morrow, Mulvihill, Shanahan, Unzué, Larrea, Pereyra Iraola) en el SE del partido."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "V12: la Ruta 7, proyectada en 1933, aparece en 1939 pavimentada y es el argumento central de venta. V13: el índice registra estas piezas como 21 (Zapattini de Raggio), 22 («Campo en fracciones») y 23 (lote cerca de la estación Ruiz). Pasarotti/Pessarotti es lindero del loteo Miglino junto a Ruiz (pieza 1). V01-V09: la estación Giles, Pichetto de Saubidet, Juana P. de Cazzaniga (Pichetto de Gazzaniga), Didier, Méndez y Espil reaparecen como titulares rurales en el borde del pueblo. Fichas rurales del siglo XIX: Cucullu, Shanahan, Mulvihill, Morrow, Unzué, Dowling y Pagano. Garibotto ya figuraba en la escritura de 1888 de las hojas urbanas."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Faltan los años de los avisos de Zapattini (1932 o 1938) y del BHN (1935, 1940 o 1946), que se acotaron por el día de la semana. Tampoco se sabe qué casa rematadora estaba en Bartolomé Mitre 475. El remate del 14 de mayo de 1939 se anunciaba como único para los 50 lotes; queda abierto si se vendieron y si el loteo dejó huella en el catastro posterior. El manuscrito del margen del BHN («Diego Bello Aragón [?]») podría ser el comprador."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Banco de la Nación Argentina",
+   "rol": "Vendedor del campo de sillón (1939)",
+   "texto": "Banco oficial fundado en 1891. Por la ley de «Crédito Agrario» (citada como N.º 11.684) financiaba la compra de tierra a colonos a 5, 7 o 10 años. Aquí vende y financia a la vez. Su sucursal de Mercedes recibía las solicitudes.",
+   "fuentes": "Este folleto; dato general."
+  },
+  {
+   "nombre": "Banco Hipotecario Nacional",
+   "rol": "Ejecutante del lote de ruiz",
+   "texto": "Banco oficial de crédito hipotecario (sede en 25 de Mayo 245/63, Capital), con remates regidos por la ley 10.676. Remata el lote por cuenta del deudor, a través de su sucursal La Plata y su Oficina de Antecedentes Catastrales.",
+   "fuentes": "Este aviso."
+  },
+  {
+   "nombre": "Olmi",
+   "rol": "Casa rematadora (reconquista 353, buenos aires)",
+   "texto": "Firma de remates que organizó la venta de 1939. No hay datos.",
+   "fuentes": "IMG_1155-1156."
+  },
+  {
+   "nombre": "Fernando Alvis",
+   "rol": "Martillero público en san andrés de giles",
+   "texto": "Domiciliado en San Martín y Moreno, teléfono 41; acompañaba la visita al campo. No hay datos.",
+   "fuentes": "IMG_1155."
+  },
+  {
+   "nombre": "Eduardo E. Navone",
+   "rol": "Martillero del bhn",
+   "texto": "No hay datos.",
+   "fuentes": "IMG_1157."
+  },
+  {
+   "nombre": "Familia Sillón",
+   "rol": "Antiguos titulares del campo",
+   "texto": "Luis P. M. Sillón y Juan L. Sillón figuran al O de la estación Giles en el plano de 1152. Ya eran linderos de inmigración de los Figueroa en las fichas rurales (anillo Marini, Sarú, Sillón, Carro, Tisseyra).",
+   "fuentes": "IMG_1152; METODO.md (hallazgos de 189)."
+  },
+  {
+   "nombre": "María Zapattini de Raggio",
+   "rol": "Causante",
+   "texto": "Su sucesión vende en condominio el lote 8. El índice del Tomo 53 registra también un plano de su campo (pieza 21). No hay datos.",
+   "fuentes": "IMG_1145, 1152."
+  }
+ ],
+ "titulo": "Avisos de remate de campos",
+ "estado": "Transcripta (6 hojas, 76 renglones), 3 láminas"
+}

@@ -1,0 +1,329 @@
+{
+ "carpeta": "V08",
+ "carpeta_nombre": "Varios V08",
+ "archivo": "Ficha V08 - Catastro urbano, hoja 8 (c. 1938).docx",
+ "resumen": {
+  "Documento": "Hoja catastral 8 del pueblo de San Andrés de Giles (sector S y SE)",
+  "Propietario / solicitante": "Catastro urbano · hoja 8",
+  "Autor": "Dirección de Geodesia [y] Catastro (PBA)",
+  "Agrimensor": "Sin firma (levantamiento oficial)",
+  "Año": "c. 1938 (asientos hasta F.º 246/1936)",
+  "Escala": "1:1000 (como la hoja 1)",
+  "Ubicación": "Al S de Nicolás Méndez y al E de Alsina [?], hasta una diagonal (¿camino a Luján?)",
+  "Calles": "Nicolás Méndez, Cecilio Manchi, San Andrés; diagonal sin rótulo",
+  "Instituciones": "no figuran",
+  "Rasgos": "Fracciones Cardinale (9,2 ha) y Cancio (2,1 ha); calle ocupada; título no inscripto",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), juego de 9 hojas catastrales"
+ },
+ "metricas": {
+  "superficie_ha": "— (hoja urbana; parcelas de 0,02 a 9,3 ha)",
+  "hitos": "diagonal doble (¿camino a Luján?); signos «S» y «HHC» a lápiz",
+  "aguas": "no figuran"
+ },
+ "sintesis": "Octava hoja catastral: el borde S del pueblo, al S de Nicolás Méndez, con las calles Cecilio Manchi y San Andrés y una diagonal doble sin rótulo (¿el camino a Luján?) que corta la hoja de NE a SO. Al N hay manzanas enteras de un solo dueño (Danuncio, Di Paolo, Pichetto de Larrosa, Carbone y Allegro) y, contra la diagonal, dos manzanas de lotes menudos con títulos de 1908-1934. Al S de San Andrés el damero se deshace en fracciones grandes: Cayetano Cardinale (más de 10 ha en dos títulos), Antonia Anselma Cancio, Uguet, Demeco y Luchisano. Hay una calle pública ocupada por Di Paolo, un título no inscripto (Suc. Robascio) y signos a lápiz en el campo.",
+ "caratula": {
+  "img": "img/v/V08/01.jpg",
+  "fuente": "IMG_1108.JPG (vista general)",
+  "campos": [
+   [
+    "Plano",
+    "San Andrés de Giles: hoja catastral 8"
+   ],
+   [
+    "Autor",
+    "Dirección de Geodesia [y] Catastro"
+   ],
+   [
+    "Fecha",
+    "sin fecha visible (c. 1938; último asiento F.º 246/1936)"
+   ],
+   [
+    "Escala",
+    "1:1000 (probable)"
+   ],
+   [
+    "Número de hoja",
+    "8 (lápiz rojo, IMG_1108)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Vista general de la hoja 8",
+   "img": "img/v/V08/01.jpg",
+   "fuente": "IMG_1108.JPG",
+   "nota": "Toma con el N a la izquierda; la cubre arriba a la izquierda la hoja 7 plegada; borde N desgarrado. «8» en lápiz rojo.",
+   "lineas": [
+    "[Hoja suelta, fotografiada girada 90°: el N queda a la izquierda y el E arriba, de modo que las calles Nicolás Méndez, Cecilio Manchi y San Andrés, que corren de E a O, aparecen verticales. Arriba a la izquierda la cubre en parte la hoja 7 plegada (con su «7» rojo). El borde N está desgarrado, con pérdida de papel junto a la calle Cecilio Manchi.]",
+    "[Calles, de N a S (de izquierda a derecha en la toma):] CALLE NICOLÁS MÉNDEZ · CALLE CECILIO MANCHI · CALLE SAN ANDRÉS · [doble línea en diagonal, de NE a SO, sin rótulo: probable camino general a Luján [?]]",
+    "[Al N de Nicolás Méndez, faja de la hoja vecina con contornos de edificios; a lápiz, vertical:] Eleuterio Mo[n]de[l]o [?]",
+    "[Entre Nicolás Méndez y Cecilio Manchi:] F.º 62/921 · Eugenio V. Danuncio · s.t. 7499 m² 56 · Guía 2247 [manzana 236 [lápiz]] · N.º 8463/905 · Nicolás di Paolo [manzana 237] · N.º 10076/906 · Leopolda Dolores Carbone y Allegro [manzanas 233 y 253]",
+    "[Entre Cecilio Manchi y San Andrés: manzanas de lotes menudos al E, contra la diagonal (257 [lápiz]); N.º 1290/911 · María de las Nieves Pichetto de Larrosa [255]; ocupado con título no inscripto por Suc. de Juan Robascio]",
+    "[Al S de San Andrés, entre la calle y la diagonal: grandes fracciones de Mariana Serreti de Demeco, Antonio Luchisano, José Uguet, Víctor Antonio Cardinale, Antonia Anselma Cancio [261] y Cayetano Cardinale (F.º 195/928 y F.º 57/920, 9 ha 15 a 74 c)]",
+    "[Más allá de la diagonal, en la faja del borde S, signos a lápiz:] S · S · S · HHC [en recuadro] [y un rectángulo con un triángulo sombreado; ver IMG_1115]",
+    "[Lápiz rojo, arriba a la derecha en la toma (ángulo SE de la hoja):] 8"
+   ],
+   "interpretacion": "La hoja entera, fotografiada con el N a la izquierda. Al N (izquierda) la calle Nicolás Méndez; luego Cecilio Manchi y San Andrés. Al NO, las manzanas enteras de Danuncio, Di Paolo y Carbone y Allegro; al E, contra una diagonal doble que corta la hoja de NE a SO, manzanas de lotes menudos; al S de San Andrés, grandes fracciones de Demeco, Luchisano, Uguet, los Cardinale y Cancio. Más allá de la diagonal el papel queda casi en blanco, salvo signos a lápiz («S», «HHC»). Es el borde S del pueblo, contra el campo."
+  },
+  {
+   "titulo": "Ángulo NE: lotes menudos a ambos lados de Cecilio Manchi",
+   "img": "img/v/V08/03.jpg",
+   "fuente": "IMG_1109.JPG",
+   "nota": "Toma girada 90° respecto de la vista general (aquí el N queda arriba); arriba asoma la hoja 7 con su «7».",
+   "lineas": [
+    "[Toma girada 90° respecto de la vista general: aquí el N queda arriba y la calle Cecilio Manchi corre horizontal. Arriba, el borde de la hoja 7 plegada encima, con su «7» en lápiz rojo.]",
+    "[Manzana entre Nicolás Méndez y Cecilio Manchi, mitad O:] F.º 73/921 · Alejo Fernández · s.t. 303 m² 41 · Guía 2385",
+    "F.º 76/926 · [Alejo Fernández] · 303 m² 40 · Guía 2386 · [lados] 21,87 · 21,85",
+    "N.º 49070/915 C [?] · Vital Zillo · s.t. 705 m² 33 · Guía 3295",
+    "F.º 170/934 · Carmen García y otros · s.t. 1135 m² 206 [?] · Guía 2460",
+    "F.º 198/934 · Guía 3077 [?] · Antonio y Donato Cilli · s.t. 377 m² 57",
+    "F.º 73/934 · Guía 3804 [?] · José Russo · s.t. 377 m² 83 [?]",
+    "N.º 20328/913 · Guía 3068 · Vicente Russo · s/p [?] 377 m² 22",
+    "F.º 152/920 · Nicolás Mazzeo y Rafaela Losinno [?] · s.t. 1130 m² 63 · Guía 2725 · [lado] 43,63 s.t. · 25,97 [?]",
+    "N.º 14716/908 · Vicente Russo · s.t. 1130 m² 03 · Guía 3085",
+    "N.º 15213/911 · Julio Gibellini · s/p 1643 m² 27 · Guía 2573",
+    "[Misma fila, manzana del E, contra la diagonal:] F.º 179/929 · Donato Luciano [?] Domine · s.t. 746 [?] m² 16 · Guía 2344",
+    "N.º 5139/911 B · María Cairna [?] · s.t. 697 m² 12 · Guía 2043",
+    "N.º 14204/908 · María Luisa Alvis · s.t. 764 m² 64 [?] · Guía 1880",
+    "F.º 182/931 · Guía 3462 · Luciano Gutiérrez · s.t. 7,98 × 40,25 = 321 m² 20 [verificado: 321,195]",
+    "F.º 183/931 · Guía 3463 · José V. Aragone · s.t. 9 × 40,25 = 362 m² 24",
+    "F.º 184/931 · Guía 2381 [?] · Isidro I. Díaz · s.t. 9 × 40,25 = 362 m² 24",
+    "F.º 14/918 · Guía 1987 · Eusebio Blanco · s.t. 283 m² 86 [?]",
+    "N.º 20331/913 A · Guía 1988 · Francisco Blanco · s.t. 11,55 × 40,53 [?]",
+    "N.º 13785/908 · Guía 2867 · Manuel Otero · s.t. 406 m² 73",
+    "N.º 20406/913 A · Nicolás A. Danuncio · s.t. 685 m² 24 [?] · Guía 2250 · 540 m² 94 · Guía 2248 · …/908 [?]",
+    "F.º 150/931 · Guía 2275 [?] · Antonio Derio [?] · s.t. 221 m² 71 [?]",
+    "N.º 49066/915 C [?] · Guía 2526 · Sebastián Gómez · s.t. 338 m² 15",
+    "F.º 148/921 · Pablo Allende · s.t. 578 m² 78 · Guía 1883",
+    "F.º 45/933 · Elvira García · s/p 626 m² 74 · Guía 1945",
+    "CALLE CECILIO MANCHI · [mojones o puntos numerados en las esquinas:] 73 · 71"
+   ],
+   "interpretacion": "Dos manzanas de lotes angostos (frentes de 7,98 a 21,87 m) junto a la diagonal, con títulos de 1908-1934: Alejo Fernández, Vital Zillo, los Russo, Mazzeo y Losinno [?], Gibellini, Domine, Cairna [?], María Luisa Alvis, los Blanco, Otero, Allende, Elvira García. Los fondos de 40,25 m y los frentes de 9 m (Aragone, Díaz) dan 362,24 m², verificado. Las parcelas contra la diagonal son trapecios."
+  },
+  {
+   "titulo": "Manzanas entre Cecilio Manchi y San Andrés",
+   "img": "img/v/V08/04.jpg",
+   "fuente": "IMG_1110.JPG",
+   "nota": "Toma girada 90° (N arriba).",
+   "lineas": [
+    "[Toma girada 90° respecto de la vista general (N arriba).]",
+    "CALLE CECILIO MANCHI · [CALLE SAN] ANDRÉS",
+    "[Manzana al O (255 [lápiz]):] N.º 1290/911 · [María de las] Nieves Pichetto de Larrosa · s.t. 86 m 60 × 86 m 60 · Guía 2607",
+    "[Manzana 257 [lápiz], fila de lotes sobre Cecilio Manchi:] F.º 45/932 · Leonardo S. Ballesteros · s.t. 547 m² 83 · Guía 3016",
+    "F.º 7/925 · Francisco B. Rodríguez · s.t. 451 m² 89 · Guía 3017 [?]",
+    "F.º 68/935 · Donato S. B. Rodríguez · s.t. 472,94 · Guía 3707 [?]",
+    "F.º 13/916 · Carmelo Nocera · s.t. 924 m² 62 · Guía 2840",
+    "F.º 53/920 · Carmelo Nocera · s.t. 528 m² 45 · Guía 2841",
+    "F.º 60/917 · Rosa García · s.t. 547 m² 80 · Guía 2489 [?]",
+    "F.º 158/918 · Guía 3149 · Pedro C. Silva · s.t. 449 m² 97",
+    "F.º 125/925 · Guía 3275 · Modesto Vera · s.t. 449 m² 97 · [lado] s.t. 51,96",
+    "F.º 158/918 · Pedro C. Silva · s.t. 1086 m² 65 · Guía 1909 [rótulo a lápiz]",
+    "N.º 20346/913 · Pedro C. Silva · s.t. 1110 m² 24 · Guía 3148",
+    "N.º 13784/908 A · José Fernán[dez] Rodrigo Caballero · s.t. 2424 m² 80 · Guía 2038",
+    "N.º 9105/912 · Elías Fernández · s.t. 1430 m² 5[0] · Guía 2387",
+    "F.º 107/934 · Pedro Lagerenza [?] · s.t. 716 m² 53 · Guía 1898 [?] · [lado] 37,80",
+    "F.º 221/928 · Guía 2373 [?] · Ángel M. Felice · s.t. 311 m² 82 [?] · [lado] 36,23",
+    "F.º 190/932 · Tomás Alonso y otros · s.t. 1545 m² 68 · Guía 1860",
+    "F.º 71/925 · Floro Peñalva · s.t. 276 m² 38 · Guía 2913",
+    "F.º 128/920 · Floro Peñalva · s.t. 549 m² 50 · Guía 2914",
+    "[Al S de San Andrés, entre la calle y la diagonal:] F.º 134/925 [José Uguet] · F.º 193/924 · Mariana Serreti de Demeco · s.t. 4230 m² 20",
+    "[Mojones de esquina numerados:] 73 · 71 · 53 · 28"
+   ],
+   "interpretacion": "La manzana entera de María de las Nieves Pichetto de Larrosa (N.º 1290/1911) y, al E, la manzana 257 loteada (Ballesteros, Rodríguez, Nocera, Rosa García, Pedro C. Silva, Modesto Vera, Rodrigo Caballero, Elías Fernández, Lagerenza [?], Felice, Tomás Alonso, Floro Peñalva), cortada en diagonal por el camino. Al pie, las fracciones de Serreti de Demeco y Uguet."
+  },
+  {
+   "titulo": "Manzanas entre Nicolás Méndez y San Andrés (Danuncio, Di Paolo, Pichetto de Larrosa)",
+   "img": "img/v/V08/02.jpg",
+   "fuente": "IMG_1111.JPG",
+   "nota": "Toma con el N a la izquierda; borde N desgarrado.",
+   "lineas": [
+    "[Toma con la orientación de la vista general (N a la izquierda); borde N desgarrado y roto.]",
+    "CALLE NICOLÁS MÉNDEZ · CALLE CECILIO M[ANCHI] · CALLE SAN ANDRÉS",
+    "[A lápiz, vertical, en la faja al N de Nicolás Méndez:] Eleuterio Mo[n]de[l]o [?]",
+    "F.º 62/921 · Eugenio V. Danuncio · s.t. 7499 m² 56 · Guía 2247 [lápiz: 236; «Méndez» [?]]",
+    "[Faja de lotes angostos en la cabecera N de la manzana Pichetto, sobre Cecilio Manchi:] F.º 90/930 · Andrea Bazán de Tiseira [?] · s.t. 397 m² 67 · Guía 1864 · [lados] s.t. 30,31 · s.t. 13,12",
+    "F.º 119/925 · Francisco Scandizzo · s.t. 396 m² 66 · Guía 3120 · 30,31 s.t.",
+    "F.º 114/920 · Leonardo S. Ballestero y señora · s.t. 340 m² 36 · Guía 1922 [?] · 25,98",
+    "N.º 1290/911 · María de las Nieves Pichetto de Larrosa · s.t. 86 m 60 × 86 m 60 · Guía 2607 [lápiz: 255]",
+    "N.º 8463/905 · Nicolás di Paolo · s.t. 86,60 × 86,60 · Guía N.º 2299 [lápiz: 237]",
+    "CALLE PÚBLICA OCUPADA SIN TÍTULO POR DI PAOLO",
+    "ocupado con título no inscripto por Suc. de Juan Robascio · s.g. 7500 m² · Guía 3009",
+    "F.º 134/925 [José Uguet] · F.º 246/936 [Víctor Antonio Cardinale] [al borde derecho de la toma, al S de San Andrés]",
+    "[Mojones de esquina:] 72 · 53 · 56 · 34"
+   ],
+   "interpretacion": "Manzanas enteras de Eugenio V. Danuncio (1921), Nicolás di Paolo (1905) y Pichetto de Larrosa (1911), una faja de lotes de 13 m sobre Cecilio Manchi (Bazán de Tiseira [?], Scandizzo, Ballestero) y una manzana «ocupada con título no inscripto por Suc. de Juan Robascio». Entre Di Paolo y Robascio, una «calle pública ocupada sin título por Di Paolo»."
+  },
+  {
+   "titulo": "Manzanas de Carbone y Allegro y Di Paolo (borde O)",
+   "img": "img/v/V08/05.jpg",
+   "fuente": "IMG_1112.JPG",
+   "nota": "Toma con el N a la izquierda.",
+   "lineas": [
+    "[Toma con la orientación de la vista general (N a la izquierda); borde N desgarrado.]",
+    "CALLE NICOLÁS MÉNDEZ",
+    "N.º 8463/905 · Nicolás di Paolo · s.t. 86,60 × 86,60 · Guía N.º 2299",
+    "CALLE PÚBLICA OCUPADA SIN TÍTULO POR [DI] PAOLO",
+    "ocupado con título no inscripto por Suc. de Juan Robascio · s.g. 7500 m² · Guía 3009",
+    "N.º 10076/906 · Leopolda Dolores Carbone y Allegro · s.t. 2 manzanas de 86,60 × 86,60 c/u · sup. total 14 999 m² · Guía N.º 2083 [lápiz: 233, 253; a lápiz, vertical, tenue: …  [?]]",
+    "[Al borde derecho, al S de San Andrés:] F.º 151/934 [Antonia Anselma Cancio] [lápiz: 260, 261]"
+   ],
+   "interpretacion": "Repite Di Paolo y Robascio y agrega las dos manzanas de Leopolda Dolores Carbone y Allegro (N.º 10076/1906; 2 × 7499,56 = 14 999,12 m², verificado), que continúan el bloque de la hoja 7 y las manzanas de Carlota en la hoja 9."
+  },
+  {
+   "titulo": "Fracciones entre San Andrés y la diagonal (Demeco, Luchisano, Uguet)",
+   "img": "img/v/V08/06.jpg",
+   "fuente": "IMG_1113.JPG",
+   "nota": "Toma con el N a la izquierda.",
+   "lineas": [
+    "[Toma con la orientación de la vista general (N a la izquierda).]",
+    "N.º 13784/908 A · José Fernán[dez] Rodrigo Caballero · s.t. 2424 m² 80 · Guía 2038 [lápiz: 256]",
+    "F.º 125/925 · Guía 3275 · Modesto Vera · s.t. 449 m² 97",
+    "F.º 13/916 [?] · Carmelo Nocera · s.t. 924 m² 62 · Guía 2840 · F.º 53/920 · Carmelo Nocera · s.t. 528 m² 45 · Guía 2841 · F.º 60/917 · Rosa García · s.t. 547 m² 80 · Guía 2489",
+    "CALLE SAN ANDRÉS",
+    "F.º 193/924 · Mariana Serreti de Demeco · s.t. 4230 m² 20 · Guía 1602",
+    "F.º 217/923 · Antonio Luchisano · s.t. 3269 m² 36 · Guía 2644",
+    "F.º 134/925 · José Uguet · s.t. 6587 m² 54 · Guía 1744 [lápiz: 259 [?]]",
+    "F.º 246/936 · Víctor Antonio Cardinale · s.t. 3749 m² 78 · Guía 3204 · [lote angosto:] 1131 m² 36 · Guía 3203",
+    "[Arriba en la toma (al E), la diagonal doble y una faja perpendicular de dos líneas (calle o desvío) [?]; al pie:] F.º 57/920 · [Cayetano] Cardinale"
+   ],
+   "interpretacion": "Al S de San Andrés el damero se deshace en fracciones irregulares entre la calle y la diagonal: Mariana Serreti de Demeco (4230,20 m², el mismo F.º 193/1924 que su fracción de la hoja 7), Antonio Luchisano (3269,36 m²), José Uguet (6587,54 m²) y Víctor Antonio Cardinale (3749,78 + 1131,36 m², F.º 246/1936)."
+  },
+  {
+   "titulo": "Fracciones de Cancio y Cardinale",
+   "img": "img/v/V08/07.jpg",
+   "fuente": "IMG_1114.JPG",
+   "nota": "Toma girada 90° [?].",
+   "lineas": [
+    "[Toma girada 90° respecto de la vista general.]",
+    "CALLE SAN ANDRÉS",
+    "F.º 151/934 · Antonia Anselma Cancio · s.t. 21 030 m² 995 · Guía 1396-1392 [?] [lápiz: 260, 261]",
+    "F.º 195/928 · Cayetano Cardinale · s.t. 8979 m² 4395 [?] · s.p. 8979 m² 795 [?] · Guía 260",
+    "F.º 57/920 · Cayetano Cardinale · s.t. 9 h 15 a 74 c · s.p. 9 h 25 a 40 c · Guía 2090",
+    "[Al borde de la hoja, más allá de la diagonal, un rectángulo con un triángulo sombreado]"
+   ],
+   "interpretacion": "Las fracciones mayores de la hoja: Antonia Anselma Cancio (21 030,995 m², 1934) y Cayetano Cardinale (8979 m², 1928, y 9 ha 15 a 74 c según título contra 9 ha 25 a 40 c según plano, 1920: 966 m² de más). La hoja 9 remite a esta («ver la otra hoja»)."
+  },
+  {
+   "titulo": "Ángulo SE: Cardinale y signos a lápiz",
+   "img": "img/v/V08/08.jpg",
+   "fuente": "IMG_1115.JPG",
+   "nota": "Toma girada 90° [?]; ángulo plegado.",
+   "lineas": [
+    "[Toma girada 90° respecto de la vista general; ángulo plegado.]",
+    "[F.º 57/920 · Cayetano Cardinale] · s.t. 9 h 15 a 74 c · s.p. 9 h 25 a 40 c · Guía 2090",
+    "[En la faja del borde, signos a lápiz:] □ · S · S · S · HHC [en recuadro] · [rectángulo con triángulo sombreado]"
+   ],
+   "interpretacion": "Además de la fracción Cardinale de 1920, en la faja del borde hay signos a lápiz: tres «S», un cuadradito, «HHC» en un recuadro y un rectángulo con un triángulo sombreado. No son rótulos catastrales; podrían ser marcas de trabajo de campo o de un plano posterior [?]."
+  },
+  {
+   "titulo": "Mitad S: de Nicolás Méndez a la fracción Cardinale",
+   "img": "img/v/V08/09.jpg",
+   "fuente": "IMG_1116.JPG",
+   "nota": "Toma con el N a la izquierda.",
+   "lineas": [
+    "[Toma con la orientación de la vista general; repite IMG_1111-1114 con menos detalle.]",
+    "CALLE NICOLÁS MÉNDEZ · CALLE SAN ANDRÉS",
+    "F.º 151/934 · Antonia Anselma Cancio · s.t. 21 030 m² 995 · Guía 1396-1392 [?]",
+    "F.º 195/928 · Cayetano Cardinale · s.t. 8979 m² 4395 · s.p. 8979 m² 795 [?] · Guía 260",
+    "F.º 246/936 · Víctor Antonio Cardinale · s.t. 3749 m² 78 · Guía 3204 · F.º 57/920 · [Cayetano Cardinale]",
+    "[Abajo, a lápiz, tenue, en la manzana al S de Carbone:] … [?]"
+   ],
+   "interpretacion": "Retoma de conjunto de la mitad S; confirma los rótulos de Cancio y Cardinale. No agrega parcelas nuevas."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Hoja catastral 8 (vista general)",
+   "img": "img/v/V08/01.jpg",
+   "fuente": "IMG_1108.JPG (detalles IMG_1109-1116)",
+   "orientacion": "sin flecha visible; la hoja está fotografiada con el N a la izquierda",
+   "interpretacion": "Mismo formato que las hojas 1-7: tinta negra, bordes en rojo, tildes rojos y números de manzana a lápiz (233-261). La diagonal doble que entra por el ángulo NE y sale hacia el SO es el límite de la planta parcelada; al otro lado sólo hay signos a lápiz. Sobre la hoja se ve plegada la hoja 7, de modo que las dos se fotografiaron juntas.",
+   "referencias": [
+    [
+     "Calle pública ocupada sin título por Di Paolo",
+     "faja entre la manzana Di Paolo y la de la Suc. Robascio"
+    ],
+    [
+     "Suc. de Juan Robascio",
+     "manzana ocupada con título no inscripto (7500 m², Guía 3009)"
+    ],
+    [
+     "Diagonal doble",
+     "camino sin rótulo, probable camino general a Luján [?]"
+    ],
+    [
+     "S · S · S · HHC",
+     "signos a lápiz en la faja del borde S"
+    ],
+    [
+     "233-261 (lápiz)",
+     "números de manzana"
+    ],
+    [
+     "8 (lápiz rojo)",
+     "número de la hoja"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: Danuncio, Di Paolo, Pichetto de Larrosa y Robascio",
+   "img": "img/v/V08/02.jpg",
+   "fuente": "IMG_1111.JPG",
+   "orientacion": "N a la izquierda",
+   "interpretacion": "Cuatro manzanas enteras de títulos de 1905-1921 y una sucesión sin inscribir. La calle ocupada por Di Paolo y la manzana de Robascio muestran que en el borde del pueblo la cuadrícula oficial todavía no se había abierto.\nN.º 8463/905\nNicolás di Paolo, 86,60 × 86,60\nN.º 1290/911\nMaría de las Nieves Pichetto de Larrosa\nF.º 62/921\nEugenio V. Danuncio, 7499,56 m²",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Es el borde S del pueblo: manzanas enteras sin subdividir al N, dos manzanas de lotes menudos (con casas dibujadas) apretadas contra la diagonal y, al S de San Andrés, fracciones grandes con forma de trapecio que ya son chacras o quintas (Cardinale 9,25 ha, Cancio 2,1 ha). Más allá de la diagonal no hay parcelas: empieza el campo. Los signos «S» y «HHC» a lápiz y un rectángulo con un triángulo sombreado en esa faja podrían marcar construcciones o instalaciones fuera del ejido parcelado [?]."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "La hoja registra una calle pública ocupada sin título por Nicolás di Paolo, una manzana ocupada «con título no inscripto» por la sucesión de Juan Robascio y un exceso de 966 m² en la fracción de Cayetano Cardinale (título 9 ha 15 a 74 c; plano 9 ha 25 a 40 c). La remisión «ver la otra hoja» de la hoja 9 muestra que las fracciones que cruzan el límite entre hojas se rotulaban en una sola."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Rótulos con asiento, titular, superficie y Guía. Se verificaron en python: 9 × 40,25 = 362,25 (rótulo 362,24), 7,98 × 40,25 = 321,195 (321,20), 2 × 7499,56 = 14 999,12 (rótulo 14 999). Esto confirma que el fondo de los lotes contra la diagonal es 40,25 m y no 40,53, como parecía en la toma. En las fracciones irregulares se dan «s.t.» y «s.p.» (según plano), con diferencias."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Las manzanas son de 100 v (86,60 m). Los lotes menudos tienen frentes de 9 m y fondos de 40,25 m (≈ 46,5 v), no de varas enteras. Las fracciones del S se expresan en hectáreas, áreas y centiáreas (9 h 15 a 74 c), como en las mensuras rurales."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Dominan los títulos del siglo XX (1905-1936). Los Cardinale (Cayetano y Víctor Antonio) son los mayores propietarios del S del pueblo: sumando esta hoja y la 9, más de 15 ha en una decena de asientos. Hay muchos italianos (Russo, Zillo, Gibellini, Nocera, Cilli, Mazzeo, Domine, Felice, Luchisano) y españoles. Pichetto (de Larrosa) y Carbone y Allegro son las familias antiguas."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "V07 y V09: Carbone y Allegro tienen aquí 2 manzanas, en la hoja 7 cuatro y en la 9 otras dos: unas 8 manzanas en total. Serreti de Demeco tiene dos fracciones bajo el mismo F.º 193/1924 (hojas 7 y 8). María Luisa Alvis (1908) se suma a los Alvis de V05 y V07. 060 (1871): Larrosa era arrendatario y lindero del terreno del Santo; aquí María de las Nieves Pichetto de Larrosa une ese apellido con el de Pichetto (V02, V05). José Uguet: el inventario lo da en V27 (manzana frente a la plaza General Mitre)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Se leyeron las 9 tomas; 1116 es retoma. Varias lecturas de nombres menudos quedan con [?] (Cairna, Losinno, Lagerenza, Tiseira). No se identificó la diagonal: por su rumbo NE-SO y por la hoja 6 (avenida Lucas Scully y camino a Luján) parece el camino general a Luján [?]. Preguntas abiertas: qué significan los signos «S» y «HHC»; quién es Eleuterio Mo[n]de[l]o [?], anotado a lápiz al N de Nicolás Méndez; y si la fracción Cardinale de 9,25 ha era una quinta o un horno."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Cayetano Cardinale",
+   "rol": "Mayor titular de las hojas 8 y 9",
+   "texto": "Tiene en esta hoja una fracción de 9 ha 15 a 74 c (F.º 57/1920) y otra de 8979 m² (F.º 195/1928), y en la hoja 9 una manzana (N.º 4170/1899) y 16 358,89 m² en tres títulos de 1899-1907. Son unas 12,4 ha (cálculo en python). Su familia (Víctor Antonio; Josefina y Teresa Cardinale Luvisio de Agotegaray) suma otras 3,3 ha. No hay datos externos.",
+   "fuentes": "Este plano (IMG_1113-1115); CV09."
+  },
+  {
+   "nombre": "María de las Nieves Pichetto de Larrosa",
+   "rol": "Titular",
+   "texto": "Tiene una manzana entera (N.º 1290/1911). Pertenece a la familia Pichetto (V02, V05, V09) y está casada con un Larrosa, apellido de los linderos del terreno del Santo en 1871 (060). En la hoja 7 aparece Trinidad Larrosa de Bristore.",
+   "fuentes": "Este plano (IMG_1110, 1111); METODO.md (060)."
+  },
+  {
+   "nombre": "Antonia Anselma Cancio",
+   "rol": "Titular",
+   "texto": "Fracción de 21 030,995 m² (F.º 151/1934) al S de San Andrés, que la hoja 9 remite a esta. No hay datos externos.",
+   "fuentes": "Este plano (IMG_1114, 1116); CV09."
+  }
+ ],
+ "titulo": "Catastro urbano · hoja 8",
+ "estado": "Transcripta (9 hojas, 101 renglones), 2 láminas"
+}

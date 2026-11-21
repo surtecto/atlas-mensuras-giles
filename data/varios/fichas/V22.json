@@ -1,0 +1,264 @@
+{
+ "carpeta": "V22",
+ "carpeta_nombre": "Varios V22",
+ "archivo": "Ficha V22 - Tomo de planos agregados a inscripciones (1932-1943).docx",
+ "resumen": {
+  "Documento": "Tomo s. n. [?]: planos «San A. de Giles» agregados a inscripciones",
+  "Propietario / solicitante": "Varios (Monsalvo, Gaynor y otros)",
+  "Autor": "Agrim. nac. O. F. Cassinis [?] (Mercedes, mat. 687); Ing. Pedro A. Pessagno [?]",
+  "Agrimensor": "O. F. Cassinis [?]; Pedro A. Pessagno [?]",
+  "Año": "1932-1943",
+  "Escala": "1:500 y 1:200 [?] (urbanos); 1:10 000 [?] (Gaynor)",
+  "Ubicación": "Pueblo: Saavedra, Maipú, Rivadavia, Av. Lucas Scully; campo Gaynor",
+  "Linderos": "Gastaldi, Peláez, Sosa, Ambrune, Ledesma, García, Álvarez, Shanahan, Benavídez",
+  "Rasgos": "Casas con sus piezas, excedentes y faltantes contra título; estancia Gaynor",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), tomo s. n. [?]"
+ },
+ "metricas": {
+  "superficie_ha": "0,3608 · 0,0844 · 0,0826 · 0,0508 · 0,0632 (urbanos) · 283,3992 (Gaynor)",
+  "hitos": "esquineros con letras (A-K), paredes medianeras",
+  "aguas": "—"
+ },
+ "sintesis": "Tomo de copias de planos de subdivisión que el Registro manda «agregar» a las inscripciones de dominio de San Andrés de Giles, 1932-1943. Cinco son urbanos, en las manzanas de Saavedra, Maipú, Rivadavia y la Av. Lucas Scully: Monsalvo Ponce (10 lotes, 1939), Elvira García (1940), sucesión Ambrune (1932) y dos planos de Althaparro y Aicaguer (1942-1943). Se dibujan las piezas de las casas, porque la divisoria sigue las paredes, y se anotan excedentes y faltantes contra el título, con conformidad firmada por los dueños. El sexto plano divide entre la viuda y siete hijos el campo de 283 ha de la sucesión de Miguel Gaynor (Mercedes, 1936 [?]). Casi todos los firma un mismo agrimensor nacional de Mercedes, matrícula 687.",
+ "caratula": {
+  "img": "img/v/V22/01.jpg",
+  "fuente": "IMG_1203.JPG",
+  "campos": [
+   [
+    "Partido",
+    "San A. de Giles"
+   ],
+   [
+    "Propiedad de",
+    "Isabel, Sabina y María Nemesia Monsalvo Ponce"
+   ],
+   [
+    "Superficie",
+    "3607 m² 64 dm² en 10 lotes"
+   ],
+   [
+    "Título",
+    "La Plata, 26/4/1933, N.º 60"
+   ],
+   [
+    "Firma",
+    "matrícula 687, Mercedes, julio de 1939"
+   ],
+   [
+    "Nota",
+    "agregar a la inscripción 60/933"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Monsalvo Ponce: 10 lotes en Saavedra y Maipú (julio de 1939)",
+   "img": "img/v/V22/01.jpg",
+   "fuente": "IMG_1203.JPG",
+   "nota": "Escala 1:500; toma a 0°.",
+   "lineas": [
+    "[Toma a 0°: copia heliográfica sepia, encuadernada en un tomo de tapas jaspeadas negras; la mano del fotógrafo sostiene la hoja.]",
+    "— SAN A. DE GILES — / PROPIEDAD DE D.as ISABEL, SABINA Y MARÍA NEMESIA MONSALVO PONCE / SUP. T.al = 3607 m² 64 dm²",
+    "[Nota manuscrita, tinta:] Octubre 4 de 1939. Agregar plano y planilla a la inscripción 60/933 San Andrés de Giles. [rúbrica] R. J. Oyuela [?]",
+    "TÍTULO: La Plata 26 de Abril de 1933 bajo el N.º 60 del Registro de San A. de Giles.-",
+    "[Linderos:] José Gastaldi · José F. Peláez (Sup. 2243 m² [?]) · Víctor L. Sosa · Zenón A. Gamboa · Sucesión M. García Pastur · María G. de Lavallen [?] · Sucesión Ambrune",
+    "[Calles:] Calle Saavedra · Calle Maipú · Calle Pellegrini [?] [al O, cortada]",
+    "[Lotes:] ① S = 305 m² 92 dm² · ② S = 268 m² 35 dm² · ③ S = 268 m² 35 dm² · ④ S = 376 m² 55 dm² (27,00 y 37,00 m de fondo) · ⑤ S = 312 m² 10 dm² · ⑥ S = 416 m² 60 dm² · ⑦ S = 418 m² 02 dm² 50 cm² · ⑧ S = 419 m² 42 dm² 50 cm² · ⑨ S = 497 m² 77 dm² [con edificación] · ⑩ S = 324 m² 55 dm²",
+    "[Cotas:] frentes de 10,00 m · 19,60 · 9,57 · 41,90 · 42,04 · 42,18 · 42,32 · 42,60 · 36,00 · 86,40 m · 86,60 m s/t.º · 45,90 [?]",
+    "[Rosa de los vientos; sello con estampilla fiscal, «… LA PLATA».]",
+    "ESCALA 1:500",
+    "MATRÍCULA 687 / PATENTE 05398 de 1939 / MERCEDES, JULIO de 1939 / [firma] O. F. Cassinis [?]"
+   ],
+   "interpretacion": "Terreno de 3607,64 m² de Isabel, Sabina y María Nemesia Monsalvo Ponce, sobre las calles Saavedra y Maipú, dividido en diez lotes de 268 a 498 m² (la suma da exactamente 3607,64 m², verificado). Frente total de 86,60 m s/título: 100 varas, el lado de una manzana de 1838. Título: La Plata, 26/4/1933, inscripción N.º 60 del registro de San Andrés de Giles. Linderos Gastaldi, José F. Peláez, Víctor L. Sosa, Zenón A. Gamboa; enfrente, Suc. García Pastur, María G. de Lavallen [?] y Suc. Ambrune. Firma el agrimensor de matrícula 687 (O. F. Cassinis [?]), Mercedes, julio de 1939. La nota del Registro (4/10/1939) manda «agregar plano y planilla a la inscripción 60/933»."
+  },
+  {
+   "titulo": "Elvira García: lote vendido sobre la Av. Lucas Scully (octubre de 1940)",
+   "img": "img/v/V22/04.jpg",
+   "fuente": "IMG_1204.JPG",
+   "nota": "Copia muy desvaída; leída con contraste.",
+   "lineas": [
+    "[Toma a 0°: copia heliográfica muy desvaída; leída con contraste.]",
+    "— SAN A. DE GILES — / PROPIEDAD DE DOÑA ELVIRA GARCÍA / Sup. s/T.º = 844 m² 46 dm²",
+    "[Calles:] Avenida Lucas Scully [N] · Calle Rivadavia [O] · Calle [?] … Hiervo [?]",
+    "[Linderos:] María y Ventura Ledesma [S] · [hoy] Luis Rosso [?] · antes Elvira García [E]",
+    "① Sup. rest.e = 622 m² 55 dm² s/T.º · ② VENDIDO Sup. = 221 m² 91 dm²",
+    "[Cotas:] AB = 39,05 s/T.º · AB = 40,80 m · AR [?] = 28,80 m · FG = 10,25 m · JI = 28,80 m · JH = 39,05 s/T.º · IH = 10,25 · EA = 30,05 m · EJ = 8,40 m · ED = 13,60 m · DC = 27,20 m · 21,65 · EXCEDENTE JKCDE = 303 m² 10 dm²",
+    "[Nota manuscrita:] Octubre 22 de 1940. Agregar plano y planilla a la inscrip.: 5/918 S. A. de Giles. [rúbricas] Balcarce [?] · Eguiguren [?]",
+    "[Margen derecho:] Matrícula 687 / Patente 05374 de 1940 / Mercedes, octubre 17/940 / [firma] O. F. Cassinis [?] · [estampilla fiscal]"
+   ],
+   "interpretacion": "Terreno de 844,46 m² s/título en la esquina de la Av. Lucas Scully y Rivadavia. Se vende el lote 2 (221,91 m²) y queda un resto de 622,55 m² (suma verificada). El plano marca además un «excedente JKCDE = 303,10 m²» entre la mensura y el título. Linderos María y Ventura Ledesma y Luis Rosso [?]. Mismo agrimensor (matrícula 687, patente 05374 de 1940), Mercedes, 17/10/1940; nota del registro 22/10/1940: «agregar plano y planilla a la inscrip. 5/918»."
+  },
+  {
+   "titulo": "Sucesión de Catalina Riva de Ambrune: dos lotes en Saavedra y Maipú (diciembre de 1932)",
+   "img": "img/v/V22/03.jpg",
+   "fuente": "IMG_1205.JPG",
+   "nota": "A lápiz «12/933 [?] S. A. de Giles».",
+   "lineas": [
+    "[Toma a 0°: copia heliográfica sepia.]",
+    "[A lápiz, arriba:] 12/933 [?] S. A. de Giles",
+    "— SAN A. DE GILES — / SUCESIÓN DE D.a CATALINA RIVA DE AMBRUNE / SUP. T.al = 826 m² 06 dm² 50 cm²",
+    "[Linderos:] Sucesores de Pedro Castañeda [N, frente a la calle] · Juan P. Riva [S] · Ramona Veloz [E, frente a Maipú]",
+    "[Calles:] Calle Saavedra · Calle Maipú",
+    "① Virginia Anastasia Ambrune de Alvis [?] · Sup. = 623 m² 20 dm² [con la casa: galpón, cocina, baño, corredor, habitaciones, aljibe [?]]",
+    "② Amalia Passera y Ambrune · Sup. = 202 m² 86 dm² 50 cm²",
+    "[Cotas:] 40,72 m s/T.º · 30,72 m · 10,00 m · DC = 43,90 · AB = 43,05 m · 20,36 m s/T.º · 20,36 · BC = 19,25 m · 2,60 · Sup. [?] = 831 m² 80 dm²",
+    "De la medición directa y dimensiones de Título / Mercedes, Diciembre de 1932 / [firma] O. F. Cassinis [?] / Agrimensor Nacional"
+   ],
+   "interpretacion": "Terreno de 826,065 m² de la sucesión de Catalina Riva de Ambrune, esquina Saavedra y Maipú. Lote 1, con la casa (habitaciones, corredor, cocina, baño y galpón), para Virginia Anastasia Ambrune de Alvis [?]: 623,20 m². Lote 2, baldío, para Amalia Passera y Ambrune: 202,865 m² (suma verificada). Linderos: sucesores de Pedro Castañeda enfrente, Juan P. Riva y Ramona Veloz. «De la medición directa y dimensiones de título», Mercedes, diciembre de 1932, firma del mismo agrimensor nacional."
+  },
+  {
+   "titulo": "Althaparro y Aicaguer: subdivisión del lote 1 (plano N.º 2, 1943)",
+   "img": "img/v/V22/05.jpg",
+   "fuente": "IMG_1206.JPG",
+   "nota": "Copia fotográfica; toma girada 90°.",
+   "lineas": [
+    "[Toma a 0°, plano girado 90°: copia fotográfica gris, con un sello de banco tapado por otra estampilla.]",
+    "[Lápiz:] N.º 2 · 2-9-943 [?] · Tessera [?]",
+    "PLANO DE SUBDIVISIÓN DEL LOTE 1 / PROPIEDAD DE DOÑA JULIA CATALINA ALTHAPARRO Y AICAGUER / PARTIDO DE S. A. DE GILES / P.cia DE B.s A.s / SUP. TOTAL = 508 m² 4000 cm² / Insc. N.º 44 Año 1922 de S. A. de Giles.",
+    "[Linderos y calles:] Pedro García · Calle Saavedra · Calle Rivadavia · Sara T. de Álvarez · Lote N.º 2",
+    "Ⓐ Sup. = 278 m² 2945 cm² · Ⓑ Sup. = 230 m² 1055 cm²",
+    "[Cotas:] 32,47 m · 29,35 · 16,08 · 9,70 · 6,38 · 5,05 · 1,04 · 3,20 · 6,15 · 5,95 · 8,36 · 4,90 · 3,12 · 15,30 · quiebres de 0,35 y 0,75 m [la divisoria sigue las paredes]",
+    "[Sello:] PEDRO A. PESSAGNO [?] / Ingeniero Civil · [firma] · Pat. 02226 [?] / 943 Mat. 141",
+    "ESC. 1:500"
+   ],
+   "interpretacion": "El lote 1 del plano anterior (508,40 m², Saavedra y Rivadavia) se parte en A (278,2945 m²) y B (230,1055 m²); suma verificada. La divisoria quiebra seis veces siguiendo las paredes de la casa. Firma el ingeniero civil Pedro A. Pessagno [?], matrícula 141, 1943."
+  },
+  {
+   "titulo": "Althaparro y Aicaguer: subdivisión en dos lotes (plano N.º 1, 1942)",
+   "img": "img/v/V22/06.jpg",
+   "fuente": "IMG_1207.JPG",
+   "nota": "Toma girada 90°.",
+   "lineas": [
+    "[Toma girada 90°: copia fotográfica gris.]",
+    "[Manuscrito:] Agregar plano a la inscripción 44/1922 S. A. de Giles. [rúbricas] Balcarce [?] · Eguiguren [?]",
+    "PLANO DE SUBDIVISIÓN / PROPIEDAD DE DOÑA JULIA CATALINA ALTHAPARRO Y AICAGUER / PARTIDO DE S. A. DE GILES / P.cia de B.s A.s / SUP. TOTAL s/tít. = 779 m² 40 dm² · s/mens. 631 m² 56 dm² / Insc. N.º 44 Año 1922 de S. A. de Giles",
+    "[Linderos y calles:] Pedro García · Calle Saavedra · Calle Rivadavia · Rómulo Álvarez hoy Sara T. de Álvarez · Rómulo Álvarez hoy Jorge Gallo",
+    "① Sup. = 508 m² 40 dm² · ② Sup. = 123 m² 16 dm² [?]",
+    "[Cotas:] 43,80 s/tít. · 40,52 s/m · 32,47 · 18,08 s/m [?] · 8,00",
+    "[Manuscrito al pie:] Expresamos conformidad por la diferencia [?] de superficie entre título y mensura. [firmas] Julia A. de Ferreri [?] · [otra firma]",
+    "ESC. 1:200 [?] · [sello] PEDRO A. PESSAGNO [?] Ingeniero Civil · [firma] · Pat. 03220 [?] Mat. 141 Año 1942"
+   ],
+   "interpretacion": "Terreno de Julia Catalina Althaparro y Aicaguer en la esquina de Saavedra y Rivadavia, inscripción 44/1922. Título 779,40 m², mensura 631,56 m²: faltan 147,84 m² (19 %). Lote 1 de 508,40 m² y lote 2 de 123,16 m² [?] (suma verificada). Al pie, los interesados firman «conformidad por la diferencia de superficie entre título y mensura». Linderos Pedro García y Rómulo Álvarez, «hoy» Sara T. de Álvarez y Jorge Gallo. Pessagno [?], matrícula 141, 1942."
+  },
+  {
+   "titulo": "Sucesión de Miguel Gaynor: el campo en 8 lotes (Mercedes, diciembre de 1936 [?])",
+   "img": "img/v/V22/02.jpg",
+   "fuente": "IMG_1208.JPG",
+   "nota": "Toma a 0°; firma del agrimensor de Mercedes.",
+   "lineas": [
+    "[Toma a 0°: copia heliográfica sepia, plegada.]",
+    "[Lápiz:] Expediente 7413-3 [?] · 7/93? [?] · San Andrés de Giles",
+    "— SAN ANDRÉS DE GILES — / SUCESIÓN DE DON MIGUEL GAYNOR / Sup. s/Títulos = 283 h 39 a 92 ca / \" de Lotes = 279 h 67 a 18 ca / \" de Caminos = 3 h 72 a 74 ca",
+    "[Linderos:] José Uguet [?] · Victorino Martinelli · Domingo Agosti (N) · Brígida B. de Shanahan · Pedro P. Shanahan (O) · Sucesión Goyeneche · Sucesión Morrow (S) · Pedro Benavídez · Fortunato Benavídez · José Benavídez · María E. de Aristimuño · Andrea R. E. de Crinigan (E) · Diego Gaynor",
+    "[Lotes:] ① Brígida Gaynor de Gaynor, Sup. = 108 h 48 a 94 ca [con la «estancia»: casa, montes y corrales] · ② Tomás Gaynor y Leary [?], Sup. = 7 h 09 a 00 ca · Cristóbal Gaynor, Sup. = 17 h 66 a 32 ca · ③ Ana Lucía Gaynor, Sup. = 22 h 75 a 32 ca · ④ Isabel Gaynor, Sup. = 22 h 75 a 32 ca · ⑤ Tomás Gaynor, Sup. = 22 h 75 a 32 ca · ⑥ Miguel Gaynor, Sup. = 29 h 75 a 32 ca · ⑦ María Gaynor, Sup. = 24 h 75 a 32 ca · ⑧ Tomás Gaynor, Sup. = 3? h 75 a 32 ca [?]",
+    "[Lados:] EF = 1469,90 m S 30° 40′ E · GH = 1952,75 · MN = 3454,00 · MP = 762,16 · DC = 572,80 · BC = 332,50 · BR = 192,00 · OQ = PR = 400,78 · QS = RT = 401,48 · SU = TV = 402,19 · UW = VX = 527,00 · WY = 426,12 · XA = 472,95 · YH = 553,7 · IJ = 552,40 · LK = 1011,20 m · 487,00 m · IH = 595 · IN = 235,45 · MH = 359,55 · BA = 2396,40 · PO = 568,22 · RQ = 567,22 · TS = 566,22 · VU = 565,22 · XW = 563,92 · ZY = 407,78 · DE = 494,60",
+    "Mercedes, Diciembre de 1936 [?] / [firma] O. F. Cassinis [?]",
+    "ESCALA 1:10 000 [?] · [ángulo inferior] N.º 387 [?]"
+   ],
+   "interpretacion": "Campo de 283 ha 39 a 92 ca s/títulos: 279 ha 67 a 18 ca en lotes y 3 ha 72 a 74 ca de caminos (suma verificada). El lote 1, con la «estancia» (casa, montes, corrales), 108,49 ha, para la viuda Brígida Gaynor de Gaynor; los demás, franjas de 400 × 565 m [?] para los hijos Cristóbal, Ana Lucía, Isabel, Tomás, Miguel y María Gaynor (22,75 ha cada uno, salvo Miguel con 29,75 y María con 24,75). Lindan Shanahan, Uguet, Martinelli, Agosti, Benavídez, Aristimuño, Crinigan, Diego Gaynor y las sucesiones Goyeneche y Morrow. La cifra del lote 8 no se lee; por diferencia es 23,66 ha [?]."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Sucesión de Miguel Gaynor: división en 8 lotes",
+   "img": "img/v/V22/02.jpg",
+   "fuente": "IMG_1208.JPG",
+   "orientacion": "rosa de los vientos con la N hacia arriba a la izquierda (NO)",
+   "interpretacion": "Un campo largo (lado mayor BA = 2396,40 m y MN = 3454 m) con el lote de la viuda, que tiene la estancia, en la mitad N, y una serie de franjas paralelas de unos 400 m de frente en la mitad S, una por hijo. El orden de los hijos repite la familia de 187 (Tomás, Miguel, María, Ana o Anita, Isabel, Cristóbal). Un camino interior de 3,73 ha da salida a todas las franjas. Al E, lotes chicos lindan con Diego Gaynor y los Benavídez.",
+   "referencias": [
+    [
+     "① 108 h 48 a 94 ca",
+     "Brígida Gaynor de Gaynor, con la estancia"
+    ],
+    [
+     "② 7 h 09 a 00 ca",
+     "Tomás Gaynor y Leary [?]"
+    ],
+    [
+     "Cristóbal Gaynor",
+     "17 h 66 a 32 ca"
+    ],
+    [
+     "③ ④ ⑤",
+     "Ana Lucía, Isabel y Tomás Gaynor: 22 h 75 a 32 ca c/u"
+    ],
+    [
+     "⑥ 29 h 75 a 32 ca",
+     "Miguel Gaynor"
+    ],
+    [
+     "⑦ 24 h 75 a 32 ca",
+     "María Gaynor"
+    ],
+    [
+     "⑧ 3? h 75 a 32 ca [?]",
+     "Tomás Gaynor (por diferencia, 23,66 ha [?])"
+    ],
+    [
+     "Caminos",
+     "3 h 72 a 74 ca"
+    ],
+    [
+     "EF = 1469,90 m S 30° 40′ E",
+     "Rumbo del lado O"
+    ]
+   ]
+  },
+  {
+   "titulo": "Sucesión de Catalina Riva de Ambrune (esquina Saavedra y Maipú)",
+   "img": "img/v/V22/03.jpg",
+   "fuente": "IMG_1205.JPG",
+   "orientacion": "rosa con la N arriba a la izquierda",
+   "interpretacion": "La casa se dibuja pieza por pieza (habitaciones, corredor, cocina, baño, galpón y aljibe [?]) porque la partición entre las herederas debe dejar la casa entera en el lote 1. El lote 2, angosto (10 m de frente), queda baldío sobre Saavedra.\n① 623 m² 20 dm²\nVirginia Anastasia Ambrune de Alvis [?], con la casa\n② 202 m² 86 dm² 50 cm²\nAmalia Passera y Ambrune\n40,72 m s/T.º · 30,72 · 10,00\nFrente sobre Saavedra\n20,36 m s/T.º\nFrente sobre Maipú",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "El pueblo de 1932-1943 en sus manzanas centrales: casas de pocas piezas con galería y galpón al fondo, aljibes, baldíos angostos de 10 m de frente que se venden para edificar. La Av. Lucas Scully y las calles con nombres de próceres ya están consolidadas. En el campo, la estancia Gaynor conserva casa, montes y corrales en el lote de la viuda."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Planos a 1:500 con medidas al centímetro y superficies al centímetro cuadrado, letras en los vértices y diferencias «s/T.º» y «s/m». Firmados con número de matrícula y de patente anual (en V18, Reyna cita la ley 4048 de matrícula [?]). Algunas copias son heliográficas (sepia) y otras fotográficas (grises, 1942-1943). Cada plano lleva la nota manuscrita del Registro con la orden de agregarlo a la inscripción y dos rúbricas."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Métrico, pero con el módulo colonial a la vista: el frente de 86,60 m s/título (Monsalvo) son 100 varas de 0,866 m. Se verificaron en python todas las sumas de lotes: 3607,64; 844,46; 826,065; 508,40; 631,56 m² y 279,6718 + 3,7274 = 283,3992 ha. En Althaparro faltan 147,84 m² (19 %) contra el título; en García hay un excedente de 303,10 m²."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Particiones hereditarias (Ambrune, Gaynor), ventas parciales (García) y loteos de hermanas (Monsalvo). Las diferencias entre título y mensura se resuelven con la firma de conformidad de los interesados en el plano. Las mujeres son titulares en cinco de los seis planos."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "187-188: la sucesión de Tomás Gaynor y la de Cristóbal Gaynor y Leary (1893-1903); aquí la generación siguiente divide el campo de Miguel Gaynor. V21: la parada «Diego Gaynor» en el plano de ubicación de Solís. 003: Pascuala Romero de Monsalvo (1838), raíz posible de las Monsalvo Ponce [?]. V16: «Victoriano Altaparro [?]» lindero de la sucesión Whelan (1938), mismo apellido que Julia Catalina Althaparro. V01-V09: las manzanas de Saavedra, Maipú y Rivadavia del catastro de 1934 (verificar los asientos 60/933, 5/918 y 44/922). V17: José F. Peláez y los Peláez de las quintas."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "No se fotografió la tapa ni un índice del tomo. Dudas: el apellido del agrimensor de matrícula 687 (Cassinis [?]), el ingeniero Pessagno [?], las rúbricas del Registro (Balcarce [?], Eguiguren [?]), el lote 8 de Gaynor y su fecha (1936 [?]). Conviene ubicar los cinco terrenos urbanos en el catastro V01-V09."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "O. F. Cassinis [?]",
+   "rol": "Agrimensor nacional, mercedes",
+   "texto": "Agrimensor nacional con matrícula 687, con estudio en Mercedes. Firma planos de Giles de 1932 a 1940 (Ambrune, Gaynor, Monsalvo, García). Lectura de la firma dudosa.",
+   "fuentes": "Estos planos."
+  },
+  {
+   "nombre": "Pedro A. Pessagno [?]",
+   "rol": "Ingeniero civil",
+   "texto": "Ingeniero civil con matrícula 141; firma los dos planos de Althaparro (1942-1943).",
+   "fuentes": "Estos planos."
+  },
+  {
+   "nombre": "Familia Gaynor",
+   "rol": "Propietarios",
+   "texto": "Familia irlandesa del partido desde el siglo XIX (Tomás Gaynor, † 1890; Miguel Gaynor y Murray, 187). Una parada ferroviaria lleva el nombre de Diego Gaynor (V21).",
+   "fuentes": "Este plano; fichas 187-188; V21."
+  }
+ ],
+ "titulo": "Varios (Monsalvo, Gaynor y otros)",
+ "estado": "Transcripta (6 hojas, 52 renglones), 2 láminas"
+}

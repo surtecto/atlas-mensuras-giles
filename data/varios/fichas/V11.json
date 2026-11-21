@@ -1,0 +1,128 @@
+{
+ "carpeta": "V11",
+ "carpeta_nombre": "Varios V11",
+ "archivo": "Ficha V11 - Carpeta 1, catastro urbano (1934).docx",
+ "resumen": {
+  "Documento": "Tapa e índice de la Carpeta N.º 1 (Tomo 47): «Planos de catastro urbano»",
+  "Propietario / solicitante": "Carpeta N.º 1, catastro urbano",
+  "Autor": "Dirección de Geodesia, Catastro y Mapa (PBA)",
+  "Agrimensor": "—",
+  "Año": "Levantamiento de enero a mayo de 1934 (según el índice)",
+  "Escala": "—",
+  "Ubicación": "Pueblo de San Andrés de Giles y pueblo de Solís",
+  "Contenido": "10 piezas: plano del levantamiento (1-2), planos catastrales (3-9), copia Legajo 532 (10)",
+  "Rasgos": "Carpeta de cartón con lomo rojo atada con hilo; índice dactilografiado",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), IMG_1131-1132"
+ },
+ "metricas": {
+  "superficie_ha": "—",
+  "hitos": "—",
+  "aguas": "—"
+ },
+ "sintesis": "Tapa e índice de la Carpeta N.º 1 de San Andrés de Giles, «Planos de catastro urbano», numerada Tomo 47 en el índice. Las piezas 1-2 son el plano hecho con los datos del levantamiento de la Dirección de Geodesia, Catastro y Mapa de enero a mayo de 1934. Las piezas 3-9 son los «Planos Catastrales» y la 10 es la copia del plano del Legajo N.º 532, que es el calco del pueblo de Solís (V10). Así se identifica la carpeta de origen de las hojas catastrales V01-V09 y se fecha su levantamiento de base en 1934. Las anotaciones de esas hojas llegan a 1938.",
+ "caratula": {
+  "img": "img/v/V11/01.jpg",
+  "fuente": "IMG_1132.JPG (tapa)",
+  "campos": [
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Carpeta",
+    "N.º 1"
+   ],
+   [
+    "Título",
+    "Planos de catastro Urbano"
+   ],
+   [
+    "Tomo (índice)",
+    "47"
+   ],
+   [
+    "Piezas",
+    "10"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Índice del Tomo 47 (pegado en la tapa interior)",
+   "img": "img/v/V11/02.jpg",
+   "fuente": "IMG_1131.JPG",
+   "nota": "Toma girada 90° (se lee girándola en sentido antihorario).",
+   "lineas": [
+    "[Toma girada 90°: el libro abierto con el lomo arriba; la hoja se lee girándola 90° en sentido antihorario. Arriba, el borde rojo de la tapa.]",
+    "S A N  A N D R É S  D E  G I L E S",
+    "T O M O  47.",
+    "1 Plano confeccionado con los datos del levantamiento ejecutado por La Dirección de Geodesia Catastro y Mapa durante los meses de Enero a Mayo de 1934 ........",
+    "2 ″ ″ ″ ″ ″ ″ ″ ″ ″ ″",
+    "3 Planos Catastrales ........",
+    "4 ″ ″ ........",
+    "5 ″ ″ ........",
+    "6 ″ ″ ........",
+    "7 ″ ″ ........",
+    "8 ″ ″ ........",
+    "9 ″ ″ ........",
+    "10 Es copia del plano agregado al Legajo n.º 532 de San Andrés de Giles ........",
+    "[El resto de la hoja, en blanco; columna de números a la izquierda separada por una línea vertical.]"
+   ],
+   "interpretacion": "Índice dactilografiado del «Tomo 47» de San Andrés de Giles, con 10 piezas. Las piezas 1 y 2 son el «Plano confeccionado con los datos del levantamiento ejecutado por la Dirección de Geodesia Catastro y Mapa durante los meses de Enero a Mayo de 1934»; las 3 a 9, «Planos Catastrales»; la 10, la copia del plano agregado al Legajo N.º 532 (= V10). Es el índice de la carpeta que guardaba las hojas catastrales urbanas V01-V09 y el calco de Solís."
+  },
+  {
+   "titulo": "Tapa de la Carpeta N.º 1, «Planos de catastro urbano»",
+   "img": "img/v/V11/01.jpg",
+   "fuente": "IMG_1132.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°: carpeta de cartón con lomo y cantonera de tela roja, atada con hilo (cordel pasado por dos ojales) y tapa de papel jaspeado azul y negro; asoman hojas sueltas por los bordes.]",
+    "[Etiqueta del lomo, dactilografiada:] CARPETA N.º 1 [subrayado] · Planos de Catastro Urbano.",
+    "[Lomo, número grande en lápiz o tinta oscura:] 1",
+    "[Etiqueta de la tapa, dactilografiada:] PARTIDO DE SAN ANDRÉS DE GILES [subrayado con guiones] / CARPETA N.º 1 [subrayado] / Planos de catastro Urbano."
+   ],
+   "interpretacion": "Carpeta de cartón con lomo de tela roja atada con hilo y tapa de papel jaspeado azul. Las etiquetas del lomo y de la tapa dicen: PARTIDO DE SAN ANDRÉS DE GILES / CARPETA N.º 1 / Planos de catastro Urbano. La Carpeta N.º 1 de la oficina corresponde al Tomo 47 de la numeración del índice."
+  }
+ ],
+ "planos": [],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "No hay lámina. El índice dice qué territorio cubría la carpeta: el pueblo cabecera, en hojas catastrales, y el pueblo de Solís como pieza aparte."
+  },
+  {
+   "titulo": "Procedimiento",
+   "texto": "Es un instrumento de archivo. La oficina provincial reunía en «tomos» numerados por partido los planos que producía o copiaba, con un índice dactilografiado pegado en la tapa interior. El índice describe las piezas por su género («Planos Catastrales») y no por titular, como en los tomos de planos rurales (V13)."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "La carpeta es de cartón con lomo y cantonera de tela roja, cosida o atada con cordel por dos ojales. Las etiquetas están escritas a máquina. Al margen del índice, a lápiz, figura «M. 84.68 [?]», la misma anotación que en el índice del Tomo 52 (V12): quizá una signatura de inventario posterior."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "No aplica."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "No aplica. El índice remite al levantamiento de 1934, base del catastro parcelario urbano de V01-V09."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "V01-V09: las nueve hojas catastrales del pueblo (c. 1938) serían las piezas 1-9 (o 3-9 más el plano general). Hasta ahora se fechaban sólo por el último asiento (F.º 23/938); el índice muestra que el levantamiento se hizo de enero a mayo de 1934. V10: el calco de Solís es la pieza 10. V12-V13: son los Tomos 52 y 53 (Carpetas N.º 6 y 7) de la misma serie."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Hay que establecer cómo se reparten las 9 hojas entre las piezas 1-9: si las piezas 1-2 son el plano general o las hojas 1-2. Faltan las Carpetas N.º 2 a 5 (¿Tomos 48 a 51?), que no aparecen en este tramo. Queda por saber también qué significa «M. 84.68»."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Dirección de Geodesia, Catastro y Mapa (PBA)",
+   "rol": "Autora del levantamiento de 1934",
+   "texto": "Es el nombre que da el índice a la repartición provincial que en 1934 levantó el catastro urbano del pueblo. En las hojas aparece como «Dirección de Geodesia [y] Catastro». Las fichas rurales registran la misma repartición en notas de 1924-1934 (062).",
+   "fuentes": "Este índice; V01-V09; METODO.md (062)."
+  }
+ ],
+ "titulo": "Carpeta N.º 1, catastro urbano",
+ "estado": "Transcripta (2 hojas, 18 renglones), 0 láminas"
+}

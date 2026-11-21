@@ -1,0 +1,182 @@
+{
+ "carpeta": "V14",
+ "carpeta_nombre": "Varios V14",
+ "archivo": "Ficha V14 - Campo Figueroa, adjudicación (1926).docx",
+ "resumen": {
+  "Documento": "Plano de adjudicación y subdivisión del campo de los herederos de J. J. J. Figueroa",
+  "Propietario / solicitante": "Herederos de Juan José Julio Figueroa",
+  "Autor": "Copia firmada por Francisco [?] Dallanicini [?], 8/11/1926",
+  "Agrimensor": "Alejandro N. Cagnoni (1926, lotes A y B); Emilio C. Weigel (1899, lote C)",
+  "Año": "1926 (mensuras de 1899 y 1926)",
+  "Escala": "1:15 000",
+  "Ubicación": "Al N de la estación Vagues (F.C.C.A.), entre los arroyos de Giles y del Suero",
+  "Adjudicatarios": "Mercedes Pineda de Fusoni (A); Félix Laureano Pineda (B); Arturo Figueroa Salas (C)",
+  "Rasgos": "Rosa de los vientos; F.C.C.A. a Pergamino y a Bs. As.; estancias San Felipe y San Antonio",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), IMG_1150-1151 (Tomo 53, pieza 5)"
+ },
+ "metricas": {
+  "superficie_ha": "1366,9844 (A 411,3844 + B 530,3750 + C 425,2250, verificado)",
+  "hitos": "mojones en los quiebres; rumbos al minuto",
+  "aguas": "arroyo de Giles (costa por ordenadas); arroyo del Suero; arroyo [de Vagues (?)]"
+ },
+ "sintesis": "Plano de adjudicación (8/11/1926) del campo de 1366,98 ha de los herederos de Juan José Julio Figueroa, al N de Vagues, entre los arroyos de Giles y del Suero. Reparte la tierra en tres lotes: A a Mercedes Pineda de Fusoni (411,38 ha), B a Félix Laureano Pineda (530,38 ha) y C a Arturo Figueroa Salas (425,23 ha); la suma verifica. Copia y une la mensura de Alejandro N. Cagnoni de 1926 (lotes A y B) y la de Emilio C. Weigel de 1899 (lote C). Los adjudicatarios firman «conformes». El lote B tiene exactamente la superficie de la 3.ª fracción de la mensura de Cagnoni de 1923 (ficha 189, 530,375 ha, estancia San Felipe). Este plano cierra así la cadena Figueroa de las fichas 175 y 189.",
+ "caratula": {
+  "img": "img/v/V14/01.jpg",
+  "fuente": "IMG_1150.JPG (vista general)",
+  "campos": [
+   [
+    "Plano",
+    "del campo de propiedad de los herederos de Don Juan José Julio Figueroa"
+   ],
+   [
+    "Partido",
+    "San Andrés de Giles"
+   ],
+   [
+    "Escala",
+    "1:15 000"
+   ],
+   [
+    "Fecha",
+    "Buenos Aires, 8 de noviembre de 1926"
+   ],
+   [
+    "Fuentes",
+    "mensuras Cagnoni 15/3/1926 (A, B) y Weigel 8/12/1899 (C)"
+   ],
+   [
+    "Superficie total",
+    "1366 ha 98 a 44 ca"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Plano del campo de los herederos de Juan José Julio Figueroa (vista general)",
+   "img": "img/v/V14/01.jpg",
+   "fuente": "IMG_1150.JPG",
+   "nota": "Toma girada 90° (se lee girándola en sentido antihorario). Es la pieza 5 del Tomo 53 (lápiz azul «5»).",
+   "lineas": [
+    "[Toma girada 90°: se lee girándola 90° antihorario. Copia heliográfica sepia, plegada, con rosa de los vientos de 16 puntas y marco con esquinas escalonadas.]",
+    "[Lápiz azul, ángulo:] 5",
+    "PLANO DEL CAMPO / DE PROPIEDAD DE LOS HEREDEROS / DE DON JUAN JOSÉ JULIO FIGUEROA / PARTIDO DE SAN ANDRÉS DE GILES / PROV. DE BUENOS AIRES / Escala 1:15000",
+    "ADJUDICACIÓN Y SUBDIVISIÓN",
+    "[Cuadro:] HEREDERO / LOTE / SUPERFICIE · Mercedes Pineda de Fusoni · A · 411 h 38 44 · Félix Laureano Pineda · B · 530 h 37 50 · Arturo Figueroa Salas · C · 425 h 22 50 · Superficie total del campo 1366 h 98 44",
+    "[En el plano:] A · SUPERFICIE 411 h 38 a 44 c · Mercedes Pineda de Fusoni · B · SUPERFICIE 530 h 37 a 50 c · Félix Laureano Pineda · C · SUPERFICIE 425 h 22 a 50 c · Arturo Figueroa Salas",
+    "[Linderos:] Julián Kelly · Mateo y Margarita Kelly · Tomás Kelly · Ciarchi · Gregorio O'Donnell · Delia Elina [Figueroa] · [María] del Carmen Figueroa · Constancio Figueroa · Isaac Figueroa · Teresa Tisseyra · Lucas Scully",
+    "[Vías:] F.C.C.A. [a Pergamino ↑ / a Luján ↓; estación (Vagues) en el ángulo N] · F.C.C.A. [a Buenos Aires] [segunda vía en diagonal que cruza el lote A y el C]",
+    "[Aguas:] Arroyo [de] Vagues [?] [lote A] · Arroyo del Suero · Arroyo de Giles [con su costa por ordenadas]",
+    "[Poblaciones:] Est.ª S.n Felipe [monte y casco «H»] · Est.ª San Antonio [monte y casco «L»] · montes en los campos de Constancio Figueroa y en el lote B",
+    "[Rumbos:] N. 38° 45′ O. = 4249,70 m · S. 51° 50′ E. = 5173,00 m · N. 56° 38′ E. = 1570,40 m [?] · S. 51° 50′ E. = 805,18 m [?] · N. 37° 50′ E. … · Mojón [varios]",
+    "Nota. El presente plano es copia de los siguientes: / a) Plano de la mensura ejecutada por el Agrimensor Alejandro N. Cagnoni en Marzo 15 de 1926 que comprende los lotes A y B. / b) Plano de la mensura ejecutada por el Agrimensor Emilio C. Weigel en Diciembre 8 de 1899. (Lote C)",
+    "Buenos Aires, Noviembre 8 de 1926",
+    "[Firma:] Francisco [?] Dallanicini [?] [rubricada]",
+    "Conformes: Mercedes Pineda de Fusoni · J. Fusoni [?] · F. [?] Pineda · A. Figueroa Salas"
+   ],
+   "interpretacion": "Copia heliográfica sepia, a escala 1:15 000, del campo de 1366 ha 98 a 44 ca de los herederos de Juan José Julio Figueroa, adjudicado en tres lotes: A a Mercedes Pineda de Fusoni (411,3844 ha), B a Félix Laureano Pineda (530,3750 ha) y C a Arturo Figueroa Salas (425,2250 ha). La nota dice que es copia de dos mensuras: la de Alejandro N. Cagnoni del 15/3/1926 (lotes A y B) y la de Emilio C. Weigel del 8/12/1899 (lote C). Está fechada en Buenos Aires el 8/11/1926, firmada por Francisco [?] Dallanicini [?] y con los «conformes» de los adjudicatarios. Tiene rosa de los vientos, dos vías del F.C.C.A., los arroyos de Giles, del Suero y [de Vagues (?)] y las estancias San Felipe y San Antonio."
+  },
+  {
+   "titulo": "Retoma de la mitad O del plano Figueroa",
+   "img": "img/v/V14/02.jpg",
+   "fuente": "IMG_1151.JPG",
+   "nota": "Toma girada 90°.",
+   "lineas": [
+    "[Toma girada 90°, retoma de 1150 con más margen al N (rosa de los vientos, Delia Elina, F.C.C.A., Constancio e Isaac Figueroa, lote A). No se volvió a transcribir.]"
+   ],
+   "interpretacion": "Retoma con más margen de la rosa de los vientos, los lotes A y B y los linderos Figueroa. Sin lecturas nuevas."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Campo de los herederos de J. J. J. Figueroa: adjudicación y subdivisión (1:15 000)",
+   "img": "img/v/V14/01.jpg",
+   "fuente": "IMG_1150.JPG (retoma IMG_1151)",
+   "orientacion": "rosa de los vientos de 16 puntas con N hacia arriba a la derecha (el campo se alarga de NE a SO)",
+   "interpretacion": "Polígono irregular de unos 7 km de largo. Lo cruza en diagonal el F.C.C.A. (a Buenos Aires), y en el ángulo N pasa la línea de Vagues a Pergamino y Luján. Al S lo cierran el arroyo de Giles, cuya costa se levanta por ordenadas, y la confluencia con el arroyo del Suero. Los tres lotes se dibujan con líneas rectas y rumbos al minuto (N 38° 45′ O 4249,70 m; S 51° 50′ E 5173,00 m). Hay montes y cascos en las estancias San Felipe (H) y San Antonio (L) y en el campo vecino de Constancio Figueroa. Los linderos son Kelly al N, Ciarchi y Gregorio O’Donnell al E, Lucas Scully y Teresa Tisseyra al S y los Figueroa (Isaac, Constancio, del Carmen, Delia Elina) al O.",
+   "referencias": [
+    [
+     "A · Mercedes Pineda de Fusoni",
+     "411 ha 38 a 44 ca (Cagnoni 1926)"
+    ],
+    [
+     "B · Félix Laureano Pineda",
+     "530 ha 37 a 50 ca (Cagnoni 1926)"
+    ],
+    [
+     "C · Arturo Figueroa Salas",
+     "425 ha 22 a 50 ca (Weigel 1899)"
+    ],
+    [
+     "Est.ª S.n Felipe",
+     "casco y monte junto al arroyo del Suero"
+    ],
+    [
+     "Est.ª San Antonio",
+     "casco y monte en el lote C"
+    ],
+    [
+     "F.C.C.A.",
+     "a Pergamino / a Luján (N) y a Buenos Aires (diagonal)"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Es una gran estancia criolla del NE del partido, todavía de 1367 ha en 1926. Tiene dos cascos con monte (San Felipe y San Antonio), la confluencia de los arroyos del Suero y de Giles al S y dos líneas del Central Argentino que la cortan. El borde de vecinos combina el núcleo de los Figueroa al O con familias irlandesas (Kelly, O’Donnell, Scully) y otras de inmigración (Ciarchi, Tisseyra)."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "La adjudicación entre herederos se formaliza con una copia firmada y los «Conformes» de los adjudicatarios al pie (Mercedes Pineda de Fusoni, J. Fusoni [?], F. Pineda [?], A. Figueroa Salas). La partición es un acuerdo privado que se valida en el plano, sin juez ni diligencia de mensura nueva."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Es un plano de gabinete que compone dos mensuras de distinta época (1899 y 1926) en una sola lámina con rumbos verdaderos al minuto, medidas al centímetro y costas de arroyo por ordenadas. Tiene una rosa de los vientos decorativa y rotulación tipográfica en el título, reproducido en copia heliográfica sepia."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Hectáreas, áreas y centiáreas: 411,3844 + 530,3750 + 425,2250 = 1366,9844 ha, igual al total (verificado en python). El lote B coincide al centiárea con la 3.ª fracción de 189 (530,375 ha)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Herencia de Juan José Julio Figueroa, a quien en 1923 se le mensuró la tierra con su hermana Juana Elina (189). En 1926 el campo pasa a la línea Pineda (dos sobrinos o nietos [?]) y a Arturo Figueroa Salas. El lote C, medido por Weigel en 1899, viene de otra titulación anterior."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "189 (Cagnoni 1923, Juan José Julio y Juana Elina Figueroa): las mismas fracciones, el F.C.C.A., la estación Vagues, la estancia San Felipe en la confluencia de Suero y Giles y los linderos Tisseyra e Isaac y Constancio Figueroa. La 3.ª fracción (530,375 ha) es el lote B. 175 (Weigel 1897, herederos de Juan Pío Figueroa) y 183 (Weigel 1899, O’Donnell): el lote C proviene de una mensura de Weigel de diciembre de 1899, contemporánea de la de O’Donnell. 133 (Scully): Lucas Scully es lindero S. V13: la pieza 3 (O’Donnell, 1933) es vecina; Gregorio O’Donnell linda al E."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Falta identificar a qué expediente de Weigel corresponde el lote C (¿un plano de diciembre de 1899 hoy fuera del corpus?) y el parentesco de los Pineda con Figueroa. Lecturas dudosas: «Arroyo [de] Vagues», el firmante «Francisco Dallanicini» y las firmas de los «conformes»."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Juan José Julio Figueroa",
+   "rol": "Causante",
+   "texto": "Heredero de José Domingo Figueroa. En 1923 Alejandro N. Cagnoni mensuró su campo y el de Juana Elina Figueroa (cuatro fracciones; estancia San Felipe). Muere antes de noviembre de 1926.",
+   "fuentes": "Ficha 189; este plano."
+  },
+  {
+   "nombre": "Alejandro N. Cagnoni",
+   "rol": "Agrimensor (1923 y 1926)",
+   "texto": "Autor de la mensura más tardía del corpus rural (189, 1923) y de la del 15/3/1926 que se copia aquí para los lotes A y B.",
+   "fuentes": "Ficha 189; este plano."
+  },
+  {
+   "nombre": "Emilio C. Weigel",
+   "rol": "Agrimensor (1899)",
+   "texto": "Agrimensor de las mensuras 175 (1897) y 183 (1899). Su plano del 8/12/1899 es la fuente del lote C.",
+   "fuentes": "Fichas 175, 183; este plano."
+  },
+  {
+   "nombre": "Mercedes Pineda de Fusoni, Félix Laureano Pineda, Arturo Figueroa Salas",
+   "rol": "Adjudicatarios",
+   "texto": "Firman su conformidad al pie del plano. No hay otros datos.",
+   "fuentes": "Este plano."
+  }
+ ],
+ "titulo": "Herederos de Juan José Julio Figueroa",
+ "estado": "Transcripta (2 hojas, 16 renglones), 1 lámina"
+}

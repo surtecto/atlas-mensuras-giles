@@ -1,0 +1,392 @@
+{
+ "carpeta": "V07",
+ "carpeta_nombre": "Varios V07",
+ "archivo": "Ficha V07 - Catastro urbano, hoja 7 (c. 1938).docx",
+ "resumen": {
+  "Documento": "Hoja catastral 7 del pueblo de San Andrés de Giles (sector SO)",
+  "Propietario / solicitante": "Catastro urbano · hoja 7",
+  "Autor": "Dirección de Geodesia [y] Catastro (PBA)",
+  "Agrimensor": "Sin firma (levantamiento oficial)",
+  "Año": "c. 1938 (asientos hasta F.º 256/1936)",
+  "Escala": "1:1000 (como la hoja 1)",
+  "Ubicación": "Entre Lavalle y Nicolás Méndez, de la avenida 25 de Mayo a Alsina",
+  "Calles": "Italia, San Lorenzo, Ituzaingó, Alem, Guevara; J. Pichetto, Rawson, Urquiza, Quintana",
+  "Instituciones": "Escuela N.º 3; capilla [?]; Municipalidad (2 manzanas, 1934); lote donado al Hospital",
+  "Rasgos": "Manzanas enteras al S; bloque Carbone y Allegro con calle ocupada; ocupantes sin título",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), juego de 9 hojas catastrales"
+ },
+ "metricas": {
+  "superficie_ha": "— (hoja urbana; parcelas de 0,03 a 3 ha)",
+  "hitos": "avenida 25 de Mayo; Escuela N.º 3; capilla [?]; flecha de N",
+  "aguas": "no figuran"
+ },
+ "sintesis": "Séptima hoja catastral del pueblo: el sector SO, entre Lavalle y Nicolás Méndez, desde la avenida 25 de Mayo hasta Alsina. Al N y al centro, un parcelario fino de inmigrantes italianos y españoles con loteos de 1925-1936 (frentes de 10 y 14,43 m); al S, manzanas enteras de un solo dueño (Didier, Antico, Vidósola, Méndez, Brandon) y el bloque de cuatro manzanas de Carlota y Leopolda Dolores Carbone y Allegro, que ocupa una calle pública. Figuran la Escuela N.º 3, un lote sin inscripción con escritura de 1887 y una capilla [?], dos manzanas municipales (1934) y una manzana de Sarlinga «donado al Hospital». Hay seis ocupaciones sin título y dos calles ocupadas.",
+ "caratula": {
+  "img": "img/v/V07/01.jpg",
+  "fuente": "IMG_1100.JPG (vista general)",
+  "campos": [
+   [
+    "Plano",
+    "San Andrés de Giles: hoja catastral 7"
+   ],
+   [
+    "Autor",
+    "Dirección de Geodesia [y] Catastro"
+   ],
+   [
+    "Fecha",
+    "sin fecha visible (c. 1938; último asiento F.º 256/1936)"
+   ],
+   [
+    "Escala",
+    "1:1000 (probable)"
+   ],
+   [
+    "Número de hoja",
+    "7 (lápiz rojo, IMG_1104)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Vista general de la hoja 7",
+   "img": "img/v/V07/01.jpg",
+   "fuente": "IMG_1100.JPG",
+   "nota": "Toma a 0°, hoja suelta sobre la mesa; flecha de N en el ángulo NE; ángulo NE recortado en chaflán.",
+   "lineas": [
+    "[Hoja suelta, a 0°, sobre la mesa; a la izquierda asoma un legajo plegado. Ángulo NE recortado en chaflán; borde SO plegado. Flecha de N en el ángulo NE, apuntando arriba a la derecha.]",
+    "[Calles longitudinales, de N a S:] CALLE LAVALLE · CALLE ITALIA · CALLE SAN LORENZO · CALLE ITUZAINGÓ · CALLE LEANDRO N. ALEM · CALLE INTENDENTE G. B. GUEVARA · CALLE NICOLÁS MÉNDEZ",
+    "[Calles transversales, de O a E:] AVENIDA 25 DE MAYO [en diagonal por el borde O] · CALLE JOSÉ PICHETTO · J. B. ETCHEVERRY · CALLE RAWSON · URQUIZA · QUINTANA · [calle sin rótulo; a lápiz «Carlos Pellegrini»] · CALLE ALSINA",
+    "[Seis filas de manzanas de 100 v, con parcelas rotuladas en tinta negra y bordes en rojo; números de manzana a lápiz (159-170 en las filas N); tildes rojos en cada parcela]",
+    "[Dos manzanas enteras de la Municipalidad (F.º 56/934 y F.º 119/934); dos manzanas de Augusto Didier; bloque de cuatro manzanas de Carlota y Leopolda Dolores Carbone y Allegro en el ángulo SE]",
+    "[Lápiz rojo, ángulo SE:] 7"
+   ],
+   "interpretacion": "La hoja entera: el sector SO del pueblo, entre Lavalle y Nicolás Méndez, desde la avenida 25 de Mayo (en diagonal por el borde O) hasta Alsina. Seis filas de manzanas de 100 varas con parcelas rotuladas en tinta negra y bordes en rojo, números de manzana a lápiz (159-170 en las filas N) y tildes rojos de control. Al S dominan las manzanas enteras de un solo dueño (Didier, Méndez, Antico, Vidósola, Carbone y Allegro); al N y al centro, el parcelario menudo."
+  },
+  {
+   "titulo": "Ángulo NO: de Lavalle a San Lorenzo, de la avenida 25 de Mayo a Urquiza",
+   "img": "img/v/V07/03.jpg",
+   "fuente": "IMG_1101.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°, mitad O de la franja N de la hoja. A la izquierda, en diagonal, el rótulo de la avenida.]",
+    "AVENIDA 25 DE MAYO [en vertical, a lo largo del borde O]",
+    "[Manzana 165 [lápiz], entre la avenida y la primera calle:] N.º 15782/F.º 1166/906 · Carmelo Serra · s.t. 43,30 × 86,60 · Guía N.º 1597 [?]",
+    "F.º 26/926 · Luis Mighetto · s.t. 43,30 × 86,60 = 3749 m² 78 · Guía N.º 2767 [?]",
+    "[Sobre la calle, al S de la manzana:] calle pública ocupada por Luis Mighetto y C. Serra",
+    "[Manzana siguiente:] F.º 144/927 [?] · Francisco Galván [?] · s.t. [ilegible] · Guía N.º 3... [?] [rótulo chico en recuadro, ángulo NO]",
+    "F.º 5/936 · Zulema Rosa Espil · s.t. 2955 m² 90 [?] · Guía 3953",
+    "F.º 31/934 [?] · Trinidad Larrosa de Bristore · s.t. 43,30 × 86,60 = 3749 m² 78 · Guía N.º 2016",
+    "[Manzana 163 [lápiz]:] F.º 185/923 [?] · Francisco Cravotti [?] · s.t. 14,43 [?] × 43,30 = 624 m² [?] · Guía N.º 2103 [?]",
+    "F.º 24/917 · Fermina Guillerma Duche de Mansilla · s.t. 21,65 × 43,30 = 937 m² 44 [?] · Guía N.º 23.. [?]",
+    "F.º 158/929 · Moammed Sambro · s.t. 468[?] m² 25 [?] · Guía N.º 2327",
+    "[Manzana 162 [lápiz], fila N de lotes angostos, casi ilegibles:] M. Ciccarelli [?] · … de Ciccarelli [?] · … Llorente [?] · … Cravotti [?] · … · F.º 167/935 · Eugenio Rondeles [?] · s.t. 1233 m² [?] · Guía 3944",
+    "F.º 159/931 · Pedro Allaca · s.t. 14,43 × 43,30 = 624 m² 819 · Guía N.º 3504",
+    "F.º 204/934 · Guía N.º 3505 · Mariana Marino de Marino · s.t. 14,43 × 43,30 = 624 m² 819",
+    "F.º 160/931 · Guía N.º 3506 · Pedro Allaca · s.t. 14,43 × 43,30 = 624 m² 819",
+    "F.º 14/935 [?] · Guía 3001 [?] · Pedro Luis Bagnasco [?] · s.t. 14,43 × 43,30 = 624 m² 819",
+    "N.º 1720/903 Remanente · Guía 2948 · Tomás Pizzi",
+    "F.º 149/935 · Guía N.º 1926 [?] · Alejandro Bagnasco [?] · s.t. 14,43 × 43,30 = 624 m² 819",
+    "F.º 202 [?]/935 · Guía 3... [?] · María A. Rotz [?] · s.t. 624 m² 819",
+    "[Segunda fila de manzanas, de O a E:]",
+    "F.º 113/921 [?] · Juan, María C., Élida C. y Héctor Rosso y Valli [?] · R.te [remanente] s.t. 43,30 × 86,60 · Guía 1784",
+    "F.º 2991/889 · Francisco Rossi · s.t. 43,30 × 86,60 · Guía 3059",
+    "N.º 12938/908 · Miguel Miano · s.t. 43,30 × 86,60 · Guía N.º 1104 [manzana 164 [?] lápiz]",
+    "N.º 14641/906 A · José Uguet · s.t. 21,65 × 43,30 · Guía 3256",
+    "F.º 186/924 · Guía N.º 2500 · José Gaspar · s.t. 937 m² 445",
+    "ocupado sin título por José Uguet · 937 m² ±",
+    "ocupado sin título por Francisco Gaspar · 937 m² ±",
+    "[Manzana 168 [lápiz], entera, con esquinas redondeadas:] F.º 56/934 · Municipalidad de San Andrés de Giles · s.t. 7155 [?] m² · Guía N.º 2508 · [lados:] s.t. 85,60 [?] · s.t. 87,24 · s.t. 64,95 [?] · s.t. 88,20",
+    "[Manzana 169 [lápiz]:] F.º 98/931 · Salomón David Erera · s.t. 43,30 × 43,30 = 1875 m² · Guía N.º 2336",
+    "F.º 167/932 · Antonio López Méndez [?] · s.t. 504 m² 44 [?] · Guía 3111 [?]",
+    "F.º 84/928 · Guía N.º 2570 [?] · Lorenzo A. Magnenego [?] · s.t. 10 × 43,30 = 433 m²",
+    "F.º 40/927 · Guía … [?] · … de Castiñeiras [?] · s.t. 21,65 × 43,30 = 937 m² 445",
+    "N.º 2601/892 · Isidoro Di Benedetto · s.t. 43,30 × 43,30 · Guía 2255",
+    "F.º 122/935 · Guía N.º 3890 · Dionisio Felipe Paulino · s.t. 12,90 [?] × 43,30",
+    "F.º 60/926 · Rem. s.t. 12,99 × 43,30 · Sdad. Terreri Hnos. y Cía. · Guía N.º 3235 [?]",
+    "F.º 153/928 · Guía N.º … · Francisco A. Dom[…] [?] · s.t. 17,32 × 43,30 = 749,96 [?]"
+   ],
+   "interpretacion": "Junto a la avenida, manzanas partidas en mitades de 43,30 × 86,60 m (Serra 1906, Mighetto 1926, Larrosa de Bristore 1934, Zulema Rosa Espil 1936) y una calle pública ocupada por Mighetto y Serra. La manzana 162 está loteada en frentes de 14,43 m (1/6 de 86,60) vendidos en 1931-1935. Hay una manzana municipal (F.º 56/934, 7155 m² [?]) y dos ocupantes sin título (José Uguet y Francisco Gaspar, 937 m² cada uno)."
+  },
+  {
+   "titulo": "Sector O: de Italia a Alem, de la avenida 25 de Mayo a Urquiza",
+   "img": "img/v/V07/04.jpg",
+   "fuente": "IMG_1102.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°; repite en la parte alta las manzanas de IMG_1101.]",
+    "[Gran fracción entre la avenida 25 de Mayo y la primera calle, borde rojo:] María Garzonio de Valli · hijos y nietos · 1 ha 57 a 35 c s/t · F.º 161/927 · Guía 1780",
+    "[Faja triangular en el ángulo SE de esa fracción:] N.º 1457/899 · Rosendo Rubiero · s.t. 918 [?] m² · Guía no figura",
+    "[Manzana siguiente:] F.º 161/927 · María Garzonio de Valli - hijos y nietos · s.t. 1415 m² · Guía 3266",
+    "F.º 119/934 · Municipalidad de San Andrés de Giles · 1800 m² 60 s/t · Guía 3784",
+    "136/933 · Justo R. Roldán · s.t. 1570 [?] m² 20 · Guía 3727 [?]",
+    "[Manzana siguiente, al S:] N.º 1457/899 · Rosendo Rubiero · s.t. 5601 m² 98 [?] · Guía 3073 [?]",
+    "F.º 83/933 · Rafaela García de Rocha · s.t. 930 [?] m² 445 · Guía 2474",
+    "N.º 4499/893 · Cruz Almirón · s.t. 21,65 × 43,30 [?] · Guía 1853 [?]",
+    "[Manzana central, todo en un perímetro punteado:] DONATO FRANCISCO FELICE · s/s 4862 m² 79 · F.º 126/925 · Guía 2376-2377-2379",
+    "F.º 157/927 · Donato Francisco Felice · s.t. 1124 m² 93 · Guía 2380",
+    "F.º 119/916 · s.t. 599 m² 96 [?] · Guía 2378",
+    "F.º 117/923 · Manuel Jonte [?] · s.t. 14,72 × 43,30 = 637,37 [?] · Guía 2578 [?]",
+    "[Manzana siguiente:] N.º 3260/911 · Alejandro Sarlinga · s.t. 43,30 × 43,30 · Guía 3106",
+    "N.º 1926/887 · Vicente Donnopaolo [?] · 21,65 × 43,30 · Guía 2321 · ocupado por Donato F. Felice",
+    "F.º 112/922 · Luis G. Galbiatti · s.t. 21,65 × 43,30 = 937 m² 44 · Guía 2439",
+    "F.º 33/924 · Bdo. [?] J. Pedroa [?] y Vicente F. Rocha · s.t. 3749 m² 78 · Guía 2… [?]",
+    "[Fila S, manzana de los García Benítez:] F.º 173/934 · Josefa Luisa García Benítez de Blazy [?] · s.t. 1281 m² 05 [?] · Guía N.º 2463 · [lados] s.t. 30,30 · s.t. 41,65 [?] · s.t. 40,665",
+    "F.º 229/934 · s.t. 10 × 41,65 [?]",
+    "F.º 174 y 175/934 · Cándida García B. de González y Joaquín García Benítez · Guía N.º 2463 · s.t. 41,70",
+    "F.º 229/934 · Joaquín García Benítez · s.t. 1299 m² 58 · Guía N.º 3865",
+    "F.º 175/934 · Joaquín García Benítez · s.t. 901 m² 81 · Guía N.º 2463",
+    "F.º 18/922 · Joaquín García · s.t. 21,65 × 86,60 = 1874 m² 89 · Guía N.º 2477",
+    "[Manzana junto a la calle Urquiza:] F.º 78/933 · Guía N.º 3691 · Manuel E. Sobot [?] · s.t. 19,80 × 33,30 = 659 m² 34",
+    "F.º 195/936 · Guía N.º 3690 · José Pellegrini · s.t. 13,50 × 33,30 = 449 m² 55",
+    "F.º 76/933 · Guía N.º 3689 · Pedro Rocha · s.t. 10 × 33,30 = 333 m²",
+    "F.º 60/935 · Guía N.º 3688 · Vicente José Rocha · s.t. 10 × 33,30 = 333 m²",
+    "F.º 80/933 · Salvador Messina · s.t. 33,30 × 33,30 = 1108 m² 89 · Guía N.º 3687",
+    "F.º 256/936 · Guía N.º 3692 · Vicente Guzzo [?] · s.t. 10 × 43,30 = 433 m² [?]",
+    "N.º 13298/F.º 1126/906 Remanente · Emilia Francisca [?] Cucullu de Gomes · s.t. 4182 m² 78 [?] · Guía N.º 2215",
+    "CALLE URQUIZA [borde E de la toma]"
+   ],
+   "interpretacion": "La gran fracción de María Garzonio de Valli «hijos y nietos» (1 ha 57 a 35 c, 1927) junto a la avenida, la manzana de Donato Francisco Felice (unificada en un perímetro punteado, 1916-1927), un lote de Alejandro Sarlinga (1911) y otro de Vicente Donnopaolo [?] (1887) ocupado por Felice. Al S, los García Benítez se reparten una manzana (1922-1934) y, junto a Urquiza, un loteo de 1933-1936 con fondos de 33,30 m. Cierra el remanente de Emilia Francisca [?] Cucullu de Gomes (1906)."
+  },
+  {
+   "titulo": "Sector SO: de Alem a Nicolás Méndez, de la avenida a Urquiza (Escuela N.º 3, capilla)",
+   "img": "img/v/V07/05.jpg",
+   "fuente": "IMG_1103.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°; en la parte alta repite la fila de IMG_1102. Calles transversales, de O a E: CALLE JOSÉ PICHETTO · J. B. ETCHEVERRY · CALLE RAWSON · URQUIZA. Calle longitudinal al S: CALLE INTENDENTE [G. B. Guevara, ver IMG_1100].]",
+    "[Manzana cortada en diagonal por la traza de la avenida:] Juana Pichetto de Gazzaniga · Sup. s/ planímetro 3710 m² [?] · Guía 0782 [?] · F.º 165/918 · [rótulo chico sobre la diagonal:] 253 m² · Guía 2501 [?] · 1628 [?] 4/918 [?]",
+    "F.º 180/917 · Pedro Sobot [?] · s.t. 43,30 × 51,96 = 2249 m² 86 · Guía 3461",
+    "SIN INSCRIPCIÓN · ROQUE DESTEFANO · s.t. 43,30 × 34,74 [«43,30» tachado a lápiz [?]] · ESCRITURA 7 NOV. 1887 C. GAMES [?] · NO FIGURA EN GUÍA",
+    "[Dentro del lote, dibujo de un edificio con una cruz al costado:] Capilla del Monte de Novi [?]",
+    "[Manzana siguiente, entre José Pichetto y J. B. Etcheverry:] [rótulos chicos:] F.º 250 [?]/927 · Pedro S. Souhilar y otros [?] · Guía N.º 3180 · F.º …/927 · Segundo N. de Souhilar [?] · Guía N.º 3178 [?]",
+    "ESCUELA N.º 3 [rótulo vertical, sobre el lote de Ana María Di Benedetto, junto a la calle José Pichetto]",
+    "F.º 15/928 · Ana María Di Benedetto · s.t. 28 × 41,37 · Guía N.º 2277",
+    "F.º 103/928 · Pedro, Segundo y Pascual Souhilar Nascimbene · s.t. 33 × 42,50 = 1402 m² 50 · Guía N.º 3181",
+    "F.º 200/926 · Segundina Nascimbene de Souhilar · Guía N.º 3179 · s.t. 43,30 × 82,50 = 357[?] m² 50 [?]",
+    "F.º 78/919 · JOSÉ MANUEL MÉNDEZ · s.t. 86,60 × 86,60 = 7499 m² 56 · Guía 2744",
+    "Ins. 96/909 · Manuel Roys [?] · s.t. 1875 m² · Guía 3071 [?]",
+    "F.º 90/928 · Gabriel Caroccia [?] · s.t. 3749 m² 78 · Guía 2097",
+    "F.º 160/930 · Mauro Pascuale · s.t. 21,65 × 86,60 = 1874 m² 89 · Guía 3450",
+    "[Fila S, entre la calle Intendente [G. B. Guevara] y Nicolás Méndez, de la avenida a Urquiza:]",
+    "F.º 55/935 · Juan Vicente Di Paula · s.t. 844 m² 95 · Guía 3888",
+    "ocupado por Juan Vicente Di Paula sin título · s/p ± 844 m² [?]",
+    "F.º 56/935 · Raúl Alberto Espil · s.t. 1685 m² 96 · Guía 3887",
+    "ocupado por Raúl A. Espil sin título [?] [rótulo en la faja triangular al O de la diagonal]",
+    "F.º 51/935 · Antonio Molinari · s/ plano R.te 4453 m² 67 · Guía 1139 [?]",
+    "F.º 193/924 · Mariana Serreti de Demeco · s.t. 4756 m² 89 · Guía 1601 · [lados] s.t. 96,20 · s.t. 49,448 [?]",
+    "F.º 10/934 · Irene Almirón, Josefa A., Camilo R., Froilán J. y Felisa R. Torrilla [?] · s.t. R.te 3473 [?] m² 11 · Guía 3392",
+    "F.º 230/934 [?] · … Rinaldi [?] · s.t. … m² · Guía 3853 [?] [lote angosto]",
+    "[Calle José Pichetto, vertical, entre Molinari y Demeco:] PICHETTO",
+    "F.º 199/924 · Cornelio Brandon y Armue · s.t. 7400 [sic, ¿7499?] m² 56 · Guía N.º 0192",
+    "CALLE RAWSON",
+    "F.º 37/922 · Augusto Didier · s.t. 86,60 × 86,60 = 7499 m² 56 · Guía N.º 0525 [el mismo folio que la manzana Guía 0526 de IMG_1105]"
+   ],
+   "interpretacion": "Aquí están la ESCUELA N.º 3, rotulada sobre el lote de Ana María Di Benedetto, y el lote de Roque Destefano «SIN INSCRIPCIÓN», con escritura del 7 de noviembre de 1887 ante C. Games [?] y «no figura en guía», donde se dibuja un edificio con una cruz (capilla [?]). La traza de la avenida corta en diagonal la manzana de Juana Pichetto de Gazzaniga. Al S de la calle Intendente [G. B. Guevara], Molinari (remanente 4453,67 m²), Serreti de Demeco, los Almirón Torrilla y dos manzanas enteras (Brandon y Armue; Didier)."
+  },
+  {
+   "titulo": "Ángulo SE: de Alem a Nicolás Méndez, de Rawson a Alsina (Carbone y Allegro; «7»)",
+   "img": "img/v/V07/02.jpg",
+   "fuente": "IMG_1104.JPG",
+   "nota": "Toma a 0°; pliegue horizontal en la parte alta.",
+   "lineas": [
+    "[Toma a 0°; en la parte alta y a la izquierda repite manzanas de IMG_1103 y 1105. Calles: CALLE LEANDRO N. ALEM · [CALLE INTENDENTE] G. B. GUEVARA · CALLE NICOLÁS MÉNDEZ (longitudinales); RAWSON, URQUIZA, QUINTANA (transversales).]",
+    "[Manzana entre Urquiza y Quintana, de Alem a Guevara:] N.º 8641 [?]/F.º 759 [?]/900 · Reman. · Marcelino Lavoria · rem. s.t. 3465 m² 02 · Guía N.º 2584",
+    "N.º 8642 [?] y 1751 [?]/914 [?] · Remanente · Marcelino Lavoria y Filomena Alonso de Lavoria · Rem. s.t. 3520 m² 76 [?] · Guía N.º 2585",
+    "[rótulos chicos, ilegibles en esta toma, en los ángulos N de la manzana]",
+    "[Manzana entre Urquiza y Quintana, de Guevara a N. Méndez:] ocupado sin título por Cipriano Casado · s/t [?] 7420 m² [?]",
+    "[Dos manzanas unidas entre Quintana y Alsina, de Alem a N. Méndez, cruzadas por la prolongación de Guevara:] N.º 10073/906, 10062 [?]/908 y 15362 [?]/908 · Carlota y Leopolda Dolores Carbone y Allegro · Guía N.º 2070 [?]",
+    "Calle pública ocupada por C. y L. D. Carbone · s.t. 4 manzanas de 86 m 60 × 86 m 60 · Sup. s.t. 29 998 [?] m² 24",
+    "CALLE PÚBLICA OCUPADA POR C. y L. D. CARBONE [sobre la traza de Guevara]",
+    "[Lápiz rojo, ángulo SE:] 7"
+   ],
+   "interpretacion": "Los remanentes de Marcelino Lavoria y Filomena Alonso de Lavoria (1900 y 1914 [?]), una manzana entera ocupada sin título por Cipriano Casado (7420 m²) y el bloque de CUATRO MANZANAS de Carlota y Leopolda Dolores Carbone y Allegro (1906-1908), que incluye la calle Guevara: «calle pública ocupada por C. y L. D. Carbone», sup. s.t. 29 998,24 m² (= 4 × 7499,56, verificado). Número de hoja en lápiz rojo."
+  },
+  {
+   "titulo": "Sector centro-E: de Italia a Alem, de Urquiza a Alsina",
+   "img": "img/v/V07/06.jpg",
+   "fuente": "IMG_1105.JPG",
+   "nota": "Toma a 0°; pliegue vertical a la derecha.",
+   "lineas": [
+    "[Toma a 0°. Calles: SAN LORENZO e ITUZAINGÓ (longitudinales); URQUIZA, QUINTANA, la calle sin nombre siguiente (a lápiz: «Carlos Pellegrini») y CALLE ALSINA (transversales).]",
+    "[Manzana entre Urquiza y Quintana, de Italia a San Lorenzo:] ocupado por María Sarlinga de Galíndez [?] · s.t. [sin título] · 1875 m²",
+    "ocupado s.t. [?] por Clara Videla · 1875 m² · Guía 3282 [?]",
+    "ocupado por Pedro M. Sobot · sin título · 1875 m² · Guía 1907",
+    "F.º 136/925 · Salvador A. Latorre · s.t. 9,24 [?] × 43,30 = 399 m² 9 [?] · Guía 2610",
+    "F.º 137/925 · Casimiro Esquivel · s.t. 10 × 34,30 · Guía 2362",
+    "F.º 7/935 · Gumersindo Esquivel · s.t. 10 × 34,30 = 343 m² · Guía 2222",
+    "F.º 42/930 · Jacinto Vera · s.t. 23,30 × 34,30 = 799 m² 19 · Guía 3412",
+    "[Manzana entre Quintana y Pellegrini:] N.º 4169/907 · Antonio Marino · s.t. 43,30 × 86,60 · Guía 2699",
+    "F.º 157/925 · Inocencia Silva de Rodríguez · 3749 m² 50 [?] · Guía 3145",
+    "[Manzana entre Pellegrini y Alsina, mitad S:] F.º 72/933 · Gumersindo R. González · s.t. 17,[3]2 [?] × 21,65 = 37[?] m² [?] · Guía N.º 3690 [?]",
+    "F.º 39 [?]/935 · Guía N.º 3813 [?] · Juan Vicente Depaula · s.t. 26 [?] × 21,65 = 563 m² [?]",
+    "F.º 127/922 · Remanente · Jacinto Mauricio Ríos · s.t. 21,65 × 43,30 = 937 m² 445 · Guía N.º 2098",
+    "F.º 18 [?]/928 · Gregorio Cenobio Quinteros · s.t. 43,30 × 43,30 · Guía N.º 2072 [?]",
+    "CALLE SAN LORENZO",
+    "[Manzana entre Urquiza y Quintana, de San Lorenzo a Ituzaingó:] N.º 2158/897 · Galidoro [?] Sarlinga · 86,60 × 86,60 · Guía 3108 · Donado al Hospital",
+    "[Manzana entre Quintana y Pellegrini:] N.os 69/882 [?] y 6265/908 A [?] · Domingo Antico · s.t. 7500 m² · Guía 046-047",
+    "[Manzana entre Pellegrini y Alsina:] F.º 210/928 · Ángel Cavallo · s.t. 1666 m² 67 · Guía N.º 2140",
+    "F.º 74/935 · Guía N.º 2544 · Luciano Antonio Bernardez [?] · s.t. 21,65 × 43,30 = 937 m² 445",
+    "N.º 2638/906 · Guía N.º 2141 · Antonio Cavallo · s.t. 833 m² 33",
+    "F.º 41/932 · Miguel Ángel Alvis · s.t. 43,30 × 86,60 = 3749 m² 78 · Guía N.º 2120",
+    "CALLE ITUZAINGÓ",
+    "[Fila entre Ituzaingó y Alem:] F.º 37/922 · Augusto Didier · s.t. 86,60 × 86,60 = 7499 m² 56 · Guía N.º 0526 [entre Urquiza y Quintana]",
+    "N.º 268/885 · Ángel Benedetti · s.t. 3749 m² 78 · Guía 2254 [entre Quintana y Pellegrini]",
+    "F.º 99/924 · Augusto Didier · s.t. 3749 m² 78 · Guía 527",
+    "[A lápiz, a lo largo de la calle:] Carlos Pellegrini",
+    "N.º 5277/898 · Luisa Pastora Vidósola y Salaverry · s.t. 7500 m² · Guía N.º 2897 [entre Pellegrini y Alsina]",
+    "CALLE LEANDRO N. ALEM",
+    "[Más allá de la calle Alsina, a lápiz, borroso:] Hoj[a] … [?]"
+   ],
+   "interpretacion": "Tres ocupantes sin título de 1875 m² (María Sarlinga de Galíndez [?], Clara Videla, Pedro M. Sobot) junto a lotes de 10 m de frente (Esquivel 1925-1935). Inocencia Silva de Rodríguez tiene media manzana (F.º 157/1925). La manzana de Galidoro [?] Sarlinga (N.º 2158/1897) lleva la nota «Donado al Hospital». Al S, manzanas enteras de Domingo Antico (1882 [?] y 1908), Augusto Didier (1922, 1924), Ángel Benedetti (1885) y Luisa Pastora Vidósola y Salaverry (1898)."
+  },
+  {
+   "titulo": "Borde N: calle Lavalle, de Urquiza a Alsina; flecha de N",
+   "img": "img/v/V07/07.jpg",
+   "fuente": "IMG_1106.JPG",
+   "nota": "Toma a 0°; flecha de N arriba a la derecha.",
+   "lineas": [
+    "[Toma a 0°. Flecha de N en el ángulo NE, apuntando arriba a la derecha. Al N de la calle Lavalle, contornos de edificios sin rótulos (son de la hoja vecina). Arriba, a lápiz, tenue: F.º … [?] · ver 156/925 (leído en IMG_1107)]",
+    "CALLE LAVALLE · CALLE ITALIA · CALLE SAN LORENZO",
+    "[Manzana 162 [lápiz], fila de lotes angostos sobre Lavalle, de O a E:] F.º 204 [?]/928 · M. M. Ciccarelli [?] · s.t. … m² 33 [?] · s.t. 14,40 [?]",
+    "F.º 203 [?]/928 · Guía N.º 2160 [?] · M. R. de Ciccarelli [?] · s.t. 1… m² … [?]",
+    "F.º 68/933 · Guía N.º 2110 [?] · J. M. y A. Llames [?] · s.t. 11,28 [?] × … [?]",
+    "F.º 69 [?]/930 · Guía N.º 3347 · Antonio Cravotti · s.t. … [?]",
+    "F.º 166/935 · María Restituta [?] de Bacchilli [?] · s.t. 14,43 [?] × … [?] · Guía 3909",
+    "F.º 167/935 · Eugenio Rondeles [?] · s.t. 1233 m² 4[?] · Guía 3944",
+    "F.º 202/935 · Guía 393[?] · María A. Rots · s.t. 624 m² 819",
+    "[Manzana 161 [lápiz], entre Lavalle e Italia:] N.º 14455 [?] B/914 · María A. Sergio de Lufrano y otros · s.t. 21,65 × 43,30 = 937 m² 445 · Guía N.º 2657 [?]",
+    "F.º 114/919 · María Antonia Sergio de Lufrano y otros · s.t. 30,30 × 43,30 = 1312 m² [0]4 [?] · Guía N.º 2657",
+    "F.º 23/919 · Ireneo Eulogio Cuello Casado · s.t. 34,64 × 69,28 = 2399 m² 859 · Guía N.º 2219 [?]",
+    "F.º 150/918 · Nicolás Pizzi · s.t. 43,30 × 51,96 = 2249 m² 868 · Guía N.º 2949",
+    "N.º 18355 B/910 · Guía N.º 2797 · Pedro C. Monsalvo · s.t. 17,32 × 34,64 = 599 m² 96",
+    "[Manzana 160 [lápiz]:] ocupado por la Sdc. [sucesión] de Juan Antonio Aldis [sic, ¿Alvis?] · Guía 1876",
+    "F.º 214/927 · Salvador Ferreyra · s.t. 43,30 × 86,60 = 3749 m² 78 · Guía N.º 2399",
+    "[Manzana 159 [lápiz], entre Pellegrini y Alsina:] F.º 189/928 · Beatriz María Bonetti y Colombo · s.t. 86,60 × 86,60 = 7499 m² 56 · Guía N.º 1998",
+    "[Manzana 170 [lápiz], entre Italia y San Lorenzo, de Pellegrini a Alsina; fila N, de O a E:]",
+    "F.º 35/925 · Guía N.º 2252 · Juan Davico · s.t. 23,30 × 43,30 = 1008 m² 89",
+    "F.º 54/925 · Guía N.º 2253 [?] · Pablo Davico · s.t. 10 × 43,30 = 433 m²",
+    "F.º 153/925 · Guía N.º 2700 · Antonio Marino · s.t. 10 × 43,30 = 433 m²",
+    "F.º 35/935 · Guía N.º 3898 · Francisco A. Paulino · s.t. 20 × 43,30 = 866 m²",
+    "F.º 17 [?]/922 · Remanente · Aquino [?] Ramona Decnino [?] de Espil · s.t. 23,30 × 43,30 = 1008 m² 89 · Guía N.º 2265"
+   ],
+   "interpretacion": "La fila N de la hoja: la manzana 162 de lotes angostos (Ciccarelli, Llames, Cravotti, Rondeles [?]), la 161 de Sergio de Lufrano, Cuello Casado, Pizzi y Monsalvo (N.º 18355 B/1910), la 160 de la sucesión de Juan Antonio Aldis [sic] y Salvador Ferreyra, y la 159 entera de Beatriz María Bonetti y Colombo (1928). En la 170, frentes de 10, 20 y 23,30 m (Davico, Marino, Paulino, Ramona D. de Espil [?])."
+  },
+  {
+   "titulo": "Retoma del borde N (ángulo NE)",
+   "img": "img/v/V07/08.jpg",
+   "fuente": "IMG_1107.JPG",
+   "nota": "Toma a 0°; no se volvió a transcribir.",
+   "lineas": [
+    "[Retoma de IMG_1106 con más margen arriba; no se volvió a transcribir. Sólo se leyó el rótulo a lápiz del margen N:]",
+    "F.º … [?] · ver 156/925"
+   ],
+   "interpretacion": "Retoma de 1106 con más margen; sólo aporta el rótulo a lápiz del margen N, «ver 156/925», una remisión a otro asiento."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Hoja catastral 7 (vista general)",
+   "img": "img/v/V07/01.jpg",
+   "fuente": "IMG_1100.JPG (detalles IMG_1101-1107)",
+   "orientacion": "flecha de N en el ángulo NE; la avenida 25 de Mayo corre en diagonal por el borde O",
+   "interpretacion": "Plano a tinta con rotulación técnica, límites de parcela en rojo, tildes rojos de control y números de manzana a lápiz. Es el mismo formato de las hojas 1-6. Al N de Lavalle se dibujan sólo los contornos de los edificios de la hoja vecina, sin rótulos. Las manzanas miden 86,60 m (100 v) con calles de unos 17 m. Se distinguen la cuadrícula fina del N, las manzanas enteras del S y el bloque de cuatro manzanas de Carbone y Allegro en el ángulo SE.",
+   "referencias": [
+    [
+     "Escuela N.º 3",
+     "rótulo vertical sobre el lote de Ana María Di Benedetto (F.º 15/1928), calle José Pichetto"
+    ],
+    [
+     "Capilla [?]",
+     "edificio con cruz en el lote de Roque Destefano, sin inscripción (escritura 1887)"
+    ],
+    [
+     "Municipalidad",
+     "manzana F.º 56/1934 (avenida) y fracción F.º 119/1934 (1800,60 m²)"
+    ],
+    [
+     "«Donado al Hospital»",
+     "manzana N.º 2158/1897 de Galidoro [?] Sarlinga"
+    ],
+    [
+     "Calles ocupadas",
+     "por Mighetto y Serra (NO) y por C. y L. D. Carbone (SE)"
+    ],
+    [
+     "159-170 (lápiz)",
+     "números de manzana de las filas N"
+    ],
+    [
+     "7 (lápiz rojo)",
+     "número de la hoja, ángulo SE"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: el bloque Carbone y Allegro y la calle ocupada",
+   "img": "img/v/V07/02.jpg",
+   "fuente": "IMG_1104.JPG",
+   "orientacion": "toma a 0°",
+   "interpretacion": "Las cuatro manzanas de Carlota y Leopolda Dolores Carbone y Allegro (N.º 10073/1906 y dos asientos de 1908 [?]) forman un solo rótulo de 29 998,24 m² que se lee a través de la prolongación de la calle Guevara: el catastro registra la calle como «pública ocupada». Al O, una manzana entera ocupada sin título por Cipriano Casado (7420 m²), cuyo rótulo vuelve a aparecer a lápiz en el margen N de la hoja 9.\nN.º 10073/906 y otros\ntítulos de C. y L. D. Carbone y Allegro\nCalle pública ocupada por C. y L. D. Carbone\nfaja de la calle Guevara entre Quintana y Alsina\nN.º 8641 [?]/F.º 759/900\nremanente de Marcelino Lavoria (3465,02 m²)",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Es el borde SO del pueblo a fines de los años treinta. Al N el damero está lleno: lotes de 10 a 23 m de frente, con casas dibujadas en planta sobre la línea municipal. Al S las manzanas siguen enteras, con una o dos construcciones aisladas, y parecen todavía quintas o baldíos. La avenida 25 de Mayo deja fajas triangulares y manzanas cortadas en el borde O. Hay una escuela (N.º 3) y una capilla [?] en la periferia, como el Hospital y la Comisaría de la hoja 5."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "La hoja registra muchas situaciones de hecho: seis ocupaciones sin título (Uguet, F. Gaspar, María Sarlinga de Galíndez [?], Clara Videla, Pedro M. Sobot, Cipriano Casado; Raúl A. Espil y Juan V. Di Paula ocupan fajas junto a sus propios lotes), una sucesión que ocupa (Juan Antonio Aldis [sic]), un lote de 1887 ocupado por el vecino Felice y dos calles públicas ocupadas. El lote de Roque Destefano no está inscripto: sólo se cita la escritura del 7/11/1887 «C. Games [?]», el mismo nombre que en la hoja 9 otorga en 1888 el título de Monsalvo («C. Gómez»)."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Cada rótulo da asiento (N.º/año o F.º/año), titular, superficie según título y número de Guía. Se verificaron en python 25 productos: casi todos exactos (14,43 × 43,30 = 624,819; 34,64 × 69,28 = 2399,859; 43,30 × 51,96 = 2249,868; 17,32 × 34,64 = 599,96; 4 × 7499,56 = 29 998,24). Hay tres discordancias: 30,30 × 43,30 da 1311,99 y no 1312,04 [?]; 9,24 × 43,30 da 400,09 y no 399,9 [?]; Brandon lleva «7400 m² 56» por 7499,56. Didier tiene dos manzanas con el mismo F.º 37/1922 (Guías 0525 y 0526)."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "La vara rige todas las medidas: 86,60 = 100 v; 43,30 = 50 v; 21,65 = 25 v; 14,43 = 16 2/3 v (sexto de manzana); 17,32 = 20 v; 34,64 = 40 v; 51,96 = 60 v; 69,28 = 80 v. Los loteos de los años treinta junto a Urquiza usan frentes métricos (10; 13,50; 19,80 m) sobre fondos de 33,30 m (≈ 38,5 v), y en la manzana 170 frentes de 10, 20 y 23,30 m sobre 43,30."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Pocas parcelas tienen títulos del siglo XIX: Benedetti 1885, Donnopaolo [?] 1887, Destefano 1887 (sin inscribir), Cruz Almirón 1893, Di Benedetto 1892, Sarlinga 1897, Vidósola 1898, Rubiero 1899 y Domingo Antico 1882 [?]. La mayoría son de 1906-1936. Hay familias que acumulan (Felice, García Benítez, Allaca, Esquivel, Didier, Carbone), apellidos de la elite local (Pichetto, Espil, Cucullu, Monsalvo, Sarlinga) y muchos italianos. La Municipalidad compra en 1934 dos fracciones."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "V01 y V05: el apellido se confirma como SARLINGA (Alejandro, 1911; Galidoro [?], 1897; María Sarlinga de Galíndez [?]). V05: Inocencia Silva de Rodríguez aparece de nuevo (F.º 157/1925); la «Suc. de Juan Alvis» de V05 es aquí la sucesión de Juan Antonio Aldis [sic] y Miguel Ángel Alvis (1932). V02: Juana Pichetto de Gazzaniga (F.º 165/1918). V06: Carbone y Allegro continúan al S y al E de Alsina; la calle Intendente G. B. Guevara se cruza con Ángela Pichetto de Guevara (hoja 9). 060 (terreno del Santo, 1871): Vicente Carbone, Molinari y Larrosa eran ocupantes italianos del borde urbano; aquí reaparecen Carbone y Allegro, Antonio Molinari y Trinidad Larrosa de Bristore. 137: Espil (Zulema Rosa, Raúl Alberto, 1935-1936)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Se leyeron las 8 tomas; la 1107 es retoma. Los lotes angostos de las manzanas 162 y 163 (fila N) quedan con [?]. La lectura «Capilla del Monte de Novi [?]» del edificio con cruz es muy dudosa. Preguntas abiertas: quién es «C. Games/Gómez», que da escrituras en 1887-1888 (¿juez de paz o escribano?); qué pasó con la manzana de Sarlinga «donado al Hospital»; si la Escuela N.º 3 funcionaba ya en ese lote; y por qué Didier y Molinari tienen dos parcelas bajo un mismo folio."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Carlota y Leopolda Dolores Carbone y Allegro",
+   "rol": "Titulares del bloque de cuatro manzanas del ángulo se",
+   "texto": "Hermanas, ya registradas en la hoja 6 (Carbone y Allegro 1906). Sus títulos de 1906-1908 suman aquí 29 998,24 m² y siguen en las hojas 8 y 9 (dos manzanas más cada una). Ocupan calles públicas en las tres hojas. El apellido Carbone figura entre los italianos del borde urbano en 1871 (Vicente Carbone, 060). No hay datos externos.",
+   "fuentes": "Este plano (IMG_1104); CV06; METODO.md (060)."
+  },
+  {
+   "nombre": "Familia Sarlinga",
+   "rol": "Titulares y ocupantes",
+   "texto": "Galidoro [?] Sarlinga tenía una manzana entera (N.º 2158/1897) anotada «Donado al Hospital». Alejandro Sarlinga tenía un lote de 1875 m² (1911) y María Sarlinga de Galíndez [?] ocupaba sin título otro igual. La grafía «Sarlinga» corrige la duda de V01. No hay datos externos.",
+   "fuentes": "Este plano (IMG_1102, 1105)."
+  },
+  {
+   "nombre": "Augusto Didier",
+   "rol": "Titular de tres manzanas",
+   "texto": "Tiene dos manzanas enteras bajo el F.º 37/1922 (Guías 0525 y 0526), media manzana en 1924 y otra entera en la hoja 9 (F.º 192/1925). Es uno de los mayores acumuladores de tierra urbana de los años veinte. No hay datos externos.",
+   "fuentes": "Este plano (IMG_1103, 1105); CV09."
+  },
+  {
+   "nombre": "Municipalidad de San Andrés de Giles",
+   "rol": "Institución",
+   "texto": "Compra en 1934 una manzana junto a la avenida 25 de Mayo (F.º 56/1934, 7155 m² [?]) y una fracción de 1800,60 m² (F.º 119/1934). Son compras posteriores a las de 1933 sobre la misma avenida (hoja 5), quizá para ensanches o equipamiento.",
+   "fuentes": "Este plano (IMG_1101, 1102); CV05."
+  }
+ ],
+ "titulo": "Catastro urbano · hoja 7",
+ "estado": "Transcripta (8 hojas, 163 renglones), 2 láminas"
+}

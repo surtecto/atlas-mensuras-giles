@@ -1,0 +1,297 @@
+{
+ "carpeta": "V13",
+ "carpeta_nombre": "Varios V13",
+ "archivo": "Ficha V13 - Carpeta 7, planos varios (1927-1934).docx",
+ "resumen": {
+  "Documento": "Carpeta N.º 7 (Tomo 53): índice y piezas 1-4 (planos de particulares)",
+  "Propietario / solicitante": "Carpeta 7: Miglino, Garri, O’Donnell, Torrilla",
+  "Autor": "Varios: firma Aldao [?] (1); Garri y Campanella (2); C. J. Dodd [?] (3); herederos (4)",
+  "Agrimensor": "Cirilo [?] J. Dodd [?] (pieza 3); los demás, sin agrimensor visible",
+  "Año": "1927-1934 (pieza 1 sin fecha)",
+  "Escala": "1:2500; 1:800; 1:7500; sin escala",
+  "Ubicación": "Estación Ruiz; Solís, Cuartel 6.º; F.C.C.A. entre Vagues y Solís; pueblo",
+  "Superficies": "46,2442 ha (14 lotes); ≈ 711 m² [?]; 136,2452 ha (9 lotes); lote urbano en 9",
+  "Rasgos": "Loteos de quintas y particiones; arroyo de Giles y puente; F.º de inscripción a lápiz",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), IMG_1144-1149"
+ },
+ "metricas": {
+  "superficie_ha": "46,2442 (Miglino) · 136,2452 (O’Donnell) · urbanas (Garri, Torrilla)",
+  "hitos": "mojones «m.m.» (pieza 3); vértices A-G (pieza 1)",
+  "aguas": "arroyo de Giles con puente del F.C.C.A. (pieza 3)"
+ },
+ "sintesis": "Carpeta N.º 7 (Tomo 53), «Planos varios». Su índice enumera 23 piezas de 1926-1939 y aquí se transcriben la tapa, el índice y las piezas 1-4, que muestran la subdivisión de la tierra en los años veinte y treinta. La pieza 1 es el loteo de 46,24 ha de María F. de Miglino junto a la estación Ruiz, en 14 quintas de 3,13 ha. La 2 es la venta, en 1927, de parte de los lotes 3 y 4 de la manzana B del pueblo de Solís (V10) de Domingo Garri a Antonio Campanella, lindera de la sucesión de Jorge Barber. La 3 es la partición en 9 lotes de 136,25 ha de los O’Donnell y los Whelan sobre el arroyo de Giles (1933). La 4 es el fraccionamiento urbano de la sucesión de Camilo Torrilla (1934), el mismo F.º 10/934 de la hoja catastral 7 (V07). Las sumas de lotes verifican.",
+ "caratula": {
+  "img": "img/v/V13/01.jpg",
+  "fuente": "IMG_1148.JPG (pieza 3)",
+  "campos": [
+   [
+    "Carpeta",
+    "N.º 7, Planos varios (Tomo 53)"
+   ],
+   [
+    "Pieza 1",
+    "Miglino, est. Ruiz, 46 ha 24 a 42 ca, 14 lotes"
+   ],
+   [
+    "Pieza 2",
+    "Garri → Campanella, Solís, 28/1/1927"
+   ],
+   [
+    "Pieza 3",
+    "O’Donnell y Whelan, 136 ha 24 a 52 ca, oct. 1933"
+   ],
+   [
+    "Pieza 4",
+    "sucesión Camilo Torrilla, 9 lotes, oct. 1934"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Tapa de la Carpeta N.º 7, «Planos varios»",
+   "img": "img/v/V13/05.jpg",
+   "fuente": "IMG_1144.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°: carpeta con lomo de tela gris oscura atado con hilo y tapa de papel jaspeado negro y blanco; asoman hojas sueltas.]",
+    "[Etiqueta del lomo, dactilografiada:] Planos varios.",
+    "[Etiqueta de la tapa, dactilografiada:] PARTIDO DE SAN ANDRÉS DE GILES [subrayado con guiones] / CARPETA N.º 7 [subrayado] / Planos varios."
+   ],
+   "interpretacion": "Carpeta con lomo de tela gris atada con hilo y tapa de papel jaspeado negro. Etiqueta: PARTIDO DE SAN ANDRÉS DE GILES / CARPETA N.º 7 / Planos varios. Es el Tomo 53 del índice siguiente."
+  },
+  {
+   "titulo": "Índice del Tomo 53",
+   "img": "img/v/V13/06.jpg",
+   "fuente": "IMG_1145.JPG",
+   "nota": "Toma girada 90°; hoja manchada.",
+   "lineas": [
+    "[Toma girada 90°: se lee girándola 90° antihorario. Hoja manchada por humedad; borde de tela gris de la carpeta.]",
+    "S A N  A N D R É S  D E  G I L E S .",
+    "T O M O  53",
+    "1 Prop. de la Sra. María F. de Miglino ........",
+    "2 Terreno prop. de Antonio Campanella ........",
+    "3 Campo de Ana Inés O'Donnel y otros ........",
+    "4 Terreno de prop. de la Suc. de Camilo Torrilla ........",
+    "5 Campo de prop. de los herederos de don Juan José Julio Figueroa ........",
+    "6 Fracción de prop. de don Juan O'Donnel ........",
+    "7 Prop. de don Atencio Rodríguez ........",
+    "8 Suc. de doña Dominga Hasquet de Chotro ........",
+    "9 Prop. de Juan de Dios Videla ........",
+    "10 Plano de varios caminos de acceso vecinal a San Andrés de Giles ...",
+    "11 Plano con varios propietarios. Catastro de quintas ........",
+    "12 a 15 Campo de prop. de las Stas. Brígida e Isabel Scully ........ / ″ ″ ″ ″ ........",
+    "16 Plano con camino a Mendoza ........",
+    "17 Camino de Cap. Federal a Mendoza. Tramo San Andrés de Giles - Carmen de Areco ........",
+    "18 ″ ″ ″ ″ ″ ″ ″ ″ ″ ″ ″",
+    "19 Camino de Cap. Federal a Mendoza ........",
+    "20 ″ ″ ″ ″ ″ ″ ........",
+    "21 Campo de prop. de la Suc. de doña María Zapattini de Raggio.",
+    "22 Campo en fracciones en San Andrés de Giles ........",
+    "23 Lote de campo, próximo a la est. Ruiz, F.C. C.B.A. ........",
+    "[Margen, lápiz, girado:] M. 84.68 [?] [la misma anotación que en el Tomo 52]"
+   ],
+   "interpretacion": "Índice dactilografiado de 23 piezas, casi todas planos rurales de particulares de 1926-1939: Miglino, Campanella, O’Donnell, Torrilla, herederos de Juan José Julio Figueroa, Juan O’Donnel, Atencio Rodríguez, Hasquet de Chotro, Videla, caminos vecinales, catastro de quintas, Brígida e Isabel Scully, cinco láminas del camino a Mendoza, Zapattini de Raggio, «campo en fracciones» y un lote cerca de la estación Ruiz. Los números a lápiz azul de cada plano (1, 3, 5, 22…) remiten a este índice. La carpeta sigue en V14 y V15."
+  },
+  {
+   "titulo": "Pieza 1: propiedad de María F. de Miglino, estación Ruiz",
+   "img": "img/v/V13/02.jpg",
+   "fuente": "IMG_1146.JPG",
+   "nota": "Toma girada 90°; plano muy plegado, con desgarros en el borde O.",
+   "lineas": [
+    "[Toma girada 90°: se lee girándola 90° antihorario. Copia heliográfica rosada (ferroprusiato virado), muy plegada, con desgarros y faltantes en el borde O.]",
+    "[Ángulo NE, lápiz azul:] 16/93[?] · [lápiz:] 1",
+    "Propiedad de la / Sra. María F. de Miglino / Estación Ruiz F.C.C.B.A. – Part. San Andrés de Giles / Prov. de Buenos Aires / Sup. total 46 h 24 a 42 ca",
+    "[Linderos:] César Pasarotti [N y S, dos veces] · Sucesión de Mauro Miglino · Carlos Altieri · Andrés Torres · José Lorenzo · Suc. Sosa",
+    "[Lotes numerados en círculo, 1 a 14; cada uno:] Sup. 3 h 13 a 33 c",
+    "[Cuadro:] Sup. de los lotes (total 14) 43 h 86 a 62 c · Sup. calles interiores 2 h 37 a 80 c · Sup. total 46 h 24 a 42 c",
+    "[Vértices A, B, C, D, E, F, G; cotas:] 131,42 m · 403,50 m [?] · 107,53 m [?] · 960,90 m [?] (y otras ilegibles)",
+    "[Una calle o camino en diagonal cruza el S del loteo (lotes 12-14); flecha de N en diagonal (con cruz) al E.]",
+    "ESCALA 1:2500",
+    "[Firma rubricada con sello redondo:] J. [?] … Aldao [?]"
+   ],
+   "interpretacion": "Copia heliográfica rosada del loteo de un campo de 46 ha 24 a 42 ca junto a la estación Ruiz del F.C.C.B.A., en 14 lotes iguales de 3 ha 13 a 33 ca y 2 ha 37 a 80 ca de calles interiores. Linderos: Sucesión de Mauro Miglino, César Pasarotti, Carlos Altieri, Andrés Torres, José Lorenzo y Suc. Sosa. Escala 1:2500; firma rubricada con sello [Aldao (?)]. Lápiz azul «16/93[?]»."
+  },
+  {
+   "titulo": "Pieza 2: terreno de Domingo Garri vendido a Antonio Campanella (Solís, 1927)",
+   "img": "img/v/V13/03.jpg",
+   "fuente": "IMG_1147.JPG",
+   "nota": "Toma girada 90°.",
+   "lineas": [
+    "[Toma girada 90°: se lee girándola 90° antihorario. Hoja manuscrita en tinta morada, sin plegar.]",
+    "[Encabezado:] Terreno en San Andrés de Giles. Cuartel 6.º Solís / Propiedad de Domingo Garri / Lotes 3 y 4. Manzana B.",
+    "[Flecha de N, arriba a la izquierda.]",
+    "[Cotas:] 42 m · 31,80 m · 8,20 m · 38,25 m · 24,1 m [?] · 25,45 m [?] · 47,25 m [?]",
+    "[Dentro del polígono:] Sup. 711 [?] m² 62 c [lectura dudosa: «7411»] / Vendido a favor de Antonio Campanella",
+    "[Fracción vecina:] Sup. 187 [?] m² … / Reservado / Domingo Garri",
+    "[Al E:] Lote 2. Manzana B.",
+    "[En diagonal, del otro lado de una faja (camino):] Sucesión Jorge Barber",
+    "[Firmas:] Domingo Garri · Antonio Campanella · Cornelio Gamas [?] [rubricada, con sello oval violeta ilegible]",
+    "Escala: 1:800",
+    "San A. de Giles, Enero 28 de 1927",
+    "[Lápiz azul:] F.º 27/927 · San Andrés de Giles"
+   ],
+   "interpretacion": "Croquis manuscrito en tinta morada: los lotes 3 y 4 de la manzana B del «Cuartel 6.º Solís», propiedad de Domingo Garri. La parte con lado diagonal (≈ 711 m² [?]) se vende a Antonio Campanella; un resto queda «Reservado Domingo Garri». Al otro lado de una faja diagonal linda la «Sucesión Jorge Barber». Firman Garri, Campanella y un tercero [Cornelio Gamas (?)], con sello oval. San Andrés de Giles, 28 de enero de 1927; escala 1:800; lápiz azul «F.º 27/927»."
+  },
+  {
+   "titulo": "Pieza 3: campo de Ana Inés O’Donnell y otros (octubre de 1933)",
+   "img": "img/v/V13/01.jpg",
+   "fuente": "IMG_1148.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°: copia heliográfica rosada, con marco de doble línea de esquinas redondeadas, pegada al libro.]",
+    "CAMPO EN EL PARTIDO DE SAN ANDRÉS DE GILES / PROVINCIA DE BUENOS AIRES / SUP. TOTAL = 136 h 24 a 52 c",
+    "[Lápiz azul:] 57/934 · 3",
+    "[Margen superior, lápiz, muy borroso:] Inscripto julio 5 [?] /934 [?] · … · Copiado [?] …",
+    "[Flecha de N a la izquierda.]",
+    "[Linderos:] Patricio Eduardo y Francisco Gregorio Whelan [NO] · Brígida e Isabel Scully [E] · Suc. Figueroa [O] · Ferro Carril Central Argentino [S]",
+    "[Lotes:] 1 PATRICIO EDUARDO WHELAN Sup. = 15 h 18 a 66 c · 2 ANA INÉS O'DONNELL Sup. = 12 h 65 a 55 c · 3 ALFONSO N. O'DONNELL Sup. = 12 h 65 a 55 c · 4 ENRIQUETA L. O'DONNELL Sup. = 14 h 34 a 29 c · 5 MATEO I. O'DONNELL Sup. = 15 h 18 a 66 c · 6 GERARDO O'DONNELL Sup. = 14 h 34 a 29 c · 7 JUAN O'DONNELL Sup. = 18 h 56 a 14 c · 8 CARLOS S. O'DONNELL Sup. = 13 h 49 a 92 c · 9 DONALDO G. O'DONNELL Sup. = 19 h 81 a 46 c",
+    "[Rumbos y medidas:] N. 64° 01′ E. = 2058,10 · N. 64° 01′ E. = 2033,70 · N. 64° 01′ E. = 572 · N. 84° 50′ E. = 439,40 · N. 84° 50′ E. = 476,90 · N. 84° 50′ E. (352,25) · N. 82° 06′ E. 165,70 · N. 25° 59′ O. = 534,60 · N. 32° 06′ O. = 676,30 · N. 12° 26′ O. · N. 30° 58′ O. [?] · 430,40 · 291,30 · 406,80 · 295,10 · 610,10 · 435,20 · 315,70 · 750,90 · 275,60 · 296,40 · 129,10 · 44,30 · 226 · 174 · 100 · 116,90 · 321,30 · 216,40 · 437,20 · m.m. [mojones]",
+    "[Accidentes:] Arroyo de Giles [cruza el campo de N a S] · PUENTE [del ferrocarril sobre el arroyo] · Alcantarilla · Paso a Nivel · Vagues ← · → Solís",
+    "Escala 1:7500",
+    "Octubre de 1933",
+    "[Firma:] Cirilo [?] J. Dodd [?] [rubricada]"
+   ],
+   "interpretacion": "Plano impreso a mano en copia rosada: un campo de 136 ha 24 a 52 ca dividido en 9 lotes entre Patricio Eduardo Whelan y ocho hermanos O’Donnell (Ana Inés, Alfonso N., Enriqueta L., Mateo I., Gerardo, Juan, Carlos S. y Donaldo G.). Está entre el F.C. Central Argentino (de Vagues a Solís) y el campo de Patricio Eduardo y Francisco Gregorio Whelan, con Brígida e Isabel Scully al E. El arroyo de Giles lo cruza de N a S con un puente ferroviario. Rumbos N 64° 01′ E y N 84° 50′ E, mojones «m.m.». Escala 1:7500; firma Cirilo [?] J. Dodd [?]; lápiz azul «57/934»."
+  },
+  {
+   "titulo": "Pieza 4: fraccionamiento de la sucesión de Camilo Torrilla (1934)",
+   "img": "img/v/V13/04.jpg",
+   "fuente": "IMG_1149.JPG",
+   "nota": "Toma girada 90°.",
+   "lineas": [
+    "[Toma girada 90°: se lee girándola 90° antihorario. Hoja manuscrita en tinta morada sobre papel rosado.]",
+    "Terreno de propiedad de la sucesión de Don Camilo Torrilla / en San Andrés de Giles. Plano de fraccionamiento",
+    "[Lápiz azul:] 10/934",
+    "[Linderos:] Cornelio Brandon y Armua [?] [N, del otro lado de la calle] · José Damico [?] [O] · Suc. Bartolomé Molinari [S, del otro lado de la calle] · suc. … [?] [E]",
+    "[Calles en tres lados: «Calle».]",
+    "[Lotes I-III: 33 m 30 c × 12 m (I: 33,30 × 12; II: 33,30 × 12; III: 33,30 × 13 [?]); IV: 53 m 70 c [?] × 10 m; V-IX: 27 m 60 c × 10 m (IX 13 m); el lote VI, rayado.]",
+    "[Firmas:] Irene Almirón de Torrilla · Felisa T. de Rodríguez · Josefa Torrilla · Camilo R. Torrilla · Julio T. Carrillo [?] · Enrique Borrajo [?] [rubricada] · «ante mí: Enrique D. Nerelli [?]» [rubricada]",
+    "San A. de Giles, Octubre 23 [?] / 934"
+   ],
+   "interpretacion": "Croquis manuscrito del fraccionamiento de un terreno urbano entre calles en 9 lotes (I a IX), de 33,30 × 12 m, 53,70 × 10 m y 27,60 × 10 m. Linderos: Cornelio Brandon y Armua [?] (N), José Damico [?] (O) y Suc. Bartolomé Molinari (S). Firman los herederos (Irene Almirón de Torrilla, Felisa T. de Rodríguez, Josefa Torrilla, Camilo R. Torrilla), Julio T. Carrillo [?] y Enrique Borrajo [?], «ante mí» Enrique D. Nerelli [?]. San Andrés de Giles, 23 [?] de octubre de 1934; lápiz azul «10/934»."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Pieza 3: campo de los O’Donnell y Whelan (1:7500, 1933)",
+   "img": "img/v/V13/01.jpg",
+   "fuente": "IMG_1148.JPG",
+   "orientacion": "flecha de N a la izquierda; el campo se alarga de SO a NE",
+   "interpretacion": "Polígono alargado entre la vía del Central Argentino (S, rumbo N 84° 50′ E) y el campo de los Whelan (NO, N 64° 01′ E), cortado en fajas transversales de rumbo N 25° 59′ O. El lote 1 (P. E. Whelan) es una faja a lo largo del lindero N; los lotes 2-9 van a los ocho hermanos O’Donnell. El arroyo de Giles entra por el NE, cruza los lotes 7-9 y pasa bajo el ferrocarril (PUENTE); un afluente corta el lote 9. Hay alcantarilla y paso a nivel. Las superficies (15,1866 + 12,6555 × 2 + 14,3429 × 2 + 15,1866 + 18,5614 + 13,4992 + 19,8146) suman 136,2452 ha, igual al total (verificado).",
+   "referencias": [
+    [
+     "1 PATRICIO EDUARDO WHELAN",
+     "15 ha 18 a 66 ca"
+    ],
+    [
+     "2-9 O’DONNELL",
+     "Ana Inés, Alfonso N., Enriqueta L., Mateo I., Gerardo, Juan, Carlos S., Donaldo G."
+    ],
+    [
+     "Brígida e Isabel Scully",
+     "lindero E"
+    ],
+    [
+     "Suc. Figueroa",
+     "lindero O"
+    ],
+    [
+     "FERRO CARRIL CENTRAL ARGENTINO",
+     "de Vagues a Solís; puente, alcantarilla y paso a nivel"
+    ],
+    [
+     "57/934",
+     "lápiz azul: folio y año de inscripción"
+    ]
+   ]
+  },
+  {
+   "titulo": "Pieza 1: loteo de María F. de Miglino, estación Ruiz (1:2500)",
+   "img": "img/v/V13/02.jpg",
+   "fuente": "IMG_1146.JPG",
+   "orientacion": "flecha de N en diagonal en el ángulo E",
+   "interpretacion": "Rectángulo dividido en 14 lotes iguales de 3 ha 13 a 33 ca, en dos filas a ambos lados de una calle interior, más un martillo al S (lotes 11-14) cortado en diagonal por un camino. 14 × 3,1333 = 43,8662 ha de lotes y 43,8662 + 2,3780 = 46,2442 ha en total (verificado). Es un loteo de quintas o chacras chicas junto a una estación, como el de V15 (1939).\nSucesión de Mauro Miglino\nlindero (familia de la titular)\nCésar Pasarotti\nlindero; reaparece como «C. Pessarotti» y «César Passarotti» en el aviso del BHN (V15)\nCarlos Altieri / Andrés Torres / José Lorenzo / Suc. Sosa\nlinderos\nESCALA 1:2500\nfirma con sello redondo",
+   "referencias": []
+  },
+  {
+   "titulo": "Pieza 2: lotes 3 y 4 de la manzana B de Solís (1:800, 1927)",
+   "img": "img/v/V13/03.jpg",
+   "fuente": "IMG_1147.JPG",
+   "orientacion": "flecha de N arriba a la izquierda",
+   "interpretacion": "Trapecio con un lado diagonal sobre una faja (camino o vía) del otro lado de la cual está la «Sucesión Jorge Barber». La parte vendida a Campanella ocupa el lote con el lado diagonal; Garri se reserva una fracción. Encaja con las manzanas de borde, cortadas en diagonal, del triángulo de Solís (V10).\nVendido a favor de Antonio Campanella\nfracción de ≈ 711 m² 62 [?]\nReservado Domingo Garri\nfracción restante\nSucesión Jorge Barber\nlindero al otro lado de la faja diagonal\nF.º 27/927\nlápiz azul: inscripción",
+   "referencias": []
+  },
+  {
+   "titulo": "Pieza 4: fraccionamiento de la sucesión de Camilo Torrilla (1934)",
+   "img": "img/v/V13/04.jpg",
+   "fuente": "IMG_1149.JPG",
+   "orientacion": "sin flecha de N",
+   "interpretacion": "Fracción urbana con frente a tres calles, dividida en tres lotes de 33,30 m de fondo y seis de 10 m de frente. El lote VI está rayado, quizá el adjudicado o el vendido. Por los linderos (Brandon, Molinari) y el F.º 10/934 es el remanente de los Torrilla en la hoja catastral 7 (V07).\nI-IX\nlotes\nCornelio Brandon y Armua [?]\nlindero N\nSuc. Bartolomé Molinari\nlindero S\n10/934\nfolio de inscripción, igual al de V07",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Las cuatro piezas muestran la fragmentación del campo y del pueblo en el período de entreguerras. Hay quintas de 3 ha junto a la estación Ruiz, lotes de pueblo en Solís, fajas de 12 a 20 ha de una gran estancia irlandesa repartida entre hermanos sobre el arroyo de Giles, y lotes de 10 m de frente en el pueblo. El ferrocarril, con su puente, su alcantarilla y su paso a nivel, es el eje de referencia de casi todos los planos."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "Lo ritual se ha reducido a la firma. En los croquis de 1927 y 1934 vendedor, comprador y herederos firman al pie del plano, a veces «ante mí» un funcionario o escribano. Así el plano funciona como acuerdo de partición o de venta. No hay amojonamientos con testigos ni citación de linderos: la división de la sucesión O’Donnell se resuelve en un plano limpio con mojones «m.m.» ya colocados."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Conviven dos niveles técnicos. Los planos de agrimensor (piezas 1 y 3) tienen rotulación caligráfica, escala, rumbos al minuto y cuadro de superficies, y se reproducen por heliografía en tono rosado. Los croquis de particulares (piezas 2 y 4) son manuscritos en tinta morada, con cotas sueltas y a veces sin escala ni norte. Todos llevan a lápiz azul el folio y año de inscripción y a lápiz el número de pieza del tomo."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todo en sistema métrico: hectáreas, áreas y centiáreas; metros con centímetros. Las sumas verifican: 14 × 3,1333 + 2,3780 = 46,2442 ha (pieza 1) y la suma de los 9 lotes = 136,2452 ha (pieza 3). Los 33,30 m de fondo de los lotes de Torrilla son 1/3 de una manzana de 100 m (o de 115 varas ≈ 99,6 m)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Las cuatro piezas son subdivisiones por herencia o por venta. Una viuda o heredera (Miglino) lotea en quintas. Un vecino de Solís vende parte de sus lotes (Garri-Campanella). Los nietos de los O’Donnell y los Whelan se parten la tierra irlandesa del siglo XIX en lotes de 12 a 20 ha. Una familia urbana (Torrilla) divide su remanente en 9 lotes. Los números de folio (16/93[?], 27/927, 57/934, 10/934) remiten al registro de inscripción de dominio que usan también las hojas catastrales."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "V07 (hoja 7): «F.º 10/934 · Irene Almirón, Josefa A., Camilo R., Froilán J. y Felisa R. Torrilla [?]» es este mismo fraccionamiento; también coinciden los linderos Brandon y Molinari. V10: la manzana B del pueblo de Solís. 133 y 182: Jorge Barber, casado con Brígida Scully, era lindero de Roca; en 1927 su sucesión linda con Solís. 183 (sucesión de Nicolás O’Donnell, Weigel 1899) y 184 (Whelan): en 1933 la tierra de esas sucesiones se reparte entre la generación siguiente; Brígida e Isabel Scully, linderas, son también la pieza 12-15 del índice. V15: César Pasarotti y la estación Ruiz reaparecen en el aviso del Banco Hipotecario."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Del Tomo 53 se fotografiaron las piezas 1-5 y 21-23. Faltan las piezas 6-20, entre ellas Juan O’Donnel, Atencio Rodríguez, Hasquet de Chotro, Videla, los caminos vecinales, el catastro de quintas, los planos de Brígida e Isabel Scully y cinco del camino a Mendoza. Lecturas dudosas: la firma de la pieza 1 (Aldao [?]), la superficie vendida a Campanella (711 o 7411 m²), el firmante «Cornelio Gamas [?]», el agrimensor «Cirilo J. Dodd [?]» y el escribano «Enrique D. Nerelli [?]»."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Familia O’Donnell",
+   "rol": "Adjudicatarios de los lotes 2-9 (1933)",
+   "texto": "Descendientes de Nicolás O’Donnell y Elena Murtagh, cuya sucesión mensuró Emilio C. Weigel en 1899 (1705 ha entre el arroyo de Giles y el río Areco). Aquí aparecen ocho hermanos de la generación siguiente.",
+   "fuentes": "Este plano; ficha 183."
+  },
+  {
+   "nombre": "Patricio Eduardo y Francisco Gregorio Whelan",
+   "rol": "Linderos y adjudicatario del lote 1",
+   "texto": "Patricio Eduardo Whelan fue curador de los O’Donnell en 1923 (189). La familia Whelan aparece en la sucesión de Catalina Whelan de Carry (184).",
+   "fuentes": "Fichas 184, 189; este plano."
+  },
+  {
+   "nombre": "Domingo Garri y Antonio Campanella",
+   "rol": "Vendedor y comprador en solís (1927)",
+   "texto": "Vecinos del pueblo de Solís, probablemente inmigrantes italianos. El índice registra la pieza como «Terreno prop. de Antonio Campanella». No hay datos externos.",
+   "fuentes": "IMG_1145, 1147."
+  },
+  {
+   "nombre": "Familia Torrilla",
+   "rol": "Sucesión de camilo torrilla",
+   "texto": "Irene Almirón de Torrilla (viuda), Felisa T. de Rodríguez, Josefa y Camilo R. Torrilla firman el fraccionamiento de 1934. En V07 son titulares del remanente F.º 10/934, junto a Josefa A. y Froilán J. Torrilla, y los Almirón Torrilla figuran como vecinos al S de la calle Guevara.",
+   "fuentes": "Este plano; V07."
+  },
+  {
+   "nombre": "María F. de Miglino",
+   "rol": "Titular del loteo de la estación ruiz",
+   "texto": "Lindera de la «Sucesión de Mauro Miglino», probablemente su marido. No hay datos.",
+   "fuentes": "IMG_1146."
+  }
+ ],
+ "titulo": "Carpeta 7: Miglino, Garri, O’Donnell, Torrilla",
+ "estado": "Transcripta (6 hojas, 69 renglones), 4 láminas"
+}

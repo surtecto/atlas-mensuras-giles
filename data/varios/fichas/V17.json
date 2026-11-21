@@ -1,0 +1,336 @@
+{
+ "carpeta": "V17",
+ "carpeta_nombre": "Varios V17",
+ "archivo": "Ficha V17 - Carpeta 7, caminos vecinales y catastro de quintas (c. 1934).docx",
+ "resumen": {
+  "Documento": "Carpeta N.º 7 (Tomo 53), piezas 10-11: mapa vial y catastro de quintas",
+  "Propietario / solicitante": "Caminos y catastro de quintas",
+  "Autor": "Sin firma (Dirección de Geodesia y Catastro [?])",
+  "Agrimensor": "—",
+  "Año": "S. f.; asientos de dominio 1891-1933 (catastro c. 1934-1938 [?])",
+  "Escala": "Sin escala visible en ambas piezas",
+  "Ubicación": "Partido y vecinos (10); faja de quintas al borde del pueblo (11)",
+  "Linderos": "Partidos de Areco, Exaltación de la Cruz, Luján, Mercedes, Suipacha, C. de Areco",
+  "Rasgos": "Red de caminos y FF. CC.; quintas con F.º, Guía y s.t.; cementerio viejo",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Tomo 53 piezas 10-11"
+ },
+ "metricas": {
+  "superficie_ha": "quintas de 0,6 a 22,5 ha (Peláez y Carry, 22,4987 ha)",
+  "hitos": "cementerio viejo (municipal); estaciones y paradas ferroviarias",
+  "aguas": "río Areco, río Luján, arroyos de Giles, Suero, Vagues, La Ballena, Funes, Chañaritos"
+ },
+ "sintesis": "Dos piezas generales de la Carpeta N.º 7 (Tomo 53). La 10 es un mapa sin fecha del partido y sus vecinos con la red de caminos generales y vecinales, cinco ferrocarriles con sus estaciones y una hidrografía con nombres (arroyos de Giles, Suero, Vagues, La Ballena, Funes, Chañaritos). La 11 es un catastro de quintas a lápiz: una faja al borde del pueblo, separada de las manzanas por una línea roja, con cada quinta, su dueño, el asiento de dominio (1891-1933), el N.º de Guía y la superficie. Usa el mismo sistema que el catastro urbano V01-V09. Dominan apellidos italianos (Messina, Bonetti, Coppelli, Briatore, Rossello) junto a Peláez y Carry, Culligan y Lescano; hay un «cementerio viejo» municipal.",
+ "caratula": {
+  "img": "img/v/V17/01.jpg",
+  "fuente": "IMG_1163.JPG (pieza 10)",
+  "campos": [
+   [
+    "Carpeta",
+    "N.º 7, Planos varios (Tomo 53)"
+   ],
+   [
+    "Pieza 10",
+    "caminos de acceso vecinal, mapa regional, s. f."
+   ],
+   [
+    "Pieza 11",
+    "catastro de quintas, calco sin título"
+   ],
+   [
+    "Asientos",
+    "N.º/año y F.º/año, 1891-1933; N.º de Guía"
+   ],
+   [
+    "Mayor quinta",
+    "J. F. Peláez y Carry, 22 ha 49 a 87 ca"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Pieza 10: mapa de los caminos de acceso vecinal (s. f.)",
+   "img": "img/v/V17/01.jpg",
+   "fuente": "IMG_1163.JPG",
+   "nota": "Toma a 0°. IMG_1162 es una retoma casi igual. Sin fecha: por el F.C.C.G.B.A. (abierto c. 1908-1911 [?]) y la ausencia de la ruta 7 pavimentada, c. 1925-1935 [?].",
+   "lineas": [
+    "[Toma a 0°: copia (ferroprusiato desvaído o copia en papel verdoso [?]) de un mapa impreso o dibujado a tinta, doblado en cuatro. Sin título, fecha ni firma en el encuadre. IMG_1162 es una retoma casi igual, corrida a la izquierda.]",
+    "[Partidos linderos, en letras grandes:] SAN A. DE ARECO · E. DE LA CRUZ · [CARMEN DE AR]ECO · LUJÁN · SUIPACHA · MERCEDES · [en el centro:] SAN A. DE GILES",
+    "[Pueblos (en damero) y estaciones:] San A. de Areco · Capilla del Señor · C. de Areco · Giles · Luján · Mercedes · Vagues · Solís · Diego Gaynor · Chenaut · Azcuénaga · Ruiz · Parada Alastuey [?] [entre Ruiz y Torres] · Cucullú · Torres · Etchegoyen · Sta. Coloma · Pavón · Heavy · Km. 108 · Gouin · Tuyutí · Espora · Desvío Km. 125 · C. Keen · Cortines · Jáuregui · Olivera · Goldney · Agote F.C.O. · S.n Jacinto · Franklin F.C.G.B.A. [?] · Rivas",
+    "[Ferrocarriles:] F.C.C.A. [Central Argentino, Vagues-Solís-Azcuénaga] · F.C.C.B.A. [Central de Buenos Aires: C. de Areco-Heavy-Km 108-Giles-Cucullú-Ruiz-Torres-Etchegoyen] · F.C.C.G.B.A. [Compañía General: Tuyutí-Espora-Desvío Km 125] · F.C.O. [Oeste: Mercedes-Agote-Olivera-Jáuregui-Luján] · F.C.C. [Capilla del Señor]",
+    "[Caminos rotulados:] Camino General a C. de Areco á Giles · Camino General a Solís · Camino General a Pilar · Camino General a Capilla · Camino General a S. A. de Areco · Camino General a Luján · Camino General de C. de Areco a Mercedes · Camino General de Mercedes a C. Keen · Camino General de Giles [a Mercedes] · Caminos vecinales · C. de Gorrión [?] [margen O]",
+    "[Aguas:] Río Areco / Río de Areco · Río Luján · Arroyo de Giles · A.º Suero · A.º Vagues · A.º de la Cruz · A.º La Ballen[a] · A.º de Funes · Arroyo de Chañaritos · A.º de Marqués [?] · A.º de … [?] · Cañada de Romero [?] · C.da de la Cruz · arroyo Los Oros [?] [al S]",
+    "[Límites de partido en trazo y punto; flecha de norte con rosa en el margen derecho (N arriba, O abajo [?]).]"
+   ],
+   "interpretacion": "Mapa del partido y sus vecinos sin título visible en las tomas, que corresponde a la pieza 10 del índice («Plano de varios caminos de acceso vecinal a San Andrés de Giles»). Copia en papel verdoso. Dibuja los límites de partido con San Antonio de Areco, Exaltación de la Cruz, Carmen de Areco, Luján, Suipacha y Mercedes. Marca los pueblos en damero (Giles, Areco, Capilla del Señor, Carmen de Areco, Luján, Mercedes) y cinco ferrocarriles con sus estaciones (Vagues, Solís, Azcuénaga, Cucullú, Ruiz, Parada Alastuey [?], Torres, Heavy, Tuyutí, Espora, Desvío Km 125, Franklin, Agote). Rotula la red de «caminos generales» (a Solís, a Pilar, a la Capilla, a S. A. de Areco, a Luján, de C. de Areco a Mercedes, de Mercedes a C. Keen) y los «caminos vecinales». La hidrografía tiene nombres: río Areco, río Luján, arroyo de Giles, A.º Suero, A.º Vagues, A.º La Ballena, A.º de Funes, A.º de Chañaritos, A.º de Marqués [?], cañadas de Romero [?] y de la Cruz."
+  },
+  {
+   "titulo": "Pieza 11: catastro de quintas, vista general",
+   "img": "img/v/V17/03.jpg",
+   "fuente": "IMG_1164.JPG",
+   "nota": "Toma a 0°; pliegues en ocho.",
+   "lineas": [
+    "[Toma a 0°: gran hoja de papel de calco o de copia amarillento, plegada en ocho, extendida sobre la mesa; el dibujo, a lápiz y tinta muy tenue, ocupa una faja horizontal en el centro de la hoja. Sin título, escala ni fecha visibles. IMG_1165-1170 son tomas de detalle de esta misma hoja.]",
+    "[Se distingue a la izquierda un sector de manzanas pequeñas (borde del pueblo) y, hacia la derecha, una faja de quintas alargadas y oblicuas entre caminos, con nombres de titulares, F.º de inscripción, N.º de Guía y superficies a lápiz.]",
+    "[Legible en la vista general, de izquierda a derecha:] Mario Oliva · Blas Bruno · Juana María Angela Della Larrosa [?] y Pichetto · F.º 1448/913 [?] Antonio Briatore [?] · Florencio Fernández · Cándido Oliva · Angela Mion [?] · N.º 1700/911 Angela Valli de Bonetti … · F.º 45/922 Guía N.º 158 [?] Francisco Bonetti s.t. 11 Hs 25 As · Marcelino Pedro Arina y Borruel s.t. 22.501 32 m² · Anselmo Coppelli s.t. 34.872 m² · Ignacio Messina (varias quintas) · Isabel Acuña de Lescano · N.º 10592/903 José Fernando Peláez y Carry s.t. 22 Hs 49 As 87 Cs Guía N.º 1344"
+   ],
+   "interpretacion": "Hoja grande de calco amarillento, sin título, escala ni fecha. Es la pieza 11 del índice, «Plano con varios propietarios. Catastro de quintas». Muestra a la izquierda un pico de manzanas urbanas (borde del pueblo) y, en diagonal, una faja de quintas de forma irregular entre caminos, cada una con su titular, el asiento de dominio («N.º 1700/911» o «F.º 45/922»), el N.º de Guía y la superficie («s.t.»). Los asientos van de 1891 a 1933, el mismo sistema que las hojas del catastro urbano V01-V09 (c. 1934-1938)."
+  },
+  {
+   "titulo": "Catastro de quintas: borde del pueblo y quintas del NO",
+   "img": "img/v/V17/04.jpg",
+   "fuente": "IMG_1165.JPG",
+   "nota": "Toma girada 90° respecto de la vista general.",
+   "lineas": [
+    "[Toma de detalle, girada 90° respecto de la vista general (el texto corre en sentido vertical). A la izquierda, manzanas del pueblo con casas (rectangulitos rayados); en diagonal, una línea ROJA (límite de la planta urbana [?]); a la derecha, las quintas.]",
+    "F.º 129/916 Mario Oliva s.t. 23.908 53 m² Guía N.º 1278 [?]",
+    "F.º 158/930 Andrés Constantino [?] s.t. … Guía N.º 1093 [?]",
+    "F.º 252/908 Blas Bruno Guía N.º 1200 s.t. 2 Hs 24 As 19,8 Cs [?]",
+    "N.º 9162/903 Remanente",
+    "N.º 13547/908 [?] [pequeño lote en la línea roja]",
+    "F.º 133 [?]/916 Luis Arina y Borruel s.t. 4 Hs 80 As 95 Cs 17 [?] Guía N.º 68 [?]",
+    "F.º 97/930 Cándido Oliva s.t. 3.1500 m² [?] Guía N.º 3427",
+    "N.º 3076/904 Guía 1801 Nicolás Viola s.t. 28.422 m²",
+    "F.º 98/930 María Ferrupato [?] s.t. 15.000 m² [?] Guía N.º 5986 [?]",
+    "F.º 191/920 Juana María Angela Della Larrosa [?] y Pichetto s.t. 5 Hs 56 As 04 Cs Guía N.º 252 [?]",
+    "N.º 5768/903 [?] Angela Mion [?] …",
+    "F.º 9/922 Guía N.º 398 [?] Ramón Viterbo Galeano s.t. 16.208 m² [?]",
+    "F.º 98/933 Guía 2154 Julián Fernández s.t. 14.510 9/? m²",
+    "F.º 8/921 Guía N.º 149 Demetrio Archiopoli [?] y María Cardinale s.t. 15.025 82 m²",
+    "N.º 2523/901 Guía N.º 659 [Daniel Hipólito, sigue en 1166]",
+    "F.º 142/929 · F.º 76/916 Guía N.º 522 s.t. 9.016 82 m² Vicente Di Cocco [?] · s.t. 9.016 82 m² F.º 67/917 Guía N.º 525 · F.º 142/929 Guía N.º 703 Desiderio Gaggini s.t. 3 Hs 88 As 36 Cs",
+    "N.º 8276/913 Ángel Rose [?] Guía N.º 1506 s.t. 13.124 25 m²",
+    "Ángel Rose [?] y Serafina Coronel [?] Guía N.º 1507 s.t. 2 Hs 47 As 98 Cs"
+   ],
+   "interpretacion": "La línea roja que corre en diagonal separa las manzanas chicas del pueblo, con sus casas, de las quintas grandes. Hay quintas de 1 a 5 ha (Mario Oliva, Blas Bruno, Luis Arina y Borruel, Cándido Oliva, Nicolás Viola, los Della Larrosa [?] y Pichetto, Desiderio Gaggini, Ángel Rose [?] y Serafina Coronel [?]) y un «Remanente» (N.º 9162/903). Los asientos más viejos son de 1901-1916; los más nuevos, de 1929-1933."
+  },
+  {
+   "titulo": "Catastro de quintas: los Bonetti y la columna Viola-Briatore",
+   "img": "img/v/V17/02.jpg",
+   "fuente": "IMG_1166.JPG",
+   "nota": "Toma girada 90°.",
+   "lineas": [
+    "[Toma de detalle, girada 90°; mismo sector que IMG_1165, corrido hacia el S. Pliegue vertical oscuro.]",
+    "N.º 1700/911 1. Angela Valli de Bonetti 30.000 m² · 2. Beatriz Ernestina Bonetti 26.250 m² · 3. Francisco Alberto Bonetti 26.250 m² · Superficie entre alambrados 82.500 m² · Superficie destin. a calles 9.350 [?] m² · [total] 11 [?] 000 m² [?] · 1. Guía N.º 153 · 2. Guía N.º 154 · 3. Guía N.º 158",
+    "F.º 45/922 Guía N.º 15[8] Francisco Alberto Bonetti s.t. 11 Hs 25 As",
+    "N.º 3/37 [?]/895 Ana Holgado [?] de Morales [?]",
+    "F.º 21/922 Antonio Bisio s.t. 7.499 56 m² Guía N.º 146 [?]",
+    "F.º 161/924 Arcángelo [?] Bisio [?]",
+    "F.º 1[?]/910 Ramona Díaz [?] de … [?] · F.º 281/919 [?] Guía N.º 1305 [?]",
+    "Fº 136/910 Florencio Fernández [?]",
+    "N.º 2523/901 Guía N.º 659 Daniel Hipólito s.t. 2 Hs 30 As 49 Cs",
+    "F.º 143/924 Guía N.º 1002 Francisco Magurno [?] s.t. 2 Hs 34 As 66 Cs 456/1000",
+    "N.º 421/891 [?] Guía N.º 194 Antonio Briatore s.t. 43 [?] × 271 [?]",
+    "N.º 1445/893 Guía N.º 195 Antonio Briatore s.t. 5.62 [?] 46 ⁷⁰/₁₀₀ m²",
+    "N.º 735/891 Trinidad Larrosa de Briatore"
+   ],
+   "interpretacion": "La quinta N.º 1700/911 se reparte entre Angela Valli de Bonetti (30 000 m²) y sus hijos Beatriz Ernestina y Francisco Alberto Bonetti (26 250 m² cada uno). Entre alambrados son 82 500 m² (suma verificada); el resto es «superficie destinada a calles». Al lado, Francisco Bonetti tiene otra quinta de 11 ha 25 a (F.º 45/922). En la columna E están Daniel Hipólito, Francisco Magurno [?] y los Briatore: Antonio, con asientos de 1891 y 1893, y Trinidad Larrosa de Briatore, de 1891. Son los dominios más antiguos de la hoja."
+  },
+  {
+   "titulo": "Catastro de quintas: Coppelli, Arina, Ballesteros y el cementerio viejo",
+   "img": "img/v/V17/05.jpg",
+   "fuente": "IMG_1167.JPG",
+   "nota": "Toma girada 90°.",
+   "lineas": [
+    "[Toma de detalle, girada 90°; sector central, al S de IMG_1166.]",
+    "F.º 161/924 Arcángelo [?] … · Guía N.º 1344 s.t. 1 [?] H 89 As 33 Cs [?]",
+    "Carolina Carbone de Chavarri [?] F.º 87/931 G. N.º 3166 [?] s.t. 18.150 m² [?]",
+    "F.º 20/920 Anselmo Coppelli s.t. 34.872 0,85 [?] m² G. N.º 397",
+    "F.º 122/922 Anselmo Coppelli G. N.º 398 s.t. 1.499 [?] … m²",
+    "Soc. «…» [?] · F.º 69 [?] · varios lotes chicos con F.º y G. N.º [ilegibles]",
+    "Municipal · Municipal / Cementerio viejo",
+    "F.º 202/927 Félix Ballesteros s.t. 37.600 m² Guía N.º 78",
+    "6/1 [?]/885 · 2.210/9[?]",
+    "F.º 95/924 Marcelino Pedro Arina y Borruel s.t. 22.501 32 m² Guía N.º 62",
+    "F.º 128/930 Pedro Sobot [?] s.t. 86,60 × 259,80 22.498 [?] 68 m² Guía N.º 3422",
+    "F.º 34/929 Simón Claudio · F.º 35/929 Juan Bautista · F.º 36/929 Fernando Teófilo · F.º 38/929 Fausto Eduardo Peláez [?] y Peláez [?] s.t. 5 Hs 99 As 95 Cs Guía N.º 1385",
+    "F.º 130/924 Rossello [sigue en 1168]",
+    "[Columna derecha, muy tenue:] F.º 136/910 Florencio Fernández s.t. 3 [?] … 99 [?] … m² · N.º 735/891 Trinidad Larrosa de Briatore · Suc. de Mauricio Ponce [?] · N.º 1766/910 · Rosendo Rubiero [?] · F.º 17/930"
+   ],
+   "interpretacion": "Sector central. Dos lotes «Municipal», uno rotulado «Cementerio viejo». Lo rodean las quintas de Anselmo Coppelli (34 872 m²), Félix Ballesteros (37 600 m²), Marcelino Pedro Arina y Borruel (22 501 m²) y Pedro Sobot [?]. Este último lote mide 86,60 × 259,80 m (= 100 × 300 varas). Cuatro hermanos Peláez [?] (Simón Claudio, Juan Bautista, Fernando Teófilo, Fausto Eduardo) comparten 5 ha 99 a (1929)."
+  },
+  {
+   "titulo": "Catastro de quintas: Rossello, Rovelli de Soulé, Méndez, Martín Díaz",
+   "img": "img/v/V17/06.jpg",
+   "fuente": "IMG_1168.JPG",
+   "nota": "Toma girada 90°.",
+   "lineas": [
+    "[Toma de detalle, girada 90°; sector central-sur.]",
+    "F.º 202/927 Félix Ballesteros s.t. 37.600 m² Guía N.º 78 · F.º 34-38/929 Peláez [?] s.t. 5 Hs 99 As 95 Cs Guía N.º 1385 [repetidos de 1167]",
+    "F.º 130/924 Lorenzo Rossello s.t. 6 Hs 77 As 20 Cs 334/1000 Guía N.º 1514",
+    "F.º 51/917 Guía N.º 1654 Guadalupe Rovelli de Soulé s.t. 4 Hs 03 As 61 Cs 32 · 120,90 m × 309,66 [?] m",
+    "F.º 114 [?]/931 · F.º 201/927 Ignacio Messina",
+    "Juan Federico Rapuzzi [?] 52465/915 G. no figura · Juan Vicente de Paola [?] F.º 86/925 G. N.º 492 · Vicente … F.º 1105 [?]/925 G. N.º 493",
+    "F.º 83/926 Ernesto Mazzei [?] Guía 77 · F.º 98/932 · Ramón Eulogio Benabé [?] · F.º 112/932 Guía 3440 [?] Ramón E. Benabé s.t. 3.150 [?] m² · F.º 115/917 G. N.º 1385 Florentina Rocha de Pellegrini [?] · Juan H. Rapuzzi [?]",
+    "F.º 69 [?]/930 José M. Méndez Guía N.º 900 · ocupado por Méndez · F.º 7/919 José Manuel Méndez s.t. 22.490 [?] m² Guía 1068",
+    "[Columna derecha, muy tenue:] N.º 1766/910 Rosendo Rubiero [?] s.t. 5 Hs 99 As … · Martín Díaz [varias parcelas de s.t. 6.562 [?] m²: F.º 79/926 Guía 518, N.º 5523/911 Guía 516, F.º 72/926 Guía 507] · F.º 30/916 Clara Arina [?] de Castrano [?] s.t. 11.245 46 m² · s.t. 15.000 m² · Salvador Messina [?] · Félix … · José María Arias [?] y Álvarez [?]"
+   ],
+   "interpretacion": "Quintas de Lorenzo Rossello (6 ha 77 a), Guadalupe Rovelli de Soulé (4 ha 03 a 61 ca; la cota leída 120,90 × 309,66 [?] m da sólo 3,74 ha: el segundo número debe ser ≈ 333,8), José Manuel Méndez y, al E, una serie de lotes iguales de 6562 m² de Martín Díaz. Muchos lotes chicos con F.º y Guía (Rapuzzi [?], de Paola [?], Benabé [?], Mazzei [?], Rocha de Pellegrini [?]). Un lote está «ocupado por Méndez» y otro tiene la nota «G. no figura»: el catastro anota también la ocupación sin título y lo que falta en la Guía."
+  },
+  {
+   "titulo": "Catastro de quintas: Messina, Picheto de Culligan, Acuña de Lescano, Peláez y Carry",
+   "img": "img/v/V17/07.jpg",
+   "fuente": "IMG_1169.JPG",
+   "nota": "Toma girada 90°.",
+   "lineas": [
+    "[Toma de detalle, girada 90°; extremo S de la faja de quintas.]",
+    "F.º 201/927 Ignacio Messina s.t. 28.573 [?] 33 m² Guía N.º 1102 · F.º 41/920 Ignacio Messina s.t. 28.573 33 m² Guía N.º 1101",
+    "F.º 52/932 Ignacio Messina s.t. 26.250 m² Guía N.º 120 [?] · F.º 51/922 Ignacio Messina s.t. 20.060 m² Guía N.º 1099",
+    "F.º 178/923 Ignacio Messina [tres lotes chicos: Guía 1096, 1095, 1097; s.t. 7.702 [?] m² c/u] · F.º 178/923 Guía N.º 1100 s.t. 2 Hs 62 As 47 Cs 46/100 [?]",
+    "N.º 16288 [?]/913 Guía c.c. 464 Laura Picheto de Culligan s.t. 10 Hs 84 As 64 Cs 632/1000 [?]",
+    "N.º 13468/915 Isabel Acuña de Lescano s.t. 2 Hs 97 As 95 Cs 22 Guía N.º 928",
+    "F.º 28/928 Carlos Crocci [?] s.t. 12.416 [?] m² Guía N.º 2225 [?] · lotes chicos con «Catalina …» [ilegibles]",
+    "N.º 10592/903 José Fernando Peláez y Carry s.t. 22 Hs 49 As 87 Cs Guía N.º 1344",
+    "F.º 156/933 José María Arias y Álvarez s.t. … Guía N.º 3316 [?]",
+    "F.º 51 [?]/… Salvador Messina [?] s.t. 3 [?] … · F.º 128/916 [?] Juan … · Clara Arina de Castrano [?]"
+   ],
+   "interpretacion": "Extremo S. Ignacio Messina reúne siete u ocho quintas compradas entre 1920 y 1932 (de 2,0 a 2,9 ha). Laura Picheto de Culligan tiene 10 ha 84 a (N.º 16288 [?]/913) e Isabel Acuña de Lescano 2 ha 97 a (1915). La mayor es la de José Fernando Peláez y Carry, de 22 ha 49 a 87 ca (N.º 10592/903, Guía 1344)."
+  },
+  {
+   "titulo": "Catastro de quintas: margen de la hoja",
+   "img": "img/v/V17/08.jpg",
+   "fuente": "IMG_1170.JPG",
+   "nota": "Toma girada 90°; no aporta texto nuevo.",
+   "lineas": [
+    "[Toma de detalle, girada 90°; repite el sector S de IMG_1169 y muestra el margen de la hoja en blanco: caminos que salen hacia el campo y ningún rótulo, escala ni firma.]",
+    "[Sin texto nuevo fuera de lo transcripto en IMG_1169.]"
+   ],
+   "interpretacion": "Borde de la hoja: caminos que salen al campo; sin rótulo ni escala."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Pieza 10: caminos de acceso vecinal a San Andrés de Giles",
+   "img": "img/v/V17/01.jpg",
+   "fuente": "IMG_1163.JPG (retoma IMG_1162)",
+   "orientacion": "rosa con N arriba en el margen derecho",
+   "interpretacion": "El pueblo de Giles está en el centro, sobre el F.C.C.B.A. (de C. de Areco a Luján por Heavy, Km 108, Giles, Cucullú, Ruiz, Torres y Etchegoyen). El F.C.C.A. lo cruza en diagonal por Vagues, Solís y Azcuénaga. De Giles salen en estrella los caminos generales a Solís, a S. A. de Areco, a Pilar y la Capilla, a Luján y a Mercedes. Los vecinales, en doble trazo fino, siguen los límites de las suertes. Al SO pasa el F.C.C.G.B.A. (Tuyutí, Espora, Desvío Km 125) y al S el Oeste (Mercedes, Agote, Olivera, Jáuregui, Luján). El límite del partido, en trazo y punto, quiebra en zigzag al O siguiendo arroyos y fondos de campos. No dibuja la ruta 7 como obra distinta del «camino general a Luján».",
+   "referencias": [
+    [
+     "Damero",
+     "Pueblos: Giles, S. A. de Areco, Capilla del Señor, C. de Areco, Luján, Mercedes"
+    ],
+    [
+     "Rectángulo negro",
+     "Estación o parada ferroviaria"
+    ],
+    [
+     "Doble trazo",
+     "Caminos generales y vecinales"
+    ],
+    [
+     "Trazo y punto",
+     "Límites de partido"
+    ],
+    [
+     "Parada Alastuey [?]",
+     "Entre Ruiz y Torres, con desvío"
+    ],
+    [
+     "A.º Suero, A.º Vagues",
+     "Afluentes del arroyo de Giles y del Areco"
+    ],
+    [
+     "A.º La Ballena, de Funes, Chañaritos, Marqués [?]",
+     "Afluentes del Areco al O"
+    ]
+   ]
+  },
+  {
+   "titulo": "Pieza 11: catastro de quintas (detalle del sector de los Bonetti)",
+   "img": "img/v/V17/02.jpg",
+   "fuente": "IMG_1166.JPG (vista general IMG_1164; detalles 1165-1170)",
+   "orientacion": "sin flecha de N; la toma está girada 90°",
+   "interpretacion": "Cada quinta lleva: el número de inscripción con el año («N.º 1700/911», sistema anterior a c. 1917) o el folio y el año («F.º 45/922»); el número de «Guía» (padrón o guía catastral [?]); el nombre del titular; la superficie según título («s.t.»), en hectáreas o en metros cuadrados con decimales, y a veces las medidas. Las casas se marcan con rectangulitos rayados. Hay líneas de puntos donde se subdivide. Al NO, la línea roja deja de un lado el pueblo con sus manzanas chicas y del otro las quintas.",
+   "referencias": [
+    [
+     "N.º …/911",
+     "Inscripción de dominio con año (1891-1916)"
+    ],
+    [
+     "F.º …/922",
+     "Folio de inscripción con año (desde c. 1916)"
+    ],
+    [
+     "Guía N.º",
+     "Número de guía o padrón catastral [?]"
+    ],
+    [
+     "s.t.",
+     "Superficie según título"
+    ],
+    [
+     "Línea roja",
+     "Límite entre la planta urbana y las quintas [?]"
+    ],
+    [
+     "Municipal / Cementerio viejo",
+     "Tierra pública en la faja de quintas"
+    ],
+    [
+     "Remanente",
+     "Saldo de un loteo (N.º 9162/903)"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "El mapa regional muestra un territorio ordenado por los ferrocarriles y por los caminos generales que salen del pueblo en estrella. Los arroyos tienen todavía sus nombres coloniales (Suero, Vagues, La Ballena, Funes, Chañaritos), que remiten a antiguos dueños o a la fauna. El catastro de quintas muestra el cinturón agrícola del pueblo: quintas de 1 a 5 ha, alargadas y oblicuas, con alguna casa, un cementerio viejo y la línea roja donde termina la planta urbana."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Pieza 10: dibujo de escritorio, compilado de planos ferroviarios y de mensuras, sin escala visible. Pieza 11: calco de un plano de mensura de las quintas, sobre el que la oficina anota a lápiz los datos de dominio. Es un instrumento de registro más que de medición, el mismo método que el catastro urbano de 1934-1938."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Las quintas conservan módulos en varas: 86,60 m = 100 v; el lote de Sobot [?], de 86,60 × 259,80 m, es de 100 × 300 v (verificado). Las superficies se escriben en ha-a-ca o en m² con dos decimales, a veces con fracciones (⁴⁵⁶⁄₁₀₀₀)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Más de 50 titulares en la faja. La propiedad está muy fraccionada y es mayoritariamente de inmigrantes italianos (Messina, Bonetti, Coppelli, Briatore, Rossello, Rapuzzi, Magurno, Gaggini), con familias criollas e irlandesas (Peláez y Carry, Culligan, Acuña de Lescano). Ignacio Messina reúne siete u ocho quintas entre 1920 y 1932. Se anotan la ocupación («ocupado por Méndez»), los remanentes y las tierras municipales."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "V01-V09: mismo sistema de asientos (F.º/año) y mismas familias; V02 y V05: Juana Picchetto de Gazzaniga (1913) y Laura Pichetto de Culligan (remanente de 4,89 ha, 1913), aquí con 10 ha 84 a, también de 1913. 144: Fernando Peláez (1886), antecesor de José Fernando Peláez y Carry; 184: Catalina Whelan de Carry. V12: el camino Luján-Giles de 1933. V13: Miglino junto a la estación Ruiz, que el mapa ubica. V16: Di Cocco [?]. 137: el ejido de Giles y sus quintas de 100 varas."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "El lápiz es muy tenue y muchas cifras quedan con [?]; IMG_1165-1170 son detalles suficientes, pero no cubren con nitidez la columna E de la hoja. Sin fecha ni autor: ¿es el «gráfico» de quintas de la misma Dirección de Geodesia y Catastro que hizo V01-V09? ¿Qué sector del ejido es: el NE o el S? La línea roja y el «cementerio viejo» pueden ubicarla al georreferenciar."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Ignacio Messina",
+   "rol": "Quintero",
+   "texto": "Titular de siete u ocho quintas en el extremo S del catastro, compradas entre 1920 y 1932 (F.º 41/920, 51/922, 178/923, 201/927, 52/932).",
+   "fuentes": "Este catastro."
+  },
+  {
+   "nombre": "Familia Bonetti",
+   "rol": "Quinteros",
+   "texto": "Angela Valli de Bonetti y sus hijos Beatriz Ernestina y Francisco Alberto tienen una quinta de 8,25 ha entre alambrados (N.º 1700/911), y Francisco otra de 11 ha 25 a (1922).",
+   "fuentes": "Este catastro."
+  },
+  {
+   "nombre": "José Fernando Peláez y Carry",
+   "rol": "Titular de la mayor quinta",
+   "texto": "22 ha 49 a 87 ca inscriptas en 1903. Probablemente hijo de Fernando Peláez, que en 1886 compró a los Veloz 509,87 ha sobre el arroyo de Giles, y de una Carry (familia de Gerónimo Carry y Catalina Whelan).",
+   "fuentes": "Este catastro; fichas 144 y 184."
+  },
+  {
+   "nombre": "Laura Picheto (Pichetto) de Culligan",
+   "rol": "Titular",
+   "texto": "10 ha 84 a inscriptas en 1913. En V05 tiene un remanente de 4,89 ha del mismo año dentro de la planta urbana. Los Pichetto eran linderos ya en el siglo XIX.",
+   "fuentes": "Este catastro; V05."
+  },
+  {
+   "nombre": "Antonio Briatore y Trinidad Larrosa de Briatore",
+   "rol": "Titulares",
+   "texto": "Tienen los asientos más antiguos de la hoja (N.º 735/891, 421/891, 1445/893).",
+   "fuentes": "Este catastro."
+  }
+ ],
+ "titulo": "Caminos y catastro de quintas",
+ "estado": "Transcripta (8 hojas, 77 renglones), 2 láminas"
+}

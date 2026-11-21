@@ -1,0 +1,168 @@
+{
+ "carpeta": "V10",
+ "carpeta_nombre": "Varios V10",
+ "archivo": "Ficha V10 - Pueblo de Solís, calco (s. f.).docx",
+ "resumen": {
+  "Documento": "Calco del plano del pueblo junto a la estación Solís (copia del Legajo N.º 532)",
+  "Propietario / solicitante": "Pueblo de Solís (trazado urbano)",
+  "Autor": "Sin firma; copió S. P. [?] Serra",
+  "Agrimensor": "—",
+  "Año": "Sin fecha (original c. 1890-1914 [?]; copia c. 1934-1938 [?])",
+  "Escala": "1:1000",
+  "Ubicación": "Cuartel 6.º (Solís), junto a la estación Solís del F.C.C.A.",
+  "Linderos": "Tte. Gral. Julio A. Roca (NO); Santiago Scully (NE); vía y estación (S)",
+  "Rasgos": "20 manzanas A-T; plaza octogonal con diagonales; Hotel frente a la estación",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), IMG_1130 (Tomo 47, pieza 10)"
+ },
+ "metricas": {
+  "superficie_ha": "18,2178 (escrita); lotes 14,5108 + calles 4,3555 + plaza 0,3515 = 19,2178 [?]",
+  "hitos": "vértices A-E; estación Solís; plaza",
+  "aguas": "no figuran"
+ },
+ "sintesis": "Calco sin título ni fecha del trazado de un pueblo junto a la estación Solís, en el cuartel 6.º. Es un triángulo con vértice al N, entre el campo del Tte. Gral. Julio A. Roca (NO) y el de Santiago Scully (NE), con la base sobre el camino y la vía. Tiene 20 manzanas de la A a la T, una plaza octogonal con cuatro diagonales y lotes de 20 m de frente. Un «Hotel» frente a la estación es la única construcción rotulada. El cuadro da 14,51 ha de lotes, 4,36 de calles y 0,35 de plaza, que suman 19,22 ha y no las 18,22 escritas: hay un error de 1 ha en la copia o en la lectura. Es la pieza 10 del Tomo 47 (Carpeta N.º 1). La manzana B reaparece en 1927 en el plano de Domingo Garri (V13).",
+ "caratula": {
+  "img": "img/v/V10/01.jpg",
+  "fuente": "IMG_1130.JPG (vista general)",
+  "campos": [
+   [
+    "Plano",
+    "pueblo junto a la estación Solís (sin título)"
+   ],
+   [
+    "Origen",
+    "copia del plano agregado al Legajo N.º 532 de San Andrés de Giles"
+   ],
+   [
+    "Copista",
+    "S. P. [?] Serra"
+   ],
+   [
+    "Escala",
+    "1:1000"
+   ],
+   [
+    "Superficie total",
+    "18 ha 21 a 78 ca 30 dm² (según el cuadro)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Plano del pueblo junto a la estación Solís (calco)",
+   "img": "img/v/V10/01.jpg",
+   "fuente": "IMG_1130.JPG",
+   "nota": "Toma a 0°; hoja suelta con roturas en el borde S y mancha de humedad. Todo el plano en una sola toma.",
+   "lineas": [
+    "[Hoja de papel de calco, suelta, a 0°, desplegada sobre la mesa; a la izquierda asoma el libro de V11. Faltan trozos en el borde S (rotura al centro) y en el ángulo E; mancha de humedad en diagonal en la mitad derecha. Sin título ni carátula propios.]",
+    "[Ángulo NO, letras de contorno, como lindero:] T.te Gral. JULIO A. ROCA",
+    "Escala = 1:1000",
+    "[Lado NO del polígono:] A B = 653,50",
+    "[Lado NE, sobre el lindero:] Santiago Scully [letra cursiva grande] · B G [?] = 653,13 [probable «B C»]",
+    "[Ángulo NE, cuadro de superficies, tinta:]",
+    "Sup.: de lotes 14 h 51 a 07 c 99",
+    "Sup.: de calles 4.35.55.33",
+    "Sup.: de plaza 0.35.14.96",
+    "Sup. total 18 21.78.30",
+    "[Lado S, sobre el camino paralelo a la vía:] C A [o E A] = 514,3[?] · D E = 47,65 · C D = 437,81",
+    "[Borde S, entre dos líneas paralelas y una línea de trazos (vía férrea):] Est. Solís [con un rectángulo que figura el edificio de la estación]",
+    "[Flecha de N: trazo con punta dibujado a lápiz/tinta al N (junto a «Julio A. Roca») y otra flecha al S, sobre el camino, apuntando a la manzana N.]",
+    "[Trazado: polígono triangular con vértice al N; plaza central octogonal con jardín en cruz y círculo (canteros punteados) de la que salen cuatro diagonales; 20 manzanas designadas con letras de A a T (A en el vértice; B, C, D, E en la segunda fila; F, G, H, I, K en la tercera; L, M, N, O, P, R, S, T en la fila S, junto a la vía); lotes numerados con su superficie en m² (1000 = 20 × 50; 600 = 20 × 30; 800 = 20 × 40; 1200; esquinas irregulares 1407,75, 1162,10, 1170,36, 912,60, 964,40, 959,70, 880,81…); cotas de frente 20, 30, 40, 50 y fondos 100.]",
+    "[Manzana M, lote 5:] Hotel [edificio dibujado en planta]; [lote 7: un rectángulo con divisiones (galpón [?]).]",
+    "[Ángulo NE, lápiz, muy borroso:] [rúbrica o anotación ilegible] [?]",
+    "[Borde S, a la derecha de la rotura, tinta:] Es copia del plano agregado / al Legajo N.º 532 de San Andrés / de Giles. Copiado: S. P. [?] Serra."
+   ],
+   "interpretacion": "Calco a tinta de un trazado de pueblo de forma triangular, con vértice al N y base sobre el camino paralelo a la vía, donde se dibuja la «Est. Solís». Tiene 20 manzanas (A a T), una plaza central octogonal con jardín en cruz y cuatro diagonales, y lotes de 20 m de frente (600 a 1200 m²). Linda al NO con el Tte. Gral. Julio A. Roca y al NE con Santiago Scully. Un «Hotel» ocupa el lote 5 de la manzana M, frente a la estación. La nota del pie dice que es copia del plano agregado al Legajo N.º 532 de San Andrés de Giles, y el índice del Tomo 47 (IMG_1131) lo registra como su pieza 10."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Pueblo junto a la estación Solís (calco, 1:1000)",
+   "img": "img/v/V10/01.jpg",
+   "fuente": "IMG_1130.JPG",
+   "orientacion": "vértice del triángulo al N; flechas de N a lápiz/tinta junto a «Julio A. Roca» y sobre el camino",
+   "interpretacion": "Trazado regular de damero cortado por dos diagonales que nacen de la plaza octogonal y llegan a los ángulos. Las manzanas de los bordes son trapezoidales y triangulares, con lotes de esquina irregulares (880,81 a 1407,75 m²). El lado S corre paralelo a la vía: allí se dibujan la estación y su edificio, y frente a ella la manzana M con el Hotel. Los lados miden A-B 653,50 m y B-C 653,13 m [?]. La base se lee en tramos (C-D 437,81; D-E 47,65; E-A [?]). Un triángulo con esos lados daría unas 15,4 ha y no 18,2, de modo que la figura no es un triángulo simple o hay lecturas erradas en las cotas.",
+   "referencias": [
+    [
+     "T.te Gral. JULIO A. ROCA",
+     "lindero NO (estancia «La Argentina», ficha 182)"
+    ],
+    [
+     "Santiago Scully",
+     "lindero NE (fichas 069, 071, 133)"
+    ],
+    [
+     "Est. Solís",
+     "estación del F.C.C.A., en la base S"
+    ],
+    [
+     "Plaza",
+     "octógono central con jardín en cruz, 3514,96 m²"
+    ],
+    [
+     "A-T",
+     "20 manzanas designadas con letras"
+    ],
+    [
+     "Hotel",
+     "manzana M, lote 5, frente a la estación"
+    ],
+    [
+     "Legajo N.º 532",
+     "plano original del que se sacó esta copia"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Es un pueblo de estación pensado en el papel: el damero, la plaza y las diagonales se imponen sobre un triángulo de campo entre dos grandes estancias, la de Roca y la de los Scully. Salvo el Hotel y la estación no se dibujan edificios, árboles ni aguas. El hotel frente a la estación indica la función del lugar: un punto de embarque de cereales y hacienda sobre el ramal del Central Argentino que unía Vagues con Solís."
+  },
+  {
+   "titulo": "Procedimiento",
+   "texto": "No es una mensura sino un plano de trazado de pueblo copiado de un legajo administrativo (N.º 532), probablemente el expediente de aprobación del ejido o de la fundación. No hay actas, firmas de linderos ni diligencias. La copia es un calco de oficina, hecho por S. P. [?] Serra para formar el Tomo 47 de la Dirección de Geodesia."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Dibujo a tinta sobre papel de calco a escala 1:1000, con cotas de frente y fondo de cada lote, superficies en m² con decimales y un cuadro de superficies en hectáreas, áreas, centiáreas y decímetros cuadrados. Los lados del polígono se dan sin rumbos: el norte se marca sólo con flechas."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todo en metros: frentes de 20, 30, 40 y 50 m y fondos de 50 a 100 m, sin varas. El cuadro (14 h 51 a 07 c 99 + 4.35.55.33 + 0.35.14.96) suma 19,2178 ha, pero el total escrito es 18 h 21 a 78 c 30. La diferencia es exactamente 1 ha (verificado en python): el error está en el total, en la superficie de lotes o en la lectura del 14."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "No se nombran adjudicatarios de lotes: el plano fija la oferta urbana, no los dueños. Los linderos son dos titulares de gran estancia. Por los planos de V13 se sabe que en 1927 Domingo Garri tenía los lotes 3 y 4 de la manzana B «en San Andrés de Giles, Cuartel 6.º Solís» y vendió parte a Antonio Campanella."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "182 (Roca, 1899): el camino recto que Roca y Lucas Scully abrieron del paso del arroyo de Giles a la estación Solís hizo de límite entre sus campos; este pueblo nace en ese ángulo. 069, 071 y 133 (Santiago Scully y su testamentaría): el lindero NE lleva todavía el nombre de Santiago Scully, aunque el campo pasó a sus hijos en 1883. V13 (IMG_1147): la manzana B del pueblo con Garri y Campanella, y la «Sucesión Jorge Barber» como lindero (Barber se casó con Brígida Scully, 133). V11: el índice del Tomo 47 registra este plano como pieza 10."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Falta la fecha. El rango se infiere de dos datos: Roca vivía (murió en 1914) y la copia se hizo para el Tomo 47 (levantamiento de 1934). Queda abierto quién fundó el pueblo y si se trazó sobre tierra de Roca, de Scully o de Barber. También falta encontrar el Legajo 532 y averiguar si el total de 18,22 ha es un error del original. El nombre del copista («S. P. Serra») es dudoso."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Julio Argentino Roca",
+   "rol": "Lindero no («t.te gral.»)",
+   "texto": "Militar y dos veces presidente de la Nación (1880-1886 y 1898-1904), murió en 1914. En el partido tenía la estancia «La Argentina» (3414 ha), mensurada en 1899 por Agustín González, con el acta del 25/5/1899 que permutó tierras con Lucas Scully y fijó como límite el camino a la estación Solís.",
+   "fuentes": "Este plano; ficha 182; dato general de historia argentina."
+  },
+  {
+   "nombre": "Santiago Scully",
+   "rol": "Lindero ne",
+   "texto": "Estanciero irlandés que entre 1875 y 1879 formó sobre el arroyo de Giles una estancia de 3398 ha. Se dividió en 1883 entre Lucas, Miguel, Brígida (de Barber) y Catalina (de Maguire). Que el plano todavía lo nombre sugiere que el original copia títulos o catastro viejos.",
+   "fuentes": "Fichas 069, 071, 133, 182."
+  },
+  {
+   "nombre": "S. P. [?] Serra",
+   "rol": "Copista",
+   "texto": "Firma «Copiado» al pie del calco. No hay datos.",
+   "fuentes": "Este plano."
+  }
+ ],
+ "titulo": "Pueblo de Solís (trazado urbano)",
+ "estado": "Transcripta (1 hojas, 17 renglones), 1 lámina"
+}

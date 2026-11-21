@@ -1,0 +1,250 @@
+{
+ "carpeta": "V23",
+ "carpeta_nombre": "Varios V23",
+ "archivo": "Ficha V23 - Carpeta 4 (Tomo 50) y plano del pueblo y quintas (1884).docx",
+ "resumen": {
+  "Documento": "Carpeta N.º 4 (Tomo 50): tapa, índice de 22 piezas y pieza 1 en tela",
+  "Propietario / solicitante": "Municipalidad / Geodesia",
+  "Autor": "s. d. (pieza 1: copia del plano de Orlandini, 1884 [?])",
+  "Agrimensor": "Domingo F. Orlandini [?] (ficha 137)",
+  "Año": "1884 (pieza 1); índice c. 1939-1943",
+  "Escala": "escala gráfica en metros (pieza 1)",
+  "Ubicación": "Pueblo, quintas y chacras del ejido de San Andrés de Giles",
+  "Linderos": "José Pichetto, José Artola, Isidro y S. Cucullu, P. Nasso, Saraví [?]",
+  "Rasgos": "Cuadrícula urbana, 2 plazas, quintas con dueños, bañados del borde N",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Carpeta 4 = Tomo 50"
+ },
+ "metricas": {
+  "superficie_ha": "— (planta urbana y quintas)",
+  "hitos": "esquinas de manzana, plazas; números de parcela",
+  "aguas": "curso con bañados al N [?]; arroyo de Giles"
+ },
+ "sintesis": "Carpeta N.º 4 de «Referencias de planos», que es el Tomo 50 de San Andrés de Giles. Se fotografiaron la tapa, una papeleta de 1939 que avisa que el tomo volvió sin el plano 6 y otros, el índice de 22 piezas y la pieza 1. El índice reúne la obra pública del pueblo entre c. 1920 y 1943: rectificación del arroyo de Giles, hospital, estación, ensanche y prolongación de Rivadavia y la 25 de Mayo, afirmados, Villa Irlanda, Av. España y loteos (Pérez de Echandi). La pieza 1 es una copia en tela del «Plano del Pueblo y Quintas de San Andrés de Giles, 1884», el de la mensura del ejido de Orlandini (137), con los mismos linderos (Pichetto, Artola, los Cucullu, Nasso). Tiene agregados posteriores: números rojos de manzana y nombres de calles a lápiz.",
+ "caratula": {
+  "img": "img/v/V23/01.jpg",
+  "fuente": "IMG_1212.JPG (pieza 1)",
+  "campos": [
+   [
+    "Carpeta",
+    "N.º 4 = Tomo 50"
+   ],
+   [
+    "Pieza",
+    "1 (lápiz «1»)"
+   ],
+   [
+    "Título",
+    "Plano del Pueblo y Quintas de San Andrés de Giles"
+   ],
+   [
+    "Año",
+    "1884"
+   ],
+   [
+    "Soporte",
+    "tela, pegada sobre papel"
+   ],
+   [
+    "Índice",
+    "22 piezas + 14 bis"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Tapa: «Carpeta N.º 4 · Referencias de planos»",
+   "img": "img/v/V23/02.jpg",
+   "fuente": "IMG_1209.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°: libro encuadernado en media tela roja con tapas jaspeadas; rótulo mecanografiado pegado, girado 90°.]",
+    "CARPETA N.º 4 / Referencias de planos."
+   ],
+   "interpretacion": "Libro en media tela roja con tapas jaspeadas y rótulo mecanografiado: «Carpeta N.º 4 / Referencias de planos». Por el índice es el Tomo 50 de San Andrés de Giles: la misma serie que las Carpetas 1 (Tomo 47, V11), 6 (Tomo 52, V12) y 7 (Tomo 53, V13-V20)."
+  },
+  {
+   "titulo": "Guarda: nota de devolución del tomo (14 de agosto de 1939)",
+   "img": "img/v/V23/03.jpg",
+   "fuente": "IMG_1210.JPG",
+   "nota": "Toma girada 180°; lectura muy dudosa del nombre de quien devuelve.",
+   "lineas": [
+    "[Toma a 0° (el libro está al revés: se lee girado 180°). En la guarda, una papeleta pegada con tinta; debajo, el índice dactilografiado.]",
+    "[Papeleta:] Devuelto por Bonas [?] Cardini [?] sin el plano 6 y del 30 [?] al 36 [?] desaparecido [?] de este tomo. — Agosto 14/939 [rúbrica]",
+    "[Lápiz, al margen:] Partido [?]"
+   ],
+   "interpretacion": "Papeleta pegada en la guarda: el tomo fue «devuelto … sin el plano 6 y del 30 al 36 [?] desaparecido [?] de este tomo», el 14 de agosto de 1939, con una rúbrica. Es una huella del préstamo de los tomos de planos fuera del archivo y de sus pérdidas: el plano 6 del índice es la «Prop. del Dr. Pedro B. Martínez»."
+  },
+  {
+   "titulo": "Índice del Tomo 50: 22 piezas de obra pública y loteos urbanos",
+   "img": "img/v/V23/04.jpg",
+   "fuente": "IMG_1211.JPG",
+   "nota": "Toma a 0°, índice girado 90°.",
+   "lineas": [
+    "[Toma a 0°, índice girado 90°.]",
+    "SAN ANDRÉS DE GILES. TOMO 50",
+    "1 Pueblo y quintas de San Andrés de Giles ........",
+    "2 Proyecto de rectificación del arroyo de Giles ........",
+    "3 Plano del Hospital ........",
+    "4 Proyecto de ensanche calle Rivadavia ........",
+    "5 Manzanas del Pueblo, alrededores del Cementerio viejo ........",
+    "6 Prop. del Dr. Pedro B. Martínez ........",
+    "7 Proyecto: Reparación del puente sobre el Arroyo de Giles ........",
+    "8 Manzanas cuyas referencias envió la Municipalidad ........",
+    "9 Plano de la Estación de Giles. F.C.C.B.A. ........",
+    "10 Proyecto Prolongación Avd. Rivadavia ........",
+    "11 Curva espiral entre progresivas 400.60 y 550.62 camino de San Andrés de Giles a San Antonio de Areco ........",
+    "12 S. A. de Giles - Terreno de A. Molinari. Prolongación Av. 25 de Mayo ........",
+    "13 Estudio realizado en la prolongación de la Avd. 25 de Mayo ........",
+    "14 ″ ″ ″ ″ ″ ........",
+    "14 bis Planilla de puntos fijos de nivelación ........",
+    "15 Proyecto de afirmados acotado ........",
+    "16 Proyecto de división en manzanas de los terrenos de Balbina Pérez de Echandi ........",
+    "17 Villa Irlanda. Cuartel 4 ........",
+    "18 Municipalidad de San Andrés de Giles. Trazado de la Av. España (Ensanche) ........",
+    "19 Proyecto de afirmados en la Avd. Lucas Scully ........",
+    "20 Prop. de Ángela B. de Robaldo y otro ........",
+    "21 Prop. de Ricardo Manuel Echavarri y otros ........",
+    "22 [manuscrito] Prop. de Carlos Ángel Luis Lombardi y Barbieri. Exp. L 55/43 [?]",
+    "[Al pie, a lápiz:] M. G. F. del 9 [?]",
+    "[Una cruz a lápiz junto a la pieza 18.]"
+   ],
+   "interpretacion": "Índice dactilografiado «San Andrés de Giles. Tomo 50», con 22 piezas (más una 14 bis): el pueblo y las quintas (1), la rectificación del arroyo de Giles (2), el Hospital (3), el ensanche de Rivadavia (4), las manzanas junto al cementerio viejo (5), la propiedad del Dr. Pedro B. Martínez (6), el puente sobre el arroyo (7), la estación Giles del F.C.C.B.A. (9), la prolongación de Rivadavia (10), una curva espiral del camino de Giles a San Antonio de Areco (11), la prolongación de la Av. 25 de Mayo (12-14), puntos fijos de nivelación (14 bis), afirmados (15, 19: Av. Lucas Scully), la división en manzanas de Balbina Pérez de Echandi (16), Villa Irlanda, cuartel 4 (17), la Av. España (18), y tres propiedades particulares (20-22, la última agregada a mano: Lombardi y Barbieri, exp. 1943 [?])."
+  },
+  {
+   "titulo": "Pieza 1: «Plano del Pueblo y Quintas de San Andrés de Giles, 1884»",
+   "img": "img/v/V23/01.jpg",
+   "fuente": "IMG_1212.JPG",
+   "nota": "Tela cuarteada y con manchas; pegada sobre papel.",
+   "lineas": [
+    "[Toma a 0°: copia en tela, cuarteada y con manchas de humedad, pegada sobre papel y plegada dentro del tomo. Número «1» a lápiz grande en el ángulo superior derecho.]",
+    "PLANO / del / PUEBLO Y QUINTAS / de / San Andrés de Giles / 1884",
+    "Referencias [la leyenda, ilegible en la toma: cuatro renglones con muestras de línea]",
+    "[Rosa de los vientos; escala gráfica en metros al pie a la izquierda.]",
+    "[Rótulos en letra de molde negra, de los linderos:] José Pichetto [S, dos veces] · José Artola · Isidro Cucullu · P. Nasso · S. Cucullu [E] · Julio [?] Saraví [N, rotulado «Tulio Saravi» [?]]",
+    "[Planta: cuadrícula de manzanas del pueblo con números rojos (1-190 aprox.) y números negros encerrados en círculo; quintas al E con nombres: S. Cucullu, J. Busso [?], B. Larroca [?], J. Pichetto, V. Carbone, José [?], P. Botta, J. Pichetto, N. Gallo, M. Mármol, J. Díaz, entre otros.]",
+    "[A lápiz, en la zona vacía al NE, nombres agregados: «… Guillermo …», «Teófilo Mensay [?]», «Cecilio …», «San Andrés»; en el margen O, nombres de calles: «Moreno [?]», «Urquiza», «Rawson», «Pedro B. Etcheverry», «José Pichetto», «Avenida 25 de Mayo».]"
+   ],
+   "interpretacion": "Copia en tela del plano del pueblo y las quintas que acompaña la mensura del ejido de Domingo F. Orlandini (ficha 137, 1884). Rótulo en letras de fantasía: «Plano del Pueblo y Quintas de San Andrés de Giles 1884», con un cuadro de «Referencias» y una escala gráfica en metros. Lápiz grande «1» (pieza 1 del índice). Los linderos en letra de molde coinciden con 137: José Pichetto al N y al S, José Artola, Isidro Cucullu, P. Nasso y S. Cucullu al E. Sobre la tela se agregaron después números rojos de manzana (1 a ≈ 190) y anotaciones a lápiz."
+  },
+  {
+   "titulo": "Pieza 1: la planta urbana, sector NO",
+   "img": "img/v/V23/05.jpg",
+   "fuente": "IMG_1213.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°.]",
+    "[Stencil:] Julio [?] Saraví [a lo largo del borde, sobre un curso de agua con lagunas o bañados dibujados en negro]",
+    "[Margen O, lápiz:] Moreno [?] · Urquiza · Rawson · Pedro B. Etcheverry · José Pichetto · Avenida 25 de Mayo",
+    "[Margen E, lápiz:] Francia · Rdo. de Irigoyen [?] · Nueve de Julio · San Martín · Rivadavia · Santiago Espil [?] · Maipú · Chacabuco",
+    "[Dentro de la cuadrícula:] J. Pichetto · J. Busso [?] · B. Larroca [?] · V. Cisfero [?] · Domingo Hidalgo [?] · Saavedra [?] · Hospital de Caridad [?] · S. Pucce [?] · dos plazas con diagonales en X · números de manzana en rojo (10-140) y números negros en círculo (15, 19, 39, 50, 61, 69, 76, 100, 101, 102, 116, 118, 120, 123, 124, 135, 141, 142, 144-147, 183-190)"
+   ],
+   "interpretacion": "Cuadrícula regular de manzanas con dos plazas marcadas con diagonales. A lo largo del borde N corre un curso de agua con bañados dibujados en negro y el nombre en esténcil «Julio [?] Saraví». A lápiz, en los dos márgenes, se escribieron después los nombres de las calles (Urquiza, Rawson, Pedro B. Etcheverry, José Pichetto, Av. 25 de Mayo; Francia, Nueve de Julio, San Martín, Rivadavia, Maipú, Chacabuco): el plano de 1884 se usó como plano de trabajo del catastro posterior [?]."
+  },
+  {
+   "titulo": "Pieza 1: quintas y chacras del SE, y el rótulo",
+   "img": "img/v/V23/06.jpg",
+   "fuente": "IMG_1216.JPG",
+   "nota": "IMG_1214, 1215 y 1217 son retomas; no se releen.",
+   "lineas": [
+    "[Retomas: IMG_1214 y 1215 (cuadrícula central, con los nombres a lápiz «… Guillermo …», «Teófilo Mensay [?]», «Cecilio …») e IMG_1217 (ángulo SE con P. Nasso y S. Cucullu). No se releen una por una.]",
+    "[Toma a 0°.]",
+    "[Rótulos de molde:] José Artola · Isidro Cucullu · P. Nasso · José Pichetto [?] · San Andrés de [Giles] / 1884 / Referencias",
+    "[Quintas, de N a S:] V. Carbone · José [?] · N. Gallo · R. Casas · J. Antonorrena [?] · E. Botto · J. Díaz · P. M. Echarren [?] · J. Arévalo [?] · M. Mármol · J. M. Mármol · J. Pichetto · L. Cané [?] · J. Freire [?] · A. Pereira [?] · F. Chairo [?] · J. del Pozo [?] · J. Ormilugue [?] · M. Marmol · R. Freire · V. Ravera [?] · M. Scarano [?]",
+    "[Números negros en círculo (19, 26, 27, 29, 33, 40, 56, 60, 65, 79, 80, 82, 88, 121, 122, 124, 129, 130, 131, 132, 142, 143, 150, 172-175) y anotaciones a lápiz del tipo «404/883 [?]», «1714/1914 [?]» junto a varias quintas; líneas rojas marcan dos ejes que cruzan las quintas.]",
+    "[Lápiz, en la zona vacía:] Nicolás … · Cecilio … · San Andrés"
+   ],
+   "interpretacion": "Las quintas del E del pueblo, con los nombres de los dueños de 1884 (Carbone, Gallo, Casas, Botto, Díaz, Mármol, Pichetto, Cané [?], Freire [?], Pereira [?], Chairo [?], Ormilugue [?]) y las chacras grandes de José Artola, Isidro Cucullu y P. Nasso. Los números negros encerrados en círculo, del 19 al 175, numeran las parcelas [?]; junto a varias quintas hay asientos a lápiz del tipo «404/883» (N.º/año de inscripción [?]). Dos líneas rojas cruzan las quintas: ¿trazas de calles proyectadas [?]."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del Pueblo y Quintas de San Andrés de Giles, 1884 (pieza 1 del Tomo 50)",
+   "img": "img/v/V23/01.jpg",
+   "fuente": "IMG_1212.JPG (detalles en IMG_1213 y IMG_1216)",
+   "orientacion": "rosa de los vientos arriba al centro; el eje del trazado gira unos 16° respecto del N (N 16° 3′ E en 137)",
+   "interpretacion": "La planta urbana es una cuadrícula de manzanas iguales con dos plazas; hacia el E se pasa a quintas de formas irregulares, con el nombre de cada dueño, y luego a las chacras grandes de Artola, los Cucullu y Nasso. El borde N está marcado por un curso de agua con bañados, a nombre de Saraví [?]; el S, por las tierras de José Pichetto. Es la imagen del pueblo en el momento de la mensura del ejido (1884), antes del ensanche del siglo XX. Los números rojos de manzana y los nombres de calles a lápiz muestran que la tela se siguió usando como base del catastro municipal [?].",
+   "referencias": [
+    [
+     "Números rojos",
+     "Numeración de manzanas (1 a ≈ 190), posterior [?]"
+    ],
+    [
+     "Números negros en círculo",
+     "Numeración de parcelas o propietarios [?]"
+    ],
+    [
+     "Manzanas con X",
+     "Plazas"
+    ],
+    [
+     "José Pichetto",
+     "Lindero N y S (137)"
+    ],
+    [
+     "José Artola · Isidro Cucullu · P. Nasso · S. Cucullu",
+     "Chacras al E (137)"
+    ],
+    [
+     "Julio [?] Saraví",
+     "Rótulo sobre el curso de agua del N"
+    ],
+    [
+     "Lápiz: Francia, Nueve de Julio, San Martín, Rivadavia, Maipú, Chacabuco, Urquiza, Rawson, Etcheverry, Pichetto, 25 de Mayo",
+     "Nombres de calles agregados"
+    ],
+    [
+     "«404/883 [?]», «1714/1914 [?]»",
+     "Asientos N.º/año junto a las quintas [?]"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "En 1884 el pueblo ocupa una cuadrícula compacta con dos plazas, rodeada de quintas cercadas con sus casas y de chacras más grandes. El borde N es agua y bañado. Medio siglo más tarde (índice del Tomo 50) el problema es otro: rectificar el arroyo, reparar el puente, abrir avenidas (Rivadavia, 25 de Mayo, España), afirmar calles y lotear las últimas grandes fracciones (Pérez de Echandi, Villa Irlanda)."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "La pieza 1 es una copia calcada en tela, con rótulo en letras de fantasía, cuadro de referencias y escala gráfica. Sobre ella se escribió en rojo y a lápiz, es decir, se usó como plano de trabajo. El índice muestra los nuevos productos técnicos del siglo XX: curvas espirales de transición, planillas de puntos fijos de nivelación, proyectos de afirmados acotados."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "La escala gráfica es en metros. Por 137, el ejido es un cuadrado de 10 392 m (12 000 varas) y el trazado del pueblo gira N 16° 3′ E. No se pudo leer en esta tela ninguna cota."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "La tela fija quién tenía cada quinta en 1884. Los asientos a lápiz de tipo N.º/año remiten al registro de dominio, igual que en el catastro de quintas V17 [?]. La papeleta de 1939 muestra que los planos se prestaban y se perdían: falta el plano 6 (propiedad del Dr. Pedro B. Martínez) y otros."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "137 (Orlandini, 1884): el plano del pueblo y quintas que se agregó a la mensura del ejido; los mismos linderos (Pichetto, Artola, Isidro y Simón Cucullu, Pedro Nasso). 131 y 126: el Dr. Pedro B. Martínez, nieto de Gregorio de la Sota (pieza 6). V05 y 137: el loteo de Balbina Pérez de Echandi (1936; pieza 16). V17: el catastro de quintas y el «cementerio viejo» (pieza 5). V19 y V20: el camino a Mendoza por la 25 de Mayo (piezas 12-14). Villa Irlanda (pieza 17): ver villa_irlanda.md. V11, V12, V13: las otras carpetas (1, 6 y 7) de la misma serie."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Sólo se fotografió la pieza 1; faltan las piezas 2-22 y la 14 bis. Dudas: el nombre en esténcil del borde N («Tulio» o «Julio» Saraví), el significado de los números negros en círculo, la papeleta de 1939 (quién devuelve, qué planos faltan) y el último dígito del año (1884, leído como «188[4]»). ¿La tela es la original de Orlandini o una copia municipal?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Domingo F. Orlandini",
+   "rol": "Agrimensor del ejido (1884)",
+   "texto": "Midió el ejido de San Andrés de Giles en 1884 y levantó el plano del pueblo y quintas (aprobado 26/12/1884).",
+   "fuentes": "Ficha 137; esta tela."
+  },
+  {
+   "nombre": "José Pichetto",
+   "rol": "Lindero",
+   "texto": "Gran propietario al N y al S del pueblo en 1884; su apellido es nombre de calle (V19) y Laura Pichetto de Culligan lotea sus remanentes hacia 1938 (V05, V17).",
+   "fuentes": "Esta tela; 137; V05; V17."
+  },
+  {
+   "nombre": "Dr. Pedro B. Martínez",
+   "rol": "Propietario (pieza 6)",
+   "texto": "Nieto de Gregorio de la Sota, recibió 45,9 ha en la partición de 1883 (131).",
+   "fuentes": "Índice; ficha 131."
+  }
+ ],
+ "titulo": "Municipalidad / Geodesia",
+ "estado": "Transcripta (6 hojas, 50 renglones), 1 lámina"
+}

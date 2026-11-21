@@ -1,0 +1,252 @@
+{
+ "carpeta": "V20",
+ "carpeta_nombre": "Varios V20",
+ "archivo": "Ficha V20 - Camino a Mendoza, tramo Giles-Carmen de Areco (1936).docx",
+ "resumen": {
+  "Documento": "Carpeta N.º 7 (Tomo 53), pieza 18 y otra lámina (17, 19 o 20 [?])",
+  "Propietario / solicitante": "Dirección Nacional de Vialidad",
+  "Autor": "Ing. Taboada (estudio y proyecto); V.º B.º ingeniero jefe Bustamante [?]",
+  "Agrimensor": "Taboada (DNV)",
+  "Año": "Enero de 1936 [?]",
+  "Escala": "1:50 000 (planimetría general); perfil y planimetría de detalle",
+  "Ubicación": "Ruta 7 [?], de San Andrés de Giles (K 38) a Carmen de Areco (K 76,295)",
+  "Linderos": "Sillón, Espil, Méndez, Mulvihill, Kelly, Culleton, Estrugamou, Muñoz Pirán, Saubidet",
+  "Rasgos": "Puentes sobre el arroyo de Giles (Pr. 41 486) y el río de Areco; terraplén 12 m",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Tomo 53 pieza 18 y otra"
+ },
+ "metricas": {
+  "superficie_ha": "— (obra lineal; traza de ≈ 38 km)",
+  "hitos": "progresivas, kilómetros, puentes, alcantarillas, estacas",
+  "aguas": "arroyo de Giles, río de Areco, arroyo de la Guardia [?]"
+ },
+ "sintesis": "Dos láminas en cianotipo del proyecto de la Dirección Nacional de Vialidad para el camino de la Capital Federal a Mendoza (ruta 7), tramo San Andrés de Giles-Carmen de Areco, con estudio y proyecto de Taboada, enero de 1936 [?]. La pieza 18 del Tomo 53 (lápiz «18») es la planimetría general 1:50 000. Sale del camino pavimentado a Luján en el K 38, deja el pueblo al S y corre recta al NO hasta el K 76,295, frente al ejido de Carmen de Areco. Corta una treintena de campos con sus linderos y reemplaza el camino viejo junto a la vía. La otra lámina da el perfil y la planimetría del K 39-42, con el puente sobre el arroyo de Giles. Continúa V12 (tramo Luján-Giles, 1933) y completa V19.",
+ "caratula": {
+  "img": "img/v/V20/01.jpg",
+  "fuente": "IMG_1193.JPG (pieza 18)",
+  "campos": [
+   [
+    "Organismo",
+    "Dirección Nacional de Vialidad"
+   ],
+   [
+    "Camino",
+    "de Cap. Federal a Mendoza"
+   ],
+   [
+    "Tramo",
+    "San Andrés de Giles - Carmen de Areco"
+   ],
+   [
+    "Ruta",
+    "N.º 7 [?]"
+   ],
+   [
+    "Estudio y proyecto",
+    "Taboada"
+   ],
+   [
+    "Fecha",
+    "B. Aires, enero de 1936 [?]"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Pieza 18: planimetría general, desde San Andrés de Giles",
+   "img": "img/v/V20/04.jpg",
+   "fuente": "IMG_1189.JPG",
+   "nota": "Cianotipo cosido al tomo; toma a 0°.",
+   "lineas": [
+    "[Toma a 0°: copia cianotípica (líneas blancas sobre fondo azul), plegada en acordeón y cosida al tomo por el borde izquierdo. Extremo izquierdo de la lámina; la planimetría sigue en IMG_1190-1191 y termina en IMG_1193.]",
+    "[Planta urbana con su cuadrícula de manzanas y quintas al NO:] SAN ANDRÉS / DE GILES · Est. Giles · F.C.C.G.B.A. [?] [vía al S de la planta, que sigue al O con el rótulo «a Carmen de Areco»; más adelante «Pan K 108» [?]]",
+    "[Camino de entrada desde el E:] Camino a Luján Pav.do [?] · K 38 · K 40 · M.M. [?] [línea doble que sale al N desde la planta, con marcas transversales]",
+    "[Arroyo:] Arroyo Giles [corre de N a S al O de la planta, con un afluente]",
+    "[Traza proyectada, al NO de la planta, con kilómetros y linderos:] K 40 · K 43 · Juan Sillón · Juana V. de Espil · Suc. Baya [?] · José M. Méndez · K 45 · D. Vda. de Busso · Ernesto Spalla [?] · José Mecchi [?] · Suc. Blanco · K 50 · Suc. Cane [?] · Elena Vda. de Mulvihill [?] · Brígida Vda. de Kelly · Juan Aguilar · Ana [?] Culleton · K 53 · Suc. Cambiaso [?]",
+    "[Las líneas transversales de trazo y punto marcan los deslindes que corta el camino.]"
+   ],
+   "interpretacion": "Extremo E de la «Planimetría general» 1:50 000 del camino de la Capital Federal a Mendoza. Arranca en el «Camino a Luján pav.do» (el tramo de V12) a la altura del K 38-40 y deja la planta de San Andrés de Giles al S. Desde allí la traza nueva corre al NO, recta, con kilómetros cada 5 (K 43, 45, 50, 53) y los deslindes que corta en trazo y punto: Juan Sillón, Juana V. de Espil, José M. Méndez, Vda. de Busso, Spalla [?], Mecchi [?], Suc. Blanco, Elena Vda. de Mulvihill [?], Brígida Vda. de Kelly, Juan Aguilar, Culleton. La vía del F.C.C.G.B.A. [?] sale de la estación Giles «a Carmen de Areco» más al S, casi paralela."
+  },
+  {
+   "titulo": "Pieza 18: el tramo central y la llegada a Carmen de Areco",
+   "img": "img/v/V20/02.jpg",
+   "fuente": "IMG_1191.JPG",
+   "nota": "IMG_1190 y 1192 son retomas; no se releen.",
+   "lineas": [
+    "[Retomas: IMG_1190 solapa 1189 y 1191; IMG_1192 repite 1191 y 1193. No se releen.]",
+    "[Toma a 0°.]",
+    "PLANIMETRÍA GENERAL / ESC. 1:50000",
+    "[Traza y linderos, de E a O:] … Juan · Aguilar · Ana [?] Culleton · K 55 · Suc. Cambiaso [?] · Saturnino Unzué [?] · Camino a Mercedes · Ángel Agnetti [?] · Gregorio Maisterra [?] · K 60 · Suc. E. Piñeyro · K 65 · A. Zerboni Vda. de Pitte [?] · Isabel R. Fagan [?] · D. Alberto Iriberry [?] · Camino a Estrugamou [?] («Camino a Est. Gouin» [?]) · A. Zerboni · K 70 · Vda. de Pitte [?] · Alejandro Estrugamou · K 75 · R. Muñoz Pirán · 76295 [progresiva de llegada]",
+    "[Vía:] F.C.C.G.B.A. [?] · Est. Heavy · Cam. exist. a S. A. Giles [camino existente que corre junto a la vía]",
+    "[Junto al ejido de Carmen de Areco:] PUENTE (a construir) · Variante a considerarse de acuerdo al acta de cesión del propietario R. Muñoz Pirán [?] [trazo de rayas entre K 75 y el puente]",
+    "Perfil longitudinal y planimetría ver planos sección C. Areco-Chacabuco P. 0,00 a P. 1639 [?]"
+   ],
+   "interpretacion": "Sigue la traza hasta el K 76,295, a la entrada del ejido de Carmen de Areco. Cruza el camino a Mercedes y el «Camino a Estrugamou [?]»; linderos Unzué [?], Agnetti [?], Maisterra [?], Suc. E. Piñeyro, A. Zerboni Vda. de Pitte [?], Isabel R. Fagan [?], Alberto Iriberry [?], Alejandro Estrugamou y R. Muñoz Pirán. Junto a la vía y la estación Heavy queda el «camino existente a S. A. Giles», al que el nuevo reemplaza. Antes del puente «a construir» sobre el río de Areco hay una «variante a considerarse de acuerdo al acta de cesión del propietario R. Muñoz Pirán»: la traza se negocia con los dueños."
+  },
+  {
+   "titulo": "Pieza 18: rótulo de Vialidad Nacional y el ejido de Carmen de Areco",
+   "img": "img/v/V20/01.jpg",
+   "fuente": "IMG_1193.JPG",
+   "nota": "Toma a 0°. El año se lee 1936 [?] (el último dígito está tapado por el pliegue).",
+   "lineas": [
+    "[Toma a 0°.]",
+    "[Rótulo, arriba a la derecha:] PLANO U-89 [?] · LÁMINA 1A [?] / DIRECCIÓN NACIONAL DE VIALIDAD / Camino de Cap. Federal a Mendoza / Tramo: San Andrés de Giles - Carmen de Areco. / Prov. o Territ.: Prov. de Buenos Aires / Ruta N.º 7 [?] [se lee «II» o «7»] / Estudio: Taboada · Proyecto: Taboada · V.º B.º: [dos firmas ilegibles] / B. Aires, enero de 1936 [?] / [firma] … Bustamante [?] / P. [?] Ingeniero Jefe",
+    "[Lápiz negro grande, bajo el rótulo:] 18",
+    "[Planta:] EJIDO DE CARMEN DE ARECO · PLANTA URBANA CARMEN DE ARECO · Río de Areco · Arroyo [?] de la Guardia [?] · a Chivilcoy · Camino a Chacabuco [dos veces] · Camino a Estrugamou [?] · Puente (a construir) · 76295",
+    "[Al pie, a la derecha, vertical:] [sello del fabricante de la tela heliográfica, ilegible]"
+   ],
+   "interpretacion": "Rótulo: Dirección Nacional de Vialidad, «Camino de Cap. Federal a Mendoza, Tramo: San Andrés de Giles - Carmen de Areco», Prov. de Buenos Aires, Ruta N.º 7 [?], estudio y proyecto de Taboada, B. Aires, enero de 1936 [?], V.º B.º del ingeniero jefe (… Bustamante [?]). A lápiz negro, «18»: es la pieza 18 del índice del Tomo 53 (V13). La planta de Carmen de Areco (planta urbana cuadrada, ejido en abanico entre el río de Areco y el camino a Chacabuco, salida «a Chivilcoy») muestra dónde termina el tramo; el perfil sigue en la «sección C. Areco-Chacabuco»."
+  },
+  {
+   "titulo": "Pieza 17, 19 o 20 [?]: perfil longitudinal y planimetría K 39-42, el cruce del arroyo de Giles",
+   "img": "img/v/V20/03.jpg",
+   "fuente": "IMG_1194.JPG",
+   "nota": "Toma a 0°; el número de pieza no se ve.",
+   "lineas": [
+    "[Toma a 0°: otra lámina en cianotipo, apaisada, plegada; sin rótulo visible en la toma. Arriba el perfil longitudinal con la rasante; en medio las tablas de cotas y distancias; abajo la planimetría de la traza a escala mayor.]",
+    "[Perfil:] P. 41418 · P. 41600 · «Corresponde al proyecto de puente sobre el Arroyo Giles Pr. 41486» · K 41 · K 42 · K 43 [?] [kilómetros en círculos] · alcantarillas [círculos sobre la línea de tierra] · cotas entre paréntesis (78,18) (76,66) (74,14) (73,09) (75,64) (76,84) …",
+    "[Fajas de obra:] Terraplén 12 m · Abovedamiento 12 m · Extracción lateral · 50 % Extr. lat. 50 % desde 500 m",
+    "[Planimetría:] Ejido de San Andrés de Giles · Avenida 25 de Mayo · a Mercedes · … Saubidet · Francisco … [?] · Genaro [?] · Schittino [?] · Sud. Juan … [?] · Ferreyra [?] · Bautista Gastaldi · Juana Vda. de Lonini [?] · Pedro Saubidet · Arroyo Giles · Juan Sillón [dos veces] · Camino a Areco [?] de 30 m",
+    "[Notas de obra junto a la traza:] Pr. 39996 Const. al. lat. 0,508 · Z = 1 m ac. 8 m [alcantarillas laterales de 0,508 m de diámetro]"
+   ],
+   "interpretacion": "Otra lámina del mismo proyecto, sin rótulo visible en la toma. Arriba, el perfil longitudinal con la rasante proyectada sobre la línea del terreno; en medio, la tabla de cotas; abajo, la planimetría de detalle entre el ejido de San Andrés de Giles (Av. 25 de Mayo) y el «camino a Areco [?] de 30 m». El bajo del arroyo de Giles, en la Pr. 41 486, «corresponde al proyecto de puente». Fajas de obra: terraplén de 12 m, abovedamiento de 12 m y tierra por extracción lateral (a partir de 500 m, la mitad). Alcantarillas laterales de 0,508 y 0,758 m en las entradas de los campos. Linderos: Pedro Saubidet, Bautista Gastaldi, Juana Vda. de Lonini [?], Juan Sillón, Schittino [?], Ferreyra [?]."
+  },
+  {
+   "titulo": "Detalle del perfil junto al arroyo de Giles",
+   "img": "img/v/V20/05.jpg",
+   "fuente": "IMG_1195.JPG",
+   "nota": "Toma girada; se lee con la lámina de costado.",
+   "lineas": [
+    "[Toma a 90° (lámina girada): detalle de IMG_1194, K 40,8-42,1.]",
+    "[Planimetría:] de la calle Rivadavia [?] · Pr. 40912 Const. alc. lat. 0,508 Z = 1 m ac. 8 m · Pr. 40914 Const. alc. lat. 0,508 Z = 1 m ac. 8 m · Pr. 40790 Const. alc. lat. 0,508 Z = 1 m ac. 12 m · A F.C. Rosario [?] · Pedro Saubidet · Bautista Gastaldi · Juana Vda. de Lonini [?] · E.M. [estaca o mojón] · Tiro Federal · Arroyo Giles · Juan Sillón · Pr. 41642 Const. alc. lat. 0,758 Z = 1 m ac. 6 m · Pr. 41682 Const. alc. lat. 0,508 Z = 1 m ac. 6 m",
+    "[Curva:] Δ = 137° 52' [?] · Δa = 42° 08' [?] · R = 200 m · T = 77 m [?] · D = 157 m [?] · E = 0,67 m [?] · P = 0,80 m [?]",
+    "[Perfil, columnas (pendiente, cota de rasante, cota de terreno, distancia parcial):] 0,43 78,32 77,89 790 · 0,30 78,30 78,00 828 · 0,35 78,03 77,68 012 · 0,29 77,47 · 0,36 77,72 77,36 6 · 0,30 77,28 76,98 112 · 0,30 76,96 76,66 142 · 0,56 75,92 75,36 250 · 0,56 75,30 74,74 314 · 0,98 » 74,32 418 · 0,86 » 74,42 576 · 0,53 75,30 74,77 600 · 0,46 76,10 75,64 662 · 0,30 77,14 76,84 742 · 0,22 77,61 77,39 840 · 0,22 78,06 77,84 934 · 0,30 78,33 78,03 990 · 0,32 78,50 78,18 36",
+    "[Rótulos de faja:] Abovedamiento 12 m · Extracción lateral · Terraplén 12 m · 50 % Extr. lat. 50 % desde 500 m · Corresponde al proyecto de puente sobre el Arroyo Giles Pr. 41486 · P. 41418 · P. 41600"
+   ],
+   "interpretacion": "Lámina girada 90° en la toma. Columnas de pendiente, cota de rasante y cota de terreno: la diferencia entre rasante y terreno da la altura del terraplén (0,22 a 0,98 m; verificado en python en nueve renglones). La rasante baja de 78,50 a 74,32 m en el arroyo. Junto al cruce, el «Tiro Federal» y una curva de R = 200 m. Es el paso del camino a Mendoza por el borde O del pueblo."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Planimetría general 1:50 000, tramo central (pieza 18)",
+   "img": "img/v/V20/02.jpg",
+   "fuente": "IMG_1191.JPG (extremos en IMG_1189 y IMG_1193)",
+   "orientacion": "sin flecha visible; el pueblo de Giles queda a la derecha (E) y Carmen de Areco a la izquierda (O) de la lámina desplegada [?]",
+   "interpretacion": "La traza es una recta larga con pocos quiebres. Se apoya en los kilómetros (K 40 a K 75) y en las progresivas, y deja anotados sólo los deslindes que corta y los nombres de los linderos. La vía del ferrocarril a Carmen de Areco, con la estación Heavy, corre al S casi paralela, y a su lado el «camino existente a S. A. Giles». El proyecto no sigue el camino viejo: abre un corredor nuevo por medio de los campos, que se obtiene por cesión de los propietarios («acta de cesión» de Muñoz Pirán). Llega a Carmen de Areco por un puente a construir sobre el río.",
+   "referencias": [
+    [
+     "K 38 · K 40 … K 75",
+     "Kilómetros del camino desde la Capital"
+    ],
+    [
+     "76 295",
+     "Progresiva de llegada al ejido de Carmen de Areco"
+    ],
+    [
+     "Trazo y punto",
+     "Deslindes de los campos atravesados"
+    ],
+    [
+     "F.C.C.G.B.A. [?] · Est. Heavy",
+     "Ferrocarril a Carmen de Areco"
+    ],
+    [
+     "Cam. exist. a S. A. Giles",
+     "Camino viejo, junto a la vía"
+    ],
+    [
+     "Puente (a construir)",
+     "Sobre el río de Areco"
+    ],
+    [
+     "Variante",
+     "Según el acta de cesión de R. Muñoz Pirán"
+    ],
+    [
+     "Camino a Mercedes · a Estrugamou [?] · a Chacabuco · a Chivilcoy",
+     "Caminos cruzados"
+    ]
+   ]
+  },
+  {
+   "titulo": "Perfil longitudinal y planimetría K 39-42: el cruce del arroyo de Giles",
+   "img": "img/v/V20/03.jpg",
+   "fuente": "IMG_1194.JPG (detalle en IMG_1195)",
+   "orientacion": "perfil con la progresiva creciente hacia la derecha",
+   "interpretacion": "Lámina de obra: el perfil compara la rasante proyectada con el terreno natural y fija la altura del terraplén en cada estaca; el bajo del arroyo de Giles (cota de terreno ≈ 72,9 m [?]) exige el puente de la Pr. 41 486. La planimetría dibuja la faja del camino con las alcantarillas laterales de cada entrada a los campos y la curva de R = 200 m junto al Tiro Federal, en el borde del ejido.",
+   "referencias": [
+    [
+     "Terraplén 12 m · Abovedamiento 12 m",
+     "Perfil tipo de la calzada"
+    ],
+    [
+     "Extracción lateral",
+     "Tierra sacada de los costados (préstamos)"
+    ],
+    [
+     "Pr. 41 486",
+     "Puente sobre el arroyo de Giles"
+    ],
+    [
+     "Const. alc. lat. 0,508",
+     "Alcantarilla lateral de 0,508 m (20 pulgadas)"
+    ],
+    [
+     "Z = 1 m ac. 8 m",
+     "Cabecera y largo de la alcantarilla [?]"
+    ],
+    [
+     "E.M.",
+     "Estaca o mojón [?]"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "Entre Giles y Carmen de Areco el camino atraviesa un campo ya alambrado y subdividido: cada pocos cientos de metros corta un deslinde. Los únicos accidentes son el arroyo de Giles (con el bajo que obliga a un terraplén y a un puente), el río de Areco y alguna cañada. El paisaje del proyecto es el de la llanura agrícola de entreguerras, con estaciones de ferrocarril (Giles, Heavy) y caminos de tierra a Mercedes, Chacabuco y Chivilcoy."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Estudio vial completo: planimetría general a 1:50 000, perfil longitudinal con cotas de rasante y terreno, planimetría de detalle con progresivas en metros, curvas con sus elementos (Δ, R, T, D, E) y alcantarillas tipo. Copias cianotípicas de oficina. La cota de terraplén es rasante menos terreno: el cálculo se verificó en nueve renglones del perfil."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todo en sistema métrico: progresivas desde la Capital (K 76,295 en Carmen de Areco), anchos de 12 y 30 m, diámetros de alcantarilla de 0,508 y 0,758 m (20 y 30 pulgadas, medidas inglesas de los caños)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "El camino se abre con cesiones de los propietarios: la «variante» de Muñoz Pirán depende de su acta de cesión. Los linderos anotados son la foto de la propiedad de c. 1935 a lo largo de la ruta: sucesiones irlandesas (Mulvihill, Kelly, Culleton), vascas y criollas (Estrugamou, Iriberry, Unzué [?]) e italianas (Zerboni, Agnetti, Spalla, Mecchi)."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "V12 (Tomo 52, Vialidad Nacional, nov. 1933, Taboada): tramo Luján-Giles K 28-43, que este tramo continúa desde el K 38-40. V19 (pieza 16): el paso urbano con la avenida de 30 m «Camino a Mendoza». V15: el «campo de Sillón» rematado en 1939 sobre la ruta 7; Juan Sillón es lindero aquí. 137: el ejido de Giles de 1884, cuyo borde O cruza el camino. Mulvihill, Kelly y Culleton aparecen como linderos en fichas del siglo XIX (170, villa_irlanda). V21: José M. Méndez y Lucio Méndez y Álvarez («La Vanguardia») sobre la ruta 7."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Faltan las piezas 17, 19 y 20 o una de ellas es IMG_1194 (sin rótulo visible). Dudas: el año (1936 [?]), el número de ruta escrito («II» o «7»), el número de plano «U-89 [?]» y la lámina «1A [?]», el firmante Bustamante [?] y la sigla del ferrocarril (F.C.C.G.B.A. [?] o F.C.C.B.A.). Conviene georreferenciar la traza con el K 38-40 y la ruta 7 actual."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Ing. Taboada",
+   "rol": "Estudio y proyecto (dnv)",
+   "texto": "Ingeniero de la Dirección Nacional de Vialidad (creada por la ley 11 658 de 1932). Proyectó también el tramo Luján-Giles en 1933 (V12). Nombre de pila no leído.",
+   "fuentes": "Este plano; V12."
+  },
+  {
+   "nombre": "R. Muñoz Pirán",
+   "rol": "Propietario que cede la tierra",
+   "texto": "Dueño del último campo antes de Carmen de Areco; la traza final depende de su acta de cesión. Sin otros datos.",
+   "fuentes": "Este plano."
+  },
+  {
+   "nombre": "Juan Sillón, Juana V. de Espil, José M. Méndez",
+   "rol": "Linderos junto a giles",
+   "texto": "Sillón tiene campo a ambos lados del arroyo de Giles; en 1939 se remata el «campo de Sillón» en 50 chacras (V15). Los Espil dan nombre a Villa Espil (V21).",
+   "fuentes": "Este plano; V15; V21."
+  }
+ ],
+ "titulo": "Dirección Nacional de Vialidad",
+ "estado": "Transcripta (5 hojas, 28 renglones), 2 láminas"
+}

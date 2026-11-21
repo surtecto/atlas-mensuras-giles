@@ -1,0 +1,299 @@
+{
+ "carpeta": "V16",
+ "carpeta_nombre": "Varios V16",
+ "archivo": "Ficha V16 - Carpeta 7, piezas 6-9 (1928-1938).docx",
+ "resumen": {
+  "Documento": "Carpeta N.º 7 (Tomo 53), piezas 6-9: planos de particulares",
+  "Propietario / solicitante": "Whelan y O’Donnell; Rodríguez; Chotro",
+  "Autor": "Óscar C. Tapia [?] (6); firmas ante juez de paz [?] (7, 9); ilegible (8)",
+  "Agrimensor": "Tapia [?], San Antonio de Areco, Ley 4048 (pieza 6)",
+  "Año": "1928 [?] (7); 1928 (9); dic. 1937 (8); 29/8/1938 (6)",
+  "Escala": "1:10 000 (pieza 8); las demás sin escala",
+  "Ubicación": "Cuartel 5.º (6); camino a Solís y a Pilar (8); pueblo de Giles (7, 9)",
+  "Linderos": "J. O’Donnell, T. Kelly, J. J. Figueroa; T. Barber, B. e I. Scully, Cufré, Ricciardi",
+  "Rasgos": "Faltante de 24 ha sobre título (6); tres lotes iguales (8); lotes de pueblo",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Tomo 53 piezas 6-9"
+ },
+ "metricas": {
+  "superficie_ha": "401,1024 (Whelan) · 161,4990 (Chotro) · 1936 m² (Rodríguez) · 7499,56 m² (Videla)",
+  "hitos": "vértices M, B, C, H y A-D (6); A-J (8)",
+  "aguas": "arroyo sin nombre en el costado SO (pieza 6)"
+ },
+ "sintesis": "Piezas 6 a 9 de la Carpeta N.º 7 (Tomo 53), que siguen el orden de su índice (V13). La 6 es el plano de la sucesión de Patricio Whelan (1938): 401,10 ha medidas contra 425,23 de título, repartidas entre una fracción vendida a Juan O’Donnell, tres lotes y una faja ya en manos de otro dueño. La 7 y la 9 son croquis de venta de lotes de pueblo de 1928, firmados por las partes «ante mí». La 8 es el cianotipo de la división de la sucesión de Dominga Hasquet de Chotro (1937) en tres lotes iguales de 53,83 ha entre los caminos a Solís y a Pilar, lindero de los Barber y los Scully.",
+ "caratula": {
+  "img": "img/v/V16/01.jpg",
+  "fuente": "IMG_1158.JPG (pieza 6)",
+  "campos": [
+   [
+    "Carpeta",
+    "N.º 7, Planos varios (Tomo 53)"
+   ],
+   [
+    "Pieza 6",
+    "Whelan y O’Donnell, 401 ha, 29/8/1938"
+   ],
+   [
+    "Pieza 7",
+    "venta a Atencio Rodríguez, 968 m², 1928 [?]"
+   ],
+   [
+    "Pieza 8",
+    "suc. Hasquet de Chotro, 161 ha, dic. 1937"
+   ],
+   [
+    "Pieza 9",
+    "Juan de Dios Videla, manzana del pueblo, 1928"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Pieza 6: campo de los Whelan y O’Donnell (Tapia [?], 1938)",
+   "img": "img/v/V16/01.jpg",
+   "fuente": "IMG_1158.JPG",
+   "nota": "Toma a 0°; nombre del agrimensor y algunos números con [?]. Corresponde a la pieza 6 del índice del Tomo 53, «Fracción de prop. de don Juan O’Donnel».",
+   "lineas": [
+    "[Toma a 0°: hoja de papel ocre (copia heliográfica sepia [?]) pegada en un libro, a la derecha; el lomo y el borde izquierdo del libro asoman a la izquierda. Pliegues en cruz.]",
+    "[Encabezado, a mano, subrayado:] En cuartel 5.º de San Andrés de Giles — Propiedad de",
+    "[Rótulo en letras de fantasía, con sombra:] PATRICIO EDUARDO, DOMINGO, / FRANCISCO GREGORIO Y / VIRGINIA MARÍA ELENA / WHELAN Y O’DONNELL",
+    "Superficie ABCD .... 27 Hs 60 a 10 c",
+    "Superficie s/título .... 31 [?] Hs 78 [?] a 16 [?] c",
+    "[Recuadro a la izquierda:] Dominio inscripto en Mercedes el 3 de Agosto / de 913 N.º 2590 [?] del Partido de San Andrés / de Giles.",
+    "[Rótulos del plano:] Herederos de Juan O’Donnell [lindero N] · 2492 [?] m · 1896 m · Fracción vendida a Juan O’Donnell 55 Hs 68 a 42 c · 1831 m [?] · ② 100 Hs · 1516 m · ③ 123 Hs 55 a 02 c · ① 94 Hs 26 a 70 c · 1628 m · 586 [?] · 596 m",
+    "[Lote angosto al E:] A · B · C · D · 1716 m · 1712,50 [?] · 27 Hs 60 a 10 c · Patricio, Francisco y Virginia Whelan O’Donnell / hoy Victoriano Altaparro [?]",
+    "[Costado SO, curso de agua sinuoso con mojones; leyendas a lo largo:] Juan O’Donnell · 1009 m · Tomás Kelly · 411 m [?] · 244 m · 43° 50′ · 698 m · M [vértice NO, en el arroyo] · H [vértice S]",
+    "[Al S:] Herederos de Juan José Figueroa · 678 m [?] · 169 m [?]",
+    "[Cuadro:] Sucesión Patricio Whelan",
+    "MBCH",
+    "venta a Juan O’Donnell .... = 55 Hs 68 a 42 c",
+    "1 .... = 94 Hs 26 a 70 c",
+    "2 .... = 100 Hs 00 a 00 c",
+    "3 .... = 123 Hs 55 a 02 c",
+    "lote ABCD .... = 27 Hs 60 a 10 c",
+    "Superficie total s/mensura .... = 401 Hs 10 a 24 c",
+    "según título .... = 425 Hs 22 a 50 c",
+    "faltan .... = 24 Hs 12 a 26 c",
+    "[Al pie, a la derecha, subrayado:] San Antonio de Areco Agosto 29 de 1938",
+    "[Firma:] Óscar C. Tapia [?]",
+    "Ley 4048 N.º 891 [?] Patente 00988 [?]",
+    "[Sello rectangular borroso, ilegible.]",
+    "[Nota a lápiz, al pie a la izquierda:] 1-12-938 Agregó plano y / planilla a la inscripción / 4570 [?] - 913 Mercedes. [firma ilegible: ¿Iriarte?]",
+    "[Margen superior derecho, sello rojo invertido:] 50 [el mismo sello que en IMG_1159]"
+   ],
+   "interpretacion": "Plano a tinta coloreada sobre papel, pegado en el tomo, con un rótulo de letras de fantasía: «Propiedad de Patricio Eduardo, Domingo, Francisco Gregorio y Virginia María Elena Whelan y O’Donnell», en el cuartel 5.º. Es la cuenta de la sucesión de Patricio Whelan (polígono MBCH): fracción vendida a Juan O’Donnell 55,6842 ha; lotes 1 (94,2670), 2 (100,0000) y 3 (123,5502 ha); y el lote ABCD (27,6010 ha), angosto, al E, que hoy es de «Victoriano Altaparro [?]». Suman 401,1024 ha por mensura frente a 425,2250 por título: «faltan» 24,1226 ha (5,7 %) (verificado). El costado SO es un arroyo (sin nombre en el plano) con los linderos Juan O’Donnell y Tomás Kelly; al N, herederos de Juan O’Donnell; al S, herederos de Juan José Figueroa. Firmado en San Antonio de Areco el 29/8/1938, con matrícula de la Ley 4048. Nota a lápiz del 1/12/1938: se agregó el plano a la inscripción 4570 [?]-913 de Mercedes, la misma del dominio de 1913."
+  },
+  {
+   "titulo": "Pieza 7: venta del lote 9 a Atencio Rodríguez (1928 [?])",
+   "img": "img/v/V16/03.jpg",
+   "fuente": "IMG_1159.JPG",
+   "nota": "Se lee girado 90°; apellido del vendedor y año con [?]. Pieza 7 del índice, «Prop. de don Atencio Rodríguez».",
+   "lineas": [
+    "[Toma a 0°: libro abierto; la hoja superior está doblada hacia arriba y deja ver un croquis a tinta sobre tela (calco) pegado sobre papel; se lee girado 90° horario. Debajo asoman otras hojas; en una se lee a lápiz «Pueblo de San …».]",
+    "[Título, a lo largo del margen:] San Andrés de Giles",
+    "[Rótulos:] Manzana 25 · Calle · Manzana 24 [?] · Calle",
+    "Lote 9 / Sup. 968 mt² / Vendido a Atencio [?] Rodríguez · 44 mt · 22 mt · 22 mt",
+    "Lote 7 [?] / Reservado por Pedro Chardet [?] / Sup. 968 mt² · 44 mt · 22 mt · 22 mt",
+    "Lote h [?] [al O] · Lote d · Lote e [al S] · flecha de norte [?] en la esquina",
+    "Firma del vendedor Pedro Chardet [?]",
+    "Firma del comprador Atencio [?] Rodríguez",
+    "San Andrés de Giles Mayo 28 de 1928 [?]",
+    "Ante mí: [firma ilegible: ¿Uriarte?]",
+    "[Sello rojo, arriba a la derecha:] 50 / H. … [ilegible]",
+    "[Sello circular violeta a la derecha, ilegible (juzgado de paz [?]).]",
+    "[A lápiz azul, en el papel de soporte:] 8"
+   ],
+   "interpretacion": "Croquis a tinta sobre tela pegado en una hoja del tomo: dos lotes de 22 × 44 m (968 m² cada uno, verificado) en una esquina entre las manzanas 24 [?] y 25 del pueblo. El lote 9 se vende a Atencio Rodríguez; el 7 [?] lo «reserva» el vendedor, Pedro Chardet [?]. Firman vendedor y comprador en San Andrés de Giles el 28 de mayo de 1928 [?], «ante mí» un funcionario (juez de paz [?]), con sello violeta. Sello rojo «50» y lápiz azul «8» en el soporte."
+  },
+  {
+   "titulo": "Pieza 8: división de la sucesión de Dominga Hasquet de Chotro (dic. 1937)",
+   "img": "img/v/V16/02.jpg",
+   "fuente": "IMG_1160.JPG",
+   "nota": "Toma a 0°; quedó fuera del encuadre la franja izquierda con la nota de dominio y el lugar de la firma.",
+   "lineas": [
+    "[Toma a 0°: cianotipo (líneas blancas sobre fondo azul), doblado en cuatro, sostenido con la mano; queda fuera del encuadre la franja izquierda (rosa de los vientos y nota de dominio, cortadas). Arriba asoma el borde de otra hoja con «… Pueblo de S…» a lápiz.]",
+    "[Título, entre filetes y flechas decorativas:] SAN A. de GILES / Sucesión / de / DOÑA DOMINGA HASQUET de CHOTRO / SUP. ABCDEF = 161 H 49 A 90 Ca",
+    "[Rosa de los vientos con flecha larga de N hacia abajo a la izquierda (corte).]",
+    "[Nota de dominio, cortada:] …o: / …, Febrero 8 de 1902 / … Folio 66 V.ta",
+    "[Camino en el costado O:] → á Solís · → á S. A. de Giles",
+    "[Camino en diagonal al NE:] → á Pilar",
+    "[Linderos:] Tomás Barber [N] · Brígida, Isabel, Tomás Barber [NO, entre el campo y el camino a Pilar] · Brígida e Isabel Scully [O, al otro lado del camino a Solís] · Juan Ricciardi [S] · Fortunato Cufré [S] · Juan Chotro [E, fuera del deslinde]",
+    "[Lados:] AB = 1372,10 m (678,10 + 286,00 + 408,– m) · BC = 1317,90 m · DC = 814,40 m (406,40 + HC = 408,– m) · ED = 554,55 m · FE = 806,10 m (689,30 + 116,80 m) · FA = 847,60 m · JI = 812,17 m · GH = 1320,98 m · GB = 408,– m",
+    "[Ángulos:] A 107° 00′ · F 70° 11′ [?] · I 109° 5… [?] · E 272° · D 90° 12′ · J 107° 00′ [?] · B 90° 13′ [?]",
+    "① Catalina Chotro y Hasquet / Sup. = 53 H 83 A 30 Ca",
+    "② Juan Chotro y Hasquet / Sup. = 53 H 83 A 30 Ca",
+    "③ Dominga Chotro de Tejo / Sup. = 53 H 83 A 30 Ca",
+    "[En el lote 1, junto a J: dibujo de una población (casa con monte o quinta [?]).]",
+    "[Al pie, cortado:] …s, Diciembre de 1937 / [firma ilegible: ¿Hammond? ¿Hamuel?]",
+    "Escala 1:10.000",
+    "N.º 457"
+   ],
+   "interpretacion": "Cianotipo decorado, 1:10 000: el campo ABCDEF de 161,4990 ha entre el camino a Solís y el camino a Pilar, dividido en tres lotes iguales de 53,8330 ha para los hijos Catalina Chotro y Hasquet (1), Juan Chotro y Hasquet (2) y Dominga Chotro de Tejo (3). Los lados suman bien (AB = 678,10 + 286 + 408 = 1372,10 m; DC = 406,40 + 408 = 814,40; FE = 689,30 + 116,80 = 806,10). Linderos: Tomás Barber (N), Brígida, Isabel y Tomás Barber (NO), Brígida e Isabel Scully (O), Juan Ricciardi y Fortunato Cufré (S) y Juan Chotro (E). En el lote 1 hay una población. Dominio de febrero de 1902, folio 66 vta. Firma ilegible, diciembre de 1937, N.º 457."
+  },
+  {
+   "titulo": "Pieza 9: venta de Juan de Dios Videla (agosto 1928)",
+   "img": "img/v/V16/04.jpg",
+   "fuente": "IMG_1161.JPG",
+   "nota": "Toma a 0°; varios apellidos con [?].",
+   "lineas": [
+    "[Toma a 0°: libro abierto; en la página derecha, croquis a tinta sobre papel de calco amarillento, sostenido con la mano. Pliegue vertical a la derecha.]",
+    "[Encabezado, a mano, en parte borrado:] … en el Pueblo de San Andrés de Giles",
+    "59/423 [?] Superficie 7.499,56 mts²",
+    "[Linderos y calles:] Sucesores de José Lofrano [?] [N] · Calle [N] · Calle [O] · Sucesores de Sabina [?] Figueroa de Almeida [?] [O] · Calle Rawson [?] [E] · Manzana [?] [E] · Calle Francia [S] · Antonio Di Colocchi [?] [S] · flecha [al E, ¿norte?]",
+    "[Medidas de la manzana:] 86 m 60 [N] · 86 m 60 [E] · 86 m 60 [O] · 38 m 20 [?] · 10 m · 38 m 20 [?] [S]",
+    "Ⓐ Vendido a / Pedro Antonio Di Cocco [?] / Sup. 433 mts² · 10 mts · 43 m 30 [?]",
+    "Ⓑ Reservado por / Juan de Dios Videla / Sup. 7.066,56 mts²",
+    "[Firmas:] [Vendedo]r: Juan de Dios Videla [firma]",
+    "[Compra]dor: P. A. Di Cocco [?] [firma]",
+    "San Andrés de Giles Agosto 21 [?]/1928",
+    "Ante mí: [firma: ¿Estanislao Rodríguez?] [?]"
+   ],
+   "interpretacion": "Croquis a tinta sobre calco: una manzana entera del pueblo de 86,60 × 86,60 m (= 100 × 100 varas; 7499,56 m², verificado) entre la calle Francia y otras tres calles. Videla vende el lote A (10 × 43,30 m = 433 m²) a Pedro Antonio Di Cocco [?] y se reserva el B (7066,56 m²). Linderos: sucesores de José Lofrano [?], de Sabina [?] Figueroa de Almeida [?] y Antonio Di Colocchi [?]. Firman en Giles el 21 [?] de agosto de 1928 «ante mí». Arriba, «59/423 [?]», tal vez la inscripción del dominio."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Pieza 6: sucesión de Patricio Whelan, cuartel 5.º (1938)",
+   "img": "img/v/V16/01.jpg",
+   "fuente": "IMG_1158.JPG",
+   "orientacion": "sin flecha de N visible; el arroyo corre de NO a SE por el costado SO",
+   "interpretacion": "Campo de forma trapezoidal. El lindero N (herederos de Juan O’Donnell) es una recta de unos 2492 [?] m. El costado SO es un arroyo sinuoso, con mojones a lo largo, frente a Juan O’Donnell y Tomás Kelly. Al S están los herederos de Juan José Figueroa. Tres lotes en fajas transversales: la fracción vendida a Juan O’Donnell (55,68 ha, al N), el lote 2 de 100 ha justas y el lote 3 de 123,55 ha. Al E quedan el lote 1 (94,27 ha) y una faja angosta ABCD de unos 1716 × 161 m (27,60 ha), rotulada «Patricio, Francisco y Virginia Whelan O’Donnell, hoy Victoriano Altaparro [?]». El cuadro de la izquierda hace el balance contra el título.",
+   "referencias": [
+    [
+     "M · B · C · H",
+     "Polígono total de la sucesión de Patricio Whelan"
+    ],
+    [
+     "A · B · C · D",
+     "Faja E de 27 ha 60 a 10 ca, ya transferida"
+    ],
+    [
+     "①-③",
+     "Lotes de 94,27, 100 y 123,55 ha"
+    ],
+    [
+     "Fracción vendida a Juan O’Donnell",
+     "55 ha 68 a 42 ca (pieza 6 del índice)"
+    ],
+    [
+     "Cuadro",
+     "401,1024 ha por mensura; 425,2250 por título; faltan 24,1226"
+    ],
+    [
+     "Recuadro",
+     "Dominio inscripto en Mercedes, 3/8/1913, N.º 2590 [?]"
+    ],
+    [
+     "Nota a lápiz",
+     "1/12/1938: se agregan plano y planilla a la inscripción 4570 [?]-913 de Mercedes"
+    ]
+   ]
+  },
+  {
+   "titulo": "Pieza 8: sucesión de Dominga Hasquet de Chotro (1:10 000, dic. 1937)",
+   "img": "img/v/V16/02.jpg",
+   "fuente": "IMG_1160.JPG",
+   "orientacion": "flecha de N hacia abajo a la izquierda (girada respecto del dibujo)",
+   "interpretacion": "Cianotipo con rótulo decorado en letras modernistas, marco con grecas en las esquinas y rosa de los vientos. El campo es un hexágono irregular ABCDEF. Por el O lo bordea el camino de Giles a Solís; en diagonal, al NO, corta el camino a Pilar. Una muesca del NO (Brígida, Isabel y Tomás Barber) entra hasta el vértice E. Tres lotes iguales de 53,8330 ha: el 1 es trapezoidal (Catalina), con una casa con quinta o monte junto a J; el 2 (Juan) y el 3 (Dominga de Tejo) son fajas paralelas de 408 m de frente.",
+   "referencias": [
+    [
+     "A-B",
+     "1372,10 m sobre Juan Ricciardi y Fortunato Cufré (S)"
+    ],
+    [
+     "B-C",
+     "1317,90 m contra Juan Chotro (E)"
+    ],
+    [
+     "C-D",
+     "814,40 m contra Tomás Barber (N)"
+    ],
+    [
+     "D-E · E-F",
+     "554,55 y 806,10 m: entrante de los Barber"
+    ],
+    [
+     "F-A",
+     "847,60 m sobre el camino a Solís; enfrente Brígida e Isabel Scully"
+    ],
+    [
+     "J-I · G-H",
+     "Divisorias de 812,17 y 1320,98 m"
+    ],
+    [
+     "Dominio",
+     "8 de febrero de 1902, folio 66 vta."
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "En el campo, los planos registran sucesiones que se parten en lotes iguales o en fajas, entre caminos vecinales (a Solís, a Pilar) y arroyos. En el pueblo, una manzana de 100 varas entera en manos de un solo vecino, que empieza a vender lotes de 10 m de frente, y lotes de esquina de 22 × 44 m. La única construcción dibujada es la población del lote 1 de los Chotro."
+  },
+  {
+   "titulo": "Ritual y negociación",
+   "texto": "En los croquis de 1928 la operación se cierra con la firma de vendedor y comprador al pie del dibujo, «ante mí», con sello: el plano es parte del acto de venta. En los planos de 1937-1938 aparecen las cuentas de herencia (tres lotes iguales; balance contra el título) y la nota de inscripción, que liga el plano al Registro de Mercedes."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Pieza 6: poligonal con ángulos interiores y distancias en metros; el arroyo se releva por mojones a lo largo de la orilla. Pieza 8: ángulos al minuto y distancias al centímetro, escala 1:10 000, cianotipo (copia por contacto). Los croquis urbanos son de mano de aficionado, sin escala."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todo en sistema métrico. La manzana de 86,60 m es la de 100 varas (86,60 / 0,866 = 100, verificado) y los lotes de 43,30 m, la media manzana. El faltante de la pieza 6 (24,12 ha, 5,7 %) es grande para 1938 y sugiere un título de origen en varas o una mensura antigua generosa."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Sucesiones irlandesas (Whelan, O’Donnell, Scully, Barber) y vascofrancesas (Hasquet, Chotro) dividen sus campos; parte de la tierra ya pasó a otros (la faja «hoy» de Altaparro [?], la fracción vendida a Juan O’Donnell). En el pueblo, ventas de lotes chicos a compradores de apellido italiano o criollo."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "V13: índice del Tomo 53 (piezas 6-9 = O’Donnel, Atencio Rodríguez, Hasquet de Chotro, Videla) y pieza 3 (O’Donnell y Whelan, 1933). 183 y 184: sucesiones de Nicolás O’Donnell (1899) y de Catalina Whelan de Carry; 189: P. E. Whelan curador de los O’Donnell (1923). V14: herederos de Juan José Julio Figueroa (adjudicación de 1926), linderos al S de la pieza 6. 133: Brígida Scully casada con Jorge Barber; aquí Tomás y Brígida e Isabel Barber y Brígida e Isabel Scully lindan con los Chotro (ver V18, donde la «Sucesión Chotro» linda a su vez con las Scully). 043 y otras: los Cufré, linderos antiguos del arroyo de Giles. 101/149/163: Pedro Altaparro (1892), lindero en el campo Maldonado; aquí «Victoriano Altaparro [?]». V07: la calle Francia y la Av. 25 de Mayo del catastro urbano."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Piezas completas. Dudas: el nombre del agrimensor de la pieza 6 (Óscar C. Tapia [?]) y el número de inscripción (2590 o 4570 [?]); el vendedor de la pieza 7 (Pedro Chardet [?]) y el año (1928 [?]); el comprador de la 9 (Di Cocco [?]); la firma de la pieza 8. Falta ubicar en el GIS el campo Chotro (entre los caminos a Solís y a Pilar, cerca de los Scully: probablemente al NE del pueblo) y el campo Whelan del cuartel 5.º."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Patricio Whelan y sus hijos",
+   "rol": "Causante y herederos (pieza 6)",
+   "texto": "La sucesión de Patricio Whelan, con dominio inscripto en Mercedes en 1913, se reparte en 1938 entre Patricio Eduardo, Domingo, Francisco Gregorio y Virginia María Elena Whelan y O’Donnell, hijos de una O’Donnell. Patricio Eduardo Whelan fue curador de los O’Donnell en 1923.",
+   "fuentes": "Este plano; fichas 184, 189; V13."
+  },
+  {
+   "nombre": "Juan O’Donnell",
+   "rol": "Comprador de 55,68 ha y lindero",
+   "texto": "Compra una fracción de la sucesión Whelan (pieza 6 del índice) y es lindero por el N y por el arroyo; sus herederos ya figuran en 1938. Pertenece a la familia de Nicolás O’Donnell y Elena Murtagh.",
+   "fuentes": "Este plano; ficha 183; índice del Tomo 53 (V13)."
+  },
+  {
+   "nombre": "Dominga Hasquet de Chotro",
+   "rol": "Causante (pieza 8)",
+   "texto": "Su sucesión se divide en 1937 entre Catalina, Juan y Dominga Chotro (esta casada con Tejo). Dominio de 1902. Los apellidos son de origen vascofrancés.",
+   "fuentes": "Este cianotipo; V18."
+  },
+  {
+   "nombre": "Atencio Rodríguez, Pedro Chardet [?]",
+   "rol": "Comprador y vendedor (pieza 7)",
+   "texto": "Compraventa de un lote de 968 m² en el pueblo, 1928 [?]. Sin otros datos.",
+   "fuentes": "Este croquis; índice del Tomo 53."
+  },
+  {
+   "nombre": "Juan de Dios Videla, Pedro Antonio Di Cocco [?]",
+   "rol": "Vendedor y comprador (pieza 9)",
+   "texto": "Videla poseía una manzana entera del pueblo sobre la calle Francia y vende en 1928 un lote de 433 m². Un «Vicente Di Cocco [?]» figura en el catastro de quintas (V17).",
+   "fuentes": "Este croquis; V17."
+  },
+  {
+   "nombre": "Óscar C. Tapia [?]",
+   "rol": "Agrimensor (pieza 6)",
+   "texto": "Firma en San Antonio de Areco en 1938, con matrícula según la ley provincial 4048 (de 1929, derogada por la ley 6075 de 1959). Primera aparición en el corpus.",
+   "fuentes": "Este plano; normas.gba.gob.ar (ley 4048 de 1929), búsqueda web 21/11/2026."
+  }
+ ],
+ "titulo": "Whelan y O’Donnell; Rodríguez; Chotro",
+ "estado": "Transcripta (4 hojas, 66 renglones), 2 láminas"
+}
