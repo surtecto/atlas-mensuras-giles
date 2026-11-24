@@ -1,0 +1,197 @@
+{
+ "carpeta": "V31",
+ "carpeta_nombre": "Varios V31",
+ "archivo": "Ficha V31 - Estación Giles (1934).docx",
+ "resumen": {
+  "Documento": "Tomo 50, pieza 9: «Estación Giles», plano N.º 40, copia en tela",
+  "Propietario / solicitante": "F.C. Central Buenos Aires [?]",
+  "Autor": "Dirección de Ferrocarriles (original); F. R. Guerrero, dib.",
+  "Agrimensor": "s. d.",
+  "Año": "agosto de 1934",
+  "Escala": "1:2000",
+  "Ubicación": "Estación Giles, borde N del pueblo, km 96,3 a 97,0",
+  "Linderos": "Calle de circunvalación (N); camino a Azcuénaga (O); José Pichetto 93 [?]",
+  "Rasgos": "Playa de 742,43 × 100 m; 5 vías auxiliares; 6 galpones; desembarcadero",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Carpeta 4 = Tomo 50, pieza 9"
+ },
+ "metricas": {
+  "superficie_ha": "≈ 7,4 (742,43 × 100 m, aproximado)",
+  "hitos": "km 96 + 301,59 y km 97 + 044,02",
+  "aguas": "—"
+ },
+ "sintesis": "Plano «Estación Giles», escala 1:2000, N.º 40: copia en tela de un plano de la Dirección de Ferrocarriles, La Plata, agosto de 1934, dibujada por F. R. Guerrero. Es la pieza 9 del Tomo 50 («Plano de la Estación de Giles. F.C.C.B.A.»), con el lápiz «9». La playa mide 742,43 m entre los km 96 + 301,59 (cruce del camino de Giles a Azcuénaga) y 97 + 044,02, verificado, y 100 m de ancho. Tiene la vía general y cinco vías auxiliares (342, 465, 174, 428 y 157 m), seis galpones o plataformas (de 10 × 30 a 14 × 64 m), el edificio sobre la calle de circunvalación y un desembarcadero de hacienda. La vía sigue a Cucullu al O y a Heavy al E. El rótulo «José Pichetto 93» remitiría al dueño original del terreno [?].",
+ "caratula": {
+  "img": "img/v/V31/01.jpg",
+  "fuente": "IMG_1252.JPG",
+  "campos": [
+   [
+    "Título",
+    "Estación Giles"
+   ],
+   [
+    "Escala",
+    "1:2000"
+   ],
+   [
+    "Plano",
+    "N.º 40"
+   ],
+   [
+    "Origen",
+    "copia de un plano de la Dirección de Ferrocarriles"
+   ],
+   [
+    "Fecha",
+    "La Plata, agosto de 1934"
+   ],
+   [
+    "Dibujante",
+    "F. R. Guerrero"
+   ],
+   [
+    "Tomo / pieza",
+    "50 / 9 (lápiz «9»)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Lámina completa: «Estación Giles», 1:2000, plano N.º 40 (agosto de 1934)",
+   "img": "img/v/V31/01.jpg",
+   "fuente": "IMG_1252.JPG",
+   "nota": "Toma a 0°. Verificado: 97 044,02 − 96 301,59 = 742,43 m.",
+   "lineas": [
+    "[Toma a 0°. Copia en tela (calco a tinta negra sobre tela entelada brillante), plegada y encuadernada en el tomo, con marco. Letra de molde y cursiva de normógrafo. Lápiz azul [?] «9» bajo el número impreso: el número de pieza del Tomo 50. Arriba a la derecha, fuera del marco, una nota a lápiz casi borrada, ilegible.]",
+    "N.º 40",
+    "ESTACIÓN GILES",
+    "Escala 1:2000",
+    "[Flecha del norte apuntando hacia abajo del plano:] N",
+    "[Al O, cruce a nivel con un camino oblicuo:] Camino de Giles a Azcuénaga",
+    "[En el cruce, sobre el eje de la vía:] KM 96 + 301,59",
+    "[Vía hacia el O, rotulada:] Cucullu",
+    "[Vía hacia el E, rotulada:] Heavy",
+    "[Al E, otro cruce oblicuo:] KM 97 + 044,02",
+    "[Cota entre ambos kilómetros:] 742,43 m.",
+    "[Anchos de la zona ferroviaria en el extremo O:] 40 m [al N del eje] · 60 m [al S] · 100 m [total] · 91,34 m [?]",
+    "[Al N, paralela a la vía, con eje en línea de trazo y punto:] Calle de circunvalación",
+    "[Una calle perpendicular que llega a la estación:] Calle",
+    "[Junto a la calle de circunvalación, el edificio:] Estación",
+    "[Vías:]",
+    "Vía N.º 1 342 m. Vía libre",
+    "Vía General",
+    "Vía N.º 2 465 m. Vía libre",
+    "Vía N.º 3 174 m. ″ ″",
+    "Vía N.º 4 428 m. Vía libre",
+    "Vía N.º 5 157 m. Vía libre",
+    "[Rótulo grande sobre la playa, en cursiva:] JOSÉ PICHETTO 93",
+    "[Galpones o andenes de carga, de O a E:] 14 × 64 m. · 10 × 60 m. · 10 × 30 m. · 14 × 40 m. · 12 × 48 m. · 12 × 30 m.",
+    "[Al E, sobre la vía 5:] Desembarcadero [con dos pequeños rectángulos: corrales o bretes [?]]",
+    "[Al S de la zona, el límite de la propiedad ferroviaria y caminos oblicuos que lo cruzan.]",
+    "Es copia de un plano facilitado por",
+    "La Dirección de Ferrocarriles.",
+    "La Plata, Agosto de 1934.",
+    "F. R. Guerrero, dib."
+   ],
+   "interpretacion": "Copia en tela de un plano facilitado por la Dirección de Ferrocarriles, La Plata, agosto de 1934, dibujada por F. R. Guerrero y numerada «N.º 40» (serie de estaciones [?]); el lápiz «9» es el número de pieza del Tomo 50. La playa de la estación Giles ocupa una faja de 100 m (40 m al N del eje y 60 m al S) entre el cruce del camino de Giles a Azcuénaga (km 96 + 301,59) y otro cruce al E (km 97 + 044,02): 742,43 m. Hacia el O la vía va a Cucullu y hacia el E a Heavy. Hay cinco vías auxiliares con su largo útil, seis galpones o plataformas de carga con sus medidas, el edificio de la estación junto a la calle de circunvalación y un desembarcadero de hacienda al E."
+  },
+  {
+   "titulo": "Detalle: la playa de vías y los galpones",
+   "img": "img/v/V31/02.jpg",
+   "fuente": "IMG_1253.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°; amplía el centro de IMG_1252. Sin texto nuevo: confirma las longitudes de las vías (342, 465, 174, 428 y 157 m), los seis galpones, «Estación», «Calle», «Calle de circunvalación», «JOSÉ PICHETTO 93» y «742,43 m.». La vía 3 está escrita a medias sobre la línea («Vía N.º 3 174 m. ″ ″»).]"
+   ],
+   "interpretacion": "Retoma del centro de la lámina; confirma los largos de las vías y las medidas de los galpones. El rótulo grande «JOSÉ PICHETTO 93» atraviesa la playa: no es un nombre de calle sino, probablemente, el del antiguo dueño del terreno ferroviario con un número de partida o de plano [?]."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Estación Giles (1:2000, N.º 40, agosto de 1934)",
+   "img": "img/v/V31/01.jpg",
+   "fuente": "IMG_1252.JPG (detalle IMG_1253)",
+   "orientacion": "flecha del N hacia abajo de la lámina; la vía corre de O (Cucullu, a la izquierda) a E (Heavy, a la derecha)",
+   "interpretacion": "Planta esquemática de la playa ferroviaria: la vía general, cinco desvíos con su longitud útil («vía libre»), los galpones o plataformas de carga entre las vías 3 y 4, el edificio de la estación al N y, al E, el desembarcadero con dos corrales [?]. Al N, una calle de circunvalación paralela a la vía separa la zona ferroviaria del pueblo; una calle perpendicular llega a la estación. En los extremos, dos cruces a nivel con caminos oblicuos marcados con su kilometraje desde la cabecera de la línea.",
+   "referencias": [
+    [
+     "KM 96 + 301,59",
+     "cruce del camino de Giles a Azcuénaga (extremo O)"
+    ],
+    [
+     "KM 97 + 044,02",
+     "cruce del extremo E"
+    ],
+    [
+     "742,43 m",
+     "largo de la zona"
+    ],
+    [
+     "40 m · 60 m · 100 m · 91,34 m [?]",
+     "anchos de la zona al N, al S y total"
+    ],
+    [
+     "Vías 1 a 5",
+     "342, 465, 174, 428 y 157 m de vía libre"
+    ],
+    [
+     "Galpones",
+     "14 × 64, 10 × 60, 10 × 30, 14 × 40, 12 × 48 y 12 × 30 m"
+    ],
+    [
+     "Desembarcadero",
+     "carga y descarga de hacienda"
+    ],
+    [
+     "JOSÉ PICHETTO 93",
+     "rótulo sobre la playa (dueño anterior y n.º de partida o plano [?])"
+    ],
+    [
+     "Cucullu · Heavy",
+     "estaciones vecinas"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje urbano",
+   "texto": "La estación es un borde: la calle de circunvalación la separa del pueblo y del otro lado empiezan los caminos rurales oblicuos (a Azcuénaga). Los seis galpones y el desembarcadero muestran que en 1934 es sobre todo una estación de cargas (granos y hacienda)."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Plano de oficina, sin medición propia: copia de un plano de la Dirección de Ferrocarriles redibujada en tela por un dibujante de Geodesia. El kilometraje de la línea sirve de sistema de referencia. Verificado: la diferencia de los dos kilometrajes es exactamente 742,43 m."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Metros y kilómetros con decimales al centímetro. La superficie de la zona (≈ 7,4 ha) es una estimación de 742,43 × 100 m, no figura en el plano."
+  },
+  {
+   "titulo": "Tenencia o uso",
+   "texto": "Tierra ferroviaria de 100 m de ancho. El rótulo «José Pichetto 93» sugiere que la zona se tomó de tierras de la familia Pichetto, dueña de los terrenos al N y al S del pueblo desde el siglo XIX (137, V23) [?]."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "Pieza 9 del índice del Tomo 50 (V23): «Plano de la Estación de Giles. F.C.C.B.A.», es decir, del Ferrocarril Central Buenos Aires (ex Lacroze); V35 rotula «Estación San Andrés de Giles», «F.C.C.B.A.» y «a F.C.C. Lacroze». V04 (hoja catastral 4) muestra la estación con las avenidas Morgan y Lucas Scully. El camino a Azcuénaga aparece en las mensuras rurales (METODO.md: caminos a la estación Azcuénaga). Cucullu es la estación con nombre de los antiguos propietarios Isidro y Simón Cucullu (137). Heavy no aparece en otras fichas."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Falta saber qué serie numera este plano como «N.º 40» (¿un álbum de estaciones de la Dirección de Ferrocarriles?) y leer la nota a lápiz del margen superior. Hay que ubicar los dos kilometrajes en el GIS y confirmar la línea (Central Buenos Aires) y el sentido del kilometraje."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "F. R. Guerrero",
+   "rol": "Dibujante",
+   "texto": "Firma «F. R. Guerrero, dib.» al pie: dibujante de la Dirección de Geodesia [?] que copió el plano en 1934. Sin otros datos.",
+   "fuentes": "IMG_1252."
+  },
+  {
+   "nombre": "José Pichetto",
+   "rol": "Nombre rotulado sobre la playa",
+   "texto": "Gran propietario del siglo XIX en torno al pueblo (lindero N y S del ejido en 1884, ficha 137); su apellido da nombre a una calle. Aquí su nombre, con «93», identificaría el origen del terreno [?].",
+   "fuentes": "IMG_1252-1253; 137; V23."
+  }
+ ],
+ "titulo": "F.C. Central Buenos Aires [?]",
+ "estado": "Transcripta (2 hojas, 31 renglones), 1 lámina"
+}

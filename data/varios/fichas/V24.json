@@ -1,0 +1,395 @@
+{
+ "carpeta": "V24",
+ "carpeta_nombre": "Varios V24",
+ "archivo": "Ficha V24 - Rectificación del arroyo de Giles (c. 1934).docx",
+ "resumen": {
+  "Documento": "Tomo 50, pieza 2: «Proyecto de rectificación del Arroyo de Giles»",
+  "Propietario / solicitante": "Rectificación del arroyo de Giles",
+  "Autor": "s. d. (sin rótulo, firma ni fecha en las tomas)",
+  "Agrimensor": "s. d.",
+  "Año": "c. 1934-1939 (asientos hasta 1934)",
+  "Escala": "s. d. (sin escala visible)",
+  "Ubicación": "Planta urbana y alrededores; arroyo de Giles del F.C. a la ruta a Mendoza",
+  "Linderos": "Pichetto, Méndez, Sillón, suc. J. Pérez, Bonetti, Milanesi, Bustos de Mariño",
+  "Rasgos": "Cauce rectificado en rojo, 3 puentes, Paso de Piedra, polígono de tiro, matadero",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Carpeta 4 = Tomo 50, pieza 2"
+ },
+ "metricas": {
+  "superficie_ha": "—",
+  "hitos": "vértices numerados de la poligonal; puentes; Paso de Piedra",
+  "aguas": "arroyo de Giles, con meandros y cauce rectificado proyectado"
+ },
+ "sintesis": "Pieza 2 del Tomo 50: plano del pueblo de San Andrés de Giles y sus alrededores, sin firma ni fecha, que sirve de base al «Proyecto de rectificación del Arroyo de Giles» (camisa, IMG_1229). Una doble línea roja recta reemplaza los meandros del arroyo entre el Puente del Ferrocarril y el «puente de hormigón» del camino a Mendoza, pasando por el Puente Carretero de Sarmiento y el Paso de Piedra. El plano es además un catastro: la poligonal de medición recorre todas las calles con vértices numerados, hay trece edificios públicos referidos y cada fracción de afuera del ejido urbano lleva su dueño y su inscripción de dominio (1885-1934). Por esa última fecha, es de c. 1934-1939. Aparecen el matadero, el nuevo cementerio, el Parque Municipal y un polígono de tiro.",
+ "caratula": {
+  "img": "img/v/V24/01.jpg",
+  "fuente": "IMG_1222.JPG (vista de conjunto)",
+  "campos": [
+   [
+    "Tomo",
+    "50 (Carpeta N.º 4)"
+   ],
+   [
+    "Pieza",
+    "2 (camisa, IMG_1229)"
+   ],
+   [
+    "Título",
+    "Proyecto de rectificación del Arroyo de Giles"
+   ],
+   [
+    "Fecha",
+    "s. d. (c. 1934-1939)"
+   ],
+   [
+    "Soporte",
+    "papel; tinta negra y roja"
+   ],
+   [
+    "Referencias",
+    "13 edificios públicos"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Vista general: el plano plegado en el tomo",
+   "img": "img/v/V24/03.jpg",
+   "fuente": "IMG_1218.JPG",
+   "nota": "Toma de conjunto; rótulos completados con las tomas de detalle.",
+   "lineas": [
+    "[Toma a 0°. Plano a tinta negra con agregados en rojo, plegado y encuadernado en el lomo de un tomo (a la izquierda, el cuerpo del libro). Papel roto en dos puntos del borde izquierdo. Sin rótulo general visible en esta toma.]",
+    "[Pestaña de papel pegada arriba a la izquierda, a tinta:] …ficación [?] [¿«Rectificación»?, cortado]",
+    "[Arriba a la derecha, a lápiz:] [rúbrica o número ilegible]",
+    "[Rótulos principales, a tinta:] ESTACIÓN GILES · PARQUE MUNICIPAL F.º 127/927 [?] · MUNICIPALIDAD DE SAN ANDRÉS DE GILES 1260/897 · LUIS SILLÓN F.º 92/926 [?] · JUAN [cortado, a la derecha]",
+    "[Propietarios al N de la vía, de O a E:] Lucio Méndez F.º 116/927 [?] · José Caletti [?] F.º 116/927 [?] · José Gallo [?] F.º 146/9.. · Alfredo Milano [?] F.º 240/927 · Julián y Zenón [?] Quintana F.º 211/927 · Mateo P. Milano [?] F.º 241/927 · Francisco Bonasetti [?] · Francisco Martínez [?] · Saturnino Prieto F.º 145/9..",
+    "[Propietarios al S, de O a E:] Sucesión [de] Juan Pérez F.º 81/928 [?] · D. Semitino [?] y otra F.º …/923 · Juana Capessori [?] · …anini [?] e hijos F.º 168/923 · María A. Nascimbene de Ferreto F.º 187/923 · Beatriz María Bonetti F.º 165/926 [?] · Valentina Bustos de Marino [?] 1786/904",
+    "[En rojo, sobre el arroyo:] Puente del Ferrocarril [?] · Paso de Piedra · Puente Carretero",
+    "[Sobre el camino del S:] Camino Nacional de [cortado] … [¿«Camino Nacional de Luján a Mendoza»?]",
+    "[Abajo a la izquierda: cuadro «REFERENCIAS» (ver IMG_1228); abajo al centro: nota sobre las líneas punteadas (ver IMG_1227).]"
+   ],
+   "interpretacion": "El plano del pueblo y sus alrededores, desplegado sobre la mesa y todavía cosido al lomo del Tomo 50. Se ve casi todo el pueblo, del arroyo (al O, con los puentes y el Paso de Piedra en rojo) a la estación Giles y el Parque Municipal (al N), y las chacras del S sobre el camino a Mendoza. Una pestaña de papel pegada arriba a la izquierda lleva un título cortado, «…ficación», que la camisa de IMG_1229 completa: «Proyecto de rectificación del Arroyo de Giles». Cada fracción de afuera del pueblo lleva el nombre de su dueño y su inscripción de dominio, del tipo «F.º 92/926» (folio/año) o «1260/897» (número/año)."
+  },
+  {
+   "titulo": "Detalle NO: caminos a Areco y a Luján, matadero y nuevo cementerio",
+   "img": "img/v/V24/04.jpg",
+   "fuente": "IMG_1219.JPG",
+   "nota": "Plano girado 90° en la toma.",
+   "lineas": [
+    "[Toma con el plano girado 90°; se transcribe leyendo los rótulos.]",
+    "CAMINO GENERAL DE SAN ANTONIO DE ARECO A SAN ANDRÉS DE GILES",
+    "CAMINO GENERAL DE CARMEN DE ARECO A LUJÁN",
+    "[Junto a la vía:] [Ferrocarril] Central de Buenos Aires [?]",
+    "NUEVO CEMENTERIO 82/910 [?] [recinto con un edificio]",
+    "JERÓNIMO DÁVICO F.º 91/921",
+    "DONATA PONCE DE CASAS F.º 92/928",
+    "MUNICIPALIDAD DE SAN ANDRÉS DE GILES 1260/897 · Matadero",
+    "JUAN LORENZO MAGNANEGO 30663/915 y 182/933",
+    "ÁNGELA CECILIA MAGNANEGO DE STOPELLO [?] 30661/915 y 181/933",
+    "JUANA PICHETTO 11282/910 · [al otro lado del camino a Areco:] DE GAZZANIGA 11282/910 [un solo rótulo partido por el camino: «Juana Pichetto de Gazzaniga», como en V02]",
+    "ÁNGELA PICHETTO DE SAUBIDET F.º 76/920 y 10[0/927] [?]",
+    "JOSÉ MANUEL MÉNDEZ F.º 93/930",
+    "BASILIO MARCHESI F.º 123/931 [?] · JOSÉ M. MÉNDEZ F.º 93/930",
+    "[Al O de la vía:] Francisco Liguori F.º 89/920 [?] · Blas Battagliese [?] F.º 55/916 · Miguel Pelado [?] F.º 79/920",
+    "[Calles:] Sarmiento · Saavedra · Rivadavia · Francisco Suero",
+    "[En rojo:] Puente del Ferro[carril]",
+    "[Poligonal de medición en línea de trazos por las calles y el arroyo, con vértices numerados: 101, 102, 170, 178, 181, 190…; cotas de lados y ángulos al pie de cada tramo, ilegibles a esta escala.]"
+   ],
+   "interpretacion": "El ángulo NO, donde se juntan el camino general de San Antonio de Areco, el de Carmen de Areco a Luján y la vía. Al N del camino a Areco están el matadero y el terreno de la Municipalidad (inscripción 1260/1897) y, más afuera, el «Nuevo Cementerio» (82/1910 [?]). Entre los caminos quedan las fracciones de Juana Pichetto de Gazzaniga y Ángela Pichetto de Saubidet, de los Magnanego, de José Manuel Méndez y de Basilio Marchesi. Al O de la vía, quintas chicas (Liguori, Battagliese, Peláez). La poligonal de medición corre por las calles con vértices numerados (101, 170, 178, 181, 190…)."
+  },
+  {
+   "titulo": "Detalle O: quintas al O de la vía",
+   "img": "img/v/V24/05.jpg",
+   "fuente": "IMG_1220.JPG",
+   "nota": "Superpuesta con IMG_1219; se transcribe sólo lo nuevo.",
+   "lineas": [
+    "[Toma con el plano girado 90°. Repite el ángulo NO de IMG_1219; se transcriben sólo los rótulos nuevos.]",
+    "SATURNINO PRIETO F.º 141/934",
+    "Desiderio Saturnino Melo F.º 182/923 · Tomás Melo n.º 53/895 · 244/934 [?]",
+    "Antonio Pisani 213/895 · Antonio Pisani 1254/890 [?]",
+    "Carlos Debeste [?] F.º 63/922",
+    "Francisco Archiopoli y Serafina G. de Archiopoli F.º 60/923",
+    "Francisco Liguori · [Blas Battagliese] F.º 55/916 · Miguel Pelado [?] F.º 79/920",
+    "[Gran fracción al SO:] LUIS P. M. [SILLÓN] (ver IMG_1218)",
+    "ÁNGELA DICHETTO [sic, por Pichetto] DE SAUBIDET F.º 76/920 y 100/927",
+    "ESTACIÓN GILES [cortado]",
+    "[Calles transversales al arroyo, de N a S:] Francisco Suero · Rivadavia [?] · Saavedra · Sarmiento · Belgrano · Gral. Mitre · Pellegrini [?] · Alsina · Carlos Pellegrini [?] · Manuel Quintana [?] · Urquiza",
+    "[En rojo:] Puente del Ferrocarril · Puente Carretero",
+    "[Una línea roja recta, de tramos largos, corre a lo largo del arroyo, que se dibuja con sus meandros en negro; vértices de la poligonal: 171-178, 181, 101-108, 122 [?]…]"
+   ],
+   "interpretacion": "Las quintas entre la vía y el campo de Luis P. M. Sillón: Saturnino Prieto (inscripción de 1934, la más reciente del plano), Desiderio Saturnino y Tomás Melo, Antonio Pisani (dos fracciones de 1890 y 1895), Carlos Debuste y los Archiopoli. La línea roja recta que acompaña al arroyo empieza a verse en su paso por el pueblo, entre el Puente del Ferrocarril y el Puente Carretero."
+  },
+  {
+   "titulo": "Detalle SO: el arroyo entre el Puente Carretero de la ruta y el pueblo",
+   "img": "img/v/V24/02.jpg",
+   "fuente": "IMG_1221.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma con el plano girado; centro y cuadrante SO de la planta.]",
+    "[Gran fracción al O del arroyo:] LUIS P. M. SILLÓN F.º 94/926",
+    "[En rojo:] Paso de Piedra · Puente Carretero · Puente Carretero [en el pueblo, calle Sarmiento [?]]",
+    "[Camino que llega al Paso de Piedra:] Camino vecinal [?]",
+    "[Camino del SO:] [Camino nacional] de Mendoza [?] · [junto al Puente Carretero:] Puente de la ruta [?] [ilegible]",
+    "[Al S del arroyo, sobre una curva de trazos:] POLÍGONO DE TIRO",
+    "[Calles, de O a E:] Francia · Rawson · Urquiza · Manuel Quintana · Carlos Pellegrini · Alsina · Avellaneda [?] · Gral. Mitre · Belgrano · Sarmiento · Saavedra · Rivadavia · Bernardo de Irigoyen · Nueve de Julio · San Martín · Rivadavia [?]",
+    "[Plazas:] Plaza San Martín · Plaza Colón [?]",
+    "[Al S:] Juana Ciapessoni [?] de Vanini [?] e hijos F.º 188/92[3] [?]",
+    "[Poligonal de medición a lo largo del arroyo, línea de trazos con vértices numerados 111, 112, 113, 114, 110, 121, 122, 109…; cotas de lados del tipo «L. 110-111: 215,07 m [?]», «∠ 115° 30′ [?]»: lectura insegura a esta resolución.]",
+    "[La línea roja une en tramos rectos el Puente Carretero del SO, el Paso de Piedra y el puente del pueblo, cortando los meandros del cauce dibujado en negro.]"
+   ],
+   "interpretacion": "El tramo SO del arroyo, del Puente Carretero del camino a Mendoza (IMG_1226: «puente de hormigón») hasta el pueblo, pasando por el Paso de Piedra, donde llega un camino vecinal. La línea roja une estos puntos con tramos rectos y deja afuera los meandros. Al S del cauce aparece rotulado el «Polígono de tiro». Una poligonal de trazos con vértices 109-114, 121, 122 sigue el cauce con cotas de lado y ángulo que a esta escala se leen mal."
+  },
+  {
+   "titulo": "Detalle N: la estación, las avenidas Morgan y Lucas Scully, la plaza Cutillas",
+   "img": "img/v/V24/06.jpg",
+   "fuente": "IMG_1223.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma a 0°.]",
+    "ESTACIÓN GILES · [vía del] Ferrocarril Central de Buenos Aires [?] · Embarcadero · Corral",
+    "ÁNGELA PICHETTO [la P de trazo abierto, parece «Dichetto»] DE SAUBIDET F.º 76/920 y 100/927",
+    "[Juana Pichetto] DE GAZZANIGA 11282/910",
+    "JOSÉ MANUEL MÉNDEZ F.º 93/930 · BASILIO MARCHESI F.º 123/931 · JOSÉ M. MÉNDEZ F.º 93/930",
+    "Miguel Peláez F.º 75/920 [corrige «Pelado» de IMG_1219] · Blas Battagliese F.º 55/916 · 121/928 [?]",
+    "CAMINO GENERAL DE CARMEN DE ARECO A LUJÁN · [Camino] DE ARECO A SAN ANDRÉS DE GILES",
+    "CAMINO GRAL. DE SAN ANDRÉS DE GILES [a …] · PARQ[UE MUNICIPAL]",
+    "AVENIDA MORGAN · AVENIDA LUCAS SCULLY · Francisco Suero · D. Hidalgo [?] · Saavedra · Sarmiento",
+    "PLAZA CUTILLAS · PLAZA SAN MARTÍN",
+    "[En rojo:] Puente del Ferrocarril · Puente Carretero",
+    "[Números de referencia dentro de las manzanas: 1, 4, 8, 12… (ver cuadro de IMG_1228). Vértices de la poligonal en las esquinas: 1, 101-105, 116-118, 136, 141, 155, 156, 159, 178, 181, 190… Líneas rojas finas recorren algunas calles del centro.]"
+   ],
+   "interpretacion": "La estación Giles con su embarcadero y corral, la avenida Morgan paralela a la vía y la avenida Lucas Scully como borde N de la cuadrícula. Las calles al O de la plaza San Martín se nombran Francisco Suero (confirmado en V26), D[omingo] Hidalgo, Saavedra y Sarmiento. En las manzanas hay números de referencia (1, 4, 8, 12) que remiten al cuadro de IMG_1228. Unas líneas rojas finas recorren algunas calles del centro y su sentido no se explica en el plano."
+  },
+  {
+   "titulo": "Detalle centro: la plaza San Martín y el cauce rectificado",
+   "img": "img/v/V24/07.jpg",
+   "fuente": "IMG_1224.JPG",
+   "nota": "Superpuesta con IMG_1223.",
+   "lineas": [
+    "[Toma a 0°; superpuesta con IMG_1223. Sólo lo nuevo.]",
+    "Carlos Debuste F.º 63/922 [corrige «Debeste»] · Tomás Melo n.º 53/895 · 244/934 [?]",
+    "[Calles al O de la plaza, de N a S:] Francisco Suero · D. Hidalgo [?] · Saavedra · Sarmiento · Moreno [?] · Belgrano · Gral. Mitre · Avellaneda",
+    "[Alrededor de la plaza San Martín, números de referencia 1, 2, 7, 8, 11, 12; más al S, 3 y 6.]",
+    "[En rojo:] Puente del Ferrocarril · Puente Carretero",
+    "[Una doble línea roja recta corre de N a S junto al cauce negro, que serpentea entre los vértices 103-108, 117-119, 175, 177, 180, 181. Líneas rojas finas encierran un grupo de manzanas al E de la plaza Cutillas.]"
+   ],
+   "interpretacion": "Muestra claro el proyecto: una doble línea roja recta, de N a S, corre junto al arroyo dibujado en negro, que serpentea entre los vértices 103 a 119. Alrededor de la plaza San Martín se ven las referencias 1, 2, 7, 8, 11 y 12: Municipalidad, Escuela N.º 1, Banco de la Provincia, Correos, Mercado y Oficina de Correos y Telégrafos."
+  },
+  {
+   "titulo": "Vista de conjunto: planta urbana, quintas y chacras",
+   "img": "img/v/V24/01.jpg",
+   "fuente": "IMG_1222.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma a 0°, la más completa del plano: falta sólo el extremo E (gran fracción rotulada «JUAN…», cortada) y el borde inferior con los cuadros.]",
+    "[Franja N, sobre el camino general de Carmen de Areco, de O a E:]",
+    "CAMINO GRAL. DE SAN ANDRÉS DE GILES [a …] · PARQUE MUNICIPAL F.º 157/927",
+    "FRANCISCO BENVENUTO [?] F.º 113/927 · FRANCISCO MAGIARNO [?] F.º 176/928 · SUCESIÓN DE LUIS CAIRO [?] F.º 119/927",
+    "JULIÁN Y ZENÓN D. QUINTANA F.º 111/927 · JOSÉ GALLO F.º 164/927 · Camino vecinal [?] · MATEO P. MILANESI F.º 241/927",
+    "CAMINO GENERAL DE CARMEN [DE ARECO]",
+    "[Sector E, entre el camino de Carmen y la planta urbana:]",
+    "Mario Oliva F.º 129/916 · Adela Castellano [?] F.º 159/920 [?] · Blas Bruno n.º 252/908 · Luis Arina y Borruel n.º 12841/915",
+    "Nicolás Viola n.º 3078/904 [?] · Juana María y Ángela Delia Larrosa y Pichetto F.º 191/920 · Julián Fernández [?] F.º 91/923 [?]",
+    "Demetrio Archiopoli y María Cardinale [?] F.º 81/921 [?] · Ramón Viterbo Galeano F.º 9/921 · Daniel Hipólito … n.º 2545/901 [?] · Francisco Mazzarino [?]",
+    "Cándido Oliva F.º 97/930 · Arnoldo Moen [?] n.º 9762/903 · María Perrupato [?] F.º 98/930 · Ramona Díaz de Zárate [?] · Ignacio Messina F.º 17/916",
+    "Ángel Rose y Serafina Conaco [?] F.º 54/922 · Ángel Rose · Vicente Dicecco F.º 67/917 · Desiderio Gaggini [?] F.º 148/923 [?] · 143/929",
+    "Ángela Valli de Bonetti, Beatriz Ernestina Bonetti, Francisco Alberto Bonetti n.º 1700/911 · Antonio Bisio [?] F.º 21/933 [?] · C. Bustos [?]",
+    "[Calles del sector E:] J. B. Etcheverry · José Pichetto · San Andrés · Castillo Mancini [?] · Nicolás Méndez · [Saa]vedra [?]",
+    "[Cotas de líneas:] L. 77-174 = 250,85 mts. · L. 23-34 = 536,53 mts. · L. 19-53 = 1733,72 mts.",
+    "[Plazas:] Plaza Cutillas · Plaza San Martín · Plaza Colón · Plaza General Mitre",
+    "[Sector S:]",
+    "AVENIDA 25 DE MAYO · Línea 22-16 [?] = 950,375 mts.",
+    "CAMINO NACIONAL DE CAPITAL FEDERAL A MENDOZA",
+    "CAMINO GENERAL DE SAN ANDRÉS DE GILES A MERCEDES · L. [1]37-[…] = 728,21 [?] mts.",
+    "Camino vecinal · Línea 132-137 = 515,205 mts.",
+    "SUCESIÓN DE JUAN PÉREZ F.º 81/925 · D. SCHITTINO Y OTRA F.º 1/923",
+    "JUANA CIAPESSONI DE VANINI E HIJOS · María Garzonio [?] de Valli y otros F.º 134/927 · Adela María Rivas [?] … 230/895 [?] · … Catalina Rivas [?]",
+    "Demetrio Ernesto [?] Archiopoli F.º 12/93[.] [?]",
+    "MARÍA A. NASCIMBENE DE FERRETO · BEATRIZ MARÍA BONETTI F.º 189/928 · VALENTINA BUSTOS DE MARIÑO 1796/904",
+    "[Calles del sector S:] Felipe S. Espil · Rivadavia · San Martín · Maipú · Chacabuco · Av. España · Valle [?]",
+    "[Al O:] LUIS P. M. SILLÓN F.º 94/926 · Paso de Piedra · Puente Carretero · Polígono de tiro"
+   ],
+   "interpretacion": "La toma más completa. Al N, sobre el camino general de Carmen de Areco, una fila de fracciones con inscripciones de 1927-1928 (Parque Municipal, Benvenuto, Magiarno [?], sucesión Cairo [?], Quintana, Gallo, Milanesi). Al E, un mosaico de quintas chicas (Oliva, Bruno, Arina, Viola, Larrosa y Pichetto, Galeano, Moen [?], Messina, Rose, Dicecco, Bonetti). Al S, la avenida 25 de Mayo, el «Camino Nacional de Capital Federal a Mendoza», el camino a Mercedes y las chacras de la sucesión de Juan Pérez, D. Schittino, Ciapessoni de Vanini, Nascimbene de Ferreto, Bonetti y Bustos de Mariño. Hay cotas de lados largos de la poligonal: 250,85, 515,205, 536,53, 728,21 [?], 950,375 y 1733,72 m."
+  },
+  {
+   "titulo": "Detalle centro-S: el cauce entre Saavedra y Rawson",
+   "img": "img/v/V24/08.jpg",
+   "fuente": "IMG_1225.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma a 0°; superpuesta con IMG_1222 y 1224. Sólo lo nuevo.]",
+    "[Calles al O, de N a S:] Saavedra · Sarmiento · Moreno · Belgrano · Gral. Mitre · Avellaneda · Alsina · Carlos Pellegrini · Manuel Quintana · Urquiza · Rawson · Bernardo [de Irigoyen] · Fra[ncia]",
+    "[Calles de rumbo transversal:] San Martín · Rivadavia · Felipe S. Espil · Maipú · Cha[cabuco]",
+    "[Junto a Rawson, en una manzana con un edificio:] Busto [?] del G. Mitre",
+    "[En rojo:] Puente Carretero [Sarmiento] · Paso de Piedra [frente a Rawson] · [un tercer punto rojo, sin rótulo, frente a Alsina]",
+    "[La doble línea roja recta corre por la margen E del cauce, que se dibuja en negro entre los vértices 107, 109, 114, 119, 121, 122, 175, 76…]"
+   ],
+   "interpretacion": "El cauce y la doble línea roja frente a las calles de rumbo E-O (Sarmiento a Rawson). Junto a Rawson hay un rótulo menor, «Busto [?] del G. Mitre». Además del Puente Carretero de Sarmiento y del Paso de Piedra, frente a Alsina hay un tercer punto rojo sin rótulo, quizá otro cruce."
+  },
+  {
+   "titulo": "Detalle SO: Paso de Piedra, polígono de tiro y Puente Carretero",
+   "img": "img/v/V24/09.jpg",
+   "fuente": "IMG_1226.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma a 0°; sólo lo nuevo.]",
+    "[Junto al Puente Carretero, sobre el camino:] puente de hormigón",
+    "Camino vecinal [hacia el Paso de Piedra] · POLÍGONO DE TIRO · [cota sobre la poligonal del arroyo:] L. 110-111 [?] = 815,0[.] mts. [?]",
+    "Adela María Rivas de Pucci 289/885 · 290/885 · Ceferina Rivas de Gros[…] 291/[885] [?]",
+    "María Garzonio de Valli y otros F.º 134/927 · JUANA CIAPESSONI DE VANINI E HIJOS F.º 188/923",
+    "SUCESIÓN DE JUAN PÉREZ F.º 81/925 · CAMINO NAC[IONAL]",
+    "[Calles del SO:] Nueve de Julio · Bernardo de Irigoyen · Francia · San Martín · Rivadavia · Felipe S. Espil · Maipú · Chacabuco · Av. España · Avenida 25 [de Mayo], Línea 22-16 [?]",
+    "[Vértices: 110-114, 121, 122, 146, 148, 166, 182, 184, 186, 189, 193-196, 198…]"
+   ],
+   "interpretacion": "El Puente Carretero del camino a Mendoza se rotula «puente de hormigón». Al S aparecen las fracciones de los Rivas (Adela María Rivas de Pucci, Ceferina Rivas de Gros…), con inscripciones de 1885, las más viejas del plano, y la de María Garzonio de Valli y otros (1927), que reaparece en V27."
+  },
+  {
+   "titulo": "Pie del plano: nota sobre la poligonal",
+   "img": "img/v/V24/10.jpg",
+   "fuente": "IMG_1227.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma a 0° del borde inferior, centro; arriba, el extremo del arroyo con el Puente Carretero en rojo y el camino a Mendoza.]",
+    "LAS LÍNEAS PUNTEADAS QUE FIGURAN EN",
+    "LAS CALLES SON LAS LÍNEAS AUXILIARES DE LA",
+    "MEDICIÓN Y LOS NÚMEROS CORRESPONDEN A LA",
+    "DENOMINACIÓN DE LOS VÉRTICES."
+   ],
+   "interpretacion": "Nota de letra de molde: las líneas punteadas de las calles son las «líneas auxiliares de la medición» y los números, la denominación de los vértices. Por eso el plano es también el registro gráfico de una poligonal urbana completa."
+  },
+  {
+   "titulo": "Pie del plano: cuadro de referencias",
+   "img": "img/v/V24/11.jpg",
+   "fuente": "IMG_1228.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma a 0° del ángulo inferior izquierdo; letra de molde a tinta.]",
+    "REFERENCIAS",
+    "1 MUNICIPALIDAD",
+    "2 ESCUELA N.º 1",
+    "3 COMISARÍA",
+    "4 ESCUELA N.º 12",
+    "5 HOSPITAL DE CARIDAD",
+    "6 CORRALÓN MUNICIPAL",
+    "7 BANCO DE LA PROVINCIA",
+    "8 CORREOS Y TELÉGRAFOS",
+    "9 ESCUELA N.º 3",
+    "10 ESCUELA N.º 2",
+    "11 MERCADO",
+    "12 OFICINA DE CORREOS Y TELÉGRAFOS",
+    "13 TELÉGRAFO DE LA PROVINCIA"
+   ],
+   "interpretacion": "Trece edificios públicos numerados: Municipalidad, cuatro escuelas (N.º 1, 2, 3 y 12), Comisaría, Hospital de Caridad, Corralón Municipal, Banco de la Provincia, Correos y Telégrafos (con dos oficinas), Mercado y Telégrafo de la Provincia."
+  },
+  {
+   "titulo": "Camisa de la pieza 2",
+   "img": "img/v/V24/12.jpg",
+   "fuente": "IMG_1229.JPG",
+   "nota": "La camisa queda después del plano en el orden de las tomas.",
+   "lineas": [
+    "[Toma a 0°: hoja de papel madera doblada a modo de camisa, cosida al tomo; texto manuscrito a tinta azul, girado 90°, sobre el borde derecho.]",
+    "Proyecto de rectificación",
+    "del Arroyo de Giles",
+    "2",
+    "[«2» subrayado: número de pieza del índice del Tomo 50.]"
+   ],
+   "interpretacion": "Hoja de papel madera cosida al tomo, que hace de camisa del plano, con la leyenda manuscrita «Proyecto de rectificación del Arroyo de Giles» y el número 2 subrayado. Coincide con la pieza 2 del índice del Tomo 50 (V23). Con esto el plano anterior queda identificado."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del pueblo y alrededores con el cauce rectificado (Tomo 50, pieza 2)",
+   "img": "img/v/V24/01.jpg",
+   "fuente": "IMG_1222.JPG (detalles en IMG_1218-1221, 1223-1228)",
+   "orientacion": "sin flecha de N visible; la cuadrícula urbana gira en diagonal (N 16° E según 137) y el arroyo bordea el pueblo por el O",
+   "interpretacion": "Plano a tinta negra con agregados en rojo. En el centro, la cuadrícula urbana con la edificación rayada, más densa alrededor de las plazas San Martín y Colón. A su alrededor, quintas y chacras con su dueño y su inscripción de dominio. Al O corre el arroyo de Giles, con sus meandros dibujados en negro y, en rojo, una doble línea recta: es el cauce rectificado del proyecto, entre el Puente del Ferrocarril y el Puente Carretero del camino a Mendoza («puente de hormigón»). Por las calles pasa la poligonal de medición, de trazos, con sus vértices numerados.",
+   "referencias": [
+    [
+     "1-13",
+     "Municipalidad, Escuelas N.º 1, 12, 3 y 2, Comisaría, Hospital de Caridad, Corralón Municipal, Banco de la Provincia, Correos y Telégrafos, Mercado, Oficina de Correos y Telégrafos, Telégrafo de la Provincia"
+    ],
+    [
+     "En rojo",
+     "Puente del Ferrocarril · Puente Carretero (Sarmiento) · Paso de Piedra · Puente Carretero de la ruta a Mendoza"
+    ],
+    [
+     "Líneas punteadas",
+     "líneas auxiliares de la medición; los números son vértices (nota de IMG_1227)"
+    ],
+    [
+     "Caminos",
+     "general a S. A. de Areco; de Carmen de Areco a Luján; general de Carmen de Areco; Nacional de Capital Federal a Mendoza; general a Mercedes; vecinales"
+    ],
+    [
+     "Equipamientos",
+     "Estación Giles (embarcadero, corral), Parque Municipal, Matadero, Nuevo Cementerio, Polígono de tiro"
+    ],
+    [
+     "F.º N/AAAA · N/AAA",
+     "asiento de dominio (folio o número / año), de 1885 a 1934"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: el arroyo entre el Paso de Piedra y el Puente Carretero de la ruta",
+   "img": "img/v/V24/02.jpg",
+   "fuente": "IMG_1221.JPG",
+   "orientacion": "toma girada respecto del plano",
+   "interpretacion": "El tramo en que el proyecto corta más curvas: la línea roja une en dos o tres tramos rectos el puente de la ruta y el Paso de Piedra, mientras el cauce natural hace una decena de meandros. Al S del arroyo, el polígono de tiro. Al O, el campo de Luis P. M. Sillón (inscripción de 1926), el mismo «campo de Sillón» que se remata en chacras en 1939 (V15).\nVértices 109-114, 121, 122\npoligonal a lo largo del cauce\nPolígono de tiro\nal S del arroyo, junto a Rawson\nCamino vecinal\nllega al Paso de Piedra",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje urbano y rural",
+   "texto": "Hacia 1934 el arroyo de Giles es todavía un cauce de meandros que bordea el pueblo por el O y el SO, con un solo vado propio, el Paso de Piedra, y tres puentes: el del ferrocarril, el carretero de Sarmiento y el de hormigón de la ruta a Mendoza. El proyecto propone canalizarlo en línea recta. El pueblo está rodeado por un anillo de quintas chicas al E y al O, con muchos apellidos italianos, y por chacras grandes al N y al S. En la periferia se ubican los usos que el pueblo aparta: matadero, nuevo cementerio y polígono de tiro. La estación y la avenida Lucas Scully cierran la cuadrícula por el N."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "El plano es un levantamiento por poligonal de calles: hay líneas auxiliares por el eje de cada calzada, vértices numerados en las esquinas (de 1 a casi 200) y cotas de lados largos (250,85; 515,205; 536,53; 950,375; 1733,72 m) y de ángulos. Es el mismo método de los catastros urbanos de 1938 (V01-V09, «hojas catastrales»). El proyecto hidráulico se dibujó en rojo sobre esa base catastral."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todas las medidas están en metros, con hasta tres decimales. No se ve escala; habría que medirla contra la cuadrícula (manzanas de unos 86-87 m según 137). Las inscripciones «F.º 93/930» y «1260/897» son asientos del Registro de la Propiedad (folio o número / año). El rango de fechas, de 1885 a 1934, data el plano."
+  },
+  {
+   "titulo": "Tenencia o uso",
+   "texto": "Las grandes fracciones periurbanas siguen en manos de Juana Pichetto de Gazzaniga, Ángela Pichetto de Saubidet y las Larrosa y Pichetto, de los Méndez, de Sillón y de la sucesión de Juan Pérez. Las quintas cambiaron de dueño sobre todo en 1915-1934, con predominio de apellidos italianos. La Municipalidad tiene su terreno (matadero, 1897), el Parque Municipal (1927) y el nuevo cementerio. Cada fracción afectada por un cauce nuevo tendría que cederse o expropiarse, y por eso se anotan los dominios."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "Es la pieza 2 del índice del Tomo 50 (V23). Las calles Francisco Suero, Domingo Hidalgo, Lucas Scully, Morgan, Espil, José Pichetto y J. B. Etcheverry son las de las hojas catastrales V01-V09. Messina, Bonetti, Pichetto de Culligan y el cementerio viejo aparecen en V17. El «campo de Sillón» es el de V15 y V20. Vicente Dicecco y Ángela Pichetto de Saubidet están en V05 y V09. María Garzonio de Valli e hijos reaparece en V27 (manzana del cementerio viejo [?], 1934). Los Rivas de 1885 pueden ser herederos de quintas del plano de 1884 (V23, 137)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Falta el rótulo general: sólo hay una pestaña cortada y la camisa. Tampoco hay firma, escala ni fecha. No se fotografió el extremo E del plano (gran fracción «JUAN…»). Quedan por resolver: ¿se ejecutó la rectificación (comparar con el cauce actual y con la foto aérea)?; ¿qué indican las líneas rojas finas del centro (¿desagües?)?; ¿«Busto del G. Mitre» es un monumento? Hay que leer las cotas de la poligonal en el original."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Juana Pichetto de Gazzaniga y Ángela Pichetto de Saubidet",
+   "rol": "Propietarias periurbanas",
+   "texto": "Hijas o herederas de José Pichetto, gran propietario al N y al S del pueblo en 1884 (V23). El rótulo «Juana Pichetto / de Gazzaniga» queda partido por el camino a Areco, pero la inscripción es una sola (11282/1910): es la «Juana Picchetto de Gazzaniga» de V02 (16 552 m², 1913). Ángela de Saubidet tiene inscripciones de 1920 y 1927 junto a la estación. En V09 hay una Ángela Pichetto «de Guevara» [?], a verificar.",
+   "fuentes": "Este plano; V02, V05, V23."
+  },
+  {
+   "nombre": "José Manuel Méndez",
+   "rol": "Propietario",
+   "texto": "Dueño de una fracción grande al NO, entre los caminos a Areco y a Luján (F.º 93/930). Es probable que sea el de la «Casa Méndez» de Rivadavia (V26) y el lindero de V27 (1934). La calle Nicolás Méndez lleva el apellido de la familia.",
+   "fuentes": "Este plano; V26; V27."
+  },
+  {
+   "nombre": "Luis P. M. Sillón",
+   "rol": "Propietario",
+   "texto": "Dueño del gran campo al O del arroyo (F.º 94/926), rematado en 50 chacras en 1939 (V15) y lindero del camino Capital-Mendoza en 1936 (V20).",
+   "fuentes": "V15; V20; este plano."
+  },
+  {
+   "nombre": "Agrimensor o ingeniero del proyecto",
+   "rol": "Autor",
+   "texto": "Sin firma en las tomas. Por la técnica (poligonal de calles con vértices numerados) puede ser alguien de la Dirección de Geodesia y Catastro, que levantó las hojas catastrales hacia 1938. No hay datos.",
+   "fuentes": "Sin datos."
+  }
+ ],
+ "titulo": "Rectificación del arroyo de Giles",
+ "estado": "Transcripta (12 hojas, 135 renglones), 2 láminas"
+}

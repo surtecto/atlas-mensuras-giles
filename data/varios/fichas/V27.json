@@ -1,0 +1,229 @@
+{
+ "carpeta": "V27",
+ "carpeta_nombre": "Varios V27",
+ "archivo": "Ficha V27 - Manzanas del pueblo, plaza Mitre (1934).docx",
+ "resumen": {
+  "Documento": "Tomo 50, pieza 5 [?]: «San Andrés de Giles · Manzanas del pueblo»",
+  "Propietario / solicitante": "Municipalidad de S. A. de Giles [?]",
+  "Autor": "s. d. (sin firma)",
+  "Agrimensor": "s. d.",
+  "Año": "marzo de 1934",
+  "Escala": "1:500",
+  "Ubicación": "Manzanas al S de la plaza Gral. Mitre (Etcheverry, J. Pichetto, Ituzaingó)",
+  "Linderos": "J. Uguet, J. y F. Gaspar, J. Rocha, C. Almirón, R. Rubiero, E. Valli, D. Felice",
+  "Rasgos": "Manzana A-B-C-D de 6460,27 m² en 4 fracciones; monte de eucaliptus",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Carpeta 4 = Tomo 50, pieza 5 [?]"
+ },
+ "metricas": {
+  "superficie_ha": "0,646",
+  "hitos": "esquinas A, B, C, D; puntos G, H, I, J, K; «m. a.» [?]",
+  "aguas": "—"
+ },
+ "sintesis": "Plano «San Andrés de Giles · Manzanas del pueblo», escala 1:500, marzo de 1934. Muestra las manzanas al S de la plaza General Mitre, entre Italia y L. N. Alem y entre Rawson y José Pichetto, con sus frentistas (Uguet, Gaspar, Rocha, Almirón, Rubiero, Valli, Rossi, Sobot, Souhilar…). En el centro se mide una manzana, A-B-C-D, de 6460,27 m², con ángulos al segundo: el polígono cierra y el área se verifica. Está dividida en tres fracciones y, a lápiz, se anotan sus dueños: la Municipalidad, una parte «vendida a la Municipalidad» (1800,56 m²), María Garzonio de Valli e hijos y Justo Ramón Roldán. Por el título coincide con la pieza 5 del Tomo 50, «Manzanas del Pueblo, alrededores del Cementerio viejo». La manzana sería la del viejo cementerio o una lindera que la Municipalidad va comprando.",
+ "caratula": {
+  "img": "img/v/V27/01.jpg",
+  "fuente": "IMG_1243.JPG",
+  "campos": [
+   [
+    "Título",
+    "San Andrés de Giles · Manzanas del pueblo"
+   ],
+   [
+    "Escala",
+    "1:500"
+   ],
+   [
+    "Fecha",
+    "marzo de 1934"
+   ],
+   [
+    "Manzana central",
+    "A-B-C-D = 6460,27 m²"
+   ],
+   [
+    "Tomo / pieza",
+    "50 / 5 [?]"
+   ],
+   [
+    "Agregados",
+    "a lápiz: Municipalidad, Valli, Roldán"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Lámina completa: «Manzanas del pueblo», marzo de 1934",
+   "img": "img/v/V27/01.jpg",
+   "fuente": "IMG_1243.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma a 0°. Lámina de papel plegada, encuadernada en el tomo (a la izquierda, el lomo y las hojas anteriores); tinta negra, letra de molde, con agregados a lápiz.]",
+    "SAN ANDRÉS DE GILES",
+    "— MANZANAS DEL PUEBLO —",
+    "[Calles de rumbo transversal, de O a E:] Italia · San Lorenzo · Ituzaingó · Leandro N. Alem",
+    "[Calles longitudinales, de N a S:] Rawson · calle Juan B. Etcheverry · calle José Pichetto",
+    "PLAZA GENERAL MITRE",
+    "[Propietarios de la fila N:] Donato Felice · Joaquín García · José Manuel Méndez",
+    "[Fila central, de O a E:] José Gaspar · Francisco Gaspar · José Uguet · [manzana A-B-C-D, ver IMG_1245] · Juan Rocha · Cruz Almirón · Rosendo Rubiero · Vda. de Souhilar e hijos",
+    "[Fila S, de O a E:] [V]ignetto [?] · Juan Rosso (h) · Francisco Rossi · Esteban Valli · Rosendo Rubiero · Pedro Sobot",
+    "[Cotas de la manzana de Rubiero:] A.E. = 95,26 m · B.F. = 95,26 m",
+    "[En la manzana de Joaquín García, a lápiz: un cálculo de multiplicación, ilegible.]",
+    "ESCALA = 1:500.–",
+    "Marzo de 1934.–"
+   ],
+   "interpretacion": "Plano a tinta, escala 1:500, fechado en marzo de 1934 y titulado «San Andrés de Giles — Manzanas del pueblo». Muestra seis manzanas y media al S de la plaza General Mitre, entre las calles Italia, San Lorenzo, Ituzaingó y Leandro N. Alem y entre Rawson, Juan B. Etcheverry y José Pichetto, con los nombres de los frentistas. El centro del plano es una manzana, A-B-C-D, frente a la plaza (por la calle Etcheverry) que no tiene dueño a tinta: sus datos se agregaron a lápiz."
+  },
+  {
+   "titulo": "Detalle: plaza Mitre y manzana A-B-C-D",
+   "img": "img/v/V27/03.jpg",
+   "fuente": "IMG_1244.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma a 0°; repite IMG_1243 y 1245. Sin texto nuevo.]"
+   ],
+   "interpretacion": "Retoma que repite IMG_1243 y 1245, sin texto nuevo."
+  },
+  {
+   "titulo": "Detalle: la manzana A-B-C-D medida y dividida",
+   "img": "img/v/V27/02.jpg",
+   "fuente": "IMG_1245.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma a 0°.]",
+    "[Lados exteriores, a tinta:] D-A = 78,175 m (cordón de la vereda) · B-A = 84,273 m · C-B = 75,575 m · C-D = 84,145 m",
+    "[Subdivisión a tinta:] DG = 38,005 · GA = 40,170 · IG = 44,780 · HG = 84,121 · JD = 44,725 · CJ = 39,420 · JI = 36,622 m · HI = 39,341 · CH = 35,398 · HB = 40,177 m · KA = 44,932 · BK = 39,341",
+    "[Ángulos:] D 85° 39′ 10″ · A 92° 34′ 10″ · G 92° 34′ 10″ y 87° 25′ 50″ · J 94° 33′ 50″ y 85° 26′ 10″ · I 92° 47′ 10″ [?] · H 87° 12′ 50″ y 92° 47′ 10″ · C 94° 33′ 50″ · B 87° 12′ 50″",
+    "Sup. A.B.C.D. = 6460,27 m²",
+    "Sup. DGIJ = 1666,47 m.c.",
+    "Sup. ABHG = 3378,80 m.c.",
+    "Sup. CJIH = 1415 m.c.",
+    "[A lápiz, en la fracción DGIJ:] Municipalidad de San Andrés de Giles",
+    "[A lápiz, en AKIG:] Vendido a la Municipalidad de San Andrés de Giles. Sup. AKIG = 1800,56 m.c.",
+    "[A lápiz, en CJIH:] María Garzonio de Valli e hijos",
+    "[A lápiz, en BHIK:] Justo Ramón Roldán. Sup. BHIK = 1578,74",
+    "[A lápiz: una línea quebrada con cruces que divide la manzana de O a E, y otra oblicua de I hacia B; «m.a.» [mojón de alambrado [?]] en sus quiebres.]",
+    "[En la manzana vecina al E (Rosendo Rubiero), un damero de puntos con el rótulo vertical:] Monte de eucaliptus",
+    "[Al pie, junto a B:] 12,84 · [junto a C:] 13,86 [ancho de calle [?]]"
+   ],
+   "interpretacion": "La manzana tiene 78,175 × 84,273 × 75,575 × 84,145 m y 6460,27 m², con los ángulos al segundo; el polígono cierra y el área calculada da 6460,23 m². A tinta se divide en tres fracciones: DGIJ (1666,47 m²), ABHG (3378,80 m²) y CJIH (1415 m²). A lápiz se agregan los dueños: la Municipalidad en DGIJ; «Vendido a la Municipalidad» en AKIG (1800,56 m²); María Garzonio de Valli e hijos en CJIH; Justo Ramón Roldán en BHIK (1578,74 m²). Una línea quebrada con cruces (alambrado [?]) cruza la manzana. En la manzana vecina de Rosendo Rubiero se dibuja un «Monte de eucaliptus»."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "San Andrés de Giles · Manzanas del pueblo (1:500, marzo de 1934)",
+   "img": "img/v/V27/01.jpg",
+   "fuente": "IMG_1243.JPG (detalles IMG_1244-1245)",
+   "orientacion": "sin flecha de N; la plaza Mitre arriba a la izquierda; calle José Pichetto abajo",
+   "interpretacion": "Seis manzanas y media alrededor de la manzana A-B-C-D, frente a la plaza General Mitre. Las de alrededor tienen frentistas rotulados a tinta y la línea de edificación con algunos edificios. La A-B-C-D está dibujada con cotas, ángulos y subdivisión, y sus dueños se anotaron a lápiz después. En la manzana de Rosendo Rubiero, al E, un damero de puntos es un «Monte de eucaliptus».",
+   "referencias": [
+    [
+     "A-B-C-D",
+     "manzana medida: 6460,27 m²"
+    ],
+    [
+     "DGIJ",
+     "1666,47 m²: Municipalidad de S. A. de Giles (lápiz)"
+    ],
+    [
+     "ABHG",
+     "3378,80 m² = AKIG 1800,56 («Vendido a la Municipalidad») + BHIK 1578,74 (Justo Ramón Roldán)"
+    ],
+    [
+     "CJIH",
+     "1415 m²: María Garzonio de Valli e hijos (lápiz)"
+    ],
+    [
+     "A.E. = B.F. = 95,26 m",
+     "lados de la manzana de Rubiero"
+    ],
+    [
+     "Calles",
+     "Italia, San Lorenzo, Ituzaingó, L. N. Alem; Rawson, J. B. Etcheverry, José Pichetto"
+    ]
+   ]
+  },
+  {
+   "titulo": "Detalle: la manzana A-B-C-D",
+   "img": "img/v/V27/02.jpg",
+   "fuente": "IMG_1245.JPG",
+   "orientacion": "D arriba a la izquierda, A arriba a la derecha",
+   "interpretacion": "Cotas de lado al milímetro y ángulos al segundo, que suman 360°. Las subdivisiones a tinta son de la medición. Las de lápiz, quebradas y con cruces y la indicación «m. a.», siguen los alambrados existentes [?].",
+   "referencias": [
+    [
+     "D-A",
+     "78,175 m (cordón de la vereda) = 38,005 + 40,170"
+    ],
+    [
+     "B-A",
+     "84,273 m = 39,341 + 44,932"
+    ],
+    [
+     "C-B",
+     "75,575 m = 35,398 + 40,177"
+    ],
+    [
+     "C-D",
+     "84,145 m = 39,420 + 44,725"
+    ],
+    [
+     "Ángulos",
+     "D 85° 39′ 10″ · A 92° 34′ 10″ · B 87° 12′ 50″ · C 94° 33′ 50″"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje urbano",
+   "texto": "Hacia 1934 el borde de la planta urbana junto a la plaza General Mitre todavía tiene manzanas casi vacías, con pocas construcciones, y un monte de eucaliptus en la manzana de Rosendo Rubiero. La manzana A-B-C-D no muestra edificios: es un terreno cercado y subdividido por alambrados. Si es el «cementerio viejo» del índice (pieza 5), es su vecindad inmediata."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Es una medición con teodolito (ángulos al segundo) y cinta (milímetros). Verificado: las sumas parciales de los lados coinciden con los totales; los cuatro ángulos suman 360° 0′ 0″; el polígono cierra con un error menor de 1 mm y su área calculada es 6460,23 m², frente a los 6460,27 declarados. Las fracciones a tinta suman exactamente 6460,27. Las de lápiz (1800,56 + 1578,74 = 3379,30) superan a ABHG (3378,80) en 0,50 m²."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todo en metros, sin varas. La superficie se expresa en m² en el total y en «m. c.» (metros cuadrados) en las fracciones. Escala 1:500."
+  },
+  {
+   "titulo": "Tenencia o uso",
+   "texto": "La Municipalidad tiene DGIJ y está comprando AKIG («vendido a la Municipalidad»), es decir, está reuniendo la manzana. Los otros ocupantes son la familia Valli (María Garzonio de Valli e hijos, que en V24 tiene otra fracción al S, F.º 134/927) y Justo Ramón Roldán. Esteban Valli es frentista en la calle José Pichetto."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "Es la pieza 5 del Tomo 50 (V23): «Manzanas del Pueblo, alrededores del Cementerio viejo». El cementerio viejo figura en el plano de 1884 (137, V23) y en V17. Garzonio de Valli está en V24. José Manuel Méndez, lindero aquí, es el gran propietario del NO en V24. La calle José Pichetto es la de V02 y Juan B. Etcheverry el denunciante del «terreno municipal» en 1899 (METODO.md). El apellido Almirón (Cruz Almirón) es el de la vieja línea Almirón de las fichas 049-050 y 142."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Hay que confirmar que A-B-C-D es el cementerio viejo: el plano no lo rotula, pero el índice sí. Faltan el destino municipal de la manzana (¿plaza?, ¿escuela?, ¿corralón?) y el nombre del agrimensor. Hay un cálculo a lápiz ilegible en la manzana de Joaquín García."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "José Uguet",
+   "rol": "Frentista",
+   "texto": "Dueño de la manzana al O de A-B-C-D, frente a la plaza Mitre. Primera aparición en el corpus.",
+   "fuentes": "Este plano; grep en METODO.md sin resultados."
+  },
+  {
+   "nombre": "María Garzonio de Valli e hijos; Esteban Valli",
+   "rol": "Ocupantes / frentistas",
+   "texto": "La familia Valli tiene la fracción CJIH (1415 m²) y el frente S sobre José Pichetto. En V24 tiene otra fracción al S del pueblo (F.º 134/927). Ángela Valli de Bonetti (V24) puede ser pariente.",
+   "fuentes": "Este plano; V24."
+  },
+  {
+   "nombre": "Justo Ramón Roldán",
+   "rol": "Ocupante",
+   "texto": "Fracción BHIK, 1578,74 m², anotada a lápiz. ¿Pariente de J. A. Roldán, de la división de chacras de otra ficha (METODO.md)? Sin datos.",
+   "fuentes": "Este plano."
+  },
+  {
+   "nombre": "Rosendo Rubiero, Juan Rocha, Cruz Almirón, José y Francisco Gaspar, Donato Felice, Joaquín García, Vda. de Souhilar, Pedro Sobot, Juan Rosso (h), Francisco Rossi, [V]ignetto",
+   "rol": "Frentistas",
+   "texto": "Vecinos de las manzanas del sector en 1934. Sin otros datos. Donato Felice puede ser pariente de Héctor F. Felice, autor de una síntesis histórica de Giles (1930-1940).",
+   "fuentes": "Este plano; búsqueda web 22/11/2026 (sitio municipal)."
+  }
+ ],
+ "titulo": "Municipalidad de S. A. de Giles [?]",
+ "estado": "Transcripta (3 hojas, 29 renglones), 2 láminas"
+}

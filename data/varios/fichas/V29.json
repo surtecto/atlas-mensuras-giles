@@ -1,0 +1,213 @@
+{
+ "carpeta": "V29",
+ "carpeta_nombre": "Varios V29",
+ "archivo": "Ficha V29 - Accesos al puente sobre el arroyo Giles (1918).docx",
+ "resumen": {
+  "Documento": "Tomo 50, pieza 7: cianotipo «Reparación de los accesos al puente»",
+  "Propietario / solicitante": "MOP, Dirección de Hidráulica",
+  "Autor": "Dirección de Hidráulica, Puentes y Caminos (La Plata)",
+  "Agrimensor": "s. d.; firma Gerardi [?]",
+  "Año": "junio de 1918",
+  "Escala": "s. d. (perfil con plano de comparación)",
+  "Ubicación": "Cruce del camino general Luján-S. A. de Areco con el arroyo de Giles",
+  "Linderos": "Arroyo Giles; camino a S. Antonio de Areco (NO) y a Luján (SE)",
+  "Rasgos": "Puente reticulado de 29,80 m; terraplén con 2 curvas de R = 100 m; rampas 1,2 %",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Carpeta 4 = Tomo 50, pieza 7"
+ },
+ "metricas": {
+  "superficie_ha": "—",
+  "hitos": "puente (estribos en 198,02 y 227,82), progresivas cada 50 m",
+  "aguas": "arroyo de Giles, corriente al NE"
+ },
+ "sintesis": "Cianotipo de la Dirección de Hidráulica (Puentes y Caminos) del MOP provincial, La Plata, junio de 1918: proyecto de reparación de los accesos al puente del camino general de Luján a San Antonio de Areco sobre el arroyo Giles. Es la pieza 7 del Tomo 50. La planta muestra el terraplén que entra al puente desde el NO y sale al SE por dos curvas de 100 m de radio, con el arroyo cruzando en diagonal. El perfil da un puente reticulado de 29,80 m de luz con la calzada a cota 10,35, sobre un terreno a 7,90-8,60: rampa de 0,0118 en 148,18 m de un lado y pendiente de 0,01262 en 146,50 m del otro. Las cifras de curvas y rampas se verificaron. Firma Gerardi [?].",
+ "caratula": {
+  "img": "img/v/V29/01.jpg",
+  "fuente": "IMG_1250.JPG",
+  "campos": [
+   [
+    "Repartición",
+    "MOP, Dirección de Hidráulica, Puentes y Caminos"
+   ],
+   [
+    "Obra",
+    "Reparación de los accesos al puente"
+   ],
+   [
+    "Camino",
+    "general de Luján a San Antonio de Areco"
+   ],
+   [
+    "Curso",
+    "arroyo Giles"
+   ],
+   [
+    "Fecha",
+    "La Plata, junio de 1918"
+   ],
+   [
+    "Tomo / pieza",
+    "50 / 7"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Lámina completa: planta y perfil de los accesos al puente (junio de 1918)",
+   "img": "img/v/V29/02.jpg",
+   "fuente": "IMG_1247.JPG",
+   "nota": "Toma a 0°. Cifras del perfil verificadas: (10,35 − 8,60) / 148,18 = 0,0118; 10,35 − 0,01262 × 46,50 = 9,763 (plano 9,77).",
+   "lineas": [
+    "[Toma a 0°. Cianotipo (líneas blancas sobre fondo azul) de una lámina grande, plegada en 4 × 6 paneles y encuadernada en el tomo (a la izquierda, el lomo y una planilla cuadriculada del folio anterior). Arriba la planta del camino; abajo el perfil longitudinal con su planilla de cotas. Rótulo arriba a la derecha (repetido en IMG_1250). Roturas en el borde inferior.]",
+    "[Planta, extremo NO, flecha:] a S.n Antonio de Areco",
+    "[Planta, extremo SE, flecha:] a Luján",
+    "[Líneas punteadas paralelas a ambos lados del eje: los alambrados del camino; cota transversal desde el eje:] 21,90 · 21,90 [?]",
+    "[Ancho del terraplén proyectado:] 6,00 [?]",
+    "[Curva NO:] Radio = 100.",
+    "Ang. = 153° 14′ · Tang. = 23,79 m.t · Semi Desarr. = 23,36 [?] m.t [se lee «23,86»; el cálculo da 23,36]",
+    "[Curva SE:] Radio = 100 m",
+    "Ang. = 137° 15′ · Tang. = 39,14 m.t · Semi Desarr. = 37,31 m.t",
+    "[Arroyo, con flecha de la corriente hacia el NE:] Arroyo Giles",
+    "[En el eje, a lo largo del terraplén, cotas y progresivas en cursiva diminuta (ilegibles a esta escala); sobre el arranque de la curva SE:] 13,75 [?] · 6,525 [?] · 4,861 [?] · 3,175 [?] · 2,050 [?] · 1,151 [?]",
+    "[Perfil longitudinal:]",
+    "Puente sobre el arroyo Giles [viga reticulada de 6 paños en cruz de San Andrés, sobre dos estribos; el lecho del arroyo dibujado debajo]",
+    "10,35 calzada",
+    "Rampa = 0,0118 por m.t en 148,18",
+    "Pendiente = 0,01262 por m.t en 146,50",
+    "[Encabezados de la planilla, a la izquierda:] Plano de comp. + 5 m.t [?] · Cotas del Terreno · Diferencias · Cotas del Proyecto · Cantidades Parciales · ″ ″ Acumuladas",
+    "[Columnas, de O a E — progresiva acumulada: cota del terreno / diferencia / cota del proyecto:]",
+    "0: 9,02 [?] / — / —",
+    "50,00: 8,60 / 0,00 / 8,60",
+    "100,00 [?]: 7,90 / 1,29 / 9,19",
+    "148,18: 8,55 / 1,21 / 9,76",
+    "198,02 [?]: 10,35 / 0,00 / 10,35 [estribo O]",
+    "227,82: 10,35 / 0,00 / 10,35 [estribo E; luz del puente 29,80]",
+    "252,84: 9,89 / 0,15 [?] / 10,04",
+    "274,32: 8,44 / 1,33 / 9,77",
+    "324,32: 8,45 / 0,70 / 9,15",
+    "374,32: 8,50 / 0,00 / 8,50",
+    "424,32 [?]: 8,71 / — / —",
+    "467,84 [?]: 8,92 [?] / — / —",
+    "[Cantidades parciales:] 50,00 · 50,00 · 48,18 · 50,00 · 29,80 · 25,02 · 21,48 · 50,00 · 50,00 · 50 · 43,52 [?]",
+    "P.B.A. / MINISTERIO DE OBRAS PÚBLICAS / DIRECCIÓN DE HIDRÁULICA / PUENTES Y CAMINOS / PARTIDO DE SAN A. DE GILES / REPARACIÓN DE LOS ACCESOS AL PUENTE / CAMINO G.RAL DE LUJÁN A SAN ANTONIO DE ARECO / SOBRE EL ARROYO GILES / La Plata, junio 1918 [firma]"
+   ],
+   "interpretacion": "Cianotipo del MOP de la Provincia, Dirección de Hidráulica, sección Puentes y Caminos. Arriba, la planta del camino general de Luján a San Antonio de Areco en el cruce del arroyo de Giles: un terraplén de unos 6 m de coronamiento [?] que llega al puente desde el NO (a San Antonio de Areco) y sale hacia el SE (a Luján) por dos curvas de 100 m de radio. Abajo, el perfil longitudinal de 467,84 m [?] con la planilla de cotas del terreno y del proyecto: el puente, una viga reticulada de 29,80 m de luz, tiene la calzada a cota 10,35; desde el O se sube con una rampa de 0,0118 por metro en 148,18 m y hacia el E se baja con una pendiente de 0,01262 en 146,50 m. El terreno natural está a 7,90-8,60: el terraplén levanta el camino hasta 1,3 m."
+  },
+  {
+   "titulo": "Detalle: el puente y el perfil central",
+   "img": "img/v/V29/03.jpg",
+   "fuente": "IMG_1248.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°; amplía el centro del perfil de IMG_1247. Confirma las cifras: «Puente sobre el arroyo Giles», «10,35 calzada», «Pendiente = 0,01262 por m.t en 146,50»; columnas 148,10 [?] (9,76 / 1,21 / 8,55), 198,02 (10,35 / 0,00 / 10,35), 227,82 (10,35 / 0,00 / 10,35), 252,84 (10,04 / 9,89), 274,32 (9,77 / 1,33 / 8,44), 324,32 (9,15 / 0,70 / 8,45); parciales 50,00 · 29,80 · 25,02 · 21,48 · 50,00. El estribo E tiene un talud escalonado; el lecho del arroyo aparece como una curva bajo la viga, con agua rayada.]"
+   ],
+   "interpretacion": "Repite las cifras centrales del perfil: el puente reticulado entre las progresivas 198,02 y 227,82 (luz 29,80 m), con la calzada a 10,35 y el lecho del arroyo dibujado debajo; la pendiente de bajada hacia el E. Sirve para leer las cifras dudosas de la toma general."
+  },
+  {
+   "titulo": "Detalle: la planta en el cruce del arroyo",
+   "img": "img/v/V29/04.jpg",
+   "fuente": "IMG_1249.JPG",
+   "nota": "Toma a 0°. Verificado: tangente = R·tg(Δ/2) da 23,79 y 39,14; semidesarrollo = R·Δ/2 da 23,36 y 37,31.",
+   "lineas": [
+    "[Toma a 0°; amplía la planta de IMG_1247. El terraplén (líneas dobles con rayado de talud) se interrumpe en el puente; el arroyo cruza en diagonal, de SO a NE, con su cauce dibujado en varias líneas finas y la flecha de la corriente. Se leen de nuevo «Ang. = 153° 14′ · Tang. = 23,79 m.t · Semi Desarr. = 23,36 [?] m.t», «Ang. = 137° 15′ · Tang. = 39,14 m.t · Semi Desarr. = 37,31 m.t», «Radio = 100» y «Radio = 100 m». En los extremos del puente, rótulos verticales diminutos en el eje («E.° 1… [?]», «E.° 2… [?]»: estacas o estribos [?]).]"
+   ],
+   "interpretacion": "El arroyo de Giles corre de SO a NE (flecha de la corriente) y cruza el camino en diagonal; su cauce se dibuja con varias líneas finas. El terraplén, con rayado de talud, se corta en el puente. Se leen los elementos de las dos curvas: 153° 14′ (tangente 23,79 m) y 137° 15′ (tangente 39,14 m, semidesarrollo 37,31 m), ambas de 100 m de radio."
+  },
+  {
+   "titulo": "Rótulo del plano",
+   "img": "img/v/V29/01.jpg",
+   "fuente": "IMG_1250.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°; amplía el rótulo de IMG_1247.]",
+    "P.B.A.",
+    "MINISTERIO DE OBRAS PÚBLICAS",
+    "DIRECCIÓN DE HIDRÁULICA",
+    "PUENTES Y CAMINOS",
+    "PARTIDO DE SAN A. DE GILES",
+    "REPARACIÓN DE LOS ACCESOS AL PUENTE",
+    "CAMINO G.RAL DE LUJÁN A SAN ANTONIO DE ARECO",
+    "SOBRE EL ARROYO GILES",
+    "La Plata, junio 1918",
+    "[Firma:] D. Gerardi [?]",
+    "[A la derecha, casi borrado:] Ing. de Secc. P. y C. [?]",
+    "[Abajo, casi borrado:] V.° B.° del Ing. Director [?]"
+   ],
+   "interpretacion": "Rótulo en letras de fantasía: Provincia de Buenos Aires, Ministerio de Obras Públicas, Dirección de Hidráulica, Puentes y Caminos; Partido de San A. de Giles; «Reparación de los accesos al puente, camino general de Luján a San Antonio de Areco, sobre el arroyo Giles»; La Plata, junio de 1918. Firma manuscrita (Gerardi [?]) y, casi borrados, los lugares para el ingeniero de sección y el visto bueno del ingeniero director."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Reparación de los accesos al puente sobre el arroyo Giles (MOP, junio de 1918)",
+   "img": "img/v/V29/02.jpg",
+   "fuente": "IMG_1247.JPG (detalles IMG_1248-1250)",
+   "orientacion": "sin flecha de N; San Antonio de Areco arriba a la izquierda, Luján abajo a la derecha",
+   "interpretacion": "Planta y perfil de una obra vial chica: rehacer los terraplenes de acceso a un puente existente. Entre las dos líneas de alambrado del camino general (21,90 m [?] a cada lado del eje), el terraplén de unos 6 m [?] se acerca al puente en recta y sale en curva. El perfil compara el terreno con la rasante proyectada: el camino sube 1,75 m en 148 m hasta el puente y baja 1,85 m en 146,5 m del otro lado. Las cotas son locales, de un plano de comparación arbitrario [?], no referidas al nivel del mar.",
+   "referencias": [
+    [
+     "Ang. = 153° 14′",
+     "curva NO: R = 100, Tang. = 23,79 m, Semi Desarr. = 23,36 [?] m"
+    ],
+    [
+     "Ang. = 137° 15′",
+     "curva SE: R = 100 m, Tang. = 39,14 m, Semi Desarr. = 37,31 m"
+    ],
+    [
+     "Puente sobre el arroyo Giles",
+     "viga reticulada, luz 29,80 m, calzada 10,35"
+    ],
+    [
+     "Rampa",
+     "0,0118 por m en 148,18 m (de 50,00 a 198,02 [?])"
+    ],
+    [
+     "Pendiente",
+     "0,01262 por m en 146,50 m (de 227,82 a 374,32)"
+    ],
+    [
+     "Planilla",
+     "cotas del terreno, diferencias, cotas del proyecto, distancias parciales y acumuladas"
+    ],
+    [
+     "21,90 · 21,90 [?]",
+     "semianchos del camino general entre alambrados"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje rural",
+   "texto": "El camino general de Luján a San Antonio de Areco cruza el arroyo de Giles en un bajo: el terreno está entre 7,90 y 8,60 m (cota local) y el puente obliga a levantar el camino hasta 1,3 m sobre los costados. Es un paisaje de bañado o de llanura de inundación junto al arroyo. El trazado en curva a la salida del puente muestra que el camino no cruzaba el arroyo en ángulo recto: se adaptaba al paso."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Nivelación geométrica con estacas cada 50 m y planilla de perfil; curvas circulares calculadas con tangente y semidesarrollo. Verificado con python: las tangentes (23,79 y 39,14 m) y el semidesarrollo de la segunda curva (37,31 m) cierran con R = 100 m; el primer semidesarrollo da 23,36 m (el plano parece decir 23,86, error de copia o de lectura). La rampa (10,35 − 8,60) / 148,18 = 0,0118 y la pendiente dan las cotas de proyecto del plano con un error de 1-2 cm. Es un cianotipo: copia por contacto de un original en tela."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todo en metros, con decimales al centímetro. Pendientes expresadas «por metro». El ancho del camino general, 43,80 m [?] entre alambrados, no coincide con las 50 varas (43,30 m) de los caminos generales del siglo XIX [?]: la cota 21,90 es dudosa."
+  },
+  {
+   "titulo": "Tenencia o uso",
+   "texto": "Obra pública provincial sobre un camino general; no hay linderos ni propietarios. La Dirección de Hidráulica todavía se ocupa de puentes y caminos en 1918, antes de la Dirección de Vialidad."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "Pieza 7 del índice del Tomo 50 (V23): «Proyecto: Reparación del puente sobre el Arroyo de Giles». V24 (proyecto de rectificación del arroyo, c. 1934) nombra el Puente del F.C., el Puente Carretero de Sarmiento, el Paso de Piedra y el puente de hormigón de la ruta a Mendoza: este puente reticulado de 1918 podría ser el «Puente Carretero» [?]. El «camino de San Antonio de Areco» ya cruza el ejido en la mensura de 137 (1884). La pieza 11 del índice (curva espiral en el camino de Giles a San Antonio de Areco) es una obra posterior sobre el mismo camino. La firma «V. Gerardi [?]» aparece en un D. I. de 1886 (METODO.md)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "No hay escala ni ubicación precisa del puente: hay que buscarlo en el GIS donde el camino a Areco cruza el arroyo de Giles. Dudas: la firma, los semianchos 21,90, el primer semidesarrollo y las progresivas 100,00, 424,32 y 467,84. Las cotas finas escritas sobre el eje del terraplén son ilegibles en las tomas."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Gerardi [?]",
+   "rol": "Firmante del plano (mop, dirección de hidráulica)",
+   "texto": "Firma manuscrita bajo la fecha. Un «V. Gerardi [?]» firma como D. I. (Departamento de Ingenieros) en una mensura de 1886 del corpus; podría ser el mismo funcionario técnico, treinta años después, o un pariente. Sin otros datos.",
+   "fuentes": "IMG_1250; METODO.md (grep «Gerardi»)."
+  }
+ ],
+ "titulo": "MOP, Dirección de Hidráulica",
+ "estado": "Transcripta (4 hojas, 47 renglones), 1 lámina"
+}

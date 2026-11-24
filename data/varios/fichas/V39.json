@@ -1,0 +1,210 @@
+{
+ "carpeta": "V39",
+ "carpeta_nombre": "Varios V39",
+ "archivo": "Ficha V39 - Carpeta 5 (Tomo 51), tapa e índice.docx",
+ "resumen": {
+  "Documento": "Carpeta N.º 5 = Tomo 51: tapa e índice mecanografiado de 34 piezas",
+  "Propietario / solicitante": "Geodesia (serie de Referencias)",
+  "Autor": "s. d. (índice mecanografiado)",
+  "Agrimensor": "—",
+  "Año": "s. f.; c. 1937-1945 [?] (Ruta 9, caminos pavimentados, Dirección de Vialidad)",
+  "Escala": "—",
+  "Ubicación": "Partido de San Andrés de Giles: ferrocarriles, caminos, catastro y campos",
+  "Linderos": "—",
+  "Rasgos": "FF.CC., rutas a Mendoza y Pergamino, límite con Luján, campos Morgan y Moen",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Carpeta 5 = Tomo 51"
+ },
+ "metricas": {
+  "superficie_ha": "—",
+  "hitos": "—",
+  "aguas": "—"
+ },
+ "sintesis": "Tapa e índice de la Carpeta N.º 5 = Tomo 51, la que faltaba entre la Carpeta 4 (Tomo 50, V23-V38) y la 6 (Tomo 52). Se confirma que la Carpeta n es el Tomo 46 + n. El índice enumera 34 piezas: planos de ferrocarriles (F.C.C.B.A., F.C.C.A., C.G.FF.CC.) con las estaciones Heavy, Cucullu, Ruiz, Vagues y Giles; caminos (a Pergamino, Ruta 9; a Mendoza; Luján-Giles; clasificación de caminos); el plano del partido; catastros (uno «facilitado por el Dr A. Espil»; otro con las hipotecas del Banco Provincia); un estudio del límite con Luján; y campos de particulares: Manchi, Zapata, Tormey, Gallo, Civerra, Moen, la estancia «Los Tocayos» de la sucesión de Daniel Morgan, Murray de Mooney y los Morgan (Jorge J., Catalina M. de Hearne, María T. de Hughes). De ese tomo sólo se fotografiaron, quizá, dos láminas (V40).",
+ "caratula": {
+  "img": "img/v/V39/01.jpg",
+  "fuente": "IMG_1289.JPG",
+  "campos": [
+   [
+    "Lomo",
+    "5 (número pintado)"
+   ],
+   [
+    "Rótulo",
+    "PARTIDO DE SAN ANDRÉS DE GILES · CARPETA N.º 5 · Referencias de planos."
+   ],
+   [
+    "Índice",
+    "SAN ANDRÉS DE GILES · TOMO 51 · 34 piezas"
+   ],
+   [
+    "Encuadernación",
+    "media tela roja, tapas jaspeadas, atada con hilo"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Tapa de la Carpeta N.º 5",
+   "img": "img/v/V39/01.jpg",
+   "fuente": "IMG_1289.JPG",
+   "nota": "Toma a 0°; rótulo girado 90°.",
+   "lineas": [
+    "[Lomo en media tela roja, atado con hilo; número pintado:] 5",
+    "[Rótulo mecanografiado pegado:]",
+    "PARTIDO DE SAN ANDRÉS DE GILES",
+    "CARPETA N.º 5",
+    "Referencias de planos."
+   ],
+   "interpretacion": "Es igual a la tapa de la Carpeta N.º 4 (V23): misma serie de «Referencias de planos»."
+  },
+  {
+   "titulo": "Índice, p. 1: piezas 1-24",
+   "img": "img/v/V39/02.jpg",
+   "fuente": "IMG_1290.JPG",
+   "nota": "Toma girada; se publica rotada 90°. Los números de las piezas 1-6 quedan en el pliegue y se reconstruyen por el orden.",
+   "lineas": [
+    "S A N  A N D R É S  D E  G I L E S",
+    "T O M O  51",
+    "1 Plamo F.C.C.B.A. del plano de Geodesia n.º 15 1/2,5000. de empalme a 4 de Febrero Heavy K.108 Giles Cucullu - Ruiz ……",
+    "2 Plano del Partido …… 19-218.",
+    "3 Camino de C.F. a Pergamino. Ruta n.º 9 ……",
+    "4 \" \" \" de Capital Federal a Mendoza parte que cruza al pdo. de S.A. de Giles 1-2.5000 construido con datos suministrados por la Dción de Vialidad ……",
+    "5 F.C.C.A. plano de la Dirección de Caminos n.º 9 Luján a Pergamino K.22 al 68 Vasquez Azcuenaga",
+    "6 C.G.FF.CC. plano de la Dirección de Camino n.º 7 línea a Rosario las indicaciones de los límites de prop. son sin datos el Kilometraje del cruze de la prop. es exacto.",
+    "7 F.C.C.A. planos de Geodesia n.º 31 est. Vagues ……",
+    "8 F.C.C.G.FF.CC. ……",
+    "9 F.C.C.B.A. planos de Geodesia n.º 19 los límites de prop. se pusieron sin datos a escala aprox. ests. Cucullu, y San A. de Giles ……",
+    "10 Camino pavimentado a Mendoza parte San A. de Giles ……",
+    "11 Camino pavimentado de Luján a San Andrés de Giles. Camino a Mendoza.",
+    "12 Clasificación y denominación de caminos ……",
+    "13 Catastro parte Autor anónimo facilitado por el Dr A. Espil ……",
+    "14 Plano de duplicados indicando propiedades afectadas por hipotecas del Banco de la Provincia de Buenos Aires ……",
+    "15 Parte del cuartel 3.º estudiado por Juan Falsa [?] ……",
+    "16 Estudio gráfico de una parte del límite con Luján ……",
+    "17 Prop. de Cecilio Manchi y otros ……",
+    "18 Estación de Giles ……",
+    "19 Campo de la estancia \" Los Tocayos \" prop. de la Suc. de Daniel Morgan ……",
+    "20 Prop. de Valentina V. de Zapata ……",
+    "21 Prop. del Dr Eduardo José Tormey ……",
+    "22 Prop. de la Suc. de Jorge Gallo ……",
+    "23 Prop. de la Suc. de Lorenzo Civerra ……",
+    "24 Terrenos de prop. de Arnaldo Moen ……"
+   ],
+   "interpretacion": "El índice mezcla planos de obra pública nacional y provincial (ferrocarriles, Vialidad, Dirección de Caminos) con planos de campos particulares. Las piezas 24 y 25 repiten casi el mismo título (Arnaldo / Arnoldo Moen)."
+  },
+  {
+   "titulo": "Índice, p. 2: piezas 25-34",
+   "img": "img/v/V39/03.jpg",
+   "fuente": "IMG_1291.JPG",
+   "nota": "Toma girada; se publica rotada 90°. El resto de la página está en blanco, con renglones de puntos.",
+   "lineas": [
+    "25 Terrenos de prop. de Arnoldo Moen ……",
+    "26 Prop. de Arnoldo Moen y otros ……",
+    "27 Campos de la estancia \" Los Tocayos \" prop. de la Suc. de Daniel Morgan ……",
+    "28 2 fichas de Catastro ……",
+    "29 Prop. de la Suc. de María Murray de Mooney ……",
+    "30 Terreno de prop de, Cecilio Manchi ……",
+    "31 Campo de prop. de Jorge J, Morgan ……",
+    "32 Campo de prop. de Catalina Matilde Morgan de Hearne ……",
+    "33 \" \" \" \" \" \" \" \" \" ……",
+    "34 \" \" \" \" María Teresa Morgan de Hughes ……"
+   ],
+   "interpretacion": "El final del tomo reúne las tierras de la familia Morgan y de María Murray de Mooney (madre de Margarita Mooney de Morgan, villa_irlanda.md): campos de herencia irlandesa del NE del partido."
+  }
+ ],
+ "planos": [],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "El Tomo 51 muestra el partido del siglo XX: cuatro líneas férreas con sus estaciones (Giles, Heavy, Cucullu, Ruiz, Vagues, Azcuénaga), el camino pavimentado a Mendoza y los caminos a Pergamino y a Luján, y las grandes estancias que siguen en manos de familias irlandesas (Morgan, Mooney, Tormey)."
+  },
+  {
+   "titulo": "Proceso administrativo",
+   "texto": "Es un tomo de referencias de la Dirección de Geodesia: copias de planos de ferrocarriles, de Vialidad y de la Dirección de Caminos, catastros prestados («facilitado por el Dr A. Espil») y un plano de hipotecas del Banco Provincia. Se usaban para cartografiar el partido."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Las notas del índice valoran la exactitud de cada fuente: «las indicaciones de los límites de prop. son sin datos, el kilometraje del cruce de la prop. es exacto»; «los límites de prop. se pusieron sin datos, a escala aprox.»."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Escalas citadas: 1:2500 (piezas 1 y 4, escritas «1/2,5000» y «1-2.5000»). Kilometrajes ferroviarios y viales (K. 108, K. 22 al 68)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Propietarios del siglo XX: Cecilio Manchi, Valentina V. de Zapata, Dr. Eduardo José Tormey, sucesiones de Jorge Gallo y Lorenzo Civerra, Arnaldo/Arnoldo Moen, sucesión de Daniel Morgan (estancia «Los Tocayos»), sucesión de María Murray de Mooney, Jorge J. Morgan, Catalina Matilde Morgan de Hearne y María Teresa Morgan de Hughes."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "V23 (Carpeta 4 = Tomo 50); V11 (Carpeta 1 = Tomo 47); V12 (Carpeta 6 = Tomo 52); V13-V20 (Carpeta 7 = Tomo 53); 105 (Valentina V. de Zapata, lindera, 1880); 151 (Eduardo Tormey y María Tormey de Morgan, 1885); 104 y 119 (Tormey); 029-034 (Morgan); 067 y villa_irlanda.md (Murray de Mooney); V30 (estación Giles, vías a Cucullu y Heavy); 137 (Espil)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Sólo se fotografiaron la tapa, el índice y quizá dos láminas (V40). Las 34 piezas son una fuente de primer orden para el siglo XX (campos Morgan y Moen, límite con Luján, plano de hipotecas): conviene volver al AHG a fotografiarlas. El nombre «Juan Falsa» (pieza 15) es dudoso."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Daniel Morgan",
+   "rol": "Dueño de la estancia «los tocayos» (su sucesión)",
+   "texto": "En 1896 tiene la faja NO junto al arroyo, lindera de Ormaechea (104). Su sucesión aparece en las piezas 19 y 27.",
+   "fuentes": "Índice; ficha 104."
+  },
+  {
+   "nombre": "María Murray de Mooney",
+   "rol": "Propietaria (su sucesión)",
+   "texto": "Viuda de Guillermo Mooney (025, estancia «San Guillermo»); madre de Guillermo M., María y Margarita M. de Morgan (067; villa_irlanda.md).",
+   "fuentes": "Índice; fichas 025, 067."
+  },
+  {
+   "nombre": "Jorge J. Morgan · Catalina Matilde Morgan de Hearne · María Teresa Morgan de Hughes",
+   "rol": "Propietarios",
+   "texto": "Familia Morgan de Giles en el siglo XX: los hijos o nietos de los Morgan del XIX (029-034) [?]. Las hijas casadas con Hearne y Hughes, también apellidos irlandeses.",
+   "fuentes": "Índice; fichas 029-034."
+  },
+  {
+   "nombre": "Eduardo José Tormey (Dr.)",
+   "rol": "Propietario",
+   "texto": "Sería el Eduardo Tormey de la división de la estancia de Gerónimo Tormey (151, 1885) o un descendiente [?].",
+   "fuentes": "Índice; fichas 104, 119, 151."
+  },
+  {
+   "nombre": "Valentina V. de Zapata",
+   "rol": "Propietaria",
+   "texto": "Lindera en la mensura de Juan Francisco Silva (105, 1880).",
+   "fuentes": "Índice; ficha 105."
+  },
+  {
+   "nombre": "Cecilio Manchi",
+   "rol": "Propietario",
+   "texto": "Piezas 17 y 30. En el plano del pueblo de V40 hay una calle «C. Manchi».",
+   "fuentes": "Índice; V40."
+  },
+  {
+   "nombre": "Arnaldo / Arnoldo Moen",
+   "rol": "Propietario",
+   "texto": "Piezas 24-26 (el índice escribe el nombre de dos maneras). El apellido Moen figura entre los frentistas de la poligonal del arroyo en una ficha V anterior (METODO.md).",
+   "fuentes": "Índice; METODO.md."
+  },
+  {
+   "nombre": "Jorge Gallo · Lorenzo Civerra",
+   "rol": "Propietarios (sus sucesiones)",
+   "texto": "Sin datos en el corpus.",
+   "fuentes": "Índice."
+  },
+  {
+   "nombre": "Juan Falsa [?]",
+   "rol": "Autor de un estudio del cuartel 3.º",
+   "texto": "Lectura dudosa. Sin datos.",
+   "fuentes": "Índice."
+  },
+  {
+   "nombre": "A. Espil (Dr.)",
+   "rol": "Facilitó un catastro",
+   "texto": "Sería el Dr. Alberto Espil, que en 1937 donó un terreno de la Villa Espil para la Policía Caminera (137) [?].",
+   "fuentes": "Índice; ficha 137."
+  }
+ ],
+ "titulo": "Geodesia (serie de Referencias)",
+ "estado": "Transcripta (3 hojas, 41 renglones), 0 láminas"
+}

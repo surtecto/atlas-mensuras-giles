@@ -1,0 +1,125 @@
+{
+ "carpeta": "V40",
+ "carpeta_nombre": "Varios V40",
+ "archivo": "Ficha V40 - Mapa regional y plano del pueblo (c. 1940).docx",
+ "resumen": {
+  "Documento": "Dos láminas sueltas tras la Carpeta 5 [?]: mapa regional y plano del pueblo",
+  "Propietario / solicitante": "Cartografía de referencia",
+  "Autor": "s. d.",
+  "Agrimensor": "—",
+  "Año": "s. f.; c. 1935-1950 [?] («Ruta 7»; camino pavimentado con kilometraje)",
+  "Escala": "no consta",
+  "Ubicación": "Areco, Giles, Luján, Exaltación de la Cruz, Campana, Zárate, Pilar; pueblo de Giles",
+  "Linderos": "—",
+  "Rasgos": "FF.CC. y estaciones; camino pavimentado K. 57-145; Arroyo de Giles; Ruta 7",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Carpeta 5 = Tomo 51 [?]"
+ },
+ "metricas": {
+  "superficie_ha": "—",
+  "hitos": "kilometraje del camino pavimentado (K. 57/118 a K. 145)",
+  "aguas": "Río Paraná de las Palmas, río Luján, río Areco, arroyo de Giles, cañada de la Cruz"
+ },
+ "sintesis": "Las dos últimas tomas de Varios. (1) Un mapa regional impreso, sin rótulo a la vista, que cubre de San Antonio de Areco y Giles a Campana, Zárate y Pilar. Tiene ferrocarriles con estaciones (Giles, Heavy, Km 108, Cucullú, Ruiz, Torres, Alastuey, Azcuénaga, Vagues, Solís, Duggan, Gaynor, Chenaut, Escalada), el camino pavimentado con kilometraje (K. 57/118 a K. 145, por S. A. de Areco), ríos y cascos de estancia. Podría ser una de las piezas viales del índice del Tomo 51 [?]. (2) Un plano del pueblo de San Andrés de Giles con las manzanas edificadas en negro, la Estación Giles, el Arroyo de Giles, las plazas y la «Ruta 7». Tiene los nombres de todas las calles, entre ellas España, Int. G. B. Guevara, N. Méndez, C. Manchi y San Andrés. Ninguna de las dos tiene escala ni fecha a la vista.",
+ "caratula": {
+  "img": "img/v/V40/01.jpg",
+  "fuente": "IMG_1292.JPG",
+  "campos": [
+   [
+    "Lámina 1",
+    "mapa regional impreso (Areco-Giles-Luján-Campana-Zárate)"
+   ],
+   [
+    "Lámina 2",
+    "plano del pueblo con edificación, Est. Giles y Ruta 7"
+   ],
+   [
+    "Rótulos",
+    "no visibles en las tomas"
+   ],
+   [
+    "Pieza del Tomo 51",
+    "quizá 2, 3, 10, 11 o 12 (mapa) [?]"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Mapa regional",
+   "img": "img/v/V40/01.jpg",
+   "fuente": "IMG_1292.JPG",
+   "nota": "Toma a 0°; papel plegado, se ve sólo un sector.",
+   "lineas": [
+    "[Partidos y pueblos:] SAN A. DE ARECO · ARECO · E. DE LA CRUZ · CAMPANA · ZÁRATE · LUJÁN · S.N A. DE GILES · C. DEL SEÑOR · PILAR [?]",
+    "[Estaciones y parajes:] I. Portela · Sta. Coloma · Villa Lía · Los Carreros · Ll. Avallol [?] · Capilla [?] Richieri · Chenaut · Escalada · Pta. La Lata · Diego Gaynor · Solís · La Victoria · Vagues · Azcuénaga · Duggan · Ruiz · Torres · Pta. Alastuey · Etchegoyen · Empalme · Colomá [?] · Open Door · Sucre · Cortínes · Manzanares · Zelaya · Otamendi · Río Luján · Giles · Cucullu · Km 108 · Heavy · C. Keen · Porta · Montoya · Muñoz · Ena. Vieja",
+    "[Kilómetros del camino pavimentado:] K. 145 · K. 140 · K. 135 · K. 130 · K. 125 · K. 120 · K. 117/273 [?] · K. 110 · K. 105 · K. 100 · K. 95 · K. 90 · K. 85 · K. 80 · K. 75 · K. 65 · K. 57/118 [?] · Pda. Km 102 · Pda. Km 56 [?]",
+    "[Aguas:] Río Paraná de las Palmas · Cuarta Sección de Islas · Río Luján · Río de Areco · Arroyo de Giles [?] · Cañada de la Cruz [?] · Cda. de Gómez [?]",
+    "[Otros:] Escuela · Colegio · Almacén · estancias (La Juanita, Las Palmas, La Florida, La Providencia, Los Cardales, El Recreo)"
+   ],
+   "interpretacion": "El camino pavimentado con kilómetros que pasa por S. A. de Areco y Solís es el camino a Pergamino (Ruta 9 en el índice). Giles queda al S, sobre la línea férrea Heavy-Km 108-Giles-Cucullu-Ruiz: la del «empalme a 4 de Febrero Heavy K. 108 Giles Cucullu-Ruiz» de la pieza 1 del Tomo 51 [?]."
+  },
+  {
+   "titulo": "Plano del pueblo",
+   "img": "img/v/V40/02.jpg",
+   "fuente": "IMG_1293.JPG",
+   "nota": "Toma a 0°; mano del fotógrafo a la izquierda; el borde inferior queda cortado.",
+   "lineas": [
+    "Est. GILES · Arroyo de Giles · RUTA 7",
+    "[Calles, un sentido:] L. N. ALEM · FRANCISCO SUERO · DOMINGO HIDALGO · SAAVEDRA · SARMIENTO · MORENO",
+    "[Calles, otro sentido:] BELGRANO · GRAL. MITRE · AVELLANEDA · ALSINA · CARLOS PELLEGRINI · MANUEL QUINTANA · URQUIZA · RAWSON · J. S. ETCHEVERRY [?] · AV. 25 DE MAYO",
+    "[Abajo:] FRANCIA · B. DE IRIGOYEN · 9 DE JULIO · ESPAÑA · LAVALLE · ITALIA · S. LORENZO · ITUZAINGÓ · INTENDENTE G. B. GUEVARA · N. MÉNDEZ · C. MANCHI · SAN ANDRÉS · MAIPÚ · CHACABUCO · […]SPIL [= F. S. Espil] · […]IA [?]",
+    "[Manzanas con edificación en negro; cuatro plazas con diagonales; quintas al E y al S.]"
+   ],
+   "interpretacion": "El pueblo ya llega a la calle San Andrés y a la Ruta 7 (en la numeración nacional de 1935 el camino a Mendoza es la Ruta 7; Villa Irlanda, V37, lo llama «Ruta N.º 9», y el índice del Tomo 51 da «Ruta n.º 9» al camino a Pergamino [?]). Hay calles con nombres de vecinos (Manchi, Méndez, Guevara). Es posterior a V36-V38: el ensanche al S está trazado y loteado."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano del pueblo de San Andrés de Giles con edificación (c. 1940-1950 [?])",
+   "img": "img/v/V40/02.jpg",
+   "fuente": "IMG_1293.JPG",
+   "orientacion": "sin flecha a la vista; la Estación arriba a la izquierda, la Ruta 7 a la derecha",
+   "interpretacion": "Plano impreso o heliográfico del pueblo con la edificación en negro: el centro denso alrededor de las plazas y la periferia casi vacía. Sirve para fechar la consolidación de los loteos de los años treinta.\nManzana negra\nedificación\nManzana con X\nplaza\nDoble línea con trama\nferrocarril",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje",
+   "texto": "El mapa regional muestra el partido articulado por ferrocarriles y caminos pavimentados, con estaciones pequeñas cada 5-10 km. En el plano del pueblo, el arroyo de Giles es el borde O, y la estación y la Ruta 7 marcan los ejes de crecimiento."
+  },
+  {
+   "titulo": "Proceso administrativo",
+   "texto": "Cartografía de referencia, sin firma ni sello: material de consulta de Geodesia."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Mapas impresos o heliográficos, sin escala gráfica visible."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Kilometraje vial desde Buenos Aires (K. 57-145)."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "No se registran propietarios, salvo nombres de estancias en el mapa regional."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "V39 (índice del Tomo 51); V30 (Estación Giles); V36-V38 (calles nuevas); V24 (plano del pueblo con referencias)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "No se ve el rótulo de ninguna de las dos láminas. No se sabe si pertenecen al Tomo 51 o están sueltas. Hay que confirmar la lectura «J. S. Etcheverry» (en V36 se lee «J. B. Etcheverry»)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Cecilio Manchi",
+   "rol": "Nombre de calle",
+   "texto": "Propietario en las piezas 17 y 30 del Tomo 51 (V39).",
+   "fuentes": "Este plano; V39."
+  }
+ ],
+ "titulo": "Cartografía de referencia",
+ "estado": "Transcripta (2 hojas, 10 renglones), 1 lámina"
+}

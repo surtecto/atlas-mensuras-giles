@@ -1,0 +1,261 @@
+{
+ "carpeta": "V37",
+ "carpeta_nombre": "Varios V37",
+ "archivo": "Ficha V37 - Loteo Villa Irlanda, Cuartel 4.º (c. 1937-1940).docx",
+ "resumen": {
+  "Documento": "Tomo 50, pieza 17: plano de loteo «Villa Irlanda», tela, 1:2000",
+  "Propietario / solicitante": "Loteador s. d. (Villa Irlanda)",
+  "Autor": "s. d. (sin firma a la vista)",
+  "Agrimensor": "s. d.",
+  "Año": "s. f.; c. 1937-1940 [?] por los nombres de calles (Fresco, Copello, Justo)",
+  "Escala": "1:2000",
+  "Ubicación": "Cuartel 4.º, entre el Camino de Capital Federal a Mendoza (Ruta 9) y la calle J. A. Roca",
+  "Linderos": "R. Á. Cambra, F. Penna (NO); T. Wallace, Gibauja [?] y Cía. (NE); M. A. Canning (SE)",
+  "Rasgos": "33 manzanas de 4 solares; Plaza San Patricio; calles Dublín, Culleton, Morgan, Gearty",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Carpeta 4 = Tomo 50, pieza 17"
+ },
+ "metricas": {
+  "superficie_ha": "36,87 (368 656,09 m²): 27,07 en manzanas y 9,80 en calles y ochavas",
+  "hitos": "vértices e, B, C, d del polígono",
+  "aguas": "—"
+ },
+ "sintesis": "Pieza 17 del Tomo 50: plano en tela, a escala 1:2000, del loteo «Villa Irlanda», en el Cuartel 4.º. Es un cuadrilátero de 36,87 ha entre el Camino de Capital Federal a Mendoza (Ruta N.º 9), al SO, y las tierras de Rosa Ángela Cambra y Félix Penna, al NO; Tomás Wallace y Gibauja [?] y Cía., al NE; y M. A. Canning, al SE. Se divide en 33 manzanas de cuatro solares de unos 2495 m². La manzana 19 es la Plaza San Patricio. Las calles tienen nombres irlandeses y católicos (Dublín, Juan Culleton, Jorge Morgan, Presbítero Ricardo Gearty, Cardenal Copello, San Jorge, Santa Ana) y de políticos de los años treinta (Pte. Agustín P. Justo, Gob. Fresco, F. Roosevelt). Las superficies cierran exactamente y el polígono cierra a 0,12 m. No tiene firma ni fecha.",
+ "caratula": {
+  "img": "img/v/V37/01.jpg",
+  "fuente": "IMG_1282.JPG",
+  "campos": [
+   [
+    "Rótulo",
+    "– VILLA IRLANDA – · Partido de San Andrés de Giles · Cuartel 4.º"
+   ],
+   [
+    "Sup. destinada a calles",
+    "97 369 m² 32"
+   ],
+   [
+    "Sup. destinada a ochavas",
+    "611 m² 86"
+   ],
+   [
+    "Sup. total destinada a vías públicas",
+    "97 981 m² 18"
+   ],
+   [
+    "Sup. de las manzanas",
+    "270 674 m² 91"
+   ],
+   [
+    "Superficie total",
+    "368 656 m² 09"
+   ],
+   [
+    "Nota",
+    "Las superficies de los solares son libres de ochavas"
+   ],
+   [
+    "Escala",
+    "1:2000"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Rótulo y cuadro de superficies",
+   "img": "img/v/V37/01.jpg",
+   "fuente": "IMG_1282.JPG",
+   "nota": "Toma a 0°; tela con brillo; el plano está plegado sobre el rótulo.",
+   "lineas": [
+    "– VILLA IRLANDA –",
+    "PARTIDO / DE / SAN ANDRÉS DE GILES",
+    "CUARTEL 4.º",
+    "SUPERFICIE DESTINADA A CALLES: 97 369 m² 32",
+    "\" \" \" OCHAVAS: 611 m² 86",
+    "SUP. TOTAL DESTINADA A VÍAS PÚBLICAS: 97 981 m² 18",
+    "\" DE LAS MANZANAS: 270 674 m² 91",
+    "SUPERFICIE TOTAL: 368 656 m² 09",
+    "NOTA: LAS SUPERFICIES DE LOS SOLARES SON LIBRES DE OCHAVAS",
+    "— ESCALA 1:2000 —",
+    "[Sin firma, fecha ni sello en el espacio del rótulo.]"
+   ],
+   "interpretacion": "Comprobado: 97 369,32 + 611,86 = 97 981,18 y 97 981,18 + 270 674,91 = 368 656,09 m². Las calles y ochavas ocupan el 26,6 % del loteo."
+  },
+  {
+   "titulo": "Sector N y E: manzanas 5-8, 12-15, 18-21, 24-26, 28-33",
+   "img": "img/v/V37/02.jpg",
+   "fuente": "IMG_1283.JPG",
+   "nota": "Toma a 0° (lámina en vertical).",
+   "lineas": [
+    "[NO:] […]MBRA [= Rosa Ángela Cambra] · FÉLIX PENNA",
+    "CALLE GENERAL JULIO A. ROCA [con anchos 3 m + 15 m [?] + 3 m y 20 m]",
+    "CALLE DUBLÍN · CALLE PRESIDENTE AGUSTÍN P. JUSTO · CALLE JOSÉ MANUEL ESTRADA · CALLE PRESBÍTERO RICARDO GEARTY · CALLE FRANKLIN ROOSEVELT · CALLE SANTA ANA",
+    "[transversales:] CALLE JUAN CULLETON · CALLE GOBERNADOR FRESCO · CALLE CARDENAL COPELLO · CALLE SAN JORGE · CALLE SATURNINO UNZUÉ",
+    "PLAZA (19) SAN PATRICIO · 94.00 · 94.00 · S: 9982 m² [con senderos diagonales y en cruz, a trazos]",
+    "[Solares tipo:] 47.00 · 50.00 · S: 2495 m² 50 [en casi todas las manzanas]",
+    "[Solares irregulares:] mz. 8: S: 2621 m² 00, 2572 m² 80 · mz. 15: 2638 m² 00, 2689 m² 00 · mz. 21: 2756 m² 36 [?], 2800 m² 12 [?] · mz. 26: 2877 m² 50 [?], 2928 m² 50 · mz. 30: 2994 m² 50, 3045 m² 00 [?] · mz. 32: 3111 m² 50, 3162 m² 50 · mz. 23: 1495 m² 50 [?], 1468 m² 23 [?], 2338 m² 32 · mz. 28: 2352 m² 24, 1546 m² 25 [?], 1245 m² [?] · mz. 31: 1319 m² [?], 1551 m² [?], 2123 m² 90 · mz. 33: 1917 m² 60, 2457 m² 70 · mz. 27: 90 m² 55 [?]",
+    "CALLE SATURNINO UNZUÉ · N. 45° 45′ O. · CB = 737 m.30 [lado NE]",
+    "T O M Á S  W A L L A C E [y, tras una línea divisoria,] G I B A U J A [?]  Y  C í a [rótulo vertical; lectura del primer nombre dudosa]",
+    "dc = 115,22 · N. 45° 25′ E. · M. A. CANNING [lado SE]",
+    "[Camino de Capital Federal] A BUENOS AIRES [flecha]",
+    "MENDOZA · […]TON [= Juan Culleton, al otro lado del camino]",
+    "N. 44° 35′ O. [eje de calles transversales]"
+   ],
+   "interpretacion": "Las manzanas son de unos 94 m de lado con cuatro solares de 2495,50 m² (la plaza, una manzana entera: 4 × 2495,50 = 9982 m², como se lee). Hacia el lado NE (calle Saturnino Unzué) los solares crecen porque ese lado no es paralelo a las calles, y sobre el camino quedan solares triangulares y restos chicos (mz. 9, 16, 22, 27)."
+  },
+  {
+   "titulo": "Sector O: rótulo, manzanas 1-4, 9-11, 16-17, 22-23 y el camino",
+   "img": "img/v/V37/03.jpg",
+   "fuente": "IMG_1284.JPG (rotada 90°) e IMG_1285",
+   "nota": "IMG_1284 se publica rotada 90°; IMG_1285 a 0°, con la rosa de los vientos.",
+   "lineas": [
+    "ROSA ÁNGELA CAMBRA [NO] · eB = 885 m.00 N. 45° 25′ E.",
+    "CALLE GENERAL [Julio A. Roca] · C. SAN ANDRÉS · CALLE SAN BERNARDO · CALLE JORGE MORGAN · CALLE JUAN CULLETON · CALLE GOBERNADOR FRESCO",
+    "DE MENDOZA · RUTA N.º 9 · CAMINO DE CAPITAL FEDERAL A MENDOZA",
+    "ed = 1076 m.58 N. 88° 37′ 30″ E. [?] [lado SO, sobre el camino]",
+    "mz. 1: S: 1186 m² 89 [?] · mz. 2: S: 1724 m² 18, 2495 m² 50 · mz. 9: S: 857 m² 84 · mz. 10: S: 1414 m² 58 · mz. 16: S: 580 m² 95 · mz. 17: S: 1995 m² 50, 1567 m² 14, 2481 m² 21 [?] · mz. 22: S: 226 m² 53 [?]",
+    "[Al otro lado del camino, en letras espaciadas:] […] C U L L E T O N [= Juan Culleton [?]]",
+    "[Rosa de los vientos con N hacia arriba a la derecha (≈ 45°) y O, E.]"
+   ],
+   "interpretacion": "El lado SO del polígono es el camino a Mendoza, que corta las manzanas en diagonal y deja restos triangulares. El nombre del lindero al otro lado del camino se lee «[…]CULLETON»: sería Juan Culleton, el mismo que da nombre a una calle [?]."
+  },
+  {
+   "titulo": "La tela plegada en el tomo, con el número 17",
+   "img": "img/v/V37/04.jpg",
+   "fuente": "IMG_1286.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Tela del loteo plegada; a lápiz, en un óvalo:] 17",
+    "[Arriba asoma la lámina amarilla de la pieza 18 (V38).]"
+   ],
+   "interpretacion": "Confirma que «Villa Irlanda» es la pieza 17 del índice del Tomo 50."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Villa Irlanda, Cuartel 4.º, 1:2000 (pieza 17)",
+   "img": "img/v/V37/02.jpg",
+   "fuente": "IMG_1282-1285",
+   "orientacion": "rosa de los vientos con el N a ≈ 45° (arriba a la derecha en IMG_1285); lado eB N 45° 25′ E",
+   "interpretacion": "Polígono e-B-C-d: eB 885,00 m N 45° 25′ E (contra Cambra y Penna); CB 737,30 m N 45° 45′ O (contra Wallace y Gibauja [?]); dc 115,22 m N 45° 25′ E (contra Canning); ed 1076,58 m N 88° 37′ 30″ E (camino a Mendoza). Calculado: cierra a 0,12 m y encierra 368 640 m², contra 368 656,09 m² declarados (diferencia de 0,004 %). Es un loteo de solares grandes, de quinta urbana, cortado por el camino nacional.",
+   "referencias": [
+    [
+     "Números en círculo 1-33",
+     "manzanas"
+    ],
+    [
+     "1-4 en cada manzana",
+     "solares"
+    ],
+    [
+     "S: …",
+     "superficie del solar, libre de ochavas"
+    ],
+    [
+     "3 m · 15 m · 20 m",
+     "anchos de vereda y calzada [?]"
+    ],
+    [
+     "e, B, C, d",
+     "vértices del polígono"
+    ],
+    [
+     "Plaza San Patricio (19)",
+     "espacio verde, 9982 m²"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje urbano",
+   "texto": "Un loteo de 36,87 ha fuera del pueblo, sobre la ruta a Mendoza, con solares de un cuarto de manzana (≈ 2500 m²): más quinta que lote urbano. La plaza central y las calles con nombres de santos y de Irlanda le dan identidad de colonia irlandesa."
+  },
+  {
+   "titulo": "Proceso administrativo",
+   "texto": "Plano de loteo con cuadro de superficies que separa las calles y ochavas que pasan al dominio público (9,80 ha). No hay sello de aprobación ni firma a la vista."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Polígono de cuatro lados con rumbos al minuto o al segundo y distancias al centímetro; solares de 47 × 53,1 m [?] con ochavas de 4,24 m. Las superficies están calculadas al dm²."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Sistema métrico decimal. El polígono cierra a 0,12 m y la superficie calculada difiere 16 m² de la declarada."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "El loteador no consta. Los nombres de calle Jorge Morgan y Juan Culleton y el lindero Tomás Wallace remiten a las familias irlandesas del XIX en Giles (Morgan: 029-034; Nugent de Wallace: 068; Culleton: 170). Saturnino Unzué y Rosa Ángela Cambra continúan a S. J. Unzué y Pilar Alegre de Cambra (084, 170)."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "V23 (índice: pieza 17); 029, 033, 034 (Morgan); 068 (Nugent de Wallace); 084 y 170 (Cambra, Unzué, Culleton); V20 (Culleton, lindero del camino a Mendoza, 1936 [?]); villa_irlanda.md; V36 y V38 (mismo tomo)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Fecha y loteador desconocidos: hay que buscar el expediente municipal o de Geodesia. Hay que confirmar «Gibauja [?] y Cía.» y el lindero al otro lado del camino. Las superficies de los solares irregulares se leyeron sólo en parte. Pendiente: georreferenciar con el vértice e sobre el camino."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Rosa Ángela Cambra",
+   "rol": "Lindera no",
+   "texto": "Propietaria lindera. Pertenecería a la familia de Pilar Alegre de Cambra (084, 170) [?].",
+   "fuentes": "Este plano; fichas 084 y 170."
+  },
+  {
+   "nombre": "Félix Penna",
+   "rol": "Lindero no",
+   "texto": "Sin datos en el corpus.",
+   "fuentes": "Este plano."
+  },
+  {
+   "nombre": "Tomás Wallace",
+   "rol": "Lindero ne",
+   "texto": "Apellido de la familia irlandesa Nugent de Wallace (068). En 029 figuran «poblaciones Tomás Wallase». Podría ser un descendiente [?].",
+   "fuentes": "Este plano; 029; 068."
+  },
+  {
+   "nombre": "Gibauja [?] y Cía.",
+   "rol": "Lindera ne",
+   "texto": "Lectura dudosa de un rótulo vertical. Sin datos.",
+   "fuentes": "Este plano."
+  },
+  {
+   "nombre": "M. A. Canning",
+   "rol": "Lindero se",
+   "texto": "Sin datos en el corpus.",
+   "fuentes": "Este plano."
+  },
+  {
+   "nombre": "Juan Culleton",
+   "rol": "Nombre de calle; lindero so [?]",
+   "texto": "Herederos de Culleton figuran como linderos en 170, y Culleton entre los linderos del camino a Mendoza (V20). Da nombre a una calle del loteo.",
+   "fuentes": "Este plano; 170; V20."
+  },
+  {
+   "nombre": "Jorge Morgan",
+   "rol": "Nombre de calle",
+   "texto": "Miembro de la familia Morgan de Giles, lindero en 034 [?].",
+   "fuentes": "Este plano; 034."
+  },
+  {
+   "nombre": "Ricardo Gearty (presbítero)",
+   "rol": "Nombre de calle",
+   "texto": "Sacerdote, probablemente de la colectividad irlandesa [?]. Sin datos en el corpus.",
+   "fuentes": "Este plano."
+  },
+  {
+   "nombre": "Saturnino Unzué",
+   "rol": "Nombre de calle",
+   "texto": "Familia Unzué, linderos de campos de Giles (S. J. Unzué en 084 y 170).",
+   "fuentes": "Este plano; 084; 170."
+  },
+  {
+   "nombre": "Manuel A. Fresco · Santiago L. Copello · Agustín P. Justo · Franklin D. Roosevelt",
+   "rol": "Nombres de calles",
+   "texto": "Gobernador de Buenos Aires (1936-1940), cardenal arzobispo de Buenos Aires desde 1935, presidente de la Nación (1932-1938) y presidente de los EE. UU. (1933-1945). Estos nombres fechan el loteo hacia 1936-1940 [?].",
+   "fuentes": "Conocimiento general; este plano."
+  }
+ ],
+ "titulo": "Loteador s. d. (Villa Irlanda)",
+ "estado": "Transcripta (4 hojas, 33 renglones), 1 lámina"
+}

@@ -1,0 +1,228 @@
+{
+ "carpeta": "V26",
+ "carpeta_nombre": "Varios V26",
+ "archivo": "Ficha V26 - Ensanche de la calle Rivadavia (s. f.).docx",
+ "resumen": {
+  "Documento": "Tomo 50, pieza 4 [?]: estudio de alineación (ensanche) de la calle Rivadavia",
+  "Propietario / solicitante": "Ensanche de la calle Rivadavia",
+  "Autor": "s. d. (notas manuscritas anónimas)",
+  "Agrimensor": "s. d.",
+  "Año": "s. d. (c. 1925-1939 [?], por el tomo)",
+  "Escala": "s. d.",
+  "Ubicación": "Calle Rivadavia, de Rawson a la av. Lucas Scully, pueblo de S. A. de Giles",
+  "Linderos": "Hospital, casa Méndez, Colegio N.º 1, plazas Colón y San Martín",
+  "Rasgos": "Líneas de alineación en negro, azul y rojo; 4 «bases» alternativas",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Carpeta 4 = Tomo 50, pieza 4 [?]"
+ },
+ "metricas": {},
+ "sintesis": "Lámina larga y plegada que recorre la calle Rivadavia del pueblo, desde la avenida del S hasta más allá de Francisco Suero, con las manzanas de ambos lados dibujadas por su línea de edificación. Sobre la calle hay varias líneas paralelas en negro, azul y rojo, que son alineaciones alternativas de un ensanche. Una nota manuscrita explica cuatro «bases» posibles: el cerco del Hospital, el frente de la casa Méndez (línea roja continua), el centro de calzada en Francisco Suero y Rawson, o el centro de las manzanas extremas, tomando como extremos la av. Scully y Rawson. A lápiz se anotan el «Colegio N.º 1» y la «Casa Méndez» frente a la plaza San Martín. Por el orden del tomo, sería la pieza 4 del Tomo 50, «Proyecto de ensanche calle Rivadavia».",
+ "caratula": {
+  "img": "img/v/V26/01.jpg",
+  "fuente": "IMG_1239.JPG (tramo frente a la plaza San Martín)",
+  "campos": [
+   [
+    "Tomo",
+    "50 (Carpeta N.º 4)"
+   ],
+   [
+    "Pieza",
+    "4 [?] «Proyecto de ensanche calle Rivadavia»"
+   ],
+   [
+    "Calle",
+    "Rivadavia, de Rawson a la av. Lucas Scully"
+   ],
+   [
+    "Fecha",
+    "s. d."
+   ],
+   [
+    "Soporte",
+    "papel; tinta negra, azul y roja; lápiz"
+   ],
+   [
+    "Notas",
+    "cuatro bases de alineación (IMG_1242)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Tramo S: Rivadavia entre la avenida del S y San Martín",
+   "img": "img/v/V26/03.jpg",
+   "fuente": "IMG_1236.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma a 0°. Lámina larga de papel, plegada en acordeón y encuadernada en el tomo (a la izquierda, el lomo y el borde de la pieza anterior). Dibujo a tinta negra con líneas paralelas en negro, azul y rojo a lo largo de la calle Rivadavia. Sin rótulo ni fecha en esta toma; arriba a la izquierda, sobre la hoja anterior, una palabra manuscrita cortada, ilegible.]",
+    "CALLE SAN MARTÍN",
+    "CALLE RIVADAVIA",
+    "AVE[NIDA …] [cortado; perpendicular a Rivadavia, al O]",
+    "CALLE FELI[PE SANTIAGO ESPIL] [cortado]",
+    "[Manzanas dibujadas sólo por su contorno de línea municipal, con los arranques de las medianeras y de algunas construcciones; en la esquina de Rivadavia con la avenida, el ensanche se ve como un retiro de las líneas.]",
+    "[Vértices de la poligonal: 0, 24 [?], 48 [?]…]"
+   ],
+   "interpretacion": "Arranque de una lámina larga, plegada en acordeón, que sigue la calle Rivadavia de punta a punta, con las manzanas de cada lado dibujadas sólo por su línea de edificación. A lo largo de la calle corren varias líneas paralelas en negro, azul y rojo: las alineaciones posibles de la calle ensanchada. En esta toma no hay rótulo, escala ni fecha."
+  },
+  {
+   "titulo": "Tramo S-centro: plaza Colón",
+   "img": "img/v/V26/04.jpg",
+   "fuente": "IMG_1237.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma a 0°.]",
+    "CALLE SAN MARTÍN · CALLE RIVADAVIA · CALLE FELIPE SANTIAGO ESPIL [con «127» a lápiz debajo [?]] · PLAZA COLÓN",
+    "[En una manzana, a lápiz, paralelo a Rivadavia: «Línea calzada línea [?] …», ilegible.]",
+    "[Las líneas negras y azules corren paralelas a la calle y se quiebran levemente; dos líneas rojas, una llena y otra de trazos, marcan una alineación más recta.]"
+   ],
+   "interpretacion": "Rivadavia entre San Martín y Felipe Santiago Espil, frente a la plaza Colón. Las líneas negras y azules siguen los quiebres de la edificación existente; las rojas (una llena y otra de trazos) proponen una alineación más recta."
+  },
+  {
+   "titulo": "Tramo centro: cuatro manzanas sin rótulos",
+   "img": "img/v/V26/05.jpg",
+   "fuente": "IMG_1238.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma a 0°; manzanas entre plaza Colón y la calle Belgrano, sin nombres de calles. Mismas líneas paralelas en negro, azul y rojo.]"
+   ],
+   "interpretacion": "Cuatro manzanas sin nombres de calle, entre plaza Colón y Belgrano (Alsina, Avellaneda, Gral. Mitre). Se ve bien que la línea municipal real tiene pequeños retiros y salientes de manzana a manzana."
+  },
+  {
+   "titulo": "Tramo centro-N: plaza San Martín, «Colegio N.º 1» y «Casa Méndez»",
+   "img": "img/v/V26/01.jpg",
+   "fuente": "IMG_1239.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma a 0°.]",
+    "CALLE SAN MARTÍN · CALLE RIVADAVIA · CALLE FELIPE SANTIAGO ESPIL",
+    "CALLE BELGRANO · PLAZA SAN MARTÍN · CALLE MORENO · CALLE SARMIENTO",
+    "[A lápiz, dentro de la manzana al S de Rivadavia y O de Belgrano [?]:] Colegio N.º 1",
+    "[A lápiz, en la manzana frente a la plaza, entre Moreno y Sarmiento:] Casa Méndez"
+   ],
+   "interpretacion": "Rivadavia frente a la plaza San Martín, entre Belgrano, Moreno y Sarmiento. Hay dos edificios anotados a lápiz: el «Colegio N.º 1», quizá la Escuela N.º 1 del cuadro de V24, y la «Casa Méndez», que IMG_1242 usa como base de una de las alineaciones."
+  },
+  {
+   "titulo": "Tramo N: Saavedra, Domingo Hidalgo y Francisco Suero",
+   "img": "img/v/V26/06.jpg",
+   "fuente": "IMG_1240.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma a 0°.]",
+    "CALLE SAAVEDRA · CALLE DOMINGO HIDALGO · CALLE FRANCISCO SUERO",
+    "[Las notas manuscritas de IMG_1242 se ven aquí, giradas, en la manzana NE de Rivadavia y Francisco Suero. Al borde derecho asoma otra hoja con escritura a tinta azul (camisa de la pieza siguiente [?]).]"
+   ],
+   "interpretacion": "Las calles del N del eje, con su nombre completo: Saavedra, Domingo Hidalgo y Francisco Suero. Las notas de IMG_1242 están en la manzana NE de Rivadavia y Francisco Suero."
+  },
+  {
+   "titulo": "Extremo N: después de Francisco Suero",
+   "img": "img/v/V26/07.jpg",
+   "fuente": "IMG_1241.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma a 0°.]",
+    "CALLE FRANCISCO SUERO",
+    "[Al E de la última manzana, un haz de líneas oblicuas convergentes (vía del ferrocarril y cauce [?]) y triángulos de construcción; a lápiz, en vertical: «… calzada Francisco Suero, línea …». Vértices 29, 74 [?], 150, 155 [?].]"
+   ],
+   "interpretacion": "Pasando Francisco Suero, la lámina termina en un haz de líneas oblicuas (la vía o el borde del arroyo [?]) y triángulos de construcción, con una anotación a lápiz sobre la «calzada Francisco Suero»."
+  },
+  {
+   "titulo": "Notas manuscritas: cuatro bases para la alineación",
+   "img": "img/v/V26/02.jpg",
+   "fuente": "IMG_1242.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma a 0°, detalle de la manzana de Rivadavia y Francisco Suero; tinta negra, letra cursiva, con un agregado a lápiz.]",
+    "CALLE FRANCISCO SUERO",
+    "← Base = Cerco Hospital [a lápiz:] y su prolongación",
+    "← Base = Frente casa Méndez. Línea recta y línea quebrada. Ver línea roja continua",
+    "← Base = Centro calzada. F.co Suero y Rawson",
+    "← Base = Centro dos manzanas de los extremos",
+    "Nota: como extremos se ha tomado las",
+    "calles Av. Scully y Rawson",
+    "[Abajo, a lápiz, a lo largo de una línea:] … calzada. Francisco Suero. Línea …",
+    "[Cada flecha señala una de las líneas paralelas dibujadas a lo largo de Rivadavia: hay cuatro alineaciones posibles, cada una con su «base».]"
+   ],
+   "interpretacion": "Clave del plano: el autor prueba cuatro «bases» para trazar la nueva línea de Rivadavia. (1) El cerco del Hospital y su prolongación. (2) El frente de la casa Méndez, en línea recta o quebrada (la línea roja continua). (3) El centro de la calzada en Francisco Suero y en Rawson. (4) El centro de las dos manzanas de los extremos. Como extremos del tramo se tomaron la avenida [Lucas] Scully y Rawson. La alineación nueva sale así de edificios existentes, el hospital y una casa particular, y no de un trazado teórico."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Rivadavia y Francisco Suero: las cuatro bases de alineación",
+   "img": "img/v/V26/02.jpg",
+   "fuente": "IMG_1242.JPG (en contexto: IMG_1240-1241)",
+   "orientacion": "Rivadavia en vertical a la izquierda; Francisco Suero arriba",
+   "interpretacion": "La nota manuscrita y sus cuatro flechas señalan otras tantas líneas paralelas a lo largo de Rivadavia: la que prolonga el cerco del Hospital, la del frente de la casa Méndez (recta o quebrada, la roja continua), la del centro de calzada entre Francisco Suero y Rawson y la del centro de las manzanas de los extremos. Las líneas azul, negra y roja, llena y de trazos, del resto de la lámina son esas mismas alternativas.",
+   "referencias": [
+    [
+     "Base 1",
+     "cerco del Hospital y su prolongación (a lápiz)"
+    ],
+    [
+     "Base 2",
+     "frente de la casa Méndez; línea recta y quebrada; línea roja continua"
+    ],
+    [
+     "Base 3",
+     "centro de calzada en Francisco Suero y en Rawson"
+    ],
+    [
+     "Base 4",
+     "centro de las dos manzanas de los extremos"
+    ],
+    [
+     "Extremos",
+     "av. [Lucas] Scully y Rawson"
+    ]
+   ]
+  },
+  {
+   "titulo": "Tramo frente a la plaza San Martín",
+   "img": "img/v/V26/01.jpg",
+   "fuente": "IMG_1239.JPG",
+   "orientacion": "Rivadavia en horizontal; San Martín arriba y Felipe S. Espil abajo",
+   "interpretacion": "Rivadavia en el centro del pueblo, con la plaza San Martín al N. Los rótulos a lápiz «Colegio N.º 1» y «Casa Méndez» marcan los edificios que condicionan la alineación.\nCalles\nSan Martín · Rivadavia · Felipe Santiago Espil · Belgrano · Moreno · Sarmiento\nA lápiz\nColegio N.º 1 · Casa Méndez",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje urbano",
+   "texto": "Rivadavia atraviesa el pueblo por el medio, entre San Martín y Felipe S. Espil, pasando por las plazas San Martín y Colón. Su línea de edificación no es recta: tiene retiros y salientes de manzana a manzana, restos de la traza de 1884 (V23) y de construcciones anteriores a la línea municipal. El ensanche busca convertirla en avenida de acceso, como más tarde la prolongación de la Av. Rivadavia (pieza 10 del Tomo 50)."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Es un plano de trabajo y no una lámina de presentación: tiene varias alineaciones en tintas de colores, notas a mano y cálculos a lápiz. Repite los números de vértice de la poligonal urbana (62, 150, 155…) que aparecen en V24, así que se apoya en el mismo levantamiento."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "No hay cotas legibles ni escala en las tomas. El ancho propuesto no se puede medir sin el original."
+  },
+  {
+   "titulo": "Tenencia o uso",
+   "texto": "El ensanche afecta los frentes de todas las propiedades de Rivadavia. Elegir la base equivale a elegir a quién se expropia la franja: tomar el cerco del Hospital o la casa Méndez como base deja intactos esos frentes."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "Pieza 4 [?] del índice del Tomo 50 (V23). La calle «Francisco Suero» confirma esa lectura en V24, donde se había leído «Suárez [?]». La «Casa Méndez» se relaciona con José Manuel Méndez (V24, V27) y con la calle Nicolás Méndez. El «cerco Hospital» es el del Hospital de Caridad (V24, ref. 5; V25; V05)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "No se fotografió el rótulo, si lo hay. Al borde derecho de IMG_1240 asoma otra hoja con escritura azul, quizá la camisa con el número de pieza. Hay que ver en el original la camisa, la fecha, la escala y el ancho propuesto. También falta determinar si la «av. Scully» es el extremo N y qué alineación se adoptó (comparar con la línea actual de Rivadavia)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Méndez (casa)",
+   "rol": "Frentista de rivadavia",
+   "texto": "La «Casa Méndez», frente a la plaza San Martín, es una de las bases de alineación. Puede ser de la familia de José Manuel Méndez, gran propietario al NO (V24) y lindero de V27. Sin otros datos.",
+   "fuentes": "IMG_1239, 1242; V24; V27."
+  },
+  {
+   "nombre": "Autor de las notas",
+   "rol": "Proyectista",
+   "texto": "Anónimo; letra cursiva a tinta con agregados a lápiz. Sin datos.",
+   "fuentes": "IMG_1242."
+  }
+ ],
+ "titulo": "Ensanche de la calle Rivadavia",
+ "estado": "Transcripta (7 hojas, 33 renglones), 2 láminas"
+}

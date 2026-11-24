@@ -1,0 +1,253 @@
+{
+ "carpeta": "V35",
+ "carpeta_nombre": "Varios V35",
+ "archivo": "Ficha V35 - Plano general acotado, proyecto de afirmado (1933).docx",
+ "resumen": {
+  "Documento": "Tomo 50, pieza 15: «Plano general acotado. Proyecto de afirmado»",
+  "Propietario / solicitante": "Dir. Bonos de Pavimentación",
+  "Autor": "S. Antonio Agustí (1929); E. D. Ocampo (1932); copia 1933",
+  "Agrimensor": "s. d. (auxiliares técnicos)",
+  "Año": "enero de 1929; ampliación nov. 1932; copia dic. 1933",
+  "Escala": "1:2500",
+  "Ubicación": "Planta urbana completa de San Andrés de Giles",
+  "Linderos": "Arroyo San Andrés de Giles (O y S); vía y estación (NO)",
+  "Rasgos": "P.F. 1a-148 con cotas; flechas de escurrimiento; plazas San Martín y Colón; Hospital",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Carpeta 4 = Tomo 50, pieza 15"
+ },
+ "metricas": {
+  "superficie_ha": "— (planta urbana)",
+  "hitos": "148 puntos fijos de nivelación",
+  "aguas": "Arroyo San Andrés de Giles; escurrimiento de las calles hacia el O"
+ },
+ "sintesis": "«San Andrés de Giles · Plano general acotado · Proyecto de afirmado», escala 1:2500: pieza 15 del Tomo 50. Según su nota, copia (La Plata, diciembre de 1933) de un plano de la Dirección de Bonos de Pavimentación firmado por el auxiliar técnico S. Antonio Agustí en enero de 1929, con la ampliación en rojo de la Dirección de Hidráulica (Exp. S-1345-932, E. D. Ocampo, noviembre de 1932). Cubre toda la planta urbana: en cada esquina un punto fijo numerado con su cota (los de la planilla V34), cotas en las manzanas y flechas del escurrimiento en cada calle. Rotula las plazas San Martín y Colón, el Hospital, la estación del F.C.C.B.A., la Av. Scully a Luján, el camino a Azcuénaga y el «Arroyo San Andrés de Giles», hacia el que baja todo el pueblo.",
+ "caratula": {
+  "img": "img/v/V35/01.jpg",
+  "fuente": "IMG_1264.JPG (girada)",
+  "campos": [
+   [
+    "Título",
+    "San Andrés de Giles · Plano general acotado"
+   ],
+   [
+    "Objeto",
+    "Proyecto de afirmado"
+   ],
+   [
+    "Escala",
+    "1:2500"
+   ],
+   [
+    "Original",
+    "Dir. de Bonos de Pavimentación, S. Antonio Agustí, enero de 1929"
+   ],
+   [
+    "Ampliación",
+    "D. de Hidráulica, Exp. S-1345-932, E. D. Ocampo, nov. 1932"
+   ],
+   [
+    "Copia",
+    "La Plata, diciembre de 1933"
+   ],
+   [
+    "Tomo / pieza",
+    "50 / 15"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Lámina completa: «San Andrés de Giles · Plano general acotado · Proyecto de afirmado», 1:2500",
+   "img": "img/v/V35/01.jpg",
+   "fuente": "IMG_1264.JPG",
+   "nota": "La toma está girada 90°; se exportó derecha (rotada).",
+   "lineas": [
+    "[Toma a 0°; la lámina está girada 90° (el rótulo se lee de abajo arriba, a la izquierda). Copia heliográfica [?] en papel, de gran formato, plegada y encuadernada en el tomo (a la izquierda, el lomo y la camisa en blanco). Letra de normógrafo; números de cota diminutos. Las «cotas en rojo» de la nota no se distinguen en esta copia.]",
+    "SAN ANDRÉS DE GILES",
+    "PLANO GENERAL ACOTADO",
+    "PROYECTO DE AFIRMADO",
+    "ESCALA 1:2500",
+    "[Flecha del norte, arriba a la izquierda:] N.",
+    "[Calles de un sentido, de NO a SE:] Saavedra · Sarmiento · Moreno · Belgrano · Gral. Mitre · Avellaneda · Alsina · C. Pellegrini · M. Quintana · Urquiza · Rawson",
+    "[Calles del otro sentido, de NE a SO:] Alem · Ituzaingó · San Lorenzo · Italia · Lavalle · España · Chacabuco · Maipú · 25 de Mayo · Rivadavia · San Martín · 9 de Julio · B. Irigoyen · Francia",
+    "[Calles cortas del borde O:] F.co Suero · Dom.º Hidalgo",
+    "[Plazas:] PLAZA SAN MARTÍN · PLAZA COLÓN",
+    "[Manzana rayada en San Martín y Rivadavia, frente a la calle Rawson:] Hospital",
+    "[Al NO:] Avenida Scully · a Luján · Camino a Azcuénaga · Estación San Andrés de Giles · F.C.C.B.A. · a F.C.C. Lacroze [?]",
+    "[Al SO, sobre la vía:] a Carmen de Areco",
+    "[Curso de agua por el borde O y S, rotulado en letras espaciadas:] ARROYO SAN ANDRÉS DE GILES",
+    "[En cada esquina, un punto fijo con su número («P.F. 1» a «P.F. 148», con los «a» de la serie 1a-19a, los mismos de la planilla IMG_1263) y la cota; dentro de cada manzana, una cota entre paréntesis; en las calzadas, flechas del sentido de escurrimiento del agua.]",
+    "[Muestras de cotas leídas en torno a la plaza San Martín:] P.F. 115 · 46,57 · (45,00) · P.F. 116 · 46,99 · (46,70) · P.F. 117 · 47,38 · P.F. 118 · 47,69 · P.F. 119 · 47,71 · P.F. 120 · 47,80 · (45,90) · 46,53 · (46,45) · 46,99 · (47,05) · 47,23 · (47,30) · 47,56 · (47,45) · 47,58 · P.F. 131 · 45,98 [?] · P.F. 130 · 46,64 · P.F. 129 · 46,901 · P.F. 128 · 46,6[?] · P.F. 127 · 46,93 [?] · (46,95) · (47,20) · (47,60) · (47,45)",
+    "[Muestras del borde SO, junto al arroyo:] P.F. 6a · (41,90) [?] · P.F. 7a · P.F. 136 · (40,80) [?] · P.F. 137 · P.F. 138 · 41,22 [?] · P.F. 139 · 40,77 [?] · P.F. 140 · 40,59 [?] · P.F. 141 · (40,70) [?] · (40,90) [?] · (41,10) [?]",
+    "[Abajo a la derecha, la nota de IMG_1271.]"
+   ],
+   "interpretacion": "Plano de toda la planta urbana para el proyecto de afirmados (pavimentos): en cada esquina, un punto fijo numerado («P.F.»), los mismos de la planilla V34, con su cota; dentro de cada manzana, una cota entre paréntesis (cota de terreno o de rasante [?]); y en cada calzada, una flecha que indica hacia dónde escurre el agua. Rotula las calles, las plazas San Martín y Colón, el Hospital (San Martín, Rivadavia y Rawson), la Estación San Andrés de Giles del F.C.C.B.A. con el camino a Azcuénaga y la Av. Scully a Luján, la vía a Carmen de Areco y el «Arroyo San Andrés de Giles» bordeando el O y el S del pueblo. Las cotas bajan de unos 49 m al E a 40-41 m junto al arroyo."
+  },
+  {
+   "titulo": "Detalle: sector NO (estación, Av. Scully)",
+   "img": "img/v/V35/02.jpg",
+   "fuente": "IMG_1265.JPG",
+   "nota": "Retoma.",
+   "lineas": [
+    "[Retoma; sin texto nuevo.]"
+   ],
+   "interpretacion": "Retoma de una parte de IMG_1264; sin texto nuevo."
+  },
+  {
+   "titulo": "Detalle: Av. Scully y camino a Azcuénaga",
+   "img": "img/v/V35/03.jpg",
+   "fuente": "IMG_1266.JPG",
+   "nota": "Retoma.",
+   "lineas": [
+    "[Retoma; sin texto nuevo.]"
+   ],
+   "interpretacion": "Retoma de una parte de IMG_1264; sin texto nuevo."
+  },
+  {
+   "titulo": "Detalle: sector central E",
+   "img": "img/v/V35/04.jpg",
+   "fuente": "IMG_1267.JPG",
+   "nota": "Retoma.",
+   "lineas": [
+    "[Retoma; sin texto nuevo.]"
+   ],
+   "interpretacion": "Retoma de una parte de IMG_1264; sin texto nuevo."
+  },
+  {
+   "titulo": "Detalle: sector central",
+   "img": "img/v/V35/04.jpg",
+   "fuente": "IMG_1268.JPG",
+   "nota": "Retoma.",
+   "lineas": [
+    "[Retoma; sin texto nuevo.]"
+   ],
+   "interpretacion": "Retoma de una parte de IMG_1264; sin texto nuevo."
+  },
+  {
+   "titulo": "Detalle: plaza Colón y el arroyo",
+   "img": "img/v/V35/05.jpg",
+   "fuente": "IMG_1269.JPG",
+   "nota": "Retoma.",
+   "lineas": [
+    "[Retoma; sin texto nuevo: «Plaza Colón», calles Francia, B. Irigoyen, 9 de Julio, San Martín, Rivadavia, 25 de Mayo, Maipú y el comienzo de la nota.]"
+   ],
+   "interpretacion": "Retoma de una parte de IMG_1264; sin texto nuevo."
+  },
+  {
+   "titulo": "Detalle: borde E",
+   "img": "img/v/V35/06.jpg",
+   "fuente": "IMG_1270.JPG",
+   "nota": "Retoma.",
+   "lineas": [
+    "[Retoma; sin texto nuevo.]"
+   ],
+   "interpretacion": "Retoma de una parte de IMG_1264; sin texto nuevo."
+  },
+  {
+   "titulo": "Detalle: la nota de procedencia (diciembre de 1933)",
+   "img": "img/v/V35/07.jpg",
+   "fuente": "IMG_1271.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°.]",
+    "[Calles al borde:] Francia · B. Irigoyen · 9 de Julio · San Martín · Rivadavia",
+    "Nota: Es copia de un plano de la Dirección de Bonos de Pavimentación firmado por el Aux. Técnico S. Antonio Agustí, en Enero de 1929.",
+    "Las cotas en rojo (– – –) son de ampliación de la D. de Hidráulica, despachando el Exp. S-1345-932. Firmado por el Aux. Técnico E. D. Ocampo, en Noviembre de 1932.",
+    "La Plata, Diciembre de 1933."
+   ],
+   "interpretacion": "La nota explica la genealogía del plano: es copia de un plano de la Dirección de Bonos de Pavimentación firmado por el auxiliar técnico S. Antonio Agustí en enero de 1929; las cotas en rojo son la ampliación de la Dirección de Hidráulica, al despachar el Exp. S-1345-932, firmada por el auxiliar técnico E. D. Ocampo en noviembre de 1932. La copia se fecha en La Plata, diciembre de 1933."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Plano general acotado · Proyecto de afirmado (1:2500; 1929-1933)",
+   "img": "img/v/V35/01.jpg",
+   "fuente": "IMG_1264.JPG (detalles IMG_1265-1271)",
+   "orientacion": "flecha del N arriba a la izquierda de la toma; leído derecho, el rótulo a la izquierda y la estación al NO",
+   "interpretacion": "Plano de proyecto hidráulico-vial: sobre la cuadrícula completa del pueblo se marcan la red de puntos fijos de nivelación, las cotas y el sentido del escurrimiento de cada cuadra. Con eso se diseñan las rasantes de los pavimentos y el desagüe pluvial hacia el arroyo, que bordea el pueblo por el O y el S con el nombre de «Arroyo San Andrés de Giles».",
+   "referencias": [
+    [
+     "P.F. n.º",
+     "punto fijo de nivelación (planilla V34)"
+    ],
+    [
+     "Cifra junto a la esquina",
+     "cota del punto o del cordón"
+    ],
+    [
+     "(Cifra)",
+     "cota dentro de la manzana (terreno o rasante [?])"
+    ],
+    [
+     "Flecha en la calzada",
+     "sentido del escurrimiento"
+    ],
+    [
+     "Plaza San Martín · Plaza Colón",
+     "plazas"
+    ],
+    [
+     "Hospital",
+     "manzana rayada en San Martín, Rivadavia y Rawson"
+    ],
+    [
+     "F.C.C.B.A. · a F.C.C. Lacroze [?] · a Carmen de Areco",
+     "ferrocarril y sus destinos"
+    ],
+    [
+     "Avenida Scully · a Luján · Camino a Azcuénaga",
+     "salidas del NO"
+    ],
+    [
+     "ARROYO SAN ANDRÉS DE GILES",
+     "curso de agua del borde O y S"
+    ],
+    [
+     "Cotas en rojo",
+     "ampliación de la D. de Hidráulica (no visibles en esta copia)"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje urbano",
+   "texto": "El pueblo de 1929-1933 ocupa la cuadrícula de Francia a Alem y de F.co Suero a Rawson, con la estación y la Av. Scully al NO y el arroyo al O y al S. Todas las flechas llevan el agua hacia el arroyo: la ciudad es un plano inclinado de unos 8-9 m de desnivel (V34). Las cuadras junto al arroyo quedan a 40-41 m, expuestas a las crecidas."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Plano de gabinete sobre un relevamiento altimétrico (nivelación) de 1929 completado en 1932: es la versión gráfica de la planilla V34. Tiene tres capas de autoría (Agustí 1929, Ocampo 1932, copia 1933). Las cotas se leyeron sólo por muestras: son demasiado chicas en las tomas para transcribirlas todas, pero coinciden con V34 (P.F. 129 = 46,896 en la planilla; 46,901 [?] en el plano)."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Escala 1:2500; cotas en metros con dos o tres decimales."
+  },
+  {
+   "titulo": "Tenencia o uso",
+   "texto": "Obra pública financiada por el régimen de Bonos de Pavimentación (repartición provincial con plano propio en 1929). El Hospital ocupa una manzana entera sobre San Martín y Rivadavia, junto a Rawson; la plaza Colón está sobre 25 de Mayo y Rivadavia [?]."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "Pieza 15 del índice del Tomo 50 (V23): «Proyecto de afirmados acotado». V34: la planilla de los mismos puntos fijos (pieza 14 bis). V26: el ensanche de Rivadavia tomaba como base el cerco del Hospital, que aquí aparece en San Martín, Rivadavia y Rawson. V05: plaza Colón y Hospital de Caridad. V31: la estación del F.C.C.B.A. y el camino a Azcuénaga. V24: el arroyo que aquí se llama «Arroyo San Andrés de Giles» es el que se proyecta rectificar hacia 1934."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Falta transcribir todas las cotas (convendría un recorte de alta resolución por cuadrante) y ver si existe la copia con la ampliación en rojo. Dudas: el significado de las cotas entre paréntesis y el rótulo «a F.C.C. Lacroze»."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "S. Antonio Agustí",
+   "rol": "Auxiliar técnico, dirección de bonos de pavimentación",
+   "texto": "Firmó en enero de 1929 el plano original. Sin otros datos.",
+   "fuentes": "IMG_1271; una búsqueda web sobre la Dirección de Bonos de Pavimentación devolvió sólo leyes provinciales en normas.gba.gob.ar, sin datos de personal."
+  },
+  {
+   "nombre": "E. D. Ocampo",
+   "rol": "Auxiliar técnico, dirección de hidráulica",
+   "texto": "Firmó en noviembre de 1932 la ampliación (Exp. S-1345-932) y probablemente la planilla V34.",
+   "fuentes": "IMG_1271; IMG_1263."
+  }
+ ],
+ "titulo": "Dir. Bonos de Pavimentación",
+ "estado": "Transcripta (8 hojas, 29 renglones), 1 lámina"
+}

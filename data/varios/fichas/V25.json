@@ -1,0 +1,220 @@
+{
+ "carpeta": "V25",
+ "carpeta_nombre": "Varios V25",
+ "archivo": "Ficha V25 - Hospital, pabellón de infecciosos (1923).docx",
+ "resumen": {
+  "Documento": "Tomo 50, pieza 3 [?]: «Proyecto de Hospital… Pabellón de Infecciosos»",
+  "Propietario / solicitante": "Hospital de San Andrés de Giles",
+  "Autor": "MOP de la Prov. de Buenos Aires, Dirección de Arquitectura y FF. CC.",
+  "Agrimensor": "— (arquitecto, firma ilegible)",
+  "Año": "La Plata, mayo de 1923 [?]",
+  "Escala": "ilegible",
+  "Ubicación": "Hospital de Caridad de S. A. de Giles",
+  "Linderos": "— (plano de edificio)",
+  "Rasgos": "Dos alas (Mujeres y Hombres), galería, pensionistas, office, enfermera",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Carpeta 4 = Tomo 50, pieza 3 [?]"
+ },
+ "metricas": {},
+ "sintesis": "Lámina del Ministerio de Obras Públicas de la Provincia de Buenos Aires (Dirección de Arquitectura y FF. CC.), fechada en La Plata en mayo de 1923 [?]: «Proyecto de Hospital para San Andrés de Giles · Pabellón de Infecciosos». Tiene planta, fachada principal, fachada lateral y dos secciones, dibujadas a tinta roja. Es un pabellón aislado de una planta, con dos alas simétricas para mujeres y hombres unidas por una galería y por un cuerpo de servicios (baño, ropero, enfermera, office) y, al fondo de cada ala, dos cuartos para pensionistas. El cuadro de referencias (cómputo, pliego, informe) quedó en blanco. Por el orden del tomo es la pieza 3, «Plano del Hospital», del índice del Tomo 50. Es el Hospital de Caridad de las hojas catastrales (V05) y del cuadro de V24.",
+ "caratula": {
+  "img": "img/v/V25/01.jpg",
+  "fuente": "IMG_1230.JPG",
+  "campos": [
+   [
+    "Repartición",
+    "M. de O. Públicas, Dir. de Arquitectura y FF. CC."
+   ],
+   [
+    "Título",
+    "Proyecto de Hospital para San Andrés de Giles"
+   ],
+   [
+    "Pabellón",
+    "de Infecciosos"
+   ],
+   [
+    "Lugar y fecha",
+    "La Plata, mayo de 1923 [?]"
+   ],
+   [
+    "Firmas",
+    "Inspector, Director, Arquitecto (ilegibles)"
+   ],
+   [
+    "Tomo / pieza",
+    "50 / 3 [?] («Plano del Hospital»)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Lámina completa: rótulo, fachadas, secciones y planta",
+   "img": "img/v/V25/01.jpg",
+   "fuente": "IMG_1230.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma a 0°. Lámina de papel plegada y encuadernada en el tomo (a la izquierda, el lomo); dibujo a tinta roja (copia heliográfica o dibujo en tinta carmín [?]); esquina superior izquierda rota. Arriba a la izquierda, un sello circular borroso.]",
+    "M. DE O. PÚBLICAS",
+    "DE LA",
+    "PROV. DE B. AIRES",
+    "DIRECCIÓN",
+    "DE",
+    "ARQUITECTURA Y FF. CC.",
+    "PROYECTO DE",
+    "HOSPITAL PARA",
+    "SAN ANDRÉS DE GILES",
+    "PABELLÓN DE INFECCIOSOS",
+    "ESCALA [ilegible]",
+    "V.º B.º [DEL] INSPECTOR [firma ilegible]                EL ARQUITECTO [firma ilegible]",
+    "V.º B.º DEL DIRECTOR [firma: «José [?] …»]",
+    "LA PLATA, MAYO DE 1923 [?]",
+    "REFERENCIAS",
+    "Cómputo y Presupuesto [en blanco]",
+    "Pliego de Condiciones [en blanco]",
+    "Informe de [en blanco]",
+    "[Dibujos y rótulos:] FACHADA PRINCIPAL · FACHADA LATERAL · SECCIÓN A-B · SECCIÓN C-D · PLANTA",
+    "[Planta, de arriba abajo:] BAÑO · ROPERO · ENFERMERA · OFFICE | OFFICE · ENFERMERA · ROPERO · BAÑO · W. C. · GALERÍA · MUJERES | HOMBRES · BAÑO, W. C. · PENSIONISTAS · PENSIONISTAS (en cada ala)",
+    "[Letras en círculo (A, B, C, D) junto a muros y aberturas: tipos de abertura o de muro, sin cuadro que las explique en esta lámina.]"
+   ],
+   "interpretacion": "La lámina entera, encuadernada en el tomo. Rótulo: «M. de O. Públicas de la Prov. de B. Aires · Dirección de Arquitectura y FF. CC. · Proyecto de Hospital para San Andrés de Giles · Pabellón de Infecciosos», La Plata, mayo de 1923 [?]. Lleva el V.º B.º del Inspector y el del Director y la firma del Arquitecto, ninguna legible, y un cuadro de «Referencias» (cómputo y presupuesto, pliego de condiciones, informe) que quedó en blanco. El dibujo, a tinta roja, reúne las dos fachadas, dos secciones y la planta. No es el plano del Hospital de Caridad entero sino de un pabellón aislado para enfermos contagiosos."
+  },
+  {
+   "titulo": "Retoma del rótulo",
+   "img": "img/v/V25/04.jpg",
+   "fuente": "IMG_1231.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma con la lámina girada 90°; repite IMG_1230. Se confirma la fecha:] LA PLATA MAYO de 1923 [el último dígito, 3, algo dudoso]"
+   ],
+   "interpretacion": "La misma lámina girada. Sirve para confirmar la fecha «La Plata, mayo de 1923»: el último dígito se lee 3, con algo de duda."
+  },
+  {
+   "titulo": "Secciones A-B y C-D",
+   "img": "img/v/V25/05.jpg",
+   "fuente": "IMG_1232.JPG",
+   "nota": "Vista en la hoja de contacto y en IMG_1230-1231; no se ampliaron las cotas.",
+   "lineas": [
+    "[Toma a 0° de la mitad izquierda, vista en la hoja de contacto y en IMG_1230-1231; secciones transversales de las salas con techo plano, cielorraso, cimientos escalonados y galería; cotas ilegibles a esta resolución.]",
+    "SECCIÓN A-B · SECCIÓN C-D"
+   ],
+   "interpretacion": "Cortes transversales de las salas: muros gruesos, cimientos escalonados, techo plano con pretil, cielorraso alto y galería con alero. Es la arquitectura higienista típica: mucha altura y ventilación cruzada."
+  },
+  {
+   "titulo": "Fachada principal",
+   "img": "img/v/V25/03.jpg",
+   "fuente": "IMG_1233.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma a 0°.]",
+    "FACHADA PRINCIPAL",
+    "[Fachada simétrica, de una planta, con cornisa y pretil; cuerpos extremos salientes con una ventana grande cada uno; tres ventanas de dos hojas con banderola a cada lado de la entrada central, que es un pórtico saliente cortado en sección.]",
+    "[Cota superior de la planta:] 13,15 m [?] · 4,30 m · 9,35 m [?]"
+   ],
+   "interpretacion": "Fachada simétrica, de una planta, con cornisa y pretil. En los extremos, dos cuerpos salientes con una ventana grande cada uno; en el centro, un pórtico de acceso con frontis recto; a cada lado, tres ventanas de dos hojas con banderola. Al pie, la cota general de la planta: 13,15 m [?] (4,30 + 9,35 [?])."
+  },
+  {
+   "titulo": "Fachada lateral",
+   "img": "img/v/V25/06.jpg",
+   "fuente": "IMG_1234.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma a 0°.]",
+    "FACHADA LATERAL",
+    "[Fachada del ala, de una planta: cuerpos extremos salientes con pretil y dos ventanas cada uno; entre ellos, cuatro ventanas de dos hojas con banderola (las de la sala general); zócalo y cornisa corridos.]"
+   ],
+   "interpretacion": "La fachada del ala, con cuatro ventanas de sala entre dos cuerpos salientes de dos ventanas: los de los cuartos de pensionistas y los de los servicios."
+  },
+  {
+   "titulo": "Planta",
+   "img": "img/v/V25/02.jpg",
+   "fuente": "IMG_1235.JPG",
+   "nota": "",
+   "lineas": [
+    "[Toma a 0°.]",
+    "PLANTA",
+    "[Cotas legibles:] 25,30 m [largo del ala] · 13,40 m [frente de la sala] · 15,15 m [?] · 9,75 m [?]",
+    "[Dos alas simétricas, MUJERES (O) y HOMBRES (E), unidas por una GALERÍA a lo largo del frente; cada ala: sala general con cuatro pares de ventanas enfrentadas, y en su extremo dos cuartos de PENSIONISTAS con BAÑO y W. C.; en el cuerpo del frente, BAÑO, W. C., ROPERO, ENFERMERA y OFFICE para cada sexo.]"
+   ],
+   "interpretacion": "Dos alas simétricas, MUJERES y HOMBRES, unidas al frente por una GALERÍA y por un cuerpo de servicios (baño, W. C., ropero, enfermera y office para cada sexo). Cada ala tiene una sala general con cuatro pares de ventanas enfrentadas y, al fondo, dos cuartos de PENSIONISTAS con baño. Cotas legibles: 25,30 m de largo del ala y 13,40 m de la sala. La separación por sexo y la de los pensionistas (pacientes pagos) de la sala común son la regla de los hospitales públicos de la época."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Planta del Pabellón de Infecciosos",
+   "img": "img/v/V25/02.jpg",
+   "fuente": "IMG_1235.JPG (también IMG_1230)",
+   "orientacion": "sin flecha de N; el frente con la galería y los servicios arriba",
+   "interpretacion": "Planta en U doble. Al frente, la galería corrida y, a cada lado del eje, un cuerpo de servicios. De ahí salen dos alas, de 25,30 m de largo, con la sala general de cada sexo, con ventanas enfrentadas y tabiques bajos [?], y al fondo dos cuartos de pensionistas con baño. Los muros y aberturas llevan letras en círculo (A, B, C, D), que serían tipos de carpintería o de muro, explicados en un pliego que no está en el tomo.",
+   "referencias": [
+    [
+     "MUJERES / HOMBRES",
+     "salas generales, una por ala"
+    ],
+    [
+     "PENSIONISTAS",
+     "dos cuartos por ala, con baño y W. C."
+    ],
+    [
+     "GALERÍA",
+     "corredor de frente que une las alas"
+    ],
+    [
+     "ENFERMERA · OFFICE · ROPERO · BAÑO · W. C.",
+     "servicios de cada sexo en el frente"
+    ],
+    [
+     "A · B · C · D",
+     "marcas de aberturas o muros (sin cuadro)"
+    ],
+    [
+     "Cotas",
+     "25,30 m (ala) · 13,40 m (sala) · 13,15 m [?] · 4,30 m · 9,35 m [?]"
+    ]
+   ]
+  },
+  {
+   "titulo": "Fachada principal",
+   "img": "img/v/V25/03.jpg",
+   "fuente": "IMG_1233.JPG",
+   "orientacion": "alzado",
+   "interpretacion": "Fachada clasicista despojada, de una planta, con zócalo, cornisa y pretil. El acceso central es un pórtico con frontis recto; los cuerpos extremos sobresalen. Es la arquitectura pública provincial de los años veinte, de mampostería revocada.\nPórtico central\nacceso\nCuerpos extremos\ncuartos de servicio",
+   "referencias": []
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje urbano",
+   "texto": "El pabellón de infecciosos se construye aparte del cuerpo principal del hospital, según la doctrina higienista del aislamiento. En el catastro de 1938 (V05, V07) el Hospital de Caridad ocupa una manzana del sector O-SO, con una manzana Sarlinga «donada al Hospital». V26 usa el «cerco Hospital» como base para alinear la calle Rivadavia, de modo que el hospital daba a Rivadavia, cerca de Francisco Suero."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Es un dibujo de arquitectura a tinta roja sobre papel, quizá una copia, con letras de fantasía en el rótulo, como en otros planos del MOP. Tiene planta, dos fachadas y dos secciones en una sola lámina, con espacio para firmas. No hay implantación en el terreno ni orientación."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Todo en metros, con dos decimales: ala de 25,30 m, sala de 13,40 m, frente parcial de 13,15 m [?]. La escala no se pudo leer."
+  },
+  {
+   "titulo": "Tenencia o uso",
+   "texto": "Es una obra pública provincial en un establecimiento local (Hospital de Caridad, sostenido por una sociedad de beneficencia [?]). La planta separa a los internados por sexo y por condición: sala común o cuarto de pensionista pago."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "Es la pieza 3 del índice del Tomo 50 (V23), «Plano del Hospital», por el orden: va después de la camisa de la pieza 2 (V24, IMG_1229). El Hospital de Caridad es la referencia 5 del cuadro de V24 y figura en V05 y V07 (manzana Sarlinga «donado al Hospital»). En V26, el «cerco Hospital» es una de las bases de la alineación de Rivadavia."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "No se fotografió una camisa con número de pieza, así que el número 3 es una deducción. Falta leer la escala y las firmas. Queda por verificar si el pabellón se construyó y cuándo; la Municipalidad publica un libro sobre la historia del hospital («libro_hospital_texto.pdf», sanandresdegiles.gob.ar) que no se consultó."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Arquitecto, Inspector y Director (firmas ilegibles)",
+   "rol": "Mop, dirección de arquitectura y ff. cc.",
+   "texto": "Tres firmas autógrafas que no se pudieron leer: el V.º B.º del Director empieza con «José [?]». Sin otros datos.",
+   "fuentes": "IMG_1230-1231; búsqueda web 22/11/2026 sin resultados específicos."
+  }
+ ],
+ "titulo": "Hospital de San Andrés de Giles",
+ "estado": "Transcripta (6 hojas, 36 renglones), 2 láminas"
+}

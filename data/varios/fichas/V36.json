@@ -1,0 +1,191 @@
+{
+ "carpeta": "V36",
+ "carpeta_nombre": "Varios V36",
+ "archivo": "Ficha V36 - Proyecto de manzanas en tierras de Pérez de Echandi (c. 1935).docx",
+ "resumen": {
+  "Documento": "Tomo 50, pieza 16: proyecto de división en manzanas (plano en papel, tinta roja y negra)",
+  "Propietario / solicitante": "Balbina M. Pérez de Echandi",
+  "Autor": "s. d. (sin rótulo ni firma a la vista)",
+  "Agrimensor": "s. d.",
+  "Año": "s. f.; c. 1935-1936 [?] (loteo «Ampliación al Sud» aprobado 14/8/1936)",
+  "Escala": "no consta; manzanas de 80 m y calles de 15 m acotadas",
+  "Ubicación": "Al S de Rivadavia, a ambos lados del Camino de Capital Federal a Mendoza",
+  "Linderos": "Pueblo existente (Rivadavia, F. S. Espil, Maipú, Chacabuco, Rawson, Alem, Guevara)",
+  "Rasgos": "Cuadrícula roja de manzanas de 80 m; Av. 25 de Mayo y Av. España; Camino General [?]",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Carpeta 4 = Tomo 50, pieza 16"
+ },
+ "metricas": {
+  "superficie_ha": "no consta (≈ 30 manzanas de 80 × 80 m proyectadas [?])",
+  "hitos": "—",
+  "aguas": "—"
+ },
+ "sintesis": "Pieza 16 del Tomo 50. Es un plano grande en papel, plegado en el tomo y fotografiado en nueve sectores, con una camisa que dice a lápiz «Proyecto de división en manzanas de los terrenos de Balbina Pérez de Echandi / 16». Sobre el pueblo existente, dibujado en negro con sus calles (Rivadavia, Felipe S. Espil, Maipú, Chacabuco, Rawson, Lavalle, Italia, San Lorenzo, Ituzaingó, Alem, Int. Guevara), se proyecta en tinta roja una cuadrícula de manzanas de 80 m con calles de 15 m, «paralelas a Rivadavia», «paralelas al Camino a Mendoza» y «paralelas a la Avenida 25 de Mayo», y avenidas de 30 m. El Camino de Capital Federal a Mendoza la atraviesa en diagonal. No se ven rótulo, escala, fecha ni firma.",
+ "caratula": {
+  "img": "img/v/V36/01.jpg",
+  "fuente": "IMG_1281.JPG",
+  "campos": [
+   [
+    "Camisa (lápiz)",
+    "Proyecto de división en manzanas de los terrenos de Balbina Pérez de Echandi"
+   ],
+   [
+    "Número de pieza",
+    "16"
+   ],
+   [
+    "Lámina",
+    "IMG_1272-1280, sin rótulo a la vista"
+   ],
+   [
+    "Trazado proyectado",
+    "manzanas de 80 m, calles de 15 m, ochavas"
+   ],
+   [
+    "Tomo",
+    "50 (Carpeta N.º 4)"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Camisa de la pieza 16",
+   "img": "img/v/V36/01.jpg",
+   "fuente": "IMG_1281.JPG",
+   "nota": "Toma a 0°; texto a lápiz girado 90°.",
+   "lineas": [
+    "[Camisa de papel blanco, encuadernada en el tomo; a lápiz, girado 90°:]",
+    "Proyecto de división / en manzanas de los / terrenos de Balbina / Pérez de Echandi",
+    "16"
+   ],
+   "interpretacion": "Es el título que el índice del Tomo 50 (V23) da a la pieza 16. La camisa aparece después de los nueve sectores del plano: es la hoja que lo envuelve."
+  },
+  {
+   "titulo": "Sector NO: calle de Espora y primeras manzanas proyectadas",
+   "img": "img/v/V36/03.jpg",
+   "fuente": "IMG_1272.JPG (retoma con otra luz: IMG_1273)",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Borde superior:] […] DE ESPORA [calle existente, en negro; cotas de vértices 18.1 [?] y 18.3 [?] sobre la línea]",
+    "[Manzanas proyectadas en rojo, con ochavas; cotas:] 15 mts. · 80 mts. · 80 mts. · 80 mts. · 20 mts. [?] · 30 mts.",
+    "Calle de 15 mts. de ancho paralela a Rivadavia [dos veces]",
+    "Calle de 15 mts. de ancho paral[ela al Camino a Mendoza] [vertical]",
+    "[Una doble línea fina oblicua (SO-NE) cruza las manzanas sin respetarlas: ¿vía, zanja o línea de alta tensión? [?]]",
+    "[Signo en lápiz azul (dos bandas horizontales cruzadas en el centro) sobre una calle: marca posterior, sin leyenda [?]]"
+   ],
+   "interpretacion": "El proyecto no se adapta a lo existente: la cuadrícula roja de 80 m sigue la orientación de Rivadavia y es atravesada por una línea oblicua que no se corresponde con ninguna calle."
+  },
+  {
+   "titulo": "Sector central: Camino de Capital Federal a Mendoza y Av. 25 de Mayo",
+   "img": "img/v/V36/04.jpg",
+   "fuente": "IMG_1274.JPG (retoma: IMG_1275)",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "C A M I N O  D E  C A P I T A L  F E D E R A L  A  M E N D O Z A [en diagonal, entre dos líneas de puntos]",
+    "Calle de 15 mts. de ancho paralela a Rivadavia [en cada calle horizontal]",
+    "Calle de 15 mts. de ancho paralela al Camino a Mendoza [dos calles]",
+    "Calle de 15 mts. de ancho paralela a la Avenida 25 de Mayo",
+    "Avenida 25 de Mayo [vertical]"
+   ],
+   "interpretacion": "La cuadrícula se arma con tres familias de calles: paralelas a Rivadavia, al camino a Mendoza y a la Av. 25 de Mayo. Las manzanas que tocan el camino quedan como trapecios."
+  },
+  {
+   "titulo": "Sector SO: el «Camino General» y el borde del pueblo",
+   "img": "img/v/V36/05.jpg",
+   "fuente": "IMG_1276.JPG",
+   "nota": "Toma a 0°; mano del fotógrafo a la izquierda.",
+   "lineas": [
+    "[…]DES [?] · C A M I N O  G E N E R A L […] [en curva, al pie de la cuadrícula; el resto del nombre queda fuera de la toma]",
+    "Calle de 15 mts. de ancho paralela a Rivadavia [tres veces]",
+    "15 mts. · 80 mts. · 15 mts. · 80 mts. · 15 mts. · 80 mts. · 30 mts.",
+    "[Abajo a la derecha:] CALLE INTENDENTE GUEVARA [?]"
+   ],
+   "interpretacion": "El borde S del proyecto es un camino curvo rotulado «Camino General […]». La palabra a la izquierda termina en «-DES»: podría ser «[Merce]des», es decir un camino a Mercedes [?]."
+  },
+  {
+   "titulo": "Sector E: el pueblo existente",
+   "img": "img/v/V36/06.jpg",
+   "fuente": "IMG_1277.JPG (con IMG_1278-1280)",
+   "nota": "Tomas a 0°.",
+   "lineas": [
+    "CALLE ITUZAINGÓ · CALLE J. B. ETCHEVERRY [?] · Calle José Pichetto · CALLE LEANDRO N. ALEM · CALLE INTENDENTE GUEVARA",
+    "[1278:] CALLE LAVALLE · CALLE ITALIA · CALLE SAN LORENZO · CALLE ITUZAINGÓ · CALLE J. B. ETCHEVERRY",
+    "[1279:] AVENIDA ESPAÑA · CALLE LAVALLE · CALLE ITALIA · CALLE SAN LORENZO",
+    "[1280:] CALLE RIVADAVIA · CALLE FELIPE S. ESPIL · CALLE MAIPÚ · CALLE CHACABUCO · CALLE RAWSON",
+    "Calle de 15 mts. de ancho paralela a la Avenida 25 de Mayo · CAMINO DE [Capital Federal a Mendoza]",
+    "[Cotas de vértices de la poligonal urbana en las esquinas, p. ej. 11.81 [?], 42.15 [?]; contornos de edificios en negro]"
+   ],
+   "interpretacion": "En negro, el pueblo con las manzanas ya edificadas (contornos de casas). El proyecto en rojo se apoya en las calles existentes y prolonga hacia el O el sistema de Rivadavia."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Proyecto de manzanas en tierras de B. Pérez de Echandi (pieza 16)",
+   "img": "img/v/V36/02.jpg",
+   "fuente": "IMG_1272-1280",
+   "orientacion": "sin flecha de N a la vista; Rivadavia corre en horizontal, el Camino a Mendoza en diagonal",
+   "interpretacion": "La lámina superpone dos capas: el pueblo existente en negro, con calles nombradas y edificios, y el proyecto en rojo, una cuadrícula de manzanas de 80 m con calles de 15 m y avenidas de 30 m que ocupa el SO, del otro lado del Camino de Capital Federal a Mendoza. Por la camisa, es el proyecto para las tierras de Balbina M. Pérez de Echandi. El loteo «Ampliación al Sud» de esa propietaria se aprobó el 14/8/1936 (ficha 137): este plano sería un estudio previo o una variante [?].",
+   "referencias": [
+    [
+     "Línea roja continua con ochavas",
+     "manzanas proyectadas"
+    ],
+    [
+     "Línea negra",
+     "calles y edificios existentes"
+    ],
+    [
+     "Calle de 15 mts. paralela a Rivadavia / al Camino a Mendoza / a la Av. 25 de Mayo",
+     "tres familias de calles del proyecto"
+    ],
+    [
+     "30 mts.",
+     "avenida"
+    ],
+    [
+     "Signo azul",
+     "marca posterior sin leyenda [?]"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje urbano",
+   "texto": "El plano muestra el pueblo de los años treinta con un borde neto al O y al S: manzanas edificadas en negro y, más allá, tierras vacías que el proyecto llena con una cuadrícula ideal. El Camino de Capital Federal a Mendoza y un «Camino General […]» curvo son los únicos rasgos previos que el proyecto respeta."
+  },
+  {
+   "titulo": "Proceso administrativo",
+   "texto": "Es un proyecto, no una mensura: no hay medidas de la parcela ni linderos, sólo el módulo de la división (80 m + 15 m). La Municipalidad o Geodesia lo guardó en el Tomo 50 como referencia del trazado de calles."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Dibujo a tinta sobre una base del pueblo con las cotas de la poligonal urbana (las mismas de V24-V35). La capa roja es un trazado de gabinete, sin cotas de replanteo."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Sistema métrico: manzanas de 80 m, calles de 15 m, avenidas de 30 m. La manzana de 80 m es menor que las del pueblo viejo (≈ 86-87 m, 100 varas [?])."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "Tierras de Balbina M. Pérez de Echandi; V05 le da un remanente de 8,18 ha en 1929 y la ficha 137 el loteo «Ampliación al Sud» aprobado en 1936."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "V23 (índice: pieza 16); V05 (remanente de 8,18 ha, 1929); 137 (loteo aprobado 14/8/1936); V32 (prolongación de Rivadavia, 1935); V33 (Av. 25 de Mayo, 1934); V38 (Av. España, 1933)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "No se fotografió el rótulo, si lo hay. Falta el nombre completo del «Camino General […]». Queda por saber si la doble línea oblicua es una vía, una zanja o una línea eléctrica, y qué significa el signo azul. Hay que georreferenciar la cuadrícula roja contra el loteo aprobado en 1936."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Balbina M. Pérez de Echandi",
+   "rol": "Propietaria",
+   "texto": "Dueña de tierras al SO del pueblo. Tenía un remanente de 8,18 ha en 1929 (V05) y loteó la «Ampliación al Sud», aprobada el 14/8/1936 (ficha 137). Sin otros datos biográficos.",
+   "fuentes": "Camisa IMG_1281; V05; ficha 137; índice V23."
+  }
+ ],
+ "titulo": "Balbina M. Pérez de Echandi",
+ "estado": "Transcripta (5 hojas, 24 renglones), 1 lámina"
+}

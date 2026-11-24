@@ -1,0 +1,167 @@
+{
+ "carpeta": "V32",
+ "carpeta_nombre": "Varios V32",
+ "archivo": "Ficha V32 - Prolongación de la avenida Rivadavia (1935).docx",
+ "resumen": {
+  "Documento": "Tomo 50, pieza 10: cianotipo «Proyecto Prolongación Av. Rivadavia»",
+  "Propietario / solicitante": "Municipalidad [?]",
+  "Autor": "s. d. (San Andrés de Giles)",
+  "Agrimensor": "s. d.",
+  "Año": "junio de 1935",
+  "Escala": "1:2000",
+  "Ubicación": "Rivadavia al otro lado del Camino a Mendoza (borde del pueblo)",
+  "Linderos": "Camino a Mendoza; un camino oblicuo; 5 fracciones sin nombre",
+  "Rasgos": "Faja de 22 m en 5 tramos; total 9160,80 m²",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Carpeta 4 = Tomo 50, pieza 10"
+ },
+ "metricas": {
+  "superficie_ha": "0,916 (faja a afectar)",
+  "hitos": "eje de la avenida; cruce con el Camino a Mendoza",
+  "aguas": "—"
+ },
+ "sintesis": "Cianotipo «Proyecto · Prolongación Avenida “Rivadavia”», escala 1:2000, San Andrés de Giles, junio de 1935, sin firma: pieza 10 del Tomo 50. La avenida Rivadavia se prolonga desde el Camino a Mendoza (30 m de ancho) con una faja de 22 m que atraviesa en recta cinco fracciones y un camino oblicuo y al final dobla en ángulo. Cada tramo tiene su superficie: 1936; 932,80; 2871; 125,40 y 3295,60 m², 9160,80 m² en total. La suma y los largos (superficie ÷ 22 m) se verificaron. El plano no nombra a los dueños de las fracciones afectadas. Es la continuación hacia el campo del ensanche de Rivadavia de V26 (pieza 4).",
+ "caratula": {
+  "img": "img/v/V32/01.jpg",
+  "fuente": "IMG_1254.JPG (girada 180°)",
+  "campos": [
+   [
+    "Título",
+    "Proyecto · Prolongación Avenida «Rivadavia»"
+   ],
+   [
+    "Escala",
+    "1:2000"
+   ],
+   [
+    "Fecha",
+    "San Andrés de Giles, junio de 1935"
+   ],
+   [
+    "Ancho",
+    "22 m"
+   ],
+   [
+    "Superficie total",
+    "9160,80 m²"
+   ],
+   [
+    "Tomo / pieza",
+    "50 / 10"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Lámina completa: «Proyecto · Prolongación Avenida “Rivadavia”», 1:2000, junio de 1935",
+   "img": "img/v/V32/01.jpg",
+   "fuente": "IMG_1254.JPG",
+   "nota": "La toma está cabeza abajo; se exportó girada 180°. Verificado: la suma da 9160,80 m² y cada superficie dividida por 22 m da los largos rotulados (88; 42,40; 130,50; 149,80).",
+   "lineas": [
+    "[Toma a 0°, la lámina está cabeza abajo (se lee girada 180°). Cianotipo (líneas blancas sobre fondo azul), plegado y encuadernado en el tomo, con marco doble. La faja de la avenida proyectada está pintada en blanco (aguada). Letra de molde inclinada.]",
+    "— Proyecto · Prolongación Avenida «Rivadavia» —",
+    "— ESCALA 1:2000 —",
+    "— San Andrés de Giles, Junio de 1935. —",
+    "[Flecha del norte, abajo a la izquierda en la toma (arriba a la derecha en la lámina derecha):] N.",
+    "[Calle ancha, a la derecha de la lámina leída al derecho:] Camino a Mendoza [con su ancho:] 30 m. [y una flecha de sentido]",
+    "[Cotas sobre el camino:] 82,00 · 14,80",
+    "[Ángulos con el camino a Mendoza:] 92° 45′ · 87° 12′ [?]",
+    "[Un camino oblicuo que cruza la faja:] Camino",
+    "[Faja de la prolongación, de 22 m de ancho, en tramos:]",
+    "Superficie = 3295,60 m² [largo 149,80 [?] m; se lee «149,20»; 3295,60 ÷ 22 = 149,80]",
+    "Sup. = 125,40 m² [triángulo en el cruce del camino oblicuo]",
+    "Superficie = 2871 m² [largo 130,50]",
+    "Sup. = 932,80 [largo 42,40]",
+    "Sup. = 1936 m² [largo 88 m]",
+    "[En el extremo, la faja dobla en ángulo y sale oblicua, hacia el arroyo [?]; ángulo:] 64° 0[?]′",
+    "[Cotas de las fracciones que corta la faja:] 92,46 · 92,46 · 92,46 · 56,91 · 59,61 · 62,02 · 26,12 · 66,45 · 92,57 · ángulo 53° 30′ [?]",
+    "[Cuadro:]",
+    "Superficie 1936,00 m²",
+    "″ 932,80 ″",
+    "″ 2871,00 ″",
+    "″ 125,40 ″",
+    "″ 3295,60 ″",
+    "Sup. Total = 9160,80 m²"
+   ],
+   "interpretacion": "Cianotipo del proyecto de prolongar la avenida Rivadavia fuera de la planta urbana, desde el Camino a Mendoza (30 m de ancho). La faja proyectada, de 22 m de ancho y pintada en blanco, corta en línea recta cinco fracciones y un camino oblicuo, y al final dobla en ángulo hacia el SE [?]. Cada tramo lleva su superficie y el cuadro las suma: 1936 + 932,80 + 2871 + 125,40 + 3295,60 = 9160,80 m², lo que habría que expropiar o recibir en cesión."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Proyecto · Prolongación Avenida «Rivadavia» (1:2000, junio de 1935)",
+   "img": "img/v/V32/01.jpg",
+   "fuente": "IMG_1254.JPG",
+   "orientacion": "flecha del N hacia la esquina inferior izquierda de la toma original; leído girado 180°, el Camino a Mendoza queda a la derecha",
+   "interpretacion": "La faja de la avenida sale perpendicular al Camino a Mendoza (ángulo 92° 45′) y cruza fracciones rurales o de quintas de forma romboidal, separadas por líneas oblicuas paralelas de 92,46 m. Un camino oblicuo la corta en el segundo tramo (triángulo de 125,40 m²). En el extremo, la faja gira y sale en diagonal, quizá para empalmar con un camino existente [?].",
+   "referencias": [
+    [
+     "Camino a Mendoza",
+     "30 m de ancho; cotas 82,00 y 14,80"
+    ],
+    [
+     "Tramo 1",
+     "3295,60 m² (149,80 × 22 m)"
+    ],
+    [
+     "Tramo 2",
+     "125,40 m² (cruce del camino oblicuo)"
+    ],
+    [
+     "Tramo 3",
+     "2871 m² (130,50 × 22)"
+    ],
+    [
+     "Tramo 4",
+     "932,80 m² (42,40 × 22)"
+    ],
+    [
+     "Tramo 5",
+     "1936 m² (88 × 22), con quiebre de 64° [?]"
+    ],
+    [
+     "Sup. total",
+     "9160,80 m²"
+    ],
+    [
+     "92,46 · 56,91 · 59,61 · 62,02 · 26,12 · 66,45 · 92,57",
+     "lados de las fracciones afectadas"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje urbano",
+   "texto": "En 1935 la ciudad empieza a abrir sus avenidas hacia el campo: Rivadavia cruza el Camino a Mendoza (la futura Ruta 7) y entra en fracciones de quinta todavía sin lotear. El trazado recto contra parcelas oblicuas deja triángulos y retazos."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Proyecto de gabinete sobre un plano de mensura existente: superficies calculadas como largo por ancho. Verificado con python: la suma de los tramos da 9160,80 m² y cada superficie ÷ 22 m da el largo rotulado; el tramo 1 mide 149,80 m (no 149,20, que sería una mala lectura). Es un cianotipo, copia por contacto."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Metros, m² con decimales, ángulos en grados y minutos. Ancho de la avenida: 22 m, distinto de los 30 m del Camino a Mendoza y de los 30 m de la Av. 25 de Mayo (V33)."
+  },
+  {
+   "titulo": "Tenencia o uso",
+   "texto": "El plano no nombra propietarios: las cinco fracciones habrían de cederse o expropiarse. La superficie total afectada es de menos de una hectárea."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "Pieza 10 del índice del Tomo 50 (V23): «Proyecto Prolongación Avd. Rivadavia». V26 (pieza 4) es el ensanche de Rivadavia dentro del pueblo, de Rawson a la av. Lucas Scully; V35 (1933) muestra Rivadavia en la cuadrícula. El Camino a Mendoza es el de V12 y V19-V20 (Ruta 7). V33 es el proyecto paralelo para la Av. 25 de Mayo (1934)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Falta saber de qué lado del pueblo sale la prolongación (el Camino a Mendoza bordea el pueblo por el S [?]) y quiénes eran los dueños de las fracciones: habría que buscarlos en V24 o en las hojas catastrales. Dudas: el ángulo del quiebre final y las cotas 82,00 y 14,80."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "—",
+   "rol": "",
+   "texto": "El plano no nombra personas ni firmantes.",
+   "fuentes": "IMG_1254."
+  }
+ ],
+ "titulo": "Municipalidad [?]",
+ "estado": "Transcripta (1 hojas, 24 renglones), 1 lámina"
+}

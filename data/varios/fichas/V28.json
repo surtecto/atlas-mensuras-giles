@@ -1,0 +1,172 @@
+{
+ "carpeta": "V28",
+ "carpeta_nombre": "Varios V28",
+ "archivo": "Ficha V28 - Propiedad de Pedro B. Martínez, S. A. de Areco (1903).docx",
+ "resumen": {
+  "Documento": "Tomo 50, pieza 6: plano «Propiedad del Dr. Pedro B. Martínez»",
+  "Propietario / solicitante": "Dr. Pedro B. Martínez",
+  "Autor": "firma «F. Krauss [?]»",
+  "Agrimensor": "F. Krauss [?] (sin título en la firma)",
+  "Año": "1 de junio de 1903",
+  "Escala": "1/20 000 (escala gráfica 0-2000 m)",
+  "Ubicación": "Partido de San Antonio de Areco, margen E [?] del río Areco",
+  "Linderos": "her. Ciriaco Candia; Herrera, Herrera de Celio y de Rojo; Laplacette; Lares; Núñez",
+  "Rasgos": "F.C. Central Argentino en diagonal; 7 lotes + triángulo; puestos, ombú, colonia [?]",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Carpeta 4 = Tomo 50, pieza 6"
+ },
+ "metricas": {
+  "superficie_ha": "3243,57",
+  "hitos": "mojones K1-K7 y M VIII-M XXIX; puestos; ombú",
+  "aguas": "río Areco (ordenadas al río)"
+ },
+ "sintesis": "Copia, quizá heliográfica, de un plano firmado el 1 de junio de 1903 («F. Krauss [?]»), escala 1/20 000, de la propiedad del Dr. Pedro B. Martínez en el partido de San Antonio de Areco: 3243 ha 57 a 27,59 ca sobre el río Areco. Está dividida en siete lotes (1, 2, 2′ y 3 a 6) y un triángulo de 52 ha al SE. La cruza en diagonal el Ferrocarril Central Argentino (15,45 ha) y tiene un callejón de 8,57 ha. Linderos: herederos de Ciriaco Candia, los Herrera, Laplacette, los Lares y Anselmo Núñez. La suma de las partes da 3243,38 ha. Es la pieza 6 del índice del Tomo 50 («Prop. del Dr. Pedro B. Martínez»). El nombre coincide con el nieto de Gregorio de la Sota que recibió 45,9 ha en Giles en la partición de 1883 (126/131), pero aquí la escala de la propiedad es otra.",
+ "caratula": {
+  "img": "img/v/V28/01.jpg",
+  "fuente": "IMG_1246.JPG",
+  "campos": [
+   [
+    "Título",
+    "Propiedad del Dr. Pedro B. Martínez"
+   ],
+   [
+    "Partido",
+    "San Antonio de Areco"
+   ],
+   [
+    "Fecha",
+    "Junio 1 de 1903"
+   ],
+   [
+    "Firma",
+    "F. Krauss [?]"
+   ],
+   [
+    "Escala",
+    "1/20 000"
+   ],
+   [
+    "Superficie total",
+    "3243 ha 57 a 27,59 ca"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Plano: «Propiedad del Dr. Pedro B. Martínez, partido de San Antonio de Areco» (1/6/1903)",
+   "img": "img/v/V28/01.jpg",
+   "fuente": "IMG_1246.JPG",
+   "nota": "La suma de los siete lotes, el triángulo, el callejón y el F.C.C.A. da 3243,38 ha contra 3243,57 ha declaradas: una diferencia de 0,19 ha que puede ser un dígito mal leído.",
+   "lineas": [
+    "[Toma a 0°. Copia (heliográfica [?]) en papel, con marco de línea gruesa, plegada y encuadernada en el tomo; rótulos impresos en letra de molde y cifras en cursiva; manchas de humedad.]",
+    "PROPIEDAD",
+    "DEL",
+    "D.R PEDRO B. MARTÍNEZ",
+    "PARTIDO DE SAN ANTONIO DE ARECO",
+    "[Linderos, a tinta:] HEREDEROS DE CIRIACO CANDIA [N] · CARLOS HERRERA · I. HERRERA DE CELIO · E. HERRERA DE ROJO · E. LAPLACETTE [E] · MARTÍN J. LARES · FELIPE LARES · ANSELMO NÚÑEZ [S] · RÍO ARECO [O]",
+    "[Lotes:]",
+    "1 Sup. 432 h 23 a 34,09 [c]",
+    "2 Sup. 322 h 45 a 16,42 [c]",
+    "2′ Sup. 348 h 31 a 55,05 [?] [c]",
+    "3 Sup. 607 h 96 a 42,42 [c]",
+    "4 Sup. 294 h 78 a 38,50 [c]",
+    "5 Sup. 606 h 23 a 72,24 [c]",
+    "6 Sup. 555 h 25 a 17,10 [c]",
+    "[Triángulo al SE, cortado por un camino:] S = 52 h 12 a 88 [c]",
+    "Sup. total 3243 h 57 a 27,59 [c]",
+    "Sup. callejón: 8 h 56 a 98",
+    "Sup. F. C. C. A.: 15 h 44 a 73",
+    "[En diagonal, la vía:] [Ferrocarril] Central Argentino · [cotas sobre la vía:] 1386,48 · 3336,85 · 1571,7[.] · 3049,3[.] · 2073,[.]",
+    "[Caminos:] Camino de Duggan y Arrecifes [?] [NE] · Camino [S] · Camino a San … [?] … Rojas [?] [SE, cortando el triángulo de 52 ha]",
+    "[Sobre la línea del río:] N 36° 35′ 40″ E, 2670 [m] · N 36° 38′ 50″ [?] E, 1283 [m] · S 83° 24′ 20″ [E] 100 m [?] · 3952,6[.] [?] [con ordenadas al río cada 200 m [?]]",
+    "[Otras cotas:] 2500 m · c-d = 2654 [?] · d-e = 872 · 2808 · 1528 · 1286 · 2151 [?] · S 36° 29′ [?] · HP = 41,60 · 1556,30 [?] · 2828,60 [?] · N 30° 49′ 0″ · 7809 [?] m · S 36° 35′ 0″ [?]",
+    "[Mojones: K1-K7 a lo largo de los linderos; M VIII, M IX, M X, M XXI, M XXII, M XXVIII, M XXIX… con anotaciones «M. f. A.» [?].]",
+    "[Poblaciones dibujadas:] Puesto · Ombú · Casa [?] · Colonia [?] [junto al lote 2′] · Puesto",
+    "[Flecha del N magnético con la leyenda] N. V. [norte verdadero [?]]",
+    "Escala 1/20 000 [escala gráfica de 0 a 2000 m]",
+    "Junio 1 de 1903",
+    "[Firma:] F. Krauss [?]",
+    "[Arriba a la izquierda, a lápiz y tinta, al revés:] [anotaciones ilegibles; «25», «12», «15» [?]]"
+   ],
+   "interpretacion": "Copia de un plano de 1903 en escala 1/20 000 con la propiedad del Dr. Pedro B. Martínez en el partido de San Antonio de Areco: un rectángulo largo apoyado por el O en el río Areco, con 3243 ha 57 a 27,59 ca. Linderos: los herederos de Ciriaco Candia al N; Carlos Herrera, I. Herrera de Celio, E. Herrera de Rojo y E. Laplacette al E; Martín J. Lares, Felipe Lares y Anselmo Núñez al S. Lo cruza en diagonal el Ferrocarril Central Argentino (15 ha 44 a 73) y tiene un callejón (8 ha 56 a 98). Está dividido en siete lotes (1, 2, 2′, 3, 4, 5, 6) de 294 a 608 ha, más un triángulo de 52 ha 12 a 88 al SE que corta un camino. Hay puestos, un ombú y una «colonia [?]» dibujados. Fecha: «Junio 1 de 1903», con firma «F. Krauss [?]»."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Propiedad del Dr. Pedro B. Martínez, partido de San Antonio de Areco (1/6/1903)",
+   "img": "img/v/V28/01.jpg",
+   "fuente": "IMG_1246.JPG",
+   "orientacion": "flecha N. V. hacia abajo a la derecha (SE en la lámina); el río Areco a la izquierda",
+   "interpretacion": "Rectángulo de unos 7,8 km por 4 km, con el lado O contra el río Areco. Ese lado se midió con una línea recta y ordenadas al río (N 36° 35′ 40″ E, 2670 m, entre otras). Las divisiones internas forman tres lotes al O (1, 2′, 2) y cuatro al E (3, 4, 5, 6). El F.C. Central Argentino cruza en diagonal del SO al NE. Al NE pasa el «Camino de Duggan y Arrecifes [?]» y al SE otro camino corta un triángulo de 52 ha. Hay puestos, un ombú y un grupo de casas («Colonia [?]») en el lote 2′. Los mojones están numerados K1-K7 y M VIII-M XXIX, quizá con la numeración de una mensura general anterior.",
+   "referencias": [
+    [
+     "2′",
+     "348 h 31 a 55,05 ca [?]"
+    ],
+    [
+     "Triángulo SE",
+     "52 h 12 a 88 ca"
+    ],
+    [
+     "Callejón",
+     "8 h 56 a 98 ca"
+    ],
+    [
+     "F. C. C. A.",
+     "15 h 44 a 73 ca"
+    ],
+    [
+     "Total",
+     "3243 h 57 a 27,59 ca (suma verificada: 3243,38 ha)"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje rural",
+   "texto": "Es una gran estancia ribereña del río Areco, ya atravesada por el Ferrocarril Central Argentino. Las únicas construcciones son unos pocos puestos, un ombú como referencia y una «colonia» [?] de casas. Está dividida en lotes de 300 a 600 ha, quizá para venta, arriendo o partición; es el paso previo al loteo en chacras."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "El río se levantó con ordenadas desde una línea recta; los rumbos están al segundo y los lados en metros. Los mojones K y M en números romanos remiten a una mensura anterior. La flecha N. V. (¿norte verdadero?) indica la orientación. Se trata de una copia de presentación con rótulos impresos y la firma reproducida."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Hectáreas, áreas y centiáreas, con decimales. Verificado: los siete lotes, el triángulo, el callejón y el ferrocarril suman 3243,38 ha contra 3243,57 ha declaradas, una diferencia de 0,19 ha (0,006 %), atribuible a un dígito mal leído (lote 2′ o lote 1)."
+  },
+  {
+   "titulo": "Tenencia o uso",
+   "texto": "Un solo propietario, el Dr. Pedro B. Martínez, reúne más de 3200 ha en Areco en 1903. Los linderos son familias criollas (Candia, Herrera, Lares, Núñez) y Laplacette. El ferrocarril y el callejón se descuentan como superficies cedidas."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "Es la pieza 6 del índice del Tomo 50 (V23). Pedro B. Martínez, nieto de Gregorio de la Sota (sucesión tramitada con su viuda, Josefa Cots de La Sota [?]), recibió 459 140 m² en la partición del 29/3/1883 (126, 131). El triángulo de Josefa Cots de La Sota (126) está en la confluencia del río de Areco con el arroyo de Giles, contra O′Donnell. Esta propiedad de 1903 también se apoya en el río Areco, así que podría estar en la misma zona de límite y sería la razón de que esté en un tomo de Giles; falta verificarlo. El «Camino de Duggan» remite a la familia Duggan, lindera en varias mensuras de Giles (040, 041)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Falta confirmar la firma (¿F. Krauss?) y su título profesional. No se sabe si esta copia acompaña un expediente de Giles ni si la propiedad toca el límite Areco-Giles. Tampoco está confirmado que este Dr. Pedro B. Martínez sea el heredero de La Sota. Las cotas del río y algunos rumbos son de lectura insegura."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Dr. Pedro B. Martínez",
+   "rol": "Propietario",
+   "texto": "En 1883 recibe, como nieto de Gregorio de la Sota, una de las cuatro hijuelas de la sucesión: 459 140 m² (45,9 ha) en Giles (126, 131). En 1903 es dueño de 3243 ha en San Antonio de Areco. El título de doctor indica abogado o médico. La búsqueda web no dio datos.",
+   "fuentes": "Fichas 126, 131; V23 (índice); búsqueda web 22/11/2026 sin resultados."
+  },
+  {
+   "nombre": "F. Krauss [?]",
+   "rol": "Agrimensor o autor del plano",
+   "texto": "Firma autógrafa reproducida bajo la fecha. No figura en METODO.md. Sin datos.",
+   "fuentes": "IMG_1246."
+  },
+  {
+   "nombre": "Herederos de Ciriaco Candia; Carlos Herrera, I. Herrera de Celio, E. Herrera de Rojo; E. Laplacette; Martín J. y Felipe Lares; Anselmo Núñez",
+   "rol": "Linderos",
+   "texto": "Linderos de Areco en 1903. Ninguno figura en METODO.md.",
+   "fuentes": "Este plano."
+  }
+ ],
+ "titulo": "Dr. Pedro B. Martínez",
+ "estado": "Transcripta (1 hojas, 29 renglones), 1 lámina"
+}

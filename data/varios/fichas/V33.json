@@ -1,0 +1,330 @@
+{
+ "carpeta": "V33",
+ "carpeta_nombre": "Varios V33",
+ "archivo": "Ficha V33 - Prolongación de la Av. 25 de Mayo, terreno Molinari (1934).docx",
+ "resumen": {
+  "Documento": "Tomo 50, piezas 12 y 13 [?]: copia en papel y tela, Av. 25 de Mayo",
+  "Propietario / solicitante": "Municipalidad [?]; A. Molinari",
+  "Autor": "s. d.",
+  "Agrimensor": "s. d.",
+  "Año": "marzo de 1934",
+  "Escala": "1:500",
+  "Ubicación": "Av. 25 de Mayo entre L. N. Alem y N. Méndez, al S de la calle J. Pichetto",
+  "Linderos": "J. Pichetto de Gazzaniga, A. Molinari, N. Maturo, Rubbiero, Sobot, Schellino",
+  "Rasgos": "Avenida de 30 m; Capilla; Escuela N.º 3; terreno Molinari 7005,35 m²",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Carpeta 4 = Tomo 50, piezas 12-13 [?]"
+ },
+ "metricas": {
+  "superficie_ha": "0,70 (terreno Molinari); fracciones 0,54 + 0,17 + 0,10 + 0,01",
+  "hitos": "vértices 16, 17, 19 de la poligonal; campanario de la Capilla",
+  "aguas": "—"
+ },
+ "sintesis": "Plano de mensura a escala 1:500, marzo de 1934, del eje y la prolongación de la avenida 25 de Mayo (30 m) y de la calle Intendente Guillermo B. Guevara, en el borde E del pueblo, al S de la calle José Pichetto. Hay dos ejemplares: una copia en papel con la superficie del terreno de A. Molinari (7005 m² 35 dm²) y el asiento «F.º 51/935» (pieza 12, «Terreno de A. Molinari») y el original en tela (pieza 13 [?], «Estudio realizado»). La medición se apoya en la poligonal de vértices numerados y en la libreta de campo, con una visual al campanario de la Capilla. Calcula lo que la avenida toma a Juana Pichetto de Gazzaniga (5401,77 + 1007,89 + 115,57 m²), junto a la Capilla (1741,54) y a Molinari (20,77). Frentistas: Escuela N.º 3, Souhilar, D’Amico, Rubbiero, Sobot, Maturo.",
+ "caratula": {
+  "img": "img/v/V33/01.jpg",
+  "fuente": "IMG_1255.JPG",
+  "campos": [
+   [
+    "Rótulo",
+    "San Andrés de Giles"
+   ],
+   [
+    "Objeto",
+    "eje y prolongación de la Av. 25 de Mayo y de la calle Int. Guillermo B. Guevara"
+   ],
+   [
+    "Escala",
+    "1:500"
+   ],
+   [
+    "Fecha",
+    "marzo de 1934"
+   ],
+   [
+    "Terreno",
+    "A. Molinari, PRTUP = 7005 m² 35 dm²"
+   ],
+   [
+    "Tomo / piezas",
+    "50 / 12 y 13 [?]"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Copia en papel: prolongación de la Av. 25 de Mayo y terreno de A. Molinari (1:500, marzo de 1934)",
+   "img": "img/v/V33/01.jpg",
+   "fuente": "IMG_1255.JPG",
+   "nota": "Toma a 0°. Cierre del polígono PRTUP con las cotas leídas: 6938 m² y lado de cierre 97,52 m contra 7005,35 m² y 98,20 m declarados: cotas dudosas.",
+   "lineas": [
+    "[Toma a 0°. Copia heliográfica [?] en papel (líneas sepia), plegada y encuadernada en el tomo, con marco de esquinas redondeadas. A la izquierda asoma la camisa de papel, sin número legible. Es la misma lámina que la tela de IMG_1261, con dos agregados: la superficie del terreno de Molinari, a tinta, y un asiento de dominio a lápiz.]",
+    "SAN ANDRÉS DE GILES [rótulo en letras huecas, sin entintar]",
+    "[Frentistas al N de la calle José Pichetto, de O a E:] Vda. de Souhilar é hijos · ESCUELA N.º 3 María B. de Marino [?] · Vda. de Souhilar é hijos · José D'Amico",
+    "Calle JOSÉ PICHETTO",
+    "Línea 13-20. Lib. original 1, Pág. 67.–",
+    "[Al O:] R. Rubbiero · Pedro Sobot",
+    "Capilla [con una cruz, en la manzana entre José Pichetto y la prolongación]",
+    "Calle L. N. ALEM · Lib. original 1, Pág. 61.– · [vértice] (17)",
+    "Línea 16-18.",
+    "Calle Intendente Guillermo B. Guevara · PU = 62,74 [?]",
+    "[Terreno central:] PRTUP = 7005 m² 35 dm² · A. Molinari · [lápiz:] F.º 51/935 [?]",
+    "UT = 85,07 [?] · RT = 97,10 [?] · PR = 98,20 [?] · [ángulos] 87° 50′ 10″ [?] · 95° 08′ 15″ [?] · 112° 24′ 35″ [?]",
+    "Línea 19-29. Lib. original IV, Pág. 33.– · Calle Nicolás Méndez · N. Maturo",
+    "Sup. K-L-M-N-K = 1741,54 m²",
+    "Línea 17-19. Lib. original 1, Pág. 65.–",
+    "Visual al campanario de la Capilla",
+    "Sup. P-Q-G-O-P = 1007,89 m²",
+    "Sup. I-N-O-H-I = 115,57 m²",
+    "– Sup. Q-S-R-Q = 20,77 m² afectado por el proyecto de prolongación de la Avenida 25 de Mayo",
+    "[Ángulo en Q:] 64° 12′ 30″ [?]",
+    "Juana Pichetto de Gazzaniga [en tres renglones sobre la fracción al S]",
+    "J-G = 125,47 mts.",
+    "Línea eje de la Avenida 25 de Mayo",
+    "Sup. A-J-G-F-D-C-A = 5401,77 m²",
+    "A-C = 237,26 mts.",
+    "[Ancho de la avenida:] 15 mts. · 15 mts. · 30 mts.",
+    "Avenida 25 de Mayo · Línea 22-16. Lib. original 1, Pág. 56.– · [vértice] (16)",
+    "[Al SO:] Schellino · vereda · Camino General de Mercedes",
+    "[Remisiones de la poligonal en los bordes:] al 18 · al 20 · al 22 · al 53 · al 58 · [vértice] (19)",
+    "REFERENCIAS",
+    "– – – – Indican las líneas auxiliares de la medición.–",
+    "– · – · – Indican el eje y la prolongación de la Avenida 25 de Mayo y de la calle Intendente Guillermo B. Guevara.–",
+    "Marzo de 1934.–",
+    "ESCALA = 1:500.–"
+   ],
+   "interpretacion": "Plano de mensura para prolongar la avenida 25 de Mayo (30 m, 15 a cada lado del eje) y la calle Intendente Guillermo B. Guevara en el borde E del pueblo, al S de la calle José Pichetto. La poligonal de medición está referida a vértices numerados (16, 17, 19; remisiones al 18, 20, 22, 29, 53, 58) y a la libreta de campo («Lib. original 1, Pág. 56, 61, 65, 67»; «Lib. original IV, Pág. 33»). Se calculan las fracciones que la avenida toma a los dueños: Juana Pichetto de Gazzaniga (A-J-G-F-D-C-A = 5401,77 m²; P-Q-G-O-P = 1007,89; I-N-O-H-I = 115,57), K-L-M-N-K = 1741,54 m² junto a la Capilla, y Q-S-R-Q = 20,77 m² del terreno de A. Molinari. Esta copia agrega la superficie total del terreno de Molinari, PRTUP = 7005 m² 35 dm², y a lápiz «F.º 51/935»."
+  },
+  {
+   "titulo": "Detalle: extremo O (Av. 25 de Mayo, calle L. N. Alem)",
+   "img": "img/v/V33/03.jpg",
+   "fuente": "IMG_1256.JPG",
+   "nota": "Retoma.",
+   "lineas": [
+    "[Toma girada; sin texto nuevo: confirma «Avenida 25 de Mayo · Línea 22-16. Lib. original 1, Pág. 56», «del 22», «al 18», «Schellino», «vereda», «Camino General de Mercedes», «R. Rubbiero», «Pedro Sobot», el vértice (17) y los arcos de ángulos 85°, 179° 59′, 108° 19′ 50″ [?], 71° 20′ 10″ [?] en el punto K.]"
+   ],
+   "interpretacion": "Retoma girada del extremo O: el arranque de la avenida en la línea 22-16, el vértice 17 en Alem con los arcos de ángulos en K, y los frentistas R. Rubbiero, Pedro Sobot y Schellino, con el Camino General de Mercedes."
+  },
+  {
+   "titulo": "Detalle: centro (Capilla, calle Guevara)",
+   "img": "img/v/V33/04.jpg",
+   "fuente": "IMG_1257.JPG",
+   "nota": "Retoma.",
+   "lineas": [
+    "[Retoma; sin texto nuevo.]"
+   ],
+   "interpretacion": "Retoma sin texto nuevo."
+  },
+  {
+   "titulo": "Detalle: calle Guevara y terreno de Molinari",
+   "img": "img/v/V33/05.jpg",
+   "fuente": "IMG_1258.JPG",
+   "nota": "Retoma.",
+   "lineas": [
+    "[Retoma; sin texto nuevo.]"
+   ],
+   "interpretacion": "Retoma sin texto nuevo."
+  },
+  {
+   "titulo": "Detalle: calle Nicolás Méndez y referencias",
+   "img": "img/v/V33/06.jpg",
+   "fuente": "IMG_1259.JPG",
+   "nota": "Retoma.",
+   "lineas": [
+    "[Retoma; sin texto nuevo.]"
+   ],
+   "interpretacion": "Retoma sin texto nuevo."
+  },
+  {
+   "titulo": "Detalle: cuadro de referencias",
+   "img": "img/v/V33/07.jpg",
+   "fuente": "IMG_1260.JPG",
+   "nota": "Retoma.",
+   "lineas": [
+    "[Retoma; sin texto nuevo.]"
+   ],
+   "interpretacion": "Retoma sin texto nuevo."
+  },
+  {
+   "titulo": "Original en tela de la misma lámina (marzo de 1934)",
+   "img": "img/v/V33/02.jpg",
+   "fuente": "IMG_1261.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°. Tela a tinta negra, brillante, plegada y encuadernada a continuación de la copia en papel. Mismo dibujo, mismos rótulos y mismas referencias que IMG_1255, con la fecha «Marzo de 1934» y la «ESCALA = 1:500». No lleva la superficie «PRTUP = 7005 m² 35 dm²» ni el asiento a lápiz; el terreno sólo dice «A. Molinari». Remisiones «al 53», «al 20», «al 18», «al 29», «al 58».]"
+   ],
+   "interpretacion": "La tela a tinta de la que sale la copia de IMG_1255: mismas líneas, rótulos, superficies, referencias, fecha y escala, pero sin la superficie total del terreno de Molinari ni el asiento a lápiz. Por eso se interpreta como el «Estudio realizado en la prolongación de la Avd. 25 de Mayo» (pieza 13 [?]) y la copia anotada como la pieza 12, «Terreno de A. Molinari»."
+  },
+  {
+   "titulo": "Detalle de la tela: sector NO",
+   "img": "img/v/V33/08.jpg",
+   "fuente": "IMG_1262.JPG",
+   "nota": "Toma a 0°.",
+   "lineas": [
+    "[Toma a 0°; amplía IMG_1261.]",
+    "Vda. de Souhilar é hijos · ESCUELA N.º 3 María B. de Marino · Vda. de Souhilar é hijos · José D'Amico",
+    "[Cotas acumuladas sobre la línea 13-20:] 369,075 · 369,36 [?] · 382,745 · 383,365 [?] · 406,99 · 407,15 · 433,47 [?] · 452,795 · 463,84 [?] · 466,04 [?] · 468,275 · 471,95 · 477,27 [?] · 477,89 · 487,02 · 487,215 [?]",
+    "Calle JOSÉ PICHETTO · R. Rubbiero · Pedro Sobot · Capilla · Calle Intendente Guillermo B. Guevara · A. Molinari",
+    "Calle L. N. ALEM · Lib. original 1, Pág. 61.– · (17) · K · Línea 16-18.",
+    "[Arcos de ángulos en K:] 108° 19′ 50″ [?] · 71° 40′ 10″ [?] · 179° 59′ [?]",
+    "Visual al campanario de la Capilla",
+    "Sup. K-L-M-N-K = 1741,54 m² · Línea 17-19. Lib. original 1, Pág. 65.– · M · N · O · P",
+    "Juana Pichetto"
+   ],
+   "interpretacion": "Permite leer las cotas acumuladas de la línea 13-20 por la calle José Pichetto (369,075 a 487,215 m), los frentistas del N (Vda. de Souhilar e hijos, Escuela N.º 3, José D’Amico), la Capilla y la «visual al campanario de la Capilla» usada para orientar la medición."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Copia en papel con el terreno de A. Molinari (pieza 12)",
+   "img": "img/v/V33/01.jpg",
+   "fuente": "IMG_1255.JPG (detalles IMG_1256-1260)",
+   "orientacion": "sin flecha de N; la calle José Pichetto arriba, la Av. 25 de Mayo abajo, en diagonal de O a E",
+   "interpretacion": "La avenida 25 de Mayo, que dentro del pueblo es una calle más, se prolonga hacia el E con 30 m de ancho y en diagonal respecto de las manzanas. Corta la gran fracción de Juana Pichetto de Gazzaniga, roza la Capilla y llega al terreno de Molinari, entre las calles Guevara y Nicolás Méndez. La copia agrega la superficie total del terreno de Molinari: por eso sería la pieza 12 del índice.",
+   "referencias": [
+    [
+     "– – – –",
+     "líneas auxiliares de la medición"
+    ],
+    [
+     "– · – · –",
+     "eje y prolongación de la Av. 25 de Mayo y de la calle Int. Guillermo B. Guevara"
+    ],
+    [
+     "A-J-G-F-D-C-A",
+     "5401,77 m² (Juana Pichetto de Gazzaniga); A-C = 237,26 m; J-G = 125,47 m"
+    ],
+    [
+     "P-Q-G-O-P",
+     "1007,89 m²"
+    ],
+    [
+     "I-N-O-H-I",
+     "115,57 m²"
+    ],
+    [
+     "K-L-M-N-K",
+     "1741,54 m², junto a la Capilla"
+    ],
+    [
+     "Q-S-R-Q",
+     "20,77 m² del terreno de Molinari afectados por la prolongación"
+    ],
+    [
+     "Líneas 13-20, 16-18, 17-19, 19-29, 22-16",
+     "tramos de la poligonal, con página de la libreta original"
+    ],
+    [
+     "(16) (17) (19)",
+     "vértices de la poligonal"
+    ],
+    [
+     "PRTUP = 7005 m² 35 dm²",
+     "terreno de A. Molinari (PU 62,74; UT 85,07 [?]; RT 97,10 [?]; PR 98,20 [?])"
+    ],
+    [
+     "F.º 51/935 [?]",
+     "asiento de dominio a lápiz"
+    ]
+   ]
+  },
+  {
+   "titulo": "Original en tela (pieza 13 [?])",
+   "img": "img/v/V33/02.jpg",
+   "fuente": "IMG_1261.JPG (detalle IMG_1262)",
+   "orientacion": "igual que la copia",
+   "interpretacion": "El mismo dibujo sin la superficie de Molinari. Se ven mejor la Capilla, la Escuela N.º 3 y las cotas acumuladas de la línea 13-20 por la calle José Pichetto.",
+   "referencias": [
+    [
+     "– – – –",
+     "líneas auxiliares de la medición"
+    ],
+    [
+     "– · – · –",
+     "eje y prolongación de la Av. 25 de Mayo y de la calle Int. Guillermo B. Guevara"
+    ],
+    [
+     "A-J-G-F-D-C-A",
+     "5401,77 m² (Juana Pichetto de Gazzaniga); A-C = 237,26 m; J-G = 125,47 m"
+    ],
+    [
+     "P-Q-G-O-P",
+     "1007,89 m²"
+    ],
+    [
+     "I-N-O-H-I",
+     "115,57 m²"
+    ],
+    [
+     "K-L-M-N-K",
+     "1741,54 m², junto a la Capilla"
+    ],
+    [
+     "Q-S-R-Q",
+     "20,77 m² del terreno de Molinari afectados por la prolongación"
+    ],
+    [
+     "Líneas 13-20, 16-18, 17-19, 19-29, 22-16",
+     "tramos de la poligonal, con página de la libreta original"
+    ],
+    [
+     "(16) (17) (19)",
+     "vértices de la poligonal"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje urbano",
+   "texto": "En 1934 el borde E del pueblo, sobre la calle José Pichetto, tiene manzanas con frentistas (Souhilar, D’Amico, la Escuela N.º 3) y, al S, grandes fracciones sin lotear (Pichetto de Gazzaniga, Molinari) con una Capilla aislada. La prolongación diagonal de la 25 de Mayo es la que después llevará al camino a Mendoza."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Teodolito y cinta, con ángulos al segundo y distancias al milímetro, referidos a la poligonal urbana de vértices numerados (la misma base de V24 y V26). Las páginas de la «libreta original» (I y IV) muestran que la libreta de campo se conservaba y se citaba. Una «visual al campanario de la Capilla» orienta la medición. Verificado: con las cotas leídas el polígono de Molinari cierra en 97,52 m y 6938 m² contra 98,20 m y 7005,35 m² declarados: diferencia del 1 %, atribuible a la lectura de cotas borrosas."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Metros con tres decimales; superficie en m² y dm² («7005 m² 35 dm²»). Avenida de 30 m (15 + 15)."
+  },
+  {
+   "titulo": "Tenencia o uso",
+   "texto": "Juana Pichetto de Gazzaniga es la mayor afectada (≈ 6525 m² en tres fracciones). A. Molinari pierde 20,77 m²; su terreno se inscribe en 1935 [?] (F.º 51/935). La Capilla ocupa un lote propio dentro de la manzana."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "Piezas 12 («S. A. de Giles. Terreno de A. Molinari. Prolongación Av. 25 de Mayo») y 13 («Estudio realizado en la prolongación de la Avd. 25 de Mayo») del índice del Tomo 50 (V23); la 14 («″ ″») no se identificó. V02 y V24: Juana Pichetto de Gazzaniga (inscripción 11282/1910). V07 (hoja catastral 7): Escuela N.º 3 y una capilla [?] en lote sin inscribir (escritura de 1887), entre Lavalle y Nicolás Méndez: es la misma. V24 y V26: la poligonal con vértices numerados. V27: Pedro Sobot y R. Rubiero (Rubbiero) como frentistas en 1934. METODO.md: Molinari entre los ocupantes del borde urbano desde 1871 (060)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "No se transcribieron una por una las cotas acumuladas de la poligonal fuera de la línea 13-20. Dudas: «María B. de Marino» (directora de la Escuela N.º 3 [?]), los lados del polígono PRTUP, el asiento F.º 51/935 y la asignación de piezas 12 y 13 (podrían ser 13 y 14 si la copia y la tela están invertidas)."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Juana Pichetto de Gazzaniga",
+   "rol": "Propietaria afectada",
+   "texto": "Hija o heredera de José Pichetto [?]; dueña de la gran fracción al S de la calle José Pichetto (inscripción 11282/1910 en V24). La avenida le toma unos 6525 m².",
+   "fuentes": "Este plano; V02; V24."
+  },
+  {
+   "nombre": "A. Molinari",
+   "rol": "Propietario del terreno prtup",
+   "texto": "Terreno de 7005,35 m² entre Guevara y Nicolás Méndez, con asiento F.º 51/935 [?]. Un Molinari figura entre los ocupantes del borde urbano en 1871 (060) y una «L. [?] R. Molinari [?]» certifica una copia en 056.",
+   "fuentes": "Este plano; METODO.md."
+  },
+  {
+   "nombre": "Guillermo B. Guevara",
+   "rol": "Nombre de calle («intendente»)",
+   "texto": "Intendente municipal de San Andrés de Giles, de fecha no determinada; una Ángela Pichetto de Guevara figura en otra ficha (1913).",
+   "fuentes": "Este plano; METODO.md."
+  },
+  {
+   "nombre": "Vda. de Souhilar e hijos; José D’Amico; R. Rubbiero; Pedro Sobot; Schellino; N. Maturo; María B. de Marino [?]",
+   "rol": "Frentistas y vecinos",
+   "texto": "Vecinos del borde E en 1934. Souhilar, Sobot y Rubiero ya figuran en V27. Sin otros datos.",
+   "fuentes": "Este plano; V27."
+  }
+ ],
+ "titulo": "Municipalidad [?]; A. Molinari",
+ "estado": "Transcripta (8 hojas, 49 renglones), 2 láminas"
+}

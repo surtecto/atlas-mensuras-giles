@@ -1,0 +1,327 @@
+{
+ "carpeta": "V34",
+ "carpeta_nombre": "Varios V34",
+ "archivo": "Ficha V34 - Planilla de puntos fijos de nivelación (1932).docx",
+ "resumen": {
+  "Documento": "Tomo 50, pieza 14 bis: planilla de puntos fijos, Exp. S-1345-932",
+  "Propietario / solicitante": "Dirección de Hidráulica [?]",
+  "Autor": "Aux. técnico E. D. Ocampo [?]",
+  "Agrimensor": "s. d.",
+  "Año": "noviembre de 1932",
+  "Escala": "— (planilla)",
+  "Ubicación": "Esquinas de la planta urbana de San Andrés de Giles",
+  "Linderos": "—",
+  "Rasgos": "148 P.F.; cotas 41,276 a 49,768; cordones 0 a 1,44 m",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Carpeta 4 = Tomo 50, pieza 14 bis"
+ },
+ "metricas": {
+  "superficie_ha": "—",
+  "hitos": "148 puntos fijos (clavos, umbral, tornillo, marcas)",
+  "aguas": "pendiente general hacia el arroyo, al O"
+ },
+ "sintesis": "Planilla «San Andrés de Giles – Exp. S-1345-932»: puntos fijos de nivelación con sus cotas y la altura del cordón de la vereda bajo cada uno, según el Proyecto de Bonos de Pavimentación y su ampliación marcada en rojo. La Plata, noviembre de 1932, firmada por el auxiliar técnico E. D. Ocampo [?]. Es la pieza 14 bis del Tomo 50. Son 148 puntos en las esquinas: clavos en paredes y postes esquineros, marcas en cordones de asfalto ya hechos, un umbral y un tornillo. Las cotas van de 41,28 m junto al arroyo, al O (D. Hidalgo y B. Yrigoyen), a 49,77 m en Alem y Rawson, al E. Es el primer perfil del relieve del pueblo en el corpus y la base altimétrica del plano de afirmados de 1933 (V35).",
+ "caratula": {
+  "img": "img/v/V34/01.jpg",
+  "fuente": "IMG_1263.JPG",
+  "campos": [
+   [
+    "Título",
+    "San Andrés de Giles – Exp. S-1345-932"
+   ],
+   [
+    "Contenido",
+    "Planilla de Puntos Fijos de nivelación"
+   ],
+   [
+    "Proyecto",
+    "Bonos de Pavimentación y su ampliación en rojo"
+   ],
+   [
+    "Puntos",
+    "148 (1a-19a, 20-148)"
+   ],
+   [
+    "Fecha",
+    "La Plata, noviembre de 1932"
+   ],
+   [
+    "Tomo / pieza",
+    "50 / 14 bis"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Planilla de puntos fijos de nivelación, Exp. S-1345-932 (La Plata, noviembre de 1932)",
+   "img": "img/v/V34/01.jpg",
+   "fuente": "IMG_1263.JPG",
+   "nota": "Toma a 0°. Firma: E. D. Ocampo [?], según la nota de IMG_1271 (V35).",
+   "lineas": [
+    "[Toma a 0°. Hoja de papel milimetrado, plegada y encuadernada en el tomo; letra de normógrafo a tinta; tres columnas de tablas iguales. Firma manuscrita al pie.]",
+    "SAN ANDRÉS DE GILES – EXP. S-1345-932",
+    "Planilla de Puntos Fijos de nivelación, con sus cotas y diferencias de altura con los cordones de vereda, según Proyecto de Bonos de Pavimentación y su ampliación marcada en rojo en la copia adjunta",
+    "[Encabezados de cada tabla:] PUNTOS FIJOS · Numeración · Descripción y ubicación de los P.F. · Cotas · Alturas de los cordones bajo el P.F.",
+    "[Filas: número | descripción y ubicación | cota | altura del cordón bajo el P.F.]",
+    "1a | Clavo pared casa Chacabuco esq. Av. Scully | 45,795 | 0,49",
+    "2a | ″ ″ ″ Maipú ″ ″ | 45,022 | 1,02",
+    "3a | ″ ″ ″ 25 de Mayo ″ ″ | 43,619 | 0,42",
+    "4a | ″ ″ ″ Rivadavia ″ ″ | 43,265 | 0,46",
+    "5a | ″ ″ ″ San Martín ″ ″ | 42,384 | 0,58",
+    "6a | ″ ″ ″ 9 de Julio ″ ″ | 41,891 | 0,00",
+    "7a | ″ ″ ″ F.co Suero ″ 9 de Julio | 41,968 | 0,57",
+    "8a | ″ ″ ″ Dom.º Hidalgo ″ ″ | 42,685 | 0,88",
+    "9a | ″ ″ ″ Saavedra ″ ″ | 43,227 | 0,83",
+    "10a | ″ ″ ″ Sarmiento ″ ″ | 43,363 | 0,56",
+    "11a | ″ ″ ″ Moreno ″ ″ | 45,097 | 0,40",
+    "12a | ″ ″ ″ Belgrano ″ ″ | 45,836 | 0,34",
+    "13a | ″ ″ ″ Mitre ″ ″ | 45,764 | 0,06",
+    "14a | ″ ″ ″ Avellaneda ″ ″ | 46,191 | 0,79",
+    "15a | ″ ″ ″ Alsina ″ ″ | 46,652 | 0,75",
+    "16a | ″ ″ ″ Quintana ″ ″ | 46,684 | 0,88",
+    "17a | Clavo cordón vereda C. Pellegrini ″ ″ | 45,694 | 0,19",
+    "18a | ″ ″ ″ Urquiza ″ ″ | 45,240 | 0,44",
+    "19a | Clavo pared casa Rawson ″ ″ | 44,911 | 0,61",
+    "20 | ″ ″ ″ San Martín ″ Rawson | 46,068 | 0,37",
+    "21 | ″ ″ ″ Rivadavia ″ ″ | 47,429 | 0,63",
+    "22 | ″ ″ ″ 25 de Mayo ″ ″ | 47,310 | 0,31",
+    "23 | ″ ″ ″ Maipú ″ ″ | 48,134 | 0,73",
+    "24 | ″ ″ ″ Chacabuco ″ ″ | 48,554 | 0,75",
+    "25 | Umbral casa Rawson N.º 783 | 48,679 | 0,68",
+    "26 | Clavo pared casa Lavalle esq. Rawson | 49,314 | 1,11",
+    "27 | ″ ″ ″ Italia ″ ″ | 49,144 | 0,74",
+    "28 | ″ ″ ″ San Lorenzo ″ ″ | 49,028 | 0,07",
+    "29 | ″ ″ ″ Ituzaingó ″ ″ | 49,391 | 0,31",
+    "30 | ″ ″ ″ Alem ″ ″ | 49,768 | 0,57",
+    "31 | ″ ″ ″ Urquiza ″ Alem | 49,107 | 0,31",
+    "32 | Clavo poste esquinero Quintana ″ ″ | 48,996 | 0,35",
+    "33 | ″ ″ ″ Pellegrini ″ ″ | 48,962 | 0,41",
+    "34 | ″ ″ ″ Alsina ″ ″ | 48,904 | 0,50",
+    "35 | ″ ″ ″ Avellaneda ″ ″ | 48,740 | 0,68",
+    "36 | ″ ″ ″ Mitre ″ ″ | 48,759 | 0,58",
+    "37 | ″ ″ ″ Belgrano ″ ″ | 48,699 | 0,41",
+    "38 | Clavo pared casa Moreno ″ ″ | 49,164 | 0,69",
+    "39 | Clavo poste esquinero Sarmiento ″ ″ | 48,370 | 0,12",
+    "40 | ″ ″ ″ Saavedra ″ ″ | 48,225 | 0,35",
+    "41 | ″ ″ ″ Av. Scully ″ ″ | 47,784 | 0,28",
+    "42 | ″ ″ ″ Ituzaingó ″ Av. Scully | 47,855 | 0,45",
+    "43 | Clavo cordón vereda San Lorenzo ″ ″ | 47,408 | 0,11",
+    "44 | Clavo pared casa Italia ″ ″ | 47,700 | 0,85",
+    "45 | ″ ″ ″ Lavalle ″ ″ | 47,741 | 1,44",
+    "46 | ″ ″ ″ Saavedra ″ Ituzaingó | 48,000 | 0,30",
+    "47 | Clavo poste esquinero Sarmiento ″ ″ | 48,167 | 0,27",
+    "48 | ″ ″ ″ Moreno ″ ″ | 48,538 | 0,51",
+    "49 | Clavo pared casa Belgrano ″ ″ | 48,138 | 0,30",
+    "50 | Clavo poste esquinero Mitre ″ ″ | 47,875 | 0,45",
+    "51 | Clavo poste esquinero Avellaneda esq. Ituzaingó | 48,298 | 0,58",
+    "52 | ″ ″ ″ Alsina ″ ″ | 48,677 | 0,49",
+    "53 | Clavo pared casa Pellegrini ″ ″ | 48,793 | 0,12",
+    "54 | ″ ″ ″ Quintana ″ ″ | 48,992 | 0,19",
+    "55 | Clavo poste esquinero Urquiza ″ ″ | 49,389 | 0,44",
+    "56 | ″ ″ ″ ″ ″ S. Lorenzo | 49,513 | 0,71",
+    "57 | ″ ″ ″ Quintana ″ ″ | 48,988 | 0,27",
+    "58 | Clavo pared casa Pellegrini ″ ″ | 48,934 | 0,53",
+    "59 | ″ ″ ″ Alsina ″ ″ | 48,192 | 0,39",
+    "60 | ″ ″ ″ Avellaneda ″ ″ | 47,836 | 0,49",
+    "61 | ″ ″ ″ Mitre ″ ″ | 47,517 | 0,45",
+    "62 | ″ ″ ″ Belgrano ″ ″ | 47,554 | 0,65",
+    "63 | Clavo poste esquinero Moreno ″ ″ | 47,790 | 0,64",
+    "64 | Clavo pared casa Sarmiento ″ ″ | 47,637 | 0,29",
+    "65 | ″ ″ ″ Saavedra ″ ″ | 47,734 | 0,13",
+    "66 | ″ ″ ″ Dom.º Hidalgo ″ Italia | 47,535 | 0,53",
+    "67 | ″ ″ ″ Saavedra ″ ″ | 47,434 | 0,63",
+    "68 | ″ ″ ″ Sarmiento ″ ″ | 46,934 | 0,38",
+    "69 | ″ ″ ″ Moreno ″ ″ | 46,929 | 0,73",
+    "70 | ″ ″ ″ Belgrano ″ ″ | 46,959 | 0,46",
+    "71 | Clavo poste esquinero Mitre ″ ″ | 47,366 | 0,62",
+    "72 | ″ ″ ″ Avellaneda ″ ″ | 47,981 | 0,48",
+    "73 | Clavo pared casa Alsina ″ ″ | 48,583 | 0,63",
+    "74 | Clavo poste esquinero Pellegrini ″ ″ | 48,769 | 0,62",
+    "75 | Clavo pared casa Quintana ″ ″ | 49,485 | 1,08",
+    "76 | ″ ″ ″ Urquiza ″ ″ | 49,146 | 0,55",
+    "77 | Clavo poste esquinero Urquiza ″ Lavalle | 48,974 | 0,57",
+    "78 | Clavo pared casa Quintana ″ ″ | 48,820 | 0,27",
+    "79 | Clavo poste esquinero Pellegrini ″ ″ | 48,766 | 0,42",
+    "80 | ″ ″ ″ Alsina ″ ″ | 48,572 | 0,42",
+    "81 | ″ ″ ″ Avellaneda ″ ″ | 48,332 | 0,53",
+    "82 | Clavo pared casa Mitre ″ ″ | 47,685 | 0,58",
+    "83 | ″ ″ ″ Belgrano ″ ″ | 46,976 | 0,68",
+    "84 | ″ ″ ″ Moreno ″ ″ | 46,549 | 0,55",
+    "85 | ″ ″ ″ Sarmiento ″ ″ | 46,326 | 0,53",
+    "86 | Clavo poste esquinero Saavedra ″ ″ | 46,570 | 0,57",
+    "87 | Tornillo poste esquinero Dom.º Hidalgo ″ ″ | 46,897 | 0,40",
+    "88 | Clavo pared casa F.co Suero ″ Chacabuco | 45,860 | 0,76",
+    "89 | Clavo poste esquinero D. Hidalgo ″ ″ | 45,160 | 0,56",
+    "90 | ″ ″ ″ Saavedra ″ ″ | 45,396 | 0,50",
+    "91 | Clavo pared casa Sarmiento ″ ″ | 45,699 | 0,60",
+    "92 | ″ ″ ″ Moreno ″ ″ | 46,839 | 0,54",
+    "93 | ″ ″ ″ Belgrano ″ ″ | 47,344 | 0,74",
+    "94 | ″ ″ ″ Mitre ″ ″ | 47,923 | 1,02",
+    "95 | ″ ″ ″ Avellaneda ″ ″ | 48,334 | 0,63",
+    "96 | ″ ″ ″ Alsina ″ ″ | 48,367 | 0,57",
+    "97 | ″ ″ ″ Pellegrini ″ ″ | 48,459 | 0,46",
+    "98 | Clavo poste esquinero Quintana ″ ″ | 48,921 | 0,72",
+    "99 | Clavo pared casa Urquiza ″ ″ | 48,736 | 0,74",
+    "100 | Clavo pared casa Urquiza esq. Maipú | 48,626 | 0,83",
+    "101 | ″ ″ ″ Quintana ″ ″ | 48,596 | 0,60",
+    "102 | ″ ″ ″ Pellegrini ″ ″ | 48,371 | 0,57",
+    "103 | ″ ″ ″ Alsina ″ ″ | 48,162 | 0,56",
+    "104 | ″ ″ ″ Avellaneda ″ ″ | 48,092 | 0,79",
+    "105 | ″ ″ ″ Mitre ″ ″ | 47,782 | 0,68",
+    "106 | ″ ″ ″ Belgrano ″ ″ | 47,479 | 0,58",
+    "107 | ″ ″ ″ Moreno ″ ″ | 46,889 | 0,19",
+    "108 | ″ ″ ″ Sarmiento ″ ″ | 45,636 | 0,64",
+    "109 | ″ ″ ″ Saavedra ″ ″ | 45,008 | 0,41",
+    "110 | Clavo poste esquinero D. Hidalgo ″ ″ | 44,603 | 0,20",
+    "111 | Clavo pared casa F.co Suero ″ ″ | 44,557 | 0,36",
+    "112 | Clavo poste esquinero ″ ″ 25 de Mayo | 44,044 | 0,54",
+    "113 | ″ ″ ″ D. Hidalgo ″ ″ | 44,032 | 0,33",
+    "114 | Clavo pared casa Saavedra ″ ″ | 45,007 | 0,81",
+    "115 | Marca cordón vereda asfalto Sarmiento ″ ″ | 46,009 | —",
+    "116 | ″ ″ ″ ″ Moreno ″ ″ | 46,593 | —",
+    "117 | ″ ″ ″ ″ Belgrano ″ ″ | 47,121 | —",
+    "118 | ″ ″ ″ ″ Mitre ″ ″ | 47,390 | —",
+    "119 | ″ ″ ″ ″ Avellaneda ″ ″ | 47,538 | —",
+    "120 | ″ ″ ″ ″ Alsina ″ ″ | 47,890 | —",
+    "121 | ″ ″ ″ ″ Pellegrini ″ ″ | 48,040 | —",
+    "122 | Clavo pared casa Quintana ″ ″ | 48,386 | 0,19",
+    "123 | ″ ″ ″ Urquiza ″ ″ | 48,114 | 0,71",
+    "124 | ″ ″ ″ ″ ″ S. Martín | 46,443 | 0,24",
+    "125 | ″ ″ ″ Quintana ″ ″ | 47,024 | 0,22",
+    "126 | Marca cordón vereda asfalto Pellegrini ″ ″ | 47,023 | —",
+    "127 | ″ ″ ″ ″ Alsina ″ ″ | 47,160 | —",
+    "128 | ″ ″ ″ ″ Avellaneda ″ ″ | 47,066 | —",
+    "129 | ″ ″ ″ ″ Mitre ″ ″ | 46,896 | —",
+    "130 | ″ ″ ″ ″ Belgrano ″ ″ | 46,646 | —",
+    "131 | ″ ″ ″ ″ Moreno ″ ″ | 46,217 | —",
+    "132 | ″ ″ ″ ″ Sarmiento ″ ″ | 45,414 | —",
+    "133 | Clavo pared casa Saavedra ″ ″ | 44,592 | 0,79",
+    "134 | ″ ″ ″ D. Hidalgo ″ ″ | 43,108 | 0,51",
+    "135 | ″ ″ ″ F.co Suero ″ ″ | 42,675 | 0,67",
+    "136 | Clavo poste central ″ ″ B. Yrigoyen | 41,428 | 0,63",
+    "137 | Clavo pared casa D. Hidalgo ″ ″ | 41,276 | 0,28",
+    "138 | Clavo poste esquinero Saavedra ″ ″ | 41,893 | 0,59",
+    "139 | Clavo pared casa Sarmiento ″ ″ | 41,734 | 0,63",
+    "140 | ″ ″ ″ Moreno ″ ″ | 42,783 | 0,58",
+    "141 | Clavo poste esquinero Belgrano ″ ″ | 43,266 | 0,27",
+    "142 | ″ ″ ″ Mitre ″ ″ | 44,576 | 0,98",
+    "143 | ″ ″ ″ Avellaneda ″ ″ | 44,922 | 0,67",
+    "144 | ″ ″ ″ Alsina ″ ″ | 44,820 | 0,72",
+    "145 | ″ ″ ″ Pellegrini ″ ″ | 45,502 | 0,90",
+    "146 | Clavo pared casa Quintana ″ ″ | 44,923 | 0,72",
+    "147 | ″ ″ ″ Urquiza ″ ″ | 44,685 | 0,78",
+    "148 | Clavo poste esquinero Rawson ″ ″ | 44,136 | 0,74",
+    "[Llave al costado de los P.F. 115-121 y 126-132:] Las cotas de los P.F. son las de cordones de vereda definitivos ya construidos.",
+    "La Plata, Noviembre de 1932.",
+    "[Firma:] E. D. Ocampo [?] [la nota de IMG_1271 dice que la ampliación del Exp. S-1345-932 la firmó «el Aux. Técnico E. D. Ocampo, en noviembre de 1932»]"
+   ],
+   "interpretacion": "Planilla en papel milimetrado de 148 puntos fijos de nivelación (1a-19a y 20-148), casi todos en esquinas: clavos en paredes de casas, en postes esquineros o en cordones de vereda, un umbral (Rawson 783) y un tornillo. De cada punto da la cota y la altura del cordón de la vereda bajo el punto (de 0 a 1,44 m, media 0,54 m en 134 puntos). Los puntos 115-121 y 126-132 son marcas en cordones de asfalto ya construidos, sin altura. Los puntos recorren las calles en series: Av. Scully, 9 de Julio, Rawson, Alem, Ituzaingó, Italia, Lavalle, Chacabuco, Maipú, 25 de Mayo, San Martín y B. Yrigoyen. Las cotas van de 41,276 (D. Hidalgo y B. Yrigoyen, junto al arroyo, al O) a 49,768 (Alem y Rawson, al E): el pueblo sube unos 8,5 m de O a E."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Planilla de Puntos Fijos de nivelación (Exp. S-1345-932, noviembre de 1932)",
+   "img": "img/v/V34/01.jpg",
+   "fuente": "IMG_1263.JPG",
+   "orientacion": "—",
+   "interpretacion": "No es un plano sino la planilla que lo acompaña: cada punto fijo del plano de afirmados (V35) tiene aquí su descripción, su cota y la altura del cordón. Ordenados, los puntos dan perfiles de las calles: por Rawson la cota sube de 44,91 (9 de Julio) a 49,77 (Alem); por Maipú baja de 48,63 (Urquiza) a 44,56 (F.co Suero); por B. Yrigoyen está entre 41,28 y 45,50.",
+   "referencias": [
+    [
+     "1a-6a",
+     "Av. Scully"
+    ],
+    [
+     "7a-19a",
+     "calle 9 de Julio"
+    ],
+    [
+     "20-30",
+     "calle Rawson"
+    ],
+    [
+     "31-41",
+     "calle Alem"
+    ],
+    [
+     "42-45",
+     "Av. Scully"
+    ],
+    [
+     "46-55",
+     "calle Ituzaingó"
+    ],
+    [
+     "56-65",
+     "calle San Lorenzo"
+    ],
+    [
+     "66-76",
+     "calle Italia"
+    ],
+    [
+     "77-87",
+     "calle Lavalle"
+    ],
+    [
+     "88-99",
+     "calle Chacabuco"
+    ],
+    [
+     "100-111",
+     "calle Maipú"
+    ],
+    [
+     "112-123",
+     "calle 25 de Mayo"
+    ],
+    [
+     "124-135",
+     "calle San Martín"
+    ],
+    [
+     "136-148",
+     "calle B. Yrigoyen"
+    ],
+    [
+     "115-121, 126-132",
+     "marcas en cordones de asfalto «definitivos ya construidos»"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje urbano",
+   "texto": "La planilla da el relieve del pueblo: un plano inclinado que baja unos 8,5 m de E (Alem y Rawson, 49,8 m) a O (D. Hidalgo y B. Yrigoyen, 41,3 m), hacia el arroyo. Los puntos se clavan en paredes de casas y en postes esquineros: en 1932 muchas esquinas todavía tienen poste de alambrado y no edificio. Ya hay cordones de asfalto construidos en tramos de 25 de Mayo y San Martín."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Nivelación geométrica con nivel y mira, con cotas al milímetro, y una red de puntos fijos materializados (clavos, tornillo, umbral). La altura del cordón bajo el punto permite pasar de la cota del punto a la del cordón proyectado. Verificado con python: 148 filas; altura media del cordón 0,54 m (0 a 1,44 m, en 134 puntos con dato)."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Metros con tres decimales en las cotas y dos en las alturas. Las cotas (41-50 m) parecen referidas a un plano general [?], no al plano local del puente de 1918 (V29, cotas 7-10 m)."
+  },
+  {
+   "titulo": "Tenencia o uso",
+   "texto": "Documento de obra pública: el sistema de «Bonos de Pavimentación» financiaba los afirmados con bonos que pagaban los frentistas [?]. Nombra una sola casa por su número: Rawson 783."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "Pieza 14 bis del índice del Tomo 50 (V23). Es la planilla del mismo Exp. S-1345-932 citado en la nota del plano de afirmados de 1933 (V35, pieza 15), cuyos «P.F.» numerados coinciden. Los nombres de calles completan los de V30 y de las hojas catastrales V01-V09 (Av. Scully = Lucas Scully de V04 y V26)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Falta la «copia adjunta» con la ampliación en rojo. Hay que cargar los 148 puntos en el GIS sobre las esquinas para tener un modelo del relieve urbano de 1932 y compararlo con el actual. Dudas: la firma y el datum de las cotas."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "E. D. Ocampo [?]",
+   "rol": "Auxiliar técnico, dirección de hidráulica",
+   "texto": "Según la nota de V35 (IMG_1271), firmó en noviembre de 1932 la ampliación del Exp. S-1345-932; la firma de esta planilla es compatible. Un Hermenegildo Ocampo hace denuncias de tierra fiscal en 1930 (METODO.md), sin relación probada.",
+   "fuentes": "IMG_1263; IMG_1271; METODO.md."
+  }
+ ],
+ "titulo": "Dirección de Hidráulica [?]",
+ "estado": "Transcripta (1 hojas, 156 renglones), 1 lámina"
+}

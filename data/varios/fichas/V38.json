@@ -1,0 +1,155 @@
+{
+ "carpeta": "V38",
+ "carpeta_nombre": "Varios V38",
+ "archivo": "Ficha V38 - Trazado de la Av. España, ensanche (1933).docx",
+ "resumen": {
+  "Documento": "Tomo 50, pieza 18: cuaderno de planimetría, portada impresa y lámina 1 de 5",
+  "Propietario / solicitante": "Municipalidad de S. A. de Giles",
+  "Autor": "Municipalidad (sin firma a la vista)",
+  "Agrimensor": "s. d.",
+  "Año": "diciembre de 1933 [?] (último dígito dudoso)",
+  "Escala": "1:500",
+  "Ubicación": "Av. España, de Av. Scully a Av. 25 de Mayo; lámina 1: Rivadavia [?] a Sarmiento",
+  "Linderos": "—",
+  "Rasgos": "Eje definitivo; líneas de cordón y edificación; ensanche a 35 m",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Carpeta 4 = Tomo 50, pieza 18"
+ },
+ "metricas": {
+  "superficie_ha": "—",
+  "hitos": "puntos de la línea de edificación en cada esquina",
+  "aguas": "—"
+ },
+ "sintesis": "Pieza 18 del Tomo 50: cuaderno apaisado con portada impresa de la Municipalidad de San Andrés de Giles, «Trazado de la Av. España (Ensanche) de Av. Scully a la Av. 25 de Mayo», escala 1:500, «La planimetría consta de 5 láminas», diciembre de 1933 [?]. Sólo se fotografió la lámina 1 (calles Hidalgo, Saavedra y Sarmiento y, cortada a la izquierda, Rivadavia [?]). Fija el eje definitivo de la avenida y, a cada lado, la línea de cordones a 12,50 m y la de edificación definitiva a 17,50 m: una avenida de 35 m. La edificación actual está a 6,20-7,84 m del eje, es decir que la calle tenía unos 13-15 m. Hay anotaciones a lápiz (53,35 [?]; 7,50 + 5 = 12,50).",
+ "caratula": {
+  "img": "img/v/V38/01.jpg",
+  "fuente": "IMG_1287.JPG",
+  "campos": [
+   [
+    "Título",
+    "Municipalidad de San Andrés de Giles · Trazado de la Av. España (Ensanche) de Av. Scully a la Av. 25 de Mayo"
+   ],
+   [
+    "Escala",
+    "1:500"
+   ],
+   [
+    "Láminas",
+    "La planimetría consta de 5 láminas"
+   ],
+   [
+    "Lugar y fecha",
+    "San Andrés de Giles, diciembre de 1933 [?]"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Portada impresa",
+   "img": "img/v/V38/01.jpg",
+   "fuente": "IMG_1287.JPG",
+   "nota": "La toma está invertida; se publica rotada. A la derecha asoma el lomo del tomo, forrado con papel de diario.",
+   "lineas": [
+    "MUNICIPALIDAD / DE / SAN ANDRÉS DE GILES",
+    "[Tr]azado de la Av. España (Ensanche)",
+    "[d]e Av. Scully a la Av. 25 de Mayo",
+    "— Escala… 1:500 —",
+    "La planimetría consta de 5 láminas",
+    "San Andrés de Giles, Diciembre de 1933 [?]"
+   ],
+   "interpretacion": "Corresponde a la pieza 18 del índice del Tomo 50 (V23: «Municipalidad de San Andrés de Giles. Trazado de la Av. España (Ensanche)»). El último dígito del año parece un 3: la fecha coincide con la copia del plano general de afirmados de diciembre de 1933 (V35) [?]."
+  },
+  {
+   "titulo": "Lámina 1: Rivadavia [?], Hidalgo, Saavedra, Sarmiento",
+   "img": "img/v/V38/02.jpg",
+   "fuente": "IMG_1288.JPG",
+   "nota": "Toma a 0°; papel amarillento con marco; n.º 1 en círculo arriba a la derecha.",
+   "lineas": [
+    "[Calles transversales, de izq. a der.:] Riv[adavia] [?, cortada] · Hidalgo · Saavedra · Sarmiento",
+    "Línea de edificación definitiva",
+    "Línea de cordones definitiva",
+    "Línea de edificación actual [con la cota 83.35 [?]]",
+    "EJE DEFINITIVO DE LA AV. ESPAÑA",
+    "Línea de cordones definitiva",
+    "Línea de edificación definitiva",
+    "[Anchos, en metros:] 17.50 [?] · 35.00 · 17.50 [?] (a la izq.) · 5.00 + 12.50 · 12.50 + 5.00 (centro)",
+    "[Largos de cuadra sobre la edificación actual:] 83.00 · 83.85 [?] · 83.00 · 85.00 [?] · 80.60",
+    "[Ancho de las calles transversales:] 14.00 · 14.00",
+    "[Distancias del eje a la edificación actual en las esquinas:] 6.25 · 6.55 · 6.28 · 6.70 · 6.20 · 7.34 · 6.20 · 7.35 · 6.25 · 7.60",
+    "[Un edificio rayado, a 4.10 m de la línea, frente a Saavedra]",
+    "[Lápiz:] 53.35 [?] / 7.50 · 7.50 / 5 / 12.50"
+   ],
+   "interpretacion": "El ensanche lleva la calle a 35 m: 25 m de calzada entre cordones y 5 m de vereda a cada lado. Con la edificación actual a unos 6,2-7,8 m del eje, cada frentista pierde unos 10-11 m de fondo: la operación afecta a todas las casas de la calle. Comprobado: 2 × (12,50 + 5,00) = 35,00 m."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Trazado de la Av. España, lámina 1 de 5 (1:500)",
+   "img": "img/v/V38/02.jpg",
+   "fuente": "IMG_1288.JPG",
+   "orientacion": "sin flecha de N; la avenida en horizontal",
+   "interpretacion": "Planimetría de alineación: no hay parcelas ni dueños, sólo líneas. La lámina 1 cubre el tramo de Rivadavia [?] a Sarmiento. En V36 la «Avenida España» ya aparece rotulada en el pueblo, cerca de Lavalle e Italia.",
+   "referencias": [
+    [
+     "– · – · –",
+     "eje definitivo de la Av. España"
+    ],
+    [
+     "— — —",
+     "líneas de edificación y de cordones definitivas"
+    ],
+    [
+     "———",
+     "línea de edificación actual"
+    ],
+    [
+     "Rectángulo rayado",
+     "edificio existente"
+    ],
+    [
+     "○",
+     "puntos fijados en las esquinas"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje urbano",
+   "texto": "Hacia 1933 la futura Av. España es una calle de 13-15 m con casas sobre la línea. El proyecto la convierte en una avenida de 35 m, como la 25 de Mayo (30 m, V33)."
+  },
+  {
+   "titulo": "Proceso administrativo",
+   "texto": "Proyecto municipal de ensanche: fija la nueva línea de edificación que obliga a retirar los frentes al construir o a expropiar. Es parte del plan de avenidas y afirmados de 1933-1935 (V32-V35)."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Planimetría a 1:500 con cotas al centímetro, sobre la poligonal urbana. Portada impresa en tipografía de imprenta."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "Sistema métrico. Calles transversales de 14 m; cuadras de 80,60 a 85 m."
+  },
+  {
+   "titulo": "Tenencia",
+   "texto": "No se nombran frentistas en la lámina 1."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "V23 (índice: pieza 18); V36 («Avenida España» rotulada); V33 (Av. 25 de Mayo, 1934); V32 (prolongación de Rivadavia, 1935); V35 (plano general de afirmados, dic. 1933); V26 (alineación de Rivadavia hasta la Av. Lucas Scully)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Faltan las láminas 2-5. Hay que confirmar el año (¿1933?) y el nombre de la calle cortada a la izquierda de la lámina 1. ¿Se ejecutó el ensanche a 35 m?"
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "Lucas Scully",
+   "rol": "Nombre de la avenida",
+   "texto": "Heredero de la estancia de Santiago Scully (1249,21 ha sobre el arroyo de Giles, ficha 133). Lindero de Roca en 1899 (163). Da nombre a la avenida del borde del pueblo.",
+   "fuentes": "Fichas 133, 163; V04; V26."
+  }
+ ],
+ "titulo": "Municipalidad de S. A. de Giles",
+ "estado": "Transcripta (2 hojas, 19 renglones), 1 lámina"
+}

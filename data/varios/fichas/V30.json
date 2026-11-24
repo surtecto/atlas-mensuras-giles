@@ -1,0 +1,142 @@
+{
+ "carpeta": "V30",
+ "carpeta_nombre": "Varios V30",
+ "archivo": "Ficha V30 - Pueblo y ejido, manzanas con referencias (1934).docx",
+ "resumen": {
+  "Documento": "Tomo 50, pieza 8: «Pueblo y Ejido de San Andrés de Giles»",
+  "Propietario / solicitante": "Dir. de Geodesia / Municipalidad",
+  "Autor": "Dirección de Geodesia, Catastro y Mapa (gráfico)",
+  "Agrimensor": "s. d.",
+  "Año": "1934 (extensión levantada); lápiz rojo posterior [?]",
+  "Escala": "s. d.",
+  "Ubicación": "Planta urbana y ejido de San Andrés de Giles",
+  "Linderos": "—",
+  "Rasgos": "36 calles nombradas, vía y estación, arroyo al O; ≈ 130-150 manzanas con cruz roja",
+  "Referencia de archivo": "AHG PBA, Carpetas de Planos (Varios), Carpeta 4 = Tomo 50, pieza 8"
+ },
+ "metricas": {
+  "superficie_ha": "— (planta urbana y ejido)",
+  "hitos": "estación; mojón o vértice al NO [?]",
+  "aguas": "arroyo de Giles por el borde O y S"
+ },
+ "sintesis": "Gráfico «Pueblo y Ejido de San Andrés de Giles», de la extensión levantada en 1934 por la Dirección de Geodesia, Catastro y Mapa. Es la pieza 8 del Tomo 50, cuyo índice la llama «Manzanas cuyas referencias envió la Municipalidad», la misma frase que está escrita en lápiz rojo sobre el plano. Muestra la cuadrícula urbana con todos los nombres de calles, la vía férrea y la estación, el arroyo por el borde O y, al E, la faja alargada de quintas y chacras del ejido. Las cruces rojas marcan las manzanas, la mayoría del centro y del O, de las que la Municipalidad mandó datos de dominio o de frentistas: es el índice de un relevamiento catastral hecho con información municipal, antecedente de las hojas catastrales V01-V09.",
+ "caratula": {
+  "img": "img/v/V30/01.jpg",
+  "fuente": "IMG_1251.JPG",
+  "campos": [
+   [
+    "Título",
+    "Pueblo y Ejido de San Andrés de Giles"
+   ],
+   [
+    "Subtítulo",
+    "Gráfico de la extensión levantada en 1934"
+   ],
+   [
+    "Autor",
+    "Dirección de Geodesia, Catastro y Mapa"
+   ],
+   [
+    "Lápiz rojo",
+    "× Manzanas cuyas referencias envió la M.dad"
+   ],
+   [
+    "Tomo / pieza",
+    "50 / 8"
+   ]
+  ]
+ },
+ "folios": [
+  {
+   "titulo": "Lámina completa: «Pueblo y Ejido de San Andrés de Giles», extensión levantada en 1934",
+   "img": "img/v/V30/01.jpg",
+   "fuente": "IMG_1251.JPG",
+   "nota": "Toma a 0°. Sin escala, rosa de los vientos ni firma. Lápiz rojo posterior.",
+   "lineas": [
+    "[Toma a 0°. Copia heliográfica [?] (líneas pardas sobre papel amarillento) plegada en dos y encuadernada en el tomo, con marco doble. Letra de molde inclinada, hecha con normógrafo [?]. Agregados en lápiz rojo: el título manuscrito y cruces dentro de las manzanas. Sin escala, sin rosa de los vientos, sin firma.]",
+    "PUEBLO Y EJIDO",
+    "DE",
+    "…SAN ANDRÉS DE GILES…",
+    "GRÁFICO DE LA EXTENSIÓN",
+    "LEVANTADA EN 1934 POR LA",
+    "DIRECCIÓN DE GEODESIA CATASTRO Y MAPA",
+    "[Lápiz rojo, manuscrito:] × Manzanas cuyas referencias envió la M.dad [Municipalidad] –",
+    "[Calles de un sentido (columna izquierda, de N a S, rotuladas en el borde O de la cuadrícula):] F.co Suero · Dgo. Hidalgo · Saavedra · Sarmiento · Moreno · Belgrano · Gral. Mitre · Avellaneda · Alsina · C. Pellegrini · Quintana · Urquiza · Rawson · J. B. Etcheverry · José Pichetto · 25 de Mayo",
+    "[Calles del otro sentido (fila superior, de O a E):] Francia · Bern. Irigoyen · Nueve de Julio · San Martín · Rivadavia · Fpe. Sgo. Espil · Maipú · Chacabuco · España · Lavalle · Italia · [Estación Gilense [?], sobre la vía] · San Lorenzo · Ituzaingó · L. N. Alem · Guillermo B. Guevara [?] · Intendente Méndez · Nicolás Mancilla [?] · Cecilio Cucullu [?] · San Andrés",
+    "[Vía férrea en línea de trazos, de SO a NE, con la estación sobre ella:] Estación Gilense [?]",
+    "[Al SO, sobre la vía:] a Mercedes [?]",
+    "[Al NO, una recta gruesa con un círculo (mojón o vértice [?]); un curso de agua serpentea por el borde O del pueblo y sigue al S por la 25 de Mayo: el arroyo de Giles.]",
+    "[Las cruces rojas cubren la mayoría de las manzanas del centro y del O (unas 130-150 [?]); quedan sin cruz las del E (desde Ituzaingó / Alem) y la periferia.]",
+    "[Al E del pueblo, el ejido: una faja de quintas y chacras alargadas, divididas por caminos oblicuos, hasta un camino que cierra el dibujo; algunas con subdivisión en cuadrícula (loteos) cerca del pueblo.]"
+   ],
+   "interpretacion": "Gráfico de la planta urbana y del ejido hecho por la Dirección de Geodesia, Catastro y Mapa con lo levantado en 1934. La cuadrícula del pueblo lleva los nombres de todas las calles (16 en un sentido, de F.co Suero a 25 de Mayo; 20 en el otro, de Francia a San Andrés), la vía férrea con la estación y el arroyo por el borde O. Hacia el E se dibuja el ejido: una faja de quintas y chacras largas cortadas por caminos oblicuos. En lápiz rojo se cruzan las manzanas «cuyas referencias envió la Municipalidad»: casi todo el centro y el O del pueblo; quedan sin cruz las manzanas del E y la periferia. Es el plano índice de un relevamiento catastral municipal."
+  }
+ ],
+ "planos": [
+  {
+   "titulo": "Pueblo y Ejido de San Andrés de Giles, extensión levantada en 1934",
+   "img": "img/v/V30/01.jpg",
+   "fuente": "IMG_1251.JPG",
+   "orientacion": "sin flecha; la vía corre de SO a NE por el N del pueblo; el ejido se extiende a la derecha (E [?])",
+   "interpretacion": "El plano reduce el pueblo a su esqueleto de calles. La cuadrícula está girada respecto de la hoja, como en el plano de 1884 (V23, 137). Por el NO pasa la vía con la estación; un curso serpenteante (el arroyo de Giles) bordea el O y baja por la 25 de Mayo. Al E, la faja del ejido se divide en lonjas largas y oblicuas, algunas ya loteadas en cuadrícula cerca del pueblo. Las cruces rojas registran qué manzanas tienen ya información de la Municipalidad.",
+   "referencias": [
+    [
+     "× rojo",
+     "manzana cuyas referencias envió la Municipalidad"
+    ],
+    [
+     "Calles N-S (borde O)",
+     "F.co Suero, Dgo. Hidalgo, Saavedra, Sarmiento, Moreno, Belgrano, Gral. Mitre, Avellaneda, Alsina, C. Pellegrini, Quintana, Urquiza, Rawson, J. B. Etcheverry, José Pichetto, 25 de Mayo"
+    ],
+    [
+     "Calles E-O (borde N)",
+     "Francia, Bern. Irigoyen, Nueve de Julio, San Martín, Rivadavia, Fpe. Sgo. Espil, Maipú, Chacabuco, España, Lavalle, Italia, San Lorenzo, Ituzaingó, L. N. Alem, Guillermo B. Guevara [?], Intendente Méndez, Nicolás Mancilla [?], Cecilio Cucullu [?], San Andrés"
+    ],
+    [
+     "Estación Gilense [?]",
+     "rótulo sobre la vía"
+    ],
+    [
+     "a Mercedes [?]",
+     "extremo SO de la vía"
+    ]
+   ]
+  }
+ ],
+ "observaciones": [
+  {
+   "titulo": "Paisaje urbano",
+   "texto": "En 1934 el pueblo es una cuadrícula de unas 16 × 20 calles, más compacta al O (junto al arroyo y la estación) que al E. El ejido todavía es rural: chacras alargadas, caminos oblicuos y pocos loteos. La planta coincide con la de los planos de 1933-1934 del tomo (V35, V33)."
+  },
+  {
+   "titulo": "Técnica e instrumental",
+   "texto": "Es un gráfico, no una mensura: sin escala, sin cotas, dibujado con normógrafo y reproducido por heliografía [?]. Sirve como índice de trabajo: la información de cada manzana estaría en planillas o en las hojas catastrales."
+  },
+  {
+   "titulo": "Metrología",
+   "texto": "No hay medidas."
+  },
+  {
+   "titulo": "Tenencia o uso",
+   "texto": "Las cruces muestran que la Dirección de Geodesia arma el catastro del pueblo con datos que manda la Municipalidad (frentistas, dominio), manzana por manzana. El trabajo queda a medias: las manzanas del E no tienen cruz."
+  },
+  {
+   "titulo": "Cruces con otras fichas",
+   "texto": "Pieza 8 del índice del Tomo 50 (V23). Las hojas catastrales V01-V09 (c. 1938) son el producto terminado de este relevamiento. Los nombres de calles completan los de V23 y V26: aparecen Fpe. Sgo. Espil, Intendente Méndez, Guillermo B. Guevara (la calle «Intendente Guillermo B. Guevara» de V33) y, al E, nombres de vecinos (Mancilla, Cucullu [?]) que figuran como propietarios en las mensuras del siglo XIX (METODO.md: Ignacio Mancilla; Isidro y Simón Cucullu en 137)."
+  },
+  {
+   "titulo": "Estado y preguntas abiertas",
+   "texto": "Hay que comparar las manzanas con cruz con las hojas V01-V09 para ver si coinciden. Dudas: los nombres del extremo E de la fila de calles (escritura chica y torcida), el rótulo de la estación («Gilense» o «Giles») y el destino «a Mercedes» de la vía."
+  }
+ ],
+ "biografias": [
+  {
+   "nombre": "—",
+   "rol": "",
+   "texto": "El plano no nombra personas, salvo en los nombres de calles (Espil, Méndez, Guevara, Pichetto, Etcheverry, Mancilla [?], Cucullu [?]). Sin datos biográficos nuevos.",
+   "fuentes": "IMG_1251."
+  }
+ ],
+ "titulo": "Dir. de Geodesia / Municipalidad",
+ "estado": "Transcripta (1 hojas, 15 renglones), 1 lámina"
+}
