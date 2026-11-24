@@ -3,6 +3,7 @@
 Atlas histórico de consulta de las **191 carpetas de mensuras del partido de San Andrés de Giles** (Provincia de Buenos Aires), conservadas en el Archivo Histórico de Geodesia de la Provincia de Buenos Aires. Reúne en una sola página:
 
 - **Mapa temporal (1825–1925):** polígonos georreferenciados de las mensuras, registro gráfico de c. 1874, planta urbana de 1884, caminos, ferrocarril, tranvía y telégrafo, y el poblamiento dibujado en los planos (casas, puestos, arrendatarios, pulperías, taperas). Las mensuras se pueden colorear por año, por agrimensor, por edificación o según su subdivisión en el registro de 1874. La **imagen satelital actual** queda siempre debajo (también se puede cambiar a OpenStreetMap o quitar el fondo), y cada capa histórica tiene su propia barra de transparencia, igual que el fondo, para leer el territorio de hoy a través de las mensuras del siglo XIX.
+- **Planos georreferenciados sobre el terreno:** la imagen de cada plano de mensura rectificado (182 carpetas) puesta en su sitio real, con barra de transparencia y orden propio. Muestra el plano de la mensura seleccionada (recorte o hoja completa) o todos los recortes de la vista a la vez, para ver los solapes entre mensuras del siglo XIX. «Fundir el papel» deja solo la tinta sobre la imagen satelital. Cada ficha tiene el botón «Ver el plano sobre el terreno».
 - **Orden y consulta de capas:** cada capa tiene flechas ▲▼ para cambiar el orden de dibujo (la de arriba queda encima) y el orden se recuerda en el navegador. Al tocar cualquier punto del mapa, el panel lista **todas** las mensuras superpuestas en ese lugar (se resaltan juntas, ordenadas por año) y lo que hay en las demás capas visibles: parcela actual, parcela de 1874, pueblo 1884, caminos y puntos de poblamiento cercanos.
 - **Etiquetas por tema y por escala:** números de carpeta y titulares, nombres de caminos, estancias de 1884, poblamiento de los planos, nomenclatura de las parcelas actuales y propietarios del pueblo de 1884. Cada tema se activa por separado, aparece a partir de una escala y las etiquetas que se pisan se descartan, con prioridad para la capa que está más arriba.
 - **Carpetas:** carátula y plano de cada mensura, con visor de zoom y rotación, búsqueda y filtros.
@@ -35,6 +36,7 @@ La página carga sus datos con `fetch()`, así que **no funciona abriendo `index
 
 - `…/#m57` abre el mapa centrado en la mensura de la carpeta 57.
 - `…/#c57` abre el visor de carátula y plano de la carpeta 57.
+- `…/#g57` abre el mapa con el plano georreferenciado de la carpeta 57 superpuesto al terreno.
 - `…/#carpetas`, `#lecturas`, `#fuentes` abren cada sección.
 
 ## Estructura
@@ -50,6 +52,10 @@ img/c/NNN.jpg               carátula de cada carpeta (1000 px)
 img/p/NNN.jpg               plano de cada carpeta (1800 px)
 img/sprite_ct.jpg           miniaturas de carátulas (16 × 12 celdas)
 img/sprite_t.jpg            miniaturas de planos (16 × 12 celdas)
+img/g/NNN_h.webp            plano georreferenciado, hoja completa (EPSG:3857, ≤ 2400 px, fondo transparente)
+img/g/NNN_r.webp            plano georreferenciado, recorte: polígono de la mensura + 300 m
+data/planos_georef.json     esquinas (lat/lon) de cada imagen, resolución de origen y variantes descartadas
+tools/preparar_planos_georef.py  genera las imágenes a partir de los .img rectificados de 2012
 ```
 
 ## Capas y procesamiento

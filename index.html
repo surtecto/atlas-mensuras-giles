@@ -129,6 +129,10 @@ main{flex:1;min-height:0;position:relative}
 .lyr .opv{font:11px var(--f-mono);color:var(--muted);font-variant-numeric:tabular-nums}
 .lyr input[type=range]{grid-column:1/-1;width:100%;margin:0 0 .35rem;accent-color:var(--accent);height:14px}
 .layers{gap:.45rem}
+.pgx{grid-column:1/-1;display:grid;gap:.4rem;font-size:13px;color:var(--muted);margin:0 0 .5rem 1.45rem;padding:.45rem .6rem;border-left:2px solid var(--line);background:var(--paper);border-radius:0 6px 6px 0}
+.pgx label.in{display:flex;gap:.35rem;align-items:center;cursor:pointer;color:var(--ink)}.pgx label.in input{accent-color:var(--accent)}
+.pgx .st{font:11.5px/1.35 var(--f-mono);color:var(--muted)}
+.leaflet-pane .pgimg{image-rendering:auto}
 .sw{width:14px;height:10px;border-radius:2px;border:1px solid var(--line);flex:none}
 .legend{display:flex;flex-wrap:wrap;gap:.3rem .8rem;font:12px var(--f-mono);color:var(--muted)}
 .legend span{display:inline-flex;align-items:center;gap:.35rem}
@@ -557,7 +561,7 @@ window.atlasMap=map;
 
 /* Cada capa vive en su propio panel (pane) con su propio lienzo: así se puede cambiar el orden de dibujo.
    Ninguna capa captura el clic: un único inspector consulta TODAS las capas visibles en el punto tocado. */
-const OP={p24:.7,r1874:.75,actual:.85,mens:.45,cam:.95,pm:1,p84:1,urb:.7,partido:1};
+const OP={pg:.85,p24:.7,r1874:.75,actual:.85,mens:.45,cam:.95,pm:1,p84:1,urb:.7,partido:1};
 let LINE='#FFFFFF',HALO='#FFFFFF';
 function paneOpts(id){if(!map.getPane('pn-'+id)){const p=map.createPane('pn-'+id);p.style.pointerEvents='none'}
   return{pane:'pn-'+id,renderer:L.canvas({pane:'pn-'+id,padding:.3}),interactive:false}}
@@ -601,6 +605,50 @@ let P24=null,p24loading=null;
 function loadP24(){if(p24loading)return p24loading;
   p24loading=fetch('data/parcelas_2024.json').then(r=>r.json()).then(fc=>{P24=fc.features;p24.addData(fc);restyle('p24');renderLabels()});return p24loading}
 
+/* planos georreferenciados: imagen de cada plano rectificado (2012) puesta sobre el terreno; carga diferida */
+const PG={J:null,loading:null,mode:'sel',hoja:false,blend:true,lay:new Map(),N:182};
+try{const s=JSON.parse(localStorage.getItem('amg-pg')||'null');if(s){if(s.mode==='sel'||s.mode==='vista')PG.mode=s.mode;PG.hoja=!!s.hoja;PG.blend=s.blend!==false;if(typeof s.op==='number'&&s.op>=0&&s.op<=1)OP.pg=s.op}}catch(e){}
+const savePG=()=>{try{localStorage.setItem('amg-pg',JSON.stringify({mode:PG.mode,hoja:PG.hoja,blend:PG.blend,op:OP.pg}))}catch(e){}};
+paneOpts('pg');
+const pg=L.layerGroup();
+function loadPG(){if(PG.loading)return PG.loading;
+  PG.loading=fetch('data/planos_georef.json').then(r=>r.json()).then(j=>{PG.J=j;PG.N=Object.keys(j).length;updatePG();
+    const fo=$('#fichaOne');if(fo&&ACTIVE&&byN[ACTIVE])fo.innerHTML=fichaHTML(byN[ACTIVE],false)}).catch(()=>{PG.loading=null});return PG.loading}
+const pgRec=n=>PG.J&&PG.J[String(n)];
+const pgKind=r=>(PG.hoja||!r.r)?'h':'r';
+function pgWanted(){if(!PG.J||!LBYID.pg.on)return[];
+  if(PG.mode==='sel'){const r=pgRec(ACTIVE);return r?[[ACTIVE,pgKind(r)]]:[]}
+  const vb=map.getBounds(),c=map.getCenter(),out=[];
+  for(const k in PG.J){const r=PG.J[k],n=+k;if(!r.r)continue;const y=yearOf(n);if(y&&y>Y)continue;
+    const b=L.latLngBounds(r.r.b);if(!vb.intersects(b))continue;out.push([n,'r',b.getCenter().distanceTo(c)])}
+  return out.sort((a,b)=>a[2]-b[2]).slice(0,25)}
+function updatePG(){const P=map.getPane('pn-pg');P.style.mixBlendMode=PG.blend?'multiply':'normal';
+  const want=new Map(pgWanted().map(([n,k])=>[n+k,[n,k]]));
+  PG.lay.forEach((l,key)=>{if(!want.has(key)){pg.removeLayer(l);PG.lay.delete(key)}});
+  want.forEach(([n,k],key)=>{if(PG.lay.has(key))return;const r=pgRec(n)[k];
+    const l=L.imageOverlay(`img/g/${pad(n)}_${k}.webp`,r.b,{pane:'pn-pg',opacity:OP.pg,interactive:false,className:'pgimg',alt:`Plano de la carpeta ${n} georreferenciado`});
+    PG.lay.set(key,l);pg.addLayer(l)});
+  PG.lay.forEach(l=>l.setOpacity(OP.pg));
+  const st=$('#pg-st');if(st)st.textContent=pgStatus(want.size)}
+function pgStatus(k){if(!PG.J)return'Cargando la lista de planos…';
+  if(PG.mode==='vista')return k?`${k} recorte${k===1?'':'s'} en la vista${k===25?' (máximo 25: acercate para ver otros)':''}, hasta ${Y}.`:'Ningún plano en esta vista para el año elegido.';
+  if(!ACTIVE)return'Tocá una mensura en el mapa para ver su plano.';
+  const r=pgRec(ACTIVE);if(!r)return`Carpeta ${ACTIVE}: sin plano georreferenciado.`;
+  return`Carpeta ${ACTIVE} · ${pgKind(r)==='h'?'hoja completa':'recorte'} · ${String(r.m_px).replace('.',',')} m por píxel${r.nota?' · '+r.nota:''}`}
+function pgCtl(){return `<div class="pgx">
+  <div class="seg" id="pg-mode" role="group" aria-label="Qué planos mostrar"><button data-pm="sel" aria-pressed="${PG.mode==='sel'}">Mensura seleccionada</button><button data-pm="vista" aria-pressed="${PG.mode==='vista'}">Todas en la vista</button></div>
+  ${PG.mode==='sel'?`<div class="seg" id="pg-hoja" role="group" aria-label="Extensión del plano"><button data-ph="0" aria-pressed="${!PG.hoja}">Recorte</button><button data-ph="1" aria-pressed="${PG.hoja}">Hoja completa</button></div>`:''}
+  <label class="in"><input type="checkbox" id="pg-blend" ${PG.blend?'checked':''}>Fundir el papel (la tinta queda sobre el fondo)</label>
+  <span class="st" id="pg-st" aria-live="polite">${pgStatus(PG.lay.size)}</span></div>`}
+function bindPG(){$$('#pg-mode [data-pm]').forEach(b=>b.onclick=()=>{PG.mode=b.dataset.pm;savePG();renderLayerList();updatePG()});
+  $$('#pg-hoja [data-ph]').forEach(b=>b.onclick=()=>{PG.hoja=b.dataset.ph==='1';savePG();renderLayerList();updatePG()});
+  const c=$('#pg-blend');if(c)c.onchange=e=>{PG.blend=e.target.checked;savePG();updatePG()}}
+function showPG(n,hoja){const r=pgRec(n);if(!r)return;LBYID.pg.on=true;PG.mode='sel';if(hoja!=null)PG.hoja=hoja;savePG();
+  SEL=new Set([n]);ACTIVE=n;renderLayerList();applyYear();
+  map.flyToBounds(r[pgKind(r)].b,{padding:[40,40],maxZoom:15,duration:.6})}
+map.on('moveend',()=>{if(PG.mode==='vista'&&LBYID.pg.on)updatePG()});
+document.addEventListener('click',e=>{const b=e.target.closest('[data-pg]');if(b){showPG(+b.dataset.pg);if(window.innerWidth<=860)$('#map').scrollIntoView({behavior:'smooth',block:'start'})}});
+
 /* geometría para el inspector */
 const bbox=f=>{if(f._b)return f._b;let x0=1e9,y0=1e9,x1=-1e9,y1=-1e9;const g=f.geometry,cs=g.type==='Polygon'?[g.coordinates]:g.coordinates;
   cs.forEach(p=>p.forEach(r=>r.forEach(([x,y])=>{if(x<x0)x0=x;if(x>x1)x1=x;if(y<y0)y0=y;if(y>y1)y1=y})));return f._b=[x0,y0,x1,y1]};
@@ -617,20 +665,22 @@ const LAYERS=[
   {id:'p24',l:p24,on:true,t:'Parcelario actual 2024 (13.661 parcelas)',sw:'transparent',bd:'#7CF3FF'},
   {id:'urb',l:urb,on:false,t:'Pueblo y parcelas urbanas 1884 (488)',sw:'#8C9A6E'},
   {id:'actual',l:actual,on:false,t:'Nomenclatura catastral actual en el registro 1874',sw:'#9FD3FF'},
+  {id:'pg',l:pg,on:false,t:'Planos georreferenciados (182)',sw:'#D9C9A3'},
   {id:'mens',l:mens,on:true,t:'Mensuras AHG (190 polígonos)',sw:'--y1'},
   {id:'r1874',l:r1874,on:true,t:'Registro gráfico c. 1874 (429 parcelas)',sw:'transparent',bd:'#FFFFFF'},
 ];
 const LBYID={};LAYERS.forEach(x=>LBYID[x.id]=x);
 let ORDER=LAYERS.map(x=>x.id);
-try{const o=JSON.parse(localStorage.getItem('amg-order')||'null');if(Array.isArray(o)&&o.length===ORDER.length&&o.every(i=>LBYID[i]))ORDER=o}catch(e){}
+try{let o=JSON.parse(localStorage.getItem('amg-order')||'null');if(Array.isArray(o)){o=o.filter(i=>LBYID[i]);ORDER.forEach(i=>{if(!o.includes(i)){const k=o.indexOf('mens');k<0?o.push(i):o.splice(k,0,i)}});if(o.length===ORDER.length)ORDER=o}}catch(e){}
 function applyOrder(){ORDER.forEach((id,i)=>{map.getPane('pn-'+id).style.zIndex=600-i*10});try{localStorage.setItem('amg-order',JSON.stringify(ORDER))}catch(e){}}
 function renderLayerList(){
   $('#layers').innerHTML=ORDER.map((id,i)=>{const L0=LBYID[id];return `<div class="lyr"><label for="ly-${id}"><input type="checkbox" id="ly-${id}" ${L0.on?'checked':''}><span class="sw" style="background:${L0.sw.startsWith('--')?`var(${L0.sw})`:L0.sw};${L0.bd?`border-color:${L0.bd}`:''}"></span>${L0.t}</label>
   <span class="opv" id="ov-${id}">${Math.round(OP[id]*100)} %</span>
   <span class="mv"><button class="iconbtn" data-mv="${id}" data-d="-1" ${i===0?'disabled':''} aria-label="Subir la capa: ${L0.t}">▲</button><button class="iconbtn" data-mv="${id}" data-d="1" ${i===ORDER.length-1?'disabled':''} aria-label="Bajar la capa: ${L0.t}">▼</button></span>
-  <input type="range" id="op-${id}" min="0" max="100" value="${Math.round(OP[id]*100)}" aria-label="Transparencia: ${L0.t}"></div>`}).join('');
-  ORDER.forEach(id=>{const L0=LBYID[id];$('#ly-'+id).onchange=e=>{L0.on=e.target.checked;applyYear()};
-    $('#op-'+id).oninput=e=>{OP[id]=e.target.value/100;$('#ov-'+id).textContent=e.target.value+' %';restyle(id)}});
+  <input type="range" id="op-${id}" min="0" max="100" value="${Math.round(OP[id]*100)}" aria-label="Transparencia: ${L0.t}">${id==='pg'&&L0.on?pgCtl():''}</div>`}).join('');
+  ORDER.forEach(id=>{const L0=LBYID[id];$('#ly-'+id).onchange=e=>{L0.on=e.target.checked;applyYear();if(id==='pg'){renderLayerList();$('#ly-pg').focus()}};
+    $('#op-'+id).oninput=e=>{OP[id]=e.target.value/100;$('#ov-'+id).textContent=e.target.value+' %';restyle(id);if(id==='pg')savePG()}});
+  bindPG();
   $$('#layers [data-mv]').forEach(b=>b.onclick=()=>{const id=b.dataset.mv,i=ORDER.indexOf(id),j=i+(+b.dataset.d);if(j<0||j>=ORDER.length)return;
     [ORDER[i],ORDER[j]]=[ORDER[j],ORDER[i]];applyOrder();renderLayerList();renderLabels();const nb=$(`#layers [data-mv="${id}"][data-d="${b.dataset.d}"]`);if(nb&&!nb.disabled)nb.focus()})}
 
@@ -644,12 +694,13 @@ function restyle(id){
   if(!id||id==='urb')urb.setStyle({opacity:OP.urb,fillOpacity:OP.urb});
   if(!id||id==='partido')partido.setStyle({opacity:OP.partido});
   if(!id||id==='p24')p24.setStyle({opacity:OP.p24});
+  if(!id||id==='pg'||id==='mens')updatePG();
   if(SEL.size)mens.eachLayer(l=>{if(SEL.has(l.feature.properties.n))l.bringToFront()});
   mens.eachLayer(l=>{if(l.feature.properties.n===ACTIVE)l.bringToFront()});
 }
 function applyYear(){
   $('#yearLbl').textContent=Y;
-  LAYERS.forEach(L0=>{const has=map.hasLayer(L0.l);if(L0.on&&!has){L0.l.addTo(map);if(L0.id==='p24')loadP24()}if(!L0.on&&has)map.removeLayer(L0.l)});
+  LAYERS.forEach(L0=>{const has=map.hasLayer(L0.l);if(L0.on&&!has){L0.l.addTo(map);if(L0.id==='p24')loadP24();if(L0.id==='pg')loadPG()}if(!L0.on&&has)map.removeLayer(L0.l)});
   restyle();
   let n=0,ha=0,pob=0;
   G.mensuras.features.forEach(f=>{const p=f.properties;if(p.y&&p.y<=Y){n++;ha+=p.ha}});
@@ -834,7 +885,8 @@ function fichaHTML(c,inViewer){
   ${c.cam?`<div><p class="eyebrow">Trazas registradas desde esta mensura</p><div class="chips">${c.cam.map(x=>`<span class="chip">${esc(titleCase(x))}</span>`).join('')}</div></div>`:''}
   ${ix.sint?`<div class="prose"><p class="eyebrow">Síntesis de la ficha</p><p>${esc(ix.sint)}</p></div>`:''}
   ${c.ix?`<a class="iconbtn" style="text-decoration:none;color:inherit;justify-self:start" href="archivo.html#f${pad(c.n)}">Leer la ficha completa en el Archivo →</a>`:`<a class="iconbtn" style="text-decoration:none;color:inherit;justify-self:start" href="archivo.html#aportes">¿Sabés algo de este campo? Sumá un aporte →</a>`}
-  ${inViewer?'':`<button class="iconbtn" data-open="${c.n}" data-s="duo">Abrir carátula y plano ◀▶</button>`}`}
+  ${inViewer?'':`<button class="iconbtn" data-open="${c.n}" data-s="duo">Abrir carátula y plano ◀▶</button>`}
+  ${inViewer||!PG.J?'':pgRec(c.n)?`<button class="iconbtn" data-pg="${c.n}">Ver el plano sobre el terreno</button>${pgRec(c.n).nota?`<p class="note-s" style="margin:0">${esc(pgRec(c.n).nota)}</p>`:''}`:'<p class="note-s" style="margin:0">Sin plano georreferenciado.</p>'}`}
 function select(n,fly){const c=byN[n];if(!c)return;SEL=new Set([n]);ACTIVE=n;
   renderHere([n],[]);restyle('mens');renderLabels();
   let b=null;mens.eachLayer(l=>{if(l.feature.properties.n===n){b=b?b.extend(l.getBounds()):L.latLngBounds(l.getBounds().getSouthWest(),l.getBounds().getNorthEast())}});
@@ -986,6 +1038,7 @@ $('#fuentes').innerHTML=`
 <tr><td>Parcelas urbanas 1884</td><td class="num">${G.urbanas.features.length}</td><td>Planta del pueblo: propietario y tipo de ocupación (muro, alambrado, cerco, baldío).</td></tr>
 <tr><td>Caminos</td><td class="num">${G.caminos.features.length}</td><td>Caminos, ferrocarril, tranvía y telégrafo, con el año y la mensura que los registra.</td></tr>
 <tr><td>Poblamiento en mensuras</td><td class="num">${G.pmens.features.length}</td><td>Casas, puestos, arrendatarios, pulperías, taperas y otros hitos dibujados en los planos.</td></tr>
+<tr><td>Planos georreferenciados</td><td class="num">${PG.N}</td><td>Imagen de cada plano de mensura rectificado por J. P. Addesso en 2012 (archivos .img de ERDAS), reproyectada y puesta en su sitio. Dos versiones: la hoja completa y un recorte con el polígono de la mensura más 300 m. Ver «Procesamiento».</td></tr>
 <tr><td>Parcelario actual 2024</td><td class="num">13.661</td><td>Parcelas catastrales de ARBA (urbanas y rurales) con nomenclatura, partida, superficie y zona del Código de Ordenamiento Urbano. Se omitieron los titulares y domicilios.</td></tr>
 <tr><td>Estancias y puestos 1884</td><td class="num">${G.p1884.features.length}</td><td>Estancias, puestos, pulperías, postas y poblaciones del registro de 1884.</td></tr>
 </tbody></table></div>
@@ -998,6 +1051,7 @@ $('#fuentes').innerHTML=`
 <li>El índice de subdivisión cuenta las parcelas del registro 1874 que tienen más de la mitad de su superficie dentro de cada mensura.</li>
 <li>Se unificaron grafías de agrimensores: «EQUIA» se lee Eguía, «ISACH» se lee Ysach, «SHUSTER» y «CARLOS SCHUSTER» se agrupan como Schuster.</li>
 <li>Las carátulas fotografiadas apaisadas se rotaron a vertical. Los planos se muestran tal como fueron fotografiados; el visor permite girarlos.</li>
+<li>Planos georreferenciados: se partió de los planos rectificados en 2012 (un .img por carpeta, fotografías de la primera y la segunda visita al archivo). Los archivos no declaran sistema de coordenadas; por sus valores se asumió Gauss-Krüger faja 5, POSGAR 2007 (EPSG:5347), el mismo marco de las demás capas, y se reproyectaron a la proyección del mapa web. Se realzó el contraste (percentiles 1 a 99) porque las fotos salieron oscuras. El recorte toma el polígono de la mensura con 300 m de margen; la hoja completa se reduce a 2400 píxeles de lado. Cuando había varias versiones del mismo plano se tomó la más reciente (52 y 108). No hay plano rectificado para las carpetas 1, 14, 16, 39, 167, 169, 176, 177 y 178; las 122 y 125 no tienen polígono y solo muestran la hoja completa; el plano de la 137 («Ejido») no coincide con el polígono 137 del SIG (Casado) y también se muestra solo como hoja. «Fundir el papel» multiplica la imagen con el fondo: el papel claro desaparece y la tinta queda sobre la imagen satelital; con fondos oscuros conviene apagarlo. Enlace directo a un plano: <code>#g</code> seguido del número de carpeta (por ejemplo, #g150).</li>
 </ul>
 <h3>Advertencias</h3>
 <ul class="warns">
@@ -1011,10 +1065,13 @@ $('#fuentes').innerHTML=`
 
 /* ---------- inicio ---------- */
 let startTab='mapa';try{startTab=localStorage.getItem('amg-tab')||'mapa'}catch(e){}
-const h=location.hash.slice(1);
-if(/^m\d+$/.test(h)){show('mapa');select(+h.slice(1),true)}
-else if(/^c\d+$/.test(h)){openViewer(+h.slice(1),'duo')}
-else if(['mapa','carpetas','lecturas','fuentes'].includes(h))show(h);else if(h.startsWith('vis='))show('mapa');else show(startTab);
+function goHash(first){const h=location.hash.slice(1);
+  if(/^m\d+$/.test(h)){show('mapa');select(+h.slice(1),true)}
+  else if(/^g\d+$/.test(h)){const n=+h.slice(1);show('mapa');select(n,false);loadPG().then(()=>showPG(n))}
+  else if(/^c\d+$/.test(h)){openViewer(+h.slice(1),'duo')}
+  else if(['mapa','carpetas','lecturas','fuentes'].includes(h))show(h);else if(h.startsWith('vis='))show('mapa');else if(first)show(startTab)}
+goHash(true);addEventListener('hashchange',()=>goHash(false));
+loadPG();
 matchMedia('(prefers-color-scheme: dark)').addEventListener('change',()=>{legend();applyYear()});
 new MutationObserver(()=>{applyYear()}).observe(document.documentElement,{attributes:true,attributeFilter:['data-theme']});
 })();
